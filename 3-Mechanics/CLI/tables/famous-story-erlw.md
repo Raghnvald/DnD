@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Famous Story
+- "Famous Story"
 ---
 # Famous Story
 *Source: Eberron: Rising from the Last War p. 94* 
 
 **Famous Story**
-
-`dice: [](famous-story-erlw.md#^famous-story)`
 
 | dice: d6 | Famous Story |
 |----------|--------------|

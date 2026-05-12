@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Weretiger
+- "Weretiger"
 ---
-# [Weretiger](3-Mechanics\CLI\bestiary\monstrosity/weretiger-xmm.md)
+# [Weretiger](3-Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md)
 *Source: Monster Manual (2024) p. 326. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Weretiger
@@ -23,13 +23,11 @@ aliases:
 *Changed by the Power of the Tiger*
 
 - **Habitat.** Desert, Forest, Grassland  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids. Although they can transform at will or when their magical nature demands, many weretigers are nocturnal and transform into their bestial shapes at night. Some weretigers' transformations might also be tied to the crescent moon, seasons, or momentous events. Weretigers often view their abilities as a blessing or a family honor, and they use their shape-shifting abilities to defend something with historic importance. Roll on or choose a result from the Weretiger Wards table to inspire what a weretiger defends.
 
 **Weretiger Wards**
-
-`dice: [](weretiger-xmm.md#^weretiger-wards)`
 
 | dice: 1d4 | The Weretiger Protects A... |
 |-----------|-----------------------------|
@@ -63,34 +61,38 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
   - !!int "11"
 "speed": "30 ft., 40 ft. (tiger form only)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Common (can't speak in tiger form)"
 "cr": "4"
 "actions":
   - "desc": "The weretiger makes two attacks, using Scratch or Longbow in any combination.\
       \ It can replace one attack with a Bite attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing damage.\
-      \ If the target is a Humanoid, it is subjected to the following effect. *Constitution\
-      \ Saving Throw:* DC 13. *Failure:* The target is cursed. If the cursed target\
-      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Weretiger under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 12 (2d8 + 3) Piercing\
+      \ damage. If the target is a Humanoid, it is subjected to the following effect.\
+      \ *Constitution Saving Throw:* DC 13. *Failure:* The target is cursed. If the\
+      \ cursed target drops to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Weretiger under the DM's control and has 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).\
       \ *Success:* The target is immune to this weretiger's curse for 24 hours."
     "name": "Bite (Tiger or Hybrid Form Only)"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
+      \ damage."
     "name": "Scratch"
   - "desc": "*Ranged Attack Roll:* +4, range 150/600 ft. *Hit:* 11 (2d8 + 2) Piercing\
       \ damage."
     "name": "Longbow (Humanoid or Hybrid Form Only)"
 "bonus_actions":
-  - "desc": "The weretiger moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack).\
-      \ At the end of this movement, the weretiger can take the Hide action."
+  - "desc": "The weretiger moves up to its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).\
+      \ At the end of this movement, the weretiger can take the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action."
     "name": "Prowl (Tiger or Hybrid Form Only)"
   - "desc": "The weretiger shape-shifts into a Large tiger-humanoid hybrid or a Large\
       \ tiger, or it returns to its true humanoid form. Its game statistics, other\
@@ -99,7 +101,7 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/weretiger-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/weretiger-xmm.webp"
 ```
 ^statblock
 

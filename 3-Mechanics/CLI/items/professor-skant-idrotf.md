@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/item/rarity/rare
+aliases:
 - "Professor Skant"
 ---
 # Professor Skant
@@ -20,7 +20,7 @@ The professor orb owned by Vellynne Harpell and stolen by Nass Lantomir calls it
 - The history of Netheril (see the "Fate of Netheril" sidebar)  
 - Vampirism and the traits of vampires  
 - Rituals surrounding the making, bottling, and drinking of Elverquisst (a rare, ruby-colored elven liquor distilled from sunshine and rare summer fruits)  
-- The [tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) (see the Monster Manual)  
+- The [tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) (see the Monster Manual)  
 
 When making an Intelligence check to recall lore from any of its areas of expertise, the orb has a +9 bonus to its roll (including its Intelligence modifier).
 
@@ -28,6 +28,6 @@ Professor Skant takes the form of a smooth, solid, 5-pound sphere of smoky gray 
 
 Professor Skant can see and hear normally out to a range of 60 feet. Unlike most sentient items, the orb has no will of its own and can't initiate a conflict with the creature in possession of it.
 
-In addition to the knowledge it possesses, Professor Skant can cast the mage hand cantrip at will. It uses the spell only to transport itself. Its spellcasting ability is Intelligence.
+In addition to the knowledge it possesses, Professor Skant can cast the [mage hand](3-Mechanics/CLI/spells/mage-hand.md) cantrip at will. It uses the spell only to transport itself. Its spellcasting ability is Intelligence.
 
 *Source: Icewind Dale: Rime of the Frostmaiden p. 315*

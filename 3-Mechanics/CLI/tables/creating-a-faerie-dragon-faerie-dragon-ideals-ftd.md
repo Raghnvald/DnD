@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Faerie Dragon; Faerie Dragon Ideals
+- "Creating a Faerie Dragon; Faerie Dragon Ideals"
 ---
 # Creating a Faerie Dragon; Faerie Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 118* 
 
 **Faerie Dragon Ideals**
-
-`dice: [](creating-a-faerie-dragon-faerie-dragon-ideals-ftd.md#^faerie-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

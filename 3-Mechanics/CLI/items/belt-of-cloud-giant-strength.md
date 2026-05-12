@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Belt of Cloud Giant Strength"
 ---
 # Belt of Cloud Giant Strength

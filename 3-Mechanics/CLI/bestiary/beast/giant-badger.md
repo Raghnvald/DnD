@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Badger
+- "Giant Badger"
 ---
-# [Giant Badger](3-Mechanics\CLI\bestiary\beast/giant-badger.md)
+# [Giant Badger](3-Mechanics/CLI/bestiary/beast/giant-badger.md)
 *Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -33,26 +33,26 @@ aliases:
   - !!int "12"
   - !!int "5"
 "speed": "30 ft., burrow 10 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The badger has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The badger has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
   - "desc": "The badger makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-badger.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-badger.webp"
 ```
 ^statblock
 

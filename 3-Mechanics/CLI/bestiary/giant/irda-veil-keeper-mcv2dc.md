@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/giant/sorcerer
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/giant/sorcerer
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Irda Veil Keeper
+- "Irda Veil Keeper"
 ---
-# [Irda Veil Keeper](3-Mechanics\CLI\bestiary\giant/irda-veil-keeper-mcv2dc.md)
+# [Irda Veil Keeper](3-Mechanics/CLI/bestiary/giant/irda-veil-keeper-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 9*  
 
 Masters of their innate illusory powers, irda veil keepers protect their companions by weaving magical mirages that disorient foes. Rumors say that the most skilled irda veil keepers can keep entire enclaves hidden, guarding a community's inhabitants from the outside world for centuries.
@@ -46,25 +46,27 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-"condition_immunities": "charmed, frightened"
-"senses": "darkvision 60 ft., truesight 5 ft., passive Perception 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
+  \ 5 ft., passive Perception 17"
 "languages": "Common, Giant, Sylvan"
 "cr": "4"
 "actions":
   - "desc": "The veil keeper uses Augment Physicality, if available, and makes two\
       \ Mirage Flare attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 60 ft.,\
-      \ one target. *Hit:* 11 (2d6 + 4) radiant damage, and the target must succeed\
-      \ on a DC 14 Wisdom saving throw or be charmed by the veil keeper until the\
-      \ start of the veil keeper's next turn. While charmed in this way, a creature\
-      \ is incapacitated as it is beset by hypnotic, illusory visions."
+  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 60\
+      \ ft., one target. *Hit:* 11 (2d6 + 4) radiant damage, and the target must\
+      \ succeed on a DC 14 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by the veil keeper until the start of the veil keeper's next turn. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ in this way, a creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ as it is beset by hypnotic, illusory visions."
     "name": "Mirage Flare"
   - "desc": "For 1 minute, the veil keeper magically obscures it location, heightens\
       \ its physical ability, and increases in size, along with anything it is wearing\
@@ -72,7 +74,7 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
       \ disadvantage, it is Large, and it makes Strength and Dexterity saving throws\
       \ with advantage. If the veil keeper lacks the room to become Large, it attains\
       \ the maximum size possible in the space available. These augmentations end\
-      \ if the veil keeper is incapacitated."
+      \ if the veil keeper is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Augment Physicality (1/Day)"
   - "desc": "The veil keeper magically transforms to look and feel like a Medium Humanoid\
       \ it has seen. Any equipment the veil keeper is wearing or carrying isn't transformed,\
@@ -82,8 +84,11 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
     "name": "Change Shape (3/Day)"
   - "desc": "The veil keeper casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 14):\n\
-      \n**At will:** dancing lights, minor illusion\n\n**2/day each:** invisibility,\
-      \ major image, phantasmal force\n\n**1/day:** hallucinatory terrain (as an action)"
+      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [minor\
+      \ illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**2/day each:** [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)\n\
+      \n**1/day:** [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain.md)\
+      \ (as an action)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "If a creature that the veil keeper can see within 30 feet of itself is\
@@ -93,6 +98,6 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
     "name": "Obscuring Mist"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/irda-veil-keeper-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/irda-veil-keeper-mcv2dc.webp"
 ```
 ^statblock

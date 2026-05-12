@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Bands
+- "Bands"
 ---
 # Bands
 *Source: Bigby Presents: Glory of the Giants p. 36* 
 
 **Bands**
-
-`dice: [](bands-bgg.md#^bands)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

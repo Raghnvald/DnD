@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Doppelganger
+- "Doppelganger"
 ---
-# [Doppelganger](3-Mechanics\CLI\bestiary\monstrosity/doppelganger-xmm.md)
+# [Doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md)
 *Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Doppelganger
@@ -29,8 +29,6 @@ Doppelgangers are supernatural beings with the ability to shape-shift into any h
 A doppelganger's agenda might relate to its mysterious magical origins or to more mercenary goals. Roll on or choose a result from the Doppelganger Deceptions table to inspire a doppelganger's plot.
 
 **Doppelganger Deceptions**
-
-`dice: [](doppelganger-xmm.md#^doppelganger-deceptions)`
 
 | dice: 1d6 | The Doppelganger Schemes To... |
 |-----------|--------------------------------|
@@ -65,30 +63,30 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common plus three other languages"
 "cr": "3"
 "actions":
   - "desc": "The doppelganger makes two Slam attacks and uses Unsettling Visage if\
       \ available."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ during the first round of each combat), reach 5 ft. *Hit:* 11 (2d6 + 4) Bludgeoning\
-      \ damage."
+  - "desc": "*Melee Attack Roll:* +6 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ during the first round of each combat), reach 5 ft. *Hit:* 11 (2d6 + 4)\
+      \ Bludgeoning damage."
     "name": "Slam"
-  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 12, each creature in a 15-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the doppelganger that can see the doppelganger. *Failure:*\
-      \ The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Unsettling Visage (Recharge 6)"
-  - "desc": "The doppelganger casts [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+  - "desc": "The doppelganger casts [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
       \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 12).\n"
     "name": "Read Thoughts"
@@ -99,7 +97,7 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger-xmm.webp"
 ```
 ^statblock
 

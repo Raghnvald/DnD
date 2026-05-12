@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elise
+- "Elise"
 ---
-# [Elise](3-Mechanics\CLI\bestiary\npc/elise-vrgr.md)
+# [Elise](3-Mechanics/CLI/bestiary/npc/elise-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 143*  
 
 Dr. Mordenheim's supposed beloved and greatest achievement, Elise is a confused, frustrated soul who never wished for her current circumstances.
@@ -38,11 +38,11 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
 "speed": "30 ft."
 "damage_immunities": "cold; lightning; poison; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -64,6 +64,6 @@ Elise's heart has been replaced with the Unbreakable Heart. If this device is re
     "name": "Slam"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/elise-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/elise-vrgr.webp"
 ```
 ^statblock

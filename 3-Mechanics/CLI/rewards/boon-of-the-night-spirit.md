@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- Quelle/5e/dmg
-- Kompendium/reward/boon
+- ttrpg-cli/compendium/src/5e/dmg
+- ttrpg-cli/reward/boon
 aliases:
-- Boon of the Night Spirit
+- "Boon of the Night Spirit"
 ---
 # Boon of the Night Spirit
 
-While completely in an area of dim light or darkness, you can become [invisible](/3-Mechanics/CLI/conditions.md#Invisible) as an action. You remain [invisible](/3-Mechanics/CLI/conditions.md#Invisible) until you take an action or a reaction. 
+While completely in an area of dim light or darkness, you can become invisible as an action. You remain invisible until you take an action or a reaction. 
 
 *Source: Dungeon Master's Guide p. 232*

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Magic Item Special Features; Magic Item's History
+- "Magic Item Special Features; Magic Item's History"
 ---
 # Magic Item Special Features; Magic Item's History
 *Source: Dungeon Master's Guide (2024) p. 222* 
 
 **Magic Item's History**
-
-`dice: [](magic-item-special-features-magic-items-history-xdmg.md#^magic-items-history)`
 
 | dice: 1d8 | History |
 |-----------|---------|

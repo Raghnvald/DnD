@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Military Force Types
+- "Military Force Types"
 ---
 # Military Force Types
 *Source: Tasha's Cauldron of Everything p. 96* 
 
 **Military Force Types**
-
-`dice: [](military-force-types-tce.md#^military-force-types)`
 
 | dice: d6 | Military Organization |
 |----------|-----------------------|

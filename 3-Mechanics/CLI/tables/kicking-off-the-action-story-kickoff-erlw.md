@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Kicking Off the Action; Story Kickoff
+- "Kicking Off the Action; Story Kickoff"
 ---
 # Kicking Off the Action; Story Kickoff
 *Source: Eberron: Rising from the Last War p. 186* 
 
 **Story Kickoff**
-
-`dice: [](kicking-off-the-action-story-kickoff-erlw.md#^story-kickoff)`
 
 | dice: d6 | Event |
 |----------|-------|

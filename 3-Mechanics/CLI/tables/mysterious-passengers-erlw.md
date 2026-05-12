@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Mysterious Passengers
+- "Mysterious Passengers"
 ---
 # Mysterious Passengers
 *Source: Eberron: Rising from the Last War p. 238* 
 
 **Mysterious Passengers**
-
-`dice: [](mysterious-passengers-erlw.md#^mysterious-passengers)`
 
 | dice: d100 | Passenger |
 |------------|-----------|

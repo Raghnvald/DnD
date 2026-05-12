@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/heavy
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Plate of Knight's Fellowship"
 ---
 # Plate of Knight's Fellowship
@@ -21,7 +21,7 @@ aliases:
 
 This gleaming set of silver-and-gold plate armor never tarnishes.
 
-While wearing this armor, you can use a bonus action to summon the spirit of a warrior to your aid. The spirit's corporeal form manifests in an unoccupied space of your choice within 30 feet of you, and it uses the [knight](/3-Mechanics/CLI/bestiary/humanoid/knight.md) stat block. The spirit disappears when it drops to 0 hit points or after 1 minute, whichever comes first.
+While wearing this armor, you can use a bonus action to summon the spirit of a warrior to your aid. The spirit's corporeal form manifests in an unoccupied space of your choice within 30 feet of you, and it uses the knight stat block. The spirit disappears when it drops to 0 hit points or after 1 minute, whichever comes first.
 
 The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count but takes its turn immediately after yours. The spirit obeys your commands (no action required by you); if you don't issue any commands, the spirit takes the Dodge action and uses its movement to avoid danger.
 

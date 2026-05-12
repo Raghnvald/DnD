@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Glossary
+- "Glossary"
 ---
 # Glossary
 *Source: Explorer's Guide to Wildemount, p. 302* 
@@ -58,7 +58,7 @@ aliases:
 
 **Concord (Concordian**) refers to the Clovis Concord (and members of that particular faction).
 
-**Consecution** is the Kryn ritual of binding a soul to a [Luxon beacon](/3-Mechanics/CLI/items/luxon-beacon-egw.md), enabling the soul to be reborn in a new body when its previous body dies.
+**Consecution** is the Kryn ritual of binding a soul to a [Luxon beacon](3-Mechanics/CLI/items/luxon-beacon-egw.md), enabling the soul to be reborn in a new body when its previous body dies.
 
 **Corellon** is the god of spring, beauty, and the art.
 

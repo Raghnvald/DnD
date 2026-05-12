@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/trickery
-- new/domain/war
-aliases: 
-- The Mockery
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/deity/eberron
+- ttrpg-cli/domain/trickery
+- ttrpg-cli/domain/war
+aliases:
+- "The Mockery"
 ---
 # The Mockery
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Dark Six](/3-Mechanics/CLI/deities/img/erlw-the-dark-six.webp#symbol)
+![The Dark Six](3-Mechanics/CLI/deities/img/erlw-the-dark-six.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Dark Six

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/16
-- new/monster/size/huge
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/16
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant Skeleton
+- "Storm Giant Skeleton"
 ---
-# [Storm Giant Skeleton](3-Mechanics\CLI\bestiary\undead/storm-giant-skeleton-cm.md)
+# [Storm Giant Skeleton](3-Mechanics/CLI/bestiary/undead/storm-giant-skeleton-cm.md)
 *Source: Candlekeep Mysteries p. 208*  
 
 ```statblock
@@ -43,25 +43,27 @@ aliases:
 "damage_resistances": "cold"
 "damage_immunities": "lightning, poison, thunder"
 "condition_immunities": "exhaustion, poisoned"
+"gear":
+  - "greatsword"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "16"
 "actions":
   - "desc": "The giant makes two attacks with its greatsword or hurls two rocks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30\
-      \ (6d6 + 9) slashing damage plus 18 (4d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 30 (6d6 + 9) slashing damage plus 18 (4d8) necrotic damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +14 to hit, reach 60/240 ft., one target. *Hit:*\
       \ 35 (4d12 + 9) bludgeoning damage."
     "name": "Rock"
   - "desc": "The giant hurls a magical lightning bolt at a point it can see within\
       \ 500 feet of it. Each creature within 10 feet of that point must make a DC\
-      \ 15 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save,\
-      \ or half as much damage on a successful one."
+      \ 15 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed\
+      \ save, or half as much damage on a successful one."
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/storm-giant-skeleton-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/storm-giant-skeleton-cm.webp"
 ```
 ^statblock

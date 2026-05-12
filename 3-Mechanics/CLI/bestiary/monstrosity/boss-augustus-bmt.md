@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boss Augustus
+- "Boss Augustus"
 ---
-# [Boss Augustus](3-Mechanics\CLI\bestiary\monstrosity/boss-augustus-bmt.md)
+# [Boss Augustus](3-Mechanics/CLI/bestiary/monstrosity/boss-augustus-bmt.md)
 *Source: The Book of Many Things p. 82*  
 
 Augustus is a hulking human werewolf of few words. He shares leadership of the guild with Boss Delour and has a knack for planning heists. Guild members consider him a brutal but fair leader. Some perceptive guild members—like Kathra Bitterwind—have noticed he's become more reclusive recently, and when he does appear, he's restless.
@@ -59,27 +59,27 @@ Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag
       \ next turn. Augustus dies only if he starts his turn with 0 hit points and\
       \ doesn't regenerate."
     "name": "Regeneration"
-  - "desc": "Augustus wields a +2 Longsword."
+  - "desc": "Augustus wields a [+2 Longsword](3-Mechanics/CLI/items/2-weapon.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Augustus makes any combination of two Bite, Claw, or Magic Longsword\
       \ attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 26\
-      \ (5d8 + 4) piercing damage. If the target is a Humanoid, it must succeed on\
-      \ a DC 15 Constitution saving throw or be cursed with lycanthropy. While cursed\
-      \ in this way, the target retains its alignment, languages, and equipment but\
-      \ otherwise uses the werewolf stat block, excluding actions that require equipment\
-      \ the target doesn't have. During any night when there's a full moon in the\
-      \ sky, the target becomes an NPC under the DM's control and remains so until\
-      \ the night ends. A Remove Curse spell or similar magic ends this curse."
+      \ (5d8 + 4) piercing damage. If the target is a Humanoid, it must succeed\
+      \ on a DC 15 Constitution saving throw or be cursed with lycanthropy. While\
+      \ cursed in this way, the target retains its alignment, languages, and equipment\
+      \ but otherwise uses the werewolf stat block, excluding actions that require\
+      \ equipment the target doesn't have. During any night when there's a full moon\
+      \ in the sky, the target becomes an NPC under the DM's control and remains so\
+      \ until the night ends. A Remove Curse spell or similar magic ends this curse."
     "name": "Bite (Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21\
-      \ (5d6 + 4) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 16 Strength saving throw or have the prone condition."
+      \ (5d6 + 4) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 16 Strength saving throw or have the prone condition."
     "name": "Claw (Wolf or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 28\
-      \ (4d10 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 28 (4d10 + 6) slashing damage."
     "name": "Magic Longsword (Humanoid or Hybrid Form Only)"
 "bonus_actions":
   - "desc": "Augustus polymorphs into a wolf-humanoid hybrid, a wolf, or his humanoid\
@@ -91,6 +91,6 @@ Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag
     "name": "Cunning Action"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/boss-augustus-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/boss-augustus-bmt.webp"
 ```
 ^statblock

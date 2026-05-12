@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/3
-- new/monster/size/tiny
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Puppeteer Parasite
+- "Puppeteer Parasite"
 ---
-# [Puppeteer Parasite](3-Mechanics\CLI\bestiary\aberration/puppeteer-parasite-mcv1sc.md)
+# [Puppeteer Parasite](3-Mechanics/CLI/bestiary/aberration/puppeteer-parasite-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 11*  
 
 A puppeteer parasite looks like a rubbery amoeba the size of a dinner plate. Its dorsal surface is soft and glossy, while its ventral surface is lined with bony hooks. The parasite uses its hooks to attach to a wall or ceiling until suitable prey passes nearby.
@@ -42,35 +42,38 @@ A parasite that comes in physical contact with a Humanoid uses its hooks to latc
   - "constitution": !!int "6"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "fire, necrotic, poison"
-"condition_immunities": "charmed, frightened, poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": "telepathy 30 ft."
 "cr": "3"
 "traits":
   - "desc": "The parasite doesn't require air or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 12\
-      \ (3d6 + 2) necrotic damage, and the parasite attaches to the target. While\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 12 (3d6 + 2) necrotic damage, and the parasite attaches to the target. While\
       \ attached, the parasite can't make Cling attacks. The parasite can detach itself\
       \ by spending 5 feet of its movement. As an action, a creature within reach\
       \ of the parasite can try to detach it, doing so with a successful DC 14 Strength\
       \ check."
     "name": "Cling"
-  - "desc": "The parasite deals 12 (3d6 + 2) necrotic damage to one creature it is\
-      \ physically attached to, provided that creature isn't a Construct or an Undead.\
-      \ The parasite regains hit points equal to the damage taken."
+  - "desc": "The parasite deals 12 (3d6 + 2) necrotic damage to one creature it\
+      \ is physically attached to, provided that creature isn't a Construct or an\
+      \ Undead. The parasite regains hit points equal to the damage taken."
     "name": "Consume Life"
 "bonus_actions":
-  - "desc": "The parasite casts the suggestion spell, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability (spell save DC 13)."
+  - "desc": "The parasite casts the [suggestion](3-Mechanics/CLI/spells/suggestion.md)\
+      \ spell, requiring no spell components and using Intelligence as the spellcasting\
+      \ ability (spell save DC 13)."
     "name": "Suggestion (Psionics; 1/Day)"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/puppeteer-parasite-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/puppeteer-parasite-mcv1sc.webp"
 ```
 ^statblock

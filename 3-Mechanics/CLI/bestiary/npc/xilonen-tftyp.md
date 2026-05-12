@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xilonen
+- "Xilonen"
 ---
-# [Xilonen](3-Mechanics\CLI\bestiary\npc/xilonen-tftyp.md)
+# [Xilonen](3-Mechanics/CLI/bestiary/npc/xilonen-tftyp.md)
 *Source: Tales from the Yawning Portal p. 83*  
 
 ```statblock
@@ -34,11 +34,12 @@ aliases:
   - !!int "6"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
@@ -62,15 +63,16 @@ aliases:
       \ (4d8 + 4) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:*\
-      \ The target is grappled (escape DC 15). Until the grapple ends, the target\
-      \ is restrained and has disadvantage on Strength checks and Strength saving\
-      \ throws, and Xilonen can't use the same tendril on another target."
+      \ The target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape\
+      \ DC 15). Until the grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ and has disadvantage on Strength checks and Strength saving throws, and Xilonen\
+      \ can't use the same tendril on another target."
     "name": "Tendril"
-  - "desc": "Xilonen pulls each creature grappled by it up to 25 feet straight toward\
-      \ it."
+  - "desc": "Xilonen pulls each creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it up to 25 feet straight toward it."
     "name": "Reel"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/xilonen-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/xilonen-tftyp.webp"
 ```
 ^statblock

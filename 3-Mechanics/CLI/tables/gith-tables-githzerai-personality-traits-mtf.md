@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githzerai Personality Traits
+- "Gith Tables; Githzerai Personality Traits"
 ---
 # Gith Tables; Githzerai Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githzerai Personality Traits**
-
-`dice: [](gith-tables-githzerai-personality-traits-mtf.md#^githzerai-personality-traits)`
 
 | dice: d4 | Trait |
 |----------|-------|

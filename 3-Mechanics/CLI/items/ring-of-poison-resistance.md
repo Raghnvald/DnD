@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Poison Resistance"
 ---
 # Ring of Poison Resistance

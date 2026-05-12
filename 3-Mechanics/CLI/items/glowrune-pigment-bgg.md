@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Glowrune Pigment"
 ---
 # Glowrune Pigment
@@ -13,7 +13,7 @@ aliases:
 
 
 
-This set of `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) small paint pots contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint.
+This set of `1d4 + 2` small paint pots contains pigments mixed from crushed luminescent gemstones. This magical paint bestows temporary magical gifts on creatures with runes drawn on their skin with this paint.
 
 One paint pot contains enough pigment to paint one rune. A creature can spend 10 minutes to paint one of the following runes onto itself or another creature:
 
@@ -27,7 +27,7 @@ The painted creature gains 10 temporary hit points and has advantage on death sa
 
 ## Light Rune
 
-The painted creature gains [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) to a range of 30 feet. If the painted creature already has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) from another source, the range of its [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) increases by 30 feet.
+The painted creature gains darkvision to a range of 30 feet. If the painted creature already has darkvision from another source, the range of its darkvision increases by 30 feet.
 
 ## Mountain Rune
 

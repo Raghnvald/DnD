@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Heroes of Destiny; Rogue Destinies
+- "Heroes of Destiny; Rogue Destinies"
 ---
 # Heroes of Destiny; Rogue Destinies
 *Source: The Book of Many Things p. 42* 
 
 **Rogue Destinies**
-
-`dice: [](heroes-of-destiny-rogue-destinies-bmt.md#^rogue-destinies)`
 
 | dice: 1d22 | Card | Heroic Tie |
 |------------|------|------------|

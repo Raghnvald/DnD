@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/barbarian
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Barbarian
+- "Barbarian"
 ---
 # Barbarian
 *Source: Player's Handbook p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -51,16 +51,16 @@ aliases:
 ## Starting Barbarian
 
 - **Saving Throws**: Constitution, Strength
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [shields](3-Mechanics/CLI/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: choose 2 from [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), and [Survival](/3-Mechanics/CLI/skills.md#Survival)
+- **Skills**: choose 2 from [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), and [Survival](3-Mechanics/CLI/rules/skills.md#Survival)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [greataxe](/3-Mechanics/CLI/items/greataxe.md) or (b) any martial melee weapon
-- (a) two [handaxes](/3-Mechanics/CLI/items/handaxe.md) or (b) any simple weapon
-- An [explorer's pack](/3-Mechanics/CLI/items/explorers-pack.md), and four [javelins](/3-Mechanics/CLI/items/javelin.md)
+- (a) a [greataxe](3-Mechanics/CLI/items/greataxe.md) or (b) any martial melee weapon
+- (a) two [handaxes](3-Mechanics/CLI/items/handaxe.md) or (b) any simple weapon
+- An [explorer's pack](3-Mechanics/CLI/items/explorers-pack.md), and four [javelins](3-Mechanics/CLI/items/javelin.md)
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -70,7 +70,7 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [shields](/3-Mechanics/CLI/items/shield.md)
+- **Armor**: [shields](3-Mechanics/CLI/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 
 ## Barbarian
@@ -105,7 +105,7 @@ What led you to take up the adventuring life? Were you lured to settled lands by
 
 #### Quick Build
 
-You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [outlander](/3-Mechanics/CLI/backgrounds/outlander.md) background.
+You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the [outlander](3-Mechanics/CLI/backgrounds/outlander.md) background.
 
 > [!quote] A quote from Seret, archwizard  
 > 
@@ -130,8 +130,6 @@ Consider creating one or more personal totems for your character—objects that 
 
 **Personal Totems**
 
-`dice: [](barbarian.md#^personal-totems)`
-
 | dice: d6 | Totem |
 |----------|-------|
 | 1 | A tuft of fur from a solitary wolf that you befriended during a hunt |
@@ -150,8 +148,6 @@ The members of many barbarian clans decorate their bodies with tattoos, each of 
 Each tattoo a barbarian displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?
 
 **Tattoos**
-
-`dice: [](barbarian.md#^tattoos)`
 
 | dice: d6 | Tattoo |
 |----------|--------|
@@ -175,8 +171,6 @@ Both of these attitudes can give rise to superstitions. These beliefs are often 
 If your barbarian character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?
 
 **Superstition**
-
-`dice: [](barbarian.md#^superstition)`
 
 | dice: d6 | Superstition |
 |----------|--------------|
@@ -202,7 +196,7 @@ While raging, you gain the following benefits if you aren't wearing heavy armor:
 
 If you are able to cast spells, you can't cast them or concentrate on them while raging.
 
-Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+Your rage lasts for 1 minute. It ends early if you are knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
 Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th.
 
@@ -212,7 +206,7 @@ While you are not wearing any armor, your Armor Class equals 10 + your Dexterity
 
 ### Danger Sense (Level 2)
 
-At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened), or [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+At 2nd level, you gain an uncanny sense of when things nearby aren't as they should be, giving you an edge when you dodge away from danger. You have advantage on Dexterity saving throws against effects that you can see, such as traps and spells. To gain this benefit, you can't be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), or [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).
 
 ### Reckless Attack (Level 2)
 
@@ -237,7 +231,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn.
 
 ### Fast Movement (Level 5)
 
@@ -251,7 +245,7 @@ At 6th level, you gain a feature from your Primal Path.
 
 By 7th level, your instincts are so honed that you have advantage on initiative rolls.
 
-Additionally, if you are [surprised](/3-Mechanics/CLI/conditions.md#Surprised) at the beginning of combat and aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
+Additionally, if you are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) at the beginning of combat and aren't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
 ### Instinctive Pounce (Level 7)
 _Source: Tasha's Cauldron of Everything p. 24_
@@ -300,7 +294,7 @@ At 14th level, you gain a feature from your Primal Path.
 
 ### Persistent Rage (Level 15)
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) or if you choose to end it.
+Beginning at 15th level, your rage is so fierce that it ends early only if you fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) or if you choose to end it.
 
 ### Ability Score Improvement (Level 16)
 

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/life
-aliases: 
-- Valkauna
+aliases:
+- "Valkauna"
 ---
 # Valkauna
 *Source: Mordenkainen's Tome of Foes p. 73* 

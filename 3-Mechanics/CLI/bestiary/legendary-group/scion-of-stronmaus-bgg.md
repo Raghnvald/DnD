@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/monster/legendary-group
 aliases:
-- Scion of Stronmaus
+- "Scion of Stronmaus"
 ---
 # Scion of Stronmaus
 

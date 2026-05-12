@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Cosmic Horror Villains
+- "Cosmic Horror Villains"
 ---
 # Cosmic Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 48* 
 
 **Cosmic Horror Villains**
-
-`dice: [](cosmic-horror-villains-vrgr.md#^cosmic-horror-villains)`
 
 | dice: d8 | Villain |
 |----------|---------|

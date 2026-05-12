@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/13
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Canopic Golem
+- "Canopic Golem"
 ---
-# [Canopic Golem](3-Mechanics\CLI\bestiary\construct/canopic-golem-cm.md)
+# [Canopic Golem](3-Mechanics/CLI/bestiary/construct/canopic-golem-cm.md)
 *Source: Candlekeep Mysteries p. 179*  
 
 A mummy lord's organs, normally stored in sacred canopic jars during mummification, can be magically preserved and transplanted into living humanoids. The transplant recipients come under the control of the mummy lord, either as living supplicants or mindless golems through which the mummy lord can see and speak.
@@ -54,8 +54,8 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
 "actions":
   - "desc": "The golem makes two attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 27\
-      \ (4d10 + 5) force damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 27 (4d10 + 5) force damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +10 to hit, range 120 ft., one target. *Hit:*\
       \ 14 (2d8 + 5) force damage."
@@ -66,6 +66,6 @@ A mummy lord's organs, normally stored in sacred canopic jars during mummificati
     "name": "Spell Deflection"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/canopic-golem-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/canopic-golem-cm.webp"
 ```
 ^statblock

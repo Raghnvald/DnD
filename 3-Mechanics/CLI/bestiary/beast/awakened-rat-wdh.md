@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened Rat
+- "Awakened Rat"
 ---
-# [Awakened Rat](3-Mechanics\CLI\bestiary\beast/awakened-rat-wdh.md)
+# [Awakened Rat](3-Mechanics/CLI/bestiary/beast/awakened-rat-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 102*  
 
 ```statblock
@@ -32,18 +32,20 @@ aliases:
   - !!int "10"
   - !!int "4"
 "speed": "20 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "0"
 "traits":
-  - "desc": "The rat has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The rat has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Bite"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/awakened-rat-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/awakened-rat-wdh.webp"
 ```
 ^statblock

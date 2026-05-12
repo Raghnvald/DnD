@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Donavich
+- "Donavich"
 ---
-# [Donavich](3-Mechanics\CLI\bestiary\npc/donavich-cos.md)
+# [Donavich](3-Mechanics/CLI/bestiary/npc/donavich-cos.md)
 *Source: Curse of Strahd p. 46*  
 
 ```statblock
@@ -34,27 +34,27 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+2"
+"gear":
+  - "club"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/4"
 "traits":
   - "desc": "Donavich is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
-      \ (spell save DC 12, +4 to hit with spell attacks). Donavich has following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n**1st level (3 slots):** [bless](/3-Mechanics/CLI/spells/bless-xphb.md), [cure\
-      \ wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md), [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)"
+      \ (spell save DC 12, +4 to hit with spell attacks). Donavich has following\
+      \ cleric spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
+      \n**1st level (3 slots):** bless, cure wounds, sanctuary"
     "name": "Spellcasting"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/donavich-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/donavich-cos.webp"
 ```
 ^statblock

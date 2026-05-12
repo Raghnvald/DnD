@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redbud
+- "Redbud"
 ---
-# [Redbud](3-Mechanics\CLI\bestiary\npc/redbud-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Redbud](3-Mechanics/CLI/bestiary/npc/redbud-veor.md)
+*Source: Vecna: Eve of Ruin p. 66*  
 
 ```statblock
 "name": "Redbud (VEoR)"
@@ -47,14 +47,14 @@ aliases:
 "actions":
   - "desc": "Redbud makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 16 (3d6 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "Redbud magically animates one or two trees it can see within 60 feet\
-      \ of it. These trees have the same statistics as a [treant](/3-Mechanics/CLI/bestiary/plant/treant.md),\
+      \ of it. These trees have the same statistics as a [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md),\
       \ except they have Intelligence and Charisma scores of 1, they can't speak,\
       \ and they have only the Slam action option. An animated tree acts as an ally\
       \ of Redbud. The tree remains animate for 1 day or until it dies; until Redbud\
@@ -64,6 +64,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/redbud-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/redbud-veor.webp"
 ```
 ^statblock

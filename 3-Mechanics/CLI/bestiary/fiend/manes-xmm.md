@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Manes
+- "Manes"
 ---
-# [Manes](3-Mechanics\CLI\bestiary\fiend/manes-xmm.md)
+# [Manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)
 *Source: Monster Manual (2024) p. 201*  
 
 Manes lash out at creatures that appear weaker than themselves—or that react to them with fear—and strive to avoid more powerful demons. When manes escape from the Abyss, they go on reckless rampages and inflict as much harm as possible.
@@ -48,10 +48,10 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "1/8"
 "actions":
@@ -59,7 +59,7 @@ The lowest form of demons, manes appear when truly loathsome souls are condemned
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/manes-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/manes-xmm.webp"
 ```
 ^statblock
 

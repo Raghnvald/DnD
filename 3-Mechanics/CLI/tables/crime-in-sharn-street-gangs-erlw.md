@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Crime in Sharn; Street Gangs
+- "Crime in Sharn; Street Gangs"
 ---
 # Crime in Sharn; Street Gangs
 *Source: Eberron: Rising from the Last War p. 245* 
@@ -16,7 +16,7 @@ aliases:
 |------|-------------|
 | The Broken Mirror | Khoravar half-elves who often target elves with acts of violence, frequently disfiguring their victims |
 | The Brokenbridge Brawlers | Brelish veterans who antagonize Cyrans and former soldiers from other nations |
-| The Eyes | Collection of odd individuals who paint symbolic eyes on their clothing and armor and claim to see things others cannot (in fact, they are a cult dedicated to the daelkyr [Belashyrra](/3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md) and serve a hidden beholder) |
+| The Eyes | Collection of odd individuals who paint symbolic eyes on their clothing and armor and claim to see things others cannot (in fact, they are a cult dedicated to the daelkyr [Belashyrra](3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md) and serve a hidden beholder) |
 | The Five Faces | Changeling pickpockets who work Middle Menthis |
 | The Gremlins | Gnomes and halflings who specialize in illusion magic |
 | The Little Fingers | Child pickpockets active in Middle Dura (their leaders are adult halflings loosely allied with the Boromar Clan) |

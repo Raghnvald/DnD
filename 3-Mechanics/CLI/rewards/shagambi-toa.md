@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/toa
-- new/reward/inhabitation
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/reward/inhabitation
 aliases:
-- Shagambi
+- "Shagambi"
 ---
 # Shagambi
 *Inhabitation*  
@@ -16,6 +16,6 @@ aliases:
 - **Personality.** Wise and virtuous  
 - **Inherited flaw.** "I never show mercy to evildoers."  
 - **Enemy.** Nangnang  
-- **Power.** The host can make one extra attack when taking the Attack action on its turn.  
+- **Power.** The host can make one extra attack when taking the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on its turn.  
 
 *Source: Tomb of Annihilation p. 129*

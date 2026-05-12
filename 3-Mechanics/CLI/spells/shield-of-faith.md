@@ -9,15 +9,18 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/purphoross-devotee
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/strength-domain-psa
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard (Magical Secrets)
 - Cleric
+- Cleric (Strength Domain (PSA))
 - Cleric (War Domain)
 - Paladin
 aliases:
-- Shield of Faith
+- "Shield of Faith"
 ---
 # Shield of Faith
 *1st-level, Abjuration*  
@@ -30,6 +33,6 @@ aliases:
 
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA"); [Cleric (War Domain)](3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 275. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

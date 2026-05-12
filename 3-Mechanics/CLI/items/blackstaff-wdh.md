@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Blackstaff"
 ---
 # Blackstaff
@@ -17,22 +17,22 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: Versatile
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 The Blackstaff is a sentient, rune-carved staff set with thin silver veins. It is the symbol of office for the Blackstaff, the highest-ranking wizard in Waterdeep. As the rightful owner of the Blackstaff, Vajra Safahr is the only one who can become attuned to it. The staff can, however, choose a new owner (see "Personality" below).
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 
-The staff has 20 charges for the following properties. The staff regains `dice:2d8+4|noform|noparens|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) charges.
+The staff has 20 charges for the following properties. The staff regains `2d8 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `1d8 + 2` charges.
 
 ## Power Strike
 
-When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage to the target.
+When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `1d6` force damage to the target.
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: cone of cold (5 charges), fireball (5th-level version, 5 charges), globe of invulnerability (6 charges), hold monster (5 charges), levitate (2 charges), lightning bolt (5th-level version, 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) (5 charges), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) (5th-level version, 5 charges), [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md) (6 charges), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md) (5 charges), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md) (2 charges), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md) (5th-level version, 5 charges), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md) (1 charge), [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) (1 charge), or [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) (5 charges).
 
 ## Retributive Strike
 
@@ -49,11 +49,11 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 
 ## Animate Walking Statues
 
-You can expend 1 or more of the staff's charges as an action to animate or deactivate one or more of the [walking statues of Waterdeep](/3-Mechanics/CLI/bestiary/construct/walking-statue-of-waterdeep-wdh.md). You must be in the city to use this property, and you can animate or deactivate one statue for each charge expended. An animated statue obeys the telepathic commands of Khelben Arunsun's spirit, which is trapped inside the staff (see "Personality" below). A walking statue becomes inanimate if deactivated or if the staff is broken.
+You can expend 1 or more of the staff's charges as an action to animate or deactivate one or more of the [walking statues of Waterdeep](3-Mechanics/CLI/bestiary/construct/walking-statue-of-waterdeep-wdh.md). You must be in the city to use this property, and you can animate or deactivate one statue for each charge expended. An animated statue obeys the telepathic commands of Khelben Arunsun's spirit, which is trapped inside the staff (see "Personality" below). A walking statue becomes inanimate if deactivated or if the staff is broken.
 
 ## Dispel Magic
 
-You can expend 1 of the staff's charges as a bonus action to cast dispel magic on a creature, an object, or a magical effect that you touch with the tip of the staff. If the target is an unwilling creature or an object in the possession of such a creature, you must hit the creature with a melee attack using the Blackstaff before you can expend the charge to cast the spell.
+You can expend 1 of the staff's charges as a bonus action to cast [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a creature, an object, or a magical effect that you touch with the tip of the staff. If the target is an unwilling creature or an object in the possession of such a creature, you must hit the creature with a melee attack using the Blackstaff before you can expend the charge to cast the spell.
 
 ## Drain Magic
 
@@ -61,11 +61,11 @@ This property affects only creatures that use spell slots. When you hit such a c
 
 ## Master of Enchantment
 
-When you cast an enchantment spell of 1st level or higher while holding the staff, you can make an Intelligence (Arcana) check with a DC of 10 + the level of the spell. If the check succeeds, you cast the spell without expending a spell slot.
+When you cast an enchantment spell of 1st level or higher while holding the staff, you can make an Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check with a DC of 10 + the level of the spell. If the check succeeds, you cast the spell without expending a spell slot.
 
 ## Sentience
 
-The Blackstaff is a sentient staff of neutral alignment, with an Intelligence of 22, a Wisdom of 15, and a Charisma of 18. It has hearing and darkvision out to a range of 120 feet, and it can communicate telepathically with any creature that is holding it.
+The Blackstaff is a sentient staff of neutral alignment, with an Intelligence of 22, a Wisdom of 15, and a Charisma of 18. It has hearing and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet, and it can communicate telepathically with any creature that is holding it.
 
 ## Personality
 

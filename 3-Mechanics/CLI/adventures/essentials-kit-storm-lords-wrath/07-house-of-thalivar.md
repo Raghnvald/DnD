@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- House of Thalivar
+- "House of Thalivar"
 ---
 # House of Thalivar
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -36,14 +36,14 @@ The characters have the following encounters as they ascend to the tower.
 
 #### Cowardly Soldiers
 
-As the characters begin their ascent, they encounter four soldiers arguing on the path: two humans named Erlum and Koz, a timid dwarf named Gori, and Sgt. Yorrum. All three [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) wear the tabards of the Neverwinter soldiery. The soldiers warn the characters against venturing up to the haunted tower. If questioned, they reveal the following information:
+As the characters begin their ascent, they encounter four soldiers arguing on the path: two humans named Erlum and Koz, a timid dwarf named Gori, and Sgt. Yorrum. All three [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) wear the tabards of the Neverwinter soldiery. The soldiers warn the characters against venturing up to the haunted tower. If questioned, they reveal the following information:
 
 - The soldiers were working on the tower's reconstruction, but they fled last night after seeing a ghost.  
 - Before seeing the ghost, they experienced many odd occurrences: missing tools, strange chills, and spooky whispers.  
 - The ghost manifested as an old man with wild hair and burning eyes. They were working on the tower's third floor when it appeared.  
 - Their leader, the wizard Gallio Elibro, is still up at the tower. The soldiers are too scared to go up and check on him.  
 
-Any character who succeeds on a DC 12 Wisdom (Insight) check discerns that the soldiers are holding something back. If pushed, they reveal another clue:
+Any character who succeeds on a DC 12 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check discerns that the soldiers are holding something back. If pushed, they reveal another clue:
 
 Gallio Elibro has been acting strangely. He appears overtired, and he's been spotted at night wandering around in his nightgown and muttering to himself.
 
@@ -63,26 +63,24 @@ When the characters arrive at the tower, read the following boxed text aloud:
 The tower is unguarded, and the only person present is the wizard Gallio Elibro. Refer to "Dealing with Gallio Elibro" if the players call out for the wizard, or "House of Thalivar Locations" if they choose to explore.
 
 > [!gallery]
-> ![Map 6: House of Thalivar](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/011-kmdtd-map-house-of-thalivar_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/012-idnt1-map-house-of-thalivar_player.webp#gallery)
+> ![Map 6: House of Thalivar](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/011-kmdtd-map-house-of-thalivar_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/012-idnt1-map-house-of-thalivar_player.webp#gallery)
 
 ### Dealing with Gallio Elibro
 
-Gallio Elibro is a short-tempered male Rashemi [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) (with the legend lore spell prepared instead of cone of cold). His relentless studies have pushed him to the brink of exhaustion and his sleep is troubled (since he doesn't know that the ghost of Thalivar possesses him each night when he sleeps). Gallio wears an ink-stained robe and his curly black hair is tousled. His fingertips are stained with purple ink.
+Gallio Elibro is a short-tempered male Rashemi [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) (with the [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell prepared instead of [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)). His relentless studies have pushed him to the brink of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and his sleep is troubled (since he doesn't know that the ghost of Thalivar possesses him each night when he sleeps). Gallio wears an ink-stained robe and his curly black hair is tousled. His fingertips are stained with purple ink.
 
 Gallio is furious that his workers have abandoned their duties. He beseeches the group to rid the tower of any spectral presences so his people can return and finish the job. Gallio has not seen any spirits, but he doesn't doubt the word of his underlings. He remains in his study (area H3) while the characters explore. Gallio can recount the history of the tower to anyone who enquires.
 
 #### Gallio's Possession
 
-Each night, Thalivar's [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) emerges from the Ethereal Plane to possess Gallio while he's sleeping. Unlike normal ghostly possession, Gallio remains unaware that his body has been hijacked and placed under the effects of the spider climb spell. He crawls around the tower in his night gown, peers worriedly at the pile of rubble at the top of the tower, and scribbles in Thalivar's old journal (area H9). If confronted, he uses Horrifying Visage to scare away his enemies or tries to defeat them in combat (see "Confronting Thalivar's Ghost" for information on how the ghost fights). Thalivar does not hesitate to abandon Gallio's body if he feels threatened.
+Each night, Thalivar's [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) emerges from the Ethereal Plane to possess Gallio while he's sleeping. Unlike normal ghostly possession, Gallio remains unaware that his body has been hijacked and placed under the effects of the [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md) spell. He crawls around the tower in his night gown, peers worriedly at the pile of rubble at the top of the tower, and scribbles in Thalivar's old journal (area H9). If confronted, he uses Horrifying Visage to scare away his enemies or tries to defeat them in combat (see "Confronting Thalivar's Ghost" for information on how the ghost fights). Thalivar does not hesitate to abandon Gallio's body if he feels threatened.
 
 ### Ghostly Events
 
-Thalivar's [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) tries to scare away anyone who enters his tower. As the characters explore, roll on the Ghostly Events table to introduce creepy phenomena, or invent your own!
+Thalivar's [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) tries to scare away anyone who enters his tower. As the characters explore, roll on the Ghostly Events table to introduce creepy phenomena, or invent your own!
 
 **Ghostly Events**
-
-`dice: [](07-house-of-thalivar.md#^ghostly-events)`
 
 | dice: d6 | Event |
 |----------|-------|
@@ -96,9 +94,9 @@ Thalivar's [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) tries to scare awa
 
 #### Confronting Thalivar's Ghost
 
-Characters may try to summon Thalivar's [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) using magic, a séance, or any other ploy they can devise. Remember that his spirit is insane and believes it is living in a nightmare. It does not want to parley and retreats into the Ethereal Plane at the first sign of trouble.
+Characters may try to summon Thalivar's [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) using magic, a séance, or any other ploy they can devise. Remember that his spirit is insane and believes it is living in a nightmare. It does not want to parley and retreats into the Ethereal Plane at the first sign of trouble.
 
-Once per day, when Thalivar's ghost returns to the Ethereal Plane, it chants a magical phrase that summons a [star spawn mangler](/3-Mechanics/CLI/bestiary/aberration/star-spawn-mangler-mpmm.md) (see appendix A) into the tower for every two members in the party, including sidekicks. Defeating Thalivar's ghost in combat is difficult, so the players are better off finding a way to lay it to rest using the clues in the tower.
+Once per day, when Thalivar's ghost returns to the Ethereal Plane, it chants a magical phrase that summons a star spawn mangler (see appendix A) into the tower for every two members in the party, including sidekicks. Defeating Thalivar's ghost in combat is difficult, so the players are better off finding a way to lay it to rest using the clues in the tower.
 
 > [!note] Tower Features
 > 
@@ -127,7 +125,7 @@ The hall is strewn with rubble. Puddles of muddy rainwater pool over the floor a
 
 ##### Treasure
 
-The packs contain three potions of healing, five healer's kits, and 123 gp. However, these items belong to the solders, and Gallio won't be pleased if the characters ransack them.
+The packs contain three [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md), five [healer's kits](3-Mechanics/CLI/items/healers-kit-xphb.md), and 123 gp. However, these items belong to the solders, and Gallio won't be pleased if the characters ransack them.
 
 #### H3. Gallio's Study
 
@@ -139,24 +137,24 @@ The tower's kitchen remains unused and is covered in a layer of masonry dust and
 
 #### H5. Servant's Quarters
 
-Thalivar was tended by his loyal faerie servant, Soapwort, who died when his master accidentally released a menagerie of extraplanar monsters into the tower. Soapwort's chamber has long since caved in, and his bed is buried underneath a pile of rubble. Characters who spend at least 30 minutes clearing the wreckage discover humanoid bones crushed underneath. Those who succeed on a DC 12 Intelligence (Medicine) check while examining the bones identify that they are fey in origin.
+Thalivar was tended by his loyal faerie servant, Soapwort, who died when his master accidentally released a menagerie of extraplanar monsters into the tower. Soapwort's chamber has long since caved in, and his bed is buried underneath a pile of rubble. Characters who spend at least 30 minutes clearing the wreckage discover humanoid bones crushed underneath. Those who succeed on a DC 12 Intelligence ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check while examining the bones identify that they are fey in origin.
 
 > [!note] Raising Soapwort
 > 
 > Characters who've read Thalivar's journal (area H9) may be interested in raising Soapwort from the dead. If they have the mean to do so, the mysterious faerie agrees to help lay Thalivar's ghost to rest. The old mage gladly listens to Soapwort and is laid to rest when the faerie tells him that this life is but a dream. Soapwort returns to the Feywild when his job is done.
 > 
-> Casting speak with dead is fruitless, as the corpse no longer has a mouth through which to speak.
+> Casting [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) is fruitless, as the corpse no longer has a mouth through which to speak.
 ^raising-soapwort
 
 #### H6. Library
 
-These ruined chambers contain high shelves stacked with Thalivar's moldering research notes. Each chamber houses a large statue of a peasant girl with her forefinger pressed to her lips in a hushing gesture. Characters who succeed on a DC 15 Intelligence (Religion or Arcana) check recognize her as Mystra, goddess of magic.
+These ruined chambers contain high shelves stacked with Thalivar's moldering research notes. Each chamber houses a large statue of a peasant girl with her forefinger pressed to her lips in a hushing gesture. Characters who succeed on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion) or [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognize her as Mystra, goddess of magic.
 
-Thalivar's notes are written in pictographic code. Using magic, nothing short of a wish spell can decipher them. Without such magic, Gallio must decrypt them himself using laborious trial and error. The task is highly taxing but Gallio is committed to seeing it through. At short notice, characters who examine the notes are unlikely to have any epiphanies.
+Thalivar's notes are written in pictographic code. Using magic, nothing short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can decipher them. Without such magic, Gallio must decrypt them himself using laborious trial and error. The task is highly taxing but Gallio is committed to seeing it through. At short notice, characters who examine the notes are unlikely to have any epiphanies.
 
 ##### Trapped Statues
 
-These magical traps were disarmed by adventurers long ago. Close examination reveals that each statue has a vandalized magical symbol carved into its back. Characters who succeed on a DC 15 Intelligence (Arcana) check identify these as sigils of transmutation magic. If a symbol is mended or reworked, the statue comes to life and attacks intruders. The statues are [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem.md), except that their size is Medium. They only attack creatures they can hear, always targeting the creature making the most noise. If this is unclear, they target the creature with the lowest passive Dexterity (Stealth). The statues never leave the library.
+These magical traps were disarmed by adventurers long ago. Close examination reveals that each statue has a vandalized magical symbol carved into its back. Characters who succeed on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check identify these as sigils of transmutation magic. If a symbol is mended or reworked, the statue comes to life and attacks intruders. The statues are [stone golems](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md), except that their size is Medium. They only attack creatures they can hear, always targeting the creature making the most noise. If this is unclear, they target the creature with the lowest passive Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)). The statues never leave the library.
 
 #### H7. Scaffolds
 
@@ -183,7 +181,7 @@ The ruined bedchamber belonged to Thalivar and still contains his bed and writin
 
 This chamber once housed the planar beacon, but it is now in ruins and open to the sky. Prisoner cells line the walls, with bars broken and bent open as though whatever creatures were trapped within somehow broke out.
 
-Characters who search through the rubble unearth Thalivar's shattered skeleton. If these remains are buried using the ceremony spell, Thalivar's haunt is put to rest.
+Characters who search through the rubble unearth Thalivar's shattered skeleton. If these remains are buried using the [ceremony](3-Mechanics/CLI/spells/ceremony-xge.md) spell, Thalivar's haunt is put to rest.
 
 ### Ghostly Farewell
 

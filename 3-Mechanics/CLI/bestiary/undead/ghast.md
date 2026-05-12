@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ghast
+- "Ghast"
 ---
-# [Ghast](3-Mechanics\CLI\bestiary\undead/ghast.md)
+# [Ghast](3-Mechanics/CLI/bestiary/undead/ghast.md)
 *Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
@@ -51,15 +51,15 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
   - "desc": "Any creature that starts its turn within 5 feet of the ghast must succeed\
-      \ on a DC 10 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 10 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ until the start of its next turn. On a successful saving throw, the creature\
       \ is immune to the ghast's Stench for 24 hours."
     "name": "Stench"
@@ -67,18 +67,18 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
       \ throws against effects that turn undead."
     "name": "Turn Defiance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 12\
-      \ (2d8 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 12 (2d8 + 3) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage. If the target is a creature other than an undead,\
-      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ it must succeed on a DC 10 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ghast.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/ghast.webp"
 ```
 ^statblock
 

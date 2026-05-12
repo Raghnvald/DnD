@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Othokent
+- "Othokent"
 ---
-# [Othokent](3-Mechanics\CLI\bestiary\npc/othokent-gos.md)
+# [Othokent](3-Mechanics/CLI/bestiary/npc/othokent-gos.md)
 *Source: Ghosts of Saltmarsh p. 81*  
 
 ```statblock
@@ -45,6 +45,8 @@ aliases:
   - "name": "Survival"
     "desc": "+4"
 "condition_immunities": "frightened"
+"gear":
+  - "trident"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Abyssal, Draconic"
 "cr": "4"
@@ -59,11 +61,11 @@ aliases:
   - "desc": "Othokent makes two attacks: one with its bite and one with its claws\
       \ or trident or two melee attacks with its trident."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) slashing damage."
     "name": "Claws"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing\
@@ -71,6 +73,6 @@ aliases:
     "name": "Trident"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/othokent-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/othokent-gos.webp"
 ```
 ^statblock

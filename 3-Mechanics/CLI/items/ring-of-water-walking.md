@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Water Walking"
 ---
 # Ring of Water Walking
 *Ring, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
+![](3-Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.

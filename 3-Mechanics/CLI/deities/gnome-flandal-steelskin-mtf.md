@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Flandal Steelskin
+aliases:
+- "Flandal Steelskin"
 ---
 # Flandal Steelskin
 *Source: Mordenkainen's Tome of Foes p. 111* 

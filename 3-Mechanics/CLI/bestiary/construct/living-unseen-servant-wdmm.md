@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Unseen Servant
+- "Living Unseen Servant"
 ---
-# [Living Unseen Servant](3-Mechanics\CLI\bestiary\construct/living-unseen-servant-wdmm.md)
+# [Living Unseen Servant](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 313*  
 
 ## Living Spell
@@ -27,9 +27,9 @@ A living spell doesn't require air, food, drink, or sleep.
 
 ### Magical Essence
 
-The process that creates a living spell changes the nature of its magic. A living spell isn't subject to dispel magic and isn't affected by an antimagic field.
+The process that creates a living spell changes the nature of its magic. A living spell isn't subject to [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) and isn't affected by an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).
 
-Like an overzealous butler or maid, a living unseen servant spell busies itself with tasks in hopes of pleasing its creator. It can wield simple weapons but prefers not to. See invisibility, true seeing, and similar effects reveal that the servant has a shape similar to that of a slender humanoid adult.
+Like an overzealous butler or maid, a living [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md) spell busies itself with tasks in hopes of pleasing its creator. It can wield simple weapons but prefers not to. [See invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md), [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md), and similar effects reveal that the servant has a shape similar to that of a slender humanoid adult.
 
 ```statblock
 "name": "Living Unseen Servant (WDMM)"
@@ -49,24 +49,27 @@ Like an overzealous butler or maid, a living unseen servant spell busies itself 
   - !!int "1"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, paralyzed, petrified, poisoned, unconscious"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 12"
 "languages": "understands one language (usually Common) but can't speak"
 "cr": "0"
 "traits":
-  - "desc": "The unseen servant is invisible."
+  - "desc": "The unseen servant is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)."
     "name": "Invisibility"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ bludgeoning damage."
     "name": "Slam"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/living-unseen-servant-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/living-unseen-servant-wdmm.webp"
 ```
 ^statblock

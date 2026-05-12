@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Daelkyr Modifications
+- "Daelkyr Modifications"
 ---
 # Daelkyr Modifications
 *Source: Eberron: Rising from the Last War p. 284* 
 
 **Daelkyr Modifications**
-
-`dice: [](daelkyr-modifications-erlw.md#^daelkyr-modifications)`
 
 | dice: d10 | Modification |
 |-----------|--------------|

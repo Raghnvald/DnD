@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Faerie Dragon; Faerie Dragon Personality Traits
+- "Creating a Faerie Dragon; Faerie Dragon Personality Traits"
 ---
 # Creating a Faerie Dragon; Faerie Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 118* 
 
 **Faerie Dragon Personality Traits**
-
-`dice: [](creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd.md#^faerie-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

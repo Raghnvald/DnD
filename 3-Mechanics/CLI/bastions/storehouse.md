@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-bastion
+- json5e-bastion
 tags:
-  - Kompendium/bastion
-  - Quelle/5e/xdmg
+- ttrpg-cli/bastion
+- ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-  - Storehouse
+- "Storehouse"
 ---
 # Storehouse
 *Level 5 Bastion facility*  

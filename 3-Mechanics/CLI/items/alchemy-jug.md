@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Alchemy Jug"
 ---
 # Alchemy Jug
 *Wondrous item, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/alchemy-jug.webp#right)
+![](3-Mechanics/CLI/items/img/alchemy-jug.webp#right)
 
 - **Weight**: 12.0 lbs.
 

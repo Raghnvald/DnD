@@ -3,23 +3,23 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crag Cat
+- "Crag Cat"
 ---
-# [Crag Cat](3-Mechanics\CLI\bestiary\monstrosity/crag-cat-skt.md)
-*Source: Storm King's Thunder p. 240, Icewind Dale: Rime of the Frostmaiden*  
+# [Crag Cat](3-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md)
+*Source: Storm King's Thunder p. 240*  
 
 The creature referred to in Northlander lore as the Hunter of Men is a sure-footed predator that can be found anywhere except deep forest, preferring ledges and cliffs in the mountains. Its cry resembles a human scream of terror. It often elicits such sounds from its victims, for it prefers human flesh to all other prey.
 
 Crag cats blend in with natural surroundings. During the winter, their fur turns white to blend in with the snow. At other times of the year, their fur is gray, enabling them to hide among the rocks more easily.
 
-The crag cat knows its territory and often attacks when its prey is asleep, exhausted, or otherwise weakened. Although crag cats are typically solitary, they can be found in family groups of two parents and `dice:1d4|noform|noparens|avg` (`1d4`) Small noncombatant cubs in the spring, or in hungry packs in severe winter weather.
+The crag cat knows its territory and often attacks when its prey is asleep, exhausted, or otherwise weakened. Although crag cats are typically solitary, they can be found in family groups of two parents and `1d4` Small noncombatant cubs in the spring, or in hungry packs in severe winter weather.
 
 ```statblock
 "name": "Crag Cat (SKT)"
@@ -39,11 +39,12 @@ The crag cat knows its territory and often attacks when its prey is asleep, exha
   - !!int "8"
 "speed": "40 ft., climb 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": ""
 "cr": "1"
 "traits":
@@ -52,7 +53,8 @@ The crag cat knows its territory and often attacks when its prey is asleep, exha
     "name": "Nondetection"
   - "desc": "If the cat moves at least 20 feet straight toward a creature then hits\
       \ it with a claw attack on the same turn, that target must succeed on a DC13\
-      \ Strength saving throw or be knocked prone. If the target is prone, the cat\
+      \ Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If the target is [prone](3-Mechanics/CLI/rules/conditions.md#Prone), the cat\
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
   - "desc": "The cat has advantage on saving throws against any spell that targets\
@@ -61,15 +63,14 @@ The crag cat knows its territory and often attacks when its prey is asleep, exha
       \ the caster."
     "name": "Spell Turning"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage."
     "name": "Claw"
 "source":
   - "SKT"
-  - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/crag-cat-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/crag-cat-skt.webp"
 ```
 ^statblock

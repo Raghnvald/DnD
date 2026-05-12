@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orog
+- "Orog"
 ---
-# [Orog](3-Mechanics\CLI\bestiary\humanoid/orog.md)
-*Source: Monster Manual p. 247, Explorer's Guide to Wildemount*  
+# [Orog](3-Mechanics/CLI/bestiary/humanoid/orog.md)
+*Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -78,7 +78,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "42"
 "hit_dice": "5d8 + 20"
 "modifier": !!int "1"
@@ -91,11 +91,15 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
@@ -113,8 +117,7 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
     "name": "Javelin"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orog.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orog.webp"
 ```
 ^statblock
 

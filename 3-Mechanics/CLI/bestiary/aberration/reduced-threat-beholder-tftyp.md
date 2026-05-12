@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/13
-- new/monster/size/large
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Beholder
+- "Reduced-Threat Beholder"
 ---
-# [Reduced-Threat Beholder](3-Mechanics\CLI\bestiary\aberration/reduced-threat-beholder-tftyp.md)
+# [Reduced-Threat Beholder](3-Mechanics/CLI/bestiary/aberration/reduced-threat-beholder-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -38,10 +38,11 @@ aliases:
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
-"condition_immunities": "prone"
-"senses": "darkvision 120 ft., passive Perception 22"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
 "traits":
@@ -50,10 +51,11 @@ aliases:
       \ saving throws (included in the stat block for saving throw proficiencies),\
       \ and saving throw DCs (included in the stat block)."
     "name": "Reduced Threat"
-  - "desc": "The beholder's central eye creates an area of antimagic, as in the antimagic\
-      \ field spell, in a 150-foot cone. At the start of each of its turns, the beholder\
-      \ decides which way the cone faces and whether the cone is active. The area\
-      \ works against the beholder's own eye rays."
+  - "desc": "The beholder's central eye creates an area of antimagic, as in the [antimagic\
+      \ field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in a 150-foot\
+      \ cone. At the start of each of its turns, the beholder decides which way the\
+      \ cone faces and whether the cone is active. The area works against the beholder's\
+      \ own eye rays."
     "name": "Antimagic Cone"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 14\
@@ -62,44 +64,48 @@ aliases:
   - "desc": "The beholder shoots three of the following magical eye rays at random\
       \ (reroll duplicates), choosing one to three targets it can see within 120 feet\
       \ of it:\n\n- **1. Charm Ray.** The targeted creature must succeed on a DC 14\
-      \ Wisdom saving throw or be charmed by the beholder for 1 hour, or until the\
-      \ beholder harms the creature.  \n- **2. Paralyzing Ray.** The targeted creature\
-      \ must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute.\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  \n- **3. Fear Ray.** The targeted creature\
-      \ must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute.\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  \n- **4. Slowing Ray.** The targeted creature\
-      \ must succeed on a DC 14 Dexterity saving throw. On a failed save, the target's\
-      \ speed is halved for 1 minute. In addition, the creature can't take reactions,\
-      \ and it can take either an action or a bonus action on its turn, not both.\
-      \ The creature can repeat the saving throw at the end of each of its turns,\
-      \ ending the effect on itself on a success.  \n- **5. Enervation Ray.** The\
-      \ targeted creature must make a DC 14 Constitution saving throw, taking 36 (8d8)\
-      \ necrotic damage on a failed save, or half as much damage on a successful one.\
-      \  \n- **6. Telekinetic Ray.** If the target is a creature, it must succeed\
-      \ on a DC 14 Strength saving throw or the beholder moves it up to 30 feet in\
-      \ any direction. It is restrained by the ray's telekinetic grip until the start\
-      \ of the beholder's next turn or until the beholder is incapacitated.  \n\n\
-      \    If the target is an object weighing 300 pounds or less that isn't being\
-      \ worn or carried, it is moved up to 30 feet in any direction. The beholder\
+      \ Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by the beholder for 1 hour, or until the beholder harms the creature.  \n\
+      - **2. Paralyzing Ray.** The targeted creature must succeed on a DC 14 Constitution\
+      \ saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- **3. Fear Ray.**\
+      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- **4. Slowing Ray.**\
+      \ The targeted creature must succeed on a DC 14 Dexterity saving throw. On a\
+      \ failed save, the target's speed is halved for 1 minute. In addition, the creature\
+      \ can't take reactions, and it can take either an action or a bonus action on\
+      \ its turn, not both. The creature can repeat the saving throw at the end of\
+      \ each of its turns, ending the effect on itself on a success.  \n- **5. Enervation\
+      \ Ray.** The targeted creature must make a DC 14 Constitution saving throw,\
+      \ taking 36 (8d8) necrotic damage on a failed save, or half as much damage\
+      \ on a successful one.  \n- **6. Telekinetic Ray.** If the target is a creature,\
+      \ it must succeed on a DC 14 Strength saving throw or the beholder moves it\
+      \ up to 30 feet in any direction. It is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by the ray's telekinetic grip until the start of the beholder's next turn\
+      \ or until the beholder is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
+      \  \n\n    If the target is an object weighing 300 pounds or less that isn't\
+      \ being worn or carried, it is moved up to 30 feet in any direction. The beholder\
       \ can also exert fine control on objects with this ray, such as manipulating\
       \ a simple tool or opening a door or a container.  \n- **7. Sleep Ray.** The\
       \ targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep\
-      \ and remain unconscious for 1 minute. The target awakens if it takes damage\
-      \ or another creature takes an action to wake it. This ray has no effect on\
-      \ constructs and undead.  \n- **8. Petrification Ray.** The targeted creature\
-      \ must make a DC 14 Dexterity saving throw. On a failed save, the creature begins\
-      \ to turn to stone and is restrained. It must repeat the saving throw at the\
-      \ end of its next turn. On a success, the effect ends. On a failure, the creature\
-      \ is petrified until freed by the  greater restoration spell or other magic.\
-      \  \n- **9. Disintegration Ray.** If the target is a creature, it must succeed\
-      \ on a DC 14 Dexterity saving throw or take 45 (10d8) force damage. If this\
-      \ damage reduces the creature to 0 hit points, its body becomes a pile of fine\
-      \ gray dust.  \n\n    If the target is a Large or smaller nonmagical object\
-      \ or creation of magical force, it is disintegrated without a saving throw.\
-      \ If the target is a Huge or larger object or creation of magical force, this\
-      \ ray disintegrates a 10-foot cube of it.  \n- **10. Death Ray.** The targeted\
+      \ and remain [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for 1 minute. The target awakens if it takes damage or another creature takes\
+      \ an action to wake it. This ray has no effect on constructs and undead.  \n\
+      - **8. Petrification Ray.** The targeted creature must make a DC 14 Dexterity\
+      \ saving throw. On a failed save, the creature begins to turn to stone and is\
+      \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). It must repeat\
+      \ the saving throw at the end of its next turn. On a success, the effect ends.\
+      \ On a failure, the creature is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
+      \ until freed by the  [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
+      \ spell or other magic.  \n- **9. Disintegration Ray.** If the target is a creature,\
+      \ it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force\
+      \ damage. If this damage reduces the creature to 0 hit points, its body becomes\
+      \ a pile of fine gray dust.  \n\n    If the target is a Large or smaller nonmagical\
+      \ object or creation of magical force, it is disintegrated without a saving\
+      \ throw. If the target is a Huge or larger object or creation of magical force,\
+      \ this ray disintegrates a 10-foot cube of it.  \n- **10. Death Ray.** The targeted\
       \ creature must succeed on a DC 14 Dexterity saving throw or take 55 (10d10)\
       \ necrotic damage. The target dies if the ray reduces it to 0 hit points.  "
     "name": "Eye Rays"
@@ -112,6 +118,6 @@ aliases:
     "name": "Eye Ray"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/reduced-threat-beholder-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/reduced-threat-beholder-tftyp.webp"
 ```
 ^statblock

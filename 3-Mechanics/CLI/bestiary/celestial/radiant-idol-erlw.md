@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/11
-- new/monster/size/large
-- new/monster/type/celestial
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Radiant Idol
+- "Radiant Idol"
 ---
-# [Radiant Idol](3-Mechanics\CLI\bestiary\celestial/radiant-idol-erlw.md)
+# [Radiant Idol](3-Mechanics/CLI/bestiary/celestial/radiant-idol-erlw.md)
 *Source: Eberron: Rising from the Last War p. 308*  
 
 A radiant idol was an angel that was banished from the celestial realm of Syrania and cast down to the Material Plane. One sin led to their fall: the desire to be worshiped by mortals. Now in the mortal realm, most radiant idols gather cults of devoted followers.
@@ -61,6 +61,8 @@ A radiant idol doesn't require food, drink, or sleep.
     "desc": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "charmed, exhaustion, frightened"
+"gear":
+  - "flail"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "11"
@@ -85,8 +87,8 @@ A radiant idol doesn't require food, drink, or sleep.
 "actions":
   - "desc": "The radiant idol makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d8 + 6) bludgeoning damage plus 18 (4d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) radiant damage."
     "name": "Flail"
   - "desc": "The radiant idol chooses a point on the ground it can see within 60 feet\
       \ of it. A 30-foot-radius, 40-foot-high cylinder of bright light appears there\
@@ -97,6 +99,6 @@ A radiant idol doesn't require food, drink, or sleep.
     "name": "Radiant Strike (1/Day)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/radiant-idol-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/radiant-idol-erlw.webp"
 ```
 ^statblock

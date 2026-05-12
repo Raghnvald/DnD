@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Wyrmlings; Wyrmling Goals
+- "Wyrmlings; Wyrmling Goals"
 ---
 # Wyrmlings; Wyrmling Goals
 *Source: Fizban's Treasury of Dragons p. 35* 
 
 **Wyrmling Goals**
-
-`dice: [](wyrmlings-wyrmling-goals-ftd.md#^wyrmling-goals)`
 
 | dice: d6 | Goal |
 |----------|------|

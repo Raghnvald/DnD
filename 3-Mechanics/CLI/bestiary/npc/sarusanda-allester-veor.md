@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sarusanda Allester
+- "Sarusanda Allester"
 ---
-# [Sarusanda Allester](3-Mechanics\CLI\bestiary\npc/sarusanda-allester-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Sarusanda Allester](3-Mechanics/CLI/bestiary/npc/sarusanda-allester-veor.md)
+*Source: Vecna: Eve of Ruin p. 95*  
 
 ```statblock
 "name": "Sarusanda Allester (VEoR)"
@@ -38,41 +38,46 @@ aliases:
   - "wisdom": !!int "6"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+10"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+7"
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+7"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+10"
-"condition_immunities": "charmed, frightened"
-"senses": "truesight 30 ft., passive Perception 13"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive\
+  \ Perception 13"
 "languages": "Celestial, Common, Draconic, Elvish, any four languages, telepathy 120\
   \ ft."
 "cr": "8"
 "actions":
   - "desc": "Sarusanda attacks twice."
     "name": "Multiattack"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 22\
-      \ (4d8 + 4) force damage, and if the target is a Large or smaller creature,\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:*\
+      \ 22 (4d8 + 4) force damage, and if the target is a Large or smaller creature,\
       \ Sarusanda can push it up to 10 feet away."
     "name": "Force Bolt"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
-      \ force damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus\
+      \ 18 (4d8) force damage."
     "name": "Silver Longsword"
   - "desc": "Each creature in a 20-foot-radius sphere centered on a point Sarusanda\
       \ can see within 120 feet of it must succeed on a DC 15 Constitution saving\
-      \ throw or take 31 (6d8 + 4) force damage and be knocked prone and moved to\
-      \ the unoccupied space closest to the sphere's center. Large and smaller objects\
-      \ that aren't being worn or carried in the sphere automatically take the damage\
-      \ and are similarly moved."
+      \ throw or take 31 (6d8 + 4) force damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ and moved to the unoccupied space closest to the sphere's center. Large and\
+      \ smaller objects that aren't being worn or carried in the sphere automatically\
+      \ take the damage and are similarly moved."
     "name": "Implode (Recharge 4-6)"
   - "desc": "Sarusanda casts one of the following spells, requiring no components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      **At will:** detect magic, dispel magic, levitate, mage armor, mage hand, sending,\
-      \ speak with dead\n\n**1/day each:** Otiluke's resilient sphere, telekinesis"
+      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md)\n\
+      \n**1/day each:** [Otiluke's resilient sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
 "reactions":
   - "desc": "In response to being hit by an attack roll, Sarusanda increases its AC\
@@ -81,6 +86,6 @@ aliases:
     "name": "Telekinetic Deflection"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sarusanda-allester-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sarusanda-allester-veor.webp"
 ```
 ^statblock

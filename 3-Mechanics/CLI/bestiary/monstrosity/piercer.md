@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Piercer
+- "Piercer"
 ---
-# [Piercer](3-Mechanics\CLI\bestiary\monstrosity/piercer.md)
+# [Piercer](3-Mechanics/CLI/bestiary/monstrosity/piercer.md)
 *Source: Monster Manual p. 252*  
 
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
@@ -45,9 +45,9 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
   - !!int "3"
 "speed": "5 ft., climb 5 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -59,13 +59,14 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, one creature directly underneath the\
-      \ piercer. *Hit:* 3 (1d6) piercing damage per 10 feet fallen, up to 21 (6d6).\
-      \ Miss: The piercer takes half the normal falling damage for the distance fallen."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, one creature directly underneath\
+      \ the piercer. *Hit:* 3 (1d6) piercing damage per 10 feet fallen, up to 21\
+      \ (6d6). Miss: The piercer takes half the normal falling damage for the distance\
+      \ fallen."
     "name": "Drop"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/piercer.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/piercer.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Emissary
+- "Core Spawn Emissary"
 ---
-# [Core Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/core-spawn-emissary-egw.md)
+# [Core Spawn Emissary](3-Mechanics/CLI/bestiary/aberration/core-spawn-emissary-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  
 
 These airborne predators serve as assassins and sentinels for the core spawn. The terrible thrum of its insectoid wings and a chittering of mandibles announces an emissary's arrival.
@@ -50,12 +50,11 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
   - "wisdom": !!int "4"
   - "charisma": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "damage_immunities": "psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., tremorsense\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "blinded"
+"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": "telepathy 120 ft., understands Deep Speech but can't speak"
 "cr": "6"
 "traits":
@@ -65,25 +64,24 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
 "actions":
   - "desc": "The emissary makes three talons attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 14\
-      \ (2d10 + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 14 (2d10 + 3) slashing damage."
     "name": "Talons"
   - "desc": "The emissary emits a dreadful yet alluring hum. Each creature within\
       \ 20 feet of the emissary that can hear it and that isn't an aberration must\
-      \ succeed on a DC 14 Constitution saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ succeed on a DC 14 Constitution saving throw or be charmed for 1 minute. A\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Alluring Thrum (Recharge 5-6)"
   - "desc": "A 15-foot-radius cloud of toxic crystalline spores extends out from the\
       \ emissary. The spores spread around corners. Each creature in the area must\
-      \ succeed on a DC 14 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, a creature\
-      \ takes 11 (2d10) poison damage at the start of each of its turns. A creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+      \ succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned\
+      \ in this way, a creature takes 11 (2d10) poison damage at the start of each\
+      \ of its turns. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
     "name": "Crystal Spores (Recharge 6)"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/core-spawn-emissary-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/core-spawn-emissary-egw.webp"
 ```
 ^statblock

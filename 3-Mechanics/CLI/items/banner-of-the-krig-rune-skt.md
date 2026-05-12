@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+aliases:
 - "Banner of the Krig Rune"
 ---
 # Banner of the Krig Rune
@@ -18,11 +18,11 @@ Crafted from a thick, red fabric, this banner measures 5 feet high and 3 feet wi
 
 ## Mark of Courage
 
-As a bonus action, you can touch the unfurled banner and cause it to emanate courage. You and your allies are immune to the frightened condition while within 20 feet of it. This benefit lasts for 10 minutes or until the banner is furled. Once you use this property, you can't use it again until you finish a short or long rest.
+As a bonus action, you can touch the unfurled banner and cause it to emanate courage. You and your allies are immune to the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition while within 20 feet of it. This benefit lasts for 10 minutes or until the banner is furled. Once you use this property, you can't use it again until you finish a short or long rest.
 
 ## Sentinel Standard
 
-You can see invisible creatures while they are within 20 feet of the unfurled banner and within your line of sight.
+You can see [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures while they are within 20 feet of the unfurled banner and within your line of sight.
 
 ## Standard's Shield
 
@@ -32,6 +32,6 @@ As a bonus action, you can touch the unfurled banner and invoke this power. Any 
 
 You can transfer the banner's magic to a place by tracing the krig rune on the ground with your finger. The point where you trace it becomes the center of a spherical area of magic that has a 500-foot radius and that is fixed to the place. The transfer takes 8 hours of work that requires the banner to be within 5 feet of you and during which you choose creatures, creature types, or both that will benefit from the magic. At the end, the banner is destroyed, and the area gains the following property:
 
-While in the 500-foot-radius sphere, the creatures you chose during the transfer process are immune to the frightened condition and gain a +1 bonus to attack rolls and AC.
+While in the 500-foot-radius sphere, the creatures you chose during the transfer process are immune to the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition and gain a +1 bonus to attack rolls and AC.
 
 *Source: Storm King's Thunder p. 233*

@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/triton
 aliases:
-- Triton
+- "Triton"
 ---
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  
-![](/3-Mechanics/CLI/races/img/triton.webp#right)
+![](3-Mechanics/CLI/races/img/triton.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -29,7 +29,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-You can cast [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](/3-Mechanics/CLI/spells/water-walk-xphb.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
+You can cast [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](3-Mechanics/CLI/spells/gust-of-wind.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](3-Mechanics/CLI/spells/water-walk.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 

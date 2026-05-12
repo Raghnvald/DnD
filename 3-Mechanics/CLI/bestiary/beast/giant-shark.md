@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Shark
+- "Giant Shark"
 ---
-# [Giant Shark](3-Mechanics\CLI\bestiary\beast/giant-shark.md)
+# [Giant Shark](3-Mechanics/CLI/bestiary/beast/giant-shark.md)
 *Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
@@ -37,10 +37,10 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
   - !!int "5"
 "speed": "swim 50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 13"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "5"
 "traits":
@@ -55,7 +55,7 @@ A giant shark is 30 feet long and normally found in deep oceans. Utterly fearles
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-shark.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-shark.webp"
 ```
 ^statblock
 

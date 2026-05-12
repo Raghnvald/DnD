@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- Quelle/5e/ftd
-- Kompendium/reward/draconic-gift
+- ttrpg-cli/compendium/src/5e/ftd
+- ttrpg-cli/reward/draconic-gift
 aliases:
-- Draconic Rebirth
+- "Draconic Rebirth"
 ---
 # Draconic Rebirth
 *Draconic Gift, uncommon*  

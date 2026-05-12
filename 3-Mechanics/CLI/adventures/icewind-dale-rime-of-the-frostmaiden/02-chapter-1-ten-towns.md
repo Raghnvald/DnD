@@ -3,20 +3,20 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Chapter 1: Ten-Towns
+- "Chapter 1: Ten-Towns"
 ---
 # Chapter 1: Ten-Towns
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 17* 
 
-Like the famous drow Drizzt Do'Urden, many people who come to Ten-Towns are outcasts, fugitives, or pariahs in search of a place where they can be tolerated, if not accepted. Some came here determined to make their fortunes. Others come for the solitude, or to escape notice and stay out of the reach of the law of the southern cities. Today, four hundred years after the formation of Ten-Towns, most folk are here because they were born here, grew up here, and expect to die here. They're fishers, loggers, miners, hunters, trappers, furriers, and traders accustomed to the harsh climate, the slow pace, and the isolation. Like the hardy lichens and determined [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) of the tundra, residents endure and do what's needed to survive.
+Like the famous drow Drizzt Do'Urden, many people who come to Ten-Towns are outcasts, fugitives, or pariahs in search of a place where they can be tolerated, if not accepted. Some came here determined to make their fortunes. Others come for the solitude, or to escape notice and stay out of the reach of the law of the southern cities. Today, four hundred years after the formation of Ten-Towns, most folk are here because they were born here, grew up here, and expect to die here. They're fishers, loggers, miners, hunters, trappers, furriers, and traders accustomed to the harsh climate, the slow pace, and the isolation. Like the hardy lichens and determined [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) of the tundra, residents endure and do what's needed to survive.
 
 Icewind Dale has few trees, so lumber is cut from the slopes of the Spine of the World or the depths of the Lonelywood Forest. Stone from the hills and valleys surrounding Kelvin's Cairn supplements wood as a building material in Ten-Towns. Homes have sharply pitched roofs to prevent snow from accumulating on them.
 
 The people of Ten-Towns wear layers of woolen clothing often topped off with fur cloaks. Under these heavy clothes and cloaks, one resident looks very much the same as another. Outdoors, it's hard to tell the people of Ten-Towns apart—and easy for clever monsters to hide in their midst.
 
-![The Easthaven ferry is tra...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/006-01-000-chapter-splash.webp#center "The Easthaven ferry is trapped in ice, just like the rest of Ten-Towns..")
+![The Easthaven ferry is trapped in ice, just like the rest of Ten-Towns..](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/006-01-000-chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -33,8 +33,6 @@ Getting off on the right foot is important. If you follow these steps, you shoul
 Choose one of the ten towns as the starting point for the adventure. It doesn't matter which one, so pick your favorite or roll randomly using the Starting Town table. If you can't decide and don't want to leave it to chance, choose Bryn Shander; it's the most cosmopolitan settlement in Icewind Dale, and it has all the amenities a fledgling party of adventurers could hope for.
 
 **Starting Town**
-
-`dice: [](02-chapter-1-ten-towns.md#^starting-town)`
 
 | dice: d10 | Town | Town's Starting Quest |
 |-----------|------|-----------------------|
@@ -61,8 +59,6 @@ The quests in this chapter are designed to get the characters exploring Ten-Town
 If the characters complete a town's quest and aren't sure where to go next, inform the players that their characters have heard rumors of trouble in a neighboring town, then roll on the Ten-Towns Rumors table to determine what they've heard. Roll again if the characters have already completed the quest associated with that town.
 
 **Ten-Towns Rumors**
-
-`dice: [](02-chapter-1-ten-towns.md#^ten-towns-rumors)`
 
 | dice: d10 | Rumor |
 |-----------|-------|
@@ -96,7 +92,7 @@ The adventuring party's reputation in Ten-Towns improves as the characters gain 
 - When the characters reach 3rd level, they begin to earn a healthy measure of respect from Ten-Towners who know of their exploits.  
 - When the characters reach 4th level, they are given a hero's welcome in the towns they've helped but are given the cold shoulder in towns they've ignored. They also learn about new adventure opportunities outside Ten-Towns, as described in chapter 2.  
 
-![The Frostmaiden's aurora s...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/007-01-001-easthaven.webp#center "The Frostmaiden's aurora sweeps across the night sky over Easthaven")
+![The Frostmaiden's aurora sweeps across the night sky over Easthaven](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/007-01-001-easthaven.webp#center)
 
 ## Ten-Towns Overview
 
@@ -133,9 +129,9 @@ The Winter Survival Gear table provides costs for cold weather clothing, crampon
 
 | Item | Cost | Weight |
 |------|------|--------|
-| [Clothing, cold weather](/3-Mechanics/CLI/items/clothing-cold-weather-idrotf.md) | 10 gp | 5 lb. |
-| [Crampons (2)](/3-Mechanics/CLI/items/crampons-idrotf.md) | 2 gp | 1/4 lb. |
-| [Snowshoes](/3-Mechanics/CLI/items/snowshoes-idrotf.md) | 2 gp | 4 lb. |
+| [Clothing, cold weather](3-Mechanics/CLI/items/clothing-cold-weather-idrotf.md) | 10 gp | 5 lb. |
+| [Crampons (2)](3-Mechanics/CLI/items/crampons-idrotf.md) | 2 gp | 1/4 lb. |
+| [Snowshoes](3-Mechanics/CLI/items/snowshoes-idrotf.md) | 2 gp | 4 lb. |
 ^winter-survival-gear
 
 #### Cold Weather Clothing
@@ -146,7 +142,7 @@ As long as cold weather clothing remains dry, its wearer automatically succeeds 
 
 #### Crampons
 
-A crampon is a metal plate with spikes that is strapped to the sole of a boot. A creature wearing crampons can't fall prone while moving across slippery ice.
+A crampon is a metal plate with spikes that is strapped to the sole of a boot. A creature wearing crampons can't fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone) while moving across slippery ice.
 
 #### Snowshoes
 
@@ -154,27 +150,27 @@ Snowshoes reduce the likelihood of their wearer getting stuck in the deep snow.
 
 ### Getting Around Ten-Towns
 
-![Axe Beak](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/008-01-002-axe-beak.webp#center)
+![Axe Beak](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/008-01-002-axe-beak.webp#center)
 
 Most Ten-Towners travel from town to town on foot. Those who need to transport more goods than they can carry use wooden sleds pulled by dogs or domesticated axe beaks as pack animals. Such things can be bought and sold in every Ten-Towns settlement.
 
 #### Dogsleds
 
-An empty sled costs 20 gp, weighs 300 pounds, and has room at the back for one driver. A [sled dog](/3-Mechanics/CLI/items/sled-dog-idrotf.md) (use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) stat block in "appendix A" of the "Monster Manual") costs 50 gp and can pull 360 pounds.
+An empty sled costs 20 gp, weighs 300 pounds, and has room at the back for one driver. A [sled dog](3-Mechanics/CLI/items/sled-dog-idrotf.md) (use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) stat block in "appendix A" of the "Monster Manual") costs 50 gp and can pull 360 pounds.
 
-Sled dogs must take a short rest after pulling a sled for 1 hour; otherwise, they gain one level of exhaustion.
+Sled dogs must take a short rest after pulling a sled for 1 hour; otherwise, they gain one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).
 
 #### Axe Beaks
 
-An [axe beak](/3-Mechanics/CLI/bestiary/beast/axe-beak.md)'s splayed toes allow it to run across snow, and it can carry as much weight as a mule. A domesticated [axe beak](/3-Mechanics/CLI/items/axe-beak-idrotf.md) can be purchased in Ten-Towns for 50 gp. See "appendix A" of the "Monster Manual" for the axe beak's stat block.
+An [axe beak](3-Mechanics/CLI/bestiary/beast/axe-beak.md)'s splayed toes allow it to run across snow, and it can carry as much weight as a mule. A domesticated [axe beak](3-Mechanics/CLI/items/axe-beak-idrotf.md) can be purchased in Ten-Towns for 50 gp. See "appendix A" of the "Monster Manual" for the axe beak's stat block.
 
 ### Magic in Ten-Towns
 
-Characters hoping to procure powerful magic items or the services of a high-level spellcaster in Ten-Towns are out of luck. At best, they might be able to find common magic items for sale, or a friendly [druid](/3-Mechanics/CLI/bestiary/humanoid/druid.md), [priest](/3-Mechanics/CLI/bestiary/humanoid/priest.md), or [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) who can cast spells on their behalf. For every hundred people in a town, there's one such individual living among them.
+Characters hoping to procure powerful magic items or the services of a high-level spellcaster in Ten-Towns are out of luck. At best, they might be able to find common magic items for sale, or a friendly [druid](3-Mechanics/CLI/bestiary/humanoid/druid.md), [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md), or [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) who can cast spells on their behalf. For every hundred people in a town, there's one such individual living among them.
 
 Magic items and magical services available in Ten-Towns are summarized below. If an item or spell is not covered here, assume there is no friendly NPC who can sell or cast it.
 
-Common magic items cost 100 gp each where they're available, except for common potions (such as potions of healing), which can be had for 50 gp.
+Common magic items cost 100 gp each where they're available, except for common potions (such as [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md)), which can be had for 50 gp.
 
 A friendly spellcaster will charge 25 gp for a 1st-level spell, 50 gp for one that uses a 2nd-level spell slot, or 150 gp for one that uses a 3rd-level spell slot, plus the cost of any expensive material components.
 
@@ -194,7 +190,7 @@ A three-snowflake town is where characters are most likely to find the services 
 
 Characters can find decent food and drink, as well as warm beds, in a three-snowflake town. A two-snowflake town might have a small tavern plus an inn with drafty rooms to rent. A one-snowflake town might have a cold shed or attic where characters can crash for the night, and that's about it.
 
-![A crag cat claims an offer...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/009-01-003-crag-cat.webp#center "A crag cat claims an offering of food made by Ten-Towners to appease the Frostmaiden")
+![A crag cat claims an offering of food made by Ten-Towners to appease the Frostmaiden](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/009-01-003-crag-cat.webp#center)
 
 ### Sacrifices to Auril
 
@@ -259,32 +255,32 @@ To begin this quest, read the following boxed text to the players:
 > What's the connection? The drunken lot huddled in the tavern offers no credible ideas, but sitting apart from them is an elderly shield dwarf with a nasty scar across her nose who looks like she has something worth knowing. She's been smoking her pipe and eyeing you ever since you walked in.
 ^061
 
-Hlin Trollbane, a neutral good shield dwarf, is a retired bounty hunter with finely honed survival instincts. She is an unarmored [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) who wields a battleaxe and handaxe instead of a longsword and shortsword. Plying her profession earned her a few too many enemies up and down the Sword Coast, which is why she wound up in Icewind Dale.
+Hlin Trollbane, a neutral good shield dwarf, is a retired bounty hunter with finely honed survival instincts. She is an unarmored [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) who wields a battleaxe and handaxe instead of a longsword and shortsword. Plying her profession earned her a few too many enemies up and down the Sword Coast, which is why she wound up in Icewind Dale.
 
-Out of boredom and a sense of moral decency, Hlin has taken it upon herself to investigate the recent murders because no one else—not even the Council of Speakers—can be bothered. Hlin is studying the characters closely, trying to decide if they're worth her time. Ultimately, she takes the chance and draws them into conversation, asking them to help her take down her only suspect: a man named [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md). Here's what she knows about Sephek and the victims:
+Out of boredom and a sense of moral decency, Hlin has taken it upon herself to investigate the recent murders because no one else—not even the Council of Speakers—can be bothered. Hlin is studying the characters closely, trying to decide if they're worth her time. Ultimately, she takes the chance and draws them into conversation, asking them to help her take down her only suspect: a man named [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md). Here's what she knows about Sephek and the victims:
 
 > [!readaloud] 
 > 
-> "[Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) works for a small traveling merchant company called Torg's, owned and operated by a shady dwarf named Torrga Icevein. In other words, Sephek gets around. He's charming. Makes friends easily. He's also Torrga's bodyguard, so I'm guessing he's good with a blade.
+> "[Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) works for a small traveling merchant company called Torg's, owned and operated by a shady dwarf named Torrga Icevein. In other words, Sephek gets around. He's charming. Makes friends easily. He's also Torrga's bodyguard, so I'm guessing he's good with a blade.
 > 
 > "His victims come from the only three towns that sacrifice people to the Frostmaiden on nights of the new moon. This is what passes for civilized behavior in Icewind Dale. Maybe the victims found a way to keep their names out of the drawings and Sephek found out they were cheating, so he killed them. Maybe, just maybe, Sephek is doing the Frostmaiden's work.
 > 
-> "I followed Torg's for a tenday as it moved from town to town. Quite the devious little enterprise, but that's not my concern. What struck me is how comfortable [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) looked in this weather. No coat, no scarf, no gloves. It was like the cold couldn't touch him. Kiss of the Frostmaiden, indeed.
+> "I followed Torg's for a tenday as it moved from town to town. Quite the devious little enterprise, but that's not my concern. What struck me is how comfortable [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) looked in this weather. No coat, no scarf, no gloves. It was like the cold couldn't touch him. Kiss of the Frostmaiden, indeed.
 > 
-> "I will pay you a hundred gold pieces to apprehend [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md), ascertain his guilt, and deal with him, preferably without involving the authorities. When the job is done, return to me to collect your money."
+> "I will pay you a hundred gold pieces to apprehend [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md), ascertain his guilt, and deal with him, preferably without involving the authorities. When the job is done, return to me to collect your money."
 ^062
 
 For the benefit of characters who are new to Ten-Towns, Hlin can explain that certain settlements (Bryn Shander, Easthaven, and Targos) are making humanoid sacrifices to Auril, holding lotteries to determine who gets sacrificed on nights of the new moon (see "Sacrifices to Auril").
 
-If Hlin's theory is true and [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) is killing Ten-Towners who cheat their way out of becoming sacrifices to Auril, it's likely the Frostmaiden will use him to kill again. Hlin is too old and frail to apprehend Sephek herself, but she has more gold than she needs, so she hires the characters to do her work.
+If Hlin's theory is true and [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) is killing Ten-Towners who cheat their way out of becoming sacrifices to Auril, it's likely the Frostmaiden will use him to kill again. Hlin is too old and frail to apprehend Sephek herself, but she has more gold than she needs, so she hires the characters to do her work.
 
-The challenge begins with finding [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md), since Torg's moves around a lot. Hlin doesn't know if Sephek is acting alone or has the support of Torrga Icevein, so she advises the characters to isolate Sephek and dispose of him quietly, if such action is called for.
+The challenge begins with finding [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md), since Torg's moves around a lot. Hlin doesn't know if Sephek is acting alone or has the support of Torrga Icevein, so she advises the characters to isolate Sephek and dispose of him quietly, if such action is called for.
 
 ### Finding Torg's
 
-You can randomly determine the location of the merchant company by rolling a `dice:d10|noform|noparens|avg` (`d10`) and consulting the Starting Town table (see "Starting Town"). Roll again if the result is the adventure's starting town. Conversely, you can forgo the roll and pick a town you like. Bremen and Dougan's Hole are good choices because they're small and isolated.
+You can randomly determine the location of the merchant company by rolling a `d10` and consulting the Starting Town table (see "Starting Town"). Roll again if the result is the adventure's starting town. Conversely, you can forgo the roll and pick a town you like. Bremen and Dougan's Hole are good choices because they're small and isolated.
 
-The characters can either visit towns one by one until they find Torg's, or they can try to get a solid lead before setting out. Any character who spends an hour talking to townsfolk can make a DC 17 Charisma (Investigation) check at the end of that hour. On a successful check, the character finds someone who knows Torrga Icevein's travel plans and is willing to share that information for a small bribe (at least 5 gp or nonperishable goods of equal value). Armed with that information, the characters can travel to the town by the most expeditious route.
+The characters can either visit towns one by one until they find Torg's, or they can try to get a solid lead before setting out. Any character who spends an hour talking to townsfolk can make a DC 17 Charisma ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check at the end of that hour. On a successful check, the character finds someone who knows Torrga Icevein's travel plans and is willing to share that information for a small bribe (at least 5 gp or nonperishable goods of equal value). Armed with that information, the characters can travel to the town by the most expeditious route.
 
 #### Torrga Icevein and Her Caravan
 
@@ -292,7 +288,7 @@ The Torg's caravan consists of three heavily laden dogsleds, each one pulled by 
 
 Torg's is an outdoor shop. Goods are unpacked and displayed in crates, with small canopies to keep the snow off them. Most of Torrga's goods are stolen or fenced, and she sells them for double the normal price. She has a protection racket that earns her a little coin on the side, and she also commits murders for profit on the sly. One of the larger sacks on Torrga's sled contains the frozen corpse of a male half-elf in his thirties with a stab wound in his chest. The half-elf had a bounty on his head and came to Icewind Dale to disappear. Torrga found him and killed him with Sephek's help. Once she's sold off her goods in Ten-Towns, she plans to deliver the corpse to Luskan and collect the 125 gp bounty.
 
-Torrga is a neutral evil shield dwarf [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) with darkvision out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against being poisoned. While Torg's is open for business, she keeps her employees close to her. She employs [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) as a bodyguard and pays four others (neutral evil human [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit.md)) to drive and protect the other two sleds. Torrga is interested only in profits, turns a blind eye to Sephek's murderous escapades, and tries to help him as best she can without endangering her own life.
+Torrga is a neutral evil shield dwarf [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against being [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned). While Torg's is open for business, she keeps her employees close to her. She employs [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) as a bodyguard and pays four others (neutral evil human [bandits](3-Mechanics/CLI/bestiary/humanoid/bandit.md)) to drive and protect the other two sleds. Torrga is interested only in profits, turns a blind eye to Sephek's murderous escapades, and tries to help him as best she can without endangering her own life.
 
 ##### Treasure
 
@@ -300,15 +296,15 @@ Torrga keeps her proceeds in a small, locked iron strongbox, which she hides in 
 
 #### Sephek Kaltro
 
-[Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) (see the accompanying stat block) is a well-built man in his thirties. He has an olive complexion, dark hair pulled back in a ponytail, and no facial or body hair. He is dressed in a stylish vest with matching pants and boots, similar in style to those worn by mariners of the southern Sword Coast, but wears no armor or cold weather clothing and doesn't appear to be armed. His most striking feature is his eyes, which are as blue as a frozen lake.
+[Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) (see the accompanying stat block) is a well-built man in his thirties. He has an olive complexion, dark hair pulled back in a ponytail, and no facial or body hair. He is dressed in a stylish vest with matching pants and boots, similar in style to those worn by mariners of the southern Sword Coast, but wears no armor or cold weather clothing and doesn't appear to be armed. His most striking feature is his eyes, which are as blue as a frozen lake.
 
 The best way to deal with Sephek is to confront him while he's separated from Torrga and her other cronies. Sephek stays close to Torrga during business hours. Once activity drops off, Torrga shuts down her operation for the rest of the day, puts the dogs in a kennel and the sleds in a secure shed, and pays for the team's lodgings. After Torrga retires for the night, Sephek is free to do as he pleases until the following morning. If he happens to be in Bryn Shander, Easthaven, or Targos, he stalks his next murder victim. If he's elsewhere, he spends the night drinking and carousing, then falls asleep for a few hours, preferably in an unheated place such as a barn or an abandoned cottage.
 
-When asked about his odd style of dress, [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) claims that he was born on the holiday of Midwinter and that the Frostmaiden's blessing protects him from the cold. In truth, Sephek was not born during Midwinter. He was a mariner whose ship sank off the coast of Auril's island a few months ago. He swam to the island but nearly froze to death. As his life was fading, the spirit of a frost druid beholden to Auril possessed him. The winter spirit cannibalized Sephek's spirit and is using him as a living vessel to do the Frostmaiden's work. The spirit can't leave Sephek's body; if Sephek dies, the winter spirit is destroyed along with him.
+When asked about his odd style of dress, [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) claims that he was born on the holiday of Midwinter and that the Frostmaiden's blessing protects him from the cold. In truth, Sephek was not born during Midwinter. He was a mariner whose ship sank off the coast of Auril's island a few months ago. He swam to the island but nearly froze to death. As his life was fading, the spirit of a frost druid beholden to Auril possessed him. The winter spirit cannibalized Sephek's spirit and is using him as a living vessel to do the Frostmaiden's work. The spirit can't leave Sephek's body; if Sephek dies, the winter spirit is destroyed along with him.
 
 Auril inspired Sephek to travel to Ten-Towns and offer his services to Torrga Icevein. As Hlin suspects, he has been killing Ten-Towners who pay off low-ranking town officials to exclude their names from the lotteries in Bryn Shander, Easthaven, and Targos. Because he's doing the Frostmaiden's work, the spirit inside Sephek doesn't care about getting caught, and he isn't shy about admitting his guilt. He considers surrendering only because it buys time for him to escape and commit more murders. In combat, he wields a magical sword and magical daggers made of ice that he can conjure at will. These weapons melt and break like icicles in the hands of other creatures.
 
-![Sephek Kaltro](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/010-637357081747240888.webp#center)
+![Sephek Kaltro](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/010-637357081747240888.webp#center)
 
 ### Concluding the Quest
 
@@ -318,13 +314,13 @@ If the characters capture Sephek and deliver him to the authorities, they stop t
 
 If Torrga Icevein survives but has reason to believe the characters slew her bodyguard, she pressures certain Ten-Towners not to do business with them. At some later point, the characters might find themselves unable to buy something they need or denied lodging at a local inn because the merchant or proprietor doesn't want to earn Torrga's everlasting enmity.
 
-![Using a stolen plate and c...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/011-01-004.webp#center "Using a stolen plate and cutlery, three chwingas play house in the snow")
+![Using a stolen plate and cutlery, three chwingas play house in the snow](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/011-01-004.webp#center)
 
 ## Starting Quest: Nature Spirits
 
 This is the second of two quests designed to kick off the adventure. It prompts the characters to explore the various locales in Ten-Towns, where they can pick up other quests.
 
-At the start of this quest, the characters are approached by a young spellcaster named Dannika Graysteel. A new resident of Ten-Towns, she's trying to find a way to alter the climate in Icewind Dale. She hires them to locate and capture a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md), several of which she believes are located in and around Ten-Towns. Although she provides the characters with a magical means to locate chwingas, it's up to them to figure out a way to capture one or convince it to help Dannika with her experiments.
+At the start of this quest, the characters are approached by a young spellcaster named Dannika Graysteel. A new resident of Ten-Towns, she's trying to find a way to alter the climate in Icewind Dale. She hires them to locate and capture a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md), several of which she believes are located in and around Ten-Towns. Although she provides the characters with a magical means to locate chwingas, it's up to them to figure out a way to capture one or convince it to help Dannika with her experiments.
 
 ### Getting the Quest
 
@@ -335,27 +331,27 @@ Begin this quest by reading the following boxed text to the players:
 > A bundled-up figure walks briskly up to you. "Well met! You lot seem like you're looking for work. Or trouble. You wouldn't be standing around in this cold otherwise."
 ^06a
 
-The speaker is Dannika Graysteel (lawful neutral half-elf [acolyte](/3-Mechanics/CLI/bestiary/humanoid/acolyte.md)), a scholar who thinks that wee elemental spirits known as chwingas might be the key to improving Icewind Dale's climate. Since chwingas are known to inhabit Ten-Towns and have some ability to alter their natural surroundings, Dannika thinks she can learn a lot by studying one up close. For the characters' services, Dannika is offering the group 25 gp as well as a [lantern of tracking (elementals)](/3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md) that can help locate chwingas. She says she'll be at the local tavern each evening, so the characters should have no trouble finding her once the job is completed. If the characters accept her quest, Dannika gives them her lantern (see appendix D) and explains how it works. She then tells them she's been looking all over town and hasn't found any chwingas. She suggests the characters might have better luck in one of the other settlements. She could continue the search herself, but she's nervous about venturing out into the extreme cold and has other research-related chores to attend to.
+The speaker is Dannika Graysteel (lawful neutral half-elf [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md)), a scholar who thinks that wee elemental spirits known as chwingas might be the key to improving Icewind Dale's climate. Since chwingas are known to inhabit Ten-Towns and have some ability to alter their natural surroundings, Dannika thinks she can learn a lot by studying one up close. For the characters' services, Dannika is offering the group 25 gp as well as a [lantern of tracking (elementals)](3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md) that can help locate chwingas. She says she'll be at the local tavern each evening, so the characters should have no trouble finding her once the job is completed. If the characters accept her quest, Dannika gives them her lantern (see appendix D) and explains how it works. She then tells them she's been looking all over town and hasn't found any chwingas. She suggests the characters might have better luck in one of the other settlements. She could continue the search herself, but she's nervous about venturing out into the extreme cold and has other research-related chores to attend to.
 
 #### Elusive Elementals
 
-There are no chwingas in the adventurers' starting town, but each time they visit another town in Icewind Dale, there's a cumulative 25 percent chance of chwingas being present. Searching a town for chwingas doesn't take long if the characters use the [lantern of tracking](/3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md), since the towns are small and compact.
+There are no chwingas in the adventurers' starting town, but each time they visit another town in Icewind Dale, there's a cumulative 25 percent chance of chwingas being present. Searching a town for chwingas doesn't take long if the characters use the [lantern of tracking](3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md), since the towns are small and compact.
 
-If the characters ask the residents of a town about [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) sightings, people seem dismissive of the notion of elementals living among them. The occasional fisher reeking of dwarven ale might recall seeing "a tiny figure riding a fox through town" but can't remember where or when the sighting occurred.
+If the characters ask the residents of a town about [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) sightings, people seem dismissive of the notion of elementals living among them. The occasional fisher reeking of dwarven ale might recall seeing "a tiny figure riding a fox through town" but can't remember where or when the sighting occurred.
 
 ### Thieves in the Wind
 
-When the characters find a town that has chwingas living in or near it, the flame in the [lantern of tracking (elementals)](/3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md) turns green as they approach the edge of town, whereupon they spot a bundled-up figure—a human commoner named Elva—stomping out of a snow-covered cottage. Upon seeing the adventurers, she starts yelling at the wind and warning the characters to watch out for the curses it brings. According to Elva, trickster spirits have been opening her windows, sending horrible chills through her home, and knocking over her cups and plates. Some of her cutlery has even gone missing.
+When the characters find a town that has chwingas living in or near it, the flame in the [lantern of tracking (elementals)](3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md) turns green as they approach the edge of town, whereupon they spot a bundled-up figure—a human commoner named Elva—stomping out of a snow-covered cottage. Upon seeing the adventurers, she starts yelling at the wind and warning the characters to watch out for the curses it brings. According to Elva, trickster spirits have been opening her windows, sending horrible chills through her home, and knocking over her cups and plates. Some of her cutlery has even gone missing.
 
-Characters who inspect the windows of Elva's cottage can make a DC 10 Intelligence (Investigation) check. On a success, they find wee tracks leading away from a snowy windowsill of the cottage toward a nearby thicket. A character who succeeds on a DC 14 Wisdom (Survival) check can discern three individual sets of tiny footprints. Some of the footprints have a thin furrow in the snow alongside them, as if something was being dragged behind the creatures.
+Characters who inspect the windows of Elva's cottage can make a DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. On a success, they find wee tracks leading away from a snowy windowsill of the cottage toward a nearby thicket. A character who succeeds on a DC 14 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check can discern three individual sets of tiny footprints. Some of the footprints have a thin furrow in the snow alongside them, as if something was being dragged behind the creatures.
 
 #### Playing House
 
-By following the tracks, a character with a passive Wisdom (Perception) score of 13 or higher can pick up the sound of movement from behind the conifers, where three [chwingas](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) (see appendix C) are playing atop the snow in a clearing. A dinner plate with branches and pinecones arrayed on it is placed between them, and one [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is sitting at the edge of the plate while the two others are moving a fork and a knife as if to cut and eat the "food."
+By following the tracks, a character with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or higher can pick up the sound of movement from behind the conifers, where three [chwingas](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) are playing atop the snow in a clearing. A dinner plate with branches and pinecones arrayed on it is placed between them, and one [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is sitting at the edge of the plate while the two others are moving a fork and a knife as if to cut and eat the "food."
 
 When the characters enter the clearing, the chwingas look up at them with interest. The one not holding a piece of cutlery starts moving its hands, mimicking eating while looking up at the characters and making welcoming gestures.
 
-If a character indulges in the game of pretend that is being played out, such as by sitting down and joining the dinner, the chwingas become excited and start inspecting the character in detail. After this, the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) that wasn't holding any cutlery begins following the character, remaining with that individual for up to a tenday, leaving the other chwingas behind. When the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) finally parts company with the character, assuming it has been well treated, it bestows a supernatural charm upon the character (see ""Supernatural Gifts"" in the "Dungeon Master's Guide" for more information). The charm can be any one of the following:
+If a character indulges in the game of pretend that is being played out, such as by sitting down and joining the dinner, the chwingas become excited and start inspecting the character in detail. After this, the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) that wasn't holding any cutlery begins following the character, remaining with that individual for up to a tenday, leaving the other chwingas behind. When the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) finally parts company with the character, assuming it has been well treated, it bestows a supernatural charm upon the character (see ""Supernatural Gifts"" in the "Dungeon Master's Guide" for more information). The charm can be any one of the following:
 
 - A charm of animal conjuring, a charm of heroism, or a charm of vitality, all of which are described in the "Dungeon Master's Guide".  
 - One of the charms described in the "New Chwinga Charms" section in appendix C.  
@@ -364,4 +360,4 @@ The chwingas remain docile unless a character acts aggressively toward them, whe
 
 ### Concluding the Quest
 
-If the characters return with a live [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md), Dannika pays their promised reward of 25 gp, and they get to keep the [lantern of tracking](/3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md). If the characters brought a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) back without having to restrain or harm it, Dannika provides them with an additional 25 gp for their outstanding service.
+If the characters return with a live [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md), Dannika pays their promised reward of 25 gp, and they get to keep the [lantern of tracking](3-Mechanics/CLI/items/lantern-of-tracking-idrotf.md). If the characters brought a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) back without having to restrain or harm it, Dannika provides them with an additional 25 gp for their outstanding service.

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Tavern Name Generator
+- "Random Buildings; Tavern Name Generator"
 ---
 # Random Buildings; Tavern Name Generator
 *Source: Dungeon Master's Guide p. 113* 
 
 **Tavern Name Generator**
-
-`dice: [](random-buildings-tavern-name-generator.md#^tavern-name-generator)`
 
 | dice: d20 | First Part | Second Part |
 |-----------|------------|-------------|

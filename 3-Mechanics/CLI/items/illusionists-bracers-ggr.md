@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/ggr
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Illusionist's Bracers"
 ---
 # Illusionist's Bracers
 *Wondrous item, very rare (requires attunement by a spellcaster)*  
-![](/3-Mechanics/CLI/items/img/illusionists-bracers.webp#right)
+![](3-Mechanics/CLI/items/img/illusionists-bracers.webp#right)
 
 
 A powerful illusionist of House Dimir originally developed these bracers, which enabled her to create multiple minor illusions at once. The bracers' power, though, extends far beyond illusions.

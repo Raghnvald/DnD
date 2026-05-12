@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scorpion
+- "Scorpion"
 ---
-# [Scorpion](3-Mechanics\CLI\bestiary\beast/scorpion.md)
+# [Scorpion](3-Mechanics/CLI/bestiary/beast/scorpion.md)
 *Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -34,19 +34,19 @@ aliases:
   - !!int "8"
   - !!int "2"
 "speed": "10 ft."
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception\
-  \ 9"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 1\
-      \ piercing damage, and the target must make a DC 9 Constitution saving throw,\
-      \ taking 4 (1d8) poison damage on a failed save, or half as much damage on a\
-      \ successful one."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 1 piercing damage, and the target must make a DC 9 Constitution saving throw,\
+      \ taking 4 (1d8) poison damage on a failed save, or half as much damage on\
+      \ a successful one."
     "name": "Sting"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/scorpion.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/scorpion.webp"
 ```
 ^statblock
 

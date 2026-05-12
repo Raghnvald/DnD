@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Rumors—Precinct One
+- "Rumors—Precinct One"
 ---
 # Rumors—Precinct One
 *Source: Guildmasters' Guide to Ravnica p. 105* 
 
 **Rumors—Precinct One**
-
-`dice: [](rumorsprecinct-one-ggr.md#^rumorsprecinct-one)`
 
 | dice: d6 | Rumor |
 |----------|-------|

@@ -7,13 +7,13 @@ tags:
 - ttrpg-cli/monster/cr/11
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Shadowblade
+- "Drow Shadowblade"
 ---
-# [Drow Shadowblade](3-Mechanics\CLI\bestiary\humanoid/drow-shadowblade-mpmm.md)
+# [Drow Shadowblade](3-Mechanics/CLI/bestiary/humanoid/drow-shadowblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 105, Mordenkainen's Tome of Foes p. 187*  
 
 Drow shadowblades steal down the dim passages of the Underdark, bound on errands of mayhem. They protect enclaves and Underdark cities from enemies and track down thieves who make off with prized treasures. In the city of Menzoberranzan in the Forgotten Realms, noble houses often employ shadowblades to eliminate rivals from other houses. In communities free of Lolth's sway, they serve as spies tasked with foiling the plots of that demon lord's cult. In any role they take on, they move undetected until the moment they attack—and then they are the last thing their victims see.
@@ -24,10 +24,10 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "name": "Drow Shadowblade (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
 "hp": !!int "150"
 "hit_dice": "20d8 + 60"
 "modifier": !!int "5"
@@ -44,22 +44,24 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
   - "constitution": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "11"
 "traits":
-  - "desc": "Magical darkness doesn't impede the drow's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the drow's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
-  - "desc": "The drow has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -72,17 +74,16 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
     "name": "Shadow Sword"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:*\
       \ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for\
-      \ 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way. The\
-      \ target regains consciousness if it takes damage or if another creature takes\
-      \ an action to shake it."
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The target regains consciousness if it takes damage or if another creature\
+      \ takes an action to shake it."
     "name": "Hand Crossbow"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md)\n\n**1/day each:** [faerie\
-      \ fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [darkness](3-Mechanics/CLI/spells/darkness.md)\n\
+      \n**1/day each:** [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md), [levitate](3-Mechanics/CLI/spells/levitate.md)\
       \ (self only)"
     "name": "Spellcasting"
 "bonus_actions":
@@ -94,7 +95,7 @@ A shadowblade gains their powers over shadow via a ritual in which they kill a s
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/drow-shadowblade-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-shadowblade-mpmm.webp"
 ```
 ^statblock
 

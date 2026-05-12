@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Crab
+- "Giant Crab"
 ---
-# [Giant Crab](3-Mechanics\CLI\bestiary\beast/giant-crab.md)
-*Source: Monster Manual p. 324, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Crab](3-Mechanics/CLI/bestiary/beast/giant-crab.md)
+*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Crab"
@@ -35,23 +35,24 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "blindsight 30 ft., passive Perception 9"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "1/8"
 "traits":
   - "desc": "The crab can breathe air and water."
     "name": "Amphibious"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab\
-      \ has two claws, each of which can grapple only one target."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 11). The crab has two claws, each of which can grapple only one\
+      \ target."
     "name": "Claw"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-crab.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-crab.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Gremishkas
+- "Swarm of Gremishkas"
 ---
-# [Swarm of Gremishkas](3-Mechanics\CLI\bestiary\monstrosity/swarm-of-gremishkas-vrgr.md)
+# [Swarm of Gremishkas](3-Mechanics/CLI/bestiary/monstrosity/swarm-of-gremishkas-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 235*  
 
 Gremishkas are the vicious products of mistakes made by novice spellcasters seeking to create life. The results are cat-sized, magically unstable creatures with a taste for the trappings of magic—particularly spellbooks, spell components, familiars, and the like. Gremishkas delight in tormenting magic-users, holding vicious grudges against those who gave them life as they infest the walls of spellcasters' homes or the surrounding lands.
@@ -39,15 +39,15 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
   - !!int "4"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 14"
 "languages": "understands Common but can't speak"
 "cr": "2"
 "traits":
@@ -70,6 +70,6 @@ Gremishkas have an unstable relationship with magic. Spells cast near a gremishk
     "name": "Spell Redirection"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/swarm-of-gremishkas-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/swarm-of-gremishkas-vrgr.webp"
 ```
 ^statblock

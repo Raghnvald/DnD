@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/life
-aliases: 
-- Labelas Enoreth
+aliases:
+- "Labelas Enoreth"
 ---
 # Labelas Enoreth
 *Source: Mordenkainen's Tome of Foes p. 45* 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Topaz Dragon Treasures; Topaz Dragon Art Objects
+- "Topaz Dragon Treasures; Topaz Dragon Art Objects"
 ---
 # Topaz Dragon Treasures; Topaz Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 152* 
 
 **Topaz Dragon Art Objects**
-
-`dice: [](topaz-dragon-treasures-topaz-dragon-art-objects-ftd.md#^topaz-dragon-art-objects)`
 
 | dice: d8 | Object |
 |----------|--------|

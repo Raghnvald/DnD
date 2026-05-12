@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/halfling
 - ttrpg-cli/domain/trickery
-aliases: 
-- Charmalaine
+aliases:
+- "Charmalaine"
 ---
 # Charmalaine
 *Source: Mordenkainen's Tome of Foes p. 103* 

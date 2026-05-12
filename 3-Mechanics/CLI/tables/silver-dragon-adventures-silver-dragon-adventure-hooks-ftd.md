@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Silver Dragon Adventures; Silver Dragon Adventure Hooks
+- "Silver Dragon Adventures; Silver Dragon Adventure Hooks"
 ---
 # Silver Dragon Adventures; Silver Dragon Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 145* 
 
 **Silver Dragon Adventure Hooks**
-
-`dice: [](silver-dragon-adventures-silver-dragon-adventure-hooks-ftd.md#^silver-dragon-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/twilight
 - ttrpg-cli/domain/war
-aliases: 
-- Dol Arrah
+aliases:
+- "Dol Arrah"
 ---
 # Dol Arrah
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything p. 34* 

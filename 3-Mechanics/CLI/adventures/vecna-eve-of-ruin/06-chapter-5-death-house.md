@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Chapter 5: Death House
+- "Chapter 5: Death House"
 ---
 # Chapter 5: Death House
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 93* 
 
-![Death House is a source of...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/080-05-001-the-death-house.webp#center "Death House is a source of terror in Barovia, and the characters soon discover why")
+![Death House is a source of terror in Barovia, and the characters soon discover why](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/080-05-001-the-death-house.webp#center)
 
-The fourth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in Barovia, one of the Shadowfell's Domains of Dread. With the aid of an Ulmist inquisitor, the party infiltrates the basement of an eerie locale called Death House. Here, they must stop cults plotting to use the fourth rod piece in vile rituals while also preventing the artifact from falling into of the hands of the infamous vampire Strahd von Zarovich.
+The fourth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in Barovia, one of the Shadowfell's Domains of Dread. With the aid of an Ulmist inquisitor, the party infiltrates the basement of an eerie locale called Death House. Here, they must stop cults plotting to use the fourth rod piece in vile rituals while also preventing the artifact from falling into of the hands of the infamous vampire Strahd von Zarovich.
 
 ## Running This Chapter
 
-This chapter begins after the characters retrieve the third piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). When a character holds this piece, they instinctively know that the next closest piece is located in the village of Barovia, in the domain of Strahd von Zarovich. Although it's a small village, Barovia teems with supernatural threats—including the forebodingly named Death House, the location of the fourth piece.
+This chapter begins after the characters retrieve the third piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). When a character holds this piece, they instinctively know that the next closest piece is located in the village of Barovia, in the domain of Strahd von Zarovich. Although it's a small village, Barovia teems with supernatural threats—including the forebodingly named Death House, the location of the fourth piece.
 
 By researching Death House in the Sigil sanctum or asking the Wizards Three about it, the characters learn that Death House is owned by two Barovians named Gustav and Elisabeth Durst, who run a small cult devoted to Barovia's Darklord, Strahd von Zarovich. Given the domain's many greater threats, this minor cult and the house draw scant attention. If the characters ask, Alustriel shares the information in the "Knowledge of Barovia" section. Neither the wizards nor the available research materials in Sigil can reveal further details.
 
@@ -24,7 +24,7 @@ This chapter begins with the characters' approach to Death House. Their journey 
 
 ### Character Advancement
 
-The characters should be 14th level when this chapter begins. They gain a level after they retrieve the fourth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from Death House.
+The characters should be 14th level when this chapter begins. They gain a level after they retrieve the fourth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from Death House.
 
 ### Power of Secrets
 
@@ -34,7 +34,7 @@ The characters can learn one secret in this chapter that is applicable to the ru
 
 ### Fourth Rod Piece
 
-The [fourth piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area D38 of Death House. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+The [fourth piece](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area D38 of Death House. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
 
 ## Barovia
 
@@ -61,9 +61,9 @@ When the characters step through the portal in Sigil, they wade through a thick 
 
 If the characters attempt to leave or circumvent the village, the Mists return them to where they started.
 
-The third piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) points toward the tall, gloomy house on the village's far side, where the sound of weeping is coming from.
+The third piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) points toward the tall, gloomy house on the village's far side, where the sound of weeping is coming from.
 
-![Barovian villagers confron...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/081-05-002-barovian-villagers.webp#center "Barovian villagers confront the characters when they arrive, believing they're villains")
+![Barovian villagers confront the characters when they arrive, believing they're villains](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/081-05-002-barovian-villagers.webp#center)
 
 ### Unwelcome Party
 
@@ -74,17 +74,17 @@ While making their way across the village, the characters are accosted by a thro
 > As you move through town, a handful of murmuring villagers follow you at a distance. More villagers emerge from houses on all sides, and soon you're surrounded by a small mob. A farmer carrying a pitchfork points at you and calls you interlopers. Other folks brandish brooms, axes, and large stones. They scream at you to leave the village.
 ^221
 
-The mob consists of twenty hostile [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) who surround the characters. As Sarusanda later explains to the characters, the priests of Osybus foresaw the characters' arrival and sowed foul rumors about them to turn the villagers against them. The characters must diffuse the situation with the villagers before they can proceed.
+The mob consists of twenty hostile [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who surround the characters. As Sarusanda later explains to the characters, the priests of Osybus foresaw the characters' arrival and sowed foul rumors about them to turn the villagers against them. The characters must diffuse the situation with the villagers before they can proceed.
 
-The characters can disperse the mob in a variety of ways. They can lie about their identities or intentions; they can convince the villagers that they mean no harm or that they hope to help the children crying in the distant house; or they can threaten the villagers' lives. To successfully sway the mob in one of these ways, at least one character must succeed on a DC 18 Charisma (Deception, Intimidation, or Persuasion) check, using whichever skill is appropriate. A character who casts Calm Emotions on the mob's area has advantage on this check.
+The characters can disperse the mob in a variety of ways. They can lie about their identities or intentions; they can convince the villagers that they mean no harm or that they hope to help the children crying in the distant house; or they can threaten the villagers' lives. To successfully sway the mob in one of these ways, at least one character must succeed on a DC 18 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, using whichever skill is appropriate. A character who casts [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md) on the mob's area has advantage on this check.
 
 Until the characters disperse or escape the mob, one randomly determined character takes 1 bludgeoning damage from hurled debris at the start of each turn. Each round on initiative count 0, the DC of the check to disperse the mob increases by 1. The villagers immediately disperse if the characters attack or deal damage to any of them.
 
 ### The Ulmist Inquisition
 
-After the characters are free of the mob, a cloaked adventurer named Sarusanda Allester approaches them. Sarusanda is a lawful neutral, human [inquisitor of the tome](/3-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-tome-vrgr.md) (see appendix A) who speaks Celestial, Common, Draconic, and Elvish, and can cast Speak with Dead at will. She introduces herself and asks to speak with the characters in private. The characters can slip into an alley for this discussion, or they can duck into the Blood of the Vine, the village tavern, for a quiet conversation.
+After the characters are free of the mob, a cloaked adventurer named Sarusanda Allester approaches them. Sarusanda is a lawful neutral, human [inquisitor of the tome](3-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-tome-vrgr.md) (see appendix A) who speaks Celestial, Common, Draconic, and Elvish, and can cast [Speak with Dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) at will. She introduces herself and asks to speak with the characters in private. The characters can slip into an alley for this discussion, or they can duck into the Blood of the Vine, the village tavern, for a quiet conversation.
 
-![Sarusanda Allester](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/082-05-003-sarusanda-allester.webp#center)
+![Sarusanda Allester](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/082-05-003-sarusanda-allester.webp#center)
 
 #### Sarusanda's Mission
 
@@ -102,13 +102,13 @@ Death House is owned by Gustav and Elisabeth Durst. It's an open secret that the
 
 ##### Unexpected Discovery
 
-Recently, the cultists in Death House obtained something important: a fragment of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). Sarusanda believes the cultists don't know much about the rod piece, but she suspects the cultists plan to use it to somehow attract Strahd's attention.
+Recently, the cultists in Death House obtained something important: a fragment of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). Sarusanda believes the cultists don't know much about the rod piece, but she suspects the cultists plan to use it to somehow attract Strahd's attention.
 
 #### Priests of Osybus
 
 The Death House cultists' discovery roused the attention of another wicked group, the priests of Osybus. Unaffiliated with the cultists in Death House, the priests of Osybus are necromancers who steal souls to fuel their evil, life-prolonging magic. They wish to claim the rod piece for use in their necromantic rituals, and they've divined the characters' arrival and know the characters will try to stop them. To slow the characters down, the priests spread dreadful rumors about them throughout town. This stirred the villagers into a frenzy. Sarusanda heard about the priests' activities, discovered the presence of the rod piece, and traveled to the village. She has vowed to stop the priests of Osybus's activities in Death House and any other evil happening there.
 
-Eight [priests of Osybus](/3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) have infiltrated Death House. They are all neutral evil humans who speak Abyssal, Common, and Infernal.
+Eight [priests of Osybus](3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) have infiltrated Death House. They are all neutral evil humans who speak Abyssal, Common, and Infernal.
 
 #### Strahd Watches
 
@@ -127,11 +127,11 @@ As the characters come within sight of Death House, read or paraphrase the follo
 > A boy and a girl stand in the middle of the dirt road outside a grim house. The boy is weeping and clutches a stuffed doll. The girl is trying to quiet the boy. She turns to you. "There's a monster in our house!" she says. "Mom and Dad told us to play outside. Please, won't you make it safe?"
 ^22a
 
-![Rose and Thorn Durst](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/083-05-004-rose-and-thorn.webp#center)
+![Rose and Thorn Durst](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/083-05-004-rose-and-thorn.webp#center)
 
 The children are Rosavalda "Rose" and Thornboldt "Thorn" Durst. Rose explains that the monster arrived just after the children's parents, Gustav and Elisabeth, ordered Rose and Thorn outside to play. Rose is especially worried for Brigetta, the family's nursemaid, who's always been kind to both children. After Rose and Thorn came outside, they heard screams inside the house, followed by terrible howls coming from the basement. Recently, a group of robed adults (priests of Osybus) arrived and entered the house without a word.
 
-If calmed with a successful DC 10 Charisma (Persuasion) check, Thorn sniffles that his parents often invite weird friends over for parties, but this time seems different.
+If calmed with a successful DC 10 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, Thorn sniffles that his parents often invite weird friends over for parties, but this time seems different.
 
 The children have no other useful information, and neither has any idea how much time has passed since the events they've described. They have no idea that their parents are cult leaders in possession of a powerful artifact. If the characters express hesitation about leaving the children alone, a friendly neighbor arrives and offers to keep the children safe.
 
@@ -143,11 +143,11 @@ If you wish, Sarusanda can stay with the characters, and the events described in
 
 ## Death House
 
-Before the characters enter Death House, make sure the players understand their goals. The characters can't leave until they encounter [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md), as described in the "Leaving the House" section later in this chapter.
+Before the characters enter Death House, make sure the players understand their goals. The characters can't leave until they encounter [Strahd von Zarovich](3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md), as described in the "Leaving the House" section later in this chapter.
 
 ### Death House Objective
 
-The characters must take the fourth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from the Strahd-venerating cultists who operate from Death House's basement.
+The characters must take the fourth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from the Strahd-venerating cultists who operate from Death House's basement.
 
 The priests of Osybus have their own plans for the rod piece. As long as the eight priests inside the house are alive, they'll try to keep the characters from taking the artifact.
 
@@ -157,15 +157,13 @@ The foul energies coalescing in Death House have spawned numerous horrors. When 
 
 **Death House Encounters**
 
-`dice: [](06-chapter-5-death-house.md#^death-house-encounters)`
-
 | dice: d12 | Encounter |
 |-----------|-----------|
 | 1–4 | Meeting with Sarusanda (see below)* |
-| 5–8 | Three [priests of Osybus](/3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) (see appendix A) lurk nearby, poised to strike† |
-| 9 | One [whirling chandelier](/3-Mechanics/CLI/bestiary/construct/whirling-chandelier-veor.md) (see appendix A) falls on a random character before two [invisible stalkers](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) join the surprise attack |
-| 10–11 | Four [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md) attack the party |
-| 12 | Four [helmed horrors](/3-Mechanics/CLI/bestiary/construct/helmed-horror.md), disguised as inanimate suits of armor, attack the characters |
+| 5–8 | Three [priests of Osybus](3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) (see appendix A) lurk nearby, poised to strike† |
+| 9 | One [whirling chandelier](3-Mechanics/CLI/bestiary/construct/whirling-chandelier-veor.md) (see appendix A) falls on a random character before two [invisible stalkers](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) join the surprise attack |
+| 10–11 | Four [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) attack the party |
+| 12 | Four [helmed horrors](3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md), disguised as inanimate suits of armor, attack the characters |
 ^death-house-encounters
 
 †If the characters don't face this encounter before leaving Death House, assume that Sarusanda defeated these three priests on her own.
@@ -183,17 +181,17 @@ The characters occasionally reunite with Sarusanda as they explore Death House. 
 > The remnants of a deadly battle lie about this chamber: broken bits of furniture, scattered weapons, and two bodies shrouded in dark robes. Sarusanda kneels in one corner, wrapping a linen bandage around her leg. She startles at your intrusion, then relaxes.
 ^231
 
-The robed bodies belong to two [priests of Osybus](/3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) (see appendix A), each of whom is stable at 0 hit points. When the characters enter the room, each priest's Tattoo of Osybus trait causes the priest to rise on its next turn, at which point it attacks the characters.
+The robed bodies belong to two [priests of Osybus](3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) (see appendix A), each of whom is stable at 0 hit points. When the characters enter the room, each priest's Tattoo of Osybus trait causes the priest to rise on its next turn, at which point it attacks the characters.
 
 ##### Development
 
-Sarusanda has 30 hit points remaining and is obviously in pain. If the characters offer to heal her, she downplays her injuries. A character who succeeds on a DC 15 Wisdom (Insight) check realizes that it's not just Sarusanda's body that's hurt—her pride is badly wounded too.
+Sarusanda has 30 hit points remaining and is obviously in pain. If the characters offer to heal her, she downplays her injuries. A character who succeeds on a DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check realizes that it's not just Sarusanda's body that's hurt—her pride is badly wounded too.
 
-If unaided, Sarusanda gains 1 level of exhaustion, which she retains until she finishes a long rest outside Death House.
+If unaided, Sarusanda gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), which she retains until she finishes a long rest outside Death House.
 
 #### Séance
 
-![Sarusanda interrogates a d...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/084-05-005-sarusanda-interrogation.webp#center "Sarusanda interrogates a deceased cult member to learn more about the activities in Death House")
+![Sarusanda interrogates a deceased cult member to learn more about the activities in Death House](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/084-05-005-sarusanda-interrogation.webp#center)
 
 > [!readaloud] 
 > 
@@ -204,13 +202,13 @@ If unaided, Sarusanda gains 1 level of exhaustion, which she retains until she f
 > The skull replies, its teeth chattering, "Occultists? How droll! A better question: where are your manners?"
 ^234
 
-Sarusanda uses Speak with Dead to commune with a preserved skull she found in this room. The skull belonged to a cult member named Elya who was sacrificed by his fellow cultists.
+Sarusanda uses [Speak with Dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) to commune with a preserved skull she found in this room. The skull belonged to a cult member named Elya who was sacrificed by his fellow cultists.
 
 ##### Interrogating the Skull
 
-Elya's skull offers its words in hair-raising, singsong whispers. The skull doesn't know anything about the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) or the priests of Osybus. It can, however, give directions to the cultists' ritual chamber (area D38) and describe their general motives: "We wish to impress our glorious lord, Strahd von Zarovich!"
+Elya's skull offers its words in hair-raising, singsong whispers. The skull doesn't know anything about the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) or the priests of Osybus. It can, however, give directions to the cultists' ritual chamber (area D38) and describe their general motives: "We wish to impress our glorious lord, Strahd von Zarovich!"
 
-Once Sarusanda is done speaking with the skull, it cackles in grim amusement, then floats into the air. Three [will-o'-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) emerge from corners of the room and join the skull (use the [flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull.md) stat block) in attacking the party and Sarusanda.
+Once Sarusanda is done speaking with the skull, it cackles in grim amusement, then floats into the air. Three [will-o'-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) emerge from corners of the room and join the skull (use the [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) stat block) in attacking the party and Sarusanda.
 
 #### Crisis of Faith
 
@@ -221,7 +219,7 @@ Run this encounter with Sarusanda after the characters have claimed the rod piec
 > Sarusanda stands in the middle of the room. Her shoulders are slumped beneath her grimy armor, and dark circles underline her weary eyes. She doesn't turn to face you, but she holds a finger in the air to indicate silence. A moment later, the room erupts into chaos as three tattooed figures dart from the shadows.
 ^237
 
-Three [priests of Osybus](/3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) (see appendix A) attack Sarusanda and the party, entering the room from multiple directions if possible.
+Three [priests of Osybus](3-Mechanics/CLI/bestiary/humanoid/priest-of-osybus-vrgr.md) (see appendix A) attack Sarusanda and the party, entering the room from multiple directions if possible.
 
 With or without the characters' help, Sarusanda fights passionately against the priests. She discards her normally staid demeanor for this battle and openly rages at the priests, making careless tactical decisions amid the turmoil.
 
@@ -268,8 +266,8 @@ The walls of the house are made of 1-foot-thick brick. The dungeon is carved fro
 These locations are keyed to map 5.1.
 
 > [!gallery]
-> ![Map 5.1: Death House](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/085-5-01-death-house.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/086-5-01-death-house-player.webp#gallery)
+> ![Map 5.1: Death House](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/085-5-01-death-house.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/086-5-01-death-house-player.webp#gallery)
 
 #### D1a–D1b: Portico and Antechamber
 
@@ -308,7 +306,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Trapdoor
 
-A character searching the southwest corner of the room finds a trapdoor with a successful DC 20 Intelligence (Investigation) check. The trapdoor is barred from the other side (area D32). It is a Medium object with AC 13, 15 hit points, and immunity to poison and psychic damage.
+A character searching the southwest corner of the room finds a trapdoor with a successful DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The trapdoor is barred from the other side (area D32). It is a Medium object with AC 13, 15 hit points, and immunity to poison and psychic damage.
 
 #### D4a–D4b: Kitchen and Pantry
 
@@ -323,7 +321,7 @@ The kitchen is area D4a, while the pantry is area D4b.
 
 Behind a small door in the southwest corner of the kitchen is a dumbwaiter—a 2-foot-wide stone shaft containing a wooden elevator box attached to a hand-operated rope-and-pulley mechanism. The shaft connects to the servants' quarters (area D7a) and the Durst parents' bedroom (area D12a).
 
-A Small character can squeeze into the elevator box with a successful DC 10 Dexterity (Acrobatics) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
+A Small character can squeeze into the elevator box with a successful DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. The dumbwaiter's rope-and-pulley mechanism can support 200 pounds of weight before breaking.
 
 #### D5: Dining Room
 
@@ -362,7 +360,7 @@ A small door in the corner of the room opens onto the shaft of the dumbwaiter.
 
 #### D8: Library
 
-![The priests of Osybus are ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/087-05-006-priests-of-osybus.webp#center "The priests of Osybus are known for the evil practice of trapping enemies' souls into tattoos on the priests' bodies")
+![The priests of Osybus are known for the evil practice of trapping enemies' souls into tattoos on the priests' bodies](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/087-05-006-priests-of-osybus.webp#center)
 
 > [!readaloud] 
 > 
@@ -377,7 +375,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Secret Door
 
-A secret door behind a bookshelf in the southeast corner of the room can be opened by pulling on a switch disguised as a red-covered book with a blank spine. A character inspecting the bookshelf spots the fake book with a successful DC 13 Intelligence (Investigation) check. Unless the secret door is propped open, springs in the hinges cause it to close on its own. Beyond the secret door lies area `D9`.
+A secret door behind a bookshelf in the southeast corner of the room can be opened by pulling on a switch disguised as a red-covered book with a blank spine. A character inspecting the bookshelf spots the fake book with a successful DC 13 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. Unless the secret door is propped open, springs in the hinges cause it to close on its own. Beyond the secret door lies area `D9`.
 
 #### D9: Secret Room
 
@@ -385,13 +383,13 @@ This secret room contains bookshelves packed with tomes describing Fiend-summoni
 
 ##### Trapped Chest
 
-An unlocked treasure chest stands against the room's south wall. When a creature opens this chest's lid, poison-tipped darts shoot from a spring-loaded mechanism attached to the lid's underside. Each creature within 10 feet of the chest that isn't behind total cover takes `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) piercing damage and must succeed on a DC 15 Constitution saving throw or take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) poison damage and have the poisoned condition for 1 hour.
+An unlocked treasure chest stands against the room's south wall. When a creature opens this chest's lid, poison-tipped darts shoot from a spring-loaded mechanism attached to the lid's underside. Each creature within 10 feet of the chest that isn't behind total cover takes 2 (`1d4`) piercing damage and must succeed on a DC 15 Constitution saving throw or take 22 (`4d10`) poison damage and have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for 1 hour.
 
-A character who succeeds on a DC 20 Intelligence (Investigation) check while examining the chest spots the trap mechanism. As an action, a character can use thieves' tools to make a DC 15 Dexterity (Sleight of Hand) check to disarm the trap. Failing this check triggers the trap.
+A character who succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check while examining the chest spots the trap mechanism. As an action, a character can use thieves' tools to make a DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check to disarm the trap. Failing this check triggers the trap.
 
 ##### Treasure
 
-The chest contains three blank books with black leather covers (worth 25 gp each) and three Spell Scrolls (Bless, Protection from Poison, and Spiritual Weapon).
+The chest contains three blank books with black leather covers (worth 25 gp each) and three [Spell Scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([Bless](3-Mechanics/CLI/spells/bless-xphb.md), [Protection from Poison](3-Mechanics/CLI/spells/protection-from-poison-xphb.md), and [Spiritual Weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)).
 
 #### D10: Conservatory
 
@@ -413,7 +411,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Secret Door
 
-A character who examines the west wall and succeeds on a DC 15 Intelligence (Investigation) check finds a secret door that pushes open to reveal a cobweb-filled wooden staircase leading to the attic.
+A character who examines the west wall and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a secret door that pushes open to reveal a cobweb-filled wooden staircase leading to the attic.
 
 #### D12a–D12c: Master Suite
 
@@ -462,13 +460,13 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Signs of Abduction
 
-A character who succeeds on a DC 15 Intelligence (Investigation) check ascertains that the disarrayed nightstand and broken window are the result of a recent struggle. Rainwater on the floor around the broken window indicates the struggle occurred within the last few hours.
+A character who succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check ascertains that the disarrayed nightstand and broken window are the result of a recent struggle. Rainwater on the floor around the broken window indicates the struggle occurred within the last few hours.
 
-A character who examines the area and succeeds on a DC 15 Wisdom (Survival) check finds scuffs on the floor in area D15a from the victim's shoes. These scuffs create a trail to a secret door that leads up to the attic.
+A character who examines the area and succeeds on a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check finds scuffs on the floor in area D15a from the victim's shoes. These scuffs create a trail to a secret door that leads up to the attic.
 
 ##### Secret Door
 
-A character who examines the mirror and succeeds on a DC 15 Intelligence (Investigation) check finds a secret door behind the mirror. (Characters who saw scuff marks leading to the secret door find it without needing to make a check.) The secret door pushes open to reveal a cobweb-filled wooden staircase leading to the attic.
+A character who examines the mirror and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a secret door behind the mirror. (Characters who saw scuff marks leading to the secret door find it without needing to make a check.) The secret door pushes open to reveal a cobweb-filled wooden staircase leading to the attic.
 
 #### D16: Attic Hall
 
@@ -492,7 +490,7 @@ This room is otherwise empty.
 
 ##### Secret Door
 
-A character who examines the east wall and succeeds on a DC 15 Intelligence (Investigation) check finds a secret door that opens to reveal a secret stair (area D21) to the dungeon (area D22).
+A character who examines the east wall and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds a secret door that opens to reveal a secret stair (area D21) to the dungeon (area D22).
 
 #### D19: Spare Bedroom
 
@@ -518,7 +516,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Treasure
 
-Inside the toy chest is a doll that resembles a tall, pale human with black hair and a pronounced widow's peak. Something papery rattles inside the doll's hollow body. A character who removes the doll's head and looks down its neck finds a Spell Scroll of Detect Evil and Good.
+Inside the toy chest is a doll that resembles a tall, pale human with black hair and a pronounced widow's peak. Something papery rattles inside the doll's hollow body. A character who removes the doll's head and looks down its neck finds a [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md).
 
 #### D21: Secret Stairs
 
@@ -556,7 +554,7 @@ A wooden table and four chairs stand at the east end of this room. Four alcoves 
 > This area centers on a 4-foot-diameter, 30-foot-deep cistern with a 3-foot-high stone lip. A wooden bucket hangs from a rope-and-pulley mechanism bolted to the crossbeams above the well. Five small rooms with no doors branch off the well room.
 ^280
 
-The five small bedrooms serve as quarters for senior cultists. Each contains a wood-framed bed with a straw mattress and a wooden chest. Each chest is secured with a rusty iron padlock that can be picked using thieves' tools with a successful DC 15 Dexterity (Sleight of Hand) check.
+The five small bedrooms serve as quarters for senior cultists. Each contains a wood-framed bed with a straw mattress and a wooden chest. Each chest is secured with a rusty iron padlock that can be picked using thieves' tools with a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check.
 
 ##### Encounter
 
@@ -570,7 +568,7 @@ In addition to worthless personal effects, each chest contains one of the follow
 - Three pieces of cut jade (worth 100 gp each) in a folded piece of black cloth  
 - A black leather eye patch with a peridot (worth 500 gp) sewn into it  
 - A chess set with pieces made of obsidian and chalcedony (worth 250 gp)  
-- A +2 Shortsword  
+- A [+2 Shortsword](3-Mechanics/CLI/items/2-weapon-xdmg.md)  
 
 #### D26: Hidden Spiked Pit
 
@@ -579,7 +577,7 @@ In addition to worthless personal effects, each chest contains one of the follow
 > As you move farther down this tunnel, the chanting heard throughout the dungeon gets louder to the west.
 ^284
 
-A character who examines the floor and succeeds on a DC 15 Intelligence (Investigation) check notices a suspicious absence of footprints in this hallway. A character searching the floor for traps finds a 5-foot-long, 10-foot-deep pit hidden under rotted wooden planks. The pit has poisoned wooden spikes at the bottom. The first character to step on the cover falls through, landing prone and taking `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage from the fall plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) piercing damage and `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage from the spikes.
+A character who examines the floor and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check notices a suspicious absence of footprints in this hallway. A character searching the floor for traps finds a 5-foot-long, 10-foot-deep pit hidden under rotted wooden planks. The pit has poisoned wooden spikes at the bottom. The first character to step on the cover falls through, landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and taking 3 (`1d6`) bludgeoning damage from the fall plus 11 (`2d10`) piercing damage and 11 (`2d10`) poison damage from the spikes.
 
 #### D27: Dining Hall
 
@@ -617,7 +615,7 @@ Roll on the Death House Encounters table the first time a character enters this 
 
 ##### Secret Door
 
-Characters searching the room find a secret door in the middle of the east wall with a successful DC 10 Intelligence (Investigation) check. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area `D32`).
+Characters searching the room find a secret door in the middle of the east wall with a successful DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The door pulls open to reveal a stone staircase that climbs 10 feet to a landing (area `D32`).
 
 #### D32: Hidden Trapdoor
 
@@ -648,9 +646,9 @@ At the foot of the bed is an unlocked but empty wooden footlocker. This is Gusta
 > Loud chants issue from a hallway near the southwest corner. You discern many voices repeating, "She is slain, she is risen."
 ^294
 
-Lurking in the shadows are two [shambling mounds](/3-Mechanics/CLI/bestiary/plant/shambling-mound.md) that move to attack as soon as anyone enters this room. The cult keeps "relics" in this chamber. These worthless items—human remains, mundane material components for spellcasting, and so forth—are stored in thirteen niches along the walls.
+Lurking in the shadows are two [shambling mounds](3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md) that move to attack as soon as anyone enters this room. The cult keeps "relics" in this chamber. These worthless items—human remains, mundane material components for spellcasting, and so forth—are stored in thirteen niches along the walls.
 
-![Death House's reliquary is...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/088-05-007-death-house-reliquary.webp#center "Death House's reliquary is home to lurking monsters as well as components used in the Durst family's rituals")
+![Death House's reliquary is home to lurking monsters as well as components used in the Durst family's rituals](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/088-05-007-death-house-reliquary.webp#center)
 
 #### D36: Prison
 
@@ -663,7 +661,7 @@ Despite the ominous trappings, the alcoves are empty.
 
 ##### Secret Door
 
-Characters searching the area find a secret door in the south wall with a successful DC 15 Intelligence (Investigation) check. It pulls open to reveal area D38 on the other side.
+Characters searching the area find a secret door in the south wall with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. It pulls open to reveal area D38 on the other side.
 
 #### D37: Tunnel to Portcullis
 
@@ -674,7 +672,7 @@ Characters searching the area find a secret door in the south wall with a succes
 
 This tunnel slopes down at a 20-degree angle into murky water and ends at a rusty portcullis. The floor around the portcullis is submerged under 2 feet of soupy water.
 
-The portcullis can be forcibly lifted with a successful DC 20 Strength (Athletics) check. Otherwise, it can be raised or lowered by turning a wooden wheel in the east wall of area `D38`. (The wheel is beyond the reach of someone east of the portcullis.)
+The portcullis can be forcibly lifted with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Otherwise, it can be raised or lowered by turning a wooden wheel in the east wall of area `D38`. (The wheel is beyond the reach of someone east of the portcullis.)
 
 #### D38: Ritual Chamber
 
@@ -693,15 +691,15 @@ Embedded in the east wall is a wooden wheel connected to hidden chains and mecha
 
 ##### Cult's Ritual
 
-The figures along the ledge include Gustav and Elisabeth ([cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md)), five senior cult members ([cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md)), and seven [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md). The cult members fight only to defend themselves.
+The figures along the ledge include Gustav and Elisabeth ([cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)), five senior cult members ([cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)), and seven [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md). The cult members fight only to defend themselves.
 
-Dangling from the chains above the altar is the corpse of the Dursts' nursemaid, Brigetta. The cult ritually sacrificed Brigetta using a ceremonial stake tipped with the [fourth piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), which is still embedded in Brigetta's chest.
+Dangling from the chains above the altar is the corpse of the Dursts' nursemaid, Brigetta. The cult ritually sacrificed Brigetta using a ceremonial stake tipped with the [fourth piece](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), which is still embedded in Brigetta's chest.
 
-A [relentless impaler](/3-Mechanics/CLI/bestiary/fiend/relentless-impaler-veor.md) (see appendix A) has risen from the pool of Brigetta's blood on the altar. When the impaler detects the characters, it attacks. The impaler hunts them throughout the house until it is destroyed or the characters defeat it. For its Bloodheart Stake trait, the impaler is bound to the stake in Brigetta's corpse.
+A [relentless impaler](3-Mechanics/CLI/bestiary/fiend/relentless-impaler-veor.md) (see appendix A) has risen from the pool of Brigetta's blood on the altar. When the impaler detects the characters, it attacks. The impaler hunts them throughout the house until it is destroyed or the characters defeat it. For its Bloodheart Stake trait, the impaler is bound to the stake in Brigetta's corpse.
 
 ##### Retrieving the Rod Piece
 
-If the relentless impaler is destroyed, the cultists cower in fear and allow the characters to take the rod piece from Brigetta's corpse. For more about the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
+If the relentless impaler is destroyed, the cultists cower in fear and allow the characters to take the rod piece from Brigetta's corpse. For more about the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
 
 ##### Development
 
@@ -713,7 +711,7 @@ The cult leaders aren't bluffing. As soon as the characters take the fourth rod 
 
 Once the characters have defeated the Death House cultists and claimed the rod piece, run the "Crisis of Faith" encounter detailed in the "Meetings with Sarusanda" section earlier in the chapter at a time of your choosing to ensure she rejoins the characters before they face Strahd.
 
-Having slain the priests of Osybus, seen the cult's plans thwarted, and made sure the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) piece is safe with the characters, Sarusanda's work in the house is done. She accompanies the characters for the remainder of their time in Death House (see the "Leaving the House" section).
+Having slain the priests of Osybus, seen the cult's plans thwarted, and made sure the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) piece is safe with the characters, Sarusanda's work in the house is done. She accompanies the characters for the remainder of their time in Death House (see the "Leaving the House" section).
 
 ## Strahd's Presence
 
@@ -753,15 +751,13 @@ To leave a haunted zone, a character must perform the task specified in the haun
 
 ##### Finding the Correct Exit
 
-A character who casts Detect Evil and Good or Find the Path or who has truesight sees a faint aura around an object related to the task necessary to exit the room. A character can also locate such an object by looking at the area and succeeding on a DC 15 Intelligence (Investigation) check.
+A character who casts [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) or [Find the Path](3-Mechanics/CLI/spells/find-the-path-xphb.md) or who has [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) sees a faint aura around an object related to the task necessary to exit the room. A character can also locate such an object by looking at the area and succeeding on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check.
 
 ##### Leaving a Haunted Zone
 
 A character who exits a haunted zone appears somewhere in Death House. Characters who leave the same haunted zone emerge in the same part of Death House. The transition is sudden and disorienting, like waking from a dream. Roll on the Emergence from a Haunted Zone table below to determine where the characters appear when they leave a haunted zone, or choose one of the locations listed.
 
 **Emergence from a Haunted Zone**
-
-`dice: [](06-chapter-5-death-house.md#^emergence-from-a-haunted-zone)`
 
 | dice: d6 | Location Emerged |
 |----------|------------------|
@@ -777,7 +773,7 @@ Once the characters have encountered all four haunted zones, they don't encounte
 
 ### Death House Hauntings
 
-![If the characters fall in ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/089-05-008-strahd-with-rod-piece.webp#center "If the characters fall in Death House, Strahd will happily claim the piece of the Rod of Seven Parts therein")
+![If the characters fall in Death House, Strahd will happily claim the piece of the Rod of Seven Parts therein](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/089-05-008-strahd-with-rod-piece.webp#center)
 
 The characters enter the following haunted zones in the order presented.
 
@@ -800,7 +796,7 @@ To escape the dining hall, each character trapped in it must drink from one of t
 
 ##### Failed Exit
 
-If after 1 minute no one has drunk from a chalice, Strahd's illusion dissolves into a cloud of bats that quickly fills the chamber. At the start of each turn, the bats deal `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) piercing damage to each creature in the haunted zone. After 5 turns, the bats completely obscure the characters' vision, and the characters exit the haunted zone.
+If after 1 minute no one has drunk from a chalice, Strahd's illusion dissolves into a cloud of bats that quickly fills the chamber. At the start of each turn, the bats deal 7 (`2d6`) piercing damage to each creature in the haunted zone. After 5 turns, the bats completely obscure the characters' vision, and the characters exit the haunted zone.
 
 #### Endless Graveyard
 
@@ -817,7 +813,7 @@ A character who reads the headstones finds one bearing their own name. A charact
 
 ##### Failed Exit
 
-If a character fails to leave the graveyard, that character must eventually make camp. When a character finishes a long rest in this haunted zone, the character gains 1 level of exhaustion, doesn't gain the benefits of the long rest, and exits the haunted zone.
+If a character fails to leave the graveyard, that character must eventually make camp. When a character finishes a long rest in this haunted zone, the character gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), doesn't gain the benefits of the long rest, and exits the haunted zone.
 
 #### Ghostly Recital
 
@@ -828,15 +824,15 @@ If a character fails to leave the graveyard, that character must eventually make
 
 This zone resembles Death House's conservatory (area D10), except the room's doors and windows overlook a black, featureless void.
 
-If a character makes any noise or otherwise disrupts the performance, the musician—yet another illusion of Strahd—ceases playing, scowls at the character, and disappears. Eight [specters](/3-Mechanics/CLI/bestiary/undead/specter.md) fly out of the harpsichord and attack the characters in anger.
+If a character makes any noise or otherwise disrupts the performance, the musician—yet another illusion of Strahd—ceases playing, scowls at the character, and disappears. Eight [specters](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) fly out of the harpsichord and attack the characters in anger.
 
 ##### Correct Exit
 
-A character at the harpsichord can make a DC 14 Charisma (Performance) check to play the rest of the interrupted melody. On a successful check, the ghostly figures sigh with contentment, and the characters exit the haunted zone.
+A character at the harpsichord can make a DC 14 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check to play the rest of the interrupted melody. On a successful check, the ghostly figures sigh with contentment, and the characters exit the haunted zone.
 
 ##### Failed Exit
 
-If after 1 minute no one has successfully played the rest of the song, the illusion of Strahd reappears at the harpsichord and hammers out a series of chords. Each character takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) thunder damage and exits the haunted zone.
+If after 1 minute no one has successfully played the rest of the song, the illusion of Strahd reappears at the harpsichord and hammers out a series of chords. Each character takes 11 (`2d10`) thunder damage and exits the haunted zone.
 
 #### The Crying Room
 
@@ -851,11 +847,11 @@ A character who inspects the items in the room discovers that the dolls look lik
 
 ##### Correct Exit
 
-To exit the haunted zone, a character must pull the head off the Strahd doll. If the characters struggle to figure this out, allow them to examine the doll and attempt a DC 13 Intelligence (Investigation) check to realize the truth. The doll's neck reveals itself to be a drain hole, and the head is a plug. All the water in the room spirals into the drain, pulling the characters with it and causing them to exit the zone.
+To exit the haunted zone, a character must pull the head off the Strahd doll. If the characters struggle to figure this out, allow them to examine the doll and attempt a DC 13 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to realize the truth. The doll's neck reveals itself to be a drain hole, and the head is a plug. All the water in the room spirals into the drain, pulling the characters with it and causing them to exit the zone.
 
 ##### Failed Exit
 
-If the characters are still in this haunted zone after 10 minutes, the water level reaches the room's ceiling, and each character in this haunted zone gains 1 level of exhaustion and exits the zone.
+If the characters are still in this haunted zone after 10 minutes, the water level reaches the room's ceiling, and each character in this haunted zone gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and exits the zone.
 
 ## Leaving the House
 
@@ -869,7 +865,7 @@ If Sarusanda hasn't yet rejoined the characters, run the "Crisis of Faith" encou
 
 ### Facing Strahd
 
-After he arrives at Death House, [Strahd, Master of Death House](/3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md) (see appendix B) waits for the characters in the house's main hall (area D2a). He is accompanied by two [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md).
+After he arrives at Death House, [Strahd, Master of Death House](3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md) (see appendix B) waits for the characters in the house's main hall (area D2a). He is accompanied by two [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md).
 
 If the characters don't intend to return to the main hall, Strahd and his minions wait for the characters in another room of the house, such as the dining room (area D5) or the den of wolves (area D3).
 
@@ -890,8 +886,8 @@ He glances at the characters, then asks Sarusanda, "Do you know them?"
 
 If Sarusanda is indifferent to the characters, she denies any affiliation with them and takes her leave. Strahd applauds the characters for surviving so long in his realm, then attacks them.
 
-If Sarusanda is friendly with the characters, she says that they are also members of the Ulmist Inquisition. Strahd asks the characters if this is true. A character can then make a DC 20 Charisma (Deception) check to convince Strahd they are members or otherwise important to the group. On a successful check, Strahd allows the party to leave Death House with Sarusanda. On a failure, Strahd sees through the ruse and dismisses Sarusanda before challenging the characters to combat.
+If Sarusanda is friendly with the characters, she says that they are also members of the Ulmist Inquisition. Strahd asks the characters if this is true. A character can then make a DC 20 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check to convince Strahd they are members or otherwise important to the group. On a successful check, Strahd allows the party to leave Death House with Sarusanda. On a failure, Strahd sees through the ruse and dismisses Sarusanda before challenging the characters to combat.
 
 ## Next Steps
 
-Once the characters have acquired the [fourth piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) and escaped Death House, they can travel to the western outskirts of Barovia without trouble. The characters easily find the portal to Sigil in the mist.
+Once the characters have acquired the [fourth piece](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) and escaped Death House, they can travel to the western outskirts of Barovia without trouble. The characters easily find the portal to Sigil in the mist.

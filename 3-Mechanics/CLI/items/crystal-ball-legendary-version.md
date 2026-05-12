@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Crystal Ball (Legendary Version)"
 ---
 # Crystal Ball (Legendary Version)
@@ -18,8 +18,8 @@ aliases:
 
 **Items in this group:**
 
-- [Crystal Ball of Mind Reading](/3-Mechanics/CLI/items/crystal-ball-of-mind-reading-xdmg.md)
-- [Crystal Ball of Telepathy](/3-Mechanics/CLI/items/crystal-ball-of-telepathy-xdmg.md)
-- [Crystal Ball of True Seeing](/3-Mechanics/CLI/items/crystal-ball-of-true-seeing-xdmg.md)
+- [Crystal Ball of Mind Reading](3-Mechanics/CLI/items/crystal-ball-of-mind-reading.md)
+- [Crystal Ball of Telepathy](3-Mechanics/CLI/items/crystal-ball-of-telepathy.md)
+- [Crystal Ball of True Seeing](3-Mechanics/CLI/items/crystal-ball-of-true-seeing.md)
 
 *Source: Dungeon Master's Guide p. 159*

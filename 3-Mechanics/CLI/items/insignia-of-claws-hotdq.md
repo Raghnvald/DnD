@@ -17,4 +17,4 @@ The jewels in the insignia of the Cult of the Dragon flare with purple light whe
 
 While wearing the insignia you gain a +1 bonus to the attack rolls and the damage rolls you make with unarmed strikes and natural weapons. Such attacks are considered to be magical.
 
-*Source: Hoard of the Dragon Queen p. 94*
+*Source: Hoard of the Dragon Queen p. 94, Tyranny of Dragons p. 178*

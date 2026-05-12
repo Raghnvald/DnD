@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Missing Patrol
+- "Missing Patrol"
 ---
 # Missing Patrol
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -40,8 +40,6 @@ Traveling within the Mere requires ability checks to follow the lizardfolk's tra
 
 **Mere Encounters**
 
-`dice: [](08-missing-patrol.md#^mere-encounters)`
-
 | dice: 2d6 | Event (see below for details) |
 |-----------|-------------------------------|
 | 2-3 | Yuan-ti Scouts |
@@ -59,33 +57,33 @@ The adventurers might have the following encounters as they search the marsh for
 
 A yuan-ti expedition from the serpent kingdom of Najara has been exploring the Mere of Dead Men, assessing it as a location for colonization—and then to serve as a launch point for attacks in the north.
 
-A [yuan-ti abomination](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md) acts as an advance scout for these expeditions. The party comes upon him as he devours a large elk. The abomination does not wish anyone to know of the yuan-ti's plans in this area, so he attempts to kill anyone who sees him. If there are five or more characters (including sidekicks), add a second abomination.
+A [yuan-ti abomination](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md) acts as an advance scout for these expeditions. The party comes upon him as he devours a large elk. The abomination does not wish anyone to know of the yuan-ti's plans in this area, so he attempts to kill anyone who sees him. If there are five or more characters (including sidekicks), add a second abomination.
 
 #### Pit of Snakes
 
-The characters lose the trail and wander into an area where swamp gas has built up beneath the surface of the Mere. Characters who succeed on a DC 15 Intelligence (Nature) check realize the gas is present and understand its danger.
+The characters lose the trail and wander into an area where swamp gas has built up beneath the surface of the Mere. Characters who succeed on a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check realize the gas is present and understand its danger.
 
-A pit of snakes opens to the right of the characters as they pass, and one [giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md), plus an additional snake for every character, including sidekicks, emerges from the pit looking for a meal.
+A pit of snakes opens to the right of the characters as they pass, and one [giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md), plus an additional snake for every character, including sidekicks, emerges from the pit looking for a meal.
 
-Any magical or normal fire larger than a torch could ignite the swamp gas. Whenever a fire-based spell or effect is used, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 1-2, the gas ignites. If the fire effect has an area, the area of the effect doubles. Also, treat all creatures in the area as being vulnerable to fire to approximate the extra damage done by the swamp gas.
+Any magical or normal fire larger than a torch could ignite the swamp gas. Whenever a fire-based spell or effect is used, roll a `d6`. On a 1-2, the gas ignites. If the fire effect has an area, the area of the effect doubles. Also, treat all creatures in the area as being vulnerable to fire to approximate the extra damage done by the swamp gas.
 
 #### Quicksand and Alligators
 
-As the party loses the trail for a moment, they stumble into a dangerous part of the marsh with a 10-foot square, 20-foot deep pit of quicksand. Unless the character doing the tracking succeeds on a DC 18 Intelligence (Nature) check, they lead the party into it. When a creature enters the area, it sinks `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) feet into the quicksand and becomes restrained. At the start of each of the creature's turns, it sinks another `dice:1d4|noform|noparens|avg` (`1d4`) feet.
+As the party loses the trail for a moment, they stumble into a dangerous part of the marsh with a 10-foot square, 20-foot deep pit of quicksand. Unless the character doing the tracking succeeds on a DC 18 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check, they lead the party into it. When a creature enters the area, it sinks `1d4 + 1` feet into the quicksand and becomes [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). At the start of each of the creature's turns, it sinks another `1d4` feet.
 
 If the creature isn't completely submerged in quicksand, it can escape by using its action and succeeding on a Strength check, DC 10 plus the number of feet the creature has sunk already. A creature that is completely submerged in quicksand can't breathe (see the "suffocation rules" in the "Player's Handbook").
 
 A creature not sunk in the quicksand can pull another creature within its reach out of a quicksand pit by using its action and succeeding on a Strength check, DC 5 plus the number of feet the target creature has sunk into the quicksand.
 
-While the party deals with the quicksand, a [giant crocodile](/3-Mechanics/CLI/bestiary/beast/giant-crocodile.md) and its young (one [crocodile](/3-Mechanics/CLI/bestiary/beast/crocodile.md) per 2 characters) emerge from the swamp and attack.
+While the party deals with the quicksand, a [giant crocodile](3-Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md) and its young (one [crocodile](3-Mechanics/CLI/bestiary/beast/crocodile-xmm.md) per 2 characters) emerge from the swamp and attack.
 
 #### Troll Brawl
 
-While following the trail of the lizardfolk, the party comes across three [trolls](/3-Mechanics/CLI/bestiary/giant/troll.md) fighting over the remains of a lizardfolk who died at the hands of one of the rot trolls. The trolls claw and bite each other, trying to take possession of the tasty lizardfolk remains.
+While following the trail of the lizardfolk, the party comes across three [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) fighting over the remains of a lizardfolk who died at the hands of one of the rot trolls. The trolls claw and bite each other, trying to take possession of the tasty lizardfolk remains.
 
 When the characters find the trolls, they are each at half their starting hit points. If the characters can remain quiet, the trolls beat each other up even more, until they are all down to a quarter of their starting hit points.
 
-The first troll to die carries a sack, and in it there are three vials of acid (see the "Player's Handbook" for details).
+The first troll to die carries a sack, and in it there are three [vials of acid](3-Mechanics/CLI/items/acid-xphb.md) (see the "Player's Handbook" for details).
 
 #### Hydra Wranglers
 
@@ -93,7 +91,7 @@ After hearing rumors of a hydra lairing in the Mere of Dead Men, a Waterdhavian 
 
 The adventurers lose the correct trail and pick up on the trail of the mercenaries. When they arrive on the scene, several mercenaries are dead, and the remaining three are preparing to flee.
 
-The [hydra](/3-Mechanics/CLI/bestiary/monstrosity/hydra.md) has a number of active heads equal to the number of characters and 30 hit points per character, excluding sidekicks. The mercenaries are of little use in the battle. They do, however, carry five vials of alchemist's fire (see the "Player's Handbook" for details) in order to deal with any extra heads that might spring up. At the end of the battle, the mercenaries offer the characters any vials left over, along with 50 gp for saving their lives.
+The [hydra](3-Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md) has a number of active heads equal to the number of characters and 30 hit points per character, excluding sidekicks. The mercenaries are of little use in the battle. They do, however, carry five [vials of alchemist's fire](3-Mechanics/CLI/items/alchemists-fire-xphb.md) (see the "Player's Handbook" for details) in order to deal with any extra heads that might spring up. At the end of the battle, the mercenaries offer the characters any vials left over, along with 50 gp for saving their lives.
 
 ### Tracking the Lizards
 
@@ -106,23 +104,23 @@ When the party arrives at the area where the map shows the start of the patrol r
 
 An examination of the area finds a broken cart half-buried in the mud, a broken sword blade, and some buttons from a jacket worn by Leilon soldiers. An obvious trail also leads west, deeper into the Mere of Dead Men.
 
-With a successful DC 10 Wisdom (Survival) check, the adventurers can also learn the following:
+With a successful DC 10 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check, the adventurers can also learn the following:
 
 - A large number of tracks are apparent. Most are made by bipedal lizards of various sizes. Some are booted prints the size of humans.  
 - There are strange ruts in the mud that look like dual-tracked sleds. The ruts are deep enough that the sleds are probably pulling a great deal of weight.  
 - On top of the mud along the tracks are several trails of slimy residue, like those created by snails as they move.  
 
 > [!gallery]
-> ![Map 7: Lizardfolk Camp](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/013-ibxmx-map-lizardfolk-camp_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/014-ibxmx-map-lizardfolk-camp_dm.webp#gallery)
+> ![Map 7: Lizardfolk Camp](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/013-ibxmx-map-lizardfolk-camp_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/014-ibxmx-map-lizardfolk-camp_dm.webp#gallery)
 
 #### Following the Tracks
 
 Most of the time, the tracks are easy to follow. However, occasionally the trail runs through very swampy water, and tracking becomes more difficult.
 
-In order to catch up to the lizardfolk tribe, the party must succeed on three DC 15 Wisdom (Survival) checks. On a failed check, roll on the Mere Encounters table for a random encounter in the swamp. Note that anyone attempting or aiding with the Survival checks to follow the tracks cannot attempt Wisdom (Perception) checks to spot random encounters, as they are too focused on the details of tracking.
+In order to catch up to the lizardfolk tribe, the party must succeed on three DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) checks. On a failed check, roll on the Mere Encounters table for a random encounter in the swamp. Note that anyone attempting or aiding with the [Survival](3-Mechanics/CLI/rules/skills.md#Survival) checks to follow the tracks cannot attempt Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks to spot random encounters, as they are too focused on the details of tracking.
 
-After three successful Survival checks are attained, the characters come upon the lizardfolk tribe as they stop for a rest. Move on to "Fighting the Lizards" below.
+After three successful [Survival](3-Mechanics/CLI/rules/skills.md#Survival) checks are attained, the characters come upon the lizardfolk tribe as they stop for a rest. Move on to "Fighting the Lizards" below.
 
 ### Fighting the Lizards
 
@@ -143,7 +141,7 @@ The eight humans inside the two cages include the four soldiers from Leilon, one
 
 #### Lizardfolk Forces
 
-The leader is a [lizardfolk subchief](/3-Mechanics/CLI/bestiary/humanoid/lizardfolk-subchief-gos.md) (see appendix A) called Hissain. The large lizardfolk with him is a [lizardfolk render](/3-Mechanics/CLI/bestiary/humanoid/lizardfolk-render-gos.md) (see appendix A) whom the others call Slosh. The warriors who follow Hissain's orders are normal [lizardfolk](/3-Mechanics/CLI/bestiary/humanoid/lizardfolk.md), and there is one per character, including sidekicks. The sleds and cages are pulled by [flail snails](/3-Mechanics/CLI/bestiary/elemental/flail-snail-vgm.md) (see appendix A), but only one of those creatures' attacks (the one next to Hissain), unless they are attacked first. The rest of the lizardfolk in the tribe are young, elderly, and other noncombatants.
+The leader is a lizardfolk subchief (see appendix A) called Hissain. The large lizardfolk with him is a lizardfolk render (see appendix A) whom the others call Slosh. The warriors who follow Hissain's orders are normal [lizardfolk](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), and there is one per character, including sidekicks. The sleds and cages are pulled by [flail snails](3-Mechanics/CLI/bestiary/elemental/flail-snail-mpmm.md) (see appendix A), but only one of those creatures' attacks (the one next to Hissain), unless they are attacked first. The rest of the lizardfolk in the tribe are young, elderly, and other noncombatants.
 
 #### The Unfolding Situation
 
@@ -151,11 +149,11 @@ The party might handle this situation in several ways. If they are a typical adv
 
 A more cautious party can better catch the lizards unaware and might even learn more about the tribe's own troubles. The subchief Hissain orders one of the lizardfolk to start boiling a pot of water to "leave the trolls a distraction." He then discusses plans, after the tribe has rested, to leave the cooked human here, and take the traveling village in a different direction to keep the tribe safe from the rot trolls. This could give the party some information on a peaceful resolution.
 
-If the party approaches peacefully and succeeds on some DC 15 Charisma (Persuasion) checks, they might convince the lizardfolk to release the prisoners if the party defeat the rot trolls for them.
+If the party approaches peacefully and succeeds on some DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) checks, they might convince the lizardfolk to release the prisoners if the party defeat the rot trolls for them.
 
 ### A Rotten Way to Die
 
-When you, as the DM, feel it is most appropriate, the interactions between the party and the lizardfolk tribe are interrupted when one of the [rot trolls](/3-Mechanics/CLI/bestiary/giant/rot-troll-mpmm.md) (see appendix A) infesting the area shows up, looking for dinner.
+When you, as the DM, feel it is most appropriate, the interactions between the party and the lizardfolk tribe are interrupted when one of the [rot trolls](3-Mechanics/CLI/bestiary/giant/rot-troll-mtf.md) (see appendix A) infesting the area shows up, looking for dinner.
 
 If the adventurers slaughtered the lizardfolk combatants without trying to parley, they have no assistance in fighting the rot troll. If the battle is still going on, all the remaining lizardfolk combatants immediately turn their attention to the troll. This new situation might be the impetus for a peaceful resolution to hostilities between the lizardfolk and the party.
 

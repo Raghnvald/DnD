@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spined Devil
+- "Spined Devil"
 ---
-# [Spined Devil](3-Mechanics\CLI\bestiary\fiend/spined-devil-xmm.md)
+# [Spined Devil](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md)
 *Source: Monster Manual (2024) p. 296*  
 
 ## Spined Devil
@@ -27,8 +27,6 @@ aliases:
 Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes, seeking secrets for their infernal lords. They prefer to attack from the air, flinging wicked barbs while staying out of reach of foes. Spined devils collect information to gain leverage over mortals or to entice powerful devils. Roll on or choose a result from the Spined Devil Intelligence table to inspire what information a spined devil seeks or already possesses.
 
 **Spined Devil Intelligence**
-
-`dice: [](spined-devil-xmm.md#^spined-devil-intelligence)`
 
 | dice: 1d6 | The Spined Devil Covets Information About... |
 |-----------|----------------------------------------------|
@@ -60,32 +58,32 @@ Spined devils, also known as spinagons, lurk in the shadows of the Lower Planes,
 "speed": "20 ft., fly 40 ft."
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft. (unimpeded\
-  \ by magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md)), passive\
-  \ Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft. (unimpeded\
+  \ by magical [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md)),\
+  \ passive Perception 12"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "2"
 "traits":
   - "desc": "The devil doesn't provoke an Opportunity Attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The devil has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The devil has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The devil makes two attacks, using Infernal Fork and Tail Spine in any\
       \ combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage\
-      \ plus 3 (1d6) Fire damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage plus 3 (1d6) Fire damage."
     "name": "Infernal Fork"
   - "desc": "*Ranged Attack Roll:* +4, range 20/80 ft. *Hit:* 4 (1d4 + 2) Piercing\
       \ damage plus 3 (1d6) Fire damage."
     "name": "Tail Spine"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/spined-devil-xmm.webp"
 ```
 ^statblock
 

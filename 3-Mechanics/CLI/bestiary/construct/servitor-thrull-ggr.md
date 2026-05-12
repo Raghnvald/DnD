@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Servitor Thrull
+- "Servitor Thrull"
 ---
-# [Servitor Thrull](3-Mechanics\CLI\bestiary\construct/servitor-thrull-ggr.md)
+# [Servitor Thrull](3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 221*  
 
 The most wretched of thrulls are the servitors, small and slender, that serve as playthings for their Orzhov masters. They run trivial errands, transport small items, caper and dance, and keep their masters' expensive robes from trailing on the dirty street. They are utterly loyal, lacking any concept of thinking for themselves.
@@ -43,15 +43,13 @@ A thrull doesn't require air, food, drink, or sleep.
   - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) slashing damage."
     "name": "Claws"
 "reactions":
   - "desc": "When a creature within 5 feet of the thrull is hit by an attack, the\
@@ -59,6 +57,6 @@ A thrull doesn't require air, food, drink, or sleep.
     "name": "Self-Sacrifice"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/servitor-thrull-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/servitor-thrull-ggr.webp"
 ```
 ^statblock

@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gloomstalker
+- "Gloomstalker"
 ---
-# [Gloomstalker](3-Mechanics\CLI\bestiary\monstrosity/gloomstalker-egw.md)
-*Source: Explorer's Guide to Wildemount p. 291*  
+# [Gloomstalker](3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md)
+*Source: Explorer's Guide to Wildemount p. 291, Critical Role: Call of the Netherdeep p. 291*  
 
 A gloomstalker is a terrifying, winged predator resembling a wyvern composed of twisting shadows, with glowing eyes and dagger-like teeth.
 
@@ -39,17 +39,16 @@ A gloomstalker is a terrifying, winged predator resembling a wyvern composed of 
   - "strength": !!int "9"
   - "dexterity": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+9"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 240 ft, passive Perception\
-  \ 16"
+"senses": "darkvision 240 ft, passive Perception 16"
 "languages": "understands Common but can't speak"
 "cr": "6"
 "traits":
@@ -57,32 +56,30 @@ A gloomstalker is a terrifying, winged predator resembling a wyvern composed of 
       \ unoccupied space it can see."
     "name": "Shadowstep"
   - "desc": "While in sunlight, the gloomstalker has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks that rely on sight."
+      \ as well as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The gloomstalker makes two attacks: one with its bite and one with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 15\
-      \ (2d8 + 6) piercing damage plus 7 (2d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 15 (2d8 + 6) piercing damage plus 7 (2d6) necrotic damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage."
     "name": "Claws"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one Medium or smaller\
       \ creature. *Hit:* 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage,\
-      \ and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape\
-      \ DC 17). While [grappled](/3-Mechanics/CLI/conditions.md#Grappled) in this\
-      \ way, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)."
+      \ and the target is grappled (escape DC 17). While grappled in this way, the\
+      \ target is restrained."
     "name": "Snatch"
   - "desc": "The gloomstalker emits a terrible shriek. Each enemy within 60 feet of\
       \ the gloomstalker that can hear it must succeed on a DC 13 Constitution saving\
-      \ throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) until the\
-      \ end of the enemy's next turn."
+      \ throw or be paralyzed until the end of the enemy's next turn."
     "name": "Shriek (Recharge 6)"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/gloomstalker-egw.webp"
+  - "CRCotN"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gloomstalker-egw.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chukka
+- "Chukka"
 ---
-# [Chukka](3-Mechanics\CLI\bestiary\npc/chukka-bgdia.md)
+# [Chukka](3-Mechanics/CLI/bestiary/npc/chukka-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 83*  
 
 ```statblock
@@ -34,30 +34,32 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
+"gear":
+  - "silvered pike"
 "senses": "passive Perception 12"
 "languages": "understands Auran and Common but speaks only through the use of its\
   \ Mimicry trait"
 "cr": "1/4"
 "traits":
   - "desc": "In the first round of a combat, Chukka has advantage on attack rolls\
-      \ against any creature it [surprised](/3-Mechanics/CLI/conditions.md#Surprised)."
+      \ against any creature it surprised."
     "name": "Ambusher"
   - "desc": "Chukka can mimic any sounds it has heard, including voices. A creature\
       \ that hears the sounds can tell they are imitations with a successful DC 14\
-      \ Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ Wisdom (Insight) check."
     "name": "Mimicry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5 (1d10)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d10) piercing damage."
     "name": "Silvered Pike"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/chukka-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/chukka-bgdia.webp"
 ```
 ^statblock

@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/heavy
+- ttrpg-cli/item/armor/medium
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Armor of the Fallen"
 - "Breastplate of the Fallen"
 - "Chain Mail of the Fallen"
@@ -24,7 +24,7 @@ aliases:
 ---
 # Armor of the Fallen
 *Uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/armor-of-the-fallen.webp#right)
+![](3-Mechanics/CLI/items/img/armor-of-the-fallen.webp#right)
 
 
 While wearing this armor, you can use it to cast either Speak with Dead or Animate Dead. Once the armor has cast a spell in this way, it can't cast either spell until the next dawn.

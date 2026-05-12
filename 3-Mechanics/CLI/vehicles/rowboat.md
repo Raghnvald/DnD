@@ -8,17 +8,16 @@ tags:
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/ship
 aliases:
-- Rowboat
+- "Rowboat"
 ---
 # Rowboat
-%%-- Embedded content starts on the next line. --%%
 *Source: Ghosts of Saltmarsh p. 190*  
 
 The humble rowboat serves to ferry passengers back and forth from larger ships or to navigate lakes and rivers. Due to its simple, versatile design, a rowboat has no decks or typical crew. Weighing 100 pounds, a rowboat is easy to transport and might be carried by larger ships.
 
 ```ad-statblock
 title: Rowboat
-![](/3-Mechanics/CLI/vehicles/token/rowboat.webp#token)
+![](3-Mechanics/CLI/vehicles/token/rowboat.webp#token)
 *Large vehicle (10 ft. by 5 ft.); sea*
 
 - **Creature Capacity** 2 crew, 2 passengers

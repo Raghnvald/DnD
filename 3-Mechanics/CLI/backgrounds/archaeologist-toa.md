@@ -3,19 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-background
 tags:
-- new/background
-- new/compendium/src/5e/toa
+- ttrpg-cli/background
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Archaeologist
+- "Archaeologist"
 ---
 # Archaeologist
 *Source: Tomb of Annihilation p. 192*  
 
 
-- **Skill Proficiencies.** History, Survival  
-- **Tool Proficiencies.** Cartographer's tools or navigator's tools  
+- **Skill Proficiencies.** [History](3-Mechanics/CLI/rules/skills.md#History), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
+- **Tool Proficiencies.** [Cartographer's tools](3-Mechanics/CLI/items/cartographers-tools-xphb.md) or [navigator's tools](3-Mechanics/CLI/items/navigators-tools-xphb.md)  
 - **Languages.** One of your choice  
-- **Equipment.** A wooden case containing a map to a ruin or dungeon, a bullseye lantern, a miner's pick, a set of traveler's clothes, a shovel, a two-person tent, a trinket recovered from a dig site, and a pouch containing 25 gp  
+- **Equipment.** A [wooden case](3-Mechanics/CLI/items/map-or-scroll-case-xphb.md) containing a map to a ruin or dungeon, a [bullseye lantern](3-Mechanics/CLI/items/bullseye-lantern-xphb.md), a miner's pick, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), a [shovel](3-Mechanics/CLI/items/shovel-xphb.md), a [two-person tent](3-Mechanics/CLI/items/tent-xphb.md), a [trinket](3-Mechanics/CLI/items/trinket-xphb.md) recovered from a dig site, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 25 gp  
 
 An archaeologist learns about the long-lost and fallen cultures of the past by studying their remains-their bones, their ruins, their surviving masterworks, and their tombs. Those who practice archaeology travel to the far corners of the world to root through crumbled cities and lost dungeons, digging in search of artifacts that might tell the stories of monarchs and high priests, wars and cataclysms.
 
@@ -25,18 +25,16 @@ Prior to becoming an adventurer, you spent most of your young life crawling arou
 
 **Signature Item**
 
-`dice: [](archaeologist-toa.md#^signature-item)`
-
 | dice: d8 | Item |
 |----------|------|
-| 1 | 10-foot pole |
-| 2 | Crowbar |
+| 1 | [10-foot pole](3-Mechanics/CLI/items/pole-xphb.md) |
+| 2 | [Crowbar](3-Mechanics/CLI/items/crowbar-xphb.md) |
 | 3 | Hat |
-| 4 | Hooded lantern |
+| 4 | [Hooded lantern](3-Mechanics/CLI/items/hooded-lantern-xphb.md) |
 | 5 | Medallion |
-| 6 | Shovel |
+| 6 | [Shovel](3-Mechanics/CLI/items/shovel-xphb.md) |
 | 7 | Sledgehammer |
-| 8 | Whip |
+| 8 | [Whip](3-Mechanics/CLI/items/whip-xphb.md) |
 ^signature-item
 
 ## Feature: Historical Knowledge
@@ -46,8 +44,6 @@ When you enter a ruin or dungeon, you can correctly ascertain its original purpo
 ## Suggested Characteristics
 
 Few archaeologists can resist the lure of an unexplored ruin or dungeon, particularly if such a site is the source of legends or is rumored to contain the treasures and relics of wizards, warlords, or royalty. Some archaeologists plunder for wealth or fame, while others consider it their calling to illuminate the past or keep the world's greatest treasures from falling into the wrong hands. Whatever their motivations, archaeologists combine the qualities of a scrappy historian with the self-made heroism of a treasure-hunting scoundrel.
-
-`dice: [](archaeologist-toa.md#^personality-trait)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -61,8 +57,6 @@ Few archaeologists can resist the lure of an unexplored ruin or dungeon, particu
 | 8 | You might think I'm a scholar, but I love a good brawl. These fists were made for punching. |
 ^personality-trait
 
-`dice: [](archaeologist-toa.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Preservation. That artifact belongs in a museum. (Good) |
@@ -73,8 +67,6 @@ Few archaeologists can resist the lure of an unexplored ruin or dungeon, particu
 | 6 | Danger. With every great discovery comes grave danger. The two walk hand in hand. (Any) |
 ^ideal
 
-`dice: [](archaeologist-toa.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | Ever since I was a child, I've heard stories about a lost city. I aim to find it, learn its secrets, and earn my place in the history books. |
@@ -84,8 +76,6 @@ Few archaeologists can resist the lure of an unexplored ruin or dungeon, particu
 | 5 | I'm secretly in love with the wealthy patron who sponsors my archaeological exploits. |
 | 6 | I hope to bring prestige to a library, a museum, or a university. |
 ^bond
-
-`dice: [](archaeologist-toa.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/war
-aliases: 
-- Deep Duerra
+aliases:
+- "Deep Duerra"
 ---
 # Deep Duerra
 *Source: Sword Coast Adventurer's Guide p. 22* 

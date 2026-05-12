@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/8
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Corrupted Avatar of Lurue
+- "Corrupted Avatar of Lurue"
 ---
-# [Corrupted Avatar of Lurue](3-Mechanics\CLI\bestiary\monstrosity/corrupted-avatar-of-lurue-cm.md)
+# [Corrupted Avatar of Lurue](3-Mechanics/CLI/bestiary/monstrosity/corrupted-avatar-of-lurue-cm.md)
 *Source: Candlekeep Mysteries p. 123*  
 
 In normal circumstances, the avatar of Lurue is a breathtaking sight; her silver, stardust-like mane, her shimmering hooves, and her perfectly formed spiral horn elicit awe from even the most hardened souls. As powerful and striking as she is in her true form, she's just as wicked in her alternative state. With necrotic energy twisting and dancing at the tip of her black horn, this corrupted avatar of Lurue is instead a nightmare come to life.
@@ -53,8 +53,8 @@ While tainted by the influence of Malar, the avatar of Lurue carries out the Bea
       \ (8d6 + 4) necrotic damage."
     "name": "Hooves"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 32\
-      \ (8d6 + 4) necrotic damage. If the target is a humanoid, it must succeed on\
-      \ a DC 13 Wisdom saving throw or be transformed into a wolf under the avatar's\
+      \ (8d6 + 4) necrotic damage. If the target is a humanoid, it must succeed\
+      \ on a DC 13 Wisdom saving throw or be transformed into a wolf under the avatar's\
       \ control. This transformation lasts for 1 hour, or until the target drops to\
       \ 0 hit points or dies. The target's game statistics are replaced by the wolf's\
       \ statistics, but it retains its hit points. The target is limited in the actions\
@@ -65,6 +65,6 @@ While tainted by the influence of Malar, the avatar of Lurue carries out the Bea
     "name": "Horn"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/corrupted-avatar-of-lurue-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/corrupted-avatar-of-lurue-cm.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jenks
+- "Jenks"
 ---
-# [Jenks](3-Mechanics\CLI\bestiary\npc/jenks-wdh.md)
+# [Jenks](3-Mechanics/CLI/bestiary/npc/jenks-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  
 
 ```statblock
@@ -33,6 +33,6 @@ aliases:
 "languages": ""
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jenks-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jenks-wdh.webp"
 ```
 ^statblock

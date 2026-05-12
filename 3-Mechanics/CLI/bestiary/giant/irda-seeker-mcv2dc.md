@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Irda Seeker
+- "Irda Seeker"
 ---
-# [Irda Seeker](3-Mechanics\CLI\bestiary\giant/irda-seeker-mcv2dc.md)
+# [Irda Seeker](3-Mechanics/CLI/bestiary/giant/irda-seeker-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 8*  
 
 Irda seekers are skilled spies who use their magic to disguise themselves and gather intelligence for their allies. In combat, irda seekers can momentarily cloak themselves as they dart around the battlefield.
@@ -44,21 +44,22 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
   - "dexterity": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "darkvision 60 ft., truesight 5 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
+  \ 5 ft., passive Perception 16"
 "languages": "Common, Giant, Sylvan"
 "cr": "1"
 "actions":
   - "desc": "The seeker uses Augment Physicality, if available, and makes two Crystal\
       \ Blade attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) force damage, plus 7 (2d6) force damage if the seeker is Large."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) force damage, plus 7 (2d6) force damage if the seeker is Large."
     "name": "Crystal Blade"
   - "desc": "For 1 minute, the seeker magically heightens its physical ability and\
       \ increases in size, along with anything it is wearing or carrying. While augmented,\
@@ -74,12 +75,14 @@ Distantly related to oni, ogres, and other giant folk, irda have shimmering skin
     "name": "Change Shape (1/Day)"
 "bonus_actions":
   - "desc": "The seeker, along with any equipment it is wearing or carrying, turns\
-      \ invisible and teleports to an unoccupied space it can see within 30 feet of\
-      \ itself. The seeker remains invisible until the start of its next turn or until\
-      \ immediately after the seeker makes an attack roll, whichever comes first."
+      \ [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and teleports to\
+      \ an unoccupied space it can see within 30 feet of itself. The seeker remains\
+      \ [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) until the start\
+      \ of its next turn or until immediately after the seeker makes an attack roll,\
+      \ whichever comes first."
     "name": "Veil Walk (Recharge 4-6)"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/irda-seeker-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/irda-seeker-mcv2dc.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- NPC Appearance
+- "NPC Appearance"
 ---
 # NPC Appearance
 *Source: Dungeon Master's Guide p. 88* 
 
 **NPC Appearance**
-
-`dice: [](npc-appearance.md#^npc-appearance)`
 
 | dice: d20 | Feature |
 |-----------|---------|

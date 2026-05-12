@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Air Elemental
+- "Air Elemental"
 ---
-# [Air Elemental](3-Mechanics\CLI\bestiary\elemental/air-elemental.md)
+# [Air Elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md)
 *Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
@@ -61,13 +61,13 @@ An elemental doesn't require air, food, drink, or sleep.
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Auran"
 "cr": "5"
 "traits":
@@ -81,19 +81,19 @@ An elemental doesn't require air, food, drink, or sleep.
       \ (2d8 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "Each creature in the elemental's space must make a DC 13 Strength saving\
-      \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is\
-      \ flung up 20 feet away from the elemental in a random direction and knocked\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone). If a thrown target strikes\
-      \ an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage\
-      \ for every 10 feet it was thrown. If the target is thrown at another creature,\
-      \ that creature must succeed on a DC 13 Dexterity saving throw or take the same\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\n\nIf\
-      \ the saving throw is successful, the target takes half the bludgeoning damage\
-      \ and isn't flung away or knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and\
+      \ is flung up 20 feet away from the elemental in a random direction and knocked\
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone). If a thrown target strikes\
+      \ an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning\
+      \ damage for every 10 feet it was thrown. If the target is thrown at another\
+      \ creature, that creature must succeed on a DC 13 Dexterity saving throw or\
+      \ take the same damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\n\
+      \nIf the saving throw is successful, the target takes half the bludgeoning damage\
+      \ and isn't flung away or knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/air-elemental.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/air-elemental.webp"
 ```
 ^statblock
 

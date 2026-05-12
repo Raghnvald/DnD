@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Xoriat, the Realm of Madness; Xoriat Manifest Zone Features
+- "Xoriat, the Realm of Madness; Xoriat Manifest Zone Features"
 ---
 # Xoriat, the Realm of Madness; Xoriat Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 232* 
 
 **Xoriat Manifest Zone Features**
-
-`dice: [](xoriat-the-realm-of-madness-xoriat-manifest-zone-features-erlw.md#^xoriat-manifest-zone-features)`
 
 | dice: d4 | Feature |
 |----------|---------|

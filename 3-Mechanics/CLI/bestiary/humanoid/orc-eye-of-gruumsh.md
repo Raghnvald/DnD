@@ -17,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Eye of Gruumsh
+- "Orc Eye of Gruumsh"
 ---
-# [Orc Eye of Gruumsh](3-Mechanics\CLI\bestiary\humanoid/orc-eye-of-gruumsh.md)
-*Source: Monster Manual p. 247, Explorer's Guide to Wildemount*  
+# [Orc Eye of Gruumsh](3-Mechanics/CLI/bestiary/humanoid/orc-eye-of-gruumsh.md)
+*Source: Monster Manual p. 247*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -65,7 +65,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "ring mail, shield"
+"ac_class": "[ring mail](3-Mechanics/CLI/items/ring-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "1"
@@ -78,19 +78,24 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+3"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+1"
-"senses": "darkvision 60 ft., passive Perception 11"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 11, +3 to hit with spell attacks). The orc has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** guidance, resistance, thaumaturgy\n\
-      \n**1st level (4 slots):** bless, command\n\n**2nd level (2 slots):** augury,\
-      \ spiritual weapon (spear)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance.md),\
+      \ [resistance](3-Mechanics/CLI/spells/resistance.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [bless](3-Mechanics/CLI/spells/bless.md), [command](3-Mechanics/CLI/spells/command.md)\n\
+      \n**2nd level (2 slots):** [augury](3-Mechanics/CLI/spells/augury.md), [spiritual\
+      \ weapon](3-Mechanics/CLI/spells/spiritual-weapon.md) (spear)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -105,8 +110,7 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orc-eye-of-gruumsh.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-eye-of-gruumsh.webp"
 ```
 ^statblock
 

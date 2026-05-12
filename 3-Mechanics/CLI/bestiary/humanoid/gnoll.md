@@ -14,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll
+- "Gnoll"
 ---
-# [Gnoll](3-Mechanics\CLI\bestiary\humanoid/gnoll.md)
-*Source: Monster Manual p. 163, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Gnoll](3-Mechanics/CLI/bestiary/humanoid/gnoll.md)
+*Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 
@@ -42,7 +42,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "hide armor, shield"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "modifier": !!int "1"
@@ -54,7 +54,11 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Gnoll"
 "cr": "1/2"
 "traits":
@@ -63,8 +67,8 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
       \ and make a bite attack."
     "name": "Rampage"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage."
     "name": "Bite"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
@@ -75,8 +79,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
     "name": "Longbow"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/gnoll.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/gnoll.webp"
 ```
 ^statblock
 

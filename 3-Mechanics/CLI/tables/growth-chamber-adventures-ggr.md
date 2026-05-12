@@ -5,18 +5,16 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Growth Chamber Adventures
+- "Growth Chamber Adventures"
 ---
 # Growth Chamber Adventures
 *Source: Guildmasters' Guide to Ravnica p. 156* 
 
 **Growth Chamber Adventures**
 
-`dice: [](growth-chamber-adventures-ggr.md#^growth-chamber-adventures)`
-
 | dice: d12 | Adventure Goal |
 |-----------|----------------|
-| 1 | Escape from the chamber while a [category 3 krasis](/3-Mechanics/CLI/bestiary/monstrosity/category-3-krasis-ggr.md) runs amok through it after breaking out of its growth pod. |
+| 1 | Escape from the chamber while a [category 3 krasis](3-Mechanics/CLI/bestiary/monstrosity/category-3-krasis-ggr.md) runs amok through it after breaking out of its growth pod. |
 | 2 | Break one or more krasis out of their growth pods in order to wreak havoc on the growth chamber. |
 | 3 | Stop a sinister experiment in progress. |
 | 4 | Spy on a research program intended to create superior soldiers. |

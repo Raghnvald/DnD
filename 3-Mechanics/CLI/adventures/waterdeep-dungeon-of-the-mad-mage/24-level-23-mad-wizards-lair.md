@@ -5,44 +5,44 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 23: Mad Wizard's Lair
+- "Level 23: Mad Wizard's Lair"
 ---
 # Level 23: Mad Wizard's Lair
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 289* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/075-23-01.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/075-23-01.webp#center)
 
 Halaster makes his home in the lowest level of Undermountain, which is optimized for four characters of 17th level or higher. Characters who defeat the monsters on this level should gain enough XP to reach 20th level.
 
 ## Who Dwells Here?
 
-In addition to Halaster, two of the Mad Mage's apprentices reside on this level: [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) and [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md).
+In addition to Halaster, two of the Mad Mage's apprentices reside on this level: [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) and [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md).
 
 ### Halaster Blackcloak
 
 If the adventurers have made their way to this level, Halaster is equal parts impressed and curious. He is ready to grant the characters an audience, having kept an eye on their progress. True to the nature that earned him the moniker "Mad Mage," Halaster's demeanor toward the characters can change on a whim. He might alternate between seeming furious, baffled, annoyed, amused—or simply bored, depending on what the characters have accomplished before reaching this level. See appendix A for more information on the Mad Mage.
 
-If the characters and their actions support Halaster's current goal (see "Halaster's Goals"), the Mad Mage is not necessarily hostile. For example, if his primary goal is to find an apprentice, Halaster has kept an eye on any arcane spellcasters in the party. He might suggest that those characters prove their worth by surviving the Mad Wizard's Lair and "freeing up" an apprenticeship by eliminating [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) or [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md). If this is done, Halaster is willing to take on an appropriate character as a new apprentice. Halaster has no sentimental attachment toward his apprentices, and he often enjoys secretly tormenting them.
+If the characters and their actions support Halaster's current goal (see "Halaster's Goals"), the Mad Mage is not necessarily hostile. For example, if his primary goal is to find an apprentice, Halaster has kept an eye on any arcane spellcasters in the party. He might suggest that those characters prove their worth by surviving the Mad Wizard's Lair and "freeing up" an apprenticeship by eliminating [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) or [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md). If this is done, Halaster is willing to take on an appropriate character as a new apprentice. Halaster has no sentimental attachment toward his apprentices, and he often enjoys secretly tormenting them.
 
 ### Arcturia
 
-[Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) is a lich and a master of transmutation magic. She has altered her form dramatically over the years, now appearing more alive than undead. Gossamer wings sprout from her shoulders, and bone spurs jut from her forearms and elbows.
+[Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) is a lich and a master of transmutation magic. She has altered her form dramatically over the years, now appearing more alive than undead. Gossamer wings sprout from her shoulders, and bone spurs jut from her forearms and elbows.
 
-If the characters destroyed her phylactery on level 14, [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) attacks them on sight. She has no beef with them otherwise.
+If the characters destroyed her phylactery on level 14, [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) attacks them on sight. She has no beef with them otherwise.
 
 ### Trobriand the Metal Mage
 
-[Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) specializes in the creation of magical constructs. Characters who have passed through the upper levels might have encountered some of his creations.
+[Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) specializes in the creation of magical constructs. Characters who have passed through the upper levels might have encountered some of his creations.
 
-Fed up with the frailty of the flesh, [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) has transferred his spirit into the body of a specially prepared iron golem. This merging of spirit and metal has done nothing to improve his sanity, however.
+Fed up with the frailty of the flesh, [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) has transferred his spirit into the body of a specially prepared iron golem. This merging of spirit and metal has done nothing to improve his sanity, however.
 
 ## The Dungeon
 
 Locations in the dungeon portion of this level (areas 1 through 21) are keyed to map 23. No tunnels or staircases connect this dungeon complex to the upper levels of Undermountain. Characters arrive in area 1 after passing through a gate in Shadowdusk Hold (area 35 on level 22).
 
 > [!gallery]
-> ![Map 23](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/076-23-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/077-23-03.webp#gallery)
+> ![Map 23](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/076-23-02.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/077-23-03.webp#gallery)
 
 ### 1. No Retreat
 
@@ -57,7 +57,7 @@ Locations in the dungeon portion of this level (areas 1 through 21) are keyed to
 > **Secret Door**. Hidden behind the fresco that depicts Halaster stretching and yawning is a secret door.
 ^b1b
 
-Targeting an animated fresco with a dispel magic spell has no effect other than to cause Halaster's image to silently mock the spell's caster. The images become motionless while in the area of an antimagic field.
+Targeting an animated fresco with a [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell has no effect other than to cause Halaster's image to silently mock the spell's caster. The images become motionless while in the area of an antimagic field.
 
 #### Arch Gate to Level 22
 
@@ -67,9 +67,9 @@ Halaster can open the gate for 1 minute by touching the arch. The gate cannot ot
 
 #### Halaster Statue
 
-Anytime a creature other than Halaster tries to cast a spell in this room, the statue's arms animate and perform the quick series of somatic gestures needed to cast counterspell. After casting its spell, the statue reverts to its inanimate state until triggered again. The counterspell attempt succeeds automatically.
+Anytime a creature other than Halaster tries to cast a spell in this room, the statue's arms animate and perform the quick series of somatic gestures needed to cast [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md). After casting its spell, the statue reverts to its inanimate state until triggered again. The counterspell attempt succeeds automatically.
 
-The statue is a Large object with AC 17, 50 hit points, and immunity to all damage except force damage. The statue falls to pieces and loses its spellcasting ability if it is reduced to 0 hit points. Destroying the statue triggers a magic mouth spell; the mouth appears amid the shattered remains and says, "Is this the end of [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md)? Ha! I think not."
+The statue is a Large object with AC 17, 50 hit points, and immunity to all damage except force damage. The statue falls to pieces and loses its spellcasting ability if it is reduced to 0 hit points. Destroying the statue triggers a [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell; the mouth appears amid the shattered remains and says, "Is this the end of [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md)? Ha! I think not."
 
 ### 2. Reversed Library
 
@@ -82,7 +82,7 @@ Everything in this room is upside down because gravity in the room is magically 
 > **Desk**. In the middle of the 15-foot-high ceiling is an upside-down desk topped with a stack of tomes held between two golden, upside-down bookends shaped like bulettes bursting out of the ground.
 ^b1f
 
-The reverse gravity field can't be negated, though it is suppressed within an antimagic field. Unless anchored, held down, or affected by a fly spell or similar magic, any creature or object that enters this room falls up toward the ceiling.
+The reverse gravity field can't be negated, though it is suppressed within an antimagic field. Unless anchored, held down, or affected by a [fly](3-Mechanics/CLI/spells/fly-xphb.md) spell or similar magic, any creature or object that enters this room falls up toward the ceiling.
 
 The desk is empty except for the array of nine books held between the bulette-shaped bookends. Eight of the books contain essays pertaining to the eight schools of magic, one book dedicated to each school. The cover and the pages of the ninth book appear blank.
 
@@ -92,19 +92,19 @@ Placing the other books in alphabetical order by school of magic between the boo
 
 The gold bookends are worth 500 gp for the pair, while the eight books detailing the schools of magic are worth 100 gp each.
 
-Halaster's spellbook contains the following spells: Bigby's hand, color spray, crown of madness, enlarge/reduce, fabricate, false life, gaseous form, gust of wind, hold monster, ice storm, jump, maze, Otto's irresistible dance, reverse gravity, sleet storm, and weird.
+Halaster's spellbook contains the following spells: [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md), [color spray](3-Mechanics/CLI/spells/color-spray-xphb.md), [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [fabricate](3-Mechanics/CLI/spells/fabricate-xphb.md), [false life](3-Mechanics/CLI/spells/false-life-xphb.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [jump](3-Mechanics/CLI/spells/jump-xphb.md), [maze](3-Mechanics/CLI/spells/maze-xphb.md), [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md), [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md), [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md), and [weird](3-Mechanics/CLI/spells/weird-xphb.md).
 
 ### 3. Talking Heads
 
 This 10-foot-high room has wooden shelves covering the walls from floor to ceiling. Hundreds of wide-mouthed jars line the shelves, each containing a severed head floating in brine.
 
-The heads in the jars are specimens that Halaster has collected throughout Undermountain: goblins, drow, kuo-toa, duergar, troglodytes, githyanki, mind flayers, and other creatures. Although detached from their bodies, the heads remain alive and sedate as a result of Halaster's magic. Tapping on a jar is enough to stir a head to consciousness. The heads speak only the languages they knew in life and have no recollection of how they ended up in their disembodied state. A character can prompt a head for information, which it's happy to provide. Each head shares one Undermountain secret determined by drawing a card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C). A head can also confirm that Halaster spends a lot of time on this level of Undermountain.
+The heads in the jars are specimens that Halaster has collected throughout Undermountain: goblins, drow, kuo-toa, duergar, troglodytes, githyanki, mind flayers, and other creatures. Although detached from their bodies, the heads remain alive and sedate as a result of Halaster's magic. Tapping on a jar is enough to stir a head to consciousness. The heads speak only the languages they knew in life and have no recollection of how they ended up in their disembodied state. A character can prompt a head for information, which it's happy to provide. Each head shares one Undermountain secret determined by drawing a card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C). A head can also confirm that Halaster spends a lot of time on this level of Undermountain.
 
 Removing a head from a jar or removing a jar from this room ends the magic that animates the head, which immediately dies.
 
 ### 4. Helmed Horrors
 
-Six [helmed horrors](/3-Mechanics/CLI/bestiary/construct/helmed-horror.md) float in the alcoves marked H on map 23. These constructs attack intruders on sight and fly after those who flee.
+Six [helmed horrors](3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md) float in the alcoves marked H on map 23. These constructs attack intruders on sight and fly after those who flee.
 
 ### 5. Magical Repository
 
@@ -114,12 +114,12 @@ Six [helmed horrors](/3-Mechanics/CLI/bestiary/construct/helmed-horror.md) float
 > 
 > **Statues**. Four statues, each one carved to look like a 20-foot-high purple worm bursting up through the floor, fill the corners of the room. (These statues are harmless.)
 > 
-> **Dome**. A deep, 20-foot-high alcove in the north wall contains four [invisible stalkers](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) trapped inside an invisible, dome-shaped wall of force rising from the floor. (Any items that Halaster removed from the mine carts in level 15, area 1, lie on the floor inside the dome. The dome appears to contain nothing else.)
+> **Dome**. A deep, 20-foot-high alcove in the north wall contains four [invisible stalkers](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) trapped inside an invisible, dome-shaped wall of force rising from the floor. (Any items that Halaster removed from the mine carts in level 15, area 1, lie on the floor inside the dome. The dome appears to contain nothing else.)
 ^b24
 
-The dotted circle on map 23 marks the edge of the dome, which was created by a wall of force spell made permanent by Halaster. The dome can't be dispelled by dispel magic, but a disintegrate spell destroys it, freeing the invisible stalkers within.
+The dotted circle on map 23 marks the edge of the dome, which was created by a [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) spell made permanent by Halaster. The dome can't be dispelled by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), but a [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) spell destroys it, freeing the invisible stalkers within.
 
-The invisible stalkers attack any creature other than Halaster that enters the dome using magic (such as a dimension door or misty step spell). They also attack if the dome is destroyed. The stalkers like to gang up on one opponent at a time.
+The invisible stalkers attack any creature other than Halaster that enters the dome using magic (such as a [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) or [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) spell). They also attack if the dome is destroyed. The stalkers like to gang up on one opponent at a time.
 
 ### 6. Wizardly Wards
 
@@ -127,25 +127,25 @@ A trapped hall (area 6a) guards two of Halaster's vaults (areas 6b and 6c).
 
 #### 6a. Lightning Pillars
 
-This two-chambered hall has a 20-foot-high ceiling supported by ten copper-plated pillars of iron. The pillars generate arcs of magic lightning, as well as bolts that leap from one pillar to another. Creatures standing outside the hall are safe, as are creatures within the 20-foot-square space marked on map 23. A creature that ends its turn in any other space in the hall is struck by lightning from the nearest pillar and must make a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage on a failed save, or half as much damage on a successful one.
+This two-chambered hall has a 20-foot-high ceiling supported by ten copper-plated pillars of iron. The pillars generate arcs of magic lightning, as well as bolts that leap from one pillar to another. Creatures standing outside the hall are safe, as are creatures within the 20-foot-square space marked on map 23. A creature that ends its turn in any other space in the hall is struck by lightning from the nearest pillar and must make a DC 15 Dexterity saving throw, taking 22 (`4d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
-A character who uses an action to study the pillars and succeeds on a DC 20 Intelligence (Investigation) check notices a pattern in the lightning discharges and gains advantage on saving throws made against the pillars. In addition, the character identifies the safe space in the middle of the hall.
+A character who uses an action to study the pillars and succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check notices a pattern in the lightning discharges and gains advantage on saving throws made against the pillars. In addition, the character identifies the safe space in the middle of the hall.
 
 #### 6b. Angelic Shield
 
 Mounted on the door to this chamber is a bronze knocker shaped like Halaster's mad visage, his beard entwined around the knocker's ring-shaped handle. A tiny bronze plaque mounted below the knocker reads in Common, "Knock first before entering."
 
-Using the knocker triggers a glyph of warding spell cast at 8th level. The glyph creates a 20-foot-radius sphere of magical flame. Each creature in the area must make a DC 22 Dexterity saving throw, taking `dice:10d8|noform|noparens|avg|text(45)` (`10d8`) fire damage on a failed save, or half as much damage on a successful one. The tiny glyph can be found on the backside of the knocker's handle with a successful DC 22 Intelligence (Investigation) check.
+Using the knocker triggers a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell cast at 8th level. The glyph creates a 20-foot-radius sphere of magical flame. Each creature in the area must make a DC 22 Dexterity saving throw, taking 45 (`10d8`) fire damage on a failed save, or half as much damage on a successful one. The tiny glyph can be found on the backside of the knocker's handle with a successful DC 22 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check.
 
 ##### Shield
 
 The room is empty except for a steel shield hanging on the south wall. The shield is cast in the form of a serene, angelic visage wreathed in bronze feathers.
 
-A detect magic spell reveals an aura of abjuration magic around the otherwise ordinary shield, inside which is trapped a [pit fiend](/3-Mechanics/CLI/bestiary/fiend/pit-fiend.md) named Kastzanedes. Any ability that detects the presence of fiends, such as a paladin's Divine Sense class feature, reveals the presence of such a creature bound within the shield.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around the otherwise ordinary shield, inside which is trapped a [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) named Kastzanedes. Any ability that detects the presence of fiends, such as a paladin's Divine Sense class feature, reveals the presence of such a creature bound within the shield.
 
-If an identify spell is cast on the shield, or if it is brought within 10 feet of its sister shield in area 9b, the pit fiend is released. It appears within 5 feet of the shield's bearer or in the nearest unoccupied space. The freed pit fiend attacks any other creatures it can see, targeting celestials above all others.
+If an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell is cast on the shield, or if it is brought within 10 feet of its sister shield in area 9b, the pit fiend is released. It appears within 5 feet of the shield's bearer or in the nearest unoccupied space. The freed pit fiend attacks any other creatures it can see, targeting celestials above all others.
 
-While trapped in the shield, the pit fiend can communicate telepathically with the shield's wielder. It pretends to be a sentient magic item that is unwilling to disclose its secrets, trying to goad the characters into casting identify on it. If that tactic doesn't work, the pit fiend tries to talk the shield's wielder into undertaking a quest to find its sister shield. The pit fiend suspects that the other shield is nearby, but does not know its location.
+While trapped in the shield, the pit fiend can communicate telepathically with the shield's wielder. It pretends to be a sentient magic item that is unwilling to disclose its secrets, trying to goad the characters into casting [identify](3-Mechanics/CLI/spells/identify-xphb.md) on it. If that tactic doesn't work, the pit fiend tries to talk the shield's wielder into undertaking a quest to find its sister shield. The pit fiend suspects that the other shield is nearby, but does not know its location.
 
 #### 6c. Components Storeroom
 
@@ -155,7 +155,7 @@ This room contains wooden trestle tables laden with material components for spel
 
 Eight black marble pillars form a circle in this 20-foot-high room. Carved into each pillar is a symbol representing one of the eight schools of magic (Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation).
 
-The first time a character enters the circle of pillars, a magic mouth spell activates on the floor and speaks the following riddle in Common before vanishing:
+The first time a character enters the circle of pillars, a [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell activates on the floor and speaks the following riddle in Common before vanishing:
 
 A crown festooned my dwarven brow.
 
@@ -187,20 +187,20 @@ These chambers have 15-foot-high, flat ceilings.
 
 > [!note] 
 > 
-> **Mosaics**. Tiled mosaics depicting a variety of magic staffs cover the walls. (Hidden behind a mosaic depicting a staff of thunder and lightning is a secret door.)
+> **Mosaics**. Tiled mosaics depicting a variety of magic staffs cover the walls. (Hidden behind a mosaic depicting a [staff of thunder and lightning](3-Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg.md) is a secret door.)
 > 
 > **Dead End**. Part of the eastern wall has been obliterated, leaving behind a jagged dead-end tunnel.
 ^b2f
 
-The mosaic of the staff of thunder and lightning, unlike the others, is cracked and scorched. If this section of wall is targeted by any effect that deals lightning or thunder damage, the secret door hidden behind the mosaic swings opens into area 9b. Knock spells and similar magic have no effect on the secret door, but a disintegrate spell destroys it. No amount of physical force can open the secret door from this side, but the door opens easily from area 9b.
+The mosaic of the [staff of thunder and lightning](3-Mechanics/CLI/items/staff-of-thunder-and-lightning-xdmg.md), unlike the others, is cracked and scorched. If this section of wall is targeted by any effect that deals lightning or thunder damage, the secret door hidden behind the mosaic swings opens into area 9b. [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spells and similar magic have no effect on the secret door, but a [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) spell destroys it. No amount of physical force can open the secret door from this side, but the door opens easily from area 9b.
 
 #### 9b. Diabolical Shield
 
 Hanging on the west wall of this otherwise empty 15-foot-high room is a steel shield cast in the form of a scowling devil's face wreathed by bronze flames.
 
-A detect magic spell reveals an aura of abjuration magic around the otherwise ordinary shield, inside which is trapped a [deva](/3-Mechanics/CLI/bestiary/celestial/deva.md) named Aryx. While trapped in the shield, Aryx can't communicate with anyone. Any ability that detects the presence of celestials, such as a paladin's Divine Sense class feature, reveals the presence of such a creature bound within the shield. If a dispel evil and good spell is cast on the shield, or if the shield comes within 10 feet of a fiend, the deva is released, appearing within 5 feet of the shield or in the nearest unoccupied space. Once freed, the deva uses its detect evil and good spell to determine if there are any evil creatures in its presence. If so, Aryx attacks them, targeting fiends above all others.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around the otherwise ordinary shield, inside which is trapped a [deva](3-Mechanics/CLI/bestiary/celestial/deva-xmm.md) named Aryx. While trapped in the shield, Aryx can't communicate with anyone. Any ability that detects the presence of celestials, such as a paladin's Divine Sense class feature, reveals the presence of such a creature bound within the shield. If a [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell is cast on the shield, or if the shield comes within 10 feet of a fiend, the deva is released, appearing within 5 feet of the shield or in the nearest unoccupied space. Once freed, the deva uses its [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell to determine if there are any evil creatures in its presence. If so, Aryx attacks them, targeting fiends above all others.
 
-Aryx was sent by Tyr, the god of justice, to talk some sense into [Fazrian](/3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md), the fallen planetar on level 21. Before Aryx could approach [Fazrian](/3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md), however, Halaster trapped the deva in the shield. Aryx must complete its mission before it can return to Tyr's heavenly realm. If the characters claim to have killed [Fazrian](/3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md) or helped the planetar achieve atonement, the deva uses a commune spell to verify as much. If the characters speak the truth, Aryx shows its gratitude by granting each party member a blessing of health (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide"). If the characters have not yet dealt with the fallen planetar on level 21, Aryx offers to fight alongside the party until such time as it can leave this level and complete its mission, provided the characters aren't predominantly evil. If the characters help Aryx defeat [Fazrian](/3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md) later on, the deva shows its gratitude by bestowing upon them the blessing of health.
+Aryx was sent by Tyr, the god of justice, to talk some sense into [Fazrian](3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md), the fallen planetar on level 21. Before Aryx could approach [Fazrian](3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md), however, Halaster trapped the deva in the shield. Aryx must complete its mission before it can return to Tyr's heavenly realm. If the characters claim to have killed [Fazrian](3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md) or helped the planetar achieve atonement, the deva uses a [commune](3-Mechanics/CLI/spells/commune-xphb.md) spell to verify as much. If the characters speak the truth, Aryx shows its gratitude by granting each party member a [blessing of health](3-Mechanics/CLI/rewards/blessing-of-health-xdmg.md) (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide"). If the characters have not yet dealt with the fallen planetar on level 21, Aryx offers to fight alongside the party until such time as it can leave this level and complete its mission, provided the characters aren't predominantly evil. If the characters help Aryx defeat [Fazrian](3-Mechanics/CLI/bestiary/npc/fazrian-wdmm.md) later on, the deva shows its gratitude by bestowing upon them the [blessing of health](3-Mechanics/CLI/rewards/blessing-of-health-xdmg.md).
 
 ### 10. Arcane Display
 
@@ -208,7 +208,7 @@ These areas have 20-foot-high, arched ceilings.
 
 #### 10a. Zigzagging Gallery
 
-Characters who make a loud racket in this hall attract the seven [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull.md) in area 10b. The features of this hall are as follows:
+Characters who make a loud racket in this hall attract the seven [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) in area 10b. The features of this hall are as follows:
 
 > [!note] 
 > 
@@ -217,26 +217,26 @@ Characters who make a loud racket in this hall attract the seven [flameskulls](/
 > **Paintings**. Paintings line the walls. They come in many sizes and have gilded frames.
 ^b33
 
-The hall contains three chandeliers, their locations marked on map 23. Each chandelier magically sheds bright light in a 20-foot radius and dim light for an additional 20 feet. A chandelier can bear up to 150 pounds of additional weight before falling. Casting dispel magic on a chandelier causes it to go dark and fall to the floor with a loud crash.
+The hall contains three chandeliers, their locations marked on map 23. Each chandelier magically sheds bright light in a 20-foot radius and dim light for an additional 20 feet. A chandelier can bear up to 150 pounds of additional weight before falling. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a chandelier causes it to go dark and fall to the floor with a loud crash.
 
-The paintings are stuck to the walls with sovereign glue and require universal solvent to remove without destroying them. A detect magic spell reveals an aura of illusion magic around each painting, of which there are hundreds. Half of them are portraits of Halaster, looking as demented as ever in his robe of eyes. About a quarter of them are portraits of other wizards (former apprentices). The remainder are paintings of unknown people with the heads of small beasts (badgers, mice, rabbits, birds, fish, and so forth). The paintings' eyes (including the eyes on Halaster's robes) seem to follow visitors as they move through the hall—a minor magical illusion.
+The paintings are stuck to the walls with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md) and require [universal solvent](3-Mechanics/CLI/items/universal-solvent-xdmg.md) to remove without destroying them. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of illusion magic around each painting, of which there are hundreds. Half of them are portraits of Halaster, looking as demented as ever in his [robe of eyes](3-Mechanics/CLI/items/robe-of-eyes-xdmg.md). About a quarter of them are portraits of other wizards (former apprentices). The remainder are paintings of unknown people with the heads of small beasts (badgers, mice, rabbits, birds, fish, and so forth). The paintings' eyes (including the eyes on Halaster's robes) seem to follow visitors as they move through the hall—a minor magical illusion.
 
 #### 10b. Shield Trap
 
 > [!note] 
 > 
-> **Flameskulls**. Unless they were drawn to area 10a, seven [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull.md) float here, their green flames the only sources of light in this room.
+> **Flameskulls**. Unless they were drawn to area 10a, seven [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) float here, their green flames the only sources of light in this room.
 > 
 > **Decor**. More paintings like the ones in area 10a line the walls. A golden shield encrusted with gemstones hangs on the south wall among the paintings.
 ^b35
 
-Halaster made the flameskulls from the skulls of wizards who tried and failed to become his apprentices. They attack intruders on sight, bombarding them with fireball spells in the first round of combat. The flameskulls pursue intruders that flee, using their mage hand spells to open doors if needed.
+Halaster made the flameskulls from the skulls of wizards who tried and failed to become his apprentices. They attack intruders on sight, bombarding them with [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spells in the first round of combat. The flameskulls pursue intruders that flee, using their [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spells to open doors if needed.
 
-Hanging on a stone peg that juts from the wall, the gold-plated shield is etched with arcane runes. A detect magic spell reveals an aura of necromancy magic radiating from the shield. A character who examines the runes and succeeds on a DC 18 Intelligence (Arcana) check can ascertain that the runes give the shield the magical ability to trap creatures inside it.
+Hanging on a stone peg that juts from the wall, the gold-plated shield is etched with arcane runes. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of necromancy magic radiating from the shield. A character who examines the runes and succeeds on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can ascertain that the runes give the shield the magical ability to trap creatures inside it.
 
 Any creature that touches the shield must succeed on a DC 18 Wisdom saving throw or become trapped inside it, along with everything the creature is wearing or carrying. The shield displays a faint image of the trapped creature in its reflective outer surface. The shield can trap only one creature at a time. Whenever it traps a new creature, the shield releases its current prisoner, which appears in an unoccupied space as close to the shield as possible.
 
-A creature trapped in the shield can do nothing except attempt a DC 18 Charisma saving throw at the end of each of its turns. On a successful save, the creature is released and appears in an unoccupied space as close to the shield as possible. On a failed save, the creature takes `dice:7d8|noform|noparens|avg|text(31)` (`7d8`) necrotic damage. If this damage reduces the trapped creature to 0 hit points, its body is destroyed as its soul is released into the afterlife.
+A creature trapped in the shield can do nothing except attempt a DC 18 Charisma saving throw at the end of each of its turns. On a successful save, the creature is released and appears in an unoccupied space as close to the shield as possible. On a failed save, the creature takes 31 (`7d8`) necrotic damage. If this damage reduces the trapped creature to 0 hit points, its body is destroyed as its soul is released into the afterlife.
 
 ##### Treasure
 
@@ -259,22 +259,22 @@ These areas have 20-foot-high, flat ceilings.
 
 > [!note] 
 > 
-> **Guards**. Two [scaladar](/3-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md) (see appendix A) guard this room and won't leave it under any circumstances.
+> **Guards**. Two [scaladar](3-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md) (see appendix A) guard this room and won't leave it under any circumstances.
 > 
 > **Secret Door**. The walls, floor, and ceiling are covered in 5-foot-square steel tiles. One tile conceals a secret door in the east wall at floor level.
 ^b3b
 
 #### 11c. Trobriand's Body
 
-![Scaladar](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/078-23-04.webp#center)
+![Scaladar](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/078-23-04.webp#center)
 
 The body of a frail man in dark robes lies atop a stone slab near the south wall. The man has long, wavy hair and a thick beard the color of iron, and he wears a metal ring on the index finger of his left hand.
 
-Characters who have seen images of [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) know that the body lying on the slab is his. After [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) successfully transferred his spirit to an iron golem (see area 13), his body was placed here by the scaladar servants that guard area 11b. The body is in stasis but can be attacked normally. It is unconscious and has AC 12 and 99 hit points. Without its spirit, the body is an empty vessel, and [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) is unaware of what's happening to it while his spirit resides elsewhere. Destroying this body prevents [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit from returning to it when the spirit is forced to vacate the golem in area 13, effectively killing the Metal Mage.
+Characters who have seen images of [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) know that the body lying on the slab is his. After [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) successfully transferred his spirit to an iron golem (see area 13), his body was placed here by the scaladar servants that guard area 11b. The body is in stasis but can be attacked normally. It is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) and has AC 12 and 99 hit points. Without its spirit, the body is an empty vessel, and [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) is unaware of what's happening to it while his spirit resides elsewhere. Destroying this body prevents [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit from returning to it when the spirit is forced to vacate the golem in area 13, effectively killing the Metal Mage.
 
 ##### Treasure
 
-[Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) wears a black metal ring on the index finger of his left hand that controls scaladar and overrides all other rings that have that property. It functions only within Undermountain (see the "[Scaladar](/3-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md)" entry in appendix A).
+[Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) wears a black metal ring on the index finger of his left hand that controls scaladar and overrides all other rings that have that property. It functions only within Undermountain (see the "[Scaladar](3-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md)" entry in appendix A).
 
 ### 12. Gate to the Stone Bridge
 
@@ -285,68 +285,68 @@ Characters who have seen images of [Trobriand](/3-Mechanics/CLI/bestiary/npc/tro
 > **Bas-Relief**. Spanning the wall behind the standing stones is a bas-relief depicting an armored dwarf with a greataxe fighting a hill giant atop a long, flat bridge.
 ^b3f
 
-The bas-relief depicts Torhild Flametongue, king of the ancient dwarven kingdom of Besilmer, fighting a mortal enemy atop the Stone Bridge, a monument that spans the River Dessarin to this day. With a successful DC 20 Intelligence (History) check, a character recalls the legendary battle and the king's fate (he was struck from the bridge and fell to his death).
+The bas-relief depicts Torhild Flametongue, king of the ancient dwarven kingdom of Besilmer, fighting a mortal enemy atop the Stone Bridge, a monument that spans the River Dessarin to this day. With a successful DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check, a character recalls the legendary battle and the king's fate (he was struck from the bridge and fell to his death).
 
-If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A legend lore spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, atop the middle of the Stone Bridge. (More information on this location can be found in Princes of the Apocalypse.)
+If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, atop the middle of the Stone Bridge. (More information on this location can be found in Princes of the Apocalypse.)
 
 ### 13. The Metal Mage
 
-This 20-foot-high room contains an iron golem that has a head shaped like a metal skull. It stands between three iron-plated stone pillars that hum with magical power. With the aid of these pillars, [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) recently transferred his spirit into the golem.
+This 20-foot-high room contains an iron golem that has a head shaped like a metal skull. It stands between three iron-plated stone pillars that hum with magical power. With the aid of these pillars, [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) recently transferred his spirit into the golem.
 
-[Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) is looking forward to testing his new body and attacks intruders on sight, showing no mercy.
+[Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) is looking forward to testing his new body and attacks intruders on sight, showing no mercy.
 
 #### Trobriand
 
-While his spirit is bound within the golem, [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) has a challenge rating of 22 (41,000 XP) and the statistics of an [iron golem](/3-Mechanics/CLI/bestiary/construct/iron-golem.md), with these changes:
+While his spirit is bound within the golem, [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) has a challenge rating of 22 (41,000 XP) and the statistics of an [iron golem](3-Mechanics/CLI/bestiary/construct/iron-golem-xmm.md), with these changes:
 
-- [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) has an Intelligence of 20.  
+- [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) has an Intelligence of 20.  
 - He has the Spellcasting trait described below.  
 
 ##### Spellcasting
 
-[Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). He has the following wizard spells prepared:
+[Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) is an 18th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 20, `+12` to hit with spell attacks). He has the following wizard spells prepared:
 
-- Cantrips (at will): fire bolt, mage hand, prestidigitation  
-- 1st level (4 slots): detect magic, magic missile, shield  
-- 2nd level (3 slots): blur, detect thoughts, misty step, shatter  
-- 3rd level (3 slots): counterspell, dispel magic, fireball, haste  
-- 4th level (3 slots): blight, greater invisibility  
-- 5th level (3 slots): animate objects, Bigby's hand, scrying  
-- 6th level (1 slot): chain lightning, globe of invulnerability  
-- 7th level (1 slot): finger of death, forcecage  
-- 8th level (1 slot): incendiary cloud, power word stun  
-- 9th level (1 slot): power word kill  
+- Cantrips (at will): [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)  
+- 1st level (4 slots): [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md)  
+- 2nd level (3 slots): [blur](3-Mechanics/CLI/spells/blur-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [shatter](3-Mechanics/CLI/spells/shatter-xphb.md)  
+- 3rd level (3 slots): [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [haste](3-Mechanics/CLI/spells/haste-xphb.md)  
+- 4th level (3 slots): [blight](3-Mechanics/CLI/spells/blight-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md)  
+- 5th level (3 slots): [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md), [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)  
+- 6th level (1 slot): [chain lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md), [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)  
+- 7th level (1 slot): [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md), [forcecage](3-Mechanics/CLI/spells/forcecage-xphb.md)  
+- 8th level (1 slot): [incendiary cloud](3-Mechanics/CLI/spells/incendiary-cloud-xphb.md), [power word stun](3-Mechanics/CLI/spells/power-word-stun-xphb.md)  
+- 9th level (1 slot): [power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md)  
 
-Deactivating or destroying one or more of the pillars, destroying the golem, or forcing the golem out of the room causes [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit to vacate the golem and attempt to reunite with his normal body, which is hidden in area 11c. If the characters have not destroyed his body, [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit returns to it immediately, and he awakens in area 11c as an [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md) with the same spell list as in his golem form and the same spell slots remaining as he had when he left his golem body. His primary goal thereafter is to destroy the characters for meddling in his affairs.
+Deactivating or destroying one or more of the pillars, destroying the golem, or forcing the golem out of the room causes [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit to vacate the golem and attempt to reunite with his normal body, which is hidden in area 11c. If the characters have not destroyed his body, [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit returns to it immediately, and he awakens in area 11c as an [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) with the same spell list as in his golem form and the same spell slots remaining as he had when he left his golem body. His primary goal thereafter is to destroy the characters for meddling in his affairs.
 
-If the golem in this room has not been destroyed when [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit leaves it, the golem becomes an ordinary [iron golem](/3-Mechanics/CLI/bestiary/construct/iron-golem.md) under the Metal Mage's command and attacks intruders on sight.
+If the golem in this room has not been destroyed when [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit leaves it, the golem becomes an ordinary [iron golem](3-Mechanics/CLI/bestiary/construct/iron-golem-xmm.md) under the Metal Mage's command and attacks intruders on sight.
 
-If the characters have already destroyed [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s body in area 11c, and then they deactivate or destroy at least one of the pillars in this room, [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit is forced to leave the golem but has nowhere to go, effectively killing him.
+If the characters have already destroyed [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s body in area 11c, and then they deactivate or destroy at least one of the pillars in this room, [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s spirit is forced to leave the golem but has nowhere to go, effectively killing him.
 
 #### Iron-Plated Pillars
 
-A detect magic spell reveals an aura of transmutation magic radiating from each humming pillar. A character who examines the pillars notices tiny runes etched into them. With a successful DC 20 Intelligence (Arcana) check, a character can ascertain that the pillars are empowering the golem in some way. A successful dispel magic cast on a pillar (DC 19) deactivates it for 1 minute.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic radiating from each humming pillar. A character who examines the pillars notices tiny runes etched into them. With a successful DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, a character can ascertain that the pillars are empowering the golem in some way. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) cast on a pillar (DC 19) deactivates it for 1 minute.
 
 Each pillar is a Huge object with AC 17, a damage threshold of 10, 80 hit points, and immunity to poison and psychic damage.
 
 ### 14. Man with the Rabbit's Head
 
-A short, plump, rabbit-headed man wearing a dirty servant's uniform cowers in the square marked X on map 23. "[Rabbithead](/3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md)" is a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md), with these changes:
+A short, plump, rabbit-headed man wearing a dirty servant's uniform cowers in the square marked X on map 23. "[Rabbithead](3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md)" is a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), with these changes:
 
-- [Rabbithead](/3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) is unaligned and unarmed (0 XP).  
+- [Rabbithead](3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) is unaligned and unarmed (0 XP).  
 - He has the head of a rabbit. He can't speak and knows no languages.  
 
-This poor fellow is a rabbit transformed by [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s magic into a unique humanoid. The transformation is permanent and can't be undone except with a wish spell. Because he's no longer a beast, speak with animals can't be used to communicate with him. A character who examines the creature and succeeds on a DC 19 Intelligence (Arcana) check can confirm that it exhibits the traits of a rabbit that has been given humanoid form by a true polymorph spell rendered permanent.
+This poor fellow is a rabbit transformed by [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s magic into a unique humanoid. The transformation is permanent and can't be undone except with a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell. Because he's no longer a beast, [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) can't be used to communicate with him. A character who examines the creature and succeeds on a DC 19 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can confirm that it exhibits the traits of a rabbit that has been given humanoid form by a [true polymorph](3-Mechanics/CLI/spells/true-polymorph-xphb.md) spell rendered permanent.
 
-[Rabbithead](/3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) retreated here to escape [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s presence and latches onto the adventurers, hoping they'll protect him from her wrath. Characters who succeed on a DC 12 Wisdom (Insight) check can glean that the source of his fear is somewhere to the south, and indeed he grows more nervous the closer he gets to area 17.
+[Rabbithead](3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) retreated here to escape [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s presence and latches onto the adventurers, hoping they'll protect him from her wrath. Characters who succeed on a DC 12 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check can glean that the source of his fear is somewhere to the south, and indeed he grows more nervous the closer he gets to area 17.
 
-If [Rabbithead](/3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) is shown the yellow sapphires from area 8, he indicates through gestures and furtive glances that the missing ones are kept in area 17.
+If [Rabbithead](3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) is shown the yellow sapphires from area 8, he indicates through gestures and furtive glances that the missing ones are kept in area 17.
 
 ### 15. Gate to Neverlight Grove
 
 A pair of 15-foot-tall standing stones dominates this room, the ceiling of which rises 30 feet high. The stones are covered with moss and have clumps of colorful mushrooms growing on them.
 
-If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A legend lore spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, in Neverlight Grove, a fungus-filled cavern deep in the Underdark. (More information on Neverlight Grove can be found in Out of the Abyss.)
+If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, in Neverlight Grove, a fungus-filled cavern deep in the Underdark. (More information on Neverlight Grove can be found in Out of the Abyss.)
 
 ### 16. Broom Room
 
@@ -358,65 +358,65 @@ Characters who listen at the doors to this room hear harp music beyond. The room
 
 > [!note] 
 > 
-> **Arcturia**. [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)—a gaunt figure with blue scales, bone spurs on her forearms and elbows, gossamer wings, and a flowing gown—dances to music atop a stepped dais 5 feet higher than the rest of the room.
+> **Arcturia**. [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)—a gaunt figure with blue scales, bone spurs on her forearms and elbows, gossamer wings, and a flowing gown—dances to music atop a stepped dais 5 feet higher than the rest of the room.
 > 
-> **Butterfly Swarm**. Next to [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md), a harmless swarm of yellow butterflies has assumed a vaguely humanoid shape and is playing an elegant harp (see "Treasure" below). The harp rests on a stout wooden table. The swarm is under [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s control and disperses when [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) isn't around.
+> **Butterfly Swarm**. Next to [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md), a harmless swarm of yellow butterflies has assumed a vaguely humanoid shape and is playing an elegant harp (see "Treasure" below). The harp rests on a stout wooden table. The swarm is under [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s control and disperses when [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) isn't around.
 > 
 > **Dais Doors**. Set into the back wall of the dais are two identical doors. The southeast door is trapped (see "Southeast Door" below).
 > 
-> **Furnishings**. Arranged throughout the hall are four stuffed chairs, four padded footstools, two divans, and two large coffee tables. (These furnishings are twelve [mimics](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md) in disguise. [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) considers them her most trusted friends. If the lich comes under attack or takes umbrage with visitors, the mimics are quick to reveal their true forms and fight alongside her.)
+> **Furnishings**. Arranged throughout the hall are four stuffed chairs, four padded footstools, two divans, and two large coffee tables. (These furnishings are twelve [mimics](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) in disguise. [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) considers them her most trusted friends. If the lich comes under attack or takes umbrage with visitors, the mimics are quick to reveal their true forms and fight alongside her.)
 > 
 > **Animal-Headed People**. Standing between eight pillars are six humanoids that have the heads of beasts. Three wear servants' uniforms and carry feather dusters, and three wear heavy armor and carry swords.
 ^b48
 
 #### Arcturia
 
-![Arcturia](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/079-23-05.webp#center)
+![Arcturia](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/079-23-05.webp#center)
 
-[Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) is a [lich](/3-Mechanics/CLI/bestiary/undead/lich.md), with these changes:
+[Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) is a [lich](3-Mechanics/CLI/bestiary/undead/lich-xmm.md), with these changes:
 
-- In addition to her walking speed, [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) has a flying speed of 60 feet and can hover.  
-- She can cast the alter self spell at will and uses the following list of prepared spells:  
+- In addition to her walking speed, [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) has a flying speed of 60 feet and can hover.  
+- She can cast the [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) spell at will and uses the following list of prepared spells:  
 
-- Cantrips (at will): mage hand, prestidigitation, ray of frost  
-- 1st level (4 slots): detect magic, magic missile, shield, thunderwave  
-- 2nd level (3 slots): detect thoughts, enlarge/reduce, Melf's acid arrow, mirror image  
-- 3rd level (3 slots): counterspell, dispel magic, fireball, slow  
-- 4th level (3 slots): blight, polymorph  
-- 5th level (3 slots): animate objects, telekinesis  
-- 6th level (1 slot): disintegrate, flesh to stone  
-- 7th level (1 slot): reverse gravity, teleport  
-- 8th level (1 slot): feeblemind, maze  
-- 9th level (1 slot): true polymorph  
+- Cantrips (at will): [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)  
+- 1st level (4 slots): [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)  
+- 2nd level (3 slots): [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [Melf's acid arrow](3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md), [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md)  
+- 3rd level (3 slots): [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [slow](3-Mechanics/CLI/spells/slow-xphb.md)  
+- 4th level (3 slots): [blight](3-Mechanics/CLI/spells/blight-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)  
+- 5th level (3 slots): [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)  
+- 6th level (1 slot): [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md), [flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone-xphb.md)  
+- 7th level (1 slot): [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)  
+- 8th level (1 slot): [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md), [maze](3-Mechanics/CLI/spells/maze-xphb.md)  
+- 9th level (1 slot): [true polymorph](3-Mechanics/CLI/spells/true-polymorph-xphb.md)  
 
-Unable to abide normalcy and consistency, [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) fixates on transforming herself, her surroundings, and other creatures. Her moods are ever-changing as well.
+Unable to abide normalcy and consistency, [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) fixates on transforming herself, her surroundings, and other creatures. Her moods are ever-changing as well.
 
-If the characters destroyed her phylactery on level 14, [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) knows what they did and attacks them at once. Otherwise, she has no grievance with the adventurers and is happy to let them go on their way, neither helping or hindering their efforts.
+If the characters destroyed her phylactery on level 14, [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) knows what they did and attacks them at once. Otherwise, she has no grievance with the adventurers and is happy to let them go on their way, neither helping or hindering their efforts.
 
 #### Animal-Headed Humanoids
 
-Like [Rabbithead](/3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) in area 14, these six creatures are animals transformed into humanoids by [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s magic. They have the following traits in common:
+Like [Rabbithead](3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md) in area 14, these six creatures are animals transformed into humanoids by [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md)'s magic. They have the following traits in common:
 
 - They are unaligned.  
 - They can't speak and know no languages.  
 
-The three humanoids wearing armor are [champions](/3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md) (see appendix A) with the heads of a dingo, an iguana, and a stork. If [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) becomes embroiled in a battle, two of them fight on her side. The one with the dingo head, who secretly despises [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md), sides with her enemies against her. Each guard carries a yellow sapphire (see "Treasure" below).
+The three humanoids wearing armor are [champions](3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md) (see appendix A) with the heads of a dingo, an iguana, and a stork. If [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) becomes embroiled in a battle, two of them fight on her side. The one with the dingo head, who secretly despises [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md), sides with her enemies against her. Each guard carries a yellow sapphire (see "Treasure" below).
 
-The three servants are unarmed [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) with the heads of an aardvark, a moth, and a shrew. Whenever [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) snaps her fingers and points to a spot in the room, these servants begin dusting that location and don't stop until she snaps her fingers again. They otherwise avoid combat.
+The three servants are unarmed [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with the heads of an aardvark, a moth, and a shrew. Whenever [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) snaps her fingers and points to a spot in the room, these servants begin dusting that location and don't stop until she snaps her fingers again. They otherwise avoid combat.
 
 #### Southeast Door
 
-This door has a stone wall behind it, inscribed upon which is an elder rune (see "Elder Runes"). Determine the rune randomly by drawing a card from the [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B). The rune targets the creature closest to the open door. It then vanishes until the door is closed, whereupon another elder rune appears in its place.
+This door has a stone wall behind it, inscribed upon which is an elder rune (see "Elder Runes"). Determine the rune randomly by drawing a card from the [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B). The rune targets the creature closest to the open door. It then vanishes until the door is closed, whereupon another elder rune appears in its place.
 
 #### Treasure
 
-The harp played by the butterfly swarm is an instrument of the bards (Anstruth harp).
+The harp played by the butterfly swarm is an [instrument of the bards](3-Mechanics/CLI/items/instrument-of-the-bards-xdmg.md) (Anstruth harp).
 
 The yellow sapphires carried by the animal-headed guards fit into the pillars in area 8. Each gemstone is worth 1,000 gp.
 
 ### 18. Animated Hallway
 
-This 250-foot-long, downward-sloping hallway has been set into permanent animated motion by Halaster's magic. It twists and undulates continuously, making it tricky to negotiate. Any creature that enters the corridor or starts its turn there must succeed on a DC 15 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) bludgeoning damage as it is knocked about. If the creature is standing, walking, or running on the floor, the ceiling, or a wall when it fails this saving throw, it tumbles 20 feet down the tunnel before landing prone. A flying creature has advantage on the saving throw and doesn't tumble or fall prone if it fails the save.
+This 250-foot-long, downward-sloping hallway has been set into permanent animated motion by Halaster's magic. It twists and undulates continuously, making it tricky to negotiate. Any creature that enters the corridor or starts its turn there must succeed on a DC 15 Dexterity saving throw or take 5 (`1d10`) bludgeoning damage as it is knocked about. If the creature is standing, walking, or running on the floor, the ceiling, or a wall when it fails this saving throw, it tumbles 20 feet down the tunnel before landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). A flying creature has advantage on the saving throw and doesn't tumble or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone) if it fails the save.
 
 ### 19. Double Door Roulette
 
@@ -429,7 +429,7 @@ This 250-foot-long, downward-sloping hallway has been set into permanent animate
 
 Behind most of the double doors are blank stone walls. Only the southern set of doors holds a path forward: pulling open these doors reveals area 22 beyond. Creatures that pass through the doorway get no sense that they're leaving Undermountain and entering Halaster's extradimensional tower.
 
-Whenever a double door in this area is opened—except the one to the south (see above)—the pillar emits colored rays from its myriad notches, duplicating the effect of a prismatic spray spell (save DC 22) that targets all creatures within 60 feet of the pillar. Any creature that would be transported to another plane by this effect instead appears in the arms of the Halaster statue in area 22.
+Whenever a double door in this area is opened—except the one to the south (see above)—the pillar emits colored rays from its myriad notches, duplicating the effect of a [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md) spell (save DC 22) that targets all creatures within 60 feet of the pillar. Any creature that would be transported to another plane by this effect instead appears in the arms of the Halaster statue in area 22.
 
 ### 20. Hidden Helm
 
@@ -439,9 +439,9 @@ Beyond the secret door is a circular room with a 20-foot-high, domed ceiling. It
 
 > [!note] 
 > 
-> **Spelljamming Helm**. In the middle of the room is a gilded wooden throne with a cushioned seat and backrest covered in black velvet sewn with silver stars. This high-backed, 200-pound chair is the [helm of the Scavenger](/3-Mechanics/CLI/items/helm-of-the-scavenger-wdmm.md), which was stolen by Halaster from the ship of the same name (see level 19, area 13).
+> **Spelljamming Helm**. In the middle of the room is a gilded wooden throne with a cushioned seat and backrest covered in black velvet sewn with silver stars. This high-backed, 200-pound chair is the [helm of the Scavenger](3-Mechanics/CLI/items/helm-of-the-scavenger-wdmm.md), which was stolen by Halaster from the ship of the same name (see level 19, area 13).
 > 
-> **Sensors**. Near the ceiling float four invisible scrying sensors created by the four [ultroloths](/3-Mechanics/CLI/bestiary/fiend/ultroloth.md) in area 21a using clairvoyance spells. If the ultroloths spot intruders in the room, they teleport to this location and attack.
+> **Sensors**. Near the ceiling float four invisible scrying sensors created by the four [ultroloths](3-Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md) in area 21a using [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spells. If the ultroloths spot intruders in the room, they teleport to this location and attack.
 ^b51
 
 #### Helm of the Scavenger
@@ -478,20 +478,20 @@ These chambers were built by Melairkyn dwarves on another level. Halaster moved 
 
 > [!note] 
 > 
-> **Ultroloths**. Four [ultroloths](/3-Mechanics/CLI/bestiary/fiend/ultroloth.md) (each marked with a U on map 23) lurk in alcoves along the north and south walls of this 30-foot-high room.
+> **Ultroloths**. Four [ultroloths](3-Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md) (each marked with a U on map 23) lurk in alcoves along the north and south walls of this 30-foot-high room.
 > 
 > **Glass-Covered Acid Pit**. The floor is a 6-inch-thick sheet of transparent glass, below which is a 30-foot-deep pit containing a 20-foot-deep pool of yellow acid. Visible through the churning, translucent acid are three 1-foot-diameter pitted iron wheels affixed to the pit floor in a triangular formation.
 > 
 > **Secret Door**. A secret door in the east wall is locked.
 ^b58
 
-The ultroloths spend most of their time using clairvoyance spells to scry on area 20, but they emerge from their alcoves to attack anyone other than Halaster who enters this room. Their purpose here is to guard area 21b. The acid pit doesn't concern the ultroloths, since they have immunity to acid damage.
+The ultroloths spend most of their time using [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spells to scry on area 20, but they emerge from their alcoves to attack anyone other than Halaster who enters this room. Their purpose here is to guard area 21b. The acid pit doesn't concern the ultroloths, since they have immunity to acid damage.
 
-Each 10-foot-square section of glass floor has AC 13, a damage threshold of 10, 25 hit points, and immunity to poison and psychic damage. Destroying three or more 10-foot-square sections causes the remainder of the glass floor to shatter, dropping all creatures standing on it into the acid. Any creature that enters the acid or starts its turn in it takes `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) acid damage.
+Each 10-foot-square section of glass floor has AC 13, a damage threshold of 10, 25 hit points, and immunity to poison and psychic damage. Destroying three or more 10-foot-square sections causes the remainder of the glass floor to shatter, dropping all creatures standing on it into the acid. Any creature that enters the acid or starts its turn in it takes 33 (`6d10`) acid damage.
 
-A character can use an action to try to turn one of the iron wheels at the bottom of the acid pit, doing so with a successful DC 16 Strength (Athletics) check. A wheel can also be turned by a character using a telekinesis spell or similarly powerful magic. Turning all three wheels unlocks the secret door to area 21b.
+A character can use an action to try to turn one of the iron wheels at the bottom of the acid pit, doing so with a successful DC 16 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A wheel can also be turned by a character using a [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md) spell or similarly powerful magic. Turning all three wheels unlocks the secret door to area 21b.
 
-The secret door is above the acid and held shut by three internal sliding bolt locks, each of which is attached to one of the submerged iron wheels in the acid pit. In lieu of turning those wheels, characters need three separate knock spells to open the door (one per lock). The door can't be forced open otherwise. Once all three bolts are slid back, the door pushes open easily.
+The secret door is above the acid and held shut by three internal sliding bolt locks, each of which is attached to one of the submerged iron wheels in the acid pit. In lieu of turning those wheels, characters need three separate [knock](3-Mechanics/CLI/spells/knock-xphb.md) spells to open the door (one per lock). The door can't be forced open otherwise. Once all three bolts are slid back, the door pushes open easily.
 
 #### 21b. Nimoar's Shield
 
@@ -499,15 +499,15 @@ This room appears empty except for dust and cobwebs. A thorough search reveals a
 
 ##### Treasure
 
-If the word "xunderbrok" is spoken aloud anywhere in this room, a wooden shield materializes on the stone peg. Iron spikes protrude from the shield's edges, and a cracked orc skull is painted in black on its outer surface. A legend lore spell reveals that the shield was crafted for Nimoar, a legendary human warlord who died in 936 DR. After his death, the shield disappeared from Nimoar's Hold (a fortress that stood where Castle Waterdeep stands today), only to find its way here.
+If the word "xunderbrok" is spoken aloud anywhere in this room, a wooden shield materializes on the stone peg. Iron spikes protrude from the shield's edges, and a cracked orc skull is painted in black on its outer surface. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell reveals that the shield was crafted for Nimoar, a legendary human warlord who died in 936 DR. After his death, the shield disappeared from Nimoar's Hold (a fortress that stood where Castle Waterdeep stands today), only to find its way here.
 
-Nimoar's shield is a +3 shield with no additional magical properties.
+Nimoar's shield is a [+3 shield](3-Mechanics/CLI/items/3-shield-xdmg.md) with no additional magical properties.
 
 ## Halaster's Tower
 
 Encounters in Halaster's tower (areas 22 through 36) are keyed to map 23. The tower is contained in a demiplane that exists outside Undermountain, yet all the normal restrictions to magic apply (see "Alterations to Magic"). A portal connects areas 23 and 26, allowing passage to and from the tower.
 
-Ceilings in the tower are 20 feet high and flat. All interior spaces are lit by continual flame spells cast on gaudy iron wall sconces.
+Ceilings in the tower are 20 feet high and flat. All interior spaces are lit by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on gaudy iron wall sconces.
 
 ### 22. Tower Entrance
 
@@ -522,13 +522,13 @@ This room, which has several other doors leading away from it, contains the foll
 > **Rat**. Gnawing on a piece of celery at the foot of the statue is an ordinary, harmless rat.
 ^b5d
 
-When he is not incapacitated, Halaster can touch the statue to teleport himself and anything he is wearing or carrying to a space within 5 feet of the statue in area 28 or the statue in area 33 (no action required).
+When he is not [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), Halaster can touch the statue to teleport himself and anything he is wearing or carrying to a space within 5 feet of the statue in area 28 or the statue in area 33 (no action required).
 
 ### 23. Gnome with No Name
 
 A 4-foot-tall, 2-foot-wide bronze-framed mirror leans against the far wall in this otherwise empty room. A creature that gazes into the mirror sees its reflection take the form of a female gnome in leather armor. She speaks Common and Gnomish, and is surprised to see the characters. Halaster trapped her in the mirror so long ago that she has lost track of time. The gnome has forgotten her name, after not interacting with other creatures for centuries. She longs to be free and asks the characters to help her.
 
-The mirror is a Medium object with AC 11, 4 hit points, and immunity to poison and psychic damage. Breaking it or casting a successful dispel magic spell (DC 19) on the mirror frees the gnome. However, without the mirror's magic to sustain her life, she instantly ages and dies, leaving nothing but dust, bones, and scraps of leather armor behind.
+The mirror is a Medium object with AC 11, 4 hit points, and immunity to poison and psychic damage. Breaking it or casting a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 19) on the mirror frees the gnome. However, without the mirror's magic to sustain her life, she instantly ages and dies, leaving nothing but dust, bones, and scraps of leather armor behind.
 
 ### 24. Potion Brewery
 
@@ -538,7 +538,7 @@ The mirror is a Medium object with AC 11, 4 hit points, and immunity to poison a
 > 
 > **Paraphernalia**. Behind the cauldron rests a wooden table cluttered with brewing equipment. The floor around the table is strewn with shattered glass and empty flasks. Tucked under the table is a wooden crate with Halaster's personal rune burned into its sides.
 > 
-> **Demilich**. Floating behind the table is a [demilich](/3-Mechanics/CLI/bestiary/undead/demilich.md) that looks like a human skull with a jagged crack that extends above and below one eye socket.
+> **Demilich**. Floating behind the table is a [demilich](3-Mechanics/CLI/bestiary/undead/demilich-xmm.md) that looks like a human skull with a jagged crack that extends above and below one eye socket.
 > 
 > **Shelves and Ladder**. The walls are lined with 10-foot-tall, wooden shelves packed with jars of pickled newts, frogs' eyes, and other common ingredients used in the brewing of potions. A wooden ladder on rollers is attached to a rail mounted above the shelves.
 ^b60
@@ -551,23 +551,23 @@ Although powerful wards prevent the demilich from leaving Halaster's tower, the 
 
 #### Cauldron
 
-The cauldron is held aloft by magic, and the fire beneath it is also magical. Casting dispel magic on the cauldron causes it to fall; casting the spell on the fire extinguishes it.
+The cauldron is held aloft by magic, and the fire beneath it is also magical. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the cauldron causes it to fall; casting the spell on the fire extinguishes it.
 
 ##### Elixir of Timelessness
 
-The cauldron contains twenty doses of a hot, oily black elixir that has grains of sand floating in it. A creature that imbibes a single dose of the liquid gains the ability to cast time stop once in the next 24 hours. A creature that imbibes multiple doses of the elixir gains the benefit of only the last dose consumed. One minute after it is removed from a heat source, the elixir cools and loses its magic.
+The cauldron contains twenty doses of a hot, oily black elixir that has grains of sand floating in it. A creature that imbibes a single dose of the liquid gains the ability to cast [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md) once in the next 24 hours. A creature that imbibes multiple doses of the elixir gains the benefit of only the last dose consumed. One minute after it is removed from a heat source, the elixir cools and loses its magic.
 
 #### Crate
 
 The crate contains thirty corked and labeled bottles of Halaster's Futuristic Frogmash, a foul-tasting homebrewed wine. Each label bears Halaster's rune and the date 1531 DR.
 
-A detect magic spell reveals an aura of abjuration magic around one of the bottles. Uncorking this bottle causes an elder rune to appear in the air above it (see "Elder Runes"). The rune targets the creature that opened the bottle. If the bottle was opened with a mage hand spell or similar magic, the rune targets the caster of the spell, provided the caster is within 60 feet of the opened bottle. Determine the rune randomly by drawing a card from the [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B).
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around one of the bottles. Uncorking this bottle causes an elder rune to appear in the air above it (see "Elder Runes"). The rune targets the creature that opened the bottle. If the bottle was opened with a [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spell or similar magic, the rune targets the caster of the spell, provided the caster is within 60 feet of the opened bottle. Determine the rune randomly by drawing a card from the [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B).
 
 ### 25. Factory
 
 > [!note] 
 > 
-> **Unseen Servants**. Six [living unseen servants](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) are gathered around two wooden tables, where they are using mortars and pestles to grind dead beetles into ink, and wooden frames and stone scrapers to stretch and scrape leather to create sheets of parchment. The servants ignore visitors.
+> **Unseen Servants**. Six [living unseen servants](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) are gathered around two wooden tables, where they are using mortars and pestles to grind dead beetles into ink, and wooden frames and stone scrapers to stretch and scrape leather to create sheets of parchment. The servants ignore visitors.
 > 
 > **Shelves**. Standing against the walls are wooden shelves lined with jars of ink and rolled sheets of blank parchment.
 ^b65
@@ -576,7 +576,7 @@ A detect magic spell reveals an aura of abjuration magic around one of the bottl
 
 The room contains a pair of 15-foot-tall standing stones. Carved into each stone are pictographs of primitive humans using spears to hunt reindeer and fend off yetis.
 
-If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A legend lore spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, in Icewind Dale, a mile north of the town of Bryn Shander. (More information on Bryn Shander and Icewind Dale can be found in Storm King's Thunder.)
+If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, in Icewind Dale, a mile north of the town of Bryn Shander. (More information on Bryn Shander and Icewind Dale can be found in Storm King's Thunder.)
 
 ### 27. Rantantar's Wand
 
@@ -591,13 +591,13 @@ This room serves as a parlor where Halaster entertains guests (infrequent though
 
 #### Treasure
 
-Following the destruction of Rantantar, one of his oldest apprentices, Halaster recovered the dead archmage's wand of wonder—only to discover that Rantantar had somehow bound his evil spirit inside it. The spirit can do nothing other than animate and discharge the wand, which currently has 7 charges.
+Following the destruction of Rantantar, one of his oldest apprentices, Halaster recovered the dead archmage's [wand of wonder](3-Mechanics/CLI/items/wand-of-wonder-xdmg.md)—only to discover that Rantantar had somehow bound his evil spirit inside it. The spirit can do nothing other than animate and discharge the wand, which currently has 7 charges.
 
-The [animated wand](/3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md) has the statistics of a Tiny animated object (see the animate objects spell description in the "Player's Handbook"). As an action, the [animated wand](/3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md) can expend 1 of its charges and target a random creature with one of its randomly determined effects. Any such effect that would target the wand's user targets the wand instead. If reduced to 0 hit points, the wand crumbles into dust and is destroyed.
+The [animated wand](3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md) has the statistics of a [Tiny animated object](3-Mechanics/CLI/bestiary/construct/animated-object-xphb.md) (see the [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell description in the "Player's Handbook"). As an action, the [animated wand](3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md) can expend 1 of its charges and target a random creature with one of its randomly determined effects. Any such effect that would target the wand's user targets the wand instead. If reduced to 0 hit points, the wand crumbles into dust and is destroyed.
 
-A dispel evil and good spell cast on the wand rids it of Rantantar's evil spirit, whereupon the wand clatters to the floor and becomes an inanimate wand of wonder. An antimagic field spell suppresses the wand's magic but doesn't oust the spirit lodged inside it.
+A [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell cast on the wand rids it of Rantantar's evil spirit, whereupon the wand clatters to the floor and becomes an inanimate [wand of wonder](3-Mechanics/CLI/items/wand-of-wonder-xdmg.md). An [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell suppresses the wand's magic but doesn't oust the spirit lodged inside it.
 
-If the [animated wand](/3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md) is grabbed while Rantantar's spirit is lodged inside it, a contest of wills ensues. The creature grabbing the wand must immediately make a DC 20 Charisma saving throw. On a failed save, the creature is forced to release the wand. On a successful save, the wand becomes inanimate until the creature lets go of it. If a spellcaster holds the wand long enough to become attuned to it, that act banishes Rantantar's evil spirit from the wand forever.
+If the [animated wand](3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md) is grabbed while Rantantar's spirit is lodged inside it, a contest of wills ensues. The creature grabbing the wand must immediately make a DC 20 Charisma saving throw. On a failed save, the creature is forced to release the wand. On a successful save, the wand becomes inanimate until the creature lets go of it. If a spellcaster holds the wand long enough to become attuned to it, that act banishes Rantantar's evil spirit from the wand forever.
 
 ### 28. Hidden Treasure
 
@@ -610,13 +610,13 @@ If the [animated wand](/3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md
 > **Secret Door**. A secret door in the northern alcove conceals a staircase that leads up to area 32.
 ^b6b
 
-The pentagram and the space above it (a cylinder 20 feet high and 40 feet in diameter) are contained within a permanent antimagic field (see the antimagic field spell description in the "Player's Handbook" for effects). This field prevents spells from detecting a magic item that is hidden beneath a secret trapdoor in the middle of the pentagram (see "[Shield of the Uven Rune](/3-Mechanics/CLI/items/shield-of-the-uven-rune-wdmm.md)" below). A character who examines the floor inside the pentagram and succeeds on a DC 15 Wisdom (Perception) check finds the trapdoor, which is locked. A character can use thieves' tools to try to unlock the trapdoor, doing so with a successful DC 20 Dexterity check.
+The pentagram and the space above it (a cylinder 20 feet high and 40 feet in diameter) are contained within a permanent antimagic field (see the [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell description in the "Player's Handbook" for effects). This field prevents spells from detecting a magic item that is hidden beneath a secret trapdoor in the middle of the pentagram (see "[Shield of the Uven Rune](3-Mechanics/CLI/items/shield-of-the-uven-rune-wdmm.md)" below). A character who examines the floor inside the pentagram and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the trapdoor, which is locked. A character can use thieves' tools to try to unlock the trapdoor, doing so with a successful DC 20 Dexterity check.
 
 #### Shield of the Uven Rune
 
 *Wondrous item, very rare (requires attunement*)
 
-This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a DC 20 Intelligence (History) check recognizes it as an uven ("enemy" in Giant) rune that confers great power.
+This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes it as an uven ("enemy" in Giant) rune that confers great power.
 
 While holding the shield, you benefit from the following properties.
 
@@ -626,11 +626,11 @@ You are immune to cold damage.
 
 ##### Deadly Rebuke
 
-Immediately after a creature hits you with a melee attack, you can use your reaction to deal `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage to that creature.
+Immediately after a creature hits you with a melee attack, you can use your reaction to deal `3d6` necrotic damage to that creature.
 
 ##### Bane
 
-You can cast the bane spell from the shield (save DC 17). The spell does not require concentration and lasts for 1 minute. Once you cast the spell from the shield, you can't do so again until you finish a short or long rest.
+You can cast the [bane](3-Mechanics/CLI/spells/bane-xphb.md) spell from the shield (save DC 17). The spell does not require concentration and lasts for 1 minute. Once you cast the spell from the shield, you can't do so again until you finish a short or long rest.
 
 ##### Gift of Vengeance
 
@@ -638,31 +638,31 @@ You can transfer the shield's magic to a nonmagical weapon by tracing the uven r
 
 #### Statue of Halaster
 
-A character who examines the statue and succeeds on a DC 15 Wisdom (Perception) check notices that the dragon heads on the ends of the staff can be pushed toward each other with a click. When this is done, the secret trapdoor in the middle of the pentagram unlocks and pops open.
+A character who examines the statue and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices that the dragon heads on the ends of the staff can be pushed toward each other with a click. When this is done, the secret trapdoor in the middle of the pentagram unlocks and pops open.
 
-When he is not incapacitated, Halaster can touch the statue to teleport himself and anything he is wearing or carrying to a space within 5 feet of the statue in area 22 or the statue in area 37 (no action required).
+When he is not [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), Halaster can touch the statue to teleport himself and anything he is wearing or carrying to a space within 5 feet of the statue in area 22 or the statue in area 37 (no action required).
 
 ### 29. Apprentice Portraits
 
-Seven tall, framed portraits hang on the walls of this room. Embedded in the wall beneath each portrait is a small bronze plaque bearing a name. A character who examines the portraits and plaques can, with a successful DC 20 Intelligence (History) check, confirm that these are paintings of Halaster's original seven apprentices, showing them as they were before they descended into Undermountain and were overcome by madness.
+Seven tall, framed portraits hang on the walls of this room. Embedded in the wall beneath each portrait is a small bronze plaque bearing a name. A character who examines the portraits and plaques can, with a successful DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check, confirm that these are paintings of Halaster's original seven apprentices, showing them as they were before they descended into Undermountain and were overcome by madness.
 
-Each apprentice is shown wearing a [horned ring](/3-Mechanics/CLI/items/horned-ring-wdmm.md) on one finger; these rings are identical and resemble the [horned ring](/3-Mechanics/CLI/items/horned-ring-wdmm.md) worn by Halaster. The other features of each portrait are as follows:
+Each apprentice is shown wearing a [horned ring](3-Mechanics/CLI/items/horned-ring-wdmm.md) on one finger; these rings are identical and resemble the [horned ring](3-Mechanics/CLI/items/horned-ring-wdmm.md) worn by Halaster. The other features of each portrait are as follows:
 
-**Rantantar** is a fat, frowning man scarred by fire. He wears ornate purple robes and grasps what looks like a wand of wonder in his burned right hand.
+**Rantantar** is a fat, frowning man scarred by fire. He wears ornate purple robes and grasps what looks like a [wand of wonder](3-Mechanics/CLI/items/wand-of-wonder-xdmg.md) in his burned right hand.
 
-**Nester** is a handsome, slender man with thinning hair and a penetrating stare. He wears a plain black robe and many rings on his steepled fingers. Tattooed on his forehead is a tiny black rune. A successful DC 10 Intelligence (Arcana) check confirms that the rune represents the School of Necromancy.
+**Nester** is a handsome, slender man with thinning hair and a penetrating stare. He wears a plain black robe and many rings on his steepled fingers. Tattooed on his forehead is a tiny black rune. A successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check confirms that the rune represents the School of Necromancy.
 
 **Trobriand the Metal Mage** is a stoic, bearded man with black hair, black robes, and tinker's goggles. Perched on his shoulder is a tiny iron scorpion.
 
 **Muiral the Misshapen** is an ugly, powerfully built man with messy brown hair and a cruel sneer. He wears battered plate armor and has a steel helm with a scorpion motif tucked under his right arm. Clutched in his left hand is a longsword that drips blood.
 
-**Arcturia** has straw-like hair, bony features, blue-tinged skin, and an exasperated expression. She wears a wide-brimmed conical hat and a robe of butterflies. She holds up a finger, above which floats a tiny, glowing sigil. A successful DC 10 Intelligence (Arcana) check confirms that the sigil represents the School of Transmutation.
+**Arcturia** has straw-like hair, bony features, blue-tinged skin, and an exasperated expression. She wears a wide-brimmed conical hat and a robe of butterflies. She holds up a finger, above which floats a tiny, glowing sigil. A successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check confirms that the sigil represents the School of Transmutation.
 
-**Marambra Nyghtsteel** is a striking woman with long auburn hair and an empty, distant gaze. She wears a black robe and holds a staff topped with a rune. A successful DC 10 Intelligence (Arcana) check confirms that the rune represents the School of Evocation.
+**Marambra Nyghtsteel** is a striking woman with long auburn hair and an empty, distant gaze. She wears a black robe and holds a staff topped with a rune. A successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check confirms that the rune represents the School of Evocation.
 
 **Jhesiyra Kestellharp** is a young, plain-looking woman dressed in yellow and blue robes. Her face betrays the subtlest hint of a smile. Her portrait has been slashed in half.
 
-The first character who steps within 5 feet of the torn portrait of Jhesiyra Kestellharp hears a woman's voice whisper in their head: "So close..." If the portrait is repaired using a mending cantrip or similar magic, the image appears to come alive momentarily. Within the portrait, Jhesiyra removes the ring from her finger, causing the actual ring to tumble out of the painting onto the floor, from where it can be claimed. This [horned ring](/3-Mechanics/CLI/items/horned-ring-wdmm.md) is a very rare magic item that allows an attuned wearer to ignore Undermountain's magical restrictions (see "Alterations to Magic").
+The first character who steps within 5 feet of the torn portrait of Jhesiyra Kestellharp hears a woman's voice whisper in their head: "So close..." If the portrait is repaired using a [mending](3-Mechanics/CLI/spells/mending-xphb.md) cantrip or similar magic, the image appears to come alive momentarily. Within the portrait, Jhesiyra removes the ring from her finger, causing the actual ring to tumble out of the painting onto the floor, from where it can be claimed. This [horned ring](3-Mechanics/CLI/items/horned-ring-wdmm.md) is a very rare magic item that allows an attuned wearer to ignore Undermountain's magical restrictions (see "Alterations to Magic").
 
 ### 30. Scrying Room
 
@@ -683,16 +683,16 @@ Characters acquainted with Waterdeep can easily recognize the locations being sc
 
 ### 31. Art Studio
 
-Eight [living unseen servants](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) are painting four new portraits of Halaster and carving a statue of him in this room. Characters who enter the room see the following features:
+Eight [living unseen servants](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) are painting four new portraits of Halaster and carving a statue of him in this room. Characters who enter the room see the following features:
 
 > [!note] 
 > 
 > **Painters**. Brushes held by invisible hands are dabbing paint onto rectangles of canvas propped up on four wooden easels. At the same time, floating hammers and chisels are nibbling away at a large block of stone.
 > 
-> **Subject**. Posing next to the stone block is a silent, illusory image of [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) in a seductive pose.
+> **Subject**. Posing next to the stone block is a silent, illusory image of [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) in a seductive pose.
 ^b75
 
-The illusion of Halaster has no substance and changes its pose every minute. A successful dispel magic spell cast on the illusion (DC 16) ends it.
+The illusion of Halaster has no substance and changes its pose every minute. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell cast on the illusion (DC 16) ends it.
 
 The unseen servants ignore visitors, but they attack if their work is interrupted or if the illusion of Halaster is dispelled.
 
@@ -704,18 +704,18 @@ As one or more characters cross this room and head toward the door to area 33, J
 
 ### 33. Mad Mage Showdown
 
-[Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) (see appendix A) awaits the characters in this room, which has the following features:
+[Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) (see appendix A) awaits the characters in this room, which has the following features:
 
 > [!note] 
 > 
-> **Raised Alcove**. Steps ascend to a raised alcove that contains a purple marble throne surrounded by stacks of aged books. Carved into the wall behind the throne is Halaster's personal rune, and beneath the rune is a locked iron chest. (Halaster sits in the throne and is invisible when the characters enter.)
+> **Raised Alcove**. Steps ascend to a raised alcove that contains a purple marble throne surrounded by stacks of aged books. Carved into the wall behind the throne is Halaster's personal rune, and beneath the rune is a locked iron chest. (Halaster sits in the throne and is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) when the characters enter.)
 > 
 > **Statue**. On the opposite side of the room from the throne is a life-size stone statue of a nude Halaster wearing a cowboy hat and riding a donkey.
 > 
-> **Magic Circle**. Inscribed on the floor in the middle of the room is a 40-foot-diameter circle of glowing runes. Halaster uses it to summon an [empyrean](/3-Mechanics/CLI/bestiary/celestial/empyrean.md) who owes him a favor. (The circle serves no other purpose.)
+> **Magic Circle**. Inscribed on the floor in the middle of the room is a 40-foot-diameter circle of glowing runes. Halaster uses it to summon an [empyrean](3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md) who owes him a favor. (The circle serves no other purpose.)
 ^b78
 
-When he is seated in the throne, Halaster remains invisible even while attacking or casting spells. When he sees one or more characters enter the room, he waves an invisible hand and causes the circle of runes on the floor to summon Nalkara (see "Nalkara the Empyrean" below). He then uses the power of the throne to throw his voice so that he doesn't betray his location when he speaks to the empyrean.
+When he is seated in the throne, Halaster remains [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) even while attacking or casting spells. When he sees one or more characters enter the room, he waves an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) hand and causes the circle of runes on the floor to summon Nalkara (see "Nalkara the Empyrean" below). He then uses the power of the throne to throw his voice so that he doesn't betray his location when he speaks to the empyrean.
 
 Halaster orders Nalkara to slay the characters, regardless of his feelings toward them. If the characters pass the test by defeating the empyrean, Halaster again uses the throne to throw his voice and congratulates them. His next actions depend on his current goal (see "Halaster's Goals"):
 
@@ -728,7 +728,7 @@ Five minutes after Halaster dies, the demiplane containing his tower collapses, 
 
 The throne has the following magical properties:
 
-- When seated in the throne, a creature can use a bonus action to turn invisible or to end the effect. The invisibility ends automatically when the creature is no longer seated in the throne.  
+- When seated in the throne, a creature can use a bonus action to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) or to end the effect. The invisibility ends automatically when the creature is no longer seated in the throne.  
 - A creature that speaks while seated in the throne can choose to throw its voice, making it seem to originate from any point in the room that the creature can see.  
 
 #### Nalkara the Empyrean
@@ -737,7 +737,7 @@ Nalkara is the neutral evil daughter of Auril, the god of winter, and Thrym, the
 
 #### Statue of Halaster Riding a Donkey
 
-When he is not incapacitated, Halaster can touch this statue to teleport himself and anything he is wearing or carrying to a space within 5 feet of the statue in area 22 or the statue in area 28 (no action required).
+When he is not [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), Halaster can touch this statue to teleport himself and anything he is wearing or carrying to a space within 5 feet of the statue in area 22 or the statue in area 28 (no action required).
 
 #### Treasure
 
@@ -745,9 +745,9 @@ Hidden behind the stacks of books are any magic items the characters sacrificed 
 
 Most of the books piled around the throne are worthless, rambling texts on the nature of magic and the multiverse. Among them are nine leather-bound spellbooks bearing Halaster's personal rune. Collectively, these spellbooks contain every spell on the wizard's spell list in the "Player's Handbook". Individually, each book holds the spells of a specific level, 1st through 9th. Add spells from other sources you see fit.
 
-Hidden in the cut-out pages of a leather-bound novel titled *Longsaddle Sunset* is a revolver loaded with six bullets (see ""Firearms"" in chapter 9 of the "Dungeon Master's Guide").
+Hidden in the cut-out pages of a leather-bound novel titled *Longsaddle Sunset* is a [revolver](3-Mechanics/CLI/items/revolver-xdmg.md) loaded with six bullets (see ""Firearms"" in chapter 9 of the "Dungeon Master's Guide").
 
-The iron chest behind the throne has an arcane lock spell cast on it that Halaster alone can ignore. A knock spell or similar magic opens the chest, as does a successful DC 25 Dexterity check made by a character using thieves' tools. The chest contains a gold-plated herald's trumpet (250 gp); a coral beer stein painted with scenes of underwater life (500 gp); a cloak made of giant eagle feathers (750 gp); a delicate, multicolored, blown-glass lily trimmed with gold (1,250 gp); and a rolled-up painting of the Battle of Emridy Meadows, a conflict that transpired on a distant world called Oerth (2,500 gp).
+The iron chest behind the throne has an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell cast on it that Halaster alone can ignore. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens the chest, as does a successful DC 25 Dexterity check made by a character using thieves' tools. The chest contains a gold-plated herald's trumpet (250 gp); a coral beer stein painted with scenes of underwater life (500 gp); a cloak made of giant eagle feathers (750 gp); a delicate, multicolored, blown-glass lily trimmed with gold (1,250 gp); and a rolled-up painting of the Battle of Emridy Meadows, a conflict that transpired on a distant world called Oerth (2,500 gp).
 
 ### 34. Flying Saucer
 
@@ -755,10 +755,10 @@ This room contains one of Halaster's magical creations: a 20-foot-diameter flyin
 
 The saucer is a Huge object with AC 19, 200 hit points, a flying speed of 60 feet, the ability to hover, and immunity to poison and psychic damage. It is not airtight. Provided it has 50 or more hit points remaining, the saucer can be repaired as follows:
 
-- Each casting of the mending cantrip restores 1 hit point to the damaged saucer.  
-- A character who has tinker's tools, proficiency in the Arcana skill, and 10 gp worth of replacement parts can spend 1 hour making repairs; at the end of the hour, the saucer regains `dice:1d4|noform|noparens|avg` (`1d4`) hit points.  
+- Each casting of the [mending](3-Mechanics/CLI/spells/mending-xphb.md) cantrip restores 1 hit point to the damaged saucer.  
+- A character who has tinker's tools, proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill, and 10 gp worth of replacement parts can spend 1 hour making repairs; at the end of the hour, the saucer regains `1d4` hit points.  
 
-A detect magic spell reveals an aura of transmutation magic around the saucer. A knock spell or similar magic opens the dome, as does a successful DC 15 Dexterity check made by a character using thieves' tools.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the saucer. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic opens the dome, as does a successful DC 15 Dexterity check made by a character using thieves' tools.
 
 The dome covers a cockpit that contains a padded leather seat and a slanted metal console. Embedded in the console is an ornate metal joystick (see "Treasure" below) and three metal buttons labeled "Hover," "Land," and "Teleport." The rest of the saucer's interior is taken up by arcane machinery.
 
@@ -770,13 +770,13 @@ Pressing the "Teleport" button teleports the saucer and its pilot, along with an
 
 #### Treasure
 
-The joystick that controls the flying saucer is a rod of lordly might. The rod's normal magical properties are suppressed while it is attached to the flying saucer's console. The rod can be torn from the console by force with a successful DC 20 Strength (Athletics) check. A character can also use Thieves' Tools or Tinker's Tools to detach the rod from the console or reattach it, which requires 1 minute and no ability check. Without the rod in place, the flying saucer does not function.
+The joystick that controls the flying saucer is a [rod of lordly might](3-Mechanics/CLI/items/rod-of-lordly-might-xdmg.md). The rod's normal magical properties are suppressed while it is attached to the flying saucer's console. The rod can be torn from the console by force with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A character can also use [Thieves' Tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) or [Tinker's Tools](3-Mechanics/CLI/items/tinkers-tools-xphb.md) to detach the rod from the console or reattach it, which requires 1 minute and no ability check. Without the rod in place, the flying saucer does not function.
 
 ### 35. Exercise Room
 
 > [!note] 
 > 
-> **Golems**. Two [flesh golems](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) are working out in this room. One golem is doing shoulder shrugs with two 100-pound iron kettlebells. The other switches back and forth between jumping jacks and shadowboxing.
+> **Golems**. Two [flesh golems](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) are working out in this room. One golem is doing shoulder shrugs with two 100-pound iron kettlebells. The other switches back and forth between jumping jacks and shadowboxing.
 > 
 > **Exercise Equipment**. Padded leather mats are strewn upon the floor amid kettlebells and stacks of iron plates of various weights. Against the far wall rests a padded workout bench and an iron barbell bearing 400 pounds of weight. Behind the bench, hanging on the wall, is a set of boxing gloves.
 ^b80
@@ -787,17 +787,17 @@ If a character dons the boxing gloves, one golem moves to the middle of the room
 
 ### 36. Gate to Triboar
 
-This room contains a pair of 15-foot-tall standing stones. Lashed to each stone with 50 feet of hempen rope is an inanimate scarecrow, like the ones found in farmers' fields. Perched atop the northernmost standing stone is an ordinary [crow](/3-Mechanics/CLI/bestiary/beast/crow-wdmm.md) (use the [raven](/3-Mechanics/CLI/bestiary/beast/raven.md) statistics). The [crow](/3-Mechanics/CLI/bestiary/beast/crow-wdmm.md) caws at anyone who enters the room and bonds with a random character.
+This room contains a pair of 15-foot-tall standing stones. Lashed to each stone with 50 feet of hempen rope is an inanimate scarecrow, like the ones found in farmers' fields. Perched atop the northernmost standing stone is an ordinary [crow](3-Mechanics/CLI/bestiary/beast/crow-wdmm.md) (use the [raven](3-Mechanics/CLI/bestiary/beast/raven-xmm.md) statistics). The [crow](3-Mechanics/CLI/bestiary/beast/crow-wdmm.md) caws at anyone who enters the room and bonds with a random character.
 
-If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A legend lore spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, in a small cornfield behind a farmhouse on the outskirts of Triboar, a town far north of Waterdeep. (More information on Triboar can be found in Storm King's Thunder.)
+If a creature uses a finger or a staff to trace Halaster's rune on the surface of either of the standing stones, a gate forms between them and lasts for 1 minute. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic reveals the way to activate the gate, its destination, and the fact that it's one-way only. Any creature that steps through this gate appears, along with any objects it is wearing or carrying, in a small cornfield behind a farmhouse on the outskirts of Triboar, a town far north of Waterdeep. (More information on Triboar can be found in Storm King's Thunder.)
 
 ## Conclusion
 
 If Halaster is killed, the demiplane around his tower (areas 22 through 36) collapses 5 minutes later without warning. As the tower is torn asunder, its contents are blasted into the far corners of the Astral Plane. Characters who are holding onto one another or are tethered together end up in the same place on the Astral Plane until they find a means of escape or until a githyanki-crewed astral warship stumbles upon them. See "chapter 2" of the "Dungeon Master's Guide" for more information on the Astral Plane and its perils.
 
-Halaster's death also deactivates all gates in Undermountain. These gates reactivate when the Mad Mage re-forms `dice:1d10|noform|noparens|avg` (`1d10`) days later in a random dungeon location.
+Halaster's death also deactivates all gates in Undermountain. These gates reactivate when the Mad Mage re-forms `1d10` days later in a random dungeon location.
 
-During Halaster's absence, Jhesiyra (see "Jhesiyra Kestellharp") tries to seize control of Undermountain. Does she succeed? That's up to you. If she is successful, Jhesiyra takes her place as the new master of the dungeon, and Halaster does not return. Whether Jhesiyra remains disembodied or assumes a corporeal form when she usurps Halaster's control over Undermountain is also for you to decide, but one thing she won't do is reactivate Halaster's gates. She doesn't trust them and would prefer to create her own gates in due time. If [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) and [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) are still around, Jhesiyra plots to destroy them before they turn against her, and she might even draft adventurers to help her.
+During Halaster's absence, Jhesiyra (see "Jhesiyra Kestellharp") tries to seize control of Undermountain. Does she succeed? That's up to you. If she is successful, Jhesiyra takes her place as the new master of the dungeon, and Halaster does not return. Whether Jhesiyra remains disembodied or assumes a corporeal form when she usurps Halaster's control over Undermountain is also for you to decide, but one thing she won't do is reactivate Halaster's gates. She doesn't trust them and would prefer to create her own gates in due time. If [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) and [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) are still around, Jhesiyra plots to destroy them before they turn against her, and she might even draft adventurers to help her.
 
 Existing in a disembodied state for so long has done little to preserve Jhesiyra's sanity, and it remains an open question whether Undermountain becomes a safer place with her in charge. In all likelihood, the dungeon will remain a perilous location, as Jhesiyra's fear that Halaster might someday return prompts her to ward the dungeon against that eventuality.
 

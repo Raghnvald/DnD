@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/hobgoblin
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/race/hobgoblin
 aliases:
-- Hobgoblin
+- "Hobgoblin"
 ---
 # Hobgoblin
 *Source: Eberron: Rising from the Last War p. 26*  
-![](/3-Mechanics/CLI/races/img/goblinoids.webp#right)
+![](3-Mechanics/CLI/races/img/goblinoids.webp#right)
 
 - **Ability Scores**: con +2 int +1
 - **Size**: Medium

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gold Dragon Wyrmling
+- "Gold Dragon Wyrmling"
 ---
-# [Gold Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/gold-dragon-wyrmling-xmm.md)
+# [Gold Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Gold dragon wyrmlings learn much from their elders, then head off to save the world. Idealistic and curious, these wyrmlings seek to right obvious wrongs and make friends among those they aid.
@@ -24,7 +24,7 @@ Gold dragon wyrmlings learn much from their elders, then head off to save the wo
 *Dragons of Hope and Majesty*
 
 - **Habitat.** Forest, Grassland  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
 
 Gold dragons work to make the world a better place. The most powerful of the metallic dragons, these awe-inspiring dragons strive to protect that which is good and bend fate toward a brighter future. Their kind dispositions don't prevent gold dragons from engaging in combat when necessary, though, and they exhale brilliant flames and weakening magic to rout their foes.
 
@@ -56,12 +56,12 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "dexterity": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
@@ -71,22 +71,23 @@ Gold dragons make their homes in places of natural and magical wonder.
 "actions":
   - "desc": "The dragon makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 9 (1d10 + 4) Slashing\
+      \ damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 13, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* 22 (4d10) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "*Strength Saving Throw:* DC 13, each creature that isn't currently affected\
-      \ by this breath in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* The target has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on Strength-based [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)\
-      \ and subtracts 2 (1d4) from its damage rolls. It repeats the save at the end\
-      \ of each of its turns, ending the effect on itself on a success. After 1 minute,\
-      \ it succeeds automatically."
+      \ by this breath in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* The target has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+      \ on Strength-based [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md)\
+      \ and subtracts 2 (1d4) from its damage rolls. It repeats the save at the\
+      \ end of each of its turns, ending the effect on itself on a success. After\
+      \ 1 minute, it succeeds automatically."
     "name": "Weakening Breath"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/gold-dragon-wyrmling-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/gold-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

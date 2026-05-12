@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Dragon Characters; Dragon Bonds
+- "Dragon Characters; Dragon Bonds"
 ---
 # Dragon Characters; Dragon Bonds
 *Source: Fizban's Treasury of Dragons p. 31* 
 
 **Dragon Bonds**
-
-`dice: [](dragon-characters-dragon-bonds-ftd.md#^dragon-bonds)`
 
 | dice: d10 | Bond |
 |-----------|------|

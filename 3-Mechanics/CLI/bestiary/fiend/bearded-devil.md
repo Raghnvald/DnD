@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bearded Devil
+- "Bearded Devil"
 ---
-# [Bearded Devil](3-Mechanics\CLI\bestiary\fiend/bearded-devil.md)
-*Source: Monster Manual p. 70, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Bearded Devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md)
+*Source: Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
 
@@ -115,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -165,8 +165,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[glaive](3-Mechanics/CLI/items/glaive.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "3"
 "traits":
@@ -175,30 +178,31 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The devil has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
-  - "desc": "The devil can't be frightened while it can see an allied creature within\
-      \ 30 feet of it."
+  - "desc": "The devil can't be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ while it can see an allied creature within 30 feet of it."
     "name": "Steadfast"
 "actions":
   - "desc": "The devil makes two attacks: one with its beard and one with its glaive."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
-      \ saving throw or be poisoned for 1 minute. While poisoned in this way, the\
-      \ target can't regain hit points. The target can repeat the saving throw at\
-      \ the end of each of its turns, ending the effect on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ in this way, the target can't regain hit points. The target can repeat the\
+      \ saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success."
     "name": "Beard"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8\
-      \ (1d10 + 3) slashing damage. If the target is a creature other than an undead\
-      \ or a construct, it must succeed on a DC 12 Constitution saving throw or lose\
-      \ 5 (1d10) hit points at the start of each of its turns due to an infernal wound.\
-      \ Each time the devil hits the wounded target with this attack, the damage dealt\
-      \ by the wound increases by 5 (1d10). Any creature can take an action to stanch\
-      \ the wound with a successful DC 12 Wisdom (Medicine) check. The wound also\
-      \ closes if the target receives magical healing."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 8 (1d10 + 3) slashing damage. If the target is a creature other than an\
+      \ undead or a construct, it must succeed on a DC 12 Constitution saving throw\
+      \ or lose 5 (1d10) hit points at the start of each of its turns due to an\
+      \ infernal wound. Each time the devil hits the wounded target with this attack,\
+      \ the damage dealt by the wound increases by 5 (1d10). Any creature can take\
+      \ an action to stanch the wound with a successful DC 12 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine))\
+      \ check. The wound also closes if the target receives magical healing."
     "name": "Glaive"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/bearded-devil.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/bearded-devil.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdh
 - ttrpg-cli/item/gear/treasure-coinage
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Nib"
 ---
 # Nib

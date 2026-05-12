@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Manual of Bodily Health"
 ---
 # Manual of Bodily Health
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/manual-of-bodily-health.webp#right)
+![](3-Mechanics/CLI/items/img/manual-of-bodily-health.webp#right)
 
 - **Weight**: 5.0 lbs.
 

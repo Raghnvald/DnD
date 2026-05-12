@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cradle of the Storm Scion
+- "Cradle of the Storm Scion"
 ---
-# [Cradle of the Storm Scion](3-Mechanics\CLI\bestiary\elemental/cradle-of-the-storm-scion-bgg.md)
+# [Cradle of the Storm Scion](3-Mechanics/CLI/bestiary/elemental/cradle-of-the-storm-scion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 170*  
 
 A scion of Stronmaus often slumbers high in the sky or deep in the ocean, where the tumult caused by the scion's restless sleep has little effect on the world. If it drifts too near the ground or the ocean surface, it causes mighty storms or fierce maelstroms. A scion's slumber is filled with dreams ranging from inspiring visions of Annam's return to melancholy prophecies of inevitable decline, from joyful glimpses of an idyllic past to horrific nightmares of torment and devastation.
@@ -50,16 +50,13 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "damage_resistances": "cold; fire; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, stunned"
 "senses": "passive Perception 16"
 "languages": "Giant, Primordial"
 "cr": "27"
 "traits":
-  - "desc": "The cradle is a container for the [scion of Stronmaus](/3-Mechanics/CLI/bestiary/giant/scion-of-stronmaus-bgg.md).\
+  - "desc": "The cradle is a container for the [scion of Stronmaus](3-Mechanics/CLI/bestiary/giant/scion-of-stronmaus-bgg.md).\
       \ When the cradle drops to 0 hit points, its body bursts into light. The scion\
       \ instantly appears in the space the cradle occupied and uses the cradle's initiative\
       \ count."
@@ -74,20 +71,18 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "actions":
   - "desc": "The cradle makes three Slam or Spit Hailstone attacks in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 36\
-      \ (4d12 + 10) bludgeoning damage plus 19 (3d12) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 36 (4d12 + 10) bludgeoning damage plus 19 (3d12) lightning damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120 ft., one target. *Hit:*\
       \ 32 (4d10 + 10) bludgeoning damage plus 14 (4d6) cold damage, and the target\
-      \ must succeed on a DC 26 Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition."
+      \ must succeed on a DC 26 Strength saving throw or have the prone condition."
     "name": "Spit Hailstone"
   - "desc": "The cradle hurls multiple magical lightning bolts at up to two creatures\
       \ it can see within 500 feet of itself. Each target must make a DC 22 Dexterity\
       \ saving throw. On a failed save, the target takes 71 (11d12) lightning damage\
-      \ and has the [stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until\
-      \ the end of its next turn. On a successful save, the target takes half as much\
-      \ damage only."
+      \ and has the stunned condition until the end of its next turn. On a successful\
+      \ save, the target takes half as much damage only."
     "name": "Lightning Barrage (Recharge 5-6)"
 "reactions":
   - "desc": "Immediately after taking damage, the cradle cracks with thunder and then\
@@ -110,6 +105,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-storm-scion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-storm-scion-bgg.webp"
 ```
 ^statblock

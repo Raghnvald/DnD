@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Notable Traits
+- "Random Settlements; Notable Traits"
 ---
 # Random Settlements; Notable Traits
 *Source: Dungeon Master's Guide p. 112* 
 
 **Notable Traits**
-
-`dice: [](random-settlements-notable-traits.md#^notable-traits)`
 
 | dice: d20 | Trait |
 |-----------|-------|

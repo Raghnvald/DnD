@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jalester Silvermane
+- "Jalester Silvermane"
 ---
-# [Jalester Silvermane](3-Mechanics\CLI\bestiary\npc/jalester-silvermane-wdh.md)
+# [Jalester Silvermane](3-Mechanics/CLI/bestiary/npc/jalester-silvermane-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  
 
 *Human patron*
@@ -36,7 +36,8 @@ Jalester carries a badge of the Watch (+2 bonus to AC if not using a shield). If
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "chain mail, [Badge of the Watch](/3-Mechanics/CLI/items/badge-of-the-watch-wdh.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [Badge of the\
+  \ Watch](3-Mechanics/CLI/items/badge-of-the-watch-wdh.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "2"
@@ -52,27 +53,31 @@ Jalester carries a badge of the Watch (+2 bonus to AC if not using a shield). If
   - "strength": !!int "4"
   - "constitution": !!int "3"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
-  - "desc": "Jalester carries a [badge of the Watch](/3-Mechanics/CLI/items/badge-of-the-watch-wdh.md)."
+  - "desc": "Jalester carries a [badge of the Watch](3-Mechanics/CLI/items/badge-of-the-watch-wdh.md)."
     "name": "Special Equipment"
   - "desc": "As a bonus action, Jalester can regain 16 (1d10 + 11) hit points."
     "name": "Second Wind (Recharges after a Short or Long Rest)"
 "actions":
   - "desc": "Jalester makes two weapon attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage when used with two hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage when used with\
+      \ two hands."
     "name": "Longsword"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60 ft.,\
-      \ one target. *Hit:* 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "reactions":
   - "desc": "When a creature that Jalester can see misses him with a melee attack,\
@@ -81,6 +86,6 @@ Jalester carries a badge of the Watch (+2 bonus to AC if not using a shield). If
     "name": "Riposte"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jalester-silvermane-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jalester-silvermane-wdh.webp"
 ```
 ^statblock

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Personal Impact
+- "Personal Impact"
 ---
 # Personal Impact
 *Source: Eberron: Rising from the Last War p. 206* 
 
 **Personal Impact**
-
-`dice: [](personal-impact-erlw.md#^personal-impact)`
 
 | dice: d6 | Impact |
 |----------|--------|

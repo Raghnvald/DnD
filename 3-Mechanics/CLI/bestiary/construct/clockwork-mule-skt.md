@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clockwork Mule
+- "Clockwork Mule"
 ---
-# [Clockwork Mule](3-Mechanics\CLI\bestiary\construct/clockwork-mule-skt.md)
+# [Clockwork Mule](3-Mechanics/CLI/bestiary/construct/clockwork-mule-skt.md)
 *Source: Storm King's Thunder p. 162*  
 
 ```statblock
@@ -33,7 +33,9 @@ aliases:
   - !!int "5"
 "speed": "40 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "1/8"
@@ -46,14 +48,14 @@ aliases:
       \ its carrying capacity."
     "name": "Beast of Burden"
   - "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it prone."
+      \ effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/clockwork-mule-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/clockwork-mule-skt.webp"
 ```
 ^statblock

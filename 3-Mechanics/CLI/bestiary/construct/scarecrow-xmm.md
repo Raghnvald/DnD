@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scarecrow
+- "Scarecrow"
 ---
-# [Scarecrow](3-Mechanics\CLI\bestiary\construct/scarecrow-xmm.md)
+# [Scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md)
 *Source: Monster Manual (2024) p. 269*  
 
 ## Scarecrow
@@ -28,8 +28,6 @@ Spirits of vengeance bound to crude frames, scarecrows arise from folk magic, th
 Although scarecrows take their name from rural effigies, they might take varied patchwork forms. Roll on or choose a result from the Scarecrow Frames table to inspire a scarecrow's appearance.
 
 **Scarecrow Frames**
-
-`dice: [](scarecrow-xmm.md#^scarecrow-frames)`
 
 | dice: 1d8 | The Scarecrow Is Made From... |
 |-----------|-------------------------------|
@@ -62,27 +60,28 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common plus one other language"
 "cr": "1"
 "actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing damage,\
-      \ and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Slashing\
+      \ damage, and the target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the end of the scarecrow's next turn."
     "name": "Fearsome Claw"
   - "desc": "*Wisdom Saving Throw:* DC 11, one creature the scarecrow can see within\
-      \ 30 feet. *Failure:* The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ condition until the end of the scarecrow's next turn. While [Frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-      \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ 30 feet. *Failure:* The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition until the end of the scarecrow's next turn. While [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+      \ the target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ condition."
     "name": "Terrifying Glare"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/scarecrow-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/scarecrow-xmm.webp"
 ```
 ^statblock
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Elf Tables; Elf (Non-drow) Adventurer Story Hooks
+- "Elf Tables; Elf (Non-drow) Adventurer Story Hooks"
 ---
 # Elf Tables; Elf (Non-drow) Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 64* 
 
 **Elf (Non-drow) Adventurer Story Hooks**
-
-`dice: [](elf-tables-elf-non-drow-adventurer-story-hooks-mtf.md#^elf-non-drow-adventurer-story-hooks)`
 
 | dice: d8 | Hook |
 |----------|------|

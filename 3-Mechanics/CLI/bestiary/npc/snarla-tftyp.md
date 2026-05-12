@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/human
-- new/monster/type/humanoid/shapechanger
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
+- ttrpg-cli/monster/type/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Snarla
+- "Snarla"
 ---
-# [Snarla](3-Mechanics\CLI\bestiary\npc/snarla-tftyp.md)
+# [Snarla](3-Mechanics/CLI/bestiary/npc/snarla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 102*  
 
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
@@ -28,7 +28,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A remove curse spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -77,7 +77,7 @@ The character gains a Strength of 15 if his or her score isn't already higher, a
 "subtype": "human, shapechanger"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "12 from natural armor in wolf and hybrid forms"
+"ac_class": "12 natural armor in wolf and hybrid forms"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -90,46 +90,53 @@ The character gains a Strength of 15 if his or her score isn't already higher, a
   - !!int "10"
 "speed": "30 ft. (40 ft. in wolf form)"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "5"
 "traits":
   - "desc": "Snarla is a 6th-level spellcaster. Her spellcasting ability is Intelligence\
-      \ (spell save DC 14, +6 to hit with spell attacks). She has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** fire bolt, light, mage hand, shocking\
-      \ grasp\n\n**1st level (4 slots):** magic missile, shield, thunderwave\n\n**2nd\
-      \ level (3 slots):** mirror image, web\n\n**3rd level (3 slots):** dispel magic,\
-      \ fear, haste, stinking cloud"
+      \ (spell save DC 14, +6 to hit with spell attacks). She has the following\
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n**1st level\
+      \ (4 slots):** [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n**2nd level (3 slots):** [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)\n\n**3rd level (3 slots):** [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md),\
+      \ [haste](3-Mechanics/CLI/spells/haste-xphb.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The werewolf can use its action to polymorph into a wolf-humanoid hybrid\
       \ or into a wolf, or back into its true form, which is humanoid. Its statistics,\
       \ other than its AC, are the same in each form. Any equipment it is wearing\
       \ or carrying isn't transformed. It reverts to its true form if it dies."
     "name": "Shapechanger"
-  - "desc": "The werewolf has advantage on Wisdom (Perception) checks that rely on\
-      \ hearing or smell."
+  - "desc": "The werewolf has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
   - "desc": "The werewolf makes two attacks: one with its bite and one with its claws\
       \ or spear."
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
-      \ 12 Constitution saving throw or be cursed with werewolf lycanthropy."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed\
+      \ on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy."
     "name": "Bite (Wolf or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (2d4 + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (2d4 + 2) slashing damage."
     "name": "Claws (Hybrid Form Only)"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
-      \ damage if used with two hands to make a melee attack."
+      \ ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2)\
+      \ piercing damage if used with two hands to make a melee attack."
     "name": "Spear (Humanoid Form Only)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/snarla-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/snarla-tftyp.webp"
 ```
 ^statblock

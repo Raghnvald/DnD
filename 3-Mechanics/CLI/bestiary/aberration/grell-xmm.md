@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grell
+- "Grell"
 ---
-# [Grell](3-Mechanics\CLI\bestiary\aberration/grell-xmm.md)
+# [Grell](3-Mechanics/CLI/bestiary/aberration/grell-xmm.md)
 *Source: Monster Manual (2024) p. 157*  
 
 ## Grell
@@ -30,8 +30,6 @@ Grells are sapient beings, but their intellects and motivations are alien to mos
 Many grells pursue methods of traveling between worlds and planes of existence. They sometimes slip onto star-faring vessels or enter portals heedless of their destination. Roll on or choose a result from the Grell Explorations table to inspire why grells seek passage between realms.
 
 **Grell Explorations**
-
-`dice: [](grell-xmm.md#^grell-explorations)`
 
 | dice: 1d6 | Grells Travel Because They Are... |
 |-----------|-----------------------------------|
@@ -66,14 +64,14 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - !!int "9"
 "speed": "10 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 14"
 "languages": "Deep Speech"
 "cr": "3"
 "traits":
@@ -82,20 +80,22 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 "actions":
   - "desc": "The grell makes one Beak attack and one Paralyzing Tentacles attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Piercing\
+      \ damage."
     "name": "Beak"
-  - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 7 (1d10 + 2) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 7 (1d10 + 2) Piercing\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 12) from two of ten tentacles. The target is also subjected\
       \ to the following effect. *Constitution Saving Throw:* DC 11. *Failure:* The\
-      \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
       \ and repeats the save at the end of each of its turns, ending the effect on\
-      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ itself on a success. After 1 minute, it succeeds automatically. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ the target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/grell-xmm.webp"
 ```
 ^statblock
 

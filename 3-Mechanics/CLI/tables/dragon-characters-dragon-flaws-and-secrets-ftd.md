@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Dragon Characters; Dragon Flaws and Secrets
+- "Dragon Characters; Dragon Flaws and Secrets"
 ---
 # Dragon Characters; Dragon Flaws and Secrets
 *Source: Fizban's Treasury of Dragons p. 31* 
 
 **Dragon Flaws and Secrets**
-
-`dice: [](dragon-characters-dragon-flaws-and-secrets-ftd.md#^dragon-flaws-and-secrets)`
 
 | dice: d10 | Flaw or Secret |
 |-----------|----------------|

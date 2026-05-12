@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/half-orc
-- new/monster/type/humanoid/shapechanger
+- ttrpg-cli/compendium/src/5e/dip
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/half-orc
+- ttrpg-cli/monster/type/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Anchorite of Talos
+- "Anchorite of Talos"
 ---
-# [Anchorite of Talos](3-Mechanics\CLI\bestiary\humanoid/anchorite-of-talos-dip.md)
+# [Anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md)
 *Source: Dragon of Icespire Peak p. 51*  
 
 These religious recluses are granted spellcasting power by Talos, the god of storms. Their human ancestors bred with orcs, and now all anchorites of Talos are half-orcs.
@@ -59,14 +59,14 @@ These religious recluses are granted spellcasting power by Talos, the god of sto
       \ true form if it dies."
     "name": "Shapechanger"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) slashing damage."
     "name": "Clawed Gauntlet (Humanoid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Tusk (Boar Form Only)"
 "source":
   - "DIP"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/anchorite-of-talos-dip.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/anchorite-of-talos-dip.webp"
 ```
 ^statblock

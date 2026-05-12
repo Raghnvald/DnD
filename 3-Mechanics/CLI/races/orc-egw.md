@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/egw
-- new/race/orc
+- ttrpg-cli/compendium/src/5e/egw
+- ttrpg-cli/race/orc
 aliases:
-- Orc
+- "Orc"
 ---
 # Orc
 *Source: Explorer's Guide to Wildemount p. 178*  

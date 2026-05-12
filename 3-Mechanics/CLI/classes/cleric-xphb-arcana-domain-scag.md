@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/subclass/cleric/arcana
 aliases:
-- Arcana Domain
+- "Arcana Domain"
 ---
 # Arcana Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
@@ -48,13 +48,13 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Arcana Domain (Level 3)
-
 Magic is an energy that suffuses the multiverse and that fuels both destruction and creation. Gods of the Arcana domain know the secrets and potential of magic intimately. For some of these gods, magical knowledge is a great responsibility that comes with a special understanding of the nature of reality. Other gods of Arcana see magic as pure power, to be used as its wielder sees fit.
 
-The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include [Azuth](/3-Mechanics/CLI/deities/faerunian-azuth-scag.md) and [Mystra](/3-Mechanics/CLI/deities/faerunian-mystra-scag.md), as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes [Hecate](/3-Mechanics/CLI/deities/greek-hecate.md), [Math Mathonwy](/3-Mechanics/CLI/deities/celtic-math-mathonwy.md), and [Isis](/3-Mechanics/CLI/deities/egyptian-isis.md); the triple moon gods of [Solinari](/3-Mechanics/CLI/deities/dragonlance-solinari-phb.md), [Lunitari](/3-Mechanics/CLI/deities/dragonlance-lunitari-phb.md), and [Nuitari](/3-Mechanics/CLI/deities/dragonlance-nuitari-phb.md) of Krynn; and Boccob, Vecna, and Wee Jas of Greyhawk.
+The gods of this domain are often associated with knowledge, as learning and arcane power tend to go hand-in-hand. In the Realms, deities of this domain include [Azuth](3-Mechanics/CLI/deities/faerunian-azuth-scag.md) and [Mystra](3-Mechanics/CLI/deities/faerunian-mystra-scag.md), as well as Corellon Larethian of the elven pantheon. In other worlds, this domain includes [Hecate](3-Mechanics/CLI/deities/greek-hecate.md), [Math Mathonwy](3-Mechanics/CLI/deities/celtic-math-mathonwy.md), and [Isis](3-Mechanics/CLI/deities/egyptian-isis.md); the triple moon gods of [Solinari](3-Mechanics/CLI/deities/dragonlance-solinari-phb.md), [Lunitari](3-Mechanics/CLI/deities/dragonlance-lunitari-phb.md), and [Nuitari](3-Mechanics/CLI/deities/dragonlance-nuitari-phb.md) of Krynn; and Boccob, Vecna, and Wee Jas of Greyhawk.
+
+## Subclass Features
+
+### Domain Spells (Level 3)
 
 At each indicated cleric level, add the listed spells to your spells prepared. They do not count towards your limit.
 
@@ -62,16 +62,16 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md) |
-| 3rd | [magic weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md), [Nystul's magic aura](/3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md) |
-| 5th | [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [magic circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md) |
-| 7th | [arcane eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [Leomund's secret chest](/3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) |
-| 9th | [planar binding](/3-Mechanics/CLI/spells/planar-binding-xphb.md), [teleportation circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md) |
+| 1st | [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md) |
+| 3rd | [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [Nystul's magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md) |
+| 5th | [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [magic circle](3-Mechanics/CLI/spells/magic-circle-xphb.md) |
+| 7th | [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [Leomund's secret chest](3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) |
+| 9th | [planar binding](3-Mechanics/CLI/spells/planar-binding-xphb.md), [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) |
 ^arcana-domain-spells
 
 ### Arcane Initiate (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
+When you choose this domain at 1st level, you gain proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill, and you gain two cantrips of your choice from the wizard spell list. For you, these cantrips count as cleric cantrips.
 
 ### Channel Divinity: Arcane Abjuration (Level 3)
 
@@ -79,9 +79,9 @@ Starting at 2nd level, you can use your Channel Divinity to abjure otherworldly 
 
 As an action, you present your holy symbol, and one celestial, elemental, fey, or fiend of your choice that is within 30 feet of you must make a Wisdom saving throw, provided that the creature can see or hear you. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/3-Mechanics/CLI/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the [Dodge](/3-Mechanics/CLI/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly end its move in a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, then the creature can use the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action.
 
-After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) spell, no [concentration](/3-Mechanics/CLI/conditions.md#Concentration) required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.
+After you reach 5th level, when a creature fails its saving throw against your Arcane Abjuration feature, the creature is banished for 1 minute (as in the [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) spell, no [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) required) if it isn't on its plane of origin, and its challenge rating is at or below a certain threshold, as shown below.
 
 **Arcane Banishment**
 

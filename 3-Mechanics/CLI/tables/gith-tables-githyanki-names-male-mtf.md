@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githyanki Names, Male
+- "Gith Tables; Githyanki Names, Male"
 ---
 # Gith Tables; Githyanki Names, Male
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githyanki Names, Male**
-
-`dice: [](gith-tables-githyanki-names-male-mtf.md#^githyanki-names-male)`
 
 | dice: d10 | Name |
 |-----------|------|

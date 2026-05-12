@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shambling Mound
+- "Shambling Mound"
 ---
-# [Shambling Mound](3-Mechanics\CLI\bestiary\plant/shambling-mound-xmm.md)
+# [Shambling Mound](3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md)
 *Source: Monster Manual (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Shambling Mound
@@ -29,8 +29,6 @@ Shambling mounds—also known as "shamblers"—embody the tenacity of the wilder
 Strange circumstances might give rise to shambling mounds, transforming vegetation into hulks with rudimentary cunning. Such conditions include strikes from magical lightning, nature defending itself, or druidic curses. Roll on or choose a result from the Shambling Mound Cultivation table to inspire a shambling mound's origins and features.
 
 **Shambling Mound Cultivation**
-
-`dice: [](shambling-mound-xmm.md#^shambling-mound-cultivation)`
 
 | dice: 1d6 | The Shambling Mound Is... |
 |-----------|---------------------------|
@@ -60,18 +58,19 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
   - "desc": "Whenever the shambling mound is subjected to Lightning damage, it regains\
-      \ a number of [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ a number of [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ equal to the Lightning damage dealt."
     "name": "Lightning Absorption"
 "actions":
@@ -84,18 +83,18 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
     "name": "Charged Tendril"
   - "desc": "*Strength Saving Throw:* DC 15, one Medium or smaller creature within\
       \ 5 feet. *Failure:* The target is pulled into the shambling mound's space and\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 14). Until the grapple ends, the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Restrained](/3-Mechanics/CLI/conditions.md#Restrained) conditions, and\
-      \ it takes 10 (3d6) Lightning damage at the start of each of its turns. When\
-      \ the shambling mound moves, the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition\
+      \ (escape DC 14). Until the grapple ends, the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) conditions,\
+      \ and it takes 10 (3d6) Lightning damage at the start of each of its turns.\
+      \ When the shambling mound moves, the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ target moves with it, costing it no extra movement. The shambling mound can\
-      \ have only one creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ have only one creature [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by this action at a time."
     "name": "Engulf"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/shambling-mound-xmm.webp"
 ```
 ^statblock
 

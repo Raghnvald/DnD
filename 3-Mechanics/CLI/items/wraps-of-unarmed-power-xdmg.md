@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/varies
-aliases: 
+aliases:
 - "Wraps of Unarmed Power"
 ---
 # Wraps of Unarmed Power
@@ -15,8 +15,8 @@ aliases:
 
 **Items in this group:**
 
-- [+1 Wraps of Unarmed Power](/3-Mechanics/CLI/items/1-wraps-of-unarmed-power-xdmg.md)
-- [+2 Wraps of Unarmed Power](/3-Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg.md)
-- [+3 Wraps of Unarmed Power](/3-Mechanics/CLI/items/3-wraps-of-unarmed-power-xdmg.md)
+- [+1 Wraps of Unarmed Power](3-Mechanics/CLI/items/1-wraps-of-unarmed-power-xdmg.md)
+- [+2 Wraps of Unarmed Power](3-Mechanics/CLI/items/2-wraps-of-unarmed-power-xdmg.md)
+- [+3 Wraps of Unarmed Power](3-Mechanics/CLI/items/3-wraps-of-unarmed-power-xdmg.md)
 
 *Source: Dungeon Master's Guide (2024) p. 325*

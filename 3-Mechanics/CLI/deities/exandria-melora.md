@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Melora
+aliases:
+- "Melora"
 ---
 # Melora
 *Source: Explorer's Guide to Wildemount p. 23* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-melora.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-melora.webp#symbol)
 
 - **Alignment**: Neutral
 - **Category**: Prime Deities

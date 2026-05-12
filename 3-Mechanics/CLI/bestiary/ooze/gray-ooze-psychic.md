@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gray Ooze (Psychic)
+- "Gray Ooze (Psychic)"
 ---
-# [Gray Ooze (Psychic)](3-Mechanics\CLI\bestiary\ooze/gray-ooze-psychic.md)
+# [Gray Ooze (Psychic)](3-Mechanics/CLI/bestiary/ooze/gray-ooze-psychic.md)
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ```statblock
@@ -34,14 +34,14 @@ aliases:
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -57,15 +57,15 @@ aliases:
       \ pool or wet rock."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing\
-      \ nonmagical metal armor, its armor is partly corroded and takes a permanent\
-      \ and cumulative −1 penalty to the AC it offers. The armor is destroyed if the\
-      \ penalty reduces its AC to 10."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target\
+      \ is wearing nonmagical metal armor, its armor is partly corroded and takes\
+      \ a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed\
+      \ if the penalty reduces its AC to 10."
     "name": "Pseudopod"
   - "desc": "The ooze targets one creature that it can sense within 60 feet of it.\
-      \ The target must make a DC 10 Intelligence saving throw, taking 10 (3d6) psychic\
-      \ damage on a failed save, or half as much damage on a successful one."
+      \ The target must make a DC 10 Intelligence saving throw, taking 10 (3d6)\
+      \ psychic damage on a failed save, or half as much damage on a successful one."
     "name": "Psychic Crush (Recharge 5-6)"
 "source":
   - "MM"

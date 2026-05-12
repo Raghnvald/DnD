@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- new/compendium/src/5e/bmt
-- new/hazard/mech
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/hazard/mech
 aliases:
-- Balance and Ruin
+- "Balance and Ruin"
 ---
 # Balance and Ruin
 *Mechanical Trap*  
@@ -25,10 +25,10 @@ The balance beam is "difficult terrain". A creature that ends its turn on the be
 
 ## Magnetic Walls
 
-When the balance beam's weight is on the pressure plate, the metal walls emit a magnetic field. Any creature wearing metal armor or holding metal equipment who isn't on the beam is pulled to the nearest metal wall and sticks to it, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage. Any creature stuck to the wall has the restrained condition until the magnetic field deactivates. Removing pressure from the plate—such as by putting more weight on the opposite end of the beam—deactivates the magnetic field. If the whole party has access to flight, you can make the trap suitably challenging by removing the pressure plate and having the magnetic field toggle on or off in 1-minute intervals or whenever a creature ends its turn on a different side of the pit from where it started. A character wearing metal armor or holding metal equipment who flies across the hall while the walls are magnetized is pulled to the wall and stuck to it.
+When the balance beam's weight is on the pressure plate, the metal walls emit a magnetic field. Any creature wearing metal armor or holding metal equipment who isn't on the beam is pulled to the nearest metal wall and sticks to it, taking 11 (`2d10`) bludgeoning damage. Any creature stuck to the wall has the restrained condition until the magnetic field deactivates. Removing pressure from the plate—such as by putting more weight on the opposite end of the beam—deactivates the magnetic field. If the whole party has access to flight, you can make the trap suitably challenging by removing the pressure plate and having the magnetic field toggle on or off in 1-minute intervals or whenever a creature ends its turn on a different side of the pit from where it started. A character wearing metal armor or holding metal equipment who flies across the hall while the walls are magnetized is pulled to the wall and stuck to it.
 
 ## Gear Pit
 
-Whenever a creature falls into the pit or ends its turn there, that creature must succeed on a DC 17 Dexterity saving throw or take `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage and have the prone condition. A creature that is prone on the gears can't use movement to stand up without first using an action and a Tiny object to jam the gears below it. Those gears remain jammed until the end of the character's turn, whereupon the Tiny object tumbles loose, falls through the gears, and is lost.
+Whenever a creature falls into the pit or ends its turn there, that creature must succeed on a DC 17 Dexterity saving throw or take 55 (`10d10`) bludgeoning damage and have the prone condition. A creature that is prone on the gears can't use movement to stand up without first using an action and a Tiny object to jam the gears below it. Those gears remain jammed until the end of the character's turn, whereupon the Tiny object tumbles loose, falls through the gears, and is lost.
 
 *Source: The Book of Many Things p. 29*

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Alchemy Jug (Blue)"
 ---
 # Alchemy Jug (Blue)

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kusa Xungoon
+- "Kusa Xungoon"
 ---
-# [Kusa Xungoon](3-Mechanics\CLI\bestiary\npc/kusa-xungoon-jttrc.md)
+# [Kusa Xungoon](3-Mechanics/CLI/bestiary/npc/kusa-xungoon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 20*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "15"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -35,13 +35,16 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "any two languages, Draconic"
 "cr": "1/8"
 "traits":
@@ -50,8 +53,8 @@ aliases:
   - "desc": "Kusa"
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Kusa adds 2 to its AC against one melee attack that would hit it. To\
@@ -59,6 +62,6 @@ aliases:
     "name": "Parry"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kusa-xungoon-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kusa-xungoon-jttrc.webp"
 ```
 ^statblock

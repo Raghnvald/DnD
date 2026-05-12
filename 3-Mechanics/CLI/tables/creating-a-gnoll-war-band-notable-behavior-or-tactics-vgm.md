@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Creating a Gnoll War Band; Notable Behavior or Tactics
+- "Creating a Gnoll War Band; Notable Behavior or Tactics"
 ---
 # Creating a Gnoll War Band; Notable Behavior or Tactics
 *Source: Volo's Guide to Monsters p. 39* 
 
 **Notable Behavior or Tactics**
-
-`dice: [](creating-a-gnoll-war-band-notable-behavior-or-tactics-vgm.md#^notable-behavior-or-tactics)`
 
 | dice: d8 | Notable behavior or Tactics |
 |----------|-----------------------------|

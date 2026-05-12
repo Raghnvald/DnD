@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Broom
+- "Animated Broom"
 ---
-# [Animated Broom](3-Mechanics\CLI\bestiary\construct/animated-broom-cm.md)
+# [Animated Broom](3-Mechanics/CLI/bestiary/construct/animated-broom-cm.md)
 *Source: Candlekeep Mysteries p. 20*  
 
 ```statblock
@@ -51,11 +51,11 @@ aliases:
 "actions":
   - "desc": "The broom makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) bludgeoning damage."
     "name": "Broomstick"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-broom-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-broom-cm.webp"
 ```
 ^statblock

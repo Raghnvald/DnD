@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vrock
+- "Vrock"
 ---
-# [Vrock](3-Mechanics\CLI\bestiary\fiend/vrock.md)
+# [Vrock](3-Mechanics/CLI/bestiary/fiend/vrock.md)
 *Source: Monster Manual p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Vrocks are dull-witted, capricious fiends that live only to create pain and carnage. A vrock resembles a giant hybrid of humanoid and vulture, its gnarled, bestial body and broad wings stinking of offal.
@@ -161,7 +161,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -170,14 +170,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 > 
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
 > 
-> - A balor has a 50 percent chance of summoning `dice:1d8|noform|noparens|avg` (`1d8`) vrocks, `dice:1d6|noform|noparens|avg` (`1d6`) hezrous, `dice:1d4|noform|noparens|avg` (`1d4`) glabrezus, `dice:1d3|noform|noparens|avg` (`1d3`) nalfeshnees, `dice:1d2|noform|noparens|avg` (`1d2`) mariliths, or one goristro.  
+> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.  
 > - A barlgura has a 30 percent chance of summoning one barlgura.  
 > - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `dice:1d3|noform|noparens|avg` (`1d3`) vrocks, `dice:1d2|noform|noparens|avg` (`1d2`) hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) vrocks, `dice:1d4|noform|noparens|avg` (`1d4`) hezrous, `dice:1d3|noform|noparens|avg` (`1d3`) glabrezus, `dice:1d2|noform|noparens|avg` (`1d2`) nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) vrocks, `dice:1d3|noform|noparens|avg` (`1d3`) hezrous, `dice:1d2|noform|noparens|avg` (`1d2`) glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `dice:2d4|noform|noparens|avg` (`2d4`) dretches or one vrock.  
+> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.  
+> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.  
+> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.  
+> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.  
+> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.  
 > - A yochlol has a 50 percent chance of summoning one yochlol.  
 > 
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
@@ -214,9 +214,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "6"
 "traits":
@@ -234,20 +234,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Talons"
   - "desc": "A 15-foot-radius cloud of toxic spores extends out from the vrock. The\
       \ spores spread around corners. Each creature in that area must succeed on a\
-      \ DC 14 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, a target\
-      \ takes 5 (1d10) poison damage at the start of each of its turns. A target can\
-      \ repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success. Emptying a vial of holy water on the target also ends\
-      \ the effect on it."
+      \ DC 14 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ a target takes 5 (1d10) poison damage at the start of each of its turns.\
+      \ A target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success. Emptying a [vial of holy water](3-Mechanics/CLI/items/holy-water-flask.md)\
+      \ on the target also ends the effect on it."
     "name": "Spores (Recharge 6)"
   - "desc": "The vrock emits a horrific screech. Each creature within 20 feet of it\
       \ that can hear it and that isn't a demon must succeed on a DC 14 Constitution\
-      \ saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until\
-      \ the end of the vrock's next turn."
+      \ saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ until the end of the vrock's next turn."
     "name": "Stunning Screech (1/Day)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/vrock.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/vrock.webp"
 ```
 ^statblock

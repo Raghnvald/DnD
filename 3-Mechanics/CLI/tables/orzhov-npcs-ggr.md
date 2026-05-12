@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Orzhov NPCs
+- "Orzhov NPCs"
 ---
 # Orzhov NPCs
 *Source: Guildmasters' Guide to Ravnica p. 244* 
@@ -14,11 +14,11 @@ aliases:
 
 | Role | Appropriate Stat Block |
 |------|------------------------|
-| Advokist | [Mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) |
-| Indentured spirit | [Indentured spirit](/3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md)* |
-| Knight | [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) |
-| Oligarch | [Noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) |
-| Pontiff or ministrant | [Priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) or [acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) |
+| Advokist | Mage |
+| Indentured spirit | [Indentured spirit](3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md)* |
+| Knight | Knight |
+| Oligarch | Noble |
+| Pontiff or ministrant | Priest or acolyte |
 ^orzhov-npcs
 
 * Appears in this chapter

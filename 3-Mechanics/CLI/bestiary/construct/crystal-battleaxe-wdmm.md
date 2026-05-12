@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crystal Battleaxe
+- "Crystal Battleaxe"
 ---
-# [Crystal Battleaxe](3-Mechanics\CLI\bestiary\construct/crystal-battleaxe-wdmm.md)
+# [Crystal Battleaxe](3-Mechanics/CLI/bestiary/construct/crystal-battleaxe-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 89*  
 
 ```statblock
@@ -36,26 +36,33 @@ aliases:
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
-  \ poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The battleaxe is incapacitated while in the area of an antimagic field.\
-      \ If targeted by dispel magic, the battleaxe must succeed on a Constitution\
-      \ saving throw against the caster's spell save DC or fall unconscious for 1\
-      \ minute."
+  - "desc": "The battleaxe is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the battleaxe must succeed on a Constitution saving throw against the caster's\
+      \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the battleaxe remains motionless and isn't flying, it is indistinguishable\
       \ from a normal battleaxe."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) slashing damage."
     "name": "Battleaxe"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/crystal-battleaxe-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/crystal-battleaxe-wdmm.webp"
 ```
 ^statblock

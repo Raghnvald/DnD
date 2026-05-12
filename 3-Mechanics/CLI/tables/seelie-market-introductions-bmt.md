@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Seelie Market Introductions
+- "Seelie Market Introductions"
 ---
 # Seelie Market Introductions
 *Source: The Book of Many Things p. 106* 
 
 **Seelie Market Introductions**
-
-`dice: [](seelie-market-introductions-bmt.md#^seelie-market-introductions)`
 
 | dice: d6 | Introduction |
 |----------|--------------|

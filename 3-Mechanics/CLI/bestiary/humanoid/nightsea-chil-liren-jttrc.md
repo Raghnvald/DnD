@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightsea Chil-liren
+- "Nightsea Chil-liren"
 ---
-# [Nightsea Chil-liren](3-Mechanics\CLI\bestiary\humanoid/nightsea-chil-liren-jttrc.md)
+# [Nightsea Chil-liren](3-Mechanics/CLI/bestiary/humanoid/nightsea-chil-liren-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 177*  
 
 Janya is populated by descendants of Djaynai who escaped into the sea during the Passage of Vultures. The magic of Djaynaian transmuters and that of the Nightsea itself gave these people the ability to live beneath the waves. Now known as Nightsea Chil-liren, the people of Janya look similar to the humans of Djaynai, but their brown skin is often tinged shades of gray, and eel-like fins run along their arms and legs.
@@ -36,9 +36,12 @@ Janya is populated by descendants of Djaynai who escaped into the sea during the
   - !!int "12"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"
 "traits":
@@ -51,6 +54,6 @@ Janya is populated by descendants of Djaynai who escaped into the sea during the
     "name": "Spear"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/nightsea-chil-liren-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/nightsea-chil-liren-jttrc.webp"
 ```
 ^statblock

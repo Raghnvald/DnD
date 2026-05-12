@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Titan
+- "Warforged Titan"
 ---
-# [Warforged Titan](3-Mechanics\CLI\bestiary\construct/warforged-titan-erlw.md)
+# [Warforged Titan](3-Mechanics/CLI/bestiary/construct/warforged-titan-erlw.md)
 *Source: Eberron: Rising from the Last War p. 315*  
 
 Warforged titans are hulking constructs built to wreak paths of destruction through enemy armies. Some of the most feared combatants of the Last War, warforged titans are barely sentient, with just enough intelligence to follow commands.
@@ -55,12 +55,12 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
 "actions":
   - "desc": "The warforged titan makes one axehand attack and one hammerfist attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) slashing damage, plus 11 (2d10) slashing damage if the target is\
-      \ prone."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) slashing damage, plus 11 (2d10) slashing damage if the target\
+      \ is prone."
     "name": "Axehand"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage. If the target is a creature, it must succeed\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 17 Strength saving throw or be knocked prone."
     "name": "Hammerfist"
   - "desc": "The warforged titan makes a sweep with its axehand, and each creature\
@@ -70,6 +70,6 @@ In the Age of Giants, giant artificers built mindless war golems to aid them in 
     "name": "Sweeping Axe (Recharge 6)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/warforged-titan-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/warforged-titan-erlw.webp"
 ```
 ^statblock

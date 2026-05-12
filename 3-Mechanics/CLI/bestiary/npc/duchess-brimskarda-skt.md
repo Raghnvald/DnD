@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duchess Brimskarda
+- "Duchess Brimskarda"
 ---
-# [Duchess Brimskarda](3-Mechanics\CLI\bestiary\npc/duchess-brimskarda-skt.md)
+# [Duchess Brimskarda](3-Mechanics/CLI/bestiary/npc/duchess-brimskarda-skt.md)
 *Source: Storm King's Thunder p. 185*  
 
 ```statblock
@@ -38,29 +38,31 @@ aliases:
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "fire"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Giant, Goblin"
 "cr": "9"
 "traits":
-  - "desc": "Brimskarda carries a potion of invulnerability, which she quaffs on her\
-      \ first turn in combat."
+  - "desc": "Brimskarda carries a [potion of invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability-xdmg.md),\
+      \ which she quaffs on her first turn in combat."
     "name": "Special Equipment"
 "actions":
   - "desc": "The giant makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (6d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (6d6 + 7) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Iron Cauldron"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/duchess-brimskarda-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/duchess-brimskarda-skt.webp"
 ```
 ^statblock

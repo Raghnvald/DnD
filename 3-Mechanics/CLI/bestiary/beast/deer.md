@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deer
+- "Deer"
 ---
-# [Deer](3-Mechanics\CLI\bestiary\beast/deer.md)
+# [Deer](3-Mechanics/CLI/bestiary/beast/deer.md)
 *Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -38,12 +38,12 @@ aliases:
 "languages": ""
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/deer.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/deer.webp"
 ```
 ^statblock
 

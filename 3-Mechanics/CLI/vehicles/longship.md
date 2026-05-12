@@ -8,10 +8,9 @@ tags:
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/ship
 aliases:
-- Longship
+- "Longship"
 ---
 # Longship
-%%-- Embedded content starts on the next line. --%%
 *Source: Ghosts of Saltmarsh p. 190*  
 
 Longships are vessels that rely on a rowing crew and sails to move across the sea. These ships are typically used to carry soldiers into combat. The size of a longship makes it easy for troops to get on and off quickly, making it the perfect ship for engaging in surprise strikes.
@@ -27,9 +26,9 @@ A longship has the following features:
 
 A longship requires a crew of forty to properly sail or row the vessel and often carries extra passengers or soldiers. If the characters are guests on a longship, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
 
-- One captain ([berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker.md))  
-- Five other officers: a first mate, a bosun, a quartermaster, a surgeon, and a cook ([berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker.md))  
-- Thirty-four sailors ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md))  
+- One captain (berserker)  
+- Five other officers: a first mate, a bosun, a quartermaster, a surgeon, and a cook (berserkers)  
+- Thirty-four sailors (commoners)  
 
 ## Longship Deck
 
@@ -42,7 +41,7 @@ The deck of the longship has the following features:
 
 ```ad-statblock
 title: Longship
-![](/3-Mechanics/CLI/vehicles/token/longship.webp#token)
+![](3-Mechanics/CLI/vehicles/token/longship.webp#token)
 *Gargantuan vehicle (70 ft. by 20 ft.); sea*
 
 - **Creature Capacity** 40 crew, 100 passengers

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Sovereign Types
+- "Sovereign Types"
 ---
 # Sovereign Types
 *Source: Tasha's Cauldron of Everything p. 100* 
 
 **Sovereign Types**
-
-`dice: [](sovereign-types-tce.md#^sovereign-types)`
 
 | dice: d6 | Sovereign |
 |----------|-----------|

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/feat
 aliases:
-- Soul of the Storm Giant
+- "Soul of the Storm Giant"
 ---
 # Soul of the Storm Giant
 *Source: Bigby Presents: Glory of the Giants p. 19*  

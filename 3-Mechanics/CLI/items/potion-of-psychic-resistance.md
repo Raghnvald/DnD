@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Psychic Resistance"
 ---
 # Potion of Psychic Resistance

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Apocalyptic Warnings
+- "Apocalyptic Warnings"
 ---
 # Apocalyptic Warnings
 *Source: The Book of Many Things p. 96* 
 
 **Apocalyptic Warnings**
-
-`dice: [](apocalyptic-warnings-bmt.md#^apocalyptic-warnings)`
 
 | dice: d12 | Warning |
 |-----------|---------|

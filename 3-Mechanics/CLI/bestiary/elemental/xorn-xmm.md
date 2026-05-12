@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xorn
+- "Xorn"
 ---
-# [Xorn](3-Mechanics\CLI\bestiary\elemental/xorn-xmm.md)
+# [Xorn](3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md)
 *Source: Monster Manual (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Xorn
@@ -34,8 +34,6 @@ Rapt gourmands, xorn focus on their next meals. They care little for living crea
 Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's favorite fare.
 
 **Xorn Delicacies**
-
-`dice: [](xorn-xmm.md#^xorn-delicacies)`
 
 | dice: 1d8 | The Xorn Craves... |
 |-----------|--------------------|
@@ -67,14 +65,14 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"condition_immunities": "[paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., Tremorsense\
   \ 60 ft., passive Perception 16"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -88,18 +86,20 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 "actions":
   - "desc": "The xorn makes one Bite attack and three Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 17 (4d6 + 3) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 17 (4d6 + 3) Piercing\
+      \ damage."
     "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d10 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d10 + 3) Slashing\
+      \ damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The xorn moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ or [Burrow Speed](/3-Mechanics/CLI/variant-rules/burrow-speed-xphb.md) straight\
-      \ toward an enemy it can sense."
+  - "desc": "The xorn moves up to its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+      \ or [Burrow Speed](3-Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md)\
+      \ straight toward an enemy it can sense."
     "name": "Charge"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/xorn-xmm.webp"
 ```
 ^statblock
 

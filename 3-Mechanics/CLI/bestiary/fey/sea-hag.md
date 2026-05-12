@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sea Hag
+- "Sea Hag"
 ---
-# [Sea Hag](3-Mechanics\CLI\bestiary\fey/sea-hag.md)
+# [Sea Hag](3-Mechanics/CLI/bestiary/fey/sea-hag.md)
 *Source: Monster Manual p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Sea hags live in dismal and polluted underwater lairs, surrounded by merrow and other aquatic monsters.
@@ -77,18 +77,18 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 > 
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 > 
-> 1st level (4 slots): [identify](/3-Mechanics/CLI/spells/identify.md), [ray of sickness](/3-Mechanics/CLI/spells/ray-of-sickness.md)  
-> 2nd level (3 slots): [hold person](/3-Mechanics/CLI/spells/hold-person.md), [locate object](/3-Mechanics/CLI/spells/locate-object.md)  
-> 3rd level (3 slots): [bestow curse](/3-Mechanics/CLI/spells/bestow-curse.md), [counterspell](/3-Mechanics/CLI/spells/counterspell.md), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt.md)  
-> 4th level (3 slots): [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer.md), [polymorph](/3-Mechanics/CLI/spells/polymorph.md)  
-> 5th level (2 slots): [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane.md), [scrying](/3-Mechanics/CLI/spells/scrying.md)  
-> 6th level (1 slot): [eyebite](/3-Mechanics/CLI/spells/eyebite.md)  
+> 1st level (4 slots): [identify](3-Mechanics/CLI/spells/identify.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md)  
+> 2nd level (3 slots): [hold person](3-Mechanics/CLI/spells/hold-person.md), [locate object](3-Mechanics/CLI/spells/locate-object.md)  
+> 3rd level (3 slots): [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [counterspell](3-Mechanics/CLI/spells/counterspell.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)  
+> 4th level (3 slots): [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md)  
+> 5th level (2 slots): [contact other plane](3-Mechanics/CLI/spells/contact-other-plane.md), [scrying](3-Mechanics/CLI/spells/scrying.md)  
+> 6th level (1 slot): [eyebite](3-Mechanics/CLI/spells/eyebite.md)  
 > 
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 > 
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `dice:3d10|noform|noparens|avg` (`3d10`) psychic damage and is [blinded](/3-Mechanics/CLI/conditions.md#Blinded) for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) for 24 hours.
 > 
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](/3-Mechanics/CLI/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
 ^hag-covens
 
 ```statblock
@@ -109,8 +109,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   - !!int "12"
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Aquan, Common, Giant"
 "cr": "2"
 "traits":
@@ -118,12 +118,12 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     "name": "Amphibious"
   - "desc": "Any humanoid that starts its turn within 30 feet of the hag and can see\
       \ the hag's true form must make a DC 11 Wisdom saving throw. On a failed save,\
-      \ the creature is [frightened](/3-Mechanics/CLI/conditions.md#Frightened) for\
-      \ 1 minute. A creature can repeat the saving throw at the end of each of its\
-      \ turns, with disadvantage if the hag is within line of sight, ending the effect\
-      \ on itself on a success. If a creature's saving throw is successful or the\
-      \ effect ends for it, the creature is immune to the hag's Horrific Appearance\
-      \ for the next 24 hours.\n\nUnless the target is [surprised](/3-Mechanics/CLI/conditions.md#Surprised)\
+      \ the creature is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, with disadvantage if the hag is within line of sight, ending the\
+      \ effect on itself on a success. If a creature's saving throw is successful\
+      \ or the effect ends for it, the creature is immune to the hag's Horrific Appearance\
+      \ for the next 24 hours.\n\nUnless the target is [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
       \ or the revelation of the hag's true form is sudden, the target can avert its\
       \ eyes and avoid making the initial saving throw. Until the start of its next\
       \ turn, a creature that averts its eyes has disadvantage on attack rolls against\
@@ -133,7 +133,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claws"
-  - "desc": "The hag targets one [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+  - "desc": "The hag targets one [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ creature she can see within 30 feet of her. If the target can see the hag,\
       \ it must succeed on a DC 11 Wisdom saving throw against this magic or drop\
       \ to 0 hit points."
@@ -145,8 +145,8 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
       \ up to physical inspection. For example, the hag could appear to have no claws,\
       \ but someone touching her hand might feel the claws. Otherwise, a creature\
       \ must take an action to visually inspect the illusion and succeed on a DC 16\
-      \ Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check\
-      \ to discern that the hag is disguised."
+      \ Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
+      \ check to discern that the hag is disguised."
     "name": "Illusory Appearance"
 "lair_actions":
   - "desc": "The following lair actions are options for grandmothers and powerful\
@@ -167,7 +167,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
       \ for 1 minute, although a steady, strong underwater current disperses the ink\
       \ on initiative count 10. The hag ignores the obscuring effect of the ink. \
       \ \n- The hag chooses one humanoid within the lair and instantly creates a simulacrum\
-      \ of that creature (as if created with the [simulacrum](/3-Mechanics/CLI/spells/simulacrum.md)\
+      \ of that creature (as if created with the [simulacrum](3-Mechanics/CLI/spells/simulacrum.md)\
       \ spell). This hideous simulacrum is formed out of seaweed, slime, half-eaten\
       \ fish, and other garbage, but still generally resembles the creature it is\
       \ imitating. This simulacrum obeys the hag's commands and is destroyed on initiative\
@@ -179,12 +179,12 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
       \ of a single hag, including some that can directly harm intruders. Any regional\
       \ effect that requires a creature to make a saving throw uses the save DC of\
       \ the hag's most powerful ability. These effects either end immediately if the\
-      \ hag dies or abandons the lair, or take up to 2d10 days to fade away.\n\nThe\
-      \ region within 1 mile of a grandmother hag's lair is warped by the creature's\
+      \ hag dies or abandons the lair, or take up to 2d10 days to fade away.\n\n\
+      The region within 1 mile of a grandmother hag's lair is warped by the creature's\
       \ fell magic, which creates one or more of the following effects:\n\n- Birds,\
       \ rodents, snakes, spiders, or toads (or some other creatures appropriate to\
       \ the hag) are found in great profusion.  \n- Beasts that have an Intelligence\
-      \ score of 2 or lower are [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ score of 2 or lower are [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ by the hag and directed to be aggressive toward intruders in the area.  \n\
       - Strange carved figurines, twig fetishes, or rag dolls magically appear in\
       \ trees.  \n\nA powerful sea hag creates one or more of the following additional\
@@ -198,7 +198,7 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
     "name": ""
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/sea-hag.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/sea-hag.webp"
 ```
 ^statblock
 

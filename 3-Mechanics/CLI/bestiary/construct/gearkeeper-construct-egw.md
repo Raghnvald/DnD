@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gearkeeper Construct
+- "Gearkeeper Construct"
 ---
-# [Gearkeeper Construct](3-Mechanics\CLI\bestiary\construct/gearkeeper-construct-egw.md)
+# [Gearkeeper Construct](3-Mechanics/CLI/bestiary/construct/gearkeeper-construct-egw.md)
 *Source: Explorer's Guide to Wildemount p. 290*  
 
 Rolling, deadly whirlwinds of metal plates and curving blades, these clockwork automatons were initially designed by tinkerers and mage engineers to be sentries and guardians in the deepest of vaults during the Age of Arcanum. While most of these majestic and deadly curiosities have fallen to rust and ruin, forgotten along with their long-destroyed and buried societies, some continue to patrol the tunnels and pathways of forgotten tombs and dungeons, following their original operations and directives to protect the contents of their domain.
@@ -41,11 +41,8 @@ Reverse engineering from the recovered shells and scraps of excavated gearkeeper
 "speed": "60 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "blindsight 120 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -64,8 +61,8 @@ Reverse engineering from the recovered shells and scraps of excavated gearkeeper
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 18\
       \ (3d8 + 5) slashing damage."
     "name": "Arm Blade"
-  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 90 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) piercing damage, and the target is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Ranged Weapon Attack:* +9 to hit, range 90 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) piercing damage, and the target is knocked prone."
     "name": "Spear Launcher"
   - "desc": "The gearkeeper jettisons a spray of jagged metal in a 30-foot cone. Each\
       \ creature in the area must make a DC 15 Dexterity saving throw, taking 21 (6d6)\
@@ -73,6 +70,6 @@ Reverse engineering from the recovered shells and scraps of excavated gearkeeper
     "name": "Shrapnel Blast (Recharge 6)"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/gearkeeper-construct-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/gearkeeper-construct-egw.webp"
 ```
 ^statblock

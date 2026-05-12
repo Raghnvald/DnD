@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/war
-aliases: 
-- Kord
+aliases:
+- "Kord"
 ---
 # Kord
 *Source: Explorer's Guide to Wildemount p. 23* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-kord.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-kord.webp#symbol)
 
 - **Alignment**: Chaotic Neutral
 - **Category**: Prime Deities

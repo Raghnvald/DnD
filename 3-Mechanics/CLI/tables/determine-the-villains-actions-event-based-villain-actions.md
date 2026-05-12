@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Determine the Villain's Actions; Event-Based Villain Actions
+- "Determine the Villain's Actions; Event-Based Villain Actions"
 ---
 # Determine the Villain's Actions; Event-Based Villain Actions
 *Source: Dungeon Master's Guide p. 75* 
 
 **Event-Based Villain Actions**
-
-`dice: [](determine-the-villains-actions-event-based-villain-actions.md#^event-based-villain-actions)`
 
 | dice: d6 | Type of Actions |
 |----------|-----------------|

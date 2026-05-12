@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases:
 - "Secondhand Steal Trinket"
 ---
 # Secondhand Steal Trinket
@@ -15,8 +15,6 @@ aliases:
 
 
 **Secondhand Steals**
-
-`dice: [](secondhand-steal-trinket-bmt.md#^secondhand-steals)`
 
 | dice: d8 | Secondhand Steal |
 |----------|------------------|

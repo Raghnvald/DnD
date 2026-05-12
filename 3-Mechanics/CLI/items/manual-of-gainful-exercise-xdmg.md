@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Manual of Gainful Exercise"
 ---
 # Manual of Gainful Exercise

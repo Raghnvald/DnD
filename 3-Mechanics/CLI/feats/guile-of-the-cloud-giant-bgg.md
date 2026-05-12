@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/feat
 aliases:
-- Guile of the Cloud Giant
+- "Guile of the Cloud Giant"
 ---
 # Guile of the Cloud Giant
 *Source: Bigby Presents: Glory of the Giants p. 18*  

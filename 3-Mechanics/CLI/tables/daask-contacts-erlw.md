@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Daask Contacts
+- "Daask Contacts"
 ---
 # Daask Contacts
 *Source: Eberron: Rising from the Last War p. 179* 
 
 **Daask Contacts**
-
-`dice: [](daask-contacts-erlw.md#^daask-contacts)`
 
 | dice: d6 | Contact |
 |----------|---------|

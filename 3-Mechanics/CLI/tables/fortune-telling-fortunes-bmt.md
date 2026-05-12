@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Fortune-Telling; Fortunes
+- "Fortune-Telling; Fortunes"
 ---
 # Fortune-Telling; Fortunes
 *Source: The Book of Many Things p. 110* 
 
 **Fortunes**
-
-`dice: [](fortune-telling-fortunes-bmt.md#^fortunes)`
 
 | dice: 1d9 | Card | Fortune |
 |-----------|------|---------|

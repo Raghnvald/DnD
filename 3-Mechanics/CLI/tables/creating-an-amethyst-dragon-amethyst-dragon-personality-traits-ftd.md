@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating an Amethyst Dragon; Amethyst Dragon Personality Traits
+- "Creating an Amethyst Dragon; Amethyst Dragon Personality Traits"
 ---
 # Creating an Amethyst Dragon; Amethyst Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 76* 
 
 **Amethyst Dragon Personality Traits**
-
-`dice: [](creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd.md#^amethyst-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

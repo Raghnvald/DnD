@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "House of Cards"
 ---
 # House of Cards

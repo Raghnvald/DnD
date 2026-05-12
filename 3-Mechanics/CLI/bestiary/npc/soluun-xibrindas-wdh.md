@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Soluun Xibrindas
+- "Soluun Xibrindas"
 ---
-# [Soluun Xibrindas](3-Mechanics\CLI\bestiary\npc/soluun-xibrindas-wdh.md)
+# [Soluun Xibrindas](3-Mechanics/CLI/bestiary/npc/soluun-xibrindas-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 202*  
 
 Soluun is a sadistic, fanatical bully who is fiercely loyal to Bregan D'aerthe, and to Jarlaxle in particular. His younger brother, Nar'l, has infiltrated the Xanathar Guild. Soluun considers Nar'l a weakling who turned to arcane magic by way of compensation, and he has never had much faith in his brother or his abilities.
@@ -26,7 +26,8 @@ Soluun has a burning hatred of surface elves and half-elves, having been taught 
 "subtype": "elf"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "studded leather, shield"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -43,20 +44,25 @@ Soluun has a burning hatred of surface elves and half-elves, having been taught 
   - "constitution": !!int "4"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
-"senses": "darkvision 120 ft., passive Perception 13"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Elvish, Undercommon"
 "cr": "4"
 "traits":
   - "desc": "Soluun's spellcasting ability is Charisma. It can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** dancing lights\n\
-      \n**1/day each:** darkness, faerie fire, levitate (self only)"
+      \ spells, requiring no material components:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Soluun has advantage on saving throws against being charmed, and magic\
-      \ can't put Soluun to sleep."
+  - "desc": "Soluun has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put Soluun to sleep."
     "name": "Fey Ancestry"
   - "desc": "Being within 5 feet of a hostile creature or attacking at long range\
       \ doesn't impose disadvantage on Soluun's ranged attack rolls with a pistol.\
@@ -64,24 +70,26 @@ Soluun has a burning hatred of surface elves and half-elves, having been taught 
       \ ranged attacks with a pistol."
     "name": "Gunslinger"
   - "desc": "While in sunlight, Soluun has disadvantage on attack rolls, as well as\
-      \ on Wisdom (Perception) checks that rely on sight."
+      \ on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "Four packets of smokepowder and a pouch containing 20 pistol bullets"
     "name": "Equipment"
   - "desc": "Whilst wearing these boots Soluun's steps make no sound and he has advantage\
-      \ on any Dexterity (Stealth) checks that rely on moving silently."
+      \ on any Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks\
+      \ that rely on moving silently."
     "name": "Boots of Elvenkind"
 "actions":
   - "desc": "Soluun makes two scimitar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) slashing damage."
     "name": "Scimitar"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 30/90 ft., one target. *Hit:*\
       \ 9 (1d10 + 4) piercing damage plus 11 (2d10) poison damage."
     "name": "Poisonous Pistol"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/soluun-xibrindas-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/soluun-xibrindas-wdh.webp"
 ```
 ^statblock

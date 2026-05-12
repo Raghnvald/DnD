@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant
+- "Storm Giant"
 ---
-# [Storm Giant](3-Mechanics\CLI\bestiary\giant/storm-giant-xmm.md)
+# [Storm Giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)
 *Source: Monster Manual (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Storm Giant
@@ -22,7 +22,7 @@ aliases:
 *Giant of Seas and Skies*
 
 - **Habitat.** Coastal, Underwater  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Among the tallest giants, storm giants live amid extreme forces of nature. In palaces at the bottom of the sea and castles floating amid the clouds, they revel in the power of mighty storms. When angered, they can shape the weather and call down devastating lightning. More often, though, these giants watch the rise and fall of nations and interpret supernatural omens, interfering in the world only when they're needed most.
 
@@ -49,17 +49,17 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+14"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [Truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
   \ 30 ft., passive Perception 20"
 "languages": "Common, Giant"
 "cr": "13"
@@ -70,27 +70,27 @@ Among the tallest giants, storm giants live amid extreme forces of nature. In pa
   - "desc": "The giant makes two attacks, using Storm Sword or Thunderbolt in any\
       \ combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +14, reach 10 ft. *Hit:* 23 (4d6 + 9) Slashing damage\
-      \ plus 13 (3d8) Lightning damage."
+  - "desc": "*Melee Attack Roll:* +14, reach 10 ft. *Hit:* 23 (4d6 + 9) Slashing\
+      \ damage plus 13 (3d8) Lightning damage."
     "name": "Storm Sword"
   - "desc": "*Ranged Attack Roll:* +14, range 500 ft. *Hit:* 22 (2d12 + 9) Lightning\
-      \ damage, and the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [Deafened](/3-Mechanics/CLI/conditions.md#Deafened) conditions until the\
-      \ start of the giant's next turn."
+      \ damage, and the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [Deafened](3-Mechanics/CLI/rules/conditions.md#Deafened) conditions until\
+      \ the start of the giant's next turn."
     "name": "Thunderbolt"
   - "desc": "*Dexterity Saving Throw:* DC 18, each creature in a 10-foot-radius, 40-foot-high\
-      \ [Cylinder](/3-Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md)\
+      \ [Cylinder](3-Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md)\
       \ originating from a point the giant can see within 500 feet. *Failure:* 55\
       \ (10d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Storm (Recharge 5-6)"
   - "desc": "The giant casts one of the following spells, requiring no Material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\n**At will:**\
-      \ [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Light](/3-Mechanics/CLI/spells/light-xphb.md)\n\
-      \n**1/day:** [Control Weather](/3-Mechanics/CLI/spells/control-weather-xphb.md)"
+      \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Light](3-Mechanics/CLI/spells/light-xphb.md)\n\
+      \n**1/day:** [Control Weather](3-Mechanics/CLI/spells/control-weather-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/storm-giant-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/storm-giant-xmm.webp"
 ```
 ^statblock
 

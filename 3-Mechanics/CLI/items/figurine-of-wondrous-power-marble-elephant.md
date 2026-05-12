@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Figurine of Wondrous Power, Marble Elephant"
 ---
 # Figurine of Wondrous Power, Marble Elephant
 *Wondrous item, major, rare*  
-
+![](3-Mechanics/CLI/items/img/figurine-of-wondrous-power-marble-elephant.webp#right)
 
 
 A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
@@ -22,6 +22,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Marble Elephant
 
-This marble statuette is about 4 inches high and long. It can become an [elephant](/3-Mechanics/CLI/bestiary/beast/elephant.md) for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
+This marble statuette is about 4 inches high and long. It can become an elephant for up to 24 hours. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

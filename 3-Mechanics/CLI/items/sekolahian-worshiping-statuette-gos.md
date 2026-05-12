@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/gos
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Sekolahian Worshiping Statuette"
 ---
 # Sekolahian Worshiping Statuette

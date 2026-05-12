@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vistana Assassin
+- "Vistana Assassin"
 ---
-# [Vistana Assassin](3-Mechanics\CLI\bestiary\humanoid/vistana-assassin-cos.md)
+# [Vistana Assassin](3-Mechanics/CLI/bestiary/humanoid/vistana-assassin-cos.md)
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -38,23 +38,25 @@ aliases:
   - "dexterity": !!int "6"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+6"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+9"
 "damage_resistances": "poison"
+"gear":
+  - "light crossbow"
+  - "shortsword"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"
 "cr": "8"
 "traits":
   - "desc": "During its first turn, the assassin has advantage on attack rolls against\
       \ any creature that hasn't taken a turn. Any hit the assassin scores against\
-      \ a [surprised](/3-Mechanics/CLI/conditions.md#Surprised) creature is a critical\
-      \ hit."
+      \ a surprised creature is a critical hit."
     "name": "Assassinate"
   - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the assassin instead takes no damage\
@@ -62,21 +64,21 @@ aliases:
     "name": "Evasion"
   - "desc": "The assassin deals an extra 14 (4d6) damage when it hits a target with\
       \ a weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of the assassin that isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ and the assassin doesn't have disadvantage on the attack roll."
+      \ within 5 feet of an ally of the assassin that isn't incapacitated and the\
+      \ assassin doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
   - "desc": "The assassin makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution\
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution\
-      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
-      \ damage on a successful one."
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Light Crossbow"
   - "desc": "11\n\n- The target is unable to perform a certain kind of act involving\
       \ fine motor control, such as tying knots, writing, playing an instrument, sewing,\
@@ -87,20 +89,18 @@ aliases:
       \ target bad breath. When this curse ends, the Vistana takes 1d6 psychic damage.\
       \  \n- A nonmagical item in the target's possession (chosen by the DM) disappears\
       \ and can't be found until the curse ends. The lost item can weigh no more than\
-      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n-\
-      \ The target gains vulnerability to a damage type of the Vistana's choice. When\
+      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n\
+      - The target gains vulnerability to a damage type of the Vistana's choice. When\
       \ this curse ends, the Vistana takes 3d6 psychic damage.  \n- The target has\
       \ disadvantage on ability checks and saving throws tied to one ability score\
       \ of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic\
       \ damage.  \n- The target's attunement to one magic item (chosen by the DM)\
       \ ends, and the target can't attune to the chosen item until the curse ends.\
       \ When this curse ends, the Vistana takes 5d6 psychic damage.  \n- The target\
-      \ is [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ or both. When this curse ends, the Vistana takes 5d6 psychic damage.  \n\n\
-      The curse lasts until ended with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell,\
-      \ or similar magic. It doesn't end when the target dies. If a cursed target\
-      \ is returned to life, the curse remains in effect."
+      \ is blinded, deafened, or both. When this curse ends, the Vistana takes 5d6\
+      \ psychic damage.  \n\nThe curse lasts until ended with a greater restoration\
+      \ spell, a remove curse spell, or similar magic. It doesn't end when the target\
+      \ dies. If a cursed target is returned to life, the curse remains in effect."
     "name": "Curse (Recharges After a Long Rest)"
   - "desc": "11\n\nA Vistana who uses Evil Eye can't use it again before finishing\
       \ a short or long rest. Once a target succeeds on a saving throw against a Vistana's\
@@ -108,6 +108,6 @@ aliases:
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/vistana-assassin-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/vistana-assassin-cos.webp"
 ```
 ^statblock

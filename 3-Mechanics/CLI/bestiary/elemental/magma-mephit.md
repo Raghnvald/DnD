@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Magma Mephit
+- "Magma Mephit"
 ---
-# [Magma Mephit](3-Mechanics\CLI\bestiary\elemental/magma-mephit.md)
-*Source: Monster Manual p. 216, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Magma Mephit](3-Mechanics/CLI/bestiary/elemental/magma-mephit.md)
+*Source: Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Mephits
 
@@ -48,17 +48,19 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Ignan, Terran"
 "cr": "1/2"
 "traits":
-  - "desc": "The mephit can innately cast heat metal (spell save DC 10), requiring\
-      \ no material components. Its innate spellcasting ability is Charisma.\n"
+  - "desc": "The mephit can innately cast [heat metal](3-Mechanics/CLI/spells/heat-metal.md)\
+      \ (spell save DC 10), requiring no material components. Its innate spellcasting\
+      \ ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a burst of lava. Each creature within\
       \ 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire\
@@ -68,17 +70,16 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
       \ ordinary mound of magma."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3\
-      \ (1d4 + 1) slashing damage plus 2 (1d4) fire damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of fire. Each creature in that area\
-      \ must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a\
-      \ failed save, or half as much damage on a successful one."
+      \ must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on\
+      \ a failed save, or half as much damage on a successful one."
     "name": "Fire Breath (Recharge 6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/magma-mephit.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/magma-mephit.webp"
 ```
 ^statblock
 

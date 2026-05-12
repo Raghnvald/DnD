@@ -4,12 +4,13 @@ cssclasses:
 - json5e-item
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
+- ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "War Horn of Valor"
 ---
 # War Horn of Valor
-*Wondrous item, rare*  
+*Wondrous item, instrument (horn), rare*  
 
 
 

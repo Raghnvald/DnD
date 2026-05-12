@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Pelor
+aliases:
+- "Pelor"
 ---
 # Pelor
 *Source: Player's Handbook p. 295* 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/plant
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sinensa
+- "Sinensa"
 ---
-# [Sinensa](3-Mechanics\CLI\bestiary\npc/sinensa-dosi.md)
+# [Sinensa](3-Mechanics/CLI/bestiary/npc/sinensa-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 45*  
 
 Myconids are intelligent, mobile fungi that live in caves, seek enlightenment, and dislike violence. Adult myconids live and work together in colonies and practice a form of communal meditation called a meld, in which they seek to transcend mundane reality through shared hallucination.
@@ -51,8 +51,8 @@ Myconid leaders like Sinensa use their Hallucination Spores to help myconids cre
 "actions":
   - "desc": "The myconid makes one Fist attack and uses its Hallucination Spores."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (3d4\
-      \ + 1) bludgeoning damage plus 7 (2d4) poison damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (3d4 + 1) bludgeoning damage plus 7 (2d4) poison damage."
     "name": "Fist"
   - "desc": "Sinensa ejects spores at one creature it can see within 5 feet of it.\
       \ The target must succeed on a DC 12 Constitution saving throw or be poisoned\
@@ -68,6 +68,6 @@ Myconid leaders like Sinensa use their Hallucination Spores to help myconids cre
     "name": "Rapport Spores"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sinensa-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sinensa-dosi.webp"
 ```
 ^statblock

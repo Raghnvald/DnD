@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+aliases:
 - "Deck of Dimensions"
 ---
 # Deck of Dimensions
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/deck-of-dimensions.webp#right)
+![](3-Mechanics/CLI/items/img/deck-of-dimensions.webp#right)
 
 
 The backs of the cards in this deck are decorated with intricate designs representing different planes of existence. The deck has 6 charges. While holding it, you can expend 1 or more of its charges to use the following properties:
@@ -20,6 +20,6 @@ The backs of the cards in this deck are decorated with intricate designs represe
 - **Riffling Portal.** As an action, you can expend 3 charges to cast the Arcane Gate spell from the deck. The deck vanishes, and fluttering cards create the spell's portal rings. When the spell ends, the deck reappears in your possession.  
 - **Shuffling Stride.** As a bonus action, you can expend 1 charge to throw a card from the deck to an unoccupied space within 60 feet of yourself and teleport, along with any equipment you're wearing or carrying, to that space. The card then vanishes and returns to the deck.  
 
-The deck regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn.
+The deck regains `1d6` expended charges daily at dawn.
 
 *Source: The Book of Many Things p. 40*

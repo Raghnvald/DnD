@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/bard/eloquence
 aliases:
-- College of Eloquence
+- "College of Eloquence"
 ---
 # College of Eloquence
 *[Bard](./bard-xphb.md): Bard Subclass*  
@@ -47,17 +47,15 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### College of Eloquence (Level 3)
-
 Adherents of the College of Eloquence master the art of oratory. Persuasion is regarded as a high art, and a well-reasoned, well-spoken argument often proves more persuasive than facts. These bards wield a blend of logic and theatrical wordplay, winning over skeptics and detractors with logical arguments and plucking at heartstrings to appeal to the emotions of audiences.
+
+## Subclass Features
 
 ### Silver Tongue (Level 3)
 
 *3rd-level College of Eloquence feature*
 
-You are a master at saying the right thing at the right time. When you make a Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) or Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check, you can treat a `dice:d20|noform|noparens|avg` (`d20`) roll of 9 or lower as a 10.
+You are a master at saying the right thing at the right time. When you make a Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) or Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check, you can treat a `d20` roll of 9 or lower as a 10.
 
 ### Unsettling Words (Level 3)
 

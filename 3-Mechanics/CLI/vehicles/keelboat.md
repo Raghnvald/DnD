@@ -8,10 +8,9 @@ tags:
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/ship
 aliases:
-- Keelboat
+- "Keelboat"
 ---
 # Keelboat
-%%-- Embedded content starts on the next line. --%%
 *Source: Ghosts of Saltmarsh p. 188*  
 
 One of the smallest sailing vessels, keelboats can be sailed or rowed by a single person. These ships often transport small amounts of cargo or passengers. They're perfect for pleasure cruises, as they're easier and less expensive to operate than larger vessels.
@@ -24,7 +23,7 @@ A keelboat has the following features:
 
 ## Example Keelboat Crew
 
-A keelboat requires a single crew member to operate smoothly. If the characters are guests on a keelboat, the crew consists of a single captain who has the statistics of a [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) with proficiency with water vehicles.
+A keelboat requires a single crew member to operate smoothly. If the characters are guests on a keelboat, the crew consists of a single captain who has the statistics of a bandit captain with proficiency with water vehicles.
 
 ## Keelboat Deck
 
@@ -45,7 +44,7 @@ The keelboat cabin has the following features:
 
 ```ad-statblock
 title: Keelboat
-![](/3-Mechanics/CLI/vehicles/token/keelboat.webp#token)
+![](3-Mechanics/CLI/vehicles/token/keelboat.webp#token)
 *Gargantuan vehicle (60 ft. by 20 ft.); sea*
 
 - **Creature Capacity** 3 crew, 4 passengers
@@ -96,7 +95,7 @@ Move up to the speed of one of its movement components, with one 90-degree turn.
 - **Armor Class** 15
 - **Hit Points** 50
 
-*Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `+6` to hit, range 120/480 ft., one target. *Hit:* 16 (`3d10`) piercing damage.
 
 Keelboats typically include a ballista only when they are equipped for combat.
 ```

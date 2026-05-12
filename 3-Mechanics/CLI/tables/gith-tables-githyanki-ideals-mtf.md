@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githyanki Ideals
+- "Gith Tables; Githyanki Ideals"
 ---
 # Gith Tables; Githyanki Ideals
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githyanki Ideals**
-
-`dice: [](gith-tables-githyanki-ideals-mtf.md#^githyanki-ideals)`
 
 | dice: d4 | Trait |
 |----------|-------|

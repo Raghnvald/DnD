@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sprite
+- "Sprite"
 ---
-# [Sprite](3-Mechanics\CLI\bestiary\fey/sprite.md)
+# [Sprite](3-Mechanics/CLI/bestiary/fey/sprite.md)
 *Source: Monster Manual p. 283. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 In secret groves and shaded glens, tiny sprites with dragonfly wings flutter. For all their fey splendor, however, sprites lack warmth and compassion. They are aggressive and hardy warriors, taking severe measures to ward strangers away from their homes. Interlopers that come too close have their moral character judged, then are put to sleep or frightened off.
@@ -47,7 +47,7 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
 "type": "fey"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "2"
 "hit_dice": "1d4"
 "modifier": !!int "4"
@@ -60,39 +60,42 @@ Unlike pixies, sprites rarely indulge in frivolous merriment and fun. They are f
   - !!int "11"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ slashing damage."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:*\
       \ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving\
-      \ throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1\
-      \ minute. If its saving throw result is 5 or lower, the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ target falls [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) for\
-      \ the same duration, or until it takes damage or another creature takes an action\
-      \ to shake it awake."
+      \ throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for\
+      \ 1 minute. If its saving throw result is 5 or lower, the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ target falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for the same duration, or until it takes damage or another creature takes\
+      \ an action to shake it awake."
     "name": "Shortbow"
   - "desc": "The sprite touches a creature and magically knows the creature's current\
       \ emotional state. If the target fails a DC 10 Charisma saving throw, the sprite\
       \ also knows the creature's alignment. Celestials, fiends, and undead automatically\
       \ fail the saving throw."
     "name": "Heart Sight"
-  - "desc": "The sprite magically turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ until it attacks or casts a spell, or until its [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ on a spell). Any equipment the sprite wears or carries is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The sprite magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks or casts a spell, or until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the sprite wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/sprite.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/sprite.webp"
 ```
 ^statblock
 

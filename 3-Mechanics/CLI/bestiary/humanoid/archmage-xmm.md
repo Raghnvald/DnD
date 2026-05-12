@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archmage
+- "Archmage"
 ---
-# [Archmage](3-Mechanics\CLI\bestiary\humanoid/archmage-xmm.md)
+# [Archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Archmages have mastered incredible magical power. While some use their magic to protect the world, others become tyrants or pursue forbidden secrets. Many archmages retain magical servants and collect magic items and occult lore.
@@ -23,15 +23,13 @@ Archmages have mastered incredible magical power. While some use their magic to 
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md), Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
 Roll on or choose a result from the Mage Roles table to inspire different sorts of mages.
 
 **Mage Roles**
-
-`dice: [](archmage-xmm.md#^mage-roles)`
 
 | dice: 1d10 | The Mage Is... |
 |------------|----------------|
@@ -74,20 +72,22 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed) (with Mind\
-  \ Blank)"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) (with\
+  \ Mind Blank)"
+"gear":
+  - "[wand](3-Mechanics/CLI/items/wand-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common plus five other languages"
 "cr": "12"
 "traits":
-  - "desc": "The archmage has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The archmage has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -97,30 +97,28 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
       \ 27 (4d10 + 5) Force damage."
     "name": "Arcane Burst"
   - "desc": "The archmage casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Disguise\
-      \ Self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
-      \ each:** [Fly](/3-Mechanics/CLI/spells/fly-xphb.md), [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
-      \ (level 7 version)\n\n**1/day each:** [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\
-      \ (level 9 version), [Mind Blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)\
-      \ (cast before combat), [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md),\
-      \ [Teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)"
+      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Disguise\
+      \ Self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [Light](3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [Fly](3-Mechanics/CLI/spells/fly-xphb.md), [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+      \ (level 7 version)\n\n**1/day each:** [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\
+      \ (level 9 version), [Mind Blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\
+      \ (cast before combat), [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The mage casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+  - "desc": "The mage casts [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "reactions":
-  - "desc": "The archmage casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
-      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The archmage casts [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md)\
+      \ or [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
       \ trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic (3/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/archmage-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/archmage-xmm.webp"
 ```
 ^statblock
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Half-Dragons; Half-Dragon Origin
+- "Half-Dragons; Half-Dragon Origin"
 ---
 # Half-Dragons; Half-Dragon Origin
 *Source: Fizban's Treasury of Dragons p. 39* 
 
 **Half-Dragon Origin**
-
-`dice: [](half-dragons-half-dragon-origin-ftd.md#^half-dragon-origin)`
 
 | dice: d6 | Origin |
 |----------|--------|

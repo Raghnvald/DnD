@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fish
+- "Fish"
 ---
-# [Fish](3-Mechanics\CLI\bestiary\beast/fish-gos.md)
+# [Fish](3-Mechanics/CLI/bestiary/beast/fish-gos.md)
 *Source: Ghosts of Saltmarsh p. 224*  
 
 ```statblock
@@ -40,6 +40,6 @@ aliases:
     "name": "Water Breathing"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/fish-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/fish-gos.webp"
 ```
 ^statblock

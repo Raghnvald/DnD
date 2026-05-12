@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/ed
 aliases:
-- Elemental Attunement
+- "Elemental Attunement"
 ---
 # Elemental Attunement
 *Source: Player's Handbook p. 81*  

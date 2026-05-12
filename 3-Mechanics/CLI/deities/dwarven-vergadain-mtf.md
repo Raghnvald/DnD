@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/trickery
-aliases: 
-- Vergadain
+aliases:
+- "Vergadain"
 ---
 # Vergadain
 *Source: Mordenkainen's Tome of Foes p. 73* 

@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Fang of Yeenoghu
+- "Gnoll Fang of Yeenoghu"
 ---
-# [Gnoll Fang of Yeenoghu](3-Mechanics\CLI\bestiary\fiend/gnoll-fang-of-yeenoghu.md)
+# [Gnoll Fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)
 *Source: Monster Manual p. 163*  
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
@@ -48,7 +48,7 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "subtype": "gnoll"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -64,8 +64,8 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Abyssal, Gnoll"
 "cr": "4"
 "traits":
@@ -76,16 +76,16 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 "actions":
   - "desc": "The gnoll makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d6 + 3) piercing damage, and the target must succeed on a DC 12 Constitution\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d6 + 3) piercing damage, and the target must succeed on a DC 12 Constitution\
       \ saving throw or take 7 (2d6) poison damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-fang-of-yeenoghu.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/gnoll-fang-of-yeenoghu.webp"
 ```
 ^statblock
 

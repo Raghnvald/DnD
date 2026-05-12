@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/wizard/abjuration
 aliases:
-- School of Abjuration
+- "School of Abjuration"
 ---
 # School of Abjuration
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -44,13 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Abjuration (Level 2)
-
 The School of Abjuration emphasizes magic that blocks, banishes, or protects. Detractors of this school say that its tradition is about denial, negation rather than positive assertion. You understand, however, that ending harmful effects, protecting the weak, and banishing evil influences is anything but a philosophical void. It is a proud and respected vocation.
 
 Called abjurers, members of this school are sought when baleful spirits require exorcism, when important locations must be guarded against magical spying, and when portals to other planes of existence must be closed.
+
+## Subclass Features
 
 ### Abjuration Savant (Level 2)
 
@@ -70,7 +68,7 @@ Starting at 6th level, when a creature that you can see within 30 feet of you ta
 
 ### Improved Abjuration (Level 10)
 
-Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in [counterspell](/3-Mechanics/CLI/spells/counterspell.md) and [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md)), you add your proficiency bonus to that ability check.
+Beginning at 10th level, when you cast an abjuration spell that requires you to make an ability check as a part of casting that spell (as in [counterspell](3-Mechanics/CLI/spells/counterspell.md) and [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)), you add your proficiency bonus to that ability check.
 
 ### Spell Resistance (Level 14)
 

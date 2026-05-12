@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid/gnome
+- ttrpg-cli/compendium/src/5e/dip
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/gnome
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rock Gnome Recluse
+- "Rock Gnome Recluse"
 ---
-# [Rock Gnome Recluse](3-Mechanics\CLI\bestiary\humanoid/rock-gnome-recluse-dip.md)
+# [Rock Gnome Recluse](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md)
 *Source: Dragon of Icespire Peak p. 62*  
 
 Rock gnome recluses are skilled in the arcane arts. They use their magical talents to create all kinds of wondrous inventions, very few of which work as intended.
@@ -59,11 +59,11 @@ Rock gnome recluses are skilled in the arcane arts. They use their magical talen
       \ gnome chooses within 120 feet of it and deals 3 (1d4 + 1) force damage."
     "name": "Magic Missile (Expends a 1st-Level Spell Slot)"
   - "desc": "*Ranged Spell Attack:* +4 to hit, range 60 ft., one creature. *Hit:*\
-      \ 4 (1d8) cold damage, and the target's speed is reduced by 10 feet until the\
-      \ start of the gnome's next turn."
+      \ 4 (1d8) cold damage, and the target's speed is reduced by 10 feet until\
+      \ the start of the gnome's next turn."
     "name": "Ray of Frost"
 "source":
   - "DIP"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/rock-gnome-recluse-dip.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/rock-gnome-recluse-dip.webp"
 ```
 ^statblock

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Layers of Arcadia
+- "Layers of Arcadia"
 ---
 # Layers of Arcadia
 *Source: Dungeon Master's Guide (2024) p. 183* 

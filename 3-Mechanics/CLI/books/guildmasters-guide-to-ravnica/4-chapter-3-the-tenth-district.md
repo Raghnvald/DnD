@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Chapter 3: The Tenth District
+- "Chapter 3: The Tenth District"
 ---
 # Chapter 3: The Tenth District
 *Source: Guildmasters' Guide to Ravnica, p. 99* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/061-301.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/061-301.webp#center)
 
 The Tenth District is a sprawling place. To be governed effectively, it is broken into six precincts, each the size of a small city. This chapter describes the various features you can find in those wondrous places.
 
@@ -34,11 +34,11 @@ Each precinct, as well as its distinct personality, is explored in its own secti
 
 Each precinct's section includes two tables that can help you, as DM, improvise as characters explore that part of the city.
 
-When a character wants to talk to a person on the street, you can roll on the People on the Street table for the precinct. Unless otherwise noted, these NPCs can be of any race. They might use the "Monster Manual" stat blocks for [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), or other creatures, at your discretion.
+When a character wants to talk to a person on the street, you can roll on the People on the Street table for the precinct. Unless otherwise noted, these NPCs can be of any race. They might use the "Monster Manual" stat blocks for commoners, guards, or other creatures, at your discretion.
 
 Whenever characters are gathering information or talking with contacts in a precinct, you can use the Rumors table for the precinct to add some flavor to their interactions or to generate adventure hooks.
 
-![Tenth District](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/062-302.webp#center)
+![Tenth District](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/062-302.webp#center)
 
 ## Major Trade Ways
 
@@ -63,7 +63,7 @@ The Izzet League is responsible for constructing and maintaining public works, i
 
 #### Sewers
 
-A vast, winding sewer network runs under the Tenth District, lit by [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spells. Some of the tunnels are simply storm sewers, meant to carry rainwater (and the debris it washes from the streets) into great cisterns, where it is purified and sent into the pipes in the plumbing system that serves Ravnica's nicer neighborhoods. Others carry waste and refuse out of those neighborhoods, depositing it in different cisterns or dumping it into the subterranean oceans of the undercity.
+A vast, winding sewer network runs under the Tenth District, lit by continual flame spells. Some of the tunnels are simply storm sewers, meant to carry rainwater (and the debris it washes from the streets) into great cisterns, where it is purified and sent into the pipes in the plumbing system that serves Ravnica's nicer neighborhoods. Others carry waste and refuse out of those neighborhoods, depositing it in different cisterns or dumping it into the subterranean oceans of the undercity.
 
 #### Pipe Tunnels
 
@@ -79,9 +79,9 @@ Ancient resting places lie in secret chambers below the surface of Ravnica. Many
 
 ### Undercity
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/063-303.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/063-303.webp#center)
 
-Deep below the Tenth District lies a vast, thriving community of folk who have no desire or choice to live under the sky. Here, the Dimir, Golgari, [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), and Simic hold sway in the caverns, causeways, and bodies of water that grace the darkest depths.
+Deep below the Tenth District lies a vast, thriving community of folk who have no desire or choice to live under the sky. Here, the Dimir, Golgari, [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), and Simic hold sway in the caverns, causeways, and bodies of water that grace the darkest depths.
 
 #### Nightveil
 
@@ -89,7 +89,7 @@ The sprawling residence of many of the House Dimir elite, parts of Nightveil ove
 
 #### Duskmantle
 
-The Dimir guildhall is protected by memory wards (glyphs of warding that store [modify memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md) spells) to ensure that few know of its existence. Those who are called there never remember what transpired, beyond what is necessary. Most assume that the place lies somewhere within Nightveil, but it could lie anywhere in the undercity.
+The Dimir guildhall is protected by memory wards (glyphs of warding that store modify memory spells) to ensure that few know of its existence. Those who are called there never remember what transpired, beyond what is necessary. Most assume that the place lies somewhere within Nightveil, but it could lie anywhere in the undercity.
 
 #### Korozda
 
@@ -97,7 +97,7 @@ Also called the Maze of Decay, Korozda is an arched subterranean cathedral surro
 
 #### Rix Maadi
 
-Known as the Dungeon Palace, this is the guildhall of the Cult of Rakdos, and the lava-filled lair of the demon himself. An immense, crumbling, red stone staircase called the Demon's Vestibule begins the journey from the Smelting District down into the depths, treating travelers to terrifying images depicted on banners as they descend. Farther down, the temperature rises and the passage eventually opens up into the Festival Grounds, where the bloodiest performances of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) and their torturous equipment are on display.
+Known as the Dungeon Palace, this is the guildhall of the Cult of Rakdos, and the lava-filled lair of the demon himself. An immense, crumbling, red stone staircase called the Demon's Vestibule begins the journey from the Smelting District down into the depths, treating travelers to terrifying images depicted on banners as they descend. Farther down, the temperature rises and the passage eventually opens up into the Festival Grounds, where the bloodiest performances of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) and their torturous equipment are on display.
 
 #### The Undersea
 
@@ -109,7 +109,7 @@ The grandeur of Precinct One is the heart of Ravnica's civilization, and visitor
 
 The people who live in this precinct are accustomed to having high-quality goods and spending a lot of leisure time in social engagements. Neighbors are polite and affable toward others of their station, but gossip is quite common and accepted.
 
-![Precinct One](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/064-304.webp#center)
+![Precinct One](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/064-304.webp#center)
 
 ### Affiliated Guilds
 
@@ -157,27 +157,27 @@ At the DM's discretion, adventurers who don't maintain a comfortable or more exp
 
 ### Law and Crime
 
-The privileged and wealthy people who live in Precinct One believe that the purpose of law enforcement is to serve them and keep them protected from the more unsavory elements of the city. Government officials here are more practical in their view of the law, recognizing that Precinct One is the entry point into the Tenth for many visitors and thus it must keep up the best of appearances. Azorius law enforcement officers are ever-present here, with at least one arrester assigned to patrol each street in Precinct One. It is illegal to brandish a weapon here, and people who walk around with unconcealed weapons (even sheathed ones) draw attention. Minor crimes are reported as soon as they are witnessed or discovered. Due to enhanced monitoring by precognitive mages, the typical response time to any crime is `dice:1d6|noform|noparens|avg` (`1d6`) minutes, and the squad consists of an Azorius [lawmage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) and three [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md).
+The privileged and wealthy people who live in Precinct One believe that the purpose of law enforcement is to serve them and keep them protected from the more unsavory elements of the city. Government officials here are more practical in their view of the law, recognizing that Precinct One is the entry point into the Tenth for many visitors and thus it must keep up the best of appearances. Azorius law enforcement officers are ever-present here, with at least one arrester assigned to patrol each street in Precinct One. It is illegal to brandish a weapon here, and people who walk around with unconcealed weapons (even sheathed ones) draw attention. Minor crimes are reported as soon as they are witnessed or discovered. Due to enhanced monitoring by precognitive mages, the typical response time to any crime is `1d6` minutes, and the squad consists of an Azorius lawmage and three [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md).
 
 Very little street-level illicit activity takes place within Precinct One due to Azorius's constant surveillance. Private rooms in exclusive establishments are, however, sometimes used by the Orzhov and other wealthy criminals to conduct high-end black market transactions away from the eyes of law enforcement.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/065-305.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/065-305.webp#center)
 
 ### People and Rumors
 
-![People on the Street—Precinct One](/3-Mechanics/CLI/tables/people-on-the-streetprecinct-one-ggr.md)
+![People on the Street—Precinct One](3-Mechanics/CLI/tables/people-on-the-streetprecinct-one-ggr.md)
 
-![Rumors—Precinct One](/3-Mechanics/CLI/tables/rumorsprecinct-one-ggr.md)
+![Rumors—Precinct One](3-Mechanics/CLI/tables/rumorsprecinct-one-ggr.md)
 
 ## Precinct Two
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/066-306.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/066-306.webp#center)
 
 Small houses, modest apartments, and commercial shops are sprinkled throughout Precinct Two, a place that law enforcement officers, lawyers, retired soldiers, and well-off working families call home. Corner shops cater to everyday needs, and many establishments are run by ex-soldiers. Streets are kept tidy, and buildings are maintained to be serviceable. Under the precinct's urbane veneer, tension simmers between law officers and the opportunistic crime families who call this precinct home.
 
 The folk who live in this precinct believe in performing civic duties, conforming to your role, and maintaining strong friendships and family ties. Good neighbors show respect to one another and enjoy competing among themselves to achieve greater successes.
 
-![Precinct Two](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/067-307.webp#center)
+![Precinct Two](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/067-307.webp#center)
 
 ### Affiliated Guilds
 
@@ -197,7 +197,7 @@ Whitestone is an orderly neighborhood on the northern side of the precinct, name
 
 #### Griffin Heights
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/068-308.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/068-308.webp#center)
 
 Two-story houses are nestled in the rolling hills of this neighborhood in the southern section of the precinct. Griffin Heights is rife with corruption, and less scrupulous government officials exchange information and money with the Orzhov in business establishments here. The locals are fiercely loyal to the Orzhov knights who watch over them, dutifully paying their protection fees.
 
@@ -217,25 +217,25 @@ The people who live in Precinct Two aren't fond of people who don't fit in with 
 
 ### Law and Crime
 
-Many citizens in Precinct Two work for the Azorius, but others feel stifled by the guild's intrusive presence under the shadow of New Prahv. Most residents respect order, but some rely more on Orzhov protection than on Azorius law. Almost everyone here knows someone who is trained in the use of weapons. The typical response to a reported crime is about `dice:2d6|noform|noparens|avg` (`2d6`) minutes, and the squad consists of two Azorius [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) or `dice:1d6|noform|noparens|avg` (`1d6`) Orzhov [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) (from the "Monster Manual").
+Many citizens in Precinct Two work for the Azorius, but others feel stifled by the guild's intrusive presence under the shadow of New Prahv. Most residents respect order, but some rely more on Orzhov protection than on Azorius law. Almost everyone here knows someone who is trained in the use of weapons. The typical response to a reported crime is about `2d6` minutes, and the squad consists of two Azorius [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) or `1d6` Orzhov thugs (from the "Monster Manual").
 
 The organized crime elements of the neighborhoods are locked in a power struggle against law enforcement officials. This conflict rarely manifests in open violence, but often antagonists "disappear" or "have an accident." Overt violent crimes sometimes involve ex-soldiers who have been psychologically scarred by past battles.
 
 ### People and Rumors
 
-![People on the Street—Precinct Two](/3-Mechanics/CLI/tables/people-on-the-streetprecinct-two-ggr.md)
+![People on the Street—Precinct Two](3-Mechanics/CLI/tables/people-on-the-streetprecinct-two-ggr.md)
 
-![Rumors—Precinct Two](/3-Mechanics/CLI/tables/rumorsprecinct-two-ggr.md)
+![Rumors—Precinct Two](3-Mechanics/CLI/tables/rumorsprecinct-two-ggr.md)
 
 ## Precinct Three
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/069-309.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/069-309.webp#center)
 
 Ample parks, busy stables, and large gardens combine to create a vibrant environment in Precinct Three. Natural and urban life intermingle throughout the precinct, and the people who reside here view it as a respite from most other places in the Tenth District. Folk here tend to live simply, and generations of families have dwelt in the same structures for hundreds of years. During the day, the gardens, small pastures, and stables are tended by young and old. Evenings are given over to communal gatherings, sometimes featuring performances by trained beasts or storytelling.
 
 The people of Precinct Three are comfortable with living around nature. They have no problems with pets or beastly companions sharing their space as well as residing in multifamily structures. Good neighbors help tend to plants, animals, and children whenever necessary.
 
-![Precinct Three](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/070-310.webp#center)
+![Precinct Three](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/070-310.webp#center)
 
 ### Affiliated Guilds
 
@@ -267,7 +267,7 @@ The western neighborhood has many small pastures and stables, some of which are 
 
 ### Goods and Services
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/071-311.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/071-311.webp#center)
 
 The bounty of nature is plentiful in Precinct Three, which serves as the main source of food for the Tenth District. The finest steeds and livestock are raised here, as well as many war beasts (although they're often trained in Precinct Four). Unlike in most other precincts, barter is an acceptable form of transaction here, and some vendors outright reject payment in coin of any kind. Manufactured goods are relatively hard to find, except in large markets such as the Great Concourse.
 
@@ -277,25 +277,25 @@ At the DM's discretion, adventurers who maintain a wealthy or aristocratic lifes
 
 ### Law and Crime
 
-Most of Precinct Three is policed by its residents, occasionally supplemented by Boros troops when a serious threat rears its head. Each block elects a watch captain, who receives weapon training from Selesnya soldiers. The captain can call on additional citizens for support in case of a crisis. The typical response to a reported crime takes about `dice:1d8|noform|noparens|avg` (`1d8`) minutes, and the squad consists of a watch captain (a [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) with two [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) or two [wolves](/3-Mechanics/CLI/bestiary/beast/wolf-xmm.md). In Concordance, it's either a [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) or a Selesnya [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) with a topiary guardian ([awakened tree](/3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md)). See the "Monster Manual" for these creatures' stat blocks.
+Most of Precinct Three is policed by its residents, occasionally supplemented by Boros troops when a serious threat rears its head. Each block elects a watch captain, who receives weapon training from Selesnya soldiers. The captain can call on additional citizens for support in case of a crisis. The typical response to a reported crime takes about `1d8` minutes, and the squad consists of a watch captain (a scout) with two guards or two wolves. In Concordance, it's either a knight or a Selesnya druid with a topiary guardian (awakened tree). See the "Monster Manual" for these creatures' stat blocks.
 
 Crime usually takes one of two forms in Precinct Three. Some residents engage in outright banditry, but they typically target visitors or go outside the precinct to do their dirty work. More common are incidents of livestock theft, which sometimes lead to outbreaks of violence between neighbors, particularly in Beast Haven.
 
 ### People and Rumors
 
-![People on the Street—Precinct Three](/3-Mechanics/CLI/tables/people-on-the-streetprecinct-three-ggr.md)
+![People on the Street—Precinct Three](3-Mechanics/CLI/tables/people-on-the-streetprecinct-three-ggr.md)
 
-![Rumors—Precinct Three](/3-Mechanics/CLI/tables/rumorsprecinct-three-ggr.md)
+![Rumors—Precinct Three](3-Mechanics/CLI/tables/rumorsprecinct-three-ggr.md)
 
 ## Precinct Four
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/072-312.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/072-312.webp#center)
 
 Few days or nights pass quietly in Precinct Four. The frequent din of battle as Boros soldiers guard against Gruul marauders, the strange sounds of volatile magic emanating from Izzet experiments, and the occasional explosive flare-ups of goblin gang wars keep the precinct a dynamic and dangerous place. Its buildings include ramshackle tenements damaged by conflict, impregnable fortresses and laboratories, and bustling markets filled with merchants ready to defend themselves and their wares.
 
 The people of Precinct Four are always ready for a fight. Being able to defend oneself and adapting to change are the most important qualities in this precinct. Good neighbors are your battle mates when you're fighting for your home or your life.
 
-![Precinct Four](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/073-313.webp#center)
+![Precinct Four](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/073-313.webp#center)
 
 ### Affiliated Guilds
 
@@ -335,27 +335,27 @@ At the DM's discretion, adventurers who maintain either a squalid or aristocrati
 
 ### Law and Crime
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/074-314.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/074-314.webp#center)
 
-Much of Precinct Four is a war zone, and mundane methods of law enforcement aren't always effective in such an environment. No one takes the constant patrolling of the Boros Legion as a guarantee of their safety, and almost all folk know how to fight to some degree. Typical threats include giant monsters, unstable elementals, and Gruul raiding parties, and a curfew system is often instituted when a neighborhood is beset by one of these dangers. The only area that is usually safe from external threats is Tin Street. Petty crimes aren't given much attention, since the soldiers are primarily concerned with curbing violence and mayhem. The typical response to a reported crime or a dangerous threat is `dice:1d8|noform|noparens|avg` (`1d8`) minutes, and the squad consists of a Boros Legion [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) (from the "Monster Manual") leading `dice:4d4|noform|noparens|avg` (`4d4`) [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md).
+Much of Precinct Four is a war zone, and mundane methods of law enforcement aren't always effective in such an environment. No one takes the constant patrolling of the Boros Legion as a guarantee of their safety, and almost all folk know how to fight to some degree. Typical threats include giant monsters, unstable elementals, and Gruul raiding parties, and a curfew system is often instituted when a neighborhood is beset by one of these dangers. The only area that is usually safe from external threats is Tin Street. Petty crimes aren't given much attention, since the soldiers are primarily concerned with curbing violence and mayhem. The typical response to a reported crime or a dangerous threat is `1d8` minutes, and the squad consists of a Boros Legion knight (from the "Monster Manual") leading `4d4` [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md).
 
 The Red Wastes is a lawless region mostly beyond the reach of Boros patrols and Azorius laws. In other parts of the precinct, goblin gangs shake down locals whenever possible and skirmish against each other over turf. The Shattergang Brothers are a notorious goblin gang that haunts Tin Street in this precinct, dealing in weapons and explosives.
 
 ### People and Rumors
 
-![People on the Street—Precinct Four](/3-Mechanics/CLI/tables/people-on-the-streetprecinct-four-ggr.md)
+![People on the Street—Precinct Four](3-Mechanics/CLI/tables/people-on-the-streetprecinct-four-ggr.md)
 
-![Rumors—Precinct Four](/3-Mechanics/CLI/tables/rumorsprecinct-four-ggr.md)
+![Rumors—Precinct Four](3-Mechanics/CLI/tables/rumorsprecinct-four-ggr.md)
 
 ## Precinct Five
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/075-315.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/075-315.webp#center)
 
 As the home of prestigious universities, ancient libraries, and hidden laboratories, Precinct Five is the hub of information and learning in the Tenth District. People of all ages flock to this precinct to spend time learning, whether by poring over texts and scrolls or finding a mentor who will guide a student. It's also the place to find information brokers, who sell specialized or secret knowledge available nowhere else. Multilevel buildings set next to each other with little regard for planning give way to an occasional square or open campus where socially minded residents congregate during daytime hours. At night, many continue their studies while others tinker with their latest creations or intellectual endeavors. Taverns and pubs tend to be more urbane than in other parts of the district and often feature poetry readings, storytelling, and musical performances.
 
 People who live in Precinct Five have a zeal for learning and tend to be inquisitive. Getting into a heated debate or touting a recent success to your neighbors is part of showing your worth. Good neighbors keep their projects and research hidden until a result can be displayed; it is considered uncouth to allow others to view a work in progress.
 
-![Precinct Five](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/076-316.webp#center)
+![Precinct Five](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/076-316.webp#center)
 
 ### Affiliated Guilds
 
@@ -367,7 +367,7 @@ Life for residents in Precinct Five is spent mostly indoors, or in the case of t
 
 #### Zonot Seven
 
-The Simic Combine's watery habitat is made up of huge sinkholes filled with the overflow from a subterranean ocean. Zonot Seven is the only zonot within Ravnica City proper, and it contains Zameck, the Simic guildhall. In contrast to the rest of the precinct, the zonot is a bustling place, with activity at all hours. A huge chamber just below the street surface serves as a gathering place for all the Simic speakers, as well as a place where visitors can meet with Prime Speaker [Zegana](/3-Mechanics/CLI/bestiary/npc/zegana-ggr.md) or other Simic emissaries. A Simic researcher might invite a land-dwelling colleague to visit the habitat, but such an occurrence isn't common. Canals lead from here farther into the precinct and to Precinct Six.
+The Simic Combine's watery habitat is made up of huge sinkholes filled with the overflow from a subterranean ocean. Zonot Seven is the only zonot within Ravnica City proper, and it contains Zameck, the Simic guildhall. In contrast to the rest of the precinct, the zonot is a bustling place, with activity at all hours. A huge chamber just below the street surface serves as a gathering place for all the Simic speakers, as well as a place where visitors can meet with Prime Speaker [Zegana](3-Mechanics/CLI/bestiary/npc/zegana-ggr.md) or other Simic emissaries. A Simic researcher might invite a land-dwelling colleague to visit the habitat, but such an occurrence isn't common. Canals lead from here farther into the precinct and to Precinct Six.
 
 #### The Blistercoils
 
@@ -397,35 +397,35 @@ Meals and lodging of modest to wealthy quality are available here. Older and mor
 
 The poor are pitied and the most affluent are envied, so adventurers who maintain an aristocratic, poor, squalid, or wretched lifestyle, at the DM's discretion, could have disadvantage on Charisma checks when interacting with residents of Precinct Five.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/077-317.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/077-317.webp#center)
 
 ### Law and Crime
 
 Much of the crime in Precinct Five is of a sort that is hard to detect: blackmail, espionage, identity theft (of the literal kind, perpetrated by shapechangers), and the like. Most of the precinct's residents spend their time absorbed in study, unaware that such activities might be happening under their noses. Only rarely does violence break out, and Azorius arresters try hard to keep the incident quiet and maintain public calm.
 
-The typical response to a reported crime here is `dice:1d12|noform|noparens|avg` (`1d12`) minutes, and the force consists of two Azorius arresters (use the [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) stat block in the "Monster Manual").
+The typical response to a reported crime here is `1d12` minutes, and the force consists of two Azorius arresters (use the veteran stat block in the "Monster Manual").
 
 ### People and Rumors
 
-![People on the Street—Precinct Five](/3-Mechanics/CLI/tables/people-on-the-streetprecinct-five-ggr.md)
+![People on the Street—Precinct Five](3-Mechanics/CLI/tables/people-on-the-streetprecinct-five-ggr.md)
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/078-318.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/078-318.webp#center)
 
-![Rumors—Precinct Five](/3-Mechanics/CLI/tables/rumorsprecinct-five-ggr.md)
+![Rumors—Precinct Five](3-Mechanics/CLI/tables/rumorsprecinct-five-ggr.md)
 
 ## Precinct Six
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/079-319.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/079-319.webp#center)
 
 Large warehouses, major thoroughfares, and nondescript worker tenements make the utilitarian Precinct Six a hub of activity for shipping, storage, and other mercantile concerns in the Tenth District. Wide cobblestone streets allow for the passage of beasts and constructs that transport raw goods from points beyond the Tenth and for the shipping of manufactured materials back to those locations. The demands of commerce keep the area constantly active, and the inconspicuous nature of the warehouses makes them popular as rendezvous points for all sorts of transactions, legal and illicit. At night, lurking undead and the horrors of the undercity, coming up from Deadbridge Chasm, keep wary citizens indoors, while a few people who deal in sinister magic seek the monsters out for nefarious purposes.
 
 People who live in this working-class precinct are often practical-minded and thus tolerant of some degree of illicit activity. Being a good neighbor means keeping to yourself, unless you live in the Smelting Quarter, where the atmosphere is much more raucous.
 
-![Precinct Six](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/080-320.webp#center)
+![Precinct Six](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/080-320.webp#center)
 
 ### Affiliated Guilds
 
-The Orzhov Syndicate owns many of the warehouses in the precinct and controls much of the commerce around Tin Street. Members of the Golgari Swarm often crawl around the edges of Deadbridge Chasm, which is an opening to their sprawling subterranean network. The Boros Legion rents many of the warehouses to store manufactured goods from the Smelting Quarter, and Kamen Fortress houses a garrison to protect Boros interests. The Cult of Rakdos operates a number of pain clubs throughout the precinct, especially around Tin Street, and [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) street performances are more common in Precinct Six than anywhere else in the Tenth District.
+The Orzhov Syndicate owns many of the warehouses in the precinct and controls much of the commerce around Tin Street. Members of the Golgari Swarm often crawl around the edges of Deadbridge Chasm, which is an opening to their sprawling subterranean network. The Boros Legion rents many of the warehouses to store manufactured goods from the Smelting Quarter, and Kamen Fortress houses a garrison to protect Boros interests. The Cult of Rakdos operates a number of pain clubs throughout the precinct, especially around Tin Street, and [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) street performances are more common in Precinct Six than anywhere else in the Tenth District.
 
 ### Neighborhoods and Landmarks
 
@@ -433,11 +433,11 @@ Precinct Six is home to many working-class folk, most packed into modest apartme
 
 #### Smelting Quarter
 
-The heart of the manufacturing industry in the Tenth District is at the north end of the precinct. The Smelting Quarter is smoky, hot, and filled with activity day and night. Goblins often make their homes near the factories on Foundry Street, preferring the constant activity to sleepier neighborhoods. Standing south and east of the quarter, Kamen Fortress is a Boros garrison dedicated to keeping watch on [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) activity. Clashes between the Boros Legion, the goblins, and the Cult of Rakdos are common throughout this part of the precinct.
+The heart of the manufacturing industry in the Tenth District is at the north end of the precinct. The Smelting Quarter is smoky, hot, and filled with activity day and night. Goblins often make their homes near the factories on Foundry Street, preferring the constant activity to sleepier neighborhoods. Standing south and east of the quarter, Kamen Fortress is a Boros garrison dedicated to keeping watch on [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) activity. Clashes between the Boros Legion, the goblins, and the Cult of Rakdos are common throughout this part of the precinct.
 
 #### Gore House
 
-A [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) club called the Gore House, run by a viashino (lizardfolk) named Nyoser, occupies a defunct factory in the south end of the Smelting Quarter—and also houses the main entrance to the Demon's Vestibule, the stairway down to Rix Maadi.
+A [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) club called the Gore House, run by a viashino (lizardfolk) named Nyoser, occupies a defunct factory in the south end of the Smelting Quarter—and also houses the main entrance to the Demon's Vestibule, the stairway down to Rix Maadi.
 
 #### Medori Park
 
@@ -465,12 +465,12 @@ At the DM's discretion, adventurers who maintain a lifestyle less expensive than
 
 ### Law and Crime
 
-The folk of Precinct Six are pragmatic, not overly concerned with the welfare of others, and thus often willing to disregard minor crimes. Arresters from the Azorius Senate can often be found on patrol in and around the warehouses. Soldiers from the Boros Legion are common near the warehouses and in the Smelting Quarter. The typical response time to a reported crime in these areas is `dice:2d10|noform|noparens|avg` (`2d10`) minutes, and the squad consists of two Boros [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md). At night or in the Smelting Quarter, a response to an attack might instead consist of `dice:1d4|noform|noparens|avg` (`1d4`) Boros [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) led by a sergeant (use the [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) stat block in the "Monster Manual").
+The folk of Precinct Six are pragmatic, not overly concerned with the welfare of others, and thus often willing to disregard minor crimes. Arresters from the Azorius Senate can often be found on patrol in and around the warehouses. Soldiers from the Boros Legion are common near the warehouses and in the Smelting Quarter. The typical response time to a reported crime in these areas is `2d10` minutes, and the squad consists of two Boros [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md). At night or in the Smelting Quarter, a response to an attack might instead consist of `1d4` Boros [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) led by a sergeant (use the knight stat block in the "Monster Manual").
 
 Precinct Six is a hotbed for illicit activity, particularly organized crime. Goblin gangs haunt the Smelting Quarter, most notably a large gang that claims Foundry Street, led by a goblin named Krenko. Vicious turf wars sometimes erupt in that area. Violent crimes occur with regularity all over the precinct, with most of the bodies ending up in Deadbridge Chasm. Night-lurking monsters are a particular problem in the precinct as well, often attacking and disappearing before help can arrive.
 
 ### People and Rumors
 
-![People on the Street—Precinct Six](/3-Mechanics/CLI/tables/people-on-the-streetprecinct-six-ggr.md)
+![People on the Street—Precinct Six](3-Mechanics/CLI/tables/people-on-the-streetprecinct-six-ggr.md)
 
-![Rumors—Precinct Six](/3-Mechanics/CLI/tables/rumorsprecinct-six-ggr.md)
+![Rumors—Precinct Six](3-Mechanics/CLI/tables/rumorsprecinct-six-ggr.md)

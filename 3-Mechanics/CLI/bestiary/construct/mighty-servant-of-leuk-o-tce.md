@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mighty Servant of Leuk-o
+- "Mighty Servant of Leuk-o"
 ---
-# [Mighty Servant of Leuk-o](3-Mechanics\CLI\bestiary\construct/mighty-servant-of-leuk-o-tce.md)
+# [Mighty Servant of Leuk-o](3-Mechanics/CLI/bestiary/construct/mighty-servant-of-leuk-o-tce.md)
 *Source: Tasha's Cauldron of Everything p. 131*  
 
 ```statblock
@@ -37,20 +37,20 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "acid, bludgeoning, cold, fire, lightning, necrotic, poison,\
   \ psychic, radiant"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [stunned](/3-Mechanics/CLI/conditions.md#Stunned),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive\
+  \ Perception 19"
 "languages": "understands the languages of creatures attuned to it but can't speak"
 "traits":
   - "desc": "The servant is immune to any spell or effect that would alter its form\
@@ -70,21 +70,21 @@ aliases:
   - "desc": "The servant doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 36\
-      \ (4d12 + 10) force damage. Or Ranged Weapon Attack: +17 to hit, range 120 ft.,\
-      \ one target. *Hit:* 36 (4d12 + 10) force damage. If the target is an object,\
-      \ it takes triple damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 36 (4d12 + 10) force damage. Or Ranged Weapon Attack: +17 to hit, range\
+      \ 120 ft., one target. *Hit:* 36 (4d12 + 10) force damage. If the target is\
+      \ an object, it takes triple damage."
     "name": "Destructive Fist"
   - "desc": "If the servant jumps at least 25 feet as part of its movement, it can\
       \ then use this action to land on its feet in a space that contains one or more\
       \ other creatures. Each of those creatures is pushed to an unoccupied space\
       \ within 5 feet of the servant and must make a DC 25 Dexterity saving throw.\
       \ On a failed save, a creature takes 26 (4d12) bludgeoning damage and is knocked\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone). On a successful save, a creature\
-      \ takes half as much damage and isn't knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a successful save,\
+      \ a creature takes half as much damage and isn't knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Crushing Leap"
 "source":
   - "TCE"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp"
 ```
 ^statblock

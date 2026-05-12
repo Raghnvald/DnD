@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mot
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/mot
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Naiad
+- "Naiad"
 ---
-# [Naiad](3-Mechanics\CLI\bestiary\fey/naiad-mot.md)
-*Source: Mythic Odysseys of Theros p. 236, Candlekeep Mysteries*  
+# [Naiad](3-Mechanics/CLI/bestiary/fey/naiad-mot.md)
+*Source: Mythic Odysseys of Theros p. 236*  
 
 Naiads live in and near water. They might be spotted among rivers and lakes, on isolated shores, or amid coral labyrinths and deep sea fumaroles. Wherever rivers and seas show their variety and force, naiads gather to revel in nature's might. Individual naiads often grow fixated with a single type or body of water, potentially preferring a deep sea trench, coastline, or river system above all others. Over time, such a resident nymph often becomes connected with their aquatic home through sightings and stories, becoming a guardian of the place and, in effect, a manifestation of its personality.
 
@@ -52,25 +52,28 @@ A nymph doesn't require food, drink, or sleep.
   - !!int "18"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+6"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+5"
 "damage_resistances": "psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 10"
 "languages": "Common, Sylvan"
 "cr": "2"
 "traits":
   - "desc": "The naiad's spellcasting ability is Charisma (spell save DC 14). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** minor illusion\n\n**3/day:** phantasmal force\n\n**1/day each:**\
-      \ fly, hypnotic pattern"
+      **At will:** [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n\
+      **3/day:** [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)\n\n\
+      **1/day each:** [fly](3-Mechanics/CLI/spells/fly.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern.md)"
     "name": "Innate Spellcasting"
   - "desc": "The naiad can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The naiad is invisible while fully immersed in water."
+  - "desc": "The naiad is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ while fully immersed in water."
     "name": "Invisible in Water"
   - "desc": "The naiad has advantage on saving throws against spells and other magical\
       \ effects."
@@ -78,12 +81,11 @@ A nymph doesn't require food, drink, or sleep.
 "actions":
   - "desc": "The naiad makes two psychic touch attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
-      \ + 4) psychic damage."
+  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d10 + 4) psychic damage."
     "name": "Psychic Touch"
 "source":
   - "MOT"
-  - "CM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/naiad-mot.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/naiad-mot.webp"
 ```
 ^statblock

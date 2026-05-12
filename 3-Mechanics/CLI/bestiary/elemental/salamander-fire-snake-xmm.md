@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Salamander Fire Snake
+- "Salamander Fire Snake"
 ---
-# [Salamander Fire Snake](3-Mechanics\CLI\bestiary\elemental/salamander-fire-snake-xmm.md)
+# [Salamander Fire Snake](3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md)
 *Source: Monster Manual (2024) p. 266*  
 
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
@@ -25,7 +25,7 @@ Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fir
 *Serpentine Artists of the Inferno*
 
 - **Habitat.** Planar (Elemental Plane of Fire), Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe that flames expose the purest forms of all things and delight in burning and melting things, seeing fleeting beauty and striking nuances in blazes consuming different fuels—ancient forests, artistic masterpieces, or living creatures. To salamanders, those that can't endure their flames are nothing but ashes in disguise. They harbor malice toward few creatures, but they consider creating remarkable flames more important than the pain and loss their fires cause.
 
@@ -55,22 +55,22 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "speed": "30 ft., climb 30 ft."
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands Primordial but can't speak"
 "cr": "1"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
-      \ choice in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ choice in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the salamander takes 3 (1d6) Fire damage."
     "name": "Fire Aura"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage\
-      \ plus 3 (1d6) Fire damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing\
+      \ damage plus 3 (1d6) Fire damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/salamander-fire-snake-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/salamander-fire-snake-xmm.webp"
 ```
 ^statblock
 

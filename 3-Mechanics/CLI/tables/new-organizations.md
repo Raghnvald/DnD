@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- New Organizations
+- "New Organizations"
 ---
 # New Organizations
 *Source: Dungeon Master's Guide p. 31* 
 
 **New Organizations**
-
-`dice: [](new-organizations.md#^new-organizations)`
 
 | dice: d10 | New Organizations |
 |-----------|-------------------|

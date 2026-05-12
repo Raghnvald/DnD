@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/conjuration
 aliases:
-- Wristpocket
+- "Wristpocket"
 ---
 # Wristpocket
 *2nd-level, Conjuration (ritual)*  

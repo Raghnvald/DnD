@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Thunder Absorbing Tattoo"
 ---
 # Thunder Absorbing Tattoo

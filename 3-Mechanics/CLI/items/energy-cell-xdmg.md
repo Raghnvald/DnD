@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/age/futuristic
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Energy Cell"
 ---
 # Energy Cell

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Table
+- "Animated Table"
 ---
-# [Animated Table](3-Mechanics\CLI\bestiary\construct/animated-table-tftyp.md)
+# [Animated Table](3-Mechanics/CLI/bestiary/construct/animated-table-tftyp.md)
 *Source: Tales from the Yawning Portal p. 230*  
 
 ## Arundil's Animated Objects
@@ -44,15 +44,21 @@ An animated table doesn't require air, food, drink, or sleep.
   - !!int "1"
 "speed": "40 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The table is incapacitated while in the area of an antimagic field. If\
-      \ targeted by dispel magic, the table must succeed on a Constitution saving\
-      \ throw against the caster's spell save DC or fall unconscious for 1 minute."
+  - "desc": "The table is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the table must succeed on a Constitution saving throw against the caster's\
+      \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the table remains motionless, it is indistinguishable from a normal\
       \ table."
@@ -60,14 +66,14 @@ An animated table doesn't require air, food, drink, or sleep.
   - "desc": "If the table moves at least 20 feet straight toward a target and then\
       \ hits it with a ram attack on the same turn, the target takes an extra 9 (2d8)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 15\
-      \ Strength saving throw or be knocked prone."
+      \ Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6, reach 5 ft., one target. *Hit:* 13 (2d8 +\
-      \ 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6, reach 5 ft., one target. *Hit:* 13 (2d8\
+      \ + 4) bludgeoning damage."
     "name": "Ram"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-table-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-table-tftyp.webp"
 ```
 ^statblock

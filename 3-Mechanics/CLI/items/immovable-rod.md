@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/rod
-aliases: 
+aliases:
 - "Immovable Rod"
 ---
 # Immovable Rod
 *Rod, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/immovable-rod.webp#right)
+![](3-Mechanics/CLI/items/img/immovable-rod.webp#right)
 
 - **Weight**: 2.0 lbs.
 

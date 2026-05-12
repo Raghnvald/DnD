@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/1-4
-- new/monster/size/large
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/dip
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeletal Riding Horse
+- "Skeletal Riding Horse"
 ---
-# [Skeletal Riding Horse](3-Mechanics\CLI\bestiary\undead/skeletal-riding-horse-dip.md)
+# [Skeletal Riding Horse](3-Mechanics/CLI/bestiary/undead/skeletal-riding-horse-dip.md)
 *Source: Dragon of Icespire Peak p. 21*  
 
 ```statblock
@@ -36,11 +36,11 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "DIP"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/skeletal-riding-horse-dip.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/skeletal-riding-horse-dip.webp"
 ```
 ^statblock

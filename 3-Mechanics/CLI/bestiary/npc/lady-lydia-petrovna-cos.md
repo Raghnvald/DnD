@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lady Lydia Petrovna
+- "Lady Lydia Petrovna"
 ---
-# [Lady Lydia Petrovna](3-Mechanics\CLI\bestiary\npc/lady-lydia-petrovna-cos.md)
+# [Lady Lydia Petrovna](3-Mechanics/CLI/bestiary/npc/lady-lydia-petrovna-cos.md)
 *Source: Curse of Strahd p. 105*  
 
 ```statblock
@@ -33,15 +33,17 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "club"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lady-lydia-petrovna-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lady-lydia-petrovna-cos.webp"
 ```
 ^statblock

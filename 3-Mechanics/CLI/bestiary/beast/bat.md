@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bat
+- "Bat"
 ---
-# [Bat](3-Mechanics\CLI\bestiary\beast/bat.md)
+# [Bat](3-Mechanics/CLI/bestiary/beast/bat.md)
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -32,22 +32,22 @@ aliases:
   - !!int "12"
   - !!int "4"
 "speed": "5 ft., fly 30 ft."
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 11"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The bat can't use its blindsight while [deafened](/3-Mechanics/CLI/conditions.md#Deafened)."
+  - "desc": "The bat can't use its blindsight while [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)."
     "name": "Echolocation"
-  - "desc": "The bat has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The bat has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 1 piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/bat.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/bat.webp"
 ```
 ^statblock

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Marilith
+- "Marilith"
 ---
-# [Marilith](3-Mechanics\CLI\bestiary\fiend/marilith-xmm.md)
+# [Marilith](3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md)
 *Source: Monster Manual (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Marilith
@@ -22,7 +22,7 @@ aliases:
 *Demon of Cruelty and Viciousness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged blades. With these cursed weapons and experience from countless battles, they lead other demons to slaughter virtuous souls. They often command droves of weaker demons.
 
@@ -50,36 +50,36 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 18"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 18"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "16"
 "traits":
   - "desc": "If the marilith dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The marilith has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The marilith has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "The marilith can take one [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
+  - "desc": "The marilith can take one [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md)\
       \ on every turn of combat."
     "name": "Reactive"
 "actions":
   - "desc": "The marilith makes six Pact Blade attacks and uses Constrict."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 10 (1d10 + 5) Slashing damage\
-      \ plus 7 (2d6) Necrotic damage."
+  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 10 (1d10 + 5) Slashing\
+      \ damage plus 7 (2d6) Necrotic damage."
     "name": "Pact Blade"
   - "desc": "*Strength Saving Throw:* DC 17, one Medium or smaller creature the marilith\
-      \ can see within 5 feet. *Failure:* 15 (2d10 + 4) Bludgeoning damage. The target\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ can see within 5 feet. *Failure:* 15 (2d10 + 4) Bludgeoning damage. The\
+      \ target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition\
+      \ (escape DC 14), and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ condition until the grapple ends."
     "name": "Constrict"
 "bonus_actions":
@@ -92,7 +92,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/marilith-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/marilith-xmm.webp"
 ```
 ^statblock
 

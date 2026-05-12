@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Peryton
+- "Peryton"
 ---
-# [Peryton](3-Mechanics\CLI\bestiary\monstrosity/peryton.md)
+# [Peryton](3-Mechanics/CLI/bestiary/monstrosity/peryton.md)
 *Source: Monster Manual p. 251*  
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
@@ -52,7 +52,7 @@ Established settlements are attractive to perytons as a renewable food source. A
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "passive Perception 15"
@@ -66,21 +66,21 @@ Established settlements are attractive to perytons as a renewable food source. A
   - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The peryton has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The peryton has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
 "actions":
   - "desc": "The peryton makes one gore attack and one talon attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) piercing damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/peryton.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/peryton.webp"
 ```
 ^statblock
 

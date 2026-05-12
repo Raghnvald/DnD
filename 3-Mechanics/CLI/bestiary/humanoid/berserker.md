@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Berserker
+- "Berserker"
 ---
-# [Berserker](3-Mechanics\CLI\bestiary\humanoid/berserker.md)
-*Source: Monster Manual p. 344, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Berserker](3-Mechanics/CLI/bestiary/humanoid/berserker.md)
+*Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 
@@ -30,7 +30,7 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
 "subtype": "any race"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "13"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -42,6 +42,8 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
@@ -51,13 +53,12 @@ Hailing from uncivilized lands, unpredictable berserkers come together in war pa
       \ until the start of its next turn."
     "name": "Reckless"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d12 + 3) slashing damage."
     "name": "Greataxe"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/berserker.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/berserker.webp"
 ```
 ^statblock
 

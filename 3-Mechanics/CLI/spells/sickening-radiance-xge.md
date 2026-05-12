@@ -22,7 +22,7 @@ classes:
 - Wizard
 - Wizard (Evoker)
 aliases:
-- Sickening Radiance
+- "Sickening Radiance"
 ---
 # Sickening Radiance
 *4th-level, Evocation*  
@@ -35,8 +35,8 @@ aliases:
 
 Dim, greenish light spreads within a 30-foot-radius sphere centered on a point you choose within range. The light spreads around corners, and it lasts until the spell ends.
 
-When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take `dice:4d10|noform|noparens|avg` (`4d10`) radiant damage, and it suffers one level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being [invisible](/3-Mechanics/CLI/conditions.md#Invisible). The light and any levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) caused by this spell go away when the spell ends.
+When a creature moves into the spell's area for the first time on a turn or starts its turn there, that creature must succeed on a Constitution saving throw or take `4d10` radiant damage, and it suffers one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and emits a dim, greenish light in a 5-foot radius. This light makes it impossible for the creature to benefit from being [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). The light and any levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) caused by this spell go away when the spell ends.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 164*

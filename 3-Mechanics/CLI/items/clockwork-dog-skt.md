@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/rarity/unknown/magic
-- new/item/wondrous/other
-aliases: 
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/item/rarity/unknown/magic
+- ttrpg-cli/item/wondrous/other
+aliases:
 - "Clockwork Dog"
 ---
 # Clockwork Dog

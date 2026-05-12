@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Milivoj
+- "Milivoj"
 ---
-# [Milivoj](3-Mechanics\CLI\bestiary\npc/milivoj-cos.md)
+# [Milivoj](3-Mechanics/CLI/bestiary/npc/milivoj-cos.md)
 *Source: Curse of Strahd p. 97*  
 
 ```statblock
@@ -33,15 +33,17 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "club"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) bludgeoning damage."
     "name": "Shovel"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/milivoj-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/milivoj-cos.webp"
 ```
 ^statblock

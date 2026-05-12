@@ -17,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guard
+- "Guard"
 ---
-# [Guard](3-Mechanics\CLI\bestiary\humanoid/guard.md)
-*Source: Monster Manual p. 347, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Guard](3-Mechanics/CLI/bestiary/humanoid/guard.md)
+*Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Guards include members of a city watch, sentries in a citadel or fortified town, and the bodyguards of merchants and nobles.
 
@@ -31,7 +31,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "chain shirt, shield"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -44,8 +44,10 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -56,8 +58,7 @@ Guards include members of a city watch, sentries in a citadel or fortified town,
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/guard.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/guard.webp"
 ```
 ^statblock
 

@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/gnome/forest
 aliases:
-- Gnome (Forest)
+- "Gnome (Forest)"
 ---
 # Gnome (Forest)
 *Source: Player's Handbook p. 37*  
-![](/3-Mechanics/CLI/races/img/gnome.webp#right)
+![](3-Mechanics/CLI/races/img/gnome.webp#right)
 
 - **Ability Scores**: dex +1
 - **Size**: Small
@@ -41,7 +41,7 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Natural Illusionist
 
-You know the [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md) cantrip. Intelligence is your spellcasting ability for it.
+You know the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip. Intelligence is your spellcasting ability for it.
 
 ### Speak with Small Beasts
 

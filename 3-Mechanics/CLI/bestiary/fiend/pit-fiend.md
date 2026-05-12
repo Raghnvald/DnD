@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pit Fiend
+- "Pit Fiend"
 ---
-# [Pit Fiend](3-Mechanics\CLI\bestiary\fiend/pit-fiend.md)
-*Source: Monster Manual p. 77, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Pit Fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md)
+*Source: Monster Manual p. 77. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
 
@@ -121,7 +121,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -171,21 +171,26 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 14"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 14"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "20"
 "traits":
   - "desc": "The pit fiend's spellcasting ability is Charisma (spell save DC 21).\
       \ The pit fiend can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** detect magic, fireball\n\n**3/day each:** hold\
-      \ monster, wall of fire"
+      \ components:\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball.md)\n\n**3/day each:** [hold monster](3-Mechanics/CLI/spells/hold-monster.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)"
     "name": "Innate Spellcasting"
   - "desc": "Any creature hostile to the pit fiend that starts its turn within 20\
       \ feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit\
-      \ fiend is incapacitated. On a failed save, the creature is frightened until\
-      \ the start of its next turn. If a creature's saving throw is successful, the\
-      \ creature is immune to the pit fiend's Fear Aura for the next 24 hours."
+      \ fiend is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
+      \ On a failed save, the creature is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ until the start of its next turn. If a creature's saving throw is successful,\
+      \ the creature is immune to the pit fiend's Fear Aura for the next 24 hours."
     "name": "Fear Aura"
   - "desc": "The pit fiend has advantage on saving throws against spells and other\
       \ magical effects."
@@ -196,25 +201,26 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The pit fiend makes four attacks: one with its bite, one with its claw,\
       \ one with its mace, and one with its tail."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22\
-      \ (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution\
-      \ saving throw or become poisoned. While poisoned in this way, the target can't\
-      \ regain hit points, and it takes 21 (6d6) poison damage at the start of each\
-      \ of its turns. The poisoned target can repeat the saving throw at the end of\
-      \ each of its turns, ending the effect on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:*\
+      \ 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution\
+      \ saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ the target can't regain hit points, and it takes 21 (6d6) poison damage\
+      \ at the start of each of its turns. The [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage."
     "name": "Mace"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24\
-      \ (3d10 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 24 (3d10 + 8) bludgeoning damage."
     "name": "Tail"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/pit-fiend.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/pit-fiend.webp"
 ```
 ^statblock

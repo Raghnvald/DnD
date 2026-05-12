@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/14
-- new/monster/size/medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/14
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Breath Drinker
+- "Breath Drinker"
 ---
-# [Breath Drinker](3-Mechanics\CLI\bestiary\aberration/breath-drinker-bmt.md)
+# [Breath Drinker](3-Mechanics/CLI/bestiary/aberration/breath-drinker-bmt.md)
 *Source: The Book of Many Things p. 154*  
 
 Breath drinkers are Aberrations that invade the multiverse from the Far Realm. They drift through reality like living voids, remaining unseen while searching for souls to consume. When they strike, breath drinkers consume a victim's personality and identity, ultimately drawing out and devouring the unfortunate being's soul. Breath drinkers avoid necrotic energy because it amplifies the void at the core of their existence, rapidly causing the creatures to devour themselves.
@@ -68,9 +68,9 @@ Cunning stalkers, breath drinkers are usually solitary. Occasionally they serve 
       \ Drink Breath."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one creature. *Hit:*\
-      \ 12 (2d6 + 5) necrotic damage, and if the target is Large or smaller, it has\
-      \ the grappled condition (escape DC 18). The target must succeed on a DC 18\
-      \ Constitution saving throw or its hit point maximum is reduced by an amount\
+      \ 12 (2d6 + 5) necrotic damage, and if the target is Large or smaller, it\
+      \ has the grappled condition (escape DC 18). The target must succeed on a DC\
+      \ 18 Constitution saving throw or its hit point maximum is reduced by an amount\
       \ equal to the damage taken. This reduction lasts until the target finishes\
       \ a long rest. The target dies if this effect reduces its hit point maximum\
       \ to 0."
@@ -78,8 +78,8 @@ Cunning stalkers, breath drinkers are usually solitary. Occasionally they serve 
   - "desc": "The breath drinker targets a creature that has the incapacitated condition\
       \ or that the breath drinker is grappling and that isn't a Construct or an Undead.\
       \ The target must make a DC 18 Charisma saving throw. On a failed save, the\
-      \ target takes 36 (8d8) necrotic damage, and its Charisma score is reduced by\
-      \ 1d6. This reduction lasts until the target finishes a short or long rest.\
+      \ target takes 36 (8d8) necrotic damage, and its Charisma score is reduced\
+      \ by 1d6. This reduction lasts until the target finishes a short or long rest.\
       \ If this reduces the target's Charisma to 0, the target dies. Until the breath\
       \ drinker dies, the dead target can't be returned to life by any means short\
       \ of divine intervention. On a successful save, the target takes half as much\
@@ -92,6 +92,6 @@ Cunning stalkers, breath drinkers are usually solitary. Occasionally they serve 
     "name": "Invisibility"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/breath-drinker-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/breath-drinker-bmt.webp"
 ```
 ^statblock

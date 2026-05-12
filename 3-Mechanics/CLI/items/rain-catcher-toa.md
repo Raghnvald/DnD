@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases:
 - "Rain Catcher"
 ---
 # Rain Catcher

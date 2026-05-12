@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Noble (Retainers) (Variant)
+- "Noble (Retainers) (Variant)"
 ---
 # Noble (Retainers) (Variant)
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** [History](3-Mechanics/CLI/rules/skills.md#History), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), a [signet ring](/3-Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of [fine clothes](3-Mechanics/CLI/items/fine-clothes.md), a [signet ring](3-Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
 
 You understand wealth, power, and privilege. You carry a noble title, and your family owns land, collects taxes, and wields significant political influence. You might be a pampered aristocrat unfamiliar with work or discomfort, a former merchant just elevated to the nobility, or a disinherited scoundrel with a disproportionate sense of entitlement. Or you could be an honest, hard-working landowner who cares deeply about the people who live and work on your land, keenly aware of your responsibility to them.
 
@@ -37,8 +37,6 @@ You have the service of three retainers loyal to your family. These retainers ca
 
 Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
-`dice: [](noble-retainers-variant.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. |
@@ -51,8 +49,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 8 | If you do me an injury, I will crush you, ruin your name, and salt your fields. |
 ^personality-trait
 
-`dice: [](noble-retainers-variant.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good) |
@@ -63,8 +59,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 6 | Noble Obligation. It is my duty to protect and care for the people beneath me. (Good) |
 ^ideal
 
-`dice: [](noble-retainers-variant.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I will face any challenge to win the approval of my family. |
@@ -74,8 +68,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 5 | My loyalty to my sovereign is unwavering. |
 | 6 | The common folk must see me as a hero of the people. |
 ^bond
-
-`dice: [](noble-retainers-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

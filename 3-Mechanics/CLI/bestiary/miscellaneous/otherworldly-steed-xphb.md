@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otherworldly Steed
+- "Otherworldly Steed"
 ---
-# [Otherworldly Steed](3-Mechanics\CLI\bestiary\miscellaneous/otherworldly-steed-xphb.md)
-*Source: Player's Handbook (2024) p. 273*  
+# [Otherworldly Steed](3-Mechanics/CLI/bestiary/miscellaneous/otherworldly-steed-xphb.md)
+*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Otherworldly Steed (XPHB)"
@@ -42,7 +42,7 @@ aliases:
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "*Wisdom Saving Throw:* DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. *Failure:* The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 60 feet the steed can see. *Failure:* The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Fiend Only; Recharges after a Long Rest)"
   - "desc": "The steed teleports, along with its rider, to an unoccupied space of\
@@ -53,6 +53,6 @@ aliases:
     "name": "Healing Touch (Celestial Only; Recharges after a Long Rest)"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp"
 ```
 ^statblock

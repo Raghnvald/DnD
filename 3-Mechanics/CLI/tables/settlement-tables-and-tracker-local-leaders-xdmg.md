@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Settlement Tables and Tracker; Local Leaders
+- "Settlement Tables and Tracker; Local Leaders"
 ---
 # Settlement Tables and Tracker; Local Leaders
 *Source: Dungeon Master's Guide (2024) p. 93* 
 
 **Local Leaders**
-
-`dice: [](settlement-tables-and-tracker-local-leaders-xdmg.md#^local-leaders)`
 
 | dice: 1d12 | Leader |
 |------------|--------|

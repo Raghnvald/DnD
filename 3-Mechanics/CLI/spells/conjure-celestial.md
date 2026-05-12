@@ -12,7 +12,7 @@ classes:
 - Bard (Magical Secrets)
 - Cleric
 aliases:
-- Conjure Celestial
+- "Conjure Celestial"
 ---
 # Conjure Celestial
 *7th-level, Conjuration*  
@@ -27,10 +27,10 @@ You summon a celestial of challenge rating 4 or lower, which appears in an unocc
 
 The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.
 
-The DM has [the celestial](/3-Mechanics/CLI/bestiary/celestial/couatl.md)'s statistics.
+The DM has [the celestial](3-Mechanics/CLI/bestiary/celestial/couatl.md)'s statistics.
 
 **At Higher Levels.** When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

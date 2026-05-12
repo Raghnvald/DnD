@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jarlaxle Baenre
+- "Jarlaxle Baenre"
 ---
-# [Jarlaxle Baenre](3-Mechanics\CLI\bestiary\npc/jarlaxle-baenre-wdh.md)
+# [Jarlaxle Baenre](3-Mechanics/CLI/bestiary/npc/jarlaxle-baenre-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 206*  
 
 Jarlaxle is a flamboyant, swashbuckling drow iconoclast. He leads a renegade drow faction called Bregan D'aerthe, made up of disenfranchised male drow, most of them culled from destroyed or disgraced houses. Gifted with a sharp mind, a sense of humor, puissant skill with a blade, and a wealth of useful magic items, Jarlaxle infiltrated the city of Luskan, brought a kind of order to its lawlessness, and declared himself its secret lord.
@@ -32,7 +32,7 @@ Jarlaxle's loyalties are to himself first and foremost, and to Bregan D'aerthe s
 "subtype": "elf"
 "alignment": "Chaotic Neutral"
 "ac": !!int "24"
-"ac_class": "+3 leather armor, Suave Defense"
+"ac_class": "[+3 leather armor](3-Mechanics/CLI/items/3-armor-xdmg.md), Suave Defense"
 "hp": !!int "123"
 "hit_dice": "19d8 + 38"
 "modifier": !!int "6"
@@ -48,64 +48,74 @@ Jarlaxle's loyalties are to himself first and foremost, and to Bregan D'aerthe s
   - "dexterity": !!int "11"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+11"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+14"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+11"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+16"
-"senses": "darkvision 120 ft., passive Perception 18"
+"gear":
+  - "[+3 rapier](3-Mechanics/CLI/items/3-weapon-xdmg.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 18"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Elvish, Undercommon"
 "cr": "15"
 "traits":
   - "desc": "Jarlaxle's innate spellcasting ability is Charisma (spell save DC 17,\
-      \ +9 to hit with spell attacks) He can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** dancing lights\n\n**1/day each:**\
-      \ darkness, faerie fire, levitate (self only)"
+      \ +9 to hit with spell attacks) He can innately cast the following spells,\
+      \ requiring no material components:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Jarlaxle wears +3 leather armor, a hat of disguise, a [bracer of flying\
-      \ daggers](/3-Mechanics/CLI/items/bracer-of-flying-daggers-wdh.md), a cloak\
-      \ of invisibility, a [knave's eye patch](/3-Mechanics/CLI/items/knaves-eye-patch-wdh.md),\
-      \ and a [ring of truth telling](/3-Mechanics/CLI/items/ring-of-truth-telling-wdh.md).\
-      \ He wields a +3 rapier and carries a portable hole and a wand of web. His hat\
-      \ is adorned with a [feather of diatryma summoning](/3-Mechanics/CLI/items/feather-of-diatryma-summoning-wdh.md)."
+  - "desc": "Jarlaxle wears [+3 leather armor](3-Mechanics/CLI/items/3-armor-xdmg.md),\
+      \ a [hat of disguise](3-Mechanics/CLI/items/hat-of-disguise-xdmg.md), a [bracer\
+      \ of flying daggers](3-Mechanics/CLI/items/bracer-of-flying-daggers-wdh.md),\
+      \ a [cloak of invisibility](3-Mechanics/CLI/items/cloak-of-invisibility-xdmg.md),\
+      \ a [knave's eye patch](3-Mechanics/CLI/items/knaves-eye-patch-wdh.md), and\
+      \ a [ring of truth telling](3-Mechanics/CLI/items/ring-of-truth-telling-wdh.md).\
+      \ He wields a [+3 rapier](3-Mechanics/CLI/items/3-weapon-xdmg.md) and carries\
+      \ a [portable hole](3-Mechanics/CLI/items/portable-hole-xdmg.md) and a [wand\
+      \ of web](3-Mechanics/CLI/items/wand-of-web-xdmg.md). His hat is adorned with\
+      \ a [feather of diatryma summoning](3-Mechanics/CLI/items/feather-of-diatryma-summoning-wdh.md)."
     "name": "Special Equipment"
   - "desc": "If he is subjected to an effect that allows him to make a Dexterity saving\
       \ throw to take only half damage, Jarlaxle instead takes no damage if he succeeds\
       \ on the saving throw, and only half damage if he fails. He can't use this trait\
-      \ if he's incapacitated."
+      \ if he's [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
-  - "desc": "Jarlaxle has advantage on saving throws against being charmed, and magic\
-      \ can't put him to sleep."
+  - "desc": "Jarlaxle has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put him to sleep."
     "name": "Fey Ancestry"
   - "desc": "If Jarlaxle fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (1/Day)"
   - "desc": "Jarlaxle can attune to up to five magic items, and he can attune to magic\
       \ items that normally require attunement by a sorcerer, warlock, or wizard."
     "name": "Master Attuner"
-  - "desc": "Jarlaxle deals an extra 24 (7d6) damage when he hits a target with a\
-      \ weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of Jarlaxle's that isn't incapacitated and Jarlaxle\
-      \ doesn't have disadvantage on the attack roll."
+  - "desc": "Jarlaxle deals an extra 24 (7d6) damage when he hits a target with\
+      \ a weapon attack and has advantage on the attack roll, or when the target is\
+      \ within 5 feet of an ally of Jarlaxle's that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and Jarlaxle doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
   - "desc": "While Jarlaxle is wearing light or no armor and wielding no shield, his\
       \ AC includes his Charisma modifier."
     "name": "Suave Defense"
   - "desc": "When not wearing his knave's eye patch, Jarlaxle has disadvantage on\
-      \ attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+      \ attack rolls, as well as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Jarlaxle makes three attacks with his +3 rapier or two attacks with daggers\
       \ created by his bracer of flying daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (1d8 + 9) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (1d8 + 9) piercing damage."
     "name": "+3 Rapier"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 20/60 ft., one target. *Hit:*\
       \ 8 (1d4 + 6) piercing damage."
@@ -121,6 +131,6 @@ Jarlaxle's loyalties are to himself first and foremost, and to Bregan D'aerthe s
     "name": "Attack (Costs 2 Actions)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jarlaxle-baenre-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jarlaxle-baenre-wdh.webp"
 ```
 ^statblock

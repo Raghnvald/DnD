@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Wizard
+- "Wizard"
 ---
 # Wizard
 *Source: Guildmasters' Guide to Ravnica p. 25* 
@@ -14,14 +14,14 @@ aliases:
 
 | Subclass | Guild |
 |----------|-------|
-| [School of Abjuration](/3-Mechanics/CLI/classes/wizard-xphb.md) | Azorius, Orzhov |
-| [School of Conjuration](/3-Mechanics/CLI/classes/wizard-xphb.md) | Izzet, Simic |
-| [School of Divination](/3-Mechanics/CLI/classes/wizard-xphb.md) | Azorius, Dimir, Orzhov |
-| [School of Enchantment](/3-Mechanics/CLI/classes/wizard-xphb.md) | Azorius, Dimir, Orzhov |
-| [School of Evocation](/3-Mechanics/CLI/classes/wizard-xphb.md) | Boros, Izzet |
-| [School of Illusion](/3-Mechanics/CLI/classes/wizard-xphb.md) | Dimir |
-| [School of Necromancy](/3-Mechanics/CLI/classes/wizard-xphb.md) | Golgari, Orzhov |
-| [School of Transmutation](/3-Mechanics/CLI/classes/wizard-xphb.md) | Izzet, Simic |
+| School of Abjuration | Azorius, Orzhov |
+| School of Conjuration | Izzet, Simic |
+| School of Divination | Azorius, Dimir, Orzhov |
+| School of Enchantment | Azorius, Dimir, Orzhov |
+| School of Evocation | Boros, Izzet |
+| School of Illusion | Dimir |
+| School of Necromancy | Golgari, Orzhov |
+| School of Transmutation | Izzet, Simic |
 | War Magic* | Boros |
 ^wizard
 

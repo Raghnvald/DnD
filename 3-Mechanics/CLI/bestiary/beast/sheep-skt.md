@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sheep
+- "Sheep"
 ---
-# [Sheep](3-Mechanics\CLI\bestiary\beast/sheep-skt.md)
+# [Sheep](3-Mechanics/CLI/bestiary/beast/sheep-skt.md)
 *Source: Storm King's Thunder p. 142*  
 
 ```statblock
@@ -37,10 +37,10 @@ aliases:
 "cr": "0"
 "traits":
   - "desc": "The sheep has advantage on Strength and Dexterity saving throws made\
-      \ against effects that would knock it prone."
+      \ against effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/sheep-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/sheep-skt.webp"
 ```
 ^statblock

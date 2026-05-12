@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Haunted One
+- "Haunted One"
 ---
 # Haunted One
-*Source: Van Richten's Guide to Ravenloft p. 34, Curse of Strahd p. 209*  
-![](/3-Mechanics/CLI/backgrounds/img/haunted-one.webp#right)
+*Source: Van Richten's Guide to Ravenloft p. 34*  
+![](3-Mechanics/CLI/backgrounds/img/haunted-one.webp#right)
 
-- **Skill Proficiencies.** Choose two from among [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Religion](/3-Mechanics/CLI/skills.md#Religion), or [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Skill Proficiencies.** Choose two from among [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Religion](3-Mechanics/CLI/rules/skills.md#Religion), or [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Languages.** Choose two, one of which must be Abyssal, Celestial, Deep Speech, Draconic, Infernal, Primordial, Sylvan, or Undercommon  
-- **Equipment.** [Monster hunter's pack](/3-Mechanics/CLI/items/monster-hunters-pack-vrgr.md) (containing a [chest](/3-Mechanics/CLI/items/chest-xphb.md), a [crowbar](/3-Mechanics/CLI/items/crowbar-xphb.md), a [hammer](/3-Mechanics/CLI/items/hammer.md), three wooden stakes, a [holy symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md), a [flask of holy water](/3-Mechanics/CLI/items/holy-water-xphb.md), a [set of manacles](/3-Mechanics/CLI/items/manacles-xphb.md), a [steel mirror](/3-Mechanics/CLI/items/mirror-xphb.md), a [flask of oil](/3-Mechanics/CLI/items/oil-xphb.md), a [tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md), and 3 [torches](/3-Mechanics/CLI/items/torch-xphb.md)), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), one [trinket](/3-Mechanics/CLI/items/trinket-cos.md) of special significance (choose one or roll on the [Horror Trinkets](/3-Mechanics/CLI/items/horror-trinket-vrgr.md) table), and 1 sp  
+- **Equipment.** [Monster hunter's pack](3-Mechanics/CLI/items/monster-hunters-pack-vrgr.md) (containing a [chest](3-Mechanics/CLI/items/chest-xphb.md), a [crowbar](3-Mechanics/CLI/items/crowbar-xphb.md), a hammer, three wooden stakes, a [holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md), a [flask of holy water](3-Mechanics/CLI/items/holy-water-xphb.md), a [set of manacles](3-Mechanics/CLI/items/manacles-xphb.md), a [steel mirror](3-Mechanics/CLI/items/mirror-xphb.md), a [flask of oil](3-Mechanics/CLI/items/oil-xphb.md), a [tinderbox](3-Mechanics/CLI/items/tinderbox-xphb.md), and 3 [torches](3-Mechanics/CLI/items/torch-xphb.md)), a set of common clothes, one trinket of special significance (choose one or roll on the [Horror Trinkets](3-Mechanics/CLI/items/horror-trinket-vrgr.md) table), and 1 sp  
 
 You are haunted by something so terrible that you dare not speak of it. You've tried to bury it and run away from it, to no avail. Whatever this thing is that haunts you can't be slain with a sword or banished with a spell. It might come to you as a shadow on the wall, a bloodcurdling nightmare, a memory that refuses to die, or a demonic whisper in the dark. The burden has taken its toll, isolating you from most people and making you question your sanity. You must find a way to overcome it before it destroys you.
 
@@ -27,8 +27,6 @@ Those who look into your eyes can see that you have faced unimaginable horror an
 Prior to becoming an adventurer, your path in life was defined by one dark moment, one fateful decision, or one tragedy. Now you feel a darkness threatening to consume you, and you fear there may be no hope of escape. Choose a harrowing event that haunts you, or roll one on the Harrowing Events table.
 
 **Harrowing Event**
-
-`dice: [](haunted-one-vrgr.md#^harrowing-event)`
 
 | dice: d10 | Event |
 |-----------|-------|
@@ -50,8 +48,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Personality Traits**
 
-`dice: [](haunted-one-vrgr.md#^horror-character-personality-traits)`
-
 | dice: d12 | Personality Trait |
 |-----------|-------------------|
 | 1 | I had an encounter that I believe gives me a special affinity with a supernatural creature or event. |
@@ -69,8 +65,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 ^horror-character-personality-traits
 
 **Horror Character Ideals**
-
-`dice: [](haunted-one-vrgr.md#^horror-character-ideals)`
 
 | dice: d12 | Ideal |
 |-----------|-------|
@@ -90,8 +84,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Bonds**
 
-`dice: [](haunted-one-vrgr.md#^horror-character-bonds)`
-
 | dice: d12 | Bond |
 |-----------|------|
 | 1 | I desperately need to get back to someone or someplace, but I lost them in the Mists. |
@@ -109,8 +101,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 ^horror-character-bonds
 
 **Horror Character Flaws**
-
-`dice: [](haunted-one-vrgr.md#^horror-character-flaws)`
 
 | dice: d12 | Flaw |
 |-----------|------|

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Shadow Dragon; Shadow Dragon Personality Traits
+- "Creating a Shadow Dragon; Shadow Dragon Personality Traits"
 ---
 # Creating a Shadow Dragon; Shadow Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 142* 
 
 **Shadow Dragon Personality Traits**
-
-`dice: [](creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd.md#^shadow-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

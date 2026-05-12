@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quipper
+- "Quipper"
 ---
-# [Quipper](3-Mechanics\CLI\bestiary\beast/quipper.md)
+# [Quipper](3-Mechanics/CLI/bestiary/beast/quipper.md)
 *Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A quipper is a carnivorous fish with sharp teeth.
@@ -37,8 +37,8 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
   - !!int "7"
   - !!int "2"
 "speed": "swim 40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": ""
 "cr": "0"
 "traits":
@@ -48,12 +48,12 @@ Quippers can adapt to any aquatic environment, including cold subterranean lakes
   - "desc": "The quipper can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/quipper.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/quipper.webp"
 ```
 ^statblock
 

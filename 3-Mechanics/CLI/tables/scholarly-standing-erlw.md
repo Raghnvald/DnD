@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Scholarly Standing
+- "Scholarly Standing"
 ---
 # Scholarly Standing
 *Source: Eberron: Rising from the Last War p. 100* 
 
 **Scholarly Standing**
-
-`dice: [](scholarly-standing-erlw.md#^scholarly-standing)`
 
 | dice: d6 | Standing |
 |----------|----------|

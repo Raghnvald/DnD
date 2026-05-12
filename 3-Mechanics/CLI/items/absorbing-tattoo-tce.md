@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Absorbing Tattoo"
 ---
 # Absorbing Tattoo
@@ -29,20 +29,18 @@ While the tattoo is on your skin, you have resistance to a type of damage associ
 
 **Absorbing Tattoo**
 
-`dice: [](absorbing-tattoo-tce.md#^absorbing-tattoo)`
-
 | dice: d10 | Color | Tattoo |
 |-----------|-------|--------|
-| 1 | Green | [Acid Absorbing Tattoo](/3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md) |
-| 2 | Blue | [Cold Absorbing Tattoo](/3-Mechanics/CLI/items/cold-absorbing-tattoo-tce.md) |
-| 3 | Red | [Fire Absorbing Tattoo](/3-Mechanics/CLI/items/fire-absorbing-tattoo-tce.md) |
-| 4 | White | [Force Absorbing Tattoo](/3-Mechanics/CLI/items/force-absorbing-tattoo-tce.md) |
-| 5 | Yellow | [Lightning Absorbing Tattoo](/3-Mechanics/CLI/items/lightning-absorbing-tattoo-tce.md) |
-| 6 | Black | [Necrotic Absorbing Tattoo](/3-Mechanics/CLI/items/necrotic-absorbing-tattoo-tce.md) |
-| 7 | Violet | [Poison Absorbing Tattoo](/3-Mechanics/CLI/items/poison-absorbing-tattoo-tce.md) |
-| 8 | Silver | [Psychic Absorbing Tattoo](/3-Mechanics/CLI/items/psychic-absorbing-tattoo-tce.md) |
-| 9 | Gold | [Radiant Absorbing Tattoo](/3-Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md) |
-| 10 | Orange | [Thunder Absorbing Tattoo](/3-Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md) |
+| 1 | Green | [Acid Absorbing Tattoo](3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md) |
+| 2 | Blue | [Cold Absorbing Tattoo](3-Mechanics/CLI/items/cold-absorbing-tattoo-tce.md) |
+| 3 | Red | [Fire Absorbing Tattoo](3-Mechanics/CLI/items/fire-absorbing-tattoo-tce.md) |
+| 4 | White | [Force Absorbing Tattoo](3-Mechanics/CLI/items/force-absorbing-tattoo-tce.md) |
+| 5 | Yellow | [Lightning Absorbing Tattoo](3-Mechanics/CLI/items/lightning-absorbing-tattoo-tce.md) |
+| 6 | Black | [Necrotic Absorbing Tattoo](3-Mechanics/CLI/items/necrotic-absorbing-tattoo-tce.md) |
+| 7 | Violet | [Poison Absorbing Tattoo](3-Mechanics/CLI/items/poison-absorbing-tattoo-tce.md) |
+| 8 | Silver | [Psychic Absorbing Tattoo](3-Mechanics/CLI/items/psychic-absorbing-tattoo-tce.md) |
+| 9 | Gold | [Radiant Absorbing Tattoo](3-Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md) |
+| 10 | Orange | [Thunder Absorbing Tattoo](3-Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md) |
 ^absorbing-tattoo
 
 ## Damage Absorption
@@ -51,15 +49,15 @@ When you take damage of the chosen type, you can use your reaction to gain immun
 
 **Items in this group:**
 
-- [Acid Absorbing Tattoo](/3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md)
-- [Cold Absorbing Tattoo](/3-Mechanics/CLI/items/cold-absorbing-tattoo-tce.md)
-- [Fire Absorbing Tattoo](/3-Mechanics/CLI/items/fire-absorbing-tattoo-tce.md)
-- [Force Absorbing Tattoo](/3-Mechanics/CLI/items/force-absorbing-tattoo-tce.md)
-- [Lightning Absorbing Tattoo](/3-Mechanics/CLI/items/lightning-absorbing-tattoo-tce.md)
-- [Necrotic Absorbing Tattoo](/3-Mechanics/CLI/items/necrotic-absorbing-tattoo-tce.md)
-- [Poison Absorbing Tattoo](/3-Mechanics/CLI/items/poison-absorbing-tattoo-tce.md)
-- [Psychic Absorbing Tattoo](/3-Mechanics/CLI/items/psychic-absorbing-tattoo-tce.md)
-- [Radiant Absorbing Tattoo](/3-Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md)
-- [Thunder Absorbing Tattoo](/3-Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md)
+- [Acid Absorbing Tattoo](3-Mechanics/CLI/items/acid-absorbing-tattoo-tce.md)
+- [Cold Absorbing Tattoo](3-Mechanics/CLI/items/cold-absorbing-tattoo-tce.md)
+- [Fire Absorbing Tattoo](3-Mechanics/CLI/items/fire-absorbing-tattoo-tce.md)
+- [Force Absorbing Tattoo](3-Mechanics/CLI/items/force-absorbing-tattoo-tce.md)
+- [Lightning Absorbing Tattoo](3-Mechanics/CLI/items/lightning-absorbing-tattoo-tce.md)
+- [Necrotic Absorbing Tattoo](3-Mechanics/CLI/items/necrotic-absorbing-tattoo-tce.md)
+- [Poison Absorbing Tattoo](3-Mechanics/CLI/items/poison-absorbing-tattoo-tce.md)
+- [Psychic Absorbing Tattoo](3-Mechanics/CLI/items/psychic-absorbing-tattoo-tce.md)
+- [Radiant Absorbing Tattoo](3-Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md)
+- [Thunder Absorbing Tattoo](3-Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md)
 
 *Source: Tasha's Cauldron of Everything p. 119*

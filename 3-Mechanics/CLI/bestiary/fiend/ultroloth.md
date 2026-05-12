@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ultroloth
+- "Ultroloth"
 ---
-# [Ultroloth](3-Mechanics\CLI\bestiary\fiend/ultroloth.md)
-*Source: Monster Manual p. 314, Explorer's Guide to Wildemount*  
+# [Ultroloth](3-Mechanics/CLI/bestiary/fiend/ultroloth.md)
+*Source: Monster Manual p. 314*  
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
 
@@ -92,26 +92,34 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - !!int "19"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "charmed, frightened, poisoned"
-"senses": "truesight 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 17"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "The ultroloth's innate spellcasting ability is Charisma (spell save DC\
       \ 17). The ultroloth can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** alter self, clairvoyance, darkness, detect magic,\
-      \ detect thoughts, dispel magic, invisibility (self only), suggestion\n\n**3/day\
-      \ each:** dimension door, fear, wall of fire\n\n**1/day each:** fire storm,\
-      \ mass suggestion"
+      \ components:\n\n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self.md),\
+      \ [clairvoyance](3-Mechanics/CLI/spells/clairvoyance.md), [darkness](3-Mechanics/CLI/spells/darkness.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only), [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**3/day\
+      \ each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [fear](3-Mechanics/CLI/spells/fear.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**1/day each:**\
+      \ [fire storm](3-Mechanics/CLI/spells/fire-storm.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md)"
     "name": "Innate Spellcasting"
   - "desc": "The ultroloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -121,22 +129,24 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 "actions":
   - "desc": "The ultroloth can use its Hypnotic Gaze and makes three melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "The ultroloth's eyes sparkle with opalescent light as it targets one\
       \ creature it can see within 30 feet of it. If the target can see the ultroloth,\
       \ the target must succeed on a DC 17 Wisdom saving throw against this magic\
-      \ or be charmed until the end of the ultroloth's next turn. The charmed target\
-      \ is stunned. If the target's saving throw is successful, the target is immune\
-      \ to the ultroloth's gaze for the next 24 hours."
+      \ or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) until the end\
+      \ of the ultroloth's next turn. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ target is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned). If the target's\
+      \ saving throw is successful, the target is immune to the ultroloth's gaze for\
+      \ the next 24 hours."
     "name": "Hypnotic Gaze"
   - "desc": "The ultroloth magically teleports, along with any equipment it is wearing\
       \ or carrying, up to 60 feet to an unoccupied space it can see."
     "name": "Teleport"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/ultroloth.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/ultroloth.webp"
 ```
 ^statblock

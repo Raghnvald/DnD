@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Soldier
+- "Soldier"
 ---
-# [Soldier](3-Mechanics\CLI\bestiary\humanoid/soldier-ggr.md)
+# [Soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 226*  
 
 Soldiers are found in many of Ravnica's guilds. The soldier stat block represents a typical member of the rank and file, though weaponry and armor can vary.
@@ -24,7 +24,7 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "chain mail, shield"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "1"
@@ -37,27 +37,28 @@ Soldiers are found in many of Ravnica's guilds. The soldier stat block represent
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+3"
+"gear":
+  - "longsword"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-  - "desc": "The soldier has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-      \ or [restrained](/3-Mechanics/CLI/conditions.md#Restrained) while it is within\
-      \ 5 feet of at least one ally."
+  - "desc": "The soldier has advantage on saving throws against being charmed, frightened,\
+      \ grappled, or restrained while it is within 5 feet of at least one ally."
     "name": "Formation Tactics"
 "actions":
   - "desc": "The soldier makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/soldier-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/soldier-ggr.webp"
 ```
 ^statblock

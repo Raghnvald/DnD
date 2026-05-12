@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/half-dragon
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/half-dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zindar
+- "Zindar"
 ---
-# [Zindar](3-Mechanics\CLI\bestiary\npc/zindar-toa.md)
+# [Zindar](3-Mechanics/CLI/bestiary/npc/zindar-toa.md)
 *Source: Tomb of Annihilation p. 239*  
 
 This half-gold dragon runs Port Nyanzaru's docks and keeps track of ship manifests. A sorcerer of impressive ability, Zindar is well paid by the merchant princes for his work. He is also a key member of the Ytepka Society and a great source of information about the city. Zindar has a soft spot for adventurers, but he knows the dangers of Chult well enough to understand that most of those who embark on expeditions to explore the jungle never return.
@@ -56,36 +56,47 @@ Zindar makes extensive use of spells in his day-today work, casting message to d
   - "constitution": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+9"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+9"
 "damage_resistances": "fire"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 12"
 "languages": "Common, Draconic, Dwarvish, Primordial"
 "cr": "8"
 "traits":
   - "desc": "Zindar is a 14th-level spellcaster. His spellcasting ability is Charisma\
       \ (spell save DC 15, +7 to hit with spell attacks). Zindar knows the following\
-      \ sorcerer spells:\n\n**Cantrips (at will):** fire bolt, friends, light, mage\
-      \ hand, mending, message\n\n**1st level (6 slots):** magic missile, shield,\
-      \ sleep\n\n**2nd level (4 slots):** detect thoughts, knock\n\n**3rd level (3\
-      \ slots):** clairvoyance, tongues\n\n**4th level (3 slots):** dominate beast,\
-      \ stoneskin\n\n**5th level (3 slots):** hold monster, telekinesis\n\n**6th level\
-      \ (1 slots):** true seeing\n\n**7th level (1 slots):** fire storm"
+      \ sorcerer spells:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [friends](3-Mechanics/CLI/spells/friends-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md)\n\n**1st level (6 slots):**\
+      \ [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\n**2nd level (4 slots):**\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [knock](3-Mechanics/CLI/spells/knock-xphb.md)\n\
+      \n**3rd level (3 slots):** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**4th level (3 slots):**\
+      \ [dominate beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md)\n\
+      \n**5th level (3 slots):** [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\n**6th level (1\
+      \ slots):** [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)\n\n**7th\
+      \ level (1 slots):** [fire storm](3-Mechanics/CLI/spells/fire-storm-xphb.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action on his turn, Zindar can sprout a pair of dragon wings\
       \ from his back, gaining a flying speed of 30 feet until he dismisses them as\
       \ a bonus action."
     "name": "Dragon Wings"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage when used with\
-      \ two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage when used\
+      \ with two hands."
     "name": "Quarterstaff"
   - "desc": "Zindar uses one of the following options:"
     "name": "Breath Weapon (Recharge 5-6)"
@@ -101,6 +112,6 @@ Zindar makes extensive use of spells in his day-today work, casting message to d
     "name": "Weakening Breath"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zindar-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zindar-toa.webp"
 ```
 ^statblock

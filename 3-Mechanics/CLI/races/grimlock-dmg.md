@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/grimlock
 aliases:
-- Grimlock
+- "Grimlock"
 ---
 # Grimlock
 *Source: Dungeon Master's Guide p. 282*  
@@ -20,15 +20,15 @@ aliases:
 
 ### Blindsight
 
-You have no eyes, and cannot be [blinded](/3-Mechanics/CLI/conditions.md#Blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](/3-Mechanics/CLI/conditions.md#Deafened). You are considered blind beyond this radius.
+You have no eyes, and cannot be blinded. You can perceive your surroundings within 30 ft., or 10 ft. while deafened. You are considered blind beyond this radius.
 
 ### Keen Hearing and Smell
 
-You have advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
+You have advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
+You have advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
 ### Languages
 

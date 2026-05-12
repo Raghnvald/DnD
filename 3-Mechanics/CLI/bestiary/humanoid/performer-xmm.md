@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Performer
+- "Performer"
 ---
-# [Performer](3-Mechanics\CLI\bestiary\humanoid/performer-xmm.md)
+# [Performer](3-Mechanics/CLI/bestiary/humanoid/performer-xmm.md)
 *Source: Monster Manual (2024) p. 236*  
 
 Common performers include traveling storytellers, tavern musicians, local entertainers, and chorus members performing with veteran artists. These performers might be self-taught or in the early years of formal training. Most have a modest level of celebrity and two or three instruments or talents at which they excel.
@@ -23,7 +23,7 @@ Common performers include traveling storytellers, tavern musicians, local entert
 *Artists and Entertainers*
 
 - **Habitat.** Any  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
 
 From royal courts to village squares, skilled entertainers hone their talents and delight audiences. Some travel far, sharing tales and demonstrating mysterious arts. Others serve in the courts and theaters of great nations, cultivating celebrity and navigating the whims of patrons. Many hone professional secrets and magical flourishes, striving to make their performances truly unforgettable.
 
@@ -115,17 +115,20 @@ Wrestler
   - "dexterity": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+7"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage."
     "name": "Shortsword"
 "reactions":
   - "desc": "Trigger: The performer is hit by an attack roll. _Response:_ The performer\
@@ -133,7 +136,7 @@ Wrestler
     "name": "Uncanny Dodge"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/performer-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/performer-xmm.webp"
 ```
 ^statblock
 

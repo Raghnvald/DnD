@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crawling Claw
+- "Crawling Claw"
 ---
-# [Crawling Claw](3-Mechanics\CLI\bestiary\undead/crawling-claw-xmm.md)
+# [Crawling Claw](3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md)
 *Source: Monster Manual (2024) p. 83*  
 
 Lone crawling claws can continue killing sprees they perpetrated in life. Some recklessly attack the living, while others pursue specific victims. In rare cases, a crawling claw wreaks mayhem while the rest of its body still lives, with the original creature potentially unaware of its severed hand's crimes.
@@ -50,11 +50,11 @@ Crawling claws are severed hands that move and act of their own murderous accord
   - !!int "4"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 10"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "actions":
@@ -62,7 +62,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
     "name": "Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/crawling-claw-xmm.webp"
 ```
 ^statblock
 

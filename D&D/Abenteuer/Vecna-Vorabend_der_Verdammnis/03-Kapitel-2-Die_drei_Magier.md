@@ -311,45 +311,45 @@ Die Magier beantworten die Fragen der Charaktere nach besten Kräften. Wie Morde
 
 Ehe die Charaktere nach Netzrand aufbrechen, versorgt Alustriel sie mit allen Informationen, die sie noch nicht erfahren haben, darunter mit den Details unter „Magie im Heiligtum" weiter vorne in diesem Kapitel.
 
-#### A Significant Lie
+#### Eine gewichtige Lüge
 
-In the guise of Mordenkainen, Kas has lied to the characters about the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). While the rod is useful against Vecna, Kas simply wants the characters to retrieve the rod so he can use it to free Miska.
+Kas in Gestalt von Mordenkainen hat die Charaktere belogen, was den [[Stab_der_Sieben_Teile-veor]] betrifft. Dieser ist zwar nützlich gegen Vecna, doch Kas will ihn für sich haben, damit er Miska befreien kann. 
 
-Kas doesn't know that Vecna is weakened to pre-god status while weaving the Ritual of Remaking. The characters will learn this when they confront Vecna in chapter 11.
+Kas weiß nicht, dass Vecna durch die Vorbereitung des Rituals der Umformung so geschwächt ist, dass er nicht mehr den Status eines Gottes hat. Die Charaktere werden dies erfahren, wenn sie Vecna in Kapitel 11 stellen. 
 
-### Sending Vecna Back
+### Vecna zurückschicken
 
-The [Chime of Exile](/3-Mechanics/CLI/items/chime-of-exile-veor.md) is Alustriel's property and ultimately can send Vecna back to Oerth, interrupting his ritual. The interruption would dissipate the secret-based magic Vecna is weaving, significantly setting back his plot and leaving the lich-god in a weakened state. If the characters wish to take the chime with them, Alustriel assents.
+Die [[Glocke_des_Exils-veor]] gehört Alustriel und kann Vecna schließlich nach Oerth zurückschicken, wodurch sein Ritual unterbrochen wird. Diese Unterbrechung würde die Geheimnismagie auflösen, die Vecna sammelt, seinem Plan einen großen Rückschlag versetzen und den Lich-Gott in einen geschwächten Zustand versetzen. Wenn die Charaktere die Glocke mitnehmen wollen, ist Alustriel einverstanden. 
 
-#### Chime of Exile
+#### Glocke des Exils
 
-*Wondrous Item, Very Rare*
+*Wundersamer Gegenstand, sehr selten*
 
-This silver chime is engraved with delicate magic sigils. While holding the chime, you can use an action to cast the Banishment spell (spell save DC 20). If the target of the spell has 50 hit points or fewer, it automatically fails its saving throw. Once the chime has been used to cast the spell, it can't be used this way again until the next dawn.
+Die silberne Glocke ist mit zarten magischen Siegeln versehen. Wer sie hält, kann eine Aktion verwenden, um den Zauber Verbannung (Zauberrettungswurf-SG 20) zu wirken. Wenn das Ziel des Zaubers höchstens 50 Trefferpunkte hat, scheitert sein Rettungswurf automatisch. Wurde die Glocke eingesetzt, um den Zauber zu wirken, so ist dies erst im nächsten Morgengrauen wieder möglich. 
 
-## Toward Web's Edge
+## Nach Netzrand
 
-![Alustriel's Chime of Exile...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/034-02-007-mordenkainen-holding-chime-of-exile.webp#center "Alustriel's Chime of Exile might help the characters defeat Vecna")
+![Alustriel's Chime of Exile...](Vecna-Vorabend_der_Verdammnis/img/034-02-007-mordenkainen-holding-chime-of-exile.webp#center "Alustriel's Chime of Exile might help the characters defeat Vecna")
 
-After stepping through the portal, the characters emerge deep in the Underdark in Faerûn. The rod piece is hidden in Web's Edge, a nearby safe house for agents of the demon-god Lolth.
+Wenn die Charaktere durch das Portal getreten sind, befinden sie sich tief im Unterreich in Faerûn. Das Stabteil liegt in Netzrand verborgen, einer nahen Zuflucht für Agenten der Dämonengöttin Lolth. 
 
-The characters initially emerge through a door-shaped fissure in one wall of a claustrophobic, seemingly abandoned corridor outside the hidden entrance to Web's Edge. There is no light source, and the invisible portal back to Sigil remains open.
+Die Charaktere treten dort durch einen türförmigen Riss in der Wand eines engen, offenbar verlassenen Korridors außerhalb des verborgenen Eingangs von Netzrand. Es gibt keine Lichtquelle, und das unsichtbare Portal zurück nach Sigi! bleibt offen. 
 
-### Web's Edge Entrance
+### Eingang von Netzrand
 
-The entrance to Web's Edge is hidden mere steps from where the characters arrive in the Underdark. The 10-foot-wide doorway is closed and cloaked with a permanent invisibility effect. Those who can perceive invisible objects see a nondescript iron door. The door is sealed with an Arcane Lock spell and requires a successful DC 22 Dexterity (Sleight of Hand) check using thieves' tools to open.
+Der Eingang von Netzrand liegt nur wenige Schritte von der Stelle entfernt, an der die Charaktere im Unterreich eintreffen. Er ist drei Meter breit, verschlossen und mit einem permanenten Unsichtbarkeitseffekt versehen. Charaktere, die unsichtbare Gegenstände wahrnehmen können, sehen eine unscheinbare Eisentür. Die Tür ist mit dem Zauber [[Arkanes_Schloss-phb]] versiegelt. Sie zu öffnen erfordert einen erfolgreichen SG-22-Geschicklichkeitswurf ([[Fingerfertigkeit]]) sowie [[Diebeswerkzeug-phb]]. 
 
-Visible to characters who can see invisible objects are eight symbols subtly carved into the rock above the doorway. Tiny Undercommon characters are embedded in each symbol. When touched in the order that spells out "Web's Edge," the doorway opens.
+Charaktere, die unsichtbare Gegenstände wahrnehmen können, sehen acht subtile Symbole im Fels über dem Eingang. Jedes Symbol enthält winzige Buchstaben in der Gemeinsprache der Unterreiche. Wenn sie in der richtigen Reihenfolge berührt werden, um das Wort ,,Netzrand" zu bilden, öffnet sich der Eingang. 
 
-## Web's Edge
+## Netzrand
 
-![Chime of Exile](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/035-02-008-chime-of-exile.webp#center)
+![Chime of Exile](Vecna-Vorabend_der_Verdammnis/img/035-02-008-chime-of-exile.webp#center)
 
-Web's Edge is a hidden meeting place for agents of Lolth who operate throughout the Underdark beneath the Sword Coast, pursuing missions for the glory of their demon-god. These agents use Web's Edge to plot infiltration missions targeting virtuous clerical orders; to sabotage efforts to quash Lolth's worship; to orchestrate the upheaval of good-aligned governments; and to plan large-scale conversion efforts in Underdark cities, including Blingdenstone, Gracklstugh, and Mithral Hall.
+Netzrand ist ein geheimer Treffpunkt für Lolths Agenten, die im gesamt,m Unterreich unter der Schwertküste aktiv sind und Missionen zu Ehren ihrer Dämonengöttin erfüllen. Diese Schergen nutzen Netzrand, um ihre Infiltrationsmissionen bei Klerikerorden mit guter Gesinnung zu planen, um Anstrengungen zu sabotieren, die Anbetung Lolths zu verhindern, Aufstände gegen Regierungen mit guter Gesinnung zu orchestrieren und umfassende Konvertierungsanstrengungen in Städten des Unterreichs wie Blingdenstein, Gracklstugh und Mithralhalle zu planen. 
 
-Agents might spend a few hours in Web's Edge, attending tactical meetings before dispersing. Others stay for 14 days or more while they await the arrival of colleagues from all reaches of the Underdark. A few spend months at a time in Web's Edge, using its barrack to lie low while authorities elsewhere hunt for them.
+Die Agenten verbringen dann einige Stunden mit taktischen Besprechungen in Netzrand, bevor sie sich wieder zerstreuen. Andere bleiben zwei Wochen oder länger, während sie auf die Ankunft von Kollegen aus dem gesamten Unterreich warten. Manche verbringen sogar Monate in Netzrand, um in den dortigen Unterkünften unterzutauchen, während sie anderswo von den Behörden gesucht werden. 
 
-Owing to the highly sensitive and wicked work that takes place here, Web's Edge is a carefully guarded secret. Only the highest-ranking covert operatives and members of Lolth's clergy know about it, though powerful demons and devils allied with the Spider Queen are also aware of Web's Edge. A few cultists live in Web's Edge to maintain its facilities and serve as support staff to the operatives. These cultists are confined to the facility for life—a sacrifice they make willingly to show their devotion to the Spider Queen.
+Da hier höchst geheime und böse Arbeiten ausgeführt werden, ist Netzrand ein wohlgehütetes Geheimnis. Nur die höchstrangigen Geheimagenten und Mitglieder von Lolths Klerus sowie mächtige Dämonen und Teufel, die mit der Spinnenkönigin im Bunde sind, wissen von diesem Ort. Ein paar Kultisten leben in Netzrand, um die Einrichtung zu pflegen und den Agenten als Unterstützung zu dienen. Diese Kultisten sind dazu verpflichtet, ihr gesamtes Leben hier zu verbringen dieses Opfer bringen sie allerdings gerne, um der Spinnenkönigin ihre Ergebenheit zu beweisen. 
 
 ### General Features
 

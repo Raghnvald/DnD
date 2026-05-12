@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/mm
 - ttrpg-cli/monster/legendary-group
 aliases:
-- Gold Dragon
+- "Gold Dragon"
 ---
 # Gold Dragon
 
@@ -20,9 +20,9 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 ### Additional Lair Action
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)) gold dragon can use the following additional lair action while in its lair:
+At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md) or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)) gold dragon can use the following additional lair action while in its lair:
 
-- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
+- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
 
 ## Regional Effects
 _Source: Monster Manual_

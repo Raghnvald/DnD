@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githyanki Personality Traits
+- "Gith Tables; Githyanki Personality Traits"
 ---
 # Gith Tables; Githyanki Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githyanki Personality Traits**
-
-`dice: [](gith-tables-githyanki-personality-traits-mtf.md#^githyanki-personality-traits)`
 
 | dice: d4 | Trait |
 |----------|-------|

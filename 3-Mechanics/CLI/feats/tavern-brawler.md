@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Tavern Brawler
+- "Tavern Brawler"
 ---
 # Tavern Brawler
 *Source: Player's Handbook p. 170*  
@@ -15,5 +15,5 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 
 - Increase your Strength or Constitution by 1, to a maximum of 20.  
 - You are proficient with improvised weapons.  
-- Your unarmed strike uses a `dice:d4|noform|noparens|avg` (`d4`) for damage.  
+- Your unarmed strike uses a `d4` for damage.  
 - When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.

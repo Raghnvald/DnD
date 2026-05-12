@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Displacer Beast
+- "Reduced-Threat Displacer Beast"
 ---
-# [Reduced-Threat Displacer Beast](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-displacer-beast-tftyp.md)
+# [Reduced-Threat Displacer Beast](3-Mechanics/CLI/bestiary/monstrosity/reduced-threat-displacer-beast-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -33,7 +33,8 @@ aliases:
   - !!int "12"
   - !!int "8"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -50,16 +51,17 @@ aliases:
       \ to be standing near its actual location, causing attack rolls against it to\
       \ have disadvantage. If it is hit by an attack, this trait is disrupted until\
       \ the end of its next turn. This trait is also disrupted while the displacer\
-      \ beast is incapacitated or has a speed of 0."
+      \ beast is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ or has a speed of 0."
     "name": "Displacement"
 "actions":
   - "desc": "The displacer beast makes two attacks with its tentacles."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage."
     "name": "Tentacle"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-displacer-beast-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-displacer-beast-tftyp.webp"
 ```
 ^statblock

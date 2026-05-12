@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Acolyte
+- "Acolyte"
 ---
 # Acolyte
 *Source: Player's Handbook p. 127. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Skill Proficiencies.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
 - **Languages.** Two of your choice  
-- **Equipment.** A [holy symbol](/3-Mechanics/CLI/items/holy-symbol.md) (a gift to you when you entered the priesthood), a prayer [book](/3-Mechanics/CLI/items/book.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch.md) containing 15 gp  
+- **Equipment.** A [holy symbol](3-Mechanics/CLI/items/holy-symbol.md) (a gift to you when you entered the priesthood), a prayer [book](3-Mechanics/CLI/items/book.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 15 gp  
 
 You have spent your life in the service of a temple to a specific god or pantheon of gods. You act as an intermediary between the realm of the holy and the mortal world, performing sacred rites and offering sacrifices in order to conduct worshipers into the presence of the divine. You are not necessarily a cleric—performing sacred rites is not the same thing as channeling divine power.
 
@@ -30,8 +30,6 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-`dice: [](acolyte.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example. |
@@ -44,8 +42,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |
 ^personality-trait
 
-`dice: [](acolyte.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful) |
@@ -56,8 +52,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
 ^ideal
 
-`dice: [](acolyte.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would die to recover an ancient relic of my faith that was lost long ago. |
@@ -67,8 +61,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 5 | I will do anything to protect the temple where I served. |
 | 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 ^bond
-
-`dice: [](acolyte.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

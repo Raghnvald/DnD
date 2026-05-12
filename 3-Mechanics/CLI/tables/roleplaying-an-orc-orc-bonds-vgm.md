@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying an Orc; Orc Bonds
+- "Roleplaying an Orc; Orc Bonds"
 ---
 # Roleplaying an Orc; Orc Bonds
 *Source: Volo's Guide to Monsters p. 87* 
 
 **Orc Bonds**
-
-`dice: [](roleplaying-an-orc-orc-bonds-vgm.md#^orc-bonds)`
 
 | dice: d6 | Bond |
 |----------|------|

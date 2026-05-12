@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Explorer's Guide to Wildemount* 
@@ -37,7 +37,7 @@ aliases:
 
 Thanks to the many, many groups of playtesters who helped us get the character options and adventures into their final form. We couldn't have made this book without you!
 
-![On the Cover: Illustrator ...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/credits.webp#center "On the Cover: Illustrator Karl Kerschl captures the stern visages of two sovereigns with a Luxon beacon between them. Bright Queen Leylas Kryn of the Kryn Dynasty and King Bertrand Dwendal of the Dwendalian Empire have never seen eye to eye—and their conflict will shape the futures and destinies of all life on the war-torn continent of Wildemount.")
+![On the Cover: Illustrator Karl Kerschl captures the stern visages of two sovereigns with a Luxon beacon between them. Bright Queen Leylas Kryn of the Kryn Dynasty and King Bertrand Dwendal of the Dwendalian Empire have never seen eye to eye—and their conflict will shape the futures and destinies of all life on the war-torn continent of Wildemount.](3-Mechanics/CLI/adventures/wildemount-dangerous-designs/img/credits.webp#center)
 
 > [!note]
 > Disclaimer: The continent of Wildemount and all peoples within are fictional and primarily exist to invite you and your friends into a world of exploration, imagination, and deep emotional catharsis through epic struggles and victories. We advise you to embrace failure as much as success, sadness as much as joy, and to remain vigilant when taking care of pets or animals you acquire on your adventures. Wizards of the Coast and Critical Role are not responsible for any mental trauma suffered by animal companions or domesticated fey creatures resulting from persistent danger and deadly challenges, nor are we responsible for whatever lack of passive Perception might lead to a failure to notice the animals' rapid escape.

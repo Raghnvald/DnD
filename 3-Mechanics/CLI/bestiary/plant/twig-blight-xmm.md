@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Twig Blight
+- "Twig Blight"
 ---
-# [Twig Blight](3-Mechanics\CLI\bestiary\plant/twig-blight-xmm.md)
+# [Twig Blight](3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md)
 *Source: Monster Manual (2024) p. 43*  
 
 Resembling bundles of sticks or dead brush, twig blights easily blend in among deadwood, flotsam, and the wood piles common in many rural settings. Groups of them are often found near river crossings, forgotten wells, or natural campsites, where they ambush those who let down their guard.
@@ -50,26 +50,27 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
-  - "desc": "The blight has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The blight has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the blight's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing\
+      \ damage."
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/twig-blight-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/twig-blight-xmm.webp"
 ```
 ^statblock
 

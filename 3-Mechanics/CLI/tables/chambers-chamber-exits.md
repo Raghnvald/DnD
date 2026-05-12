@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chambers; Chamber Exits
+- "Chambers; Chamber Exits"
 ---
 # Chambers; Chamber Exits
 *Source: Dungeon Master's Guide p. 291* 
 
 **Chamber Exits**
-
-`dice: [](chambers-chamber-exits.md#^chamber-exits)`
 
 | dice: d20 | Normal Chamber | Large Chamber |
 |-----------|----------------|---------------|

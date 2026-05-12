@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/death
-aliases: 
-- Blibdoolpoolp
+aliases:
+- "Blibdoolpoolp"
 ---
 # Blibdoolpoolp
 *Source: Player's Handbook p. 296* 

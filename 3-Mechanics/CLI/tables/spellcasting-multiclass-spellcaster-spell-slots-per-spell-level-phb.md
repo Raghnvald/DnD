@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
+- "Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level"
 ---
 # Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
 *Source: Player's Handbook p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

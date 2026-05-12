@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Cobalt Scholar (Sage)
+- "Cobalt Scholar (Sage)"
 ---
 # Cobalt Scholar (Sage)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
-- **Skill Proficiencies.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History)  
+- **Skill Proficiencies.** Arcana, History  
 - **Languages.** Two of your choice  
-- **Equipment.** A [bottle of black ink](/3-Mechanics/CLI/items/ink-xphb.md), a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A bottle of black ink, a quill, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp  
 
 The Cobalt Soul is an organization of monastic scholars dedicated to preserving knowledge and recorded history, not just across Wildemount but all of Exandria. Its operations are primarily based out of the cities of Zadash and Rexxentrum in the Dwendalian Empire, and you likely studied at one of those sites.
 
@@ -27,8 +27,6 @@ When you attempt to learn or recall a piece of lore, if you do not know that inf
 ## Specialty
 
 To determine the nature of your scholarly training, roll a d8 or choose from the options in the table below.
-
-`dice: [](cobalt-scholar-sage-egw.md#^field-of-study)`
 
 | dice: d8 | Field of Study |
 |----------|----------------|
@@ -46,8 +44,6 @@ To determine the nature of your scholarly training, roll a d8 or choose from the
 
 Sages are defined by their extensive studies, and their characteristics reflect this life of study. Devoted to scholarly pursuits, a sage values knowledge highly—sometimes in its own right, sometimes as a means toward other ideals.
 
-`dice: [](cobalt-scholar-sage-egw.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I use polysyllabic words that convey the impression of great erudition. |
@@ -60,8 +56,6 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 8 | I'm convinced that people are always trying to steal my secrets. |
 ^personality-trait
 
-`dice: [](cobalt-scholar-sage-egw.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Knowledge. The path to power and self-improvement is through knowledge. (Neutral) |
@@ -72,8 +66,6 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 6 | Self-Improvement. The goal of a life of study is the betterment of oneself. (Any) |
 ^ideal
 
-`dice: [](cobalt-scholar-sage-egw.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | It is my duty to protect my students. |
@@ -83,8 +75,6 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 5 | I've been searching my whole life for the answer to a certain question. |
 | 6 | I sold my soul for knowledge. I hope to do great deeds and win it back. |
 ^bond
-
-`dice: [](cobalt-scholar-sage-egw.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

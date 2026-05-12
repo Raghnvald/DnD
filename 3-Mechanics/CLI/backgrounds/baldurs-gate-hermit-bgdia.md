@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Baldur's Gate Hermit
+- "Baldur's Gate Hermit"
 ---
 # Baldur's Gate Hermit
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 134*  
 
 
-- **Skill Proficiencies.** [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
-- **Tool Proficiencies.** [Herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md)  
+- **Skill Proficiencies.** Medicine, Religion  
+- **Tool Proficiencies.** Herbalism kit  
 - **Languages.** One of your choice  
-- **Equipment.** A [scroll case](/3-Mechanics/CLI/items/map-or-scroll-case-xphb.md) stuffed full of notes from your studies or prayers, a winter [blanket](/3-Mechanics/CLI/items/blanket-xphb.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), an [herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md), and 5 gp  
+- **Equipment.** A scroll case stuffed full of notes from your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp  
 
 While some might think it strange to find hermits in a bustling city, others know that sometimes the most profound solitude exists in the midst of a crowd. Baldur's Gate holds a handful of souls who manage to find isolation amid its tumult.
 
@@ -38,8 +38,6 @@ Any number of personal choices or ill-fated circumstances might have led you to 
 
 **Hermit Origins**
 
-`dice: [](baldurs-gate-hermit-bgdia.md#^hermit-origins)`
-
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | You led an ill-fated expedition into the Riverveins. Your friends were swept away by flooding, and you've never been able to shake the guilt of causing their deaths over a frivolous lark. You've maintained a solitary vigil outside the cavern entrance ever since. |
@@ -53,8 +51,6 @@ Any number of personal choices or ill-fated circumstances might have led you to 
 ## Specialty
 
 What was the reason for your isolation, and what changed to allow you to end your solitude? You can work with your DM to determine the exact nature of your seclusion, or you can choose or roll on the table below to determine the reason behind your seclusion.
-
-`dice: [](baldurs-gate-hermit-bgdia.md#^life-of-seclusion)`
 
 | dice: d8 | Life of Seclusion |
 |----------|-------------------|
@@ -72,8 +68,6 @@ What was the reason for your isolation, and what changed to allow you to end you
 
 Some hermits are well suited to a life of seclusion, whereas others chafe against it and long for company. Whether they embrace solitude or long to escape it, the solitary life shapes their attitudes and ideals. A few are driven slightly mad by their years apart from society.
 
-`dice: [](baldurs-gate-hermit-bgdia.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I've been isolated for so long that I rarely speak, preferring gestures and the occasional grunt. |
@@ -86,8 +80,6 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 8 | I am working on a grand philosophical theory and love sharing my ideas. |
 ^personality-trait
 
-`dice: [](baldurs-gate-hermit-bgdia.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Greater Good. My gifts are meant to be shared with all, not used for my own benefit. (Good) |
@@ -98,8 +90,6 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 6 | Self-Knowledge. If you know yourself, there's nothing left to know. (Any) |
 ^ideal
 
-`dice: [](baldurs-gate-hermit-bgdia.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | Nothing is more important than the other members of my hermitage, order, or association. |
@@ -109,8 +99,6 @@ Some hermits are well suited to a life of seclusion, whereas others chafe agains
 | 5 | Should my discovery come to light, it could bring ruin to the world. |
 | 6 | My isolation gave me great insight into a great evil that only I can destroy. |
 ^bond
-
-`dice: [](baldurs-gate-hermit-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

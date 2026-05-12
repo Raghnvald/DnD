@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- The Role of Dreams; Dream Adventures
+- "The Role of Dreams; Dream Adventures"
 ---
 # The Role of Dreams; Dream Adventures
 *Source: Eberron: Rising from the Last War p. 196* 
 
 **Dream Adventures**
-
-`dice: [](the-role-of-dreams-dream-adventures-erlw.md#^dream-adventures)`
 
 | dice: d4 | Adventure Goal |
 |----------|----------------|

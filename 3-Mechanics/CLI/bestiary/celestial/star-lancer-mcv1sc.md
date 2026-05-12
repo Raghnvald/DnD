@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/celestial
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Lancer
+- "Star Lancer"
 ---
-# [Star Lancer](3-Mechanics\CLI\bestiary\celestial/star-lancer-mcv1sc.md)
+# [Star Lancer](3-Mechanics/CLI/bestiary/celestial/star-lancer-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 12*  
 
 Drifting in the Astral Sea are the petrified husks of dead gods, their colossal bodies riddled with natural tunnels and caverns. While exploring the innards of one of these dead gods, githyanki xenomancers found a vast cavern containing scores of winged creatures they had never encountered before. The cavern's denizens used telepathy to question the githyanki interlopers, who promptly suggested an alliance. The winged creatures quickly developed a fondness for the githyanki.
@@ -45,9 +45,9 @@ Githyanki are fond of using star lancers as mounts, riding them across the Astra
   - "dexterity": !!int "4"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "radiant"
 "senses": "passive Perception 13"
@@ -58,20 +58,22 @@ Githyanki are fond of using star lancers as mounts, riding them across the Astra
       \ of an enemy's reach."
     "name": "Flyby"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage. If the star lancer moved at least 20 feet straight toward\
-      \ the target immediately before the hit, the target takes an extra 10 (3d6)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage. If the star lancer moved at least 20 feet straight\
+      \ toward the target immediately before the hit, the target takes an extra 10\
+      \ (3d6) piercing damage."
     "name": "Horn"
   - "desc": "The star lancer and one creature riding it (chosen by the star lancer)\
-      \ magically turn invisible. This effect lasts until the star lancer or a creature\
-      \ riding it attacks or casts a spell, or until the star lancer's concentration\
-      \ ends (as if concentrating on a spell). Any equipment worn or carried by the\
-      \ invisible creatures is also invisible for the duration of the Invisibility\
-      \ Cloak."
+      \ magically turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible).\
+      \ This effect lasts until the star lancer or a creature riding it attacks or\
+      \ casts a spell, or until the star lancer's [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment worn or carried by the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ creatures is also [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ for the duration of the Invisibility Cloak."
     "name": "Invisibility Cloak (3/Day)"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/star-lancer-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/star-lancer-mcv1sc.webp"
 ```
 ^statblock

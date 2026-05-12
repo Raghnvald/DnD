@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Standard Languages
+- "Standard Languages"
 ---
 # Standard Languages
 *Source: Guildmasters' Guide to Ravnica p. 9* 

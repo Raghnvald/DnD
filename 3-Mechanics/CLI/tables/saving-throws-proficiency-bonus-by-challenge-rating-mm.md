@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 aliases:
-- Saving Throws; Proficiency Bonus by Challenge Rating
+- "Saving Throws; Proficiency Bonus by Challenge Rating"
 ---
 # Saving Throws; Proficiency Bonus by Challenge Rating
 *Source: Monster Manual p. 8* 

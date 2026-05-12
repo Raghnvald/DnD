@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valendar
+- "Valendar"
 ---
-# [Valendar](3-Mechanics\CLI\bestiary\npc/valendar-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Valendar](3-Mechanics/CLI/bestiary/npc/valendar-veor.md)
+*Source: Vecna: Eve of Ruin p. 120*  
 
 ```statblock
 "name": "Valendar (VEoR)"
@@ -23,7 +23,7 @@ aliases:
 "subtype": "human, shapechanger"
 "alignment": "Chaotic Good"
 "ac": !!int "11"
-"ac_class": "12 from natural armor in wolf or hybrid form"
+"ac_class": "12 natural armor in wolf or hybrid form"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -36,12 +36,14 @@ aliases:
   - !!int "10"
 "speed": "30 ft. (40 ft. in wolf form)"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
@@ -51,26 +53,26 @@ aliases:
       \ other than its AC, are the same in each form. Any equipment it is wearing\
       \ or carrying isn't transformed. It reverts to its true form if it dies."
     "name": "Shapechanger"
-  - "desc": "Valendar has advantage on Wisdom (Perception) checks that rely on hearing\
-      \ or smell."
+  - "desc": "Valendar has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
   - "desc": "Valendar makes two attacks: two with its spear (humanoid form) or one\
       \ with its bite and one with its claws (hybrid form)."
     "name": "Multiattack (Humanoid or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage. If the target is a humanoid, it must succeed on a DC\
-      \ 12 Constitution saving throw or be cursed with werewolf lycanthropy."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed\
+      \ on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy."
     "name": "Bite (Wolf or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (2d4 + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (2d4 + 2) slashing damage."
     "name": "Claws (Hybrid Form Only)"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
-      \ ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
-      \ damage if used with two hands to make a melee attack."
+      \ ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2)\
+      \ piercing damage if used with two hands to make a melee attack."
     "name": "Spear (Humanoid Form Only)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/valendar-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/valendar-veor.webp"
 ```
 ^statblock

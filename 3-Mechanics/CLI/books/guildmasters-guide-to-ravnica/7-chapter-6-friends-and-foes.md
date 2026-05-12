@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Chapter 6: Friends and Foes
+- "Chapter 6: Friends and Foes"
 ---
 # Chapter 6: Friends and Foes
 *Source: Guildmasters' Guide to Ravnica, p. 183* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/122-601.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/122-601.webp#center)
 
 Ravnica is home to a great variety of creatures, including some that are unknown on other worlds in Dungeons & Dragons. This chapter provides stat blocks for many of these creatures, and it concludes with a collection of nonplayer characters who fill the ranks of Ravnica's guilds.
 
@@ -30,16 +30,16 @@ Azorius lawmages craft one-eyed homunculi to perform menial tasks in Azorius bui
 
 #### Sphinxes of Judgment
 
-Azorius sphinxes, known as sphinxes of judgment, wield hieromancy—the power of law magic—with the force of a judge's gavel to imprison criminals and compel truth from them. A [sphinx of judgment](/3-Mechanics/CLI/bestiary/monstrosity/sphinx-of-judgment-ggr.md) is a gynosphinx, as described in the "Monster Manual", but it is an Azorius spellcaster with the following wizard spells prepared:
+Azorius sphinxes, known as sphinxes of judgment, wield hieromancy—the power of law magic—with the force of a judge's gavel to imprison criminals and compel truth from them. A [sphinx of judgment](3-Mechanics/CLI/bestiary/monstrosity/sphinx-of-judgment-ggr.md) is a gynosphinx, as described in the "Monster Manual", but it is an Azorius spellcaster with the following wizard spells prepared:
 
-- Cantrips (at will): [friends](/3-Mechanics/CLI/spells/friends-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md)  
-- 1st level (4 slots): [command](/3-Mechanics/CLI/spells/command-xphb.md), [ensnaring strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md)  
-- 2nd level (3 slots): [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)  
-- 3rd level (3 slots): [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)  
-- 4th level (3 slots): [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md), [divination](/3-Mechanics/CLI/spells/divination-xphb.md)  
-- 5th level (1 slot): [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)  
+- Cantrips (at will): friends, mage hand, message  
+- 1st level (4 slots): command, ensnaring strike, shield  
+- 2nd level (3 slots): calm emotions, hold person, suggestion  
+- 3rd level (3 slots): clairvoyance, counterspell, dispel magic  
+- 4th level (3 slots): banishment, divination  
+- 5th level (1 slot): dominate person  
 
-![Azorius Creatures](/3-Mechanics/CLI/tables/azorius-creatures-ggr.md)
+![Azorius Creatures](3-Mechanics/CLI/tables/azorius-creatures-ggr.md)
 
 ### Boros Creatures
 
@@ -49,13 +49,13 @@ The Boros Legion employs many different creatures to swell the ranks of its sold
 
 Flame-kin (which use the azer stat block in the "Monster Manual") are elemental soldiers magically created and animated to serve the legion as scouts and shock troops. Fanatical and inflexible, they are relics of a time when the guild was more concerned with zealotry than justice. They take the field for large military engagements.
 
-![Boros Creatures](/3-Mechanics/CLI/tables/boros-creatures-ggr.md)
+![Boros Creatures](3-Mechanics/CLI/tables/boros-creatures-ggr.md)
 
 ### Dimir Creatures
 
 Alongside human and vampire spies and assassins, a variety of stealthy and shadowy monsters contribute to the work of House Dimir. Doppelgangers and invisible stalkers move unseen among the populace. Horrors—as well as gricks, intellect devourers, and similar monsters—are thought to be the fears of Ravnica's populace given form by Dimir magic. And undead such as shadows, wraiths, and Nightveil specters keep watch over secret Dimir territories.
 
-![Dimir Creatures](/3-Mechanics/CLI/tables/dimir-creatures-ggr.md)
+![Dimir Creatures](3-Mechanics/CLI/tables/dimir-creatures-ggr.md)
 
 ### Golgari Creatures
 
@@ -77,13 +77,13 @@ Some Golgari creatures are symbiotic fusions of fungus and living creatures. Gol
 
 Beetles, centipedes, spiders, and countless other insects and arachnids infest Golgari warrens. These creatures, often associated with decay and rebirth, are prized by the guild. Giant bugs serve as beasts of burden, companions, steeds, and guardians. Among the largest of these is the Deadbridge goliath beetle (equivalent to the triceratops in the *Monster Manual*).
 
-Piranha beetles (best represented as a [swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md), from the "Monster Manual") burrow through the soft earth and gather into swarms to overtake their victims and strip the flesh from them. Skein spiders (as giant spiders, from the "Monster Manual") are an important part of Golgari reclamation work: fungus grows rapidly along the silken spiderwebs, expanding to engulf architecture and hasten the Golgari annexation process.
+Piranha beetles (best represented as a swarm of insects, from the "Monster Manual") burrow through the soft earth and gather into swarms to overtake their victims and strip the flesh from them. Skein spiders (as giant spiders, from the "Monster Manual") are an important part of Golgari reclamation work: fungus grows rapidly along the silken spiderwebs, expanding to engulf architecture and hasten the Golgari annexation process.
 
 #### Zombies
 
 The guild encourages the use and exploration of necromancy. Fungus covers the bodies of most of the undead that serve the guild, the majority of which are fungus drudges (equivalent to zombies in the "Monster Manual")—mindless servants animated by the fungus that infests their bodies.
 
-![Golgari Creatures](/3-Mechanics/CLI/tables/golgari-creatures-ggr.md)
+![Golgari Creatures](3-Mechanics/CLI/tables/golgari-creatures-ggr.md)
 
 ### Gruul Creatures
 
@@ -115,7 +115,7 @@ Nearly all the Gruul Clans include hill giants, stone giants, cyclopes, ogres, e
 
 Once a hydra chooses a lair and declares the surrounding land its territory, it's almost impossible to drive the creature out. The Gruul revere these multiheaded predators as vestiges of the ancient times before the guilds took over the world. They don't kill hydras for trophies, but pulling a spine from a hydra's neck is a mark of great bravery among the Gruul.
 
-![Gruul Creatures](/3-Mechanics/CLI/tables/gruul-creatures-ggr.md)
+![Gruul Creatures](3-Mechanics/CLI/tables/gruul-creatures-ggr.md)
 
 ### Izzet Creatures
 
@@ -123,21 +123,21 @@ Izzet laboratories are staffed with attendants (commoners) and chemisters (mages
 
 The Izzet League employs elementals formed from the combination of two or more elemental forces, including mephits of the smoke, steam, ice, and magma varieties.
 
-![Izzet Creatures](/3-Mechanics/CLI/tables/izzet-creatures-ggr.md)
+![Izzet Creatures](3-Mechanics/CLI/tables/izzet-creatures-ggr.md)
 
 ### Orzhov Creatures
 
 The Orzhov Syndicate attracts and entraps beings of all kinds, from lowly bats and manufactured thrulls to brutal giants and exalted angels. Orzhov gargoyles, animated by magic that manifests as a green, smoky glow in their eyes and gaping mouths, keep watch over banks and basilicas, and bloodthirsty vampires lurk in the vaults and crypts below.
 
-![Orzhov Creatures](/3-Mechanics/CLI/tables/orzhov-creatures-ggr.md)
+![Orzhov Creatures](3-Mechanics/CLI/tables/orzhov-creatures-ggr.md)
 
 ### Rakdos Creatures
 
-All sorts of savage, howling beasts accompany [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cultists. Hell hounds, nightmares, and magmins might perform alongside the other entertainers or accompany notable members of the cult as guardians and companions. [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) giants, along with ogres draped in hooked chains and spikes, carry and set up tents and stages—and cause utter mayhem when blood lust seizes them.
+All sorts of savage, howling beasts accompany [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cultists. Hell hounds, nightmares, and magmins might perform alongside the other entertainers or accompany notable members of the cult as guardians and companions. [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) giants, along with ogres draped in hooked chains and spikes, carry and set up tents and stages—and cause utter mayhem when blood lust seizes them.
 
-![Rakdos Creatures](/3-Mechanics/CLI/tables/rakdos-creatures-ggr.md)
+![Rakdos Creatures](3-Mechanics/CLI/tables/rakdos-creatures-ggr.md)
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/123-602.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/123-602.webp#center)
 
 ### Selesnya Creatures
 
@@ -155,7 +155,7 @@ Many Selesnya buildings, temples, and paths are protected by treants or carnivor
 
 Most often found carrying equenauts in battle, pegasi are ready allies who share the guild's goals and virtues. Members of the guild raise them from infancy, carefully protecting the foals from griffons, drakes, and other aerial predators.
 
-![Selesnya Creatures](/3-Mechanics/CLI/tables/selesnya-creatures-ggr.md)
+![Selesnya Creatures](3-Mechanics/CLI/tables/selesnya-creatures-ggr.md)
 
 ### Simic Creatures
 
@@ -169,7 +169,7 @@ Simic scientists use the term "benthid" to refer to the leviathans of the deep. 
 
 Ravnica's merfolk are unique to the Simic. They emerged from the depths of the plane's long-buried oceans less than a century ago and immediately took on leadership positions in the guild. They claim a deep connection to Ravnica's primal oceans, which are almost untouched by civilization. They have the statistics of the merfolk in the "Monster Manual", except that they speak Common and Merfolk, and their legs give them a walking speed of 30 feet.
 
-![Simic Creatures](/3-Mechanics/CLI/tables/simic-creatures-ggr.md)
+![Simic Creatures](3-Mechanics/CLI/tables/simic-creatures-ggr.md)
 
 ### Guildless Creatures
 
@@ -185,11 +185,11 @@ A monster that doesn't appear on the tables in this section can show up in Ravni
 
 #### Drakes
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/124-603.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/124-603.webp#center)
 
 The winged reptiles known as drakes are a common sight in the skies of Ravnica. They soar above the spires and rooftops hunting for aerial prey. Highly trainable, they are favored as pets, servants, and mounts.
 
-The most common drakes, called wind drakes, are about the size of a human and use the statistics of a [pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md). The smallest drakes are the size of a bird of prey and use the statistics of an [eagle](/3-Mechanics/CLI/bestiary/beast/eagle-xmm.md); larger ones have the statistics of a [giant eagle](/3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md).
+The most common drakes, called wind drakes, are about the size of a human and use the statistics of a pteranodon. The smallest drakes are the size of a bird of prey and use the statistics of an eagle; larger ones have the statistics of a giant eagle.
 
 #### Pack Beasts
 
@@ -219,4 +219,4 @@ A krovod is a slow-witted, ox-like animal.
 
 A raktusk is a bison-like creature, about 10 feet tall at the shoulder.
 
-![Pack Beasts](/3-Mechanics/CLI/tables/pack-beasts-ggr.md)
+![Pack Beasts](3-Mechanics/CLI/tables/pack-beasts-ggr.md)

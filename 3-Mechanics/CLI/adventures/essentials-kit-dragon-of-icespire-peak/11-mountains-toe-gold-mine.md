@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Mountain's Toe Gold Mine
+- "Mountain's Toe Gold Mine"
 ---
 # Mountain's Toe Gold Mine
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 36* 
@@ -14,15 +14,15 @@ aliases:
 
 ## Location Overview
 
-The Mountain's Toe Gold Mine, owned by a business consortium in Neverwinter, has been troubled by recent productivity problems. The owners have hired a no-nonsense overseer named [Don-Jon Raskin](/3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) to sort things out. But neither Raskin nor the owners know that the troubled mine has recently been taken over by a band of wererats calling itself the Whiskered Gang.
+The Mountain's Toe Gold Mine, owned by a business consortium in Neverwinter, has been troubled by recent productivity problems. The owners have hired a no-nonsense overseer named [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) to sort things out. But neither Raskin nor the owners know that the troubled mine has recently been taken over by a band of wererats calling itself the Whiskered Gang.
 
 ### Quest Goals
 
-To complete the Mountain's Toe Quest, the adventurers must escort [Don-Jon Raskin](/3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) safely to the mine. Once he sees that [wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) have infested it, Raskin urges the characters to eradicate the "varmints." If the characters refuse, Raskin is left to negotiate a truce with the wererats on his own—and is quickly turned into one.
+To complete the Mountain's Toe Quest, the adventurers must escort [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) safely to the mine. Once he sees that wererats have infested it, Raskin urges the characters to eradicate the "varmints." If the characters refuse, Raskin is left to negotiate a truce with the wererats on his own—and is quickly turned into one.
 
 ### Roleplaying Don-Jon Raskin
 
-Full of bluster and stories of his great exploits, [Don-Jon Raskin](/3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) walks and talks like a giant. He has worked as a gold prospector, miner, fur trader, privateer, and whaler. He even ran a trading post on the outskirts of Neverwinter for a few seasons. If the characters take up the quest to escort Raskin to the Mountain's Toe Gold Mine, they'll find him staying at the Stonehill Inn in Phandalin. Townmaster Harbin Wester has an agreement with Raskin's employers to ensure the overseer reaches the mine safely.
+Full of bluster and stories of his great exploits, [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) walks and talks like a giant. He has worked as a gold prospector, miner, fur trader, privateer, and whaler. He even ran a trading post on the outskirts of Neverwinter for a few seasons. If the characters take up the quest to escort Raskin to the Mountain's Toe Gold Mine, they'll find him staying at the Stonehill Inn in Phandalin. Townmaster Harbin Wester has an agreement with Raskin's employers to ensure the overseer reaches the mine safely.
 
 If his employers didn't insist on providing an escort, Raskin would just as soon make the trip alone. That being said, he expects that young adventurers will delight in his recounting the tales of his exploits, and he secretly looks forward to the company.
 
@@ -70,12 +70,12 @@ Don-Jon doesn't have a map of the mine and has never visited it before, so he kn
 The following locations are keyed to the map of the Mountain's Toe Gold Mine.
 
 > [!gallery]
-> ![Map: Mountain's Toe Gold Mine](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/025-map-mtgm-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/026-map-mtgm-pc.webp#gallery)
+> ![Map: Mountain's Toe Gold Mine](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/025-map-mtgm-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/026-map-mtgm-pc.webp#gallery)
 
 #### M1. Guard Post
 
-This cave is guarded by two female [wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) in hybrid form. They offer to escort new arrivals to the mine's overseer, Zeleen Varnaster, in area M4.
+This cave is guarded by two female wererats in hybrid form. They offer to escort new arrivals to the mine's overseer, Zeleen Varnaster, in area M4.
 
 #### M2. Wooden Posts
 
@@ -87,13 +87,13 @@ Stacked against the walls of this storage area are a dozen empty crates and a si
 
 #### M4. Wererat Den
 
-Scattered about this cave are pickaxes, shovels, and other mining tools. The northeast section contains four [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat.md). The southwest section contains [wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) in human form: one male wererat for each party member (including [Don-Jon Raskin](/3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) but not sidekicks) plus a female wererat named Zeleen Varnaster—the leader of the Whiskered Gang. If Zeleen dies, another wererat takes over as leader as long as any of them survive.
+Scattered about this cave are pickaxes, shovels, and other mining tools. The northeast section contains four giant rats. The southwest section contains wererats in human form: one male wererat for each party member (including [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md) but not sidekicks) plus a female wererat named Zeleen Varnaster—the leader of the Whiskered Gang. If Zeleen dies, another wererat takes over as leader as long as any of them survive.
 
 The wererats invaded the mine after orcs pushed them out of their previous lair—an old shrine near Conyberry (see "Shrine of Savras"). The wererats say they'll go back to their old lair if the characters get rid of the orcs at the shrine, but this is a only a ploy. The wererats have no intention of abandoning the mine.
 
 ##### Treasure
 
-Characters who search the cave find two sacks hidden under debris. One sack contains ten fist-sized chunks of gold ore worth 10 gp each. The other holds 82 sp, 450 cp, and a pair of goggles of night. If the characters obtain and identify the goggles, give the Goggles of Night [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Goggles%20of%20Night) to the players or they can reference it in the Magic Items Listing.
+Characters who search the cave find two sacks hidden under debris. One sack contains ten fist-sized chunks of gold ore worth 10 gp each. The other holds 82 sp, 450 cp, and a pair of [goggles of night](3-Mechanics/CLI/items/goggles-of-night.md). If the characters obtain and identify the goggles, give the [Goggles of Night](3-Mechanics/CLI/items/goggles-of-night.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Goggles%20of%20Night) to the players or they can reference it in the Magic Items Listing.
 
 #### M5. Storeroom
 
@@ -121,7 +121,7 @@ The wererats ransacked this cave, whose furnishings include a desk, a chair, an 
 
 #### M11. Carrion Crawler
 
-A [carrion crawler](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md) lairs in this tunnel, the north end of which is 20 feet up the mountain's rocky slope. Characters can scale the slope with a successful DC 10 Strength (Athletics) check. The crawler can't open the door at the south end of the tunnel, so it clings to the ceiling in the middle of the tunnel and attacks anyone who approaches from either direction.
+A carrion crawler lairs in this tunnel, the north end of which is 20 feet up the mountain's rocky slope. Characters can scale the slope with a successful DC 10 Strength (Athletics) check. The crawler can't open the door at the south end of the tunnel, so it clings to the ceiling in the middle of the tunnel and attacks anyone who approaches from either direction.
 
 #### M12. Sleeping Quarters
 
@@ -129,11 +129,11 @@ This cave holds six wooden cots.
 
 #### M13. Rat-Infested Cave
 
-This cave contains five [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat.md) that attack anyone who opens the doors to area M14.
+This cave contains five giant rats that attack anyone who opens the doors to area M14.
 
 #### M14–M15. Miners' Retreat
 
-These caves are home to five hungry dwarf miners. They are [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) who speak Common and Dwarvish, and who have darkvision out to a range of 60 feet. The miners refuse to surrender the mine to a bunch of "filthy rats." The wererats assume these miners will flee or die of starvation eventually.
+These caves are home to five hungry dwarf miners. They are commoners who speak Common and Dwarvish, and who have darkvision out to a range of 60 feet. The miners refuse to surrender the mine to a bunch of "filthy rats." The wererats assume these miners will flee or die of starvation eventually.
 
 #### M16. Graveyard
 

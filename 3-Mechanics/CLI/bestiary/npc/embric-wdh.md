@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Embric
+- "Embric"
 ---
-# [Embric](3-Mechanics\CLI\bestiary\npc/embric-wdh.md)
+# [Embric](3-Mechanics/CLI/bestiary/npc/embric-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  
 
 Embric tends the forge in the Steam and Steel shop in Trollskull Alley. He is an expert weaponsmith and claims descent from the efreet of Calimshan and is prone to extreme mood swings. He is married to Avi.
@@ -24,7 +24,7 @@ Embric tends the forge in the Steam and Steel shop in Trollskull Alley. He is an
 "subtype": "Fire genasi"
 "alignment": "Neutral Good"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -41,24 +41,28 @@ Embric tends the forge in the Steam and Steel shop in Trollskull Alley. He is an
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Primordial"
 "cr": "2"
 "traits":
-  - "desc": "Embric's spellcasting ability is Constitution (+4 to hit with spell attacks).\
-      \ He can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** produce flame"
+  - "desc": "Embric's spellcasting ability is Constitution (+4 to hit with spell\
+      \ attacks). He can innately cast the following spells, requiring no material\
+      \ components:\n\n**At will:** [produce flame](3-Mechanics/CLI/spells/produce-flame-xphb.md)"
     "name": "Innate Spellcasting"
 "actions":
   - "desc": "Embric makes three melee attacks: two with its scimitar and one with\
       \ its dagger. Or Embric makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
@@ -69,6 +73,6 @@ Embric tends the forge in the Steam and Steel shop in Trollskull Alley. He is an
     "name": "Parry"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/embric-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/embric-wdh.webp"
 ```
 ^statblock

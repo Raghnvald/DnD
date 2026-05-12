@@ -7,16 +7,16 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Light Crossbow"
 ---
 # Light Crossbow
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/light-crossbow.webp#right)
+![](3-Mechanics/CLI/items/img/light-crossbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](3-Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 5.0 lbs.
 

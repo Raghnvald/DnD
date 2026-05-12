@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Hag; Hag Ideals
+- "Roleplaying a Hag; Hag Ideals"
 ---
 # Roleplaying a Hag; Hag Ideals
 *Source: Volo's Guide to Monsters p. 54* 
 
 **Hag Ideals**
-
-`dice: [](roleplaying-a-hag-hag-ideals-vgm.md#^hag-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "+3 Bloodwell Vial"
 ---
 # +3 Bloodwell Vial
-*Wondrous item, very rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, very rare (requires attunement by a sorcerer)*  
 
 
 

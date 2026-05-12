@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orzhov Giant
+- "Orzhov Giant"
 ---
-# [Orzhov Giant](3-Mechanics\CLI\bestiary\giant/orzhov-giant-ggr.md)
+# [Orzhov Giant](3-Mechanics/CLI/bestiary/giant/orzhov-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 202*  
 
 A few giants join the ranks of the Orzhov Syndicate and serve as guards, executioners, and thugs-the muscle of the guild. The presence of Orzhov giants in markets and streets serves as an effective reminder for business owners to keep their payments up to date.
@@ -27,7 +27,7 @@ Giants use their tremendous size and strength to advance the cause of no less th
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "plate armor"
 "hp": !!int "84"
 "hit_dice": "8d10 + 40"
 "modifier": !!int "1"
@@ -43,8 +43,9 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "dexterity": !!int "4"
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"gear":
+  - "greataxe"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Giant"
 "cr": "6"
 "traits":
@@ -58,15 +59,15 @@ Giants use their tremendous size and strength to advance the cause of no less th
 "actions":
   - "desc": "The giant makes two greataxe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25\
-      \ (3d12 + 6) slashing damage. If the Orzhov giant scores a critical hit, it\
-      \ rolls the damage dice three times, instead of twice."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 25 (3d12 + 6) slashing damage. If the Orzhov giant scores a critical hit,\
+      \ it rolls the damage dice three times, instead of twice."
     "name": "Greataxe"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/orzhov-giant-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/orzhov-giant-ggr.webp"
 ```
 ^statblock

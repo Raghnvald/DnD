@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Chapter 6: Caves of Hunger
+- "Chapter 6: Caves of Hunger"
 ---
 # Chapter 6: Caves of Hunger
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 215* 
@@ -16,11 +16,11 @@ Equipped with the "Rime of the Frostmaiden," the characters can begin their sear
 
 The characters must use the "Rime of the Frostmaiden" to open a crack in the glacial wall at a place where a waterfall once tumbled down the glacier. The newly formed passage leads to the Caves of Hunger, a dungeon that was sealed off by the Frostmaiden long ago—a network of sepulchral ice caves haunted by ravenous beings. These chambers must be successfully navigated to reach the Netherese city of Ythryn.
 
-![After opening a fissure in...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/170-06-000-intro-splash.webp#center "After opening a fissure in the Reghed Glacier, a party of explorers prepares to head inside")
+![After opening a fissure in the Reghed Glacier, a party of explorers prepares to head inside](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/170-06-000-intro-splash.webp#center)
 
 ## Running This Chapter
 
-This chapter focuses on the characters' exploration of the ice caves. There's a good chance that [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is present as well, serving as an NPC guide. If she died earlier in the adventure, the characters can use [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) as a substitute guide, assuming they retrieved Vellynne's *professor orb* from Auril's island in chapter 5. If neither Vellynne nor Professor Skant are around, you can furnish another NPC with the information needed to reach the Caves of Hunger. Likely candidates include [Hengar Aesnvaard](/3-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md) (see "Elk Tribe Escort" below) and [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) (see appendix C).
+This chapter focuses on the characters' exploration of the ice caves. There's a good chance that [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is present as well, serving as an NPC guide. If she died earlier in the adventure, the characters can use [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) as a substitute guide, assuming they retrieved Vellynne's *professor orb* from Auril's island in chapter 5. If neither Vellynne nor Professor Skant are around, you can furnish another NPC with the information needed to reach the Caves of Hunger. Likely candidates include [Hengar Aesnvaard](3-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md) (see "Elk Tribe Escort" below) and [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) (see appendix C).
 
 ### Character Advancement
 
@@ -28,7 +28,7 @@ The characters should gain a level when they reach area H39 for the first time, 
 
 ## Race to the Glacier
 
-If [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) survived the perils of Auril's island and returned to Icewind Dale with the characters, she urges them to accompany her to the glacier without delay, lest one of her rivals in the Arcane Brotherhood catch up to them. Vellynne can be persuaded to delay the journey, but with each passing day, she becomes more agitated.
+If [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) survived the perils of Auril's island and returned to Icewind Dale with the characters, she urges them to accompany her to the glacier without delay, lest one of her rivals in the Arcane Brotherhood catch up to them. Vellynne can be persuaded to delay the journey, but with each passing day, she becomes more agitated.
 
 ### Random Encounters
 
@@ -36,7 +36,7 @@ You can use the "Wilderness Encounters" section in chapter 2 to make the charact
 
 ### Elk and Tiger
 
-With grand events having been set in motion, those sensitive to prophecy have begun to experience dreams and visions. One such person is [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md), a fifty-year-old shaman of the Reghed Elk Tribe, who received a vision about the characters' journey to the Reghed Glacier.
+With grand events having been set in motion, those sensitive to prophecy have begun to experience dreams and visions. One such person is [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md), a fifty-year-old shaman of the Reghed Elk Tribe, who received a vision about the characters' journey to the Reghed Glacier.
 
 #### Elk Tribe Escort
 
@@ -47,16 +47,16 @@ Several hours before the party reaches the glacier, read:
 > As you crest another ridge, you spot a dozen humanoids approaching, their cloaks flapping in the wind sweeping down from the eastern glacier.
 ^5a1
 
-The approaching figures are ten [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) of the Elk Tribe, led by [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) (neutral human [druid](/3-Mechanics/CLI/bestiary/humanoid/druid.md) with Survival +4) and [Hengar Aesnvaard](/3-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md) (neutral good human [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md) with Survival +5). [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) waves at the characters to signal his peaceful intentions. If they are willing to speak, he directs them to a rocky alcove where both parties can enjoy a reprieve from the wind.
+The approaching figures are ten [tribal warriors](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) of the Elk Tribe, led by [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) (neutral human [druid](3-Mechanics/CLI/bestiary/humanoid/druid.md) with [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +4) and [Hengar Aesnvaard](3-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md) (neutral good human [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator.md) with [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +5). [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) waves at the characters to signal his peaceful intentions. If they are willing to speak, he directs them to a rocky alcove where both parties can enjoy a reprieve from the wind.
 
-[Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) proceeds to explain his vision and warns of grave danger ahead:
+[Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) proceeds to explain his vision and warns of grave danger ahead:
 
 > [!readaloud] 
 > 
 > "Tigers with ice in their veins come to spill your blood upon the snow. They will do everything in their power to keep you from finding what the Frostmaiden has preserved under the ice."
 ^5a2
 
-[Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) and his fellow Elk tribesfolk volunteer to escort the party to the foot of the Reghed Glacier. If the characters refuse that offer, the Elk tribesfolk return whence they came. [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) wishes them well and says, "The fate of the dale rests upon your shoulders."
+[Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) and his fellow Elk tribesfolk volunteer to escort the party to the foot of the Reghed Glacier. If the characters refuse that offer, the Elk tribesfolk return whence they came. [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) wishes them well and says, "The fate of the dale rests upon your shoulders."
 
 #### Tiger Tribe Ambush
 
@@ -69,33 +69,33 @@ When the characters reach the glacial wall, read:
 > Suddenly, nearly two dozen figures burst out of the snow sixty feet away from you. They are spaced roughly ten feet apart and begin advancing in a line.
 ^5a4
 
-Characters who have a passive Wisdom (Perception) score of 15 or higher are not surprised by the ambush, nor are members of the Elk Tribe who are traveling with the party.
+Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher are not [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) by the ambush, nor are members of the Elk Tribe who are traveling with the party.
 
 ##### Ambushers
 
-[Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) was not the only one who foresaw the characters' path. The queen of the Tiger Tribe, [Bjornhild Solvigsdottir](/3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md) (see appendix C), has also been stirred to action. Bjornhild worships Auril and is furious that the party has decided to meddle in the Frostmaiden's affairs. If Bjornhild died earlier in the adventure, replace her with a [frost druid](/3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C) named Ajka.
+[Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) was not the only one who foresaw the characters' path. The queen of the Tiger Tribe, [Bjornhild Solvigsdottir](3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md) (see appendix C), has also been stirred to action. Bjornhild worships Auril and is furious that the party has decided to meddle in the Frostmaiden's affairs. If Bjornhild died earlier in the adventure, replace her with a [frost druid](3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C) named Ajka.
 
-If Bjornhild leads the ambush, she is joined by her pet [saber-toothed tiger](/3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md), Grava. If Ajka leads the ambush, give her a woolly [rhinoceros](/3-Mechanics/CLI/bestiary/beast/rhinoceros.md) companion. Twenty [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) make up the rest of the ambushing force. Before closing to melee range, they hurl spears at the characters.
+If Bjornhild leads the ambush, she is joined by her pet [saber-toothed tiger](3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md), Grava. If Ajka leads the ambush, give her a woolly [rhinoceros](3-Mechanics/CLI/bestiary/beast/rhinoceros.md) companion. Twenty [tribal warriors](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) make up the rest of the ambushing force. Before closing to melee range, they hurl spears at the characters.
 
 ##### Elk Tribe Reaction
 
-If the characters allowed [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md), Hengar, and the other Elk tribesfolk to accompany them, the two leaders are confident in their ability to fight off the attackers while the characters race toward the glacier. If the characters let the Elk Tribe members fend off the Tigers, the outcome of the battle depends on whether Bjornhild leads the ambush:
+If the characters allowed [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md), Hengar, and the other Elk tribesfolk to accompany them, the two leaders are confident in their ability to fight off the attackers while the characters race toward the glacier. If the characters let the Elk Tribe members fend off the Tigers, the outcome of the battle depends on whether Bjornhild leads the ambush:
 
 - If Bjornhild leads the ambush, both she and Grava survive, as does Hengar. All three are reduced to half their hit points (rounded down). Everyone else is slain. Bjornhild takes Hengar prisoner and interprets the characters' escape as a sign that Auril intends to slay them herself; consequently, Bjornhild doesn't pursue them.  
 - If Ajka leads the ambush, she and Hengar are the sole survivors with half their hit points remaining. After a brief standoff, Ajka polymorphs into a snowy owl and flees, leaving the wounded Hengar alone.  
 
-Characters who refuse to let the Elk Tribe fight this battle without them are attacked by Bjornhild and her saber-toothed tiger (or Ajka and her rhinoceros) while Hengar and his fellow Elk Tribe warriors clash with the rest of the attacking force. You can forgo making attack rolls for the tribal warriors; assume that they all act on the same initiative count and that one warrior from each tribe dies each round on that tribe's turn. Hengar kills an additional Tiger Tribe warrior on each of his turns. [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) stays out of melee and uses his produce flame cantrip to hurl fire at enemies.
+Characters who refuse to let the Elk Tribe fight this battle without them are attacked by Bjornhild and her saber-toothed tiger (or Ajka and her rhinoceros) while Hengar and his fellow Elk Tribe warriors clash with the rest of the attacking force. You can forgo making attack rolls for the tribal warriors; assume that they all act on the same initiative count and that one warrior from each tribe dies each round on that tribe's turn. Hengar kills an additional Tiger Tribe warrior on each of his turns. [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) stays out of melee and uses his [produce flame](3-Mechanics/CLI/spells/produce-flame.md) cantrip to hurl fire at enemies.
 
 ## Opening the Way
 
-When the characters reach the wall of the Reghed Glacier at the spot specified by [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) or Professor Skant, read:
+When the characters reach the wall of the Reghed Glacier at the spot specified by [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) or Professor Skant, read:
 
 > [!readaloud] 
 > 
 > An immense, glistening wall of blue ice stands before you. It seems impenetrable, but then you notice that a lighter-colored stripe nearly bisects the wall at one point. This must be the frozen waterfall Vellynne spoke of!
 ^5a8
 
-Vellynne or [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) urges one of the characters to read aloud the "Rime of the Frostmaiden" (see appendix E). Reading the poem aloud while standing before the glacier has the following effect:
+Vellynne or [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) urges one of the characters to read aloud the "Rime of the Frostmaiden" (see appendix E). Reading the poem aloud while standing before the glacier has the following effect:
 
 > [!readaloud] 
 > 
@@ -119,21 +119,19 @@ The following features are common throughout the Caves of Hunger:
 
 #### Echoes
 
-Sound travels quickly here. All Wisdom (Perception) checks to hear sounds in these caves have advantage.
+Sound travels quickly here. All Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks to hear sounds in these caves have advantage.
 
 - **Ice Slides.** As remorhazes burrow through ice, the heat radiating from their bodies smooths out the sides of the tunnels behind them to a glass-like finish. Many of these passages are severely sloped, creating ice slides. Descending an ice slide is easy; climbing one is another matter. A character needs crampons or other climbing gear to ascend one of these slippery passages.  
 
 #### Professor Skant
 
-If the characters have [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) with them, the *professor orb* can provide educational commentary on certain features found in the Caves of Hunger, as noted in the text, provided the orb is in a position where it can view its surroundings.
+If the characters have [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) with them, the *professor orb* can provide educational commentary on certain features found in the Caves of Hunger, as noted in the text, provided the orb is in a position where it can view its surroundings.
 
 #### Psychic Hauntings
 
-The Caves of Hunger have a way of capturing and holding on to psychic trauma. In certain locations, the text will ask you to check for a psychic haunting, in which case roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Psychic Haunting table to determine if the area contains a haunting. If one is present, its image or its effect can't leave the cave in which it's encountered.
+The Caves of Hunger have a way of capturing and holding on to psychic trauma. In certain locations, the text will ask you to check for a psychic haunting, in which case roll a `d20` and consult the Psychic Haunting table to determine if the area contains a haunting. If one is present, its image or its effect can't leave the cave in which it's encountered.
 
 **Psychic Hauntings**
-
-`dice: [](17-chapter-6-caves-of-hunger.md#^psychic-hauntings)`
 
 | dice: d12 | Haunting |
 |-----------|----------|
@@ -148,21 +146,19 @@ The Caves of Hunger have a way of capturing and holding on to psychic trauma. In
 
 ### Tekeli-li
 
-Of all the creatures that claim the Caves of Hunger as their lair, perhaps the most fearsome is Tekeli-li, a [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C).
+Of all the creatures that claim the Caves of Hunger as their lair, perhaps the most fearsome is Tekeli-li, a [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C).
 
 When they cracked open the Reghed Glacier, the characters unsealed the glacial prison holding Tekeli-li. After decades of captivity and starvation, the vampire is once again free to leave the caves and haunt Icewind Dale. First, however, it plans to feed. The vampire is the only wandering monster that the characters encounter in the Caves of Hunger, and they are likely to encounter it more than once as they descend deeper into the caves.
 
-[Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md)'s *professor orb*, [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md), is an expert on vampires and vampirism. Once it becomes aware of Tekeli-li, the *professor orb* shares the vampire's known weaknesses with the characters.
+[Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md)'s *professor orb*, [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md), is an expert on vampires and vampirism. Once it becomes aware of Tekeli-li, the *professor orb* shares the vampire's known weaknesses with the characters.
 
 The party should meet Tekeli-li several times. The vampire's strategy is to drain the party's resources, then retreat and recover before attacking again. If Tekeli-li ever takes more than 20 damage during an encounter, the vampire turns to mist and withdraws to a safe location in the dungeon. Even when the vampire is not immediately present, its cackling laughter echoes through the caves sporadically.
 
-You can stage an encounter with Tekeli-li anywhere you like. If you're not sure where it might be or how it should behave, roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Tekeli-li's Location table. The table determines where the vampire is first encountered. If the vampire withdraws, roll again on the table to determine where it goes (roll again if the result indicates no change in its location).
+You can stage an encounter with Tekeli-li anywhere you like. If you're not sure where it might be or how it should behave, roll a `d6` and consult the Tekeli-li's Location table. The table determines where the vampire is first encountered. If the vampire withdraws, roll again on the table to determine where it goes (roll again if the result indicates no change in its location).
 
 If the characters have not encountered the vampire by the time they reach area H36, it attacks them there.
 
 **Tekeli-li's Location**
-
-`dice: [](17-chapter-6-caves-of-hunger.md#^tekeli-lis-location)`
 
 | dice: d6 | Location |
 |----------|----------|
@@ -175,8 +171,8 @@ If the characters have not encountered the vampire by the time they reach area H
 ^tekeli-lis-location
 
 > [!gallery]
-> ![Map 6.1: Caves of Hunger](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/171-map-6-1-caves-of-hunger.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/172-map-6-1-caves-of-hunger-player.webp#gallery)
+> ![Map 6.1: Caves of Hunger](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/171-map-6-1-caves-of-hunger.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/172-map-6-1-caves-of-hunger-player.webp#gallery)
 
 ### Caves of Hunger Locations (H1-H10)
 
@@ -195,16 +191,16 @@ If any of the Elk tribesfolk are present at this point, they volunteer to guard 
 > You come to a thirty-foot-high cavern. In its center, the remains of a wooden ship hull rest on the floor.
 ^5b4
 
-If [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) is allowed to view the wreckage, the *professor orb* offers the following commentary:
+If [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) is allowed to view the wreckage, the *professor orb* offers the following commentary:
 
 > [!readaloud] 
 > 
 > "Ah, a Netherese skycoach! I've always wanted to ride on one of those. Pity it's no longer in one piece."
 ^5b5
 
-The ship is all that remains of a Netherese skycoach, an airship that was used to ferry people to and from the floating city of Ythryn. Any loud disturbances in this cave cause the four [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull.md) in area H3 to cackle madly as they make their way to this cavern. The flameskulls are the animated, fire-wreathed skulls of Netherese wizards transformed into guardians by the will of the Frostmaiden.
+The ship is all that remains of a Netherese skycoach, an airship that was used to ferry people to and from the floating city of Ythryn. Any loud disturbances in this cave cause the four [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull.md) in area H3 to cackle madly as they make their way to this cavern. The flameskulls are the animated, fire-wreathed skulls of Netherese wizards transformed into guardians by the will of the Frostmaiden.
 
-The tunnel that leads to area H5 has a slippery, 20-foot-tall drop-off that characters can descend safely with a successful DC 15 Strength (Athletics) check. On a failed check, a character slips and lands prone, taking damage from the fall as normal.
+The tunnel that leads to area H5 has a slippery, 20-foot-tall drop-off that characters can descend safely with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. On a failed check, a character slips and lands [prone](3-Mechanics/CLI/rules/conditions.md#Prone), taking damage from the fall as normal.
 
 ##### Treasure
 
@@ -212,7 +208,7 @@ Characters who search the wreckage find the headless skeletons of four dead Neth
 
 #### H3. Flameskulls
 
-These two 15-foot-high caves and passageways are occupied by four [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull.md)—two in the caves west of area H2 and two in the caves northeast of area H2. They attack intruders on sight. The caves are otherwise empty.
+These two 15-foot-high caves and passageways are occupied by four [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull.md)—two in the caves west of area H2 and two in the caves northeast of area H2. They attack intruders on sight. The caves are otherwise empty.
 
 #### H4. Kobold Vampire Spawn
 
@@ -223,7 +219,7 @@ Characters coming from area H2 must descend a naturally formed staircase of ice 
 > Frost-covered blocks of stone jut from the floor of this ten-foot-high cave of ice. Perched atop the largest stone is an emaciated kobold with glowing red eyes. It bares elongated fangs as it hisses at you, then scampers away.
 ^5b9
 
-The creature is a [kobold vampire spawn](/3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) (see appendix C) created by Tekeli-li. [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) recognizes the creature as a vampire and knows its weaknesses. The undead kobold hungers for fresh blood but knows better than to attack a superior force. It tries to rejoin its kin in area H17.
+The creature is a [kobold vampire spawn](3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) (see appendix C) created by Tekeli-li. [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) recognizes the creature as a vampire and knows its weaknesses. The undead kobold hungers for fresh blood but knows better than to attack a superior force. It tries to rejoin its kin in area H17.
 
 #### H5. Icicle Drop
 
@@ -232,20 +228,20 @@ The creature is a [kobold vampire spawn](/3-Mechanics/CLI/bestiary/undead/kobold
 > Sparkling icicles as long as longswords cling to the forty-foot-high roof of this cavern, the floor of which is strewn with frost-covered blocks of stone and a toppled pillar. Embedded in the east wall is a glittering stone tower that appears to have crashed through the ceiling long ago. The exposed wall is cracked and has a few small holes in it but is otherwise intact.
 ^5bb
 
-If [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) is allowed to view the tower, the *professor orb* offers the following commentary:
+If [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) is allowed to view the tower, the *professor orb* offers the following commentary:
 
 > [!readaloud] 
 > 
 > "That tower appears to be of Netherese construction. Were it not for the cracks and holes, the stone would be smooth as glass, shaped by wizardly magic!"
 ^5bc
 
-Seven [ice mephits](/3-Mechanics/CLI/bestiary/elemental/ice-mephit.md) created by Auril cling to the ceiling, their wings wrapped tightly around their bodies so that they are easily mistaken for icicles. Characters who have passive Wisdom (Perception) scores of 13 or higher can distinguish the mephits from the scores of real icicles that festoon the ceiling.
+Seven [ice mephits](3-Mechanics/CLI/bestiary/elemental/ice-mephit.md) created by Auril cling to the ceiling, their wings wrapped tightly around their bodies so that they are easily mistaken for icicles. Characters who have passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) scores of 13 or higher can distinguish the mephits from the scores of real icicles that festoon the ceiling.
 
-The ice mephits are tasked with guarding the cave but do not enter melee combat willingly. An ice mephit's preferred tactic is to use its action to fly next to an icicle and break it off, causing it to fall on an enemy below. Any creature standing under a falling icicle must succeed on a DC 12 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) piercing damage from it.
+The ice mephits are tasked with guarding the cave but do not enter melee combat willingly. An ice mephit's preferred tactic is to use its action to fly next to an icicle and break it off, causing it to fall on an enemy below. Any creature standing under a falling icicle must succeed on a DC 12 Dexterity saving throw or take 7 (`2d6`) piercing damage from it.
 
 ##### Tekeli-li
 
-If Tekeli-li is hiding in area H6, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) attacks the party after the ice mephits are dealt with, passing through the tower wall in mist form and assuming its Large hyena form. See the "Tekeli-li" section earlier in this chapter for more information.
+If Tekeli-li is hiding in area H6, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) attacks the party after the ice mephits are dealt with, passing through the tower wall in mist form and assuming its Large hyena form. See the "Tekeli-li" section earlier in this chapter for more information.
 
 #### H6. Ruined Tower
 
@@ -256,20 +252,20 @@ Characters who peer through the cracks and holes in the tower walls see the foll
 > Little remains of this tower besides its outer shell. The interior walls are decorated with shifting geometric patterns. A human skeleton in a white robe lies on the uneven floor.
 ^5bf
 
-If [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) is allowed to view the interior, the *professor orb* offers the following commentary:
+If [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) is allowed to view the interior, the *professor orb* offers the following commentary:
 
 > [!readaloud] 
 > 
 > "Netherese spellcasters would come to towers like this one to regain their spent magic more quickly. Despite the extensive damage, I would venture to guess that the tower still works!"
 ^5c0
 
-A character who examines the shifting geometric patterns can, with a successful DC 17 Intelligence (Arcana) check, come to the same conclusion as Professor Skant.
+A character who examines the shifting geometric patterns can, with a successful DC 17 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, come to the same conclusion as Professor Skant.
 
 The characters can punch a hole in the tower's outer wall that's big enough for them to crawl or walk through. Any character who takes a short rest in the tower regains one spell slot of 3rd level or lower at the end of that rest. A character can't gain this benefit again for 24 hours.
 
 ##### Treasure
 
-The skeleton is the remains of a Netherese priest. It wears a silver holy symbol shaped like a four-pointed star (25 gp). A successful DC 15 Intelligence (History) check identifies it as a holy symbol of Mystryl (see the "Mystryl" sidebar).
+The skeleton is the remains of a Netherese priest. It wears a silver holy symbol shaped like a four-pointed star (25 gp). A successful DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check identifies it as a holy symbol of Mystryl (see the "Mystryl" sidebar).
 
 #### H7. Rubble-Strewn Cave
 
@@ -277,7 +273,7 @@ Aside from the tower embedded in the west wall (see area 6) and the rubble aroun
 
 ##### Tekeli-li
 
-If Tekeli-li is hiding in area H6, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) passes through the tower wall in mist form, assumes its Large hyena form, and attacks the characters as they cross the cave or get within 10 feet of the tower. See the "Tekeli-li" section earlier in this chapter for more information.
+If Tekeli-li is hiding in area H6, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) passes through the tower wall in mist form, assumes its Large hyena form, and attacks the characters as they cross the cave or get within 10 feet of the tower. See the "Tekeli-li" section earlier in this chapter for more information.
 
 > [!note] Mystryl
 > 
@@ -291,18 +287,18 @@ If Tekeli-li is hiding in area H6, the [gnoll vampire](/3-Mechanics/CLI/bestiary
 > A flat, slightly canted slab of stone rests in the center of this twenty-foot-high cave. One side is rough, as if the slab had been torn from a larger structure. The slab is eight feet long, four feet wide, four feet high, and covered with frost.
 ^5c6
 
-Scraping off the frost on the slab reveals Draconic script etched into its top, with an open eye carved above it. Close examination reveals that the pupil of the eye is a stone button that can be pressed. A detect magic spell reveals an aura of divination magic around the slab.
+Scraping off the frost on the slab reveals Draconic script etched into its top, with an open eye carved above it. Close examination reveals that the pupil of the eye is a stone button that can be pressed. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of divination magic around the slab.
 
-If [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) sees the script, the *professor orb* informs the characters that the Netherese used the Draconic script (see the "Loross: The Netherese Tongue" sidebar). If the characters don't know Draconic, Professor Skant can translate the script for them. It reads:
+If [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) sees the script, the *professor orb* informs the characters that the Netherese used the Draconic script (see the "Loross: The Netherese Tongue" sidebar). If the characters don't know Draconic, Professor Skant can translate the script for them. It reads:
 
 > [!readaloud] 
 > 
 > "Take the free, self-guided tour of Ythryn. Press the eye to cast the spell."
 ^5c7
 
-A character can use an action to press the eye, thereby using the slab to cast the arcane eye spell. The spell lasts for 1 hour or until the character's concentration on the spell ends. The slab, which used to function whenever the button was pressed, is damaged. Once the spell is cast, the slab ceases to be magical.
+A character can use an action to press the eye, thereby using the slab to cast the [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md) spell. The spell lasts for 1 hour or until the character's concentration on the spell ends. The slab, which used to function whenever the button was pressed, is damaged. Once the spell is cast, the slab ceases to be magical.
 
-![A halfling adventurer enco...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/173-06-001-iron-golem.webp#center "A halfling adventurer encounters the head of a decapitated iron golem")
+![A halfling adventurer encounters the head of a decapitated iron golem](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/173-06-001-iron-golem.webp#center)
 
 #### H9. Golem Head
 
@@ -350,13 +346,13 @@ Tucked inside the attic's spire is a wooden chest with a sliding bolt latch held
 
 Naturally formed stairs lead up to area H9 and down to area H15. A wide passage to the east leads to area H13, with a branching tunnel to area H12.
 
-Twelve [shadows](/3-Mechanics/CLI/bestiary/undead/shadow.md) haunt this 30-foot-high cave. They swarm over members of the party but recoil from any character who presents a holy symbol of Mystryl.
+Twelve [shadows](3-Mechanics/CLI/bestiary/undead/shadow.md) haunt this 30-foot-high cave. They swarm over members of the party but recoil from any character who presents a holy symbol of Mystryl.
 
 The shadows were born from those who survived Ythryn's crash, only to face starvation. Driven mad by trauma and hunger, the group of survivors resorted to cannibalism. These victims rose as shadows to take vengeance upon the last surviving member of the group, and their hatred extends to other living creatures as well.
 
 ##### Tekeli-li
 
-If Tekeli-li is hiding in area H12, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) attacks the characters in its Large hyena form once the shadows are dealt with.
+If Tekeli-li is hiding in area H12, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) attacks the characters in its Large hyena form once the shadows are dealt with.
 
 #### H12. Curse of Hunger
 
@@ -367,13 +363,13 @@ If Tekeli-li is hiding in area H12, the [gnoll vampire](/3-Mechanics/CLI/bestiar
 
 The frozen skeletons are the remains of the Netherese cannibals whose shadows haunt area H11. Characters who scrape off the frost and examine the bones see teeth marks on them. The missing skulls were taken by kobold vampire spawn and placed in area H20.
 
-Terrible psychic trauma lingers in this cave, causing any creature that enters it to feel intensely hungry, even after leaving the cave. Eating a handful of food keeps the creature's hunger at bay for 1 hour. If its hunger isn't satisfied within 1 minute, the creature must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion. The saving throw must be repeated every hour until the creature succeeds or dies, or until the effect is ended on that creature by magic that can remove a curse. A creature that doesn't require food automatically succeeds on the saving throw. Once the effect ends on a creature, it becomes immune to the cave's psychic trauma. This immunity does not remove levels of exhaustion gained from the creature's earlier failed saves.
+Terrible psychic trauma lingers in this cave, causing any creature that enters it to feel intensely hungry, even after leaving the cave. Eating a handful of food keeps the creature's hunger at bay for 1 hour. If its hunger isn't satisfied within 1 minute, the creature must succeed on a DC 15 Constitution saving throw or gain one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). The saving throw must be repeated every hour until the creature succeeds or dies, or until the effect is ended on that creature by magic that can remove a curse. A creature that doesn't require food automatically succeeds on the saving throw. Once the effect ends on a creature, it becomes immune to the cave's psychic trauma. This immunity does not remove levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) gained from the creature's earlier failed saves.
 
 ##### Treasure
 
-One skeleton at the back of the cave wears a tarnished silver holy symbol shaped like a four-pointed star (25 gp) around its neck. A successful DC 15 Intelligence (History) check identifies it as a holy symbol of Mystryl (see the "Mystryl" sidebar).
+One skeleton at the back of the cave wears a tarnished silver holy symbol shaped like a four-pointed star (25 gp) around its neck. A successful DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check identifies it as a holy symbol of Mystryl (see the "Mystryl" sidebar).
 
-![Tekeli-li the gnoll vampir...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/174-06-002-gnoll-vampire.webp#center "Tekeli-li the gnoll vampire assumes hyena form as it sneaks up behind unsuspecting prey")
+![Tekeli-li the gnoll vampire assumes hyena form as it sneaks up behind unsuspecting prey](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/174-06-002-gnoll-vampire.webp#center)
 
 #### H13. Icicle-Filled Cave
 
@@ -402,7 +398,7 @@ Add the following if the characters haven't confronted the kobold vampire spawn 
 > An incessant yipping noise fills the cave, originating from a tunnel in the south wall that contains a rough-hewn staircase leading down into darkness.
 ^5d8
 
-Crammed into this cave are twenty 3-foot-tall ice sculptures that the kobold vampire spawn have made to startle and frighten intruders. Each statue is carved in the vague likeness of a kobold, which a character can discern with a successful DC 10 Wisdom (Insight) check.
+Crammed into this cave are twenty 3-foot-tall ice sculptures that the kobold vampire spawn have made to startle and frighten intruders. Each statue is carved in the vague likeness of a kobold, which a character can discern with a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check.
 
 Each ice sculpture is a Small object that weighs roughly 40 pounds and has AC 13, 5 hit points, vulnerability to bludgeoning and fire damage, and immunity to cold, poison, and psychic damage. Smashing any of the sculptures alerts the kobold vampire spawn in area H17.
 
@@ -411,7 +407,7 @@ Each ice sculpture is a Small object that weighs roughly 40 pounds and has AC 13
 This location consists of multiple areas:
 
 - An empty cave to the northeast has a 20-foot-high domed ceiling, naturally formed stairs leading up to area H11, and a narrow tunnel leading east toward areas H16 and H22.  
-- A cave to the southwest has an uneven ceiling that ranges in height from 15 to 30 feet. A [wraith](/3-Mechanics/CLI/bestiary/undead/wraith.md) named Drakareth haunts this cave, northwest of which are three cysts blocked off by thick walls of ice. The northernmost cyst contains Drakareth's earthly remains and treasure (see "Treasure" below).  
+- A cave to the southwest has an uneven ceiling that ranges in height from 15 to 30 feet. A [wraith](3-Mechanics/CLI/bestiary/undead/wraith.md) named Drakareth haunts this cave, northwest of which are three cysts blocked off by thick walls of ice. The northernmost cyst contains Drakareth's earthly remains and treasure (see "Treasure" below).  
 
 When one or more characters enter the wraith's cave, read:
 
@@ -420,14 +416,14 @@ When one or more characters enter the wraith's cave, read:
 > A deep sigh issues from the darkness. A voice steeped in malevolence and hatred whispers to you in a language reminiscent of Elvish.
 ^5da
 
-The wraith speaks Loross (see the "Loross: The Netherese Tongue" sidebar), which [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) can translate if necessary. Its words are as follows:
+The wraith speaks Loross (see the "Loross: The Netherese Tongue" sidebar), which [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) can translate if necessary. Its words are as follows:
 
 > [!readaloud] 
 > 
 > "Cursed be those who gaze upon the horror that Drakareth has become. Such promise wasted, lost in this cold sepulcher! Where were you centuries years ago when he was in the prime of life? Where were you when the frigid darkness consumed him? You are no good to Drakareth now! Nothing remains of him but frozen bones, ancient treasures, and me."
 ^5db
 
-Drakareth was a Netherese mage who survived the fall of Ythryn, murdered his wounded rivals, and stole their spellbooks and magic items. He had hoped to escape with his newfound treasures but perished from exhaustion and cold, rising as a wraith. The wraith seeks the destruction of all who enter its chamber. If successfully turned or reduced to 20 hit points or fewer, the wraith retreats to the icy cyst that contains Drakareth's frozen remains, passing through the interposing walls of ice to reach it. There, it fights to the bitter end.
+Drakareth was a Netherese mage who survived the fall of Ythryn, murdered his wounded rivals, and stole their spellbooks and magic items. He had hoped to escape with his newfound treasures but perished from [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and cold, rising as a wraith. The wraith seeks the destruction of all who enter its chamber. If successfully turned or reduced to 20 hit points or fewer, the wraith retreats to the icy cyst that contains Drakareth's frozen remains, passing through the interposing walls of ice to reach it. There, it fights to the bitter end.
 
 The walls of ice that separate the smaller cysts from the larger cave are thick enough to be opaque, but characters can break through them. Each 5-foot-square, 1-foot-thick section of wall has AC 13, 18 hit points, vulnerability to fire damage, and immunity to cold, poison, and psychic damage.
 
@@ -445,7 +441,7 @@ This ice cave has a 25-foot-high, domed ceiling festooned with icicles. A rough-
 
 ##### Slaad Host
 
-If one of the characters has the Slaad Host secret (see appendix B) and the [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) hasn't been born or destroyed yet, it bursts from the character's chest in this cavern.
+If one of the characters has the Slaad Host secret (see appendix B) and the [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) hasn't been born or destroyed yet, it bursts from the character's chest in this cavern.
 
 #### H17. Den of the Vampire Spawn
 
@@ -454,7 +450,7 @@ If one of the characters has the Slaad Host secret (see appendix B) and the [sla
 > The yips and barks abate as you descend the stairs leading to this cave in which hangs the faint whiff of death.
 ^5e0
 
-Five [kobold vampire spawn](/3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) (see appendix C) dwell here. Add a sixth if the one from area H4 escaped and made it all the way here. These creatures have sharp senses and know when living creatures are nearby. They use their Spider Climb trait to cling to the walls and pounce on the first character to enter their lair. The vampires fight until two or more of their number are slain, whereupon the rest retreat to area H19 to make their final stand. [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) recognizes the creature as vampires and knows their weaknesses.
+Five [kobold vampire spawn](3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) (see appendix C) dwell here. Add a sixth if the one from area H4 escaped and made it all the way here. These creatures have sharp senses and know when living creatures are nearby. They use their Spider Climb trait to cling to the walls and pounce on the first character to enter their lair. The vampires fight until two or more of their number are slain, whereupon the rest retreat to area H19 to make their final stand. [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) recognizes the creature as vampires and knows their weaknesses.
 
 Aside from the vampires, the cave is empty. The 20-foot-high ceiling is festooned with icicles.
 
@@ -475,7 +471,7 @@ Naturally formed stairs descend to the southernmost cave. Describe its contents 
 > This dead-end cave contains a half dozen mounds of snow that rise up and assume vaguely bipedal forms. Wide smiles appear on their otherwise featureless heads.
 ^5e4
 
-These creatures are six [snow golems](/3-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md) (see appendix C). They are hostile toward all trespassers but don't pursue intruders beyond the confines of the three caves that comprise area H18.
+These creatures are six [snow golems](3-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md) (see appendix C). They are hostile toward all trespassers but don't pursue intruders beyond the confines of the three caves that comprise area H18.
 
 #### H19. Den of Death
 
@@ -484,11 +480,11 @@ These creatures are six [snow golems](/3-Mechanics/CLI/bestiary/construct/snow-g
 > This thirty-foot-high cavern reeks of death. The floor is slippery and slightly concave.
 ^5e6
 
-If Tekeli-li is here, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) lurks in the northernmost side cave. When one or more intruders enter its den, Tekeli-li emerges from this smaller cave in its gnoll form and attacks. See the "Tekeli-li" section earlier in this chapter for more information. Any [kobold vampire spawn](/3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) that retreated to this cavern are hidden in the northeastern side cave. They gang up on whichever foe Tekeli-li chooses to attack.
+If Tekeli-li is here, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) lurks in the northernmost side cave. When one or more intruders enter its den, Tekeli-li emerges from this smaller cave in its gnoll form and attacks. See the "Tekeli-li" section earlier in this chapter for more information. Any [kobold vampire spawn](3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) that retreated to this cavern are hidden in the northeastern side cave. They gang up on whichever foe Tekeli-li chooses to attack.
 
 ##### Slippery Ice
 
-The icy floor is difficult terrain. When a creature moves onto the ice for the first time on a turn, it must succeed on a DC 10 Dexterity (Acrobatics) check or fall prone.
+The icy floor is difficult terrain. When a creature moves onto the ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 ##### Stench of Death
 
@@ -536,23 +532,23 @@ The ice slide descends to area H23.
 > This bulbous cavern has walls as smooth as glass and a ceiling lined with dripping icicles. A wisp of steam rises from a roughly circular pool in the northern half of the cave. South of the pool is a shallow crater filled with oversized snowballs.
 ^5f1
 
-Two [young remorhazes](/3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md) lurk at the bottom of the pool, which is 15 feet deep. Their tremorsense alerts them to the presence of intruders, and they attack immediately.
+Two [young remorhazes](3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md) lurk at the bottom of the pool, which is 15 feet deep. Their [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) alerts them to the presence of intruders, and they attack immediately.
 
 The creatures' bodies heat the pool, causing it to give off steam. The water is not hot enough to deal damage. Without the body heat of a remorhaz to keep the water warm, a pool's surface freezes over in 1 hour. After 24 hours, the pool is frozen solid.
 
 ##### Tekeli-li
 
-If Tekeli-li is here, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) is in mist form, hiding in the steam. The characters can sense the vampire only if they have magic that can detect the presence of undead. As the young remorhazes engage the characters in battle, Tekeli-li assumes its gnoll form and joins the fray, keeping its distance from the remorhazes. See the "Tekeli-li" section earlier in this chapter for more information.
+If Tekeli-li is here, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) is in mist form, hiding in the steam. The characters can sense the vampire only if they have magic that can detect the presence of undead. As the young remorhazes engage the characters in battle, Tekeli-li assumes its gnoll form and joins the fray, keeping its distance from the remorhazes. See the "Tekeli-li" section earlier in this chapter for more information.
 
 ##### Eggs
 
-The "snowballs" in the shallow crater are six unhatched remorhaz eggs, each one frozen to or partially embedded in the icy floor. Each egg is a Medium object with AC 13, 6 hit points, and resistance to cold and fire damage. Reducing an egg to 0 hit points kills the unborn remorhaz inside it. Left alone, the eggs won't hatch until they are placed in a heated pool for a period of `dice:4d6|noform|noparens|avg` (`4d6`) days.
+The "snowballs" in the shallow crater are six unhatched remorhaz eggs, each one frozen to or partially embedded in the icy floor. Each egg is a Medium object with AC 13, 6 hit points, and resistance to cold and fire damage. Reducing an egg to 0 hit points kills the unborn remorhaz inside it. Left alone, the eggs won't hatch until they are placed in a heated pool for a period of `4d6` days.
 
 ##### Treasure
 
 An undamaged remorhaz egg can be sold to an interested buyer in Bryn Shander for up to 500 gp.
 
-![A remorhaz uses its body h...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/175-06-003-remorhaz.webp#center "A remorhaz uses its body heat to warm the pool containing its unborn young")
+![A remorhaz uses its body heat to warm the pool containing its unborn young](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/175-06-003-remorhaz.webp#center)
 
 #### H24. Remorhaz Mother
 
@@ -561,7 +557,7 @@ An undamaged remorhaz egg can be sold to an interested buyer in Bryn Shander for
 > This enormous cave has glassy walls and a smooth, domed ceiling forty feet overhead. The cavern contains two large pools, both of which have steam rising from them.
 ^5f6
 
-Each pool is 15 feet deep. Submerged in the northern pool is a full-grown [remorhaz](/3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md) coiled around a cluster of eight remorhaz eggs, which look like oversized snowballs from a distance (see area H23 for more information about remorhaz eggs). A [young remorhaz](/3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md) is submerged in the southern pool and eagerly joins any battle involving its mother. The remorhazes' tremorsense alerts them to the presence of intruders.
+Each pool is 15 feet deep. Submerged in the northern pool is a full-grown [remorhaz](3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md) coiled around a cluster of eight remorhaz eggs, which look like oversized snowballs from a distance (see area H23 for more information about remorhaz eggs). A [young remorhaz](3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md) is submerged in the southern pool and eagerly joins any battle involving its mother. The remorhazes' [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) alerts them to the presence of intruders.
 
 The remorhazes' bodies heat the pools, causing steam to rise from them. The water is not hot enough to deal damage. Without the body heat of a remorhaz to keep the water warm, a pool's surface freezes over in 1 hour. After 24 hours, the pool is frozen solid.
 
@@ -598,11 +594,11 @@ See area H28 for a description of the stone building's interior. The constellati
 
 ##### Statues
 
-[Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) can ascertain that the statues were sculpted by magic and that, given their costuming, they depict Netherese wizards. A character can do the same with a successful DC 15 Intelligence (History) check.
+[Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) can ascertain that the statues were sculpted by magic and that, given their costuming, they depict Netherese wizards. A character can do the same with a successful DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check.
 
-Hiding behind the two westernmost statues are two male [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Meldirn and Tlaknar. They cast faerie fire spells on intruders before attacking with their hand crossbows. They are soon joined by Yilsebek, the [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) in area H28, who tries to engulf as many enemies as possible with his cloudkill spell. For more information about the drow and why they're here, see area H28.
+Hiding behind the two westernmost statues are two male [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Meldirn and Tlaknar. They cast [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) spells on intruders before attacking with their hand crossbows. They are soon joined by Yilsebek, the [drow mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) in area H28, who tries to engulf as many enemies as possible with his [cloudkill](3-Mechanics/CLI/spells/cloudkill.md) spell. For more information about the drow and why they're here, see area H28.
 
-If there are too many foes for the drow to deal with on their own, Yilsebek tries to summon a [shadow demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon.md) to assist. If defeat is inevitable, Yilsebek casts fly on himself, heads up the ice slide toward area H24, and flees back to the Underdark through the remorhaz tunnels, leaving Meldirn and Tlaknar to fend for themselves.
+If there are too many foes for the drow to deal with on their own, Yilsebek tries to summon a [shadow demon](3-Mechanics/CLI/bestiary/fiend/shadow-demon.md) to assist. If defeat is inevitable, Yilsebek casts [fly](3-Mechanics/CLI/spells/fly.md) on himself, heads up the ice slide toward area H24, and flees back to the Underdark through the remorhaz tunnels, leaving Meldirn and Tlaknar to fend for themselves.
 
 #### H28. Drow Outpost
 
@@ -611,17 +607,17 @@ If there are too many foes for the drow to deal with on their own, Yilsebek trie
 > Much of this building has collapsed, but the front room is intact—and also free of ice and frost. The remnants of smashed furnishings suggest that the room once served as a wizard's workshop. Atop a splintered table is a brimstone cube small enough to hold in one hand. The air around the cube ripples, as it seems to be putting out enough dry heat to warm the room.
 ^5ff
 
-A [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Yilsebek Dalambra has turned this partially collapsed Netherese building into an outpost. From here, he intends to launch a full-blown expedition into the ruins of Ythryn, which he and his fellow drow discovered a few weeks ago. The drow entered the Caves of Hunger by scaling a remorhaz tunnel that connects to the Underdark. Using a sending spell, Yilsebek has asked the matron mother of his house to send reinforcements, but they are weeks away.
+A [drow mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Yilsebek Dalambra has turned this partially collapsed Netherese building into an outpost. From here, he intends to launch a full-blown expedition into the ruins of Ythryn, which he and his fellow drow discovered a few weeks ago. The drow entered the Caves of Hunger by scaling a remorhaz tunnel that connects to the Underdark. Using a [sending](3-Mechanics/CLI/spells/sending.md) spell, Yilsebek has asked the matron mother of his house to send reinforcements, but they are weeks away.
 
 Yilsebek has no desire to share his recent discovery with potential rivals, nor does he trust surface-dwellers. For these reasons, characters can't persuade Yilsebek to join forces with them.
 
 ##### Treasure
 
-The source of the room's heat is a [thermal cube](/3-Mechanics/CLI/items/thermal-cube-idrotf.md) (see appendix D) that Yilsebek found during his last foray into Ythryn.
+The source of the room's heat is a [thermal cube](3-Mechanics/CLI/items/thermal-cube-idrotf.md) (see appendix D) that Yilsebek found during his last foray into Ythryn.
 
-Yilsebek carries a spider silk satchel that contains his spellbook (described below), a spider-shaped brooch made of obsidian and engraved with the symbol of House Dalambra (25 gp), and a half-empty bottle of Elverquisst (a rare, ruby-colored elven liquor distilled from sunshine and rare summer fruits). [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) recognizes Elverquisst on sight, since he is an expert on the making of it. Elf characters would also recognize it.
+Yilsebek carries a spider silk satchel that contains his spellbook (described below), a spider-shaped brooch made of obsidian and engraved with the symbol of House Dalambra (25 gp), and a half-empty bottle of Elverquisst (a rare, ruby-colored elven liquor distilled from sunshine and rare summer fruits). [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) recognizes Elverquisst on sight, since he is an expert on the making of it. Elf characters would also recognize it.
 
-Yilsebek's spellbook has black leather covers and pages made from sheets of trillimac (an Underdark fungus). The book contains the following spells: alter self, cloudkill, comprehend languages, detect magic, Evard's black tentacles, fabricate, fly, greater invisibility, lightning bolt, mage armor, magic missile, misty step, sending, shield, suggestion, web, and witch bolt.
+Yilsebek's spellbook has black leather covers and pages made from sheets of trillimac (an Underdark fungus). The book contains the following spells: [alter self](3-Mechanics/CLI/spells/alter-self.md), [cloudkill](3-Mechanics/CLI/spells/cloudkill.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles.md), [fabricate](3-Mechanics/CLI/spells/fabricate.md), [fly](3-Mechanics/CLI/spells/fly.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md), [misty step](3-Mechanics/CLI/spells/misty-step.md), [sending](3-Mechanics/CLI/spells/sending.md), [shield](3-Mechanics/CLI/spells/shield.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md), [web](3-Mechanics/CLI/spells/web.md), and [witch bolt](3-Mechanics/CLI/spells/witch-bolt.md).
 
 #### H29. East Observation Platform
 
@@ -634,7 +630,7 @@ If the characters aren't already familiar with the structures described in areas
 
 Frost-covered stone steps descend from the stone platform to the icy floor in the cavern's northernmost section, as shown on map 6.1.
 
-Auril the Frostmaiden has transformed ten of the icicles that cling to the ceiling into creatures resembling piercers. They use the [piercer](/3-Mechanics/CLI/bestiary/monstrosity/piercer.md) stat block, have immunity to cold damage, and deal `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) piercing damage plus `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) cold damage on a hit. The drow in areas H27 and H28 are aware of the [ice piercers](/3-Mechanics/CLI/bestiary/monstrosity/ice-piercer-idrotf.md), having seen them creep along the ceiling, and do their best to avoid them.
+Auril the Frostmaiden has transformed ten of the icicles that cling to the ceiling into creatures resembling piercers. They use the [piercer](3-Mechanics/CLI/bestiary/monstrosity/piercer.md) stat block, have immunity to cold damage, and deal 10 (`3d6`) piercing damage plus 10 (`3d6`) cold damage on a hit. The drow in areas H27 and H28 are aware of the [ice piercers](3-Mechanics/CLI/bestiary/monstrosity/ice-piercer-idrotf.md), having seen them creep along the ceiling, and do their best to avoid them.
 
 #### H30. Vlagomir's Spark
 
@@ -643,7 +639,7 @@ Auril the Frostmaiden has transformed ten of the icicles that cling to the ceili
 > This cavern has a fifteen-foot-high ceiling and a smaller, dead-end cave at the back of it. Sticking out of the larger cave's floor at a sixty-degree angle is a giant-sized wooden spear with its obsidian tip pointing upward. The weapon glows with a faint, cold light.
 ^604
 
-The spear is 25 feet long, but only its top half is visible; the rest of it is lodged in the icy floor. Pulling it free requires an action and a successful DC 23 Strength (Athletics) check.
+The spear is 25 feet long, but only its top half is visible; the rest of it is lodged in the icy floor. Pulling it free requires an action and a successful DC 23 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ##### Treasure
 
@@ -651,7 +647,7 @@ The spear belonged to a frost giant named Vlagomir, whose remains can be found i
 
 ##### Vlagomir's Spark
 
-You gain 1 foot of height every hour and become proportionately heavier until you stand 21 feet tall and weigh 7,700 pounds. When you are 9 feet tall, your Strength becomes 19 unless it is already higher. For every 3 additional feet of height you gain, your Strength increases by 1, to a maximum of 23. Armor and clothing you are wearing and weapons you are carrying magically increase in size to match your growth. If you are the recipient of a greater restoration spell or similar magic, this charm vanishes from you, and you immediately shrink back to normal size, along with any armor, clothing, and weapons in your possession.
+You gain 1 foot of height every hour and become proportionately heavier until you stand 21 feet tall and weigh 7,700 pounds. When you are 9 feet tall, your Strength becomes 19 unless it is already higher. For every 3 additional feet of height you gain, your Strength increases by 1, to a maximum of 23. Armor and clothing you are wearing and weapons you are carrying magically increase in size to match your growth. If you are the recipient of a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic, this charm vanishes from you, and you immediately shrink back to normal size, along with any armor, clothing, and weapons in your possession.
 
 ### Caves of Hunger Locations (H31-H39)
 
@@ -664,9 +660,9 @@ You gain 1 foot of height every hour and become proportionately heavier until yo
 
 Something beyond mortal comprehension exists partially inside the wall of ice and partially within some distant, horrific demiplane. As this otherworldly entity peers into the cavern, visitors risk losing their sanity to its influence.
 
-Any creature that comes within 20 feet of the wall of ice is targeted by a dominate monster spell (save DC 15). The entity can concentrate on up to ten such spells at once. Any creature that successfully saves against the spell resists it and can't be targeted by this effect again. On a failed save, the creature stands perfectly still and does nothing while the alien entity probes its mind for 1 hour. If a creature remains under the spell's effect for the full duration, it must make a DC 15 Intelligence saving throw at the end of the hour, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) psychic damage on a failed save, or half as much damage on a successful one. Whether the save succeeds or fails, a creature subjected to the hour-long probe also gains a randomly determined form of long-term madness, determined by rolling on the Long-Term Madness table in the "Dungeon Master's Guide".
+Any creature that comes within 20 feet of the wall of ice is targeted by a [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md) spell (save DC 15). The entity can concentrate on up to ten such spells at once. Any creature that successfully saves against the spell resists it and can't be targeted by this effect again. On a failed save, the creature stands perfectly still and does nothing while the alien entity probes its mind for 1 hour. If a creature remains under the spell's effect for the full duration, it must make a DC 15 Intelligence saving throw at the end of the hour, taking 44 (`8d10`) psychic damage on a failed save, or half as much damage on a successful one. Whether the save succeeds or fails, a creature subjected to the hour-long probe also gains a randomly determined form of long-term madness, determined by rolling on the Long-Term Madness table in the "Dungeon Master's Guide".
 
-The ice wall has AC 13, vulnerability to fire damage, and immunity to cold, poison, and psychic damage. If the wall takes 50 points of damage or more, large cracks form along its surface, and the alien entity withdraws into its distant demiplane, never to return. As it withdraws, its dominate monster spells end.
+The ice wall has AC 13, vulnerability to fire damage, and immunity to cold, poison, and psychic damage. If the wall takes 50 points of damage or more, large cracks form along its surface, and the alien entity withdraws into its distant demiplane, never to return. As it withdraws, its [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md) spells end.
 
 #### H32. Mirrored Cavern
 
@@ -682,11 +678,11 @@ If Tekeli-li is here, add:
 > Crouching in the middle of the cavern is a gaunt gnoll with ravenous eyes and the foul stench of the grave coming from it. The creature does not cast a reflection.
 ^60c
 
-Ranged attack rolls made in this cave have disadvantage because of the disorienting reflections. If Tekeli-li is here, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) uses its Frightful Cackle first, then targets enemies with its Sickening Gaze until one or more them closes to melee range. See the "Tekeli-li" section earlier in this chapter for more of Tekeli-li's tactics.
+Ranged attack rolls made in this cave have disadvantage because of the disorienting reflections. If Tekeli-li is here, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) uses its Frightful Cackle first, then targets enemies with its Sickening Gaze until one or more them closes to melee range. See the "Tekeli-li" section earlier in this chapter for more of Tekeli-li's tactics.
 
 ##### Slaad Host
 
-If one of the characters has the Slaad Host secret (see appendix B) and the [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) hasn't been born or destroyed yet, it bursts from the character's chest when the character enters this cavern.
+If one of the characters has the Slaad Host secret (see appendix B) and the [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) hasn't been born or destroyed yet, it bursts from the character's chest when the character enters this cavern.
 
 #### H33. Watcher in the Walls
 
@@ -695,7 +691,7 @@ If one of the characters has the Slaad Host secret (see appendix B) and the [sla
 > This fifteen-foot-high, U-shaped cavern appears empty at first glance, but a sudden tapping draws your attention to the west wall, within which is trapped a black-robed figure with a golden visage.
 ^60f
 
-A [mummy](/3-Mechanics/CLI/bestiary/undead/mummy.md) dressed in a tattered black robe and wearing a golden face mask is trapped in the western wall and has no way to free itself from the ice. The mummy was created by Netherese priests to serve as a lore-keeper in Ythryn.
+A [mummy](3-Mechanics/CLI/bestiary/undead/mummy.md) dressed in a tattered black robe and wearing a golden face mask is trapped in the western wall and has no way to free itself from the ice. The mummy was created by Netherese priests to serve as a lore-keeper in Ythryn.
 
 The section of ice that traps the mummy has AC 13, 22 hit points, vulnerability to fire damage, and immunity to cold, poison, and psychic damage. If the wall is reduced to 0 hit points, the mummy is released and makes its way to area H39 and from there to the library in Ythryn (area Y9 in chapter 7). It ignores the characters unless they interfere with it.
 
@@ -712,7 +708,7 @@ This cave might contain a psychic haunting (see "Psychic Hauntings").
 > Large pieces of stone jut from the twenty-foot-high ceiling of this empty cavern.
 ^612
 
-The stone fragments are pieces of Ythryn that settled in the ice. Any character who examines the stone and makes a successful DC 15 Intelligence (History) check to discern its true nature. (A dwarf's Stonecunning trait can prove helpful here.) If the check succeeds, the character can confirm that the stone is neither naturally formed nor hewn, but rather shaped by magic.
+The stone fragments are pieces of Ythryn that settled in the ice. Any character who examines the stone and makes a successful DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check to discern its true nature. (A dwarf's Stonecunning trait can prove helpful here.) If the check succeeds, the character can confirm that the stone is neither naturally formed nor hewn, but rather shaped by magic.
 
 #### H35. Mysterious Cube
 
@@ -721,20 +717,20 @@ The stone fragments are pieces of Ythryn that settled in the ice. Any character 
 > On the floor in the middle of this fifteen-foot-high cave is an eight-foot cube of smooth, grayish-green stone that is free of frost.
 ^614
 
-The stone cube is a [spitting mimic](/3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md) (see appendix C). Anything that touches the mimic automatically adheres to it, and a Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 16). The mimic sprouts pseudopods and attacks if it is touched, harmed, or otherwise disturbed.
+The stone cube is a [spitting mimic](3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md) (see appendix C). Anything that touches the mimic automatically adheres to it, and a Huge or smaller creature adhered to the mimic is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by it (escape DC 16). The mimic sprouts pseudopods and attacks if it is touched, harmed, or otherwise disturbed.
 
 #### H36. Frozen Grove
 
-If the characters make it this far and haven't yet faced Tekeli-li, the [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) confronts them here in its Large hyena form.
+If the characters make it this far and haven't yet faced Tekeli-li, the [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) (see appendix C) confronts them here in its Large hyena form.
 
 > [!readaloud] 
 > 
 > A grove of frost-covered trees fills this fifty-foot-high cavern, the floor of which is a mixture of earth and ice. By some magic or miracle, the trees are alive, their canopies thick with frosty leaves, their branches bearing purple pears that hang like ornaments. A low wall, broken in several places, threads its way through the grove, which is surrounded by six exits.
 ^616
 
-![Purple Pear](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/176-06-004-purple-pear.webp#center)
+![Purple Pear](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/176-06-004-purple-pear.webp#center)
 
-This grove of pear trees was enchanted by Netherese arcanists to endure high altitude and harsh weather. That magic has enabled the trees to thrive even in these icy caverns. Essential to the grove's survival is a [dryad](/3-Mechanics/CLI/bestiary/fey/dryad.md) named Hathowyn, who resides in the southernmost tree. If the dryad dies, the trees die `dice:1d10|noform|noparens|avg` (`1d10`) days later. Centuries of isolation have made Hathowyn lonely, and the dryad hungers for conversation and companionship.
+This grove of pear trees was enchanted by Netherese arcanists to endure high altitude and harsh weather. That magic has enabled the trees to thrive even in these icy caverns. Essential to the grove's survival is a [dryad](3-Mechanics/CLI/bestiary/fey/dryad.md) named Hathowyn, who resides in the southernmost tree. If the dryad dies, the trees die `1d10` days later. Centuries of isolation have made Hathowyn lonely, and the dryad hungers for conversation and companionship.
 
 If Tekeli-li is present, Hathowyn remains hidden in her tree until the gnoll vampire leaves or is destroyed. Tekeli-li has never seen the dryad and is unaware of her presence. If given the chance, Hathowyn tries to engage the characters in conversation, speaking Elvish or Sylvan. She hopes to keep them in the grove for as long as possible. If the characters try to leave, Hathowyn tries to charm one of them into staying and keeping her company. The dryad knows the following information:
 
@@ -745,22 +741,20 @@ If Tekeli-li is present, Hathowyn remains hidden in her tree until the gnoll vam
 
 ##### Purple Pears
 
-Each tree has `dice:3d6|noform|noparens|avg` (`3d6`) ripe pears hanging from its branches, most of them within reach. Any creature that eats more than half of a purple pear gains the benefit of a special charm (see ""Supernatural Gifts"" in the "Dungeon Master's Guide"). Determine the charm randomly by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the Purple Pear Charms table. This charm must vanish from a creature before it can gain any more charms by eating purple pears. A creature that eats three or more purple pears within 1 hour is poisoned for 24 hours thereafter and suffers painful cramps until the condition ends.
+Each tree has `3d6` ripe pears hanging from its branches, most of them within reach. Any creature that eats more than half of a purple pear gains the benefit of a special charm (see ""Supernatural Gifts"" in the "Dungeon Master's Guide"). Determine the charm randomly by rolling a `d20` and consulting the Purple Pear Charms table. This charm must vanish from a creature before it can gain any more charms by eating purple pears. A creature that eats three or more purple pears within 1 hour is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 24 hours thereafter and suffers painful cramps until the condition ends.
 
 **Purple Pear Charms**
 
-`dice: [](17-chapter-6-caves-of-hunger.md#^purple-pear-charms)`
-
 | dice: d20 | Supernatural Charm |
 |-----------|--------------------|
-| 1–2 | [Charm of Druidcraft](/3-Mechanics/CLI/rewards/charm-of-druidcraft-idrotf.md). This charm allows you to cast the druidcraft cantrip as an action, no components required. Once used three times, this charm vanishes from you. |
-| 3–5 | [Charm of Vicious Mockery](/3-Mechanics/CLI/rewards/charm-of-vicious-mockery-idrotf.md). This charm allows you to cast the vicious mockery cantrip (5th-level version; save DC 15) as an action. Once used three times, this charm vanishes from you. |
-| 6–8 | [Charm of Invisibility](/3-Mechanics/CLI/rewards/charm-of-invisibility-idrotf.md). This charm allows you to cast the invisibility spell as an action, no components required. Once used three times, this charm vanishes from you. |
-| 9–11 | [Charm of Sending](/3-Mechanics/CLI/rewards/charm-of-sending-idrotf.md). This charm allows you to cast the sending spell as an action, no components required. Once used, this charm vanishes from you. |
-| 12–14 | [Charm of Cure Wounds](/3-Mechanics/CLI/rewards/charm-of-cure-wounds-idrotf.md). This charm allows you to cast the cure wounds spell (3rd-level version) as an action, no components required. Your spellcasting ability for this charm is Wisdom. Once used, this charm vanishes from you. |
-| 15–17 | [Charm of Lightning Bolt](/3-Mechanics/CLI/rewards/charm-of-lightning-bolt-idrotf.md). This charm allows you to cast the lightning bolt spell (save DC 15) as an action, no components required. Once used, this charm vanishes from you. |
-| 18–19 | [Charm of Purplemancy](/3-Mechanics/CLI/rewards/charm-of-purplemancy-idrotf.md). This charm allows you to cast the faerie fire spell (violet light only; save DC 15) as a bonus action instead of an action, no components required. Once used three times, this charm vanishes from you. |
-| 20 | [Charm of Restoration](/3-Mechanics/CLI/rewards/charm-of-restoration.md). This charm has 6 charges. You can use an action to expend some of its charges to cast one of the following spells: greater restoration (4 charges) or lesser restoration (2 charges). Once all its charges have been expended, this charm vanishes from you. |
+| 1–2 | [Charm of Druidcraft](3-Mechanics/CLI/rewards/charm-of-druidcraft-idrotf.md). This charm allows you to cast the [druidcraft](3-Mechanics/CLI/spells/druidcraft.md) cantrip as an action, no components required. Once used three times, this charm vanishes from you. |
+| 3–5 | [Charm of Vicious Mockery](3-Mechanics/CLI/rewards/charm-of-vicious-mockery-idrotf.md). This charm allows you to cast the [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery.md) cantrip (5th-level version; save DC 15) as an action. Once used three times, this charm vanishes from you. |
+| 6–8 | [Charm of Invisibility](3-Mechanics/CLI/rewards/charm-of-invisibility-idrotf.md). This charm allows you to cast the [invisibility](3-Mechanics/CLI/spells/invisibility.md) spell as an action, no components required. Once used three times, this charm vanishes from you. |
+| 9–11 | [Charm of Sending](3-Mechanics/CLI/rewards/charm-of-sending-idrotf.md). This charm allows you to cast the [sending](3-Mechanics/CLI/spells/sending.md) spell as an action, no components required. Once used, this charm vanishes from you. |
+| 12–14 | [Charm of Cure Wounds](3-Mechanics/CLI/rewards/charm-of-cure-wounds-idrotf.md). This charm allows you to cast the [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) spell (3rd-level version) as an action, no components required. Your spellcasting ability for this charm is Wisdom. Once used, this charm vanishes from you. |
+| 15–17 | [Charm of Lightning Bolt](3-Mechanics/CLI/rewards/charm-of-lightning-bolt-idrotf.md). This charm allows you to cast the [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md) spell (save DC 15) as an action, no components required. Once used, this charm vanishes from you. |
+| 18–19 | [Charm of Purplemancy](3-Mechanics/CLI/rewards/charm-of-purplemancy-idrotf.md). This charm allows you to cast the [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) spell (violet light only; save DC 15) as a bonus action instead of an action, no components required. Once used three times, this charm vanishes from you. |
+| 20 | [Charm of Restoration](3-Mechanics/CLI/rewards/charm-of-restoration.md). This charm has 6 charges. You can use an action to expend some of its charges to cast one of the following spells: [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) (4 charges) or [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) (2 charges). Once all its charges have been expended, this charm vanishes from you. |
 ^purple-pear-charms
 
 #### H37. Weird Insights
@@ -770,11 +764,11 @@ Each tree has `dice:3d6|noform|noparens|avg` (`3d6`) ripe pears hanging from its
 > Huddled together at the west end of this ten-foot-high cave are four hunched creatures with spiny backs and sharp claws. Each one stares at you with a single unblinking eye.
 ^619
 
-These four [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md), evil denizens of Ythryn, followed Yilsebek and his fellow drow as far as the dryad's grove (area H36) before taking refuge in this cave. The nothics use their Weird Insight to glean secrets from the characters. They are reluctant to provoke a well-armed group of adventurers, preferring to pick off lone prey, but if attacked, they respond in kind.
+These four [nothics](3-Mechanics/CLI/bestiary/aberration/nothic.md), evil denizens of Ythryn, followed Yilsebek and his fellow drow as far as the dryad's grove (area H36) before taking refuge in this cave. The nothics use their Weird Insight to glean secrets from the characters. They are reluctant to provoke a well-armed group of adventurers, preferring to pick off lone prey, but if attacked, they respond in kind.
 
-Offering food and drink to the nothics loosens their tongues, but these ones speak and understand only Loross (see the "Loross: The Netherese Tongue"). They can also write in the Draconic script. [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) can serve as a translator if none of the characters can understand the nothics.
+Offering food and drink to the nothics loosens their tongues, but these ones speak and understand only Loross (see the "Loross: The Netherese Tongue"). They can also write in the Draconic script. [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) can serve as a translator if none of the characters can understand the nothics.
 
-The nothics have no memory of their lost humanity, and any information they might provide is garbled with bits of nonsense. Characters who succeed on a DC 12 Wisdom (Insight) check can glean the following information from the nothics after a brief conversation:
+The nothics have no memory of their lost humanity, and any information they might provide is garbled with bits of nonsense. Characters who succeed on a DC 12 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check can glean the following information from the nothics after a brief conversation:
 
 - Iriolarthas, a powerful Netherese archwizard, watches over Ythryn. He has lost not only his mind, but most of his body as well. All that remains of him is a floating human skull.  
 - Giant floating hands made of magical force wander around in the city.  
@@ -794,7 +788,7 @@ This tunnel of ice cuts through the glacier for almost a mile before ending at t
 
 ##### Slaad Host
 
-If one of the characters has the Slaad Host secret (see appendix B) and the [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) hasn't been born or destroyed yet, it bursts from the character's chest as the character descends this tunnel.
+If one of the characters has the Slaad Host secret (see appendix B) and the [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) hasn't been born or destroyed yet, it bursts from the character's chest as the character descends this tunnel.
 
 ## Wrapping Up
 
@@ -802,9 +796,9 @@ Once the characters enter area H39, they can make their way deeper inside the Re
 
 ### Avarice Follows
 
-Guided by the visions of Levistus, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) follows the characters to the Reghed Glacier. Around the time when the characters reach Ythryn, the tiefling wizard and her followers arrive at the Caves of Hunger and kill any Elk Tribe warriors guarding the entrance. [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) then leads her troupe through the icy caverns, marching toward her destiny.
+Guided by the visions of Levistus, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) follows the characters to the Reghed Glacier. Around the time when the characters reach Ythryn, the tiefling wizard and her followers arrive at the Caves of Hunger and kill any Elk Tribe warriors guarding the entrance. [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) then leads her troupe through the icy caverns, marching toward her destiny.
 
-More information about [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) and her followers is provided in the next chapter.
+More information about [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) and her followers is provided in the next chapter.
 
 ### Tekeli-li Escapes
 

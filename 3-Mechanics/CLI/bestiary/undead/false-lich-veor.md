@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- False Lich
+- "False Lich"
 ---
-# [False Lich](3-Mechanics\CLI\bestiary\undead/false-lich-veor.md)
+# [False Lich](3-Mechanics/CLI/bestiary/undead/false-lich-veor.md)
 *Source: Vecna: Eve of Ruin p. 220*  
 
 Occasionally, liches create nefarious magical copies of themselves to fool enemies, to guard treasure, or for other inscrutable reasons.
@@ -46,8 +46,11 @@ A false lich often gradually gains a sense of self-identity. While many false li
   - "charisma": !!int "9"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-"senses": "truesight 60 ft., passive Perception 14"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 14"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Elvish, Giant, Infernal, Primordial,\
   \ Undercommon"
 "cr": "21"
@@ -66,31 +69,36 @@ A false lich often gradually gains a sense of self-identity. While many false li
     "name": "Death Rend"
   - "desc": "The false lich emits a hideous shriek charged with malignant energy.\
       \ Each creature within 30 feet of the false lich must succeed on a DC 22 Wisdom\
-      \ saving throw or have the frightened condition for 1 minute. While frightened\
-      \ in this way, a creature also has the unconscious condition. An affected creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+      \ saving throw or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition for 1 minute. While [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ in this way, a creature also has the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ condition. An affected creature can repeat the saving throw at the end of\
+      \ each of its turns, ending the effect on itself on a success."
     "name": "Bloodcurdling Lament (Recharge 5-6)"
   - "desc": "The false lich casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 22):\n\n**At will:** Detect Magic, Fly, Mage Hand, Prestidigitation\n\n\
-      **3/day each:** Dispel Magic, Invisibility (self only)\n\n**1/day each:** Globe\
-      \ of Invulnerability, Hold Monster"
+      \ DC 22):\n\n**At will:** [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Fly](3-Mechanics/CLI/spells/fly-xphb.md), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**3/day\
+      \ each:** [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ (self only)\n\n**1/day each:** [Globe of Invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The false lich targets one creature it can see within 120 feet of itself.\
       \ The target must make a DC 22 Charisma saving throw; if the target has the\
-      \ unconscious condition, it has disadvantage on this saving throw. The target\
-      \ takes 21 (6d6) force damage on a failed save or half as much damage on a successful\
-      \ one. The false lich then regains a number of hit points equal to the amount\
-      \ of force damage taken.\n\nIf this damage reduces the target to 0 hit points,\
-      \ the target immediately dies, its body disappears, and its soul is trapped\
-      \ inside one of the soul gems within the false lich's skull. After 24 hours,\
-      \ the gem transfers the soul to the false lich's creator.\n\nWhen the false\
-      \ lich is reduced to 0 hit points, it is destroyed and disintegrates, leaving\
-      \ behind the gems. Crushing a gem releases any souls trapped within, at which\
-      \ point the soul's body re-forms in an unoccupied space nearest to the gem and\
-      \ in the same state as it was when its soul was trapped."
+      \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition,\
+      \ it has disadvantage on this saving throw. The target takes 21 (6d6) force\
+      \ damage on a failed save or half as much damage on a successful one. The false\
+      \ lich then regains a number of hit points equal to the amount of force damage\
+      \ taken.\n\nIf this damage reduces the target to 0 hit points, the target immediately\
+      \ dies, its body disappears, and its soul is trapped inside one of the soul\
+      \ gems within the false lich's skull. After 24 hours, the gem transfers the\
+      \ soul to the false lich's creator.\n\nWhen the false lich is reduced to 0 hit\
+      \ points, it is destroyed and disintegrates, leaving behind the gems. Crushing\
+      \ a gem releases any souls trapped within, at which point the soul's body re-forms\
+      \ in an unoccupied space nearest to the gem and in the same state as it was\
+      \ when its soul was trapped."
     "name": "Soul Siphon"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the false lich can expend a use to take one of the following actions. The\
@@ -104,6 +112,6 @@ A false lich often gradually gains a sense of self-identity. While many false li
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/false-lich-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/false-lich-veor.webp"
 ```
 ^statblock

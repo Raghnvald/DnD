@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/death
-aliases: 
-- Morgion
+aliases:
+- "Morgion"
 ---
 # Morgion
 *Source: Player's Handbook p. 295* 

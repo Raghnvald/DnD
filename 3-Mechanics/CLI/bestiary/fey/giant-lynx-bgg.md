@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Lynx
+- "Giant Lynx"
 ---
-# [Giant Lynx](3-Mechanics\CLI\bestiary\fey/giant-lynx-bgg.md)
+# [Giant Lynx](3-Mechanics/CLI/bestiary/fey/giant-lynx-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 151*  
 
 Though they're often mistaken for mundane cats, giant lynxes are magical creatures with origins in the snowy woodlands of the Feywild. Their coats grow lighter in winter, helping to camouflage them in their favored habitats even when the landscape is draped in snow.
@@ -48,32 +48,30 @@ Frost and cloud giants sometimes befriend giant lynxes and treat them as beloved
   - !!int "10"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_resistances": "cold"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 60 ft., passive Perception\
-  \ 16"
+"senses": "truesight 60 ft., passive Perception 16"
 "languages": "Giant, Sylvan"
 "cr": "1/2"
 "traits":
-  - "desc": "The lynx can cast [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
-      \ requiring no spell components and using Wisdom as the spellcasting ability."
+  - "desc": "The lynx can cast clairvoyance, requiring no spell components and using\
+      \ Wisdom as the spellcasting ability."
     "name": "Lynx's Sight (1/Day)"
-  - "desc": "The lynx has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
-      \ checks made to hide in undergrowth or snowy terrain."
+  - "desc": "The lynx has advantage on Dexterity (Stealth) checks made to hide in\
+      \ undergrowth or snowy terrain."
     "name": "Woodland Camouflage"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage. If the lynx moved at least 20 feet straight toward the\
-      \ target immediately before the hit, the target must succeed on a DC 12 Strength\
-      \ saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition.\
-      \ If the target has the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition,\
-      \ the lynx can make another Claws attack against it as a bonus action."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage. If the lynx moved at least 20 feet straight toward\
+      \ the target immediately before the hit, the target must succeed on a DC 12\
+      \ Strength saving throw or have the prone condition. If the target has the prone\
+      \ condition, the lynx can make another Claws attack against it as a bonus action."
     "name": "Claws"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/giant-lynx-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/giant-lynx-bgg.webp"
 ```
 ^statblock

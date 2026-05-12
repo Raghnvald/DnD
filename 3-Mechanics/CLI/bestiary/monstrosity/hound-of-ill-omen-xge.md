@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hound of Ill Omen
+- "Hound of Ill Omen"
 ---
-# [Hound of Ill Omen](3-Mechanics\CLI\bestiary\monstrosity/hound-of-ill-omen-xge.md)
+# [Hound of Ill Omen](3-Mechanics/CLI/bestiary/monstrosity/hound-of-ill-omen-xge.md)
 *Source: Xanathar's Guide to Everything p. 50*  
 
 ```statblock
@@ -34,20 +34,20 @@ aliases:
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The hound has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The hound has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The hound has advantage on an attack roll against a creature if at least\
       \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The hound appears with a number of temporary hit points equal to half\
       \ your sorcerer level."
@@ -68,11 +68,11 @@ aliases:
     "name": "Ever at Your Heels"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 13 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "XGE"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
 ```
 ^statblock

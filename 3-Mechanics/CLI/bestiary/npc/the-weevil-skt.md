@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- The Weevil
+- "The Weevil"
 ---
-# [The Weevil](3-Mechanics\CLI\bestiary\npc/the-weevil-skt.md)
+# [The Weevil](3-Mechanics/CLI/bestiary/npc/the-weevil-skt.md)
 *Source: Storm King's Thunder p. 114*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -39,12 +39,16 @@ aliases:
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "any two languages, Dwarvish"
 "cr": "2"
 "traits":
@@ -54,8 +58,8 @@ aliases:
   - "desc": "The Weevil makes three melee attacks with his handaxes. Or the Weevil\
       \ makes two ranged attacks with his handaxes."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 4) slashing damage."
     "name": "Handaxe +1"
 "reactions":
   - "desc": "The Weevil adds 2 to its AC against one melee attack that would hit it.\
@@ -63,6 +67,6 @@ aliases:
     "name": "Parry"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/the-weevil-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/the-weevil-skt.webp"
 ```
 ^statblock

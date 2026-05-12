@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Aboleth
+- "Reduced-Threat Aboleth"
 ---
-# [Reduced-Threat Aboleth](3-Mechanics\CLI\bestiary\aberration/reduced-threat-aboleth-tftyp.md)
+# [Reduced-Threat Aboleth](3-Mechanics/CLI/bestiary/aberration/reduced-threat-aboleth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -38,11 +38,12 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+10"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-"senses": "darkvision 120 ft., passive Perception 20"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -65,44 +66,47 @@ aliases:
 "actions":
   - "desc": "The aboleth makes three tentacle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 12 Constitution saving throw or become diseased. The disease has no\
       \ effect for 1 minute and can be removed by any magic that cures disease. After\
       \ 1 minute, the diseased creature's skin becomes translucent and slimy, the\
       \ creature can't regain hit points unless it is underwater, and the disease\
-      \ can be removed only by heal or another disease-curing spell of 6th level or\
-      \ higher. When the creature is outside a body of water, it takes 6 (1d12) acid\
-      \ damage every 10 minutes unless moisture is applied to the skin before 10 minutes\
-      \ have passed."
+      \ can be removed only by [heal](3-Mechanics/CLI/spells/heal-xphb.md) or another\
+      \ disease-curing spell of 6th level or higher. When the creature is outside\
+      \ a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture\
+      \ is applied to the skin before 10 minutes have passed."
     "name": "Tentacle"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (3d6 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (3d6 + 5) bludgeoning damage."
     "name": "Tail"
   - "desc": "The aboleth targets one creature it can see within 30 feet of it. The\
-      \ target must succeed on a DC 12 Wisdom saving throw or be magically charmed\
+      \ target must succeed on a DC 12 Wisdom saving throw or be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ by the aboleth until the aboleth dies or until it is on a different plane\
-      \ of existence from the target. The charmed target is under the aboleth's control\
-      \ and can't take reactions, and the aboleth and the target can communicate telepathically\
-      \ with each other over any distance.\n\nWhenever the charmed target takes damage,\
-      \ the target can repeat the saving throw. On a success, the effect ends. No\
-      \ more than once every 24 hours, the target can also repeat the saving throw\
-      \ when it is at least 1 mile away from the aboleth."
+      \ of existence from the target. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ target is under the aboleth's control and can't take reactions, and the aboleth\
+      \ and the target can communicate telepathically with each other over any distance.\n\
+      \nWhenever the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
+      \ takes damage, the target can repeat the saving throw. On a success, the effect\
+      \ ends. No more than once every 24 hours, the target can also repeat the saving\
+      \ throw when it is at least 1 mile away from the aboleth."
     "name": "Enslave (3/Day)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the reduced-threat aboleth can expend a use to take one of the following\
   \ actions. The reduced-threat aboleth regains all expended uses at the start of\
   \ each of its turns."
 "legendary_actions":
-  - "desc": "The aboleth makes a Wisdom (Perception) check."
+  - "desc": "The aboleth makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "The aboleth makes one tail attack."
     "name": "Tail Swipe"
-  - "desc": "One creature charmed by the aboleth takes 10 (3d6) psychic damage, and\
-      \ the aboleth regains hit points equal to the damage the creature takes."
+  - "desc": "One creature [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by\
+      \ the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points\
+      \ equal to the damage the creature takes."
     "name": "Psychic Drain (Costs 2 Actions)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/reduced-threat-aboleth-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/reduced-threat-aboleth-tftyp.webp"
 ```
 ^statblock

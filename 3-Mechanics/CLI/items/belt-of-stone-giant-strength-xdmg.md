@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Belt of Stone Giant Strength"
 ---
 # Belt of Stone Giant Strength
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/belt-of-giant-strength-stone.webp#right)
+![](3-Mechanics/CLI/items/img/belt-of-giant-strength-stone.webp#right)
 
 
 While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Big Xorn
+- "Big Xorn"
 ---
-# [Big Xorn](3-Mechanics\CLI\bestiary\elemental/big-xorn-wdmm.md)
+# [Big Xorn](3-Mechanics/CLI/bestiary/elemental/big-xorn-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 51*  
 
 ```statblock
@@ -34,20 +34,21 @@ aliases:
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_resistances": "piercing, slashing from nonmagical attacks that aren't adamantine"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
+  \ 60 ft., passive Perception 16"
 "languages": "Terran"
 "cr": "8"
 "traits":
   - "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
       \ doing so, the xorn doesn't disturb the material it moves through."
     "name": "Earth Glide"
-  - "desc": "The xorn has advantage on Dexterity (Stealth) checks made to hide in\
-      \ rocky terrain."
+  - "desc": "The xorn has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
   - "desc": "The xorn can pinpoint, by scent, the location of precious metals and\
       \ stones, such as coins and gems, within 60 feet of it."
@@ -58,11 +59,11 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (5d6 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d8 + 5) slashing damage."
     "name": "Claw"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/big-xorn-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/big-xorn-wdmm.webp"
 ```
 ^statblock

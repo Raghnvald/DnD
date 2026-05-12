@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/light
-aliases: 
-- Segojan Earthcaller
+aliases:
+- "Segojan Earthcaller"
 ---
 # Segojan Earthcaller
 *Source: Mordenkainen's Tome of Foes p. 112* 

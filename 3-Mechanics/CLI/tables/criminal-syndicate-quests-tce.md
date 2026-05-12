@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Criminal Syndicate Quests
+- "Criminal Syndicate Quests"
 ---
 # Criminal Syndicate Quests
 *Source: Tasha's Cauldron of Everything p. 93* 
 
 **Criminal Syndicate Quests**
-
-`dice: [](criminal-syndicate-quests-tce.md#^criminal-syndicate-quests)`
 
 | dice: d6 | Quest |
 |----------|-------|

@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Poison Resistance"
 - "Breastplate of Poison Resistance"
 - "Chain Mail of Poison Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to poison damage while you wear this armor.
+You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to poison damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Poison Resistance](#Breastplate%20of%20Poison%20Resistance)

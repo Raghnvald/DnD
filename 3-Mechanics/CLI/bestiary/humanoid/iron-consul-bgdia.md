@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iron Consul
+- "Iron Consul"
 ---
-# [Iron Consul](3-Mechanics\CLI\bestiary\humanoid/iron-consul-bgdia.md)
+# [Iron Consul](3-Mechanics/CLI/bestiary/humanoid/iron-consul-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 232*  
 
 Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
@@ -36,7 +36,7 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md)"
+"ac_class": "chain mail"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "0"
@@ -51,11 +51,13 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "frightened"
+"gear":
+  - "spear"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "2"
@@ -77,6 +79,6 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
     "name": "Voice of Command"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/iron-consul-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/iron-consul-bgdia.webp"
 ```
 ^statblock

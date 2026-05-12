@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Defining Mission
+- "Defining Mission"
 ---
 # Defining Mission
 *Source: Eberron: Rising from the Last War p. 90* 
 
 **Defining Mission**
-
-`dice: [](defining-mission-erlw.md#^defining-mission)`
 
 | dice: d6 | Mission |
 |----------|---------|

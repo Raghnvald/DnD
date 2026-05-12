@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Piccolo
+- "Piccolo"
 ---
-# [Piccolo](3-Mechanics\CLI\bestiary\npc/piccolo-cos.md)
+# [Piccolo](3-Mechanics/CLI/bestiary/npc/piccolo-cos.md)
 *Source: Curse of Strahd p. 118*  
 
 ```statblock
@@ -38,14 +38,14 @@ aliases:
 "traits":
   - "desc": "Piccolo has advantage on an attack roll against a creature if at least\
       \ one of Piccolo's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ incapacitated."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
-      \ - 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ (1d4 - 1) piercing damage."
     "name": "Bite"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/piccolo-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/piccolo-cos.webp"
 ```
 ^statblock

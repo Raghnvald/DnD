@@ -10,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Avatar of Death
+- "Avatar of Death"
 ---
-# [Avatar of Death](3-Mechanics\CLI\bestiary\undead/avatar-of-death-dmg.md)
+# [Avatar of Death](3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md)
 *Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-Summoned by the "Skull" card from the [Deck of Many Things](/3-Mechanics/CLI/items/deck-of-many-things.md).
+Summoned by the "Skull" card from the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md).
 
 ```statblock
 "name": "Avatar of Death (DMG)"
@@ -33,11 +33,8 @@ Summoned by the "Skull" card from the [Deck of Many Things](/3-Mechanics/CLI/ite
   - !!int "16"
 "speed": "60 ft., fly 60 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
-  \ 60 ft., passive Perception 13"
+"condition_immunities": "charmed, frightened, paralyzed, petrified, poisoned, unconscious"
+"senses": "darkvision 60 ft., truesight 60 ft., passive Perception 13"
 "languages": "all languages known to its summoner"
 "traits":
   - "desc": "The avatar can move through other creatures and objects as if they were\
@@ -52,6 +49,6 @@ Summoned by the "Skull" card from the [Deck of Many Things](/3-Mechanics/CLI/ite
     "name": "Reaping Scythe"
 "source":
   - "DMG"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/avatar-of-death-dmg.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/avatar-of-death-dmg.webp"
 ```
 ^statblock

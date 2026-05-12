@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Drum"
 ---
 # Drum

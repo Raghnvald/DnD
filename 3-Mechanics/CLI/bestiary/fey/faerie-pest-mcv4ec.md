@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Pest
+- "Faerie Pest"
 ---
-# [Faerie Pest](3-Mechanics\CLI\bestiary\fey/faerie-pest-mcv4ec.md)
+# [Faerie Pest](3-Mechanics/CLI/bestiary/fey/faerie-pest-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Faerie pests love to cause annoyance, fear, and pain. They are perhaps the most mercurial of the faeries and are happy to follow anyone who promises the opportunity to menace someone new.
@@ -44,7 +44,7 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
 "type": "fey"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "22"
 "hit_dice": "5d6 + 5"
 "modifier": !!int "3"
@@ -57,33 +57,37 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
   - !!int "14"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Sylvan"
 "cr": "1"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage plus 5 (2d4) poison damage. If the faerie had advantage\
-      \ on the attack roll, the target takes an additional 3 (1d6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage plus 5 (2d4) poison damage. If the faerie had\
+      \ advantage on the attack roll, the target takes an additional 3 (1d6) slashing\
+      \ damage."
     "name": "Stingblade"
   - "desc": "The faerie unleashes a burst of mind-muddling magic in a 15-foot cone.\
       \ Each creature in that area must succeed on a DC 12 Intelligence saving throw\
-      \ or have the frightened condition for 1 minute. A frightened creature can repeat\
-      \ the saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a success."
+      \ or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition\
+      \ for 1 minute. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Theft of Nerves (1/Day)"
   - "desc": "The faerie casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 12):\n\n**2/day\
-      \ each:** bane, grease\n\n**1/day:** blindness/deafness"
+      \ each:** [bane](3-Mechanics/CLI/spells/bane.md), [grease](3-Mechanics/CLI/spells/grease.md)\n\
+      \n**1/day:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The faerie takes the Hide action."
+  - "desc": "The faerie takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Mischievous Stealth"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/faerie-pest-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/faerie-pest-mcv4ec.webp"
 ```
 ^statblock

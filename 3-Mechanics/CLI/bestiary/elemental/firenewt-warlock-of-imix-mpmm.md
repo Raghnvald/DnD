@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firenewt Warlock of Imix
+- "Firenewt Warlock of Imix"
 ---
-# [Firenewt Warlock of Imix](3-Mechanics\CLI\bestiary\elemental/firenewt-warlock-of-imix-mpmm.md)
+# [Firenewt Warlock of Imix](3-Mechanics/CLI/bestiary/elemental/firenewt-warlock-of-imix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
@@ -42,14 +42,16 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
   - !!int "14"
 "speed": "30 ft."
 "damage_immunities": "fire"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Draconic, Ignan"
 "cr": "1"
 "traits":
   - "desc": "The firenewt can breathe air and water."
     "name": "Amphibious"
-  - "desc": "Magical darkness doesn't impede the firenewt's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the firenewt's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "When the firenewt reduces an enemy to 0 hit points, the firenewt gains\
       \ 5 temporary hit points."
@@ -57,21 +59,21 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "actions":
   - "desc": "The firenewt makes three Morningstar or Fire Ray attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Morningstar"
-  - "desc": "*Ranged Spell Attack:* +4 to hit, range 120 ft., one target. *Hit:* 5\
-      \ (1d6 + 2) fire damage."
+  - "desc": "*Ranged Spell Attack:* +4 to hit, range 120 ft., one target. *Hit:*\
+      \ 5 (1d6 + 2) fire damage."
     "name": "Fire Ray"
   - "desc": "The firenewt casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)"
+      \ spellcasting ability (spell save DC 12):\n\n**At will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orond Gralhund
+- "Orond Gralhund"
 ---
-# [Orond Gralhund](3-Mechanics\CLI\bestiary\npc/orond-gralhund-wdh.md)
+# [Orond Gralhund](3-Mechanics/CLI/bestiary/npc/orond-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 213*  
 
 The Gralhunds are nobles who trade in arms and mercenaries, and whose family motto is "We see both sides." Orond is the patriarch, but he's not a quick-thinking or cultured sort-and deep down, he knows it. He leaves most of the plotting and socializing to his wife, Yalah, to whom he is devoted.
@@ -32,9 +32,9 @@ Orond relies on Yalah to manage the Zhentarim. He spends his days watching merce
 "size": "Medium"
 "type": "humanoid"
 "subtype": "Tethyrian human"
-"alignment": "Lawful Evil"
+"alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -47,18 +47,20 @@ Orond relies on Yalah to manage the Zhentarim. He spends his days watching merce
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Orond adds 2 to its AC against one melee attack that would hit it. To\
@@ -66,6 +68,6 @@ Orond relies on Yalah to manage the Zhentarim. He spends his days watching merce
     "name": "Parry"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/orond-gralhund-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/orond-gralhund-wdh.webp"
 ```
 ^statblock

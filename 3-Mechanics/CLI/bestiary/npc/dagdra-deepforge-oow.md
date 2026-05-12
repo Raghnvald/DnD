@@ -1,0 +1,85 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/oow
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Dagdra Deepforge"
+---
+# [Dagdra Deepforge](3-Mechanics/CLI/bestiary/npc/dagdra-deepforge-oow.md)
+*Source: The Orrery of the Wanderer p. 145*  
+
+Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
+
+```statblock
+"name": "Dagdra Deepforge (OoW)"
+"size": "Medium"
+"type": "humanoid"
+"subtype": "any race"
+"alignment": "Neutral Good"
+"ac": !!int "15"
+"ac_class": "[half plate armor](3-Mechanics/CLI/items/half-plate-armor.md)"
+"hp": !!int "27"
+"hit_dice": "5d8 + 5"
+"modifier": !!int "0"
+"stats":
+  - !!int "10"
+  - !!int "10"
+  - !!int "12"
+  - !!int "13"
+  - !!int "16"
+  - !!int "13"
+"speed": "30 ft."
+"skillsaves":
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
+    "desc": "+7"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
+    "desc": "+3"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
+    "desc": "+5"
+"damage_resistances": "poison"
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
+"languages": "any two languages, Dwarvish"
+"cr": "2"
+"traits":
+  - "desc": "Dagdra is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
+      \ (spell save DC 13, +5 to hit with spell attacks). Dagdra has the following\
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
+      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)\n\
+      \n**2nd level (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md)\n\n**3rd level\
+      \ (2 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [spirit\
+      \ guardians](3-Mechanics/CLI/spells/spirit-guardians.md)"
+    "name": "Spellcasting"
+  - "desc": "As a bonus action, Dagdra can expend a spell slot to cause its melee\
+      \ weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target\
+      \ on a hit. This benefit lasts until the end of the turn. If Dagdra expends\
+      \ a spell slot of 2nd level or higher, the extra damage increases by 1d6 for\
+      \ each level above 1st."
+    "name": "Divine Eminence"
+  - "desc": "Dagdra"
+    "name": "Dwarven Resilience"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage."
+    "name": "Mace"
+  - "desc": "As an action, Dagdra draws a spell scroll from her documancy satchel.\
+      \ The scroll contains a spell of up to 3rd level of Dagdra's choice. Only Dagdra\
+      \ can use the scroll, which vanishes after 1 minute."
+    "name": "Scroll Service (1/Day)"
+"source":
+  - "OoW"
+"image": "3-Mechanics/CLI/bestiary/npc/token/dagdra-deepforge-oow.webp"
+```
+^statblock

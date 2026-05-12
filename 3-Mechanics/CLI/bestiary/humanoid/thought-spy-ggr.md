@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thought Spy
+- "Thought Spy"
 ---
-# [Thought Spy](3-Mechanics\CLI\bestiary\humanoid/thought-spy-ggr.md)
+# [Thought Spy](3-Mechanics/CLI/bestiary/humanoid/thought-spy-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 233*  
 
 Thought spies form the backbone of House Dimir's covert operations. They are trained in stealth and infiltration, tactics that they supplement with rigorously developed mental abilities. To ensure that no secrets slip through Dimir's fingers, they infiltrate rival guilds. In addition to traditional means of gathering intelligence, thought spies use their magic to spy on the thoughts of their targets.
@@ -24,7 +24,7 @@ Thought spies form the backbone of House Dimir's covert operations. They are tra
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "leather armor"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "2"
@@ -37,30 +37,29 @@ Thought spies form the backbone of House Dimir's covert operations. They are tra
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+3"
-  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+  - "name": "Investigation"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "Sleight of Hand"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 13"
+"gear":
+  - "dagger"
+  - "rapier"
+"senses": "darkvision 30 ft., passive Perception 13"
 "languages": "Common plus any one language"
 "cr": "1"
 "traits":
   - "desc": "The thought spy's innate spellcasting ability is Intelligence (spell\
       \ save DC 13). The thought spy can innately cast the following spells, requiring\
-      \ no components:\n\n**At will:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [encode thoughts](/3-Mechanics/CLI/spells/encode-thoughts-ggr.md)\
-      \ (see chapter 2)\n\n**1/day each:** [blur](/3-Mechanics/CLI/spells/blur-xphb.md),\
-      \ [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [gaseous\
-      \ form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
+      \ no components:\n\n**At will:** charm person, disguise self, [encode thoughts](3-Mechanics/CLI/spells/encode-thoughts-ggr.md)\
+      \ (see chapter 2)\n\n**1/day each:** blur, detect thoughts, gaseous form"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "On each of its turns, the thought spy can use a bonus action to take\
       \ the Dash, Disengage, or Hide action."
@@ -72,11 +71,11 @@ Thought spies form the backbone of House Dimir's covert operations. They are tra
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage."
     "name": "Rapier"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/thought-spy-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/thought-spy-ggr.webp"
 ```
 ^statblock

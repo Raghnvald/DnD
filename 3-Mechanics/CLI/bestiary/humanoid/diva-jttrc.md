@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Diva
+- "Diva"
 ---
-# [Diva](3-Mechanics\CLI\bestiary\humanoid/diva-jttrc.md)
+# [Diva](3-Mechanics/CLI/bestiary/humanoid/diva-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 72*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -35,29 +35,32 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
-  - "desc": "The diva has advantage on Wisdom (Perception) checks that rely on hearing\
-      \ or sight."
+  - "desc": "The diva has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
 "actions":
   - "desc": "The diva makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Broken Bottle"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/diva-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/diva-jttrc.webp"
 ```
 ^statblock

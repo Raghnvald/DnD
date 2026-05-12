@@ -10,18 +10,20 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blood Drinker Vampire
+- "Blood Drinker Vampire"
 ---
-# [Blood Drinker Vampire](3-Mechanics\CLI\bestiary\undead/blood-drinker-vampire-ggr.md)
+# [Blood Drinker Vampire](3-Mechanics/CLI/bestiary/undead/blood-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 223*  
+
+## Blood Drinker Vampire
 
 Plenty of blood drinkers haunt Ravnica's alleys and sewers, preying on those who are foolish enough to leave the relative safety of the crowds.
 
-## Orzhov Vampires
+### Orzhov Vampires
 
 Vampires thrive in the Orzhov Syndicate, where they can collect tithes and payments from their debtors in the form of blood. Their undead nature gives them the same immortality enjoyed by the oligarch spirits, but they remain capable of experiencing all the delights of their corporeal forms. In contrast to Orzhov spirits, they also retain their personalities, which are almost uniformly cruel.
 
-## Blood Bond
+### Blood Bond
 
 Consuming a creature's blood creates a sort of empathic bond that allows the blood drinker vampire to exert some magical influence over its victim.
 
@@ -54,15 +56,16 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
   - "constitution": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "rapier"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "actions":
@@ -70,24 +73,21 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
       \ attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by the vampire, [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ or [restrained](/3-Mechanics/CLI/conditions.md#Restrained). *Hit:* 7 (1d6\
-      \ + 4) piercing damage plus 7 (2d6) necrotic damage. If the target is humanoid,\
-      \ it must succeed on a DC 15 Charisma saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ by the vampire for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ in this way, the target is infatuated with the vampire. The target's hit point\
-      \ maximum is reduced by an amount equal to the necrotic damage taken, and the\
-      \ vampire regains hit points equal to that amount. The reduction lasts until\
-      \ the target finishes a long rest. The target dies if its hit point maximum\
-      \ is reduced to 0."
+      \ or a creature that is grappled by the vampire, incapacitated, or restrained.\
+      \ *Hit:* 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. If the\
+      \ target is humanoid, it must succeed on a DC 15 Charisma saving throw or be\
+      \ charmed by the vampire for 1 minute. While charmed in this way, the target\
+      \ is infatuated with the vampire. The target's hit point maximum is reduced\
+      \ by an amount equal to the necrotic damage taken, and the vampire regains hit\
+      \ points equal to that amount. The reduction lasts until the target finishes\
+      \ a long rest. The target dies if its hit point maximum is reduced to 0."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage."
     "name": "Rapier"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage. The vampire can also grapple the target (escape DC\
-      \ 14) if it is a creature and the vampire has a hand free."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage. The vampire can also grapple the target (escape\
+      \ DC 14) if it is a creature and the vampire has a hand free."
     "name": "Unarmed Strike"
 "reactions":
   - "desc": "The vampire adds 3 to its AC against one melee attack that would hit\
@@ -95,6 +95,6 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
     "name": "Parry"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/blood-drinker-vampire-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/blood-drinker-vampire-ggr.webp"
 ```
 ^statblock

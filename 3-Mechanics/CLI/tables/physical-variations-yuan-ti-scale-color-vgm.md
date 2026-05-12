@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Yuan-ti Scale Color
+- "Physical Variations; Yuan-ti Scale Color"
 ---
 # Physical Variations; Yuan-ti Scale Color
 *Source: Volo's Guide to Monsters p. 97* 
 
 **Yuan-ti Scale Color**
-
-`dice: [](physical-variations-yuan-ti-scale-color-vgm.md#^yuan-ti-scale-color)`
 
 | dice: d100 | Scale Color |
 |------------|-------------|

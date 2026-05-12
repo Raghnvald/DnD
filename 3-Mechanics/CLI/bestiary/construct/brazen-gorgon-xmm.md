@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brazen Gorgon
+- "Brazen Gorgon"
 ---
-# [Brazen Gorgon](3-Mechanics\CLI\bestiary\construct/brazen-gorgon-xmm.md)
+# [Brazen Gorgon](3-Mechanics/CLI/bestiary/construct/brazen-gorgon-xmm.md)
 *Source: Monster Manual (2024) p. 149*  
 
 Followers of the exiled archdevil Moloch altered the process of creating gorgons to craft their own diabolical guardians called brazen gorgons. These gorgons are hollow, bull-like automatons whose metal bodies glow with intense heat. When they charge their foes, the ribs of their frames open like cages to ensnare enemies and roast them within. Brazen gorgons are often found in blasphemous sites dedicated to Moloch, other archdevils, or bloodthirsty gods.
@@ -33,11 +33,9 @@ Gorgons are created by magic-users to serve as guardians. The process for creati
 
 When magic-users create gorgons, they often enchant them to ignore those who confront the creature with a specific command key, usually a password or a specific signal. Once a gorgon is set to guard an area, it attacks any who enter until they flee or are destroyed. Should someone provide the command key, the monster ignores that intruder so long as the intruder remains in its sight. But if the intruder ventures out of sight and then returns without again presenting the command key, the gorgon attacks. Those in a gorgon's territory must remain vigilant and aware of the monster's exact position, or they risk being attacked by a gorgon they thought was no longer a threat.
 
-Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](/3-Mechanics/CLI/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
+Those who create gorgons strive to give them purposefully obscure command keys. Hints at command keys might be found among the records of a gorgon's creator or in the area the gorgon protects—perhaps scrawled as a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) trespasser's final act. Roll on or choose a result from the Gorgon Command Keys table to inspire the word or signal that temporarily neutralizes a gorgon.
 
 **Gorgon Command Keys**
-
-`dice: [](brazen-gorgon-xmm.md#^gorgon-command-keys)`
 
 | dice: 1d6 | Gorgon Won't Attack Those That... |
 |-----------|-----------------------------------|
@@ -72,45 +70,45 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
 "damage_immunities": "fire"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 20"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 20"
 "languages": ""
 "cr": "9"
 "traits":
-  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "At the end of each of the gorgon's turns, each creature in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the gorgon takes 13 (3d8) Fire damage."
     "name": "Flame Aura"
-  - "desc": "The gorgon sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The gorgon sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
   - "desc": "The gorgon makes two Gore attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage\
-      \ plus 10 (3d6) Fire damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage plus 10 (3d6) Fire damage."
     "name": "Gore"
-  - "desc": "The gorgon moves up to its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The gorgon moves up to its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)\
       \ and can move through the spaces of Medium or smaller creatures. Each time\
       \ the gorgon enters a creature's space for the first time during this move,\
       \ that target is subjected to the following effect. *Dexterity Saving Throw:*\
       \ DC 16. *Failure:* 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage,\
-      \ and the target is pulled into the gorgon's space and has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 14); if the gorgon already has a creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-      \ the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition\
-      \ instead. Until the grapple ends, the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition. When the gorgon moves, the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ and the target is pulled into the gorgon's space and has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14); if the gorgon already has a creature [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+      \ the target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition\
+      \ instead. Until the grapple ends, the target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition. When the gorgon moves, the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ target moves with it, costing no extra movement."
     "name": "Smelting Charge (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/brazen-gorgon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/brazen-gorgon-xmm.webp"
 ```
 ^statblock
 

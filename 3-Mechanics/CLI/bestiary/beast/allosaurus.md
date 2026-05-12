@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Allosaurus
+- "Allosaurus"
 ---
-# [Allosaurus](3-Mechanics\CLI\bestiary\beast/allosaurus.md)
+# [Allosaurus](3-Mechanics/CLI/bestiary/beast/allosaurus.md)
 *Source: Monster Manual p. 79. Available in the Basic Rules (2014)*  
 
 The allosaurus is a predator possessing great size, strength, and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws.
@@ -43,7 +43,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   - !!int "5"
 "speed": "60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
@@ -51,20 +51,20 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 "traits":
   - "desc": "If the allosaurus moves at least 30 feet straight toward a creature and\
       \ then hits it with a claw attack on the same turn, that target must succeed\
-      \ on a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ If the target is [prone](/3-Mechanics/CLI/conditions.md#Prone), the allosaurus\
+      \ on a DC 13 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If the target is [prone](3-Mechanics/CLI/rules/conditions.md#Prone), the allosaurus\
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d10 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/allosaurus.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/allosaurus.webp"
 ```
 ^statblock
 

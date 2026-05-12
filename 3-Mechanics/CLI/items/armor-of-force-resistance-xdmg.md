@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Force Resistance"
 - "Breastplate of Force Resistance"
 - "Chain Mail of Force Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to force damage while you wear this armor.
+You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to force damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Force Resistance](#Breastplate%20of%20Force%20Resistance)

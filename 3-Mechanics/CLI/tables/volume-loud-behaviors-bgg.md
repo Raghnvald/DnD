@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Volume; Loud Behaviors
+- "Volume; Loud Behaviors"
 ---
 # Volume; Loud Behaviors
 *Source: Bigby Presents: Glory of the Giants p. 22* 
 
 **Loud Behaviors**
-
-`dice: [](volume-loud-behaviors-bgg.md#^loud-behaviors)`
 
 | dice: d6 | Behavior |
 |----------|----------|

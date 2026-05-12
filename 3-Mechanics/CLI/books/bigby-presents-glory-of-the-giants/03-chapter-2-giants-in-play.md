@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Chapter 2: Giants in Play
+- "Chapter 2: Giants in Play"
 ---
 # Chapter 2: Giants in Play
 *Source: Bigby Presents: Glory of the Giants, p. 21* 
@@ -28,7 +28,7 @@ Intended for the Dungeon Master, this chapter explores key aspects of giants' li
 
 As with the rest of this book, this chapter focuses on the main families of giants described in the "Monster Manual", but much of this advice can also be applied to other creatures of the Giant type.
 
-![](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/029-02-001-bigbys-appraisal.webp#center)
+![](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/029-02-001-bigbys-appraisal.webp#center)
 
 ## Roleplaying Giants
 
@@ -42,9 +42,9 @@ The giants of the ordning are enormous, ranging from 16 to 26 feet tall. The siz
 
 Consider how you can convey a sense of a giant's size as you play the giant. You might stand above seated players to loom over them or describe behaviors that emphasize the giant's size. The Huge Behaviors table gives examples of habits and events that can communicate a giant's enormous scale.
 
-![Size; Huge Behaviors](/3-Mechanics/CLI/tables/size-huge-behaviors-bgg.md)
+![Size; Huge Behaviors](3-Mechanics/CLI/tables/size-huge-behaviors-bgg.md)
 
-![A huge melon in a human's ...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/030-02-002-lounging-giant.webp#center "A huge melon in a human's hands is a snacking fruit in a stone giant's")
+![A huge melon in a human's hands is a snacking fruit in a stone giant's](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/030-02-002-lounging-giant.webp#center)
 
 ### Age
 
@@ -52,31 +52,31 @@ Giants are long-lived compared to humans, though not as much as their semidivine
 
 In keeping with their long life spans, giants tend to live their lives at a slower pace than smaller folk. They often speak slowly and avoid rushing into decisions. Adding potential confusion to their interactions with smaller races, giants are often comically out of touch with happenings in the wider world, keeping a store of knowledge about Humanoid realms and peoples that was already outdated when they learned it as children. The Ancient Behaviors table suggests some ways you can communicate a giant's age in an encounter.
 
-![Age; Life Spans](/3-Mechanics/CLI/tables/age-life-spans-bgg.md)
+![Age; Life Spans](3-Mechanics/CLI/tables/age-life-spans-bgg.md)
 
-![Age; Ancient Behaviors](/3-Mechanics/CLI/tables/age-ancient-behaviors-bgg.md)
+![Age; Ancient Behaviors](3-Mechanics/CLI/tables/age-ancient-behaviors-bgg.md)
 
 ### Volume
 
 Giants are loud. From the earth-shaking rumble of several-ton footsteps to ear-splitting roars supported by lungs the size of barrels, giants can make a lot of noise. Don't yell at your players, but consider raising your voice a little, and perhaps gently shaking the table to demonstrate how the earth trembles at the giant's footsteps. Finding ways to emphasize a giant's volume can help everyone at the table appreciate the scale of the encounter. The Loud Behaviors table offers more suggestions.
 
-![Volume; Loud Behaviors](/3-Mechanics/CLI/tables/volume-loud-behaviors-bgg.md)
+![Volume; Loud Behaviors](3-Mechanics/CLI/tables/volume-loud-behaviors-bgg.md)
 
 ### Pride
 
 Many giants are taught that Annam begot the giants and intended them to rule the worlds of the Material Plane. Though giants have learned many hard lessons in the millennia since their origin, a sense of self-importance still pervades their stories and inflates their vanity. It can be hard for a 16- to 26-foot-tall giant to take 3- to 7-foot-tall Humanoids and their concerns seriously. Use the Proud Behaviors table to inspire your portrayal of giants' pride and vanity.
 
-![Pride; Proud Behaviors](/3-Mechanics/CLI/tables/pride-proud-behaviors-bgg.md)
+![Pride; Proud Behaviors](3-Mechanics/CLI/tables/pride-proud-behaviors-bgg.md)
 
 ### Names
 
 If you need a name for a giant, use the Giants' Names table and freely combine or change names as you wish. You can also use a name that doesn't match the giant's kind, which might reflect, for example, a hill giant with lofty aspirations or a stone giant raised among frost giants.
 
-![Giants' Names](/3-Mechanics/CLI/tables/giants-names-bgg.md)
+![Giants' Names](3-Mechanics/CLI/tables/giants-names-bgg.md)
 
 ## The Ordning
 
-As described in the "Monster Manual", the giants of many worlds organize themselves in a complex social ranking called the ordning. At the largest scale, the ordning establishes the relative positions of the six main kinds of giants, with [storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) at the top, followed (in order) by [cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), [fire giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), and [stone giants](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), with [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) at the bottom. Other creatures of the Giant type—such as [ettins](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md), [fomorians](/3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md), and [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md)—are not counted as part of the ordning, placing them functionally below the hill giants.
+As described in the "Monster Manual", the giants of many worlds organize themselves in a complex social ranking called the ordning. At the largest scale, the ordning establishes the relative positions of the six main kinds of giants, with storm giants at the top, followed (in order) by cloud giants, fire giants, frost giants, and stone giants, with hill giants at the bottom. Other creatures of the Giant type—such as ettins, fomorians, and trolls—are not counted as part of the ordning, placing them functionally below the hill giants.
 
 At a smaller scale, every giant has a precise place within the larger framework of the ordning, and each kind of giant has a different way of assigning that place. Cloud giants rank themselves based on wealth, fire giants based on crafting skill, frost giants based on physical strength, and stone giants based on a combination of artistry and rock throwing. Hill giants give their respect to larger and stronger giants without putting much thought into hierarchical ranks. Only storm giants, largely solitary and imagining themselves above such petty concerns, have no interest in ranking themselves. Regardless of a giant's ranking within its kind, no giant can transcend the ordning of the six giant kinds; the most accomplished fire giant artisan ranks below the poorest cloud giant, for example.
 
@@ -86,21 +86,21 @@ For any given giant (except a storm giant), you can use the Giants and the Ordni
 > 
 > The ordning strikes me as something between a god-ordained hierarchy and a true meritocracy.
 
-![Giants and the Ordning](/3-Mechanics/CLI/tables/giants-and-the-ordning-bgg.md)
+![Giants and the Ordning](3-Mechanics/CLI/tables/giants-and-the-ordning-bgg.md)
 
-![The Ordning; Cloud Giant Wealth](/3-Mechanics/CLI/tables/the-ordning-cloud-giant-wealth-bgg.md)
+![The Ordning; Cloud Giant Wealth](3-Mechanics/CLI/tables/the-ordning-cloud-giant-wealth-bgg.md)
 
-![The Ordning; Fire Giant Skill](/3-Mechanics/CLI/tables/the-ordning-fire-giant-skill-bgg.md)
+![The Ordning; Fire Giant Skill](3-Mechanics/CLI/tables/the-ordning-fire-giant-skill-bgg.md)
 
-![On some worlds, the ordnin...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/031-02-003-ordning-court.webp#center "On some worlds, the ordning is reinforced by gifts of tribute")
+![On some worlds, the ordning is reinforced by gifts of tribute](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/031-02-003-ordning-court.webp#center)
 
-![The Ordning; Frost Giant Might](/3-Mechanics/CLI/tables/the-ordning-frost-giant-might-bgg.md)
+![The Ordning; Frost Giant Might](3-Mechanics/CLI/tables/the-ordning-frost-giant-might-bgg.md)
 
 > [!quote] A quote from Diancastra  
 > 
 > Don't forget simple family dynamics—or as simple as a family with ten children can be.
 
-![The Ordning; Stone Giant Artistry](/3-Mechanics/CLI/tables/the-ordning-stone-giant-artistry-bgg.md)
+![The Ordning; Stone Giant Artistry](3-Mechanics/CLI/tables/the-ordning-stone-giant-artistry-bgg.md)
 
 ### Rejecting the Ordning
 
@@ -116,11 +116,11 @@ When giants join the cults of demon lords, they reject the entire concept of the
 
 The Rejecting the Ordning table offers adventure hooks inspired by these ideas, illustrating how giants' attitudes toward the ordning can impact characters and the lives of Humanoids who live near them.
 
-![Rejecting the Ordning](/3-Mechanics/CLI/tables/rejecting-the-ordning-bgg.md)
+![Rejecting the Ordning](3-Mechanics/CLI/tables/rejecting-the-ordning-bgg.md)
 
 ### Origin of the Ordning
 
-Most giants believe Annam established the ordning at the very beginning and that it reflects the birth order of his sons. One myth likens the ordning to the structure of the mountains: from lowly foothills ([hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md)), up to the stone of the mountain ([stone giants](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md)), the snow on the peaks ([frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md)), the lava spewing from the peak of a volcano ([fire giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md)), and then above the peak to the clouds ([cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md)) and the storm ([storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)). These myths depict the ordning as an inherent part of what it means to be a giant, as natural as the geography of the land.
+Most giants believe Annam established the ordning at the very beginning and that it reflects the birth order of his sons. One myth likens the ordning to the structure of the mountains: from lowly foothills (hill giants), up to the stone of the mountain (stone giants), the snow on the peaks (frost giants), the lava spewing from the peak of a volcano (fire giants), and then above the peak to the clouds (cloud giants) and the storm (storm giants). These myths depict the ordning as an inherent part of what it means to be a giant, as natural as the geography of the land.
 
 Sagas told among giants on some worlds suggest other explanations for the ordning, linking it to the giants' fall from Annam's good graces. In some of these stories, the ordning isn't natural at all; it's part of the giants' fall—an invention of Annam's sons and a distortion of Annam's will for them. In other stories, it is a consequence of their fall—a punishment Annam inflicted on the giants after they proved themselves incapable of governing the world. The ordning might be necessary, or a burden giants are expected to bear, but giants who hold these views often look forward to Annam abolishing the ordning in some mythic future.
 
@@ -130,7 +130,7 @@ Giants on some worlds (including Eberron) have no concept of the ordning at all.
 
 The myths of giants across the Material Plane differ in many details, but most of them portray giants as descendants of a progenitor god, typically Annam, the All-Father. Giants believe they are nearly divine, and they are inclined to view their existence as part of a mythic story that is still unfolding. Unlike some other powerful, ancient creatures (such as dragons), giants don't typically exalt themselves and demand worship from lesser beings. Rather, they are often drawn to follow gods—and sometimes other powerful beings—who help them live out their part in that epic saga.
 
-![Gods and Religion; Gods of the Ordning](/3-Mechanics/CLI/tables/gods-and-religion-gods-of-the-ordning-bgg.md)
+![Gods and Religion; Gods of the Ordning](3-Mechanics/CLI/tables/gods-and-religion-gods-of-the-ordning-bgg.md)
 
 The suggested cleric domains are from the "Player's Handbook" unless followed by an asterisk.
 
@@ -154,7 +154,7 @@ Giants on most worlds agree that Annam is no longer active in the affairs of gia
 
 Thanks to his prolonged absence from mortal giants' affairs, Annam has few priests. On some worlds, he has no priests and his name is all but forgotten. On other worlds, a priest of Annam serves as an adviser and mediator to scattered groups of giants, traveling extensively to visit far-flung communities. In some places, priests of Annam are great kings who rule over realms comprising different giant kinds. Even on worlds where Annam's priests are important, many giants (sometimes including his priests) are convinced Annam no longer hears the prayers of his people.
 
-![The Path of the Pilgrim cl...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/032-02-004-path-of-the-pilgrim.webp#center "The Path of the Pilgrim climbs past shrines to each of Annam's children to reach the All-Father's temple")
+![The Path of the Pilgrim climbs past shrines to each of Annam's children to reach the All-Father's temple](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/032-02-004-path-of-the-pilgrim.webp#center)
 
 #### Diancastra
 
@@ -250,7 +250,7 @@ Annam's withdrawal has caused ongoing upheaval in the religious lives of giants 
 
 #### Vaprak
 
-Some myths suggest Vaprak is a child of Annam and thus properly belongs to the Ordning, but others say he formed from Annam's spilled blood. For a variety of reasons, he is never accorded equal status to the All-Father's other children. Known as the Destroyer, Vaprak is prone to mindless, destructive rampages. The god is described as a greenish creature strongly resembling a troll. Indeed, legend suggests [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) formed from Vaprak's blood in the same way he came from Annam's, and many trolls venerate him. Some ogres and giants also worship Vaprak, particularly giants who despair of ever rising in the ordning.
+Some myths suggest Vaprak is a child of Annam and thus properly belongs to the Ordning, but others say he formed from Annam's spilled blood. For a variety of reasons, he is never accorded equal status to the All-Father's other children. Known as the Destroyer, Vaprak is prone to mindless, destructive rampages. The god is described as a greenish creature strongly resembling a troll. Indeed, legend suggests trolls formed from Vaprak's blood in the same way he came from Annam's, and many trolls venerate him. Some ogres and giants also worship Vaprak, particularly giants who despair of ever rising in the ordning.
 
 #### Demon Lords
 
@@ -258,23 +258,23 @@ Service to a demon lord is tempting to many giants, particularly those frost and
 
 ##### Baphomet
 
-As described in the "Monster Manual", Baphomet the Horned King encourages his followers to embrace their fundamentally bestial nature. Giants who delight in the frenzy of battle and bloodshed are easily lured to the demon lord's service. Stone giants who feel stifled and repressed by their society sometimes break free in dramatic fashion by embracing Baphomet's creed (see the [stalker of Baphomet](/3-Mechanics/CLI/bestiary/fiend/stalker-of-baphomet-bgg.md) in "chapter 6").
+As described in the "Monster Manual", Baphomet the Horned King encourages his followers to embrace their fundamentally bestial nature. Giants who delight in the frenzy of battle and bloodshed are easily lured to the demon lord's service. Stone giants who feel stifled and repressed by their society sometimes break free in dramatic fashion by embracing Baphomet's creed (see the [stalker of Baphomet](3-Mechanics/CLI/bestiary/fiend/stalker-of-baphomet-bgg.md) in "chapter 6").
 
 ##### Demogorgon
 
-Demogorgon has few followers among the giants of the ordning, but ettins often recognize a kindred spirit in the two-headed demon lord. The [echo of Demogorgon](/3-Mechanics/CLI/bestiary/fiend/echo-of-demogorgon-bgg.md) in "chapter 6" is an ettin cultist who has received Demogorgon's hideous gifts.
+Demogorgon has few followers among the giants of the ordning, but ettins often recognize a kindred spirit in the two-headed demon lord. The [echo of Demogorgon](3-Mechanics/CLI/bestiary/fiend/echo-of-demogorgon-bgg.md) in "chapter 6" is an ettin cultist who has received Demogorgon's hideous gifts.
 
 ##### Kostchtchie
 
-Though he is not terribly important in the Abyss, the demon lord Kostchtchie is revered by many giants, particularly frost giants. Part of his appeal is his willingness (when bribed with bloody offerings) to inspire his worshipers with ferocity and bloodlust. More than any other demon lord, what he offers his followers—raw strength and fury in battle—appeals directly to the values shared by many frost giants, making him appear as an exemplar of the giants' ideals. The [fury of Kostchtchie](/3-Mechanics/CLI/bestiary/fiend/fury-of-kostchtchie-bgg.md) in "chapter 6" is an example of a frost giant whose devotion to the demon lord has brought great and terrible rewards. ([Kostchtchie](/3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md) is described in Baldur's Gate: Descent into Avernus.)
+Though he is not terribly important in the Abyss, the demon lord Kostchtchie is revered by many giants, particularly frost giants. Part of his appeal is his willingness (when bribed with bloody offerings) to inspire his worshipers with ferocity and bloodlust. More than any other demon lord, what he offers his followers—raw strength and fury in battle—appeals directly to the values shared by many frost giants, making him appear as an exemplar of the giants' ideals. The [fury of Kostchtchie](3-Mechanics/CLI/bestiary/fiend/fury-of-kostchtchie-bgg.md) in "chapter 6" is an example of a frost giant whose devotion to the demon lord has brought great and terrible rewards. ([Kostchtchie](3-Mechanics/CLI/bestiary/npc/kostchtchie-bgdia.md) is described in Baldur's Gate: Descent into Avernus.)
 
 ##### Yeenoghu
 
-Gnolls, ghouls, and some hill giants share two strange commonalities: insatiable hunger and a tendency to serve the demon lord Yeenoghu. Sometimes a hill giant who delights in senseless slaughter turns to the Beast of Butchery for help in achieving more senseless slaughter. Occasionally, an indiscriminately hungry hill giant consumes some item of unspeakable corruption and takes on a fiendish nature, falling under Yeenoghu's sway. In either case, the result is a horrible monster with a gullet akin to the bottomless Abyss itself (see the [maw of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/maw-of-yeenoghu-bgg.md) in "chapter 6").
+Gnolls, ghouls, and some hill giants share two strange commonalities: insatiable hunger and a tendency to serve the demon lord Yeenoghu. Sometimes a hill giant who delights in senseless slaughter turns to the Beast of Butchery for help in achieving more senseless slaughter. Occasionally, an indiscriminately hungry hill giant consumes some item of unspeakable corruption and takes on a fiendish nature, falling under Yeenoghu's sway. In either case, the result is a horrible monster with a gullet akin to the bottomless Abyss itself (see the [maw of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/maw-of-yeenoghu-bgg.md) in "chapter 6").
 
 #### Elemental Evil
 
-![King Snurre's hall houses ...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/033-02-005-elemental-evil.webp#center "King Snurre's hall houses a temple where drow priests lead rites to the Elder Elemental Eye")
+![King Snurre's hall houses a temple where drow priests lead rites to the Elder Elemental Eye](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/033-02-005-elemental-evil.webp#center)
 
 Another popular avenue for giants who turn from the gods of the Ordning derives from giants' close ties to the Elemental Planes. The nameless horror called the Elder Elemental Eye perverts natural elements, limiting them to their most destructive aspects in a way that appeals to giants who are disposed toward evil. More than most members of individual Elemental Evil cults, giants see the big picture of the four cults working toward the common goal of elemental cataclysm. Some giants even worship the Elder Elemental Eye directly rather than serving one of the subordinate cults.
 
@@ -306,7 +306,7 @@ Some giants devote themselves to other powerful primordial creatures of the Elem
 
 Like other peoples, giants may choose to give their service and devotion to many different gods, not just the children of Annam or particular cults. On some worlds, the gods of the Ordning are unknown (perhaps forgotten) or known by different names. There, giants might have their own gods or worship the same gods other peoples do.
 
-Giants might also turn from their traditional gods to serve devils, [krakens](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md), Great Old Ones, archfey, or other powerful ancient beings. "Chapter 6" includes examples of several such giants: the [fire hellion](/3-Mechanics/CLI/bestiary/fiend/fire-hellion-bgg.md), the [storm herald](/3-Mechanics/CLI/bestiary/aberration/storm-herald-bgg.md), and the [fomorian warlock of the dark](/3-Mechanics/CLI/bestiary/giant/fomorian-warlock-of-the-dark-bgg.md).
+Giants might also turn from their traditional gods to serve devils, krakens, Great Old Ones, archfey, or other powerful ancient beings. "Chapter 6" includes examples of several such giants: the [fire hellion](3-Mechanics/CLI/bestiary/fiend/fire-hellion-bgg.md), the [storm herald](3-Mechanics/CLI/bestiary/aberration/storm-herald-bgg.md), and the [fomorian warlock of the dark](3-Mechanics/CLI/bestiary/giant/fomorian-warlock-of-the-dark-bgg.md).
 
 ### Gods and Adventures
 
@@ -320,9 +320,9 @@ The two tables in this section—the "Annam's Children Adventures table" and the
 > 
 > It's hard to express just how deeply most giants loathe and distrust those who turn to the service of interloper gods. It's not about religion; it's a betrayal of family.
 
-![Gods and Adventures; Annam's Children Adventures](/3-Mechanics/CLI/tables/gods-and-adventures-annams-children-adventures-bgg.md)
+![Gods and Adventures; Annam's Children Adventures](3-Mechanics/CLI/tables/gods-and-adventures-annams-children-adventures-bgg.md)
 
-![Gods and Adventures; Interloper Gods Adventures](/3-Mechanics/CLI/tables/gods-and-adventures-interloper-gods-adventures-bgg.md)
+![Gods and Adventures; Interloper Gods Adventures](3-Mechanics/CLI/tables/gods-and-adventures-interloper-gods-adventures-bgg.md)
 
 > [!quote] A quote from Bigby  
 > 
@@ -342,11 +342,11 @@ As you create an encounter, adventure, or campaign involving giants, you can use
 > 
 > If you need a stat block for a giant who is less than full grown, use the following guidelines (inspired by the examples presented in the Storm King's Thunder adventure).
 > 
-> For a [giant child](/3-Mechanics/CLI/bestiary/giant/giant-child-bgg.md), use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block. Change the creature type to Giant, increase the Strength to 14 (+2), and choose Giant as the child's one language. The child attacks at +4 and deals `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) bludgeoning damage with a club (which might be a toy or anything else the child picks up to use as a weapon).
+> For a [giant child](3-Mechanics/CLI/bestiary/giant/giant-child-bgg.md), use the commoner stat block. Change the creature type to Giant, increase the Strength to 14 (+2), and choose Giant as the child's one language. The child attacks at +4 and deals 4 (`1d4 + 2`) bludgeoning damage with a club (which might be a toy or anything else the child picks up to use as a weapon).
 > 
-> For a giant teenager, use the [ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) stat block. Increase the Intelligence, Wisdom, and Charisma scores to 10 or match the parents' scores, whichever is lower. (This increases the teenager's passive Perception score to 10 as well.) Remove [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) (unless the teenager is a stone giant) and adjust the teenager's weapons and armor as you see fit.
+> For a giant teenager, use the ogre stat block. Increase the Intelligence, Wisdom, and Charisma scores to 10 or match the parents' scores, whichever is lower. (This increases the teenager's passive Perception score to 10 as well.) Remove darkvision (unless the teenager is a stone giant) and adjust the teenager's weapons and armor as you see fit.
 > 
-> For a young adult giant, use the stat block of a giant lower in the ordning. For example, Storm King's Thunder includes young cloud giants that use the [hill giant](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) stat block with several adjustments. You can craft the stat block as you see fit to match the challenge rating you're aiming for.
+> For a young adult giant, use the stat block of a giant lower in the ordning. For example, Storm King's Thunder includes young cloud giants that use the hill giant stat block with several adjustments. You can craft the stat block as you see fit to match the challenge rating you're aiming for.
 > 
 > For a giant child of any age, you can further modify one of these stat blocks by adding the parents' damage immunities and resistances (if any) and any inherent traits.
 ^075
@@ -357,7 +357,7 @@ Though most giants are social creatures, some live alone by choice or circumstan
 
 The Recluses table offers adventure hooks you can use to launch an adventure with a reclusive giant.
 
-![Recluses](/3-Mechanics/CLI/tables/recluses-bgg.md)
+![Recluses](3-Mechanics/CLI/tables/recluses-bgg.md)
 
 ### Exile
 
@@ -369,17 +369,17 @@ Giants who live among smaller folk tend to gravitate to positions of importance.
 > 
 > Many giants who wander the world in solitude offer prayers and homage to me, and I keep an eye on them as best I can. We are not that different.
 
-![Exiles](/3-Mechanics/CLI/tables/exiles-bgg.md)
+![Exiles](3-Mechanics/CLI/tables/exiles-bgg.md)
 
 ### Band
 
-![A small band of hill giant...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/034-02-006-hill-giant-hunters.webp#center "A small band of hill giants hunts across a ruin-studded landscape")
+![A small band of hill giants hunts across a ruin-studded landscape](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/034-02-006-hill-giant-hunters.webp#center)
 
 The giants most commonly encountered in the world are bands of two to four who are united by a common purpose. These are often warriors engaged in raiding, hunting, or a mission on behalf of the leader of their home community. Sometimes these bands are religious in nature—a small community dedicated to the service of a god (whether a member of the Ordning or an interloper god) and pursuing that god's interests in the world. A band could also be a group of young giants who want to experience the world before they get tied down with the responsibilities of adult life. A giant band might be accompanied by pets or by other creatures that share the giants' purpose or do the giants' bidding.
 
 The Bands table offers hooks you can use to build an adventure around a band of giants.
 
-![Bands](/3-Mechanics/CLI/tables/bands-bgg.md)
+![Bands](3-Mechanics/CLI/tables/bands-bgg.md)
 
 > [!quote] A quote from Bigby  
 > 
@@ -391,7 +391,7 @@ Most giants live in family groups, typically four to six adult giants from multi
 
 The Families table provides adventure hooks involving a family group of giants and its associated creatures.
 
-![Family; Families](/3-Mechanics/CLI/tables/family-families-bgg.md)
+![Family; Families](3-Mechanics/CLI/tables/family-families-bgg.md)
 
 ### Steading
 
@@ -401,7 +401,7 @@ The total population of a steading typically includes eight to twelve adult gian
 
 Any of the locations described in "chapter 4" might serve as a giant steading, and you can use the tables in "chapter 3" to help you populate the site. The Steadings table suggests adventure hooks you might use to bring characters to such a place.
 
-![Steadings](/3-Mechanics/CLI/tables/steadings-bgg.md)
+![Steadings](3-Mechanics/CLI/tables/steadings-bgg.md)
 
 > [!quote] A quote from Diancastra  
 > 
@@ -417,7 +417,7 @@ A larger settlement includes many Humanoid inhabitants, as well as companion ani
 
 The Settlements table offers adventure hooks that might bring adventurers to one of these places.
 
-![Settlements](/3-Mechanics/CLI/tables/settlements-bgg.md)
+![Settlements](3-Mechanics/CLI/tables/settlements-bgg.md)
 
 ## Organizations
 
@@ -425,7 +425,7 @@ Many giants are oriented to small family groups or particular interests of their
 
 ### Hidden Rune
 
-![Giants of the Hidden Rune ...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/035-02-007-giants-exploration.webp#center "Giants of the Hidden Rune explore a ruin with help from smaller assistants")
+![Giants of the Hidden Rune explore a ruin with help from smaller assistants](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/035-02-007-giants-exploration.webp#center)
 
 To the giants of the Hidden Rune, the children of Annam are in a temporary state of decline, a pause between two great moments in their history. The mission of this scholarly order is to collect the accumulated learning of the past and preserve it so a future giant civilization can build upon it.
 
@@ -441,7 +441,7 @@ Unlike various religious groups among giants, such as the destructive priests of
 
 The Hidden Rune Adventures table suggests ways characters on any world might encounter agents of this order.
 
-![Hidden Rune Adventures](/3-Mechanics/CLI/tables/hidden-rune-adventures-bgg.md)
+![Hidden Rune Adventures](3-Mechanics/CLI/tables/hidden-rune-adventures-bgg.md)
 
 > [!quote] A quote from Bigby  
 > 
@@ -464,7 +464,7 @@ Members of the Stewards of the Eternal Throne swear an oath of service to the or
 - **Education.** Though we have forgotten much of the wisdom of our ancestors, we strive to ensure all peoples can pursue wisdom, learning, and enlightenment.  
 - **Peace.** We foster peace among all peoples. All who desire to live peaceably together are welcome among us.  
 
-Knights of the Stewards of the Eternal Throne are mostly giants (predominantly cloud and storm giants), but some orders have been known to accept goliaths, firbolgs, and members of other peoples into their ranks. ([Goliaths](/3-Mechanics/CLI/races/goliath-xphb.md) and [firbolgs](/3-Mechanics/CLI/races/firbolg-mpmm.md) appear as character races in "Mordenkainen Presents: Monsters of the Multiverse", and examples of these peoples appear in "chapter 6" of this book.)
+Knights of the Stewards of the Eternal Throne are mostly giants (predominantly cloud and storm giants), but some orders have been known to accept goliaths, firbolgs, and members of other peoples into their ranks. (Goliaths and firbolgs appear as character races in "Mordenkainen Presents: Monsters of the Multiverse", and examples of these peoples appear in "chapter 6" of this book.)
 
 The principle of peace leads the knights to cooperate with other peoples, especially with beings they regard as near equals in age and importance, including dwarves, elves, and dragons. If a fundamental sin of the ancient giants was warring with these folk in the early years of the world, then cooperation with them is essential to undoing that sin and charting a new course for giantkind and other peoples. As part of this commitment, the stewards honor not just the gods of the giants, but also the gods revered by these other folk.
 
@@ -478,7 +478,7 @@ The Eternal Throne Adventures table offers hooks you can use to involve characte
 > 
 > Many people know of giants only as raiding bands. Such folks often greet well-meaning knights of the Stewards of the Eternal Throne with fear, to their detriment.
 
-![Eternal Throne Adventures](/3-Mechanics/CLI/tables/eternal-throne-adventures-bgg.md)
+![Eternal Throne Adventures](3-Mechanics/CLI/tables/eternal-throne-adventures-bgg.md)
 
 ### Worldroot Circle
 
@@ -492,6 +492,6 @@ When giants of the Worldroot Circle gather at the roots of their worlds, they pe
 
 Though the giants of the Worldroot Circle tend to live in remote wildernesses, they protect their worlds and are often concerned with global or even planar threats. They fiercely oppose the cults of Elemental Evil and remain constantly vigilant against unnatural corruption, including Undead and Aberrations. They guard against forces that threaten to undo the work of creation or corrupt the roots of the worlds, including destructive demons. The Worldroot Circle Adventures table provides examples of how these druidic giants might become involved in adventures in your campaign.
 
-![Worldroot Circle Adventures](/3-Mechanics/CLI/tables/worldroot-circle-adventures-bgg.md)
+![Worldroot Circle Adventures](3-Mechanics/CLI/tables/worldroot-circle-adventures-bgg.md)
 
-![Giants of the Worldroot Ci...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/036-02-008-worldroot-circle.webp#center "Giants of the Worldroot Circle gather around a seedling of the World Tree")
+![Giants of the Worldroot Circle gather around a seedling of the World Tree](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/036-02-008-worldroot-circle.webp#center)

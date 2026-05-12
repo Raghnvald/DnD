@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+aliases:
 - "Watchful Helm"
 ---
 # Watchful Helm

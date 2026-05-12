@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Personalizing Spells; Magic Themes
+- "Personalizing Spells; Magic Themes"
 ---
 # Personalizing Spells; Magic Themes
 *Source: Tasha's Cauldron of Everything p. 116* 
 
 **Magic Themes**
-
-`dice: [](personalizing-spells-magic-themes-tce.md#^magic-themes)`
 
 | dice: d10 | Theme |
 |-----------|-------|

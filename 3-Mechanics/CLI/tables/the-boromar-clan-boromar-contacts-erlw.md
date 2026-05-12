@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- The Boromar Clan; Boromar Contacts
+- "The Boromar Clan; Boromar Contacts"
 ---
 # The Boromar Clan; Boromar Contacts
 *Source: Eberron: Rising from the Last War p. 179* 
 
 **Boromar Contacts**
-
-`dice: [](the-boromar-clan-boromar-contacts-erlw.md#^boromar-contacts)`
 
 | dice: d6 | Contact |
 |----------|---------|

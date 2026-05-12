@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Grand Basilica Adventures
+- "Grand Basilica Adventures"
 ---
 # Grand Basilica Adventures
 *Source: Guildmasters' Guide to Ravnica p. 147* 
 
 **Grand Basilica Adventures**
-
-`dice: [](grand-basilica-adventures-ggr.md#^grand-basilica-adventures)`
 
 | dice: d12 | Adventure Goal |
 |-----------|----------------|

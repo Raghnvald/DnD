@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Hatchling Swarm
+- "Sahuagin Hatchling Swarm"
 ---
-# [Sahuagin Hatchling Swarm](3-Mechanics\CLI\bestiary\beast/sahuagin-hatchling-swarm-gos.md)
+# [Sahuagin Hatchling Swarm](3-Mechanics/CLI/bestiary/beast/sahuagin-hatchling-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 250*  
 
 Roiling through the waters in The Final Enemy, these swarms of sahuagin hatchlings are dangerous to any creatures they encounter. Other sahuagin avoid the swarms, while the individual members devour one another until only the strongest hatchlings are left alive to grow to maturity.
@@ -55,12 +55,12 @@ Roiling through the waters in The Final Enemy, these swarms of sahuagin hatchlin
   - "desc": "The swarm can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the swarm's\
-      \ space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the\
-      \ swarm has half of its hit points or fewer."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the\
+      \ swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage\
+      \ if the swarm has half of its hit points or fewer."
     "name": "Bites"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/sahuagin-hatchling-swarm-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/sahuagin-hatchling-swarm-gos.webp"
 ```
 ^statblock

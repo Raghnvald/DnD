@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rust Monster
+- "Rust Monster"
 ---
-# [Rust Monster](3-Mechanics\CLI\bestiary\monstrosity/rust-monster-xmm.md)
+# [Rust Monster](3-Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md)
 *Source: Monster Manual (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Rust Monster
@@ -42,8 +42,8 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
   - !!int "13"
   - !!int "6"
 "speed": "40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -53,18 +53,19 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
 "actions":
   - "desc": "The rust monster makes one Bite attack and uses Antennae twice."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing\
+      \ damage."
     "name": "Bite"
   - "desc": "The rust monster targets one nonmagical metal object—armor or a weapon—\
       worn or carried by a creature within 5 feet of itself. *Dexterity Saving Throw:*\
       \ DC 11, the creature with the object. *Failure:* The object takes a -1 penalty\
       \ to the AC it offers (armor) or to its attack rolls (weapon). Armor is destroyed\
       \ if the penalty reduces its AC to 10, and a weapon is destroyed if its penalty\
-      \ reaches -5. The penalty can be removed by casting the [Mending](/3-Mechanics/CLI/spells/mending-xphb.md)\
+      \ reaches -5. The penalty can be removed by casting the [Mending](3-Mechanics/CLI/spells/mending-xphb.md)\
       \ spell on the armor or weapon."
     "name": "Antennae"
   - "desc": "The rust monster touches a nonmagical metal object within 5 feet of itself\
-      \ that isn't being worn or carried. The touch destroys a 1-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
+      \ that isn't being worn or carried. The touch destroys a 1-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)\
       \ of the object."
     "name": "Destroy Metal"
 "reactions":
@@ -73,7 +74,7 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
     "name": "Reflexive Antennae"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/rust-monster-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/rust-monster-xmm.webp"
 ```
 ^statblock
 

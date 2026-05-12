@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Planar Observatory Adventures
+- "Planar Observatory Adventures"
 ---
 # Planar Observatory Adventures
 *Source: Eberron: Rising from the Last War p. 193* 
 
 **Planar Observatory Adventures**
-
-`dice: [](planar-observatory-adventures-erlw.md#^planar-observatory-adventures)`
 
 | dice: d8 | Adventure Goal |
 |----------|----------------|

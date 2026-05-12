@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/28
-- new/monster/size/huge
-- new/monster/type/fiend
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/28
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rak Tulkhesh
+- "Rak Tulkhesh"
 ---
-# [Rak Tulkhesh](3-Mechanics\CLI\bestiary\npc/rak-tulkhesh-erlw.md)
+# [Rak Tulkhesh](3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 303*  
 
 Called the Rage of War, Rak Tulkhesh is the incarnation of impulses that drives many mortals to battle. Fear, greed, hatred—these are seeds that the Rage of War sows in the hopes of producing a bloody harvest.
@@ -96,11 +96,11 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
 "actions":
   - "desc": "Rak Tulkhesh makes four weapon attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (3d12 + 9) force damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (3d12 + 9) force damage."
     "name": "Spawned Melee Weapon"
-  - "desc": "*Ranged Weapon Attack:* +12 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 17 (3d8 + 4) force damage."
+  - "desc": "*Ranged Weapon Attack:* +12 to hit, range 150/600 ft., one target.\
+      \ *Hit:* 17 (3d8 + 4) force damage."
     "name": "Spawned Ranged Weapon"
   - "desc": "Rak Tulkhesh magically polymorphs into a humanoid, beast, or giant that\
       \ has a challenge rating no higher than his own, or back into his true form.\
@@ -129,6 +129,6 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
     "name": "Provoke Rage (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/rak-tulkhesh-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/rak-tulkhesh-erlw.webp"
 ```
 ^statblock

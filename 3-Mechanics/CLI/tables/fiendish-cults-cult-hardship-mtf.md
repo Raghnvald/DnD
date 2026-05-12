@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Fiendish Cults; Cult Hardship
+- "Fiendish Cults; Cult Hardship"
 ---
 # Fiendish Cults; Cult Hardship
 *Source: Mordenkainen's Tome of Foes p. 34* 
 
 **Cult Hardship**
-
-`dice: [](fiendish-cults-cult-hardship-mtf.md#^cult-hardship)`
 
 | dice: d6 | Hardship |
 |----------|----------|

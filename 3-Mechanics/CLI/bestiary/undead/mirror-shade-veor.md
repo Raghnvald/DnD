@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mirror Shade
+- "Mirror Shade"
 ---
-# [Mirror Shade](3-Mechanics\CLI\bestiary\undead/mirror-shade-veor.md)
+# [Mirror Shade](3-Mechanics/CLI/bestiary/undead/mirror-shade-veor.md)
 *Source: Vecna: Eve of Ruin p. 226*  
 
 > [!quote] A quote from Hopewell Lightfinger, Sword Coast Adventurer  
@@ -42,24 +42,28 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+8"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "acid; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison, psychic, radiant"
-"condition_immunities": "blinded, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "10"
 "traits":
   - "desc": "If the mirror shade is within 5 feet of a reflective surface—such as\
       \ a mirror, glass pane, or still water—it has advantage on its initiative roll.\
       \ If a creature hasn't observed the mirror shade move or act, that creature\
-      \ must succeed on a DC 18 Intelligence (Investigation) check to discern that\
-      \ the mirror shade isn't the creature's own reflection."
+      \ must succeed on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
+      \ check to discern that the mirror shade isn't the creature's own reflection."
     "name": "False Appearance"
   - "desc": "The mirror shade can move along the surface of reflective or translucent\
       \ objects, such as mirrors, without provoking opportunity attacks. It can move\
@@ -69,22 +73,22 @@ When the spirit of a malevolent trickster or callous rogue refuses to enter the 
   - "desc": "The mirror shade makes two Phantasmal Strike attacks and uses Reflect\
       \ Fear."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) radiant damage plus 7 (2d6) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) radiant damage plus 7 (2d6) psychic damage."
     "name": "Phantasmal Strike"
   - "desc": "The mirror shade targets one creature it can see within 60 feet of itself\
       \ and projects an illusion of that creature's greatest fear. The target must\
       \ make a DC 16 Wisdom saving throw. On a failed save, the target takes 28 (8d6)\
-      \ psychic damage and has the frightened condition until the start of the mirror\
-      \ shade's next turn. On a successful save, the target takes half as much damage\
-      \ only."
+      \ psychic damage and has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition until the start of the mirror shade's next turn. On a successful\
+      \ save, the target takes half as much damage only."
     "name": "Reflect Fear"
 "bonus_actions":
   - "desc": "While within 5 feet of a reflective surface, such as a mirror, the mirror\
-      \ shade takes the Hide action."
+      \ shade takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Mirror Stealth"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/mirror-shade-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/mirror-shade-veor.webp"
 ```
 ^statblock

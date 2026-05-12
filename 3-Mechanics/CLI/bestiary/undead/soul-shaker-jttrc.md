@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Soul Shaker
+- "Soul Shaker"
 ---
-# [Soul Shaker](3-Mechanics\CLI\bestiary\undead/soul-shaker-jttrc.md)
+# [Soul Shaker](3-Mechanics/CLI/bestiary/undead/soul-shaker-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 47*  
 
 A grasping mass of Humanoid limbs, a soul shaker is an obsessive claimer of corpses and collector of body parts. These nightmarish creatures arise from ghoulish collections of severed limbs exposed to necromantic energies or when numerous crawling claws form a cooperative relationship.
@@ -41,14 +41,19 @@ If defeated, a soul shaker disperses into several skittering, animate limbs. The
 "speed": "20 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": "telepathy 60 ft."
 "cr": "4"
 "traits":
-  - "desc": "The soul shaker can cast the geas spell, requiring no spell components\
-      \ and using Charisma as the spellcasting ability (spell save DC 12)."
+  - "desc": "The soul shaker can cast the [geas](3-Mechanics/CLI/spells/geas.md) spell,\
+      \ requiring no spell components and using Charisma as the spellcasting ability\
+      \ (spell save DC 12)."
     "name": "Enthralled Lure (1/Day)"
   - "desc": "When the soul shaker is reduced to 0 hit points, it explodes into 7 (1d4\
       \ + 5) crawling claws. After 6 (1d12) days, if at least two of those crawling\
@@ -61,8 +66,9 @@ If defeated, a soul shaker disperses into several skittering, animate limbs. The
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it is grappled (escape DC 15). The soul shaker can have only one creature\
-      \ grappled in this way at a time."
+      \ it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC\
+      \ 15). The soul shaker can have only one creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ in this way at a time."
     "name": "Crushing Grasp"
 "bonus_actions":
   - "desc": "The soul shaker targets a creature it is grappling. If the target is\
@@ -75,6 +81,6 @@ If defeated, a soul shaker disperses into several skittering, animate limbs. The
     "name": "Consume Vitality"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/soul-shaker-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/soul-shaker-jttrc.webp"
 ```
 ^statblock

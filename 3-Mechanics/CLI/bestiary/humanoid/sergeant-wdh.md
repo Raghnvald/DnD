@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sergeant
+- "Sergeant"
 ---
-# [Sergeant](3-Mechanics\CLI\bestiary\humanoid/sergeant-wdh.md)
+# [Sergeant](3-Mechanics/CLI/bestiary/humanoid/sergeant-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 197*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "chain shirt, shield"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -35,8 +35,10 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -47,6 +49,6 @@ aliases:
     "name": "Spear"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sergeant-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sergeant-wdh.webp"
 ```
 ^statblock

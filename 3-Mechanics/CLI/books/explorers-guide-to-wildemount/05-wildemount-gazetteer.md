@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Wildemount Gazetteer
+- "Wildemount Gazetteer"
 ---
 # Wildemount Gazetteer
 *Source: Explorer's Guide to Wildemount, p. 59* 
 
-![The beauty and danger of W...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/044-03-01.webp#center "The beauty and danger of Wildemount are all but lost on a party of adventurers traversing the Brokenveil Bluffs")
+![The beauty and danger of Wildemount are all but lost on a party of adventurers traversing the Brokenveil Bluffs](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/044-03-01.webp#center)
 
 > [!quote] A quote from Taryon Darrington, The Daring Trials and Tribulations of Ser Taryon Darrington  
 > 
@@ -48,7 +48,7 @@ Five of the seven cities have open shipping ports, supporting a robust economy o
 
 The major cities that comprise the Menagerie Coast are Port Damali, Feolinn, Othe, Nicodranas, Gwardan, Port Zoon, and Tussoa. Beyond the coastal cities, the Swavain Islands are scattered across the Lucidian Ocean, bearing shipping posts, dangerous reefs, and ancient secrets hidden in the bellies of hungry jungles. The pirates of the Revelry stalk the oceanic trade lanes, hassling merchants, marines, and adventurers alike. As any adventurer will attest, all this danger guarantees that travel along the Menagerie Coast is an anxious, thrilling, and profitable experience—if you know where to look.
 
-![Map 3.1: Menagerie Coast](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/045-3-1-menagerie-coast.webp#center)
+![Map 3.1: Menagerie Coast](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/045-3-1-menagerie-coast.webp#center)
 
 ### Areas (A-C)
 
@@ -62,7 +62,7 @@ Adventurers might seek out the secrets of the Barren Shores through archaeologic
 
 ###### Be Our Guest (Low Level)
 
-The characters discover a wrecked smuggler's ship, its ruined structure washed on shore. Inside, they find the long-dead bodies of the smugglers who once manned it, as well as the mysterious animated cargo that slew the previous sailors. [Flying swords](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md), [rugs of smothering](/3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md), and [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) haunt the interior, while the baleful spirit that grants them life remains tethered to a golden chair hidden within the depths of the hull, seeking release from the curse that binds it there.
+The characters discover a wrecked smuggler's ship, its ruined structure washed on shore. Inside, they find the long-dead bodies of the smugglers who once manned it, as well as the mysterious animated cargo that slew the previous sailors. Flying swords, rugs of smothering, and animated armor haunt the interior, while the baleful spirit that grants them life remains tethered to a golden chair hidden within the depths of the hull, seeking release from the curse that binds it there.
 
 #### Bisaft Isle
 
@@ -154,7 +154,7 @@ The characters are hired by a minor official from the Dwendalian Empire to find 
 
 ###### Many Eyes for Many a Prize (Mid Level)
 
-Rumors reach the coast that a hidden mountain valley holds a mysterious collection of statues. The characters are hired to accompany a curator of the Cobalt Soul to investigate the nature of this strange menagerie, only to discover that numerous curators have already been added to this display by an eccentric [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) called Enxanash who wants to build a beautiful museum of zoology. The characters must defeat the beholder, convince it to relinquish its collection, or steal the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) victims.
+Rumors reach the coast that a hidden mountain valley holds a mysterious collection of statues. The characters are hired to accompany a curator of the Cobalt Soul to investigate the nature of this strange menagerie, only to discover that numerous curators have already been added to this display by an eccentric beholder called Enxanash who wants to build a beautiful museum of zoology. The characters must defeat the beholder, convince it to relinquish its collection, or steal the petrified victims.
 
 ### Areas (D-F)
 
@@ -162,7 +162,7 @@ Rumors reach the coast that a hidden mountain valley holds a mysterious collecti
 
 The volcanic rock that forms the jagged cliffs of Darktow Isle is wildly varied in height and shape, creating the impression of a massive, toothy maw. These rocks hide many caverns and tunnels that have inspired numerous local myths of secret hideouts and legendary beasts. The island is barren of greenery, save for the verdant basin in its center, known to locals as the Pit. This small pocket of jungle is the largest source of natural resources on the isle, and its fruit, game, and timber sustain the pirate haven in lean times.
 
-The Dragshallow Reefs that surround Darktow Isle have claimed many ships over the years. Their wrecked skeletons have been dragged atop the rocks as an additional barrier to intruders and as a warning to trespassers. A [dragon turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) named Idok stalks the reefs, but an accord between the cunning creature and the Plank King himself keeps Idok away from pirate vessels. In return, the dragon turtle can do whatever it wishes with any other ships that enter the island's twisted waterways. The denizens of Darktow have further fortified the reefs with sentry posts, hidden weaponry, and deployable pitfalls to prevent unauthorized entry through the southern channel. The defenders of the channel have orders to fire without warning on any ships that do not fly the colors of the Revelry.
+The Dragshallow Reefs that surround Darktow Isle have claimed many ships over the years. Their wrecked skeletons have been dragged atop the rocks as an additional barrier to intruders and as a warning to trespassers. A dragon turtle named Idok stalks the reefs, but an accord between the cunning creature and the Plank King himself keeps Idok away from pirate vessels. In return, the dragon turtle can do whatever it wishes with any other ships that enter the island's twisted waterways. The denizens of Darktow have further fortified the reefs with sentry posts, hidden weaponry, and deployable pitfalls to prevent unauthorized entry through the southern channel. The defenders of the channel have orders to fire without warning on any ships that do not fly the colors of the Revelry.
 
 #### Darktow
 
@@ -206,7 +206,7 @@ The town's many ramshackle structures sprawl across numerous rock shelves and ca
 
 A series of watchtowers keeps vigil over the inlet, their torches flickering within the midnight fog. A precarious, winding cliffside stair leads to the Throne Roost, the cavern where the Plank King makes his home. Atop that same cliff, a mysterious arcane device is under construction; some believe that it is intended to defend the Revelry's stronghold in case some fool from the Clovis Concord attempts to bring a skyship over their heads.
 
-![Arrival at Darktow](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/046-03-02.webp#center)
+![Arrival at Darktow](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/046-03-02.webp#center)
 
 ##### Darktow Adventures
 
@@ -214,11 +214,11 @@ Darktow is a pirate settlement, making it the perfect starting place for an adve
 
 ###### Bloody Maggie's Crew (Mid Level)
 
-The characters are hired by Bloody Maggie (chaotic neutral, female human [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)) of the pirate ship Dragon Turtle to find out who or what keeps murdering members of her crew. The characters eventually catch the culprit, Blue Martita, a [revenant](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md) who wants revenge on Bloody Maggie and her crew for leaving her behind during a Clovis Concord raid on one of their safe houses. The revenant tries to recruit the characters to her cause.
+The characters are hired by Bloody Maggie (chaotic neutral, female human bandit captain) of the pirate ship Dragon Turtle to find out who or what keeps murdering members of her crew. The characters eventually catch the culprit, Blue Martita, a revenant who wants revenge on Bloody Maggie and her crew for leaving her behind during a Clovis Concord raid on one of their safe houses. The revenant tries to recruit the characters to her cause.
 
 ###### Heroes on a Dragon Shell (High Level)
 
-The arrangement between the Plank King and the [dragon turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) Idok of the Dragshallow Reefs has broken down, so the creature is now also sinking Revelry ships that attempt to enter or leave Darktow. The Plank King hires the characters to parley with Idok and find a way to meet the creature's demands, convince it to end its assaults, or slay it in its lair for a share of its treasure hoard.
+The arrangement between the Plank King and the dragon turtle Idok of the Dragshallow Reefs has broken down, so the creature is now also sinking Revelry ships that attempt to enter or leave Darktow. The Plank King hires the characters to parley with Idok and find a way to meet the creature's demands, convince it to end its assaults, or slay it in its lair for a share of its treasure hoard.
 
 > [!readaloud] Song of Dashilla the Dreadful
 > 
@@ -251,9 +251,9 @@ The arrangement between the Plank King and the [dragon turtle](/3-Mechanics/CLI/
 
 #### Diver's Grave
 
-Deep beneath the waves of the open Lucidian Ocean lies a terrifying graveyard of wrecked, merrow-infested ships scattered across the ocean floor. This sunken cemetery of broken vessels is strewn over miles and miles, and each salvage ship that tries to reclaim cargo from the Diver's Grave only adds another corpse to its hungry sands. The Grave seems to sense ships as they approach and sends out a storm to consume them. At the heart of the Grave is an underwater maze of carnivorous seaweed, and within this dread labyrinth lives Dashilla the Dreadful, a terrible [sea fury](/3-Mechanics/CLI/bestiary/fey/sea-fury-egw.md) (see "chapter 7") who hungrily awaits her next shipment of wayward sailors.
+Deep beneath the waves of the open Lucidian Ocean lies a terrifying graveyard of wrecked, merrow-infested ships scattered across the ocean floor. This sunken cemetery of broken vessels is strewn over miles and miles, and each salvage ship that tries to reclaim cargo from the Diver's Grave only adds another corpse to its hungry sands. The Grave seems to sense ships as they approach and sends out a storm to consume them. At the heart of the Grave is an underwater maze of carnivorous seaweed, and within this dread labyrinth lives Dashilla the Dreadful, a terrible [sea fury](3-Mechanics/CLI/bestiary/fey/sea-fury-egw.md) (see "chapter 7") who hungrily awaits her next shipment of wayward sailors.
 
-![The Gloomy Depths of Diver's Grave](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/047-03-03.webp#center)
+![The Gloomy Depths of Diver's Grave](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/047-03-03.webp#center)
 
 #### Dolithil Mine
 
@@ -344,7 +344,7 @@ After the characters gain recognition for their deeds, the competing wineries an
 
 #### Festerwill Pool
 
-Festerwill Pool's bubbling waters emit a powerful sulfurous smell that fills the valley, while the nearby rock is discolored by mineral buildup. The pool itself is a green lake choked by algae and weeds at the base of a ragged mountain valley, surrounded by moss-covered, leafless trees. This lake and the surrounding rocky cliffs are home to the grotesque and ravenous gorefeather [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md). Screeching through the air, the harpy troupes bring their prey here to devour, the bloody remnants falling into the brackish waters below. Under their matron, Uada, the gorefeathers claim this region as their territory, hiding baubles and trinkets among their filthy nests.
+Festerwill Pool's bubbling waters emit a powerful sulfurous smell that fills the valley, while the nearby rock is discolored by mineral buildup. The pool itself is a green lake choked by algae and weeds at the base of a ragged mountain valley, surrounded by moss-covered, leafless trees. This lake and the surrounding rocky cliffs are home to the grotesque and ravenous gorefeather harpies. Screeching through the air, the harpy troupes bring their prey here to devour, the bloody remnants falling into the brackish waters below. Under their matron, Uada, the gorefeathers claim this region as their territory, hiding baubles and trinkets among their filthy nests.
 
 ### Areas (G-O)
 
@@ -354,7 +354,7 @@ Running nearly the entire length of the Menagerie Coast, the Gilded Roadway is a
 
 #### Gravid Archipelago
 
-These three islands are comprised of steep, volcanic peaks with sheer cliff faces, pock-marked with numerous caves housing [blood hawks](/3-Mechanics/CLI/bestiary/beast/blood-hawk-xmm.md), [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md), and (rumor has it) an impossibly big [roc](/3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md). There are only small pockets of trees and jungle, so resources are scarce and few ships have a legitimate reason to stop here. However, this does not stop the Revelry from using the region for storage, ambushes, and meetings outside Darktow.
+These three islands are comprised of steep, volcanic peaks with sheer cliff faces, pock-marked with numerous caves housing blood hawks, harpies, and (rumor has it) an impossibly big roc. There are only small pockets of trees and jungle, so resources are scarce and few ships have a legitimate reason to stop here. However, this does not stop the Revelry from using the region for storage, ambushes, and meetings outside Darktow.
 
 #### Gwardan
 
@@ -406,7 +406,7 @@ Characters could come to Gwardan seeking steamcast goods or any of the city's st
 
 ###### Bring 'em Back (Low Level)
 
-Talamin Raanan (chaotic neutral, female, high elf [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)) once worked for the tribes of Shadycreek Run as an assassin. The elf disappeared five years ago, but spies report that she resides in Gwardan under the name Valemis Tirdra. One of the Shadycreek Tribes, or a faction that wants to see Talamin pay for her crimes, hires the characters to capture the elf. When the characters find Talamin, they learn that all she desires is to leave her violent past behind and live out her days with her new family, including her two young children.
+Talamin Raanan (chaotic neutral, female, high elf bandit captain) once worked for the tribes of Shadycreek Run as an assassin. The elf disappeared five years ago, but spies report that she resides in Gwardan under the name Valemis Tirdra. One of the Shadycreek Tribes, or a faction that wants to see Talamin pay for her crimes, hires the characters to capture the elf. When the characters find Talamin, they learn that all she desires is to leave her violent past behind and live out her days with her new family, including her two young children.
 
 #### Hearthstar Peaks
 
@@ -484,13 +484,13 @@ Characters looking to relax in Nicodranas might stumble into an adventure involv
 
 ###### Vine Shine (Low Level)
 
-Overnight, heavy vines grow over the lighthouse of the Wild Mother, and anyone who cuts their way through to investigate the sacred place doesn't return. The characters are hired to investigate and find an infestation of [vine blights](/3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md) in the temple. How did the blights come to be? Are they part of a plan to corrupt the lighthouse for dark purposes, or are they a priest's experiment gone terribly wrong?
+Overnight, heavy vines grow over the lighthouse of the Wild Mother, and anyone who cuts their way through to investigate the sacred place doesn't return. The characters are hired to investigate and find an infestation of vine blights in the temple. How did the blights come to be? Are they part of a plan to corrupt the lighthouse for dark purposes, or are they a priest's experiment gone terribly wrong?
 
 ###### Chaos Companions (High Level)
 
-While the characters visit the city, they witness a noble drop dead as a [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md) bursts from her chest. More nobles die in the same way as the characters investigate. They eventually discover that the victims all visited the same brothel, an establishment run by a [death slaad](/3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) in disguise with several slaad bouncers.
+While the characters visit the city, they witness a noble drop dead as a slaad tadpole bursts from her chest. More nobles die in the same way as the characters investigate. They eventually discover that the victims all visited the same brothel, an establishment run by a death slaad in disguise with several slaad bouncers.
 
-![Streets of Nicodranas](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/048-03-04.webp#center)
+![Streets of Nicodranas](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/048-03-04.webp#center)
 
 #### Othe
 
@@ -550,13 +550,13 @@ Thick with humid air stinking of stale water and mildewed wood, the marshland of
 > 
 > The rich, primal nature of the Othemoor marsh nurtures a number of rare and highly sought-after grasses and herbs. Herbalists, alchemists, and spice traders often visit Othe to bolster their stores. Below are a number of the herbal goods often found for sale within Othe:
 > 
-> [Theki Root](/3-Mechanics/CLI/items/theki-root-egw.md). This thick marsh root tastes bitter but is thought to aid digestive health. When you use an action to consume a dose, you gain advantage on saving throws against the effects of poisonous or toxic substances for 8 hours. *Cost*: 3 gp per dose.
+> [Theki Root](3-Mechanics/CLI/items/theki-root-egw.md). This thick marsh root tastes bitter but is thought to aid digestive health. When you use an action to consume a dose, you gain advantage on saving throws against the effects of poisonous or toxic substances for 8 hours. *Cost*: 3 gp per dose.
 > 
-> [Muroosa Balm](/3-Mechanics/CLI/items/muroosa-balm-egw.md). This paste made from the muroosa bush is known to help prevent sunburn, but it is also a fire retardant. After spending 1 minute applying a quarter pint of muroosa balm to your skin, you gain resistance against fire damage for 1 hour. *Cost*: 1 gp per dose for sunburn, 100 gp for a full application against fire.
+> [Muroosa Balm](3-Mechanics/CLI/items/muroosa-balm-egw.md). This paste made from the muroosa bush is known to help prevent sunburn, but it is also a fire retardant. After spending 1 minute applying a quarter pint of muroosa balm to your skin, you gain resistance against fire damage for 1 hour. *Cost*: 1 gp per dose for sunburn, 100 gp for a full application against fire.
 > 
-> [Olisuba Leaf](/3-Mechanics/CLI/items/olisuba-leaf-egw.md). These dried leaves of the Olisuba tree, when steeped to make a tea, can help a body recover from strenuous activity. If you drink a dose of Olisuba tea during a long rest, your [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) level is reduced by 2 instead of 1 at the end of that long rest. *Cost*: 50 gp per dose.
+> [Olisuba Leaf](3-Mechanics/CLI/items/olisuba-leaf-egw.md). These dried leaves of the Olisuba tree, when steeped to make a tea, can help a body recover from strenuous activity. If you drink a dose of Olisuba tea during a long rest, your exhaustion level is reduced by 2 instead of 1 at the end of that long rest. *Cost*: 50 gp per dose.
 > 
-> [Willowshade Oil](/3-Mechanics/CLI/items/willowshade-oil-egw.md). A dark blue oil can be extracted from the rare fruit of the willowshade plant. A creature can use its action to apply the oil to another creature that has been [petrified](/3-Mechanics/CLI/conditions.md#Petrified) for less than 1 minute, causing the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) condition on that creature to end at the start of what would be that creature's next turn. *Cost*: 30 gp per dose.
+> [Willowshade Oil](3-Mechanics/CLI/items/willowshade-oil-egw.md). A dark blue oil can be extracted from the rare fruit of the willowshade plant. A creature can use its action to apply the oil to another creature that has been petrified for less than 1 minute, causing the petrified condition on that creature to end at the start of what would be that creature's next turn. *Cost*: 30 gp per dose.
 ^herbs-of-the-othemoor
 
 ##### Othemoor Adventures
@@ -565,7 +565,7 @@ The muck of Othemoor is filled with bodies, treasure, and even more mysterious t
 
 ###### Blood Diamonds (High Level)
 
-When several diamonds are revealed by the shifting of Othemoor's muck, many adventurers, including the characters, head for the swamp, hoping to strike it rich. The diamonds were actually planted by Pillia Ravenosa, a [vampire](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md), to bring prey into the Othemoor for her [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md).
+When several diamonds are revealed by the shifting of Othemoor's muck, many adventurers, including the characters, head for the swamp, hoping to strike it rich. The diamonds were actually planted by Pillia Ravenosa, a vampire, to bring prey into the Othemoor for her vampire spawn.
 
 ### Areas (P-R)
 
@@ -611,7 +611,7 @@ Though Palma Flora is the perfect place for a vacation, it's not without trouble
 
 ###### Tide of Retribution (Low Level)
 
-Palma Flora's shark-hunting tradition has earned its people the ire of a [sahuagin](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) clan living in the Sharkfeather Abyss, a nearby undersea trench. The sahuagin tend to their flock of sharks peacefully and view the shark-hunters as cruel poachers. One sahuagin has made a pact with the leviathan Uk'otoa and sworn vengeance on the people of Palma Flora. This adventure hook is expanded into a full introductory adventure in chapter 5.
+Palma Flora's shark-hunting tradition has earned its people the ire of a sahuagin clan living in the Sharkfeather Abyss, a nearby undersea trench. The sahuagin tend to their flock of sharks peacefully and view the shark-hunters as cruel poachers. One sahuagin has made a pact with the leviathan Uk'otoa and sworn vengeance on the people of Palma Flora. This adventure hook is expanded into a full introductory adventure in chapter 5.
 
 #### Plumgroves
 
@@ -722,7 +722,7 @@ The Gilded Esplanade is definitely the most extravagant locale within Port Damal
 
 The massive harbor that forms the southern edge of the city is known as the Larboard Light. This upscale dockside region is as lavish as docks come. Dozens of ships come into port every day, carrying goods and gold from all over, and many visitors coming to briefly live like a king with the many amusements the city has to offer. The office of the marquis is located on the northern end of this ward.
 
-![Map 3.2: Port Damali](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/049-3-2-port-damali-player.webp#center)
+![Map 3.2: Port Damali](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/049-3-2-port-damali-player.webp#center)
 
 ##### Port Damali Adventures
 
@@ -730,11 +730,11 @@ Between the Clovis Concord, the Myriad, the Revelry, skyships, auctions, and mor
 
 ###### Mephit Madness (High Level)
 
-The [marid](/3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) who was freed beneath the city isn't pleased about its incarceration. Every day, it summons [steam mephits](/3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md) to terrorize the people of Port Damali with pranks and mischief. The characters are hired to discover the source of the mephit problem and solve it. They must face the marid in its lair, where they might learn the truth of the city's steam power.
+The marid who was freed beneath the city isn't pleased about its incarceration. Every day, it summons steam mephits to terrorize the people of Port Damali with pranks and mischief. The characters are hired to discover the source of the mephit problem and solve it. They must face the marid in its lair, where they might learn the truth of the city's steam power.
 
 ###### Hot Purchase (Epic Level)
 
-The characters aim to legally or illegally acquire a powerful item from the Exalted Collection Auction House. They could want this item for themselves or be hired to acquire it for the Revelry, the Myriad, or another faction. While the characters attempt to claim the item, they are confronted by a [balor](/3-Mechanics/CLI/bestiary/fiend/balor-xmm.md) and a crew of demons who were charged by a demon lord to claim the same item.
+The characters aim to legally or illegally acquire a powerful item from the Exalted Collection Auction House. They could want this item for themselves or be hired to acquire it for the Revelry, the Myriad, or another faction. While the characters attempt to claim the item, they are confronted by a balor and a crew of demons who were charged by a demon lord to claim the same item.
 
 > [!note] The Golden Chain Mercenary Company
 > 
@@ -793,7 +793,7 @@ The characters could come to Port Zoon seeking incredible arms and armor, then g
 
 ###### Criminal Uprising (Low Level)
 
-While the characters visit Port Zoon, captured [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) forced to work for the guilds break out of their bonds, overpower their captors, and free other brigands working in the city. These criminals take control of vital industries in Port Zoon, threatening to destroy industrial sites unless given their freedom. The characters are hired to quell the uprising. Who is behind this revolt? Maybe the criminals planned it themselves—or perhaps an outside organization engineered it for their own purposes.
+While the characters visit Port Zoon, captured bandits forced to work for the guilds break out of their bonds, overpower their captors, and free other brigands working in the city. These criminals take control of vital industries in Port Zoon, threatening to destroy industrial sites unless given their freedom. The characters are hired to quell the uprising. Who is behind this revolt? Maybe the criminals planned it themselves—or perhaps an outside organization engineered it for their own purposes.
 
 ###### Smith Contest (Any Level)
 
@@ -805,7 +805,7 @@ This incredibly dense tropical jungle wraps around the southernmost reaches of t
 
 Numerous secrets lurk within the ravenous rainforest, from lost clans of the Ki'Nau to smuggler dens abandoned by brigands who were unprepared to survive in the hungry jungle. Growing interest in the Quoraska Jungle stems from recently recovered writings of the lost people of Quoraska that seem to hint that they might have known of the long-lost city of Obarra and where it vanished to after the Age of Arcanum.
 
-![Lost paths of the Quoraska Jungle](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/050-03-05.webp#center)
+![Lost paths of the Quoraska Jungle](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/050-03-05.webp#center)
 
 #### Ruins of Sepesca
 
@@ -885,7 +885,7 @@ A business war turns physical when a camp of Regver loggers is murdered and evid
 
 A sacred location to the native people of the coast, this pair of surprisingly tall islands are all cliffs, with no beaches. While the surrounding waters are often choppy from the waves that crash against the nearby Mother's Sigh Reef, the seaside cliffs are filled with healthy fruits and game to hunt. At the inception of the Clovis Concord, the Ki'Nau people demanded that the islands' natural resources were to always remain untouched. This agreement has been dutifully upheld over the centuries.
 
-While open to common use, the dangers of the trek still limit those who choose to make use of the land here. Tales tell of a [couatl](/3-Mechanics/CLI/bestiary/celestial/couatl-xmm.md) spirit bound to the inner reaches of the jungles, willing to bestow wisdom and insight to those who bring a mighty offering.
+While open to common use, the dangers of the trek still limit those who choose to make use of the land here. Tales tell of a couatl spirit bound to the inner reaches of the jungles, willing to bestow wisdom and insight to those who bring a mighty offering.
 
 #### Urukayxl
 
@@ -897,7 +897,7 @@ Forgotten in the years since, the fallen temple is surrounded by jungles that no
 
 The Vezdaweald is a bright and sunny tropical forest composed of softwood trees that loggers from Port Damali commonly harvest for smaller crafts and goods. The beautiful woods are full of vibrant tropical flowers and birds that fill the air with a symphony of mingling music and calls—but it's at night that the forest truly comes to life. Millions of glowing insects emerge and transform the canopy into a dancing starscape.
 
-Weddings and religious ceremonies of all faiths take place amid the stars of the forest—but the lights are not always a friendly omen. The glowing insects also summon forth the nocturnal dinosaurs, amphibious [Swavain basilisks](/3-Mechanics/CLI/bestiary/monstrosity/swavain-basilisk-egw.md) (see "chapter 7"), and other night beasts that call the forest home.
+Weddings and religious ceremonies of all faiths take place amid the stars of the forest—but the lights are not always a friendly omen. The glowing insects also summon forth the nocturnal dinosaurs, amphibious [Swavain basilisks](3-Mechanics/CLI/bestiary/monstrosity/swavain-basilisk-egw.md) (see "chapter 7"), and other night beasts that call the forest home.
 
 ##### Vezdaweald Adventures
 
@@ -919,7 +919,7 @@ The dry, rocky valley that divides the southern pass between the Cyrios Mountain
 
 The southern slopes between the Ashkeeper Peaks and the Cyrios Mountains are filled with the beautiful green grasslands of the Marrow Valley. This rural expanse of lush farmsteads and formative industry welcomes the majority of travel and trade from outside the empire. Fields of grains and grasses stretch into verdant forests and crystal lakes within this southern region of Western Wynandir. The central metropolis of Zadash is a major nexus for business and travel within the region, calling people from all walks of life to find work, bargain, and carouse among the many vendors and guilds that run the city. The imperial military is headquartered in Bladegarden, on the eastern edges of the Marrow Valley, where the bulk of the standing legions await orders and train the next generation of imperial soldiers to join the conflict against Xhorhas. While the war keeps many eyes turned eastward, the Marrow Valley has its own host of unspoken threats and dark secrets hiding beneath the veneer of everyday rural life.
 
-![Map 3.3: Marrow Valley](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/051-3-3-marrow-valley.webp#center)
+![Map 3.3: Marrow Valley](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/051-3-3-marrow-valley.webp#center)
 
 ### Areas (A-C)
 
@@ -965,7 +965,7 @@ Between the recent gnoll attack, overburdened town leaders, and numerous crimina
 
 ###### Yeenoghu's Army (High Level)
 
-While the characters are staying in Alfield, they learn the truth of the recent [gnoll](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) attack. The first battle was just a way to test the town's defenses for the real war: one fought by demons! The gnolls sacrificed the townsfolk captured during their raid to open a portal to the Abyss, letting demons loyal to Yeenoghu, the Gnoll Lord, invade the Material Plane. With so few defenses in the settlement, the characters are the only people who can truly defend Alfield from the threat.
+While the characters are staying in Alfield, they learn the truth of the recent gnoll attack. The first battle was just a way to test the town's defenses for the real war: one fought by demons! The gnolls sacrificed the townsfolk captured during their raid to open a portal to the Abyss, letting demons loyal to Yeenoghu, the Gnoll Lord, invade the Material Plane. With so few defenses in the settlement, the characters are the only people who can truly defend Alfield from the threat.
 
 ###### Myriad Takeover (Any Level)
 
@@ -1061,7 +1061,7 @@ Berleben is an all-but-lawless settlement that needs heroes to help keep the pea
 
 ###### A New Drink (Low Level)
 
-People in Berleben are obsessed with swamp swill, a new whiskey that gets folk drunk more quickly and for longer. Some claim to have wonderful reveries while intoxicated by swamp swill, and many have become addicted to the stuff, resorting to violence to get their next drink. If the characters investigate, they find that a tribe of [lizardfolk](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) is making the swill and giving it to a merchant in Berleben to sell. The lizardfolk plan to take over Berleben once enough people are dependent on the swill, but only because [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) threaten the lizardfolk's territory.
+People in Berleben are obsessed with swamp swill, a new whiskey that gets folk drunk more quickly and for longer. Some claim to have wonderful reveries while intoxicated by swamp swill, and many have become addicted to the stuff, resorting to violence to get their next drink. If the characters investigate, they find that a tribe of lizardfolk is making the swill and giving it to a merchant in Berleben to sell. The lizardfolk plan to take over Berleben once enough people are dependent on the swill, but only because trolls threaten the lizardfolk's territory.
 
 #### Bladegarden
 
@@ -1103,7 +1103,7 @@ As the chaos of the war grows more frenzied with each passing week, the overwork
 
 Aside from the impressive halls of the sprawling Righteous Brand barracks that loom over the eastern edge of the city, Bladegarden is considered by many a remarkably drab place. The oval settlement is threaded by wandering dirt roads that seemingly stop and start without reason, and there is little color in the streets. Beyond the western walls, there are a number of farmsteads where local produce is gathered to aid in feeding the populace, but the majority of food is brought via cart from other sources across the Marrow Valley.
 
-![The training grounds at Bladegarden](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/052-03-06.webp#center)
+![The training grounds at Bladegarden](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/052-03-06.webp#center)
 
 ##### Bladegarden Adventures
 
@@ -1111,7 +1111,7 @@ Bladegarden is an excellent base of operations for characters fighting in the wa
 
 ###### Morale Pals (Any Level)
 
-The Crown sends the Morale Pals, a famous comedic halfling duo, to keep spirits up in Bladegarden. But when the curtain goes up on opening night, it reveals the decapitated bodies of the Morale Pals! The characters are hired to answer the question everyone is asking: who killed the halflings? It might be Xhorhasian [spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) determined to keep morale low, thieves who wanted the halflings' purses, or perhaps a rogue killer who wanted to send a message to the whole city that this is just the beginning.
+The Crown sends the Morale Pals, a famous comedic halfling duo, to keep spirits up in Bladegarden. But when the curtain goes up on opening night, it reveals the decapitated bodies of the Morale Pals! The characters are hired to answer the question everyone is asking: who killed the halflings? It might be Xhorhasian spies determined to keep morale low, thieves who wanted the halflings' purses, or perhaps a rogue killer who wanted to send a message to the whole city that this is just the beginning.
 
 #### Brokenveil Bluffs
 
@@ -1137,11 +1137,11 @@ Crossing through the Cyrengreen Forest is an adventure that has travelers lookin
 
 ###### Lumberjack Madness (Low Level)
 
-Lumberjacks from Deastok and Trostenwald working in the Cyrengreen have reported strange events. They fall asleep randomly on the job, witness twinkling lights, see horrific nightmarish creatures for mere moments—and some even turn into beasts such as frogs and rabbits for short periods of time. The loggers are spooked and refuse to return to their work until the characters deal with the problem. The problem is [pixies](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md)—they're upset that the loggers are tearing their forest apart! The good fey are stubborn but might cut a deal with the loggers if the characters agree to negotiate.
+Lumberjacks from Deastok and Trostenwald working in the Cyrengreen have reported strange events. They fall asleep randomly on the job, witness twinkling lights, see horrific nightmarish creatures for mere moments—and some even turn into beasts such as frogs and rabbits for short periods of time. The loggers are spooked and refuse to return to their work until the characters deal with the problem. The problem is pixies—they're upset that the loggers are tearing their forest apart! The good fey are stubborn but might cut a deal with the loggers if the characters agree to negotiate.
 
 ###### More Perfect People (Mid Level)
 
-Reports of wolves attacking travelers on the road from Deastok, Kamordah, and Trostenwald have become more frequent. All travelers tell the same story: the beasts tear through caravans, biting as many people as possible before moving on. There is never a death toll. The reason for the strange attacks becomes obvious during the next full moon when the bite victims turn into [werewolves](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md). The characters are hired to find and stop the lycanthropes spreading the curse.
+Reports of wolves attacking travelers on the road from Deastok, Kamordah, and Trostenwald have become more frequent. All travelers tell the same story: the beasts tear through caravans, biting as many people as possible before moving on. There is never a death toll. The reason for the strange attacks becomes obvious during the next full moon when the bite victims turn into werewolves. The characters are hired to find and stop the lycanthropes spreading the curse.
 
 The instigating werewolves live in the dark heart of the Cyrengreen. They call themselves the Brotherhood of the Moon and aim to spread their curse throughout the Dwendalian Empire. They believe their mission will make humanoids evolve into a stronger, more perfect people.
 
@@ -1200,11 +1200,11 @@ Elements of intrigue, noble finery, and the Myriad define adventures in Deastok.
 
 ###### Merry Spouses of Deastok (Mid Level)
 
-A member of the nobility in Deastok is murdered, and the characters are hired to find the killer. During the investigation, more nobles and prominent members of society are slain. It seems the victims cannot be connected, and each murder employs a different grisly method. The truth is that a group of [incubi](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) and [succubi](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md) married into the Truscan family over the past decade. These fiends are committing murders for the thrill of it.
+A member of the nobility in Deastok is murdered, and the characters are hired to find the killer. During the investigation, more nobles and prominent members of society are slain. It seems the victims cannot be connected, and each murder employs a different grisly method. The truth is that a group of incubi and succubi married into the Truscan family over the past decade. These fiends are committing murders for the thrill of it.
 
 ###### Kryn-filtration (Any Level)
 
-The Kryn Dynasty wants to infiltrate the nobility of Deastok to manipulate and steal information from wealthy Dwendalian citizens. The Kryn could hire the characters to accomplish this, or the characters could uncover the Kryn plot and try to find the [spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md). In either case, the Myriad's involvement in the city adds another dimension to the conflict between the Dwendalian Empire and Kryn Dynasty, making the characters wondering who—if anyone—they can trust.
+The Kryn Dynasty wants to infiltrate the nobility of Deastok to manipulate and steal information from wealthy Dwendalian citizens. The Kryn could hire the characters to accomplish this, or the characters could uncover the Kryn plot and try to find the spies. In either case, the Myriad's involvement in the city adds another dimension to the conflict between the Dwendalian Empire and Kryn Dynasty, making the characters wondering who—if anyone—they can trust.
 
 #### Egelin Quarry
 
@@ -1252,7 +1252,7 @@ Felderwin is not a haven for unlawful activity, but the importance of the local 
 
 This rustic settlement is home to the beating heart of the Marrow Valley's farming community. Felderwin is built around three small hubs, each surrounding a communal gathering site called a Hall, which give the settlement a roughly triangular shape. Each section is filled with intersecting dirt roads, large barns, storehouses, lively taverns, and livestock pens that give the streets their unique, shifting smell of fresh grass, sweet pollen, and animal dung. The Green Hall calls forth trade meetings and day celebrations, while the Sunset Hall acts as a massive tavern for evening festivities and diplomatic events. The Lake Hall is built at the edge of the Scymir River and helms the small fishing community within the city.
 
-![Felderwin and the Tillage](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/053-03-07.webp#center)
+![Felderwin and the Tillage](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/053-03-07.webp#center)
 
 ##### Felderwin Adventures
 
@@ -1264,7 +1264,7 @@ The characters find themselves in Felderwin when Starosta Theanor gives in to th
 
 ###### A Price Paid in Blood (Low Level)
 
-A series of macabre murders have shaken the denizens of Felderwin. The watchmaster has heard rumors that a [blood hunter](/3-Mechanics/CLI/bestiary/humanoid/blood-hunter-egw.md) (see "chapter 7") recently arrived in the city and hires the characters to hunt down the possible murderer. When they finally find the blood hunter, she tries to convince them that the murders are the fault of a rakshasa that's secretly living within the settlement as the watchmaster. The characters must either help the blood hunter take down the watchmaster or capture the blood hunter to claim their reward.
+A series of macabre murders have shaken the denizens of Felderwin. The watchmaster has heard rumors that a [blood hunter](3-Mechanics/CLI/bestiary/humanoid/blood-hunter-egw.md) (see "chapter 7") recently arrived in the city and hires the characters to hunt down the possible murderer. When they finally find the blood hunter, she tries to convince them that the murders are the fault of a rakshasa that's secretly living within the settlement as the watchmaster. The characters must either help the blood hunter take down the watchmaster or capture the blood hunter to claim their reward.
 
 #### Felderwin Tillage
 
@@ -1280,11 +1280,11 @@ The characters could aid or stop Kryn raids on Felderwin Tillage, or defend the 
 
 ###### Kryn Spy (Low Level)
 
-The characters are hired by a farming family in the Tillage to get to the bottom of recent arsons that burned crops in Felderwin Tillage. The culprit behind the fires is difficult to find because they are a [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) working for the Kryn, masquerading as multiple absent members of the community. Moreover, once the characters ask too many questions, the doppelganger begins hunting them as well.
+The characters are hired by a farming family in the Tillage to get to the bottom of recent arsons that burned crops in Felderwin Tillage. The culprit behind the fires is difficult to find because they are a doppelganger working for the Kryn, masquerading as multiple absent members of the community. Moreover, once the characters ask too many questions, the doppelganger begins hunting them as well.
 
 ###### A Friend in Need (Mid Level)
 
-Stumbling on a secret gathering of [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) of Tiamat preparing to sacrifice a woman to their evil goddess, the adventurers must stop the ritual and free the captive, who aids them in the battle. She introduces herself as Calianna, a half-elf sorcerer with a draconic lineage that covers half of her body in black scales. She breathlessly describes this terrible cabal, known as the Cult of the Caustic Heart (see "chapter 2"), and requests the characters' aid in vanquishing it once and for all.
+Stumbling on a secret gathering of cultists of Tiamat preparing to sacrifice a woman to their evil goddess, the adventurers must stop the ritual and free the captive, who aids them in the battle. She introduces herself as Calianna, a half-elf sorcerer with a draconic lineage that covers half of her body in black scales. She breathlessly describes this terrible cabal, known as the Cult of the Caustic Heart (see "chapter 2"), and requests the characters' aid in vanquishing it once and for all.
 
 #### Grimgolir
 
@@ -1338,11 +1338,11 @@ With monsters aplenty and war at its doorstep, Grimgolir has no shortage of adve
 
 ###### Mimics in the Mine (Low Level)
 
-Monsters are killing Grimgolir's miners. The typically tough and unbeatable Grimgolir soldiers can't seem to find the creatures. Looking for a fresh perspective, they hire the characters to hunt the monsters in the abandoned mine while operations are shutdown. The monsters are [mimics](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) that turn into pickaxes, railcars, and other mining equipment. They strike at the characters with hit-and-run tactics, retreating into darkness and using their unique powers to blend in with the environment.
+Monsters are killing Grimgolir's miners. The typically tough and unbeatable Grimgolir soldiers can't seem to find the creatures. Looking for a fresh perspective, they hire the characters to hunt the monsters in the abandoned mine while operations are shutdown. The monsters are mimics that turn into pickaxes, railcars, and other mining equipment. They strike at the characters with hit-and-run tactics, retreating into darkness and using their unique powers to blend in with the environment.
 
 ###### Rise of the Worms (Epic Level)
 
-While the characters are in Grimgolir, several [purple worms](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) tunnel into the city, causing mass destruction. After the worms are killed or driven off, Kryn forces come through the tunnels created by the monstrosities, razing strategic military outposts while the city is already in disarray. The Kryn Dynasty knows how critical the city is to training Dwendalian troops, so they mobilized the worms and followed behind to deal Grimgolir a decisive blow.
+While the characters are in Grimgolir, several purple worms tunnel into the city, causing mass destruction. After the worms are killed or driven off, Kryn forces come through the tunnels created by the monstrosities, razing strategic military outposts while the city is already in disarray. The Kryn Dynasty knows how critical the city is to training Dwendalian troops, so they mobilized the worms and followed behind to deal Grimgolir a decisive blow.
 
 #### Herethis Mines
 
@@ -1374,7 +1374,7 @@ The gnomish community of Hupperdook is built along the eastern base of the Silbe
 
 The gnomish culture within Hupperdook prizes hard work and hard play. Family trades vary from coal mining and clockwork development to practical enchantment and the brewing of zesty libations. Within the bounds of the city, a general air of upbeat anticipation frames the day-to-day activities of residents as they bound their way toward dusk.
 
-![Fireworks over Hupperdook](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/054-03-08.webp#center)
+![Fireworks over Hupperdook](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/054-03-08.webp#center)
 
 ##### Carpe Noctis
 
@@ -1414,7 +1414,7 @@ The annual Iron Runway celebration is seeking entertainers to wow the nobility w
 
 ###### A Hungry Problem (Low Level)
 
-An illegally transported [rust monster](/3-Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md) escaped from its cage in the night, nested within the Silberquel Mines, and gave birth to a small brood. The hungry creatures now threaten to consume the veins of ore needed for the empire's war effort, unless the characters manage to slay or capture them.
+An illegally transported rust monster escaped from its cage in the night, nested within the Silberquel Mines, and gave birth to a small brood. The hungry creatures now threaten to consume the veins of ore needed for the empire's war effort, unless the characters manage to slay or capture them.
 
 #### Kamordah
 
@@ -1479,11 +1479,11 @@ Adventurers in Kamordah might become embroiled in squabbles over local goods, po
 
 ###### Broken Earth (Low Level)
 
-While the characters are in Kamordah, an earthquake topples buildings and releases lava from beneath the earth. The broken earth also opens the way for [magma mephits](/3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md) that cause mischief around the settlement. If the characters manage to save themselves from the chaos, there are plenty of other citizens in need of rescue.
+While the characters are in Kamordah, an earthquake topples buildings and releases lava from beneath the earth. The broken earth also opens the way for magma mephits that cause mischief around the settlement. If the characters manage to save themselves from the chaos, there are plenty of other citizens in need of rescue.
 
 ###### Twilight Phoenix (Epic Level)
 
-The truth of Kamordah's geothermal activity is far more sinister and fantastical than many know. The ancient and mad twilight phoenix Desirat (see "chapter 1") is chained beneath Mount Mentiri. A cabal of [archmages](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) who worship Asmodeus seek to free the Lord of the Nine Hells' steed, secretly gathering components for a ritual to sunder the mountain and unleash the crazed entity to incinerate the countryside. If the characters cannot stop the ritual, they must combat the twisted, primal phoenix herself.
+The truth of Kamordah's geothermal activity is far more sinister and fantastical than many know. The ancient and mad twilight phoenix Desirat (see "chapter 1") is chained beneath Mount Mentiri. A cabal of archmages who worship Asmodeus seek to free the Lord of the Nine Hells' steed, secretly gathering components for a ritual to sunder the mountain and unleash the crazed entity to incinerate the countryside. If the characters cannot stop the ritual, they must combat the twisted, primal phoenix herself.
 
 ### Areas (L-Z)
 
@@ -1587,7 +1587,7 @@ Characters in Trostenwald could get caught up in adventures with the three brewi
 
 ###### Grain Hijackers (Low Level)
 
-The characters are hired by one of the brewing families to find out who tore into their silo and stole their grain. The characters might suspect one of the other brewing families, but that notion is quickly dashed when a second family's silo is similarly vandalized. The true culprits behind these attacks are two [owlbears](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md) that meet each night and devour grain from a new silo as part of a courtship ritual.
+The characters are hired by one of the brewing families to find out who tore into their silo and stole their grain. The characters might suspect one of the other brewing families, but that notion is quickly dashed when a second family's silo is similarly vandalized. The true culprits behind these attacks are two owlbears that meet each night and devour grain from a new silo as part of a courtship ritual.
 
 ###### Find the Formula (Any Level)
 
@@ -1607,12 +1607,12 @@ From fishing for food to hunting a witch, there are adventures aplenty for the c
 
 ###### Witch's Amulet (Mid Level)
 
-Something in Ustaloch is turning the fish and crabs in the lake into skeletal abominations that attack boats and people near the shore. The characters are hired to uncover the source of this curse, which happens to be an amulet from the witch's island grove that a group of children discovered and threw in the water. If the characters can find and retrieve the amulet, the witch (a [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md)) might soon come looking for it.
+Something in Ustaloch is turning the fish and crabs in the lake into skeletal abominations that attack boats and people near the shore. The characters are hired to uncover the source of this curse, which happens to be an amulet from the witch's island grove that a group of children discovered and threw in the water. If the characters can find and retrieve the amulet, the witch (a night hag) might soon come looking for it.
 
 To create the skeletal creatures in this adventure, take any aquatic beast and make the following changes to it:
 
 - The creature is undead and doesn't require air, food, drink, or sleep.  
-- It has immunity to poison damage and [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), and it can't be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).  
+- It has immunity to poison damage and exhaustion, and it can't be poisoned.  
 - It has vulnerability to bludgeoning damage.  
 
 #### Vol'antim
@@ -1667,7 +1667,7 @@ If the characters earn the respect of the aarakocra of Vol'antim, they could be 
 
 ###### Break a Few Eggs (Low Level)
 
-The characters are asked by the [aarakocra](/3-Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md) of Vol'antim to help destroy a nest of gorefeather [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md). During the quest, the characters uncover a clutch of harpy eggs, which the aarakocra believe should be destroyed, since legends say that each generation of harpies is stronger than the last. If the characters destroy the eggs, they will drive the harpies to greater acts of destruction. But they refuse, how might the aarakocra react?
+The characters are asked by the aarakocra of Vol'antim to help destroy a nest of gorefeather harpies. During the quest, the characters uncover a clutch of harpy eggs, which the aarakocra believe should be destroyed, since legends say that each generation of harpies is stronger than the last. If the characters destroy the eggs, they will drive the harpies to greater acts of destruction. But they refuse, how might the aarakocra react?
 
 #### Wuyun Gate
 
@@ -1679,7 +1679,7 @@ The characters could help defend the Wuyun Gate outpost when monsters attack and
 
 ###### Take Back the Gate (Mid Level)
 
-As the characters travel through the region, they need to pass through the gate. When they get to the outpost, they learn that monsters from the mountains ([gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md), [hobgoblins](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md), [orcs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md), or [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md)) murdered the Crownsguard and have claimed the gate as their own. From this secure position, they launch more raids into the Marrow Valley. Someone has to stop them and take back the gate.
+As the characters travel through the region, they need to pass through the gate. When they get to the outpost, they learn that monsters from the mountains (gnolls, hobgoblins, orcs, or trolls) murdered the Crownsguard and have claimed the gate as their own. From this secure position, they launch more raids into the Marrow Valley. Someone has to stop them and take back the gate.
 
 #### Zadash
 
@@ -1750,7 +1750,7 @@ The Signet Wall encloses the eastern end of the city and houses Zadash's reserve
 > Pumat Sol was trained by Headmaster Oremid Hass of the Halls of Erudition, but he tends to keep quiet about the specifics of his ties to the Cerberus Assembly.
 ^the-invulnerable-vagrant
 
-![Pentamarket of Zadash](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/055-03-09.webp#center)
+![Pentamarket of Zadash](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/055-03-09.webp#center)
 
 ##### Zadash Adventures
 
@@ -1762,13 +1762,13 @@ The characters are hired—or blackmailed—by the Myriad to convince Starosta W
 
 ###### Victory Breakout (High Level)
 
-The characters are in Zadash when several monsters are freed from their confines in the Victory Pit. These monsters—an [abominable yeti](/3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md), a [behir](/3-Mechanics/CLI/bestiary/monstrosity/behir-xmm.md), a [hydra](/3-Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md), a [tyrannosaurus rex](/3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md), and others, tear through the streets, leaving carnage in their wake. Did these monsters escape by themselves, or did someone else free them to distract the Crownsguard and characters while another crime took place?
+The characters are in Zadash when several monsters are freed from their confines in the Victory Pit. These monsters—an abominable yeti, a behir, a hydra, a tyrannosaurus rex, and others, tear through the streets, leaving carnage in their wake. Did these monsters escape by themselves, or did someone else free them to distract the Crownsguard and characters while another crime took place?
 
 ## Zemni Fields
 
 Along the frost-dappled fields of the northern plains, the heart of the Dwendalian Empire is formed by a sprawl of dirt-packed roads, dense forests, and austere townships that fight back the dangerous creatures of the wilderness. Divided from the southern Marrow Valley by the mountains of the Silberquel Ridge, this region is known for its gray skies, fits of cold rain, and occasional snowfall, keeping the feet of the denizens muddy and their crops healthy. The Dunrock Mountains shield the people from the threats that loom beyond the boundaries of the king's rule, with the Rockguard Garrison to the east holding firm against the deadly armies of the Kryn Dynasty and the dangers that brew beyond the Ashkeeper Peaks. Home to the mighty imperial capital of Rexxentrum, these fields are the seat of power and commerce for the empire. Diplomats often find themselves traveling to and from the Zemni Fields, while traders and merchants from around the world traverse the long roads in hopes of making their fortunes in the capital city. Even so, the growing ferocity from beasts and creatures that share this region mingle with the whispers of a recovering criminal element and the escalating war with the Kryn to create a perpetual air of tension and anxiety.
 
-![Map 3.4: Zemni Fields](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/056-3-4-zemni-fields.webp#center)
+![Map 3.4: Zemni Fields](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/056-3-4-zemni-fields.webp#center)
 
 ### Areas (A-K)
 
@@ -1786,7 +1786,7 @@ Arriving just in time for a semiannual bazaar known as the Carnival of Coin, the
 
 ###### War Plans (Mid Level)
 
-The characters are hired by the Myriad or the Kryn Dynasty to intercept imperial documents as they travel from Rexxentrum to Zadash. The first courier takes the documents as far as the crossroads before handling them off to a second courier. Both couriers are [knights](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) of the Crownsguard mounted on [warhorses](/3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md). The documents are war plans bearing magical wards and the seal of the king.
+The characters are hired by the Myriad or the Kryn Dynasty to intercept imperial documents as they travel from Rexxentrum to Zadash. The first courier takes the documents as far as the crossroads before handling them off to a second courier. Both couriers are knights of the Crownsguard mounted on warhorses. The documents are war plans bearing magical wards and the seal of the king.
 
 #### Blumenthal
 
@@ -1868,7 +1868,7 @@ The elves of the city rarely engage in criminal activity, but escalating theft a
 
 The city exists partially on the forest floor and partially within and around the trees, giving the settlement an air of rustic nostalgia that tempers its elven mystique. The walled surface streets are known as the Rough, or *Talan*, where structures weave between rocks and wide-trunked trees, giving a slanted octagonal shape to the tall, wooden exterior walls of the city. Nearly all structures here are built from pine and other taiga trees, favoring designs that resemble a bowed arch rising to an apex. Spiraling staircases known as the Shrouds, or *Halya*, twist around and within trees, climbing up to the elevated walkways and buildings amid the forest canopy.
 
-![Bysaes Tyl](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/057-03-10.webp#center)
+![Bysaes Tyl](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/057-03-10.webp#center)
 
 ##### Bysaes Tyl Adventures
 
@@ -1876,11 +1876,11 @@ The tension between the Crown and the elves in Bysaes Tyl plays a part in any of
 
 ###### Elves, Arise (Mid Level)
 
-A group of elf [assassins](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) unhappy with the Crown's leadership hatch a plot to simultaneously assassinate the Ring of Three, Starosta Uther Prent, and other important figures in Bysaes Tyl. They believe that with the Crown distracted by the war, now is a perfect time to rise up and take back their city. The characters get wind of the plot and must decide whether to ignore, stop, or support the assassins.
+A group of elf assassins unhappy with the Crown's leadership hatch a plot to simultaneously assassinate the Ring of Three, Starosta Uther Prent, and other important figures in Bysaes Tyl. They believe that with the Crown distracted by the war, now is a perfect time to rise up and take back their city. The characters get wind of the plot and must decide whether to ignore, stop, or support the assassins.
 
 ###### Evil, Arise (Epic Level)
 
-A powerful artifact of the long-deceased Archmage Oleyahs has been recovered from the ruins of Molaesmyr and is secretly in transit to Bysaes Tyl. Researchers hope that this object holds a key to understanding the destruction of their ancestral home, but when the object arrives, it is revealed to instead be a deceptive casing for the archmage's [demilich](/3-Mechanics/CLI/bestiary/undead/demilich-xmm.md) form. A plague of arcane terror rains on Bysaes Tyl, and the characters are tasked by the Ring of Three to destroy or banish the demilich Oleyahs from the burning city.
+A powerful artifact of the long-deceased Archmage Oleyahs has been recovered from the ruins of Molaesmyr and is secretly in transit to Bysaes Tyl. Researchers hope that this object holds a key to understanding the destruction of their ancestral home, but when the object arrives, it is revealed to instead be a deceptive casing for the archmage's demilich form. A plague of arcane terror rains on Bysaes Tyl, and the characters are tasked by the Ring of Three to destroy or banish the demilich Oleyahs from the burning city.
 
 #### Druvenlode
 
@@ -1924,7 +1924,7 @@ Adventure can be found in Druvenlode's mines, which occasionally fill up with bu
 
 ###### Fire in the Mines (Mid Level)
 
-A being made of fire attacked miners from the Surgoth Guild who were working a vein of silver ore. The miners survived but are too scared to go back into the mine. Instead, they gamble their savings away at the Sterling Satchel. If the characters investigate, they find a path of destruction in the mine that leads to a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) under the control of Casper Windmouth (neutral evil, male, human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)). Casper is a gambler with many debts to pay, so he took a job from an anonymous source to scare the miners out. Was it a rival miner's guild? Was it the proprietors of the Sterling Satchel, looking to hang on to their customers day and night? Or was it the owner of the Cabin of Fortune, hoping to bankrupt their competitor's clients?
+A being made of fire attacked miners from the Surgoth Guild who were working a vein of silver ore. The miners survived but are too scared to go back into the mine. Instead, they gamble their savings away at the Sterling Satchel. If the characters investigate, they find a path of destruction in the mine that leads to a fire elemental under the control of Casper Windmouth (neutral evil, male, human mage). Casper is a gambler with many debts to pay, so he took a job from an anonymous source to scare the miners out. Was it a rival miner's guild? Was it the proprietors of the Sterling Satchel, looking to hang on to their customers day and night? Or was it the owner of the Cabin of Fortune, hoping to bankrupt their competitor's clients?
 
 #### Dunrock Mountains
 
@@ -1938,7 +1938,7 @@ These rocky peaks are home to many creatures and secrets beyond the empire's inf
 
 ###### The Crawling Caverns (Mid to High Level)
 
-Hidden deep in the heart of the Dunrocks are the forgotten depths of the Bastille of Torment, a massive, multilevel dungeon where Torog tortured the enemies of the Betrayer Gods during the Age of Arcanum. This horrifying abandoned prison is now run by a cabal of [spirit nagas](/3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md), who guard the many arcane secrets and treasures left by the Betrayers.
+Hidden deep in the heart of the Dunrocks are the forgotten depths of the Bastille of Torment, a massive, multilevel dungeon where Torog tortured the enemies of the Betrayer Gods during the Age of Arcanum. This horrifying abandoned prison is now run by a cabal of spirit nagas, who guard the many arcane secrets and treasures left by the Betrayers.
 
 #### Erdeloch
 
@@ -2046,7 +2046,7 @@ Characters could go to Nogvurot to find someone in the city or to join the Right
 
 ###### Traitors in the Midst (Low Level)
 
-The characters are approached by Telva Cornwrath (neutral, female, human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), who claims to work for the Augen Trust. She hires the characters to infiltrate the ranks of the Righteous Brand in Nogvurot and discover which soldiers are accepting bribes from the Tribes of Shadycreek Run. She wants to know which criminal family pays each crooked official. She could be who she claims, or she might be a spy for the Myriad or one of the Tribes in Shadycreek Run looking to remove competition. In the latter case, she might not want the characters sticking around as loose ends.
+The characters are approached by Telva Cornwrath (neutral, female, human spy), who claims to work for the Augen Trust. She hires the characters to infiltrate the ranks of the Righteous Brand in Nogvurot and discover which soldiers are accepting bribes from the Tribes of Shadycreek Run. She wants to know which criminal family pays each crooked official. She could be who she claims, or she might be a spy for the Myriad or one of the Tribes in Shadycreek Run looking to remove competition. In the latter case, she might not want the characters sticking around as loose ends.
 
 #### Odessloe
 
@@ -2140,13 +2140,13 @@ While the city's colorful veneer makes it seem a place of plenty, the economy of
 
 The city is comprised of four boroughs built atop and within a cluster of large hills that wrap around the base of the Cyrios Mountains. The two largest boroughs, known as the Tillers and Crafters, are twin sections of mixed residential neighborhoods with areas of concentrated commerce. The Tillers cultivates produce and meats for the city, though most local food has a bland and bitter taste, making spices a popular import. The Crafters contains numerous forges, tanneries, and the well-guarded subterranean silk-production warehouses. Nearest to the mountains is the Vigil borough, where the locally trained Crownsguard mingle with those assigned from Bladegarden to watch over the hillside. The western branch of the Righteous Brand are also stationed in the Vigil borough. Between Vigil and Crafters lies the fourth and smallest borough, called Moot, which is marked by a circular road surrounded by the wealthier houses. The Moot itself is an open, stone forum for discussion and debate that long predates the empire's rule.
 
-![Hills of Pride's Call](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/058-03-11.webp#center)
+![Hills of Pride's Call](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/058-03-11.webp#center)
 
 > [!note] Pride Silk
 > 
-> The hearty silk unique to the region has long been a point of pride with the locals. When processed and woven properly, the resulting cloth is [pride silk](/3-Mechanics/CLI/items/pride-silk-egw.md): an extremely flexible material with the durability of tanned leather. Pride silk has become a favorite cloth for use on military ship sails, war banners, and other utilitarian applications, but has also gained popularity in affluent circles. High-end clothing made from pride silk is both fashionable and protective, leading many nobles and wealthy merchants to seek full outfits and formal gowns made with it. The tailors skilled enough to create such outfits are few and far between, so while pride silk might be expensive as a raw material, outfits made of the cloth are prohibitively expensive for most common folk.
+> The hearty silk unique to the region has long been a point of pride with the locals. When processed and woven properly, the resulting cloth is [pride silk](3-Mechanics/CLI/items/pride-silk-egw.md): an extremely flexible material with the durability of tanned leather. Pride silk has become a favorite cloth for use on military ship sails, war banners, and other utilitarian applications, but has also gained popularity in affluent circles. High-end clothing made from pride silk is both fashionable and protective, leading many nobles and wealthy merchants to seek full outfits and formal gowns made with it. The tailors skilled enough to create such outfits are few and far between, so while pride silk might be expensive as a raw material, outfits made of the cloth are prohibitively expensive for most common folk.
 > 
-> One square yard of [pride silk](/3-Mechanics/CLI/items/pride-silk-egw.md) weighs 1 pound and costs 100 gp. An [outfit made of pride silk](/3-Mechanics/CLI/items/pride-silk-outfit-egw.md) weighs 4 pounds and costs 500 gp. If you aren't wearing armor, your base Armor Class is 11 + your Dexterity modifier while wearing it.
+> One square yard of [pride silk](3-Mechanics/CLI/items/pride-silk-egw.md) weighs 1 pound and costs 100 gp. An [outfit made of pride silk](3-Mechanics/CLI/items/pride-silk-outfit-egw.md) weighs 4 pounds and costs 500 gp. If you aren't wearing armor, your base Armor Class is 11 + your Dexterity modifier while wearing it.
 ^pride-silk
 
 ##### Pride's Call Adventures
@@ -2155,7 +2155,7 @@ If the characters seek pride silk or master artisans, Pride's Call is where they
 
 ###### Worm Your Way In (Low Level)
 
-The characters encounter a traveling textile merchant named Cardorn Brentahill (neutral evil, male, human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), who lives in Yrrosa. He's seeking bodyguards to help him escort his cart back to his home, paying 100 gp per hired hand. Along the journey, the characters and their employer are attacked by a crew of mercenaries representing the Durrodan family, claiming that Cardorn stole silk worms from their silk farm. Cardorn offers to increase the characters' pay if they defend him. If they side with the Durrodan family, Cardorn is taken prisoner but the Durrodans grant them a small reward and the promise of future work. If they side with Cardorn, fight off the mercenaries, and escort Cardorn home, he introduces the characters to Gothad Miskal (neutral evil, male, halfling [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)), a Myriad taskmaster from Yrrosa who is interested in offering better pay for less legal work.
+The characters encounter a traveling textile merchant named Cardorn Brentahill (neutral evil, male, human noble), who lives in Yrrosa. He's seeking bodyguards to help him escort his cart back to his home, paying 100 gp per hired hand. Along the journey, the characters and their employer are attacked by a crew of mercenaries representing the Durrodan family, claiming that Cardorn stole silk worms from their silk farm. Cardorn offers to increase the characters' pay if they defend him. If they side with the Durrodan family, Cardorn is taken prisoner but the Durrodans grant them a small reward and the promise of future work. If they side with Cardorn, fight off the mercenaries, and escort Cardorn home, he introduces the characters to Gothad Miskal (neutral evil, male, halfling bandit captain), a Myriad taskmaster from Yrrosa who is interested in offering better pay for less legal work.
 
 #### Rastum Den
 
@@ -2193,7 +2193,7 @@ Glowing orbs of arcane fire flicker at the tops of dark iron lamp poles at major
 
 The massive and beautiful center for arcane study known as the Soltryce Academy is located in the Candles, a thin crescent of a neighborhood marked by the tall and imposing tower homes of all eight leading members of the Cerberus Assembly, each unique and imposing in its own way. The beating heart of the city, and of the empire, lies positioned within the arc of the Candles in the terrace of Castle Ungebroch. From within the castle halls, King Bertrand Dwendal and his council of chosen authorities oversee all matters of state.
 
-![Map 3.5: Rexxentrum](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/059-3-5-rexxentrum-player.webp#center)
+![Map 3.5: Rexxentrum](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/059-3-5-rexxentrum-player.webp#center)
 
 ##### Magic Masters
 
@@ -2261,11 +2261,11 @@ A noble house in Rexxentrum that isn't scheming for more power is a noble house 
 
 ###### Call a Locksmith (Low Level)
 
-The exploits of the characters might draw the attention of the Locksmiths, a resistance group seeking to undermine the totalitarian rule of the king. A friendly face the characters have come to know within the city invites them to meet Lady Quana Seledo (chaotic good, female, human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), a well-connected figure who reveals herself to be a key figure in the Locksmiths. She asks the characters to join the cause, offering allies, rare goods, and well-paid work. If they agree, the first mission begins: help the Locksmiths infiltrate the office of Exchequer Aethia Drooze and steal the current year's tithe ledgers.
+The exploits of the characters might draw the attention of the Locksmiths, a resistance group seeking to undermine the totalitarian rule of the king. A friendly face the characters have come to know within the city invites them to meet Lady Quana Seledo (chaotic good, female, human noble), a well-connected figure who reveals herself to be a key figure in the Locksmiths. She asks the characters to join the cause, offering allies, rare goods, and well-paid work. If they agree, the first mission begins: help the Locksmiths infiltrate the office of Exchequer Aethia Drooze and steal the current year's tithe ledgers.
 
 ###### King Killers (Mid Level)
 
-The characters intercept a cryptic note which indicates that there will be an attempt on King Bertrand Dwendal's life the next time the monarch makes a public appearance. The characters are too inexperienced to get an audience with the king or anyone close to him, so it's up to the characters to thwart the plot. These [assassins](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) could be sent by the Kryn Dynasty, the Cerberus Assembly, the Myriad, the cult of a Betrayer god, or by the Crown itself to garner sympathy among the people. If the characters manage to stop the assassins, they earn the notice of the king, who will likely ask more of them.
+The characters intercept a cryptic note which indicates that there will be an attempt on King Bertrand Dwendal's life the next time the monarch makes a public appearance. The characters are too inexperienced to get an audience with the king or anyone close to him, so it's up to the characters to thwart the plot. These assassins could be sent by the Kryn Dynasty, the Cerberus Assembly, the Myriad, the cult of a Betrayer god, or by the Crown itself to garner sympathy among the people. If the characters manage to stop the assassins, they earn the notice of the king, who will likely ask more of them.
 
 #### Rockguard Garrison
 
@@ -2297,7 +2297,7 @@ Rockguard Garrison adventures usually relate directly to the war. Defending the 
 
 ###### Steal the Plans (Low Level)
 
-Agents of the Kryn hire the characters to infiltrate the Rockguard Garrison and uncover the Crown's plans to retake the Ashguard Garrison. The Kryn want any physical plans the characters find to remain in place to ensure the Crown doesn't realize the plot, so all written documents containing key information need to be copied. The garrison's [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md), and [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) patrol the place and question characters who obviously sneak around or don't belong.
+Agents of the Kryn hire the characters to infiltrate the Rockguard Garrison and uncover the Crown's plans to retake the Ashguard Garrison. The Kryn want any physical plans the characters find to remain in place to ensure the Crown doesn't realize the plot, so all written documents containing key information need to be copied. The garrison's guards, scouts, and veterans patrol the place and question characters who obviously sneak around or don't belong.
 
 #### Ruins of Shattengrod
 
@@ -2313,8 +2313,8 @@ Born from the sunken muck that merges with the northern treeline of the Velvin T
 > 
 > A round, blue fruit roughly the size of a plum, a dyolet is known for its sweet flavor and the mild surge of energy granted to whoever eats it. Dyolets can also be imbued with minor healing abilities, a property kept secret by the gnomes of the Velvin Thicket until recent years. Herbalists and apothecaries can imbue healing within the fruit for a fraction of the time and gold cost of brewing a potion. A dyolet can be imbued with one of the following properties by a character proficient with a healer's kit:
 > 
-> - You can saturate the fruit with carefully brewed curative draughts to imbue a dyolet with the properties of a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md). This process takes 12 hours and costs 15 gp.  
-> - You can saturate the fruit with strengthened restorative properties to imbue a dyolet with the properties of a [potion of greater healing](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md). This process takes 4 days and costs 70 gp.  
+> - You can saturate the fruit with carefully brewed curative draughts to imbue a dyolet with the properties of a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md). This process takes 12 hours and costs 15 gp.  
+> - You can saturate the fruit with strengthened restorative properties to imbue a dyolet with the properties of a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing.md). This process takes 4 days and costs 70 gp.  
 > 
 > You can consume a dyolet as an action to gain its healing effect. A dyolet lasts up to 20 days after being harvested before it begins to rot. A rotting dyolet loses its healing properties.
 ^dyolet-fruit
@@ -2329,7 +2329,7 @@ Traveling across the Silberquel Ridge is its own adventure, given the number of 
 
 ###### Hell Hound Purge (Mid Level)
 
-Marta Denizreitch (chaotic neutral, female, human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) lives in a remote tower where she experiments with conjuration magic to develop new spells. The Cerberus Assembly funds Marta's research. Years ago, Marta had a problem with [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) attacking the tower, so she summoned [hell hounds](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) to roam the wilds near her tower and keep the trolls at bay. She does not want the hell hounds to cause problems down the line, so she hires the characters to hunt a few to keep the population down. The characters discover they aren't the only ones killing hell hounds: a [hill giant](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) and a small gang of trolls are killing the hounds in preparation for an attack on Marta's tower!
+Marta Denizreitch (chaotic neutral, female, human mage) lives in a remote tower where she experiments with conjuration magic to develop new spells. The Cerberus Assembly funds Marta's research. Years ago, Marta had a problem with trolls attacking the tower, so she summoned hell hounds to roam the wilds near her tower and keep the trolls at bay. She does not want the hell hounds to cause problems down the line, so she hires the characters to hunt a few to keep the population down. The characters discover they aren't the only ones killing hell hounds: a hill giant and a small gang of trolls are killing the hounds in preparation for an attack on Marta's tower!
 
 #### Velvin Thicket
 
@@ -2361,7 +2361,7 @@ The gnome families that live in the Velvin Thicket are suspicious of outsiders. 
 
 ###### Dyolet Mounds (Mid Level)
 
-Herwin Melvot (chaotic neutral, male, forest gnome [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) attempted to grow a new kind of dyolet with magic. His experiment resulted in shambling mounds made of dyolet plants that terrorize the Thicket. The gnomes allow the characters into the forest if the adventurers slay the plant monsters.
+Herwin Melvot (chaotic neutral, male, forest gnome mage) attempted to grow a new kind of dyolet with magic. His experiment resulted in shambling mounds made of dyolet plants that terrorize the Thicket. The gnomes allow the characters into the forest if the adventurers slay the plant monsters.
 
 #### Vergesson Sanatorium
 
@@ -2369,7 +2369,7 @@ During the war between the Dwendalian Empire and the Julous Dominion, a vast pri
 
 The sanatorium's patients are treated for physical and mental ailments severe enough to require alchemical, magical, or experimental therapy. Helmed by Gertrude Wagner, the Sanatorium Director, the faculty is monitored by the Crown. The facility offers treatment to those who require assistance and can pay handsomely, but beneath the pleasant mansion lies a torturous oubliette for political prisoners.
 
-![Vergesson Sanatorium](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/060-03-12.webp#center)
+![Vergesson Sanatorium](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/060-03-12.webp#center)
 
 ##### A Dark Utility
 
@@ -2381,7 +2381,7 @@ Most who adventure in the Vergesson Sanatorium are trying to free a prisoner. Ju
 
 ###### Killing Regin (Mid Level)
 
-Regin Kavla (lawful evil, female, human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), a former spy for the Myriad, is trapped in the bowels of the Vergesson Sanatorium. Worried that she might share important secrets, the Myriad hires the characters to get into the prison, capture Regin, and delivered her to them, offering a hefty sum or some other reward—whatever it takes to get the job done. As the characters search for Regin, they uncover the hospital's dark secrets and must decide what to do with this disturbing information.
+Regin Kavla (lawful evil, female, human spy), a former spy for the Myriad, is trapped in the bowels of the Vergesson Sanatorium. Worried that she might share important secrets, the Myriad hires the characters to get into the prison, capture Regin, and delivered her to them, offering a hefty sum or some other reward—whatever it takes to get the job done. As the characters search for Regin, they uncover the hospital's dark secrets and must decide what to do with this disturbing information.
 
 ###### Patient Zero (High Level)
 
@@ -2435,13 +2435,13 @@ The shadow of the Myriad hanging over Yrrosa makes it a fine place for intrigue,
 
 ###### Blood Pact (High Level)
 
-A human blacksmith named Wilhelm Arrisgon never returned from his latest journey to collect a wagon of raw materials. Wilhelm's family hires the characters to find the smith, and they trace him to Yrrosa. During their investigation, the characters discover that several other solitary travelers have disappeared while passing through the city. Velima Shanglian, a [vampire](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) who lives in a hidden lair outside Yrrosa, turned the travelers into her [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md). The Myriad has a deal with the vampire and sends victims her way in exchange for help with various unsavory tasks. If the characters destroy the vampire, they make an enemy of the Myriad.
+A human blacksmith named Wilhelm Arrisgon never returned from his latest journey to collect a wagon of raw materials. Wilhelm's family hires the characters to find the smith, and they trace him to Yrrosa. During their investigation, the characters discover that several other solitary travelers have disappeared while passing through the city. Velima Shanglian, a vampire who lives in a hidden lair outside Yrrosa, turned the travelers into her vampire spawn. The Myriad has a deal with the vampire and sends victims her way in exchange for help with various unsavory tasks. If the characters destroy the vampire, they make an enemy of the Myriad.
 
 ## Greying Wildlands
 
 Pressed against the northeastern coast of Wynandir is a desert of ice and snow, separated from the Dwendalian Empire by the jagged Dunrock Mountains and the Quannah Breach. This landscape of dense, desiccated forests, rolling mountains, and icy tundra is known as the Greying Wildlands, the southern part of the Biting North that encompasses this region as well as the islands of Eiselcross. The empire has struggled to expand into the region, leaving its denizens to focus on their own survival in the harsh territory, where wandering outlanders and barbarous hunters stalk the unchecked wilderness. Tucked beyond the edge of the empire's reach, past the shadowed dangers of the dense, frozen foliage, lies the dwarven citadel of Uthodurn, which has become the home of many elves who survived the destruction of Molaesmyr.
 
-![Map 3.6: Greying Wildlands](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/061-3-6-greying-wildlands.webp#center)
+![Map 3.6: Greying Wildlands](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/061-3-6-greying-wildlands.webp#center)
 
 ### Areas (A-M)
 
@@ -2499,7 +2499,7 @@ Navigating Boroftkrah is its own adventure. To gain the trust of the orcs, the c
 
 ###### Storm Celebration (Low Level)
 
-When lightning splits the sky, the Boroftkrah orcs honor Kord with competitive games that last until the storm breaks. Characters who have earned the orcs' trust might find themselves volunteered as participants or judges during such a time. Meanwhile, an [orc eye of Gruumsh](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) leads a band of [orc](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) and [orog](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) warriors who have secretly begun worshiping the Ruiner. They plan to display their faith during the contest by turning the games into a bloodbath, hoping to convert other orcs with the promise of glorious bloodshed, and murder any who resist.
+When lightning splits the sky, the Boroftkrah orcs honor Kord with competitive games that last until the storm breaks. Characters who have earned the orcs' trust might find themselves volunteered as participants or judges during such a time. Meanwhile, an orc eye of Gruumsh leads a band of orc and orog warriors who have secretly begun worshiping the Ruiner. They plan to display their faith during the contest by turning the games into a bloodbath, hoping to convert other orcs with the promise of glorious bloodshed, and murder any who resist.
 
 #### Cinderrest Sanctum
 
@@ -2511,7 +2511,7 @@ This shrine has been watched over by the Dust family for generations, maintained
 
 During the Age of Arcanum, this land was a vibrant continuation of the Veluthil Forest. However, stories speak of a great battle during the Calamity that violently dashed this region into rock and sand. Winter quickly reclaimed the new desert, the sands freezing over with northern ice and snow. Tall dunes glitter like piles of diamonds in the daylight, shifting with high winds and the movements of the remorhazes and frost worms that burrow and hunt beneath the sands. Nomadic clans of northern goblins form hunting parties and ride winter wolves, stalking the furred beasts that call these frosted dunes home. Other beings stay hidden to avoid the giant hawks and giant owls that fly over from the Flotket Alps in search of prey. In times of fresh snowfall, travel is extremely dangerous, since the soft powder obscures the shifting sands and ice-marked tunnels that lead to the gnashing jaws of the subterranean frost worms. Some travelers have speculated that, depending on the winds, great structures of forgotten epochs become partially revealed as the sands and frost are temporarily scattered, only to be swallowed up once more as the dunes shift in the next storm.
 
-![Crystalsands Tundra](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/062-03-13.webp#center)
+![Crystalsands Tundra](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/062-03-13.webp#center)
 
 ##### Worshipers of the Worm
 
@@ -2523,7 +2523,7 @@ Traversing these endless fields of frozen dust is a thrilling and dangerous jour
 
 ###### Fair-Weather Friends (Mid Level)
 
-While crossing the wind-swept snow dunes, the characters encounter three young [remorhazes](/3-Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md) that do not attack. They are instead following Shwells (chaotic neutral, female, gnome [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)), who wields a recently scavenged pale, blue orb that keeps the creatures docile. She will not part with the orb and has grown attached to her monstrous companions, but characters with arcane knowledge will notice the orb is drawing more remorhazes to it from all across the tundra, and the magic that subdues the creatures appears to be rapidly fading.
+While crossing the wind-swept snow dunes, the characters encounter three young remorhazes that do not attack. They are instead following Shwells (chaotic neutral, female, gnome scout), who wields a recently scavenged pale, blue orb that keeps the creatures docile. She will not part with the orb and has grown attached to her monstrous companions, but characters with arcane knowledge will notice the orb is drawing more remorhazes to it from all across the tundra, and the magic that subdues the creatures appears to be rapidly fading.
 
 #### Flotket Alps
 
@@ -2535,7 +2535,7 @@ Icy spires and snowy paths wind though these mountains, leading travelers who su
 
 ###### A Deserving Dare (High Level)
 
-Hidden among the shallow chasms of ice is the lair of Yondis the Winter Star, an [androsphinx](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md) with pure white fur. It watches over the tomb of a heroic group of champions who sacrificed themselves in the final battles of the Calamity. Those who wish to claim the arms and instruments of these legendary figures must prove their worth to Yondis through numerous quests or challenges—and the sphinx has no mercy for those who fail.
+Hidden among the shallow chasms of ice is the lair of Yondis the Winter Star, an androsphinx with pure white fur. It watches over the tomb of a heroic group of champions who sacrificed themselves in the final battles of the Calamity. Those who wish to claim the arms and instruments of these legendary figures must prove their worth to Yondis through numerous quests or challenges—and the sphinx has no mercy for those who fail.
 
 #### Ivory Lake
 
@@ -2551,7 +2551,7 @@ The volcano attracts creatures dangerous enough to make traveling near Kravaraad
 
 ###### Vault of the Fire Giants (High Level)
 
-Kravaraad's [fire giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) have greedily amassed treasure since the time before the Calamity. To reach their subterranean vault, the characters must sneak by or carve through the latest creatures who have challenged the fire giants (often [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md) or other creatures that can endure the cold). But making it to the fire giants is only half the battle. The fire giants have hewn a vast dungeon under the mountain, and characters must navigate its perils while maintaining their balance whenever Kravaraad causes the entire complex to tremble. The vault itself is guarded by an enslaved [adult red dragon](/3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) that longs to be free.
+Kravaraad's fire giants have greedily amassed treasure since the time before the Calamity. To reach their subterranean vault, the characters must sneak by or carve through the latest creatures who have challenged the fire giants (often frost giants or other creatures that can endure the cold). But making it to the fire giants is only half the battle. The fire giants have hewn a vast dungeon under the mountain, and characters must navigate its perils while maintaining their balance whenever Kravaraad causes the entire complex to tremble. The vault itself is guarded by an enslaved adult red dragon that longs to be free.
 
 #### Mythburrow
 
@@ -2563,7 +2563,7 @@ Deep within the Mythburrow, something old and terrible shifts in seclusion, plot
 
 ###### Gelidon (High Level)
 
-All trade and communication from Palebank Village (described below) halts suddenly and without warning. When the characters are sent to investigate, they find the entire area transformed into a frozen nightmare, the village leveled and the remaining corpses locked within jagged ice. Uthodurnian scouts report sightings of the long-dormant [ancient white dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) Gelidon returning to its lair in Mythburrow.
+All trade and communication from Palebank Village (described below) halts suddenly and without warning. When the characters are sent to investigate, they find the entire area transformed into a frozen nightmare, the village leveled and the remaining corpses locked within jagged ice. Uthodurnian scouts report sightings of the long-dormant ancient white dragon Gelidon returning to its lair in Mythburrow.
 
 The Diarchy of Uthodurn puts out the call to all monster hunters and heroes, setting a handsome bounty on the head of Gelidon. The characters must now clamber down the twisting tunnels of the Mythburrow and destroy the powerful wyrm before their competition can claim the gold and glory.
 
@@ -2611,7 +2611,7 @@ Palebank Village would be a sleepy place without much excitement were it not for
 
 ###### Troll Night (Mid Level)
 
-While the characters stay in Palebank Village, the only survivor of an unlucky Glassblades patrol staggers into the village. An organized band of [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) is coming down from the Flotket Alps toward the settlement, which needs every able-bodied warrior to keep the trolls at bay. How did these trolls get so organized, and what do they seek in the village?
+While the characters stay in Palebank Village, the only survivor of an unlucky Glassblades patrol staggers into the village. An organized band of trolls is coming down from the Flotket Alps toward the settlement, which needs every able-bodied warrior to keep the trolls at bay. How did these trolls get so organized, and what do they seek in the village?
 
 #### Rime Plains
 
@@ -2631,7 +2631,7 @@ The ruins of Molaesmyr can tempt the characters into their dangers with the prom
 
 ###### Cackles in the Dark (Low Level)
 
-Auntie Rottongue, Nanny Filthtouch, and Granny Pustreat are a coven of [green hags](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md) living in the labyrinth beneath the ruins of Molaesmyr. The hags send their minions to steal children from Shadycreek Run, then use them as test subjects for new, dark rituals. The minions are supposed to take children who will not be missed, but when they kidnap a Mardoon child, the characters are hired to delve into the ruins and recover the victim while facing the hags' corrupted fey minions.
+Auntie Rottongue, Nanny Filthtouch, and Granny Pustreat are a coven of green hags living in the labyrinth beneath the ruins of Molaesmyr. The hags send their minions to steal children from Shadycreek Run, then use them as test subjects for new, dark rituals. The minions are supposed to take children who will not be missed, but when they kidnap a Mardoon child, the characters are hired to delve into the ruins and recover the victim while facing the hags' corrupted fey minions.
 
 #### Savalirwood
 
@@ -2639,7 +2639,7 @@ This area was once a beautiful thicket known as the Veluthil Forest, enchanted w
 
 Throughout the Savalirwood, a handful of small groves and clearings combat the magical miasma that infects the rest of the wood. Within many of these relatively protected locales, wild magic thrives and gentler (if slightly mad) fey guard the surrounding glades, often enthralling wandering humanoids and capturing them to keep the fey company—forever. A community of reserved, thick-furred tabaxi called the Nightback Clan lives among the dangers of the Savalirwood, occasionally coming to the aid of others in need, seeking allies in their struggle to survive.
 
-![Savalirwood](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/063-03-14.webp#center)
+![Savalirwood](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/063-03-14.webp#center)
 
 ##### The Nightback Clan
 
@@ -2655,13 +2655,13 @@ The Nightback Clan captured a merchant caravan traveling through the Savalirwood
 
 ###### Treantwatch (Mid Level)
 
-While traveling through the forest, the characters encounter a [treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md) who insists on guiding them safely through the Savalirwood. The treant claims to know every nook and cranny in the forest, as well as its dangers. On the surface, it seems very helpful. However, the curse afflicting the forest has driven the treant mad and made it delusional. All the dangers it describes are inventions of its twisted mind, and it has a knack for leading the characters into one perilous situation after another.
+While traveling through the forest, the characters encounter a treant who insists on guiding them safely through the Savalirwood. The treant claims to know every nook and cranny in the forest, as well as its dangers. On the surface, it seems very helpful. However, the curse afflicting the forest has driven the treant mad and made it delusional. All the dangers it describes are inventions of its twisted mind, and it has a knack for leading the characters into one perilous situation after another.
 
 The treant's refusal to divulge its name is the first clue that something is amiss. In truth, the treant no longer remembers its name.
 
 ###### Mapping the Gates (High Level)
 
-Erma Schnieb (chaotic neutral lightfoot halfling [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) believes that the curse infecting the Savalirwood creates portals to the Lower Planes. She hires the characters to explore the forest with her to find and map these gates. In addition to the usual nightmares that stalk the forest paths, fiends patrol the gates and attack anyone who tries to close the planar doors.
+Erma Schnieb (chaotic neutral lightfoot halfling mage) believes that the curse infecting the Savalirwood creates portals to the Lower Planes. She hires the characters to explore the forest with her to find and map these gates. In addition to the usual nightmares that stalk the forest paths, fiends patrol the gates and attack anyone who tries to close the planar doors.
 
 #### Shadycreek Run
 
@@ -2713,7 +2713,7 @@ What began as an extended string of shanties and shacks built along the southern
 
 The western end of the Clover Alley, known as the Wickerskids, is home to the scavengers and farmers who do their best to coax the harsh lands of the cold north to produce food for the people of Shadycreek Run. The central square of Clover Alley is named Clover Plaza and marks the heart of commerce, conflict, and vice within the city. In the plaza, all factions mingle in broad daylight, disguising their hidden agendas with a bawdy and loud lifestyle of indulgence and excess. The eastern end of Clover Alley, called the Gruff Slum, houses a cluster of peasants and cutpurses who live among drug dens and pig pens.
 
-![Streets of Shadycreek Run](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/064-03-15.webp#center)
+![Streets of Shadycreek Run](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/064-03-15.webp#center)
 
 ##### Shadycreek Run Adventures
 
@@ -2721,13 +2721,13 @@ Slack laws and the promise of easy money draw many opportunists to these dangero
 
 ###### A Stolen Heart (Low Level)
 
-At the Trench Tavern, the characters join a drinking game with some of the local Grudge Gang. Win or lose, an [orc](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) member of the gang, Dratto, reveals their connection with the Mardoon family. Dratto mentions that they need some hands to steal a Molaesmyr relic currently held by the Trebain family. The characters can turn Dratto into the Trebains to gain their favor or agree to aid in the theft.
+At the Trench Tavern, the characters join a drinking game with some of the local Grudge Gang. Win or lose, an orc member of the gang, Dratto, reveals their connection with the Mardoon family. Dratto mentions that they need some hands to steal a Molaesmyr relic currently held by the Trebain family. The characters can turn Dratto into the Trebains to gain their favor or agree to aid in the theft.
 
-If the characters agree to help Dratto, a dangerous burglary ensues. They must infiltrate a guarded shed outside the Wickerskids, only to discover the relic is actually a slumbering [pixie](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md). This creature wakes in the presence of the characters, when a mysterious aspect of one character's nature draws the pixie from out of its torpor and binds its affection to the character.
+If the characters agree to help Dratto, a dangerous burglary ensues. They must infiltrate a guarded shed outside the Wickerskids, only to discover the relic is actually a slumbering pixie. This creature wakes in the presence of the characters, when a mysterious aspect of one character's nature draws the pixie from out of its torpor and binds its affection to the character.
 
 ###### King's Spy (Any Level)
 
-Nella Durlon (lawful neutral, nonbinary, human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) lives in Shadycreek Run as a spy for the empire. They gather information about the settlement's defenses to take back to Oliver Schreiber (see ""Dwendalian Empire"" in chapter 2). The characters learn of Nella's job from a faction that hires them to find the spy. Depending on the faction, the characters must either escort Nella safely out of the settlement so they can report to Oliver, or ask that Nella be killed for giving away the settlement's secrets. Either way, finding Nella is no small task. The spy is a master of their craft and blends in with the criminals and ruffians of the Run.
+Nella Durlon (lawful neutral, nonbinary, human spy) lives in Shadycreek Run as a spy for the empire. They gather information about the settlement's defenses to take back to Oliver Schreiber (see ""Dwendalian Empire"" in chapter 2). The characters learn of Nella's job from a faction that hires them to find the spy. Depending on the faction, the characters must either escort Nella safely out of the settlement so they can report to Oliver, or ask that Nella be killed for giving away the settlement's secrets. Either way, finding Nella is no small task. The spy is a master of their craft and blends in with the criminals and ruffians of the Run.
 
 #### Uraliss
 
@@ -2739,7 +2739,7 @@ Characters might go to Uraliss to retrieve something left behind, study its arca
 
 ###### Haunted Temple of the All-Hammer (Low Level)
 
-The Boroftkrah orcs avoid Uraliss's temple of Moradin at all costs. The temple is filled with specters of dwarves and elves captured by a high priest who went mad and locked her congregation in the temple during the final orc raid. All her victims starved to death, as did the priest herself, who became a [wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md). The characters could come to this building to find a lost treasure of Moradin, or to escape other threats as they pass through the ruined town.
+The Boroftkrah orcs avoid Uraliss's temple of Moradin at all costs. The temple is filled with specters of dwarves and elves captured by a high priest who went mad and locked her congregation in the temple during the final orc raid. All her victims starved to death, as did the priest herself, who became a wraith. The characters could come to this building to find a lost treasure of Moradin, or to escape other threats as they pass through the ruined town.
 
 #### Uthodurn
 
@@ -2769,7 +2769,7 @@ Hidden among the icy peaks of the Flotket Alps, the northernmost dwarven strongh
 
 Beyond the iron doors of the city, the wildlands surrounding the underground stronghold are brutally cold and battered by cutting winds. The people of Uthodurn hunt and track in bursts, like sudden flurries of snow, stalking the wild white bison and cliffneck goats that call the Flotket Alps home. The dwarves and elves of Uthodurn have adapted to their environment, becoming skilled hunters and trackers as well as hearty travelers used to persisting through extreme conditions. As the hunter's saying goes, "squeezing water from a stone might be hard, but snaring a rabbit from the Flots is harder." A strong martial force is necessary to combat dangers such as frost giant clans and snow-faring goblinoid bands that hunt throughout the slopes and caverns of the mountain range, and the masters of Uthodurn have trained fierce warriors and spellslingers.
 
-![The fiery volcano Kravaraa...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/065-03-16.webp#center "The fiery volcano Kravaraad looms over the snow-covered Flotket Alps, home of the Diarchy of Uthodurn")
+![The fiery volcano Kravaraad looms over the snow-covered Flotket Alps, home of the Diarchy of Uthodurn](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/065-03-16.webp#center)
 
 ##### Dual Societies, Dual Skills
 
@@ -2807,15 +2807,15 @@ Travel to and from Uthodurn is its own adventure, given the severity of the surr
 
 ###### Awful Wails (Low Level)
 
-The characters are hired by the Glassblades to investigate a series of murders. Ancient elves, old enough to remember the destruction of Molaesmyr, are withering and dying in the streets at night. Witnesses all report hearing the same thing before finding the bodies: a horrible wail. The culprit is Myra Quirn, an elf who was turned into a [banshee](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) when she was left behind as her people fled Molaesmyr, and turned into a vengeful spirit by the dark magic of the ruins. After many years of searching, Myra found her still-living kin in Uthodurn, and she plans to exact revenge on every last elf that left her behind.
+The characters are hired by the Glassblades to investigate a series of murders. Ancient elves, old enough to remember the destruction of Molaesmyr, are withering and dying in the streets at night. Witnesses all report hearing the same thing before finding the bodies: a horrible wail. The culprit is Myra Quirn, an elf who was turned into a banshee when she was left behind as her people fled Molaesmyr, and turned into a vengeful spirit by the dark magic of the ruins. After many years of searching, Myra found her still-living kin in Uthodurn, and she plans to exact revenge on every last elf that left her behind.
 
 ###### Barren Shelves (Mid Level)
 
-Uthodurn's stock of food is running out as winter approaches. The monarchs sponsor a mammoth-hunting contest, offering a prize of 1,000 gp to the team that brings back the largest [mammoth](/3-Mechanics/CLI/bestiary/beast/mammoth-xmm.md). If the characters wish to partake, they must hunt and kill the largest mammoth possible, then deal with a rival crew of adventurers that tries to take their kill by force.
+Uthodurn's stock of food is running out as winter approaches. The monarchs sponsor a mammoth-hunting contest, offering a prize of 1,000 gp to the team that brings back the largest mammoth. If the characters wish to partake, they must hunt and kill the largest mammoth possible, then deal with a rival crew of adventurers that tries to take their kill by force.
 
 ###### A Dreadful Bore (High Level)
 
-The Kryn mount a daring incursion into Uthodurn, using [purple worms](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) to bore into the subterranean city. After breaching the outer wall of the Grand Disc, Kryn invaders storm the Grandcast Citadel and hold both monarchs hostage after they're pinned down and unable to escape with their captives. The Glassblades turn to the adventurers for help freeing the monarchs and bringing the Kryn invaders to justice.
+The Kryn mount a daring incursion into Uthodurn, using purple worms to bore into the subterranean city. After breaching the outer wall of the Grand Disc, Kryn invaders storm the Grandcast Citadel and hold both monarchs hostage after they're pinned down and unable to escape with their captives. The Glassblades turn to the adventurers for help freeing the monarchs and bringing the Kryn invaders to justice.
 
 ## Eiselcross
 
@@ -2825,19 +2825,19 @@ The flying city-state of Aeor, a place of inventors, magic, and progress, was hu
 
 Aeor was long believed to have been obliterated, and the gods' silence on the matter only furthered this conviction, so the books of lore left nothing more to be studied or discussed on the once-powerful nation. However, recent discoveries of Aeorian artifacts revealed the truth of Aeor's resting place and spurred rumors of arcane secrets frozen beneath the ice of Eiselcross. Now Dwendalian, Uthodurnian, Xhorhasian, and mercenary expeditions search the hazardous terrain for materials that could change the tide of the war between the Dwendalian Empire and the Kryn Dynasty.
 
-![Map 3.7: Eiselcross](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/066-3-7-eiselcross.webp#center)
+![Map 3.7: Eiselcross](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/066-3-7-eiselcross.webp#center)
 
 ### Encounters in Eiselcross
 
-Eiselcross is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a `dice:d20|noform|noparens|avg` (`d20`). On a result of 15 or higher, an encounter chosen or rolled on the Eiselcross Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
+Eiselcross is a land of strange magic, bizarre creatures, and fascinating people. Each day that the characters travel the land, roll a `d20`. On a result of 15 or higher, an encounter chosen or rolled on the Eiselcross Encounters table of the appropriate level occurs. Not all of these encounters are meant to result in combat, and the ideas on the tables can inspire encounters of your own creation.
 
-![Eiselcross Encounters: Levels 1–4](/3-Mechanics/CLI/tables/eiselcross-encounters-levels-14-egw.md)
+![Eiselcross Encounters: Levels 1–4](3-Mechanics/CLI/tables/eiselcross-encounters-levels-14-egw.md)
 
-![Eiselcross Encounters: Levels 5–10](/3-Mechanics/CLI/tables/eiselcross-encounters-levels-510-egw.md)
+![Eiselcross Encounters: Levels 5–10](3-Mechanics/CLI/tables/eiselcross-encounters-levels-510-egw.md)
 
-![Eiselcross Encounters: Levels 11–16](/3-Mechanics/CLI/tables/eiselcross-encounters-levels-1116-egw.md)
+![Eiselcross Encounters: Levels 11–16](3-Mechanics/CLI/tables/eiselcross-encounters-levels-1116-egw.md)
 
-![Eiselcross Encounters: Levels 17–20](/3-Mechanics/CLI/tables/eiselcross-encounters-levels-1720-egw.md)
+![Eiselcross Encounters: Levels 17–20](3-Mechanics/CLI/tables/eiselcross-encounters-levels-1720-egw.md)
 
 ### Islands of Eiselcross
 
@@ -2885,7 +2885,7 @@ For all their peace with each other, the wildfolk of Eiselcross are fierce warri
 
 ### Areas (A-M)
 
-![Aeor Crash Site](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/067-03-17.webp#center)
+![Aeor Crash Site](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/067-03-17.webp#center)
 
 #### Aeor Crash Site
 
@@ -2917,7 +2917,7 @@ A large facility in the city developed diseases meant to weaken and kill the god
 
 Frigid woe is a special disease developed by Aeor's mages that cannot be cured by conventional treatment or magic. The only way a creature infected with the disease can be cured is by finding and drinking the manufactured antidote, a milky liquid stored in gold vials found in Eiselcross's ruins. This disease was created to slow down the forces of the gods and get around the healing power of their clerics and angels.
 
-The disease is transmitted by breathing in blue spores that Aeor's mages created long ago. When a creature comes into contact with these spores, it must succeed on a DC 11 Constitution saving throw or become infected with frigid woe. It takes `dice:1d4|noform|noparens|avg` (`1d4`) days for the symptoms to manifest in an infected creature. These symptoms include fatigue, chills, and visible blue veins that appear on the creature's body. The infected creature's speed is reduced by 5 feet as long as it remains infected. Every 10 days after symptoms appear, an infected creature must succeed on a DC 11 Constitution saving throw, or its speed is reduced by another 5 feet. If a creature's speed is reduced to 0 as a result of this disease, the creature dies and its body turns into a statue made of ice.
+The disease is transmitted by breathing in blue spores that Aeor's mages created long ago. When a creature comes into contact with these spores, it must succeed on a DC 11 Constitution saving throw or become infected with frigid woe. It takes `1d4` days for the symptoms to manifest in an infected creature. These symptoms include fatigue, chills, and visible blue veins that appear on the creature's body. The infected creature's speed is reduced by 5 feet as long as it remains infected. Every 10 days after symptoms appear, an infected creature must succeed on a DC 11 Constitution saving throw, or its speed is reduced by another 5 feet. If a creature's speed is reduced to 0 as a result of this disease, the creature dies and its body turns into a statue made of ice.
 
 A creature can drink the antidote as an action, ending all symptoms and effects of the disease instantly.
 
@@ -2977,7 +2977,7 @@ The yetis of Allowak's Sanctuary are led by an abominable yeti named Brightheart
 
 ##### Allowak's Sanctuary Yeti Statistics
 
-The [yetis of Allowak's Sanctuary](/3-Mechanics/CLI/bestiary/monstrosity/allowak-yeti-egw.md) are [yetis](/3-Mechanics/CLI/bestiary/monstrosity/yeti-xmm.md) and [abominable yetis](/3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md), with these changes:
+The [yetis of Allowak's Sanctuary](3-Mechanics/CLI/bestiary/monstrosity/allowak-yeti-egw.md) are yetis and abominable yetis, with these changes:
 
 - Their alignments are neutral.  
 - Each has an Intelligence score of 16 (+3) and a Charisma score of 10 (+0).  
@@ -2989,9 +2989,9 @@ The characters could stumble across Allowak's Sanctuary or fight their way throu
 
 ###### A Matter of Trust (Mid Level)
 
-As the characters travel Foren, they find Dawnmind, a female Allowak [yeti](/3-Mechanics/CLI/bestiary/monstrosity/allowak-yeti-egw.md) (see "Allowak's Sanctuary Yeti Statistics") holding the tatters of a net as she lies in the snow, covered in claw wounds from others of her kind, with 1 hit point remaining. Three other yeti corpses, Dawnmind's companions, lie in the bloody snow nearby. Dawnmind begs the characters to escort her back to Allowak's Sanctuary along with the corpses. Her group failed to capture six wild yetis, but those yetis are nearby and stalk the characters if they help Dawnmind.
+As the characters travel Foren, they find Dawnmind, a female Allowak [yeti](3-Mechanics/CLI/bestiary/monstrosity/allowak-yeti-egw.md) (see "Allowak's Sanctuary Yeti Statistics") holding the tatters of a net as she lies in the snow, covered in claw wounds from others of her kind, with 1 hit point remaining. Three other yeti corpses, Dawnmind's companions, lie in the bloody snow nearby. Dawnmind begs the characters to escort her back to Allowak's Sanctuary along with the corpses. Her group failed to capture six wild yetis, but those yetis are nearby and stalk the characters if they help Dawnmind.
 
-If the characters travel to Allowak's Sanctuary with Dawnmind, Brightheart welcomes them as heroes and thanks them with a place to stay, provided that they swear to keep Allowak's Sanctuary a secret—or the [abominable yeti](/3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md) could order the characters to prove their loyalty by capturing a group of wild yetis or [mammoths](/3-Mechanics/CLI/bestiary/beast/mammoth-xmm.md) for her.
+If the characters travel to Allowak's Sanctuary with Dawnmind, Brightheart welcomes them as heroes and thanks them with a place to stay, provided that they swear to keep Allowak's Sanctuary a secret—or the abominable yeti could order the characters to prove their loyalty by capturing a group of wild yetis or mammoths for her.
 
 #### Balenpost
 
@@ -3015,7 +3015,7 @@ The residents here are outfitted with all they need to survive by the Cerberus A
 
 The Cerberus Assembly runs everything in the camp, but a few of King Bertrand Dwendal's spies are among the explorers' ranks.
 
-A fort of frozen logs stands on the southwestern edge of Foren, housing intrepid explorers overseen by the Cerberus Assembly. Every waking moment of life in Balenpost is dedicated to planning and executing expeditions to uncover Aeorian items on the island. Lady Vess de Rogna (see ""Cerberus Assembly"" in chapter 2) appointed Wardlow Akron (lawful evil, male, human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) to oversee day-to-day operations of the fort. The explorers say that Wardlow is harsher than the winds when it comes to rationing supplies and driving expeditions to go farther and faster in the hazardous tundra.
+A fort of frozen logs stands on the southwestern edge of Foren, housing intrepid explorers overseen by the Cerberus Assembly. Every waking moment of life in Balenpost is dedicated to planning and executing expeditions to uncover Aeorian items on the island. Lady Vess de Rogna (see ""Cerberus Assembly"" in chapter 2) appointed Wardlow Akron (lawful evil, male, human mage) to oversee day-to-day operations of the fort. The explorers say that Wardlow is harsher than the winds when it comes to rationing supplies and driving expeditions to go farther and faster in the hazardous tundra.
 
 ##### Icy Expeditions
 
@@ -3025,7 +3025,7 @@ Dwendalians with nothing to lose come to Balenpost to earn good pay, but many of
 
 ##### Horswell's Lab
 
-Balenpost is not just a place of discovery but also one of arcane experimentation. Wardlow Akron placed Korberta Horswell (chaotic neutral, female, rock gnome [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) in charge of the team that studies and tries to duplicate Aeorian items retrieved from the wilds of Eiselcross. The reckless mage and her team perform all manner of experiments to recreate items brought back from the wastes. These tests often go dangerously awry. Death and magical destruction are not uncommon results, and a few items have warped or twisted subjects into horrible monstrosities that are locked away somewhere secret in the lab.
+Balenpost is not just a place of discovery but also one of arcane experimentation. Wardlow Akron placed Korberta Horswell (chaotic neutral, female, rock gnome mage) in charge of the team that studies and tries to duplicate Aeorian items retrieved from the wilds of Eiselcross. The reckless mage and her team perform all manner of experiments to recreate items brought back from the wastes. These tests often go dangerously awry. Death and magical destruction are not uncommon results, and a few items have warped or twisted subjects into horrible monstrosities that are locked away somewhere secret in the lab.
 
 ##### Dwendalian Spies
 
@@ -3043,17 +3043,17 @@ The main reason for many characters to come to Balenpost is to seek out Aeorian 
 
 ###### Conviction (Low Level)
 
-Nathrow Arple (neutral evil, male, stout halfling [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)), a former enforcer for the Myriad, came to Balenpost with his old crew of four [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md). The group was captured fifteen years ago during the raid on the Myriad's central facility in Yrrosa. Nathrow got his imprisoned crew on the same exploration team, then they murdered their Cerberus Assembly leader and made off into the wilds of Eiselcross, looking to steal a fishing vessel. Wardlow Akron offers the characters 100 gp to hunt down the criminals and throws in a [gem of brightness](/3-Mechanics/CLI/items/gem-of-brightness-xdmg.md) if the characters bring back Nathrow alive (so the assembly can make an example of him). If the characters brave the dangers of Eiselcross and catch up to the criminals, Nathrow offers them anything within his power to avoid arrest and turns to combat if all else fails.
+Nathrow Arple (neutral evil, male, stout halfling bandit captain), a former enforcer for the Myriad, came to Balenpost with his old crew of four thugs. The group was captured fifteen years ago during the raid on the Myriad's central facility in Yrrosa. Nathrow got his imprisoned crew on the same exploration team, then they murdered their Cerberus Assembly leader and made off into the wilds of Eiselcross, looking to steal a fishing vessel. Wardlow Akron offers the characters 100 gp to hunt down the criminals and throws in a [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness.md) if the characters bring back Nathrow alive (so the assembly can make an example of him). If the characters brave the dangers of Eiselcross and catch up to the criminals, Nathrow offers them anything within his power to avoid arrest and turns to combat if all else fails.
 
 ###### Cold as Ice (High Level)
 
-An entire team of explorers was torn apart in the wastes just outside Balenpost. The tracks nearby indicate that only humanoids were involved in the struggle. Agents of the Dwendalian royal family send the characters to investigate, suspecting that one of the other teams ambushed the victims. Wardlow Akron is loath to cooperate with the characters since they are sent by the empire, and because he knows the responsibility for the attacks lies partly on his shoulders. The person behind the attacks is Mera Vacross, a female human transformed into a [vampire](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) by one of Korberta Horswell's experiments. The vampire escaped the lab and makes her home in a cave just outside Balenpost. If the characters take care of the vampire, Wardlow tries to bribe or threaten the characters to keep quiet about the monster's origins.
+An entire team of explorers was torn apart in the wastes just outside Balenpost. The tracks nearby indicate that only humanoids were involved in the struggle. Agents of the Dwendalian royal family send the characters to investigate, suspecting that one of the other teams ambushed the victims. Wardlow Akron is loath to cooperate with the characters since they are sent by the empire, and because he knows the responsibility for the attacks lies partly on his shoulders. The person behind the attacks is Mera Vacross, a female human transformed into a vampire by one of Korberta Horswell's experiments. The vampire escaped the lab and makes her home in a cave just outside Balenpost. If the characters take care of the vampire, Wardlow tries to bribe or threaten the characters to keep quiet about the monster's origins.
 
 ###### Spy Hunters (Any Level)
 
-The Cerberus Assembly learns that King Dwendal's [spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) have infiltrated Balenpost. They hire the characters to find and report the spies to Wardlow Akron. The characters might uncover Karta Meck's network of four spies within the camp or find a lead-lined box among Karta's supplies which holds a [sending stone](/3-Mechanics/CLI/items/sending-stones-xdmg.md) paired with another held by Oliver Schreiber (see ""Dwendalian Empire"" in chapter 2). If discovered, the spies attempt to win over the characters, promising an Aeorian item in exchange for helping to discover what secrets are hidden in Horswell's lab.
+The Cerberus Assembly learns that King Dwendal's spies have infiltrated Balenpost. They hire the characters to find and report the spies to Wardlow Akron. The characters might uncover Karta Meck's network of four spies within the camp or find a lead-lined box among Karta's supplies which holds a [sending stone](3-Mechanics/CLI/items/sending-stones.md) paired with another held by Oliver Schreiber (see ""Dwendalian Empire"" in chapter 2). If discovered, the spies attempt to win over the characters, promising an Aeorian item in exchange for helping to discover what secrets are hidden in Horswell's lab.
 
-![White dragons scour the is...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/068-03-18.webp#center "White dragons scour the islands of Eiselcross for food and treasure")
+![White dragons scour the islands of Eiselcross for food and treasure](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/068-03-18.webp#center)
 
 #### Fortress of the Dead Jarl
 
@@ -3065,7 +3065,7 @@ The Aeorian items within the fortress are enough to tempt most adventurers, but 
 
 ###### They're Free (Mid Level)
 
-When the characters arrive in Balenpost or Syrinlya, a [frost giant zombie](/3-Mechanics/CLI/bestiary/undead/frost-giant-zombie-egw.md) (see "chapter 7") attacks the camp. If the characters help defeat the giant, the leader of the camp tells the characters it is the third attack in as many days and asks them to find the source of the zombies. Characters can track the zombies back to the fortress. Each day the characters follow this path, roll any die. On an even result, the characters encounter `dice:1d4|noform|noparens|avg` (`1d4`) frost giant zombies. When they reach the fortress, they find that one of the walls is breached and must repair it to stop the zombies from leaving the castle. This breach could be natural or could be caused by a faction with a score to settle against the attacked outpost.
+When the characters arrive in Balenpost or Syrinlya, a [frost giant zombie](3-Mechanics/CLI/bestiary/undead/frost-giant-zombie-egw.md) (see "chapter 7") attacks the camp. If the characters help defeat the giant, the leader of the camp tells the characters it is the third attack in as many days and asks them to find the source of the zombies. Characters can track the zombies back to the fortress. Each day the characters follow this path, roll any die. On an even result, the characters encounter `1d4` frost giant zombies. When they reach the fortress, they find that one of the walls is breached and must repair it to stop the zombies from leaving the castle. This breach could be natural or could be caused by a faction with a score to settle against the attacked outpost.
 
 #### Mutalos
 
@@ -3085,7 +3085,7 @@ Each day at dawn, the habitat of Mutalos changes. You can choose or roll this ne
 
 ##### Mutalos Habitats
 
-![Mutalos Habitats](/3-Mechanics/CLI/tables/mutalos-habitats-egw.md)
+![Mutalos Habitats](3-Mechanics/CLI/tables/mutalos-habitats-egw.md)
 
 ##### Mutalos Adventures
 
@@ -3093,7 +3093,7 @@ Trying to find the origin of Mutalos's magic or simply traveling through the reg
 
 ###### Lost Staff (High Level)
 
-Farrhan Yost (lawful evil, female, human [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) was a part of the initial Cerberus Assembly team that explored Eiselcross. Now back on the mainland, she tells the characters she lost her [staff of power](/3-Mechanics/CLI/items/staff-of-power-xdmg.md) in Mutalos when the region was an ocean habitat, hoping it tempts them into exploring the region to find her old staff. As the characters search, she uses the [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md) spell to keep tabs on them. Should the characters discover her staff or any other interesting treasures, Farrhan teleports to their location with her shield guardian and offers a meager payment for the find. If the characters refuse, she attacks. Farrhan intends to get her staff back no matter what and wants to claim the characters' discoveries as her own.
+Farrhan Yost (lawful evil, female, human archmage) was a part of the initial Cerberus Assembly team that explored Eiselcross. Now back on the mainland, she tells the characters she lost her [staff of power](3-Mechanics/CLI/items/staff-of-power.md) in Mutalos when the region was an ocean habitat, hoping it tempts them into exploring the region to find her old staff. As the characters search, she uses the scrying spell to keep tabs on them. Should the characters discover her staff or any other interesting treasures, Farrhan teleports to their location with her shield guardian and offers a meager payment for the find. If the characters refuse, she attacks. Farrhan intends to get her staff back no matter what and wants to claim the characters' discoveries as her own.
 
 ### Areas (R-Z)
 
@@ -3109,7 +3109,7 @@ The river itself is best avoided, but characters can have interesting encounters
 
 ###### Haughty Efreet (High Level)
 
-A pair of [efreet](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) recently emerged from the River Inferno, and the characters are the first intelligent creatures they find. Using [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md) spells, the efreet demand that the characters tell them everything they know about this strange land, then demand that the characters point them in the direction of the nearest settlement. The efreet plan to enslave the settlement's inhabitants and put them to work building an obsidian tower on the shore of the River Inferno, where the efreet can stay whenever they deign to visit this dismally cold corner of the multiverse.
+A pair of efreet recently emerged from the River Inferno, and the characters are the first intelligent creatures they find. Using tongues spells, the efreet demand that the characters tell them everything they know about this strange land, then demand that the characters point them in the direction of the nearest settlement. The efreet plan to enslave the settlement's inhabitants and put them to work building an obsidian tower on the shore of the River Inferno, where the efreet can stay whenever they deign to visit this dismally cold corner of the multiverse.
 
 #### Syrinlya
 
@@ -3139,11 +3139,11 @@ Syrinlya is a collection of yurts filled with mercenary explorers from Uthodurn 
 
 Syrinlya has few laws, but its explorers look out for each other. This is a courtesy they learned at home in Uthodurn, where the dwarves and elves are interdependent. Most folks in Syrinlya share food when their hunts are good so that others return the favor when their luck runs out.
 
-Syrinlya doesn't suffer bullies. The honor system is enforced by the toughest explorers, who don't hesitate to take justice into their own hands. One such individual is the dwarf Morgo Delwur (neutral good, male [werebear](/3-Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md)), a staunch friend and an even more staunch holder of grudges. Gulgrim is content to allow the explorers to keep order, as it saves him from having to govern and allows him to go off on expeditions of his own.
+Syrinlya doesn't suffer bullies. The honor system is enforced by the toughest explorers, who don't hesitate to take justice into their own hands. One such individual is the dwarf Morgo Delwur (neutral good, male werebear), a staunch friend and an even more staunch holder of grudges. Gulgrim is content to allow the explorers to keep order, as it saves him from having to govern and allows him to go off on expeditions of his own.
 
 ##### The Buyer's Hut
 
-The largest yurt in the outpost is occupied by an elf called the Buyer (lawful neutral, nonbinary, high elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)). The Buyer was brought to Eiselcross by Professor Gulgrim Shalebrow to run the day-to-day operations of the camp while the dwarf explores. The Buyer keeps to themselves and refuses to share their real name, which is Elloway Tenvidas. When the Buyer acquires an object, they place the item into a large stone chest, which transports the object back to Uthodurn or Palebank Village. Some of the explorers think the chest could also be used to transport people, but none are brave enough to ask the mysterious Buyer or risk experimenting with the chest themselves.
+The largest yurt in the outpost is occupied by an elf called the Buyer (lawful neutral, nonbinary, high elf mage). The Buyer was brought to Eiselcross by Professor Gulgrim Shalebrow to run the day-to-day operations of the camp while the dwarf explores. The Buyer keeps to themselves and refuses to share their real name, which is Elloway Tenvidas. When the Buyer acquires an object, they place the item into a large stone chest, which transports the object back to Uthodurn or Palebank Village. Some of the explorers think the chest could also be used to transport people, but none are brave enough to ask the mysterious Buyer or risk experimenting with the chest themselves.
 
 ##### Syrinlya Adventures
 
@@ -3151,9 +3151,9 @@ The main reason for many characters to come to Syrinlya is to seek out Aoerian i
 
 ###### The Arcane Tree (Mid Level)
 
-While the characters are in Syrinlya, Morgo Delwur returns from an expedition with a bag of five green seeds from one of Eiselcross's Aeorian ruins. The [werebear](/3-Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md) lost a seed in the snow when showing them off, and a 15-foot-tall, green tree springs up overnight in the middle of the camp. Whenever a creature casts a spell that restores hit points or deals radiant damage to another creature within 90 feet of the tree, the tree uproots itself from the ground and attacks the creature. After killing the spellcasting creature and other threats, the tree replants its roots. Every `dice:1d10|noform|noparens|avg` (`1d10`) days the tree remains rooted, a new tree of the same type grows up from the ground within 30 feet. If the trees become a problem, Professor Gulgrim Shalebrow asks the characters to deal with them.
+While the characters are in Syrinlya, Morgo Delwur returns from an expedition with a bag of five green seeds from one of Eiselcross's Aeorian ruins. The werebear lost a seed in the snow when showing them off, and a 15-foot-tall, green tree springs up overnight in the middle of the camp. Whenever a creature casts a spell that restores hit points or deals radiant damage to another creature within 90 feet of the tree, the tree uproots itself from the ground and attacks the creature. After killing the spellcasting creature and other threats, the tree replants its roots. Every `1d10` days the tree remains rooted, a new tree of the same type grows up from the ground within 30 feet. If the trees become a problem, Professor Gulgrim Shalebrow asks the characters to deal with them.
 
-The [animated tree](/3-Mechanics/CLI/bestiary/plant/animated-tree-egw.md) uses the [treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md) stat block, with these changes:
+The [animated tree](3-Mechanics/CLI/bestiary/plant/animated-tree-egw.md) uses the treant stat block, with these changes:
 
 - It is unaligned.  
 - It has resistance against necrotic damage and radiant damage.  
@@ -3183,15 +3183,15 @@ The wildfolk that live here serve only Quajath, but they are friendly toward exp
 
 Three decades ago, a clan of wildfolk on Gelier found the exposed body of Quajath the Undermaw poking through the wall of an icy cave (see ""Lesser Idols"" in chapter 1). These accessible sections of the worm peek through the cave's ceiling and walls, and are still attached to the worm. The wildfolk who discovered this place consumed the Undermaw's exposed meat and found that it regrew. They now live in the cave, enjoying the easy, renewable source of food, and are now fully under the sway of the Undermaw. They invite others to join them, calling themselves wormkin.
 
-The people living in the Tomb of the Worm work together in harmony. Galgonos (chaotic neutral, male, human [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) with the wormkin template described below) is the leader of the settlement, and he organizes parties of wormkin that search Gelier and the rest of Eiselcross for more wildfolk to join their ranks. Outsiders often find the settlement charming because of how well the villagers get along, though a character who succeeds on a DC 15 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check can tell that the wormkin are more dangerous than they appear. The villagers offer the Undermaw's meat to visitors and force-feed it to those who refuse but would make worthy additions to the Undermaw's army.
+The people living in the Tomb of the Worm work together in harmony. Galgonos (chaotic neutral, male, human cult fanatic with the wormkin template described below) is the leader of the settlement, and he organizes parties of wormkin that search Gelier and the rest of Eiselcross for more wildfolk to join their ranks. Outsiders often find the settlement charming because of how well the villagers get along, though a character who succeeds on a DC 15 Wisdom (Insight) check can tell that the wormkin are more dangerous than they appear. The villagers offer the Undermaw's meat to visitors and force-feed it to those who refuse but would make worthy additions to the Undermaw's army.
 
 The wormkin have two goals: grow their numbers and free Quajath from the ice. What Quajath plans to have its followers do once it leaves the ice is known only to the Undermaw.
 
-![Tomb of the Worm](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/069-03-19.webp#center)
+![Tomb of the Worm](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/069-03-19.webp#center)
 
 ##### Wormkin Template
 
-Humanoids that consume the Undermaw's flesh ten or fewer days after it has been removed from Quajath must make a DC 15 Constitution saving throw or become wormkin `dice:1d6|noform|noparens|avg` (`1d6`) hours later. Wormkin can be identified by the black veins that cover their appendages and neck. Characters who become wormkin might become NPCs at the DM's discretion. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic removes all the wormkin features from a creature, restoring it to its original state. Wormkin gain the following features:
+Humanoids that consume the Undermaw's flesh ten or fewer days after it has been removed from Quajath must make a DC 15 Constitution saving throw or become wormkin `1d6` hours later. Wormkin can be identified by the black veins that cover their appendages and neck. Characters who become wormkin might become NPCs at the DM's discretion. A greater restoration spell or similar magic removes all the wormkin features from a creature, restoring it to its original state. Wormkin gain the following features:
 
 ###### Alignment
 
@@ -3215,9 +3215,9 @@ The characters might find adventure, allies, and adversaries in the Tomb of the 
 
 ###### Meat Thieves (Low Level)
 
-As the characters explore Gelier, they cross paths with a group of four wildfolk commoners led by Jarinmine (chaotic good, female, lightfoot halfling [scout](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)). The halfling begs them to take a 300-pound package of meat to the sea and dump it in the icy water. She warns the characters not to eat it and offers them her ivory necklace (worth 100 gp) if they agree to the task. If pressed, she says the meat is tainted and that it turns people into slaves for Galgonos. Jarinmine stole the meat from the wormkin because she believes the diet poisons their minds. She needs to get back to the Tomb of the Worm before Galgonos realizes what she's done.
+As the characters explore Gelier, they cross paths with a group of four wildfolk commoners led by Jarinmine (chaotic good, female, lightfoot halfling scout). The halfling begs them to take a 300-pound package of meat to the sea and dump it in the icy water. She warns the characters not to eat it and offers them her ivory necklace (worth 100 gp) if they agree to the task. If pressed, she says the meat is tainted and that it turns people into slaves for Galgonos. Jarinmine stole the meat from the wormkin because she believes the diet poisons their minds. She needs to get back to the Tomb of the Worm before Galgonos realizes what she's done.
 
-Before the characters reach the sea, six wormkin catch up to them. Their leader is Redjaw (chaotic neutral, female, human [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)), and the others are cultists, all with the wormkin template applied. Redjaw demands that the characters give back the food that was stolen and forces a fight if the characters refuse. If the characters return the meat, Redjaw invites them back to the Tomb of the Worm. If the characters go to the village, they find that Jarinmine and her friends have been captured by the wormkin and are about to be executed for their crimes.
+Before the characters reach the sea, six wormkin catch up to them. Their leader is Redjaw (chaotic neutral, female, human cult fanatic), and the others are cultists, all with the wormkin template applied. Redjaw demands that the characters give back the food that was stolen and forces a fight if the characters refuse. If the characters return the meat, Redjaw invites them back to the Tomb of the Worm. If the characters go to the village, they find that Jarinmine and her friends have been captured by the wormkin and are about to be executed for their crimes.
 
 #### Vurmas
 
@@ -3243,13 +3243,13 @@ The people of Vurmas are not associated with any organizations beyond the Kryn D
 
 Vurmas is a floating outpost for the Kryn Dynasty near the north shore of Gelier, and the dynasty keeps Vurmas secret from other factions. The Kryn established this base near Eiselcross's second-largest island not to find Aeorian items but to make allies of Eiselcross's wildfolk.
 
-![Vurmas](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/070-03-20.webp#center)
+![Vurmas](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/070-03-20.webp#center)
 
 ##### Floating Outpost
 
 Vurmas is not a true settlement: it's actually three sailing ships tied together and anchored near the north shore of Gelier. These boats are the *New Radiance*, the *Candlefire*, and the *Soulsailor*. At any given moment, one of the ships could be traveling to Xhorhas with a hold full of new Luxon-worshiping wildfolk converts or on the way back to Eiselcross with more supplies.
 
-The Kryn's explorers stay on the boats when they can, bringing supplies to shore when they go out in search of allies. These ships are maintained and run by Captain Hallwas Denalor (lawful neutral, female, dark elf [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), while Norca Brighttusk (neutral, female, orc [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md)) leads the expedition teams.
+The Kryn's explorers stay on the boats when they can, bringing supplies to shore when they go out in search of allies. These ships are maintained and run by Captain Hallwas Denalor (lawful neutral, female, dark elf veteran), while Norca Brighttusk (neutral, female, orc priest) leads the expedition teams.
 
 ##### Ally Recruitment
 
@@ -3265,15 +3265,15 @@ The main reason for characters allied with the Kryn Dynasty to come to Vurmas is
 
 ###### Keep Us Secret (Low Level)
 
-Kryn spies report that the Bold Adventurer, a scouting ship from the Dwendalian Empire, is planning to visit the island of Gelier, near Vurmas. Captain Hallwas Denalor and Norca Brighttusk don't want the Bold Adventurer's crew to see Vurmas or reach Gelier, ensuring that the Kryn's operation in Eiselcross and the settlement of the wormkin remain secret. The pair offer the characters 500 gp to stop the Bold Adventurer's approach. The Bold Adventurer is a keelboat (see the Airborne and Waterborne Vehicles table in [chapter 5](/3-Mechanics/CLI/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide") that carries six [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md). The captain of the Bold Adventurer, Sally Brizzberm, has a sending stone that she uses to communicate with the captain of a Dwendalian warship called the Bright Queen's Doom. If her ship is attacked, Sally uses the stone to send a warning to the warship, which might threaten Vurmas in the future.
+Kryn spies report that the Bold Adventurer, a scouting ship from the Dwendalian Empire, is planning to visit the island of Gelier, near Vurmas. Captain Hallwas Denalor and Norca Brighttusk don't want the Bold Adventurer's crew to see Vurmas or reach Gelier, ensuring that the Kryn's operation in Eiselcross and the settlement of the wormkin remain secret. The pair offer the characters 500 gp to stop the Bold Adventurer's approach. The Bold Adventurer is a keelboat (see the Airborne and Waterborne Vehicles table in [chapter 5](3-Mechanics/CLI/tables/owning-a-ship-airborne-and-waterborne-vehicles.md) of the "Dungeon Master's Guide") that carries six scouts. The captain of the Bold Adventurer, Sally Brizzberm, has a [sending stone](3-Mechanics/CLI/items/sending-stone-ai.md) that she uses to communicate with the captain of a Dwendalian warship called the Bright Queen's Doom. If her ship is attacked, Sally uses the stone to send a warning to the warship, which might threaten Vurmas in the future.
 
 ###### Save Our Ships (Mid Level)
 
-While the characters are aboard one of Vurmas's boats, three wildfolk [druids](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md), each riding on the back of a [killer whale](/3-Mechanics/CLI/bestiary/beast/killer-whale-xmm.md), attack the boats. The druids are angry that wildfolk are leaving Eiselcross in droves to go to Xhorhas. They believe that the Kryn are using enchantment magic against these wildfolk, tricking them into leaving their friends and family. The druids use hit-and-run tactics, dealing as much damage as possible before fleeing. Captain Hallwas Denalor asks the characters to deal with the attackers. The druids could be open to negotiation, or they might fight with their dying breath for their beliefs.
+While the characters are aboard one of Vurmas's boats, three wildfolk druids, each riding on the back of a killer whale, attack the boats. The druids are angry that wildfolk are leaving Eiselcross in droves to go to Xhorhas. They believe that the Kryn are using enchantment magic against these wildfolk, tricking them into leaving their friends and family. The druids use hit-and-run tactics, dealing as much damage as possible before fleeing. Captain Hallwas Denalor asks the characters to deal with the attackers. The druids could be open to negotiation, or they might fight with their dying breath for their beliefs.
 
 > [!note] Moorbounders
 > 
-> Beasts of burden are common throughout Xhorhas, and often horses and other riding animals are the best or only option. For those who require speed and have a little more coin to spend, the best option is often a [moorbounder](/3-Mechanics/CLI/bestiary/beast/moorbounder-egw.md) (see "chapter 7"). However, moorbounders that haven't undergone proper training or established bonds of trust with their masters tend to attack and even eat their riders.
+> Beasts of burden are common throughout Xhorhas, and often horses and other riding animals are the best or only option. For those who require speed and have a little more coin to spend, the best option is often a [moorbounder](3-Mechanics/CLI/bestiary/beast/moorbounder-egw.md) (see "chapter 7"). However, moorbounders that haven't undergone proper training or established bonds of trust with their masters tend to attack and even eat their riders.
 > 
 > Moorbounders can cost anywhere from 300 to 500 gp each. They're often cheaper and more abundant in towns on the wastes than in cities like Rosohna.
 ^moorbounders
@@ -3286,7 +3286,7 @@ All manner of beastfolk, goblinkin, and nomadic outlanders claim the marshes and
 
 The dark elves of the Kryn Dynasty worship the Luxon, a mysterious deity of light, after rejecting the evil designs of Lolth long ago. Nevertheless, the Spider Queen's venomous will still seeps into the dynasty, as she and her devotees plot revenge.
 
-![Map 3.8: Wastes of Xorhas](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/071-3-8-wastes-of-xhorhas.webp#center)
+![Map 3.8: Wastes of Xorhas](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/071-3-8-wastes-of-xhorhas.webp#center)
 
 ### Areas (A-D)
 
@@ -3316,7 +3316,7 @@ Encircling and covering a massive, cracked hillside in the center of northern Xh
 
 Although the establishment of Asarius was initially fraught, the city quickly grew into a symbol of unity for the scattered cultures of northern Xhorhas, who eschewed the dangerous, competitive fight for survival to instead focus on building a community. In the generations since, the city has blossomed into a tangled web of quirky neighborhoods, filled with industry and musky scents. The muddy plains outside are tilled for hearty roots and produce, monstrous livestock are herded and kept in large pens and pits, and a growing force of Aurora Watch soldiers train and prepare to battle the forces of the Dwendalian Empire.
 
-![Asarius, the City of Beasts](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/072-03-21.webp#center)
+![Asarius, the City of Beasts](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/072-03-21.webp#center)
 
 ##### Forged in Frenzy
 
@@ -3346,11 +3346,11 @@ Characters might come to the City of Beasts to find a reliable war beast, receiv
 
 ###### War Beast Escape (Mid Level)
 
-While the characters stay in Asarius, [spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) from the Dwendalian Empire infiltrate the city and simultaneously release war beasts from their pens after enraging them with whips and hot irons. As the characters try to stop the rampage, they learn that the spies are using the confusion to steal the city's secrets.
+While the characters stay in Asarius, spies from the Dwendalian Empire infiltrate the city and simultaneously release war beasts from their pens after enraging them with whips and hot irons. As the characters try to stop the rampage, they learn that the spies are using the confusion to steal the city's secrets.
 
 ###### Echo of the Past (Mid Level)
 
-A chaotic good, male, dranassar survivor named Jibu-Corryn has been living as a dark elf in Asarius under the name of Alyxikon, a minor government secretary. A cult of [hobgoblins](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) and [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) who call themselves the Lords of Strife are hunting Jibu after hearing a rumor that one of the last of the dranassar are hiding in Asarius. Their leader, a hobgoblin captain named Gorthux, possesses the power to transform into a [bone devil](/3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md) once per day, and plans to offer Jibu as a sacrifice to Bane.
+A chaotic good, male, dranassar survivor named Jibu-Corryn has been living as a dark elf in Asarius under the name of Alyxikon, a minor government secretary. A cult of hobgoblins and bugbears who call themselves the Lords of Strife are hunting Jibu after hearing a rumor that one of the last of the dranassar are hiding in Asarius. Their leader, a hobgoblin captain named Gorthux, possesses the power to transform into a bone devil once per day, and plans to offer Jibu as a sacrifice to Bane.
 
 Jibu has heard tales of the characters' prowess and contacts them with a cryptic note. He begs for protection while he settles his affairs in Asarius and travels to a hermitage in Blightshore.
 
@@ -3360,7 +3360,7 @@ The valley north of Rosohna is covered by this broken and marred landscape of ja
 
 However, powerful relics and armaments have been recovered from these ancient battlefields, so the strong and the stupid occasionally venture into the dangerous fields, often finding themselves hunted by the monsters that lurk in this ruined domain. It is rumored that toward the center of the barren fields grows a beautiful, towering tree that grew from the final seed left by Melora before she vanished to her realm beyond the Divine Gate. Powerful followers of the Wild Mother sometimes make a pilgrimage to this tree for guidance and communion, but the fields are so fraught with evil that few ever return.
 
-![Barbed Fields](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/073-03-22.webp#center)
+![Barbed Fields](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/073-03-22.webp#center)
 
 ##### Barbed Fields Adventures
 
@@ -3368,7 +3368,7 @@ The deeply wounded lands of the Barbed Fields are rife with planar entities blee
 
 ###### Dark Days (Epic Level)
 
-The extremely rare double eclipse, when the moons Catha and Ruidis overlap before the sun, is approaching, and it will occur over Xhorhas. Seers and oracles warn of portents that speak of an uncontrollable planar crossover, where multiple planes might briefly collide. The Kryn Dynasty hires the characters to bolster their ranks in preparation—but no one is prepared for the army from the Nine Hells that invades the fields when the realms merge. Leading this evil army is a [pit fiend](/3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) named Vanatoth.
+The extremely rare double eclipse, when the moons Catha and Ruidis overlap before the sun, is approaching, and it will occur over Xhorhas. Seers and oracles warn of portents that speak of an uncontrollable planar crossover, where multiple planes might briefly collide. The Kryn Dynasty hires the characters to bolster their ranks in preparation—but no one is prepared for the army from the Nine Hells that invades the fields when the realms merge. Leading this evil army is a pit fiend named Vanatoth.
 
 #### Bazzoxan
 
@@ -3476,7 +3476,7 @@ Finding Charis is an adventure the characters might undertake to locate a person
 
 ###### Overlord of the Overgrowth (Mid Level)
 
-A demon has made the forest bordering Charis its lair. Every day, the [hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) Garlagrag attempts to summon more and more demons into the forest, and the woods are now flush with hezrous and [dretches](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md). The people of Charis seek aid to fight off the demons or to end Garlagrag's plot once and for all.
+A demon has made the forest bordering Charis its lair. Every day, the hezrou Garlagrag attempts to summon more and more demons into the forest, and the woods are now flush with hezrous and dretches. The people of Charis seek aid to fight off the demons or to end Garlagrag's plot once and for all.
 
 #### Deepriver Mine and Icozrin Steelworks
 
@@ -3494,7 +3494,7 @@ Characters might come to Dreemoth Ravine to capture and train a flying mount, or
 
 ###### Bones of Frigid Doom (Epic Level)
 
-A [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) named Pentrakath lurks in a cave in the Dreemoth Ravine, and he has uncovered the bones of Vorugal, the [ancient white dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) that destroyed Draconia twenty years ago. He gathered a host of profane relics and stole the souls of hundreds of dead dragonborn in an attempt to stitch together a soul powerful enough to resurrect Vorugal as an ancient white dracolich (see "Monster Manual").
+A death knight named Pentrakath lurks in a cave in the Dreemoth Ravine, and he has uncovered the bones of Vorugal, the ancient white dragon that destroyed Draconia twenty years ago. He gathered a host of profane relics and stole the souls of hundreds of dead dragonborn in an attempt to stitch together a soul powerful enough to resurrect Vorugal as an ancient white dracolich (see "Monster Manual").
 
 #### Dumaran
 
@@ -3560,7 +3560,7 @@ These muck-laden fields of swamp and grass hide many lost secrets that have sunk
 
 ###### Lost Resting Place (Mid Level)
 
-A disorganized clan of [cyclopes](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md) wander the moorland, searching for the grave of their founding champion who died hundreds of years ago. They might parlay with the characters and are willing to trade fine, rare items for aid in seeking out their champion's resting place. When the grave is discovered, the cyclopes immediately begin a ceremony that raises the bones of their founder from the muck into a new existence as a giant. The characters can decide to halt the ritual, angering the cyclopes, or learn later that the clan is terrorizing the tribes of the moorland.
+A disorganized clan of cyclopes wander the moorland, searching for the grave of their founding champion who died hundreds of years ago. They might parlay with the characters and are willing to trade fine, rare items for aid in seeking out their champion's resting place. When the grave is discovered, the cyclopes immediately begin a ceremony that raises the bones of their founder from the muck into a new existence as a giant. The characters can decide to halt the ritual, angering the cyclopes, or learn later that the clan is terrorizing the tribes of the moorland.
 
 #### Jigow
 
@@ -3614,7 +3614,7 @@ Characters in Jigow might get pulled into local competitions, or they might be k
 
 ###### Battle of the Braggarts (Low Level)
 
-At a tavern, the adventurers witness two braggarts engage in a boast-off. The two boasters, a battle-scarred old [orc](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) named Temgor and a young [goblin](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named Gerb, are both prideful and refuse to back down. It seems like the conflict is going to come to blows, and both Temgor and Gerb's friends separately ask the adventurers to defuse the tensions before the Aurora Watch gets involved.
+At a tavern, the adventurers witness two braggarts engage in a boast-off. The two boasters, a battle-scarred old orc named Temgor and a young goblin named Gerb, are both prideful and refuse to back down. It seems like the conflict is going to come to blows, and both Temgor and Gerb's friends separately ask the adventurers to defuse the tensions before the Aurora Watch gets involved.
 
 #### Lotusden Greenwood
 
@@ -3632,7 +3632,7 @@ The characters might enter the forest to retrieve someone who is lost or to esca
 
 ###### Mother's Milk (Mid Level)
 
-Someone or something has been kidnapping the infants and children of Charis. A terrible evil lurks at the heart of the matter: an unholy coven of hags, led by a [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) of prodigious influence and power. The hag preside over a dark corner of the Greenwood, where they lair beneath the roots of a gargantuan tree. Here, the nightmarish coven and its minions manufacture the slow doom of the Greenwood itself as they siphon the lifeblood of the Charis children into a loathsome artifact known as the Gloom Lathe.
+Someone or something has been kidnapping the infants and children of Charis. A terrible evil lurks at the heart of the matter: an unholy coven of hags, led by a night hag of prodigious influence and power. The hag preside over a dark corner of the Greenwood, where they lair beneath the roots of a gargantuan tree. Here, the nightmarish coven and its minions manufacture the slow doom of the Greenwood itself as they siphon the lifeblood of the Charis children into a loathsome artifact known as the Gloom Lathe.
 
 #### Many Hosts of Igrathad
 
@@ -3700,7 +3700,7 @@ Characters could come to Igrathad seeking help from a powerful giant, or to help
 
 ###### Necromancer's Army (Mid Level)
 
-An exiled Dolorav necromancer has allied himself with a clan of bloodthirsty [minotaurs](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) to manufacture an army of undead, whose slow expansion poses a threat to Igrathad. Each of Igrathad's seven villages appoints a champion to march with Dolorav and Koshtask warriors against this cruel usurper and his legion of unholy monstrosities. The characters must join the fight if they want the villages to help them with some other matter.
+An exiled Dolorav necromancer has allied himself with a clan of bloodthirsty minotaurs to manufacture an army of undead, whose slow expansion poses a threat to Igrathad. Each of Igrathad's seven villages appoints a champion to march with Dolorav and Koshtask warriors against this cruel usurper and his legion of unholy monstrosities. The characters must join the fight if they want the villages to help them with some other matter.
 
 #### Penumbra Range
 
@@ -3736,11 +3736,11 @@ Rosohna is the center of the powerful Kryn society, a symbol of dark history rec
 
 The streets are lively with city-dwelling wastefolk, the Luxon-worshiping drow who live beneath the open sky to spite Lolth's design, and even a few duergar and other beings from the Underdark. Local businesses thrive as the Xhorhasian community grows, and goblinoid merchants have found profit and comfort within this dark elf civilization. Even so, most people beyond the borders of Xhorhas only see Rosohna as an unbroken link in the legacy of Ghor Dranas, a city born of malevolent gods and their murderous spawn.
 
-![Map 3.9: Rosohna](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/074-3-9-rosohna-player.webp#center)
+![Map 3.9: Rosohna](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/074-3-9-rosohna-player.webp#center)
 
 ##### A Collection of Characters
 
-As the Kryn discovered their cycle of reincarnation, many began to find beings outside the drow lineage undergoing anamnesis, the process in which a creature reincarnated by a [Luxon beacon](/3-Mechanics/CLI/items/luxon-beacon-egw.md) begins to recall memories from its past lives. Unexpectedly, the spirits of heroic Kryn were reborn in various intelligent creatures outside the dark elf society. With this knowledge, the ruling dens of the Kryn Dynasty began to reevaluate their treatment of non-drow, instead seeking to bring the light of the Luxon to the wastefolk of Xhorhas. While many beings across Xhorhas and beyond still cultivate mutual animosity toward the Kryn, there is a growing number of goblins, ogres, gnolls, orcs, and many other beings who have found a new home and purpose under the rule of the dynasty. Thanks to the miracle of anamnesis, Kryn society has become a diverse and thriving community that spreads across Xhorhas.
+As the Kryn discovered their cycle of reincarnation, many began to find beings outside the drow lineage undergoing anamnesis, the process in which a creature reincarnated by a [Luxon beacon](3-Mechanics/CLI/items/luxon-beacon-egw.md) begins to recall memories from its past lives. Unexpectedly, the spirits of heroic Kryn were reborn in various intelligent creatures outside the dark elf society. With this knowledge, the ruling dens of the Kryn Dynasty began to reevaluate their treatment of non-drow, instead seeking to bring the light of the Luxon to the wastefolk of Xhorhas. While many beings across Xhorhas and beyond still cultivate mutual animosity toward the Kryn, there is a growing number of goblins, ogres, gnolls, orcs, and many other beings who have found a new home and purpose under the rule of the dynasty. Thanks to the miracle of anamnesis, Kryn society has become a diverse and thriving community that spreads across Xhorhas.
 
 ##### The Dusk City
 
@@ -3786,7 +3786,7 @@ Near the center of Rosohna, travelers will find the Firmaments, where the haunte
 
 ###### Lucid Bastion
 
-Located at the very center of Rosohna is the awe-inspiring and towering citadel of the Lucid Bastion. This impressive cathedral is built from the ruins of Virkwzual and now stands as the symbol of Kryn rebirth and their faith in the light of the Luxon. The Lucid Bastion's spires of gray quartz pierce the sky, and the soft interior glow that suffuses the interior chambers never darkens, shining over the city day and night. Major religious events are centered around the Bastion, for it houses the "heart of consecution," the first [Luxon beacon](/3-Mechanics/CLI/items/luxon-beacon-egw.md) to have been discovered. Within these halls, the Bright Queen, her trusted Umavi, and their Dens work to govern and protect all citizens of the Kryn Dynasty.
+Located at the very center of Rosohna is the awe-inspiring and towering citadel of the Lucid Bastion. This impressive cathedral is built from the ruins of Virkwzual and now stands as the symbol of Kryn rebirth and their faith in the light of the Luxon. The Lucid Bastion's spires of gray quartz pierce the sky, and the soft interior glow that suffuses the interior chambers never darkens, shining over the city day and night. Major religious events are centered around the Bastion, for it houses the "heart of consecution," the first [Luxon beacon](3-Mechanics/CLI/items/luxon-beacon-egw.md) to have been discovered. Within these halls, the Bright Queen, her trusted Umavi, and their Dens work to govern and protect all citizens of the Kryn Dynasty.
 
 ###### Shadowshire
 
@@ -3804,15 +3804,15 @@ To outsiders, Rosohna is a city of bizarre wonders, but to its residents, it is 
 
 ###### An Early Dawn (Any Level)
 
-While the characters are visiting Rosohna, the shadows above the city suddenly disappear, letting in harsh light that hinders the [drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and [duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) residents. Is this phenomenon part of an imminent attack, or did the Kryn Dynasty anger the Luxon and must figure out a way to regain their god's favor?
+While the characters are visiting Rosohna, the shadows above the city suddenly disappear, letting in harsh light that hinders the drow and duergar residents. Is this phenomenon part of an imminent attack, or did the Kryn Dynasty anger the Luxon and must figure out a way to regain their god's favor?
 
 ###### A Bloody Dawn (Mid Level)
 
-During a particularly clear day, the [priests](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of the Luxon dispel the darkness above the city for a moment of prayer. While the denizens bask in the light, agents of the Children of Malice strike, attacking and trying to kidnap influential members of the dynasty's clergy. The characters must stop the assault, root out the hidden traitors behind this plan, and save any surviving prisoners.
+During a particularly clear day, the priests of the Luxon dispel the darkness above the city for a moment of prayer. While the denizens bask in the light, agents of the Children of Malice strike, attacking and trying to kidnap influential members of the dynasty's clergy. The characters must stop the assault, root out the hidden traitors behind this plan, and save any surviving prisoners.
 
 ###### Ghor Dranas Returns (Epic Level)
 
-The Cerberus Assembly sends several disguised [archmages](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) to reopen the sealed rifts in Rosohna, hoping to destroy the dynasty by filling the city with otherworldly threats. The characters might be part of the plot, or they might work to stop it.
+The Cerberus Assembly sends several disguised archmages to reopen the sealed rifts in Rosohna, hoping to destroy the dynasty by filling the city with otherworldly threats. The characters might be part of the plot, or they might work to stop it.
 
 #### Ruins of Draconia
 
@@ -3832,7 +3832,7 @@ Those brave enough to delve into the ruins of Draconia can find treasures and a 
 
 ###### Former Glory (Low Level)
 
-A cabal of disaffected draconblood dragonborn have been secretly assembling in the ruins of their former metropolis. They are guided by the whispers of a [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) who promises them the power to reassert control over the ravenites. They have begun learning necromancy and even making minor sacrifices in his name. The death knight, Pentrakath, is currently gathering artifacts elsewhere in Wildemount, but will soon use his cultists and cult fanatics to carry out his twisted plans, if no one intervenes (see ""Dreemoth Ravine Adventures"" earlier in this chapter).
+A cabal of disaffected draconblood dragonborn have been secretly assembling in the ruins of their former metropolis. They are guided by the whispers of a death knight who promises them the power to reassert control over the ravenites. They have begun learning necromancy and even making minor sacrifices in his name. The death knight, Pentrakath, is currently gathering artifacts elsewhere in Wildemount, but will soon use his cultists and cult fanatics to carry out his twisted plans, if no one intervenes (see ""Dreemoth Ravine Adventures"" earlier in this chapter).
 
 ### Areas (S-Z)
 
@@ -3850,11 +3850,11 @@ Characters exploring the Sorrowseep Waters encounter all manner of strange creat
 
 ###### Something Borrowed (Low Level)
 
-One of the characters is contacted by a close childhood friend or family member to announce their sudden betrothal to a passionate love interest. This union is taboo, however, for the love interest is actually a [green hag](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md). The character is invited to be a member of the wedding party—but something about this marriage seems fishy.
+One of the characters is contacted by a close childhood friend or family member to announce their sudden betrothal to a passionate love interest. This union is taboo, however, for the love interest is actually a green hag. The character is invited to be a member of the wedding party—but something about this marriage seems fishy.
 
 ###### Entangled (High Level)
 
-A gnome inventor claims to have created a submersible vessel that can survive the lightless journey through the Tanglebed, past the known depths of the Sorrowseep. He hires the characters to help him helm the machine. Together, they discover a mysterious location beneath the lake, where a [marid](/3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) is gathering a cult to purge the nearby rivers of civilization.
+A gnome inventor claims to have created a submersible vessel that can survive the lightless journey through the Tanglebed, past the known depths of the Sorrowseep. He hires the characters to help him helm the machine. Together, they discover a mysterious location beneath the lake, where a marid is gathering a cult to purge the nearby rivers of civilization.
 
 #### Urzin
 
@@ -3884,7 +3884,7 @@ A uniquely mobile settlement with its permanent dwellings built on the backs of 
 
 The swampfolk of Urzin have always prized strength and guile: their leader is simply the reigning champion of one-on-one combat. The previous champion, Ogre Lord Buhfal, ruled the settlement for decades, assaulting the encroaching empire and fighting off the dangers of the marsh. Roughly forty years ago, Buhfal was challenged by the Kryn paragon Sunbreaker Olomon. In what is still retold as legend, a mighty bout between the two ended with Buhfal defeated and Olomon elevated to rule the settlement.
 
-With his guidance, Olomon brought the teachings of the Luxon, in the name of the Bright Queen, and promised that with the hearts of the Urzin people behind him and his drow, the terrible soldiers of the empire would no longer terrorize the marshfolk. Renewed by this promise, Urzin follows the lead of the dynasty with an impressive fervor, working like clockwork to achieve any goal dictated by Olomon. In his absence, [Ogre Lord Buhfal II](/3-Mechanics/CLI/bestiary/npc/ogre-lord-buhfal-ii-egw.md) proudly fills the role of leader and protector.
+With his guidance, Olomon brought the teachings of the Luxon, in the name of the Bright Queen, and promised that with the hearts of the Urzin people behind him and his drow, the terrible soldiers of the empire would no longer terrorize the marshfolk. Renewed by this promise, Urzin follows the lead of the dynasty with an impressive fervor, working like clockwork to achieve any goal dictated by Olomon. In his absence, [Ogre Lord Buhfal II](3-Mechanics/CLI/bestiary/npc/ogre-lord-buhfal-ii-egw.md) proudly fills the role of leader and protector.
 
 ##### A Shifty Settlement
 
@@ -3904,7 +3904,7 @@ The town of Urzin consists of around forty horizonback tortoises and many hundre
 
 Note that any specific indicator of Urzin's location on a map is an approximation of its location, due to the roving nature of the community.
 
-![Urzin moving through the marsh](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/075-03-23.webp#center)
+![Urzin moving through the marsh](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/075-03-23.webp#center)
 
 ##### Urzin Adventures
 
@@ -3912,13 +3912,13 @@ Just finding the settlement and winning the trust of the people of Urzin is an a
 
 ###### Horizonback Horror (Mid Level)
 
-A [horizonback tortoise](/3-Mechanics/CLI/bestiary/monstrosity/horizonback-tortoise-egw.md) (see "chapter 7") has broken away from Urzin's fleet and is rampaging through Jigow. The orcs and goblinkin fought to contain it, but every wound they inflict on the beast seems to stitch together before their eyes! An [oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) that once led a clan of trolls the orcs defeated several months ago is out for revenge and devised an alchemical infusion created from troll blood. The oni administered the toxin to the tortoise, granting it the Regeneration feature of a troll and causing it to go berserk, terrifying not only the denizens of Jigow, but also the people clinging to their homes atop the frenzied tortoise.
+A [horizonback tortoise](3-Mechanics/CLI/bestiary/monstrosity/horizonback-tortoise-egw.md) (see "chapter 7") has broken away from Urzin's fleet and is rampaging through Jigow. The orcs and goblinkin fought to contain it, but every wound they inflict on the beast seems to stitch together before their eyes! An oni that once led a clan of trolls the orcs defeated several months ago is out for revenge and devised an alchemical infusion created from troll blood. The oni administered the toxin to the tortoise, granting it the Regeneration feature of a troll and causing it to go berserk, terrifying not only the denizens of Jigow, but also the people clinging to their homes atop the frenzied tortoise.
 
 #### Vermaloc Wildwood
 
 The Vermaloc Wildwood is an enormous timberland of vibrant trees with deep purple and maroon trunks and a bright canopy of red-orange leaves. This curious and beautiful burst of color stands in stark contrast to the often dreary landscape of Xhorhas. Many denizens of Xhorhas have camps or small settlements along the treeline, as the forest is one of the major sources of wood and logging throughout the wastes. Those who live here, however, remain alert for the many deadly beasts and creatures that call this colorful expanse home. Monstrous predators twisted long ago by the Betrayer Gods hunt from the trees and brush, while the deeper woods are overrun with the webs of the malicious giant spiders that claim those shaded regions. Only the most experienced and well-armed hunters dare wander the depths of the Vermaloc.
 
-![Vermaloc Wildwood](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/076-03-24.webp#center)
+![Vermaloc Wildwood](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/076-03-24.webp#center)
 
 ##### Vermaloc Wildwood Adventures
 
@@ -3926,7 +3926,7 @@ The characters might hunt in the Vermaloc Wildwood to prove their mettle or be f
 
 ###### Ettercap's Web (Low Level)
 
-Aramue, a [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) of the Vermaloc Wildwood and devout follower of the Wild Mother, possesses a unique gift: she can send dreams to other worshipers of Melora. Using this power, she reaches out to such individuals. Aramue needs help ridding her forest of an [ettercap](/3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md) that has taken control of many of the forest's [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). The spiders attack the forest's outlying settlements and bring prisoners to the ettercap, which it sacrifices to gain Lolth's favor. The dryad is kept awake at night by the ettercap's screaming victims.
+Aramue, a dryad of the Vermaloc Wildwood and devout follower of the Wild Mother, possesses a unique gift: she can send dreams to other worshipers of Melora. Using this power, she reaches out to such individuals. Aramue needs help ridding her forest of an ettercap that has taken control of many of the forest's giant spiders. The spiders attack the forest's outlying settlements and bring prisoners to the ettercap, which it sacrifices to gain Lolth's favor. The dryad is kept awake at night by the ettercap's screaming victims.
 
 #### Verstglade
 
@@ -3992,7 +3992,7 @@ All manner of adventures and challenges await within this recovering dragonborn 
 
 ###### Best Left Alone (Mid Level)
 
-One of the prominent mining companies within the city has recently uncovered a mysterious purple stone of unknown origin, about fifteen feet in diameter. Dozens of superstitious miners have fled this site, so the company hires the characters to investigate the stone and uncover its nature. When any of the stone's smooth, reflective surface takes damages, this buried relic of the Shadowfell begins to summon [shadowghasts](/3-Mechanics/CLI/bestiary/undead/shadowghast-egw.md) and [gloomstalkers](/3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md) (see "chapter 7") at an increasingly fast rate. The characters must discover a way to repair and reseal the stone, destroy it, or banish it from Exandria before the city is overwhelmed.
+One of the prominent mining companies within the city has recently uncovered a mysterious purple stone of unknown origin, about fifteen feet in diameter. Dozens of superstitious miners have fled this site, so the company hires the characters to investigate the stone and uncover its nature. When any of the stone's smooth, reflective surface takes damages, this buried relic of the Shadowfell begins to summon [shadowghasts](3-Mechanics/CLI/bestiary/undead/shadowghast-egw.md) and [gloomstalkers](3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md) (see "chapter 7") at an increasingly fast rate. The characters must discover a way to repair and reseal the stone, destroy it, or banish it from Exandria before the city is overwhelmed.
 
 ## Blightshore
 
@@ -4000,7 +4000,7 @@ The blackened seaboard that forms the easternmost edge of Wildemount is a savage
 
 While the Dwendalian Empire and its constituents seek to establish a foothold in the more hospitable regions of the Miskath Strand, these efforts are consistently hampered by Blightshore's less scrupulous denizens. Remote operatives of the Myriad and the Revelry, intrepid pilgrims from the Kryn Dynasty, outcasts from the fallen city of Draconia, and goblinoid nomads from the Xhorhasian wastes form the motley civilization of Blightshore. Moreover, this land is home to many undead horrors and wandering hollow ones (see "chapter 4").
 
-![Map 3.10: Blightshore](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/077-3-10-blightshore.webp#center)
+![Map 3.10: Blightshore](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/077-3-10-blightshore.webp#center)
 
 ### Bizarre Terrain of Blightshore
 
@@ -4017,14 +4017,14 @@ These chunks of broken land hover and swirl in the air, held aloft by unknown ar
 The galvanic breezes of this supernatural gale are latticed with currents of lightning, which stab through the air with primordial fury.
 
 - Ranged attacks through electric wind are made with disadvantage.  
-- Any creature that starts its turn surrounded by electric wind has a 5 percent chance of being struck by lightning. A creature struck by lightning must make a DC 15 Dexterity saving throw, taking `dice:4d6|noform|noparens|avg` (`4d6`) lightning damage on a failed save, or half as much damage on a successful one.  
+- Any creature that starts its turn surrounded by electric wind has a 5 percent chance of being struck by lightning. A creature struck by lightning must make a DC 15 Dexterity saving throw, taking `4d6` lightning damage on a failed save, or half as much damage on a successful one.  
 
 #### Ember Thicket
 
 A dense grove of blackened, leafless trees perpetually smolders with the dull glow of arcane embers. This copse is choked by a cloud of ash and cinders, which constantly rain on the cremated forest floor.
 
 - An ember thicket is a lightly obscured area.  
-- Creatures gain one level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) for every 10 minutes spent inside an ember thicket without suitable protection from the heat, smoke, and ash.  
+- Creatures gain one level of exhaustion for every 10 minutes spent inside an ember thicket without suitable protection from the heat, smoke, and ash.  
 - Ranged attacks through an ember thicket are made with disadvantage. A ranged weapon attack made through or within an ember thicket automatically misses a target beyond the weapon's normal range.  
 
 #### Etheric Rift
@@ -4032,7 +4032,7 @@ A dense grove of blackened, leafless trees perpetually smolders with the dull gl
 An etheric rift appears as a light fog or spectral haze. The interplanar tracts of this anomaly reach in and out of the Border Ethereal. Unseen trenches and invisible paths overlap throughout its vaporous expanse.
 
 - An etheric rift is a lightly obscured area.  
-- Any creature that enters an etheric rift or starts its turn there has a 33 percent chance of gaining the effect of the [etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md) spell until the end of its next turn.  
+- Any creature that enters an etheric rift or starts its turn there has a 33 percent chance of gaining the effect of the etherealness spell until the end of its next turn.  
 
 #### Gravity Funnel
 
@@ -4048,7 +4048,7 @@ This cylindrical area is affected by the unseen pull of heightened gravitational
 A virtually imperceptible mist of preternatural psychotropic vapor hovers above the ground. This coruscating miasma corrupts the sanity of the living and fortifies the grim resolve of the undead.
 
 - Creatures that are fully immersed in psychic miasma have vulnerability to psychic damage.  
-- Any creature that enters a cloud of psychic miasma or starts its turn there must succeed on a DC 15 Constitution saving throw or become afflicted with a random form of long-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide"). Creatures that can't be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) automatically succeed on the saving throw. A creature that successfully saves against the psychic miasma is immune to its effects for 24 hours.  
+- Any creature that enters a cloud of psychic miasma or starts its turn there must succeed on a DC 15 Constitution saving throw or become afflicted with a random form of long-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide"). Creatures that can't be poisoned automatically succeed on the saving throw. A creature that successfully saves against the psychic miasma is immune to its effects for 24 hours.  
 - An undead creature that spends at least 1 minute in a cloud of psychic miasma gains advantage on ability checks and saving throws for 24 hours.  
 
 #### Rust Rain
@@ -4056,13 +4056,13 @@ A virtually imperceptible mist of preternatural psychotropic vapor hovers above 
 This crimson precipitation is corrosive to ferrous metal and caustic to creatures.
 
 - Rust rain corrodes nonmagical, ferrous metal objects. If the object isn't being worn or carried, the rain destroys 1 cubic foot of it for every 10 minutes of exposure. An object must be covered to avoid exposure. If the exposed object is nonmagical metal armor, a nonmagical metal weapon, or a nonmagical metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to damage rolls or the AC it offers for every 10 minutes of exposure to rust rain. A weapon that drops to a −5 penalty, armor reduced to an AC of 10, or a shield that drops to a +0 bonus is destroyed.  
-- Any creature that starts it turn in rust rain and isn't covered by an umbrella, a shield, or some other form of rain protection takes `dice:1d4|noform|noparens|avg` (`1d4`) acid damage.  
+- Any creature that starts it turn in rust rain and isn't covered by an umbrella, a shield, or some other form of rain protection takes `1d4` acid damage.  
 
 #### Toxic Fungus Colony
 
 A virulent expanse of malignant fungal growths blankets the landscape and fills the air above it with spores.
 
-- Any non-plant creature within 20 feet of a toxic fungus colony is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). A creature [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) by the colony for 1 hour has a 20 percent chance of gaining a random form of short-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide").  
+- Any non-plant creature within 20 feet of a toxic fungus colony is poisoned. A creature poisoned by the colony for 1 hour has a 20 percent chance of gaining a random form of short-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide").  
 - A toxic fungus colony can be bioluminescent. A bioluminescent colony sheds dim light within its area and for an additional 20 feet beyond its outer edges.  
 
 #### Uncanny Phenomena
@@ -4071,7 +4071,7 @@ The arcane fallout from the Calamity is so widespread throughout Blightshore tha
 
 #### Uncanny Phenomena
 
-![Uncanny Phenomena](/3-Mechanics/CLI/tables/uncanny-phenomena-egw.md)
+![Uncanny Phenomena](3-Mechanics/CLI/tables/uncanny-phenomena-egw.md)
 
 ### Cauldron Sea
 
@@ -4083,7 +4083,7 @@ Although the waters of the Cauldron Sea present challenges to those who would ta
 
 Soothsayers claim that Tharizdun, the Chained Oblivion, created the Cauldron Sea to loosen the veil between worlds and warn that one day he will rend the very fabric of reality from the depths of its accursed waters. There are those who would see this mad prophecy fulfilled, but many more would do anything to prevent the Betrayer God's malevolent return.
 
-![Cauldron Sea](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/078-03-25.webp#center)
+![Cauldron Sea](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/078-03-25.webp#center)
 
 #### Cauldron Sea Adventures
 
@@ -4097,11 +4097,11 @@ Unlike the restorative essences of the Sorrowseep Waters, a draught of liquid fr
 > 
 > The unique environs of the post-Calamity Miskath Strand have produced a number of strange new substances that can be cultivated for both noble and illicit purposes. The regulation of these bizarre drugs proves difficult, however, as their exotic qualities often confound those who would subvert their questionable usage. As such, supply and demand remain steady despite the inevitable hazards of production.
 > 
-> [Black Sap](/3-Mechanics/CLI/items/black-sap-egw.md). This tarry substance harvested from the dark boughs of the death's head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened) for `dice:1d6|noform|noparens|avg` (`1d6`) hours. For each dose of black sap consumed, a creature must succeed on a DC 15 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for `dice:2d4|noform|noparens|avg` (`2d4`) hours—an effect that is cumulative with multiple doses. Black sap is valued at 300 gp per dose.
+> [Black Sap](3-Mechanics/CLI/items/black-sap-egw.md). This tarry substance harvested from the dark boughs of the death's head willow is a powerful intoxicant. It can be smoked as a concentrate or injected directly into the bloodstream. A creature subjected to a dose of black sap cannot be charmed or frightened for `1d6` hours. For each dose of black sap consumed, a creature must succeed on a DC 15 Constitution saving throw or become poisoned for `2d4` hours—an effect that is cumulative with multiple doses. Black sap is valued at 300 gp per dose.
 > 
-> [Blight Ichor](/3-Mechanics/CLI/items/blight-ichor-egw.md). This bitter chartreuse concoction is distilled from a fungus native to the Blightshore badlands. The sickly green liqueur harbors potent psychedelic properties. Provided it is neither a construct nor undead, a creature subjected to a dose of blight ichor gains advantage on Intelligence and Wisdom checks, as well as vulnerability to psychic damage, for 1 hour. For each dose of blight ichor consumed, the creature must succeed on a DC 15 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for `dice:1d6|noform|noparens|avg` (`1d6`) hours and suffer the effects of a [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md) spell for 1 minute. An undead creature subjected to a dose of blight ichor gains advantage on all Dexterity checks and is immune to the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition for 1 hour. Blight ichor is valued at 200 gp per dose.
+> [Blight Ichor](3-Mechanics/CLI/items/blight-ichor-egw.md). This bitter chartreuse concoction is distilled from a fungus native to the Blightshore badlands. The sickly green liqueur harbors potent psychedelic properties. Provided it is neither a construct nor undead, a creature subjected to a dose of blight ichor gains advantage on Intelligence and Wisdom checks, as well as vulnerability to psychic damage, for 1 hour. For each dose of blight ichor consumed, the creature must succeed on a DC 15 Constitution saving throw or become poisoned for `1d6` hours and suffer the effects of a confusion spell for 1 minute. An undead creature subjected to a dose of blight ichor gains advantage on all Dexterity checks and is immune to the frightened condition for 1 hour. Blight ichor is valued at 200 gp per dose.
 > 
-> [Soothsalts](/3-Mechanics/CLI/items/soothsalts-egw.md). Soothsalts are derived from a naturally occurring crystalline substance discovered throughout the wilds of the Miskath Strand. The crimson crystals have been mined from cavernous veins like those in the mouth of the Miskath Pit and found within smaller geode formations near sites ravaged by the Calamity. Soothsalts are consumed orally in lozenge-sized doses, and frequent users can be identified by the telltale crimson stain around their mouths. A creature subjected to a dose of soothsalts gains advantage on all Intelligence checks for `dice:1d4|noform|noparens|avg` (`1d4`) hours. For each dose of soothsalts consumed, the creature must succeed on a DC 15 Constitution saving throw or gain one level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)—an effect which is cumulative with multiple doses. Soothsalts are valued at 150 gp per dose.
+> [Soothsalts](3-Mechanics/CLI/items/soothsalts-egw.md). Soothsalts are derived from a naturally occurring crystalline substance discovered throughout the wilds of the Miskath Strand. The crimson crystals have been mined from cavernous veins like those in the mouth of the Miskath Pit and found within smaller geode formations near sites ravaged by the Calamity. Soothsalts are consumed orally in lozenge-sized doses, and frequent users can be identified by the telltale crimson stain around their mouths. A creature subjected to a dose of soothsalts gains advantage on all Intelligence checks for `1d4` hours. For each dose of soothsalts consumed, the creature must succeed on a DC 15 Constitution saving throw or gain one level of exhaustion—an effect which is cumulative with multiple doses. Soothsalts are valued at 150 gp per dose.
 ^blightshore-contraband
 
 ### Ebonglass Massif
@@ -4124,7 +4124,7 @@ Adventurers who find themselves near the peaks of the Ebonglass Massif have stra
 
 ##### Lost Xagonstar (Low Level)
 
-The adventurers travel to Ebonglass Massif by airship to join a well-funded archaeological expedition mounted by Duurek Kronst, a wealthy dwarf who is determined to find the dwarven stronghold of Xagonstar, lost and buried since the Calamity. An unnatural storm sweeping across Blightshore causes the airship to crash, but the characters survive. Once they reach the dig site, they see that great progress has already been made. The first great hall of Xagonstar has been discovered! Unfortunately, the archaeologists are missing and the site has been abandoned. Were the diggers captured by the Fang of the Worm or carried off by a hungry [gloomstalker](/3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md) (as described in "chapter 7"), or did something slip out of Xagonstar to devour them?
+The adventurers travel to Ebonglass Massif by airship to join a well-funded archaeological expedition mounted by Duurek Kronst, a wealthy dwarf who is determined to find the dwarven stronghold of Xagonstar, lost and buried since the Calamity. An unnatural storm sweeping across Blightshore causes the airship to crash, but the characters survive. Once they reach the dig site, they see that great progress has already been made. The first great hall of Xagonstar has been discovered! Unfortunately, the archaeologists are missing and the site has been abandoned. Were the diggers captured by the Fang of the Worm or carried off by a hungry [gloomstalker](3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md) (as described in "chapter 7"), or did something slip out of Xagonstar to devour them?
 
 ### Far Hharom
 
@@ -4146,7 +4146,7 @@ The northern peninsula of Blightshore is a remote and unwelcoming place, but cha
 
 ##### Deep Ones of Far Hharom (Low Level)
 
-A coastal storm causes the characters' ship to run aground on the northern shore of Far Hharom. As they take stock of the damage and make plans to head inland, waves of [kuo-toa](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) converge on the ship and attack them.
+A coastal storm causes the characters' ship to run aground on the northern shore of Far Hharom. As they take stock of the damage and make plans to head inland, waves of kuo-toa converge on the ship and attack them.
 
 ##### It Kills at Night (Mid Level)
 
@@ -4156,7 +4156,7 @@ While exploring a Far Hharom barrow, the characters are surprised to discover a 
 
 The ruined keep at the heart of this crumbling city once served as an arcane repository and research facility for the Betrayer Gods during their pre-Calamity ascent to power. Artifacts and wondrous items from the Age of Arcanum are rumored to linger within its shadow-haunted vaults, lying in wait for those brave or foolish enough to challenge the citadel's timeless guardians. Now, its decaying battlements stand as a stark monument to the Calamity's unstoppable devastation.
 
-The name Ghor Veles means "Vault of Shadows," and a vast dungeon indeed lurks below the ruins of the city. These catacombs were home to the aberrant and undead minions of the dracolich [Oracs the Enduring](/3-Mechanics/CLI/bestiary/npc/oracs-the-enduring-egw.md). Countless adventuring parties and would-be tomb robbers have attempted to lay siege to the vaults below Ghor Veles, only to perish at the clawed hands and creeping doom of the keep's fearsome inhabitants. But a destiny worse than death awaits them: most of these ill-fated interlopers become undead minions themselves, bound to Oracs in unending servitude. As this army grows, so does Oracs's hold over the Miskath Strand.
+The name Ghor Veles means "Vault of Shadows," and a vast dungeon indeed lurks below the ruins of the city. These catacombs were home to the aberrant and undead minions of the dracolich [Oracs the Enduring](3-Mechanics/CLI/bestiary/npc/oracs-the-enduring-egw.md). Countless adventuring parties and would-be tomb robbers have attempted to lay siege to the vaults below Ghor Veles, only to perish at the clawed hands and creeping doom of the keep's fearsome inhabitants. But a destiny worse than death awaits them: most of these ill-fated interlopers become undead minions themselves, bound to Oracs in unending servitude. As this army grows, so does Oracs's hold over the Miskath Strand.
 
 #### Land of Refugees and Hermits
 
@@ -4168,13 +4168,13 @@ Only the undead horrors beneath Ghor Veles rival the cutthroat grave robbers tha
 
 ##### Shadow Essence (Mid Level)
 
-The characters are hired by Cerberus Assembly sages in New Haxon to gather a rare magical ingredient—shadow essence—that can be collected from dead [gloomstalkers](/3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md) (see "chapter 7"). As gloomstalkers are known to circle above Ghor Veles like vultures, the sages ask the characters to travel there, slay a gloomstalker, and collect its shadow essence in a specially made flask. The sages warn the characters not to linger near Ghor Veles, lest they fall prey to the terrible creatures lurking in its haunted fortress.
+The characters are hired by Cerberus Assembly sages in New Haxon to gather a rare magical ingredient—shadow essence—that can be collected from dead [gloomstalkers](3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md) (see "chapter 7"). As gloomstalkers are known to circle above Ghor Veles like vultures, the sages ask the characters to travel there, slay a gloomstalker, and collect its shadow essence in a specially made flask. The sages warn the characters not to linger near Ghor Veles, lest they fall prey to the terrible creatures lurking in its haunted fortress.
 
 ##### Of Vaults and Vengeance (High Level)
 
-One or more of the characters are kidnapped by minions of [Oracs the Enduring](/3-Mechanics/CLI/bestiary/npc/oracs-the-enduring-egw.md) (chaotic evil, male, ancient black dracolich) and are carried away to the vaults below Ghor Veles for indoctrination and necromantic experimentation. With the help of a [core spawn seer](/3-Mechanics/CLI/bestiary/aberration/core-spawn-seer-egw.md) (see "chapter 7") from the Miskath Pit, the dracolich and his minions are weaponizing their mortal enemies to gruesome effect. As one half of the party struggles to survive captivity, the rest of the characters must plot their harrowing rescue.
+One or more of the characters are kidnapped by minions of [Oracs the Enduring](3-Mechanics/CLI/bestiary/npc/oracs-the-enduring-egw.md) (chaotic evil, male, ancient black dracolich) and are carried away to the vaults below Ghor Veles for indoctrination and necromantic experimentation. With the help of a [core spawn seer](3-Mechanics/CLI/bestiary/aberration/core-spawn-seer-egw.md) (see "chapter 7") from the Miskath Pit, the dracolich and his minions are weaponizing their mortal enemies to gruesome effect. As one half of the party struggles to survive captivity, the rest of the characters must plot their harrowing rescue.
 
-![Ghor Veles](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/079-03-26.webp#center)
+![Ghor Veles](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/079-03-26.webp#center)
 
 ### Incanter's Rest
 
@@ -4232,7 +4232,7 @@ Characters who adventure in New Haxon are likely conscripts, volunteers, or oppo
 
 ##### Right Side of Wrong (Low Level)
 
-As dutiful servants of the Cerberus Assembly, the characters are tasked with ridding a local safe house of cult activity. But the operation doesn't go according to plan: one of the [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) is the teenage son of a prominent assembly official, and the characters must decide whether they will shine a light on his indiscretion or bury it at the potential cost of becoming accomplices themselves.
+As dutiful servants of the Cerberus Assembly, the characters are tasked with ridding a local safe house of cult activity. But the operation doesn't go according to plan: one of the cultists is the teenage son of a prominent assembly official, and the characters must decide whether they will shine a light on his indiscretion or bury it at the potential cost of becoming accomplices themselves.
 
 ##### Plunder the Crypt (Mid Level)
 
@@ -4240,7 +4240,7 @@ A high elf mastermind, Drahir Baiegn, hires the characters to masquerade as Cerb
 
 ##### Eater of Worlds (High Level)
 
-The characters are summoned to a meeting with Satyana Vorvexis. One of the dragon's spies managed to infiltrate a cult operating within the city and determined that its leaders are preparing a ritual to summon Shothotugg, the Eater of Worlds (see the "Elder Evils of Exandria" sidebar in chapter 7). Shothotugg's arrival would almost certainly place New Haxon in jeopardy. The cult controls a crumbling dungeon complex below the ruins of Old Haxon. The cult's leaders are a pair of [vampires](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) aided by a small conclave of [cloakers](/3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md), but most of the cult members are nihilistic humanoids and [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md).
+The characters are summoned to a meeting with Satyana Vorvexis. One of the dragon's spies managed to infiltrate a cult operating within the city and determined that its leaders are preparing a ritual to summon Shothotugg, the Eater of Worlds (see the "Elder Evils of Exandria" sidebar in chapter 7). Shothotugg's arrival would almost certainly place New Haxon in jeopardy. The cult controls a crumbling dungeon complex below the ruins of Old Haxon. The cult's leaders are a pair of vampires aided by a small conclave of cloakers, but most of the cult members are nihilistic humanoids and vampire spawn.
 
 ### Olc Skerry
 
@@ -4252,7 +4252,7 @@ Olc Skerry is a spooky, abandoned settlement sure to raise the hackles of even t
 
 ##### Ol' Bucket Helm (Low Level)
 
-Flocks of black gulls haunt the lonely north shores of the island, congregating around a seaside cave that attracts ordinary crabs and a few giant crabs as well. Just outside the cave mouth, someone has planted a grim scarecrow with a rusted bucket helm for a head, and anyone who tampers with the helm causes the black gulls to form into three hostile swarms (use the [swarm of ravens](/3-Mechanics/CLI/bestiary/beast/swarm-of-ravens-xmm.md) stat block in appendix A of the "Monster Manual"). The gulls also gather into swarms at the command of the cave's reclusive occupant, Peggy Silva, a sea hag with snails in her hair who wears an old fishing net as a shawl. A deranged kuo-toa whip named Plookoolp is the only company Peggy Silva tolerates.
+Flocks of black gulls haunt the lonely north shores of the island, congregating around a seaside cave that attracts ordinary crabs and a few giant crabs as well. Just outside the cave mouth, someone has planted a grim scarecrow with a rusted bucket helm for a head, and anyone who tampers with the helm causes the black gulls to form into three hostile swarms (use the swarm of ravens stat block in appendix A of the "Monster Manual"). The gulls also gather into swarms at the command of the cave's reclusive occupant, Peggy Silva, a sea hag with snails in her hair who wears an old fishing net as a shawl. A deranged kuo-toa whip named Plookoolp is the only company Peggy Silva tolerates.
 
 ##### Black Sap (Mid Level)
 
@@ -4300,19 +4300,19 @@ The moss-lit streets of Rotthold are ripe with adventure for characters with a t
 
 ##### Rough Times in Rotthold (Low Level)
 
-A moment of respite goes south in one of North Rotthold's taverns, where the characters—along with the proprietors and other patrons—become targets of an impromptu shakedown by an upstart gang with ties to a prominent thieves' guild. Successfully thwarting the [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) could very well earn the characters the ire (or the respect) of the guild, which operates under the clandestine guidance of a mysterious cabal of enlightened [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md).
+A moment of respite goes south in one of North Rotthold's taverns, where the characters—along with the proprietors and other patrons—become targets of an impromptu shakedown by an upstart gang with ties to a prominent thieves' guild. Successfully thwarting the thugs could very well earn the characters the ire (or the respect) of the guild, which operates under the clandestine guidance of a mysterious cabal of enlightened nothics.
 
 ##### The Cairn Hill Horror (Mid Level)
 
-A serial killer [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) stalks the streets of western Rotthold from his catacomb lair beneath Cairn Hill, where the viscera of a hundred victims have been offered to summon his otherworldly patron: a [glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md) named Vrath. This demon is a cruel, immortal deceiver that promises its [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) unrivaled power in the wake of its awful arrival—and only the characters can stop it.
+A serial killer cultist stalks the streets of western Rotthold from his catacomb lair beneath Cairn Hill, where the viscera of a hundred victims have been offered to summon his otherworldly patron: a glabrezu named Vrath. This demon is a cruel, immortal deceiver that promises its acolytes unrivaled power in the wake of its awful arrival—and only the characters can stop it.
 
 ##### The Krakenwhacker (High Level)
 
-Captain Veluna Samarshan of the galley Krakenwhacker has decided to retire in Rotthold. Having heard about the adventurers' exploits, she offers to sell the Krakenwhacker to them for one gold piece, though they'll need to find their own crew. The ship is in excellent condition and has a magical figurehead carved in the likeness of Bahamut that grants the vessel immunity to fire, lightning, and thunder damage. The ship is the envy of several other Revelry captains, and the characters might have to fend off their advances to keep it. Captain Samarshan also warns them about an [adult bronze dragon](/3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md) named Walarkus. Corrupted by the magic of Blightshore, this once-noble dragon has become a coastal menace consumed by greed. It would like nothing more than to add the ship's magical figurehead to its undersea trove.
+Captain Veluna Samarshan of the galley Krakenwhacker has decided to retire in Rotthold. Having heard about the adventurers' exploits, she offers to sell the Krakenwhacker to them for one gold piece, though they'll need to find their own crew. The ship is in excellent condition and has a magical figurehead carved in the likeness of Bahamut that grants the vessel immunity to fire, lightning, and thunder damage. The ship is the envy of several other Revelry captains, and the characters might have to fend off their advances to keep it. Captain Samarshan also warns them about an adult bronze dragon named Walarkus. Corrupted by the magic of Blightshore, this once-noble dragon has become a coastal menace consumed by greed. It would like nothing more than to add the ship's magical figurehead to its undersea trove.
 
 Chapter 5 of the "Dungeon Master's Guide" has rules and statistics for ships, as well as information about hiring a crew and making ship repairs.
 
-![](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/080-03-27.webp#center)
+![](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/080-03-27.webp#center)
 
 ### Tooth of Zehir
 
@@ -4322,7 +4322,7 @@ The lower region of the Tooth is marked by craggy basalt beaches covered in blac
 
 #### Strathfell
 
-This petrified woodland is the domain of an ancient silver shadow dragon named [Karkethzerethzerus, the Sable Despoiler](/3-Mechanics/CLI/bestiary/npc/karkethzerethzerus-the-sable-despoiler-egw.md) (Karketh for short). Before his malign reign, this region of the Miskath Strand was a verdant haven for a long-lost nation of wood elves and centaurs. For reasons unknown, Karkethzerethzerus plotted to annihilate the woodland nation, killing it off with energies from the Shadowfell. Since doing exactly that, the Sable Despoiler has ruled Strathfell with equal measures of gleeful arrogance and baleful suspicion. The shadow dragon's lair, like his motives, remain hidden. Etheric rifts run throughout Strathfell's gloomy expanse, allowing denizens such as darklings and meenlocks to travel to and from the Shadowfell with unsettling regularity. Most of these interplanar paths are invisible to the naked eye—but minions of Karkethzerethzerus know all too well where the veil grows thin.
+This petrified woodland is the domain of an ancient silver shadow dragon named [Karkethzerethzerus, the Sable Despoiler](3-Mechanics/CLI/bestiary/npc/karkethzerethzerus-the-sable-despoiler-egw.md) (Karketh for short). Before his malign reign, this region of the Miskath Strand was a verdant haven for a long-lost nation of wood elves and centaurs. For reasons unknown, Karkethzerethzerus plotted to annihilate the woodland nation, killing it off with energies from the Shadowfell. Since doing exactly that, the Sable Despoiler has ruled Strathfell with equal measures of gleeful arrogance and baleful suspicion. The shadow dragon's lair, like his motives, remain hidden. Etheric rifts run throughout Strathfell's gloomy expanse, allowing denizens such as darklings and meenlocks to travel to and from the Shadowfell with unsettling regularity. Most of these interplanar paths are invisible to the naked eye—but minions of Karkethzerethzerus know all too well where the veil grows thin.
 
 The future of Strathfell is not without hope, for good-aligned centaurs continue to patrol the woods as their ancestors did in ages past, battling the evil forces of the shadow dragon at every turn. The centaurs could use some help, however, as they are few in number.
 
@@ -4330,7 +4330,7 @@ The future of Strathfell is not without hope, for good-aligned centaurs continue
 
 The southern tip of the peninsula abuts the Mordant Isle, a smaller land mass separated from the mainland by the reef-laden waters of the Venom Strait. On this island, an aberrant enclave of winged serpentkin dwell within the ruins of Sariss, the Jade City, where they have erected foul monuments to the Cloaked Serpent himself. These abhorrent snake folk plot a terrible doom for denizens of the Miskath Strand from their horrid lairs. No warm-blooded creature has ever been to Sariss and survived—or so the story goes.
 
-![Adventurers contend with e...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/081-03-28.webp#center "Adventurers contend with electric winds in an ember thicket")
+![Adventurers contend with electric winds in an ember thicket](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/081-03-28.webp#center)
 
 ## Distant Lands of Exandria
 

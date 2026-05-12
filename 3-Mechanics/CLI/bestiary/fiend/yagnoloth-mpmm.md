@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yagnoloth
+- "Yagnoloth"
 ---
-# [Yagnoloth](3-Mechanics\CLI\bestiary\fiend/yagnoloth-mpmm.md)
+# [Yagnoloth](3-Mechanics/CLI/bestiary/fiend/yagnoloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 268, Mordenkainen's Tome of Foes p. 252*  
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -47,19 +47,19 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 60 ft."
 "cr": "11"
@@ -75,15 +75,15 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 27\
       \ (6d8) lightning damage."
     "name": "Electrified Touch"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 23\
-      \ (3d12 + 4) force damage. If the target is a creature, it must succeed on a\
-      \ DC 16 Constitution saving throw or become [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:*\
+      \ 23 (3d12 + 4) force damage. If the target is a creature, it must succeed\
+      \ on a DC 16 Constitution saving throw or become [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the end of the yagnoloth's next turn."
     "name": "Massive Arm"
   - "desc": "Up to two allied yugoloths within 60 feet of the yagnoloth that can hear\
       \ it can use their reactions to make one melee attack each."
     "name": "Battlefield Cunning (Recharge 4-6)"
-  - "desc": "The yagnoloth touches one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "The yagnoloth touches one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ creature within 15 feet of it. The target takes 36 (7d8 + 4) necrotic damage,\
       \ and the yagnoloth gains temporary hit points equal to half the damage dealt.\
       \ The target must succeed on a DC 16 Constitution saving throw, or its hit point\
@@ -96,16 +96,15 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
-      \ magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) (self only),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**3/day:** [lightning\
-      \ bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      \n**At will:** [darkness](3-Mechanics/CLI/spells/darkness.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only), [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**3/day:**\
+      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
 ```
 ^statblock
 

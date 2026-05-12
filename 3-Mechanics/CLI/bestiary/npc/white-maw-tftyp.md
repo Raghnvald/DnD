@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/gargantuan
-- new/monster/type/ooze
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- White Maw
+- "White Maw"
 ---
-# [White Maw](3-Mechanics\CLI\bestiary\npc/white-maw-tftyp.md)
+# [White Maw](3-Mechanics/CLI/bestiary/npc/white-maw-tftyp.md)
 *Source: Tales from the Yawning Portal p. 248*  
 
 ```statblock
@@ -34,9 +34,12 @@ aliases:
 "speed": "10 ft."
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, poisoned,\
-  \ prone"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": "telepathy 50 ft."
 "cr": "10"
 "traits":
@@ -52,17 +55,17 @@ aliases:
       \ stone."
     "name": "False Appearance"
   - "desc": "Any creature that starts its turn in White Maw's space is targeted by\
-      \ a pseudopod attack if White Maw isn't incapacitated."
+      \ a pseudopod attack if White Maw isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Killer Response"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (4d8 + 4) bludgeoning damage plus 9 (2d8) acid damage. If the target is wearing\
-      \ nonmagical metal armor, its armor is partly corroded and takes a permanent\
-      \ and cumulative −1 penalty to the AC it offers. The armor is destroyed if the\
-      \ penalty reduces its AC to 10."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (4d8 + 4) bludgeoning damage plus 9 (2d8) acid damage. If the target\
+      \ is wearing nonmagical metal armor, its armor is partly corroded and takes\
+      \ a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed\
+      \ if the penalty reduces its AC to 10."
     "name": "Pseudopod"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/white-maw-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/white-maw-tftyp.webp"
 ```
 ^statblock

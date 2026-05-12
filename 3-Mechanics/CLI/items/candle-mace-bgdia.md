@@ -7,11 +7,11 @@ tags:
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Candle Mace"
 ---
 # Candle Mace
-*Weapon ([mace](/3-Mechanics/CLI/items/mace-xphb.md))*  
+*Weapon (mace)*  
 
 
 - **Damage**: 1d6 bludgeoning

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/gnomish
 - ttrpg-cli/domain/trickery
-aliases: 
-- Garl Glittergold
+aliases:
+- "Garl Glittergold"
 ---
 # Garl Glittergold
 *Source: Sword Coast Adventurer's Guide p. 24* 

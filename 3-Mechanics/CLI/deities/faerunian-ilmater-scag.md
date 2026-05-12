@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/twilight
-aliases: 
-- Ilmater
-- The Crying God
-- The Rack-Broken Lord
-- He Who Endures
+aliases:
+- "Ilmater"
+- "The Crying God"
+- "The Rack-Broken Lord"
+- "He Who Endures"
 ---
 # Ilmater
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-ilmater.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-ilmater.webp#symbol)
 
 - **Alternate Names**: The Crying God, The Rack-Broken Lord, He Who Endures
 - **Alignment**: Lawful Good

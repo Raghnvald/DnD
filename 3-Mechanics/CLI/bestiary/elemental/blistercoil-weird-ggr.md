@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blistercoil Weird
+- "Blistercoil Weird"
 ---
-# [Blistercoil Weird](3-Mechanics\CLI\bestiary\elemental/blistercoil-weird-ggr.md)
+# [Blistercoil Weird](3-Mechanics/CLI/bestiary/elemental/blistercoil-weird-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 207*  
 
 A blistercoil weird is an anthropomorphic brute formed from water and molten rock. It absorbs energy from magical fire, causing its ooze-like body to increase in size. During one disastrous experiment, Izzet researchers observed a blistercoil weird expanding to fill a six-story workshop before it released all its excess energy in an enormous explosion and returned to its original size.
@@ -45,13 +45,9 @@ An Izzet weird doesn't require air, food, drink, or sleep.
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Draconic"
 "cr": "4"
 "traits":
@@ -61,8 +57,8 @@ An Izzet weird doesn't require air, food, drink, or sleep.
       \ While the weird is Large or bigger, it makes Strength checks and saving throws\
       \ with advantage. If the weird starts its turn at Gargantuan size, the weird\
       \ releases energy in an explosion. Each creature within 30 feet of the weird\
-      \ must make a DC 12 Dexterity saving throw, taking 28 (8d6) fire damage on a\
-      \ failed save, or half as much damage on a successful one. The explosion ignites\
+      \ must make a DC 12 Dexterity saving throw, taking 28 (8d6) fire damage on\
+      \ a failed save, or half as much damage on a successful one. The explosion ignites\
       \ flammable objects in the area that aren't being worn or carried. The weird's\
       \ size then becomes Medium."
     "name": "Feed on Fire"
@@ -80,12 +76,12 @@ An Izzet weird doesn't require air, food, drink, or sleep.
       \ additional 30 feet."
     "name": "Illumination"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage plus 7 (2d6) fire damage, or 11 (2d8 + 3) bludgeoning\
-      \ damage plus 14 (4d6) fire damage if the weird is Large or bigger."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage plus 7 (2d6) fire damage, or 11 (2d8 + 3)\
+      \ bludgeoning damage plus 14 (4d6) fire damage if the weird is Large or bigger."
     "name": "Slam"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/blistercoil-weird-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/blistercoil-weird-ggr.webp"
 ```
 ^statblock

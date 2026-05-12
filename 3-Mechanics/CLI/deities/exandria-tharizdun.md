@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/trickery
-aliases: 
-- Tharizdun
+aliases:
+- "Tharizdun"
 ---
 # Tharizdun
 *Source: Explorer's Guide to Wildemount p. 28* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-tharizdun.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-tharizdun.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Category**: Betrayer Gods

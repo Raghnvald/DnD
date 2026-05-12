@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-hazard
 tags:
-- new/compendium/src/5e/bmt
-- new/hazard/mag
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/hazard/mag
 aliases:
-- Surface of the Sun
+- "Surface of the Sun"
 ---
 # Surface of the Sun
 *Magical Trap*  
@@ -21,11 +21,11 @@ Each hallway is 15 feet wide and 100 feet long. The ceiling is 50 feet high, and
 
 ## Sun Damage
 
-The blazing light that fills this trap room deals damage to every creature in the area. On initiative count 20 (losing ties), each creature in the area takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) radiant damage.
+The blazing light that fills this trap room deals damage to every creature in the area. On initiative count 20 (losing ties), each creature in the area takes 5 (`1d10`) radiant damage.
 
 ## Talons Pedestal
 
-The silver orb, which is 1 foot in diameter, can't be removed while the talons clutch it. The pedestal is trapped. Touching the silver orb causes the talons to snap closed. A creature that tries to take the orb takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) slashing damage and has the grappled condition (escape DC 15) as the talons grab hold of it, releasing the orb. The talons have an AC of 19, 10 hit points, and immunity to poison and psychic damage.
+The silver orb, which is 1 foot in diameter, can't be removed while the talons clutch it. The pedestal is trapped. Touching the silver orb causes the talons to snap closed. A creature that tries to take the orb takes 11 (`2d10`) slashing damage and has the grappled condition (escape DC 15) as the talons grab hold of it, releasing the orb. The talons have an AC of 19, 10 hit points, and immunity to poison and psychic damage.
 
 With a successful DC 12 Wisdom (Perception) check, a character can spot the pressure plate that activates the talons through a narrow slit on the east side of the pedestal. A character can disable the pressure plate with a successful DC 13 Dexterity check using thieves' tools, which causes the talons to open. A Medium or Small creature grappled by the talons can't reach this pressure plate.
 
@@ -33,7 +33,7 @@ Undamaged, the silver orb is a valuable art object worth 500 gp.
 
 ## Oversized Key
 
-This gold key is 4 feet long and weighs 100 pounds. One round after it is removed from the sword stand, it comes to life, revealing itself to be a living object (use the [flying sword](/3-Mechanics/CLI/bestiary/construct/flying-sword.md) stat block). The key does everything it can to return to its stand, attacking anyone who tries to stop it. If the key is destroyed by reducing it to 0 hit points, it must be repaired (such as with the Mending spell) before it can be used in the skull door.
+This gold key is 4 feet long and weighs 100 pounds. One round after it is removed from the sword stand, it comes to life, revealing itself to be a living object (use the flying sword stat block). The key does everything it can to return to its stand, attacking anyone who tries to stop it. If the key is destroyed by reducing it to 0 hit points, it must be repaired (such as with the Mending spell) before it can be used in the skull door.
 
 ## Skull Door
 

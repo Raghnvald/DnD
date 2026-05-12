@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- What's on the Menu Solution
+- "What's on the Menu Solution"
 ---
 # What's on the Menu Solution
 *Source: Tasha's Cauldron of Everything p. 188* 

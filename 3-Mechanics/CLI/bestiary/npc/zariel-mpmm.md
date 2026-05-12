@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zariel
+- "Zariel"
 ---
-# [Zariel](3-Mechanics\CLI\bestiary\npc/zariel-mpmm.md)
+# [Zariel](3-Mechanics/CLI/bestiary/npc/zariel-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 280, Mordenkainen's Tome of Foes p. 180*  
 
 > [!quote] A quote from Mordenkainen  
@@ -58,21 +58,24 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
   - "wisdom": !!int "16"
   - "charisma": !!int "18"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+18"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
 "damage_resistances": "cold; fire; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 26"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[flail](3-Mechanics/CLI/items/flail.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 26"
 "languages": "all, telepathy 120 ft."
 "cr": "26"
 "traits":
-  - "desc": "Magical darkness doesn't impede Zariel's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede Zariel's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "If Zariel fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -87,18 +90,18 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
   - "desc": "Zariel makes three Flail or Longsword attacks. She can replace one attack\
       \ with a use of Horrid Touch, if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) force damage plus 36 (8d8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) force damage plus 36 (8d8) fire damage."
     "name": "Flail"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) radiant damage, or 19 (2d10 + 8) radiant damage when used with two\
-      \ hands, plus 36 (8d8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) radiant damage, or 19 (2d10 + 8) radiant damage when used\
+      \ with two hands, plus 36 (8d8) fire damage."
     "name": "Longsword"
   - "desc": "Zariel touches one creature within 10 feet of her. The target must succeed\
       \ on a DC 26 Constitution saving throw or take 44 (8d10) necrotic damage and\
-      \ be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute. While\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the target\
-      \ is [blinded](/3-Mechanics/CLI/conditions.md#Blinded) and [deafened](/3-Mechanics/CLI/conditions.md#Deafened).\
+      \ be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute.\
+      \ While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ the target is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Horrid Touch (Recharge 5-6)"
@@ -107,25 +110,24 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
     "name": "Teleport"
   - "desc": "Zariel casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 26):\n\n**At\
-      \ will:** [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
-      \ Medium when changing her appearance), [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-      \ (self only), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md), [wall\
-      \ of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\n**3/day each:**\
-      \ [blade barrier](/3-Mechanics/CLI/spells/blade-barrier-xphb.md), [dispel evil\
-      \ and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [finger of\
-      \ death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium\
+      \ when changing her appearance), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only), [major image](3-Mechanics/CLI/spells/major-image.md), [wall of\
+      \ fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**3/day each:** [blade barrier](3-Mechanics/CLI/spells/blade-barrier.md),\
+      \ [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md), [finger\
+      \ of death](3-Mechanics/CLI/spells/finger-of-death.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Zariel can take one\
       \ of the following lair actions; she can't take the same lair action two rounds\
-      \ in a row:\n\n- **Fireball.** Zariel casts the [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)\
-      \ spell.  \n- **Infernal Illusions.** Zariel casts the [major image](/3-Mechanics/CLI/spells/major-image-xphb.md)\
+      \ in a row:\n\n- **Fireball.** Zariel casts the [fireball](3-Mechanics/CLI/spells/fireball.md)\
+      \ spell.  \n- **Infernal Illusions.** Zariel casts the [major image](3-Mechanics/CLI/spells/major-image.md)\
       \ spell four times, targeting different areas with it. Zariel prefers to create\
       \ images of intruders' loved ones being burned alive. Zariel doesn't need to\
       \ concentrate on the spells, which end on initiative count 20 of the next round.\
       \ Each creature that can see these illusions must succeed on a DC 26 Wisdom\
-      \ saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ of the illusion for 1 minute. A frightened creature can repeat the saving\
       \ throw at the end of each of its turns, ending the effect on itself on a success.\
       \  "
@@ -155,6 +157,6 @@ Zariel makes her lair in a basalt citadel that rises up in Avernus. From nearly 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zariel-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zariel-mpmm.webp"
 ```
 ^statblock

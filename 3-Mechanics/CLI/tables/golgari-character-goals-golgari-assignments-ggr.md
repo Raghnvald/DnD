@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Golgari Character Goals; Golgari Assignments
+- "Golgari Character Goals; Golgari Assignments"
 ---
 # Golgari Character Goals; Golgari Assignments
 *Source: Guildmasters' Guide to Ravnica p. 140* 
 
 **Golgari Assignments**
-
-`dice: [](golgari-character-goals-golgari-assignments-ggr.md#^golgari-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

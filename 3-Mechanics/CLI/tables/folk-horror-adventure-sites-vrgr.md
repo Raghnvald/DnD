@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Folk Horror Adventure Sites
+- "Folk Horror Adventure Sites"
 ---
 # Folk Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
 **Folk Horror Adventure Sites**
-
-`dice: [](folk-horror-adventure-sites-vrgr.md#^folk-horror-adventure-sites)`
 
 | dice: d6 | Adventure Site |
 |----------|----------------|

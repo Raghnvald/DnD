@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/race/dragonborn/gem
 aliases:
-- Dragonborn (Gem)
+- "Dragonborn (Gem)"
 ---
 # Dragonborn (Gem)
 *Source: Fizban's Treasury of Dragons p. 11*  
-![Sapphire, amethyst, and em...](/3-Mechanics/CLI/races/img/gem-dragonborn.webp#right "Sapphire, amethyst, and emerald dragonborn share stories around the fire")
+![Sapphire, amethyst, and emerald dragonborn share stories around the fire](3-Mechanics/CLI/races/img/gem-dragonborn.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -35,7 +35,7 @@ You have a gem dragon ancestor, granting you a special magical affinity. Choose 
 
 ### Breath Weapon
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes `dice:1d10|noform|noparens|avg` (`1d10`) damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by `dice:1d10|noform|noparens|avg` (`1d10`) when you reach 5th level (`dice:2d10|noform|noparens|avg` (`2d10`)), 11th level (`dice:3d10|noform|noparens|avg` (`3d10`)), and 17th level (`dice:4d10|noform|noparens|avg` (`4d10`)).
+When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in a 15-foot cone. Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus). On a failed save, the creature takes `1d10` damage of the type associated with your Gem Ancestry. On a successful save, it takes half as much damage. This damage increases by `1d10` when you reach 5th level (`2d10`), 11th level (`3d10`), and 17th level (`4d10`).
 
 You can use your Breath Weapon a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

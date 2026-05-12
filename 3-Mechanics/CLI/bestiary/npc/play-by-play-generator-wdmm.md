@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Play-by-Play Generator
+- "Play-by-Play Generator"
 ---
-# [Play-by-Play Generator](3-Mechanics\CLI\bestiary\npc/play-by-play-generator-wdmm.md)
+# [Play-by-Play Generator](3-Mechanics/CLI/bestiary/npc/play-by-play-generator-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 205*  
 
 ```statblock
@@ -34,9 +34,12 @@ aliases:
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "truesight 120 ft., passive Perception 12"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 12"
 "languages": "Common"
 "cr": "1"
 "traits":
@@ -49,8 +52,8 @@ aliases:
 "actions":
   - "desc": "The generator makes two fist attacks or four dart attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) bludgeoning damage."
     "name": "Fist"
   - "desc": "The generator hurls a magic dart at a target it can see up to 60 feet\
       \ away from it. The dart hits its target automatically (no attack roll required)\
@@ -58,6 +61,6 @@ aliases:
     "name": "Magic Dart"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/play-by-play-generator-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/play-by-play-generator-wdmm.webp"
 ```
 ^statblock

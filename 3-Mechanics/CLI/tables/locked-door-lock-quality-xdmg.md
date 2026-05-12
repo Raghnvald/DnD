@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Locked Door; Lock Quality
+- "Locked Door; Lock Quality"
 ---
 # Locked Door; Lock Quality
 *Source: Dungeon Master's Guide (2024) p. 64* 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Elemental Myrmidon
+- "Fire Elemental Myrmidon"
 ---
-# [Fire Elemental Myrmidon](3-Mechanics\CLI\bestiary\elemental/fire-elemental-myrmidon-mpmm.md)
+# [Fire Elemental Myrmidon](3-Mechanics/CLI/bestiary/elemental/fire-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
@@ -25,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "123"
 "hit_dice": "19d8 + 38"
 "modifier": !!int "4"
@@ -39,10 +39,13 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Ignan, one language of its creator's choice"
 "cr": "7"
 "traits":
@@ -55,8 +58,8 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "actions":
   - "desc": "The myrmidon makes three Scimitar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) force damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) force damage."
     "name": "Scimitar"
   - "desc": "The myrmidon uses Multiattack. Each attack that hits deals an extra 7\
       \ (2d6) fire damage."
@@ -64,6 +67,6 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/fire-elemental-myrmidon-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/fire-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

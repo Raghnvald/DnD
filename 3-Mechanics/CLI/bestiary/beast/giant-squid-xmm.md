@@ -11,14 +11,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Squid
+- "Giant Squid"
 ---
-# [Giant Squid](3-Mechanics\CLI\bestiary\beast/giant-squid-xmm.md)
+# [Giant Squid](3-Mechanics/CLI/bestiary/beast/giant-squid-xmm.md)
 *Source: Monster Manual (2024) p. 360*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Squid (XMM)"
@@ -41,10 +41,10 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "strength": !!int "9"
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": ""
 "cr": "6"
 "traits":
@@ -53,24 +53,25 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "actions":
   - "desc": "The squid makes one Bite attack and one Tentacle attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 28 (4d10 + 6) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +9, reach 5 ft. *Hit:* 28 (4d10 + 6) Piercing\
+      \ damage."
     "name": "Bite"
   - "desc": "*Melee Attack Roll:* +9, reach 15 ft. *Hit:* 19 (3d8 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage. If the target is a Huge or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 16) from one of two tentacles, and the squid can pull\
       \ the target up to 10 feet straight toward itself."
     "name": "Tentacle"
 "reactions":
   - "desc": "Trigger: The squid takes damage while underwater. _Response:_ The squid\
-      \ releases ink that fills a 15-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
-      \ centered on itself, and the squid moves up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md).\
-      \ The [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) is\
-      \ [Heavily Obscured](/3-Mechanics/CLI/variant-rules/heavily-obscured-xphb.md)\
+      \ releases ink that fills a 15-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ centered on itself, and the squid moves up to its [Swim Speed](3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md).\
+      \ The [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ is [Heavily Obscured](3-Mechanics/CLI/rules/variant-rules/heavily-obscured-xphb.md)\
       \ for 1 minute or until a strong current or similar effect disperses the ink."
     "name": "Ink Cloud (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-squid-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-squid-xmm.webp"
 ```
 ^statblock
 

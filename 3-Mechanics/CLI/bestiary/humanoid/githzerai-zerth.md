@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githzerai Zerth
+- "Githzerai Zerth"
 ---
-# [Githzerai Zerth](3-Mechanics\CLI\bestiary\humanoid/githzerai-zerth.md)
+# [Githzerai Zerth](3-Mechanics/CLI/bestiary/humanoid/githzerai-zerth.md)
 *Source: Monster Manual p. 161*  
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -33,7 +33,7 @@ The social hierarchy of the githzerai is based on merit, and those githzerai who
 
 ## Disciples of Zerthimon
 
-Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md).
+Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md).
 
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths.
 
@@ -49,13 +49,13 @@ As a special devotion, they organize a rrakkma—an illithid hunting party—to 
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote] A quote from Aristul the Yellow, master of planar lore  
 > 
@@ -86,11 +86,11 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
   - "intelligence": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Gith"
@@ -98,11 +98,11 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 "traits":
   - "desc": "The githzerai's innate spellcasting ability is Wisdom. It can innately\
       \ cast the following spells, requiring no components:\n\n**At will:** [mage\
-      \ hand](/3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\n**3/day\
-      \ each:** [feather fall](/3-Mechanics/CLI/spells/feather-fall.md), [jump](/3-Mechanics/CLI/spells/jump.md),\
-      \ [see invisibility](/3-Mechanics/CLI/spells/see-invisibility.md), [shield](/3-Mechanics/CLI/spells/shield.md)\n\
-      \n**1/day each:** [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift.md)"
+      \ hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\n**3/day\
+      \ each:** [feather fall](3-Mechanics/CLI/spells/feather-fall.md), [jump](3-Mechanics/CLI/spells/jump.md),\
+      \ [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md), [shield](3-Mechanics/CLI/spells/shield.md)\n\
+      \n**1/day each:** [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "While the githzerai is wearing no armor and wielding no shield, its AC\
       \ includes its Wisdom modifier."
@@ -116,6 +116,6 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
     "name": "Unarmed Strike"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/githzerai-zerth.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/githzerai-zerth.webp"
 ```
 ^statblock

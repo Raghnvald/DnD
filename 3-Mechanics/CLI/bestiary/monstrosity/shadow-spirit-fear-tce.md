@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Spirit (Fear)
+- "Shadow Spirit (Fear)"
 ---
-# [Shadow Spirit (Fear)](3-Mechanics\CLI\bestiary\monstrosity/shadow-spirit-fear-tce.md)
+# [Shadow Spirit (Fear)](3-Mechanics/CLI/bestiary/monstrosity/shadow-spirit-fear-tce.md)
 *Source: Tasha's Cauldron of Everything p. 114*  
 
 ```statblock
@@ -31,9 +31,9 @@ aliases:
   - !!int "16"
 "speed": "40 ft."
 "damage_resistances": "necrotic"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages you speak"
 "actions":
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\
@@ -43,13 +43,14 @@ aliases:
       \ one target. *Hit:* 1d12 + 3 + the spell's level cold damage."
     "name": "Chilling Rend"
   - "desc": "The spirit screams. Each creature within 30 feet of it must succeed on\
-      \ a Wisdom saving throw against your spell save DC or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ for 1 minute. The [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ a Wisdom saving throw against your spell save DC or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. The [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Dreadful Scream (1/Day)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the spirit takes the Hide action."
+  - "desc": "While in dim light or darkness, the spirit takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action."
     "name": "Shadow Stealth"
 "source":
   - "TCE"

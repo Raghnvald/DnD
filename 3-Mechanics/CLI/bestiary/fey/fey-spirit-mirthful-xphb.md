@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fey Spirit (Mirthful)
+- "Fey Spirit (Mirthful)"
 ---
-# [Fey Spirit (Mirthful)](3-Mechanics\CLI\bestiary\fey/fey-spirit-mirthful-xphb.md)
+# [Fey Spirit (Mirthful)](3-Mechanics/CLI/bestiary/fey/fey-spirit-mirthful-xphb.md)
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -30,9 +30,9 @@ aliases:
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of Fey Blade attacks equal to half this spell's\
@@ -44,7 +44,7 @@ aliases:
 "bonus_actions":
   - "desc": "The spirit magically teleports up to 30 feet to an unoccupied space it\
       \ can see. *Wisdom Saving Throw:* DC equals your spell save DC, one creature\
-      \ the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ by you and the spirit for 1 minute or until the target takes any damage."
     "name": "Fey Step"
 "source":

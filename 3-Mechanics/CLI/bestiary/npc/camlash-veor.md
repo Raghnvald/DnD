@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Camlash
+- "Camlash"
 ---
-# [Camlash](3-Mechanics\CLI\bestiary\npc/camlash-veor.md)
+# [Camlash](3-Mechanics/CLI/bestiary/npc/camlash-veor.md)
 *Source: Vecna: Eve of Ruin p. 181*  
 
 Camlash is a monstrous demon covered in countless tiny, crawling spiders that appear and disappear at random.
@@ -46,8 +46,9 @@ Lolth isn't present in Pandesmos; she has given command of her legions to Camlas
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -62,26 +63,26 @@ Lolth isn't present in Pandesmos; she has given command of her legions to Camlas
     "name": "Magic Resistance"
   - "desc": "Camlash is surrounded by tiny biting spiders that magically appear and\
       \ disappear from moment to moment. At the start of each of Camlash's turns,\
-      \ each creature within 10 feet of Camlash takes 10 (3d6) poison damage and must\
-      \ succeed on a DC 21 Constitution saving throw or have the paralyzed condition\
-      \ until the start of Camlash's next turn."
+      \ each creature within 10 feet of Camlash takes 10 (3d6) poison damage and\
+      \ must succeed on a DC 21 Constitution saving throw or have the [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ condition until the start of Camlash's next turn."
     "name": "Spider Aura"
 "actions":
   - "desc": "Camlash makes one Flaming Whip attack and one Lightning Blade attack.\
       \ Camlash can replace one of these attacks with Teleport."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 30 ft., one target. *Hit:* 25\
-      \ (5d6 + 8) fire damage, and if the target is a creature, it must succeed on\
-      \ a DC 21 Strength saving throw or be pulled up to 25 feet toward Camlash."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 30 ft., one target. *Hit:*\
+      \ 25 (5d6 + 8) fire damage, and if the target is a creature, it must succeed\
+      \ on a DC 21 Strength saving throw or be pulled up to 25 feet toward Camlash."
     "name": "Flaming Whip"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d8 + 8) slashing damage plus 13 (3d8) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage."
     "name": "Lightning Blade"
   - "desc": "Camlash magically teleports, along with any equipment she is wearing\
       \ or carrying, up to 120 feet to an unoccupied space she can see."
     "name": "Teleport"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/camlash-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/camlash-veor.webp"
 ```
 ^statblock

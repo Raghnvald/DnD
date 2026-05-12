@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ochre Jelly
+- "Ochre Jelly"
 ---
-# [Ochre Jelly](3-Mechanics\CLI\bestiary\ooze/ochre-jelly.md)
+# [Ochre Jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md)
 *Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
@@ -65,11 +65,11 @@ An ooze doesn't require sleep.
 "speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "2"
 "traits":
@@ -79,8 +79,8 @@ An ooze doesn't require sleep.
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) bludgeoning damage plus 3 (1d6) acid damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage."
     "name": "Pseudopod"
 "reactions":
   - "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
@@ -90,7 +90,7 @@ An ooze doesn't require sleep.
     "name": "Split"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly.webp"
 ```
 ^statblock
 

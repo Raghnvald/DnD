@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/armor/medium
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/item/armor/medium
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Serpent Scale Armor"
 ---
 # Serpent Scale Armor

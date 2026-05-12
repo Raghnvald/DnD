@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fensir Devourer
+- "Fensir Devourer"
 ---
-# [Fensir Devourer](3-Mechanics\CLI\bestiary\celestial/fensir-devourer-bgg.md)
+# [Fensir Devourer](3-Mechanics/CLI/bestiary/celestial/fensir-devourer-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 135*  
 
 Some fensirs undergo a transformation after living in Ysgard for at least a thousand years. They grow rapidly to a height of 25 feet, fueled by an insatiable hunger. These fensir devourers use their great size and strength to overwhelm foes. They can also issue a baleful curse in their final moments.
@@ -53,12 +53,11 @@ The transformation that created fensirs left them with an odd quirk to their reg
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+8"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Common, Giant"
 "cr": "8"
 "traits":
@@ -76,24 +75,24 @@ The transformation that created fensirs left them with an odd quirk to their reg
       \ its turn with 0 hit points and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "When the fensir starts its turn in sunlight, it must succeed on a DC\
-      \ 15 Constitution saving throw or have the [petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
-      \ condition until the fensir is no longer in sunlight."
+      \ 15 Constitution saving throw or have the petrified condition until the fensir\
+      \ is no longer in sunlight."
     "name": "Sunlight Hypersensitivity"
 "actions":
   - "desc": "The fensir makes two attacks, using Rend, Boulder, or a combination of\
       \ them."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d10 + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d10 + 5) slashing damage."
     "name": "Rend"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:*\
       \ 18 (2d12 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 16 Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition. After the fensir throws the boulder, roll a d6; on a roll of 4\
-      \ or lower, the fensir has no more boulders to throw."
+      \ it must succeed on a DC 16 Strength saving throw or have the prone condition.\
+      \ After the fensir throws the boulder, roll a d6; on a roll of 4 or lower,\
+      \ the fensir has no more boulders to throw."
     "name": "Boulder"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/fensir-devourer-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/fensir-devourer-bgg.webp"
 ```
 ^statblock

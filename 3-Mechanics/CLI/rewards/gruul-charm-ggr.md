@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- Quelle/5e/ggr
-- Kompendium/reward/charm
+- ttrpg-cli/compendium/src/5e/ggr
+- ttrpg-cli/reward/charm
 aliases:
-- Gruul Charm
+- "Gruul Charm"
 ---
 # Gruul Charm
 *Charm*  

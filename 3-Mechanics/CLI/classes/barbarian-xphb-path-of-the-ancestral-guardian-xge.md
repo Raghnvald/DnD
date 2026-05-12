@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/barbarian/ancestral-guardian
 aliases:
-- Path of the Ancestral Guardian
+- "Path of the Ancestral Guardian"
 ---
 # Path of the Ancestral Guardian
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
@@ -47,13 +47,11 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Path of the Ancestral Guardian (Level 3)
-
 Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.
 
 Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.
+
+## Subclass Features
 
 ### Ancestral Protectors (Level 3)
 
@@ -61,13 +59,13 @@ Starting when you choose this path at 3rd level, spectral warriors appear when y
 
 ### Spirit Shield (Level 6)
 
-Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `dice:2d6|noform|noparens|avg` (`2d6`).
+Beginning at 6th level, the guardian spirits that aid you can provide supernatural protection to those you defend. If you are raging and another creature you can see within 30 feet of you takes damage, you can use your reaction to reduce that damage by `2d6`.
 
-When you reach certain levels in this class, you can reduce the damage by more: by `dice:3d6|noform|noparens|avg` (`3d6`) at 10th level and by `dice:4d6|noform|noparens|avg` (`4d6`) at 14th level.
+When you reach certain levels in this class, you can reduce the damage by more: by `3d6` at 10th level and by `4d6` at 14th level.
 
 ### Consult the Spirits (Level 10)
 
-At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](/3-Mechanics/CLI/spells/augury-xphb.md) or [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md) invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
+At 10th level, you gain the ability to consult with your ancestral spirits. When you do so, you cast the [augury](3-Mechanics/CLI/spells/augury-xphb.md) or [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell, without using a spell slot or material components. Rather than creating a spherical sensor, this use of [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) invisibly summons one of your ancestral spirits to the chosen location. Wisdom is your spellcasting ability for these spells.
 
 After you cast either spell in this way, you can't use this feature again until you finish a short or long rest.
 

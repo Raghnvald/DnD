@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/huge
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Huge Polar Bear
+- "Huge Polar Bear"
 ---
-# [Huge Polar Bear](3-Mechanics\CLI\bestiary\beast/huge-polar-bear-tftyp.md)
+# [Huge Polar Bear](3-Mechanics/CLI/bestiary/beast/huge-polar-bear-tftyp.md)
 *Source: Tales from the Yawning Portal p. 187*  
 
 ```statblock
@@ -34,25 +34,26 @@ aliases:
   - !!int "7"
 "speed": "40 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The bear has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The bear has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
   - "desc": "The bear makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claws"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/huge-polar-bear-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/huge-polar-bear-tftyp.webp"
 ```
 ^statblock

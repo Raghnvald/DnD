@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Caer-Konig
+- "Caer-Konig"
 ---
 # Caer-Konig
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 46* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/031-01-016-shield-caer-konig.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/031-01-016-shield-caer-konig.webp#center)
 
 The white, snow-covered slopes of Kelvin's Cairn loom large behind this quiet lakeside town. Caer-Konig started as a camp for a group of mountaineers from the northern Moonsea region. As the camp grew, a wooden palisade was added to discourage raiders. Later came the stone castle of Caer-Konig. Alas, neither the palisade nor the castle fared well; both fell to orcs before falling into ruin.
 
@@ -18,7 +18,7 @@ Caer-Konig as it is known today consists of terraced rows of houses that recede 
 
 Travel to and from this remote town was expedited by the ferry that ran out of Easthaven, but with the ferry shut down, Caer-Konig is completely cut off by mountains, lake, and snow. Forced to live on what they can haul out of the iced-over lake, the people of Caer-Konig are bitter and angry. They believe that the rest of Ten-Towns has abandoned them. The only thing that keeps the townsfolk from leaving is the beer at the local tavern, which never seems to run out.
 
-As if things weren't bad enough, the town has suffered several mysterious break-ins recently, with no evidence of the intruders except dwarven boot tracks in the snow leading north. Since there are no known settlements in that direction, the townsfolk assume that Auril's everlasting winter has taken its toll on the dwarves of Kelvin's Cairn, forcing them to come down from the mountain in search of food or beer. In truth, the town is beset by invisible duergar searching for chardalyn.
+As if things weren't bad enough, the town has suffered several mysterious break-ins recently, with no evidence of the intruders except dwarven boot tracks in the snow leading north. Since there are no known settlements in that direction, the townsfolk assume that Auril's everlasting winter has taken its toll on the dwarves of Kelvin's Cairn, forcing them to come down from the mountain in search of food or beer. In truth, the town is beset by [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) duergar searching for chardalyn.
 
 The town speaker, a heavy-drinking dragonborn named Trovus, patrols at night to keep an eye out for trouble. In his inebriated state, however, Trovus is prone to wandering out onto the icy lake or passing out on the ramshackle docks, and he almost never remembers his nightly patrols once his head clears.
 
@@ -34,11 +34,11 @@ The town speaker, a heavy-drinking dragonborn named Trovus, patrols at night to 
 
 ### Leader
 
-Speaker Trovus (neutral good silver dragonborn [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)), a retired adventurer, represents the town. Trovus won over his fellow townsfolk with his brawn and good humor, though he's too blunt to be a good politician and drinks too much.
+Speaker Trovus (neutral good silver dragonborn [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)), a retired adventurer, represents the town. Trovus won over his fellow townsfolk with his brawn and good humor, though he's too blunt to be a good politician and drinks too much.
 
 ### Militia
 
-Caer-Konig can muster up to 25 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 2 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Caer-Konig can muster up to 25 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 2 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** A white fish silhouette rising from the center bottom of a dark blue field, which has a white border on all sides but its bottom. The fish signifies the local fishing trade, and the broken border represents the snow and the harbor surrounding the town.  
 
@@ -55,8 +55,8 @@ A three-mile-long, snow-covered path links Caer-Konig to the neighboring town of
 ## Locations in Caer-Konig
 
 > [!gallery]
-> ![Map 1.5: Caer-Konig](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/032-map-1-5-caer-konig.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/033-map-1-5-caer-konig-player.webp#gallery)
+> ![Map 1.5: Caer-Konig](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/032-map-1-5-caer-konig.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/033-map-1-5-caer-konig-player.webp#gallery)
 
 The following locations are marked on map 1.5.
 
@@ -64,7 +64,7 @@ The following locations are marked on map 1.5.
 
 *Tavern*
 
-This tavern owes its popularity to the free half-pints of ale that the proprietor, Eglendar "Glen" Korr (neutral good half-elf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), keeps on the table by the front door. He presses one into the hand of every person who stops by (the hook), which compels most of them to stay to order seconds and thirds (the line). The "sinker" part of the tavern's name refers both to the last drink call of the night and—when locals challenge visitors to a drinking contest—to the last drink that sends a losing contestant under the table.
+This tavern owes its popularity to the free half-pints of ale that the proprietor, Eglendar "Glen" Korr (neutral good half-elf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), keeps on the table by the front door. He presses one into the hand of every person who stops by (the hook), which compels most of them to stay to order seconds and thirds (the line). The "sinker" part of the tavern's name refers both to the last drink call of the night and—when locals challenge visitors to a drinking contest—to the last drink that sends a losing contestant under the table.
 
 Glen gets his ale from the dwarves who live in the valley at the foot of Kelvin's Cairn, and he pays Jarthra the dwarf (see "Frozenfar Expeditions" below) to fetch it for him.
 
@@ -72,7 +72,7 @@ Glen gets his ale from the dwarves who live in the valley at the foot of Kelvin'
 
 *Adventuring outfitter*
 
-Run by a seasoned ranger named Atenas Swift (neutral good human [scout](/3-Mechanics/CLI/bestiary/humanoid/scout.md)), this shop sells adventuring gear. Attached to the shop is a locked wooden shed where Atenas stores a pair of dogsleds and a kennel where he keeps a dozen healthy sled dogs (use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) stat block to represent them). Six dogs are enough to pull each sled. Helping Atenas run the shop is an experienced mountain guide named Jarthra Farzassh (lawful good shield dwarf [scout](/3-Mechanics/CLI/bestiary/humanoid/scout.md)). The two have an excellent rapport, mixed with some competitive ribbing.
+Run by a seasoned ranger named Atenas Swift (neutral good human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)), this shop sells adventuring gear. Attached to the shop is a locked wooden shed where Atenas stores a pair of dogsleds and a kennel where he keeps a dozen healthy sled dogs (use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) stat block to represent them). Six dogs are enough to pull each sled. Helping Atenas run the shop is an experienced mountain guide named Jarthra Farzassh (lawful good shield dwarf [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)). The two have an excellent rapport, mixed with some competitive ribbing.
 
 Age has caught up with Atenas. He can feel the cold in his joints and ventures out less frequently than he once did. Nowadays, he prefers to stay indoors while offering Jarthra's services as a wilderness guide.
 
@@ -80,17 +80,17 @@ Age has caught up with Atenas. He can feel the cold in his joints and ventures o
 
 *Inn*
 
-The inn gets its name from a magic lantern that once hung above the front door. An invisible duergar stole it recently, depriving the establishment of some of its charm.
+The inn gets its name from a magic lantern that once hung above the front door. An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) duergar stole it recently, depriving the establishment of some of its charm.
 
-The inn is kept by the Shorard sisters (neutral good human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)). The younger, Allie, is lithe and charming; she greets guests and does all the cleaning. The older, Cori, is stout and scowling; she sees to the inn's provisioning and handles all the cooking. The sisters cast baleful glances at one another and bicker behind closed doors, but nothing ever comes of their feuds, as evidenced by the fact that they've been running the inn together for more than a decade.
+The inn is kept by the Shorard sisters (neutral good human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)). The younger, Allie, is lithe and charming; she greets guests and does all the cleaning. The older, Cori, is stout and scowling; she sees to the inn's provisioning and handles all the cooking. The sisters cast baleful glances at one another and bicker behind closed doors, but nothing ever comes of their feuds, as evidenced by the fact that they've been running the inn together for more than a decade.
 
-![Trovus, the dragonborn tow...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/034-01-017-trovus.webp#center "Trovus, the dragonborn town speaker of Caer-Konig, partakes of a drink as he guards the Northern Light")
+![Trovus, the dragonborn town speaker of Caer-Konig, partakes of a drink as he guards the Northern Light](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/034-01-017-trovus.webp#center)
 
 ## The Unseen
 
-The characters can pick up this quest if they start the adventure in Caer-Konig or when they arrive in town. It begins as the characters enter the quiet village, which is being tormented by invisible thieves.
+The characters can pick up this quest if they start the adventure in Caer-Konig or when they arrive in town. It begins as the characters enter the quiet village, which is being tormented by [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) thieves.
 
-Led by [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)'s younger son, Nildar, invisible duergar are searching Caer-Konig for chardalyn, bringing whatever interesting things they find back to their outpost on the side of Kelvin's Cairn. It's up to the characters whether they help the people of Caer-Konig restore their stolen valuables, or confront the duergar for their own personal gain.
+Led by [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)'s younger son, Nildar, [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) duergar are searching Caer-Konig for chardalyn, bringing whatever interesting things they find back to their outpost on the side of Kelvin's Cairn. It's up to the characters whether they help the people of Caer-Konig restore their stolen valuables, or confront the duergar for their own personal gain.
 
 ### Getting the Quest
 
@@ -103,7 +103,7 @@ Led by [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idr
 > When he pulls down the scarf covering his face, you see it is a silver dragonborn holding onto an empty wine bottle as if it was a weapon. He belches, grins at you, and says, "Pardon my manners. Bit jittery with all the thieving going on. I'm Trovus, the town speaker."
 ^109
 
-Trovus (neutral good silver dragonborn [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) spends most of his days drinking and reminiscing about his bygone adventuring days. He's been patrolling at night looking for thieves, but after yet another night of heavy drinking, he passed out in the snow after a few hours. He has no recollection of how he ended up in the snow pile or why he was outside drinking in the first place.
+Trovus (neutral good silver dragonborn [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) spends most of his days drinking and reminiscing about his bygone adventuring days. He's been patrolling at night looking for thieves, but after yet another night of heavy drinking, he passed out in the snow after a few hours. He has no recollection of how he ended up in the snow pile or why he was outside drinking in the first place.
 
 If he's asked about the thieves, Trovus takes a deep breath, trying to suppress his hiccups, before explaining the situation:
 
@@ -133,7 +133,7 @@ Trovus leads the characters through Caer-Konig to the Northern Light on the east
 > The woman then opens a door into what looks like a kitchen and calls out, "Heat up something for Trovus. He's been out 'patrolling' again."
 ^10c
 
-The woman, Allie, is one of the Shorard sisters (neutral good human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who own the inn. The other owner, Cori, is working in the kitchen. Allie settles Trovus into a chair before approaching the characters.
+The woman, Allie, is one of the Shorard sisters (neutral good human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who own the inn. The other owner, Cori, is working in the kitchen. Allie settles Trovus into a chair before approaching the characters.
 
 She confirms that the town has been experiencing break-ins and robberies lately, but no one has witnessed a potential culprit. The only clue is a set of tracks leading in the direction of Kelvin's Cairn. Allie thinks the tracks were made by dwarves who live in the valley at the base of Kelvin's Cairn. She suspects that the endless winter has made the dwarves desperate for food and ale, though she can't explain why the dwarves would steal the inn's lantern and other valuables. Allie is also surprised that no one in Caer-Konig has seen or heard the dwarves, remarking that "A quiet dwarf is an oxymoron."
 
@@ -148,19 +148,19 @@ If the characters ask Cori for details, she explains that the magic lantern that
 
 If asked about a reward for dealing with the thieves, the sisters say they have little coin, but they can provide food and comfortable beds in exchange for the party's help. They'll even throw in a few flagons of beer if the characters can bring their magic lantern back to the inn.
 
-If the characters accept the quest, Allie takes them to the back of the inn, where faint footprints lead toward Kelvin's Cairn. If they refuse the quest, Caer-Konig continues to be tormented by invisible thieves until the duergar stop searching the town for chardalyn.
+If the characters accept the quest, Allie takes them to the back of the inn, where faint footprints lead toward Kelvin's Cairn. If they refuse the quest, Caer-Konig continues to be tormented by [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) thieves until the duergar stop searching the town for chardalyn.
 
 #### Getting a Dogsled
 
-If the characters are interested in following the suspicious tracks, the Shorard sisters suggest they visit Frozenfar Expeditions and secure a dogsled before setting out on their adventure. If the characters do so, they discover that Jarthra, the mountain guide at Frozenfar Expeditions, is willing to accompany the characters for a small fee of 10 gp per day of travel. Jarthra has advantage on Wisdom (Survival) checks made in the vicinity of Kelvin's Cairn.
+If the characters are interested in following the suspicious tracks, the Shorard sisters suggest they visit Frozenfar Expeditions and secure a dogsled before setting out on their adventure. If the characters do so, they discover that Jarthra, the mountain guide at Frozenfar Expeditions, is willing to accompany the characters for a small fee of 10 gp per day of travel. Jarthra has advantage on Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) checks made in the vicinity of Kelvin's Cairn.
 
 ### Following the Tracks
 
 The tracks leading away from the inn have been partly filled with blowing snow, making them appear as small depressions. Once the characters get about 50 feet away from the inn and its outbuildings, they discover that the tracks have been completely obscured.
 
-If the characters wait until morning to set out, they find a set of fresh footprints left behind by a lone duergar scout. This duergar didn't enter any buildings, but simply looked around the village before leaving close to morning. Following the footprints leads to a different set of tracks, which were made by an ogre zombie pulling a dogsled. These new tracks begin where the duergar tracks end, a quarter-mile outside of town. (The ogre zombie waited all night for the duergar to return. The duergar hopped onto the dogsled before ordering the ogre zombie to march.) Any character who examines these tracks and succeeds on a DC 15 Wisdom (Survival) check identifies the creature tracks as belonging to an ogre. The characters can follow these fresh tracks, which head toward the mountain and then veer toward the duergar outpost hidden in the northeastern foothills of Kelvin's Cairn.
+If the characters wait until morning to set out, they find a set of fresh footprints left behind by a lone duergar scout. This duergar didn't enter any buildings, but simply looked around the village before leaving close to morning. Following the footprints leads to a different set of tracks, which were made by an ogre zombie pulling a dogsled. These new tracks begin where the duergar tracks end, a quarter-mile outside of town. (The ogre zombie waited all night for the duergar to return. The duergar hopped onto the dogsled before ordering the ogre zombie to march.) Any character who examines these tracks and succeeds on a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check identifies the creature tracks as belonging to an ogre. The characters can follow these fresh tracks, which head toward the mountain and then veer toward the duergar outpost hidden in the northeastern foothills of Kelvin's Cairn.
 
-Once the characters get within a mile of the outpost, they discover that the wind has erased the tracks they've been following, making it difficult for them to find the exact destination. For every hour the characters spend searching the foothills, have them make a DC 15 Wisdom (Survival) group check. Jarthra contributes to this group check, if she's present, and has advantage on her roll. If the group check succeeds, the characters find the outpost. If the group check fails, they didn't find the outpost during that hour but can try again. If they fail two of these group checks in a row, the characters have a random encounter in the wilderness, possibly during a blizzard (see "Wilderness Encounters").
+Once the characters get within a mile of the outpost, they discover that the wind has erased the tracks they've been following, making it difficult for them to find the exact destination. For every hour the characters spend searching the foothills, have them make a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) group check. Jarthra contributes to this group check, if she's present, and has advantage on her roll. If the group check succeeds, the characters find the outpost. If the group check fails, they didn't find the outpost during that hour but can try again. If they fail two of these group checks in a row, the characters have a random encounter in the wilderness, possibly during a blizzard (see "Wilderness Encounters").
 
 ### Approaching the Outpost
 
@@ -179,30 +179,30 @@ When the characters find the duergar outpost, read:
 
 Two duergar watch for approaching intruders. One is stationed in the bunker (area O1), the other in the overlook (area O3). These duergar are tired and bored, but they notice characters who are so incautious as to carry light sources or otherwise announce their presence.
 
-If the overlook duergar sees what she perceives to be a threat, she sounds the alarm as she runs down to the main entrance (area O2) to pull up the drawbridge, taking 2 rounds to do so. The duergar in the bunker is armed with a heavy crossbow (`dice:1d10|noform|noparens|avg` (`1d10`) piercing damage) and takes pot shots at visible threats.
+If the overlook duergar sees what she perceives to be a threat, she sounds the alarm as she runs down to the main entrance (area O2) to pull up the drawbridge, taking 2 rounds to do so. The duergar in the bunker is armed with a heavy crossbow (`1d10` piercing damage) and takes pot shots at visible threats.
 
-Characters who succeed on a DC 10 Dexterity (Stealth) check can approach the stronghold undetected by hugging the north cliff and moving behind the bunker and below the openings of the overlook. Once they reach the mouth of the frozen river, they can crawl through the culvert (which leads under area O2) or quietly approach the main entrance without being detected.
+Characters who succeed on a DC 10 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check can approach the stronghold undetected by hugging the north cliff and moving behind the bunker and below the openings of the overlook. Once they reach the mouth of the frozen river, they can crawl through the culvert (which leads under area O2) or quietly approach the main entrance without being detected.
 
 > [!note] Roleplaying the Duergar
 > 
-> When the characters arrive, the outpost contains five [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) (including Nildar), who behave as described here.
+> When the characters arrive, the outpost contains five [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) (including Nildar), who behave as described here.
 > 
-> Before entering combat, these duergar use their Enlarge trait to increase their size. If a duergar is caught alone by a group of foes, it calls out for help before turning invisible. When backup arrives, it uses its Enlarge and rejoins the fight.
+> Before entering combat, these duergar use their Enlarge trait to increase their size. If a duergar is caught alone by a group of foes, it calls out for help before turning [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). When backup arrives, it uses its Enlarge and rejoins the fight.
 > 
-> These duergar won't negotiate, and they refuse to surrender. If the characters capture and interrogate a duergar, a successful DC 14 Charisma (Intimidation) check can convince the prisoner to divulge the following information:
+> These duergar won't negotiate, and they refuse to surrender. If the characters capture and interrogate a duergar, a successful DC 14 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) check can convince the prisoner to divulge the following information:
 > 
 > - Nildar Sunblight commands the outpost.  
-> - Nildar is searching Ten-Towns for chardalyn on behalf of his father, [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), who commands a much larger fortress in the mountains. Xardorok is obsessed with chardalyn and is forging a dragon out of it.  
+> - Nildar is searching Ten-Towns for chardalyn on behalf of his father, [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), who commands a much larger fortress in the mountains. Xardorok is obsessed with chardalyn and is forging a dragon out of it.  
 > - The outpost was built close to Kelvin's Cairn for a reason. Once Ten-Towns is destroyed, the duergar plan to use this outpost as a staging area for a raid against the mines in the Dwarven Valley.  
 ^roleplaying-the-duergar
 
 ### Outpost Locations
 
-The duergar outpost was not built with the intention of being aesthetically pleasing or welcoming to strangers. There is no interior lighting, since the duergar rely on darkvision to see. The walls and entryways are all 10 feet high, allowing duergar that have grown to Large size to move around easily.
+The duergar outpost was not built with the intention of being aesthetically pleasing or welcoming to strangers. There is no interior lighting, since the duergar rely on [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) to see. The walls and entryways are all 10 feet high, allowing duergar that have grown to Large size to move around easily.
 
 > [!gallery]
-> ![Map 1.6: Duergar Outpost](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/035-map-1-6-duergar-outpost.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/036-map-1-6-duergar-outpost-player.webp#gallery)
+> ![Map 1.6: Duergar Outpost](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/035-map-1-6-duergar-outpost.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/036-map-1-6-duergar-outpost-player.webp#gallery)
 
 The following locations are keyed to map 1.6.
 
@@ -213,7 +213,7 @@ The following locations are keyed to map 1.6.
 > This stone bunker stands fifteen feet tall. The rough edges of its construction indicate that it was cut from a single piece of stone.
 ^115
 
-A [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Brojk stands guard in the bunker and shoots his heavy crossbow through the arrow slits at any creatures he sees. He carries this crossbow in addition to his regular weapons.
+A [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Brojk stands guard in the bunker and shoots his heavy crossbow through the arrow slits at any creatures he sees. He carries this crossbow in addition to his regular weapons.
 
 ##### Underground Tunnel
 
@@ -221,14 +221,14 @@ This 5-foot-high tunnel is 20 feet underground and has a 20-foot-long ladder at 
 
 #### O2. Main Keep
 
-The outer doors aren't locked, but they are heavy. As an action, a character can pull the doors open by succeeding on a DC 12 Strength (Athletics) check. A 30-foot-deep pit just inside these doors is spanned by a 20-foot-square wooden drawbridge that can be raised by a simple pull-chain mechanism in times of danger.
+The outer doors aren't locked, but they are heavy. As an action, a character can pull the doors open by succeeding on a DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A 30-foot-deep pit just inside these doors is spanned by a 20-foot-square wooden drawbridge that can be raised by a simple pull-chain mechanism in times of danger.
 
 > [!readaloud] 
 > 
 > This hall is devoid of decoration. A frozen well stands hear a hallway to the east, and three iron cages are pushed against one wall. One contains a malodorous ogre with rotting, half-frozen skin and an empty right eye socket. It howls in despair at the sight of you. Another cage holds a pair of nervous goats. The third cage is empty. Leaning against a wall near the cages is a wooden dogsled with ice clinging to it.
 ^118
 
-The two [goats](/3-Mechanics/CLI/bestiary/beast/goat.md) were stolen from Caer-Konig, and the duergar plan to eat them. The duergar use the [ogre zombie](/3-Mechanics/CLI/bestiary/undead/ogre-zombie.md) to pull their dogsled. The zombie has been enslaved and browbeaten by the duergar and does as they command. Inside its cage, it can do no harm to anyone.
+The two [goats](3-Mechanics/CLI/bestiary/beast/goat.md) were stolen from Caer-Konig, and the duergar plan to eat them. The duergar use the [ogre zombie](3-Mechanics/CLI/bestiary/undead/ogre-zombie.md) to pull their dogsled. The zombie has been enslaved and browbeaten by the duergar and does as they command. Inside its cage, it can do no harm to anyone.
 
 If they haven't already done so, the duergar from the bunker (area O1) and the overlook (area O3) run down to release the ogre zombie from its cage and attack intruders who breach this hall. The zombie sides with the duergar in any fight. Duergar that fall below half their hit points move behind the chokepoint (area O5), leaving the ogre zombie to cover their retreat if it comes to that.
 
@@ -243,11 +243,11 @@ The well descends 10 feet to an underground cistern. The sides of the well are i
 > The door opens into a large, nearly empty room. Snow has drifted into the corners, and frost covers the stone walls. Three barred openings overlook the snow-covered grounds outside the stronghold.
 ^11b
 
-Unless she has cause to leave the overlook and raise the drawbridge in area O2, a [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Urthhild stands guard here, stamping her feet to fight off the cold.
+Unless she has cause to leave the overlook and raise the drawbridge in area O2, a [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Urthhild stands guard here, stamping her feet to fight off the cold.
 
 ##### Barred Openings
 
-Vertical iron bars spaced 6 inches apart are embedded in the stone frames of three 5-foot-tall rectangular openings. As an action, a character can try to bend the bars to create an opening big enough for a Small creature to squeeze through, doing so with a successful DC 20 Strength (Athletics) check.
+Vertical iron bars spaced 6 inches apart are embedded in the stone frames of three 5-foot-tall rectangular openings. As an action, a character can try to bend the bars to create an opening big enough for a Small creature to squeeze through, doing so with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 #### O4. Armory
 
@@ -273,7 +273,7 @@ Nildar (see area O6) investigates any loud noises in this area. Once summoned, h
 
 ##### Trap
 
-When the lever is pulled, iron spikes spring out from the floor and ceiling to form barriers across each doorway. A creature in either opening must succeed on a DC 12 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) piercing damage from the spikes and be restrained until the spikes are retracted or the barrier is destroyed. The spikes can be retracted only by pulling the lever a second time.
+When the lever is pulled, iron spikes spring out from the floor and ceiling to form barriers across each doorway. A creature in either opening must succeed on a DC 12 Dexterity saving throw or take 7 (`2d6`) piercing damage from the spikes and be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the spikes are retracted or the barrier is destroyed. The spikes can be retracted only by pulling the lever a second time.
 
 This trap is designed to isolate a single enemy in the western part of the room, blocking it from its allies with the spikes. Creatures can see through the gaps between the spikes, but the gaps aren't big enough for a character to slip through. The barriers of spikes grant three-quarters cover to creatures behind them. Each barrier has AC 15, 18 hit points, and immunity to poison and psychic damage.
 
@@ -284,7 +284,7 @@ This trap is designed to isolate a single enemy in the western part of the room,
 > A stone-carved bed and desk occupy this drab room. Atop the desk are several shards of dark crystal, as well as a crumpled-up piece of paper and a burlap sack draped over a glowing object that emits colored light that shifts from blue to green to red.
 ^124
 
-If the characters made it through area O5 without getting into a fight, they catch Nildar Sunblight, a [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md), seated at the desk, studying his collection of glassy shards. He attacks the characters when they enter.
+If the characters made it through area O5 without getting into a fight, they catch Nildar Sunblight, a [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md), seated at the desk, studying his collection of glassy shards. He attacks the characters when they enter.
 
 The glowing object on the desk is a magic lantern, which Nildar has covered with a burlap sack to dull its light. The lantern is the one that was stolen from the Northern Light in Caer-Konig. It shifts in color from blue to green to red but has no other magical properties.
 
@@ -299,13 +299,13 @@ The crumpled-up piece of paper on the desk bears a message from Nildar's older b
 > Durth
 ^125
 
-![Nildar Sunblight](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/037-01-018-nildar.webp#center)
+![Nildar Sunblight](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/037-01-018-nildar.webp#center)
 
 The characters can visit the ferry or give Durth's letter to the authorities in Easthaven and let them deal with him (see "Easthaven," for more information).
 
 ##### Roleplaying Nildar
 
-Nildar's main goal is to please his father, whose obsession with chardalyn he shares. When he's not leading raids, Nildar spends most of his time examining goods stolen from Caer-Konig and elsewhere. The shards on the table include several pieces of ordinary tinted glass and three dagger-sized pieces of chardalyn (see "Chardalyn"). With a successful DC 16 Intelligence (Arcana) check, a character can determine that the chardalyn, despite its crystalline composition, is malleable, making it an ideal raw material for those who can fashion items from the substance. No other properties can be discerned with an ability check. These chardalyn fragments contain no magic and are safe to handle.
+Nildar's main goal is to please his father, whose obsession with chardalyn he shares. When he's not leading raids, Nildar spends most of his time examining goods stolen from Caer-Konig and elsewhere. The shards on the table include several pieces of ordinary tinted glass and three dagger-sized pieces of chardalyn (see "Chardalyn"). With a successful DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, a character can determine that the chardalyn, despite its crystalline composition, is malleable, making it an ideal raw material for those who can fashion items from the substance. No other properties can be discerned with an ability check. These chardalyn fragments contain no magic and are safe to handle.
 
 ##### Defeating Nildar
 
@@ -331,9 +331,9 @@ Characters who toss the room find a small coin purse stuffed into Nildar's bedro
 
 The barred opening in the northeast corner is similar to the ones in area O3.
 
-The three cells along the west wall are empty at present. Each of the five cells along the south wall holds one prisoner, formerly a Ten-Towner or a Reghed nomad who was abducted and killed by the duergar. Using the animating spores of a myconid sovereign, the duergar have turned these dead humans into five spore servants (as described in the "Myconids" entry in the "Monster Manual") covered with fungal growths. The spore servants emerge from their cells to attack intruders who enter the room. They use the [tribal warrior](/3-Mechanics/CLI/bestiary/plant/tribal-warrior-spore-servant-idrotf.md) stat block, with these changes:
+The three cells along the west wall are empty at present. Each of the five cells along the south wall holds one prisoner, formerly a Ten-Towner or a Reghed nomad who was abducted and killed by the duergar. Using the animating spores of a myconid sovereign, the duergar have turned these dead humans into five spore servants (as described in the "Myconids" entry in the "Monster Manual") covered with fungal growths. The spore servants emerge from their cells to attack intruders who enter the room. They use the [tribal warrior](3-Mechanics/CLI/bestiary/plant/tribal-warrior-spore-servant-idrotf.md) stat block, with these changes:
 
-- The spore servants are unaligned plants with a walking speed of 20 feet. They have blindsight out to a range of 30 feet and are blind beyond this radius. They can't be blinded, charmed, frightened, or paralyzed.  
+- The spore servants are unaligned plants with a walking speed of 20 feet. They have [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 30 feet and are blind beyond this radius. They can't be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), or [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed).  
 - They have an Intelligence of 2 (–4), a Wisdom of 6 (–2), and a Charisma of 1 (–5).  
 - They lose the Pack Tactics trait and all languages they once knew.  
 
@@ -344,14 +344,14 @@ The three cells along the west wall are empty at present. Each of the five cells
 > Small rooms flank a central common area where crates and sacks are stashed against the west wall. The doors of the two southern rooms are open, and each room is empty except for a tattered bedroll and a chair. From behind the closed doors of the northern rooms, you hear the faint sound of snoring.
 ^12d
 
-Each of the northern rooms has one [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) sleeping in it. The two duergar are brothers named Ruvik and Skorn. If the characters move around without making any loud noises, the duergar stay asleep. If awakened, they attack the intruders. The duergar sleep in their armor, keeping their shields and weapons within reach.
+Each of the northern rooms has one [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) sleeping in it. The two duergar are brothers named Ruvik and Skorn. If the characters move around without making any loud noises, the duergar stay asleep. If awakened, they attack the intruders. The duergar sleep in their armor, keeping their shields and weapons within reach.
 
 ##### Treasure
 
-The crates and most of the sacks contain basic supplies, including blankets, rations, hempen rope, and other equipment. One small sack holds the stolen valuables from Caer-Konig: twenty-five pearls carved into decorative beads (5 gp each). Another sack contains three daggers, a set of woodcarver's tools, a set of navigator's tools, fishing tackle, and a potion of healing hidden in a leather pouch along with 73 sp.
+The crates and most of the sacks contain basic supplies, including blankets, rations, hempen rope, and other equipment. One small sack holds the stolen valuables from Caer-Konig: twenty-five pearls carved into decorative beads (5 gp each). Another sack contains three [daggers](3-Mechanics/CLI/items/dagger.md), a set of [woodcarver's tools](3-Mechanics/CLI/items/woodcarvers-tools.md), a set of [navigator's tools](3-Mechanics/CLI/items/navigators-tools.md), [fishing tackle](3-Mechanics/CLI/items/fishing-tackle.md), and a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md) hidden in a leather pouch along with 73 sp.
 
 ### Concluding the Quest
 
-When the characters return to the Northern Light, they find Trovus passed out in a padded armchair while Allie and Cori go about their work. If the characters tell Allie about the duergar outpost, she admits to knowing nothing about duergar and is disturbed to learn that they can turn invisible and grow themselves to ogre size!
+When the characters return to the Northern Light, they find Trovus passed out in a padded armchair while Allie and Cori go about their work. If the characters tell Allie about the duergar outpost, she admits to knowing nothing about duergar and is disturbed to learn that they can turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and grow themselves to ogre size!
 
 If the characters retrieved the inn's lantern, Allie offers them a few flagons of ale as a reward. She has prepared rooms for them, even if they didn't bring back the lantern. Allie can also help the characters return other stolen goods to their proper owners in Caer-Konig.

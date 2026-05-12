@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Chapter 11: Eve of Ruin
+- "Chapter 11: Eve of Ruin"
 ---
 # Chapter 11: Eve of Ruin
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 191* 
 
-![Vecna is nearly done weavi...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/157-11-001-vecnas-ritual-of-remaking.webp#center "Vecna is nearly done weaving his Ritual of Remaking. The heroes are the multiverse's only hope")
+![Vecna is nearly done weaving his Ritual of Remaking. The heroes are the multiverse's only hope](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/157-11-001-vecnas-ritual-of-remaking.webp#center)
 
-To defeat [Vecna](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) and save the multiverse, the characters must reach the Cave of Shattered Reflection in Pandesmos and disrupt Vecna's ritual. Before that, the characters must navigate the demiplanes Vecna has already created and find a way to access the lich-god's ritual chamber.
+To defeat [Vecna](3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) and save the multiverse, the characters must reach the Cave of Shattered Reflection in Pandesmos and disrupt Vecna's ritual. Before that, the characters must navigate the demiplanes Vecna has already created and find a way to access the lich-god's ritual chamber.
 
 ## Running This Chapter
 
-The characters can return to the sanctum in Sigil to rest and confer with [Alustriel](/3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md) and [Tasha](/3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md) before they head to the Cave of Shattered Reflection. If the characters don't return to the sanctum, they find their way to the cave without trouble from their position in Pandesmos.
+The characters can return to the sanctum in Sigil to rest and confer with [Alustriel](3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md) and [Tasha](3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md) before they head to the Cave of Shattered Reflection. If the characters don't return to the sanctum, they find their way to the cave without trouble from their position in Pandesmos.
 
 The majority of this chapter takes place in Vecna's Grasp, a small cave network where the characters must dismantle three demiplanar unrealities that hint at Vecna's plans to reshape the multiverse. Each demiplane contains an encounter or short exploration sequence. The characters can dismantle these demiplanes in any order, so read through all three—the "Torment of Kas," "Neverwinter's New King," and "Dead Gods" sections—before running this chapter.
 
@@ -28,16 +28,16 @@ The characters must be 20th level when this chapter begins.
 
 ### Power of Secrets
 
-The characters can use the unspent secrets they've collected throughout this adventure in their final confrontation with [Vecna](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md). See the "Cave of Shattered Reflection" section later in this chapter for more information.
+The characters can use the unspent secrets they've collected throughout this adventure in their final confrontation with [Vecna](3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md). See the "Cave of Shattered Reflection" section later in this chapter for more information.
 
 ## Reunion in Sigil
 
-At the end of chapter 10, the characters learned that Vecna is performing his ritual at a site in Pandesmos called the Cave of Shattered Reflection. At some point after this revelation, the characters receive a message via a Sending spell from Alustriel offering to provide more help once the characters are ready. If the characters don't plan to return to Sigil, encourage them to do so.
+At the end of chapter 10, the characters learned that Vecna is performing his ritual at a site in Pandesmos called the Cave of Shattered Reflection. At some point after this revelation, the characters receive a message via a [Sending](3-Mechanics/CLI/spells/sending-xphb.md) spell from Alustriel offering to provide more help once the characters are ready. If the characters don't plan to return to Sigil, encourage them to do so.
 
 If the characters return to the sanctum in Sigil, Alustriel and Tasha convey the following information:
 
 - **Demiplanes.** Alustriel and Tasha know that Vecna's plans for the multiverse hinge on the potent secrets he has collected. Vecna has already used these secrets to create three demiplanes that are reachable from a small cave network in Pandesmos called Vecna's Grasp. To reach the Cave of Shattered Reflection, the characters must first destroy these demiplanes, which are the lich-god's early attempts to remake reality. The demiplanes are harbingers of what's to come if Vecna isn't stopped.  
-- **Ending Unrealities.** Each of Vecna's three demiplanes is an "unreality" constructed from a specific secret. The secret is represented by a unique item in the unreality called a "manifested secret." Alustriel and Tasha don't know the details of these manifested secrets, but they assume the items appear as important objects and bear the lich-god's symbol: a shriveled hand clutching an eye. To dismantle an unreality, a character must find its manifested secret, touch the item to focus the power of their Vecna's Link into it, and infuse the item with potent magic from an artifact such as the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) or a high-level spell. (See the "Dismantling an Unreality" section for more information.)  
+- **Ending Unrealities.** Each of Vecna's three demiplanes is an "unreality" constructed from a specific secret. The secret is represented by a unique item in the unreality called a "manifested secret." Alustriel and Tasha don't know the details of these manifested secrets, but they assume the items appear as important objects and bear the lich-god's symbol: a shriveled hand clutching an eye. To dismantle an unreality, a character must find its manifested secret, touch the item to focus the power of their Vecna's Link into it, and infuse the item with potent magic from an artifact such as the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) or a high-level spell. (See the "Dismantling an Unreality" section for more information.)  
 - **Teleportation Ward.** A crystalline barrier surrounding the Cave of Shattered Reflection wards against teleportation magic. To reach the cave, the characters must first travel to Vecna's Grasp. Thanks to their supernatural connection to Vecna, the characters can teleport to Vecna's Grasp from anywhere in the multiverse.  
 
 ## Vecna's Grasp
@@ -62,7 +62,7 @@ An unreality's manifested secret is an important item integral to the unreality.
 
 To dismantle an unreality, at least one character must touch the unreality's manifested secret. Meanwhile, the same or a different character must do one of the following:
 
-- Expend 1 charge of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md)  
+- Expend 1 charge of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md)  
 - Expend a spell slot of 7th level or higher  
 
 As soon as the charge or spell slot is expended, the unreality disappears. The demiplane melts away, fades into nothingness, or shatters into countless fragments, making it clear it has been dismantled.
@@ -96,8 +96,8 @@ Vecna's Grasp is composed of magically reinforced obsidian. Each 5-foot-square s
 These locations are keyed to map 11.1.
 
 > [!gallery]
-> ![Map 11.1: Vecna's Grasp](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/158-11-01-vecnas-grasp.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/159-11-01-vecnas-grasp-player.webp#gallery)
+> ![Map 11.1: Vecna's Grasp](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/158-11-01-vecnas-grasp.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/159-11-01-vecnas-grasp-player.webp#gallery)
 
 #### E1: Kaleidoscopic Cavern
 
@@ -128,13 +128,13 @@ Hazy scenes of civil unrest—peasants rioting, buildings burning, and soldiers 
 
 ##### E2c
 
-This tunnel's walls flash violent scenes of Vecna slaying, dominating, and imprisoning other gods in the vast emptiness of the Astral Sea. A character proficient in the Religion skill recognizes these deities. Characters who cross the threshold appear in the unreality described in the "Dead Gods" section.
+This tunnel's walls flash violent scenes of Vecna slaying, dominating, and imprisoning other gods in the vast emptiness of the Astral Sea. A character proficient in the [Religion](3-Mechanics/CLI/rules/skills.md#Religion) skill recognizes these deities. Characters who cross the threshold appear in the unreality described in the "Dead Gods" section.
 
 ## Torment of Kas
 
-![When Vecna remakes the mul...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/160-11-001-torment-of-kas.webp#center "When Vecna remakes the multiverse, he'll punish Kas with an eternity of suffering")
+![When Vecna remakes the multiverse, he'll punish Kas with an eternity of suffering](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/160-11-001-torment-of-kas.webp#center)
 
-When the characters cross the threshold in area E2a, they appear in an alternate reality of Oerth, where [Vecna](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) has captured and imprisoned his archrival, [Kas the Betrayer](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md).
+When the characters cross the threshold in area E2a, they appear in an alternate reality of Oerth, where [Vecna](3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) has captured and imprisoned his archrival, [Kas the Betrayer](3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md).
 
 Read the following to describe the scene:
 
@@ -147,7 +147,7 @@ This unreality depicts Keoland, Kas's homeland on Oerth, as Vecna envisions it f
 
 The unreality distorts distance such that characters who move toward the castle seem to get farther away from it. However, if all the characters move toward the hanging sun, the castle seems to move closer to them. Only by moving toward the sun can they reach the castle, which is a trek that takes 1 hour on foot.
 
-If the players can't figure out how to reach the castle, have the characters make a DC 15 Intelligence (Arcana) check to recall that this unreality is a reflection of Vecna's hatred of Kas; as a vampire, Kas would loathe and fear the sun, so the sun is the key to witnessing Kas's torment.
+If the players can't figure out how to reach the castle, have the characters make a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check to recall that this unreality is a reflection of Vecna's hatred of Kas; as a vampire, Kas would loathe and fear the sun, so the sun is the key to witnessing Kas's torment.
 
 When the characters reach the castle, read the following:
 
@@ -161,12 +161,12 @@ When the characters reach the castle, read the following:
 The following locations are keyed to map 11.2.
 
 > [!gallery]
-> ![Map 11.2: Torment of Kas](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/161-11-02-torment-of-kas.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/162-11-02-torment-of-kas-player.webp#gallery)
+> ![Map 11.2: Torment of Kas](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/161-11-02-torment-of-kas.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/162-11-02-torment-of-kas-player.webp#gallery)
 
 #### K1: Ruined Bailey
 
-The hulking figures the characters saw from afar are two [cadaver collectors](/3-Mechanics/CLI/bestiary/construct/cadaver-collector-mpmm.md) (see appendix A). The monstrous war machines sift through the rubble of this ruined courtyard for remains. They attack creatures on sight, eager to add more corpses to their collections.
+The hulking figures the characters saw from afar are two cadaver collectors (see appendix A). The monstrous war machines sift through the rubble of this ruined courtyard for remains. They attack creatures on sight, eager to add more corpses to their collections.
 
 #### K2: Statues of Vecna
 
@@ -177,7 +177,7 @@ The hulking figures the characters saw from afar are two [cadaver collectors](/3
 
 Each statue is a Medium object with AC 13, 20 hit points, and immunity to poison and psychic damage.
 
-If a creature deals damage to a statue, each creature in the unreality must make a DC 15 Wisdom saving throw as psychic shock waves ripple throughout the unreality, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage on a failed save or half as much damage on a successful one.
+If a creature deals damage to a statue, each creature in the unreality must make a DC 15 Wisdom saving throw as psychic shock waves ripple throughout the unreality, taking 11 (`2d10`) psychic damage on a failed save or half as much damage on a successful one.
 
 #### K3: Receiving Room
 
@@ -186,7 +186,7 @@ If a creature deals damage to a statue, each creature in the unreality must make
 > An armored knight with red, glowing eyes stands on the dais at the far end of this vaulted chamber.
 ^4f6
 
-The armored figure is a [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight.md) who stands guard in this ruined hall. It is indifferent toward creatures that enter this chamber and hostile toward creatures that try to leave area K4 or K5. As soon as it sees a creature leave area K4 or K5, the death knight moves to intercept and slay the escapees.
+The armored figure is a [death knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) who stands guard in this ruined hall. It is indifferent toward creatures that enter this chamber and hostile toward creatures that try to leave area K4 or K5. As soon as it sees a creature leave area K4 or K5, the death knight moves to intercept and slay the escapees.
 
 #### K4: Fountain of Blood
 
@@ -208,25 +208,25 @@ If the characters look at the surface of the fountain's liquid, they see a glimp
 > The unmistakable form of Kas sits hunched in the far corner of this dank, stone room. Each of the vampire's limbs is shackled to a ten-foot-long adamantine chain, with all four chains fastened to a large adamantine ball. Kas's attention is focused on the tattered tapestries and ruined fixtures adorning the chamber's crumbling walls. Slung on his back is a magnificent sword, the hilt of which is emblazoned with a glowing symbol of Vecna.
 ^4fb
 
-This is Vecna's imagined version of [Kas the Betrayer](/3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) (see appendix B). Unlike the real Kas, whom the characters encountered in the previous chapter, this imagined Kas is despondent and has no interest in fighting. Kas doesn't recognize the characters and is open to speaking with them, though he is bored by any topic of conversation that doesn't involve his own predicament. As long as he is shackled, Kas's speed is 5 feet, and he is unable to leave the room. The ball he's shackled to can't be moved, even by magical means.
+This is Vecna's imagined version of [Kas the Betrayer](3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md) (see appendix B). Unlike the real Kas, whom the characters encountered in the previous chapter, this imagined Kas is despondent and has no interest in fighting. Kas doesn't recognize the characters and is open to speaking with them, though he is bored by any topic of conversation that doesn't involve his own predicament. As long as he is shackled, Kas's speed is 5 feet, and he is unable to leave the room. The ball he's shackled to can't be moved, even by magical means.
 
 This Kas doesn't know he's not real and can't comprehend the notion, but he understands that Vecna doomed him to this prison. He doesn't realize that this shattered keep was once his home on Oerth. Like the real Kas, this one bears an intense hatred toward Vecna, though in this form he is powerless against the archlich.
 
 ### Manifested Secret
 
-In Vecna's twisted unreality, Kas is shackled with his legendary sword, but he is forever unable to use it. The Sword of Kas is this unreality's manifested secret.
+In Vecna's twisted unreality, Kas is shackled with his legendary sword, but he is forever unable to use it. The [Sword of Kas](3-Mechanics/CLI/items/sword-of-kas-xdmg.md) is this unreality's manifested secret.
 
-Kas willingly lets a character take the Sword of Kas if convinced the characters can destroy Vecna, better yet, if convinced that relinquishing his weapon will enable him to destroy Vecna someday. A character can make a DC 25 Charisma (Persuasion) check to try to convince Kas using either line of reasoning. If the characters fail to persuade him to relinquish the sword, Kas snarls and insults them, but he won't fight. If a character tells Kas that his prison is actually a shattered version of his home in Keoland, Kas howls in fury and gives over his sword immediately, asking the characters to take down Vecna.
+Kas willingly lets a character take the [Sword of Kas](3-Mechanics/CLI/items/sword-of-kas-xdmg.md) if convinced the characters can destroy Vecna, better yet, if convinced that relinquishing his weapon will enable him to destroy Vecna someday. A character can make a DC 25 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check to try to convince Kas using either line of reasoning. If the characters fail to persuade him to relinquish the sword, Kas snarls and insults them, but he won't fight. If a character tells Kas that his prison is actually a shattered version of his home in Keoland, Kas howls in fury and gives over his sword immediately, asking the characters to take down Vecna.
 
 The characters can dismantle this unreality by touching the sword and performing one of the actions detailed in the "Dismantling an Unreality" section earlier in this chapter.
 
 ## Neverwinter's New King
 
-![Vecna plans to turn Lord N...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/163-11-002-lord-neverember.webp#center "Vecna plans to turn Lord Neverember into a death knight who will subjugate the city's population")
+![Vecna plans to turn Lord Neverember into a death knight who will subjugate the city's population](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/163-11-002-lord-neverember.webp#center)
 
 When the characters cross the threshold in area E2b, they appear in an unreality where Vecna commands control over the city of Neverwinter in Faerûn.
 
-In this unreality, Vecna turned Lord Neverember into a loyal death knight and iron-fisted tyrant. Neverember has turned his servants into [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) and his opponents into dust.
+In this unreality, Vecna turned Lord Neverember into a loyal death knight and iron-fisted tyrant. Neverember has turned his servants into [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) and his opponents into dust.
 
 Read the following when the characters arrive in the Neverwinter unreality:
 
@@ -239,21 +239,21 @@ Read the following when the characters arrive in the Neverwinter unreality:
 
 Map 11.3 depicts this location.
 
-![Map 11.3: Neverwinter Square](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/164-11-03-neverwinter-square.webp#center)
+![Map 11.3: Neverwinter Square](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/164-11-03-neverwinter-square.webp#center)
 
-If the characters make their presence known, Lord Neverember orders the twelve [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) below the balcony to apprehend the characters and place them in the gallows. Lord Neverember doesn't join the fight unless the wights are destroyed or the characters attack him.
+If the characters make their presence known, Lord Neverember orders the twelve [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) below the balcony to apprehend the characters and place them in the gallows. Lord Neverember doesn't join the fight unless the wights are destroyed or the characters attack him.
 
-If a character tells the awestruck crowd that Lord Neverember is not the rightful ruler of Neverwinter and succeeds on a DC 15 Charisma (Persuasion) check, the mob breaks into a violent frenzy. In this case, the mob distracts the wights so the characters can focus their attention on Lord Neverember.
+If a character tells the awestruck crowd that Lord Neverember is not the rightful ruler of Neverwinter and succeeds on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, the mob breaks into a violent frenzy. In this case, the mob distracts the wights so the characters can focus their attention on Lord Neverember.
 
-Lord Neverember (use the [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight.md) stat block) is unwilling to part with his crown; he fights the characters to withhold the symbol of his rulership.
+Lord Neverember (use the [death knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) stat block) is unwilling to part with his crown; he fights the characters to withhold the symbol of his rulership.
 
 ### Manifested Secret
 
-The secret that Lord Neverember is not the rightful ruler of Neverwinter is represented by Vecna's symbol emblazoned on Neverember's crown. The characters can dismantle this unreality by touching the crown and performing one of the actions detailed in the "Dismantling an Unreality" section earlier in this chapter. A character can touch the crown only while Lord Neverember has the incapacitated condition or after he has been destroyed. Magic can't lift the crown from Lord Neverember's head while he has at least 1 hit point.
+The secret that Lord Neverember is not the rightful ruler of Neverwinter is represented by Vecna's symbol emblazoned on Neverember's crown. The characters can dismantle this unreality by touching the crown and performing one of the actions detailed in the "Dismantling an Unreality" section earlier in this chapter. A character can touch the crown only while Lord Neverember has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition or after he has been destroyed. Magic can't lift the crown from Lord Neverember's head while he has at least 1 hit point.
 
 ## Dead Gods
 
-![An astral dreadnought cons...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/165-11-003-dreadnought.webp#center "An astral dreadnought consumes a dead god in Vecna's new reality")
+![An astral dreadnought consumes a dead god in Vecna's new reality](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/165-11-003-dreadnought.webp#center)
 
 When the characters cross the threshold in area E2c, they appear in an unreality where Vecna has usurped the power of every other god in the multiverse and scattered the dead gods' bones across the Astral Sea.
 
@@ -264,15 +264,15 @@ Read aloud the following when the characters arrive:
 > You float amid a vast void speckled with distant silvery lights. All around you are the floating remains of enormous stone corpses. Nearby, a monstrous behemoth resembling a horned, serpentine lobster drifts slowly through a patch of debris. The creature groans in agony, its one eye darting around in confusion. Vecna's unholy symbol glows faintly from within the behemoth's immense torso. Six spherical pests—each with a single eye and gaping maw—gnash at the behemoth's flanks.
 ^501
 
-The behemoth is a dying [astral dreadnought](/3-Mechanics/CLI/bestiary/monstrosity/astral-dreadnought-mpmm.md) that's being preyed on by six [eye mongers](/3-Mechanics/CLI/bestiary/aberration/eye-monger-bam.md) (see appendix A for both stat blocks). The dreadnought has only 150 hit points remaining, it has no remaining uses of its Legendary Resistance trait, and its flying speed is reduced to 20 feet until its hit points are fully restored. The eye mongers focus their attacks on the astral dreadnought unless the characters stop them.
+The behemoth is a dying astral dreadnought that's being preyed on by six eye mongers (see appendix A for both stat blocks). The dreadnought has only 150 hit points remaining, it has no remaining uses of its Legendary Resistance trait, and its flying speed is reduced to 20 feet until its hit points are fully restored. The eye mongers focus their attacks on the astral dreadnought unless the characters stop them.
 
 The astral dreadnought is called Arekanz. Arekanz has been consuming dead gods, but in this unreality, Vecna spitefully cursed the gods' remains to contaminate the dreadnought and induce its certain death. Arekanz is suffering the effects of the curse. It is so wracked with pain that it doesn't defend itself except to use its Donjon Visit legendary action.
 
-A character who succeeds on a DC 15 Intelligence (Arcana) check recognizes Arekanz as an [astral dreadnought](/3-Mechanics/CLI/bestiary/monstrosity/astral-dreadnought-mpmm.md), a creature that has a demiplane where its stomach should be. Everything the dreadnought swallows ends up there. The character also knows that if the dreadnought dies, the demiplane inside it will be destroyed, leaving everything in it to float aimlessly in the Astral Sea.
+A character who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes Arekanz as an astral dreadnought, a creature that has a demiplane where its stomach should be. Everything the dreadnought swallows ends up there. The character also knows that if the dreadnought dies, the demiplane inside it will be destroyed, leaving everything in it to float aimlessly in the Astral Sea.
 
 ### Blue Feather of Habbakuk
 
-Within Arekanz's demiplanar donjon is a blue phoenix feather marked with the symbol of Vecna unreality's manifested secret. In this unreality, this single feather is all that remains of Habbakuk, a god on the world of Krynn and one of the many gods Vecna intends to destroy as part of his ritual. Any character with proficiency in the Religion skill recognizes the feather as the remains of Habbakuk. The characters must retrieve the blue phoenix feather so they can use it to dismantle this unreality.
+Within Arekanz's demiplanar donjon is a blue phoenix feather marked with the symbol of Vecna unreality's manifested secret. In this unreality, this single feather is all that remains of Habbakuk, a god on the world of Krynn and one of the many gods Vecna intends to destroy as part of his ritual. Any character with proficiency in the [Religion](3-Mechanics/CLI/rules/skills.md#Religion) skill recognizes the feather as the remains of Habbakuk. The characters must retrieve the blue phoenix feather so they can use it to dismantle this unreality.
 
 ### Arekanz's Donjon Locations
 
@@ -281,8 +281,8 @@ In this unreality, before Vecna slew his rival deities and fed their remains to 
 The following locations are keyed to map 11.4.
 
 > [!gallery]
-> ![Map 11.4: Arekanz's Donjon](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/166-11-04-arekanzs-donjon.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/167-11-04-arekanzs-donjon-player.webp#gallery)
+> ![Map 11.4: Arekanz's Donjon](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/166-11-04-arekanzs-donjon.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/167-11-04-arekanzs-donjon-player.webp#gallery)
 
 #### G1: Crumbling Mound
 
@@ -293,7 +293,7 @@ Characters who end up in Arekanz's demiplanar donjon arrive here.
 > You stand among hills made from the half-digested bodies of countless deities. A deep valley separates two of these hills and stretches as far as can be seen in either direction. Under your feet, the ground shifts as mounds of scree continuously collapse into the valley.
 ^505
 
-The area of the hazardous scree is marked with dotted lines on the map. When any creature takes a step on the scree, the scree collapses. That creature and any other creatures within the marked area must succeed on a DC 13 Dexterity saving throw or fall down the cliff and onto the floor of the valley 100 feet below, taking `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) bludgeoning damage.
+The area of the hazardous scree is marked with dotted lines on the map. When any creature takes a step on the scree, the scree collapses. That creature and any other creatures within the marked area must succeed on a DC 13 Dexterity saving throw or fall down the cliff and onto the floor of the valley 100 feet below, taking 35 (`10d6`) bludgeoning damage.
 
 #### G2: Sword Bridge
 
@@ -302,7 +302,7 @@ The area of the hazardous scree is marked with dotted lines on the map. When any
 > The colossal, iron longsword of some legendary being was cast unceremoniously onto the ground here, creating an improvised crossing over the valley.
 ^507
 
-Three [eye mongers](/3-Mechanics/CLI/bestiary/aberration/eye-monger-bam.md) (see appendix A) swallowed by Arekanz lurk below the sword. They attack any characters who cross the sword bridge.
+Three eye mongers (see appendix A) swallowed by Arekanz lurk below the sword. They attack any characters who cross the sword bridge.
 
 #### G3: Horror's Fissure
 
@@ -311,7 +311,7 @@ Three [eye mongers](/3-Mechanics/CLI/bestiary/aberration/eye-monger-bam.md) (see
 > An wide fissure runs east to west between the sword bridge and a tall shrine.
 ^509
 
-The fissure is 30 feet deep. As the characters approach, it shudders as a [cosmic horror](/3-Mechanics/CLI/bestiary/aberration/cosmic-horror-bam.md) (see appendix A) slithers out of it from the east to feast on the characters' minds and bodies.
+The fissure is 30 feet deep. As the characters approach, it shudders as a cosmic horror (see appendix A) slithers out of it from the east to feast on the characters' minds and bodies.
 
 #### G4: Shrine of Habbakuk
 
@@ -338,13 +338,13 @@ The Cave of Shattered Reflection has the following features, as shown on map 11.
 
 #### Crystal Walls
 
-Most of the walls are made of a translucent, purple crystal that is immune to all damage. Creatures on opposite sides of a crystal wall can see each other vaguely, provided they are both within 5 feet of the wall. Sound, including the sound made by the [Chime of Exile](/3-Mechanics/CLI/items/chime-of-exile-veor.md), can't pass through crystal walls.
+Most of the walls are made of a translucent, purple crystal that is immune to all damage. Creatures on opposite sides of a crystal wall can see each other vaguely, provided they are both within 5 feet of the wall. Sound, including the sound made by the [Chime of Exile](3-Mechanics/CLI/items/chime-of-exile-veor.md), can't pass through crystal walls.
 
 #### Diamond Doors
 
 Portals made of translucent, solid diamond are set into the crystal walls. Creatures on opposite sides of a diamond door can see each other vaguely, provided they are both within 5 feet of the door.
 
-![The Cave of Shattered Refl...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/168-11-004-cave-of-shattered-reflection.webp#center "The Cave of Shattered Reflection is dotted with diamond doors")
+![The Cave of Shattered Reflection is dotted with diamond doors](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/168-11-004-cave-of-shattered-reflection.webp#center)
 
 With the exception of the door in area R2, each side of each diamond door is set with a large ruby, the other with a large sapphire. (These are depicted on the map in red and blue, respectively.) Each side of the door is also etched with a sigil. This sigil matches the sigil on another door in the Cave of Shattered Reflection. Map 11.5 shows five pairs of identical sigils, labeled A1 and A2, B1 and B2, C1 and C2, `D1` and `D2`, and E1 and E2.
 
@@ -375,7 +375,7 @@ These powers are cumulative. For example, if the characters kept seven secrets, 
 | 0–2 | — |
 | 3–6 | Each character starts the encounter with inspiration. |
 | 7–10 | Characters can see clearly through the cave's crystal walls. |
-| 11–14 | The first time each character enters the Cave of Shattered Reflection, the character benefits from the effects of the Haste spell for 1 minute. The characters don't suffer from lethargy after the spell ends. |
+| 11–14 | The first time each character enters the Cave of Shattered Reflection, the character benefits from the effects of the [Haste](3-Mechanics/CLI/spells/haste-xphb.md) spell for 1 minute. The characters don't suffer from lethargy after the spell ends. |
 | 15–17 | Characters have advantage on any Constitution saving throws made in the cave. |
 ^power-of-secrets
 
@@ -384,8 +384,8 @@ These powers are cumulative. For example, if the characters kept seven secrets, 
 These locations are keyed to map 11.5.
 
 > [!gallery]
-> ![Map 11.5: Cave of Shattered Reflection](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/169-map-11-05-cave-of-shattered-reflection.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/170-map-11-05-cave-of-shattered-reflection-player.webp#gallery)
+> ![Map 11.5: Cave of Shattered Reflection](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/169-map-11-05-cave-of-shattered-reflection.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/170-map-11-05-cave-of-shattered-reflection-player.webp#gallery)
 
 #### R1: Shattered Grotto
 
@@ -398,9 +398,9 @@ When the crystal mass in area E1 of Vecna's Grasp shatters in front the characte
 
 The pit is 500 feet deep. Its sides are composed of obsidian near the top and purple crystal closer to the bottom. The howling winds and lights are expressions of Vecna's hoarded secrets. The pit is filled with wind strong enough to blow out torches. Attack rolls in the pit have disadvantage due to the wind.
 
-Climbing down the pit's smooth walls without climbing gear or magic is perilous. A creature must succeed on a DC 20 Strength (Athletics) check to do so, falling to the bottom of the pit on a failed check.
+Climbing down the pit's smooth walls without climbing gear or magic is perilous. A creature must succeed on a DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to do so, falling to the bottom of the pit on a failed check.
 
-The bottom of the pit is a flat, cylindrical chamber of smooth crystal. When the characters reach the bottom of the pit, two Undead monsters emerge from the pit's walls and attack the party. The monsters use the [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight.md) stat block and represent potent secrets Vecna has hoarded.
+The bottom of the pit is a flat, cylindrical chamber of smooth crystal. When the characters reach the bottom of the pit, two Undead monsters emerge from the pit's walls and attack the party. The monsters use the [death knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) stat block and represent potent secrets Vecna has hoarded.
 
 One monster's hands and arms drip with blood, representing a king who secretly murdered his sibling. The other monster has no facial features, representing a famed individual who lied about their identity.
 
@@ -415,7 +415,7 @@ An opening on the east side of this area connects to area R2.
 > Set in the middle of the crystal wall is a large, circular slab of lustrous white diamond. A glowing ruby is set into the diamond's center. It looks uncannily like an eyeball with a bloodred iris. An identical ruby is set into the opposite side of the diamond slab.
 ^518
 
-The first time a character comes within 5 feet of the crystal wall, a peculiar reflection of that character appears in the crystal. The reflection mirrors the character's appearance except for their face, which wears a twisted sneer. This is a [mirror shade](/3-Mechanics/CLI/bestiary/undead/mirror-shade-veor.md) (see appendix A). It attacks the character once, then flees to area R3.
+The first time a character comes within 5 feet of the crystal wall, a peculiar reflection of that character appears in the crystal. The reflection mirrors the character's appearance except for their face, which wears a twisted sneer. This is a [mirror shade](3-Mechanics/CLI/bestiary/undead/mirror-shade-veor.md) (see appendix A). It attacks the character once, then flees to area R3.
 
 ##### Psychic Hum
 
@@ -434,11 +434,11 @@ The diamond door in this hall connects the two halves of this room. Vecna or a c
 > As you enter the cave, the psychic hum intensifies, shaking you to the core. The hum is coming from somewhere in the crystal maze.
 ^51c
 
-Four [mirror shades](/3-Mechanics/CLI/bestiary/undead/mirror-shade-veor.md) (see appendix A) lurk within the crystal walls. (If the characters already destroyed the one in area R2, there are three mirror shades in this chamber instead of four.) The mirror shades are servants of Vecna tasked with slaying intruders. The mirror shades use their Mirror Movement trait to move through the crystal walls.
+Four [mirror shades](3-Mechanics/CLI/bestiary/undead/mirror-shade-veor.md) (see appendix A) lurk within the crystal walls. (If the characters already destroyed the one in area R2, there are three mirror shades in this chamber instead of four.) The mirror shades are servants of Vecna tasked with slaying intruders. The mirror shades use their Mirror Movement trait to move through the crystal walls.
 
 ##### Amplified Hum
 
-Any creature other than Vecna and his mirror shades that starts its turn here must succeed on a DC 20 Wisdom saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) psychic damage.
+Any creature other than Vecna and his mirror shades that starts its turn here must succeed on a DC 20 Wisdom saving throw or take 5 (`1d10`) psychic damage.
 
 ##### Door Maze
 
@@ -446,7 +446,7 @@ The crystal walls divide the area into discrete chambers. To reach Vecna, the ch
 
 Ten diamond doors are set into the crystal walls. Each door has a ruby on one side and a sapphire on the other, and each door is etched with a sigil, as described earlier in the "Diamond Doors" section. The doors, their gemstones, and the etched sigils—represented with labels—are marked on map 11.5.
 
-Characters can teleport to Vecna's central chamber by touching the ruby gemstone on one of the following doors: A2, B1, C1, `D1`. The characters might need to use some trial and error to figure out which doors lead where. If the characters struggle, allow any character proficient in the Arcana or Investigation skill to figure out which doors lead to where the characters want to go.
+Characters can teleport to Vecna's central chamber by touching the ruby gemstone on one of the following doors: A2, B1, C1, `D1`. The characters might need to use some trial and error to figure out which doors lead where. If the characters struggle, allow any character proficient in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation) skill to figure out which doors lead to where the characters want to go.
 
 ##### Confronting Vecna
 
@@ -457,9 +457,9 @@ Read the following when the characters enter the central chamber where Vecna wea
 > Levitating in the center of this crystal chamber is a skeletal person wearing kingly vestments: Vecna the Archlich. Vecna's desiccated head is thrown back in concentration. His wrinkled eyelids are closed, with one drooping over its empty socket. His shriveled lips are pulled back to reveal rotted teeth. Vecna spreads his arms, one with a missing hand, and murmurs in a profane-sounding gibberish while a lightless orb swirls in front of his chest. It grows bigger by the moment.
 ^520
 
-[Vecna the Archlich](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) (see appendix B) is weaving his Ritual of Remaking. He is too focused to pay the characters any mind unless they confront him directly. Vecna is funneling energy into the ritual in addition to the power of the secrets his cult gathered, so the lich is considerably less powerful than he normally is. Unlike the characters, Vecna can move through this area as if its doors were normal.
+[Vecna the Archlich](3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) (see appendix B) is weaving his Ritual of Remaking. He is too focused to pay the characters any mind unless they confront him directly. Vecna is funneling energy into the ritual in addition to the power of the secrets his cult gathered, so the lich is considerably less powerful than he normally is. Unlike the characters, Vecna can move through this area as if its doors were normal.
 
-To achieve victory, the characters must reduce [Vecna](/3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) to 50 hit points or fewer. A character then must use the [Chime of Exile](/3-Mechanics/CLI/items/chime-of-exile-veor.md) to target Vecna, which requires a clear line of sight to him. If a character wields the complete [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) in this encounter, that character feels the artifact's yearning to preserve the order of the multiverse and stop Vecna's ritual. Each time a character strikes Vecna with the rod, Vecna takes an extra `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) psychic damage.
+To achieve victory, the characters must reduce [Vecna](3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md) to 50 hit points or fewer. A character then must use the [Chime of Exile](3-Mechanics/CLI/items/chime-of-exile-veor.md) to target Vecna, which requires a clear line of sight to him. If a character wields the complete [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) in this encounter, that character feels the artifact's yearning to preserve the order of the multiverse and stop Vecna's ritual. Each time a character strikes Vecna with the rod, Vecna takes an extra 35 (`10d6`) psychic damage.
 
 When the characters do this, read the following:
 
@@ -470,7 +470,7 @@ When the characters do this, read the following:
 > Then the crystal cavern shatters, overwhelming your senses. Vecna's body tumbles into an unfathomable inky void just before you also plunge into the black expanse. When you come to, you find yourself drifting among a sea of stars.
 ^521
 
-The [Chime of Exile](/3-Mechanics/CLI/items/chime-of-exile-veor.md) sends Vecna hurtling toward his home world of Oerth. Moreover, the sudden cessation of Vecna's ritual causes a chain reaction that destroys the Cave of Shattered Reflection and Vecna's Grasp. Everything except Vecna is sucked through a portal to the Astral Sea, which is where the characters find themselves afterward. As if to punctuate the end of their quest, each character's Vecna's Link vanishes as their connection to the lich is severed.
+The [Chime of Exile](3-Mechanics/CLI/items/chime-of-exile-veor.md) sends Vecna hurtling toward his home world of Oerth. Moreover, the sudden cessation of Vecna's ritual causes a chain reaction that destroys the Cave of Shattered Reflection and Vecna's Grasp. Everything except Vecna is sucked through a portal to the Astral Sea, which is where the characters find themselves afterward. As if to punctuate the end of their quest, each character's Vecna's Link vanishes as their connection to the lich is severed.
 
 ## Conclusion
 
@@ -480,4 +480,4 @@ Characters who return to the sanctum in Sigil are greeted by Alustriel and Tasha
 
 Though stymied, Vecna is far from undone. He might stubbornly attempt to destroy and re-create the multiverse again, or he might formulate a new scheme to bend the cosmos to his will. Either way, it will be some time before a new band of adventurers must rise to defeat the archlich once again.
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/171-11-005-vecna.webp#center)
+![](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/171-11-005-vecna.webp#center)

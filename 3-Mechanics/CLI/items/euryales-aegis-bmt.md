@@ -3,21 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/shield/
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/shield/
+aliases:
 - "Euryale's Aegis"
 ---
 # Euryale's Aegis
 *Armor (shield), legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/euryales-aegis.webp#right)
+![](3-Mechanics/CLI/items/img/euryales-aegis.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-This gleaming brass shield bears a relief of the legendary medusa druid [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md).
+This gleaming brass shield bears a relief of the legendary medusa druid [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md).
 
 While wielding this shield, you gain the following benefits:
 

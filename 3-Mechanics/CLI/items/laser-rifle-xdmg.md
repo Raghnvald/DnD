@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
-aliases: 
+aliases:
 - "Laser Rifle"
 ---
 # Laser Rifle
@@ -17,7 +17,7 @@ aliases:
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 *Source: Dungeon Master's Guide (2024) p. 73*

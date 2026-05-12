@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/20
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/20
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grim Champion of Bloodshed
+- "Grim Champion of Bloodshed"
 ---
-# [Grim Champion of Bloodshed](3-Mechanics\CLI\bestiary\undead/grim-champion-of-bloodshed-bmt.md)
+# [Grim Champion of Bloodshed](3-Mechanics/CLI/bestiary/undead/grim-champion-of-bloodshed-bmt.md)
 *Source: The Book of Many Things p. 161*  
 
 Wynemar Brack was once a farmer, but mercenaries in a local war razed her fields and sacked her village. In desperation, she yielded to the clever patter of a traveling fortune teller and drew from a Deck of Many Things. The avatar of death slew her in a flash. That was many centuries ago, and Wynemar is now a powerful and bloodthirsty Undead commander of the Grim Harrow.
@@ -67,8 +67,8 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
   - "desc": "The champion makes four Blazing Morningstar attacks. It can replace one\
       \ of these attacks with Blade Storm, if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d8 + 6) piercing damage plus 14 (4d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 10 (1d8 + 6) piercing damage plus 14 (4d6) fire damage."
     "name": "Blazing Morningstar"
   - "desc": "The champion conjures a churning storm of spectral blades that fills\
       \ a 20-foot cube centered on a point it can see within 120 feet of itself. The\
@@ -99,6 +99,6 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
     "name": "Menace (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/grim-champion-of-bloodshed-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/grim-champion-of-bloodshed-bmt.webp"
 ```
 ^statblock

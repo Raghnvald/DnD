@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Mastiff
+- "Shadow Mastiff"
 ---
-# [Shadow Mastiff](3-Mechanics\CLI\bestiary\monstrosity/shadow-mastiff-mpmm.md)
+# [Shadow Mastiff](3-Mechanics/CLI/bestiary/monstrosity/shadow-mastiff-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
@@ -42,14 +42,14 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "5"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks while\
   \ in dim light or darkness"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
@@ -60,19 +60,19 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
     "name": "Sunlight Weakness"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 13 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Bite"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](/3-Mechanics/CLI/conditions.md#Invisible),\
+  - "desc": "While in dim light or darkness, the shadow mastiff becomes [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible),\
       \ along with anything it is wearing or carrying. The invisibility lasts until\
       \ the shadow mastiff uses a bonus action to end it or until the shadow mastiff\
-      \ attacks, is in bright light, or is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ attacks, is in bright light, or is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Shadow Blend"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp"
 ```
 ^statblock
 

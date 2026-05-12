@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Type 4 Malison: Lower Body
+- "Physical Variations; Type 4 Malison: Lower Body"
 ---
 # Physical Variations; Type 4 Malison: Lower Body
 *Source: Volo's Guide to Monsters p. 97* 
 
 **Type 4 Malison: Lower Body**
-
-`dice: [](physical-variations-type-4-malison-lower-body-vgm.md#^type-4-malison-lower-body)`
 
 | dice: d20 | Malison Type 4 Lower Body |
 |-----------|---------------------------|

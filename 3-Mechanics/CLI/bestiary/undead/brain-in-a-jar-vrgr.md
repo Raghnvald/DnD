@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brain in a Jar
+- "Brain in a Jar"
 ---
-# [Brain in a Jar](3-Mechanics\CLI\bestiary\undead/brain-in-a-jar-vrgr.md)
+# [Brain in a Jar](3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 278*  
 
 Through an eldritch ritual combining alchemy, necromancy, and grim surgical precision, the brain of a mortal being (willing or unwilling) is encased in a glass jar filled with preserving fluids and the liquefied goop of their body's flesh. The transformation renders the brain immortal and imbues it with psionic power, so that it can spend eternity plotting and executing its desires.
@@ -47,28 +47,28 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
   - "intelligence": !!int "6"
   - "charisma": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 120 ft. (blind beyond\
-  \ this radius); see also \"detect sentience\" below, passive Perception 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (blind\
+  \ beyond this radius); see also \"detect sentience\" below, passive Perception 10"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "The brain's innate spellcasting ability is Intelligence (spell save DC\
       \ 14, +6 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** [chill touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md)\
-      \ (see \"Actions\" below), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [zone of truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md)\n\
-      \n**3/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n**1/day each:**\
-      \ [compulsion](/3-Mechanics/CLI/spells/compulsion-xphb.md), [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md),\
-      \ [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) (3rd-level version), [Tasha's\
-      \ hideous laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)"
+      \ requiring no components:\n\n**At will:** [chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md)\
+      \ (see \"Actions\" below), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [zone of truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md)\n\
+      \n**3/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n**1/day each:**\
+      \ [compulsion](3-Mechanics/CLI/spells/compulsion-xphb.md), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md) (3rd-level version), [Tasha's\
+      \ hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The brain can sense the presence and location of any creature within\
       \ 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing\
-      \ barriers, unless the creature is protected by a [mind blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md)\
+      \ barriers, unless the creature is protected by a [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\
       \ spell."
     "name": "Detect Sentience"
   - "desc": "The brain has advantage on saving throws against spells and other magic\
@@ -84,12 +84,12 @@ The brain floats in a jar of solution, pulsating as it reacts to its surrounding
     "name": "Chill Touch (Cantrip)"
   - "desc": "The brain magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 14 Intelligence saving throw or take 17\
-      \ (3d8 + 4) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ (3d8 + 4) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/brain-in-a-jar-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/brain-in-a-jar-vrgr.webp"
 ```
 ^statblock

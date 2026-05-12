@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/goblin
 aliases:
-- Goblin
+- "Goblin"
 ---
 # Goblin
 *Source: Dungeon Master's Guide p. 282*  
@@ -20,7 +20,7 @@ aliases:
 
 ### Nimble Escape
 
-You can take the [Disengage](/3-Mechanics/CLI/actions.md#Disengage) or [Hide](/3-Mechanics/CLI/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the Disengage or Hide action as a bonus action on each of your turns.
 
 ### Darkvision
 

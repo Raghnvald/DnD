@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Giant; Giant Bonds
+- "Roleplaying a Giant; Giant Bonds"
 ---
 # Roleplaying a Giant; Giant Bonds
 *Source: Volo's Guide to Monsters p. 23* 
 
 **Giant Bonds**
-
-`dice: [](roleplaying-a-giant-giant-bonds-vgm.md#^giant-bonds)`
 
 | dice: d6 | Bond |
 |----------|------|

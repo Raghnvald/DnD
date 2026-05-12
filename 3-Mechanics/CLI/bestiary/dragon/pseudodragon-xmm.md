@@ -16,9 +16,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pseudodragon
+- "Pseudodragon"
 ---
-# [Pseudodragon](3-Mechanics\CLI\bestiary\dragon/pseudodragon-xmm.md)
+# [Pseudodragon](3-Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md)
 *Source: Monster Manual (2024) p. 249, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Pseudodragon
@@ -26,7 +26,7 @@ aliases:
 *Fickle, Pint-Sized Dragon*
 
 - **Habitat.** Coastal, Desert, Forest, Hill, Mountain, Urban  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
 
 Pseudodragons dwell in scenic wildernesses, preferably where life is easy and prey is small and slow. There they behave like contented wyrms, creating tiny lairs amid ancient trees and rugged cliffs. They fill these lairs with shiny rocks, colorful shells, and unattended treasures that catch their attention, and they guard these hoards fiercely.
 
@@ -37,8 +37,6 @@ Many magic-users attempt to befriend pseudodragons, hoping to enlist them as fam
 Many pseudodragons prefer the finer things in life. These diminutive dragons might be inclined to aid those who ply them with treats. Contrariwise, mages who don't properly pamper their pseudo dragon familiars might be abandoned without warning. Roll on or choose an option from the Pseudo dragon Treats table to inspire a pseudodragon's taste in gifts.
 
 **Pseudodragon Treats**
-
-`dice: [](pseudodragon-xmm.md#^pseudodragon-treats)`
 
 | dice: 1d10 | The Pseudodragon Wants... |
 |------------|---------------------------|
@@ -77,35 +75,36 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
   - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 15"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The pseudodragon has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The pseudodragon has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The pseudodragon makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Piercing\
+      \ damage."
     "name": "Bite"
   - "desc": "*Constitution Saving Throw:* DC 12, one creature the pseudodragon can\
-      \ see within 5 feet. *Failure:* 5 (2d4) Poison damage, and the target has the\
-      \ [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for 1 hour.\
-      \ While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the target also\
-      \ has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition,\
-      \ which ends early if the target takes damage or a creature within 5 feet of\
-      \ it takes an action to wake it."
+      \ see within 5 feet. *Failure:* 5 (2d4) Poison damage, and the target has\
+      \ the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for\
+      \ 1 hour. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), the\
+      \ target also has the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ condition, which ends early if the target takes damage or a creature within\
+      \ 5 feet of it takes an action to wake it."
     "name": "Sting"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/pseudodragon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/pseudodragon-xmm.webp"
 ```
 ^statblock
 

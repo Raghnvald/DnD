@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Pelor
+aliases:
+- "Pelor"
 ---
 # Pelor
 *Source: Dungeon Master's Guide p. 10* 

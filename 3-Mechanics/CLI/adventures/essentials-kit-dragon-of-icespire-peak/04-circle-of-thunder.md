@@ -3,30 +3,30 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Circle of Thunder
+- "Circle of Thunder"
 ---
 # Circle of Thunder
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 18* 
 
 "Circle of Thunder" is balanced for characters of 6th level, though characters of 4th or 5th level can weather its challenges if they are cautious.
 
-No quest leads the party to this location. However, characters who brave Dragon Barrow might come here with Xanth the [centaur](/3-Mechanics/CLI/bestiary/monstrosity/centaur.md), while those who raid the Woodland Manse might be led here by Grannoc's map. In the aftermath of the counterattack on Falcon's Hunting Lodge (see "Counterattack!" on page 47), characters can follow Gorthok's trail back to the Circle of Thunder, where that creature was summoned.
+No quest leads the party to this location. However, characters who brave Dragon Barrow might come here with Xanth the centaur, while those who raid the Woodland Manse might be led here by Grannoc's map. In the aftermath of the counterattack on Falcon's Hunting Lodge (see "Counterattack!" on page 47), characters can follow Gorthok's trail back to the Circle of Thunder, where that creature was summoned.
 
 ## Location Overview
 
-The reclusive anchorites of the Circle of Thunder gather on this hill to make sacrifices to Talos the storm god. In stormy weather, the anchorites also perform rituals to summon [Gorthok the Thunder Boar](/3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md), a destructive force they can unleash against their enemies. A circle of standing stones atop the hill helps to focus the anchorites' magic to make the summoning of Gorthok possible.
+The reclusive anchorites of the Circle of Thunder gather on this hill to make sacrifices to Talos the storm god. In stormy weather, the anchorites also perform rituals to summon [Gorthok the Thunder Boar](3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md), a destructive force they can unleash against their enemies. A circle of standing stones atop the hill helps to focus the anchorites' magic to make the summoning of Gorthok possible.
 
 Three anchorites—Flenz, Narux, and Yargath—defend the hill. When not performing rituals in the circle of standing stones, they patrol the surrounding woods, forage for food, and lurk in caves dug out of the hillside. When the characters arrive, the anchorites are gathered on the hilltop. If Gorthok has not been defeated yet, the anchorites are in the midst of summoning the great boar. Otherwise, they are conjuring a storm.
 
 > [!note] Cave Descriptions
 > 
-> Three caves are set beneath the hilltop, each serving as the lair of an [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md). The caves are dug out of the earth, with each cave mouth braced by two rectangular stone slabs topped with a heavy lintel stone. All the caves have 7-foot-high ceilings and crude wooden gates for doors. Each cave features a different layout but has similar contents.
+> Three caves are set beneath the hilltop, each serving as the lair of an [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md). The caves are dug out of the earth, with each cave mouth braced by two rectangular stone slabs topped with a heavy lintel stone. All the caves have 7-foot-high ceilings and crude wooden gates for doors. Each cave features a different layout but has similar contents.
 > 
 > **A Entryway.** Situated in the middle of this intersection, facing the cave mouth, the skull of a boar rests atop a pile of humanoid and animal bones. A character who succeeds on a DC 10 Intelligence (Religion) check can ascertain that the bones are a warning to stay away.
 > 
-> **B Boar Pen.** The gate to this room is lashed shut with rope. It holds a [boar](/3-Mechanics/CLI/bestiary/beast/boar.md) that is the anchorite's companion and garbage disposal. The boar can't harm anyone while trapped in this room. If the gate is opened by anyone other than an [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md), the boar tries to flee the cave, attacking anyone in its path.
+> **B Boar Pen.** The gate to this room is lashed shut with rope. It holds a boar that is the anchorite's companion and garbage disposal. The boar can't harm anyone while trapped in this room. If the gate is opened by anyone other than an [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md), the boar tries to flee the cave, attacking anyone in its path.
 > 
 > **C Cell.** The gate to this cell is lashed shut with rope. The cell is used to hold animals doomed to be sacrificed in rituals to Talos. There's a 25 percent chance that a harmless deer is trapped inside. Otherwise, the cell is empty.
 > 
@@ -52,11 +52,11 @@ Ten twig dolls are bound to the charred tree, all within easy reach. A detect ma
 
 Close examination of a twig doll reveals something wrapped inside it. By breaking a doll apart, characters can see that it contains a still-beating pig's heart. Any damage to a heart kills it and causes the dead tree's roots to magically animate and erupt from the ground.
 
-When the constricting roots erupt, each creature standing in the clearing must succeed on a DC 12 Dexterity saving throw or take `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) bludgeoning damage and be restrained. The creature takes this damage again at the start of each of its turns until it escapes. A creature can use an action to free itself or another creature within its reach with a successful DC 15 Strength (Athletics) check, or by dealing 5 or more slashing damage against a root with a single melee weapon attack. The roots have AC 13 and immunity to all damage except slashing.
+When the constricting roots erupt, each creature standing in the clearing must succeed on a DC 12 Dexterity saving throw or take 5 (`2d4`) bludgeoning damage and be restrained. The creature takes this damage again at the start of each of its turns until it escapes. A creature can use an action to free itself or another creature within its reach with a successful DC 15 Strength (Athletics) check, or by dealing 5 or more slashing damage against a root with a single melee weapon attack. The roots have AC 13 and immunity to all damage except slashing.
 
 ### Yargath's Patrol
 
-As they move through the forest, the characters are beset by Yargath, an [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md), and a band of [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md)—two orcs per character in the party, including sidekicks. Set the scene as follows:
+As they move through the forest, the characters are beset by Yargath, an [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md), and a band of orcs—two orcs per character in the party, including sidekicks. Set the scene as follows:
 
 > [!readaloud] 
 > 
@@ -68,7 +68,7 @@ As they move through the forest, the characters are beset by Yargath, an [anchor
 
 #### Treasure
 
-Yargath carries a potion of greater healing. If the characters acquire this potion, give the players the Potion of Greater Healing [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Greater%20Healing) or they can reference it in the Magic Items Listing.
+Yargath carries a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing.md). If the characters acquire this potion, give the players the [Potion of Greater Healing](3-Mechanics/CLI/items/potion-of-greater-healing.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Greater%20Healing) or they can reference it in the Magic Items Listing.
 
 ## Arrival
 
@@ -86,14 +86,14 @@ The standing stones and the dancing figures are described in area C1. Characters
 The following locations are keyed to the map of the Circle of Thunder.
 
 > [!gallery]
-> ![Map: Circle of Thunder](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/011-map-cot-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/012-map-cot-pc.webp#gallery)
+> ![Map: Circle of Thunder](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/011-map-cot-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/012-map-cot-pc.webp#gallery)
 
 #### C1. Henge
 
 Atop the hill is a ring of eight upright stone structures, each one consisting of two 10-foot-high vertical stone slabs spaced 5 feet apart and topped with a 3-foot-thick flat lintel stone. These uprights can be toppled by creatures with a combined Strength score of 80 or higher.
 
-In the middle of the circle, two humanoid figures dance around a deer carcass, each wearing the rotting head of a boar as a mask. These foes are Flenz and Narux, two [anchorites of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md). They are joined by frolicking [twig blights](/3-Mechanics/CLI/bestiary/plant/twig-blight.md)—two blights for each character in the party, including sidekicks. Flenz and Narux are either performing a ritual to summon [Gorthok the Thunder Boar](/3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md), or they are making a sacrifice to appease Talos and call forth a storm. If the characters have not yet defeated Gorthok, the boar arrives once both anchorites are dead, appearing out of nowhere in the middle of the circle with a thunderclap. Gorthok fights to the death.
+In the middle of the circle, two humanoid figures dance around a deer carcass, each wearing the rotting head of a boar as a mask. These foes are Flenz and Narux, two [anchorites of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md). They are joined by frolicking twig blights—two blights for each character in the party, including sidekicks. Flenz and Narux are either performing a ritual to summon [Gorthok the Thunder Boar](3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md), or they are making a sacrifice to appease Talos and call forth a storm. If the characters have not yet defeated Gorthok, the boar arrives once both anchorites are dead, appearing out of nowhere in the middle of the circle with a thunderclap. Gorthok fights to the death.
 
 ##### Secret Trapdoors
 
@@ -105,7 +105,7 @@ Carved into the lintel stone above the cave mouth is a picture of a boar chasing
 
 ##### Treasure
 
-Flenz hides a potion of invulnerability in his quarters, buried in a random square beneath the floor. If the characters obtain the potion, give the players the Potion of Invulnerability [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Invulnerability) or they can reference it in the Magic Items Listing.
+Flenz hides a [potion of invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability.md) in his quarters, buried in a random square beneath the floor. If the characters obtain the potion, give the players the [Potion of Invulnerability](3-Mechanics/CLI/items/potion-of-invulnerability.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Invulnerability) or they can reference it in the Magic Items Listing.
 
 #### C3. Northeast Cave
 
@@ -113,7 +113,7 @@ The lintel stone above the mouth of this cave is bare.
 
 ##### Treasure
 
-Narux hides a +1 shield in his quarters, buried beneath the floor. If the characters obtain and identify it, give the players the +1 Shield [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#+1%20Shield) or they can reference it in the Magic Items Listing.
+Narux hides a [+1 shield](3-Mechanics/CLI/items/1-shield.md) in his quarters, buried beneath the floor. If the characters obtain and identify it, give the players the [+1 Shield](3-Mechanics/CLI/items/1-shield.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#+1%20Shield) or they can reference it in the Magic Items Listing.
 
 #### C4. Southeast Cave
 

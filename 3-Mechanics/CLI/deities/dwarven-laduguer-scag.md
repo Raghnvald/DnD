@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/death
-aliases: 
-- Laduguer
+aliases:
+- "Laduguer"
 ---
 # Laduguer
 *Source: Sword Coast Adventurer's Guide p. 22* 

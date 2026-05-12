@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/ggr
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
-aliases: 
+aliases:
 - "Guild Keyrune"
 ---
 # Guild Keyrune
@@ -18,15 +18,15 @@ Associated with a particular guild, a guild keyrune is a ceremonial, stylized ke
 
 **Items in this group:**
 
-- [Azorius Keyrune](/3-Mechanics/CLI/items/azorius-keyrune-ggr.md)
-- [Boros Keyrune](/3-Mechanics/CLI/items/boros-keyrune-ggr.md)
-- [Dimir Keyrune](/3-Mechanics/CLI/items/dimir-keyrune-ggr.md)
-- [Golgari Keyrune](/3-Mechanics/CLI/items/golgari-keyrune-ggr.md)
-- [Gruul Keyrune](/3-Mechanics/CLI/items/gruul-keyrune-ggr.md)
-- [Izzet Keyrune](/3-Mechanics/CLI/items/izzet-keyrune-ggr.md)
-- [Orzhov Keyrune](/3-Mechanics/CLI/items/orzhov-keyrune-ggr.md)
-- [Rakdos Keyrune](/3-Mechanics/CLI/items/rakdos-keyrune-ggr.md)
-- [Selesnya Keyrune](/3-Mechanics/CLI/items/selesnya-keyrune-ggr.md)
-- [Simic Keyrune](/3-Mechanics/CLI/items/simic-keyrune-ggr.md)
+- [Azorius Keyrune](3-Mechanics/CLI/items/azorius-keyrune-ggr.md)
+- [Boros Keyrune](3-Mechanics/CLI/items/boros-keyrune-ggr.md)
+- [Dimir Keyrune](3-Mechanics/CLI/items/dimir-keyrune-ggr.md)
+- [Golgari Keyrune](3-Mechanics/CLI/items/golgari-keyrune-ggr.md)
+- [Gruul Keyrune](3-Mechanics/CLI/items/gruul-keyrune-ggr.md)
+- [Izzet Keyrune](3-Mechanics/CLI/items/izzet-keyrune-ggr.md)
+- [Orzhov Keyrune](3-Mechanics/CLI/items/orzhov-keyrune-ggr.md)
+- [Rakdos Keyrune](3-Mechanics/CLI/items/rakdos-keyrune-ggr.md)
+- [Selesnya Keyrune](3-Mechanics/CLI/items/selesnya-keyrune-ggr.md)
+- [Simic Keyrune](3-Mechanics/CLI/items/simic-keyrune-ggr.md)
 
 *Source: Guildmasters' Guide to Ravnica p. 177*

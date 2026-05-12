@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Backstory; Marrow Valley Settlements
+- "Backstory; Marrow Valley Settlements"
 ---
 # Backstory; Marrow Valley Settlements
 *Source: Explorer's Guide to Wildemount p. 191* 
 
 **Marrow Valley Settlements**
-
-`dice: [](backstory-marrow-valley-settlements-egw.md#^marrow-valley-settlements)`
 
 | dice: d100 | Settlement Name | Type |
 |------------|-----------------|------|

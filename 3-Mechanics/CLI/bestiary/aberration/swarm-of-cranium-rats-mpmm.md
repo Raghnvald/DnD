@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Cranium Rats
+- "Swarm of Cranium Rats"
 ---
-# [Swarm of Cranium Rats](3-Mechanics\CLI\bestiary\aberration/swarm-of-cranium-rats-mpmm.md)
+# [Swarm of Cranium Rats](3-Mechanics/CLI/bestiary/aberration/swarm-of-cranium-rats-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 
 ## Cranium Rat
@@ -41,12 +41,12 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - !!int "14"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 10"
 "languages": "telepathy 30 ft."
 "cr": "5"
 "traits":
@@ -59,16 +59,15 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
     "name": "Telepathic Shroud"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 0 ft., one target in the swarm's\
-      \ space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the\
-      \ swarm has half of its hit points or fewer, plus 22 (5d8) psychic damage."
+      \ space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if\
+      \ the swarm has half of its hit points or fewer, plus 22 (5d8) psychic damage."
     "name": "Bites"
   - "desc": "As long as it has more than half of its hit points remaining, the swarm\
       \ casts one of the following spells, requiring no spell components and using\
       \ Intelligence as the spellcasting ability (spell save DC 13):\n\n**At will:**\
-      \ [command](/3-Mechanics/CLI/spells/command-xphb.md), [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-      \ [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\n**1/day\
-      \ each:** [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md), [dominate\
-      \ monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md)"
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\n**1/day\
+      \ each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md), [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The swarm sheds dim light from its brains in a 5-foot radius, increases\
@@ -79,7 +78,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp"
 ```
 ^statblock
 

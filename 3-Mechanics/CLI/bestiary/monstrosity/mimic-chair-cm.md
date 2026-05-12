@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mimic Chair
+- "Mimic Chair"
 ---
-# [Mimic Chair](3-Mechanics\CLI\bestiary\monstrosity/mimic-chair-cm.md)
+# [Mimic Chair](3-Mechanics/CLI/bestiary/monstrosity/mimic-chair-cm.md)
 *Source: Candlekeep Mysteries p. 22*  
 
 ```statblock
@@ -59,15 +59,15 @@ aliases:
       \ by it."
     "name": "Grappler"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage. If the mimic is in object form, the target is subjected\
-      \ to its Adhesive trait."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target\
+      \ is subjected to its Adhesive trait."
     "name": "Pseudopod"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage plus 4 (1d8) acid damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage plus 4 (1d8) acid damage."
     "name": "Bite"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mimic-chair-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/mimic-chair-cm.webp"
 ```
 ^statblock

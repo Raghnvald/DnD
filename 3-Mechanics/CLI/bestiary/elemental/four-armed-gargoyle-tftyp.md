@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Four-Armed Gargoyle
+- "Four-Armed Gargoyle"
 ---
-# [Four-Armed Gargoyle](3-Mechanics\CLI\bestiary\elemental/four-armed-gargoyle-tftyp.md)
+# [Four-Armed Gargoyle](3-Mechanics/CLI/bestiary/elemental/four-armed-gargoyle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 129*  
 
 ```statblock
@@ -36,8 +36,10 @@ aliases:
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Terran"
 "cr": "2"
 "traits":
@@ -48,14 +50,14 @@ aliases:
   - "desc": "The gargoyle makes three attacks: one with its bite and two with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Claws"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/four-armed-gargoyle-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/four-armed-gargoyle-tftyp.webp"
 ```
 ^statblock

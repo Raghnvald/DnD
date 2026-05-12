@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Wildemount Bestiary
+- "Wildemount Bestiary"
 ---
 # Wildemount Bestiary
 *Source: Explorer's Guide to Wildemount, p. 281* 
 
-![Adventurers confront a fie...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/141-07-01.webp#center "Adventurers confront a fiendish udaak that haunts the edges of civilization in Eastern Wynandir")
+![Adventurers confront a fiendish udaak that haunts the edges of civilization in Eastern Wynandir](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/141-07-01.webp#center)
 
 > [!quote] A quote from Unknown Righteous Brand soldier  
 > 
@@ -51,26 +51,26 @@ Appendix B of the Monster Manual contains stat blocks that can be used to repres
 
 The stat blocks are presented in alphabetical order.
 
-- [Aeorian Absorber](/3-Mechanics/CLI/bestiary/monstrosity/aeorian-absorber-egw.md)  
-- [Aeorian Nullifier](/3-Mechanics/CLI/bestiary/monstrosity/aeorian-nullifier-egw.md)  
-- [Aeorian Reverser](/3-Mechanics/CLI/bestiary/monstrosity/aeorian-reverser-egw.md)  
-- [Blood Hunter](/3-Mechanics/CLI/bestiary/humanoid/blood-hunter-egw.md)  
-- [Bristled Moorbounder](/3-Mechanics/CLI/bestiary/beast/bristled-moorbounder-egw.md)  
-- [Core Spawn Crawler](/3-Mechanics/CLI/bestiary/aberration/core-spawn-crawler-egw.md)  
-- [Core Spawn Emissary](/3-Mechanics/CLI/bestiary/aberration/core-spawn-emissary-egw.md)  
-- [Core Spawn Seer](/3-Mechanics/CLI/bestiary/aberration/core-spawn-seer-egw.md)  
-- [Core Spawn Worm](/3-Mechanics/CLI/bestiary/aberration/core-spawn-worm-egw.md)  
-- [Frost Giant Zombie](/3-Mechanics/CLI/bestiary/undead/frost-giant-zombie-egw.md)  
-- [Frost Worm](/3-Mechanics/CLI/bestiary/monstrosity/frost-worm-egw.md)  
-- [Gearkeeper Construct](/3-Mechanics/CLI/bestiary/construct/gearkeeper-construct-egw.md)  
-- [Gloomstalker](/3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md)  
-- [Horizonback Tortoise](/3-Mechanics/CLI/bestiary/monstrosity/horizonback-tortoise-egw.md)  
-- [Husk Zombie](/3-Mechanics/CLI/bestiary/undead/husk-zombie-egw.md)  
-- [Merrow Shallowpriest](/3-Mechanics/CLI/bestiary/monstrosity/merrow-shallowpriest-egw.md)  
-- [Moorbounder](/3-Mechanics/CLI/bestiary/beast/moorbounder-egw.md)  
-- [Nergaliid](/3-Mechanics/CLI/bestiary/fiend/nergaliid-egw.md)  
-- [Sahuagin Warlock of Uk'otoa](/3-Mechanics/CLI/bestiary/humanoid/sahuagin-warlock-of-ukotoa-egw.md)  
-- [Sea Fury](/3-Mechanics/CLI/bestiary/fey/sea-fury-egw.md)  
-- [Shadowghast](/3-Mechanics/CLI/bestiary/undead/shadowghast-egw.md)  
-- [Swavain Basilisk](/3-Mechanics/CLI/bestiary/monstrosity/swavain-basilisk-egw.md)  
-- [Udaak](/3-Mechanics/CLI/bestiary/fiend/udaak-egw.md)
+- [Aeorian Absorber](3-Mechanics/CLI/bestiary/monstrosity/aeorian-absorber-egw.md)  
+- [Aeorian Nullifier](3-Mechanics/CLI/bestiary/monstrosity/aeorian-nullifier-egw.md)  
+- [Aeorian Reverser](3-Mechanics/CLI/bestiary/monstrosity/aeorian-reverser-egw.md)  
+- [Blood Hunter](3-Mechanics/CLI/bestiary/humanoid/blood-hunter-egw.md)  
+- [Bristled Moorbounder](3-Mechanics/CLI/bestiary/beast/bristled-moorbounder-egw.md)  
+- [Core Spawn Crawler](3-Mechanics/CLI/bestiary/aberration/core-spawn-crawler-egw.md)  
+- [Core Spawn Emissary](3-Mechanics/CLI/bestiary/aberration/core-spawn-emissary-egw.md)  
+- [Core Spawn Seer](3-Mechanics/CLI/bestiary/aberration/core-spawn-seer-egw.md)  
+- [Core Spawn Worm](3-Mechanics/CLI/bestiary/aberration/core-spawn-worm-egw.md)  
+- [Frost Giant Zombie](3-Mechanics/CLI/bestiary/undead/frost-giant-zombie-egw.md)  
+- [Frost Worm](3-Mechanics/CLI/bestiary/monstrosity/frost-worm-egw.md)  
+- [Gearkeeper Construct](3-Mechanics/CLI/bestiary/construct/gearkeeper-construct-egw.md)  
+- [Gloomstalker](3-Mechanics/CLI/bestiary/monstrosity/gloomstalker-egw.md)  
+- [Horizonback Tortoise](3-Mechanics/CLI/bestiary/monstrosity/horizonback-tortoise-egw.md)  
+- [Husk Zombie](3-Mechanics/CLI/bestiary/undead/husk-zombie-egw.md)  
+- [Merrow Shallowpriest](3-Mechanics/CLI/bestiary/monstrosity/merrow-shallowpriest-egw.md)  
+- [Moorbounder](3-Mechanics/CLI/bestiary/beast/moorbounder-egw.md)  
+- [Nergaliid](3-Mechanics/CLI/bestiary/fiend/nergaliid-egw.md)  
+- [Sahuagin Warlock of Uk'otoa](3-Mechanics/CLI/bestiary/humanoid/sahuagin-warlock-of-ukotoa-egw.md)  
+- [Sea Fury](3-Mechanics/CLI/bestiary/fey/sea-fury-egw.md)  
+- [Shadowghast](3-Mechanics/CLI/bestiary/undead/shadowghast-egw.md)  
+- [Swavain Basilisk](3-Mechanics/CLI/bestiary/monstrosity/swavain-basilisk-egw.md)  
+- [Udaak](3-Mechanics/CLI/bestiary/fiend/udaak-egw.md)

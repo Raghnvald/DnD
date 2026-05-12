@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Giant
+- "Fire Giant"
 ---
-# [Fire Giant](3-Mechanics\CLI\bestiary\giant/fire-giant.md)
-*Source: Monster Manual p. 154, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Fire Giant](3-Mechanics/CLI/bestiary/giant/fire-giant.md)
+*Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 
@@ -91,7 +91,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -108,27 +108,28 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "fire"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
 "actions":
   - "desc": "The giant makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (6d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (6d6 + 7) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fire-giant.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/fire-giant.webp"
 ```
 ^statblock
 

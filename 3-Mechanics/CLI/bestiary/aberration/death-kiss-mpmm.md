@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death Kiss
+- "Death Kiss"
 ---
-# [Death Kiss](3-Mechanics\CLI\bestiary\aberration/death-kiss-mpmm.md)
+# [Death Kiss](3-Mechanics/CLI/bestiary/aberration/death-kiss-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124*  
 
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
@@ -47,39 +47,39 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "lightning"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "10"
 "traits":
-  - "desc": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage\
-      \ whenever it hits the death kiss with a melee attack that deals piercing or\
-      \ slashing damage."
+  - "desc": "A creature within 5 feet of the death kiss takes 5 (1d10) lightning\
+      \ damage whenever it hits the death kiss with a melee attack that deals piercing\
+      \ or slashing damage."
     "name": "Lightning Blood"
 "actions":
   - "desc": "The death kiss makes three Tentacle attacks. Up to three of these attacks\
       \ can be replaced by Blood Drain—one replacement per tentacle grappling a creature."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained), and\
-      \ the death kiss can't use the same tentacle on another target. The death kiss\
-      \ has ten tentacles."
+      \ the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the death kiss can't use the same tentacle on another target. The death\
+      \ kiss has ten tentacles."
     "name": "Tentacle"
-  - "desc": "One creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by a\
-      \ tentacle of the death kiss must make a DC 16 Constitution saving throw. On\
-      \ a failed save, the target takes 22 (4d10) lightning damage, and the death\
+  - "desc": "One creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by a tentacle of the death kiss must make a DC 16 Constitution saving throw.\
+      \ On a failed save, the target takes 22 (4d10) lightning damage, and the death\
       \ kiss regains half as many hit points."
     "name": "Blood Drain"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/death-kiss-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/death-kiss-mpmm.webp"
 ```
 ^statblock
 

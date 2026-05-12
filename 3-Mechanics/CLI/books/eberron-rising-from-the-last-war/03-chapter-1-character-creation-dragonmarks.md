@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Chapter 1: Character Creation - Dragonmarks
+- "Chapter 1: Character Creation - Dragonmarks"
 ---
 # Chapter 1: Character Creation - Dragonmarks
 *Source: Eberron: Rising from the Last War, p. 37* 
@@ -54,7 +54,7 @@ So, if you're making an elf character, you can choose to take the Mark of Shadow
 
 There is another option related to dragonmarks if your group uses feats: the Aberrant Dragonmark feat (see "below") grants potentially dangerous magical abilities. Aberrant dragonmarks aren't tied to the dragonmark houses and can be taken by a character of any race.
 
-![Dragonmarks and Their Houses](/3-Mechanics/CLI/tables/dragonmarks-and-their-houses-erlw.md)
+![Dragonmarks and Their Houses](3-Mechanics/CLI/tables/dragonmarks-and-their-houses-erlw.md)
 
 ### Dragonmarks and Backgrounds
 
@@ -82,25 +82,25 @@ A dragonmark appears on the skin. There are twelve known dragonmarks, each uniqu
 
 While dragonmarks share the same general appearance, your dragonmark could have a unique quality. Roll on the Dragonmark Quirks table for inspiration.
 
-![Dragonmark Appearance; Dragonmark Quirks](/3-Mechanics/CLI/tables/dragonmark-appearance-dragonmark-quirks-erlw.md)
+![Dragonmark Appearance; Dragonmark Quirks](3-Mechanics/CLI/tables/dragonmark-appearance-dragonmark-quirks-erlw.md)
 
 > [!gallery]
-> ![Mark of Detection](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/016-1-13-detection.webp#gallery)
-> ![Mark of Finding](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/017-1-13-finding.webp#gallery)
-> ![Mark of Handling](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/018-1-13-handling.webp#gallery)
-> ![Mark of Healing](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/019-1-13-healing.webp#gallery)
-> ![Mark of Hospitality](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/020-1-13-hospitality.webp#gallery)
-> ![Mark of Making](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/021-1-13-making.webp#gallery)
-> ![Mark of Passage](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/022-1-13-passage.webp#gallery)
-> ![Mark of Scribing](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/023-1-13-scribing.webp#gallery)
-> ![Mark of Sentinel](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/024-1-13-sentinel.webp#gallery)
-> ![Mark of Shadow](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/025-1-13-shadow.webp#gallery)
-> ![Mark of Storm](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/026-1-13-storm.webp#gallery)
-> ![Mark of Warding](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/027-1-13-warding.webp#gallery)
+> ![Mark of Detection](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/016-1-13-detection.webp#gallery)
+> ![Mark of Finding](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/017-1-13-finding.webp#gallery)
+> ![Mark of Handling](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/018-1-13-handling.webp#gallery)
+> ![Mark of Healing](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/019-1-13-healing.webp#gallery)
+> ![Mark of Hospitality](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/020-1-13-hospitality.webp#gallery)
+> ![Mark of Making](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/021-1-13-making.webp#gallery)
+> ![Mark of Passage](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/022-1-13-passage.webp#gallery)
+> ![Mark of Scribing](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/023-1-13-scribing.webp#gallery)
+> ![Mark of Sentinel](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/024-1-13-sentinel.webp#gallery)
+> ![Mark of Shadow](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/025-1-13-shadow.webp#gallery)
+> ![Mark of Storm](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/026-1-13-storm.webp#gallery)
+> ![Mark of Warding](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/027-1-13-warding.webp#gallery)
 
 ## The Mark of Detection
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/028-1-14.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/028-1-14.webp#center)
 
 > [!quote] A quote from Baron Trelib d'Medani  
 > 
@@ -110,7 +110,7 @@ The Mark of Detection is an inquisitive's dream. It sharpens powers of observati
 
 ### House Medani
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/029-1-15.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/029-1-15.webp#center)
 
 **Leader**: Baron Trelib d'Medani
 
@@ -122,11 +122,11 @@ The members of House Medani are half-elves with deep roots in Breland. Medani ha
 
 ### Variant Half-Elf: Mark of Detection
 
-See the [Half-Elf (Variant; Mark of Detection)](/3-Mechanics/CLI/races/half-elf-mark-of-detection-erlw.md) entry.
+See the [Half-Elf (Variant; Mark of Detection)](3-Mechanics/CLI/feats/mark-of-detection-efa.md) entry.
 
 ## The Mark of Finding
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/030-1-16.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/030-1-16.webp#center)
 
 > [!quote] A quote from Hondar'Aashta, Tharashk bounty hunter  
 > 
@@ -146,13 +146,13 @@ Tharashk is the youngest of the dragonmarked houses and hasn't embraced all the 
 
 ### Variant Half-Orc or Human: Mark of Finding
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/031-1-17.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/031-1-17.webp#center)
 
-See the [Half-Orc (Variant; Mark of Finding)](/3-Mechanics/CLI/races/half-orc-mark-of-finding-erlw.md) and [Human (Variant; Mark of Finding)](/3-Mechanics/CLI/races/human-mark-of-finding-erlw.md) entries.
+See the [Half-Orc (Variant; Mark of Finding)](3-Mechanics/CLI/feats/mark-of-finding-efa.md) and [Human (Variant; Mark of Finding)](3-Mechanics/CLI/feats/mark-of-finding-efa.md) entries.
 
 ## The Mark of Handling
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/032-1-18.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/032-1-18.webp#center)
 
 > [!quote] A quote from Dalin d'Vadalis  
 > 
@@ -162,7 +162,7 @@ The Mark of Handling gives its bearer a primal connection to beasts and the natu
 
 ### House Vadalis
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/033-1-19.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/033-1-19.webp#center)
 
 **Leader**: Dalin d'Vadalis
 
@@ -174,11 +174,11 @@ House Vadalis breeds and trains beasts for a wide range of purposes. While the h
 
 ### Variant Human: Mark of Handling
 
-See the [Human (Mark of Handling)](/3-Mechanics/CLI/races/human-mark-of-handling-erlw.md) entry.
+See the [Human (Mark of Handling)](3-Mechanics/CLI/feats/mark-of-handling-efa.md) entry.
 
 ## The Mark of Healing
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/034-1-20.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/034-1-20.webp#center)
 
 > [!quote] A quote from Bessi d'Jorasco, Fairhaven healer  
 > 
@@ -188,7 +188,7 @@ A halfling with the Mark of Healing can save a life with a touch, restoring vita
 
 ### House Jorasco
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/035-1-21.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/035-1-21.webp#center)
 
 **Leader**: Ulara d'Jorasco
 
@@ -196,17 +196,17 @@ A halfling with the Mark of Healing can save a life with a touch, restoring vita
 
 The Healer's Guild provides a vital service to Khorvaire, and the Last War ensured there was great need for healers. The leader of the guild, Baron Ulara d'Jorasco, is much beloved in northwestern Khorvaire for her instrumental role in combating an epidemic in that region a decade ago, and Jorasco medics served in every nation's army during the war.
 
-The guild runs schools that teach medicine, as well as houses of healing that provide both mundane and magical services. If it could save a life, it's probably marked by the House Jorasco griffon emblem, and it will come with a cost. If you have the gold, Jorasco healers can remove a disease instantly with lesser restoration. If you can't afford such a service, they will treat you with mundane techniques. House Jorasco is also the source of potions of healing. While many criticize Jorasco's demands for payment, the house maintains that it's not about greed; it's about ensuring the prosperity of the house, so they can continue to help future generations.
+The guild runs schools that teach medicine, as well as houses of healing that provide both mundane and magical services. If it could save a life, it's probably marked by the House Jorasco griffon emblem, and it will come with a cost. If you have the gold, Jorasco healers can remove a disease instantly with lesser restoration. If you can't afford such a service, they will treat you with mundane techniques. House Jorasco is also the source of [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md). While many criticize Jorasco's demands for payment, the house maintains that it's not about greed; it's about ensuring the prosperity of the house, so they can continue to help future generations.
 
 While the public face of Jorasco is that of the healer, there are rumors that the house engaged in disturbing experiments during the Last War, working with House Vadalis to develop biological weapons and new creatures. A Jorasco heir has to decide if they want to investigate these rumors.
 
 ### Halfling Subrace: Mark of Healing
 
-See the [Halfling (Mark of Healing)](/3-Mechanics/CLI/races/halfling-mark-of-healing-erlw.md) entry.
+See the [Halfling (Mark of Healing)](3-Mechanics/CLI/feats/mark-of-healing-efa.md) entry.
 
 ## The Mark of Hospitality
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/036-1-22.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/036-1-22.webp#center)
 
 > [!quote] A quote from Alara d'Ghallanda, halfling bartender  
 > 
@@ -216,7 +216,7 @@ They may not always have gold, but a halfling with the Mark of Hospitality is su
 
 ### House Ghallanda
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/037-1-23.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/037-1-23.webp#center)
 
 **Leader**: Yoren d'Ghallanda
 
@@ -230,11 +230,11 @@ House Ghallanda's mandate extends beyond providing creature comforts to traveler
 
 ### Halfling Subrace: Mark of Hospitality
 
-See the [Halfling (Mark of Hospitality)](/3-Mechanics/CLI/races/halfling-mark-of-hospitality-erlw.md) entry.
+See the [Halfling (Mark of Hospitality)](3-Mechanics/CLI/feats/mark-of-hospitality-efa.md) entry.
 
 ## The Mark of Making
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/038-1-24.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/038-1-24.webp#center)
 
 > [!quote] A quote from Baron Merrix d'Cannith  
 > 
@@ -244,7 +244,7 @@ The Mark of Making guides its bearer through any act of creation. The bearer of 
 
 ### House Cannith
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/039-1-25.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/039-1-25.webp#center)
 
 **Leaders**: Cannith East, Zorlan d'Cannith; Cannith West, Jorlanna d'Cannith; Cannith South, Merrix d'Cannith
 
@@ -256,11 +256,11 @@ The Last War was a time of great opportunity for Cannith. Every nation wanted we
 
 ### Variant Human: Mark of Making
 
-See the [Human (Mark of Making)](/3-Mechanics/CLI/races/human-mark-of-making-erlw.md) entry.
+See the [Human (Mark of Making)](3-Mechanics/CLI/feats/mark-of-making-efa.md) entry.
 
 ## The Mark of Passage
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/040-1-26.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/040-1-26.webp#center)
 
 > [!quote] A quote from Bali d'Orien, veteran courier  
 > 
@@ -270,7 +270,7 @@ The Mark of Passage governs motion, allowing its bearer to move with uncanny spe
 
 ### House Orien
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/041-1-27.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/041-1-27.webp#center)
 
 **Leader**: Kwanti d'Orien
 
@@ -284,11 +284,11 @@ House Orien's problems don't end with the Mournland, though. The expanding role 
 
 ### Variant Human: Mark of Passage
 
-See the [Human (Mark of Passage)](/3-Mechanics/CLI/races/human-mark-of-passage-erlw.md) entry.
+See the [Human (Mark of Passage)](3-Mechanics/CLI/feats/mark-of-passage-efa.md) entry.
 
 ## The Mark of Scribing
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/042-1-28.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/042-1-28.webp#center)
 
 > [!quote] A quote from Baron Lysse Lyrriman d'Sivis  
 > 
@@ -298,7 +298,7 @@ The Mark of Scribing deals with communication—both the written and spoken word
 
 ### House Sivis
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/043-1-29.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/043-1-29.webp#center)
 
 **Leader**: Lysse Lyrriman d'Sivis
 
@@ -310,11 +310,11 @@ House Sivis takes great pains to maintain the trust of its clients and holds a p
 
 ### Gnome Subrace: Mark of Scribing
 
-See the [Gnome (Mark of Scribing)](/3-Mechanics/CLI/races/gnome-mark-of-scribing-erlw.md) entry.
+See the [Gnome (Mark of Scribing)](3-Mechanics/CLI/feats/mark-of-scribing-efa.md) entry.
 
 ## The Mark of Sentinel
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/044-1-30.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/044-1-30.webp#center)
 
 > [!quote] A quote from Harric d'Deneith, Sentinel Marshal  
 > 
@@ -324,7 +324,7 @@ The Mark of Sentinel warns and protects. It heightens senses and reflexes, allow
 
 ### House Deneith
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/045-1-31.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/045-1-31.webp#center)
 
 **Leader**: Breven d'Deneith
 
@@ -336,11 +336,11 @@ Despite its might and the desire of some house members to flex their military mu
 
 ### Variant Human: Mark of Sentinel
 
-See the [Human (Mark of Sentinel)](/3-Mechanics/CLI/races/human-mark-of-sentinel-erlw.md) entry.
+See the [Human (Mark of Sentinel)](3-Mechanics/CLI/feats/mark-of-sentinel-efa.md) entry.
 
 ## The Mark of Shadow
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/046-1-32.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/046-1-32.webp#center)
 
 > [!quote] A quote from Lady Elara d'Thuranni, shadow dancer  
 > 
@@ -350,7 +350,7 @@ The Mark of Shadow lets an elf weave illusions, crafting magic to distract or de
 
 ### The Houses of Shadow
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/047-1-33.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/047-1-33.webp#center)
 
 **Leader**: House Phiarlan, Elvinor Elorrenthi d'Phiarlan; House Thuranni, Elar d'Thuranni
 
@@ -366,11 +366,11 @@ The lands of House Phiarlan, known as the Demesnes, are the foremost centers of 
 
 ### Elf Subrace: Mark of Shadow
 
-See the [Elf (Mark of Shadow)](/3-Mechanics/CLI/races/elf-mark-of-shadow-erlw.md) entry.
+See the [Elf (Mark of Shadow)](3-Mechanics/CLI/feats/mark-of-shadow-efa.md) entry.
 
 ## The Mark of Storm
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/048-1-34.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/048-1-34.webp#center)
 
 > [!quote] A quote from From the Oath of Lyrandar  
 > 
@@ -380,7 +380,7 @@ Wind and water welcome the half-elves who carry the Mark of Storm, and some lear
 
 ### House Lyrandar
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/049-1-35.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/049-1-35.webp#center)
 
 **Leader**: Esravash d'Lyrandar
 
@@ -394,11 +394,11 @@ For many of the house's members, the house is more than a family or business—i
 
 ### Variant Half-Elf: Mark of Storm
 
-See the [Half-Elf (Variant; Mark of Storm)](/3-Mechanics/CLI/races/half-elf-mark-of-storm-erlw.md) entry.
+See the [Half-Elf (Variant; Mark of Storm)](3-Mechanics/CLI/feats/mark-of-storm-efa.md) entry.
 
 ## The Mark of Warding
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/050-1-36.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/050-1-36.webp#center)
 
 > [!quote] A quote from Cutter, burglar and Kundarak excoriate  
 > 
@@ -408,7 +408,7 @@ The Mark of Warding helps its bearers protect things of value. Using the mark, a
 
 ### House Kundarak
 
-![Kundarak Vault](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/051-1-37.webp#center)
+![Kundarak Vault](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/051-1-37.webp#center)
 
 **Leader**: Morrikan d'Kundarak
 
@@ -422,7 +422,7 @@ As the dwarves of the Mror Holds have come into increasing conflict with the dae
 
 ### Dwarf Subrace: Mark of Warding
 
-See the [Dwarf (Mark of Warding)](/3-Mechanics/CLI/races/dwarf-mark-of-warding-erlw.md) entry.
+See the [Dwarf (Mark of Warding)](3-Mechanics/CLI/feats/mark-of-warding-efa.md) entry.
 
 ## Aberrant Dragonmarks
 
@@ -430,7 +430,7 @@ See the [Dwarf (Mark of Warding)](/3-Mechanics/CLI/races/dwarf-mark-of-warding-e
 > 
 > Your sigil creates, child of Cannith. Mine holds the power to destroy.
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/052-1-38.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/052-1-38.webp#center)
 
 The twelve dragonmarks are predictable, and their powers are generally constructive. But there is another kind of dragonmark, which is dangerous to both the bearer and the people around them. Aberrant marks often appear when people from different dragonmarked families produce a child, and for this reason such unions are forbidden by the Twelve. But aberrant dragonmarks can appear on members of any race, at any age, regardless of bloodline. No two aberrant dragonmarks are exactly alike—even if they grant the same power, they might manifest in different ways.
 
@@ -440,8 +440,8 @@ Aberrant marks are feared for another reason, too. Long ago, aberrant marks were
 
 ### Feat: Aberrant Dragonmark
 
-See the [Aberrant Dragonmark](/3-Mechanics/CLI/feats/aberrant-dragonmark-erlw.md) entry.
+See the [Aberrant Dragonmark](3-Mechanics/CLI/feats/aberrant-dragonmark-efa.md) entry.
 
 ## Background
 
-The [house agent](/3-Mechanics/CLI/backgrounds/house-agent-erlw.md) background is the perfect background option for a character tied to a dragonmarked house.
+The [house agent](3-Mechanics/CLI/backgrounds/house-agent-efa.md) background is the perfect background option for a character tied to a dragonmarked house.

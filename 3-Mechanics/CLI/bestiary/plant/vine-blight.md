@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vine Blight
+- "Vine Blight"
 ---
-# [Vine Blight](3-Mechanics\CLI\bestiary\plant/vine-blight.md)
-*Source: Monster Manual p. 32, Explorer's Guide to Wildemount*  
+# [Vine Blight](3-Mechanics/CLI/bestiary/plant/vine-blight.md)
+*Source: Monster Manual p. 32*  
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 
@@ -60,10 +60,11 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "3"
 "speed": "10 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+1"
-"condition_immunities": "blinded, deafened"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": "Common"
 "cr": "1/2"
 "traits":
@@ -71,23 +72,22 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
       \ of vines."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (2d6 + 2) bludgeoning damage, and a Large or smaller target is grappled (escape\
-      \ DC 12). Until this grapple ends, the target is restrained, and the blight\
-      \ can't constrict another target."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (2d6 + 2) bludgeoning damage, and a Large or smaller target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 12). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the blight can't constrict another target."
     "name": "Constrict"
   - "desc": "Grasping roots and vines sprout in a 15-foot radius centered on the blight,\
       \ withering away after 1 minute. For the duration, that area is difficult terrain\
       \ for nonplant creatures. In addition, each creature of the blight's choice\
       \ in that area when the plants appear must succeed on a DC 12 Strength saving\
-      \ throw or become restrained. A creature can use its action to make a DC 12\
-      \ Strength check, freeing itself or another entangled creature within reach\
-      \ on a success."
+      \ throw or become [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
+      \ A creature can use its action to make a DC 12 Strength check, freeing itself\
+      \ or another entangled creature within reach on a success."
     "name": "Entangling Plants (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/vine-blight.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/vine-blight.webp"
 ```
 ^statblock
 

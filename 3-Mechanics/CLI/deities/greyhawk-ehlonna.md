@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/nature
-aliases: 
-- Ehlonna
+aliases:
+- "Ehlonna"
 ---
 # Ehlonna
 *Source: Player's Handbook p. 295* 

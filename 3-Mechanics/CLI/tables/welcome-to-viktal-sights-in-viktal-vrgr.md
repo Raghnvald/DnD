@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Welcome to Viktal; Sights in Viktal
+- "Welcome to Viktal; Sights in Viktal"
 ---
 # Welcome to Viktal; Sights in Viktal
 *Source: Van Richten's Guide to Ravenloft p. 160* 
 
 **Sights in Viktal**
-
-`dice: [](welcome-to-viktal-sights-in-viktal-vrgr.md#^sights-in-viktal)`
 
 | dice: d8 | Sight |
 |----------|-------|

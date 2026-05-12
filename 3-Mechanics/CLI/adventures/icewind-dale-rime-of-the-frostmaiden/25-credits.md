@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Icewind Dale: Rime of the Frostmaiden* 
@@ -40,8 +40,8 @@ aliases:
 - **Special Thanks.** Holly Barbacovi, Jason Barbacovi, Bianca Bickford, Cassidy Borger, Chris Cocks, Tony Craven, Jonathan Cruz, Soren Danielson, Jonathan Doran, Eugene Evans, Jay Gellerman, Chad Gokey, Andrew Harasymiw, Emily Johnson, Omega "Critical Bard" Jones, Ty Koebernick, Erin Kramer, Dan LaValby, Randy Lenius, Joshua Mendenhall, Connor Miller, Glen Miller, Nick Mitchell, Tim O'Hara, Michele Picard, Bob Pursley, Jeff Rebbeck, Bill Rose, David Schwartz, Rebecca A. Smith, Jayson Thiry, and the hundreds of play- testers who helped make this adventure more fun  
 
 > [!gallery]
-> ![On the Cover: Auril the Fr...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/credits.webp#gallery "On the Cover: Auril the Frostmaiden claims her latest victim in Tyler Jacobson's chillingly macabre cover illustration. On the back, an elemental spirit called a chwinga comes out to play.")
-> ![On the Alt-Cover: Hydro74 ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/credits2.webp#gallery "On the Alt-Cover: Hydro74 shows the doom of Ten-Towns: Auril the Frostmaiden, the god of winter's wrath. Adorning the back cover is the Frostmaiden's holy symbol.")
+> ![On the Cover: Auril the Frostmaiden claims her latest victim in Tyler Jacobson's chillingly macabre cover illustration. On the back, an elemental spirit called a chwinga comes out to play.](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/credits.webp#gallery)
+> ![On the Alt-Cover: Hydro74 shows the doom of Ten-Towns: Auril the Frostmaiden, the god of winter's wrath. Adorning the back cover is the Frostmaiden's holy symbol.](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/credits2.webp#gallery)
 
 - **The following D&D books provided text and inspiration.**   
     Carroll, Bart and others. Lost Laboratory of Kwalish. 2018.  

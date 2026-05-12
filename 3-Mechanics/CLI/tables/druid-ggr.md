@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Druid
+- "Druid"
 ---
 # Druid
 *Source: Guildmasters' Guide to Ravnica p. 23* 
@@ -16,8 +16,8 @@ aliases:
 |----------|-------|
 | Circle of Dreams* | Selesnya |
 | Circle of Spores** | Golgari |
-| [Circle of the Land](/3-Mechanics/CLI/classes/druid-xphb.md) | Golgari (forest, swamp, Underdark), Selesnya (forest, grassland), Simic (coast, forest) |
-| [Circle of the Moon](/3-Mechanics/CLI/classes/druid-xphb.md) | Gruul |
+| Circle of the Land | Golgari (forest, swamp, Underdark), Selesnya (forest, grassland), Simic (coast, forest) |
+| Circle of the Moon | Gruul |
 | Circle of the Shepherd* | Selesnya |
 ^druid
 

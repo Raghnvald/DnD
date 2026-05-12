@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/legendary-group
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/legendary-group
 aliases:
-- Hierophant Medusa
+- "Hierophant Medusa"
 ---
 # Hierophant Medusa
 
@@ -27,4 +27,4 @@ The region containing a medusa's lair is altered by the medusa's presence, creat
 - **Faces in Stone.** Stone within 3 miles of the lair takes on subtle shapes that suggest people, animals, and other creatures when viewed from the corner of the eye or through dim light or fog.  
 - **Gathered Knowledge.** Within the lair, creatures have advantage on ability checks made to discover or recall information relevant to the medusa's divine purpose.  
 
-If the medusa dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the medusa dies, these effects fade over the course of `1d10` days.

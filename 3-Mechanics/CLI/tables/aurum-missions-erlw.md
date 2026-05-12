@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Aurum Missions
+- "Aurum Missions"
 ---
 # Aurum Missions
 *Source: Eberron: Rising from the Last War p. 188* 
 
 **Aurum Missions**
-
-`dice: [](aurum-missions-erlw.md#^aurum-missions)`
 
 | dice: d6 | Mission |
 |----------|---------|

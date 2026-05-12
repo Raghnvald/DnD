@@ -18,9 +18,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre
+- "Ogre"
 ---
-# [Ogre](3-Mechanics\CLI\bestiary\giant/ogre-xmm.md)
+# [Ogre](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md)
 *Source: Monster Manual (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils they please. Ogre raiders ally with other evil forces in return for food, riches, and promises of battle.
@@ -30,7 +30,7 @@ Ogres are 10-foot-tall brutes that overwhelm their foes and take what spoils the
 *Raging Hulks and Hoarders*
 
 - **Habitat.** Arctic, Desert, Forest, Grassland, Hill, Mountain, Swamp, Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Ogres are selfish raiders and hulking gluttons spawned of hateful supernatural forces. From dismal ruins and bleak hinterlands, they raid vulnerable communities and ambush travelers. Ogres covet food and treasure, and they spitefully destroy art, books, clockwork devices, and other delicate or lovingly made things. Occasionally they kidnap victims to eat later or, more rarely, performers who catch their interest.
 
@@ -53,20 +53,23 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "three [javelins](3-Mechanics/CLI/items/javelin-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
   - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (2d8 + 4) Bludgeoning\
       \ damage."
     "name": "Greatclub"
-  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. *Hit:*\
-      \ 11 (2d6 + 4) Piercing damage."
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft.\
+      \ *Hit:* 11 (2d6 + 4) Piercing damage."
     "name": "Javelin"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-xmm.webp"
 ```
 ^statblock
 

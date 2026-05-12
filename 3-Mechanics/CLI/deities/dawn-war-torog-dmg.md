@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/death
-aliases: 
-- Torog
+aliases:
+- "Torog"
 ---
 # Torog
 *Source: Dungeon Master's Guide p. 10* 

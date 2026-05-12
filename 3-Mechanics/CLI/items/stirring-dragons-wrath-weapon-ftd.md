@@ -13,7 +13,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Stirring Dragon's Wrath Weapon"
 - "Stirring Dragon's Wrath Antimatter Rifle"
 - "Stirring Dragon's Wrath Automatic Rifle"
@@ -76,7 +76,7 @@ This weapon is decorated with dragon heads, claws, wings, scales, or Draconic le
 
 Whenever you roll a 20 on your attack roll with this weapon, each creature of your choice within 5 feet of the target takes 5 damage of the type dealt by the dragon's breath weapon.
 
-You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the type dealt by the dragon's breath weapon.
+You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, the weapon deals an extra `1d6` damage of the type dealt by the dragon's breath weapon.
 
 **Variants**:
 - [Stirring Dragon's Wrath Antimatter Rifle](#Stirring%20Dragon's%20Wrath%20Antimatter%20Rifle)
@@ -135,14 +135,14 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Reload, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Stirring Dragon's Wrath Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/3-Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Burst Fire, Reload, Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Stirring Dragon's Wrath Battleaxe
@@ -150,40 +150,40 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Stirring Dragon's Wrath Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 1.0 lbs.
 
 ### Stirring Dragon's Wrath Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Light, Thrown
 - **Weight**: 1.0 lbs.
 
 ### Stirring Dragon's Wrath Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Thrown
 - **Weight**: 0.25 lbs.
 
 ### Stirring Dragon's Wrath Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Stirring Dragon's Wrath Flail
@@ -194,127 +194,127 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 ### Stirring Dragon's Wrath Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Stirring Dragon's Wrath Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Stirring Dragon's Wrath Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Stirring Dragon's Wrath Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Stirring Dragon's Wrath Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Stirring Dragon's Wrath Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Light, Loading
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Loading, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Stirring Dragon's Wrath Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Ammunition, Finesse, Two-Handed, special
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Reload, Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Stirring Dragon's Wrath Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Heavy, Reach
 - **Weight**: 6.0 lbs.
 
 ### Stirring Dragon's Wrath Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: Ammunition, Reload
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Reload, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Stirring Dragon's Wrath Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Stirring Dragon's Wrath Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Stirring Dragon's Wrath Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Longsword
@@ -322,7 +322,7 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Mace
@@ -333,7 +333,7 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 ### Stirring Dragon's Wrath Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Stirring Dragon's Wrath Morningstar
@@ -345,20 +345,20 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Stirring Dragon's Wrath Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Stirring Dragon's Wrath Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Quarterstaff
@@ -366,66 +366,66 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Stirring Dragon's Wrath Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: Ammunition, Reload
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: Ammunition, Reload
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Reload, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Stirring Dragon's Wrath Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: Ammunition
 
 ### Stirring Dragon's Wrath Spear
 
@@ -433,7 +433,7 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Trident
@@ -442,7 +442,7 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 4.0 lbs.
 
 ### Stirring Dragon's Wrath War Pick
@@ -450,7 +450,7 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 2.0 lbs.
 
 ### Stirring Dragon's Wrath Warhammer
@@ -458,20 +458,20 @@ You gain a +1 bonus to attack and damage rolls made using the weapon. On a hit, 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 5.0 lbs.
 
 ### Stirring Dragon's Wrath Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Finesse, Reach
 - **Weight**: 3.0 lbs.
 
 ### Stirring Dragon's Wrath Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 3.0 lbs.
 
 

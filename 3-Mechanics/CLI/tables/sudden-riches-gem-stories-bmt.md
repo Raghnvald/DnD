@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Sudden Riches; Gem Stories
+- "Sudden Riches; Gem Stories"
 ---
 # Sudden Riches; Gem Stories
 *Source: The Book of Many Things p. 33* 
 
 **Gem Stories**
-
-`dice: [](sudden-riches-gem-stories-bmt.md#^gem-stories)`
 
 | dice: d6 | Moment |
 |----------|--------|

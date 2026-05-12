@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Spyglass"
 ---
 # Spyglass
 *Adventuring gear*  
 
 
-- **Cost**: 1,000 gp
+- **Cost**: 1.000 gp
 - **Weight**: 1.0 lbs.
 
 Objects viewed through a spyglass are magnified to twice their size.

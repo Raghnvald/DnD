@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Fly
+- "Giant Fly"
 ---
-# [Giant Fly](3-Mechanics\CLI\bestiary\beast/giant-fly-xdmg.md)
+# [Giant Fly](3-Mechanics/CLI/bestiary/beast/giant-fly-xdmg.md)
 *Source: Dungeon Master's Guide (2024) p. 261*  
 
 ```statblock
@@ -32,12 +32,12 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., fly 60 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "0"
 "source":
   - "XDMG"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-fly-xdmg.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-fly-xdmg.webp"
 ```
 ^statblock

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Silver Dragon
+- "Young Silver Dragon"
 ---
-# [Young Silver Dragon](3-Mechanics\CLI\bestiary\dragon/young-silver-dragon.md)
+# [Young Silver Dragon](3-Mechanics/CLI/bestiary/dragon/young-silver-dragon.md)
 *Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -113,40 +113,40 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "4"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "cold"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "9"
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage."
     "name": "Claw"
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Cold Breath.**\
       \ The dragon exhales an icy blast in a 30-foot cone. Each creature in that area\
       \ must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage\
       \ on a failed save, or half as much damage on a successful one.  \n- **Paralyzing\
       \ Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature\
-      \ in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-silver-dragon.webp"
 ```
 ^statblock
 

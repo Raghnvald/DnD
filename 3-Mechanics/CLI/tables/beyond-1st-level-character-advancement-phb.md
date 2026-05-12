@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Beyond 1st Level; Character Advancement
+- "Beyond 1st Level; Character Advancement"
 ---
 # Beyond 1st Level; Character Advancement
 *Source: Player's Handbook p. 15. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

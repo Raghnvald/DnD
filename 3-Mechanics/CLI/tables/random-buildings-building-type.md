@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Building Type
+- "Random Buildings; Building Type"
 ---
 # Random Buildings; Building Type
 *Source: Dungeon Master's Guide p. 113* 
 
 **Building Type**
-
-`dice: [](random-buildings-building-type.md#^building-type)`
 
 | dice: d20 | Type |
 |-----------|------|

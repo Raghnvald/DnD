@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Lamannia, the Twilight Forest; Lamannia Manifest Zone Features
+- "Lamannia, the Twilight Forest; Lamannia Manifest Zone Features"
 ---
 # Lamannia, the Twilight Forest; Lamannia Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 230* 
 
 **Lamannia Manifest Zone Features**
-
-`dice: [](lamannia-the-twilight-forest-lamannia-manifest-zone-features-erlw.md#^lamannia-manifest-zone-features)`
 
 | dice: d4 | Feature |
 |----------|---------|

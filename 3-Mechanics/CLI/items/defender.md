@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Defender"
 - "Defender Double-Bladed Scimitar"
 - "Defender Greatsword"
@@ -21,7 +21,7 @@ aliases:
 ---
 # Defender
 *Major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/defender.webp#right)
+![Defender (Greatsword)](3-Mechanics/CLI/items/img/defender.webp#right)
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
@@ -39,13 +39,13 @@ The first time you attack with the sword on each of your turns, you can transfer
 ### Defender Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Defender Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Defender Longsword
@@ -53,25 +53,25 @@ The first time you attack with the sword on each of your turns, you can transfer
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Defender Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Defender Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Defender Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 

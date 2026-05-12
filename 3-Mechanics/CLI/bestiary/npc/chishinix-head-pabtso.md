@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chishinix' Head
+- "Chishinix' Head"
 ---
-# [Chishinix' Head](3-Mechanics\CLI\bestiary\npc/chishinix-head-pabtso.md)
+# [Chishinix' Head](3-Mechanics/CLI/bestiary/npc/chishinix-head-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 194*  
 
 ```statblock
@@ -33,9 +33,9 @@ aliases:
   - !!int "7"
 "speed": "10 ft."
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (can't see beyond\
-  \ this radius), passive Perception 11"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (can't\
+  \ see beyond this radius), passive Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -58,6 +58,6 @@ aliases:
     "name": "Leech"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/chishinix-head-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/chishinix-head-pabtso.webp"
 ```
 ^statblock

@@ -3,18 +3,18 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Chapter 4: Puzzle
+- "Chapter 4: Puzzle"
 ---
 # Chapter 4: Puzzle
 *Source: The Book of Many Things, p. 24* 
 
-This chapter includes puzzles, riddles, and traps themed to the Deck of Many Things for Dungeon Masters' use.
+This chapter includes puzzles, riddles, and traps themed to the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md) for Dungeon Masters' use.
 
 ## Puzzles
 
-![](/3-Mechanics/CLI/books/the-book-of-many-things/img/013-03-001-puzzle.webp#center)
+![](3-Mechanics/CLI/books/the-book-of-many-things/img/013-03-001-puzzle.webp#center)
 
 This section presents two puzzles designed to invite group participation and challenge characters (and players) of any stripe. Each puzzle can be included in your campaign as presented or customized to fit the needs of a specific adventure.
 
@@ -47,7 +47,7 @@ This sorting puzzle can be used to indicate the presence of a hidden treasure or
 
 The statue speaks whenever anyone approaches, repeating the message each time.
 
-The card on the table is a nonmagical version of the Rogue card from a Deck of Many Things. The four other cards mentioned in the statue's message—Sage, Jester, Knight, and Fates—are each located in a different area nearby.
+The card on the table is a nonmagical version of the Rogue card from a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md). The four other cards mentioned in the statue's message—Sage, Jester, Knight, and Fates—are each located in a different area nearby.
 
 Grooves in the statue's palms are perfectly sized to hold the cards. Each card can fit into the palms either upright or reversed (upside down).
 
@@ -57,7 +57,7 @@ The characters must find the four missing cards, then return here. Using the clu
 
 A hollow thud emanates from the statue if the cards are arranged incorrectly in its hands. Once the cards are placed in the correct arrangement, the statue slides aside, revealing a secret door.
 
-![Diagram 4.1: The Perfect Hand Puzzle Solution](/3-Mechanics/CLI/books/the-book-of-many-things/img/014-03-002-diagram-4-1.webp#center)
+![Diagram 4.1: The Perfect Hand Puzzle Solution](3-Mechanics/CLI/books/the-book-of-many-things/img/014-03-002-diagram-4-1.webp#center)
 
 #### Hint Checks
 
@@ -113,14 +113,14 @@ This guessing game requires characters to use deductive reasoning to determine t
 
 > [!note] 
 > 
-> ![Diagram 4.2: Unseen Order Handout 1](/3-Mechanics/CLI/books/the-book-of-many-things/img/015-03-006-diagram-42-unseen-order-1.webp#center)
+> ![Diagram 4.2: Unseen Order Handout 1](3-Mechanics/CLI/books/the-book-of-many-things/img/015-03-006-diagram-42-unseen-order-1.webp#center)
 > 
-> ![Diagram 4.3: Unseen Order Handout 2](/3-Mechanics/CLI/books/the-book-of-many-things/img/016-03-007-diagram-43-unseen-order-2.webp#center)
+> ![Diagram 4.3: Unseen Order Handout 2](3-Mechanics/CLI/books/the-book-of-many-things/img/016-03-007-diagram-43-unseen-order-2.webp#center)
 ^050
 
 #### Puzzle Features
 
-The cards on the table are nonmagical versions of those from the Deck of Many Things. If the characters struggle to understand the riddle, the ghost can explain the rules more clearly:
+The cards on the table are nonmagical versions of those from the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md). If the characters struggle to understand the riddle, the ghost can explain the rules more clearly:
 
 - **Objective.** The characters must guess which cards are in the ghost's hand and in what order.  
 - **Rules.** To make their first guess, the characters must place four cards into the empty slots of the first row on the board. The ghost's hand might consist of four different cards, or it might include two or more copies of the same card. If a card in that row is the correct card in the correct slot, the orb next to that row turns red. If a guessed card is one of the cards in the ghost's hand but is in the wrong slot, an orb turns blue. The characters can use this information to make another guess by placing four more cards in the next row down.  
@@ -139,7 +139,7 @@ The answer to this puzzle can be determined only through logic. Diagram 4.4 illu
 
 > [!note] 
 > 
-> ![Diagram 4.4: Unseen Order Solution (Example)](/3-Mechanics/CLI/books/the-book-of-many-things/img/017-03-008-diagram-44-unseen-order-solve.webp#center)
+> ![Diagram 4.4: Unseen Order Solution (Example)](3-Mechanics/CLI/books/the-book-of-many-things/img/017-03-008-diagram-44-unseen-order-solve.webp#center)
 ^051
 
 #### Hint Checks
@@ -192,7 +192,7 @@ Writing new riddles for your group can be fun and satisfying—as long as the pl
 
 ### Twenty-Two Riddles
 
-Here are twenty-two riddles you can use in any campaign. Each riddle's answer is the name of a card from the Deck of Many Things:
+Here are twenty-two riddles you can use in any campaign. Each riddle's answer is the name of a card from the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md):
 
 > [!readaloud] 
 > 
@@ -356,6 +356,6 @@ Trap rooms aren't likely to be found in just any abandoned manor or forgotten te
 
 Each of the trap rooms described below includes a range of suggested character levels to match that room's difficulty. Each entry also includes information about the trap room's features and a diagram illustrating its design. You can use the "trap guidelines" in the "Dungeon Master's Guide" to adjust these traps' severity.
 
-- [Balance and Ruin](/3-Mechanics/CLI/traps-hazards/balance-and-ruin-bmt.md)  
-- [Surface of the Sun](/3-Mechanics/CLI/traps-hazards/surface-of-the-sun-bmt.md)  
-- [Test of the Empty Moon](/3-Mechanics/CLI/traps-hazards/test-of-the-empty-moon-bmt.md)
+- [Balance and Ruin](3-Mechanics/CLI/traps-hazards/balance-and-ruin-bmt.md)  
+- [Surface of the Sun](3-Mechanics/CLI/traps-hazards/surface-of-the-sun-bmt.md)  
+- [Test of the Empty Moon](3-Mechanics/CLI/traps-hazards/test-of-the-empty-moon-bmt.md)

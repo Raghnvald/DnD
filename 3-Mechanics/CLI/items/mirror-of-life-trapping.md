@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Mirror of Life Trapping"
 ---
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  
-![](/3-Mechanics/CLI/items/img/mirror-of-life-trapping.webp#right)
+![](3-Mechanics/CLI/items/img/mirror-of-life-trapping.webp#right)
 
 - **Weight**: 50.0 lbs.
 

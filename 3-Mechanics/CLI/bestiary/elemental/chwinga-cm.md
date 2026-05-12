@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chwinga
+- "Chwinga"
 ---
-# [Chwinga](3-Mechanics\CLI\bestiary\elemental/chwinga-cm.md)
+# [Chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md)
 *Source: Candlekeep Mysteries p. 212*  
 
 A chwinga is a tiny elemental spirit that lives in plants, rocks, and rivers far from civilization. Those found in cold climates also live in ice and snow. Painfully shy, chwingas prefer to move about unseen.
@@ -25,8 +25,8 @@ Chwingas find the trappings of civilization fascinating. They puzzle over creatu
 
 Chwingas that live in the desert can bestow the following additional supernatural charms:
 
-- [Charm of the Mirage](/3-Mechanics/CLI/rewards/charm-of-the-mirage-cm.md)  
-- [Charm of the Water Bearer](/3-Mechanics/CLI/rewards/charm-of-the-water-bearer-cm.md)  
+- [Charm of the Mirage](3-Mechanics/CLI/rewards/charm-of-the-mirage-cm.md)  
+- [Charm of the Water Bearer](3-Mechanics/CLI/rewards/charm-of-the-water-bearer-cm.md)  
 
 ```statblock
 "name": "Chwinga (CM)"
@@ -83,6 +83,6 @@ Chwingas that live in the desert can bestow the following additional supernatura
     "name": "Natural Shelter"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/chwinga-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/chwinga-cm.webp"
 ```
 ^statblock

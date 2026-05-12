@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/rogue/phantom
 aliases:
-- Phantom
+- "Phantom"
 ---
 # Phantom
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
@@ -47,15 +47,13 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Phantom (Level 3)
-
 Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.
 
 Many shadar-kai of the Shadowfell are masters of these macabre techniques, and some are willing to teach this path. In places like Thay in the Forgotten Realms and Karrnath in Eberron, where many necromancers practice their craft, a Phantom can become a wizard's confidant and right hand. In temples of gods of death, the Phantom might work as an agent to track down those who try to cheat death and to recover knowledge that might otherwise be lost to the grave.
 
 How did you discover this grim power? Did you sleep in a graveyard and awaken to your new abilities? Or did you cultivate them in a temple or thieves' guild dedicated to a deity of death?
+
+## Subclass Features
 
 ### Whispers of the Dead (Level 3)
 
@@ -75,7 +73,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 *9th-level Phantom feature*
 
-When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the [Trinkets](/3-Mechanics/CLI/items/trinket-xphb.md) table in the *Player's Handbook* to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.
+When a life ends in your presence, you're able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket's form or has you roll on the [Trinkets](3-Mechanics/CLI/items/trinket-xphb.md) table in the *Player's Handbook* to generate it. You can have a maximum number of soul trinkets equal to your proficiency bonus, and you can't create one while at your maximum.
 
 You can use soul trinkets in the following ways:
 
@@ -87,7 +85,7 @@ You can use soul trinkets in the following ways:
 
 *13th-level Phantom feature*
 
-You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take `dice:1d10|noform|noparens|avg` (`1d10`) force damage if you end your turn inside a creature or an object.
+You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take `1d10` force damage if you end your turn inside a creature or an object.
 
 You stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk.
 

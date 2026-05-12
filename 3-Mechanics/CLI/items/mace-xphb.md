@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Mace"
 ---
 # Mace
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/mace.webp#right)
+![](3-Mechanics/CLI/items/img/mace.webp#right)
 
 - **Damage**: 1d6 bludgeoning
 - **Cost**: 5 gp

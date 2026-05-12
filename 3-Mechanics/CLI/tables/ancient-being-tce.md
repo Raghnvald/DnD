@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Ancient Being
+- "Ancient Being"
 ---
 # Ancient Being
 *Source: Tasha's Cauldron of Everything p. 86* 
 
 **Ancient Being**
-
-`dice: [](ancient-being-tce.md#^ancient-being)`
 
 | dice: d6 | Ancient Being |
 |----------|---------------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githzerai Anarch
+- "Githzerai Anarch"
 ---
-# [Githzerai Anarch](3-Mechanics\CLI\bestiary\humanoid/githzerai-anarch-mpmm.md)
+# [Githzerai Anarch](3-Mechanics/CLI/bestiary/humanoid/githzerai-anarch-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 142, Mordenkainen's Tome of Foes p. 207*  
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
@@ -52,11 +52,11 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
   - "intelligence": !!int "9"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+9"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
 "senses": "passive Perception 20"
 "languages": "Gith"
@@ -70,16 +70,16 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "actions":
   - "desc": "The githzerai makes three Unarmed Strike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 9 (1d8 + 5) bludgeoning damage plus 18 (4d8) psychic damage."
     "name": "Unarmed Strike"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\n**At will:**\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)\n\
-      \n**3/day each:** [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md),\
-      \ [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\n**1/day each:**\
-      \ [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\
+      \n**3/day each:** [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)\n\n**1/day each:** [globe\
+      \ of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability.md), [plane\
+      \ shift](3-Mechanics/CLI/spells/plane-shift.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
     "name": "Spellcasting (Psionics)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the anarch can take\
@@ -87,9 +87,9 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
       \ two rounds in a row:\n\n- **Create Object.** The anarch casts the creation\
       \ spell (as a 9th-level spell) using the unformed substance of Limbo instead\
       \ of shadow material. If used in Limbo, the object remains until the anarch's\
-      \ [concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken, regardless\
-      \ of its composition. If the anarch moves more than 120 feet from the object,\
-      \ the anarch's [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
+      \ [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) is broken,\
+      \ regardless of its composition. If the anarch moves more than 120 feet from\
+      \ the object, the anarch's [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ breaks.  \n- **Move Object.** The anarch can magically move an object it can\
       \ see within 150 feet of it by making a Wisdom check with advantage. The DC\
       \ depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium,\
@@ -108,9 +108,9 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
       \ of the forms created.  \n- **Stabilize Object.** The anarch stabilizes any\
       \ object created in Limbo and brought to the Material Plane for as long as the\
       \ anarch remains within 1 mile of it (no action required).  \n\nIf the anarch\
-      \ dies, these effects end after 1d6 rounds. All formed substance becomes a chaotic\
-      \ churn of energy and matter, unraveling into unformed substance that dissipates\
-      \ 1d6 rounds later."
+      \ dies, these effects end after 1d6 rounds. All formed substance becomes a\
+      \ chaotic churn of energy and matter, unraveling into unformed substance that\
+      \ dissipates 1d6 rounds later."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the githzerai anarch can expend a use to take one of the following actions.\
@@ -121,7 +121,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
   - "desc": "The githzerai teleports, along with any equipment it is wearing or carrying,\
       \ to an unoccupied space it can see within 30 feet of it."
     "name": "Teleport"
-  - "desc": "The githzerai casts the [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md)\
+  - "desc": "The githzerai casts the [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity.md)\
       \ spell, using Wisdom as the spellcasting ability. The spell has the normal\
       \ effect, except that the githzerai can orient the area in any direction and\
       \ creatures and objects fall toward the end of the area."
@@ -129,6 +129,6 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/githzerai-anarch-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/githzerai-anarch-mpmm.webp"
 ```
 ^statblock

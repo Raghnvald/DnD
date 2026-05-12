@@ -8,6 +8,7 @@ tags:
 - ttrpg-cli/spell/class/warlock
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/feat/quicksmithing
 - ttrpg-cli/spell/feat/ritual-caster/wizard-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/book-of-ancient-secrets
@@ -22,7 +23,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Illusory Script
+- "Illusory Script"
 ---
 # Illusory Script
 *1st-level, Illusion (ritual)*  
@@ -39,8 +40,8 @@ To you and any creatures you designate when you cast the spell, the writing appe
 
 Should the spell be dispelled, the original script and the illusion both disappear.
 
-A creature with [truesight](/3-Mechanics/CLI/senses.md#Truesight) can read the hidden message.
+A creature with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) can read the hidden message.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 252. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

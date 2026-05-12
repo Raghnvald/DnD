@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Deck of Wonder"
 ---
 # Deck of Wonder
 *Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/deck-of-wonder.webp#right)
+![](3-Mechanics/CLI/items/img/deck-of-wonder.webp#right)
 
 
 Created in the image of the Deck of Many Things, this deck of ivory or vellum cards bestows an assortment of minor benefits and penalties on those who draw from it. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
@@ -23,37 +23,35 @@ You can use an altered deck of playing cards to simulate the deck, as shown in t
 
 **Deck of Wonder**
 
-`dice: [](deck-of-wonder-bmt.md#^deck-of-wonder)`
-
 | dice: 1d22 | Card | Card Title |
 |------------|------|------------|
-| 1 | A ♦ | [Chancellor](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Chancellor)* |
-| 2 | K ♦ | [Day](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Day) |
-| 3 | Q ♦ | [Night](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Night) |
-| 4 | J ♦ | [Dawn](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Dawn) |
-| 5 | 2 ♦ | [Dusk](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Dusk)* |
-| 6 | A ♥ | [Destiny](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Destiny)* |
-| 7 | K ♥ | [Crown](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Crown) |
-| 8 | Q ♥ | [Lock](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Lock) |
-| 9 | J ♥ | [Champion](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Champion) |
-| 10 | 2 ♥ | [Coin](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Coin)* |
-| 11 | A ♣ | [Vulture](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Vulture)* |
-| 12 | K ♣ | [Chaos](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Chaos) |
-| 13 | Q ♣ | [Order](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Order) |
-| 14 | J ♣ | [Beginning](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Beginning) |
-| 15 | 2 ♣ | [Mystery](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Mystery)* |
-| 16 | A ♠ | [Isolation](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Isolation)* |
-| 17 | K ♠ | [End](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#End) |
-| 18 | Q ♠ | [Monster](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Monster) |
-| 19 | J ♠ | [Knife](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Knife) |
-| 20 | 2 ♠ | [Justice](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Justice)* |
-| 21 | Joker (with ™) | [Student](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Student)* |
-| 22 | Joker (without ™) | [Mischief](/3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Mischief) |
+| 1 | A ♦ | [Chancellor](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Chancellor)* |
+| 2 | K ♦ | [Day](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Day) |
+| 3 | Q ♦ | [Night](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Night) |
+| 4 | J ♦ | [Dawn](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Dawn) |
+| 5 | 2 ♦ | [Dusk](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Dusk)* |
+| 6 | A ♥ | [Destiny](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Destiny)* |
+| 7 | K ♥ | [Crown](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Crown) |
+| 8 | Q ♥ | [Lock](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Lock) |
+| 9 | J ♥ | [Champion](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Champion) |
+| 10 | 2 ♥ | [Coin](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Coin)* |
+| 11 | A ♣ | [Vulture](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Vulture)* |
+| 12 | K ♣ | [Chaos](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Chaos) |
+| 13 | Q ♣ | [Order](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Order) |
+| 14 | J ♣ | [Beginning](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Beginning) |
+| 15 | 2 ♣ | [Mystery](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Mystery)* |
+| 16 | A ♠ | [Isolation](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Isolation)* |
+| 17 | K ♠ | [End](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#End) |
+| 18 | Q ♠ | [Monster](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Monster) |
+| 19 | J ♠ | [Knife](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Knife) |
+| 20 | 2 ♠ | [Justice](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Justice)* |
+| 21 | Joker (with ™) | [Student](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Student)* |
+| 22 | Joker (without ™) | [Mischief](3-Mechanics/CLI/decks/deck-of-wonder-bmt.md#Mischief) |
 ^deck-of-wonder
 
 ## Beginning
 
-Your hit point maximum and current hit points increase by `dice:2d10|noform|noparens|avg` (`2d10`). Your hit point maximum remains increased in this way for the next 8 hours.
+Your hit point maximum and current hit points increase by `2d10`. Your hit point maximum remains increased in this way for the next 8 hours.
 
 ## Champion
 
@@ -65,7 +63,7 @@ Within 8 hours of drawing this card, you can cast Augury once as an action, requ
 
 ## Chaos
 
-You gain resistance to one of the following damage types (chosen by the DM): acid, cold, fire, lightning, or thunder. This resistance lasts for `dice:1d12|noform|noparens|avg` (`1d12`) days.
+You gain resistance to one of the following damage types (chosen by the DM): acid, cold, fire, lightning, or thunder. This resistance lasts for `1d12` days.
 
 ## Coin
 
@@ -93,15 +91,15 @@ This card supernaturally saps your energy. You have disadvantage on initiative r
 
 ## End
 
-This card is an omen of death. You take `dice:2d10|noform|noparens|avg` (`2d10`) necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a Remove Curse spell or similar magic.
+This card is an omen of death. You take `2d10` necrotic damage, and your hit point maximum is reduced by an amount equal to the damage taken. This effect can't reduce your hit point maximum below 10 hit points. This reduction lasts until you finish a long rest, but it can be ended early by a Remove Curse spell or similar magic.
 
 ## Isolation
 
-You disappear, along with anything you are wearing or carrying, and become trapped in a harmless extradimensional space for `dice:1d4|noform|noparens|avg` (`1d4`) minutes. You draw no more cards. You then reappear in the space you left or the nearest unoccupied space. When you reappear, you must succeed on a DC 11 Constitution saving throw or have the poisoned condition for 1 hour as your body reels from the extradimensional travel.
+You disappear, along with anything you are wearing or carrying, and become trapped in a harmless extradimensional space for `1d4` minutes. You draw no more cards. You then reappear in the space you left or the nearest unoccupied space. When you reappear, you must succeed on a DC 11 Constitution saving throw or have the poisoned condition for 1 hour as your body reels from the extradimensional travel.
 
 ## Justice
 
-You momentarily gain the ability to balance the scales of fate. For the next 8 hours, whenever you or a creature within 60 feet of you is about to roll a `dice:d20|noform|noparens|avg` (`d20`) with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage or disadvantage.
+You momentarily gain the ability to balance the scales of fate. For the next 8 hours, whenever you or a creature within 60 feet of you is about to roll a `d20` with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage or disadvantage.
 
 ## Knife
 
@@ -109,7 +107,7 @@ An uncommon magic weapon you're proficient with appears in your hands. The DM ch
 
 ## Lock
 
-You gain the ability to cast Knock `dice:1d3|noform|noparens|avg` (`1d3`) times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+You gain the ability to cast Knock `1d3` times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Mischief
 
@@ -117,7 +115,7 @@ You receive an uncommon wondrous item (chosen by the DM), or you can draw two ad
 
 ## Monster
 
-This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll `dice:1d4|noform|noparens|avg` (`1d4`) and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a Remove Curse spell or similar magic.
+This card's monstrous visage curses you. While cursed in this way, whenever you make a saving throw, you must roll `1d4` and subtract the number rolled from the total. The curse lasts until you finish a long rest, but it can be ended early with a Remove Curse spell or similar magic.
 
 ## Mystery
 
@@ -129,7 +127,7 @@ You gain darkvision within a range of 300 feet. This darkvision lasts for 8 hour
 
 ## Order
 
-You gain resistance to one of the following damage types (chosen by the DM): force, necrotic, poison, psychic, or radiant. This resistance lasts for `dice:1d12|noform|noparens|avg` (`1d12`) days.
+You gain resistance to one of the following damage types (chosen by the DM): force, necrotic, poison, psychic, or radiant. This resistance lasts for `1d12` days.
 
 ## Student
 

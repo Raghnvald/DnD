@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/war
-aliases: 
-- Valkur
+aliases:
+- "Valkur"
 ---
 # Valkur
 *Source: Sword Coast Adventurer's Guide p. 21* 

@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Umberto Noblin
+- "Umberto Noblin"
 ---
-# [Umberto Noblin](3-Mechanics\CLI\bestiary\npc/umberto-noblin-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Umberto Noblin](3-Mechanics/CLI/bestiary/npc/umberto-noblin-veor.md)
+*Source: Vecna: Eve of Ruin p. 23*  
 
 ```statblock
 "name": "Umberto Noblin (VEoR)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "gnome"
 "alignment": "Lawful Neutral"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -38,10 +38,12 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "6"
@@ -51,6 +53,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/umberto-noblin-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/umberto-noblin-veor.webp"
 ```
 ^statblock

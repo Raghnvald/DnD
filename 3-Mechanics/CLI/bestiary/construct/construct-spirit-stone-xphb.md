@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Construct Spirit (Stone)
+- "Construct Spirit (Stone)"
 ---
-# [Construct Spirit (Stone)](3-Mechanics\CLI\bestiary\construct/construct-spirit-stone-xphb.md)
+# [Construct Spirit (Stone)](3-Mechanics/CLI/bestiary/construct/construct-spirit-stone-xphb.md)
 *Source: Player's Handbook (2024) p. 324*  
 
 ```statblock
@@ -31,17 +31,17 @@ aliases:
   - !!int "5"
 "speed": "30 ft."
 "damage_resistances": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Understands the languages you know"
 "traits":
   - "desc": "When a creature starts its turn within 10 feet of the spirit, the spirit\
       \ can target it with magical energy if the spirit can see it. *Wisdom Saving\
       \ Throw:* DC equals your spell save DC, the target. *Failure:* Until the start\
-      \ of its next turn, the target can't make [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack),\
+      \ of its next turn, the target can't make [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack),\
       \ and its Speed is halved."
     "name": "Stony Lethargy"
 "actions":

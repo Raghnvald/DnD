@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/wizard/evocation
 aliases:
-- School of Evocation
+- "School of Evocation"
 ---
 # School of Evocation
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -44,11 +44,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Evocation (Level 2)
-
 You focus your study on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some evokers find employment in military forces, serving as artillery to blast enemy armies from afar. Others use their spectacular power to protect the weak, while some seek their own gain as bandits, adventurers, or aspiring tyrants.
+
+## Subclass Features
 
 ### Evocation Savant (Level 2)
 
@@ -70,4 +68,4 @@ Beginning at 10th level, you can add your Intelligence modifier to one damage ro
 
 Starting at 14th level, you can increase the power of your simpler spells. When you cast a wizard spell of 1st through 5th-level that deals damage, you can deal maximum damage with that spell.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take `dice:2d12|noform|noparens|avg` (`2d12`) necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by `dice:1d12|noform|noparens|avg` (`1d12`). This damage ignores resistance and immunity.
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a long rest, you take `2d12` necrotic damage for each level of the spell, immediately after you cast it. Each time you use this feature again before finishing a long rest, the necrotic damage per spell level increases by `1d12`. This damage ignores resistance and immunity.

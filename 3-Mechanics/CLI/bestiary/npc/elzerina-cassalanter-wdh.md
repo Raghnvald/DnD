@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elzerina Cassalanter
+- "Elzerina Cassalanter"
 ---
-# [Elzerina Cassalanter](3-Mechanics\CLI\bestiary\npc/elzerina-cassalanter-wdh.md)
+# [Elzerina Cassalanter](3-Mechanics/CLI/bestiary/npc/elzerina-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  
 
 ```statblock
@@ -33,6 +33,6 @@ aliases:
 "languages": ""
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/elzerina-cassalanter-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/elzerina-cassalanter-wdh.webp"
 ```
 ^statblock

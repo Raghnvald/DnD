@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Mind Flayer; Mind Flayer Bonds
+- "Roleplaying a Mind Flayer; Mind Flayer Bonds"
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Bonds
 *Source: Volo's Guide to Monsters p. 74* 
 
 **Mind Flayer Bonds**
-
-`dice: [](roleplaying-a-mind-flayer-mind-flayer-bonds-vgm.md#^mind-flayer-bonds)`
 
 | dice: d6 | Bond |
 |----------|------|

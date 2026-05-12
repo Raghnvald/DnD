@@ -11,14 +11,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Badger
+- "Giant Badger"
 ---
-# [Giant Badger](3-Mechanics\CLI\bestiary\beast/giant-badger-xmm.md)
+# [Giant Badger](3-Mechanics/CLI/bestiary/beast/giant-badger-xmm.md)
 *Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Badger (XMM)"
@@ -38,20 +38,21 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "5"
 "speed": "30 ft., burrow 10 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "poison"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 6 (2d4 + 1) Piercing\
+      \ damage."
     "name": "Bite"
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-badger-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-badger-xmm.webp"
 ```
 ^statblock
 

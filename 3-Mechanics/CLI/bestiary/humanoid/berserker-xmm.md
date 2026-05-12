@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Berserker
+- "Berserker"
 ---
-# [Berserker](3-Mechanics\CLI\bestiary\humanoid/berserker-xmm.md)
+# [Berserker](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)
 *Source: Monster Manual (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Berserkers might fight for personal glory or form motivated forces or howling hordes.
@@ -23,7 +23,7 @@ Berserkers might fight for personal glory or form motivated forces or howling ho
 *Raging Invaders and Impassioned Warriors*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
@@ -44,20 +44,24 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
+  - "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
-  - "desc": "While [Bloodied](/3-Mechanics/CLI/conditions.md#Bloodied), the berserker\
-      \ has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
-      \ rolls and saving throws."
+  - "desc": "While [Bloodied](3-Mechanics/CLI/rules/conditions.md#Bloodied), the berserker\
+      \ has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on\
+      \ attack rolls and saving throws."
     "name": "Bloodied Frenzy"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 9 (1d12 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 9 (1d12 + 3) Slashing\
+      \ damage."
     "name": "Greataxe"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/berserker-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/berserker-xmm.webp"
 ```
 ^statblock
 

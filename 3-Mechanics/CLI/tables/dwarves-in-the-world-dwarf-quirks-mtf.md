@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Dwarves in the World; Dwarf Quirks
+- "Dwarves in the World; Dwarf Quirks"
 ---
 # Dwarves in the World; Dwarf Quirks
 *Source: Mordenkainen's Tome of Foes p. 83* 
 
 **Dwarf Quirks**
-
-`dice: [](dwarves-in-the-world-dwarf-quirks-mtf.md#^dwarf-quirks)`
 
 | dice: d8 | Quirk |
 |----------|-------|

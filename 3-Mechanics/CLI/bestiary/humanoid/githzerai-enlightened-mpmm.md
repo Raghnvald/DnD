@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githzerai Enlightened
+- "Githzerai Enlightened"
 ---
-# [Githzerai Enlightened](3-Mechanics\CLI\bestiary\humanoid/githzerai-enlightened-mpmm.md)
+# [Githzerai Enlightened](3-Mechanics/CLI/bestiary/humanoid/githzerai-enlightened-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 143, Mordenkainen's Tome of Foes p. 208*  
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -49,11 +49,11 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
   - "intelligence": !!int "7"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Gith"
@@ -68,19 +68,18 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage plus 18 (4d8) psychic damage."
     "name": "Unarmed Strike"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target must\
-      \ succeed on a DC 16 Wisdom saving throw or move 1 round forward in time. A\
-      \ target moved forward in time vanishes for the duration. When the effect ends,\
-      \ the target reappears in the space it left or in an unoccupied space nearest\
-      \ to that space if it's occupied."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 13 (2d8 + 4) bludgeoning damage plus 52 (8d12) psychic damage. The target\
+      \ must succeed on a DC 16 Wisdom saving throw or move 1 round forward in time.\
+      \ A target moved forward in time vanishes for the duration. When the effect\
+      \ ends, the target reappears in the space it left or in an unoccupied space\
+      \ nearest to that space if it's occupied."
     "name": "Temporal Strike (Recharge 6)"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
       \ and using Wisdom as the spellcasting ability (spell save DC 16):\n\n**At will:**\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)\n\
-      \n**3/day:** [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\
-      \n**1/day each:** [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)"
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\
+      \n**3/day:** [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md)\n\
+      \n**1/day each:** [plane shift](3-Mechanics/CLI/spells/plane-shift.md), [teleport](3-Mechanics/CLI/spells/teleport.md)"
     "name": "Spellcasting (Psionics)"
 "reactions":
   - "desc": "When the githzerai falls, it reduces any falling damage it takes by 50."
@@ -88,7 +87,7 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/githzerai-enlightened-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/githzerai-enlightened-mpmm.webp"
 ```
 ^statblock
 

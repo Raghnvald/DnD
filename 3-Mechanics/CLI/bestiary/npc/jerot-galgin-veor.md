@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jerot Galgin
+- "Jerot Galgin"
 ---
-# [Jerot Galgin](3-Mechanics\CLI\bestiary\npc/jerot-galgin-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Jerot Galgin](3-Mechanics/CLI/bestiary/npc/jerot-galgin-veor.md)
+*Source: Vecna: Eve of Ruin p. 28*  
 
 ```statblock
 "name": "Jerot Galgin (VEoR)"
@@ -21,7 +21,7 @@ aliases:
 "type": "humanoid"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "110"
 "hit_dice": "20d8 + 20"
 "modifier": !!int "2"
@@ -37,9 +37,9 @@ aliases:
   - "intelligence": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+7"
 "damage_resistances": "necrotic"
 "senses": "passive Perception 11"
@@ -52,16 +52,18 @@ aliases:
       \ ft., one target. *Hit:* 25 (4d10 + 3) necrotic damage."
     "name": "Arcane Burst"
   - "desc": "Jerot casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** dancing lights, mage hand, prestidigitation\n\
-      \n**2/day each:** bestow curse, dimension door, mage armor, web\n\n**1/day each:**\
-      \ circle of death"
+      \ ability (spell save DC 15):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)\n\n**1/day each:** [circle of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "Jerot magically summons five [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton.md)\
-      \ or [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md). The summoned creatures\
-      \ appear in unoccupied spaces within 60 feet of Jerot, whom they obey. They\
-      \ take their turns immediately after Jerot. Each lasts for 1 hour, until it\
-      \ or Jerot dies, or until Jerot dismisses it as a bonus action."
+  - "desc": "Jerot magically summons five [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)\
+      \ or [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The summoned\
+      \ creatures appear in unoccupied spaces within 60 feet of Jerot, whom they obey.\
+      \ They take their turns immediately after Jerot. Each lasts for 1 hour, until\
+      \ it or Jerot dies, or until Jerot dismisses it as a bonus action."
     "name": "Summon Undead (1/Day)"
 "reactions":
   - "desc": "When Jerot kills a creature with necrotic damage, Jerot regains 9 (2d8)\
@@ -69,6 +71,6 @@ aliases:
     "name": "Grim Harvest (1/Turn)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jerot-galgin-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jerot-galgin-veor.webp"
 ```
 ^statblock

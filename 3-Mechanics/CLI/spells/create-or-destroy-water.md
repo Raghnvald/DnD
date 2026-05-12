@@ -10,12 +10,13 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/transmutation
+- ttrpg-cli/spell/subrace/genasi-water
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Druid
 aliases:
-- Create or Destroy Water
+- "Create or Destroy Water"
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  
@@ -42,6 +43,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you create o
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/legendary-group
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/legendary-group
 aliases:
-- Villain
+- "Villain"
 ---
 # Villain
 
@@ -27,4 +27,4 @@ The region containing a villain's lair is warped by their presence, creating one
 - **Corruption Abounds.** While within 3 miles of the lair, creatures that aren't members of the villain's organization have disadvantage on ability checks that rely on the Insight, Perception, and Persuasion skills.  
 - **Potent Toxins.** When members of the villain's organization deal poison damage while within 3 miles of the lair, they ignore the target's resistance to poison damage.  
 
-If the villain dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the villain dies, these effects fade over the course of `1d10` days.

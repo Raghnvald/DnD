@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/war
-aliases: 
-- Ulaa
+aliases:
+- "Ulaa"
 ---
 # Ulaa
 *Source: Player's Handbook p. 295* 

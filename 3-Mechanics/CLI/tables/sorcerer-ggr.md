@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Sorcerer
+- "Sorcerer"
 ---
 # Sorcerer
 *Source: Guildmasters' Guide to Ravnica p. 25* 
@@ -15,10 +15,10 @@ aliases:
 | Subclass | Guild |
 |----------|-------|
 | Divine Soul* | Boros |
-| [Draconic Bloodline](/3-Mechanics/CLI/classes/sorcerer-xphb.md) | Izzet |
+| Draconic Bloodline | Izzet |
 | Shadow Magic* | Dimir |
 | Storm Sorcery* | Izzet |
-| [Wild Magic](/3-Mechanics/CLI/classes/sorcerer-xphb.md) | Izzet |
+| Wild Magic | Izzet |
 ^sorcerer
 
 * Appears in "Xanathar's Guide to Everything"

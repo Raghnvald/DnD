@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Yuan-ti Eye Color
+- "Physical Variations; Yuan-ti Eye Color"
 ---
 # Physical Variations; Yuan-ti Eye Color
 *Source: Volo's Guide to Monsters p. 97* 
 
 **Yuan-ti Eye Color**
-
-`dice: [](physical-variations-yuan-ti-eye-color-vgm.md#^yuan-ti-eye-color)`
 
 | dice: d6 | Eye Color |
 |----------|-----------|

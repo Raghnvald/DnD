@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/common
-aliases: 
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/item/rarity/common
+aliases:
 - "Lantern of Tracking"
 ---
 # Lantern of Tracking
@@ -18,8 +18,6 @@ This hooded lantern burns for 6 hours on 1 pint of oil, shedding bright light in
 Each lantern of tracking is designed to track down a certain type of creature, which is determined by rolling on the Lantern of Tracking table. Once determined, this creature type can't be changed. While the lantern is within 300 feet of any creature of that type, its flame turns bright green. The lantern doesn't pinpoint the creature's exact location, however.
 
 **Lantern of Tracking**
-
-`dice: [](lantern-of-tracking-idrotf.md#^lantern-of-tracking)`
 
 | dice: 1d10 | Creature Type |
 |------------|---------------|

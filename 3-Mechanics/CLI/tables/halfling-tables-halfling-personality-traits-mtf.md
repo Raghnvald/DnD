@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Halfling Tables; Halfling Personality Traits
+- "Halfling Tables; Halfling Personality Traits"
 ---
 # Halfling Tables; Halfling Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 105* 
 
 **Halfling Personality Traits**
-
-`dice: [](halfling-tables-halfling-personality-traits-mtf.md#^halfling-personality-traits)`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

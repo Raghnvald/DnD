@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bulette Pup
+- "Bulette Pup"
 ---
-# [Bulette Pup](3-Mechanics\CLI\bestiary\monstrosity/bulette-pup-xmm.md)
+# [Bulette Pup](3-Mechanics/CLI/bestiary/monstrosity/bulette-pup-xmm.md)
 *Source: Monster Manual (2024) p. 63*  
 
 Juvenile bulettes are known as pups. They travel in small groups, using their numbers to bring down larger foes. Their arrival frequently presages the appearance of an adult bulette.
@@ -47,21 +47,22 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "4"
 "speed": "30 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., tremorsense\
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., Tremorsense\
   \ 60 ft., passive Perception 14"
 "languages": ""
 "cr": "2"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 14 (2d10 + 3) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 14 (2d10 + 3) Piercing\
+      \ damage."
     "name": "Bite"
 "bonus_actions":
   - "desc": "The bulette jumps up to 30 feet by spending 10 feet of movement."
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/bulette-pup-xmm.webp"
 ```
 ^statblock
 

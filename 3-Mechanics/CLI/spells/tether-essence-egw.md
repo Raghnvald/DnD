@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/spell/level/7th-level
 - ttrpg-cli/spell/school/necromancy
 aliases:
-- Tether Essence
+- "Tether Essence"
 ---
 # Tether Essence
 *7th-level, Necromancy*  

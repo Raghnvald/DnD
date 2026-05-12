@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/ammunition
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/gear/ammunition
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Winged Ammunition"
 - "Winged Arrow"
 - "Winged Bolt"

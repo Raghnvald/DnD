@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Maximum Power"
 ---
 # Potion of Maximum Power

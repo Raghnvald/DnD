@@ -1,0 +1,81 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/oota
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/gnome
+statblock: inline
+statblock-link: "#^statblock"
+aliases:
+- "Yantha Coaxrock"
+---
+# [Yantha Coaxrock](3-Mechanics/CLI/bestiary/npc/yantha-coaxrock-oota.md)
+*Source: Out of the Abyss p. 138*  
+
+```statblock
+"name": "Yantha Coaxrock (OotA)"
+"size": "Small"
+"type": "humanoid"
+"subtype": "gnome"
+"alignment": "Neutral Good"
+"ac": !!int "15"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
+"hp": !!int "16"
+"hit_dice": "3d6 + 6"
+"modifier": !!int "2"
+"stats":
+  - !!int "15"
+  - !!int "14"
+  - !!int "14"
+  - !!int "16"
+  - !!int "10"
+  - !!int "9"
+"speed": "20 ft."
+"skillsaves":
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
+    "desc": "+3"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
+    "desc": "+2"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
+    "desc": "+4"
+"gear":
+  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
+"languages": "Gnomish, Terran, Undercommon"
+"cr": "1/2"
+"traits":
+  - "desc": "Yantha is a 5th-level spellcaster. Her spellcasting ability is Intelligence\
+      \ (spell save DC 13). She has the following wizard spells prepared:\n\n**Cantrips\
+      \ (at will):** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [friends](3-Mechanics/CLI/spells/friends.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [Tenser's floating\
+      \ disk](3-Mechanics/CLI/spells/tensers-floating-disk.md)\n\n**2nd level (3 slots):**\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\
+      \n**3rd level (2 slots):** [sending](3-Mechanics/CLI/spells/sending.md)"
+    "name": "Spellcasting"
+  - "desc": "Yantha has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide in rocky terrain."
+    "name": "Stone Camouflage"
+  - "desc": "Yantha has advantage on Intelligence, Wisdom, and Charisma saving throws\
+      \ against magic."
+    "name": "Gnome Cunning"
+"actions":
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage."
+    "name": "War Pick"
+  - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature.\
+      \ *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC\
+      \ 12 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success"
+    "name": "Poisoned Dart"
+"source":
+  - "OotA"
+"image": "3-Mechanics/CLI/bestiary/npc/token/yantha-coaxrock-oota.webp"
+```
+^statblock

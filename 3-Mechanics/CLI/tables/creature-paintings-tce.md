@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Creature Paintings
+- "Creature Paintings"
 ---
 # Creature Paintings
 *Source: Tasha's Cauldron of Everything p. 172* 

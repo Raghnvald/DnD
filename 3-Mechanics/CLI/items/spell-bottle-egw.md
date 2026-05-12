@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Spell Bottle"
 ---
 # Spell Bottle
 *Wondrous item, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/spell-bottle.webp#right)
+![](3-Mechanics/CLI/items/img/spell-bottle.webp#right)
 
 
-This glass bottle can store one spell of up to 5th level at a time. When found, roll a `dice:d6|noform|noparens|avg` (`d6`) and subtract 1; the total determines the level of spell in the bottle (the DM chooses the spell, and 0 means the bottle is empty). A swirling blue vapor fills the bottle while it contains a spell.
+This glass bottle can store one spell of up to 5th level at a time. When found, roll a `d6` and subtract 1; the total determines the level of spell in the bottle (the DM chooses the spell, and 0 means the bottle is empty). A swirling blue vapor fills the bottle while it contains a spell.
 
 When the bottle is empty, any creature can cast a spell of 1st through 5th level into it by touching it while casting. The spell has no effect other than to be stored in the bottle.
 

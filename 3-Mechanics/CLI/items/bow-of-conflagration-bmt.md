@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/weapon/martial
-- new/item/weapon/ranged
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/ranged
+- ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Bow of Conflagration"
 - "Longbow of Conflagration"
 - "Shortbow of Conflagration"
@@ -20,7 +20,7 @@ aliases:
 
 
 
-Ammunition fired from this bow blazes brightly. When you hit with an attack roll using this bow, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) fire damage. If the target is a flammable, nonmagical object, it catches fire, taking `dice:1d6|noform|noparens|avg` (`1d6`) fire damage at the start of each of your turns until a creature uses an action to extinguish the flames.
+Ammunition fired from this bow blazes brightly. When you hit with an attack roll using this bow, the target takes an extra `1d6` fire damage. If the target is a flammable, nonmagical object, it catches fire, taking `1d6` fire damage at the start of each of your turns until a creature uses an action to extinguish the flames.
 
 **Variants**:
 - [Longbow of Conflagration](#Longbow%20of%20Conflagration)

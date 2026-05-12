@@ -16,9 +16,11 @@ tags:
 - ttrpg-cli/spell/subclass/circle-of-the-land/mountain
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/oath-of-the-ancients
+- ttrpg-cli/spell/subclass/strength-domain-psa
 - ttrpg-cli/spell/subclass/war-domain
 classes:
 - Bard (Magical Secrets)
+- Cleric (Strength Domain (PSA))
 - Cleric (War Domain)
 - Druid
 - Druid (Circle of the Land, Mountain)
@@ -29,7 +31,7 @@ classes:
 - Sorcerer
 - Wizard
 aliases:
-- Stoneskin
+- "Stoneskin"
 ---
 # Stoneskin
 *4th-level, Abjuration*  
@@ -42,6 +44,6 @@ aliases:
 
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](/3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Druid (Circle of the Land, Mountain)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA"); [Cleric (War Domain)](3-Mechanics/CLI/lists/list-spells-classes-war-domain.md); [Druid (Circle of the Land, Mountain)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 278. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

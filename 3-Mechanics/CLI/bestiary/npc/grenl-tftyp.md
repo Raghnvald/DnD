@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid/goblinoid
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grenl
+- "Grenl"
 ---
-# [Grenl](3-Mechanics\CLI\bestiary\npc/grenl-tftyp.md)
+# [Grenl](3-Mechanics/CLI/bestiary/npc/grenl-tftyp.md)
 *Source: Tales from the Yawning Portal p. 25*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -44,7 +44,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "leather armor, shield"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "10"
 "hit_dice": "3d6"
 "modifier": !!int "2"
@@ -57,29 +57,35 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 9"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
   - "desc": "Grenl is a 1st-level spellcaster. Her spellcasting ability is Wisdom\
-      \ (spell save DC 11, +3 to hit with spell attacks). She has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** poison spray, thaumaturgy\n\n\
-      **1st level (2 slots):** bane, inflict wounds"
+      \ (spell save DC 11, +3 to hit with spell attacks). She has the following\
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (2\
+      \ slots):** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action\
+      \ on each of its turns."
     "name": "Nimble Escape"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4, reach 5 ft., one target. *Hit:* 5 (1d6 + 2)\
-      \ piercing damage."
-    "name": "Scimitar"
-  - "desc": "*Ranged Weapon Attack:* +4, range 80/320 ft., one target. *Hit:* 5 (1d6\
+  - "desc": "*Melee Weapon Attack:* +4, reach 5 ft., one target. *Hit:* 5 (1d6\
       \ + 2) piercing damage."
+    "name": "Scimitar"
+  - "desc": "*Ranged Weapon Attack:* +4, range 80/320 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortbow"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/grenl-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/grenl-tftyp.webp"
 ```
 ^statblock

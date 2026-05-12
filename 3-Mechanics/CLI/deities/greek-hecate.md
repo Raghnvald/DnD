@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Hecate
+aliases:
+- "Hecate"
 ---
 # Hecate
 *Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

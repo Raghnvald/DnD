@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/gos
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/lizardfolk
+- ttrpg-cli/compendium/src/5e/gos
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/lizardfolk
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk Subchief
+- "Lizardfolk Subchief"
 ---
-# [Lizardfolk Subchief](3-Mechanics\CLI\bestiary\humanoid/lizardfolk-subchief-gos.md)
-*Source: Ghosts of Saltmarsh p. 242, Storm Lord's Wrath*  
+# [Lizardfolk Subchief](3-Mechanics/CLI/bestiary/humanoid/lizardfolk-subchief-gos.md)
+*Source: Ghosts of Saltmarsh p. 242*  
 
 The lizardfolk subchief (seen in Danger at Dunwater) is a devout priest of Semuanya, pursuing the worship of its god in a manner similar to a cleric. It wields a dagger crafted of a massive crocodile tooth blessed by Semuanya, representing the subchief's prowess in both battle and piety.
 
@@ -59,8 +59,8 @@ The lizardfolk subchief (seen in Danger at Dunwater) is a devout priest of Semua
   - "desc": "The subchief can hold its breath for 15 minutes."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Tooth Dagger"
   - "desc": "The subchief invokes the primal magic of Semuanya, summoning a spectral\
       \ maw around a target it can see within 60 feet of it. The target must make\
@@ -70,7 +70,6 @@ The lizardfolk subchief (seen in Danger at Dunwater) is a devout priest of Semua
     "name": "Jaws of Semuanya (Recharge 5-6)"
 "source":
   - "GoS"
-  - "SLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk-subchief-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk-subchief-gos.webp"
 ```
 ^statblock

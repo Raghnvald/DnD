@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Conjurer Wizard
+- "Conjurer Wizard"
 ---
-# [Conjurer Wizard](3-Mechanics\CLI\bestiary\humanoid/conjurer-wizard-mpmm.md)
+# [Conjurer Wizard](3-Mechanics/CLI/bestiary/humanoid/conjurer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*  
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "13d8"
 "modifier": !!int "2"
@@ -44,9 +44,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
 "senses": "passive Perception 11"
 "languages": "any four languages"
@@ -58,12 +58,12 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 19 (3d10 + 3) force damage."
     "name": "Arcane Burst"
   - "desc": "The conjurer casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 14):\n\n**At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [mage\
-      \ armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md)\n\
-      \n**1/day each:** [fly](/3-Mechanics/CLI/spells/fly-xphb.md), [stinking cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md),\
-      \ [web](/3-Mechanics/CLI/spells/web-xphb.md)"
+      \ the spellcasting ability (spell save DC 14):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [mage\
+      \ armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md)\n\
+      \n**1/day each:** [fly](3-Mechanics/CLI/spells/fly-xphb.md), [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The conjurer teleports, along with any equipment it is wearing or carrying,\
@@ -71,10 +71,10 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ a space within range that is occupied by a willing Small or Medium creature,\
       \ they both teleport, swapping places."
     "name": "Benign Transportation (Recharge 4-6)"
-  - "desc": "The conjurer magically summons an [air elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md),\
-      \ an [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md),\
-      \ a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md),\
-      \ or a [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md).\
+  - "desc": "The conjurer magically summons an [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md),\
+      \ an [earth elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md),\
+      \ a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md),\
+      \ or a [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md).\
       \ The elemental appears in an unoccupied space within 60 feet of the conjurer,\
       \ whom it obeys. It takes its turn immediately after the conjurer. It lasts\
       \ for 1 hour, until it or the conjurer dies, or until the conjurer dismisses\
@@ -83,7 +83,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/conjurer-wizard-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/conjurer-wizard-mpmm.webp"
 ```
 ^statblock
 

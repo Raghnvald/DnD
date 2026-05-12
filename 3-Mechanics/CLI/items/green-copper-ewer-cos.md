@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/other
-aliases: 
+aliases:
 - "Green Copper Ewer"
 ---
 # Green Copper Ewer

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Air
+- "Dungeon Dressing; Air"
 ---
 # Dungeon Dressing; Air
 *Source: Dungeon Master's Guide p. 298* 
 
 **Air**
-
-`dice: [](dungeon-dressing-air.md#^air)`
 
 | dice: d100 | Effect |
 |------------|--------|

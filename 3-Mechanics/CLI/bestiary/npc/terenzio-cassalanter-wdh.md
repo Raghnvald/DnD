@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Terenzio Cassalanter
+- "Terenzio Cassalanter"
 ---
-# [Terenzio Cassalanter](3-Mechanics\CLI\bestiary\npc/terenzio-cassalanter-wdh.md)
+# [Terenzio Cassalanter](3-Mechanics/CLI/bestiary/npc/terenzio-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 115*  
 
 ```statblock
@@ -33,6 +33,6 @@ aliases:
 "languages": ""
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/terenzio-cassalanter-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/terenzio-cassalanter-wdh.webp"
 ```
 ^statblock

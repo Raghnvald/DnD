@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow
+- "Shadow"
 ---
-# [Shadow](3-Mechanics\CLI\bestiary\undead/shadow-xmm.md)
+# [Shadow](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md)
 *Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Shadow
@@ -33,8 +33,6 @@ Shadows lurk in dark, lonely places, typically sites that were meaningful to the
 Shadows might resemble the silhouettes of who they were in life or take on more menacing forms. Roll on or choose a result from the Shadow Shapes table to inspire a shadow's form and haunting.
 
 **Shadow Shapes**
-
-`dice: [](shadow-xmm.md#^shadow-shapes)`
 
 | dice: 1d6 | The Shadow Appears As... |
 |-----------|--------------------------|
@@ -64,41 +62,41 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The shadow can move through a space as narrow as 1 inch without expending\
       \ extra movement to do so."
     "name": "Amorphous"
-  - "desc": "While in sunlight, the shadow has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md)."
+  - "desc": "While in sunlight, the shadow has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md)."
     "name": "Sunlight Weakness"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Necrotic damage,\
-      \ and the target's Strength score decreases by 1d4. The target dies if this\
-      \ reduces that score to 0. If a Humanoid is slain by this attack, a Shadow rises\
-      \ from the corpse 1d4 hours later."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Necrotic\
+      \ damage, and the target's Strength score decreases by 1d4. The target dies\
+      \ if this reduces that score to 0. If a Humanoid is slain by this attack, a\
+      \ Shadow rises from the corpse 1d4 hours later."
     "name": "Draining Swipe"
 "bonus_actions":
-  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the shadow\
-      \ takes the Hide action."
+  - "desc": "While in [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md), the shadow\
+      \ takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/shadow-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/shadow-xmm.webp"
 ```
 ^statblock
 

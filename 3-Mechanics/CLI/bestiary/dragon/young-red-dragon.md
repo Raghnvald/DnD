@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Red Dragon
+- "Young Red Dragon"
 ---
-# [Young Red Dragon](3-Mechanics\CLI\bestiary\dragon/young-red-dragon.md)
+# [Young Red Dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon.md)
 *Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -119,23 +119,23 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "4"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "10"
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage plus 3 (1d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales fire in a 30-foot cone. Each creature in that area\
       \ must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on\
@@ -143,7 +143,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-red-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-red-dragon.webp"
 ```
 ^statblock
 

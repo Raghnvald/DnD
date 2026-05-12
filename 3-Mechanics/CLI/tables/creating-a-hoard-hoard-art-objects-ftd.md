@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Hoard; Hoard Art Objects
+- "Creating a Hoard; Hoard Art Objects"
 ---
 # Creating a Hoard; Hoard Art Objects
 *Source: Fizban's Treasury of Dragons p. 72* 

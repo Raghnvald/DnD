@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
-- Food, Drink, and Lodging
+- "Food, Drink, and Lodging"
 ---
 # Food, Drink, and Lodging
 *Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
@@ -14,9 +14,9 @@ aliases:
 
 | Item | Cost |
 |------|------|
-| &emsp;Ale (mug) | 4 CP |
-| &emsp;Bread (loaf) | 2 CP |
-| &emsp;Cheese (wedge) | 1 SP |
+| &emsp;[Ale (mug)](3-Mechanics/CLI/items/ale-mug-xphb.md) | 4 CP |
+| &emsp;[Bread (loaf)](3-Mechanics/CLI/items/bread-loaf-xphb.md) | 2 CP |
+| &emsp;[Cheese (wedge)](3-Mechanics/CLI/items/cheese-wedge-xphb.md) | 1 SP |
 | *Inn Stay per Day* |
 | &emsp;Squalid | 7 CP |
 | &emsp;Poor | 1 SP |
@@ -32,6 +32,6 @@ aliases:
 | &emsp;Wealthy | 3 SP |
 | &emsp;Aristocratic | 6 SP |
 | *Wine (bottle)* |
-| &emsp;Common | 2 SP |
-| &emsp;Fine | 10 GP |
+| &emsp;[Common](3-Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 SP |
+| &emsp;[Fine](3-Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 GP |
 ^food-drink-and-lodging

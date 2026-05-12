@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizard Queen
+- "Lizard Queen"
 ---
-# [Lizard Queen](3-Mechanics\CLI\bestiary\humanoid/lizard-queen.md)
+# [Lizard Queen](3-Mechanics/CLI/bestiary/humanoid/lizard-queen.md)
 *Source: Monster Manual p. 205*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -77,33 +77,35 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"gear":
+  - "[trident](3-Mechanics/CLI/items/trident.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Abyssal, Draconic"
 "cr": "4"
 "traits":
   - "desc": "The lizardfolk can hold its breath for 15 minutes."
     "name": "Hold Breath"
   - "desc": "Once per turn, when the lizardfolk makes a melee attack with its trident\
-      \ and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk gains\
-      \ temporary hit points equal to the extra damage dealt."
+      \ and hits, the target takes an extra 10 (3d6) damage, and the lizardfolk\
+      \ gains temporary hit points equal to the extra damage dealt."
     "name": "Skewer"
 "actions":
   - "desc": "The lizardfolk makes two attacks: one with its bite and one with its\
       \ claws or trident or two melee attacks with its trident."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) slashing damage."
     "name": "Claws"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing\
@@ -111,7 +113,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
     "name": "Trident"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lizard-queen.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lizard-queen.webp"
 ```
 ^statblock
 

@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Whip"
 ---
 # Whip
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/whip.webp#right)
+![](3-Mechanics/CLI/items/img/whip.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach)
 - **Cost**: 2 gp
 - **Weight**: 3.0 lbs.
 

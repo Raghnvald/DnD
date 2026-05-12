@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tressym
+- "Tressym"
 ---
-# [Tressym](3-Mechanics\CLI\bestiary\monstrosity/tressym-skt.md)
+# [Tressym](3-Mechanics/CLI/bestiary/monstrosity/tressym-skt.md)
 *Source: Storm King's Thunder p. 242*  
 
 A tressym is a mischievous winged cat as big as a house cat, with a wingspan of 3 feet.
@@ -23,9 +23,9 @@ Tressym feed on small rodents, birds, and insects, stalking and pouncing on prey
 
 Tressym mate with others of their kind, but they don't mate for life. A tressym can also mate with a normal cat, though only one out of every ten of their offspring will be a tressym; the others will be normal cats.
 
-Tressym have good memories, particularly when it comes to danger. For example, a tressym that sees a human use a wand of lightning bolts remembers the danger of "sticks of wood held by humans" for the rest of its life. A lucky, healthy tressym can live to be 20 years old.
+Tressym have good memories, particularly when it comes to danger. For example, a tressym that sees a human use a [wand of lightning bolts](3-Mechanics/CLI/items/wand-of-lightning-bolts-xdmg.md) remembers the danger of "sticks of wood held by humans" for the rest of its life. A lucky, healthy tressym can live to be 20 years old.
 
-With the DM's permission, a person who casts the find familiar spell can choose to conjure a tressym instead of a normal cat.
+With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) spell can choose to conjure a tressym instead of a normal cat.
 
 ```statblock
 "name": "Tressym (SKT)"
@@ -45,34 +45,35 @@ With the DM's permission, a person who casts the find familiar spell can choose 
   - !!int "12"
 "speed": "40 ft., climb 30 ft., fly 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 15"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "traits":
   - "desc": "Within 60 feet of the tressym, magical invisibility fails to conceal\
       \ anything from the tressym's sight."
     "name": "Detect Invisibility"
-  - "desc": "The tressym has advantage on Wisdom (Perception) checks that rely on\
-      \ smell."
+  - "desc": "The tressym has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The tressym can detect whether a substance is poisonous by taste, touch,\
       \ or smell."
     "name": "Poison Sense"
-  - "desc": "With the DM's permission, a person who casts the find familiar spell\
-      \ can choose to conjure a tressym instead of a normal cat."
+  - "desc": "With the DM's permission, a person who casts the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md)\
+      \ spell can choose to conjure a tressym instead of a normal cat."
     "name": "Familiar"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ slashing damage."
     "name": "Claws"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/tressym-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/tressym-skt.webp"
 ```
 ^statblock

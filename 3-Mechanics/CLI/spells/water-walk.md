@@ -10,9 +10,11 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/level/3rd-level
+- ttrpg-cli/spell/race/triton
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/circle-of-the-land/coast
+- ttrpg-cli/spell/subrace/genasi-water
 classes:
 - Bard (Magical Secrets)
 - Cleric
@@ -21,7 +23,7 @@ classes:
 - Ranger
 - Sorcerer
 aliases:
-- Water Walk
+- "Water Walk"
 ---
 # Water Walk
 *3rd-level, Transmutation (ritual)*  
@@ -36,6 +38,6 @@ This spell grants the ability to move across any liquid surface—such as water,
 
 If you target a creature submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 60 feet per round.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Coast)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Coast)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

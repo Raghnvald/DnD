@@ -8,27 +8,27 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Sunsword"
 ---
 # Sunsword
-*Weapon ([longsword](/3-Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/sunsword.webp#right)
+*Weapon (longsword), legendary (requires attunement)*  
+![](3-Mechanics/CLI/items/img/sunsword.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 radiant
   - Two-handed: 1d10 radiant
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Finesse, Versatile
 - **Weight**: 3.0 lbs.
 
 The Sunsword is a unique blade once possessed by Strahd's brother, Sergei von Zarovich. In its original form, it had a platinum hilt and guard, and a thin crystal blade as strong as steel.
 
 Strahd employed a powerful wizard named Khazan to destroy the weapon after Sergei's death. The first part of the process required the hilt and the blade to be separated, which Khazan accomplished. While Khazan was busying himself destroying the blade, his apprentice stole the hilt and fled. Khazan later located his apprentice's mutilated corpse in the Svalich Woods, but the hilt was nowhere to be found. To avoid the vampire's wrath, Khazan told Strahd that the entire weapon had been destroyed.
 
-The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [sun blade](/3-Mechanics/CLI/items/sun-blade-xdmg.md):
+The hilt, which is sentient, knows that it can never be reunited with its original crystal blade. It has, however, gained the properties of a [sun blade](3-Mechanics/CLI/items/sun-blade.md):
 
 - While grasping the hilt, you can use a bonus action to cause a blade of pure radiance to spring into existence, or make the blade disappear. While the blade exists, this magic longsword has the finesse property. If you are proficient with shortswords or longswords, you are proficient with the Sunsword.  
-- You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage.  
+- You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `1d8` radiant damage.  
 - The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.  
 
 ## Sentience

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Giants' Names
+- "Giants' Names"
 ---
 # Giants' Names
 *Source: Bigby Presents: Glory of the Giants p. 23* 
 
 **Giants' Names**
-
-`dice: [](giants-names-bgg.md#^giants-names)`
 
 | dice: d10 | Hill | Stone | Frost | Fire | Cloud | Storm |
 |-----------|------|-------|-------|------|-------|-------|

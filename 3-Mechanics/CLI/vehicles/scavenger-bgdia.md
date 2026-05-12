@@ -1,23 +1,23 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-vehicle
+- json5e-vehicle
 tags:
-  - Quelle/5e/bgdia
-  - Kompendium/vehicle/size/huge
-  - Kompendium/vehicle/terrain/land
-  - Kompendium/vehicle/type/infernal-war-machine
+- ttrpg-cli/compendium/src/5e/bgdia
+- ttrpg-cli/vehicle/size/huge
+- ttrpg-cli/vehicle/terrain/land
+- ttrpg-cli/vehicle/type/infernal-war-machine
 aliases:
-  - Scavenger
+- "Scavenger"
 ---
 # Scavenger
-%%-- Embedded content starts on the next line. --%%
 *Source: Baldur's Gate: Descent Into Avernus p. 219*  
 
 The Scavenger handles like a small bus and is used to sift through battlefield detritus for scrap metal and other materials worth salvaging. Attached to the back of the vehicle is a swinging crane with an iron grappling claw fastened to the end of a winch and a 50-foot-long chain.
 
 ```ad-statblock
 title: Scavenger
-![](/3-Mechanics/CLI/vehicles/token/scavenger-bgdia.webp#token)
+![](3-Mechanics/CLI/vehicles/token/scavenger-bgdia.webp#token)
 *Huge vehicle (4 tons 1000 lb.); land*
 
 - **Cargo Capacity** 2 tons
@@ -31,22 +31,22 @@ title: Scavenger
 |20 (+5)|12 (+1)|20 (+5)| 0 (-5)| 0 (-5)| 0 (-5)|
 
 - **Damage Immunities** fire, poison, psychic
-- **Condition Immunities** [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)
+- **Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned, unconscious
 
 ## Traits
 
-**Crushing Wheels.** The Scavenger can move through the space of any Large or smaller creature. When it does, the creature must succeed on a DC 12 Dexterity saving throw or take 16 (3d10) bludgeoning damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). If the creature was already [prone](/3-Mechanics/CLI/conditions.md#Prone), it takes an extra 16 (3d10) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.
+**Crushing Wheels.** The Scavenger can move through the space of any Large or smaller creature. When it does, the creature must succeed on a DC 12 Dexterity saving throw or take 16 (`3d10`) bludgeoning damage and be knocked prone. If the creature was already prone, it takes an extra 16 (`3d10`) bludgeoning damage. This trait can't be used against a particular creature more than once each turn.
 
 **Magic Weapons.** The Scavenger's weapon attacks are magical.
 
-**Prone Deficiency.** If the Scavenger rolls over and falls [prone](/3-Mechanics/CLI/conditions.md#Prone), it can't right itself and is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until flipped upright.
+**Prone Deficiency.** If the Scavenger rolls over and falls prone, it can't right itself and is incapacitated until flipped upright.
 
 ## Action Stations
 
 **Helm (Requires 1 Crew and Grants Three-Quarters Cover).** Drive and steer the Scavenger.
 
-**Grappling Claw (Requires 1 Crew and Grants Half Cover).** *Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 12). If the target is a creature, it is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until the grapple ends. The grappling claw can grapple only one target at a time, and the claw's operator can use a bonus action to make the claw release whatever it's holding.
+**Grappling Claw (Requires 1 Crew and Grants Half Cover).** *Melee Weapon Attack:* `+10` to hit, reach 15 ft., one target. *Hit:* The target is grappled (escape DC 12). If the target is a creature, it is restrained until the grapple ends. The grappling claw can grapple only one target at a time, and the claw's operator can use a bonus action to make the claw release whatever it's holding.
 
-**2 Harpoon Flingers (Each Station Requires 1 Crew and Grants Half Cover).** *Ranged Weapon Attack:* +6 to hit, range 120 ft., one target. *Hit:* 10 (2d8 + 1) piercing damage.
+**2 Harpoon Flingers (Each Station Requires 1 Crew and Grants Half Cover).** *Ranged Weapon Attack:* `+6` to hit, range 120 ft., one target. *Hit:* 10 (`2d8 + 1`) piercing damage.
 ```
 ^statblock

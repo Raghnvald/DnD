@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Carrion Crawler
+- "Carrion Crawler"
 ---
-# [Carrion Crawler](3-Mechanics\CLI\bestiary\monstrosity/carrion-crawler.md)
+# [Carrion Crawler](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md)
 *Source: Monster Manual p. 37*  
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
@@ -45,14 +45,14 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The carrion crawler has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The carrion crawler has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The carrion crawler can climb difficult surfaces, including upside down\
@@ -64,17 +64,17 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:*\
       \ 4 (1d4 + 2) poison damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for\
-      \ 1 minute. Until this poison ends, the target is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed).\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. Until this poison ends, the target is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the poison on itself on a success."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler.webp"
 ```
 ^statblock
 

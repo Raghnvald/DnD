@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Black Dragon Treasures; Black Dragon Art Objects
+- "Black Dragon Treasures; Black Dragon Art Objects"
 ---
 # Black Dragon Treasures; Black Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 84* 
 
 **Black Dragon Art Objects**
-
-`dice: [](black-dragon-treasures-black-dragon-art-objects-ftd.md#^black-dragon-art-objects)`
 
 | dice: d10 | Object |
 |-----------|--------|

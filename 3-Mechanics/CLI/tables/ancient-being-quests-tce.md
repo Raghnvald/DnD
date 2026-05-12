@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Ancient Being Quests
+- "Ancient Being Quests"
 ---
 # Ancient Being Quests
 *Source: Tasha's Cauldron of Everything p. 88* 
 
 **Ancient Being Quests**
-
-`dice: [](ancient-being-quests-tce.md#^ancient-being-quests)`
 
 | dice: d6 | Quest |
 |----------|-------|

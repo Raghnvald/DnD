@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Pearl of Power"
 ---
 # Pearl of Power

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrow
+- "Merrow"
 ---
-# [Merrow](3-Mechanics\CLI\bestiary\monstrosity/merrow.md)
+# [Merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow.md)
 *Source: Monster Manual p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
@@ -49,8 +49,8 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
   - !!int "10"
   - !!int "9"
 "speed": "10 ft., swim 40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Abyssal, Aquan"
 "cr": "2"
 "traits":
@@ -60,20 +60,20 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
   - "desc": "The merrow makes two attacks: one with its bite and one with its claws\
       \ or harpoon."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) slashing damage."
     "name": "Claws"
   - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a Huge\
-      \ or smaller creature, it must succeed on a Strength contest against the merrow\
-      \ or be pulled up to 20 feet toward the merrow."
+      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a\
+      \ Huge or smaller creature, it must succeed on a Strength contest against the\
+      \ merrow or be pulled up to 20 feet toward the merrow."
     "name": "Harpoon"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/merrow.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/merrow.webp"
 ```
 ^statblock
 

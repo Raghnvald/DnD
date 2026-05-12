@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
 aliases:
-- Lightly Armored
+- "Lightly Armored"
 ---
 # Lightly Armored
 *Source: Player's Handbook (2024) p. 205*  

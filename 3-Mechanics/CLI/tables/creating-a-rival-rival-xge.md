@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Creating a Rival; Rival
+- "Creating a Rival; Rival"
 ---
 # Creating a Rival; Rival
 *Source: Xanathar's Guide to Everything p. 124* 
 
 **Rival**
-
-`dice: [](creating-a-rival-rival-xge.md#^rival)`
 
 | dice: d20 | Rival |
 |-----------|-------|

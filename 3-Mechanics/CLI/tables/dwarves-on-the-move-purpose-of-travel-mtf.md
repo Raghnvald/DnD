@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Dwarves on the Move; Purpose of Travel
+- "Dwarves on the Move; Purpose of Travel"
 ---
 # Dwarves on the Move; Purpose of Travel
 *Source: Mordenkainen's Tome of Foes p. 81* 
 
 **Purpose of Travel**
-
-`dice: [](dwarves-on-the-move-purpose-of-travel-mtf.md#^purpose-of-travel)`
 
 | dice: d6 | Purpose |
 |----------|---------|

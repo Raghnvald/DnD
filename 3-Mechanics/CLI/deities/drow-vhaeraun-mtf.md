@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/drow
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/domain/war
-aliases: 
-- Vhaeraun
+aliases:
+- "Vhaeraun"
 ---
 # Vhaeraun
 *Source: Mordenkainen's Tome of Foes p. 55* 

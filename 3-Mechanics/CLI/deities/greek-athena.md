@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Athena
+aliases:
+- "Athena"
 ---
 # Athena
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

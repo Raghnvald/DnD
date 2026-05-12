@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/egyptian
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Re-Horakhty
+aliases:
+- "Re-Horakhty"
 ---
 # Re-Horakhty
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

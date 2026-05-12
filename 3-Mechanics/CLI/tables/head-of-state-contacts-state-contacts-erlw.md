@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Head of State Contacts; State Contacts
+- "Head of State Contacts; State Contacts"
 ---
 # Head of State Contacts; State Contacts
 *Source: Eberron: Rising from the Last War p. 81* 
 
 **State Contacts**
-
-`dice: [](head-of-state-contacts-state-contacts-erlw.md#^state-contacts)`
 
 | dice: d8 | Contact |
 |----------|---------|

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/15
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fungal Servant
+- "Fungal Servant"
 ---
-# [Fungal Servant](3-Mechanics\CLI\bestiary\undead/fungal-servant-cm.md)
+# [Fungal Servant](3-Mechanics/CLI/bestiary/undead/fungal-servant-cm.md)
 *Source: Candlekeep Mysteries p. 217*  
 
 ```statblock
@@ -75,10 +75,10 @@ aliases:
       \ (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target\
       \ is a creature, it must succeed on a DC 16 Constitution saving throw or be\
       \ cursed with mummy rot. The cursed target can't regain hit points, and its\
-      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
-      \ the curse reduces the target's hit point maximum to 0, the target dies, and\
-      \ its body turns to spores. The curse lasts until removed by the remove curse\
-      \ spell or other magic."
+      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse.\
+      \ If the curse reduces the target's hit point maximum to 0, the target dies,\
+      \ and its body turns to spores. The curse lasts until removed by the remove\
+      \ curse spell or other magic."
     "name": "Rotting Fist"
   - "desc": "The fungal servant targets one creature it can see within 60 feet of\
       \ it. If the target can see the fungal servant, it must succeed on a DC 16 Wisdom\
@@ -116,6 +116,6 @@ aliases:
     "name": "Whirlwind of Spores (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/fungal-servant-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/fungal-servant-cm.webp"
 ```
 ^statblock

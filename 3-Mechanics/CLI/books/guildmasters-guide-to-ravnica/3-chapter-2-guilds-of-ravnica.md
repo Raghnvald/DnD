@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Chapter 2: Guilds of Ravnica
+- "Chapter 2: Guilds of Ravnica"
 ---
 # Chapter 2: Guilds of Ravnica
 *Source: Guildmasters' Guide to Ravnica, p. 29* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/014-201.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/014-201.webp#center)
 
 The ten guilds are the lifeblood of Ravnica, making up the foundation of its society. They are voluntary associations led by guildmasters, but that's the extent of their resemblance to the craft and merchant guilds found on most Dungeons & Dragons worlds. They include many different kinds of organizations:
 
@@ -106,9 +106,9 @@ As you're playing a character associated with one of the guilds, think about you
 
 ### Membership and Independence
 
-Some adventurers do exactly what they're told, spending their careers doing the bidding of their guild superiors. Most adventuring characters, though, prefer more independence. You can roll a `dice:d6|noform|noparens|avg` (`d6`) or choose from the options in the table below to establish a reason for the freedom enjoyed by your character.
+Some adventurers do exactly what they're told, spending their careers doing the bidding of their guild superiors. Most adventuring characters, though, prefer more independence. You can roll a `d6` or choose from the options in the table below to establish a reason for the freedom enjoyed by your character.
 
-![Membership and Independence](/3-Mechanics/CLI/tables/membership-and-independence-ggr.md)
+![Membership and Independence](3-Mechanics/CLI/tables/membership-and-independence-ggr.md)
 
 ### Changing Guilds
 
@@ -126,19 +126,19 @@ Your new guild doesn't give you any benefits that assume prior knowledge or expe
 
 ## Azorius Senate
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/015-202.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/015-202.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
 > Officer Lavinia stood before the enormous double doors that led into the highest spire of New Prahv, the lair of the guildmaster. To look at her, nothing would seem out of place: her cape spilled elegantly from her officer's armor, her sword shone like a decorative piece one would hang above a mantel, and her three-sided medals displayed her district-spanning rank.
 
-Bringing order from chaos—that is the mission of the Azorius Senate. Without the extensive legal code crafted and enforced by the Azorius, society would crumble, transforming Ravnica into a field of rubble where the Gruul and the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) do whatever they please. The Azorius carry this weighty responsibility with stoic pride, and they perform their work of legislation, investigation, and enforcement with steely determination.
+Bringing order from chaos—that is the mission of the Azorius Senate. Without the extensive legal code crafted and enforced by the Azorius, society would crumble, transforming Ravnica into a field of rubble where the Gruul and the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) do whatever they please. The Azorius carry this weighty responsibility with stoic pride, and they perform their work of legislation, investigation, and enforcement with steely determination.
 
 The first guildmaster of the Azorius Senate was a sphinx named Azor. He was the author of the original Guildpact, as well as the creator of the elaborate contingency plan that resulted in the creation of the Living Guildpact. The Azorius Senate was meant to carry on his legacy by serving as the legislative body of Ravnica.
 
 ### Inside the Senate
 
-The Azorius Senate is supported by three branches, called columns, each led by an arbiter (also called a capital). The capitals of the three columns form the Triumvirate, which advises the guildmaster, Supreme Judge [Isperia](/3-Mechanics/CLI/bestiary/npc/isperia-ggr.md), an ancient and wise sphinx.
+The Azorius Senate is supported by three branches, called columns, each led by an arbiter (also called a capital). The capitals of the three columns form the Triumvirate, which advises the guildmaster, Supreme Judge [Isperia](3-Mechanics/CLI/bestiary/npc/isperia-ggr.md), an ancient and wise sphinx.
 
 The **Sova Column** consists of judges and the extensive legal apparatus surrounding them. It is tasked with adjudicating and arbitrating the effects of the law. The column employs legal aides, pages, librarians, experts on precedent, advocates for the accused, public prosecutors, and judges.
 
@@ -154,7 +154,7 @@ In the absence of the Living Guildpact, the Azorius are uncertain who is suppose
 
 The Azorius guild embraces the belief that Ravnican society has come too far to succumb to chaos. Civilization can be saved only through the guidance of a strong, safety-focused government. In the mind of the Azorius, the threat of chaos is imminent. They believe it is time to face facts and do whatever is necessary to protect the people and preserve the force of law.
 
-The Azorius, as always, see agents of disorder as their greatest enemies. They have cracked down on the Gruul Clans and imposed a variety of creatively written laws outlawing that guild's presence in as many public places as possible. The Azorius also abhor the satirical shows of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) (in part because the Azorius are frequently ridiculed by [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers) and attempt to curb them with new decrees about public performances. In response to attempts by other guilds to edge their way around the system, the Azorius routinely create new laws to support or countermand old ones.
+The Azorius, as always, see agents of disorder as their greatest enemies. They have cracked down on the Gruul Clans and imposed a variety of creatively written laws outlawing that guild's presence in as many public places as possible. The Azorius also abhor the satirical shows of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) (in part because the Azorius are frequently ridiculed by [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers) and attempt to curb them with new decrees about public performances. In response to attempts by other guilds to edge their way around the system, the Azorius routinely create new laws to support or countermand old ones.
 
 ### Azorius Characters
 
@@ -198,15 +198,15 @@ Bureaucracy might seem like the opposite of adventure, but it is possible to imm
 
 As a skilled orator and diplomat (perhaps a bard of the College of Lore), you can put your talents to use in the guild as an elocutor. The Azorius are known for their measured, patient speech, and the elocutors are the primary voice through which the senate communicates with the other guilds and the people of Ravnica. Thus, you might serve as an emissary from the Azorius to another guild, working to settle trade or territorial agreements, temporary alliances, and the like. You might have the task of securing the support of key senators for a particular piece of legislation or treaty. Well-established elocutors can be rewarded with the rank of scribe or emissary.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/016-203.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/016-203.webp#center)
 
-The [Azorius Functionary](/3-Mechanics/CLI/backgrounds/azorius-functionary-ggr.md) background is available for characters who are part of the Azorius guild.
+The [Azorius Functionary](3-Mechanics/CLI/backgrounds/azorius-functionary-ggr.md) background is available for characters who are part of the Azorius guild.
 
 #### An Azorius Party
 
 An adventuring party made up entirely of Azorius members could be a specialized team dedicated to law enforcement. A soldier (a fighter or paladin) and a lawmage (wizard) would form the core of the party, supported by a precognitive mage (cleric) who helps direct their missions. An elocutor (bard) could round out the party, serving as the group's negotiator and spokesperson.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/017-204.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/017-204.webp#center)
 
 > [!note] Three Capitals
 > 
@@ -227,7 +227,7 @@ Your specific title depends on your role in the guild:
 - If you are an arrester, you become an officer.  
 - If you are a bureaucrat (including an elocutor), you become a scribe.  
 
-As an Azorius official, you can call on recruits (use the [soldier](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) stat block) to perform mundane tasks and errands for you, but they will not accompany you into dangerous circumstances.
+As an Azorius official, you can call on recruits (use the [soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) stat block) to perform mundane tasks and errands for you, but they will not accompany you into dangerous circumstances.
 
 No Azorius official lives in poverty. Between adventures, you earn a salary that supports you at a modest lifestyle.
 
@@ -241,7 +241,7 @@ Your new title depends on your previous role as an official in the Azorius Senat
 - If you are an officer, you become an imperator.  
 - If you are a scribe, you become an emissary.  
 
-You are recognized as an authority in your field. You gain an [Azorius charm](/3-Mechanics/CLI/rewards/azorius-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf. At the start of any such mission, you can secure the assistance of a squad of `dice:1d4|noform|noparens|avg` (`1d4`) arresters (use the [soldier](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) stat block) plus one [lawmage](/3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md). These individuals remain with you until the mission ends.
+You are recognized as an authority in your field. You gain an [Azorius charm](3-Mechanics/CLI/rewards/azorius-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf. At the start of any such mission, you can secure the assistance of a squad of `1d4` arresters (use the [soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) stat block) plus one [lawmage](3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md). These individuals remain with you until the mission ends.
 
 Between adventures, you earn enough money pursuing your duties to support yourself at a comfortable lifestyle.
 
@@ -255,25 +255,25 @@ Your new title depends on your broader interests as they relate to one of the th
 - If your interests concern the judiciary, you become a judge within the Sova Column.  
 - If you want a position on the legislative body of the Jelenn Column, you become a senator.  
 
-Regardless of your specific title, you can secure the aid of up to `dice:3d4|noform|noparens|avg` (`3d4`) [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) and one or two [lawmages](/3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md) whenever you set out on a guild-approved mission.
+Regardless of your specific title, you can secure the aid of up to `3d4` [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) and one or two [lawmages](3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md) whenever you set out on a guild-approved mission.
 
 Between adventures, your responsibilities to the guild—including supervising arresters, judging legal cases, or writing laws—earns you enough money to support yourself at a wealthy lifestyle.
 
 #### Rank 4: Arbiter
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/018-205.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/018-205.webp#center)
 
 *Prerequisite: Rank 3 and renown 50 or higher in the Azorius Senate*
 
-As an arbiter (or capital), you serve as the head of your column. Only [Isperia](/3-Mechanics/CLI/bestiary/npc/isperia-ggr.md), the Supreme Judge, can appoint you to this position, and only if one of the three existing arbiters leaves her service.
+As an arbiter (or capital), you serve as the head of your column. Only [Isperia](3-Mechanics/CLI/bestiary/npc/isperia-ggr.md), the Supreme Judge, can appoint you to this position, and only if one of the three existing arbiters leaves her service.
 
-As an arbiter, all the resources of your column are at your disposal, and you have the ear of [Isperia](/3-Mechanics/CLI/bestiary/npc/isperia-ggr.md) as a member of her advisory Triumvirate. You also keep the salary you earned as a minister, judge, or senator, sustaining a wealthy lifestyle between adventures.
+As an arbiter, all the resources of your column are at your disposal, and you have the ear of [Isperia](3-Mechanics/CLI/bestiary/npc/isperia-ggr.md) as a member of her advisory Triumvirate. You also keep the salary you earned as a minister, judge, or senator, sustaining a wealthy lifestyle between adventures.
 
 #### Enemies and Allies
 
 As far as the Azorius are concerned, every other guild in Ravnica is hastening along the road to anarchy. Even other guilds that are inclined toward order (such as the Boros, Orzhov, and Selesnya) are ignoring or exploiting the law.
 
-You participate in missions to thwart the criminals of other guilds, from overzealous Boros vigilantes to insidious Golgari assassins. Dimir spies, Orzhov extortionists, and bloodthirsty [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers keep Azorius peacekeepers busy enough, without the added complications of reckless Izzet and Simic experiments putting the citizenry in danger.
+You participate in missions to thwart the criminals of other guilds, from overzealous Boros vigilantes to insidious Golgari assassins. Dimir spies, Orzhov extortionists, and bloodthirsty [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers keep Azorius peacekeepers busy enough, without the added complications of reckless Izzet and Simic experiments putting the citizenry in danger.
 
 Of course, whenever the members of another guild decide to operate within the law, they are potential allies for the Azorius. Even some members of the Cult of Rakdos can be pragmatic enough to stifle their impulses for a time in order to join forces against a common enemy.
 
@@ -294,7 +294,7 @@ Of course, whenever the members of another guild decide to operate within the la
 
 ## Boros Legion
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/019-206.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/019-206.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -302,7 +302,7 @@ Of course, whenever the members of another guild decide to operate within the la
 
 Clad in shining armor and fueled by righteous zeal, the soldiers of the Boros Legion take up steel against the corruption and lawlessness that gnaw at the soul of Ravnica. Combining the force of law with the military strength to back it up, the Boros work to forge Ravnica into a just society, a safe and healthy community for all. From garrisons throughout the sprawling city, disciplined, stalwart soldiers are dispatched to stand firm against Gruul raids, Dimir infiltration, Golgari corruption, and the subtle influence of more nefarious foes.
 
-The archangel Razia was the original guildmaster of the Boros Legion, which was established to serve as Ravnica's standing army. Razia served as its guildmaster for almost ten thousand years. Legend says that all the other angels of Ravnica were created in the image of this semidivine figure, and her death was devastating to the guild. [Aurelia](/3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), the current angelic guildmaster, is the third to hold that title.
+The archangel Razia was the original guildmaster of the Boros Legion, which was established to serve as Ravnica's standing army. Razia served as its guildmaster for almost ten thousand years. Legend says that all the other angels of Ravnica were created in the image of this semidivine figure, and her death was devastating to the guild. [Aurelia](3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), the current angelic guildmaster, is the third to hold that title.
 
 > [!note] A Proud Martial Tradition
 > 
@@ -311,7 +311,7 @@ The archangel Razia was the original guildmaster of the Boros Legion, which was 
 
 ### Inside the Legion
 
-Angels occupy the highest tier of the Boros hierarchy, from the guildmaster [Aurelia](/3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md) down to the hosts of holy warriors and advisors in leadership roles. Their opinions and advice are deeply respected in the guild, though the angels aren't above engaging in the machinations of mortal politics. The angels include the wise, strategic warleaders; the holy champions and paragons of war known as firemanes; and battleforce angels, who form the bulk of the legion's angelic warriors.
+Angels occupy the highest tier of the Boros hierarchy, from the guildmaster [Aurelia](3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md) down to the hosts of holy warriors and advisors in leadership roles. Their opinions and advice are deeply respected in the guild, though the angels aren't above engaging in the machinations of mortal politics. The angels include the wise, strategic warleaders; the holy champions and paragons of war known as firemanes; and battleforce angels, who form the bulk of the legion's angelic warriors.
 
 From the perspective of the average Boros soldier, the angels embody the ideals the Boros hold dear. Few mortal soldiers gain admission into the presence of the warleaders and other powerful angels, but battleforce angels fight at the forefront of the legion's ranks, and they form strong friendships with mortals under such life-and-death circumstances. Boros paladins are the members most likely to converse with the angels and be charged with implementing their plans.
 
@@ -342,7 +342,7 @@ Consider the Boros Legion for your character if one or more of the following sen
 - Smiting foes with holy radiance fills you with righteous joy.  
 - You want to protect the innocent and fight for justice.  
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/020-207.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/020-207.webp#center)
 
 #### Joining the Boros Legion
 
@@ -365,10 +365,10 @@ If you prefer healing magic over the explosive magic of the embermages (perhaps 
 If you are a paladin who swears the Oath of Devotion, a fighter of the Eldritch Knight archetype, or a cleric of the War Domain, you can combine the martial training of a soldier with magic and call yourself a firefist. Fueled by a healthy dose of righteous zeal, firefists command a great deal of respect in the Boros Legion.
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/021-208.webp#gallery)
-> ![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/022-209.webp#gallery)
+> ![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/021-208.webp#gallery)
+> ![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/022-209.webp#gallery)
 
-The [Boros Legionnaire](/3-Mechanics/CLI/backgrounds/boros-legionnaire-ggr.md) background is available for characters who are part of the Boros guild.
+The [Boros Legionnaire](3-Mechanics/CLI/backgrounds/boros-legionnaire-ggr.md) background is available for characters who are part of the Boros guild.
 
 #### A Boros Party
 
@@ -384,7 +384,7 @@ In addition, certain positions become available to you when both your renown and
 
 *Prerequisite: Renown 3 or higher in the Boros Legion*
 
-At this rank, you gain some authority over lower-ranking soldiers. When you undertake a mission on the guild's behalf that requires military strength, a squad of `dice:1d4|noform|noparens|avg` (`1d4`) [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) accompanies and assists you for the duration of the mission.
+At this rank, you gain some authority over lower-ranking soldiers. When you undertake a mission on the guild's behalf that requires military strength, a squad of `1d4` [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) accompanies and assists you for the duration of the mission.
 
 Your salary at this rank is enough to maintain a modest lifestyle, including private quarters in the garrison.
 
@@ -392,7 +392,7 @@ Your salary at this rank is enough to maintain a modest lifestyle, including pri
 
 *Prerequisite: Renown 5 or higher in the Boros Legion, 5th level or higher*
 
-Skyknights mounted on Skyjek rocs patrol the skies above Ravnica—a regular reminder of the Boros and their concern for justice. If you meet the prerequisites, you can become a skyknight, assuming no official objects. You are assigned a [Skyjek roc](/3-Mechanics/CLI/bestiary/monstrosity/skyjek-roc-ggr.md) to use as a mount when carrying out your guild responsibilities. Using the roc for personal matters is a significant violation of regulations.
+Skyknights mounted on Skyjek rocs patrol the skies above Ravnica—a regular reminder of the Boros and their concern for justice. If you meet the prerequisites, you can become a skyknight, assuming no official objects. You are assigned a [Skyjek roc](3-Mechanics/CLI/bestiary/monstrosity/skyjek-roc-ggr.md) to use as a mount when carrying out your guild responsibilities. Using the roc for personal matters is a significant violation of regulations.
 
 #### Wojek (Special Role)
 
@@ -404,15 +404,15 @@ You can be both a skyknight and a member of the Wojek League, gaining the title 
 
 #### Rank 2: Brigadier
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/023-210.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/023-210.webp#center)
 
 *Prerequisite: Rank 1 and renown 10 or higher in the Boros Legion*
 
 As a brigadier, you are responsible for missions and strategies that you can't execute entirely on your own or with the aid of a handful of soldiers. After receiving goals handed down from the captain above you, it's your job to figure out the tactics needed to accomplish those goals.
 
-You lead a brigade that consists of six squads, each made up of four soldiers commanded by a sergeant (use the [soldier](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) stat block to represent them). If you are also a skyknight, at least one of these squads is made up of other skyknights, which are [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) mounted on [Skyjek rocs](/3-Mechanics/CLI/bestiary/monstrosity/skyjek-roc-ggr.md). You can assign these squads to tasks of your choosing within the area of the city where you have authority. You can also lead these soldiers into battle yourself, or bring one squad and its sergeant with you on a guild mission.
+You lead a brigade that consists of six squads, each made up of four soldiers commanded by a sergeant (use the [soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) stat block to represent them). If you are also a skyknight, at least one of these squads is made up of other skyknights, which are [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md) mounted on [Skyjek rocs](3-Mechanics/CLI/bestiary/monstrosity/skyjek-roc-ggr.md). You can assign these squads to tasks of your choosing within the area of the city where you have authority. You can also lead these soldiers into battle yourself, or bring one squad and its sergeant with you on a guild mission.
 
-At this rank, you gain a [Boros charm](/3-Mechanics/CLI/rewards/boros-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf. You continue to receive a salary sufficient to maintain a modest lifestyle, but your quarters in the garrison are more spacious.
+At this rank, you gain a [Boros charm](3-Mechanics/CLI/rewards/boros-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf. You continue to receive a salary sufficient to maintain a modest lifestyle, but your quarters in the garrison are more spacious.
 
 #### Sunhome Guard (Special Role)
 
@@ -424,7 +424,7 @@ Members of the Sunhome Guard are responsible for the defense of Sunhome, the Bor
 
 *Prerequisite: Rank 2 and renown 25 or higher in the Boros Legion*
 
-As a captain in the Boros Legion, you gain command of a small garrison and the responsibility for maintaining order and protecting people in part of a city district. You have four brigades under your command. As described for rank 3, each brigade has six squads of five soldiers (including a sergeant) reporting to them. One additional squad of `dice:2d4|noform|noparens|avg` (`2d4`) soldiers is your personal retinue.
+As a captain in the Boros Legion, you gain command of a small garrison and the responsibility for maintaining order and protecting people in part of a city district. You have four brigades under your command. As described for rank 3, each brigade has six squads of five soldiers (including a sergeant) reporting to them. One additional squad of `2d4` soldiers is your personal retinue.
 
 You regularly receive communications from warleader angels who coordinate the efforts of the smaller garrisons. They keep you informed of the goals and concerns of the legion's mortal and angelic leaders and can help you address them. You are then responsible for giving orders to your brigadiers, and you must answer to your commander for the troops' success or failure in achieving the guild's strategic goals.
 
@@ -436,17 +436,17 @@ As a captain, your salary allows you to maintain a comfortable lifestyle between
 
 As a commander, you assume the leadership of one of the major garrisons of the Boros Legion: Kamen Fortress, Horizon Military Academy, or the great flying garrison called *Parhelion II*, which moves from place to place to deploy reinforcements to Boros troops around Ravnica. If you are already a member of the Sunhome Guard, you could instead be placed in command of that elite force, leading all the non-angelic forces of Sunhome.
 
-In this role, you are advised—and ordered around—by angels. You are in regular communication with Guildmaster [Aurelia](/3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), who places you in charge of a major guild initiative. You might be tasked with improving recruitment, developing a plan for dealing with Dimir infiltration, or collaborating with the Izzet to develop new weaponry for Boros soldiers.
+In this role, you are advised—and ordered around—by angels. You are in regular communication with Guildmaster [Aurelia](3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), who places you in charge of a major guild initiative. You might be tasked with improving recruitment, developing a plan for dealing with Dimir infiltration, or collaborating with the Izzet to develop new weaponry for Boros soldiers.
 
 You continue to draw a salary sufficient to maintain a comfortable lifestyle.
 
 #### Enemies and Allies
 
-In general, the Boros find some common ground with other guilds that value order and structure: Azorius, Selesnya, and (to a lesser extent) Orzhov. The [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), Gruul, and Izzet might share the zeal and energy of the Boros, but they represent the more chaotic aspect of those qualities, which threatens the stability of all Ravnica.
+In general, the Boros find some common ground with other guilds that value order and structure: Azorius, Selesnya, and (to a lesser extent) Orzhov. The [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), Gruul, and Izzet might share the zeal and energy of the Boros, but they represent the more chaotic aspect of those qualities, which threatens the stability of all Ravnica.
 
-The legion is dedicated to combating the influence of Dimir spies and infiltrators, containing the brutal chaos of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), and halting the schemes of the Golgari. But any guild can become an enemy of Boros if its aims and activities lead to crime, chaos, injustice, or harm to the innocent citizens of Ravnica. Even the Azorius can become so obsessive in creating and enforcing laws that they overreach the bounds of justice.
+The legion is dedicated to combating the influence of Dimir spies and infiltrators, containing the brutal chaos of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), and halting the schemes of the Golgari. But any guild can become an enemy of Boros if its aims and activities lead to crime, chaos, injustice, or harm to the innocent citizens of Ravnica. Even the Azorius can become so obsessive in creating and enforcing laws that they overreach the bounds of justice.
 
-Conversely, any guild can offer you allies in your quest for justice. Distasteful as they might be, even the Gruul and the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) can play a part in curtailing threats to the city that also impede their own interests.
+Conversely, any guild can offer you allies in your quest for justice. Distasteful as they might be, even the Gruul and the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) can play a part in curtailing threats to the city that also impede their own interests.
 
 > [!note] The Boros View on Other Guilds
 > 
@@ -465,7 +465,7 @@ Conversely, any guild can offer you allies in your quest for justice. Distastefu
 
 ## House Dimir
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/024-211.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/024-211.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -477,7 +477,7 @@ The first guildmaster of House Dimir was a vampire named Szadek, whose organizat
 
 ### Inside the House
 
-House Dimir has a clandestine aspect hidden from all but its most important members. The guildmaster, [Lazav](/3-Mechanics/CLI/bestiary/npc/lazav-ggr.md), and his direct contacts guide and manipulate the covert operations of the guild. Members of House Dimir ultimately receive their orders from this source without having any idea of who issued the order or why. Messages to agents are funneled through thought strands (see "Spell: [Encode Thoughts](/3-Mechanics/CLI/spells/encode-thoughts-ggr.md)" later in this section) and telepathic couriers.
+House Dimir has a clandestine aspect hidden from all but its most important members. The guildmaster, [Lazav](3-Mechanics/CLI/bestiary/npc/lazav-ggr.md), and his direct contacts guide and manipulate the covert operations of the guild. Members of House Dimir ultimately receive their orders from this source without having any idea of who issued the order or why. Messages to agents are funneled through thought strands (see "Spell: [Encode Thoughts](3-Mechanics/CLI/spells/encode-thoughts-ggr.md)" later in this section) and telepathic couriers.
 
 By design, you don't have much interaction with other members of your guild. You might never meet your primary guild contact face to face, instead receiving assignments and sending reports by way of secret message drops and codes.
 
@@ -512,9 +512,9 @@ In your guild role, you engage in surveillance, theft, sabotage, infiltration, a
 
 If you are a spellcaster (perhaps a wizard specialized in the School of Divination, Enchantment, or Illusion), you have the skills needed to join the ranks of the most feared spellcasters on Ravnica: House Dimir's mind mages. Your basic work and role is the same as any other spy's, but you can learn to pull thoughts and memories from a person's mind, use a target's own thoughts against them, attack your foes' psyches directly to create delusions, or scour enemy minds clean.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/025-212.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/025-212.webp#center)
 
-The [Dimir Operative](/3-Mechanics/CLI/backgrounds/dimir-operative-ggr.md) background is available for characters who are part of the Dimir guild.
+The [Dimir Operative](3-Mechanics/CLI/backgrounds/dimir-operative-ggr.md) background is available for characters who are part of the Dimir guild.
 
 #### A Dimir Party
 
@@ -522,7 +522,7 @@ House Dimir might send an adventuring party on missions focused on stealth and s
 
 #### Rank and Renown
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/026-213.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/026-213.webp#center)
 
 As you gain renown within House Dimir, you will be rewarded with missions of increasing importance. No formal ranks exist for you to progress through, but certain thresholds of renown indicate improvements in your standing within the guild. Perhaps most important, according to the philosophy of House Dimir, higher standing brings greater knowledge of the inner workings of Ravnica and the guild.
 
@@ -534,7 +534,7 @@ At the start of your career, your orders include step-by-step instructions—or 
 
 As an independent agent, you have considerable latitude in the way you choose to implement your mission goals.
 
-You acquire a [spies' murmur](/3-Mechanics/CLI/items/spies-murmur-ggr.md) (described in "chapter 5")—a magic device that allows you to communicate telepathically with other Dimir agents who wear similar items. If this item is lost or destroyed, it's up to you to secure a replacement.
+You acquire a [spies' murmur](3-Mechanics/CLI/items/spies-murmur-ggr.md) (described in "chapter 5")—a magic device that allows you to communicate telepathically with other Dimir agents who wear similar items. If this item is lost or destroyed, it's up to you to secure a replacement.
 
 #### Collector of Secrets
 
@@ -542,7 +542,7 @@ You acquire a [spies' murmur](/3-Mechanics/CLI/items/spies-murmur-ggr.md) (descr
 
 By the time you reach this level of renown in House Dimir, you are amassing a significant collection of secrets about the people and places around you. You know the location of a hidden safe house where you can take shelter in case of dire need. At the DM's discretion, you might also know (or be able to find out) a secret about a person or group who lives or operates in a neighborhood you're familiar with. The secret is typically a person's flaw or details about a dark episode in a group's past. Whatever it is, the secret is a weakness that can be used to manipulate the person or group to assist you or your associates.
 
-In addition, you gain a [Dimir charm](/3-Mechanics/CLI/rewards/dimir-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf.
+In addition, you gain a [Dimir charm](3-Mechanics/CLI/rewards/dimir-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf.
 
 #### Inner Circle
 
@@ -554,11 +554,11 @@ At this level of renown, you are responsible for coordinating the activities of 
 
 *Prerequisite: Renown 50 or higher in House Dimir*
 
-Few members of House Dimir ever encounter [Lazav](/3-Mechanics/CLI/bestiary/npc/lazav-ggr.md), and those who do are often unaware that they are dealing with the guildmaster. You have been admitted to his circle of confidants. He has entrusted you with a wide network of Dimir agents under your command, but you also bear tremendous responsibility for the success of the missions they undertake.
+Few members of House Dimir ever encounter [Lazav](3-Mechanics/CLI/bestiary/npc/lazav-ggr.md), and those who do are often unaware that they are dealing with the guildmaster. You have been admitted to his circle of confidants. He has entrusted you with a wide network of Dimir agents under your command, but you also bear tremendous responsibility for the success of the missions they undertake.
 
 #### Enemies and Allies
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/027-214.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/027-214.webp#center)
 
 It's hard for a guild built on stealth and secrecy to maintain a positive relationship with any other guild. All guilds are monitored with suspicion, and they assessed for their current and prospective levels of threat, as well as for their usefulness to House Dimir's schemes. Each cell may foster its own relationships with the other guilds, but it ultimately defers to Dimir's enigmatic leaders to steer overarching strategy.
 
@@ -583,7 +583,7 @@ You might cooperate with members of other guilds, openly or in disguise, insofar
 
 ## Golgari Swarm
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/028-215.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/028-215.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -595,7 +595,7 @@ The original mandate of the Golgari Swarm under the leadership of Svogthir, its 
 
 ### Inside the Swarm
 
-The leadership of the Golgari has undergone several major changes, but the nature of the swarm makes it easily adaptable to the churn of continuous cycles. Being alive isn't a prerequisite for leadership, as demonstrated by the rule of the current guildmaster, the elf lich [Jarad Vod Savo](/3-Mechanics/CLI/bestiary/npc/jarad-vod-savo-ggr.md). Assassination is seen as a perfectly valid means of effecting political change, which is how Jarad's sister, Savra, took control of the guild before him. Various groups of people and monsters coexist within the swarm, their relative power waxing and waning with the years, and through it all, the guild goes on.
+The leadership of the Golgari has undergone several major changes, but the nature of the swarm makes it easily adaptable to the churn of continuous cycles. Being alive isn't a prerequisite for leadership, as demonstrated by the rule of the current guildmaster, the elf lich [Jarad Vod Savo](3-Mechanics/CLI/bestiary/npc/jarad-vod-savo-ggr.md). Assassination is seen as a perfectly valid means of effecting political change, which is how Jarad's sister, Savra, took control of the guild before him. Various groups of people and monsters coexist within the swarm, their relative power waxing and waning with the years, and through it all, the guild goes on.
 
 The three most important power groups within the Golgari are the Devkarin elves, the medusas (also called gorgons in Ravnica), and the insectile kraul. Jarad is an undead representative of the Devkarin, so the elves claim a privileged position within the guild for the moment.
 
@@ -618,7 +618,7 @@ The Golgari are preparing for upheaval. They have sealed many of the passages le
 > After being cast out of the nascent Selesnya Conclave millennia ago, the Devkarin found a home amid the corrupted and overgrown places of Ravnica, and the Devkarin necromancer Svogthir became the founder of the Golgari Swarm. Since then, the Devkarin have been a major influence in the guild, even during the times when they didn't hold absolute power. Regardless of who rules the guild, the Devkarin follow the guidance of a high priest, called the matka. The matka's spiritual leadership usually aligns with the guildmaster's temporal commands, but during times when the guild is ruled by a non-elf faction, the matka can be a significant dissenting voice.
 ^dark-elves-of-the-golgari
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/029-216.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/029-216.webp#center)
 
 ### Golgari Characters
 
@@ -636,18 +636,18 @@ The Golgari Swarm might suit your character if one or more of the following stat
 
 #### Joining the Golgari Swarm
 
-Similar to a [swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md), the Golgari collectively behave more like a single organism than a scattering of individuals. New members aren't recruited or initiated into the Golgari Swarm; you have been absorbed and incorporated, and the biological system of the swarm funneled you to where your talents are most needed to contribute to the health of the guild. Your position within the guild is defined by your capabilities.
+Similar to a swarm of insects, the Golgari collectively behave more like a single organism than a scattering of individuals. New members aren't recruited or initiated into the Golgari Swarm; you have been absorbed and incorporated, and the biological system of the swarm funneled you to where your talents are most needed to contribute to the health of the guild. Your position within the guild is defined by your capabilities.
 
 You might act as a shaman of the Golgari if you are a spellcaster—perhaps a wizard specialized in the School of Necromancy, a druid of the Circle of the Land, or a druid of the Circle of Spores (described in "chapter 1"). In this revered position, you teach and advise other members of the swarm, keeping them attuned to the natural cycle of death and regrowth. You might manipulate that natural cycle by wielding the magic of death, snuffing out life and reanimating the dead. Or you might wield your magic to spread fungal rot and noxious gases, preparing parts of the city for annexation.
 
 If you aren't adept at magic, the swarm still needs you. Golgari warriors both defend the guild's territory and, when necessary, take offensive action. If you are a fighter (typically of the Champion archetype), you can serve as a shock trooper, perhaps fighting alongside kraul and trolls on behalf of the swarm. If you are a ranger (likely of the Beast Master archetype) or a rogue (of the Thief or Assassin archetype), you are more of a skirmisher. Golgari rangers favor insects and reptiles as companions.
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/030-217.webp#gallery)
-> ![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/031-218.webp#gallery)
-> ![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/032-219.webp#gallery)
+> ![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/030-217.webp#gallery)
+> ![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/031-218.webp#gallery)
+> ![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/032-219.webp#gallery)
 
-The [Golgari Agent](/3-Mechanics/CLI/backgrounds/golgari-agent-ggr.md) background is available for characters who are part of the Golgari guild.
+The [Golgari Agent](3-Mechanics/CLI/backgrounds/golgari-agent-ggr.md) background is available for characters who are part of the Golgari guild.
 
 #### A Golgari Party
 
@@ -657,7 +657,7 @@ An adventuring party drawn from the teeming ranks of the Golgari Swarm might foc
 
 Every member of the Golgari Swarm has its place, and every role is important to the proper functioning of the guild. Aside from a few leadership positions, the swarm doesn't consider different functions to be more or less important than others. The idea of progressing up the ranks is foreign to the Golgari way of thinking. That said, your renown within the Golgari is a direct measure of the guildmaster's knowledge of you, his confidence in your abilities, and his interest in your activities.
 
-At the start of your career with the Golgari, the guildmaster and his chancellors have no way to distinguish you from the masses of others who perform a similar function. If you receive instructions from the high chancellors, the orders are directed toward you as part of a larger group: for example, "Reclaimers, keep your eyes open for an [Izzet keyrune](/3-Mechanics/CLI/items/izzet-keyrune-ggr.md) believed to be lost in this sector of the sewers."
+At the start of your career with the Golgari, the guildmaster and his chancellors have no way to distinguish you from the masses of others who perform a similar function. If you receive instructions from the high chancellors, the orders are directed toward you as part of a larger group: for example, "Reclaimers, keep your eyes open for an [Izzet keyrune](3-Mechanics/CLI/items/izzet-keyrune-ggr.md) believed to be lost in this sector of the sewers."
 
 #### Agent
 
@@ -671,7 +671,7 @@ You have distinguished yourself from the mass of your peers. Guildmaster Jarad m
 
 When you reach this level of renown in the Golgari Swarm, Jarad knows your name and appreciates that you can be relied on to help fulfill the guild's objectives. Thanks to this prominence, you can get away with begging a favor from the guild's more monstrous members. You can ask an undercity medusa, a troll, or a kraul death priest to help you with a task that benefits the Golgari Swarm. The creature is not obligated to help you, but it holds you in enough esteem to at least consider it—in exchange for the promise of a favor in return.
 
-In addition, you receive a [Golgari charm](/3-Mechanics/CLI/rewards/golgari-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf.
+In addition, you receive a [Golgari charm](3-Mechanics/CLI/rewards/golgari-charm-ggr.md) (described in "chapter 5") at the start of each mission you undertake on the guild's behalf.
 
 #### Ochran (Special Role)
 
@@ -701,7 +701,7 @@ You are eligible to fill the role of matka, the high priest of the Golgari elves
 
 As matka, your status among the Devkarin is comparable to that of the guildmaster's. Even high chancellors who are Devkarin attempt to balance their loyalty to Jarad with their loyalty to you.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/033-220.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/033-220.webp#center)
 
 #### Enemies and Allies
 
@@ -728,7 +728,7 @@ You might ally with members of another guild if they are working—even unwittin
 
 ## Gruul Clans
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/034-221.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/034-221.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -738,7 +738,7 @@ The Gruul Clans are a wild people in a civilized land, a loose affiliation of ba
 
 In a world covered with city streets and towering buildings, the Gruul are the most out of place, the most ill at ease, and the most eager to topple it all and start fresh. Constant ritualistic warfare reverberates among the clans, every skirmish reinforcing their doctrine of the survival of the fittest. They frequently send sorties into civilized areas to secure goods—and to wreak havoc.
 
-The first leader of the Gruul was Cisarzim, a cyclops who was purportedly the ancestor of [Borborygmos](/3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md), the current guildmaster. Cisarzim was called the Lord of Chaos, and his guild's original function as maintainers of Ravnica's natural places meant keeping his faction as remote as possible from the civilized parts of the world. The gradual expansion of the city, however, has driven the Gruul into smaller and smaller refuges.
+The first leader of the Gruul was Cisarzim, a cyclops who was purportedly the ancestor of [Borborygmos](3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md), the current guildmaster. Cisarzim was called the Lord of Chaos, and his guild's original function as maintainers of Ravnica's natural places meant keeping his faction as remote as possible from the civilized parts of the world. The gradual expansion of the city, however, has driven the Gruul into smaller and smaller refuges.
 
 > [!note] Itching for a Fight
 > 
@@ -747,15 +747,15 @@ The first leader of the Gruul was Cisarzim, a cyclops who was purportedly the an
 
 ### Inside the Clans
 
-As a collection of disparate clans, the Gruul have no single leader and no headquarters. But the Gruul respect strength and are willing to follow a strong individual who points them in a direction they want to go anyway. For several decades, that position has been held by the mighty cyclops [Borborygmos](/3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md), chief of the Burning Tree clan. His nihilistic anger inspires the rest of the Gruul, so when he calls on the other clans to join a raid, they usually agree. Even the fractious Gruul can see the benefit of banding together. The clans sometimes gather at Skarrg, a ruined palace in the rubblebelt adjoining the Tenth District. Here are descriptions of the clans:
+As a collection of disparate clans, the Gruul have no single leader and no headquarters. But the Gruul respect strength and are willing to follow a strong individual who points them in a direction they want to go anyway. For several decades, that position has been held by the mighty cyclops [Borborygmos](3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md), chief of the Burning Tree clan. His nihilistic anger inspires the rest of the Gruul, so when he calls on the other clans to join a raid, they usually agree. Even the fractious Gruul can see the benefit of banding together. The clans sometimes gather at Skarrg, a ruined palace in the rubblebelt adjoining the Tenth District. Here are descriptions of the clans:
 
-**Burning Tree Clan**. The Burning Tree clan is the most fearsome of the Gruul Clans, as well as the largest and most diverse, with branches in several districts of Ravnica. The fear and awe inspired by [Borborygmos](/3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md) unifies its diverse membership. The Ravnican populace regards the symbol of the Burning Tree clan as the symbol for the entire Gruul guild.
+**Burning Tree Clan**. The Burning Tree clan is the most fearsome of the Gruul Clans, as well as the largest and most diverse, with branches in several districts of Ravnica. The fear and awe inspired by [Borborygmos](3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md) unifies its diverse membership. The Ravnican populace regards the symbol of the Burning Tree clan as the symbol for the entire Gruul guild.
 
 **Ghor Clan**. The Ghor clan is led by an ettin named Ruric Thar (or, perhaps more properly, Ruric and Thar, since the heads claim separate names). Of all the clans, the Ghor carry out the most frequent and savage assaults on Ravnica's citizenry. The clan is known for its audacity in forging encampments close to heavily populated districts.
 
 **Scab Clan**. Members of the Scab clan display scars and body modifications, which they view as expressions of the powerful rage they harbor within themselves. The clan has grown in influence by engulfing or destroying several smaller clans in recent years, but the leader of the Scabs, a corpulent giant known as Narbulg Nine Fingers, has not gone so far as to challenge the Burning Tree clan.
 
-**Slizt Clan**. The Slizt clan is a clutch of sly, skittish warriors, consisting largely of reptilian humanoids called viashino (use the [lizardfolk](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) stat block in the "Monster Manual" to represent them), along with a few wily humans. This clan survives in the rubblebelts by taking up hiding places in high ground and ambushing its enemies with ranged attacks from above. Other Gruul regard the Slizt as skulkers and cowards, but nonetheless all are cautious when entering areas with elevated ruins. The home ground of the Slizt clan is the Husk, an area at the center of a vast rubblebelt featuring many large, ancient structures that have remained standing for generations.
+**Slizt Clan**. The Slizt clan is a clutch of sly, skittish warriors, consisting largely of reptilian humanoids called viashino (use the lizardfolk stat block in the "Monster Manual" to represent them), along with a few wily humans. This clan survives in the rubblebelts by taking up hiding places in high ground and ambushing its enemies with ranged attacks from above. Other Gruul regard the Slizt as skulkers and cowards, but nonetheless all are cautious when entering areas with elevated ruins. The home ground of the Slizt clan is the Husk, an area at the center of a vast rubblebelt featuring many large, ancient structures that have remained standing for generations.
 
 **Gravel Hide Clan**. The Gravel Hide clan believes that resilience is the truest measure of strength. Though a relatively new group, its members have already earned a reputation (almost certainly exaggerated) for shrugging off devastating attacks. The clan's leader, a hot-tempered goblin named Skorik Boulder Tooth, adorns himself with the shattered remnants of weapons that he has rent to bits with his own jaws.
 
@@ -789,9 +789,9 @@ You might enjoy playing a character who belongs to the Gruul Clans if one or mor
 
 You might have been born and raised among the Gruul, like many of the guild's members. Or you could be an outcast, a refugee, or a fugitive from civilized society, shunned for your violent ways or for fleeing the hand of justice. As long as you are strong enough to survive among the Gruul, you are welcome, no matter what secrets haunt your past.
 
-The Gruul "guild" is actually a collection of different, independent clans loosely united under one powerful leader. When you decide to join the Gruul, you join a specific clan, not the guild as a whole. You can roll a `dice:d8|noform|noparens|avg` (`d8`) or choose from the options in the Gruul Clan Options table to determine your character's clan allegiance.
+The Gruul "guild" is actually a collection of different, independent clans loosely united under one powerful leader. When you decide to join the Gruul, you join a specific clan, not the guild as a whole. You can roll a `d8` or choose from the options in the Gruul Clan Options table to determine your character's clan allegiance.
 
-![Joining the Gruul Clans; Gruul Clan Options](/3-Mechanics/CLI/tables/joining-the-gruul-clans-gruul-clan-options-ggr.md)
+![Joining the Gruul Clans; Gruul Clan Options](3-Mechanics/CLI/tables/joining-the-gruul-clans-gruul-clan-options-ggr.md)
 
 The rites of becoming Gruul, whether you have come from outside the guild or are marking your entrance into adulthood, center around being buried alive. When you enter the shallow grave, the person you were before is dead. Your past wrongs and errors are forgotten, but so are your past accomplishments. No matter how well you proved yourself in battle before, when you rise from the earth you are untested. The clan leaders recognize you only when you earn glory in battle as a Gruul.
 
@@ -799,9 +799,9 @@ Most of the Gruul find their place among the fierce warriors of their clans. If 
 
 If you are spellcaster, such as a druid (usually of the Circle of the Moon) or a cleric of the Tempest Domain, you might adopt a more spiritual role in your clan. You practice what the Gruul call the Old Ways, a discipline that predates the foundation of civilization on Ravnica, to channel the primal energy that still pulses through the wild places of the world.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/035-222.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/035-222.webp#center)
 
-The [Gruul Anarch](/3-Mechanics/CLI/backgrounds/gruul-anarch-ggr.md) background is available for characters who are part of the Gruul guild.
+The [Gruul Anarch](3-Mechanics/CLI/backgrounds/gruul-anarch-ggr.md) background is available for characters who are part of the Gruul guild.
 
 #### A Gruul Party
 
@@ -809,7 +809,7 @@ A group of Gruul adventurers can serve as a raiding party to pursue the goals of
 
 #### Rank and Renown
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/036-223.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/036-223.webp#center)
 
 Renown among the Gruul could also be called glory—when you prove yourself in battle, you earn the respect of your fellows. With glory comes acceptance of your leadership and warriors willing to follow you into battle. The Gruul have no formal holders of titles aside from the chieftains of clans and the guildmaster, but relative status within one's clan is still important.
 
@@ -817,21 +817,21 @@ Renown among the Gruul could also be called glory—when you prove yourself in b
 
 *Prerequisite: Renown 3 or higher in your clan*
 
-With several battles under your belt, you have demonstrated service to your clan and earned the recognition of your peers. You have the right to tattoo your body to commemorate your triumphs in battle and demonstrate your loyalty to the Gruul. You don't yet have authority over others, but when you go into battle with your clan, your fellow warriors fight near you, acknowledging your prowess. Your clan chieftain knows your name and might decide to single you out, offering you an opportunity to prove yourself by performing a special task. Depending on the nature of the task, the chieftain might send `dice:1d4|noform|noparens|avg` (`1d4`) [anarchs](/3-Mechanics/CLI/bestiary/humanoid/anarch-ggr.md) along to help you.
+With several battles under your belt, you have demonstrated service to your clan and earned the recognition of your peers. You have the right to tattoo your body to commemorate your triumphs in battle and demonstrate your loyalty to the Gruul. You don't yet have authority over others, but when you go into battle with your clan, your fellow warriors fight near you, acknowledging your prowess. Your clan chieftain knows your name and might decide to single you out, offering you an opportunity to prove yourself by performing a special task. Depending on the nature of the task, the chieftain might send `1d4` [anarchs](3-Mechanics/CLI/bestiary/humanoid/anarch-ggr.md) along to help you.
 
 #### Beast-Friend
 
 *Prerequisite: Renown 10 or higher in your clan*
 
-When you reach this level of renown, you develop a rapport with the beasts that haunt the rubblebelts. When you are in a rubblebelt area, you can summon one beast to be your mount: a batterboar (a [giant boar](/3-Mechanics/CLI/bestiary/beast/giant-boar-xmm.md) as described in the "Monster Manual"), a ceratok (using the stat block of a [rhinoceros](/3-Mechanics/CLI/bestiary/beast/rhinoceros-xmm.md)), or a raktusk (equivalent to a [giant elk](/3-Mechanics/CLI/bestiary/celestial/giant-elk-xmm.md)). It doesn't fight for you unless you have magic or another ability that can control a beast.
+When you reach this level of renown, you develop a rapport with the beasts that haunt the rubblebelts. When you are in a rubblebelt area, you can summon one beast to be your mount: a batterboar (a giant boar as described in the "Monster Manual"), a ceratok (using the stat block of a rhinoceros), or a raktusk (equivalent to a giant elk). It doesn't fight for you unless you have magic or another ability that can control a beast.
 
-In addition, when you carry out a raid on the guild's behalf, a druid of your clan gives you a [Gruul charm](/3-Mechanics/CLI/rewards/gruul-charm-ggr.md) (described in "chapter 5") at the start of the raid.
+In addition, when you carry out a raid on the guild's behalf, a druid of your clan gives you a [Gruul charm](3-Mechanics/CLI/rewards/gruul-charm-ggr.md) (described in "chapter 5") at the start of the raid.
 
 #### Celebrated
 
 *Prerequisite: Renown 25 or higher in your clan*
 
-You are a hero in your clan, and your reputation extends to other clans as well. You can count on the aid of your clan in most situations. Your clan's druids cast spells for you, and you lead a warband that consists of `dice:3d4|noform|noparens|avg` (`3d4`) [anarchs](/3-Mechanics/CLI/bestiary/humanoid/anarch-ggr.md) plus three [berserkers](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) or [ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) (see the "Monster Manual" for their stat blocks).
+You are a hero in your clan, and your reputation extends to other clans as well. You can count on the aid of your clan in most situations. Your clan's druids cast spells for you, and you lead a warband that consists of `3d4` [anarchs](3-Mechanics/CLI/bestiary/humanoid/anarch-ggr.md) plus three berserkers or ogres (see the "Monster Manual" for their stat blocks).
 
 Your chieftain keeps an eye on you, aware that you're a potential challenger for leadership of the clan.
 
@@ -841,7 +841,7 @@ Your chieftain keeps an eye on you, aware that you're a potential challenger for
 
 You can now rightfully challenge your chieftain in single combat for leadership of the clan or take the warriors loyal to you and form a new clan.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/037-224.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/037-224.webp#center)
 
 #### Enemies and Allies
 
@@ -870,7 +870,7 @@ In certain circumstances, such as when some nightmarish horror rears its head in
 
 ## Izzet League
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/038-225.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/038-225.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -880,13 +880,13 @@ The Izzet are obsessive experimenters, combining a keen creative intellect with 
 
 The league's most grandiose experiments typically concern public works projects and elemental experimentation. These efforts use a methodology that relies on unexpected outcomes: all results are informative, even if they completely defy expectations. For example, an experiment that begins as the creation of a "hypermana focusing lens" might be renamed a "scram-range teleportal" once the researchers discover more properties of what they have fashioned. Then, after a few goblin volunteers vanish inside it, the apparatus gains the designation of "universal refuse disintegrator"—until the goblin volunteers are discovered alive, having been teleported far from the workshop. This sort of adjustment is par for the course in Izzet experiments; the "fiddle and find out" method is favored over any process of systematic scientific research.
 
-The Izzet League is one of the few guilds whose founder, the dragon [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), remains its guildmaster, just as the guild continues to fulfill its original mission (even as its experiments go far beyond the guild's original mandate).
+The Izzet League is one of the few guilds whose founder, the dragon [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), remains its guildmaster, just as the guild continues to fulfill its original mission (even as its experiments go far beyond the guild's original mandate).
 
 ### Inside the League
 
-[Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the original and current guildmaster of the Izzet League, is a fifteen-thousand-year-old, vain, temperamental, super-intelligent dragon. As he directs experiments throughout the guild, he values results over success, accepting and even anticipating that Izzet experiments will end in gloriously unpredictable ways. However, the dragon rarely concerns himself with the day-to-day running of the guild, preferring to craft long-range plans and let underlings implement the details.
+[Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the original and current guildmaster of the Izzet League, is a fifteen-thousand-year-old, vain, temperamental, super-intelligent dragon. As he directs experiments throughout the guild, he values results over success, accepting and even anticipating that Izzet experiments will end in gloriously unpredictable ways. However, the dragon rarely concerns himself with the day-to-day running of the guild, preferring to craft long-range plans and let underlings implement the details.
 
-Overseeing the daily operations of the guild is the purview of the Izmundi, a board of directors that assembles teams from among the rank and file of the Izzet League to carry out research according to [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s directions. The Izmagnus is a smaller board with five to seven members (some members' identities remain secret) who serve as [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s closest advisors.
+Overseeing the daily operations of the guild is the purview of the Izmundi, a board of directors that assembles teams from among the rank and file of the Izzet League to carry out research according to [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s directions. The Izmagnus is a smaller board with five to seven members (some members' identities remain secret) who serve as [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s closest advisors.
 
 The Izzet League is organized into units designated as laboratories that specialize in certain fields of research. Though they all operate under the general guidance of the Izmundi, each laboratory is typically left alone to conduct its research. New fields of study emerge all the time, but the more established laboratories—each populated by hundreds of mages and their attendants—include the following:
 
@@ -923,13 +923,13 @@ Izzet laboratories function in a constant state of high energy that propels rese
 > **Vedalken** tend to be more focused, organized, and astute compared to their Izzet compatriots, and thus they often serve as leaders of projects in the guild's laboratories. Some vedalken are so obsessive about their work that they like to see to every detail themselves, rather than delegating any task to underlings or assistants. This attitude can irritate and alienate their guild mates—and put the vedalken in harm's way when an experiment goes awry.
 ^in-the-name-of-magical-science
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/039-226.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/039-226.webp#center)
 
 #### Goals of the Izzet
 
 The Izzet League thirsts for knowledge, cherishes intellect, and speculates about the secrets of the multiverse. It brings to its scientific pursuits a flaming passion that turns its search for knowledge into an insatiable hunger, makes its cold intellect brilliantly fruitful, and widens its speculation into a search for connections between wildly disparate objects or concepts. It is manic in its expressions of creative energy, shifting from careful analysis to intuitive leap seemingly for no reason, always thinking outside the proverbial box. As the Izzet see it, unpredictable action, far from being antithetical to methodical research, has experimental value. In the words of one researcher, "The only action worth taking is one with an unknown outcome."
 
-As Ravnica descends into increasing turmoil, the Izzet have further intensified their frenetic research, though now their efforts are mainly directed toward one outcome: the development of super-weapons. The suspicion that festers in the mind of the Izzet guildmaster, the ancient dragon [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), urges him to push his guild's research toward increasingly dangerous and volatile experimentation.
+As Ravnica descends into increasing turmoil, the Izzet have further intensified their frenetic research, though now their efforts are mainly directed toward one outcome: the development of super-weapons. The suspicion that festers in the mind of the Izzet guildmaster, the ancient dragon [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), urges him to push his guild's research toward increasingly dangerous and volatile experimentation.
 
 For the rest of the guild members, the search for bigger and better weapons is mainly an opportunity to engage in all sorts of wild research while abandoning all outward pretense of safety or reason. Much of the guild's laboratory space has been converted into testing grounds that are capable of withstanding great discharges of magical energy.
 
@@ -954,17 +954,17 @@ Most Izzet recruits begin their careers as attendants. In the service of a more 
 
 If you are a spellcaster, such as a sorcerer or a wizard, the easiest way up and out of your position is by proving your skill with magic. Most Izzet sorcerers get their magic from the Wild Magic origin, but a few claim a Draconic Bloodline. Izzet wizards tend to specialize in the School of Conjuration, Evocation, or Transmutation. As an Izzet spellcaster, you are probably connected to a particular laboratory, either one described in the "Inside the Izzet" section or a less prominent one focused on a narrower topic. You could be an independent researcher, a functionary devoted to carrying out errands for the guild's leadership, or a coordinator charged with synchronizing the efforts of different laboratories.
 
-Even though the work of the Izzet League is largely focused on magic and research, if you are a more martial-minded character you still have a role to play in the guild. Fighters with the Eldritch Knight archetype often serve as guards, protecting laboratories and the inventions contained within them, or you can aspire to the elite role of scorchbringer (which comes with a flame-throwing magic device called a [pyroconverger](/3-Mechanics/CLI/items/pyroconverger-ggr.md), described in "chapter 5").
+Even though the work of the Izzet League is largely focused on magic and research, if you are a more martial-minded character you still have a role to play in the guild. Fighters with the Eldritch Knight archetype often serve as guards, protecting laboratories and the inventions contained within them, or you can aspire to the elite role of scorchbringer (which comes with a flame-throwing magic device called a [pyroconverger](3-Mechanics/CLI/items/pyroconverger-ggr.md), described in "chapter 5").
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/040-227.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/040-227.webp#center)
 
-The [Izzet Engineer](/3-Mechanics/CLI/backgrounds/izzet-engineer-ggr.md) background is available for characters who are part of the Izzet guild.
+The [Izzet Engineer](3-Mechanics/CLI/backgrounds/izzet-engineer-ggr.md) background is available for characters who are part of the Izzet guild.
 
 #### An Izzet Party
 
 A party made up entirely of Izzet members might be a mage (wizard or sorcerer) accompanied by guards (fighters) and attendants (any class). The structure of the guild generally assumes that the mage is in charge of steering the group, but it's possible for any of the other characters to be the true brains of the operation. This party lacks healing ability, but alchemist-crafted healing potions can help sustain the party in the absence of a dedicated healer.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/041-228.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/041-228.webp#center)
 
 #### Rank and Renown
 
@@ -976,15 +976,15 @@ Renown within the Izzet League brings with it more responsibility in your chosen
 
 When you have advanced the guild's interests and survived a few magical experiments, you graduate into a position where you can conduct experiments yourself. Only a spellcaster can craft and operate the laboratory equipment involved in Izzet experiments.
 
-As a researcher, you can request equipment for use in your experiments and during adventures. You can secure the aid of `dice:1d4|noform|noparens|avg` (`1d4`) barely competent attendants to assist you. Your attendants use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block in the "Monster Manual".
+As a researcher, you can request equipment for use in your experiments and during adventures. You can secure the aid of `1d4` barely competent attendants to assist you. Your attendants use the commoner stat block in the "Monster Manual".
 
-When you achieve this rank, you can help create your own [mizzium apparatus](/3-Mechanics/CLI/items/mizzium-apparatus-ggr.md) (described in "chapter 5"). To do so, you must spend 10 days of downtime in an Izzet workshop, assisting a more experienced researcher in the construction of the device. The apparatus is given to you at the end of this time. If your apparatus is lost or destroyed, you can create a replacement by spending 50 gp and another 10 days of downtime.
+When you achieve this rank, you can help create your own [mizzium apparatus](3-Mechanics/CLI/items/mizzium-apparatus-ggr.md) (described in "chapter 5"). To do so, you must spend 10 days of downtime in an Izzet workshop, assisting a more experienced researcher in the construction of the device. The apparatus is given to you at the end of this time. If your apparatus is lost or destroyed, you can create a replacement by spending 50 gp and another 10 days of downtime.
 
 #### Scorchbringer (Special Role)
 
 *Prerequisite: Renown 3 or higher in the Izzet League*
 
-Scorchbringers are soldiers assigned to protect Izzet laboratories. As a scorchbringer, you are given a [pyroconverger](/3-Mechanics/CLI/items/pyroconverger-ggr.md) (described in "chapter 5") and are expected to use it in the defense of Izzet property. If your [pyroconverger](/3-Mechanics/CLI/items/pyroconverger-ggr.md) is lost or destroyed, you can get a replacement for 50 gp.
+Scorchbringers are soldiers assigned to protect Izzet laboratories. As a scorchbringer, you are given a [pyroconverger](3-Mechanics/CLI/items/pyroconverger-ggr.md) (described in "chapter 5") and are expected to use it in the defense of Izzet property. If your [pyroconverger](3-Mechanics/CLI/items/pyroconverger-ggr.md) is lost or destroyed, you can get a replacement for 50 gp.
 
 #### Rank 2: Supervisor
 
@@ -992,7 +992,7 @@ Scorchbringers are soldiers assigned to protect Izzet laboratories. As a scorchb
 
 Whether you're an accomplished researcher, a committed soldier, or even a dedicated (and skilled) attendant, you are eligible for promotion to a supervisor position. As a supervisor, you oversee your former peers. Your role is primarily to translate the instructions of the director above you into concrete tasks that the people who report to you can accomplish.
 
-If your director sends you on a mission outside the laboratory, you receive an [Izzet charm](/3-Mechanics/CLI/rewards/izzet-charm-ggr.md) (described in "chapter 5") at the start of that mission.
+If your director sends you on a mission outside the laboratory, you receive an [Izzet charm](3-Mechanics/CLI/rewards/izzet-charm-ggr.md) (described in "chapter 5") at the start of that mission.
 
 As a supervisor, you earn a salary sufficient to maintain a modest lifestyle.
 
@@ -1000,19 +1000,19 @@ As a supervisor, you earn a salary sufficient to maintain a modest lifestyle.
 
 *Prerequisite: Rank 1 and renown 10 or higher in the Izzet League, Spellcasting or Pact Magic class feature*
 
-Not every researcher chooses to advance through the ranks of management to become a supervisor. As an independent researcher, you can use the resources of your laboratory to conduct any kind of experiment. Assisting you in your research are `dice:2d6|noform|noparens|avg` (`2d6`) competent attendants (use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block in the "Monster Manual", and give them proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill).
+Not every researcher chooses to advance through the ranks of management to become a supervisor. As an independent researcher, you can use the resources of your laboratory to conduct any kind of experiment. Assisting you in your research are `2d6` competent attendants (use the commoner stat block in the "Monster Manual", and give them proficiency in the Arcana skill).
 
-In addition, you can create your own [Izzet charm](/3-Mechanics/CLI/rewards/izzet-charm-ggr.md) (described in "chapter 5"), given 5 days of work and access to your laboratory. When you do so, any other charms you have created vanish.
+In addition, you can create your own [Izzet charm](3-Mechanics/CLI/rewards/izzet-charm-ggr.md) (described in "chapter 5"), given 5 days of work and access to your laboratory. When you do so, any other charms you have created vanish.
 
 #### Rank 3: Director
 
 *Prerequisite: Renown 25 or higher in the Izzet League*
 
-You oversee a laboratory and all its personnel. In addition, as a director, you are eligible to join the Izmundi, the Izzet board of directors, as a representative of your laboratory. You must have the approval of [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), and a position on this board usually becomes available only if a vacancy opens up. If you assemble your own laboratory, you can be added to the board as an additional member.
+You oversee a laboratory and all its personnel. In addition, as a director, you are eligible to join the Izmundi, the Izzet board of directors, as a representative of your laboratory. You must have the approval of [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), and a position on this board usually becomes available only if a vacancy opens up. If you assemble your own laboratory, you can be added to the board as an additional member.
 
 It's up to the Izmundi to assemble the correct team to carry out the guildmaster's directives. The Izmundi decides which laboratory should have primary responsibility for any given project, and the director of that laboratory is responsible for assigning people to the team.
 
-Within the bounds of [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s directives, you have wide latitude in directing the activities of your laboratory. That means you can steer the researchers of your laboratory toward the creation of particular items or effects.
+Within the bounds of [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s directives, you have wide latitude in directing the activities of your laboratory. That means you can steer the researchers of your laboratory toward the creation of particular items or effects.
 
 Between adventures, you can maintain yourself at a comfortable lifestyle as a member of the Izmundi.
 
@@ -1020,17 +1020,17 @@ Between adventures, you can maintain yourself at a comfortable lifestyle as a me
 
 *Prerequisite: Rank 3 and renown 50 or higher in the Izzet League*
 
-As one of the most famous members of the guild, you are eligible to join the ranks of the Izmagnus. The decision to include you on this board is solely [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s. The number of members on the board isn't fixed, so you don't need to wait for a vacancy.
+As one of the most famous members of the guild, you are eligible to join the ranks of the Izmagnus. The decision to include you on this board is solely [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s. The number of members on the board isn't fixed, so you don't need to wait for a vacancy.
 
-As a member of the Izmagnus, you have the ear of the dragon guildmaster. You can never be fully aware of the scope of his plans, but you know more about them than anyone aside from the other members of the board. The guildmaster listens to your opinion, even though you're not an ancient dragon with thousands of years of accumulated knowledge and wisdom. Ultimately, [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md) tells you what to do—and you (along with your peers) tell the rest of the guild how to do it.
+As a member of the Izmagnus, you have the ear of the dragon guildmaster. You can never be fully aware of the scope of his plans, but you know more about them than anyone aside from the other members of the board. The guildmaster listens to your opinion, even though you're not an ancient dragon with thousands of years of accumulated knowledge and wisdom. Ultimately, [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md) tells you what to do—and you (along with your peers) tell the rest of the guild how to do it.
 
 As a member of the Izmagnus, you can maintain yourself at a wealthy lifestyle between adventures.
 
 #### Enemies and Allies
 
-The Izzet have difficulty relating to the concerns of other guilds. The closest affinity they feel for another guild is their respect for the scientific minds of the Simic—but from the Izzet viewpoint, the Simic efforts lack passion. Conversely, the Izzet can appreciate the passion of the Boros, Gruul, and [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), but they don't agree with the goals those passions are directed toward.
+The Izzet have difficulty relating to the concerns of other guilds. The closest affinity they feel for another guild is their respect for the scientific minds of the Simic—but from the Izzet viewpoint, the Simic efforts lack passion. Conversely, the Izzet can appreciate the passion of the Boros, Gruul, and [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), but they don't agree with the goals those passions are directed toward.
 
-The Izzet have a reputation for unprovoked aggression, spurred by the ambition of [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md). From your perspective as a guild member, the ancient dragon has a good reason for everything he does. If you are sent to test a new weapon against a suspected Dimir safe house, a Gruul camp, or a deceptively peaceful Selesnya enclave, those must surely be dangerous foes of the Izzet. You are also bound to oppose the Dimir when they steal the secrets of your laboratory's research, the Gruul when they smash the delicate equipment that supports your life's work, and the Boros and the Azorius if they decide that your work presents a danger to the city or breaks some obscure law.
+The Izzet have a reputation for unprovoked aggression, spurred by the ambition of [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md). From your perspective as a guild member, the ancient dragon has a good reason for everything he does. If you are sent to test a new weapon against a suspected Dimir safe house, a Gruul camp, or a deceptively peaceful Selesnya enclave, those must surely be dangerous foes of the Izzet. You are also bound to oppose the Dimir when they steal the secrets of your laboratory's research, the Gruul when they smash the delicate equipment that supports your life's work, and the Boros and the Azorius if they decide that your work presents a danger to the city or breaks some obscure law.
 
 Sometimes members of other guilds can help advance your research, intentionally or otherwise. The Izzet are intelligent enough to recognize their weaknesses, and adventuresome souls from other guilds can offset those weaknesses. The healing spells of Boros clerics can be an invaluable aid, and if a cyclops isn't available to lend its brute strength to your work, a Boros minotaur or a Selesnya centaur can fill the need nicely.
 
@@ -1051,7 +1051,7 @@ Sometimes members of other guilds can help advance your research, intentionally 
 
 ## Orzhov Syndicate
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/042-229.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/042-229.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -1079,7 +1079,7 @@ Increasing tensions in Ravnica have led to an atmosphere of instability, and to 
 
 To boost their declining profits in a vacillating economy, the Orzhov have begun offering protection services, promising to shield their "customers" from both physical harm and fiscal disaster. These operations amount to racketeering, bringing with them the underlying threat that those who refuse to pay for protection become targets of the Orzhov's thugs and enforcers.
 
-The Azorius are the greatest threat to Orzhov's operations. In times past, the Orzhov danced along the edges of the law and presented an appearance of legality, but the combination of an ever-expanding legal code and the guild's move into racketeering and other explicitly illegal activities has made it vulnerable to Azorius enforcement. So far, the Azorius have demonstrated more interest in cracking down on the chaotic activity of the Gruul and the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), but Azorius arresters also routinely shut down Orzhov protection rackets and take enforcers into custody. To make matters worse, the Azorius Senate's increasing use of precognitive magic is proving difficult for the Orzhov to work around.
+The Azorius are the greatest threat to Orzhov's operations. In times past, the Orzhov danced along the edges of the law and presented an appearance of legality, but the combination of an ever-expanding legal code and the guild's move into racketeering and other explicitly illegal activities has made it vulnerable to Azorius enforcement. So far, the Azorius have demonstrated more interest in cracking down on the chaotic activity of the Gruul and the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), but Azorius arresters also routinely shut down Orzhov protection rackets and take enforcers into custody. To make matters worse, the Azorius Senate's increasing use of precognitive magic is proving difficult for the Orzhov to work around.
 
 So far, the syndicate's most effective tactic has been to increase the layers of separation between the day-to-day criminal operations of the guild and the leadership, ensuring that no matter how many street-level thugs and syndics are apprehended to fill the Azorius prisons, the guild's leadership remains intact. Contact between the oligarchs and lower-ranking members of the guild is increasingly rare in this situation, and even the pontiffs find it ever more difficult to arrange a hearing with their superiors.
 
@@ -1117,9 +1117,9 @@ If you are cleric (most likely of the Order Domain), you can aspire to serve an 
 
 You might even be a most unusual priest for the syndicate—one who thinks the guild's wealth should be used to ease the suffering of the downtrodden. You might also believe in the inspiration and delight that beautiful pageantry can offer to the world. If you seek to distribute wealth and share beauty, rather than hoard them, you must do so discreetly to avoid the ire of the Obzedat.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/043-230.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/043-230.webp#center)
 
-The [Orzhov Representative](/3-Mechanics/CLI/backgrounds/orzhov-representative-ggr.md) background is available for characters who are part of the Orzhov guild.
+The [Orzhov Representative](3-Mechanics/CLI/backgrounds/orzhov-representative-ggr.md) background is available for characters who are part of the Orzhov guild.
 
 #### An Orzhov Party
 
@@ -1127,7 +1127,7 @@ An Orzhov adventuring party might be assembled in one of two ways. If its primar
 
 If the group is more focused on the political scheming of the Orzhov, involving the use of persuasion and coercion rather than outright force, a priest (cleric) and an advokist (wizard) will probably lead the group, accompanied by more sophisticated bodyguards (fighters or rogues).
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/044-231.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/044-231.webp#center)
 
 #### Rank and Renown
 
@@ -1149,7 +1149,7 @@ Each knight carries a title that expresses a quality of character, such as Knigh
 
 As a priest of this rank, you hear confessions and collect penance, lead rites (and take offerings), perform ceremonies, and offer counsel to your superiors when asked. As an advokist, you represent clients in court, draw up contracts, and put your magic to use in a variety of ways. As an enforcer, you are entrusted with collecting larger sums and interacting with powerful clients.
 
-When you're sent on a mission that poses a potential threat, your superior bestows on you an [Orzhov charm](/3-Mechanics/CLI/rewards/orzhov-charm-ggr.md) (described in "chapter 5"). In addition, you have the authority to demand service from borrowers, including [indentured spirits](/3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md). But that's an authority you must use sparingly, since their service counts as credit to their debt, and it's in the guild's interest to keep borrowers in debt.
+When you're sent on a mission that poses a potential threat, your superior bestows on you an [Orzhov charm](3-Mechanics/CLI/rewards/orzhov-charm-ggr.md) (described in "chapter 5"). In addition, you have the authority to demand service from borrowers, including [indentured spirits](3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md). But that's an authority you must use sparingly, since their service counts as credit to their debt, and it's in the guild's interest to keep borrowers in debt.
 
 #### Rank 3: Ministrant
 
@@ -1157,23 +1157,23 @@ When you're sent on a mission that poses a potential threat, your superior besto
 
 The rank of ministrant is the highest position anyone can hope to attain without being born into the guild. As a ministrant, you study finance, while managing the syndics and knights under your control. Between adventures, you can now maintain a wealthy lifestyle.
 
-You are given a [servitor thrull](/3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md) that is yours to command. If it is killed, your pontiff gives you a new one at their discretion, possibly up to `dice:1d4|noform|noparens|avg` (`1d4`) weeks later. You also have a staff of `dice:2d4|noform|noparens|avg` (`2d4`) knights and `dice:4d8|noform|noparens|avg` (`4d8`) syndics under your command. You can order them only to carry out tasks that contribute to the work your pontiff assigns to you. The duty of protecting you from physical harm is always appropriate service for your knights, however. Your knights can be [knights](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) or [priests](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md), and your syndics are either [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) or [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) (stat blocks for them appear in the "Monster Manual").
+You are given a [servitor thrull](3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md) that is yours to command. If it is killed, your pontiff gives you a new one at their discretion, possibly up to `1d4` weeks later. You also have a staff of `2d4` knights and `4d8` syndics under your command. You can order them only to carry out tasks that contribute to the work your pontiff assigns to you. The duty of protecting you from physical harm is always appropriate service for your knights, however. Your knights can be knights or priests, and your syndics are either nobles or acolytes (stat blocks for them appear in the "Monster Manual").
 
 #### Rank 4: Pontiff
 
 *Prerequisite: Rank 3 and renown 50 or higher in the Orzhov Syndicate, Orzhov birth*
 
-As a pontiff, you are one of the executive managers in charge of enacting the will of the Ghost Council. For that purpose, you have a staff of `dice:2d6|noform|noparens|avg` (`2d6`) ministrants (use the [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) or [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) stat blocks from the "Monster Manual" to represent them), with their attendant knights and syndics as described for rank 3. You have access to `dice:2d4|noform|noparens|avg` (`2d4`) [servitor thrulls](/3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md) and [winged thrulls](/3-Mechanics/CLI/bestiary/construct/winged-thrull-ggr.md) at any given time, to carry messages and perform menial tasks for you. You also gain the occasional privilege of speaking with members of the Obzedat. Between adventures, you can maintain an aristocratic lifestyle.
+As a pontiff, you are one of the executive managers in charge of enacting the will of the Ghost Council. For that purpose, you have a staff of `2d6` ministrants (use the mage or priest stat blocks from the "Monster Manual" to represent them), with their attendant knights and syndics as described for rank 3. You have access to `2d4` [servitor thrulls](3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md) and [winged thrulls](3-Mechanics/CLI/bestiary/construct/winged-thrull-ggr.md) at any given time, to carry messages and perform menial tasks for you. You also gain the occasional privilege of speaking with members of the Obzedat. Between adventures, you can maintain an aristocratic lifestyle.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/045-232.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/045-232.webp#center)
 
 #### Enemies and Allies
 
-A syndicate built on a foundation of exploitation and extortion can't rely on alliances. The Orzhov appreciate certain aspects of other guilds' work and missions, but they treat other guilds as resources to be plundered. In general, the Orzhov view guilds that promote order and stability (Azorius, Boros, and Selesnya) more kindly than guilds that sow chaos and destruction (such as Golgari and [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)).
+A syndicate built on a foundation of exploitation and extortion can't rely on alliances. The Orzhov appreciate certain aspects of other guilds' work and missions, but they treat other guilds as resources to be plundered. In general, the Orzhov view guilds that promote order and stability (Azorius, Boros, and Selesnya) more kindly than guilds that sow chaos and destruction (such as Golgari and [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)).
 
 Sometimes adherence to order can get in the way of an efficient crime operation, though, and that's when the Orzhov part ways with the other law-and-order guilds—especially the Azorius. Any guild that obstructs the Orzhov from amassing more wealth is an enemy, whether the disruption comes from horning in on Orzhov operations or enforcing laws against racketeering.
 
-The best way to secure individual allies from other guilds is to make them owe you something. Borrowers seldom make friendly or especially loyal allies, but they can be useful pawns. You might form a genuine alliance with members of other guilds if you share a common enemy: the overreaching Azorius or Boros, the spies of the Dimir or assassins of the Golgari, or the rampages and excesses of the Gruul and [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md). Alternatively, you might team up with members of a chaotic guild to bring down an opponent that is causing too much trouble for Orzhov operations.
+The best way to secure individual allies from other guilds is to make them owe you something. Borrowers seldom make friendly or especially loyal allies, but they can be useful pawns. You might form a genuine alliance with members of other guilds if you share a common enemy: the overreaching Azorius or Boros, the spies of the Dimir or assassins of the Golgari, or the rampages and excesses of the Gruul and [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md). Alternatively, you might team up with members of a chaotic guild to bring down an opponent that is causing too much trouble for Orzhov operations.
 
 > [!note] The Orzhov View on Other Guilds
 > 
@@ -1192,21 +1192,21 @@ The best way to secure individual allies from other guilds is to make them owe y
 
 ## Cult of Rakdos
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/046-246.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/046-246.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
-> Jace walked into the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) club, pushing into a wall of scents and sounds. The ceilings were surprisingly high inside, draped with banners and spiked chains. An impish creature hooted as it dangled from a high wire while a man in leather chaps swallowed orbs of fire and breathed them back out through his snaggly teeth. Scarred, black-scaled drakes fought viciously in cages that swung from the ceiling, and the stink of sweat and singed flesh wafted from adjoining alcoves. Against the wall stood an enormous sentry, somewhere along the spectrum between rotund man and compact giant, dressed in what looked like the motley of a harlequin jester crossed with barbed wire.
+> Jace walked into the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) club, pushing into a wall of scents and sounds. The ceilings were surprisingly high inside, draped with banners and spiked chains. An impish creature hooted as it dangled from a high wire while a man in leather chaps swallowed orbs of fire and breathed them back out through his snaggly teeth. Scarred, black-scaled drakes fought viciously in cages that swung from the ceiling, and the stink of sweat and singed flesh wafted from adjoining alcoves. Against the wall stood an enormous sentry, somewhere along the spectrum between rotund man and compact giant, dressed in what looked like the motley of a harlequin jester crossed with barbed wire.
 
-Tomorrow is an illusion; everything is ridiculous. Members of the Cult of Rakdos have witnessed the grandiose speeches and self-important plans of other guilds and concluded that their rivals take themselves far too seriously. Since death comes for everyone, and since order tends inevitably toward chaos, the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) believe that unrestrained, moment-to-moment hedonism is the only sane way to live. Of course, few other Ravnicans would describe the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) as sane.
+Tomorrow is an illusion; everything is ridiculous. Members of the Cult of Rakdos have witnessed the grandiose speeches and self-important plans of other guilds and concluded that their rivals take themselves far too seriously. Since death comes for everyone, and since order tends inevitably toward chaos, the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) believe that unrestrained, moment-to-moment hedonism is the only sane way to live. Of course, few other Ravnicans would describe the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) as sane.
 
-The Cult of Rakdos bears the name of the demon lord who founded it. As laid out in the Guildpact, the guild was intended to fill roles concerning entertainment, mining, and manual labor. Some argue that any effort to give a demonic cult a respectable role in society was doomed to failure, but the cult remains part of Ravnica's social fabric nevertheless. The Guildpact prohibits the cult's extermination, and its entertainments—even as dark and destructive as they are—hold broad appeal. From rowdy mobs who love to see the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) skewer the powerful elites to decadent socialites who come to the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) for illicit amusements, most of Ravnica's people don't really want the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) to go away, as much as they might publicly protest otherwise.
+The Cult of Rakdos bears the name of the demon lord who founded it. As laid out in the Guildpact, the guild was intended to fill roles concerning entertainment, mining, and manual labor. Some argue that any effort to give a demonic cult a respectable role in society was doomed to failure, but the cult remains part of Ravnica's social fabric nevertheless. The Guildpact prohibits the cult's extermination, and its entertainments—even as dark and destructive as they are—hold broad appeal. From rowdy mobs who love to see the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) skewer the powerful elites to decadent socialites who come to the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) for illicit amusements, most of Ravnica's people don't really want the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) to go away, as much as they might publicly protest otherwise.
 
 ### Inside the Cult
 
-As one of Ravnica's original guild founders, the demon [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) has been part of Ravnica for millennia. Members of other guilds know [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) through his reputation for capricious cruelty and megalomania, but those who join the guild idolize him for his magnetic presence, which inspires art and encourages utter wantonness. Because [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) finds destruction entertaining, his cultists incorporate deadly acts into their performances in hopes of catching his eye and earning his favor.
+As one of Ravnica's original guild founders, the demon [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) has been part of Ravnica for millennia. Members of other guilds know [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) through his reputation for capricious cruelty and megalomania, but those who join the guild idolize him for his magnetic presence, which inspires art and encourages utter wantonness. Because [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) finds destruction entertaining, his cultists incorporate deadly acts into their performances in hopes of catching his eye and earning his favor.
 
-Stages for [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performances appear on streets and plazas throughout Ravnica every night, and they're gone by morning—carried to and from on the backs of giants. Permanent establishments that cater to dark desires are tucked away in the seediest neighborhoods of the city, such as the Smelting Quarter in Precinct Six of the Tenth District.
+Stages for [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performances appear on streets and plazas throughout Ravnica every night, and they're gone by morning—carried to and from on the backs of giants. Permanent establishments that cater to dark desires are tucked away in the seediest neighborhoods of the city, such as the Smelting Quarter in Precinct Six of the Tenth District.
 
 #### Goals of the Rakdos
 
@@ -1214,13 +1214,13 @@ The Cult of Rakdos is centered on a demon lord who exemplifies the concepts of c
 
 The cult's chaotic nature fuels its passion, impulsiveness, and obsession with freedom. A guild of unbridled hedonism, it does what it wants, driven by base desires and a strong streak of cruelty.
 
-The Cult of Rakdos was originally recognized as a guild as part of an effort to channel the impulses of demons, giants, ogres, and humans into an acceptable direction. That effort has never been completely successful. Now, as tension builds in Ravnica and several guilds attempt to crack down on chaos and criminal activity, the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cult reacts to this building pressure with increasing violence.
+The Cult of Rakdos was originally recognized as a guild as part of an effort to channel the impulses of demons, giants, ogres, and humans into an acceptable direction. That effort has never been completely successful. Now, as tension builds in Ravnica and several guilds attempt to crack down on chaos and criminal activity, the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cult reacts to this building pressure with increasing violence.
 
 The Cult of Rakdos already serves a megalomaniacal demon of chaos, so its members have no interest in seeing any other ambitious figure achieve supreme rulership over Ravnica. They fear that any other guild might gain enough power to overwhelm all the others and impose its own values on everyone. For this reason, they focus their efforts on subverting other guilds' schemes, by undermining popular and powerful leaders and interfering—often violently—with any effort to build a centralized concentration of authority.
 
-The Azorius Senate currently stands as the greatest threat to the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) way of life. The cult targets Azorius senators and arresters for ridicule, harassment, and occasionally assassination. The Boros Legion's zealous pursuit of order and justice poses a similar threat. Although Boros's attention is focused on the Gruul at the moment, [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cultists are well aware that any sufficiently disruptive performance with a high enough body count could bring the wrath of the legion down on their heads. The overreaching of the Azorius and the self-righteous wrath of the Boros engender true fear in the anarchic [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cultists, and the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) respond to fear with bloodshed.
+The Azorius Senate currently stands as the greatest threat to the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) way of life. The cult targets Azorius senators and arresters for ridicule, harassment, and occasionally assassination. The Boros Legion's zealous pursuit of order and justice poses a similar threat. Although Boros's attention is focused on the Gruul at the moment, [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cultists are well aware that any sufficiently disruptive performance with a high enough body count could bring the wrath of the legion down on their heads. The overreaching of the Azorius and the self-righteous wrath of the Boros engender true fear in the anarchic [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cultists, and the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) respond to fear with bloodshed.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/047-233.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/047-233.webp#center)
 
 ### Rakdos Characters
 
@@ -1230,7 +1230,7 @@ The Azorius Senate currently stands as the greatest threat to the [Rakdos](/3-Me
 
 **Suggested Classes**: Barbarian, bard, fighter, warlock
 
-You might enjoy playing a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) character if any of the following sentences describe you:
+You might enjoy playing a [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) character if any of the following sentences describe you:
 
 - You enjoy mayhem.  
 - You like playing showy, dramatic characters who are often the center of attention.  
@@ -1241,33 +1241,33 @@ You might enjoy playing a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) 
 
 The Cult of Rakdos attracts misfits and malcontents, who can't abide the civilized norms of Ravnica, as well as wayward souls eager to idolize an ancient demon lord and partake in riots. However, what Ravnicans like most about the guild is that it has evolved into a roving circus that attracts hedonistic, anything-goes performers who really know how to put on a show.
 
-By the time you start your adventuring career, you no doubt have a great act ready to go, and you're champing at the spike-studded bit to get out there and show the world what you've got. But you must earn a place on the stage or in the ring, and that means first doing your part backstage to keep the show running. "Backstage" can also mean "out in the city," carrying out a variety of errands for people who have more pull than you. And with the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), such errands tend to look more like adventures than like shopping trips.
+By the time you start your adventuring career, you no doubt have a great act ready to go, and you're champing at the spike-studded bit to get out there and show the world what you've got. But you must earn a place on the stage or in the ring, and that means first doing your part backstage to keep the show running. "Backstage" can also mean "out in the city," carrying out a variety of errands for people who have more pull than you. And with the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), such errands tend to look more like adventures than like shopping trips.
 
-What does your chosen form of performance look like? What skills do you aspire to learn? Spikewheel acrobats, lampooners, fire jugglers, puppeteers, pain artists, noise musicians, and hellbeast riders form the heart of the cult's bizarre entertainments, putting on shows in guild-owned dark speakeasies and on portable stages in the streets. Performers called uncagers tend—and unleash—the variety of beasts and horrors used in [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) shows.
+What does your chosen form of performance look like? What skills do you aspire to learn? Spikewheel acrobats, lampooners, fire jugglers, puppeteers, pain artists, noise musicians, and hellbeast riders form the heart of the cult's bizarre entertainments, putting on shows in guild-owned dark speakeasies and on portable stages in the streets. Performers called uncagers tend—and unleash—the variety of beasts and horrors used in [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) shows.
 
-Other [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers are spellcasters of spectacular sort, using expressive, free-wheeling, and dangerous magic. These mages find inspiration in the responses expressed by witnesses of their magic. They can be equally gratified by howls of laughter or howls of horror—any attention, in their minds, is good attention.
+Other [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers are spellcasters of spectacular sort, using expressive, free-wheeling, and dangerous magic. These mages find inspiration in the responses expressed by witnesses of their magic. They can be equally gratified by howls of laughter or howls of horror—any attention, in their minds, is good attention.
 
-Most [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers are fighters of the Champion or Eldritch Knight archetype, barbarians of the Path of the Berserker, or rogues of the Thief or Assassin archetype. Spellcasting performers are often bards of the College of Valor or warlocks of the fiend (the demon lord [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)).
+Most [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers are fighters of the Champion or Eldritch Knight archetype, barbarians of the Path of the Berserker, or rogues of the Thief or Assassin archetype. Spellcasting performers are often bards of the College of Valor or warlocks of the fiend (the demon lord [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)).
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/049-235.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/049-235.webp#center)
 
-The [Rakdos Cultist](/3-Mechanics/CLI/backgrounds/rakdos-cultist-ggr.md) background is available for characters who are part of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) guild.
+The [Rakdos Cultist](3-Mechanics/CLI/backgrounds/rakdos-cultist-ggr.md) background is available for characters who are part of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) guild.
 
 #### A Rakdos Party
 
-A [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) adventuring party could operate as a performance troupe, performing a variety of activities under the cover of its nighttime shows. The master of ceremonies (bard) is the public face of the troupe, with a number of performers (fighters, barbarians, rogues, or warlocks) doing their own unique acts. A blood witch (warlock) might take the place of a spellcasting performer or assume the role of the master of ceremonies.
+A [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) adventuring party could operate as a performance troupe, performing a variety of activities under the cover of its nighttime shows. The master of ceremonies (bard) is the public face of the troupe, with a number of performers (fighters, barbarians, rogues, or warlocks) doing their own unique acts. A blood witch (warlock) might take the place of a spellcasting performer or assume the role of the master of ceremonies.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/050-247.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/050-247.webp#center)
 
 #### Rank and Renown
 
-The anarchic nature of the Cult of Rakdos—aside from the absolute rulership of [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself—makes rank a meaningless concept to the members of the guild. Nevertheless, renown matters: performers who are well known within the guild also tend to be well known outside the guild, which means larger audiences. Renown in the Cult of Rakdos is the difference between being a bit player in someone else's performance and being the ringmaster of your own show.
+The anarchic nature of the Cult of Rakdos—aside from the absolute rulership of [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself—makes rank a meaningless concept to the members of the guild. Nevertheless, renown matters: performers who are well known within the guild also tend to be well known outside the guild, which means larger audiences. Renown in the Cult of Rakdos is the difference between being a bit player in someone else's performance and being the ringmaster of your own show.
 
 #### Extra
 
 *Prerequisite: Renown 3 or higher in the Cult of Rakdos*
 
-You have proven yourself both useful and talented and have earned a place on stage. It's a small place, and a dangerous one—bit players like you are as likely to suffer injury or death during a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performance as audience members are. But that's the thrill of live theater!
+You have proven yourself both useful and talented and have earned a place on stage. It's a small place, and a dangerous one—bit players like you are as likely to suffer injury or death during a [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performance as audience members are. But that's the thrill of live theater!
 
 #### Sideshow Act
 
@@ -1275,15 +1275,15 @@ You have proven yourself both useful and talented and have earned a place on sta
 
 You have gained a reputation both within the Cult of Rakdos and (to some extent) outside it, though you are still a long way from achieving top billing. You might stage performances in back alleys and abandoned warehouses, with a handful of other performers helping to bring your vision to life.
 
-When you go on an adventure, you can call on `dice:1d4|noform|noparens|avg` (`1d4`) helpers—a mix of [cacklers](/3-Mechanics/CLI/bestiary/fiend/cackler-ggr.md), stage hands, or extras—to help you complete it. Use the stat blocks of [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) and [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) from the "Monster Manual" for the stage hands and extras, respectively.
+When you go on an adventure, you can call on `1d4` helpers—a mix of [cacklers](3-Mechanics/CLI/bestiary/fiend/cackler-ggr.md), stage hands, or extras—to help you complete it. Use the stat blocks of cultists and thugs from the "Monster Manual" for the stage hands and extras, respectively.
 
-Your status also means that you can venture into the depths of Rix Maadi, the lair of [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), to petition for a [Rakdos charm](/3-Mechanics/CLI/rewards/rakdos-charm-ggr.md) (described in "chapter 5"). [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) can grant a charm with barely a thought, but your station in the guild doesn't guarantee safe passage to and from the demon's presence.
+Your status also means that you can venture into the depths of Rix Maadi, the lair of [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), to petition for a [Rakdos charm](3-Mechanics/CLI/rewards/rakdos-charm-ggr.md) (described in "chapter 5"). [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) can grant a charm with barely a thought, but your station in the guild doesn't guarantee safe passage to and from the demon's presence.
 
 #### Blood Witch (Special Role)
 
 *Prerequisite: Renown 10 or higher in the Cult of Rakdos, the Spellcasting or Pact Magic class feature*
 
-The aggressive tormentors known as blood witches are the closest thing the Cult of Rakdos has to ranking officials. You can't personally mobilize large numbers of guild members, but individual performers, ogres, giants, and even demons are quick to obey your commands as long as they don't contradict the ethos of the guild or the will of [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself.
+The aggressive tormentors known as blood witches are the closest thing the Cult of Rakdos has to ranking officials. You can't personally mobilize large numbers of guild members, but individual performers, ogres, giants, and even demons are quick to obey your commands as long as they don't contradict the ethos of the guild or the will of [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself.
 
 When you become a blood witch, you are assigned to torment a particular enemy of the guild. This enemy can be an individual, a family, an organization, or even an abstract concept. Examples of blood witches include the Judge of the Judges, who targets the Azorius guildmaster; the Tormentor of the Wojek, who confounds Boros military intelligence efforts; and the Disintegrator of Law and Order, who undermines all efforts to uphold law.
 
@@ -1291,29 +1291,29 @@ When you become a blood witch, you are assigned to torment a particular enemy of
 
 *Prerequisite: Renown 25 or higher in the Cult of Rakdos*
 
-At last, you have the opportunity to display your genius to the masses. When you perform, you're the star of the show, the climax of a night of revelry. The rest of the guild regards you with admiration and more than a little envy, since crowds pack whatever venues you choose for your shows. [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself might even come to watch. You can count on the support of your ringmaster, and you can call on the aid of other performers in your troupe—just be careful not to turn your back on the ones who would kill in return for a moment in your spotlight.
+At last, you have the opportunity to display your genius to the masses. When you perform, you're the star of the show, the climax of a night of revelry. The rest of the guild regards you with admiration and more than a little envy, since crowds pack whatever venues you choose for your shows. [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself might even come to watch. You can count on the support of your ringmaster, and you can call on the aid of other performers in your troupe—just be careful not to turn your back on the ones who would kill in return for a moment in your spotlight.
 
-You can bring `dice:2d4|noform|noparens|avg` (`2d4`) [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers ([blade jugglers](/3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-blade-juggler-ggr.md), [fire eaters](/3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-fire-eater-ggr.md), or [high-wire acrobats](/3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-high-wire-acrobat-ggr.md)) and `dice:1d4|noform|noparens|avg` (`1d4`) [Rakdos lampooners](/3-Mechanics/CLI/bestiary/humanoid/rakdos-lampooner-ggr.md) with you when you're going on stage or heading out to riot on the streets.
+You can bring `2d4` [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers ([blade jugglers](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-blade-juggler-ggr.md), [fire eaters](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-fire-eater-ggr.md), or [high-wire acrobats](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-high-wire-acrobat-ggr.md)) and `1d4` [Rakdos lampooners](3-Mechanics/CLI/bestiary/humanoid/rakdos-lampooner-ggr.md) with you when you're going on stage or heading out to riot on the streets.
 
 #### Ringmaster
 
 *Prerequisite: Renown 50 or higher in the Cult of Rakdos*
 
-The show is yours to command. You determine what performers take center stage and when, and you design the exciting and bloody final act of the show—meaning that you decide who lives and who dies. You might adopt an ominous or overwrought title, such as Choreographer of Flame or the Dramaturge. A troupe of `dice:3d10+20|noform|noparens|avg` (`3d10 + 20`) [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers ([blade jugglers](/3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-blade-juggler-ggr.md), [fire eaters](/3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-fire-eater-ggr.md), or [high-wire acrobats](/3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-high-wire-acrobat-ggr.md)) is at your service, and you can call on `dice:2d4|noform|noparens|avg` (`2d4`) [blood witches](/3-Mechanics/CLI/bestiary/humanoid/blood-witch-ggr.md) to aid you with their magic. You're probably also considered a significant public enemy by the Azorius, but they can't arrest you if they can't catch you.
+The show is yours to command. You determine what performers take center stage and when, and you design the exciting and bloody final act of the show—meaning that you decide who lives and who dies. You might adopt an ominous or overwrought title, such as Choreographer of Flame or the Dramaturge. A troupe of `3d10 + 20` [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers ([blade jugglers](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-blade-juggler-ggr.md), [fire eaters](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-fire-eater-ggr.md), or [high-wire acrobats](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-high-wire-acrobat-ggr.md)) is at your service, and you can call on `2d4` [blood witches](3-Mechanics/CLI/bestiary/humanoid/blood-witch-ggr.md) to aid you with their magic. You're probably also considered a significant public enemy by the Azorius, but they can't arrest you if they can't catch you.
 
 #### Enemies and Allies
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/051-236.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/051-236.webp#center)
 
-A cult of demon worshipers doesn't make a lot of friends. Ideologically, the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) have the most in common with the Gruul and the Golgari; all three guilds have a desire to topple the structures of power in Ravnica. Of course, the guilds disagree about what (or who) should replace the existing structures.
+A cult of demon worshipers doesn't make a lot of friends. Ideologically, the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) have the most in common with the Gruul and the Golgari; all three guilds have a desire to topple the structures of power in Ravnica. Of course, the guilds disagree about what (or who) should replace the existing structures.
 
-Making the powerful look ridiculous lies at the heart of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performance philosophy. The bulk of the guild's aggression is directed toward guilds that have power and abuse it or guilds that make blatant bids for power. That's particularly true when powerful guilds—especially the Azorius—try to use their power to suppress the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md).
+Making the powerful look ridiculous lies at the heart of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performance philosophy. The bulk of the guild's aggression is directed toward guilds that have power and abuse it or guilds that make blatant bids for power. That's particularly true when powerful guilds—especially the Azorius—try to use their power to suppress the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md).
 
-Making the ridiculous powerful is the flip side of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) philosophy. Usually, this means elevating the status of the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)—and yourself—at the expense of others, but circumstances might lead you to cooperate with members of other guilds in pursuit of a common goal. For example, a power struggle in another guild can be an opportunity for you to install a sympathetic (or ineffectual) leader in that guild. Beyond that, other chaotic guilds have grudges against the law-enforcing guilds and would be happy to join your efforts to strike a blow against them.
+Making the ridiculous powerful is the flip side of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) philosophy. Usually, this means elevating the status of the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)—and yourself—at the expense of others, but circumstances might lead you to cooperate with members of other guilds in pursuit of a common goal. For example, a power struggle in another guild can be an opportunity for you to install a sympathetic (or ineffectual) leader in that guild. Beyond that, other chaotic guilds have grudges against the law-enforcing guilds and would be happy to join your efforts to strike a blow against them.
 
 > [!note] The Rakdos View on Other Guilds
 > 
-> The Cult of Rakdos serves a demon lord who is feared, if not respected, by most citizens of Ravnica. Its cultists express their zeal through riotous, bloody, and deadly performances and revels. To other guilds, they are a fearsome threat to the city. To the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), the other guilds invest too much effort in a vain search for meaning and might.
+> The Cult of Rakdos serves a demon lord who is feared, if not respected, by most citizens of Ravnica. Its cultists express their zeal through riotous, bloody, and deadly performances and revels. To other guilds, they are a fearsome threat to the city. To the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), the other guilds invest too much effort in a vain search for meaning and might.
 > 
 > - **Azorius.** "Insufferable killjoys, and every artist's eternal enemy. Everyone thinks we are the guild of ultimate evil, but we're not the ones who want to monitor, legislate, and control your every move."  
 > - **Boros.** "We love a parade, but their demonstrations always come across as stiff. They're the deserving straight man for our every punch line."  
@@ -1321,28 +1321,28 @@ Making the ridiculous powerful is the flip side of the [Rakdos](/3-Mechanics/CLI
 > - **Golgari.** "We know they're tired of being the downtrodden, misunderstood misfits. If they're truly ready to anger the powers that be rather than lick boot soles, we invite them to run away and join our circus."  
 > - **Grull.** "Our well-meaning cousins in chaos! We want to take society down a peg, and they want to raze civilization to the dirt. That's practically common ground!"  
 > - **Izzet.** "Every performance benefits from prop masters and pyrotechnicians. They can be useful backstage, but they lack the charisma for the spotlight."  
-> - **Orzhov.** "The more the Orzhov try to coerce free people to act against their desires, the easier it is for [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) to gain recruits."  
+> - **Orzhov.** "The more the Orzhov try to coerce free people to act against their desires, the easier it is for [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) to gain recruits."  
 > - **Selesnya.** "Such crowds! They would scarcely notice if they were missing a few by night's end. They'd make the perfect audience, if only they had a better appreciation for bleeding-edge art."  
 > - **Simic.** "Imaginative creators who nevertheless fail to appreciate the meaning of their living creations—nor do they appreciate the tragic irony of not knowing how funny that is."  
 ^the-rakdos-view-on-other-guilds
 
 ## Selesnya Conclave
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/052-237.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/052-237.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
-> Selesnya troops poured into the streets, emptying the nature temples, wildlife preserves, and other green spaces controlled by the conclave. The centaurs' hooves clattered on the cobblestones and the wolf-riders bounded over stone bridges. Human and elf infantry flooded through the arteries of the district, streaming past intersections and flowing around buildings. Griffons and their riders swooped down out of a blanket of low clouds, strafing past the spires. Emmara rode on the shoulder of a massive creature made of a snarl of marble, wood, and vines, her hand resting on its great head. Two more of the nature behemoths strode ahead of her, swinging their limbs in slow motion, indenting the streets with their footfalls as the other Selesnya troops ran between their legs. Below her, Captain Calomir led the Selesnya army. He rode his white war rhino, driving the Selesnya ranks forward, guiding them through the streets toward the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) horde.
+> Selesnya troops poured into the streets, emptying the nature temples, wildlife preserves, and other green spaces controlled by the conclave. The centaurs' hooves clattered on the cobblestones and the wolf-riders bounded over stone bridges. Human and elf infantry flooded through the arteries of the district, streaming past intersections and flowing around buildings. Griffons and their riders swooped down out of a blanket of low clouds, strafing past the spires. Emmara rode on the shoulder of a massive creature made of a snarl of marble, wood, and vines, her hand resting on its great head. Two more of the nature behemoths strode ahead of her, swinging their limbs in slow motion, indenting the streets with their footfalls as the other Selesnya troops ran between their legs. Below her, Captain Calomir led the Selesnya army. He rode his white war rhino, driving the Selesnya ranks forward, guiding them through the streets toward the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) horde.
 
 Like a thriving garden, carefully tended and abundantly fertile, the communities of the Selesnya Conclave are a harmonious union of nature and civilization. The members of the conclave dream of embracing all of Ravnica in their peaceful union. In the meantime, they are growing an army, preparing to resist the ambition and destructive impulses of the other guilds and fight to defend their way of life.
 
-At the heart of the Selesnya faith and philosophy is the Worldsoul, called Mat'Selesnya, which its devotees believe to be a manifestation of nature itself. At the signing of the original Guildpact, Mat'Selesnya was embodied in an elemental form and acted as the guild's first guildmaster. The current guildmaster, [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md)—three dryads fused together with Mat'Selesnya into a single being—is said to embody the will of the Worldsoul in a similar way. The original mission of the conclave involved conservation and charity, but its focus has long been on expanding its community, in which all members are cared for and nature is preserved in harmony with civilization.
+At the heart of the Selesnya faith and philosophy is the Worldsoul, called Mat'Selesnya, which its devotees believe to be a manifestation of nature itself. At the signing of the original Guildpact, Mat'Selesnya was embodied in an elemental form and acted as the guild's first guildmaster. The current guildmaster, [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md)—three dryads fused together with Mat'Selesnya into a single being—is said to embody the will of the Worldsoul in a similar way. The original mission of the conclave involved conservation and charity, but its focus has long been on expanding its community, in which all members are cared for and nature is preserved in harmony with civilization.
 
 ### Inside the Conclave
 
 The Selesnya Conclave is organized into enclaves called vernadi, which are communes built around central trees. The vernadi are smaller versions of the guildhall, the great city-tree Vitu-Ghazi. A dryad, called a voda, is called forth from that central tree to be the leader of the community, connecting the vernadi and its devotees to the Worldsoul and uniting them with the will of the entire conclave.
 
-A voda is accessible to all the guild members in her care. You have regular contact with your voda, who knows your name and has a good idea of your interests, goals, and strengths. And since your voda is mystically linked to the guildmaster, [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md), through communion with the Worldsoul, it's safe to assume that [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) knows who you are as well.
+A voda is accessible to all the guild members in her care. You have regular contact with your voda, who knows your name and has a good idea of your interests, goals, and strengths. And since your voda is mystically linked to the guildmaster, [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md), through communion with the Worldsoul, it's safe to assume that [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) knows who you are as well.
 
 In addition to the voda, military and religious leaders in each vernadi regularly communicate with its members. Ordinary members of the conclave spend a few hours every day training with a military instructor and studying with a religious teacher.
 
@@ -1360,7 +1360,7 @@ The greatest danger that Selesnya faces lies in the ambitions of other guilds, w
 
 ### Selesnya Characters
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/053-238.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/053-238.webp#center)
 
 **Alignment**: Usually good, often neutral
 
@@ -1391,9 +1391,9 @@ Selesnya looks from the outside like a peaceful community, but it is also an arm
 
 If you are a druid (perhaps of the Circle of the Land), a cleric (of the Life or the Nature Domain), a warlock with the Archfey (Mat'Selesnya) as a patron, or a devout monk (who might follow the Way of the Open Hand), you might be drawn to a role of religious leadership. These leaders mediate the relationship between the members of the conclave and the voice of Mat'Selesnya. A number of special roles will be available to you as you establish your place. You might hope to carry the message of the conclave out into the world as an evangel, and great religious leaders are honored with the title of hierarch.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/055-240.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/055-240.webp#center)
 
-The [Selesnya Initiate](/3-Mechanics/CLI/backgrounds/selesnya-initiate-ggr.md) background is available for characters who are part of the Selesnya guild.
+The [Selesnya Initiate](3-Mechanics/CLI/backgrounds/selesnya-initiate-ggr.md) background is available for characters who are part of the Selesnya guild.
 
 #### A Selesnya Party
 
@@ -1401,7 +1401,7 @@ An adventuring party is a community in itself, a symbiotic group in which each i
 
 #### Rank and Renown
 
-The Selesnya Conclave doesn't classify its members in a rigid hierarchy, because doing that would encourage individuals to seek to rise above the rest of the community and put their desires above the good of the whole. Thus, aside from the leadership of [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) over the whole guild, and each voda over her vernadi, the members of the conclave are distinguished mainly by the diverse roles they fill instead of by rank or status.
+The Selesnya Conclave doesn't classify its members in a rigid hierarchy, because doing that would encourage individuals to seek to rise above the rest of the community and put their desires above the good of the whole. Thus, aside from the leadership of [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) over the whole guild, and each voda over her vernadi, the members of the conclave are distinguished mainly by the diverse roles they fill instead of by rank or status.
 
 Indeed, many Selesnya initiates never leave that basic role. They have discerned their purpose, and it is to live a proper life in support of the conclave, without pursuing any kind of prestigious role. But if you achieve greater renown in the guild, a variety of special roles become available to you.
 
@@ -1421,13 +1421,13 @@ When you become an evangel, you gain one additional contact from a guild other t
 
 Votaries are soldiers who protect the vernadi gardens in the area immediately around its central tree. As a votary, you are usually assigned to guard duty, but your voda might also assign you to special missions that require strength of arms.
 
-While you are in the garden you're sworn to protect, the plants obey your word, allowing you to transform the foliage into `dice:1d6|noform|noparens|avg` (`1d6`) [awakened shrubs](/3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md) or 1 [awakened tree](/3-Mechanics/CLI/bestiary/plant/awakened-tree-xmm.md) (both described in the "Monster Manual") for as long as a threat to the garden persists. These awakened plants won't leave the garden.
+While you are in the garden you're sworn to protect, the plants obey your word, allowing you to transform the foliage into `1d6` awakened shrubs or 1 awakened tree (both described in the "Monster Manual") for as long as a threat to the garden persists. These awakened plants won't leave the garden.
 
 #### Sagittar (Special Role)
 
 *Prerequisite: Renown 3 or higher in the Selesnya Conclave, proficiency with the longbow*
 
-Sagittars are archers who defend key guild locations, including the guildhall at Vitu-Ghazi. Their range and accuracy are so great that a common saying has arisen among Ravnicans: "Sagittars aim their bows using maps." If a conclave mission would benefit from the support of disciplined archers, [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) herself might call on sagittars to render aid.
+Sagittars are archers who defend key guild locations, including the guildhall at Vitu-Ghazi. Their range and accuracy are so great that a common saying has arisen among Ravnicans: "Sagittars aim their bows using maps." If a conclave mission would benefit from the support of disciplined archers, [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) herself might call on sagittars to render aid.
 
 As a sagittar, you never have to want for arrows; the guild provides arrows to you at no cost.
 
@@ -1435,13 +1435,13 @@ As a sagittar, you never have to want for arrows; the guild provides arrows to y
 
 *Prerequisite: Renown 10 or higher in the Selesnya Conclave*
 
-You can request that the voda of your vernadi bestow a [Selesnya charm](/3-Mechanics/CLI/rewards/selesnya-charm-ggr.md) (described in "chapter 5") on you before you undertake any mission on the guild's behalf.
+You can request that the voda of your vernadi bestow a [Selesnya charm](3-Mechanics/CLI/rewards/selesnya-charm-ggr.md) (described in "chapter 5") on you before you undertake any mission on the guild's behalf.
 
 #### Equenaut (Special Role)
 
-*Prerequisite: Renown 10 or higher in the Selesnya Conclave, proficiency in [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)*
+*Prerequisite: Renown 10 or higher in the Selesnya Conclave, proficiency in Animal Handling*
 
-Equenauts are knights who ride pegasi and serve as warriors and scouts. In addition to surveilling enemy forces and terrain, they are also on the lookout for places where a new vernadi can take root. As an equenaut, you are sometimes called on to take part in military activity, but you are free to pursue your vision of how to serve Mat'Selesnya—from the back of your [pegasus](/3-Mechanics/CLI/bestiary/celestial/pegasus-xmm.md) mount (see the stat block in the "Monster Manual").
+Equenauts are knights who ride pegasi and serve as warriors and scouts. In addition to surveilling enemy forces and terrain, they are also on the lookout for places where a new vernadi can take root. As an equenaut, you are sometimes called on to take part in military activity, but you are free to pursue your vision of how to serve Mat'Selesnya—from the back of your pegasus mount (see the stat block in the "Monster Manual").
 
 Your mount effectively belongs to you, entrusted to your care. If it comes to harm through your negligence or mistreatment, you might be punished—perhaps to the extent of losing your position as an equenaut.
 
@@ -1451,7 +1451,7 @@ Your mount effectively belongs to you, entrusted to your care. If it comes to ha
 
 The ranks of the Selesnya clergy aren't hierarchical, yet you are honored with the title of hierarch. Hierarchs lead rites that invoke the blessing of Mat'Selesnya, bringing Selesnya's initiates into closer communion with the Worldsoul and with each other. They are assisted in these rites by less experienced clergy.
 
-As a hierarch, you can call on the aid of `dice:1d4|noform|noparens|avg` (`1d4`) [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) (see the stat block in the "Monster Manual"), even leading them on missions.
+As a hierarch, you can call on the aid of `1d4` acolytes (see the stat block in the "Monster Manual"), even leading them on missions.
 
 You have an important voice in decision-making for your vernadi, and you are expected to offer advice and opinions to your voda when requested.
 
@@ -1461,19 +1461,19 @@ Your position within the guild and your vernadi gives you access to superior foo
 
 *Prerequisite: Renown 25 or higher in the Selesnya Conclave, 10th level or higher*
 
-The Ledev guardians are knights who were originally protectors of Ravnica's roadways but now serve the Selesnya as champions. Their ranks include a number of centaurs. The humanoids among them ride dire wolves, which they raise from pups to forge close bonds between rider and mount. If you have a [dire wolf](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) mount, it effectively belongs to you (see the "Monster Manual" for the stat block).
+The Ledev guardians are knights who were originally protectors of Ravnica's roadways but now serve the Selesnya as champions. Their ranks include a number of centaurs. The humanoids among them ride dire wolves, which they raise from pups to forge close bonds between rider and mount. If you have a dire wolf mount, it effectively belongs to you (see the "Monster Manual" for the stat block).
 
 #### Dignitary (Special Role)
 
 *Prerequisite: Renown 50 or higher in the Selesnya Conclave*
 
-Chosen by [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) herself, dignitaries act as emissaries in dealing with other guilds. As a dignitary, you must be available when [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) has need of your service, but you have great latitude to pursue your vision of the guild's goals. You can call on `dice:10d10|noform|noparens|avg` (`10d10`) Selesnya initiates to support you in your missions for [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md), and `dice:8d10|noform|noparens|avg` (`8d10`) initiates for a mission of your own devising. These initiates are [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) (both described in the "Monster Manual"), or [soldiers](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md).
+Chosen by [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) herself, dignitaries act as emissaries in dealing with other guilds. As a dignitary, you must be available when [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md) has need of your service, but you have great latitude to pursue your vision of the guild's goals. You can call on `10d10` Selesnya initiates to support you in your missions for [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md), and `8d10` initiates for a mission of your own devising. These initiates are acolytes, scouts (both described in the "Monster Manual"), or [soldiers](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md).
 
 Your position gives you access to the best food and lodging, the equivalent of a wealthy lifestyle.
 
 #### Enemies and Allies
 
-The Selesnya philosophy is one that embraces all of Ravnica. Everyone is a potential ally, until the moment they demonstrate their hostility to the conclave or the will of the Worldsoul. The Selesnya have difficulty with the riotous [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), the sinister Dimir, and the chaotic Izzet, but their focus on ordered community and verdant nature gives them some amount of common ground with every other guild.
+The Selesnya philosophy is one that embraces all of Ravnica. Everyone is a potential ally, until the moment they demonstrate their hostility to the conclave or the will of the Worldsoul. The Selesnya have difficulty with the riotous [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), the sinister Dimir, and the chaotic Izzet, but their focus on ordered community and verdant nature gives them some amount of common ground with every other guild.
 
 Any guild can become an enemy of the conclave, though, if its guildmaster's ambitions—or rogue agents within the guild—upset the balance of power on Ravnica. From the other side, many other guilds see the Selesnya as a quiet threat and seek to diminish its strength before its numbers grow out of control, so as a member of the conclave you are duty-bound to oppose their operations of sabotage. The wanton plunder of Ravnica's natural resources can also provoke the Selesnya to take action.
 
@@ -1494,11 +1494,11 @@ When members of other guilds pursue noble aims—promoting peace, strengthening 
 > - **Simic.** "They chart a twisted course of warping and mangling life and nature. Yes, we must grow and adapt, but nature will take its own time in completing that task."  
 ^the-selesnya-view-on-other-guilds
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/056-241.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/056-241.webp#center)
 
 ## Simic Combine
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/057-242.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/057-242.webp#center)
 
 > [!quote] A quote from Doug Beyer  
 > 
@@ -1512,7 +1512,7 @@ Little is known about the combine's founder, except that this individual's first
 
 ### Inside the Combine
 
-Vast sinkholes called zonots are the primary geographic divisions among the Simic. Each zonot pierces layer upon layer of crumbled city as it descends deep below the surface and connects to ancient, long-forgotten ocean waters. A zonot is a distinct Simic habitat with its own culture and ecosystem, as well as a leader called a Speaker. The Speakers of all nine zonots form the Speakers' Chamber, and they elect a Prime Speaker from among them to serve as the Simic guildmaster. [Zegana](/3-Mechanics/CLI/bestiary/npc/zegana-ggr.md), the current Prime Speaker, is the Speaker of Zonot One, which is located in a remote, sparsely inhabited part of Ravnica far from the political activity of the Tenth District.
+Vast sinkholes called zonots are the primary geographic divisions among the Simic. Each zonot pierces layer upon layer of crumbled city as it descends deep below the surface and connects to ancient, long-forgotten ocean waters. A zonot is a distinct Simic habitat with its own culture and ecosystem, as well as a leader called a Speaker. The Speakers of all nine zonots form the Speakers' Chamber, and they elect a Prime Speaker from among them to serve as the Simic guildmaster. [Zegana](3-Mechanics/CLI/bestiary/npc/zegana-ggr.md), the current Prime Speaker, is the Speaker of Zonot One, which is located in a remote, sparsely inhabited part of Ravnica far from the political activity of the Tenth District.
 
 The Simic guildhall, Zameck, is located in Zonot Seven within Precinct Five of Ravnica's Tenth District. A huge chamber just below the street serves as the gathering place for all the Speakers, as well as a location where non-Simic visitors can meet with the Prime Speaker or other combine emissaries.
 
@@ -1524,11 +1524,11 @@ The Holdfast principle, named for the biological mechanism that keeps kelp and s
 
 The Upwelling principle, named for the phenomenon of nutrient-rich water rising to the ocean surface, advocates that the new and enlivened should replace the old and depleted in an unending cycle, bringing constant refreshment and renewal. This principle accounts for the combine's analytical bent and its emphasis on knowledge as a means of transformation. Learning the secrets of the universe lets you shape the world as you desire. The Upwelling encourages every creature to discover its full potential.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/058-243.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/058-243.webp#center)
 
 The Holdfast encourages the Simic to promote nature; the Upwelling urges them to perfect nature. The end result is the same: a hastened system of evolution that brings out the best in every creature's nature. But different factions within the Simic Combine interpret these principles in their own ways.
 
-The leadership of the Simic Combine represents the traditional philosophy of the Utopians. Their vision is of an ideal world in which nature and civilization exist in balance, in which natural life adapts to life in the midst of modern civilization and the civilized world adapts to accommodate these creatures. Utopians generally interpret the Holdfast principle as being about staying rooted in nature, and the Upwelling as concerned with slow, predictable, cyclical improvement. So they remain hidden in their subaquatic laboratories, pursuing their research while isolated from the volatile interrelationships among the other guilds. Prime Speaker [Zegana](/3-Mechanics/CLI/bestiary/npc/zegana-ggr.md) encourages that isolationist attitude.
+The leadership of the Simic Combine represents the traditional philosophy of the Utopians. Their vision is of an ideal world in which nature and civilization exist in balance, in which natural life adapts to life in the midst of modern civilization and the civilized world adapts to accommodate these creatures. Utopians generally interpret the Holdfast principle as being about staying rooted in nature, and the Upwelling as concerned with slow, predictable, cyclical improvement. So they remain hidden in their subaquatic laboratories, pursuing their research while isolated from the volatile interrelationships among the other guilds. Prime Speaker [Zegana](3-Mechanics/CLI/bestiary/npc/zegana-ggr.md) encourages that isolationist attitude.
 
 At the same time, a growing faction within the Simic believes that an all-out war among the guilds is inevitable, given the growing unrest in the city. These members, the Adaptationists, believe that the guilds exist in a fragile ecosystem in which the slightest imbalance can have cascading effects. With an absent Living Guildpact failing to maintain the balance, only catastrophe can result. The Simic must change in order to survive, and slow, small steps in pursuit of an ideal vision aren't enough. The future of the guild is in imminent danger, and the Simic need to focus on survival. Adaptationists tend to interpret the Holdfast as being about defense and security, and the Upwelling as a call for sudden, disruptive growth.
 
@@ -1565,9 +1565,9 @@ If you are playing a Simic hybrid, you initially became involved in Simic resear
 
 You might instead choose an ascetic, contemplative life as a deepsage (perhaps as a wizard or monk). You would devote yourself to meditating on the philosophical principles of the Holdfast and the Upwelling, a pair of complementary ideas that describe the Simic approach to nature and the city. Deepsages inscribe short philosophical riddles, bordering on paradoxes, into shells, exoskeletons, and stones, and Simic guild members reflect on these sayings to advance their understanding of the combine's role in the world. Deepsage wizards typically specialize in the School of Conjuration, and deepsage monks follow the Way of the Four Elements (focusing on air and water over the other two elements).
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/059-244.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/059-244.webp#center)
 
-The [Simic Scientist](/3-Mechanics/CLI/backgrounds/simic-scientist-ggr.md) background is available for characters who are part of the Simic guild.
+The [Simic Scientist](3-Mechanics/CLI/backgrounds/simic-scientist-ggr.md) background is available for characters who are part of the Simic guild.
 
 #### A Simic Party
 
@@ -1583,9 +1583,9 @@ Tiers of responsibility and importance—functional ranks—create a hierarchy a
 
 As a technician, you can begin performing experiments, following the instructions of a researcher as you operate instruments, care for experimental subjects, extract samples of bodily fluids, and run errands up and down the zonot and out into the city. Such errands can bring you into contact with members of other guilds and lead to adventures.
 
-If you have any kind of pet, familiar, mount, or animal companion, you can add one random adaptation to it from the [Minor Adaptations](/3-Mechanics/CLI/tables/minor-adaptations-ggr.md) table. Doing so requires `dice:1d6|noform|noparens|avg` (`1d6`) days of work (8 hours per day) for each creature, and the work must be done in a Simic facility.
+If you have any kind of pet, familiar, mount, or animal companion, you can add one random adaptation to it from the [Minor Adaptations](3-Mechanics/CLI/tables/minor-adaptations-ggr.md) table. Doing so requires `1d6` days of work (8 hours per day) for each creature, and the work must be done in a Simic facility.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/060-245.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/060-245.webp#center)
 
 #### Rank 2: Researcher
 
@@ -1593,7 +1593,7 @@ If you have any kind of pet, familiar, mount, or animal companion, you can add o
 
 After doing your time as a technician, you are eligible to lead your own experiments. You must be associated with a clade or a project, and must work on experiments related to its primary focus under the general guidance of the clade or project leader. Project leaders are more hands-on, ensuring that your research contributes to reaching the immediate objective. Clade leaders check in from time to time, but they give you wide latitude to pursue your own experiments under the general aegis of the clade's interests.
 
-If your research requires it, your project leader or clade leader can equip you with a [Simic charm](/3-Mechanics/CLI/rewards/simic-charm-ggr.md) (described in "chapter 5") before you undertake a mission or an experiment. In addition, you can call on a [category 1 krasis](/3-Mechanics/CLI/bestiary/monstrosity/category-1-krasis-ggr.md) to assist you on any mission authorized by the guild. You choose the krasis's two adaptations.
+If your research requires it, your project leader or clade leader can equip you with a [Simic charm](3-Mechanics/CLI/rewards/simic-charm-ggr.md) (described in "chapter 5") before you undertake a mission or an experiment. In addition, you can call on a [category 1 krasis](3-Mechanics/CLI/bestiary/monstrosity/category-1-krasis-ggr.md) to assist you on any mission authorized by the guild. You choose the krasis's two adaptations.
 
 #### Luminary (Special Role)
 
@@ -1601,15 +1601,15 @@ If your research requires it, your project leader or clade leader can equip you 
 
 As a guardian, deepsage, or other non-scientist within the Simic, you don't progress through ranks, but as a luminary you might be entrusted with the leadership of guerrilla or espionage missions, with other Simic hybrid agents under your command. Or you might be respected as a wise and enlightened teacher.
 
-If your work for the guild requires it, a project leader, clade leader, or other superior can equip you with a [Simic charm](/3-Mechanics/CLI/rewards/simic-charm-ggr.md) (described in "chapter 5") before you undertake a mission or an experiment on the guild's behalf.
+If your work for the guild requires it, a project leader, clade leader, or other superior can equip you with a [Simic charm](3-Mechanics/CLI/rewards/simic-charm-ggr.md) (described in "chapter 5") before you undertake a mission or an experiment on the guild's behalf.
 
-In addition, when you're on guild business, you can call on the following Simic hybrid agents to assist you: one [hybrid brute](/3-Mechanics/CLI/bestiary/humanoid/hybrid-brute-ggr.md) or [hybrid flier](/3-Mechanics/CLI/bestiary/humanoid/hybrid-flier-ggr.md), up to two [hybrid poisoners](/3-Mechanics/CLI/bestiary/humanoid/hybrid-poisoner-ggr.md) or [hybrid shockers](/3-Mechanics/CLI/bestiary/humanoid/hybrid-shocker-ggr.md), or `dice:1d4|noform|noparens|avg` (`1d4`) [hybrid spies](/3-Mechanics/CLI/bestiary/humanoid/hybrid-spy-ggr.md).
+In addition, when you're on guild business, you can call on the following Simic hybrid agents to assist you: one [hybrid brute](3-Mechanics/CLI/bestiary/humanoid/hybrid-brute-ggr.md) or [hybrid flier](3-Mechanics/CLI/bestiary/humanoid/hybrid-flier-ggr.md), up to two [hybrid poisoners](3-Mechanics/CLI/bestiary/humanoid/hybrid-poisoner-ggr.md) or [hybrid shockers](3-Mechanics/CLI/bestiary/humanoid/hybrid-shocker-ggr.md), or `1d4` [hybrid spies](3-Mechanics/CLI/bestiary/humanoid/hybrid-spy-ggr.md).
 
 #### Rank 3: Project Leader
 
 *Prerequisite: Rank 2 and renown 25 or higher in the Simic Combine*
 
-A proven researcher, you are eligible to oversee your own project, directing the efforts of other researchers toward the solution of some problem facing the guild. The Speaker of your zonot gives you laboratory space, and you have a staff of `dice:3d12|noform|noparens|avg` (`3d12`) researchers (which use the stat blocks of [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) or [merfolk](/3-Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md) from the "Monster Manual"). You can have this staff work on projects for you, which can include the creation of a [category 2 krasis](/3-Mechanics/CLI/bestiary/monstrosity/category-2-krasis-ggr.md) (with [minor](/3-Mechanics/CLI/tables/minor-adaptations-ggr.md) or [major](/3-Mechanics/CLI/tables/major-adaptations-ggr.md) adaptations of your choosing, which you can then bring outside the laboratory on important business, ideally under carefully controlled conditions.
+A proven researcher, you are eligible to oversee your own project, directing the efforts of other researchers toward the solution of some problem facing the guild. The Speaker of your zonot gives you laboratory space, and you have a staff of `3d12` researchers (which use the stat blocks of commoners or merfolk from the "Monster Manual"). You can have this staff work on projects for you, which can include the creation of a [category 2 krasis](3-Mechanics/CLI/bestiary/monstrosity/category-2-krasis-ggr.md) (with [minor](3-Mechanics/CLI/tables/minor-adaptations-ggr.md) or [major](3-Mechanics/CLI/tables/major-adaptations-ggr.md) adaptations of your choosing, which you can then bring outside the laboratory on important business, ideally under carefully controlled conditions.
 
 Hosting the work of a successful and important project reflects well on the Speaker of a zonot, so your Speaker keeps a close eye on your work. On the positive side, you can count on access to the considerable resources of the zonot as long as your research is going well. On the other hand, you can expect your Speaker to try to meddle in your work to ensure that your efforts remain relevant to the overall goals of the Simic Combine.
 
@@ -1617,7 +1617,7 @@ Hosting the work of a successful and important project reflects well on the Spea
 
 *Prerequisite: Rank 2 and renown 50 or higher in the Simic Combine*
 
-As a famous researcher or a successful project leader, you stand ready to take on a supervisory role for an entire clade. New clades rarely form, so you must wait for your clade leader to retire (one way or another) before a position exists for you to fill, except in truly exceptional circumstances. Similar to a project leader, you are responsible for directing the efforts of researchers exploring a wide variety of projects related to the focus of your clade. Unless an experiment turns out to be especially interesting, these efforts can carry on without your supervision. If you need to, you can enlist the aid of `dice:5d12|noform|noparens|avg` (`5d12`) researchers (which use the stat blocks of [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) or [merfolk](/3-Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md) from the "Monster Manual"), and you can also request the support of hybrids, krasis, or any other creature associated with the Simic Combine (see the list in "chapter 6") from the Speaker of any zonot where the members of your clade live and work.
+As a famous researcher or a successful project leader, you stand ready to take on a supervisory role for an entire clade. New clades rarely form, so you must wait for your clade leader to retire (one way or another) before a position exists for you to fill, except in truly exceptional circumstances. Similar to a project leader, you are responsible for directing the efforts of researchers exploring a wide variety of projects related to the focus of your clade. Unless an experiment turns out to be especially interesting, these efforts can carry on without your supervision. If you need to, you can enlist the aid of `5d12` researchers (which use the stat blocks of commoners or merfolk from the "Monster Manual"), and you can also request the support of hybrids, krasis, or any other creature associated with the Simic Combine (see the list in "chapter 6") from the Speaker of any zonot where the members of your clade live and work.
 
 Because most clades span multiple zonots, you have status equal to the Speakers of the zonots. You have no voice on the Speakers' Chamber, unless you can persuade one or more of its members to speak on your behalf.
 
@@ -1635,7 +1635,7 @@ The Simic Combine has an affinity for guilds that care for the forces of nature,
 
 Any guild could break the peace and send the entire world spiraling into war, so all the guilds are potential enemies—particularly if they direct their aggression at the Simic Combine. The Golgari Swarm has launched a direct attack against Zonot Four (located in the Sixth District), and they could expand that attack to other zonots at any time. Azorius arresters are prying into all the zonots, looking for evidence of wrongdoing. Thus, the Simic efforts at preparing for war are in danger, and the need for those efforts to be brought to fruition could arise at any time.
 
-Your most obvious allies are those who seek to restrain the ambition of other guilds and maintain the balance of power. At various times, that category could include members of any other guild, particularly the Selesnya Conclave. Everyone (with the possible exception of the chaotic [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) and Gruul) has an occasional interest in maintaining the status quo, no matter how revolutionary that notion might seem at other times.
+Your most obvious allies are those who seek to restrain the ambition of other guilds and maintain the balance of power. At various times, that category could include members of any other guild, particularly the Selesnya Conclave. Everyone (with the possible exception of the chaotic [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) and Gruul) has an occasional interest in maintaining the status quo, no matter how revolutionary that notion might seem at other times.
 
 > [!note] The Simic View on Other Guilds
 > 
@@ -1646,8 +1646,8 @@ Your most obvious allies are those who seek to restrain the ambition of other gu
 > - **Dimir.** "We need not compete. Let them be, and they will let us be—but observe them closely."  
 > - **Golgari.** "Less an organization than an infestation. They are nearly as adaptable as we are, and they seem intent on competition. More than any other guild, they pressure us to improve."  
 > - **Grull.** "The Gruul conceive of nature only in terms of savagery and privation. But their ways are no less a response to civilization than our own. They will survive, barely, and perhaps one day they will understand."  
-> - **Izzet.** "The Izzet have spent ten thousand years mimicking the appearance of research, producing more pyrotechnics than progress. Surely that is a performance to rival the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)."  
+> - **Izzet.** "The Izzet have spent ten thousand years mimicking the appearance of research, producing more pyrotechnics than progress. Surely that is a performance to rival the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)."  
 > - **Orzhov.** "They hoard their treasure throughout their pointless lives and lengthy afterlives. With such riches, we could swiftly bring about a future in which gold is as irrelevant as death."  
-> - **Rakdos.** "Camouflage, mimicry, resilience, and versatility. If the guilds were species, we would count the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) among the most impressive. But they aren't, and that makes the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) far more erratic—and dangerous."  
+> - **Rakdos.** "Camouflage, mimicry, resilience, and versatility. If the guilds were species, we would count the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) among the most impressive. But they aren't, and that makes the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) far more erratic—and dangerous."  
 > - **Selesnya.** "Like us, they seek a synthesis between 'natural' and 'artificial' systems. Unlike us, they wish to achieve it by unconditional surrender. They are adequate partners in stable times, but in the present climate they have little to offer."  
 ^the-simic-view-on-other-guilds

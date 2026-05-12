@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/toa
-- new/reward/charm
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/reward/charm
 aliases:
-- Clay No-Face's Charm
+- "Clay No-Face's Charm"
 ---
 # Clay No-Face's Charm
 *Charm*  
@@ -33,7 +33,7 @@ title: Clay No-Face
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Condition Immunities** [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)
 ```
 ^statblock
 ````

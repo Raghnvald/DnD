@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Guild Adventures
+- "Guild Adventures"
 ---
 # Guild Adventures
 *Source: Eberron: Rising from the Last War p. 67* 
 
 **Guild Adventures**
-
-`dice: [](guild-adventures-erlw.md#^guild-adventures)`
 
 | dice: d10 | Adventures |
 |-----------|------------|

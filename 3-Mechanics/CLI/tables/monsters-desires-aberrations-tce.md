@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Aberrations
+- "Monsters' Desires; Aberrations"
 ---
 # Monsters' Desires; Aberrations
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Aberrations**
-
-`dice: [](monsters-desires-aberrations-tce.md#^aberrations)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/wondrous/ring
-aliases: 
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/unknown/magic
+- ttrpg-cli/item/wondrous/ring
+aliases:
 - "Stonky's ring"
 ---
 # Stonky's ring
@@ -17,6 +17,6 @@ aliases:
 
 While wearing this ring, you can cast the telekinesis spell at will, but you can target only objects that aren't being worn or carried.
 
-Any character who attunes to the ring gains control of Stonky's creations, though the [skitterwidgets](/3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) ignore commands spoken more than 30 feet away from them.
+Any character who attunes to the ring gains control of Stonky's creations, though the [skitterwidgets](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) ignore commands spoken more than 30 feet away from them.
 
 *Source: Candlekeep Mysteries p. 132*

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Religious Order Contact
+- "Religious Order Contact"
 ---
 # Religious Order Contact
 *Source: Tasha's Cauldron of Everything p. 99* 
 
 **Religious Order Contact**
-
-`dice: [](religious-order-contact-tce.md#^religious-order-contact)`
 
 | dice: d6 | Contact |
 |----------|---------|

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Maglubiyet
+aliases:
+- "Maglubiyet"
 ---
 # Maglubiyet
 *Source: Player's Handbook p. 296* 

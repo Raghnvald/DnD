@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/chondathan-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/chondathan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Darathra Shendrel
+- "Darathra Shendrel"
 ---
-# [Darathra Shendrel](3-Mechanics\CLI\bestiary\npc/darathra-shendrel-skt.md)
+# [Darathra Shendrel](3-Mechanics/CLI/bestiary/npc/darathra-shendrel-skt.md)
 *Source: Storm King's Thunder p. 253*  
 
 As the Lord Protector of Triboar and a secret agent of the Harpers, Darathra has sworn an oath to defend the town. She takes her duty very seriously. In addition to her gear, Darathra has an unarmored warhorse named Buster.
@@ -30,7 +30,7 @@ Flaw:"I refuse to back down. Push me, and I'll push back."
 "subtype": "Chondathan human"
 "alignment": "Lawful Good"
 "ac": !!int "14"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -43,20 +43,23 @@ Flaw:"I refuse to back down. Push me, and I'll push back."
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+2"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+2"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+4"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "traits":
-  - "desc": "Darathra has advantage on saving throws against being frightened"
+  - "desc": "Darathra has advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
     "name": "Brave"
   - "desc": "As the Lord Protector of Triboar and a secret agent of the Harpers, Darathra\
       \ has sworn an oath to defend the town. She takes her duty very seriously. In\
@@ -69,13 +72,13 @@ Flaw:"I refuse to back down. Push me, and I'll push back."
   - "desc": "Darathra makes two melee attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) slashing damage"
+      \ (2d6 + 3) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:*\
       \ 5 (1d10) piercing damage. Darathra carries twenty crossbow bolts."
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/darathra-shendrel-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/darathra-shendrel-skt.webp"
 ```
 ^statblock

@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Panther
+- "Panther"
 ---
-# [Panther](3-Mechanics\CLI\bestiary\beast/panther.md)
+# [Panther](3-Mechanics/CLI/bestiary/beast/panther.md)
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -36,33 +36,33 @@ aliases:
   - !!int "7"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The panther has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The panther has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "If the panther moves at least 20 feet straight toward a creature and\
       \ then hits it with a claw attack on the same turn, that target must succeed\
-      \ on a DC 12 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ If the target is [prone](/3-Mechanics/CLI/conditions.md#Prone), the panther\
+      \ on a DC 12 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If the target is [prone](3-Mechanics/CLI/rules/conditions.md#Prone), the panther\
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/panther.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/panther.webp"
 ```
 ^statblock
 

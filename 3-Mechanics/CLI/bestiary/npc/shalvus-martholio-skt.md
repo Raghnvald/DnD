@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/turami-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/turami-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shalvus Martholio
+- "Shalvus Martholio"
 ---
-# [Shalvus Martholio](3-Mechanics\CLI\bestiary\npc/shalvus-martholio-skt.md)
+# [Shalvus Martholio](3-Mechanics/CLI/bestiary/npc/shalvus-martholio-skt.md)
 *Source: Storm King's Thunder p. 250*  
 
 Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus with an important assignment: to figure out the best way by which Goldenfields can be brought under the Black Network's control. Shalvus believes that success will ensure his swift rise through the Zhentarim ranks.
@@ -30,7 +30,7 @@ Flaw:"I can't resist taking risks to feed my ambitions."
 "subtype": "Turami human"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "2"
@@ -43,25 +43,28 @@ Flaw:"I can't resist taking risks to feed my ambitions."
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish"
 "traits":
-  - "desc": "Shalvus deals an extra 7 (2d6) damage when he hits a target with a weapon\
-      \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of Shalvus that isn't incapacitated and Shalvus doesn't\
-      \ have disadvantage on the attack roll."
+  - "desc": "Shalvus deals an extra 7 (2d6) damage when he hits a target with a\
+      \ weapon attack and has advantage on the attack roll, or when the target is\
+      \ within 5 feet of an ally of Shalvus that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and Shalvus doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
   - "desc": "Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus\
       \ with an important assignment: to figure out the best way by which Goldenfields\
@@ -72,14 +75,15 @@ Flaw:"I can't resist taking risks to feed my ambitions."
       \ to feed my ambitions.\""
     "name": "Roleplaying Information"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage, or 4 (1d8) bludgeoning damage if used with both hands."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with both\
+      \ hands."
     "name": "Quarterstaff"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage. Shalvus carries ten crossbow bolts."
     "name": "Hand Crossbow"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/shalvus-martholio-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/shalvus-martholio-skt.webp"
 ```
 ^statblock

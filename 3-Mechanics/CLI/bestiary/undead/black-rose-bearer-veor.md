@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Rose Bearer
+- "Black Rose Bearer"
 ---
-# [Black Rose Bearer](3-Mechanics\CLI\bestiary\undead/black-rose-bearer-veor.md)
+# [Black Rose Bearer](3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md)
 *Source: Vecna: Eve of Ruin p. 208*  
 
 > [!quote] A quote from Common saying among the Knights of Solamnia  
@@ -44,14 +44,16 @@ A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerfu
   - !!int "5"
 "speed": "20 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "6"
 "traits":
   - "desc": "Whenever the bearer takes damage or makes a Strength or Dexterity saving\
       \ throw, roll a d6. On a 5 or 6, the bearer goes berserk. On each of its turns\
-      \ while berserk, the bearer has advantage on melee attack rolls, it can Dash\
+      \ while berserk, the bearer has advantage on melee attack rolls, it can [Dash](3-Mechanics/CLI/rules/actions.md#Dash)\
       \ as a bonus action, and it must attack the nearest creature it can see. If\
       \ no creature is near enough to move to and attack, the bearer attacks an object,\
       \ with preference for an object smaller than itself. Once the bearer goes berserk,\
@@ -71,6 +73,6 @@ A bearer's black rose is an homage to the tyrannical Lord Soth, the most powerfu
     "name": "Slam"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/black-rose-bearer-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/black-rose-bearer-veor.webp"
 ```
 ^statblock

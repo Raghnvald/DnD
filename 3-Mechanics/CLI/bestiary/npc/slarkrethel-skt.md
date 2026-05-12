@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/25
-- new/monster/size/gargantuan
-- new/monster/type/monstrosity/titan
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/25
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/monstrosity/titan
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Slarkrethel
+- "Slarkrethel"
 ---
-# [Slarkrethel](3-Mechanics\CLI\bestiary\npc/slarkrethel-skt.md)
+# [Slarkrethel](3-Mechanics/CLI/bestiary/npc/slarkrethel-skt.md)
 *Source: Storm King's Thunder p. 224*  
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
@@ -57,8 +57,10 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "intelligence": !!int "14"
   - "wisdom": !!int "12"
 "damage_immunities": "lightning; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "frightened, paralyzed"
-"senses": "truesight 120 ft., passive Perception 14"
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 14"
 "languages": "understands Abyssal, Celestial, Infernal, and Primordial but can't speak,\
   \ telepathy 120 ft."
 "cr": "25"
@@ -68,8 +70,9 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "desc": "Slarkrethel can breathe air and water."
     "name": "Amphibious"
   - "desc": "Slarkrethel ignores difficult terrain, and magical effects can't reduce\
-      \ its speed or cause it to be restrained. It can spend 5 feet of movement to\
-      \ escape from nonmagical restraints or being grappled."
+      \ its speed or cause it to be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
+      \ It can spend 5 feet of movement to escape from nonmagical restraints or being\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)."
     "name": "Freedom of Movement"
   - "desc": "Slarkrethel deals double damage to objects and structures."
     "name": "Siege Monster"
@@ -77,29 +80,31 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
   - "desc": "Slarkrethel makes three tentacle attacks, each of which it can replace\
       \ with one use of Fling."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 5 ft., one target. *Hit:* 23\
-      \ (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled\
-      \ by Slarkrethel, that creature is swallowed, and the grapple ends. While swallowed,\
-      \ the creature is blinded and restrained, it has total cover against attacks\
-      \ and other effects outside Slarkrethel, and it takes 42 (12d6) acid damage\
-      \ at the start of each of Slarkrethel's turns. If Slarkrethel takes 50 damage\
-      \ or more on a single turn from a creature inside it, Slarkrethel must succeed\
-      \ on a DC 25 Constitution saving throw at the end of that turn or regurgitate\
-      \ all swallowed creatures, which fall prone in a space within 10 feet of Slarkrethel.\
-      \ If Slarkrethel dies, a swallowed creature is no longer restrained by it and\
-      \ can escape from the corpse using 15 feet of movement, exiting prone."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 5 ft., one target. *Hit:*\
+      \ 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by Slarkrethel, that\
+      \ creature is swallowed, and the grapple ends. While swallowed, the creature\
+      \ is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ it has total cover against attacks and other effects outside Slarkrethel,\
+      \ and it takes 42 (12d6) acid damage at the start of each of Slarkrethel's\
+      \ turns. If Slarkrethel takes 50 damage or more on a single turn from a creature\
+      \ inside it, Slarkrethel must succeed on a DC 25 Constitution saving throw at\
+      \ the end of that turn or regurgitate all swallowed creatures, which fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ in a space within 10 feet of Slarkrethel. If Slarkrethel dies, a swallowed\
+      \ creature is no longer [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by it and can escape from the corpse using 15 feet of movement, exiting [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 30 ft., one target. *Hit:* 20\
-      \ (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18).\
-      \ Until this grapple ends, the target is restrained. Slarkrethel has ten tentacles,\
-      \ each of which can grapple one target."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 30 ft., one target. *Hit:*\
+      \ 20 (3d6 + 10) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 18). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
+      \ Slarkrethel has ten tentacles, each of which can grapple one target."
     "name": "Tentacle"
-  - "desc": "One Large or smaller object held or creature grappled by Slarkrethel\
-      \ is thrown up to 60 feet in a random direction and knocked prone. If a thrown\
-      \ target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage\
-      \ for every 10 feet it was thrown. If the target is thrown at another creature,\
-      \ that creature must succeed on a DC 18 Dexterity saving throw or take the same\
-      \ damage and be knocked prone."
+  - "desc": "One Large or smaller object held or creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by Slarkrethel is thrown up to 60 feet in a random direction and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning\
+      \ damage for every 10 feet it was thrown. If the target is thrown at another\
+      \ creature, that creature must succeed on a DC 18 Dexterity saving throw or\
+      \ take the same damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Fling"
   - "desc": "Slarkrethel magically creates three bolts of lightning, each of which\
       \ can strike a target Slarkrethel can see within 120 feet of it. A target must\
@@ -108,11 +113,17 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     "name": "Lightning Storm"
   - "desc": "Slarkrethel casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\n\
-      **At will:** detect magic, detect thoughts, sending\n\n**2/day each:** control\
-      \ weather (cast as 1 action), fly, ice storm\n\n**1/day each:** arcane eye,\
-      \ chain lightning, feeblemind, foresight, locate creature, mass suggestion,\
-      \ nondetection, power word kill, scrying (cast as 1 action), sequester, telekinesis,\
-      \ teleport"
+      **At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\
+      \n**2/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
+      \ (cast as 1 action), [fly](3-Mechanics/CLI/spells/fly-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\
+      \n**1/day each:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [chain\
+      \ lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md), [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md),\
+      \ [foresight](3-Mechanics/CLI/spells/foresight-xphb.md), [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md),\
+      \ [power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\
+      \ (cast as 1 action), [sequester](3-Mechanics/CLI/spells/sequester-xphb.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Slarkrethel can expend a use to take one of the following actions. Slarkrethel\
@@ -132,6 +143,6 @@ A kraken lives in dark depths, usually a sunken rift or a cavern filled with det
     "name": "Ink Cloud (Costs 3 Actions)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/slarkrethel-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/slarkrethel-skt.webp"
 ```
 ^statblock

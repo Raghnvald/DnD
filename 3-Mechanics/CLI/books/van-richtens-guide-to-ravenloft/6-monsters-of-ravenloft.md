@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Monsters of Ravenloft
+- "Monsters of Ravenloft"
 ---
 # Monsters of Ravenloft
 *Source: Van Richten's Guide to Ravenloft, p. 223* 
 
 Untold terrors haunt the Domains of Dread. Among them skulk nightmares known on countless worlds, but even familiar monsters can take on twisted forms or demonstrate unexpected abilities. This chapter explores ways to help you, the DM, make even the most commonplace monsters more frightening, as well as providing a host of horrors to add to your adventures in the Mists.
 
-![Darklord Maligno and his c...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/121-05-001-intro-splash.webp#center "Darklord Maligno and his carrionette servants ambush the detectives Alanik Ray and Arthur Sedgwick")
+![Darklord Maligno and his carrionette servants ambush the detectives Alanik Ray and Arthur Sedgwick](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/121-05-001-intro-splash.webp#center)
 
 ## Horror Monsters
 
@@ -27,7 +27,7 @@ For adventurers who regularly face terrifying monsters, it's easy for familiarit
 
 ### Monstrous Origins
 
-A variety of explanations, from transformative curses to magical experiments, can justify the appearance of a unique individual with unusual traits. In the same way, monsters in Ravenloft don't need to be members of a species or society. You can have a vicious [merrow](/3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) living under a bridge or a [yuan-ti abomination](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md) Darklord without having to explain merrows as a species or the nature of all yuan-ti in the setting. Monsters can be one-off flukes of nature or the products of insidious magic.
+A variety of explanations, from transformative curses to magical experiments, can justify the appearance of a unique individual with unusual traits. In the same way, monsters in Ravenloft don't need to be members of a species or society. You can have a vicious [merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md) living under a bridge or a [yuan-ti abomination](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md) Darklord without having to explain merrows as a species or the nature of all yuan-ti in the setting. Monsters can be one-off flukes of nature or the products of insidious magic.
 
 For significant adversaries, use the tables in the ""Genres of Horror"" section of "chapter 2" to inspire you as you craft a monster's unique details. When it comes time for the final confrontation, it might not matter whether the bridge-haunting merrow was the product of an amoral experiment to infuse piscine traits into a soldier or the result of someone drinking from a spring tainted by demon's blood; the merrow's stat block remains the same. But those different origin stories suggest completely different paths for adventurers to follow when investigating the creature and ensuring nothing like it ever returns to be a menace again.
 
@@ -41,7 +41,7 @@ The Whistling Fiend's notoriety has little to do with its stat block. It's famou
 
 ### Describing Monsters
 
-![The Whistling Fiend is not...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/122-05-002-the-whistling-fiend.webp#center "The Whistling Fiend is notorious for being heard long before it's seen")
+![The Whistling Fiend is notorious for being heard long before it's seen](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/122-05-002-the-whistling-fiend.webp#center)
 
 When adventurers encounter a monster for the first time, especially if its reputation precedes it, dwell on its description. You could tell the players that they see a merrow or hold up the creature's picture from the "Monster Manual". But that first moment of revelation is the best time to paint a horrifying picture of the monster in the players' imaginations. In addition to the techniques described in the ""Running Horror Games"" section of "chapter 4", consider these concepts as you describe a monster:
 
@@ -51,15 +51,15 @@ When adventurers encounter a monster for the first time, especially if its reput
 
 ### Monstrous Tactics
 
-Monsters, just like player characters, can try anything you can imagine in combat, including the full range of combat options described in the "Player's Handbook". Monsters can use the [Help](/3-Mechanics/CLI/actions.md#Help) action to aid each other, they can grapple or shove their enemies, and so on. Some monsters use these options to maximize their advantages in battle; others use them to sow fear among their enemies, even if they're not strategically optimal choices.
+Monsters, just like player characters, can try anything you can imagine in combat, including the full range of combat options described in the "Player's Handbook". Monsters can use the [Help](3-Mechanics/CLI/rules/actions.md#Help) action to aid each other, they can grapple or shove their enemies, and so on. Some monsters use these options to maximize their advantages in battle; others use them to sow fear among their enemies, even if they're not strategically optimal choices.
 
-For example, creatures known as "goblyns" in "Kartakass" and other domains are ordinary [hobgoblins](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) in terms of their game statistics, but they're known for a tactic they call "feasting": they grapple their enemies and then make unarmed attacks to bite their faces. These attacks aren't terribly dangerous (a hobgoblin's unarmed strike deals only 2 damage, compared to the average of 5 it deals with a longsword), but the face-biting is much more shocking to the victim and onlookers.
+For example, creatures known as "goblyns" in "Kartakass" and other domains are ordinary [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) in terms of their game statistics, but they're known for a tactic they call "feasting": they grapple their enemies and then make unarmed attacks to bite their faces. These attacks aren't terribly dangerous (a hobgoblin's unarmed strike deals only 2 damage, compared to the average of 5 it deals with a longsword), but the face-biting is much more shocking to the victim and onlookers.
 
-Monsters become more fearsome if they use tactics like ganging up on the least-armored characters in a party, taking the time to take bites from [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) foes, separating party members from each other, and attacking from hiding. Use these tactics judiciously; the goal is to surprise and scare the players, not to convince them that you're trying to make them fail.
+Monsters become more fearsome if they use tactics like ganging up on the least-armored characters in a party, taking the time to take bites from [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) foes, separating party members from each other, and attacking from hiding. Use these tactics judiciously; the goal is to surprise and scare the players, not to convince them that you're trying to make them fail.
 
 ### Monstrous Traits
 
-Consider undermining players' expectations about what a creature is or can do by making tweaks to the traits in its stat block. Adding a [sahuagin's](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) Blood Frenzy trait to a different monster can help it feel like a bloodthirsty horror, for example. Traits such as a [troglodyte's](/3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) Chameleon Skin or a [doppelganger's](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) Ambusher can help make a monster feel more sinister as it lurks in hiding and ambushes its foes. Some traits, such as a [night hag's](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) Etherealness or an [imp's](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) Invisibility, can help a monster escape from an encounter so it can return to haunt the adventurers another day. Traits such as a [banshee's](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) Horrifying Visage or a black dragon's Frightful Presence can heighten the inherent fearsomeness of truly terrifying creatures.
+Consider undermining players' expectations about what a creature is or can do by making tweaks to the traits in its stat block. Adding a [sahuagin's](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) Blood Frenzy trait to a different monster can help it feel like a bloodthirsty horror, for example. Traits such as a [troglodyte's](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) Chameleon Skin or a [doppelganger's](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) Ambusher can help make a monster feel more sinister as it lurks in hiding and ambushes its foes. Some traits, such as a [night hag's](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) Etherealness or an [imp's](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) Invisibility, can help a monster escape from an encounter so it can return to haunt the adventurers another day. Traits such as a [banshee's](3-Mechanics/CLI/bestiary/undead/banshee-xmm.md) Horrifying Visage or a black dragon's Frightful Presence can heighten the inherent fearsomeness of truly terrifying creatures.
 
 Of course, you're not limited to the traits that appear in existing monster stat blocks, but those are a good starting point. Feel free to invent your own.
 
@@ -69,7 +69,7 @@ In the Land of the Mists, many monsters serve as minions or manifestations of mo
 
 #### Alien Mind
 
-If a creature tries to read the minion's thoughts, that creature must succeed on a Intelligence saving throw with a DC equal to 10 + the minion's Intelligence modifier or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) for 1 minute. The [stunned](/3-Mechanics/CLI/conditions.md#Stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+If a creature tries to read the minion's thoughts, that creature must succeed on a Intelligence saving throw with a DC equal to 10 + the minion's Intelligence modifier or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. The [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 #### Minion's Mind
 
@@ -91,15 +91,15 @@ The minion and its master can communicate telepathically with each other, as lon
 
 Once you've considered the techniques in this section, put them all together to create your own unique terror. If you have ideas about what you want your monster to do, write them down. Then think of what stories connect the pieces you want to use or fill in gaps you don't know about yet.
 
-For example, perhaps you've got an idea for a [troll](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) that ambushes adventurers while they rest. Considering its origins and appearance, the troll literally being a troll isn't important to you; you're more interested in that general challenge and look for the creature. To make your troll feel notorious, you think of what would scare adventurers—where they're vulnerable and what they're sensitive about. You come up with an idea for a creature that can come from anywhere, maybe even within the adventurers' own gear. With tactics and traits in mind, you think of your troll as an abductor and give it the Grappler trait of a [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) and the Amorphous trait of a [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) so it can sneak in anywhere. Finally, you don't think of the troll as a minion, but you give it the Alien Mind trait to reflect its tormented psyche. Then you flesh out its story and give it a name: [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md).
+For example, perhaps you've got an idea for a [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) that ambushes adventurers while they rest. Considering its origins and appearance, the troll literally being a troll isn't important to you; you're more interested in that general challenge and look for the creature. To make your troll feel notorious, you think of what would scare adventurers—where they're vulnerable and what they're sensitive about. You come up with an idea for a creature that can come from anywhere, maybe even within the adventurers' own gear. With tactics and traits in mind, you think of your troll as an abductor and give it the Grappler trait of a [mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) and the Amorphous trait of a [black pudding](3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md) so it can sneak in anywhere. Finally, you don't think of the troll as a minion, but you give it the Alien Mind trait to reflect its tormented psyche. Then you flesh out its story and give it a name: [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md).
 
-![The Bagman emerges from a ...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/123-05-003-the-bagman.webp#center "The Bagman emerges from a bag of holding to collect its next victim")
+![The Bagman emerges from a bag of holding to collect its next victim](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/123-05-003-the-bagman.webp#center)
 
 #### Beware the Bagman
 
-[The Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md). When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) slips out from a random [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md). If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md) or whisper "follow my voice" into a magical storage space three times, [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) will come for you.
+[The Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) is an urban legend about an adventurer who sought to escape doom by abandoning his party and hiding inside a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md). When he tried to leave, though, he became lost amid a constantly increasing number of extradimensional storage spaces. Over time, the strange forces of this magical in-between place transformed the adventurer into a monstrous creature. Now, every night, [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) slips out from a random [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md). If he doesn't find his home, he drags someone back into the bag with him and leaves behind some trinket from his hidden kingdom of lost junk. Some say that if you speak too loudly over an open [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md) or whisper "follow my voice" into a magical storage space three times, [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) will come for you.
 
-Any character might know the story of [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md). What [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [bag of holding](/3-Mechanics/CLI/items/bag-of-holding-xdmg.md), is [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) to blame? Is [the Bagman](/3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
+Any character might know the story of [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md). What [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) is and how you use this urban legend is up to you. Is there truly a Bagman, or is he just a story? If an object vanishes overnight or if someone finds something that isn't theirs in a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md), is [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) to blame? Is [the Bagman](3-Mechanics/CLI/bestiary/giant/the-bagman-vrgr.md) just a monster that preys on adventurers, or is he the Darklord of his own hidden domain? The possibilities for horror adventures are endless, and nowhere—especially not adventurers' gear—is safe.
 
 ## Bestiary
 
@@ -107,4 +107,4 @@ Many terrors lurk in the shadows—some in the corner of perception, and others 
 
 The creatures in this chapter are organized by their challenge rating in the Creatures by Challenge Rating table.
 
-![Bestiary; Creatures by Challenge Rating](/3-Mechanics/CLI/tables/bestiary-creatures-by-challenge-rating-vrgr.md)
+![Bestiary; Creatures by Challenge Rating](3-Mechanics/CLI/tables/bestiary-creatures-by-challenge-rating-vrgr.md)

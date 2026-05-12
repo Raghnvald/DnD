@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- City Watch
+- "City Watch"
 ---
 # City Watch
 *Source: Sword Coast Adventurer's Guide p. 145*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Insight](/3-Mechanics/CLI/skills.md#Insight)  
+- **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Insight](3-Mechanics/CLI/rules/skills.md#Insight)  
 - **Languages.** Any two of your choice  
-- **Equipment.** A uniform in the style of your unit and indicative of your rank, a [horn](/3-Mechanics/CLI/items/horn-xphb.md) with which to summon help, a set of [manacles](/3-Mechanics/CLI/items/manacles-xphb.md), and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A uniform in the style of your unit and indicative of your rank, a [horn](3-Mechanics/CLI/items/horn-xphb.md) with which to summon help, a set of [manacles](3-Mechanics/CLI/items/manacles-xphb.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You have served the community where you grew up, standing as its first line of defense against crime. You aren't a soldier, directing your gaze outward at possible enemies. Instead, your service to your hometown was to help police its populace, protecting the citizenry from lawbreakers and malefactors of every stripe.
 
@@ -30,6 +30,6 @@ Your experience in enforcing the law, and dealing with lawbreakers, gives you a 
 
 ## Suggested Characteristics
 
-Use the tables for the [soldier](/3-Mechanics/CLI/backgrounds/soldier-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of the city watch.
+Use the tables for the [soldier](3-Mechanics/CLI/backgrounds/soldier-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of the city watch.
 
 Your bond is likely associated with your fellow watch members or the watch organization itself and almost certainly concerns your community. Your ideal probably involves the fostering of peace and safety. An investigator is likely to have an ideal connected to achieving justice by successfully solving crimes.

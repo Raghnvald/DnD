@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- World-Shaking Events
+- "World-Shaking Events"
 ---
 # World-Shaking Events
 *Source: Dungeon Master's Guide p. 27* 
 
 **World-Shaking Events**
-
-`dice: [](world-shaking-events.md#^world-shaking-events)`
 
 | dice: d10 | Event |
 |-----------|-------|

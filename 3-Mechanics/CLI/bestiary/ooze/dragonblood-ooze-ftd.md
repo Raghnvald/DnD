@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragonblood Ooze
+- "Dragonblood Ooze"
 ---
-# [Dragonblood Ooze](3-Mechanics\CLI\bestiary\ooze/dragonblood-ooze-ftd.md)
+# [Dragonblood Ooze](3-Mechanics/CLI/bestiary/ooze/dragonblood-ooze-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 182*  
 
 Magic-minded artisans have long incorporated parts of dragons' bodies into magic items, crafting dragon hide into armor and forging weapons from claws and teeth. Alchemists have found beneficial uses for dragon blood, but ill-advised experiments have also given rise to dragonblood oozes.
@@ -38,17 +38,14 @@ The congealed blood of a dragon given mobility and hunger, the ooze tries to sha
   - !!int "10"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 120 ft. (blind beyond\
-  \ this radius), passive Perception 14"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
+  \ prone, restrained"
+"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands Draconic and the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -61,11 +58,11 @@ The congealed blood of a dragon given mobility and hunger, the ooze tries to sha
   - "desc": "The ooze makes two Pseudopod attacks. The ooze can replace one Pseudopod\
       \ attack with its Slime Breath, if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d10 + 4) bludgeoning damage plus 14 (4d6) acid damage. If the target is\
-      \ a Large or smaller creature, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 15). Until this grapple ends, the target takes 7 (2d6) acid damage\
-      \ at the start of each of its turns."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d10 + 4) bludgeoning damage plus 14 (4d6) acid damage. If the target\
+      \ is a Large or smaller creature, it is grappled (escape DC 15). Until this\
+      \ grapple ends, the target takes 7 (2d6) acid damage at the start of each\
+      \ of its turns."
     "name": "Pseudopod"
   - "desc": "The ooze expels a spray of its gelatinous mass in a 30-foot cone. Each\
       \ creature in that area must make a DC 14 Dexterity saving throw. On a failed\
@@ -75,6 +72,6 @@ The congealed blood of a dragon given mobility and hunger, the ooze tries to sha
     "name": "Slime Breath (Recharge 6)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/dragonblood-ooze-ftd.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maw of Sekolah
+- "Maw of Sekolah"
 ---
-# [Maw of Sekolah](3-Mechanics\CLI\bestiary\npc/maw-of-sekolah-gos.md)
+# [Maw of Sekolah](3-Mechanics/CLI/bestiary/npc/maw-of-sekolah-gos.md)
 *Source: Ghosts of Saltmarsh p. 244*  
 
 Summoned from the shadowy depths of the ocean through ritual and tidal magic, the Maw of Sekolah appears in The Final Enemy as the avatar of the hungry sahuagin god. This huge, two-headed shark is fed a steady diet of sentient creatures, captured by the sahuagin and offered up as tribute. Sahuagin priestesses adorn the fins of the maw of Sekolah with gemmed bands and polished skulls.
@@ -56,11 +56,11 @@ Summoned from the shadowy depths of the ocean through ritual and tidal magic, th
   - "desc": "The maw of Sekolah makes one attack with its bite and one attack with\
       \ its tail smash."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d8 + 5) bludgeoning damage."
     "name": "Tail Smash"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Maw can expend a use to take one of the following actions. Maw regains all\
@@ -77,6 +77,6 @@ Summoned from the shadowy depths of the ocean through ritual and tidal magic, th
     "name": "Feed (Costs 2 Actions)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/maw-of-sekolah-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/maw-of-sekolah-gos.webp"
 ```
 ^statblock

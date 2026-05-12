@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/ggr
 - ttrpg-cli/race/vedalken
 aliases:
-- Vedalken
+- "Vedalken"
 ---
 # Vedalken
 *Source: Guildmasters' Guide to Ravnica p. 21*  
-![](/3-Mechanics/CLI/races/img/vedalken.webp#right)
+![](3-Mechanics/CLI/races/img/vedalken.webp#right)
 
 - **Ability Scores**: int +2 wis +1
 - **Size**: Medium
@@ -36,9 +36,9 @@ You have advantage on all Intelligence, Wisdom, and Charisma saving throws.
 
 ### Tireless Precision
 
-You are proficient in one of the following skills of your choice: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Performance](/3-Mechanics/CLI/skills.md#Performance), or [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand). You are also proficient with one "tool" of your choice.
+You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand. You are also proficient with one "tool" of your choice.
 
-Whenever you make an ability check with the chosen skill or tool, roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the check's total.
+Whenever you make an ability check with the chosen skill or tool, roll a `d4` and add the number rolled to the check's total.
 
 ### Partially Amphibious
 

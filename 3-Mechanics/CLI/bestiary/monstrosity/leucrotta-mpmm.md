@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Leucrotta
+- "Leucrotta"
 ---
-# [Leucrotta](3-Mechanics\CLI\bestiary\monstrosity/leucrotta-mpmm.md)
+# [Leucrotta](3-Mechanics/CLI/bestiary/monstrosity/leucrotta-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -46,43 +46,43 @@ A leucrotta's stench would normally warn away prey long before the creature coul
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Abyssal, Gnoll"
 "cr": "3"
 "traits":
   - "desc": "The leucrotta can mimic Beast sounds and Humanoid voices. A creature\
       \ that hears the sounds can tell they are imitations only with a successful\
-      \ DC 14 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ DC 14 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check."
     "name": "Mimicry"
   - "desc": "Any creature other than a leucrotta or gnoll that starts its turn within\
       \ 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw\
-      \ or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the start\
+      \ or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the start\
       \ of the creature's next turn. On a successful saving throw, the creature is\
       \ immune to the Stench of all leucrottas for 1 hour."
     "name": "Stench"
 "actions":
   - "desc": "The leucrotta makes one Bite attack and one Hooves attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage. If the leucrotta scores a critical hit, it rolls the\
-      \ damage dice three times, instead of twice."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage. If the leucrotta scores a critical hit, it rolls\
+      \ the damage dice three times, instead of twice."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
 "bonus_actions":
-  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)\
+  - "desc": "Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
       \ action."
     "name": "Kicking Retreat"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp"
 ```
 ^statblock
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Folk Horror Villains
+- "Folk Horror Villains"
 ---
 # Folk Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 52* 
 
 **Folk Horror Villains**
-
-`dice: [](folk-horror-villains-vrgr.md#^folk-horror-villains)`
 
 | dice: d8 | Villain |
 |----------|---------|

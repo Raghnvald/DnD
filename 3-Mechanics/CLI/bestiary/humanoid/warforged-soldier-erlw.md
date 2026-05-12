@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/warforged
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Soldier
+- "Warforged Soldier"
 ---
-# [Warforged Soldier](3-Mechanics\CLI\bestiary\humanoid/warforged-soldier-erlw.md)
+# [Warforged Soldier](3-Mechanics/CLI/bestiary/humanoid/warforged-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 320*  
 
 Warforged soldiers are humanoids formed from wood and steel, then magically imbued with life and sentience. The warforged were created to fight in the Last War, and in the aftermath of that conflict, they struggle to understand their place in the world.
@@ -47,6 +47,8 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
     "desc": "+4"
 "damage_resistances": "poison"
 "condition_immunities": "disease"
+"gear":
+  - "javelin"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "1"
@@ -57,8 +59,8 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
 "actions":
   - "desc": "The warforged makes two armblade attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Armblade"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
@@ -70,6 +72,6 @@ Most warforged soldiers still serve their former masters, often guarding dragonm
     "name": "Protection"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warforged-soldier-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/warforged-soldier-erlw.webp"
 ```
 ^statblock

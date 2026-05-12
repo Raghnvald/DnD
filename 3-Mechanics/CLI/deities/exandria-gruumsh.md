@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/war
-aliases: 
-- Gruumsh
+aliases:
+- "Gruumsh"
 ---
 # Gruumsh
 *Source: Explorer's Guide to Wildemount p. 27* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-gruumsh.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-gruumsh.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Category**: Betrayer Gods

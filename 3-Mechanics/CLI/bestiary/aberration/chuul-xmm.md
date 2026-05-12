@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chuul
+- "Chuul"
 ---
-# [Chuul](3-Mechanics\CLI\bestiary\aberration/chuul-xmm.md)
+# [Chuul](3-Mechanics/CLI/bestiary/aberration/chuul-xmm.md)
 *Source: Monster Manual (2024) p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Chuul
@@ -23,7 +23,7 @@ aliases:
 *Chitinous Servant of Primeval Powers*
 
 - **Habitat.** Coastal, Swamp, Underdark  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Chuuls originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants.
 
@@ -49,38 +49,38 @@ Chuuls don't age and can lie dormant in hidden places for millennia before threa
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
 "traits":
   - "desc": "The chuul can breathe air and water."
     "name": "Amphibious"
   - "desc": "The chuul senses magic within 120 feet of itself. This trait otherwise\
-      \ works like the [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\
+      \ works like the [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md)\
       \ spell but isn't itself magical."
     "name": "Sense Magic"
 "actions":
   - "desc": "The chuul makes two Pincer attacks and uses Paralyzing Tentacles."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage. If the target is a Large or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 14) from one of two pincers."
     "name": "Pincer"
-  - "desc": "*Constitution Saving Throw:* DC 13, one creature [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by the chuul. *Failure:* The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "*Constitution Saving Throw:* DC 13, one creature [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the chuul. *Failure:* The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
-      \ While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the target has\
-      \ the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition."
+      \ While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), the target\
+      \ has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) condition."
     "name": "Paralyzing Tentacles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/chuul-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/chuul-xmm.webp"
 ```
 ^statblock
 

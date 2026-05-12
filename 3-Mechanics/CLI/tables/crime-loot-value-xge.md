@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Crime; Loot Value
+- "Crime; Loot Value"
 ---
 # Crime; Loot Value
 *Source: Xanathar's Guide to Everything p. 130* 

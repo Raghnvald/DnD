@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Waterdeep: Dungeon of the Mad Mage
+- "Waterdeep: Dungeon of the Mad Mage"
 ---
 # Waterdeep: Dungeon of the Mad Mage
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 1* 
 
-![Adventurers are drawn to U...](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/cover.webp#center "Adventurers are drawn to Undermountain like moths to a flame. Cynthia Sheppard illustrates a host of villains vying for control of the dungeon's depths. Heroes, watch your step!")
+![Adventurers are drawn to Undermountain like moths to a flame. Cynthia Sheppard illustrates a host of villains vying for control of the dungeon's depths. Heroes, watch your step!](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/cover.webp#center)
 
 ## Undermountain Overview
 
@@ -67,10 +67,10 @@ The Levels of Undermountain table lists the dungeon's levels and the character l
 | 7 | Maddgoth's Castle | 9th |
 | 8 | Slitherswamp | 10th |
 | 9 | Dweomercore | 10th |
-| 10 | [Muiral](/3-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)'s Gauntlet | 11th |
+| 10 | [Muiral](3-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)'s Gauntlet | 11th |
 | 11 | Troglodyte Warrens | 11th |
 | 12 | Maze Level | 12th |
-| 13 | [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s Graveyard | 12th |
+| 13 | [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s Graveyard | 12th |
 | 14 | Arcturiadoom | 13th |
 | 15 | Obstacle Course | 13th |
 | 16 | Crystal Labyrinth | 14th |
@@ -97,9 +97,9 @@ Each dungeon level contains enough monster XP to ensure that characters who clea
 
 ## Dungeon History
 
-More than one thousand years ago, the wizard [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) (see appendix A) journeyed from a distant land to the base of Mount Waterdeep, perhaps acceding to the whispered summons of providence. Some believe he hailed from the nearly forgotten empire known as the Cradlelands. In ages past, humanity spread from the Cradlelands across Faerûn, originating from what is now the Plains of Purple Dust, a wasteland birthed out of a conflict with the gods. Others give Halaster less ancient origins, placing him among the early wizards of Netheril, or asserting that he came from a southern nation long since buried by sand and time. Whatever his origin, scholars have recorded that Halaster brought with him seven apprentices to Mount Waterdeep.
+More than one thousand years ago, the wizard [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) (see appendix A) journeyed from a distant land to the base of Mount Waterdeep, perhaps acceding to the whispered summons of providence. Some believe he hailed from the nearly forgotten empire known as the Cradlelands. In ages past, humanity spread from the Cradlelands across Faerûn, originating from what is now the Plains of Purple Dust, a wasteland birthed out of a conflict with the gods. Others give Halaster less ancient origins, placing him among the early wizards of Netheril, or asserting that he came from a southern nation long since buried by sand and time. Whatever his origin, scholars have recorded that Halaster brought with him seven apprentices to Mount Waterdeep.
 
-With the Seven guarding his back, Halaster tapped into his immense power to summon beings from other planes of existence to help him build a wizard's tower to dwarf all other wizard's towers. But as the seasons wore on, the Seven saw less and less of their enigmatic master. Halaster continued to use fell creatures from distant planes for tunneling and other construction beneath his tower, and the wizard kept the nature of most of his underground dealings a secret from the Seven. Eventually, Halaster's exploration broke into the Underhalls, a complex of tunnels and rooms built by the dwarves around a mithral mine beneath Mount Waterdeep. The architects of the Underhalls, the Melairkyn clan, had long ago been killed or dispersed, and warring duergar and drow had settled in the ruins. Halaster began a crusade against both the drow and the duergar, participating in wild hunts with extraplanar allies through the tunnels. The stubborn duergar dug in until the mithral was largely mined out; then they abandoned the Underhalls, leaving the drow to fight Halaster and his minions alone. The Mad Mage rounded up the remaining dark elves, trapping some of their souls for use in his dark magic, while twisting the bodies and enslaving the minds of others. Once he had wrung the drow of their usefulness, [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) tunneled on, ever downward, indulging his inexplicable compulsion for delving deeper and deeper into the mountain.
+With the Seven guarding his back, Halaster tapped into his immense power to summon beings from other planes of existence to help him build a wizard's tower to dwarf all other wizard's towers. But as the seasons wore on, the Seven saw less and less of their enigmatic master. Halaster continued to use fell creatures from distant planes for tunneling and other construction beneath his tower, and the wizard kept the nature of most of his underground dealings a secret from the Seven. Eventually, Halaster's exploration broke into the Underhalls, a complex of tunnels and rooms built by the dwarves around a mithral mine beneath Mount Waterdeep. The architects of the Underhalls, the Melairkyn clan, had long ago been killed or dispersed, and warring duergar and drow had settled in the ruins. Halaster began a crusade against both the drow and the duergar, participating in wild hunts with extraplanar allies through the tunnels. The stubborn duergar dug in until the mithral was largely mined out; then they abandoned the Underhalls, leaving the drow to fight Halaster and his minions alone. The Mad Mage rounded up the remaining dark elves, trapping some of their souls for use in his dark magic, while twisting the bodies and enslaving the minds of others. Once he had wrung the drow of their usefulness, [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) tunneled on, ever downward, indulging his inexplicable compulsion for delving deeper and deeper into the mountain.
 
 Using his underground complex as a base of operations, Halaster traveled to other planes and distant lands, collecting strange and dangerous creatures to live as prisoners, servants, or guardians in Undermountain. Populating and defending the dungeon became an obsession. Over time, the mage's preoccupation with Undermountain electrified his eccentricities and infused him with an air of inconcealable madness.
 
@@ -118,9 +118,9 @@ The Yawning Portal, a famous inn and tavern located near the eastern slope of Mo
 
 Durnan charges adventurers 1 gp each to descend into the well, whether they opt to use the rope or not. The return trip also costs a piece of gold, sent up in a bucket in advance. He also readily accepts coin from patrons who want to place grisly bets on adventurers who dare explore Undermountain, and their odds of returning alive. "Five gold dragons says they're back before a tenday, minus the fighter, the wizard, and the cleric!" is the flavor of commentary often heard amid gales of drunken laughter.
 
-The walls of the well are crumbly but have abundant handholds and footholds. They can be scaled without climbing gear with a successful DC 15 Strength (Athletics) check. No check is needed to enter Undermountain by using the rope-and-pulley system.
+The walls of the well are crumbly but have abundant handholds and footholds. They can be scaled without climbing gear with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. No check is needed to enter Undermountain by using the rope-and-pulley system.
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/000-intro01.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/000-intro01.webp#center)
 
 ## Adventure Hooks
 
@@ -205,11 +205,11 @@ Characters who belong to the Lords' Alliance gain 3 renown (see ""Renown"" in ch
 
 Volothamp Geddarm introduces the characters to a friend of his: a young captain of the City Watch named Jalester Silvermane. If the characters played through Waterdeep: Dragon Heist, they probably know him already. Jalester is a secret agent of the Lords' Alliance who reports to Lady Laeral Silverhand, the Open Lord of Waterdeep.
 
-Unbeknownst to anyone but her closest confidants, Laeral's magic has begun to wane. She has researched a way to halt the decline, at least temporarily, but she needs a fragment of a magic crystal called the Runestone. The crystal was created by [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) and secreted away in the depths of Undermountain. Laeral has sent Jalester to hire a band of adventurers to retrieve a pebble-sized fragment of the Runestone, which he can then deliver to Laeral in utmost secrecy.
+Unbeknownst to anyone but her closest confidants, Laeral's magic has begun to wane. She has researched a way to halt the decline, at least temporarily, but she needs a fragment of a magic crystal called the Runestone. The crystal was created by [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) and secreted away in the depths of Undermountain. Laeral has sent Jalester to hire a band of adventurers to retrieve a pebble-sized fragment of the Runestone, which he can then deliver to Laeral in utmost secrecy.
 
 Jalester tells the characters that he wants the fragment for himself and won't disclose its purpose, except to say that its recovery will help to ensure Waterdeep's security (a true statement). He describes the Runestone as a large, glowing, disk-shaped gem with Halaster's rune floating in it.
 
-He does not mention a monetary reward for delivering a Runestone fragment to him; instead, Jalester offers the characters his lasting friendship—which can bring many benefits, considering his position in the City Watch. If the characters negotiate for more than Jalester's goodwill, they're also promised a luck blade with no wishes remaining. Jalester neglects to mention, however, that this weapon belongs to Mirt the Moneylender, one of the Masked Lords of Waterdeep. Mirt himself delivers the luck blade once the Runestone fragment is in Laeral's hands, but looks rather put out at the thought of parting with it. "Perhaps you might trade it back for dinner at my mansion?" he asks the characters politely. Allowing Mirt to keep his sword puts the Masked Lord in the characters' debt—a fine prize indeed for their efforts.
+He does not mention a monetary reward for delivering a Runestone fragment to him; instead, Jalester offers the characters his lasting friendship—which can bring many benefits, considering his position in the City Watch. If the characters negotiate for more than Jalester's goodwill, they're also promised a [luck blade](3-Mechanics/CLI/items/luck-blade-xdmg.md) with no wishes remaining. Jalester neglects to mention, however, that this weapon belongs to Mirt the Moneylender, one of the Masked Lords of Waterdeep. Mirt himself delivers the [luck blade](3-Mechanics/CLI/items/luck-blade-xdmg.md) once the Runestone fragment is in Laeral's hands, but looks rather put out at the thought of parting with it. "Perhaps you might trade it back for dinner at my mansion?" he asks the characters politely. Allowing Mirt to keep his sword puts the Masked Lord in the characters' debt—a fine prize indeed for their efforts.
 
 The characters can find the Runestone and cast-off fragments of it on level 20 of Undermountain.
 
@@ -219,7 +219,7 @@ The characters can find the Runestone and cast-off fragments of it on level 20 o
 
 Word reaches Lady Wylynd Moonstar, matriarch of the Moonstar noble family of Waterdeep, that a party of adventurers has had some success in Undermountain of late. She learns all she can about these adventurers before sending her grand-nephew, a well-mannered half-drow named Helion Moonstar, to meet with them. Helion is Wylynd's heir apparent, and this mission is as much a test for him as it is for the adventurers.
 
-Lady Wylynd is well over a hundred years old and senile, but she has never forgotten the dark blemish on her family's honor left by Vanrak Moonstar, who lorded over House Moonstar long ago. Vanrak and his small army of Shar worshipers fled into Undermountain to escape punishment for their many crimes in the city. It's Lady Wylynd's recollection that a longtime ally of the Moonstar family, a bronze dragon named [Glyster](/3-Mechanics/CLI/bestiary/npc/glyster-wdmm.md), was asked or told to find Vanrak and bring him back to Waterdeep to face justice. The dragon found Vanrak but could not wrest him from the depths of Undermountain. Instead, the dragon became corrupted by Shar's magic and was transformed into a shadow dragon named [Umbraxakar](/3-Mechanics/CLI/bestiary/npc/umbraxakar-wdmm.md). In this evil form, the dragon fought by Vanrak's side for years, even serving as his mount from time to time.
+Lady Wylynd is well over a hundred years old and senile, but she has never forgotten the dark blemish on her family's honor left by Vanrak Moonstar, who lorded over House Moonstar long ago. Vanrak and his small army of Shar worshipers fled into Undermountain to escape punishment for their many crimes in the city. It's Lady Wylynd's recollection that a longtime ally of the Moonstar family, a bronze dragon named [Glyster](3-Mechanics/CLI/bestiary/npc/glyster-wdmm.md), was asked or told to find Vanrak and bring him back to Waterdeep to face justice. The dragon found Vanrak but could not wrest him from the depths of Undermountain. Instead, the dragon became corrupted by Shar's magic and was transformed into a shadow dragon named [Umbraxakar](3-Mechanics/CLI/bestiary/npc/umbraxakar-wdmm.md). In this evil form, the dragon fought by Vanrak's side for years, even serving as his mount from time to time.
 
 Lady Wylynd believes it's her family's responsibility to free the dragon from Shar's evil grasp one way or another. She asks Helion to meet with the adventurers and convince them to find the shadow dragon in Vanrakdoom, one of the deeper levels of Undermountain, and break Shar's hold over him. Failing that, they should put the dragon out of his misery. In exchange for their help, Helion promises the friendship of House Moonstar, which comes with tangible benefits:
 
@@ -237,11 +237,11 @@ Durnan urges adventurers to find the source of the telepathic contact, learn its
 
 ## Undermountain Secrets
 
-Appendix C of this book contains the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md)—paper cards for you to photocopy and hand out to the players when their characters learn reliable information about Halaster and Undermountain.
+Appendix C of this book contains the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md)—paper cards for you to photocopy and hand out to the players when their characters learn reliable information about Halaster and Undermountain.
 
-Any character who spends at least four hours in the Yawning Portal is likely to overhear tall tales about the Mad Mage and his dungeon. Not all rumors are to be believed, however, and characters need keen ears and sharp insight to determine which stories have weight. Have each character make a DC 20 Intelligence (Investigation) check or Wisdom (Insight) check. If the check succeeds, the character learns a secret about Undermountain, and the player can draw a card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md).
+Any character who spends at least four hours in the Yawning Portal is likely to overhear tall tales about the Mad Mage and his dungeon. Not all rumors are to be believed, however, and characters need keen ears and sharp insight to determine which stories have weight. Have each character make a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check or Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. If the check succeeds, the character learns a secret about Undermountain, and the player can draw a card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md).
 
-Players can hold onto these cards for later reference. When the characters meet an NPC in Undermountain who knows a fact, have one of the players draw another card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md) to determine what that NPC knows about Halaster and his dungeon.
+Players can hold onto these cards for later reference. When the characters meet an NPC in Undermountain who knows a fact, have one of the players draw another card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md) to determine what that NPC knows about Halaster and his dungeon.
 
 ### Jhesiyra Kestellharp
 
@@ -249,11 +249,11 @@ Among the greatest of Undermountain's secrets is the story of Jhesiyra Kestellha
 
 Jhesiyra's plan is to use adventurers to defeat Halaster so that she can seize control of Undermountain. To that end, she does everything in her power to keep adventurers in Undermountain alive. Her abilities are, however, limited in her current, bodiless form.
 
-Jhesiyra can exert control over Halaster's magic gates, keeping adventurers from passing through them if she thinks they lack the might needed to defeat the perils beyond. In terms of game rules, characters are prevented from passing through a gate when their experience level fails to meet a prerequisite (the recommended character level for which the dungeon level is designed). Any character who doesn't qualify is pushed back without being harmed when trying to step through the open gate. Only a wish spell can allow a character to pass through. As the Dungeon Master, you can suspend this restriction and allow characters who don't meet the level prerequisite to pass through a gate, particularly if you think they have the resources to survive and overcome that dangers that await them.
+Jhesiyra can exert control over Halaster's magic gates, keeping adventurers from passing through them if she thinks they lack the might needed to defeat the perils beyond. In terms of game rules, characters are prevented from passing through a gate when their experience level fails to meet a prerequisite (the recommended character level for which the dungeon level is designed). Any character who doesn't qualify is pushed back without being harmed when trying to step through the open gate. Only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can allow a character to pass through. As the Dungeon Master, you can suspend this restriction and allow characters who don't meet the level prerequisite to pass through a gate, particularly if you think they have the resources to survive and overcome that dangers that await them.
 
 Jhesiyra can't stop characters from moving between dungeon levels by more conventional means. Whenever they enter a dungeon level designed for characters of a higher experience level, Jhesiyra sends them the following telepathic warning in Common: "Turn back! You're not prepared for the danger that lies ahead!" Characters are free to ignore her warning. She can't and won't elaborate on the nature of the danger that awaits the adventurers or communicate with them in any other way, for fear of being detected by Halaster.
 
-Powerful divination magic can reveal Jhesiyra's disembodied presence throughout Undermountain. But not even a wish spell or divine intervention will allow direct, two-way communication with Halaster's former apprentice.
+Powerful divination magic can reveal Jhesiyra's disembodied presence throughout Undermountain. But not even a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or divine intervention will allow direct, two-way communication with Halaster's former apprentice.
 
 ## Dungeon Features
 
@@ -261,17 +261,17 @@ For the sake of avoiding repetitive descriptions, common features of Undermounta
 
 ### Alterations to Magic
 
-Halaster doesn't make it easy for creatures to enter or leave his dungeon. No spell other than wish can be used to enter Undermountain, leave it, or transport oneself from one level to another. Astral projection, teleport, plane shift, word of recall, and similar spells cast for these reasons simply fail, as do effects that banish a creature to another plane of existence. These restrictions apply to magic items and artifacts that have properties that transport or banish creatures to other planes as well. Magic that allows transit to the Border Ethereal, such as the etherealness spell, is the exception to this rule. A creature that enters the Border Ethereal from Undermountain is pulled back into the dungeon upon leaving that plane.
+Halaster doesn't make it easy for creatures to enter or leave his dungeon. No spell other than [wish](3-Mechanics/CLI/spells/wish-xphb.md) can be used to enter Undermountain, leave it, or transport oneself from one level to another. [Astral projection](3-Mechanics/CLI/spells/astral-projection-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [word of recall](3-Mechanics/CLI/spells/word-of-recall-xphb.md), and similar spells cast for these reasons simply fail, as do effects that banish a creature to another plane of existence. These restrictions apply to magic items and artifacts that have properties that transport or banish creatures to other planes as well. Magic that allows transit to the Border Ethereal, such as the [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md) spell, is the exception to this rule. A creature that enters the Border Ethereal from Undermountain is pulled back into the dungeon upon leaving that plane.
 
-Magic that summons creatures or objects from other planes functions normally in Undermountain, as does magic that involves an extradimensional space. Any spells cast within such an extradimensional space (such as that created by a Mordenkainen's magnificent mansion spell) are subject to the same restrictions as magic cast in Undermountain.
+Magic that summons creatures or objects from other planes functions normally in Undermountain, as does magic that involves an extradimensional space. Any spells cast within such an extradimensional space (such as that created by a [Mordenkainen's magnificent mansion](3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) spell) are subject to the same restrictions as magic cast in Undermountain.
 
-Spells can't destroy or alter the shape of Undermountain's magically protected ceilings, pillars, columns, walls, or floors. For example, an earthquake spell would not trigger a ceiling collapse or create fissures in Undermountain. Doors and furnishings, however, are not protected in this way.
+Spells can't destroy or alter the shape of Undermountain's magically protected ceilings, pillars, columns, walls, or floors. For example, an [earthquake](3-Mechanics/CLI/spells/earthquake-xphb.md) spell would not trigger a ceiling collapse or create fissures in Undermountain. Doors and furnishings, however, are not protected in this way.
 
 While they are in Undermountain, characters who receive spells from deities or otherworldly patrons continue to do so. In addition, spells that allow contact with beings from other planes function normally.
 
 #### Sending Spells
 
-Inside Undermountain, Halaster can't be contacted by means of sending spells. Any creature that tries to contact him with a sending spell is magically redirected to the Mad Mage's nothic secretary (see level 9, area 31). Each time it is contacted in this manner, the nothic replies with a string of expletives in Undercommon. Other things the nothic might say (in Undercommon) include the following:
+Inside Undermountain, Halaster can't be contacted by means of [sending](3-Mechanics/CLI/spells/sending-xphb.md) spells. Any creature that tries to contact him with a [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell is magically redirected to the Mad Mage's nothic secretary (see level 9, area 31). Each time it is contacted in this manner, the nothic replies with a string of expletives in Undercommon. Other things the nothic might say (in Undercommon) include the following:
 
 - "Are you alive or just waiting to be conjured?"  
 - "Get out of my extradimensional space!"  
@@ -280,11 +280,11 @@ Inside Undermountain, Halaster can't be contacted by means of sending spells. An
 
 > [!note] Halaster's Goals
 > 
-> The Mad Mage makes his presence known throughout this adventure. Most often, he's a distant observer, watching with amusement as adventurers contend with the denizens and other dangers of his dungeon. Other times, he appears before them in the form of a spectral eye or some other magical force. Why does he tolerate adventurers in his home? What's his aim? That's for you to decide. This sidebar outlines several possible goals for Halaster. Choose one you like, or randomly determine Halaster's goal by rolling a `dice:d6|noform|noparens|avg` (`d6`). His goal can change at any time without explanation; he is the Mad Mage, after all.
+> The Mad Mage makes his presence known throughout this adventure. Most often, he's a distant observer, watching with amusement as adventurers contend with the denizens and other dangers of his dungeon. Other times, he appears before them in the form of a spectral eye or some other magical force. Why does he tolerate adventurers in his home? What's his aim? That's for you to decide. This sidebar outlines several possible goals for Halaster. Choose one you like, or randomly determine Halaster's goal by rolling a `d6`. His goal can change at any time without explanation; he is the Mad Mage, after all.
 > 
 > **Goal 1 Clean House.** Halaster wants adventurers to clear out parts of his dungeon so that he can restock the tunnels with new threats from across the planes. He's unhappy about the amount of space the drow take up on levels 3, 10, and 12. He's also concerned that the conflict between the githyanki on level 16 and the mind flayers on level 17 could spiral out of control; consequently, he wants one side or the other (or both) eliminated.
 > 
-> **Goal 2 Destroy Ezzat.** An irksome lich named [Ezzat](/3-Mechanics/CLI/bestiary/npc/ezzat-wdmm.md) has taken refuge on level 20, and Halaster wants adventurers to destroy the lich and its phylactery. Halaster has bound two genies (a dao and a marid) to level 19 and uses them to help adventurers accomplish this goal.
+> **Goal 2 Destroy Ezzat.** An irksome lich named [Ezzat](3-Mechanics/CLI/bestiary/npc/ezzat-wdmm.md) has taken refuge on level 20, and Halaster wants adventurers to destroy the lich and its phylactery. Halaster has bound two genies (a dao and a marid) to level 19 and uses them to help adventurers accomplish this goal.
 > 
 > **Goal 3 Strike Fear into Heroes' Hearts.** Halaster wants fewer adventurers coming down the well to pester him and steal his valuable belongings. To that end, his goal is to terrify adventurers and send them screaming back to Waterdeep with horror stories that discourage others from descending into Undermountain.
 > 
@@ -313,13 +313,13 @@ A tunnel's ceiling is as high as the tunnel is wide, unless otherwise noted. Mos
 
 #### Doors and Secret Doors
 
-Normal doors (including double doors) are made of thick, sturdy wood fitted with iron hinges and handles, and protected against moisture by magic. Secret doors are fashioned of the same material as the surface in which they're set (usually stone) and require a successful DC 20 Wisdom (Perception) check to locate, unless noted otherwise. When they are closed, most doors and secret doors create airtight seals, keeping gases and gaseous creatures from passing through them; exceptions are noted in the text.
+Normal doors (including double doors) are made of thick, sturdy wood fitted with iron hinges and handles, and protected against moisture by magic. Secret doors are fashioned of the same material as the surface in which they're set (usually stone) and require a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to locate, unless noted otherwise. When they are closed, most doors and secret doors create airtight seals, keeping gases and gaseous creatures from passing through them; exceptions are noted in the text.
 
-A one-way door can be manually opened only from one side (the other side has no handle or hinges). A knock spell or similar magic is needed to open a one-way door from the "wrong" side.
+A one-way door can be manually opened only from one side (the other side has no handle or hinges). A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic is needed to open a one-way door from the "wrong" side.
 
 Not many doors in Undermountain have locks, but those that do sport locks of masterful craftsmanship. When confronted by a locked door, a character with thieves' tools can pick the lock with a successful DC 20 Dexterity check.
 
-A locked or stuck door can be forced open with a successful DC 20 Strength (Athletics) check. A creature that fails a check to force open a door can't make another attempt on the same door unless it has another creature or a tool (such as a crowbar) to assist.
+A locked or stuck door can be forced open with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A creature that fails a check to force open a door can't make another attempt on the same door unless it has another creature or a tool (such as a crowbar) to assist.
 
 If the direction in which a door opens becomes important, decide for yourself which area the door opens into.
 
@@ -330,11 +330,11 @@ If the direction in which a door opens becomes important, decide for yourself wh
 
 ### Elder Runes
 
-Elder runes are ancient symbols imbued with magical power. With years of study, any creature that can cast the symbol spell can learn an elder rune and add it to the selection of symbols that can be created with the spell. Halaster has spent lifetimes studying elder runes, inventing new ones, and harnessing their volatile magic. He likes to place them throughout Undermountain as hazards.
+Elder runes are ancient symbols imbued with magical power. With years of study, any creature that can cast the [symbol](3-Mechanics/CLI/spells/symbol-xphb.md) spell can learn an elder rune and add it to the selection of symbols that can be created with the spell. Halaster has spent lifetimes studying elder runes, inventing new ones, and harnessing their volatile magic. He likes to place them throughout Undermountain as hazards.
 
-Appendix B presents several [elder runes on paper cards](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) that you can photocopy and cut out to create an [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md). When circumstances call for the appearance of an elder rune, a card is drawn from this deck to determine which rune appears and what it does.
+Appendix B presents several [elder runes on paper cards](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) that you can photocopy and cut out to create an [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md). When circumstances call for the appearance of an elder rune, a card is drawn from this deck to determine which rune appears and what it does.
 
-Elder runes function as symbols cast using the symbol spell, with these changes:
+Elder runes function as symbols cast using the [symbol](3-Mechanics/CLI/spells/symbol-xphb.md) spell, with these changes:
 
 - An elder rune has two possible effects: one beneficial (called the boon effect) and the other harmful (called the bane effect). The elder rune's creator chooses which effect occurs or can randomize it so that a die is rolled to determine whether the bane effect (odd die roll) or the boon effect (even die roll) is triggered.  
 - A triggered elder rune targets one or more creatures within 60 feet of it, according to the caster's specifications. Once the effect activates, the elder rune disappears and the spell ends.  
@@ -345,11 +345,11 @@ A creature doesn't make a saving throw against an elder rune's boon effect. Savi
 
 Halaster creates magic gates that allow instant travel between levels of the dungeon. He can also create gates that lead into and out of Undermountain, which he uses primarily to restock the dungeon with monsters. His old gates were destroyed by the Spellplague, but Halaster has replaced them with new ones, most of which have destinations confined to the dungeon. These gates are not subject to the restrictions outlined in the "Alterations to Magic" section.
 
-Opening a gate in Undermountain usually requires a special key, the casting of a spell, or some other act. Halaster likes to leave clues to help adventurers solve each gate. A legend lore spell or similar magic can also reveal the proper way to open a gate.
+Opening a gate in Undermountain usually requires a special key, the casting of a spell, or some other act. Halaster likes to leave clues to help adventurers solve each gate. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic can also reveal the proper way to open a gate.
 
 An open gate acts as a two-way portal and typically remains open for 1 minute upon activation. Creatures peering through the open gate can see the destination beyond as though they are looking through an open doorway into that location.
 
-A gate can't open within the area of an antimagic field spell or similar effect. Dispel magic has no effect on a gate, but a wish spell can permanently destroy a gate or force it open for up to 1 hour. A gate cannot be damaged or destroyed otherwise.
+A gate can't open within the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell or similar effect. [Dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) has no effect on a gate, but a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can permanently destroy a gate or force it open for up to 1 hour. A gate cannot be damaged or destroyed otherwise.
 
 Halaster favors three kinds of gates:
 
@@ -359,13 +359,13 @@ Halaster favors three kinds of gates:
 
 #### Elder Runes on Gates
 
-When a gate opens, a random elder rune appears within its vertical plane. Draw a card from the [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) to determine which rune appears. Halaster usually has the rune target the first creature that passes through the open gate. Every so often, to keep the players guessing, you can have the rune trigger when the second or third creature passes through. Once an elder rune is triggered, it vanishes until Halaster recasts the symbol spell on the gate.
+When a gate opens, a random elder rune appears within its vertical plane. Draw a card from the [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) to determine which rune appears. Halaster usually has the rune target the first creature that passes through the open gate. Every so often, to keep the players guessing, you can have the rune trigger when the second or third creature passes through. Once an elder rune is triggered, it vanishes until Halaster recasts the [symbol](3-Mechanics/CLI/spells/symbol-xphb.md) spell on the gate.
 
 ### Illumination
 
-Since the creatures that originally carved out Undermountain had darkvision and Halaster lights his way by using magic, areas of the dungeon are unlit unless otherwise noted.
+Since the creatures that originally carved out Undermountain had [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) and Halaster lights his way by using magic, areas of the dungeon are unlit unless otherwise noted.
 
 > [!note] A Visit to Alterdeep
 > 
-> If your party of adventurers is incapacitated or killed in Undermountain, you have an unusual option for keeping both them and the campaign alive: the characters could awaken in an alternate version of the Yawning Portal that is part of a psionically generated simulation of Waterdeep called Alterdeep, created by the ulitharid on level 17. If you choose this option, the characters are stabilized, brought to level 17 of the dungeon by mind flayers or their thralls, and placed in capsules called psipods. While unconscious and trapped in these psipods, the characters are immersed in the ulitharid's realistic simulation of Waterdeep. Over time, they'll notice inconsistencies that suggest they're not where they appear to be, and they'll have chances to converse with the ulitharid in its many guises and convince it to set them free. For more information on Alterdeep and its ulitharid creator, see level 17.
+> If your party of adventurers is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or killed in Undermountain, you have an unusual option for keeping both them and the campaign alive: the characters could awaken in an alternate version of the Yawning Portal that is part of a psionically generated simulation of Waterdeep called Alterdeep, created by the ulitharid on level 17. If you choose this option, the characters are stabilized, brought to level 17 of the dungeon by mind flayers or their thralls, and placed in capsules called psipods. While [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) and trapped in these psipods, the characters are immersed in the ulitharid's realistic simulation of Waterdeep. Over time, they'll notice inconsistencies that suggest they're not where they appear to be, and they'll have chances to converse with the ulitharid in its many guises and convince it to set them free. For more information on Alterdeep and its ulitharid creator, see level 17.
 ^a-visit-to-alterdeep

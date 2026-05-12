@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/halfling/lightfoot
 aliases:
-- Halfling (Lightfoot)
+- "Halfling (Lightfoot)"
 ---
 # Halfling (Lightfoot)
 *Source: Player's Handbook p. 28. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![](/3-Mechanics/CLI/races/img/halfling.webp#right)
+![](3-Mechanics/CLI/races/img/halfling.webp#right)
 
 - **Ability Scores**: cha +1
 - **Size**: Small
@@ -32,7 +32,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ### Brave
 
-You have advantage on saving throws against being [frightened](/3-Mechanics/CLI/conditions.md#Frightened).
+You have advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened).
 
 ### Halfling Nimbleness
 

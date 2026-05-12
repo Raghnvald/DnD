@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beucephalus
+- "Beucephalus"
 ---
-# [Beucephalus](3-Mechanics\CLI\bestiary\npc/beucephalus-cos.md)
+# [Beucephalus](3-Mechanics/CLI/bestiary/npc/beucephalus-cos.md)
 *Source: Curse of Strahd p. 93*  
 
 ```statblock
@@ -52,6 +52,6 @@ aliases:
     "name": "Ethereal Stride"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/beucephalus-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/beucephalus-cos.webp"
 ```
 ^statblock

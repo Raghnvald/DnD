@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Mind Flayer; Mind Flayer Ideals
+- "Roleplaying a Mind Flayer; Mind Flayer Ideals"
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Ideals
 *Source: Volo's Guide to Monsters p. 74* 
 
 **Mind Flayer Ideals**
-
-`dice: [](roleplaying-a-mind-flayer-mind-flayer-ideals-vgm.md#^mind-flayer-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

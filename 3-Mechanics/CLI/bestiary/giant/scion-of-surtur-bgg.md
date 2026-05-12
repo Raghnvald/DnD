@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Surtur
+- "Scion of Surtur"
 ---
-# [Scion of Surtur](3-Mechanics\CLI\bestiary\giant/scion-of-surtur-bgg.md)
+# [Scion of Surtur](3-Mechanics/CLI/bestiary/giant/scion-of-surtur-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 173*  
 
 A scion of Surtur slumbering at the peak of a volcano causes an unending plume of smoke to rise, sometimes lit from below by fiery bursts of lava. As the scion dreams of battle—perhaps a battle to rouse Annam from seclusion by uniting the giants or a war to conquer all in Surtur's name—the volcano rumbles and spews molten rage.
@@ -54,18 +54,15 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "dexterity": !!int "11"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+18"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+15"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 25"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified"
+"senses": "truesight 120 ft., passive Perception 25"
 "languages": "Giant, Primordial"
 "cr": "25"
 "traits":
@@ -80,32 +77,31 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "desc": "The scion makes one attack using Lava Blade or Lava Ball, as well as\
       \ two Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 30 ft., one target. *Hit:* 32\
-      \ (4d10 + 10) slashing damage plus 18 (4d8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 30 ft., one target. *Hit:*\
+      \ 32 (4d10 + 10) slashing damage plus 18 (4d8) fire damage."
     "name": "Lava Blade"
-  - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120/480 ft., one target. *Hit:*\
-      \ 29 (3d12 + 10) bludgeoning damage plus 10 (3d6) fire damage, and the target\
-      \ must succeed on a DC 26 Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
+  - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120/480 ft., one target.\
+      \ *Hit:* 29 (3d12 + 10) bludgeoning damage plus 10 (3d6) fire damage, and\
+      \ the target must succeed on a DC 26 Strength saving throw or have the prone\
       \ condition."
     "name": "Lava Ball"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 28\
-      \ (4d8 + 10) force damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 28 (4d8 + 10) force damage."
     "name": "Slam"
   - "desc": "The scion emits a wave of lava from its blade, hands, or mouth in a 90-foot\
       \ cone. Each creature in that area must make a DC 25 Dexterity saving throw.\
-      \ On a failed save, a creature takes 60 (11d10) fire damage and has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ On a failed save, a creature takes 60 (11d10) fire damage and has the restrained\
       \ condition from being embedded in hardening rock. A creature can make a DC\
-      \ 25 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check as an\
-      \ action, freeing itself or a creature within reach from the rock on a success.\
-      \ The rock has AC 17 and 40 hit points, and it is immune to fire, poison, and\
-      \ psychic damage. On a successful save, a creature takes half as much damage\
-      \ only."
+      \ 25 Strength (Athletics) check as an action, freeing itself or a creature within\
+      \ reach from the rock on a success. The rock has AC 17 and 40 hit points, and\
+      \ it is immune to fire, poison, and psychic damage. On a successful save, a\
+      \ creature takes half as much damage only."
     "name": "Lava Wave (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The scion moves up to its speed and then sends a shock wave through the\
       \ ground in a 60-foot-radius circle centered on itself. Each creature on the\
-      \ ground in that area that is [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ must succeed on a DC 26 Constitution saving throw or lose [concentration](/3-Mechanics/CLI/conditions.md#Concentration)."
+      \ ground in that area that is concentrating must succeed on a DC 26 Constitution\
+      \ saving throw or lose concentration."
     "name": "Earth-Shaking Movement"
   - "desc": "The scion causes smoke and white-hot embers to billow from its skin,\
       \ filling a 30-foot-radius sphere centered on itself that moves with it. While\
@@ -128,6 +124,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/scion-of-surtur-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/scion-of-surtur-bgg.webp"
 ```
 ^statblock

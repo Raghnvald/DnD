@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/small-or-medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Star (Necrotic)
+- "Living Star (Necrotic)"
 ---
-# [Living Star (Necrotic)](3-Mechanics\CLI\bestiary\aberration/living-star-necrotic-bmt.md)
+# [Living Star (Necrotic)](3-Mechanics/CLI/bestiary/aberration/living-star-necrotic-bmt.md)
 *Source: The Book of Many Things p. 180*  
 
 ```statblock
@@ -82,8 +82,8 @@ aliases:
 "reactions":
   - "desc": "When the living portent is damaged by a creature that it can see within\
       \ 120 feet of itself, necrotic power sears the creature. The creature must make\
-      \ a DC 13 Constitution saving throw, taking 10 (3d6) necrotic damage on a failed\
-      \ save, or half as much damage on a successful one."
+      \ a DC 13 Constitution saving throw, taking 10 (3d6) necrotic damage on a\
+      \ failed save, or half as much damage on a successful one."
     "name": "Price of Defiance"
 "source":
   - "BMT"

@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/ggr
 - ttrpg-cli/race/loxodon
 aliases:
-- Loxodon
+- "Loxodon"
 ---
 # Loxodon
 *Source: Guildmasters' Guide to Ravnica p. 17*  
-![](/3-Mechanics/CLI/races/img/loxodon.webp#right)
+![](3-Mechanics/CLI/races/img/loxodon.webp#right)
 
 - **Ability Scores**: con +2 wis +1
 - **Size**: Medium
@@ -36,7 +36,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Loxodon Serenity
 
-You have advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened).
+You have advantage on saving throws against being charmed or frightened.
 
 ### Natural Armor
 
@@ -55,7 +55,7 @@ Your trunk can't wield weapons or shields or do anything that requires manual pr
 
 ### Keen Smell
 
-Thanks to your sensitive trunk, you have advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)), Wisdom ([Survival](/3-Mechanics/CLI/skills.md#Survival)), and Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) checks that involve smell.
+Thanks to your sensitive trunk, you have advantage on Wisdom (Perception), Wisdom (Survival), and Intelligence (Investigation) checks that involve smell.
 
 ### Languages
 

@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Fire Resistance"
 ---
 # Potion of Fire Resistance

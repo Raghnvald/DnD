@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurumvorax Den Leader
+- "Aurumvorax Den Leader"
 ---
-# [Aurumvorax Den Leader](3-Mechanics\CLI\bestiary\monstrosity/aurumvorax-den-leader-jttrc.md)
+# [Aurumvorax Den Leader](3-Mechanics/CLI/bestiary/monstrosity/aurumvorax-den-leader-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 105*  
 
 Aurumvoraxes that feed on a steady supply of precious metals gradually grow in size. These aurumvoraxes are faster and deadlier than others of their kind.
@@ -45,17 +45,18 @@ Alone or in small groups, aurumvoraxes dig deep in search of precious metals. Su
   - "strength": !!int "6"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"condition_immunities": "petrified"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "4"
 "traits":
   - "desc": "The aurumvorax's allies have advantage on attack rolls while within 10\
-      \ feet of the aurumvorax, provided it isn't incapacitated."
+      \ feet of the aurumvorax, provided it isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Leader"
   - "desc": "The aurumvorax can burrow through solid rock and metal at half its burrowing\
       \ speed and leaves a 5-foot-diameter tunnel in its wake."
@@ -64,8 +65,8 @@ Alone or in small groups, aurumvoraxes dig deep in search of precious metals. Su
   - "desc": "The aurumvorax makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) piercing damage. If the target is a creature wearing armor of any\
-      \ type, the aurumvorax gains one of the following benefits of its choice:"
+      \ (2d8 + 4) piercing damage. If the target is a creature wearing armor of\
+      \ any type, the aurumvorax gains one of the following benefits of its choice:"
     "name": "Bite"
   - "desc": "The aurumvorax has advantage on attack rolls until start of its next\
       \ turn."
@@ -73,13 +74,14 @@ Alone or in small groups, aurumvoraxes dig deep in search of precious metals. Su
   - "desc": "The aurumvorax regains 6 (1d8 + 2) hit points."
     "name": "Invigorate"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage. If the target is a Large or smaller creature, it\
-      \ is grappled (escape DC 14). Until this grapple ends, the aurumvorax can't\
-      \ use its Claw attack on another target, and when it moves, it can drag the\
-      \ grappled creature with it, without the aurumvorax's speed being halved."
+      \ (2d6 + 4) slashing damage. If the target is a Large or smaller creature,\
+      \ it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC\
+      \ 14). Until this grapple ends, the aurumvorax can't use its Claw attack on\
+      \ another target, and when it moves, it can drag the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ creature with it, without the aurumvorax's speed being halved."
     "name": "Claw"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/aurumvorax-den-leader-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/aurumvorax-den-leader-jttrc.webp"
 ```
 ^statblock

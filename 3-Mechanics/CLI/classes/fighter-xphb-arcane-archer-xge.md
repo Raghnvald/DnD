@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/fighter/arcane-archer
 aliases:
-- Arcane Archer
+- "Arcane Archer"
 ---
 # Arcane Archer
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
@@ -47,21 +47,19 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Arcane Archer (Level 3)
-
 An Arcane Archer studies a unique elven method of archery that weaves magic into attacks to produce supernatural effects. Arcane Archers are some of the most elite warriors among the elves. They stand watch over the fringes of elven domains, keeping a keen eye out for trespassers and using magic-infused arrows to defeat monsters and invaders before they can reach elven settlements. Over the centuries, the methods of these elf archers have been learned by members of other races who can also balance arcane aptitude with archery.
+
+## Subclass Features
 
 ### Arcane Archer Lore (Level 3)
 
-At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) or the [Nature](/3-Mechanics/CLI/skills.md#Nature) skill, and you choose to learn either the [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md) or the [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md) cantrip.
+At 3rd level, you learn magical theory or some of the secrets of nature—typical for practitioners of this elven martial tradition. You choose to gain proficiency in either the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or the [Nature](3-Mechanics/CLI/rules/skills.md#Nature) skill, and you choose to learn either the [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md) or the [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md) cantrip.
 
 ### Arcane Shot (Level 3)
 
 At 3rd level, you learn to unleash special magical effects with some of your shots. When you gain this feature, you learn two Arcane Shot options of your choice (see "Arcane Shot Options" below).
 
-Once per turn when you fire an arrow from a shortbow or longbow as part of the [Attack](/3-Mechanics/CLI/actions.md#Attack) action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
+Once per turn when you fire an arrow from a shortbow or longbow as part of the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action, you can apply one of your Arcane Shot options to that arrow. You decide to use the option when the arrow hits a creature, unless the option doesn't involve an attack roll. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
 
 You gain an additional Arcane Shot option of your choice when you reach certain levels in this class: 7th, 10th, 15th, and 18th level. Each option also improves when you become an 18th-level fighter.
 
@@ -72,6 +70,17 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:
 
 <span class='abilityDc'>**Arcane Shot save DC**: Intelligence + Proficiency Bonus</span>
+
+Options (choose 2):
+
+- [Banishing Arrow](3-Mechanics/CLI/optional-features/banishing-arrow-xge.md)  
+- [Beguiling Arrow](3-Mechanics/CLI/optional-features/beguiling-arrow-xge.md)  
+- [Bursting Arrow](3-Mechanics/CLI/optional-features/bursting-arrow-xge.md)  
+- [Enfeebling Arrow](3-Mechanics/CLI/optional-features/enfeebling-arrow-xge.md)  
+- [Grasping Arrow](3-Mechanics/CLI/optional-features/grasping-arrow-xge.md)  
+- [Piercing Arrow](3-Mechanics/CLI/optional-features/piercing-arrow-xge.md)  
+- [Seeking Arrow](3-Mechanics/CLI/optional-features/seeking-arrow-xge.md)  
+- [Shadow Arrow](3-Mechanics/CLI/optional-features/shadow-arrow-xge.md)  
 
 ### Magic Arrow (Level 7)
 
@@ -104,5 +113,5 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 ## Optional Features
 
 > [!example]- Optional Features: Arcane Shot
-> ![Arcane Shot](/3-Mechanics/CLI/lists/list-optfeaturetype-as.md#Arcane%20Shot)
+> ![Arcane Shot](3-Mechanics/CLI/lists/list-optfeaturetype-as.md#Arcane%20Shot)
 ^list-optfeature-as

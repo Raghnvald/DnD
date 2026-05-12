@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Beholder; Beholder Flaws
+- "Roleplaying a Beholder; Beholder Flaws"
 ---
 # Roleplaying a Beholder; Beholder Flaws
 *Source: Volo's Guide to Monsters p. 8* 
 
 **Beholder Flaws**
-
-`dice: [](roleplaying-a-beholder-beholder-flaws-vgm.md#^beholder-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/ggr
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Peregrine Mask"
 ---
 # Peregrine Mask
 *Wondrous item, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/peregrine-mask.webp#right)
+![](3-Mechanics/CLI/items/img/peregrine-mask.webp#right)
 
 
 While wearing this winged helm, you have a flying speed of 60 feet. In addition, you have advantage on initiative rolls.

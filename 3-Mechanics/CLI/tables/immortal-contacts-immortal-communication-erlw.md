@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Immortal Contacts; Immortal Communication
+- "Immortal Contacts; Immortal Communication"
 ---
 # Immortal Contacts; Immortal Communication
 *Source: Eberron: Rising from the Last War p. 84* 
 
 **Immortal Communication**
-
-`dice: [](immortal-contacts-immortal-communication-erlw.md#^immortal-communication)`
 
 | dice: d10 | Means of Contact |
 |-----------|------------------|

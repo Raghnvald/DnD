@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/other
-aliases: 
+aliases:
 - "Pearl of Undead Detection"
 ---
 # Pearl of Undead Detection

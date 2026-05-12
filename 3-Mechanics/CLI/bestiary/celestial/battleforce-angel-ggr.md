@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Battleforce Angel
+- "Battleforce Angel"
 ---
-# [Battleforce Angel](3-Mechanics\CLI\bestiary\celestial/battleforce-angel-ggr.md)
+# [Battleforce Angel](3-Mechanics/CLI/bestiary/celestial/battleforce-angel-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 189*  
 
 Battleforce angels are the radiant hosts that soar into combat, bathed in the light of Boros zeal. They lead companies of mortal soldiers from above or fly ahead of roc-mounted skyknights. They don't shy away from the blood, pain, and confusion of combat; rather, they immerse themselves in the shifting tides of battle. Only by wading into the battle can they fulfill their responsibility to carry out the commands of the warleaders by adapting their tactics to the shifting situation on the ground.
@@ -33,7 +33,7 @@ The wisest, most visionary angels are responsible for forming and implementing t
 "type": "celestial"
 "alignment": "Lawful Good"
 "ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "plate armor"
 "hp": !!int "66"
 "hit_dice": "12d8 + 12"
 "modifier": !!int "1"
@@ -49,15 +49,15 @@ The wisest, most visionary angels are responsible for forming and implementing t
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+  - "name": "Investigation"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_resistances": "fire, radiant"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
-  \ 120 ft., passive Perception 16"
+"condition_immunities": "charmed, exhaustion, frightened"
+"gear":
+  - "longsword"
+"senses": "darkvision 120 ft., truesight 120 ft., passive Perception 16"
 "languages": "all"
 "cr": "5"
 "traits":
@@ -70,17 +70,18 @@ The wisest, most visionary angels are responsible for forming and implementing t
 "actions":
   - "desc": "The angel makes two melee attacks. It also uses Battlefield Inspiration."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands,\
-      \ plus 18 (4d8) radiant damage. If the target is within 5 feet of any of the\
-      \ angel's allies, the target takes an extra 2 (1d4) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands, plus 18 (4d8) radiant damage. If the target is within 5 feet\
+      \ of any of the angel's allies, the target takes an extra 2 (1d4) radiant\
+      \ damage."
     "name": "Longsword"
   - "desc": "The angel chooses up to three creatures it can see within 30 feet of\
-      \ it. Until the end of the angel's next turn, each target can add a d4 to its\
-      \ attack rolls and saving throws."
+      \ it. Until the end of the angel's next turn, each target can add a d4 to\
+      \ its attack rolls and saving throws."
     "name": "Battlefield Inspiration"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/battleforce-angel-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/battleforce-angel-ggr.webp"
 ```
 ^statblock

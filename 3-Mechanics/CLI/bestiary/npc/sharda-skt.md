@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/illuskan-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sharda
+- "Sharda"
 ---
-# [Sharda](3-Mechanics\CLI\bestiary\npc/sharda-skt.md)
+# [Sharda](3-Mechanics/CLI/bestiary/npc/sharda-skt.md)
 *Source: Storm King's Thunder p. 103*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Illuskan human"
 "alignment": "Neutral Evil"
 "ac": !!int "16"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "2"
@@ -35,32 +35,38 @@ aliases:
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+4"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Terran"
 "cr": "2"
 "traits":
   - "desc": "Sharda is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 11, +3 to hit with spell attacks). Sharda has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
-      \n**1st level (4 slots):** command, inflict wounds, shield of faith\n\n**2nd\
-      \ level (3 slots):** hold person, spiritual weapon"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [shield of\
+      \ faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Sharda has advantage on saving throws against being charmed or frightened."
+  - "desc": "Sharda has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
   - "desc": "Sharda makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Club"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sharda-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sharda-skt.webp"
 ```
 ^statblock

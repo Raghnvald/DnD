@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Dungeon Master's Guide (2024)* 
@@ -32,8 +32,8 @@ aliases:
         - **Building on the original game created by** Gary Gygax and Dave Arneson and then developed by many others over the past 50 years    
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/249-14-001-dungeon-masters-guide.webp#gallery)
+> ![](3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/249-14-001-dungeon-masters-guide.webp#gallery)
 
 > [!gallery]
-> ![On the Cover: Tyler Jacobs...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/250-14-002-on-the-cover.webp#gallery "On the Cover: Tyler Jacobson illustrates the archvillain Venger, his evil cohorts Skylla and Warduke, and a legion of skeletal minions.")
-> ![On the Alt-Cover: Lolth, t...](/3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/251-14-003-on-the-alt-cover.webp#gallery "On the Alt-Cover: Lolth, the Demon Queen of Spiders, spins a tangled web of schemes and snares in this illustration by Olena Richards.")
+> ![On the Cover: Tyler Jacobson illustrates the archvillain Venger, his evil cohorts Skylla and Warduke, and a legion of skeletal minions.](3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/250-14-002-on-the-cover.webp#gallery)
+> ![On the Alt-Cover: Lolth, the Demon Queen of Spiders, spins a tangled web of schemes and snares in this illustration by Olena Richards.](3-Mechanics/CLI/books/dungeon-masters-guide-2024/img/251-14-003-on-the-alt-cover.webp#gallery)

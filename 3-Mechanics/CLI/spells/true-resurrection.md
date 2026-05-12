@@ -14,7 +14,7 @@ classes:
 - Cleric
 - Druid
 aliases:
-- True Resurrection
+- "True Resurrection"
 ---
 # True Resurrection
 *9th-level, Necromancy*  
@@ -31,6 +31,6 @@ This spell closes all wounds, neutralizes any poison, cures all diseases, and li
 
 The spell can even provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

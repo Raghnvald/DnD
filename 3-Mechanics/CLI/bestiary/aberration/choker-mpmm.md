@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Choker
+- "Choker"
 ---
-# [Choker](3-Mechanics\CLI\bestiary\aberration/choker-mpmm.md)
+# [Choker](3-Mechanics/CLI/bestiary/aberration/choker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 76, Mordenkainen's Tome of Foes p. 123*  
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -47,10 +47,10 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Deep Speech"
 "cr": "1"
 "traits":
@@ -65,10 +65,10 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "actions":
   - "desc": "The choker makes two Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5\
-      \ (1d4 + 3) piercing damage. If the target is a Large or smaller creature, it\
-      \ is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until\
-      \ this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 5 (1d4 + 3) piercing damage. If the target is a Large or smaller creature,\
+      \ it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC\
+      \ 15). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
       \ and the choker can't use this tentacle on another target. The choker has two\
       \ tentacles. If this attack is a critical hit, the target also can't breathe\
       \ or speak until the grapple ends."
@@ -76,7 +76,7 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp"
 ```
 ^statblock
 

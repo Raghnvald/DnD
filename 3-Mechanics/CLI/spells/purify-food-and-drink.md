@@ -9,6 +9,7 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+- ttrpg-cli/spell/feat/quicksmithing
 - ttrpg-cli/spell/feat/ritual-caster/druid-spells
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/book-of-ancient-secrets
@@ -20,7 +21,7 @@ classes:
 - Druid
 - Paladin
 aliases:
-- Purify Food and Drink
+- "Purify Food and Drink"
 ---
 # Purify Food and Drink
 *1st-level, Transmutation (ritual)*  
@@ -33,6 +34,6 @@ aliases:
 
 All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

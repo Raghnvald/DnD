@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Race
+- "Supplemental Tables; Race"
 ---
 # Supplemental Tables; Race
 *Source: Xanathar's Guide to Everything p. 72* 
 
 **Race**
-
-`dice: [](supplemental-tables-race-xge.md#^race)`
 
 | dice: d100 | Race |
 |------------|------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mud Hulk
+- "Mud Hulk"
 ---
-# [Mud Hulk](3-Mechanics\CLI\bestiary\elemental/mud-hulk-bgg.md)
+# [Mud Hulk](3-Mechanics/CLI/bestiary/elemental/mud-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 161*  
 
 The ancestors of mud hulks were hill giants who, living in isolation, ate everything within reach until they were forced to subsist on the earth itself. The giants' elemental nature asserted itself and transformed them into creatures of living mud.
@@ -43,8 +43,7 @@ A mud hulk vaguely resembles its ancestors, but its body consists of wet mud tha
   - !!int "6"
 "speed": "40 ft."
 "damage_resistances": "acid"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)"
+"condition_immunities": "exhaustion, paralyzed"
 "senses": "passive Perception 9"
 "languages": "Giant, Terran"
 "cr": "3"
@@ -55,17 +54,17 @@ A mud hulk vaguely resembles its ancestors, but its body consists of wet mud tha
       \ creatures."
     "name": "Sticky Mud"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d12 + 3) bludgeoning damage. If the target is a Large or smaller creature,\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d12 + 3) bludgeoning damage. If the target is a Large or smaller creature,\
       \ it must succeed on a DC 13 Strength saving throw or be pulled into the mud\
       \ hulk's space and be engulfed by the mud hulk. While engulfed, the target can't\
-      \ breathe, has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition,\
-      \ and takes 6 (1d12) acid damage at the start of each of its turns. When the\
-      \ mud hulk moves, the engulfed target moves with it. The mud hulk can have only\
-      \ one target engulfed at a time. While a creature is engulfed, the mud hulk\
-      \ can't use its Amorphous trait.\n\nAn engulfed target can repeat the saving\
-      \ throw at the end of each of its turns. On a successful save, the target escapes\
-      \ and enters the nearest unoccupied space."
+      \ breathe, has the restrained condition, and takes 6 (1d12) acid damage at\
+      \ the start of each of its turns. When the mud hulk moves, the engulfed target\
+      \ moves with it. The mud hulk can have only one target engulfed at a time. While\
+      \ a creature is engulfed, the mud hulk can't use its Amorphous trait.\n\nAn\
+      \ engulfed target can repeat the saving throw at the end of each of its turns.\
+      \ On a successful save, the target escapes and enters the nearest unoccupied\
+      \ space."
     "name": "Enveloping Slam"
   - "desc": "The mud hulk lobs a mass of mud that splashes in a 10-foot-radius sphere\
       \ centered on a point within 30 feet of the mud hulk. Each creature in that\
@@ -75,6 +74,6 @@ A mud hulk vaguely resembles its ancestors, but its body consists of wet mud tha
     "name": "Mud Splash"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/mud-hulk-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/mud-hulk-bgg.webp"
 ```
 ^statblock

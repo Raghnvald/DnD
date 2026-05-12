@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Empyrean Iota
+- "Empyrean Iota"
 ---
-# [Empyrean Iota](3-Mechanics\CLI\bestiary\miscellaneous/empyrean-iota-xmm.md)
+# [Empyrean Iota](3-Mechanics/CLI/bestiary/miscellaneous/empyrean-iota-xmm.md)
 *Source: Monster Manual (2024) p. 112*  
 
 Empyrean iotas are the thoughts, memories, or indirect attentions of deities personified and given a measure of autonomy. Resembling floating glyphs, motes of color, icons of divinity, or stranger shapes, these beings are messengers of the gods and aides to those gods' servants. Iotas have their own knowledge and personalities, though they might know little more than the realms and wishes of their creators.
@@ -23,13 +23,11 @@ Empyrean iotas are the thoughts, memories, or indirect attentions of deities per
 *Scions of the Gods*
 
 - **Habitat.** Any  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Empyreans are the spawn of deities. While not gods themselves, they possess divine influence and powers related to their divine parents. Some empyreans are near-demigods with fantastic might and the power to reshape mortal lives. Others are little more than divine thoughts or moments of immortal attention made manifest. Whether empyreans are idealized beings or vestiges of divinity, their appearances are influenced by their creators. Roll on or choose a result from the Empyrean Influences table to inspire what aspects of an empyrean's heritage manifest in its physical form.
 
 **Empyrean Influences**
-
-`dice: [](empyrean-iota-xmm.md#^empyrean-influences)`
 
 | dice: 1d6 | The Empyrean Has Features That Are... |
 |-----------|---------------------------------------|
@@ -64,24 +62,24 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - !!int "16"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 30 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive\
+  \ Perception 15"
 "languages": "all"
 "cr": "1"
 "traits":
   - "desc": "The empyrean can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ were [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
-  - "desc": "The empyrean has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The empyrean has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -90,16 +88,16 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Otherworldly Strike"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability:\n\n**1/day each:**\
-      \ [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\
+      \ [Bless](3-Mechanics/CLI/spells/bless-xphb.md), [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\
       \ (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The empyrean casts [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
+  - "desc": "The empyrean casts [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Healing Word (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-iota-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-iota-xmm.webp"
 ```
 ^statblock
 

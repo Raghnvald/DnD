@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spirit Naga
+- "Spirit Naga"
 ---
-# [Spirit Naga](3-Mechanics\CLI\bestiary\monstrosity/spirit-naga.md)
-*Source: Monster Manual p. 234, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Spirit Naga](3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md)
+*Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
@@ -66,33 +66,39 @@ A naga doesn't require air, food, drink, or sleep.
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
   - "desc": "The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal\
       \ components to cast its spells. It has the following wizard spells prepared:\n\
-      \n**Cantrips (at will):** mage hand, minor illusion, ray of frost\n\n**1st level\
-      \ (4 slots):** charm person, detect magic, sleep\n\n**2nd level (3 slots):**\
-      \ detect thoughts, hold person\n\n**3rd level (3 slots):** lightning bolt, water\
-      \ breathing\n\n**4th level (3 slots):** blight, dimension door\n\n**5th level\
-      \ (2 slots):** dominate person"
+      \n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\
+      \n**1st level (4 slots):** [charm person](3-Mechanics/CLI/spells/charm-person.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [sleep](3-Mechanics/CLI/spells/sleep.md)\n\
+      \n**2nd level (3 slots):** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\n**3rd level (3 slots):**\
+      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md), [water breathing](3-Mechanics/CLI/spells/water-breathing.md)\n\
+      \n**4th level (3 slots):** [blight](3-Mechanics/CLI/spells/blight.md), [dimension\
+      \ door](3-Mechanics/CLI/spells/dimension-door.md)\n\n**5th level (2 slots):**\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person.md)"
     "name": "Spellcasting"
   - "desc": "If it dies, the naga returns to life in 1d6 days and regains all its\
-      \ hit points. Only a wish spell can prevent this trait from functioning."
+      \ hit points. Only a [wish](3-Mechanics/CLI/spells/wish.md) spell can prevent\
+      \ this trait from functioning."
     "name": "Rejuvenation"
 "actions":
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution\
-      \ saving throw, taking 31 (7d8) poison damage on a failed save, or half as much\
-      \ damage on a successful one."
+      \ saving throw, taking 31 (7d8) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/spirit-naga.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/spirit-naga.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vincent Trench
+- "Vincent Trench"
 ---
-# [Vincent Trench](3-Mechanics\CLI\bestiary\npc/vincent-trench-wdh.md)
+# [Vincent Trench](3-Mechanics/CLI/bestiary/npc/vincent-trench-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 32*  
 
 ```statblock
@@ -34,22 +34,28 @@ aliases:
   - !!int "20"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+10"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+8"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Infernal"
 "cr": "13"
 "traits":
   - "desc": "Vincent's innate spellcasting ability is Charisma (spell save DC 18,\
-      \ +10 to hit with spell attacks). Vincent can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** detect thoughts, disguise\
-      \ self, mage hand, minor illusion\n\n**3/day each:** charm person, detect magic,\
-      \ invisibility, major image, suggestion\n\n**1/day each:** dominate person,\
-      \ fly, plane shift, true seeing"
+      \ +10 to hit with spell attacks). Vincent can innately cast the following\
+      \ spells, requiring no material components:\n\n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**3/day\
+      \ each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md), [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**1/day each:** [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Vincent can't be affected or detected by spells of 6th level or lower\
       \ unless it wishes to be. It has advantage on saving throws against all other\
@@ -58,15 +64,16 @@ aliases:
 "actions":
   - "desc": "Vincent makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage, and the target is cursed if it is a creature. The magical\
-      \ curse takes effect whenever the target takes a short or long rest, filling\
-      \ the target's thoughts with horrible images and dreams. The cursed target gains\
-      \ no benefit from finishing a short or long rest. The curse lasts until it is\
-      \ lifted by a remove curse spell or similar magic."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage, and the target is cursed if it is a creature.\
+      \ The magical curse takes effect whenever the target takes a short or long rest,\
+      \ filling the target's thoughts with horrible images and dreams. The cursed\
+      \ target gains no benefit from finishing a short or long rest. The curse lasts\
+      \ until it is lifted by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
+      \ spell or similar magic."
     "name": "Claw"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/vincent-trench-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/vincent-trench-wdh.webp"
 ```
 ^statblock

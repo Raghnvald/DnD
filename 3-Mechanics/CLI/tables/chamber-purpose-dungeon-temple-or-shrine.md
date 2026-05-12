@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; Dungeon: Temple or Shrine
+- "Chamber Purpose; Dungeon: Temple or Shrine"
 ---
 # Chamber Purpose; Dungeon: Temple or Shrine
 *Source: Dungeon Master's Guide p. 292* 
 
 **Dungeon: Temple or Shrine**
-
-`dice: [](chamber-purpose-dungeon-temple-or-shrine.md#^dungeon-temple-or-shrine)`
 
 | dice: d100 | Purpose |
 |------------|---------|

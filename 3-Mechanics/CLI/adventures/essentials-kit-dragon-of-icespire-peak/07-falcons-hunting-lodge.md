@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Falcon's Hunting Lodge
+- "Falcon's Hunting Lodge"
 ---
 # Falcon's Hunting Lodge
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 24* 
@@ -14,7 +14,7 @@ Falcon's Hunting Lodge is a sanctuary in the heart of Neverwinter Wood. This loc
 
 ## Location Overview
 
-[Falcon the Hunter](/3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md) maintains this hunting lodge to cater to nobles from Neverwinter. He offers his services as a guide to those nobles, most of whom wouldn't last long in the forest without his protection and survival skills. Falcon abhors city life, preferring a rustic existence and simple pleasures. His lodge has all the creature comforts he requires, though he never turns down a good bottle of wine (or even a bad one) from a visitor.
+[Falcon the Hunter](3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md) maintains this hunting lodge to cater to nobles from Neverwinter. He offers his services as a guide to those nobles, most of whom wouldn't last long in the forest without his protection and survival skills. Falcon abhors city life, preferring a rustic existence and simple pleasures. His lodge has all the creature comforts he requires, though he never turns down a good bottle of wine (or even a bad one) from a visitor.
 
 Falcon has two retainers: an elderly, world-weary cook named Corwin, and a mute twelve-year-old stable hand named Pell. Both are noncombatants.
 
@@ -35,7 +35,7 @@ If the characters announce their arrival by ringing the bell or yelling over the
 
 ### Roleplaying Falcon
 
-[Falcon the Hunter](/3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md) wears a fur-lined cloak over his studded leather armor. He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eyes are as blue, cold, and sharp as ice, and he sports a neatly trimmed beard. Falcon moves with the casual confidence of one who fears nothing, and he greets every concern with nonplussed indifference. He loves good wine and treats other people as he would like to be treated—fairly and with patience.
+[Falcon the Hunter](3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md) wears a fur-lined cloak over his studded leather armor. He stands 6 feet, 6 inches tall, and has black hair and broad shoulders. His eyes are as blue, cold, and sharp as ice, and he sports a neatly trimmed beard. Falcon moves with the casual confidence of one who fears nothing, and he greets every concern with nonplussed indifference. He loves good wine and treats other people as he would like to be treated—fairly and with patience.
 
 Falcon's real name is Gustaf Stellern, but he has long since abandoned it. His hunting skills have earned him the name he now bears. Given the chance, he shares the following useful information with the characters:
 
@@ -45,7 +45,7 @@ Falcon's real name is Gustaf Stellern, but he has long since abandoned it. His h
 
 #### Woodland Manse Quest
 
-If the characters are eligible to undertake the Woodland Manse Quest, Falcon offers a pair of boots of elvenkind as a reward for completing it. Give the players the Boots of Elvenkind [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Boots%20of%20Elvenkind) once the boots are acquired or they can reference them in the Magic Items Listing.
+If the characters are eligible to undertake the Woodland Manse Quest, Falcon offers a pair of [boots of elvenkind](3-Mechanics/CLI/items/boots-of-elvenkind.md) as a reward for completing it. Give the players the [Boots of Elvenkind](3-Mechanics/CLI/items/boots-of-elvenkind.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Boots%20of%20Elvenkind) once the boots are acquired or they can reference them in the Magic Items Listing.
 
 Falcon politely declines any offer to join the characters on a quest, stating that he must remain at the lodge in case nobles from Neverwinter come looking for his services.
 
@@ -69,8 +69,8 @@ Falcon politely declines any offer to join the characters on a quest, stating th
 The following locations are keyed to the map of Falcon's Hunting lodge.
 
 > [!gallery]
-> ![Falcon's Hunting Lodge](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/017-map-fhl-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/018-map-fhl-pc.webp#gallery)
+> ![Falcon's Hunting Lodge](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/017-map-fhl-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/018-map-fhl-pc.webp#gallery)
 
 #### F1. Stone Bridge
 
@@ -86,7 +86,7 @@ The guest house has a barn-like quality. A carpet of straw covers the dirt floor
 
 #### F4. Stables
 
-Falcon's [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse.md), a reliable gray stallion named Baatorius, is usually lodged in the westernmost stall. The other stalls are empty.
+Falcon's riding horse, a reliable gray stallion named Baatorius, is usually lodged in the westernmost stall. The other stalls are empty.
 
 #### F5. Storage
 

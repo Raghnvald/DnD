@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Skoraeus
+- "Scion of Skoraeus"
 ---
-# [Scion of Skoraeus](3-Mechanics\CLI\bestiary\giant/scion-of-skoraeus-bgg.md)
+# [Scion of Skoraeus](3-Mechanics/CLI/bestiary/giant/scion-of-skoraeus-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 169*  
 
 A scion of Skoraeus typically slumbers deep in the heart of a towering mountain, almost becoming one with the earth. While the scion dreams, the mountain's minerals are transformed into fine carving stones and brilliant gems.
@@ -58,17 +58,15 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "dexterity": !!int "12"
   - "wisdom": !!int "14"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+14"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"condition_immunities": "charmed, frightened, paralyzed, petrified"
+"senses": "truesight 120 ft., passive Perception 24"
 "languages": "Giant, Primordial"
 "cr": "23"
 "traits":
@@ -84,34 +82,33 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
       \ Entombing Grasp if available. Alternatively, the scion makes two Runic Boulder\
       \ attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 30 ft., one target. *Hit:* 35\
-      \ (4d12 + 9) bludgeoning damage. *Hit or Miss:* The scion can cause the club\
-      \ to flare with bright light, and the target must succeed on a DC 22 Constitution\
-      \ saving throw or take 18 (4d8) radiant damage and have the [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ condition until the start of the scion's next turn."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 30 ft., one target. *Hit:*\
+      \ 35 (4d12 + 9) bludgeoning damage. *Hit or Miss:* The scion can cause the\
+      \ club to flare with bright light, and the target must succeed on a DC 22 Constitution\
+      \ saving throw or take 18 (4d8) radiant damage and have the blinded condition\
+      \ until the start of the scion's next turn."
     "name": "Crystal Club"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 31\
-      \ (4d10 + 9) force damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:*\
+      \ 31 (4d10 + 9) force damage."
     "name": "Slam"
-  - "desc": "*Ranged Weapon Attack:* +16 to hit, range 120/480 ft., one target. *Hit:*\
-      \ 27 (4d8 + 9) bludgeoning damage. *Hit or Miss:* The boulder explodes. The\
-      \ target and each creature within 30 feet of it must make a DC 22 Dexterity\
-      \ saving throw. On a failed save, a creature takes 19 (3d12) force damage and\
-      \ has the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition. On a successful\
-      \ save, a creature takes half as much damage only."
+  - "desc": "*Ranged Weapon Attack:* +16 to hit, range 120/480 ft., one target.\
+      \ *Hit:* 27 (4d8 + 9) bludgeoning damage. *Hit or Miss:* The boulder explodes.\
+      \ The target and each creature within 30 feet of it must make a DC 22 Dexterity\
+      \ saving throw. On a failed save, a creature takes 19 (3d12) force damage\
+      \ and has the prone condition. On a successful save, a creature takes half as\
+      \ much damage only."
     "name": "Runic Boulder"
   - "desc": "The scion wreathes its hand in petrifying magic and touches one Huge\
       \ or smaller creature it can see within 20 feet of itself. The target must succeed\
-      \ on a DC 24 Dexterity saving throw or take 28 (8d6) force damage and have the\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape DC 19).\
-      \ At the start of the scion's next turn, if the target is still [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-      \ the target has the [petrified](/3-Mechanics/CLI/conditions.md#Petrified) condition."
+      \ on a DC 24 Dexterity saving throw or take 28 (8d6) force damage and have\
+      \ the grappled condition (escape DC 19). At the start of the scion's next turn,\
+      \ if the target is still grappled, the target has the petrified condition."
     "name": "Entombing Grasp (Recharge 6)"
 "bonus_actions":
   - "desc": "The scion moves up to its speed and then sends a shock wave through the\
       \ ground in a 60-foot radius circle centered on itself. Each creature on the\
-      \ ground in that area that is [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ must succeed on a DC 24 Constitution saving throw or lose [concentration](/3-Mechanics/CLI/conditions.md#Concentration)."
+      \ ground in that area that is concentrating must succeed on a DC 24 Constitution\
+      \ saving throw or lose concentration."
     "name": "Earth-Shaking Movement"
 "regional_effects":
   - "desc": "The region surrounding a scion of Skoraeus is altered by the giant's\
@@ -126,6 +123,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/scion-of-skoraeus-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/scion-of-skoraeus-bgg.webp"
 ```
 ^statblock

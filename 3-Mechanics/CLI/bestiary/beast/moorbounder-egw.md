@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Moorbounder
+- "Moorbounder"
 ---
-# [Moorbounder](3-Mechanics\CLI\bestiary\beast/moorbounder-egw.md)
-*Source: Explorer's Guide to Wildemount p. 295*  
+# [Moorbounder](3-Mechanics/CLI/bestiary/beast/moorbounder-egw.md)
+*Source: Explorer's Guide to Wildemount p. 295, Critical Role: Call of the Netherdeep p. 295*  
 
 One of the many predators to stalk the marshlands and muddy foothills of Xhorhas, moorbounders are known as dangerous killers to those who try to avoid them on their travels—and as prized mounts for those willing to capture and train them. Though the process of domesticating a moorbounder is fraught with peril, these creatures can become favored hunting companions and powerful war mounts.
 
@@ -39,8 +39,7 @@ Moorbounders hunt with elongated tusks and retractable claws. With a vague resem
   - !!int "13"
   - !!int "5"
 "speed": "70 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "1"
 "traits":
@@ -53,6 +52,7 @@ Moorbounders hunt with elongated tusks and retractable claws. With a vague resem
     "name": "Claws"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/moorbounder-egw.webp"
+  - "CRCotN"
+"image": "3-Mechanics/CLI/bestiary/beast/token/moorbounder-egw.webp"
 ```
 ^statblock

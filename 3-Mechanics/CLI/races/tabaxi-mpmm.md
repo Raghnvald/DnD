@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/tabaxi
 aliases:
-- Tabaxi
+- "Tabaxi"
 ---
 # Tabaxi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 33*  
-![](/3-Mechanics/CLI/races/img/tabaxi.webp#right)
+![](3-Mechanics/CLI/races/img/tabaxi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -28,11 +28,11 @@ Your walking speed is 30 feet, and you have a climbing speed equal to your walki
 
 ### Cat's Claws
 
-You can use your claws to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You can use your claws to make unarmed strikes. When you hit with them, the strike deals `1d6` + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Cat's Talent
 
-You have proficiency in the [Perception](/3-Mechanics/CLI/skills.md#Perception) and [Stealth](/3-Mechanics/CLI/skills.md#Stealth) skills.
+You have proficiency in the [Perception](3-Mechanics/CLI/rules/skills.md#Perception) and [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) skills.
 
 ### Darkvision
 

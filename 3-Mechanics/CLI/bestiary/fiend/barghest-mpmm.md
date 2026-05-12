@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barghest
+- "Barghest"
 ---
-# [Barghest](3-Mechanics\CLI\bestiary\fiend/barghest-mpmm.md)
+# [Barghest](3-Mechanics/CLI/bestiary/fiend/barghest-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123*  
 
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
@@ -47,19 +47,19 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
   - !!int "14"
 "speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 15"
 "languages": "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
 "cr": "4"
@@ -82,15 +82,15 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage."
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md), [minor\
-      \ illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md), [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)\n\
-      \n**1/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+      \n**At will:** [levitate](3-Mechanics/CLI/spells/levitate-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)\n\n\
+      **1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The barghest transforms into a Small goblin or back into its true form.\
@@ -101,7 +101,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp"
 ```
 ^statblock
 

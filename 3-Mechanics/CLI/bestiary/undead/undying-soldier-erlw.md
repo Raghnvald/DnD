@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undying Soldier
+- "Undying Soldier"
 ---
-# [Undying Soldier](3-Mechanics\CLI\bestiary\undead/undying-soldier-erlw.md)
+# [Undying Soldier](3-Mechanics/CLI/bestiary/undead/undying-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying soldiers make up the army of Aerenal's City of the Dead. They guard the temples of the Undying Court and the mansions of the noble lines of Aerenal, and Aereni ambassadors are often accompanied by undead bodyguards. Undying soldiers wear heirloom armor and wield ornate weaponry.
@@ -73,6 +73,8 @@ An undying doesn't require air, food, drink, or sleep.
   \ that aren't silvered"
 "damage_immunities": "poison"
 "condition_immunities": "exhaustion, poisoned"
+"gear":
+  - "spear"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "2"
@@ -94,6 +96,6 @@ An undying doesn't require air, food, drink, or sleep.
     "name": "Spear"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/undying-soldier-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/undying-soldier-erlw.webp"
 ```
 ^statblock

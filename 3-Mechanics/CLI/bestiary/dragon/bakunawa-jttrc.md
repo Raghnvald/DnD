@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bakunawa
+- "Bakunawa"
 ---
-# [Bakunawa](3-Mechanics\CLI\bestiary\dragon/bakunawa-jttrc.md)
+# [Bakunawa](3-Mechanics/CLI/bestiary/dragon/bakunawa-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 147*  
 
 Worshiped as draconic avatars of storm and tide, bakunawa soar over the archipelagos they call home. Iridescent scales crackling with lightning cover a bakunawa's fearsome serpentine body, and the sharp movements of its mighty wings echo with thunderous winds. Known for their mercilessness in battle, bakunawa swallow whole any who challenge them.
@@ -40,7 +40,8 @@ Worshiped as draconic avatars of storm and tide, bakunawa soar over the archipel
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "damage_resistances": "lightning, thunder"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 21"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 21"
 "languages": "Celestial, Common, Draconic"
 "cr": "12"
 "traits":
@@ -51,22 +52,24 @@ Worshiped as draconic avatars of storm and tide, bakunawa soar over the archipel
 "actions":
   - "desc": "The bakunawa makes one Bite attack and one Storm Slam attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) piercing damage plus 7 (2d6) lightning damage. If the target is\
-      \ a Large or smaller creature, it must succeed on a DC 17 Strength saving throw\
-      \ or be swallowed by the bakunawa. A swallowed creature is blinded and restrained,\
-      \ and it has total cover against attacks and other effects outside the bakunawa.\
-      \ At the start of each of the bakunawa's turns, each swallowed creature takes\
-      \ 10 (3d6) lightning damage.\n\nThe bakunawa's gullet can hold up to two creatures\
-      \ at a time. If the bakunawa takes 30 damage or more on a single turn from a\
-      \ swallowed creature, the bakunawa must succeed on a DC 16 Constitution saving\
-      \ throw at the end of that turn or regurgitate all swallowed creatures, which\
-      \ fall prone in a space within 15 feet of the bakunawa. If the bakunawa dies,\
-      \ a swallowed creature is no longer restrained by it and can escape from the\
-      \ corpse by using 15 feet of movement, exiting prone."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) piercing damage plus 7 (2d6) lightning damage. If the target\
+      \ is a Large or smaller creature, it must succeed on a DC 17 Strength saving\
+      \ throw or be swallowed by the bakunawa. A swallowed creature is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), and it has\
+      \ total cover against attacks and other effects outside the bakunawa. At the\
+      \ start of each of the bakunawa's turns, each swallowed creature takes 10 (3d6)\
+      \ lightning damage.\n\nThe bakunawa's gullet can hold up to two creatures at\
+      \ a time. If the bakunawa takes 30 damage or more on a single turn from a swallowed\
+      \ creature, the bakunawa must succeed on a DC 16 Constitution saving throw at\
+      \ the end of that turn or regurgitate all swallowed creatures, which fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ in a space within 15 feet of the bakunawa. If the bakunawa dies, a swallowed\
+      \ creature is no longer [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by it and can escape from the corpse by using 15 feet of movement, exiting\
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) bludgeoning damage plus 5 (1d10) thunder damage, and the target\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d8 + 5) bludgeoning damage plus 5 (1d10) thunder damage, and the target\
       \ is pushed up to 10 feet in a horizontal direction away from the bakunawa."
     "name": "Storm Slam"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
@@ -84,6 +87,6 @@ Worshiped as draconic avatars of storm and tide, bakunawa soar over the archipel
     "name": "Lightning Strikes (Costs 3 Actions)"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/bakunawa-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/bakunawa-jttrc.webp"
 ```
 ^statblock

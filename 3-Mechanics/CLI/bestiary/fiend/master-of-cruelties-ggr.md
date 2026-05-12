@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master of Cruelties
+- "Master of Cruelties"
 ---
-# [Master of Cruelties](3-Mechanics\CLI\bestiary\fiend/master-of-cruelties-ggr.md)
+# [Master of Cruelties](3-Mechanics/CLI/bestiary/fiend/master-of-cruelties-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 196*  
 
 When a master of cruelties steps up as ringleader of a Rakdos show, the audience can be assured of a performance they will remember for the rest of their lives—however brief that might be.
@@ -25,13 +25,13 @@ Just as angels are incarnations of the ideals of justice, demons embody depraved
 
 Demons are agents of destruction that work their acts of terror in plain sight under the auspices of the Cult of Rakdos. They exhibit their cruelty in dramatic performances that leave the audience members blood-soaked but ecstatic. They incite mob riots that raze entire city blocks. The only thing demons fear is Rakdos himself, who doesn't tolerate rivals and hates to be upstaged.
 
-### Demonic "Devils."
+### Demonic "Devils"
 
-The creatures called "devils" in Ravnica are minor demons akin to [quasits](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md). While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
+The creatures called "devils" in Ravnica are minor demons akin to quasits. While the larger demons embody evil qualities such as blood lust and torment, these lesser demons reflect the whimsical and chaotic side of Rakdos and his cult. Their mischievous antics cause disorder and destruction out of proportion to the demons' small size.
 
 ### Diabolic Demons
 
-Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the [nalfeshnee](/3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md), the [shadow demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md), or the [vrock](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
+Many of the demons of Ravnica are monstrous, winged creatures of human-like form. They are best represented by the statistics of the nalfeshnee, the shadow demon, or the vrock in the Monster Manual. Demons associated with the Cult of Rakdos often have fiery attacks that make them similar to barbed devils or horned devils, except that they are demons. (They are chaotic evil, they speak Abyssal and not Infernal, and they lack Devil's Sight.)
 
 ```statblock
 "name": "Master of Cruelties (GGR)"
@@ -40,7 +40,7 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
 "subtype": "demon"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "plate armor"
 "hp": !!int "127"
 "hit_dice": "15d10 + 45"
 "modifier": !!int "3"
@@ -58,28 +58,28 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+9"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+9"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+9"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+9"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "poisoned"
+"gear":
+  - "spear"
+"senses": "truesight 120 ft., passive Perception 13"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "The master's innate spellcasting ability is Charisma (spell save DC 17).\
       \ The master can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md)\
-      \ (as a 3rd-level spell), [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md)\n\
-      \n**1/day:** [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)"
+      \n**At will:** charm person (as a 3rd-level spell), crown of madness\n\n**1/day:**\
+      \ dominate person"
     "name": "Innate Spellcasting"
   - "desc": "When any other creature starts its turn within 30 feet of the master,\
       \ that creature must succeed on a DC 17 Wisdom saving throw, or it must immediately\
@@ -98,20 +98,19 @@ Many of the demons of Ravnica are monstrous, winged creatures of human-like form
   - "desc": "The master makes two melee attacks with its spear."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack, plus 13 (3d8) psychic\
-      \ damage."
+      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4)\
+      \ piercing damage if used with two hands to make a melee attack, plus 13 (3d8)\
+      \ psychic damage."
     "name": "Spear"
   - "desc": "Each creature within 120 feet of the master must succeed on a DC 17 Wisdom\
-      \ saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the\
-      \ master for 1 hour. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ in this way, a creature's speed is 0. If the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ creature takes damage, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. A target that succeeds on the saving throw is immune\
-      \ to the Captivating Presence of all masters of cruelties for the next 24 hours."
+      \ saving throw or be charmed by the master for 1 hour. While charmed in this\
+      \ way, a creature's speed is 0. If the charmed creature takes damage, it can\
+      \ repeat the saving throw, ending the effect on itself on a success. A target\
+      \ that succeeds on the saving throw is immune to the Captivating Presence of\
+      \ all masters of cruelties for the next 24 hours."
     "name": "Captivating Presence (Recharge 6)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/master-of-cruelties-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/master-of-cruelties-ggr.webp"
 ```
 ^statblock

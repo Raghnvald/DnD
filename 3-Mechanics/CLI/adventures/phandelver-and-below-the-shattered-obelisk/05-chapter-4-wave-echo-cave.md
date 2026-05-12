@@ -5,22 +5,22 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 aliases:
-- Chapter 4: Wave Echo Cave
+- "Chapter 4: Wave Echo Cave"
 ---
 # Chapter 4: Wave Echo Cave
 *Source: Phandelver and Below: The Shattered Obelisk, p. 65* 
 
 Fifteen miles east of Phandalin, Wave Echo Cave lies in the deep vales of the Sword Mountains. The rich mine of the Phandelver Pact was lost five hundred years ago during bandit attacks that devastated this area.
 
-In the centuries since, countless prospectors and adventurers have searched for the lost mine, but none succeeded until the three Rockseeker brothers found the entrance a month ago. Unfortunately, the dwarves didn't realize they were being followed by spies working for [Nezznar the Spider](/3-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md), and the Rockseekers inadvertently led the villain to their prize.
+In the centuries since, countless prospectors and adventurers have searched for the lost mine, but none succeeded until the three Rockseeker brothers found the entrance a month ago. Unfortunately, the dwarves didn't realize they were being followed by spies working for [Nezznar the Spider](3-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md), and the Rockseekers inadvertently led the villain to their prize.
 
-The Spider and his followers captured the two brothers who were guarding their find, then arranged for [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md)'s ambush. After learning of the adventurers' involvement with Gundren, or of their exploits in and around Phandalin, the Spider issued orders for the characters to be dealt with. He then began exploring the depths of Wave Echo Cave.
+The Spider and his followers captured the two brothers who were guarding their find, then arranged for [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md)'s ambush. After learning of the adventurers' involvement with Gundren, or of their exploits in and around Phandalin, the Spider issued orders for the characters to be dealt with. He then began exploring the depths of Wave Echo Cave.
 
 The drow is searching for the Forge of Spells, where the human mages of old Phandalin enchanted dwarven weapons and gnome gadgets. However, the Spider's exploration has been hindered by the dangerous monsters that lurk in Wave Echo Cave.
 
 The adventurers now have the chance to aid Gundren, find his brothers, and end the nefarious schemes of the Spider. Additionally, the abundance of powerful magic rumored to be hidden in the mines is a rich prize.
 
-![When the Rockseeker brothe...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/047-04-001-ch4-splash.webp#center "When the Rockseeker brothers discovered the mine in Wave Echo Cave, they had no idea such evil forces would want its riches for their own")
+![When the Rockseeker brothers discovered the mine in Wave Echo Cave, they had no idea such evil forces would want its riches for their own](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/047-04-001-ch4-splash.webp#center)
 
 ## Running This Chapter
 
@@ -28,7 +28,7 @@ This chapter kicks off once the characters venture into Wave Echo Cave, shown on
 
 ### Character Advancement
 
-The characters should be 4th level when the chapter begins. The characters gain a level when they defeat [Nezznar the Spider](/3-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md).
+The characters should be 4th level when the chapter begins. The characters gain a level when they defeat [Nezznar the Spider](3-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md).
 
 ## Wave Echo Cave
 
@@ -38,23 +38,21 @@ Whether the characters follow Gundren's map or receive directions to Wave Echo C
 
 ### Wandering Monsters
 
-If the characters spend a long time in an area, you can check for wandering monsters by rolling a `dice:d20|noform|noparens|avg` (`d20`). On a roll of 17–20, an encounter takes place. Conversely, if the players seem restless, you can decide that an encounter occurs.
+If the characters spend a long time in an area, you can check for wandering monsters by rolling a `d20`. On a roll of 17–20, an encounter takes place. Conversely, if the players seem restless, you can decide that an encounter occurs.
 
-Roll a `dice:d12|noform|noparens|avg` (`d12`) and consult the Wandering Monsters table to determine what threat the party meets.
+Roll a `d12` and consult the Wandering Monsters table to determine what threat the party meets.
 
 **Wandering Monsters**
 
-`dice: [](05-chapter-4-wave-echo-cave.md#^wandering-monsters)`
-
 | dice: d12 | Monsters |
 |-----------|----------|
-| 1–3 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
-| 4–5 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) |
-| 6 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [gricks](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) |
-| 7–8 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) |
-| 9 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) |
-| 10 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) |
-| 11–12 | 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) |
+| 1–3 | `2d4` [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) |
+| 4–5 | `1d4` [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md) |
+| 6 | `1d4` [gricks](3-Mechanics/CLI/bestiary/monstrosity/grick.md) |
+| 7–8 | `1d4` [bugbears](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) |
+| 9 | `1d6` [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton.md) |
+| 10 | `1d6` [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) |
+| 11–12 | 1 [ochre jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md) |
 ^wandering-monsters
 
 ### Wave Echo Cave Features
@@ -79,7 +77,7 @@ All floors are smooth, natural stone.
 
 #### Light
 
-None. The boxed text assumes the characters have light sources or [darkvision](/3-Mechanics/CLI/senses.md#Darkvision).
+None. The boxed text assumes the characters have light sources or [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision).
 
 #### Stalagmites
 
@@ -99,8 +97,8 @@ Found in many of the natural caverns, these rock spires can provide cover.
 The following locations are keyed to map 4.1.
 
 > [!gallery]
-> ![Map 4.1: Wave Echo Cave](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/048-map-4-01-wave-echo-cave.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/049-map-4-01-wave-echo-cave-player.webp#gallery)
+> ![Map 4.1: Wave Echo Cave](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/048-map-4-01-wave-echo-cave.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/049-map-4-01-wave-echo-cave-player.webp#gallery)
 
 #### W1: Cave Entrance
 
@@ -125,11 +123,11 @@ Slumped at the bottom of the pit is the body of a strange goblin with an elongat
 
 ##### Treasure
 
-Tharden wears a [cloak of protection](/3-Mechanics/CLI/items/cloak-of-protection-xdmg.md), which the Spider overlooked in his haste to explore the rest of Wave Echo Cave.
+Tharden wears a cloak of protection, which the Spider overlooked in his haste to explore the rest of Wave Echo Cave.
 
 #### W2: Mine Tunnels
 
-![Ochre jellies are always v...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/050-04-002-ochre-jelly.webp#center "Ochre jellies are always vicious, but especially so when trapped in a dead end in Wave Echo Cave")
+![Ochre jellies are always vicious, but especially so when trapped in a dead end in Wave Echo Cave](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/050-04-002-ochre-jelly.webp#center)
 
 > [!readaloud] 
 > 
@@ -138,7 +136,7 @@ Tharden wears a [cloak of protection](/3-Mechanics/CLI/items/cloak-of-protection
 
 This maze of passages is an old section of Wave Echo Cave's original mine site.
 
-Lurking in one dead end is an [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md). (You can decide the jelly's exact location.) When the party enters this section of the mine, the jelly begins stalking the group, instinctively waiting for an opportunity to attack a lone target.
+Lurking in one dead end is an [ochre jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md). (You can decide the jelly's exact location.) When the party enters this section of the mine, the jelly begins stalking the group, instinctively waiting for an opportunity to attack a lone target.
 
 ##### Low Ceiling
 
@@ -153,7 +151,7 @@ Because of the low ceiling in this area, Medium and larger creatures have disadv
 
 The tunnel that runs south was the original entrance to Wave Echo Cave, but it was buried by the destruction that wracked the mines centuries ago. A pitched battle was fought here when bandits stormed the mines. The dead still lie where they fell.
 
-Six [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) cling to the ceiling. The monsters find scant living prey in the mines and are ravenous. Since the characters are probably looking at the skeletons on the floor, the stirges are likely to get the drop on them. Any character who isn't watching the ceiling must succeed on a DC 14 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check to avoid being surprised. Characters who aren't surprised hear the stirges descending to attack.
+Six [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md) cling to the ceiling. The monsters find scant living prey in the mines and are ravenous. Since the characters are probably looking at the skeletons on the floor, the stirges are likely to get the drop on them. Any character who isn't watching the ceiling must succeed on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to avoid being surprised. Characters who aren't surprised hear the stirges descending to attack.
 
 The lanterns and the carvings of miners at work were meant to welcome newcomers.
 
@@ -164,7 +162,7 @@ The lanterns and the carvings of miners at work were meant to welcome newcomers.
 > Splintered stone benches and heaps of rubble from a partially collapsed ceiling fill this room. Amid ruined stone bunks and toppled weapon racks are eight corpses, including the rotting remains of two ogres.
 ^160
 
-In the round after any living creature enters this chamber, the dead creatures clamber to their feet to attack. The two [ogre zombies](/3-Mechanics/CLI/bestiary/undead/ogre-zombie-xmm.md) and six dwarf [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) fight until destroyed.
+In the round after any living creature enters this chamber, the dead creatures clamber to their feet to attack. The two [ogre zombies](3-Mechanics/CLI/bestiary/undead/ogre-zombie.md) and six dwarf [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md) fight until destroyed.
 
 #### W5: Assayers' Office
 
@@ -177,18 +175,18 @@ The centuries-old paper in the cubbyholes disintegrates if touched, but a charac
 
 ##### Treasure
 
-Behind the counter sits a locked iron strongbox, requiring [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 20 Dexterity check to open. This pay chest contains 600 cp, 180 sp, 90 ep, and 60 gp.
+Behind the counter sits a locked iron strongbox, requiring [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and a successful DC 20 Dexterity check to open. This pay chest contains 600 cp, 180 sp, 90 ep, and 60 gp.
 
 #### W6: South Quarters
 
-This was a miners' barrack, where the skilled delvers working in Wave Echo Cave rested between shifts. Any character who listens at the partially open door hears faint crunching and splintering sounds with a successful DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check.
+This was a miners' barrack, where the skilled delvers working in Wave Echo Cave rested between shifts. Any character who listens at the partially open door hears faint crunching and splintering sounds with a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 > [!readaloud] 
 > 
 > Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of cold coals stands near the middle of the room. The bones of a half-dozen dwarves and larger bandits lie strewn about, still clad in scraps of armor. Three gray, hunched figures squat among the remains, pawing at the scraps and gnawing on the bones.
 ^165
 
-Three [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) from the pack in area W9 are here, cracking and gnawing on the bones in the vain hope that some morsel of marrow remains. Eager for a fresh meal, the ghouls attack immediately.
+Three [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md) from the pack in area W9 are here, cracking and gnawing on the bones in the vain hope that some morsel of marrow remains. Eager for a fresh meal, the ghouls attack immediately.
 
 #### W7: Ruined Storeroom
 
@@ -208,9 +206,9 @@ The contents of the barrels and tuns have long evaporated.
 > Dense carpets of weird fungi cover large sections of the floor in this cavern. The growth includes puffballs a foot across, weird shelf fungus growing on stalagmites, and large stalks and caps a good five feet tall. Some of the puffballs glow with an eerie green phosphorescence.
 ^169
 
-Two [violet fungi](/3-Mechanics/CLI/bestiary/plant/violet-fungus-dosi.md) lurk here, one in the middle of the central fungi patch and one in the northern patch. They are hard to notice with all the other fungi around them. Each character can attempt a DC 15 Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) check to spot the violet fungi before moving within their reach. Characters can safely avoid the fungi by staying close to the southern and eastern walls.
+Two violet fungi lurk here, one in the middle of the central fungi patch and one in the northern patch. They are hard to notice with all the other fungi around them. Each character can attempt a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check to spot the violet fungi before moving within their reach. Characters can safely avoid the fungi by staying close to the southern and eastern walls.
 
-The green-glowing fungi are harmless, but they allow creatures to see the entire cavern without the aid of [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) or a light source.
+The green-glowing fungi are harmless, but they allow creatures to see the entire cavern without the aid of [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or a light source.
 
 This cave has hindered the Spider's explorations. Nezznar suspects that the mine's magic workshops are nearby, but he's reluctant to risk facing the dangerous monsters here.
 
@@ -221,9 +219,9 @@ This cave has hindered the Spider's explorations. Nezznar suspects that the mine
 > Steep escarpments divide this large cavern into three sections: high ledges at either end and a lower section in the middle. Carved stone stairs climb to the ledges. Two large tables stand in the middle section, along with a pair of old braziers. A smaller table stands on the eastern ledge. The skeletal remains of dozens of dead warriors attest to the fierceness of the fighting that took place long ago.
 ^16b
 
-The skeletal remains are inanimate. However, five [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) lurk in the shadows on the western ledge. Any character with a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 12 or more notices the ghouls. The ghouls notice any light or noise elsewhere in the cave and quickly bound down to attack. They are hungry and fight until destroyed.
+The skeletal remains are inanimate. However, five [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md) lurk in the shadows on the western ledge. Any character with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 12 or more notices the ghouls. The ghouls notice any light or noise elsewhere in the cave and quickly bound down to attack. They are hungry and fight until destroyed.
 
-The escarpments are 10 feet high and require a successful DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check to climb. A creature that falls or is knocked from the top of a ledge takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage and lands with the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition.
+The escarpments are 10 feet high and require a successful DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to climb. A creature that falls or is knocked from the top of a ledge takes 3 (`1d6`) bludgeoning damage and lands with the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition.
 
 #### W10: Dark Pool
 
@@ -234,7 +232,7 @@ The escarpments are 10 feet high and require a successful DC 12 Strength ([Athle
 > A passage leads south from this area, and a set of steps climbs to the east. A sluggish stream flows from the cave to the northeast.
 ^16d
 
-Small fish swim along the edge of the water, but the pool is also inhabited by a larger creature: a [giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake-xmm.md). If the characters pass through this area, the snake slithers from the water and attacks the character at the back of the party.
+Small fish swim along the edge of the water, but the pool is also inhabited by a larger creature: a [giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md). If the characters pass through this area, the snake slithers from the water and attacks the character at the back of the party.
 
 ##### Pool
 
@@ -244,11 +242,11 @@ A character who explores the pool finds an old skeleton lying on the bottom, 10 
 
 ##### Treasure
 
-The skeleton of the wizard wears three jeweled gold rings (150 gp each) and clutches a [wand of magic missiles](/3-Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md) in its bony fingers.
+The skeleton of the wizard wears three jeweled gold rings (150 gp each) and clutches a wand of magic missiles in its bony fingers.
 
 #### W11: North Quarters
 
-The eastern door is barricaded from inside the room and requires a successful DC 20 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check to force open. A character who listens at either door and succeeds on a DC 10 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check hears gruff voices speaking Goblin and talking about how hungry they are.
+The eastern door is barricaded from inside the room and requires a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to force open. A character who listens at either door and succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check hears gruff voices speaking Goblin and talking about how hungry they are.
 
 > [!readaloud] 
 > 
@@ -262,13 +260,13 @@ If the party enters from the west, add:
 > Across the room is another door, this one blocked by a barricade made from the remains of a wooden table.
 ^172
 
-Six [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) reside in this chamber. They are loyal minions of Nezznar. This room marks the front line in the Spider's assault on Wave Echo Cave, and the bugbears are here to prevent ghouls, zombies, or other Undead from troubling their leader in his lair (area W19).
+Six [bugbears](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) reside in this chamber. They are loyal minions of Nezznar. This room marks the front line in the Spider's assault on Wave Echo Cave, and the bugbears are here to prevent ghouls, zombies, or other Undead from troubling their leader in his lair (area W19).
 
 Like area W6, this was formerly a barrack for miners. The bugbears removed the corpses they found here and built the barricade.
 
 ##### Treasure
 
-The largest bugbear carries a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 cp, 13 ep, two agates worth 10 gp each, and a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md).
+The largest bugbear carries a [pouch](3-Mechanics/CLI/items/pouch.md) containing 15 cp, 13 ep, two agates worth 10 gp each, and a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md).
 
 #### W12: Smelter Cavern
 
@@ -279,7 +277,7 @@ The largest bugbear carries a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) cont
 > More than a dozen withered corpses lie scattered around the room—individuals still wearing remnants of armor. Floating above them is a skull engulfed in green flame.
 ^175
 
-Eight of the fallen dwarf warriors are [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). They rise and shuffle toward any living creatures that enter the room, but they don't pursue creatures outside this area for more than 1 round. In addition, a far more intelligent Undead creature guards this area: a [flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md). This creature was a servant of the dwarves' human wizard allies, and it continues to act on ancient instructions to prevent any intruders from passing through this area.
+Eight of the fallen dwarf warriors are [zombies](3-Mechanics/CLI/bestiary/undead/zombie.md). They rise and shuffle toward any living creatures that enter the room, but they don't pursue creatures outside this area for more than 1 round. In addition, a far more intelligent Undead creature guards this area: a [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull.md). This creature was a servant of the dwarves' human wizard allies, and it continues to act on ancient instructions to prevent any intruders from passing through this area.
 
 This impressive chamber was the heart of the Wave Echo Cave mining operation. Here, the dwarves melted ore to refine ingots of pure silver, gold, and platinum. The dry channel is where the dwarves diverted the stream from area W18 to power the waterwheel here. The waterwheel operated the bellows that fed the furnace in the southeast corner of the room.
 
@@ -302,20 +300,20 @@ The structural damage and the skeletal remains in this area are evidence of the 
 
 The damaged rooms are described in areas W14 and W15. The skeletons are inanimate and pose no danger. The minerals in the ceiling are pretty, but they are neither magic nor valuable.
 
-Any character proficient in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana) skill can sense a subtle aura of magic in this cavern. (A [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals the same.) The aura becomes stronger as one approaches the northernmost room (area W15).
+Any character proficient in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill can sense a subtle aura of magic in this cavern. (A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals the same.) The aura becomes stronger as one approaches the northernmost room (area W15).
 
 #### W14: Wizards' Quarters
 
-The double door leading into this area is cracked, the iron hinges partially melted. Wrenching or smashing open the door requires a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
+The double door leading into this area is cracked, the iron hinges partially melted. Wrenching or smashing open the door requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
-![Mormesk the Wraith](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/051-04-003-mormesk-the-wraith.webp#center)
+![Mormesk the Wraith](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/051-04-003-mormesk-the-wraith.webp#center)
 
 > [!readaloud] 
 > 
 > Dust, ash, walls blackened by fire, and heaps of debris beneath the sagging ceiling show that this room was damaged by a destructive blast. The furnishings—tables, chairs, bookshelves, beds—are charred or splintered. A scorched iron chest stands near the foot of one of the beds. The adjacent closet on the south wall is full of rubble.
 ^179
 
-This room contains the restless spirit of the last wizard to die here, Mormesk the [wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md). Mormesk was a powerful mage until he met his end in the spell battle at the climax of the bandit attack. Centuries of anger have poisoned his soul, transforming him into a hate-filled apparition.
+This room contains the restless spirit of the last wizard to die here, Mormesk the [wraith](3-Mechanics/CLI/bestiary/undead/wraith.md). Mormesk was a powerful mage until he met his end in the spell battle at the climax of the bandit attack. Centuries of anger have poisoned his soul, transforming him into a hate-filled apparition.
 
 Mormesk leads the Undead that haunt Wave Echo Cave. The wraith spends his time here because the treasure he had amassed in life lies in the scorched chest. No longer corporeal, he cannot touch or possess the wealth he enjoyed in life.
 
@@ -327,9 +325,9 @@ The scorched chest is unlocked and contains 1,100 cp, 160 sp, 100 ep, five malac
 
 #### W15: Forge of Spells
 
-![A spectator guards the tre...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/052-04-004-spectator.webp#center "A spectator guards the treasures that lie within the Forge of Spells")
+![A spectator guards the treasures that lie within the Forge of Spells](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/052-04-004-spectator.webp#center)
 
-The wizards who allied with the dwarves and gnomes of the Phandelver Pact channeled the latent magic of these caverns to enchant well-made dwarven arms and gnome gadgets. The northernmost door is scorched and cracked, its iron hinges partially melted; forcing it open requires a successful DC 15 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check. The double door is just as damaged but stands slightly ajar.
+The wizards who allied with the dwarves and gnomes of the Phandelver Pact channeled the latent magic of these caverns to enchant well-made dwarven arms and gnome gadgets. The northernmost door is scorched and cracked, its iron hinges partially melted; forcing it open requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The double door is just as damaged but stands slightly ajar.
 
 > [!readaloud] 
 > 
@@ -338,15 +336,15 @@ The wizards who allied with the dwarves and gnomes of the Phandelver Pact channe
 > Behind the brazier of green flames floats a spherical creature measuring roughly four feet in diameter. Four eyestalks protrude from its central mass, two on each side. In the center of the body is a large eye that stares at you. It greets you in a raspy voice you hear only in your head.
 ^17c
 
-The spherical monster that guards this room is a [spectator](/3-Mechanics/CLI/bestiary/aberration/spectator-xmm.md) that speaks Common. One of the human wizards who worked in the Forge of Spells summoned the creature to guard the magic items created and stored here. The spectator was slated to serve for 101 years. When the mine was sacked, the bandits disturbed the delicate magic in the area, eroding the spectator's grip on reality. It believes the mine is still in use, ignoring all evidence to the contrary.
+The spherical monster that guards this room is a [spectator](3-Mechanics/CLI/bestiary/aberration/spectator.md) that speaks Common. One of the human wizards who worked in the Forge of Spells summoned the creature to guard the magic items created and stored here. The spectator was slated to serve for 101 years. When the mine was sacked, the bandits disturbed the delicate magic in the area, eroding the spectator's grip on reality. It believes the mine is still in use, ignoring all evidence to the contrary.
 
-The wraith (area W14) wants to eliminate the spectator, but so far, the creature has easily handled the assaults of Mormesk's zombies and ghouls while seeing nothing strange about Undead roaming the mine. With a successful DC 15 Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) check, a character can convince the spectator that one or more party members are wizards or dwarves who work for the owners of Wave Echo Cave, sent to terminate the spectator's employment (thereby releasing it from its obligations). If the deception succeeds, the spectator disappears and returns to its home dimension.
+The wraith (area W14) wants to eliminate the spectator, but so far, the creature has easily handled the assaults of Mormesk's zombies and ghouls while seeing nothing strange about Undead roaming the mine. With a successful DC 15 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check, a character can convince the spectator that one or more party members are wizards or dwarves who work for the owners of Wave Echo Cave, sent to terminate the spectator's employment (thereby releasing it from its obligations). If the deception succeeds, the spectator disappears and returns to its home dimension.
 
 If the party attempts to remove anything from this area, the spectator attacks.
 
 ##### Brazier of Green Flame
 
-A successful DC 15 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check identifies the brazier as the source of the magic that suffuses the surrounding caverns. This magic has waned over the years and can no longer be harnessed to permanently enchant magic items. However, any nonmagical weapon or suit of armor bathed in the green flame for at least 1 minute becomes a [+1 weapon](/3-Mechanics/CLI/items/1-weapon-xdmg.md) or a suit of [+1 armor](/3-Mechanics/CLI/items/1-armor-xdmg.md), respectively, for `dice:1d12|noform|noparens|avg` (`1d12`) hours.
+A successful DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check identifies the brazier as the source of the magic that suffuses the surrounding caverns. This magic has waned over the years and can no longer be harnessed to permanently enchant magic items. However, any nonmagical weapon or suit of armor bathed in the green flame for at least 1 minute becomes a +1 weapon or a suit of +1 armor, respectively, for `1d12` hours.
 
 Removing the brazier from the Forge of Spells douses the green flame and forever deprives the brazier of its magical power.
 
@@ -356,10 +354,10 @@ This small room was a separate workspace where items being prepared for enchantm
 
 ##### Treasure
 
-On the worktable in the southeast corner of the room are the items the spectator was charged to protect: a [+1 mace](/3-Mechanics/CLI/items/1-weapon-xdmg.md) and a [+1 breastplate](/3-Mechanics/CLI/items/1-armor-xdmg.md). These magic items have some additional properties that are described below:
+On the worktable in the southeast corner of the room are the items the spectator was charged to protect: a +1 mace and a +1 breastplate. These magic items have some additional properties that are described below:
 
-- **Mace.** This weapon, known as [Lightbringer](/3-Mechanics/CLI/items/lightbringer-pabtso.md), was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and is made of solid brass. The mace glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) radiant damage to Undead creatures.  
-- **Breastplate.** This [breastplate](/3-Mechanics/CLI/items/dragonguard-pabtso.md) has a gold dragon motif worked into its design. Created for a human hero of old Neverwinter named Tergon, it grants its wearer advantage on saving throws against the breath weapons of Dragons.  
+- **Mace.** This weapon, known as [Lightbringer](3-Mechanics/CLI/items/lightbringer-pabtso.md), was made for a cleric of Lathander, the god of dawn. The head of the mace is shaped like a sunburst and is made of solid brass. The mace glows as bright as a torch when its wielder commands. While glowing, the mace deals an extra `1d6` radiant damage to Undead creatures.  
+- **Breastplate.** This [breastplate](3-Mechanics/CLI/items/dragonguard-pabtso.md) has a gold dragon motif worked into its design. Created for a human hero of old Neverwinter named Tergon, it grants its wearer advantage on saving throws against the breath weapons of Dragons.  
 
 #### W16: Booming Cavern
 
@@ -372,7 +370,7 @@ The sound of pounding surf that gives Wave Echo Cave its name can be traced to t
 
 The ledge that hugs the south wall is 15 feet above water level. However, when water surges into the cave every 2 minutes, it raises the water level by 10 feet. After 1 minute, the water level returns to its normal depth of 20 feet.
 
-This flooded cave is home to a [giant octopus](/3-Mechanics/CLI/bestiary/beast/giant-octopus-xmm.md) that is attracted to any light above the surface of the water. If a character lingers with a lantern, torch, or other light source, the octopus rises to the surface and attacks. Its tentacles are long enough to reach targets standing on the ledge, but creatures more than 5 feet from the edge are safe. The giant octopus pulls any creature it grapples into the water.
+This flooded cave is home to a [giant octopus](3-Mechanics/CLI/bestiary/beast/giant-octopus.md) that is attracted to any light above the surface of the water. If a character lingers with a lantern, torch, or other light source, the octopus rises to the surface and attacks. Its tentacles are long enough to reach targets standing on the ledge, but creatures more than 5 feet from the edge are safe. The giant octopus pulls any creature it grapples into the water.
 
 A character who starts their turn in the water must succeed on a DC 10 Strength saving throw to remain afloat. On a failed save, the character is pulled underwater.
 
@@ -400,7 +398,7 @@ The dwarves diverted the stream into the channel leading to area W12 to drive th
 
 Nezznar's lackeys occupy this cavern. The Spider's divinations suggest that some valuable treasure is hidden at the bottom of the rift that was created when this area was destroyed.
 
-Two of the four [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) in this area clear rock on the rift floor while the other two stand guard in the western half of the cavern, watching for any Undead incursions. A [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) named Vhalak supervises the operation in the guise of a drow. If a fight breaks out in the main cavern, the two bugbears in the rift climb the ropes to join the fray.
+Two of the four [bugbears](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) in this area clear rock on the rift floor while the other two stand guard in the western half of the cavern, watching for any Undead incursions. A [doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) named Vhalak supervises the operation in the guise of a drow. If a fight breaks out in the main cavern, the two bugbears in the rift climb the ropes to join the fray.
 
 ##### Rift
 
@@ -412,11 +410,11 @@ If three or more bugbears are killed, the doppelganger tries to retreat to area 
 
 ##### Treasure
 
-Nezznar's divinations are accurate. Buried in the shallow rubble at the bottom of the rift is the crushed skeleton of a dwarf wearing [gauntlets of ogre power](/3-Mechanics/CLI/items/gauntlets-of-ogre-power-xdmg.md). The remains can be found with a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check. Each character searching can attempt one check per hour. Characters who search for more than one hour might alert the creatures nearby of their presence, at your discretion.
+Nezznar's divinations are accurate. Buried in the shallow rubble at the bottom of the rift is the crushed skeleton of a dwarf wearing gauntlets of ogre power. The remains can be found with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Each character searching can attempt one check per hour. Characters who search for more than one hour might alert the creatures nearby of their presence, at your discretion.
 
 #### W19: Temple Of Dumathoin
 
-![A showdown with Nezznar the Spider is inevitable](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/053-04-005-nezznar-the-spider.webp#center)
+![A showdown with Nezznar the Spider is inevitable](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/053-04-005-nezznar-the-spider.webp#center)
 
 Nezznar uses this room as his headquarters while he explores the mines and searches for the Forge of Spells.
 
@@ -434,15 +432,15 @@ If the room's occupants aren't aware of the characters as they enter, add the fo
 > Two bugbears stand by the table, flanking a drow dressed in black leather armor and robes. The drow clutches a black staff with a carved spider at the top and frowns when he sees you. "It seems that I must deal with you myself. A pity it must end this way."
 ^18c
 
-[Nezznar the Spider](/3-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md) is accompanied by two [bugbears](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) who defend their leader to the death. If the [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) from area W18 retreated to this area, it assumes the guise of [Nundro Rockseeker](/3-Mechanics/CLI/bestiary/npc/nundro-rockseeker-pabtso.md) so that Nezznar can use the dwarf as leverage to force the party's surrender (although the Spider won't actually harm the doppelganger). See "Roleplaying Nezznar" for more information on the Spider.
+[Nezznar the Spider](3-Mechanics/CLI/bestiary/npc/nezznar-the-spider-pabtso.md) is accompanied by two [bugbears](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) who defend their leader to the death. If the [doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) from area W18 retreated to this area, it assumes the guise of [Nundro Rockseeker](3-Mechanics/CLI/bestiary/npc/nundro-rockseeker-pabtso.md) so that Nezznar can use the dwarf as leverage to force the party's surrender (although the Spider won't actually harm the doppelganger). See "Roleplaying Nezznar" for more information on the Spider.
 
-If they're expecting trouble, the bugbears hide behind pillars, and Nezznar casts [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) on himself and stands near the table. Make a Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check for the bugbears; the lowest roll is the DC of the Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check the characters must make to avoid being surprised.
+If they're expecting trouble, the bugbears hide behind pillars, and Nezznar casts [invisibility](3-Mechanics/CLI/spells/invisibility.md) on himself and stands near the table. Make a Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check for the bugbears; the lowest roll is the DC of the Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check the characters must make to avoid being surprised.
 
 ##### Statue
 
-The statue in the room depicts Dumathoin, the dwarven god of mining. Any character proficient in the [Religion](/3-Mechanics/CLI/skills.md#Religion) skill recognizes the depiction. The statue is beautifully carved, and its emerald eyes appear to be worth 5,000 gp each.
+The statue in the room depicts Dumathoin, the dwarven god of mining. Any character proficient in the [Religion](3-Mechanics/CLI/rules/skills.md#Religion) skill recognizes the depiction. The statue is beautifully carved, and its emerald eyes appear to be worth 5,000 gp each.
 
-A character can climb the statue and pry loose a gem with a DC 10 Strength check. If either gem is removed, the character must succeed on a DC 12 Dexterity saving throw or the six pillars that line the walls crumble, triggering a ceiling collapse. Every creature in the room must make a DC 15 Dexterity saving throw. A creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage from falling rubble on a failed save, or half as much on a successful one. Any creature still in the room 1 round later is buried and killed as the chamber fills with stone, at which point the area becomes impassible.
+A character can climb the statue and pry loose a gem with a DC 10 Strength check. If either gem is removed, the character must succeed on a DC 12 Dexterity saving throw or the six pillars that line the walls crumble, triggering a ceiling collapse. Every creature in the room must make a DC 15 Dexterity saving throw. A creature takes 11 (`2d10`) bludgeoning damage from falling rubble on a failed save, or half as much on a successful one. Any creature still in the room 1 round later is buried and killed as the chamber fills with stone, at which point the area becomes impassible.
 
 ##### Table
 
@@ -458,26 +456,26 @@ Nezznar admits to being the Spider, and to using the Cragmaw goblins and the Red
 
 The creatures in area W18 can hear sounds of combat in this room. If they haven't already been dealt with, they arrive after 3 rounds and act immediately after the bugbears in the initiative count.
 
-If the characters capture Nezznar and deliver him to the townmaster's hall in Phandalin, he is locked up until [Sildar Hallwinter](/3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md) or another representative of the Lords' Alliance can escort him to Neverwinter to face interrogation. The organization in Neverwinter is curious to learn everything Nezznar knows about Wave Echo Cave. Unless the characters post guards outside Nezznar's cell, Halia Thornton (see chapter 2) breaks him out of jail, smuggles him out of Phandalin, and delivers him into the custody of the leaders of the Zhentarim. What happens to Nezznar at that point is up to you.
+If the characters capture Nezznar and deliver him to the townmaster's hall in Phandalin, he is locked up until [Sildar Hallwinter](3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md) or another representative of the Lords' Alliance can escort him to Neverwinter to face interrogation. The organization in Neverwinter is curious to learn everything Nezznar knows about Wave Echo Cave. Unless the characters post guards outside Nezznar's cell, Halia Thornton (see chapter 2) breaks him out of jail, smuggles him out of Phandalin, and delivers him into the custody of the leaders of the Zhentarim. What happens to Nezznar at that point is up to you.
 
 ##### Treasure
 
-Nezznar carries a [potion of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) and a [spider staff](/3-Mechanics/CLI/items/spider-staff-pabtso.md). In addition, he carries an iron key with a head shaped like an anvil. This key unlocks the door to area W20.
+Nezznar carries a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md) and a [spider staff](3-Mechanics/CLI/items/spider-staff-pabtso.md). In addition, he carries an iron key with a head shaped like an anvil. This key unlocks the door to area W20.
 
-Nezznar's exploration of Wave Echo Cave has yielded some treasure, which he keeps in a black leather [sack](/3-Mechanics/CLI/items/sack-xphb.md) on the wooden table. The sack contains 190 ep, 130 gp, 15 pp, nine small gemstones (10 gp each), and a dwarven ale mug made of hammered electrum (80 gp).
+Nezznar's exploration of Wave Echo Cave has yielded some treasure, which he keeps in a black leather [sack](3-Mechanics/CLI/items/sack.md) on the wooden table. The sack contains 190 ep, 130 gp, 15 pp, nine small gemstones (10 gp each), and a dwarven ale mug made of hammered electrum (80 gp).
 
 #### W20: Priests' Quarters
 
-The door to this room is locked, requiring [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 15 Dexterity check to open. Nezznar (area W19) carries the key.
+The door to this room is locked, requiring [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) and a successful DC 15 Dexterity check to open. Nezznar (area W19) carries the key.
 
 Unless the characters are being stealthy, any activity at the door attracts the attention of Nezznar and his allies in area W19, prompting the Spider to send his bugbears to investigate.
 
 > [!readaloud] 
 > 
-> Dusty draperies of red and gold adorn the walls of this room, which also contains a bed and brazier. A badly disheveled dwarf lies bound and [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) on the cold stone floor.
+> Dusty draperies of red and gold adorn the walls of this room, which also contains a bed and brazier. A badly disheveled dwarf lies bound and [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) on the cold stone floor.
 ^193
 
-The figure lying on the floor is Nundro, a dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) and the last of the three Rockseeker brothers. Nezznar kept him alive because he thought the dwarf might know more about the mine than he admitted. The Spider has interrogated Nundro every day ever since capturing him.
+The figure lying on the floor is Nundro, a dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) and the last of the three Rockseeker brothers. Nezznar kept him alive because he thought the dwarf might know more about the mine than he admitted. The Spider has interrogated Nundro every day ever since capturing him.
 
 ##### Development
 
@@ -487,10 +485,10 @@ If the characters deal with Nezznar and the bugbears, this area serves as a safe
 
 ## What's Next?
 
-Gundren and [Nundro Rockseeker](/3-Mechanics/CLI/bestiary/npc/nundro-rockseeker-pabtso.md) take over administration of the new mine. For the adventurers' service to their family, they gladly award the party a 10 percent share of the mine's profits. It's up to you how much gold you give the players and how often. Consider giving the characters a sum of 255 gp (`dice:10d10+200|noform|noparens|avg` (`10d10 + 200`)) at the beginning of each chapter to represent this award.
+Gundren and [Nundro Rockseeker](3-Mechanics/CLI/bestiary/npc/nundro-rockseeker-pabtso.md) take over administration of the new mine. For the adventurers' service to their family, they gladly award the party a 10 percent share of the mine's profits. It's up to you how much gold you give the players and how often. Consider giving the characters a sum of 255 gp (`10d10 + 200`) at the beginning of each chapter to represent this award.
 
 The heroes have now defeated the Spider and undone his plots, cleared Phandalin of the ruffians who threatened its people, and reclaimed the lost mine of Wave Echo Cave. If you aren't playing subsequent chapters of this adventure, no new plots need surface.
 
 If you are playing subsequent chapters, the characters likely want to escort Nundro home to Phandalin. They may also wish to follow up on disturbing evidence that strange goblins who aren't Cragmaws are threatening the area. No matter the characters' reasons, once they return to Phandalin, they'll find that these goblins have begun committing crimes in the town that hint at even more dangers to come.
 
-![](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/054-04-006-psionic-goblins.webp#center)
+![](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/054-04-006-psionic-goblins.webp#center)

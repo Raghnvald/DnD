@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Atash
+- "Atash"
 ---
-# [Atash](3-Mechanics\CLI\bestiary\npc/atash-jttrc.md)
+# [Atash](3-Mechanics/CLI/bestiary/npc/atash-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 166*  
 
 ```statblock
@@ -38,19 +38,25 @@ aliases:
   - "wisdom": !!int "14"
   - "charisma": !!int "17"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
-"senses": "truesight 120 ft., passive Perception 24"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
   - "desc": "Atash's spellcasting ability is Charisma (spell save DC 25). It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ detect evil and good, invisibility (self only)\n\n**3/day each:** blade barrier,\
-      \ dispel evil and good, resurrection\n\n**1/day each:** commune, control weather"
+      \ [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only)\n\n**3/day each:** [blade barrier](3-Mechanics/CLI/spells/blade-barrier.md),\
+      \ [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md), [resurrection](3-Mechanics/CLI/spells/resurrection.md)\n\
+      \n**1/day each:** [commune](3-Mechanics/CLI/spells/commune.md), [control weather](3-Mechanics/CLI/spells/control-weather.md)"
     "name": "Innate Spellcasting"
   - "desc": "Atash's weapon attacks are magical. When Atash hits with any weapon,\
       \ the weapon deals an extra 6d8 radiant damage (included in the attack)."
@@ -63,13 +69,13 @@ aliases:
 "actions":
   - "desc": "Atash makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 22\
-      \ (4d6 + 8) slashing damage plus 27 (6d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:*\
+      \ 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage."
     "name": "Greatsword"
-  - "desc": "*Ranged Weapon Attack:* +13 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is\
-      \ a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution\
-      \ saving throw or die."
+  - "desc": "*Ranged Weapon Attack:* +13 to hit, range 150/600 ft., one target.\
+      \ *Hit:* 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the\
+      \ target is a creature that has 100 hit points or fewer, it must succeed on\
+      \ a DC 15 Constitution saving throw or die."
     "name": "Slaying Longbow"
   - "desc": "Atash releases its greatsword to hover magically in an unoccupied space\
       \ within 5 feet of it. If Atash can see the sword, Atash can mentally command\
@@ -79,8 +85,8 @@ aliases:
       \ if Atash dies."
     "name": "Flying Sword"
   - "desc": "Atash touches another creature. The target magically regains 40 (8d8\
-      \ + 4) hit points and is freed from any curse, disease, poison, blindness, or\
-      \ deafness."
+      \ + 4) hit points and is freed from any curse, disease, poison, blindness,\
+      \ or deafness."
     "name": "Healing Touch (4/Day)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Atash can expend a use to take one of the following actions. Atash regains\
@@ -90,16 +96,18 @@ aliases:
       \ carrying, up to 120 feet to an unoccupied space it can see."
     "name": "Teleport"
   - "desc": "Atash emits magical, divine energy. Each creature of its choice in a\
-      \ 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire\
-      \ damage plus 14 (4d6) radiant damage on a failed save, or half as much damage\
-      \ on a successful one."
+      \ 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6)\
+      \ fire damage plus 14 (4d6) radiant damage on a failed save, or half as much\
+      \ damage on a successful one."
     "name": "Searing Burst (Costs 2 Actions)"
   - "desc": "Atash targets one creature it can see within 30 feet of it. If the target\
       \ can see it, the target must succeed on a DC 15 Constitution saving throw or\
-      \ be blinded until magic such as the lesser restoration spell removes the blindness."
+      \ be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until magic such\
+      \ as the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\
+      \ spell removes the blindness."
     "name": "Blinding Gaze (Costs 3 Actions)"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/atash-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/atash-jttrc.webp"
 ```
 ^statblock

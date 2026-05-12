@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/rod
-aliases: 
+aliases:
 - "+3 Rod of the Pact Keeper"
 ---
 # +3 Rod of the Pact Keeper

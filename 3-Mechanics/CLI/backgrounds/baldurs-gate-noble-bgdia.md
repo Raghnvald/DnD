@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Baldur's Gate Noble
+- "Baldur's Gate Noble"
 ---
 # Baldur's Gate Noble
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 135*  
 
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** History, Persuasion  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), a [signet ring](/3-Mechanics/CLI/items/signet-ring.md), a scroll of pedigree, and a purse containing 25 gp  
+- **Equipment.** A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp  
 
 The patriars of Baldur's Gate live in the Upper City, where they host grand galas and flaunt cosmopolitan fashions, but are walled off from the poverty and squalor of the less fortunate districts and their neighborhoods. Although they might visit prosperous Bloomridge to try a fashionable restaurant or boutique, or watch a spectacle at the Oasis Theater, the patriars have little reason to venture into the dirtier, more dangerous parts of the city. If they do, it is generally as thrill-seeking tourists or enclosed by a retinue of armed guards, not as friends or neighbors. As a result, many patriars are at once acutely attuned to the nuances of royal courts half a continent away and shockingly ignorant of what life is like for the poor outside their own doorsteps.
 
@@ -32,8 +32,6 @@ As a member of one of the elite families of Baldur's Gate, you may pass through 
 
 Nobles are born and raised to a very different lifestyle than most people ever experience, and their personalities reflect that upbringing. A noble title comes with a plethora of bonds—responsibilities to family, to other nobles (including the sovereign), to the people entrusted to the family's care, or even to the title itself. But this responsibility is often a good way to undermine a noble.
 
-`dice: [](baldurs-gate-noble-bgdia.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | My eloquent flattery makes everyone I talk to feel like the most wonderful and important person in the world. |
@@ -46,8 +44,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 8 | If you do me an injury, I will crush you, ruin your name, and salt your fields. |
 ^personality-trait
 
-`dice: [](baldurs-gate-noble-bgdia.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. Respect is due to me because of my position, but all people regardless of station deserve to be treated with dignity. (Good) |
@@ -58,8 +54,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 6 | Noble Obligation. It is my duty to protect and care for the people beneath me. (Good) |
 ^ideal
 
-`dice: [](baldurs-gate-noble-bgdia.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I will face any challenge to win the approval of my family. |
@@ -69,8 +63,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 | 5 | My loyalty to my sovereign is unwavering. |
 | 6 | The common folk must see me as a hero of the people. |
 ^bond
-
-`dice: [](baldurs-gate-noble-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

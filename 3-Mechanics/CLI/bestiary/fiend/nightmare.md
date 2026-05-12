@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightmare
+- "Nightmare"
 ---
-# [Nightmare](3-Mechanics\CLI\bestiary\fiend/nightmare.md)
+# [Nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md)
 *Source: Monster Manual p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
@@ -62,6 +62,6 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
     "name": "Ethereal Stride"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/nightmare.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/nightmare.webp"
 ```
 ^statblock

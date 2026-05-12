@@ -17,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc War Chief
+- "Orc War Chief"
 ---
-# [Orc War Chief](3-Mechanics\CLI\bestiary\humanoid/orc-war-chief.md)
+# [Orc War Chief](3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md)
 *Source: Monster Manual p. 246*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -73,7 +73,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 
 > [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
 > 
-> He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions .The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
+> He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions. The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
 
 
 ```statblock
@@ -83,7 +83,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
 "hp": !!int "93"
 "hit_dice": "11d8 + 44"
 "modifier": !!int "1"
@@ -100,10 +100,13 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
   - "constitution": !!int "6"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
@@ -130,7 +133,7 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
     "name": "Battle Cry (1/Day)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orc-war-chief.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-war-chief.webp"
 ```
 ^statblock
 

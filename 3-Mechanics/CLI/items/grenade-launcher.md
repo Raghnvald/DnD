@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/age/modern
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Grenade Launcher"
 ---
 # Grenade Launcher

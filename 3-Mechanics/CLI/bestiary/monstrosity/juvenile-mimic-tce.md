@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Juvenile Mimic
+- "Juvenile Mimic"
 ---
-# [Juvenile Mimic](3-Mechanics\CLI\bestiary\monstrosity/juvenile-mimic-tce.md)
+# [Juvenile Mimic](3-Mechanics/CLI/bestiary/monstrosity/juvenile-mimic-tce.md)
 *Source: Tasha's Cauldron of Everything p. 167*  
 
 ```statblock
@@ -34,12 +34,12 @@ aliases:
   - !!int "10"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Undercommon, telepathy 120 ft."
 "cr": "0"
 "traits":
@@ -50,8 +50,8 @@ aliases:
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage plus 2 (1d4) acid damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage plus 2 (1d4) acid damage."
     "name": "Bite"
   - "desc": "The mimic polymorphs into an object or back into its true, amorphous\
       \ form. Its statistics are the same in each form. Any equipment it is wearing\
@@ -59,6 +59,6 @@ aliases:
     "name": "Shape-Shift"
 "source":
   - "TCE"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/juvenile-mimic-tce.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/juvenile-mimic-tce.webp"
 ```
 ^statblock

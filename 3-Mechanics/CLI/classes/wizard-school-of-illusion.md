@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/wizard/illusion
 aliases:
-- School of Illusion
+- "School of Illusion"
 ---
 # School of Illusion
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -44,11 +44,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Illusion (Level 2)
-
 You focus your studies on magic that dazzles the senses, befuddles the mind, and tricks even the wisest folk. Your magic is subtle, but the illusions crafted by your keen mind make the impossible seem real. Some illusionists—including many gnome wizards—are benign tricksters who use their spells to entertain. Others are more sinister masters of deception, using their illusions to frighten and fool others for their personal gain.
+
+## Subclass Features
 
 ### Illusion Savant (Level 2)
 
@@ -56,9 +54,9 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Improved Minor Illusion (Level 2)
 
-When you choose this school at 2nd level, you learn the [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md) cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
+When you choose this school at 2nd level, you learn the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip. If you already know this cantrip, you learn a different wizard cantrip of your choice. The cantrip doesn't count against your number of cantrips known.
 
-When you cast [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md), you can create both a sound and an image with a single casting of the spell.
+When you cast [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), you can create both a sound and an image with a single casting of the spell.
 
 ### Malleable Illusions (Level 6)
 

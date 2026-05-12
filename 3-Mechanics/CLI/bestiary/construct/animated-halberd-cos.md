@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Halberd
+- "Animated Halberd"
 ---
-# [Animated Halberd](3-Mechanics\CLI\bestiary\construct/animated-halberd-cos.md)
+# [Animated Halberd](3-Mechanics/CLI/bestiary/construct/animated-halberd-cos.md)
 *Source: Curse of Strahd p. 59*  
 
 ```statblock
@@ -36,31 +36,27 @@ aliases:
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 7"
+"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
+  \ poisoned"
+"gear":
+  - "halberd"
+"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The sword is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
-      \ If targeted by [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ the sword must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ for 1 minute."
+  - "desc": "The sword is incapacitated while in the area of an antimagic field. If\
+      \ targeted by dispel magic, the sword must succeed on a Constitution saving\
+      \ throw against the caster's spell save DC or fall unconscious for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the sword remains motionless and isn't flying, it is indistinguishable\
       \ from a normal sword."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d10\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d10 + 1) slashing damage."
     "name": "Halberd"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-halberd-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-halberd-cos.webp"
 ```
 ^statblock

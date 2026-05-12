@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Cloistered Scholar
+- "Cloistered Scholar"
 ---
 # Cloistered Scholar
 *Source: Sword Coast Adventurer's Guide p. 146*  
 
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), plus your choice of one from among [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Nature](/3-Mechanics/CLI/skills.md#Nature), and [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Skill Proficiencies.** [History](3-Mechanics/CLI/rules/skills.md#History), plus your choice of one from among [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
 - **Languages.** any two of your choice  
-- **Equipment.** The scholar's [robes](/3-Mechanics/CLI/items/robe-xphb.md) of your cloister, a writing kit (small [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) with a quill, ink, folded parchment, and a small penknife), a borrowed [book](/3-Mechanics/CLI/items/book-xphb.md) on the subject of your current study, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** The scholar's [robes](3-Mechanics/CLI/items/robe-xphb.md) of your cloister, a writing kit (small [pouch](3-Mechanics/CLI/items/pouch-xphb.md) with a quill, ink, folded parchment, and a small penknife), a borrowed [book](3-Mechanics/CLI/items/book-xphb.md) on the subject of your current study, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 As a child, you were inquisitive when your playmates were possessive or raucous. In your formative years, you found your way to one of Faerûn's great institutes of learning, where you were apprenticed and taught that knowledge is a more valuable treasure than gold or gems. Now you are ready to leave your home—not to abandon it, but to quest for new lore to add to its storehouse of knowledge.
 
@@ -32,6 +32,6 @@ Additionally, you are likely to gain preferential treatment at other libraries a
 
 ## Suggested Characteristics
 
-Use the tables for the [sage](/3-Mechanics/CLI/backgrounds/sage-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a cloistered scholar.
+Use the tables for the [sage](3-Mechanics/CLI/backgrounds/sage-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a cloistered scholar.
 
 Your bond is almost certainly associated either with the place where you grew up or with the knowledge you hope to acquire through adventuring. Your ideal is no doubt related to how you view the quest for knowledge and truth - perhaps as a worthy goal in itself, or maybe as a means to a desirable end.

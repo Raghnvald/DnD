@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- The Grand Masquerade; Grand Masquerade Objectives
+- "The Grand Masquerade; Grand Masquerade Objectives"
 ---
 # The Grand Masquerade; Grand Masquerade Objectives
 *Source: Van Richten's Guide to Ravenloft p. 97* 
 
 **Grand Masquerade Objectives**
-
-`dice: [](the-grand-masquerade-grand-masquerade-objectives-vrgr.md#^grand-masquerade-objectives)`
 
 | dice: d6 | Goal |
 |----------|------|

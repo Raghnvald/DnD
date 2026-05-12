@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arcanaloth
+- "Arcanaloth"
 ---
-# [Arcanaloth](3-Mechanics\CLI\bestiary\fiend/arcanaloth.md)
+# [Arcanaloth](3-Mechanics/CLI/bestiary/fiend/arcanaloth.md)
 *Source: Monster Manual p. 313*  
 
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
@@ -59,8 +59,8 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 > 
 > - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
 > - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
-> - A nycaloth has a 50 percent chance of summoning `dice:1d4|noform|noparens|avg` (`1d4`) mezzoloths or one nycaloth.  
-> - An ultroloth has a 50 percent chance of summoning `dice:1d6|noform|noparens|avg` (`1d6`) mezzoloths, `dice:1d4|noform|noparens|avg` (`1d4`) nycaloths, or one ultroloth.  
+> - A nycaloth has a 50 percent chance of summoning `1d4` mezzoloths or one nycaloth.  
+> - An ultroloth has a 50 percent chance of summoning `1d6` mezzoloths, `1d4` nycaloths, or one ultroloth.  
 > 
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
 ^variant-yugoloth-summoning
@@ -95,49 +95,49 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 17"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
 "traits":
   - "desc": "The arcanaloth is a 16th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth\
       \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [fire\
-      \ bolt](/3-Mechanics/CLI/spells/fire-bolt.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [identify](/3-Mechanics/CLI/spells/identify.md), [shield](/3-Mechanics/CLI/spells/shield.md),\
-      \ [Tenser's floating disk](/3-Mechanics/CLI/spells/tensers-floating-disk.md)\n\
-      \n**2nd level (3 slots):** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts.md),\
-      \ [mirror image](/3-Mechanics/CLI/spells/mirror-image.md), [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion.md)\n\n**3rd level (3 slots):**\
-      \ [counterspell](/3-Mechanics/CLI/spells/counterspell.md), [fear](/3-Mechanics/CLI/spells/fear.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball.md)\n\n**4th level (3 slots):**\
-      \ [banishment](/3-Mechanics/CLI/spells/banishment.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door.md)\n\
-      \n**5th level (2 slots):** [contact other plane](/3-Mechanics/CLI/spells/contact-other-plane.md),\
-      \ [hold monster](/3-Mechanics/CLI/spells/hold-monster.md)\n\n**6th level (1\
-      \ slots):** [chain lightning](/3-Mechanics/CLI/spells/chain-lightning.md)\n\n\
-      **7th level (1 slots):** [finger of death](/3-Mechanics/CLI/spells/finger-of-death.md)\n\
-      \n**8th level (1 slots):** [mind blank](/3-Mechanics/CLI/spells/mind-blank.md)"
+      \ bolt](3-Mechanics/CLI/spells/fire-bolt.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [identify](3-Mechanics/CLI/spells/identify.md), [shield](3-Mechanics/CLI/spells/shield.md),\
+      \ [Tenser's floating disk](3-Mechanics/CLI/spells/tensers-floating-disk.md)\n\
+      \n**2nd level (3 slots):** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
+      \ [mirror image](3-Mechanics/CLI/spells/mirror-image.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**3rd level (3 slots):**\
+      \ [counterspell](3-Mechanics/CLI/spells/counterspell.md), [fear](3-Mechanics/CLI/spells/fear.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball.md)\n\n**4th level (3 slots):**\
+      \ [banishment](3-Mechanics/CLI/spells/banishment.md), [dimension door](3-Mechanics/CLI/spells/dimension-door.md)\n\
+      \n**5th level (2 slots):** [contact other plane](3-Mechanics/CLI/spells/contact-other-plane.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md)\n\n**6th level (1 slots):**\
+      \ [chain lightning](3-Mechanics/CLI/spells/chain-lightning.md)\n\n**7th level\
+      \ (1 slots):** [finger of death](3-Mechanics/CLI/spells/finger-of-death.md)\n\
+      \n**8th level (1 slots):** [mind blank](3-Mechanics/CLI/spells/mind-blank.md)"
     "name": "Spellcasting"
   - "desc": "The arcanaloth's innate spellcasting ability is Charisma (spell save\
       \ DC 15). The arcanaloth can innately cast the following spells, requiring no\
-      \ material components:\n\n**At will:** [alter self](/3-Mechanics/CLI/spells/alter-self.md),\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness.md), [heat metal](/3-Mechanics/CLI/spells/heat-metal.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility.md) (self only), [magic\
-      \ missile](/3-Mechanics/CLI/spells/magic-missile.md)"
+      \ material components:\n\n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self.md),\
+      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [heat metal](3-Mechanics/CLI/spells/heat-metal.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md) (self only), [magic\
+      \ missile](3-Mechanics/CLI/spells/magic-missile.md)"
     "name": "Innate Spellcasting"
   - "desc": "The arcanaloth has advantage on saving throws against spells and other\
       \ magical effects."
@@ -145,16 +145,16 @@ Whatever the case, no fiend finds the General unless the General desires it. His
   - "desc": "The arcanaloth's weapon attacks are magical."
     "name": "Magic Weapons"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) slashing damage. The target must make a DC 14 Constitution saving throw,\
-      \ taking 10 (3d6) poison damage on a failed save, or half as much damage on\
-      \ a successful one."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) slashing damage. The target must make a DC 14 Constitution saving\
+      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
+      \ on a successful one."
     "name": "Claws"
   - "desc": "The arcanaloth magically teleports, along with any equipment it is wearing\
       \ or carrying, up to 60 feet to an unoccupied space it can see."
     "name": "Teleport"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/arcanaloth.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/arcanaloth.webp"
 ```
 ^statblock

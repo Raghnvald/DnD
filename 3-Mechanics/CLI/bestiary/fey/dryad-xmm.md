@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dryad
+- "Dryad"
 ---
-# [Dryad](3-Mechanics\CLI\bestiary\fey/dryad-xmm.md)
+# [Dryad](3-Mechanics/CLI/bestiary/fey/dryad-xmm.md)
 *Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Dryad
@@ -27,14 +27,12 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 
 **Dryad Sanctuaries**
 
-`dice: [](dryad-xmm.md#^dryad-sanctuaries)`
-
 | dice: 1d6 | The Dryad Dwells in and Protects... |
 |-----------|-------------------------------------|
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
-| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](/3-Mechanics/CLI/conditions.md#Petrified) forest. |
+| 4 | A lonely tree that stands atop a windswept mountain or amid a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) forest. |
 | 5 | A plant with magic fruit or remarkable seeds. |
 | 6 | A shambling mound or treant that the dryad lives in or around as a Fey symbiote. |
 ^dryad-sanctuaries
@@ -57,16 +55,16 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "The dryad has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The dryad has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The dryad can communicate with Beasts and Plants as if they shared a\
@@ -74,19 +72,21 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Speak with Beasts and Plants"
 "actions":
   - "desc": "The dryad makes one Vine Lash or Thorn Burst attack, and it can use Spellcasting\
-      \ to cast [Charm Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md)."
+      \ to cast [Charm Monster](3-Mechanics/CLI/spells/charm-monster-xphb.md)."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 8 (1d8 + 4) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 8 (1d8 + 4) Slashing\
+      \ damage."
     "name": "Vine Lash"
-  - "desc": "*Ranged Attack Roll:* +6, range 60 ft. *Hit:* 7 (1d6 + 4) Piercing damage."
+  - "desc": "*Ranged Attack Roll:* +6, range 60 ft. *Hit:* 7 (1d6 + 4) Piercing\
+      \ damage."
     "name": "Thorn Burst"
   - "desc": "The dryad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14):\n\n**At\
-      \ will:** [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
-      \ [Charm Monster](/3-Mechanics/CLI/spells/charm-monster-xphb.md) (lasts 24 hours;\
-      \ ends early if the dryad casts the spell again), [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
-      \n**1/day each:** [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Pass\
-      \ without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
+      \ will:** [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
+      \ [Charm Monster](3-Mechanics/CLI/spells/charm-monster-xphb.md) (lasts 24 hours;\
+      \ ends early if the dryad casts the spell again), [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
+      \n**1/day each:** [Entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [Pass\
+      \ without Trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "If within 5 feet of a Large or bigger tree, the dryad teleports to an\
@@ -95,7 +95,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
     "name": "Tree Stride"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/dryad-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/dryad-xmm.webp"
 ```
 ^statblock
 

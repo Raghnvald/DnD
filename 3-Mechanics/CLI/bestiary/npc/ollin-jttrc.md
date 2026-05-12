@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ollin
+- "Ollin"
 ---
-# [Ollin](3-Mechanics\CLI\bestiary\npc/ollin-jttrc.md)
+# [Ollin](3-Mechanics/CLI/bestiary/npc/ollin-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 109*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Chaotic Good"
 "ac": !!int "13"
-"ac_class": "chain shirt"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "0"
@@ -35,39 +35,43 @@ aliases:
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Medicine"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+7"
-  - "name": "Performance"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+3"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+5"
 "damage_resistances": "fire"
-"senses": "darkvision 60 ft., passive Perception 13"
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Ignan, Tletlahtolli, Infernal"
 "cr": "2"
 "traits":
-  - "desc": "Ollin\n\n**At will:** thaumaturgy\n\n**1/day each:** darkness, hellish\
-      \ rebuke"
-    "name": "Innate Spellcasting"
   - "desc": "Ollin is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 13, +5 to hit with spell attacks). Ollin has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
-      \n**1st level (4 slots):** cure wounds, guiding bolt, sanctuary\n\n**2nd level\
-      \ (3 slots):** lesser restoration, spiritual weapon\n\n**3rd level (2 slots):**\
-      \ dispel magic, spirit guardians"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
+      \n**1st level (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
+      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary.md)\n\
+      \n**2nd level (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md)\n\n**3rd level\
+      \ (2 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [spirit\
+      \ guardians](3-Mechanics/CLI/spells/spirit-guardians.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, Ollin can expend a spell slot to cause its melee weapon\
       \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
       \ a hit. This benefit lasts until the end of the turn. If Ollin expends a spell\
-      \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
-      \ above 1st."
+      \ slot of 2nd level or higher, the extra damage increases by 1d6 for each\
+      \ level above 1st."
     "name": "Divine Eminence"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage."
     "name": "Mace"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ollin-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ollin-jttrc.webp"
 ```
 ^statblock

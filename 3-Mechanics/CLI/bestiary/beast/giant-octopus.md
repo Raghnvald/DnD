@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Octopus
+- "Giant Octopus"
 ---
-# [Giant Octopus](3-Mechanics\CLI\bestiary\beast/giant-octopus.md)
-*Source: Monster Manual p. 326, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Octopus](3-Mechanics/CLI/bestiary/beast/giant-octopus.md)
+*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Octopus"
@@ -34,35 +34,36 @@ aliases:
   - !!int "4"
 "speed": "10 ft., swim 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": ""
 "cr": "1"
 "traits":
   - "desc": "While out of water, the octopus can hold its breath for 1 hour."
     "name": "Hold Breath"
-  - "desc": "The octopus has advantage on Dexterity (Stealth) checks made while underwater."
+  - "desc": "The octopus has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made while underwater."
     "name": "Underwater Camouflage"
   - "desc": "The octopus can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled\
-      \ (escape DC 16). Until this grapple ends, the target is restrained, and the\
-      \ octopus can't use its tentacles on another target."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:*\
+      \ 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 16). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the octopus can't use its tentacles on another target."
     "name": "Tentacles"
   - "desc": "A 20-foot-radius cloud of ink extends all around the octopus if it is\
       \ underwater. The area is heavily obscured for 1 minute, although a significant\
       \ current can disperse the ink. After releasing the ink, the octopus can use\
-      \ the Dash action as a bonus action."
+      \ the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action as a bonus action."
     "name": "Ink Cloud (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-octopus.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-octopus.webp"
 ```
 ^statblock
 

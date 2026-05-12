@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/7
-- new/monster/size/medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tsucora Quori
+- "Tsucora Quori"
 ---
-# [Tsucora Quori](3-Mechanics\CLI\bestiary\aberration/tsucora-quori-erlw.md)
+# [Tsucora Quori](3-Mechanics/CLI/bestiary/aberration/tsucora-quori-erlw.md)
 *Source: Eberron: Rising from the Last War p. 307*  
 
 Tsucora quori are nightmarish creatures. Their headless torsos are covered with eyes and twitching limbs, including two massive arms that end in powerful pincers, and a serpentine tail tipped with a vicious stinger. They are cruel and calculating, enjoying the power they wield over others as they concoct elaborate schemes to advance their own positions and discredit their rivals.
@@ -67,10 +67,10 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
   - "desc": "The quori makes three attacks: one pincer attack, one attack with its\
       \ claws, and one stinger attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) bludgeoning damage. The target is grappled (escape DC 14) if it is a\
-      \ Large or smaller creature. The quori has two pincers, each of which can grapple\
-      \ one target."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) bludgeoning damage. The target is grappled (escape DC 14) if\
+      \ it is a Large or smaller creature. The quori has two pincers, each of which\
+      \ can grapple one target."
     "name": "Pincer"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (4d4 + 3) slashing damage."
@@ -98,6 +98,6 @@ Dal Quor is the plane of dreams and is currently dominated by a dark power known
     "name": "Possession (Recharge 6)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/tsucora-quori-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/tsucora-quori-erlw.webp"
 ```
 ^statblock

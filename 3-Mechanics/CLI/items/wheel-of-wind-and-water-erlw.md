@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Wheel of Wind and Water"
 ---
 # Wheel of Wind and Water

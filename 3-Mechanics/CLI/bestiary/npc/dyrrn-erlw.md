@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/24
-- new/monster/size/medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/24
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dyrrn
+- "Dyrrn"
 ---
-# [Dyrrn](3-Mechanics\CLI\bestiary\npc/dyrrn-erlw.md)
+# [Dyrrn](3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md)
 *Source: Eberron: Rising from the Last War p. 288*  
 
 Dyrrn is known to its followers as the Corruptor, the Stealer of Thoughts, the Slithering Lord, and the Foul Labyrinth. In the lore of the Gatekeepers, it is said that Dyrrn plants thoughts in the weak minded—the seeds of terrible ideas that fester and grow. Those who are particularly brilliant often draw the attention of the Foul Labyrinth, which hungers to consume unique minds.
@@ -38,8 +38,6 @@ Dyrrn makes its lair in the Palace of Sinew, a horrid site shaped from the lefto
 If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains a form of indefinite madness. Roll on the Madness of Dyrrn table to determine the nature of this madness, which takes the form of a character flaw that lasts until cured. Chapter 8 of the "Dungeon Master's Guide" has more information on madness.
 
 **Madness of Dyrrn**
-
-`dice: [](dyrrn-erlw.md#^madness-of-dyrrn)`
 
 | dice: d6 | Flaw (lasts until cured) |
 |----------|--------------------------|
@@ -110,8 +108,8 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
       \ can replace its Tentacle Whip attack with Extract Brain if it has a creature\
       \ grappled."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 24\
-      \ (3d10 + 8) slashing damage. If the target is a Medium or smaller creature,\
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 24 (3d10 + 8) slashing damage. If the target is a Medium or smaller creature,\
       \ it is grappled (escape DC 23), pulled into an unoccupied space within 5 feet\
       \ of Dyrrn, and must succeed on a DC 23 Intelligence saving throw or be stunned\
       \ until this grapple ends. Dyrrn can't use the same tentacle whip on another\
@@ -143,8 +141,8 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
       \ or Dexterity (Acrobatics) check as an action.  \n- Each creature of Dyrrn's\
       \ choice that it can see within 120 feet of it must succeed on a DC 23 Wisdom\
       \ saving throw or take 26 (4d12) psychic damage. Unless the target has immunity\
-      \ to psychic damage, its Intelligence score is reduced by 1d4 each time it fails\
-      \ the saving throw for this lair action. The target dies if its Intelligence\
+      \ to psychic damage, its Intelligence score is reduced by 1d4 each time it\
+      \ fails the saving throw for this lair action. The target dies if its Intelligence\
       \ score is reduced to 0. The reduction lasts until the target finishes a short\
       \ or long rest.  "
     "name": ""
@@ -163,14 +161,13 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
       \ on the Madness of Dyrrn table to determine the nature of this madness, which\
       \ takes the form of a character flaw that lasts until cured. Chapter 8 of the\
       \ \"Dungeon Master's Guide\" has more information on madness.\n\n**Madness of\
-      \ Dyrrn**\n\ndice: [](dyrrn-erlw.md#^madness-of-dyrrn)\n\n| dice: d6 | Flaw\
-      \ (lasts until cured) |\n|----------|--------------------------|\n| 1 | \"There's\
-      \ an illithid parasite living in my brain!\" |\n| 2 | \"I can feel myself evolving\
-      \ into an aberration.\" |\n| 3 | \"Aberrations are the only natural things.\"\
-      \ |\n| 4 | \"A part of me has become a conscious entity.\" |\n| 5 | \"My opponents\
-      \ must bow down to a mind flayer!\" |\n| 6 | \"Dyrrn and the mind flayers simply\
-      \ want to unite all sentient creatures in collective consciousness. And I receive\
-      \ messages from the group mind!\" |\n^madness-of-dyrrn"
+      \ Dyrrn**\n\n| dice: d6 | Flaw (lasts until cured) |\n|----------|--------------------------|\n\
+      | 1 | \"There's an illithid parasite living in my brain!\" |\n| 2 | \"I can\
+      \ feel myself evolving into an aberration.\" |\n| 3 | \"Aberrations are the\
+      \ only natural things.\" |\n| 4 | \"A part of me has become a conscious entity.\"\
+      \ |\n| 5 | \"My opponents must bow down to a mind flayer!\" |\n| 6 | \"Dyrrn\
+      \ and the mind flayers simply want to unite all sentient creatures in collective\
+      \ consciousness. And I receive messages from the group mind!\" |\n^madness-of-dyrrn"
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Dyrrn can expend a use to take one of the following actions. Dyrrn regains\
@@ -190,6 +187,6 @@ If a creature goes mad in Dyrrn's lair or while it can see the daelkyr, it gains
     "name": "Mind Blast (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/dyrrn-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/dyrrn-erlw.webp"
 ```
 ^statblock

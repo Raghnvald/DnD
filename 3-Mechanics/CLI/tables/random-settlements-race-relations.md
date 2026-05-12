@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Race Relations
+- "Random Settlements; Race Relations"
 ---
 # Random Settlements; Race Relations
 *Source: Dungeon Master's Guide p. 112* 
 
 **Race Relations**
-
-`dice: [](random-settlements-race-relations.md#^race-relations)`
 
 | dice: d20 | Result |
 |-----------|--------|

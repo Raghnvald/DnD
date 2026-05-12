@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hook Horror
+- "Hook Horror"
 ---
-# [Hook Horror](3-Mechanics\CLI\bestiary\monstrosity/hook-horror.md)
+# [Hook Horror](3-Mechanics/CLI/bestiary/monstrosity/hook-horror.md)
 *Source: Monster Manual p. 189*  
 
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
@@ -49,27 +49,27 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 13"
 "languages": "Hook Horror"
 "cr": "3"
 "traits":
-  - "desc": "The hook horror can't use its blindsight while [deafened](/3-Mechanics/CLI/conditions.md#Deafened)."
+  - "desc": "The hook horror can't use its blindsight while [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)."
     "name": "Echolocation"
-  - "desc": "The hook horror has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The hook horror has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
   - "desc": "The hook horror makes two hook attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) piercing damage."
     "name": "Hook"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hook-horror.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hook-horror.webp"
 ```
 ^statblock
 

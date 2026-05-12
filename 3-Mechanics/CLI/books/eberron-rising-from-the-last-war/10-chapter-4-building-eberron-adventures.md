@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Chapter 4: Building Eberron Adventures
+- "Chapter 4: Building Eberron Adventures"
 ---
 # Chapter 4: Building Eberron Adventures
 *Source: Eberron: Rising from the Last War, p. 183* 
@@ -18,7 +18,7 @@ This chapter begins with a look at three key themes that pervade many Eberron ad
 
 Specific monsters and nonplayer characters (NPCs) mentioned in this chapter can be found either in the "Monster Manual" or in "chapter 6" of this book. When a creature's name appears in bold type, that's a visual cue pointing you to the creature's stat block in the "Monster Manual" or in chapter 6. If the stat block appears in chapter 6, the text tells you so.
 
-![Passengers from all over K...](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/104-4-01.webp#center "Passengers from all over Khorvaire disembark from a lightning train.")
+![Passengers from all over Khorvaire disembark from a lightning train.](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/104-4-01.webp#center)
 
 ## Adventure Themes
 
@@ -65,7 +65,7 @@ Adventurers get more powerful over time, so if a villain is going to remain a re
 
 **Mechanical Improvement**. Use the guidelines in "chapter 9" of the "Dungeon Master's Guide" to add class levels or Hit Dice to the villain and improve its challenge rating to make it relevant to the higher-level characters.
 
-**NPC Stat Blocks**. Some of the stat blocks in the "Monster Manual" can reflect the same character at different stages of advancement. For example, the adventurers might confront a villain who uses the stat block of a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) (9th-level wizard) and then returns later as an [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md) (18th-level wizard). You could also use stat blocks in other sources to add to the sequence, so the characters could even meet this aspiring villain as an [apprentice wizard](/3-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-vgm.md) and later as an [evoker](/3-Mechanics/CLI/bestiary/humanoid/evoker-vgm.md) (both in "Volo's Guide to Monsters").
+**NPC Stat Blocks**. Some of the stat blocks in the "Monster Manual" can reflect the same character at different stages of advancement. For example, the adventurers might confront a villain who uses the stat block of a mage (9th-level wizard) and then returns later as an archmage (18th-level wizard). You could also use stat blocks in other sources to add to the sequence, so the characters could even meet this aspiring villain as an apprentice wizard and later as an evoker (both in "Volo's Guide to Monsters").
 
 **Organizations as Villains**. Rather than use an individual as a recurring villain, you could think in terms of the organization the villain belongs to or represents. For example, low-level adventurers might fight low-level agents of the Order of the Emerald Claw and grow to loathe the sight of their claw-shaped symbol and green cloaks. As they attain higher levels, the characters will face increasingly more powerful members of the order.
 
@@ -77,7 +77,7 @@ Exercise some caution when exploring these noir themes in the stories you develo
 
 The Morally Ambiguous Villains table offers some twists you can add to the villains in this chapter, giving them more or less good reasons to perform their evil deeds.
 
-![Shades of Evil; Morally Ambiguous Villains](/3-Mechanics/CLI/tables/shades-of-evil-morally-ambiguous-villains-erlw.md)
+![Shades of Evil; Morally Ambiguous Villains](3-Mechanics/CLI/tables/shades-of-evil-morally-ambiguous-villains-erlw.md)
 
 #### The Villain You Know
 
@@ -85,11 +85,11 @@ Not every villain is a mastermind who schemes in the shadows or a world-destroyi
 
 Use the Villain You Know table to add some depth and detail to the actions and motivations of a villain who plagues the characters on a regular basis.
 
-![The Villain You Know; Villain You Know](/3-Mechanics/CLI/tables/the-villain-you-know-villain-you-know-erlw.md)
+![The Villain You Know; Villain You Know](3-Mechanics/CLI/tables/the-villain-you-know-villain-you-know-erlw.md)
 
 #### The Mysterious Villain
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/105-4-02.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/105-4-02.webp#center)
 
 In contrast to a villain who is a part of the characters' everyday life, an otherworldly villain isn't only anonymous but also fundamentally mysterious. It's not just a question of *who* the villain is, but also of *what* the villain is, and what extraordinary measures might be required to put a stop to their villainy. Even after the adventurers discover that their long-term nemesis is one of the Inspired, for example, they still need to learn the secrets of the Inspired and their quori masters in order to figure out how to deal with this threat.
 
@@ -103,7 +103,7 @@ Some mysterious villains wield enough power to threaten the entire world through
 
 Most villains in this category are numbered among the driving forces described later in this chapter. You can use the Villain You Don't Understand table to choose one of these forces, then consult the adventure seeds and villain ideas in the appropriate section.
 
-![Driving Forces; Villain You Don't Understand](/3-Mechanics/CLI/tables/driving-forces-villain-you-dont-understand-erlw.md)
+![Driving Forces; Villain You Don't Understand](3-Mechanics/CLI/tables/driving-forces-villain-you-dont-understand-erlw.md)
 
 ### Action!
 
@@ -113,7 +113,7 @@ Adventures in the pulp tradition tend to start with a bang and proceed at a brea
 
 When you begin an adventure with a bang, you catch the characters up in the action right away, grabbing their interest and sending them off on a wild ride. The Story Kickoff table offers some action-packed ways to get things moving.
 
-![Kicking Off the Action; Story Kickoff](/3-Mechanics/CLI/tables/kicking-off-the-action-story-kickoff-erlw.md)
+![Kicking Off the Action; Story Kickoff](3-Mechanics/CLI/tables/kicking-off-the-action-story-kickoff-erlw.md)
 
 #### Keeping the Action Going
 
@@ -121,7 +121,7 @@ When you begin an adventure with a bang, you catch the characters up in the acti
 
 A new arrival on the scene might be an integral part of the plot or an independent event. The New Development table presents some ideas.
 
-![Keeping the Action Going; New Development](/3-Mechanics/CLI/tables/keeping-the-action-going-new-development-erlw.md)
+![Keeping the Action Going; New Development](3-Mechanics/CLI/tables/keeping-the-action-going-new-development-erlw.md)
 
 ### Intrigue
 
@@ -131,13 +131,13 @@ Stories in the noir tradition tend to start slowly and build gradually as the my
 
 Putting a mystery in front of the characters at the very start of the adventure sets the tone for what's ahead and draws them in to the story. The Story Opening table offers some ways to draw the characters into the mystery.
 
-![Setting the Stage; Story Opening](/3-Mechanics/CLI/tables/setting-the-stage-story-opening-erlw.md)
+![Setting the Stage; Story Opening](3-Mechanics/CLI/tables/setting-the-stage-story-opening-erlw.md)
 
 #### The Plot Thickens
 
 A key point in most intrigue adventures is a significant plot twist. As you plan the trail of clues, events, and interactions, consider a point where you can shake things up with a twist like the ones shown on The Plot Thickens table.
 
-![The Plot Thickens](/3-Mechanics/CLI/tables/the-plot-thickens-erlw.md)
+![The Plot Thickens](3-Mechanics/CLI/tables/the-plot-thickens-erlw.md)
 
 ## The Aurum
 
@@ -163,7 +163,7 @@ Aurum Concordians are defined by their wealth and power. When you create an Auru
 
 Members of the Aurum become villains if their quest for greater influence, personal power, and wealth victimizes the innocent. Whether villains or allies, all Concordians wield significant political influence. They have access to minions and resources in the higher levels of society. They prefer to pursue schemes of coercion and conspiracy, putting their money and influence to work, than resort to blatant violence in any form.
 
-![Aurum NPCs](/3-Mechanics/CLI/tables/aurum-npcs-erlw.md)
+![Aurum NPCs](3-Mechanics/CLI/tables/aurum-npcs-erlw.md)
 
 ### Aurum Campaign Themes
 
@@ -177,7 +177,7 @@ Whether they interact with the Aurum as ally or enemy, at some point the adventu
 
 The Aurum Missions table suggests a variety of assignments that adventurers might be asked to undertake on behalf of the Aurum or one of its members, whether or not they're aware of their patron's affiliation.
 
-![Aurum Missions](/3-Mechanics/CLI/tables/aurum-missions-erlw.md)
+![Aurum Missions](3-Mechanics/CLI/tables/aurum-missions-erlw.md)
 
 ## Cults of the Dragon Below
 
@@ -185,17 +185,17 @@ The Cults of the Dragon Below are made up of people fanatically devoted to the d
 
 Unlike other organizations with global reach, the cults have no organizing structure or principle. They are an infection inflicted on the world without reason. "Cult of the Dragon Below" is a term that outsiders use to describe any sect devoted to the daelkyr or the overlords. Each cult pursues its own mad schemes, tied to its dark patron. Even cults associated with the same master might not recognize one another as allies. You can roll on the Cult of the Dragon Below table to get a quick description of a cult, or you can create something entirely new. Whatever purpose cultists find or create for themselves from their twisted devotions, they pursue it with fanaticism. Even the most urbane and cultured cult leaders are unwavering in their convictions, entirely sure that their beliefs are good, true, and just.
 
-![Cults of the Dragon Below](/3-Mechanics/CLI/tables/cults-of-the-dragon-below-erlw.md)
+![Cults of the Dragon Below](3-Mechanics/CLI/tables/cults-of-the-dragon-below-erlw.md)
 
 ### The Cults and the War
 
-The war and its aftermath created a fertile breeding ground for the Cults of the Dragon Below. In this time of uncertainty and fear, it's easy for people to gravitate toward a group that provides a sense of purpose or a promise of security. This mindset is intensified by the spread of refugees in the wake of the Mourning, and by the lingering animosity that continues to divide people. In the Mror Holds, the conflict with [Dyrrn the Corruptor](/3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md) has begun to leave its mark, with new cults appearing throughout the nation. In general, the chaos of the war has left behind ample areas of shadow in which new cults can form and thrive.
+The war and its aftermath created a fertile breeding ground for the Cults of the Dragon Below. In this time of uncertainty and fear, it's easy for people to gravitate toward a group that provides a sense of purpose or a promise of security. This mindset is intensified by the spread of refugees in the wake of the Mourning, and by the lingering animosity that continues to divide people. In the Mror Holds, the conflict with [Dyrrn the Corruptor](3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md) has begun to leave its mark, with new cults appearing throughout the nation. In general, the chaos of the war has left behind ample areas of shadow in which new cults can form and thrive.
 
 ### Cults of the Dragon Below NPCs
 
 Some Cults of the Dragon Below are bizarre yet harmless, but most of them are dangerous and destructive forces that prey on innocents and vulnerable people. Some cultists are aware of the true nature of the beings they serve, but many are delusional; cultists might perceive their mind flayer master as a wise and gentle priest.
 
-![Cults of the Dragon Below NPCs; Cult NPCs](/3-Mechanics/CLI/tables/cults-of-the-dragon-below-npcs-cult-npcs-erlw.md)
+![Cults of the Dragon Below NPCs; Cult NPCs](3-Mechanics/CLI/tables/cults-of-the-dragon-below-npcs-cult-npcs-erlw.md)
 
 ### Cult Campaign Themes
 
@@ -209,7 +209,7 @@ Alternatively, a cult can burst explosively onto the scene with a spray of gore 
 
 The Cult Adventure Hooks table offers suggestions for story opportunities involving the cults.
 
-![Cult Adventures; Cult Adventure Hooks](/3-Mechanics/CLI/tables/cult-adventures-cult-adventure-hooks-erlw.md)
+![Cult Adventures; Cult Adventure Hooks](3-Mechanics/CLI/tables/cult-adventures-cult-adventure-hooks-erlw.md)
 
 ## Dragonmarked Houses
 
@@ -242,16 +242,16 @@ Arcane workshops have many features in common, from workbenches and tools to dia
 Characters might find their way to an arcane workshop for a variety of reasons. Some possibilities are outlined in the Arcane Workshop Adventures table.
 
 > [!gallery]
-> ![Map 4.1: Arcane Workshop](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/106-map41_arcaneworkshop.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/107-map41_arcaneworkshop-player.webp#gallery)
+> ![Map 4.1: Arcane Workshop](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/106-map41_arcaneworkshop.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/107-map41_arcaneworkshop-player.webp#gallery)
 
-![Arcane Workshop Adventures](/3-Mechanics/CLI/tables/arcane-workshop-adventures-erlw.md)
+![Arcane Workshop Adventures](3-Mechanics/CLI/tables/arcane-workshop-adventures-erlw.md)
 
 ### Dragonmarked NPCs
 
 The reach and influence of the dragonmarked houses means that they can play many roles in a campaign. Dragonmarked heirs can be valuable patrons. Dragonmarked villains usually covet magical knowledge, wealth, or influence, and their methods are appropriate to the marks they bear. Dragonmarked agents can range from lowly spies bearing the Mark of Shadow hidden within a circus troupe, to a dragonmarked warlord of House Deneith who has decided to establish their own fiefdom. Examples of NPCs from dragonmarked houses appear in the Dragonmarked NPCs table.
 
-![Dragonmarked NPCs](/3-Mechanics/CLI/tables/dragonmarked-npcs-erlw.md)
+![Dragonmarked NPCs](3-Mechanics/CLI/tables/dragonmarked-npcs-erlw.md)
 
 ### Dragonmarked House Campaign Themes
 
@@ -263,7 +263,7 @@ As a prominent part of society, the dragonmarked houses strive to maintain the a
 
 The Dragonmarked House Adventure Hooks table presents a few ways to pull characters into tales concerning the houses.
 
-![Dragonmarked House Adventure Hooks](/3-Mechanics/CLI/tables/dragonmarked-house-adventure-hooks-erlw.md)
+![Dragonmarked House Adventure Hooks](3-Mechanics/CLI/tables/dragonmarked-house-adventure-hooks-erlw.md)
 
 ## Dragons
 
@@ -304,16 +304,16 @@ Each observatory must be built in a location that is balanced between Siberys an
 The characters might find their way to a planar observatory as unwitting minions of a Chamber observer, as a destination in their struggles against servants of the Lords of Dust, or even accidentally. The Planar Observatory Adventures table presents some possibilities.
 
 > [!gallery]
-> ![Map 4.2: Planar Observatory](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/108-map42_planarobservatory.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/109-map42_planarobservatory-player.webp#gallery)
+> ![Map 4.2: Planar Observatory](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/108-map42_planarobservatory.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/109-map42_planarobservatory-player.webp#gallery)
 
-![Planar Observatory Adventures](/3-Mechanics/CLI/tables/planar-observatory-adventures-erlw.md)
+![Planar Observatory Adventures](3-Mechanics/CLI/tables/planar-observatory-adventures-erlw.md)
 
 #### Chamber NPCs
 
 The dragons of the Chamber typically use magic to disguise their true nature and move unseen among humanoids. Although their goals of acquiring knowledge and opposing the Lords of Dust can make the dragons suitable as allies, their devotion to their long-term interests can blind them to the short-term impact of their actions.
 
-![Chamber NPCs](/3-Mechanics/CLI/tables/chamber-npcs-erlw.md)
+![Chamber NPCs](3-Mechanics/CLI/tables/chamber-npcs-erlw.md)
 
 ### Chamber Campaign Themes
 
@@ -327,13 +327,13 @@ Another possibility is that the adventurers are openly working with the Chamber 
 
 The Chamber Missions table suggests several ways that adventurers might (knowingly or unknowingly) be asked to advance the Chamber's agenda, while the Chamber Adventures table offers a few more ways in which the activities of the Chamber could lead to an adventure.
 
-![Chamber Missions](/3-Mechanics/CLI/tables/chamber-missions-erlw.md)
+![Chamber Missions](3-Mechanics/CLI/tables/chamber-missions-erlw.md)
 
 ## The Dreaming Dark
 
 In the spaces between sleeping and waking, nightmares wait with grasping claws. The quori spirits that rule Dal Quor spent a thousand years seizing control of the continent of Sarlona. Now they have turned their many eyes toward Khorvaire. The ultimate goal of the Dreaming Dark is to control all the nations of the world. The plane of Dal Quor goes through cycles of light and darkness, and the current age is coming to an end. The nightmare spirits that rule the plane believe that by seizing control of mortal civilization—by forcing all the people of Eberron to dream the dreams they devise—they can maintain this current age of darkness indefinitely. So the fiends of the Dreaming Dark aren't merely hungry for power; they are fighting for survival.
 
-The quori can't manifest physically in Eberron, but they have other options. They can possess willing humanoids, creating agents known as the [Inspired](/3-Mechanics/CLI/bestiary/humanoid/inspired-erlw.md) (see "chapter 6"). They can also manipulate the dreams of mortals. The Dreaming Dark can trick a priest by sending dreams that appear to be divine visions, or inspire a soldier to rebel against their lord.
+The quori can't manifest physically in Eberron, but they have other options. They can possess willing humanoids, creating agents known as the [Inspired](3-Mechanics/CLI/bestiary/humanoid/inspired-erlw.md) (see "chapter 6"). They can also manipulate the dreams of mortals. The Dreaming Dark can trick a priest by sending dreams that appear to be divine visions, or inspire a soldier to rebel against their lord.
 
 The greatest weapon of the Dreaming Dark is its ability to infiltrate other organizations. Anyone could become an Inspired vessel, or be prompted into taking foolish action by a dream. Its agents are scattered across the world and have no obvious connection to one another, until they reveal their true nature and purpose.
 
@@ -377,21 +377,21 @@ The second challenge in crafting a dream adventure is how to bring all the chara
 
 The Dream Adventures table puts these principles together and suggests hooks into this kind of adventure.
 
-![The Role of Dreams; Dream Adventures](/3-Mechanics/CLI/tables/the-role-of-dreams-dream-adventures-erlw.md)
+![The Role of Dreams; Dream Adventures](3-Mechanics/CLI/tables/the-role-of-dreams-dream-adventures-erlw.md)
 
 #### Dying in Dreams
 
-Death in dreams is less severe than in reality, but it's not without consequence. Of course, characters who are mere figments of a dreamer's imagination are simply removed from the dream. But a character dies while actually dreaming, the character receives no benefit from the rest and takes `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage.
+Death in dreams is less severe than in reality, but it's not without consequence. Of course, characters who are mere figments of a dreamer's imagination are simply removed from the dream. But a character dies while actually dreaming, the character receives no benefit from the rest and takes `3d6` psychic damage.
 
 If you want to establish more severe consequences, you can. A dreamer killed by a quori could be trapped in Dal Quor while the quori possesses their body, forcing their allies to try to rescue them from their nightmares.
 
 ### Dreaming Dark NPCs
 
-Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, communes with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a [kalaraq quori](/3-Mechanics/CLI/bestiary/aberration/kalaraq-quori-erlw.md) (see "chapter 6") named Tirashana, who has planted mind seeds—mental copies of herself—across Khorvaire.
+Agents of the Dreaming Dark are insidious villains that can appear anywhere, in almost any context. They receive orders from a cabal of powerful quori. The leader of the organization, known as the Devourer of Dreams, communes with the nightmare spirit of Dal Quor itself. The Dark's chief agent in Eberron is a [kalaraq quori](3-Mechanics/CLI/bestiary/aberration/kalaraq-quori-erlw.md) (see "chapter 6") named Tirashana, who has planted mind seeds—mental copies of herself—across Khorvaire.
 
-The Dreaming Dark has Inspired agents and [kalaraq quori](/3-Mechanics/CLI/bestiary/aberration/kalaraq-quori-erlw.md) mind seeds (see "chapter 6") scattered across Khorvaire, hidden within the membership of dragonmarked houses, noble families, and other driving forces. Because Dreaming Dark agents can communicate and coordinate with one another in dreams, they never have to risk losing their cover to receive assignments or transmit information.
+The Dreaming Dark has Inspired agents and [kalaraq quori](3-Mechanics/CLI/bestiary/aberration/kalaraq-quori-erlw.md) mind seeds (see "chapter 6") scattered across Khorvaire, hidden within the membership of dragonmarked houses, noble families, and other driving forces. Because Dreaming Dark agents can communicate and coordinate with one another in dreams, they never have to risk losing their cover to receive assignments or transmit information.
 
-![Dreaming Dark NPCs](/3-Mechanics/CLI/tables/dreaming-dark-npcs-erlw.md)
+![Dreaming Dark NPCs](3-Mechanics/CLI/tables/dreaming-dark-npcs-erlw.md)
 
 ### Dreaming Dark Campaign Themes
 
@@ -405,7 +405,7 @@ Given those objectives, the Dreaming Dark can drive events on a small scale, by 
 
 The Dreaming Dark Adventure Hooks table offers some ideas for strange occurrences and nightmarish events that can touch off stories involving the Dreaming Dark.
 
-![Dreaming Dark Adventure Hooks](/3-Mechanics/CLI/tables/dreaming-dark-adventure-hooks-erlw.md)
+![Dreaming Dark Adventure Hooks](3-Mechanics/CLI/tables/dreaming-dark-adventure-hooks-erlw.md)
 
 ## Droaam
 
@@ -442,7 +442,7 @@ Within Droaam, any creature that commands the loyalty of a band and has successf
 
 **Kethelrax the Cunning**. The kobold lord Kethelrax has laid claim to Shaarat Kol in the south of Droaam and leads host of kobolds and goblins—creatures that have been traditionally enslaved and oppressed by the larger and more powerful inhabitants of the region. Though his epithet, "the Cunning," is used mockingly by other warlords, Kethelrax has the favor of Sora Katra and has proven to be clever in his own right. The kobolds are thrilled to have their own territory and are fiercely loyal to the Daughters, but many yearn for revenge against their former masters.
 
-**Rhesh Turakbar**. The minotaur warlord Rhesh Turakbar has united the small clans of his people into a deadly force. His fortress is on the eastern edge of Droaam, and he often leads raiding parties into Breland in the name of his fiendish patron, the Horned Prince—also known as [Rak Tulkhesh](/3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md) (see "chapter 6").
+**Rhesh Turakbar**. The minotaur warlord Rhesh Turakbar has united the small clans of his people into a deadly force. His fortress is on the eastern edge of Droaam, and he often leads raiding parties into Breland in the name of his fiendish patron, the Horned Prince—also known as [Rak Tulkhesh](3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md) (see "chapter 6").
 
 **Sheshka, the Queen of Stone.** The medusas have long held the ancient citadel of Cazhaak Draal. Though they are not numerous, their deadly gaze and trained basilisk pets make the medusas a force to be reckoned with. Medusa priests of the Dark Six are spiritual leaders in many Droaamish communities. Queen Sheshka is a skilled warrior and general. She has been loyal to the Daughters, but she is devoted to her people and will always do what's best for them.
 
@@ -452,7 +452,7 @@ Within Droaam, any creature that commands the loyalty of a band and has successf
 
 **Xor'chylic**. A mind flayer serves as the governor of Graywall. It's said that the Daughters found Xor'chylic in Khyber, and received his loyalty in exchange for a pledge that the hags would give him an opportunity for vengeance against one of the daelkyr.
 
-**Znir Pact**. The gnolls of Droaam, once servants of [Rak Tulkhesh](/3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md), broke ties with the demons long ago and swore an oath of loyalty to the pack above all else. Since standing together and being bound by this Znir Pact, the gnolls have never been subjugated by any other force, and have never sought to conquer. Instead, they sell their services as hunters and soldiers, serving all warlords. The gnolls are trusted across Droaam.
+**Znir Pact**. The gnolls of Droaam, once servants of [Rak Tulkhesh](3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md), broke ties with the demons long ago and swore an oath of loyalty to the pack above all else. Since standing together and being bound by this Znir Pact, the gnolls have never been subjugated by any other force, and have never sought to conquer. Instead, they sell their services as hunters and soldiers, serving all warlords. The gnolls are trusted across Droaam.
 
 ### Ruined Dhakaani Fort
 
@@ -471,14 +471,14 @@ The middle tower consists of two crumbling floors with arrow slits, accessed by 
 The top level of the fort overhangs the tower. Large portions of the floor are missing, making certain areas difficult to reach. Arrow slits on the perimeter of this level made it instrumental to the fort's defense, and the large rooms here were used for arms storage and mustering troops for battle.
 
 > [!gallery]
-> ![Map 4.3: Ruined Dhakaani Fort](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/110-map43_ruindhakaanifort.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/111-map43_ruindhakaanifort-player.webp#gallery)
+> ![Map 4.3: Ruined Dhakaani Fort](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/110-map43_ruindhakaanifort.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/111-map43_ruindhakaanifort-player.webp#gallery)
 
 #### Ruined Dhakaani Fort Adventures
 
 The Ruined Fort Adventures table offers some ideas for drawing a party to the location.
 
-![Ruined Dhakaani Fort Adventures; Ruined Fort Adventures](/3-Mechanics/CLI/tables/ruined-dhakaani-fort-adventures-ruined-fort-adventures-erlw.md)
+![Ruined Dhakaani Fort Adventures; Ruined Fort Adventures](3-Mechanics/CLI/tables/ruined-dhakaani-fort-adventures-ruined-fort-adventures-erlw.md)
 
 ### Daughters of Sora Kell
 
@@ -514,7 +514,7 @@ As described in "chapter 1", Sora Kell herself could be a group patron for a par
 
 Any adventure that takes place in Droaam or involves creatures that hail from that nation gives the players and their characters a chance to deal with monsters that don't always behave monstrously. The Droaam Adventure Hooks table presents a variety of story links involving Droaam, the Daughters of Sora Kell, or both.
 
-![Droaam Adventure Hooks](/3-Mechanics/CLI/tables/droaam-adventure-hooks-erlw.md)
+![Droaam Adventure Hooks](3-Mechanics/CLI/tables/droaam-adventure-hooks-erlw.md)
 
 ## Gatekeepers
 
@@ -541,20 +541,20 @@ The most common form of Gatekeeper seal is a great stone slab set into the groun
 Map 4.4 shows what a Gatekeeper seal might look like. A seal is a protected site, usually attended at all times by Gatekeepers who live at or near the seal. The one depicted in the map lies on the edge of a swamp, but it could be located in any kind of terrain. A circle of standing stones serves to focus the magic of the area toward the seal itself, and the stones also serve as a place of worship for the druids' devotions and ceremonies.
 
 > [!gallery]
-> ![Map 4.4: Gatekeeper Seal](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/112-map44_gatekeeperseal.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/113-map44_gatekeeperseal-player.webp#gallery)
+> ![Map 4.4: Gatekeeper Seal](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/112-map44_gatekeeperseal.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/113-map44_gatekeeperseal-player.webp#gallery)
 
 #### Gatekeeper Seal Adventures
 
 The location of a Gatekeeper seal might be the site of an adventure's climax, or the characters might need to find one in order to consult with the guardians there. The Gatekeeper Seal Adventures table presents some possibilities.
 
-![Gatekeeper Seal Adventures](/3-Mechanics/CLI/tables/gatekeeper-seal-adventures-erlw.md)
+![Gatekeeper Seal Adventures](3-Mechanics/CLI/tables/gatekeeper-seal-adventures-erlw.md)
 
 ### Gatekeeper NPCs
 
 Gatekeepers are sworn to protect the world, and thus are more likely to be encountered as allies than as enemies. It's always possible, though, for even noble Gatekeepers to fall prey to madness and corruption, thus becoming the very evils they are sworn to fight.
 
-![Gatekeeper NPCs](/3-Mechanics/CLI/tables/gatekeeper-npcs-erlw.md)
+![Gatekeeper NPCs](3-Mechanics/CLI/tables/gatekeeper-npcs-erlw.md)
 
 ### Gatekeeper Campaign Themes
 
@@ -566,7 +566,7 @@ At certain points in a campaign, the Gatekeepers might seem to be villains. The 
 
 Gatekeepers can be at the center of any number of potential stories. The Gatekeeper Adventure Hooks table offers some options.
 
-![Gatekeeper Adventure Hooks](/3-Mechanics/CLI/tables/gatekeeper-adventure-hooks-erlw.md)
+![Gatekeeper Adventure Hooks](3-Mechanics/CLI/tables/gatekeeper-adventure-hooks-erlw.md)
 
 ## Goblinoids (Heirs of Dhakaan)
 
@@ -594,7 +594,7 @@ All across Darguun, the Heirs of Dhakaan are reclaiming surviving remnants of th
 
 The Dhakaani Fort Adventures table describes some tasks that could bring characters to such a place.
 
-![Dhakaani Fort Adventures](/3-Mechanics/CLI/tables/dhakaani-fort-adventures-erlw.md)
+![Dhakaani Fort Adventures](3-Mechanics/CLI/tables/dhakaani-fort-adventures-erlw.md)
 
 ### Goblinoid NPCs
 
@@ -602,7 +602,7 @@ Characters who approach the Heirs of Dhakaan expecting a ragtag band of goblinoi
 
 Dhakaani squads are utterly devoted to their kech leaders and their empire. All are bound by the principles of *muut* and *atcha* (honor and duty), but they believe that humans and their kin don't deserve to be treated with honor. All the goblinoid races work together among the Dhakaani, and all are convinced of the superiority of their culture. When forced to fight other Dhakaani, they will usually spare the lives of their opponents, but against all other adversaries—including other goblinoids—they are ruthless.
 
-![Goblinoid NPCs](/3-Mechanics/CLI/tables/goblinoid-npcs-erlw.md)
+![Goblinoid NPCs](3-Mechanics/CLI/tables/goblinoid-npcs-erlw.md)
 
 ### Goblinoid Campaign Themes
 
@@ -618,4 +618,4 @@ As far as the goblins are concerned, humans stole their lands, pillaged their to
 
 The Heirs of Dhakaan Adventure Hooks table offers some options for kicking off stories that involve the Dhakaani.
 
-![Heirs of Dhakaan Adventure Hooks](/3-Mechanics/CLI/tables/heirs-of-dhakaan-adventure-hooks-erlw.md)
+![Heirs of Dhakaan Adventure Hooks](3-Mechanics/CLI/tables/heirs-of-dhakaan-adventure-hooks-erlw.md)

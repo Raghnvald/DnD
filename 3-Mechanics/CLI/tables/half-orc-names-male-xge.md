@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Half-Orc Names – Male
+- "Half-Orc Names – Male"
 ---
 # Half-Orc Names – Male
 *Source: Xanathar's Guide to Everything p. 179* 
 
 **Half-Orc Names – Male**
-
-`dice: [](half-orc-names-male-xge.md#^half-orc-names-male)`
 
 | dice: d100 | Name |
 |------------|------|

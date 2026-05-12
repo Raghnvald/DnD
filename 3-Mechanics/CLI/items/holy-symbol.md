@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Holy Symbol"
 ---
 # Holy Symbol
@@ -16,8 +16,8 @@ aliases:
 
 **Items in this group:**
 
-- [Amulet](/3-Mechanics/CLI/items/amulet.md)
-- [Emblem](/3-Mechanics/CLI/items/emblem.md)
-- [Reliquary](/3-Mechanics/CLI/items/reliquary.md)
+- [Amulet](3-Mechanics/CLI/items/amulet.md)
+- [Emblem](3-Mechanics/CLI/items/emblem.md)
+- [Reliquary](3-Mechanics/CLI/items/reliquary.md)
 
 *Source: Player's Handbook p. 151*

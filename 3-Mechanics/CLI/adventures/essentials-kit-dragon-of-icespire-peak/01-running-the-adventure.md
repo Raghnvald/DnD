@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Running the Adventure
+- "Running the Adventure"
 ---
 # Running the Adventure
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 2* 
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/000-rta-01.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/000-rta-01.webp#center)
 
 This book is written for the Dungeon Master. It contains a complete Dungeons & Dragons adventure, as well as descriptions for every creature that appears in the adventure. It also teaches you how to run a D&D game.
 
@@ -94,19 +94,19 @@ When you're ready to begin the adventure, unfold the poster map so that the map 
 
 The box contains the following cards:
 
-Combat Step by Step Cards. These identical cards outline the order of combat, as described in the rulebook.
+[Combat Step by Step Cards](3-Mechanics/CLI/decks/combat-step-by-step-cards-esk.md). These identical cards outline the order of combat, as described in the rulebook.
 
-Condition Cards. These cards describe various conditions that can affect creatures in the game. A player whose character is suffering from a condition can keep the card as a reminder, giving it back to you when the condition ends for that character.
+[Condition Cards](3-Mechanics/CLI/decks/condition-cards-esk.md). These cards describe various conditions that can affect creatures in the game. A player whose character is suffering from a condition can keep the card as a reminder, giving it back to you when the condition ends for that character.
 
-Initiative Cards. After the characters and each group of monsters involved in a combat roll initiative, distribute these cards among the combat participants, from the highest to lowest initiative count. For example, whoever rolls the highest initiative gets the "1" card and acts first, whoever rolls the second highest initiative gets the "2" card, and so on. Keep the numbered cards for the creatures you're running.
+[Initiative Cards](3-Mechanics/CLI/decks/initiative-cards-esk.md). After the characters and each group of monsters involved in a combat roll initiative, distribute these cards among the combat participants, from the highest to lowest initiative count. For example, whoever rolls the highest initiative gets the "1" card and acts first, whoever rolls the second highest initiative gets the "2" card, and so on. Keep the numbered cards for the creatures you're running.
 
-[Magic Charm Card](/3-Mechanics/CLI/decks/magic-charm-cards-dip.md). This card describes a special charm (see "Charm of the Storm." You become charged with the power of the storm, to the extent that tiny sparks crackle in your eyes. You can cast the lightning bolt spell (3rd-level version) as an action. Once used three times, the charm vanishes from you.). Give the card to the player whose character receives the charm. Collect the card when the charm ends for that character.
+[Magic Charm Card](3-Mechanics/CLI/decks/magic-charm-cards-dip.md). This card describes a special charm (see "Charm of the Storm." You become charged with the power of the storm, to the extent that tiny sparks crackle in your eyes. You can cast the lightning bolt spell (3rd-level version) as an action. Once used three times, the charm vanishes from you.). Give the card to the player whose character receives the charm. Collect the card when the charm ends for that character.
 
-[Magic Item Cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md). When the characters acquire a magic item and identify it, give the players the card for that item. Let the player whose character has the item keep the card for reference until the item is expended or no longer in that character's possession.
+[Magic Item Cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md). When the characters acquire a magic item and identify it, give the players the card for that item. Let the player whose character has the item keep the card for reference until the item is expended or no longer in that character's possession.
 
-[Quest Cards](/3-Mechanics/CLI/decks/quest-cards-dip.md). When a new quest becomes available to the characters, give that quest's card to the players. Collect the card if the characters complete the quest or decide they don't want to complete it.
+[Quest Cards](3-Mechanics/CLI/decks/quest-cards-dip.md). When a new quest becomes available to the characters, give that quest's card to the players. Collect the card if the characters complete the quest or decide they don't want to complete it.
 
-[Sidekick Cards](/3-Mechanics/CLI/decks/sidekick-cards-dip.md). If you're running the game for a single player, give the player these cards and let them choose a sidekick. The sidekick's corresponding stat block can be found in the rulebook. If the sidekick dies, collect the card; the player can't choose that sidekick again.
+[Sidekick Cards](3-Mechanics/CLI/decks/sidekick-cards-dip.md). If you're running the game for a single player, give the player these cards and let them choose a sidekick. The sidekick's corresponding stat block can be found in the rulebook. If the sidekick dies, collect the card; the player can't choose that sidekick again.
 
 > [!note] Adventure Maps
 > 
@@ -130,8 +130,8 @@ This map is for the DM's eyes only, as it indicates the locations of places desc
 Geographical locations marked on both the DM's map and the players' map are described below in alphabetical order. This information is not secret, and can be shared with players if they request details about a particular location.
 
 > [!gallery]
-> ![Map: The Sword Coast](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/001-map-sc.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/002-map-sword-coast-pc.webp#gallery)
+> ![Map: The Sword Coast](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/001-map-sc.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/002-map-sword-coast-pc.webp#gallery)
 
 #### Conyberry
 
@@ -155,7 +155,7 @@ This small town along the High Road is in the midst of rebuilding itself after b
 
 #### Mere of Dead Men
 
-Travelers on the High Road, which skirts the mere to the east, must resist being lured into this cold and desolate swamp by bobbing [will-o'-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md). Countless adventurers have perished in the mere, drawn by tales of ruined castles half-sunk in the mire.
+Travelers on the High Road, which skirts the mere to the east, must resist being lured into this cold and desolate swamp by bobbing will-o'-wisps. Countless adventurers have perished in the mere, drawn by tales of ruined castles half-sunk in the mire.
 
 #### Neverwinter
 
@@ -218,7 +218,7 @@ Here are some questions you can ask the players as they create characters:
 
 ### Running for One Player
 
-If you're running this adventure for a single player, you can give that player a sidekick as a secondary character. Let the player choose one of the pregenerated sidekicks from the selection of [Sidekick Cards](/3-Mechanics/CLI/decks/sidekick-cards-dip.md). Rules and stat blocks for sidekicks appear in the rulebook. You might need to help the player run the sidekick for the first few sessions. If a sidekick is lost or no longer needed, the character can return to Phandalin and acquire a new one.
+If you're running this adventure for a single player, you can give that player a sidekick as a secondary character. Let the player choose one of the pregenerated sidekicks from the selection of [Sidekick Cards](3-Mechanics/CLI/decks/sidekick-cards-dip.md). Rules and stat blocks for sidekicks appear in the rulebook. You might need to help the player run the sidekick for the first few sessions. If a sidekick is lost or no longer needed, the character can return to Phandalin and acquire a new one.
 
 #### Using Sidekicks
 
@@ -248,7 +248,7 @@ As the players familiarize themselves with the character options and adventuring
 > **Tenday.** In the Forgotten Realms, a week is ten days long and called a tenday. Each month consists of three tendays—thirty days total.
 ^glossary
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/003-rta-02.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/003-rta-02.webp#center)
 
 ## The Adventure Begins
 
@@ -258,11 +258,11 @@ The "Adventure Background" section describes the events leading up to the advent
 
 ### Adventure Background
 
-Driven from lands farther north by more powerful dragons, a [young white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) named Cryovain has descended upon the Sword Mountains, claiming the snow-capped range as its domain. Typical of its kind, Cryovain is dim-witted and cruel. The dragon patrols the skies around Icespire Peak, surveying its territory while hunting for food and easy treasure. With each passing day, the dragon's domain grows as it ranges farther across the land, preying on anything it can catch with its claws or freeze to death with its icy breath. Sightings of the dragon are becoming more common, as are its attacks.
+Driven from lands farther north by more powerful dragons, a young white dragon named Cryovain has descended upon the Sword Mountains, claiming the snow-capped range as its domain. Typical of its kind, Cryovain is dim-witted and cruel. The dragon patrols the skies around Icespire Peak, surveying its territory while hunting for food and easy treasure. With each passing day, the dragon's domain grows as it ranges farther across the land, preying on anything it can catch with its claws or freeze to death with its icy breath. Sightings of the dragon are becoming more common, as are its attacks.
 
-A crumbling fortress on the northeast spur of Icespire Peak serves as the dragon's lair. Cryovain seized the icy fortress from a tribe of savage [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md), killing the orc war chief and forcing the tribe's survivors to flee into the foothills and forests. Enraged by the death of their war chief, the orcs have called upon ancient allies—evil, shapechanging, half-orc spellcasters who bless and advise them. These half-orcs worship Talos, an evil god of storms, and many dwell in the dark depths of Neverwinter Wood. In stormy weather, they gather on remote hilltops to summon [Gorthok the Thunder Boar](/3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md), a primal entity that serves Talos. Like the god it serves, Gorthok delights in destruction.
+A crumbling fortress on the northeast spur of Icespire Peak serves as the dragon's lair. Cryovain seized the icy fortress from a tribe of savage orcs, killing the orc war chief and forcing the tribe's survivors to flee into the foothills and forests. Enraged by the death of their war chief, the orcs have called upon ancient allies—evil, shapechanging, half-orc spellcasters who bless and advise them. These half-orcs worship Talos, an evil god of storms, and many dwell in the dark depths of Neverwinter Wood. In stormy weather, they gather on remote hilltops to summon [Gorthok the Thunder Boar](3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md), a primal entity that serves Talos. Like the god it serves, Gorthok delights in destruction.
 
-The orcs aren't the only creatures thrown into upheaval by Cryovain's sudden arrival. A [manticore](/3-Mechanics/CLI/bestiary/monstrosity/manticore.md) driven from its mountaintop nest by the roaming white dragon has migrated to the foothills and begun terrorizing folk living on the outskirts of the mining town of Phandalin. Other monsters in the region have been similarly displaced.
+The orcs aren't the only creatures thrown into upheaval by Cryovain's sudden arrival. A manticore driven from its mountaintop nest by the roaming white dragon has migrated to the foothills and begun terrorizing folk living on the outskirts of the mining town of Phandalin. Other monsters in the region have been similarly displaced.
 
 ### Welcome to Phandalin
 
@@ -288,18 +288,18 @@ When the adventurers are ready to inspect the job board, proceed to the "Townmas
 The characters might wish to explore key establishments within Phandalin. These locations are marked on the map of Phandalin and the corresponding poster map.
 
 > [!gallery]
-> ![Map: Phandalin](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/004-map-phandalin.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/005-map-phandalin-pc.webp#gallery)
+> ![Map: Phandalin](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/004-map-phandalin.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/005-map-phandalin-pc.webp#gallery)
 
 #### Stonehill Inn
 
-This modest, two-story roadhouse has six rooms for rent on the upper floor. A bed for the night costs 5 sp, while a meal costs 1 sp. The proprietor is a short, friendly male human named Toblen Stonehill. Toblen is a native of the town of Triboar to the east. He came to Phandalin to prospect, but soon realized that he knew a lot more about running an inn than he did about mining. If the characters talk to Toblen, he shares a brief tale told to him by one of his regular patrons. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Phandalin Tales table to determine which tale Toblen knows, or pick a tale the characters haven't heard yet.
+This modest, two-story roadhouse has six rooms for rent on the upper floor. A bed for the night costs 5 sp, while a meal costs 1 sp. The proprietor is a short, friendly male human named Toblen Stonehill. Toblen is a native of the town of Triboar to the east. He came to Phandalin to prospect, but soon realized that he knew a lot more about running an inn than he did about mining. If the characters talk to Toblen, he shares a brief tale told to him by one of his regular patrons. Roll a `d6` and consult the Phandalin Tales table to determine which tale Toblen knows, or pick a tale the characters haven't heard yet.
 
 #### Barthen's Provisions
 
-The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see "the rulebook".) Characters in need of weapons or armor are directed to the Lionshield Coster. Those looking to buy potions of healing are urged to visit Adabra Gwynn at Umbrage Hill (see the "Potions of Healing" sidebar).
+The shelves of this general store stock most ordinary goods and supplies, including backpacks, bedrolls, rope, and rations. Barthen's doesn't stock weapons or armor, but characters can purchase other adventuring gear here, with the exception of items that cost more than 25 gp. (For prices, see "the rulebook".) Characters in need of weapons or armor are directed to the Lionshield Coster. Those looking to buy [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md) are urged to visit Adabra Gwynn at Umbrage Hill (see the "Potions of Healing" sidebar).
 
-The proprietor, Elmar Barthen, is a lean and balding human man of fifty years. He employs a couple of young clerks (Ander and Thistle) who help load and unload wagons, and who wait on customers when Barthen isn't around. Characters who engage Barthen, Ander, or Thistle in friendly conversation are told a tale. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
+The proprietor, Elmar Barthen, is a lean and balding human man of fifty years. He employs a couple of young clerks (Ander and Thistle) who help load and unload wagons, and who wait on customers when Barthen isn't around. Characters who engage Barthen, Ander, or Thistle in friendly conversation are told a tale. Roll a `d6` and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
 
 #### Lionshield Coster
 
@@ -310,13 +310,13 @@ The proprietor, Elmar Barthen, is a lean and balding human man of fifty years. H
 
 This building is owned by the Lionshields, a merchant company based in the city of Yartar over a hundred miles to the east. The company ships finished goods to Phandalin and other small settlements throughout the region.
 
-The master of the Phandalin post is a sharp-tongued human woman of thirty-five named Linene Graywind. Linene keeps a supply of "armor" and "weapons", all of which are for sale to interested buyers. (For prices, see "the rulebook".) Linene won't sell weapons to anyone she thinks might be a threat to the town. If the characters talk to her, she recalls a tale told to her by one of her neighbors. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
+The master of the Phandalin post is a sharp-tongued human woman of thirty-five named Linene Graywind. Linene keeps a supply of "armor" and "weapons", all of which are for sale to interested buyers. (For prices, see "the rulebook".) Linene won't sell weapons to anyone she thinks might be a threat to the town. If the characters talk to her, she recalls a tale told to her by one of her neighbors. Roll a `d6` and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
 
 #### Phandalin Miner's Exchange
 
 Miners come here to have their valuable finds weighed, measured, and paid out. The exchange also serves as an unofficial records office, registering claims to various streams and excavations around the area. Enough wealth is hidden in the nearby streams and valleys to support a good number of independent prospectors.
 
-The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin. The guildmaster is a calculating human woman named Halia Thornton. She is also an agent of the Zhentarim, a shadowy organization that seeks to exert secret control over the North through wealth and influence. Halia is working slowly to bring Phandalin under her control, and she can become a valuable patron to adventurers who don't cross her. If the characters get on her good side, Halia tells them a tale. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
+The exchange is a great place to meet people who spend a lot of time out and about in the countryside surrounding Phandalin. The guildmaster is a calculating human woman named Halia Thornton. She is also an agent of the Zhentarim, a shadowy organization that seeks to exert secret control over the North through wealth and influence. Halia is working slowly to bring Phandalin under her control, and she can become a valuable patron to adventurers who don't cross her. If the characters get on her good side, Halia tells them a tale. Roll a `d6` and consult the Phandalin Tales table, or pick a tale the characters haven't heard yet.
 
 #### Shrine of Luck
 
@@ -325,8 +325,6 @@ Phandalin's only temple is a shrine made of stones taken from the nearby ruins. 
 Sister Garaele is a member of the Harpers, a scattered network of adventurers and spies who advocate equality and covertly oppose the abuse of power. The Harpers gather information throughout the land to thwart tyrants. They aid the weak, the poor, and the oppressed. Sister Garaele regularly reports to her superiors on events in and around Phandalin, and is currently in Neverwinter doing exactly that. In her absence, the shrine is left untended.
 
 **Phandalin Tales**
-
-`dice: [](01-running-the-adventure.md#^phandalin-tales)`
 
 | dice: d6 | Tale |
 |----------|------|
@@ -349,12 +347,12 @@ If the characters inspect the notices on the job board, proceed to the "Phandali
 
 > [!note] Potions of Healing
 > 
-> No place in Phandalin sells potions of healing. However, characters who wish to purchase one or more such potions can do so at the Umbrage Hill windmill, located a few miles south of Phandalin. The windmill is home to a midwife and acolyte of Chauntea (goddess of agriculture) named Adabra Gwynn. For more information on this location, see "Umbrage Hill".
+> No place in Phandalin sells [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md). However, characters who wish to purchase one or more such potions can do so at the Umbrage Hill windmill, located a few miles south of Phandalin. The windmill is home to a midwife and acolyte of Chauntea (goddess of agriculture) named Adabra Gwynn. For more information on this location, see "Umbrage Hill".
 ^potions-of-healing
 
 ### Phandalin Quests
 
-The job board outside the townmaster's hall is where adventurers can learn about quests. Each quest is [printed on a card](/3-Mechanics/CLI/decks/quest-cards-dip.md), which you can give to the players when that quest becomes available (see "Starting Quests" and "Follow-Up Quests" below). Let the players choose which quest to complete first, second, third, and so on. If the players don't like a particular quest, they are under no obligation to complete it. However, completing quests helps the characters become more powerful (see "Leveling Up").
+The job board outside the townmaster's hall is where adventurers can learn about quests. Each quest is [printed on a card](3-Mechanics/CLI/decks/quest-cards-dip.md), which you can give to the players when that quest becomes available (see "Starting Quests" and "Follow-Up Quests" below). Let the players choose which quest to complete first, second, third, and so on. If the players don't like a particular quest, they are under no obligation to complete it. However, completing quests helps the characters become more powerful (see "Leveling Up").
 
 #### Harbin Wester, Quest Giver
 
@@ -370,14 +368,14 @@ If the characters ask him about a quest, Harbin sets them on the right track, of
 > 
 > **Running Encounters.** This adventure describes what the characters see when they first arrive at a location, and what they'll discover as they explore it. The adventure also tells you how the location's inhabitants react to the characters' arrival.
 > 
-> No encounter has a predetermined outcome. For example, characters who explore Umbrage Hill are likely to encounter a [manticore](/3-Mechanics/CLI/bestiary/monstrosity/manticore.md). Although fighting the monster is always an option, characters might decide to negotiate with the manticore instead. Be flexible, particularly when dealing with intelligent monsters. If every encounter becomes a fight to the death, your players might get bored and miss out on some fun roleplaying opportunities. Whenever possible, reward players for being clever. For example, characters who disturb the ankhegs at the Loggers' Camp might be able to escape from the burrowing monsters by jumping in the nearby river. Similarly, characters who are willing to negotiate with the wererats in the Mountain's Toe Gold Mine might be able to forge a truce between the wererats and the miners, ending their conflict so that the mine can be reopened.
+> No encounter has a predetermined outcome. For example, characters who explore Umbrage Hill are likely to encounter a manticore. Although fighting the monster is always an option, characters might decide to negotiate with the manticore instead. Be flexible, particularly when dealing with intelligent monsters. If every encounter becomes a fight to the death, your players might get bored and miss out on some fun roleplaying opportunities. Whenever possible, reward players for being clever. For example, characters who disturb the ankhegs at the Loggers' Camp might be able to escape from the burrowing monsters by jumping in the nearby river. Similarly, characters who are willing to negotiate with the wererats in the Mountain's Toe Gold Mine might be able to forge a truce between the wererats and the miners, ending their conflict so that the mine can be reopened.
 ^adventure-locations-and-encounters
 
 #### Starting Quests
 
-When the characters first visit the job board, there are three quests posted. Give the players the [cards for these quests](/3-Mechanics/CLI/decks/quest-cards-dip.md) so that they can choose which to pursue.
+When the characters first visit the job board, there are three quests posted. Give the players the [cards for these quests](3-Mechanics/CLI/decks/quest-cards-dip.md) so that they can choose which to pursue.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/006-rta-03.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/006-rta-03.webp#center)
 
 **Dwarven Excavation Quest**. "Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp." If the characters undertake this quest, see "Dwarven Excavation."
 
@@ -393,13 +391,13 @@ After the characters complete two starting quests, the following three quests ar
 
 **Loggers' Camp Quest**. "Deep in Neverwinter Wood, along the river that flows west toward Neverwinter, is a logging camp. Every two months, Phandalin delivers fresh supplies to the camp, which is run by the half-brother of Phandalin's townmaster, Harbin Wester. Barthen, the local provisioner, has prepared a new delivery. He needs someone to bear the supplies safely to the camp. Return to Harbin Wester with a notice of delivery signed by his half-brother, Tibor Wester, to claim your reward of 100 gp." If the characters undertake this quest, proceed with "Loggers' Camp."
 
-**Mountain's Toe Quest**. "The Mountain's Toe Gold Mine lies fifteen miles northeast of Phandalin. The new overseer, [Don-Jon Raskin](/3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md), just made the trip from Neverwinter to Phandalin and needs to be escorted to the mine. There's no telling what dangers lie between here and there. Once you deliver Raskin safe and sound, return to Townmaster Harbin Wester to collect a reward of 100 gp." If the characters undertake this quest, proceed with "Mountain's Toe Gold Mine."
+**Mountain's Toe Quest**. "The Mountain's Toe Gold Mine lies fifteen miles northeast of Phandalin. The new overseer, [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md), just made the trip from Neverwinter to Phandalin and needs to be escorted to the mine. There's no telling what dangers lie between here and there. Once you deliver Raskin safe and sound, return to Townmaster Harbin Wester to collect a reward of 100 gp." If the characters undertake this quest, proceed with "Mountain's Toe Gold Mine."
 
 After the characters complete two follow-up quests, another three follow-up quests are added to the job board:
 
 **Axeholm Quest**. "Within a mountain fifteen miles south of Phandalin stands the ancient dwarven fortress of Axeholm, which has been sealed for years. If a dragon attack is imminent, the people of Phandalin might need to evacuate and take refuge in Axeholm. To that end, someone needs to open the fortress and make it safe for habitation. Once you accomplish these tasks, return to Townmaster Wester to collect a reward of 250 gp." If the characters undertake this quest, proceed with "Axeholm."
 
-**Dragon Barrow Quest**. "The dragon that besets us is not the first to threaten this region. Between here and Neverwinter lies the barrow mound of a warrior whose magical dragon-slaying sword helped fell a green dragon terrorizing the High Road a century ago. Rumor has it the dragon slayer sword is buried there too. Retrieve it, and let the sword be its own reward!" If the characters undertake this quest, proceed with "Dragon Barrow."
+**Dragon Barrow Quest**. "The dragon that besets us is not the first to threaten this region. Between here and Neverwinter lies the barrow mound of a warrior whose magical dragon-slaying sword helped fell a green dragon terrorizing the High Road a century ago. Rumor has it the [dragon slayer](3-Mechanics/CLI/items/dragon-slayer.md) sword is buried there too. Retrieve it, and let the sword be its own reward!" If the characters undertake this quest, proceed with "Dragon Barrow."
 
 **Woodland Manse Quest**. "The orcs have fallen under the sway of evil spellcasters in Neverwinter Wood, and have been sighted in growing numbers near Falcon's Hunting Lodge. The spellcasters dwell in a ruined manse. Falcon needs someone to make a preemptive strike against it. Destroy the evil in the manse, then expect him to reward you." If the characters undertake this quest, run "Falcon's Hunting Lodge" followed by "Woodland Manse."
 
@@ -413,15 +411,13 @@ Characters advance in level by completing quests, using the guidelines for level
 
 ### Where's the White Dragon?
 
-Cryovain the [young white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) is a roaming threat that can be encountered almost anywhere. Each time the characters arrive at a location tagged on the map of the Sword Coast or prepare to leave that location, roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Dragon's Location table to determine Cryovain's current whereabouts. Make your first roll on the table when the adventurers leave Phandalin for the first time.
+Cryovain the young white dragon is a roaming threat that can be encountered almost anywhere. Each time the characters arrive at a location tagged on the map of the Sword Coast or prepare to leave that location, roll a `d20` and consult the Dragon's Location table to determine Cryovain's current whereabouts. Make your first roll on the table when the adventurers leave Phandalin for the first time.
 
 When the dragon visits a location that is not its lair, it surveys the location from the sky, beyond the reach of ranged weapon attacks. If it spots nothing it can eat, it flies off after circling the location for a minute or two. If it spots something tasty, such as a mule, a horse, or a character, the dragon swoops down and attacks it. Once the dragon kills something, it grabs the carcass and flies off with it. Whatever it takes is then eaten within the hour.
 
 If Cryovain loses more than 10 hit points in battle, the dragon disengages from combat and retreats to its lair at Icespire Hold, remaining there until it finishes a long rest and regains all its hit points. Only at Icespire Hold does the dragon fight to the death.
 
 **Dragon's Location**
-
-`dice: [](01-running-the-adventure.md#^dragons-location)`
 
 | dice: d20 | Location |
 |-----------|----------|

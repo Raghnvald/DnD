@@ -11,18 +11,18 @@ aliases:
   - Kas the Betrayer
 linter-yaml-title-alias: Kas the Betrayer
 ---
-# [Kas the Betrayer](3-Mechanics\CLI\bestiary\npc/kas-the-betrayer-veor.md)
-*Source: Vecna: Eve of Ruin p. 244*  
+# Kas der Verräter
+*Quelle: Vecna: Vorabend der Verdammnis S. 244*  
 
-The Betrayer, the Bloody Handed, the Destroyer—Kas has earned many epithets during his long existence. He is a vampire, legendary sword-fighter, and ruthless warlord, and he is driven primarily by one thing: his hatred for Vecna.
+Verräter, Blutige Hand, Zerstörer - Kas hat im Verlauf seiner langen Existenz schon viele Spitznamen erhalten. Er ist ein Vampir, ein legendärer Schwertkämpfer und ein rücksichtsloser Kriegsherr. Vor allem Eines treibt ihn an: sein Hass auf Vecna. 
 
-Kas resembles a well-muscled, raven-haired, human man in his thirties, though he is far older. His fangs reveal his vampiric nature.
+Kas sieht aus wie ein muskulöser schwarzhaariger menschlicher Mann in seinen Dreißigern, obwohl er viel älter ist. Die Fangzähne offenbaren seine vampirische Natur. 
 
-## Personality
+## Persönlichkeit 
 
-Kas is cruel, spiteful, and unrelenting in his pursuit of vengeance against Vecna. He readily lies, breaks promises, betrays allies, and taunts those who fall for his ruses. Kas has little use for those who can't validate his superiority or help advance his goals.
+Kas ist grausam, boshaft und unerbittlich in seinem Streben nach Rache an Vecna. Er lügt bereitwillig, bricht Versprechen, verrät Verbündete und verhöhnt diejenigen, die auf seine Finten hereinfallen. Wer seine Überlegenheit nicht bestätigt oder ihm nicht hilft, seine Ziele zu erreichen, für den hat er nichts übrig. 
 
-In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful wizards. In addition to defeating Vecna, Kas desperately wants the wizards to witness and acknowledge his strength.
+In "_Vecna: Vorabend der Verdammnis_" hält Kas die beiden mächtigen Magierinnen Tasha und Alustriel zum Narren. Er will nicht nur Vecna besiegen, die Magierinnen sollen auch unbedingt seine Stärke sehen und würdigen. 
 
 ```statblock
 "name": "Kas the Betrayer (VEoR)"

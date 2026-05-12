@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Bear
+- "Black Bear"
 ---
-# [Black Bear](3-Mechanics\CLI\bestiary\beast/black-bear.md)
+# [Black Bear](3-Mechanics/CLI/bestiary/beast/black-bear.md)
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -35,27 +35,27 @@ aliases:
   - !!int "7"
 "speed": "40 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The bear has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The bear has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
   - "desc": "The bear makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/black-bear.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/black-bear.webp"
 ```
 ^statblock
 

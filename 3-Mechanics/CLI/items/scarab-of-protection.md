@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Scarab of Protection"
 ---
 # Scarab of Protection
 *Wondrous item, major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/scarab-of-protection.webp#right)
+![](3-Mechanics/CLI/items/img/scarab-of-protection.webp#right)
 
 
 If you hold this beetle-shaped medallion in your hand for 1 round, an inscription appears on its surface revealing its magical nature. It provides two benefits while it is on your person:

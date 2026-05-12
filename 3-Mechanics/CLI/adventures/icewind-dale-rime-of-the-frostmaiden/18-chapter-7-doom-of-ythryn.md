@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Chapter 7: Doom of Ythryn
+- "Chapter 7: Doom of Ythryn"
 ---
 # Chapter 7: Doom of Ythryn
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 231* 
 
 Ythryn rests in the silent depths of the Reghed Glacier. Ice encloses the enclave on all sides, yet the magic imbued in its stonework shields it from utter destruction. Ythryn is now a corpse city—a tomb for those who perished here and a death trap for those who dare to explore its ruined, glaciated halls.
 
-![Ythryn is haunted by nothi...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/177-07-000-intro-splash.webp#center "Ythryn is haunted by nothics who were once powerful Netherese spellcasters")
+![Ythryn is haunted by nothics who were once powerful Netherese spellcasters](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/177-07-000-intro-splash.webp#center)
 
 ## Running This Chapter
 
@@ -34,13 +34,13 @@ Iriolarthas, once a powerful lich and before that a human wizard of Netheril, ex
 
 A demilich is what becomes of a lich that neglects to feed souls into its phylactery, and Iriolarthas's phylactery has been empty for nearly two thousand years, buried under the rubble of Ythryn far from the demilich's reach. Having lost its body and its spellcasting abilities, the demilich holds out hope that other Netherese wizards will come to its rescue, unaware that the Empire of Netheril no longer exists. Though it has been trapped in Ythryn under the ice for centuries, the demilich has a very poor sense of how much time has passed.
 
-When confronted by new arrivals, the demilich assumes they are rescuers from another Netherese enclave and watches to see what they do. The demilich has no means of communication and can't be contacted telepathically, so it judges new arrivals in silence. Characters who observe Iriolarthas and succeed on a DC 13 Wisdom (Insight) check can ascertain that the demilich is watching them closely to see how they react to their surroundings. If the demilich concludes, based on its observations, that the characters are not a rescue team from another Netherese enclave, it tries to destroy them before they can steal any of Ythryn's secrets. The same is true of invasive NPCs such as members of the Arcane Brotherhood. A party can fool the demilich into thinking they belong in Ythryn by succeeding on a DC 13 Charisma (Deception) group check. If the group check is successful, Iriolarthas believes the party is what it pretends to be; on a failed group check, the demilich sees through the party's deception and becomes hostile toward the characters. If the demilich thinks that the characters are rescuers, given how they appear and act, it follows them around until something happens to change its mind.
+When confronted by new arrivals, the demilich assumes they are rescuers from another Netherese enclave and watches to see what they do. The demilich has no means of communication and can't be contacted telepathically, so it judges new arrivals in silence. Characters who observe Iriolarthas and succeed on a DC 13 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check can ascertain that the demilich is watching them closely to see how they react to their surroundings. If the demilich concludes, based on its observations, that the characters are not a rescue team from another Netherese enclave, it tries to destroy them before they can steal any of Ythryn's secrets. The same is true of invasive NPCs such as members of the Arcane Brotherhood. A party can fool the demilich into thinking they belong in Ythryn by succeeding on a DC 13 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) group check. If the group check is successful, Iriolarthas believes the party is what it pretends to be; on a failed group check, the demilich sees through the party's deception and becomes hostile toward the characters. If the demilich thinks that the characters are rescuers, given how they appear and act, it follows them around until something happens to change its mind.
 
 Although it lacks the means to communicate, the demilich dimly recalls the circumstances that led to its present situation.
 
 ### The Fall of Ythryn
 
-After using the [Ythryn mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (see appendix D) to lift the enclave of Ythryn into the sky, Iriolarthas and his apprentices traveled to the frozen north in search of relics of Ostoria, a bygone empire of magic-wielding giants that waged war against the dragons forty thousand years earlier. After many fruitless excavations, they found a large stone spindle bearing strange sigils at the bottom of the Sea of Moving Ice and brought it back to Ythryn for study in the fall of −343 DR, the Year of Chilled Marrow. During one of their experiments, something went wrong—a flash of power from the spindle caused the *Ythryn* *mythallar* to shut down, which in turn caused the city to fall out of the sky and crash into the ice below.
+After using the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (see appendix D) to lift the enclave of Ythryn into the sky, Iriolarthas and his apprentices traveled to the frozen north in search of relics of Ostoria, a bygone empire of magic-wielding giants that waged war against the dragons forty thousand years earlier. After many fruitless excavations, they found a large stone spindle bearing strange sigils at the bottom of the Sea of Moving Ice and brought it back to Ythryn for study in the fall of −343 DR, the Year of Chilled Marrow. During one of their experiments, something went wrong—a flash of power from the spindle caused the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) to shut down, which in turn caused the city to fall out of the sky and crash into the ice below.
 
 The inhabitants of Ythryn had only a few moments to react as the city fell. Iriolarthas conjured a doorway to a magical demiplane and stepped through it just in time. As Ythryn settled into its icy grave, all magic in the city became undone for a brief time, as though something was trying to siphon it all away. The demiplane expelled Iriolarthas in that instant, trapping the lich in Ythryn, and became a living demiplane (see appendix C). Iriolarthas searched the ruins of the city for his spellbook and his phylactery, recovering only the former. He also found several magical servants in stasis that had survived the devastation, as well as a handful of apprentices who had used their spells in ingenious ways to escape death.
 
@@ -75,8 +75,8 @@ Show your players map 7.1. Permission is granted to photocopy this player-friend
 Most of the city's buildings are swathed in ice and ruined by time. Many of its districts were pulverized when Ythryn plunged from the sky, and the rest have fallen into disrepair in the centuries since. Use the information below to add life to this accursed city of the dead.
 
 > [!gallery]
-> ![Map 7.2: Necropolis of Ythryn](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/178-map-7-1-the-necropolis.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/179-map-7-1-the-necropolis-player.webp#gallery)
+> ![Map 7.2: Necropolis of Ythryn](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/178-map-7-1-the-necropolis.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/179-map-7-1-the-necropolis-player.webp#gallery)
 
 ### Denizens of the Necropolis
 
@@ -89,46 +89,44 @@ Ythryn is home to many threats. Its most important denizens are summarized below
 
 #### Random Encounters
 
-After each hour the characters spend exploring the city, or each time the characters conduct a thorough search of an unnumbered building on the map, roll percentile dice and consult the Ythryn Encounters table to determine if the party has a random encounter. Some random encounters have variants if [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) or Auril is present in the necropolis (see "Dealing with the Arcane Brotherhood" and "Auril's Wrath" at the end of the chapter).
+After each hour the characters spend exploring the city, or each time the characters conduct a thorough search of an unnumbered building on the map, roll percentile dice and consult the Ythryn Encounters table to determine if the party has a random encounter. Some random encounters have variants if [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) or Auril is present in the necropolis (see "Dealing with the Arcane Brotherhood" and "Auril's Wrath" at the end of the chapter).
 
 **Ythryn Encounters**
-
-`dice: [](18-chapter-7-doom-of-ythryn.md#^ythryn-encounters)`
 
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01–50 | No encounter |
-| 51–55 | A [tomb tapper](/3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md) (see appendix C) |
-| 56–60 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [living Bigby's hands](/3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md) (see appendix C), or `dice:2d4\|noform\|noparens\|avg` (`2d4`) [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (Knights of the Black Sword) if [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) is in Ythryn |
-| 61–65 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [spitting mimics](/3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md) (see appendix C), or `dice:1d3\|noform\|noparens\|avg` (`1d3`) [coldlight walkers](/3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C) if Auril is in Ythryn |
-| 66–70 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md), or a [frost giant skeleton](/3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md) (see appendix C) accompanied by `dice:1d3\|noform\|noparens\|avg` (`1d3`) [winter wolves](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) if Auril is in Ythryn |
-| 71–75 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [demos magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) and `dice:1d4\|noform\|noparens\|avg` (`1d4`) [galvan magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C for their statistics) |
-| 76–80 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [demos magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) and `dice:1d4\|noform\|noparens\|avg` (`1d4`) [hypnos magen](/3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) (see appendix C for their statistics) |
-| 81–90 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md) (former Netherese wizards) that speak Loross instead of Undercommon (see the "Loross: The Netherese Tongue" ) |
-| 91–00 | Iriolarthas the [demilich](/3-Mechanics/CLI/bestiary/undead/demilich.md), with `dice:1d3\|noform\|noparens\|avg` (`1d3`) [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md) that speak Loross instead of Undercommon trailing behind it (the demilich uses the nothics to open and close doors and clear obstacles, since it can't do so) |
+| 51–55 | A [tomb tapper](3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md) (see appendix C) |
+| 56–60 | `1d3` [living Bigby's hands](3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md) (see appendix C), or `2d4` [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (Knights of the Black Sword) if [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) is in Ythryn |
+| 61–65 | `1d3` [spitting mimics](3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md) (see appendix C), or `1d3` [coldlight walkers](3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C) if Auril is in Ythryn |
+| 66–70 | `1d4 + 1` [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md), or a [frost giant skeleton](3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md) (see appendix C) accompanied by `1d3` [winter wolves](3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) if Auril is in Ythryn |
+| 71–75 | `1d4 + 1` [demos magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) and `1d4` [galvan magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C for their statistics) |
+| 76–80 | `1d4 + 1` [demos magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) and `1d4` [hypnos magen](3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) (see appendix C for their statistics) |
+| 81–90 | `1d6` [nothics](3-Mechanics/CLI/bestiary/aberration/nothic.md) (former Netherese wizards) that speak Loross instead of Undercommon (see the "Loross: The Netherese Tongue" ) |
+| 91–00 | Iriolarthas the [demilich](3-Mechanics/CLI/bestiary/undead/demilich.md), with `1d3` [nothics](3-Mechanics/CLI/bestiary/aberration/nothic.md) that speak Loross instead of Undercommon trailing behind it (the demilich uses the nothics to open and close doors and clear obstacles, since it can't do so) |
 ^ythryn-encounters
 
 ### Magical Effects
 
 The following magical effects are present throughout the necropolis:
 
-- Continual flame spells illuminate street lamps as well as building interiors and exteriors.  
+- [Continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells illuminate street lamps as well as building interiors and exteriors.  
 - A powerful enchantment stabilizes gravity so that creatures stand upright even though the city rests at an angle. This enchantment extends over the enclave in a hemisphere whose ceiling is 800 feet high.  
 - Humanoids who remain in the necropolis for too long are likely to contract an arcane blight (see below).  
 
 #### Arcane Blight
 
-Any humanoid that spends 12 hours in the necropolis must succeed on a DC 15 Constitution saving throw or contract an arcane blight. This magical disease transforms the humanoid into a [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic.md), but only after the victim experiences hallucinations and feelings of isolation and paranoia. Other symptoms include clammy skin, hair loss, and myopia (nearsightedness).
+Any humanoid that spends 12 hours in the necropolis must succeed on a DC 15 Constitution saving throw or contract an arcane blight. This magical disease transforms the humanoid into a [nothic](3-Mechanics/CLI/bestiary/aberration/nothic.md), but only after the victim experiences hallucinations and feelings of isolation and paranoia. Other symptoms include clammy skin, hair loss, and myopia (nearsightedness).
 
 A player character infected with the arcane blight gains the following flaw: "I don't trust anyone." This flaw, which supersedes any conflicting flaw, is fed by delusions that are difficult for the character to distinguish from reality. Common delusions include the belief that that allies are conspiring to steal the victim's riches or otherwise turn against the victim.
 
-Whenever it finishes a long rest, an infected humanoid must repeat the saving throw. On a successful save, the DC for future saves against the arcane blight drops by `dice:1d6|noform|noparens|avg` (`1d6`). If the saving throw DC drops to 0, the creature overcomes the arcane blight and becomes immune to the effect of further exposure. A creature that fails three of these saving throws transforms into a [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic.md) under the DM's control. Only a wish spell or divine intervention can undo this transformation.
+Whenever it finishes a long rest, an infected humanoid must repeat the saving throw. On a successful save, the DC for future saves against the arcane blight drops by `1d6`. If the saving throw DC drops to 0, the creature overcomes the arcane blight and becomes immune to the effect of further exposure. A creature that fails three of these saving throws transforms into a [nothic](3-Mechanics/CLI/bestiary/aberration/nothic.md) under the DM's control. Only a [wish](3-Mechanics/CLI/spells/wish.md) spell or divine intervention can undo this transformation.
 
-A greater restoration spell or similar magic ends the infection on the target, removing the flaw and all other symptoms, but this magic doesn't protect the target against further exposure.
+A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic ends the infection on the target, removing the flaw and all other symptoms, but this magic doesn't protect the target against further exposure.
 
 #### Rite of the Arcane Octad
 
-To pass through the force field that surrounds the Spire of Iriolarthas (area Y19) and the [Ythryn mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (area Y23), one must perform the Rite of the Arcane Octad on the spire's doorstep (area Y6). To learn this ritual, the party must explore eight locations in the city and translate the inscriptions found therein. Once the inscriptions are translated and assembled in order, the eight steps of the ritual become clear:
+To pass through the force field that surrounds the Spire of Iriolarthas (area Y19) and the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (area Y23), one must perform the Rite of the Arcane Octad on the spire's doorstep (area Y6). To learn this ritual, the party must explore eight locations in the city and translate the inscriptions found therein. Once the inscriptions are translated and assembled in order, the eight steps of the ritual become clear:
 
 - **Step 1.** Hold a wand crafted from the Nether Oak over your heart.  
 - **Step 2.** Summon a flame in your palm.  
@@ -153,26 +151,22 @@ Searching an unnumbered location takes 30 minutes and requires a check for rando
 
 **Ythryn Treasures**
 
-`dice: [](18-chapter-7-doom-of-ythryn.md#^ythryn-treasures)`
-
 | dice: d20 | Treasure |
 |-----------|----------|
 | 1–10 | No treasure |
-| 11 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) Netherese art objects (250 gp each) |
-| 12–14 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) pieces of jewelry (100 gp each) |
+| 11 | `1d4` Netherese art objects (250 gp each) |
+| 12–14 | `1d4` pieces of jewelry (100 gp each) |
 | 15 | A driftglobe (or another common magic item of your choice) |
-| 16–20 | A frieze that reveals one piece of Ythryn lore (determined by rolling a `dice:d20\|noform\|noparens\|avg` (`d20`) and consulting the Ythryn Lore table below) |
+| 16–20 | A frieze that reveals one piece of Ythryn lore (determined by rolling a `d20` and consulting the Ythryn Lore table below) |
 ^ythryn-treasures
 
-![Once a haven for wizards, ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/180-07-001-ythryn.webp#center "Once a haven for wizards, Ythryn is now a tomb filled with ancient secrets")
+![Once a haven for wizards, Ythryn is now a tomb filled with ancient secrets](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/180-07-001-ythryn.webp#center)
 
 ### Ythryn Lore
 
-As the characters explore Ythryn, they piece together a picture of what life was like in the enclave. Whenever a location instructs you to reveal some of Ythryn's lore, roll a `dice:d20|noform|noparens|avg` (`d20`) and refer to the Ythryn Lore table. If you get a result that's come up before, roll again or choose a different result.
+As the characters explore Ythryn, they piece together a picture of what life was like in the enclave. Whenever a location instructs you to reveal some of Ythryn's lore, roll a `d20` and refer to the Ythryn Lore table. If you get a result that's come up before, roll again or choose a different result.
 
 **Ythryn Lore**
-
-`dice: [](18-chapter-7-doom-of-ythryn.md#^ythryn-lore)`
 
 | dice: d20 | Lore |
 |-----------|------|
@@ -188,12 +182,12 @@ As the characters explore Ythryn, they piece together a picture of what life was
 | 10 | The city's elite wore robes of silk that displayed shifting, illusory patterns. |
 | 11 | Many of the city's residents owned strange chimeric pets, with winged hares and venomous baboons being particularly popular. |
 | 12 | The members of Ythryn's orchestra were known across the world of Toril as masters of their art. |
-| 13 | By law, every mage was taught the prestidigitation cantrip and was obliged to use it to keep the city clean. |
+| 13 | By law, every mage was taught the [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md) cantrip and was obliged to use it to keep the city clean. |
 | 14 | The wizards used humanlike constructs called magen as guards, workers, and valets. These constructs were created using a powerful spell. |
 | 15 | The wizards imbued certain spells with their own life force, turning them into living entities. |
 | 16 | The wizards of Ythryn were on a mission to find relics and ruins of Ostoria, a 40,000-year-old empire of spellcasting giants. |
 | 17 | In times of trouble, the wizards raised a force field around the enclave's central spire that only they could pass through. |
-| 18 | An [abracadabrus](/3-Mechanics/CLI/items/abracadabrus-idrotf.md) is a magic box that can create food and drink, among other things. |
+| 18 | An [abracadabrus](3-Mechanics/CLI/items/abracadabrus-idrotf.md) is a magic box that can create food and drink, among other things. |
 | 19 | Meditation in the Hall of Weightless Wonder was an invaluable pursuit for the city's elite. |
 | 20 | An ancient obelisk stands in the shadow of the Spire of Iriolarthas. Using this obelisk and a staff of power, one can turn back time. |
 ^ythryn-lore
@@ -212,7 +206,7 @@ Characters can use this naturally formed causeway of solid ice to enter the city
 > 
 > Green and purple lights cast an otherworldly glow upon the frost draping the silent city. Clawing spires, broken domes, and steeples leaning at odd angles surround a huge citadel.
 > 
-> At the foot of the causeway, a giant statue lies prone and motionless, its surfaces gleaming with rime.
+> At the foot of the causeway, a giant statue lies [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and motionless, its surfaces gleaming with rime.
 ^633
 
 The city's dominating feature is the Spire of Iriolarthas (area Y19), which is sealed inside a magical force field.
@@ -230,7 +224,7 @@ Several crooked spires branch off the enclave's perimeter wall, with bridges lea
 > A stone walkway leads to a tower that claws upward and inward, its pointed roof leaning menacingly overhead. Narrow windows pierce its walls, gargoyles cling to its eaves, and a doorway at the tower's base gapes open.
 ^636
 
-Two of the outer spires have broken off. One crashed in Icewind Dale (see chapter 2), and the other is buried elsewhere in the glacier (see chapter 6). The remaining twelve spires are intact, though two are almost buried in ice. There is a 20 percent chance per tower that `dice:1d3+1|noform|noparens|avg` (`1d3 + 1`) [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md) cling to the outside of it. (The other gargoyles clinging to the tower are inanimate statues.) Living gargoyles swoop down to attack anyone who crosses the gantry approaching the tower.
+Two of the outer spires have broken off. One crashed in Icewind Dale (see chapter 2), and the other is buried elsewhere in the glacier (see chapter 6). The remaining twelve spires are intact, though two are almost buried in ice. There is a 20 percent chance per tower that `1d3 + 1` [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md) cling to the outside of it. (The other gargoyles clinging to the tower are inanimate statues.) Living gargoyles swoop down to attack anyone who crosses the gantry approaching the tower.
 
 These towers were once occupied by mages and contained laboratories, libraries, and living quarters. Now they lie in ruins. Map 2.10 gives you an idea of how the interior of each spire is laid out.
 
@@ -247,7 +241,7 @@ At ground level, the oval arena is 120 feet long and 50 feet across at its wides
 
 ##### Triggering the Game
 
-The first time a creature steps onto the playing field, a dome of crackling electricity encloses the entire stadium. Nothing can physically pass through this barrier, which is immune to all damage and can't be dispelled by dispel magic. The barrier also extends into the Ethereal Plane, blocking ethereal travel. Any creature that touches the barrier for the first time on a turn takes `dice:9d8|noform|noparens|avg|text(40)` (`9d8`) lightning damage. When the barrier appears, read:
+The first time a creature steps onto the playing field, a dome of crackling electricity encloses the entire stadium. Nothing can physically pass through this barrier, which is immune to all damage and can't be dispelled by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md). The barrier also extends into the Ethereal Plane, blocking ethereal travel. Any creature that touches the barrier for the first time on a turn takes 40 (`9d8`) lightning damage. When the barrier appears, read:
 
 > [!readaloud] 
 > 
@@ -256,7 +250,7 @@ The first time a creature steps onto the playing field, a dome of crackling elec
 
 The illusory visage speaks in Loross, the dead language of Netheril (see the "Loross: The Netherese Tongue" sidebar). It says, "So, a new challenger enters the arena! You have thirty seconds to choose your teammates for a game of Chain Lightning!"
 
-The illusory figure disappears after making its announcement, and adventurers on the playing field have thirty seconds to round out their team of six. Any spaces left over on the team are filled by obedient [galvan magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C) in black garments. The rival team is composed of six [galvan magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) in white garments. All these magen are magically summoned to the field.
+The illusory figure disappears after making its announcement, and adventurers on the playing field have thirty seconds to round out their team of six. Any spaces left over on the team are filled by obedient [galvan magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C) in black garments. The rival team is composed of six [galvan magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) in white garments. All these magen are magically summoned to the field.
 
 The rules of Chain Lightning are summarized in the accompanying sidebar. If the characters aren't familiar with the rules, they have disadvantage on all skill checks made to play the game. (A written copy of the game's rules can be found in area Y9.) When the game ends, the electrical barrier enclosing the stadium vanishes, and the trophy levitates from its pedestal and drifts over to the member of the winning team nearest to it. The game can't be played again until a new trophy of similar value is placed upon the pedestal.
 
@@ -264,22 +258,22 @@ If an all-magen team wins the game, the winners collect their prize and disappea
 
 ##### Treasure
 
-The trophy can't be removed from its pedestal until it is won. If a creature tries to move the trophy before then, the pedestal discharges a bolt of lightning that deals `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) lightning damage to the creature. The trophy cup is made from mithral embedded with three blue spinel gemstones and is worth 1,800 gp. While carried by a member of the winning team, it functions as a stone of good luck.
+The trophy can't be removed from its pedestal until it is won. If a creature tries to move the trophy before then, the pedestal discharges a bolt of lightning that deals 18 (`4d8`) lightning damage to the creature. The trophy cup is made from mithral embedded with three blue spinel gemstones and is worth 1,800 gp. While carried by a member of the winning team, it functions as a stone of good luck.
 
 > [!note] Chain Lightning
 > 
 > Chain Lightning is a game in which two teams of six players compete against each other. To win, a team must eliminate the other team's players by hitting them with a 3-inch-diameter iron ball. A player struck by the thrown ball is eliminated and teleported to the sidelines. The game ends when all of one team's players have been eliminated.
 > 
-> When the game begins, an iron ball magically appears in a random location on the arena floor roughly equidistant from the two teams. The ball is a simple ranged weapon with the finesse and thrown properties. Its range is 120 feet, and it deals `dice:1d4|noform|noparens|avg` (`1d4`) bludgeoning damage on a hit.
+> When the game begins, an iron ball magically appears in a random location on the arena floor roughly equidistant from the two teams. The ball is a simple ranged weapon with the finesse and thrown properties. Its range is 120 feet, and it deals `1d4` bludgeoning damage on a hit.
 > 
 > To simulate a game of Chain Lightning, follow these steps:
 > 
-> **Step 1.** Every player makes a Dexterity (Athletics) check. The individual with the highest roll gets the ball, and that person's team is on offense. Resolve a tie with a Strength (Athletics) contest.
+> **Step 1.** Every player makes a Dexterity ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The individual with the highest roll gets the ball, and that person's team is on offense. Resolve a tie with a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) contest.
 > 
-> **Step 2.** To simulate the ball being passed around, every player makes a DC 15 Dexterity (Athletics) check. If the team on offense gets more successes than the team on defense, one player on offense can try either to hurl the ball between the metal tines of an electrified mast, hoping to impart an electrical charge to the ball, or make a ranged weapon attack with the ball against a player on defense. Each option is described below:
+> **Step 2.** To simulate the ball being passed around, every player makes a DC 15 Dexterity ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. If the team on offense gets more successes than the team on defense, one player on offense can try either to hurl the ball between the metal tines of an electrified mast, hoping to impart an electrical charge to the ball, or make a ranged weapon attack with the ball against a player on defense. Each option is described below:
 > 
 > - Hurling the ball between the tines of an electrified mast requires a successful ranged attack roll against AC 15. If this attack hits, the ball becomes electrically charged as it passes between the tines. Repeat step 1 to determine which team gets custody of the electrically charged ball.  
-> - If the ball is thrown at a player on defense and it hits, the player struck by the ball is eliminated. If the ball is electrically charged when it hits, it deals an additional `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage to the eliminated player, and an arc of lightning shoots from the ball and automatically hits another randomly determined player on the same team. This second player takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage and is also eliminated. If the ball is thrown at a player and it misses, it loses its electrical charge if it has one. Repeat step 1 to determine which team gets custody of the ball.  
+> - If the ball is thrown at a player on defense and it hits, the player struck by the ball is eliminated. If the ball is electrically charged when it hits, it deals an additional 3 (`1d6`) lightning damage to the eliminated player, and an arc of lightning shoots from the ball and automatically hits another randomly determined player on the same team. This second player takes 3 (`1d6`) lightning damage and is also eliminated. If the ball is thrown at a player and it misses, it loses its electrical charge if it has one. Repeat step 1 to determine which team gets custody of the ball.  
 > 
 > **How to Win.** Repeat step 2 until one team has eliminated all the players on the other team.
 ^chain-lightning
@@ -291,7 +285,7 @@ The trophy can't be removed from its pedestal until it is won. If a creature tri
 > This tower reaches upward like a talon, its stonework studded in chiseled runes. A blue light shines from its highest window.
 ^641
 
-A detect magic spell cast here reveals an aura of abjuration magic. Runes cover every inch of this tower's exterior. A glyph for the symbol (insanity) spell is hidden among them. A character who searches the outside of the tower for traps finds and identifies the glyph with a successful DC 18 Intelligence (Arcana) check. The glyph triggers when a creature steps through the tower's entrance and resets after 24 hours.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast here reveals an aura of abjuration magic. Runes cover every inch of this tower's exterior. A glyph for the [symbol](3-Mechanics/CLI/spells/symbol.md) (insanity) spell is hidden among them. A character who searches the outside of the tower for traps finds and identifies the glyph with a successful DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. The glyph triggers when a creature steps through the tower's entrance and resets after 24 hours.
 
 Once inside, the characters can ascend to the top of the tower. When they arrive there, read:
 
@@ -302,11 +296,11 @@ Once inside, the characters can ascend to the top of the tower. When they arrive
 > Six armored figures stand guard around the anvil. At the rear of the chamber, the frozen corpse of a wizard lies in a pile of rubble. Blue flames flicker from braziers spaced around the room, illuminating a carved inscription on the ceiling.
 ^642
 
-Six [demos magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) (see appendix C) guard the anvil, which has the power to destroy other magic items. The anvil was a source of vexation for Ythryn's tomb tappers, which believe magic items to be sacred. When Ythryn collapsed, the protective wards surrounding the tower unraveled, and one of the tomb tappers seized the opportunity to kill the anvil's creator, High Abjurer Taruth. The wizard's mauled body lies in this chamber, the stony floor next to him broken where the tomb tapper forced its way into the room. The magen won't let anyone use the anvil and fight to defend it.
+Six [demos magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) (see appendix C) guard the anvil, which has the power to destroy other magic items. The anvil was a source of vexation for Ythryn's tomb tappers, which believe magic items to be sacred. When Ythryn collapsed, the protective wards surrounding the tower unraveled, and one of the tomb tappers seized the opportunity to kill the anvil's creator, High Abjurer Taruth. The wizard's mauled body lies in this chamber, the stony floor next to him broken where the tomb tapper forced its way into the room. The magen won't let anyone use the anvil and fight to defend it.
 
 ##### Anvil of Disjunction
 
-The anvil has the power to destroy any magic item that isn't an artifact. When a character holds the anvil's hammer for the first time, a voice inside their head, seeming to come from the anvil, says, "Bring me your items of power, and together we shall destroy them." To destroy an item, the character must place it on the anvil and strike it three times with the hammer. Each hammer strike takes one action. On the third strike, the item disintegrates in a flash of blue light. Every time a character uses the anvil, there is a 25 percent chance that a [tomb tapper](/3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md) (see appendix C) burrows its way into the tower to attack them (this happens only once). The anvil is anchored here and cannot be moved by any means. Removing the hammer from the tower causes it to teleport atop the anvil.
+The anvil has the power to destroy any magic item that isn't an artifact. When a character holds the anvil's hammer for the first time, a voice inside their head, seeming to come from the anvil, says, "Bring me your items of power, and together we shall destroy them." To destroy an item, the character must place it on the anvil and strike it three times with the hammer. Each hammer strike takes one action. On the third strike, the item disintegrates in a flash of blue light. Every time a character uses the anvil, there is a 25 percent chance that a [tomb tapper](3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md) (see appendix C) burrows its way into the tower to attack them (this happens only once). The anvil is anchored here and cannot be moved by any means. Removing the hammer from the tower causes it to teleport atop the anvil.
 
 ##### Inscription
 
@@ -321,7 +315,7 @@ A portcullis sits askew in the 40-foot-wide, 30-foot-tall archway that serves as
 > A maze of cell-lined corridors fills this area.
 ^646
 
-All the cell doors, which have arcane lock spells cast on them, are made of iron, with small, barred windows set into them at eye level. Many of the cells contain the frozen bodies of prisoners who died when Ythryn crashed or who perished from starvation not long afterward.
+All the cell doors, which have [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spells cast on them, are made of iron, with small, barred windows set into them at eye level. Many of the cells contain the frozen bodies of prisoners who died when Ythryn crashed or who perished from starvation not long afterward.
 
 ##### Infirmary
 
@@ -329,12 +323,12 @@ If the characters spend at least 30 minutes searching the prison, they stumble u
 
 > [!readaloud] 
 > 
-> Peering through the gap in a collapsed wall, you see a fifteen-foot-square infirmary in disarray, with an operating table in the middle of the room. Leather straps extend from one side of the table, into the air above its surface, and fasten to the other side. The shape suggests that something or someone invisible is lashed to the table.
+> Peering through the gap in a collapsed wall, you see a fifteen-foot-square infirmary in disarray, with an operating table in the middle of the room. Leather straps extend from one side of the table, into the air above its surface, and fasten to the other side. The shape suggests that something or someone [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) is lashed to the table.
 ^648
 
-Strapped to the table is a [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) named Xerophon. It has been rendered invisible and placed in a state of suspended animation by a sequester spell. The spell can be dispelled (DC 17), which renders Xerophon visible and awake. The doppelganger looks like a thin, middle-aged man with a sallow complexion, one blue eye and one green eye, and a streak of silver in his long, jet-black hair. The awake doppelganger can use its action to try to slip free of the table's leather straps, doing so with a successful DC 20 Dexterity check, or a character can use an action to loosen the straps enough for Xerophon to get free.
+Strapped to the table is a [doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) named Xerophon. It has been rendered [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and placed in a state of suspended animation by a [sequester](3-Mechanics/CLI/spells/sequester.md) spell. The spell can be dispelled (DC 17), which renders Xerophon visible and awake. The doppelganger looks like a thin, middle-aged man with a sallow complexion, one blue eye and one green eye, and a streak of silver in his long, jet-black hair. The awake doppelganger can use its action to try to slip free of the table's leather straps, doing so with a successful DC 20 Dexterity check, or a character can use an action to loosen the straps enough for Xerophon to get free.
 
-Shortly before the fall of Ythryn, Xerophon murdered a Netherese sage in the city, stole his identity, and tried to infiltrate the Spire of Iriolarthas. The doppelganger was caught and imprisoned. The prison warden, a Netherese wizard, was interested in studying the doppelganger and perhaps developing a potion that emulated its shapeshifting ability. The wizard made Xerophon acquiesce to a series of experiments, and in between cast sequester spells on the doppelganger as a precaution to keep it from escaping.
+Shortly before the fall of Ythryn, Xerophon murdered a Netherese sage in the city, stole his identity, and tried to infiltrate the Spire of Iriolarthas. The doppelganger was caught and imprisoned. The prison warden, a Netherese wizard, was interested in studying the doppelganger and perhaps developing a potion that emulated its shapeshifting ability. The wizard made Xerophon acquiesce to a series of experiments, and in between cast [sequester](3-Mechanics/CLI/spells/sequester.md) spells on the doppelganger as a precaution to keep it from escaping.
 
 If questioned, Xerophon speaks Loross but switches to Common if no one in the party understands the dead Netherese tongue. The doppelganger plays the part of a low-born Netherese manservant who was sent to the prison by his master, Iriolarthas, for disobedience. Without going into much detail, Xerophon alludes to horrible magical experiments performed on prisoners by the wizard who ran the prison, saying, "I was afraid I might be next."
 
@@ -351,7 +345,7 @@ If the characters befriend Xerophon, they learn three facts from the Ythryn Lore
 
 The Spire of Iriolarthas (area Y19) is surrounded by a force field that also encompasses this area. Creatures can't pass through the field, nor can they teleport to a location inside it. To pass through the force field, one must perform the Rite of the Arcane Octad (see "Rite of the Arcane Octad") in front of the gate.
 
-Any character who succeeds on a DC 10 Intelligence (Arcana) check recognizes the sigils on the gate as ancient symbols representing the eight schools of magic.
+Any character who succeeds on a DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes the sigils on the gate as ancient symbols representing the eight schools of magic.
 
 ##### Magic Elevator
 
@@ -364,20 +358,20 @@ Characters who can pass through the force field can open the gate and enter the 
 > This tower is engraved with interlocking circles of stone. Yellow light spills from its topmost window, and the faint sound of brooms brushing on stonework drifts through its broken doors.
 ^64d
 
-A detect magic spell cast here reveals an aura of conjuration magic. The tower's interior is ruined but surprisingly clean, thanks to permanent unseen servant spells that continuously sweep the floors. If the characters ascend to the topmost chamber of the tower, read:
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast here reveals an aura of conjuration magic. The tower's interior is ruined but surprisingly clean, thanks to permanent [unseen servant](3-Mechanics/CLI/spells/unseen-servant.md) spells that continuously sweep the floors. If the characters ascend to the topmost chamber of the tower, read:
 
 > [!readaloud] 
 > 
 > Glowing orbs are set into the walls of this thirty-foot-diameter circular chamber. Four giant hands made of shimmering force hover in the center of the room, guarding a tiny ornamental tower perched on a pedestal.
 ^64e
 
-The hovering hands are four [living Bigby's hands](/3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md) (see appendix C) that attack any other creature that enters the room.
+The hovering hands are four [living Bigby's hands](3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md) (see appendix C) that attack any other creature that enters the room.
 
 ##### Hidden Tower
 
 Touching the miniature tower while it is inside this chamber conjures a glowing doorway to a demiplane. The doorway is 8 feet tall, 4 feet wide, and 5 feet away from the pedestal.
 
-If a character steps through the doorway, the fabric of reality warps and bends around them as they arrive in the demiplane: a cluttered den 40 feet long and 20 feet wide. Occupying this extradimensional den are three [night hags](/3-Mechanics/CLI/bestiary/fiend/night-hag.md) named Auntie Pinch, Auntie Pillage, and Auntie Plunder. This coven frequently leaves its den to roam the Ethereal Plane in search of treasure chests tucked away using the Leomund's secret chest spell; however, all three hags are home when the characters arrive.
+If a character steps through the doorway, the fabric of reality warps and bends around them as they arrive in the demiplane: a cluttered den 40 feet long and 20 feet wide. Occupying this extradimensional den are three [night hags](3-Mechanics/CLI/bestiary/fiend/night-hag.md) named Auntie Pinch, Auntie Pillage, and Auntie Plunder. This coven frequently leaves its den to roam the Ethereal Plane in search of treasure chests tucked away using the [Leomund's secret chest](3-Mechanics/CLI/spells/leomunds-secret-chest.md) spell; however, all three hags are home when the characters arrive.
 
 In addition to their innate spellcasting abilities, the hags have the Shared Spellcasting ability of a coven (see the "Hag Covens" sidebar in the "Monster Manual"). The hags are prepared to let the characters leave alive in return for a simple price: a single memory plucked from each character's mind. The hags flee their lair in ethereal form if attacked, vowing to return and seek vengeance in the adventurers' dreams.
 
@@ -391,7 +385,7 @@ The night hags keep their heartstones and soul bags on their persons (see the "N
 
 Characters who ransack the hag's den find a platinum needle (1 gp) stuck in a pincushion, a pink quartz figurine of a rabbit (50 gp), a silver necklace from which hangs a crow's-foot pendant grasping a peridot (500 gp), a potion of invisibility in a stoppered vial made from a witch's fingerbone, and a potion of longevity in a hollow gourd that bears a child's face locked in a scream.
 
-![Auntie Pinch, Auntie Pilla...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/181-07-002.webp#center "Auntie Pinch, Auntie Pillage, and Auntie Plunder are open for business")
+![Auntie Pinch, Auntie Pillage, and Auntie Plunder are open for business](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/181-07-002.webp#center)
 
 #### Y8. House of the Arcane
 
@@ -407,30 +401,28 @@ This grand academy was a place of study for novice mages, where each one learned
 > Eight stained glass windows overlook a ruined auditorium. Benches glistening with frost are arrayed in broken rows, facing a raised lectern. A bejeweled goblet rests on the lectern. Steam rises from the goblet's contents and dissipates in the cold air.
 ^654
 
-Each window in the auditorium depicts a wizard casting a spell from one of the eight schools of magic. The spells depicted are blade ward (abjuration), mage hand (conjuration), true strike (divination), friends (enchantment), dancing lights (evocation), minor illusion (illusion), chill touch (necromancy), and prestidigitation (transmutation), all of which a character can determine with a single successful DC 10 Intelligence (Arcana) check.
+Each window in the auditorium depicts a wizard casting a spell from one of the eight schools of magic. The spells depicted are [blade ward](3-Mechanics/CLI/spells/blade-ward.md) (abjuration), [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (conjuration), [true strike](3-Mechanics/CLI/spells/true-strike.md) (divination), [friends](3-Mechanics/CLI/spells/friends.md) (enchantment), [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) (evocation), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) (illusion), [chill touch](3-Mechanics/CLI/spells/chill-touch.md) (necromancy), and [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md) (transmutation), all of which a character can determine with a single successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check.
 
 ##### Magic Goblet
 
-The goblet is embedded with eight colored crystals that represent the eight schools of magic. The liquid inside it looks and tastes like hot water. A detect magic spell reveals an aura of divination magic on the goblet and indicates that the liquid carries auras of all eight schools of magic. The liquid isn't poisonous or harmful, and it never runs dry as long as the goblet remains in the auditorium.
+The goblet is embedded with eight colored crystals that represent the eight schools of magic. The liquid inside it looks and tastes like hot water. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of divination magic on the goblet and indicates that the liquid carries auras of all eight schools of magic. The liquid isn't poisonous or harmful, and it never runs dry as long as the goblet remains in the auditorium.
 
-A humanoid that drinks from the goblet gains a supernatural charm (see ""Supernatural Gifts"" in the "Dungeon Master's Guide"). Roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Magic Goblet Charms table to determine which charm is bestowed. Each charm grants its recipient the power to cast a particular spell, for which Intelligence is the spellcasting ability. The recipient becomes aware of this power as soon as the charm is bestowed. Each charm also has a secret magical effect that triggers when the charm's benefit expires; do not reveal this secret to a player before the effect occurs.
+A humanoid that drinks from the goblet gains a supernatural charm (see ""Supernatural Gifts"" in the "Dungeon Master's Guide"). Roll a `d8` and consult the Magic Goblet Charms table to determine which charm is bestowed. Each charm grants its recipient the power to cast a particular spell, for which Intelligence is the spellcasting ability. The recipient becomes aware of this power as soon as the charm is bestowed. Each charm also has a secret magical effect that triggers when the charm's benefit expires; do not reveal this secret to a player before the effect occurs.
 
 Once a creature has gained a charm from the goblet, it cannot gain another one by drinking from the goblet again.
 
 **Magic Goblet Charms**
 
-`dice: [](18-chapter-7-doom-of-ythryn.md#^magic-goblet-charms)`
-
 | dice: d8 | Charm |
 |----------|-------|
-| 1 | Charm of the Abjurer. This charm allows you to cast the blade ward cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: You gain 10 temporary hit points when this charm vanishes from you. |
-| 2 | Charm of the Conjurer. This charm allows you to cast the mage hand cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, a [flying sword](/3-Mechanics/CLI/bestiary/construct/flying-sword.md) appears in your space and defends you for the next 24 hours before becoming an inert, nonmagical weapon. The DM controls the sword. |
-| 3 | Charm of the Diviner. This charm allows you to cast the true strike cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: You gain inspiration when this charm vanishes from you. |
-| 4 | Charm of the Enchanter. This charm allows you to cast the friends cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, one NPC who doesn't like you (determined by the DM) now thinks better of you. |
-| 5 | Charm of the Evoker. This charm allows you to cast the dancing lights cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, sparks explode all around you. These sparks deal `dice:2d4\|noform\|noparens\|avg\|text(5)` (`2d4`) lightning damage to each creature within 20 feet of you. |
-| 6 | Charm of the Illusionist. This charm allows you to cast the minor illusion cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, illusory music accompanies you for the next 24 hours. It can be heard out to a range of 60 feet. Casting dispel magic on you ends the music. |
-| 7 | Charm of the Necromancer. This charm allows you to cast the chill touch cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, you gain resistance to necrotic damage for the next 8 hours and are the recipient of a death ward spell. |
-| 8 | Charm of the Transmuter. This charm allows you to cast the prestidigitation cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: You are targeted by a polymorph spell and fail the saving throw automatically when this charm vanishes from you. Your new form is that of a [bat](/3-Mechanics/CLI/bestiary/beast/bat.md) and lasts for 1 hour. |
+| 1 | Charm of the Abjurer. This charm allows you to cast the [blade ward](3-Mechanics/CLI/spells/blade-ward.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: You gain 10 temporary hit points when this charm vanishes from you. |
+| 2 | Charm of the Conjurer. This charm allows you to cast the [mage hand](3-Mechanics/CLI/spells/mage-hand.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, a [flying sword](3-Mechanics/CLI/bestiary/construct/flying-sword.md) appears in your space and defends you for the next 24 hours before becoming an inert, nonmagical weapon. The DM controls the sword. |
+| 3 | Charm of the Diviner. This charm allows you to cast the [true strike](3-Mechanics/CLI/spells/true-strike.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: You gain inspiration when this charm vanishes from you. |
+| 4 | Charm of the Enchanter. This charm allows you to cast the [friends](3-Mechanics/CLI/spells/friends.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, one NPC who doesn't like you (determined by the DM) now thinks better of you. |
+| 5 | Charm of the Evoker. This charm allows you to cast the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, sparks explode all around you. These sparks deal 5 (`2d4`) lightning damage to each creature within 20 feet of you. |
+| 6 | Charm of the Illusionist. This charm allows you to cast the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, illusory music accompanies you for the next 24 hours. It can be heard out to a range of 60 feet. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on you ends the music. |
+| 7 | Charm of the Necromancer. This charm allows you to cast the [chill touch](3-Mechanics/CLI/spells/chill-touch.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: When this charm vanishes from you, you gain resistance to necrotic damage for the next 8 hours and are the recipient of a [death ward](3-Mechanics/CLI/spells/death-ward.md) spell. |
+| 8 | Charm of the Transmuter. This charm allows you to cast the [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md) cantrip as an action at will. After 24 hours, this charm vanishes from you. Secret Effect: You are targeted by a [polymorph](3-Mechanics/CLI/spells/polymorph.md) spell and fail the saving throw automatically when this charm vanishes from you. Your new form is that of a [bat](3-Mechanics/CLI/bestiary/beast/bat.md) and lasts for 1 hour. |
 ^magic-goblet-charms
 
 #### Y9. Library
@@ -446,32 +438,32 @@ Shelves line the walls of this labyrinthine library, which is crammed with books
 
 Soon after the adventurers enter, a bespectacled, jackal-headed humanoid paces into view carrying a bundle of scrolls. An eyeless, white, 5-foot-tall penguin in a leather harness shuffles behind it, dragging a small cart laden with books. The jackal-headed figure lets out a joyful gasp when it sees the characters and says, "Ah, you must be the librarians! Scrivenscry has need of your assistance." The penguin shifts uneasily as its master speaks.
 
-Scrivenscry is an [arcanaloth](/3-Mechanics/CLI/bestiary/fiend/arcanaloth.md) who always refers to itself in the third person. It has a fondness for black licorice, strips of which it keeps in the pockets of its robe. The fiend is attended by [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md), a blind, albino giant penguin under the effect of an awaken spell.
+Scrivenscry is an [arcanaloth](3-Mechanics/CLI/bestiary/fiend/arcanaloth.md) who always refers to itself in the third person. It has a fondness for black licorice, strips of which it keeps in the pockets of its robe. The fiend is attended by [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md), a blind, albino giant penguin under the effect of an [awaken](3-Mechanics/CLI/spells/awaken.md) spell.
 
-Scrivenscry insists that the characters help it search for the *Books of Keeping* (see the "Scrivenscry and [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md)" sidebar). If the characters engage Scrivenscry in conversation, [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) chooses a moment to approach the nearest character and pass a note to them. Scratched into a piece of leather are the words "Help me" in Common, which [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) wrote using his beak.
+Scrivenscry insists that the characters help it search for the *Books of Keeping* (see the "Scrivenscry and [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md)" sidebar). If the characters engage Scrivenscry in conversation, [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) chooses a moment to approach the nearest character and pass a note to them. Scratched into a piece of leather are the words "Help me" in Common, which [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) wrote using his beak.
 
-The characters must evade, defeat, or strike a deal with Scrivenscry if they want to rescue the penguin. If outmatched in combat, Scrivenscry teleports into the depths of the library and plots its revenge. Characters who agree to cooperate with the arcanaloth soon find themselves alone with [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md), who reveals that Scrivenscry is a cruel and wicked master. Neither [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) nor his master knows much about Ythryn, since they arrived only yesterday by using a spell scroll of plane shift.
+The characters must evade, defeat, or strike a deal with Scrivenscry if they want to rescue the penguin. If outmatched in combat, Scrivenscry teleports into the depths of the library and plots its revenge. Characters who agree to cooperate with the arcanaloth soon find themselves alone with [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md), who reveals that Scrivenscry is a cruel and wicked master. Neither [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) nor his master knows much about Ythryn, since they arrived only yesterday by using a spell scroll of [plane shift](3-Mechanics/CLI/spells/plane-shift.md).
 
 > [!note] Scrivenscry and Kingsport
 > 
 > Scrivenscry is a vainglorious arcanaloth who roams the planes in search of the *Books of Keeping*, four lost tomes that hold the true names of every yugoloth ever created. The fiend stumbled on Ythryn's library by chance and is convinced that at least one of the legendary tomes is hidden here. Alas, Scrivenscry is mistaken.
 > 
-> Scrivenscry's anxious penguin servant, [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md), was promised a life of enlightenment. The truth is that [Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) was turned into Scrivenscry's lackey, who lives in fear of his cruel, unpredictable master. The blind giant penguin hopes to be free of the arcanaloth one day.
+> Scrivenscry's anxious penguin servant, [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md), was promised a life of enlightenment. The truth is that [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md) was turned into Scrivenscry's lackey, who lives in fear of his cruel, unpredictable master. The blind giant penguin hopes to be free of the arcanaloth one day.
 ^scrivenscry-and-kingsport
 
 ##### Searching the Library
 
-Characters who spend a few hours studying the books in the library learn `dice:1d3|noform|noparens|avg` (`1d3`) facts from the Ythryn Lore table. One of the tomes they examine is an almanac that lists past winners of the city's Chain Lightning tournament (see area area Y3). Characters who read this tome find a summary of the game's rules.
+Characters who spend a few hours studying the books in the library learn `1d3` facts from the Ythryn Lore table. One of the tomes they examine is an almanac that lists past winners of the city's Chain Lightning tournament (see area area Y3). Characters who read this tome find a summary of the game's rules.
 
 In addition, characters who search the library find a journal written by Thufeus, one of the few mages who survived Ythryn's crash. It describes how the city fell from the sky and the attempts of its doomed survivors to escape (see "The Fall of Ythryn"). The last entry reads "Iriolarthas is convinced that aid will come in time from Netheril. I am not so sure."
 
 ##### Treasure
 
-Scrivenscry carries three spell scrolls (Leomund's tiny hut, plane shift, and wall of ice) and a chime of opening with a single use remaining.
+Scrivenscry carries three spell scrolls ([Leomund's tiny hut](3-Mechanics/CLI/spells/leomunds-tiny-hut.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md), and [wall of ice](3-Mechanics/CLI/spells/wall-of-ice.md)) and a chime of opening with a single use remaining.
 
-[Kingsport](/3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md)'s cart contains six texts that Scrivenscry deems valuable. Each one is a treatise on the Outer Planes and is worth 250 gp to a collector of such works.
+[Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md)'s cart contains six texts that Scrivenscry deems valuable. Each one is a treatise on the Outer Planes and is worth 250 gp to a collector of such works.
 
-![Kingsport](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/182-637357081697477337.webp#center)
+![Kingsport](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/182-637357081697477337.webp#center)
 
 ### Necropolis Locations (Y10-Y18)
 
@@ -486,9 +478,9 @@ The grove is nestled in a hollow in the city floor. Vents spaced around its peri
 
 ##### Nether Oak
 
-A tree called the Nether Oak grows at the heart of the arboretum. For centuries, Netherese mages crafted their wands and staffs from the wood of this oak. Saturated in profane magic, the tree developed a brooding sentience and a gnarly face. The Nether Oak uses the [treant](/3-Mechanics/CLI/bestiary/plant/treant.md) stat block but is neutral evil and speaks Common and Primordial.
+A tree called the Nether Oak grows at the heart of the arboretum. For centuries, Netherese mages crafted their wands and staffs from the wood of this oak. Saturated in profane magic, the tree developed a brooding sentience and a gnarly face. The Nether Oak uses the [treant](3-Mechanics/CLI/bestiary/plant/treant.md) stat block but is neutral evil and speaks Common and Primordial.
 
-When the characters arrive, the Nether Oak is in deep slumber. To complete the Rite of the Arcane Octad (see "Rite of the Arcane Octad"), they must craft a wand from the wood of this tree. Gathering wood without waking the tree requires a successful DC 20 Dexterity (Stealth) check. If the characters wake the tree, they can convince it to part with some of its wood with a successful DC 15 Charisma (Persuasion) check, but only if it believes they intend to perform nefarious magic with it. The Nether Oak is easily angered and uproots itself if driven to combat. When it attacks, four [needle blights](/3-Mechanics/CLI/bestiary/plant/needle-blight.md) spring from the ground to assist it, acting on the same initiative count.
+When the characters arrive, the Nether Oak is in deep slumber. To complete the Rite of the Arcane Octad (see "Rite of the Arcane Octad"), they must craft a wand from the wood of this tree. Gathering wood without waking the tree requires a successful DC 20 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If the characters wake the tree, they can convince it to part with some of its wood with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, but only if it believes they intend to perform nefarious magic with it. The Nether Oak is easily angered and uproots itself if driven to combat. When it attacks, four [needle blights](3-Mechanics/CLI/bestiary/plant/needle-blight.md) spring from the ground to assist it, acting on the same initiative count.
 
 #### Y11. Tower of Divination
 
@@ -497,7 +489,7 @@ When the characters arrive, the Nether Oak is in deep slumber. To complete the R
 > The walls of this thin tower are etched with intricate designs of hands and eyes. Silver light flickers from a high window, above which a large, carved eye animates and blinks. Part of the tower's roof is missing.
 ^661
 
-A detect magic spell cast here reveals an aura of divination magic. When the characters reach the top floor of the spire, read:
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast here reveals an aura of divination magic. When the characters reach the top floor of the spire, read:
 
 > [!readaloud] 
 > 
@@ -508,11 +500,11 @@ A detect magic spell cast here reveals an aura of divination magic. When the cha
 
 Huge chunks of the walls have broken off in here, and the inscription bearing the divination passage from the Rite of the Arcane Octad is missing.
 
-With a successful DC 10 Intelligence (Religion) check, a character recalls that a crystal ball filled with eyes is the symbol of Savras, god of divination.
+With a successful DC 10 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, a character recalls that a crystal ball filled with eyes is the symbol of Savras, god of divination.
 
 ##### Orb of Divination
 
-The stone plinth upon which the orb rests is engraved with instructions written in Draconic: "Ask and we shall find." To use the orb, one must place one's hands on it and speak the name of an object or a person. If the target exists on the same plane of existence as the orb, the character touching the orb experiences a vivid vision of the target's location and knows how far away it is and in what direction. Such insight, however, comes with a risk: a creature that receives a vision must make a DC 20 Constitution saving throw. On a failed save, the creature takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) piercing damage as one of its eyes is magically plucked from its socket and teleported inside the orb (see ""Injuries"" in the "Dungeon Master's Guide" for rules on losing an eye).
+The stone plinth upon which the orb rests is engraved with instructions written in Draconic: "Ask and we shall find." To use the orb, one must place one's hands on it and speak the name of an object or a person. If the target exists on the same plane of existence as the orb, the character touching the orb experiences a vivid vision of the target's location and knows how far away it is and in what direction. Such insight, however, comes with a risk: a creature that receives a vision must make a DC 20 Constitution saving throw. On a failed save, the creature takes 10 (`3d6`) piercing damage as one of its eyes is magically plucked from its socket and teleported inside the orb (see ""Injuries"" in the "Dungeon Master's Guide" for rules on losing an eye).
 
 If asked for the whereabouts of the missing wall engraving needed to complete the Rite of the Arcane Octad (see "Rite of the Arcane Octad"), the orb provides a vision of where it fell inside the observatory (area Y15). The orb is magically anchored to this chamber and cannot be removed or destroyed. The only limit to how many times it can be used is how many eyeballs the party has remaining.
 
@@ -523,17 +515,17 @@ If asked for the whereabouts of the missing wall engraving needed to complete th
 > A deep well plunges through the city floor into darkness. Five crystal benches encircle it, glinting under the purple glow of a nearby street lamp.
 ^665
 
-The stone well is 100 feet deep and lined with slippery ice and frost, making it impossible to negotiate without climbing gear or magic. Months before Ythryn's fall, a circle of mages known as the [Telepathic Pentacle](/3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md) tried to fuse their minds together to become a conjoined telepathic force. The procedure went terribly wrong, and their bodies and minds melded into a single monstrosity. Iriolarthas imprisoned the thing in this empty well so that its latent telepathic powers could be tapped by the city's elite. A short obituary is engraved around the lip of the well in Draconic: "Herein lie the immortal remains of the [Telepathic Pentacle](/3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md). Sit, meditate, and learn."
+The stone well is 100 feet deep and lined with slippery ice and frost, making it impossible to negotiate without climbing gear or magic. Months before Ythryn's fall, a circle of mages known as the [Telepathic Pentacle](3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md) tried to fuse their minds together to become a conjoined telepathic force. The procedure went terribly wrong, and their bodies and minds melded into a single monstrosity. Iriolarthas imprisoned the thing in this empty well so that its latent telepathic powers could be tapped by the city's elite. A short obituary is engraved around the lip of the well in Draconic: "Herein lie the immortal remains of the [Telepathic Pentacle](3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md). Sit, meditate, and learn."
 
 ##### Thing in the Well
 
-A gibbering, five-headed aberration lies in a semiconscious state at the bottom of the well. The warped faces of the [Telepathic Pentacle](/3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md) strain at the ends of its thick, undulating necks. The monster uses the [hydra](/3-Mechanics/CLI/bestiary/monstrosity/hydra.md) stat block, except that it has a climbing speed of 30 feet.
+A gibbering, five-headed aberration lies in a semiconscious state at the bottom of the well. The warped faces of the [Telepathic Pentacle](3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md) strain at the ends of its thick, undulating necks. The monster uses the [hydra](3-Mechanics/CLI/bestiary/monstrosity/hydra.md) stat block, except that it has a climbing speed of 30 feet.
 
 The monster shudders awake if a light source penetrates more than 80 feet into the well, or if a creature sitting on one of the benches awakens it (see below).
 
 ##### Meditation Benches
 
-By sitting on these crystal benches and meditating, citizens of Ythryn could join their minds with the [Telepathic Pentacle](/3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md), gaining insights about their past and future. A creature that sits on the bench can, after 1 minute of meditation, gain one clue from the Ythryn Lore table by making a successful DC 15 Wisdom (Insight) check. If the check fails by 5 or more, the creature's wayward thoughts awaken the thing in the well. A creature can gain only one insight from the well per day, and only while the monster is alive.
+By sitting on these crystal benches and meditating, citizens of Ythryn could join their minds with the [Telepathic Pentacle](3-Mechanics/CLI/bestiary/monstrosity/telepathic-pentacle-idrotf.md), gaining insights about their past and future. A creature that sits on the bench can, after 1 minute of meditation, gain one clue from the Ythryn Lore table by making a successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. If the check fails by 5 or more, the creature's wayward thoughts awaken the thing in the well. A creature can gain only one insight from the well per day, and only while the monster is alive.
 
 #### Y13. Bazaar of the Bizarre
 
@@ -542,12 +534,12 @@ By sitting on these crystal benches and meditating, citizens of Ythryn could joi
 > A large market hall sits at one end of this plaza, its four broken towers leaning inward. Faded pennants hang above the entrance, frozen stiff. A loud clatter resounds from within the hall.
 ^669
 
-This market hall once sold relics of arcane wonder. Now, its interior is a warren of mangled shop fronts crushed by chunks of ice and stone. Most of the wares have become worthless, and everything else has been destroyed by a headless [iron golem](/3-Mechanics/CLI/bestiary/construct/iron-golem.md) that is presently rampaging around inside the building.
+This market hall once sold relics of arcane wonder. Now, its interior is a warren of mangled shop fronts crushed by chunks of ice and stone. Most of the wares have become worthless, and everything else has been destroyed by a headless [iron golem](3-Mechanics/CLI/bestiary/construct/iron-golem.md) that is presently rampaging around inside the building.
 
 Without its head, the golem has the following changes to its statistics:
 
 - The golem has 150 hit points (its hit point maximum). It has a challenge rating of 10 (5,900 XP).  
-- It is blinded and deafened, giving it disadvantage on all its attack rolls, and it can't use its Poison Breath.  
+- It is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), giving it disadvantage on all its attack rolls, and it can't use its Poison Breath.  
 
 The golem was decapitated when Ythryn crashed into the Reghed Glacier. Its head wound up deep within the Caves of Hunger (see area H9 in chapter 6), and its body has been stomping around Ythryn ever since. The golem swings blindly at anything that attacks it.
 
@@ -558,9 +550,9 @@ The golem was decapitated when Ythryn crashed into the Reghed Glacier. Its head 
 > Silken drapes hang from the walls of this storefront, their surfaces swirling with illusory images of dragon's fire and twinkling star fields. A group of emotionless figures stand guard outside, looking for all the world like frozen statues.
 ^66b
 
-Six [demos magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) (see appendix C) guard the entrance to this store. They attack anyone who tries to steal the silks on display (see "Treasure" below) but otherwise let strangers explore the store.
+Six [demos magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md) (see appendix C) guard the entrance to this store. They attack anyone who tries to steal the silks on display (see "Treasure" below) but otherwise let strangers explore the store.
 
-Inside the store, five [galvan magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C) watch over rest of the merchandise. More of the magic silk hangs in long drapes throughout the interior, after being spun by four [phase spiders](/3-Mechanics/CLI/bestiary/monstrosity/phase-spider.md) that lurk in the hall's rafters. The spiders are enchanted to produce sorcery silk, a material with illusions woven into it that was fashioned into robes for Ythryn's elite. Characters who enter the store spot the spiders immediately. The spiders defend themselves if attacked but are otherwise nonthreatening.
+Inside the store, five [galvan magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C) watch over rest of the merchandise. More of the magic silk hangs in long drapes throughout the interior, after being spun by four [phase spiders](3-Mechanics/CLI/bestiary/monstrosity/phase-spider.md) that lurk in the hall's rafters. The spiders are enchanted to produce sorcery silk, a material with illusions woven into it that was fashioned into robes for Ythryn's elite. Characters who enter the store spot the spiders immediately. The spiders defend themselves if attacked but are otherwise nonthreatening.
 
 In the center of the interior, crystal mannequins draped in finery encircle an empty pedestal. If a creature steps onto the pedestal, an illusion of a magnificently dressed human flickers to life before them and introduces itself as Silksmith Mixyll. The illusion welcomes the guest to its emporium and explains the robe-making process. As it speaks, the phase spiders descend silently and use their legs to take the creature's measurements before spinning the creature a tailor-made robe. As the robe is being fashioned, Mixyll urges its guest to "imagine any image your heart desires." The spiders can, in the 10 minutes it takes to create the robe, spin any illusory design or effect into the garment. On completion, they drape the robe over the creature's shoulders and ascend back to their lair. Each guest can gain this benefit only once.
 
@@ -575,9 +567,9 @@ A silk robe spun by the spiders is worth 250 gp. If the characters ransack the s
 > This conical tower is held relatively upright by a ring of arched buttresses. Expressionless humanoid figures stand in silence around it. The roof has a large, ragged hole in it where something large smashed through.
 ^66e
 
-Three [galvan magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md), three [demos magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md), and one [hypnos magen](/3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) stand guard outside the observatory with orders to prevent strangers from entering it (see appendix C for their stat blocks). The hypnos magen telepathically orders intruders to leave the area. Defying this order prompts the magen to attack.
+Three [galvan magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md), three [demos magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md), and one [hypnos magen](3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) stand guard outside the observatory with orders to prevent strangers from entering it (see appendix C for their stat blocks). The hypnos magen telepathically orders intruders to leave the area. Defying this order prompts the magen to attack.
 
-The iron door at the base of the observatory is welded shut from the outside and must be broken down. It has AC 19, 30 hit points, and immunity to poison and psychic damage. A [blue slaad](/3-Mechanics/CLI/bestiary/aberration/blue-slaad.md) lurks on the other side of the doorway and attacks as soon as the door ceases to be an obstacle. This slaad is hostile toward all other creatures and can't be reasoned with.
+The iron door at the base of the observatory is welded shut from the outside and must be broken down. It has AC 19, 30 hit points, and immunity to poison and psychic damage. A [blue slaad](3-Mechanics/CLI/bestiary/aberration/blue-slaad.md) lurks on the other side of the doorway and attacks as soon as the door ceases to be an obstacle. This slaad is hostile toward all other creatures and can't be reasoned with.
 
 Once inside, the characters can ascend the tower to its uppermost floor:
 
@@ -592,13 +584,13 @@ By training the magic telescope on distant stars, Ythryn's astronomers could sum
 
 When Ythryn fell, a piece of the Tower of Divination (area Y11) crashed through the observatory roof (see "Inscription" below). In the resulting chaos, the blue slaad encountered on the tower's ground floor escaped from its cell and rampaged through the observatory. The Arch-Astronomer, who became infected by the slaad's chaos phage, ordered her surviving apprentices to seal her inside the tower with the monster. In the years, decades, and centuries since, she has managed to keep the blue slaad from escaping through the hole in the roof.
 
-The Arch-Astronomer, now a [green slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad.md), is madly fiddling with the telescope, hoping to reverse its power so that it can project itself out of the tower to some faraway place where it can find happiness, but it has no hope of success. If the characters interrupt the Arch-Astronomer, it tries to frighten them away by baring its teeth and claws. If they touch the telescope or damage it further, the slaad goes crazy and attacks them. If they merely want to read the inscription on the wall fragment that crashed through the roof, the slaad leaves them alone.
+The Arch-Astronomer, now a [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad.md), is madly fiddling with the telescope, hoping to reverse its power so that it can project itself out of the tower to some faraway place where it can find happiness, but it has no hope of success. If the characters interrupt the Arch-Astronomer, it tries to frighten them away by baring its teeth and claws. If they touch the telescope or damage it further, the slaad goes crazy and attacks them. If they merely want to read the inscription on the wall fragment that crashed through the roof, the slaad leaves them alone.
 
 ##### Inscription
 
 The chunk of wall from the Tower of Divination (area Y11) bears the following inscription in Draconic: "Third, a burnt palm loosens the tongue. Shed a secret about yourself for all to hear." This is a passage from the Rite of the Arcane Octad (see "Rite of the Arcane Octad" ).
 
-![A green slaad gazes into t...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/183-07-003-green-slaad.webp#center "A green slaad gazes into the eyepiece of Ythryn's telescope")
+![A green slaad gazes into the eyepiece of Ythryn's telescope](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/183-07-003-green-slaad.webp#center)
 
 #### Y16. Menagerie
 
@@ -611,22 +603,20 @@ This building's entrance lies unattended. Ythryn's mages would visit here to con
 
 ##### Chimeric Creator
 
-This device is a 10-foot-diameter iron wheel on its side, held above the ground by a metal brace, with eight barrel-sized, egg-shaped open containers attached to the outer ends of its spokes. The apparatus has a bronze control panel with a lever next to it. A character who spends at least 1 minute examining the device can make a DC 15 Intelligence (Arcana) check. On a successful check, the character gains an understanding of how to use it without knowing its purpose. To operate the device, 80 hit points of blood must be distributed evenly between its eight containers. Once the blood is properly deposited, pulling a lever causes the wheel to spin. The blood disappears 1 minute later, the wheel stops, and a creature crawls out of one of the containers. This creature is loyal to whoever pulled the lever. Determine the creature by rolling a `dice:d6|noform|noparens|avg` (`d6`) and consulting the Chimeric Creations table.
+This device is a 10-foot-diameter iron wheel on its side, held above the ground by a metal brace, with eight barrel-sized, egg-shaped open containers attached to the outer ends of its spokes. The apparatus has a bronze control panel with a lever next to it. A character who spends at least 1 minute examining the device can make a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. On a successful check, the character gains an understanding of how to use it without knowing its purpose. To operate the device, 80 hit points of blood must be distributed evenly between its eight containers. Once the blood is properly deposited, pulling a lever causes the wheel to spin. The blood disappears 1 minute later, the wheel stops, and a creature crawls out of one of the containers. This creature is loyal to whoever pulled the lever. Determine the creature by rolling a `d6` and consulting the Chimeric Creations table.
 
 The chimeric creator needs 8 hours to recharge before it can be used again. A gauge on the device indicates how long it will take to recharge.
 
 **Chimeric Creations**
 
-`dice: [](18-chapter-7-doom-of-ythryn.md#^chimeric-creations)`
-
 | dice: d6 | Creature |
 |----------|----------|
-| 1 | A [weasel](/3-Mechanics/CLI/bestiary/beast/chimeric-weasel-idrotf.md) with glowing eyes that emit bright light out in a 20-foot radius and dim light for an additional 20 feet |
-| 2 | A [hare](/3-Mechanics/CLI/bestiary/beast/chimeric-hare-idrotf.md) (see appendix C) with feathered wings and a flying speed of 30 feet |
-| 3 | A [baboon](/3-Mechanics/CLI/bestiary/beast/chimeric-baboon-idrotf.md) with a bite attack that deals an extra `dice:1d6\|noform\|noparens\|avg\|text(3)` (`1d6`) poison damage on a hit |
-| 4 | A [cat](/3-Mechanics/CLI/bestiary/beast/chimeric-cat-idrotf.md) with antennae that grant it blindsight and tremorsense out to a range of 60 feet |
-| 5 | A [rat](/3-Mechanics/CLI/bestiary/beast/chimeric-rat-idrotf.md) with gills, iridescent scales, and the ability to breathe air and water |
-| 6 | A [fox](/3-Mechanics/CLI/bestiary/beast/chimeric-fox-idrotf.md) (see appendix C) with fur that changes color to match its surroundings, giving it advantage on Dexterity (Stealth) checks |
+| 1 | A [weasel](3-Mechanics/CLI/bestiary/beast/chimeric-weasel-idrotf.md) with glowing eyes that emit bright light out in a 20-foot radius and dim light for an additional 20 feet |
+| 2 | A [hare](3-Mechanics/CLI/bestiary/beast/chimeric-hare-idrotf.md) (see appendix C) with feathered wings and a flying speed of 30 feet |
+| 3 | A [baboon](3-Mechanics/CLI/bestiary/beast/chimeric-baboon-idrotf.md) with a bite attack that deals an extra 3 (`1d6`) poison damage on a hit |
+| 4 | A [cat](3-Mechanics/CLI/bestiary/beast/chimeric-cat-idrotf.md) with antennae that grant it [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) and [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) out to a range of 60 feet |
+| 5 | A [rat](3-Mechanics/CLI/bestiary/beast/chimeric-rat-idrotf.md) with gills, iridescent scales, and the ability to breathe air and water |
+| 6 | A [fox](3-Mechanics/CLI/bestiary/beast/chimeric-fox-idrotf.md) (see appendix C) with fur that changes color to match its surroundings, giving it advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks |
 ^chimeric-creations
 
 #### Y17. Theater
@@ -640,7 +630,7 @@ A wooden writing desk sits in a backstage room, wrapped in chains and padlocked.
 
 ##### Cursed Play
 
-Each script has a different cover showing a humanoid figure that represents one of the siblings: the Martyr (with a noose around its neck), the Traitor (with a knife held behind its back), the Bewitched (with a fairy whispering in its ear), the Haunted (with a demonic shadow terrorizing it), and the Fool (performing a handstand). Each of the five scripts is cursed. Anyone who spends an hour reading a script must succeed on a DC 18 Wisdom saving throw or become cursed. A creature cursed in this way is gripped by a sudden feeling of impending doom. Each of the five scripts imparts a different curse, which can be ended by a remove curse spell or similar magic:
+Each script has a different cover showing a humanoid figure that represents one of the siblings: the Martyr (with a noose around its neck), the Traitor (with a knife held behind its back), the Bewitched (with a fairy whispering in its ear), the Haunted (with a demonic shadow terrorizing it), and the Fool (performing a handstand). Each of the five scripts is cursed. Anyone who spends an hour reading a script must succeed on a DC 18 Wisdom saving throw or become cursed. A creature cursed in this way is gripped by a sudden feeling of impending doom. Each of the five scripts imparts a different curse, which can be ended by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic:
 
 - **Martyr's Script.** All attacks against the cursed character are made with advantage.  
 - **Traitor's Script.** The cursed character can't perform any action that would directly benefit one of their allies.  
@@ -655,7 +645,7 @@ Each script has a different cover showing a humanoid figure that represents one 
 > The remains of a toppled tower lie scattered around you. Its fractured base, protruding from the ground like a broken tooth, is teeming with crawling gray hands.
 ^678
 
-A detect magic spell cast here reveals an aura of necromantic magic. Two hundred [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw.md) are tirelessly but ineffectively trying to excavate the tower's ruins, brick by brick. Anyone who disrupts this effort is attacked by `dice:2d6|noform|noparens|avg` (`2d6`) claws. Deep under the rubble, the corpse of High Necromancer Cadavix lies crushed, yet his [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) remains behind to haunt the tower. Characters who linger in the area of the tower witness his gaunt spirit staring glumly down at the debris. Cadavix's ghost is harmless and attacks only in self-defense; it laments the fall of Ythryn and longs to see its corpse freed from the ruins.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast here reveals an aura of necromantic magic. Two hundred [crawling claws](3-Mechanics/CLI/bestiary/undead/crawling-claw.md) are tirelessly but ineffectively trying to excavate the tower's ruins, brick by brick. Anyone who disrupts this effort is attacked by `2d6` claws. Deep under the rubble, the corpse of High Necromancer Cadavix lies crushed, yet his [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md) remains behind to haunt the tower. Characters who linger in the area of the tower witness his gaunt spirit staring glumly down at the debris. Cadavix's ghost is harmless and attacks only in self-defense; it laments the fall of Ythryn and longs to see its corpse freed from the ruins.
 
 Excavating the tower requires pickaxes and shovels, and it takes a number of hours equal to 50 divided by the number of excavators (minimum 1 hour). The crawling claws don't count as diggers, nor do they attack characters who join the digging effort. Quite the contrary: they get visibly excited as the unearthing of their master draws near. If Cadavix's frozen corpse is unearthed, his spirit is laid to rest and the claws scuttle off into the ruins. Those who find the corpse can claim its necklace (see "Treasure" below).
 
@@ -668,8 +658,8 @@ Characters who dig deep enough to reach Cadavix's corpse also reach the tower's 
 Cadavix's corpse wears a necklace of fireballs with six beads remaining.
 
 > [!gallery]
-> ![Map 7.3: Spire of Iriolarthas](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/184-map-7-3-spire-of-iriolarthas.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/185-map-7-3-spire-of-iriolarthas-player.webp#gallery)
+> ![Map 7.3: Spire of Iriolarthas](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/184-map-7-3-spire-of-iriolarthas.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/185-map-7-3-spire-of-iriolarthas-player.webp#gallery)
 
 ### Spire of Iriolarthas (Y19a-Y19q)
 
@@ -677,11 +667,11 @@ A shimmering force field surrounds this 1,200-foot-tall obsidian citadel, which 
 
 The spire, the interior of which is shown in map 7.3, has the following recurring features:
 
-**Demilich's Lair**. The spire is the lair of the [demilich](/3-Mechanics/CLI/bestiary/undead/demilich.md) Iriolarthas. The lair actions noted in the demilich entry of the "Monster Manual" apply throughout the spire, though Iriolarthas can use lair actions only while inside it. The spire doesn't have demilich lair traits.
+**Demilich's Lair**. The spire is the lair of the [demilich](3-Mechanics/CLI/bestiary/undead/demilich.md) Iriolarthas. The lair actions noted in the demilich entry of the "Monster Manual" apply throughout the spire, though Iriolarthas can use lair actions only while inside it. The spire doesn't have demilich lair traits.
 
 - **Ceilings.** Ceilings are 30 feet high inside rooms and 10 feet high in corridors.  
 - **Doors.** Doors are made from enchanted oak fitted with adamantine locks and hinges.  
-- **Lighting.** The interior of the spire is brightly lit by continual flame spells cast in wall sconces.  
+- **Lighting.** The interior of the spire is brightly lit by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast in wall sconces.  
 
 #### Y19a. Main Entrance
 
@@ -692,7 +682,7 @@ If the characters reach this area by ascending the strut at area Y6, read:
 > Near the apex of the strut, the ceiling of the tunnel gives way to a landing that offers a view of the citadel's uppermost reaches. Light from a high window illuminates a set of steps that ascend to a pair of mahogany doors in the tower's face.
 ^67f
 
-The magic that once sealed the doors has long since faded away. When visitors approach the doors, a [hypnos magen](/3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) (see appendix C) from area Y19d appears at the overlooking window and uses its telepathy to politely instruct the intruders to leave the area. If the intruders behave threateningly or ignore its warnings, the magen tries to drive them away using suggestion spells, or failing that, attacks them.
+The magic that once sealed the doors has long since faded away. When visitors approach the doors, a [hypnos magen](3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) (see appendix C) from area Y19d appears at the overlooking window and uses its telepathy to politely instruct the intruders to leave the area. If the intruders behave threateningly or ignore its warnings, the magen tries to drive them away using [suggestion](3-Mechanics/CLI/spells/suggestion.md) spells, or failing that, attacks them.
 
 #### Y19b. Ballroom
 
@@ -701,14 +691,14 @@ The magic that once sealed the doors has long since faded away. When visitors ap
 > Chamber music washes over you as you enter this ballroom. In contrast to the desolate, frozen ruins outside, a dozen people mill around in here, dressed in flowing silk garments and holding colorful hand masks and feathered fans. Noble courtiers laugh and gossip as servants move among them, offering sugared treats on silver platters.
 ^681
 
-The music, people, food, decor, and warmth are illusions with which the characters can interact (see "Joining the Ball" below). The scene can be ended with a successful dispel magic spell (DC 19). If the illusory ball is dispelled, the room's true contents are revealed:
+The music, people, food, decor, and warmth are illusions with which the characters can interact (see "Joining the Ball" below). The scene can be ended with a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) spell (DC 19). If the illusory ball is dispelled, the room's true contents are revealed:
 
 > [!readaloud] 
 > 
 > The ballroom lies in ruins, rimed with ice, its furniture jumbled and shattered. Above the floor where nobles danced, three glass cylinders with iron fittings slowly move through the air. Housed in each cylinder is a swollen human brain floating in a bath of slimy, translucent goo.
 ^682
 
-Three Netherese wizards chose to continue their revels into undeath, each one becoming a [brain in a jar](/3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md) (see appendix C). The three wizards have been driven mad by their undead existence. Dispelling the illusion drives them into a furious rage. Visitors who ruin the ball in any way are attacked.
+Three Netherese wizards chose to continue their revels into undeath, each one becoming a [brain in a jar](3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md) (see appendix C). The three wizards have been driven mad by their undead existence. Dispelling the illusion drives them into a furious rage. Visitors who ruin the ball in any way are attacked.
 
 ##### Joining the Ball
 
@@ -722,7 +712,7 @@ Characters who search the northernmost chamber discover an unfinished letter tha
 
 #### Y19d. Guard Passage
 
-At the end of the passage to the west, a narrow window overlooks the steps that lead to the main entrance (area Y19a). Anyone who enters this passage is challenged by a [hypnos magen](/3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) (see appendix C)—the same one that tries to shoo away intruders in area Y19a. This magen emerges from a cramped sentry chamber to the east and uses telepathy to politely inform intruders that they are trespassing: if the intruders don't leave at once, the magen tries to forcibly eject them.
+At the end of the passage to the west, a narrow window overlooks the steps that lead to the main entrance (area Y19a). Anyone who enters this passage is challenged by a [hypnos magen](3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md) (see appendix C)—the same one that tries to shoo away intruders in area Y19a. This magen emerges from a cramped sentry chamber to the east and uses telepathy to politely inform intruders that they are trespassing: if the intruders don't leave at once, the magen tries to forcibly eject them.
 
 #### Y19e. Liquefaction Chamber
 
@@ -731,9 +721,9 @@ At the end of the passage to the west, a narrow window overlooks the steps that 
 > Shifting green, purple, and blue light spills into this room through a single window. Bolted-down tables hold an array of equipment: beakers of alchemical fluid, alembics, cut crystal needles, surgical tools, coiled leather tubes, and more. Behind the tables stands an ornate suit of armor. Where the head should be is a swollen human brain floating inside a canister of translucent fluid.
 ^687
 
-![Veneranda](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/186-07-004-veneranda.webp#center)
+![Veneranda](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/186-07-004-veneranda.webp#center)
 
-This ritual room is designed to serve a grisly purpose: the transformation of a living creature into a brain in a jar. Veneranda, a neutral evil Netherese wizard, extracted her own brain to become a [brain in a jar](/3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md) (see appendix C) that is affixed to the body of a headless [helmed horror](/3-Mechanics/CLI/bestiary/construct/helmed-horror.md). If the characters threaten or attack her, Veneranda turns the helmed horror against the group and attacks. Even though they are conjoined, the brain in a jar and the helmed horror roll initiative separately and attack as separate creatures. The brain can detach from the helmed horror as a bonus action.
+This ritual room is designed to serve a grisly purpose: the transformation of a living creature into a brain in a jar. Veneranda, a neutral evil Netherese wizard, extracted her own brain to become a [brain in a jar](3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md) (see appendix C) that is affixed to the body of a headless [helmed horror](3-Mechanics/CLI/bestiary/construct/helmed-horror.md). If the characters threaten or attack her, Veneranda turns the helmed horror against the group and attacks. Even though they are conjoined, the brain in a jar and the helmed horror roll initiative separately and attack as separate creatures. The brain can detach from the helmed horror as a bonus action.
 
 Unlike her companions in the ballroom (area Y19b), Veneranda is coldly calculating and fully aware of Ythryn's fate. If the characters communicate with her, she greets them warily in Loross (see the "Loross: The Netherese Tongue" sidebar) and tries to find out what has happened in the world in the centuries since Ythryn's fall. Her singular goal is to restore Ythryn to its past glory. She doesn't know why the city crashed, but she believes that the broken obelisk (see area Y21) can turn back time to repair the damage. To activate its magic, Veneranda says she needs Iriolarthas's staff of power, which he keeps in his study. She proposes that the characters break into Iriolarthas's study, steal his staff, and bring it to her. She declines to accompany them, on account of the likely danger. If they complete this mission and return with the staff, she escorts them to the obelisk and tries to activate it. If the characters are unwilling to help Veneranda achieve her goal, they quickly outlive their usefulness, and she tries to destroy them.
 
@@ -760,7 +750,7 @@ Each staff can serve as an arcane focus for a spellcaster. The staffs are as fol
 
 **Staff 5** is made of weirwood, a hardy substance similar to oak. Its shaft is gnarled and twisted, its top carved to resemble a human hand grasping a snake.
 
-**Staff 6** is made of chardalyn (see "Chardalyn") and is suffused with Netherese magic. While holding the staff, a creature is immune to the frightened and poisoned conditions.
+**Staff 6** is made of chardalyn (see "Chardalyn") and is suffused with Netherese magic. While holding the staff, a creature is immune to the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
 
 #### Y19g. Den
 
@@ -775,7 +765,7 @@ If the illusion is dispelled, the music ends and the chamber is revealed to be a
 
 ##### Treasure
 
-The chest is an [abracadabrus](/3-Mechanics/CLI/items/abracadabrus-idrotf.md) (see appendix D) that Iriolarthas and his guests used to produce food and drink.
+The chest is an [abracadabrus](3-Mechanics/CLI/items/abracadabrus-idrotf.md) (see appendix D) that Iriolarthas and his guests used to produce food and drink.
 
 #### Y19h. Members' Bar
 
@@ -790,7 +780,7 @@ If the illusion is dispelled, this area is shown to be a frozen ruin bereft of i
 
 ##### Treasure
 
-Behind the rectangular counter, held in storage racks, are a dozen bottles of two-thousand-year-old wine. A detect magic spell reveals an aura of abjuration magic around each bottle, which has preserved its contents. Each bottle of wine is worth 50 gp to an interested buyer.
+Behind the rectangular counter, held in storage racks, are a dozen bottles of two-thousand-year-old wine. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of abjuration magic around each bottle, which has preserved its contents. Each bottle of wine is worth 50 gp to an interested buyer.
 
 #### Y19i. Force Bridge
 
@@ -825,9 +815,9 @@ The crystals embedded in the niches are used to project Everlast's illusory form
 
 ##### Secret Door
 
-This hatch is mounted in the ceiling, 30 feet above the floor, and can be spotted from the floor only with a successful DC 20 Wisdom (Perception) check. Knocking on the hatch causes it to swing open, revealing a 5-foot-diameter vertical shaft that ascends 50 feet to area Y19k. A character can use an action to pull open the hatch by force, doing so with a successful DC 20 Strength check.
+This hatch is mounted in the ceiling, 30 feet above the floor, and can be spotted from the floor only with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Knocking on the hatch causes it to swing open, revealing a 5-foot-diameter vertical shaft that ascends 50 feet to area Y19k. A character can use an action to pull open the hatch by force, doing so with a successful DC 20 Strength check.
 
-![A living blade of disaster...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/187-07-005-blade-of-disaster.webp#center "A living blade of disaster is a powerful, annihilating spell given a will of its own.")
+![A living blade of disaster is a powerful, annihilating spell given a will of its own.](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/187-07-005-blade-of-disaster.webp#center)
 
 #### Y19k. Dome
 
@@ -838,13 +828,13 @@ The following boxed text assumes that the characters arrive by moving up the sha
 > You ascend into an oval hall glittering with frost. Carvings decorate the walls, and long icicles hang from the ceiling. A ten-foot-radius dome of translucent ice encloses the area around the shaft from which you emerge. At the far end of the hall, two blade-shaped patches of pitch darkness hover in the air to either side of a double door. A glowing green crystal roughly the size of a human fist is set into the arch above the doorway.
 ^699
 
-A hemispherical wall of force, its outside coated with a thin layer of ice, covers the shaft leading down to area Y19j. This barrier was created by a wall of force spell and is maintained by the glowing green crystal set above the doorway (see "Green Crystal" below). As long as this crystal is glowing, the wall of force can't be dispelled.
+A hemispherical wall of force, its outside coated with a thin layer of ice, covers the shaft leading down to area Y19j. This barrier was created by a [wall of force](3-Mechanics/CLI/spells/wall-of-force.md) spell and is maintained by the glowing green crystal set above the doorway (see "Green Crystal" below). As long as this crystal is glowing, the wall of force can't be dispelled.
 
-Two [living blades of disaster](/3-Mechanics/CLI/bestiary/construct/living-blade-of-disaster-idrotf.md) (see appendix C) guard the double door that blocks the way to area Y19l. The blades attack intruders that move in range of their blindsight (30 feet), and the blades can pass right through the wall of force.
+Two [living blades of disaster](3-Mechanics/CLI/bestiary/construct/living-blade-of-disaster-idrotf.md) (see appendix C) guard the double door that blocks the way to area Y19l. The blades attack intruders that move in range of their [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) (30 feet), and the blades can pass right through the wall of force.
 
 ##### Green Crystal
 
-This glowing crystal sustains the wall of force but has become loose in its stone fixture. Whenever a loud noise is made inside the chamber, the loose crystal flickers. Tremendously loud noises, such as those made by a thunderwave spell or a horn of blasting, cause the crystal to go out for `dice:1d6|noform|noparens|avg` (`1d6`) rounds, during which time the wall of force is suppressed. The first time this happens, the ice that coats the dome collapses.
+This glowing crystal sustains the wall of force but has become loose in its stone fixture. Whenever a loud noise is made inside the chamber, the loose crystal flickers. Tremendously loud noises, such as those made by a [thunderwave](3-Mechanics/CLI/spells/thunderwave.md) spell or a horn of blasting, cause the crystal to go out for `1d6` rounds, during which time the wall of force is suppressed. The first time this happens, the ice that coats the dome collapses.
 
 A character within reach of the crystal can use an action to pry it from its fixture, which causes the crystal to go dark for good, ending the wall of force. Destroying the crystal has the same effect. The crystal is a Tiny, 1-pound object with AC 13, 4 hit points, and immunity to poison and psychic damage.
 
@@ -857,7 +847,7 @@ The following boxed text assumes that the characters look through the doorway fr
 > Lining the far wall of this hall are eight doors, each marked with a different arcane symbol. On the wall above them is etched an inscription in Draconic.
 ^69c
 
-A magical trap (marked T on map 7.3) fills the 10-foot-square area immediately south of the double door to area Y19k and triggers whenever a creature that is neither a construct nor undead enters the area for the first time. Any creature that triggers the trap is targeted by a flesh to stone spell (save DC 17). A creature can't set off the trap more than once. After it's triggered three times, the trap vanishes.
+A magical trap (marked T on map 7.3) fills the 10-foot-square area immediately south of the double door to area Y19k and triggers whenever a creature that is neither a construct nor undead enters the area for the first time. Any creature that triggers the trap is targeted by a [flesh to stone](3-Mechanics/CLI/spells/flesh-to-stone.md) spell (save DC 17). A creature can't set off the trap more than once. After it's triggered three times, the trap vanishes.
 
 ##### Draconic Inscription
 
@@ -865,7 +855,7 @@ The inscription reads "Speak thy master's name and enter."
 
 ##### Eight Doors
 
-A character who succeeds on a DC 10 Intelligence (Arcana) check recognizes that the symbols on the doors represent the eight schools of magic. Opening any of the eight doors reveals utter darkness beyond. A creature that has darkvision can't see into or through this magical darkness, but a warlock with Devil's Sight can. Magical light, as well as light created by spells of 8th level or lower, can't illuminate it. This darkness fills the tunnels south of the doors and can't be dispelled. To pass through safely, a character must speak the name of one of Iriolarthas's eight apprentices and then step through the door associated with that wizard's school of magic. The eight apprentices were:
+A character who succeeds on a DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes that the symbols on the doors represent the eight schools of magic. Opening any of the eight doors reveals utter darkness beyond. A creature that has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) can't see into or through this magical darkness, but a warlock with Devil's Sight can. Magical light, as well as light created by spells of 8th level or lower, can't illuminate it. This darkness fills the tunnels south of the doors and can't be dispelled. To pass through safely, a character must speak the name of one of Iriolarthas's eight apprentices and then step through the door associated with that wizard's school of magic. The eight apprentices were:
 
 |    |    |
 |----|----|
@@ -874,7 +864,7 @@ A character who succeeds on a DC 10 Intelligence (Arcana) check recognizes that 
 | High Diviner Apius | High Necromancer Cadavix |
 | High Enchanter Ivira | High Transmuter Metaltra |
 
-The characters can learn the apprentices' names from the museum (area Y29). Each time a creature steps through a door without speaking the correct name, a [barbed devil](/3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) appears in the dark corridor beyond. The devil can see in the magical darkness and attacks any creatures that move into the corridor without first speaking the correct name. These devils can leave the darkness to pursue their foes. One minute after a devil appears, it disappears, leaving no trace of itself behind. Once a barbed devil has been summoned, no other devil can be summoned into that same corridor for 24 hours.
+The characters can learn the apprentices' names from the museum (area Y29). Each time a creature steps through a door without speaking the correct name, a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) appears in the dark corridor beyond. The devil can see in the magical darkness and attacks any creatures that move into the corridor without first speaking the correct name. These devils can leave the darkness to pursue their foes. One minute after a devil appears, it disappears, leaving no trace of itself behind. Once a barbed devil has been summoned, no other devil can be summoned into that same corridor for 24 hours.
 
 #### Y19m. Chamber of the Ebon Star
 
@@ -893,9 +883,9 @@ The swirling star field represents the cosmos as it was known to the Netherese. 
 
 ##### Wizards' Chairs
 
-Any character who succeeds on a DC 10 Intelligence (Arcana) check recognizes that the symbols on the chairs represent the eight schools of magic.
+Any character who succeeds on a DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes that the symbols on the chairs represent the eight schools of magic.
 
-Anyone who has a supernatural charm gained by drinking from the goblet in area Y8 can sit safely in the chair for the school of magic tied to that charm. Similarly, a wizard can sit in whichever chair matches their chosen arcane tradition. (For example, if [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is with the party, she can sit in the chair marked with the symbol of necromancy, since she is a necromancer.) If one or more party members take their proper seats here, the star field transforms into a glowing door that persists for 1 minute before transforming back into its original form. While in this room, Iriolarthas the demilich can use an action to cause the doorway to open without having to sit in a chair. Creatures that move through this door are teleported to the upper level of area Y19q.
+Anyone who has a supernatural charm gained by drinking from the goblet in area Y8 can sit safely in the chair for the school of magic tied to that charm. Similarly, a wizard can sit in whichever chair matches their chosen arcane tradition. (For example, if [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is with the party, she can sit in the chair marked with the symbol of necromancy, since she is a necromancer.) If one or more party members take their proper seats here, the star field transforms into a glowing door that persists for 1 minute before transforming back into its original form. While in this room, Iriolarthas the demilich can use an action to cause the doorway to open without having to sit in a chair. Creatures that move through this door are teleported to the upper level of area Y19q.
 
 Each chair is a Medium object with AC 15, 18 hit points, and immunity to all damage except force damage. Destroying all the chairs causes the star field to disappear, cutting off access to area Y19q from this room.
 
@@ -908,9 +898,9 @@ Each chair is a Medium object with AC 15, 18 hit points, and immunity to all dam
 
 This chamber was built to house unstable magic items during experimentation, but it couldn't contain the artifact that Iriolarthas and his apprentices retrieved from the bottom of the Sea of Moving Ice. During a routine examination, the spindle briefly became active, dispelled magical effects throughout Ythryn, and caused the city to plunge into the Reghed Glacier. The spindle is now dormant but can be reactivated to wreak havoc on the Weave.
 
-The spindle is immune to all damage and is unaffected by any magic in existence today. It can't be moved from this location. If it is targeted by a spell of 5th level or higher, an explosion of magical energy blasts from it: all magic items and magical effects within a three-mile radius (including those within the spire) are suppressed for 24 hours, and spellcasters are drained of any unexpended spell slots. Living spells, constructs, and other magically created creatures are unaffected. The pulse of energy suppresses magical traps throughout the city and causes the floating chamber above Skydock Spire (area Y28) to crash into to the ground, pulverizing it and dealing `dice:18d10|noform|noparens|avg|text(99)` (`18d10`) bludgeoning damage to each creature inside it.
+The spindle is immune to all damage and is unaffected by any magic in existence today. It can't be moved from this location. If it is targeted by a spell of 5th level or higher, an explosion of magical energy blasts from it: all magic items and magical effects within a three-mile radius (including those within the spire) are suppressed for 24 hours, and spellcasters are drained of any unexpended spell slots. Living spells, constructs, and other magically created creatures are unaffected. The pulse of energy suppresses magical traps throughout the city and causes the floating chamber above Skydock Spire (area Y28) to crash into to the ground, pulverizing it and dealing 99 (`18d10`) bludgeoning damage to each creature inside it.
 
-![This stone spindle, a reli...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/188-07-006-stone-spindle.webp#center "This stone spindle, a relic of the ancient world, brought down Ythryn nearly two thousand years ago")
+![This stone spindle, a relic of the ancient world, brought down Ythryn nearly two thousand years ago](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/188-07-006-stone-spindle.webp#center)
 
 #### Y19o. Library
 
@@ -923,9 +913,9 @@ Most of the books and scrolls that litter the floor have been ruined by centurie
 
 ##### Treasure
 
-Lying among the ruined documents are two useful items: a [scroll of the comet](/3-Mechanics/CLI/items/scroll-of-the-comet-idrotf.md) (see appendix D) and an adamantine key. The key is nonmagical and unlocks the double door to the balcony (area Y19p).
+Lying among the ruined documents are two useful items: a [scroll of the comet](3-Mechanics/CLI/items/scroll-of-the-comet-idrotf.md) (see appendix D) and an adamantine key. The key is nonmagical and unlocks the double door to the balcony (area Y19p).
 
-![Iriolarthas the demilich](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/189-07-007-demilich.webp#center)
+![Iriolarthas the demilich](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/189-07-007-demilich.webp#center)
 
 #### Y19p. High Court Balcony
 
@@ -944,7 +934,7 @@ This room can be accessed by activating the magic door in area Y19m. The door is
 > Staircases to the east and west descend to the lower part of the room, where a sunken library is situated in a twenty-foot-wide, ten-foot-deep circular pit. A ladder running along a circular track inside this hole allows easy access to the many books and scrolls on its shelves.
 ^6aa
 
-If the characters have not yet encountered Iriolarthas, the [demilich](/3-Mechanics/CLI/bestiary/undead/demilich.md) and three [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md) are present:
+If the characters have not yet encountered Iriolarthas, the [demilich](3-Mechanics/CLI/bestiary/undead/demilich.md) and three [nothics](3-Mechanics/CLI/bestiary/aberration/nothic.md) are present:
 
 > [!readaloud] 
 > 
@@ -955,20 +945,20 @@ Have the players roll initiative for their characters, and roll initiative for a
 
 See the "Iriolarthas the Demilich" section at the start of the chapter for information about the demilich. Iriolarthas attacks anyone who takes its staff of power or spellbook from atop the tables (see "Treasure" below). The nothics defend the demilich and themselves.
 
-The shadowy, groaning rectangle on the north wall is a [living demiplane](/3-Mechanics/CLI/bestiary/construct/living-demiplane-idrotf.md) (see appendix C) that was created when Iriolarthas escaped Ythryn's fall. It moves toward the nearest intruder with the intent of trapping that creature into its extradimensional chamber. Anyone who is cast into this chamber must deal with five hostile creatures already trapped inside it: three [galvan magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C) and two [flesh golems](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md). As the golems attack new arrivals, the magen use their Shocking Touch and Static Discharge actions to heal the golems' wounds.
+The shadowy, groaning rectangle on the north wall is a [living demiplane](3-Mechanics/CLI/bestiary/construct/living-demiplane-idrotf.md) (see appendix C) that was created when Iriolarthas escaped Ythryn's fall. It moves toward the nearest intruder with the intent of trapping that creature into its extradimensional chamber. Anyone who is cast into this chamber must deal with five hostile creatures already trapped inside it: three [galvan magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md) (see appendix C) and two [flesh golems](3-Mechanics/CLI/bestiary/construct/flesh-golem.md). As the golems attack new arrivals, the magen use their Shocking Touch and Static Discharge actions to heal the golems' wounds.
 
 The sunken library in the middle of the study has shelves lining its 10-foot-high walls and a ladder that can be pushed along a circular track to reach every shelf. Among the books and scrolls kept here is a bundle of parchment maps and schematics detailing aspects of Ythryn. Characters who study these papers for at least 1 hour learn the following facts:
 
-- The city was held aloft by the [Ythryn mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (area Y23). Up to eight mages could attune to this device at one time. If all of them agreed, they could use its power to move the city through the skies or control the weather for miles around it.  
+- The city was held aloft by the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (area Y23). Up to eight mages could attune to this device at one time. If all of them agreed, they could use its power to move the city through the skies or control the weather for miles around it.  
 - If disaster ever struck the city, the wizards could exploit the power of the obelisk (area Y21) to turn back time and avert ruin. The schematics contain instructions for activating the obelisk, which requires a staff of power as a power source.  
 - The command word to reopen the magic door to area Y19m is "Saldrinar," which also happens to be the name of a long-dead Netherese archmage.  
-- The command word to deactivate the force field around the spire is "Olostin." If this name is spoken aloud within Iriolarthas's study, the force field surrounding the spire and the [Ythryn mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (area Y23) deactivates permanently.  
+- The command word to deactivate the force field around the spire is "Olostin." If this name is spoken aloud within Iriolarthas's study, the force field surrounding the spire and the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) (area Y23) deactivates permanently.  
 
 ##### Treasure
 
-The following treasures can be found amid the rubbish on the upper level of the study: a small metal case containing four vials of quicksilver (500 gp each), an intricate crystal rod (1,800 gp), Iriolarthas's fully charged staff of power, a hefty spellbook titled [The Incantations of Iriolarthas](/3-Mechanics/CLI/items/the-incantations-of-iriolarthas-idrotf.md), and a [scroll of tarrasque summoning](/3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md) (see appendix D for descriptions of the spellbook and the scroll). The crystal rod and vials of quicksilver are nonmagical material components needed for the [create magen](/3-Mechanics/CLI/spells/create-magen-idrotf.md) spell in Iriolarthas's spellbook.
+The following treasures can be found amid the rubbish on the upper level of the study: a small metal case containing four vials of quicksilver (500 gp each), an intricate crystal rod (1,800 gp), Iriolarthas's fully charged staff of power, a hefty spellbook titled [The Incantations of Iriolarthas](3-Mechanics/CLI/items/the-incantations-of-iriolarthas-idrotf.md), and a [scroll of tarrasque summoning](3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md) (see appendix D for descriptions of the spellbook and the scroll). The crystal rod and vials of quicksilver are nonmagical material components needed for the [create magen](3-Mechanics/CLI/spells/create-magen-idrotf.md) spell in Iriolarthas's spellbook.
 
-[Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) is excited by the discovery of the [scroll of tarrasque summoning](/3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md), since the [tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) is one of its areas of expertise. The *professor orb* knows all the tarrasque lore in the "Monster Manual", as well as the monster's traits, which it's happy to share with the party.
+[Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) is excited by the discovery of the [scroll of tarrasque summoning](3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md), since the [tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) is one of its areas of expertise. The *professor orb* knows all the tarrasque lore in the "Monster Manual", as well as the monster's traits, which it's happy to share with the party.
 
 ### Necropolis Locations (Y20-Y29)
 
@@ -986,13 +976,13 @@ The tower's interior is damaged by fire, lightning, and acid, having borne the b
 > Red orbs of light dance like fireflies around this thirty-foot-diameter octagonal chamber. A large unlit brazier stands in the center of the room, and eight ten-foot-square alcoves line the walls, each filled with ice. The arched ceiling is covered with icicles.
 ^6b0
 
-This chamber is lit by a permanent dancing lights spell that can be dispelled (DC 17). Characters who succeed on a DC 10 Wisdom (Perception) check spot an inscription on the ceiling, but the ice covering it renders it unreadable (see "Inscription" below).
+This chamber is lit by a permanent [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) spell that can be dispelled (DC 17). Characters who succeed on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spot an inscription on the ceiling, but the ice covering it renders it unreadable (see "Inscription" below).
 
 The central brazier is enchanted. A single spark created inside it causes it to blaze with magic flames for 24 hours. If the brazier is lit, the heat it gives off starts to melt the ice in the chamber, revealing the words of the inscription after 10 minutes.
 
 ##### Alcoves
 
-Examination of the alcoves reveals that each one contains what appears to be a 10-foot cube of ice. One of the cubes has a humanoid skeleton—the remains of High Evoker Zadulus—suspended inside it. These blocks of ice are, in fact, eight [gelatinous cubes](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) held in magical cryostasis. If the brazier is used to thaw the ice in the room, these cubes awaken after 10 minutes and emerge from their alcoves, attacking all other creatures in the room.
+Examination of the alcoves reveals that each one contains what appears to be a 10-foot cube of ice. One of the cubes has a humanoid skeleton—the remains of High Evoker Zadulus—suspended inside it. These blocks of ice are, in fact, eight [gelatinous cubes](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) held in magical cryostasis. If the brazier is used to thaw the ice in the room, these cubes awaken after 10 minutes and emerge from their alcoves, attacking all other creatures in the room.
 
 ##### Inscription
 
@@ -1007,11 +997,11 @@ The inscription on the ceiling is written in Draconic and reads "Fifth, quench t
 
 Before Ythryn crashed, Iriolarthas relied on this obelisk as a precautionary measure in case Ythryn experienced a catastrophe. It was one of a few rare Netherese artifacts that could rewind time (see the "Secret of the Obelisks" sidebar). It was damaged during Ythryn's fall and, despite Iriolarthas's best efforts, the demilich could not repair it. Characters who learn about the obelisk in Iriolarthas's study (area Y19q) know how to activate it (see "Activating the Obelisk" below).
 
-A character who examines the obelisk and succeeds on a DC 10 Intelligence (Arcana) check recognizes that the magic runes inscribed on the obelisk represent all eight schools of magic. If the check result exceeds the DC by 5 or more, the character also identifies runes relating to chronomancy, the art of magically manipulating time.
+A character who examines the obelisk and succeeds on a DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes that the magic runes inscribed on the obelisk represent all eight schools of magic. If the check result exceeds the DC by 5 or more, the character also identifies runes relating to chronomancy, the art of magically manipulating time.
 
 ##### Activating the Obelisk
 
-If the characters retrieved Iriolarthas's staff of power and Veneranda is with them, she insists that the staff be used to activate the dormant obelisk. Any character who succeeds on a DC 20 Intelligence (Arcana) check can verify that this task is not beyond the staff's power, although it would take at least half of the staff's charges to accomplish. If a creature attuned to the staff uses an action to expend 10 or more of its charges while touching the staff to the obelisk, power surges from the staff and triggers the following devastating events:
+If the characters retrieved Iriolarthas's staff of power and Veneranda is with them, she insists that the staff be used to activate the dormant obelisk. Any character who succeeds on a DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can verify that this task is not beyond the staff's power, although it would take at least half of the staff's charges to accomplish. If a creature attuned to the staff uses an action to expend 10 or more of its charges while touching the staff to the obelisk, power surges from the staff and triggers the following devastating events:
 
 - The staff splits in half, triggering its Retributive Strike property (see the staff's description in the *Dungeon Master's Guide*).  
 - Any creature within 120 feet of the obelisk that isn't killed by the staff's explosion becomes 10 years younger. Creatures whose age is reduced to 0 by this effect wink out of existence, leaving behind the items they were wearing or carrying.  
@@ -1033,13 +1023,13 @@ If the characters retrieved Iriolarthas's staff of power and Veneranda is with t
 > An obsidian tower shrouded in gossamer mist soars before you. Eyes carved into the stonework appear to fixate on you as you approach the entrance. The spire's highest window emits a purple light.
 ^6b8
 
-A detect magic spell cast here reveals an aura of illusion magic. This magic makes the eyes carved into the tower appear to follow those who approach the structure. Characters who enter the tower find the mist inside as well. Haunting sounds fill the air: heartbeats, sobbing, and ragged, gasping breaths.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast here reveals an aura of illusion magic. This magic makes the eyes carved into the tower appear to follow those who approach the structure. Characters who enter the tower find the mist inside as well. Haunting sounds fill the air: heartbeats, sobbing, and ragged, gasping breaths.
 
-As the party advances, the mists around the characters manifest into illusions of their worst fears, and each character becomes the target of a phantasmal killer spell cast at 8th level (save DC 17). Characters who survive the experience emerge together in the tower's upper chamber, which is free of mist.
+As the party advances, the mists around the characters manifest into illusions of their worst fears, and each character becomes the target of a [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer.md) spell cast at 8th level (save DC 17). Characters who survive the experience emerge together in the tower's upper chamber, which is free of mist.
 
 ##### Chamber of Illusion
 
-The tower's uppermost chamber is 30 feet square and lit by purple continual flame spells in wall sconces. An inscription written on the walls in Draconic reads "Sixth, show thy face to the sky." This is illusory script masquerading as a passage from the Rite of the Arcane Octad (see "Rite of the Arcane Octad"). If the characters leave after acquiring only this information, they hear the faint laughter of Ythryn's High Illusionist, Ajamar, trailing behind them as they exit the tower. The real passage is revealed when the illusory script is successfully dispelled (DC 17) or examined by someone who has truesight. It reads "Sixth, hide thyself behind a mask."
+The tower's uppermost chamber is 30 feet square and lit by purple [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells in wall sconces. An inscription written on the walls in Draconic reads "Sixth, show thy face to the sky." This is illusory script masquerading as a passage from the Rite of the Arcane Octad (see "Rite of the Arcane Octad"). If the characters leave after acquiring only this information, they hear the faint laughter of Ythryn's High Illusionist, Ajamar, trailing behind them as they exit the tower. The real passage is revealed when the illusory script is successfully dispelled (DC 17) or examined by someone who has [truesight](3-Mechanics/CLI/rules/senses.md#Truesight). It reads "Sixth, hide thyself behind a mask."
 
 #### Y23. Ythryn Mythallar
 
@@ -1050,9 +1040,9 @@ This enormous artifact is enclosed within the force field surrounding the Spire 
 > Beneath the great spire, a luminous fifty-foot-diameter crystal sphere rests on an ornate stand.
 ^6bb
 
-See appendix D for a description of the [Ythryn mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) and its magical properties. The first time a creature tries to attune to the *mythallar*, its meditation is disturbed by the arrival of a [tomb tapper](/3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md) (see appendix C), which tunnels up from below ground to attack anyone present. The tomb tapper fights to the death to defend the [Ythryn mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md).
+See appendix D for a description of the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md) and its magical properties. The first time a creature tries to attune to the *mythallar*, its meditation is disturbed by the arrival of a [tomb tapper](3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md) (see appendix C), which tunnels up from below ground to attack anyone present. The tomb tapper fights to the death to defend the [Ythryn mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md).
 
-Unless Iriolarthas is destroyed, the demilich is already attuned to the *mythallar*. If Iriolarthas senses that another creature is trying to use the *mythallar*, it always disallows the attempt and flies to the *mythallar*'s location to discourage any further tampering with the device. Only by destroying the [demilich](/3-Mechanics/CLI/bestiary/undead/demilich.md) can the characters use the *mythallar*'s properties unimpeded. The *mythallar*'s power to control the weather can undo the everlasting winter that Auril has cast over Icewind Dale (see "Epilogue").
+Unless Iriolarthas is destroyed, the demilich is already attuned to the *mythallar*. If Iriolarthas senses that another creature is trying to use the *mythallar*, it always disallows the attempt and flies to the *mythallar*'s location to discourage any further tampering with the device. Only by destroying the [demilich](3-Mechanics/CLI/bestiary/undead/demilich.md) can the characters use the *mythallar*'s properties unimpeded. The *mythallar*'s power to control the weather can undo the everlasting winter that Auril has cast over Icewind Dale (see "Epilogue").
 
 #### Y24. Tower of Enchantment
 
@@ -1061,7 +1051,7 @@ Unless Iriolarthas is destroyed, the demilich is already attuned to the *mythall
 > Ice has engulfed the lower floors of this crumbling tower. Pink light pours out of the highest window—a single point of illumination in a dark and out-of-the-way region of the city.
 ^6bd
 
-A detect magic spell cast here reveals an aura of enchantment magic. The interior walls are covered with the following sentence in Draconic crudely written with pitch over and over: "All work and no play make Ivira a dull girl." The floor is strewn with pitch-covered buckets and mops frozen stiff by the cold.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell cast here reveals an aura of enchantment magic. The interior walls are covered with the following sentence in Draconic crudely written with pitch over and over: "All work and no play make Ivira a dull girl." The floor is strewn with pitch-covered buckets and mops frozen stiff by the cold.
 
 As the party explores higher up in the tower, the recurring phrase changes to: "I am Ivira. Ivira is my name." These words are written in wine stains, and the floor is littered with empty wine bottles.
 
@@ -1072,21 +1062,21 @@ Painted in blood above the door leading to the uppermost chamber are the words "
 > An elderly woman sits rigidly on a black throne, shrouded in ice. She wears a crown of entwined iron tentacles, and her forehead is bruised where the band fits tightly against her skull. An inscription decorates the wall behind her.
 ^6be
 
-This chamber is lit by pink continual flame spells flickering in sconces.
+This chamber is lit by pink [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells flickering in sconces.
 
-At the height of her power, the archmage Ivira wore a magic crown to shield her mind against mental attacks. When Ythryn crashed and magic was momentarily undone, Ivira's crown became corrupted and began to siphon away her memories. She has endured centuries as a husk of her former self, kept alive by the magic of her crown. In her current state, she is stunned.
+At the height of her power, the archmage Ivira wore a magic crown to shield her mind against mental attacks. When Ythryn crashed and magic was momentarily undone, Ivira's crown became corrupted and began to siphon away her memories. She has endured centuries as a husk of her former self, kept alive by the magic of her crown. In her current state, she is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned).
 
-A character who succeeds on a DC 12 Wisdom (Medicine) check can tell that Ivira is still alive. Her crown is cursed (see below). Removing it from her head causes Ivira to shudder and shed the ice that has formed around her. With the crown gone, her body rapidly deteriorates, as the centuries take their toll. Ivira has only a few seconds before she dies and turns to dust; with her dying breath, she implores the characters in Loross (the dead Netherese tongue) to "destroy the crown... release my memories... let me have peace."
+A character who succeeds on a DC 12 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check can tell that Ivira is still alive. Her crown is cursed (see below). Removing it from her head causes Ivira to shudder and shed the ice that has formed around her. With the crown gone, her body rapidly deteriorates, as the centuries take their toll. Ivira has only a few seconds before she dies and turns to dust; with her dying breath, she implores the characters in Loross (the dead Netherese tongue) to "destroy the crown... release my memories... let me have peace."
 
 ##### Cursed Crown
 
-Ivira can't remove the crown from her head. Any other creature that touches it must succeed on a DC 17 Wisdom saving throw or become charmed by it and use its next action to don the crown. If the saving throw succeeds, the creature is immune to this effect of the crown for the next 24 hours.
+Ivira can't remove the crown from her head. Any other creature that touches it must succeed on a DC 17 Wisdom saving throw or become [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by it and use its next action to don the crown. If the saving throw succeeds, the creature is immune to this effect of the crown for the next 24 hours.
 
 From the moment it is donned, the crown begins to siphon memories from its wearer, starting with its earliest memories. The wearer can sense that its memories are being stolen but can't remove the crown from its head except within an antimagic field.
 
-After wearing the crown for 1 hour, a creature must succeed on a DC 15 Intelligence saving throw or be stunned until the crown is removed from its head by someone else. This saving throw is repeated at the end of each hour until either the crown has been removed or its wearer has become stunned. If a creature wears the crown for ten uninterrupted days, the condition becomes permanent, as the crown reduces its wearer to a mindless husk. A greater restoration spell or similar magic ends the effect and restores the creature's lost memories.
+After wearing the crown for 1 hour, a creature must succeed on a DC 15 Intelligence saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the crown is removed from its head by someone else. This saving throw is repeated at the end of each hour until either the crown has been removed or its wearer has become [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned). If a creature wears the crown for ten uninterrupted days, the condition becomes permanent, as the crown reduces its wearer to a mindless husk. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic ends the effect and restores the creature's lost memories.
 
-The crown can be destroyed on the *anvil of disjunction* (area Y4). It is otherwise impervious to damage. If the crown is destroyed, the memories it has absorbed flood over all creatures within 10 feet of it. Characters assailed by this barrage gain `dice:1d6|noform|noparens|avg` (`1d6`) pieces of lore from the Ythryn Lore table.
+The crown can be destroyed on the *anvil of disjunction* (area Y4). It is otherwise impervious to damage. If the crown is destroyed, the memories it has absorbed flood over all creatures within 10 feet of it. Characters assailed by this barrage gain `1d6` pieces of lore from the Ythryn Lore table.
 
 ##### Inscription
 
@@ -1108,7 +1098,7 @@ The four supporting columns have doors in their bases, which open into shafts th
 > The interior of the dome is illuminated by a swirling miasma of colors. Frozen human figures float in the air, cross-legged and serene.
 ^6c3
 
-Creatures in the dome gain a flying speed of 30 feet and can hover. The corpses of a dozen Netherese apprentices hover around this area, with their hands on their knees and their eyes closed. Characters who adopt this position can meditate by succeeding on a DC 12 Wisdom check. While meditating, a character can cast the project image spell (save DC 15). The spell lasts for 1 hour, and a character can perform the meditation once per day. To leave the dome, a character must stand at the top of one of the four shafts, to be transported down in a manner similar to how they arrived.
+Creatures in the dome gain a flying speed of 30 feet and can hover. The corpses of a dozen Netherese apprentices hover around this area, with their hands on their knees and their eyes closed. Characters who adopt this position can meditate by succeeding on a DC 12 Wisdom check. While meditating, a character can cast the [project image](3-Mechanics/CLI/spells/project-image.md) spell (save DC 15). The spell lasts for 1 hour, and a character can perform the meditation once per day. To leave the dome, a character must stand at the top of one of the four shafts, to be transported down in a manner similar to how they arrived.
 
 #### Y26. Tower of Transmutation
 
@@ -1126,13 +1116,13 @@ Describe the interior of the tower as follows:
 > The tower's interior walls are sculpted with impressions of humanoid forms pressing out from within—clawing hands and howling faces, captured in stone forever.
 ^6c6
 
-As Ythryn was about to fall out of the sky, High Transmuter Metaltra used a true polymorph spell to transform herself into something she thought would survive the city's destruction: an adamantine statue. An hour later, when the spell should have ended, nothing happened. Through no fault of her own, she had become a statue permanently. Only a wish spell can restore her, and then only briefly as she ages centuries in a matter of seconds.
+As Ythryn was about to fall out of the sky, High Transmuter Metaltra used a [true polymorph](3-Mechanics/CLI/spells/true-polymorph.md) spell to transform herself into something she thought would survive the city's destruction: an adamantine statue. An hour later, when the spell should have ended, nothing happened. Through no fault of her own, she had become a statue permanently. Only a [wish](3-Mechanics/CLI/spells/wish.md) spell can restore her, and then only briefly as she ages centuries in a matter of seconds.
 
 Characters who climb to the tower's peak find the statue of Metaltra lying in a corner. The statue depicts a woman in a wizard's robe, posed as if she is completing a spell. As her statue was being thrown about during the crash, it damaged part of an inscription on one wall.
 
 ##### Inscription
 
-The damaged inscription is a passage from the Rite of the Arcane Octad (see "Rite of the Arcane Octad"). Written in Draconic, it reads "Eighth, stand firm in thy circle of death and consume——." The missing word, destroyed by Metaltra's statue, is "poison." Characters who search the room for stone fragments can't find the pieces they need to identify the missing word, but casting a mending cantrip on the wall repairs the damage and reconstructs the missing word. If the characters don't have access to the mending cantrip, a divination spell or similar magic can be used to learn the missing word.
+The damaged inscription is a passage from the Rite of the Arcane Octad (see "Rite of the Arcane Octad"). Written in Draconic, it reads "Eighth, stand firm in thy circle of death and consume——." The missing word, destroyed by Metaltra's statue, is "poison." Characters who search the room for stone fragments can't find the pieces they need to identify the missing word, but casting a [mending](3-Mechanics/CLI/spells/mending.md) cantrip on the wall repairs the damage and reconstructs the missing word. If the characters don't have access to the [mending](3-Mechanics/CLI/spells/mending.md) cantrip, a [divination](3-Mechanics/CLI/spells/divination.md) spell or similar magic can be used to learn the missing word.
 
 ##### Treasure
 
@@ -1145,7 +1135,7 @@ Adventurers who search the uppermost chamber find a bag of beans in a small pile
 > This enormous, boot-shaped structure is capped with three pipes that resemble the arteries of a titanic heart. Tall doors open into the structure's dark interior.
 ^6ca
 
-Old posters are plastered to the outer walls of this music hall. Anyone who can read the Draconic script can translate the poster closest to the entrance: "Experience the Netherese Esoteric Orchestra's masterwork, *The Dark Between the Stars*!" A character who succeeds on a DC 15 Intelligence (History) check knows this legendary piece of music, as does any bard in the party. If the characters enter the music hall, read:
+Old posters are plastered to the outer walls of this music hall. Anyone who can read the Draconic script can translate the poster closest to the entrance: "Experience the Netherese Esoteric Orchestra's masterwork, *The Dark Between the Stars*!" A character who succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check knows this legendary piece of music, as does any bard in the party. If the characters enter the music hall, read:
 
 > [!readaloud] 
 > 
@@ -1158,11 +1148,11 @@ A conductor's baton rests on a lectern at the front of the stage. If a character
 
 ##### Conducting the Orchestra
 
-To conduct the orchestra through the end of their final symphony, a character must succeed on three consecutive DC 15 Charisma (Performance) checks made 1 minute apart. A character who knows The Dark Between the Stars gains advantage on each check.
+To conduct the orchestra through the end of their final symphony, a character must succeed on three consecutive DC 15 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) checks made 1 minute apart. A character who knows The Dark Between the Stars gains advantage on each check.
 
 On the first successful check, the orchestra launches into a hauntingly beautiful performance. If the next check succeeds, listeners experience a falling sensation in the pits of their stomachs, mirroring Ythryn's downward plunge, as the music reaches a crescendo. If the third and final check succeeds, the conductor brings the piece to a satisfying close as the sound of ghostly applause rises from the audience and phantasmal black roses rain down on the musicians, who face the audience and bow before fading into the afterlife. A character who successfully conducts the orchestra gains inspiration.
 
-On each failed check, the spirits become angry, and their antipathy toward the conductor deals `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) psychic damage to each creature in the music hall.
+On each failed check, the spirits become angry, and their antipathy toward the conductor deals 27 (`5d10`) psychic damage to each creature in the music hall.
 
 #### Y28. Skydock Spire
 
@@ -1173,7 +1163,7 @@ On each failed check, the spirits become angry, and their antipathy toward the c
 
 Skydock Spire stands 120 feet tall, and the glass chamber magically floats 30 feet above it. The chamber slowly rotates clockwise. The tower and the chamber are all that remain of a much larger facility that served principally as a dock for flying ships.
 
-Characters who enter the tower see a staircase coiling around its interior walls. From atop the ruined roof, a character using rope can make a successful DC 15 Strength (Athletics) check as an action to catch onto the rotating chamber, which is a 40-foot-diameter room made of glass that offers a panoramic view of the city. This chamber once served as an opulent and intimate meeting place for the upper echelons of Ythryn's society. Now it lies in ruin, with entrances lying open and the furnishings inside smashed.
+Characters who enter the tower see a staircase coiling around its interior walls. From atop the ruined roof, a character using rope can make a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check as an action to catch onto the rotating chamber, which is a 40-foot-diameter room made of glass that offers a panoramic view of the city. This chamber once served as an opulent and intimate meeting place for the upper echelons of Ythryn's society. Now it lies in ruin, with entrances lying open and the furnishings inside smashed.
 
 ##### Treasure
 
@@ -1190,7 +1180,7 @@ Characters who venture inside the museum find that statues and other objects of 
 
 ##### Lower Level
 
-Six [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md) are searching the lower level of the museum for relics. When they detect the entry of intruders, they converge on them and attack out of hunger.
+Six [nothics](3-Mechanics/CLI/bestiary/aberration/nothic.md) are searching the lower level of the museum for relics. When they detect the entry of intruders, they converge on them and attack out of hunger.
 
 ##### Upper Level
 
@@ -1203,9 +1193,9 @@ Characters who ascend the stairs to the upper level come across the following di
 > A frost-covered plaque is bolted to a pedestal nearby, and the entire display is framed by four stone pillars that are, oddly, frost-free.
 ^6d4
 
-![A spitting mimic's size al...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/190-07-008-mimic.webp#center "A spitting mimic's size allows it to assume such large forms as walls and pillars.")
+![A spitting mimic's size allows it to assume such large forms as walls and pillars.](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/190-07-008-mimic.webp#center)
 
-The pillars are four [spitting mimics](/3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md) (see appendix C) that guard the creature on display, attacking anyone who touches or otherwise disturbs it.
+The pillars are four [spitting mimics](3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md) (see appendix C) that guard the creature on display, attacking anyone who touches or otherwise disturbs it.
 
 The dead creature is a magically preserved phaerimm suspended from the ceiling by a dozen strong wires. If the characters wipe away the frost on the plaque, they can read what it says about the phaerimm in Draconic:
 
@@ -1220,17 +1210,17 @@ Characters who proceed farther into the upper floor can see the museum's domed c
 
 ## Dealing with the Arcane Brotherhood
 
-In this chapter, two wizards of the Arcane Brotherhood attempt to realize their grand ambitions: [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) and [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md). Both are described in appendix C.
+In this chapter, two wizards of the Arcane Brotherhood attempt to realize their grand ambitions: [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) and [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md). Both are described in appendix C.
 
-If the characters are having trouble solving a puzzle in Ythryn, such as how to deactivate the force field around the Spire of Iriolarthas, you can use Vellynne or [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) to help them. Both NPCs are highly intelligent and can help the characters arrive at a solution. You, as the DM, can use them to keep the adventure from grinding to a halt.
+If the characters are having trouble solving a puzzle in Ythryn, such as how to deactivate the force field around the Spire of Iriolarthas, you can use Vellynne or [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) to help them. Both NPCs are highly intelligent and can help the characters arrive at a solution. You, as the DM, can use them to keep the adventure from grinding to a halt.
 
-Both Vellynne and [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) will do almost anything to obtain Iriolarthas's spellbook, and they are only slightly less determined when it comes time to choose who gets Iriolarthas's staff of power, the [scroll of the comet](/3-Mechanics/CLI/items/scroll-of-the-comet-idrotf.md), and the [scroll of tarrasque summoning](/3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md).
+Both Vellynne and [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) will do almost anything to obtain Iriolarthas's spellbook, and they are only slightly less determined when it comes time to choose who gets Iriolarthas's staff of power, the [scroll of the comet](3-Mechanics/CLI/items/scroll-of-the-comet-idrotf.md), and the [scroll of tarrasque summoning](3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md).
 
-If the characters helped [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) become a real person in chapter 2 (see "Lost Spire of Netheril"), he might be present as well. Without a full complement of spells, Dzaan isn't nearly as helpful as Vellynne nor as dangerous as [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), but he's just as greedy and self-serving. Roleplay him accordingly.
+If the characters helped [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) become a real person in chapter 2 (see "Lost Spire of Netheril"), he might be present as well. Without a full complement of spells, Dzaan isn't nearly as helpful as Vellynne nor as dangerous as [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), but he's just as greedy and self-serving. Roleplay him accordingly.
 
 ### Vellynne's Help
 
-[Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) can use her comprehend languages spell to translate passages of Draconic script found throughout the necropolis, and her Leomund's tiny hut spell conjures an excellent refuge against the extreme cold. She tries to be as useful as possible while staking claim to her fair share of whatever treasure is found in Ythryn. She is particularly interested in magic items, especially those of a wizardly bent (such as Iriolarthas's staff of power).
+[Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) can use her [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md) spell to translate passages of Draconic script found throughout the necropolis, and her [Leomund's tiny hut](3-Mechanics/CLI/spells/leomunds-tiny-hut.md) spell conjures an excellent refuge against the extreme cold. She tries to be as useful as possible while staking claim to her fair share of whatever treasure is found in Ythryn. She is particularly interested in magic items, especially those of a wizardly bent (such as Iriolarthas's staff of power).
 
 #### Vellynne's Fall
 
@@ -1238,7 +1228,7 @@ If the characters part ways with Vellynne for any reason, she tries to explore Y
 
 ### Avarice's Arrival
 
-[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) (see appendix C) follows the characters through the Caves of Hunger to Ythryn, killing any NPCs they left behind to guard the caves. The albino tiefling wizard is joined by her two [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md), her [raven](/3-Mechanics/CLI/bestiary/beast/raven.md) familiar, twenty [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (members of the Knights of the Black Sword), and ten roped [mountain goats](/3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C) that the cultists use for food and to set off traps. If Huarwar Mulphoon and Fel Suparra are alive, they are among the cult fanatics (see area C6 for more information about these NPCs).
+[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) (see appendix C) follows the characters through the Caves of Hunger to Ythryn, killing any NPCs they left behind to guard the caves. The albino tiefling wizard is joined by her two [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md), her [raven](3-Mechanics/CLI/bestiary/beast/raven.md) familiar, twenty [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (members of the Knights of the Black Sword), and ten roped [mountain goats](3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C) that the cultists use for food and to set off traps. If Huarwar Mulphoon and Fel Suparra are alive, they are among the cult fanatics (see area C6 for more information about these NPCs).
 
 The Knights of the Black Sword speak Common and Infernal, and they have the following additional trait:
 
@@ -1246,21 +1236,21 @@ The Knights of the Black Sword speak Common and Infernal, and they have the foll
 
 When the cultist dies, its corpse freezes for 9 days, during which time it can't be thawed, harmed by fire, animated, or raised from the dead.
 
-[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) and her retinue enter the necropolis 12 hours after the party arrives. [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) immediately claims the floating chamber above Skydock Spire (area Y28) as her base of operations, using her fly spell to reach it, while the cult fanatics encamp around the base of the tower. [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s goal is simple: conquer Ythryn and claim its treasures for herself.
+[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) and her retinue enter the necropolis 12 hours after the party arrives. [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) immediately claims the floating chamber above Skydock Spire (area Y28) as her base of operations, using her [fly](3-Mechanics/CLI/spells/fly.md) spell to reach it, while the cult fanatics encamp around the base of the tower. [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s goal is simple: conquer Ythryn and claim its treasures for herself.
 
-From her refuge, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) divides her expedition into four hunting parties of five cult fanatics each, and sends them off to explore the ruins, using her raven familiar and the gargoyles as aerial scouts. The party can meet [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s minions anywhere in the necropolis (including inside the spire if the force field surrounding it is deactivated or suppressed). They have orders to attack the characters on sight.
+From her refuge, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) divides her expedition into four hunting parties of five cult fanatics each, and sends them off to explore the ruins, using her raven familiar and the gargoyles as aerial scouts. The party can meet [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s minions anywhere in the necropolis (including inside the spire if the force field surrounding it is deactivated or suppressed). They have orders to attack the characters on sight.
 
-Each time the party explores a new building, there is a 20 percent chance that one of [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s hunting parties is already inside or arrives while the party is searching its interior.
+Each time the party explores a new building, there is a 20 percent chance that one of [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s hunting parties is already inside or arrives while the party is searching its interior.
 
 #### Old Rivalries Die Hard
 
-If she becomes aware of Vellynne's presence in Ythryn, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) uses her raven familiar to deliver a written invitation to her rival, asking Vellynne to join her inside her floating lair. Vellynne accepts the invitation unless the characters strongly discourage her from doing so. There, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) coldly lays down her terms: abandon the necropolis within the hour. Conflict between members of the Arcane Brotherhood is forbidden, but [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) makes it clear she is willing to ignore the rules if nobody lives to find out. When Vellynne leaves the meeting, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) sends her familiar out to spy on her rival and see if her demands are met, which Vellynne has no intention of doing.
+If she becomes aware of Vellynne's presence in Ythryn, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) uses her raven familiar to deliver a written invitation to her rival, asking Vellynne to join her inside her floating lair. Vellynne accepts the invitation unless the characters strongly discourage her from doing so. There, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) coldly lays down her terms: abandon the necropolis within the hour. Conflict between members of the Arcane Brotherhood is forbidden, but [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) makes it clear she is willing to ignore the rules if nobody lives to find out. When Vellynne leaves the meeting, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) sends her familiar out to spy on her rival and see if her demands are met, which Vellynne has no intention of doing.
 
 #### Avarice as an Ally
 
-[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) is smart enough to ally with the characters if doing so might help her conquer Ythryn, but she won't join forces as long as [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is with them—she demands that they cast out her hated rival. If the characters oblige and banish Vellynne from their ranks, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) reciprocates by sharing `dice:1d4|noform|noparens|avg` (`1d4`) pieces of Ythryn lore she has learned (determine each piece by rolling on the Ythryn Lore table).
+[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) is smart enough to ally with the characters if doing so might help her conquer Ythryn, but she won't join forces as long as [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is with them—she demands that they cast out her hated rival. If the characters oblige and banish Vellynne from their ranks, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) reciprocates by sharing `1d4` pieces of Ythryn lore she has learned (determine each piece by rolling on the Ythryn Lore table).
 
-Unlike Vellynne, who accompanies the characters, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) prefers to remain in her glass chamber atop Skydock Spire and stay in touch with the characters remotely by using her Rary's telepathic bond spell. Once the characters find all the inscriptions they need to bypass the force field around the Spire of Iriolarthas, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) emerges from her base and accompanies them into the tower, eager to claim the treasures inside.
+Unlike Vellynne, who accompanies the characters, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) prefers to remain in her glass chamber atop Skydock Spire and stay in touch with the characters remotely by using her [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md) spell. Once the characters find all the inscriptions they need to bypass the force field around the Spire of Iriolarthas, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) emerges from her base and accompanies them into the tower, eager to claim the treasures inside.
 
 ## Auril's Wrath
 
@@ -1270,9 +1260,9 @@ Please review the information about the Frostmaiden in  appendix C before runnin
 
 ### The Frostmaiden's Forces
 
-When the Frostmaiden arrives in Ythryn, the temperature throughout the necropolis drops by several degrees. Auril is joined by three [frost giant skeletons](/3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md) (see appendix C), six [snow golems](/3-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md) (see appendix C), and a pack of six [winter wolves](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md). After sending her skeletons, golems, and wolves into the city in small groups to kill interlopers on sight, Auril shuts down the force field around the Spire of Iriolarthas by sheer force of her divine will and watches over the city from its high balcony (area Y19p). The force field remains deactivated until the last of Auril's forms is destroyed or until she leaves the spire.
+When the Frostmaiden arrives in Ythryn, the temperature throughout the necropolis drops by several degrees. Auril is joined by three [frost giant skeletons](3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md) (see appendix C), six [snow golems](3-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md) (see appendix C), and a pack of six [winter wolves](3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md). After sending her skeletons, golems, and wolves into the city in small groups to kill interlopers on sight, Auril shuts down the force field around the Spire of Iriolarthas by sheer force of her divine will and watches over the city from its high balcony (area Y19p). The force field remains deactivated until the last of Auril's forms is destroyed or until she leaves the spire.
 
-Any of [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s minions still patrolling the city are swiftly captured and dragged before the Frostmaiden. Auril murders each captive in turn and transforms the cultist into a [coldlight walker](/3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C). These undead horrors venture out into the necropolis to hunt down the living.
+Any of [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s minions still patrolling the city are swiftly captured and dragged before the Frostmaiden. Auril murders each captive in turn and transforms the cultist into a [coldlight walker](3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C). These undead horrors venture out into the necropolis to hunt down the living.
 
 ### Final Showdown
 
@@ -1280,8 +1270,8 @@ If the characters defeat most of Auril's minions, the god's cool voice echoes ac
 
 ## Summoning the Tarrasque
 
-Characters who find the [scroll of tarrasque summoning](/3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md) in the Spire of Iriolarthas might be sorely tempted to use it. [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md), an expert on the tarrasque, warns the characters about the uncontrollable nature of the monster and the danger it represents, but the *professor orb* also confesses that it would love to observe the tarrasque firsthand.
+Characters who find the [scroll of tarrasque summoning](3-Mechanics/CLI/items/scroll-of-tarrasque-summoning-idrotf.md) in the Spire of Iriolarthas might be sorely tempted to use it. [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md), an expert on the tarrasque, warns the characters about the uncontrollable nature of the monster and the danger it represents, but the *professor orb* also confesses that it would love to observe the tarrasque firsthand.
 
-If summoned in Ythryn, the [tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) destroys everything in sight before smashing its way through the Caves of Hunger and continuing its rampage across Icewind Dale, inevitably putting Ten-Towns in peril. The mountains to the south, the sea to the north and west, and the towering glacier to the east contain the tarrasque for a while. The extreme cold also makes the creature lethargic. It might take months, but the hungry tarrasque eventually makes its way southward through the mountain pass, imperiling the rest of the Sword Coast, if nothing is done to curtail its rampage.
+If summoned in Ythryn, the [tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) destroys everything in sight before smashing its way through the Caves of Hunger and continuing its rampage across Icewind Dale, inevitably putting Ten-Towns in peril. The mountains to the south, the sea to the north and west, and the towering glacier to the east contain the tarrasque for a while. The extreme cold also makes the creature lethargic. It might take months, but the hungry tarrasque eventually makes its way southward through the mountain pass, imperiling the rest of the Sword Coast, if nothing is done to curtail its rampage.
 
 If summoned on Auril's island, the tarrasque is trapped there by the deep, churning Sea of Moving Ice. The behemoth lays waste to Grimskalle and everything else on the island before sinking into a deep hibernation. Auril, if she survives, is forced to abandon her island lair and find a new refuge.

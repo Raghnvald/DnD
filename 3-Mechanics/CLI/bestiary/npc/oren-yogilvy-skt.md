@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/small
-- new/monster/type/humanoid/strongheart-halfling
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/strongheart-halfling
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oren Yogilvy
+- "Oren Yogilvy"
 ---
-# [Oren Yogilvy](3-Mechanics\CLI\bestiary\npc/oren-yogilvy-skt.md)
+# [Oren Yogilvy](3-Mechanics/CLI/bestiary/npc/oren-yogilvy-skt.md)
 *Source: Storm King's Thunder p. 252*  
 
 Oren came to Northfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wanders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't have a mean bone in his body.
@@ -42,13 +42,15 @@ Flaw:"I have a knack for putting myself in harm's way. Good thing I'm lucky!"
   - !!int "16"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Performance"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+7"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
 "damage_resistances": "poison"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Halfling"
 "traits":
@@ -75,6 +77,6 @@ Flaw:"I have a knack for putting myself in harm's way. Good thing I'm lucky!"
     "name": "Dagger"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/oren-yogilvy-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/oren-yogilvy-skt.webp"
 ```
 ^statblock

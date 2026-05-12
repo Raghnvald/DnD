@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/forgotten-realms
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Sune
+aliases:
+- "Sune"
 ---
 # Sune
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

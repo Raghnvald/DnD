@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Empyrean
+- "Empyrean"
 ---
-# [Empyrean](3-Mechanics\CLI\bestiary\miscellaneous/empyrean-xmm.md)
+# [Empyrean](3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md)
 *Source: Monster Manual (2024) p. 113*  
 
 Inheritors of divine might, empyreans are idealized, human-shaped beings of godly power. These beings might have relationships with their creators akin to those of parents and their children, royalty and their servants, inventors and their creations, or other bonds. Empyreans' existences are fundamentally influenced by their patrons and their connection to the heavenly deities of the Upper Planes or the fiendish deities of the Lower Planes. Nevertheless, empyreans have free will.
@@ -25,13 +25,11 @@ Celestial empyreans are typically noble beings who quest to prove themselves wor
 *Scions of the Gods*
 
 - **Habitat.** Any  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Empyreans are the spawn of deities. While not gods themselves, they possess divine influence and powers related to their divine parents. Some empyreans are near-demigods with fantastic might and the power to reshape mortal lives. Others are little more than divine thoughts or moments of immortal attention made manifest. Whether empyreans are idealized beings or vestiges of divinity, their appearances are influenced by their creators. Roll on or choose a result from the Empyrean Influences table to inspire what aspects of an empyrean's heritage manifest in its physical form.
 
 **Empyrean Influences**
-
-`dice: [](empyrean-xmm.md#^empyrean-influences)`
 
 | dice: 1d6 | The Empyrean Has Features That Are... |
 |-----------|---------------------------------------|
@@ -69,66 +67,66 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - "strength": !!int "17"
   - "wisdom": !!int "13"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+13"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, radiant"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 23"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 23"
 "languages": "all"
 "cr": "23"
 "traits":
   - "desc": "If the empyrean fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (4/Day)"
-  - "desc": "The empyrean has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The empyrean has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The empyrean makes two attacks, using Sacred Weapon or Divine Ray in\
       \ any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +17, reach 10 ft. *Hit:* 31 (6d6 + 10) Force damage,\
-      \ and the target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition\
-      \ until the start of the empyrean's next turn. The target can choose not to\
-      \ be [Stunned](/3-Mechanics/CLI/conditions.md#Stunned), in which case it takes\
-      \ an extra 21 Force damage that bypasses [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md)\
-      \ or [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)."
+  - "desc": "*Melee Attack Roll:* +17, reach 10 ft. *Hit:* 31 (6d6 + 10) Force\
+      \ damage, and the target has the [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ condition until the start of the empyrean's next turn. The target can choose\
+      \ not to be [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), in which\
+      \ case it takes an extra 21 Force damage that bypasses [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md)\
+      \ or [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)."
     "name": "Sacred Weapon"
   - "desc": "*Ranged Attack Roll:* +15, range 600 ft. *Hit:* 35 (6d8 + 8) Necrotic\
       \ or Radiant damage (empyrean's choice)."
     "name": "Divine Ray"
   - "desc": "The empyrean casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 23):\n\
-      \n**At will:** [Calm Emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
-      \ [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-      \ [Pass without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md),\
-      \ [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md)\n\n**1/day\
-      \ each:** [Commune](/3-Mechanics/CLI/spells/commune-xphb.md), [Dispel Evil and\
-      \ Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)"
+      \n**At will:** [Calm Emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
+      \ [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [Pass without Trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [Water\
+      \ Breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)\n\n**1/day each:**\
+      \ [Commune](3-Mechanics/CLI/spells/commune-xphb.md), [Dispel Evil and Good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
+      \ [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the empyrean can expend a use to take one of the following actions. The\
   \ empyrean regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The empyrean gains 10 [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md),\
-      \ and the empyrean and each ally within 30 feet of it gain [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) until the\
-      \ end of the empyrean's next turn. The empyrean can't take this action again\
+  - "desc": "The empyrean gains 10 [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md),\
+      \ and the empyrean and each ally within 30 feet of it gain [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ on [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) until\
+      \ the end of the empyrean's next turn. The empyrean can't take this action again\
       \ until the start of its next turn."
     "name": "Bolster"
-  - "desc": "*Constitution Saving Throw:* DC 23, each creature in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the empyrean. *Failure:* 27 (6d8) Force damage, and the target\
-      \ has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition. *Success:*\
-      \ Half damage only. *Failure or Success:* The empyrean can't take this action\
-      \ again until the start of its next turn."
+  - "desc": "*Constitution Saving Throw:* DC 23, each creature in a 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the empyrean. *Failure:* 27 (6d8) Force damage, and the\
+      \ target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition.\
+      \ *Success:* Half damage only. *Failure or Success:* The empyrean can't take\
+      \ this action again until the start of its next turn."
     "name": "Shockwave of Glory"
   - "desc": "The empyrean makes one Divine Ray attack."
     "name": "Smite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/miscellaneous/token/empyrean-xmm.webp"
 ```
 ^statblock
 

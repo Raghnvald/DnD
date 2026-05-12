@@ -13,14 +13,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Wasp
+- "Giant Wasp"
 ---
-# [Giant Wasp](3-Mechanics\CLI\bestiary\beast/giant-wasp-xmm.md)
+# [Giant Wasp](3-Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md)
 *Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Wasp (XMM)"
@@ -47,12 +47,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ enemy's reach."
     "name": "Flyby"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage\
-      \ plus 5 (2d4) Poison damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage plus 5 (2d4) Poison damage."
     "name": "Sting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-wasp-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-wasp-xmm.webp"
 ```
 ^statblock
 

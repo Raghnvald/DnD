@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clay Golem
+- "Clay Golem"
 ---
-# [Clay Golem](3-Mechanics\CLI\bestiary\construct/clay-golem.md)
+# [Clay Golem](3-Mechanics/CLI/bestiary/construct/clay-golem.md)
 *Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
@@ -27,7 +27,7 @@ Clay golems are often divinely endowed with purpose by priests of great faith. H
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [manual of golems](/3-Mechanics/CLI/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a manual of golems. The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -45,7 +45,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -71,11 +71,11 @@ A golem doesn't require air, food, drink, or sleep.
 "speed": "20 ft."
 "damage_immunities": "acid; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
 "traits":
@@ -104,7 +104,7 @@ A golem doesn't require air, food, drink, or sleep.
       \ on a DC 15 Constitution saving throw or have its hit point maximum reduced\
       \ by an amount equal to the damage taken. The target dies if this attack reduces\
       \ its hit point maximum to 0. The reduction lasts until removed by the  [greater\
-      \ restoration](/3-Mechanics/CLI/spells/greater-restoration.md) spell or other\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or other\
       \ magic."
     "name": "Slam"
   - "desc": "Until the end of its next turn, the golem magically gains a +2 bonus\
@@ -113,6 +113,6 @@ A golem doesn't require air, food, drink, or sleep.
     "name": "Haste (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/clay-golem.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/clay-golem.webp"
 ```
 ^statblock

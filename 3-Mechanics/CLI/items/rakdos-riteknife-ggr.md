@@ -8,27 +8,27 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Rakdos Riteknife"
 ---
 # Rakdos Riteknife
-*Weapon ([dagger](/3-Mechanics/CLI/items/dagger-xphb.md)), legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/rakdos-riteknife.webp#right)
+*Weapon (dagger), legendary (requires attunement)*  
+![](3-Mechanics/CLI/items/img/rakdos-riteknife.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Light, Thrown
 - **Weight**: 1.0 lbs.
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. Its blade is cruelly serrated, and its hilt resembles a demonic head and wings. Whenever you slay a creature with an attack using the dagger, the creature's soul is imprisoned inside the dagger, and that creature can be restored to life only by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell. The dagger can hold a maximum of five souls.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. Its blade is cruelly serrated, and its hilt resembles a demonic head and wings. Whenever you slay a creature with an attack using the dagger, the creature's soul is imprisoned inside the dagger, and that creature can be restored to life only by a wish spell. The dagger can hold a maximum of five souls.
 
-For each soul imprisoned in the dagger, your attacks with it deal an extra `dice:1d4|noform|noparens|avg` (`1d4`) necrotic damage on a hit. While the dagger is within 5 feet of you, your dreams are haunted by whispers from the trapped souls.
+For each soul imprisoned in the dagger, your attacks with it deal an extra `1d4` necrotic damage on a hit. While the dagger is within 5 feet of you, your dreams are haunted by whispers from the trapped souls.
 
 The dagger has the following additional properties.
 
 ## Siphon Vitality
 
-As a bonus action, you can release any number of stored souls from the dagger to regain `dice:1d10|noform|noparens|avg` (`1d10`) hit points per soul released.
+As a bonus action, you can release any number of stored souls from the dagger to regain `1d10` hit points per soul released.
 
 ## Annihilation
 

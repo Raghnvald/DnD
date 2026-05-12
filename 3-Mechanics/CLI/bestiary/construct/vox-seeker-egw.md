@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vox Seeker
+- "Vox Seeker"
 ---
-# [Vox Seeker](3-Mechanics\CLI\bestiary\construct/vox-seeker-egw.md)
+# [Vox Seeker](3-Mechanics/CLI/bestiary/construct/vox-seeker-egw.md)
 *Source: Explorer's Guide to Wildemount p. 270*  
 
 ```statblock
@@ -34,12 +34,9 @@ aliases:
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 10"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
+  \ petrified, poisoned"
+"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "traits":
@@ -51,11 +48,11 @@ aliases:
       \ ceilings, without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ piercing damage plus 3 lightning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) piercing damage plus 3 lightning damage."
     "name": "Pincer"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/vox-seeker-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/vox-seeker-egw.webp"
 ```
 ^statblock

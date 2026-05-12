@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Appendix B: Adventure Hooks; Adventure Hooks
+- "Appendix B: Adventure Hooks; Adventure Hooks"
 ---
 # Appendix B: Adventure Hooks; Adventure Hooks
 *Source: Bigby Presents: Glory of the Giants p. 192* 
 
 **Adventure Hooks**
-
-`dice: [](appendix-b-adventure-hooks-adventure-hooks-bgg.md#^adventure-hooks)`
 
 | dice: d100 | Adventure Hook Table or Text |
 |------------|------------------------------|

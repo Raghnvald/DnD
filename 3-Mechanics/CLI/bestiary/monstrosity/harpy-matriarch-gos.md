@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harpy Matriarch
+- "Harpy Matriarch"
 ---
-# [Harpy Matriarch](3-Mechanics\CLI\bestiary\monstrosity/harpy-matriarch-gos.md)
+# [Harpy Matriarch](3-Mechanics/CLI/bestiary/monstrosity/harpy-matriarch-gos.md)
 *Source: Ghosts of Saltmarsh p. 237*  
 
 Happy to watch its flock squabble over carrion in Tammeraut's Fate, this gray-feathered matron of the harpies is surrounded by a cloud of magical spirits resembling skeletal seabirds.
@@ -85,6 +85,6 @@ Happy to watch its flock squabble over carrion in Tammeraut's Fate, this gray-fe
     "name": "Visage of Desire (1/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/harpy-matriarch-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/harpy-matriarch-gos.webp"
 ```
 ^statblock

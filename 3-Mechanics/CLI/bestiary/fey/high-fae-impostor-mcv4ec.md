@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- High Fae Impostor
+- "High Fae Impostor"
 ---
-# [High Fae Impostor](3-Mechanics\CLI\bestiary\fey/high-fae-impostor-mcv4ec.md)
+# [High Fae Impostor](3-Mechanics/CLI/bestiary/fey/high-fae-impostor-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae impostors are sly and mischievous manipulators who delight in disguising themselves with magic to vex other creatures. Their reasons for deception vary, ranging from harmless pranks to malicious infiltration. When a high fae impostor takes on the identity of another creature, the impostor magically gains access to a small portion of that creature's mind—any information that the creature might share with a casual acquaintance. Though not comprehensive, this information helps high fae impostors impersonate their targets effectively.
@@ -50,14 +50,15 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
   - "dexterity": !!int "9"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+14"
-  - "name": "Performance"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+10"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+13"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Sylvan"
 "cr": "11"
 "traits":
@@ -72,14 +73,15 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Fae Blade"
   - "desc": "The high fae targets one creature it can see within 60 feet of itself\
       \ with a magical trick. The target must make a DC 18 Wisdom saving throw. On\
-      \ a failed save, the target takes 21 (6d6) psychic damage and has the frightened\
+      \ a failed save, the target takes 21 (6d6) psychic damage and has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the start of the high fae's next turn. On a successful save,\
       \ the target takes half as much damage only."
     "name": "Vexing Prank"
   - "desc": "The high fae casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
-      \n**At will:** friends, minor illusion\n\n**1/day each:** enthrall, Nystul's\
-      \ magic aura"
+      \n**At will:** [friends](3-Mechanics/CLI/spells/friends.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
+      \n**1/day each:** [enthrall](3-Mechanics/CLI/spells/enthrall.md), [Nystul's\
+      \ magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The high fae magically transforms into a duplicate of a Small or Medium\
@@ -92,6 +94,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Loot Likeness"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/high-fae-impostor-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-impostor-mcv4ec.webp"
 ```
 ^statblock

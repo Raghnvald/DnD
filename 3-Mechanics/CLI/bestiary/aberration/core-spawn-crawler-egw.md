@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Crawler
+- "Core Spawn Crawler"
 ---
-# [Core Spawn Crawler](3-Mechanics\CLI\bestiary\aberration/core-spawn-crawler-egw.md)
+# [Core Spawn Crawler](3-Mechanics/CLI/bestiary/aberration/core-spawn-crawler-egw.md)
 *Source: Explorer's Guide to Wildemount p. 286*  
 
 The smallest and most numerous of the core spawn, these eyeless creatures scurry through the subterranean darkness with the help of their four irregular, gangly arms and hooked prehensile tails. Core spawn crawlers rarely travel alone, and a group of these agile predators is known as a vein of crawlers. Their clattering taloned limbs warn of their presence as they scuttle through the shadow-haunted depths of the earth.
@@ -43,36 +43,35 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_immunities": "psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), tremorsense 60 ft., passive Perception 15"
+"condition_immunities": "blinded"
+"senses": "blindsight 30 ft. (blind beyond this radius), tremorsense 60 ft., passive\
+  \ Perception 15"
 "languages": "understands Deep Speech but can't speak"
 "cr": "1"
 "traits":
   - "desc": "The crawler has advantage on an attack roll against a creature if at\
       \ least one of the crawler's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ ally isn't incapacitated."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The crawler makes four attacks: one with its bite, two with its claws,\
       \ and one with its tail."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage and the target must succeed on a DC 11 Wisdom saving\
-      \ throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) until\
-      \ the start of the crawler's next turn."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage and the target must succeed on a DC 11 Wisdom\
+      \ saving throw or become frightened until the start of the crawler's next turn."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 15 ft., one target. *Hit:* 4\
-      \ (1d4 + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 15 ft., one target. *Hit:*\
+      \ 4 (1d4 + 2) slashing damage."
     "name": "Claws"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 15 ft., one target. *Hit:* 5\
-      \ (1d6 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 15 ft., one target. *Hit:*\
+      \ 5 (1d6 + 2) piercing damage."
     "name": "Tail"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/core-spawn-crawler-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/core-spawn-crawler-egw.webp"
 ```
 ^statblock

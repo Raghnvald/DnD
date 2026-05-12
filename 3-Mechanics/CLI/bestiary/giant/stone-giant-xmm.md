@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Giant
+- "Stone Giant"
 ---
-# [Stone Giant](3-Mechanics\CLI\bestiary\giant/stone-giant-xmm.md)
+# [Stone Giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md)
 *Source: Monster Manual (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Stone Giant
@@ -22,7 +22,7 @@ aliases:
 *Giant of the Earth*
 
 - **Habitat.** Mountain, Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 In cavernous depths and amid mountain canyons, stone giants contemplate the strength and persistence of the earth. Stone giants have rugged features and skin with patterns and hues similar to the rock common near their homes. This makes them adept at blending in with their stony surroundings despite their size.
 
@@ -52,14 +52,14 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Giant"
 "cr": "7"
 "actions":
@@ -69,20 +69,20 @@ Stone giants often ponder the mysteries of natural wonders, such as mountain spi
       \ damage."
     "name": "Stone Club"
   - "desc": "*Ranged Attack Roll:* +9, range 60/240 ft. *Hit:* 15 (2d8 + 6) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Boulder"
 "reactions":
   - "desc": "Trigger: The giant is hit by a ranged attack roll and takes Bludgeoning,\
       \ Piercing, or Slashing damage from it. _Response:_ The giant reduces the damage\
-      \ it takes from the attack by 11 (1d10 + 6), and if that damage is reduced to\
-      \ 0, the giant can redirect some of the attack's force. *Dexterity Saving Throw:*\
-      \ DC 17, one creature the giant can see within 60 feet. *Failure:* 11 (1d10\
-      \ + 6) Force damage."
+      \ it takes from the attack by 11 (1d10 + 6), and if that damage is reduced\
+      \ to 0, the giant can redirect some of the attack's force. *Dexterity Saving\
+      \ Throw:* DC 17, one creature the giant can see within 60 feet. *Failure:* 11\
+      \ (1d10 + 6) Force damage."
     "name": "Deflect Missile (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/stone-giant-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/stone-giant-xmm.webp"
 ```
 ^statblock
 

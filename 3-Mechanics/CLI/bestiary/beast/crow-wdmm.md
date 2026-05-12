@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crow
+- "Crow"
 ---
-# [Crow](3-Mechanics\CLI\bestiary\beast/crow-wdmm.md)
+# [Crow](3-Mechanics/CLI/bestiary/beast/crow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 302*  
 
 ```statblock
@@ -33,7 +33,7 @@ aliases:
   - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -41,14 +41,15 @@ aliases:
 "traits":
   - "desc": "The crow can mimic simple sounds it has heard, such as a person whispering,\
       \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-      \ tell they are imitations with a successful DC 10 Wisdom (Insight) check."
+      \ tell they are imitations with a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
+      \ check."
     "name": "Mimicry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Beak"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/crow-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/crow-wdmm.webp"
 ```
 ^statblock

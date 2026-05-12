@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Exethanter
+- "Exethanter"
 ---
-# [Exethanter](3-Mechanics\CLI\bestiary\npc/exethanter-cos.md)
+# [Exethanter](3-Mechanics/CLI/bestiary/npc/exethanter-cos.md)
 *Source: Curse of Strahd p. 189*  
 
 ```statblock
@@ -38,29 +38,25 @@ aliases:
   - "intelligence": !!int "12"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+19"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+12"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"senses": "truesight 120 ft., passive Perception 19"
 "languages": "Common plus up to five other languages"
 "cr": "10"
 "traits":
   - "desc": "Exethanter is an 18th-level spellcaster. Its spellcasting ability is\
       \ Intelligence (spell save DC 20, +12 to hit with spell attacks). Exethanter\
-      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [mage\
-      \ hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
-      \ [ray of frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md)"
+      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** mage\
+      \ hand, prestidigitation, ray of frost"
     "name": "Spellcasting"
   - "desc": "If Exethanter fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -72,11 +68,10 @@ aliases:
       \ undead."
     "name": "Turn Resistance"
 "actions":
-  - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (3d6) cold damage. The target must succeed on a DC 18 Constitution saving\
-      \ throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute.\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+  - "desc": "*Melee Spell Attack:* +12 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving\
+      \ throw or be paralyzed for 1 minute. The target can repeat the saving throw\
+      \ at the end of each of its turns, ending the effect on itself on a success."
     "name": "Paralyzing Touch"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Exethanter can expend a use to take one of the following actions. Exethanter\
@@ -88,11 +83,10 @@ aliases:
     "name": "Paralyzing Touch (Costs 2 Actions)"
   - "desc": "Exethanter fixes its gaze on one creature it can see within 10 feet of\
       \ it. The target must succeed on a DC 18 Wisdom saving throw against this magic\
-      \ or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) for 1 minute.\
-      \ The [frightened](/3-Mechanics/CLI/conditions.md#Frightened) target can repeat\
-      \ the saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a success. If a target's saving throw is successful or the effect ends\
-      \ for it, the target is immune to Exethanter's gaze for the next 24 hours."
+      \ or become frightened for 1 minute. The frightened target can repeat the saving\
+      \ throw at the end of each of its turns, ending the effect on itself on a success.\
+      \ If a target's saving throw is successful or the effect ends for it, the target\
+      \ is immune to Exethanter's gaze for the next 24 hours."
     "name": "Frightening Gaze (Costs 2 Actions)"
   - "desc": "Each non-undead creature within 20 feet of Exethanter must make a DC\
       \ 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic\
@@ -100,6 +94,6 @@ aliases:
     "name": "Disrupt Life (Costs 3 Actions)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/exethanter-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/exethanter-cos.webp"
 ```
 ^statblock

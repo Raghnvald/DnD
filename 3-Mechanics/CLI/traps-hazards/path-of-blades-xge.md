@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/cmpx
 aliases:
-- Path of Blades
+- "Path of Blades"
 ---
 # Path of Blades
 *Generic Hazard*  

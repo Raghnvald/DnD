@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
+- "Dragon Turtle Adventures; Dragon Turtle Adventure Hooks"
 ---
 # Dragon Turtle Adventures; Dragon Turtle Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 110* 
 
 **Dragon Turtle Adventure Hooks**
-
-`dice: [](dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd.md#^dragon-turtle-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

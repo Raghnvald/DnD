@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "+2 Amulet of the Devout"
 ---
 # +2 Amulet of the Devout

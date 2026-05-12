@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hippogriff
+- "Hippogriff"
 ---
-# [Hippogriff](3-Mechanics\CLI\bestiary\monstrosity/hippogriff-xmm.md)
+# [Hippogriff](3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md)
 *Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hippogriff
@@ -30,8 +30,6 @@ Part hunting bird, part horse, hippogriffs are majestic creatures that hunt oppo
 Hippogriff migrations might take months or years, and sages frequently predict their routes. Roll on or choose a result from the Hippogriff Destination table to inspire where a hippogriff might be en route to.
 
 **Hippogriff Destination**
-
-`dice: [](hippogriff-xmm.md#^hippogriff-destination)`
 
 | dice: 1d6 | The Hippogriff Is Traveling to A... |
 |-----------|-------------------------------------|
@@ -61,7 +59,7 @@ Hippogriff migrations might take months or years, and sages frequently predict t
   - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": ""
@@ -73,11 +71,12 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 "actions":
   - "desc": "The hippogriff makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing\
+      \ damage."
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hippogriff-xmm.webp"
 ```
 ^statblock
 

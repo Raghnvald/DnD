@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barrowghast
+- "Barrowghast"
 ---
-# [Barrowghast](3-Mechanics\CLI\bestiary\undead/barrowghast-bgg.md)
+# [Barrowghast](3-Mechanics/CLI/bestiary/undead/barrowghast-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 121*  
 
 A hill giant who dies with an empty stomach, full of rage and regret, might become suffused with energy from the Negative Plane and rise as a barrowghast. Though it looks like little more than an animated corpse, a barrowghast is filled with necrotic energy and driven by spite and malice. Its blood is a thick and toxic ichor that gives the barrowghast a noxious stench.
@@ -38,17 +38,14 @@ Barrowghasts no longer hunger for physical food and instead crave life energy dr
   - !!int "6"
 "speed": "40 ft."
 "damage_resistances": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Giant"
 "cr": "7"
 "traits":
   - "desc": "Any creature that starts its turn within 10 feet of the barrowghast must\
       \ make a DC 16 Constitution saving throw. On a failed save, the creature has\
-      \ the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition for 1 minute.\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) this way, the creature\
+      \ the poisoned condition for 1 minute. While poisoned this way, the creature\
       \ can't regain hit points. On a successful save, the creature is immune to the\
       \ Stench of all barrowghasts for 24 hours."
     "name": "Stench"
@@ -56,8 +53,8 @@ Barrowghasts no longer hunger for physical food and instead crave life energy dr
   - "desc": "The barrowghast makes two Slam attacks. It can replace one Slam attack\
       \ with a Life Drain attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d12 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d12 + 5) bludgeoning damage."
     "name": "Slam"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:*\
       \ 9 (1d8 + 5) necrotic damage, and the target must succeed on a DC 16 Constitution\
@@ -75,6 +72,6 @@ Barrowghasts no longer hunger for physical food and instead crave life energy dr
     "name": "Noxious Wound"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/barrowghast-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/barrowghast-bgg.webp"
 ```
 ^statblock

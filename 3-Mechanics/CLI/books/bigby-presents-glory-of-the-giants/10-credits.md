@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Bigby Presents: Glory of the Giants* 
@@ -44,11 +44,11 @@ aliases:
 
 Kim Mohan edited more D&D books and mentored more D&D writers than anyone in memory. His kindness and wit are woven into decades of the game, and he will influence its writers and editors for decades to come. This book is dedicated to his beloved memory.
 
-![](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/credits.webp#center)
+![](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Bigby's gras...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/credits2.webp#gallery "On the Cover: Bigby's grasping hand steals a giant goose's golden egg from its cloud giant keepers in this painting by Cynthia Sheppard.")
-> ![On the Alt-Cover: Bigby pl...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/credits3.webp#gallery "On the Alt-Cover: Bigby plays chess—a game whose Giant name translates to &quot;war of the stone kings&quot;—with a stone giant in this cover by Olena Richards.")
+> ![On the Cover: Bigby's grasping hand steals a giant goose's golden egg from its cloud giant keepers in this painting by Cynthia Sheppard.](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/credits2.webp#gallery)
+> ![On the Alt-Cover: Bigby plays chess—a game whose Giant name translates to &quot;war of the stone kings&quot;—with a stone giant in this cover by Olena Richards.](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/credits3.webp#gallery)
 
 > [!note]
 > Disclaimer: Bigby accepts no responsibility for injuries sustained by adventurers who seek out the glory of the giants without proper preparation, including but not limited to lightning strikes, falls from cloud castles, incineration, hypothermia, crushing boulders, or being sat upon.

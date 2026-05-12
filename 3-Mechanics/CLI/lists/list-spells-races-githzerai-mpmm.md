@@ -3,20 +3,20 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/race/githzerai
+- ttrpg-cli/spell/list/race/githzerai
 aliases:
-- Spells for Githzerai
+- "Spells for Githzerai"
 ---
 # Spells for Githzerai
 
 ## Cantrip
 
-- [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md "XPHB") at class level 5
+- [Mage Hand](3-Mechanics/CLI/spells/mage-hand.md "PHB") as cantrip
 
 ## 1st Level
 
-- [Shield](/3-Mechanics/CLI/spells/shield-xphb.md "XPHB") at class level 5
+- [Shield](3-Mechanics/CLI/spells/shield.md "PHB") at class level 3
 
 ## 2nd Level
 
-- [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5
+- [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts.md "PHB") at class level 5

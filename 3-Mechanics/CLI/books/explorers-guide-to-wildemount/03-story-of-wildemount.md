@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Story of Wildemount
+- "Story of Wildemount"
 ---
 # Story of Wildemount
 *Source: Explorer's Guide to Wildemount, p. 11* 
 
-![A monk of the Cobalt Soul ...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/003-00-04.webp#center "A monk of the Cobalt Soul sheds light on Wildemount's past for a band of young adventurers.")
+![A monk of the Cobalt Soul sheds light on Wildemount's past for a band of young adventurers.](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/003-00-04.webp#center)
 
 > [!quote] A quote from Archivist Adia Shu of the Cobalt Soul  
 > 
@@ -66,7 +66,7 @@ Evil was repulsed momentarily, but with the revelation of such a terrible foe, a
 
 For the first time since the Primordials were destroyed, the focus of magic was warfare. The gods themselves agreed to join their children on the field of battle, descending from the heavens to take up arms once more for the war now referred to as the Calamity.
 
-![The Calamity](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/004-01-01.webp#center)
+![The Calamity](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/004-01-01.webp#center)
 
 ### The Calamity
 
@@ -114,7 +114,7 @@ Small civilizations began to form amid the chaos, but it wasn't until the centra
 
 Increasing their strength with each generation, this movement guided by the Julous family became known as the Julous Dominion, stretching across the south end of Western Wynandir. Not all agreed to join the Julous Dominion, however. Some outliers rejected the Julous interests, founding their own village of Kamordah on the boiling earth of the hills in the southwest Marrow Valley. In time, the people of Kamordah came to worship a being of primordial fire that lives beneath the mountains and speaks to them in dreams and visions.
 
-![A Floating City from a Bygone Age](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/005-01-02.webp#center)
+![A Floating City from a Bygone Age](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/005-01-02.webp#center)
 
 #### Founding of the Dwendalian Empire
 
@@ -170,7 +170,7 @@ The few scattered survivors of the floods found shelter among the higher jungles
 
 Over time, an older mind began to call from the waters and entered their dreams. This powerful being, a leviathan creation abandoned by his creator Zehir in the Divergence, called himself Uk'otoa. He spoke of his divinity and promised protection to the Ki'Nau people in exchange for their worship. The Ki'Nau accepted the persuasive entity as an ally and protector, allowing Uk'otoa to rise up as the guardian of the islands and help the Ki'Nau become a proud society of warriors, establishing dominance over the region for centuries.
 
-![Uk'otoa assaults unwelcome...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/006-01-03.webp#center "Uk'otoa assaults unwelcome ships on the Lucidian Ocean")
+![Uk'otoa assaults unwelcome ships on the Lucidian Ocean](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/006-01-03.webp#center)
 
 #### The Marquesian Alliance
 
@@ -206,7 +206,7 @@ Taking pity on the survivors, the dwarves took in the elven refugees and offered
 
 Unfortunately, a township of criminals and outlaws has sprung up on the southern edge of the Savalirwood, just beyond the Dwendalian Empire. In addition to the dangerous denizens of this wretched thicket, which is known as Shadycreek Run, there are numerous raiders and thieves seeking relics from the ruins of the forest, escalating conflict throughout the region.
 
-![In the ruins of Ghor Drana...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/007-01-04.webp#center "In the ruins of Ghor Dranas, drow face the sun for the first time")
+![In the ruins of Ghor Dranas, drow face the sun for the first time](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/007-01-04.webp#center)
 
 ### Eastern Wynandir
 
@@ -238,7 +238,7 @@ As time passed, Vorugal and the entire Chroma Conclave were slain and the danger
 
 In the past century, the Dwendalian Empire has clashed with the Kryn Dynasty. Small skirmishes and slain soldiers on both sides deter expansion beyond the Ashkeeper Peaks, with each faction keeping a close eye on the other.
 
-Recently, the empire's interest in growing Kryn influence has led to increasing curiosity about the source of the Kryn's mysterious arcane capabilities. Dwendalian spies successfully stole two of four artifacts known as "[beacons](/3-Mechanics/CLI/items/luxon-beacon-egw.md)," which seemed to be powerful sources of the unique magical energy called dunamis. The Bright Queen Leylas Kryn began an initiative steal back the beacons and assault Dwendalian strongholds until these sacred relics are returned. Now, in 835 PD, the resulting skirmishes have escalated into all-out war. A fifth beacon has been recently uncovered by the Cerberus Assembly, and the violence threatens to grow past the Ashkeeper Peaks and embroil other denizens of Wildemount in the conflict.
+Recently, the empire's interest in growing Kryn influence has led to increasing curiosity about the source of the Kryn's mysterious arcane capabilities. Dwendalian spies successfully stole two of four artifacts known as "[beacons](3-Mechanics/CLI/items/luxon-beacon-egw.md)," which seemed to be powerful sources of the unique magical energy called dunamis. The Bright Queen Leylas Kryn began an initiative steal back the beacons and assault Dwendalian strongholds until these sacred relics are returned. Now, in 835 PD, the resulting skirmishes have escalated into all-out war. A fifth beacon has been recently uncovered by the Cerberus Assembly, and the violence threatens to grow past the Ashkeeper Peaks and embroil other denizens of Wildemount in the conflict.
 
 ## Pantheon of Exandria
 
@@ -250,16 +250,16 @@ The following gods, patrons, and titles are recommended as the existing pantheon
 
 The circle of Prime Deities includes the leaders and luminary creators that battled the Primordials and instigated the Founding, forging the mortal races of Exandria. They represent a spectrum of light, protection, love, death, and all other facets of freedom and life in the world. While some gods may disagree and squabble, they exist in a subtle alliance to maintain the sanctity of life and their respective creations.
 
-![Prime Deities](/3-Mechanics/CLI/tables/prime-deities-egw.md)
+![Prime Deities](3-Mechanics/CLI/tables/prime-deities-egw.md)
 
 ## Betrayer Gods
 
 The Betrayer Gods are the deities who strayed from the ideals of the Founding and embraced the destructive chaos of the Primordials or grew selfish of their own creations. The Betrayer Gods rarely work together, since they see each other as threats to their own plots and goals. This very weakness allowed the Prime Deities to defeat and banish them, ending the Calamity.
 
-![Betrayer Gods](/3-Mechanics/CLI/tables/betrayer-gods-egw.md)
+![Betrayer Gods](3-Mechanics/CLI/tables/betrayer-gods-egw.md)
 
 ## Lesser Idols
 
 After the banishment of the pantheon in the Divergence, the mortal realm was left to its own devices. Beyond the trickle of divine assistance allowed by the Divine Gate, mortal creatures are now the keepers of the future of Exandria. This vacuum of influence has given rise to a number of powerful entities who may not rival the gods in their abilities or influence, but now unchallenged, can amass a modest following of their own. These idols present themselves in many different ways, some as honorable guardians of the helpless, and others as the tyrannical gods they aspire to be. Many of these beings have ambitions they wish to fulfill and can offer great power to mortals in exchange for their servitude.
 
-![Lesser Idols](/3-Mechanics/CLI/tables/lesser-idols-egw.md)
+![Lesser Idols](3-Mechanics/CLI/tables/lesser-idols-egw.md)

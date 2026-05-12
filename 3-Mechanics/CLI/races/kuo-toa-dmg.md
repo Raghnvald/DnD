@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/kuo-toa
 aliases:
-- Kuo-Toa
+- "Kuo-Toa"
 ---
 # Kuo-Toa
 *Source: Dungeon Master's Guide p. 282*  
@@ -24,7 +24,7 @@ You can breathe air and water.
 
 ### Otherworldly Perception
 
-You can sense the presence of any creature within 30 feet of you that is [invisible](/3-Mechanics/CLI/conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
+You can sense the presence of any creature within 30 feet of you that is invisible or on the Ethereal Plane. You can pinpoint such a creature that is moving.
 
 ### Slippery
 
@@ -32,7 +32,7 @@ You have advantage on ability checks and saving throws made to escape a grapple.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ### Superior Darkvision
 

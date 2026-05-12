@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Syrania, the Azure Sky; Syrania Manifest Zone Features
+- "Syrania, the Azure Sky; Syrania Manifest Zone Features"
 ---
 # Syrania, the Azure Sky; Syrania Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 231* 
 
 **Syrania Manifest Zone Features**
-
-`dice: [](syrania-the-azure-sky-syrania-manifest-zone-features-erlw.md#^syrania-manifest-zone-features)`
 
 | dice: d4 | Feature |
 |----------|---------|

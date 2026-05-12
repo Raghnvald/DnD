@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lawmage
+- "Lawmage"
 ---
-# [Lawmage](3-Mechanics\CLI\bestiary\humanoid/lawmage-ggr.md)
+# [Lawmage](3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 228*  
 
 The Azorius Senate has spellcasters who are trained to capture lawbreakers and bring them to justice. A lawmage's magic is focused on restraining criminals and on protecting bystanders from becoming casualties when arresters are pursuing malefactors. A significant proportion of the guild's vedalken are lawmages.
@@ -24,7 +24,7 @@ The Azorius Senate has spellcasters who are trained to capture lawbreakers and b
 "subtype": "any race"
 "alignment": "Lawful Neutral"
 "ac": !!int "15"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "breastplate"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "1"
@@ -40,37 +40,33 @@ The Azorius Senate has spellcasters who are trained to capture lawbreakers and b
   - "intelligence": !!int "6"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+4"
+"gear":
+  - "quarterstaff"
 "senses": "passive Perception 15"
 "languages": "Common plus any one language"
 "cr": "6"
 "traits":
   - "desc": "The lawmage is an 8th-level Azorius spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 14, +6 to hit with spell attacks). The lawmage\
-      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [fire\
-      \ bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md), [friends](/3-Mechanics/CLI/spells/friends-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md)\n\
-      \n**1st level (4 slots):** [alarm](/3-Mechanics/CLI/spells/alarm-xphb.md), [expeditious\
-      \ retreat](/3-Mechanics/CLI/spells/expeditious-retreat-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md)\n\
-      \n**2nd level (3 slots):** [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md),\
-      \ [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [hold\
-      \ person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n**3rd level (3 slots):**\
-      \ [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [slow](/3-Mechanics/CLI/spells/slow-xphb.md)\n\n**4th level (2 slots):** [locate\
-      \ creature](/3-Mechanics/CLI/spells/locate-creature-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md)"
+      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** fire\
+      \ bolt, friends, light, message\n\n**1st level (4 slots):** alarm, expeditious\
+      \ retreat, shield\n\n**2nd level (3 slots):** arcane lock, detect thoughts,\
+      \ hold person\n\n**3rd level (3 slots):** clairvoyance, dispel magic, slow\n\
+      \n**4th level (2 slots):** locate creature, stoneskin"
     "name": "Spellcasting"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used\
+      \ with two hands."
     "name": "Quarterstaff"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lawmage-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lawmage-ggr.webp"
 ```
 ^statblock

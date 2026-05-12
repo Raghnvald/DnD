@@ -10,18 +10,18 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drowned Ascetic
+- "Drowned Ascetic"
 ---
-# [Drowned Ascetic](3-Mechanics\CLI\bestiary\undead/drowned-ascetic-gos.md)
+# [Drowned Ascetic](3-Mechanics/CLI/bestiary/undead/drowned-ascetic-gos.md)
 *Source: Ghosts of Saltmarsh p. 233*  
 
 Dressed in tattered robes, its fists wrapped in long rib bons of rotting cloth, the drowned ascetic moves with alarming speed for an undead creature. This martial artist, rising from the ocean in Tammeraut's Fate, retains its fighting reflexes despite its rotting flesh.
 
 ## Bluerot
 
-This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in `dice:1d4|noform|noparens|avg` (`1d4`) hours, causing the victim's Constitution and Charisma scores to decrease by `dice:1d4|noform|noparens|avg` (`1d4`) each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in `1d4` hours, causing the victim's Constitution and Charisma scores to decrease by `1d4` each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
 
-At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw. On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease. If the infected creature regains all the points lost to the disease, it is cured. Other effects that raise the victim's ability scores do not cure the disease. On a failed saving throw, the victim takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.
+At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw. On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease. If the infected creature regains all the points lost to the disease, it is cured. Other effects that raise the victim's ability scores do not cure the disease. On a failed saving throw, the victim takes 18 (`4d8`) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.
 
 ```statblock
 "name": "Drowned Ascetic (GoS)"
@@ -64,10 +64,10 @@ At the end of each long rest, an infected creature makes a DC 12 Constitution sa
 "actions":
   - "desc": "The drowned ascetic makes three unarmed strikes."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage, and the target must succeed on a DC 12 Constitution\
-      \ saving throw or contract [bluerot](/3-Mechanics/CLI/diseases.md#Bluerot) (see\
-      \ the \"Bluerot\" in notes)."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 12 Constitution\
+      \ saving throw or contract [bluerot](3-Mechanics/CLI/rules/diseases.md#Bluerot)\
+      \ (see the \"Bluerot\" in notes)."
     "name": "Unarmed Strike"
 "reactions":
   - "desc": "The drowned ascetic adds 3 to its AC against one ranged attack that would\
@@ -75,6 +75,6 @@ At the end of each long rest, an infected creature makes a DC 12 Constitution sa
     "name": "Dexterous Target"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/drowned-ascetic-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/drowned-ascetic-gos.webp"
 ```
 ^statblock

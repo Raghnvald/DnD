@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merfolk Salvager
+- "Merfolk Salvager"
 ---
-# [Merfolk Salvager](3-Mechanics\CLI\bestiary\humanoid/merfolk-salvager-gos.md)
+# [Merfolk Salvager](3-Mechanics/CLI/bestiary/humanoid/merfolk-salvager-gos.md)
 *Source: Ghosts of Saltmarsh p. 244*  
 
 Veterans of scouring the wrecks and ruins found in the deepest waters, these skilled warriors help defend their kin with rapier-like weapons of living coral. The salvagers escort other merfolk on scavenging missions, using their keen senses to detect danger. They are found allying with the lizardfolk in Danger at Dunwater.
@@ -60,6 +60,6 @@ Veterans of scouring the wrecks and ruins found in the deepest waters, these ski
     "name": "Inject Toxin (2/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/merfolk-salvager-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/merfolk-salvager-gos.webp"
 ```
 ^statblock

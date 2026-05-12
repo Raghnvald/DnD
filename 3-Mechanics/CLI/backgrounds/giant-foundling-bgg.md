@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Giant Foundling
+- "Giant Foundling"
 ---
 # Giant Foundling
 *Source: Bigby Presents: Glory of the Giants p. 6*  
-![A giant foundling is used to a larger world](/3-Mechanics/CLI/backgrounds/img/giant-foundling.webp#right)
+![A giant foundling is used to a larger world](3-Mechanics/CLI/backgrounds/img/giant-foundling.webp#right)
 
-- **Skill Proficiencies.** [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Skill Proficiencies.** Intimidation, Survival  
 - **Languages.** Giant and one other language of your choice  
-- **Equipment.** A [backpack](/3-Mechanics/CLI/items/backpack-xphb.md), a set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), a small stone or sprig that reminds you of home, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A backpack, a set of traveler's clothes, a small stone or sprig that reminds you of home, and a pouch containing 10 gp  
 
 Though you aren't a Giant, you grew up among giants. Maybe you were an orphan taken in by a sympathetic family of stone giants who raised you as one of their own. Or perhaps you lived in a lost prehistoric pocket of the world, surrounded by giants and fearsome behemoths or hulking dinosaurs.
 
@@ -25,8 +25,6 @@ Something about your environment—perhaps the food or water that sustained you,
 How you came to live among colossal creatures is up to you to determine, but the Foundling Origin table suggests a variety of possibilities.
 
 **Foundling Origin**
-
-`dice: [](giant-foundling-bgg.md#^foundling-origin)`
 
 | dice: d6 | Origin |
 |----------|--------|
@@ -44,13 +42,11 @@ Your life among giants has given you a unique perspective. Though you are unusua
 
 ## Feature: Strike of the Giants
 
-You gain the [Strike of the Giants](/3-Mechanics/CLI/feats/strike-of-the-giants-bgg.md) feat.
+You gain the [Strike of the Giants](3-Mechanics/CLI/feats/strike-of-the-giants-bgg.md) feat.
 
 ## Suggested Characteristics
 
 The Giant Foundling Personality Traits table suggests a variety of traits you might adopt for your character.
-
-`dice: [](giant-foundling-bgg.md#^personality-trait)`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

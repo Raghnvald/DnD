@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Erinyes (Rope of Entanglement)
+- "Erinyes (Rope of Entanglement)"
 ---
-# [Erinyes (Rope of Entanglement)](3-Mechanics\CLI\bestiary\fiend/erinyes-rope-of-entanglement.md)
-*Source: Monster Manual p. 73, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Erinyes (Rope of Entanglement)](3-Mechanics/CLI/bestiary/fiend/erinyes-rope-of-entanglement.md)
+*Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ```statblock
 "name": "Erinyes (Rope of Entanglement)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "3"
@@ -42,13 +42,17 @@ aliases:
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
-  - "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison\
-      \ damage on a hit (included in the attacks)."
+  - "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8)\
+      \ poison damage on a hit (included in the attacks)."
     "name": "Hellish Weapons"
   - "desc": "The erinyes has advantage on saving throws against spells and other magical\
       \ effects."
@@ -59,14 +63,15 @@ aliases:
   - "desc": "The erinyes makes three attacks. It can use its rope of entanglement\
       \ in place of two of the attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
-      \ plus 13 (3d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with\
+      \ two hands, plus 13 (3d8) poison damage."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts\
-      \ until it is removed by the lesser restoration spell or similar magic."
+      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target\
+      \ must succeed on a DC 14 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ The poison lasts until it is removed by the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\
+      \ spell or similar magic."
     "name": "Longbow"
 "reactions":
   - "desc": "The erinyes adds 4 to its AC against one melee attack that would hit\
@@ -74,6 +79,5 @@ aliases:
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
 ```
 ^statblock

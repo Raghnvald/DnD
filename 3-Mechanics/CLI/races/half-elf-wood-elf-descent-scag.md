@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/race/half-elf/wood-elf-descent
 aliases:
-- Half-Elf (Wood Elf Descent)
+- "Half-Elf (Wood Elf Descent)"
 ---
 # Half-Elf (Wood Elf Descent)
 *Source: Sword Coast Adventurer's Guide p. 116*  
@@ -32,13 +32,13 @@ Thanks to your elf blood, you have superior vision in dark and dim conditions. Y
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 > [!note] Variant Feature (Choose 1)
 > 
 > **Skill Versatility.** You gain proficiency in two skills of your choice.
 > 
-> **Elf Weapon Training.** You have proficiency with the [longsword](/3-Mechanics/CLI/items/longsword-xphb.md), [shortsword](/3-Mechanics/CLI/items/shortsword-xphb.md), [shortbow](/3-Mechanics/CLI/items/shortbow-xphb.md), and [longbow](/3-Mechanics/CLI/items/longbow-xphb.md).
+> **Elf Weapon Training.** You have proficiency with the [longsword](3-Mechanics/CLI/items/longsword-xphb.md), [shortsword](3-Mechanics/CLI/items/shortsword-xphb.md), [shortbow](3-Mechanics/CLI/items/shortbow-xphb.md), and [longbow](3-Mechanics/CLI/items/longbow-xphb.md).
 > 
 > **Fleet of Foot.** Your base walking speed increases to 35 feet.
 > 

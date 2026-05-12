@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Underling
+- "Kobold Underling"
 ---
-# [Kobold Underling](3-Mechanics\CLI\bestiary\humanoid/kobold-underling-egw.md)
+# [Kobold Underling](3-Mechanics/CLI/bestiary/humanoid/kobold-underling-egw.md)
 *Source: Explorer's Guide to Wildemount p. 221*  
 
 Kobolds are craven reptilian humanoids that commonly infest dungeons. They make up for their physical ineptitude with a cleverness for trap making.
@@ -35,8 +35,10 @@ Kobolds are craven reptilian humanoids that commonly infest dungeons. They make 
   - !!int "9"
   - !!int "8"
 "speed": "30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"gear":
+  - "hand crossbow"
+  - "shortsword"
+"senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
@@ -48,21 +50,20 @@ Kobolds are craven reptilian humanoids that commonly infest dungeons. They make 
     "name": "Messy End"
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ incapacitated."
     "name": "Pack Tactics"
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
+      \ as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage."
     "name": "Hand Crossbow"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kobold-underling-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/kobold-underling-egw.webp"
 ```
 ^statblock

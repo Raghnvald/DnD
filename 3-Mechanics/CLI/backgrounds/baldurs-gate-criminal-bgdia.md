@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Baldur's Gate Criminal
+- "Baldur's Gate Criminal"
 ---
 # Baldur's Gate Criminal
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 129*  
-![](/3-Mechanics/CLI/backgrounds/img/baldurs-gate-criminal.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/baldurs-gate-criminal.webp#right)
 
-- **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** A [crowbar](/3-Mechanics/CLI/items/crowbar-xphb.md), a set of dark [common clothes](/3-Mechanics/CLI/items/common-clothes.md) including a hood, and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Skill Proficiencies.** Deception, Stealth  
+- **Tool Proficiencies.** One type of gaming set, thieves' tools  
+- **Equipment.** A crowbar, a set of dark common clothes including a hood, and a belt pouch containing 15 gp  
 
 No career criminal in Baldur's Gate operates without being aware of the Guild. Some studiously keep a low profile, carrying just the occasional smuggled load in with legitimate merchandise, or only breaking knees when it can plausibly be claimed as an act of personal revenge. Others join up with crews for protection, or with the Guild itself. A few former Guild members have been cast out of the organization due to incompetence or after offending a more powerful member, and now shuffle for scraps to survive.
 
@@ -35,8 +35,6 @@ Criminals are pervasive in Baldur's Gate. If you wish, you may roll on the Crimi
 
 **Criminal Origins**
 
-`dice: [](baldurs-gate-criminal-bgdia.md#^criminal-origins)`
-
 | dice: d8 | Origin |
 |----------|--------|
 | 1 | You crippled a Guild kingpin's cousin without realizing the connection. You got the Guild to back off demands for your death by offering to make amends by working for the criminals, but even so the kingpin still plots a personal revenge. |
@@ -52,8 +50,6 @@ Criminals are pervasive in Baldur's Gate. If you wish, you may roll on the Crimi
 ## Specialty
 
 There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
-
-`dice: [](baldurs-gate-criminal-bgdia.md#^specialty)`
 
 | dice: d8 | Specialty |
 |----------|-----------|
@@ -71,8 +67,6 @@ There are many kinds of criminals, and within a thieves' guild or similar crimin
 
 Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.
 
-`dice: [](baldurs-gate-criminal-bgdia.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I always have a plan for when things go wrong. |
@@ -85,8 +79,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 8 | I blow up at the slightest insult. |
 ^personality-trait
 
-`dice: [](baldurs-gate-criminal-bgdia.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Honor. I don't steal from others in the trade. (Lawful) |
@@ -97,8 +89,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 6 | Redemption. There's a spark of good in everyone. (Good) |
 ^ideal
 
-`dice: [](baldurs-gate-criminal-bgdia.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I'm trying to pay off an old debt I owe to a generous benefactor. |
@@ -108,8 +98,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 5 | I'm guilty of a terrible crime. I hope I can redeem myself for it. |
 | 6 | Someone I loved died because of a mistake I made. That will never happen again. |
 ^bond
-
-`dice: [](baldurs-gate-criminal-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

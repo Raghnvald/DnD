@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cave Fisher
+- "Cave Fisher"
 ---
-# [Cave Fisher](3-Mechanics\CLI\bestiary\monstrosity/cave-fisher-mpmm.md)
+# [Cave Fisher](3-Mechanics/CLI/bestiary/monstrosity/cave-fisher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -47,12 +47,12 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - !!int "3"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 12"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "3"
 "traits":
@@ -68,7 +68,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Claw"
-  - "desc": "One Large or smaller creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "One Large or smaller creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw.\
       \ On a failed save, the target is pulled into an unoccupied space within 5 feet\
       \ of the cave fisher, and the cave fisher makes one Claw attack against it.\
@@ -78,8 +78,8 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "bonus_actions":
   - "desc": "The cave fisher extends a sticky filament up to 60 feet, and the filament\
       \ adheres to anything that touches it. A creature the filament adheres to is\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the cave fisher (escape\
-      \ DC 13), and ability checks made to escape this grapple have disadvantage.\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by the cave fisher\
+      \ (escape DC 13), and ability checks made to escape this grapple have disadvantage.\
       \ The filament can be attacked (AC 15; 5 hit points; immunity to poison and\
       \ psychic damage). A weapon that fails to sever it becomes stuck to it, requiring\
       \ an action and a successful DC 13 Strength check to pull free. Destroying the\
@@ -89,7 +89,7 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp"
 ```
 ^statblock
 

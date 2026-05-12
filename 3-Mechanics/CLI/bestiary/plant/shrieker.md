@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shrieker
+- "Shrieker"
 ---
-# [Shrieker](3-Mechanics\CLI\bestiary\plant/shrieker.md)
+# [Shrieker](3-Mechanics/CLI/bestiary/plant/shrieker.md)
 *Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
@@ -43,10 +43,10 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
   - !!int "3"
   - !!int "1"
 "speed": "0 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), passive Perception 6"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "0"
 "traits":
@@ -61,7 +61,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     "name": "Shriek"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/shrieker.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/shrieker.webp"
 ```
 ^statblock
 

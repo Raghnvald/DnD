@@ -18,10 +18,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Veteran
+- "Veteran"
 ---
-# [Veteran](3-Mechanics\CLI\bestiary\humanoid/veteran.md)
-*Source: Monster Manual p. 350, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)
+*Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 
@@ -32,7 +32,7 @@ Veterans are professional fighters that take up arms for pay or to protect somet
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "splint armor"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -45,10 +45,14 @@ Veterans are professional fighters that take up arms for pay or to protect somet
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -56,19 +60,19 @@ Veterans are professional fighters that take up arms for pay or to protect somet
   - "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
       \ it can also make a shortsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:*\
       \ 6 (1d10 + 1) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/veteran.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/veteran.webp"
 ```
 ^statblock
 

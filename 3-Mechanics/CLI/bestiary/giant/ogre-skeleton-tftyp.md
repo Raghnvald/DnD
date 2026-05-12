@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Skeleton
+- "Ogre Skeleton"
 ---
-# [Ogre Skeleton](3-Mechanics\CLI\bestiary\giant/ogre-skeleton-tftyp.md)
+# [Ogre Skeleton](3-Mechanics/CLI/bestiary/giant/ogre-skeleton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 54*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -35,8 +35,13 @@ aliases:
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., darkvision 60 ft., passive Perception 8"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 8"
 "languages": "Common, Giant, understands all languages it spoke in life but can't\
   \ speak"
 "cr": "2"
@@ -49,6 +54,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-skeleton-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-skeleton-tftyp.webp"
 ```
 ^statblock

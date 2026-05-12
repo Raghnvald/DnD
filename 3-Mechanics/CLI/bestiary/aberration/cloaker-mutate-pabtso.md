@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloaker Mutate
+- "Cloaker Mutate"
 ---
-# [Cloaker Mutate](3-Mechanics\CLI\bestiary\aberration/cloaker-mutate-pabtso.md)
+# [Cloaker Mutate](3-Mechanics/CLI/bestiary/aberration/cloaker-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
 
 The malign energy of the Far Realm causes a cloaker to merge with the rotted corpse of its last meal, resulting in a hideous puppeteering Aberration. The cloaker mutate shrouds its actions in a miasma of phantasmic duplicates. It uses the corpse melded to its underside to absorb damage and to strike at prey.
@@ -48,13 +48,13 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
   - !!int "11"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic, poison, psychic"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Deep Speech, telepathy 60 ft., Undercommon"
 "cr": "10"
 "traits":
@@ -70,12 +70,12 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 20\
       \ (3d10 + 4) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 16 Constitution saving throw or have the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ on a DC 16 Constitution saving throw or have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ condition for 1 minute. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ in this way, a creature can't regain hit points."
     "name": "Corpse Swipe"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d8 + 4) slashing damage."
     "name": "Tail"
 "bonus_actions":
   - "desc": "The mutate magically projects up to four illusory copies of itself. These\
@@ -85,11 +85,11 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Phantasmal Duplicates"
   - "desc": "The mutate lets out a moan charged with psychic energy. Each creature\
       \ within 60 feet of the mutate that isn't an Aberration must succeed on a DC\
-      \ 16 Wisdom saving throw or take 17 (5d6) psychic damage and have the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 16 Wisdom saving throw or take 17 (5d6) psychic damage and have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the end of the mutate's next turn."
     "name": "Psychic Moan (Recharge 6)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/cloaker-mutate-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/cloaker-mutate-pabtso.webp"
 ```
 ^statblock

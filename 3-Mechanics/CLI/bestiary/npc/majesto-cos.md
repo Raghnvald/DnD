@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Majesto
+- "Majesto"
 ---
-# [Majesto](3-Mechanics\CLI\bestiary\npc/majesto-cos.md)
+# [Majesto](3-Mechanics/CLI/bestiary/npc/majesto-cos.md)
 *Source: Curse of Strahd p. 115*  
 
 ```statblock
@@ -34,20 +34,19 @@ aliases:
   - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+3"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"
 "traits":
@@ -63,19 +62,17 @@ aliases:
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 10 (3d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Sting (Bite in Beast Form)"
-  - "desc": "Majesto magically turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ until it attacks, or until its [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ on a spell). Any equipment Majesto wears or carries is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ with it."
+  - "desc": "Majesto magically turns invisible until it attacks, or until its concentration\
+      \ ends (as if concentrating on a spell). Any equipment Majesto wears or carries\
+      \ is invisible with it."
     "name": "Invisibility"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/majesto-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/majesto-cos.webp"
 ```
 ^statblock

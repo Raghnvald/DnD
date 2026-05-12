@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "+2 Dragonhide Belt"
 ---
 # +2 Dragonhide Belt

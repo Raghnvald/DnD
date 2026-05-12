@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Kobold Names
+- "Kobold Names"
 ---
 # Kobold Names
 *Source: Volo's Guide to Monsters p. 66* 
 
 **Kobold Names**
-
-`dice: [](kobold-names-vgm.md#^kobold-names)`
 
 | dice: d20 | Name |
 |-----------|------|

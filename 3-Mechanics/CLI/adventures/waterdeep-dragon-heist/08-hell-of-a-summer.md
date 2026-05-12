@@ -5,20 +5,20 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdh
 aliases:
-- Hell of a Summer
+- "Hell of a Summer"
 ---
 # Hell of a Summer
 *Source: Waterdeep: Dragon Heist, p. 115* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/chaptersix.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/chaptersix.webp#center)
 
-Victoro and [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) struck a deal with Asmodeus, Lord of the Nine Hells. Three years ago, they traded away the souls of their children to escape financial ruin. The soul of their eldest son, Osvaldo, was taken immediately. What was left behind was transformed into a chain devil, which the Cassalanters confined to their attic. Their two youngest children, Terenzio and Elzerina, are doomed to lose their souls when they turn nine years old a mere ten days after Founders' Day, a midsummer festival that celebrates Waterdeep's founding.
+Victoro and [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) struck a deal with Asmodeus, Lord of the Nine Hells. Three years ago, they traded away the souls of their children to escape financial ruin. The soul of their eldest son, Osvaldo, was taken immediately. What was left behind was transformed into a chain devil, which the Cassalanters confined to their attic. Their two youngest children, Terenzio and Elzerina, are doomed to lose their souls when they turn nine years old a mere ten days after Founders' Day, a midsummer festival that celebrates Waterdeep's founding.
 
 After the deal was struck, the Cassalanters enjoyed a miraculous comeback. Their banking and money-lending business thrived while their competition suffered. The disappearance of their eldest son (and heir apparent) earned them sympathy. Their philanthropic endeavors bought them legitimacy and new friends. They became the envy of Waterdavian nobility in short order. Seemingly blessed, the Cassalanters attracted new followers to their cult of devil worship, which was Asmodeus's plan all along.
 
 Reneging on a contract with Asmodeus is a luxury no mortal can afford, but there is a way for Lord and Lady Cassalanter to save the souls of Terenzio and Elzerina. A clause in the contract allows them to preserve their remaining (and future) children's lives by instead paying "one shy of a million gold coins, and the sacrifice of one shy of one hundred unfortunate souls." The Cassalanters have most of the coin they need, but they require the gold from the Vault of Dragons to buy their children's salvation without bankrupting themselves.
 
-Victoro is in charge of locating the Vault of Dragons and securing the gold within it. Ammalia, for her part, plans to sacrifice ninety-nine souls in one fell swoop by throwing a feast on Founders' Day featuring poisoned food. Both the souls and the gold must be paid to Asmodeus at the same time. Foiling either one of these schemes spells doom for the Cassalanters' plot and their youngest children.
+Victoro is in charge of locating the Vault of Dragons and securing the gold within it. Ammalia, for her part, plans to sacrifice ninety-nine souls in one fell swoop by throwing a feast on Founders' Day featuring [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) food. Both the souls and the gold must be paid to Asmodeus at the same time. Foiling either one of these schemes spells doom for the Cassalanters' plot and their youngest children.
 
 ## Cult of Asmodeus
 
@@ -26,19 +26,17 @@ Lord and Lady Cassalanter are the heads of a secretive cult of Asmodeus. The cul
 
 ### Meet the Cassalanters
 
-![The Cassalanters](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/cassalanters.webp#center)
+![The Cassalanters](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/cassalanters.webp#center)
 
 Each member of the Cassalanter family relaxes in different parts of the house and reacts separately to the discovery of characters intruding in their home. Lord and Lady Cassalanter are often out of the house on business, especially as Founders' Day draws near; they return home an hour before dinner.
 
 #### Lady Ammalia Cassalanter
 
-Lady Cassalanter reacts with surprise to the sight of uninvited guests, but quickly conceals her feelings with a welcoming smile. She attempts to gain the intruders' confidence by pretending to believe that they are guests of Victoro's and saying that she simply was not told of their presence. With this pretense established, she tries to learn the characters' true intentions, casting charm person on the party using a 5th-level spell slot (affecting up to five creatures within 30 feet) if necessary. Using magic in this way is illegal, but Ammalia has a lot of goodwill banked in Waterdeep-enough to curry favor with a magistrate.
+Lady Cassalanter reacts with surprise to the sight of uninvited guests, but quickly conceals her feelings with a welcoming smile. She attempts to gain the intruders' confidence by pretending to believe that they are guests of Victoro's and saying that she simply was not told of their presence. With this pretense established, she tries to learn the characters' true intentions, casting [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) on the party using a 5th-level spell slot (affecting up to five creatures within 30 feet) if necessary. Using magic in this way is illegal, but Ammalia has a lot of goodwill banked in Waterdeep-enough to curry favor with a magistrate.
 
 During the hours when Ammalia is home and awake, her location in the villa can be determined randomly:
 
 **Ammalia's Location**
-
-`dice: [](08-hell-of-a-summer.md#^ammalias-location)`
 
 | dice: d100 | Result |
 |------------|--------|
@@ -49,13 +47,11 @@ During the hours when Ammalia is home and awake, her location in the villa can b
 
 #### Lord Victoro Cassalanter
 
-[Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) reacts with fiery rage to the sight of uninvited guests. He demands to know their names and calls for the butler, [Willifort Crowelle](/3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md), to show them out. If he has the chance, he subtly casts dominate person on one of the characters using an 8th-level spell slot (extending its duration to 8 hours) to plant a spy among their ranks. As soon as the intruders are gone, he retires to his office (C6) and uses his action to take total control of the dominated character. The dominated character reports to the City Watch that the party broke into Cassalanter Villa and must be arrested for their crime.
+[Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) reacts with fiery rage to the sight of uninvited guests. He demands to know their names and calls for the butler, [Willifort Crowelle](3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md), to show them out. If he has the chance, he subtly casts [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md) on one of the characters using an 8th-level spell slot (extending its duration to 8 hours) to plant a spy among their ranks. As soon as the intruders are gone, he retires to his office (C6) and uses his action to take total control of the dominated character. The dominated character reports to the City Watch that the party broke into Cassalanter Villa and must be arrested for their crime.
 
 During the hours when Victoro is home and awake, his location in the villa can be determined randomly:
 
 **Victoro's Location**
-
-`dice: [](08-hell-of-a-summer.md#^victoros-location)`
 
 | dice: d100 | Result |
 |------------|--------|
@@ -70,7 +66,7 @@ During the hours when Victoro is home and awake, his location in the villa can b
 > 
 > - The Cassalanters fell on hard times a few years back, but they have since reversed their fortunes and restored their lucrative banking and money-lending business.  
 > - Victoro and Ammalia's eldest son disappeared three years ago when the family was on the verge of bankruptcy. They have two surviving children, young twins named Terenzio and Elzerina.  
-> - Lord [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) is the only living heir of the late Caladorn Cassalanter, a former Masked Lord and a hero of the North.  
+> - Lord [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) is the only living heir of the late Caladorn Cassalanter, a former Masked Lord and a hero of the North.  
 > - Over the years, the Cassalanters have founded a number of philanthropic societies and made generous donations to temples dedicated to good-aligned deities. They are known to worship Siamorphe, a demigod whose ethos is the nobility's right and responsibility to rule.  
 ^cassalanter-lore
 
@@ -81,8 +77,6 @@ The Cassalanter twins aren't members of their parents' cult and have no other fr
 During the hours when the children are awake, their location in the villa can be determined randomly:
 
 **Terenzio and Elzerina's Location**
-
-`dice: [](08-hell-of-a-summer.md#^terenzio-and-elzerinas-location)`
 
 | dice: d100 | Result |
 |------------|--------|
@@ -110,27 +104,27 @@ The head servants of Cassalanter Villa are members of the cult. These four serva
 
 #### Willifort Crowelle
 
-Willifort dresses in a sharp black suit and wears thin-rimmed spectacles. He's a [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) that usually takes the form of an aging male tiefling, and he greets all guests in the entrance hall (C1).
+Willifort dresses in a sharp black suit and wears thin-rimmed spectacles. He's a [doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) that usually takes the form of an aging male tiefling, and he greets all guests in the entrance hall (C1).
 
-As the Cassalanters' chief butler and Lord Victoro's personal attendant, [Willifort Crowelle](/3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md) makes a point of knowing everything that transpires within the villa. If the Cassalanters have guests, he escorts them during their entire visit, using stealth if necessary. He ushers nosy guests away from areas or objects that might link the Cassalanters with the Asmodeus-worshiping cult.
+As the Cassalanters' chief butler and Lord Victoro's personal attendant, [Willifort Crowelle](3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md) makes a point of knowing everything that transpires within the villa. If the Cassalanters have guests, he escorts them during their entire visit, using stealth if necessary. He ushers nosy guests away from areas or objects that might link the Cassalanters with the Asmodeus-worshiping cult.
 
 #### Tissina Khyret
 
-Madame Khyret is the personal attendant to [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) and is the family's chief housemaid.
+Madame Khyret is the personal attendant to [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) and is the family's chief housemaid.
 
-Madame Khyret dresses in a long black gown and wears a headdress with black tassels. She is an aging tiefling [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md), and she spends most of her time in the master sitting room (C19).
+Madame Khyret dresses in a long black gown and wears a headdress with black tassels. She is an aging tiefling [cult fanatic](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md), and she spends most of her time in the master sitting room (C19).
 
 #### Laiba "Nana" Rosse
 
-[Laiba Rosse](/3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md), better known as "Nana," is the caretaker and private tutor for Terenzio and Elzerina, and she does her best to keep track of their every move. Even so, the two often sneak away from her watchful eye.
+[Laiba Rosse](3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md), better known as "Nana," is the caretaker and private tutor for Terenzio and Elzerina, and she does her best to keep track of their every move. Even so, the two often sneak away from her watchful eye.
 
-Nana dresses in flowing red robes. She is a female tiefling [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) who relaxes in the twins' playroom (C17) when she's not with the children.
+Nana dresses in flowing red robes. She is a female tiefling [cult fanatic](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) who relaxes in the twins' playroom (C17) when she's not with the children.
 
 #### Jandar Chergoba
 
-As the head chef of Cassalanter Villa, [Jandar](/3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) determines each day's menu and oversees all activity in the kitchen.
+As the head chef of Cassalanter Villa, [Jandar](3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) determines each day's menu and oversees all activity in the kitchen.
 
-Jandar is a male tiefling [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md). He is often in the kitchen (C10).
+Jandar is a male tiefling [cult fanatic](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md). He is often in the kitchen (C10).
 
 ## Facing the Cassalanters
 
@@ -148,7 +142,7 @@ Killing or injuring the Cassalanters carries grave legal consequences, but the c
 
 ### Gathering Information
 
-If the Cassalanters are the main villains, the characters might come to their villa if their search for the [Stone of Golorr](/3-Mechanics/CLI/items/stone-of-golorr-wdh.md) or the Vault of Dragons hits a dead end. [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) keeps information related to his own search for the stone and the Vault of Dragons in his office (C6).
+If the Cassalanters are the main villains, the characters might come to their villa if their search for the [Stone of Golorr](3-Mechanics/CLI/items/stone-of-golorr-wdh.md) or the Vault of Dragons hits a dead end. [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) keeps information related to his own search for the stone and the Vault of Dragons in his office (C6).
 
 ## Cassalanter Villa
 
@@ -163,7 +157,7 @@ Cassalanter Villa is an extravagant manse with dozens of lavish chambers for the
 
 ### Approaching Cassalanter Villa
 
-The grounds of the Cassalanters' estate are patrolled by hired [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md). Two of them stand outside the gate of the estate, two more stand outside the front door of the house, and a total of six patrol the grounds at any time. These guards are humans and are outfitted in livery that bears the crest of House Cassalanter.
+The grounds of the Cassalanters' estate are patrolled by hired [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md). Two of them stand outside the gate of the estate, two more stand outside the front door of the house, and a total of six patrol the grounds at any time. These guards are humans and are outfitted in livery that bears the crest of House Cassalanter.
 
 The house is surrounded by a well-manicured lawn. A cobblestone path leads from the estate's exterior gate to both the front entrance (C1) and the entrance to the coach house (area CH1). The villa's grounds feature numerous deciduous trees and meticulously tended gardens.
 
@@ -171,11 +165,11 @@ The house is surrounded by a well-manicured lawn. A cobblestone path leads from 
 
 Characters who try to infiltrate Cassalanter Villa are more likely to be arrested than to be killed. The security detail around Cassalanter Villa is meant to raise an alarm and deter petty thieves, not to stop determined adventurers. If the guards spot an intruder, they do the sensible thing: call the authorities.
 
-The City Watch has small, single-person "watch boxes" set up on nearly every street corner in the Sea Ward, including the intersection just outside the gates of Cassalanter Villa. If a guard sounds the alarm, the Watch member on duty fetches a force of forty City Watch [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) to cordon off the property.
+The City Watch has small, single-person "watch boxes" set up on nearly every street corner in the Sea Ward, including the intersection just outside the gates of Cassalanter Villa. If a guard sounds the alarm, the Watch member on duty fetches a force of forty City Watch [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) to cordon off the property.
 
 #### Reinforcements
 
-If the City Watch gets involved, Lord and Lady Cassalanter become worried that someone has caught onto their plot. The number of guards patrolling the grounds doubles, and Victoro dispenses with all human guards inside the house. Whenever a guard is mentioned in an interior area, that guard is now a [bearded devil](/3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) disguised as a human. A disguised devil looks like a muscular, bearded male human in house livery. A creature that observes one closely can, with a successful DC 15 Wisdom (Perception) check, notice its "beard" writhing.
+If the City Watch gets involved, Lord and Lady Cassalanter become worried that someone has caught onto their plot. The number of guards patrolling the grounds doubles, and Victoro dispenses with all human guards inside the house. Whenever a guard is mentioned in an interior area, that guard is now a [bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) disguised as a human. A disguised devil looks like a muscular, bearded male human in house livery. A creature that observes one closely can, with a successful DC 15 Wisdom (Perception) check, notice its "beard" writhing.
 
 #### Denizens of Cassalanter Villa
 
@@ -200,8 +194,8 @@ The following areas correspond to the labels on map 6.1. The villa connects to t
 If the occupants or features of a location change during the Founders' Day party, the text includes a "Founders' Day" section describing those changes.
 
 > [!gallery]
-> ![Cassalanter Villa](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/cassalanter-villa-dm.webp#gallery)
-> ![Cassalanter Villa, Main Area (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-main-players.webp#gallery)
+> ![Cassalanter Villa](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/cassalanter-villa-dm.webp#gallery)
+> ![Cassalanter Villa, Main Area (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-main-players.webp#gallery)
 
 #### Guest House
 
@@ -217,12 +211,12 @@ The Cassalanters host guests in this stately guest house.
 - **CG8. Master Bedroom.** This room has a balcony and contains a large canopied bed, a standing mirror in a gilded frame, a writing desk and matching chair, a dresser, a tall wardrobe, and an owlbear throw rug draped over a padded chair with matching ottoman.  
 
 > [!gallery]
-> ![Cassalanter Villa, Guest S...](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/guest-second-players.webp#gallery "Cassalanter Villa, Guest Second Floor (Player Version)")
-> ![Cassalanter Villa, Guest T...](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/guest-third-players.webp#gallery "Cassalanter Villa, Guest Third Floor (Player Version)")
+> ![Cassalanter Villa, Guest Second Floor (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/guest-second-players.webp#gallery)
+> ![Cassalanter Villa, Guest Third Floor (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/guest-third-players.webp#gallery)
 
 #### Coach House
 
-The Cassalanters own three carriages-one for their banking business, one for public appearances, and one for private use. They also own six horses: four [draft horses](/3-Mechanics/CLI/bestiary/beast/draft-horse.md) to pull carriages and two [riding horses](/3-Mechanics/CLI/bestiary/beast/riding-horse.md). The horses are kept in stalls that are cleaned every morning just before dawn. Tack, bridles, feed, and other necessities for the horses are stored in the coach house as well.
+The Cassalanters own three carriages-one for their banking business, one for public appearances, and one for private use. They also own six horses: four [draft horses](3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md) to pull carriages and two [riding horses](3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md). The horses are kept in stalls that are cleaned every morning just before dawn. Tack, bridles, feed, and other necessities for the horses are stored in the coach house as well.
 
 #### C1. Entrance Hall
 
@@ -232,7 +226,7 @@ This hall has the following features:
 - A crimson carpet runs down the hall toward an open door to the foyer.  
 - Light from a crystal chandelier reflects off more than three dozen holy symbols of Siamorphe perched on wall shelves, each in the form of a silver chalice with a golden sun etched on its outside.  
 
-If the characters are expected guests, [Willifort Crowelle](/3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md) (see "Head Servants,") awaits them here and guides them to the smoking room (C12) to meet with Lord Cassalanter. He allows them to explore the house while they wait but follows them doggedly.
+If the characters are expected guests, [Willifort Crowelle](3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md) (see "Head Servants,") awaits them here and guides them to the smoking room (C12) to meet with Lord Cassalanter. He allows them to explore the house while they wait but follows them doggedly.
 
 ##### Founders' Day
 
@@ -247,9 +241,9 @@ This room has the following features:
 
 ##### Founders' Day
 
-Esvele Rosznar, the [Black Viper](/3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md) (see appendix B), is hiding in an alcove and putting on her [Black Viper](/3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md) mask and hood. She is wearing a sleek black leather suit, and a frilly ball gown lies at her feet. Esvele has slipped away from her overbearing parents, Rolteme and Azalea Rosznar, and is preparing to sneak through the villa and rob the Cassalanters blind.
+Esvele Rosznar, the [Black Viper](3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md) (see appendix B), is hiding in an alcove and putting on her [Black Viper](3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md) mask and hood. She is wearing a sleek black leather suit, and a frilly ball gown lies at her feet. Esvele has slipped away from her overbearing parents, Rolteme and Azalea Rosznar, and is preparing to sneak through the villa and rob the Cassalanters blind.
 
-The characters can convince the [Black Viper](/3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md) to help them as they scour Cassalanter Villa by succeeding on a DC 14 Charisma (Intimidation or Persuasion) check. If Esvele decides to help the characters, she fights alongside them and discovers treasure and secret doors automatically.
+The characters can convince the [Black Viper](3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md) to help them as they scour Cassalanter Villa by succeeding on a DC 14 Charisma (Intimidation or Persuasion) check. If Esvele decides to help the characters, she fights alongside them and discovers treasure and secret doors automatically.
 
 #### C3. Library
 
@@ -286,21 +280,21 @@ This reading nook has the following features:
 - Furnishings include a luxurious armchair and a small side table where an empty wine glass sits atop a small book.  
 - A door in the northern wall has a butterfly-shaped, stained-glass peephole.  
 
-If [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B) is here, he's reading a historical text titled *The Rise and Fall of Hellgate Keep* and taking notes in his journal.
+If [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B) is here, he's reading a historical text titled *The Rise and Fall of Hellgate Keep* and taking notes in his journal.
 
 ##### Journal
 
-The small book on the side table is a journal that [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) uses to take notes while reading. It mostly contains dry observations on atlases of Faerûn and history books. A character who flips through the journal and succeeds on a DC 15 Intelligence (Investigation) check can pick out a few notes made by Victoro that are unrelated to his reading:
+The small book on the side table is a journal that [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) uses to take notes while reading. It mostly contains dry observations on atlases of Faerûn and history books. A character who flips through the journal and succeeds on a DC 15 Intelligence (Investigation) check can pick out a few notes made by Victoro that are unrelated to his reading:
 
 - "Neverember's dragons are an answer to our prayers."  
-- "The Cassalanter mausoleum. Inform Y. G." (The initials refer to Lady [Yalah Gralhund](/3-Mechanics/CLI/bestiary/npc/yalah-gralhund-wdh.md).)  
+- "The Cassalanter mausoleum. Inform Y. G." (The initials refer to Lady [Yalah Gralhund](3-Mechanics/CLI/bestiary/npc/yalah-gralhund-wdh.md).)  
 - "Golorr is an aboleth. Now it all makes sense."  
 
-If the characters are still searching for the [Stone of Golorr](/3-Mechanics/CLI/items/stone-of-golorr-wdh.md) in chapter 4, you can include in this journal a clue regarding the stone's location. (If the Cassalanters have the stone, it's hidden in C6 when it's not in use.)
+If the characters are still searching for the [Stone of Golorr](3-Mechanics/CLI/items/stone-of-golorr-wdh.md) in chapter 4, you can include in this journal a clue regarding the stone's location. (If the Cassalanters have the stone, it's hidden in C6 when it's not in use.)
 
 #### C5. Foyer
 
-Two [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) in House Cassalanter livery are stationed in this marble-floored foyer at all hours. It has seven exits:
+Two [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) in House Cassalanter livery are stationed in this marble-floored foyer at all hours. It has seven exits:
 
 - A door to the entrance hall (C1)  
 - An open arch that leads to a spacious dining room (C9)  
@@ -319,11 +313,11 @@ The door to this room is locked. The room contains the following features:
 - Tall stacks of legal tomes and financial ledgers rest atop a solid mahogany desk.  
 - A freestanding suit of bronze armor (complete with helm, gauntlets, and greatsword) stands just inside the door.  
 
-If [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B) is here, he's seated behind the desk with fingers steepled, deep in thought.
+If [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B) is here, he's seated behind the desk with fingers steepled, deep in thought.
 
 ##### Armor
 
-The suit of armor standing by the door is a [helmed horror](/3-Mechanics/CLI/bestiary/construct/helmed-horror.md). It obeys Victoro's commands. When Victoro isn't present, it attacks anyone who opens the door without a key or anyone not of Cassalanter blood who opens Victoro's desk. The Cassalanter children know about this construct and warn friendly characters about it.
+The suit of armor standing by the door is a [helmed horror](3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md). It obeys Victoro's commands. When Victoro isn't present, it attacks anyone who opens the door without a key or anyone not of Cassalanter blood who opens Victoro's desk. The Cassalanter children know about this construct and warn friendly characters about it.
 
 ##### Desk
 
@@ -339,7 +333,7 @@ This walk-in cloakroom contains the Cassalanter family's expensive coats and clo
 
 #### C8. Covered Porch
 
-This covered porch is the entryway typically used by the Cassalanters' servants. Ten servants (human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) eat here at mealtimes.
+This covered porch is the entryway typically used by the Cassalanters' servants. Ten servants (human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) eat here at mealtimes.
 
 #### C9. Family Dining Room
 
@@ -367,11 +361,11 @@ From sunrise until an hour after sundown, this kitchen is a hive of activity:
 
 Stairs in this room lead to the banquet kitchen on the second floor (C14).
 
-The head chef, [Jandar Chergoba](/3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) (see "Head Servants,"), oversees six chefs (human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)). If Jandar believes the characters are a threat, he shouts "For'zaal," causing ten knives to magically rise from the counters and attack. These knives are [flying swords](/3-Mechanics/CLI/bestiary/construct/flying-sword.md) that deal `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) piercing damage on a hit.
+The head chef, [Jandar Chergoba](3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) (see "Head Servants,"), oversees six chefs (human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)). If Jandar believes the characters are a threat, he shouts "For'zaal," causing ten knives to magically rise from the counters and attack. These knives are [flying swords](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) that deal 4 (`1d6 + 1`) piercing damage on a hit.
 
 ##### Founders' Day
 
-[Jandar](/3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) isn't here. Instead, he's preparing Ammalia's poisoned feast in a cooking pavilion out on the estate's sprawling lawn.
+[Jandar](3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) isn't here. Instead, he's preparing Ammalia's [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) feast in a cooking pavilion out on the estate's sprawling lawn.
 
 #### C11. Pantry
 
@@ -383,7 +377,7 @@ This room contains the following features:
 
 ##### Locked Iron Box
 
-[Jandar Chergoba](/3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md), the head chef, keeps his golden sacrificial dagger, golden mask, and crimson robes (see "Cult of Asmodeus,") in a locked iron box underneath a sack of potatoes. The box can be unlocked with Jandar's golden key, or by a character who makes a successful DC 15 Dexterity check using thieves' tools. A character can also pry it open with a successful DC 25 Strength (Athletics) check.
+[Jandar Chergoba](3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md), the head chef, keeps his golden sacrificial dagger, golden mask, and crimson robes (see "Cult of Asmodeus,") in a locked iron box underneath a sack of potatoes. The box can be unlocked with Jandar's golden key, or by a character who makes a successful DC 15 Dexterity check using thieves' tools. A character can also pry it open with a successful DC 25 Strength (Athletics) check.
 
 ##### Secret Door
 
@@ -393,7 +387,7 @@ The secret door to the library (C3) can be detected by a character who makes a s
 
 This room contains the following features:
 
-- One [guard](/3-Mechanics/CLI/bestiary/humanoid/guard.md) in House Cassalanter livery stands here, absentmindedly examining the regal portraits that adorn the walls and rest on fancy easels in various spots.  
+- One [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) in House Cassalanter livery stands here, absentmindedly examining the regal portraits that adorn the walls and rest on fancy easels in various spots.  
 - Fine armchairs arranged throughout the room smell faintly of pipeweed; the scent is almost obscured by incense and delicate perfume.  
 
 If Lord Cassalanter has invited the characters to his home for any reason, he meets them here. If the conversation turns to business, he has Willifort bring his guests glasses of fine brandy and pipes filled with pipeweed.
@@ -415,13 +409,13 @@ This elegant ballroom contains the following noteworthy features:
 - The polished marble floor is a dazzling mosaic that depicts a silver chalice with the image of a golden sun on its outside. Characters who succeed on a DC 10 Intelligence (Religion) check recognize it as the holy symbol of Siamorphe, demigod of nobility.  
 - Gilded mirrors and handsome tapestries festoon the walls. Along the west wall, windows with crimson drapes stretch from the floor to the ceiling.  
 
-![Cassalanter Villa, Second Floor (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-two-players.webp#center)
+![Cassalanter Villa, Second Floor (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-two-players.webp#center)
 
 Despite its grandeur, this ballroom seems strangely dismal without anyone dancing in it. Stairs lead down to the foyer (C5) and up to a hallway outside areas C17 and C19.
 
 ##### Dancing Construct
 
-The dressed "mannequin" is a magical construct that serves as a dance partner. It has the statistics of a [nimblewright](/3-Mechanics/CLI/bestiary/construct/nimblewright-wdh.md) (see appendix B) but has no effective attacks and is worth 0 XP. When a humanoid bows or curtsies before the construct, it makes the other gesture while a magic mouth spell plays a recorded message in Common: "Which dance would you like? Galliard? Pavane? Waltz?" The construct follows its partner's lead until the dance ends, when it becomes still again.
+The dressed "mannequin" is a magical construct that serves as a dance partner. It has the statistics of a [nimblewright](3-Mechanics/CLI/bestiary/construct/nimblewright-wdh.md) (see appendix B) but has no effective attacks and is worth 0 XP. When a humanoid bows or curtsies before the construct, it makes the other gesture while a [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell plays a recorded message in Common: "Which dance would you like? Galliard? Pavane? Waltz?" The construct follows its partner's lead until the dance ends, when it becomes still again.
 
 ##### Founders' Day
 
@@ -433,13 +427,13 @@ The banquet kitchen is an additional cooking space used in conjunction with the 
 
 ##### Founders' Day
 
-The kitchen is bustling with activity as four chefs (human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) prepare an array of pies for the noble guests.
+The kitchen is bustling with activity as four chefs (human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) prepare an array of pies for the noble guests.
 
 #### C15. Banquet Hall
 
-The only piece of furniture in this expansive hall is a long wooden [dining table](/3-Mechanics/CLI/bestiary/monstrosity/dining-table-mimic-wdh.md) that happens to be a giant [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md) in disguise. It has the statistics of a normal mimic, with these changes:
+The only piece of furniture in this expansive hall is a long wooden [dining table](3-Mechanics/CLI/bestiary/monstrosity/dining-table-mimic-wdh.md) that happens to be a giant [mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) in disguise. It has the statistics of a normal mimic, with these changes:
 
-- The mimic is Large and has `dice:10d10+20|noform|noparens|avg|text(75)` (`10d10 + 20`) hit points.  
+- The mimic is Large and has 75 (`10d10 + 20`) hit points.  
 - As an action, it can make three attacks: two with its pseudopods and one with its bite.  
 - It has a challenge rating of 3 (700 XP).  
 
@@ -447,7 +441,7 @@ The mimic is well treated by the Cassalanters and won't harm any member of the h
 
 ##### Founders' Day
 
-The room is outfitted with dozens of chairs, and the table is filled with food. Two dozen party guests are gorging themselves here at any time. Four doppelgangers from the Yawning Portal have slipped into the party disguised as nobles. Their leader, [Bonnie](/3-Mechanics/CLI/bestiary/npc/bonnie-wdh.md) (see "Familiar Faces"), poses as a minor noblewoman going by the name Lymeria Lhaurilstar; she was hoping to have a fun night at the party, but she's willing to help the characters if they need aid.
+The room is outfitted with dozens of chairs, and the table is filled with food. Two dozen party guests are gorging themselves here at any time. Four doppelgangers from the Yawning Portal have slipped into the party disguised as nobles. Their leader, [Bonnie](3-Mechanics/CLI/bestiary/npc/bonnie-wdh.md) (see "Familiar Faces"), poses as a minor noblewoman going by the name Lymeria Lhaurilstar; she was hoping to have a fun night at the party, but she's willing to help the characters if they need aid.
 
 #### C16. Piano Room
 
@@ -478,9 +472,9 @@ This room contains the following features:
 - Strewn about on the floor are giant stuffed toys, jack-in-the-boxes, dolls, and a rocking horse shaped like a warhorse.  
 - A large mobile in the form of a butterfly hangs from the ceiling, turning listlessly.  
 
-![Cassalanter Villa, Third Floor (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-three-players.webp#center)
+![Cassalanter Villa, Third Floor (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-three-players.webp#center)
 
-If she hasn't been dealt with elsewhere, the twins' nanny, [Laiba Rosse](/3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md) (see "Head Servants"), sits here and crochets dolls for the children.
+If she hasn't been dealt with elsewhere, the twins' nanny, [Laiba Rosse](3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md) (see "Head Servants"), sits here and crochets dolls for the children.
 
 #### C18. Twins' Bedroom
 
@@ -502,15 +496,15 @@ These closets are filled with stuffed animals and spare blankets.
 
 #### C19. Master Sitting Room
 
-Lady Cassalanter's attendant, [Tissina Khyret](/3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md) (see "Head Servants"), spends most of her time here when she's not with her mistress. The room is furnished for comfort and includes overstuffed chairs, fainting couches, and a wine bar.
+Lady Cassalanter's attendant, [Tissina Khyret](3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md) (see "Head Servants"), spends most of her time here when she's not with her mistress. The room is furnished for comfort and includes overstuffed chairs, fainting couches, and a wine bar.
 
 #### C20. Linen Closet
 
-This closet is packed with folded bedsheets and other assorted linens. Two of the downy duvets stacked in this room are [rugs of smothering](/3-Mechanics/CLI/bestiary/construct/rug-of-smothering.md) that attack any creature that isn't a Cassalanter or one of their servants. Any combat in this room draws the attention of both [Laiba Rosse](/3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md) (C17) and [Tissina Khyret](/3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md) (C19).
+This closet is packed with folded bedsheets and other assorted linens. Two of the downy duvets stacked in this room are [rugs of smothering](3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md) that attack any creature that isn't a Cassalanter or one of their servants. Any combat in this room draws the attention of both [Laiba Rosse](3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md) (C17) and [Tissina Khyret](3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md) (C19).
 
 ##### Lockbox
 
-[Willifort Crowelle](/3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md) and [Tissina Khyret](/3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md) keep their cult regalia (see "Cult of Asmodeus"), in a gold-embellished lockbox hidden under a stack of quilts bearing images of flying devils. The box can be unlocked with either Willifort's or Tissina's golden key, or by a character who succeeds on a DC 14 Dexterity check using thieves' tools. It can also be pried open with a successful DC 16 Strength (Athletics) check.
+[Willifort Crowelle](3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md) and [Tissina Khyret](3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md) keep their cult regalia (see "Cult of Asmodeus"), in a gold-embellished lockbox hidden under a stack of quilts bearing images of flying devils. The box can be unlocked with either Willifort's or Tissina's golden key, or by a character who succeeds on a DC 14 Dexterity check using thieves' tools. It can also be pried open with a successful DC 16 Strength (Athletics) check.
 
 #### C21. Master Bedroom
 
@@ -525,7 +519,7 @@ A search of the room reveals a golden lockbox tucked under the bed.
 
 Both Victoro and Ammalia keep their cult regalia (see "Cult of Asmodeus"), in a solid gold lockbox (worth 750 gp) hidden under their bed. The box can be unlocked with either Victoro's or Ammalia's golden key, or by a character who makes a successful DC 14 Dexterity check using thieves' tools. It can also be pried open with a successful DC 16 Strength (Athletics) check.
 
-If the box is opened by any means other than a golden key, poison gas sprays out from holes in the underside of the lid, filling a 15-foot-radius sphere centered on the box. This trap can't be disarmed. Any creature in its area must make a DC 13 Constitution saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) poison damage on a failed save, or half as much damage on a successful one. The gas dissipates quickly.
+If the box is opened by any means other than a golden key, poison gas sprays out from holes in the underside of the lid, filling a 15-foot-radius sphere centered on the box. This trap can't be disarmed. Any creature in its area must make a DC 13 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one. The gas dissipates quickly.
 
 #### C22. Ammalia's Private Study
 
@@ -541,13 +535,13 @@ The books on the shelves include works of fiction and nonfiction.
 
 ##### Desk
 
-Aside from the grimoire (described below), the desk holds an ornate golden candlestick (worth 125 gp), a golden inkwell (worth 25 gp), and a feathered quill pen (worth 15 gp). The desk drawer contains a wax seal bearing the Cassalanter crest, [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md)'s spellbook (which contains all the spells she has prepared), and ten vials of jet-black poison known as midnight tears (see "Poisons" in chapter 8 of the "Dungeon Master's Guide"). Ammalia plans to taint the Founders' Day feast with the poison (see "Special Events").
+Aside from the grimoire (described below), the desk holds an ornate golden candlestick (worth 125 gp), a golden inkwell (worth 25 gp), and a feathered quill pen (worth 15 gp). The desk drawer contains a wax seal bearing the Cassalanter crest, [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md)'s spellbook (which contains all the spells she has prepared), and ten vials of jet-black poison known as midnight tears (see "Poisons" in chapter 8 of the "Dungeon Master's Guide"). Ammalia plans to taint the Founders' Day feast with the poison (see "Special Events").
 
 ##### Red Grimoire
 
 The tome on the desk, bound in crimson leather, details a diabolical ritual that Ammalia and Victoro enacted to first contact the archdevil Asmodeus. Opening it reveals nothing but blank pages with a few drops of dry blood on them. If a drop of humanoid blood is spilled on any page, Infernal text on that page becomes legible, remaining so until the book is closed. The blood remains even after the text vanishes.
 
-Any character with the Ritual Casting feature (or the Ritual Caster feat) who spends 24 hours reading the book can master the ritual described within. The ritual takes 11 minutes to cast and requires incense and a vial of unholy water (which are consumed during the performance of the ritual). At the end of the ritual, a proxy of Asmodeus appears and grants its summoner the benefit of a commune spell. The proxy is formed of incense smoke and resembles a pit fiend. A character must finish a long rest before performing the ritual again.
+Any character with the Ritual Casting feature (or the Ritual Caster feat) who spends 24 hours reading the book can master the ritual described within. The ritual takes 11 minutes to cast and requires incense and a vial of unholy water (which are consumed during the performance of the ritual). At the end of the ritual, a proxy of Asmodeus appears and grants its summoner the benefit of a [commune](3-Mechanics/CLI/spells/commune-xphb.md) spell. The proxy is formed of incense smoke and resembles a pit fiend. A character must finish a long rest before performing the ritual again.
 
 ##### Trapdoor
 
@@ -557,28 +551,28 @@ The trapdoor in the ceiling is the entrance to the attic.
 
 A thick scent of sulfur pervades the attic. The only illumination is a beam of light that shines feebly through a shuttered window at the west end of the room.
 
-![Cassalanter Villa, Garret (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-garret-players.webp#center)
+![Cassalanter Villa, Garret (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-garret-players.webp#center)
 
 This attic is soundproof as long as no doors are open. Osvaldo's howling can be heard outside the attic only if the trapdoor between this room and C22 and the door between this room and C24 are both open at the same time. Additionally, creatures that have telepathy can't communicate telepathically with creatures outside the attic unless the doors are open.
 
 Terenzio and Elzerina have heard howling coming from the attic two or three times in their lives and are curious about what lurks there.
 
-![Osvaldo](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/osvaldo.webp#center)
+![Osvaldo](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/osvaldo.webp#center)
 
 #### C24. Osvaldo's Prison
 
-If [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) or [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B) or both are present, the door to this room is unlocked but closed. Otherwise, it's locked shut, and Victoro and Ammalia carry the only keys. When the characters first open the door, read:
+If [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) or [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B) or both are present, the door to this room is unlocked but closed. Otherwise, it's locked shut, and Victoro and Ammalia carry the only keys. When the characters first open the door, read:
 
 > [!readaloud] 
 > 
 > You are greeted with a wave of incoherent howling, as if opening the door broke down a dam that had been holding back a madman's screams.
 ^326
 
-[Osvaldo Cassalanter](/3-Mechanics/CLI/bestiary/npc/osvaldo-cassalanter-wdh.md) (see appendix B) shrieks and moans at all hours of the day. He is trying desperately to get someone to hear him and come to his rescue. If one or both of his parents are here, he spits curses at them as they weep before him.
+[Osvaldo Cassalanter](3-Mechanics/CLI/bestiary/npc/osvaldo-cassalanter-wdh.md) (see appendix B) shrieks and moans at all hours of the day. He is trying desperately to get someone to hear him and come to his rescue. If one or both of his parents are here, he spits curses at them as they weep before him.
 
-Guarding the room are two [imps](/3-Mechanics/CLI/bestiary/fiend/imp.md) in spider form. They answer to Lord Cassalanter, and their job is to kill birds, [rats](/3-Mechanics/CLI/bestiary/beast/rat.md), and other vermin that find their way into the attic. They attack anyone who tries to free Osvaldo or threatens other family members present.
+Guarding the room are two [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) in spider form. They answer to Lord Cassalanter, and their job is to kill birds, [rats](3-Mechanics/CLI/bestiary/beast/rat-xmm.md), and other vermin that find their way into the attic. They attack anyone who tries to free Osvaldo or threatens other family members present.
 
-The Cassalanter heir apparent is a soulless abomination thanks to his parents' thoughtless greed. His empty shell of a body has been transformed into a [chain devil](/3-Mechanics/CLI/bestiary/fiend/chain-devil.md) that his parents have imprisoned using his own chains. A 10-foot-diameter pentagram has been burned into the floor around him. A detect magic spell reveals a powerful aura of abjuration magic emanating from the symbol.
+The Cassalanter heir apparent is a soulless abomination thanks to his parents' thoughtless greed. His empty shell of a body has been transformed into a [chain devil](3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md) that his parents have imprisoned using his own chains. A 10-foot-diameter pentagram has been burned into the floor around him. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals a powerful aura of abjuration magic emanating from the symbol.
 
 Osvaldo's chains are wrapped around the beams and timbers that frame the room. He can't damage the house, nor can he break his own chains. He can only howl impotently at the misery being inflicted on him. He is thoroughly insane and can't be reasoned with.
 
@@ -590,9 +584,9 @@ This room contains derelict furnishings draped in black linens: chairs, coat rac
 
 #### C25. Butterfly Garden
 
-In the spring, [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md)'s gardens attract caterpillars, which transform into butterflies come summer. Lady Cassalanter's butterfly garden is the envy of her peers. The sweet scent of flowers and herbs filters up from the planters and rose bushes.
+In the spring, [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md)'s gardens attract caterpillars, which transform into butterflies come summer. Lady Cassalanter's butterfly garden is the envy of her peers. The sweet scent of flowers and herbs filters up from the planters and rose bushes.
 
-If Terenzio and Elzerina are here, they are frolicking in the garden. If [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) (see appendix B) is here, she's watching the children or tending to her garden. Six [imps](/3-Mechanics/CLI/bestiary/fiend/imp.md) in raven form hang around the butterfly garden and occasionally prey on Ammalia's prized pets when their mistress isn't looking. Despite their insolence, Ammalia uses these imps as spies. She sends them on missions throughout the city. They also warn Ammalia of trespassers and attack anyone who threatens a member of her family.
+If Terenzio and Elzerina are here, they are frolicking in the garden. If [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) (see appendix B) is here, she's watching the children or tending to her garden. Six [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) in raven form hang around the butterfly garden and occasionally prey on Ammalia's prized pets when their mistress isn't looking. Despite their insolence, Ammalia uses these imps as spies. She sends them on missions throughout the city. They also warn Ammalia of trespassers and attack anyone who threatens a member of her family.
 
 ##### Founders' Day
 
@@ -602,13 +596,13 @@ During the party, two young, hotblooded nobles have accidentally offended one an
 
 This balcony overlooks the grounds of the Cassalanter estate and even offers a view of the Sea of Swords beyond the outer wall of the Sea Ward.
 
-If [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) (see appendix B) is here, she's smoking and either staring dismally out toward the ocean or watching her children in the garden below (C25).
+If [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) (see appendix B) is here, she's smoking and either staring dismally out toward the ocean or watching her children in the garden below (C25).
 
 #### C26. Cellar
 
 This cellar is kept free of dust and cobwebs by servants. It is unsettlingly cold, no matter the time of year. It contains spare furniture, a laundry tub, and trunks full of old clothing.
 
-![Cassalanter Villa, Cellar (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-cellar-players.webp#center)
+![Cassalanter Villa, Cellar (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/villa-cellar-players.webp#center)
 
 #### C27. False Vault
 
@@ -618,9 +612,9 @@ The vault is empty.
 
 ##### Cold Trap
 
-If a creature enters the vault without first saying "Gold is my shield," an intense blast of magical cold fills the room. All creatures in the vault at that time must make a DC 16 Constitution saving throw, taking `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) cold damage on a failed save, or half as much damage on a successful one.
+If a creature enters the vault without first saying "Gold is my shield," an intense blast of magical cold fills the room. All creatures in the vault at that time must make a DC 16 Constitution saving throw, taking 36 (`8d8`) cold damage on a failed save, or half as much damage on a successful one.
 
-A detect magic spell reveals the secret to disabling the trap: a tiny magical glyph is inscribed in the middle of the ceiling. If this glyph is dispelled with a successful casting of dispel magic (DC 16), the trap ceases to function.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals the secret to disabling the trap: a tiny magical glyph is inscribed in the middle of the ceiling. If this glyph is dispelled with a successful casting of [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16), the trap ceases to function.
 
 #### C28. Wine Cellar
 
@@ -663,9 +657,9 @@ The following areas correspond to the labels on map 6.2. The temple is connected
 Changes to the temple that occur during cult gatherings are noted in the "Cult Gathering" sections.
 
 > [!gallery]
-> ![Temple of Asmodeus](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/temple-of-asmodeus-dm.webp#gallery)
-> ![Temple of Asmodeus, Lower Level (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/temple-of-asmodeus-players.webp#gallery)
-> ![Temple of Asmodeus, Upper Level (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/temple-of-asmodeus-upper-players.webp#gallery)
+> ![Temple of Asmodeus](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/temple-of-asmodeus-dm.webp#gallery)
+> ![Temple of Asmodeus, Lower Level (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/temple-of-asmodeus-players.webp#gallery)
+> ![Temple of Asmodeus, Upper Level (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/temple-of-asmodeus-upper-players.webp#gallery)
 
 #### A1. Hall of the Damned
 
@@ -689,7 +683,7 @@ Two crumbling balconies with stone railings overlook the temple's ceremonial hal
 
 ##### Collapsing Floor
 
-The balcony floors have weakened with age. Any Medium or larger creature that steps onto a 5-foot-square marked C on the map must make a DC 15 Dexterity saving throw as the floor crumbles and falls away, leaving a gaping hole. On a failed save, the creature falls 20 feet and lands prone on the floor below (A7) amid stone debris. On a success, the creature avoids the fall by leaping to an adjacent, unoccupied space. The sound of the collapsing floor can be heard throughout the temple.
+The balcony floors have weakened with age. Any Medium or larger creature that steps onto a 5-foot-square marked C on the map must make a DC 15 Dexterity saving throw as the floor crumbles and falls away, leaving a gaping hole. On a failed save, the creature falls 20 feet and lands [prone](3-Mechanics/CLI/rules/conditions.md#Prone) on the floor below (A7) amid stone debris. On a success, the creature avoids the fall by leaping to an adjacent, unoccupied space. The sound of the collapsing floor can be heard throughout the temple.
 
 #### A3. Anterior Vestibule
 
@@ -701,13 +695,13 @@ Mounted on the back wall of an alcove to the north is an 18-foot-high, 9-foot-wi
 
 ##### Cult Gathering
 
-During cult gatherings, a [bearded devil](/3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) guards each of the doors leading to A7.
+During cult gatherings, a [bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) guards each of the doors leading to A7.
 
 #### A4. Family Crypt
 
 Twelve stone sarcophagi are packed into deep recesses in the walls. The plaster lid of each sarcophagus is carved in the likeness of a noble clutching a chalice that bears a symbol of the sun. The sarcophagi contain nothing but dust and bones.
 
-The spirits of several dead members of the Cassalanter family are bound to this crypt. They manifest as three dark, vaporous [specters](/3-Mechanics/CLI/bestiary/undead/specter.md) plus a [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) that looks like the insubstantial image of a handsome, clean-shaven man of knightly bearing clad in plate armor. These undead attack any living creatures but can't leave the crypt or approach within 5 feet of any creature that wears a holy symbol of Asmodeus.
+The spirits of several dead members of the Cassalanter family are bound to this crypt. They manifest as three dark, vaporous [specters](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) plus a [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) that looks like the insubstantial image of a handsome, clean-shaven man of knightly bearing clad in plate armor. These undead attack any living creatures but can't leave the crypt or approach within 5 feet of any creature that wears a holy symbol of Asmodeus.
 
 The ghost is all that remains of Caladorn Cassalanter, a former Masked Lord and hero of Waterdeep. The ghost halts its attack and calls off the specters if a character wears or presents a holy symbol of Siamorphe. After it is shown such a symbol, the ghost guides characters to its personal crypt (A4a).
 
@@ -717,7 +711,7 @@ A dusty stone sarcophagus occupies this crypt, its plaster lid carved in the lik
 
 ##### Treasure
 
-Caladorn's bones have turned to dust, but his suit of +1 plate armor remains. Also lying in the dust is a mace of disruption. If Caladorn's ghost is present when one or both magic items are removed from the sarcophagus, it asks, "Do you vow to use these items to defeat the forces of darkness?" An answer in the affirmative is sufficient to lay the ghost to rest. Before vanishing for good, it says, "Use the mace to destroy the effigy of evil incarnate. End the corruption to restore my family's honor." (The "effigy" is the statue of Asmodeus in A7.)
+Caladorn's bones have turned to dust, but his suit of [+1 plate armor](3-Mechanics/CLI/items/1-armor-xdmg.md) remains. Also lying in the dust is a [mace of disruption](3-Mechanics/CLI/items/mace-of-disruption-xdmg.md). If Caladorn's ghost is present when one or both magic items are removed from the sarcophagus, it asks, "Do you vow to use these items to defeat the forces of darkness?" An answer in the affirmative is sufficient to lay the ghost to rest. Before vanishing for good, it says, "Use the mace to destroy the effigy of evil incarnate. End the corruption to restore my family's honor." (The "effigy" is the statue of Asmodeus in A7.)
 
 #### A4b. Empty Crypt
 
@@ -755,20 +749,20 @@ An hour before a cult gathering, five human cultists are here donning their rega
 This hall has a 30-foot-high vaulted ceiling and a pair of 20-foot-high balconies (see A2) overlooking it. Its other features as follows:
 
 - Rows of flickering candles in iron candlesticks form a pathway to a 30-foot-tall stone statue at the west end of the hall. The statue depicts a smiling, bearded man of diabolical bent, with small horns protruding from his brow and cloven hooves instead of feet. At the base of the statue, clutched in a stone claw erupting from the floor, is a 3-foot-deep, 9-foot-diameter stone bowl filled with crackling flames.  
-- Three human [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) wearing red robes, devil masks, and wooden holy symbols of Asmodeus kneel before the statue, feverishly chanting an infernal hymn. (During a cult gathering, the number of cultists present increases dramatically.)  
+- Three human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) wearing red robes, devil masks, and wooden holy symbols of Asmodeus kneel before the statue, feverishly chanting an infernal hymn. (During a cult gathering, the number of cultists present increases dramatically.)  
 - The walls around the statue are covered by large tapestries that depict scenes of human debauchery. (Behind the north tapestry is a rough-hewn passage that leads to A9.)  
 
 The Cassalanters' ritual to save Terenzio and Elzerina plays out here (see "Special Events").
 
 ##### Cult Gathering
 
-If the cult is here in force, thirty human [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) stand in neat rows before the statue, chanting to Asmodeus with wooden goblets in hand while their leader, [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B), tosses offerings into the bowl. Roughly half of the cultists are members of the nobility; the rest are Waterdavian rabble brought into the cult to fill out the ranks. Standing around the perimeter are [Willifort Crowelle](/3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md), [Tissina Khyret](/3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md), [Laiba Rosse](/3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md), and [Jandar Chergoba](/3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) (see "Head Servants"). Their job is to make sure the other cultists behave themselves while [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) (see appendix B) walks gracefully through the crowd with a golden decanter, ceremonially pouring wine into the cultists' goblets for toasting to the Lord of the Nine Hells. Lady Cassalanter's six [imps](/3-Mechanics/CLI/bestiary/fiend/imp.md) (see C25) are perched invisibly on the statue.
+If the cult is here in force, thirty human [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) stand in neat rows before the statue, chanting to Asmodeus with wooden goblets in hand while their leader, [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) (see appendix B), tosses offerings into the bowl. Roughly half of the cultists are members of the nobility; the rest are Waterdavian rabble brought into the cult to fill out the ranks. Standing around the perimeter are [Willifort Crowelle](3-Mechanics/CLI/bestiary/npc/willifort-crowelle-wdh.md), [Tissina Khyret](3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md), [Laiba Rosse](3-Mechanics/CLI/bestiary/npc/laiba-nana-rosse-wdh.md), and [Jandar Chergoba](3-Mechanics/CLI/bestiary/npc/jandar-chergoba-wdh.md) (see "Head Servants"). Their job is to make sure the other cultists behave themselves while [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) (see appendix B) walks gracefully through the crowd with a golden decanter, ceremonially pouring wine into the cultists' goblets for toasting to the Lord of the Nine Hells. Lady Cassalanter's six [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) (see C25) are perched invisibly on the statue.
 
 ##### Devil Statue and Sacrificial Bowl
 
-The statue once depicted Siamorphe, but the Cassalanters used stone shape spells to recast it into an image of their dread lord, Asmodeus. The massive bowl at the foot of the statue was also fashioned with stone shape spells; it radiates a strong aura of conjuration magic when subjected to a detect magic spell or similar magic. Magical flames erupt from the bowl as long as it remains intact. Any creature that enters the flames or starts its turn in them takes `dice:4d10|noform|noparens|avg` (`4d10`) fire damage. A creature reduced to 0 hit points by this damage turns to ashes. Nonmagical objects tossed into the flames are destroyed.
+The statue once depicted Siamorphe, but the Cassalanters used [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) spells to recast it into an image of their dread lord, Asmodeus. The massive bowl at the foot of the statue was also fashioned with [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) spells; it radiates a strong aura of conjuration magic when subjected to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic. Magical flames erupt from the bowl as long as it remains intact. Any creature that enters the flames or starts its turn in them takes `4d10` fire damage. A creature reduced to 0 hit points by this damage turns to ashes. Nonmagical objects tossed into the flames are destroyed.
 
-If the statue is struck by a mace of disruption, it cracks and falls to pieces, shattering the bowl as it tumbles down. Any member of the cult who witnesses the destruction of the statue takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage.
+If the statue is struck by a [mace of disruption](3-Mechanics/CLI/items/mace-of-disruption-xdmg.md), it cracks and falls to pieces, shattering the bowl as it tumbles down. Any member of the cult who witnesses the destruction of the statue takes 11 (`2d10`) psychic damage.
 
 ##### Secret Door
 
@@ -792,24 +786,24 @@ An underground stream flows through the west side of the temple and into a 5-foo
 
 ## Special Events
 
-If the Cassalanters fail to obtain the [Stone of Golorr](/3-Mechanics/CLI/items/stone-of-golorr-wdh.md), the following events don't come to pass. As a consequence, Terenzio and Elzerina are transformed into [lemures](/3-Mechanics/CLI/bestiary/fiend/lemure.md) as their souls are forfeit ten days after Founders' Day. Shattered by their failure and their loss, Victoro and [Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) vow to destroy those who thwarted them.
+If the Cassalanters fail to obtain the [Stone of Golorr](3-Mechanics/CLI/items/stone-of-golorr-wdh.md), the following events don't come to pass. As a consequence, Terenzio and Elzerina are transformed into [lemures](3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) as their souls are forfeit ten days after Founders' Day. Shattered by their failure and their loss, Victoro and [Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) vow to destroy those who thwarted them.
 
 ### Getting the Gold
 
 This event can occur only on Founders' Day or sooner.
 
-Armed with the [Stone of Golorr](/3-Mechanics/CLI/items/stone-of-golorr-wdh.md) and the keys to unlock the Vault of Dragons, [Victoro Cassalanter](/3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) enters the vault, uses a disguise self spell to appear as Lord Dagult Neverember, and tricks [Aurinax](/3-Mechanics/CLI/bestiary/npc/aurinax-wdh.md) the gold dragon into relinquishing the gold. A dozen House Cassalanter [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) disguised as members of the City Guard stuff the gold into sacks while a dozen more haul the sacks to a pair of waiting carriages for safe transport back to Cassalanter Villa. Each sack holds 1,000 gp, and each carriage can hold fifty sacks (50,000 gp) at a time. Getting the gold from the Vault of Dragons to Cassalanter Villa takes ten round trips (five per carriage) and the better part of a day. Three invisible [imps](/3-Mechanics/CLI/bestiary/fiend/imp.md) accompany each carriage, which is driven by a [bearded devil](/3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) wearing a hat and a high-collared cape to conceal its true nature. Upon arrival at Cassalanter Villa, each carriage is met by a dozen [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) in House Cassalanter livery, who unload the sacks of gold and place them in C29.
+Armed with the [Stone of Golorr](3-Mechanics/CLI/items/stone-of-golorr-wdh.md) and the keys to unlock the Vault of Dragons, [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md) enters the vault, uses a [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) spell to appear as Lord Dagult Neverember, and tricks [Aurinax](3-Mechanics/CLI/bestiary/npc/aurinax-wdh.md) the gold dragon into relinquishing the gold. A dozen House Cassalanter [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) disguised as members of the City Guard stuff the gold into sacks while a dozen more haul the sacks to a pair of waiting carriages for safe transport back to Cassalanter Villa. Each sack holds 1,000 gp, and each carriage can hold fifty sacks (50,000 gp) at a time. Getting the gold from the Vault of Dragons to Cassalanter Villa takes ten round trips (five per carriage) and the better part of a day. Three [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) accompany each carriage, which is driven by a [bearded devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md) wearing a hat and a high-collared cape to conceal its true nature. Upon arrival at Cassalanter Villa, each carriage is met by a dozen [guards](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) in House Cassalanter livery, who unload the sacks of gold and place them in C29.
 
-![Jenks catches sight of Lad...](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/summer-scene.webp#center "Jenks catches sight of Lady Cassalanter in the summer street")
+![Jenks catches sight of Lady Cassalanter in the summer street](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/summer-scene.webp#center)
 
 ### Day of the Damned
 
 This event occurs only if the Cassalanters obtain the gold from the Vault of Dragons.
 
-[Ammalia Cassalanter](/3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) hosts a grand party on Founders' Day that begins in the early afternoon and ends at midnight. Wealthy guests begin to arrive in the late afternoon and gather inside the villa, away from the sun and heat, while one hundred of Waterdeep's poorest residents-most brought from the Field Ward-gather under pavilions set up on the lawn. Hired actors dressed as Waterdeep's founders parade around, and bards play lively tunes. No one suspects that the food in the pavilion tents has been laced with midnight tears-a poison that will slay the impoverished guests at the stroke of midnight. Ammalia is immune to poison and thus partakes freely of the delicious food. Wealthy guests who remain holed up in Cassalanter Villa eat and drink at separate tables and are spared a grisly end.
+[Ammalia Cassalanter](3-Mechanics/CLI/bestiary/npc/ammalia-cassalanter-wdh.md) hosts a grand party on Founders' Day that begins in the early afternoon and ends at midnight. Wealthy guests begin to arrive in the late afternoon and gather inside the villa, away from the sun and heat, while one hundred of Waterdeep's poorest residents-most brought from the Field Ward-gather under pavilions set up on the lawn. Hired actors dressed as Waterdeep's founders parade around, and bards play lively tunes. No one suspects that the food in the pavilion tents has been laced with midnight tears-a poison that will slay the impoverished guests at the stroke of midnight. Ammalia is immune to poison and thus partakes freely of the delicious food. Wealthy guests who remain holed up in Cassalanter Villa eat and drink at separate tables and are spared a grisly end.
 
 An hour before midnight, the entertainers disperse as Ammalia begins making toasts to her wealthy guests, turning them into unwitting accomplices by virtue of their presence and thus ensuring their silence. Meanwhile, house guards prevent any of the rabble from leaving, forcibly detaining anyone who tries to flee. Unless the characters prevent the poor folk from eating the tainted food, those attendees consume the poison and perish at the stroke of midnight.
 
-While Ammalia plays host, Victoro instructs his cultists to remove the sacks of gold from House Cassalanter's vault (C29) and hurl them into the sacrificial bowl (A7). They finish shortly before midnight. At the stroke of midnight, as the poison does its work, Ammalia keeps an eye on her wealthy guests and orders Tessina Khyret to notify Victoro that the deed is done. Standing before the statue of Asmodeus in the temple, Victoro summons a [barbed devil](/3-Mechanics/CLI/bestiary/fiend/barbed-devil.md) and informs it that payment has been made in full. The devil declares (in Infernal) that the payment is "satisfactory" and informs Victoro that the souls of Terenzio and Elzerina will not be taken to the Nine Hells. It then disappears whence it came, leaving the Cassalanters to bask in their triumph.
+While Ammalia plays host, Victoro instructs his cultists to remove the sacks of gold from House Cassalanter's vault (C29) and hurl them into the sacrificial bowl (A7). They finish shortly before midnight. At the stroke of midnight, as the poison does its work, Ammalia keeps an eye on her wealthy guests and orders Tessina Khyret to notify Victoro that the deed is done. Standing before the statue of Asmodeus in the temple, Victoro summons a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) and informs it that payment has been made in full. The devil declares (in Infernal) that the payment is "satisfactory" and informs Victoro that the souls of Terenzio and Elzerina will not be taken to the Nine Hells. It then disappears whence it came, leaving the Cassalanters to bask in their triumph.
 
 After the party, in the dark hours of morning, the corpses of the dead are cast into the fiery bowl in A7, leaving no evidence of foul play. In the days and months that follow, Victoro and Ammalia use threats of diabolical retribution to silence witnesses and wield their political clout to quash criminal investigations.

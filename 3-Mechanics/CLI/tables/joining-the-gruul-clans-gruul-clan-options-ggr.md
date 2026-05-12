@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Joining the Gruul Clans; Gruul Clan Options
+- "Joining the Gruul Clans; Gruul Clan Options"
 ---
 # Joining the Gruul Clans; Gruul Clan Options
 *Source: Guildmasters' Guide to Ravnica p. 59* 
 
 **Gruul Clan Options**
-
-`dice: [](joining-the-gruul-clans-gruul-clan-options-ggr.md#^gruul-clan-options)`
 
 | dice: d8 | Clan |
 |----------|------|

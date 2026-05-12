@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Last Stand Armor"
 - "Last Stand Breastplate"
 - "Last Stand Chain Mail"

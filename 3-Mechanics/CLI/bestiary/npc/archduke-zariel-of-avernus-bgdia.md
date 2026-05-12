@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archduke Zariel of Avernus
+- "Archduke Zariel of Avernus"
 ---
-# [Archduke Zariel of Avernus](3-Mechanics\CLI\bestiary\npc/archduke-zariel-of-avernus-bgdia.md)
+# [Archduke Zariel of Avernus](3-Mechanics/CLI/bestiary/npc/archduke-zariel-of-avernus-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 243*  
 
 Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer and was transformed by Asmodeus into an archdevil.
@@ -49,29 +49,26 @@ Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalot
   - "wisdom": !!int "16"
   - "charisma": !!int "18"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+18"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+16"
 "damage_resistances": "fire; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 26"
+"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"gear":
+  - "javelin"
+  - "longsword"
+"senses": "darkvision 120 ft., passive Perception 26"
 "languages": "all, telepathy 120 ft."
 "cr": "26"
 "traits":
   - "desc": "Zariel's innate spellcasting ability is Charisma (spell save DC 26).\
       \ She can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md) (can\
-      \ become Medium when changing her appearance), [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-      \ (self only), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\
-      \n**3/day each:** [blade barrier](/3-Mechanics/CLI/spells/blade-barrier-xphb.md),\
-      \ [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
-      \ [finger of death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md)"
+      \n**At will:** alter self (can become Medium when changing her appearance),\
+      \ detect evil and good, fireball, invisibility (self only), wall of fire\n\n\
+      **3/day each:** blade barrier, dispel evil and good, finger of death"
     "name": "Innate Spellcasting"
   - "desc": "Magical darkness doesn't impede Zariel's darkvision."
     "name": "Devil's Sight"
@@ -92,21 +89,20 @@ Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalot
   - "desc": "Zariel attacks twice with her flail and once with Matalotok. She can\
       \ substitute Horrid Touch for Matalotok."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) piercing damage plus 36 (8d8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) piercing damage plus 36 (8d8) fire damage."
     "name": "Flail"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning, or 19 (2d10 + 8) bludgeoning damage if used with two\
-      \ hands, plus 36 (8d8) fire damage. In addition, the weapon emits a burst of\
-      \ cold that deals 10 (3d6) cold damage to each creature within 30 feet of it."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning, or 19 (2d10 + 8) bludgeoning damage if used\
+      \ with two hands, plus 36 (8d8) fire damage. In addition, the weapon emits\
+      \ a burst of cold that deals 10 (3d6) cold damage to each creature within\
+      \ 30 feet of it."
     "name": "Matalotok (Warhammer)"
   - "desc": "Zariel touches one creature within 10 feet of her. The target must succeed\
       \ on a DC 26 Constitution saving throw or take 44 (8d10) necrotic damage and\
-      \ be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute. While\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the target\
-      \ is also [blinded](/3-Mechanics/CLI/conditions.md#Blinded) and [deafened](/3-Mechanics/CLI/conditions.md#Deafened).\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ be poisoned for 1 minute. While poisoned in this way, the target is also blinded\
+      \ and deafened. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
     "name": "Horrid Touch (Recharge 5-6)"
   - "desc": "Zariel magically teleports, along with any equipment she is wearing and\
       \ carrying, up to 120 feet to an unoccupied space she can see."
@@ -123,6 +119,6 @@ Zariel recently defeated the demon lord Kostchtchie and took his hammer, Matalot
     "name": "Teleport"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/archduke-zariel-of-avernus-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/archduke-zariel-of-avernus-bgdia.webp"
 ```
 ^statblock

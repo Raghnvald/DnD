@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/peace
 - ttrpg-cli/domain/twilight
-aliases: 
-- Boldrei
+aliases:
+- "Boldrei"
 ---
 # Boldrei
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything* 

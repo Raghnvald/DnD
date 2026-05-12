@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/4
-- new/monster/size/huge
-- new/monster/type/ooze
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elder Black Pudding
+- "Elder Black Pudding"
 ---
-# [Elder Black Pudding](3-Mechanics\CLI\bestiary\ooze/elder-black-pudding-tftyp.md)
+# [Elder Black Pudding](3-Mechanics/CLI/bestiary/ooze/elder-black-pudding-tftyp.md)
 *Source: Tales from the Yawning Portal p. 143*  
 
 ```statblock
@@ -33,8 +33,11 @@ aliases:
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
 "traits":
@@ -53,8 +56,8 @@ aliases:
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
       \ armor worn by the target is partly dissolved and takes a permanent and cumulative\
       \ −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces\
       \ its AC to 10."
@@ -67,6 +70,6 @@ aliases:
     "name": "Split"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/elder-black-pudding-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/elder-black-pudding-tftyp.webp"
 ```
 ^statblock

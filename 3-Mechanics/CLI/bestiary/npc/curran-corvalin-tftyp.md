@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Curran Corvalin
+- "Curran Corvalin"
 ---
-# [Curran Corvalin](3-Mechanics\CLI\bestiary\npc/curran-corvalin-tftyp.md)
+# [Curran Corvalin](3-Mechanics/CLI/bestiary/npc/curran-corvalin-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  
 
 ```statblock
@@ -33,6 +33,9 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"damage_resistances": "poison"
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common), Halfling"
 "cr": "0"
@@ -41,12 +44,14 @@ aliases:
     "name": "Halfling Nimbleness"
   - "desc": "Curran"
     "name": "Brave"
+  - "desc": "Curran"
+    "name": "Stout Resilience"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/curran-corvalin-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/curran-corvalin-tftyp.webp"
 ```
 ^statblock

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Currency: Zibs and Zinos; Ravnica Currency
+- "Currency: Zibs and Zinos; Ravnica Currency"
 ---
 # Currency: Zibs and Zinos; Ravnica Currency
 *Source: Guildmasters' Guide to Ravnica p. 9* 

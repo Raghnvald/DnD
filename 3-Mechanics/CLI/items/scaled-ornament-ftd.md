@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/varies
-aliases: 
+aliases:
 - "Scaled Ornament"
 ---
 # Scaled Ornament
@@ -18,9 +18,9 @@ This ornament can be jewelry, a cloak, or another wearable accessory. It appears
 
 **Items in this group:**
 
-- [Slumbering Scaled Ornament](/3-Mechanics/CLI/items/slumbering-scaled-ornament-ftd.md)
-- [Stirring Scaled Ornament](/3-Mechanics/CLI/items/stirring-scaled-ornament-ftd.md)
-- [Wakened Scaled Ornament](/3-Mechanics/CLI/items/wakened-scaled-ornament-ftd.md)
-- [Ascendant Scaled Ornament](/3-Mechanics/CLI/items/ascendant-scaled-ornament-ftd.md)
+- [Slumbering Scaled Ornament](3-Mechanics/CLI/items/slumbering-scaled-ornament-ftd.md)
+- [Stirring Scaled Ornament](3-Mechanics/CLI/items/stirring-scaled-ornament-ftd.md)
+- [Wakened Scaled Ornament](3-Mechanics/CLI/items/wakened-scaled-ornament-ftd.md)
+- [Ascendant Scaled Ornament](3-Mechanics/CLI/items/ascendant-scaled-ornament-ftd.md)
 
 *Source: Fizban's Treasury of Dragons p. 27*

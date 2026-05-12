@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/domain/war
-aliases: 
-- Tiamat
+aliases:
+- "Tiamat"
 ---
 # Tiamat
 *Source: Dungeon Master's Guide p. 10* 

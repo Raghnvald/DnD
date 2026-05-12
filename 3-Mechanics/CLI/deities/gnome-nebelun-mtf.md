@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Nebelun
+aliases:
+- "Nebelun"
 ---
 # Nebelun
 *Source: Mordenkainen's Tome of Foes p. 112* 

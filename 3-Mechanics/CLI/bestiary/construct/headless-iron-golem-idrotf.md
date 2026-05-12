@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Headless Iron Golem
+- "Headless Iron Golem"
 ---
-# [Headless Iron Golem](3-Mechanics\CLI\bestiary\construct/headless-iron-golem-idrotf.md)
+# [Headless Iron Golem](3-Mechanics/CLI/bestiary/construct/headless-iron-golem-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 244*  
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
@@ -39,13 +39,17 @@ An iron golem's body is smelted with rare tinctures and admixtures. Though other
 "speed": "30 ft."
 "damage_immunities": "fire; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
-  - "desc": "The golem is blinded and deafened, giving it disadvantage on all its\
-      \ attack rolls, and it can't use its Poison Breath."
+  - "desc": "The golem is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and\
+      \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), giving it disadvantage\
+      \ on all its attack rolls, and it can't use its Poison Breath."
     "name": "Headless"
   - "desc": "Whenever the golem is subjected to fire damage, it takes no damage and\
       \ instead regains a number of hit points equal to the fire damage dealt."
@@ -60,14 +64,14 @@ An iron golem's body is smelted with rare tinctures and admixtures. Though other
 "actions":
   - "desc": "The golem makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) bludgeoning damage."
     "name": "Slam"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23\
-      \ (3d10 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 23 (3d10 + 7) slashing damage."
     "name": "Sword"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/headless-iron-golem-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/headless-iron-golem-idrotf.webp"
 ```
 ^statblock

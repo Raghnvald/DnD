@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Steadings
+- "Steadings"
 ---
 # Steadings
 *Source: Bigby Presents: Glory of the Giants p. 37* 
 
 **Steadings**
-
-`dice: [](steadings-bgg.md#^steadings)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

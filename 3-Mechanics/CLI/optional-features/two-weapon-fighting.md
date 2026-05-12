@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/optional-feature/fs-f
 - ttrpg-cli/optional-feature/fs-r
 aliases:
-- Two-Weapon Fighting
+- "Two-Weapon Fighting"
 ---
 # Two-Weapon Fighting
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

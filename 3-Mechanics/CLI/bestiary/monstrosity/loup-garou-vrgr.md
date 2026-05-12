@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Loup Garou
+- "Loup Garou"
 ---
-# [Loup Garou](3-Mechanics\CLI\bestiary\monstrosity/loup-garou-vrgr.md)
+# [Loup Garou](3-Mechanics/CLI/bestiary/monstrosity/loup-garou-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 237*  
 
 Loup garou possess a strain of lycanthropy more virulent than that carried by common werewolves. Aside from being deadlier than their werewolf cousins, loup garou aggressively spread the plague of lycanthropy. Only through the death of a loup garou might those afflicted by it escape their curse.
@@ -21,7 +21,7 @@ Loup garou possess a strain of lycanthropy more virulent than that carried by co
 
 A Humanoid who succumbs to a loup garou's lycanthropy becomes a werewolf. This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives. See the *Monster Manual* for details on lycanthropy.
 
-Once a loup garou is slain, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
+Once a loup garou is slain, a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell cast during the night of a full moon on any afflicted werewolf it created forces the target to make a DC 17 Constitution saving throw. On a success, the curse is broken, and the target returns to its normal form and gains 3 levels of exhaustion. On a failure, the curse remains, and the target automatically fails any saving throw made to break this curse for 1 month.
 
 ```statblock
 "name": "Loup Garou (VRGR)"
@@ -47,13 +47,15 @@ Once a loup garou is slain, a [remove curse](/3-Mechanics/CLI/spells/remove-curs
   - "constitution": !!int "9"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+13"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 23"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 23"
 "languages": "Common (can't speak in wolf form)"
 "cr": "13"
 "traits":
@@ -72,17 +74,17 @@ Once a loup garou is slain, a [remove curse](/3-Mechanics/CLI/spells/remove-curs
       \ or one with its Bite and one with its Claws (dire wolf or hybrid form)."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) piercing damage plus 14 (4d6) necrotic damage. If the target is\
-      \ a Humanoid, it must succeed on a DC 17 Constitution saving throw or be cursed\
-      \ with loup garou lycanthropy."
+      \ (2d8 + 4) piercing damage plus 14 (4d6) necrotic damage. If the target\
+      \ is a Humanoid, it must succeed on a DC 17 Constitution saving throw or be\
+      \ cursed with loup garou lycanthropy."
     "name": "Bite (Dire Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage. If the target is a creature, it must succeed on\
-      \ a DC 17 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ (2d6 + 4) slashing damage. If the target is a creature, it must succeed\
+      \ on a DC 17 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Claws (Dire Wolf or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with two\
-      \ hands."
+      \ (2d8 + 4) slashing damage, or 15 (2d10 + 4) slashing damage if used with\
+      \ two hands."
     "name": "Longsword (Humanoid Form Only)"
 "bonus_actions":
   - "desc": "The loup garou polymorphs into a Large wolf-humanoid hybrid or into a\
@@ -107,6 +109,6 @@ Once a loup garou is slain, a [remove curse](/3-Mechanics/CLI/spells/remove-curs
     "name": "Bite (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/loup-garou-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/loup-garou-vrgr.webp"
 ```
 ^statblock

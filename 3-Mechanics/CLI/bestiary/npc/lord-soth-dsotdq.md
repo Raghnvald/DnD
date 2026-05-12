@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lord Soth
+- "Lord Soth"
 ---
-# [Lord Soth](3-Mechanics\CLI\bestiary\npc/lord-soth-dsotdq.md)
-*Source: Dragonlance: Shadow of the Dragon Queen p. 206, Vecna: Eve of Ruin*  
+# [Lord Soth](3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md)
+*Source: Dragonlance: Shadow of the Dragon Queen p. 206*  
 
 Lord Soth is the most powerful death knight on Krynn. Once a Solamnic Knight of the Order of the Rose, Soth was a paragon of virtue and justice who allowed his pride to lead him down an evil path. The gods gave Soth a chance at redemption, charging him with confronting the Kingpriest of Istar and averting the Cataclysm. However, he was undone by his pride, abandoned his quest, and allowed the Cataclysm to devastate Krynn. Soth perished during the Cataclysm but then rose from the ashes as an Undead horror. In his cursed castle, Dargaard Keep, Soth long ignored the ruined world, but the Dragon Queen's summons has called his evil forth once more.
 
@@ -61,15 +61,16 @@ In battle, Soth is a terror, wielding the last remnant of the Cataclysm's fires 
 "actions":
   - "desc": "Soth makes three Forsaken Brand attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d8 + 6) bludgeoning damage plus 18 (4d8) necrotic damage, and if the target\
-      \ is a creature, it can't regain hit points until the start of Soth's next turn."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 10 (1d8 + 6) bludgeoning damage plus 18 (4d8) necrotic damage, and if\
+      \ the target is a creature, it can't regain hit points until the start of Soth's\
+      \ next turn."
     "name": "Forsaken Brand"
   - "desc": "Soth hurls a magical ball of fire that explodes at a point he can see\
       \ within 120 feet of himself. Each creature in a 20-foot-radius sphere centered\
       \ on that point must make a DC 19 Dexterity saving throw. A creature takes 35\
-      \ (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or half\
-      \ as much damage on a successful one.\n\nAdditionally, any Medium or smaller\
+      \ (10d6) fire damage and 35 (10d6) necrotic damage on a failed save, or\
+      \ half as much damage on a successful one.\n\nAdditionally, any Medium or smaller\
       \ Humanoid killed by this damage, as well as every corpse of such a creature\
       \ within the sphere, becomes a skeleton (see the Monster Manual) under Soth's\
       \ control. The skeleton acts on Soth's initiative but immediately after his\
@@ -102,7 +103,6 @@ In battle, Soth is a terror, wielding the last remnant of the Cataclysm's fires 
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "DSotDQ"
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lord-soth-dsotdq.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lord-soth-dsotdq.webp"
 ```
 ^statblock

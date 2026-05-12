@@ -9,12 +9,14 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/solidarity-domain-psa
 classes:
 - Bard (Magical Secrets)
 - Cleric
+- Cleric (Solidarity Domain (PSA))
 - Paladin
 aliases:
-- Aid
+- "Aid"
 ---
 # Aid
 *2nd-level, Abjuration*  
@@ -29,6 +31,6 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Solidarity Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-solidarity-domain-psa-psa.md "subclass=PSA"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

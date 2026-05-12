@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bullywug
+- "Bullywug"
 ---
-# [Bullywug](3-Mechanics\CLI\bestiary\humanoid/bullywug.md)
-*Source: Monster Manual p. 35, Explorer's Guide to Wildemount*  
+# [Bullywug](3-Mechanics/CLI/bestiary/humanoid/bullywug.md)
+*Source: Monster Manual p. 35*  
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
 
@@ -45,7 +45,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 "subtype": "bullywug"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "hide armor, shield"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -58,8 +58,10 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
   - !!int "7"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 10"
 "languages": "Bullywug"
 "cr": "1/4"
@@ -69,8 +71,8 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
   - "desc": "The bullywug can communicate simple concepts to frogs and toads when\
       \ it speaks in Bullywug."
     "name": "Speak with Frogs and Toads"
-  - "desc": "The bullywug has advantage on Dexterity (Stealth) checks made to hide\
-      \ in swampy terrain."
+  - "desc": "The bullywug has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide in swampy terrain."
     "name": "Swamp Camouflage"
   - "desc": "The bullywug's long jump is up to 20 feet and its high jump is up to\
       \ 10 feet, with or without a running start."
@@ -79,8 +81,8 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
   - "desc": "The bullywug makes two melee attacks: one with its bite and one with\
       \ its spear."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) bludgeoning damage."
     "name": "Bite"
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
@@ -88,8 +90,7 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bullywug.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bullywug.webp"
 ```
 ^statblock
 

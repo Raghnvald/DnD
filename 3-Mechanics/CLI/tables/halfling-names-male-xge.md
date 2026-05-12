@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Halfling Names – Male
+- "Halfling Names – Male"
 ---
 # Halfling Names – Male
 *Source: Xanathar's Guide to Everything p. 179* 
 
 **Halfling Names – Male**
-
-`dice: [](halfling-names-male-xge.md#^halfling-names-male)`
 
 | dice: d100 | Name |
 |------------|------|

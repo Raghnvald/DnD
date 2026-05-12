@@ -9,8 +9,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/peace
 - ttrpg-cli/domain/war
-aliases: 
-- Angharradh
+aliases:
+- "Angharradh"
 ---
 # Angharradh
 *Source: Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 33* 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Myconid Sprout
+- "Myconid Sprout"
 ---
-# [Myconid Sprout](3-Mechanics\CLI\bestiary\plant/myconid-sprout-xmm.md)
+# [Myconid Sprout](3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md)
 *Source: Monster Manual (2024) p. 222*  
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
@@ -44,27 +44,27 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "11"
   - !!int "5"
 "speed": "10 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "telepathy 240 ft."
 "cr": "0"
 "traits":
-  - "desc": "While in sunlight, the myconid has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). The myconid\
-      \ dies if it spends more than 1 hour in sunlight."
+  - "desc": "While in sunlight, the myconid has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md). The\
+      \ myconid dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
-  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Bludgeoning damage\
-      \ plus 2 (1d4) Poison damage."
+  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Bludgeoning\
+      \ damage plus 2 (1d4) Poison damage."
     "name": "Slam"
-  - "desc": "The myconid expels spores in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The myconid expels spores in a 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."
     "name": "Rapport Spores"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/myconid-sprout-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/myconid-sprout-xmm.webp"
 ```
 ^statblock
 

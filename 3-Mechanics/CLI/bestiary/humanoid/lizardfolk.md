@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk
+- "Lizardfolk"
 ---
-# [Lizardfolk](3-Mechanics\CLI\bestiary\humanoid/lizardfolk.md)
-*Source: Monster Manual p. 204, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Lizardfolk](3-Mechanics/CLI/bestiary/humanoid/lizardfolk.md)
+*Source: Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
@@ -61,7 +61,7 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "subtype": "lizardfolk"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "natural armor, shield"
+"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -74,12 +74,14 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1/2"
@@ -89,22 +91,21 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 "actions":
   - "desc": "The lizardfolk makes two melee attacks, each one with a different weapon."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage."
     "name": "Heavy Club"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage."
     "name": "Javelin"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Spiked Shield"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk.webp"
 ```
 ^statblock
 

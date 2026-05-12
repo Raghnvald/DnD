@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Will-o'-Wisp
+- "Will-o'-Wisp"
 ---
-# [Will-o'-Wisp](3-Mechanics\CLI\bestiary\undead/will-o-wisp-xmm.md)
+# [Will-o'-Wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md)
 *Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Will-o'-Wisp
@@ -30,8 +30,6 @@ From a distance, will-o'-wisps look like lanterns bobbing in the dark. Through t
 Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a will-o'-wisp imperils its victims.
 
 **Will-o'-Wisp Ambushes**
-
-`dice: [](will-o-wisp-xmm.md#^will-o-wisp-ambushes)`
 
 | dice: 1d6 | The Will-o'-Wisp Tempts Victims Into... |
 |-----------|-----------------------------------------|
@@ -62,42 +60,43 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_resistances": "acid, bludgeoning, cold, fire, necrotic, piercing, slashing"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
   - "desc": "The wisp can't wear or carry anything."
     "name": "Ephemeral"
-  - "desc": "The wisp sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 20-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The wisp sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 20-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
       \ for an additional 20 feet."
     "name": "Illumination"
   - "desc": "The wisp can move through other creatures and objects as if they were\
-      \ [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Lightning damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 11 (2d8 + 2) Lightning\
+      \ damage."
     "name": "Shock"
 "bonus_actions":
   - "desc": "*Constitution Saving Throw:* DC 10, one living creature the wisp can\
-      \ see within 5 feet that has 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
-      \ *Failure:* The target dies, and the wisp regains 10 (3d6) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+      \ see within 5 feet that has 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).\
+      \ *Failure:* The target dies, and the wisp regains 10 (3d6) [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
     "name": "Consume Life"
-  - "desc": "The wisp and its light have the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ condition until the wisp's [Concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
+  - "desc": "The wisp and its light have the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ condition until the wisp's [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ ends on this effect, which ends early immediately after the wisp makes an\
       \ attack roll or uses Consume Life."
     "name": "Vanish"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/will-o-wisp-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/will-o-wisp-xmm.webp"
 ```
 ^statblock
 

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/forgotten-realms
 - ttrpg-cli/domain/nature
-aliases: 
-- Silvanus
+aliases:
+- "Silvanus"
 ---
 # Silvanus
 *Source: Player's Handbook p. 294. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Inheritors of the First World Adventure Hooks
+- "Inheritors of the First World Adventure Hooks"
 ---
 # Inheritors of the First World Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 49* 
 
 **Inheritors of the First World Adventure Hooks**
-
-`dice: [](inheritors-of-the-first-world-adventure-hooks-ftd.md#^inheritors-of-the-first-world-adventure-hooks)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

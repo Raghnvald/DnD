@@ -3,23 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dusk Hag
+- "Dusk Hag"
 ---
-# [Dusk Hag](3-Mechanics\CLI\bestiary\fey/dusk-hag-erlw.md)
+# [Dusk Hag](3-Mechanics/CLI/bestiary/fey/dusk-hag-erlw.md)
 *Source: Eberron: Rising from the Last War p. 292*  
 
 Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair, and eyes that burn like hot coals. They see visions of the future in their dreams, and their dark magic allows them to influence the dreams of others, sending messages or inflicting nightmares with a touch. Tales talk of ambitious wizards, frantic monarchs, and desperate heroes undertaking quests or making bargains with a dusk hag in exchange for its prophecies and visions of the future. But the information gained from a dusk hag often has a way of causing more pain than joy. Like all hags, dusk hags enjoy causing strife to those who bargain with them, and find ways to twist and turn promises to their own advantage. The Dusk Hag Prophecies table provides examples of the sort of dreams dusk hags might share with unsuspecting sleepers.
 
 **Dusk Hag Prophecies**
-
-`dice: [](dusk-hag-erlw.md#^dusk-hag-prophecies)`
 
 | dice: d10 | Prophecy |
 |-----------|----------|
@@ -79,14 +77,14 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
 "actions":
   - "desc": "The hag makes two Nightmare Touch attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Claws"
-  - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 18\
-      \ (4d6 + 4) psychic damage. If the target is unconscious, it takes an extra\
-      \ 10 (3d6) psychic damage and is cursed until the hag dies or the curse is removed.\
-      \ The cursed creature's hit point maximum decreases by 5 (1d10) whenever it\
-      \ finishes a long rest."
+  - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 18 (4d6 + 4) psychic damage. If the target is unconscious, it takes an extra\
+      \ 10 (3d6) psychic damage and is cursed until the hag dies or the curse is\
+      \ removed. The cursed creature's hit point maximum decreases by 5 (1d10) whenever\
+      \ it finishes a long rest."
     "name": "Nightmare Touch"
 "reactions":
   - "desc": "When an unconscious creature the hag can see within 30 feet of her regains\
@@ -96,6 +94,6 @@ Dusk hags resemble gnarled crones with shriveled orange skin, tangled gray hair,
     "name": "Dream Eater"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/dusk-hag-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/dusk-hag-erlw.webp"
 ```
 ^statblock

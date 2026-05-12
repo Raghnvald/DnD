@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/tempest
-aliases: 
-- Istishia
+aliases:
+- "Istishia"
 ---
 # Istishia
 *Source: Sword Coast Adventurer's Guide p. 21* 

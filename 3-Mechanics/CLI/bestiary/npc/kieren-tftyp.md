@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kieren
+- "Kieren"
 ---
-# [Kieren](3-Mechanics\CLI\bestiary\npc/kieren-tftyp.md)
+# [Kieren](3-Mechanics/CLI/bestiary/npc/kieren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  
 
 ```statblock
@@ -33,15 +33,17 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kieren-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kieren-tftyp.webp"
 ```
 ^statblock

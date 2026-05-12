@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dread Warrior
+- "Dread Warrior"
 ---
-# [Dread Warrior](3-Mechanics\CLI\bestiary\undead/dread-warrior-tftyp.md)
+# [Dread Warrior](3-Mechanics/CLI/bestiary/undead/dread-warrior-tftyp.md)
 *Source: Tales from the Yawning Portal p. 233*  
 
 The Red Wizards (Dead in Thay) make use of several kinds of undead minions, including the special servants known as dread warriors. After being created by a secret ritual, a dread warrior is further enchanted so that a Red Wizard can employ the creature in the fashion of a spellcaster's familiar. By creating a psychic link with a dread warrior, a Red Wizard can experience the world through the creature's senses and direct the warrior.
@@ -27,7 +27,7 @@ A dread warrior doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
-"ac_class": "chain mail, shield"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
 "modifier": !!int "0"
@@ -42,13 +42,18 @@ A dread warrior doesn't require air, food, drink, or sleep.
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common"
 "cr": "1"
 "traits":
@@ -60,15 +65,15 @@ A dread warrior doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The dread warrior makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if wielded with two\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if wielded\
+      \ with two hands."
     "name": "Battleaxe"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage."
     "name": "Javelin"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/dread-warrior-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/dread-warrior-tftyp.webp"
 ```
 ^statblock

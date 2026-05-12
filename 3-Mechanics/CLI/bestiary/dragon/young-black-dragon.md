@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Black Dragon
+- "Young Black Dragon"
 ---
-# [Young Black Dragon](3-Mechanics\CLI\bestiary\dragon/young-black-dragon.md)
+# [Young Black Dragon](3-Mechanics/CLI/bestiary/dragon/young-black-dragon.md)
 *Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -116,12 +116,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "acid"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -131,19 +131,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d10 + 4) piercing damage plus 4 (1d8) acid damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature\
-      \ in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid\
-      \ damage on a failed save, or half as much damage on a successful one."
+      \ in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8)\
+      \ acid damage on a failed save, or half as much damage on a successful one."
     "name": "Acid Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-black-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-black-dragon.webp"
 ```
 ^statblock
 

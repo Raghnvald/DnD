@@ -8,13 +8,11 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/death-domain
 classes:
 - Bard (Magical Secrets)
-- Cleric (Death Domain)
 - Druid
 aliases:
-- Antilife Shell
+- "Antilife Shell"
 ---
 # Antilife Shell
 *5th-level, Abjuration*  
@@ -31,6 +29,6 @@ The barrier prevents an affected creature from passing or reaching through. An a
 
 If you move so that an affected creature is forced to pass through the barrier, the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

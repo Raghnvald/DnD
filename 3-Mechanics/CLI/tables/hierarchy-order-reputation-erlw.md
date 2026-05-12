@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Hierarchy; Order Reputation
+- "Hierarchy; Order Reputation"
 ---
 # Hierarchy; Order Reputation
 *Source: Eberron: Rising from the Last War p. 97* 
 
 **Order Reputation**
-
-`dice: [](hierarchy-order-reputation-erlw.md#^order-reputation)`
 
 | dice: d6 | Reputation |
 |----------|------------|

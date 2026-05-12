@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xvart
+- "Xvart"
 ---
-# [Xvart](3-Mechanics\CLI\bestiary\monstrosity/xvart-mpmm.md)
+# [Xvart](3-Mechanics/CLI/bestiary/monstrosity/xvart-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
@@ -31,7 +31,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "type": "monstrosity"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -44,34 +44,37 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 8"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 8"
 "languages": "Abyssal"
 "cr": "1/8"
 "traits":
-  - "desc": "The xvart can communicate with ordinary [bats](/3-Mechanics/CLI/bestiary/beast/bat-xmm.md)\
-      \ and [rats](/3-Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant\
-      \ bats](/3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) and [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
+  - "desc": "The xvart can communicate with ordinary [bats](3-Mechanics/CLI/bestiary/beast/bat-xmm.md)\
+      \ and [rats](3-Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant bats](3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md)\
+      \ and [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md)."
     "name": "Raxivort's Tongue"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage. If at least one of the xvart's allies is within 5 feet\
-      \ of the target, the xvart can push the target 5 feet if the target is a Medium\
-      \ or smaller creature."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage. If at least one of the xvart's allies is within\
+      \ 5 feet of the target, the xvart can push the target 5 feet if the target is\
+      \ a Medium or smaller creature."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "bonus_actions":
-  - "desc": "The xvart takes the [Disengage](/3-Mechanics/CLI/actions.md#Disengage)\
+  - "desc": "The xvart takes the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
       \ action."
     "name": "Low Cunning"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp"
 ```
 ^statblock
 

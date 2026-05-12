@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/slw
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warrior
+- "Warrior"
 ---
-# [Warrior](3-Mechanics\CLI\bestiary\humanoid/warrior-slw.md)
+# [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md)
 *Source: Storm Lord's Wrath*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "20"
-"ac_class": "plate armor, shield"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "2"
@@ -36,12 +36,15 @@ aliases:
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common, plus one of your choice"
 "traits":
@@ -56,10 +59,11 @@ aliases:
     "name": "Martial Role"
 "actions":
   - "desc": "The warrior can attack twice, instead of once, whenever it takes the\
-      \ Attack action on its turn."
+      \ [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on its turn."
     "name": "Extra Attack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -71,6 +75,6 @@ aliases:
     "name": "Protection (Defender Only)"
 "source":
   - "SLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warrior-slw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/warrior-slw.webp"
 ```
 ^statblock

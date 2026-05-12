@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Secondary Tables; War
+- "Secondary Tables; War"
 ---
 # Secondary Tables; War
 *Source: Xanathar's Guide to Everything p. 70* 
 
 **War**
-
-`dice: [](secondary-tables-war-xge.md#^war)`
 
 | dice: d12 | War Outcome |
 |-----------|-------------|

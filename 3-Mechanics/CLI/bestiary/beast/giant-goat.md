@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Goat
+- "Giant Goat"
 ---
-# [Giant Goat](3-Mechanics\CLI\bestiary\beast/giant-goat.md)
+# [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat.md)
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -43,18 +43,18 @@ aliases:
   - "desc": "If the goat moves at least 20 feet straight toward a target and then\
       \ hits it with a ram attack on the same turn, the target takes an extra 5 (2d4)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 13\
-      \ Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The goat has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) bludgeoning damage."
     "name": "Ram"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-goat.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-goat.webp"
 ```
 ^statblock
 

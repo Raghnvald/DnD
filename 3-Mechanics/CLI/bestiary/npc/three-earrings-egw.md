@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Three Earrings
+- "Three Earrings"
 ---
-# [Three Earrings](3-Mechanics\CLI\bestiary\npc/three-earrings-egw.md)
+# [Three Earrings](3-Mechanics/CLI/bestiary/npc/three-earrings-egw.md)
 *Source: Explorer's Guide to Wildemount p. 211*  
 
 This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry pirates. She brought her vessel to the village of Palma Flora because she was informed that a local sahuagin tribe had uncovered an unusual treasure. Three Earrings rightly assumed that they were going to attack the village, and she intended to be there to plunder the ruins after the attack. She didn't anticipate Flora Isle sinking.
@@ -24,7 +24,7 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -41,12 +41,14 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+4"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "dagger"
+  - "scimitar"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
 "traits":
@@ -56,8 +58,8 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
   - "desc": "The captain makes three melee attacks: two with its scimitar and one\
       \ with its dagger. Or Three Earrings makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
@@ -71,6 +73,6 @@ This pale, spotted, Tabaxi bandit captain is a low-ranking member of the Revelry
     "name": "Parry"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/three-earrings-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/three-earrings-egw.webp"
 ```
 ^statblock

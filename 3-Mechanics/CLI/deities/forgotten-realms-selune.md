@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/twilight
-aliases: 
-- Selûne
+aliases:
+- "Selûne"
 ---
 # Selûne
 *Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)* 

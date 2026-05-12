@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nothic
+- "Nothic"
 ---
-# [Nothic](3-Mechanics\CLI\bestiary\aberration/nothic-xmm.md)
+# [Nothic](3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md)
 *Source: Monster Manual (2024) p. 228. Available in the Free Rules (2024)*  
 
 ## Nothic
@@ -21,7 +21,7 @@ aliases:
 *Witness to the Weird*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
 
 Consumed by their thirst for forbidden knowledge, nothics are cursed lore seekers transformed by secrets never meant to be known. The bodies of these former scholars are warped into otherworldly shapes, each with a head dominated by a gigantic, unblinking eye. Nothics remember nothing of their past lives and care only for their endless pursuit of hidden mysteries and uncanny truths. They seek revelations amid the rubble of forgotten ruins, and they use their supernatural sight to pierce magical deceptions, rot the flesh of enemies, and steal the secrets of those who interrupt their investigations.
 
@@ -50,22 +50,23 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 14"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 14"
 "languages": "Undercommon"
 "cr": "2"
 "actions":
   - "desc": "The nothic makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Slashing\
+      \ damage."
     "name": "Claw"
   - "desc": "*Constitution Saving Throw:* DC 13, one creature the nothic can see within\
       \ 120 feet. *Failure:* 17 (5d6) Necrotic damage. *Success:* Half damage."
@@ -77,7 +78,7 @@ Some nothics seek to end the curse that warped them into their bizarre forms, bu
     "name": "Weird Insight (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/nothic-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/nothic-xmm.webp"
 ```
 ^statblock
 

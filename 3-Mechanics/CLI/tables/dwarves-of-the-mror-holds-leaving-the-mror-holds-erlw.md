@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Dwarves of the Mror Holds; Leaving the Mror Holds
+- "Dwarves of the Mror Holds; Leaving the Mror Holds"
 ---
 # Dwarves of the Mror Holds; Leaving the Mror Holds
 *Source: Eberron: Rising from the Last War p. 19* 
 
 **Leaving the Mror Holds**
-
-`dice: [](dwarves-of-the-mror-holds-leaving-the-mror-holds-erlw.md#^leaving-the-mror-holds)`
 
 | dice: d8 | Reason for Leaving |
 |----------|--------------------|

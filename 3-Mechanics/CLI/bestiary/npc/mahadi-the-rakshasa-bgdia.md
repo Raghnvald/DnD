@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mahadi the Rakshasa
+- "Mahadi the Rakshasa"
 ---
-# [Mahadi the Rakshasa](3-Mechanics\CLI\bestiary\npc/mahadi-the-rakshasa-bgdia.md)
+# [Mahadi the Rakshasa](3-Mechanics/CLI/bestiary/npc/mahadi-the-rakshasa-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 127*  
 
 Mahadi appears as a wealthy merchant lord. Though extremely powerful, Mahadi doesn't believe in taking unnecessary risks, particularly in the Nine Hells where he can be permanently slain. Mahadi acts as the eyes and ears of Asmodeus in Avernus. As a deal broker and moderator, he's privy to all manner of dealings that might otherwise escape the attention of his patron.
@@ -47,35 +47,27 @@ Of course, guests leaving Infernal Rapture are expected to pay their bills in fu
   - "wisdom": !!int "9"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+7"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+10"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all (can read only), Common, Infernal"
 "cr": "14"
 "traits":
   - "desc": "Mahadi's innate spellcasting ability is Charisma (spell save DC 18, +9\
       \ to hit with spell attacks). He can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**3/day\
-      \ each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [detect\
-      \ magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [hellish rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [major image](/3-Mechanics/CLI/spells/major-image-xphb.md), [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day each:**\
-      \ [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md), [demiplane](/3-Mechanics/CLI/spells/demiplane-xphb.md),\
-      \ [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md),\
-      \ [forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md), [geas](/3-Mechanics/CLI/spells/geas-xphb.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [true seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)"
+      \ no material components:\n\n**At will:** detect thoughts, disguise self, mage\
+      \ hand, minor illusion\n\n**3/day each:** charm person, detect magic, dispel\
+      \ magic, hellish rebuke, invisibility, major image, speak with dead, suggestion\n\
+      \n**1/day each:** banishment, demiplane, dominate person, fly, forcecage, geas,\
+      \ plane shift, true seeing"
     "name": "Innate Spellcasting"
   - "desc": "Mahadi can't be affected or detected by spells of 6th level or lower\
       \ unless he wishes to be. He has advantage on saving throws against all other\
@@ -86,13 +78,12 @@ Of course, guests leaving Infernal Rapture are expected to pay their bills in fu
 "actions":
   - "desc": "Mahadi makes four claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage, and the target is cursed if it's a creature. The curse\
-      \ takes effect whenever the target takes a short or long rest, filling the target's\
-      \ thoughts with horrible images and dreams. The cursed target gains no benefit\
-      \ from finishing a short or long rest. The curse lasts until it is lifted by\
-      \ a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar\
-      \ magic."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage, and the target is cursed if it's a creature.\
+      \ The curse takes effect whenever the target takes a short or long rest, filling\
+      \ the target's thoughts with horrible images and dreams. The cursed target gains\
+      \ no benefit from finishing a short or long rest. The curse lasts until it is\
+      \ lifted by a remove curse spell or similar magic."
     "name": "Claw"
   - "desc": "Mahadi summons Ilzabet, an erinyes bound to him by an infernal contract.\
       \ The erinyes appears in an unoccupied space within 60 feet of him, acts as\
@@ -102,6 +93,6 @@ Of course, guests leaving Infernal Rapture are expected to pay their bills in fu
     "name": "Summon Erinyes (1/Day)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/mahadi-the-rakshasa-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/mahadi-the-rakshasa-bgdia.webp"
 ```
 ^statblock

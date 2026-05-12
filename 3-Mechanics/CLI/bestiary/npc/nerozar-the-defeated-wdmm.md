@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nerozar the Defeated
+- "Nerozar the Defeated"
 ---
-# [Nerozar the Defeated](3-Mechanics\CLI\bestiary\npc/nerozar-the-defeated-wdmm.md)
+# [Nerozar the Defeated](3-Mechanics/CLI/bestiary/npc/nerozar-the-defeated-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 52*  
 
 ```statblock
@@ -36,8 +36,10 @@ aliases:
 "saves":
   - "wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned, prone"
-"senses": "darkvision 60 ft., passive Perception 9"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
@@ -51,25 +53,25 @@ aliases:
     "name": "Bite"
   - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
       \ see within 60 feet of it.\n\n- **1. Paralyzing Ray.** The targeted creature\
-      \ must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute.\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  \n- **2. Fear Ray.** The targeted creature\
-      \ must succeed on a DC 14 Wisdom saving throw or be frightened for 1 minute.\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  \n- **3. Enervation Ray.** The targeted\
-      \ creature must make a DC 14 Constitution saving throw, taking 36 (8d8) necrotic\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **4. Telekinetic Ray.** If the target is a creature, it must succeed on a\
-      \ DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction.\
-      \ It is restrained by the ray's telekinetic grip until the start of the zombie's\
-      \ next turn or until the zombie is incapacitated. If the target is an object\
-      \ weighing 300 pounds or less that isn't being worn or carried, it is moved\
-      \ up to 30 feet in any direction. The zombie can also exert fine control on\
-      \ objects with this ray, such as manipulating a simple tool or opening a door\
-      \ or container.  "
+      \ must succeed on a DC 14 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- **2. Fear Ray.**\
+      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- **3. Enervation\
+      \ Ray.** The targeted creature must make a DC 14 Constitution saving throw,\
+      \ taking 36 (8d8) necrotic damage on a failed save, or half as much damage\
+      \ on a successful one.  \n- **4. Telekinetic Ray.** If the target is a creature,\
+      \ it must succeed on a DC 14 Strength saving throw, or the zombie moves it up\
+      \ to 30 feet in any direction. It is restrained by the ray's telekinetic grip\
+      \ until the start of the zombie's next turn or until the zombie is incapacitated.\
+      \ If the target is an object weighing 300 pounds or less that isn't being worn\
+      \ or carried, it is moved up to 30 feet in any direction. The zombie can also\
+      \ exert fine control on objects with this ray, such as manipulating a simple\
+      \ tool or opening a door or container.  "
     "name": "Eye Ray"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nerozar-the-defeated-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nerozar-the-defeated-wdmm.webp"
 ```
 ^statblock

@@ -5,24 +5,24 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdh
 aliases:
-- Handouts
+- "Handouts"
 ---
 # Handouts
 *Source: Waterdeep: Dragon Heist, p. 221* 
 
 ## Yawning Portal Friendly Faces
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/friendly-faces.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/friendly-faces.webp#center)
 
 ## The Code Legal
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/the-code-legal.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/the-code-legal.webp#center)
 
 ## Trollskull Manor
 
 > [!gallery]
-> ![Trollskull Manor](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/trollskull-manor-dm.webp#gallery)
-> ![Trollskull Manor (Player Version)](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/trollskull-manor-players.webp#gallery)
+> ![Trollskull Manor](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/trollskull-manor-dm.webp#gallery)
+> ![Trollskull Manor (Player Version)](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/trollskull-manor-players.webp#gallery)
 
 ## Key to the Yawning Portal
 
@@ -114,4 +114,4 @@ Here are the names of the numbered characters featured in the Yawning Portal ill
 - 84. Xanathar  
 - 85. Matthew Mercer  
 
-![The Yawning Portal](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/the-yawning-portal.webp#center)
+![The Yawning Portal](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/the-yawning-portal.webp#center)

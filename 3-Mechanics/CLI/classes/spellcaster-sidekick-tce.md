@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/spellcaster-sidekick
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Spellcaster Sidekick
+- "Spellcaster Sidekick"
 ---
 # Spellcaster Sidekick
 *Source: Tasha's Cauldron of Everything p. 144*  
@@ -54,7 +54,7 @@ aliases:
 - **Armor**: Light armor
 - **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
-- **Skills**: Two skills of your choice from the following list: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), and [Religion](/3-Mechanics/CLI/skills.md#Religion).
+- **Skills**: Two skills of your choice from the following list: [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Performance](3-Mechanics/CLI/rules/skills.md#Performance), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion).
 
 
 ## Spellcaster Sidekick
@@ -68,7 +68,7 @@ A sidekick who becomes a Spellcaster walks the paths of magic. The sidekick migh
 To gain the Spellcaster class, a creature must have at least one language in its stat block that it can speak.
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](/3-Mechanics/CLI/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](3-Mechanics/CLI/rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -76,7 +76,7 @@ To gain the Spellcaster class, a creature must have at least one language in its
 
 The sidekick gains proficiency in one saving throw of your choice: Wisdom, Intelligence, or Charisma.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Performance](/3-Mechanics/CLI/skills.md#Performance), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), and [Religion](/3-Mechanics/CLI/skills.md#Religion).
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Performance](3-Mechanics/CLI/rules/skills.md#Performance), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion).
 
 The sidekick gains proficiency with light armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it also gains proficiency with all simple weapons.
 
@@ -95,23 +95,17 @@ The sidekick gains the ability to cast spells. (If the creature already has the 
 | Prodigy | Bard and Warlock | Charisma |
 ^spellcasting
 
-#### Spell Slots
+**Spell Slots.** The Spellcaster table shows how many spell slots the sidekick has to cast its Spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell's level or higher. The sidekick regains all expended spell slots when it finishes a long rest.
 
-The Spellcaster table shows how many spell slots the sidekick has to cast its Spellcaster spells of 1st level and higher. To cast one of these spells, the sidekick must expend a slot of the spell's level or higher. The sidekick regains all expended spell slots when it finishes a long rest.
+**Spells Known.** The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-#### Spells Known
-
-The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
-
-- **Mage.** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [ray of frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)  
-- **Healer.** [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md), [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md)  
-- **Prodigy.** [eldritch blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md), [healing word](/3-Mechanics/CLI/spells/healing-word-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md)  
+- **Mage.** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)  
+- **Healer.** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md)  
+- **Prodigy.** [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md), [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)  
 - The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
 - Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
 
-#### Spellcasting Ability
-
-The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.
+**Spellcasting Ability.** The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.
 
 The sidekick uses its spellcasting ability whenever a spell refers to that ability. In addition, it uses its spellcasting ability modifier when setting the saving throw DC for a spell it casts and when making an attack roll with one.
 
@@ -119,9 +113,7 @@ The sidekick uses its spellcasting ability whenever a spell refers to that abili
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Spellcasting</span>
 
-#### Spellcasting Focus
-
-The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [musical instrument](/3-Mechanics/CLI/items/musical-instrument-xphb.md).
+**Spellcasting Focus.** The sidekick can use a focus for its spells depending on the choice you made on the Spellcasting table. A Mage can use an arcane focus, a Healer can use a holy symbol, and a Prodigy can use an arcane focus or a [musical instrument](3-Mechanics/CLI/items/musical-instrument-xphb.md).
 
 ### Ability Score Improvement (Level 4)
 
@@ -179,4 +171,4 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *20th-level Spellcaster feature*
 
-Taking damage can't break the sidekick's [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on a spell.
+Taking damage can't break the sidekick's [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell.

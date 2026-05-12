@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Rogue
+- "Rogue"
 ---
 # Rogue
 *Source: Guildmasters' Guide to Ravnica p. 24* 
@@ -14,11 +14,11 @@ aliases:
 
 | Subclass | Guild |
 |----------|-------|
-| [Arcane Trickster](/3-Mechanics/CLI/classes/rogue-xphb.md) | Dimir |
-| [Assassin](/3-Mechanics/CLI/classes/rogue-xphb.md) | Dimir, Golgari, Orzhov |
+| Arcane Trickster | Dimir |
+| Assassin | Dimir, Golgari, Orzhov |
 | Inquisitive* | Azorius, Dimir |
 | Mastermind* | Dimir |
 | Scout* | Gruul |
-| Swashbuckler* | [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) |
-| [Thief](/3-Mechanics/CLI/classes/rogue-xphb.md) | Dimir, Golgari, Orzhov, [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) |
+| Swashbuckler* | [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) |
+| Thief | Dimir, Golgari, Orzhov, [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) |
 ^rogue

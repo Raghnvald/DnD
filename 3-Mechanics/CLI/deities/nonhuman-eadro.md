@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Eadro
+aliases:
+- "Eadro"
 ---
 # Eadro
 *Source: Player's Handbook p. 296* 

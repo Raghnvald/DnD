@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bugbear Warrior
+- "Bugbear Warrior"
 ---
-# [Bugbear Warrior](3-Mechanics\CLI\bestiary\fey/bugbear-warrior-xmm.md)
+# [Bugbear Warrior](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bugbear warriors serve those who offer them treasure, food, or the chance to hunt challenging prey.
@@ -27,7 +27,7 @@ Bugbear warriors serve those who offer them treasure, food, or the chance to hun
 *Lurking Goblinoid Brutes*
 
 - **Habitat.** Forest, Grassland, Planar (Feywild), Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Bugbears embody fear of the wilds and the menace of natural places. They're notoriously stealthy, and foes that venture into their territories often vanish without a trace.
 
@@ -50,12 +50,15 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
+  - "three [light hammers](3-Mechanics/CLI/items/light-hammer-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
@@ -63,16 +66,17 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
     "name": "Abduct"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 9 (2d6 + 2) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 12)."
     "name": "Grab"
-  - "desc": "*Melee  or Ranged Attack Roll:* +4 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
-      \ bugbear), reach 10 ft. or range 20/60 ft. *Hit:* 9 (3d4 + 2) Bludgeoning damage."
+  - "desc": "*Melee  or Ranged Attack Roll:* +4 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the bugbear), reach 10 ft. or range 20/60 ft. *Hit:* 9 (3d4 + 2) Bludgeoning\
+      \ damage."
     "name": "Light Hammer"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/bugbear-warrior-xmm.webp"
 ```
 ^statblock
 

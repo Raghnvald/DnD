@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Locathah
+- "Locathah"
 ---
-# [Locathah](3-Mechanics\CLI\bestiary\humanoid/locathah-gos.md)
+# [Locathah](3-Mechanics/CLI/bestiary/humanoid/locathah-gos.md)
 *Source: Ghosts of Saltmarsh p. 243*  
 
 These resilient and proud fish-folk (found in Danger at Dunwater) have endured war, slavery, and mistreatment at the hands of other aquatic creatures. They dwell in submerged tribal communities along seacoasts, and hunt both above and below the water.
@@ -43,6 +43,8 @@ These resilient and proud fish-folk (found in Danger at Dunwater) have endured w
     "desc": "+3"
   - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "spear"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/2"
@@ -62,6 +64,6 @@ These resilient and proud fish-folk (found in Danger at Dunwater) have endured w
     "name": "Spear"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/locathah-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/locathah-gos.webp"
 ```
 ^statblock

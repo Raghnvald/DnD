@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Spy
+- "Hybrid Spy"
 ---
-# [Hybrid Spy](3-Mechanics\CLI\bestiary\humanoid/hybrid-spy-ggr.md)
+# [Hybrid Spy](3-Mechanics/CLI/bestiary/humanoid/hybrid-spy-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 218*  
 
 ## Simic Hybrids
@@ -23,7 +23,7 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "name": "Hybrid Spy (GGR)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Simic hybrid"
+"subtype": "simic hybrid"
 "alignment": "Neutral Good"
 "ac": !!int "13"
 "hp": !!int "22"
@@ -38,17 +38,17 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
   - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "shortsword"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common plus any one language"
 "cr": "1/2"
 "traits":
-  - "desc": "The hybrid has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
-      \ checks made to hide."
+  - "desc": "The hybrid has advantage on Dexterity (Stealth) checks made to hide."
     "name": "Chameleon Skin"
   - "desc": "The hybrid can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -56,11 +56,11 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "actions":
   - "desc": "The hybrid makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/hybrid-spy-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/hybrid-spy-ggr.webp"
 ```
 ^statblock

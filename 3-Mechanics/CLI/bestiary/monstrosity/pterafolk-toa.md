@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pterafolk
+- "Pterafolk"
 ---
-# [Pterafolk](3-Mechanics\CLI\bestiary\monstrosity/pterafolk-toa.md)
+# [Pterafolk](3-Mechanics/CLI/bestiary/monstrosity/pterafolk-toa.md)
 *Source: Tomb of Annihilation p. 229*  
 
 Pterafolk (pronounced TAIR-eh-folk) are 10-foot-tall, winged, reptilian bipeds native to Chult. Malevolent isolationists, they regard most other creatures as their enemies. In Chultan culture, pterafolk are often referred to as "terror folk" for their habit of swooping down from the sky to snatch whatever and whomever they can, then transporting treasure and food back to their roosts.
@@ -38,33 +38,36 @@ Pterafolk have 20-foot wingspans and give birth to live young. Ancient rituals o
   - !!int "11"
 "speed": "30 ft., fly 50 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1"
 "traits":
   - "desc": "If the pterafolk is flying and dives at least 30 feet straight toward\
       \ a target, and then hits that target with a melee weapon attack, the target\
-      \ is frightened until the end of its next turn."
+      \ is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) until the\
+      \ end of its next turn."
     "name": "Terror Dive"
 "actions":
   - "desc": "The pterafolk makes three attacks: one with its bite and two with its\
       \ claws. Alternatively, it makes two melee attacks with its javelin."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Claw"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 9 (2d6 + 2) piercing damage."
     "name": "Javelin"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/pterafolk-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/pterafolk-toa.webp"
 ```
 ^statblock

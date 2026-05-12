@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Appendix E: Rime of the Frostmaiden
+- "Appendix E: Rime of the Frostmaiden"
 ---
 # Appendix E: Rime of the Frostmaiden
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 319* 
@@ -25,4 +25,4 @@ aliases:
 > Sovereign of summers lost, general of winter's war; Long live the queen of cold and frost. May She reign forevermore.
 ^7a8
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/262-08-021-rime-of-the-frostmaiden.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/262-08-021-rime-of-the-frostmaiden.webp#center)

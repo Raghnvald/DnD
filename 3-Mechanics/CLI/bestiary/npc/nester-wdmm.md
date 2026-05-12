@@ -10,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nester
+- "Nester"
 ---
-# [Nester](3-Mechanics\CLI\bestiary\npc/nester-wdmm.md)
+# [Nester](3-Mechanics/CLI/bestiary/npc/nester-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 131*  
 
-The floating skull and hanging skeletal arms are all that remain of him; they move like they're attached to an invisible body.
+The floating skull and hanging skeletal arms are all that remain of him; they move like they're attached to an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) body.
 
 ```statblock
 "name": "Nester (WDMM)"
@@ -23,7 +23,7 @@ The floating skull and hanging skeletal arms are all that remain of him; they mo
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "99"
 "hit_dice": "18d8 + 18"
 "modifier": !!int "2"
@@ -39,28 +39,45 @@ The floating skull and hanging skeletal arms are all that remain of him; they mo
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin)"
-"senses": "darkvision 60 ft., passive Perception 12"
-"languages": "Auran, Common, Draconic, Dwarvish, Giant, Terran"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
+"languages": "Auran, Common, Draconic, Dwarvish, Giant, Terran, but can't speak (he\
+  \ uses [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)\
+  \ to communicate)"
 "cr": "12"
 "traits":
   - "desc": "Nester is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
-      \ (spell save DC 17, +9 to hit with spell attacks). Nester can cast disguise\
-      \ self and invisibility at will and has the following wizard spells prepared:\n\
-      \n**Cantrips (at will):** fire bolt, light, mage hand, prestidigitation, shocking\
-      \ grasp\n\n**1st level (4 slots):** detect magic, identify, mage armor*, magic\
-      \ missile\n\n**2nd level (3 slots):** detect thoughts, mirror image, misty step\n\
-      \n**3rd level (3 slots):** counterspell, animate dead, lightning bolt\n\n**4th\
-      \ level (3 slots):** blight, fire shield, stoneskin*\n\n**5th level (3 slots):**\
-      \ cone of cold, Rary's telepathic bond, wall of force\n\n**6th level (1 slots):**\
-      \ globe of invulnerability\n\n**7th level (1 slots):** teleport\n\n**8th level\
-      \ (1 slots):** mind blank*\n\n**9th level (1 slots):** time stop\n\n*Nester\
-      \ casts these spells on itself before combat."
+      \ (spell save DC 17, +9 to hit with spell attacks). Nester can cast [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md) and [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ at will and has the following wizard spells prepared:\n\n**Cantrips (at will):**\
+      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n**1st level\
+      \ (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [identify](3-Mechanics/CLI/spells/identify-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)*,\
+      \ [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md)\n\n**2nd level\
+      \ (3 slots):** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\
+      \n**4th level (3 slots):** [blight](3-Mechanics/CLI/spells/blight-xphb.md),\
+      \ [fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md)*\n\
+      \n**5th level (3 slots):** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+      \ [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\n**6th level\
+      \ (1 slots):** [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)\n\
+      \n**7th level (1 slots):** [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+      \n**8th level (1 slots):** [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)*\n\
+      \n**9th level (1 slots):** [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)\n\
+      \n*Nester casts these spells on itself before combat."
     "name": "Spellcasting"
   - "desc": "Nester has advantage on saving throws against spells and other magical\
       \ effects."
@@ -71,6 +88,6 @@ The floating skull and hanging skeletal arms are all that remain of him; they mo
     "name": "Dagger"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nester-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nester-wdmm.webp"
 ```
 ^statblock

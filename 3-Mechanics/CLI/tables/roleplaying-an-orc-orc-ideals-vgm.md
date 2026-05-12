@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying an Orc; Orc Ideals
+- "Roleplaying an Orc; Orc Ideals"
 ---
 # Roleplaying an Orc; Orc Ideals
 *Source: Volo's Guide to Monsters p. 87* 
 
 **Orc Ideals**
-
-`dice: [](roleplaying-an-orc-orc-ideals-vgm.md#^orc-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

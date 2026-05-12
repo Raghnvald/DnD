@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Rubblebelt Encampment Adventures
+- "Rubblebelt Encampment Adventures"
 ---
 # Rubblebelt Encampment Adventures
 *Source: Guildmasters' Guide to Ravnica p. 141* 
 
 **Rubblebelt Encampment Adventures**
-
-`dice: [](rubblebelt-encampment-adventures-ggr.md#^rubblebelt-encampment-adventures)`
 
 | dice: d10 | Adventure Goal |
 |-----------|----------------|

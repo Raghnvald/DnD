@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Cape of Enlargement"
 ---
 # Cape of Enlargement
@@ -22,6 +22,6 @@ The cape has 3 charges. As a bonus action while wearing the cape, you can expend
 - You have advantage on Strength checks and Strength saving throws.  
 - When you hit with an attack roll using a weapon or an unarmed strike, you can add your proficiency bonus to the attack's damage.  
 
-These benefits last for 10 minutes or until you use another bonus action to dismiss them. The cape regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
+These benefits last for 10 minutes or until you use another bonus action to dismiss them. The cape regains `1d3` expended charges daily at dawn.
 
 *Source: Phandelver and Below: The Shattered Obelisk p. 217*

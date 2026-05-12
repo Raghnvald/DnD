@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valetta
+- "Valetta"
 ---
-# [Valetta](3-Mechanics\CLI\bestiary\npc/valetta-wdh.md)
+# [Valetta](3-Mechanics/CLI/bestiary/npc/valetta-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 47*  
 
 A dragonborn priest of bronze dragon ancestry.
@@ -24,7 +24,7 @@ A dragonborn priest of bronze dragon ancestry.
 "subtype": "dragonborn"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "chain shirt"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "0"
@@ -37,22 +37,29 @@ A dragonborn priest of bronze dragon ancestry.
   - !!int "13"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "Medicine"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+7"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+3"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+5"
 "damage_resistances": "lightning"
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "2"
 "traits":
   - "desc": "Valetta is a 5th-level spellcaster. Her spellcasting ability is Wisdom.\
       \ Valetta has the following cleric spells prepared:\n\n**Cantrips (at will):**\
-      \ light, sacred flame, thaumaturgy\n\n**1st level (4 slots):** cure wounds,\
-      \ guiding bolt, sanctuary\n\n**2nd level (3 slots):** lesser restoration, spiritual\
-      \ weapon\n\n**3rd level (2 slots):** dispel magic, spirit guardians"
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [guiding\
+      \ bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\
+      \n**2nd level (3 slots):** [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\n**3rd\
+      \ level (2 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, Valetta can expend a spell slot to cause her melee\
       \ weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target\
@@ -66,11 +73,11 @@ A dragonborn priest of bronze dragon ancestry.
       \ in the line must make a DC 11 Dexterity saving throw, taking 2d6 lightning\
       \ damage on a failed save, or half as much damage on a successful one."
     "name": "Breathe Weapon"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage."
     "name": "Mace"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/valetta-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/valetta-wdh.webp"
 ```
 ^statblock

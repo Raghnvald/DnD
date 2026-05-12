@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur Living Crystal Statue
+- "Minotaur Living Crystal Statue"
 ---
-# [Minotaur Living Crystal Statue](3-Mechanics\CLI\bestiary\construct/minotaur-living-crystal-statue-gos.md)
+# [Minotaur Living Crystal Statue](3-Mechanics/CLI/bestiary/construct/minotaur-living-crystal-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 245*  
 
 Given life through powerful magic, a large, crudely carved crystal minotaur guards the tunnels in Isle of the Abbey.
@@ -38,6 +38,8 @@ Given life through powerful magic, a large, crudely carved crystal minotaur guar
 "damage_vulnerabilities": "force"
 "damage_immunities": "lightning, poison"
 "condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"gear":
+  - "greataxe"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "6"
@@ -50,8 +52,8 @@ Given life through powerful magic, a large, crudely carved crystal minotaur guar
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 17\
       \ (2d12 + 4) slashing damage."
     "name": "Greataxe"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage."
     "name": "Gore"
 "reactions":
   - "desc": "In response to a creature hitting the statue with a melee weapon attack,\
@@ -59,6 +61,6 @@ Given life through powerful magic, a large, crudely carved crystal minotaur guar
     "name": "Flying Shards"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/minotaur-living-crystal-statue-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/minotaur-living-crystal-statue-gos.webp"
 ```
 ^statblock

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/gear/
-- new/item/rarity/unknown
-aliases: 
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/unknown
+aliases:
 - "Ryath Root"
 ---
 # Ryath Root
@@ -15,6 +15,6 @@ aliases:
 
 - **Cost**: 50 gp
 
-Any creature that ingests a ryath root gains `dice:2d4|noform|noparens|avg` (`2d4`) temporary hit points. A creature that consumes more than one ryath root in a 24-hour period must succeed on a DC 13 Constitution saving throw or suffer the poisoned condition for 1 hour.
+Any creature that ingests a ryath root gains `2d4` temporary hit points. A creature that consumes more than one ryath root in a 24-hour period must succeed on a DC 13 Constitution saving throw or suffer the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for 1 hour.
 
 *Source: Tomb of Annihilation p. 205*

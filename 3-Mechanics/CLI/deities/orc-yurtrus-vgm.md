@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/deity/orc
 - ttrpg-cli/domain/death
-aliases: 
-- Yurtrus
+aliases:
+- "Yurtrus"
 ---
 # Yurtrus
 *Source: Volo's Guide to Monsters p. 84* 

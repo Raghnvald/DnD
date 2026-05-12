@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Erinyes
+- "Erinyes"
 ---
-# [Erinyes](3-Mechanics\CLI\bestiary\fiend/erinyes-xmm.md)
+# [Erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md)
 *Source: Monster Manual (2024) p. 114. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Erinyes
@@ -22,7 +22,7 @@ aliases:
 *Devil of Vengeance and Righteous Wrath*
 
 - **Habitat.** Planar (Nine Hells)  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Erinyes, also known as furies, are winged devils clad in fiendish armor. These fallen angels exact a merciless form of divine justice, hunting down oath breakers and dragging the rightfully damned to the Nine Hells in the grip of their magical ropes. Few ever glimpse what lies within these devils' armored exteriors, and erinyes ensure that those who do can never speak of what they've seen.
 
@@ -53,43 +53,44 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
   - "constitution": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 16"
 "languages": "Infernal; telepathy 120 ft."
 "cr": "12"
 "traits":
   - "desc": "If the erinyes dies outside the Nine Hells, its body disappears in sulfurous\
-      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ smoke, and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Nine Hells."
     "name": "Diabolical Restoration"
-  - "desc": "The erinyes has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The erinyes has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The erinyes has a magic rope. While bearing it, the erinyes can use the\
-      \ Entangling Rope action. The rope has AC 20, HP 90, and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+      \ Entangling Rope action. The rope has AC 20, HP 90, and [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)\
       \ to Poison and Psychic damage. The rope turns to dust if reduced to 0 [Hit\
-      \ Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), if it is 5+ feet\
-      \ away from the erinyes for 1 hour or more, or if the erinyes dies. If the rope\
-      \ is damaged or destroyed, the erinyes can fully restore it when finishing a\
-      \ [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md)."
+      \ Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), if it is\
+      \ 5+ feet away from the erinyes for 1 hour or more, or if the erinyes dies.\
+      \ If the rope is damaged or destroyed, the erinyes can fully restore it when\
+      \ finishing a [Short](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md)\
+      \ or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md)."
     "name": "Magic Rope"
 "actions":
   - "desc": "The erinyes makes three Withering Sword attacks and can use Entangling\
       \ Rope."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 13 (2d8 + 4) Slashing damage\
-      \ plus 11 (2d10) Necrotic damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 13 (2d8 + 4) Slashing\
+      \ damage plus 11 (2d10) Necrotic damage."
     "name": "Withering Sword"
   - "desc": "*Strength Saving Throw:* DC 16, one creature the erinyes can see within\
-      \ 120 feet. *Failure:* 14 (4d6) Force damage, and the target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition until the rope is destroyed, the erinyes uses a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ 120 feet. *Failure:* 14 (4d6) Force damage, and the target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition until the rope is destroyed, the erinyes uses a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md)\
       \ to release the target, or the erinyes uses Entangling Rope again."
     "name": "Entangling Rope (Requires Magic Rope)"
 "reactions":
@@ -99,7 +100,7 @@ When not in the service of a diabolical master, erinyes hunt wicked souls. They 
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/erinyes-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/erinyes-xmm.webp"
 ```
 ^statblock
 

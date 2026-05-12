@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Carousing
+- "Carousing"
 ---
 # Carousing
 *Source: Xanathar's Guide to Everything p. 127* 

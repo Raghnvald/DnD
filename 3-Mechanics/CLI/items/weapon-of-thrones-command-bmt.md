@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/age/futuristic
-- new/item/age/modern
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/weapon/ranged
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/age/futuristic
+- ttrpg-cli/item/age/modern
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/weapon/ranged
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Weapon of Throne's Command"
 - "Antimatter Rifle of Throne's Command"
 - "Automatic Rifle of Throne's Command"
@@ -61,7 +61,7 @@ This weapon is bedecked in ornate gold filigree and deep-blue and maroon jewels.
 
 The weapon has 5 charges. You can use a bonus action and expend 1 or more of its charges to cast one of the following spells (save DC 16): Command (1 charge), Zone of Truth (2 charges), Compulsion (4 charges), Banishment (4 charges), or Dominate Person (5 charges).
 
-The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn.
+The weapon regains `1d4` expended charges daily at dawn.
 
 **Variants**:
 - [Antimatter Rifle of Throne's Command](#Antimatter%20Rifle%20of%20Throne's%20Command)
@@ -104,14 +104,14 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: Ammunition, Reload, Two-Handed
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Automatic Rifle of Throne's Command
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: Ammunition, Burst Fire, Reload, Two-Handed
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](3-Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Battleaxe of Throne's Command
@@ -195,7 +195,7 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: Ammunition, Reload, Two-Handed
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Lance of Throne's Command
@@ -208,14 +208,14 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: Ammunition, Reload
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Laser Rifle of Throne's Command
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: Ammunition, Reload, Two-Handed
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Longbow of Throne's Command
@@ -274,7 +274,7 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: Ammunition, Reload
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Throne's Command
@@ -287,7 +287,7 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: Ammunition, Reload
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Throne's Command
@@ -300,7 +300,7 @@ The weapon regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: Ammunition, Reload, Two-Handed
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Trident of Throne's Command

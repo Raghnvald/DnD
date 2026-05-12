@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chimeric Baboon
+- "Chimeric Baboon"
 ---
-# [Chimeric Baboon](3-Mechanics\CLI\bestiary\beast/chimeric-baboon-idrotf.md)
+# [Chimeric Baboon](3-Mechanics/CLI/bestiary/beast/chimeric-baboon-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
 
 ```statblock
@@ -38,14 +38,14 @@ aliases:
 "traits":
   - "desc": "The baboon has advantage on an attack roll against a creature if at least\
       \ one of the baboon's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
-      \ - 1) piercing damage, plus an extra 3 (1d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ (1d4 - 1) piercing damage, plus an extra 3 (1d6) poison damage."
     "name": "Bite"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/chimeric-baboon-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/chimeric-baboon-idrotf.webp"
 ```
 ^statblock

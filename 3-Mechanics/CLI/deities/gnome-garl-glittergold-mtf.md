@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/trickery
-aliases: 
-- Garl Glittergold
+aliases:
+- "Garl Glittergold"
 ---
 # Garl Glittergold
 *Source: Mordenkainen's Tome of Foes p. 111* 

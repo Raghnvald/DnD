@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Inquisitor of the Sword
+- "Inquisitor of the Sword"
 ---
-# [Inquisitor of the Sword](3-Mechanics\CLI\bestiary\humanoid/inquisitor-of-the-sword-vrgr.md)
+# [Inquisitor of the Sword](3-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-sword-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 249*  
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -29,7 +29,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "2"
@@ -46,17 +46,17 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   - "wisdom": !!int "7"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 30 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive\
+  \ Perception 17"
 "languages": "any two languages, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -69,16 +69,16 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
       \ or misses with an attack, the inquisitor can teleport up to 30 feet to an\
       \ unoccupied space it can see."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
-      \ force damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus\
+      \ 18 (4d8) force damage."
     "name": "Silver Longsword"
   - "desc": "The inquisitor casts one of the following spells, requiring no components\
       \ and using Wisdom as the spellcasting ability (spell save DC 15):\n\n**At will:**\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md)\n\
-      \n**1/day each:** [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [fly](/3-Mechanics/CLI/spells/fly-xphb.md), [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md)"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\
+      \n**1/day each:** [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The inquisitor teleports up to 60 feet to an unoccupied space it can\
@@ -86,6 +86,6 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
     "name": "Blink Step"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/inquisitor-of-the-sword-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/inquisitor-of-the-sword-vrgr.webp"
 ```
 ^statblock

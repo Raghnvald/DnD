@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Sapphire Dragon
+- "Adult Sapphire Dragon"
 ---
-# [Adult Sapphire Dragon](3-Mechanics\CLI\bestiary\dragon/adult-sapphire-dragon-ftd.md)
+# [Adult Sapphire Dragon](3-Mechanics/CLI/bestiary/dragon/adult-sapphire-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 215*  
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
@@ -39,8 +39,6 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 
 ### Sapphire Dragon Personality Traits
 
-`dice: [](adult-sapphire-dragon-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often fixate on specific historical battles or wars and won't rest until my hoard contains that conflict's most significant artifacts. |
@@ -54,8 +52,6 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 ^trait
 
 ### Sapphire Dragon Ideals
-
-`dice: [](adult-sapphire-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -72,8 +68,6 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
 ### Sapphire Dragon Adventure Hooks
-
-`dice: [](adult-sapphire-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -92,8 +86,6 @@ The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adv
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
 ### Adult Sapphire Dragon Connections
-
-`dice: [](adult-sapphire-dragon-ftd.md#^connected-creatures)`
 
 | dice: d8 | Connected Creatures |
 |----------|---------------------|
@@ -156,18 +148,17 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
   - "wisdom": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+13"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+14"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "lightning, thunder"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 23"
+"condition_immunities": "frightened"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "15"
 "traits":
@@ -182,24 +173,21 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
 "actions":
   - "desc": "The dragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage plus 5 (1d10) thunder damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) piercing damage plus 5 (1d10) thunder damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d8 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 10 (1d8 + 6) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales a pulse of high-pitched, nearly inaudible sound in\
       \ a 60-foot cone. Each creature in that area must make a DC 19 Constitution\
       \ saving throw. On a failed save, the creature takes 44 (8d10) thunder damage\
-      \ and is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until\
-      \ the end of its next turn. On a successful save, the creature takes half as\
-      \ much damage and isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ and is incapacitated until the end of its next turn. On a successful save,\
+      \ the creature takes half as much damage and isn't incapacitated."
     "name": "Debilitating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
-      **1/day each:** [dissonant whispers](/3-Mechanics/CLI/spells/dissonant-whispers-xphb.md),\
-      \ [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md), [meld into stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md),\
-      \ [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      **1/day each:** dissonant whispers, hold monster, meld into stone, telekinesis"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The dragon magically transforms into any creature that is Medium or Small,\
@@ -216,16 +204,16 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
       \ two rounds in a row:\n\n- **Awesome Thunder.** A thunderous detonation of\
       \ sound that can be heard up to 300 feet away surrounds one creature in the\
       \ lair that the dragon can see. That creature must succeed on a DC 15 Constitution\
-      \ saving throw or take 13 (3d8) thunder damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
-      \ until the end of its next turn.  \n- **Beguiling Whisper.** The dragon telepathically\
-      \ whispers to one creature within range of the dragon's telepathy. The creature\
-      \ must succeed on a DC 15 Wisdom saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ by the dragon until initiative count 20 on the next round. A creature [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ in this way obeys to the best of its ability any command the dragon issues\
-      \ that isn't directly harmful to the creature.  \n- **Stone Passage.** The dragon\
-      \ touches a section of stone up to 30 feet in any dimension. The dragon can\
-      \ shape the stone to open or close a passage through a wall, as long as the\
-      \ wall is less than 10 feet thick.  "
+      \ saving throw or take 13 (3d8) thunder damage and be stunned until the end\
+      \ of its next turn.  \n- **Beguiling Whisper.** The dragon telepathically whispers\
+      \ to one creature within range of the dragon's telepathy. The creature must\
+      \ succeed on a DC 15 Wisdom saving throw or be charmed by the dragon until initiative\
+      \ count 20 on the next round. A creature charmed in this way obeys to the best\
+      \ of its ability any command the dragon issues that isn't directly harmful to\
+      \ the creature.  \n- **Stone Passage.** The dragon touches a section of stone\
+      \ up to 30 feet in any dimension. The dragon can shape the stone to open or\
+      \ close a passage through a wall, as long as the wall is less than 10 feet thick.\
+      \  "
     "name": ""
 "regional_effects":
   - "desc": "The region surrounding a legendary sapphire dragon's lair is altered\
@@ -233,14 +221,13 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
       - **Crystal Profusion.** Natural stone within 6 miles of the lair grows plentiful\
       \ crystal formations and veins of sapphire gemstones, particularly underground.\
       \  \n- **Stony Sight.** Natural stone within 6 miles of the lair is a conduit\
-      \ for the dragon's psionic presence. As an action, the dragon can cast the [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md)\
+      \ for the dragon's psionic presence. As an action, the dragon can cast the clairvoyance\
       \ spell, requiring no spell components and targeting any natural stone formation\
       \ in that region.  \n- **Telepathic Enhancement.** The dragon's psionic energy\
       \ enhances the mental powers of other creatures. Any creature capable of telepathic\
       \ communication has its telepathy range doubled while within 1 mile of the lair.\
       \ This includes creatures with innate telepathy and magical telepathy such as\
-      \ the [Rary's telepathic bond](/3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)\
-      \ spell.  \n- **Thriving Wildlife.** [Giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)\
+      \ the Rary's telepathic bond spell.  \n- **Thriving Wildlife.** Giant spiders\
       \ (a sapphire dragon's favorite prey) are attracted to the area within 6 miles\
       \ of the lair and settle there in large numbers.  \n\nIf the dragon dies, the\
       \ population of giant spiders in the region returns to normal levels over the\
@@ -263,6 +250,6 @@ The challenge rating of a legendary sapphire dragon increases by 1 when it's enc
     "name": "Telekinetic Fling (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-sapphire-dragon-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-sapphire-dragon-ftd.webp"
 ```
 ^statblock

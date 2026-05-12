@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Centaur
+- "Centaur"
 ---
-# [Centaur](3-Mechanics\CLI\bestiary\monstrosity/centaur.md)
+# [Centaur](3-Mechanics/CLI/bestiary/monstrosity/centaur.md)
 *Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
@@ -54,12 +54,15 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
   - !!int "11"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[pike](3-Mechanics/CLI/items/pike.md)"
 "senses": "passive Perception 13"
 "languages": "Elvish, Sylvan"
 "cr": "2"
@@ -72,8 +75,8 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
   - "desc": "The centaur makes two attacks: one with its pike and one with its hooves\
       \ or two with its longbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d10 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d10 + 4) piercing damage."
     "name": "Pike"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
@@ -83,7 +86,7 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
     "name": "Longbow"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/centaur.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/centaur.webp"
 ```
 ^statblock
 

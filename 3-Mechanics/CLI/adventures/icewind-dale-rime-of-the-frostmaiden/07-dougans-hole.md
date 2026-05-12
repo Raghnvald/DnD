@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Dougan's Hole
+- "Dougan's Hole"
 ---
 # Dougan's Hole
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 53* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/038-01-019-shield-dougan.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/038-01-019-shield-dougan.webp#center)
 
 Dougan's Hole is the smallest and most insular of the ten towns. Its residents aren't fond of visitors, and inbreeding has caused the population to dwindle in recent years. It also has given rise to often-seen physical deformities, including but not limited to small, misshapen ears and slightly pointed teeth.
 
@@ -28,11 +28,11 @@ The town is a small cluster of dwellings perched on the edge of Redwaters that i
 
 ### Leader
 
-Speaker Edgra Durmoot (neutral human [scout](/3-Mechanics/CLI/bestiary/humanoid/scout.md)), a plainspoken trapper getting on in years, speaks for the townsfolk. She seldom attends meetings of the Council of Speakers.
+Speaker Edgra Durmoot (neutral human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)), a plainspoken trapper getting on in years, speaks for the townsfolk. She seldom attends meetings of the Council of Speakers.
 
 ### Militia
 
-Dougan's Hole can muster up to 12 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 1 [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Dougan's Hole can muster up to 12 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 1 [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** A gray, pillar-like monolith set against a sky-blue field above two crossed silver fish, their scaly bodies forming an X, with their heads at upper left and upper right. The monolith signifies local mystery, while the fish represent the bounty of Redwaters.  
 
@@ -51,8 +51,8 @@ A six-mile-long, snow-covered path connects Dougan's Hole to the neighboring tow
 The following location marked on map 1.7 can't help but attract the attention of new arrivals.
 
 > [!gallery]
-> ![Map 1.7: Dougan's Hole](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/039-map-1-7-dougan.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/040-map-1-7-dougan-player.webp#gallery)
+> ![Map 1.7: Dougan's Hole](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/039-map-1-7-dougan.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/040-map-1-7-dougan-player.webp#gallery)
 
 ### Twenty Stones of Thruun
 
@@ -62,7 +62,7 @@ The only truly interesting feature in Dougan's Hole is the ring of megaliths kno
 
 ## Holed Up
 
-Two [winter wolves](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) are extorting the people of Dougan's Hole for food and treasure on behalf of a woolly [mammoth](/3-Mechanics/CLI/bestiary/beast/mammoth.md) named Norsu. Years ago, a frost druid cast an awaken spell on the mammoth. Last year, a group of adventurers killed Garagai, the mammoth's frost giant master. Norsu has never recovered from the loss and, to this day, watches over its master's frozen corpse, unwilling to leave its side. The winter wolves, who served Garagai as faithful friends, look after the mammoth. Although Norsu feeds on plants, not meat, it delights in killing humanoids to avenge Garagai's death. Slaying the mammoth is a tall order, so characters would be wise to flee from Norsu or try to reason with it.
+Two [winter wolves](3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) are extorting the people of Dougan's Hole for food and treasure on behalf of a woolly [mammoth](3-Mechanics/CLI/bestiary/beast/mammoth.md) named Norsu. Years ago, a frost druid cast an [awaken](3-Mechanics/CLI/spells/awaken.md) spell on the mammoth. Last year, a group of adventurers killed Garagai, the mammoth's frost giant master. Norsu has never recovered from the loss and, to this day, watches over its master's frozen corpse, unwilling to leave its side. The winter wolves, who served Garagai as faithful friends, look after the mammoth. Although Norsu feeds on plants, not meat, it delights in killing humanoids to avenge Garagai's death. Slaying the mammoth is a tall order, so characters would be wise to flee from Norsu or try to reason with it.
 
 Norsu and the winter wolves reside in an ice lodge built by Garagai. The wolves try to entice the characters into the lodge, knowing that Norsu will enjoy the exercise of killing them. Held captive in the lodge are Silja and Finn Dejarr, two teenaged siblings from Dougan's Hole who have been missing for the past four days and are presumed dead. The wolves are holding the siblings in a cage and feeding them raw meat to keep them alive until Dougan's Hole pays a ransom for their safe return. Characters lured to the ice lodge by the wolves or hired by Speaker Durmoot to find the missing teenagers can try to rescue Silja and Finn from the frost giant's lodge and see them safely back to town.
 
@@ -85,16 +85,16 @@ If Dougan's Hole is the starting town for this adventure, the characters already
 
 The townsfolk urge characters to meet with Speaker Edgra Durmoot before trying to help the town with its wolf problem. Speaker Durmoot is stubborn to a fault. She firmly believes that the missing teenagers are dead, and she's not about to give food to the winter wolves when her own people barely have enough to feed themselves. She lets the characters deal with the winter wolves as they see fit but offers no assistance.
 
-![The winter wolf brothers, ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/041-01-020-winter-wolf.webp#center "The winter wolf brothers, Koran and Kanan, pose a threat to all who visit Dougan's Hole")
+![The winter wolf brothers, Koran and Kanan, pose a threat to all who visit Dougan's Hole](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/041-01-020-winter-wolf.webp#center)
 
 ### Good Wolf, Bad Wolf
 
-When the characters first approach the outskirts of Dougan's Hole or shortly after they first leave town, they encounter two [winter wolves](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) named Koran and Kanan. Here's how the encounter plays out:
+When the characters first approach the outskirts of Dougan's Hole or shortly after they first leave town, they encounter two [winter wolves](3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) named Koran and Kanan. Here's how the encounter plays out:
 
 - Koran acts as the "good" wolf while his brother plays the "bad" wolf. This act has worked before on the dim-witted locals; the wolves assume the characters will be fooled just as easily.  
-- Koran approaches the characters, limping on one back leg and whimpering like a pitiful dog, making himself as unthreatening as possible. Kanan remains nearby but out of sight. Any character who succeeds on a DC 15 Wisdom (Insight) check sees through Koran's ruse, noticing how the wolf sometimes forgets which leg he's supposedly limping on.  
+- Koran approaches the characters, limping on one back leg and whimpering like a pitiful dog, making himself as unthreatening as possible. Kanan remains nearby but out of sight. Any character who succeeds on a DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check sees through Koran's ruse, noticing how the wolf sometimes forgets which leg he's supposedly limping on.  
 - Koran claims that he was routinely kicked by his master, a mean old frost giant named Garagai. Koran also says that Garagai kidnapped two townsfolk and is holding them prisoner in his lodge more than half a day's walk west of town. Koran wants to help the characters free the prisoners, to get back at Garagai for his abuse. If the characters believe this story, Koran leads them to the lodge while Kanan follows their tracks and their scent, remaining out of sight.  
-- If Koran is unable to convince the characters to follow it back to the frost giant's lodge, Kanan steps in and plays the "bad" wolf, baring his fangs and threatening to eat the characters unless they change their minds. Kanan pretends to be upset about the abuse Garagai inflicted on Koran. "He'll think twice before he hurts one of us again," Kanan says with a growl. As earlier, a successful DC 15 Wisdom (Insight) check allows a character to ascertain that the wolf is lying.  
+- If Koran is unable to convince the characters to follow it back to the frost giant's lodge, Kanan steps in and plays the "bad" wolf, baring his fangs and threatening to eat the characters unless they change their minds. Kanan pretends to be upset about the abuse Garagai inflicted on Koran. "He'll think twice before he hurts one of us again," Kanan says with a growl. As earlier, a successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check allows a character to ascertain that the wolf is lying.  
 
 If the wolves can't trick or scare the characters into accompanying them to the frost giant's lodge thirteen miles west of Dougan's Hole, they drop their act and try to appeal to the characters' consciences. "It's awfully cold in that lodge," says Koran, to which his brother adds, "They won't suffer much longer. It's only a matter of time before Garagai skins and eats them." The wolves then bolt away, heading toward the lodge and leaving tracks that the characters can follow, if they choose not to accompany the wolves.
 
@@ -102,9 +102,9 @@ If the wolves can't trick or scare the characters into accompanying them to the 
 
 The wilderness around Dougan's Hole is a frozen tundra. Snow falls frequently, adding to the snowpack and erasing tracks. There is a 50 percent chance that the characters get caught in a blizzard on the way to the lodge (see "Blizzards"). If Kanan and Koran are with the party, they protect the characters from the worst of the storm, using their bodies to shield the characters until it passes. The wolves' presence also prevents the characters from getting lost or separated.
 
-Also crossing the tundra are a pack of `dice:1d6+1|noform|noparens|avg` (`1d6 + 1`) [wolves](/3-Mechanics/CLI/bestiary/beast/wolf.md), prowling the white in search of food. Characters who make a successful DC 13 Intelligence (Nature) check note that the wolves are gaunt from starvation. If the winter wolves are with the party, Kanan and Koran growl and bare their teeth, which deters the pack from approaching closer.
+Also crossing the tundra are a pack of `1d6 + 1` [wolves](3-Mechanics/CLI/bestiary/beast/wolf.md), prowling the white in search of food. Characters who make a successful DC 13 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check note that the wolves are gaunt from starvation. If the winter wolves are with the party, Kanan and Koran growl and bare their teeth, which deters the pack from approaching closer.
 
-![Terror lurks in the icy de...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/042-01-021.webp#center "Terror lurks in the icy depths of this frost giant lodge")
+![Terror lurks in the icy depths of this frost giant lodge](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/042-01-021.webp#center)
 
 ### Approaching the Lodge
 
@@ -117,15 +117,15 @@ When the characters approach the lodge, read:
 
 The lodge has three tall openings on the east side. On the southern side of the building is a tunnel left behind by a remorhaz that raided the lodge's food stores. Characters spot this tunnel if they circle the lodge looking for other entrances.
 
-If Koran and Kanan are with the characters or have arrived ahead of them, the two winter wolves sniff the air and inform the characters that Garagai isn't home. The wolves offer to stand guard outside while the characters enter the lodge and free the prisoners. Characters who suspect treachery can, with a successful DC 15 Wisdom (Insight) check, tell that the wolves are lying about Garagai—the frost giant is in fact inside the lodge. Are they afraid to face their master, perhaps, or is there another reason why the wolves won't enter the lodge? No ability check can answer this question; the characters must find out for themselves! In truth, the winter wolves expect Norsu to slaughter the characters, but in case that doesn't happen, they remain outside to attack any characters who try to flee. (Specifically, the wolves wait in area L1, east of the lodge's main entrance.) If one wolf is slain, the other flees to avoid a similar fate.
+If Koran and Kanan are with the characters or have arrived ahead of them, the two winter wolves sniff the air and inform the characters that Garagai isn't home. The wolves offer to stand guard outside while the characters enter the lodge and free the prisoners. Characters who suspect treachery can, with a successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check, tell that the wolves are lying about Garagai—the frost giant is in fact inside the lodge. Are they afraid to face their master, perhaps, or is there another reason why the wolves won't enter the lodge? No ability check can answer this question; the characters must find out for themselves! In truth, the winter wolves expect Norsu to slaughter the characters, but in case that doesn't happen, they remain outside to attack any characters who try to flee. (Specifically, the wolves wait in area L1, east of the lodge's main entrance.) If one wolf is slain, the other flees to avoid a similar fate.
 
 ### Lodge Locations
 
 The ice lodge was where Garagai lived and entertained other frost giants. Although not a jarl, Garagai held a respected position among the frost giants of the Far North. Everything in the lodge is built for giants and therefore quite large. The ceilings inside soar to a height of 30 feet.
 
 > [!gallery]
-> ![Map 1.8: Frost Giant Ice Lodge](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/043-map-1-8-frost-giant.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/044-map-1-8-frost-giant-player.webp#gallery)
+> ![Map 1.8: Frost Giant Ice Lodge](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/043-map-1-8-frost-giant.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/044-map-1-8-frost-giant-player.webp#gallery)
 
 The following locations are keyed to map 1.8.
 
@@ -153,12 +153,12 @@ An alcove west of the carcass contains a 6-foot-long, 5-foot-wide, 5-foot-tall s
 > A huge, slatted animal cage, with a locked gate attached to it by rusty hinges, stands against the west wall of this chamber. Trapped inside the cage are two shivering humans in cold weather clothing. They look fearfully at you.
 ^148
 
-Garagai built the cage to hold Norsu when the mammoth was younger. Now it holds Silja and Finn Dejarr (neutral good human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who are described below:
+Garagai built the cage to hold Norsu when the mammoth was younger. Now it holds Silja and Finn Dejarr (neutral good human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who are described below:
 
 - Silja is a spindly girl with pointy teeth. Snow clings to the ends of her long braids. She is ready to do whatever it takes to get back to her mother in Dougan's Hole. Of the two siblings, she is the more proactive.  
 - Finn has a piebald face flanked by small, malformed ears. He is examining the brackets that hold together the slats of the cage to find a way to break them. His hands are frostbitten, and his teeth chatter uncontrollably.  
 
-The cage's metal slats are widely spaced, but not enough for the teenagers to slip between them. The slats are made of metal, and the cold makes them hard to manipulate. Applying heat to the slats makes them pliable, whereupon a character can use an action to try to pull two of the slats farther apart so that the slender Silja and Finn can slip through, accomplishing this feat with a successful DC 15 Strength (Athletics) check.
+The cage's metal slats are widely spaced, but not enough for the teenagers to slip between them. The slats are made of metal, and the cold makes them hard to manipulate. Applying heat to the slats makes them pliable, whereupon a character can use an action to try to pull two of the slats farther apart so that the slender Silja and Finn can slip through, accomplishing this feat with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 The lock on the cage's gate can be picked by a character using thieves' tools. An attempt takes 1 minute and succeeds on a DC 15 Dexterity check. Opening the gate causes its large, rusty hinges to squeal loudly unless a flask of oil is used to lubricate them first. If Norsu is still alive, the mammoth hears the squealing and makes its way from area L5 to this area, determined to kill interlopers on sight.
 
@@ -169,7 +169,7 @@ The lock on the cage's gate can be picked by a character using thieves' tools. A
 > This passageway is choked with ice. Above you, icicles are densely clustered, their points sharp as daggers.
 ^14a
 
-A character can move through the ice-choked tunnel quietly by succeeding on a DC 15 Dexterity (Stealth) check. On a failed check, the noise alerts the mammoth in area L5.
+A character can move through the ice-choked tunnel quietly by succeeding on a DC 15 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. On a failed check, the noise alerts the mammoth in area L5.
 
 #### L5. Garagai's Icy Tomb
 
@@ -180,7 +180,7 @@ A character can move through the ice-choked tunnel quietly by succeeding on a DC
 > Not far from the mammoth, carved from a single block of ice, is a giant-sized throne atop a circular dais. Chiseled into the throne's backrest is a large rune.
 ^14c
 
-If the awakened [mammoth](/3-Mechanics/CLI/bestiary/beast/mammoth.md) is aware of the characters' presence, add:
+If the awakened [mammoth](3-Mechanics/CLI/bestiary/beast/mammoth.md) is aware of the characters' presence, add:
 
 > [!readaloud] 
 > 
@@ -189,13 +189,13 @@ If the awakened [mammoth](/3-Mechanics/CLI/bestiary/beast/mammoth.md) is aware o
 
 This chamber is where Garagai would lounge with Norsu at his side and greet visiting frost giants. Cursed with sentience, the awakened neutral evil mammoth grieves for its dead master. It has an Intelligence of 10 and speaks Common.
 
-To Norsu, the characters' mere presence desecrates Garagai's tomb, and the mammoth reacts by trying to gore them with its tusks and crush them underfoot. Any character who can act before Norsu takes its first turn in combat can use an action to attempt to calm the mammoth before it attacks. A character who claims to be Garagai's friend can calm the mammoth with a successful DC 12 Charisma (Deception) check, while a character who vows to avenge Garagai's death can calm the mammoth with a successful DC 12 Charisma (Persuasion) check. If calmed, Norsu allows characters to honor Garagai by performing a prayer over his frozen corpse or leaving a gift, but otherwise expects the characters to withdraw from its presence so it can mourn in private. If the characters fail to calm Norsu or flee from it, the mammoth charges after them. Overcome by inconsolable rage, it pursues prey beyond the confines of the lodge but doesn't go farther than 100 feet before turning back and rejoining its dead master.
+To Norsu, the characters' mere presence desecrates Garagai's tomb, and the mammoth reacts by trying to gore them with its tusks and crush them underfoot. Any character who can act before Norsu takes its first turn in combat can use an action to attempt to calm the mammoth before it attacks. A character who claims to be Garagai's friend can calm the mammoth with a successful DC 12 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check, while a character who vows to avenge Garagai's death can calm the mammoth with a successful DC 12 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If calmed, Norsu allows characters to honor Garagai by performing a prayer over his frozen corpse or leaving a gift, but otherwise expects the characters to withdraw from its presence so it can mourn in private. If the characters fail to calm Norsu or flee from it, the mammoth charges after them. Overcome by inconsolable rage, it pursues prey beyond the confines of the lodge but doesn't go farther than 100 feet before turning back and rejoining its dead master.
 
 The adventurers who slew Garagai took his greataxe as a trophy as well as his other personal possessions, leaving nothing of value on the hacked-up corpse.
 
 ##### Ice Throne
 
-The symbol carved into the throne is the Giant rune for "ice," as any character who succeeds on a DC 15 Intelligence (Arcana) check can ascertain. A detect magic spell reveals an aura of conjuration magic around the rune, which empowers the throne. A creature that sits in the throne becomes aware of its magical nature and can use an action while seated in the throne to summon a blizzard, which takes 1 minute to form. The blizzard engulfs the lodge, extends 1 mile from it in all directions, and lasts for 8 hours. This property of the throne recharges after a tenday.
+The symbol carved into the throne is the Giant rune for "ice," as any character who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can ascertain. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of conjuration magic around the rune, which empowers the throne. A creature that sits in the throne becomes aware of its magical nature and can use an action while seated in the throne to summon a blizzard, which takes 1 minute to form. The blizzard engulfs the lodge, extends 1 mile from it in all directions, and lasts for 8 hours. This property of the throne recharges after a tenday.
 
 If the ice throne is destroyed, it ceases to be magical. The throne has AC 13; 80 hit points; resistance to piercing and slashing damage; immunity to cold, poison, and psychic damage; and vulnerability to fire damage.
 
@@ -206,7 +206,7 @@ If the ice throne is destroyed, it ceases to be magical. The throne has AC 13; 8
 > A massive table hewn from a single block of ice stands in the middle of this cold chamber, surrounded by chairs also made of ice. Many of the chairs are chipped and cracked.
 ^150
 
-Garagai and other frost giants once gathered around the table to discuss various matters. Lying on the floor under the table is a 1-foot-tall stone statuette of a spindly creature that the characters recognize as the image of a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) if they've seen one before. In fact, the statuette is an actual [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) that turned to stone when it died. Its killers are still in the room, hiding behind chairs: three [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) named Holgi, Snorp, and Zilbo. They assumed the lodge was unoccupied and did not expect to find Norsu and the winter wolves dwelling inside. The [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) startled them, so they killed it. When the characters enter this area, the kobolds cower behind chairs and petition the characters for help in escaping the lodge. If the characters oblige, the kobolds stay with the characters until they're outdoors, whereupon the kobolds either part company with their saviors or remain with the characters for food and protection (at your discretion).
+Garagai and other frost giants once gathered around the table to discuss various matters. Lying on the floor under the table is a 1-foot-tall stone statuette of a spindly creature that the characters recognize as the image of a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) if they've seen one before. In fact, the statuette is an actual [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) that turned to stone when it died. Its killers are still in the room, hiding behind chairs: three [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) named Holgi, Snorp, and Zilbo. They assumed the lodge was unoccupied and did not expect to find Norsu and the winter wolves dwelling inside. The [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) startled them, so they killed it. When the characters enter this area, the kobolds cower behind chairs and petition the characters for help in escaping the lodge. If the characters oblige, the kobolds stay with the characters until they're outdoors, whereupon the kobolds either part company with their saviors or remain with the characters for food and protection (at your discretion).
 
 #### L7. Garagai's Bedroll
 
@@ -225,7 +225,7 @@ A foul scent pervades the room, which contains five barrels of whale oil. An int
 
 ##### Treasure
 
-The remorhaz is long gone, but characters who explore its tunnel find a strange, frosted white residue smeared across a 5-foot section of wall—enough to fill a small bottle. This rare secretion is called thrym; remorhazes are known to exude small quantities of it shortly before they give birth. Alchemists use thrym to craft potions of resistance (cold) and other useful concoctions. A bottle of thrym sells for 250 gp. Any character who is proficient with alchemist's supplies can examine this residue and determine its true nature with a successful DC 11 Intelligence (Arcana) check.
+The remorhaz is long gone, but characters who explore its tunnel find a strange, frosted white residue smeared across a 5-foot section of wall—enough to fill a small bottle. This rare secretion is called thrym; remorhazes are known to exude small quantities of it shortly before they give birth. Alchemists use thrym to craft potions of resistance (cold) and other useful concoctions. A bottle of thrym sells for 250 gp. Any character who is proficient with alchemist's supplies can examine this residue and determine its true nature with a successful DC 11 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check.
 
 ### Sneaking Out
 

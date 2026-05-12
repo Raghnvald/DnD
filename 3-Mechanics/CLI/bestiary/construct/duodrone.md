@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duodrone
+- "Duodrone"
 ---
-# [Duodrone](3-Mechanics\CLI\bestiary\construct/duodrone.md)
+# [Duodrone](3-Mechanics/CLI/bestiary/construct/duodrone.md)
 *Source: Monster Manual p. 225*  
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
@@ -67,8 +67,10 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
   - !!int "10"
   - !!int "7"
 "speed": "30 ft."
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 10"
 "languages": "Modron"
 "cr": "1/4"
 "traits":
@@ -81,14 +83,14 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 "actions":
   - "desc": "The duodrone makes two fist attacks or two javelin attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Fist"
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 4 (1d6 + 1) piercing damage."
     "name": "Javelin"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/duodrone.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/duodrone.webp"
 ```
 ^statblock

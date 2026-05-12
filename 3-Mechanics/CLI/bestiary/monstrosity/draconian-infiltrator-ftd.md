@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draconian Infiltrator
+- "Draconian Infiltrator"
 ---
-# [Draconian Infiltrator](3-Mechanics\CLI\bestiary\monstrosity/draconian-infiltrator-ftd.md)
+# [Draconian Infiltrator](3-Mechanics/CLI/bestiary/monstrosity/draconian-infiltrator-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 178*  
 
 Copper, black, and topaz dragon eggs yield these sly and stealthy draconians, who often serve their creators as scouts and spies. They use the paralytic venom of their saliva to coat their weapons, making them formidable assassins as well. Their wings allow them to turn a fall into a rough glide. When draconian infiltrators die, their bodies dissolve into pools of acid.
@@ -46,14 +46,15 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
 "saves":
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "poisoned"
+"gear":
+  - "dagger"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "3"
 "traits":
@@ -64,22 +65,22 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
       \ acid off itself or another creature. A creature covered in the acid takes\
       \ 7 (2d6) acid damage at the start of each of its turns."
     "name": "Death Throes"
-  - "desc": "When the draconian falls and isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ it subtracts up to 100 feet from the fall when calculating the fall's damage,\
-      \ and it can move up to 2 feet horizontally for every 1 foot it descends."
+  - "desc": "When the draconian falls and isn't incapacitated, it subtracts up to\
+      \ 100 feet from the fall when calculating the fall's damage, and it can move\
+      \ up to 2 feet horizontally for every 1 foot it descends."
     "name": "Glide"
 "actions":
   - "desc": "The draconian makes two Dagger attacks. If both attacks hit the same\
       \ creature, the target must succeed on a DC 12 Constitution saving throw or\
-      \ become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the end of\
-      \ the target's next turn. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ in this way, the target is also [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)."
+      \ become poisoned until the end of the target's next turn. While poisoned in\
+      \ this way, the target is also paralyzed."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 7 (2d6) poison\
+      \ damage."
     "name": "Dagger"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/draconian-infiltrator-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-infiltrator-ftd.webp"
 ```
 ^statblock

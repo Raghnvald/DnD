@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Eversmoking Bottle"
 ---
 # Eversmoking Bottle
 *Wondrous item, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/eversmoking-bottle.webp#right)
+![](3-Mechanics/CLI/items/img/eversmoking-bottle.webp#right)
 
 - **Weight**: 1.0 lbs.
 

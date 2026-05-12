@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Wight
+- "Reduced-Threat Wight"
 ---
-# [Reduced-Threat Wight](3-Mechanics\CLI\bestiary\undead/reduced-threat-wight-tftyp.md)
+# [Reduced-Threat Wight](3-Mechanics/CLI/bestiary/undead/reduced-threat-wight-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "22"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -34,15 +34,20 @@ aliases:
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
@@ -52,30 +57,32 @@ aliases:
       \ and saving throw DCs (included in the stat block)."
     "name": "Reduced Threat"
   - "desc": "While in sunlight, the wight has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The wight makes two longsword attacks or two longbow attacks. It can\
       \ use its Life Drain in place of one longsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) necrotic damage. The target must succeed on a DC 11 Constitution\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 11 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if this effect reduces its hit point maximum to 0.\n\nA humanoid\
-      \ slain by this attack rises 24 hours later as a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md)\
+      \ slain by this attack rises 24 hours later as a [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
       \ under the wight's control, unless the humanoid is restored to life or its\
       \ body is destroyed. The wight can have no more than twelve zombies under its\
       \ control at one time."
     "name": "Life Drain"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/reduced-threat-wight-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/reduced-threat-wight-tftyp.webp"
 ```
 ^statblock

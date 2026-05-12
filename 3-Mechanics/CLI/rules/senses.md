@@ -3,29 +3,36 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - "Senses"
 ---
 # Senses
 
 ## Blindsight
-_Source: Player's Handbook p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
+If you have Blindsight, you can see within a specific range without relying on physical sight. Within that range, you can see anything that isn't behind [Total Cover](3-Mechanics/CLI/rules/variant-rules/cover-xphb.md) even if you have the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition or are in [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md). Moreover, in that range, you can see something that has the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition.
 
 ## Darkvision
-_Source: Player's Handbook p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-Many creatures in fantasy gaming worlds, especially those that dwell underground, have darkvision. Within a specified range, a creature with darkvision can see in dim light as if it were bright light and in darkness as if it were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned. However, the creature can't discern color in that darkness, only shades of gray.
+If you have Darkvision, you can see in [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) within a specified range as if it were [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) and in [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md) within that range as if it were [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md). You discern colors in that [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md) only as shades of gray.
 
 ## Tremorsense
-_Source: Monster Manual p. 9. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-A creature with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the creature and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
+A creature with Tremorsense can pinpoint the location of creatures and moving objects within a specific range, provided that the creature with Tremorsense and anything it is detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling) or the same liquid.
+
+Tremorsense can't detect creatures or objects in the air, and it doesn't count as a form of sight.
 
 ## Truesight
-_Source: Player's Handbook p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
-A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the creature can see into the Ethereal Plane.
+If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
+
+- **Darkness.** You can see in normal and magical [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md).  
+- **Invisibility.** You see creatures and objects that have the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition.  
+- **Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on [saving throws](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md) against them.  
+- **Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.  
+- **Ethereal Plane.** You see into the Ethereal Plane.

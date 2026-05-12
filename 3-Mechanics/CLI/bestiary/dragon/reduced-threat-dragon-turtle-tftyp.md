@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/17
-- new/monster/size/large
-- new/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Dragon Turtle
+- "Reduced-Threat Dragon Turtle"
 ---
-# [Reduced-Threat Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/reduced-threat-dragon-turtle-tftyp.md)
+# [Reduced-Threat Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/reduced-threat-dragon-turtle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -38,7 +38,8 @@ aliases:
   - "constitution": !!int "9"
   - "wisdom": !!int "5"
 "damage_resistances": "fire"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Aquan, Draconic"
 "cr": "17"
 "traits":
@@ -53,11 +54,11 @@ aliases:
   - "desc": "The dragon turtle makes three attacks: one with its bite and two with\
       \ its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 26\
-      \ (3d12 + 7) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:*\
+      \ 26 (3d12 + 7) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) slashing damage."
     "name": "Claw"
   - "desc": "The dragon turtle exhales scalding steam in a 60-foot cone. Each creature\
       \ in that area must make a DC 16 Constitution saving throw, taking 52 (15d6)\
@@ -66,6 +67,6 @@ aliases:
     "name": "Steam Breath (Recharge 5-6)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/reduced-threat-dragon-turtle-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/reduced-threat-dragon-turtle-tftyp.webp"
 ```
 ^statblock

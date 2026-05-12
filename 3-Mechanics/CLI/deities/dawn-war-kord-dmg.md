@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/tempest
-aliases: 
-- Kord
+aliases:
+- "Kord"
 ---
 # Kord
 *Source: Dungeon Master's Guide p. 10* 

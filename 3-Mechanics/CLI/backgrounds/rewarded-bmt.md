@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-background
 tags:
-- new/background
-- new/compendium/src/5e/bmt
+- ttrpg-cli/background
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Rewarded
+- "Rewarded"
 ---
 # Rewarded
 *Source: The Book of Many Things p. 57*  
-![](/3-Mechanics/CLI/backgrounds/img/rewarded.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/rewarded.webp#right)
 
 - **Skill Proficiencies.** Insight, Persuasion  
 - **Languages.** One of your choice  
@@ -27,9 +27,7 @@ Your unexpected good fortune is reflected by a minor boon. You gain the Lucky, M
 
 ## Suggested Characteristics
 
-Your character's perspective on life has changed thanks to their new destiny. The Rewarded Personality Traits table suggests traits you might adopt for your character and cards from the Deck of Many Things that might have prompted this trait.
-
-`dice: [](rewarded-bmt.md#^personality-trait)`
+Your character's perspective on life has changed thanks to their new destiny. The Rewarded Personality Traits table suggests traits you might adopt for your character and cards from the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md) that might have prompted this trait.
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|
@@ -45,13 +43,11 @@ Your character's perspective on life has changed thanks to their new destiny. Th
 
 Rewarded characters have varied histories, but they have one thing in common: they were down on their luck before their lives abruptly turned around. They might have given up all hope of a happier life, only to suddenly get a second chance. A rewarded character has often spent many years struggling to escape painful circumstances. Now, extricated from the (sometimes literal) prison that was their former life, they throw their cares to the wind and become adventurers.
 
-If your character's life was changed by a Deck of Many Things, consider which card was responsible. Perhaps the Fates card undid a tragic mistake your character made in their youth. The Gem card could have wiped out debts incurred over a lifetime. Maybe the Sage card provided the advice needed to escape a hopeless situation, the Star card increased an ability score to its current value, or a Wish spell cast after drawing the Moon card transformed your character from a peddler to a fledgling sorcerer infused with magic and new knowledge and skills. If you're making a character at higher than 1st level, magic items they have could have been granted by the Key or Sun card.
+If your character's life was changed by a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md), consider which card was responsible. Perhaps the Fates card undid a tragic mistake your character made in their youth. The Gem card could have wiped out debts incurred over a lifetime. Maybe the Sage card provided the advice needed to escape a hopeless situation, the Star card increased an ability score to its current value, or a Wish spell cast after drawing the Moon card transformed your character from a peddler to a fledgling sorcerer infused with magic and new knowledge and skills. If you're making a character at higher than 1st level, magic items they have could have been granted by the Key or Sun card.
 
 ## Rewarded Trinkets
 
 When you make your character, you can roll once on the Rewarded Trinkets table instead of on the Trinkets table in the "Player's Handbook" for your starting trinket.
-
-`dice: [](rewarded-bmt.md#^trinket)`
 
 | dice: d6 | Trinket |
 |----------|---------|

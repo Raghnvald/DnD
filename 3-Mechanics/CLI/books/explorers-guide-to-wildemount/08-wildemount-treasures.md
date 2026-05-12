@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Wildemount Treasures
+- "Wildemount Treasures"
 ---
 # Wildemount Treasures
 *Source: Explorer's Guide to Wildemount, p. 265* 
 
-![An undead knight bequeathe...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/125-06-01.webp#center "An undead knight bequeathes its Acheron blade to a worthy tiefling adventurer, but every great treasure has its price")
+![An undead knight bequeathes its Acheron blade to a worthy tiefling adventurer, but every great treasure has its price](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/125-06-01.webp#center)
 
 > [!quote] A quote from Enchanter Yun  
 > 
@@ -26,37 +26,37 @@ Whether found in a subterranean tomb while searching for lost treasure, chosen a
 
 Many of the magic items in this section are relics of the flying city-state of Aeor, and can often be found in Aeorian ruins in Eiselcross. See "chapter 3" for more information on Eiselcross and Aeor.
 
-- [Acheron Blade](/3-Mechanics/CLI/items/acheron-blade-egw.md)  
-- [Amulet of the Drunkard](/3-Mechanics/CLI/items/amulet-of-the-drunkard-egw.md)  
-- [Arcane Cannon](/3-Mechanics/CLI/items/arcane-cannon-egw.md)  
-- [Battering Shield](/3-Mechanics/CLI/items/battering-shield-egw.md)  
-- [Bloodaxe](/3-Mechanics/CLI/items/bloodaxe-egw.md)  
-- [Breathing Bubble](/3-Mechanics/CLI/items/breathing-bubble-egw.md)  
-- [Brooch of Living Essence](/3-Mechanics/CLI/items/brooch-of-living-essence-egw.md)  
-- [Butcher's Bib](/3-Mechanics/CLI/items/butchers-bib-egw.md)  
-- [Coin of Delving](/3-Mechanics/CLI/items/coin-of-delving-egw.md)  
-- [Corpse Slayer](/3-Mechanics/CLI/items/corpse-slayer-egw.md)  
-- [Dispelling Stone](/3-Mechanics/CLI/items/dispelling-stone-egw.md)  
-- [Duskcrusher](/3-Mechanics/CLI/items/duskcrusher-egw.md)  
-- [Dust of Deliciousness](/3-Mechanics/CLI/items/dust-of-deliciousness-egw.md)  
-- [Goggles of Object Reading](/3-Mechanics/CLI/items/goggles-of-object-reading-egw.md)  
-- [Hunter's Coat](/3-Mechanics/CLI/items/hunters-coat-egw.md)  
-- [Last Stand Armor](/3-Mechanics/CLI/items/last-stand-armor-egw.md)  
-- [Luxon Beacon](/3-Mechanics/CLI/items/luxon-beacon-egw.md)  
-- [Needle of Mending](/3-Mechanics/CLI/items/needle-of-mending-egw.md)  
-- [Nightfall Pearl](/3-Mechanics/CLI/items/nightfall-pearl-egw.md)  
-- [Orb of the Veil](/3-Mechanics/CLI/items/orb-of-the-veil-egw.md)  
-- [Potion of Maximum Power](/3-Mechanics/CLI/items/potion-of-maximum-power-egw.md)  
-- [Potion of Possibility](/3-Mechanics/CLI/items/potion-of-possibility-egw.md)  
-- [Reincarnation Dust](/3-Mechanics/CLI/items/reincarnation-dust-egw.md)  
-- [Ring of Obscuring](/3-Mechanics/CLI/items/ring-of-obscuring-egw.md)  
-- [Ring of Temporal Salvation](/3-Mechanics/CLI/items/ring-of-temporal-salvation-egw.md)  
-- [Rod of Retribution](/3-Mechanics/CLI/items/rod-of-retribution-egw.md)  
-- [Spell Bottle](/3-Mechanics/CLI/items/spell-bottle-egw.md)  
-- [Staff of Dunamancy](/3-Mechanics/CLI/items/staff-of-dunamancy-egw.md)  
-- [Staff of the Ivory Claw](/3-Mechanics/CLI/items/staff-of-the-ivory-claw-egw.md)  
-- [Vox Seeker](/3-Mechanics/CLI/items/vox-seeker-egw.md)  
-- [Weapon of Certain Death](/3-Mechanics/CLI/items/weapon-of-certain-death-egw.md)  
+- [Acheron Blade](3-Mechanics/CLI/items/acheron-blade-egw.md)  
+- [Amulet of the Drunkard](3-Mechanics/CLI/items/amulet-of-the-drunkard-egw.md)  
+- [Arcane Cannon](3-Mechanics/CLI/items/arcane-cannon-egw.md)  
+- [Battering Shield](3-Mechanics/CLI/items/battering-shield-egw.md)  
+- [Bloodaxe](3-Mechanics/CLI/items/bloodaxe-egw.md)  
+- [Breathing Bubble](3-Mechanics/CLI/items/breathing-bubble-egw.md)  
+- [Brooch of Living Essence](3-Mechanics/CLI/items/brooch-of-living-essence-egw.md)  
+- [Butcher's Bib](3-Mechanics/CLI/items/butchers-bib-egw.md)  
+- [Coin of Delving](3-Mechanics/CLI/items/coin-of-delving-egw.md)  
+- [Corpse Slayer](3-Mechanics/CLI/items/corpse-slayer-egw.md)  
+- [Dispelling Stone](3-Mechanics/CLI/items/dispelling-stone-egw.md)  
+- [Duskcrusher](3-Mechanics/CLI/items/duskcrusher-egw.md)  
+- [Dust of Deliciousness](3-Mechanics/CLI/items/dust-of-deliciousness-egw.md)  
+- [Goggles of Object Reading](3-Mechanics/CLI/items/goggles-of-object-reading-egw.md)  
+- [Hunter's Coat](3-Mechanics/CLI/items/hunters-coat-egw.md)  
+- [Last Stand Armor](3-Mechanics/CLI/items/last-stand-armor-egw.md)  
+- [Luxon Beacon](3-Mechanics/CLI/items/luxon-beacon-egw.md)  
+- [Needle of Mending](3-Mechanics/CLI/items/needle-of-mending-egw.md)  
+- [Nightfall Pearl](3-Mechanics/CLI/items/nightfall-pearl-egw.md)  
+- [Orb of the Veil](3-Mechanics/CLI/items/orb-of-the-veil-egw.md)  
+- [Potion of Maximum Power](3-Mechanics/CLI/items/potion-of-maximum-power-egw.md)  
+- [Potion of Possibility](3-Mechanics/CLI/items/potion-of-possibility-egw.md)  
+- [Reincarnation Dust](3-Mechanics/CLI/items/reincarnation-dust-egw.md)  
+- [Ring of Obscuring](3-Mechanics/CLI/items/ring-of-obscuring-egw.md)  
+- [Ring of Temporal Salvation](3-Mechanics/CLI/items/ring-of-temporal-salvation-egw.md)  
+- [Rod of Retribution](3-Mechanics/CLI/items/rod-of-retribution-egw.md)  
+- [Spell Bottle](3-Mechanics/CLI/items/spell-bottle-egw.md)  
+- [Staff of Dunamancy](3-Mechanics/CLI/items/staff-of-dunamancy-egw.md)  
+- [Staff of the Ivory Claw](3-Mechanics/CLI/items/staff-of-the-ivory-claw-egw.md)  
+- [Vox Seeker](3-Mechanics/CLI/items/vox-seeker-egw.md)  
+- [Weapon of Certain Death](3-Mechanics/CLI/items/weapon-of-certain-death-egw.md)  
 
 ## Vestiges of Divergence
 
@@ -66,13 +66,13 @@ Each Vestige of Divergence is a magic item that evolves with its wielder. If not
 
 This section presents a number of Vestiges of Divergence that might be found anywhere in Exandria. When Vestiges of Divergence are used in a campaign, their discovery and acquisition should always be treated with a suitable amount of weight and responsibility.
 
-- [Danoth's Visor](/3-Mechanics/CLI/items/danoths-visor-egw.md)  
-- [Grimoire Infinitus](/3-Mechanics/CLI/items/grimoire-infinitus-egw.md)  
-- [Hide of the Feral Guardian](/3-Mechanics/CLI/items/hide-of-the-feral-guardian-egw.md)  
-- [Infiltrator's Key](/3-Mechanics/CLI/items/infiltrators-key-egw.md)  
-- [Stormgirdle](/3-Mechanics/CLI/items/stormgirdle-egw.md)  
-- [Verminshroud](/3-Mechanics/CLI/items/verminshroud-egw.md)  
-- [Wreath of the Prism](/3-Mechanics/CLI/items/wreath-of-the-prism-egw.md)  
+- [Danoth's Visor](3-Mechanics/CLI/items/danoths-visor-egw.md)  
+- [Grimoire Infinitus](3-Mechanics/CLI/items/grimoire-infinitus-egw.md)  
+- [Hide of the Feral Guardian](3-Mechanics/CLI/items/hide-of-the-feral-guardian-egw.md)  
+- [Infiltrator's Key](3-Mechanics/CLI/items/infiltrators-key-egw.md)  
+- [Stormgirdle](3-Mechanics/CLI/items/stormgirdle-egw.md)  
+- [Verminshroud](3-Mechanics/CLI/items/verminshroud-egw.md)  
+- [Wreath of the Prism](3-Mechanics/CLI/items/wreath-of-the-prism-egw.md)  
 
 > [!note] Advancement of a Vestige of Divergence
 > 
@@ -104,17 +104,17 @@ Destroying any of the Arms of the Betrayers is no easy task. Most conventional m
 
 When one of the Arms of the Betrayers is destroyed, the soul of the fiend within the weapon returns to its home plane—and begins to plot the destruction of the creatures responsible.
 
-![Arms of the Betrayers Destruction](/3-Mechanics/CLI/tables/arms-of-the-betrayers-destruction-egw.md)
+![Arms of the Betrayers Destruction](3-Mechanics/CLI/tables/arms-of-the-betrayers-destruction-egw.md)
 
 ## Artifact Descriptions
 
 These artifacts are presented in alphabetical order. For the rules on artifacts, see "chapter 7" of the "Dungeon Master's Guide".
 
-- [Blade of Broken Mirrors](/3-Mechanics/CLI/items/blade-of-broken-mirrors-egw.md)  
-- [Grovelthrash](/3-Mechanics/CLI/items/grovelthrash-egw.md)  
-- [Lash of Shadows](/3-Mechanics/CLI/items/lash-of-shadows-egw.md)  
-- [Mace of the Black Crown](/3-Mechanics/CLI/items/mace-of-the-black-crown-egw.md)  
-- [Ruin's Wake](/3-Mechanics/CLI/items/ruins-wake-egw.md)  
-- [Silken Spite](/3-Mechanics/CLI/items/silken-spite-egw.md)  
-- [The Bloody End](/3-Mechanics/CLI/items/the-bloody-end-egw.md)  
-- [Will of the Talon](/3-Mechanics/CLI/items/will-of-the-talon-egw.md)
+- [Blade of Broken Mirrors](3-Mechanics/CLI/items/blade-of-broken-mirrors-egw.md)  
+- [Grovelthrash](3-Mechanics/CLI/items/grovelthrash-egw.md)  
+- [Lash of Shadows](3-Mechanics/CLI/items/lash-of-shadows-egw.md)  
+- [Mace of the Black Crown](3-Mechanics/CLI/items/mace-of-the-black-crown-egw.md)  
+- [Ruin's Wake](3-Mechanics/CLI/items/ruins-wake-egw.md)  
+- [Silken Spite](3-Mechanics/CLI/items/silken-spite-egw.md)  
+- [The Bloody End](3-Mechanics/CLI/items/the-bloody-end-egw.md)  
+- [Will of the Talon](3-Mechanics/CLI/items/will-of-the-talon-egw.md)

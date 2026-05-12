@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arabelle
+- "Arabelle"
 ---
-# [Arabelle](3-Mechanics\CLI\bestiary\npc/arabelle-cos.md)
+# [Arabelle](3-Mechanics/CLI/bestiary/npc/arabelle-cos.md)
 *Source: Curse of Strahd p. 38*  
 
 ```statblock
@@ -33,11 +33,13 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "club"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/arabelle-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/arabelle-cos.webp"
 ```
 ^statblock

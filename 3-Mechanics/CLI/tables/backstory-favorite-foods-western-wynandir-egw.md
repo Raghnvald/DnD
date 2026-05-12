@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Backstory; Favorite Foods (Western Wynandir)
+- "Backstory; Favorite Foods (Western Wynandir)"
 ---
 # Backstory; Favorite Foods (Western Wynandir)
 *Source: Explorer's Guide to Wildemount p. 191* 
 
 **Favorite Foods (Western Wynandir)**
-
-`dice: [](backstory-favorite-foods-western-wynandir-egw.md#^favorite-foods-western-wynandir)`
 
 | dice: d8 | Food |
 |----------|------|

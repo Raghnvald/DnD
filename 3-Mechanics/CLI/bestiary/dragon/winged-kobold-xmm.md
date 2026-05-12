@@ -19,9 +19,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Kobold
+- "Winged Kobold"
 ---
-# [Winged Kobold](3-Mechanics\CLI\bestiary\dragon/winged-kobold-xmm.md)
+# [Winged Kobold](3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md)
 *Source: Monster Manual (2024) p. 185*  
 
 Some kobolds are born with wings. Called urds by others of their kind, these kobolds are thought to be blessed by a dragon or Tiamat, the Dragon Queen. Despite their favored status, winged kobolds are as cowardly as their brethren and use their flight mostly to keep out of reach of their foes.
@@ -31,7 +31,7 @@ Some kobolds are born with wings. Called urds by others of their kind, these kob
 *Tricksters and Servants to Chromatic Dragons*
 
 - **Habitat.** Arctic, Coastal, Desert, Forest, Hill, Mountain, Swamp, Underdark, Urban  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Cowardly cousins to chromatic dragons, kobolds serve draconic overlords as warriors and servants. These scrappy menaces mimic the behaviors of their dragon masters. Though their small stature and recklessness make kobolds poor imitators of dragons, what they lack in ferocity they make up for in zeal and ingenuity. They are especially adept at creating traps and setting ambushes.
 
@@ -54,28 +54,29 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
   - !!int "7"
   - !!int "8"
 "speed": "30 ft., fly 30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
-  - "desc": "The kobold has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The kobold has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the kobold's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
-  - "desc": "While in sunlight, the kobold has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kobold has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage."
     "name": "Dragon-Tooth Blade"
-  - "desc": "*Ranged Attack Roll:* +5, range 30 ft. *Hit:* 6 (1d6 + 3) damage of a\
-      \ type chosen by the kobold: Acid, Cold, Fire, Lightning, or Poison."
+  - "desc": "*Ranged Attack Roll:* +5, range 30 ft. *Hit:* 6 (1d6 + 3) damage\
+      \ of a type chosen by the kobold: Acid, Cold, Fire, Lightning, or Poison."
     "name": "Chromatic Spittle"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/winged-kobold-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/winged-kobold-xmm.webp"
 ```
 ^statblock
 

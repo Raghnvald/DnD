@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/skt
+- ttrpg-cli/compendium/src/5e/skt
 aliases:
-- Items in a Giant's Bag
+- "Items in a Giant's Bag"
 ---
 # Items in a Giant's Bag
 *Source: Storm King's Thunder p. 18* 
 
 **Items in a Giant's Bag**
-
-`dice: [](items-in-a-giants-bag-skt.md#^items-in-a-giants-bag)`
 
 | dice: d100 | Item |
 |------------|------|
@@ -32,11 +30,11 @@ aliases:
 | 27–28 | Cask of ale (half empty) |
 | 29–30 | Giant-sized necklace made of bones (hill), stone beads (stone), dragon fangs (frost), iron ingots (fire), feathers (cloud), or starfish (storm) |
 | 31–32 | 5-foot length of chain |
-| 33–34 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) humanoid skulls |
+| 33–34 | `1d6` humanoid skulls |
 | 35–36 | Bag of dried mushrooms |
 | 37–38 | 50-foot coil of hempen rope |
 | 39–40 | 3-foot-tall idol depicting Grolantor (hill), Skoraeus Stonebones (stone), Thrym (frost), Surtur (fire), Memnor (cloud), or Stronmaus (storm) |
-| 41–42 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) dead trout |
+| 41–42 | `1d6` dead trout |
 | 43–44 | Dented steel shield |
 | 45–46 | Wooden oar |
 | 47–48 | Empty wooden barrel |
@@ -44,14 +42,14 @@ aliases:
 | 51–52 | Bundled-up tent |
 | 53–54 | Riding saddle |
 | 55–56 | Stuffed animal |
-| 57–58 | Live animal (chicken, goat, [pig](/3-Mechanics/CLI/bestiary/beast/pig-skt.md), or [sheep](/3-Mechanics/CLI/bestiary/beast/sheep-skt.md)) |
-| 59–60 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) moldy loaves of bread |
+| 57–58 | Live animal (chicken, goat, [pig](3-Mechanics/CLI/bestiary/beast/pig-skt.md), or [sheep](3-Mechanics/CLI/bestiary/beast/sheep-skt.md)) |
+| 59–60 | `1d6` moldy loaves of bread |
 | 61–62 | 6-foot-long wooden fence post |
 | 63–64 | Wooden door with twisted iron hinges |
 | 65–66 | Empty wooden chest (unlocked) |
 | 67–68 | Rocking chair |
 | 69–70 | Painted rocking horse or wooden toboggan |
-| 71–72 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) dragon scales |
+| 71–72 | `1d6` dragon scales |
 | 73–74 | Carved stone statue of a dwarf or human |
 | 75–76 | Wooden mannequin or target dummy |
 | 77–78 | Coffin or small casket |

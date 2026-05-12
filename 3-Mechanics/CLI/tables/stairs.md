@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Stairs
+- "Stairs"
 ---
 # Stairs
 *Source: Dungeon Master's Guide p. 291* 
 
 **Stairs**
-
-`dice: [](stairs.md#^stairs)`
 
 | dice: d20 | Stairs |
 |-----------|--------|

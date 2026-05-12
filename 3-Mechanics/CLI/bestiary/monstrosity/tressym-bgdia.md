@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tressym
+- "Tressym"
 ---
-# [Tressym](3-Mechanics\CLI\bestiary\monstrosity/tressym-bgdia.md)
+# [Tressym](3-Mechanics/CLI/bestiary/monstrosity/tressym-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 241*  
 
 ```statblock
@@ -33,35 +33,34 @@ aliases:
   - !!int "12"
 "speed": "40 ft., climb 30 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"condition_immunities": "poisoned"
+"senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Common but can't speak"
 "cr": "0"
 "traits":
   - "desc": "Within 60 feet of the tressym, magical invisibility fails to conceal\
       \ anything from the tressym's sight."
     "name": "Detect Invisibility"
-  - "desc": "The tressym has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks that rely on smell."
+  - "desc": "The tressym has advantage on Wisdom (Perception) checks that rely on\
+      \ smell."
     "name": "Keen Smell"
   - "desc": "The tressym can detect whether a substance is poisonous by taste, touch,\
       \ or smell."
     "name": "Poison Sense"
-  - "desc": "With the DM's permission, a person who casts the [find familiar](/3-Mechanics/CLI/spells/find-familiar-xphb.md)\
-      \ spell can choose to conjure a tressym instead of a normal cat."
+  - "desc": "With the DM's permission, a person who casts the find familiar spell\
+      \ can choose to conjure a tressym instead of a normal cat."
     "name": "Familiar"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ slashing damage."
     "name": "Claws"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/tressym-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/tressym-bgdia.webp"
 ```
 ^statblock

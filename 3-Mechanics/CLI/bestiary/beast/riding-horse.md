@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Riding Horse
+- "Riding Horse"
 ---
-# [Riding Horse](3-Mechanics\CLI\bestiary\beast/riding-horse.md)
-*Source: Monster Manual p. 336, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Riding Horse](3-Mechanics/CLI/bestiary/beast/riding-horse.md)
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Riding Horse"
@@ -38,13 +38,12 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/riding-horse.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/riding-horse.webp"
 ```
 ^statblock
 

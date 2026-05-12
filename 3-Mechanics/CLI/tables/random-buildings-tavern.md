@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Tavern
+- "Random Buildings; Tavern"
 ---
 # Random Buildings; Tavern
 *Source: Dungeon Master's Guide p. 113* 
 
 **Tavern**
-
-`dice: [](random-buildings-tavern.md#^tavern)`
 
 | dice: d20 | Type |
 |-----------|------|

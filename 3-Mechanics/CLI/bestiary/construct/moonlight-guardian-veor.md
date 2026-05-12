@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Moonlight Guardian
+- "Moonlight Guardian"
 ---
-# [Moonlight Guardian](3-Mechanics\CLI\bestiary\construct/moonlight-guardian-veor.md)
+# [Moonlight Guardian](3-Mechanics/CLI/bestiary/construct/moonlight-guardian-veor.md)
 *Source: Vecna: Eve of Ruin p. 227*  
 
 > [!quote] A quote from Werthil, Kender Adventurer  
@@ -43,8 +43,11 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison, radiant"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "truesight 120 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 11"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "6"
 "traits":
@@ -60,8 +63,8 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
 "actions":
   - "desc": "The guardian makes two Moonlight Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) bludgeoning damage plus 4 (1d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) bludgeoning damage plus 4 (1d8) radiant damage."
     "name": "Moonlight Slam"
   - "desc": "The guardian unleashes a magical blast of moonlight in a line 60 feet\
       \ long and 5 feet wide. Each creature in that area must make a DC 14 Dexterity\
@@ -73,6 +76,6 @@ A moonlight guardian's body is infused with magical moonlight that the creature 
     "name": "Moonlight Blast (Recharge 5-6)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/moonlight-guardian-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/moonlight-guardian-veor.webp"
 ```
 ^statblock

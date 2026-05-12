@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Living the Giant Life; Giant Life Spans
+- "Living the Giant Life; Giant Life Spans"
 ---
 # Living the Giant Life; Giant Life Spans
 *Source: Volo's Guide to Monsters p. 22* 

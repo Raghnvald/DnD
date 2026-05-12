@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cave Bear
+- "Cave Bear"
 ---
-# [Cave Bear](3-Mechanics\CLI\bestiary\beast/cave-bear.md)
+# [Cave Bear](3-Mechanics/CLI/bestiary/beast/cave-bear.md)
 *Source: Monster Manual p. 334*  
 
 ```statblock
@@ -36,28 +36,28 @@ aliases:
   - !!int "7"
 "speed": "40 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The bear has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The bear has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
   - "desc": "The bear makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/cave-bear.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/cave-bear.webp"
 ```
 ^statblock
 

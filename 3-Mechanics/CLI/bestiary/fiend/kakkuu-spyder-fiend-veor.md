@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kakkuu Spyder-Fiend
+- "Kakkuu Spyder-Fiend"
 ---
-# [Kakkuu Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/kakkuu-spyder-fiend-veor.md)
+# [Kakkuu Spyder-Fiend](3-Mechanics/CLI/bestiary/fiend/kakkuu-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 234*  
 
 Resembling enormous spiders, kakkuus are the most numerous and least intelligent spyder-fiends. In large conflicts, they serve as foot soldiers, but they prefer to avoid more powerful Fiends, who boss them around. Left on their own, kakkuus lurk in ambush and use their webs to snare prey.
@@ -49,14 +49,15 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "constitution": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "understands Abyssal but can't speak"
 "cr": "5"
 "traits":
@@ -77,17 +78,18 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d10 + 3) piercing damage plus 10 (3d6) poison damage."
     "name": "Bite"
-  - "desc": "The kakkuu pulls each creature within 60 feet of itself that is grappled\
+  - "desc": "The kakkuu pulls each creature within 60 feet of itself that is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by its Web Snare up to 30 feet straight toward itself."
     "name": "Reel"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, reach 30/60 ft., one Large or smaller\
-      \ creature. *Hit:* The target has the grappled condition (escape DC 13). While\
-      \ grappled, the target also has the restrained condition. A web snare grappling\
-      \ a creature can be attacked and destroyed (AC 10; 10 hit points; immunity to\
-      \ bludgeoning, poison, and psychic damage)."
+      \ creature. *Hit:* The target has the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition (escape DC 13). While [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+      \ the target also has the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition. A web snare grappling a creature can be attacked and destroyed\
+      \ (AC 10; 10 hit points; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web Snare"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/kakkuu-spyder-fiend-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/kakkuu-spyder-fiend-veor.webp"
 ```
 ^statblock

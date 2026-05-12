@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizard
+- "Lizard"
 ---
-# [Lizard](3-Mechanics\CLI\bestiary\beast/lizard.md)
+# [Lizard](3-Mechanics/CLI/bestiary/beast/lizard.md)
 *Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -32,16 +32,16 @@ aliases:
   - !!int "8"
   - !!int "3"
 "speed": "20 ft., climb 20 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 9"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/lizard.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/lizard.webp"
 ```
 ^statblock

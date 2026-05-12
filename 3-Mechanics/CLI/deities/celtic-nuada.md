@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/celtic
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Nuada
+aliases:
+- "Nuada"
 ---
 # Nuada
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

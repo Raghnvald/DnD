@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cosmotronic Blastseeker
+- "Cosmotronic Blastseeker"
 ---
-# [Cosmotronic Blastseeker](3-Mechanics\CLI\bestiary\humanoid/cosmotronic-blastseeker-ggr.md)
+# [Cosmotronic Blastseeker](3-Mechanics/CLI/bestiary/humanoid/cosmotronic-blastseeker-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 242*  
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
@@ -24,7 +24,7 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md)"
+"ac_class": "chain shirt"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
 "modifier": !!int "2"
@@ -40,22 +40,23 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - "dexterity": !!int "4"
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+6"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+1"
+"gear":
+  - "warhammer"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "4"
 "traits":
   - "desc": "The blastseeker's innate spellcasting ability is Intelligence (spell\
-      \ save DC 14, +6 to hit with spell attacks). The blastseeker can innately cast\
-      \ the following spells, requiring no components other than its Izzet gear, which\
-      \ doesn't function for others:\n\n**3/day each:** [scorching ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md),\
-      \ [shield](/3-Mechanics/CLI/spells/shield-xphb.md), [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
-      \n**2/day:** [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)"
+      \ save DC 14, +6 to hit with spell attacks). The blastseeker can innately\
+      \ cast the following spells, requiring no components other than its Izzet gear,\
+      \ which doesn't function for others:\n\n**3/day each:** scorching ray, shield,\
+      \ thunderwave\n\n**2/day:** fireball"
     "name": "Innate Spellcasting"
   - "desc": "When the blastseeker rolls damage for a spell, it can reroll up to four\
       \ dice of damage. It must use the new dice."
@@ -64,12 +65,12 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
       \ with advantage."
     "name": "Tides of Chaos (1/Day)"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used with two\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) bludgeoning damage, or 7 (1d10 + 2) bludgeoning damage if used\
+      \ with two hands."
     "name": "Warhammer"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cosmotronic-blastseeker-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/cosmotronic-blastseeker-ggr.webp"
 ```
 ^statblock

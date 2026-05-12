@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/9
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Clay Golem
+- "Reduced-Threat Clay Golem"
 ---
-# [Reduced-Threat Clay Golem](3-Mechanics\CLI\bestiary\construct/reduced-threat-clay-golem-tftyp.md)
+# [Reduced-Threat Clay Golem](3-Mechanics/CLI/bestiary/construct/reduced-threat-clay-golem-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "20 ft."
 "damage_immunities": "acid; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 9"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "9"
 "traits":
@@ -69,8 +72,9 @@ aliases:
       \ (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 13 Constitution saving throw or have its hit point maximum reduced\
       \ by an amount equal to the damage taken. The target dies if this attack reduces\
-      \ its hit point maximum to 0. The reduction lasts until removed by the  greater\
-      \ restoration spell or other magic."
+      \ its hit point maximum to 0. The reduction lasts until removed by the  [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or\
+      \ other magic."
     "name": "Slam"
   - "desc": "Until the end of its next turn, the golem magically gains a +2 bonus\
       \ to its AC, has advantage on Dexterity saving throws, and can use its slam\
@@ -78,6 +82,6 @@ aliases:
     "name": "Haste (Recharge 5-6)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/reduced-threat-clay-golem-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/reduced-threat-clay-golem-tftyp.webp"
 ```
 ^statblock

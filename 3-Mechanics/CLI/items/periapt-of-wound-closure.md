@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Periapt of Wound Closure"
 ---
 # Periapt of Wound Closure
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/periapt-of-wound-closure.webp#right)
+![](3-Mechanics/CLI/items/img/periapt-of-wound-closure.webp#right)
 
 - **Weight**: 1.0 lbs.
 

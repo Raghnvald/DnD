@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crocodile
+- "Crocodile"
 ---
-# [Crocodile](3-Mechanics\CLI\bestiary\beast/crocodile.md)
-*Source: Monster Manual p. 320, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Crocodile](3-Mechanics/CLI/bestiary/beast/crocodile.md)
+*Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Crocodile"
@@ -36,7 +36,7 @@ aliases:
   - !!int "5"
 "speed": "20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "senses": "passive Perception 10"
 "languages": ""
@@ -45,15 +45,14 @@ aliases:
   - "desc": "The crocodile can hold its breath for 15 minutes."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until\
-      \ this grapple ends, the target is restrained, and the crocodile can't bite\
-      \ another target"
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (1d10 + 2) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 12). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the crocodile can't bite another target"
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/crocodile.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/crocodile.webp"
 ```
 ^statblock
 

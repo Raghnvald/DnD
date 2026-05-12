@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragon Turtle
+- "Dragon Turtle"
 ---
-# [Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/dragon-turtle.md)
-*Source: Monster Manual p. 119, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle.md)
+*Source: Monster Manual p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
 
@@ -58,7 +58,8 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
   - "constitution": !!int "11"
   - "wisdom": !!int "7"
 "damage_resistances": "fire"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Aquan, Draconic"
 "cr": "17"
 "traits":
@@ -68,16 +69,16 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
   - "desc": "The dragon turtle makes three attacks: one with its bite and two with\
       \ its claws. It can make one tail attack in place of its two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26\
-      \ (3d12 + 7) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 26 (3d12 + 7) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26\
-      \ (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 20 Strength saving throw or be pushed up to 10 feet away from the\
-      \ dragon turtle and knocked prone."
+      \ dragon turtle and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Tail"
   - "desc": "The dragon turtle exhales scalding steam in a 60-foot cone. Each creature\
       \ in that area must make a DC 18 Constitution saving throw, taking 52 (15d6)\
@@ -86,8 +87,7 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
     "name": "Steam Breath (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/dragon-turtle.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/dragon-turtle.webp"
 ```
 ^statblock
 

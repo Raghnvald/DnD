@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Egg Hunter Adult
+- "Egg Hunter Adult"
 ---
-# [Egg Hunter Adult](3-Mechanics\CLI\bestiary\monstrosity/egg-hunter-adult-ftd.md)
+# [Egg Hunter Adult](3-Mechanics/CLI/bestiary/monstrosity/egg-hunter-adult-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 193*  
 
 The salamander-like adult of the species can inflate its bulbous tail so that it takes on the shape and texture of a dragon egg. It uses this mimicry to establish itself in a nest tended by a dragon or other creatures. If an egg hunter is discovered, it releases spores that make other creatures lethargic, allowing it to scurry to safety. If things turn dire, the egg hunter's physical form can magically harden, reducing the harm it suffers from even a dragon's wrath.
@@ -43,14 +43,12 @@ Egg hunters are parasites that seek out dragon eggs and feed on the contents. Th
   - "dexterity": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+11"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"condition_immunities": "frightened, poisoned"
+"senses": "darkvision 120 ft., passive Perception 14"
 "languages": ""
 "cr": "5"
 "traits":
@@ -58,7 +56,7 @@ Egg hunters are parasites that seek out dragon eggs and feed on the contents. Th
     "name": "Amphibious"
   - "desc": "If the egg hunter is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the egg hunter\
-      \ move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
+      \ move or act, that creature must succeed on a DC 18 Intelligence (Investigation)\
       \ check to discern that the egg hunter is animate. Dragons have disadvantage\
       \ on this check."
     "name": "False Appearance"
@@ -66,14 +64,13 @@ Egg hunters are parasites that seek out dragon eggs and feed on the contents. Th
   - "desc": "The egg hunter makes two Barbed Proboscis attacks, and it can use Torpor\
       \ Spores if it's available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d6\
-      \ + 5) piercing damage plus 9 (2d8) necrotic damage, and the egg hunter regains\
-      \ hit points equal to the necrotic damage dealt."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d6 + 5) piercing damage plus 9 (2d8) necrotic damage, and the egg hunter\
+      \ regains hit points equal to the necrotic damage dealt."
     "name": "Barbed Proboscis"
   - "desc": "The egg hunter releases a billow of sparkling blue spores. Each creature\
       \ in a 30-foot-radius sphere centered on the egg hunter must succeed on a DC\
-      \ 14 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 minute. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in\
+      \ 14 Constitution saving throw or be poisoned for 1 minute. While poisoned in\
       \ this way, the creature can take either an action or a bonus action on its\
       \ turn but not both, and it can't take reactions. A creature can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
@@ -87,6 +84,6 @@ Egg hunters are parasites that seek out dragon eggs and feed on the contents. Th
     "name": "Rapid Adaptation"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/egg-hunter-adult-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/egg-hunter-adult-ftd.webp"
 ```
 ^statblock

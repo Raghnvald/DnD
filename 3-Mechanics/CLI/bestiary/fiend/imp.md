@@ -10,14 +10,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Imp
+- "Imp"
 ---
-# [Imp](3-Mechanics\CLI\bestiary\fiend/imp.md)
-*Source: Monster Manual p. 76, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Imp](3-Mechanics/CLI/bestiary/fiend/imp.md)
+*Source: Monster Manual p. 76. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Imps are found throughout the Lower Planes, either running errands for their infernal masters, spying on rivals, or misleading and waylaying mortals. An imp will proudly serve an evil master of any kind, but it can't be relied on to carry out tasks with any speed or efficiency.
 
-An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while invisible, attacking with its poison stinger.
+An imp can assume animal form at will, but in its natural state it resembles a diminutive red-skinned humanoid with a barbed tail, small horns, and leathery wings. It strikes while [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), attacking with its poison stinger.
 
 > [!note] Variant: Imp Familiar
 > 
@@ -122,7 +122,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -165,19 +165,20 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - !!int "14"
 "speed": "20 ft., fly 40 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with silvered weapons"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Infernal, Common"
 "cr": "1"
 "traits":
@@ -193,18 +194,19 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 10 (3d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Sting (Bite in Beast Form)"
-  - "desc": "The imp magically turns invisible until it attacks, or until its concentration\
-      \ ends (as if concentrating on a spell). Any equipment the imp wears or carries\
-      \ is invisible with it."
+  - "desc": "The imp magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks, or until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the imp wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with it."
     "name": "Invisibility"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/imp.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/imp.webp"
 ```
 ^statblock

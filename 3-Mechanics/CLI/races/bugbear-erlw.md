@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/bugbear
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/race/bugbear
 aliases:
-- Bugbear
+- "Bugbear"
 ---
 # Bugbear
 *Source: Eberron: Rising from the Last War p. 25*  
-![](/3-Mechanics/CLI/races/img/goblinoids.webp#right)
+![](3-Mechanics/CLI/races/img/goblinoids.webp#right)
 
 - **Ability Scores**: str +2 dex +1
 - **Size**: Medium
@@ -48,7 +48,7 @@ You are proficient in the Stealth skill.
 
 ### Surprise Attack
 
-If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to it. You can use this trait only once per combat.
+If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra `2d6` damage to it. You can use this trait only once per combat.
 
 ### Languages
 

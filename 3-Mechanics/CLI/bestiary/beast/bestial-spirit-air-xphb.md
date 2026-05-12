@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bestial Spirit (Air)
+- "Bestial Spirit (Air)"
 ---
-# [Bestial Spirit (Air)](3-Mechanics\CLI\bestiary\beast/bestial-spirit-air-xphb.md)
+# [Bestial Spirit (Air)](3-Mechanics/CLI/bestiary/beast/bestial-spirit-air-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -30,11 +30,11 @@ aliases:
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., fly 60 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you know"
 "traits":
-  - "desc": "The spirit doesn't provoke [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The spirit doesn't provoke [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
 "actions":

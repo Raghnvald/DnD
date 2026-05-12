@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/23
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/23
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Acererak
+- "Acererak"
 ---
-# [Acererak](3-Mechanics\CLI\bestiary\npc/acererak-toa.md)
+# [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)
 *Source: Tomb of Annihilation p. 209*  
 
 Acererak is an archlich who travels between worlds and is known to take sick pleasure in devouring the souls of adventurers, whom he lures into trap-ridden dungeons where they suffer horrible deaths. One such dungeon lies under the lost city of Omu. This dungeon is called the Tomb of the Nine Gods, for Acererak slew nine false gods and sealed them within it. More recently, he built a necromantic device called the Soulmonger, then hid it in the heart of the tomb.
@@ -54,38 +54,53 @@ Acererak is an archlich who travels between worlds and is known to take sick ple
   - "intelligence": !!int "15"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+22"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+22"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+12"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+12"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned, stunned"
-"senses": "truesight 120 ft., passive Perception 22"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 22"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Elvish, Giant, Infernal, Primordial,\
   \ Undercommon"
 "cr": "23"
 "traits":
   - "desc": "Acererak is a 20th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 23, +15 to hit with spell attacks). Acererak has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** mage hand, ray of frost,\
-      \ shocking grasp\n\n**1st level:** ray of sickness, shield\n\n**2nd level:**\
-      \ arcane lock, knock\n\n**3rd level:** animate dead, counterspell\n\n**4th level\
-      \ (3 slots):** blight, ice storm, phantasmal killer\n\n**5th level (3 slots):**\
-      \ cloudkill, hold monster, wall of force\n\n**6th level (3 slots):** chain lightning,\
-      \ circle of death, disintegrate\n\n**7th level (3 slots):** finger of death,\
-      \ plane shift, teleport\n\n**8th level (2 slots):** maze, mind blank\n\n**9th\
-      \ level (2 slots):** power word kill, time stop"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md), [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\
+      \n**1st level:** [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level:** [arcane\
+      \ lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md), [knock](3-Mechanics/CLI/spells/knock-xphb.md)\n\
+      \n**3rd level:** [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md),\
+      \ [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md)\n\n**4th level\
+      \ (3 slots):** [blight](3-Mechanics/CLI/spells/blight-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md),\
+      \ [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md)\n\n\
+      **5th level (3 slots):** [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\
+      \n**6th level (3 slots):** [chain lightning](3-Mechanics/CLI/spells/chain-lightning-xphb.md),\
+      \ [circle of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md), [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md)\n\
+      \n**7th level (3 slots):** [finger of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+      \n**8th level (2 slots):** [maze](3-Mechanics/CLI/spells/maze-xphb.md), [mind\
+      \ blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)\n\n**9th level (2 slots):**\
+      \ [power word kill](3-Mechanics/CLI/spells/power-word-kill-xphb.md), [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Acererak carries the [Staff of the Forgotten One](/3-Mechanics/CLI/items/staff-of-the-forgotten-one-toa.md).\
-      \ He wears a Talisman of the Sphere and has a Sphere of Annihilation under his\
-      \ control."
+  - "desc": "Acererak carries the [Staff of the Forgotten One](3-Mechanics/CLI/items/staff-of-the-forgotten-one-toa.md).\
+      \ He wears a [Talisman of the Sphere](3-Mechanics/CLI/items/talisman-of-the-sphere-xdmg.md)\
+      \ and has a [Sphere of Annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md)\
+      \ under his control."
     "name": "Special Equipment"
   - "desc": "If Acererak fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -98,21 +113,24 @@ Acererak is an archlich who travels between worlds and is known to take sick ple
       \ undead."
     "name": "Turn Resistance"
 "actions":
-  - "desc": "*Melee Spell Attack:* +15 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (3d6) cold damage, and the target must succeed on a DC 20 Constitution saving\
-      \ throw or be paralyzed for 1 minute. The target can repeat the saving throw\
-      \ at the end of each of its turns, ending the effect on itself on a success."
+  - "desc": "*Melee Spell Attack:* +15 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (3d6) cold damage, and the target must succeed on a DC 20 Constitution\
+      \ saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
     "name": "Paralyzing Touch"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 7\
-      \ (1d6 + 4) bludgeoning damage plus 10 (3d6) necrotic damage, or 8 (1d8 + 4)\
-      \ bludgeoning damage plus 10 (3d6) necrotic damage when used with two hands."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) bludgeoning damage plus 10 (3d6) necrotic damage, or 8 (1d8\
+      \ + 4) bludgeoning damage plus 10 (3d6) necrotic damage when used with two\
+      \ hands."
     "name": "Staff (+3 Quarterstaff)"
   - "desc": "While holding the Staff of the Forgotten One, Acererak expends 1 charge\
       \ from it and targets one creature he can see within 60 feet of him. The target\
       \ must succeed on a DC 23 Constitution saving throw or be cursed. Until the\
       \ curse is ended, the target can't regain hit points and has vulnerability to\
-      \ necrotic damage. Greater restoration, remove curse, or similar magic ends\
-      \ the curse on the target."
+      \ necrotic damage. [Greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), or similar magic\
+      \ ends the curse on the target."
     "name": "Invoke Curse"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Acererak can expend a use to take one of the following actions. Acererak\
@@ -124,12 +142,15 @@ Acererak is an archlich who travels between worlds and is known to take sick ple
     "name": "Melee Attack"
   - "desc": "Acererak fixes his gaze on one creature he can see within 10 feet of\
       \ him. The target must succeed on a DC 20 Wisdom saving throw against this magic\
-      \ or become frightened for 1 minute. The frightened target can repeat the saving\
-      \ throw at the end of each of its turns, ending the effect on itself on a success.\
-      \ If a target's saving throw is successful or the effect ends for it, the target\
-      \ its immune to Acererak's gaze for the next 24 hours."
+      \ or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) for\
+      \ 1 minute. The [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success. If a target's saving throw is successful\
+      \ or the effect ends for it, the target its immune to Acererak's gaze for the\
+      \ next 24 hours."
     "name": "Frightening Gaze (Costs 2 Actions)"
-  - "desc": "Acererak uses his Talisman of the Sphere to move the Sphere of Annihilation\
+  - "desc": "Acererak uses his [Talisman of the Sphere](3-Mechanics/CLI/items/talisman-of-the-sphere-xdmg.md)\
+      \ to move the [Sphere of Annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md)\
       \ under his control up to 90 feet."
     "name": "Talisman of the Sphere (Costs 2 Actions)"
   - "desc": "Each creature within 20 feet of Acererak must make a DC 20 Constitution\
@@ -138,6 +159,6 @@ Acererak is an archlich who travels between worlds and is known to take sick ple
     "name": "Disrupt Life (Costs 3 Actions)"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/acererak-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/acererak-toa.webp"
 ```
 ^statblock

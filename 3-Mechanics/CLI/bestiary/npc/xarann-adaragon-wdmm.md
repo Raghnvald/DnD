@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xarann A'Daragon
+- "Xarann A'Daragon"
 ---
-# [Xarann A'Daragon](3-Mechanics\CLI\bestiary\npc/xarann-adaragon-wdmm.md)
+# [Xarann A'Daragon](3-Mechanics/CLI/bestiary/npc/xarann-adaragon-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 145*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -38,37 +38,43 @@ aliases:
   - "dexterity": !!int "6"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+6"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 13"
+"gear":
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Elvish, Undercommon"
 "cr": "8"
 "traits":
-  - "desc": "Xarann\n\n**At will:** dancing lights\n\n**1/day each:** darkness, faerie\
-      \ fire, levitate (self only)"
+  - "desc": "Xarann\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting"
   - "desc": "During its first turn, Xarann has advantage on attack rolls against any\
-      \ creature that hasn't taken a turn. Any hit Xarann scores against a surprised\
+      \ creature that hasn't taken a turn. Any hit Xarann scores against a [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
       \ creature is a critical hit."
     "name": "Assassinate"
   - "desc": "If Xarann is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, Xarann instead takes no damage if it\
       \ succeeds on the saving throw, and only half damage if it fails."
     "name": "Evasion"
-  - "desc": "Xarann deals an extra 14 (4d6) damage when it hits a target with a weapon\
-      \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of Xarann that isn't incapacitated and Xarann doesn't have\
-      \ disadvantage on the attack roll."
+  - "desc": "Xarann deals an extra 14 (4d6) damage when it hits a target with a\
+      \ weapon attack and has advantage on the attack roll, or when the target is\
+      \ within 5 feet of an ally of Xarann that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and Xarann doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
-  - "desc": "Xarann wears a piwafwi, a drow-made cloak of elvenkind. It loses its\
-      \ magic if exposed to sunlight for 1 hour without interruption."
+  - "desc": "Xarann wears a piwafwi, a drow-made [cloak of elvenkind](3-Mechanics/CLI/items/cloak-of-elvenkind-xdmg.md).\
+      \ It loses its magic if exposed to sunlight for 1 hour without interruption."
     "name": "Special Equipment"
   - "desc": "Xarann"
     "name": "Fey Ancestry"
@@ -77,18 +83,18 @@ aliases:
 "actions":
   - "desc": "Xarann makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution\
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution\
-      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
-      \ damage on a successful one."
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Light Crossbow"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/xarann-adaragon-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/xarann-adaragon-wdmm.webp"
 ```
 ^statblock

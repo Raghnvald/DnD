@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/cm
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/wondrous/wand
-aliases: 
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/unknown/magic
+- ttrpg-cli/item/wondrous/wand
+aliases:
 - "Radiance"
 ---
 # Radiance

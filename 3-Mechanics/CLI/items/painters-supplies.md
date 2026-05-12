@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Painter's Supplies"
 ---
 # Painter's Supplies

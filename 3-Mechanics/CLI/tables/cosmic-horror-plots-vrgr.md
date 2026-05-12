@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Cosmic Horror Plots
+- "Cosmic Horror Plots"
 ---
 # Cosmic Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
 **Cosmic Horror Plots**
-
-`dice: [](cosmic-horror-plots-vrgr.md#^cosmic-horror-plots)`
 
 | dice: d8 | Plot |
 |----------|------|

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- The Drow Pantheon
+- "The Drow Pantheon"
 ---
 # The Drow Pantheon
 *Source: Sword Coast Adventurer's Guide p. 23* 

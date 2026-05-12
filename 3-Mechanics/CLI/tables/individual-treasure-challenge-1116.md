@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Individual Treasure: Challenge 11—16
+- "Individual Treasure: Challenge 11—16"
 ---
 # Individual Treasure: Challenge 11—16
 *Source: Dungeon Master's Guide p. 133* 
 
 **Individual Treasure: Challenge 11—16**
-
-`dice: [](individual-treasure-challenge-1116.md#^individual-treasure-challenge-1116)`
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|

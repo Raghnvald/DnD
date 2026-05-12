@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Saddle of the Cavalier"
 ---
 # Saddle of the Cavalier

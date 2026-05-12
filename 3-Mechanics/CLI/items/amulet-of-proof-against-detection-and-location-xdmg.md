@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Amulet of Proof against Detection and Location"
 ---
 # Amulet of Proof against Detection and Location
 *Wondrous item, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)
+![](3-Mechanics/CLI/items/img/amulet-of-proof-against-detection-and-location.webp#right)
 
 - **Weight**: 1.0 lbs.
 

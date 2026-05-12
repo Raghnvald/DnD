@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/life
-aliases: 
-- Vesh
+aliases:
+- "Vesh"
 ---
 # Vesh
 *Source: Explorer's Guide to Wildemount p. 33* 

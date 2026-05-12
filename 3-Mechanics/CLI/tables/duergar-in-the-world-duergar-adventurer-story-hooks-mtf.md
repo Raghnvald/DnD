@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Duergar in the World; Duergar Adventurer Story Hooks
+- "Duergar in the World; Duergar Adventurer Story Hooks"
 ---
 # Duergar in the World; Duergar Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 84* 
 
 **Duergar Adventurer Story Hooks**
-
-`dice: [](duergar-in-the-world-duergar-adventurer-story-hooks-mtf.md#^duergar-adventurer-story-hooks)`
 
 | dice: d6 | Hook |
 |----------|------|

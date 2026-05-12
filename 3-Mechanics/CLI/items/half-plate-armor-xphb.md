@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Half Plate Armor"
 ---
 # Half Plate Armor
 *Medium armor*  
-![](/3-Mechanics/CLI/items/img/half-plate-armor.webp#right)
+![](3-Mechanics/CLI/items/img/half-plate-armor.webp#right)
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.

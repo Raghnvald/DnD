@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beholder Zombie
+- "Beholder Zombie"
 ---
-# [Beholder Zombie](3-Mechanics\CLI\bestiary\undead/beholder-zombie.md)
+# [Beholder Zombie](3-Mechanics/CLI/bestiary/undead/beholder-zombie.md)
 *Source: Monster Manual p. 316*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -22,7 +22,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 
 Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](/3-Mechanics/CLI/spells/resurrection.md) spell.
+Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](3-Mechanics/CLI/spells/resurrection.md) spell.
 
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
@@ -42,7 +42,7 @@ A zombie doesn't require air, food, drink, or sleep.
 
 > [!quote] A quote from Fonkin Hoodypeak  
 > 
-> After Beek died, we cast an [animate dead](/3-Mechanics/CLI/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+> After Beek died, we cast an [animate dead](3-Mechanics/CLI/spells/animate-dead.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
 
 ```statblock
@@ -66,9 +66,10 @@ A zombie doesn't require air, food, drink, or sleep.
 "saves":
   - "wisdom": !!int "2"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
 "traits":
@@ -82,15 +83,15 @@ A zombie doesn't require air, food, drink, or sleep.
     "name": "Bite"
   - "desc": "The zombie uses a random magical eye ray, choosing a target that it can\
       \ see within 60 feet of it.\n\n- **1. Paralyzing Ray.** The targeted creature\
-      \ must succeed on a DC 14 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ must succeed on a DC 14 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- **2. Fear Ray.**\
-      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- **3. Enervation\
       \ Ray.** The targeted creature must make a DC 14 Constitution saving throw,\
-      \ taking 36 (8d8) necrotic damage on a failed save, or half as much damage on\
-      \ a successful one.  \n- **4. Disintegration Ray.** If the target is a creature,\
+      \ taking 36 (8d8) necrotic damage on a failed save, or half as much damage\
+      \ on a successful one.  \n- **4. Disintegration Ray.** If the target is a creature,\
       \ it must succeed on a DC 14 Dexterity saving throw or take 45 (10d8) force\
       \ damage. If this damage reduces the creature to 0 hit points, its body becomes\
       \ a pile of fine gray dust.  \n\n    If the target is a Large or smaller nonmagical\
@@ -100,7 +101,7 @@ A zombie doesn't require air, food, drink, or sleep.
     "name": "Eye Ray"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/beholder-zombie.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/beholder-zombie.webp"
 ```
 ^statblock
 

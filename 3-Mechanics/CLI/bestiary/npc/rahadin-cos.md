@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rahadin
+- "Rahadin"
 ---
-# [Rahadin](3-Mechanics\CLI\bestiary\npc/rahadin-cos.md)
+# [Rahadin](3-Mechanics/CLI/bestiary/npc/rahadin-cos.md)
 *Source: Curse of Strahd p. 237*  
 
 Rahadin, the dusk elf chamberlain of Castle Ravenloft, has served Strahd's family faithfully for nearly five hundred years. He is Strahd's eternal servant, a longtime comrade-in-arms, and a ruthless warrior who has killed thousands in his lifetime.
@@ -62,7 +62,7 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
 "subtype": "elf"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "135"
 "hit_dice": "18d8 + 54"
 "modifier": !!int "6"
@@ -78,51 +78,50 @@ So dreadful a creature is Rahadin that anyone who stands within 10 feet of him c
   - "constitution": !!int "7"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+14"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 21"
+"gear":
+  - "scimitar"
+"senses": "darkvision 60 ft., passive Perception 21"
 "languages": "Common, Elvish"
 "cr": "10"
 "traits":
   - "desc": "Rahadin's innate spellcasting ability is Intelligence. He can innately\
-      \ cast the following spells, requiring no components:\n\n**3/day:** [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
-      \ [phantom steed](/3-Mechanics/CLI/spells/phantom-steed-xphb.md)\n\n**1/day:**\
-      \ [magic weapon](/3-Mechanics/CLI/spells/magic-weapon-xphb.md), [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)"
+      \ cast the following spells, requiring no components:\n\n**3/day:** misty step,\
+      \ phantom steed\n\n**1/day:** magic weapon, nondetection"
     "name": "Innate Spellcasting"
-  - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a [mind\
-      \ blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md) spell hears in its mind\
-      \ the screams of the thousands of people Rahadin has killed. As a bonus action,\
-      \ Rahadin can force all creatures that can hear the screams to make a DC 16\
-      \ Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed\
-      \ save, or half as much damage on a successful one."
+  - "desc": "Any creature within 10 feet of Rahadin that isn't protected by a mind\
+      \ blank spell hears in its mind the screams of the thousands of people Rahadin\
+      \ has killed. As a bonus action, Rahadin can force all creatures that can hear\
+      \ the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10)\
+      \ psychic damage on a failed save, or half as much damage on a successful one."
     "name": "Deathly Choir"
-  - "desc": "Rahadin has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ and magic can't put him to sleep."
+  - "desc": "Rahadin has advantage on saving throws against being charmed, and magic\
+      \ can't put him to sleep."
     "name": "Fey Ancestry"
   - "desc": "Rahadin can attempt to hide even when he is only lightly obscured by\
       \ foliage, heavy rain, falling snow, mist, and other natural phenomena."
     "name": "Mask of the Wild"
 "actions":
-  - "desc": "Rahadin attacks three times with his scimitar, or twice with his [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "Rahadin attacks three times with his scimitar, or twice with his poisoned\
       \ darts."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 9\
-      \ (1d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 9 (1d6 + 6) slashing damage."
     "name": "Scimitar"
   - "desc": "*Ranged Weapon Attack:* +10 to hit, range 20/60 ft., one target. *Hit:*\
       \ 8 (1d4 + 6) piercing damage plus 5 (2d4) poison damage."
     "name": "Poisoned Dart"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/rahadin-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/rahadin-cos.webp"
 ```
 ^statblock

@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hungry Sorrowsworn
+- "Hungry Sorrowsworn"
 ---
-# [Hungry Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/hungry-sorrowsworn-mpmm.md)
+# [Hungry Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/hungry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
@@ -43,8 +43,8 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "6"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "11"
 "traits":
@@ -56,19 +56,20 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "actions":
   - "desc": "The sorrowsworn makes one Bite attack and one Claw attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage plus 13 (3d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage plus 13 (3d8) necrotic damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (4d6 + 4) slashing damage. If the target is Medium or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 16), and it is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ until the grapple ends. While grappling a creature, the sorrowsworn can't\
-      \ make a Claw attack."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (4d6 + 4) slashing damage. If the target is Medium or smaller, it is\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16), and\
+      \ it is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the\
+      \ grapple ends. While grappling a creature, the sorrowsworn can't make a Claw\
+      \ attack."
     "name": "Claw"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Ability Checks
+- "Ability Checks"
 ---
 # Ability Checks
 *Source: Dungeon Master's Guide p. 237* 

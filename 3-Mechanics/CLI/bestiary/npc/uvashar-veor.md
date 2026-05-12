@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Uvashar
+- "Uvashar"
 ---
-# [Uvashar](3-Mechanics\CLI\bestiary\npc/uvashar-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Uvashar](3-Mechanics/CLI/bestiary/npc/uvashar-veor.md)
+*Source: Vecna: Eve of Ruin p. 158*  
 
 ```statblock
 "name": "Uvashar (VEoR)"
@@ -34,13 +34,14 @@ aliases:
   - !!int "20"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+10"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+8"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Infernal"
 "cr": "13"
 "traits":
@@ -51,15 +52,16 @@ aliases:
 "actions":
   - "desc": "Uvashar makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage, and the target is cursed if it is a creature. The magical\
-      \ curse takes effect whenever the target takes a short or long rest, filling\
-      \ the target's thoughts with horrible images and dreams. The cursed target gains\
-      \ no benefit from finishing a short or long rest. The curse lasts until it is\
-      \ lifted by a remove curse spell or similar magic."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage, and the target is cursed if it is a creature.\
+      \ The magical curse takes effect whenever the target takes a short or long rest,\
+      \ filling the target's thoughts with horrible images and dreams. The cursed\
+      \ target gains no benefit from finishing a short or long rest. The curse lasts\
+      \ until it is lifted by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
+      \ spell or similar magic."
     "name": "Claw"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/uvashar-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/uvashar-veor.webp"
 ```
 ^statblock

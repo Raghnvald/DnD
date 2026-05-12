@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Copper Greatwyrm
+- "Copper Greatwyrm"
 ---
-# [Copper Greatwyrm](3-Mechanics\CLI\bestiary\dragon/copper-greatwyrm-ftd.md)
+# [Copper Greatwyrm](3-Mechanics/CLI/bestiary/dragon/copper-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 208*  
 
 Some of the oldest and wisest metallic dragons undergo a miraculous metamorphosis to become greatwyrms. This transformation is often wrought by Bahamut, who takes pride in elevating his worthiest children to a status approaching his own greatness.
@@ -61,17 +61,15 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
   - "wisdom": !!int "14"
   - "charisma": !!int "18"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+14"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+22"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+18"
 "damage_immunities": "acid"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 32"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "truesight 120 ft., passive Perception 32"
 "languages": "Common, Draconic"
 "cr": "28"
 "traits":
@@ -89,19 +87,17 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
 "actions":
   - "desc": "The greatwyrm makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 15 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) piercing damage plus 13 (2d12) force damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 15 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) piercing damage plus 13 (2d12) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d8 + 10) slashing damage. If the target is a Huge or smaller creature, it\
-      \ is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 20) and\
-      \ is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until this grapple\
-      \ ends. The greatwyrm can have only one creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ in this way at a time."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d8 + 10) slashing damage. If the target is a Huge or smaller creature,\
+      \ it is grappled (escape DC 20) and is restrained until this grapple ends. The\
+      \ greatwyrm can have only one creature grappled in this way at a time."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 26 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) bludgeoning damage. If the target is a creature, it must\
+      \ succeed on a DC 26 Strength saving throw or be knocked prone."
     "name": "Tail"
   - "desc": "The greatwyrm uses one of the following breath weapons:\n\n- **Elemental\
       \ Breath.** The greatwyrm exhales elemental energy in a 300-foot cone. Each\
@@ -109,11 +105,11 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
       \ (13d12) acid damage on a failed save, or half as much damage on a successful\
       \ one.  \n- **Sapping Breath.** The greatwyrm exhales gas in a 300-foot cone.\
       \ Each creature in that area must make a DC 25 Constitution saving throw. On\
-      \ a failed save, the creature falls [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ for 1 minute. On a successful save, the creature has disadvantage on attack\
-      \ rolls and saving throws until the end of the greatwyrm's next turn. An [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  "
+      \ a failed save, the creature falls unconscious for 1 minute. On a successful\
+      \ save, the creature has disadvantage on attack rolls and saving throws until\
+      \ the end of the greatwyrm's next turn. An unconscious creature can repeat the\
+      \ saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success.  "
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "The greatwyrm magically transforms into any creature that is Medium or\
       \ Small, while retaining its game statistics (other than its size). This transformation\
@@ -127,8 +123,8 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
     "name": "Attack"
   - "desc": "The greatwyrm beats its wings. Each creature within 30 feet of it must\
       \ succeed on a DC 26 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The greatwyrm\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked prone. The greatwyrm can then fly up to half its flying\
+      \ speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "mythic_description": "If the greatwyrm's Metallic Awakening trait has activated in\
   \ the last hour, it can use the options below as legendary actions."
@@ -137,11 +133,11 @@ Metallic greatwyrms are among the largest creatures in the multiverse, overshado
     "name": "Bite"
   - "desc": "The greatwyrm unleashes a magical roar. Each creature in a 120-foot-radius\
       \ sphere centered on the greatwyrm must succeed on a DC 26 Constitution saving\
-      \ throw or take 19 (3d12) thunder damage and be [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ until the end of its next turn."
+      \ throw or take 19 (3d12) thunder damage and be incapacitated until the end\
+      \ of its next turn."
     "name": "Shattering Roar (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/copper-greatwyrm-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/copper-greatwyrm-ftd.webp"
 ```
 ^statblock

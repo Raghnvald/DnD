@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Magmin
+- "Magmin"
 ---
-# [Magmin](3-Mechanics\CLI\bestiary\elemental/magmin.md)
+# [Magmin](3-Mechanics/CLI/bestiary/elemental/magmin.md)
 *Source: Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
@@ -47,8 +47,8 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Ignan"
 "cr": "1/2"
 "traits":
@@ -63,13 +63,13 @@ If it has the opportunity while in service to its master, a magmin seeks out are
       \ dim light for an additional 10 feet."
     "name": "Ignited Illumination"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6)\
-      \ fire damage. If the target is a creature or a flammable object, it ignites.\
-      \ Until a creature takes an action to douse the fire, the target takes 3 (1d6)\
-      \ fire damage at the end of each of its turns."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d6) fire damage. If the target is a creature or a flammable object, it\
+      \ ignites. Until a creature takes an action to douse the fire, the target takes\
+      \ 3 (1d6) fire damage at the end of each of its turns."
     "name": "Touch"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/magmin.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/magmin.webp"
 ```
 ^statblock

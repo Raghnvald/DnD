@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Giant Trinket"
 ---
 # Giant Trinket
@@ -18,16 +18,14 @@ While exploring your home, you discovered some trivial remnant of the ancient in
 
 **Giant Trinkets**
 
-`dice: [](giant-trinket-bgg.md#^giant-trinkets)`
-
 | dice: d6 | Giant Trinket |
 |----------|---------------|
-| 1 | A giant's toothpick (a [dagger](/3-Mechanics/CLI/items/dagger-xphb.md)) |
-| 2 | A giant's handkerchief (a [blanket](/3-Mechanics/CLI/items/blanket-xphb.md)) |
+| 1 | A giant's toothpick (a dagger) |
+| 2 | A giant's handkerchief (a blanket) |
 | 3 | A giant's marble (a crystal orb) |
-| 4 | A giant's match (a [torch](/3-Mechanics/CLI/items/torch-xphb.md)) |
-| 5 | A giant's letter opener (a [longsword](/3-Mechanics/CLI/items/longsword-xphb.md)) |
-| 6 | A giant's thimble (an [iron pot](/3-Mechanics/CLI/items/iron-pot-xphb.md)) |
+| 4 | A giant's match (a torch) |
+| 5 | A giant's letter opener (a longsword) |
+| 6 | A giant's thimble (an iron pot) |
 ^giant-trinkets
 
 *Source: Bigby Presents: Glory of the Giants p. 16*

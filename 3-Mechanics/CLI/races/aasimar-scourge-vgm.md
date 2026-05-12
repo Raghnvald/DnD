@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/aasimar/scourge
 aliases:
-- Aasimar (Scourge)
+- "Aasimar (Scourge)"
 ---
 # Aasimar (Scourge)
 *Source: Volo's Guide to Monsters p. 105, Explorer's Guide to Wildemount p. 166*  
-![](/3-Mechanics/CLI/races/img/aasimar.webp#right)
+![](3-Mechanics/CLI/races/img/aasimar.webp#right)
 
 - **Ability Scores**: con +1
 - **Size**: Medium

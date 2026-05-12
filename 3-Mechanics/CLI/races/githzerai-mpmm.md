@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/githzerai
 aliases:
-- Githzerai
+- "Githzerai"
 ---
 # Githzerai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 19*  
-![](/3-Mechanics/CLI/races/img/githzerai.webp#right)
+![](3-Mechanics/CLI/races/img/githzerai.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -21,15 +21,15 @@ aliases:
 
 ### Githzerai Psionics
 
-You know the [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip, and the hand is [invisible](/3-Mechanics/CLI/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](3-Mechanics/CLI/spells/mage-hand.md) cantrip, and the hand is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [shield](/3-Mechanics/CLI/spells/shield-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell with it. Once you cast [shield](/3-Mechanics/CLI/spells/shield-xphb.md) or [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [shield](3-Mechanics/CLI/spells/shield.md) spell with this trait. Starting at 5th level, you can also cast the [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md) spell with it. Once you cast [shield](3-Mechanics/CLI/spells/shield.md) or [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md) spell with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 
 ### Mental Discipline
 
-Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) and [frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions on yourself.
+Your innate psychic defenses grant you advantage on saving throws you make to avoid or end the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) conditions on yourself.
 
 ### Psychic Resilience
 

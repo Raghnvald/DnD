@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otherworldly Steed (Fiend)
+- "Otherworldly Steed (Fiend)"
 ---
-# [Otherworldly Steed (Fiend)](3-Mechanics\CLI\bestiary\fiend/otherworldly-steed-fiend-xphb.md)
-*Source: Player's Handbook (2024) p. 273*  
+# [Otherworldly Steed (Fiend)](3-Mechanics/CLI/bestiary/fiend/otherworldly-steed-fiend-xphb.md)
+*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Otherworldly Steed (Fiend) (XPHB)"
@@ -42,7 +42,7 @@ aliases:
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "*Wisdom Saving Throw:* DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. *Failure:* The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 60 feet the steed can see. *Failure:* The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Recharges after a Long Rest)"
 "source":

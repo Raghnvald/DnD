@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/optional-feature/ai
 aliases:
-- Spell-Refueling Ring
+- "Spell-Refueling Ring"
 ---
 # Spell-Refueling Ring
 *Source: Tasha's Cauldron of Everything p. 23*  

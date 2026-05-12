@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Gold Dragon; Gold Dragon Personality Traits
+- "Creating a Gold Dragon; Gold Dragon Personality Traits"
 ---
 # Creating a Gold Dragon; Gold Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 121* 
 
 **Gold Dragon Personality Traits**
-
-`dice: [](creating-a-gold-dragon-gold-dragon-personality-traits-ftd.md#^gold-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

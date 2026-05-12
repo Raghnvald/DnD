@@ -5,12 +5,10 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Mutalos Habitats
+- "Mutalos Habitats"
 ---
 # Mutalos Habitats
 *Source: Explorer's Guide to Wildemount p. 128* 
-
-`dice: [](mutalos-habitats-egw.md#^habitat)`
 
 | dice: d8 | Habitat |
 |----------|---------|

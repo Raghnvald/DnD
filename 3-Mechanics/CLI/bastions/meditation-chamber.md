@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-bastion
+- json5e-bastion
 tags:
-  - Kompendium/bastion
-  - Quelle/5e/xdmg
+- ttrpg-cli/bastion
+- ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-  - Meditation Chamber
+- "Meditation Chamber"
 ---
 # Meditation Chamber
 *Level 13 Bastion facility*  
@@ -23,7 +24,7 @@ When you issue the "Empower" order to this facility, your Bastion's hirelings ca
 
 ## Fortify Self
 
-You can meditate in this facility over a period of 7 days. If you leave the Bastion during this time, you gain no benefit. Otherwise, at the end of the seventh day, you gain Advantage on two kinds of saving throws for the next 7 days, determined randomly by rolling on the table below. Reroll if you get a duplicate result.
+You can meditate in this facility over a period of 7 days. If you leave the Bastion during this time, you gain no benefit. Otherwise, at the end of the seventh day, you gain [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on two kinds of saving throws for the next 7 days, determined randomly by rolling on the table below. Reroll if you get a duplicate result.
 
 | dice: 1d6 | Saving Throw |
 |-----------|--------------|

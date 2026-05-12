@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gray Slaad
+- "Gray Slaad"
 ---
-# [Gray Slaad](3-Mechanics\CLI\bestiary\aberration/gray-slaad.md)
+# [Gray Slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad.md)
 *Source: Monster Manual p. 277*  
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
@@ -44,13 +44,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/3-Mechanics/CLI/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](3-Mechanics/CLI/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) can remove the gem from an [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -78,24 +78,26 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 17"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "9"
 "traits":
   - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 14).\
       \ The slaad can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [detect\
-      \ thoughts](/3-Mechanics/CLI/spells/detect-thoughts.md), [invisibility](/3-Mechanics/CLI/spells/invisibility.md)\
-      \ (self only), [mage hand](/3-Mechanics/CLI/spells/mage-hand.md), [major image](/3-Mechanics/CLI/spells/major-image.md)\n\
-      \n**2/day each:** [fear](/3-Mechanics/CLI/spells/fear.md), [fly](/3-Mechanics/CLI/spells/fly.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball.md), [tongues](/3-Mechanics/CLI/spells/tongues.md)\n\
-      \n**1/day:** [plane shift](/3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [major image](3-Mechanics/CLI/spells/major-image.md)\n\
+      \n**2/day each:** [fear](3-Mechanics/CLI/spells/fear.md), [fly](3-Mechanics/CLI/spells/fly.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [tongues](3-Mechanics/CLI/spells/tongues.md)\n\
+      \n**1/day:** [plane shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
       \ or back into its true form. Its statistics, other than its size, are the same\
@@ -114,18 +116,18 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
       \ or greatsword."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Bite (Slaad Form Only)"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) slashing damage."
     "name": "Claws (Slaad Form Only)"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage."
     "name": "Greatsword"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/gray-slaad.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/gray-slaad.webp"
 ```
 ^statblock
 

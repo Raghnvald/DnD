@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/tethyrian-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/tethyrian-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Narth Tezrin
+- "Narth Tezrin"
 ---
-# [Narth Tezrin](3-Mechanics\CLI\bestiary\npc/narth-tezrin-skt.md)
+# [Narth Tezrin](3-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md)
 *Source: Storm King's Thunder p. 254*  
 
 Narth sells gear to adventurers, and he also has an adventurous spirit. The Lionshield Coster pays him well, but he longs to make a name for himself. At the same time, he runs a business with his partner Alaestra and knows she wouldn't forgive him if he ran off and never returned.
@@ -42,19 +42,23 @@ Flaw:"I'll risk life and limb to become a legend."
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Dwarvish"
 "traits":
-  - "desc": "On each of his turns, Narth can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of his turns, Narth can use a bonus action to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
+      \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action."
     "name": "Cunning Action"
   - "desc": "Narth sells gear to adventurers, and he also has an adventurous spirit.\
       \ The Lionshield Coster pays him well, but he longs to make a name for himself.\
@@ -65,14 +69,14 @@ Flaw:"I'll risk life and limb to become a legend."
       \ limb to become a legend.-\""
     "name": "Roleplaying Information"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage. Narth carries twenty crossbow bolts."
     "name": "Hand Crossbow"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/narth-tezrin-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/narth-tezrin-skt.webp"
 ```
 ^statblock

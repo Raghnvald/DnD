@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Red Dragon
+- "Young Red Dragon"
 ---
-# [Young Red Dragon](3-Mechanics\CLI\bestiary\dragon/young-red-dragon-xmm.md)
+# [Young Red Dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
@@ -58,27 +58,27 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
   - "dexterity": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "10"
 "actions":
   - "desc": "The dragon makes three Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 13 (2d6 + 6) Slashing damage\
-      \ plus 3 (1d6) Fire damage."
+  - "desc": "*Melee Attack Roll:* +10, reach 10 ft. *Hit:* 13 (2d6 + 6) Slashing\
+      \ damage plus 3 (1d6) Fire damage."
     "name": "Rend"
-  - "desc": "*Dexterity Saving Throw:* DC 17, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 17, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* 56 (16d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-red-dragon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-red-dragon-xmm.webp"
 ```
 ^statblock
 

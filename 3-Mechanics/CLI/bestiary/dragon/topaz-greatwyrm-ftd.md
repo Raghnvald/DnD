@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Topaz Greatwyrm
+- "Topaz Greatwyrm"
 ---
-# [Topaz Greatwyrm](3-Mechanics\CLI\bestiary\dragon/topaz-greatwyrm-ftd.md)
+# [Topaz Greatwyrm](3-Mechanics/CLI/bestiary/dragon/topaz-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 201*  
 
 More so even than their chromatic and metallic kin, gem dragons are fascinated with cultivating their dragonsight and fusing the awareness of their echoes across the Material Plane. Some of them believe that, by doing so, they are taking steps toward reuniting the shattered consciousness of Sardior the Ruby Dragon, and they pursue this awakening as an act of near-religious devotion. Others seek to exploit their knowledge of the many worlds of the Material Plane as a source of power—and indeed, a gem dragon who becomes a greatwyrm has access to almost unimaginable power.
@@ -54,17 +54,15 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
   - "wisdom": !!int "15"
   - "charisma": !!int "15"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+26"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+18"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+15"
 "damage_immunities": "necrotic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 25"
+"condition_immunities": "charmed, frightened, poisoned, prone"
+"senses": "truesight 120 ft., passive Perception 25"
 "languages": "Common, Draconic"
 "cr": "26"
 "traits":
@@ -82,41 +80,36 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
 "actions":
   - "desc": "The greatwyrm makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (2d10 + 9) piercing damage plus 16 (3d10) force damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (2d10 + 9) piercing damage plus 16 (3d10) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d8 + 9) slashing damage. If the target is a Huge or smaller creature, it\
-      \ is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 19) and\
-      \ is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until this grapple\
-      \ ends. The greatwyrm can have only one creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ in this way at a time."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d8 + 9) slashing damage. If the target is a Huge or smaller creature,\
+      \ it is grappled (escape DC 19) and is restrained until this grapple ends. The\
+      \ greatwyrm can have only one creature grappled in this way at a time."
     "name": "Claw"
   - "desc": "The greatwyrm exhales crushing force in a 300-foot cone. Each creature\
       \ in that area must make a DC 25 Dexterity saving throw. On a failed save, the\
-      \ creature takes 71 (11d12) force damage and is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ On a successful save, it takes half as much damage and isn't knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ On a success or failure, the creature's speed becomes 0 until the end of its\
-      \ next turn."
+      \ creature takes 71 (11d12) force damage and is knocked prone. On a successful\
+      \ save, it takes half as much damage and isn't knocked prone. On a success or\
+      \ failure, the creature's speed becomes 0 until the end of its next turn."
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "The greatwyrm targets any number of creatures and objects it can see\
       \ within 120 feet of it. No one target can weigh more than 4,000 pounds, and\
       \ objects can't be targeted if they're being worn or carried. Each targeted\
-      \ creature must succeed on a DC 26 Strength saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ in the greatwyrm's telekinetic grip. At the end of a creature's turn, it can\
+      \ creature must succeed on a DC 26 Strength saving throw or be restrained in\
+      \ the greatwyrm's telekinetic grip. At the end of a creature's turn, it can\
       \ repeat the saving throw, ending the effect on itself on a success.\n\nAt the\
       \ end of the greatwyrm's turn, it can move each creature or object it has in\
       \ its telekinetic grip up to 60 feet in any direction, but not beyond 120 feet\
-      \ of itself. In addition, it can choose any number of creatures [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ in this way and deal 45 (7d12) force damage to each of them."
+      \ of itself. In addition, it can choose any number of creatures restrained in\
+      \ this way and deal 45 (7d12) force damage to each of them."
     "name": "Mass Telekinesis (Gem Awakening Only; Recharges after a Short or Long\
       \ Rest)"
   - "desc": "The greatwyrm casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 26, +18\
-      \ to hit with spell attack):\n\n**1/day each:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [forcecage](/3-Mechanics/CLI/spells/forcecage-xphb.md), [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md), [time\
-      \ stop](/3-Mechanics/CLI/spells/time-stop-xphb.md)"
+      \ to hit with spell attack):\n\n**1/day each:** dispel magic, forcecage, plane\
+      \ shift, reverse gravity, time stop"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The greatwyrm magically transforms into any creature that is Medium or\
@@ -137,11 +130,11 @@ Gem greatwyrms' ascension transforms their bodies to appear as crystal, their sc
     "name": "Psionics (Costs 2 Actions)"
   - "desc": "The greatwyrm emits a beam of psychic energy in a 90-foot line that is\
       \ 10 feet wide. Each creature in that area must make a DC 26 Intelligence saving\
-      \ throw, taking 27 (5d10) psychic damage on a failed save, or half as much damage\
-      \ on a successful one."
+      \ throw, taking 27 (5d10) psychic damage on a failed save, or half as much\
+      \ damage on a successful one."
     "name": "Psychic Beam (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/topaz-greatwyrm-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/topaz-greatwyrm-ftd.webp"
 ```
 ^statblock

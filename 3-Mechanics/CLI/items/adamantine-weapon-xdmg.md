@@ -12,7 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Adamantine Weapon"
 - "Adamantine Arrow"
 - "Adamantine Battleaxe"
@@ -54,7 +54,7 @@ aliases:
 
 
 
-This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [Critical Hit](/3-Mechanics/CLI/variant-rules/critical-hit-xphb.md).
+This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [Critical Hit](3-Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md).
 
 **Variants**:
 - [Adamantine Arrow](#Adamantine%20Arrow)
@@ -101,7 +101,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Adamantine Bolt
@@ -111,14 +111,14 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light), [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Adamantine Energy Cell
@@ -137,58 +137,58 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Adamantine Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Adamantine Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Light](3-Mechanics/CLI/rules/item-properties.md#Light), [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach)
 - **Weight**: 6.0 lbs.
 
 ### Adamantine Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Light](3-Mechanics/CLI/rules/item-properties.md#Light), [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Longsword
@@ -196,7 +196,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Adamantine Mace
@@ -207,7 +207,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Adamantine Morningstar
@@ -222,7 +222,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 ### Adamantine Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Adamantine Quarterstaff
@@ -230,31 +230,31 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Adamantine Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Adamantine Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Sling Bullet
@@ -267,7 +267,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Adamantine Trident
@@ -276,7 +276,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Adamantine War Pick
@@ -284,7 +284,7 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Adamantine Warhammer
@@ -292,13 +292,13 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 5.0 lbs.
 
 ### Adamantine Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 

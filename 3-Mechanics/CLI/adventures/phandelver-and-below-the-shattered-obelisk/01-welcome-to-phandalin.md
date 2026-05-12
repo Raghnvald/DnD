@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 aliases:
-- Welcome to Phandalin
+- "Welcome to Phandalin"
 ---
 # Welcome to Phandalin
 *Source: Phandelver and Below: The Shattered Obelisk, p. 5* 
@@ -14,7 +14,7 @@ Nestled on the northern Sword Coast, between Neverwinter Wood and the Sword Moun
 
 Only in the past few years have settlers built a new village on the ruins of the old. These townsfolk hope to grow Phandalin through hard work, camaraderie, and the shared purpose of building a lasting home. Threatening their efforts and their survival are bandits, brigands, and monsters.
 
-![A typical morning unfolds ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/000-00-001-intro-splash.webp#center "A typical morning unfolds in the idyllic town of Phandalin")
+![A typical morning unfolds in the idyllic town of Phandalin](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/000-00-001-intro-splash.webp#center)
 
 ## Threats from Below
 
@@ -43,13 +43,13 @@ This adventure is split into two halves:
 
 When this adventure dawns, the characters embark on a simple mission to Phandalin, whether it's helping a dwarf patron or following another prompt (see the "Adventure Hooks" section).
 
-The mind flayer fanatics' activities beneath Phandalin are invisible for most of this book's first four chapters. If your players don't wish to delve into themes of unseen horror, evil fanatics, or malevolent elder entities, you can easily end the adventure at the conclusion of chapter 4. If you do, replace the psionic goblins in chapters 1–4 with [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) from the "Monster Manual", and end the adventure once the characters defeat Nezznar. (The "What's Next?" section at the end of chapter 4 provides more information if you're using this option.) There's no need for the heroes to return to Phandalin and thus kick off the events of chapter 5 and beyond.
+The mind flayer fanatics' activities beneath Phandalin are invisible for most of this book's first four chapters. If your players don't wish to delve into themes of unseen horror, evil fanatics, or malevolent elder entities, you can easily end the adventure at the conclusion of chapter 4. If you do, replace the psionic goblins in chapters 1–4 with [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) from the "Monster Manual", and end the adventure once the characters defeat Nezznar. (The "What's Next?" section at the end of chapter 4 provides more information if you're using this option.) There's no need for the heroes to return to Phandalin and thus kick off the events of chapter 5 and beyond.
 
 A summary of each of the first four chapters follows.
 
 #### Chapter 1 Summary
 
-The adventurers are on the road to the town of Phandalin when they stumble into a goblin ambush. They discover that the goblins (who belong to the Cragmaw band) have captured the characters' friend—a dwarf named [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md)—and his escort, a human warrior named [Sildar Hallwinter](/3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md). The characters must deal with the ambushers and then follow their trail to the goblins' hideout. There, they can rescue Sildar and learn from him that Gundren and his brothers previously discovered a famous lost mine. Sildar knows only that Gundren and his map of the mine have been taken somewhere called Cragmaw Castle.
+The adventurers are on the road to the town of Phandalin when they stumble into a goblin ambush. They discover that the goblins (who belong to the Cragmaw band) have captured the characters' friend—a dwarf named [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md)—and his escort, a human warrior named [Sildar Hallwinter](3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md). The characters must deal with the ambushers and then follow their trail to the goblins' hideout. There, they can rescue Sildar and learn from him that Gundren and his brothers previously discovered a famous lost mine. Sildar knows only that Gundren and his map of the mine have been taken somewhere called Cragmaw Castle.
 
 #### Chapter 2 Summary
 
@@ -59,13 +59,13 @@ After arriving in Phandalin, the characters find it terrorized by the Redbrands,
 
 The heroes undertake several short explorations in the region around Phandalin as they search for more information about the Spider and the lost mine. The clues the characters discovered in Phandalin can lead them to spy on a mysterious wizard at the ruins of Old Owl Well, to seek the advice of a dangerous banshee, to oust a band of marauders lurking at Wyvern Tor, and to investigate the ruins of the town of Thundertree.
 
-Several of these leads point to Cragmaw Castle—the stronghold of King Grol, leader of the Cragmaw goblins. Here the characters discover that the Spider is a drow mastermind named Nezznar and that the Cragmaw goblins work for him. More importantly, they recover [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md)'s map to the lost mine. Alternatively, they learn the mine's location from one of the other leads they unearthed in the previous chapter.
+Several of these leads point to Cragmaw Castle—the stronghold of King Grol, leader of the Cragmaw goblins. Here the characters discover that the Spider is a drow mastermind named Nezznar and that the Cragmaw goblins work for him. More importantly, they recover [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md)'s map to the lost mine. Alternatively, they learn the mine's location from one of the other leads they unearthed in the previous chapter.
 
 #### Chapter 4 Summary
 
-Following the map or the directions to the lost mine brings the characters to Wave Echo Cave. That lost underground complex is overrun with undead and strange monsters. The Spider and his loyal followers are exploring the mines and searching for the legendary Forge of Spells. The heroes have the opportunity to avenge [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) and provide for the prosperity and security of Phandalin by clearing the rich mine of threats, including monsters and the Spider's troublemaking.
+Following the map or the directions to the lost mine brings the characters to Wave Echo Cave. That lost underground complex is overrun with undead and strange monsters. The Spider and his loyal followers are exploring the mines and searching for the legendary Forge of Spells. The heroes have the opportunity to avenge [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) and provide for the prosperity and security of Phandalin by clearing the rich mine of threats, including monsters and the Spider's troublemaking.
 
-![The Cragmaw goblins plague...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/001-00-002-cragmaw-goblins.webp#center "The Cragmaw goblins plague Phandalin and surrounding areas")
+![The Cragmaw goblins plague Phandalin and surrounding areas](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/001-00-002-cragmaw-goblins.webp#center)
 
 ### The Obelisk
 
@@ -77,7 +77,7 @@ Summaries of the final four chapters follow.
 
 #### Chapter 5 Summary
 
-When the heroes return to Phandalin, they find that more goblins have been wreaking havoc. These villains, the Sawplee goblins, have kidnapped townsfolk and destroyed key landmarks. It's up to the characters to investigate. Once they collect enough clues, a visiting dwarven sage named [Gwyn Oresong](/3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) can help them track these goblins to their base of operations: an old duergar mining outpost called Zorzula's Rest inside a mountain near Phandalin. There, the Sawplee goblins work at the behest of their leader, a psionic goblin who calls himself [Ruxithid the Chosen](/3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md).
+When the heroes return to Phandalin, they find that more goblins have been wreaking havoc. These villains, the Sawplee goblins, have kidnapped townsfolk and destroyed key landmarks. It's up to the characters to investigate. Once they collect enough clues, a visiting dwarven sage named [Gwyn Oresong](3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) can help them track these goblins to their base of operations: an old duergar mining outpost called Zorzula's Rest inside a mountain near Phandalin. There, the Sawplee goblins work at the behest of their leader, a psionic goblin who calls himself [Ruxithid the Chosen](3-Mechanics/CLI/bestiary/npc/ruxithid-the-chosen-pabtso.md).
 
 To keep the town safe, the characters must travel to Zorzula's Rest, defeat Ruxithid, and rescue the kidnap victims. Once they do, the heroes discover that Ruxithid was in psychic communication with a much more powerful force that seeks to destroy Phandalin. The force, three Far Realm–influenced mind flayer fanatics, instructed the goblins to retrieve obelisk pieces. The characters rescue some of Phandalin's kidnap victims, but it's clear that others—as well as more obelisk pieces—await them elsewhere in the Underdark.
 
@@ -85,13 +85,13 @@ To keep the town safe, the characters must travel to Zorzula's Rest, defeat Ruxi
 
 Armed with knowledge from Ruxithid's lair, the heroes race against forces allied with the mind flayer fanatics to retrieve three shattered obelisk pieces. One piece lies in Talhundereth, an ancient dwarven temple that fell to mind flayers centuries ago. The second lies in the Crypt of the Talhund, below Talhundereth. The third lies in Gibbet Crossing, an abandoned Underdark crossroads.
 
-Soon, the characters discover that a mind flayer named [Qunbraxel](/3-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md) is coordinating the fanatics' obelisk retrieval efforts. The characters confront [Qunbraxel](/3-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md) in Gibbet Crossing. The remaining kidnap victims, however, are still unaccounted for.
+Soon, the characters discover that a mind flayer named [Qunbraxel](3-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md) is coordinating the fanatics' obelisk retrieval efforts. The characters confront [Qunbraxel](3-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md) in Gibbet Crossing. The remaining kidnap victims, however, are still unaccounted for.
 
-![The Mysterious Netherese O...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/002-00-003-mysterious-obelisk.webp#center "The Mysterious Netherese Obelisk at the Heart of this Story")
+![The Mysterious Netherese Obelisk at the Heart of this Story](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/002-00-003-mysterious-obelisk.webp#center)
 
 #### Chapter 7 Summary
 
-Once the heroes defeat [Qunbraxel](/3-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md), they learn that its fanatic overlords are based in an Underdark location called Illithinoch. Once a stronghold for the long-fallen mind flayer nation, Illithinoch is a massive complex the mind flayer fanatics have turned into a shrine to Ilvaash. The characters must travel to Illithinoch and face its dangers to stop the ceremorphosis ritual. They come across rifts to the Far Realm that hint at the power the fanatics are harnessing. Meanwhile, corruption falls over Phandalin like a shadow. The characters find the fanatics' ritual space, only to discover that the mind flayers have fled into the Far Realm to complete the ritual's final stages.
+Once the heroes defeat [Qunbraxel](3-Mechanics/CLI/bestiary/npc/qunbraxel-pabtso.md), they learn that its fanatic overlords are based in an Underdark location called Illithinoch. Once a stronghold for the long-fallen mind flayer nation, Illithinoch is a massive complex the mind flayer fanatics have turned into a shrine to Ilvaash. The characters must travel to Illithinoch and face its dangers to stop the ceremorphosis ritual. They come across rifts to the Far Realm that hint at the power the fanatics are harnessing. Meanwhile, corruption falls over Phandalin like a shadow. The characters find the fanatics' ritual space, only to discover that the mind flayers have fled into the Far Realm to complete the ritual's final stages.
 
 #### Chapter 8 Summary
 
@@ -127,8 +127,8 @@ One side of the poster map shows the Phandalin region, including prominent locat
 The reverse side of the poster map has player-friendly maps of the town of Phandalin as well as recurring encounter locations.
 
 > [!gallery]
-> ![Sword Coast region surrounding Phandalin](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/003-map-0-01-phandalin-region.webp#gallery)
-> ![Unlabeled Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/004-map-0-01-phandalin-region-player.webp#gallery)
+> ![Sword Coast region surrounding Phandalin](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/003-map-0-01-phandalin-region.webp#gallery)
+> ![Unlabeled Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/004-map-0-01-phandalin-region-player.webp#gallery)
 
 ### Nondeadly Resolutions
 
@@ -158,35 +158,35 @@ The "Player's Handbook" contains "character backgrounds" that are well suited fo
 
 | Background | Character |
 |------------|-----------|
-| [Acolyte](/3-Mechanics/CLI/backgrounds/acolyte-xphb.md) | The frontier town of Phandalin is resilient, but organized religious resources are scarce. Your temple in Neverwinter sent you to Phandalin to pray and offer communion with like-minded faithful. |
-| [Charlatan](/3-Mechanics/CLI/backgrounds/charlatan-xphb.md) | You've planned your latest get-rich-quick scheme. The townspeople of Phandalin have never heard of what you're selling, and you hope to establish a customer base. |
-| [Criminal](/3-Mechanics/CLI/backgrounds/criminal-xphb.md) | You're wanted for crimes in Neverwinter, and perhaps you're exiled from the city. Phandalin is a small bastion of civilization where you can lie low and no one will be the wiser. |
-| [Entertainer](/3-Mechanics/CLI/backgrounds/entertainer-xphb.md) | You've spent time in Neverwinter and love performing for audiences, but you need new experiences from which to draw inspiration for your art. Traveling to Phandalin will provide new material for your work, and its watering holes promise eager crowds. |
-| [Folk Hero](/3-Mechanics/CLI/backgrounds/folk-hero.md) | You may have humble origins, but you made your name as a hero in the wilds outside Neverwinter. You need new adventures, so you've set off for the frontier of Phandalin. |
-| [Guild Artisan](/3-Mechanics/CLI/backgrounds/guild-artisan.md) | You learned a useful trade in Neverwinter, but the city is home to too many artisans with that skill. Now, you're heading to Phandalin, where you hope to start a lucrative business. |
-| [Hermit](/3-Mechanics/CLI/backgrounds/hermit-xphb.md) | You've spent a lot of time in the wilds outside Neverwinter, but you've always kept a home in the city. You've decided to move somewhere rural, and Phandalin seems like the perfect place. |
-| [Noble](/3-Mechanics/CLI/backgrounds/noble-xphb.md) | Your family is based in Neverwinter but owns property throughout the Sword Coast region. You recently inherited a cottage in Phandalin and must inspect the place before you decide to keep or sell it. |
-| [Outlander](/3-Mechanics/CLI/backgrounds/outlander.md) | You spent your youth with a guardian who lived a simple life in the wilds outside Phandalin, but later you moved to the city. Now an adult, you've decided to return to the area where you feel most at home. |
-| [Sage](/3-Mechanics/CLI/backgrounds/sage-xphb.md) | In the academic halls of Neverwinter, you studied the region's historical alliance between Phandalin and its neighbors. The fate of the lost mine of Phandelver has always fascinated you, so you're traveling to Phandalin to discover whether any locals know rumors about its fate. |
-| [Sailor](/3-Mechanics/CLI/backgrounds/sailor-xphb.md) | You've sailed ships along the Sword Coast, but a brush with death made you rethink your profession. You're headed to Phandalin to decide what's next. |
-| [Soldier](/3-Mechanics/CLI/backgrounds/soldier-xphb.md) | You are a member of the Neverwinter Guard, and you suffered a terrible injury in the line of duty. You healed, but you're not ready to return to work yet. Until you are, you're taking easy jobs protecting merchant wagons headed to Phandalin. |
+| [Acolyte](3-Mechanics/CLI/backgrounds/acolyte.md) | The frontier town of Phandalin is resilient, but organized religious resources are scarce. Your temple in Neverwinter sent you to Phandalin to pray and offer communion with like-minded faithful. |
+| [Charlatan](3-Mechanics/CLI/backgrounds/charlatan.md) | You've planned your latest get-rich-quick scheme. The townspeople of Phandalin have never heard of what you're selling, and you hope to establish a customer base. |
+| [Criminal](3-Mechanics/CLI/backgrounds/criminal.md) | You're wanted for crimes in Neverwinter, and perhaps you're exiled from the city. Phandalin is a small bastion of civilization where you can lie low and no one will be the wiser. |
+| [Entertainer](3-Mechanics/CLI/backgrounds/entertainer.md) | You've spent time in Neverwinter and love performing for audiences, but you need new experiences from which to draw inspiration for your art. Traveling to Phandalin will provide new material for your work, and its watering holes promise eager crowds. |
+| [Folk Hero](3-Mechanics/CLI/backgrounds/folk-hero.md) | You may have humble origins, but you made your name as a hero in the wilds outside Neverwinter. You need new adventures, so you've set off for the frontier of Phandalin. |
+| [Guild Artisan](3-Mechanics/CLI/backgrounds/guild-artisan.md) | You learned a useful trade in Neverwinter, but the city is home to too many artisans with that skill. Now, you're heading to Phandalin, where you hope to start a lucrative business. |
+| [Hermit](3-Mechanics/CLI/backgrounds/hermit.md) | You've spent a lot of time in the wilds outside Neverwinter, but you've always kept a home in the city. You've decided to move somewhere rural, and Phandalin seems like the perfect place. |
+| [Noble](3-Mechanics/CLI/backgrounds/noble.md) | Your family is based in Neverwinter but owns property throughout the Sword Coast region. You recently inherited a cottage in Phandalin and must inspect the place before you decide to keep or sell it. |
+| [Outlander](3-Mechanics/CLI/backgrounds/outlander.md) | You spent your youth with a guardian who lived a simple life in the wilds outside Phandalin, but later you moved to the city. Now an adult, you've decided to return to the area where you feel most at home. |
+| [Sage](3-Mechanics/CLI/backgrounds/sage.md) | In the academic halls of Neverwinter, you studied the region's historical alliance between Phandalin and its neighbors. The fate of the lost mine of Phandelver has always fascinated you, so you're traveling to Phandalin to discover whether any locals know rumors about its fate. |
+| [Sailor](3-Mechanics/CLI/backgrounds/sailor.md) | You've sailed ships along the Sword Coast, but a brush with death made you rethink your profession. You're headed to Phandalin to decide what's next. |
+| [Soldier](3-Mechanics/CLI/backgrounds/soldier.md) | You are a member of the Neverwinter Guard, and you suffered a terrible injury in the line of duty. You healed, but you're not ready to return to work yet. Until you are, you're taking easy jobs protecting merchant wagons headed to Phandalin. |
 ^character-hooks-tied-to-backgrounds
 
 ## Adventure Hooks
 
 Players can invent their own reasons for visiting Phandalin, or they can use the following adventure hooks. The character hooks tied to backgrounds also provide characters with motivations for visiting Phandalin.
 
-It's recommended at least one character use the "Meet Me in Phandalin" adventure hook below so that the party has a tie to the dwarf [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md), who plays a prominent role in chapters 1–4:
+It's recommended at least one character use the "Meet Me in Phandalin" adventure hook below so that the party has a tie to the dwarf [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md), who plays a prominent role in chapters 1–4:
 
-![Gundren Rockseeker](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/005-00-004-gundren-rockseeker.webp#center)
+![Gundren Rockseeker](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/005-00-004-gundren-rockseeker.webp#center)
 
-- **Meet Me in Phandalin.** You're in the city of Neverwinter when your dwarf patron and friend, [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md), hires you to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [Sildar Hallwinter](/3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md), to attend to business in the town while you follow with the supplies. You will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when you deliver the wagon safely to that trading post.  
+- **Meet Me in Phandalin.** You're in the city of Neverwinter when your dwarf patron and friend, [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md), hires you to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [Sildar Hallwinter](3-Mechanics/CLI/bestiary/npc/sildar-hallwinter-pabtso.md), to attend to business in the town while you follow with the supplies. You will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when you deliver the wagon safely to that trading post.  
 - **Friend of the Harpers.** You've spent much of your life in awe of the Harpers, a secretive organization dedicated to promoting good and preserving history. You've always wanted to join, but you've struggled to gain the group's attention. You're headed to Phandalin, where you hope your good deeds will gain the Harpers' notice.  
 - **Gauntlet Trainee.** You have pledged yourself to the Order of the Gauntlet, a devout and vigilant group that seeks to protect others from evildoers. Before you become a full-fledged member, you've decided to meet your hero, a retired adventurer named Daran Edermath, who was part of the order and has thwarted many local threats. Daran lives in Phandalin in a cottage beside an apple orchard. You plan to visit him and drink in his wisdom before joining the order yourself.  
 
 ### Starting the Adventure
 
-When this adventure begins, the characters are in Neverwinter. Consider telling the characters that they'll all join the same wagon headed to Phandalin, whether it's because they're working for the dwarf [Gundren Rockseeker](/3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) (see the "Meet Me in Phandalin" adventure hook above) or they have another reason to go to the frontier town. No matter the characters' motivation, allow them to join the wagon without additional cost, narrating how each character secured passage as needed. If you establish why the characters are traveling together before you kick off the adventure, your later game sessions will go more smoothly.
+When this adventure begins, the characters are in Neverwinter. Consider telling the characters that they'll all join the same wagon headed to Phandalin, whether it's because they're working for the dwarf [Gundren Rockseeker](3-Mechanics/CLI/bestiary/npc/gundren-rockseeker-pabtso.md) (see the "Meet Me in Phandalin" adventure hook above) or they have another reason to go to the frontier town. No matter the characters' motivation, allow them to join the wagon without additional cost, narrating how each character secured passage as needed. If you establish why the characters are traveling together before you kick off the adventure, your later game sessions will go more smoothly.
 
 ## Far Realm Influence
 
@@ -205,7 +205,7 @@ The illustrations in these chapters depict this burgeoning transformation. Use t
 - **Chapter 7.** Invasive, fleshy weeds grow like tentacles along Phandalin's buildings and streets. The townspeople develop strange symptoms.  
 - **Chapter 8.** Phandalin's sky becomes a bright, sickly green color. The fleshy weeds grow thicker and longer, wrapping around buildings and beams like stalks. The townspeople sprout tentacles and become irrationally angry and violent.  
 
-![Corruption plagues Phandal...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/006-00-005-ilvaash-fanatics.webp#center "Corruption plagues Phandalin while the Ilvaash fanatics plot")
+![Corruption plagues Phandalin while the Ilvaash fanatics plot](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/006-00-005-ilvaash-fanatics.webp#center)
 
 ### Character Transformation
 
@@ -250,10 +250,10 @@ For instance, the voices that whisper to a character might provide a useful clue
 
 | Stage | Change |
 |-------|--------|
-| 1 | The Far Realm reaches out to the character in one of the following ways, determined by rolling a `dice:d6\|noform\|noparens\|avg` (`d6`): (1) the character awakens from nightmares to an audible, disturbing voice urging them and those around them to go to a particular place or perform a particular act; (2) the character and those around them hear whispers of bizarre conspiracies or nonsense; (3) the character recognizes disturbing words now and then in languages they otherwise don't understand; (4) the character notices strange patterns in everyday items and events; (5) the character discovers unfamiliar objects in familiar places; (6) the character occasionally hears an unfamiliar voice come from their throat when they try to speak. |
-| 2 | The power of the Far Realm begins to alter the character's body in one of the following unpredictable ways, determined by rolling a `dice:d4\|noform\|noparens\|avg` (`d4`): (1) a body part temporarily moves or turns 360 degrees; (2) the character grows one or more eyes or mouths that are not under their control; (3) the character notices that strange bone protrusions occasionally ripple under their skin; (4) the character sprouts a tentacle that occasionally picks up Tiny objects. |
-| 3 | Void energy begin to seep into the character's soul in one of the following ways, determined by rolling a `dice:d6\|noform\|noparens\|avg` (`d6`): (1) Aberrations view the character as one of their own; (2) items tied to the Far Realm hum, glow, or vibrate when the character is nearby; (3) the character develops an unwanted craving, such as for raw meat, spoiled food, insects, hair, or fingernails; (4) the character occasionally looks down to discover writing or drawings in their handwriting or style, but that they are certain they didn't create; (5) the character sometimes inadvertently communicates telepathically instead of how they normally communicate; (6) the character sometimes leaves black, sludgy handprints on things they touch. |
-| 4 | The character's connection to the Far Realm has grown to the extent that they now warp reality within 30 feet of them in one of the following ways, determined by rolling a `dice:d6\|noform\|noparens\|avg` (`d6`): (1) creatures no longer cast shadows; (2) portable objects not being worn or carried change position; (3) mirrors don't show reflections; (4) animals are spooked; (5) perishable food spoils; (6) the temperature increases or decreases. |
+| 1 | The Far Realm reaches out to the character in one of the following ways, determined by rolling a `d6`: (1) the character awakens from nightmares to an audible, disturbing voice urging them and those around them to go to a particular place or perform a particular act; (2) the character and those around them hear whispers of bizarre conspiracies or nonsense; (3) the character recognizes disturbing words now and then in languages they otherwise don't understand; (4) the character notices strange patterns in everyday items and events; (5) the character discovers unfamiliar objects in familiar places; (6) the character occasionally hears an unfamiliar voice come from their throat when they try to speak. |
+| 2 | The power of the Far Realm begins to alter the character's body in one of the following unpredictable ways, determined by rolling a `d4`: (1) a body part temporarily moves or turns 360 degrees; (2) the character grows one or more eyes or mouths that are not under their control; (3) the character notices that strange bone protrusions occasionally ripple under their skin; (4) the character sprouts a tentacle that occasionally picks up Tiny objects. |
+| 3 | Void energy begin to seep into the character's soul in one of the following ways, determined by rolling a `d6`: (1) Aberrations view the character as one of their own; (2) items tied to the Far Realm hum, glow, or vibrate when the character is nearby; (3) the character develops an unwanted craving, such as for raw meat, spoiled food, insects, hair, or fingernails; (4) the character occasionally looks down to discover writing or drawings in their handwriting or style, but that they are certain they didn't create; (5) the character sometimes inadvertently communicates telepathically instead of how they normally communicate; (6) the character sometimes leaves black, sludgy handprints on things they touch. |
+| 4 | The character's connection to the Far Realm has grown to the extent that they now warp reality within 30 feet of them in one of the following ways, determined by rolling a `d6`: (1) creatures no longer cast shadows; (2) portable objects not being worn or carried change position; (3) mirrors don't show reflections; (4) animals are spooked; (5) perishable food spoils; (6) the temperature increases or decreases. |
 ^transformation-effects
 
-![Far Realm forces influence...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/007-00-006-far-realm-influenced-goblin.webp#center "Far Realm forces influence the goblins who are seeking obelisk fragments")
+![Far Realm forces influence the goblins who are seeking obelisk fragments](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/007-00-006-far-realm-influenced-goblin.webp#center)

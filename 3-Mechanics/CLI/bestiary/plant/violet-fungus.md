@@ -11,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Violet Fungus
+- "Violet Fungus"
 ---
-# [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus.md)
+# [Violet Fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus.md)
 *Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
-This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice:2d6|noform|noparens|avg` (`2d6`) days.
+This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `2d6` days.
 
 ## Fungi
 
@@ -43,10 +43,10 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), passive Perception 6"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -61,7 +61,7 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     "name": "Rotting Touch"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/violet-fungus.webp"
 ```
 ^statblock
 

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/warlock/fathomless
 aliases:
-- The Fathomless
+- "The Fathomless"
 ---
 # The Fathomless
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
@@ -47,18 +47,15 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### The Fathomless (Level 3)
-
 You have plunged into a pact with the deeps. An entity of the ocean, the Elemental Plane of Water, or another otherworldly sea now allows you to draw on its thalassic power. Is it merely using you to learn about terrestrial realms, or does it want you to open cosmic floodgates and drown the world?
 
 Perhaps you were born into a generational cult that venerates the Fathomless and its spawn. Or you might have been shipwrecked and on the brink of drowning when your patron's grasp offered you a chance at life. Whatever the reason for your pact, the sea and its unknown depths call to you.
 
 Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.
 
-#### Expanded Spell List
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Expanded Spell List (Level 3)
 
 *1st-level Fathomless feature*
 
@@ -68,11 +65,11 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [create or destroy water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) |
-| 2nd | [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [silence](/3-Mechanics/CLI/spells/silence-xphb.md) |
-| 3rd | [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [sleet storm](/3-Mechanics/CLI/spells/sleet-storm-xphb.md) |
-| 4th | [control water](/3-Mechanics/CLI/spells/control-water-xphb.md), [summon elemental](/3-Mechanics/CLI/spells/summon-elemental-xphb.md) (water only) |
-| 5th | [Bigby's hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md) (appears as a tentacle), [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) |
+| 1st | [create or destroy water](3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md) |
+| 2nd | [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [silence](3-Mechanics/CLI/spells/silence-xphb.md) |
+| 3rd | [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md) |
+| 4th | [control water](3-Mechanics/CLI/spells/control-water-xphb.md), [summon elemental](3-Mechanics/CLI/spells/summon-elemental-xphb.md) (water only) |
+| 5th | [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md) (appears as a tentacle), [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) |
 ^fathomless-expanded-spells
 
 ### Tentacle of the Deeps (Level 1)
@@ -81,7 +78,7 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
 
-When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `dice:1d8|noform|noparens|avg` (`1d8`) cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+When you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes `1d8` cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to `2d8`.
 
 As a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.
 
@@ -103,15 +100,15 @@ You are now even more at home in the depths. You gain resistance to cold damage.
 
 *6th-level Fathomless feature*
 
-Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `dice:1d8|noform|noparens|avg` (`1d8`). When you reach 10th level in this class, the damage reduced by the tentacle increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `1d8`. When you reach 10th level in this class, the damage reduced by the tentacle increases to `2d8`.
 
 ### Grasping Tentacles (Level 10)
 
 *10th-level Fathomless feature*
 
-You learn the spell [Evard's black tentacles](/3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the spell [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on this spell.
+Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on this spell.
 
 ### Fathomless Plunge (Level 14)
 

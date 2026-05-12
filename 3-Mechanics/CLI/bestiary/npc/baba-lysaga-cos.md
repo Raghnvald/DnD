@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Baba Lysaga
+- "Baba Lysaga"
 ---
-# [Baba Lysaga](3-Mechanics\CLI\bestiary\npc/baba-lysaga-cos.md)
+# [Baba Lysaga](3-Mechanics/CLI/bestiary/npc/baba-lysaga-cos.md)
 *Source: Curse of Strahd p. 228*  
 
 Two women gave life to Strahd von Zarovich. The first was Queen Ravenovia van Roeyen, Strahd's biological mother. The second was the queen's midwife, a devout follower of Mother Night named Baba Lysaga. Although it was the former who raised Strahd and enabled him to follow in his father's footsteps, it was the latter who sensed a potential for greatness and darkness in Strahd surpassing that of any other mortal. Lysaga believed then, as she believes now, that she is Strahd's true mother.
@@ -76,59 +76,49 @@ The goddess Mother Night has bestowed magical gifts on Baba Lysaga as rewards fo
 "saves":
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+13"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+13"
+"gear":
+  - "quarterstaff"
 "senses": "passive Perception 13"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Giant"
 "cr": "11"
 "traits":
   - "desc": "Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is\
       \ Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga\
-      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [acid\
-      \ splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md), [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
-      \ level (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md),\
-      \ [witch bolt](/3-Mechanics/CLI/spells/witch-bolt-xphb.md)\n\n**2nd level (3\
-      \ slots):** [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md),\
-      \ [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\
-      \n**4th level (3 slots):** [blight](/3-Mechanics/CLI/spells/blight-xphb.md),\
-      \ [Evard's black tentacles](/3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md),\
-      \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md)\n\n**5th level (2 slots):**\
-      \ [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md), [geas](/3-Mechanics/CLI/spells/geas-xphb.md),\
-      \ [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)\n\n**6th level (1 slots):**\
-      \ [programmed illusion](/3-Mechanics/CLI/spells/programmed-illusion-xphb.md),\
-      \ [true seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)\n\n**7th level\
-      \ (1 slots):** [finger of death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md),\
-      \ [mirage arcane](/3-Mechanics/CLI/spells/mirage-arcane-xphb.md)\n\n**8th level\
-      \ (1 slots):** [power word stun](/3-Mechanics/CLI/spells/power-word-stun-xphb.md)"
+      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** acid\
+      \ splash, fire bolt, light, mage hand, prestidigitation\n\n**1st level (4 slots):**\
+      \ detect magic, magic missile, sleep, witch bolt\n\n**2nd level (3 slots):**\
+      \ crown of madness, enlarge/reduce, misty step\n\n**3rd level (3 slots):** dispel\
+      \ magic, fireball, lightning bolt\n\n**4th level (3 slots):** blight, Evard's\
+      \ black tentacles, polymorph\n\n**5th level (2 slots):** cloudkill, geas, scrying\n\
+      \n**6th level (1 slots):** programmed illusion, true seeing\n\n**7th level (1\
+      \ slots):** finger of death, mirage arcane\n\n**8th level (1 slots):** power\
+      \ word stun"
     "name": "Spellcasting"
-  - "desc": "Baba Lysaga can use an action to polymorph into a [swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)\
-      \ (flies), or back into her true form. While in swarm form, she has a walking\
-      \ speed of 5 feet and a flying speed of 30 feet. Anything she is wearing transforms\
-      \ with her, but nothing she is carrying does."
+  - "desc": "Baba Lysaga can use an action to polymorph into a swarm of insects (flies),\
+      \ or back into her true form. While in swarm form, she has a walking speed of\
+      \ 5 feet and a flying speed of 30 feet. Anything she is wearing transforms with\
+      \ her, but nothing she is carrying does."
     "name": "Shapechanger"
   - "desc": "Baba Lysaga is shielded against divination magic, as though protected\
-      \ by a [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) spell."
+      \ by a nondetection spell."
     "name": "Blessing of Mother Night"
 "actions":
   - "desc": "Baba Lysaga makes three attacks with her quarterstaff."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if wielded with\
-      \ two hands."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage if wielded\
+      \ with two hands."
     "name": "Quarterstaff"
-  - "desc": "Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears in\
-      \ an unoccupied space within 60 feet of Baba Lysaga and acts as her ally. It\
-      \ remains until it dies or until Baba Lysaga dismisses it as an action."
+  - "desc": "Baba Lysaga summons 1d4 swarms of insects. A summoned swarm appears\
+      \ in an unoccupied space within 60 feet of Baba Lysaga and acts as her ally.\
+      \ It remains until it dies or until Baba Lysaga dismisses it as an action."
     "name": "Summon Swarms of Insects (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/baba-lysaga-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/baba-lysaga-cos.webp"
 ```
 ^statblock

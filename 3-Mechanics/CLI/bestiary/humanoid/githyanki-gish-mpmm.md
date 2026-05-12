@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githyanki Gish
+- "Githyanki Gish"
 ---
-# [Githyanki Gish](3-Mechanics\CLI\bestiary\humanoid/githyanki-gish-mpmm.md)
+# [Githyanki Gish](3-Mechanics/CLI/bestiary/humanoid/githyanki-gish-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140, Mordenkainen's Tome of Foes p. 205*  
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
@@ -32,7 +32,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "subtype": "gith, wizard"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "[half plate](/3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
+"ac_class": "[half plate](3-Mechanics/CLI/items/half-plate-armor.md)"
 "hp": !!int "130"
 "hit_dice": "20d8 + 40"
 "modifier": !!int "2"
@@ -49,12 +49,14 @@ Githyanki descend from an ancient people who were also the progenitors of githze
   - "intelligence": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
 "senses": "passive Perception 16"
 "languages": "Gith"
 "cr": "10"
@@ -62,21 +64,21 @@ Githyanki descend from an ancient people who were also the progenitors of githze
   - "desc": "The githyanki makes three Longsword or Telekinetic Bolt attacks, or it\
       \ makes one of those attacks and uses Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands,\
-      \ plus 22 (5d8) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands, plus 22 (5d8) psychic damage."
     "name": "Longsword"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 28\
-      \ (8d6) force damage."
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:*\
+      \ 28 (8d6) force damage."
     "name": "Telekinetic Bolt"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
-      **At will:** [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-      \ (the hand is invisible), [message](/3-Mechanics/CLI/spells/message-xphb.md)\n\
-      \n**3/day each:** [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) (self only)\n\
-      \n**1/day each:** [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      **At will:** [light](3-Mechanics/CLI/spells/light.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md)\
+      \ (the hand is invisible), [message](3-Mechanics/CLI/spells/message.md)\n\n\
+      **3/day each:** [fireball](3-Mechanics/CLI/spells/fireball.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
+      \ [nondetection](3-Mechanics/CLI/spells/nondetection.md) (self only)\n\n**1/day\
+      \ each:** [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [plane\
+      \ shift](3-Mechanics/CLI/spells/plane-shift.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The githyanki teleports, along with any equipment it is wearing or carrying,\
@@ -85,7 +87,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/githyanki-gish-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/githyanki-gish-mpmm.webp"
 ```
 ^statblock
 

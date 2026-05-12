@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gibbering Mouther
+- "Gibbering Mouther"
 ---
-# [Gibbering Mouther](3-Mechanics\CLI\bestiary\aberration/gibbering-mouther.md)
+# [Gibbering Mouther](3-Mechanics/CLI/bestiary/aberration/gibbering-mouther.md)
 *Source: Monster Manual p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.
@@ -24,7 +24,7 @@ The gibbering mouther's body is an amorphous mass of mouths and eyes that propel
 
 ## Mouths of Madness
 
-When a gibbering mouther senses prey, its mouths begin to murmur and chatter, each with a different voice: deep or shrill, wailing or ululating, crying out in agony or ecstasy. This cacophonous gibbering overcomes the senses of any creature that hears it, causing most to flee in terror. Others are overcome with madness or stand [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), fixated on the horrific creature as it oozes forward to consume them.
+When a gibbering mouther senses prey, its mouths begin to murmur and chatter, each with a different voice: deep or shrill, wailing or ululating, crying out in agony or ecstasy. This cacophonous gibbering overcomes the senses of any creature that hears it, causing most to flee in terror. Others are overcome with madness or stand [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), fixated on the horrific creature as it oozes forward to consume them.
 
 ### All-Consuming
 
@@ -49,9 +49,9 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
   - !!int "10"
   - !!int "6"
 "speed": "10 ft., swim 10 ft."
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -61,7 +61,7 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
       \ of its next turn."
     "name": "Aberrant Ground"
   - "desc": "The mouther babbles incoherently while it can see any creature and isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). Each creature\
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated). Each creature\
       \ that starts its turn within 20 feet of the mouther and can hear the gibbering\
       \ must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't\
       \ take reactions until the start of its next turn and rolls a d8 to determine\
@@ -75,20 +75,20 @@ A gibbering mouther leaves nothing of its prey behind. However, even as the last
   - "desc": "The gibbering mouther makes one bite attack and, if it can, uses its\
       \ Blinding Spittle."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 17\
-      \ (5d6) piercing damage. If the target is Medium or smaller, it must succeed\
-      \ on a DC 10 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed\
+      \ on a DC 10 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
       \ If the target is killed by this damage, it is absorbed into the mouther."
     "name": "Bites"
   - "desc": "The mouther spits a chemical glob at a point it can see within 15 feet\
       \ of it. The glob explodes in a blinding flash of light on impact. Each creature\
       \ within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw\
-      \ or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until the end of the\
-      \ mouther's next turn."
+      \ or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end\
+      \ of the mouther's next turn."
     "name": "Blinding Spittle (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/gibbering-mouther.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/gibbering-mouther.webp"
 ```
 ^statblock
 

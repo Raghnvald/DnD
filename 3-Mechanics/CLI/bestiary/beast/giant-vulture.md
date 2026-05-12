@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Vulture
+- "Giant Vulture"
 ---
-# [Giant Vulture](3-Mechanics\CLI\bestiary\beast/giant-vulture.md)
+# [Giant Vulture](3-Mechanics/CLI/bestiary/beast/giant-vulture.md)
 *Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A giant vulture has advanced intelligence and a malevolent bent. Unlike its smaller kin, it will attack a wounded creature to hasten its end. Giant vultures have been known to haunt a thirsty, starving creature for days to enjoy its suffering.
@@ -37,31 +37,31 @@ A giant vulture has advanced intelligence and a malevolent bent. Unlike its smal
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The vulture has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The vulture has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
   - "desc": "The vulture has advantage on an attack roll against a creature if at\
       \ least one of the vulture's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The vulture makes two attacks: one with its beak and one with its talons."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) piercing damage."
     "name": "Beak"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-vulture.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-vulture.webp"
 ```
 ^statblock
 

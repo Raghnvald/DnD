@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Draconomicon
+- "Draconomicon"
 ---
 # Draconomicon
 *Source: Fizban's Treasury of Dragons, p. 75* 
@@ -40,11 +40,11 @@ How do the mindsets of red dragons and gold dragons differ? Where do they prefer
 > 
 > "Green dragon"
 > 
-> "Moonstone dragon "*
+> "Moonstone dragon"*
 > 
 > "Red dragon"
 > 
-> "Sapphire dragon "*
+> "Sapphire dragon"*
 > 
 > "Shadow dragon"
 > 
@@ -57,7 +57,7 @@ How do the mindsets of red dragons and gold dragons differ? Where do they prefer
 > *This dragon is introduced in "chapter 6".
 ^123
 
-![Fizban addresses a council...](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/039-05-001-chapter-splash.webp#center "Fizban addresses a council of metallic dragons on a matter of crucial importance, probably unrelated to baked goods")
+![Fizban addresses a council of metallic dragons on a matter of crucial importance, probably unrelated to baked goods](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/039-05-001-chapter-splash.webp#center)
 
 ## Using the Entries
 
@@ -99,31 +99,31 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to inspire your portrayal of distinctive amethyst dragon characters.
 
-![Creating an Amethyst Dragon; Amethyst Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd.md)
+![Creating an Amethyst Dragon; Amethyst Dragon Personality Traits](3-Mechanics/CLI/tables/creating-an-amethyst-dragon-amethyst-dragon-personality-traits-ftd.md)
 
-![Creating an Amethyst Dragon; Amethyst Dragon Ideals](/3-Mechanics/CLI/tables/creating-an-amethyst-dragon-amethyst-dragon-ideals-ftd.md)
+![Creating an Amethyst Dragon; Amethyst Dragon Ideals](3-Mechanics/CLI/tables/creating-an-amethyst-dragon-amethyst-dragon-ideals-ftd.md)
 
 ### Amethyst Dragon Adventures
 
 The Amethyst Dragon Adventure Hooks table offers suggestions for stories and adventures involving amethyst dragons.
 
-![Amethyst Dragon Adventures; Amethyst Dragon Adventure Hooks](/3-Mechanics/CLI/tables/amethyst-dragon-adventures-amethyst-dragon-adventure-hooks-ftd.md)
+![Amethyst Dragon Adventures; Amethyst Dragon Adventure Hooks](3-Mechanics/CLI/tables/amethyst-dragon-adventures-amethyst-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Amethyst dragons are generally aloof creatures, dwelling in isolation for long periods of time and rarely cultivating connections with other creatures. When they do connect with others, it is most often for intellectual and philosophical pursuits or to fulfill some arcane purpose involving the dragons' echoes across the worlds.
 
-![Connected Creatures; Amethyst Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-amethyst-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Amethyst Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-amethyst-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Amethyst Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-amethyst-dragon-connections-ftd.md)
+![Connected Creatures; Young Amethyst Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-amethyst-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Amethyst Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-amethyst-dragon-connections-ftd.md)
+![Connected Creatures; Adult Amethyst Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-amethyst-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Amethyst Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-amethyst-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Amethyst Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-amethyst-dragon-connections-ftd.md)
 
 > [!note] Eldenser the Lurker
 > 
-> Contradictory tales told throughout the Forgotten Realms are unclear about whether or not the ancient amethyst dragon Eldenser still lives, largely because of the behavior that earned him the epithets "the Lurker" and "the Worm Who Hides in Blades." Obsessed with observing the world and its creatures, Eldenser developed magic that allows his mind to inhabit the blade of a weapon after his death. He exists now as a [draconic shard](/3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md) (described in "chapter 6").
+> Contradictory tales told throughout the Forgotten Realms are unclear about whether or not the ancient amethyst dragon Eldenser still lives, largely because of the behavior that earned him the epithets "the Lurker" and "the Worm Who Hides in Blades." Obsessed with observing the world and its creatures, Eldenser developed magic that allows his mind to inhabit the blade of a weapon after his death. He exists now as a [draconic shard](3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md) (described in "chapter 6").
 > 
 > Eldenser prefers the role of silent observer to doing anything that might give away his presence. In this fashion, he has inhabited countless weapons over long years, including many belonging to famous adventurers whose exploits the dragon has seen firsthand.
 ^eldenser-the-lurker
@@ -135,8 +135,8 @@ Amethyst dragons prefer lairs near water, ideally mountain lakes, where they tak
 Amethyst dragon lairs frequently exhibit or develop large and beautiful clusters of amethyst crystals, including massive cathedral geodes split open to show their contents and clusters of crystal points more than a foot in diameter that extend six to ten feet from the interior stone surfaces of the lair. These crystals resonate with the dragon's presence, and glow with a soft inner light. The older the dragon, the deeper the purple color of the crystals.
 
 > [!gallery]
-> ![Map 5.1: amethyst dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/040-map-5-1-amethyst-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp#gallery)
+> ![Map 5.1: amethyst dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/040-map-5-1-amethyst-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/041-map-5-1-amethyst-dragon-lair-player.webp#gallery)
 
 #### Amethyst Dragon Lair Features
 
@@ -145,7 +145,7 @@ The amethyst dragon lair shown in map 5.1 is set beneath a mountain ridge betwee
 - **Entrances.** Two cave entrances provide access to the lair, one in the rock face just above one tarn and one below the surface of the other tarn. The dragon uses the underwater passage as a secret entrance and emergency exit.  
 - **Main Caves.** The lair is a complex of caves and tunnels; the stone surfaces are smooth and water-worn, and the air is cool and slightly damp.  
 - **Glowing Crystals.** Large clusters of glowing amethyst crystals grow out from the walls and ceiling, casting dim light in a 30-foot radius.  
-- **Chimneys.** Two chimneys connect the main caves to the three chambers above. Each chimney appears to continue up through the ceiling of the upper level and down through the floor of the lower level, but the dragon's magic warps space within the lair. Moving up past the upper level brings a creature to the lower level again, while moving down from the lower level brings a creature to the upper level. A creature or object dropped down one of the chimneys continues falling endlessly unless it or some outside force has the means to slow or stop it. This property of the lair vanishes after `dice:1d10|noform|noparens|avg` (`1d10`) days if the dragon dies.  
+- **Chimneys.** Two chimneys connect the main caves to the three chambers above. Each chimney appears to continue up through the ceiling of the upper level and down through the floor of the lower level, but the dragon's magic warps space within the lair. Moving up past the upper level brings a creature to the lower level again, while moving down from the lower level brings a creature to the upper level. A creature or object dropped down one of the chimneys continues falling endlessly unless it or some outside force has the means to slow or stop it. This property of the lair vanishes after `1d10` days if the dragon dies.  
 - **Upper Caves.** The dragon most often sleeps in the largest upper chamber of the lair. The dragon's hoard is divided between that area and the chamber at the opposite end of the upper level. The magic of the lair sometimes makes it appear as though the dragon were sleeping amid both caches, creating the impression that two dragons dwell here.  
 
 ### Amethyst Dragon Treasures
@@ -154,7 +154,7 @@ Amethyst dragons often collect crystals and gems, particularly their namesake st
 
 Amethyst dragons favor treasures with particular scholarly or philosophical value as a part of their hoard, including fine books, scrolls, or carved tablets; tapestries or woven "tomes" of embroidered cloth; complex scientific instruments; and religious icons or objects. They are fond of unique and unusual art objects, especially those connected to far-off or long-lost cultures, other planes of existence, or other worlds—and of magic items that allow movement between those planes or worlds. The odd spatial nature of an amethyst dragon's lair can sometimes cause items to transpose between one dragon's hoard and the hoards of the dragon's echoes, allowing for treasures with a surprising range of origins.
 
-![Amethyst Dragon Treasures; Amethyst Dragon Art Objects](/3-Mechanics/CLI/tables/amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd.md)
+![Amethyst Dragon Treasures; Amethyst Dragon Art Objects](3-Mechanics/CLI/tables/amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd.md)
 
 ## Black Dragons
 
@@ -168,29 +168,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Black Dragon Personality Traits and Black Dragon Ideals tables to inspire your portrayal of distinctive black dragon characters, and use the Black Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Black Dragon; Black Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-black-dragon-black-dragon-personality-traits-ftd.md)
+![Creating a Black Dragon; Black Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-black-dragon-black-dragon-personality-traits-ftd.md)
 
-![Creating a Black Dragon; Black Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-black-dragon-black-dragon-ideals-ftd.md)
+![Creating a Black Dragon; Black Dragon Ideals](3-Mechanics/CLI/tables/creating-a-black-dragon-black-dragon-ideals-ftd.md)
 
-![Creating a Black Dragon; Black Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-black-dragon-black-dragon-spellcasting-ftd.md)
+![Creating a Black Dragon; Black Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-black-dragon-black-dragon-spellcasting-ftd.md)
 
 ### Black Dragon Adventures
 
 The Black Dragon Adventure Hooks table offers suggestions for stories and adventures involving black dragons.
 
-![Black Dragon Adventures; Black Dragon Adventure Hooks](/3-Mechanics/CLI/tables/black-dragon-adventures-black-dragon-adventure-hooks-ftd.md)
+![Black Dragon Adventures; Black Dragon Adventure Hooks](3-Mechanics/CLI/tables/black-dragon-adventures-black-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Black dragons prefer the company of creatures that are easy to control and present little threat of betrayal. Mindless Undead, shambling mounds, carnivorous flora, Oozes, and Constructs make appealing servants, especially working in concert with a black dragon's fiendishly clever traps. A black dragon's intelligent followers tend to worship draconic majesty and typically include kobolds, troglodytes, lizard folk, and (more rarely) yuan-ti.
 
-![Connected Creatures; Black Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-black-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Black Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-black-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Black Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-black-dragon-connections-ftd.md)
+![Connected Creatures; Young Black Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-black-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Black Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-black-dragon-connections-ftd.md)
+![Connected Creatures; Adult Black Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-black-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Black Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-black-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Black Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-black-dragon-connections-ftd.md)
 
 ### Black Dragon Lairs
 
@@ -199,8 +199,8 @@ Black dragons prefer to lair in swamps and jungles—the more dismal and fetid, 
 When choosing their lairs, black dragons are fond of locations that are naturally constraining and confounding. Whether adventurers seeking the dragon must wind their way through the roots of an ancient mangrove swamp or brave a trap-filled boggy ruin, the experience promises to be a deadly affair.
 
 > [!gallery]
-> ![Map 5.2: black dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/042-map-5-2-black-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/043-map-5-2-black-dragon-lair-player.webp#gallery)
+> ![Map 5.2: black dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/042-map-5-2-black-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/043-map-5-2-black-dragon-lair-player.webp#gallery)
 
 #### Black Dragon Lair Features
 
@@ -214,25 +214,25 @@ The black dragon lair shown in map 5.2 is a derelict chapel, lost to time in a g
 
 > [!note] Rhashaak
 > 
-> Guardian of the cursed city of Haka'torvhak, the [black greatwyrm](/3-Mechanics/CLI/bestiary/dragon/black-greatwyrm-ftd.md) Rhashaak lives deep in the jungles of Q'barra on the world of Eberron, where he is worshiped as the incarnation of a god by numerous kobolds, dragonborn, and lizardfolk. Rhashaak has existed for millennia as the primary guardian of the imprisoned Fiend Masvirik, who once held dominion over reptilian creatures.
+> Guardian of the cursed city of Haka'torvhak, the [black greatwyrm](3-Mechanics/CLI/bestiary/dragon/black-greatwyrm-ftd.md) Rhashaak lives deep in the jungles of Q'barra on the world of Eberron, where he is worshiped as the incarnation of a god by numerous kobolds, dragonborn, and lizardfolk. Rhashaak has existed for millennia as the primary guardian of the imprisoned Fiend Masvirik, who once held dominion over reptilian creatures.
 > 
 > Over time, Rhashaak has been tainted by the corruption he guards and has slowly succumbed to its evil. Powerful wards keep Rhashaak bound to his fallen city, but his legions would pose a significant threat if Rhashaak were ever roused by settlers or explorers searching his ruins.
 ^rhashaak
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md)) black dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) black dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Filth Burst.** The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) poison damage on a failed save, or half as much damage on a successful one. The cylinder is "difficult terrain".  
-- **Grasping Muck.** Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a DC 15 Strength saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until initiative count 20 on the next round.  
-- **Noxious Gas.** A bubble of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon can see within its lair. Each creature in the area must succeed on a DC 15 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Filth Burst.** The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one. The cylinder is "difficult terrain".  
+- **Grasping Muck.** Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a DC 15 Strength saving throw or be restrained until initiative count 20 on the next round.  
+- **Noxious Gas.** A bubble of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon can see within its lair. Each creature in the area must succeed on a DC 15 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 #### Regional Effects
 
 Any of these effects might appear in the area around a black dragon's lair, in addition to or instead of the effects described in the "Monster Manual":
 
 - **Ennui.** Creatures that spend a year within 10 miles of the dragon's lair are filled with listless despair.  
-- **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks. The dragon can suppress this effect at will.  
+- **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity (Stealth) checks. The dragon can suppress this effect at will.  
 - **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.  
 
 ### Black Dragon Treasures
@@ -243,9 +243,9 @@ Because their lairs are inevitably slimy and dank, if not outright flooded, blac
 
 Most black dragons keep their treasure well hidden and have a private viewing room for particularly prized possessions. Knowing that interloping inferiors were able to so much as see their hoard can drive a black dragon to a state of rage.
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/044-05-002.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/044-05-002.webp#center)
 
-![Black Dragon Treasures; Black Dragon Art Objects](/3-Mechanics/CLI/tables/black-dragon-treasures-black-dragon-art-objects-ftd.md)
+![Black Dragon Treasures; Black Dragon Art Objects](3-Mechanics/CLI/tables/black-dragon-treasures-black-dragon-art-objects-ftd.md)
 
 ## Blue Dragons
 
@@ -259,31 +259,31 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Blue Dragon Personality Traits and Blue Dragon Ideals tables to inspire your portrayal of distinctive blue dragon characters, and use the Blue Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Blue Dragon; Blue Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-blue-dragon-blue-dragon-personality-traits-ftd.md)
+![Creating a Blue Dragon; Blue Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-blue-dragon-blue-dragon-personality-traits-ftd.md)
 
-![Creating a Blue Dragon; Blue Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-blue-dragon-blue-dragon-ideals-ftd.md)
+![Creating a Blue Dragon; Blue Dragon Ideals](3-Mechanics/CLI/tables/creating-a-blue-dragon-blue-dragon-ideals-ftd.md)
 
-![Creating a Blue Dragon; Blue Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-blue-dragon-blue-dragon-spellcasting-ftd.md)
+![Creating a Blue Dragon; Blue Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-blue-dragon-blue-dragon-spellcasting-ftd.md)
 
 ### Blue Dragon Adventures
 
 The Blue Dragon Adventure Hooks table offers suggestions for stories and adventures involving blue dragons.
 
-![Blue Dragon Adventures; Blue Dragon Adventure Hooks](/3-Mechanics/CLI/tables/blue-dragon-adventures-blue-dragon-adventure-hooks-ftd.md)
+![Blue Dragon Adventures; Blue Dragon Adventure Hooks](3-Mechanics/CLI/tables/blue-dragon-adventures-blue-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 In contrast to most chromatic dragons, blue dragons see value in relationships with other creatures, even if the power balance in those relationships is always weighted in the dragon's favor. Though territorial, they are willing to allow creatures they consider their servants to live peacefully within their domains. Blue dragons are also more family oriented than many other dragons, and it's not unusual to find a multigenerational extended family of blue dragons sharing a territory. Other creatures need to tread carefully in such a place, for any injury or insult to one of the dragons is considered a strike against the whole family.
 
-![Connected Creatures; Blue Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-blue-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Blue Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-blue-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Blue Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-blue-dragon-connections-ftd.md)
+![Connected Creatures; Young Blue Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-blue-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Blue Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-blue-dragon-connections-ftd.md)
+![Connected Creatures; Adult Blue Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-blue-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Blue Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-blue-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Blue Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-blue-dragon-connections-ftd.md)
 
-![Iymrith, &quot;Doom of the Dese...](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/045-05-003-iymrith.webp#center "Iymrith, &quot;Doom of the Desert,&quot; flies above her lair")
+![Iymrith, &quot;Doom of the Desert,&quot; flies above her lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/045-05-003-iymrith.webp#center)
 
 ### Blue Dragon Lairs
 
@@ -292,8 +292,8 @@ Blue dragons make their lairs in deserts and other arid landscapes. They prefer 
 Though most blue dragons would be loath to the use the term themselves, their lairs are often surprisingly homey. They favor lairs that balance beauty and comfort and adorn them in soothing shades of blue, purple, and green.
 
 > [!gallery]
-> ![Map 5.3: blue dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/046-map-5-3-blue-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/047-map-5-3-blue-dragon-lair-player.webp#gallery)
+> ![Map 5.3: blue dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/046-map-5-3-blue-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/047-map-5-3-blue-dragon-lair-player.webp#gallery)
 
 #### Blue Dragon Lair Features
 
@@ -311,24 +311,24 @@ The lair has the following features:
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md)) blue dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) blue dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Misleading Mirage.** Until initiative count 20 on the next round, at each intersection or branching passage in the lair, a creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
-- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage and landing [prone](/3-Mechanics/CLI/conditions.md#Prone). On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
+- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking 7 (`2d6`) bludgeoning damage and landing prone. On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
 
 #### Regional Effects
 
 Any of these effects might appear in the area around a blue dragon's lair, in addition to or instead of the effects described in the "Monster Manual":
 
 - **Blue Luster.** Creatures that spend a year within 1 mile of the dragon's lair find blue objects fascinating and feel compelled to acquire them at every opportunity.  
-- **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
+- **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence (Investigation) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
 - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
 
 > [!note] Iymrith
 > 
-> Known as the Dragon of the Statues and the Doom of the Desert, the ancient blue dragon Iymrith commands an army of [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) and has studied magic for centuries in the hope of transcending her physical form and becoming a god.
+> Known as the Dragon of the Statues and the Doom of the Desert, the ancient blue dragon Iymrith commands an army of gargoyles and has studied magic for centuries in the hope of transcending her physical form and becoming a god.
 > 
-> Iymrith often appears as a [storm giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) using her special Change Shape trait. In this guise, she infiltrates storm giant settlements and insinuates herself into the affections of the rulers' heirs, becoming a mentor to them—and turning them against their parents. She demands great accomplishments from her own offspring, but she is more than willing to support and aid them with her considerable resources.
+> Iymrith often appears as a storm giant using her special Change Shape trait. In this guise, she infiltrates storm giant settlements and insinuates herself into the affections of the rulers' heirs, becoming a mentor to them—and turning them against their parents. She demands great accomplishments from her own offspring, but she is more than willing to support and aid them with her considerable resources.
 > 
 > Ferocious in her youth, Iymrith has grown more philosophical and even whimsical as she ages, but she has not lost sight of her quest for transcendence.
 ^iymrith
@@ -339,7 +339,7 @@ Blue dragons have strict standards for what treasures they allow into their hoar
 
 Blue dragons favor blue, purple, and green gemstones; art depicting oases and fountains; and fine textiles in cool colors. They also love scents that evoke storms and rain, and magic items that produce weather effects.
 
-![Blue Dragon Treasures; Blue Dragon Art Objects](/3-Mechanics/CLI/tables/blue-dragon-treasures-blue-dragon-art-objects-ftd.md)
+![Blue Dragon Treasures; Blue Dragon Art Objects](3-Mechanics/CLI/tables/blue-dragon-treasures-blue-dragon-art-objects-ftd.md)
 
 ## Brass Dragons
 
@@ -353,29 +353,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Brass Dragon Personality Traits and Brass Dragon Ideals tables to inspire your portrayal of distinctive brass dragon characters, and use the Brass Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Brass Dragon; Brass Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-brass-dragon-brass-dragon-personality-traits-ftd.md)
+![Creating a Brass Dragon; Brass Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-brass-dragon-brass-dragon-personality-traits-ftd.md)
 
-![Creating a Brass Dragon; Brass Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-brass-dragon-brass-dragon-ideals-ftd.md)
+![Creating a Brass Dragon; Brass Dragon Ideals](3-Mechanics/CLI/tables/creating-a-brass-dragon-brass-dragon-ideals-ftd.md)
 
-![Creating a Brass Dragon; Brass Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-brass-dragon-brass-dragon-spellcasting-ftd.md)
+![Creating a Brass Dragon; Brass Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-brass-dragon-brass-dragon-spellcasting-ftd.md)
 
 ### Brass Dragon Adventures
 
 The Brass Dragon Adventure Hooks table offers suggestions for stories and adventures involving brass dragons.
 
-![Brass Dragon Adventures; Brass Dragon Adventure Hooks](/3-Mechanics/CLI/tables/brass-dragon-adventures-brass-dragon-adventure-hooks-ftd.md)
+![Brass Dragon Adventures; Brass Dragon Adventure Hooks](3-Mechanics/CLI/tables/brass-dragon-adventures-brass-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Brass dragons seek out the company of other creatures that can carry on an intelligent conversation. They favor the company of such creatures over all others, often to the point of not bothering to gather minions to do their bidding and ignoring worshipers who fawn over them.
 
-![Connected Creatures; Brass Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-brass-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Brass Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-brass-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Brass Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-brass-dragon-connections-ftd.md)
+![Connected Creatures; Young Brass Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-brass-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Brass Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-brass-dragon-connections-ftd.md)
+![Connected Creatures; Adult Brass Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-brass-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Brass Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-brass-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Brass Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-brass-dragon-connections-ftd.md)
 
 ### Brass Dragon Lairs
 
@@ -384,8 +384,8 @@ Brass dragons prefer to make their lairs in hot, dry, rocky areas—desert canyo
 Brass dragons like their lairs to be spacious and well lit; many lairs feature windows or skylights to let sunlight in. They respect skillfully wrought stonework and often take over canyon fortresses and similar structures when they're abandoned by their original non-dragon builders. Brass dragons are also capable of fine stonework themselves, and many meticulously carve out grand halls and galleries in which to store and display their hoards.
 
 > [!gallery]
-> ![Map 5.4: brass dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/048-map-5-4-brass-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp#gallery)
+> ![Map 5.4: brass dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/048-map-5-4-brass-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/049-map-5-4-brass-dragon-lair-player.webp#gallery)
 
 #### Brass Dragon Lair Features
 
@@ -407,10 +407,10 @@ The brass dragon lair shown in map 5.4 is an ancient ruin located within rough, 
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md)) brass dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) brass dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit.  
-- **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [prone](/3-Mechanics/CLI/conditions.md#Prone).  
+- **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit.  
+- **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked prone. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon prone.  
 - **Obscuring Sand.** Dust and sand fill the air within 120 feet of the dragon, making the area lightly obscured until initiative count 20 on the next round.  
 
 #### Regional Effects
@@ -426,7 +426,7 @@ Brass dragons prefer yellow, orange, and brown gemstones that coordinate with th
 
 Brass dragons often invest items in their hoards with imagined personality. A wyrmling might have a favorite marble bust or onyx cameo to converse with, while an ancient dragon might have lively dialogues with an entire gallery of paintings, statues, and tapestries. A brass dragon who divides a hoard into separate caches often imagines those caches as individuals (or even groups of people) with independent personalities, and the dragon might spend time in different lairs to socialize with different "friends."
 
-![Brass Dragon Treasures; Brass Dragon Art Objects](/3-Mechanics/CLI/tables/brass-dragon-treasures-brass-dragon-art-objects-ftd.md)
+![Brass Dragon Treasures; Brass Dragon Art Objects](3-Mechanics/CLI/tables/brass-dragon-treasures-brass-dragon-art-objects-ftd.md)
 
 ## Bronze Dragons
 
@@ -440,29 +440,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Bronze Dragon Personality Traits and Bronze Dragon Ideals tables to inspire your portrayal of distinctive bronze dragon characters, and use the Bronze Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Bronze Dragon; Bronze Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-bronze-dragon-bronze-dragon-personality-traits-ftd.md)
+![Creating a Bronze Dragon; Bronze Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-bronze-dragon-bronze-dragon-personality-traits-ftd.md)
 
-![Creating a Bronze Dragon; Bronze Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-bronze-dragon-bronze-dragon-ideals-ftd.md)
+![Creating a Bronze Dragon; Bronze Dragon Ideals](3-Mechanics/CLI/tables/creating-a-bronze-dragon-bronze-dragon-ideals-ftd.md)
 
-![Creating a Bronze Dragon; Bronze Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-bronze-dragon-bronze-dragon-spellcasting-ftd.md)
+![Creating a Bronze Dragon; Bronze Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-bronze-dragon-bronze-dragon-spellcasting-ftd.md)
 
 ### Bronze Dragon Adventures
 
 The Bronze Dragon Adventure Hooks table offers suggestions for stories and adventures involving bronze dragons.
 
-![Bronze Dragon Adventures; Bronze Dragon Adventure Hooks](/3-Mechanics/CLI/tables/bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd.md)
+![Bronze Dragon Adventures; Bronze Dragon Adventure Hooks](3-Mechanics/CLI/tables/bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Bronze dragons admire high-minded ambition and military prowess, seeking out those beings willing to risk their lives in the fight for justice. Though they are as proud as any dragons, bronze dragons would rather serve alongside heroes than rule over cowards and quislings.
 
-![Connected Creatures; Bronze Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-bronze-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Bronze Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-bronze-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Bronze Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-bronze-dragon-connections-ftd.md)
+![Connected Creatures; Young Bronze Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-bronze-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Bronze Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-bronze-dragon-connections-ftd.md)
+![Connected Creatures; Adult Bronze Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-bronze-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Bronze Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-bronze-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Bronze Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-bronze-dragon-connections-ftd.md)
 
 ### Bronze Dragon Lairs
 
@@ -481,16 +481,16 @@ The bronze dragon lair shown on map 5.5 is a set of sea caves that once served a
 - **Watery Caves.** Two chambers near the top of the map are accessible only via submerged tunnels, their entrances disguised with thick seaweed and boulders. The larger cavern on the right is the dragon's sleeping chamber, while the smaller on the left holds most of the dragon's hoard.  
 
 > [!gallery]
-> ![Map 5.5: bronze dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/050-map-5-5-bronze-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/051-map-5-5-bronze-dragon-lair-player.webp#gallery)
+> ![Map 5.5: bronze dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/050-map-5-5-bronze-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/051-map-5-5-bronze-dragon-lair-player.webp#gallery)
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md)) bronze dragon can use one or more of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) bronze dragon can use one or more of the following additional lair actions while in its lair:
 
-- **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) slashing damage; then the swarm vanishes.  
-- **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) slashing damage.  
-- **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).  
+- **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 5 (`1d10`) slashing damage; then the swarm vanishes.  
+- **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) slashing damage.  
+- **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked prone.  
 
 #### Regional Effects
 
@@ -513,7 +513,7 @@ A bronze dragon's hoard is a history of the dragon's deeds, with trophies from f
 
 Bronze dragons have a romantic view of their role as guardians of justice and prefer treasures that tie into their heroic narrative. Their hoards teem with weapons, armor, and magic items built for the battlefield—the more unique, the better. Stories matter to a bronze dragon, who would rather have the humble spear that felled a tyrant than a jeweled blade that's never seen combat. They love collecting and studying histories that can give them tactical insight or inspiration, as well as safeguarding artifacts they deem too dangerous to entrust to anyone else.
 
-![Bronze Dragon Treasures; Bronze Dragon Art Objects](/3-Mechanics/CLI/tables/bronze-dragon-treasures-bronze-dragon-art-objects-ftd.md)
+![Bronze Dragon Treasures; Bronze Dragon Art Objects](3-Mechanics/CLI/tables/bronze-dragon-treasures-bronze-dragon-art-objects-ftd.md)
 
 ## Copper Dragons
 
@@ -527,29 +527,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Copper Dragon Personality Traits and Copper Dragon Ideals tables to inspire your portrayal of distinctive copper dragon characters, and use the Copper Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Copper Dragon; Copper Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-copper-dragon-copper-dragon-personality-traits-ftd.md)
+![Creating a Copper Dragon; Copper Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-copper-dragon-copper-dragon-personality-traits-ftd.md)
 
-![Creating a Copper Dragon; Copper Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-copper-dragon-copper-dragon-ideals-ftd.md)
+![Creating a Copper Dragon; Copper Dragon Ideals](3-Mechanics/CLI/tables/creating-a-copper-dragon-copper-dragon-ideals-ftd.md)
 
-![Creating a Copper Dragon; Copper Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-copper-dragon-copper-dragon-spellcasting-ftd.md)
+![Creating a Copper Dragon; Copper Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-copper-dragon-copper-dragon-spellcasting-ftd.md)
 
 ### Copper Dragon Adventures
 
 The Copper Dragon Adventure Hooks table offers suggestions for stories and adventures involving copper dragons.
 
-![Copper Dragon Adventures; Copper Dragon Adventure Hooks](/3-Mechanics/CLI/tables/copper-dragon-adventures-copper-dragon-adventure-hooks-ftd.md)
+![Copper Dragon Adventures; Copper Dragon Adventure Hooks](3-Mechanics/CLI/tables/copper-dragon-adventures-copper-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Copper dragons are most interested in creatures they find entertaining or amusing, whether for their artistic abilities or because they are fun to trick and tease.
 
-![Connected Creatures; Copper Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-copper-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Copper Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-copper-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Copper Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-copper-dragon-connections-ftd.md)
+![Connected Creatures; Young Copper Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-copper-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Copper Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-copper-dragon-connections-ftd.md)
+![Connected Creatures; Adult Copper Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-copper-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Copper Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-copper-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Copper Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-copper-dragon-connections-ftd.md)
 
 > [!note] Galadaeros the Sunset Flame
 > 
@@ -565,8 +565,8 @@ Copper dragons prefer dry uplands, hilltops, or mountainous foothills, where the
 Copper dragon burrows are often sinuous and winding, featuring twists, turns, and dead ends. Blank walls in the lair can conceal cunning hidden passages or might be stone or clay thin enough for the dragon to burst through them. The narrowest tunnels in a copper dragon's lair are just barely wide enough to accommodate the dragon's body, and they typically loop around and reconnect with themselves so the dragon can double back without having to reverse direction.
 
 > [!gallery]
-> ![Map 5.6: copper dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/052-map-5-6-copper-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/053-map-5-6-copper-dragon-lair-player.webp#gallery)
+> ![Map 5.6: copper dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/052-map-5-6-copper-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/053-map-5-6-copper-dragon-lair-player.webp#gallery)
 
 #### Copper Dragon Lair Features
 
@@ -575,14 +575,14 @@ The copper dragon lair shown in map 5.6 is a network of tunnels and large chambe
 The lair has the following features:
 
 - **Concealed Entrances.** Four sloping tunnels emerge onto the surface among the hills, concealed by brush and tumbled stone. These openings allow the dragon to enter and depart the lair via multiple routes. Additionally, the sunken areas shown on the surface map correspond to areas where the dragon can burst through the ceiling to reach the surface.  
-- **Secret Doors.** Concealed passages connect a number of the tunnels and chambers of the lair. Their secret doors are magical in nature, with the stone at a passage junction reshaping itself at the dragon's command to open a passage or close it again (similar to the effect of a [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md) spell). Whenever a creature with an Intelligence of 3 or higher comes within 10 feet of one of these secret doors, the dragon becomes aware of that creature's presence and location. Each secret door radiates an aura of transmutation magic but is otherwise indistinguishable from solid stone.  
+- **Secret Doors.** Concealed passages connect a number of the tunnels and chambers of the lair. Their secret doors are magical in nature, with the stone at a passage junction reshaping itself at the dragon's command to open a passage or close it again (similar to the effect of a stone shape spell). Whenever a creature with an Intelligence of 3 or higher comes within 10 feet of one of these secret doors, the dragon becomes aware of that creature's presence and location. Each secret door radiates an aura of transmutation magic but is otherwise indistinguishable from solid stone.  
 - **Hoard Chamber.** At the bottom of the underground map, a chamber hidden beyond two secret passages and carved out beneath a low hill contains the bulk of the dragon's hoard. The dragon often sleeps in the adjoining chamber, acting as a final line of defense against intruders.  
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md)) copper dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) copper dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Laughing Gas.** The dragon chooses a point on the ground that it can see within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered on that point. Each creature in that area that fails a DC 15 Wisdom saving throw is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) with laughter until the end of its next turn.  
+- **Laughing Gas.** The dragon chooses a point on the ground that it can see within 120 feet of it. A cloud of pink gas fills a 20-foot-radius sphere centered on that point. Each creature in that area that fails a DC 15 Wisdom saving throw is incapacitated with laughter until the end of its next turn.  
 - **Torpid Energy.** The dragon chooses a creature it can see within 120 feet of it. If the target fails a DC 15 Constitution saving throw, its speed is halved, and it can't use reactions or bonus actions until the end of its next turn.  
 
 #### Regional Effects
@@ -598,7 +598,7 @@ Copper dragons love burnished metals, particularly those with red and yellow ton
 
 Copper dragons also collect trophies and keepsakes of their best tricks and triumphs. These range from the crowns, armor, and weapons of long-dead foes to portraits, personal items, and oddities such as a single ancient coin or an arcane clockwork.
 
-![Copper Dragon Treasures; Copper Dragon Art Objects](/3-Mechanics/CLI/tables/copper-dragon-treasures-copper-dragon-art-objects-ftd.md)
+![Copper Dragon Treasures; Copper Dragon Art Objects](3-Mechanics/CLI/tables/copper-dragon-treasures-copper-dragon-art-objects-ftd.md)
 
 ## Crystal Dragons
 
@@ -612,34 +612,34 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to inspire your portrayal of distinctive crystal dragon characters.
 
-![Creating a Crystal Dragon; Crystal Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd.md)
+![Creating a Crystal Dragon; Crystal Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd.md)
 
-![Creating a Crystal Dragon; Crystal Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-crystal-dragon-crystal-dragon-ideals-ftd.md)
+![Creating a Crystal Dragon; Crystal Dragon Ideals](3-Mechanics/CLI/tables/creating-a-crystal-dragon-crystal-dragon-ideals-ftd.md)
 
 ### Crystal Dragon Adventures
 
 The Crystal Dragon Adventure Hooks table offers suggestions for stories and adventures involving crystal dragons.
 
-![Crystal Dragon Adventures; Crystal Dragon Adventure Hooks](/3-Mechanics/CLI/tables/crystal-dragon-adventures-crystal-dragon-adventure-hooks-ftd.md)
+![Crystal Dragon Adventures; Crystal Dragon Adventure Hooks](3-Mechanics/CLI/tables/crystal-dragon-adventures-crystal-dragon-adventure-hooks-ftd.md)
+
+> [!note] Saryndalaghlothtor
+> 
+> The [adult crystal dragon](3-Mechanics/CLI/bestiary/dragon/adult-crystal-dragon-ftd.md) Saryndalaghlothtor is known as "Lady Gemcloak" and sometimes "the Axemother," thanks to her association with a dwarf clan dwelling in the northern part of Faerûn. She lives closer to civilization than crystal dragons typically do, which delights her because of the close friendships she has formed, but also annoys her as she is forced to deal with hostile fools who mistake her for an evil white dragon.
+> 
+> Having earned the enmity of the ancient red dragon Klauth, Lady Gemcloak is exploring the possibility of establishing close ties between her dwarf allies and a group of azers on the Elemental Plane of Fire. In the meantime, she's trying to protect her dwarf allies from the schemes of a hostile mining cartel.
+^saryndalaghlothtor
 
 #### Connected Creatures
 
 Crystal dragons are among the most social and hospitable of dragons. They are equal parts mysterious, contemplative, and mischievous, making it difficult to know what to expect of them.
 
-> [!note] Saryndalaghlothtor
-> 
-> The [adult crystal dragon](/3-Mechanics/CLI/bestiary/dragon/adult-crystal-dragon-ftd.md) Saryndalaghlothtor is known as "Lady Gemcloak" and sometimes "the Axemother," thanks to her association with a dwarf clan dwelling in the northern part of Faerûn. She lives closer to civilization than crystal dragons typically do, which delights her because of the close friendships she has formed, but also annoys her as she is forced to deal with hostile fools who mistake her for an evil white dragon.
-> 
-> Having earned the enmity of the ancient red dragon Klauth, Lady Gemcloak is exploring the possibility of establishing close ties between her dwarf allies and a group of [azers](/3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) on the Elemental Plane of Fire. In the meantime, she's trying to protect her dwarf allies from the schemes of a hostile mining cartel.
-^saryndalaghlothtor
+![Connected Creatures; Crystal Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-crystal-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Crystal Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-crystal-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Young Crystal Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-crystal-dragon-connections-ftd.md)
 
-![Connected Creatures; Young Crystal Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-crystal-dragon-connections-ftd.md)
+![Connected Creatures; Adult Crystal Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-crystal-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Crystal Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-crystal-dragon-connections-ftd.md)
-
-![Connected Creatures; Ancient Crystal Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-crystal-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Crystal Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-crystal-dragon-connections-ftd.md)
 
 ### Crystal Dragon Lairs
 
@@ -648,8 +648,8 @@ Crystal dragons seek out frigid, picturesque locations with clear views of the s
 Crystal dragons' lairs are often found in polar expanses, dizzying mountain peaks, and glacial floes. Some resemble icy palaces, with numerous balconies offering plentiful opportunities for sky gazing. Though ice and snow are the most common materials they use in the construction of a lair, crystal and other precious minerals feature prominently in certain areas. In this way, crystal dragons' hoards literally become the fabric of their homes.
 
 > [!gallery]
-> ![Map 5.7: crystal dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp#gallery)
+> ![Map 5.7: crystal dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/054-map-5-7-crystal-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/055-map-5-7-crystal-dragon-lair-player.webp#gallery)
 
 #### Crystal Dragon Lair Features
 
@@ -670,7 +670,7 @@ Crystal dragons covet bright, opulent objects; baubles and trinkets that remind 
 
 Crystal dragons enhance the natural beauty of their lairs with the treasures they collect, always trying to display those items they consider most precious in a tasteful and interesting way and recounting their elaborate histories to visitors whenever possible. Indeed, crystal dragons also see amassing such wonderful hoards as a way to attract new friends to the remote locations they inhabit.
 
-![Crystal Dragon Treasures; Crystal Dragon Art Objects](/3-Mechanics/CLI/tables/crystal-dragon-treasures-crystal-dragon-art-objects-ftd.md)
+![Crystal Dragon Treasures; Crystal Dragon Art Objects](3-Mechanics/CLI/tables/crystal-dragon-treasures-crystal-dragon-art-objects-ftd.md)
 
 ## Deep Dragons
 
@@ -684,29 +684,29 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Deep Dragon Personality Traits and Deep Dragon Ideals tables to inspire your portrayal of distinctive deep dragon characters, and use the Deep Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Deep Dragon; Deep Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-deep-dragon-deep-dragon-personality-traits-ftd.md)
+![Creating a Deep Dragon; Deep Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-deep-dragon-deep-dragon-personality-traits-ftd.md)
 
-![Creating a Deep Dragon; Deep Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-deep-dragon-deep-dragon-ideals-ftd.md)
+![Creating a Deep Dragon; Deep Dragon Ideals](3-Mechanics/CLI/tables/creating-a-deep-dragon-deep-dragon-ideals-ftd.md)
 
-![Creating a Deep Dragon; Deep Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-deep-dragon-deep-dragon-spellcasting-ftd.md)
+![Creating a Deep Dragon; Deep Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-deep-dragon-deep-dragon-spellcasting-ftd.md)
 
 ### Deep Dragon Adventures
 
 The Deep Dragon Adventure Hooks table offers suggestions for stories and adventures involving deep dragons.
 
-![Deep Dragon Adventures; Deep Dragon Adventure Hooks](/3-Mechanics/CLI/tables/deep-dragon-adventures-deep-dragon-adventure-hooks-ftd.md)
+![Deep Dragon Adventures; Deep Dragon Adventure Hooks](3-Mechanics/CLI/tables/deep-dragon-adventures-deep-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Deep dragons appreciate the company of other dragons. Although they view most other species as inferior to dragonkind, having worth only as servants or tools, the rare individuals who impress them can sometimes earn respect as partners—albeit junior ones.
 
-![Connected Creatures; Deep Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-deep-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Deep Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-deep-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Deep Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-deep-dragon-connections-ftd.md)
+![Connected Creatures; Young Deep Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-deep-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Deep Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-deep-dragon-connections-ftd.md)
+![Connected Creatures; Adult Deep Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-deep-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Deep Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-deep-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Deep Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-deep-dragon-connections-ftd.md)
 
 ### Deep Dragon Lairs
 
@@ -730,7 +730,7 @@ Deep dragons adore goods from distant lands, especially if those goods are uniqu
 
 It is rare to find a deep dragon hoard that is simply a pile of gems and treasures, for these creatures take great pride in organizing and displaying their possessions. They can easily spend multiple days guiding visitors from prize to prize, telling stories about favorite keepsakes—and when deep dragons visit each other, these tours can stretch out for days.
 
-![Deep Dragon Treasures; Deep Dragon Art Objects](/3-Mechanics/CLI/tables/deep-dragon-treasures-deep-dragon-art-objects-ftd.md)
+![Deep Dragon Treasures; Deep Dragon Art Objects](3-Mechanics/CLI/tables/deep-dragon-treasures-deep-dragon-art-objects-ftd.md)
 
 ## Dragon Turtles
 
@@ -738,37 +738,37 @@ It is rare to find a deep dragon hoard that is simply a pile of gems and treasur
 > 
 > I know I didn't make dragon turtles, and Tiamat swears she didn't, so where did they come from? More importantly, why?
 
-Use the tables and other information in this section to craft unique encounters with dragon turtles. "Chapter 6" features stat blocks for [dragon turtle wyrmlings](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-wyrmling-ftd.md), [young dragon turtles](/3-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md), and [ancient dragon turtles](/3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md). The [dragon turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) in the "Monster Manual" is an adult.
+Use the tables and other information in this section to craft unique encounters with dragon turtles. "Chapter 6" features stat blocks for [dragon turtle wyrmlings](3-Mechanics/CLI/bestiary/dragon/dragon-turtle-wyrmling-ftd.md), [young dragon turtles](3-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md), and [ancient dragon turtles](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md). The dragon turtle in the "Monster Manual" is an adult.
 
 ### Creating a Dragon Turtle
 
 Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to inspire your portrayal of distinctive dragon turtle characters, and use the Dragon Turtle Spellcasting table to help select spells for a spellcasting dragon. (Though the "Monster Manual" doesn't explicitly include dragon turtles in the variant rules for making a dragon a spellcaster, you can apply those rules to these aquatic dragons.)
 
-![Creating a Dragon Turtle; Dragon Turtle Personality Traits](/3-Mechanics/CLI/tables/creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd.md)
+![Creating a Dragon Turtle; Dragon Turtle Personality Traits](3-Mechanics/CLI/tables/creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd.md)
 
-![Creating a Dragon Turtle; Dragon Turtle Ideals](/3-Mechanics/CLI/tables/creating-a-dragon-turtle-dragon-turtle-ideals-ftd.md)
+![Creating a Dragon Turtle; Dragon Turtle Ideals](3-Mechanics/CLI/tables/creating-a-dragon-turtle-dragon-turtle-ideals-ftd.md)
 
-![Creating a Dragon Turtle; Dragon Turtle Spellcasting](/3-Mechanics/CLI/tables/creating-a-dragon-turtle-dragon-turtle-spellcasting-ftd.md)
+![Creating a Dragon Turtle; Dragon Turtle Spellcasting](3-Mechanics/CLI/tables/creating-a-dragon-turtle-dragon-turtle-spellcasting-ftd.md)
 
 ### Dragon Turtle Adventures
 
 The Dragon Turtle Adventure Hooks table offers suggestions for stories and adventures involving dragon turtles.
 
-![Dragon Turtle Adventures; Dragon Turtle Adventure Hooks](/3-Mechanics/CLI/tables/dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd.md)
+![Dragon Turtle Adventures; Dragon Turtle Adventure Hooks](3-Mechanics/CLI/tables/dragon-turtle-adventures-dragon-turtle-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Dragon turtles are stolid and slow to anger. This temperament, combined with their disinterest in moral quandaries, allows them to get along with—or at least abide—most creatures they encounter. They frequently enter symbiotic relationships with other sea creatures that can bring them food or treasure, and they sometimes agree to work for creatures who ply them with generous sums of wealth.
 
-![Connected Creatures; Dragon Turtle Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-dragon-turtle-wyrmling-connections-ftd.md)
+![Connected Creatures; Dragon Turtle Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-dragon-turtle-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Dragon Turtle Connections](/3-Mechanics/CLI/tables/connected-creatures-young-dragon-turtle-connections-ftd.md)
+![Connected Creatures; Young Dragon Turtle Connections](3-Mechanics/CLI/tables/connected-creatures-young-dragon-turtle-connections-ftd.md)
 
-![Connected Creatures; Adult Dragon Turtle Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-dragon-turtle-connections-ftd.md)
+![Connected Creatures; Adult Dragon Turtle Connections](3-Mechanics/CLI/tables/connected-creatures-adult-dragon-turtle-connections-ftd.md)
 
-![Connected Creatures; Ancient Dragon Turtle Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-dragon-turtle-connections-ftd.md)
+![Connected Creatures; Ancient Dragon Turtle Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-dragon-turtle-connections-ftd.md)
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/056-05-004.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/056-05-004.webp#center)
 
 ### Dragon Turtle Lairs
 
@@ -789,11 +789,11 @@ As an example, "map 5.14" depicts a topaz dragon's lair in a seaside cavern, but
 
 #### Lair Actions
 
-As they are presented in the "Monster Manual", dragon turtles don't have access to lair actions while in their lairs. At your discretion, you can give an [adult](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) or [ancient dragon turtle](/3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md) access to lair actions, increasing its challenge rating by 1. On initiative count 20 (losing initiative ties), the dragon turtle can take one of the following lair actions; the dragon turtle can't take the same lair action two rounds in a row:
+As they are presented in the "Monster Manual", dragon turtles don't have access to lair actions while in their lairs. At your discretion, you can give an adult or [ancient dragon turtle](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md) access to lair actions, increasing its challenge rating by 1. On initiative count 20 (losing initiative ties), the dragon turtle can take one of the following lair actions; the dragon turtle can't take the same lair action two rounds in a row:
 
 - **Blasting Current.** A strong water current moves through the dragon turtle's lair. Each creature within 30 feet of the dragon turtle must succeed on a DC 15 Strength saving throw or be moved 30 feet in a direction of the dragon turtle's choice. On a success, the creature is moved 10 feet instead.  
-- **Entangling Kelp.** Strands of spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered on a point in the lair that the dragon turtle can see. Each creature in that area must succeed on a DC 15 Strength saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until the end of its next turn.  
-- **Steam Eruption.** Steam erupts in a 15-foot cone from a point on the ground the dragon turtle can see within 120 feet of it. Each creature in that area must make a DC 15 Constitution saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant creatures resistance to this damage.  
+- **Entangling Kelp.** Strands of spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered on a point in the lair that the dragon turtle can see. Each creature in that area must succeed on a DC 15 Strength saving throw or be restrained until the end of its next turn.  
+- **Steam Eruption.** Steam erupts in a 15-foot cone from a point on the ground the dragon turtle can see within 120 feet of it. Each creature in that area must make a DC 15 Constitution saving throw, taking 21 (`6d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant creatures resistance to this damage.  
 
 #### Regional Effects
 
@@ -803,11 +803,11 @@ The region containing a dragon turtle's lair can be transformed by its presence,
 - **Elemental Portals.** Crevasses on the ocean floor within 1 mile of the dragon turtle's lair form two-way portals to the Elemental Plane of Water, allowing creatures of elemental water into the world to dwell nearby.  
 - **Hot Water.** Geothermal vents heat the water within 6 miles of the dragon turtle's lair to 100 degrees Fahrenheit.  
 
-If the dragon turtle dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the dragon turtle dies, these effects fade over the course of `1d10` days.
 
 > [!note] Aremag
 > 
-> Aremag is an [adult dragon turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md) who lays claim to the southern reaches of the Sea of Swords in Faerûn, extracting tribute from all who enter or leave the Bay of Chult. Traders often carry chests of treasure on board expressly for this purpose—pirates are more likely to offer captives, launched out in a skiff to feed the dragon turtle's voracious appetite.
+> Aremag is an adult dragon turtle who lays claim to the southern reaches of the Sea of Swords in Faerûn, extracting tribute from all who enter or leave the Bay of Chult. Traders often carry chests of treasure on board expressly for this purpose—pirates are more likely to offer captives, launched out in a skiff to feed the dragon turtle's voracious appetite.
 > 
 > Aremag's predation has occasionally provoked reprisal from Chult's inhabitants, as attested to by his milky-white left eye and missing patch of shell. However, rather than humbling the great dragon turtle, these injuries have made him more irascible. Those who meet the dragon turtle are advised to pay whatever price he asks, and to treat him with the deference he believes he deserves.
 ^aremag
@@ -818,7 +818,7 @@ Dragon turtle hoards frequently contain quantities of coral and pearls received 
 
 More so than for most dragons, a dragon turtle's hoard is likely to contain a motley assortment of treasures from disparate locales. Although many dragon turtles simply lump the elements of their hoard together into a nest, more inquisitive individuals take an interest in specific treasures, sometimes seeking out surface-world folk to inquire about an object's function or provenance.
 
-![Dragon Turtle Treasures; Dragon Turtle Art Objects](/3-Mechanics/CLI/tables/dragon-turtle-treasures-dragon-turtle-art-objects-ftd.md)
+![Dragon Turtle Treasures; Dragon Turtle Art Objects](3-Mechanics/CLI/tables/dragon-turtle-treasures-dragon-turtle-art-objects-ftd.md)
 
 ## Emerald Dragons
 
@@ -832,31 +832,31 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to inspire your portrayal of distinctive emerald dragon characters.
 
-![Creating an Emerald Dragon; Emerald Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-an-emerald-dragon-emerald-dragon-personality-traits-ftd.md)
+![Creating an Emerald Dragon; Emerald Dragon Personality Traits](3-Mechanics/CLI/tables/creating-an-emerald-dragon-emerald-dragon-personality-traits-ftd.md)
 
-![Creating an Emerald Dragon; Emerald Dragon Ideals](/3-Mechanics/CLI/tables/creating-an-emerald-dragon-emerald-dragon-ideals-ftd.md)
+![Creating an Emerald Dragon; Emerald Dragon Ideals](3-Mechanics/CLI/tables/creating-an-emerald-dragon-emerald-dragon-ideals-ftd.md)
 
 ### Emerald Dragon Adventures
 
 The Emerald Dragon Adventure Hooks table offers suggestions for stories and adventures involving emerald dragons.
 
-![Emerald Dragon Adventures; Emerald Dragon Adventure Hooks](/3-Mechanics/CLI/tables/emerald-dragon-adventures-emerald-dragon-adventure-hooks-ftd.md)
+![Emerald Dragon Adventures; Emerald Dragon Adventure Hooks](3-Mechanics/CLI/tables/emerald-dragon-adventures-emerald-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Emerald dragons generally go out of their way to avoid interacting with other intelligent creatures. However, their interest in history and culture occasionally gets the better of them, prompting them to seek some engagement with the folk of the world.
 
-![Connected Creatures; Emerald Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-emerald-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Emerald Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-emerald-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Emerald Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-emerald-dragon-connections-ftd.md)
+![Connected Creatures; Young Emerald Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-emerald-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Emerald Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-emerald-dragon-connections-ftd.md)
+![Connected Creatures; Adult Emerald Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-emerald-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Emerald Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-emerald-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Emerald Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-emerald-dragon-connections-ftd.md)
 
 > [!note] Raulothim
 > 
-> Raulothim is an [ancient emerald dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-emerald-dragon-ftd.md) who dwells in an extinct volcano known as the Pit of Stars, on the northernmost isle of Ruathym off the Sword Coast of Faerûn. Though most emerald dragons are paranoid by nature, Raulothim became especially so after having witnessed the arrival of planar travelers in Faerûn. Fearing that an invasion of his world by interplanar armies was inevitable, he has spent the past century collecting magic items that he hopes will enable him to survive the coming conflict.
+> Raulothim is an [ancient emerald dragon](3-Mechanics/CLI/bestiary/dragon/ancient-emerald-dragon-ftd.md) who dwells in an extinct volcano known as the Pit of Stars, on the northernmost isle of Ruathym off the Sword Coast of Faerûn. Though most emerald dragons are paranoid by nature, Raulothim became especially so after having witnessed the arrival of planar travelers in Faerûn. Fearing that an invasion of his world by interplanar armies was inevitable, he has spent the past century collecting magic items that he hopes will enable him to survive the coming conflict.
 > 
 > Raulothim's drive to amass magic and his innate mistrust of anyone powerful enough to potentially threaten him make the dragon a dangerous adversary. However, he knows the surest way of safeguarding Faerûn against planar invaders is to keep a careful watch on all planar portals—and that to do so, he must rely on allies. Raulothim is therefore open to negotiating with adventurers willing to aid in that task—but only those he is sure he can trust. On more than one occasion, doubt has gnawed at Raulothim's mind, prompting him to preemptively strike against a previously trusted ally.
 ^raulothim
@@ -868,8 +868,8 @@ Emerald dragons make their lairs in caves and subterranean ruins, favoring locat
 An emerald dragon's lair is a maze of twisting tunnels, interconnected caverns, or crumbling ruins designed to disorient intruders. Circuitous routes within the lair provide the dragon with numerous ways to evade pursuit, while strategically designed choke points allow them to harry enemies with repeated ambushes. Emerald dragons frequently lay traps and alarms at the entrance points to their lairs, with older (and more paranoid) dragons employing several layers of such defenses.
 
 > [!gallery]
-> ![Map 5.8: emerald dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/065-map-5-8-emerald-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/066-map-5-8-emerald-dragon-lair-player.webp#gallery)
+> ![Map 5.8: emerald dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/065-map-5-8-emerald-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/066-map-5-8-emerald-dragon-lair-player.webp#gallery)
 
 #### Emerald Dragon Lair Features
 
@@ -882,7 +882,7 @@ The lair has the following features:
 - **Treasury.** The dragon stores the finest treasures in a smaller chamber just above the great hall on the map.  
 - **Watery Caves.** Near the bottom portion of the map, the vaults give way to natural stone caves; these caves slope down to a subterranean pool that connects to the caldera lake via an underwater channel. When the volcano is active, the waters here bubble up into the caves before draining down nearby lava tubes. During especially active periods, the waters surge up into the nearest halls and corridors before draining away.  
 - **Underwater Cache.** The dragon stashes gold and gems in an underwater cave (at the bottom of the map), the entrance to which lies 40 feet below the surface of the subterranean pool.  
-- **Hatchery.** The dragon has lovingly arranged the three small chambers in the top left of the map, farthest from the pools, as a hatchery. Visitors might discover an egg or an [emerald dragon wyrmling](/3-Mechanics/CLI/bestiary/dragon/emerald-dragon-wyrmling-ftd.md) in one of the chambers.  
+- **Hatchery.** The dragon has lovingly arranged the three small chambers in the top left of the map, farthest from the pools, as a hatchery. Visitors might discover an egg or an [emerald dragon wyrmling](3-Mechanics/CLI/bestiary/dragon/emerald-dragon-wyrmling-ftd.md) in one of the chambers.  
 - **Preserved Vaults.** The dragon has left most of the remaining areas of the vaults as they were when their creators abandoned them, taking great interest in the artifacts and architecture they left behind. Visitors who manage to convince the dragon they are not a threat are treated to a tour of the vaults, with the dragon acting like the curator of a museum.  
 
 ### Emerald Dragon Treasures
@@ -891,7 +891,7 @@ Emerald dragons are unusual among gem dragons in their preference for coinage ov
 
 Emerald dragons also prize cultural artifacts, especially relics with historical significance. They place great importance on an item's provenance, which can make it difficult to gauge how they might value any particular object. Despite remaining unmoved by the loss of a gold scepter deemed to be a replica, an emerald dragon might become enraged at the theft of a clay mug known to have been used by a legendary dwarf warlord while on campaign.
 
-![Emerald Dragon Treasures; Emerald Dragon Art Objects](/3-Mechanics/CLI/tables/emerald-dragon-treasures-emerald-dragon-art-objects-ftd.md)
+![Emerald Dragon Treasures; Emerald Dragon Art Objects](3-Mechanics/CLI/tables/emerald-dragon-treasures-emerald-dragon-art-objects-ftd.md)
 
 ## Faerie Dragons
 
@@ -905,21 +905,21 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Faerie Dragon Personality Traits and Faerie Dragon Ideals tables to inspire your portrayal of distinctive faerie dragon characters.
 
-![Creating a Faerie Dragon; Faerie Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd.md)
+![Creating a Faerie Dragon; Faerie Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-faerie-dragon-faerie-dragon-personality-traits-ftd.md)
 
-![Creating a Faerie Dragon; Faerie Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-faerie-dragon-faerie-dragon-ideals-ftd.md)
+![Creating a Faerie Dragon; Faerie Dragon Ideals](3-Mechanics/CLI/tables/creating-a-faerie-dragon-faerie-dragon-ideals-ftd.md)
 
 ### Faerie Dragon Adventures
 
 The Faerie Dragon Adventure Hooks table offers suggestions for stories and adventures involving faerie dragons.
 
-![Faerie Dragon Adventures; Faerie Dragon Adventure Hooks](/3-Mechanics/CLI/tables/faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd.md)
+![Faerie Dragon Adventures; Faerie Dragon Adventure Hooks](3-Mechanics/CLI/tables/faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 As is suggested by their name and nature, faerie dragons tend to prefer the company of Fey, as well as wild animals and any chaotic creatures who can appreciate faerie dragons' madcap sense of humor. At the same time, faerie dragons' limited attention spans often leave them starved for novelty, and nearly any creature can attract their interest—at least temporarily.
 
-![Connected Creatures; Faerie Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-faerie-dragon-connections-ftd.md)
+![Connected Creatures; Faerie Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-faerie-dragon-connections-ftd.md)
 
 ### Faerie Dragon Lairs
 
@@ -939,7 +939,7 @@ An example complex faerie dragon lair is built around several hollowed-out chamb
 
 #### Lair Actions
 
-As they are presented in the "Monster Manual", faerie dragons don't have access to lair actions while in their lairs. At your discretion, a green or [older faerie dragon](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) can take one of the following lair actions on initiative count 20 (losing initiative ties):
+As they are presented in the "Monster Manual", faerie dragons don't have access to lair actions while in their lairs. At your discretion, a green or older faerie dragon can take one of the following lair actions on initiative count 20 (losing initiative ties):
 
 - **Chaotic Aura.** The faerie dragon creates misdirecting currents of air and magic around itself. Until initiative count 20 on the next round, whenever a ranged attack roll misses the dragon, reroll the attack against a random creature within 30 feet of the dragon that doesn't have total cover against the attack.  
 - **Grasping Plants.** The faerie dragon causes roots and vines to temporarily grow around it; until initiative count 20 on the next round, the ground within 20 feet of the dragon is "difficult terrain".  
@@ -948,19 +948,19 @@ As they are presented in the "Monster Manual", faerie dragons don't have access 
 
 The region containing a faerie dragon's lair can be transformed by its presence, creating one or more of the following effects:
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/067-05-005.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/067-05-005.webp#center)
 
 - **Compulsory Offering.** The first time a creature comes within 1 mile of the faerie dragon's lair, the creature must succeed on a DC 15 Wisdom saving throw or feel an overwhelming compulsion to leave an offering worth at least 5 gp stashed in an out-of-the-way place. The dragon immediately senses the location of this gift. A creature can be affected only once by this compulsion.  
 - **Malleable Time.** Time is fluid within 1 mile of the faerie dragon's lair, flowing somewhere between half and twice its normal speed.  
 - **Mischief Afoot.** Sapient creatures that spend a year within 5 miles of the faerie dragon's lair feel the persistent urge to play pranks on others.  
 
-If the faerie dragon dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the faerie dragon dies, these effects fade over the course of `1d10` days.
 
 ### Faerie Dragon Treasures
 
 Faerie dragons covet treasure as much as their larger draconic kin, but they are significantly less discerning. Faerie dragons' hoards are thus often a mix of genuine wealth and intriguing trash, with the dragons paying more attention to the wild stories they concoct around each item than the items' actual monetary value. These tiny egomaniacs can often be bribed with cheap but sufficiently respectful tributes of food and shiny trinkets, though their tendency to "borrow" any random object that catches their eye means a faerie dragon nest might also contain items of surprising value—often without the dragon realizing it.
 
-![Faerie Dragon Treasures; Faerie Dragon Art Objects](/3-Mechanics/CLI/tables/faerie-dragon-treasures-faerie-dragon-art-objects-ftd.md)
+![Faerie Dragon Treasures; Faerie Dragon Art Objects](3-Mechanics/CLI/tables/faerie-dragon-treasures-faerie-dragon-art-objects-ftd.md)
 
 > [!note] Nathair Sgiathach
 > 
@@ -979,39 +979,39 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Gold Dragon Personality Traits and Gold Dragon Ideals tables to inspire your portrayal of distinctive gold dragon characters, and use the Gold Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Gold Dragon; Gold Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-gold-dragon-gold-dragon-personality-traits-ftd.md)
+![Creating a Gold Dragon; Gold Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-gold-dragon-gold-dragon-personality-traits-ftd.md)
 
-![Creating a Gold Dragon; Gold Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-gold-dragon-gold-dragon-ideals-ftd.md)
+![Creating a Gold Dragon; Gold Dragon Ideals](3-Mechanics/CLI/tables/creating-a-gold-dragon-gold-dragon-ideals-ftd.md)
 
-![Creating a Gold Dragon; Gold Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-gold-dragon-gold-dragon-spellcasting-ftd.md)
+![Creating a Gold Dragon; Gold Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-gold-dragon-gold-dragon-spellcasting-ftd.md)
 
 ### Gold Dragon Adventures
 
 The Gold Dragon Adventure Hooks table offers suggestions for stories and adventures involving gold dragons.
 
-![Gold Dragon Adventures; Gold Dragon Adventure Hooks](/3-Mechanics/CLI/tables/gold-dragon-adventures-gold-dragon-adventure-hooks-ftd.md)
+![Gold Dragon Adventures; Gold Dragon Adventure Hooks](3-Mechanics/CLI/tables/gold-dragon-adventures-gold-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Gold dragons tend to hold themselves apart from the worlds they watch over, favoring isolation and trusting only a few close allies and guardians. When they do walk among other creatures, they prefer to do so in disguise, relishing the opportunity to see the world through different eyes.
 
-![Connected Creatures; Gold Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-gold-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Gold Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-gold-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Gold Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-gold-dragon-connections-ftd.md)
+![Connected Creatures; Young Gold Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-gold-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Gold Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-gold-dragon-connections-ftd.md)
+![Connected Creatures; Adult Gold Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-gold-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Gold Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-gold-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Gold Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-gold-dragon-connections-ftd.md)
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/068-05-006.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/068-05-006.webp#center)
 
 ### Gold Dragon Lairs
 
 Despite their affection for people and their diverse cultures, gold dragons typically make their lairs in hidden places far from civilization, where only the most desperate and dedicated can find them. Many live in the ruins of vanished cultures, appreciating the beautiful inevitability of entropy and the reminder of how easily progress can be lost without careful tending. Crumbling shrines, towers reclaimed by the wilderness, and fallen fortresses all appeal to a gold dragon's sense of history—though they can be equally enraptured by picturesque natural settings. A gold dragon lair almost always involves water, be it a river, a lake, or an ocean shore.
 
 > [!gallery]
-> ![Map 5.9: gold dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/069-map-5-9-gold-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/070-map-5-9-gold-dragon-lair-player.webp#gallery)
+> ![Map 5.9: gold dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/069-map-5-9-gold-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/070-map-5-9-gold-dragon-lair-player.webp#gallery)
 
 #### Gold Dragon Lair Features
 
@@ -1024,7 +1024,7 @@ The gold dragon lair shown in map 5.9 occupies a misty river gorge and has the f
 > 
 > As the King of Justice, Tamarand is the nominal ruler of gold dragons throughout Faerûn. Other gold dragons seek out his wisdom before embarking on their own quests, to ensure they aren't overlooking any hidden consequences.
 > 
-> Tamarand is thoughtful, decisive, and surprisingly friendly toward non-dragons. He has strong bonds with the [storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) of the Galena Mountains and is a dedicated scholar of Humanoid cultures, having seen firsthand just how powerful such creatures can be when properly organized. After narrowly escaping assassination by dragon hunters in his former lair near Bloodstone Pass, Tamarand currently resides in the Vaasan wilderness and keeps his exact location a closely guarded secret.
+> Tamarand is thoughtful, decisive, and surprisingly friendly toward non-dragons. He has strong bonds with the storm giants of the Galena Mountains and is a dedicated scholar of Humanoid cultures, having seen firsthand just how powerful such creatures can be when properly organized. After narrowly escaping assassination by dragon hunters in his former lair near Bloodstone Pass, Tamarand currently resides in the Vaasan wilderness and keeps his exact location a closely guarded secret.
 ^tamarand
 
 ##### Gallery
@@ -1040,9 +1040,9 @@ A passageway running left from the grand hall is lined with busts of allies and 
 
 #### Additional Lair Action
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)) gold dragon can use the following additional lair action while in its lair:
+At your discretion, a legendary (adult or ancient) gold dragon can use the following additional lair action while in its lair:
 
-- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
+- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be charmed by the dragon until initiative count 20 on the next round.  
 
 #### Regional Effects
 
@@ -1058,7 +1058,7 @@ Gold dragons consider gems and pearls culinary delicacies, and they often have a
 
 Gold dragons also collect trophies marking important events and successes in their lives. But unlike many other dragons, they are just as likely to prize mementos of their defeats and mistakes, believing that such reminders are inherently instructive. Like bronze dragons, gold dragons often guard particularly dangerous artifacts as a form of public service, and thus prize clever magical or mundane defenses to keep their lairs safe and hidden.
 
-![Gold Dragon Treasures; Gold Dragon Art Objects](/3-Mechanics/CLI/tables/gold-dragon-treasures-gold-dragon-art-objects-ftd.md)
+![Gold Dragon Treasures; Gold Dragon Art Objects](3-Mechanics/CLI/tables/gold-dragon-treasures-gold-dragon-art-objects-ftd.md)
 
 ## Green Dragons
 
@@ -1072,29 +1072,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Green Dragon Personality Traits and Green Dragon Ideals tables to inspire your portrayal of distinctive green dragon characters, and use the Green Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Green Dragon; Green Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-green-dragon-green-dragon-personality-traits-ftd.md)
+![Creating a Green Dragon; Green Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-green-dragon-green-dragon-personality-traits-ftd.md)
 
-![Creating a Green Dragon; Green Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-green-dragon-green-dragon-ideals-ftd.md)
+![Creating a Green Dragon; Green Dragon Ideals](3-Mechanics/CLI/tables/creating-a-green-dragon-green-dragon-ideals-ftd.md)
 
-![Creating a Green Dragon; Green Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-green-dragon-green-dragon-spellcasting-ftd.md)
+![Creating a Green Dragon; Green Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-green-dragon-green-dragon-spellcasting-ftd.md)
 
 ### Green Dragon Adventures
 
 The Green Dragon Adventure Hooks table offers suggestions for stories and adventures involving green dragons.
 
-![Green Dragon Adventures; Green Dragon Adventure Hooks](/3-Mechanics/CLI/tables/green-dragon-adventures-green-dragon-adventure-hooks-ftd.md)
+![Green Dragon Adventures; Green Dragon Adventure Hooks](3-Mechanics/CLI/tables/green-dragon-adventures-green-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Green dragons see other living beings as objects to subjugate, torment, or eat. Solitary by nature, they seldom tolerate the presence of other creatures unless their presence serves a purpose.
 
-![Connected Creatures; Green Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-green-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Green Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-green-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Green Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-green-dragon-connections-ftd.md)
+![Connected Creatures; Young Green Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-green-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Green Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-green-dragon-connections-ftd.md)
+![Connected Creatures; Adult Green Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-green-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Green Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-green-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Green Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-green-dragon-connections-ftd.md)
 
 ### Green Dragon Lairs
 
@@ -1103,8 +1103,8 @@ Green dragons prefer making their lairs in verdant places—jungles, bayous, pin
 Green dragons take great interest in woodland settlements when seeking lair sites. Though they are fully capable of modifying forests to their own liking, they find it easier and vastly more entertaining to take something belonging to smaller and weaker beings.
 
 > [!gallery]
-> ![Map 5.10: green dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/071-map-5-10-green-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/072-map-5-10-green-dragon-lair-player.webp#gallery)
+> ![Map 5.10: green dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/071-map-5-10-green-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/072-map-5-10-green-dragon-lair-player.webp#gallery)
 
 #### Green Dragon Lair Features
 
@@ -1118,10 +1118,10 @@ The lair has the following features:
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md)) green dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) (see their entry in the "Monster Manual"). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
-- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become zombies (see their entry in the "Monster Manual"). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.  
 
 #### Regional Effects
 
@@ -1130,7 +1130,7 @@ Either or both of these effects might appear in the area around a green dragon's
 - **Inviting Whispers.** Whispers rustle in the foliage within 1 mile of the dragon's lair. The words are indistinct, but a creature with an Intelligence score of 5 or higher interprets them as an invitation to move deeper into the greenery.  
 - **Twisted Messengers.** The dragon can cause any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily warp into a twisted version of the dragon's own in order to allow the dragon's voice to issue forth.  
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/073-05-007.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/073-05-007.webp#center)
 
 ### Green Dragon Treasures
 
@@ -1138,13 +1138,13 @@ Green dragons relish gems and jewelry whose palettes reflect their chosen forest
 
 Unlike many of their kin, green dragons use the transformative power of nature to turn those valuables into truly unique treasures. By wrapping and threading treasures with rare vegetation and carefully applying their own skill as gardeners, green dragons meld nature and artifice into new masterpieces. This can lead to complications for would-be treasure hunters, as green dragons take enormous pride in their handiwork—so much so that intruders damaging the delicate arrangements of flower and vine that surround a treasure cache might come under attack before even touching any of the hoard's contents.
 
-![Green Dragon Treasures; Green Dragon Art Objects](/3-Mechanics/CLI/tables/green-dragon-treasures-green-dragon-art-objects-ftd.md)
+![Green Dragon Treasures; Green Dragon Art Objects](3-Mechanics/CLI/tables/green-dragon-treasures-green-dragon-art-objects-ftd.md)
 
 > [!note] Cyan Bloodbane
 > 
-> K'rshinthintl—commonly known as Cyan Bloodbane—is a deeply cunning [ancient green dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md) with an exacting sense of malice. He is a charismatic creature, but flattery is only one of his many weapons.
+> K'rshinthintl—commonly known as Cyan Bloodbane—is a deeply cunning ancient green dragon with an exacting sense of malice. He is a charismatic creature, but flattery is only one of his many weapons.
 > 
-> During the War of the Lance on the world of Krynn, Cyan Bloodbane used one of the [Orbs of Dragonkind](/3-Mechanics/CLI/items/orb-of-dragonkind-xdmg.md) to poison the mind of the elf king Lorac, causing the land of Silvanesti to become swallowed up in Lorac's nightmares. The green dragon has no particular loyalty to Tiamat or dedication to her cause; his actions are in his own best interests.
+> During the War of the Lance on the world of Krynn, Cyan Bloodbane used one of the Orbs of Dragonkind to poison the mind of the elf king Lorac, causing the land of Silvanesti to become swallowed up in Lorac's nightmares. The green dragon has no particular loyalty to Tiamat or dedication to her cause; his actions are in his own best interests.
 ^cyan-bloodbane
 
 ## Moonstone Dragons
@@ -1159,27 +1159,27 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Moonstone Dragon Personality Traits and Moonstone Dragon Ideals tables to inspire your portrayal of distinctive moonstone dragon characters.
 
-![Creating a Moonstone Dragon; Moonstone Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd.md)
+![Creating a Moonstone Dragon; Moonstone Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd.md)
 
-![Creating a Moonstone Dragon; Moonstone Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-moonstone-dragon-moonstone-dragon-ideals-ftd.md)
+![Creating a Moonstone Dragon; Moonstone Dragon Ideals](3-Mechanics/CLI/tables/creating-a-moonstone-dragon-moonstone-dragon-ideals-ftd.md)
 
 ### Moonstone Dragon Adventures
 
 The Moonstone Dragon Adventure Hooks table offers suggestions for stories and adventures involving moonstone dragons.
 
-![Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks](/3-Mechanics/CLI/tables/moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd.md)
+![Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks](3-Mechanics/CLI/tables/moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
-In the Feywild, moonstone dragons interact mostly with [pixies](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md), [sprites](/3-Mechanics/CLI/bestiary/fey/sprite-xmm.md), and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
+In the Feywild, moonstone dragons interact mostly with pixies, sprites, and other Fey creatures who revere and serve the dragon. Outside the Feywild, they often prefer to communicate with other creatures through dreams.
 
-![Connected Creatures; Moonstone Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-moonstone-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Moonstone Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-moonstone-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Moonstone Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-moonstone-dragon-connections-ftd.md)
+![Connected Creatures; Young Moonstone Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-moonstone-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Moonstone Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-moonstone-dragon-connections-ftd.md)
+![Connected Creatures; Adult Moonstone Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-moonstone-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Moonstone Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-moonstone-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Moonstone Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-moonstone-dragon-connections-ftd.md)
 
 ### Moonstone Dragon Lairs
 
@@ -1197,7 +1197,7 @@ Moonstone dragons prefer silver, platinum, and mithral to copper and gold, and w
 
 In addition to their strong preference for certain metals, many moonstone dragons seek out artworks and relics with unique, whimsical, or absurd designs. The more fanciful an item's form is, the better.
 
-![Moonstone Dragon Treasures; Moonstone Dragon Art Objects](/3-Mechanics/CLI/tables/moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd.md)
+![Moonstone Dragon Treasures; Moonstone Dragon Art Objects](3-Mechanics/CLI/tables/moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd.md)
 
 ## Red Dragons
 
@@ -1211,31 +1211,31 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Red Dragon Personality Traits and Red Dragon Ideals tables to inspire your portrayal of distinctive red dragon characters, and use the Red Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/074-05-008.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/074-05-008.webp#center)
 
-![Creating a Red Dragon; Red Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-personality-traits-ftd.md)
+![Creating a Red Dragon; Red Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-personality-traits-ftd.md)
 
-![Creating a Red Dragon; Red Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-ideals-ftd.md)
+![Creating a Red Dragon; Red Dragon Ideals](3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-ideals-ftd.md)
 
-![Creating a Red Dragon; Red Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-spellcasting-ftd.md)
+![Creating a Red Dragon; Red Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-red-dragon-red-dragon-spellcasting-ftd.md)
 
 ### Red Dragon Adventures
 
 The Red Dragon Adventure Hooks table offers suggestions for stories and adventures involving red dragons.
 
-![Red Dragon Adventures; Red Dragon Adventure Hooks](/3-Mechanics/CLI/tables/red-dragon-adventures-red-dragon-adventure-hooks-ftd.md)
+![Red Dragon Adventures; Red Dragon Adventure Hooks](3-Mechanics/CLI/tables/red-dragon-adventures-red-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Red dragons treat other creatures as potential servants or pawns, valuable only as long as they fulfill the dragon's needs. Many red dragons terrorize creatures into serving them—and sometimes into worshiping them as well. Others build up shadowy networks of manipulation and control, so many of their servants have no idea who the true ruler is.
 
-![Connected Creatures; Red Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-red-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Red Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-red-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Red Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-red-dragon-connections-ftd.md)
+![Connected Creatures; Young Red Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-red-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Red Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-red-dragon-connections-ftd.md)
+![Connected Creatures; Adult Red Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-red-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Red Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-red-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Red Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-red-dragon-connections-ftd.md)
 
 ### Red Dragon Lairs
 
@@ -1244,12 +1244,12 @@ Red dragons lair in mountain badlands and high, isolated peaks and hills, prefer
 Minions often attend red dragons in their lairs. These servants keep the place swept clean of refuse and watch out for intruders, while providing the imperious dragon with subjects to bully and command. Some minions worship the dragon and serve willingly, but others would escape if they could.
 
 > [!gallery]
-> ![Map 5.11: red dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/075-map-5-11-red-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/076-map-5-11-red-dragon-lair-player.webp#gallery)
+> ![Map 5.11: red dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/075-map-5-11-red-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/076-map-5-11-red-dragon-lair-player.webp#gallery)
 
 #### Red Dragon Lair Features
 
-The red dragon lair shown in map 5.11 is inside the caldera of an active volcano. [Azers](/3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md) dug out and expanded the lava tunnels within the volcano's peak, just above the level of the caldera's lava pools. Although the azers are long since gone, their construction—and much of their lost wealth—now serves the dragon's needs. That construction also provides a network of tunnels too small for the dragon to use, but where other creatures can make their lairs.
+The red dragon lair shown in map 5.11 is inside the caldera of an active volcano. Azers dug out and expanded the lava tunnels within the volcano's peak, just above the level of the caldera's lava pools. Although the azers are long since gone, their construction—and much of their lost wealth—now serves the dragon's needs. That construction also provides a network of tunnels too small for the dragon to use, but where other creatures can make their lairs.
 
 The lair has the following features:
 
@@ -1259,10 +1259,10 @@ The lair has the following features:
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md)) red dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) red dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is heavily obscured. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a DC 15 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the end of its turn. The cloud lasts until initiative count 20 on the next round.  
-- **Searing Heat.** Searing heat spreads out in a 15-foot-radius sphere centered on a point the dragon can see within 120 feet of it. Any creature that enters the affected area or starts its turn there must make a DC 15 Constitution saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage on a failed save, or half as much damage on a successful one. The heat lasts until initiative count 20 on the next round.  
+- **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is heavily obscured. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a DC 15 Constitution saving throw or be poisoned until the end of its turn. The cloud lasts until initiative count 20 on the next round.  
+- **Searing Heat.** Searing heat spreads out in a 15-foot-radius sphere centered on a point the dragon can see within 120 feet of it. Any creature that enters the affected area or starts its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one. The heat lasts until initiative count 20 on the next round.  
 
 #### Regional Effects
 
@@ -1274,11 +1274,11 @@ Any of these effects might appear in the area around a red dragon's lair, in add
 
 ### Red Dragon Treasures
 
-Red dragons love gold above all other precious metals and are entranced by its gleam, its luster, and the sound of its chime. They amass gold coins and objects to form the bulk of their hoards, along with red and fiery gemstones such as rubies and fire opals. Red dragons favor items made of metal and stone, which can survive the test of time. Many such items in an [ancient red dragon's](/3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md) hoard might be hundreds or thousands of years old. They tend to eschew treasures that burn, such as leather, paper, and cloth items.
+Red dragons love gold above all other precious metals and are entranced by its gleam, its luster, and the sound of its chime. They amass gold coins and objects to form the bulk of their hoards, along with red and fiery gemstones such as rubies and fire opals. Red dragons favor items made of metal and stone, which can survive the test of time. Many such items in an ancient red dragon's hoard might be hundreds or thousands of years old. They tend to eschew treasures that burn, such as leather, paper, and cloth items.
 
 For a red dragon, every treasure is a mark of pride and a personal trophy. Like a proud hunter, a red dragon relishes telling the tale of acquiring each individual relic or coin, glorifying the dragon's own deeds.
 
-![Red Dragon Treasures; Red Dragon Art Objects](/3-Mechanics/CLI/tables/red-dragon-treasures-red-dragon-art-objects-ftd.md)
+![Red Dragon Treasures; Red Dragon Art Objects](3-Mechanics/CLI/tables/red-dragon-treasures-red-dragon-art-objects-ftd.md)
 
 > [!note] Ashardalon
 > 
@@ -1297,27 +1297,27 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to inspire your portrayal of distinctive sapphire dragon characters.
 
-![Creating a Sapphire Dragon; Sapphire Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-sapphire-dragon-sapphire-dragon-personality-traits-ftd.md)
+![Creating a Sapphire Dragon; Sapphire Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-sapphire-dragon-sapphire-dragon-personality-traits-ftd.md)
 
-![Creating a Sapphire Dragon; Sapphire Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd.md)
+![Creating a Sapphire Dragon; Sapphire Dragon Ideals](3-Mechanics/CLI/tables/creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd.md)
 
 ### Sapphire Dragon Adventures
 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
-![Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks](/3-Mechanics/CLI/tables/sapphire-dragon-adventures-sapphire-dragon-adventure-hooks-ftd.md)
+![Sapphire Dragon Adventures; Sapphire Dragon Adventure Hooks](3-Mechanics/CLI/tables/sapphire-dragon-adventures-sapphire-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
-![Connected Creatures; Sapphire Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-sapphire-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Sapphire Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-sapphire-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Sapphire Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-sapphire-dragon-connections-ftd.md)
+![Connected Creatures; Young Sapphire Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-sapphire-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Sapphire Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-sapphire-dragon-connections-ftd.md)
+![Connected Creatures; Adult Sapphire Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-sapphire-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Sapphire Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-sapphire-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Sapphire Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-sapphire-dragon-connections-ftd.md)
 
 ### Sapphire Dragon Lairs
 
@@ -1326,8 +1326,8 @@ Sapphire dragons make their lairs in enormous caverns and complex tunnel systems
 Sapphire dragons eventually create dizzying honeycombs of hidden passages, deceptively thin walls, and secret chambers that allow them to traverse the entire lair without ever being seen by intruders. The best-defended sapphire dragon lairs have no easily accessible entrances or exits at all, and trespassers who do find their way inside must then contend with a maze of corridors, dead ends, and steep inclines.
 
 > [!gallery]
-> ![Map 5.12: sapphire dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/078-map-5-12-sapphire-dragon-lair-player.webp#gallery)
+> ![Map 5.12: sapphire dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/077-map-5-12-sapphire-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/078-map-5-12-sapphire-dragon-lair-player.webp#gallery)
 
 #### Sapphire Dragon Lair Features
 
@@ -1341,7 +1341,7 @@ The lair has the following features:
 
 > [!note] Bleucorundum
 > 
-> Bleucorundum is an [ancient sapphire dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-sapphire-dragon-ftd.md) with an equally ancient hatred of [beholders](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) and their kin. After losing both parents to beholder attacks, he fled to the Lake of Steam in southern Faerûn. There, he discovered the resting place of a martial order known as the Knights of the Crescent Moon, who had fought beholders in an ancient war. Bleucorundum found the knights held in stasis, awaiting the day they would be called upon to fight their ancient enemies again, and he vowed to guard them until they awaken. He styles himself the Sapphire Sentinel, self-appointed guardian of the Sleeping Legion. But his vigil is lonely, and his servitor [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) provide little companionship.
+> Bleucorundum is an [ancient sapphire dragon](3-Mechanics/CLI/bestiary/dragon/ancient-sapphire-dragon-ftd.md) with an equally ancient hatred of beholders and their kin. After losing both parents to beholder attacks, he fled to the Lake of Steam in southern Faerûn. There, he discovered the resting place of a martial order known as the Knights of the Crescent Moon, who had fought beholders in an ancient war. Bleucorundum found the knights held in stasis, awaiting the day they would be called upon to fight their ancient enemies again, and he vowed to guard them until they awaken. He styles himself the Sapphire Sentinel, self-appointed guardian of the Sleeping Legion. But his vigil is lonely, and his servitor gargoyles provide little companionship.
 ^bleucorundum
 
 - **Hoard Caverns.** The bulk of the lair, filling most of the lower half of the map, comprises chambers the dragon uses to host guests and visitors. These caverns hold the bulk of the dragon's hoard, particularly art objects that are impressive but not irreplaceable.  
@@ -1353,7 +1353,7 @@ Sapphire dragons covet items of martial significance above other treasure. Weapo
 
 Sapphire dragons meticulously catalogue their hoards. Each dragon has a unique organizational system; some are straightforward, but some only the dragon can fully comprehend (weapons categorized by which armies they were used against, armor ordered by the ancestry of its last wearer, and so forth). Regardless of the system, a sapphire dragon takes pride in knowing exactly where any given item is and can recite a detailed history of that item while guiding curious guests to (or away from) it.
 
-![Sapphire Dragon Treasures; Sapphire Dragon Art Objects](/3-Mechanics/CLI/tables/sapphire-dragon-treasures-sapphire-dragon-art-objects-ftd.md)
+![Sapphire Dragon Treasures; Sapphire Dragon Art Objects](3-Mechanics/CLI/tables/sapphire-dragon-treasures-sapphire-dragon-art-objects-ftd.md)
 
 ## Shadow Dragons
 
@@ -1367,29 +1367,29 @@ Use the tables and other information in this section to craft unique encounters 
 
 Use the Shadow Dragon Personality Traits and Shadow Dragon Ideals tables to inspire your portrayal of distinctive shadow dragon characters.
 
-If you use the variant rule in the "Monster Manual" for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md), or [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md).
+If you use the variant rule in the "Monster Manual" for making a dragon a spellcaster, shadow dragons typically have the spellcasting ability of their original forms. Over time, some shadow dragons might replace one or more of their innate spells with spells more appropriate to their tenebrous nature, such as darkness, fog cloud, misty step, or nondetection.
 
-![Creating a Shadow Dragon; Shadow Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd.md)
+![Creating a Shadow Dragon; Shadow Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-shadow-dragon-shadow-dragon-personality-traits-ftd.md)
 
-![Creating a Shadow Dragon; Shadow Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-shadow-dragon-shadow-dragon-ideals-ftd.md)
+![Creating a Shadow Dragon; Shadow Dragon Ideals](3-Mechanics/CLI/tables/creating-a-shadow-dragon-shadow-dragon-ideals-ftd.md)
 
 ### Shadow Dragon Adventures
 
 The Shadow Dragon Adventure Hooks table offers suggestions for stories and adventures involving shadow dragons.
 
-![Shadow Dragon Adventures; Shadow Dragon Adventure Hooks](/3-Mechanics/CLI/tables/shadow-dragon-adventures-shadow-dragon-adventure-hooks-ftd.md)
+![Shadow Dragon Adventures; Shadow Dragon Adventure Hooks](3-Mechanics/CLI/tables/shadow-dragon-adventures-shadow-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Shadow dragons often attempt to blunt their despair by dragging others into their gloomy lives with them. These are generally short-lived relationships, though, as most shadow dragons can scarcely bear the bleakness of their own existence.
 
-![Connected Creatures; Shadow Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-shadow-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Shadow Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-shadow-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Shadow Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-shadow-dragon-connections-ftd.md)
+![Connected Creatures; Young Shadow Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-shadow-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Shadow Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-shadow-dragon-connections-ftd.md)
+![Connected Creatures; Adult Shadow Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-shadow-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Shadow Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-shadow-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Shadow Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-shadow-dragon-connections-ftd.md)
 
 ### Shadow Dragon Lairs
 
@@ -1421,7 +1421,7 @@ Shadow dragons retain the preferences of their original form when it comes to tr
 
 Beauty fills shadow dragons with contempt, and that is true of the treasures they collect as well. Though they cannot abandon their hoards, shadow dragons hide them away even from their own sight. The most resplendent items are always the best hidden, and a shadow dragon's lair contains a great many secret caches. An ancient shadow dragon might have a hundred or more such repositories secreted about their territory, making stealing from a shadow dragon both difficult and dangerous.
 
-![Shadow Dragon Treasures; Shadow Dragon Art Objects](/3-Mechanics/CLI/tables/shadow-dragon-treasures-shadow-dragon-art-objects-ftd.md)
+![Shadow Dragon Treasures; Shadow Dragon Art Objects](3-Mechanics/CLI/tables/shadow-dragon-treasures-shadow-dragon-art-objects-ftd.md)
 
 ## Silver Dragons
 
@@ -1435,29 +1435,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Silver Dragon Personality Traits and Silver Dragon Ideals tables to inspire your portrayal of distinctive silver dragon characters, and use the Silver Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a Silver Dragon; Silver Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-silver-dragon-silver-dragon-personality-traits-ftd.md)
+![Creating a Silver Dragon; Silver Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-silver-dragon-silver-dragon-personality-traits-ftd.md)
 
-![Creating a Silver Dragon; Silver Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-silver-dragon-silver-dragon-ideals-ftd.md)
+![Creating a Silver Dragon; Silver Dragon Ideals](3-Mechanics/CLI/tables/creating-a-silver-dragon-silver-dragon-ideals-ftd.md)
 
-![Creating a Silver Dragon; Silver Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-silver-dragon-silver-dragon-spellcasting-ftd.md)
+![Creating a Silver Dragon; Silver Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-silver-dragon-silver-dragon-spellcasting-ftd.md)
 
 ### Silver Dragon Adventures
 
 The Silver Dragon Adventure Hooks table offers suggestions for stories and adventures involving silver dragons.
 
-![Silver Dragon Adventures; Silver Dragon Adventure Hooks](/3-Mechanics/CLI/tables/silver-dragon-adventures-silver-dragon-adventure-hooks-ftd.md)
+![Silver Dragon Adventures; Silver Dragon Adventure Hooks](3-Mechanics/CLI/tables/silver-dragon-adventures-silver-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Silver dragons enjoy the companionship of intelligent people, particularly when those folk have no idea as to the dragon's true identity. Silver dragons associate with just about any creatures, though, as long as they're confident those creatures have good intentions—or could be convinced to change their ways.
 
-![Connected Creatures; Silver Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-silver-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Silver Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-silver-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Silver Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-silver-dragon-connections-ftd.md)
+![Connected Creatures; Young Silver Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-silver-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Silver Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-silver-dragon-connections-ftd.md)
+![Connected Creatures; Adult Silver Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-silver-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Silver Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-silver-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Silver Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-silver-dragon-connections-ftd.md)
 
 ### Silver Dragon Lairs
 
@@ -1468,8 +1468,8 @@ This inclination toward using high-altitude locales as sites for lairs isn't wit
 The lair of a silver dragon is always an impressive sight. Young dragons make their homes in icy cliffs, excavating space for themselves within the mountainside. Older silver dragons sometimes decorate their cliff-side habitats with ruins carefully collected from other places in the world. Depending on the dragon, a lair can be a multi-tiered affair, with its highest levels extending fully into the sky.
 
 > [!gallery]
-> ![Map 5.13: silver dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/079-map-5-13-silver-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/080-map-5-13-silver-dragon-lair-player.webp#gallery)
+> ![Map 5.13: silver dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/079-map-5-13-silver-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/080-map-5-13-silver-dragon-lair-player.webp#gallery)
 
 #### Silver Dragon Lair Features
 
@@ -1484,13 +1484,13 @@ The silver dragon lair shown in map 5.13 is composed of three connected sections
 
 #### Additional Lair Action
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md)) silver dragon can use the following additional lair action while in its lair:
+At your discretion, a legendary (adult or ancient) silver dragon can use the following additional lair action while in its lair:
 
-- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
+- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be restrained until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
 
 > [!note] D'argent
 > 
-> Like so many silver dragons, D'argent takes considerable interest in the matters of mortals on her home world of Krynn. The [ancient dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md) rarely openly participates in heroics, preferring to help in more surreptitious ways. She has been known to join in the conflicts of mortals in disguise, either as a brave human knight or as a fierce elf healer with gleaming silver hair, named Silvara.
+> Like so many silver dragons, D'argent takes considerable interest in the matters of mortals on her home world of Krynn. The ancient dragon rarely openly participates in heroics, preferring to help in more surreptitious ways. She has been known to join in the conflicts of mortals in disguise, either as a brave human knight or as a fierce elf healer with gleaming silver hair, named Silvara.
 > 
 > Though she is happy to remain in the background, D'argent's seeming placidity hides a brilliant intellect, and she has exposed the machinations of many chromatic dragons on Krynn. She is a romantic at heart, and it is said that she has fallen deeply for mortals more than once.
 ^dargent
@@ -1501,7 +1501,7 @@ More than anything else, silver dragons covet mementos from the people they inte
 
 Beyond such keepsakes, silver dragons prefer treasures that complement their natural coloration. Diamonds are much coveted, but also turquoise, malachite, and sapphires, all of pelagic hues like something plucked from the deep ocean. Some silver dragons also collect ornamental weapons or ingenious examples of technology.
 
-![Silver Dragon Treasures; Silver Dragon Art Objects](/3-Mechanics/CLI/tables/silver-dragon-treasures-silver-dragon-art-objects-ftd.md)
+![Silver Dragon Treasures; Silver Dragon Art Objects](3-Mechanics/CLI/tables/silver-dragon-treasures-silver-dragon-art-objects-ftd.md)
 
 ## Topaz Dragons
 
@@ -1515,27 +1515,27 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspire your portrayal of distinctive topaz dragon characters.
 
-![Creating a Topaz Dragon; Topaz Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd.md)
+![Creating a Topaz Dragon; Topaz Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd.md)
 
-![Creating a Topaz Dragon; Topaz Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-topaz-dragon-topaz-dragon-ideals-ftd.md)
+![Creating a Topaz Dragon; Topaz Dragon Ideals](3-Mechanics/CLI/tables/creating-a-topaz-dragon-topaz-dragon-ideals-ftd.md)
 
 ### Topaz Dragon Adventures
 
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
-![Topaz Dragon Adventures; Topaz Dragon Adventure Hooks](/3-Mechanics/CLI/tables/topaz-dragon-adventures-topaz-dragon-adventure-hooks-ftd.md)
+![Topaz Dragon Adventures; Topaz Dragon Adventure Hooks](3-Mechanics/CLI/tables/topaz-dragon-adventures-topaz-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Topaz dragons rarely tolerate any company but their own, and they are usually indifferent at best even toward their own kind. Moreover, their unpredictability means that even if a creature proves itself useful to a topaz dragon, it shouldn't count on being safe from the dragon the next time they meet. Topaz dragons rarely go out of their way to fight other creatures, however, with the exception of bronze dragons, for whom they bear an inexplicably intense hatred.
 
-![Connected Creatures; Topaz Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-topaz-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; Topaz Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-topaz-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young Topaz Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-topaz-dragon-connections-ftd.md)
+![Connected Creatures; Young Topaz Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-topaz-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult Topaz Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-topaz-dragon-connections-ftd.md)
+![Connected Creatures; Adult Topaz Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-topaz-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient Topaz Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-topaz-dragon-connections-ftd.md)
+![Connected Creatures; Ancient Topaz Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-topaz-dragon-connections-ftd.md)
 
 ### Topaz Dragon Lairs
 
@@ -1544,8 +1544,8 @@ Topaz dragons are happiest by the sea. They spend most of their time basking in 
 Their preference for lair sites frequently brings topaz dragons into conflict with other creatures, since they resent having to share their chosen scenic locations with anything that isn't food. They often abandon lairs to seek new vistas, so the interiors of their lairs often feel less finished than those of other dragons. Topaz dragons decorate their lairs with mirrors to make them look bigger and brighter, as well as fabric and objects in golden shades that complement their scales. They obsessively organize their hoards but almost never show them to anyone else.
 
 > [!gallery]
-> ![Map 5.14: topaz dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/081-map-5-14-topaz-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/082-map-5-14-topaz-dragon-lair-player.webp#gallery)
+> ![Map 5.14: topaz dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/081-map-5-14-topaz-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/082-map-5-14-topaz-dragon-lair-player.webp#gallery)
 
 #### Topaz Dragon Lair Features
 
@@ -1560,7 +1560,7 @@ The topaz dragon lair shown in map 5.14 is situated among the rocky cliffs and b
 
 > [!note] Astilabor
 > 
-> Like many greatwyrms, the topaz [Astilabor](/3-Mechanics/CLI/bestiary/dragon/topaz-greatwyrm-ftd.md) is often mistakenly identified as a dragon god—in this case, the god of greed. In many ways, she is an archetype for all dragonkind, embodying the desire to acquire and hoard wealth. Her desire is born not of greed, though, but rather from her study of the Material Plane, its magic, and dragons' interconnection with both. Dragons on many worlds acknowledge Astilabor as they establish new lairs to host their hoards, linking them to the magic of the surrounding region.
+> Like many greatwyrms, the topaz [Astilabor](3-Mechanics/CLI/bestiary/dragon/topaz-greatwyrm-ftd.md) is often mistakenly identified as a dragon god—in this case, the god of greed. In many ways, she is an archetype for all dragonkind, embodying the desire to acquire and hoard wealth. Her desire is born not of greed, though, but rather from her study of the Material Plane, its magic, and dragons' interconnection with both. Dragons on many worlds acknowledge Astilabor as they establish new lairs to host their hoards, linking them to the magic of the surrounding region.
 ^astilabor
 
 ### Topaz Dragon Treasures
@@ -1569,7 +1569,7 @@ Topaz dragons despise anything made of bronze but love to hoard gold, as well as
 
 Topaz dragons like to keep their lairs well lit and can spend endless hours watching the play of light upon their treasures. They sometimes obsessively arrange their hoards by minute gradations in color and set up mirrors around a hoard chamber to make the mass of treasure appear bigger. But whatever pride topaz dragons take in their hoard, they have little desire to show it off, so even those rare creatures who maintain cordial relationships with a topaz dragon are unlikely to ever see the dragon's treasures.
 
-![Topaz Dragon Treasures; Topaz Dragon Art Objects](/3-Mechanics/CLI/tables/topaz-dragon-treasures-topaz-dragon-art-objects-ftd.md)
+![Topaz Dragon Treasures; Topaz Dragon Art Objects](3-Mechanics/CLI/tables/topaz-dragon-treasures-topaz-dragon-art-objects-ftd.md)
 
 ## White Dragons
 
@@ -1583,29 +1583,29 @@ Use the tables, map, and other information in this section to craft unique encou
 
 Use the White Dragon Personality Traits and White Dragon Ideals tables to inspire your portrayal of distinctive white dragon characters, and use the White Dragon Spellcasting table to help select spells for a spellcasting dragon.
 
-![Creating a White Dragon; White Dragon Personality Traits](/3-Mechanics/CLI/tables/creating-a-white-dragon-white-dragon-personality-traits-ftd.md)
+![Creating a White Dragon; White Dragon Personality Traits](3-Mechanics/CLI/tables/creating-a-white-dragon-white-dragon-personality-traits-ftd.md)
 
-![Creating a White Dragon; White Dragon Ideals](/3-Mechanics/CLI/tables/creating-a-white-dragon-white-dragon-ideals-ftd.md)
+![Creating a White Dragon; White Dragon Ideals](3-Mechanics/CLI/tables/creating-a-white-dragon-white-dragon-ideals-ftd.md)
 
-![Creating a White Dragon; White Dragon Spellcasting](/3-Mechanics/CLI/tables/creating-a-white-dragon-white-dragon-spellcasting-ftd.md)
+![Creating a White Dragon; White Dragon Spellcasting](3-Mechanics/CLI/tables/creating-a-white-dragon-white-dragon-spellcasting-ftd.md)
 
 ### White Dragon Adventures
 
 The White Dragon Adventure Hooks table offers suggestions for stories and adventures involving white dragons.
 
-![White Dragon Adventures; White Dragon Adventure Hooks](/3-Mechanics/CLI/tables/white-dragon-adventures-white-dragon-adventure-hooks-ftd.md)
+![White Dragon Adventures; White Dragon Adventure Hooks](3-Mechanics/CLI/tables/white-dragon-adventures-white-dragon-adventure-hooks-ftd.md)
 
 #### Connected Creatures
 
 Savage and territorial by nature, white dragons seldom set out to make alliances, though some come to understand the utility of doing so as they age. More often, white dragons encountered in the company of other creatures have been forced into an uneasy accommodation or a resentful servitude because they lack the power to dominate those companions outright.
 
-![Connected Creatures; White Dragon Wyrmling Connections](/3-Mechanics/CLI/tables/connected-creatures-white-dragon-wyrmling-connections-ftd.md)
+![Connected Creatures; White Dragon Wyrmling Connections](3-Mechanics/CLI/tables/connected-creatures-white-dragon-wyrmling-connections-ftd.md)
 
-![Connected Creatures; Young White Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-young-white-dragon-connections-ftd.md)
+![Connected Creatures; Young White Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-young-white-dragon-connections-ftd.md)
 
-![Connected Creatures; Adult White Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-adult-white-dragon-connections-ftd.md)
+![Connected Creatures; Adult White Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-adult-white-dragon-connections-ftd.md)
 
-![Connected Creatures; Ancient White Dragon Connections](/3-Mechanics/CLI/tables/connected-creatures-ancient-white-dragon-connections-ftd.md)
+![Connected Creatures; Ancient White Dragon Connections](3-Mechanics/CLI/tables/connected-creatures-ancient-white-dragon-connections-ftd.md)
 
 ### White Dragon Lairs
 
@@ -1614,8 +1614,8 @@ A white dragon's lair is a place of freezing temperatures and profound solitude.
 White dragons enjoy the mournful sound of the wind and frequently choose lairs with long, winding tunnels down which icy gusts can travel. They seldom work to improve their lairs, but when they do, it is often to channel wind currents to create effects the dragon finds pleasing. The labyrinthine tunnels and the mirror-like icy surfaces in a white dragon's lair confound would-be thieves and might foil their escape.
 
 > [!gallery]
-> ![Map 5.15: white dragon lair](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/083-map-5-15-white-dragon-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/084-map-5-15-white-dragon-lair-player.webp#gallery)
+> ![Map 5.15: white dragon lair](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/083-map-5-15-white-dragon-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/084-map-5-15-white-dragon-lair-player.webp#gallery)
 
 #### White Dragon Lair Features
 
@@ -1625,7 +1625,7 @@ The white dragon lair shown in map 5.15 is a natural stone grotto set in a cliff
 - **Frozen Stream.** The cave's interior is a twisting stone tunnel carved out by a subterranean stream, now frozen over by the dragon's presence. The stream spills down in stages over low, frozen cascades, creating an icy stairway.  
 - **Dining Hall.** A small chamber adjoining the stream just inside the cave's entrance is the dragon's dining hall; it contains the horrid remnants of recent meals.  
 
-![](/3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/085-05-009.webp#center)
+![](3-Mechanics/CLI/books/fizbans-treasury-of-dragons/img/085-05-009.webp#center)
 
 - **Rocky Grotto.** Past the topmost cascade is the grotto floor, a rocky cavern dimly lit by blue light filtering through the icy vault high above. The largest of the dragon's frozen trophies are scattered about the grotto.  
 - **Low Cavern.** Beyond the grotto, the stream leads to a low-ceilinged cavern the dragon used as a sleeping place when smaller; it might now serve as a home for the dragon's minions.  
@@ -1634,9 +1634,9 @@ The white dragon lair shown in map 5.15 is a natural stone grotto set in a cliff
 
 #### Additional Lair Actions
 
-At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md)) white dragon can use one or both of the following additional lair actions while in its lair:
+At your discretion, a legendary (adult or ancient) white dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until initiative count 20 on the next round.  
+- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be blinded until initiative count 20 on the next round.  
 - **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
 
 #### Regional Effects
@@ -1644,7 +1644,7 @@ At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-
 Any of these effects might appear in the area around a white dragon's lair, in addition to or instead of the effects described in the "Monster Manual":
 
 - **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
-- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
+- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity (Stealth) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
 
 ### White Dragon Treasures
 
@@ -1652,11 +1652,11 @@ White dragons favor gems and precious metals that mirror the cold sparkle of ice
 
 > [!note] Rime
 > 
-> Rime is a prisoner to her past. This now- [ancient white dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) was raised in captivity, bred as a mount for an ancient knightly order. Mithral plates were magically fused to her skull and breastbone, bearing an enchantment binding her to the service of her rider. And though that rider and their order have been dead for centuries, the magic of the mithral plates still binds Rime to the place of her rider's demise. Only in the winter, when her powers are at their peak, can she range out from the ruined citadel that has become her lair to terrorize surrounding lands.
+> Rime is a prisoner to her past. This now- ancient white dragon was raised in captivity, bred as a mount for an ancient knightly order. Mithral plates were magically fused to her skull and breastbone, bearing an enchantment binding her to the service of her rider. And though that rider and their order have been dead for centuries, the magic of the mithral plates still binds Rime to the place of her rider's demise. Only in the winter, when her powers are at their peak, can she range out from the ruined citadel that has become her lair to terrorize surrounding lands.
 > 
 > Rime's past experience makes her suspicious of all Humanoids, and she frequently vents her wrath on them without provocation. However, she suffers the presence of the cultists who have taken up residence in her lair, since they bring her food during the long months when she cannot hunt. Rime also seeks a way to rid herself of her mithral shackles and will warily engage in conversation with spellcasters who might help her. Failing that, her plan is to continue to amass treasure during her winter raids until she is powerful enough to break her bonds completely.
 ^rime
 
-The greater part of a white dragon's hoard consists of trophies taken from defeated foes. Although these trophies include items such as mighty weapons or ornate regalia that are valuable treasures in their own right, they can just as easily be worthless junk. A white dragon hoards trophies not for their material value, but as testaments to the dragon's dominance. An [ancient white dragon's](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md) lair is a literal memory palace and a maze of rime-encrusted treasures that recount the story of the dragon's many victories.
+The greater part of a white dragon's hoard consists of trophies taken from defeated foes. Although these trophies include items such as mighty weapons or ornate regalia that are valuable treasures in their own right, they can just as easily be worthless junk. A white dragon hoards trophies not for their material value, but as testaments to the dragon's dominance. An ancient white dragon's lair is a literal memory palace and a maze of rime-encrusted treasures that recount the story of the dragon's many victories.
 
-![White Dragon Treasures; White Dragon Art Objects](/3-Mechanics/CLI/tables/white-dragon-treasures-white-dragon-art-objects-ftd.md)
+![White Dragon Treasures; White Dragon Art Objects](3-Mechanics/CLI/tables/white-dragon-treasures-white-dragon-art-objects-ftd.md)

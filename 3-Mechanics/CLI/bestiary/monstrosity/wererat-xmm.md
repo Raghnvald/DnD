@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wererat
+- "Wererat"
 ---
-# [Wererat](3-Mechanics\CLI\bestiary\monstrosity/wererat-xmm.md)
+# [Wererat](3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md)
 *Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Wererat
@@ -45,26 +45,29 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common (can't speak in rat form)"
 "cr": "2"
 "actions":
   - "desc": "The wererat makes two attacks, using Scratch or Hand Crossbow in any\
       \ combination. It can replace one attack with a Bite attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing damage.\
-      \ If the target is a Humanoid, it is subjected to the following effect. *Constitution\
-      \ Saving Throw:* DC 11. *Failure:* The target is cursed. If the cursed target\
-      \ drops to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md).\
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing\
+      \ damage. If the target is a Humanoid, it is subjected to the following effect.\
+      \ *Constitution Saving Throw:* DC 11. *Failure:* The target is cursed. If the\
+      \ cursed target drops to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
+      \ it instead becomes a Wererat under the DM's control and has 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).\
       \ *Success:* The target is immune to this wererat's curse for 24 hours."
     "name": "Bite (Rat or Hybrid Form Only)"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing\
+      \ damage."
     "name": "Scratch"
   - "desc": "*Ranged Attack Roll:* +5, range 30/120 ft. *Hit:* 6 (1d6 + 3) Piercing\
       \ damage."
@@ -77,7 +80,7 @@ Wererats can shape-shift from their humanoid forms into giant rats or humanoid-r
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wererat-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/wererat-xmm.webp"
 ```
 ^statblock
 

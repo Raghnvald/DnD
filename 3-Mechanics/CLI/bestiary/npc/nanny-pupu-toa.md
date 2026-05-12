@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nanny Pu'pu
+- "Nanny Pu'pu"
 ---
-# [Nanny Pu'pu](3-Mechanics\CLI\bestiary\npc/nanny-pupu-toa.md)
+# [Nanny Pu'pu](3-Mechanics/CLI/bestiary/npc/nanny-pupu-toa.md)
 *Source: Tomb of Annihilation p. 72*  
 
 ```statblock
@@ -34,26 +34,29 @@ aliases:
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common, Draconic, Sylvan"
 "cr": "3"
 "traits":
   - "desc": "Pu'pu's innate spellcasting ability is Charisma (spell save DC 12). She\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** dancing lights, minor illusion, vicious mockery"
+      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [vicious\
+      \ mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Pu'pu can breathe air and water."
     "name": "Amphibious"
   - "desc": "Pu'pu can mimic animal sounds and humanoid voices. A creature that hears\
-      \ the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight)\
+      \ the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
       \ check."
     "name": "Mimicry"
 "actions":
@@ -67,15 +70,19 @@ aliases:
       \ inspection. For example, Pu'pu could appear to have smooth skin, but someone\
       \ touching her would feel her rough flesh. Otherwise, a creature must take an\
       \ action to visually inspect the illusion and succeed on a DC 20 Intelligence\
-      \ (Investigation) check to discern that Pu'pu is disguised."
+      \ ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to\
+      \ discern that Pu'pu is disguised."
     "name": "Illusory Appearance"
-  - "desc": "Pu'pu magically turns invisible until she attacks or casts a spell, or\
-      \ until her concentration ends (as if concentrating on a spell). While invisible,\
+  - "desc": "Pu'pu magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until she attacks or casts a spell, or until her [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). While [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible),\
       \ she leaves no physical evidence of her passage, so she can be tracked only\
-      \ by magic. Any equipment she wears or carries is invisible with her."
+      \ by magic. Any equipment she wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with her."
     "name": "Invisible Passage"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nanny-pupu-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nanny-pupu-toa.webp"
 ```
 ^statblock

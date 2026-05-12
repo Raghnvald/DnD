@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/warlock/genie
 aliases:
-- The Genie
+- "The Genie"
 ---
 # The Genie
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
@@ -47,28 +47,23 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### The Genie (Level 3)
-
 You have made a pact with one of the rarest kinds of genie, a noble genie. Such entities rule vast fiefs on the Elemental Planes and have great influence over lesser genies and elemental creatures. Noble genies are varied in their motivations, but most are arrogant and wield power that rivals that of lesser deities. They delight in turning the table on mortals, who often bind genies into servitude, and readily enter into pacts that expand their reach.
 
 You choose your patron's kind or determine it randomly, using the Genie Kind table.
 
 **Genie Kind**
 
-`dice: [](warlock-xphb-the-genie-tce.md#^genie-kind)`
-
 | dice: d4 | Kind | Element |
 |----------|------|---------|
-| 1 | [Dao](/3-Mechanics/CLI/bestiary/elemental/dao-xmm.md) | Earth |
-| 2 | [Djinni](/3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md) | Air |
-| 3 | [Efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) | Fire |
-| 4 | [Marid](/3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) | Water |
+| 1 | [Dao](3-Mechanics/CLI/bestiary/elemental/dao-xmm.md) | Earth |
+| 2 | [Djinni](3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md) | Air |
+| 3 | [Efreeti](3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md) | Fire |
+| 4 | [Marid](3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) | Water |
 ^genie-kind
 
-#### Expanded Spell List
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Expanded Spell List (Level 3)
 
 *1st-level Genie feature*
 
@@ -78,12 +73,12 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells |
 |-------------|--------------|------------|---------------|----------------|--------------|
-| 1st | [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) | [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md) | [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) | [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md) | [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md) |
-| 2nd | [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md) | [spike growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md) | [gust of wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md) | [scorching ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) | [blur](/3-Mechanics/CLI/spells/blur-xphb.md) |
-| 3rd | [create food and water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md) | [meld into stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md) | [wind wall](/3-Mechanics/CLI/spells/wind-wall-xphb.md) | [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) | [sleet storm](/3-Mechanics/CLI/spells/sleet-storm-xphb.md) |
-| 4th | [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) | [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md) | [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md) | [fire shield](/3-Mechanics/CLI/spells/fire-shield-xphb.md) | [control water](/3-Mechanics/CLI/spells/control-water-xphb.md) |
-| 5th | [creation](/3-Mechanics/CLI/spells/creation-xphb.md) | [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md) | [seeming](/3-Mechanics/CLI/spells/seeming-xphb.md) | [flame strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md) | [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) |
-| 9th | [wish](/3-Mechanics/CLI/spells/wish-xphb.md) | — | — | — | — |
+| 1st | [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) | [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md) | [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md) | [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md) | [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md) |
+| 2nd | [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md) | [spike growth](3-Mechanics/CLI/spells/spike-growth-xphb.md) | [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md) | [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md) | [blur](3-Mechanics/CLI/spells/blur-xphb.md) |
+| 3rd | [create food and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md) | [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md) | [wind wall](3-Mechanics/CLI/spells/wind-wall-xphb.md) | [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) | [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md) |
+| 4th | [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) | [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) | [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md) | [fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md) | [control water](3-Mechanics/CLI/spells/control-water-xphb.md) |
+| 5th | [creation](3-Mechanics/CLI/spells/creation-xphb.md) | [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md) | [seeming](3-Mechanics/CLI/spells/seeming-xphb.md) | [flame strike](3-Mechanics/CLI/spells/flame-strike-xphb.md) | [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) |
+| 9th | [wish](3-Mechanics/CLI/spells/wish-xphb.md) | — | — | — | — |
 ^genie-expanded-spells
 
 ### Genie's Vessel (Level 1)
@@ -93,8 +88,6 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 Your patron gifts you a magical vessel that grants you a measure of the genie's power. The vessel is a Tiny object, and you can use it as a spellcasting focus for your warlock spells. You decide what the object is, or you can determine what it is randomly by rolling on the Genie's Vessel table.
 
 **Genie's Vessel**
-
-`dice: [](warlock-xphb-the-genie-tce.md#^genies-vessel)`
 
 | dice: d6 | Vessel |
 |----------|--------|
@@ -108,12 +101,11 @@ Your patron gifts you a magical vessel that grants you a measure of the genie's 
 
 While you are touching the vessel, you can use it in the following ways:
 
+Options:
+
 - **Bottled Respite**  
-
     As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel's former space. Once you enter the vessel, you can't enter again until you finish a long rest.  
-
 - **Genie's Wrath**  
-
     Once during each of your turns when you hit with an attack roll, you can deal extra damage to the target equal to your proficiency bonus. The type of this damage is determined by your patron: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).  
 
 The vessel's AC equals your spell save DC. Its hit points equal your warlock level plus your proficiency bonus, and it is immune to poison and psychic damage.
@@ -144,4 +136,4 @@ In addition, anyone (including you) who remains within the vessel for at least 1
 
 You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.
 
-Once you use this feature, you can't use it again until you finish `dice:1d4|noform|noparens|avg` (`1d4`) long rests.
+Once you use this feature, you can't use it again until you finish `1d4` long rests.

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- The Traveler
+aliases:
+- "The Traveler"
 ---
 # The Traveler
 *Source: Player's Handbook p. 296* 

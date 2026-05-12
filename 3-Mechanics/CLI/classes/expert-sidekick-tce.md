@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/expert-sidekick
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Expert Sidekick
+- "Expert Sidekick"
 ---
 # Expert Sidekick
 *Source: Tasha's Cauldron of Everything p. 142*  
@@ -68,7 +68,7 @@ The Expert is a master of certain tasks or knowledge, favoring cunning over braw
 To gain the Expert class, a creature must have at least one language in its stat block that it can speak.
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](/3-Mechanics/CLI/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](3-Mechanics/CLI/rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -82,13 +82,13 @@ In addition, the sidekick gains proficiency in five skills of your choice, and i
 
 *1st-level Expert feature*
 
-The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](/3-Mechanics/CLI/actions.md#Help) action as a bonus action.
+The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](3-Mechanics/CLI/rules/actions.md#Help) action as a bonus action.
 
 ### Cunning Action (Level 2)
 
 *2nd-level Expert feature*
 
-The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](/3-Mechanics/CLI/actions.md#Dash), [Disengage](/3-Mechanics/CLI/actions.md#Disengage), or [Hide](/3-Mechanics/CLI/actions.md#Hide) action as a bonus action.
+The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash), [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action.
 
 ### Expertise (Level 3)
 
@@ -110,13 +110,13 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *6th-level Expert feature*
 
-The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
+The sidekick is adept at fighting in concert with a companion. When the sidekick uses its Helpful feature to aid an ally in attacking a creature, that target can be up to 30 feet away from the sidekick, and the sidekick can deal an extra `2d6` damage to it the next time the sidekick hits it with an attack roll before the end of the current turn. The extra damage is the same type of damage dealt by the attack.
 
 ### Evasion (Level 7)
 
 *7th-level Expert feature*
 
-Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).
 
 ### Ability Score Improvement (Level 8)
 
@@ -138,9 +138,9 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *11th-level Expert feature*
 
-When the sidekick takes the [Help](/3-Mechanics/CLI/actions.md#Help) action, the creature who receives the help also gains a `dice:1d6|noform|noparens|avg` (`1d6`) bonus to the `dice:d20|noform|noparens|avg` (`d20`) roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the [Help](3-Mechanics/CLI/rules/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
-At 20th level, the bonus increases to `dice:2d6|noform|noparens|avg` (`2d6`).
+At 20th level, the bonus increases to `2d6`.
 
 ### Ability Score Improvement (Level 12)
 
@@ -154,7 +154,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *14th-level Expert feature*
 
-The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `dice:d20|noform|noparens|avg` (`d20`) roll of 9 or lower as a 10.
+The sidekick has refined its skills to an exceptional degree. Whenever the sidekick makes an ability check that includes its whole proficiency bonus, it can treat a `d20` roll of 9 or lower as a 10.
 
 ### Expertise (Level 15)
 
@@ -188,4 +188,4 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *20th-level Expert feature*
 
-At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `dice:2d6|noform|noparens|avg` (`2d6`).
+At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `2d6`.

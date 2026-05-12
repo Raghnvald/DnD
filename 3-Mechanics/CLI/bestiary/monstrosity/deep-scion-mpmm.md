@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deep Scion
+- "Deep Scion"
 ---
-# [Deep Scion](3-Mechanics\CLI\bestiary\monstrosity/deep-scion-mpmm.md)
+# [Deep Scion](3-Mechanics/CLI/bestiary/monstrosity/deep-scion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135*  
 
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
@@ -44,16 +44,18 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"
 "traits":
@@ -63,19 +65,20 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "desc": "The deep scion makes two Battleaxe attacks, or it makes one Bite attack\
       \ and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with\
+      \ two hands."
     "name": "Battleaxe"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d4 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d4 + 4) piercing damage."
     "name": "Bite (Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) slashing damage."
     "name": "Claw (Hybrid Form Only)"
   - "desc": "The deep scion emits a terrible scream audible within 300 feet. Creatures\
       \ within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw\
-      \ or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of the\
-      \ deep scion's next turn. In water, the psychic screech also telepathically\
+      \ or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the end\
+      \ of the deep scion's next turn. In water, the psychic screech also telepathically\
       \ transmits the deep scion's memories of the last 24 hours to its master, regardless\
       \ of distance, so long as it and its master are in the same body of water."
     "name": "Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest)"
@@ -88,7 +91,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp"
 ```
 ^statblock
 

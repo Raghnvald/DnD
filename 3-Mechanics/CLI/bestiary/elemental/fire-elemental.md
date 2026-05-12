@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Elemental
+- "Fire Elemental"
 ---
-# [Fire Elemental](3-Mechanics\CLI\bestiary\elemental/fire-elemental.md)
-*Source: Monster Manual p. 125, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Fire Elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md)
+*Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
 
@@ -57,9 +57,13 @@ An elemental doesn't require air, food, drink, or sleep.
 "speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
-  \ restrained, unconscious"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Ignan"
 "cr": "5"
 "traits":
@@ -87,8 +91,7 @@ An elemental doesn't require air, food, drink, or sleep.
     "name": "Touch"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/fire-elemental.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/fire-elemental.webp"
 ```
 ^statblock
 

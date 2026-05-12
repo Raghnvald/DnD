@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/tool
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Forgery Kit"
 ---
 # Forgery Kit

@@ -6,10 +6,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/trickery
-aliases: 
-- Tymora
-- Lady Luck
-- Our Smiling Lady
+aliases:
+- "Tymora"
+- "Lady Luck"
+- "Our Smiling Lady"
 ---
 # Tymora
 *Source: Sword Coast Adventurer's Guide p. 21* 

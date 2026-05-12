@@ -9,16 +9,23 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/fairy
+- ttrpg-cli/spell/reward/charm-of-druidcraft
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/circle-of-the-land/arctic
 - ttrpg-cli/spell/subclass/nature-domain
+- ttrpg-cli/spell/subclass/strength-domain-psa
+- ttrpg-cli/spell/subrace/elf-kaladesh-vahadar
+- ttrpg-cli/spell/subrace/merfolk-ixalan-green
+- ttrpg-cli/spell/subrace/merfolk-zendikar-emeria-creed
 classes:
 - Bard (Magical Secrets)
 - Cleric (Nature Domain)
+- Cleric (Strength Domain (PSA))
 - Druid
 - Druid (Circle of the Land, Arctic)
 aliases:
-- Druidcraft
+- "Druidcraft"
 ---
 # Druidcraft
 *cantrip, Transmutation*  
@@ -36,6 +43,6 @@ Whispering to the spirits of nature, you create one of the following effects wit
 - You create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.  
 - You instantly light or snuff out a candle, a torch, or a small campfire.  
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA"); [Druid (Circle of the Land, Arctic)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 236. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

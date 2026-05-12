@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Loggers' Camp
+- "Loggers' Camp"
 ---
 # Loggers' Camp
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 34* 
@@ -18,7 +18,7 @@ Years after the eruption of Mount Hotenow, the city of Neverwinter continues to 
 
 One particular camp, located on the south side of the river, is run by a craven opportunist named Tibor Wester, the half-brother of Phandalin's townmaster, Harbin Wester. Tibor employs skilled loggers to find the best trees, chop them down, and haul them back to the camp to be sent downriver. He gets his supplies from Phandalin so that he doesn't have to pay the outlandish "devastation tax" that Neverwinter applies on essential goods. The challenge lies in getting the supplies safely through Neverwinter Wood, which is why Harbin uses adventurers to make deliveries.
 
-Tibor has a bigger problem than supply lines, however. His loggers have drawn the ire of [anchorites of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md), who resent intrusions into their territory in Neverwinter Wood. The anchorites have hidden a totem in his camp that has attracted [ankhegs](/3-Mechanics/CLI/bestiary/monstrosity/ankheg.md). The burrowing monsters caught the loggers by surprise, killing all twelve of them. Tibor survived by locking himself in his office, where he intends to remain until someone rescues him.
+Tibor has a bigger problem than supply lines, however. His loggers have drawn the ire of [anchorites of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md), who resent intrusions into their territory in Neverwinter Wood. The anchorites have hidden a totem in his camp that has attracted ankhegs. The burrowing monsters caught the loggers by surprise, killing all twelve of them. Tibor survived by locking himself in his office, where he intends to remain until someone rescues him.
 
 ### Quest Goals
 
@@ -33,7 +33,7 @@ The characters need to pick up the supplies for the loggers' camp before setting
 > Barthen tells you that his clerks have filled two crates with supplies as he hands you a sheet of parchment, upon which is written an inventory of the crates' contents: foodstuffs such as dried meat, blocks of cheese, and loaves of bread, as well as casks of ale and flasks of oil. The two heavy crates are loaded onto a two-wheeled cart pulled by an ox. "The ox's name is Vincent," says Barthen. "I'll expect to see him and the cart returned, thanks."
 ^148
 
-The ox (use the [cow](/3-Mechanics/CLI/bestiary/beast/cow-vgm.md) stat block) is a reliable beast. Each full crate holds enough provisions to sustain twelve people for a month, as long as the supplies are supplemented with fish and fresh water from the camp.
+The ox (use the cow stat block) is a reliable beast. Each full crate holds enough provisions to sustain twelve people for a month, as long as the supplies are supplemented with fish and fresh water from the camp.
 
 If the characters tell Barthen that they intend to visit Falcon's Hunting Lodge on the way, Barthen suggests they buy a bottle of fine wine (10 gp) and give it to Falcon as a gift.
 
@@ -41,7 +41,7 @@ If the characters tell Barthen that they intend to visit Falcon's Hunting Lodge 
 
 The characters can travel 24 miles in a day, and the loggers' camp is roughly 50 miles north of Phandalin. The characters will need to take a long rest near the halfway point in their journey. They can choose to camp in the woods or veer eastward and spend their long rest at Falcon's Hunting Lodge.
 
-The party member with the highest Wisdom (Survival) modifier is the most qualified to navigate Neverwinter Wood. Use the map of the Sword Coast to chart the characters' progress through the forest. Whenever the characters enter a new hex on the map, have the navigator make a DC 10 Wisdom (Survival) check. If the check succeeds, the party stays on course. If the check fails, the party gets back on course after wasting `dice:1d4|noform|noparens|avg` (`1d4`) miles of movement going in the wrong direction.
+The party member with the highest Wisdom (Survival) modifier is the most qualified to navigate Neverwinter Wood. Use the map of the Sword Coast to chart the characters' progress through the forest. Whenever the characters enter a new hex on the map, have the navigator make a DC 10 Wisdom (Survival) check. If the check succeeds, the party stays on course. If the check fails, the party gets back on course after wasting `1d4` miles of movement going in the wrong direction.
 
 ### A Boar-ing Encounter
 
@@ -52,7 +52,7 @@ Shortly after entering the woods, the characters have an encounter that is not w
 > About sixty feet ahead of you, a wild boar stands in a small clearing. The boar glares at you suspiciously.
 ^14b
 
-The boar is actually a female [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) in boar form. The anchorite, Drethna, attacks only in self-defense. If the characters circle around the boar or otherwise avoid a confrontation, they can continue on their way. If the boar is spared, it darts off to warn the anchorites at the Woodland Manse that strangers have entered the forest.
+The boar is actually a female [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) in boar form. The anchorite, Drethna, attacks only in self-defense. If the characters circle around the boar or otherwise avoid a confrontation, they can continue on their way. If the boar is spared, it darts off to warn the anchorites at the Woodland Manse that strangers have entered the forest.
 
 ## Arrival
 
@@ -63,15 +63,15 @@ If the characters follow the river from Falcon's Hunting Lodge, they arrive from
 > The logging camp spreads along the south shore of the river, where a dozen tents are arranged on a sandy beach. Near a dock stands a cabin with logs stacked under an awning. Older cabins close by have been torn down to leave only stone chimneys and foundations. A grim silence hangs over the camp, and you see no one around.
 ^14d
 
-The [ankhegs](/3-Mechanics/CLI/bestiary/monstrosity/ankheg.md) hide underground and rely on their tremorsense to detect prey. They burst out of the ground in the squares marked "ankheg eruption" on the map when certain conditions are met, as described in areas L3 and L6. If you're running this scenario for one character, only one ankheg can be encountered at a time.
+The ankhegs hide underground and rely on their tremorsense to detect prey. They burst out of the ground in the squares marked "ankheg eruption" on the map when certain conditions are met, as described in areas L3 and L6. If you're running this scenario for one character, only one ankheg can be encountered at a time.
 
 ### Camp Locations
 
 The following locations are keyed to the map of the loggers' camp.
 
 > [!gallery]
-> ![Map: Logger's Camp](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/023-map-lc-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/024-map-lc-pc.webp#gallery)
+> ![Map: Logger's Camp](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/023-map-lc-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/024-map-lc-pc.webp#gallery)
 
 #### L1. Cabins on the Rocks
 
@@ -87,9 +87,9 @@ A character who searches the chimney finds a totem buried in its debris: thirtee
 
 #### L3. Office and Tool Storage
 
-This cabin has a wooden floor and is divided into two rooms. The larger room is cluttered with logging equipment (saws, leather harnesses for climbing trees, and so on). An [ankheg](/3-Mechanics/CLI/bestiary/monstrosity/ankheg.md) is hidden under the floor. The first time a character crosses the room, the ankheg bursts through the floorboards in the square marked "ankheg eruption" and attacks.
+This cabin has a wooden floor and is divided into two rooms. The larger room is cluttered with logging equipment (saws, leather harnesses for climbing trees, and so on). An ankheg is hidden under the floor. The first time a character crosses the room, the ankheg bursts through the floorboards in the square marked "ankheg eruption" and attacks.
 
-Tibor Wester, a human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md), has barricaded himself in the smaller office to the north. He has pushed his desk against the door and huddles atop it. When faced with any decision, Tibor makes the most cowardly, self-serving choice.
+Tibor Wester, a human commoner, has barricaded himself in the smaller office to the north. He has pushed his desk against the door and huddles atop it. When faced with any decision, Tibor makes the most cowardly, self-serving choice.
 
 #### L4. River Dock
 
@@ -101,4 +101,4 @@ A dead campfire is surrounded by six tents, each containing a bedroll and a mess
 
 #### L6. South Camp
 
-This camp is similar to area L5, but three [ankhegs](/3-Mechanics/CLI/bestiary/monstrosity/ankheg.md) are hidden underneath it. When a creature steps within 20 feet of a square marked "ankheg eruption" on the map, a hostile ankheg bursts out of the ground in that square and fights until slain.
+This camp is similar to area L5, but three ankhegs are hidden underneath it. When a creature steps within 20 feet of a square marked "ankheg eruption" on the map, a hostile ankheg bursts out of the ground in that square and fights until slain.

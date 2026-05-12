@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bandit
+- "Bandit"
 ---
-# [Bandit](3-Mechanics\CLI\bestiary\humanoid/bandit-xmm.md)
+# [Bandit](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bandits are inexperienced ne'er-do-wells who typically follow the orders of higher-ranking bandits.
@@ -34,8 +34,6 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 > I am he who rules the world, don't you know? One little piece at a time.
 
 **Bandit Motivations**
-
-`dice: [](bandit-xmm.md#^bandit-motivations)`
 
 | dice: 1d6 | The Bandit... |
 |-----------|---------------|
@@ -64,18 +62,23 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Thieves' cant"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing\
+      \ damage."
     "name": "Scimitar"
   - "desc": "*Ranged Attack Roll:* +3, range 80/320 ft. *Hit:* 5 (1d8 + 1) Piercing\
       \ damage."
     "name": "Light Crossbow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-xmm.webp"
 ```
 ^statblock
 

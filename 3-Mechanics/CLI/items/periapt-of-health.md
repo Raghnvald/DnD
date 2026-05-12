@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Periapt of Health"
 ---
 # Periapt of Health
 *Wondrous item, minor, uncommon*  
-![](/3-Mechanics/CLI/items/img/periapt-of-health.webp#right)
+![](3-Mechanics/CLI/items/img/periapt-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

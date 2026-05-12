@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- The Dwarven Pantheon
+- "The Dwarven Pantheon"
 ---
 # The Dwarven Pantheon
 *Source: Sword Coast Adventurer's Guide p. 22* 

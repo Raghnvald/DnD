@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Great Ulfe
+- "Great Ulfe"
 ---
-# [Great Ulfe](3-Mechanics\CLI\bestiary\npc/great-ulfe-tftyp.md)
+# [Great Ulfe](3-Mechanics/CLI/bestiary/npc/great-ulfe-tftyp.md)
 *Source: Tales from the Yawning Portal p. 42*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -33,7 +33,11 @@ aliases:
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
@@ -45,6 +49,6 @@ aliases:
     "name": "Javelin"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/great-ulfe-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/great-ulfe-tftyp.webp"
 ```
 ^statblock

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Ending a Chase; Escape Factors
+- "Ending a Chase; Escape Factors"
 ---
 # Ending a Chase; Escape Factors
 *Source: Dungeon Master's Guide (2024) p. 53* 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – Mesoamerican, Female
+- "Human Names – Mesoamerican, Female"
 ---
 # Human Names – Mesoamerican, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – Mesoamerican, Female**
-
-`dice: [](human-names-mesoamerican-female-xge.md#^human-names-mesoamerican-female)`
 
 | dice: d100 | Name |
 |------------|------|

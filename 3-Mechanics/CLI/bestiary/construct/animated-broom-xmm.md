@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Broom
+- "Animated Broom"
 ---
-# [Animated Broom](3-Mechanics\CLI\bestiary\construct/animated-broom-xmm.md)
+# [Animated Broom](3-Mechanics/CLI/bestiary/construct/animated-broom-xmm.md)
 *Source: Monster Manual (2024) p. 16*  
 
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.
@@ -34,8 +34,6 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 > Lyin' next to the chest were the bones of Cap'n Scornblade himself, still clutchin' his rusty sword. Imagine my surprise when the blade flew from his bony grasp! Still got the scar.
 
 **Animated Object Catalysts**
-
-`dice: [](animated-broom-xmm.md#^animated-object-catalysts)`
 
 | dice: 1d10 | The Object Was Animated By... |
 |------------|-------------------------------|
@@ -69,12 +67,12 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "1"
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 7"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -82,11 +80,12 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
       \ an enemy's reach."
     "name": "Flyby"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Bludgeoning damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Bludgeoning\
+      \ damage."
     "name": "Slam"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-broom-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-broom-xmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cinder Hulk
+- "Cinder Hulk"
 ---
-# [Cinder Hulk](3-Mechanics\CLI\bestiary\elemental/cinder-hulk-bgg.md)
+# [Cinder Hulk](3-Mechanics/CLI/bestiary/elemental/cinder-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 123*  
 
 Cinder hulks are distant descendants of fire giants who isolated themselves from the world and steeped themselves in the energy of the Elemental Planes. Over the course of centuries, these giants were transformed into Elementals made of smoke and cinders. Half the size of their giant ancestors, cinder hulks maintain the basic physical shape of fire giants, but ash and embers billow around their barely cohesive physical forms.
@@ -42,11 +42,10 @@ Cinder hulks live in isolated enclaves in fiery locations on the Material Plane,
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "exhaustion, poisoned"
 "senses": "passive Perception 15"
 "languages": "Giant, Ignan"
 "cr": "7"
@@ -67,12 +66,11 @@ Cinder hulks live in isolated enclaves in fiery locations on the Material Plane,
   - "desc": "The cinder hulk emits a wave of smoldering ash from its face, hands,\
       \ or chest in a 30-foot cone. Each creature in that area must make a DC 16 Dexterity\
       \ saving throw. On a failed save, a creature takes 31 (7d8) fire damage and\
-      \ has the [blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until\
-      \ the end of its next turn. On a successful save, a creature takes half as much\
-      \ damage only."
+      \ has the blinded condition until the end of its next turn. On a successful\
+      \ save, a creature takes half as much damage only."
     "name": "Wave of Cinders (Recharge 5-6)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/cinder-hulk-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/cinder-hulk-bgg.webp"
 ```
 ^statblock

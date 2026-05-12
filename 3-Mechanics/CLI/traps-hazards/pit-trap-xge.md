@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/smpl
 aliases:
-- Pit Trap
+- "Pit Trap"
 ---
 # Pit Trap
 *Generic Hazard*  

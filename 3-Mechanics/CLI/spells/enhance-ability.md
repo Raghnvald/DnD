@@ -10,13 +10,21 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/transmutation
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/oath-of-glory
+- ttrpg-cli/spell/subclass/strength-domain-psa
 classes:
 - Bard (Magical Secrets)
 - Cleric
+- Cleric (Strength Domain (PSA))
 - Druid
+- Fighter (Eldritch Knight)
+- Paladin (Oath of Glory)
+- Rogue (Arcane Trickster)
 - Sorcerer
 aliases:
-- Enhance Ability
+- "Enhance Ability"
 ---
 # Enhance Ability
 *2nd-level, Transmutation*  
@@ -31,7 +39,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ## Bear's Endurance
 
-The target has advantage on Constitution checks. It also gains `dice:2d6|noform|noparens|avg` (`2d6`) temporary hit points, which are lost when the spell ends.
+The target has advantage on Constitution checks. It also gains `2d6` temporary hit points, which are lost when the spell ends.
 
 ## Bull's Strength
 
@@ -39,7 +47,7 @@ The target has advantage on Strength checks, and his or her carrying capacity do
 
 ## Cat's Grace
 
-The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).
 
 ## Eagle's Splendor
 
@@ -59,6 +67,6 @@ When you cast this spell using a spell slot of 3rd level or higher, you can targ
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Paladin (Oath of Glory)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

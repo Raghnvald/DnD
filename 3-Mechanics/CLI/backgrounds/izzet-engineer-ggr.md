@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Izzet Engineer
+- "Izzet Engineer"
 ---
 # Izzet Engineer
 *Source: Guildmasters' Guide to Ravnica p. 66*  
 
 
-- **Skill Proficiencies.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Investigation](/3-Mechanics/CLI/skills.md#Investigation)  
+- **Skill Proficiencies.** Arcana, Investigation  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** Choose one of Draconic, Goblin, or Vedalken  
-- **Equipment.** An Izzet insignia, one set of artisan's tools, the charred and twisted remains of a failed experiment, a [hammer](/3-Mechanics/CLI/items/hammer.md), a [block and tackle](/3-Mechanics/CLI/items/block-and-tackle-xphb.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 5 gp (Azorius 1-zino coins)  
+- **Equipment.** An Izzet insignia, one set of artisan's tools, the charred and twisted remains of a failed experiment, a hammer, a block and tackle, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)  
 
 Armed with an inventive intellect, a love of magical technology, and an unquenchable energy, you are an enthusiastic participant in the research work of the Izzet League. Though you're likely to begin your career as a mere attendant, you can aspire to become a skilled mage or alchemist, a laboratory supervisor, or even a flamethrower-wielding scorchbringer tasked with defending Izzet laboratories. The Izzet are obsessive, brilliant, inspired, and an unpredictable force of chaos in Ravnica, and you epitomize all of those qualities.
 
@@ -35,27 +35,25 @@ For you, the spells on the Izzet Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [produce flame](/3-Mechanics/CLI/spells/produce-flame-xphb.md), [shocking grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md) |
-| 1st | [chaos bolt](/3-Mechanics/CLI/spells/chaos-bolt-xge.md), [create or destroy water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [unseen servant](/3-Mechanics/CLI/spells/unseen-servant-xphb.md) |
-| 2nd | [heat metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md), [rope trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md) |
-| 3rd | [call lightning](/3-Mechanics/CLI/spells/call-lightning-xphb.md), [elemental weapon](/3-Mechanics/CLI/spells/elemental-weapon-xphb.md), [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) |
-| 4th | [conjure minor elementals](/3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md), [divination](/3-Mechanics/CLI/spells/divination-xphb.md), [Otiluke's resilient sphere](/3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md) |
-| 5th | [animate objects](/3-Mechanics/CLI/spells/animate-objects-xphb.md), [conjure elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md) |
+| Cantrip | produce flame, shocking grasp |
+| 1st | [chaos bolt](3-Mechanics/CLI/spells/chaos-bolt-xge.md), create or destroy water, unseen servant |
+| 2nd | heat metal, rope trick |
+| 3rd | call lightning, elemental weapon, glyph of warding |
+| 4th | conjure minor elementals, divination, Otiluke's resilient sphere |
+| 5th | animate objects, conjure elemental |
 ^izzet-guild-spells
 
-Your spells tend to be loud, flashy, or explosive, even when the effect is unremarkable. For example, when you open the portal of a [rope trick](/3-Mechanics/CLI/spells/rope-trick-xphb.md) spell, the portal might be outlined by harmless, showy sparkles.
+Your spells tend to be loud, flashy, or explosive, even when the effect is unremarkable. For example, when you open the portal of a rope trick spell, the portal might be outlined by harmless, showy sparkles.
 
-If you use an arcane focus, it probably takes the form of an intricate device that could include metal gauntlets, glass canisters, copper tubing, and leather straps attaching it to your body. The [mizzium apparatus](/3-Mechanics/CLI/items/mizzium-apparatus-ggr.md) described in "chapter 5" is a magical version of this gear.
+If you use an arcane focus, it probably takes the form of an intricate device that could include metal gauntlets, glass canisters, copper tubing, and leather straps attaching it to your body. The [mizzium apparatus](3-Mechanics/CLI/items/mizzium-apparatus-ggr.md) described in "chapter 5" is a magical version of this gear.
 
-The [chaos bolt](/3-Mechanics/CLI/spells/chaos-bolt-xge.md) spell is a favorite of Izzet spellcasters because of its unpredictable nature.
+The [chaos bolt](3-Mechanics/CLI/spells/chaos-bolt-xge.md) spell is a favorite of Izzet spellcasters because of its unpredictable nature.
 
 ## Suggested Characteristics
 
 Members of the Izzet League embody some combination of chaotic, frenetic energy with intellectual curiosity, in varying proportions. Some are committed to academic pursuits, and others just like explosions.
 
 **Personality Traits**
-
-`dice: [](izzet-engineer-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -71,8 +69,6 @@ Members of the Izzet League embody some combination of chaotic, frenetic energy 
 
 **Ideals**
 
-`dice: [](izzet-engineer-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -85,8 +81,6 @@ Members of the Izzet League embody some combination of chaotic, frenetic energy 
 
 **Bonds**
 
-`dice: [](izzet-engineer-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I have dedicated my life to finding a solution to a scientific problem. |
@@ -98,8 +92,6 @@ Members of the Izzet League embody some combination of chaotic, frenetic energy 
 ^bonds
 
 **Flaws**
-
-`dice: [](izzet-engineer-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -119,8 +111,6 @@ Roll twice on the Izzet Contacts table (for an ally and a rival) and once on the
 
 **Izzet Contacts**
 
-`dice: [](izzet-engineer-ggr.md#^izzet-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | An older relative is a member of the guild's board of directors. |
@@ -134,8 +124,6 @@ Roll twice on the Izzet Contacts table (for an ally and a rival) and once on the
 ^izzet-contacts
 
 **Non-Izzet Contacts**
-
-`dice: [](izzet-engineer-ggr.md#^non-izzet-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

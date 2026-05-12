@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- The Tyrants; Tyrants Contacts
+- "The Tyrants; Tyrants Contacts"
 ---
 # The Tyrants; Tyrants Contacts
 *Source: Eberron: Rising from the Last War p. 180* 
 
 **Tyrants Contacts**
-
-`dice: [](the-tyrants-tyrants-contacts-erlw.md#^tyrants-contacts)`
 
 | dice: d4 | Contact |
 |----------|---------|

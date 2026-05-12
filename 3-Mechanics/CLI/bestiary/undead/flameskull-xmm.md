@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flameskull
+- "Flameskull"
 ---
-# [Flameskull](3-Mechanics\CLI\bestiary\undead/flameskull-xmm.md)
+# [Flameskull](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md)
 *Source: Monster Manual (2024) p. 120*  
 
 ## Flameskull
@@ -21,15 +21,13 @@ aliases:
 *Skull Smoldering with Magical Obsession*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
 
 Flameskulls are flying skulls that blaze with magical fire and the half-remembered arcana of dead spellcasters. They rise from the remains of dead magic-users who were reanimated by sinister necromancers or whose magical pursuits drive them beyond death. Flameskulls might serve as guardians for their creators or pursue ambitions left unfulfilled in life. They lash out at foes with destructive spells and bursts of fire, wielding magic without the need for most components.
 
 Flameskulls take various forms, from skulls with humanlike features to ones with fearsome or bestial alterations. Their flames vary in color and grow more intense when they're angry. Roll on or choose a result from the Flameskull Details table to inspire what makes a flameskull distinctive.
 
 **Flameskull Details**
-
-`dice: [](flameskull-xmm.md#^flameskull-details)`
 
 | dice: 1d6 | The Flameskull Features... |
 |-----------|----------------------------|
@@ -64,30 +62,30 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
   - !!int "11"
 "speed": "5 ft., fly 40 ft. (hover)"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common plus two other languages"
 "cr": "4"
 "traits":
-  - "desc": "The flameskull sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 15-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The flameskull sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 15-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
       \ for an additional 15 feet."
     "name": "Illumination"
-  - "desc": "The flameskull has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The flameskull has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
-  - "desc": "If the flameskull is destroyed, it regains all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ in 1 hour unless Holy Water is sprinkled on its remains or the [Dispel Evil\
-      \ and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell is cast\
-      \ on them."
+  - "desc": "If the flameskull is destroyed, it regains all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+      \ in 1 hour unless [Holy Water](3-Mechanics/CLI/items/holy-water-xphb.md) is\
+      \ sprinkled on its remains or the [Dispel Evil and Good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
+      \ spell is cast on them."
     "name": "Undead Restoration"
 "actions":
   - "desc": "The flameskull makes two Fire Ray attacks."
@@ -97,13 +95,13 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
     "name": "Fire Ray"
   - "desc": "The flameskull casts one of the following spells, requiring no Somatic\
       \ or Material components and using Intelligence as the spellcasting ability\
-      \ (spell save DC 13):\n\n**At will:** [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
-      \n**2/day:** [Magic Missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)\
-      \ (level 2 version)\n\n**1/day:** [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md)"
+      \ (spell save DC 13):\n\n**At will:** [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
+      \n**2/day:** [Magic Missile](3-Mechanics/CLI/spells/magic-missile-xphb.md) (level\
+      \ 2 version)\n\n**1/day:** [Fireball](3-Mechanics/CLI/spells/fireball-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/flameskull-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/flameskull-xmm.webp"
 ```
 ^statblock
 

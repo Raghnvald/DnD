@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Hyena
+- "Giant Hyena"
 ---
-# [Giant Hyena](3-Mechanics\CLI\bestiary\beast/giant-hyena.md)
+# [Giant Hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena.md)
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -37,7 +37,7 @@ aliases:
   - !!int "7"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -53,7 +53,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-hyena.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-hyena.webp"
 ```
 ^statblock
 

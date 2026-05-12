@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/race/tiefling/winged
 aliases:
-- Tiefling (Winged)
+- "Tiefling (Winged)"
 ---
 # Tiefling (Winged)
 *Source: Sword Coast Adventurer's Guide p. 118*  
-![](/3-Mechanics/CLI/races/img/feral-tiefling.webp#right)
+![](3-Mechanics/CLI/races/img/feral-tiefling.webp#right)
 
 - **Ability Scores**: Apply +1 to one of Dexterity or Charisma.
 - **Size**: Medium
@@ -44,7 +44,7 @@ You can speak, read, and write Common and Infernal.
 
 ### Appearance
 
-Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose `dice:1d4+1|noform|noparens|avg` (`1d4+1`) of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
+Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose `1d4+1` of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
 
 ## Description
 
@@ -74,4 +74,4 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 ^mutual-mistrust
 
 
-![](/3-Mechanics/CLI/races/img/tiefling.webp#center)
+![](3-Mechanics/CLI/races/img/tiefling.webp#center)

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Champion
+- "Sahuagin Champion"
 ---
-# [Sahuagin Champion](3-Mechanics\CLI\bestiary\humanoid/sahuagin-champion-gos.md)
+# [Sahuagin Champion](3-Mechanics/CLI/bestiary/humanoid/sahuagin-champion-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  
 
 Those sahuagin warriors who prove themselves through heroic acts are given both title and status. Sahuagin champions often serve as lieutenants in the sahuagin army, as they do in The Final Enemy.
@@ -39,6 +39,8 @@ Those sahuagin warriors who prove themselves through heroic acts are given both 
 "skillsaves":
   - "name": "Perception"
     "desc": "+5"
+"gear":
+  - "spear"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Sahuagin"
 "cr": "3"
@@ -60,14 +62,14 @@ Those sahuagin warriors who prove themselves through heroic acts are given both 
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claws"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-champion-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-champion-gos.webp"
 ```
 ^statblock

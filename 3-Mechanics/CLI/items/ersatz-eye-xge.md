@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Ersatz Eye"
 ---
 # Ersatz Eye

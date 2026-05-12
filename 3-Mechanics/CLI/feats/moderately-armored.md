@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Moderately Armored
+- "Moderately Armored"
 ---
 # Moderately Armored
 *Source: Player's Handbook p. 168*  

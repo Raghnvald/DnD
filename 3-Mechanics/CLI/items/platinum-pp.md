@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/treasure-coinage
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Platinum (pp)"
 ---
 # Platinum (pp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/platinum-pp.webp#right)
+![](3-Mechanics/CLI/items/img/platinum-pp.webp#right)
 
 - **Cost**: 10 gp
 - **Weight**: 0.02 lbs.

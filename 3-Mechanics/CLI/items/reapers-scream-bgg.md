@@ -8,11 +8,11 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Reaper's Scream"
 ---
 # Reaper's Scream
-*Weapon ([morningstar](/3-Mechanics/CLI/items/morningstar-xphb.md)), legendary (requires attunement)*  
+*Weapon (morningstar), legendary (requires attunement)*  
 
 
 - **Damage**: 1d8 piercing

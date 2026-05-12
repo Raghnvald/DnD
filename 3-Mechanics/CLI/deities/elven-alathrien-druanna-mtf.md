@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Alathrien Druanna
+aliases:
+- "Alathrien Druanna"
 ---
 # Alathrien Druanna
 *Source: Mordenkainen's Tome of Foes p. 43* 

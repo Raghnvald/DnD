@@ -12,7 +12,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+3 Ammunition"
 - "+3 Arrow"
 - "+3 Blowgun Needle"

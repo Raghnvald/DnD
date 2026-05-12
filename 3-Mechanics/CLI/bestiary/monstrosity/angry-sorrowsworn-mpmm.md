@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Angry Sorrowsworn
+- "Angry Sorrowsworn"
 ---
-# [Angry Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/angry-sorrowsworn-mpmm.md)
+# [Angry Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/angry-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222, Mordenkainen's Tome of Foes p. 231*  
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
@@ -42,18 +42,18 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 21"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 21"
 "languages": "Common"
 "cr": "13"
 "traits":
-  - "desc": "The sorrowsworn has advantage on saving throws against being [blinded](/3-Mechanics/CLI/conditions.md#Blinded),\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [stunned](/3-Mechanics/CLI/conditions.md#Stunned),\
-      \ or knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)."
+  - "desc": "The sorrowsworn has advantage on saving throws against being [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded),\
+      \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+      \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned),\
+      \ or knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)."
     "name": "Two Heads"
   - "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's\
       \ attack rolls have advantage until the end of its next turn, and the first\
@@ -71,7 +71,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/angry-sorrowsworn-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/angry-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

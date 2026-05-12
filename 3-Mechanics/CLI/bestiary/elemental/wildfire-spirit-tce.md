@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wildfire Spirit
+- "Wildfire Spirit"
 ---
-# [Wildfire Spirit](3-Mechanics\CLI\bestiary\elemental/wildfire-spirit-tce.md)
+# [Wildfire Spirit](3-Mechanics/CLI/bestiary/elemental/wildfire-spirit-tce.md)
 *Source: Tasha's Cauldron of Everything p. 40*  
 
 ```statblock
@@ -32,11 +32,11 @@ aliases:
   - !!int "11"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you speak"
 "actions":
   - "desc": "*Ranged Weapon Attack:* your spell attack modifier to hit, range 60 ft.,\
@@ -49,6 +49,6 @@ aliases:
     "name": "Fiery Teleportation"
 "source":
   - "TCE"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/wildfire-spirit-tce.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/wildfire-spirit-tce.webp"
 ```
 ^statblock

@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Elemental Essence Shard (Water)"
 ---
 # Elemental Essence Shard (Water)
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
 
 - **Weight**: 1.0 lbs.
@@ -21,6 +22,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `dice:2d6|noform|noparens|avg` (`2d6`) cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [prone](/3-Mechanics/CLI/conditions.md#Prone).
+You create a wave of water that bursts out from you in a 10-foot radius. Each creature of your choice that you can see in that area takes `2d6` cold damage and must succeed on a Strength saving throw against your spell save DC or be pushed 10 feet away from you and fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 *Source: Tasha's Cauldron of Everything p. 127*

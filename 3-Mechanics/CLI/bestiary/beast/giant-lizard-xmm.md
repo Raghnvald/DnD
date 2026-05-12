@@ -15,14 +15,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Lizard
+- "Giant Lizard"
 ---
-# [Giant Lizard](3-Mechanics\CLI\bestiary\beast/giant-lizard-xmm.md)
+# [Giant Lizard](3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md)
 *Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Lizard (XMM)"
@@ -43,8 +43,8 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "speed": "40 ft., climb 40 ft."
 "saves":
   - "dexterity": !!int "3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -52,11 +52,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing\
+      \ damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-lizard-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-lizard-xmm.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/undead/shapechanger
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Vampire
+- "Gnoll Vampire"
 ---
-# [Gnoll Vampire](3-Mechanics\CLI\bestiary\undead/gnoll-vampire-idrotf.md)
+# [Gnoll Vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 290*  
 
 When a gnoll's ravenous hunger is so great that it craves flesh and blood even after death, it can rise as a vampire to continue its feeding frenzy.
@@ -25,7 +25,7 @@ Unlike normal vampires, gnoll vampires don't have coffins where they rest, and t
 
 > [!note] Tekeli-Li and the Caves of Hunger
 > 
-> Tekeli-li was a [fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), a powerful gnoll whose pack invaded Icewind Dale more than a century ago. When the gnolls' wanton slaughter of reindeer herds threatened the survival of the Reghed tribes, the tribes banded together against the gnolls and routed them in the autumn of 1333 DR. Tekeli-li and his surviving kin fled across the tundra with the Reghed tribes in pursuit.
+> Tekeli-li was a [fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), a powerful gnoll whose pack invaded Icewind Dale more than a century ago. When the gnolls' wanton slaughter of reindeer herds threatened the survival of the Reghed tribes, the tribes banded together against the gnolls and routed them in the autumn of 1333 DR. Tekeli-li and his surviving kin fled across the tundra with the Reghed tribes in pursuit.
 > 
 > The wounded gnolls found an icy cleft on the edge of the Reghed Glacier and hid there for the winter. To keep their leader alive, the other gnolls allowed Tekeli-li to eat them one by one, yet his hunger would not abate. Auril came upon the starving, half-frozen creature and flung Tekeli-li into an icy tomb deep within the glacier. In doing so, the Frostmaiden sought to preserve what the gnoll had become—the embodiment of winter's remorseless consumption.
 > 
@@ -55,12 +55,13 @@ Unlike normal vampires, gnoll vampires don't have coffins where they rest, and t
   - "dexterity": !!int "7"
   - "constitution": !!int "7"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, Gnoll"
 "cr": "8"
 "traits":
-  - "desc": "The vampire has advantage on Wisdom (Perception) checks that rely on\
-      \ smell."
+  - "desc": "The vampire has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "When it reduces a creature to 0 hit points with a melee attack on its\
       \ turn, the vampire can take a bonus action to move up to half its speed and\
@@ -68,8 +69,8 @@ Unlike normal vampires, gnoll vampires don't have coffins where they rest, and t
     "name": "Rampage"
   - "desc": "The vampire regains 10 hit points at the start of its turn if it has\
       \ at least 1 hit point and isn't in sunlight or running water. If the vampire\
-      \ takes radiant damage or damage from holy water, this trait doesn't function\
-      \ at the start of the vampire's next turn."
+      \ takes radiant damage or damage from [holy water](3-Mechanics/CLI/items/holy-water-flask.md),\
+      \ this trait doesn't function at the start of the vampire's next turn."
     "name": "Regeneration"
   - "desc": "If the vampire isn't in sunlight, it can use its action to polymorph\
       \ into a Large hyena or a Medium cloud of mist, or back into its true form.\n\
@@ -89,24 +90,25 @@ Unlike normal vampires, gnoll vampires don't have coffins where they rest, and t
   - "desc": "The vampire has the following flaws:\n\n- **Enraged by Celestial.** If\
       \ it hears words of Celestial spoken, the vampire must try to attack the source\
       \ of those spoken words on its next turn. If these words come from multiple\
-      \ sources and from opposite directions, the vampire is restrained. Otherwise,\
-      \ it moves to attack what it perceives to be the closest source.  \n- **Repulsed\
-      \ by Perfume.** The vampire has disadvantage on melee attack rolls made against\
-      \ any creature wearing perfume or carrying an open container of it.  \n- **Stake\
-      \ to the Heart.** If a piercing weapon made of wood is driven into the vampire's\
-      \ heart while the vampire is incapacitated in its resting place, the vampire\
-      \ is paralyzed until the stake is removed.  \n- **Sunlight Hypersensitivity.**\
-      \ The vampire takes 20 radiant damage when it starts its turn in sunlight. While\
-      \ in sunlight, it has disadvantage on attack rolls and ability checks.  "
+      \ sources and from opposite directions, the vampire is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
+      \ Otherwise, it moves to attack what it perceives to be the closest source.\
+      \  \n- **Repulsed by Perfume.** The vampire has disadvantage on melee attack\
+      \ rolls made against any creature wearing perfume or carrying an open container\
+      \ of it.  \n- **Stake to the Heart.** If a piercing weapon made of wood is driven\
+      \ into the vampire's heart while the vampire is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ in its resting place, the vampire is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the stake is removed.  \n- **Sunlight Hypersensitivity.** The vampire\
+      \ takes 20 radiant damage when it starts its turn in sunlight. While in sunlight,\
+      \ it has disadvantage on attack rolls and ability checks.  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "The vampire makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack (Vampire Form Only)"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 12\
-      \ (2d6 + 5) piercing damage plus 9 (2d8) necrotic damage. The target's hit point\
-      \ maximum is reduced by an amount equal to the necrotic damage taken, and the\
-      \ vampire regains hit points equal to that amount. The reduction lasts until\
-      \ the target finishes a long rest. the target dies if its hit point maximum\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 12 (2d6 + 5) piercing damage plus 9 (2d8) necrotic damage. The target's\
+      \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
+      \ and the vampire regains hit points equal to that amount. The reduction lasts\
+      \ until the target finishes a long rest. the target dies if its hit point maximum\
       \ is reduced to 0."
     "name": "Bite (Hyena or Vampire Form Only)"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 10\
@@ -114,20 +116,20 @@ Unlike normal vampires, gnoll vampires don't have coffins where they rest, and t
     "name": "Claws (Vampire Form Only)"
   - "desc": "The vampire emits a bone-chilling cackle. Each creature of the vampire's\
       \ choice that is within 120 feet of the vampire and can hear its cackle must\
-      \ succeed on a DC 15 Wisdom saving throw or become frightened for 1 minute.\
-      \ A creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a creature's saving throw is successful\
-      \ or the effect ends for it, the creature is immune to the vampire's Frightful\
-      \ Cackle for the next 24 hours."
+      \ succeed on a DC 15 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success. If a creature's saving\
+      \ throw is successful or the effect ends for it, the creature is immune to the\
+      \ vampire's Frightful Cackle for the next 24 hours."
     "name": "Frightful Cackle (Hyena or Vampire Form Only)"
   - "desc": "The vampire targets one humanoid it can see within 30 feet of it. If\
       \ the target can see the vampire, the target must succeed on a DC 15 Constitution\
-      \ saving throw against this magic or be poisoned for 24 hours. A creature whose\
-      \ saving throw is successful is immune to this vampire's Sickening Gaze for\
-      \ 24 hours."
+      \ saving throw against this magic or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 24 hours. A creature whose saving throw is successful is immune to this\
+      \ vampire's Sickening Gaze for 24 hours."
     "name": "Sickening Gaze (Hyena or Vampire Form Only)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/gnoll-vampire-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/gnoll-vampire-idrotf.webp"
 ```
 ^statblock

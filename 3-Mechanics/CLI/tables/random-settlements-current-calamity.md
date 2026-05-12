@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Current Calamity
+- "Random Settlements; Current Calamity"
 ---
 # Random Settlements; Current Calamity
 *Source: Dungeon Master's Guide p. 112* 
 
 **Current Calamity**
-
-`dice: [](random-settlements-current-calamity.md#^current-calamity)`
 
 | dice: d20 | Calamity |
 |-----------|----------|

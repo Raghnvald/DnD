@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Prisoner 237
+- "Prisoner 237"
 ---
-# [Prisoner 237](3-Mechanics\CLI\bestiary\npc/prisoner-237-idrotf.md)
+# [Prisoner 237](3-Mechanics/CLI/bestiary/npc/prisoner-237-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 160*  
 
 Vaelish Gant, Prisoner 237 within the walls of Revel's End, is a member of the Arcane Brotherhood who first engaged in criminal activity by insinuating himself into the trade network of Ten-Towns. He hoped that his work would help the Arcane Brotherhood gain control of the region. A few years ago, shortly after his arrival in Ten-Towns, Gant established a protection racket in Bryn Shander and tried to turn the town against its speaker, Duvessa Shane, with the goal of supplanting her. He also tried to destabilize the economy of Ten-Towns. A party of adventurers thwarted his criminal ventures by capturing him.
@@ -23,7 +23,7 @@ For a long time, Gant held out hope that the Arcane Brotherhood would apply pres
 
 Vaelish Gant is a mage who specializes in the arcane tradition of abjuration. Pompous and conniving, he never doubts that he's the smartest person in the room, and he makes sure everyone around him knows how he feels.
 
-Gant has neither a spellbook nor material components for spellcasting, and he can't avail himself of his magic while locked in his cell due to the antimagic field that encompasses it.
+Gant has neither a spellbook nor material components for spellcasting, and he can't avail himself of his magic while locked in his cell due to the [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md) that encompasses it.
 
 ```statblock
 "name": "Prisoner 237 (IDRotF)"
@@ -44,11 +44,11 @@ Gant has neither a spellbook nor material components for spellcasting, and he ca
   - !!int "15"
 "speed": "30 ft. (10 ft. while shackled)"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic, Infernal, Orc"
@@ -56,20 +56,25 @@ Gant has neither a spellbook nor material components for spellcasting, and he ca
 "traits":
   - "desc": "Prisoner 237 is a 5th-level spellcaster. His spellcasting ability is\
       \ Intelligence (spell save DC 13; +5 to hit with spell attacks). He has the\
-      \ following wizard spells prepared:\n\n**Cantrips (at will):** light*, message*,\
-      \ prestidigitation, shocking grasp (see \"Actions\" below)\n\n**1st level (4\
-      \ slots):** mage armor*, shield, sleep\n\n**2nd level (3 slots):** arcane lock*,\
-      \ detect thoughts*, suggestion*\n\n**3rd level (2 slots):** counterspell, lightning\
-      \ bolt*\n\n*Prisoner 237 needs material components to cast these spells."
+      \ following wizard spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light.md)*,\
+      \ [message](3-Mechanics/CLI/spells/message.md)*, [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
+      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md) (see \"Actions\"\
+      \ below)\n\n**1st level (4 slots):** [mage armor](3-Mechanics/CLI/spells/mage-armor.md)*,\
+      \ [shield](3-Mechanics/CLI/spells/shield.md), [sleep](3-Mechanics/CLI/spells/sleep.md)\n\
+      \n**2nd level (3 slots):** [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md)*,\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md)*, [suggestion](3-Mechanics/CLI/spells/suggestion.md)*\n\
+      \n**3rd level (2 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell.md),\
+      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)*\n\n*Prisoner 237\
+      \ needs material components to cast these spells."
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee Spell Attack:* +5 to hit (with advantage on the attack if the\
       \ target is wearing armor made of metal), reach 5 ft., one creature. *Hit:*\
-      \ 9 (2d8) lightning damage, and the target can't take reactions until the start\
-      \ of its next turn."
+      \ 9 (2d8) lightning damage, and the target can't take reactions until the\
+      \ start of its next turn."
     "name": "Shocking Grasp (Cantrip)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/prisoner-237-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/prisoner-237-idrotf.webp"
 ```
 ^statblock

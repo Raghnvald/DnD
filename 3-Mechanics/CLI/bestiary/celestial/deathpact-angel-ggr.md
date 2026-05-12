@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathpact Angel
+- "Deathpact Angel"
 ---
-# [Deathpact Angel](3-Mechanics\CLI\bestiary\celestial/deathpact-angel-ggr.md)
+# [Deathpact Angel](3-Mechanics/CLI/bestiary/celestial/deathpact-angel-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  
 
 Deathpact angels dwell in the grandest of Orzhov cathedrals, where they surround themselves with wealth and wretched vassals that are utterly in their thrall.
@@ -56,36 +56,31 @@ Orzhov angels might claim positions as executioners, commanders, or power broker
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+10"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+11"
 "damage_resistances": "necrotic; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 20"
+"condition_immunities": "charmed, exhaustion, frightened"
+"senses": "truesight 120 ft., passive Perception 20"
 "languages": "all"
 "cr": "14"
 "traits":
   - "desc": "The angel's innate spellcasting ability is Charisma (spell save DC 19,\
       \ +11 to hit with spell attacks). The angel can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** [command](/3-Mechanics/CLI/spells/command-xphb.md)\
-      \ (as a 2nd-level spell), [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
-      \n**3/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md)\
-      \ (as a 5th-level spell), [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day:** [raise\
-      \ dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)"
+      \ spells, requiring no material components:\n\n**At will:** command (as a 2nd-level\
+      \ spell), detect evil and good\n\n**3/day each:** charm person (as a 5th-level\
+      \ spell), darkness, suggestion\n\n**1/day:** raise dead"
     "name": "Innate Spellcasting"
-  - "desc": "As a bonus action, the angel targets a creature [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ by it that it can see within 30 feet of it. The angel deals 11 (2d10) necrotic\
-      \ damage to the target, and the angel gains temporary hit points equal to the\
-      \ damage dealt."
+  - "desc": "As a bonus action, the angel targets a creature charmed by it that it\
+      \ can see within 30 feet of it. The angel deals 11 (2d10) necrotic damage\
+      \ to the target, and the angel gains temporary hit points equal to the damage\
+      \ dealt."
     "name": "Exploitation of the Debtors"
   - "desc": "The angel doesn't provoke an opportunity attack when it flies out of\
       \ an enemy's reach."
@@ -97,16 +92,15 @@ Orzhov angels might claim positions as executioners, commanders, or power broker
   - "desc": "The angel makes two attacks with its scythe. It can substitute Chains\
       \ of Obligation for one of these attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (2d4 + 4) slashing damage plus 27 (6d8) necrotic damage."
     "name": "Scythe"
-  - "desc": "The angel targets one creature [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ by it that it can see within 90 feet of it. The target must succeed on a DC\
-      \ 19 Charisma saving throw or become [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ for 1 minute or until it takes any damage."
+  - "desc": "The angel targets one creature charmed by it that it can see within 90\
+      \ feet of it. The target must succeed on a DC 19 Charisma saving throw or become\
+      \ paralyzed for 1 minute or until it takes any damage."
     "name": "Chains of Obligation"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/deathpact-angel-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/deathpact-angel-ggr.webp"
 ```
 ^statblock

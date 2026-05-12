@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/kobold
 aliases:
-- Kobold
+- "Kobold"
 ---
 # Kobold
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 25*  
-![](/3-Mechanics/CLI/races/img/kobold.webp#right)
+![](3-Mechanics/CLI/races/img/kobold.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small
@@ -31,8 +31,8 @@ As a bonus action, you let out a cry at your enemies within 10 feet of you. Unti
 
 Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold.
 
-- **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand), or [Survival](/3-Mechanics/CLI/skills.md#Survival).  
-- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition on yourself.  
+- **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Survival](3-Mechanics/CLI/rules/skills.md#Survival).  
+- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition on yourself.  
 - **Draconic Sorcery.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).  
 
 ## Description

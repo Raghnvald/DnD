@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/15
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grim Champion of Pestilence
+- "Grim Champion of Pestilence"
 ---
-# [Grim Champion of Pestilence](3-Mechanics\CLI\bestiary\undead/grim-champion-of-pestilence-bmt.md)
+# [Grim Champion of Pestilence](3-Mechanics/CLI/bestiary/undead/grim-champion-of-pestilence-bmt.md)
 *Source: The Book of Many Things p. 163*  
 
 Aleron was once a tiefling adventurer, but unlike so many victims of the Deck of Many Things, he never drew the Skull card. Instead, when one of his allies drew the card and faced the avatar of death, Aleron came to his ally's aid. A second avatar of death appeared, and Aleron was slain; soon after, his Undead corpse crawled from Withered Vineyard, tainted with plague. Aleron resents his fellow Undead in the Grim Harrow, considering himself better than all of them and unjustly condemned to the Gardens of Decay for an act of altruism.
@@ -72,8 +72,8 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
   - "desc": "The champion makes two Blight Staff attacks, two Plague Bolt attacks,\
       \ or one of each."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) bludgeoning damage plus 21 (6d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) bludgeoning damage plus 21 (6d6) necrotic damage."
     "name": "Blight Staff"
   - "desc": "*Ranged Spell Attack:* +10 to hit, range 120 ft., one target. *Hit:*\
       \ 23 (4d8 + 5) poison damage, and the target has the poisoned condition until\
@@ -98,6 +98,6 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/grim-champion-of-pestilence-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/grim-champion-of-pestilence-bmt.webp"
 ```
 ^statblock

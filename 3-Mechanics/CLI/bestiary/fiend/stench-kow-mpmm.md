@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stench Kow
+- "Stench Kow"
 ---
-# [Stench Kow](3-Mechanics\CLI\bestiary\fiend/stench-kow-mpmm.md)
+# [Stench Kow](3-Mechanics/CLI/bestiary/fiend/stench-kow-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Stench kows are misshapen bison native to the Lower Planes. These orange and green creatures defend themselves by exuding a miasma so hideous as to be toxic. Some mischievous and malevolent wizards have summoned stench kows to the Material Plane, disguised the creatures as oxen, and let the infernal bison loose on unsuspecting villages.
@@ -42,27 +42,27 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
   - !!int "4"
 "speed": "30 ft."
 "damage_resistances": "cold, fire, poison"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "Any creature other than a stench kow that starts its turn within 5 feet\
       \ of the stench kow must succeed on a DC 12 Constitution saving throw or be\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the start of the\
-      \ creature's next turn. On a successful saving throw, the creature is immune\
+      \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the start of\
+      \ the creature's next turn. On a successful saving throw, the creature is immune\
       \ to the Stench of all stench kows for 1 hour."
     "name": "Stench"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage. If the stench kow moved at least 20 feet straight toward\
-      \ the target immediately before the hit, the target takes an extra 7 (2d6) piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage. If the stench kow moved at least 20 feet straight\
+      \ toward the target immediately before the hit, the target takes an extra 7\
+      \ (2d6) piercing damage."
     "name": "Gore"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/stench-kow-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/stench-kow-mpmm.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shago
+- "Shago"
 ---
-# [Shago](3-Mechanics\CLI\bestiary\npc/shago-toa.md)
+# [Shago](3-Mechanics/CLI/bestiary/npc/shago-toa.md)
 *Source: Tomb of Annihilation p. 35*  
 
 ```statblock
@@ -22,7 +22,8 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "studded leather, shield"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -39,17 +40,19 @@ aliases:
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+7"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-  - "desc": "Shago has advantage on saving throws against being frightened."
+  - "desc": "Shago has advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Brave"
   - "desc": "A melee weapon deals one extra die of its damage when Shago hits with\
       \ it (included in the attack)."
@@ -57,13 +60,13 @@ aliases:
 "actions":
   - "desc": "Shago makes three melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60\
-      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range\
+      \ 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8\
+      \ + 4) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
   - "desc": "Shago adds 3 to its AC against one melee attack that would hit it. To\
@@ -71,6 +74,6 @@ aliases:
     "name": "Parry"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/shago-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/shago-toa.webp"
 ```
 ^statblock

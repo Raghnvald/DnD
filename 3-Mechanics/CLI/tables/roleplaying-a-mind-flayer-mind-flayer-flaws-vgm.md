@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Mind Flayer; Mind Flayer Flaws
+- "Roleplaying a Mind Flayer; Mind Flayer Flaws"
 ---
 # Roleplaying a Mind Flayer; Mind Flayer Flaws
 *Source: Volo's Guide to Monsters p. 74* 
 
 **Mind Flayer Flaws**
-
-`dice: [](roleplaying-a-mind-flayer-mind-flayer-flaws-vgm.md#^mind-flayer-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

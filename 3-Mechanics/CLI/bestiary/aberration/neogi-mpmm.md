@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Neogi
+- "Neogi"
 ---
-# [Neogi](3-Mechanics\CLI\bestiary\aberration/neogi-mpmm.md)
+# [Neogi](3-Mechanics/CLI/bestiary/aberration/neogi-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -50,18 +50,18 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - !!int "15"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "3"
 "traits":
-  - "desc": "The neogi has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and magic can't\
-      \ put the neogi to sleep."
+  - "desc": "The neogi has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), and magic\
+      \ can't put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -69,29 +69,30 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "actions":
   - "desc": "The neogi makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage plus 14 (4d6) poison damage, and the target must succeed\
-      \ on a DC 12 Constitution saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target\
+      \ must succeed on a DC 12 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) slashing damage."
     "name": "Claw"
 "bonus_actions":
   - "desc": "The neogi targets one creature it can see within 30 feet of it. The target\
-      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ must succeed on a DC 14 Wisdom saving throw or be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ by the neogi for 1 day, or until the neogi dies or is more than 1 mile from\
-      \ the target. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target obeys\
-      \ the neogi's commands and can't take reactions, and the neogi and the target\
-      \ can communicate telepathically with each other at a distance of up to 1 mile.\
-      \ Whenever the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target takes\
-      \ damage, it can repeat the saving throw, ending the effect on itself on a success."
+      \ the target. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
+      \ obeys the neogi's commands and can't take reactions, and the neogi and the\
+      \ target can communicate telepathically with each other at a distance of up\
+      \ to 1 mile. Whenever the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ target takes damage, it can repeat the saving throw, ending the effect on\
+      \ itself on a success."
     "name": "Enslave (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/neogi-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/neogi-mpmm.webp"
 ```
 ^statblock
 

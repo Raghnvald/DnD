@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Abomination
+- "Yuan-ti Abomination"
 ---
-# [Yuan-ti Abomination](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-abomination-xmm.md)
+# [Yuan-ti Abomination](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md)
 *Source: Monster Manual (2024) p. 345*  
 
 Yuan-ti abominations have traded away nearly all evidence of their humanity, coming to resemble giant, upright serpents with scaly arms and hands. In battle, they relish opportunities to crush foes in their powerful coils or strike with their venomous fangs. These abominations can also shape-shift into snakes. In these forms, abominations are indistinguishable from normal serpents.
@@ -28,7 +28,7 @@ The true threat of yuan-ti abominations stems not from their physical might but 
 *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 
@@ -37,8 +37,6 @@ Yuan-ti have humanlike forms with a variety of horrifying serpentine transformat
 Yuan-ti might gain their reptilian features through dangerous supernatural rites. Roll on or choose a result from the Yuan-ti Transformations table to inspire how yuan-ti obtain their serpentine aspects.
 
 **Yuan-ti Transformations**
-
-`dice: [](yuan-ti-abomination-xmm.md#^yuan-ti-transformations)`
 
 | dice: 1d6 | A Yuan-ti Gained Its Snake Features From... |
 |-----------|---------------------------------------------|
@@ -73,42 +71,42 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   - !!int "15"
 "speed": "40 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 17"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
-  - "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The yuan-ti has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The yuan-ti makes two Bite attacks, and it can use Spellcasting to cast\
-      \ [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md) if available."
+      \ [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md) if available."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing damage\
-      \ plus 10 (3d6) Poison damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage plus 10 (3d6) Poison damage."
     "name": "Bite"
   - "desc": "*Strength Saving Throw:* DC 15, one Large or smaller creature within\
-      \ 5 feet. *Failure:* 28 (7d6 + 4) Bludgeoning damage. The target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 14), and it has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ 5 feet. *Failure:* 28 (7d6 + 4) Bludgeoning damage. The target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition (escape DC 14), and it has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ condition until the grapple ends. *Success:* Half damage only."
     "name": "Constrict"
-  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* 21 (6d6) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the end of the yuan-ti's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition.\
-      \ *Success:* Half damage only."
+  - "desc": "*Constitution Saving Throw:* DC 14, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 21 (6d6) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ condition until the end of the yuan-ti's next turn. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ condition. *Success:* Half damage only."
     "name": "Poison Spray (Recharge 5-6)"
   - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
-      \ (snakes only)\n\n**3/day:** [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+      \n**At will:** [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**3/day:** [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti shape-shifts into a Large snake or returns to its true form.\
@@ -118,7 +116,7 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination-xmm.webp"
 ```
 ^statblock
 

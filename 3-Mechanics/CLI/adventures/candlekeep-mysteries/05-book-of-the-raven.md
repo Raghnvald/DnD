@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
+- ttrpg-cli/compendium/src/5e/cm
 aliases:
-- Book of the Raven
+- "Book of the Raven"
 ---
 # Book of the Raven
 *Source: Candlekeep Mysteries, p. 35* 
 
-![Book of the Raven](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/021-04-001-book-of-the-raven.webp#center)
+![Book of the Raven](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/021-04-001-book-of-the-raven.webp#center)
 
 **An Adventure for 3rd-level Characters**  
 **Edited by Kim Mohan**  
@@ -27,7 +27,7 @@ Characters in Candlekeep might uncover this book and the treasure map hidden ins
 - The Vistani and other planar travelers  
 - Possible routes into and out of the Shadowfell  
 
-Alternatively, the book can be delivered to the characters by a [raven](/3-Mechanics/CLI/bestiary/beast/raven.md). Avoiding contact with strangers, it leaves the book in a place where the characters are likely to find it. This raven contains the restless soul of a dead girl named Heluthe, who wants to frighten away the squatters in Chalet Brantifax, her former home. The raven can't speak or make its intentions clear, but it hopes the map in the book will lead characters to the chalet, which is described later in the adventure.
+Alternatively, the book can be delivered to the characters by a raven. Avoiding contact with strangers, it leaves the book in a place where the characters are likely to find it. This raven contains the restless soul of a dead girl named Heluthe, who wants to frighten away the squatters in Chalet Brantifax, her former home. The raven can't speak or make its intentions clear, but it hopes the map in the book will lead characters to the chalet, which is described later in the adventure.
 
 ### Book Description
 
@@ -59,7 +59,7 @@ The mystery surrounding the *Book of the Raven* has to do with the map Anil Zasp
 
 Zasperdes was a wereraven who had a gift for hiding things. He was also the founder of the Scarlet Sash, a group of wereravens known for stealing magic items from evil individuals and hiding evil items from the world at large. He chose the *Book of the Raven* as a hiding place for the map because anyone interested in its subject matter might also be interested in following the map to its destination: a ruined chalet nestled in remote highlands.
 
-![Map of Mystery](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/022-04-002-map-handout.webp#center)
+![Map of Mystery](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/022-04-002-map-handout.webp#center)
 
 ### Wytchway
 
@@ -81,7 +81,7 @@ This stone chalet was built for a wealthy noble named Baron Brantifax on a site 
 
 During daylight hours, skittish ravens perch atop the chalet and alight on the tombstones in its graveyard. They nervously stare and squawk at visitors but pose no threat to the characters; when night falls, the ravens fly off, and an eerie silence settles over the house until sunrise, when they return.
 
-As the characters will discover, these birds are actually [wereravens](/3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) (see the end of the adventure for their stat block). Wereravens live and travel in groups called kindnesses, and this particular kindness is called the Scarlet Sash.
+As the characters will discover, these birds are actually [wereravens](3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) (see the end of the adventure for their stat block). Wereravens live and travel in groups called kindnesses, and this particular kindness is called the Scarlet Sash.
 
 Characters who observe the chalet at night can see lights moving within as members of the Scarlet Sash creep about the old house in humanoid form, using oil lanterns to light their way. These lights occasionally cluster in the upper stories of the tower (area C14), where the wereravens spend the most time together.
 
@@ -161,7 +161,7 @@ A morose, rail-thin figure, Rennick is cautious and wise beyond their years. The
 
 *Lawful good human wereraven (age 30)*
 
-Vinique brought a ghastly, evil relic (see the "[Orcus Figurine](/3-Mechanics/CLI/items/orcus-figurine-cm.md)" sidebar later in the adventure) to the chalet. She stashes it in an old, nonfunctional lantern that she keeps with her at all times. Gifted with a wry wit and a witch's cackle of a laugh, Vinique mimics the happy cries of small children and the screams of a dying man to frighten intruders.
+Vinique brought a ghastly, evil relic (see the "[Orcus Figurine](3-Mechanics/CLI/items/orcus-figurine-cm.md)" sidebar later in the adventure) to the chalet. She stashes it in an old, nonfunctional lantern that she keeps with her at all times. Gifted with a wry wit and a witch's cackle of a laugh, Vinique mimics the happy cries of small children and the screams of a dying man to frighten intruders.
 
 ##### Personality Trait
 
@@ -181,13 +181,11 @@ Vinique brought a ghastly, evil relic (see the "[Orcus Figurine](/3-Mechanics/CL
 
 #### Roleplaying the Wereravens
 
-The wereravens convene in area C14 of the chalet and use their powers of mimicry to frighten strangers. They can also throw their voices to make it seem like the sounds are coming from other parts of the chalet. If you're not sure how to handle this, you can roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Wereraven Mimicry table to determine what sound the characters hear and where it seems to be coming from. Use this table as often as you like.
+The wereravens convene in area C14 of the chalet and use their powers of mimicry to frighten strangers. They can also throw their voices to make it seem like the sounds are coming from other parts of the chalet. If you're not sure how to handle this, you can roll a `d6` and consult the Wereraven Mimicry table to determine what sound the characters hear and where it seems to be coming from. Use this table as often as you like.
 
-![Chalet Brantifax](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/023-04-003-chalet-brantifax.webp#center)
+![Chalet Brantifax](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/023-04-003-chalet-brantifax.webp#center)
 
 **Wereraven Mimicry**
-
-`dice: [](05-book-of-the-raven.md#^wereraven-mimicry)`
 
 | dice: d6 | Sound and Source |
 |----------|------------------|
@@ -225,8 +223,8 @@ The elements have gained a foothold inside the chalet, causing plaster to peel, 
 The following locations are keyed to the map of Chalet Brantifax.
 
 > [!gallery]
-> ![Map 4.01: Chalet Brantifax](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/024-map-4-01-chalet-brantifax.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/025-map-4-01-chalet-brantifax-player.webp#gallery)
+> ![Map 4.01: Chalet Brantifax](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/024-map-4-01-chalet-brantifax.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/025-map-4-01-chalet-brantifax-player.webp#gallery)
 
 ### Cellar (C1-C3)
 
@@ -260,7 +258,7 @@ This room served as living quarters for the baron's cook and the chalet's ground
 > 
 > The only feature of this damp, cold, circular room is a four-foot-diameter well in the middle of the floor. Next to this shaft sits a wooden bucket fastened to a coiled length of rope.
 > 
-> The bottom of the shaft is veiled in darkness. From its depths, a whispering voice says, "Brorn! Where are you, boy?" 
+> The bottom of the shaft is veiled in darkness. From its depths, a whispering voice says, "Brorn! Where are you, boy?"
 ^0e7
 
 After the death of Brorn, his beloved mastiff, Baron Brantifax was beset by spells of sleepwalking, during which he would wander about the chalet looking for his lost hound. The servants mistook his sleepwalking for temporary madness brought on by insomnia, and they assumed he was awake at the time. He was sleepwalking when he fell down the well, and he drowned before the servants could get him out. The haunting whispers of his restless spirit terrified the staff, who fled the chalet shortly thereafter. The baron's spirit is too weak to manifest physically or cause any harm.
@@ -362,7 +360,7 @@ The elements have eroded the lettering on the headstones, so characters must be 
 
 The characters can use the shovel in area C4 to dig up the graves if they so desire. Buried six feet under each headstone is a rotting wooden coffin containing the moldy bones of its occupant, or something more terrifying. The baron's two daughters, Sylphene and Heluthe, perished at the ages of six and nine, respectively, and for different reasons (see area C12 for details).
 
-A hag stole Heluthe's corpse a few years ago and replaced it with a [scarecrow](/3-Mechanics/CLI/bestiary/construct/scarecrow.md) and two [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw.md) that try to murder anyone who releases them. If exhumed, Syphene's skeleton shows signs of hideous deformities. Brorn, the baron's mastiff, died of old age shortly before the death of its master. Characters who stand on Baron Brantifax's grave feel a harmless chill run through them.
+A hag stole Heluthe's corpse a few years ago and replaced it with a scarecrow and two crawling claws that try to murder anyone who releases them. If exhumed, Syphene's skeleton shows signs of hideous deformities. Brorn, the baron's mastiff, died of old age shortly before the death of its master. Characters who stand on Baron Brantifax's grave feel a harmless chill run through them.
 
 ##### Treasure
 
@@ -443,21 +441,21 @@ The secret door leading to area C13 can't normally be opened from this side. Eve
 
 ##### Treasure
 
-On the uppermost level of the tower, not visible to characters on the lower level, is an unlocked wooden chest with a scorched lid and clawed iron feet. Its interior is divided into small compartments, one of which contains a potion of mind reading that also causes the imbiber's skin to sparkle for the duration of the potion's effect. The members of the Scarlet Sash have no use for the potion and don't care if the characters claim it.
+On the uppermost level of the tower, not visible to characters on the lower level, is an unlocked wooden chest with a scorched lid and clawed iron feet. Its interior is divided into small compartments, one of which contains a [potion of mind reading](3-Mechanics/CLI/items/potion-of-mind-reading.md) that also causes the imbiber's skin to sparkle for the duration of the potion's effect. The members of the Scarlet Sash have no use for the potion and don't care if the characters claim it.
 
 Stuffed in the chest's other compartments are six trinkets that the wereravens picked up in their travels and which they won't give up as readily as the potion. Determine each trinket randomly by rolling on the "Trinkets table" in the "Player's Handbook".
 
-![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/026-04-004-orcus-figurine.webp#center)
+![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/026-04-004-orcus-figurine.webp#center)
 
 > [!note] Orcus Figurine
 > 
-> Vinique the wereraven stole this [six-inch-tall](/3-Mechanics/CLI/items/orcus-figurine-cm.md) sculpture from an evil merchant before it could be sold at auction in a major city. Carved from an ogre's petrified heart, the gray figurine depicts the Demon Prince of Undeath in ghastly detail, clutching his skull-topped wand in one hand and three severed heads by the hair in the other. The figurine smells like decaying flesh, and this scent is detectable out to a range of 5 feet.
+> Vinique the wereraven stole this [six-inch-tall](3-Mechanics/CLI/items/orcus-figurine-cm.md) sculpture from an evil merchant before it could be sold at auction in a major city. Carved from an ogre's petrified heart, the gray figurine depicts the Demon Prince of Undeath in ghastly detail, clutching his skull-topped wand in one hand and three severed heads by the hair in the other. The figurine smells like decaying flesh, and this scent is detectable out to a range of 5 feet.
 > 
 > The figurine is a Tiny object with AC 17, 3 hit points, and immunity to all types of damage except radiant damage. A detect evil and good spell or similar magic reveals that the figurine has been desecrated. As long as it has at least 1 hit point, the figurine has the following magical properties:
 > 
 > - Undead within 30 feet of the figurine can't be turned.  
 > - Dead creatures within 30 feet of the figurine can't be brought back to life.  
-> - A creature that holds the figurine while praying to Orcus for at least 1 hour has a 10 percent chance of summoning a smoky avatar of the demon lord. Once this avatar is summoned, it can't be summoned again for 30 days. Orcus's avatar has the statistics of a [wraith](/3-Mechanics/CLI/bestiary/undead/wraith.md) except that it's chaotic evil. It attacks all non-undead creatures it encounters, and it disappears after 1 hour or when reduced to 0 hit points.  
+> - A creature that holds the figurine while praying to Orcus for at least 1 hour has a 10 percent chance of summoning a smoky avatar of the demon lord. Once this avatar is summoned, it can't be summoned again for 30 days. Orcus's avatar has the statistics of a wraith except that it's chaotic evil. It attacks all non-undead creatures it encounters, and it disappears after 1 hour or when reduced to 0 hit points.  
 ^orcus-figurine
 
 ### Third Floor (C15-C17)
@@ -469,7 +467,7 @@ Stuffed in the chest's other compartments are six trinkets that the wereravens p
 > This attic has a peaked roof that slopes down toward the east and west. Dust blankets everything in the room, including a stone hearth in the middle of the north wall, an oval mirror mounted above it, and an oval rug on the floor. Against the west wall, half hidden behind curtains of cobwebs, is a bed sized for a young child, a rocking chair, a shelf lined with dolls, and a washbasin. A niche to the south contains a small wooden cradle, a wooden playpen, and a window box. Suspended above the playpen is a mobile made of colorfully painted fish on the ends of hooks. 
 ^10a
 
-Baron Brantifax had two daughters, both of whom died young (see area C12 for more information). This room was set aside for them. If characters disturb any of the dolls on the shelf, the spirit of Sylphene manifests in the room as a [poltergeist](/3-Mechanics/CLI/bestiary/undead/poltergeist.md) that uses the [specter](/3-Mechanics/CLI/bestiary/undead/specter.md) stat block, with the modifications in the "Variant: Poltergeist" sidebar that appears alongside the stat block in the "Monster Manual". It tries to frighten away the characters and discourage further exploration of the nursery.
+Baron Brantifax had two daughters, both of whom died young (see area C12 for more information). This room was set aside for them. If characters disturb any of the dolls on the shelf, the spirit of Sylphene manifests in the room as a poltergeist that uses the specter stat block, with the modifications in the "Variant: Poltergeist" sidebar that appears alongside the stat block in the "Monster Manual". It tries to frighten away the characters and discourage further exploration of the nursery.
 
 #### C16. Servants' Attic
 
@@ -513,9 +511,9 @@ One painting depicts three deer grazing on a hilltop, backlit by the dawn. Anoth
 
 Sylphene, the baron's deformed daughter, was a tortured soul. After she was interred, her grave became a shadow crossing—a gateway to the Shadowfell. To use this gate, the characters must first open Sylphene's grave and remove the coffin (see area C9). In the darkest hours of the night, fog leaches into the open grave and fills it. Any creature that lies down in the fog-filled grave at night is instantly transported to a similar dug-up grave in the Shadowfell. There's nothing on the Shadowfell side of the crossing as grand as Chalet Brantifax, but the topography is similar, with a matching burial site situated in the middle of a large necropolis full of open graves, tilted headstones worn bare of inscriptions, and plundered mausoleums. The necropolis, which is roughly circular and 300 feet in diameter, is home to a host of creatures that attack the characters in waves:
 
-- Two [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md) roost atop a stone mausoleum located 30 feet north of the shadow crossing. The gargoyles have an unobstructed view of the entire necropolis and keep a close eye on the shadow crossing.  
-- If the gargoyles are destroyed or if the characters move more than 30 feet from the shadow crossing, twelve [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) hiding in open graves converge on the characters in four groups of three, each group approaching from a different cardinal direction. They hunger for flesh.  
-- A [wight](/3-Mechanics/CLI/bestiary/undead/wight.md) named Drovath Harrn inhabits the mausoleum atop which the gargoyles perch. Drovath emerges from his crypt to join the ghouls in battle. On his right hand, Drovath wears a ring of jumping that he uses to leap onto the rooftops of the mausoleums, from where he can pick off enemies with his longbow.  
+- Two gargoyles roost atop a stone mausoleum located 30 feet north of the shadow crossing. The gargoyles have an unobstructed view of the entire necropolis and keep a close eye on the shadow crossing.  
+- If the gargoyles are destroyed or if the characters move more than 30 feet from the shadow crossing, twelve ghouls hiding in open graves converge on the characters in four groups of three, each group approaching from a different cardinal direction. They hunger for flesh.  
+- A wight named Drovath Harrn inhabits the mausoleum atop which the gargoyles perch. Drovath emerges from his crypt to join the ghouls in battle. On his right hand, Drovath wears a [ring of jumping](3-Mechanics/CLI/items/ring-of-jumping.md) that he uses to leap onto the rooftops of the mausoleums, from where he can pick off enemies with his longbow.  
 
 Drovath and the ghouls can move freely about the necropolis day or night due to the persistent gloom of the Shadowfell, but a curse prevents them from leaving the place. Characters who defeat these creatures are free to continue their exploration of the Shadowfell, having survived their first brush with death in this ghastly realm.
 
@@ -525,11 +523,11 @@ Beyond the mausoleum's unlocked gate lies a central chamber strewn with the skul
 
 #### Treasure
 
-A hidden compartment in the base of the open sarcophagus can be found with a successful DC 13 Wisdom (Perception) check; it contains Drovath's saddle of the cavalier, which he used when he was alive. If the saddle is taken from the mausoleum by anyone other than Drovath, the skeletal remains of the horses animate and rise as three [warhorse skeletons](/3-Mechanics/CLI/bestiary/undead/warhorse-skeleton.md) to slay the thief.
+A hidden compartment in the base of the open sarcophagus can be found with a successful DC 13 Wisdom (Perception) check; it contains Drovath's [saddle of the cavalier](3-Mechanics/CLI/items/saddle-of-the-cavalier.md), which he used when he was alive. If the saddle is taken from the mausoleum by anyone other than Drovath, the skeletal remains of the horses animate and rise as three warhorse skeletons to slay the thief.
 
 > [!gallery]
-> ![Map 4.02: Harrn Mausoleum](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/027-map-4-02-harrn-mausoleum.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/028-map-4-02-harrn-mausoleum-player.webp#gallery)
+> ![Map 4.02: Harrn Mausoleum](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/027-map-4-02-harrn-mausoleum.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/028-map-4-02-harrn-mausoleum-player.webp#gallery)
 
 ### Back to the Material Plane
 
@@ -539,7 +537,7 @@ Wereravens who are friendly toward the characters are eager to hear about their 
 
 ## Wereraven
 
-[Wereravens](/3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) are secretive and wary of strangers. They keep mostly to themselves, respect local laws, and strive to do good whenever possible. They are reluctant to attack with their beaks in raven or hybrid form for fear of spreading their curse to those who don't deserve it or would abuse it.
+[Wereravens](3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md) are secretive and wary of strangers. They keep mostly to themselves, respect local laws, and strive to do good whenever possible. They are reluctant to attack with their beaks in raven or hybrid form for fear of spreading their curse to those who don't deserve it or would abuse it.
 
 ### A Kindness of Wereravens
 
@@ -555,5 +553,5 @@ The lycanthropes entry in the "Monster Manual" has rules for characters afflicte
 
 > [!note] 
 > 
-> A character cursed with wereraven lycanthropy gains a Dexterity of 15 if their score isn't already higher. Attack and damage rolls for the wereraven's beak are based on whichever is higher of the character's Strength and Dexterity. The peck of a wereraven deals 1 piercing damage in raven form (no ability modifier applies to this damage), or `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage in hybrid form (the character's ability modifier applies to this damage). This attack carries the curse of wereraven lycanthropy.
+> A character cursed with wereraven lycanthropy gains a Dexterity of 15 if their score isn't already higher. Attack and damage rolls for the wereraven's beak are based on whichever is higher of the character's Strength and Dexterity. The peck of a wereraven deals 1 piercing damage in raven form (no ability modifier applies to this damage), or `1d4` piercing damage in hybrid form (the character's ability modifier applies to this damage). This attack carries the curse of wereraven lycanthropy.
 ^11d

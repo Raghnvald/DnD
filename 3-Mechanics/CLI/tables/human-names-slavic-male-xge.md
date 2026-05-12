@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – Slavic, Male
+- "Human Names – Slavic, Male"
 ---
 # Human Names – Slavic, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – Slavic, Male**
-
-`dice: [](human-names-slavic-male-xge.md#^human-names-slavic-male)`
 
 | dice: d100 | Name |
 |------------|------|

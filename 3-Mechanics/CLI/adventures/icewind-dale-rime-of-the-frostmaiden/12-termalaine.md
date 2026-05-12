@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Termalaine
+- "Termalaine"
 ---
 # Termalaine
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 93* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/081-01-040-termalaine.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/081-01-040-termalaine.webp#center)
 
 Founded by Calishite settlers who appreciated beauty, Termalaine is widely regarded as the most picturesque town in Icewind Dale, spreading out from the shore of Maer Dualdon and bordered on the north and west by tall pines. Its buildings incorporate carvings of wizards, homunculi, tigers, and smiling djinn.
 
@@ -30,11 +30,11 @@ In addition to fishers, shipbuilders, and scrimshanders, Termalaine is home to m
 
 ### Leader
 
-Oarus Masthew (lawful good half-orc [scout](/3-Mechanics/CLI/bestiary/humanoid/scout.md)) was declared speaker after a close and contentious election. The child of half-orc adventurers, he was adopted by Shaelen Masthew, the previous speaker, who retired from her leadership role but still lives in Termalaine. Oarus is bright, with a sharp sense of humor, but he has political enemies in town and lacks the full support of the town militia.
+Oarus Masthew (lawful good half-orc [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)) was declared speaker after a close and contentious election. The child of half-orc adventurers, he was adopted by Shaelen Masthew, the previous speaker, who retired from her leadership role but still lives in Termalaine. Oarus is bright, with a sharp sense of humor, but he has political enemies in town and lacks the full support of the town militia.
 
 ### Militia
 
-Termalaine can muster up to 50 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 4 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Termalaine can muster up to 50 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 4 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** The open-mouthed head of a fish at the bottom of a sky-blue field, its jaws parted as it swallows a large rose-pink oval. The oval is a tourmaline, symbolic of the town's gem mining.  
 
@@ -59,8 +59,8 @@ Snow-covered paths connect Termalaine to Lonelywood and Targos, its closest neig
 ## Locations in Termalaine
 
 > [!gallery]
-> ![Map 1.18: Termalaine](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/082-map-1-18-termalaine.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/083-map-1-18-termalaine-player.webp#gallery)
+> ![Map 1.18: Termalaine](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/082-map-1-18-termalaine.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/083-map-1-18-termalaine-player.webp#gallery)
 
 The following locations are marked on map 1.18.
 
@@ -70,7 +70,7 @@ The following locations are marked on map 1.18.
 
 The fishers of Termalaine typically finish their days here, seated on benches near one of the building's long hearths to warm their feet while they fill their bellies with spiced chowder. Beautiful works of scrimshaw are hung on the walls.
 
-Vernon Braig (neutral good half-orc [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), the Blue Clam's owner and chef, knows some of the hunters and trappers in Lonelywood, and occasionally a sled comes down the north trail with a sack of hares or a haunch of moose, courtesy of one of Vernon's friends. On those nights, the Blue Clam's hearths are full of roasting meat, and the patrons stay later and sing louder, enjoying the good times while they last.
+Vernon Braig (neutral good half-orc [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), the Blue Clam's owner and chef, knows some of the hunters and trappers in Lonelywood, and occasionally a sled comes down the north trail with a sack of hares or a haunch of moose, courtesy of one of Vernon's friends. On those nights, the Blue Clam's hearths are full of roasting meat, and the patrons stay later and sing louder, enjoying the good times while they last.
 
 Characters who loiter in the tavern are likely to hear a rumor or two, which you can determine by rolling on the Ten-Towns Rumors table (see "Ten-Towns Rumors").
 
@@ -80,7 +80,7 @@ Characters who loiter in the tavern are likely to hear a rumor or two, which you
 
 The Eastside is where most visitors in town stay. What looks from the outside like separate houses turns out to be a single structure with rooms connected by underground passages, with cozy guest accommodations in the cellar.
 
-The innkeeper is Marta Peskryk (lawful good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a willowy teenager who spends much of her time tending to her bedridden father, Clyde, a retired fisherman and noncombatant. As she performs her daily chores, Marta sings the following song to herself:
+The innkeeper is Marta Peskryk (lawful good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a willowy teenager who spends much of her time tending to her bedridden father, Clyde, a retired fisherman and noncombatant. As she performs her daily chores, Marta sings the following song to herself:
 
 > [!note] 
 > 
@@ -131,7 +131,7 @@ When the characters arrive at the Blue Clam, read:
 > Outside the tavern, you see two bundled-up humanoids talking to one another. When they see you, one waves to you in a friendly manner, then says, "You seem entirely too prepared for trouble. Are you here about the mine?"
 ^251
 
-The town speaker, Oarus Masthew (lawful good half-orc [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)), explains that a group of kobolds crept into the mine a few days ago, entering from the surface and forcing the miners to abandon their jobs. No one was killed, but the kobolds are too dangerous for the miners to deal with. He also reveals that a human miner went missing a few days before the kobolds showed up, prompting other miners to fear that a monster must have crawled up from the Underdark. Oarus thinks it's possible that the miner fell down the central shaft, which is deep enough that his body would never be found.
+The town speaker, Oarus Masthew (lawful good half-orc [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)), explains that a group of kobolds crept into the mine a few days ago, entering from the surface and forcing the miners to abandon their jobs. No one was killed, but the kobolds are too dangerous for the miners to deal with. He also reveals that a human miner went missing a few days before the kobolds showed up, prompting other miners to fear that a monster must have crawled up from the Underdark. Oarus thinks it's possible that the miner fell down the central shaft, which is deep enough that his body would never be found.
 
 One piece of information that Oarus fails to mention is that he ordered the town militia to clear out the mine three days ago. The militia refused to deal with the problem for what amounts to political reasons. Senior officers in cahoots with Speaker Naerth Maxildanarr of Targos are determined to oust Masthew as town speaker and replace him with one of their own in a special election. They're convinced that the closing of the mine and the resulting economic woes will turn Masthew's political supporters against him.
 
@@ -164,8 +164,8 @@ Characters who capture a kobold in the mine can, without an ability check, learn
 ### Mine Locations
 
 > [!gallery]
-> ![Map 1.19: Gem Mine](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/085-map-1-19-gem-mine.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/086-map-1-19-gem-mine-player.webp#gallery)
+> ![Map 1.19: Gem Mine](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/085-map-1-19-gem-mine.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/086-map-1-19-gem-mine-player.webp#gallery)
 
 The following locations are keyed to map 1.19. The mine is made up of three levels, the deepest of which is level 3. The boxed text in these locations assumes the characters can see what's around them.
 
@@ -178,7 +178,7 @@ Rough-hewn steps descend 60 feet before ending just north of this chamber.
 > Racks holding picks and hammers are nailed to the walls of this small cavern. The floor is covered with rock dust and tracks.
 ^258
 
-Any character who examines the tracks and succeeds on a DC 13 Wisdom (Survival) check identifies reptilian footprints mingled with human tracks, as well as a set of tracks that look like they belong to a pair of giant rodents. The reptilian (kobold) tracks fan out, leading to areas M2, M3, and M4. The rodent (giant rat) tracks lead to area M2, and from there to area M3.
+Any character who examines the tracks and succeeds on a DC 13 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check identifies reptilian footprints mingled with human tracks, as well as a set of tracks that look like they belong to a pair of giant rodents. The reptilian (kobold) tracks fan out, leading to areas M2, M3, and M4. The rodent (giant rat) tracks lead to area M2, and from there to area M3.
 
 #### M2. Gem Deposits
 
@@ -192,8 +192,6 @@ Any character who examines the tracks and succeeds on a DC 13 Wisdom (Survival) 
 If a character using a miner's pick spends an hour chipping away at the walls, roll percentile dice and consult the Mining Discoveries table to determine what, if anything, the character unearths. The tourmalines found in the mine are translucent gemstones that come in different colors, including pale green, blue, pink, red, brown, and black.
 
 **Mining Discoveries**
-
-`dice: [](12-termalaine.md#^mining-discoveries)`
 
 | dice: d100 | Discovery |
 |------------|-----------|
@@ -212,7 +210,7 @@ Characters hear the sound of rushing water as they approach this cave.
 > An underground river flows through the far side of this cavern, which is supported by a natural stone pillar near the water's edge. Between you and the river are two halfling-sized gray rodents with long tails and beady eyes. They rush to attack as soon as you notice them.
 ^25d
 
-The two [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat.md) are aggressive, giving chase if the characters run away.
+The two [giant rats](3-Mechanics/CLI/bestiary/beast/giant-rat.md) are aggressive, giving chase if the characters run away.
 
 ##### Underground River
 
@@ -240,11 +238,11 @@ If the characters search the cave, they find a small figurine of a dog carved ou
 > Wooden planks and struts form a walkway along the wall of a seemingly bottomless vertical shaft. A narrow waterfall cascades down the northeast wall, and the sound of rushing water is loud in the confined space.
 ^263
 
-Characters using darkvision or a light source brighter than a candle can see more walkways attached to the northwest side of the shaft 30 feet farther down. Because of the loud waterfall, characters must yell if they want to communicate with each other while in this area.
+Characters using [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or a light source brighter than a candle can see more walkways attached to the northwest side of the shaft 30 feet farther down. Because of the loud waterfall, characters must yell if they want to communicate with each other while in this area.
 
 ##### Kobold Saboteurs
 
-The cascading water drowns out the noise made by two [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) that are clinging to the underside of the walkway. These kobolds, named Scorp and Thwip, are using saws to weaken the wooden struts so that the walkway will collapse if a creature weighing more than two kobolds tries to stand on it. These kobolds need another day to complete their sabotage; until then, the walkway is safe.
+The cascading water drowns out the noise made by two [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) that are clinging to the underside of the walkway. These kobolds, named Scorp and Thwip, are using saws to weaken the wooden struts so that the walkway will collapse if a creature weighing more than two kobolds tries to stand on it. These kobolds need another day to complete their sabotage; until then, the walkway is safe.
 
 The characters can't hear the kobolds, but if they look underneath the planks, they can see the kobolds working away cheerily. If a kobold takes damage while clinging to the underside of the walkway, it loses its grip and falls down the shaft to its death.
 
@@ -257,7 +255,7 @@ The characters can't hear the kobolds, but if they look underneath the planks, t
 
 The bucket lift is used for hoisting miners and ore between levels 1 and 2. It's controlled by using a crank inside the bucket or the crank on the side of the pulley system. The bucket can hold one Medium creature or two Small creatures at a time. It runs from here to area M7, 15 feet farther down, and back again. It takes 1 minute for the bucket to be lowered or raised.
 
-![The true monster of the mine reveals itself](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/087-01-042-grell.webp#center)
+![The true monster of the mine reveals itself](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/087-01-042-grell.webp#center)
 
 #### M7. Bucket Lift Landing
 
@@ -266,7 +264,7 @@ The bucket lift is used for hoisting miners and ore between levels 1 and 2. It's
 > The mechanism creaks as the bucket lift descends to the floor of a small cave where two dusty tunnels lead in opposite directions.
 ^268
 
-Characters who search for tracks in the dust and succeed on a DC 10 Wisdom (Survival) check can determine that a lot of kobold foot traffic leads to and comes from the west, and a single set of kobold footprints leads to the east. (The kobold who wandered in that direction never returned.)
+Characters who search for tracks in the dust and succeed on a DC 10 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check can determine that a lot of kobold foot traffic leads to and comes from the west, and a single set of kobold footprints leads to the east. (The kobold who wandered in that direction never returned.)
 
 #### M8. Grell Lair
 
@@ -275,7 +273,7 @@ Characters who search for tracks in the dust and succeed on a DC 10 Wisdom (Surv
 > A hole in the west side of this chamber opens into the central shaft, letting in the sound of the waterfall. The floor in the north end of the cave is five feet higher than in the south end, with a rocky ridge separating them and a slope on either side leading to the top of the ridge. The walls above the ridge gleam with gem deposits.
 ^26a
 
-Floating near the 15-foot-high ceiling is a [grell](/3-Mechanics/CLI/bestiary/aberration/grell.md). A character who has a passive Wisdom (Perception) score of 16 or higher notices the grell. If more than one character enters the cavern, the grell won't attack and tries to stay hidden. If the characters leave the cave, it follows them, always staying at least 30 feet away. When an opportunity to attack a lone party member presents itself, the grell swoops in and tries to paralyze its prey, then hauls its catch back here to be devoured. After it feeds, it drops the remains of its victim down the central shaft.
+Floating near the 15-foot-high ceiling is a [grell](3-Mechanics/CLI/bestiary/aberration/grell.md). A character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 16 or higher notices the grell. If more than one character enters the cavern, the grell won't attack and tries to stay hidden. If the characters leave the cave, it follows them, always staying at least 30 feet away. When an opportunity to attack a lone party member presents itself, the grell swoops in and tries to paralyze its prey, then hauls its catch back here to be devoured. After it feeds, it drops the remains of its victim down the central shaft.
 
 ##### Treasure
 
@@ -288,7 +286,7 @@ If a character using a miner's pick spends an hour chipping away at the walls ab
 > A table and chairs are set up in this area to create a space for the miners to take breaks. On top of the table, two kobolds are poking a giant rat with their javelins to make sure it's dead. The kobolds screech loudly as they notice you.
 ^26d
 
-Two [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) named Grek and Smol rush to attack when the characters enter the cave. If either one is injured, they immediately have a change of heart and flee through the tunnel to the north that leads to level 3.
+Two [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) named Grek and Smol rush to attack when the characters enter the cave. If either one is injured, they immediately have a change of heart and flee through the tunnel to the north that leads to level 3.
 
 #### M10. Underdark Shaft, Level 3
 
@@ -297,7 +295,7 @@ Two [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.m
 > The tunnel's downward slope ends where it opens onto the center shaft. A wooden walkway extends from this opening and then runs westward to another tunnel in the rock. In front of you, a large bucket like the one you saw earlier dangles from a taut rope that stretches southward across the shaft and is connected to another wooden platform 15 feet away.
 ^26f
 
-Looking down, the characters see nothing but darkness. Characters using darkvision or a light source brighter than a candle can see, if they look up, the underside of the walkway in area M5 (on level 1). If the characters failed to notice the two kobolds clinging to the underside of the upper structure earlier, they spot the little saboteurs from this 30-foot-lower vantage point.
+Looking down, the characters see nothing but darkness. Characters using [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or a light source brighter than a candle can see, if they look up, the underside of the walkway in area M5 (on level 1). If the characters failed to notice the two kobolds clinging to the underside of the upper structure earlier, they spot the little saboteurs from this 30-foot-lower vantage point.
 
 ##### Bucket Shuttle
 
@@ -312,9 +310,9 @@ Dealing 5 acid, fire, or slashing damage to the rope causes it to snap. If the r
 > Lurking in this dusty tunnel are three skittish kobolds. One of them carries a threadbare satchel and wears a fake pair of dragon wings made of thin wood and tattered white cloth. This kobold immediately raises its hands in surrender, saying in Common, "We mean you no harm. Please don't hurt us."
 ^272
 
-Two of these three [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) are nervous bodyguards named Vott and Zurk. The one wearing the fake wings and doing the talking is Trex, the leader of the group. If one or both of the kobolds from area M9 fled from there, they lurk deeper inside the tunnel behind Trex and his bodyguards.
+Two of these three [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) are nervous bodyguards named Vott and Zurk. The one wearing the fake wings and doing the talking is Trex, the leader of the group. If one or both of the kobolds from area M9 fled from there, they lurk deeper inside the tunnel behind Trex and his bodyguards.
 
-Trex is possessed by a [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md), though the characters won't know this until the ghost shows itself (see "Janth's Ghost" below). Speaking in fluent Common, Trex explains that he and his fellow kobolds sought refuge in the mine after being chased out of the foothills of Kelvin's Cairn by a yeti. The miners got scared and ran off before Trex could explain that the kobolds meant no harm. As long as Trex is possessed by the ghost, he has an impressive vocabulary and speaks only Common.
+Trex is possessed by a [ghost](3-Mechanics/CLI/bestiary/undead/ghost.md), though the characters won't know this until the ghost shows itself (see "Janth's Ghost" below). Speaking in fluent Common, Trex explains that he and his fellow kobolds sought refuge in the mine after being chased out of the foothills of Kelvin's Cairn by a yeti. The miners got scared and ran off before Trex could explain that the kobolds meant no harm. As long as Trex is possessed by the ghost, he has an impressive vocabulary and speaks only Common.
 
 If the characters engage Trex in conversation, he makes a proposition:
 
@@ -323,11 +321,11 @@ If the characters engage Trex in conversation, he makes a proposition:
 > "The everlasting winter has made the wilderness unsafe for my kind, and the preternatural cold dulls our wits. Please, we only want a place to stay so we can keep out of this horrible weather. We can work, and we won't cause trouble. Termalaine would be richer for having us."
 ^273
 
-Any character who succeeds on a DC 13 Wisdom (Insight) check can tell that Trex is lying. The ghost controlling Trex wants safe access to Termalaine so that it can possess someone more powerful and influential than a kobold.
+Any character who succeeds on a DC 13 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check can tell that Trex is lying. The ghost controlling Trex wants safe access to Termalaine so that it can possess someone more powerful and influential than a kobold.
 
 If the characters agree to take the kobolds in the mine back to Termalaine, the kobolds act as their allies.
 
-![Trex](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/088-01-043-trex.webp#center)
+![Trex](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/088-01-043-trex.webp#center)
 
 ##### Janth's Ghost
 
@@ -346,11 +344,11 @@ If Trex is killed, the ghost appears in an unoccupied space within 5 feet of the
 > A fossilized skull partially juts out of the east wall of this small cave, five feet off the ground. The skull has larger than normal eye sockets, a curious ridge between the eyes, nothing that would pass for a nose, and four small holes where one would expect to see teeth.
 ^276
 
-The skull embedded in the wall is that of a mind flayer that came up from the Underdark thousands of years ago. How it became lodged in the stone is anyone's guess. Any character who examines the skull and succeeds on a DC 16 Intelligence (Arcana) check concludes that it came from a mind flayer. Any attempt to pry the skull from the stone causes it to shatter and fall away, revealing a crystal shard where the illithid's brain would have been.
+The skull embedded in the wall is that of a mind flayer that came up from the Underdark thousands of years ago. How it became lodged in the stone is anyone's guess. Any character who examines the skull and succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check concludes that it came from a mind flayer. Any attempt to pry the skull from the stone causes it to shatter and fall away, revealing a crystal shard where the illithid's brain would have been.
 
 ##### Treasure
 
-The crystal shard lodged inside the fossilized mind flayer skull is a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) (see appendix D). The psychic trauma that the mind flayer endured when it died caused the crystal to form in its mind. A character can use a miner's pick to pry loose the psi crystal.
+The crystal shard lodged inside the fossilized mind flayer skull is a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md) (see appendix D). The psychic trauma that the mind flayer endured when it died caused the crystal to form in its mind. A character can use a miner's pick to pry loose the psi crystal.
 
 A character who attunes to this *psi crystal* gains a form of indefinite madness (see the Indefinite Madness table in the "Dungeon Master's Guide"). Determine the result secretly, then convey this information only to the character's player. The madness does not end until the character is no longer attuned to the *psi crystal*. While the madness lasts, the character can hear a repeating telepathic distress signal put out by an illithid ship that crashed in the mountains and track the signal to its source (see "Id Ascendant"). The only way to block the signal is by ending the character's attunement to the *psi crystal*.
 

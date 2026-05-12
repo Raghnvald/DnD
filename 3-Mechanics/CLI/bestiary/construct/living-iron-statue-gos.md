@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Iron Statue
+- "Living Iron Statue"
 ---
-# [Living Iron Statue](3-Mechanics\CLI\bestiary\construct/living-iron-statue-gos.md)
+# [Living Iron Statue](3-Mechanics/CLI/bestiary/construct/living-iron-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 241*  
 
 This squat, solid-looking statue, currently guarding the evil cult's treasure in Isle of the Abbey, is made from pure iron. Its hands are shaped into deadly weapons.
@@ -55,11 +55,11 @@ This squat, solid-looking statue, currently guarding the evil cult's treasure in
     "name": "Hammer"
   - "desc": "The statue can use its action to spin at the waist, targeting creatures\
       \ of its choice within 10 feet of it. Each target must make a DC 13 Dexterity\
-      \ saving throw, taking 19 (3d10 + 3) bludgeoning damage on a failed save, or\
-      \ half as much damage on a successful one."
+      \ saving throw, taking 19 (3d10 + 3) bludgeoning damage on a failed save,\
+      \ or half as much damage on a successful one."
     "name": "Whirl (Recharge 5-6)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/living-iron-statue-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/living-iron-statue-gos.webp"
 ```
 ^statblock

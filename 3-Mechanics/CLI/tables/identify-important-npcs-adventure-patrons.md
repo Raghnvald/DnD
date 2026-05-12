@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Identify Important NPCs; Adventure Patrons
+- "Identify Important NPCs; Adventure Patrons"
 ---
 # Identify Important NPCs; Adventure Patrons
 *Source: Dungeon Master's Guide p. 74* 
 
 **Adventure Patrons**
-
-`dice: [](identify-important-npcs-adventure-patrons.md#^adventure-patrons)`
 
 | dice: d20 | Patron |
 |-----------|--------|

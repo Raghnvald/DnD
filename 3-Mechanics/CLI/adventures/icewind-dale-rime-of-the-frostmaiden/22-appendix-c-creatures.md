@@ -3,74 +3,74 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Appendix C: Creatures
+- "Appendix C: Creatures"
 ---
 # Appendix C: Creatures
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 268* 
 
 This appendix describes new creatures that appear in the adventure, presenting them in alphabetical order. The introduction of the "Monster Manual" explains how to interpret a creature's stat block.
 
-Several of the creatures in this appendix are common beasts—foxes, hares, mountain goats, seals, sperm whales, and walruses—that live among other beasts from the "Monster Manual", such as polar bears, deer, elk, [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](/3-Mechanics/CLI/bestiary/beast/elk.md) stat block), killer whales, mammoths, moose (use the [giant goat](/3-Mechanics/CLI/bestiary/beast/giant-goat.md) stat block), saber-toothed tigers, snowy owls, woolly rhinoceroses, and wolves. And then there's the notoriously ugly knucklehead trout, without which there would be no Ten-Towns.
+Several of the creatures in this appendix are common beasts—foxes, hares, mountain goats, seals, sperm whales, and walruses—that live among other beasts from the "Monster Manual", such as polar bears, deer, elk, [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](3-Mechanics/CLI/bestiary/beast/elk.md) stat block), killer whales, mammoths, moose (use the [giant goat](3-Mechanics/CLI/bestiary/beast/giant-goat.md) stat block), saber-toothed tigers, snowy owls, woolly rhinoceroses, and wolves. And then there's the notoriously ugly knucklehead trout, without which there would be no Ten-Towns.
 
-If the adventuring party includes a wizard who can prepare the find familiar spell, consider allowing the wizard to add the [fox](/3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) and the [hare](/3-Mechanics/CLI/bestiary/beast/hare-idrotf.md) to the spell's list of eligible familiars.
+If the adventuring party includes a wizard who can prepare the [find familiar](3-Mechanics/CLI/spells/find-familiar.md) spell, consider allowing the wizard to add the [fox](3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) and the [hare](3-Mechanics/CLI/bestiary/beast/hare-idrotf.md) to the spell's list of eligible familiars.
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/212-08-003.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/212-08-003.webp#center)
 
 The creatures in this appendix are listed by name below.
 
-- [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)  
-- [Dzaan's Simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md)  
-- [Nass Lantomir's Ghost](/3-Mechanics/CLI/bestiary/npc/nass-lantomirs-ghost-idrotf.md)  
-- [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md)  
-- [Auril (First Form)](/3-Mechanics/CLI/bestiary/npc/auril-first-form-idrotf.md)  
-- [Auril (Second Form)](/3-Mechanics/CLI/bestiary/npc/auril-second-form-idrotf.md)  
-- [Auril (Third Form)](/3-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md)  
-- [Brain in a Jar](/3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md)  
-- [Chardalyn Berserker](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md)  
-- [Chardalyn Dragon](/3-Mechanics/CLI/bestiary/construct/chardalyn-dragon-idrotf.md)  
-- [Chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)  
-- [Coldlight Walker](/3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md)  
-- [Crag Cat](/3-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md)  
-- [Duergar Hammerer](/3-Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm.md)  
-- [Duergar Mind Master](/3-Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm.md)  
-- [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)  
-- [Fox](/3-Mechanics/CLI/bestiary/beast/fox-idrotf.md)  
-- [Frost Druid](/3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md)  
-- [Frost Giant Skeleton](/3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md)  
-- [Gnoll Vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md)  
-- [Goliath Warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md)  
-- [Goliath Werebear](/3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md)  
-- [Hare](/3-Mechanics/CLI/bestiary/beast/hare-idrotf.md)  
-- [Ice Troll](/3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md)  
-- [Knucklehead Trout](/3-Mechanics/CLI/bestiary/beast/knucklehead-trout-idrotf.md)  
-- [Icewind Kobold](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md)  
-- [Icewind Kobold Zombie](/3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md)  
-- [Kobold Vampire Spawn](/3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md)  
-- [Living Bigby's Hand](/3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md)  
-- [Living Blade of Disaster](/3-Mechanics/CLI/bestiary/construct/living-blade-of-disaster-idrotf.md)  
-- [Living Demiplane](/3-Mechanics/CLI/bestiary/construct/living-demiplane-idrotf.md)  
-- [Demos Magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md)  
-- [Galvan Magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md)  
-- [Hypnos Magen](/3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md)  
-- [Spitting Mimic](/3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md)  
-- [Gnome Ceremorph](/3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md)  
-- [Gnome Squidling](/3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md)  
-- [Mountain Goat](/3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md)  
-- [Gunvald Halraggson](/3-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md)  
-- [Jarund Elkhardt](/3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md)  
-- [Bjornhild Solvigsdottir](/3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md)  
-- [Isarr Kronenstrom](/3-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md)  
-- [Seal](/3-Mechanics/CLI/bestiary/beast/seal-idrotf.md)  
-- [Snow Golem](/3-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md)  
-- [Sperm Whale](/3-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md)  
-- [Tomb Tapper](/3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md)  
-- [Verbeeg Longstrider](/3-Mechanics/CLI/bestiary/giant/verbeeg-longstrider-idrotf.md)  
-- [Verbeeg Marauder](/3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md)  
-- [Walrus](/3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md)  
-- [Giant Walrus](/3-Mechanics/CLI/bestiary/beast/giant-walrus-idrotf.md)  
-- [Yeti Tyke](/3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md)  
+- [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)  
+- [Dzaan's Simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md)  
+- [Nass Lantomir's Ghost](3-Mechanics/CLI/bestiary/npc/nass-lantomirs-ghost-idrotf.md)  
+- [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md)  
+- [Auril (First Form)](3-Mechanics/CLI/bestiary/npc/auril-first-form-idrotf.md)  
+- [Auril (Second Form)](3-Mechanics/CLI/bestiary/npc/auril-second-form-idrotf.md)  
+- [Auril (Third Form)](3-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md)  
+- [Brain in a Jar](3-Mechanics/CLI/bestiary/undead/brain-in-a-jar-vrgr.md)  
+- [Chardalyn Berserker](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md)  
+- [Chardalyn Dragon](3-Mechanics/CLI/bestiary/construct/chardalyn-dragon-idrotf.md)  
+- [Chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)  
+- [Coldlight Walker](3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md)  
+- Crag Cat  
+- [Duergar Hammerer](3-Mechanics/CLI/bestiary/construct/duergar-hammerer-mpmm.md)  
+- [Duergar Mind Master](3-Mechanics/CLI/bestiary/humanoid/duergar-mind-master-mpmm.md)  
+- [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)  
+- [Fox](3-Mechanics/CLI/bestiary/beast/fox-idrotf.md)  
+- [Frost Druid](3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md)  
+- [Frost Giant Skeleton](3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md)  
+- [Gnoll Vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md)  
+- [Goliath Warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md)  
+- [Goliath Werebear](3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md)  
+- [Hare](3-Mechanics/CLI/bestiary/beast/hare-idrotf.md)  
+- [Ice Troll](3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md)  
+- [Knucklehead Trout](3-Mechanics/CLI/bestiary/beast/knucklehead-trout-idrotf.md)  
+- [Icewind Kobold](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md)  
+- [Icewind Kobold Zombie](3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md)  
+- [Kobold Vampire Spawn](3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md)  
+- [Living Bigby's Hand](3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md)  
+- [Living Blade of Disaster](3-Mechanics/CLI/bestiary/construct/living-blade-of-disaster-idrotf.md)  
+- [Living Demiplane](3-Mechanics/CLI/bestiary/construct/living-demiplane-idrotf.md)  
+- [Demos Magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md)  
+- [Galvan Magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md)  
+- [Hypnos Magen](3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md)  
+- [Spitting Mimic](3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md)  
+- [Gnome Ceremorph](3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md)  
+- [Gnome Squidling](3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md)  
+- [Mountain Goat](3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md)  
+- [Gunvald Halraggson](3-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md)  
+- [Jarund Elkhardt](3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md)  
+- [Bjornhild Solvigsdottir](3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md)  
+- [Isarr Kronenstrom](3-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md)  
+- [Seal](3-Mechanics/CLI/bestiary/beast/seal-idrotf.md)  
+- [Snow Golem](3-Mechanics/CLI/bestiary/construct/snow-golem-idrotf.md)  
+- [Sperm Whale](3-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md)  
+- [Tomb Tapper](3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md)  
+- [Verbeeg Longstrider](3-Mechanics/CLI/bestiary/giant/verbeeg-longstrider-idrotf.md)  
+- [Verbeeg Marauder](3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md)  
+- [Walrus](3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md)  
+- [Giant Walrus](3-Mechanics/CLI/bestiary/beast/giant-walrus-idrotf.md)  
+- [Yeti Tyke](3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md)  
 
 ## Arcane Brotherhood
 
@@ -84,13 +84,13 @@ The Arcane Brotherhood sent three of its members to investigate rumors of a lost
 
 Not long after they arrived in Bryn Shander, the three wizards who had formed the initial expeditionary force parted company, each one determined to be the first to find the enclave—such is the fragile nature of wizardly alliances. The four wizards are described below:
 
-[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), an albino tiefling evoker with a pair of gargoyle companions
+[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), an albino tiefling evoker with a pair of gargoyle companions
 
-[Dzaan](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md), a human illusionist and Red Wizard of Thay who perished recently, but whose simulacrum lives on
+[Dzaan](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md), a human illusionist and Red Wizard of Thay who perished recently, but whose simulacrum lives on
 
-[Nass Lantomir](/3-Mechanics/CLI/bestiary/npc/nass-lantomirs-ghost-idrotf.md), a human diviner who died and now exists as a spellcasting ghost
+[Nass Lantomir](3-Mechanics/CLI/bestiary/npc/nass-lantomirs-ghost-idrotf.md), a human diviner who died and now exists as a spellcasting ghost
 
-[Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md), a human necromancer from a famous family with a cadre of kobolds—some living, others undead
+[Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md), a human necromancer from a famous family with a cadre of kobolds—some living, others undead
 
 ## Goliaths
 
@@ -106,15 +106,15 @@ Every goliath has three names: a birth name assigned by the newborn's mother and
 - **Nicknames.** Bearkiller, Dawncaller, Fearless, Flintfinder, Horncarver, Keeneye, Lonehunter, Longleaper, Rootsmasher, Steadyhand, Threadtwister, Twice-Orphaned, Twistedlimb, Wordpainter  
 - **Clan Names.** Akannathi, Anakalathai, Elanithino, Gathakanathi, Kalagiano, Katho-Olavi, Kolae-Gileana, Ogolakanu, Thuliaga, Thunukalathi, Thuunlakalaga  
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/235-08-011-goliath-warrior.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/235-08-011-goliath-warrior.webp#center)
 
 ### Goliath Player Characters
 
-With your consent, any player in your game can play a [goliath](/3-Mechanics/CLI/races/goliath-vgm.md) character. A goliath native to Icewind Dale can be a member of the Skytower (Akannathi) clan, the Wyrmdoom (Thuunlakalaga) clan, or another goliath clan that you and the player create together.
+With your consent, any player in your game can play a [goliath](3-Mechanics/CLI/races/goliath-mpmm.md) character. A goliath native to Icewind Dale can be a member of the Skytower (Akannathi) clan, the Wyrmdoom (Thuunlakalaga) clan, or another goliath clan that you and the player create together.
 
 ### Spine of the World Goliaths
 
-Goliaths inhabit the Spine of the World, where their mettle is tested against [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md), [ogres](/3-Mechanics/CLI/bestiary/giant/ogre.md), [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant.md), [remorhazes](/3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md), [ice trolls](/3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md), [young white dragons](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md), the treacherous mountain terrain, and the cruel indifference of nature.
+Goliaths inhabit the Spine of the World, where their mettle is tested against [orcs](3-Mechanics/CLI/bestiary/humanoid/orc.md), [ogres](3-Mechanics/CLI/bestiary/giant/ogre.md), [frost giants](3-Mechanics/CLI/bestiary/giant/frost-giant.md), [remorhazes](3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md), [ice trolls](3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md), [young white dragons](3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md), the treacherous mountain terrain, and the cruel indifference of nature.
 
 #### Bitter Rivals
 
@@ -124,21 +124,21 @@ Skytower Shelter and Wyrmdoom Crag are two mountain strongholds inhabited by gol
 
 Kobolds can be found anywhere dragons are known to dwell, and those that live in the mountains and hills of Icewind Dale are among the hardiest of their kind. Drawn to the north by a desire to find and serve white dragons, these kobolds adapted as best they can to the hostile climate. Their sensitive eyes appreciate sunless days and long, dark nights. They use wooden javelins as tools to test the snow ahead of them.
 
-Kobolds native to Icewind Dale frequently wander into Ten-Towns to escape the dreadful cold, hoping to trade what few skills they have for some warm soup and shelter. The people of Ten-Towns, accustomed to the presence of strange outlanders, allow these kobolds to dwell among them for the most part. When the kobolds don't feel safe, they acquire heavy winter clothing and disguise themselves as humans by standing on one another's shoulders. Three kobolds in cold weather gear can pass themselves off as a clumsy human with a successful group Charisma (Deception) check, the DC of which equals the onlooker's Wisdom (Insight) check result.
+Kobolds native to Icewind Dale frequently wander into Ten-Towns to escape the dreadful cold, hoping to trade what few skills they have for some warm soup and shelter. The people of Ten-Towns, accustomed to the presence of strange outlanders, allow these kobolds to dwell among them for the most part. When the kobolds don't feel safe, they acquire heavy winter clothing and disguise themselves as humans by standing on one another's shoulders. Three kobolds in cold weather gear can pass themselves off as a clumsy human with a successful group Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check, the DC of which equals the onlooker's Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check result.
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/240-08-012-kobolds.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/240-08-012-kobolds.webp#center)
 
 ### Icewind Kobold Zombie
 
-The necromancer [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) has Icewind kobold guides in her employ, including a pair that died and were turned into [zombies](/3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md) using animate dead spells. The cold climate helps to preserve their dead flesh.
+The necromancer [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) has Icewind kobold guides in her employ, including a pair that died and were turned into [zombies](3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md) using [animate dead](3-Mechanics/CLI/spells/animate-dead.md) spells. The cold climate helps to preserve their dead flesh.
 
 ### Kobold Vampire Spawn
 
-The [gnoll vampire](/3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) Tekeli-li has a small number of [kobold vampire spawn](/3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) minions to keep it company in the Caves of Hunger (see chapter 6). The vampiric kobolds are terrified of the gnoll vampire and can't understand its commands, so they give Tekeli-li a wide berth. These ravenous undead kobolds thirst for blood and tend to swarm one foe at a time.
+The [gnoll vampire](3-Mechanics/CLI/bestiary/undead/gnoll-vampire-idrotf.md) Tekeli-li has a small number of [kobold vampire spawn](3-Mechanics/CLI/bestiary/undead/kobold-vampire-spawn-idrotf.md) minions to keep it company in the Caves of Hunger (see chapter 6). The vampiric kobolds are terrified of the gnoll vampire and can't understand its commands, so they give Tekeli-li a wide berth. These ravenous undead kobolds thirst for blood and tend to swarm one foe at a time.
 
 ## Magen
 
-Magen are magical, humanlike beings created by a wizard spell (see the [create magen](/3-Mechanics/CLI/spells/create-magen-idrotf.md) spell in appendix D) or by other arcane methods.
+Magen are magical, humanlike beings created by a wizard spell (see the [create magen](3-Mechanics/CLI/spells/create-magen-idrotf.md) spell in appendix D) or by other arcane methods.
 
 Though magen look like humanoids with green skin, they are constructs. When one is wounded, its blood is seen to have the color and consistency of mercury. They exist purely through magical means. When one is killed, its body disappears in a burst of harmless fire and a cloud of smoke that quickly dissipates.
 
@@ -146,9 +146,9 @@ Though magen look like humanoids with green skin, they are constructs. When one 
 
 Magen make ideal servants. At creation, each is instilled with an instinct to protect itself and its creator, and it follows its creator's instructions without hesitation. When its task is complete, a magen stands immobile and silent until its creator gives it new orders.
 
-- [Demos Magen](/3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md)  
-- [Galvan Magen](/3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md)  
-- [Hypnos Magen](/3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md)  
+- [Demos Magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md)  
+- [Galvan Magen](3-Mechanics/CLI/bestiary/construct/galvan-magen-idrotf.md)  
+- [Hypnos Magen](3-Mechanics/CLI/bestiary/construct/hypnos-magen-idrotf.md)  
 
 ## Reghed Nomads
 
@@ -156,7 +156,7 @@ Reghed nomads are the children of the Reghed Glacier, as suggested by their name
 
 Although they originally descended from humans who were predominantly blue-eyed and fair-haired, the Reghed tribes have assimilated other folk, adding new blood to their dwindling ranks. There used to be more than four Reghed tribes, but the others have all disbanded over the past century, with many of their former members settling in Ten-Towns and abandoning their traditional ways.
 
-The Reghed tribes rely on a nomadic lifestyle to survive, as they follow herds of [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) along the route of the animals' annual migration. When they make camp, the tribesfolk live in large, round tents made of deerskin and supported by wooden shafts. (See map 2.11 for a typical Reghed camp configuration.)
+The Reghed tribes rely on a nomadic lifestyle to survive, as they follow herds of [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) along the route of the animals' annual migration. When they make camp, the tribesfolk live in large, round tents made of deerskin and supported by wooden shafts. (See map 2.11 for a typical Reghed camp configuration.)
 
 The "Monster Manual" has stat blocks that can represent most members of a Reghed tribe, as shown in the Reghed Tribesfolk table.
 
@@ -164,16 +164,16 @@ The "Monster Manual" has stat blocks that can represent most members of a Reghed
 
 | Role | Stat Block |
 |------|------------|
-| Hunter or [warrior](/3-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md) | [Tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) with Survival +4; speaks Common |
-| [Shaman](/3-Mechanics/CLI/bestiary/humanoid/reghed-shaman-idrotf.md) | [Druid](/3-Mechanics/CLI/bestiary/humanoid/druid.md) with Survival +4; speaks Common and Druidic |
-| [Clan chieftain](/3-Mechanics/CLI/bestiary/humanoid/reghed-chieftain-idrotf.md) or [great warrior](/3-Mechanics/CLI/bestiary/humanoid/reghed-great-warrior-idrotf.md) | [Gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md) with hide armor instead of studded leather and Survival +5; speaks Common |
+| Hunter or [warrior](3-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md) | [Tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) with [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +4; speaks Common |
+| [Shaman](3-Mechanics/CLI/bestiary/humanoid/reghed-shaman-idrotf.md) | [Druid](3-Mechanics/CLI/bestiary/humanoid/druid.md) with [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +4; speaks Common and Druidic |
+| [Clan chieftain](3-Mechanics/CLI/bestiary/humanoid/reghed-chieftain-idrotf.md) or [great warrior](3-Mechanics/CLI/bestiary/humanoid/reghed-great-warrior-idrotf.md) | [Gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator.md) with hide armor instead of studded leather and [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +5; speaks Common |
 ^reghed-tribesfolk
 
-![Reghed hunters of the four tribes](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/249-08-016-reghed.webp#center)
+![Reghed hunters of the four tribes](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/249-08-016-reghed.webp#center)
 
 ### Tribe of the Bear
 
-Internal strife has splintered what remains of the Bear Tribe today. The turmoil began shortly after a band of Bear Tribe hunters recovered pieces of chardalyn from the frozen corpses of several dwarves. Oblivious to the demonic magic suffusing the crystal, tribe members used the shards to fashion heads for their spears and axes. Contact with the crystal corrupted these warriors over time, turning them into [chardalyn berserkers](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md). Their cruelty forced the king to banish them from the tribe. These outcasts have since begun raiding Bear Tribe camps for sacrifices, which they offer up to Auril to gain the Frostmaiden's favor.
+Internal strife has splintered what remains of the Bear Tribe today. The turmoil began shortly after a band of Bear Tribe hunters recovered pieces of chardalyn from the frozen corpses of several dwarves. Oblivious to the demonic magic suffusing the crystal, tribe members used the shards to fashion heads for their spears and axes. Contact with the crystal corrupted these warriors over time, turning them into [chardalyn berserkers](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md). Their cruelty forced the king to banish them from the tribe. These outcasts have since begun raiding Bear Tribe camps for sacrifices, which they offer up to Auril to gain the Frostmaiden's favor.
 
 ### King Gunvald Halraggson
 
@@ -189,11 +189,11 @@ Members of the Elk Tribe view the people of Ten-Towns as "tame folk," who are il
 
 ### King Jarund Elkhardt
 
-The Elk King is [Jarund Elkhardt](/3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md), a terse yet thoughtful giant of a man who is nearly fifty years old—ancient by tribal standards. He has led the Elk Tribe for over half his life, and age has made him cautious. He has seen other kings and queens rise and fall, has made war with friends and peace with his enemies, and has led warriors he knew as babes to their deaths in battle. The strain of his long years of rule is etched on his weather-worn face.
+The Elk King is [Jarund Elkhardt](3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md), a terse yet thoughtful giant of a man who is nearly fifty years old—ancient by tribal standards. He has led the Elk Tribe for over half his life, and age has made him cautious. He has seen other kings and queens rise and fall, has made war with friends and peace with his enemies, and has led warriors he knew as babes to their deaths in battle. The strain of his long years of rule is etched on his weather-worn face.
 
 Jarund's late son, Jarund Twice-Born, was killed almost a decade ago while trying to bring down a cave bear, leaving Jarund without an heir. He has failed to produce another child with his wife, Wynneth, and his mistress, Froya, so the future of his royal line remains uncertain.
 
-Auril's unyielding winter concerns Jarund deeply, and he often turns to his shaman, [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md), for guidance. The king respects the shaman's understanding of gods and spirits, and the fact that both men have lost their sons serves to strengthen the bond between them. [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) believes that the only way to break Auril's spell is to slay the goddess in her home, but Jarund believes that his warriors aren't strong enough to accomplish that task alone.
+Auril's unyielding winter concerns Jarund deeply, and he often turns to his shaman, [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md), for guidance. The king respects the shaman's understanding of gods and spirits, and the fact that both men have lost their sons serves to strengthen the bond between them. [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) believes that the only way to break Auril's spell is to slay the goddess in her home, but Jarund believes that his warriors aren't strong enough to accomplish that task alone.
 
 ### Tribe of the Tiger
 
@@ -205,9 +205,9 @@ It's unusual for a woman to lead a Reghed tribe, but Bjornhild is a most extraor
 
 Bjornhild worships the Frostmaiden and is so ruthless that her enemies believe she has actual ice flowing through her veins. She has no living children that she knows of, but with Auril's blessing, she won't need any heirs to preserve her legacy. Bjornhild intends to live forever by demonstrating her unwavering faith in the Frostmaiden and becoming the Chosen of Auril.
 
-As if she weren't fearsome enough, Bjornhild has a pet [saber-toothed tiger](/3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) named Grava.
+As if she weren't fearsome enough, Bjornhild has a pet [saber-toothed tiger](3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) named Grava.
 
-![Queen Bjornhild Solvigsdot...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/250-08-015-bjornhild.webp#center "Queen Bjornhild Solvigsdottir and her saber-toothed tiger, Grava")
+![Queen Bjornhild Solvigsdottir and her saber-toothed tiger, Grava](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/250-08-015-bjornhild.webp#center)
 
 ### Tribe of the Wolf
 
@@ -215,6 +215,6 @@ The Wolf Tribe is the smallest of the four remaining Reghed tribes, and even its
 
 ### Isarr Kronenstrom
 
-The Wolf Tribe has been without a king or queen for years. Its most powerful chieftain, [Isarr Kronenstrom](/3-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md), is a psychotic brute who worships Malar the Beast Lord. He hunts Ten-Towners for sport, bathes in their blood, and strikes fear into the hearts of his enemies. Several members of Isarr's clan have deserted him or been killed off, but the few that remain are fiercely loyal. They believe, incorrectly, that he's the Chosen of Malar.
+The Wolf Tribe has been without a king or queen for years. Its most powerful chieftain, [Isarr Kronenstrom](3-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md), is a psychotic brute who worships Malar the Beast Lord. He hunts Ten-Towners for sport, bathes in their blood, and strikes fear into the hearts of his enemies. Several members of Isarr's clan have deserted him or been killed off, but the few that remain are fiercely loyal. They believe, incorrectly, that he's the Chosen of Malar.
 
 Although Isarr calls himself the Wolf King, few others in the Wolf Tribe support him in that claim, but the other Wolf clan chieftains are too weak and disorganized to challenge him.

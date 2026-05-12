@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Rune Carver
+- "Rune Carver"
 ---
 # Rune Carver
 *Source: Bigby Presents: Glory of the Giants p. 12*  
-![Orc Rune Carver](/3-Mechanics/CLI/backgrounds/img/rune-carver.webp#right)
+![Orc Rune Carver](3-Mechanics/CLI/backgrounds/img/rune-carver.webp#right)
 
-- **Skill Proficiencies.** [History](/3-Mechanics/CLI/skills.md#History), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
+- **Skill Proficiencies.** History, Perception  
 - **Tool Proficiencies.** One set of artisan's tools  
 - **Languages.** Giant  
-- **Equipment.** A set of artisan's tools (one of your choice), a small knife, a [whetstone](/3-Mechanics/CLI/items/whetstone.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a small knife, a whetstone, a set of common clothes, and a pouch containing 10 gp  
 
 > [!quote] A quote from Diancastra  
 > 
@@ -30,8 +30,6 @@ The art of runecraft was initially created by giants, but over time, the practic
 Each rune carver has a unique style and preferred medium. To determine how you make your runes, you can roll on the Rune Style table.
 
 **Rune Style**
-
-`dice: [](rune-carver-bgg.md#^rune-style)`
 
 | dice: d6 | Style |
 |----------|-------|
@@ -49,13 +47,11 @@ Scholarly pursuits, ancient mysteries, or a fateful encounter might inspire a ch
 
 ## Feature: Rune Shaper
 
-You gain the [Rune Shaper](/3-Mechanics/CLI/feats/rune-shaper-bgg.md) feat.
+You gain the [Rune Shaper](3-Mechanics/CLI/feats/rune-shaper-bgg.md) feat.
 
 ## Suggested Characteristics
 
 The Rune Carver Personality Traits table suggests a variety of traits you might adopt for your character.
-
-`dice: [](rune-carver-bgg.md#^personality-trait)`
 
 | dice: d6 | Personality Trait |
 |----------|-------------------|

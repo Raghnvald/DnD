@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/trickery
-aliases: 
-- Aerdrie Faenya
+aliases:
+- "Aerdrie Faenya"
 ---
 # Aerdrie Faenya
 *Source: Mordenkainen's Tome of Foes p. 43* 

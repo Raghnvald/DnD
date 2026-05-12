@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Fiends
+- "Monsters' Desires; Fiends"
 ---
 # Monsters' Desires; Fiends
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Fiends**
-
-`dice: [](monsters-desires-fiends-tce.md#^fiends)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

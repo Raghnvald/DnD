@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Sword Coast Adventurer's Guide* 
@@ -63,7 +63,7 @@ Here are the Forgotten Realms works that most influenced this book.
 - Sernett, Matt, Erik Scott de Bie, and Ari Marmell. Neverwinter Campaign Setting. 2011.  
 - slade, Ed Greenwood, Jeff Grubb, and others. The North: Guide to the Savage Frontier. 1996.  
 
-![On the Cover: Tyler Jacobs...](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scagcover.webp#center "On the Cover: Tyler Jacobson illustrates this band of adventurers as they engage in aggressive negotiations with a fierce delegation of orcs. Featured (left to right): Skip Brickard, a halfling fighter with an orc-sized chip on his shoulder; Illydia Maethellyn, an aged moon elf cleric of Sehanine Moonbow; Hitch, a brash rogue whose shady past ties him to the Zhentarim; Makos, a tiefling warlock hell-bent on revenge against his infernal father; and Nayeli Goldflower, a powerful human paladin driven by an oath of vengeance.")
+![On the Cover: Tyler Jacobson illustrates this band of adventurers as they engage in aggressive negotiations with a fierce delegation of orcs. Featured (left to right): Skip Brickard, a halfling fighter with an orc-sized chip on his shoulder; Illydia Maethellyn, an aged moon elf cleric of Sehanine Moonbow; Hitch, a brash rogue whose shady past ties him to the Zhentarim; Makos, a tiefling warlock hell-bent on revenge against his infernal father; and Nayeli Goldflower, a powerful human paladin driven by an oath of vengeance.](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scagcover.webp#center)
 
 > [!note]
 > Disclaimer: Wizards of the Coast cannot be held responsible for any actions undertaken by entities native to or currently inhabiting the Forgotten Realms, including necromancer lords of distant magocracies, resident mages of any or all Dales but especially Shadowdale, drow rangers wielding one or more scimitars and accompanied by one or more panthers, mad wizards inhabiting sprawling dungeons accessible via a well in the middle of a tavern, beholders who head up criminal cartels, and anyone with the word Many-Arrows in their name. In the event of a catastrophic encounter with any or all such entities, blame your Dungeon Master. If that doesn't work, blame Ed Greenwood, but don't tell him we told you that. He knows more archmages than we do.

@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/twilight
-aliases: 
-- Helm
+aliases:
+- "Helm"
 ---
 # Helm
 *Source: Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)* 

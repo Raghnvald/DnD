@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kraul Warrior
+- "Kraul Warrior"
 ---
-# [Kraul Warrior](3-Mechanics\CLI\bestiary\humanoid/kraul-warrior-ggr.md)
+# [Kraul Warrior](3-Mechanics/CLI/bestiary/humanoid/kraul-warrior-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 213*  
 
 Kraul society is organized into well-defined roles and castes. The vast majority of the kraul occupy various tiers of soldiery, from commanders and elite troops down to the lowliest infantry.
@@ -40,18 +40,18 @@ The kraul are an ascendant power group within the Golgari Swarm, long content to
   - !!int "11"
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "spear"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Kraul, understands Common but can't speak it"
 "cr": "1/2"
 "traits":
-  - "desc": "The kraul is immune to the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ and [frightened](/3-Mechanics/CLI/conditions.md#Frightened) conditions while\
-      \ within 30 feet of at least one other kraul."
+  - "desc": "The kraul is immune to the charmed and frightened conditions while within\
+      \ 30 feet of at least one other kraul."
     "name": "Hive Mind"
   - "desc": "The kraul has advantage on an attack roll against a creature if at least\
       \ one of the kraul's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ incapacitated."
     "name": "Pack Tactics"
   - "desc": "The kraul can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -63,6 +63,6 @@ The kraul are an ascendant power group within the Golgari Swarm, long content to
     "name": "Spear"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kraul-warrior-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/kraul-warrior-ggr.webp"
 ```
 ^statblock

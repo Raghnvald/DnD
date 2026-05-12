@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- People on the Street—Precinct Two
+- "People on the Street—Precinct Two"
 ---
 # People on the Street—Precinct Two
 *Source: Guildmasters' Guide to Ravnica p. 108* 
 
 **People on the Street—Precinct Two**
-
-`dice: [](people-on-the-streetprecinct-two-ggr.md#^people-on-the-streetprecinct-two)`
 
 | dice: d12 | Description |
 |-----------|-------------|

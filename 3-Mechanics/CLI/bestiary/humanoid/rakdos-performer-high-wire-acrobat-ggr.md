@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos Performer, High-Wire Acrobat
+- "Rakdos Performer, High-Wire Acrobat"
 ---
-# [Rakdos Performer, High-Wire Acrobat](3-Mechanics\CLI\bestiary\humanoid/rakdos-performer-high-wire-acrobat-ggr.md)
+# [Rakdos Performer, High-Wire Acrobat](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-high-wire-acrobat-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 249*  
 
 By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
@@ -39,9 +39,9 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+4"
 "senses": "passive Perception 9"
 "languages": "any one language (usually Common)"
@@ -53,12 +53,12 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
 "actions":
   - "desc": "The acrobat makes two attacks with its barbed pole."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage, and the acrobat can jump up to 20 feet. This movement\
-      \ doesn't provoke opportunity attacks."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage, and the acrobat can jump up to 20 feet. This\
+      \ movement doesn't provoke opportunity attacks."
     "name": "Barbed Pole"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-high-wire-acrobat-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-high-wire-acrobat-ggr.webp"
 ```
 ^statblock

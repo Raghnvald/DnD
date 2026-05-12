@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Axe Beak
+- "Giant Axe Beak"
 ---
-# [Giant Axe Beak](3-Mechanics\CLI\bestiary\monstrosity/giant-axe-beak-xmm.md)
+# [Giant Axe Beak](3-Mechanics/CLI/bestiary/monstrosity/giant-axe-beak-xmm.md)
 *Source: Monster Manual (2024) p. 24*  
 
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
@@ -54,7 +54,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -62,17 +62,17 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 "actions":
   - "desc": "The axe beak makes one Sharpened Beak attack and one Talons attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (2d12 + 5) Slashing damage,\
-      \ and a creature within 5 feet of the target (axe beak's choice) takes 6 (1d12)\
-      \ Slashing damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (2d12 + 5) Slashing\
+      \ damage, and a creature within 5 feet of the target (axe beak's choice) takes\
+      \ 6 (1d12) Slashing damage."
     "name": "Sharpened Beak"
-  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 14 (2d8 + 5) Piercing\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Talons"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/giant-axe-beak-xmm.webp"
 ```
 ^statblock
 

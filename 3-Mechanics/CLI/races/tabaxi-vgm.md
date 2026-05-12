@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/tabaxi
 aliases:
-- Tabaxi
+- "Tabaxi"
 ---
 # Tabaxi
-*Source: Volo's Guide to Monsters p. 113, Explorer's Guide to Wildemount p. 179*  
-![](/3-Mechanics/CLI/races/img/tabaxi.webp#right)
+*Source: Volo's Guide to Monsters p. 113*  
+![](3-Mechanics/CLI/races/img/tabaxi.webp#right)
 
 - **Ability Scores**: dex +2 cha +1
 - **Size**: Medium
@@ -40,7 +40,7 @@ Because of your claws, you have a climbing speed of 20 feet. In addition, your c
 
 ### Cat's Talents
 
-You have proficiency in the Perception and Stealth skills.
+You have proficiency in the [Perception](3-Mechanics/CLI/rules/skills.md#Perception) and [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) skills.
 
 ### Languages
 

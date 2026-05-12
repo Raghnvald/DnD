@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Foul Weather at Wayside
+- "Foul Weather at Wayside"
 ---
 # Foul Weather at Wayside
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -64,11 +64,11 @@ Use the following read-aloud text to set the scene:
 > A wall of storms surges and howls in the distance. The sunny, mild weather gives way immediately to rain and hail, violent winds, and electrical discharges. Passing in and out of the wall are three figures in plate armor, each swinging a flail at a lone figure in splint armor wielding a longsword. The lone fighter, taking on the three in plate, wears the emblem of the Leilon garrison.
 ^07b
 
-The soldier, a [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) named Emmalou, is fighting off three [air elemental myrmidons](/3-Mechanics/CLI/bestiary/elemental/air-elemental-myrmidon-mpmm.md) (see appendix A). These suits of armor were the same ones crafted by the Wayside Inn's blacksmith, Teega. If the characters don't remember seeing the armor on their previous encounter at the inn, feel free to remind them. Also, if any character stole a suit of the armor and is wearing it now, it falls off the character and animates as another hostile air elemental myrmidon!
+The soldier, a [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) named Emmalou, is fighting off three air elemental myrmidons (see appendix A). These suits of armor were the same ones crafted by the Wayside Inn's blacksmith, Teega. If the characters don't remember seeing the armor on their previous encounter at the inn, feel free to remind them. Also, if any character stole a suit of the armor and is wearing it now, it falls off the character and animates as another hostile air elemental myrmidon!
 
 #### Curse of Talos
 
-If a character is hit with a lightning strike attack from any of the myrmidons, and then fails their saving throw and becomes stunned, a mark resembling three parallel lightning bolts appears on their head. It can only be removed by a remove curse spell, and its effects are noted later in this quest.
+If a character is hit with a lightning strike attack from any of the myrmidons, and then fails their saving throw and becomes [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), a mark resembling three parallel lightning bolts appears on their head. It can only be removed by a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell, and its effects are noted later in this quest.
 
 Note that three of these creatures is a deadly encounter, even for 6 characters of 8th level. For fewer characters, or for lower level characters, have the enemies start at half their normal hit points, and allow Emmalou to assist the characters for longer than normal by increasing her hit points.
 
@@ -85,15 +85,15 @@ If the characters defeat the myrmidons and Emmalou is still alive, the salty and
 - The stormy area is slowly growing larger. Emmalou had to retreat several hundred yards to remain outside the zone. She has no idea what is causing it, but such blatant and powerful forces of magic are nothing she wants to be involved with if she has a choice in the matter.  
 - When she was in the stormy area, the lightning was everywhere, but it never struck the suits of armor even though they were made of metal.  
 - She was almost struck a few times, but she kept repeating prayers to Talos, and she thinks that is the only thing that saved her.  
-- She does not want to enter the stormy area and does not do so unless a character convinces her with a successful DC 20 Charisma (Persuasion) check.  
+- She does not want to enter the stormy area and does not do so unless a character convinces her with a successful DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.  
 
 ### Lightning Strikes
 
 When the characters enter the storm zone around the Wayside Inn, they must contend with the weather, which becomes an enemy more deadly than most they have faced.
 
-As the party travels to the Wayside Inn through the storm, have each character roll a `dice:d6|noform|noparens|avg` (`d6`) for the number of times they are struck by lightning as they approach. If a character attempts to pray to Talos and succeeds on a DC 15 Intelligence (Religion) check, they are not hit by any of the strikes.
+As the party travels to the Wayside Inn through the storm, have each character roll a `d6` for the number of times they are struck by lightning as they approach. If a character attempts to pray to Talos and succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, they are not hit by any of the strikes.
 
-For each strike, a character must succeed on a DC 15 Constitution saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) lightning damage, or no damage on a successful save.
+For each strike, a character must succeed on a DC 15 Constitution saving throw or take 10 (`3d6`) lightning damage, or no damage on a successful save.
 
 Any characters carrying the cursed symbol of Talos from the fight with the myrmidons has disadvantage on those saving throws as well as on the checks to pray to Talos to be spared.
 
@@ -112,29 +112,29 @@ When the characters arrive at the inn, use the following read-aloud text to desc
 
 The creatures clawing at the doors are not monsters at all. The cultists have used small tridents to impale six humanoids victims to the doors, leaving them to die as offerings to power their terrible ritual.
 
-Once characters are within 30 feet of the poor souls, they can attempt a DC 15 Wisdom (Perception) check, with disadvantage due to the pouring rain, to realize that these people ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) are staked to the doors by small tridents and trying to pull themselves off. They each only have 1 hit point and are restrained.
+Once characters are within 30 feet of the poor souls, they can attempt a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, with disadvantage due to the pouring rain, to realize that these people ([commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) are staked to the doors by small tridents and trying to pull themselves off. They each only have 1 hit point and are [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).
 
-Unless the tridents can be pulled out with a soft touch, requiring a successful DC 15 Dexterity (Sleight of Hand) or Wisdom (Medicine) check, the removal does `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) points of damage, and easily kills the victim.
+Unless the tridents can be pulled out with a soft touch, requiring a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) or Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check, the removal does 4 (`1d8`) points of damage, and easily kills the victim.
 
 > [!gallery]
-> ![Map 5: Wayside Inn](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/009-ivsrz-map-wayside-inn-final_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/010-unnbj-map-wayside-inn_player.webp#gallery)
+> ![Map 5: Wayside Inn](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/009-ivsrz-map-wayside-inn-final_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/010-unnbj-map-wayside-inn_player.webp#gallery)
 
 ### Inside the Inn
 
-The cultists of Talos are performing a ritual inside the Wayside Inn. The doors and windows to the building are locked but can be opened with a successful DC 15 Dexterity check using thieves' tools. Also, the doors and windows have an AC of 12 and break with 25 points of damage.
+The cultists of Talos are performing a ritual inside the Wayside Inn. The doors and windows to the building are locked but can be opened with a successful DC 15 Dexterity check using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). Also, the doors and windows have an AC of 12 and break with 25 points of damage.
 
-Magical runes, as per the glyph of warding spell, protect the cloak room and barn doors. If the party opens the doors without first removing or disabling the runes, they take thunder damage as per the spell.
+Magical runes, as per the [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell, protect the cloak room and barn doors. If the party opens the doors without first removing or disabling the runes, they take thunder damage as per the spell.
 
-A window at the back of the inn on the second floor is open (see "The Upstairs" below). A successful DC 10 Strength (Athletics) check to climb to the window gives characters access to the inn without having to go through the more dangerous front doors.
+A window at the back of the inn on the second floor is open (see "The Upstairs" below). A successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to climb to the window gives characters access to the inn without having to go through the more dangerous front doors.
 
 #### The Common Area and Courtyard
 
-In the common area and courtyard, the ritual is underway to fully activate the [statue of Talos](/3-Mechanics/CLI/bestiary/elemental/statue-of-talos-slw.md), which is currently in the basement.
+In the common area and courtyard, the ritual is underway to fully activate the [statue of Talos](3-Mechanics/CLI/bestiary/elemental/statue-of-talos-slw.md), which is currently in the basement.
 
 > [!note] The Ritual
 > 
-> Backes (Illuskan human [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md)) leads the chanting in the common area as [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (one for every two characters rounded down, excluding sidekicks) walk back and forth between the common area and the courtyard, making sure the ritual is progressing according to plan. Spread out between the two areas are [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) (one per character) with tridents, guarding several bound victims who will be sacrificed at the conclusion of the ritual.
+> Backes (Illuskan human [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)) leads the chanting in the common area as [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) (one for every two characters rounded down, excluding sidekicks) walk back and forth between the common area and the courtyard, making sure the ritual is progressing according to plan. Spread out between the two areas are [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) (one per character) with tridents, guarding several bound victims who will be sacrificed at the conclusion of the ritual.
 > 
 > The ritual takes 10 minutes to complete after the characters arrive on the scene. If they do nothing but watch, describe how the chanting from inside gets louder, how the weather gets darker and even more dangerous, and how terrible faces appear in the clouds. If this doesn't urge them to act, the ritual will be completed, and the adventurers must deal with the consequences (see "Aftermath" below for details).
 ^the-ritual
@@ -143,7 +143,7 @@ In the common area and courtyard, the ritual is underway to fully activate the [
 
 The cultists believe they cleared the rooms of all guests, using them as sacrifices to power their ritual. However, one sneaky individual avoided capture.
 
-In the posh room at the end of the hallway (Room C on the map), a gnome [apprentice wizard](/3-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-vgm.md) named Cray Onderquill hides beneath the bed. She was traveling from Neverwinter to Waterdeep on an errand for her master, and she decided to stay the night. When the cultists began grabbing people, she used disguise self to imitate a cultist, and then snuck away here to hide. She thought about climbing out the window but is afraid the fall might kill her. She is willing to help the characters in an assault on the cultists, if only by lending her expertise in Arcana to figure out what's happening with the ritual.
+In the posh room at the end of the hallway (Room C on the map), a gnome [apprentice wizard](3-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-mpmm.md) named Cray Onderquill hides beneath the bed. She was traveling from Neverwinter to Waterdeep on an errand for her master, and she decided to stay the night. When the cultists began grabbing people, she used [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md) to imitate a cultist, and then snuck away here to hide. She thought about climbing out the window but is afraid the fall might kill her. She is willing to help the characters in an assault on the cultists, if only by lending her expertise in [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) to figure out what's happening with the ritual.
 
 Cray also reveals that not all the captives taken by cultists were impaled on the doors: the inn's owner, Martisha Vinetalker, was dragged into the basement, and a local bard, Tarbin Tul, was taken away on horseback. Cray thinks the cultists had strict orders to capture the bard alive, as he heard them talking about being careful with Tul.
 
@@ -158,18 +158,18 @@ The basement houses the shrine to Talos, where the energy from the ritual is bei
 > Before the statue stands Teega the smith. In the corner behind the statue, Martisha, the inn's owner, is bound with rope. Her face is bruised and bloodied, but she bears no mortal wounds.
 ^089
 
-Teega (female Illuskan [berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker.md)) stands proudly before the statue. The [statue of Talos](/3-Mechanics/CLI/bestiary/elemental/statue-of-talos-slw.md) (see appendix A) moves toward the characters, its face twisted in rage.
+Teega (female Illuskan [berserker](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)) stands proudly before the statue. The [statue of Talos](3-Mechanics/CLI/bestiary/elemental/statue-of-talos-slw.md) (see appendix A) moves toward the characters, its face twisted in rage.
 
 > [!note] The Connection
 > 
 > The ritual has created a connection between Teega and the statue. Until the statue is deactivated, Teega cannot be dropped below 1 hit point.
 > 
-> Describe lightning flowing between the statue and Teega as a clue to this connection. With a successful DC 10 Intelligence (Arcana or Religion) check, the details of the connection are understood. Also reveal that the corresponding lightning bolt symbols on the statue and Teega's bracers power this connection. As an action, a character within 5 feet of either the statue or Teega can attempt a DC 20 Dexterity (Sleight of Hand) check. On a success, the connection is broken, Teega drops to 0 hit points immediately, and the statue takes `dice:4d10|noform|noparens|avg` (`4d10`) force damage from the lost connection.
+> Describe lightning flowing between the statue and Teega as a clue to this connection. With a successful DC 10 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, the details of the connection are understood. Also reveal that the corresponding lightning bolt symbols on the statue and Teega's bracers power this connection. As an action, a character within 5 feet of either the statue or Teega can attempt a DC 20 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. On a success, the connection is broken, Teega drops to 0 hit points immediately, and the statue takes `4d10` force damage from the lost connection.
 ^the-connection
 
 #### Help
 
-Martisha Vinetalker, owner of the Wayside Inn, is bound in the corner, watching the proceedings with a mix of anger and terror. If the adventurers free her, she joins the battle to help the party defeat the threat. Although she's now a respectable innkeeper, Martisha is a former [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md) who's weapons are close at hand.
+Martisha Vinetalker, owner of the Wayside Inn, is bound in the corner, watching the proceedings with a mix of anger and terror. If the adventurers free her, she joins the battle to help the party defeat the threat. Although she's now a respectable innkeeper, Martisha is a former [bandit captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) who's weapons are close at hand.
 
 ### Aftermath
 
@@ -181,7 +181,7 @@ After 10 minutes have passed, the ritual has been completed. The characters can 
 
 #### Treasure
 
-In sacks stored in the basement, the party finds 500 gp, 5 potions of greater healing a spell scroll of call lightning, and a ring of water walking. More importantly, they find a clue to the location of the local headquarters of the Cult of Talos.
+In sacks stored in the basement, the party finds 500 gp, 5 [potions of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md) a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [call lightning](3-Mechanics/CLI/spells/call-lightning-xphb.md), and a [ring of water walking](3-Mechanics/CLI/items/ring-of-water-walking-xdmg.md). More importantly, they find a clue to the location of the local headquarters of the Cult of Talos.
 
 #### Clues
 

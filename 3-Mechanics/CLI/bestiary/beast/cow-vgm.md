@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cow
+- "Cow"
 ---
-# [Cow](3-Mechanics\CLI\bestiary\beast/cow-vgm.md)
+# [Cow](3-Mechanics/CLI/bestiary/beast/cow-vgm.md)
 *Source: Volo's Guide to Monsters p. 207*  
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
@@ -44,12 +44,12 @@ There are many kinds of cattle, from common oxen to more unusual, magical varian
       \ piercing damage."
     "name": "Charge"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Gore"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/cow-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/cow-vgm.webp"
 ```
 ^statblock
 

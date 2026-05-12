@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Spawn Mangler
+- "Star Spawn Mangler"
 ---
-# [Star Spawn Mangler](3-Mechanics\CLI\bestiary\aberration/star-spawn-mangler-mpmm.md)
+# [Star Spawn Mangler](3-Mechanics/CLI/bestiary/aberration/star-spawn-mangler-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229, Mordenkainen's Tome of Foes p. 236*  
 
 > [!quote] A quote from Mordenkainen  
@@ -68,14 +68,14 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "dexterity": !!int "7"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Deep Speech"
 "cr": "5"
 "traits":
@@ -84,20 +84,20 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 "actions":
   - "desc": "The mangler makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage. If the attack roll has advantage, the target also takes\
-      \ 7 (2d6) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage. If the attack roll has advantage, the target\
+      \ also takes 7 (2d6) psychic damage."
     "name": "Claw"
   - "desc": "The mangler makes six Claw attacks. Either before or after these attacks,\
-      \ it can move up to its speed without provoking [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ it can move up to its speed without provoking [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)."
     "name": "Flurry of Claws (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the mangler takes the [Hide](/3-Mechanics/CLI/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the mangler takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/star-spawn-mangler-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/star-spawn-mangler-mpmm.webp"
 ```
 ^statblock

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Shrine of Savras
+- "Shrine of Savras"
 ---
 # Shrine of Savras
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 38* 
@@ -29,9 +29,9 @@ An old dirt trail stretches from the outskirts of Conyberry to the shrine, which
 > A ruin stands in the middle of a vast field north of the rocky foothills of the Sword Mountains. An old stone temple with a belfry jutting from its peaked roof is enclosed by stone walls, many sections of which have collapsed. The trail ends at a crumbling gatehouse, the doors to which were sundered long ago. Three of the four towers that once stood at the corners of the outer walls have collapsed. Only the northeast tower remains, and a guard stands atop it.
 ^177
 
-The guard spotted atop the northeast tower (area S6) is an [orc](/3-Mechanics/CLI/bestiary/humanoid/orc.md). During the day, the characters can't approach the shrine without being seen by this sentry, as there are no places to hide in the level field surrounding the shrine. If the characters wait until nightfall, clouds obscure the moon and enable them to approach unseen, as long as they stay outside the 60-foot range of the orc's darkvision. If the orc spots the characters, it cries out, rousing the shrine's other occupants. Once roused, all those occupants attack.
+The guard spotted atop the northeast tower (area S6) is an orc. During the day, the characters can't approach the shrine without being seen by this sentry, as there are no places to hide in the level field surrounding the shrine. If the characters wait until nightfall, clouds obscure the moon and enable them to approach unseen, as long as they stay outside the 60-foot range of the orc's darkvision. If the orc spots the characters, it cries out, rousing the shrine's other occupants. Once roused, all those occupants attack.
 
-The Enemy Roster table adjusts the number of [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) and [ogres](/3-Mechanics/CLI/bestiary/giant/ogre.md) in the shrine based on the level of the characters and the number of characters in the party, not counting sidekicks.
+The Enemy Roster table adjusts the number of orcs and ogres in the shrine based on the level of the characters and the number of characters in the party, not counting sidekicks.
 
 **Enemy Roster**
 
@@ -50,8 +50,8 @@ When rolling initiative for these foes, roll once for all the orcs and once for 
 The following locations are keyed to the map of the Shrine of Savras. Squares filled with rubble are "difficult terrain" (see "the rulebook").
 
 > [!gallery]
-> ![Map: Shrine of Savras](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/027-map-sos-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/028-map-sos-pc.webp#gallery)
+> ![Map: Shrine of Savras](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/027-map-sos-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/028-map-sos-pc.webp#gallery)
 
 #### S1. Gatehouse
 
@@ -59,7 +59,7 @@ The gatehouse is 20 feet high, and its outer doors have been smashed to flinders
 
 #### S2. Courtyard
 
-The orcs and ogres camp in this grassy courtyard, which is littered with bones, broken weapons, and shattered armor from past battles. The courtyard has four quadrants. The ogres claim the southeast quadrant, while the orcs claim the remaining quadrants. See the Enemy Roster table for the number of [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) and [ogres](/3-Mechanics/CLI/bestiary/giant/ogre.md) present.
+The orcs and ogres camp in this grassy courtyard, which is littered with bones, broken weapons, and shattered armor from past battles. The courtyard has four quadrants. The ogres claim the southeast quadrant, while the orcs claim the remaining quadrants. See the Enemy Roster table for the number of orcs and ogres present.
 
 The courtyard's northwest and northeast quadrants contain rotted wooden troughs and posts that were once used to feed, water, and tether horses.
 
@@ -77,7 +77,7 @@ Little remains of this tower. Lying amid the debris is a rusty iron bell that we
 
 #### S6. Northeast Tower
 
-This tower is the only one of the shrine's four towers that has not fallen. An iron ladder inside the tower climbs to a stone trapdoor in the ceiling, through which characters can reach the tower's battlemented rooftop. An [orc](/3-Mechanics/CLI/bestiary/humanoid/orc.md) watches the surrounding countryside from atop the tower.
+This tower is the only one of the shrine's four towers that has not fallen. An iron ladder inside the tower climbs to a stone trapdoor in the ceiling, through which characters can reach the tower's battlemented rooftop. An orc watches the surrounding countryside from atop the tower.
 
 #### S7. Main Hall and Belfry
 
@@ -85,7 +85,7 @@ Rows of crumbling pillars support the 40-foot-high vaulted ceiling of this hall.
 
 ##### Treasure
 
-Close examination of the bell reveals that it's thin sides are solid gold covered with peeling copper paint. The bell, which is 3 feet wide and weighs 50 pounds, hangs from an iron fixture bolted to a wooden crossbeam. A character with carpenter's tools or smith's tools can use them to detach the bell from the beam in 1 minute. Any creature under the bell when it falls must succeed on a DC 12 Dexterity check to get out of the way, or take `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) bludgeoning damage. The gold bell is worth 2,500 gp.
+Close examination of the bell reveals that it's thin sides are solid gold covered with peeling copper paint. The bell, which is 3 feet wide and weighs 50 pounds, hangs from an iron fixture bolted to a wooden crossbeam. A character with carpenter's tools or smith's tools can use them to detach the bell from the beam in 1 minute. Any creature under the bell when it falls must succeed on a DC 12 Dexterity check to get out of the way, or take 14 (`4d6`) bludgeoning damage. The gold bell is worth 2,500 gp.
 
 #### S8. Visitors' Sanctuary
 
@@ -102,8 +102,8 @@ The priest-seers of Savras slept and cooked their meals here. All the furnishing
 > Six stone pillars brace the vaulted ceiling of this temple, the floor of which is buried under a thick layer of dust. Also covered in dust are four humanoid skeletons in tattered priestly vestments, lying near a stone altar situated in an alcove under four narrow windows. Carved into the front of the altar is a humanoid eye.
 ^184
 
-A detect magic spell reveals an aura of divination magic around the altar. If Cryovain has been slain, nothing happens when a character touches the altar. Otherwise, any character touching the altar experiences a vision lasting 1 minute, during which time the character is incapacitated. In the vision, the character floats through the roof of the shrine, soars toward Icespire Hold, and sees the [white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) asleep on the fortress's rooftop. (The divination power of the altar is effectively telling the characters where they must go to defeat the dragon.) A character receives this vision only once. Nothing happens to a character who touches the altar a second time.
+A detect magic spell reveals an aura of divination magic around the altar. If Cryovain has been slain, nothing happens when a character touches the altar. Otherwise, any character touching the altar experiences a vision lasting 1 minute, during which time the character is incapacitated. In the vision, the character floats through the roof of the shrine, soars toward Icespire Hold, and sees the white dragon asleep on the fortress's rooftop. (The divination power of the altar is effectively telling the characters where they must go to defeat the dragon.) A character receives this vision only once. Nothing happens to a character who touches the altar a second time.
 
 ##### Treasure
 
-Any character who searches the altar and succeeds on a DC 10 Wisdom (Perception) check realizes that the altar's base doesn't quite touch the floor. The altar has stone rollers built into it and can be pushed 3 feet to the south, revealing an unlocked wooden coffer tucked inside a 1-foot-square cavity in the floor. This coffer contains 57 gp and a mystery key. If the characters acquire and identify the mystery key, give the players the Mystery Key [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Mystery%20Key) or they can reference it in the Magic Items Listing.
+Any character who searches the altar and succeeds on a DC 10 Wisdom (Perception) check realizes that the altar's base doesn't quite touch the floor. The altar has stone rollers built into it and can be pushed 3 feet to the south, revealing an unlocked wooden coffer tucked inside a 1-foot-square cavity in the floor. This coffer contains 57 gp and a mystery key. If the characters acquire and identify the mystery key, give the players the Mystery Key [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Mystery%20Key) or they can reference it in the Magic Items Listing.

@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/attunement/required
-- new/item/rarity/unknown/magic
-- new/item/wondrous/other
-aliases: 
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/unknown/magic
+- ttrpg-cli/item/wondrous/other
+aliases:
 - "Petrified Grung Egg"
 ---
 # Petrified Grung Egg

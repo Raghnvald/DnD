@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Copper chalice with silver filigree"
 ---
 # Copper chalice with silver filigree

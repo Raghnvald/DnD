@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eagle
+- "Eagle"
 ---
-# [Eagle](3-Mechanics\CLI\bestiary\beast/eagle.md)
+# [Eagle](3-Mechanics/CLI/bestiary/beast/eagle.md)
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -37,22 +37,22 @@ aliases:
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The eagle has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The eagle has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/eagle.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/eagle.webp"
 ```
 ^statblock
 

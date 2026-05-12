@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Poltergeist
+- "Poltergeist"
 ---
-# [Poltergeist](3-Mechanics\CLI\bestiary\undead/poltergeist-xmm.md)
+# [Poltergeist](3-Mechanics/CLI/bestiary/undead/poltergeist-xmm.md)
 *Source: Monster Manual (2024) p. 246*  
 
 ## Poltergeist
@@ -29,8 +29,6 @@ Poltergeists are spirits that confuse and torment the living. While typically no
 Poltergeists telekinetically move objects in the places they lurk. Roll on or choose a result from the Poltergeist Activities table to inspire how a poltergeist menaces the living.
 
 **Poltergeist Activities**
-
-`dice: [](poltergeist-xmm.md#^poltergeist-activities)`
 
 | dice: 1d8 | To Torment the Living, the Poltergeist... |
 |-----------|-------------------------------------------|
@@ -64,18 +62,18 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 "damage_resistances": "acid, bludgeoning, cold, fire, lightning, piercing, slashing,\
   \ thunder"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common plus one other language"
 "cr": "2"
 "traits":
   - "desc": "The poltergeist can move through other creatures and objects as if they\
-      \ were [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+      \ were [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
       \ It takes 5 (1d10) Force damage if it ends its turn inside an object."
     "name": "Incorporeal Movement"
 "actions":
@@ -89,12 +87,12 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
       \ up to 30 feet straight away from the poltergeist."
     "name": "Telekinetic Thrust"
 "bonus_actions":
-  - "desc": "The poltergeist gives itself the [Invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The poltergeist gives itself the [Invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ condition or ends that condition on itself."
     "name": "Vanish"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/poltergeist-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/poltergeist-xmm.webp"
 ```
 ^statblock
 

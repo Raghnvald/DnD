@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Icespire Hold
+- "Icespire Hold"
 ---
 # Icespire Hold
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 30* 
 
-Icespire Hold is where adventurers can expect to find Cryovain if they haven't defeated the [young white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) elsewhere. This location is designed for characters of 6th level, though lower-level characters can defeat the dragon if they're cunning and cautious.
+Icespire Hold is where adventurers can expect to find Cryovain if they haven't defeated the young white dragon elsewhere. This location is designed for characters of 6th level, though lower-level characters can defeat the dragon if they're cunning and cautious.
 
 ## Location Overview
 
@@ -41,9 +41,9 @@ Icespire Hold is so tucked away in the mountains that few people know of its exi
 
 If the characters are ready to confront the dragon but need help finding its lair, use one of the following hooks to get them to Icespire Hold:
 
-**Captured Orc**. A dozen [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) attack Phandalin. If the characters are not present during the attack, the townsfolk repel the orcs but suffer losses. One wounded orc is captured alive. This orc speaks Common and knows where the dragon's lair is. The characters can also capture an orc themselves and get the information they need from it.
+**Captured Orc**. A dozen orcs attack Phandalin. If the characters are not present during the attack, the townsfolk repel the orcs but suffer losses. One wounded orc is captured alive. This orc speaks Common and knows where the dragon's lair is. The characters can also capture an orc themselves and get the information they need from it.
 
-**Tymora's Luck**. A sidekick or friendly NPC suggests that the characters pray for Tymora's blessing at the Shrine of Luck. If one or more characters do so, Tymora's blessing comes after a long rest when a mysterious, cloaked man arrives in town on a [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse.md) to gather supplies for his companions. The man's name is Dobin Noreth, a neutral evil member of the Stone-Cold Reavers (see the sidebar). Both he and the horse know the way to the dragon's lair, having come from there. Dobin's steed is a retired, well-behaved race horse named Four-Leaf Clover.
+**Tymora's Luck**. A sidekick or friendly NPC suggests that the characters pray for Tymora's blessing at the Shrine of Luck. If one or more characters do so, Tymora's blessing comes after a long rest when a mysterious, cloaked man arrives in town on a riding horse to gather supplies for his companions. The man's name is Dobin Noreth, a neutral evil member of the Stone-Cold Reavers (see the sidebar). Both he and the horse know the way to the dragon's lair, having come from there. Dobin's steed is a retired, well-behaved race horse named Four-Leaf Clover.
 
 ## Travel to Icespire Hold
 
@@ -58,13 +58,13 @@ Set the scene by reading the following boxed text aloud:
 > As you make your way across the cold, windblown foothills of the Sword Mountains, you happen upon a large, prone creature frozen in ice.
 ^11f
 
-The frozen creature is an [ogre](/3-Mechanics/CLI/bestiary/giant/ogre.md) that the white dragon killed with its cold breath. The ogre's corpse was too big to carry off, so the dragon left it. A character who examines the scene closely and succeeds on a DC 15 Wisdom (Survival) check can ascertain that the ogre was killed within the past 24 hours. The cold of the foothills has kept the ice from thawing.
+The frozen creature is an ogre that the white dragon killed with its cold breath. The ogre's corpse was too big to carry off, so the dragon left it. A character who examines the scene closely and succeeds on a DC 15 Wisdom (Survival) check can ascertain that the ogre was killed within the past 24 hours. The cold of the foothills has kept the ice from thawing.
 
 Frozen in the ice with the ogre is a hefty sack, but it can't be reached or searched until the characters chip or melt away the ice that covers it. The sack contains a rusty dwarven helm, two halves of a splintered wooden shield, a tumbleweed, a crumpled-up cowboy hat, and a sackcloth doll in desperate need of restitching.
 
 #### Treasure
 
-If the characters are low on healing magic, they find three potions of healing in the ogre's sack along with the worthless items above. (Give the players three Potions of Healing [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Healing) or they can reference them in the Equipment Items Listing.)
+If the characters are low on healing magic, they find three [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md) in the ogre's sack along with the worthless items above. (Give the players three [Potions of Healing](3-Mechanics/CLI/items/potion-of-healing.md) [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Healing) or they can reference them in the Equipment Items Listing.)
 
 ## Arrival
 
@@ -75,7 +75,7 @@ As the characters approach Icespire Hold, read the following boxed text aloud to
 > Clouds partly obscure a stone fortress situated atop the icy spur of a jagged, snow-covered mountain that you recognize as Icespire Peak, a landmark so enormous as to be visible from Phandalin on a clear day. The mountain dwarfs the fortress, which consists of two separate structures joined together by a stone bridge. A narrow, winding path corkscrews up the mountainside to the smaller of the two structures, and appears to be the only safe way to reach it by land. It's an unwelcome path, but not as unwelcome as the cold, howling wind that buffets you.
 ^123
 
-If Cryovain is alive, the [young white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) is sleeping on the rooftop of the main fortress (area H20), where it can enjoy the cold mountain air while surveying its domain from over the battlements. It sleeps in a 10-foot-square area in the middle of the roof, away from obstacles, and awakes if one of the following things occurs:
+If Cryovain is alive, the young white dragon is sleeping on the rooftop of the main fortress (area H20), where it can enjoy the cold mountain air while surveying its domain from over the battlements. It sleeps in a 10-foot-square area in the middle of the roof, away from obstacles, and awakes if one of the following things occurs:
 
 - The dragon is targeted by a spell or takes damage.  
 - Someone or something makes a noise loud enough to interrupt the dragon's slumber. Noises that qualify include the clap of a thunderwave spell, sounds of combat in areas not completely sealed off from the outside by doors, or a whisper in the dragon's ear.  
@@ -89,8 +89,8 @@ The howling of the wind prevents Cryovain from hearing intruders who remain rela
 The following locations are keyed to the map of Icespire Hold.
 
 > [!gallery]
-> ![Map: Icespire Hold](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/021-map-ih-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/022-map-ih-pc.webp#gallery)
+> ![Map: Icespire Hold](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/021-map-ih-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/022-map-ih-pc.webp#gallery)
 
 #### H1. Narrow Trail
 
@@ -106,7 +106,7 @@ The mercenary stationed in area H6 watches the trail and alerts her companions i
 
 #### H2. Stables
 
-Four saddled [riding horses](/3-Mechanics/CLI/bestiary/beast/riding-horse.md) are kept in stalls. A fifth stall stands empty. The horses belong to the mercenaries in areas H4 and H6.
+Four saddled riding horses are kept in stalls. A fifth stall stands empty. The horses belong to the mercenaries in areas H4 and H6.
 
 #### H3. Storage
 
@@ -114,7 +114,7 @@ This room contains empty wooden barrels and crates that are so old and brittle t
 
 > [!note] Stone-Cold Reavers
 > 
-> The Stone-Cold Reavers are neutral evil human [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) who speak Common. When they can't find work as sellswords, they resort to brigandry and thievery. After spotting the white dragon, they decided to follow it back to its lair. They're now waiting for it to go hunting so they can plunder Icespire Hold during its absence. Until the dragon leaves, the reavers do everything they can to avoid attracting its attention. If the characters killed the dragon elsewhere, assume that the mercenaries searched the fortress, found nothing, and are now angrily waiting for a companion named Dobin Noreth to return with supplies (see "Tymora's Luck").
+> The Stone-Cold Reavers are neutral evil human veterans who speak Common. When they can't find work as sellswords, they resort to brigandry and thievery. After spotting the white dragon, they decided to follow it back to its lair. They're now waiting for it to go hunting so they can plunder Icespire Hold during its absence. Until the dragon leaves, the reavers do everything they can to avoid attracting its attention. If the characters killed the dragon elsewhere, assume that the mercenaries searched the fortress, found nothing, and are now angrily waiting for a companion named Dobin Noreth to return with supplies (see "Tymora's Luck").
 > 
 > The Reavers threaten the characters with bodily harm to scare them away, turning to violence if their threats fall on deaf ears. If the characters try to bribe them, the mercenaries realize that it would be easier to rob the characters than accept the bribe. If two or more Reavers are killed or incapacitated, the others stand down and try to negotiate a truce to ensure their own survival.
 > 
@@ -169,7 +169,7 @@ Between piles of rubble stands an empty hall with arrow slits lining the outer w
 
 #### H12. Audience Chamber
 
-Three [stirges](/3-Mechanics/CLI/bestiary/beast/stirge.md) flutter anxiously about this cold and dismal hall. The stirges are thirsty for blood and heedlessly attack any warm-blooded creature that attempts to cross the room.
+Three stirges flutter anxiously about this cold and dismal hall. The stirges are thirsty for blood and heedlessly attack any warm-blooded creature that attempts to cross the room.
 
 Shields, weapons, and tapestries once festooned the walls here, but orcs tore down and destroyed the decor. A dozen humanoid skeletons in rusty armor lie scattered amid the debris. (All died of hunger.) Painted on the stone floor is a 10-foot-diameter, shield-shaped crest that features a black tower being struck by a golden bolt of lightning—the emblem of the warlord Delsendra Amzarr.
 
@@ -224,7 +224,7 @@ Characters who search the room find an ornate wooden chair missing one of its ar
 
 #### H20. Roof
 
-If the characters haven't defeated Cryovain yet, the final encounter with the [young white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) occurs here as it stubbornly defends its new home. The rooftop is enclosed by a 3-foot-high battlement, except in the corners where the wall has collapsed. Cylindrical stone chimneys jut 5 feet above the rooftop but are too narrow for even Small characters to squeeze through. These chimneys connect to the fireplaces in areas H12, H13, H14, and H17.
+If the characters haven't defeated Cryovain yet, the final encounter with the young white dragon occurs here as it stubbornly defends its new home. The rooftop is enclosed by a 3-foot-high battlement, except in the corners where the wall has collapsed. Cylindrical stone chimneys jut 5 feet above the rooftop but are too narrow for even Small characters to squeeze through. These chimneys connect to the fireplaces in areas H12, H13, H14, and H17.
 
 ##### Slippery Ice
 

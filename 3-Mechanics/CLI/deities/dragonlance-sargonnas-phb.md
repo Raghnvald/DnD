@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/war
-aliases: 
-- Sargonnas
+aliases:
+- "Sargonnas"
 ---
 # Sargonnas
 *Source: Player's Handbook p. 295* 

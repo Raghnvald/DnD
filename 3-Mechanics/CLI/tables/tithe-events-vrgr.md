@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Tithe Events
+- "Tithe Events"
 ---
 # Tithe Events
 *Source: Van Richten's Guide to Ravenloft p. 160* 
 
 **Tithe Events**
-
-`dice: [](tithe-events-vrgr.md#^tithe-events)`
 
 | dice: d6 | Event | Token |
 |----------|-------|-------|

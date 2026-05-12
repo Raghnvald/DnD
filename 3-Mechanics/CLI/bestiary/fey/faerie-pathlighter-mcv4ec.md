@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Pathlighter
+- "Faerie Pathlighter"
 ---
-# [Faerie Pathlighter](3-Mechanics\CLI\bestiary\fey/faerie-pathlighter-mcv4ec.md)
+# [Faerie Pathlighter](3-Mechanics/CLI/bestiary/fey/faerie-pathlighter-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Faerie pathlighters pry into human lives, sometimes to help (like a classic fairy godparent) and sometimes to harm. In the wilds of Eldraine, faerie pathlighters often serve as protectors for the lost, the glow of their guiding lanterns leading weary travelers to respite.
@@ -50,11 +50,11 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
   - !!int "18"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common, Sylvan"
@@ -65,20 +65,21 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
 "actions":
   - "desc": "The faerie makes two Shining Strike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 30 ft.,\
-      \ one target. *Hit:* 7 (2d6) radiant damage, and if the target is a creature,\
+  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 30\
+      \ ft., one target. *Hit:* 7 (2d6) radiant damage, and if the target is a creature,\
       \ it must succeed on a DC 14 Dexterity saving throw or be wreathed in light\
       \ until the end of the faerie's next turn. While a creature is wreathed in light,\
       \ attack rolls against the creature have advantage, and the creature can't benefit\
-      \ from the invisible condition."
+      \ from the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) condition."
     "name": "Shining Strike"
   - "desc": "The faerie casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability:\n\n**At will:** dancing lights,\
-      \ detect magic, prestidigitation\n\n**1/day:** locate creature"
+      \ and using Charisma as the spellcasting ability:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
+      \n**1/day:** [locate creature](3-Mechanics/CLI/spells/locate-creature.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The faerie summons a 30-foot-radius sphere of magical light centered\
-      \ on itself, which lasts for 1 minute or until the faerie has the incapacitated\
+      \ on itself, which lasts for 1 minute or until the faerie has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition. Each creature of the faerie's choice (other than the faerie) that\
       \ starts its turn in that area gains 5 temporary hit points and has advantage\
       \ on Wisdom saving throws and Wisdom checks until the start of its next turn.\n\
@@ -89,6 +90,6 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Guiding Light (2/Day)"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/faerie-pathlighter-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/faerie-pathlighter-mcv4ec.webp"
 ```
 ^statblock

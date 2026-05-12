@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/humanoid/paladin
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Solar Bastion Knight
+- "Solar Bastion Knight"
 ---
-# [Solar Bastion Knight](3-Mechanics\CLI\bestiary\humanoid/solar-bastion-knight-bmt.md)
+# [Solar Bastion Knight](3-Mechanics/CLI/bestiary/humanoid/solar-bastion-knight-bmt.md)
 *Source: The Book of Many Things p. 75*  
 
 Knights of the Solar Bastion are battle-hardened veterans who operate independently across the multiverse. When word reaches the organization that a Deck of Many Things has appeared, the nearest knight investigates, but every knight has the magical means to contact the Solar Bastion's headquarters and request help. Even so, it's rare for knights to work together outside their headquarters.
@@ -79,6 +79,6 @@ In addition, Sir Jared, detailed at the end of chapter 10, can serve as a model 
     "name": "Spellcasting"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/solar-bastion-knight-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/solar-bastion-knight-bmt.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kasimir Velikov
+- "Kasimir Velikov"
 ---
-# [Kasimir Velikov](3-Mechanics\CLI\bestiary\npc/kasimir-velikov-cos.md)
+# [Kasimir Velikov](3-Mechanics/CLI/bestiary/npc/kasimir-velikov-cos.md)
 *Source: Curse of Strahd p. 233*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "Dusk elf"
 "alignment": "Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with mage armor"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -38,42 +38,32 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"gear":
+  - "dagger"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any four languages"
 "cr": "6"
 "traits":
   - "desc": "Kasimir is a 9th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Kasimir has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
-      \ level (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md),\
-      \ [shield](/3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
-      \ [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md)\n\
-      \n**4th level (3 slots):** [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
-      \ [ice storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\n**5th level (1 slots):**\
-      \ [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** fire bolt, light, mage\
+      \ hand, prestidigitation\n\n**1st level (4 slots):** detect magic, mage armor,\
+      \ magic missile, shield\n\n**2nd level (3 slots):** misty step, suggestion\n\
+      \n**3rd level (3 slots):** counterspell, fireball, fly\n\n**4th level (3 slots):**\
+      \ greater invisibility, ice storm\n\n**5th level (1 slots):** cone of cold"
     "name": "Spellcasting"
-  - "desc": "Kasimir has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ and magic can't put the him to sleep."
+  - "desc": "Kasimir has advantage on saving throws against being charmed, and magic\
+      \ can't put him to sleep."
     "name": "Fey Ancestry"
-  - "desc": "Kasimir wears a [ring of warmth](/3-Mechanics/CLI/items/ring-of-warmth-xdmg.md)\
+  - "desc": "Kasimir wears a [ring of warmth](3-Mechanics/CLI/items/ring-of-warmth.md)\
       \ and carries a spellbook containing all the spells he has prepared plus the\
-      \ following spells: [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md),\
-      \ [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [identify](/3-Mechanics/CLI/spells/identify-xphb.md),\
-      \ [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md), [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md),\
-      \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md), [protection from evil\
-      \ and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
-      \ and [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md)."
+      \ following spells: arcane lock, comprehend languages, hold person, identify,\
+      \ locate object, nondetection, polymorph, protection from evil and good, and\
+      \ wall of stone."
     "name": "Special Equipment"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
@@ -81,6 +71,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kasimir-velikov-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kasimir-velikov-cos.webp"
 ```
 ^statblock

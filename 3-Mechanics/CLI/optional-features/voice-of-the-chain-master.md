@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/ei
 aliases:
-- Voice of the Chain Master
+- "Voice of the Chain Master"
 ---
 # Voice of the Chain Master
 *Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

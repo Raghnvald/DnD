@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Invisible Stalker
+- "Invisible Stalker"
 ---
-# [Invisible Stalker](3-Mechanics\CLI\bestiary\elemental/invisible-stalker.md)
+# [Invisible Stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md)
 *Source: Monster Manual p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -50,23 +50,23 @@ An invisible stalker requires no air, food, drink, or sleep.
   - !!int "11"
 "speed": "50 ft., fly 50 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 18"
 "languages": "Auran, understands Common but doesn't speak it"
 "cr": "6"
 "traits":
-  - "desc": "The stalker is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)."
+  - "desc": "The stalker is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)."
     "name": "Invisibility"
   - "desc": "The stalker is given a quarry by its summoner. The stalker knows the\
       \ direction and distance to its quarry as long as the two of them are on the\
@@ -80,7 +80,7 @@ An invisible stalker requires no air, food, drink, or sleep.
     "name": "Slam"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/invisible-stalker.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/invisible-stalker.webp"
 ```
 ^statblock
 

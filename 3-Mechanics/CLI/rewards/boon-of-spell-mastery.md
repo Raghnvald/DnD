@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- Quelle/5e/dmg
-- Kompendium/reward/boon
+- ttrpg-cli/compendium/src/5e/dmg
+- ttrpg-cli/reward/boon
 aliases:
-- Boon of Spell Mastery
+- "Boon of Spell Mastery"
 ---
 # Boon of Spell Mastery
 

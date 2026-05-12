@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chimera
+- "Chimera"
 ---
-# [Chimera](3-Mechanics\CLI\bestiary\monstrosity/chimera.md)
+# [Chimera](3-Mechanics/CLI/bestiary/monstrosity/chimera.md)
 *Source: Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
@@ -50,10 +50,10 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
   - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 18"
 "languages": "understands Draconic but can't speak"
 "cr": "6"
 "actions":
@@ -76,7 +76,7 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/chimera.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/chimera.webp"
 ```
 ^statblock
 

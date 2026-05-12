@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- 250 gp Art Objects
+- "250 gp Art Objects"
 ---
 # 250 gp Art Objects
 *Source: Bigby Presents: Glory of the Giants p. 109* 
 
 **250 gp Art Objects**
-
-`dice: [](250-gp-art-objects-bgg.md#^250-gp-art-objects)`
 
 | dice: d8 | Item |
 |----------|------|

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Dual Wielder
+- "Dual Wielder"
 ---
 # Dual Wielder
 *Source: Player's Handbook p. 165*  

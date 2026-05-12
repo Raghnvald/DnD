@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Immortal Lotus Monk
+- "Immortal Lotus Monk"
 ---
-# [Immortal Lotus Monk](3-Mechanics\CLI\bestiary\humanoid/immortal-lotus-monk-cm.md)
+# [Immortal Lotus Monk](3-Mechanics/CLI/bestiary/humanoid/immortal-lotus-monk-cm.md)
 *Source: Candlekeep Mysteries p. 165*  
 
 ```statblock
@@ -40,6 +40,8 @@ aliases:
     "desc": "+5"
   - "name": "Stealth"
     "desc": "+6"
+"gear":
+  - "dart"
 "senses": "passive Perception 15"
 "languages": "Common"
 "cr": "5"
@@ -50,15 +52,15 @@ aliases:
 "actions":
   - "desc": "The monk makes two attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) force damage, and if the target is a creature, it must succeed on a DC\
-      \ 14 Dexterity saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) force damage, and if the target is a creature, it must succeed\
+      \ on a DC 14 Dexterity saving throw or be knocked prone."
     "name": "Force Strike"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 20/60 ft., one target. *Hit:*\
       \ 5 (1d4 + 3) piercing damage."
     "name": "Dart"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/immortal-lotus-monk-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/immortal-lotus-monk-cm.webp"
 ```
 ^statblock

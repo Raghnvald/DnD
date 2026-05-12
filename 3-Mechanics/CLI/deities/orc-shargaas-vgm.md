@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/deity/orc
 - ttrpg-cli/domain/trickery
-aliases: 
-- Shargaas
+aliases:
+- "Shargaas"
 ---
 # Shargaas
 *Source: Volo's Guide to Monsters p. 84* 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Darkon Finale
+- "Darkon Finale"
 ---
 # Darkon Finale
 *Source: Van Richten's Guide to Ravenloft p. 93* 
 
 **Darkon Finale**
-
-`dice: [](darkon-finale-vrgr.md#^darkon-finale)`
 
 | dice: d6 | Finale |
 |----------|--------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Strahd's Animated Armor
+- "Strahd's Animated Armor"
 ---
-# [Strahd's Animated Armor](3-Mechanics\CLI\bestiary\npc/strahds-animated-armor-cos.md)
+# [Strahd's Animated Armor](3-Mechanics/CLI/bestiary/npc/strahds-animated-armor-cos.md)
 *Source: Curse of Strahd p. 227*  
 
 The armor that Strahd wore into battle when he was alive lives on today as a headless, animated suit of plate armor. The armor is painted burgundy and adorned with golden angelic motifs.
@@ -42,16 +42,15 @@ The armor understands Common but obeys only the commands of its master.
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 13"
+"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
+  \ petrified, poisoned"
+"gear":
+  - "greatsword"
+"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "6"
 "traits":
@@ -60,12 +59,9 @@ The armor understands Common but obeys only the commands of its master.
       \ points. An animated object reduced to 0 hit points becomes inanimate and is\
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
-  - "desc": "The armor is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ while in the area of an [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
-      \ If targeted by [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ the armor must succeed on a Constitution saving throw against the caster's\
-      \ spell save DC or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ for 1 minute."
+  - "desc": "The armor is incapacitated while in the area of an antimagic field. If\
+      \ targeted by dispel magic, the armor must succeed on a Constitution saving\
+      \ throw against the caster's spell save DC or fall unconscious for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
       \ suit of armor."
@@ -76,12 +72,12 @@ The armor understands Common but obeys only the commands of its master.
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) slashing damage plus 3 (1d6) lightning damage."
     "name": "Greatsword"
-  - "desc": "*Ranged Spell Attack:* +4 to hit (with advantage on the attack roll if\
-      \ the target is wearing armor made of metal), range 60 ft., one target. *Hit:*\
+  - "desc": "*Ranged Spell Attack:* +4 to hit (with advantage on the attack roll\
+      \ if the target is wearing armor made of metal), range 60 ft., one target. *Hit:*\
       \ 10 (3d6) lightning damage."
     "name": "Shocking Bolt"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/strahds-animated-armor-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/strahds-animated-armor-cos.webp"
 ```
 ^statblock

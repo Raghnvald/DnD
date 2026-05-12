@@ -12,7 +12,7 @@ classes:
 - Bard (Magical Secrets)
 - Paladin
 aliases:
-- Find Steed
+- "Find Steed"
 ---
 # Find Steed
 *2nd-level, Conjuration*  
@@ -23,7 +23,7 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a [warhorse](/3-Mechanics/CLI/bestiary/beast/warhorse.md), a [pony](/3-Mechanics/CLI/bestiary/beast/pony.md), a [camel](/3-Mechanics/CLI/bestiary/beast/camel.md), an [elk](/3-Mechanics/CLI/bestiary/beast/elk.md), or a [mastiff](/3-Mechanics/CLI/bestiary/beast/mastiff.md). (Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+You summon a spirit that assumes the form of an unusually intelligent, strong, and loyal steed, creating a long-lasting bond with it. Appearing in an unoccupied space within range, the steed takes on a form that you choose: a [warhorse](3-Mechanics/CLI/bestiary/beast/warhorse.md), a [pony](3-Mechanics/CLI/bestiary/beast/pony.md), a [camel](3-Mechanics/CLI/bestiary/beast/camel.md), an [elk](3-Mechanics/CLI/bestiary/beast/elk.md), or a [mastiff](3-Mechanics/CLI/bestiary/beast/mastiff.md). (Your DM might allow other animals to be summoned as steeds.) The steed has the statistics of the chosen form, though it is a celestial, fey, or fiend (your choice) instead of its normal type. Additionally, if your steed has an Intelligence of 5 or less, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
 
 Your steed serves you as a mount, both in combat and out, and you have an instinctive bond with it that allows you to fight as a seamless unit. While mounted on your steed, you can make any spell you cast that targets only you also target your steed.
 
@@ -33,6 +33,6 @@ While your steed is within 1 mile of you, you can communicate with each other te
 
 You can't have more than one steed bonded by this spell at a time. As an action, you can release the steed from its bond at any time, causing it to disappear.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 240. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

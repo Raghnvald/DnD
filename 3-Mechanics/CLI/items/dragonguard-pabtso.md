@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Dragonguard"
 ---
 # Dragonguard
-*Medium armor ([breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)), rare*  
+*Medium armor ([breastplate](3-Mechanics/CLI/items/breastplate.md)), rare*  
 
 
 - **Armor Class**: 14 + Dex modifier (max of +2)

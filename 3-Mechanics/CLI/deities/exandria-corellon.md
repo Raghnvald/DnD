@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/light
-aliases: 
-- Corellon
+aliases:
+- "Corellon"
 ---
 # Corellon
 *Source: Explorer's Guide to Wildemount p. 22* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-corellon.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-corellon.webp#symbol)
 
 - **Alignment**: Chaotic Good
 - **Category**: Prime Deities

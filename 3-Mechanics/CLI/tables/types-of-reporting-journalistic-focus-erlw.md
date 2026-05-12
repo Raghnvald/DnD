@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Types of Reporting; Journalistic Focus
+- "Types of Reporting; Journalistic Focus"
 ---
 # Types of Reporting; Journalistic Focus
 *Source: Eberron: Rising from the Last War p. 94* 
 
 **Journalistic Focus**
-
-`dice: [](types-of-reporting-journalistic-focus-erlw.md#^journalistic-focus)`
 
 | dice: d10 | Reporting |
 |-----------|-----------|

@@ -6,15 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Elven Trinket"
 ---
 # Elven Trinket
 *Adventuring gear*  
 
 
-
-`dice: [](elven-trinket-mtf.md#^trinket)`
 
 | dice: d8 | Trinket |
 |----------|---------|

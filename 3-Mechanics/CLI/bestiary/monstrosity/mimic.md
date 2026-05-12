@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mimic
+- "Mimic"
 ---
-# [Mimic](3-Mechanics\CLI\bestiary\monstrosity/mimic.md)
-*Source: Monster Manual p. 220, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic.md)
+*Source: Monster Manual p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
 
@@ -54,11 +54,12 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
   - !!int "8"
 "speed": "15 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "prone"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
@@ -68,27 +69,26 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
       \ it dies."
     "name": "Shapechanger"
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic is also grappled by it (escape DC 13). Ability checks\
-      \ made to escape this grapple have disadvantage."
+      \ adhered to the mimic is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it (escape DC 13). Ability checks made to escape this grapple have disadvantage."
     "name": "Adhesive (Object Form Only)"
   - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
       \ object."
     "name": "False Appearance (Object Form Only)"
-  - "desc": "The mimic has advantage on attack rolls against any creature grappled\
+  - "desc": "The mimic has advantage on attack rolls against any creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by it."
     "name": "Grappler"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage. If the mimic is in object form, the target is subjected\
-      \ to its Adhesive trait."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target\
+      \ is subjected to its Adhesive trait."
     "name": "Pseudopod"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage plus 4 (1d8) acid damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage plus 4 (1d8) acid damage."
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mimic.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/mimic.webp"
 ```
 ^statblock
 

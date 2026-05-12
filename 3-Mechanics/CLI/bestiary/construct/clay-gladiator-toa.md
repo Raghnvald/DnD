@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clay Gladiator
+- "Clay Gladiator"
 ---
-# [Clay Gladiator](3-Mechanics\CLI\bestiary\construct/clay-gladiator-toa.md)
+# [Clay Gladiator](3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md)
 *Source: Tomb of Annihilation p. 100*  
 
 A clay gladiator fights if attacked or when called to the gladiatorial pit. If reduced to 0 hit points outside of the gladiatorial pit, the gladiator disappears along with its possessions, reappears in its cell at full health with spear and shield in hand, and returns to the gladiatorial pit if it can. If defeated in the gladiatorial pit, the gladiator leaves its spear behind before reforming in its cell
@@ -23,7 +23,7 @@ A clay gladiator fights if attacked or when called to the gladiatorial pit. If r
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "17"
-"ac_class": "natural armor, shield"
+"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -40,12 +40,15 @@ A clay gladiator fights if attacked or when called to the gladiatorial pit. If r
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 11"
 "languages": ""
 "cr": "5"
@@ -62,12 +65,12 @@ A clay gladiator fights if attacked or when called to the gladiatorial pit. If r
   - "desc": "The gladiator makes three melee attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two\
-      \ hands."
+      \ (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with\
+      \ two hands."
     "name": "Spear"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
   - "desc": "The gladiator adds 3 to its AC against one melee attack that would hit\
@@ -76,6 +79,6 @@ A clay gladiator fights if attacked or when called to the gladiatorial pit. If r
     "name": "Parry"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/clay-gladiator-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/clay-gladiator-toa.webp"
 ```
 ^statblock

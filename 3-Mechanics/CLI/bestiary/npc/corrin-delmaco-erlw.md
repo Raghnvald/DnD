@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Corrin Delmaco
+- "Corrin Delmaco"
 ---
-# [Corrin Delmaco](3-Mechanics\CLI\bestiary\npc/corrin-delmaco-erlw.md)
+# [Corrin Delmaco](3-Mechanics/CLI/bestiary/npc/corrin-delmaco-erlw.md)
 *Source: Eberron: Rising from the Last War p. 271*  
 
 ```statblock
@@ -48,6 +48,10 @@ aliases:
     "desc": "+4"
   - "name": "Stealth"
     "desc": "+4"
+"damage_resistances": "poison"
+"gear":
+  - "hand crossbow"
+  - "shortsword"
 "senses": "passive Perception 16"
 "languages": "any two languages, Halfling"
 "cr": "1"
@@ -64,17 +68,19 @@ aliases:
     "name": "Halfling Nimbleness"
   - "desc": "Corrin"
     "name": "Brave"
+  - "desc": "Corrin"
+    "name": "Stout Resilience"
 "actions":
   - "desc": "Corrin makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/corrin-delmaco-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/corrin-delmaco-erlw.webp"
 ```
 ^statblock

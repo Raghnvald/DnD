@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Brass Dragon
+- "Adult Brass Dragon"
 ---
-# [Adult Brass Dragon](3-Mechanics\CLI\bestiary\dragon/adult-brass-dragon.md)
+# [Adult Brass Dragon](3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md)
 *Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -106,16 +106,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "13"
@@ -126,17 +126,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -144,28 +144,29 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Frightful Presence"
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Fire Breath.**\
       \ The dragon exhales fire in a 60-foot line that is 5 feet wide. Each creature\
-      \ in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature\
-      \ in that area must succeed on a DC 18 Constitution saving throw or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ for 10 minutes. This effect ends for a creature if the creature takes damage\
-      \ or someone uses an action to wake it.  "
+      \ in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6)\
+      \ fire damage on a failed save, or half as much damage on a successful one.\
+      \  \n- **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each\
+      \ creature in that area must succeed on a DC 18 Constitution saving throw or\
+      \ fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) for 10\
+      \ minutes. This effect ends for a creature if the creature takes damage or someone\
+      \ uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
       \ action to cause one of the following effects:\n\n- A strong wind blows around\
       \ the dragon. Each creature within 60 feet of the dragon must succeed on a DC\
       \ 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone). Gases and vapors are dispersed\
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone). Gases and vapors are dispersed\
       \ by the wind, and unprotected flames are extinguished. Protected flames; such\
       \ as lanterns, have a 50 percent chance of being extinguished.  \n- A cloud\
       \ of sand swirls about in a 20-foot-radius sphere centered on a point the dragon\
       \ can see within 120 feet of it. The cloud spreads around corners. Each creature\
-      \ in it must succeed on a DC 15 Constitution saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ in it must succeed on a DC 15 Constitution saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n\n**Additional Lair\
-      \ Actions.** At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md)\
-      \ or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)) brass\
+      \ Actions.** At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)) brass\
       \ dragon can use one or more of the following additional lair actions while\
       \ in its lair:\n\n- **Animate Statues.** The dragon chooses up to three statues\
       \ in the lair that it can see. Each of these statues briefly animates and attacks\
@@ -174,11 +175,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ through the lair in a direction of the dragon's choice, blowing along a line\
       \ 40 feet wide and 100 feet long. Each creature in that area except the dragon\
       \ must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the\
-      \ wind's direction and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+      \ wind's direction and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
       \ Gases and vapors are dispersed by the wind, and unprotected flames are extinguished.\
       \ Protected flames, such as lanterns, have a 50 percent chance of being extinguished.\
       \ If the dragon is within the area of the wind, it can choose to be pushed 15\
-      \ feet in the wind's direction, and the wind can't knock the dragon [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+      \ feet in the wind's direction, and the wind can't knock the dragon [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
       \  \n- **Obscuring Sand.** Dust and sand fill the air within 120 feet of the\
       \ dragon, making the area lightly obscured until initiative count 20 on the\
       \ next round.  "
@@ -192,7 +193,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ monsters haunt the desert sands within 1 mile of the dragon's lair. These\
       \ illusions move and appear real, although they can do no harm. A creature that\
       \ examines an image from a distance can tell it's an illusion with a successful\
-      \ DC 20 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
+      \ DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
       \ check. Any physical interaction with an image reveals it to be an illusion,\
       \ because objects pass through it.  \n- Whenever a creature with an Intelligence\
       \ of 3 or higher comes within 30 feet of a water source within 1 mile of the\
@@ -214,19 +215,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The dragon\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-brass-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-brass-dragon.webp"
 ```
 ^statblock
 

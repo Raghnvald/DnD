@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Basilisk
+- "Reduced-Threat Basilisk"
 ---
-# [Reduced-Threat Basilisk](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-basilisk-tftyp.md)
+# [Reduced-Threat Basilisk](3-Mechanics/CLI/bestiary/monstrosity/reduced-threat-basilisk-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -33,7 +33,8 @@ aliases:
   - !!int "8"
   - !!int "7"
 "speed": "20 ft."
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "3"
 "traits":
@@ -44,11 +45,12 @@ aliases:
     "name": "Reduced Threat"
   - "desc": "If a creature starts its turn within 30 feet of the basilisk and the\
       \ two of them can see each other, the basilisk can force the creature to make\
-      \ a DC 10 Constitution saving throw if the basilisk isn't incapacitated. On\
-      \ a failed save, the creature magically begins to turn to stone and is restrained.\
+      \ a DC 10 Constitution saving throw if the basilisk isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
+      \ On a failed save, the creature magically begins to turn to stone and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
       \ It must repeat the saving throw at the end of its next turn. On a success,\
-      \ the effect ends. On a failure, the creature is petrified until freed by the\
-      \  greater restoration spell or other magic.\n\nA creature that isn't surprised\
+      \ the effect ends. On a failure, the creature is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
+      \ until freed by the  [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
+      \ spell or other magic.\n\nA creature that isn't [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
       \ it does so, it can't see the basilisk until the start of its next turn, when\
       \ it can avert its eyes again. If it looks at the basilisk in the meantime,\
@@ -62,6 +64,6 @@ aliases:
     "name": "Bite"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-basilisk-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-basilisk-tftyp.webp"
 ```
 ^statblock

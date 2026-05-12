@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+aliases:
 - "+2 Fate Dealer's Deck"
 ---
 # +2 Fate Dealer's Deck
 *Wondrous item, very rare (requires attunement by a cleric or paladin)*  
-![](/3-Mechanics/CLI/items/img/fate-dealers-deck.webp#right)
+![](3-Mechanics/CLI/items/img/fate-dealers-deck.webp#right)
 
 
 The backs of these cards are inscribed with glyphs representing the Inner Planes, the Outer Planes, or the holy symbols of various deities. While holding this deck, you can use it as a spellcasting focus, and you gain a +2 bonus to spell attack rolls and to your spell save DC.

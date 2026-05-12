@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Keen Mind
+- "Keen Mind"
 ---
 # Keen Mind
 *Source: Player's Handbook p. 167*  

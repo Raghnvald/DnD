@@ -3,21 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Demos Magen
+- "Demos Magen"
 ---
-# [Demos Magen](3-Mechanics\CLI\bestiary\construct/demos-magen-idrotf.md)
+# [Demos Magen](3-Mechanics/CLI/bestiary/construct/demos-magen-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 300*  
 
 Demos magen wear armor, wield weapons, and typically serve as guards.
 
-Magen are magical, humanlike beings created by a wizard spell (see the [create magen](/3-Mechanics/CLI/spells/create-magen-idrotf.md) spell in appendix D) or by other arcane methods.
+Magen are magical, humanlike beings created by a wizard spell (see the [create magen](3-Mechanics/CLI/spells/create-magen-idrotf.md) spell in appendix D) or by other arcane methods.
 
 Though magen look like humanoids with green skin, they are constructs. When one is wounded, its blood is seen to have the color and consistency of mercury. They exist purely through magical means. When one is killed, its body disappears in a burst of harmless fire and a cloud of smoke that quickly dissipates.
 
@@ -27,7 +27,7 @@ Though magen look like humanoids with green skin, they are constructs. When one 
 "type": "construct"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "chain mail"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
 "hp": !!int "51"
 "hit_dice": "6d8 + 24"
 "modifier": !!int "2"
@@ -40,7 +40,12 @@ Though magen look like humanoids with green skin, they are constructs. When one 
   - !!int "7"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
 "senses": "passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "2"
@@ -56,14 +61,14 @@ Though magen look like humanoids with green skin, they are constructs. When one 
 "actions":
   - "desc": "The magen makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Light Crossbow"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/demos-magen-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/demos-magen-idrotf.webp"
 ```
 ^statblock

@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/race/tiefling/devils-tongue
 aliases:
-- Tiefling (Devil's Tongue)
+- "Tiefling (Devil's Tongue)"
 ---
 # Tiefling (Devil's Tongue)
 *Source: Sword Coast Adventurer's Guide p. 118*  
-![](/3-Mechanics/CLI/races/img/feral-tiefling.webp#right)
+![](3-Mechanics/CLI/races/img/feral-tiefling.webp#right)
 
 - **Ability Scores**: Apply +1 to one of Dexterity or Charisma.
 - **Size**: Medium
@@ -37,7 +37,7 @@ You have resistance to fire damage.
 
 ### Devil's Tongue
 
-You know the [vicious mockery](/3-Mechanics/CLI/spells/vicious-mockery-xphb.md) cantrip. When you reach 3rd level, you can cast the [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md) spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the [enthrall](/3-Mechanics/CLI/spells/enthrall-xphb.md) spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.
+You know the [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md) cantrip. When you reach 3rd level, you can cast the [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md) spell as a 2nd-level spell once with this trait. When you reach 5th level, you can cast the [enthrall](3-Mechanics/CLI/spells/enthrall-xphb.md) spell once with this trait. You must finish a long rest to cast these spells once again with this trait. Charisma is your spellcasting ability for them. This trait replaces the Infernal Legacy trait.
 
 ### Languages
 
@@ -45,7 +45,7 @@ You can speak, read, and write Common and Infernal.
 
 ### Appearance
 
-Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose `dice:1d4+1|noform|noparens|avg` (`1d4+1`) of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
+Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose `1d4+1` of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goatlike legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone.
 
 ## Description
 
@@ -75,4 +75,4 @@ Tiefling names fall into three broad categories. Tieflings born into another cul
 ^mutual-mistrust
 
 
-![](/3-Mechanics/CLI/races/img/tiefling.webp#center)
+![](3-Mechanics/CLI/races/img/tiefling.webp#center)

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Insect (Centipede)
+- "Giant Insect (Centipede)"
 ---
-# [Giant Insect (Centipede)](3-Mechanics\CLI\bestiary\beast/giant-insect-centipede-xphb.md)
+# [Giant Insect (Centipede)](3-Mechanics/CLI/bestiary/beast/giant-insect-centipede-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
@@ -30,8 +30,8 @@ aliases:
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The insect can climb difficult surfaces, including along ceilings, without\
@@ -42,11 +42,12 @@ aliases:
       \ (round down)."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10\
-      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison damage."
+      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
+      \ damage."
     "name": "Poison Jab"
 "bonus_actions":
   - "desc": "*Constitution Saving Throw:* Your spell save DC, one creature the insect\
-      \ can see within 10 feet. *Failure:* The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ can see within 10 feet. *Failure:* The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition until the start of the insect's next turn."
     "name": "Venomous Spew (Centipede Only)"
 "source":

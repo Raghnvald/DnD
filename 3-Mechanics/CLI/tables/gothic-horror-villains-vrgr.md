@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Gothic Horror Villains
+- "Gothic Horror Villains"
 ---
 # Gothic Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 56* 
 
 **Gothic Horror Villains**
-
-`dice: [](gothic-horror-villains-vrgr.md#^gothic-horror-villains)`
 
 | dice: d10 | Villain |
 |-----------|---------|

@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spirit Troll
+- "Spirit Troll"
 ---
-# [Spirit Troll](3-Mechanics\CLI\bestiary\giant/spirit-troll-mpmm.md)
+# [Spirit Troll](3-Mechanics/CLI/bestiary/giant/spirit-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -50,16 +50,16 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "acid, cold, fire"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Giant"
 "cr": "11"
 "traits":
@@ -75,20 +75,20 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "actions":
   - "desc": "The troll makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 19\
-      \ (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom saving\
-      \ throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) for 1 minute.\
-      \ The [stunned](/3-Mechanics/CLI/conditions.md#Stunned) target can repeat the\
-      \ saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a success."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 19 (3d10 + 3) psychic damage, and the target must succeed on a DC 15 Wisdom\
+      \ saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ for 1 minute. The [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) target\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 19\
-      \ (3d10 + 3) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 19 (3d10 + 3) psychic damage."
     "name": "Claws"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/spirit-troll-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/spirit-troll-mpmm.webp"
 ```
 ^statblock
 

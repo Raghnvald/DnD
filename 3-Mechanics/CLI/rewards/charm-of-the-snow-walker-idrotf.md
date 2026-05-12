@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/idrotf
-- new/reward/charm
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/reward/charm
 aliases:
-- Charm of the Snow Walker
+- "Charm of the Snow Walker"
 ---
 # Charm of the Snow Walker
 
 > [!note]
-> This charm can be bestowed by a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) living in Icewind Dale or other cold regions by using their Magical Gift action.
+> This charm can be bestowed by a chwinga living in Icewind Dale or other cold regions by using their Magical Gift action.
 
 This charm has 3 charges. As an action, you can expend 1 of the charm's charges to gain the following benefits for 24 hours:
 

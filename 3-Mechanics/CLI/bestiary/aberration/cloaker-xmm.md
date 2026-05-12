@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloaker
+- "Cloaker"
 ---
-# [Cloaker](3-Mechanics\CLI\bestiary\aberration/cloaker-xmm.md)
+# [Cloaker](3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md)
 *Source: Monster Manual (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Cloaker
@@ -21,7 +21,7 @@ aliases:
 *Haunter in the Dark*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md)  
 
 Cloakers are mysterious Underdark predators, named by adventurers for their resemblance to hanging cloaks when they cling to walls. What cloakers call themselves is unknown, if they refer to themselves at all. Though they're undeniably intelligent, their behavior is often inscrutable.
 
@@ -47,47 +47,49 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
   - !!int "7"
 "speed": "10 ft., fly 40 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"
 "traits":
-  - "desc": "While in [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md),\
-      \ the cloaker has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md),\
+      \ the cloaker has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
       \ on attack rolls."
     "name": "Light Sensitivity"
 "actions":
   - "desc": "The cloaker makes one Attach attack and two Tail attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (3d6 + 3) Piercing damage.\
-      \ If the target is a Large or smaller creature, the cloaker attaches to it.\
-      \ While the cloaker is attached, the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 13 (3d6 + 3) Piercing\
+      \ damage. If the target is a Large or smaller creature, the cloaker attaches\
+      \ to it. While the cloaker is attached, the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ condition, and the cloaker can't make Attach attacks against other targets.\
       \ In addition, the cloaker halves the damage it takes (round down), and the\
       \ target takes the same amount of damage.\n\nThe cloaker can detach itself by\
       \ spending 5 feet of movement. The target or a creature within 5 feet of it\
       \ can take an action to try to detach the cloaker, doing so by succeeding on\
-      \ a DC 14 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check."
+      \ a DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
+      \ check."
     "name": "Attach"
-  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 8 (1d10 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 8 (1d10 + 3) Slashing\
+      \ damage."
     "name": "Tail"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 13, each creature in a 60-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the cloaker. *Failure:* The target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+  - "desc": "*Wisdom Saving Throw:* DC 13, each creature in a 60-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the cloaker. *Failure:* The target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the end of the cloaker's next turn. *Success:* The target\
       \ is immune to this cloaker's Moan for the next 24 hours."
     "name": "Moan"
-  - "desc": "The cloaker casts the [Mirror Image](/3-Mechanics/CLI/spells/mirror-image-xphb.md)\
+  - "desc": "The cloaker casts the [Mirror Image](3-Mechanics/CLI/spells/mirror-image-xphb.md)\
       \ spell, requiring no spell components and using Wisdom as the spellcasting\
       \ ability. The spell ends early if the cloaker starts or ends its turn in [Bright\
-      \ Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md).\n"
+      \ Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md).\n"
     "name": "Phantasms (Recharge after a Short or Long Rest)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/cloaker-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/cloaker-xmm.webp"
 ```
 ^statblock
 

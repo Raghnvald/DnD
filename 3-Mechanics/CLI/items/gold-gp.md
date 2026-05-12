@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/treasure-coinage
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Gold (gp)"
 ---
 # Gold (gp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/gold-gp.webp#right)
+![](3-Mechanics/CLI/items/img/gold-gp.webp#right)
 
 - **Cost**: 1 gp
 - **Weight**: 0.02 lbs.

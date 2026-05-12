@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Four-Armed Gargoyle
+- "Giant Four-Armed Gargoyle"
 ---
-# [Giant Four-Armed Gargoyle](3-Mechanics\CLI\bestiary\elemental/giant-four-armed-gargoyle-toa.md)
+# [Giant Four-Armed Gargoyle](3-Mechanics/CLI/bestiary/elemental/giant-four-armed-gargoyle-toa.md)
 *Source: Tomb of Annihilation p. 221*  
 
 Only Acererak knows the secret of creating these creatures. A giant four-armed gargoyle stands 8 to 9 feet tall and weighs roughly five thousand pounds. It is typically employed as a tomb guardian, rending intruders with its fangs and deadly claws. For more information on gargoyles, see the Monster Manual.
@@ -38,13 +38,15 @@ Only Acererak knows the secret of creating these creatures. A giant four-armed g
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks not\
   \ made with adamantine weapons"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Terran"
 "cr": "10"
 "traits":
@@ -58,11 +60,11 @@ Only Acererak knows the secret of creating these creatures. A giant four-armed g
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) slashing damage."
     "name": "Claw"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/giant-four-armed-gargoyle-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/giant-four-armed-gargoyle-toa.webp"
 ```
 ^statblock

@@ -11,14 +11,16 @@ tags:
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/the-fiend
+- ttrpg-cli/spell/subclass/zeal-domain-psa
 classes:
 - Bard (Magical Secrets)
+- Cleric (Zeal Domain (PSA))
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Warlock (The Fiend)
 - Wizard
 aliases:
-- Fire Shield
+- "Fire Shield"
 ---
 # Fire Shield
 *4th-level, Evocation*  
@@ -33,8 +35,8 @@ Thin and wispy flames wreathe your body for the duration, shedding bright light 
 
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you resistance to cold damage, and the chill shield grants you resistance to fire damage.
 
-In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `dice:2d8|noform|noparens|avg` (`2d8`) fire damage from a warm shield, or `dice:2d8|noform|noparens|avg` (`2d8`) cold damage from a cold shield.
+In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield erupts with flame. The attacker takes `2d8` fire damage from a warm shield, or `2d8` cold damage from a cold shield.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Zeal Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-zeal-domain-psa-psa.md "subclass=PSA"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Warlock (The Fiend)](3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

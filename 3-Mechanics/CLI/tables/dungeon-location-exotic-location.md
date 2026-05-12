@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Location; Exotic Location
+- "Dungeon Location; Exotic Location"
 ---
 # Dungeon Location; Exotic Location
 *Source: Dungeon Master's Guide p. 99* 
 
 **Exotic Location**
-
-`dice: [](dungeon-location-exotic-location.md#^exotic-location)`
 
 | dice: d20 | Location |
 |-----------|----------|
@@ -35,5 +33,5 @@ aliases:
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [Mordenkainen's magnificent mansion](/3-Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) |
+| 20 | Inside a Mordenkainen's magnificent mansion |
 ^exotic-location

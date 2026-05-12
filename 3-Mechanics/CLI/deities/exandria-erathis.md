@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
-aliases: 
-- Erathis
+aliases:
+- "Erathis"
 ---
 # Erathis
 *Source: Explorer's Guide to Wildemount p. 22* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-erathis.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-erathis.webp#symbol)
 
 - **Alignment**: Lawful Neutral
 - **Category**: Prime Deities

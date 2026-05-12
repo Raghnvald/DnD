@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Gatekeeper Adventure Hooks
+- "Gatekeeper Adventure Hooks"
 ---
 # Gatekeeper Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 204* 
 
 **Gatekeeper Adventure Hooks**
-
-`dice: [](gatekeeper-adventure-hooks-erlw.md#^gatekeeper-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -23,5 +21,5 @@ aliases:
 | 5 | The characters discover evidence suggesting that the rituals performed by the local Gatekeepers are weakening their seal, not empowering it. |
 | 6 | Pilgrims traveling through a forest draw the attention of Gatekeepers, who think they are spies sent to sabotage the nearby seal. |
 | 7 | One of the kidnapped victims who was rescued from a marauding band of aberrations turns out to be a Gatekeeper initiate. |
-| 8 | The adventurers are sent to the Mror Holds to investigate the activity of [Dyrrn](/3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md) the Corruptor and uncover a daelkyr cult among the dwarves. |
+| 8 | The adventurers are sent to the Mror Holds to investigate the activity of [Dyrrn](3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md) the Corruptor and uncover a daelkyr cult among the dwarves. |
 ^gatekeeper-adventure-hooks

@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/monstrosity/druid
-- new/monster/type/monstrosity/medusa
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/18
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity/druid
+- ttrpg-cli/monster/type/monstrosity/medusa
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Euryale
+- "Euryale"
 ---
-# [Euryale](3-Mechanics\CLI\bestiary\npc/euryale-bmt.md)
+# [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)
 *Source: The Book of Many Things p. 189*  
 
 When she retired from adventuring, Euryale relocated to Cair Ophidian, a small hideaway in the Outlands detailed later in chapter 22. There, Euryale embraced the quiet life of a gardener, and she spends her time tending to the plants she's cultivated around her home. However, should Asteria call for her aid, Euryale would venture across the multiverse without hesitation, battling tooth and nail to protect her sister.
@@ -64,8 +64,8 @@ Euryale has the petrifying gaze and venomous snaky hair of other medusas. But as
 "traits":
   - "desc": "If Euryale fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Euryale carries one half of a pair of Sending Stones; the other half\
-      \ of the pair is held by Asteria."
+  - "desc": "Euryale carries one half of a pair of [Sending Stones](3-Mechanics/CLI/items/sending-stones.md);\
+      \ the other half of the pair is held by Asteria."
     "name": "Special Equipment"
 "actions":
   - "desc": "Euryale makes three attacks. If she is in serpent form, only one of these\
@@ -77,8 +77,8 @@ Euryale has the petrifying gaze and venomous snaky hair of other medusas. But as
       \ 11 (2d10) bludgeoning damage at the start of each of its turns, and Euryale\
       \ can't constrict another target."
     "name": "Constrict (Serpent Form Only)"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) piercing damage, and the target must succeed on a DC 18 Constitution\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) piercing damage, and the target must succeed on a DC 18 Constitution\
       \ saving throw or have the poisoned condition until the start of Euryale's next\
       \ turn."
     "name": "Snake Bite"
@@ -119,6 +119,6 @@ Euryale has the petrifying gaze and venomous snaky hair of other medusas. But as
     "name": "Venomous Strike (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/euryale-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/euryale-bmt.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kalka-Kylla
+- "Kalka-Kylla"
 ---
-# [Kalka-Kylla](3-Mechanics\CLI\bestiary\npc/kalka-kylla-tftyp.md)
+# [Kalka-Kylla](3-Mechanics/CLI/bestiary/npc/kalka-kylla-tftyp.md)
 *Source: Tales from the Yawning Portal p. 238*  
 
 ```statblock
@@ -34,13 +34,14 @@ aliases:
   - !!int "12"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "blindsight 30 ft., passive Perception 13"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 13"
 "languages": "Olman"
 "cr": "3"
 "traits":
@@ -58,11 +59,12 @@ aliases:
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) bludgeoning damage, and if the target is a Medium or smaller creature,\
-      \ it is grappled (escape DC 13). Until this grapple ends, the target is restrained.\
+      \ it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC\
+      \ 13). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
       \ Kalka-Kylla has two claws, each of which can grapple only one target."
     "name": "Claw"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kalka-kylla-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kalka-kylla-tftyp.webp"
 ```
 ^statblock

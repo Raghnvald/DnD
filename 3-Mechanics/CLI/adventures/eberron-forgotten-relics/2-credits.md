@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/efr
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Eberron: Forgotten Relics* 

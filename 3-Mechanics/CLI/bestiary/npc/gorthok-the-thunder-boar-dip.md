@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/6
-- new/monster/size/huge
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/dip
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gorthok the Thunder Boar
+- "Gorthok the Thunder Boar"
 ---
-# [Gorthok the Thunder Boar](3-Mechanics\CLI\bestiary\npc/gorthok-the-thunder-boar-dip.md)
+# [Gorthok the Thunder Boar](3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md)
 *Source: Dragon of Icespire Peak p. 58*  
 
 Gorthok is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos's evil followers. Like its patron deity, Gorthok revels in destruction.
@@ -48,19 +48,19 @@ Gorthok is a primal nature spirit that takes the form of a boar as big as an ele
   - "desc": "Gorthok makes two melee attacks: one with its lightning tusks and one\
       \ with its thunder hooves."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) slashing damage plus 7 (2d6) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage."
     "name": "Lightning Tusks"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) bludgeoning damage plus 7 (2d6) thunder damage."
     "name": "Thunder Hooves"
   - "desc": "Gorthok shoots a bolt of lightning at one creature it can see within\
       \ 120 feet of it. The target must make a DC 15 Dexterity saving throw, taking\
-      \ 18 (4d8) lightning damage on a failed save, or half as much damage on a successful\
-      \ one."
+      \ 18 (4d8) lightning damage on a failed save, or half as much damage on a\
+      \ successful one."
     "name": "Lightning Bolt (Recharge 6)"
 "source":
   - "DIP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/gorthok-the-thunder-boar-dip.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/gorthok-the-thunder-boar-dip.webp"
 ```
 ^statblock

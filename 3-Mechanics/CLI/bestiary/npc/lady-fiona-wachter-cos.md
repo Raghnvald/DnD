@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lady Fiona Wachter
+- "Lady Fiona Wachter"
 ---
-# [Lady Fiona Wachter](3-Mechanics\CLI\bestiary\npc/lady-fiona-wachter-cos.md)
+# [Lady Fiona Wachter](3-Mechanics/CLI/bestiary/npc/lady-fiona-wachter-cos.md)
 *Source: Curse of Strahd p. 110*  
 
 ```statblock
@@ -34,40 +34,37 @@ aliases:
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+7"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+3"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+5"
+"gear":
+  - "mace"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "2"
 "traits":
   - "desc": "Fiona is a 5th-level spellcaster. Her spellcasting ability is Wisdom\
       \ (spell save DC 13, +5 to hit with spell attacks). Fiona has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [mending](/3-Mechanics/CLI/spells/mending-xphb.md), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n**1st level (4 slots):** [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-      \ [purify food and drink](/3-Mechanics/CLI/spells/purify-food-and-drink-xphb.md),\
-      \ [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\n**2nd level (3 slots):**\
-      \ [augury](/3-Mechanics/CLI/spells/augury-xphb.md), [gentle repose](/3-Mechanics/CLI/spells/gentle-repose-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md)\n\n**3rd level\
-      \ (2 slots):** [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md),\
-      \ [create food and water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** light, mending, thaumaturgy\n\
+      \n**1st level (4 slots):** command, purify food and drink, sanctuary\n\n**2nd\
+      \ level (3 slots):** augury, gentle repose, hold person\n\n**3rd level (2 slots):**\
+      \ animate dead, create food and water"
     "name": "Spellcasting"
   - "desc": "As a bonus action, Fiona can expend a spell slot to cause its melee weapon\
       \ attacks to magically deal an extra 10 (3d6) radiant damage to a target on\
       \ a hit. This benefit lasts until the end of the turn. If Fiona expends a spell\
-      \ slot of 2nd level or higher, the extra damage increases by 1d6 for each level\
-      \ above 1st."
+      \ slot of 2nd level or higher, the extra damage increases by 1d6 for each\
+      \ level above 1st."
     "name": "Divine Eminence"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage."
     "name": "Mace"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lady-fiona-wachter-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lady-fiona-wachter-cos.webp"
 ```
 ^statblock

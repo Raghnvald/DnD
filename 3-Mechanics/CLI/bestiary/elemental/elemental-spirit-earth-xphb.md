@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elemental Spirit (Earth)
+- "Elemental Spirit (Earth)"
 ---
-# [Elemental Spirit (Earth)](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-earth-xphb.md)
+# [Elemental Spirit (Earth)](3-Mechanics/CLI/bestiary/elemental/elemental-spirit-earth-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -32,11 +32,11 @@ aliases:
 "speed": "40 ft., burrow 40 ft."
 "damage_resistances": "piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Primordial, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of Slam attacks equal to half this spell's\

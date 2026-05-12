@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/armor/light
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Glamoured Studded Leather"
 ---
 # Glamoured Studded Leather

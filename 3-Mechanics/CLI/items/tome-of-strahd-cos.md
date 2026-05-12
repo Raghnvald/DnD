@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Tome of Strahd"
 ---
 # Tome of Strahd
 *Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/tome-of-strahd.webp#right)
+![](3-Mechanics/CLI/items/img/tome-of-strahd.webp#right)
 
 - **Weight**: 5.0 lbs.
 

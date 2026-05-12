@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/feat
 aliases:
-- Vigor of the Hill Giant
+- "Vigor of the Hill Giant"
 ---
 # Vigor of the Hill Giant
 *Source: Bigby Presents: Glory of the Giants p. 19*  

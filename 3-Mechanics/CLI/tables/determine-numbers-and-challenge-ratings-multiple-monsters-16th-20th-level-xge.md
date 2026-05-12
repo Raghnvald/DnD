@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
+- "Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level"
 ---
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 16th-20th Level
 *Source: Xanathar's Guide to Everything p. 88* 

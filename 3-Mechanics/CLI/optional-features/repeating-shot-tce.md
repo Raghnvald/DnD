@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/optional-feature/ai
 aliases:
-- Repeating Shot
+- "Repeating Shot"
 ---
 # Repeating Shot
 *Source: Tasha's Cauldron of Everything p. 22*  

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Chamber Contents
+- "Dungeon Chamber Contents"
 ---
 # Dungeon Chamber Contents
 *Source: Dungeon Master's Guide p. 296* 
 
 **Dungeon Chamber Contents**
-
-`dice: [](dungeon-chamber-contents.md#^dungeon-chamber-contents)`
 
 | dice: d100 | Contents |
 |------------|----------|

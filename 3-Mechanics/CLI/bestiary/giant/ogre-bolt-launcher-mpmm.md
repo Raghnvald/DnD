@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Bolt Launcher
+- "Ogre Bolt Launcher"
 ---
-# [Ogre Bolt Launcher](3-Mechanics\CLI\bestiary\giant/ogre-bolt-launcher-mpmm.md)
+# [Ogre Bolt Launcher](3-Mechanics/CLI/bestiary/giant/ogre-bolt-launcher-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
 
 A bolt launcher carries a gigantic crossbow—a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
@@ -30,7 +30,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "1"
@@ -42,13 +42,13 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) bludgeoning damage."
     "name": "Fist"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 120/480 ft., one target. *Hit:*\
       \ 17 (3d10 + 1) piercing damage."
@@ -56,7 +56,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-bolt-launcher-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-bolt-launcher-mpmm.webp"
 ```
 ^statblock
 

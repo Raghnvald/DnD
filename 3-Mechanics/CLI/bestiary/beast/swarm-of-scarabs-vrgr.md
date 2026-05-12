@@ -10,16 +10,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Scarabs
+- "Swarm of Scarabs"
 ---
-# [Swarm of Scarabs](3-Mechanics\CLI\bestiary\beast/swarm-of-scarabs-vrgr.md)
+# [Swarm of Scarabs](3-Mechanics/CLI/bestiary/beast/swarm-of-scarabs-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 247*  
 
 Base creatures are among the first to respond to sinister forces at work in a land. As nefarious powers grip an area, populations of maggots, scarabs, and similar scavenging insects explode and become aggressive predators. Roll on the Swarm Behavior table to see how such swarms might manifest.
 
 **Swarm Behavior**
-
-`dice: [](swarm-of-scarabs-vrgr.md#^swarm-behavior)`
 
 | dice: d4 | Behavior |
 |----------|----------|
@@ -48,10 +46,10 @@ Base creatures are among the first to respond to sinister forces at work in a la
   - !!int "1"
 "speed": "30 ft., burrow 30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
 "senses": "tremorsense 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"
@@ -69,16 +67,16 @@ Base creatures are among the first to respond to sinister forces at work in a la
     "name": "Spider Climb"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 0 ft., one target in the swarm's\
-      \ space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the\
-      \ swarm has half of its hit points or fewer. If the target is a creature, scarabs\
-      \ burrow into its body, and the creature takes 3 (1d6) piercing damage at the\
-      \ start of each of its turns. Any creature can use an action to kill or remove\
-      \ the scarabs with fire or a weapon that deals piercing damage, causing 1 damage\
-      \ of the appropriate type to the target. A creature reduced to 0 hit points\
-      \ by the swarm's piercing damage dies."
+      \ space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if\
+      \ the swarm has half of its hit points or fewer. If the target is a creature,\
+      \ scarabs burrow into its body, and the creature takes 3 (1d6) piercing damage\
+      \ at the start of each of its turns. Any creature can use an action to kill\
+      \ or remove the scarabs with fire or a weapon that deals piercing damage, causing\
+      \ 1 damage of the appropriate type to the target. A creature reduced to 0 hit\
+      \ points by the swarm's piercing damage dies."
     "name": "Ravenous Bites"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/swarm-of-scarabs-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/swarm-of-scarabs-vrgr.webp"
 ```
 ^statblock

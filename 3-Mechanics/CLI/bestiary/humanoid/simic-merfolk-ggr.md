@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Simic Merfolk
+- "Simic Merfolk"
 ---
-# [Simic Merfolk](3-Mechanics\CLI\bestiary\humanoid/simic-merfolk-ggr.md)
+# [Simic Merfolk](3-Mechanics/CLI/bestiary/humanoid/simic-merfolk-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 187*  
 
 ```statblock
@@ -34,8 +34,10 @@ aliases:
   - !!int "12"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "spear"
 "senses": "passive Perception 12"
 "languages": "Common, Merfolk"
 "cr": "1/8"
@@ -49,6 +51,6 @@ aliases:
     "name": "Spear"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/simic-merfolk-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/simic-merfolk-ggr.webp"
 ```
 ^statblock

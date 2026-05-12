@@ -7,17 +7,17 @@ tags:
 - ttrpg-cli/monster/cr/18
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 - ttrpg-cli/monster/type/humanoid/wizard
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Favored Consort
+- "Drow Favored Consort"
 ---
-# [Drow Favored Consort](3-Mechanics\CLI\bestiary\humanoid/drow-favored-consort-mpmm.md)
+# [Drow Favored Consort](3-Mechanics/CLI/bestiary/humanoid/drow-favored-consort-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100, Mordenkainen's Tome of Foes p. 183*  
 
-Nearly every priestess of [Lolth](/3-Mechanics/CLI/deities/drow-lolth-mtf.md), including the powerful [drow matron mother](/3-Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
+Nearly every priestess of [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md), including the powerful [drow matron mother](3-Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
 
 Those favored consorts who prove their cunning gain the ear, and perhaps even the heart, of their priestess and are relied on to provide useful advice. No position of consort is assured for long, though; Lolth's priestesses are notoriously fickle, and a consort must often contend with rivals.
 
@@ -27,7 +27,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 "name": "Drow Favored Consort (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf, wizard"
+"subtype": "Drow elf, wizard"
 "alignment": "Any alignment"
 "ac": !!int "15"
 "hp": !!int "240"
@@ -46,32 +46,34 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
   - "constitution": !!int "9"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+11"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+11"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 18"
 "languages": "Elvish, Undercommon"
 "cr": "18"
 "traits":
-  - "desc": "The drow has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The drow makes three Scimitar or Arcane Eruption attacks. The drow can\
       \ replace one of the attacks with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 8\
-      \ (1d6 + 5) slashing damage plus 27 (6d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 8 (1d6 + 5) slashing damage plus 27 (6d8) poison damage."
     "name": "Scimitar"
   - "desc": "*Ranged Spell Attack:* +10 to hit, range 120 ft., one target. *Hit:*\
       \ 36 (8d8) force damage, and the drow can push the target up to 10 feet away\
@@ -79,13 +81,13 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
     "name": "Arcane Eruption"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 18):\n\n\
-      **At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [message](/3-Mechanics/CLI/spells/message-xphb.md)\n\n**3/day each:** [dimension\
-      \ door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\n\n**1/day each:**\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) (self only)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md), [mage\
+      \ armor](3-Mechanics/CLI/spells/mage-armor.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [message](3-Mechanics/CLI/spells/message.md)\n\n**3/day each:** [dimension\
+      \ door](3-Mechanics/CLI/spells/dimension-door.md), [fireball](3-Mechanics/CLI/spells/fireball.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md)\n\n**1/day each:**\
+      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the drow or a creature within 10 feet of it is hit by an attack\
@@ -95,7 +97,7 @@ Some favored consorts work behind the scenes to undermine the evils encouraged b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/drow-favored-consort-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-favored-consort-mpmm.webp"
 ```
 ^statblock
 

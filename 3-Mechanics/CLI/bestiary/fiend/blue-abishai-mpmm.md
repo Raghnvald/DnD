@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Abishai
+- "Blue Abishai"
 ---
-# [Blue Abishai](3-Mechanics\CLI\bestiary\fiend/blue-abishai-mpmm.md)
+# [Blue Abishai](3-Mechanics/CLI/bestiary/fiend/blue-abishai-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -51,18 +51,18 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "intelligence": !!int "12"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+12"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, lightning, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "17"
 "traits":
-  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the abishai's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The abishai has advantage on saving throws against spells and other magical\
       \ effects."
@@ -77,11 +77,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ 36 (8d8) lightning damage."
     "name": "Lightning Strike"
   - "desc": "The abishai casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 20):\n\n**At will:** [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-      \n**2/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
-      \ [wall of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
+      \ the spellcasting ability (spell save DC 20):\n\n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
+      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The abishai teleports, along with any equipment it is wearing or carrying,\
@@ -90,7 +90,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/blue-abishai-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/blue-abishai-mpmm.webp"
 ```
 ^statblock
 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pirate Admiral
+- "Pirate Admiral"
 ---
-# [Pirate Admiral](3-Mechanics\CLI\bestiary\humanoid/pirate-admiral-xmm.md)
+# [Pirate Admiral](3-Mechanics/CLI/bestiary/humanoid/pirate-admiral-xmm.md)
 *Source: Monster Manual (2024) p. 242*  
 
 Pirate admirals command whole pirate fleets. They undertake audacious ventures, such as challenging the navies of coastal nations, hunting legendary sea creatures, or carving out their own pirate kingdoms. Pirate admirals might launch their fleets from hidden fortresses where they hoard their treasure—or keep maps to where they've hidden their riches. Some pirate admirals ally with the followers of oceanic deities, underwater dwellers, and sea monsters, as well as their fellow scalawags.
@@ -23,7 +23,7 @@ Pirate admirals command whole pirate fleets. They undertake audacious ventures, 
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -34,8 +34,6 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 To terrify opponents and spread their reputations, pirate crews fly distinctive flags. Roll twice on or choose results from the Pirate Flags table to inspire what flag a pirate crew sails under.
 
 **Pirate Flags**
-
-`dice: [](pirate-admiral-xmm.md#^pirate-flags)`
 
 | dice: 1d8 | The Flag Shows A... | With... |
 |-----------|---------------------|---------|
@@ -72,23 +70,26 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+10"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
+"gear":
+  - "[pistol](3-Mechanics/CLI/items/pistol-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common plus one other language"
 "cr": "12"
 "actions":
   - "desc": "The pirate makes three attacks, using Scimitar or Pistol in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 16 (3d6 + 6) Slashing damage\
-      \ plus 7 (2d6) Poison damage, and the target suffers one of the following effects\
-      \ of the pirate's choice:\n\n- **Awestruck.** The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 16 (3d6 + 6) Slashing\
+      \ damage plus 7 (2d6) Poison damage, and the target suffers one of the following\
+      \ effects of the pirate's choice:\n\n- **Awestruck.** The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ condition until the start of the pirate's next turn.  \n- **Poison.** The\
-      \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
+      \ target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
       \ until the start of the pirate's next turn.  "
     "name": "Scimitar"
   - "desc": "*Ranged Attack Roll:* +10, range 30/90 ft. *Hit:* 28 (4d10 + 6) Piercing\
@@ -96,7 +97,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Pistol"
 "bonus_actions":
   - "desc": "The pirate chooses up to three other creatures it can see within 30 feet.\
-      \ Until the start of the pirate's next turn, the targets have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ Until the start of the pirate's next turn, the targets have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on attack rolls and saving throws."
     "name": "Rally (1/Day)"
 "reactions":
@@ -107,7 +108,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Defensive Stance"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-admiral-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-admiral-xmm.webp"
 ```
 ^statblock
 

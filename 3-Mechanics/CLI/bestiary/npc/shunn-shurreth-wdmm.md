@@ -6,25 +6,26 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 - ttrpg-cli/monster/cr/5
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shunn Shurreth
+- "Shunn Shurreth"
 ---
-# [Shunn Shurreth](3-Mechanics\CLI\bestiary\npc/shunn-shurreth-wdmm.md)
+# [Shunn Shurreth](3-Mechanics/CLI/bestiary/npc/shunn-shurreth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 33*  
 
-A drow priestess of Lolth placed a curse on Shunn and forced him into exile after he displeased her. The curse partially transformed him into a spider, giving him eight red arachnid eyes, a mouth full of fangs, and black bristles sprouting from his slender limbs. A remove curse or greater restoration spell restores Shunn's natural form, but Shunn doesn't want the curse lifted. His horrific appearance strikes fear into the hearts of his comrades-in-arms and has earned him favor with Xanathar. Shunn believes that returning to his normal form might weaken his influence over his gang and diminish his status in the Xanathar Guild.
+A drow priestess of Lolth placed a curse on Shunn and forced him into exile after he displeased her. The curse partially transformed him into a spider, giving him eight red arachnid eyes, a mouth full of fangs, and black bristles sprouting from his slender limbs. A remove curse or [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell restores Shunn's natural form, but Shunn doesn't want the curse lifted. His horrific appearance strikes fear into the hearts of his comrades-in-arms and has earned him favor with Xanathar. Shunn believes that returning to his normal form might weaken his influence over his gang and diminish his status in the Xanathar Guild.
 
 ```statblock
 "name": "Shunn Shurreth (WDMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "studded leather, shield"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "modifier": !!int "4"
@@ -41,39 +42,47 @@ A drow priestess of Lolth placed a curse on Shunn and forced him into exile afte
   - "constitution": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+10"
-"senses": "darkvision 120 ft., passive Perception 14"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"
 "traits":
   - "desc": "Shunn's spellcasting ability is Charisma (spell save DC 12). It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ dancing lights\n\n**1/day each:** darkness, faerie fire, levitate (self only)"
+      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\n**1/day\
+      \ each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md) (self only)"
     "name": "Innate Spellcasting"
   - "desc": "While cursed with spider features, Shunn can climb difficult surfaces,\
       \ even across ceilings, without needing to make an ability check."
     "name": "Spider Features"
-  - "desc": "Shunn has advantage on saving throws against being charmed, and magic\
-      \ can't put Shunn to sleep."
+  - "desc": "Shunn has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put Shunn to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, Shunn has disadvantage on attack rolls, as well as\
-      \ on Wisdom (Perception) checks that rely on sight."
+      \ on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Shunn makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage plus 10 (3d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or\
-      \ more, the target is also unconscious while poisoned in this way. The target\
-      \ wakes up if it takes damage or if another creature takes an action to shake\
-      \ it awake."
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The target wakes up if it takes damage or if another creature takes an action\
+      \ to shake it awake."
     "name": "Hand Crossbow"
 "reactions":
   - "desc": "Shunn adds 3 to its AC against one melee attack that would hit it. To\
@@ -81,6 +90,6 @@ A drow priestess of Lolth placed a curse on Shunn and forced him into exile afte
     "name": "Parry"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/shunn-shurreth-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/shunn-shurreth-wdmm.webp"
 ```
 ^statblock

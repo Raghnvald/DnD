@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Parriwimple
+- "Parriwimple"
 ---
-# [Parriwimple](3-Mechanics\CLI\bestiary\npc/parriwimple-cos.md)
+# [Parriwimple](3-Mechanics/CLI/bestiary/npc/parriwimple-cos.md)
 *Source: Curse of Strahd p. 43*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Good"
 "ac": !!int "14"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -39,15 +39,17 @@ aliases:
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+10"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+5"
+"gear":
+  - "spear"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-  - "desc": "Parriwimple has advantage on saving throws against being [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "Parriwimple has advantage on saving throws against being frightened."
     "name": "Brave"
   - "desc": "A melee weapon deals one extra die of its damage when Parriwimple hits\
       \ with it (included in the attack)."
@@ -55,13 +57,13 @@ aliases:
 "actions":
   - "desc": "Parriwimple makes three melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60\
-      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range\
+      \ 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8\
+      \ + 4) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
+      \ it must succeed on a DC 15 Strength saving throw or be knocked prone."
     "name": "Shield Bash"
 "reactions":
   - "desc": "Parriwimple adds 3 to its AC against one melee attack that would hit\
@@ -69,6 +71,6 @@ aliases:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/parriwimple-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/parriwimple-cos.webp"
 ```
 ^statblock

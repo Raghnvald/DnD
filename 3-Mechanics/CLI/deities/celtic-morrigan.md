@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/celtic
 - ttrpg-cli/domain/war
-aliases: 
-- Morrigan
+aliases:
+- "Morrigan"
 ---
 # Morrigan
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

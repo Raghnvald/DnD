@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goliath Giant-Kin
+- "Goliath Giant-Kin"
 ---
-# [Goliath Giant-Kin](3-Mechanics\CLI\bestiary\humanoid/goliath-giant-kin-bgg.md)
+# [Goliath Giant-Kin](3-Mechanics/CLI/bestiary/humanoid/goliath-giant-kin-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 155*  
 
 Goliaths are Humanoids distantly related to giants. Infused with the supernatural essence of their ancestors' mountainous home, goliaths have the strength and fortitude to garner a giant's respect. Communities of goliaths who live in close relationship with giants emulate them and are recognized by the giants as kin. These goliath giant-kin often act as liaisons between giant clans and other Humanoids.
@@ -32,7 +32,7 @@ Though they are not part of the ordning, goliath giant-kin often revere the divi
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[half plate](/3-Mechanics/CLI/items/half-plate-armor-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "half plate, shield"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -45,13 +45,15 @@ Though they are not part of the ordning, goliath giant-kin often revere the divi
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+3"
 "damage_resistances": "cold"
+"gear":
+  - "spear"
 "senses": "passive Perception 13"
 "languages": "Common, Giant"
 "cr": "3"
@@ -70,6 +72,6 @@ Though they are not part of the ordning, goliath giant-kin often revere the divi
     "name": "Giant's Strikes (Recharge 5-6)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/goliath-giant-kin-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/goliath-giant-kin-bgg.webp"
 ```
 ^statblock

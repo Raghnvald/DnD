@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Odor
+- "Dungeon Dressing; Odor"
 ---
 # Dungeon Dressing; Odor
 *Source: Dungeon Master's Guide p. 298* 
 
 **Odor**
-
-`dice: [](dungeon-dressing-odor.md#^odor)`
 
 | dice: d100 | Effect |
 |------------|--------|

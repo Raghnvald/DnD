@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/barbarian/wild-magic
 aliases:
-- Path of Wild Magic
+- "Path of Wild Magic"
 ---
 # Path of Wild Magic
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
@@ -47,11 +47,9 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Path of Wild Magic (Level 3)
-
 Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.
+
+## Subclass Features
 
 ### Magic Awareness (Level 3)
 
@@ -69,7 +67,7 @@ The magical energy roiling inside you sometimes erupts from you. When you enter 
 
 If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
 
-![Wild Magic](/3-Mechanics/CLI/tables/wild-magic-tce.md)
+![Wild Magic](3-Mechanics/CLI/tables/wild-magic-tce.md)
 
 ### Bolstering Magic (Level 6)
 
@@ -77,8 +75,8 @@ If the effect requires a saving throw, the DC equals 8 + your proficiency bonus 
 
 You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
 
-- For 10 minutes, the creature can roll a `dice:d3|noform|noparens|avg` (`d3`) whenever making an attack roll or an ability check and add the number rolled to the `dice:d20|noform|noparens|avg` (`d20`) roll.  
-- Roll a `dice:d3|noform|noparens|avg` (`d3`). The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.  
+- For 10 minutes, the creature can roll a `d3` whenever making an attack roll or an ability check and add the number rolled to the `d20` roll.  
+- Roll a `d3`. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.  
 
 You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 

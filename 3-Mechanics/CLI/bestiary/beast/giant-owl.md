@@ -13,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Owl
+- "Giant Owl"
 ---
-# [Giant Owl](3-Mechanics\CLI\bestiary\beast/giant-owl.md)
-*Source: Monster Manual p. 327, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Owl](3-Mechanics/CLI/bestiary/beast/giant-owl.md)
+*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
 
@@ -38,28 +38,28 @@ Giant owls often befriend fey and other sylvan creatures and are guardians of th
   - !!int "10"
 "speed": "5 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Giant Owl, understands Common, Elvish, and Sylvan but can't speak them"
 "cr": "1/4"
 "traits":
   - "desc": "The owl doesn't provoke opportunity attacks when it flies out of an enemy's\
       \ reach."
     "name": "Flyby"
-  - "desc": "The owl has advantage on Wisdom (Perception) checks that rely on hearing\
-      \ or sight."
+  - "desc": "The owl has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d6 + 1) slashing damage."
     "name": "Talons"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-owl.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-owl.webp"
 ```
 ^statblock
 

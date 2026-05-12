@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otyugh Mutate
+- "Otyugh Mutate"
 ---
-# [Otyugh Mutate](3-Mechanics\CLI\bestiary\aberration/otyugh-mutate-pabtso.md)
+# [Otyugh Mutate](3-Mechanics/CLI/bestiary/aberration/otyugh-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 213*  
 
 Rising from piles of carrion and filth exposed to Far Realm energy, an otyugh mutate grows chitinous, jet-black plating over its limbs. The plates contrast sharply with the translucent, almost ghostly, appearance of its flesh, which provides a grotesque window into the virulent refuse the otyugh recently consumed.
@@ -51,45 +51,45 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
   - "strength": !!int "7"
   - "constitution": !!int "7"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Otyugh, telepathy 120 ft."
 "cr": "6"
 "traits":
   - "desc": "Noxious gas from the mutate's digestion of previous meals spews from\
       \ its mouth. At the start of the mutate's turn, each creature within 5 feet\
-      \ of it must succeed on a DC 15 Constitution saving throw or take 3 (1d6) poison\
-      \ damage."
+      \ of it must succeed on a DC 15 Constitution saving throw or take 3 (1d6)\
+      \ poison damage."
     "name": "Virulent Breath"
 "actions":
   - "desc": "The mutate makes two Bite or Tentacle attacks. It can replace one of\
       \ these attacks with Chitin Slam."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 15 Constitution saving throw or have the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ (2d8 + 4) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 15 Constitution saving throw or have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition. Every 24 hours that elapse, the target must repeat the saving throw,\
-      \ reducing its hit point maximum by 5 (1d10) on a failure. On a successful save,\
-      \ the target is no longer [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
+      \ reducing its hit point maximum by 5 (1d10) on a failure. On a successful\
+      \ save, the target is no longer [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
       \ The target dies if its hit point maximum is reduced to 0. This reduction to\
-      \ the target's hit point maximum lasts until it no longer has the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ the target's hit point maximum lasts until it no longer has the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage, and if the target is a Medium or smaller creature,\
-      \ it has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 15) and the [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition\
-      \ until this grapple ends. The mutate has two tentacles that can grapple one\
-      \ target each."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d8 + 4) bludgeoning damage, and if the target is a Medium or smaller\
+      \ creature, it has the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition (escape DC 15) and the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition until this grapple ends. The mutate has two tentacles that can grapple\
+      \ one target each."
     "name": "Tentacle"
   - "desc": "The mutate targets one creature it is grappling, slamming the creature\
       \ against its chitinous plating. The creature must succeed on a DC 15 Constitution\
-      \ saving throw or take 16 (3d10) bludgeoning damage and have the [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ saving throw or take 16 (3d10) bludgeoning damage and have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ condition until the end of the mutate's next turn."
     "name": "Chitin Slam"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/otyugh-mutate-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/otyugh-mutate-pabtso.webp"
 ```
 ^statblock

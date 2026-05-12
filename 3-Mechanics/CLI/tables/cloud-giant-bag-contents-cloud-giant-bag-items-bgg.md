@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Cloud Giant Bag Contents; Cloud Giant Bag Items
+- "Cloud Giant Bag Contents; Cloud Giant Bag Items"
 ---
 # Cloud Giant Bag Contents; Cloud Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 105* 
 
 **Cloud Giant Bag Items**
-
-`dice: [](cloud-giant-bag-contents-cloud-giant-bag-items-bgg.md#^cloud-giant-bag-items)`
 
 | dice: d12 | Item |
 |-----------|------|

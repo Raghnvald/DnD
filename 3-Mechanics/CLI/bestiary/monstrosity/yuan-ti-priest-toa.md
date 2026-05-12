@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
-- new/monster/type/monstrosity/yuan-ti
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity/shapechanger
+- ttrpg-cli/monster/type/monstrosity/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Priest
+- "Yuan-ti Priest"
 ---
-# [Yuan-ti Priest](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-priest-toa.md)
+# [Yuan-ti Priest](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-priest-toa.md)
 *Source: Tomb of Annihilation p. 118*  
 
 ```statblock
@@ -35,21 +35,27 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
   - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC\
       \ 13, +5 to hit with spell attacks). The yuan-ti can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** animal friendship\
-      \ (snakes only), eldritch blast (2 beams), minor illusion, poison spray\n\n\
-      **3/day:** suggestion"
+      \ spells, requiring no material components:\n\n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only), [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md)\
+      \ (2 beams), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md)\n\n**3/day:**\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Innate Spellcasting (Yuan-ti Form Only)"
   - "desc": "The yuan-ti can use its action to polymorph into a Medium snake, or back\
       \ into its true form. Its statistics are the same in each form. Any equipment\
@@ -68,19 +74,19 @@ aliases:
   - "desc": "The yuan-ti makes two ranged attacks or two melee attacks, but can constrict\
       \ only once."
     "name": "Multiattack (Yuan-ti Form Only)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
     "name": "Bite (Snake Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until\
-      \ this grapple ends, the target is restrained, and the yuan-ti can't constrict\
-      \ another target."
+      \ (2d6 + 3) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 13). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the yuan-ti can't constrict another target."
     "name": "Constrict"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar (Yuan-ti Form Only)"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-priest-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-priest-toa.webp"
 ```
 ^statblock

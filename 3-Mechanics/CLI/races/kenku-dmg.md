@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/kenku
 aliases:
-- Kenku
+- "Kenku"
 ---
 # Kenku
 *Source: Dungeon Master's Guide p. 282*  
@@ -20,11 +20,11 @@ aliases:
 
 ### Ambusher
 
-In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/3-Mechanics/CLI/conditions.md#Surprised).
+In the first round of a combat, you have advantage on attack rolls against any creature who is surprised.
 
 ### Mimicry
 
-You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check.
+You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
 ### Languages
 

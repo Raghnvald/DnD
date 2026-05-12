@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Investigator
+- "Investigator"
 ---
 # Investigator
 *Source: Van Richten's Guide to Ravenloft p. 35*  
-![](/3-Mechanics/CLI/backgrounds/img/investigator.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/investigator.webp#right)
 
-- **Skill Proficiencies.** Choose two from among [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), or [Perception](/3-Mechanics/CLI/skills.md#Perception)  
-- **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), [Thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** A [magnifying glass](/3-Mechanics/CLI/items/magnifying-glass-xphb.md), evidence from a past case (choose one or roll for a trinket from the [Horror Trinkets](/3-Mechanics/CLI/items/horror-trinket-vrgr.md) later in this chapter), a [set of common clothes](/3-Mechanics/CLI/items/common-clothes.md), and 10 gp  
+- **Skill Proficiencies.** Choose two from among [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), or [Perception](3-Mechanics/CLI/rules/skills.md#Perception)  
+- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit-xphb.md), [Thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)  
+- **Equipment.** A [magnifying glass](3-Mechanics/CLI/items/magnifying-glass-xphb.md), evidence from a past case (choose one or roll for a trinket from the [Horror Trinkets](3-Mechanics/CLI/items/horror-trinket-vrgr.md) later in this chapter), a set of common clothes, and 10 gp  
 
 You relentlessly seek the truth. Perhaps you're motivated by belief in the law and a sense of universal justice, or maybe that very law has failed you and you seek to make things right. You could have witnessed something remarkable or terrible, and now you must know more about this hidden truth. Or maybe you're a detective for hire, uncovering secrets for well-paying clients. Whether the mysteries you're embroiled in are local crimes or realm-spanning conspiracies, you're driven by a personal need to hunt down even the most elusive clues and reveal what others would keep hidden in the shadows.
 
@@ -27,8 +27,6 @@ You're experienced at gaining access to people and places to get the information
 Your first case influenced the types of mysteries you're interested in. Why was this case so impactful, personal, or traumatic? Whom did it affect besides you? Why and how did you get involved? Was it solved? How did it set you on the path to investigating other mysteries? Roll on or choose details from the First Case table to develop the mystery that started your career as an investigator.
 
 **First Case**
-
-`dice: [](investigator-vrgr.md#^first-case)`
 
 | dice: d8 | Case |
 |----------|------|
@@ -48,8 +46,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Personality Traits**
 
-`dice: [](investigator-vrgr.md#^horror-character-personality-traits)`
-
 | dice: d12 | Personality Trait |
 |-----------|-------------------|
 | 1 | I had an encounter that I believe gives me a special affinity with a supernatural creature or event. |
@@ -67,8 +63,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 ^horror-character-personality-traits
 
 **Horror Character Ideals**
-
-`dice: [](investigator-vrgr.md#^horror-character-ideals)`
 
 | dice: d12 | Ideal |
 |-----------|-------|
@@ -88,8 +82,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 
 **Horror Character Bonds**
 
-`dice: [](investigator-vrgr.md#^horror-character-bonds)`
-
 | dice: d12 | Bond |
 |-----------|------|
 | 1 | I desperately need to get back to someone or someplace, but I lost them in the Mists. |
@@ -107,8 +99,6 @@ Characters in a horror-focused campaign might have distinct motivations and char
 ^horror-character-bonds
 
 **Horror Character Flaws**
-
-`dice: [](investigator-vrgr.md#^horror-character-flaws)`
 
 | dice: d12 | Flaw |
 |-----------|------|

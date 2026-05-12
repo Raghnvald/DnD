@@ -17,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lost Sorrowsworn
+- "Lost Sorrowsworn"
 ---
-# [Lost Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/lost-sorrowsworn-mpmm.md)
+# [Lost Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/lost-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -49,34 +49,34 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "5"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common"
 "cr": "7"
 "actions":
   - "desc": "The sorrowsworn makes two Arm Spike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (2d10 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (2d10 + 3) piercing damage."
     "name": "Arm Spike"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 25\
-      \ (4d10 + 3) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (4d10 + 3) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
-      \ the target is [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and\
-      \ it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn\
-      \ can grapple only one creature at a time."
+      \ the target is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+      \ and it takes 27 (6d8) psychic damage at the end of each of its turns. The\
+      \ sorrowsworn can grapple only one creature at a time."
     "name": "Embrace (Recharge 4-6)"
 "reactions":
-  - "desc": "If the sorrowsworn takes damage, the creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "If the sorrowsworn takes damage, the creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by Embrace takes 18 (4d8) psychic damage."
     "name": "Tightening Embrace"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Habbakuk
+aliases:
+- "Habbakuk"
 ---
 # Habbakuk
 *Source: Player's Handbook p. 295* 

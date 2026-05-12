@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/21
-- new/monster/size/small-or-medium
-- new/monster/type/celestial
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/21
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Veiled Presence
+- "Veiled Presence"
 ---
-# [Veiled Presence](3-Mechanics\CLI\bestiary\celestial/veiled-presence-bmt.md)
+# [Veiled Presence](3-Mechanics/CLI/bestiary/celestial/veiled-presence-bmt.md)
 *Source: The Book of Many Things p. 48*  
 
 The ultimate threat created by the Rogue card, the veiled presence is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters.
@@ -66,11 +66,11 @@ The villain's challenge rating increases while the villain is in this lair:
 "actions":
   - "desc": "The veiled presence makes two Blade of Judgment attacks and can use Revelation."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +14 to hit, reach 5 ft. or range 60\
-      \ ft., one target. *Hit:* 10 (1d6 + 7) piercing damage plus 27 (6d8) radiant\
-      \ damage. If the target is a creature, it must succeed on a DC 22 Charisma saving\
-      \ throw, or on its next turn, it can either move or take an action, but not\
-      \ both."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +14 to hit, reach 5 ft. or range\
+      \ 60 ft., one target. *Hit:* 10 (1d6 + 7) piercing damage plus 27 (6d8)\
+      \ radiant damage. If the target is a creature, it must succeed on a DC 22 Charisma\
+      \ saving throw, or on its next turn, it can either move or take an action, but\
+      \ not both."
     "name": "Blade of Judgment"
   - "desc": "The veiled presence reveals a glimpse of its otherworldly nature to a\
       \ creature it can see within 30 feet of itself. The target must succeed on a\
@@ -128,6 +128,6 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Searing Radiance (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/veiled-presence-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/veiled-presence-bmt.webp"
 ```
 ^statblock

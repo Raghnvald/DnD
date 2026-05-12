@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/sorcerer/divine-soul
 aliases:
-- Divine Soul
+- "Divine Soul"
 ---
 # Divine Soul
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
@@ -47,10 +47,6 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Divine Soul (Level 3)
-
 Sometimes the spark of magic that fuels a sorcerer comes from a divine source that glimmers within the soul. Having such a blessed soul is a sign that your innate magic might come from a distant but powerful familial connection to a divine being. Perhaps your ancestor was an angel, transformed into a mortal and sent to fight in a god's name.
 
 Or your birth might align with an ancient prophecy, marking you as a servant of the gods or a chosen vessel of divine magic.
@@ -58,6 +54,8 @@ Or your birth might align with an ancient prophecy, marking you as a servant of 
 A Divine Soul, with a natural magnetism, is seen as a threat by some religious hierarchies. As an outsider who commands sacred power, a Divine Soul can undermine an existing order by claiming a direct tie to the divine.
 
 In some cultures, only those who can claim the power of a Divine Soul may command religious power. In these lands, ecclesiastical positions are dominated by a few bloodlines and preserved over generations.
+
+## Subclass Features
 
 ### Divine Magic (Level 1)
 
@@ -67,24 +65,24 @@ In addition, choose an affinity for the source of your divine power: good, evil,
 
 | Affinity | Spell |
 |----------|-------|
-| Good | [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) |
-| Evil | [inflict wounds](/3-Mechanics/CLI/spells/inflict-wounds-xphb.md) |
-| Law | [bless](/3-Mechanics/CLI/spells/bless-xphb.md) |
-| Chaos | [bane](/3-Mechanics/CLI/spells/bane-xphb.md) |
-| Neutrality | [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
+| Good | [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) |
+| Evil | [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md) |
+| Law | [bless](3-Mechanics/CLI/spells/bless-xphb.md) |
+| Chaos | [bane](3-Mechanics/CLI/spells/bane-xphb.md) |
+| Neutrality | [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
 ^affinity-spell
 
 ### Favored by the Gods (Level 1)
 
-Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `dice:2d4|noform|noparens|avg` (`2d4`) and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
+Starting at 1st level, divine power guards your destiny. If you fail a saving throw or miss with an attack roll, you can roll `2d4` and add it to the total, possibly changing the outcome. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Empowered Healing (Level 6)
 
-Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). You can use this feature only once per turn.
+Starting at 6th level, the divine energy coursing through you can empower healing spells. Whenever you or an ally within 5 feet of you rolls dice to determine the number of hit points a spell restores, you can spend 1 sorcery point to reroll any number of those dice once, provided you aren't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated). You can use this feature only once per turn.
 
 ### Otherworldly Wings (Level 14)
 
-Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), you die, or you dismiss them as a bonus action.
+Starting at 14th level, you can use a bonus action to manifest a pair of spectral wings from your back. While the wings are present, you have a flying speed of 30 feet. The wings last until you're [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), you die, or you dismiss them as a bonus action.
 
 The affinity you chose for your Divine Magic feature determines the appearance of the spectral wings: eagle wings for good or law, bat wings for evil or chaos, and dragonfly wings for neutrality.
 

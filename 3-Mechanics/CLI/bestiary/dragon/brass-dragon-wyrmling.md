@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brass Dragon Wyrmling
+- "Brass Dragon Wyrmling"
 ---
-# [Brass Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/brass-dragon-wyrmling.md)
+# [Brass Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling.md)
 *Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -105,30 +105,30 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "1"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) piercing damage."
     "name": "Bite"
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Fire Breath.**\
       \ The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature\
       \ in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire\
       \ damage on a failed save, or half as much damage on a successful one.  \n-\
       \ **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature\
-      \ in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 minute. This effect ends for a creature if the creature takes damage\
       \ or someone uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling.webp"
 ```
 ^statblock

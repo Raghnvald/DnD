@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Celestial Spirit
+- "Celestial Spirit"
 ---
-# [Celestial Spirit](3-Mechanics\CLI\bestiary\celestial/celestial-spirit-xphb.md)
+# [Celestial Spirit](3-Mechanics/CLI/bestiary/celestial/celestial-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -31,9 +31,9 @@ aliases:
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\
@@ -52,6 +52,6 @@ aliases:
     "name": "Healing Touch (1/Day)"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/celestial-spirit-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/celestial-spirit-xphb.webp"
 ```
 ^statblock

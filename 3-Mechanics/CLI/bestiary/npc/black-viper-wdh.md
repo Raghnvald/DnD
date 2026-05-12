@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Viper
+- "Black Viper"
 ---
-# [Black Viper](3-Mechanics\CLI\bestiary\npc/black-viper-wdh.md)
+# [Black Viper](3-Mechanics/CLI/bestiary/npc/black-viper-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 196*  
 
 The Black Viper was a notorious burglar, pickpocket, mugger, and assassin who died a century ago, after a long and nefarious career. Esvele Rosznar, a brash young noble, has recently adopted the Black Viper's persona to lead a secret life of crime. Like many other nobles, Esvele gossips about the Black Viper's exploits to lend credence to the villain's mystique.
@@ -30,7 +30,7 @@ One of the things Esvele has learned is to embrace the legend of the Black Viper
 "subtype": "human"
 "alignment": "Chaotic Neutral"
 "ac": !!int "16"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -46,38 +46,42 @@ One of the things Esvele has learned is to embrace the legend of the Black Viper
   - "dexterity": !!int "7"
   - "intelligence": !!int "3"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Thieves' cant"
 "cr": "5"
 "traits":
   - "desc": "On each of her turns, the Black Viper can use a bonus action to take\
-      \ the Dash, Disengage, or Hide action."
+      \ the [Dash](3-Mechanics/CLI/rules/actions.md#Dash), [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage),\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Cunning Action"
   - "desc": "If the Black Viper is subjected to an effect that allows her to make\
       \ a Dexterity saving throw to take only half damage, she instead takes no damage\
       \ if she succeeds on the saving throw, and only half damage if she fails. She\
-      \ can't use this trait if she's incapacitated."
+      \ can't use this trait if she's [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
   - "desc": "The Black Viper deals an extra 14 (4d6) damage when she hits a target\
       \ with a weapon attack and has advantage on the attack roll, or when the target\
-      \ is within 5 feet of an ally of the Black Viper that isn't incapacitated and\
-      \ the Black Viper doesn't have disadvantage on the attack roll."
+      \ is within 5 feet of an ally of the Black Viper that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and the Black Viper doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
   - "desc": "The Black Viper makes three attacks with her rapier."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 4) piercing damage."
     "name": "Rapier"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage."
@@ -88,6 +92,6 @@ One of the things Esvele has learned is to embrace the legend of the Black Viper
     "name": "Uncanny Dodge"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/black-viper-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/black-viper-wdh.webp"
 ```
 ^statblock

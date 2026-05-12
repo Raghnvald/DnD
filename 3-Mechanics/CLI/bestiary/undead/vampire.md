@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vampire
+- "Vampire"
 ---
-# [Vampire](3-Mechanics\CLI\bestiary\undead/vampire.md)
-*Source: Monster Manual p. 297, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Vampire](3-Mechanics/CLI/bestiary/undead/vampire.md)
+*Source: Monster Manual p. 297. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 
@@ -40,9 +40,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!note] Player Characters as Vampires
 > 
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, darkvision, traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 > 
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a wish spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](3-Mechanics/CLI/spells/wish.md) spell or the character is killed and brought back to life.
 ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
@@ -85,12 +85,13 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 120 ft., passive Perception 17"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 17"
 "languages": "the languages it knew in life"
 "cr": "13"
 "traits":
@@ -112,18 +113,18 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     "name": "Legendary Resistance (3/Day)"
   - "desc": "When it drops to 0 hit points outside its resting place, the vampire\
       \ transforms into a cloud of mist (as in the Shapechanger trait) instead of\
-      \ falling unconscious, provided that it isn't in sunlight or running water.\
-      \ If it can't transform, it is destroyed.\n\nWhile it has 0 hit points in mist\
-      \ form, it can't revert to its vampire form, and it must reach its resting place\
-      \ within 2 hours or be destroyed. Once in its resting place, it reverts to its\
-      \ vampire form. It is then paralyzed until it regains at least 1 hit point.\
-      \ After spending 1 hour in its resting place with 0 hit points, it regains 1\
-      \ hit point."
+      \ falling [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), provided\
+      \ that it isn't in sunlight or running water. If it can't transform, it is destroyed.\n\
+      \nWhile it has 0 hit points in mist form, it can't revert to its vampire form,\
+      \ and it must reach its resting place within 2 hours or be destroyed. Once in\
+      \ its resting place, it reverts to its vampire form. It is then [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until it regains at least 1 hit point. After spending 1 hour in its resting\
+      \ place with 0 hit points, it regains 1 hit point."
     "name": "Misty Escape"
   - "desc": "The vampire regains 20 hit points at the start of its turn if it has\
       \ at least 1 hit point and isn't in sunlight or running water. If the vampire\
-      \ takes radiant damage or damage from holy water, this trait doesn't function\
-      \ at the start of the vampire's next turn."
+      \ takes radiant damage or damage from [holy water](3-Mechanics/CLI/items/holy-water-flask.md),\
+      \ this trait doesn't function at the start of the vampire's next turn."
     "name": "Regeneration"
   - "desc": "The vampire can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -132,32 +133,35 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
       \ can't enter a residence without an invitation from one of the occupants. \
       \ \n- **Harmed by Running Water.** The vampire takes 20 acid damage if it ends\
       \ its turn in running water.  \n- **Stake to the Heart.** If a piercing weapon\
-      \ made of wood is driven into the vampire's heart while the vampire is incapacitated\
-      \ in its resting place, the vampire is paralyzed until the stake is removed.\
-      \  \n- **Sunlight Hypersensitivity.** The vampire takes 20 radiant damage when\
-      \ it starts its turn in sunlight. While in sunlight, it has disadvantage on\
-      \ attack rolls and ability checks.  "
+      \ made of wood is driven into the vampire's heart while the vampire is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ in its resting place, the vampire is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the stake is removed.  \n- **Sunlight Hypersensitivity.** The vampire\
+      \ takes 20 radiant damage when it starts its turn in sunlight. While in sunlight,\
+      \ it has disadvantage on attack rolls and ability checks.  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack (Vampire Form Only)"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple\
-      \ the target (escape DC 18)."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can\
+      \ grapple the target (escape DC 18)."
     "name": "Unarmed Strike (Vampire Form Only)"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is grappled by the vampire, incapacitated, or restrained.\
-      \ *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's\
+      \ or a creature that is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the vampire, [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
+      \ or [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). *Hit:* 7\
+      \ (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's\
       \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
       \ and the vampire regains hit points equal to that amount. The reduction lasts\
       \ until the target finishes a long rest. The target dies if this effect reduces\
       \ its hit point maximum to 0. A humanoid slain in this way and then buried in\
-      \ the ground rises the following night as a [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)\
+      \ the ground rises the following night as a [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)\
       \ under the vampire's control."
     "name": "Bite (Bat or Vampire Form Only)"
   - "desc": "The vampire targets one humanoid it can see within 30 feet of it. If\
       \ the target can see the vampire, the target must succeed on a DC 17 Wisdom\
-      \ saving throw against this magic or be charmed by the vampire. The charmed\
+      \ saving throw against this magic or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by the vampire. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ target regards the vampire as a trusted friend to be heeded and protected.\
       \ Although the target isn't under the vampire's control, it takes the vampire's\
       \ requests or actions in the most favorable way it can, and it is a willing\
@@ -167,13 +171,24 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
       \ or until the vampire is destroyed, is on a different plane of existence than\
       \ the target, or takes a bonus action to end the effect."
     "name": "Charm"
-  - "desc": "The vampire magically calls 2d4 swarms of [bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md)\
-      \ or rats, provided that the sun isn't up. While outdoors, the vampire can call\
-      \ 3d6 [wolves](/3-Mechanics/CLI/bestiary/beast/wolf.md) instead. The called\
-      \ creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying\
-      \ its spoken commands. The beasts remain for 1 hour, until the vampire dies,\
-      \ or until the vampire dismisses them as a bonus action."
+  - "desc": "The vampire magically calls 2d4 swarms of [bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md)\
+      \ or [rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats.md), provided that\
+      \ the sun isn't up. While outdoors, the vampire can call 3d6 [wolves](3-Mechanics/CLI/bestiary/beast/wolf.md)\
+      \ instead. The called creatures arrive in 1d4 rounds, acting as allies of\
+      \ the vampire and obeying its spoken commands. The beasts remain for 1 hour,\
+      \ until the vampire dies, or until the vampire dismisses them as a bonus action."
     "name": "Children of the Night (1/Day)"
+"regional_effects":
+  - "desc": "The region surrounding a vampire's lair is warped by the creature's unnatural\
+      \ presence, creating any of the following effects:\n\n- There's a noticeable\
+      \ increase in the populations of bats, rats, and wolves in the region.  \n-\
+      \ Plants within 500 feet of the lair wither, and their stems and branches become\
+      \ twisted and thorny.  \n- Shadows cast within 500 feet of the lair seem abnormally\
+      \ gaunt and sometimes move as though alive.  \n- A creeping fog clings to the\
+      \ ground within 500 feet of the vampire's lair. The fog occasionally takes eerie\
+      \ forms, such as grasping claws and writhing serpents.  \n\nIf the vampire is\
+      \ destroyed, these effects end after 2d6 days."
+    "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the vampire can expend a use to take one of the following actions. The vampire\
   \ regains all expended uses at the start of each of its turns."
@@ -186,8 +201,7 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/vampire.webp"
 ```
 ^statblock
 

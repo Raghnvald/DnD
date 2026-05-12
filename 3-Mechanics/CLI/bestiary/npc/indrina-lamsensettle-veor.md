@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Indrina Lamsensettle
+- "Indrina Lamsensettle"
 ---
-# [Indrina Lamsensettle](3-Mechanics\CLI\bestiary\npc/indrina-lamsensettle-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Indrina Lamsensettle](3-Mechanics/CLI/bestiary/npc/indrina-lamsensettle-veor.md)
+*Source: Vecna: Eve of Ruin p. 18*  
 
 ```statblock
 "name": "Indrina Lamsensettle (VEoR)"
@@ -34,12 +34,14 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
@@ -49,6 +51,6 @@ aliases:
     "name": "Parry"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/indrina-lamsensettle-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/indrina-lamsensettle-veor.webp"
 ```
 ^statblock

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- House Tarkanan; Tarkanan Contacts
+- "House Tarkanan; Tarkanan Contacts"
 ---
 # House Tarkanan; Tarkanan Contacts
 *Source: Eberron: Rising from the Last War p. 179* 
 
 **Tarkanan Contacts**
-
-`dice: [](house-tarkanan-tarkanan-contacts-erlw.md#^tarkanan-contacts)`
 
 | dice: d6 | Contact |
 |----------|---------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Emmek Frewn
+- "Emmek Frewn"
 ---
-# [Emmek Frewn](3-Mechanics\CLI\bestiary\npc/emmek-frewn-wdh.md)
+# [Emmek Frewn](3-Mechanics/CLI/bestiary/npc/emmek-frewn-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 42*  
 
 ```statblock
@@ -33,15 +33,17 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/emmek-frewn-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/emmek-frewn-wdh.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Recluses
+- "Recluses"
 ---
 # Recluses
 *Source: Bigby Presents: Glory of the Giants p. 35* 
 
 **Recluses**
-
-`dice: [](recluses-bgg.md#^recluses)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

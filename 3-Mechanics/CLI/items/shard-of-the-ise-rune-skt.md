@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+aliases:
 - "Shard of the Ise Rune"
 ---
 # Shard of the Ise Rune
@@ -30,13 +30,13 @@ As an action, you can touch yourself or another creature with water on your fing
 
 ## Winters Howl
 
-As an action, you can cast sleet storm (spell save DC 17). You regain this ability after you finish a short or long rest.
+As an action, you can cast [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md) (spell save DC 17). You regain this ability after you finish a short or long rest.
 
 ## Gift of Frost
 
 You can transfer the shard's magic to a nonmagical item—a cloak or a pair of boots-by tracing the ise rune there with your finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the shard is destroyed, and the rune appears in blue on the chosen item, which gains a benefit based on its form:
 
-- **Cloak.** The cloak is now a rare magic item that requires attunement. While wearing it, you have resistance to fire damage, and you have advantage on Dexterity (Stealth) checks made while in snowy terrain.  
+- **Cloak.** The cloak is now a rare magic item that requires attunement. While wearing it, you have resistance to fire damage, and you have advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made while in snowy terrain.  
 - **Boots.** The pair of boots is now a rare magic item that requires attunement. While wearing it, you ignore difficult terrain while walking, and you can walk on water.  
 
 *Source: Storm King's Thunder p. 236*

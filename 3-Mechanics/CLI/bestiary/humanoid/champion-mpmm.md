@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Champion
+- "Champion"
 ---
-# [Champion](3-Mechanics\CLI\bestiary\humanoid/champion-mpmm.md)
+# [Champion](3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
 
 > [!quote] A quote from Mordenkainen  
@@ -26,8 +26,6 @@ Champions are mighty warriors who have honed their fighting skills in wars or gl
 A typical champion bears a coat of arms, heraldry that is associated with the champion far and wide. You may create a coat of arms for a champion or roll on the Champion's Coats of Arms table to determine it.
 
 **Champion's Coat of Arms**
-
-`dice: [](champion-mpmm.md#^champions-coat-of-arms)`
 
 | dice: d12 | Coat of Arms |
 |-----------|--------------|
@@ -51,7 +49,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "143"
 "hit_dice": "22d8 + 44"
 "modifier": !!int "2"
@@ -67,12 +65,15 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
   - "strength": !!int "9"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "9"
@@ -83,8 +84,8 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
   - "desc": "The champion makes three Greatsword or Shortbow attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion has\
-      \ more than half of its total hit points remaining."
+      \ (2d6 + 5) slashing damage, plus 7 (2d6) slashing damage if the champion\
+      \ has more than half of its total hit points remaining."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage, plus 7 (2d6) piercing damage if the champion\
@@ -96,7 +97,7 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/champion-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/champion-mpmm.webp"
 ```
 ^statblock
 

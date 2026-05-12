@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Flail"
 ---
 # Flail
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/flail.webp#right)
+![](3-Mechanics/CLI/items/img/flail.webp#right)
 
 - **Damage**: 1d8 bludgeoning
 - **Cost**: 10 gp

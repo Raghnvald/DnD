@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Orc Names; Orc Male Names
+- "Orc Names; Orc Male Names"
 ---
 # Orc Names; Orc Male Names
 *Source: Volo's Guide to Monsters p. 88* 
 
 **Orc Male Names**
-
-`dice: [](orc-names-orc-male-names-vgm.md#^orc-male-names)`
 
 | dice: d12 | Name |
 |-----------|------|

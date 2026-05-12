@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Isperia
+- "Isperia"
 ---
-# [Isperia](3-Mechanics\CLI\bestiary\npc/isperia-ggr.md)
+# [Isperia](3-Mechanics/CLI/bestiary/npc/isperia-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 227*  
 
 Isperia is the current guildmaster of the Azorius Senate. As a sphinx, she is aloof and values solitude above all. However, she has been forced to give up her privacy to deal with the increased crime and chaos on Ravnica.
@@ -45,51 +45,37 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
   - "intelligence": !!int "13"
   - "wisdom": !!int "15"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+13"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+13"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+15"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+15"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 25"
+"condition_immunities": "charmed, frightened"
+"senses": "truesight 120 ft., passive Perception 25"
 "languages": "Common, Sphinx"
 "cr": "21"
 "traits":
   - "desc": "Isperia is a 15th-level Azorius spellcaster. Her spellcasting ability\
-      \ is Wisdom (spell save DC 23, +14 to hit with spell attacks). Isperia has the\
-      \ following cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [resistance](/3-Mechanics/CLI/spells/resistance-xphb.md),\
-      \ [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n**1st level (4 slots):** [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-      \ [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-      \ [ensnaring strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md), [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
-      \ [shield of faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd\
-      \ level (3 slots):** [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md),\
-      \ [augury](/3-Mechanics/CLI/spells/augury-xphb.md), [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [silence](/3-Mechanics/CLI/spells/silence-xphb.md),\
-      \ [zone of truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md)\n\n**3rd level\
-      \ (3 slots):** [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
-      \ [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\
-      \n**4th level (3 slots):** [divination](/3-Mechanics/CLI/spells/divination-xphb.md),\
-      \ [locate creature](/3-Mechanics/CLI/spells/locate-creature-xphb.md)\n\n**5th\
-      \ level (2 slots):** [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md),\
-      \ [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)\n\n**6th level (1 slots):**\
-      \ [word of recall](/3-Mechanics/CLI/spells/word-of-recall-xphb.md)\n\n**7th\
-      \ level (1 slots):** [divine word](/3-Mechanics/CLI/spells/divine-word-xphb.md)\n\
-      \n**8th level (1 slots):** [antimagic field](/3-Mechanics/CLI/spells/antimagic-field-xphb.md)"
+      \ is Wisdom (spell save DC 23, +14 to hit with spell attacks). Isperia has\
+      \ the following cleric spells prepared:\n\n**Cantrips (at will):** guidance,\
+      \ light, resistance, sacred flame, thaumaturgy\n\n**1st level (4 slots):** command,\
+      \ detect evil and good, ensnaring strike, sanctuary, shield of faith\n\n**2nd\
+      \ level (3 slots):** arcane lock, augury, calm emotions, hold person, silence,\
+      \ zone of truth\n\n**3rd level (3 slots):** bestow curse, clairvoyance, counterspell,\
+      \ dispel magic, tongues\n\n**4th level (3 slots):** divination, locate creature\n\
+      \n**5th level (2 slots):** dispel evil and good, scrying\n\n**6th level (1 slots):**\
+      \ word of recall\n\n**7th level (1 slots):** divine word\n\n**8th level (1 slots):**\
+      \ antimagic field"
     "name": "Spellcasting"
   - "desc": "Isperia's innate spellcasting ability is Wisdom (spell save DC 23). Isperia\
-      \ can innately cast [imprisonment](/3-Mechanics/CLI/spells/imprisonment-xphb.md)\
-      \ twice per day, requiring no material components.\n"
+      \ can innately cast imprisonment twice per day, requiring no material components.\n"
     "name": "Innate Spellcasting"
   - "desc": "Isperia is immune to any effect that would sense her emotions or read\
-      \ her thoughts, as well as any divination spell that she refuses. Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
+      \ her thoughts, as well as any divination spell that she refuses. Wisdom (Insight)\
       \ checks made to ascertain her intentions or sincerity have disadvantage."
     "name": "Inscrutable"
   - "desc": "If Isperia fails a saving throw, she can choose to succeed instead."
@@ -101,10 +87,10 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
   - "desc": "Isperia makes two claw attacks. She can cast a spell with a casting time\
       \ of 1 action in place of one claw attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 21\
-      \ (3d10 + 5) slashing damage. If the target is a creature, it must succeed on\
-      \ a DC 23 Wisdom saving throw or take 14 (4d6) psychic damage after each attack\
-      \ it makes against Isperia before the start of her next turn."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 21 (3d10 + 5) slashing damage. If the target is a creature, it must succeed\
+      \ on a DC 23 Wisdom saving throw or take 14 (4d6) psychic damage after each\
+      \ attack it makes against Isperia before the start of her next turn."
     "name": "Claw"
   - "desc": "Isperia chooses up to three creatures she can see within 90 feet of her.\
       \ Each target must succeed on a DC 23 Intelligence saving throw or Isperia chooses\
@@ -128,6 +114,6 @@ If an encounter turns violent, Isperia refrains from using lethal force if possi
     "name": "Supreme Legal Authority (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/isperia-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/isperia-ggr.webp"
 ```
 ^statblock

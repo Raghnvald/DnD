@@ -3,22 +3,20 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Magical Effects; Environmental Effects
+- "Magical Effects; Environmental Effects"
 ---
 # Magical Effects; Environmental Effects
 *Source: Eberron: Rising from the Last War p. 220* 
 
 **Environmental Effects**
 
-`dice: [](magical-effects-environmental-effects-erlw.md#^environmental-effects)`
-
 | dice: d8 | Effect |
 |----------|--------|
 | 1 | Healing spells are impeded here. Any spell that restores hit points does so as if it were cast at a level one lower than the spell slot expended. A spell cast using a 1st-level slot restores no hit points. |
 | 2 | A character who casts a spell must make a Constitution saving throw against the character's own spell save DC. On a failed save, the character takes psychic damage equal to the spell's level and gains one level of exhaustion. |
-| 3 | Any Medium humanoid that dies in the area reanimates as a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md) at the start of its next turn. The zombie is under the DM's control. |
+| 3 | Any Medium humanoid that dies in the area reanimates as a zombie at the start of its next turn. The zombie is under the DM's control. |
 | 4 | The area is affected by a silence spell. |
 | 5 | Each creature that enters the area is affected by an enlarge/reduce spell, with an equal chance for each effect. The effect lasts until the creature leaves the area. |
 | 6 | The pull of gravity is lessened. Creatures can jump twice the normal distance in any direction, and everything effectively weighs half its actual weight. |

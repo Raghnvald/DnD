@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ashen Heir Veteran
+- "Ashen Heir Veteran"
 ---
-# [Ashen Heir Veteran](3-Mechanics\CLI\bestiary\humanoid/ashen-heir-veteran-jttrc.md)
+# [Ashen Heir Veteran](3-Mechanics/CLI/bestiary/humanoid/ashen-heir-veteran-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 158*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "17"
-"ac_class": "splint armor"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -35,10 +35,14 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"
@@ -46,17 +50,18 @@ aliases:
   - "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
       \ it can also make a shortsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:*\
       \ 6 (1d10 + 1) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/ashen-heir-veteran-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/ashen-heir-veteran-jttrc.webp"
 ```
 ^statblock

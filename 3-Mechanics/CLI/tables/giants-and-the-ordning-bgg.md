@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Giants and the Ordning
+- "Giants and the Ordning"
 ---
 # Giants and the Ordning
 *Source: Bigby Presents: Glory of the Giants p. 24* 
 
 **Giants and the Ordning**
-
-`dice: [](giants-and-the-ordning-bgg.md#^giants-and-the-ordning)`
 
 | dice: d10 | Ranking | Status |
 |-----------|---------|--------|

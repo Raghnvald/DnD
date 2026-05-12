@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/25
-- new/monster/size/gargantuan
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/25
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Colossus
+- "Warforged Colossus"
 ---
-# [Warforged Colossus](3-Mechanics\CLI\bestiary\construct/warforged-colossus-erlw.md)
+# [Warforged Colossus](3-Mechanics/CLI/bestiary/construct/warforged-colossus-erlw.md)
 *Source: Eberron: Rising from the Last War p. 314*  
 
 In the final days of the Last War, House Cannith unleashed its mightiest creations: the warforged colossi. These enormous mechanical warriors thundered across Cyre, crushing everything in their paths and leaving ruin behind them. Meant to end the war decisively, the colossi pulverized hundreds of soldiers beneath their feet and incinerated whole legions with beams of fiery light that shot from their mouths. This rampage was cut short on the Day of Mourning. The arcane cataclysm that engulfed Cyre destroyed most of the warforged colossi, causing them to collapse into lifeless heaps.
@@ -83,9 +83,9 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
   - "desc": "The colossus makes three attacks—one with its slam and two with its eldritch\
       \ turrets—and then uses Stomp."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 29\
-      \ (3d12 + 10) bludgeoning damage, and the colossus can push the target up to\
-      \ 20 feet away from it."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 29 (3d12 + 10) bludgeoning damage, and the colossus can push the target\
+      \ up to 20 feet away from it."
     "name": "Slam"
   - "desc": "*Ranged Spell Attack:* +18 to hit, range 300 ft., one target. *Hit:*\
       \ 18 (4d8) force damage, and if the target is a creature, it is knocked prone."
@@ -109,6 +109,6 @@ A colossus might be filled with monsters and secrets, in addition to the corpses
     "name": "Incinerating Beam (Recharge 5-6)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/warforged-colossus-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/warforged-colossus-erlw.webp"
 ```
 ^statblock

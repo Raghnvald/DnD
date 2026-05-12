@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Solution; Potential Passwords
+- "Solution; Potential Passwords"
 ---
 # Solution; Potential Passwords
 *Source: Tasha's Cauldron of Everything p. 183* 

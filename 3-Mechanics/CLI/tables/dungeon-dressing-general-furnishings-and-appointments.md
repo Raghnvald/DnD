@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; General Furnishings and Appointments
+- "Dungeon Dressing; General Furnishings and Appointments"
 ---
 # Dungeon Dressing; General Furnishings and Appointments
 *Source: Dungeon Master's Guide p. 298* 
 
 **General Furnishings and Appointments**
-
-`dice: [](dungeon-dressing-general-furnishings-and-appointments.md#^general-furnishings-and-appointments)`
 
 | dice: d100 | Item |
 |------------|------|

@@ -19,9 +19,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Kobold
+- "Winged Kobold"
 ---
-# [Winged Kobold](3-Mechanics\CLI\bestiary\humanoid/winged-kobold.md)
+# [Winged Kobold](3-Mechanics/CLI/bestiary/humanoid/winged-kobold.md)
 *Source: Monster Manual p. 195*  
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -56,29 +56,31 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
   - !!int "7"
   - !!int "8"
 "speed": "30 ft., fly 30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Draconic"
 "cr": "1/4"
 "traits":
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage."
     "name": "Dagger"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, one target directly below the kobold.\
       \ *Hit:* 6 (1d6 + 3) bludgeoning damage."
     "name": "Dropped Rock"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/winged-kobold.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/winged-kobold.webp"
 ```
 ^statblock
 

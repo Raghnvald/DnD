@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fey Spirit (Tricksy)
+- "Fey Spirit (Tricksy)"
 ---
-# [Fey Spirit (Tricksy)](3-Mechanics\CLI\bestiary\fey/fey-spirit-tricksy-xphb.md)
+# [Fey Spirit (Tricksy)](3-Mechanics/CLI/bestiary/fey/fey-spirit-tricksy-xphb.md)
 *Source: Player's Handbook (2024) p. 326*  
 
 ```statblock
@@ -30,9 +30,9 @@ aliases:
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Sylvan, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of Fey Blade attacks equal to half this spell's\

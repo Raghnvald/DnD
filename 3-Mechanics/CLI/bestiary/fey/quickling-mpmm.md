@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quickling
+- "Quickling"
 ---
-# [Quickling](3-Mechanics\CLI\bestiary\fey/quickling-mpmm.md)
+# [Quickling](3-Mechanics/CLI/bestiary/fey/quickling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -46,25 +46,27 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
   - !!int "7"
 "speed": "120 ft."
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+8"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Common, Sylvan"
 "cr": "1"
 "traits":
-  - "desc": "Attack rolls against the quickling have disadvantage unless it is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "Attack rolls against the quickling have disadvantage unless it is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ or its speed is 0."
     "name": "Blurred Movement"
   - "desc": "If the quickling is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, it instead takes no damage if it succeeds\
-      \ on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ on the saving throw and only half damage if it fails, provided it isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
 "actions":
   - "desc": "The quickling makes three Dagger attacks."
@@ -75,7 +77,7 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp"
 ```
 ^statblock
 

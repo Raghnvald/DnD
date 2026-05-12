@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/8
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jarl Storvald
+- "Jarl Storvald"
 ---
-# [Jarl Storvald](3-Mechanics\CLI\bestiary\npc/jarl-storvald-skt.md)
+# [Jarl Storvald](3-Mechanics/CLI/bestiary/npc/jarl-storvald-skt.md)
 *Source: Storm King's Thunder p. 165*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging.They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -90,35 +90,40 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "cold"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Giant, Giant Owl"
 "cr": "8"
 "actions":
   - "desc": "*Ranged Weapon Attack:* +5 to hit, ranged 20/60 ft., one Small, Medium,\
-      \ or Large creature. *Hit:* The target is restrained until it escapes the net.\
-      \ Any creature can use its action to make a DC 17 Strength check to free itself\
-      \ or another creature in the net, ending the effect on a success. Dealing 15\
-      \ slashing damage to the net (AC 12) destroys the net and frees the target."
+      \ or Large creature. *Hit:* The target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ until it escapes the net. Any creature can use its action to make a DC 17\
+      \ Strength check to free itself or another creature in the net, ending the effect\
+      \ on a success. Dealing 15 slashing damage to the net (AC 12) destroys the net\
+      \ and frees the target."
     "name": "Weighted Net"
   - "desc": "The giant makes two greataxe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25\
-      \ (3d12 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 25 (3d12 + 6) slashing damage."
     "name": "Greataxe"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
   - "desc": "Storvald casts one of the following spells, requiring no material components\
-      \ and using Wisdom as the spellcasting ability:\n\n**1/day each:** jump, locate\
-      \ animals or plants, locate object, water breathing, water walk"
+      \ and using Wisdom as the spellcasting ability:\n\n**1/day each:** [jump](3-Mechanics/CLI/spells/jump-xphb.md),\
+      \ [locate animals or plants](3-Mechanics/CLI/spells/locate-animals-or-plants-xphb.md),\
+      \ [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md),\
+      \ [water walk](3-Mechanics/CLI/spells/water-walk-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jarl-storvald-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jarl-storvald-skt.webp"
 ```
 ^statblock

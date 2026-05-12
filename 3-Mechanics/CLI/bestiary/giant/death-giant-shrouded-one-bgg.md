@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death Giant Shrouded One
+- "Death Giant Shrouded One"
 ---
-# [Death Giant Shrouded One](3-Mechanics\CLI\bestiary\giant/death-giant-shrouded-one-bgg.md)
+# [Death Giant Shrouded One](3-Mechanics/CLI/bestiary/giant/death-giant-shrouded-one-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 127*  
 
 A death giant shrouded one has learned the secrets of death magic—some say from the Raven Queen herself. A shrouded one collects the skulls of fallen kin and inscribes the death rune on a prized skull from this grisly collection. Abandoning armor in favor of gloomy robes, the shrouded one uses rune magic to create a shadowy scythe blade at the end of a staff and to conjure an aura of tormented souls for protection.
@@ -39,7 +39,7 @@ Over time, the Shadowfell transformed these giants; their bodies shriveled, and 
 "subtype": "wizard"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with mage armor"
 "hp": !!int "195"
 "hit_dice": "17d12 + 85"
 "modifier": !!int "2"
@@ -57,16 +57,15 @@ Over time, the Shadowfell transformed these giants; their bodies shriveled, and 
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "necrotic"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"condition_immunities": "frightened"
+"senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Common, Giant"
 "cr": "15"
 "traits":
@@ -83,28 +82,26 @@ Over time, the Shadowfell transformed these giants; their bodies shriveled, and 
   - "desc": "The giant makes three Soul Burst attacks. Alternatively, if the giant\
       \ has its death rune, it can make three Reaping Scythe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +11 to hit, reach 10 ft. or range 120\
-      \ ft., one target. *Hit:* 28 (4d10 + 6) necrotic damage. If the target has the\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition, the giant\
-      \ gains temporary hit points equal to the damage dealt."
+  - "desc": "*Melee  or Ranged Spell Attack:* +11 to hit, reach 10 ft. or range\
+      \ 120 ft., one target. *Hit:* 28 (4d10 + 6) necrotic damage. If the target\
+      \ has the frightened condition, the giant gains temporary hit points equal to\
+      \ the damage dealt."
     "name": "Soul Burst"
   - "desc": "*Melee Spell Attack:* +11 to hit, reach 15 ft., one creature. *Hit:*\
-      \ 38 (7d10) necrotic damage, and the target can't regain hit points until the\
-      \ end of its next turn. The target dies if it is reduced to 0 hit points by\
-      \ this attack."
+      \ 38 (7d10) necrotic damage, and the target can't regain hit points until\
+      \ the end of its next turn. The target dies if it is reduced to 0 hit points\
+      \ by this attack."
     "name": "Reaping Scythe (Requires Death Rune)"
   - "desc": "The giant casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability:\n\n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\n**3/day each:**\
-      \ [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [Tenser's\
-      \ floating disk](/3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md)"
+      \ spellcasting ability:\n\n**At will:** detect magic, mage armor\n\n**3/day\
+      \ each:** speak with dead, Tenser's floating disk"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The giant magically teleports, along with any equipment it is wearing\
       \ or carrying, up to 40 feet to an unoccupied space it can see. Each creature\
       \ within 10 feet of the location the giant left must succeed on a DC 19 Wisdom\
-      \ saving throw or have the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ condition until the end of that creature's next turn."
+      \ saving throw or have the frightened condition until the end of that creature's\
+      \ next turn."
     "name": "Frightening Teleport (Recharge 4-6)"
   - "desc": "The giant shrouds itself in a torrent of souls. While the giant is shrouded,\
       \ each creature that starts its turn within 5 feet of the giant must succeed\
@@ -115,6 +112,6 @@ Over time, the Shadowfell transformed these giants; their bodies shriveled, and 
     "name": "Shroud of Souls (Requires Death Rune)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/death-giant-shrouded-one-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/death-giant-shrouded-one-bgg.webp"
 ```
 ^statblock

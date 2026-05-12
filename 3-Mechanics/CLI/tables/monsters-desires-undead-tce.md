@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Undead
+- "Monsters' Desires; Undead"
 ---
 # Monsters' Desires; Undead
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Undead**
-
-`dice: [](monsters-desires-undead-tce.md#^undead)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

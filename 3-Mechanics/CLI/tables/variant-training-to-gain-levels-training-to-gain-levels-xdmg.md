@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Variant: Training to Gain Levels; Training to Gain Levels
+- "Variant: Training to Gain Levels; Training to Gain Levels"
 ---
 # Variant: Training to Gain Levels; Training to Gain Levels
 *Source: Dungeon Master's Guide (2024) p. 49* 

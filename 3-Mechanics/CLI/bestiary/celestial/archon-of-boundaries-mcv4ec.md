@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archon of Boundaries
+- "Archon of Boundaries"
 ---
-# [Archon of Boundaries](3-Mechanics\CLI\bestiary\celestial/archon-of-boundaries-mcv4ec.md)
+# [Archon of Boundaries](3-Mechanics/CLI/bestiary/celestial/archon-of-boundaries-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 The archons of Eldraine are enigmatic beings who fly over the perimeter where the realm meets the wilds, marking the boundary between safety (for the people of the realm) and danger. The sight of an archon overhead is a clear signal that one is entering the wilds.
@@ -48,13 +48,14 @@ Sometimes knights of the realm get the idea that they can expand the borders of 
   - "constitution": !!int "10"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "radiant"
-"condition_immunities": "exhaustion"
-"senses": "darkvision 120 ft., passive Perception 19"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 19"
 "languages": "understands Common and Celestial but can't speak"
 "cr": "15"
 "traits":
@@ -66,18 +67,19 @@ Sometimes knights of the realm get the idea that they can expand the borders of 
 "actions":
   - "desc": "The archon makes one Hooves attack and one Radiant Lance attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (4d6 + 6) bludgeoning damage plus 10 (3d6) radiant damage. If the target is\
-      \ a Medium or smaller creature, it must succeed on a DC 19 Strength saving throw\
-      \ or have the prone condition."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (4d6 + 6) bludgeoning damage plus 10 (3d6) radiant damage. If the target\
+      \ is a Medium or smaller creature, it must succeed on a DC 19 Strength saving\
+      \ throw or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Hooves"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (1d12 + 6) piercing damage plus 28 (8d6) radiant damage, and the target is\
-      \ marked until the start of the archon's next turn. While it is marked, the\
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (1d12 + 6) piercing damage plus 28 (8d6) radiant damage, and the target\
+      \ is marked until the start of the archon's next turn. While it is marked, the\
       \ target has disadvantage on attack rolls against creatures other than the archon."
     "name": "Radiant Lance"
   - "desc": "The archon casts one of the following spells, using Charisma as the spellcasting\
-      \ ability:\n\n**1/day each:** daylight, lesser restoration"
+      \ ability:\n\n**1/day each:** [daylight](3-Mechanics/CLI/spells/daylight.md),\
+      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature marked by the archon's Radiant Lance ends its turn within\
@@ -86,14 +88,14 @@ Sometimes knights of the realm get the idea that they can expand the borders of 
     "name": "Archon's Pursuit"
   - "desc": "Immediately after a creature within 120 feet of the archon forces it\
       \ to make a saving throw, the archon responds with a burst of light. The creature\
-      \ must succeed on a DC 17 Constitution saving throw or have the blinded condition\
-      \ until the end of the creature's next turn."
+      \ must succeed on a DC 17 Constitution saving throw or have the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ condition until the end of the creature's next turn."
     "name": "Haunting Radiance"
   - "desc": "The archon adds 5 to its AC against one melee attack that would hit it,\
       \ provided it can see the attacker."
     "name": "Parry"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/archon-of-boundaries-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/archon-of-boundaries-mcv4ec.webp"
 ```
 ^statblock

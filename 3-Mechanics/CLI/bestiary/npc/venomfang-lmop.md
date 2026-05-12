@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Venomfang
+- "Venomfang"
 ---
-# [Venomfang](3-Mechanics\CLI\bestiary\npc/venomfang-lmop.md)
+# [Venomfang](3-Mechanics/CLI/bestiary/npc/venomfang-lmop.md)
 *Source: Lost Mine of Phandelver p. 63*  
 
 ```statblock
@@ -39,15 +39,15 @@ aliases:
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
@@ -57,8 +57,8 @@ aliases:
 "actions":
   - "desc": "Venomfang makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d10 + 4) piercing damage plus 7 (2d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
@@ -69,6 +69,6 @@ aliases:
     "name": "Poison Breath (Recharge 5-6)"
 "source":
   - "LMoP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/venomfang-lmop.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/venomfang-lmop.webp"
 ```
 ^statblock

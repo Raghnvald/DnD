@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shield Guardian
+- "Shield Guardian"
 ---
-# [Shield Guardian](3-Mechanics\CLI\bestiary\construct/shield-guardian-xmm.md)
+# [Shield Guardian](3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md)
 *Source: Monster Manual (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Shield Guardian
@@ -45,10 +45,10 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
   - !!int "3"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 10"
 "languages": "understands commands given in any language but can't speak"
 "cr": "7"
@@ -60,8 +60,8 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
       \ wearer, half of any damage the wearer takes (round up) is transferred to the\
       \ guardian."
     "name": "Bound"
-  - "desc": "The guardian regains 10 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ at the start of each of its turns if it has at least 1 [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "The guardian regains 10 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+      \ at the start of each of its turns if it has at least 1 [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
     "name": "Regeneration"
   - "desc": "A spellcaster who wears the guardian's amulet can cause the guardian\
       \ to store one spell of level 4 or lower. To do so, the wearer must cast the\
@@ -85,7 +85,7 @@ Shield guardians are typically constructed of steel, stone, and wood in the shap
     "name": "Protection"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/shield-guardian-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/shield-guardian-xmm.webp"
 ```
 ^statblock
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Demon Customization Tables; Demon Ideals
+- "Demon Customization Tables; Demon Ideals"
 ---
 # Demon Customization Tables; Demon Ideals
 *Source: Mordenkainen's Tome of Foes p. 33* 
 
 **Demon Ideals**
-
-`dice: [](demon-customization-tables-demon-ideals-mtf.md#^demon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

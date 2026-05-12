@@ -7,17 +7,17 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Hew"
 ---
 # Hew
-*Weapon ([battleaxe](/3-Mechanics/CLI/items/battleaxe-xphb.md)), uncommon*  
+*Weapon ([battleaxe](3-Mechanics/CLI/items/battleaxe.md)), uncommon*  
 
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 You have a +1 bonus to attack and damage rolls made with this magic weapon.

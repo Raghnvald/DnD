@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/4
-- new/monster/size/huge
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Walrus
+- "Giant Walrus"
 ---
-# [Giant Walrus](3-Mechanics\CLI\bestiary\beast/giant-walrus-idrotf.md)
+# [Giant Walrus](3-Mechanics/CLI/bestiary/beast/giant-walrus-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 312*  
 
 Giant walruses are enormous, ill-tempered creatures as big as elephants. A typical adult specimen weighs at least 12,000 pounds.
@@ -34,7 +34,8 @@ Giant walruses are enormous, ill-tempered creatures as big as elephants. A typic
   - !!int "11"
   - !!int "4"
 "speed": "20 ft., swim 40 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "4"
 "traits":
@@ -52,6 +53,6 @@ Giant walruses are enormous, ill-tempered creatures as big as elephants. A typic
     "name": "Tusks"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-walrus-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-walrus-idrotf.webp"
 ```
 ^statblock

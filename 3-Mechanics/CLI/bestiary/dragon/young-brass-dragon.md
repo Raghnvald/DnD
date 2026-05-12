@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Brass Dragon
+- "Young Brass Dragon"
 ---
-# [Young Brass Dragon](3-Mechanics\CLI\bestiary\dragon/young-brass-dragon.md)
+# [Young Brass Dragon](3-Mechanics/CLI/bestiary/dragon/young-brass-dragon.md)
 *Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -106,38 +106,39 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 16"
 "languages": "Common, Draconic"
 "cr": "6"
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d10 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d10 + 4) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Fire Breath.**\
       \ The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature\
-      \ in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature\
-      \ in that area must succeed on a DC 14 Constitution saving throw or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ for 5 minutes. This effect ends for a creature if the creature takes damage\
-      \ or someone uses an action to wake it.  "
+      \ in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6)\
+      \ fire damage on a failed save, or half as much damage on a successful one.\
+      \  \n- **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each\
+      \ creature in that area must succeed on a DC 14 Constitution saving throw or\
+      \ fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) for 5\
+      \ minutes. This effect ends for a creature if the creature takes damage or someone\
+      \ uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-brass-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-brass-dragon.webp"
 ```
 ^statblock
 

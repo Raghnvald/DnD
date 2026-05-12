@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/optional-feature/mv-b
 aliases:
-- Quick Toss
+- "Quick Toss"
 ---
 # Quick Toss
 *Source: Tasha's Cauldron of Everything p. 42*  

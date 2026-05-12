@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Quaal's Feather Token, Anchor"
 ---
 # Quaal's Feather Token, Anchor
 *Wondrous item, minor, rare*  
-
+![](3-Mechanics/CLI/items/img/quaals-feather-token-anchor.webp#right)
 
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect.

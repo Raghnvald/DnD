@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cradle of the Cloud Scion
+- "Cradle of the Cloud Scion"
 ---
-# [Cradle of the Cloud Scion](3-Mechanics\CLI\bestiary\elemental/cradle-of-the-cloud-scion-bgg.md)
+# [Cradle of the Cloud Scion](3-Mechanics/CLI/bestiary/elemental/cradle-of-the-cloud-scion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 166*  
 
 A slumbering scion of Memnor appears as a dense, slowly drifting tower of clouds that never dissipates. Often, this cloud lingers over a remote valley, creating a constantly overcast sky. Sapient creatures who live beneath this cloud often display superstitious and duplicitous behavior, almost unconsciously leaving gifts for "rain spirits" while playing mischievous pranks on each other.
@@ -53,16 +53,13 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison, thunder"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, stunned"
 "senses": "passive Perception 16"
 "languages": "Giant, Primordial"
 "cr": "26"
 "traits":
-  - "desc": "The cradle is a container for the [scion of Memnor](/3-Mechanics/CLI/bestiary/giant/scion-of-memnor-bgg.md).\
+  - "desc": "The cradle is a container for the [scion of Memnor](3-Mechanics/CLI/bestiary/giant/scion-of-memnor-bgg.md).\
       \ When the cradle drops to 0 hit points, its body dissipates into cloud wisps.\
       \ The scion instantly appears in the space the cradle occupied and uses the\
       \ cradle's initiative count."
@@ -80,37 +77,32 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "actions":
   - "desc": "The cradle makes three Slam or Wind Javelin attacks in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 31\
-      \ (4d10 + 9) bludgeoning damage plus 19 (3d12) thunder damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:*\
+      \ 31 (4d10 + 9) bludgeoning damage plus 19 (3d12) thunder damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +17 to hit, range 120 ft., one target. *Hit:*\
-      \ 27 (4d8 + 9) bludgeoning damage plus 10 (3d6) thunder damage, and the target\
-      \ must succeed on a DC 25 Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition."
+      \ 27 (4d8 + 9) bludgeoning damage plus 10 (3d6) thunder damage, and the\
+      \ target must succeed on a DC 25 Strength saving throw or have the prone condition."
     "name": "Wind Javelin"
   - "desc": "The cradle conjures a vortex of wind at a point it can see within 90\
       \ feet of itself. The wind vortex is a 30-foot-radius, 100-foot-high cylinder\
       \ centered on that point. Each creature other than the cradle in that area must\
       \ make a DC 25 Dexterity saving throw. On a failed save, a creature takes 71\
-      \ (11d12) bludgeoning damage and has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition within the vortex. On a successful save, a creature takes half as\
-      \ much damage and is pushed to the nearest unoccupied space outside the cylinder.\
-      \ The vortex lasts until the start of the cradle's next turn. A creature with\
-      \ the [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition falls\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone) when the vortex ends.\n\nA creature\
-      \ with the [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition\
+      \ (11d12) bludgeoning damage and has the restrained condition within the vortex.\
+      \ On a successful save, a creature takes half as much damage and is pushed to\
+      \ the nearest unoccupied space outside the cylinder. The vortex lasts until\
+      \ the start of the cradle's next turn. A creature with the restrained condition\
+      \ falls prone when the vortex ends.\n\nA creature with the restrained condition\
       \ can use its action to try to escape the vortex. The creature makes a DC 19\
-      \ Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity\
-      \ ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check. On a successful\
-      \ check, the creature escapes and moves 3d6 × 10 feet away from the vortex in\
-      \ a random direction."
+      \ Strength (Athletics) or Dexterity (Acrobatics) check. On a successful check,\
+      \ the creature escapes and moves 3d6 × 10 feet away from the vortex in a random\
+      \ direction."
     "name": "Vortex (Recharge 5-6)"
 "reactions":
   - "desc": "Immediately after taking damage, the cradle unleashes a thunderclap in\
       \ a 30-foot-radius sphere centered on itself. All other creatures in that area\
       \ must succeed on a DC 25 Constitution saving throw or take 18 (4d8) thunder\
-      \ damage and have the [deafened](/3-Mechanics/CLI/conditions.md#Deafened) condition\
-      \ for 1 minute."
+      \ damage and have the deafened condition for 1 minute."
     "name": "Thunderclap"
 "regional_effects":
   - "desc": "The region surrounding a scion of Memnor is altered by the giant's magic,\
@@ -129,6 +121,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-cloud-scion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-cloud-scion-bgg.webp"
 ```
 ^statblock

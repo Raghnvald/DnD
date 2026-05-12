@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zalthar Shadowdusk
+- "Zalthar Shadowdusk"
 ---
-# [Zalthar Shadowdusk](3-Mechanics\CLI\bestiary\npc/zalthar-shadowdusk-wdmm.md)
+# [Zalthar Shadowdusk](3-Mechanics/CLI/bestiary/npc/zalthar-shadowdusk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 286*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Chaotic Evil"
 "ac": !!int "20"
-"ac_class": "plate armor, shield"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "180"
 "hit_dice": "19d8 + 95"
 "modifier": !!int "0"
@@ -38,33 +38,44 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "10"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "exhaustion, frightened, poisoned"
-"senses": "darkvision 120 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, Common, Deep Speech"
 "cr": "17"
 "traits":
   - "desc": "Zalthar is a 19th-level spellcaster. Its spellcasting ability is Charisma\
-      \ (spell save DC 18, +10 to hit with spell attacks). It has the following paladin\
-      \ spells prepared:\n\n**1st level (4 slots):** command, compelled duel, searing\
-      \ smite\n\n**2nd level (3 slots):** hold person, magic weapon\n\n**3rd level\
-      \ (3 slots):** dispel magic, elemental weapon\n\n**4th level (3 slots):** locate\
-      \ creature, staggering smite\n\n**5th level (2 slots):** destructive wave (necrotic)"
+      \ (spell save DC 18, +10 to hit with spell attacks). It has the following\
+      \ paladin spells prepared:\n\n**1st level (4 slots):** [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [compelled duel](3-Mechanics/CLI/spells/compelled-duel-xphb.md), [searing\
+      \ smite](3-Mechanics/CLI/spells/searing-smite-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md)\n\
+      \n**3rd level (3 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [elemental weapon](3-Mechanics/CLI/spells/elemental-weapon-xphb.md)\n\n**4th\
+      \ level (3 slots):** [locate creature](3-Mechanics/CLI/spells/locate-creature-xphb.md),\
+      \ [staggering smite](3-Mechanics/CLI/spells/staggering-smite-xphb.md)\n\n**5th\
+      \ level (2 slots):** [destructive wave](3-Mechanics/CLI/spells/destructive-wave-xphb.md)\
+      \ (necrotic)"
     "name": "Spellcasting"
-  - "desc": "Zalthar wields a nine lives stealer longsword with 5 charges remaining."
+  - "desc": "Zalthar wields a [nine lives stealer](3-Mechanics/CLI/items/nine-lives-stealer-xdmg.md)\
+      \ longsword with 5 charges remaining."
     "name": "Special Equipment"
   - "desc": "Zalthar has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
-  - "desc": "Unless Zalthar is incapacitated, it and undead creatures of its choice\
-      \ within 60 feet of it have advantage on saving throws against features that\
-      \ turn undead."
+  - "desc": "Unless Zalthar is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
+      \ it and undead creatures of its choice within 60 feet of it have advantage\
+      \ on saving throws against features that turn undead."
     "name": "Marshal Undead"
 "actions":
   - "desc": "Zalthar makes three longsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (1d8 + 7) slashing damage, or 12 (1d10 + 7) slashing damage if used with two\
-      \ hands, plus 18 (4d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 11 (1d8 + 7) slashing damage, or 12 (1d10 + 7) slashing damage if used\
+      \ with two hands, plus 18 (4d8) necrotic damage."
     "name": "Nine Lives Stealer Longsword"
   - "desc": "Zalthar hurls a magical ball of fire that explodes at a point it can\
       \ see within 120 feet of it. Each creature in a 20-foot-radius sphere centered\
@@ -78,6 +89,6 @@ aliases:
     "name": "Parry"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zalthar-shadowdusk-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zalthar-shadowdusk-wdmm.webp"
 ```
 ^statblock

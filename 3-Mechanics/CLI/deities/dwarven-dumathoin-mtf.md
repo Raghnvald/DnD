@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Dumathoin
+aliases:
+- "Dumathoin"
 ---
 # Dumathoin
 *Source: Mordenkainen's Tome of Foes p. 73* 

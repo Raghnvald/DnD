@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/war
-aliases: 
-- Moradin
+aliases:
+- "Moradin"
 ---
 # Moradin
 *Source: Dungeon Master's Guide p. 10, Xanathar's Guide to Everything p. 18* 

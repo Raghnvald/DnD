@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/hobgoblin
 aliases:
-- Hobgoblin
+- "Hobgoblin"
 ---
 # Hobgoblin
 *Source: Dungeon Master's Guide p. 282*  
@@ -20,7 +20,7 @@ aliases:
 
 ### Martial Advantage
 
-Once per turn, you can deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).
+Once per turn, you can deal an extra `2d6` damage to a creature you hit with a weapon attack if that creature is within 5 ft. of an ally of yours that isn't incapacitated.
 
 ### Darkvision
 

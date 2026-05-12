@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/item/rarity/rare
+aliases:
 - "Eagle Whistle"
 ---
 # Eagle Whistle

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/unknown/magic
-- new/item/wondrous/other
-aliases: 
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/item/rarity/unknown/magic
+- ttrpg-cli/item/wondrous/other
+aliases:
 - "White Dragon Cape"
 ---
 # White Dragon Cape

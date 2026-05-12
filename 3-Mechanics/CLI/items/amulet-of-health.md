@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Amulet of Health"
 ---
 # Amulet of Health
 *Wondrous item, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/amulet-of-health.webp#right)
+![](3-Mechanics/CLI/items/img/amulet-of-health.webp#right)
 
 - **Weight**: 1.0 lbs.
 

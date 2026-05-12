@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Modron Quadrone
+- "Modron Quadrone"
 ---
-# [Modron Quadrone](3-Mechanics\CLI\bestiary\construct/modron-quadrone-xmm.md)
+# [Modron Quadrone](3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md)
 *Source: Monster Manual (2024) p. 218*  
 
 Quadrones are among the most relatable modrons—and those most likely to go rogue.
@@ -39,8 +39,6 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 Whether in service to lawful deities or as part of the Great Modron March, modrons travel from Mechanus to spread their vision of law to other planes of existence. Roll on or choose a result from the Modron Operations table to inspire what effort leads a group of modrons to other realms.
 
 **Modron Operations**
-
-`dice: [](modron-quadrone-xmm.md#^modron-operations)`
 
 | dice: 1d8 | The Modrons Work To... |
 |-----------|------------------------|
@@ -77,11 +75,11 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 12"
 "languages": "Modron"
 "cr": "1"
 "traits":
@@ -93,11 +91,12 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Force damage."
     "name": "Slam"
-  - "desc": "*Ranged Attack Roll:* +4, range 320 ft. *Hit:* 4 (1d4 + 2) Force damage."
+  - "desc": "*Ranged Attack Roll:* +4, range 320 ft. *Hit:* 4 (1d4 + 2) Force\
+      \ damage."
     "name": "Gears Launcher"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-quadrone-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/modron-quadrone-xmm.webp"
 ```
 ^statblock
 

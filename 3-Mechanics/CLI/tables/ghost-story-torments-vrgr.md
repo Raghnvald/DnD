@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Ghost Story Torments
+- "Ghost Story Torments"
 ---
 # Ghost Story Torments
 *Source: Van Richten's Guide to Ravenloft p. 55* 
 
 **Ghost Story Torments**
-
-`dice: [](ghost-story-torments-vrgr.md#^ghost-story-torments)`
 
 | dice: d8 | Torment |
 |----------|---------|

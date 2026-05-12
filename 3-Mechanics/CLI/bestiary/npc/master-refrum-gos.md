@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master Refrum
+- "Master Refrum"
 ---
-# [Master Refrum](3-Mechanics\CLI\bestiary\npc/master-refrum-gos.md)
+# [Master Refrum](3-Mechanics/CLI/bestiary/npc/master-refrum-gos.md)
 *Source: Ghosts of Saltmarsh p. 165*  
 
 ```statblock
@@ -41,6 +41,8 @@ aliases:
     "desc": "+3"
   - "name": "Religion"
     "desc": "+5"
+"gear":
+  - "mace"
 "senses": "passive Perception 13"
 "languages": "any two languages"
 "cr": "2"
@@ -59,11 +61,11 @@ aliases:
       \ each level above 1st."
     "name": "Divine Eminence"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage."
     "name": "Mace"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/master-refrum-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/master-refrum-gos.webp"
 ```
 ^statblock

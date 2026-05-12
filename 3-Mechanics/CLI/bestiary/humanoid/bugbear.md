@@ -13,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bugbear
+- "Bugbear"
 ---
-# [Bugbear](3-Mechanics\CLI\bestiary\humanoid/bugbear.md)
-*Source: Monster Manual p. 33, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md)
+*Source: Monster Manual p. 33. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
@@ -39,7 +39,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "hide armor, shield"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "27"
 "hit_dice": "5d8 + 5"
 "modifier": !!int "2"
@@ -52,11 +52,15 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
@@ -64,21 +68,20 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
       \ with it (included in the attack)."
     "name": "Brute"
   - "desc": "If the bugbear surprises a creature and hits it with an attack during\
-      \ the first round of combat, the target takes an extra 7 (2d6) damage from the\
-      \ attack."
+      \ the first round of combat, the target takes an extra 7 (2d6) damage from\
+      \ the attack."
     "name": "Surprise Attack"
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d8 + 2) piercing damage."
     "name": "Morningstar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2)\
-      \ piercing damage at range."
+      \ ft., one target. *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6\
+      \ + 2) piercing damage at range."
     "name": "Javelin"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bugbear.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bugbear.webp"
 ```
 ^statblock
 

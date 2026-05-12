@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Coinage; Standard Exchange Rates
+- "Coinage; Standard Exchange Rates"
 ---
 # Coinage; Standard Exchange Rates
 *Source: Player's Handbook p. 143. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

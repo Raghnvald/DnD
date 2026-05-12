@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Domains of Ravenloft
+- "Domains of Ravenloft"
 ---
 # Domains of Ravenloft
 *Source: Van Richten's Guide to Ravenloft p. 168* 
 
 **Domains of Ravenloft**
-
-`dice: [](domains-of-ravenloft-vrgr.md#^domains-of-ravenloft)`
 
 | dice: d100 | Domain |
 |------------|--------|

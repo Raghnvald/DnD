@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Dretches
+- "Swarm of Dretches"
 ---
-# [Swarm of Dretches](3-Mechanics\CLI\bestiary\fiend/swarm-of-dretches-xmm.md)
+# [Swarm of Dretches](3-Mechanics/CLI/bestiary/fiend/swarm-of-dretches-xmm.md)
 *Source: Monster Manual (2024) p. 104*  
 
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
@@ -53,38 +53,38 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, fire, lightning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
 "cr": "4"
 "traits":
   - "desc": "*Constitution Saving Throw:* DC 12, any creature that starts its turn\
-      \ in a 10-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the swarm. *Failure:* The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the start of its next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target can take either an action or a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md)\
+      \ in a 10-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the swarm. *Failure:* The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ condition until the start of its next turn. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ the target can take either an action or a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md)\
       \ on its turn, not both, and it can't take Reactions."
     "name": "Fetid Aura"
   - "desc": "The swarm can occupy another creature's space and vice versa, and the\
       \ swarm can move through any opening large enough for a Small creature. The\
-      \ swarm can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ or gain [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+      \ swarm can't regain [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
+      \ or gain [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)."
     "name": "Swarm"
 "actions":
   - "desc": "The swarm makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Slashing damage,\
-      \ or 9 (3d4 + 2) Slashing damage if the swarm is [Bloodied](/3-Mechanics/CLI/conditions.md#Bloodied)."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 12 (3d6 + 2) Slashing\
+      \ damage, or 9 (3d4 + 2) Slashing damage if the swarm is [Bloodied](3-Mechanics/CLI/rules/conditions.md#Bloodied)."
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/swarm-of-dretches-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/swarm-of-dretches-xmm.webp"
 ```
 ^statblock
 

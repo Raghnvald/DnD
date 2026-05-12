@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/eepc
-- new/race/aarakocra
+- ttrpg-cli/compendium/src/5e/eepc
+- ttrpg-cli/race/aarakocra
 aliases:
-- Aarakocra
+- "Aarakocra"
 ---
 # Aarakocra
 *Source: Elemental Evil Player's Companion p. 5, Explorer's Guide to Wildemount p. 165*  
-![](/3-Mechanics/CLI/races/img/aarakocra.webp#right)
+![](3-Mechanics/CLI/races/img/aarakocra.webp#right)
 
 - **Ability Scores**: dex +2 wis +1
 - **Size**: Medium
@@ -36,7 +36,7 @@ You have a flying speed of 50 feet. To use this speed, you can't be wearing medi
 
 ### Talons
 
-Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+Your talons are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to `1d4` + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Language
 

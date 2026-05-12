@@ -11,13 +11,13 @@ tags:
 - ttrpg-cli/spell/feat/artificer-initiate
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/feat/shadow-touched
+- ttrpg-cli/spell/feat/strixhaven-initiate/witherbloom-3
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/fiendish-vigor
+- ttrpg-cli/spell/race/tiefling/chthonic
 - ttrpg-cli/spell/school/necromancy
 - ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/blood-domain
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/death-domain
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/grave-domain
 - ttrpg-cli/spell/subclass/the-undead
@@ -26,8 +26,6 @@ classes:
 - Artificer
 - Bard
 - Bard (College of Lore)
-- Cleric (Blood Domain)
-- Cleric (Death Domain)
 - Cleric (Grave Domain)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
@@ -36,7 +34,7 @@ classes:
 - Warlock (The Undying)
 - Wizard
 aliases:
-- False Life
+- "False Life"
 ---
 # False Life
 *1st-level, Necromancy*  
@@ -47,10 +45,10 @@ aliases:
 - **Components:** V, S, M (a drop of alcohol)
 - **Duration:** Instantaneous
 
-You gain `dice:2d4+4|noform|noparens|avg` (`2d4 + 4`) [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
+You gain `2d4 + 4` [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
 
-**Using a Higher-Level Spell Slot.** You gain 5 additional [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You gain 5 additional [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) for each spell slot level above 1.
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Blood Domain)](/3-Mechanics/CLI/lists/list-spells-classes-blood-domain-tdcsr.md "subclass=TDCSR;class=XPHB"); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Grave Domain)](/3-Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Undead)](/3-Mechanics/CLI/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR;class=XPHB"); [Warlock (The Undying)](/3-Mechanics/CLI/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](3-Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Undead)](3-Mechanics/CLI/lists/list-spells-classes-the-undead-vrgr.md "subclass=VRGR;class=XPHB"); [Warlock (The Undying)](3-Mechanics/CLI/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

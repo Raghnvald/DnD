@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lowarnizel
+- "Lowarnizel"
 ---
-# [Lowarnizel](3-Mechanics\CLI\bestiary\npc/lowarnizel-pabtso.md)
+# [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 181*  
 
 Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral human mage named Gossa. Both hate the Far Realm and anything tainted by it.
@@ -42,18 +42,18 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "force, psychic"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 20"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "9"
@@ -63,23 +63,23 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
 "actions":
   - "desc": "Lowarnizel makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage plus 4 (1d8) force damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage plus 4 (1d8) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) slashing damage."
     "name": "Claw"
   - "desc": "Lowarnizel creates a shining bead of gravitational force, then releases\
       \ the energy in a 30-foot cone. Each creature in that area must make a DC 17\
-      \ Strength saving throw. On a failed save, a creature takes 36 (8d8) force damage,\
-      \ and its speed becomes 0 until the start of the dragon's next turn. On a successful\
-      \ save, a creature takes half as much damage only."
+      \ Strength saving throw. On a failed save, a creature takes 36 (8d8) force\
+      \ damage, and its speed becomes 0 until the start of the dragon's next turn.\
+      \ On a successful save, a creature takes half as much damage only."
     "name": "Singularity Breath (Recharge 5-6)"
   - "desc": "Lowarnizel casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **1/day each:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [haste](/3-Mechanics/CLI/spells/haste-xphb.md), [protection from evil and\
-      \ good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md)"
+      **1/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [haste](3-Mechanics/CLI/spells/haste.md),\
+      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "Lowarnizel magically transforms into any creature that is Medium or Small,\
@@ -89,6 +89,6 @@ Lowarnizel is a young amethyst dragon, and his companion is a lawful neutral hum
     "name": "Change Shape"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lowarnizel-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lowarnizel-pabtso.webp"
 ```
 ^statblock

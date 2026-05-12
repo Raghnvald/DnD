@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dao
+- "Dao"
 ---
-# [Dao](3-Mechanics\CLI\bestiary\elemental/dao.md)
+# [Dao](3-Mechanics/CLI/bestiary/elemental/dao.md)
 *Source: Monster Manual p. 143*  
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -84,22 +84,24 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   - "intelligence": !!int "5"
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
-"condition_immunities": "[petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)"
+"gear":
+  - "[maul](3-Mechanics/CLI/items/maul.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Terran"
 "cr": "11"
 "traits":
   - "desc": "The dao's innate spellcasting ability is Charisma (spell save DC 14,\
       \ +6 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [stone shape](/3-Mechanics/CLI/spells/stone-shape.md)\n\
-      \n**3/day each:** [passwall](/3-Mechanics/CLI/spells/passwall.md), [move earth](/3-Mechanics/CLI/spells/move-earth.md),\
-      \ [tongues](/3-Mechanics/CLI/spells/tongues.md)\n\n**1/day each:** [conjure\
-      \ elemental](/3-Mechanics/CLI/spells/conjure-elemental.md) ([earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental.md)\
-      \ only), [gaseous form](/3-Mechanics/CLI/spells/gaseous-form.md), [invisibility](/3-Mechanics/CLI/spells/invisibility.md),\
-      \ [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer.md), [plane\
-      \ shift](/3-Mechanics/CLI/spells/plane-shift.md), [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone.md)"
+      \ requiring no material components:\n\n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [stone shape](3-Mechanics/CLI/spells/stone-shape.md)\n\
+      \n**3/day each:** [passwall](3-Mechanics/CLI/spells/passwall.md), [move earth](3-Mechanics/CLI/spells/move-earth.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues.md)\n\n**1/day each:** [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental.md)\
+      \ ([earth elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md)\
+      \ only), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
+      \ [phantasmal killer](3-Mechanics/CLI/spells/phantasmal-killer.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md),\
+      \ [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md)"
     "name": "Innate Spellcasting"
   - "desc": "The dao can burrow through nonmagical, unworked earth and stone. While\
       \ doing so, the dao doesn't disturb the material it moves through."
@@ -108,21 +110,21 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
       \ behind only equipment the dao was wearing or carrying."
     "name": "Elemental Demise"
   - "desc": "The dao has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
   - "desc": "The Dao makes two fist attacks or two maul attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) bludgeoning damage."
     "name": "Fist"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it must succeed on a DC 18 Strength check or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature,\
+      \ it must succeed on a DC 18 Strength check or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Maul"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/dao.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/dao.webp"
 ```
 ^statblock
 

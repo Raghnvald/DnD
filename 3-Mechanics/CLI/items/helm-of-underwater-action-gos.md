@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/gos
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Helm of Underwater Action"
 ---
 # Helm of Underwater Action
@@ -14,6 +14,6 @@ aliases:
 
 
 
-While wearing this brass helmet, you can breathe underwater, you gain darkvision with a range of 60 feet, and you gain a swimming speed of 30 feet.
+While wearing this brass helmet, you can breathe underwater, you gain [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet, and you gain a swimming speed of 30 feet.
 
-*Source: Ghosts of Saltmarsh p. 229*
+*Source: Ghosts of Saltmarsh p. 229, Infernal Machine Rebuild p. 94*

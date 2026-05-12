@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deck Defender
+- "Deck Defender"
 ---
-# [Deck Defender](3-Mechanics\CLI\bestiary\construct/deck-defender-bmt.md)
+# [Deck Defender](3-Mechanics/CLI/bestiary/construct/deck-defender-bmt.md)
 *Source: The Book of Many Things p. 72*  
 
 ```statblock
@@ -68,6 +68,6 @@ aliases:
     "name": "Protection (Guardian Form Only)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/deck-defender-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/deck-defender-bmt.webp"
 ```
 ^statblock

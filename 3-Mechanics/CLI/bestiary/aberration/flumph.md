@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flumph
+- "Flumph"
 ---
-# [Flumph](3-Mechanics\CLI\bestiary\aberration/flumph.md)
+# [Flumph](3-Mechanics/CLI/bestiary/aberration/flumph.md)
 *Source: Monster Manual p. 135*  
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
@@ -52,50 +52,50 @@ Flumphs live in complex and organized groups called cloisters, within which each
   - !!int "11"
 "speed": "5 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "damage_vulnerabilities": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands Undercommon but can't speak, telepathy 60 ft."
 "cr": "1/8"
 "traits":
   - "desc": "The flumph can perceive the content of any telepathic communication used\
-      \ within 60 feet of it, and it can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised)\
+      \ within 60 feet of it, and it can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
       \ by creatures with any form of telepathy."
     "name": "Advanced Telepathy"
-  - "desc": "If the flumph is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-      \ roll a die. On an odd result, the flumph lands upside-down and is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).\
+  - "desc": "If the flumph is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+      \ roll a die. On an odd result, the flumph lands upside-down and is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
       \ At the end of each of its turns, the flumph can make a DC 10 Dexterity saving\
-      \ throw, righting itself and ending the [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ throw, righting itself and ending the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition if it succeeds."
     "name": "Prone Deficiency"
   - "desc": "The flumph is immune to any effect that would sense its emotions or read\
       \ its thoughts, as well as all divination spells."
     "name": "Telepathic Shroud"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each of\
-      \ its turns, the target must make a DC 10 Constitution saving throw, taking\
-      \ 2 (1d4) acid damage on a failure or ending the recurring acid damage on a\
-      \ success. A [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration.md)\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage plus 2 (1d4) acid damage. At the end of each\
+      \ of its turns, the target must make a DC 10 Constitution saving throw, taking\
+      \ 2 (1d4) acid damage on a failure or ending the recurring acid damage on\
+      \ a success. A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\
       \ spell cast on the target also ends the recurring acid damage."
     "name": "Tendrils"
   - "desc": "Each creature in a 15-foot cone originating from the flumph must succeed\
       \ on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid.\
       \ A coated creature exudes a horrible stench for 1d4 hours. The coated creature\
-      \ is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) as long as the stench\
-      \ lasts, and other creatures are [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) as long as the\
+      \ stench lasts, and other creatures are [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ while with in 5 feet of the coated creature. A creature can remove the stench\
       \ on itself by using a short rest to bathe in water, alcohol, or vinegar."
     "name": "Stench Spray (1/Day)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/flumph.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/flumph.webp"
 ```
 ^statblock
 

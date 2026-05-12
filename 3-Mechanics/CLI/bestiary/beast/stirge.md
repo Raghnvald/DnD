@@ -19,10 +19,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stirge
+- "Stirge"
 ---
-# [Stirge](3-Mechanics\CLI\bestiary\beast/stirge.md)
-*Source: Monster Manual p. 284, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md)
+*Source: Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
 
@@ -50,22 +50,22 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
   - !!int "8"
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
-"senses": "darkvision 60 ft., passive Perception 9"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached,\
-      \ the stirge doesn't attack. Instead, at the start of each of the stirge's turns,\
-      \ the target loses 5 (1d4 + 3) hit points due to blood loss.\n\nThe stirge can\
-      \ detach itself by spending 5 feet of its movement. It does so after it drains\
-      \ 10 hit points of blood from the target or the target dies. A creature, including\
-      \ the target, can use its action to detach the stirge."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While\
+      \ attached, the stirge doesn't attack. Instead, at the start of each of the\
+      \ stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.\n\
+      \nThe stirge can detach itself by spending 5 feet of its movement. It does so\
+      \ after it drains 10 hit points of blood from the target or the target dies.\
+      \ A creature, including the target, can use its action to detach the stirge."
     "name": "Blood Drain"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/stirge.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/stirge.webp"
 ```
 ^statblock
 

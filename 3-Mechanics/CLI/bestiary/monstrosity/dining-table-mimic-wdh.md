@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dining Table Mimic
+- "Dining Table Mimic"
 ---
-# [Dining Table Mimic](3-Mechanics\CLI\bestiary\monstrosity/dining-table-mimic-wdh.md)
+# [Dining Table Mimic](3-Mechanics/CLI/bestiary/monstrosity/dining-table-mimic-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 122*  
 
 ```statblock
@@ -35,11 +35,12 @@ aliases:
   - !!int "8"
 "speed": "15 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "prone"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -49,28 +50,28 @@ aliases:
       \ it dies."
     "name": "Shapechanger"
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic is also grappled by it (escape DC 13). Ability checks\
-      \ made to escape this grapple have disadvantage."
+      \ adhered to the mimic is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it (escape DC 13). Ability checks made to escape this grapple have disadvantage."
     "name": "Adhesive (Object Form Only)"
   - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
       \ object."
     "name": "False Appearance (Object Form Only)"
-  - "desc": "The mimic has advantage on attack rolls against any creature grappled\
+  - "desc": "The mimic has advantage on attack rolls against any creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by it."
     "name": "Grappler"
 "actions":
   - "desc": "The mimic can make three attacks; two with its pseudopods and one with\
       \ its bite"
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage. If the mimic is in object form, the target is subjected\
-      \ to its Adhesive trait."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target\
+      \ is subjected to its Adhesive trait."
     "name": "Pseudopod"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage plus 4 (1d8) acid damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage plus 4 (1d8) acid damage."
     "name": "Bite"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/dining-table-mimic-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/dining-table-mimic-wdh.webp"
 ```
 ^statblock

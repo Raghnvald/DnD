@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yeenoghu
+- "Yeenoghu"
 ---
-# [Yeenoghu](3-Mechanics\CLI\bestiary\npc/yeenoghu-mpmm.md)
+# [Yeenoghu](3-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270, Mordenkainen's Tome of Foes p. 155*  
 
 The Beast of Butchery appears as a great scarred gnoll, towering 14 feet tall. Yeenoghu is the Gnoll Lord, and his creations are made in his twisted image. When the demon lord hunted across the Material Plane, packs of hyenas followed in his wake, and those that ate of great Yeenoghu's kills became gnolls. Few others worship the Beast of Butchery, but those who do tend to take on a gnoll-like aspect, hunching over and filing their teeth down to points.
@@ -28,7 +28,7 @@ The Gnoll Lord is covered in matted fur and leathery hide, and his face resemble
 
 ## Yeenoghu's Lair
 
-Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md), [hyenas](/3-Mechanics/CLI/bestiary/beast/hyena-xmm.md), and [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md), and there are few structures or signs of civilization on his layer of the Abyss.
+Yeenoghu's lair in the Abyss is called the Death Dells. Its barren hills and ravines serve as a hunting ground, where he pursues captured mortals in a cruel game. Yeenoghu's lair is a place of blood and death, populated by [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md), [hyenas](3-Mechanics/CLI/bestiary/beast/hyena.md), and [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul.md), and there are few structures or signs of civilization on his layer of the Abyss.
 
 The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his lair.
 
@@ -56,16 +56,18 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
   - "constitution": !!int "15"
   - "wisdom": !!int "14"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[flail](3-Mechanics/CLI/items/flail.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "24"
 "traits":
@@ -77,25 +79,24 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 "actions":
   - "desc": "Yeenoghu makes three Flail attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 22\
-      \ (2d12 + 9) force damage. If it's his turn, Yeenoghu can cause the target to\
-      \ suffer one of the following additional effects, each of which he can apply\
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:*\
+      \ 22 (2d12 + 9) force damage. If it's his turn, Yeenoghu can cause the target\
+      \ to suffer one of the following additional effects, each of which he can apply\
       \ only once per turn\n\n- **Confusion.** The target must succeed on a DC 17\
       \ Wisdom saving throw or be affected by the confusion spell until the start\
       \ of Yeenoghu's next turn.  \n- **Force.** The target takes an extra 13 (2d12)\
       \ force damage.  \n- **Paralysis.** The target must succeed on a DC 17 Constitution\
-      \ saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) until\
-      \ the start of Yeenoghu's next turn.  "
+      \ saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the start of Yeenoghu's next turn.  "
     "name": "Flail"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 20\
-      \ (2d10 + 9) acid damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 20 (2d10 + 9) acid damage."
     "name": "Bite"
   - "desc": "Yeenoghu casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md)\n\n**3/day\
-      \ each:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](/3-Mechanics/CLI/spells/fear-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\n\n**1/day:**\
-      \ [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)"
+      \ will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md)\n\n**3/day\
+      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fear](3-Mechanics/CLI/spells/fear.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md)\n\n**1/day:** [teleport](3-Mechanics/CLI/spells/teleport.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "When Yeenoghu reduces a creature to 0 hit points with a melee attack,\
@@ -111,7 +112,7 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
       \ inch in diameter—to burst from the ground at a point he can see within 100\
       \ feet of him. Any creature in the space where the spike emerges must make a\
       \ DC 24 Dexterity saving throw. On a failed save, the creature takes 27 (6d8)\
-      \ piercing damage and is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ piercing damage and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ by being impaled on the spike. A creature can use an action to remove itself\
       \ (or a creature it can reach) from the spike, ending the restrained condition.\
       \  \n- **Pack Rush.** Each gnoll or hyena that Yeenoghu can see can use its\
@@ -136,7 +137,7 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
   - "desc": "Yeenoghu makes one Flail attack. If the attack hits, the target must\
       \ succeed on a DC 24 Strength saving throw or be pushed up to 15 feet in a straight\
       \ line away from Yeenoghu. If the saving throw fails by 5 or more, the target\
-      \ is also knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ is also knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Swat Away"
   - "desc": "Yeenoghu makes a separate Bite attack against each creature within 10\
       \ feet of him."
@@ -144,6 +145,6 @@ The challenge rating of Yeenoghu is 25 (75,000 XP) when he's encountered in his 
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/yeenoghu-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/yeenoghu-mpmm.webp"
 ```
 ^statblock

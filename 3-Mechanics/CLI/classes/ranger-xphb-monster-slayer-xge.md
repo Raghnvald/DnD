@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/ranger/monster-slayer
 aliases:
-- Monster Slayer
+- "Monster Slayer"
 ---
 # Monster Slayer
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
@@ -47,11 +47,9 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Monster Slayer (Level 3)
-
 You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.
+
+## Subclass Features
 
 ### Monster Slayer Magic (Level 3)
 
@@ -61,11 +59,11 @@ Starting at 3rd level, you learn an additional spell when you reach certain leve
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
-| 5th | [zone of truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md) |
-| 9th | [magic circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md) |
-| 13th | [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) |
-| 17th | [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md) |
+| 3rd | [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
+| 5th | [zone of truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md) |
+| 9th | [magic circle](3-Mechanics/CLI/spells/magic-circle-xphb.md) |
+| 13th | [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) |
+| 17th | [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md) |
 ^monster-slayer-spells
 
 ### Hunter's Sense (Level 3)
@@ -76,13 +74,13 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 ### Slayer's Prey (Level 3)
 
-Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage from the weapon.
+Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra `1d6` damage from the weapon.
 
 This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.
 
 ### Supernatural Defense (Level 7)
 
-At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `dice:1d6|noform|noparens|avg` (`1d6`) to your roll.
+At 7th level, you gain extra resilience against your prey's assaults on your mind and body. Whenever the target of your Slayer's Prey forces you to make a saving throw and whenever you make an ability check to escape that target's grapple, add `1d6` to your roll.
 
 ### Magic-User's Nemesis (Level 11)
 

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Orb of Skoraeus"
 ---
 # Orb of Skoraeus
@@ -25,7 +25,7 @@ The orb has 3 charges and regains all expended charges at dawn. When you cast a 
 
 ## Astute Mind
 
-You gain a +2 bonus to any Constitution saving throw you make to maintain your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on a spell.
+You gain a +2 bonus to any Constitution saving throw you make to maintain your concentration on a spell.
 
 ## Divine Sight
 

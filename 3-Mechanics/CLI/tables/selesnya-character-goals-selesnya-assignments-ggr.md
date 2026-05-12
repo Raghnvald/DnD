@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Selesnya Character Goals; Selesnya Assignments
+- "Selesnya Character Goals; Selesnya Assignments"
 ---
 # Selesnya Character Goals; Selesnya Assignments
 *Source: Guildmasters' Guide to Ravnica p. 156* 
 
 **Selesnya Assignments**
-
-`dice: [](selesnya-character-goals-selesnya-assignments-ggr.md#^selesnya-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

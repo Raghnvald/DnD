@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Creatures
+- "Creatures"
 ---
 # Creatures
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 49* 
@@ -109,7 +109,7 @@ The Saving Throws entry is reserved for creatures that are particularly adept at
 
 The Skills entry is reserved for creatures that are proficient in one or more skills. For example, a perceptive and stealthy creature might have higher-than-normal bonuses to Wisdom (Perception) and Dexterity (Stealth) checks.
 
-Skills in a creature's stat block are shown with the total modifier—the creature's ability modifier plus its proficiency bonus. If a creature's stat block says "Stealth +6," roll a `dice:d20|noform|noparens|avg` (`d20`) and add 6 when the creature makes an ability check using Stealth.
+Skills in a creature's stat block are shown with the total modifier—the creature's ability modifier plus its proficiency bonus. If a creature's stat block says "Stealth +6," roll a `d20` and add 6 when the creature makes an ability check using Stealth.
 
 #### Armor, Weapon, and Tool Proficiencies
 
@@ -163,7 +163,7 @@ The most common actions that a creature will take in combat are melee and ranged
 
 ##### Hit
 
-Any damage or other effects that occur as a result of an attack hitting a target are described here. As the DM, you can take average damage or roll the damage; for this reason, both the average damage and the die expression are presented. For example, a monster might deal `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) slashing damage with its longsword. That notation means you can have the monster deal 4 damage, or you can roll `dice:1d8|noform|noparens|avg` (`1d8`) to determine the damage.
+Any damage or other effects that occur as a result of an attack hitting a target are described here. As the DM, you can take average damage or roll the damage; for this reason, both the average damage and the die expression are presented. For example, a monster might deal 4 (`1d8`) slashing damage with its longsword. That notation means you can have the monster deal 4 damage, or you can roll `1d8` to determine the damage.
 
 ### Reactions
 
@@ -179,7 +179,7 @@ The notation "X/Day" means a special ability can be used a certain number of tim
 
 #### Recharge X–Y
 
-The notation "Recharge X–Y" means a creature can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the creature's turns, roll a `dice:d6|noform|noparens|avg` (`d6`). If the roll is one of the numbers in the recharge notation, the creature regains the use of that special ability. The ability also recharges when the creature finishes a short or long rest.
+The notation "Recharge X–Y" means a creature can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the creature's turns, roll a `d6`. If the roll is one of the numbers in the recharge notation, the creature regains the use of that special ability. The ability also recharges when the creature finishes a short or long rest.
 
 ## Creature Descriptions
 
@@ -187,173 +187,173 @@ The creatures that appear in the adventure are presented in this section in alph
 
 ### Anchorite of Talos
 
-These [religious recluses](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) are granted spellcasting power by Talos, the god of storms. Their human ancestors bred with orcs, and now all anchorites of Talos are half-orcs.
+These [religious recluses](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) are granted spellcasting power by Talos, the god of storms. Their human ancestors bred with orcs, and now all anchorites of Talos are half-orcs.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/036-636960342199103296.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/036-636960342199103296.webp#center)
 
 ### Ankheg
 
-An [ankheg](/3-Mechanics/CLI/bestiary/monstrosity/ankheg.md) resembles an enormous, many-legged insect that burrows underground while using its tremorsense to detect prey. When it detects movement above, it bursts from the ground and uses its mandibles to seize prey. From its maw, it secretes acidic enzymes that help dissolve a victim for easy swallowing. It can squirt these enzymes to take down foes beyond its reach.
+An ankheg resembles an enormous, many-legged insect that burrows underground while using its tremorsense to detect prey. When it detects movement above, it bursts from the ground and uses its mandibles to seize prey. From its maw, it secretes acidic enzymes that help dissolve a victim for easy swallowing. It can squirt these enzymes to take down foes beyond its reach.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/037-636460582309128084.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/037-636460582309128084.webp#center)
 
 ### Banshee
 
-A [banshee](/3-Mechanics/CLI/bestiary/undead/banshee.md) is the hateful spirit of a once-beautiful female elf. It appears as a luminous, wispy form that vaguely recalls its mortal features. A banshee's face is wreathed in a wild tangle of hair, and its body is clad in wispy rags that flutter and stream around it.
+A banshee is the hateful spirit of a once-beautiful female elf. It appears as a luminous, wispy form that vaguely recalls its mortal features. A banshee's face is wreathed in a wild tangle of hair, and its body is clad in wispy rags that flutter and stream around it.
 
 A banshee is forever bound to the place of its demise. It abhors mirrors, for it can't bear to see the horror of its undead existence.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/038-636460867586552503.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/038-636460867586552503.webp#center)
 
 ### Blights
 
 Blights are malevolent, supernatural plant monsters that try to spread evil wherever they can. Three kinds of blights are described here.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/039-blights-v3-corrected-foot.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/039-blights-v3-corrected-foot.webp#center)
 
 #### Needle Blight
 
-In the shadows of a forest, [needle blights](/3-Mechanics/CLI/bestiary/plant/needle-blight.md) might be mistaken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
+In the shadows of a forest, needle blights might be mistaken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 
 #### Twig Blight
 
-[Twig blights](/3-Mechanics/CLI/bestiary/plant/twig-blight.md) can root in soil and resemble woody shrubs while rooted. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs. Given how dry they are, twig blights are particularly susceptible to fire.
+Twig blights can root in soil and resemble woody shrubs while rooted. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs. Given how dry they are, twig blights are particularly susceptible to fire.
 
 #### Vine Blights
 
-Appearing as masses of slithering creepers, [vine blights](/3-Mechanics/CLI/bestiary/plant/vine-blight.md) can animate the plants around them, using these plants to entangle foes. Vine blights are the only blights capable of speech, which they use to taunt victims or bargain with powerful foes.
+Appearing as masses of slithering creepers, vine blights can animate the plants around them, using these plants to entangle foes. Vine blights are the only blights capable of speech, which they use to taunt victims or bargain with powerful foes.
 
 ### Boar
 
-[Boars](/3-Mechanics/CLI/bestiary/beast/boar.md) are dim-witted omnivores that avoid combat unless they are particularly hungry or ornery. A boar attacks by charging and goring enemies with its tusks.
+Boars are dim-witted omnivores that avoid combat unless they are particularly hungry or ornery. A boar attacks by charging and goring enemies with its tusks.
 
 ### Carrion Crawler
 
-[Carrion crawlers](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md) are large subterranean predators and scavengers that scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
+Carrion crawlers are large subterranean predators and scavengers that scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/040-636460892787682128.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/040-636460892787682128.webp#center)
 
 ### Centaur
 
-Reclusive wanderers and omen-readers of the wild, [centaurs](/3-Mechanics/CLI/bestiary/monstrosity/centaur.md) avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
+Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/041-636460662223625909.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/041-636460662223625909.webp#center)
 
 ### Commoner
 
-[Commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) include peasants, serfs, servants, pilgrims, merchants, artisans, and hermits.
+Commoners include peasants, serfs, servants, pilgrims, merchants, artisans, and hermits.
 
 ### Cow
 
-Use the [cow](/3-Mechanics/CLI/bestiary/beast/cow-vgm.md) stat block to represent common varieties of cattle, including oxen.
+Use the cow stat block to represent common varieties of cattle, including oxen.
 
 ### Don-Jon Raskin
 
-Adventurers who undertake the Mountain's Toe Quest meet [Don-Jon Raskin](/3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md), a fearless troubleshooter who has experienced more than his fair share of adventures.
+Adventurers who undertake the Mountain's Toe Quest meet [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md), a fearless troubleshooter who has experienced more than his fair share of adventures.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/042-636960517654418879.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/042-636960517654418879.webp#center)
 
 ### Falcon the Hunter
 
-Adventurers encounter [Falcon the Hunter](/3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md) if they visit his hunting lodge in Neverwinter Wood.
+Adventurers encounter [Falcon the Hunter](3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md) if they visit his hunting lodge in Neverwinter Wood.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/043-636960516130812600.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/043-636960516130812600.webp#center)
 
 ### Ghoul
 
-[Ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) roam in packs, driven by an insatiable hunger for humanoid flesh. They thrive in places rank with decay and death. If they can't gorge on dead flesh and decomposing organs, they pursue living creatures and attempt to make corpses of them.
+Ghouls roam in packs, driven by an insatiable hunger for humanoid flesh. They thrive in places rank with decay and death. If they can't gorge on dead flesh and decomposing organs, they pursue living creatures and attempt to make corpses of them.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/044-ghoul.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/044-ghoul.webp#center)
 
 ### Giant Crab
 
-A [giant crab](/3-Mechanics/CLI/bestiary/beast/giant-crab.md) weighs as much as an average adult human. Protected by a thick shell, it attacks with its pincer claws.
+A giant crab weighs as much as an average adult human. Protected by a thick shell, it attacks with its pincer claws.
 
 ### Giant Rat
 
-[Giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat.md) roam in packs through sewers, caves, and other dank places. They are often found in the company of wererats (see page 64).
+Giant rats roam in packs through sewers, caves, and other dank places. They are often found in the company of wererats (see page 64).
 
 ### Giant Spider
 
-To snare its prey, a [giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
+To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/045-636460723371288078.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/045-636460723371288078.webp#center)
 
 ### Gorthok the Thunder Boar
 
-[Gorthok](/3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md) is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos's evil followers. Like its patron deity, Gorthok revels in destruction.
+[Gorthok](3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md) is a primal nature spirit that takes the form of a boar as big as an elephant, with lightning that dances along its tusks. Gorthok serves the will of Talos, god of storms, and can be summoned during stormy weather to do the bidding of Talos's evil followers. Like its patron deity, Gorthok revels in destruction.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/046-636960495200331563.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/046-636960495200331563.webp#center)
 
 ### Harpy
 
-A [harpy](/3-Mechanics/CLI/bestiary/monstrosity/harpy.md) is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
+A harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/047-636460790974137538.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/047-636460790974137538.webp#center)
 
 ### Hunter Shark
 
-A fully grown [hunter shark](/3-Mechanics/CLI/bestiary/beast/hunter-shark.md) is 15 to 20 feet long.
+A fully grown hunter shark is 15 to 20 feet long.
 
 ### Invisible Stalker
 
-An [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) is a remorseless creature of elemental air. It's naturally invisible, hence its name.
+An invisible stalker is a remorseless creature of elemental air. It's naturally invisible, hence its name.
 
 ### Manticore
 
-[Manticores](/3-Mechanics/CLI/bestiary/monstrosity/manticore.md) are fierce killers that hunt far and wide for prey. They aren't particularly bright but can converse with intelligent prey. If a manticore sees an advantage to be gained by sparing a creature's life, it does so, asking for a tribute or sacrifice equal to the loss of food.
+Manticores are fierce killers that hunt far and wide for prey. They aren't particularly bright but can converse with intelligent prey. If a manticore sees an advantage to be gained by sparing a creature's life, it does so, asking for a tribute or sacrifice equal to the loss of food.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/048-636460819451261614.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/048-636460819451261614.webp#center)
 
 ### Mimic
 
-[Mimics](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md) are shapeshifting predators that can alter their outward texture to resemble wood, stone, and other basic materials. They do so to assume the appearance of inanimate objects that other creatures are likely to come into contact with. A mimic in its altered form is nearly unrecognizable until it sprouts pseudopods and attacks.
+Mimics are shapeshifting predators that can alter their outward texture to resemble wood, stone, and other basic materials. They do so to assume the appearance of inanimate objects that other creatures are likely to come into contact with. A mimic in its altered form is nearly unrecognizable until it sprouts pseudopods and attacks.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/049-636460814187935933.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/049-636460814187935933.webp#center)
 
 ### Ochre Jelly
 
-[Ochre jellies](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md) are yellowish blobs that can slip through narrow cracks in pursuit of creatures to devour. Their digestive enzymes dissolve flesh quickly but have no effect on other substances such as bone, wood, or metal.
+Ochre jellies are yellowish blobs that can slip through narrow cracks in pursuit of creatures to devour. Their digestive enzymes dissolve flesh quickly but have no effect on other substances such as bone, wood, or metal.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/050-636460820040081881.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/050-636460820040081881.webp#center)
 
 ### Ogre
 
-[Ogres](/3-Mechanics/CLI/bestiary/giant/ogre.md) are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands 9 to 10 feet tall and weighs close to a thousand pounds.
+Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands 9 to 10 feet tall and weighs close to a thousand pounds.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/051-636460821919719183.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/051-636460821919719183.webp#center)
 
 ### Orc
 
-[Orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) are savage raiders with an unmatched lust for carnage. They worship a pantheon of evil gods, the mightiest being Gruumsh. While they regard dwarves as natural enemies, orcs hate elves above all, for the elven god Corellon Larethian half-blinded Gruumsh with a well-placed arrow to the orc god's eye. Since then, orcs have taken particular joy in slaughtering elves.
+Orcs are savage raiders with an unmatched lust for carnage. They worship a pantheon of evil gods, the mightiest being Gruumsh. While they regard dwarves as natural enemies, orcs hate elves above all, for the elven god Corellon Larethian half-blinded Gruumsh with a well-placed arrow to the orc god's eye. Since then, orcs have taken particular joy in slaughtering elves.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/052-636460824964500193.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/052-636460824964500193.webp#center)
 
 ### Riding Horse
 
-A character can purchase or sell a healthy [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse.md) in Phandalin for 75 gp.
+A character can purchase or sell a healthy riding horse in Phandalin for 75 gp.
 
 ### Rock Gnome Recluse
 
-[Rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) are skilled in the arcane arts. They use their magical talents to create all kinds of wondrous inventions, very few of which work as intended.
+[Rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) are skilled in the arcane arts. They use their magical talents to create all kinds of wondrous inventions, very few of which work as intended.
 
 ### Stirge
 
-[Stirges](/3-Mechanics/CLI/bestiary/beast/stirge.md) attach to living creatures and drain their blood. Packs of them can be a formidable threat, reattaching as quickly as their weakening prey can pluck them off.
+Stirges attach to living creatures and drain their blood. Packs of them can be a formidable threat, reattaching as quickly as their weakening prey can pluck them off.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/053-636460847348942387.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/053-636460847348942387.webp#center)
 
 ### Veteran
 
-[Veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) include soldiers retired from military service and warriors who never served anyone but themselves.
+Veterans include soldiers retired from military service and warriors who never served anyone but themselves.
 
 ### Will-o'-Wisp
 
-[Will-o'-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) haunt lonely places and battlefields, where they feed on fear and despair. They look like wispy, bobbing lantern lights in the distance.
+Will-o'-wisps haunt lonely places and battlefields, where they feed on fear and despair. They look like wispy, bobbing lantern lights in the distance.
 
 ### Wererat
 
-[Wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) are cunning lycanthropes that operate much like a thieves' guild. Through its bite, a wererat can pass along the curse of lycanthropy—something it normally reserves for new gang recruits. A player character cursed with wererat lycanthropy becomes an NPC under the DM's control on nights of the full moon.
+Wererats are cunning lycanthropes that operate much like a thieves' guild. Through its bite, a wererat can pass along the curse of lycanthropy—something it normally reserves for new gang recruits. A player character cursed with wererat lycanthropy becomes an NPC under the DM's control on nights of the full moon.
 
 #### Wererat Lycanthropy
 
@@ -365,6 +365,6 @@ Any humanoid creature cursed with wererat lycanthropy retains its statistics exc
 
 ### Young White Dragon
 
-[White dragons](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) prefer cold climates. They are vicious, cruel reptiles driven by hunger and greed. Their bestial nature makes them the best hunters among dragonkind.
+White dragons prefer cold climates. They are vicious, cruel reptiles driven by hunger and greed. Their bestial nature makes them the best hunters among dragonkind.
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/054-636460866443987084.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/054-636460866443987084.webp#center)

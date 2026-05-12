@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/dwarf
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Spy
+- "Duergar Spy"
 ---
-# [Duergar Spy](3-Mechanics\CLI\bestiary\humanoid/duergar-spy-tftyp.md)
+# [Duergar Spy](3-Mechanics/CLI/bestiary/humanoid/duergar-spy-tftyp.md)
 *Source: Tales from the Yawning Portal p. 234*  
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
@@ -31,7 +31,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -44,7 +44,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "3"
@@ -57,38 +57,45 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
   - !!int "13"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+2"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+3"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 14"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
-  - "desc": "On each of its turns, the spy can use a bonus action to take the Dash,\
-      \ Disengage, or Hide action."
+  - "desc": "On each of its turns, the spy can use a bonus action to take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
+      \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action."
     "name": "Cunning Action"
   - "desc": "The spy has advantage on saving throws against poison, spells, and illusions,\
-      \ as well as to resist being charmed or paralyzed."
+      \ as well as to resist being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)."
     "name": "Duergar Resilience"
   - "desc": "Once per turn, the spy can deal an extra 7 (2d6) damage when it hits\
       \ a target with a weapon attack and has advantage on the attack roll, or when\
-      \ the target is within 5 feet of an ally of the spy that isn't incapacitated\
+      \ the target is within 5 feet of an ally of the spy that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ and the spy doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack"
   - "desc": "While in sunlight, the spy has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The spy makes two shortsword attacks."
@@ -100,19 +107,21 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
       \ the room to become Large, it attains the maximum size possible in the space\
       \ available."
     "name": "Enlarge (Recharges after a Short or Long Rest)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage, or 10 (2d6 + 3) piercing damage while enlarged."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage, or 10 (2d6 + 3) piercing damage while enlarged."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/120 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage."
     "name": "Hand Crossbow"
-  - "desc": "The spy magically turns invisible until it attacks, deals damage, casts\
-      \ a spell, or uses its Enlarge, or until its concentration is broken, up to\
-      \ 1 hour (as if concentrating on a spell). Any equipment the spy wears or carries\
-      \ is invisible with it."
+  - "desc": "The spy magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks, deals damage, casts a spell, or uses its Enlarge, or until\
+      \ its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) is\
+      \ broken, up to 1 hour (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the spy wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/duergar-spy-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-spy-tftyp.webp"
 ```
 ^statblock

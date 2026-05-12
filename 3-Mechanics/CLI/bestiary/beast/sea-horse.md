@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sea Horse
+- "Sea Horse"
 ---
-# [Sea Horse](3-Mechanics\CLI\bestiary\beast/sea-horse.md)
+# [Sea Horse](3-Mechanics/CLI/bestiary/beast/sea-horse.md)
 *Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -40,6 +40,6 @@ aliases:
     "name": "Water Breathing"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/sea-horse.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/sea-horse.webp"
 ```
 ^statblock

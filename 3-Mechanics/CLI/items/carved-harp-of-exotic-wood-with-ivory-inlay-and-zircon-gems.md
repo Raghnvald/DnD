@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Carved harp of exotic wood with ivory inlay and zircon gems"
 ---
 # Carved harp of exotic wood with ivory inlay and zircon gems

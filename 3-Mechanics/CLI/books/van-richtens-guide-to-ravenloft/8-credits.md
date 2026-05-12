@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Van Richten's Guide to Ravenloft* 
@@ -54,11 +54,11 @@ aliases:
 
             Perkins, Christopher. Curse of Strahd. 2016.    
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/credits.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: In the shado...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/credits2.webp#gallery "On the Cover: In the shadow of Castle Ravenloft, Doctor Rudolph van Richten and Ez d'Avenir confront the vampire Strahd von Zarovich, in this painting by Anna Podedworna.")
-> ![On the Alt-Cover: Monster ...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/credits3.webp#gallery "On the Alt-Cover: Monster hunter Ez d'Avenir stands against the assembled nightmares of the Demiplanes of Dread, a phantasmagoria revealed by Scott M. Fischer.")
+> ![On the Cover: In the shadow of Castle Ravenloft, Doctor Rudolph van Richten and Ez d'Avenir confront the vampire Strahd von Zarovich, in this painting by Anna Podedworna.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/credits2.webp#gallery)
+> ![On the Alt-Cover: Monster hunter Ez d'Avenir stands against the assembled nightmares of the Demiplanes of Dread, a phantasmagoria revealed by Scott M. Fischer.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/credits3.webp#gallery)
 
 > [!note]
 > Disclaimer: By the sole act of opening this book, you acknowledge your complicity in the domains-spanning conspiracy that denied me, Azalin Rex, Wizard-King of Darkon, my rightful place as both author of and cover model for what could have been so much more than this doubtful collection of lies and slanders. Fortunately, as I've recently found my immortality unburdened by the trivialities of rule, I have endless opportunity to pursue thorough vengeances for even the pettiest affronts. Please prepare for my coming. I expect to be quartered in the utmost comfort while we personalize your redefinition of the word "horror."

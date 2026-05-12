@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Revenant
+- "Revenant"
 ---
-# [Revenant](3-Mechanics\CLI\bestiary\undead/revenant.md)
-*Source: Monster Manual p. 259, Explorer's Guide to Wildemount*  
+# [Revenant](3-Mechanics/CLI/bestiary/undead/revenant.md)
+*Source: Monster Manual p. 259*  
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
 
@@ -41,7 +41,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Neutral"
 "ac": !!int "13"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "136"
 "hit_dice": "16d8 + 64"
 "modifier": !!int "2"
@@ -60,8 +60,11 @@ A revenant doesn't require air, food, drink, or sleep.
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
@@ -72,7 +75,7 @@ A revenant doesn't require air, food, drink, or sleep.
     "name": "Regeneration"
   - "desc": "When the revenant's body is destroyed, its soul lingers. After 24 hours,\
       \ the soul inhabits and animates another humanoid corpse on the same plane of\
-      \ existence and regains all its hit points. While the soul is bodiless, a wish\
+      \ existence and regains all its hit points. While the soul is bodiless, a [wish](3-Mechanics/CLI/spells/wish.md)\
       \ spell can be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
   - "desc": "The revenant is immune to effects that turn undead."
@@ -86,24 +89,24 @@ A revenant doesn't require air, food, drink, or sleep.
   - "desc": "The revenant makes two fist attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage. If the target is a creature against which the\
-      \ revenant has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning\
+      \ (2d6 + 4) bludgeoning damage. If the target is a creature against which\
+      \ the revenant has sworn vengeance, the target takes an extra 14 (4d6) bludgeoning\
       \ damage. Instead of dealing damage, the revenant can grapple the target (escape\
       \ DC 14) provided the target is Large or smaller."
     "name": "Fist"
   - "desc": "The revenant targets one creature it can see within 30 feet of it and\
       \ against which it has sworn vengeance. The target must make a DC 15 Wisdom\
-      \ saving throw. On a failure, the target is paralyzed until the revenant deals\
-      \ damage to it, or until the end of the revenant's next turn. When the paralysis\
-      \ ends, the target is frightened of the revenant for 1 minute. The frightened\
+      \ saving throw. On a failure, the target is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the revenant deals damage to it, or until the end of the revenant's\
+      \ next turn. When the paralysis ends, the target is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ of the revenant for 1 minute. The [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if it can see the revenant, ending the frightened condition on itself on a\
-      \ success."
+      \ if it can see the revenant, ending the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition on itself on a success."
     "name": "Vengeful Glare"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/revenant.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/revenant.webp"
 ```
 ^statblock
 

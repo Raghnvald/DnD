@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Greatclub"
 ---
 # Greatclub
@@ -15,7 +15,7 @@ aliases:
 
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Cost**: 2 sp
 - **Weight**: 10.0 lbs.
 

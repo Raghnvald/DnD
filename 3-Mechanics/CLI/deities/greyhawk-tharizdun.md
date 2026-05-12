@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/trickery
-aliases: 
-- Tharizdun
+aliases:
+- "Tharizdun"
 ---
 # Tharizdun
 *Source: Player's Handbook p. 295* 

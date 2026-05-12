@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/fey/goblinoid
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/fey/goblinoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oddlewin
+- "Oddlewin"
 ---
-# [Oddlewin](3-Mechanics\CLI\bestiary\npc/oddlewin-bmt.md)
+# [Oddlewin](3-Mechanics/CLI/bestiary/npc/oddlewin-bmt.md)
 *Source: The Book of Many Things p. 111*  
 
 Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
@@ -56,8 +56,8 @@ Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
       \ through his Reversal of Fortune reaction."
     "name": "Nilbogism"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage."
     "name": "Fool's Scepter"
   - "desc": "Oddlewin conjures magical cards that slash at the air in a 5-foot cube\
       \ within 60 feet of Oddlewin until the start of Oddlewin's next turn. A creature\
@@ -76,6 +76,6 @@ Oddlewin is a nilbog, a goblin possessed by a trickster spirit.
     "name": "Reversal of Fortune"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/oddlewin-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/oddlewin-bmt.webp"
 ```
 ^statblock

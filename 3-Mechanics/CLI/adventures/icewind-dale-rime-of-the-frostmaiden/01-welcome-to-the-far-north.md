@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Welcome to the Far North
+- "Welcome to the Far North"
 ---
 # Welcome to the Far North
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 5* 
@@ -16,11 +16,11 @@ Each night before midnight, Auril takes to the sky on the back of a white roc an
 
 The people of Icewind Dale know Auril's wrath when they feel it, and they have a name for the unending winter she has inflicted on them. They call it the Everlasting Rime. No one understands why the Frostmaiden has imposed her will in this way or why the other gods refuse to challenge her. This prolonged winter, which has gone on for more than two years, threatens to doom not just the flickering lights of civilization known as Ten-Towns but also the indigenous flora and fauna that need sunlight and the change of seasons to survive.
 
-Not all creatures are discouraged by what has transpired north of the Spine of the World. The long nights and sunless days are a blessing to [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), a duergar who longs to carve out a domain for himself on the surface and enslave the people of Ten-Towns in the process. Already, he has taken advantage of Auril's magic and raised a fortress amid the dark shadows of the mountains. From here, his underlings strike out across the tundra in search of chardalyn—a crystalline substance known to exist only in Icewind Dale. Once he gathers enough of it, Xardorok plans to construct a chardalyn dragon and unleash it upon Ten-Towns.
+Not all creatures are discouraged by what has transpired north of the Spine of the World. The long nights and sunless days are a blessing to [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), a duergar who longs to carve out a domain for himself on the surface and enslave the people of Ten-Towns in the process. Already, he has taken advantage of Auril's magic and raised a fortress amid the dark shadows of the mountains. From here, his underlings strike out across the tundra in search of chardalyn—a crystalline substance known to exist only in Icewind Dale. Once he gathers enough of it, Xardorok plans to construct a chardalyn dragon and unleash it upon Ten-Towns.
 
 Despite Auril's blizzards and other deterrents, visitors still come and go. Among the recent arrivals are four wizards of the Arcane Brotherhood, a powerful society of spellcasters based in Luskan. They've come chasing rumors of a lost city buried under the Reghed Glacier—a fragment of the long-gone Empire of Netheril, whose wizards wielded magic that terrified the gods. Netherese magic has a way of attracting power-hungry wizards, as members of the Arcane Brotherhood often are. The cities of Netheril floated among the clouds, making them almost impervious to assault for centuries. Then, nearly two thousand years ago, this floating city crashed during the fall of the empire, and no one has found or explored it since. It is, arguably, Icewind Dale's greatest secret—a necropolis of Netherese wizards and the magic they left behind. What survived the crash is anyone's guess, but we're about to find out!
 
-![Two young children from Lo...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/000-00-000-intro-splash.webp#center "Two young children from Lonelywood go ice fishing on Maer Dualdon")
+![Two young children from Lonelywood go ice fishing on Maer Dualdon](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/000-00-000-intro-splash.webp#center)
 
 ## About This Book
 
@@ -43,7 +43,7 @@ A duergar despot forging a dragon out of chardalyn. A lost city of magic entombe
 
 The Reghed nomads who stalk the tundra and the Ten-Towners who keep civilization alive are so concerned with day-to-day survival that they typically pay little heed to the evil forces gathering on the fringes of Icewind Dale. Adventurers are much better equipped to deal with such threats, particularly in the dead of winter.
 
-One recent arrival in the area is [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), a duergar warlock formerly of the Underdark. His patron, Deep Duerra, has urged Xardorok to fulfill his destiny and become the first duergar to rule a kingdom on the surface. Icewind Dale is cold, dark, and heartlessly cruel—the perfect realm for Xardorok to claim as despot. Unbeknownst to Xardorok, however, it is not Deep Duerra guiding his actions but the archdevil Asmodeus in the guise of Deep Duerra. In Xardorok, the Lord of the Nine Hells has found an eager and petty tyrant.
+One recent arrival in the area is [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), a duergar warlock formerly of the Underdark. His patron, Deep Duerra, has urged Xardorok to fulfill his destiny and become the first duergar to rule a kingdom on the surface. Icewind Dale is cold, dark, and heartlessly cruel—the perfect realm for Xardorok to claim as despot. Unbeknownst to Xardorok, however, it is not Deep Duerra guiding his actions but the archdevil Asmodeus in the guise of Deep Duerra. In Xardorok, the Lord of the Nine Hells has found an eager and petty tyrant.
 
 To achieve his goal, Xardorok is scouring the land for chardalyn, which he is forging into a dragon that he will send to destroy Ten-Towns. His sons, Durth and Nildar, lead teams of duergar on quests to retrieve more of this dark-colored crystal for their grasping, despotic father.
 
@@ -57,7 +57,7 @@ This frozen necropolis holds the remnants of some of the most powerful spellcast
 > 
 > More than a hundred years prior to this adventure, a wizard named Akar Kessel found an artifact suffused with demonic magic called *Crenshinibon* (better known as the *Crystal Shard*) and used it to erect a great black tower in Icewind Dale. When this tower was destroyed, the magic used to create it fused with the surrounding ice to form what is now known as chardalyn: a nonmagical, crystalline substance as strong as metal, though considerably easier to work with than steel. In the years since, more deposits of chardalyn have been found across Icewind Dale. Like the *Crystal Shard*, these deposits tend to be suffused with demonic magic. Prolonged contact with chardalyn that has become suffused with demonic magic can warp a creature's mind, causing madness that usually fades away once the contact is broken.
 > 
-> Chardalyn is cold to the touch and readily accepts magical enchantment, making it an ideal substance for wands, staffs, and other magic items. A chardalyn object suffused with the magic of the Upper Planes is considered a consecrated object, while a chardalyn object suffused with the magic of the Lower Planes is considered a desecrated object; both can be identified as such using a detect evil and good spell or similar magic.
+> Chardalyn is cold to the touch and readily accepts magical enchantment, making it an ideal substance for wands, staffs, and other magic items. A chardalyn object suffused with the magic of the Upper Planes is considered a consecrated object, while a chardalyn object suffused with the magic of the Lower Planes is considered a desecrated object; both can be identified as such using a [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md) spell or similar magic.
 > 
 > Long before Akar Kessel left his mark on Icewind Dale, Netherese wizards created their own chardalyn. Many items made from this dark-colored crystal can be found in the ruins of ancient Netherese enclaves.
 ^chardalyn
@@ -68,7 +68,7 @@ Four members of the Arcane Brotherhood (a cabal of wizards who act like Wild Wes
 
 Auril's decision to live among mortals is explained in  appendix C. What the characters discover in the course of the adventure is that she's unhappy and craves isolation. Her nightly quest to hold the sun at bay stems from a need to preserve the beauty of things by freezing them. There is no way to reason with a being so bereft of compassion as Auril, but in her weakened state, she can be defeated or forced to reckon with her cruel indifference toward life.
 
-Anyone who hopes to reach the Netherese city buried in the ice must first visit Auril's island and obtain [The Codicil of White](/3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md), a book compiled by the Frostmaiden's most ardent followers. The tome contains a magical incantation written as a poem. This poem has the power to crack the Reghed Glacier, opening a path from the surface to the buried Netherese city of Ythryn.
+Anyone who hopes to reach the Netherese city buried in the ice must first visit Auril's island and obtain [The Codicil of White](3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md), a book compiled by the Frostmaiden's most ardent followers. The tome contains a magical incantation written as a poem. This poem has the power to crack the Reghed Glacier, opening a path from the surface to the buried Netherese city of Ythryn.
 
 ### Other Quests
 
@@ -78,7 +78,7 @@ In chapter 1, the adventurers undertake quests that lead them from one Ten-Towns
 
 In chapter 2, rumors spur the adventurers to leave the cold comfort of Ten-Towns and explore the fringes of Icewind Dale, where dangers dwell.
 
-![Fragments of chardalyn—the...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/001-00-001.webp#center "Fragments of chardalyn—the remains of an evil artifact—are scattered throughout Icewind Dale.")
+![Fragments of chardalyn—the remains of an evil artifact—are scattered throughout Icewind Dale.](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/001-00-001.webp#center)
 
 ## Running the Adventure
 
@@ -131,11 +131,11 @@ Chapter 1 introduces quests that prompt the characters to explore Ten-Towns, wit
 
 Chapter 2 describes several interesting locations on the fringes of Icewind Dale, including some future threats to Ten-Towns. The characters are drawn to these locations by rumors or quests. These sites are ancillary to the main story but help bring the harsh land of Icewind Dale to life.
 
-The adventure kicks off in earnest with chapter 3, as the characters try to beard [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) in his lair. Chapter 3 describes the duergar's fortress. Unfortunately, the characters arrive too late to stop him from unleashing a dragon made of chardalyn. The characters face a difficult choice: continue storming Xardorok's stronghold or return to Ten-Towns to fight the dragon.
+The adventure kicks off in earnest with chapter 3, as the characters try to beard [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) in his lair. Chapter 3 describes the duergar's fortress. Unfortunately, the characters arrive too late to stop him from unleashing a dragon made of chardalyn. The characters face a difficult choice: continue storming Xardorok's stronghold or return to Ten-Towns to fight the dragon.
 
-The battle with Xardorok's dragon forms the crux of chapter 4. Since the dragon is a mobile threat, the characters might have to face it more than once as it ravages one settlement after another. The Ten-Towners have no hope of defeating the dragon on their own, so here's a chance for the characters to become true heroes of Icewind Dale. As they battle the dragon, the characters are aided by a necromancer named [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md), who helps steer them toward the discovery of a lost Netherese enclave entombed in the Reghed Glacier.
+The battle with Xardorok's dragon forms the crux of chapter 4. Since the dragon is a mobile threat, the characters might have to face it more than once as it ravages one settlement after another. The Ten-Towners have no hope of defeating the dragon on their own, so here's a chance for the characters to become true heroes of Icewind Dale. As they battle the dragon, the characters are aided by a necromancer named [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md), who helps steer them toward the discovery of a lost Netherese enclave entombed in the Reghed Glacier.
 
-In chapter 5, Vellynne asks the characters to accompany her to Auril's island in the Sea of Moving Ice to recover two items: an orb stolen by a rival and a book titled [The Codicil of White](/3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md). The orb has useful magical properties, while the book contains a magical poem that can create a passage through the Reghed Glacier.
+In chapter 5, Vellynne asks the characters to accompany her to Auril's island in the Sea of Moving Ice to recover two items: an orb stolen by a rival and a book titled [The Codicil of White](3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md). The orb has useful magical properties, while the book contains a magical poem that can create a passage through the Reghed Glacier.
 
 Chapter 6 describes the Caves of Hunger, a network of ice tunnels and caves within the Reghed Glacier itself. The characters must navigate these treacherous passageways to reach the frozen Netherese city, which is described in chapter 7. The party's exploration is interrupted by an albino tiefling villain who wants all the city's magical secrets for herself.
 
@@ -177,7 +177,7 @@ If a player agrees to take control of a friendly NPC, provide that player with a
 
 > [!flowchart] Chapter 4: Destruction's Light
 > *For 6th-level characters*
-> After [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) unleashes his dragon, the characters must stop it before it destroys Ten-Towns.
+> After [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) unleashes his dragon, the characters must stop it before it destroys Ten-Towns.
 %% %%
 
 > [!flowchart] Chapter 5: Auril's Abode
@@ -201,19 +201,19 @@ The following rules come into play as the characters explore Ten-Towns and embar
 
 #### Avalanches
 
-See the [avalanche](/3-Mechanics/CLI/traps-hazards/avalanche-idrotf.md) entry.
+See the [avalanche](3-Mechanics/CLI/traps-hazards/avalanche-idrotf.md) entry.
 
 #### Blizzards
 
-See the [blizzard](/3-Mechanics/CLI/traps-hazards/blizzard-idrotf.md) entry.
+See the [blizzard](3-Mechanics/CLI/traps-hazards/blizzard-idrotf.md) entry.
 
-![The yeti of Icewind Dale l...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/004-00-004-yeti-splash.webp#center "The yeti of Icewind Dale like to stalk their prey in raging blizzards")
+![The yeti of Icewind Dale like to stalk their prey in raging blizzards](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/004-00-004-yeti-splash.webp#center)
 
 #### Extreme Cold
 
 Rules for extreme cold appear in the "Dungeon Master's Guide" but are repeated here for your convenience.
 
-A creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather clothing (thick coats, gloves, and the like) and creatures naturally adapted to cold climates, such as [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) and snowy owlbears.
+A creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather clothing (thick coats, gloves, and the like) and creatures naturally adapted to cold climates, such as [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) and snowy owlbears.
 
 ##### Temperatures
 
@@ -223,13 +223,13 @@ During Auril's everlasting winter, the average temperature in Icewind Dale is �
 
 To fish for knucklehead trout on the lakes of Icewind Dale, a character needs fishing tackle and a rowboat. The former costs 4 gp (per the "Player's Handbook"), while the latter can be bought for 50 gp or rented for 2 gp per day. A character can fish on the ice instead of a boat, in which case a saw or similar tool is needed to cut a fishing hole through the ice.
 
-At the end of each hour spent fishing on the lake, the character must make a DC 15 Wisdom (Survival) check. A failed check indicates no fish is caught during that hour. If the check succeeds, the character hooks a [knucklehead trout](/3-Mechanics/CLI/bestiary/beast/knucklehead-trout-idrotf.md) (see appendix C) and must make a Strength (Athletics) check contested by the fish's Strength check to pull it out of the water. The trout has advantage on its check. If the character fails the check, the trout escapes. A character who fails the check by 5 or more must succeed on a DC 10 Dexterity saving throw or be pulled into the frigid water (see "Frigid Water" below). A character who is pulled out of the water is dripping wet and continues to suffer the effects of the frigid water until the wet clothes are taken off and replaced with dry ones.
+At the end of each hour spent fishing on the lake, the character must make a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check. A failed check indicates no fish is caught during that hour. If the check succeeds, the character hooks a [knucklehead trout](3-Mechanics/CLI/bestiary/beast/knucklehead-trout-idrotf.md) (see appendix C) and must make a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check contested by the fish's Strength check to pull it out of the water. The trout has advantage on its check. If the character fails the check, the trout escapes. A character who fails the check by 5 or more must succeed on a DC 10 Dexterity saving throw or be pulled into the frigid water (see "Frigid Water" below). A character who is pulled out of the water is dripping wet and continues to suffer the effects of the frigid water until the wet clothes are taken off and replaced with dry ones.
 
 #### Frigid Water
 
 Rules for frigid water appear in the "Dungeon Master's Guide" but are repeated here for your convenience.
 
-A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of exhaustion. Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
 
 #### Illumination
 
@@ -252,7 +252,7 @@ The speed that characters can travel across Icewind Dale's rough, snowy tundra i
 
 #### Mountain Travel
 
-Navigating the Spine of the World or the slopes of Kelvin's Cairn is particularly arduous because of the unforgiving mountain terrain. At the end of each hour, the character or NPC leading the expedition must make a DC 15 Wisdom (Survival) check. On a successful check, the hour's journey was not hindered by weather or terrain. On a failed check, the party comes to an impasse and must backtrack, which costs an extra hour of travel. If the check fails by 5 or more, the party is caught in an avalanche as it backtracks. The avalanche starts `2d6 × 100` feet above the characters (see "Avalanches").
+Navigating the Spine of the World or the slopes of Kelvin's Cairn is particularly arduous because of the unforgiving mountain terrain. At the end of each hour, the character or NPC leading the expedition must make a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check. On a successful check, the hour's journey was not hindered by weather or terrain. On a failed check, the party comes to an impasse and must backtrack, which costs an extra hour of travel. If the check fails by 5 or more, the party is caught in an avalanche as it backtracks. The avalanche starts `2d6 × 100` feet above the characters (see "Avalanches").
 
 The Mountain Travel table shows how fast the characters can move through the mountains on foot or by dogsled. Even in the best of cases, a journey in the mountains takes twice as long as one of the same distance across the tundra.
 
@@ -278,11 +278,11 @@ The Pronunciations table on the facing page shows how to pronounce many of the n
 | Arn Akannathi | ARN ah-kah-NAH-thee | Chief of the Akannathi goliath tribe of Skytower Shelter |
 | Arveiaturace | ar-vay-AH-chur-us | Ancient white dragon known as the White Wyrm |
 | Auril | oh-REEL | Lesser god that embodies winter's endurance and cruelty |
-| [Bjornhild Solvigsdottir](/3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md) | bee-YORN-hild SOAL-vigs-daw-ter | Queen of the Reghed Tribe of the Tiger |
+| [Bjornhild Solvigsdottir](3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md) | bee-YORN-hild SOAL-vigs-daw-ter | Queen of the Reghed Tribe of the Tiger |
 | Caer-Dineval | kair-DIN-eh-vawl | Small fishing town on the shore of Lac Dinneshere |
 | Caer-Konig | kair-KOH-nig | Small fishing town on the shore of Lac Dinneshere |
 | Chardalyn | CHAR-dah-lin | A dark crystalline substance that can be forged |
-| [Chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) | chuh-WING-gah | Tiny, sometimes helpful elemental spirit |
+| [Chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) | chuh-WING-gah | Tiny, sometimes helpful elemental spirit |
 | Chyzka | CHIZ-kah | Gnoll fang of Yeenoghu that lairs in the Cackling Chasm |
 | Crannoc Siever | CRAN-ock SEE-ver | Human town speaker of Caer-Dineval |
 | Dorbulgruf Shalescar | DOR-bull-gruff SHAYL-scar | Dwarf town speaker of Bremen |
@@ -290,23 +290,23 @@ The Pronunciations table on the facing page shows how to pronounce many of the n
 | Drizzt Do'Urden | DRIZT doh-UR-den | Legendary drow hero known throughout Icewind Dale |
 | Duergar | DEW-ur-gar or DWAIR-gar | Evil, gray-skinned dwarves that dwell in the Underdark |
 | Dzaan | duh-ZAWN | Red Wizard of Thay and member of the Arcane Brotherhood |
-| [Grandolpha Muzgardt](/3-Mechanics/CLI/bestiary/npc/grandolpha-muzgardt-idrotf.md) | gran-DOLL-fah MUZZ-gart | Duergar matron of the Muzgardt clan |
+| [Grandolpha Muzgardt](3-Mechanics/CLI/bestiary/npc/grandolpha-muzgardt-idrotf.md) | gran-DOLL-fah MUZZ-gart | Duergar matron of the Muzgardt clan |
 | Grimskalle | grim-SKAW-lah | Frost giant fortress inhabited by Auril the Frostmaiden |
 | Grynsk Berylbore | GRINSK BEAR-ill-bor | Grizzled dwarf and boat owner in Bremen |
-| [Gunvald Halraggson](/3-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md) | GOON-vald hawl-ROG-sun | King of the Reghed Tribe of the Bear |
-| [Hengar Aesnvaard](/3-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md) | HEN-gar ACE-en-vard | Human champion of the Reghed Tribe of the Elk |
+| [Gunvald Halraggson](3-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md) | GOON-vald hawl-ROG-sun | King of the Reghed Tribe of the Bear |
+| [Hengar Aesnvaard](3-Mechanics/CLI/bestiary/npc/hengar-aesnvaard-idrotf.md) | HEN-gar ACE-en-vard | Human champion of the Reghed Tribe of the Elk |
 | Hethyl Arkorran | HETH-ill AR-kor-ann | Venerable dwarf seer and cultist of Levistus |
 | Imdra Arlaggath | IM-draw AR-lah-gath | Half-elf captain of the town militia in Easthaven |
 | Iriolarthas | ear-ee-oh-LAR-thas | Demilich of Ythryn |
-| [Isarr Kronenstrom](/3-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md) | EYE-sar CROW-nen-strom | Psychotic would-be king of the Reghed Tribe of the Wolf |
-| [Jarund Elkhardt](/3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md) | yah-ROOND ELK-hart | King of the Reghed Tribe of the Elk |
+| [Isarr Kronenstrom](3-Mechanics/CLI/bestiary/npc/isarr-kronenstrom-idrotf.md) | EYE-sar CROW-nen-strom | Psychotic would-be king of the Reghed Tribe of the Wolf |
+| [Jarund Elkhardt](3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md) | yah-ROOND ELK-hart | King of the Reghed Tribe of the Elk |
 | Kapanuk Thuunlakalaga | KAH-pah-nook THOON-lock-ah-law-gah | Goliath imprisoned in the duergar fortress of Sunblight |
 | Karkolohk | KAR-koh-loak | Goblin fortress |
 | Krintaas | KRIN-tass | Dzaan's wight bodyguard |
 | Lac Dinneshere | lack DIN-eh-sheer | The shallowest of three large lakes in Icewind Dale |
 | Macreadus | mah-KREE-dus | Human cleric of Lathander living in the Black Cabin |
 | Maer Dualdon | mair dew-AWL-dun | One of the three large lakes in Icewind Dale |
-| [Mjenir](/3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) | meh-YEN-eer | Human shaman of the Reghed Tribe of the Elk |
+| [Mjenir](3-Mechanics/CLI/bestiary/npc/mjenir-idrotf.md) | meh-YEN-eer | Human shaman of the Reghed Tribe of the Elk |
 | Naerth Maxildanarr | NAIRTH max-ill-DAN-ar | Human town speaker of Targos |
 | Nass Lantomir | NASS LAN-tuh-meer | Ghost and former member of the Arcane Brotherhood |
 | Netheril | NETH-eh-ril | Bygone human empire ruled by powerful archmages |
@@ -315,13 +315,13 @@ The Pronunciations table on the facing page shows how to pronounce many of the n
 | Reggaryarva | reh-gar-YAR-vah | Deceased frost giant jarl whose spirit haunts Jarlmoot |
 | Scrivenscry | SKRIV-in-scry | Arcanaloth in Ythryn |
 | Scython | SIGH-thawn | Tiefling owner of the Easthaven ferry |
-| [Sephek Kaltro](/3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) | SEH-fek KAWL-troh | Cold-blooded killer and Torrga Icevein's bodyguard |
+| [Sephek Kaltro](3-Mechanics/CLI/bestiary/npc/sephek-kaltro-idrotf.md) | SEH-fek KAWL-troh | Cold-blooded killer and Torrga Icevein's bodyguard |
 | Söpo | SAW-poh | Ice mephit |
 | Tekeli-li | teck-ah-LEE-lee | Gnoll vampire that haunts the Caves of Hunger |
 | Vaelish Gant | VAY-lish GANT | Human mage serving a life sentence in Revel's End |
-| [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) | vuh-LIN har-PELL | Human mage and member of the Arcane Brotherhood |
+| [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) | vuh-LIN har-PELL | Human mage and member of the Arcane Brotherhood |
 | Vorryn Q'uuol | VOR-inn KEW-awl | Gnome ceremorph (illithid) aboard the Id Ascendant |
-| [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) | ZAR-dor-rock SUN-blight | Duergar tyrant who aims to conquer Icewind Dale |
+| [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) | ZAR-dor-rock SUN-blight | Duergar tyrant who aims to conquer Icewind Dale |
 | Yilsebek Dalambra | YIL-suh-beck duh-LAHM-bruh | Drow mage in the Caves of Hunger |
 | Yselm Bloodfang | YEE-selm BLUD-fang | Human frost druid guide |
 | Ythryn | EETH-rin | Netherese necropolis buried under the Reghed Glacier |
@@ -339,19 +339,19 @@ The "Player's Handbook" contains character backgrounds that are well suited for 
 
 | Background | Character Hook |
 |------------|----------------|
-| Acolyte | Auril the Frostmaiden, the god of winter's fury, has cast an evil spell over Icewind Dale. You can bring hope and faith to the people of Ten-Towns or, even better, free them from winter's cold embrace in the name of your god. |
-| Charlatan | Your cons and deceptions nearly got the better of you. You needed to disappear for a while, and Icewind Dale was the perfect place to do so. Nothing could prepare you for the cold and the dark desolation, but at least there's money to be made. |
-| Criminal | You are wanted for crimes in the cities of Luskan and Mirabar, but no one will think to look for you in Ten-Towns, the cold heart of Icewind Dale. Thankfully, nobody in Ten-Towns cares who you are—or what you've done. |
-| Entertainer | You came to Icewind Dale three years ago seeking inspiration for a new song or poem, drawn by tales of the land's harsh beauty and the legendary exploits of Drizzt Do'Urden. Since then, Auril the Frostmaiden has cast an evil spell over the dale, preventing you from returning home. |
-| Folk Hero | Your name is synonymous with heroism throughout Ten-Towns. Did you save a fisher who fell into the ice, scare away a yeti armed with only a fishing pole and a basket, or beat a drunk goliath at arm wrestling? |
-| Guild Artisan | You came to Icewind Dale to start a business. Your shop was doing well until Auril the Frostmaiden cast her evil spell to banish the sun. Now, businesses throughout Ten-Towns are suffering, yours included. To avoid hardship, you might need to supplement your income. |
-| Hermit | You've never felt at ease in civilized society, and there's no place farther from the trappings of civilization than Icewind Dale. This is a land without pretense, and the people of Ten-Towns pay you little mind. To them, you're just another silly old fool. |
-| Noble | Your wealthy grandfather or grandmother sent you to Icewind Dale to learn a hard lesson. Perhaps the cruel indifference of this frozen land will prepare you for the cruel indifference of Waterdeep's politics. |
-| Outlander | You're a child of the icy wilderness, born and raised in one of the Reghed tribes. Imagine, after following herds of migrating [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) your whole life, getting a taste of what life in Ten-Towns has to offer. |
-| Sage | You came to Icewind Dale in search of ruins and artifacts left behind by the giants who ruled the ancient empire of Ostoria. To find even one Ostorian relic would fulfill a lifelong dream and make your rivals back home green with envy. |
-| Sailor | You've sailed ships up and down the Sword Coast, but a shipwreck made you reevaluate your life choices. Two years ago, you headed north, bought a house and a fishing boat in Ten-Towns, and became a fisher. You were told that the summers here are beautiful, but you have yet to see one. |
-| Soldier | You are a soldier of Ten-Towns, trained to fight orcs and other threats lurking in the Spine of the World mountains. Auril the Frostmaiden has cast an evil spell over Icewind Dale, and you struggle to see how your soldier's training can save this land from so terrible a doom. Still, you are not about to give up on the people of Ten-Towns. |
-| Urchin | Because you grew up in Ten-Towns, your familiarity with the residents makes you useful to Harper spies and Zhentarim bounty hunters who are looking for criminals and other ne'er-do-wells hiding in your midst. Ratting out these newcomers keeps coin in your pockets. |
+| [Acolyte](3-Mechanics/CLI/backgrounds/acolyte.md) | Auril the Frostmaiden, the god of winter's fury, has cast an evil spell over Icewind Dale. You can bring hope and faith to the people of Ten-Towns or, even better, free them from winter's cold embrace in the name of your god. |
+| [Charlatan](3-Mechanics/CLI/backgrounds/charlatan.md) | Your cons and deceptions nearly got the better of you. You needed to disappear for a while, and Icewind Dale was the perfect place to do so. Nothing could prepare you for the cold and the dark desolation, but at least there's money to be made. |
+| [Criminal](3-Mechanics/CLI/backgrounds/criminal.md) | You are wanted for crimes in the cities of Luskan and Mirabar, but no one will think to look for you in Ten-Towns, the cold heart of Icewind Dale. Thankfully, nobody in Ten-Towns cares who you are—or what you've done. |
+| [Entertainer](3-Mechanics/CLI/backgrounds/entertainer.md) | You came to Icewind Dale three years ago seeking inspiration for a new song or poem, drawn by tales of the land's harsh beauty and the legendary exploits of Drizzt Do'Urden. Since then, Auril the Frostmaiden has cast an evil spell over the dale, preventing you from returning home. |
+| [Folk Hero](3-Mechanics/CLI/backgrounds/folk-hero.md) | Your name is synonymous with heroism throughout Ten-Towns. Did you save a fisher who fell into the ice, scare away a yeti armed with only a fishing pole and a basket, or beat a drunk goliath at arm wrestling? |
+| [Guild Artisan](3-Mechanics/CLI/backgrounds/guild-artisan.md) | You came to Icewind Dale to start a business. Your shop was doing well until Auril the Frostmaiden cast her evil spell to banish the sun. Now, businesses throughout Ten-Towns are suffering, yours included. To avoid hardship, you might need to supplement your income. |
+| [Hermit](3-Mechanics/CLI/backgrounds/hermit.md) | You've never felt at ease in civilized society, and there's no place farther from the trappings of civilization than Icewind Dale. This is a land without pretense, and the people of Ten-Towns pay you little mind. To them, you're just another silly old fool. |
+| [Noble](3-Mechanics/CLI/backgrounds/noble.md) | Your wealthy grandfather or grandmother sent you to Icewind Dale to learn a hard lesson. Perhaps the cruel indifference of this frozen land will prepare you for the cruel indifference of Waterdeep's politics. |
+| [Outlander](3-Mechanics/CLI/backgrounds/outlander.md) | You're a child of the icy wilderness, born and raised in one of the Reghed tribes. Imagine, after following herds of migrating [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) your whole life, getting a taste of what life in Ten-Towns has to offer. |
+| [Sage](3-Mechanics/CLI/backgrounds/sage.md) | You came to Icewind Dale in search of ruins and artifacts left behind by the giants who ruled the ancient empire of Ostoria. To find even one Ostorian relic would fulfill a lifelong dream and make your rivals back home green with envy. |
+| [Sailor](3-Mechanics/CLI/backgrounds/sailor.md) | You've sailed ships up and down the Sword Coast, but a shipwreck made you reevaluate your life choices. Two years ago, you headed north, bought a house and a fishing boat in Ten-Towns, and became a fisher. You were told that the summers here are beautiful, but you have yet to see one. |
+| [Soldier](3-Mechanics/CLI/backgrounds/soldier.md) | You are a soldier of Ten-Towns, trained to fight orcs and other threats lurking in the Spine of the World mountains. Auril the Frostmaiden has cast an evil spell over Icewind Dale, and you struggle to see how your soldier's training can save this land from so terrible a doom. Still, you are not about to give up on the people of Ten-Towns. |
+| [Urchin](3-Mechanics/CLI/backgrounds/urchin.md) | Because you grew up in Ten-Towns, your familiarity with the residents makes you useful to Harper spies and Zhentarim bounty hunters who are looking for criminals and other ne'er-do-wells hiding in your midst. Ratting out these newcomers keeps coin in your pockets. |
 ^character-hooks-tied-to-backgrounds
 
 ### Goliath Player Characters
@@ -382,7 +382,7 @@ The following suggestions are offered to help you make the most out of the secre
 
 ##### Alagondar Scion
 
-At some point, Lord Dagult Neverember might send a lone [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md)—a nameless, middle-aged woman with a shaved head and a hook for a right hand—to kill the character who has this secret.
+At some point, Lord Dagult Neverember might send a lone [assassin](3-Mechanics/CLI/bestiary/humanoid/assassin.md)—a nameless, middle-aged woman with a shaved head and a hook for a right hand—to kill the character who has this secret.
 
 ##### Doppelganger
 
@@ -394,11 +394,11 @@ This harmless secret comes with no strings attached and is a nod to R.A. Salvato
 
 ##### Elusive Paramour
 
-This secret is another nod to the Drizzt novels, setting up a situation like the one faced by Regis the halfling. At a time of your choosing, you can have the disgruntled pasha's assassin, an [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md), show up to menace the character.
+This secret is another nod to the Drizzt novels, setting up a situation like the one faced by Regis the halfling. At a time of your choosing, you can have the disgruntled pasha's assassin, an [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md), show up to menace the character.
 
 ##### Escaped Prisoner
 
-The character with this secret knows the location of the crashed nautiloid in chapter 2 and can lead the party to it. The trauma of being held captive by the illithids prevents the character from remembering events prior to the crash. A greater restoration spell removes this trauma, allowing the character to remember details about the illithids as well as the other prisoners aboard the nautiloid when it crashed (a bulette and two carrion crawlers).
+The character with this secret knows the location of the crashed nautiloid in chapter 2 and can lead the party to it. The trauma of being held captive by the illithids prevents the character from remembering events prior to the crash. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell removes this trauma, allowing the character to remember details about the illithids as well as the other prisoners aboard the nautiloid when it crashed (a bulette and two carrion crawlers).
 
 ##### Littlest Yeti
 
@@ -414,7 +414,7 @@ This secret comes to light when the player chooses the character's secret lover.
 
 ##### Orc Stone
 
-The spirit summoned by the stone belongs to a fierce [orc war chief](/3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md) named Vokarr the Eyebiter, who was killed by dwarves. This spirit looks like a living, breathing orc. It speaks Common and Orc.
+The spirit summoned by the stone belongs to a fierce [orc war chief](3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md) named Vokarr the Eyebiter, who was killed by dwarves. This spirit looks like a living, breathing orc. It speaks Common and Orc.
 
 ##### Owlbear Whisperer
 
@@ -426,13 +426,13 @@ The character with this secret knows the location of the Dark Duchess in chapter
 
 ##### Reghed Heir
 
-More information about Queen [Bjornhild Solvigsdottir](/3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md) and the Tiger Tribe can be found in appendix C. Bjornhild would hardly recognize her discarded offspring, but any character who presents themselves as such will be attacked at once. Bjornhild has no love for her would-be heir, seeing that character only as a rival and a sacrifice to Auril.
+More information about Queen [Bjornhild Solvigsdottir](3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md) and the Tiger Tribe can be found in appendix C. Bjornhild would hardly recognize her discarded offspring, but any character who presents themselves as such will be attacked at once. Bjornhild has no love for her would-be heir, seeing that character only as a rival and a sacrifice to Auril.
 
 ##### Reincarnation
 
-Allow the player to flesh out the details of the character's life prior to being reincarnated, and try to imagine how that back story might tie into some part of the adventure. Some of the races listed in the reincarnate spell's table go by different names in the Realms, as noted in the Forgotten Realms Races table. If the player wants to randomly determine the character's cause of death, let them roll on the How I Died table.
+Allow the player to flesh out the details of the character's life prior to being reincarnated, and try to imagine how that back story might tie into some part of the adventure. Some of the races listed in the [reincarnate](3-Mechanics/CLI/spells/reincarnate.md) spell's table go by different names in the Realms, as noted in the Forgotten Realms Races table. If the player wants to randomly determine the character's cause of death, let them roll on the How I Died table.
 
-![Harboring a secret for too...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/005-00-005-red-slaad-surprise.webp#center "Harboring a secret for too long can be detrimental to one's health")
+![Harboring a secret for too long can be detrimental to one's health](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/005-00-005-red-slaad-surprise.webp#center)
 
 **Forgotten Realms Races**
 
@@ -446,8 +446,6 @@ Allow the player to flesh out the details of the character's life prior to being
 ^forgotten-realms-races
 
 **How I Died**
-
-`dice: [](01-welcome-to-the-far-north.md#^how-i-died)`
 
 | dice: d20 | How I Died |
 |-----------|------------|
@@ -467,12 +465,12 @@ You might decide that the lost ring sought by this character is lodged inside Ol
 
 ##### Runaway Author
 
-Worshipers of Asmodeus send three [bearded devils](/3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) (whose fiendish features are cloaked by cold weather clothing) to kill the character who has this secret. If the characters visit Caer-Dineval, the Knights of the Black Sword (see "Knights of the Black Sword"), as followers of Levistus rather than Asmodeus, might warn the characters that an attack on one of them is imminent and even offer sanctuary in Caer-Dineval's keep.
+Worshipers of Asmodeus send three [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md) (whose fiendish features are cloaked by cold weather clothing) to kill the character who has this secret. If the characters visit Caer-Dineval, the Knights of the Black Sword (see "Knights of the Black Sword"), as followers of Levistus rather than Asmodeus, might warn the characters that an attack on one of them is imminent and even offer sanctuary in Caer-Dineval's keep.
 
 ##### Slaad Host
 
-The exact timing of the slaad tadpole's birth is deliberately left vague, although there are a few places in the adventure where the text suggests that the emergence might occur then and there. See the slaadi entry in the "Monster Manual" for more information about red slaad eggs and slaad tadpoles. Any magic that can cure a disease can end this threat, provided the cure is administered before the [slaad tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) bursts from the character's chest.
+The exact timing of the slaad tadpole's birth is deliberately left vague, although there are a few places in the adventure where the text suggests that the emergence might occur then and there. See the slaadi entry in the "Monster Manual" for more information about red slaad eggs and slaad tadpoles. Any magic that can cure a disease can end this threat, provided the cure is administered before the [slaad tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md) bursts from the character's chest.
 
 ##### Spy
 
-Harpers assigned to Icewind Dale can't rely on much support from the organization, so they are expected to look after themselves. Beldora, the character's Harper contact in Bryn Shander, is a chaotic good human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md) who can help steer the adventure by sharing rumors and providing helpful advice.
+Harpers assigned to Icewind Dale can't rely on much support from the organization, so they are expected to look after themselves. Beldora, the character's Harper contact in Bryn Shander, is a chaotic good human [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md) who can help steer the adventure by sharing rumors and providing helpful advice.

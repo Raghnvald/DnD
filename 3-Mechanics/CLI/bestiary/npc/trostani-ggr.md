@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Trostani
+- "Trostani"
 ---
-# [Trostani](3-Mechanics\CLI\bestiary\npc/trostani-ggr.md)
+# [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 252*  
 
 The Selesnya guildmaster is an amalgamation of three dryads in body, will, and soul. Each dryad's body extends from a central trunk, so while they possess independent minds, they share a single name-Trostani and a single life force. Usually Trostani communicates the will of the Worldsoul with one voice, but she retains three distinct personalities that embody the three parts of the Selesnyan ideal: order, life, and harmony. In the midst of increasing tensions on Ravnica, the three personalities have recently been at odds over how best to navigate the conclave through such difficult times.
@@ -42,31 +42,26 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
   - "wisdom": !!int "16"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+9"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+16"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+16"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+13"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [grappled](/3-Mechanics/CLI/conditions.md#Grappled)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 26"
+"condition_immunities": "charmed, grappled"
+"senses": "darkvision 120 ft., passive Perception 26"
 "languages": "Common, Druidic, Elvish, Sylvan"
 "cr": "18"
 "traits":
   - "desc": "Trostani's innate spellcasting ability is Wisdom (spell save DC 24).\
       \ She can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\n**3/day each:**\
-      \ [bless](/3-Mechanics/CLI/spells/bless-xphb.md), [conjure animals](/3-Mechanics/CLI/spells/conjure-animals-xphb.md),\
-      \ [giant insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md), [moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md),\
-      \ [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md), [spike growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day each:**\
-      \ [conjure fey](/3-Mechanics/CLI/spells/conjure-fey-xphb.md), [mass cure wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md)"
+      \n**At will:** dispel magic, druidcraft\n\n**3/day each:** bless, conjure animals,\
+      \ giant insect, moonbeam, plant growth, spike growth, suggestion\n\n**1/day\
+      \ each:** conjure fey, mass cure wounds"
     "name": "Innate Spellcasting"
   - "desc": "If Trostani fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -87,13 +82,13 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
       \ and she casts a spell with a casting time of 1 action."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one creature. *Hit:*\
-      \ 15 (3d6 + 5) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 19). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
-      \ Trostani can grapple no more than three targets at a time."
+      \ 15 (3d6 + 5) bludgeoning damage, and the target is grappled (escape DC 19).\
+      \ Until this grapple ends, the target is restrained. Trostani can grapple no\
+      \ more than three targets at a time."
     "name": "Constrict"
-  - "desc": "*Melee Spell Attack:* +16 to hit, reach 5 ft., one creature. *Hit:* 23\
-      \ (3d8 + 10) radiant damage, and Trostani can choose one magic item she can\
-      \ see in the target's possession. Unless it's an artifact, the item's magic\
+  - "desc": "*Melee Spell Attack:* +16 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 23 (3d8 + 10) radiant damage, and Trostani can choose one magic item she\
+      \ can see in the target's possession. Unless it's an artifact, the item's magic\
       \ is suppressed until the start of Trostani's next turn."
     "name": "Touch of Order"
   - "desc": "Trostani conjures a momentary whirl of branches and vines at a point\
@@ -111,10 +106,10 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
   - "desc": "Trostani bestows 20 temporary hit points on another creature she can\
       \ see within 120 feet of her."
     "name": "Voice of Life"
-  - "desc": "Trostani casts [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)."
+  - "desc": "Trostani casts dispel magic."
     "name": "Voice of Order"
-  - "desc": "Trostani casts [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md).\
-      \ This counts as one of her daily uses of the spell."
+  - "desc": "Trostani casts suggestion. This counts as one of her daily uses of the\
+      \ spell."
     "name": "Chorus of the Conclave (Costs 2 Actions)"
   - "desc": "Trostani animates one or two trees she can see within 120 feet of her,\
       \ causing them to uproot themselves and become awakened trees (see the Monster\
@@ -125,6 +120,6 @@ Trostani spends most of her time in the towering tree of Vitu-Ghazi, the Selesny
     "name": "Awaken Grove Guardians (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/trostani-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/trostani-ggr.webp"
 ```
 ^statblock

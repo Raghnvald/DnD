@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/nature
-aliases: 
-- Pelor
+aliases:
+- "Pelor"
 ---
 # Pelor
 *Source: Explorer's Guide to Wildemount p. 24* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-pelor.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-pelor.webp#symbol)
 
 - **Alignment**: Neutral Good
 - **Category**: Prime Deities

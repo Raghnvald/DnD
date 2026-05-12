@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Eternal Throne Adventures
+- "Eternal Throne Adventures"
 ---
 # Eternal Throne Adventures
 *Source: Bigby Presents: Glory of the Giants p. 40* 
 
 **Eternal Throne Adventures**
-
-`dice: [](eternal-throne-adventures-bgg.md#^eternal-throne-adventures)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

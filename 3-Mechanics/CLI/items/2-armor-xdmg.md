@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+2 Armor"
 - "+2 Breastplate"
 - "+2 Chain Mail"

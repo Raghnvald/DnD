@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/celtic
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/trickery
-aliases: 
-- The Daghdha
+aliases:
+- "The Daghdha"
 ---
 # The Daghdha
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

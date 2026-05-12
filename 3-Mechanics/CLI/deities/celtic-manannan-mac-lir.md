@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/celtic
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Manannan mac Lir
+aliases:
+- "Manannan mac Lir"
 ---
 # Manannan mac Lir
 *Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

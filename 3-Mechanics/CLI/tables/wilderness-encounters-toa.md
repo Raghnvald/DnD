@@ -3,105 +3,1130 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/toa
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Wilderness Encounters
+- "Wilderness Encounters"
 ---
 # Wilderness Encounters
 *Source: Tomb of Annihilation p. 194* 
 
+
 **Wilderness Encounters**
 
-|    |    |    |    |    |    |    |    |    |    |
-|----|----|----|----|----|----|----|----|----|----|
-| Aarakocra | 01–07 | — | — | — | 01–11 | 01–03 | — | — | — |
-| Albino dwarves | — | 01 | 01 | — | 12–17 | — | 01–02 | — | — |
-| Aldani | — | — | — | — | — | 04–07 | — | 01–10 | — |
-| Almiraj | — | 02 | — | — | — | — | 03 | — | — |
-| Apes | — | 03–04 | — | — | 18–20 | — | 04–06 | — | — |
-| Artus Cimber | 08 | 05 | 02 | 01 | — | 08–09 | 07–08 | 11 | 01 |
-| Assassin vines | — | 06–07 | 03–05 | 02 | — | 10 | 09–12 | 12–14 | — |
-| Axe beaks | — | 08 | 06 | — | — | — | — | — | — |
-| Baboons | — | 09 | — | — | 21–22 | — | 13–14 | — | — |
-| Cache | 09–10 | 10–11 | 07–08 | 03–05 | 23–25 | 11–12 | 15–18 | — | 02–05 |
-| Cannibals | — | 12–13 | 09–10 | — | — | 13–15 | — | — | — |
-| Chwinga | 11–12 | 14–15 | — | — | 26–27 | 16–18 | 19 | 15–16 | — |
-| Crocodiles | — | — | — | — | — | 19–23 | — | 17–21 | — |
-| Cyclops | — | 16 | — | — | 28–29 | — | 20–21 | — | — |
-| Dinosaurs, allosaurus | 13–14 | 17 | 11 | 06 | — | — | — | 22 | — |
-| Dinosaurs, ankylosaurus | — | 18 | 12 | 07 | — | — | — | 23 | — |
-| Dinosaurs, brontosaurus | — | 19 | — | — | — | 24 | — | 24–25 | — |
-| Dinosaurs, deinonychus | — | 20–21 | 13 | — | — | — | 22 | — | — |
-| Dinosaurs, dimetrodon | 15–16 | — | — | — | — | 25–26 | — | 26–30 | — |
-| Dinosaurs, hadrosaurus | — | 22–23 | 14 | 08 | — | 27–28 | — | 31–33 | — |
-| Dinosaurs, plesiosaurus | 17–21 | — | — | — | — | 29–31 | — | — | — |
-| Dinosaurs, pteranodon | 22–28 | 24 | 15 | 09 | 30–38 | 32–34 | — | 34–35 | — |
-| Dinosaurs, quetzalcoatlus | 29–31 | — | — | — | 39–42 | 35–36 | — | — | — |
-| Dinosaurs, stegosaurus | — | 25–26 | 15 | 10 | — | — | — | — | — |
-| Dinosaurs, triceratops | — | 27–28 | 17 | — | — | — | — | — | — |
-| Dinosaurs, tyrannosaurus | — | 29–30 | 18 | 11–12 | — | — | — | — | — |
-| Dinosaurs, velociraptor | 32–37 | 31–35 | — | 13–14 | — | — | 23 | — | — |
-| Dragon, faerie | — | 36 | — | — | — | 37 | — | — | — |
-| Dragon, red | 384–0 | — | — | — | 4345 | — | — | — | 06–09 |
-| Eblis | — | 37 | — | — | — | 38–40 | — | 36–39 | — |
-| Emerald Enclave | 41–42 | 38–42 | 19–20 | 15–16 | 46–47 | 41–43 | 24–26 | — | — |
-| Explorer, dead | — | 43–44 | 21–22 | 17–20 | 48–50 | 44–45 | 27–28 | 40–41 | 10–18 |
-| Explorers | 43–46 | 45 | 23 | 21 | 51–53 | 46–49 | 29–31 | 42–45 | 19 |
-| Firenewts | — | — | — | — | — | — | — | — | 20–37 |
-| Flail snail | — | 46 | — | — | — | — | 32–33 | 46–47 | — |
-| Flaming Fist | 47–49 | 47–50 | 24–26 | 22–23 | — | 50–51 | 34–36 | — | — |
-| Flying monkeys | 50–52 | 51 | — | — | 54–59 | 52–53 | 37–38 | — | — |
-| Flying snakes | 53–55 | 52–53 | 27 | — | 60–61 | 54–55 | 39 | 48–50 | — |
-| Frost giants | 56–57 | 54–55 | — | — | — | — | 40–41 | — | — |
-| Giant boars | — | 56 | — | — | 52 | — | — | — | — |
-| Giant crocodile | — | — | — | — | — | 56–58 | — | 51–53 | — |
-| Giant frogs | — | 57 | — | — | — | 59–60 | — | 54–56 | — |
-| Giant lizards | 58–63 | 58 | 28 | — | 63 | — | 42 | 57–58 | — |
-| Giant scorpions | — | 59 | — | — | — | — | 43–45 | — | 38–45 |
-| Giant snapping turtle | 64–67 | — | — | — | — | 61–62 | — | 59–60 | — |
-| Giant wasps | — | 60 | 29 | 24 | 64–65 | 63 | 46–48 | 61–62 | — |
-| Girallons | — | 61–62 | 30–31 | — | 66–70 | — | 49–50 | — | — |
-| Goblins | — | 63–64 | 32–33 | — | — | — | 51–52 | — | — |
-| Grungs | — | 65–66 | 34–35 | — | — | 64–66 | — | 63–64 | — |
-| Jaculis | — | 67 | — | — | — | 67 | 53–54 | — | — |
-| Kamadans | — | 68 | — | — | — | — | 55–57 | — | — |
-| Lizardfolk | 68–71 | 69–70 | — | — | — | 68 | 58 | 65–66 | — |
-| Magic mist | — | 71–72 | 36–39 | — | — | 69–70 | 59–60 | 67–69 | — |
-| Magmins | — | — | — | — | — | — | — | — | 46–54 |
-| Mantraps | — | 73 | 40–41 | 25 | — | — | — | — | — |
-| Mephits | — | — | — | — | — | — | — | 70 | 55–71 |
-| Night hag | — | 74 | 42 | — | 71–73 | — | 61 | 71 | 72–78 |
-| Pterafolk | — | 75 | 43–44 | 26 | 74–80 | 71–72 | — | — | — |
-| Rare plant(s) | — | 76 | 45 | 27 | — | 73 | 62 | 72 | — |
-| Red Wizard | 72–74 | 77 | 46 | 28 | 81 | 74 | 63 | — | — |
-| Salamander | — | — | — | — | — | — | — | — | — |
-| Sea hags | 75–84 | — | — | — | — | 75–76 | — | — | — |
-| Shambling mound | — | — | — | — | — | — | — | 73–76 | — |
-| Snake, constrictor | — | 78–79 | 47–48 | 29–31 | — | 77–79 | — | 77–80 | — |
-| Snake, giant constrictor | — | 80 | 49 | 32 | — | 80 | — | 81–82 | — |
-| Snake, giant poisonous | — | 81 | 50 | 33 | 82–84 | — | 64–65 | — | — |
-| Spiders | — | 82 | 51–52 | 34–36 | — | — | 67–68 | — | — |
-| Statue of Ubtao | — | 83–85 | 53–55 | 37–40 | — | 81 | 69–73 | 83–85 | 79 |
-| Stirges | 85–87 | 86 | 56–57 | 41–44 | 85–87 | 82–83 | 74–75 | 86–87 | — |
-| Su-monsters | — | 87 | 58-59 | 45 | — | — | — | — | — |
-| Swarms of bats | 88–89 | 88 | 60–62 | 46 | 88–90 | — | 76–77 | 88–89 | — |
-| Swarms of insects | — | 89 | 63–65 | 47–49 | — | 84–85 | — | 90–94 | — |
-| Swarms of quippers | — | — | — | — | — | 86–91 | — | — | — |
-| Tabaxi hunter | 90–94 | 90 | — | — | 91–92 | 92–93 | 78 | — | — |
-| Tiger | — | 91 | — | — | — | — | — | — | — |
-| Tri-flower frond | 95–00 | 92 | 66 | 50 | — | — | 79–80 | — | — |
-| Troll | — | — | 67 | 51 | 93–97 | — | 81 | — | 80–83 |
-| Undead, ghouls | — | — | 68–72 | 52–63 | — | 94 | 82–84 | 95 | 84–85 |
-| Undead, skeletons | — | — | 73–77 | 64–67 | — | 95 | 85–87 | 96–97 | 86–95 |
-| Undead, specter | — | — | 78–79 | 68–70 | — | — | 88–89 | — | — |
-| Undead, wight | — | — | 80 | 71–73 | — | — | 90–91 | — | 96–97 |
-| Undead, zombies | — | — | 81–89 | 74–85 | — | 96 | 92–93 | 98 | 98 |
-| Vegepygmies | — | 93 | 90–91 | 86–87 | — | — | — | — | — |
-| Wereboar | — | 94 | 92 | 88–89 | 98–00 | — | — | — | — |
-| Weretiger | — | 95 | 93 | 90–91 | — | — | 94 | — | — |
-| Winterscape | — | 96 | 94 | 92 | — | — | 95 | — | — |
-| Yellow musk creeper and zombies | — | 97 | 95–96 | 93–96 | — | — | 96 | 99 | — |
-| Yuan-ti | — | 98 | 97–98 | 97–98 | — | 97–98 | 97–98 | 00 | — |
-| Zhentarim | — | 99 | 99 | — | — | 99–00 | 99–00 | — | 99–00 |
-| Zorbos | — | 00 | 00 | 99–00 | — | — | — | — | — |
+<table>
+<tr>
+  <th></th>
+  <th></th>
+  <th colspan="3">Jungle</th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+  <th></th>
+</tr>
+<tr>
+  <th>Encounter</th>
+  <th>Beach</th>
+  <th>No Undead</th>
+  <th>Lesser Undead</th>
+  <th>Greater Undead</th>
+  <th>Mountains</th>
+  <th>Rivers</th>
+  <th>Ruins</th>
+  <th>Swamp</th>
+  <th>Wasteland</th>
+</tr>
+<tr>
+  <th></th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+  <th>d100</th>
+</tr>
+<tr>
+  <td>Aarakocra</td>
+  <td>01–07</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>01–11</td>
+  <td>01–03</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Albino dwarves</td>
+  <td>—</td>
+  <td>01</td>
+  <td>01</td>
+  <td>—</td>
+  <td>12–17</td>
+  <td>—</td>
+  <td>01–02</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Aldani</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>04–07</td>
+  <td>—</td>
+  <td>01–10</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Almiraj</td>
+  <td>—</td>
+  <td>02</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>03</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Apes</td>
+  <td>—</td>
+  <td>03–04</td>
+  <td>—</td>
+  <td>—</td>
+  <td>18–20</td>
+  <td>—</td>
+  <td>04–06</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Artus Cimber</td>
+  <td>08</td>
+  <td>05</td>
+  <td>02</td>
+  <td>01</td>
+  <td>—</td>
+  <td>08–09</td>
+  <td>07–08</td>
+  <td>11</td>
+  <td>01</td>
+</tr>
+<tr>
+  <td>Assassin vines</td>
+  <td>—</td>
+  <td>06–07</td>
+  <td>03–05</td>
+  <td>02</td>
+  <td>—</td>
+  <td>10</td>
+  <td>09–12</td>
+  <td>12–14</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Axe beaks</td>
+  <td>—</td>
+  <td>08</td>
+  <td>06</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Baboons</td>
+  <td>—</td>
+  <td>09</td>
+  <td>—</td>
+  <td>—</td>
+  <td>21–22</td>
+  <td>—</td>
+  <td>13–14</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Cache</td>
+  <td>09–10</td>
+  <td>10–11</td>
+  <td>07–08</td>
+  <td>03–05</td>
+  <td>23–25</td>
+  <td>11–12</td>
+  <td>15–18</td>
+  <td>—</td>
+  <td>02–05</td>
+</tr>
+<tr>
+  <td>Cannibals</td>
+  <td>—</td>
+  <td>12–13</td>
+  <td>09–10</td>
+  <td>—</td>
+  <td>—</td>
+  <td>13–15</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Chwinga</td>
+  <td>11–12</td>
+  <td>14–15</td>
+  <td>—</td>
+  <td>—</td>
+  <td>26–27</td>
+  <td>16–18</td>
+  <td>19</td>
+  <td>15–16</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Crocodiles</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>19–23</td>
+  <td>—</td>
+  <td>17–21</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Cyclops</td>
+  <td>—</td>
+  <td>16</td>
+  <td>—</td>
+  <td>—</td>
+  <td>28–29</td>
+  <td>—</td>
+  <td>20–21</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, allosaurus</td>
+  <td>13–14</td>
+  <td>17</td>
+  <td>11</td>
+  <td>06</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>22</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, ankylosaurus</td>
+  <td>—</td>
+  <td>18</td>
+  <td>12</td>
+  <td>07</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>23</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, brontosaurus</td>
+  <td>—</td>
+  <td>19</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>24</td>
+  <td>—</td>
+  <td>24–25</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, deinonychus</td>
+  <td>—</td>
+  <td>20–21</td>
+  <td>13</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>22</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, dimetrodon</td>
+  <td>15–16</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>25–26</td>
+  <td>—</td>
+  <td>26–30</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, hadrosaurus</td>
+  <td>—</td>
+  <td>22–23</td>
+  <td>14</td>
+  <td>08</td>
+  <td>—</td>
+  <td>27–28</td>
+  <td>—</td>
+  <td>31–33</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, plesiosaurus</td>
+  <td>17–21</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>29–31</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, pteranodon</td>
+  <td>22–28</td>
+  <td>24</td>
+  <td>15</td>
+  <td>09</td>
+  <td>30–38</td>
+  <td>32–34</td>
+  <td>—</td>
+  <td>34–35</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, quetzalcoatlus</td>
+  <td>29–31</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>39–42</td>
+  <td>35–36</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, stegosaurus</td>
+  <td>—</td>
+  <td>25–26</td>
+  <td>15</td>
+  <td>10</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, triceratops</td>
+  <td>—</td>
+  <td>27–28</td>
+  <td>17</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, tyrannosaurus</td>
+  <td>—</td>
+  <td>29–30</td>
+  <td>18</td>
+  <td>11–12</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dinosaurs, velociraptor</td>
+  <td>32–37</td>
+  <td>31–35</td>
+  <td>—</td>
+  <td>13–14</td>
+  <td>—</td>
+  <td>—</td>
+  <td>23</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dragon, faerie</td>
+  <td>—</td>
+  <td>36</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>37</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Dragon, red</td>
+  <td>38–40</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>43–45</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>06–09</td>
+</tr>
+<tr>
+  <td>Eblis</td>
+  <td>—</td>
+  <td>37</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>38–40</td>
+  <td>—</td>
+  <td>36–39</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Emerald Enclave</td>
+  <td>41–42</td>
+  <td>38–42</td>
+  <td>19–20</td>
+  <td>15–16</td>
+  <td>46–47</td>
+  <td>41–43</td>
+  <td>24–26</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Explorer, dead</td>
+  <td>—</td>
+  <td>43–44</td>
+  <td>21–22</td>
+  <td>17–20</td>
+  <td>48–50</td>
+  <td>44–45</td>
+  <td>27–28</td>
+  <td>40–41</td>
+  <td>10–18</td>
+</tr>
+<tr>
+  <td>Explorers</td>
+  <td>43–46</td>
+  <td>45</td>
+  <td>23</td>
+  <td>21</td>
+  <td>51–53</td>
+  <td>46–49</td>
+  <td>29–31</td>
+  <td>42–45</td>
+  <td>19</td>
+</tr>
+<tr>
+  <td>Firenewts</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>20–37</td>
+</tr>
+<tr>
+  <td>Flail snail</td>
+  <td>—</td>
+  <td>46</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>32–33</td>
+  <td>46–47</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Flaming Fist</td>
+  <td>47–49</td>
+  <td>47–50</td>
+  <td>24–26</td>
+  <td>22–23</td>
+  <td>—</td>
+  <td>50–51</td>
+  <td>34–36</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Flying monkeys</td>
+  <td>50–52</td>
+  <td>51</td>
+  <td>—</td>
+  <td>—</td>
+  <td>54–59</td>
+  <td>52–53</td>
+  <td>37–38</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Flying snakes</td>
+  <td>53–55</td>
+  <td>52–53</td>
+  <td>27</td>
+  <td>—</td>
+  <td>60–61</td>
+  <td>54–55</td>
+  <td>39</td>
+  <td>48–50</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Frost giants</td>
+  <td>56–57</td>
+  <td>54–55</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>40–41</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Giant boars</td>
+  <td>—</td>
+  <td>56</td>
+  <td>—</td>
+  <td>—</td>
+  <td>52</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Giant crocodile</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>56–58</td>
+  <td>—</td>
+  <td>51–53</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Giant frogs</td>
+  <td>—</td>
+  <td>57</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>59–60</td>
+  <td>—</td>
+  <td>54–56</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Giant lizards</td>
+  <td>58–63</td>
+  <td>58</td>
+  <td>28</td>
+  <td>—</td>
+  <td>63</td>
+  <td>—</td>
+  <td>42</td>
+  <td>57–58</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Giant scorpions</td>
+  <td>—</td>
+  <td>59</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>43–45</td>
+  <td>—</td>
+  <td>38–45</td>
+</tr>
+<tr>
+  <td>Giant snapping turtle</td>
+  <td>64–67</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>61–62</td>
+  <td>—</td>
+  <td>59–60</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Giant wasps</td>
+  <td>—</td>
+  <td>60</td>
+  <td>29</td>
+  <td>24</td>
+  <td>64–65</td>
+  <td>63</td>
+  <td>46–48</td>
+  <td>61–62</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Girallons</td>
+  <td>—</td>
+  <td>61–62</td>
+  <td>30–31</td>
+  <td>—</td>
+  <td>66–70</td>
+  <td>—</td>
+  <td>49–50</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Goblins</td>
+  <td>—</td>
+  <td>63–64</td>
+  <td>32–33</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>51–52</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Grungs</td>
+  <td>—</td>
+  <td>65–66</td>
+  <td>34–35</td>
+  <td>—</td>
+  <td>—</td>
+  <td>64–66</td>
+  <td>—</td>
+  <td>63–64</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Jaculis</td>
+  <td>—</td>
+  <td>67</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>67</td>
+  <td>53–54</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Kamadans</td>
+  <td>—</td>
+  <td>68</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>55–57</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Lizardfolk</td>
+  <td>68–71</td>
+  <td>69–70</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>68</td>
+  <td>58</td>
+  <td>65–66</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Magic mist</td>
+  <td>—</td>
+  <td>71–72</td>
+  <td>36–39</td>
+  <td>—</td>
+  <td>—</td>
+  <td>69–70</td>
+  <td>59–60</td>
+  <td>67–69</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Magmins</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>46–54</td>
+</tr>
+<tr>
+  <td>Mantraps</td>
+  <td>—</td>
+  <td>73</td>
+  <td>40–41</td>
+  <td>25</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Mephits</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>70</td>
+  <td>55–71</td>
+</tr>
+<tr>
+  <td>Night hag</td>
+  <td>—</td>
+  <td>74</td>
+  <td>42</td>
+  <td>—</td>
+  <td>71–73</td>
+  <td>—</td>
+  <td>61</td>
+  <td>71</td>
+  <td>72–78</td>
+</tr>
+<tr>
+  <td>Pterafolk</td>
+  <td>—</td>
+  <td>75</td>
+  <td>43–44</td>
+  <td>26</td>
+  <td>74–80</td>
+  <td>71–72</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Rare plant(s)</td>
+  <td>—</td>
+  <td>76</td>
+  <td>45</td>
+  <td>27</td>
+  <td>—</td>
+  <td>73</td>
+  <td>62</td>
+  <td>72</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Red Wizard</td>
+  <td>72–74</td>
+  <td>77</td>
+  <td>46</td>
+  <td>28</td>
+  <td>81</td>
+  <td>74</td>
+  <td>63</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Salamander</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Sea hags</td>
+  <td>75–84</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>75–76</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Shambling mound</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>73–76</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Snake, constrictor</td>
+  <td>—</td>
+  <td>78–79</td>
+  <td>47–48</td>
+  <td>29–31</td>
+  <td>—</td>
+  <td>77–79</td>
+  <td>—</td>
+  <td>77–80</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Snake, giant constrictor</td>
+  <td>—</td>
+  <td>80</td>
+  <td>49</td>
+  <td>32</td>
+  <td>—</td>
+  <td>80</td>
+  <td>—</td>
+  <td>81–82</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Snake, giant poisonous</td>
+  <td>—</td>
+  <td>81</td>
+  <td>50</td>
+  <td>33</td>
+  <td>82–84</td>
+  <td>—</td>
+  <td>64–65</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Spiders</td>
+  <td>—</td>
+  <td>82</td>
+  <td>51–52</td>
+  <td>34–36</td>
+  <td>—</td>
+  <td>—</td>
+  <td>67–68</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Statue of Ubtao</td>
+  <td>—</td>
+  <td>83–85</td>
+  <td>53–55</td>
+  <td>37–40</td>
+  <td>—</td>
+  <td>81</td>
+  <td>69–73</td>
+  <td>83–85</td>
+  <td>79</td>
+</tr>
+<tr>
+  <td>Stirges</td>
+  <td>85–87</td>
+  <td>86</td>
+  <td>56–57</td>
+  <td>41–44</td>
+  <td>85–87</td>
+  <td>82–83</td>
+  <td>74–75</td>
+  <td>86–87</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Su-monsters</td>
+  <td>—</td>
+  <td>87</td>
+  <td>58-59</td>
+  <td>45</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Swarms of bats</td>
+  <td>88–89</td>
+  <td>88</td>
+  <td>60–62</td>
+  <td>46</td>
+  <td>88–90</td>
+  <td>—</td>
+  <td>76–77</td>
+  <td>88–89</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Swarms of insects</td>
+  <td>—</td>
+  <td>89</td>
+  <td>63–65</td>
+  <td>47–49</td>
+  <td>—</td>
+  <td>84–85</td>
+  <td>—</td>
+  <td>90–94</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Swarms of quippers</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>86–91</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Tabaxi hunter</td>
+  <td>90–94</td>
+  <td>90</td>
+  <td>—</td>
+  <td>—</td>
+  <td>91–92</td>
+  <td>92–93</td>
+  <td>78</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Tiger</td>
+  <td>—</td>
+  <td>91</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Tri-flower frond</td>
+  <td>95–00</td>
+  <td>92</td>
+  <td>66</td>
+  <td>50</td>
+  <td>—</td>
+  <td>—</td>
+  <td>79–80</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Troll</td>
+  <td>—</td>
+  <td>—</td>
+  <td>67</td>
+  <td>51</td>
+  <td>93–97</td>
+  <td>—</td>
+  <td>81</td>
+  <td>—</td>
+  <td>80–83</td>
+</tr>
+<tr>
+  <td>Undead, ghouls</td>
+  <td>—</td>
+  <td>—</td>
+  <td>68–72</td>
+  <td>52–63</td>
+  <td>—</td>
+  <td>94</td>
+  <td>82–84</td>
+  <td>95</td>
+  <td>84–85</td>
+</tr>
+<tr>
+  <td>Undead, skeletons</td>
+  <td>—</td>
+  <td>—</td>
+  <td>73–77</td>
+  <td>64–67</td>
+  <td>—</td>
+  <td>95</td>
+  <td>85–87</td>
+  <td>96–97</td>
+  <td>86–95</td>
+</tr>
+<tr>
+  <td>Undead, specter</td>
+  <td>—</td>
+  <td>—</td>
+  <td>78–79</td>
+  <td>68–70</td>
+  <td>—</td>
+  <td>—</td>
+  <td>88–89</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Undead, wight</td>
+  <td>—</td>
+  <td>—</td>
+  <td>80</td>
+  <td>71–73</td>
+  <td>—</td>
+  <td>—</td>
+  <td>90–91</td>
+  <td>—</td>
+  <td>96–97</td>
+</tr>
+<tr>
+  <td>Undead, zombies</td>
+  <td>—</td>
+  <td>—</td>
+  <td>81–89</td>
+  <td>74–85</td>
+  <td>—</td>
+  <td>96</td>
+  <td>92–93</td>
+  <td>98</td>
+  <td>98</td>
+</tr>
+<tr>
+  <td>Vegepygmies</td>
+  <td>—</td>
+  <td>93</td>
+  <td>90–91</td>
+  <td>86–87</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Wereboar</td>
+  <td>—</td>
+  <td>94</td>
+  <td>92</td>
+  <td>88–89</td>
+  <td>98–00</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Weretiger</td>
+  <td>—</td>
+  <td>95</td>
+  <td>93</td>
+  <td>90–91</td>
+  <td>—</td>
+  <td>—</td>
+  <td>94</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Winterscape</td>
+  <td>—</td>
+  <td>96</td>
+  <td>94</td>
+  <td>92</td>
+  <td>—</td>
+  <td>—</td>
+  <td>95</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Yellow musk creeper and zombies</td>
+  <td>—</td>
+  <td>97</td>
+  <td>95–96</td>
+  <td>93–96</td>
+  <td>—</td>
+  <td>—</td>
+  <td>96</td>
+  <td>99</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Yuan-ti</td>
+  <td>—</td>
+  <td>98</td>
+  <td>97–98</td>
+  <td>97–98</td>
+  <td>—</td>
+  <td>97–98</td>
+  <td>97–98</td>
+  <td>00</td>
+  <td>—</td>
+</tr>
+<tr>
+  <td>Zhentarim</td>
+  <td>—</td>
+  <td>99</td>
+  <td>99</td>
+  <td>—</td>
+  <td>—</td>
+  <td>99–00</td>
+  <td>99–00</td>
+  <td>—</td>
+  <td>99–00</td>
+</tr>
+<tr>
+  <td>Zorbos</td>
+  <td>—</td>
+  <td>00</td>
+  <td>00</td>
+  <td>99–00</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+  <td>—</td>
+</tr>
+</table>
 ^wilderness-encounters

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shambling Mound
+- "Shambling Mound"
 ---
-# [Shambling Mound](3-Mechanics\CLI\bestiary\plant/shambling-mound.md)
+# [Shambling Mound](3-Mechanics/CLI/bestiary/plant/shambling-mound.md)
 *Source: Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
@@ -62,14 +62,14 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
   - !!int "5"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "5"
 "traits":
@@ -79,23 +79,23 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
     "name": "Lightning Absorption"
 "actions":
   - "desc": "The shambling mound makes two slam attacks. If both attacks hit a Medium\
-      \ or smaller target, the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ or smaller target, the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 14), and the shambling mound uses its Engulf on it."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
-  - "desc": "The shambling mound engulfs a Medium or smaller creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by it. The engulfed target is [blinded](/3-Mechanics/CLI/conditions.md#Blinded),\
-      \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), and unable to breathe,\
-      \ and it must succeed on a DC 14 Constitution saving throw at the start of each\
-      \ of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound\
-      \ moves, the engulfed target moves with it. The mound can have only one creature\
-      \ engulfed at a time."
+  - "desc": "The shambling mound engulfs a Medium or smaller creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it. The engulfed target is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded),\
+      \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), and unable to\
+      \ breathe, and it must succeed on a DC 14 Constitution saving throw at the start\
+      \ of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If\
+      \ the mound moves, the engulfed target moves with it. The mound can have only\
+      \ one creature engulfed at a time."
     "name": "Engulf"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/shambling-mound.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/shambling-mound.webp"
 ```
 ^statblock
 

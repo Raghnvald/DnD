@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/tiefling/glasya
 aliases:
-- Tiefling (Glasya)
+- "Tiefling (Glasya)"
 ---
 # Tiefling (Glasya)
 *Source: Mordenkainen's Tome of Foes p. 22*  
-![](/3-Mechanics/CLI/races/img/tiefling.webp#right)
+![](3-Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 dex +1
 - **Size**: Medium
@@ -37,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Malbolge
 
-You know the [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md) cantrip. When you reach 3rd level, you can cast the [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip. When you reach 3rd level, you can cast the [disguise self](3-Mechanics/CLI/spells/disguise-self.md) spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [invisibility](3-Mechanics/CLI/spells/invisibility.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Estia
+- "Estia"
 ---
-# [Estia](3-Mechanics\CLI\bestiary\npc/estia-tftyp.md)
+# [Estia](3-Mechanics/CLI/bestiary/npc/estia-tftyp.md)
 *Source: Tales from the Yawning Portal p. 189*  
 
 ```statblock
@@ -38,25 +38,27 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_immunities": "cold"
+"gear":
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "9"
 "actions":
   - "desc": "Estia makes two morningstar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 23\
-      \ (3d8 + 10) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 23 (3d8 + 10) piercing damage."
     "name": "Morningstar +2"
   - "desc": "*Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:*\
       \ 30 (4d10 + 8) bludgeoning damage."
     "name": "Rock"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/estia-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/estia-tftyp.webp"
 ```
 ^statblock

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Unusual Locations
+- "Unusual Locations"
 ---
 # Unusual Locations
 *Source: Eberron: Rising from the Last War p. 219* 
 
 **Unusual Locations**
-
-`dice: [](unusual-locations-erlw.md#^unusual-locations)`
 
 | dice: d6 | Location |
 |----------|----------|

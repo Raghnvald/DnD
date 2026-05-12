@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Heirs of Dhakaan Adventure Hooks
+- "Heirs of Dhakaan Adventure Hooks"
 ---
 # Heirs of Dhakaan Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 206* 
 
 **Heirs of Dhakaan Adventure Hooks**
-
-`dice: [](heirs-of-dhakaan-adventure-hooks-erlw.md#^heirs-of-dhakaan-adventure-hooks)`
 
 | dice: d12 | Adventure Hook |
 |-----------|----------------|

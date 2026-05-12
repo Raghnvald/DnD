@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar
+- "Duergar"
 ---
-# [Duergar](3-Mechanics\CLI\bestiary\humanoid/duergar.md)
-*Source: Monster Manual p. 122, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md)
+*Source: Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
 
@@ -32,7 +32,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -45,7 +45,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "scale mail, shield"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -58,15 +58,21 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "1"
 "traits":
   - "desc": "The duergar has advantage on saving throws against poison, spells, and\
-      \ illusions, as well as to resist being charmed or paralyzed."
+      \ illusions, as well as to resist being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "For 1 minute, the duergar magically increases in size, along with anything\
@@ -76,22 +82,22 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
       \ lacks the room to become Large, it attains the maximum size possible in the\
       \ space available."
     "name": "Enlarge (Recharges after a Short or Long Rest)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
     "name": "War Pick"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing\
       \ damage while enlarged."
     "name": "Javelin"
-  - "desc": "The duergar magically turns invisible until it attacks, casts a spell,\
-      \ or uses its Enlarge, or until its concentration is broken, up to 1 hour (as\
-      \ if concentrating on a spell). Any equipment the duergar wears or carries is\
-      \ invisible with it."
+  - "desc": "The duergar magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ is broken, up to 1 hour (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the duergar wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/duergar.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar.webp"
 ```
 ^statblock
 

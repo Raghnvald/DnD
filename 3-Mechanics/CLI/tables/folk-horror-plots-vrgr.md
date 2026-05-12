@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Folk Horror Plots
+- "Folk Horror Plots"
 ---
 # Folk Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
 **Folk Horror Plots**
-
-`dice: [](folk-horror-plots-vrgr.md#^folk-horror-plots)`
 
 | dice: d8 | Plot |
 |----------|------|

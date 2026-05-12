@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Slave of the Archfey
+- "Booyahg Slave of the Archfey"
 ---
-# [Booyahg Slave of the Archfey](3-Mechanics\CLI\bestiary\humanoid/booyahg-slave-of-the-archfey-vgm.md)
+# [Booyahg Slave of the Archfey](3-Mechanics/CLI/bestiary/humanoid/booyahg-slave-of-the-archfey-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "11"
-"ac_class": "14 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "14 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "modifier": !!int "1"
@@ -48,41 +48,43 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "wisdom": !!int "3"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+2"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+2"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+6"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "any two languages (usually Sylvan), Goblin"
 "cr": "4"
 "traits":
   - "desc": "The goblin is an 11th-level spellcaster. Its spellcasting ability is\
       \ Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its\
       \ expended spell slots when it finishes a short or long rest. It knows the following\
-      \ warlock spells:\n\n**Cantrips (at will):** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [eldritch blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md), [friends](/3-Mechanics/CLI/spells/friends-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md), [vicious\
-      \ mockery](/3-Mechanics/CLI/spells/vicious-mockery-xphb.md)\n\n**1st-5th level\
-      \ (3 slots):** [blink](/3-Mechanics/CLI/spells/blink-xphb.md), [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [dominate\
-      \ beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
-      \ [fear](/3-Mechanics/CLI/spells/fear-xphb.md), [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md),\
-      \ [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md), [phantasmal force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md),\
-      \ [seeming](/3-Mechanics/CLI/spells/seeming-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+      \ warlock spells:\n\n**Cantrips (at will):** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md), [friends](3-Mechanics/CLI/spells/friends-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [vicious\
+      \ mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md)\n\n**1st-5th level\
+      \ (3 slots):** [blink](3-Mechanics/CLI/spells/blink-xphb.md), [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [dominate\
+      \ beast](3-Mechanics/CLI/spells/dominate-beast-xphb.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md), [hold monster](3-Mechanics/CLI/spells/hold-monster-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md),\
+      \ [seeming](3-Mechanics/CLI/spells/seeming-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells (spell save DC 15), requiring no material components:\n\
-      \n**At will:** [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [silent\
-      \ image](/3-Mechanics/CLI/spells/silent-image-xphb.md), [speak with animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\
-      \n**1/day:** [conjure fey](/3-Mechanics/CLI/spells/conjure-fey-xphb.md)"
+      \n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [silent\
+      \ image](3-Mechanics/CLI/spells/silent-image-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\
+      \n**1/day:** [conjure fey](3-Mechanics/CLI/spells/conjure-fey-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The goblin"
     "name": "Nimble Escape"
@@ -91,13 +93,13 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
       \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "reactions":
-  - "desc": "In response to taking damage, the goblin turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "In response to taking damage, the goblin turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ and teleports up to 60 feet to an unoccupied space it can see. It remains\
-      \ [invisible](/3-Mechanics/CLI/conditions.md#Invisible) until the start of its\
-      \ next turn or until it attacks, makes a damage roll, or casts a spell."
+      \ [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) until the start\
+      \ of its next turn or until it attacks, makes a damage roll, or casts a spell."
     "name": "Misty Escape (Recharges after a Short or Long Rest)"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/booyahg-slave-of-the-archfey-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-slave-of-the-archfey-vgm.webp"
 ```
 ^statblock

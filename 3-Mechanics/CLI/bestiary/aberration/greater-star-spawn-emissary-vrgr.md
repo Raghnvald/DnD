@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Greater Star Spawn Emissary
+- "Greater Star Spawn Emissary"
 ---
-# [Greater Star Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/greater-star-spawn-emissary-vrgr.md)
+# [Greater Star Spawn Emissary](3-Mechanics/CLI/bestiary/aberration/greater-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  
 
 An emissary's greater form sheds all pretense of being part of a plane's reality and openly mocks it. A destructive titan, this form rises in a 25-foot-tall pillar of violent flesh amalgamating the meat and voices of every form the emissary has ever mimicked. Manifestations of alien hunger erupt from this horror in waves of ravenous organs and mind-breaking psychic assaults.
@@ -51,14 +51,14 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   - "wisdom": !!int "13"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+22"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "acid, force, necrotic, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 23"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 23"
 "languages": "all, telepathy 1,000 ft."
 "cr": "21"
 "traits":
@@ -69,17 +69,17 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 "actions":
   - "desc": "The emissary makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (2d10 + 7) piercing damage plus 13 (3d8) acid damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (2d10 + 7) piercing damage plus 13 (3d8) acid damage."
     "name": "Lashing Maw"
   - "desc": "*Ranged Spell Attack:* +15 to hit, range 120 ft., one creature. *Hit:*\
       \ 27 (3d12 + 8) psychic damage."
     "name": "Psychic Orb"
   - "desc": "The emissary expels bile that splashes all creatures in a 30-foot-radius\
       \ sphere centered on a point within 120 feet of the emissary. Each creature\
-      \ in that area must make a DC 23 Dexterity saving throw, taking 55 (10d10) acid\
-      \ damage on a failed save, or half as much damage on a successful one. For each\
-      \ creature that fails the saving throw, a [gibbering mouther](/3-Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md)\
+      \ in that area must make a DC 23 Dexterity saving throw, taking 55 (10d10)\
+      \ acid damage on a failed save, or half as much damage on a successful one.\
+      \ For each creature that fails the saving throw, a [gibbering mouther](3-Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md)\
       \ (see its entry in the Monster Manual) appears in an unoccupied space on a\
       \ surface that can support it within 30 feet of that creature. The gibbering\
       \ mouthers act right after the emissary on the same initiative count, gaining\
@@ -106,6 +106,6 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
     "name": "Mind Cloud (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/greater-star-spawn-emissary-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/greater-star-spawn-emissary-vrgr.webp"
 ```
 ^statblock

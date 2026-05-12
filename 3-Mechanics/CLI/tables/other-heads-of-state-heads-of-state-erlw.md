@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Other Heads of State; Heads of State
+- "Other Heads of State; Heads of State"
 ---
 # Other Heads of State; Heads of State
 *Source: Eberron: Rising from the Last War p. 82* 
 
 **Heads of State**
-
-`dice: [](other-heads-of-state-heads-of-state-erlw.md#^heads-of-state)`
 
 | dice: d20 | Patron and Missions |
 |-----------|---------------------|

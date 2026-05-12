@@ -4,7 +4,6 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/background/selesnya-initiate
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/class/ranger
@@ -17,7 +16,7 @@ classes:
 - Druid
 - Ranger
 aliases:
-- Speak with Plants
+- "Speak with Plants"
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  
@@ -28,14 +27,14 @@ aliases:
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-You imbue plants in an immobile 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+You imbue plants in an immobile 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
 
-You can also turn [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) that lasts for the duration.
+You can also turn [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) that lasts for the duration.
 
 The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.
 
 If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

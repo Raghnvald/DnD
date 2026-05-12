@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
+- "Faerie Dragon Adventures; Faerie Dragon Adventure Hooks"
 ---
 # Faerie Dragon Adventures; Faerie Dragon Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 118* 
 
 **Faerie Dragon Adventure Hooks**
-
-`dice: [](faerie-dragon-adventures-faerie-dragon-adventure-hooks-ftd.md#^faerie-dragon-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

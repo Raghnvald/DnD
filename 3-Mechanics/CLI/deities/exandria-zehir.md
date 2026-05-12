@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/trickery
-aliases: 
-- Zehir
+aliases:
+- "Zehir"
 ---
 # Zehir
 *Source: Explorer's Guide to Wildemount p. 29* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-zehir.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-zehir.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Category**: Betrayer Gods

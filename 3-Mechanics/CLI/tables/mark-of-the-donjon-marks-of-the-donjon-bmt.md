@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Mark of the Donjon; Marks of the Donjon
+- "Mark of the Donjon; Marks of the Donjon"
 ---
 # Mark of the Donjon; Marks of the Donjon
 *Source: The Book of Many Things p. 134* 
 
 **Marks of the Donjon**
-
-`dice: [](mark-of-the-donjon-marks-of-the-donjon-bmt.md#^marks-of-the-donjon)`
 
 | dice: d6 | Curse |
 |----------|-------|

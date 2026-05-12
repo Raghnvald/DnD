@@ -12,7 +12,7 @@ aliases:
 - "Hazirawn"
 ---
 # Hazirawn
-*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword.md)), legendary (requires attunement)*  
+*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement)*  
 
 
 - **Damage**: 2d6 slashing
@@ -27,10 +27,10 @@ While you are attuned to this weapon, its bonus on attack and damage rolls incre
 
 ## Spells
 
-Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast [detect magic](3-Mechanics/CLI/spells/detect-magic.md) (1 charge), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md) (1 charge), or [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md) (2 charges). Each night at midnight, Hazirawn regains `1d4` expended charges.
+Hazirawn has 4 charges to cast spells. As long as the sword is attuned to you and you are holding it in your hand, you can cast [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) (1 charge), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) (1 charge), or [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md) (2 charges). Each night at midnight, Hazirawn regains `1d4` expended charges.
 
 ## Wounding
 
 While you are attuned to the weapon, any creature that you hit with Hazirawn can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 
-*Source: Hoard of the Dragon Queen p. 94*
+*Source: Hoard of the Dragon Queen p. 94, Tyranny of Dragons p. 178*

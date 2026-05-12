@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nalfeshnee
+- "Nalfeshnee"
 ---
-# [Nalfeshnee](3-Mechanics\CLI\bestiary\fiend/nalfeshnee-xmm.md)
+# [Nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md)
 *Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Nalfeshnee
@@ -22,7 +22,7 @@ aliases:
 *Demon of Intimidation and Hopelessness*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Nalfeshnees seek to dominate all they encounter. Hulking and grotesque, these demons combine misshapen, bestial features with ogre-like frames. Through both brute force and cunning, nalfeshnees compel cultists and weaker demons to serve them in the endless conflicts of the Abyss or in plots on the Material Plane.
 
@@ -58,18 +58,18 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
   - "charisma": !!int "7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "If the nalfeshnee dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The nalfeshnee has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The nalfeshnee has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -82,12 +82,12 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
       \ see."
     "name": "Teleport"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 15-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the nalfeshnee. *Failure:* 28 (8d6) Psychic damage, and the\
-      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
-      \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\
-      \ out of line of sight. *Success:* The target is immune to this nalfeshnee's\
-      \ Horror Nimbus for 24 hours."
+  - "desc": "*Wisdom Saving Throw:* DC 15, each creature in a 15-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the nalfeshnee. *Failure:* 28 (8d6) Psychic damage, and\
+      \ the target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition for 1 minute, until it takes damage, or until it ends its turn with\
+      \ the nalfeshnee out of line of sight. *Success:* The target is immune to this\
+      \ nalfeshnee's Horror Nimbus for 24 hours."
     "name": "Horror Nimbus (Recharge 5-6)"
 "reactions":
   - "desc": "Trigger: Another creature the nalfeshnee can see ends its move within\
@@ -96,7 +96,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
     "name": "Pursuit"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/nalfeshnee-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/nalfeshnee-xmm.webp"
 ```
 ^statblock
 

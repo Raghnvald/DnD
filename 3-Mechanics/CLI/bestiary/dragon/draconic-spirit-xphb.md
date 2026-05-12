@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draconic Spirit
+- "Draconic Spirit"
 ---
-# [Draconic Spirit](3-Mechanics\CLI\bestiary\dragon/draconic-spirit-xphb.md)
-*Source: Player's Handbook (2024) p. 325*  
+# [Draconic Spirit](3-Mechanics/CLI/bestiary/dragon/draconic-spirit-xphb.md)
+*Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Draconic Spirit (XPHB)"
@@ -31,9 +31,9 @@ aliases:
   - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
 "traits":
@@ -53,6 +53,6 @@ aliases:
     "name": "Breath Weapon"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp"
 ```
 ^statblock

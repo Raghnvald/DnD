@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Copper Dragon Scale Mail"
 ---
 # Copper Dragon Scale Mail

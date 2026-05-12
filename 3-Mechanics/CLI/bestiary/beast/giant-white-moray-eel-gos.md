@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant White Moray Eel
+- "Giant White Moray Eel"
 ---
-# [Giant White Moray Eel](3-Mechanics\CLI\bestiary\beast/giant-white-moray-eel-gos.md)
+# [Giant White Moray Eel](3-Mechanics/CLI/bestiary/beast/giant-white-moray-eel-gos.md)
 *Source: Ghosts of Saltmarsh p. 216*  
 
 ```statblock
@@ -49,6 +49,6 @@ aliases:
     "name": "Bite"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-white-moray-eel-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-white-moray-eel-gos.webp"
 ```
 ^statblock

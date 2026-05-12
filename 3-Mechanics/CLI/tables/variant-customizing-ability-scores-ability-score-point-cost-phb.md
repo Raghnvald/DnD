@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Variant: Customizing Ability Scores; Ability Score Point Cost
+- "Variant: Customizing Ability Scores; Ability Score Point Cost"
 ---
 # Variant: Customizing Ability Scores; Ability Score Point Cost
 *Source: Player's Handbook p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 

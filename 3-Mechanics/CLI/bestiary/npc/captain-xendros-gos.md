@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Captain Xendros
+- "Captain Xendros"
 ---
-# [Captain Xendros](3-Mechanics\CLI\bestiary\npc/captain-xendros-gos.md)
+# [Captain Xendros](3-Mechanics/CLI/bestiary/npc/captain-xendros-gos.md)
 *Source: Ghosts of Saltmarsh p. 14*  
 
 ```statblock
@@ -42,13 +42,12 @@ aliases:
   - "name": "Religion"
     "desc": "+5"
 "damage_resistances": "fire"
+"gear":
+  - "mace"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "any two languages, Infernal"
 "cr": "2"
 "traits":
-  - "desc": "Xendros\n\n**At will:** thaumaturgy\n\n**1/day each:** darkness, hellish\
-      \ rebuke"
-    "name": "Innate Spellcasting"
   - "desc": "Xendros is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 13, +5 to hit with spell attacks). Xendros has the following\
       \ cleric spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
@@ -63,11 +62,11 @@ aliases:
       \ each level above 1st."
     "name": "Divine Eminence"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage."
     "name": "Mace"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/captain-xendros-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/captain-xendros-gos.webp"
 ```
 ^statblock

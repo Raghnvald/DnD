@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Backstory; Favorite Foods (Greying Wildlands)
+- "Backstory; Favorite Foods (Greying Wildlands)"
 ---
 # Backstory; Favorite Foods (Greying Wildlands)
 *Source: Explorer's Guide to Wildemount p. 191* 
 
 **Favorite Foods (Greying Wildlands)**
-
-`dice: [](backstory-favorite-foods-greying-wildlands-egw.md#^favorite-foods-greying-wildlands)`
 
 | dice: d8 | Food |
 |----------|------|

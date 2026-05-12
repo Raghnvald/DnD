@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Plots and Intrigue; Intrigue Guilds
+- "Plots and Intrigue; Intrigue Guilds"
 ---
 # Plots and Intrigue; Intrigue Guilds
 *Source: Guildmasters' Guide to Ravnica p. 124* 
 
 **Intrigue Guilds**
-
-`dice: [](plots-and-intrigue-intrigue-guilds-ggr.md#^intrigue-guilds)`
 
 | dice: d12 | Guild |
 |-----------|-------|

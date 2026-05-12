@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of the Rooted Hills"
 ---
 # Staff of the Rooted Hills
@@ -18,7 +18,7 @@ aliases:
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 The hill rune is carved into this gnarled wooden staff. The staff magically resizes to match the height of any creature that attunes to it.
@@ -27,7 +27,7 @@ The staff can be wielded as a magic quarterstaff that grants a +1 bonus to attac
 
 ## Invoking the Rune
 
-As an action, you can invoke the staff's rune to cast either [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md) (save DC 12) or [speak with plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md) with the staff. When you cast [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md) using the staff, the target is wreathed in spectral vines.
+As an action, you can invoke the staff's rune to cast either hold person (save DC 12) or speak with plants with the staff. When you cast hold person using the staff, the target is wreathed in spectral vines.
 
 Once the rune has been invoked to cast either spell, it can't be invoked again until the next dawn.
 

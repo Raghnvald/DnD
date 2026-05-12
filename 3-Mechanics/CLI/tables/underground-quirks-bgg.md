@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Underground Quirks
+- "Underground Quirks"
 ---
 # Underground Quirks
 *Source: Bigby Presents: Glory of the Giants p. 16* 
 
 **Underground Quirks**
-
-`dice: [](underground-quirks-bgg.md#^underground-quirks)`
 
 | dice: d6 | Quirk |
 |----------|-------|

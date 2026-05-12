@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Hag; Hag Personality Traits
+- "Roleplaying a Hag; Hag Personality Traits"
 ---
 # Roleplaying a Hag; Hag Personality Traits
 *Source: Volo's Guide to Monsters p. 54* 
 
 **Hag Personality Traits**
-
-`dice: [](roleplaying-a-hag-hag-personality-traits-vgm.md#^hag-personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Scholar's Pack"
 ---
 # Scholar's Pack
@@ -18,11 +18,11 @@ aliases:
 
 Includes:
 
-- a [backpack](/3-Mechanics/CLI/items/backpack.md)  
-- a [book](/3-Mechanics/CLI/items/book.md) of lore  
-- a [bottle of ink](/3-Mechanics/CLI/items/ink-1-ounce-bottle.md)  
-- an [ink pen](/3-Mechanics/CLI/items/ink-pen.md)  
-- 10 [sheets of parchment](/3-Mechanics/CLI/items/parchment-one-sheet.md)  
+- a [backpack](3-Mechanics/CLI/items/backpack.md)  
+- a [book](3-Mechanics/CLI/items/book.md) of lore  
+- a [bottle of ink](3-Mechanics/CLI/items/ink-1-ounce-bottle.md)  
+- an [ink pen](3-Mechanics/CLI/items/ink-pen.md)  
+- 10 [sheets of parchment](3-Mechanics/CLI/items/parchment-one-sheet.md)  
 - a little bag of sand  
 - a small knife.  
 

@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/goliath
 aliases:
-- Goliath
+- "Goliath"
 ---
 # Goliath
-*Source: Volo's Guide to Monsters p. 108, Explorer's Guide to Wildemount p. 175*  
-![](/3-Mechanics/CLI/races/img/goliath.webp#right)
+*Source: Volo's Guide to Monsters p. 108, Elemental Evil Player's Companion p. 10, Explorer's Guide to Wildemount p. 175*  
+![](3-Mechanics/CLI/races/img/goliath.webp#right)
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium

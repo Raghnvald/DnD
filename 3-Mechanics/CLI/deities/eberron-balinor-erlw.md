@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/nature
-- new/domain/war
-aliases: 
-- Balinor
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/deity/eberron
+- ttrpg-cli/domain/nature
+- ttrpg-cli/domain/war
+aliases:
+- "Balinor"
 ---
 # Balinor
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Sovereign Host](/3-Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](3-Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/8
-- new/monster/size/large
-- new/monster/type/fiend/demon
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Hezrou
+- "Reduced-Threat Hezrou"
 ---
-# [Reduced-Threat Hezrou](3-Mechanics\CLI\bestiary\fiend/reduced-threat-hezrou-tftyp.md)
+# [Reduced-Threat Hezrou](3-Mechanics/CLI/bestiary/fiend/reduced-threat-hezrou-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -41,8 +41,9 @@ aliases:
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -55,9 +56,9 @@ aliases:
       \ effects."
     "name": "Magic Resistance"
   - "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
-      \ on a DC 12 Constitution saving throw or be poisoned until the start of its\
-      \ next turn. On a successful saving throw, the creature is immune to the hezrou's\
-      \ stench for 24 hours."
+      \ on a DC 12 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ until the start of its next turn. On a successful saving throw, the creature\
+      \ is immune to the hezrou's stench for 24 hours."
     "name": "Stench"
 "actions":
   - "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
@@ -70,6 +71,6 @@ aliases:
     "name": "Claws"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/reduced-threat-hezrou-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/reduced-threat-hezrou-tftyp.webp"
 ```
 ^statblock

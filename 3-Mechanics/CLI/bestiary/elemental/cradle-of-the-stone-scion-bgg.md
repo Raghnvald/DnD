@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cradle of the Stone Scion
+- "Cradle of the Stone Scion"
 ---
-# [Cradle of the Stone Scion](3-Mechanics\CLI\bestiary\elemental/cradle-of-the-stone-scion-bgg.md)
+# [Cradle of the Stone Scion](3-Mechanics/CLI/bestiary/elemental/cradle-of-the-stone-scion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 168*  
 
 A scion of Skoraeus typically slumbers deep in the heart of a towering mountain, almost becoming one with the earth. While the scion dreams, the mountain's minerals are transformed into fine carving stones and brilliant gems.
@@ -51,15 +51,13 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
+  \ prone"
 "senses": "tremorsense 120 ft., passive Perception 14"
 "languages": "Giant, Primordial"
 "cr": "23"
 "traits":
-  - "desc": "The cradle is a container for the [scion of Skoraeus](/3-Mechanics/CLI/bestiary/giant/scion-of-skoraeus-bgg.md).\
+  - "desc": "The cradle is a container for the [scion of Skoraeus](3-Mechanics/CLI/bestiary/giant/scion-of-skoraeus-bgg.md).\
       \ When the cradle drops to 0 hit points, its body crumbles to dust. The scion\
       \ instantly appears in the space the cradle occupied and uses the cradle's initiative\
       \ count."
@@ -74,23 +72,23 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "actions":
   - "desc": "The cradle makes two Slam or Spit Rock attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 30\
-      \ (4d10 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:*\
+      \ 30 (4d10 + 8) bludgeoning damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +15 to hit, range 120 ft., one target. *Hit:*\
-      \ 24 (3d10 + 8) bludgeoning damage, and the target must succeed on a DC 23 Strength\
-      \ saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ 24 (3d10 + 8) bludgeoning damage, and the target must succeed on a DC 23\
+      \ Strength saving throw or have the prone condition."
     "name": "Spit Rock"
   - "desc": "The cradle lets out a painfully load roar. Each creature within 60 feet\
       \ of the cradle must make a DC 23 Constitution saving throw. On a failed save,\
-      \ a creature takes 33 (6d10) thunder damage and has the [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ condition until the end of its next turn."
+      \ a creature takes 33 (6d10) thunder damage and has the incapacitated condition\
+      \ until the end of its next turn."
     "name": "Shattering Roar (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The cradle causes the crystals on its body to flare with light. Each\
       \ creature within 30 feet of the cradle must succeed on a DC 22 Constitution\
-      \ saving throw or take 21 (6d6) radiant damage and have the [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ condition until the end of the cradle's next turn."
+      \ saving throw or take 21 (6d6) radiant damage and have the blinded condition\
+      \ until the end of the cradle's next turn."
     "name": "Crystal Flare"
   - "desc": "The cradle causes the ground in a 20-foot square within 90 feet of itself\
       \ to sprout crystal spikes until the start of its next turn. The area becomes\
@@ -110,6 +108,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-stone-scion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-stone-scion-bgg.webp"
 ```
 ^statblock

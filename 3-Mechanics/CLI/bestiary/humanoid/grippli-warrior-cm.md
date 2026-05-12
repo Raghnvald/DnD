@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid/grippli
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/grippli
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grippli Warrior
+- "Grippli Warrior"
 ---
-# [Grippli Warrior](3-Mechanics\CLI\bestiary\humanoid/grippli-warrior-cm.md)
+# [Grippli Warrior](3-Mechanics/CLI/bestiary/humanoid/grippli-warrior-cm.md)
 *Source: Candlekeep Mysteries p. 99*  
 
 At first glance or from a distance, a grippli looks like a large frog. Its head and body are indeed those of a frog, but its front extremities end in hands with fingers that enable it to manipulate weapons and other objects, and its rear legs have similar digits that it can use for grasping and climbing. A grippli can move as quickly on all fours as it can on two legs.
@@ -42,6 +42,9 @@ At first glance or from a distance, a grippli looks like a large frog. Its head 
     "desc": "+4"
   - "name": "Survival"
     "desc": "+4"
+"gear":
+  - "shortbow"
+  - "trident"
 "senses": "passive Perception 12"
 "languages": "Grippli plus one other language (usually Common, Draconic, or Primordial)"
 "cr": "1/4"
@@ -65,11 +68,11 @@ At first glance or from a distance, a grippli looks like a large frog. Its head 
       \ damage if the grippli had advantage on the attack roll."
     "name": "Trident"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
-      \ 5 (1d6 + 2) piercing damage, plus 2 (1d4) piercing damage if the grippli had\
-      \ advantage on the attack roll."
+      \ 5 (1d6 + 2) piercing damage, plus 2 (1d4) piercing damage if the grippli\
+      \ had advantage on the attack roll."
     "name": "Shortbow"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/grippli-warrior-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/grippli-warrior-cm.webp"
 ```
 ^statblock

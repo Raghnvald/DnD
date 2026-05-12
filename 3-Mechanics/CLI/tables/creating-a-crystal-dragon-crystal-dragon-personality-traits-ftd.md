@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Crystal Dragon; Crystal Dragon Personality Traits
+- "Creating a Crystal Dragon; Crystal Dragon Personality Traits"
 ---
 # Creating a Crystal Dragon; Crystal Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 103* 
 
 **Crystal Dragon Personality Traits**
-
-`dice: [](creating-a-crystal-dragon-crystal-dragon-personality-traits-ftd.md#^crystal-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

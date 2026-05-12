@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/spellcasting-focus
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/weapon/ranged
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/gear/spellcasting-focus
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/weapon/ranged
+- ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Forcebreaker Weapon"
 - "Forcebreaker Club"
 - "Forcebreaker Flail"

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nivix Cyclops
+- "Nivix Cyclops"
 ---
-# [Nivix Cyclops](3-Mechanics\CLI\bestiary\giant/nivix-cyclops-ggr.md)
+# [Nivix Cyclops](3-Mechanics/CLI/bestiary/giant/nivix-cyclops-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 216*  
 
 Cyclopes like those described in the Monster Manual are found primarily among the Gruul Clans. They are forces of nature, and even though they have occasionally been recruited into the Boros Legion, they can never truly be tamed.
@@ -25,7 +25,7 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
 "type": "giant"
 "alignment": "Unaligned"
 "ac": !!int "14"
-"ac_class": "[half plate armor](/3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
+"ac_class": "half plate armor"
 "hp": !!int "115"
 "hit_dice": "10d10 + 60"
 "modifier": !!int "-1"
@@ -41,11 +41,8 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
   - "constitution": !!int "9"
   - "wisdom": !!int "3"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Giant"
 "cr": "8"
 "traits":
@@ -55,8 +52,8 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
 "actions":
   - "desc": "The cyclops makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 23\
-      \ (3d10 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 23 (3d10 + 7) bludgeoning damage."
     "name": "Slam"
 "reactions":
   - "desc": "Immediately after a creature casts a spell of 1st level or higher within\
@@ -66,6 +63,6 @@ Cyclopes serve the Izzet league as workshop guardians, personal protectors, and 
     "name": "Spell Vitalization"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/nivix-cyclops-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/nivix-cyclops-ggr.webp"
 ```
 ^statblock

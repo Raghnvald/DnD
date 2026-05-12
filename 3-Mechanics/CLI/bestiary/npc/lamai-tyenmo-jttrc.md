@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lamai Tyenmo
+- "Lamai Tyenmo"
 ---
-# [Lamai Tyenmo](3-Mechanics\CLI\bestiary\npc/lamai-tyenmo-jttrc.md)
+# [Lamai Tyenmo](3-Mechanics/CLI/bestiary/npc/lamai-tyenmo-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 20*  
 
 ```statblock
@@ -33,18 +33,21 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[club](3-Mechanics/CLI/items/club.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "any one language (usually Common), Gnomish"
 "cr": "0"
 "traits":
   - "desc": "Lamai"
     "name": "Gnome Cunning"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lamai-tyenmo-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lamai-tyenmo-jttrc.webp"
 ```
 ^statblock

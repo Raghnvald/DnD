@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mithral Armor"
 - "Mithral Breastplate"
 - "Mithral Chain Mail"
@@ -26,7 +26,7 @@ aliases:
 
 
 
-Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
+Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 **Variants**:
 - [Mithral Breastplate](#Mithral%20Breastplate)

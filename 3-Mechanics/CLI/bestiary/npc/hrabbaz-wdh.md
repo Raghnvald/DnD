@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hrabbaz
+- "Hrabbaz"
 ---
-# [Hrabbaz](3-Mechanics\CLI\bestiary\npc/hrabbaz-wdh.md)
+# [Hrabbaz](3-Mechanics/CLI/bestiary/npc/hrabbaz-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 205*  
 
 Hrabbaz is a muscle-bound half-orc with a cleft palate who serves the lord and lady of House Gralhund as a bodyguard. He is well mannered and dresses impeccably-a disarming appearance that belies a murderous heart. Though he has great respect for Lady Yalah Gralhund, he is less fond of her moody husband, and wouldn't be sad to see Orond knocked down a peg or two.
@@ -39,13 +39,16 @@ Hrabbaz is a muscle-bound half-orc with a cleft palate who serves the lord and l
   - "strength": !!int "8"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"gear":
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Common, Orc"
 "cr": "5"
 "traits":
@@ -61,11 +64,11 @@ Hrabbaz is a muscle-bound half-orc with a cleft palate who serves the lord and l
 "actions":
   - "desc": "Hrabbaz makes three attacks with his morningstar."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage."
     "name": "Morningstar"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hrabbaz-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hrabbaz-wdh.webp"
 ```
 ^statblock

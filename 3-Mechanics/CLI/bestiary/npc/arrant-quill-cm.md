@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/11
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arrant Quill
+- "Arrant Quill"
 ---
-# [Arrant Quill](3-Mechanics\CLI\bestiary\npc/arrant-quill-cm.md)
+# [Arrant Quill](3-Mechanics/CLI/bestiary/npc/arrant-quill-cm.md)
 *Source: Candlekeep Mysteries p. 157*  
 
 Quill is a charismatic bard who carries himself with a quiet confidence that doesn't hint at the full extent of his skills or powers. His handsome features are marred by a scar that curves from the top of his left cheekbone down to his jaw, though he doesn't consider the scar disfiguring. If asked about the scar, he explains that he got it years ago when the man who burned down his home village slashed his face with a dagger. It serves as a grim reminder of his past.
@@ -52,6 +52,8 @@ As long as Quill remains in Wisteria Vale, he is immune to all damage and automa
     "desc": "+7"
   - "name": "Performance"
     "desc": "+13"
+"gear":
+  - "dagger"
 "senses": "passive Perception 12"
 "languages": "Common, Draconic, Elvish, Undercommon"
 "cr": "11"
@@ -69,8 +71,8 @@ As long as Quill remains in Wisteria Vale, he is immune to all damage and automa
   - "desc": "Quill hurls a string of insults laced with enchantments at a creature\
       \ he can see within 60 feet of him. If the creature can hear Quill (though it\
       \ need not understand him), it must succeed on a DC 17 Wisdom saving throw or\
-      \ take 66 (12d10) psychic damage and have disadvantage on the next attack roll\
-      \ it makes before the end of its next turn."
+      \ take 66 (12d10) psychic damage and have disadvantage on the next attack\
+      \ roll it makes before the end of its next turn."
     "name": "Supreme Mockery"
   - "desc": "Quill casts one of the following spells using Charisma as the spellcasting\
       \ ability (save DC 17):\n\n**At will:** light, mage hand, prestidigitation\n\
@@ -79,6 +81,6 @@ As long as Quill remains in Wisteria Vale, he is immune to all damage and automa
     "name": "Spellcasting"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/arrant-quill-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/arrant-quill-cm.webp"
 ```
 ^statblock

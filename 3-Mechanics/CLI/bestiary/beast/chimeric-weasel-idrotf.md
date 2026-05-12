@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chimeric Weasel
+- "Chimeric Weasel"
 ---
-# [Chimeric Weasel](3-Mechanics\CLI\bestiary\beast/chimeric-weasel-idrotf.md)
+# [Chimeric Weasel](3-Mechanics/CLI/bestiary/beast/chimeric-weasel-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 246*  
 
 ```statblock
@@ -33,26 +33,26 @@ aliases:
   - !!int "3"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The weasel has advantage on Wisdom (Perception) checks that rely on hearing\
-      \ or smell."
+  - "desc": "The weasel has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The weasel has glowing eyes that emit bright light out in a 20-foot radius\
       \ and dim light for an additional 20 feet."
     "name": "Chimeric Creation"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Bite"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/chimeric-weasel-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/chimeric-weasel-idrotf.webp"
 ```
 ^statblock

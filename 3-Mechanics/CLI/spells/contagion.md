@@ -9,14 +9,12 @@ tags:
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/oathbreaker
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Druid
-- Paladin (Oathbreaker)
 aliases:
-- Contagion
+- "Contagion"
 ---
 # Contagion
 *5th-level, Necromancy*  
@@ -27,15 +25,15 @@ aliases:
 - **Components:** V, S
 - **Duration:** 7 days
 
-Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).
+Your touch inflicts disease. Make a melee spell attack against a creature within your reach. On a hit, the target is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).
 
-At the end of each of the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) target's turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), and the spell ends. If the target fails three of these saves, the target is no longer [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), but choose one of the diseases below. The target is subjected to the chosen disease for the spell's duration.
+At the end of each of the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) target's turns, the target must make a Constitution saving throw. If the target succeeds on three of these saves, it is no longer [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), and the spell ends. If the target fails three of these saves, the target is no longer [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), but choose one of the diseases below. The target is subjected to the chosen disease for the spell's duration.
 
 Since this spell induces a natural disease in its target, any effect that removes a disease or otherwise ameliorates a disease's effects apply to it.
 
 ## Blinding Sickness
 
-Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded](/3-Mechanics/CLI/conditions.md#Blinded).
+Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded).
 
 ## Filth Fever
 
@@ -47,7 +45,7 @@ The creature's flesh decays. The creature has disadvantage on Charisma checks an
 
 ## Mindfire
 
-The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion](/3-Mechanics/CLI/spells/confusion.md) spell during combat.
+The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [confusion](3-Mechanics/CLI/spells/confusion.md) spell during combat.
 
 ## Seizure
 
@@ -55,10 +53,10 @@ The creature is overcome with shaking. The creature has disadvantage on Dexterit
 
 ## Slimy Doom
 
-The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of its next turn.
+The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the end of its next turn.
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oathbreaker)](/3-Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG")
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 227. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

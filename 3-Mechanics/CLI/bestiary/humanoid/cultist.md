@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cultist
+- "Cultist"
 ---
-# [Cultist](3-Mechanics\CLI\bestiary\humanoid/cultist.md)
-*Source: Monster Manual p. 345, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Cultist](3-Mechanics/CLI/bestiary/humanoid/cultist.md)
+*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
@@ -25,7 +25,7 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "12"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -38,24 +38,26 @@ Cultists swear allegiance to dark powers such as elemental princes, demon lords,
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "traits":
-  - "desc": "The cultist has advantage on saving throws against being charmed or frightened."
+  - "desc": "The cultist has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d6 + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d6 + 1) slashing damage."
     "name": "Scimitar"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/cultist.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/cultist.webp"
 ```
 ^statblock
 

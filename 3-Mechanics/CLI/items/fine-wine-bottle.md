@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/food-and-drink
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Fine Wine (bottle)"
 ---
 # Fine Wine (bottle)

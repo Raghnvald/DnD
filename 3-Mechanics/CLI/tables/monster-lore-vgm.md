@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Monster Lore
+- "Monster Lore"
 ---
 # Monster Lore
 *Source: Volo's Guide to Monsters p. 5* 

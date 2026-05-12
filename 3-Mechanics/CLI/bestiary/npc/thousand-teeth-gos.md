@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thousand Teeth
+- "Thousand Teeth"
 ---
-# [Thousand Teeth](3-Mechanics\CLI\bestiary\npc/thousand-teeth-gos.md)
+# [Thousand Teeth](3-Mechanics/CLI/bestiary/npc/thousand-teeth-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  
 
 Thousand Teeth is an ancient crocodilian nightmare that has served as the apex predator in the swamps near Saltmarsh for as long as anyone can remember. This monster recently fought a number of lizardfolk and lost one of its teeth. Angered and hungry, it sulks in its lair, lost in primal dreams of rending and tearing. It is found in the deep marshes in Danger at Dunwater.
@@ -58,8 +58,8 @@ Thousand Teeth is an ancient crocodilian nightmare that has served as the apex p
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15\
       \ (2d10 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 8\
-      \ (1d8 + 4) bludgeoning damage. If the target is a creature, it must succeed\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 8 (1d8 + 4) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 15 Strength saving throw or be knocked prone."
     "name": "Tail"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
@@ -74,6 +74,6 @@ Thousand Teeth is an ancient crocodilian nightmare that has served as the apex p
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/thousand-teeth-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/thousand-teeth-gos.webp"
 ```
 ^statblock

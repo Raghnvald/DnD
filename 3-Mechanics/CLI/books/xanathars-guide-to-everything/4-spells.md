@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Spells
+- "Spells"
 ---
 # Spells
 *Source: Xanathar's Guide to Everything, p. 147* 
@@ -22,4 +22,4 @@ See the full list of spells from *Xanathar's Guide to Everything* on the Spells 
 > 
 > I can disintegrate things whenever I want. Like now. And now. And now. And now... Hey, where'd everybody go?
 
-![](/3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c3001.webp#center)
+![](3-Mechanics/CLI/books/xanathars-guide-to-everything/img/c3001.webp#center)

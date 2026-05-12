@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Armor
+- "Animated Armor"
 ---
-# [Animated Armor](3-Mechanics\CLI\bestiary\construct/animated-armor.md)
-*Source: Monster Manual p. 19, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Animated Armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md)
+*Source: Monster Manual p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
 
@@ -46,15 +46,21 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The armor is incapacitated while in the area of an antimagic field. If\
-      \ targeted by dispel magic, the armor must succeed on a Constitution saving\
-      \ throw against the caster's spell save DC or fall unconscious for 1 minute."
+  - "desc": "The armor is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), the\
+      \ armor must succeed on a Constitution saving throw against the caster's spell\
+      \ save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the armor remains motionless, it is indistinguishable from a normal\
       \ suit of armor."
@@ -62,12 +68,11 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 "actions":
   - "desc": "The armor makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-armor.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-armor.webp"
 ```
 ^statblock

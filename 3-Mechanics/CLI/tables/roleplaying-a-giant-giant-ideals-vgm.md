@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Giant; Giant Ideals
+- "Roleplaying a Giant; Giant Ideals"
 ---
 # Roleplaying a Giant; Giant Ideals
 *Source: Volo's Guide to Monsters p. 23* 
 
 **Giant Ideals**
-
-`dice: [](roleplaying-a-giant-giant-ideals-vgm.md#^giant-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

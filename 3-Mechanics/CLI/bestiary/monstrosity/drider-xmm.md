@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drider
+- "Drider"
 ---
-# [Drider](3-Mechanics\CLI\bestiary\monstrosity/drider-xmm.md)
+# [Drider](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md)
 *Source: Monster Manual (2024) p. 105. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Drider
@@ -22,15 +22,13 @@ aliases:
 *Spiderlike Underdark Hunter*
 
 - **Habitat.** Forest, Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Driders combine the features of drow and giant spiders. The wicked god Lolth is fond of transforming her drow worshipers into driders, as either a blessing or a curse. These driders often become fanatical servants of their god, or they are overwhelmed by their transformation and live only to indulge their predatory arachnid instincts.
 
 Driders also appear when whole communities are transformed by a wicked god's wrath or other magical means, or driders might be part of a world's natural population. Most dwell underground or in dense forests where they can make the most of their spiderlike traits. Driders with non-drow features are uncommon but possible. Roll on or choose a result from the Drider Metamorphoses table to inspire how supernatural driders come into being.
 
 **Drider Metamorphoses**
-
-`dice: [](drider-xmm.md#^drider-metamorphoses)`
 
 | dice: 1d6 | The Drider Gained Its Form As... |
 |-----------|----------------------------------|
@@ -60,19 +58,19 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - !!int "12"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+10"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "6"
 "traits":
   - "desc": "The drider can climb difficult surfaces, including along ceilings, without\
       \ needing to make an ability check."
     "name": "Spider Climb"
-  - "desc": "While in sunlight, the drider has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the drider has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
   - "desc": "The drider ignores movement restrictions caused by webs, and the drider\
@@ -82,19 +80,21 @@ Driders also appear when whole communities are transformed by a wicked god's wra
   - "desc": "The drider makes three attacks, using Foreleg or Poison Burst in any\
       \ combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 13 (2d8 + 4) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 13 (2d8 + 4) Piercing\
+      \ damage."
     "name": "Foreleg"
-  - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 13 (3d6 + 3) Poison damage."
+  - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 13 (3d6 + 3) Poison\
+      \ damage."
     "name": "Poison Burst"
 "bonus_actions":
-  - "desc": "The drider casts [Darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](/3-Mechanics/CLI/spells/web-xphb.md),\
+  - "desc": "The drider casts [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), or [Web](3-Mechanics/CLI/spells/web-xphb.md),\
       \ requiring no Material components and using Wisdom as the spellcasting ability\
       \ (spell save DC 14).\n"
     "name": "Magic of the Spider Queen (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/drider-xmm.webp"
 ```
 ^statblock
 

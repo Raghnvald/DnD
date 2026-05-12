@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tasha the Witch
+- "Tasha the Witch"
 ---
-# [Tasha the Witch](3-Mechanics\CLI\bestiary\npc/tasha-the-witch-veor.md)
+# [Tasha the Witch](3-Mechanics/CLI/bestiary/npc/tasha-the-witch-veor.md)
 *Source: Vecna: Eve of Ruin p. 252*  
 
 Tasha's path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including Tasha's Hideous Laughter, and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as Iggwilv the Witch Queen and wrote the Demonomicon of Iggwilv, the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha became Zybilna, archfey of the domain of Prismeer.
@@ -29,7 +29,7 @@ When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfe
 "subtype": "human, wizard"
 "alignment": "Chaotic Neutral"
 "ac": !!int "19"
-"ac_class": "robe of the archmagi"
+"ac_class": "[robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)"
 "hp": !!int "210"
 "hit_dice": "28d8 + 84"
 "modifier": !!int "4"
@@ -46,13 +46,13 @@ When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfe
   - "wisdom": !!int "7"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+18"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+12"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+12"
-"condition_immunities": "charmed, frightened"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
 "senses": "passive Perception 11"
 "languages": "Abyssal, Celestial, Common, Draconic, Elvish, Infernal, Sylvan"
 "cr": "19"
@@ -62,7 +62,7 @@ When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfe
   - "desc": "Tasha has advantage on saving throws against spells and other magical\
       \ effects. (This trait is bestowed by her Robe of the Archmagi.)"
     "name": "Magic Resistance"
-  - "desc": "Tasha wears a Robe of the Archmagi."
+  - "desc": "Tasha wears a [Robe of the Archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Tasha makes two Caustic Blast attacks and uses Psychic Whip once."
@@ -72,22 +72,26 @@ When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfe
     "name": "Caustic Blast"
   - "desc": "Tasha psychically lashes out at one creature she can see within 90 feet\
       \ of herself. The target must make a DC 20 Intelligence saving throw. On a failed\
-      \ save, the target takes 21 (6d6) psychic damage and has the stunned condition\
-      \ until the start of Tasha's next turn. On a successful save, the target takes\
-      \ half as much damage only."
+      \ save, the target takes 21 (6d6) psychic damage and has the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ condition until the start of Tasha's next turn. On a successful save, the\
+      \ target takes half as much damage only."
     "name": "Psychic Whip"
   - "desc": "Tasha casts one of the following spells, using Intelligence as the spellcasting\
       \ ability (spell save DC 22, +14 to hit with spell attacks):\n\n**At will:**\
-      \ Detect Magic, Disguise Self, Dispel Magic, Light, Mage Hand, Message, Prestidigitation,\
-      \ Tasha's Hideous Laughter\n\n**2/day:** Polymorph\n\n**1/day each:** Maze,\
-      \ Telekinesis"
+      \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [Tasha's\
+      \ Hideous Laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
+      \n**2/day:** [Polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\n**1/day\
+      \ each:** [Maze](3-Mechanics/CLI/spells/maze-xphb.md), [Telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "For 1 minute, Tasha gains a flying speed of 30 feet, is immune to poison\
-      \ damage and the poisoned condition, and has advantage on attack rolls against\
-      \ any creature that doesn't have all its hit points. These benefits end early\
-      \ if Tasha has the incapacitated condition or if she uses another bonus action\
-      \ to dismiss them."
+      \ damage and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition,\
+      \ and has advantage on attack rolls against any creature that doesn't have all\
+      \ its hit points. These benefits end early if Tasha has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition or if she uses another bonus action to dismiss them."
     "name": "Abyssal Visage (2/Day)"
 "reactions":
   - "desc": "Immediately after Tasha takes damage, she unleashes arcane energy in\
@@ -99,6 +103,6 @@ When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfe
     "name": "Arcane Rebuff"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tasha-the-witch-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/tasha-the-witch-veor.webp"
 ```
 ^statblock

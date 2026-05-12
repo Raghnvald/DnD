@@ -7,14 +7,14 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Bane
-- The Black Hand
-- The Lord of Darkness
+aliases:
+- "Bane"
+- "The Black Hand"
+- "The Lord of Darkness"
 ---
 # Bane
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-bane.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-bane.webp#symbol)
 
 - **Alternate Names**: The Black Hand, The Lord of Darkness
 - **Alignment**: Lawful Evil

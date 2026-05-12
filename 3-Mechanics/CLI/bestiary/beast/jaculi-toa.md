@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-2
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jaculi
+- "Jaculi"
 ---
-# [Jaculi](3-Mechanics\CLI\bestiary\beast/jaculi-toa.md)
+# [Jaculi](3-Mechanics/CLI/bestiary/beast/jaculi-toa.md)
 *Source: Tomb of Annihilation p. 225*  
 
 A jaculi (pronounced jah-KOO-lee) is a 15-foot-long snake that can alter the color and texture of its scales to camouflage itself. Altering its appearance to resemble wood or stone, it coils around pillars and tree trunks from which it launches itself like a javelin, striking with great force and accuracy.
@@ -38,23 +38,26 @@ Jaculis are found in damp climates, and their preferred habitats are rainforests
   - !!int "3"
 "speed": "30 ft., climb 20 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "blindsight 30 ft., passive Perception 11"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The jaculi has advantage on Dexterity (Stealth) checks made to hide."
+  - "desc": "The jaculi has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide."
     "name": "Camouflage"
-  - "desc": "The jaculi has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The jaculi has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) piercing damage."
     "name": "Bite"
   - "desc": "The jaculi springs up to 30 feet in a straight line and makes a bite\
       \ attack against a target within its reach. This attack has advantage if the\
@@ -63,6 +66,6 @@ Jaculis are found in damp climates, and their preferred habitats are rainforests
     "name": "Spring"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/jaculi-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/jaculi-toa.webp"
 ```
 ^statblock

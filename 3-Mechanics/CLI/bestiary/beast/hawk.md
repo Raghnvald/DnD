@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hawk
+- "Hawk"
 ---
-# [Hawk](3-Mechanics\CLI\bestiary\beast/hawk.md)
+# [Hawk](3-Mechanics/CLI/bestiary/beast/hawk.md)
 *Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -33,21 +33,21 @@ aliases:
   - !!int "6"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The hawk has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The hawk has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ slashing damage."
     "name": "Talons"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hawk.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/hawk.webp"
 ```
 ^statblock

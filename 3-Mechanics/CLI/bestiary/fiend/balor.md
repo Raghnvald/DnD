@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Balor
+- "Balor"
 ---
-# [Balor](3-Mechanics\CLI\bestiary\fiend/balor.md)
-*Source: Monster Manual p. 55, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Balor](3-Mechanics/CLI/bestiary/fiend/balor.md)
+*Source: Monster Manual p. 55. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
@@ -159,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -213,8 +213,12 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[whip](3-Mechanics/CLI/items/whip.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -225,9 +229,10 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ and it destroys the balor's weapons."
     "name": "Death Throes"
   - "desc": "At the start of each of the balor's turns, each creature within 5 feet\
-      \ of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't\
-      \ being worn or carried ignite. A creature that touches the balor or hits it\
-      \ with a melee attack while within 5 feet of it takes 10 (3d6) fire damage."
+      \ of it takes 10 (3d6) fire damage, and flammable objects in the aura that\
+      \ aren't being worn or carried ignite. A creature that touches the balor or\
+      \ hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire\
+      \ damage."
     "name": "Fire Aura"
   - "desc": "The balor has advantage on saving throws against spells and other magical\
       \ effects."
@@ -238,20 +243,20 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "desc": "The balor makes two attacks: one with its longsword and one with its\
       \ whip."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores\
-      \ a critical hit, it rolls damage dice three times, instead of twice."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor\
+      \ scores a critical hit, it rolls damage dice three times, instead of twice."
     "name": "Longsword"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed\
-      \ on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target\
+      \ must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward\
+      \ the balor."
     "name": "Whip"
   - "desc": "The balor magically teleports, along with any equipment it is wearing\
       \ or carrying, up to 120 feet to an unoccupied space it can see."
     "name": "Teleport"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/balor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/balor.webp"
 ```
 ^statblock

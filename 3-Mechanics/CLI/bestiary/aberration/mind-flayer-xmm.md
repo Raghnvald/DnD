@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mind Flayer
+- "Mind Flayer"
 ---
-# [Mind Flayer](3-Mechanics\CLI\bestiary\aberration/mind-flayer-xmm.md)
+# [Mind Flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md)
 *Source: Monster Manual (2024) p. 214*  
 
 A mind flayer's hunger for brains is outmeasured only by its thirst for dominance, and it embraces any plot that allows it to indulge both.
@@ -23,7 +23,7 @@ A mind flayer's hunger for brains is outmeasured only by its thirst for dominanc
 *Brain-Eating Underdark Tyrants*
 
 - **Habitat.** Underdark  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
 
 Scattered survivors of a world-ruining, multiversal empire, mind flayers lurk in secret conclaves hidden deep within Material Plane worlds. Within their alien sanctuaries, these wicked masterminds—also known as illithids—reshape the Underdark and its inhabitants to serve their unfathomable whims. Mind flayers are feared for their psionic powers, which allow them to stun and control other creatures, and for their horrific method of feeding: using their four slimy tentacles to extract the brains of their victims.
 
@@ -34,8 +34,6 @@ Mind flayers are infamous plotters and manipulators, concocting plans that reach
 Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-spanning illithid conspiracies. In groups, mind flayers work toward bizarre agendas organized by an elder brain—a massive, brain-like being with incredible psionic powers. Without such a leader, groups of mind flayers fall to self-destructive squabbling. Roll on or choose a result from the Mind Flayer Machinations table to inspire an illithid conclave's plots.
 
 **Mind Flayer Machinations**
-
-`dice: [](mind-flayer-xmm.md#^mind-flayer-machinations)`
 
 | dice: 1d6 | The Mind Flayer Colony Seeks To... |
 |-----------|------------------------------------|
@@ -70,50 +68,52 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"gear":
+  - "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "7"
 "traits":
-  - "desc": "The mind flayer has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The mind flayer has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 22 (4d8 + 4) Psychic damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 22 (4d8 + 4) Psychic\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 14) from all the mind flayer's tentacles, and the target\
-      \ has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until\
+      \ has the [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) condition until\
       \ the grapple ends."
     "name": "Tentacles"
-  - "desc": "*Constitution Saving Throw:* DC 15, one creature that is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Constitution Saving Throw:* DC 15, one creature that is [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by the mind flayer's Tentacles. *Failure:* 55 (10d10) Piercing damage. *Success:*\
       \ Half damage. *Failure or Success:* If this damage reduces the target to 0\
-      \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), the mind\
-      \ flayer kills it and devours its brain."
+      \ [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), the\
+      \ mind flayer kills it and devours its brain."
     "name": "Extract Brain"
-  - "desc": "*Intelligence Saving Throw:* DC 15, each creature in a 60-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
-      \ *Failure:* 31 (6d8 + 4) Psychic damage, and the target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+  - "desc": "*Intelligence Saving Throw:* DC 15, each creature in a 60-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
+      \ *Failure:* 31 (6d8 + 4) Psychic damage, and the target has the [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ condition until the end of the mind flayer's next turn. *Success:* Half damage\
       \ only."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\n**At will:** [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\
-      \n**1/day each:** [Dominate Monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
-      \ [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
+      \ DC 15):\n\n**At will:** [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\
+      \n**1/day each:** [Dominate Monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-xmm.webp"
 ```
 ^statblock
 

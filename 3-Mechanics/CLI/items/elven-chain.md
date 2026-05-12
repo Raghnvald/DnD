@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Elven Chain"
 ---
 # Elven Chain
 *Medium armor, major, rare*  
-![](/3-Mechanics/CLI/items/img/elven-chain.webp#right)
+![](3-Mechanics/CLI/items/img/elven-chain.webp#right)
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.

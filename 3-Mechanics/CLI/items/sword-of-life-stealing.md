@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Sword of Life Stealing"
 - "Double-Bladed Scimitar of Life Stealing"
 - "Greatsword of Life Stealing"
@@ -21,13 +21,13 @@ aliases:
 ---
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)
+![Sword of Life Stealing (Longsword)](3-Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)
 
 
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
 
 > [!note]
-> Note: According to the SRD, it is an extra `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
+> Note: According to the SRD, it is an extra `3d6` necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 **Variants**:
 - [Double-Bladed Scimitar of Life Stealing](#Double-Bladed%20Scimitar%20of%20Life%20Stealing)
@@ -40,13 +40,13 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 ### Double-Bladed Scimitar of Life Stealing
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Life Stealing
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Life Stealing
@@ -54,25 +54,25 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Life Stealing
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Life Stealing
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Life Stealing
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 

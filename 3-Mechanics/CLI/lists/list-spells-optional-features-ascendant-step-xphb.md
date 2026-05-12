@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/optfeature/ascendant-step
+- ttrpg-cli/spell/list/optfeature/ascendant-step
 aliases:
-- Spells for Ascendant Step
+- "Spells for Ascendant Step"
 ---
 # Spells for Ascendant Step
 
 ## 2nd Level
 
-- [Levitate](/3-Mechanics/CLI/spells/levitate-xphb.md "XPHB")
+- [Levitate](3-Mechanics/CLI/spells/levitate-xphb.md "XPHB")

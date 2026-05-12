@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/tempest
-aliases: 
-- Uk'otoa
+aliases:
+- "Uk'otoa"
 ---
 # Uk'otoa
 *Source: Explorer's Guide to Wildemount p. 33* 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Lightning Bolt
+- "Living Lightning Bolt"
 ---
-# [Living Lightning Bolt](3-Mechanics\CLI\bestiary\construct/living-lightning-bolt-erlw.md)
+# [Living Lightning Bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md)
 *Source: Eberron: Rising from the Last War p. 299*  
 
 ## Constructed Nature
@@ -44,7 +44,7 @@ Now make the following changes to that stat block:
 
 **Spell Mimicry**. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.
 
-For example, if you turn fireball (a 3rd-level spell) into a living spell, customize the [living lightning bolt](/3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates fireball with Spell Mimicry.
+For example, if you turn fireball (a 3rd-level spell) into a living spell, customize the [living lightning bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates fireball with Spell Mimicry.
 
 ```statblock
 "name": "Living Lightning Bolt (ERLW)"
@@ -91,6 +91,6 @@ For example, if you turn fireball (a 3rd-level spell) into a living spell, custo
     "name": "Spell Mimicry (Recharge 5-6)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/living-lightning-bolt-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/living-lightning-bolt-erlw.webp"
 ```
 ^statblock

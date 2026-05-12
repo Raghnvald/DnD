@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/monster/legendary-group
 aliases:
-- Baphomet
+- "Baphomet"
 ---
 # Baphomet
 
@@ -24,8 +24,8 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
 
-- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) and Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception)) and Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks have advantage.  
+- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) and Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) checks have advantage.  
 - **Hedge Mazes.** Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
-- **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
+- **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 
-If Baphomet dies, these effects fade over the course of `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If Baphomet dies, these effects fade over the course of `1d10` days.

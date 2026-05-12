@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/saurial
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/saurial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragonbait
+- "Dragonbait"
 ---
-# [Dragonbait](3-Mechanics\CLI\bestiary\npc/dragonbait-toa.md)
+# [Dragonbait](3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md)
 *Source: Tomb of Annihilation p. 218*  
 
 Dragonbait is a champion of good and a saurial-a race that originated on a distant world and whose members have long lives. Very few saurials dwell in the Forgotten Realms, and no saurial communities are believed to exist anywhere in the world.
@@ -50,7 +50,7 @@ Dragonbait "shouts" the scent of ham while going where others fear to tread. (Tr
 "subtype": "saurial"
 "alignment": "Lawful Good"
 "ac": !!int "17"
-"ac_class": "breastplate, shield"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "120"
 "hit_dice": "16d8 + 48"
 "modifier": !!int "1"
@@ -66,9 +66,9 @@ Dragonbait "shouts" the scent of ham while going where others fear to tread. (Tr
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "Medicine"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+6"
 "condition_immunities": "disease"
 "senses": "passive Perception 13"
@@ -77,18 +77,18 @@ Dragonbait "shouts" the scent of ham while going where others fear to tread. (Tr
 "traits":
   - "desc": "Dragonbait is immune to disease."
     "name": "Divine Health"
-  - "desc": "While holding his holy avenger longsword, Dragonbait creates an aura\
-      \ in a 10-foot radius around him. While this aura is active, Dragonbait and\
-      \ all creatures friendly to him in the aura have advantage on saving throws\
-      \ against spells and other magical effects."
+  - "desc": "While holding his [holy avenger longsword](3-Mechanics/CLI/items/holy-avenger-xdmg.md),\
+      \ Dragonbait creates an aura in a 10-foot radius around him. While this aura\
+      \ is active, Dragonbait and all creatures friendly to him in the aura have advantage\
+      \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "Dragonbait makes two melee weapon attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) slashing damage, or 10 (1d10 + 5) slashing damage when used with two\
-      \ hands. If the target is a fiend or an undead it takes an extra 11 (2d10) radiant\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage when used\
+      \ with two hands. If the target is a fiend or an undead it takes an extra 11\
+      \ (2d10) radiant damage."
     "name": "Holy Avenger (+3 Longsword)"
   - "desc": "Dragonbait chooses one creature he can see within 60 feet of him and\
       \ determines its alignment, as long as the creature isn't hidden from divination\
@@ -96,6 +96,6 @@ Dragonbait "shouts" the scent of ham while going where others fear to tread. (Tr
     "name": "Sense Alignment"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/dragonbait-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/dragonbait-toa.webp"
 ```
 ^statblock

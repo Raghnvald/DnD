@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zephyros
+- "Zephyros"
 ---
-# [Zephyros](3-Mechanics\CLI\bestiary\npc/zephyros-skt.md)
+# [Zephyros](3-Mechanics/CLI/bestiary/npc/zephyros-skt.md)
 *Source: Storm King's Thunder p. 33*  
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -96,52 +96,65 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
   - "desc": "Zephyros's innate spellcasting ability is Charisma. He can innately cast\
-      \ the following spells, requiring no material components:\n\n**At will:** detect\
-      \ magic, fog cloud, light\n\n**3/day each:** feather fall, fly, misty step,\
-      \ telekinesis\n\n**1/day each:** control weather, gaseous form"
+      \ the following spells, requiring no material components:\n\n**At will:** [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Zephyros has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "Zephyros has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
   - "desc": "Zephyros tries to throw a Small or Medium creature within 10 feet of\
       \ it. The target must succeed on a DC 20 Dexterity saving throw or be hurled\
-      \ up to 60 feet horizontally in a direction of Zephyros's choice and land prone,\
+      \ up to 60 feet horizontally in a direction of Zephyros's choice and land [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
       \ taking 1d8 bludgeoning damage for every 10 feet it was thrown."
     "name": "Fling"
   - "desc": "A magical aura of wind surrounds Zephyros. The aura is a 10-foot-radius\
-      \ sphere that lasts as long as he maintains concentration on it (as if concentrating\
+      \ sphere that lasts as long as he maintains [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on it (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ on a spell). While the aura is in effect, Zephyros gains a +2 bonus to his\
       \ AC against ranged weapon attacks, and all open flames within the aura are\
       \ extinguished unless they are magical."
     "name": "Wind Aura"
   - "desc": "Zephyros makes two staff attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 20\
-      \ (3d6 + 10) bludgeoning damage, or 23 (3d8 + 10) bludgeoning damage if used\
-      \ with two hands. This damage is considered magical.."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 20 (3d6 + 10) bludgeoning damage, or 23 (3d8 + 10) bludgeoning damage\
+      \ if used with two hands. This damage is considered magical.."
     "name": "Staff of the Magi"
   - "desc": "*Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:*\
       \ 30 (4d10 + 8) bludgeoning damage."
     "name": "Rock"
   - "desc": "Zephyros casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17, +11\
-      \ to hit with spell attacks):\n\n**At will:** message, prestidigitation, ray\
-      \ of frost\n\n**2/day each:** gust of wind, levitate, magic missile\n\n**1/day\
-      \ each:** cone of cold, contact other plane (cast as 1 action), greater invisibility,\
-      \ mass suggestion, nondetection, Otiluke's resilient sphere, protection from\
-      \ energy, tongues"
+      \ to hit with spell attacks):\n\n**At will:** [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [ray\
+      \ of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**2/day each:**\
+      \ [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md)\n\n**1/day each:**\
+      \ [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [contact other\
+      \ plane](3-Mechanics/CLI/spells/contact-other-plane-xphb.md) (cast as 1 action),\
+      \ [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md),\
+      \ [Otiluke's resilient sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md),\
+      \ [protection from energy](3-Mechanics/CLI/spells/protection-from-energy-xphb.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zephyros-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zephyros-skt.webp"
 ```
 ^statblock

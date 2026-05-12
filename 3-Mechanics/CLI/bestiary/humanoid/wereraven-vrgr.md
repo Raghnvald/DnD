@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wereraven
+- "Wereraven"
 ---
-# [Wereraven](3-Mechanics\CLI\bestiary\humanoid/wereraven-vrgr.md)
-*Source: Van Richten's Guide to Ravenloft p. 253, Curse of Strahd p. 242*  
+# [Wereraven](3-Mechanics/CLI/bestiary/humanoid/wereraven-vrgr.md)
+*Source: Van Richten's Guide to Ravenloft p. 253*  
 
 Wereravens are secretive and extraordinarily cautious lycanthropes that trust one another but are wary of just about everyone else. Although skilled at blending into society, they keep mostly to themselves, respect local laws, and strive to do good whenever possible.
 
@@ -53,10 +53,13 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
   - !!int "14"
 "speed": "30 ft. (fly 50 ft. in raven and hybrid forms)"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common (can't speak in raven form)"
 "cr": "2"
@@ -68,7 +71,7 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
     "name": "Shapechanger"
   - "desc": "The wereraven can mimic simple sounds it has heard, such as a person\
       \ whispering, a baby crying, or an animal chittering. A creature that hears\
-      \ the sounds can tell they are imitations with a successful DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
+      \ the sounds can tell they are imitations with a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
       \ check."
     "name": "Mimicry"
   - "desc": "The wereraven regains 10 hit points at the start of its turn. If the\
@@ -80,20 +83,19 @@ A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or 
   - "desc": "The wereraven makes two weapon attacks, one of which can be with its\
       \ hand crossbow."
     "name": "Multiattack (Human or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid form. If the\
-      \ target is humanoid, it must succeed on a DC 10 Constitution saving throw or\
-      \ be cursed with wereraven lycanthropy."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage in raven form, or 4 (1d4 + 2) piercing damage in hybrid\
+      \ form. If the target is humanoid, it must succeed on a DC 10 Constitution saving\
+      \ throw or be cursed with wereraven lycanthropy."
     "name": "Beak (Raven or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword (Human or Hybrid Form Only)"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow (Human or Hybrid Form Only)"
 "source":
   - "VRGR"
-  - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/wereraven-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/wereraven-vrgr.webp"
 ```
 ^statblock

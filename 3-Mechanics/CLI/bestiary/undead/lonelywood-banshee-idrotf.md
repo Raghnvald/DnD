@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lonelywood Banshee
+- "Lonelywood Banshee"
 ---
-# [Lonelywood Banshee](3-Mechanics\CLI\bestiary\undead/lonelywood-banshee-idrotf.md)
+# [Lonelywood Banshee](3-Mechanics/CLI/bestiary/undead/lonelywood-banshee-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 81*  
 
 This banshee is the spectral remnant of a female elf warrior who was banished for a selfish, evil act. It wields a spectral longbow that shoots phantom arrows. There is only one banshee haunting the forest. If it's destroyed, it re-forms after 24 hours in a random location in the forest, damned to its eternal exile.
@@ -40,9 +40,13 @@ This banshee is the spectral remnant of a female elf warrior who was banished fo
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Elvish"
 "cr": "4"
 "traits":
@@ -51,20 +55,20 @@ This banshee is the spectral remnant of a female elf warrior who was banished fo
       \ they're in but not their exact locations."
     "name": "Detect Life"
   - "desc": "The banshee can move through other creatures and objects as if they were\
-      \ difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside\
-      \ an object."
+      \ difficult terrain. She takes 5 (1d10) force damage if she ends her turn\
+      \ inside an object."
     "name": "Incorporeal Movement"
 "actions":
   - "desc": "*Ranged Spell Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 12 (3d6 + 2) necrotic damage."
     "name": "Spectral Longbow"
   - "desc": "Each non-undead creature within 60 feet of the banshee that can see her\
-      \ must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute.\
-      \ A frightened target can repeat the saving throw at the end of each of its\
-      \ turns, with disadvantage if the banshee is within line of sight, ending the\
-      \ effect on itself on a success. If a target's saving throw is successful or\
-      \ the effect ends for it, the target is immune to the banshee's Horrifying Visage\
-      \ for the next 24 hours."
+      \ must succeed on a DC 13 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
+      \ if the banshee is within line of sight, ending the effect on itself on a success.\
+      \ If a target's saving throw is successful or the effect ends for it, the target\
+      \ is immune to the banshee's Horrifying Visage for the next 24 hours."
     "name": "Horrifying Visage"
   - "desc": "The banshee releases a mournful wail, provided that she isn't in sunlight.\
       \ This wail has no effect on constructs and undead. All other creatures within\
@@ -74,6 +78,6 @@ This banshee is the spectral remnant of a female elf warrior who was banished fo
     "name": "Wail (1/Day)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/lonelywood-banshee-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/lonelywood-banshee-idrotf.webp"
 ```
 ^statblock

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Larva
+- "Larva"
 ---
-# [Larva](3-Mechanics\CLI\bestiary\fiend/larva-xmm.md)
+# [Larva](3-Mechanics/CLI/bestiary/fiend/larva-xmm.md)
 *Source: Monster Manual (2024) p. 193*  
 
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
@@ -47,16 +47,17 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
   - !!int "10"
   - !!int "2"
 "speed": "20 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Necrotic damage."
+  - "desc": "*Melee Attack Roll:* +1, reach 5 ft. *Hit:* 1 (1d4 - 1) Necrotic\
+      \ damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/larva-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/larva-xmm.webp"
 ```
 ^statblock
 

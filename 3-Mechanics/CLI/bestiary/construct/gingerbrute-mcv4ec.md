@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gingerbrute
+- "Gingerbrute"
 ---
-# [Gingerbrute](3-Mechanics\CLI\bestiary\construct/gingerbrute-mcv4ec.md)
+# [Gingerbrute](3-Mechanics/CLI/bestiary/construct/gingerbrute-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Gingerbread cookies baked in the wilds of Eldraine—or made from ingredients grown there—have a habit of developing a life of their own. Known as gingerbrutes, these cookie Constructs are notoriously difficult to pin down.
@@ -44,18 +44,20 @@ The same magic that animates a gingerbrute also makes it extra scrumptious. Thos
   - !!int "12"
 "speed": "60 ft."
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+6"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+3"
 "damage_vulnerabilities": "bludgeoning"
-"condition_immunities": "exhaustion"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
 "senses": "passive Perception 10"
 "languages": "one language of its creator"
 "cr": "1/2"
 "traits":
   - "desc": "The gingerbrute has advantage on any ability checks or saving throws\
-      \ it makes to avoid or end the grappled or the restrained condition on itself."
+      \ it makes to avoid or end the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ or the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) condition\
+      \ on itself."
     "name": "Can't Catch Me"
   - "desc": "Once the gingerbrute is destroyed, a creature can use its action to eat\
       \ all the remains and gain 5 temporary hit points. The remains crumble away\
@@ -65,14 +67,14 @@ The same magic that animates a gingerbrute also makes it extra scrumptious. Thos
   - "desc": "The gingerbrute makes two Fork attacks, two Gumdrop Slingshot attacks,\
       \ or one of each."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d4 + 4) piercing damage."
     "name": "Fork"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 30/120 ft., one target. *Hit:*\
       \ 6 (1d4 + 4) bludgeoning damage."
     "name": "Gumdrop Slingshot"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/gingerbrute-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/gingerbrute-mcv4ec.webp"
 ```
 ^statblock

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Charisma Check; Conversation Reaction
+- "Charisma Check; Conversation Reaction"
 ---
 # Charisma Check; Conversation Reaction
 *Source: Dungeon Master's Guide p. 245* 

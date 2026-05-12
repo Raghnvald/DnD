@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Boros Legionnaire
+- "Boros Legionnaire"
 ---
 # Boros Legionnaire
 *Source: Guildmasters' Guide to Ravnica p. 40*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
+- **Skill Proficiencies.** Athletics, Intimidation  
 - **Tool Proficiencies.** One type of gaming set  
 - **Languages.** Choose one of Celestial, Draconic, Goblin, or Minotaur  
-- **Equipment.** A Boros insignia, a feather from an angel's wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 2 gp (Boros-minted 1-zino coins)  
+- **Equipment.** A Boros insignia, a feather from an angel's wing, a tattered piece of a Boros banner (a souvenir from a famous battle), a set of common clothes, and a belt pouch containing 2 gp (Boros-minted 1-zino coins)  
 
 As a member of the Boros Legion, your life is devoted to the service of angels and consecrated to the work of establishing justice and peace on the streets of Ravnica. You might be a true believer, inspired by the example of the angels, moved by the plight of the downtrodden, and devoted to the cause of justice. Or you could be a cynic in the ranks, perhaps because you reluctantly followed in the footsteps of a Boros parent, succumbed to the persuasion of a charismatic recruiter's lofty promises, or were drawn in by the prospect of a life of action.
 
@@ -33,12 +33,12 @@ For you, the spells on the Boros Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md), [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md) |
-| 1st | [guiding bolt](/3-Mechanics/CLI/spells/guiding-bolt-xphb.md), [heroism](/3-Mechanics/CLI/spells/heroism-xphb.md) |
-| 2nd | [aid](/3-Mechanics/CLI/spells/aid-xphb.md), [scorching ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md) |
-| 3rd | [beacon of hope](/3-Mechanics/CLI/spells/beacon-of-hope-xphb.md), [blinding smite](/3-Mechanics/CLI/spells/blinding-smite-xphb.md) |
-| 4th | [death ward](/3-Mechanics/CLI/spells/death-ward-xphb.md), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 5th | [flame strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md) |
+| Cantrip | fire bolt, sacred flame |
+| 1st | guiding bolt, heroism |
+| 2nd | aid, scorching ray |
+| 3rd | beacon of hope, blinding smite |
+| 4th | death ward, wall of fire |
+| 5th | flame strike |
 ^boros-guild-spells
 
 Your magic often features dramatic bursts of flame or radiance. When you cast beneficial spells on your allies, they appear momentarily surrounded with halos of bright fire.
@@ -48,8 +48,6 @@ Your magic often features dramatic bursts of flame or radiance. When you cast be
 The Boros Legion is a zealous army, full of righteous energy tempered with military discipline. Its members share its leadership's devotion to the ideals of justice, or they find satisfaction in the more warfare-oriented aspects of the legion's work.
 
 **Personality Traits**
-
-`dice: [](boros-legionnaire-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -65,8 +63,6 @@ The Boros Legion is a zealous army, full of righteous energy tempered with milit
 
 **Ideals**
 
-`dice: [](boros-legionnaire-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -79,8 +75,6 @@ The Boros Legion is a zealous army, full of righteous energy tempered with milit
 
 **Bonds**
 
-`dice: [](boros-legionnaire-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would lay down my life for Aurelia and the angels. |
@@ -92,8 +86,6 @@ The Boros Legion is a zealous army, full of righteous energy tempered with milit
 ^bonds
 
 **Flaws**
-
-`dice: [](boros-legionnaire-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -113,8 +105,6 @@ Roll twice on the Boros Contacts table (for an ally and a rival) and once on the
 
 **Boros Contacts**
 
-`dice: [](boros-legionnaire-ggr.md#^boros-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A former comrade in arms was promoted into the prestigious Sunhome Guard. |
@@ -128,8 +118,6 @@ Roll twice on the Boros Contacts table (for an ally and a rival) and once on the
 ^boros-contacts
 
 **Non-Boros Contacts**
-
-`dice: [](boros-legionnaire-ggr.md#^non-boros-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

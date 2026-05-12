@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wynling
+- "Wynling"
 ---
-# [Wynling](3-Mechanics\CLI\bestiary\fey/wynling-jttrc.md)
+# [Wynling](3-Mechanics/CLI/bestiary/fey/wynling-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 33*  
 
 Playful and mischievous, wynlings defend mountain heights and alpine vales against trespassers. A wynling rarely engages a threat directly, preferring to deter intruders by harassing them with thefts and pranks. Many travelers return from lands protected by wynlings with stories of vanishing equipment and curious eyes staring from the shadows.
@@ -37,19 +37,21 @@ Wynlings typically live on the mountains they protect, but they often venture in
   - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "skillsaves":
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Sylvan"
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d4\
-      \ + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d4 + 5) bludgeoning damage."
     "name": "Slam"
-  - "desc": "The wynling magically turns invisible, along with any equipment it is\
-      \ wearing or carrying, for 1 minute or until it makes an attack roll."
+  - "desc": "The wynling magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible),\
+      \ along with any equipment it is wearing or carrying, for 1 minute or until\
+      \ it makes an attack roll."
     "name": "Cloak of the Mountain (Recharge 4-6)"
 "reactions":
   - "desc": "Immediately after a creature the wynling can see misses the wynling with\
@@ -58,6 +60,6 @@ Wynlings typically live on the mountains they protect, but they often venture in
     "name": "Trickster's Flight"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/wynling-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/wynling-jttrc.webp"
 ```
 ^statblock

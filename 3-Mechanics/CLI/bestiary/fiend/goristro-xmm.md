@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goristro
+- "Goristro"
 ---
-# [Goristro](3-Mechanics\CLI\bestiary\fiend/goristro-xmm.md)
+# [Goristro](3-Mechanics/CLI/bestiary/fiend/goristro-xmm.md)
 *Source: Monster Manual (2024) p. 150*  
 
 ## Goristro
@@ -22,7 +22,7 @@ aliases:
 *Demon of Disaster*
 
 - **Habitat.** Planar (Abyss)  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Terrifying in scale and overwhelming power, goristros are giant demons capable of bringing cities to ruin. These demons embody senseless anarchy and nihilistic destruction, and they take special offense at creatures or structures that rival them in size. Castles, towers, giants, and beasts of war are all common victims of these monsters' wrath.
 
@@ -57,23 +57,23 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
   - "constitution": !!int "13"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 17"
 "languages": "Abyssal"
 "cr": "17"
 "traits":
   - "desc": "If the goristro dies outside the Abyss, its body dissolves into ichor,\
-      \ and it gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ and it gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ somewhere in the Abyss."
     "name": "Demonic Restoration"
-  - "desc": "The goristro has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The goristro has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "The goristro deals double damage to objects and structures."
@@ -83,19 +83,19 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 40 (6d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature, it is pushed up to 20\
-      \ feet straight away from the goristro and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ feet straight away from the goristro and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Brutal Gore"
   - "desc": "*Melee Attack Roll:* +13, reach 10 ft. *Hit:* 29 (4d10 + 7) Bludgeoning\
       \ damage."
     "name": "Slam"
 "bonus_actions":
-  - "desc": "The goristro moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "The goristro moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
       \ straight toward an enemy it can see."
     "name": "Charge"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/goristro-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/goristro-xmm.webp"
 ```
 ^statblock
 

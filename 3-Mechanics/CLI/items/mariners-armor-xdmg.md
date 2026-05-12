@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mariner's Armor"
 - "Mariner's Breastplate"
 - "Mariner's Chain Mail"
@@ -26,10 +26,10 @@ aliases:
 ---
 # Mariner's Armor
 *Uncommon*  
-![](/3-Mechanics/CLI/items/img/mariners-armor.webp#right)
+![Mariner's armor (Leather Armor)](3-Mechanics/CLI/items/img/mariners-armor.webp#right)
 
 
-While wearing this armor, you have a [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md). In addition, if you start your turn underwater with 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md), you immediately regain `dice:1d4|noform|noparens|avg` (`1d4`) [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md). The armor can't heal anyone again until the next dawn.
+While wearing this armor, you have a [Swim Speed](3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md). In addition, if you start your turn underwater with 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you immediately regain `1d4` [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). The armor can't heal anyone again until the next dawn.
 
 The armor is decorated with fish and shell motifs.
 

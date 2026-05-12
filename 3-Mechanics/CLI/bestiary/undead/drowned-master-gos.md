@@ -10,18 +10,18 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drowned Master
+- "Drowned Master"
 ---
-# [Drowned Master](3-Mechanics\CLI\bestiary\undead/drowned-master-gos.md)
+# [Drowned Master](3-Mechanics/CLI/bestiary/undead/drowned-master-gos.md)
 *Source: Ghosts of Saltmarsh p. 235*  
 
 This waterlogged undead, bound to the Pit of Hatred in Tammeraut's Fate, hovers menacingly over the bones of its victims. Its torso, arms, and head retain their former shapes, but its legs have split into shadowy tentacles. The drowned master is tethered to a source of powerful magic that prevents it from traveling far. It commands other drowned ones, compelling them to serve as agents in its dark plots.
 
 ## Bluerot
 
-This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in `dice:1d4|noform|noparens|avg` (`1d4`) hours, causing the victim's Constitution and Charisma scores to decrease by `dice:1d4|noform|noparens|avg` (`1d4`) each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
+This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in `1d4` hours, causing the victim's Constitution and Charisma scores to decrease by `1d4` each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.
 
-At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw. On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease. If the infected creature regains all the points lost to the disease, it is cured. Other effects that raise the victim's ability scores do not cure the disease. On a failed saving throw, the victim takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.
+At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw. On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease. If the infected creature regains all the points lost to the disease, it is cured. Other effects that raise the victim's ability scores do not cure the disease. On a failed saving throw, the victim takes 18 (`4d8`) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal.
 
 ```statblock
 "name": "Drowned Master (GoS)"
@@ -49,6 +49,8 @@ At the end of each long rest, an infected creature makes a DC 12 Constitution sa
     "desc": "+10"
 "damage_immunities": "poison"
 "condition_immunities": "poisoned"
+"gear":
+  - "greatsword"
 "senses": "darkvision 60 ft., passive Perception 20"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "9"
@@ -72,12 +74,12 @@ At the end of each long rest, an infected creature makes a DC 12 Constitution sa
       \ with its Life-Draining Tentacle."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) slashing damage plus 14 (4d6) cold damage, and the target must succeed\
-      \ on a DC 12 Constitution saving throw or contract [bluerot](/3-Mechanics/CLI/diseases.md#Bluerot)\
+      \ (2d6 + 3) slashing damage plus 14 (4d6) cold damage, and the target must\
+      \ succeed on a DC 12 Constitution saving throw or contract [bluerot](3-Mechanics/CLI/rules/diseases.md#Bluerot)\
       \ (see the \"Bluerot\" in notes)."
     "name": "Greatsword"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 15 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) necrotic damage. The target must succeed on a DC 15 Constitution\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 15 ft., one target. *Hit:*\
+      \ 10 (2d6 + 3) necrotic damage. The target must succeed on a DC 15 Constitution\
       \ saving throw or have its hit point maximum reduced by an amount equal to the\
       \ damage taken. The target dies if this effect reduces its hit point maximum\
       \ to 0. This reduction lasts until the target finishes a long rest. On a failed\
@@ -85,12 +87,13 @@ At the end of each long rest, an infected creature makes a DC 12 Constitution sa
     "name": "Life-Draining Tentacle"
   - "desc": "The drowned master discharges foul ink in front of itself in a 30-foot\
       \ cone. Each creature caught in the ink must make a DC 15 Constitution saving\
-      \ throw, taking 27 (6d8) necrotic damage on a failed save or half as much damage\
-      \ on a successful one. A creature that fails this saving throw is blinded until\
-      \ the end of its next turn and contracts bluerot (see the \"Bluerot\" in notes)."
+      \ throw, taking 27 (6d8) necrotic damage on a failed save or half as much\
+      \ damage on a successful one. A creature that fails this saving throw is blinded\
+      \ until the end of its next turn and contracts bluerot (see the \"Bluerot\"\
+      \ in notes)."
     "name": "Necrotic Ink (Recharge 5-6)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/drowned-master-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/drowned-master-gos.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- 2: Guttural Names
+- "2: Guttural Names"
 ---
 # 2: Guttural Names
 *Source: Dungeon Master's Guide (2024) p. 84* 
 
 **2: Guttural Names**
-
-`dice: [](2-guttural-names-xdmg.md#^2-guttural-names)`
 
 | dice: 1d12 | Guttural Given Name | Guttural Surname |
 |------------|---------------------|------------------|

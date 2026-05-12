@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maxeene
+- "Maxeene"
 ---
-# [Maxeene](3-Mechanics\CLI\bestiary\npc/maxeene-wdh.md)
+# [Maxeene](3-Mechanics/CLI/bestiary/npc/maxeene-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 37*  
 
 Maxeene is a talking horse.
@@ -38,11 +38,11 @@ Maxeene is a talking horse.
 "languages": "Common"
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/maxeene-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/maxeene-wdh.webp"
 ```
 ^statblock

@@ -7,17 +7,17 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "War Pick"
 ---
 # War Pick
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/war-pick.webp#right)
+![](3-Mechanics/CLI/items/img/war-pick.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 

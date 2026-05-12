@@ -3,21 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/12
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/12
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Juggernaut
+- "Stone Juggernaut"
 ---
-# [Stone Juggernaut](3-Mechanics\CLI\bestiary\construct/stone-juggernaut-toa.md)
+# [Stone Juggernaut](3-Mechanics/CLI/bestiary/construct/stone-juggernaut-toa.md)
 *Source: Tomb of Annihilation p. 231*  
 
 A stone juggernaut is a rolling construct imbued with enough awareness to avoid obvious dangers such as open pits and chasms. It trundles across open battlefields or rolls down dungeon corridors, crushing anyone in its path. Every stone juggernaut has a unique shape and appearance. One might resemble an elephant with bejeweled tusks, while another might look like a scowling demon with flaming eyes and obsidian teeth.
 
-A stone juggernaut is fast, but it lacks maneuverability and can move in only one direction on its turn. It poses little danger to creatures it can't crush beneath its rollers. Its best tactic is to slam into a creature, knock it prone, and then roll over it.
+A stone juggernaut is fast, but it lacks maneuverability and can move in only one direction on its turn. It poses little danger to creatures it can't crush beneath its rollers. Its best tactic is to slam into a creature, knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone), and then roll over it.
 
 ```statblock
 "name": "Stone Juggernaut (ToA)"
@@ -39,16 +39,20 @@ A stone juggernaut is fast, but it lacks maneuverability and can move in only on
 "speed": "50 ft. (in one direction chosen at the start of its turn)"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks\
   \ not made with adamantine weapons"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned, prone"
-"senses": "blindsight 120 ft., passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "12"
 "traits":
-  - "desc": "The juggernaut can move through the space of a prone creature. A creature\
-      \ whose space the juggernaut enters for the first time on a turn must make a\
-      \ DC 17 Dexterity saving throw, taking 55 (10d10) bludgeoning damage on a failed\
-      \ save, or half as much damage on a successful one."
+  - "desc": "The juggernaut can move through the space of a [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ creature. A creature whose space the juggernaut enters for the first time\
+      \ on a turn must make a DC 17 Dexterity saving throw, taking 55 (10d10) bludgeoning\
+      \ damage on a failed save, or half as much damage on a successful one."
     "name": "Devastating Roll"
   - "desc": "The juggernaut is immune to any spell or effect that would alter its\
       \ form."
@@ -60,12 +64,12 @@ A stone juggernaut is fast, but it lacks maneuverability and can move in only on
   - "desc": "The juggernaut deals double damage to objects and structures."
     "name": "Siege Monster"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 25\
-      \ (3d12 + 6) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 17 Strength saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 25 (3d12 + 6) bludgeoning damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 17 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Slam"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/stone-juggernaut-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/stone-juggernaut-toa.webp"
 ```
 ^statblock

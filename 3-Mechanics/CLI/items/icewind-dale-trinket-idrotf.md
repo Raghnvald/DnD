@@ -3,20 +3,18 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases:
 - "Icewind Dale Trinket"
 ---
 # Icewind Dale Trinket
 *Adventuring gear*  
-![](/3-Mechanics/CLI/items/img/icewind-dale-trinket.webp#right)
+![](3-Mechanics/CLI/items/img/icewind-dale-trinket.webp#right)
 
 
 **Icewind Dale Trinkets**
-
-`dice: [](icewind-dale-trinket-idrotf.md#^icewind-dale-trinkets)`
 
 | dice: d100 | Trinket |
 |------------|---------|

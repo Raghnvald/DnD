@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Thrull
+- "Winged Thrull"
 ---
-# [Winged Thrull](3-Mechanics\CLI\bestiary\construct/winged-thrull-ggr.md)
+# [Winged Thrull](3-Mechanics/CLI/bestiary/construct/winged-thrull-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 221*  
 
 Winged thrulls are at once the most intelligent of Orzhov thrulls (which isn't saying much), as well as the smallest, most unobtrusive, and most mobile. They act as messengers and spies for their Orzhov masters and tend to mimic the mannerisms and movements of the oligarchs they serve.
@@ -45,15 +45,13 @@ A thrull doesn't require air, food, drink, or sleep.
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "exhaustion, poisoned"
+"senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) bludgeoning damage."
@@ -64,6 +62,6 @@ A thrull doesn't require air, food, drink, or sleep.
     "name": "Self-Sacrifice"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/winged-thrull-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/winged-thrull-ggr.webp"
 ```
 ^statblock

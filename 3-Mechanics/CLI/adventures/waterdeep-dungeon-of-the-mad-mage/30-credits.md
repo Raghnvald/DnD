@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Waterdeep: Dungeon of the Mad Mage* 

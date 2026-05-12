@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Cog Hub Adventures
+- "Cog Hub Adventures"
 ---
 # Cog Hub Adventures
 *Source: Eberron: Rising from the Last War p. 250* 
 
 **Cog Hub Adventures**
-
-`dice: [](cog-hub-adventures-erlw.md#^cog-hub-adventures)`
 
 | dice: d10 | Adventure Goal |
 |-----------|----------------|

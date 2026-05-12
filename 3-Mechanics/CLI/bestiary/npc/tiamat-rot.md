@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tiamat
+- "Tiamat"
 ---
-# [Tiamat](3-Mechanics\CLI\bestiary\npc/tiamat-rot.md)
-*Source: The Rise of Tiamat p. 92, Baldur's Gate: Descent Into Avernus*  
+# [Tiamat](3-Mechanics/CLI/bestiary/npc/tiamat-rot.md)
+*Source: The Rise of Tiamat p. 92, Tyranny of Dragons p. 190*  
 
 ```statblock
 "name": "Tiamat (RoT)"
@@ -38,24 +38,24 @@ aliases:
   - "dexterity": !!int "9"
   - "wisdom": !!int "17"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+17"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+26"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+17"
 "damage_immunities": "acid; cold; fire; lightning; poison; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 240 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 240 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
   \ 120 ft., passive Perception 36"
 "languages": "Common, Draconic, Infernal"
 "cr": "30"
 "traits":
   - "desc": "Tiamat can innately cast the following spell, her spellcasting ability\
-      \ is Charisma (spell save DC 26):\n\n**3/day:** [divine word](/3-Mechanics/CLI/spells/divine-word-xphb.md)"
+      \ is Charisma (spell save DC 26):\n\n**3/day:** [divine word](3-Mechanics/CLI/spells/divine-word-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When Tiamat drops to 0 hit points or dies, her body is destroyed but\
       \ her essence travels back to her domain in the Nine Hells, and she is unable\
@@ -70,7 +70,7 @@ aliases:
   - "desc": "Tiamat's weapon attacks are magical."
     "name": "Magic Weapons"
   - "desc": "Tiamat can take one reaction per turn, rather than only one per round.\
-      \ She also has advantage on saving throws against being knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious).\
+      \ She also has advantage on saving throws against being knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).\
       \ If she fails a saving throw against an effect that would stun a creature,\
       \ one of her unspent legendary actions is spent."
     "name": "Multiple Heads"
@@ -80,14 +80,14 @@ aliases:
   - "desc": "Tiamat can use her Frightful Presence. She then makes three attacks:\
       \ two with her claws and one with her tail."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:* 24\
-      \ (4d6 + 10) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:*\
+      \ 24 (4d6 + 10) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 25 ft., one target. *Hit:* 28\
-      \ (4d8 + 10) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 25 ft., one target. *Hit:*\
+      \ 28 (4d8 + 10) piercing damage."
     "name": "Tail"
   - "desc": "Each creature of Tiamat's choice that is within 240 feet of Tiamat and\
-      \ aware of her must succeed on a DC 26 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ aware of her must succeed on a DC 26 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Tiamat's\
@@ -101,14 +101,14 @@ aliases:
   \ option for one of her heads, she can't choose another one associated with that\
   \ head until the start of her next turn."
 "legendary_actions":
-  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:* 32\
-      \ (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head),\
-      \ lightning damage (blue dragon head), poison damage (green dragon head), fire\
-      \ damage (red dragon head), or cold damage (white dragon head)."
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:*\
+      \ 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon\
+      \ head), lightning damage (blue dragon head), poison damage (green dragon head),\
+      \ fire damage (red dragon head), or cold damage (white dragon head)."
     "name": "Bite"
   - "desc": "Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature\
-      \ in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) acid\
-      \ damage on a failed save, or half as much damage on a successful one."
+      \ in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8)\
+      \ acid damage on a failed save, or half as much damage on a successful one."
     "name": "Black Dragon Head: Acid Breath (Costs 2 Actions)"
   - "desc": "Tiamat breathes lightning in a 120-foot line that is 10 feet wide. Each\
       \ creature in that line must make a DC 27 Dexterity saving throw, taking 88\
@@ -129,7 +129,7 @@ aliases:
     "name": "White Dragon Head: Cold Breath (Costs 2 Actions)"
 "source":
   - "RoT"
-  - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tiamat-rot.webp"
+  - "ToD"
+"image": "3-Mechanics/CLI/bestiary/npc/token/tiamat-rot.webp"
 ```
 ^statblock

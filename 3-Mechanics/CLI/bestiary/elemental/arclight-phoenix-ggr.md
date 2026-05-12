@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Arclight Phoenix
+- "Arclight Phoenix"
 ---
-# [Arclight Phoenix](3-Mechanics\CLI\bestiary\elemental/arclight-phoenix-ggr.md)
+# [Arclight Phoenix](3-Mechanics/CLI/bestiary/elemental/arclight-phoenix-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 193*  
 
 An arclight phoenix is variously said to be a byproduct of a lightning strike on an aviary, a mishap in an effort to create a translocation device, or a successful attempt to create an elemental creature in the form of a majestic bird.
@@ -44,12 +44,9 @@ An arclight phoenix doesn't require air, food, drink, or sleep.
   - "dexterity": !!int "10"
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, restrained,\
+  \ unconscious"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "12"
 "traits":
@@ -80,14 +77,14 @@ An arclight phoenix doesn't require air, food, drink, or sleep.
       \ space."
     "name": "Crackling Death"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 27\
-      \ (6d8) lightning damage, and lightning jumps from the target to one creature\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 27 (6d8) lightning damage, and lightning jumps from the target to one creature\
       \ of the phoenix's choice that it can see within 30 feet of the target. That\
       \ second creature must succeed on a DC 18 Dexterity saving throw or take 27\
       \ (6d8) lightning damage."
     "name": "Arclight Touch"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/arclight-phoenix-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/arclight-phoenix-ggr.webp"
 ```
 ^statblock

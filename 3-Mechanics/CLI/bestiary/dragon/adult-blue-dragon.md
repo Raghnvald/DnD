@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Blue Dragon
+- "Adult Blue Dragon"
 ---
-# [Adult Blue Dragon](3-Mechanics\CLI\bestiary\dragon/adult-blue-dragon.md)
+# [Adult Blue Dragon](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md)
 *Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -125,12 +125,12 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "16"
@@ -141,17 +141,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) piercing damage plus 5 (1d10) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d6 + 7) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -168,21 +168,21 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ effect two rounds in a row:\n\n- Part of the ceiling collapses above one creature\
       \ that the dragon can see within 120 feet of it. The creature must succeed on\
       \ a DC 15 Dexterity saving throw or take 10 (3d6) bludgeoning damage and be\
-      \ knocked [prone](/3-Mechanics/CLI/conditions.md#Prone) and buried. The buried\
-      \ target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) and unable\
-      \ to breathe or stand up. A creature can take an action to make a DC 10 Strength\
-      \ check, ending the buried state on a success.  \n- A cloud of sand swirls about\
-      \ in a 20-foot-radius sphere centered on a point the dragon can see within 120\
-      \ feet of it. The cloud spreads around corners. Each creature in the cloud must\
-      \ succeed on a DC 15 Constitution saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and buried. The\
+      \ buried target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ and unable to breathe or stand up. A creature can take an action to make a\
+      \ DC 10 Strength check, ending the buried state on a success.  \n- A cloud of\
+      \ sand swirls about in a 20-foot-radius sphere centered on a point the dragon\
+      \ can see within 120 feet of it. The cloud spreads around corners. Each creature\
+      \ in the cloud must succeed on a DC 15 Constitution saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- Lightning arcs,\
       \ forming a 5-foot-wide line between two of the lair's solid surfaces that the\
       \ dragon can see. They must be within 120 feet of the dragon and 120 feet of\
       \ each other. Each creature in that line must succeed on a DC 15 Dexterity saving\
       \ throw or take 10 (3d6) lightning damage.  \n\n**Additional Lair Actions.**\
-      \ At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md)\
-      \ or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)) blue\
+      \ At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)) blue\
       \ dragon can use one or both of the following additional lair actions while\
       \ in its lair:\n\n- **Misleading Mirage.** Until initiative count 20 on the\
       \ next round, at each intersection or branching passage in the lair, a creature\
@@ -192,9 +192,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ 20-foot-deep pit forms centered on that point. A creature on the ground above\
       \ where the pit formed must make a DC 15 Dexterity saving throw. On a failed\
       \ save, a creature falls to the bottom of the pit, taking 7 (2d6) bludgeoning\
-      \ damage and landing [prone](/3-Mechanics/CLI/conditions.md#Prone). On a successful\
-      \ save, a creature moves to the nearest unoccupied space instead of falling\
-      \ in the pit.  "
+      \ damage and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On\
+      \ a successful save, a creature moves to the nearest unoccupied space instead\
+      \ of falling in the pit.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary blue dragon's lair is warped by the\
@@ -203,18 +203,18 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ miles of the lair. A dust devil has the statistics of an air elemental, but\
       \ it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma\
       \ of 1 (-5).  \n- Hidden sinkholes form in and around the dragon's lair. A sinkhole\
-      \ can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check. Otherwise, the first creature to step on the thin crust covering the\
-      \ sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 × 10 feet\
-      \ into the sinkhole.  \n\nIf the dragon dies, the dust devils disappear immediately,\
-      \ and the thunderstorms abate within 1d10 days. Any sinkholes remain where they\
-      \ are.\n\n**Additional Regional Effects.** Any of these effects might appear\
-      \ in the area around a blue dragon's lair, in addition to or instead of the\
-      \ effects described in the *Monster Manual*:\n\n- **Blue Luster.** Creatures\
+      \ sinkhole must succeed on a DC 15 Dexterity saving throw or fall 1d6 × 10\
+      \ feet into the sinkhole.  \n\nIf the dragon dies, the dust devils disappear\
+      \ immediately, and the thunderstorms abate within 1d10 days. Any sinkholes\
+      \ remain where they are.\n\n**Additional Regional Effects.** Any of these effects\
+      \ might appear in the area around a blue dragon's lair, in addition to or instead\
+      \ of the effects described in the *Monster Manual*:\n\n- **Blue Luster.** Creatures\
       \ that spend a year within 1 mile of the dragon's lair find blue objects fascinating\
       \ and feel compelled to acquire them at every opportunity.  \n- **Mirage Terrain.**\
       \ The area immediately surrounding the lair appears to be a lush oasis. A creature\
-      \ carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
+      \ carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
       \ check to disbelieve it. A creature who disbelieves the illusion sees it as\
       \ a vague image superimposed on the underlying terrain.  \n- **Sandstorm.**\
       \ A sandstorm blows constantly within 1 mile of the dragon's lair.  "
@@ -223,19 +223,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The dragon\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-blue-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-blue-dragon.webp"
 ```
 ^statblock
 

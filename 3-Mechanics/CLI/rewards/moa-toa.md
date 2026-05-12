@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/toa
-- new/reward/inhabitation
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/reward/inhabitation
 aliases:
-- Moa
+- "Moa"
 ---
 # Moa
 *Inhabitation*  
@@ -16,6 +16,6 @@ aliases:
 - **Personality.** Truthful and kind  
 - **Inherited flaw.** "I must always speak the truth."  
 - **Enemy.** Wongo  
-- **Power.** The host can use an action to turn invisible. Anything the host is wearing or carrying is invisible as long as it is on the host's person. The effect ends if the host attacks, casts a spell, forces a saving throw, or deals damage.  
+- **Power.** The host can use an action to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). Anything the host is wearing or carrying is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) as long as it is on the host's person. The effect ends if the host attacks, casts a spell, forces a saving throw, or deals damage.  
 
 *Source: Tomb of Annihilation p. 129*

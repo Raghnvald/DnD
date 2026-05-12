@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/5
-- new/monster/size/small-or-medium
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ambitious Assassin
+- "Ambitious Assassin"
 ---
-# [Ambitious Assassin](3-Mechanics\CLI\bestiary\humanoid/ambitious-assassin-bmt.md)
+# [Ambitious Assassin](3-Mechanics/CLI/bestiary/humanoid/ambitious-assassin-bmt.md)
 *Source: The Book of Many Things p. 45*  
 
 Appropriate for tier 1 play (levels 1 to 4), the ambitious assassin is a Humanoid who might be a charming manipulator or a ruthless killer.
@@ -64,7 +64,8 @@ The villain's challenge rating increases while the villain is in this lair:
   - "desc": "The assassin makes two Poison Blade attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 60\
-      \ ft., one target. *Hit:* 6 (1d4 + 4) piercing damage plus 5 (1d10) poison damage."
+      \ ft., one target. *Hit:* 6 (1d4 + 4) piercing damage plus 5 (1d10) poison\
+      \ damage."
     "name": "Poison Blade"
 "reactions":
   - "desc": "When an attacker the assassin can see hits the assassin with an attack,\
@@ -109,11 +110,11 @@ The villain's challenge rating increases while the villain is in this lair:
   - "desc": "The assassin creates a sudden distraction, such as a cloud of disorienting\
       \ smoke or flash of dazzling light, filling a 10-foot cube within 5 feet of\
       \ the assassin. Each creature of the assassin's choice in that area takes 9\
-      \ (2d8) psychic damage, and the assassin has the invisible condition. This invisibility\
-      \ lasts until the end of the assassin's next turn."
+      \ (2d8) psychic damage, and the assassin has the invisible condition. This\
+      \ invisibility lasts until the end of the assassin's next turn."
     "name": "Vanishing Escape (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/ambitious-assassin-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/ambitious-assassin-bmt.webp"
 ```
 ^statblock

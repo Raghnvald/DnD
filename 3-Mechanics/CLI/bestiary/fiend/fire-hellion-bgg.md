@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Hellion
+- "Fire Hellion"
 ---
-# [Fire Hellion](3-Mechanics\CLI\bestiary\fiend/fire-hellion-bgg.md)
+# [Fire Hellion](3-Mechanics/CLI/bestiary/fiend/fire-hellion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 140*  
 
 > [!quote] A quote from Bigby  
@@ -32,7 +32,7 @@ The corrupted fire giant takes on fiendish features, including horns, cloven hoo
 "subtype": "devil"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "plate"
 "hp": !!int "175"
 "hit_dice": "14d12 + 84"
 "modifier": !!int "0"
@@ -48,16 +48,17 @@ The corrupted fire giant takes on fiendish features, including horns, cloven hoo
   - "wisdom": !!int "6"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+7"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_immunities": "fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "charmed, frightened"
+"gear":
+  - "morningstar"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Common, Giant, Infernal"
 "cr": "11"
 "traits":
@@ -67,26 +68,26 @@ The corrupted fire giant takes on fiendish features, including horns, cloven hoo
   - "desc": "A Giant or a Humanoid that is reduced to 0 hit points by the hellion\
       \ dies, and its soul rises as a lemure (see the Monster Manual) on Avernus,\
       \ one of the Nine Hells, in 1d4 hours. If the creature isn't revived before\
-      \ then, it can be restored to life only by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
-      \ spell or by killing the lemure and casting true resurrection on the creature's\
-      \ original body."
+      \ then, it can be restored to life only by a wish spell or by killing the lemure\
+      \ and casting true resurrection on the creature's original body."
     "name": "Soul Taker"
 "actions":
   - "desc": "The hellion makes two Morningstar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) piercing damage plus 11 (2d10) fire damage. If the target is a creature,\
-      \ it can't regain hit points until the start of the hellion's next turn."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) piercing damage plus 11 (2d10) fire damage. If the target\
+      \ is a creature, it can't regain hit points until the start of the hellion's\
+      \ next turn."
     "name": "Morningstar"
   - "desc": "The hellion hurls a magical ball of fire that explodes in a 20-foot-radius\
       \ sphere centered on a point the hellion can see within 120 feet of itself.\
       \ The sphere spreads around corners. Each creature in that area must make a\
-      \ DC 17 Dexterity saving throw. A creature takes 18 (4d8) fire damage and 18\
-      \ (4d8) necrotic damage on a failed save, or half as much damage on a successful\
+      \ DC 17 Dexterity saving throw. A creature takes 18 (4d8) fire damage and\
+      \ 18 (4d8) necrotic damage on a failed save, or half as much damage on a successful\
       \ one."
     "name": "Infernal Orb"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/fire-hellion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/fire-hellion-bgg.webp"
 ```
 ^statblock

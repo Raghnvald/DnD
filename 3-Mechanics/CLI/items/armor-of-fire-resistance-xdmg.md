@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Fire Resistance"
 - "Breastplate of Fire Resistance"
 - "Chain Mail of Fire Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to fire damage while you wear this armor.
+You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to fire damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Fire Resistance](#Breastplate%20of%20Fire%20Resistance)

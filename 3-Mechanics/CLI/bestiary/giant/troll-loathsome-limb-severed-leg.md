@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll (Loathsome Limb; Severed Leg)
+- "Troll (Loathsome Limb; Severed Leg)"
 ---
-# [Troll (Loathsome Limb; Severed Leg)](3-Mechanics\CLI\bestiary\giant/troll-loathsome-limb-severed-leg.md)
-*Source: Monster Manual p. 291, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Troll (Loathsome Limb; Severed Leg)](3-Mechanics/CLI/bestiary/giant/troll-loathsome-limb-severed-leg.md)
+*Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Troll (Loathsome Limb; Severed Leg)"
@@ -49,7 +49,6 @@ aliases:
     "name": "Regeneration"
 "source":
   - "MM"
-  - "EGW"
 ```
 ^statblock
 

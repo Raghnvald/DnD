@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/toa
-- new/reward/charm
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/reward/charm
 aliases:
-- Joho's Charm
+- "Joho's Charm"
 ---
 # Joho's Charm
 *Charm*  
 
-While you have Joho in your possession, it grants you the benefit of a helm of comprehending languages. This benefit lasts for 7 days while the doll is in your possession, after which the charm vanishes from you.
+While you have Joho in your possession, it grants you the benefit of a [helm of comprehending languages](3-Mechanics/CLI/items/helm-of-comprehending-languages-xdmg.md). This benefit lasts for 7 days while the doll is in your possession, after which the charm vanishes from you.
 
 The doll is a Tiny construct. Destroying the doll causes the child's soul within it to become trapped in the Soulmonger.
 
@@ -33,7 +33,7 @@ title: Joho
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison
-- **Condition Immunities** poisoned
+- **Condition Immunities** [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)
 ```
 ^statblock
 ````

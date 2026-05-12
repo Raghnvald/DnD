@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Mephit
+- "Ice Mephit"
 ---
-# [Ice Mephit](3-Mechanics\CLI\bestiary\elemental/ice-mephit.md)
-*Source: Monster Manual p. 215, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ice Mephit](3-Mechanics/CLI/bestiary/elemental/ice-mephit.md)
+*Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Mephits
 
@@ -48,19 +48,20 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_vulnerabilities": "bludgeoning, fire"
 "damage_immunities": "cold, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Aquan, Auran"
 "cr": "1/2"
 "traits":
-  - "desc": "The mephit can innately cast fog cloud, requiring no material components.\
-      \ Its innate spellcasting ability is Charisma.\n"
+  - "desc": "The mephit can innately cast [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
+      \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a burst of jagged ice. Each creature\
       \ within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8)\
@@ -70,17 +71,16 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
       \ ordinary shard of ice."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3\
-      \ (1d4 + 1) slashing damage plus 2 (1d4) cold damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of cold air. Each creature in that\
-      \ area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage\
-      \ on a failed save, or half as much damage on a successful one."
+      \ area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold\
+      \ damage on a failed save, or half as much damage on a successful one."
     "name": "Frost Breath (Recharge 6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/ice-mephit.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/ice-mephit.webp"
 ```
 ^statblock
 

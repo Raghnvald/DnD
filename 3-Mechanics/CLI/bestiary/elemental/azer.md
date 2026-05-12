@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Azer
+- "Azer"
 ---
-# [Azer](3-Mechanics\CLI\bestiary\elemental/azer.md)
+# [Azer](3-Mechanics/CLI/bestiary/elemental/azer.md)
 *Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
@@ -50,7 +50,7 @@ An azer doesn't require food, drink, or sleep.
 "type": "elemental"
 "alignment": "Lawful Neutral"
 "ac": !!int "17"
-"ac_class": "natural armor, [shield](/3-Mechanics/CLI/items/shield.md)"
+"ac_class": "natural armor, [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "39"
 "hit_dice": "6d8 + 12"
 "modifier": !!int "1"
@@ -65,7 +65,9 @@ An azer doesn't require food, drink, or sleep.
 "saves":
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[warhammer](3-Mechanics/CLI/items/warhammer.md)"
 "senses": "passive Perception 11"
 "languages": "Ignan"
 "cr": "2"
@@ -80,12 +82,12 @@ An azer doesn't require food, drink, or sleep.
       \ additional 10 feet."
     "name": "Illumination"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two\
-      \ hands to make a melee attack, plus 3 (1d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used\
+      \ with two hands to make a melee attack, plus 3 (1d6) fire damage."
     "name": "Warhammer"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/azer.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/azer.webp"
 ```
 ^statblock

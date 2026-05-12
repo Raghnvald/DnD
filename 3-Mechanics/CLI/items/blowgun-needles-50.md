@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/ammunition
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Blowgun Needles (50)"
 ---
 # Blowgun Needles (50)

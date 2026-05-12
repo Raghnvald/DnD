@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/light
-aliases: 
-- Sehanine Moonbow
+aliases:
+- "Sehanine Moonbow"
 ---
 # Sehanine Moonbow
 *Source: Mordenkainen's Tome of Foes p. 46* 

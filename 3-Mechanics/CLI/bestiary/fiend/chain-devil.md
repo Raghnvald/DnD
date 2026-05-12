@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chain Devil
+- "Chain Devil"
 ---
-# [Chain Devil](3-Mechanics\CLI\bestiary\fiend/chain-devil.md)
+# [Chain Devil](3-Mechanics/CLI/bestiary/fiend/chain-devil.md)
 *Source: Monster Manual p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
@@ -115,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -130,11 +130,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
-> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40 percent chance of summoning `2d6` spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `3d6` spined devils, `1d6` bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `2d4` bearded devils, `1d4` barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -165,9 +165,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -179,10 +179,10 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
   - "desc": "The devil makes two attacks with its chains."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage. The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) slashing damage. The target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 14) if the devil isn't already grappling a creature. Until this\
-      \ grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ and takes 7 (2d6) piercing damage at the start of each of its turns."
     "name": "Chain"
   - "desc": "Up to four chains the devil can see within 60 feet of it magically sprout\
@@ -193,18 +193,18 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
       \ each animated chain to make one additional chain attack. An animated chain\
       \ can grapple one creature of its own but can't make attacks while grappling.\
       \ An animated chain reverts to its inanimate state if reduced to 0 hit points\
-      \ or if the devil is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ or if the devil is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ or dies."
     "name": "Animate Chains (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "When a creature the devil can see starts its turn within 30 feet of the\
       \ devil, the devil can create the illusion that it looks like one of the creature's\
       \ departed loved ones or bitter enemies. If the creature can see the devil,\
-      \ it must succeed on a DC 14 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ it must succeed on a DC 14 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ until the end of its turn."
     "name": "Unnerving Mask"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/chain-devil.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/chain-devil.webp"
 ```
 ^statblock

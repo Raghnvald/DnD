@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phisarazu Spyder-Fiend
+- "Phisarazu Spyder-Fiend"
 ---
-# [Phisarazu Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/phisarazu-spyder-fiend-veor.md)
+# [Phisarazu Spyder-Fiend](3-Mechanics/CLI/bestiary/fiend/phisarazu-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 235*  
 
 Phisarazu spyder-fiends have a pair of muscular arms sprouting beneath their wolf heads. They are resentful and suspicious of all other creatures, which makes them useful for corralling kakkuus or standing guard.
@@ -51,15 +51,16 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 17"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 17"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "13"
 "traits":
@@ -79,19 +80,21 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
       \ one of these attacks with Scintillating Spray if available."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d10 + 4) piercing damage plus 9 (2d8) poison damage, and the target has\
-      \ the poisoned condition until the start of the phisarazu's next turn."
+      \ (2d10 + 4) piercing damage plus 9 (2d8) poison damage, and the target\
+      \ has the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
+      \ until the start of the phisarazu's next turn."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22\
       \ (4d8 + 4) slashing damage."
     "name": "Claw"
   - "desc": "The phisarazu expels shimmering webs in a 60-foot cone. Creatures and\
       \ objects in that area are outlined by the glittering webs for 1 minute, during\
-      \ which time they emit dim light for 10 feet and can't benefit from the invisible\
+      \ which time they emit dim light for 10 feet and can't benefit from the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ condition. Additionally, creatures in that area must succeed on a DC 16 Wisdom\
-      \ saving throw or have the stunned condition for 1 minute. A stunned creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+      \ saving throw or have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ condition for 1 minute. A [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Scintillating Spray (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The phisarazu transforms into a crab, drider, or giant crab, or returns\
@@ -100,6 +103,6 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
     "name": "Change Shape"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/phisarazu-spyder-fiend-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/phisarazu-spyder-fiend-veor.webp"
 ```
 ^statblock

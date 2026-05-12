@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Topaz Dragon; Topaz Dragon Personality Traits
+- "Creating a Topaz Dragon; Topaz Dragon Personality Traits"
 ---
 # Creating a Topaz Dragon; Topaz Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 149* 
 
 **Topaz Dragon Personality Traits**
-
-`dice: [](creating-a-topaz-dragon-topaz-dragon-personality-traits-ftd.md#^topaz-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

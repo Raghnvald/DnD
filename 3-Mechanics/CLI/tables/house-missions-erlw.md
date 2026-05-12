@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- House Missions
+- "House Missions"
 ---
 # House Missions
 *Source: Eberron: Rising from the Last War p. 72* 
 
 **House Missions**
-
-`dice: [](house-missions-erlw.md#^house-missions)`
 
 | dice: d12 | House | Mission 1 | Mission 2 | Mission 3 |
 |-----------|-------|-----------|-----------|-----------|

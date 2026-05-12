@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/bugbear
 aliases:
-- Bugbear
+- "Bugbear"
 ---
 # Bugbear
-*Source: Volo's Guide to Monsters p. 119, Explorer's Guide to Wildemount p. 174*  
-![](/3-Mechanics/CLI/races/img/bugbear.webp#right)
+*Source: Volo's Guide to Monsters p. 119*  
+![](3-Mechanics/CLI/races/img/bugbear.webp#right)
 
 - **Ability Scores**: str +2 dex +1
 - **Size**: Medium
@@ -40,7 +40,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the Stealth skill.
+You are proficient in the [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) skill.
 
 ### Surprise Attack
 

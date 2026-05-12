@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/feat
 aliases:
-- Orcish Fury
+- "Orcish Fury"
 ---
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Half-Orc](/3-Mechanics/CLI/races/half-orc.md)
+**Prerequisite**: half-orc
 
 Your fury burns tirelessly. You gain the following benefits:
 

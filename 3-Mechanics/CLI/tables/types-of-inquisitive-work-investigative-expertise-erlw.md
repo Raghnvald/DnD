@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Types of Inquisitive Work; Investigative Expertise
+- "Types of Inquisitive Work; Investigative Expertise"
 ---
 # Types of Inquisitive Work; Investigative Expertise
 *Source: Eberron: Rising from the Last War p. 87* 
 
 **Investigative Expertise**
-
-`dice: [](types-of-inquisitive-work-investigative-expertise-erlw.md#^investigative-expertise)`
 
 | dice: d6 | Investigation |
 |----------|---------------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Topaz Dragon
+- "Young Topaz Dragon"
 ---
-# [Young Topaz Dragon](3-Mechanics\CLI\bestiary\dragon/young-topaz-dragon-ftd.md)
+# [Young Topaz Dragon](3-Mechanics/CLI/bestiary/dragon/young-topaz-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of the Negative Plane that suffuses them. Their psionic power manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons' demeanor is typically morbid and curmudgeonly as a result.
@@ -39,8 +39,6 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 
 ### Topaz Dragon Personality Traits
 
-`dice: [](young-topaz-dragon-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I seek no company other than my own, for no one else can compete with me. |
@@ -54,8 +52,6 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 ^trait
 
 ### Topaz Dragon Ideals
-
-`dice: [](young-topaz-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -72,8 +68,6 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
 ### Topaz Dragon Adventure Hooks
-
-`dice: [](young-topaz-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -92,8 +86,6 @@ The Topaz Dragon Adventure Hooks table offers suggestions for stories and advent
 Topaz dragons rarely tolerate any company but their own, and they are usually indifferent at best even toward their own kind. Moreover, their unpredictability means that even if a creature proves itself useful to a topaz dragon, it shouldn't count on being safe from the dragon the next time they meet. Topaz dragons rarely go out of their way to fight other creatures, however, with the exception of bronze dragons, for whom they bear an inexplicably intense hatred.
 
 ### Young Topaz Dragon Connections
-
-`dice: [](young-topaz-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -130,15 +122,14 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "cold, necrotic"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "7"
 "traits":
@@ -147,27 +138,26 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
 "actions":
   - "desc": "The dragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (2d10 + 3) piercing damage plus 3 (1d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (2d10 + 3) piercing damage plus 3 (1d6) necrotic damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales yellowish necrotic energy in a 30-foot cone. Each\
       \ creature in that area must make a DC 13 Constitution saving throw. On a failed\
-      \ save, the creature takes 28 (8d6) necrotic damage and is weakened until the\
-      \ end of its next turn. A weakened creature has disadvantage on Strength-based\
+      \ save, the creature takes 28 (8d6) necrotic damage and is weakened until\
+      \ the end of its next turn. A weakened creature has disadvantage on Strength-based\
       \ ability checks and Strength saving throws, and the creature's weapon attacks\
       \ that rely on Strength deal half damage. On a successful save, the creature\
       \ takes half as much damage and isn't weakened."
     "name": "Desiccating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 14):\n\n\
-      **1/day each:** [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [create or destroy\
-      \ water](/3-Mechanics/CLI/spells/create-or-destroy-water-xphb.md)"
+      **1/day each:** bane, create or destroy water"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-topaz-dragon-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-topaz-dragon-ftd.webp"
 ```
 ^statblock

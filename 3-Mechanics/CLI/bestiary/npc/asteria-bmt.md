@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/humanoid/human
-- new/monster/type/humanoid/paladin
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/18
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
+- ttrpg-cli/monster/type/humanoid/paladin
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Asteria
+- "Asteria"
 ---
-# [Asteria](3-Mechanics\CLI\bestiary\npc/asteria-bmt.md)
+# [Asteria](3-Mechanics/CLI/bestiary/npc/asteria-bmt.md)
 *Source: The Book of Many Things p. 188*  
 
 Though she now travels alone, Asteria still draws much of her power from her bond with Euryale. Asteria is foremost a protector and warrior, traveling the multiverse to uproot injustice, defend innocents, and inspire hope. She believes everyone deserves a chance to write their own story on their own terms, and her deeds have inspired countless heroic tales.
@@ -72,21 +72,22 @@ Asteria hasn't aged since Istus drew her future from the first Deck of Many Thin
     "name": "Guardian Aura"
   - "desc": "If Asteria fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Asteria wears Winged Boots, which grant her a flying speed (included\
-      \ in her statistics). She also carries one half of a pair of Sending Stones;\
+  - "desc": "Asteria wears [Winged Boots](3-Mechanics/CLI/items/winged-boots.md),\
+      \ which grant her a flying speed (included in her statistics). She also carries\
+      \ one half of a pair of [Sending Stones](3-Mechanics/CLI/items/sending-stones.md);\
       \ the other half of the pair is held by Euryale."
     "name": "Special Equipment"
 "actions":
   - "desc": "Asteria makes two Radiant Blade attacks and uses Bursting Benediction."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) slashing damage plus 13 (3d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 9 (1d8 + 5) slashing damage plus 13 (3d8) radiant damage."
     "name": "Radiant Blade"
   - "desc": "Asteria causes a burst of magical energy to envelop one creature she\
       \ can see within 60 feet of herself. The target must make a DC 19 Dexterity\
-      \ saving throw, taking 40 (9d8) force damage on a failed save, or half as much\
-      \ damage on a successful one. Asteria or another creature that she can see within\
-      \ 60 feet of herself then regains 10 hit points."
+      \ saving throw, taking 40 (9d8) force damage on a failed save, or half as\
+      \ much damage on a successful one. Asteria or another creature that she can\
+      \ see within 60 feet of herself then regains 10 hit points."
     "name": "Bursting Benediction"
   - "desc": "Asteria casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19):\n\n**At\
@@ -114,6 +115,6 @@ Asteria hasn't aged since Istus drew her future from the first Deck of Many Thin
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/asteria-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/asteria-bmt.webp"
 ```
 ^statblock

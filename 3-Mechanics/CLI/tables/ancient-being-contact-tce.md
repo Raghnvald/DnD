@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Ancient Being Contact
+- "Ancient Being Contact"
 ---
 # Ancient Being Contact
 *Source: Tasha's Cauldron of Everything p. 87* 
 
 **Ancient Being Contact**
-
-`dice: [](ancient-being-contact-tce.md#^ancient-being-contact)`
 
 | dice: d6 | Contact |
 |----------|---------|

@@ -16,7 +16,7 @@ classes:
 - Warlock (The Archfey)
 - Wizard
 aliases:
-- Seeming
+- "Seeming"
 ---
 # Seeming
 *5th-level, Illusion*  
@@ -33,8 +33,8 @@ The spell disguises physical appearance as well as clothing, armor, weapons, and
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel the creature's head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-A creature can use its action to inspect a target and make an Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature can use its action to inspect a target and make an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Archfey)](/3-Mechanics/CLI/lists/list-spells-classes-the-archfey.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Archfey)](3-Mechanics/CLI/lists/list-spells-classes-the-archfey.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

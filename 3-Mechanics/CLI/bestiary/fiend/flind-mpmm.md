@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flind
+- "Flind"
 ---
-# [Flind](3-Mechanics\CLI\bestiary\fiend/flind-mpmm.md)
+# [Flind](3-Mechanics/CLI/bestiary/fiend/flind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -32,7 +32,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "subtype": "gnoll"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "127"
 "hit_dice": "15d8 + 60"
 "modifier": !!int "2"
@@ -48,16 +48,18 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Gnoll, Abyssal"
 "cr": "9"
 "traits":
-  - "desc": "If the flind isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
+  - "desc": "If the flind isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
       \ any creature with the Rampage trait can make a Bite attack as a bonus action\
       \ while within 10 feet of the flind."
     "name": "Aura of Blood Thirst"
@@ -65,20 +67,20 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "desc": "The flind makes one Flail of Chaos attack, one Flail of Pain attack,\
       \ and one Flail of Paralysis attack, or it makes three Longbow attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom saving\
-      \ throw. On a failed save, the target must use its reaction, if available, to\
-      \ make one melee attack against a random creature, other than the flind, within\
-      \ its reach. If there's no creature within reach, the target instead moves half\
-      \ its speed in a random direction."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (1d10 + 5) bludgeoning damage, and the target must make a DC 16 Wisdom\
+      \ saving throw. On a failed save, the target must use its reaction, if available,\
+      \ to make one melee attack against a random creature, other than the flind,\
+      \ within its reach. If there's no creature within reach, the target instead\
+      \ moves half its speed in a random direction."
     "name": "Flail of Chaos"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) bludgeoning damage plus 16 (3d10) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (1d10 + 5) bludgeoning damage plus 16 (3d10) psychic damage."
     "name": "Flail of Pain"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
-      \ saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) until\
-      \ the end of its next turn."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16\
+      \ Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the end of its next turn."
     "name": "Flail of Paralysis"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -86,7 +88,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp"
 ```
 ^statblock
 

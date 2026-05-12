@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+3 Weapon (no damage)"
 ---
 # +3 Weapon (no damage)

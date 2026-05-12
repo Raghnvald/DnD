@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Inspired (Quori Vessel; Kalaraq)
+- "Inspired (Quori Vessel; Kalaraq)"
 ---
-# [Inspired (Quori Vessel; Kalaraq)](3-Mechanics\CLI\bestiary\humanoid/inspired-quori-vessel-kalaraq-egw.md)
+# [Inspired (Quori Vessel; Kalaraq)](3-Mechanics/CLI/bestiary/humanoid/inspired-quori-vessel-kalaraq-egw.md)
 *Source: Explorer's Guide to Wildemount p. 294*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with mage armor"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -38,38 +38,34 @@ aliases:
   - "intelligence": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+7"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+2"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+7"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "charmed, frightened"
 "senses": "passive Perception 10"
 "languages": "Common, Quori"
 "cr": "2"
 "traits":
   - "desc": "The Inspired's spellcasting ability is Intelligence (spell save DC 13).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [vicious\
-      \ mockery](/3-Mechanics/CLI/spells/vicious-mockery-xphb.md) (see \"Actions\"\
-      \ below)\n\n**3/day each:** [arcane eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md)\n\
-      \n**1/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [dissonant whispers](/3-Mechanics/CLI/spells/dissonant-whispers-xphb.md),\
-      \ [hex](/3-Mechanics/CLI/spells/hex-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+      \n**At will:** mage hand, vicious mockery (see \"Actions\" below)\n\n**3/day\
+      \ each:** arcane eye\n\n**1/day each:** charm person, dissonant whispers, hex,\
+      \ hold person, mage armor"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The Inspired has advantage on Wisdom saving throws."
     "name": "Dual Mind"
-  - "desc": "The Inspired can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised)."
+  - "desc": "The Inspired can't be surprised."
     "name": "All Around Vision"
 "actions":
   - "desc": "The Inspired makes two crysteel dagger attacks. It can replace one attack\
       \ with vicious mockery."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage plus 10 (3d6) force damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage plus 10 (3d6) force damage."
     "name": "Crysteel Dagger"
   - "desc": "The Inspired unleashes a string of insults laced with subtle enchantments\
       \ at one creature it can see within 60 feet of it. If the target can hear the\

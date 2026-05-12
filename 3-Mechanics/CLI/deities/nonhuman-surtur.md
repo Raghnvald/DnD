@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/war
-aliases: 
-- Surtur
+aliases:
+- "Surtur"
 ---
 # Surtur
 *Source: Player's Handbook p. 296* 

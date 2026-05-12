@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/25
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/25
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Klauth
+- "Klauth"
 ---
-# [Klauth](3-Mechanics\CLI\bestiary\npc/klauth-skt.md)
+# [Klauth](3-Mechanics/CLI/bestiary/npc/klauth-skt.md)
 *Source: Storm King's Thunder p. 95*  
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -117,12 +117,13 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
   - "wisdom": !!int "10"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 26"
 "languages": "Common, Draconic"
 "cr": "25"
 "traits":
@@ -131,24 +132,25 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
   - "desc": "If Klauth is carrying two wands, he can use an action to expend 1 charge\
       \ from each wand, triggering the effects of both wands simultaneously."
     "name": "Dual Wand Wielder"
-  - "desc": "Klauth carries a wand of fireballs and a wand of lightning bolts, and\
-      \ he wears a ring of cold resistance."
+  - "desc": "Klauth carries a [wand of fireballs](3-Mechanics/CLI/items/wand-of-fireballs-xdmg.md)\
+      \ and a [wand of lightning bolts](3-Mechanics/CLI/items/wand-of-lightning-bolts-xdmg.md),\
+      \ and he wears a [ring of cold resistance](3-Mechanics/CLI/items/ring-of-cold-resistance-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Klauth can use his Frightful Presence. He then makes three attacks: one\
       \ with his bite and two with his claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) piercing damage plus 14 (4d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d6 + 10) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d6 + 10) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19\
-      \ (2d8 + 10) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:*\
+      \ 19 (2d8 + 10) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Klauth's choice that is within 120 feet of Klauth and\
-      \ aware of him must succeed on a DC 21 Wisdom saving throw or become frightened\
+      \ aware of him must succeed on a DC 21 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Klauth's\
@@ -160,26 +162,36 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
     "name": "Fire Breath (Recharge 5-6)"
   - "desc": "Klauth casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** comprehend languages, detect magic, mage hand, minor illusion, prestidigitation\n\
-      \n**2/day each:** darkness, detect thoughts, ice storm\n\n**1/day each:** banishment,\
-      \ cloudkill, disintegrate, etherealness, find the path (cast as 1 action), greater\
-      \ invisibility, haste, locate object, mass suggestion, mirage arcane (cast as\
-      \ 1 action), prismatic spray"
+      \ will:** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [detect\
+      \ thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\
+      \n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md),\
+      \ [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md), [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md),\
+      \ [find the path](3-Mechanics/CLI/spells/find-the-path-xphb.md) (cast as 1 action),\
+      \ [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [haste](3-Mechanics/CLI/spells/haste-xphb.md), [locate object](3-Mechanics/CLI/spells/locate-object-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [mirage\
+      \ arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md) (cast as 1 action),\
+      \ [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Klauth can expend a use to take one of the following actions. Klauth regains\
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Klauth makes a Wisdom (Perception) check."
+  - "desc": "Klauth makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "Klauth makes a tail attack."
     "name": "Tail Attack"
   - "desc": "Klauth beats his wings. Each creature within 15 feet of Klauth must succeed\
       \ on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage\
-      \ and be knocked prone. Klauth can then fly up to half his flying speed."
+      \ and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). Klauth\
+      \ can then fly up to half his flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/klauth-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/klauth-skt.webp"
 ```
 ^statblock

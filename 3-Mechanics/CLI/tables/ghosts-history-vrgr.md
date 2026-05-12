@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Ghost's History
+- "Ghost's History"
 ---
 # Ghost's History
 *Source: Van Richten's Guide to Ravenloft p. 148* 
 
 **Ghost's History**
-
-`dice: [](ghosts-history-vrgr.md#^ghosts-history)`
 
 | dice: d6 | Ghost's History |
 |----------|-----------------|

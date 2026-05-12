@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Beholder; Beholder Personality Traits
+- "Roleplaying a Beholder; Beholder Personality Traits"
 ---
 # Roleplaying a Beholder; Beholder Personality Traits
 *Source: Volo's Guide to Monsters p. 8* 
 
 **Beholder Personality Traits**
-
-`dice: [](roleplaying-a-beholder-beholder-personality-traits-vgm.md#^beholder-personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|

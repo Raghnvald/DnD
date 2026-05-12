@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Coin of Delving"
 ---
 # Coin of Delving

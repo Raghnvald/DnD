@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/rare
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/heavy
+- ttrpg-cli/item/armor/light
+- ttrpg-cli/item/armor/medium
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Feywrought Armor"
 - "Feywrought Breastplate"
 - "Feywrought Chain Mail"
@@ -35,7 +35,7 @@ This colorful, flowery armor was forged in the Feywild and is infused with that 
 
 While wearing this armor, you have advantage on saving throws you make to avoid or end the charmed condition on yourself.
 
-This armor has 3 charges. You can use an action to expend a charge to cast the Compulsion spell (save DC 15) from this armor. The armor regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
+This armor has 3 charges. You can use an action to expend a charge to cast the Compulsion spell (save DC 15) from this armor. The armor regains `1d3` expended charges daily at dawn.
 
 **Variants**:
 - [Feywrought Breastplate](#Feywrought%20Breastplate)

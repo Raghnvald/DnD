@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – Japanese, Female
+- "Human Names – Japanese, Female"
 ---
 # Human Names – Japanese, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – Japanese, Female**
-
-`dice: [](human-names-japanese-female-xge.md#^human-names-japanese-female)`
 
 | dice: d100 | Name |
 |------------|------|

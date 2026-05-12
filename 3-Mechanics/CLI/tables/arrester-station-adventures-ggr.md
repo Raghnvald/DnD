@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Arrester Station Adventures
+- "Arrester Station Adventures"
 ---
 # Arrester Station Adventures
 *Source: Guildmasters' Guide to Ravnica p. 129* 
 
 **Arrester Station Adventures**
-
-`dice: [](arrester-station-adventures-ggr.md#^arrester-station-adventures)`
 
 | dice: d12 | Adventure Goal |
 |-----------|----------------|

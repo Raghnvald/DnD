@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/rare
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+aliases:
 - "Grasping Whip"
 ---
 # Grasping Whip

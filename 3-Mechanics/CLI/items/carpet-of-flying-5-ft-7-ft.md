@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Carpet of Flying, 5 ft. × 7 ft."
 ---
 # Carpet of Flying, 5 ft. × 7 ft.

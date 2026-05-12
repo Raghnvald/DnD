@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- The Sword Coast and the North
+- "The Sword Coast and the North"
 ---
 # The Sword Coast and the North
 *Source: Sword Coast Adventurer's Guide, p. 43* 
@@ -71,9 +71,9 @@ Baldur's Gate is ruled by the Council of Four, dukes who vote among themselves o
 
 Defense of the Upper City is handled by the Watch, the official constabulary of the city's elite. Their duty is to defend the patriars and enforce their laws, and little else. For the rest of Baldur's Gate, security is enforced and order maintained by the Flaming Fist mercenary company, a supposedly neutral force which is free to fight in external conflicts, so long as it doesn't side against Baldur's Gate. By tradition, the highest officer of the Flaming Fist is one of the city's dukes, and Grand Duke Ulder Ravengard fulfills that tradition proudly. Membership in the Flaming Fist is fairly easy to achieve, and adventurers with much experience swiftly advance in rank (and, consequently, political influence) once they become permanent members. Many ranking officers are former adventurers who have "retired" to military life.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-baldurs-gate.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-baldurs-gate.webp#center)
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/baldurs-gate-map.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/baldurs-gate-map.webp#center)
 
 In both the Upper and Lower Cities, the underworld is controlled by a shadowy group known merely as the Guild. The dukes don't acknowledge the power of this group in any meaningful way—at least not publicly—but try (at least nominally) to curb its influence where and how they can. I lost count of how many gangs claim territory in the Lower and Outer City, and all of them seem to owe allegiance to the Guild. Efforts to destroy the Guild have thus far failed, due in part to the inability of outsiders to identify a clear leader of the group, but in no small measure to the shameful lack of effort on the part of the rulers of the city to protect its people.
 
@@ -147,7 +147,7 @@ Across the road, the Ostever family serves as the local slaughterer and butcher 
 
 There is entertainment to be had at the Gambling Golem, where cheaters in the card or dice games are tossed out into the street, and a local marbles game known as scattershields is popular. Dry goods, candles, lanterns, saddles, rope, and wagon wheels are available from a number of other shops.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-04.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-04.webp#center)
 
 It can't be stressed enough that while the Harpells have little interest in the daily running of Longsaddle, it is undeniably their town. They rarely suffer insults, and never tolerate violence against themselves, their family, or the locals. A conflict involving the Harpells is likely to end swiftly and bloodily, and (unless the offender is convincingly apologetic, unconscious, dead, or forgiven of the wrongdoing) will often draw additional Harpells to support their kin. Harpell supports Harpell in all public matters, and no one bothers to record the numbers and names of those that forgot that fact.
 
@@ -159,7 +159,7 @@ These families are also the ones most likely to hire outsiders to deal with matt
 
 Mirabar is a human city that rests atop dwarven caverns. On the surface, humans dominate the population, with some dwarves mixed in, and a handful of gnomes and halflings. The uppermost level of the undercity is mostly dwarves, with some few humans. The mixing of races is due to convenience of trade, preference, or skill; just as some few humans like to mine, to imbibe strong dwarven drink, and to work underground, so do a minority of dwarves take to the open sky, doing dock work, or even manning and building ships. The lower levels beneath Mirabar are all dwarven, as even the most dwarf-like human can live so deep below ground for only so long. Almost all of its citizens, regardless of race, honor Moradin and the dwarven gods, making Mirabar a dwarven city in spirit and ethics, if not entirely by population, much in the way my own Silverymoon speaks to elven ideals of natural beauty.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-mirabar.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-mirabar.webp#center)
 
 Long ago, the great dwarven kingdom of Gharraghaur stood to the west of Delzoun, delving mines near the River Mirar and finding great, near-endless veins of gems. Like many of the dwarven realms, Gharraghaur fell to marauding orcs, which destroyed the kingdom and its capital city but couldn't take advantage of the wealth therein. For millennia the lower city lay empty, until some eight hundred years ago, when Prince Ereskas of Amn settled the same spot, creating the city of Mirabar (coincidentally echoing the dwarven "-bar" naming convention used for citadels throughout the North). It was only when dwarves returned to work the mines below that Mirabar began to see its fortunes increase.
 
@@ -186,9 +186,9 @@ Still, despite the city's overall wealth, there are rich and (relatively) poor M
 
 A short while ago, Neverwinter was beset by all manner of damage, danger, and gloom. Now, the orcs that once menaced the city have moved east to join their brethren in being crushed by the dwarves. The Chasm that rent the land has been sealed by powerful magic. The High Road has been cleared and rebuilt, and trade has resumed with Waterdeep and realms to the south. What was the blasted, wounded city of Neverwinter just a decade ago is now an exciting, humming place, where folk seem eager to throw off the hardships from which they have emerged and create a new, brighter future for their city.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-neverwinter.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-neverwinter.webp#center)
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/neverwinter-map.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/neverwinter-map.webp#center)
 
 Nearly half a century ago, Mount Hotenow (the nearby volcano that perpetually heats the river flowing through the city) violently erupted, destroying much of Neverwinter, killing thousands, and leaving in its wake a great, gaping chasm that split the city. Neverwinter was in ruins, and external influences—from Netheril to Thay to Lord Dagult Neverember of Waterdeep to the agents of the Hells themselves—sought to exert control over the city. Many folk fought to stem all these dangers, and eventually, a measure of peace fell over Neverwinter.
 
@@ -216,7 +216,7 @@ Like any city, Neverwinter isn't without its drawbacks. Though most folk are wil
 
 Long a powerful and influential member of the Lords' Alliance—and, for its entire existence, the Silver Marches of Luruar—Silverymoon is what many cities aspire to be: a quiet, peaceful realm, where many races live together for common knowledge, celebration, and defense. The city is peopled primarily by the "goodly" races (humans, dwarves, gnomes, elves, halflings, and half-elves), but no being is turned away from Silverymoon because of its race—though a drow or an orc proving true to one's blood is sure to be punished in full for transgressing against the peace of the city. I will make no secret of my love for my home in the following summary, but I will endeavor to be as evenhanded as I can in describing it.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-silverymoon.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-silverymoon.webp#center)
 
 The Gem of the North is a stunning place of sweeping curves, soaring towers, and structures built into the living trees. To many elves, the city is a reminder of the ancient elven cities of old; some call it the Myth Drannor of the North, even nowadays after the restoration and subsequent fall of that fabled city. Even where stone is employed in construction, ivy and other living plants grow through, over, or around most structural elements, giving most of the city a green cast.
 
@@ -246,13 +246,13 @@ Silverymoon has nonetheless long been known as a safe haven for Harpers in the N
 
 Rising from the shores of its deep harbor to ring the great mountain standing tall out of the Sea of Swords is Waterdeep, the City of Splendors and the Crown of the North. To all of Faerûn, this great metropolis stands as the pinnacle of what a great city might be, in wealth, influence, and stability. Here, the citizens work, the nobles sneer, and the great masked lords plot and scheme, all while merchants dance between them to collect their coins and continue profiting as best they can. Waterdeep's shops and merchants offer goods of every sort from every corner of Toril, and even the rarest of items can be procured, given sufficient coin and patience. Adventurers lacking one or the other can very easily find all manner of employment, from simple escorting of caravans, to guarding nobility, to investigating a ruin or rumor of monsters anywhere in the North.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/waterdeep-map.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/waterdeep-map.webp#center)
 
 Though it has stood for hundreds of years, Waterdeep is only now returning to its status of a century and a half ago. The recent disruptions began when the gods walked the Realms and slew each other before the eyes of mortals, until they walked back to their divine domains through the very streets of Waterdeep itself. Decades later, more deities began dying off, magic failed, and all manner of catastrophes started altering the very nature of the city. Lord Neverember wasted the city's navy and then, instead of rebuilding it, hired sailors out of Mintarn (and profited from the endeavor).
 
 Now, the City of Splendors is on the mend. The harbor has been cleared of the broken ships that made up the former district of Mistshore, and Waterdeep again has its own navy. The city's Guard (its army), Watch (police force), Navy, and it famous Griffon Cavalry are all being reformed, but all of that might be a matter of years in the settling. A plague chased most residents out of the Warrens and Downshadow, and living or digging below the city's surface has been deemed illegal except by those authorized by the lords to do so. Somehow, even the air seems fresher. In the words of one wise moon elf matron (whose status as my aunt has positively no bearing on her wisdom), "Waterdeep is back to where it was when I was a lass."
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-08.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-08.webp#center)
 
 Perhaps most surprising of the newest developments is the return of Laeral Silverhand to Waterdeep. Long thought dead, she reemerged only recently, and swiftly rallied the masked lords to support her supplanting of Dagult Neverember as Open Lord of Waterdeep. Very few remember Lady Laeral from her previous time in the city, but those elves who have been living in there for the last century claim she is more reserved than she once was. The new Open Lord doesn't speak of her family—any mention of her children, her late husband (the fabled Blackstaff, Khelben Arunsun), or any of her famed sisters is cause for her to cut short whatever conversation may be in progress at the time. Her relationship with the current Blackstaff, Vajra Safahr, is cordial, but the two are seldom seen in one-on-one conversation, and most think that Lady Laeral has little to learn from a mage who isn't nearly her equal.
 
@@ -291,7 +291,7 @@ Although they seldom agree on much, one matter that all the noble houses see the
 
 Situated in the fork where the Rivers Surbrin and Dessarin join near the Evermoor Way, Yartar is a fortified town that, were it not for its own petty, internal squabbles, might wield more influence among its fellows in the North. Currently, it is most remarkable for its barge-building operation (and that industry's importance to the commerce of other settlements) and its annual fairs.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-yartar.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-yartar.webp#center)
 
 Each summer, except in years when Shieldmeet occurs, a vast Hiring Fair is held in Yartar, during which all sorts of undesirable folk gather north of the town looking for work as guards, miners, farmhands, guides, or other unskilled laborers. For the most part, those who attend this fair are brutes, bandits, freeholders whose lands can no longer sustain them, or Uthgardt who wish to be among "civilized" folk for a short time—but occasionally, a strong hand or a skilled warrior can be culled from the bunch. While this event is going on, Yartar is overrun with visitors it would rather not welcome, who steal goods, sell wares in the street (sometimes those they have just stolen), meet unscrupulous contacts to hand off coin, information, or purloined items, and engage in the occasional spell duel. It's quite common for a new adventuring company to come into being at one of these fairs, when those who stand out from the crowd because they have legitimate skills to sell gravitate toward one another and decide to form a group.
 
@@ -346,7 +346,7 @@ In the center of town is the Waterbaron' Hall, a grand structure that is both th
 
 The history of the dwarves in the North is a long and violent one, dating back more than six millennia. Before there was a Standing Stone in the Dalelands, or a Waterdeep, or a Myth Drannor, there was the brief (in dwarven terms) glory of Besilmer, and the realms of Haunghdannar and Gharraghaur. Ruins now, to be sure, but these kingdoms lasted longer than almost any living realm of humans, even if their works have been forgotten by humans and dwarves alike.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-11.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-11.webp#center)
 
 The greatest and most recent of these dwarven realms was Delzoun, also called the Northkingdom. It stretched from the western edge of what was then the Narrow Sea (later, the Great Desert of Anauroch) west almost to present-day Silverymoon, and from the Ice Mountains to the Nether Mountains. Citadels Adbar and Felbarr were fortresses of Delzoun, and Mirabar, Mithral Hall, and Sundabar all owe their existence to that ancient kingdom or its descendants. Fabled Gauntlgrym, said to be touched by the presence of Moradin himself, was built by Delzoun's dwarves—first as a mine, and then as a city. It was the dwarves of Delzoun who built Ironmaster, too, and all the great mines and renowned forges of the North reside in the halls of the dwarves.
 
@@ -488,7 +488,7 @@ Mithral Hall enjoyed centuries of profit before its delving permitted the shadow
 
 When Garumn's grandson, Bruenor, was old enough, and sure of his path, he gathered allies to retake his former homeland, and went on a great many adventures with the group later known as the Companions of the Hall. At the end, Bruenor slew the dragon Shimmergloom and reclaimed Mithral Hall for Clan Battlehammer after almost two centuries.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-13.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-13.webp#center)
 
 After Bruenor regained the throne, his personal friends attracted some powerful enemies to Mithral Hall, including the drow of Menzoberranzan. This is one reason, his supporters claim, that the king abdicated in favor of his ancestor Gandalug Battlehammer: to protect the people from his personal enemies. Some of Bruenor's detractors claim it was wanderlust that made him leave, but none will bother (or dare) to ask him. In any case, when Gandalug died, Bruenor did his duty and resumed the throne.
 
@@ -586,11 +586,11 @@ The Red Rage of Mintarn dwells in this mountain that rises from the sea north of
 
 ### The Moonshaes
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-14.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-14.webp#center)
 
 Cloaked in mists, the rocky cliffs of the Moonshae Isles rise high above the surf of the Sea of Swords, their tops clothed in ancient forests. The Moonshaes lie due west from Mintarn—and Baldur's Gate, and Candlekeep, and even Amn, for that matter: this great stretch of islands is nearly half as long as the Sword Coast, enclosing the Sea of Moonshae.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-moonshaes.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-moonshaes.webp#center)
 
 On the southern isles live the Ffolk, humans ruled by their High King, Derid Kendrick, from the fortress of Caer Callidyr on Alaron. The Ffolk worship a goddess they call the Earthmother; her druids gather in sacred groves on the islands. Some of these groves hold moonwells, magical pools that the druids say the goddess uses as her windows onto the world.
 
@@ -721,7 +721,7 @@ Some ships claiming to be from returned Lantan have appeared in ports along the 
 
 Take an old salt's advice and beware the Pirate Isles of the Sea of Swords, the Nelanther. Here, all manner of seafaring or sea-dwelling creatures live, from lizardfolk and minotaurs to orcs and ogres, with a smattering of humans and others thrown in for variety. Where some pirates hold to their own code of conduct, the folk of Nelanther care nothing for rules, honor, or even good, neighborly sense: they attack each another as often and as viciously as they do any passing ship or convoy. Simply put, the Nelanther Isles are a chain of reavers and raiders, who eke out a living fighting whomever they can find.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-nelanther.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-nelanther.webp#center)
 
 No one's ever bothered to count or name all the tribes of these islands, and I doubt anyone's going to start now. For one thing, it's a fool's errand: tribes split up or are destroyed at such a rapid pace that by the time you finished counting, you'd have to start over anyway. For another, it's dirty, dangerous work, and dealing with pirates is a task best left to swift ships, well-armed navies, and the kinds of fools that would want to count them in the first place.
 
@@ -733,7 +733,7 @@ Still, if you're looking for cheap, strong hands, Nelanther may be the place for
 
 Ever seen an island simply disappear? That is, supposedly, what happened to Nimbral at about the time Lantan drowned, or so they say. Four ship captains of my acquaintance claim to have seen it one moment, and then not seen it the next, and sailed straight through its former location as though it was never there.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-17.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-17.webp#center)
 
 Some claim that powerful magic moved or hid the island in a vast illusion. That I find believable, because the Lords of Nimbral have long been known for illusion and trickery. If any isle were to vanish into thin air, it would be theirs. Likewise, Nimbral's return is certainly within their capabilities, and perhaps this event is the climax of a trick so long and complex that even a gnome can envy its scope.
 
@@ -779,7 +779,7 @@ I had brought some food with me, since I didn't know how long I'd have to remain
 
 I felt it before I saw it. With the barest glimmer of golden light through the basket weave all that I could see, Evermeet took my breath way. Coiled in the basket like a snake, with cramps in every limb, I was desperate not to give myself away, yet I could feel the magic of Evermeet seep through my body, soothing aching limbs and easing guilty conscience. When I could breathe again, I gasped. And that was how the elf discovered me.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-18.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-18.webp#center)
 
 The blind elf, whose beloved treasures I'd displaced to take my journey, pulled me from his basket, and when he did so, his eyes were clear as diamonds and just as hard. I thought for sure that I was dead, and on seeing my surroundings, I can say with all my heart that I didn't care. Had the elf killed me on the spot, my soul would have gone to Garl and demanded a ship so that I could sail right back to Evermeet. My dumb wonderment caused the elf to turn and look, and he too was enraptured.
 
@@ -835,7 +835,7 @@ From the center rises the largest and thickest tower of Candlekeep. If the other
 
 The only gate into Candlekeep stands at the end of the Way of the Lion, which is the only road that provides access to and from the outside world. The route extends from Beregost, leagues away, and winds a lonely path out on the peninsula where Candlekeep stands.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-19.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-19.webp#center)
 
 #### The Great Library
 
@@ -929,7 +929,7 @@ Candlekeep also buys books and even sponsors adventurers on expeditions to seek 
 
 I don't suppose you've heard of Darkhold. It's been many years since folk whispered the name of the place in fear. After all, the Zhentarim, the organization that gave Darkhold its evil reputation, are by all accounts no longer the cadre of thieves, assassins, and evil wizards they once were. And strangely enough, according to my source among the Zhentarim, that change in character can be traced right back to Darkhold. As it was told to me, it came about like this...
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-darkhold.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-darkhold.webp#center)
 
 Zhentil Keep was burning. The Citadel of the Ravens lay in ruins. The leadership of the Zhentarim died, were captured by the Shadovar of returned Netheril, or were in flight. The vaunted Black Network was shredded. Cells of Zhentarim agents were cut loose, and without connections or direction, they dissolved or were crushed by rivals. The Zhentarim was no more.
 
@@ -989,11 +989,11 @@ Ah Elturgard! If any place in the world exemplifies humanity's potential for gre
 
 Oh how bright Elturgard's light burns! If only it could last. Humans are, after all, short-lived creatures, and fickle in their faith and attentions. Elturgard is the product of just a generation or two of humans, and it seems implausible that it will last many more. Sadly, I think I shall witness Elturgard diminish. But it was a miracle that brought about the nation of Elturgard, and perhaps that divine provenance will preserve it.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-21.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-21.webp#center)
 
 It began, as all the great stories do, in darkness. Half a century ago, the city of Elturel was a petty power. It had claimed its neighbors' territory under various excuses, putting them under "Elturel's Guard." Then, the city's leader, its High Rider, was revealed to be a vampire. The extent of the vampire's network of charmed servants, undead allies, and willing sycophants took the Hellriders by surprise. An undead plague swamped Elturel, and although its Hellriders made some gains by day, in darkness the vampire and its minions inflicted cruel losses. Each night the good people of Elturel prayed to the gods that dawn might come more swiftly.
 
-Then, on a particularly disastrous night when all seemed lost, dawn did come. A warm golden light suffused the city and surrounding lands, cast down from a golden orb that hung unwavering in the sky, so bright that it seemed a new day had dawned. Caught outside when this miracle appeared, the High Rider and his [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) burned away to dust, and the other undead quailed in its illumination. In short order, Elturel was free.
+Then, on a particularly disastrous night when all seemed lost, dawn did come. A warm golden light suffused the city and surrounding lands, cast down from a golden orb that hung unwavering in the sky, so bright that it seemed a new day had dawned. Caught outside when this miracle appeared, the High Rider and his [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) burned away to dust, and the other undead quailed in its illumination. In short order, Elturel was free.
 
 When the true dawn came, the new sun remained. And it stayed in the sky through the next night, and the night after, and each night from then until now. While some called it Amaunator's Gift, none could say what god granted them this boon. Most saw it as a companion to the sun and to themselves, and so it is known as the Companion. This holy wonder brought pilgrims of all kinds to Elturel. The devout, the curious, the afflicted—all came to bathe in its warmth and see its blessed light by night. Paladins had always been small in number among the Hellriders, but the Companion drew many to Elturgard, and the best among them was named High Observer to rule in the High Rider's place.
 
@@ -1056,7 +1056,7 @@ Soubar is a small walled town with supporting farmsteads strung along the road t
 
 I would be remiss if I didn't mention Evereska, but I will be brief for I have no desire to publish all its secrets. I shall endeavor to describe my own homeland in as unbiased a way as I might, but I must warn: I am a daughter of the Greycloak Hills, and its mists yet roil through my soul as surely as elven blood does through my veins. Ere I make mention of my home, though, I will discuss the meeting-ground that is the closest most outsiders will ever get to fair Evereska: the Halfway Inn.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-evereska.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-evereska.webp#center)
 
 #### The Halfway Inn
 
@@ -1116,7 +1116,7 @@ Those traveling south to Baldur's Gate or north out of the Fields of the Dead ty
 
 I have been to Hartsvale only once, and found it surpassingly beautiful each time. Its wonders are wild and untamed, with even the so-called civilization of the place exuding a kind of primal beauty that is found nowhere else that I know of.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-hartsvale.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-hartsvale.webp#center)
 
 Hartsvale is far in the windswept north, a fertile mountain valley where the Ice Spire Mountains abut the High Ice. The Clear Whirl River, easily the cleanest and coldest I have ever bathed in, flows south into the valley out of the lands of the Endless Blizzard, feeding the rich soil tucked between the northern and southern arms of the Ice Spires. The river splits as it runs through the hilly lands, eventually draining into a series of lakes along the southern edge of the vale. Two small woods also grow in the vale, one along its northern edge, between the vale proper and the northern Ice Spires, and another fed by the lakes on its southern edge.
 
@@ -1176,7 +1176,7 @@ Worse still, the Holy Watcher has seen premonitions of something unspeakable ris
 
 ### High Forest
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-24.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-24.webp#center)
 
 Anyone with even a hint of elven blood can't help but feel it stir upon setting foot in the High Forest. The sheer age and the power of the trees, the depth of their roots, and the wind whispering through their leaves—all these things call to us.
 
@@ -1204,7 +1204,7 @@ Far less idyllic are the cursed ruins of Karse. Here are the remains of the grea
 
 The High Moor was once a place much like the High Forest or the nearby Misty Forest, but during the Crown Wars, thousands of years ago, powerful magic burned the land such that all that remained was a blasted moor. It is a rocky wilderness infested with trolls and goblinoids and all manner of other dangers for anyone who treks across it instead of going around.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-high-moor.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-high-moor.webp#center)
 
 As the name suggests, the High Moor is a raised area extending for many miles of heath, lichen-covered outcroppings, and hidden gullies. Herd animals wander the land, from sheep to rock ponies to the occasional rothé. These beasts graze without great risk, because wolves and other predators that would thin the herds are themselves the prey of the trolls and goblinoids that otherwise rule the moor. These two-legged threats sometimes seed the High Moor with traps, but are normally occupied with fighting and killing their prey and each other. There is something of a cycle to the hunts of the High Moor: wolves are killed off by the hobgoblins one year, leading to more sheep grazing, which brings the trolls out (the local trolls enjoy mutton, it seems), which brings intrepid adventurers to deal with the growing menace, enabling just enough of the wolves to survive that they aren't wiped out completely.
 
@@ -1264,7 +1264,7 @@ A variety of advisors and hangers-on can be found within Jarant's court, which i
 
 The Serpent Hills is a desolate region of red clay hills and deep, treacherous ravines, featuring stretches of rough, ridged land surrounding tall mesas. Only scrub can manage to grow here, tenaciously clinging to the dry clay. Beneath this perilous territory—filled with serpents and poisonous creatures of all manner—lie the Serpent Ways, a series of intricate, well-guarded tunnels interspersed with caverns and chambers. The passages serve as the main pathways for the folk of Najara through these lands; indeed, it was while resting within such a cavern that the half-elf apprentice and I were captured by yuan-ti. I have since learned that in general, the serpents don't care who tromps over the hills, so long as they stay out of the places under them. The Najaran capital city, Ss'khanaja, is found in the northwest of the Serpent Hills, but an even larger population of snakefolk live beneath the surface. It is common to find settlements inside the large underground chambers connected by the tunnels, excavations many centuries in age.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-26.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-26.webp#center)
 
 #### Marsh of Chelimber
 
@@ -1286,7 +1286,7 @@ I chose to make my escape from Najara through the Forest of Wyrms because, thoug
 
 In the rolling terrain of the Trielta Hills, scattered with small settlements of gnomes and halflings, life seems pastoral and idyllic. Halfling farmers tend to their plots, and gnome miners scrape out the interior of the hills seeking the bits of gold and silver they may find waiting there. No warlords threaten this land, no liches or dragons plot to seize it for themselves. There are no great castles to covet here, nor ruins to pillage. All told, the place seems dull and unremarkable.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-trielta-hills.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-trielta-hills.webp#center)
 
 That, of course, is just the way its residents like it. They enjoy their solitude, which is broken only rarely. The hills of Trielta do occasionally offer up some impressive bounty, in the form of heretofore-undiscovered gold and silver. While such finds are usually small lodes that are played out almost before others become aware of them, Trielta has played host to full-on gold rushes from time to time. Someone stumbles on a particularly large vein of ore, and prospectors and fortune-seekers come pouring in by the dozens. Trieltan folk tend to see these occasional influxes of gold-hungry seekers the way other settlements look upon periodic plagues of locusts: aggravating, inevitable, and thoroughly disruptive, but also part of the natural order, and so nothing to get bothered about.
 
@@ -1442,9 +1442,9 @@ As one might imagine, this blast drew the attention of all manner of twisted pre
 
 Anyone who goes to Luskan should know about its ruling Ships and the Arcane Brotherhood. The Ships of Luskan have been described as bands of pirates, but that characterization misses how deeply ingrained the Ships are to the society of Luskan and the mentality of its citizens. Attack a Ship member and you might incur not just the wrath of the Ship, but of much of the city as well. As for the Arcane Brotherhood, one member of it may or may not come to another's aid, but know that each of these egotistical mages is eager to prove his or her magical prowess, and none can afford to show weakness before the folk of Luskan.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-luskan.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/sword-coast-map-luskan.webp#center)
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/luskan-map.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/luskan-map.webp#center)
 
 Luskan, the City of Sails, spans the icy River Mirar, which tumbles from the Spine of the World, races past Mirabar, and then plunges toward the sea. The swift river has cut deep here, and Luskan rests atop two escarpments on either side, with sheer, forty-foot bluffs of gray stone rising above the water. Around the city's perimeter, thick stone walls with squat towers provide defense. The southern gate, called the Twin Teeth, boasts the most impressive towers, standing twice as tall as the city walls, and bedecked with crenellations and arrow slits enough for numerous defenders, in a show of strength toward the southern approach.
 
@@ -1524,7 +1524,7 @@ Dark Arch connects South Bank with Closeguard Island, and only members of Ship K
 
 In the last decade or so, two great changes have come over Luskan. The first was the plague that crippled the gangs that had controlled the city, allowing the High Captains to reclaim the power they had long held in Luskan. The other, far more sudden, was the return of the Arcane Brotherhood and its five-spired tower. A few years ago, the ruined Hosttower of the Arcane began regenerating its damaged stone, climbing into the sky once more. Shortly thereafter, mages of the Arcane Brotherhood emerged, almost immediately began cleansing the Luskar ruins of undead, and fought off a dragon menacing the city. Cheered by the citizens, they swore to keep themselves out of the politics of the High Captains and the city at large, but the notion that powerful wizards closely aligned with one another can truly remain neutral is laughable to anyone familiar with such things.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-30.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-30.webp#center)
 
 Now, the Arcane Brotherhood again walks the streets of Luskan, marked by the distinctive colors and patterns of their cloaks. From a distance, these cloaks all bear the same cut and silhouette, but each wizard of the Hosttower chooses a color or a design, and a moniker to match it. The leadership of the Arcane Brotherhood is the archmage and the four Overwizards of the other spires of the Hosttower:
 
@@ -1568,7 +1568,7 @@ Dwarves still live in the mines of Kelvin's Cairn, but in fewer numbers than the
 > 
 > Do you know what it is to be a slave? To feel the crack of a whip, the venom of a drow priestess's snake-headed lash, the weight of a burden you can't possibly lift after so much toil? No, you don't. So close your mouth and open your eyes and ears, and dip your quill.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-31.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag02-31.webp#center)
 
 Known by many as the Realms Below, the vast, miles-deep network of caverns, caves, and underground waterways called the Underdark is home to many strange creatures and even stranger societies. No one is quite sure the extent of this massive ecosystem, except to say that it reaches at least the breadth of the continent, and that most creatures are fully capable of surviving their entire lives within it, provided they can find enough food and safety to do so. Breathable air is plentiful, and clean water can be found. Beyond that, most surface folk only have the tales of adventurers, the survivors of attacks, and the occasional escaped captive to describe the horrors lurking below the surface.
 

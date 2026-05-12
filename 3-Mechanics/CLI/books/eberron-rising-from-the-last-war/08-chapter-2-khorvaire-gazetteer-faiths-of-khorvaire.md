@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire
+- "Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire"
 ---
 # Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire
 *Source: Eberron: Rising from the Last War, p. 140* 
@@ -18,17 +18,17 @@ Religion is especially important for a paladin, cleric, or druid, yet any charac
 
 Conversely, a lack of faith can also be a meaningful part of your story. If you don't believe in any divine power, what caused such doubt? The Rejection of Faith table offers ideas that can help shape your story.
 
-![Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith](/3-Mechanics/CLI/tables/chapter-2-khorvaire-gazetteer-faiths-of-khorvaire-foundation-of-faith-erlw.md)
+![Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Foundation of Faith](3-Mechanics/CLI/tables/chapter-2-khorvaire-gazetteer-faiths-of-khorvaire-foundation-of-faith-erlw.md)
 
-![Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Rejection of Faith](/3-Mechanics/CLI/tables/chapter-2-khorvaire-gazetteer-faiths-of-khorvaire-rejection-of-faith-erlw.md)
+![Chapter 2: Khorvaire Gazetteer - Faiths of Khorvaire; Rejection of Faith](3-Mechanics/CLI/tables/chapter-2-khorvaire-gazetteer-faiths-of-khorvaire-rejection-of-faith-erlw.md)
 
 ## Deities of Eberron
 
-![Deities of Eberron; 1](/3-Mechanics/CLI/tables/deities-of-eberron-1-erlw.md)
+![Deities of Eberron; 1](3-Mechanics/CLI/tables/deities-of-eberron-1-erlw.md)
 
-![Deities of Eberron; 2](/3-Mechanics/CLI/tables/deities-of-eberron-2-erlw.md)
+![Deities of Eberron; 2](3-Mechanics/CLI/tables/deities-of-eberron-2-erlw.md)
 
-![Deities of Eberron; 3](/3-Mechanics/CLI/tables/deities-of-eberron-3-erlw.md)
+![Deities of Eberron; 3](3-Mechanics/CLI/tables/deities-of-eberron-3-erlw.md)
 
 The suggested cleric domains are from the "Player's Handbook", unless followed by an asterisk:
 
@@ -37,13 +37,13 @@ The suggested cleric domains are from the "Player's Handbook", unless followed b
 **"Xanathar's Guide to Everything"
 
 > [!gallery]
-> ![The Sovereign Host](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/088-2-16b.webp#gallery)
-> ![The Dark Six](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/089-2-16e.webp#gallery)
-> ![The Blood of Vol](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/090-2-16a.webp#gallery)
-> ![Cults of Khyber](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/091-2-16d.webp#gallery)
-> ![The Undying Court](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/092-2-16g.webp#gallery)
-> ![The Silver Flame](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/093-2-16c.webp#gallery)
-> ![The Path of Light](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/094-2-16f.webp#gallery)
+> ![The Sovereign Host](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/088-2-16b.webp#gallery)
+> ![The Dark Six](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/089-2-16e.webp#gallery)
+> ![The Blood of Vol](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/090-2-16a.webp#gallery)
+> ![Cults of Khyber](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/091-2-16d.webp#gallery)
+> ![The Undying Court](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/092-2-16g.webp#gallery)
+> ![The Silver Flame](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/093-2-16c.webp#gallery)
+> ![The Path of Light](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/094-2-16f.webp#gallery)
 
 ## Sovereign Host
 
@@ -233,9 +233,9 @@ Temples of the Blood of Vol are fortified structures, built to serve as sanctuar
 
 The Cults of the Dragon Below are wildly diverse. The tenets above describe the beliefs of three different cults. Warlocks draw power from demon overlords, and daelkyr cultists serve mind flayers and beholders. Others embrace deep convictions that others see as madness. Outsiders use the term "Cult of the Dragon Below" as a blanket term to describe these disparate beliefs, but the cultists don't use this name or see themselves as part of a greater whole.
 
-Cults of the Dragon Below are based on madness or power. A cult that seeks power chooses to serve a dark force because of the gifts they receive from it. A cabal of scholars might serve the demon overlord [Sul Khatesh](/3-Mechanics/CLI/bestiary/npc/sul-khatesh-erlw.md) in exchange for secrets of magic. In the Mror Holds, dwarf clans bargain with [Dyrrn](/3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md) the Corruptor to gain symbionts and sinister gifts. The Shadow Marches contain cults devoted to the daelkyr [Belashyrra](/3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md) and Kyrzin. Membership in such a cult is voluntary, and spellcasters are more likely to be warlocks or wizards than clerics; their power comes from bargaining, not from faith.
+Cults of the Dragon Below are based on madness or power. A cult that seeks power chooses to serve a dark force because of the gifts they receive from it. A cabal of scholars might serve the demon overlord [Sul Khatesh](3-Mechanics/CLI/bestiary/npc/sul-khatesh-erlw.md) in exchange for secrets of magic. In the Mror Holds, dwarf clans bargain with [Dyrrn](3-Mechanics/CLI/bestiary/npc/dyrrn-erlw.md) the Corruptor to gain symbionts and sinister gifts. The Shadow Marches contain cults devoted to the daelkyr [Belashyrra](3-Mechanics/CLI/bestiary/npc/belashyrra-erlw.md) and Kyrzin. Membership in such a cult is voluntary, and spellcasters are more likely to be warlocks or wizards than clerics; their power comes from bargaining, not from faith.
 
-Cults driven by madness have a warped view of reality. A cultist might believe aberrations are a higher form of life and that the daelkyr will elevate mortals. Other cultists may not recognize the true nature of the beings they serve. A cult of [Rak Tulkhesh](/3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md) might truly believe their lord will bring peace to the world, even if that peace must begin with bloody war. Joining such a cult isn't a choice, it's something you fall into due to madness. New cults can spring up anywhere, as seeds of madness take root and spread.
+Cults driven by madness have a warped view of reality. A cultist might believe aberrations are a higher form of life and that the daelkyr will elevate mortals. Other cultists may not recognize the true nature of the beings they serve. A cult of [Rak Tulkhesh](3-Mechanics/CLI/bestiary/npc/rak-tulkhesh-erlw.md) might truly believe their lord will bring peace to the world, even if that peace must begin with bloody war. Joining such a cult isn't a choice, it's something you fall into due to madness. New cults can spring up anywhere, as seeds of madness take root and spread.
 
 Cults of the Dragon Below often appear as antagonists. However, your character could be a member of a relatively benign cult. You might have been raised in a cult but broke free from its influence. If your character was or is part of a cult, work with your DM to develop the details of your sect.
 
@@ -340,7 +340,7 @@ Since trance communion is a personal experience, the role of the priest is to pr
 
 In Aerenal, the temples of the Undying Court are step pyramids built from stone. In Khorvaire, shrines to the Court use imported Aereni densewood, a particularly tough lumber that grows only on the island. Regardless of form, the walls are engraved with stories about the Undying Councilors that serve as the particular patrons of the temple, usually those related to the local priests.
 
-![Oalian of the Towering Wood](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/095-2-17.webp#center)
+![Oalian of the Towering Wood](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/095-2-17.webp#center)
 
 ## Druids of Khorvaire
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- 4: Monosyllabic Names
+- "4: Monosyllabic Names"
 ---
 # 4: Monosyllabic Names
 *Source: Dungeon Master's Guide (2024) p. 84* 
 
 **4: Monosyllabic Names**
-
-`dice: [](4-monosyllabic-names-xdmg.md#^4-monosyllabic-names)`
 
 | dice: 1d12 | Monosyllabic Given Name | Monosyllabic Surname |
 |------------|-------------------------|----------------------|

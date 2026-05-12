@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Horseshoes of Speed"
 ---
 # Horseshoes of Speed

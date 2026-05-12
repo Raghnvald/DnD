@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Space Hamster
+- "Space Hamster"
 ---
-# [Space Hamster](3-Mechanics\CLI\bestiary\beast/space-hamster-wdmm.md)
+# [Space Hamster](3-Mechanics/CLI/bestiary/beast/space-hamster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 251*  
 
 ```statblock
@@ -32,15 +32,16 @@ aliases:
   - !!int "10"
   - !!int "4"
 "speed": "20 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "the hamster has advantage on Wisdom (Perception) checks that rely on\
-      \ smell."
+  - "desc": "the hamster has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/space-hamster-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/space-hamster-wdmm.webp"
 ```
 ^statblock

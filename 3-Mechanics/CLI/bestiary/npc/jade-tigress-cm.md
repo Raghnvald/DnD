@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jade Tigress
+- "Jade Tigress"
 ---
-# [Jade Tigress](3-Mechanics\CLI\bestiary\npc/jade-tigress-cm.md)
+# [Jade Tigress](3-Mechanics/CLI/bestiary/npc/jade-tigress-cm.md)
 *Source: Candlekeep Mysteries p. 166*  
 
 Jade Tigress is a powerfully built woman whose body has been honed by intense physical training. She is rugged in appearance, with jet-black hair, hazel eyes, and a long, thin scar running across her right cheek. She matches the description of one of the thieves who infiltrated Candlekeep.
@@ -61,13 +61,13 @@ Jade Tigress is a powerfully built woman whose body has been honed by intense ph
   - "desc": "Jade Tigress makes three attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) force damage, and if the target is a creature, it must succeed on\
-      \ a DC 15 Constitution saving throw or be stunned until the end of Jade Tigress's\
+      \ (2d8 + 4) force damage, and if the target is a creature, it must succeed\
+      \ on a DC 15 Constitution saving throw or be stunned until the end of Jade Tigress's\
       \ next turn."
     "name": "Force Strike"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:*\
-      \ 4 (1d4 + 2) piercing damage plus 7 (3d4) poison damage, and the target must\
-      \ succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion."
+      \ 4 (1d4 + 2) piercing damage plus 7 (3d4) poison damage, and the target\
+      \ must succeed on a DC 15 Constitution saving throw or gain 1 level of exhaustion."
     "name": "Poisoned Dart"
   - "desc": "Jade Tigress regains 2d8 + 2 hit points, and all levels of exhaustion\
       \ end on her."
@@ -83,6 +83,6 @@ Jade Tigress is a powerfully built woman whose body has been honed by intense ph
     "name": "Deflect Missile"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jade-tigress-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jade-tigress-cm.webp"
 ```
 ^statblock

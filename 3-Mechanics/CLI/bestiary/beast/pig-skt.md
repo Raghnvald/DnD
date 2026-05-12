@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pig
+- "Pig"
 ---
-# [Pig](3-Mechanics\CLI\bestiary\beast/pig-skt.md)
+# [Pig](3-Mechanics/CLI/bestiary/beast/pig-skt.md)
 *Source: Storm King's Thunder p. 143*  
 
 ```statblock
@@ -38,6 +38,6 @@ aliases:
 "cr": "0"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/pig-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/pig-skt.webp"
 ```
 ^statblock

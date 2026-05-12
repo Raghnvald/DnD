@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gremorly's Ghost
+- "Gremorly's Ghost"
 ---
-# [Gremorly's Ghost](3-Mechanics\CLI\bestiary\undead/gremorlys-ghost-bmt.md)
+# [Gremorly's Ghost](3-Mechanics/CLI/bestiary/undead/gremorlys-ghost-bmt.md)
 *Source: The Book of Many Things p. 122*  
 
 Years ago, a wizard named Gremorly drew the Throne card from a Deck of Many Things, gaining ownership of a small castle called Sovereign's Keep. Gremorly was a necromancer and misanthrope who had little patience for the living; he resolved to use the keep to create and house a ghostly army he would use to seize power. Gremorly performed a ritual that turned Sovereign Keep into a ghost trap: anyone who dies within the castle walls rises as an incorporeal spirit, trapped within the castle. Then, he waited. When adventurers came to investigate the seemingly abandoned keep, Gremorly murdered them and trapped their ghosts. But fortune recently turned against Gremorly when a behir entered the keep seeking a nest. It slew Gremorly, who became a victim of his own ritual.
@@ -65,13 +65,13 @@ Gremorly is now one of the many ghosts that haunt the keep. Locals have renamed 
 "actions":
   - "desc": "Gremorly makes three Withering Strike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (3d12)\
-      \ necrotic damage."
+  - "desc": "*Melee Spell Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19\
+      \ (3d12) necrotic damage."
     "name": "Withering Strike"
   - "desc": "Gremorly targets one creature he can see within 60 feet of himself. The\
-      \ target must make a DC 16 Constitution saving throw, taking 61 (7d8 + 30) necrotic\
-      \ damage on a failed save, or half as much damage on a successful one. In addition,\
-      \ Gremorly regains 9 (2d8) hit points."
+      \ target must make a DC 16 Constitution saving throw, taking 61 (7d8 + 30)\
+      \ necrotic damage on a failed save, or half as much damage on a successful one.\
+      \ In addition, Gremorly regains 9 (2d8) hit points."
     "name": "Fell Necromancy"
   - "desc": "One Humanoid Gremorly can see within 5 feet of himself must succeed on\
       \ a DC 15 Charisma saving throw or be possessed by him; Gremorly disappears,\
@@ -97,6 +97,6 @@ Gremorly is now one of the many ghosts that haunt the keep. Locals have renamed 
     "name": "Ethereal Step (Recharge 4-6)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/gremorlys-ghost-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/gremorlys-ghost-bmt.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thrakkus
+- "Thrakkus"
 ---
-# [Thrakkus](3-Mechanics\CLI\bestiary\npc/thrakkus-wdh.md)
+# [Thrakkus](3-Mechanics/CLI/bestiary/npc/thrakkus-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 89*  
 
 A member of the Guild of Butchers, Thrakkus has a lucrative side business. Zhents loyal to Manshoon pay Thrakkus to chop up people they kill, and he sells the meat on the sly.
@@ -24,7 +24,7 @@ A member of the Guild of Butchers, Thrakkus has a lucrative side business. Zhent
 "subtype": "dragonborn"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -37,6 +37,8 @@ A member of the Guild of Butchers, Thrakkus has a lucrative side business. Zhent
   - !!int "9"
 "speed": "30 ft."
 "damage_resistances": "fire"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Draconic"
 "cr": "2"
@@ -46,8 +48,8 @@ A member of the Guild of Butchers, Thrakkus has a lucrative side business. Zhent
       \ until the start of his next turn."
     "name": "Reckless"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d12 + 3) slashing damage."
     "name": "Greataxe"
   - "desc": "Thrakkus can use his action to exhale a 15-foot cone of fire. Each creature\
       \ in the cone must make a DC 13 Dexterity saving throw, taking 6 (2d6) fire\
@@ -55,6 +57,6 @@ A member of the Guild of Butchers, Thrakkus has a lucrative side business. Zhent
     "name": "Breath Weapon (1/Day)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/thrakkus-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/thrakkus-wdh.webp"
 ```
 ^statblock

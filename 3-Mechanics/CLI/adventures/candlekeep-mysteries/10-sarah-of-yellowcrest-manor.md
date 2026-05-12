@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
+- ttrpg-cli/compendium/src/5e/cm
 aliases:
-- Sarah of Yellowcrest Manor
+- "Sarah of Yellowcrest Manor"
 ---
 # Sarah of Yellowcrest Manor
 *Source: Candlekeep Mysteries, p. 100* 
 
-![Sarah of Yellowcrest Manor](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/067-09-001-book.webp#center)
+![Sarah of Yellowcrest Manor](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/067-09-001-book.webp#center)
 
 **An Adventure for 7th-level Characters**  
 **Developed & Edited by Scott Fitzgerald Gray**  
@@ -67,7 +67,7 @@ A thorough reading of the diary reveals the broad details of the lives of Sarah 
 - Yellowcrest Manor stands on Delzorin Street in Waterdeep's North Ward.  
 - Lord Viallis and Lady Maria had two sons, Malik and Janus, and one daughter, Tianna.  
 - The family owned several tanneries and shoemaking shops in Waterdeep, but most of its wealth was inherited on Maria's side.  
-- Lord Viallis's closest business associate was an elf named [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md), who visited Lord Viallis twice a tenday.  
+- Lord Viallis's closest business associate was an elf named [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md), who visited Lord Viallis twice a tenday.  
 - Sarah had a romantic relationship with a young squire named Vecken, who lived close to the manor on Immar Street.  
 
 The details of the murders at Yellowcrest Manor can be learned from a few hours' research into recent Waterdeep history, or by consulting any scholar at the library who has an interest in that history or the noble families of Waterdeep. The public details of the dark event are well known:
@@ -76,13 +76,13 @@ The details of the murders at Yellowcrest Manor can be learned from a few hours'
 - Rumors seemingly spread by members of the City Guard after investigating the murders hinted at some sort of cult activity, but details of the killings were never revealed. No suspects were ever identified or charged.  
 - The Yellowcrest family had a good reputation, with no hint of personal or public impropriety. No one ever accused the grieving Lord Yellowcrest of having any connection to the murders.  
 
-![Sarah's Ghost](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/068-09-002-sarahs-ghost.webp#center)
+![Sarah's Ghost](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/068-09-002-sarahs-ghost.webp#center)
 
 ## Grieving Ghost
 
 Sarah was one of the servants killed alongside Lady Maria and the three Yellowcrest children—all murdered by Lord Viallis as part of his willing descent into evil. For five years, the young woman's immortal spirit has been bound within *Sarah of Yellowcrest Manor*. Ever grieving, the spirit has had no way to communicate with the mortal realm—until the presence of the characters draws her forth.
 
-Once she appears for the first time, Sarah (a [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md)) reappears whenever the characters speak her name in the presence of the book. The anguished state of the young woman's spirit is clear to anyone who sees her.
+Once she appears for the first time, Sarah (a ghost) reappears whenever the characters speak her name in the presence of the book. The anguished state of the young woman's spirit is clear to anyone who sees her.
 
 Sarah understands characters who speak Common and tries to respond to them, but she can't speak because Lord Viallis cut out her tongue before killing her. The ghost tries to communicate through moaning whispers and by pointing the characters to the parts of her diary that hint at Lord Viallis's evil.
 
@@ -103,7 +103,7 @@ Sarah's anguished state of mind means that she can share no information other th
 
 Five years ago, Lord Viallis murdered his family, Sarah, and three other servants as part of a ritual to contact an otherworldly entity. The ritual was successful, and with the magic circle he had scribed, Viallis established contact with a Great Old One called Gaernoo. This aberrant patron offered to grant Lord Viallis arcane powers in exchange for establishing a cult dedicated to Gaernoo.
 
-Lord Viallis, empowered by Gaernoo's otherworldly magic and wanting to get away from talk of his family's death, moved to the village of Greenfast, a day's travel southeast of Waterdeep and the home of his business partner, [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md). Claiming that he wanted to have his family interred close to him, he took the remains of his wife and children along, with evil intent. For the last five years, Viallis has been building a cult to Gaernoo around himself, calling it the Burnt Tongue Cult for the sacrifice that new members must make before being accepted.
+Lord Viallis, empowered by Gaernoo's otherworldly magic and wanting to get away from talk of his family's death, moved to the village of Greenfast, a day's travel southeast of Waterdeep and the home of his business partner, [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md). Claiming that he wanted to have his family interred close to him, he took the remains of his wife and children along, with evil intent. For the last five years, Viallis has been building a cult to Gaernoo around himself, calling it the Burnt Tongue Cult for the sacrifice that new members must make before being accepted.
 
 ### Lord Viallis's Tome
 
@@ -121,7 +121,7 @@ To get the characters into the mystery as quickly as possible, their trip to Wat
 
 The former Yellowcrest Manor is easily located, either by using Sarah's directions from the diary or asking in Waterdeep. Though no members of the Yellowcrest family remain in the city, their name is still well known because many people remember the terrible tragedy.
 
-The manor is on Delzorin Street in the North Ward, and it is now home to the Falgarst family. Characters who present themselves at the estate are met by a well-dressed butler at the front door. Arnulf (a lawful neutral human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) is a short, balding man with a warm smile and a fine mustache, who gives off a faint scent of wine. He is amicable and conversational, especially if he has already undertaken his daily "inspection" of the Falgarst family's wine cellar.
+The manor is on Delzorin Street in the North Ward, and it is now home to the Falgarst family. Characters who present themselves at the estate are met by a well-dressed butler at the front door. Arnulf (a lawful neutral human commoner) is a short, balding man with a warm smile and a fine mustache, who gives off a faint scent of wine. He is amicable and conversational, especially if he has already undertaken his daily "inspection" of the Falgarst family's wine cellar.
 
 #### Family Business
 
@@ -141,17 +141,17 @@ Arnulf can reveal any of the following details:
 
 A few hours of asking around the Trades Ward enables the characters to identify the three cobblers' shops, two leatherworkers' shops, and two tanneries still owned by Lord Viallis. The Yellowcrest businesses are all nondescript, and none of the workers or managers know Lord Viallis personally or know anything of his whereabouts, except that he lives "out in the country somewhere."
 
-The characters can get on the good side of one of the cobblers or tannery managers working for Viallis with a successful DC 15 Charisma (Persuasion) check or 10 gp in bribes. Doing so earns them the knowledge that Lord Viallis has an overseer who comes once every second tenday to check the books of each enterprise, pay wages, and collect profits. The overseer, an elf named [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md), lives in the village of Greenfast southeast of Waterdeep, and is expected in the city in two days.
+The characters can get on the good side of one of the cobblers or tannery managers working for Viallis with a successful DC 15 Charisma (Persuasion) check or 10 gp in bribes. Doing so earns them the knowledge that Lord Viallis has an overseer who comes once every second tenday to check the books of each enterprise, pay wages, and collect profits. The overseer, an elf named [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md), lives in the village of Greenfast southeast of Waterdeep, and is expected in the city in two days.
 
-The characters are free to head for the village in search of more clues, in which you can case skip to the "Greenfast" section later in the adventure. They can also wait in Waterdeep to try to talk to [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md). The overseer arrives two days later, and spends that day visiting each business in turn. Characters who stake out any of those locations can see [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) as he arrives just after noon in a private coach, which barely fits along the narrow Trades Ward streets where the Yellowcrest businesses are located. His bodyguards include two [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md), three [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md), and two [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)—all on horseback. The driver of the coach is an unarmed [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md). The characters can easily perceive that this is an unusually large entourage, even for someone carrying money.
+The characters are free to head for the village in search of more clues, in which you can case skip to the "Greenfast" section later in the adventure. They can also wait in Waterdeep to try to talk to [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md). The overseer arrives two days later, and spends that day visiting each business in turn. Characters who stake out any of those locations can see [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) as he arrives just after noon in a private coach, which barely fits along the narrow Trades Ward streets where the Yellowcrest businesses are located. His bodyguards include two cult fanatics, three thugs, and two veterans—all on horseback. The driver of the coach is an unarmed commoner. The characters can easily perceive that this is an unusually large entourage, even for someone carrying money.
 
-![Faerl](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/069-09-003-faerl.webp#center)
+![Faerl](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/069-09-003-faerl.webp#center)
 
 #### Faerl
 
-[Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md), a neutral evil wood elf, is proud and cruel. He believes that he must be in control at all times. He dresses in pompous finery and an oversized red hat. He speaks precisely, but in a volume so low that it forces people to pay close attention to him.
+[Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md), a neutral evil wood elf, is proud and cruel. He believes that he must be in control at all times. He dresses in pompous finery and an oversized red hat. He speaks precisely, but in a volume so low that it forces people to pay close attention to him.
 
-[Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) uses the [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md) stat block with the following changes:
+[Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) uses the noble stat block with the following changes:
 
 - He speaks Common and Elvish.  
 - He has advantage on saving throws against being charmed, and magic can't put him to sleep.  
@@ -174,27 +174,27 @@ The characters are free to head for the village in search of more clues, in whic
 
 #### Speaking of the Past
 
-As long as the characters approach in a nonthreatening way, [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) is willing to talk to them, though his bodyguards stand close by. [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) pretends to take an interest in any talk of the characters looking into the Yellowcrest murders, calling the fact that no one was ever charged with the crime "a terrible injustice." If asked about Lord Viallis, [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) describes him as "broken by the tragedy." He denies that his employer could have had anything to do with those terrible events if any character suggests it.
+As long as the characters approach in a nonthreatening way, [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) is willing to talk to them, though his bodyguards stand close by. [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) pretends to take an interest in any talk of the characters looking into the Yellowcrest murders, calling the fact that no one was ever charged with the crime "a terrible injustice." If asked about Lord Viallis, [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) describes him as "broken by the tragedy." He denies that his employer could have had anything to do with those terrible events if any character suggests it.
 
-[Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md)'s loyalty to the Burnt Tongue Cult and Lord Viallis is absolute, making him impervious to bribery and intimidation attempts. If magic such as a charm person spell is used to influence his attitude toward one or more characters, [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) refuses to mention the cult, even to characters to whom he is friendly, so as not to incriminate himself. He calls the City Watch if the party gives him trouble.
+[Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md)'s loyalty to the Burnt Tongue Cult and Lord Viallis is absolute, making him impervious to bribery and intimidation attempts. If magic such as a charm person spell is used to influence his attitude toward one or more characters, [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) refuses to mention the cult, even to characters to whom he is friendly, so as not to incriminate himself. He calls the City Watch if the party gives him trouble.
 
-If the characters express their intention to question Lord Viallis, [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) orders his bodyguards to attack while he climbs back in the coach and tries to leave. If he gets away, he returns to Greenfast, where the characters might encounter him again.
+If the characters express their intention to question Lord Viallis, [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) orders his bodyguards to attack while he climbs back in the coach and tries to leave. If he gets away, he returns to Greenfast, where the characters might encounter him again.
 
 #### Street Fight
 
-If [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) orders his bodyguards to attack, or if any character attacks him or the bodyguards first, the bodyguards do their best to protect [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) and ensure that he escapes in the coach. They then lay into the characters without mercy. The [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) cast command or hold person on melee combatants, hoping that the [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) and the [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md) can dispatch them quickly. The thugs focus on the same target to make use of their Pack Tactics feature.
+If [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) orders his bodyguards to attack, or if any character attacks him or the bodyguards first, the bodyguards do their best to protect [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) and ensure that he escapes in the coach. They then lay into the characters without mercy. The cult fanatics cast command or hold person on melee combatants, hoping that the veterans and the thugs can dispatch them quickly. The thugs focus on the same target to make use of their Pack Tactics feature.
 
-When more than half the bodyguards have fallen, the others surrender. All are Waterdeep mercenaries on long-term contract to guard [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) when he visits the city. They don't know Lord Viallis personally and know nothing of the cult, but they can provide the following information about [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) and Lord Viallis:
+When more than half the bodyguards have fallen, the others surrender. All are Waterdeep mercenaries on long-term contract to guard [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) when he visits the city. They don't know Lord Viallis personally and know nothing of the cult, but they can provide the following information about [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) and Lord Viallis:
 
-- [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) met Lord Viallis in Waterdeep years ago and became his business partner. [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) lives in the village of Greenfast southeast of Waterdeep, where Lord Viallis also lives now.  
+- [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) met Lord Viallis in Waterdeep years ago and became his business partner. [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) lives in the village of Greenfast southeast of Waterdeep, where Lord Viallis also lives now.  
 - The profits from the Yellowcrest businesses generate a tidy sum that funds Viallis's retirement.  
-- The bodyguards were to accompany [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) back to Greenfast that evening with the latest profits from the Yellowcrest businesses, then make their way back to Waterdeep after being paid.  
+- The bodyguards were to accompany [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) back to Greenfast that evening with the latest profits from the Yellowcrest businesses, then make their way back to Waterdeep after being paid.  
 
 ##### Treasure
 
-If the characters overcome [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) and the bodyguards and prevent [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) from leaving, a search of the coach turns up a locked iron strongbox. [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) carries the key. As an action, a character can try to pick the lock using thieves' tools, doing so with a successful DC 15 Dexterity check, or pry the box open with a successful DC 18 Strength (Athletics) check. Inside are the profits from the establishments [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) has already visited that day—35 gp and 400 sp.
+If the characters overcome [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) and the bodyguards and prevent [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) from leaving, a search of the coach turns up a locked iron strongbox. [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) carries the key. As an action, a character can try to pick the lock using thieves' tools, doing so with a successful DC 15 Dexterity check, or pry the box open with a successful DC 18 Strength (Athletics) check. Inside are the profits from the establishments [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) has already visited that day—35 gp and 400 sp.
 
-[Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) carries a potion of healing (superior) in his belt and 20 gp in a leather pouch. He wears jewelry worth a total of 20 gp.
+[Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) carries a [potion of healing (superior)](3-Mechanics/CLI/items/potion-of-superior-healing.md) in his belt and 20 gp in a leather pouch. He wears jewelry worth a total of 20 gp.
 
 ### Sir Vecken of the Broken Horn
 
@@ -202,11 +202,11 @@ While in Waterdeep, the characters might also think to seek out Vecken, the form
 
 All the people in the area know Vecken and speak of him as an example of bravery and perseverance. After Sarah was killed five years ago, Vecken joined an adventuring company and made a name for himself. A well-known sortie against a bandit lord south of Neverwinter earned him the nickname "Sir Vecken of the Broken Horn," after his horned helmet was nearly cloven in two during the fight. A year ago, he returned to Waterdeep to live with his father, Yacken, and has since retired from adventuring.
 
-![Sir Vecken](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/070-09-004-sir-vecken.webp#center)
+![Sir Vecken](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/070-09-004-sir-vecken.webp#center)
 
 #### Sir Vecken
 
-Vecken (a lawful good human [knight](/3-Mechanics/CLI/bestiary/humanoid/knight.md)) is a burly figure, heavily scarred but with a pleasant disposition. He turned to adventuring to help him move past the death of his beloved Sarah, and he becomes noticeably distraught when speaking of her.
+Vecken (a lawful good human knight) is a burly figure, heavily scarred but with a pleasant disposition. He turned to adventuring to help him move past the death of his beloved Sarah, and he becomes noticeably distraught when speaking of her.
 
 ##### Personality Trait
 
@@ -252,12 +252,12 @@ Viallis lives in a comfortable house (see area G3), but he is not home when the 
 The following locations are keyed to the map of Greenfast.
 
 > [!gallery]
-> ![Map 9.1: Greenfast](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/071-map-9-01-greenfast.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/072-map-9-01-greenfast-player.webp#gallery)
+> ![Map 9.1: Greenfast](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/071-map-9-01-greenfast.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/072-map-9-01-greenfast-player.webp#gallery)
 
 #### G1. Mayor's House
 
-The largest building in the village is the home of Mayor Kara Firenni (a neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), who is busy working in her garden if the characters seek her out. Mayor Kara is middle-aged and wears her hair in a short ponytail. She is a good and compassionate leader, but shows clear signs of stress as the characters talk to her.
+The largest building in the village is the home of Mayor Kara Firenni (a neutral good human commoner), who is busy working in her garden if the characters seek her out. Mayor Kara is middle-aged and wears her hair in a short ponytail. She is a good and compassionate leader, but shows clear signs of stress as the characters talk to her.
 
 ##### Kara's Fears
 
@@ -269,7 +269,7 @@ Two months ago, Kara's sister, Yaeda, fell under Viallis's sway and went to what
 
 #### G2. The Bulging Cauldron
 
-This tavern has a warm, homey feel, filled with locals at mealtimes and the end of the workday. Travelers stop in more rarely, and the proprietor, Old Fargo (a chaotic good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), is happy to serve them. Fargo is recognizable by his old flannel shirt and riding hat. The tavern has two spare rooms on the second floor that can be rented out by the day or tenday.
+This tavern has a warm, homey feel, filled with locals at mealtimes and the end of the workday. Travelers stop in more rarely, and the proprietor, Old Fargo (a chaotic good human commoner), is happy to serve them. Fargo is recognizable by his old flannel shirt and riding hat. The tavern has two spare rooms on the second floor that can be rented out by the day or tenday.
 
 ##### Old Fargo's Suspicions
 
@@ -287,13 +287,13 @@ Inside, the house appears almost abandoned. Only the kitchen and the main room s
 
 The residence of Viallis's overseer is a comfortable cottage whose main room doubles as an office. The place is filled with business records and correspondence, all of which concern Lord Viallis's business and none of which appear suspicious or out of the ordinary.
 
-If the characters came to Greenfast without meeting [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) in Waterdeep, you can have them find the overseer at home if you see fit. Use the details in the "Yellowcrest Businesses" section and the information on [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) there to shape the conversation. If the characters threaten him or ask questions that indicate they know more about the cult than [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) likes, the overseer makes a point of opening a window "to get some air." This is a signal to the cultists at the barn (area G5) to come running.
+If the characters came to Greenfast without meeting [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) in Waterdeep, you can have them find the overseer at home if you see fit. Use the details in the "Yellowcrest Businesses" section and the information on [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) there to shape the conversation. If the characters threaten him or ask questions that indicate they know more about the cult than [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) likes, the overseer makes a point of opening a window "to get some air." This is a signal to the cultists at the barn (area G5) to come running.
 
 #### G5. Barn
 
-Two [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) and two [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)—neutral evil humans loyal to Viallis—work here by day. They keep an eye out for trouble and keep their ears open for word of nondescript travelers passing through the area. When Viallis needs new sacrifices, the cultists snatch victims along the Trade Way at night. (If at least one day passes between the characters meeting Vecken and arriving in Greenfast, the cultists' most recent expedition ended with the capture of the vengeful warrior. See area B11.)
+Two cult fanatics and two veterans—neutral evil humans loyal to Viallis—work here by day. They keep an eye out for trouble and keep their ears open for word of nondescript travelers passing through the area. When Viallis needs new sacrifices, the cultists snatch victims along the Trade Way at night. (If at least one day passes between the characters meeting Vecken and arriving in Greenfast, the cultists' most recent expedition ended with the capture of the vengeful warrior. See area B11.)
 
-The cultists pay close attention to [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md)'s house (area G4) and to any strangers in the village. If the characters ask them any questions about Viallis, the cultists respond by attacking. If they see the previously agreed-upon signal of a window being opened in [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md)'s house, they go there immediately, ready for trouble.
+The cultists pay close attention to [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md)'s house (area G4) and to any strangers in the village. If the characters ask them any questions about Viallis, the cultists respond by attacking. If they see the previously agreed-upon signal of a window being opened in [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md)'s house, they go there immediately, ready for trouble.
 
 Use the guidelines in the "Street Fight" section earlier to run the encounter if the cultists and the characters face off. Unlike the mercenaries in Waterdeep, these villains know a great deal of information that they share if they are defeated and threatened:
 
@@ -305,7 +305,7 @@ The cultists know nothing of the whereabouts of the remains of Lady Maria and he
 
 ## Temple of the Burnt Tongue Cult
 
-An hour out of Greenfast stands an old stone tower, long abandoned and crumbling. When Lord Viallis came to Greenfast after murdering his family, [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) showed him the tower, thinking that Viallis might consider it a suitable site for a summer home. But Viallis, already well involved in his plans to make contact with the Great Old One called Gaernoo, saw even more potential for the site.
+An hour out of Greenfast stands an old stone tower, long abandoned and crumbling. When Lord Viallis came to Greenfast after murdering his family, [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) showed him the tower, thinking that Viallis might consider it a suitable site for a summer home. But Viallis, already well involved in his plans to make contact with the Great Old One called Gaernoo, saw even more potential for the site.
 
 For five years, Viallis has led and nurtured a cult to Gaernoo, whose members have been working to reclaim the ruined tower site, creating a temple within the subterranean levels below. Though the cult remains small in numbers, it has grand ambitions.
 
@@ -333,8 +333,8 @@ Ceilings throughout the temple are 10 feet high and flat. All areas of the upper
 The locations in the underground temple are keyed to the map of the Temple of the Burnt Tongue.
 
 > [!gallery]
-> ![Map 9.2: Temple of the Burnt Tongue Cult](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/073-map-9-02-temple-of-the-burnt-tongue-cult.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/074-map-9-02-temple-of-the-burnt-tongue-cult-player.webp#gallery)
+> ![Map 9.2: Temple of the Burnt Tongue Cult](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/073-map-9-02-temple-of-the-burnt-tongue-cult.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/074-map-9-02-temple-of-the-burnt-tongue-cult-player.webp#gallery)
 
 ### Upper Level B1-B9
 
@@ -347,7 +347,7 @@ Characters who descend the stairs in the crumbling tower arrive at this chamber.
 > The stairs descend thirty feet before opening up into a chamber of worked stone. Two braziers flank the entrance, burning with an unnatural aquamarine light. Pillars stand in two rows, each carved with the visages of otherworldly creatures. A fountain flows quietly at the far end of the room in front of a double door. Another door stands along the west wall, and the wall opposite that appears to have collapsed, revealing a rough passageway beyond.
 ^2a8
 
-Two [grells](/3-Mechanics/CLI/bestiary/aberration/grell.md) and four [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) stand guard in this chamber. If the characters made any obvious noise as they descended the stairs (including talking), these guardians try to hide along the walls adjacent to the stairs, behind the braziers—the cultists on the ground and the grells in the air. Combat here alerts the [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) in area B3, who flees to area B7 to warn Lord Viallis of intruders.
+Two grells and four cultists stand guard in this chamber. If the characters made any obvious noise as they descended the stairs (including talking), these guardians try to hide along the walls adjacent to the stairs, behind the braziers—the cultists on the ground and the grells in the air. Combat here alerts the cult fanatic in area B3, who flees to area B7 to warn Lord Viallis of intruders.
 
 ##### Fountain
 
@@ -374,7 +374,7 @@ The book *Retribution of the Ancients* sits on the table. In addition to describ
 
 ##### Pitfall Trap
 
-The glowing spheres on the shelf are two [cracked driftglobes](/3-Mechanics/CLI/items/cracked-driftglobe-cm.md) that can no longer float or give off their daylight effect. Removing either orb from the shelf triggers a trap. A character who searches the area for traps and succeeds on a DC 16 Wisdom (Perception) check notes a slight depression in the floor in front of the shelf that warns of the trap. Triggering the trap causes any creature standing next to the shelf to fall 20 feet, landing prone in the north cell of area B11 and taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage. Though the trap's trigger is magical, the floor must be lifted and set into place again for the trap to be reset. Before the trap is reset, a character can climb back up into this area from area B11 with a successful DC 20 Strength (Athletics) check.
+The glowing spheres on the shelf are two [cracked driftglobes](3-Mechanics/CLI/items/cracked-driftglobe-cm.md) that can no longer float or give off their daylight effect. Removing either orb from the shelf triggers a trap. A character who searches the area for traps and succeeds on a DC 16 Wisdom (Perception) check notes a slight depression in the floor in front of the shelf that warns of the trap. Triggering the trap causes any creature standing next to the shelf to fall 20 feet, landing prone in the north cell of area B11 and taking 7 (`2d6`) bludgeoning damage. Though the trap's trigger is magical, the floor must be lifted and set into place again for the trap to be reset. Before the trap is reset, a character can climb back up into this area from area B11 with a successful DC 20 Strength (Athletics) check.
 
 ##### Secret Door
 
@@ -382,7 +382,7 @@ A character who searches the south wall for secret doors finds one with a succes
 
 ##### Treasure
 
-Inside the desk drawer are two golden medallions worth 125 gp each. A wooden box on the table contains a chime of opening.
+Inside the desk drawer are two golden medallions worth 125 gp each. A wooden box on the table contains a [chime of opening](3-Mechanics/CLI/items/chime-of-opening.md).
 
 #### B3. Dungeon Access
 
@@ -391,7 +391,7 @@ Inside the desk drawer are two golden medallions worth 125 gp each. A wooden box
 > The tunnel that opens up through the crumbling wall of the antechamber is illuminated by a single brazier. At the end of the passage, a set of curving stone stairs descends farther down into darkness.
 ^2b2
 
-If the characters reach this area without making any sound, they find a single [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) stationed at the stairs. If alerted to the characters' intrusion (such as by combat in area B1), the fanatic flees down the stairs, races along the tunnels of the lower level, up into area B8, and through the secret door into area B7 to alert Lord Viallis.
+If the characters reach this area without making any sound, they find a single cult fanatic stationed at the stairs. If alerted to the characters' intrusion (such as by combat in area B1), the fanatic flees down the stairs, races along the tunnels of the lower level, up into area B8, and through the secret door into area B7 to alert Lord Viallis.
 
 #### B4. Office
 
@@ -402,7 +402,7 @@ The lack of a door along the stairs to the chapel (area B7) means that character
 > Books and trinkets are spread across a wooden desk set in this alcove chamber, which is lit by a burning brazier.
 ^2b4
 
-The trinkets are worthless, mysterious-looking objects. The books appear to be registries of purchases, as well as lists of items and people. These documents, created by [Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md), have nothing to do with the cult's activities but look important at a glance. Lord Viallis leaves them here to test security; if any of them go missing, Viallis knows his temple has been infiltrated by a spy or a thief. A character who spends at least 10 minutes examining the books can ascertain their lack of importance with a successful DC 15 Wisdom (Insight) check.
+The trinkets are worthless, mysterious-looking objects. The books appear to be registries of purchases, as well as lists of items and people. These documents, created by [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md), have nothing to do with the cult's activities but look important at a glance. Lord Viallis leaves them here to test security; if any of them go missing, Viallis knows his temple has been infiltrated by a spy or a thief. A character who spends at least 10 minutes examining the books can ascertain their lack of importance with a successful DC 15 Wisdom (Insight) check.
 
 #### B5. Symbol Workshop
 
@@ -432,28 +432,28 @@ The bookcase holds a collection of debased literature, dark mythology, studies o
 
 #### B7. Dark Chapel
 
-If Lord Viallis has been alerted to the characters' presence, three [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) are at the bottom of the north stairs watching for anyone approaching from area B4. These cultists hide along the walls as the characters descend the stairs, attacking as soon as they enter the chapel.
+If Lord Viallis has been alerted to the characters' presence, three cult fanatics are at the bottom of the north stairs watching for anyone approaching from area B4. These cultists hide along the walls as the characters descend the stairs, attacking as soon as they enter the chapel.
 
 > [!readaloud] 
 > 
 > This huge space has the appearance of a chapel, its walls carved with unnatural imagery. A large alcove to the south contains a huge, purple stone statue of a monstrous, otherworldly creature with a large, bulbous head, long arms, tentacles for legs, and multifaceted eyes glowing with aquamarine light. Two bodies are draped over an altar in front of the statue, and standing over them is a tall, bald man clutching a bloody knife. He is flanked by two robed cultists, and floating nearby is a hideous creature that looks like a giant, tentacled brain.
 ^2bc
 
-![Viallis Yellowcrest](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/075-09-005-viallis-yellowcrest.webp#center)
+![Viallis Yellowcrest](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/075-09-005-viallis-yellowcrest.webp#center)
 
-Lord Viallis Yellowcrest (a chaotic evil human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md)) is performing a lengthy ritual that requires his undivided attention. He is surrounded by servants (see below), a bloodstained knife in his hand. The bodies of two adult humans lie dead on the altar in front of the statue, having just been sacrificed. See the "Lord Viallis" sidebar for additional guidance on how to portray this mad villain.
+Lord Viallis Yellowcrest (a chaotic evil human mage) is performing a lengthy ritual that requires his undivided attention. He is surrounded by servants (see below), a bloodstained knife in his hand. The bodies of two adult humans lie dead on the altar in front of the statue, having just been sacrificed. See the "Lord Viallis" sidebar for additional guidance on how to portray this mad villain.
 
-A [grell](/3-Mechanics/CLI/bestiary/aberration/grell.md) and two [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) stand beside Lord Viallis but break off from the ritual to repel intruders, leaving him to finish it alone.
+A grell and two cultists stand beside Lord Viallis but break off from the ritual to repel intruders, leaving him to finish it alone.
 
-At the start of round 2, the characters see the bodies consumed by aquamarine fire and reduced to bone and ash, from which another [grell](/3-Mechanics/CLI/bestiary/aberration/grell.md) emerges. Viallis and this second grell then join the fight in round 3.
+At the start of round 2, the characters see the bodies consumed by aquamarine fire and reduced to bone and ash, from which another grell emerges. Viallis and this second grell then join the fight in round 3.
 
-If the characters reached this area without making an undue amount of noise (and if the guard in area B3 did not come here to warn of the characters' intrusion), three [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) lurk behind the statue—the same three who watch the north stairs if Lord Viallis is expecting trouble. They join the fray.
+If the characters reached this area without making an undue amount of noise (and if the guard in area B3 did not come here to warn of the characters' intrusion), three cult fanatics lurk behind the statue—the same three who watch the north stairs if Lord Viallis is expecting trouble. They join the fray.
 
-[Faerl](/3-Mechanics/CLI/bestiary/npc/faerl-cm.md) is also here if he was able to flee Waterdeep and you did not choose to have the characters meet him at his house. He is reclining on one of the pews. Without his coterie of bodyguards to protect him, he tries to flee the scene (and the temple) as soon as the battle starts.
+[Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md) is also here if he was able to flee Waterdeep and you did not choose to have the characters meet him at his house. He is reclining on one of the pews. Without his coterie of bodyguards to protect him, he tries to flee the scene (and the temple) as soon as the battle starts.
 
 ##### Cult Tactics
 
-Lord Viallis has already cast mage armor on himself, and he expended his 5th-level spell slot to fuel the ritual. He wears a robe of scintillating colors and uses his action to activate it if pressed in melee. In a pocket of the robe, he has a spell scroll of teleport that he uses to escape to a location of your choice if the battle appears lost.
+Lord Viallis has already cast mage armor on himself, and he expended his 5th-level spell slot to fuel the ritual. He wears a [robe of scintillating colors](3-Mechanics/CLI/items/robe-of-scintillating-colors.md) and uses his action to activate it if pressed in melee. In a pocket of the robe, he has a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of teleport that he uses to escape to a location of your choice if the battle appears lost.
 
 > [!note] Lord Viallis
 > 
@@ -474,7 +474,7 @@ Four pits stand in alcoves along the sides of the chapel. After each sacrifice, 
 
 ##### Treasure
 
-In addition to his robe of scintillating colors and spell scroll of teleport, Lord Viallis carries the keys to area B2 and the cells in area B11. A number of objects are arranged around the altar as offerings, including five gold bracelets (worth 150 gp each) amid various worthless trinkets.
+In addition to his [robe of scintillating colors](3-Mechanics/CLI/items/robe-of-scintillating-colors.md) and [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of teleport, Lord Viallis carries the keys to area B2 and the cells in area B11. A number of objects are arranged around the altar as offerings, including five gold bracelets (worth 150 gp each) amid various worthless trinkets.
 
 ##### Secret Doors
 
@@ -525,15 +525,15 @@ This cell, which lies beneath the trap in area B2, is empty when the characters 
 
 ##### South Cell
 
-This cell holds six prisoners, including Yaeda Firenni, Mayor Kara's sister. Though she originally joined Lord Viallis willingly, Yaeda was imprisoned after the full scope of the cult was revealed to her and she tried to flee. She is in poor health; treat her as an unarmed [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) with 4 levels of exhaustion.
+This cell holds six prisoners, including Yaeda Firenni, Mayor Kara's sister. Though she originally joined Lord Viallis willingly, Yaeda was imprisoned after the full scope of the cult was revealed to her and she tried to flee. She is in poor health; treat her as an unarmed commoner with 4 levels of exhaustion.
 
 If Vecken got to Greenfast ahead of the characters, he is also one of the prisoners. The warrior tells the characters that their news inspired him to seek his own vengeance for Sarah, but he was captured when he took on a squad of cultists looking for victims along the Trade Way. Vecken has been reduced to 25 hit points. Though injured, he is healthy enough to escort the other prisoners to safety if the characters have more of the temple to explore.
 
-The four remaining prisoners include three unarmed [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) and a child noncombatant. Their names are Jalrax, Durz, Seffra, and Ashlan. They were part of a caravan attacked by the cultists a few days earlier. Two of their companions (the unfortunate victims in the chapel) were taken from the cell a few hours earlier.
+The four remaining prisoners include three unarmed commoners and a child noncombatant. Their names are Jalrax, Durz, Seffra, and Ashlan. They were part of a caravan attacked by the cultists a few days earlier. Two of their companions (the unfortunate victims in the chapel) were taken from the cell a few hours earlier.
 
 #### B12. Acolytes' Training Room
 
-Scrolls and notes are spread across the floor of this worked stone alcove. Four recent recruits of the Burnt Tongue Cult (three [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) and one [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md)) normally work here to learn and practice spellcasting. You can make the encounter tougher by adding two [gricks](/3-Mechanics/CLI/bestiary/monstrosity/grick.md) that act as watchdogs. If the cultist from area B3 passed through here to warn Lord Viallis of intruders, the creatures in this area are waiting for the characters and ready to fight. If they have not been warned, the gricks remain alert but the cultists are distracted as they try to cast a spell under the cult fanatic's watchful eye.
+Scrolls and notes are spread across the floor of this worked stone alcove. Four recent recruits of the Burnt Tongue Cult (three cultists and one cult fanatic) normally work here to learn and practice spellcasting. You can make the encounter tougher by adding two gricks that act as watchdogs. If the cultist from area B3 passed through here to warn Lord Viallis of intruders, the creatures in this area are waiting for the characters and ready to fight. If they have not been warned, the gricks remain alert but the cultists are distracted as they try to cast a spell under the cult fanatic's watchful eye.
 
 ##### Familiar Face
 
@@ -541,7 +541,7 @@ One of the recruits bears a noticeable resemblance to Old Fargo and is his son, 
 
 ##### Treasure
 
-A search of the scrolls on the floor turns up a spell scroll of counterspell.
+A search of the scrolls on the floor turns up a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of counterspell.
 
 #### B13. Sacrificial Remains
 

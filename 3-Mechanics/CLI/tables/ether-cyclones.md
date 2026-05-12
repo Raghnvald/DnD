@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Ether Cyclones
+- "Ether Cyclones"
 ---
 # Ether Cyclones
 *Source: Dungeon Master's Guide p. 49* 
 
 **Ether Cyclones**
-
-`dice: [](ether-cyclones.md#^ether-cyclones)`
 
 | dice: d20 | Effect |
 |-----------|--------|

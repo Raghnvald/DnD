@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hill Giant
+- "Hill Giant"
 ---
-# [Hill Giant](3-Mechanics\CLI\bestiary\giant/hill-giant-xmm.md)
+# [Hill Giant](3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md)
 *Source: Monster Manual (2024) p. 168. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hill Giant
@@ -21,7 +21,7 @@ aliases:
 *Giant of Crags and Valleys*
 
 - **Habitat.** Hill  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Hill giants live among rugged bluffs and highlands. Standing three times the size of most humans, these giants exhibit skin and hair in a range of shades, including hues suggestive of the earth and mosses near their dwellings.
 
@@ -47,7 +47,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": "Giant"
@@ -56,16 +56,16 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 18 (3d8 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Tree Club"
   - "desc": "*Ranged Attack Roll:* +8, range 60/240 ft. *Hit:* 16 (2d10 + 5) Bludgeoning\
-      \ damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition until the end of its next turn."
     "name": "Trash Lob"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/hill-giant-xmm.webp"
 ```
 ^statblock
 

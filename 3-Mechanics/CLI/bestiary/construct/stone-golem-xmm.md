@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Golem
+- "Stone Golem"
 ---
-# [Stone Golem](3-Mechanics\CLI\bestiary\construct/stone-golem-xmm.md)
+# [Stone Golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md)
 *Source: Monster Manual (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Stone Golem
@@ -29,12 +29,10 @@ Stone golems are typically created to protect places of significance to a group,
 
 **Stone Golem Orders**
 
-`dice: [](stone-golem-xmm.md#^stone-golem-orders)`
-
 | dice: 1d6 | The Stone Golem Follows Orders To... |
 |-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
-| 2 | Cast [Slow](/3-Mechanics/CLI/spells/slow-xphb.md) on and aid in apprehending anyone who touches a city's prized relic. |
+| 2 | Cast [Slow](3-Mechanics/CLI/spells/slow-xphb.md) on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
 | 4 | Obey whoever places a missing crest in its chest, then deactivate for a year. |
 | 5 | Reveal a hidden passage to those who recite a leader's final words. |
@@ -64,17 +62,17 @@ Stone golems are typically created to protect places of significance to a group,
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands Common plus two other languages but can't speak"
 "cr": "10"
 "traits":
   - "desc": "The golem can't shape-shift."
     "name": "Immutable Form"
-  - "desc": "The golem has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The golem has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
@@ -86,13 +84,13 @@ Stone golems are typically created to protect places of significance to a group,
   - "desc": "*Ranged Attack Roll:* +9, range 120 ft. *Hit:* 22 (4d10) Force damage."
     "name": "Force Bolt"
 "bonus_actions":
-  - "desc": "The golem casts the [Slow](/3-Mechanics/CLI/spells/slow-xphb.md) spell,\
+  - "desc": "The golem casts the [Slow](3-Mechanics/CLI/spells/slow-xphb.md) spell,\
       \ requiring no spell components and using Constitution as the spellcasting ability\
       \ (spell save DC 17).\n"
     "name": "Slow (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/stone-golem-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/stone-golem-xmm.webp"
 ```
 ^statblock
 

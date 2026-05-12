@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Dwarven Plate"
 ---
 # Dwarven Plate
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor.md)), major, very rare*  
-![](/3-Mechanics/CLI/items/img/dwarven-plate.webp#right)
+*Heavy armor (plate armor), major, very rare*  
+![](3-Mechanics/CLI/items/img/dwarven-plate.webp#right)
 
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.

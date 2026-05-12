@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Shinare
+aliases:
+- "Shinare"
 ---
 # Shinare
 *Source: Player's Handbook p. 295* 

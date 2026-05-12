@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bullywug Croaker
+- "Bullywug Croaker"
 ---
-# [Bullywug Croaker](3-Mechanics\CLI\bestiary\humanoid/bullywug-croaker-gos.md)
+# [Bullywug Croaker](3-Mechanics/CLI/bestiary/humanoid/bullywug-croaker-gos.md)
 *Source: Ghosts of Saltmarsh p. 232*  
 
 Some bullywugs are born with the ability to weave magic into their songs. These rare specimens are raised in protected enclaves where they are taught to use their magic to both heal and harm. As demonstrated in Danger at Dunwater, they are among the most pompous of bullywugs.
@@ -43,6 +43,8 @@ Some bullywugs are born with the ability to weave magic into their songs. These 
     "desc": "+4"
   - "name": "Stealth"
     "desc": "+3"
+"gear":
+  - "spear"
 "senses": "passive Perception 14"
 "languages": "Bullywug"
 "cr": "2"
@@ -63,8 +65,8 @@ Some bullywugs are born with the ability to weave magic into their songs. These 
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
       \ damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
   - "desc": "The croaker sings a song of marshy doom. Each chosen creature within\
       \ 30 feet of the croaker that can hear the song must make a DC 12 Wisdom saving\
@@ -77,6 +79,6 @@ Some bullywugs are born with the ability to weave magic into their songs. These 
     "name": "Rooooo-glog (1/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bullywug-croaker-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bullywug-croaker-gos.webp"
 ```
 ^statblock

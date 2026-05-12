@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Priest
+- "Sahuagin Priest"
 ---
-# [Sahuagin Priest](3-Mechanics\CLI\bestiary\fiend/sahuagin-priest-xmm.md)
+# [Sahuagin Priest](3-Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md)
 *Source: Monster Manual (2024) p. 265*  
 
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
@@ -53,18 +53,18 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+3"
 "damage_resistances": "acid, cold"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Sahuagin"
 "cr": "2"
 "traits":
-  - "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ on attack rolls against any creature that doesn't have all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -80,18 +80,17 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
     "name": "Spectral Jaws"
   - "desc": "The sahuagin casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
-      **2/day each:** [Hold Person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+      \n**At will:** [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
+      **2/day each:** [Hold Person](3-Mechanics/CLI/spells/hold-person-xphb.md), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The sahuagin casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md) or\
-      \ [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), using the same\
-      \ spellcasting ability as Spellcasting.\n"
+  - "desc": "The sahuagin casts [Bless](3-Mechanics/CLI/spells/bless-xphb.md) or [Healing\
+      \ Word](3-Mechanics/CLI/spells/healing-word-xphb.md), using the same spellcasting\
+      \ ability as Spellcasting.\n"
     "name": "Fiendish Aid (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/sahuagin-priest-xmm.webp"
 ```
 ^statblock
 

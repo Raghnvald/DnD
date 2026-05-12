@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iggwilv the Witch Queen
+- "Iggwilv the Witch Queen"
 ---
-# [Iggwilv the Witch Queen](3-Mechanics\CLI\bestiary\npc/iggwilv-the-witch-queen-wbtw.md)
-*Source: The Wild Beyond the Witchlight p. 205, Vecna: Eve of Ruin*  
+# [Iggwilv the Witch Queen](3-Mechanics/CLI/bestiary/npc/iggwilv-the-witch-queen-wbtw.md)
+*Source: The Wild Beyond the Witchlight p. 205*  
 
 Iggwilv has a long and storied history throughout the multiverse. This adventure presents the legendary figure in her current form.
 
@@ -24,7 +24,7 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
 "subtype": "wizard"
 "alignment": "Chaotic Neutral"
 "ac": !!int "19"
-"ac_class": "robe of the archmagi"
+"ac_class": "[robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)"
 "hp": !!int "255"
 "hit_dice": "30d8 + 120"
 "modifier": !!int "4"
@@ -41,14 +41,15 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
   - "wisdom": !!int "7"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+20"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+14"
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+14"
-"condition_immunities": "charmed, frightened"
-"senses": "truesight 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, Celestial, Common, Draconic, Elvish, Infernal, Sylvan"
 "cr": "20"
 "traits":
@@ -60,31 +61,37 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
   - "desc": "Iggwilv has advantage on saving throws against spells and other magical\
       \ effects. (This trait is bestowed by her robe of the archmagi.)"
     "name": "Magic Resistance"
-  - "desc": "Iggwilv wears an amulet of the planes and a robe of the archmagi."
+  - "desc": "Iggwilv wears an [amulet of the planes](3-Mechanics/CLI/items/amulet-of-the-planes-xdmg.md)\
+      \ and a [robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Iggwilv makes two Bewitching Bolt attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Spell Attack:* +16 to hit, reach 5 ft. or range 120\
-      \ ft., one target. *Hit:* 25 (5d6 + 8) lightning damage, and if the target is\
-      \ a creature, it must succeed on a DC 22 Wisdom saving throw or be charmed by\
-      \ Iggwilv until the start of her next turn."
+      \ ft., one target. *Hit:* 25 (5d6 + 8) lightning damage, and if the target\
+      \ is a creature, it must succeed on a DC 22 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by Iggwilv until the start of her next turn."
     "name": "Bewitching Bolt"
   - "desc": "Iggwilv opens a momentary Abyssal rift within 120 feet of her. The rift\
       \ is a 20-foot-radius sphere. Each creature in that area must make a DC 22 Constitution\
-      \ saving throw, taking 40 (9d8) necrotic damage on a failed save, or half as\
-      \ much damage on a successful one. In addition, there is a 50 percent chance\
-      \ that 3 [hezrous](/3-Mechanics/CLI/bestiary/fiend/hezrou.md) then appear in\
-      \ unoccupied spaces in the sphere. They act as Iggwilv's allies, take their\
+      \ saving throw, taking 40 (9d8) necrotic damage on a failed save, or half\
+      \ as much damage on a successful one. In addition, there is a 50 percent chance\
+      \ that 3 [hezrous](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) then appear\
+      \ in unoccupied spaces in the sphere. They act as Iggwilv's allies, take their\
       \ turns immediately after hers, and can't summon other demons. They remain until\
       \ they die or until Iggwilv dismisses them as an action."
     "name": "Abyssal Rift (Recharge 5-6)"
   - "desc": "Iggwilv casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 24, +16\
-      \ to hit with spell attacks):\n\n**At will:** detect magic, disguise self, invisibility,\
-      \ light, mage hand, message, prestidigitation, Tasha's hideous laughter\n\n\
-      **3/day each:** dispel magic, fly, polymorph\n\n**1/day each:** maze, telekinesis,\
-      \ teleport, wish"
+      \ to hit with spell attacks):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
+      \n**3/day each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\
+      \n**1/day each:** [maze](3-Mechanics/CLI/spells/maze-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md), [wish](3-Mechanics/CLI/spells/wish-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Iggwilv teleports, along with any equipment she is wearing or carrying,\
@@ -105,7 +112,7 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
     "name": "Witchcraft"
   - "desc": "Iggwilv utters a phrase in a forbidden language and targets one or two\
       \ creatures she can see within 60 feet of her. Each target must succeed on a\
-      \ DC 22 Wisdom saving throw or take 11 (2d10) psychic damage and be frightened\
+      \ DC 22 Wisdom saving throw or take 11 (2d10) psychic damage and be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ of Iggwilv for 1 minute. A target can repeat the save at the end of each of\
       \ its turns, ending the effect on itself on a success and thereby becoming immune\
       \ to Iggwilv's Dark Speech for 24 hours."
@@ -118,7 +125,6 @@ Iggwilv has a long and storied history throughout the multiverse. This adventure
     "name": "Fey Beguilement (Costs 3 Actions)"
 "source":
   - "WBtW"
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/iggwilv-the-witch-queen-wbtw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/iggwilv-the-witch-queen-wbtw.webp"
 ```
 ^statblock

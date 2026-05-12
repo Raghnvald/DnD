@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Darkon's Salvation
+- "Darkon's Salvation"
 ---
 # Darkon's Salvation
 *Source: Van Richten's Guide to Ravenloft p. 92* 
 
 **Darkon's Salvation**
-
-`dice: [](darkons-salvation-vrgr.md#^darkons-salvation)`
 
 | dice: d6 | Method |
 |----------|--------|

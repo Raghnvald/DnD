@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sapphire Dragon Wyrmling
+- "Sapphire Dragon Wyrmling"
 ---
-# [Sapphire Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/sapphire-dragon-wyrmling-ftd.md)
+# [Sapphire Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/sapphire-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 216*  
 
 The thunderous clash of conflict is part of the very nature of sapphire dragons. Militant and territorial, they defend their lairs fiercely, ambushing intruders and plotting assaults against their rivals. The sonic pulse of their breath weapon sows weakness, leaving the victims unable to fight back.
@@ -39,8 +39,6 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 
 ### Sapphire Dragon Personality Traits
 
-`dice: [](sapphire-dragon-wyrmling-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I often fixate on specific historical battles or wars and won't rest until my hoard contains that conflict's most significant artifacts. |
@@ -54,8 +52,6 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 ^trait
 
 ### Sapphire Dragon Ideals
-
-`dice: [](sapphire-dragon-wyrmling-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -72,8 +68,6 @@ Use the Sapphire Dragon Personality Traits and Sapphire Dragon Ideals tables to 
 The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adventures involving sapphire dragons.
 
 ### Sapphire Dragon Adventure Hooks
-
-`dice: [](sapphire-dragon-wyrmling-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -92,8 +86,6 @@ The Sapphire Dragon Adventure Hooks table offers suggestions for stories and adv
 Sapphire dragons are generally solitary creatures. On the rare occasion that one forms nonhostile relationships with other beings, it is almost always to bolster the defenses of the dragon's lair and hoard.
 
 ### Sapphire Dragon Wyrmling Connections
-
-`dice: [](sapphire-dragon-wyrmling-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -130,18 +122,17 @@ Sapphire dragons are generally solitary creatures. On the rare occasion that one
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "lightning, thunder"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"condition_immunities": "frightened"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Draconic, telepathy 120 ft."
 "cr": "3"
 "traits":
@@ -152,22 +143,21 @@ Sapphire dragons are generally solitary creatures. On the rare occasion that one
       \ and can leave a 5-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) piercing damage plus 3 (1d6) thunder damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) piercing damage plus 3 (1d6) thunder damage."
     "name": "Bite"
   - "desc": "The dragon exhales a pulse of high-pitched, nearly inaudible sound in\
       \ a 15-foot cone. Each creature in that area must make a DC 13 Constitution\
       \ saving throw. On a failed save, the creature takes 22 (4d10) thunder damage\
-      \ and is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until\
-      \ the end of its next turn. On a successful save, the creature takes half as\
-      \ much damage and isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ and is incapacitated until the end of its next turn. On a successful save,\
+      \ the creature takes half as much damage and isn't incapacitated."
     "name": "Debilitating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability:\n\n**1/day each:** [alarm](/3-Mechanics/CLI/spells/alarm-xphb.md),\
-      \ [Tenser's floating disk](/3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md)"
+      \ and using Intelligence as the spellcasting ability:\n\n**1/day each:** alarm,\
+      \ Tenser's floating disk"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/sapphire-dragon-wyrmling-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/sapphire-dragon-wyrmling-ftd.webp"
 ```
 ^statblock

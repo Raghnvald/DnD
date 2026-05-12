@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/toa
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Dead Explorers
+- "Dead Explorers"
 ---
 # Dead Explorers
 *Source: Tomb of Annihilation p. 199* 
 
 **Dead Explorers**
-
-`dice: [](dead-explorers-toa.md#^dead-explorers)`
 
 | dice: d20 | Remains |
 |-----------|---------|
@@ -27,7 +25,7 @@ aliases:
 | 9 | The skeleton of a humanoid seated on a folding camp stool, clutching a knife and fork in its bony hands. |
 | 10 | The desiccated husk of a gnome, cocooned in giant spider webs. |
 | 11 | The body of a human—from the waist up. Signs show that the explorer crawled a considerable distance after being bitten in half by a tyrannosaurus. (A Flaming Fist charter found on the corpse identifies it as Lord Onovan IV, of the Dales.) |
-| 12 | A charred elf's skeleton inside a charred constrictor snake's skeleton. (Both were killed by a lightning bolt spell.) |
+| 12 | A charred elf's skeleton inside a charred constrictor snake's skeleton. (Both were killed by a [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md) spell.) |
 | 13 | The rotting body of a giant frog with the blade of a shortsword poking out its back. (If the frog is cut open, the partially digested body of a halfling is found inside.) |
 | 14 | A tabaxi spread-eagled on the ground, but with its limbs and head severed from its torso and crudely stitched back on in the wrong arrangement. |
 | 15 | A half-orc spiked to an enormous tree by the broken-off horn of a triceratops. |

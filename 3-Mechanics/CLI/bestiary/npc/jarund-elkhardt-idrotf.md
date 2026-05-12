@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jarund Elkhardt
+- "Jarund Elkhardt"
 ---
-# [Jarund Elkhardt](3-Mechanics\CLI\bestiary\npc/jarund-elkhardt-idrotf.md)
+# [Jarund Elkhardt](3-Mechanics/CLI/bestiary/npc/jarund-elkhardt-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 305*  
 
 The Elk King is Jarund Elkhardt, a terse yet thoughtful giant of a man who is nearly fifty years old—ancient by tribal standards. He has led the Elk Tribe for over half his life, and age has made him cautious. He has seen other kings and queens rise and fall, has made war with friends and peace with his enemies, and has led warriors he knew as babes to their deaths in battle. The strain of his long years of rule is etched on his weather-worn face.
@@ -28,7 +28,7 @@ Auril's unyielding winter concerns Jarund deeply, and he often turns to his sham
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "14"
-"ac_class": "hide armor, shield"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "104"
 "hit_dice": "16d8 + 32"
 "modifier": !!int "0"
@@ -44,12 +44,15 @@ Auril's unyielding winter concerns Jarund deeply, and he often turns to his sham
   - "constitution": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+7"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[warhammer](3-Mechanics/CLI/items/warhammer.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish"
 "cr": "5"
@@ -61,20 +64,20 @@ Auril's unyielding winter concerns Jarund deeply, and he often turns to his sham
   - "desc": "Jarund makes three melee attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage, or 15 (2d10 + 4) bludgeoning damage when used\
-      \ with two hands."
+      \ (2d8 + 4) bludgeoning damage, or 15 (2d10 + 4) bludgeoning damage when\
+      \ used with two hands."
     "name": "Warhammer"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage, and Jarund pushes the target 5 feet away from\
-      \ him if it's Large or smaller. Jarund then enters the space vacated by the\
-      \ target. If the target is pushed to within 5 feet of a creature friendly to\
-      \ Jarund, that creature can make an attack against the target as a reaction."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 11 (2d6 + 4) bludgeoning damage, and Jarund pushes the target 5 feet away\
+      \ from him if it's Large or smaller. Jarund then enters the space vacated by\
+      \ the target. If the target is pushed to within 5 feet of a creature friendly\
+      \ to Jarund, that creature can make an attack against the target as a reaction."
     "name": "Shield"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage."
     "name": "Javelin"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jarund-elkhardt-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jarund-elkhardt-idrotf.webp"
 ```
 ^statblock

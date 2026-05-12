@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master Sage
+- "Master Sage"
 ---
-# [Master Sage](3-Mechanics\CLI\bestiary\humanoid/master-sage-cm.md)
+# [Master Sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md)
 *Source: Candlekeep Mysteries p. 9*  
 
 Candlekeep's resident lore experts are master sages and sages who dedicate themselves to scholarship above all.
@@ -65,8 +65,8 @@ Candlekeep's resident lore experts are master sages and sages who dedicate thems
       \ one."
     "name": "Lightning Eruption (3/Day)"
   - "desc": "The sage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (save DC 16, +8 to hit with spell attacks):\n\n**At will:**\
-      \ light, mage hand, mending, prestidigitation\n\n**3/day each:** comprehend\
+      \ spellcasting ability (save DC 16, +8 to hit with spell attacks):\n\n**At\
+      \ will:** light, mage hand, mending, prestidigitation\n\n**3/day each:** comprehend\
       \ languages, detect magic, dispel magic, identify, levitate, locate object,\
       \ Tenser's Floating Disk, unseen servant\n\n**1/day each:** banishment, contact\
       \ other plane, Drawmij's instant summons, legend lore, locate creature, planar\
@@ -81,6 +81,6 @@ Candlekeep's resident lore experts are master sages and sages who dedicate thems
     "name": "Shield (1st-Level Spell; 3/Day)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/master-sage-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/master-sage-cm.webp"
 ```
 ^statblock

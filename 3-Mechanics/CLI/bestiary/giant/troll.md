@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll
+- "Troll"
 ---
-# [Troll](3-Mechanics\CLI\bestiary\giant/troll.md)
-*Source: Monster Manual p. 291, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Troll](3-Mechanics/CLI/bestiary/giant/troll.md)
+*Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
@@ -50,13 +50,15 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "The troll has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The troll has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
       \ takes acid or fire damage, this trait doesn't function at the start of the\
@@ -66,16 +68,15 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 "actions":
   - "desc": "The troll makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/troll.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/troll.webp"
 ```
 ^statblock
 

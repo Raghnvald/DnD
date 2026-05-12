@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Chapter 1: Return from Neverdeath Graveyard
+- "Chapter 1: Return from Neverdeath Graveyard"
 ---
 # Chapter 1: Return from Neverdeath Graveyard
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 17* 
 
-![A bizarre ritual reveals t...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/008-01-001-vecnas-ritual.webp#center "A bizarre ritual reveals the cult of Vecna's terrifying activities")
+![A bizarre ritual reveals the cult of Vecna's terrifying activities](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/008-01-001-vecnas-ritual.webp#center)
 
 As the adventure begins, the characters are established heroes currently in the city of Neverwinter on the Sword Coast. Several calamities have battered Neverwinter in the recent past. The greatest was the eruption of nearby Mount Hotenow, which nearly destroyed the city forty years ago, though most of the damage has since been repaired.
 
@@ -40,7 +40,7 @@ The first time the characters learn one of these secrets, they feel a sense that
 
 This chapter is a preamble to the adventure's primary plot. You can run this chapter for lower-level characters, adapting it as described below. If your characters are 7th, 8th, or 9th level, remove creatures as noted in the Creatures to Remove table.
 
-Additionally, have the [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) in area C10 surrender if reduced to fewer than 150 hit points (rather than 100 hit points).
+Additionally, have the [marid](3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) in area C10 surrender if reduced to fewer than 150 hit points (rather than 100 hit points).
 
 **Creatures to Remove**
 
@@ -92,7 +92,7 @@ Lord Neverember and the priests provide an overview of Neverdeath Graveyard, whi
 
 The Main Graveyard holds several mausoleums, some with expansive underground chambers. The Pauper's Graveyard features numerous simple headstones, but a few civic-minded citizens funded communal catacombs when the graveyard was first built.
 
-![The cult of Vecna has kidn...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/009-01-002-kidnapped-nobels.webp#center "The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin")
+![The cult of Vecna has kidnapped four nobles in Neverwinter: Eldon Keyward, Indrina Lamsensettle, Sarcelle Malinosh, and Umberto Noblin](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/009-01-002-kidnapped-nobels.webp#center)
 
 ## In the Graveyard
 
@@ -116,7 +116,7 @@ Doors throughout the area are made of heavy stone with metal hinges. The cult ke
 
 #### Lighting
 
-Areas C1–C12 are dark, and characters must have darkvision or a light source to see. Cult members frequent areas C13–C26, so lanterns hung on wall hooks create bright light there.
+Areas C1–C12 are dark, and characters must have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) or a light source to see. Cult members frequent areas C13–C26, so lanterns hung on wall hooks create bright light there.
 
 #### Vestiges of the Waterclock Guild
 
@@ -127,8 +127,8 @@ Part of the catacombs once belonged to an occult organization called the Watercl
 The following locations are keyed to map 1.1.
 
 > [!gallery]
-> ![Map 1.1: Neverdeath Catacombs](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/010-1-01-neverdeath.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/011-1-01-neverdeath-player.webp#gallery)
+> ![Map 1.1: Neverdeath Catacombs](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/010-1-01-neverdeath.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/011-1-01-neverdeath-player.webp#gallery)
 
 #### C1: Hallix Mausoleum
 
@@ -143,7 +143,7 @@ Against the walls rest six stone coffins, three on each side. A stone slab engra
 
 ##### Noisy Investigations
 
-If the characters make a lot of noise here, the [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) in area C2 investigate.
+If the characters make a lot of noise here, the [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) in area C2 investigate.
 
 #### C2: Lower Mausoleum
 
@@ -154,17 +154,17 @@ If the wights described below moved to investigate area C1, omit the last senten
 > Stone stairs descend from Hallix Mausoleum to a large subterranean chamber with stone coffins sitting on sturdy shelves. Part of the west wall has collapsed, creating an opening into another chamber. Marching around the chamber are five pale, desiccated warriors wearing wicked-looking armor.
 ^042
 
-The cult pressed five [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) into service as guards. The wights know the cultists by appearance and don't attack them, but they attack anyone else.
+The cult pressed five [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) into service as guards. The wights know the cultists by appearance and don't attack them, but they attack anyone else.
 
 The older Hallix corpses once buried here were fed to the cult's ghouls.
 
 ##### Secret Door
 
-One of the empty coffins contains no evidence of a former occupant. The back of this coffin hides a panel with a latch that causes the wall behind it to swing aside. A character who searches the coffin or wall and succeeds on a DC 18 Intelligence (Investigation) or Wisdom (Perception) check finds this secret door. Neither the cultists nor the wights are aware of it. The passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C9.
+One of the empty coffins contains no evidence of a former occupant. The back of this coffin hides a panel with a latch that causes the wall behind it to swing aside. A character who searches the coffin or wall and succeeds on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) or Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds this secret door. Neither the cultists nor the wights are aware of it. The passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C9.
 
 ##### Treasure
 
-One open coffin contains four wool cloaks worth 10 gp each and two wide hats worth 5 gp each, which the cultists use to travel inconspicuously aboveground. There is also a Potion of Invisibility the cultists were saving for an emergency.
+One open coffin contains four wool cloaks worth 10 gp each and two wide hats worth 5 gp each, which the cultists use to travel inconspicuously aboveground. There is also a [Potion of Invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md) the cultists were saving for an emergency.
 
 #### C3: Uneven Chamber
 
@@ -182,13 +182,13 @@ This room is inaccessible from the surface since the stairway leading upward has
 > A metal grate in the floor of this ten-foot-square room blocks access to a shallow stone pit holding a small gold harp, a handful of loose papers, and a piece of bloody cloth.
 ^048
 
-The iron grate covers a pit that's 5 feet square and 3 feet deep. The openings in the iron grate are 5 inches square. A character who can reach the harp can carefully tilt it and slide it through the grate with a successful DC 18 Dexterity (Sleight of Hand) check. If this check fails by 5 or more, the harp falls back into the pit.
+The iron grate covers a pit that's 5 feet square and 3 feet deep. The openings in the iron grate are 5 inches square. A character who can reach the harp can carefully tilt it and slide it through the grate with a successful DC 18 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. If this check fails by 5 or more, the harp falls back into the pit.
 
 A cultist of Vecna tried to lever the harp from the pit but fell victim to the trap on the grate. The trap tore away half of the cultist's jacket—the bloody cloth now at the pit's bottom—and papers tumbled from the cultist's pocket and through the grate. After that mishap, the cultists decided not to press their luck and left the treasure alone.
 
 ##### Grate Trap
 
-A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence (Investigation) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage. The trap resets after 1 minute.
+A character can detect the grate's trap by examining the grate and succeeding on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The trap activates when more than 10 pounds of pressure is placed on the grate. Poisoned blades extend from grooves in the grate, dealing 14 (`4d6`) slashing damage to whatever triggered the trap, and if the target of the trap is a creature, it must succeed on a DC 14 Constitution saving throw or take 14 (`4d6`) poison damage. The trap resets after 1 minute.
 
 ##### Notes
 
@@ -200,24 +200,24 @@ The harp is worth 2,500 gp.
 
 #### C5: Sarcelle's Cell
 
-This room's only door is padlocked from the outside. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. The cult's four mages (in areas C14, C16, and C26) each carry a key to the lock. Because the stone is unevenly set around this door, a character could use an action to try to pull the door aside, doing so with a successful DC 17 Strength (Athletics) check.
+This room's only door is padlocked from the outside. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. The cult's four mages (in areas C14, C16, and C26) each carry a key to the lock. Because the stone is unevenly set around this door, a character could use an action to try to pull the door aside, doing so with a successful DC 17 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 > [!readaloud] 
 > 
 > This old crypt holds a single open coffin containing a few tattered blankets. A pouf of wild black hair sprouts from the end of one of the blankets.
 ^04d
 
-![Sarcelle Malinosh](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/012-01-003-sarcelle-malinosh.webp#center)
+![Sarcelle Malinosh](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/012-01-003-sarcelle-malinosh.webp#center)
 
 The cultists repurposed this crypt into a cell for one of their intended ritual victims, Sarcelle Malinosh. Sarcelle is dozing inside the coffin, wrapped in the blankets so only her hair is visible.
 
-Sarcelle is a human wild-magic sorcerer whose spellcasting power was stripped during a recent excursion to a distant plane. Until her magic naturally returns, Sarcelle has the game statistics of a neutral [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) without Spellcasting. She responds to some questions with cryptic-sounding predictions, but she tries to keep this irritating habit in check.
+Sarcelle is a human wild-magic sorcerer whose spellcasting power was stripped during a recent excursion to a distant plane. Until her magic naturally returns, Sarcelle has the game statistics of a neutral [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) without Spellcasting. She responds to some questions with cryptic-sounding predictions, but she tries to keep this irritating habit in check.
 
 Sarcelle wants help freeing herself; she explains that without her magic, she feels uneasy and would appreciate being escorted from Neverdeath Graveyard. She can make her way home from there.
 
 ##### Sarcelle's Secret
 
-Sarcelle's psychic explorations showed her a glimpse of a dreadful future. She saw the desiccated figure of a man levitating off the ground, gathering evil energy around himself in glowing wisps. The desiccated man then screamed and the energy exploded, causing something terrible to happen. This vision terrified Sarcelle. A character who interacts with Sarcelle and succeeds on a DC 14 Wisdom (Insight) check realizes that something is bothering the sorcerer. If asked about what's upsetting her, Sarcelle shares her vision.
+Sarcelle's psychic explorations showed her a glimpse of a dreadful future. She saw the desiccated figure of a man levitating off the ground, gathering evil energy around himself in glowing wisps. The desiccated man then screamed and the energy exploded, causing something terrible to happen. This vision terrified Sarcelle. A character who interacts with Sarcelle and succeeds on a DC 14 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check realizes that something is bothering the sorcerer. If asked about what's upsetting her, Sarcelle shares her vision.
 
 Learning of Sarcelle's vision counts as a secret for the purposes of the Power of Secrets rules found in this book's introduction.
 
@@ -232,7 +232,7 @@ The cultists emptied this servants' crypt to store supplies such as lantern oil,
 
 ##### Treasure
 
-Among the supplies are two Potions of Poison labeled "Healing Use Only."
+Among the supplies are two [Potions of Poison](3-Mechanics/CLI/items/potion-of-poison-xdmg.md) labeled "Healing Use Only."
 
 #### C7: Fountain Room
 
@@ -245,7 +245,7 @@ If the characters minimized the water pressure in area C8, omit the first senten
 
 See area C11 for more information about the padlocked door.
 
-A [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md) and two [water weirds](/3-Mechanics/CLI/bestiary/elemental/water-weird.md) live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
+A [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) and two [water weirds](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) live in the 25-foot-deep fountain. These creatures are indifferent toward intruders and attack only in self-defense. Once bound to serve the Waterclock Guild, they're now free but enjoy the perpetual "rain" here. The cult bullies these Elementals, so they remain sulking under the water's surface. Determined not to stand for further intrusion, the Elementals rise to attack anyone other than cultists. The water weirds consider the water elemental their leader. If reduced to fewer than 50 hit points, the water elemental retreats to the basin's bottom with any surviving water weirds.
 
 The water elemental enjoys conversation but speaks Aquan only. Characters who are able to communicate with the water elemental can learn the following from it:
 
@@ -264,9 +264,9 @@ A silver bracelet set with seven small diamonds fell to the bottom of the basin.
 > Pipes along the south wall of this room disappear into the walls near the ceiling. A complicated series of cogs and four hand-turned wheels connect to the pipes.
 ^056
 
-![Many of Vecna's cultists i...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/013-01-004-vecna-cult-symbol.webp#center "Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol")
+![Many of Vecna's cultists in Neverdeath Graveyard bear tattoos of the lich-god's unholy symbol](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/013-01-004-vecna-cult-symbol.webp#center)
 
-The wheels control the water pressure through the pipes, but they lack gauges to show how turning the wheels affects the pressure. A character can determine that the water flows west, as well as how to maximize or minimize the water pressure, with an hour of trial and error. A character who succeeds on a DC 16 Intelligence (Investigation) check discovers this information in only 10 minutes. Alternatively, the [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) Shanzezim in area C10 can describe how to work the wheels.
+The wheels control the water pressure through the pipes, but they lack gauges to show how turning the wheels affects the pressure. A character can determine that the water flows west, as well as how to maximize or minimize the water pressure, with an hour of trial and error. A character who succeeds on a DC 16 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check discovers this information in only 10 minutes. Alternatively, the [marid](3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) Shanzezim in area C10 can describe how to work the wheels.
 
 ##### Minimum Pressure
 
@@ -287,20 +287,20 @@ The cogs here are jammed together and don't move. Whatever mechanism they connec
 
 ##### Secret Door
 
-One cog on the north wall doesn't connect to anything else on the wall around it. A creature must succeed on a DC 14 Intelligence (Investigation) check to find this loose cog. When turned, the cog causes part of the wall to slide away as a secret door. The cultists aren't aware of this door. The small passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C2.
+One cog on the north wall doesn't connect to anything else on the wall around it. A creature must succeed on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to find this loose cog. When turned, the cog causes part of the wall to slide away as a secret door. The cultists aren't aware of this door. The small passageway beyond ends at another secret door that is easily spotted and opened from inside the tunnel. It leads to area C2.
 
 #### C10: Improvised Workshop
 
-![The marid Shanzezim is bou...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/014-01-005-marid-shanzezim.webp#center "The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop")
+![The marid Shanzezim is bound to the crypts and spends time tinkering with clocks in an improvised workshop](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/014-01-005-marid-shanzezim.webp#center)
 
 > [!readaloud] 
 > 
 > Rubble chokes the southeast corner of the room, leaving only a small gap near the uneven ceiling. Some of the rubble has been reassembled into a low table, which bears small clockwork components. A hulking, fish-headed creature wearing exquisite silk finery carefully examines the tiny parts.
 ^05d
 
-The creature is a [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) named Shanzezim. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
+The creature is a [marid](3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) named Shanzezim. The marid was bound by the Waterclock Guild and can't leave the crypts belonging to that organization, even though Shanzezim believes the Waterclock Guild has been defunct for years. Not quite ready to test the binding to make an escape, the marid spends time here trying to reassemble one of the Waterclock Guild's most intricate clocks.
 
-If the [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md) in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
+If the [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) in area C7 fled here, it informed Shanzezim about intruders in the area, so the marid attacks right away to drive off the characters. Otherwise, the marid asks the characters what they want. If a fight breaks out, the marid surrenders if reduced to fewer than 100 hit points or if the characters insist that they aren't with the cult.
 
 ##### Shanzezim's Lore
 
@@ -317,26 +317,26 @@ It takes several days of labor to clear the rubble so creatures can pass through
 
 ##### Treasure
 
-The clock parts include a gold-colored flywheel that isn't a part of the clock Shanzezim is trying to assemble. The flywheel thus doesn't interest the marid, who gives it to the characters. The gold-colored flywheel is magical and has the properties of a Stone of Good Luck.
+The clock parts include a gold-colored flywheel that isn't a part of the clock Shanzezim is trying to assemble. The flywheel thus doesn't interest the marid, who gives it to the characters. The gold-colored flywheel is magical and has the properties of a [Stone of Good Luck](3-Mechanics/CLI/items/stone-of-good-luck-xdmg.md).
 
 #### C11: Umberto's Cell
 
-This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md) (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
+This room's only door is padlocked from the outside with a new, sturdy lock. As an action, a character with thieves' tools can try to use them to open the lock, doing so with a successful DC 18 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. The cult's four mages (in areas C14, C16, and C26) each carry a key that unlocks it. If the characters are friendly with the [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) (see area C7) or Shanzezim (see area C10), either is happy to flow into the crack around the door and burst it open from the inside, much to the surprise of this room's occupant, Umberto Noblin.
 
 > [!readaloud] 
 > 
 > Water leaks down the walls of this cell and pools on the floor near a rusty drain. A dejected gnome sits on a sodden mattress in one corner.
 ^062
 
-![Umberto Noblin](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/015-01-006-umberto-noblin.webp#center)
+![Umberto Noblin](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/015-01-006-umberto-noblin.webp#center)
 
-Umberto Noblin is a gnome historian who is eager to escape Neverdeath Graveyard. Umberto has the game statistics of a lawful neutral [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) without Spellcasting.
+Umberto Noblin is a gnome historian who is eager to escape Neverdeath Graveyard. Umberto has the game statistics of a lawful neutral [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) without Spellcasting.
 
 ##### Umberto's Secret
 
 Umberto knows that cultists of Vecna are his kidnappers, as he's one of Neverwinter's preeminent experts on Vecna's history. He initially keeps his expertise from the characters lest they think he's in league with the cult.
 
-To keep his mind off of the nightmare of his capture and imprisonment, Umberto focuses on complaining about the poor cuisine. If the characters free Umberto and share some tasty food with him, he reveals his expertise in Vecna's history. Umberto especially likes food created with or by magic, such as berries from the Goodberry spell.
+To keep his mind off of the nightmare of his capture and imprisonment, Umberto focuses on complaining about the poor cuisine. If the characters free Umberto and share some tasty food with him, he reveals his expertise in Vecna's history. Umberto especially likes food created with or by magic, such as berries from the [Goodberry](3-Mechanics/CLI/spells/goodberry-xphb.md) spell.
 
 If Umberto reveals his role as a historian of Vecna, it's all he can talk about. He discusses his latest clandestine research project: the ancient rivalry between Vecna and his treacherous lieutenant, the vampire Kas. The historian has kept this research to himself so other scholars don't beat him to publication; Umberto knows he's a slow writer. The gnome's chattering should be endearing rather than irritating, and you can use Umberto to impart basic history about Vecna and Kas as described in the introduction.
 
@@ -349,7 +349,7 @@ Learning about Umberto's secret research topic counts as a secret for the purpos
 > Pipes climb the north wall, disappearing near the ceiling. A complicated series of cogs and three hand-turned wheels connect to the pipes.
 ^065
 
-The wheels control the pipes' water pressure. As in area C8, a character can determine how to maximize or minimize the water pressure with an hour of trial and error, with 10 minutes of trial and error if a character succeeds on a DC 14 Intelligence (Investigation check), or with Shanzezim's instructions.
+The wheels control the pipes' water pressure. As in area C8, a character can determine how to maximize or minimize the water pressure with an hour of trial and error, with 10 minutes of trial and error if a character succeeds on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation) check), or with Shanzezim's instructions.
 
 ##### Minimum Pressure
 
@@ -377,17 +377,17 @@ Arriving cultists ring specific bells in a predetermined pattern, based on their
 > Tables and chairs in this crypt are arranged to create a meeting room or mess hall. Water drips from a pipe into a basin in the southeast corner beneath a detailed image of a staring eye gripped in a withered hand. Five robed cultists are in this room, with one bullying the rest.
 ^06b
 
-A neutral evil [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) and four neutral evil [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) occupy this room. The mage, a sneering, human bully named Oxtu, insists the cult fanatics call him by his formal title of "Teeth of Vecna." In turn, he refers to them as "Memories of Vecna," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
+A neutral evil [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) and four neutral evil [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) occupy this room. The mage, a sneering, human bully named Oxtu, insists the cult fanatics call him by his formal title of "Teeth of Vecna." In turn, he refers to them as "Memories of Vecna," their rank. Oxtu likes to describe violent methods of coercing secrets from people, and the cult fanatics hang on his words. Oxtu carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20).
 
 The cultists are quick to fight intruders. The fanatics try to stay out of the way of Oxtu's spells, but Oxtu makes no effort to exclude them. The cultists all fight to the death.
 
 ##### A Noisy Fight
 
-Loud noise here rouses the two [mages](/3-Mechanics/CLI/bestiary/humanoid/mage.md) dozing in area C16.
+Loud noise here rouses the two [mages](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) dozing in area C16.
 
 ##### Unholy Basin
 
-The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a DC 17 Constitution saving throw or have the poisoned condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
+The cultists desecrated the basin by placing iconography of Vecna above it. Creatures that aren't devotees of Vecna that drink from the basin must succeed on a DC 17 Constitution saving throw or have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for 1 hour. Cultists who suspect a lack of true devotion from their compatriots challenge each other to drink from the basin to prove their faith. If the characters come in disguise as devotees of Vecna, the cultists demand that they prove their faith by taking a drink.
 
 #### C15: Kitchen
 
@@ -405,17 +405,17 @@ This kitchen remains empty except during mealtimes, and no one bothers to keep i
 > Bones in nooks along this wall were pushed aside to make room for folded robes and other personal effects. Four narrow cots lie against the north wall. A robed human and a robed elf each rest on a cot.
 ^071
 
-Two neutral evil [mages](/3-Mechanics/CLI/bestiary/humanoid/mage.md), an elf man named Hannel and a human woman named Algra, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "Teeth of Vecna." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
+Two neutral evil [mages](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md), an elf man named Hannel and a human woman named Algra, rest here. They are surly, taciturn zealots who venerated Vecna in secret for decades before joining the cult. They love exercising their authority over junior cultists. Each wears a necklace of human teeth in honor of their titles within the cult hierarchy as "Teeth of Vecna." They each carry a key to the prisoner cells (areas C5, C11, C18, and C20).
 
 The mages are quick to fight if they spot intruders, since they don't want the cult exposed. They are determined to vanquish intruders and prove their worth to the cult, even if it means fighting to the death.
 
 ##### Secret Door
 
-An urn in a nook on the south wall rotates, sliding aside a wall panel that leads to a short tunnel between this room and area C25. A character who searches the room and succeeds on a DC 15 Wisdom (Perception) check finds the secret door and the means to open it. The mages know about the secret passage, but none of the cult fanatics do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+An urn in a nook on the south wall rotates, sliding aside a wall panel that leads to a short tunnel between this room and area C25. A character who searches the room and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the secret door and the means to open it. The mages know about the secret passage, but none of the cult fanatics do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
 #### C17: Library
 
-![Vecnan cultists keep a rep...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/016-01-007-vecnan-cultist-library.webp#center "Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs")
+![Vecnan cultists keep a repository of information and scrolls in a makeshift library in the catacombs](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/016-01-007-vecnan-cultist-library.webp#center)
 
 > [!readaloud] 
 > 
@@ -424,7 +424,7 @@ An urn in a nook on the south wall rotates, sliding aside a wall panel that lead
 > A stone coffin rests against the north wall, its top carved to look like pages of an open book. Engraved on the book's pages is a name: Ayren Griffynstone.
 ^074
 
-Four chaotic evil [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) are supervising two [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to Ayren Griffynstone, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room "difficult terrain".
+Four chaotic evil [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) are supervising two [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) trying to reorganize the jumble of books the cultists brought to this tomb. The library belongs to Ayren Griffynstone, a human Neverwinter historian. The room hasn't fared well in the graveyard's upheavals, and the uneven floor makes this room "difficult terrain".
 
 As Vecna is a god of knowledge as well as secrets, the cultists all contributed their personal libraries to this collection. Each of the cult fanatics has their own ideas about how this hodgepodge of eclectic works should be organized, so the ghouls labor under constant streams of conflicting directions.
 
@@ -432,11 +432,11 @@ Everyone here is on edge and grateful for the distraction of a fight. If the fig
 
 ##### Secret Door
 
-One shelf swings back to reveal a secret passage to area C19. A character who searches the shelves and succeeds on a DC 15 Intelligence (Investigation) check finds the secret door and the means to open it. All the cultists know about this secret door. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+One shelf swings back to reveal a secret passage to area C19. A character who searches the shelves and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds the secret door and the means to open it. All the cultists know about this secret door. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
 ##### Treasure
 
-The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the Eye of Vecna and Hand of Vecna is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a Spell Scroll of Greater Invisibility and a Spell Scroll of Major Image folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
+The collection of sinister books, many of which are duplicates, includes a few valuable tomes. A book describing the [Eye of Vecna](3-Mechanics/CLI/items/eye-of-vecna-xdmg.md) and [Hand of Vecna](3-Mechanics/CLI/items/hand-of-vecna-xdmg.md) is a masterpiece of writing and artistic illumination worth 450 gp. A book of nonsensical poetry titled Quite Good Verse has a gold-plated cover and is worth 200 gp. A book about Neverwinter's history contains a [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Greater Invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md) and a [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Major Image](3-Mechanics/CLI/spells/major-image-xphb.md) folded in its pages. The characters can find these treasures with 10 minutes of dedicated searching.
 
 #### C18: Vacant Cell
 
@@ -460,34 +460,34 @@ Anyone searching the blankets finds Eldon's prize possession: a small notebook f
 > Hundreds of names are etched into metal plates set into the walls of this room, many scratched over and unreadable. Two hulking, red-furred, apelike creatures stalk around the room.
 ^07b
 
-The two [barlguras](/3-Mechanics/CLI/bestiary/fiend/barlgura.md) here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
+The two [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) here work as the cult's kidnappers. With little to do until the next kidnapping spree other than guard the imprisoned aristocrat in area C20, the demons spend their time scratching out the names on the memorial plates with their claws.
 
 ##### Secret Door
 
-One of the nameplates pivots to reveal a secret passage to area C17. A character who searches the room and succeeds on a DC 17 Wisdom (Perception) check finds the secret door and the means to open it. The demons don't know about the secret door, but the cultists do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
+One of the nameplates pivots to reveal a secret passage to area C17. A character who searches the room and succeeds on a DC 17 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the secret door and the means to open it. The demons don't know about the secret door, but the cultists do. At the far end of the secret passage is another secret door easily spotted and opened from inside the tunnel.
 
 #### C20: Indrina's Cell
 
-This room's only obvious door is padlocked from the outside with a sturdy, new lock. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity (Sleight of Hand) check. Each of the cult's four mages (in areas C14, C16, and C26) carries a key to it. Once the characters open the door, read the following:
+This room's only obvious door is padlocked from the outside with a sturdy, new lock. As an action, a character with thieves' tools can use them to try to open the lock, doing so with a successful DC 18 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. Each of the cult's four mages (in areas C14, C16, and C26) carries a key to it. Once the characters open the door, read the following:
 
 > [!readaloud] 
 > 
 > This crypt smells like a sewer. A woman sits on a mattress atop a low shelf, her once-fine clothing in tatters and a silk scarf wrapped around her face.
 ^07e
 
-![Indrina Lamsensettle](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/017-01-008-indrina-lamsensettle.webp#center)
+![Indrina Lamsensettle](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/017-01-008-indrina-lamsensettle.webp#center)
 
-The prisoner is a human actor named Indrina Lamsensettle. Indrina's normally haughty demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md) but is unarmed and unarmored.
+The prisoner is a human actor named Indrina Lamsensettle. Indrina's normally haughty demeanor has diminished in her imprisonment, though she's determined to make the cult pay once she escapes. Indrina dreams of returning to her estate, cleaning up, and dousing herself in perfumes. She doesn't know anything about Vecna or what the cult has in store for her; she believes that Lord Neverember is behind her imprisonment. Indrina has the game statistics of a lawful neutral [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) but is unarmed and unarmored.
 
 ##### Secret Door
 
-Part of the south wall swings aside when shoved. The short hall beyond leads to the latrine and smells even worse than Indrina's cell. A character who searches this room and succeeds on a DC 18 Wisdom (Perception) check finds the secret door. Indrina doesn't know the door is there.
+Part of the south wall swings aside when shoved. The short hall beyond leads to the latrine and smells even worse than Indrina's cell. A character who searches this room and succeeds on a DC 18 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the secret door. Indrina doesn't know the door is there.
 
 ##### Indrina's Secret
 
 Indrina collected information from skilled genealogists and assembled proof that Lord Neverember isn't descended from Neverwinter's great hero, Lord Nasher Alagondar, as he claims. Indrina assumes Lord Neverember wants to silence her for what she's discovered.
 
-If the characters admit to working for Lord Neverember, Indrina doesn't reveal what she knows. A character who asks why Indrina is here without revealing who hired the characters can attempt a DC 18 Charisma (Persuasion) check, with advantage if Indrina is given perfume or otherwise removed from the cell's offensive smell. On a success, Indrina reveals her secret knowledge.
+If the characters admit to working for Lord Neverember, Indrina doesn't reveal what she knows. A character who asks why Indrina is here without revealing who hired the characters can attempt a DC 18 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, with advantage if Indrina is given perfume or otherwise removed from the cell's offensive smell. On a success, Indrina reveals her secret knowledge.
 
 Learning Indrina's discovery counts as a secret for the purposes of the Power of Secrets rules in this book's introduction. Lord Neverember casually dismisses Indrina's accusation if it's later brought to his attention, insisting that the woman can't prove anything.
 
@@ -500,7 +500,7 @@ The outside of this door bears a large "X" painted on it in red.
 > Several urns lie shattered across the floor of this room amid heaps of ash and bone dust.
 ^082
 
-The cultists disturbed two [wraiths](/3-Mechanics/CLI/bestiary/undead/wraith.md) bound to the urns while ransacking the room. The cultists quickly retreated and haven't been back. The wraiths emerge from the dust and ash when anyone opens the door, shrieking, "Vecnans, die!" They vent their rage on nearby creatures, preferring to attack cultists. The wraiths fight until destroyed.
+The cultists disturbed two [wraiths](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) bound to the urns while ransacking the room. The cultists quickly retreated and haven't been back. The wraiths emerge from the dust and ash when anyone opens the door, shrieking, "Vecnans, die!" They vent their rage on nearby creatures, preferring to attack cultists. The wraiths fight until destroyed.
 
 #### C22: Latrine
 
@@ -511,7 +511,7 @@ The cultists disturbed two [wraiths](/3-Mechanics/CLI/bestiary/undead/wraith.md)
 
 ##### Secret Door
 
-The north wall of this disgusting room swings aside when a particular stone is pressed. A character who searches the room and succeeds on a DC 15 Intelligence (Investigation) check finds the secret door. All the cultists know about this secret door and open it from time to time to waft the smell into Indrina's cell (area C20).
+The north wall of this disgusting room swings aside when a particular stone is pressed. A character who searches the room and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds the secret door. All the cultists know about this secret door and open it from time to time to waft the smell into Indrina's cell (area C20).
 
 #### C23: Corridor
 
@@ -520,7 +520,7 @@ The north wall of this disgusting room swings aside when a particular stone is p
 > A shuffling cultist bearing a vacant expression moves through the corridor. Several narrow doorways lead off this long hall.
 ^087
 
-The Vecnan cult leader, Jerot Galgin, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md). The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the poisoned condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
+The Vecnan cult leader, Jerot Galgin, used a dreadful ritual to drain the cultist of her knowledge and vitality. This cultist, as well as other people whose secrets the cult have sacrificed to Vecna, has the game statistics of a [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The cultist is a Humanoid rather than Undead and isn't immune to poison damage or the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition. She is dressed like the other cult members and doesn't attack anyone dressed like cultists.
 
 ##### Made an Example
 
@@ -542,23 +542,23 @@ These four rooms are empty.
 > This large room has been furnished to resemble a cozy bedroom and study. Stooped over a desk and scribbling furiously on a parchment is a gaunt, robed human man. Standing next to the desk is a one-eyed, bipedal horror with spikes growing out of its back. Tapestries depicting feasting undead creatures hang on the wall.
 ^08c
 
-![Jerot Galgin](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/018-01-009-jerot-galgin.webp#center)
+![Jerot Galgin](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/018-01-009-jerot-galgin.webp#center)
 
-The cult's leader is a neutral evil, human [necromancer wizard](/3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md) (see appendix A) named Jerot Galgin. A loyal [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic.md) assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
+The cult's leader is a neutral evil, human [necromancer wizard](3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md) (see appendix A) named Jerot Galgin. A loyal [nothic](3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md) assistant named Maszundrin never leaves Jerot's side. A devotee of Vecna, Maszundrin learned Common while lurking in the catacombs for decades and considers the cultists vital servants of the lich-god.
 
 Jerot is an aristocrat who has lived his entire life in Neverwinter. He has built his deep faith in Vecna and vast necromantic knowledge over many years, right under the noses of his peers. He's engaging in this current research while his friends and family believe him to be on an extended trip to Waterdeep. Jerot considers his secret life as a cult leader, or the "Thought of Vecna," to be yet another way to honor his evil patron.
 
-Jerot is refining the ritual occurring in the Sacrifice Gallery (area C26) and is too focused on his work to be distracted by combat elsewhere in the catacombs. He trusts his minions to handle any trouble. If intruders reach Jerot's personal chamber, he commands the [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic.md) to enter melee while he fights from a distance, summoning Undead defenders if the nothic falls. Jerot fears exposure more than anything else and thus fights to the death.
+Jerot is refining the ritual occurring in the Sacrifice Gallery (area C26) and is too focused on his work to be distracted by combat elsewhere in the catacombs. He trusts his minions to handle any trouble. If intruders reach Jerot's personal chamber, he commands the [nothic](3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md) to enter melee while he fights from a distance, summoning Undead defenders if the nothic falls. Jerot fears exposure more than anything else and thus fights to the death.
 
 ##### Jerot's Papers
 
 Jerot's notes on the ritual describe draining and sacrificing a victim's secrets and knowledge to Vecna. His notes illustrate the first test of the ritual, which used a disloyal cultist as the victim. For his future attempts, Jerot has chosen townspeople from Neverwinter whom he believes have particularly meaningful secrets. Their secrets are the cultists' best offerings to Vecna.
 
-A character who examines Jerot's notes and succeeds on a DC 14 Intelligence (Investigation) check finds mention of magical phenomena called "Crevices of Dusk" that sometimes appear in Neverwinter. The notes indicate that these magical gateways connect to a plane populated by Undead, but it's clear Jerot doesn't know much more than that. His notes indicate his resolve to learn more after he finishes his current experiments in stealing and offering secrets to Vecna.
+A character who examines Jerot's notes and succeeds on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds mention of magical phenomena called "Crevices of Dusk" that sometimes appear in Neverwinter. The notes indicate that these magical gateways connect to a plane populated by Undead, but it's clear Jerot doesn't know much more than that. His notes indicate his resolve to learn more after he finishes his current experiments in stealing and offering secrets to Vecna.
 
 ##### Secret Door
 
-A tapestry depicting a feasting ghoul conceals a secret, sliding door leading to a short tunnel between this room and area C16. A character who searches behind the tapestry and succeeds on a DC 10 Wisdom (Perception) check finds the secret door. Once inside the secret passage, a character can easily spot and open the secret door at the opposite end.
+A tapestry depicting a feasting ghoul conceals a secret, sliding door leading to a short tunnel between this room and area C16. A character who searches behind the tapestry and succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check finds the secret door. Once inside the secret passage, a character can easily spot and open the secret door at the opposite end.
 
 #### C26: Sacrifice Gallery
 
@@ -567,17 +567,17 @@ A tapestry depicting a feasting ghoul conceals a secret, sliding door leading to
 > This enormous room features raised galleries at the east and west ends. Six chanting figures ring the east gallery, their hands raised toward a spherical cage hanging from the 30-foot-tall ceiling. The ritual's leader chants from the west balcony, surrounded by hunched, one-eyed creatures with knobby hides. A terrified elf struggles in the dangling cage.
 ^090
 
-![Eldon Keyward](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/019-01-010-eldon-keyward.webp#center)
+![Eldon Keyward](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/019-01-010-eldon-keyward.webp#center)
 
 This room's floor is 10 feet lower than the raised galleries.
 
-The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf Eldon Keyward's secrets to Vecna. The ritual leader is a tall, proud, neutral evil [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) named Kendri Nex. The five [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md) around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
+The room is filled with cultists engaged in an extensive, hours-long ritual to sacrifice the elf Eldon Keyward's secrets to Vecna. The ritual leader is a tall, proud, neutral evil [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named Kendri Nex. The five [nothics](3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md) around her attack intruders on sight. Kendri uses her magic defensively, retreating to the room's floor if pressed. Kendri carries keys that unlock all the prisoner cells (areas C5, C11, C18, and C20), but if the characters haven't already rescued the other prisoners, they might not have the chance to do so, as the encounter likely ends with them being shunted through a planar rift.
 
-The six neutral evil [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
+The six neutral evil [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md) on the raised east gallery don't fight, since they fear interrupting the complicated ritual. They maintain their chanting and wild gesticulations.
 
 ##### The Cage
 
-Eldon is a lawful good elf [priest](/3-Mechanics/CLI/bestiary/humanoid/priest.md) who follows Deneir, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
+Eldon is a lawful good elf [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) who follows Deneir, a god of writing and knowledge. He can't cast spells while he's in the cage. Eldon's cage hangs from a sturdy chain that ends 20 feet above the ground. The door on the cage's side is latched but not locked. Any character who can reach the cage can open its door as an action.
 
 #### Fight's End
 
@@ -605,14 +605,14 @@ The characters each gain a metaphysical link to Vecna, which follows the rules f
 
 > [!readaloud] 
 > 
-> **Vecna's Link.** You gain a special intuition for secrets. You have advantage on Wisdom (Insight) checks. In addition, you can use an action to cast See Invisibility without expending a spell slot. Once you cast that spell in this way, you can't do so again until you finish a long rest.
+> **Vecna's Link.** You gain a special intuition for secrets. You have advantage on Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) checks. In addition, you can use an action to cast [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md) without expending a spell slot. Once you cast that spell in this way, you can't do so again until you finish a long rest.
 ^097
 
 When the characters acquire this link, remind them about the Power of Secrets rules. Allow them to spend any secrets they've gained so far as usual.
 
 ### Evernight
 
-![Evernight is a dismal mirr...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/020-01-011-evernight.webp#center "Evernight is a dismal mirror in the Shadowfell of the city of Neverwinter. The sun never shines here, and ashen fog chokes the sky")
+![Evernight is a dismal mirror in the Shadowfell of the city of Neverwinter. The sun never shines here, and ashen fog chokes the sky](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/020-01-011-evernight.webp#center)
 
 Evernight is a forlorn metropolis in the Shadowfell. It has geography similar to Neverwinter's, but it presents as Neverwinter's dismal opposite. The sun never shines on Evernight, and ash-laden fog rises from lava flowing through the city in place of Neverwinter River, choking the city.
 
@@ -626,7 +626,7 @@ Since the characters were underground in Neverwinter's graveyard when shunted to
 
 Each character appears within an open coffin. The coffins are jumbled near each other in a large, 10-foot-deep grave pit.
 
-Twelve [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) prowl the area around the party's grave pit. Characters in the grave pit hear the hungry shouts and slavering of approaching ghouls, and you can further ramp up the tension by concealing the total number of ghouls until a character emerges from the pit to look around. The coffin-filled bottom of the grave pit is "difficult terrain". The muddy, sloping sides require a successful DC 10 Strength (Athletics) check to ascend, but moving down them doesn't require a check.
+Twelve [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) prowl the area around the party's grave pit. Characters in the grave pit hear the hungry shouts and slavering of approaching ghouls, and you can further ramp up the tension by concealing the total number of ghouls until a character emerges from the pit to look around. The coffin-filled bottom of the grave pit is "difficult terrain". The muddy, sloping sides require a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to ascend, but moving down them doesn't require a check.
 
 #### Eldon's Latest Imprisonment
 
@@ -681,9 +681,9 @@ Shortly after the characters enter the Corpse Market, they draw the attention of
 > "I am Sangora, proprietor of Sangora Sanguinaries. You're not likely interested in a cup of warm blood, but perhaps you need something else? Something more ephemeral, like directions? Or knowledge? I've been in this city a long, long time."
 ^0a4
 
-Sangora is a centuries-old [vampire](/3-Mechanics/CLI/bestiary/undead/vampire.md) with sunken eyes and a shock of long, white hair. She is inquisitive and happy to gossip.
+Sangora is a centuries-old [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md) with sunken eyes and a shock of long, white hair. She is inquisitive and happy to gossip.
 
-![Sangora](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/021-01-012-sangora.webp#center)
+![Sangora](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/021-01-012-sangora.webp#center)
 
 If the characters don't seem inclined to speak with Sangora, Eldon blurts out a question about finding a Crevice of Dusk.
 
@@ -707,7 +707,7 @@ The following features are common throughout the Dolindar tomb.
 
 #### Unending Isolation
 
-The tomb isn't precisely haunted, but the isolation the Dolindars felt living in a city of the dead suffuses their tomb. Creatures in the tomb or the portico outside it can't muster the will to support others and thus can't take the Help action.
+The tomb isn't precisely haunted, but the isolation the Dolindars felt living in a city of the dead suffuses their tomb. Creatures in the tomb or the portico outside it can't muster the will to support others and thus can't take the [Help](3-Mechanics/CLI/rules/actions.md#Help) action.
 
 #### Stone Construction
 
@@ -730,8 +730,8 @@ Ceilings are 10 feet high throughout the tomb.
 The following locations are keyed to map 1.2.
 
 > [!gallery]
-> ![Map 1.2: Dolindar Tomb](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/022-1-02-dolindar-tomb.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/023-1-02-dolindar-tomb-player.webp#gallery)
+> ![Map 1.2: Dolindar Tomb](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/022-1-02-dolindar-tomb.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/023-1-02-dolindar-tomb-player.webp#gallery)
 
 #### B1: Portico
 
@@ -740,7 +740,7 @@ The following locations are keyed to map 1.2.
 > A roof supported by stone pillars extends from the Dolindar tomb into the weedy yard of uneven earth. The stone door to the tomb is engraved with the word "DOLINDAR" above it.
 ^0ae
 
-Four [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md) catch up to the party when the characters reach the door to the tomb. After the characters left her, Sangora detailed her conversation to her vampire spawn assistants. The spawn decided to make a meal of the characters, assuming that Sangora would never discover their perfidy.
+Four [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md) catch up to the party when the characters reach the door to the tomb. After the characters left her, Sangora detailed her conversation to her vampire spawn assistants. The spawn decided to make a meal of the characters, assuming that Sangora would never discover their perfidy.
 
 The ground in the portico is swept and free of weeds, thanks to the efforts of the ghost Newmy (see area B2). The entrance to the tomb isn't locked. It opens onto a small room containing a steep spiral staircase leading 20 feet downward.
 
@@ -755,9 +755,9 @@ The lesser-known Dolindars are interred here, buried in the alcoves behind the s
 
 The piece of paper is on a slab in front of an open nook that never held a dead Dolindar. Instead, a ghost custodian named Newmy lives inside. She's affixed a piece of paper with "Newmy's Room" written on it in Common. If anyone approaches the slab, Newmy pops out, sputtering apologies.
 
-Newmy is a lawful neutral [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) who was once a moon elf. She can cast Prestidigitation at will. Newmy isn't quite five feet tall, and she has frizzy blue hair and pale skin shot through with blue veins. She's not interested in fighting, since fights make messes.
+Newmy is a lawful neutral [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) who was once a moon elf. She can cast [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md) at will. Newmy isn't quite five feet tall, and she has frizzy blue hair and pale skin shot through with blue veins. She's not interested in fighting, since fights make messes.
 
-![Newmy](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/024-01-014-newmy-ghost.webp#center)
+![Newmy](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/024-01-014-newmy-ghost.webp#center)
 
 ##### Talking with Newmy
 
@@ -779,7 +779,7 @@ Newmy rests in a burial nook large enough to hold the corpse of a Medium creatur
 > Two stone coffins in this room have been broken open, littering the floor with rubble and dust. A creature with too many arms and spikes in place of hands taps at the room's walls.
 ^0b4
 
-The Dolindar siblings buried here were warped into two [lost sorrowsworn](/3-Mechanics/CLI/bestiary/monstrosity/lost-sorrowsworn-mpmm.md) (see appendix A). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
+The Dolindar siblings buried here were warped into two lost sorrowsworn (see appendix A). A visible sorrowsworn shrieks in rage and attacks anyone she can see. A second sorrowsworn is resting inside one of the broken coffins, initially out of sight but quick to join his sibling in a fight. The sorrowsworn fight until destroyed.
 
 ##### Treasure
 
@@ -800,8 +800,8 @@ The following Dolindar family treasures sit atop the pedestals:
 
 - 2,200 gp in neatly stacked piles  
 - A golden helmet worth 280 gp  
-- A Driftglobe with a map of the gate towns of the Outlands carved on it  
-- A Necklace of Adaptation bearing the inscription "My breath is yours, Kevetta—take it"  
+- A [Driftglobe](3-Mechanics/CLI/items/driftglobe-xdmg.md) with a map of the gate towns of the Outlands carved on it  
+- A [Necklace of Adaptation](3-Mechanics/CLI/items/necklace-of-adaptation-xdmg.md) bearing the inscription "My breath is yours, Kevetta—take it"  
 - A book titled *Out of the Endless Prison*, outlining methods of escaping the prison-plane of Carceri, worth 500 gp to a planar scholar (such as Eldon, who promises to buy the book once returned to Neverwinter)  
 - A snow globe containing a miniature replica of the city of Neverwinter, worth 350 gp  
 
@@ -824,24 +824,24 @@ The door is sealed with a puzzle that requires pushing the right letter tiles in
 
 **E** in RETURN
 
-If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
+If the five words sink into the wall in the wrong order, or if the wrong letters are used to push them in, all five words reset with a wave of painful loneliness. Creatures in the room must make a DC 16 Charisma saving throw, taking 22 (`4d10`) psychic damage on a failed save or half as much damage on a successful one. If the characters have a hard time figuring out this puzzle, Eldon gives them hints. Eldon stays at a safe distance from the trap and doesn't take damage if it's triggered.
 
-The first time a character pushes the tiles incorrectly, they see a small mechanism below the phrase "NO WORLD TO RETURN." This mechanism is a lock. As an action, a character with thieves' tools can use them to try to pick the lock, doing so with a successful DC 16 Dexterity (Sleight of Hand) check. Picking the lock has the same effect as solving the puzzle, granting access to area B6.
+The first time a character pushes the tiles incorrectly, they see a small mechanism below the phrase "NO WORLD TO RETURN." This mechanism is a lock. As an action, a character with thieves' tools can use them to try to pick the lock, doing so with a successful DC 16 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. Picking the lock has the same effect as solving the puzzle, granting access to area B6.
 
 #### B6: Matriarch's Chamber
 
-![The matriarch Kevetta Doli...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/025-01-013-kevetta-dolindar.webp#center "The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn")
+![The matriarch Kevetta Dolindar has become a monster called a lonely sorrowsworn](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/025-01-013-kevetta-dolindar.webp#center)
 
 > [!readaloud] 
 > 
 > On the far side of this room rests a stone coffin. Between the door and the coffin, the floor is studded with a sharp metal blades. A person-shaped figure with elongated arms lurks near the coffin.
 ^0bc
 
-Isolation warped the matriarch of the Dolindar family, Kevetta, into a [lonely sorrowsworn](/3-Mechanics/CLI/bestiary/monstrosity/lonely-sorrowsworn-mpmm.md) (see appendix A). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
+Isolation warped the matriarch of the Dolindar family, Kevetta, into a lonely sorrowsworn (see appendix A). She remains near her coffin and uses her harpoon arms to attack anyone who enters the room. She fights until destroyed but doesn't pursue foes who flee.
 
 ##### Blades
 
-The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
+The blades on the floor are "difficult terrain". When a creature moves into or through the blades on its turn, it takes 5 (`2d4`) slashing damage for every 5 feet it travels. A character can use an action to pull a lever behind the stone coffin to cause the blades to retract into the floor or to raise them again.
 
 ##### In the Coffin
 

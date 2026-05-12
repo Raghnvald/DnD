@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- The Path of Light
+aliases:
+- "The Path of Light"
 ---
 # The Path of Light
 *Source: Player's Handbook p. 296* 

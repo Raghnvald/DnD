@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
-- new/monster/type/monstrosity/yuan-ti
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity/shapechanger
+- ttrpg-cli/monster/type/monstrosity/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fenthaza
+- "Fenthaza"
 ---
-# [Fenthaza](3-Mechanics\CLI\bestiary\npc/fenthaza-toa.md)
+# [Fenthaza](3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md)
 *Source: Tomb of Annihilation p. 113*  
 
 ```statblock
@@ -39,27 +39,37 @@ aliases:
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft. (penetrates magical darkness), passive Perception 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft. (penetrates\
+  \ magical darkness), passive Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"
 "traits":
   - "desc": "Fenthaza is a 6th-level spellcaster. Its spellcasting ability is Charisma\
       \ (spell save DC 13, +5 to hit with spell attacks). It regains its expended\
       \ spell slots when it finishes a short or long rest. It knows the following\
-      \ warlock spells:\n\n**Cantrips (at will):** chill touch, eldritch blast (range\
-      \ 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray,\
-      \ prestidigitation\n\n**1st-3rd level (2 slots):** arms of Hadar, darkness,\
-      \ fear, hex, hold person, hunger of Hadar, witch bolt"
+      \ warlock spells:\n\n**Cantrips (at will):** [chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md),\
+      \ [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md) (range 300\
+      \ ft., +3 bonus to each damage roll), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st-3rd\
+      \ level (2 slots):** [arms of Hadar](3-Mechanics/CLI/spells/arms-of-hadar-xphb.md),\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md),\
+      \ [hex](3-Mechanics/CLI/spells/hex-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md), [witch\
+      \ bolt](3-Mechanics/CLI/spells/witch-bolt-xphb.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
   - "desc": "Fenthaza's innate spellcasting ability is Charisma (spell save DC 13).\
       \ Fenthaza can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** animal friendship (snakes only)\n\n**3/day:** suggestion"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Innate Spellcasting (Yuan-ti Form Only)"
   - "desc": "Fenthaza can use its action to polymorph into a Medium snake or back\
       \ into its true form. Its statistics are the same in each form. Any equipment\
@@ -75,26 +85,28 @@ aliases:
 "actions":
   - "desc": "Fenthaza makes one constrict attack and one scimitar attack."
     "name": "Multiattack (Yuan-ti Form Only)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 14) if\
-      \ it is a Large or smaller creature. Until this grapple ends, the target is\
-      \ restrained, and Fenthaza can't constrict another target."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (2d6 + 3) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 14) if it is a Large or smaller creature. Until this grapple ends,\
+      \ the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and Fenthaza can't constrict another target."
     "name": "Constrict"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar (Yuan-ti Form Only)"
   - "desc": "Fenthaza taps into the nightmares of a creature it can see within 60\
       \ feet of it and creates an illusory, immobile manifestation of the creature's\
       \ deepest fears, visible only to that creature. The target must make a DC 13\
-      \ Intelligence saving throw. On a failed save, the target takes 11 (2d10) psychic\
-      \ damage and is frightened of the manifestation, believing it to be real. Fenthaza\
-      \ must concentrate to maintain the illusion (as if concentrating on a spell),\
-      \ which lasts for up to 1 minute and can't be harmed. The target can repeat\
-      \ the saving throw at the end of each of its turns, ending the illusion on a\
-      \ success, or taking 11 (2d10) psychic damage on a failure."
+      \ Intelligence saving throw. On a failed save, the target takes 11 (2d10)\
+      \ psychic damage and is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ of the manifestation, believing it to be real. Fenthaza must concentrate to\
+      \ maintain the illusion (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell), which lasts for up to 1 minute and can't be harmed. The target\
+      \ can repeat the saving throw at the end of each of its turns, ending the illusion\
+      \ on a success, or taking 11 (2d10) psychic damage on a failure."
     "name": "Invoke Nightmare (Recharges after a Short or Long Rest)"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/fenthaza-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/fenthaza-toa.webp"
 ```
 ^statblock

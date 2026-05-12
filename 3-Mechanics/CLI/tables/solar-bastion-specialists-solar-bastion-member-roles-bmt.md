@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Solar Bastion Specialists; Solar Bastion Member Roles
+- "Solar Bastion Specialists; Solar Bastion Member Roles"
 ---
 # Solar Bastion Specialists; Solar Bastion Member Roles
 *Source: The Book of Many Things p. 79* 

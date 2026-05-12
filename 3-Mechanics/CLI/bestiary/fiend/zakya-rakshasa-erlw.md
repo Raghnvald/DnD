@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/fiend
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zakya Rakshasa
+- "Zakya Rakshasa"
 ---
-# [Zakya Rakshasa](3-Mechanics\CLI\bestiary\fiend/zakya-rakshasa-erlw.md)
+# [Zakya Rakshasa](3-Mechanics/CLI/bestiary/fiend/zakya-rakshasa-erlw.md)
 *Source: Eberron: Rising from the Last War p. 309*  
 
 Millions of years before the rise of the humanoid races, the rakshasas of Eberron ruled a civilization that spanned Khorvaire. Masters of combat, the rakshasas of Eberron wield their weapons with demonic fury, rushing into battle seeking vengeance against those who bound their fiendish masters.
@@ -46,6 +46,9 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
     "desc": "+4"
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
+"gear":
+  - "javelin"
+  - "longsword"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Infernal"
 "cr": "5"
@@ -70,14 +73,15 @@ Zakya rakshasas are the bloodthirsty foot soldiers of the rakshasa horde. They a
   - "desc": "The rakshasa makes three melee weapon attacks. Alternatively, it can\
       \ make two ranged attacks with its javelins."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage."
     "name": "Javelin"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/zakya-rakshasa-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/zakya-rakshasa-erlw.webp"
 ```
 ^statblock

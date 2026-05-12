@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos Performer, Fire Eater
+- "Rakdos Performer, Fire Eater"
 ---
-# [Rakdos Performer, Fire Eater](3-Mechanics\CLI\bestiary\humanoid/rakdos-performer-fire-eater-ggr.md)
+# [Rakdos Performer, Fire Eater](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-fire-eater-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 249*  
 
 By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
@@ -39,9 +39,9 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+4"
 "senses": "passive Perception 9"
 "languages": "any one language (usually Common)"
@@ -53,8 +53,8 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
 "actions":
   - "desc": "The fire eater makes two attacks with its bladed chain."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 6\
-      \ (1d6 + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 6 (1d6 + 3) slashing damage."
     "name": "Bladed Chain"
   - "desc": "The fire eater exhales flames. Each creature in a 15-foot cone must make\
       \ a DC 13 Dexterity saving throw, taking 9 (2d8) fire damage on a failed save,\
@@ -62,6 +62,6 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
     "name": "Spew Flame (Recharge 4-6)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-fire-eater-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-fire-eater-ggr.webp"
 ```
 ^statblock

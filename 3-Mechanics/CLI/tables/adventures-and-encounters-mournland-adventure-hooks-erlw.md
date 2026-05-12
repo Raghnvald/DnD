@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Adventures and Encounters; Mournland Adventure Hooks
+- "Adventures and Encounters; Mournland Adventure Hooks"
 ---
 # Adventures and Encounters; Mournland Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 222* 
 
 **Mournland Adventure Hooks**
-
-`dice: [](adventures-and-encounters-mournland-adventure-hooks-erlw.md#^mournland-adventure-hooks)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

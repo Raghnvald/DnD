@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Lonelywood
+- "Lonelywood"
 ---
 # Lonelywood
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 79* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/065-01-032-shield-lonelywood.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/065-01-032-shield-lonelywood.webp#center)
 
 Founded by a Sembian family from Urmlaspyr, Lonelywood is a quiet town of loggers, fishers, and scrimshanders scratching out a living on the edge of the world. The town's oldest buildings and docks bear carvings of dragons, lions, and goats that pay deference to the family's crest, which featured a chimera.
 
@@ -30,11 +30,11 @@ For as long as Ten-Towns has existed, Lonelywood has attracted the region's shad
 
 ### Leader
 
-Speaker Nimsy Huddle (lawful good strongheart halfling [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) speaks for the townsfolk. Ever since the local inn closed its doors, Nimsy has opened her heated attic to visitors looking for a place to crash for the night. She bakes halfling-shaped cookies and brings them to meetings of the Council of Speakers.
+Speaker Nimsy Huddle (lawful good strongheart halfling [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) speaks for the townsfolk. Ever since the local inn closed its doors, Nimsy has opened her heated attic to visitors looking for a place to crash for the night. She bakes halfling-shaped cookies and brings them to meetings of the Council of Speakers.
 
 ### Militia
 
-Lonelywood can muster up to 50 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 4 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Lonelywood can muster up to 50 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 4 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** Two narrow white triangles, one descending from the center top, the other rising from center bottom, almost meet on a forest-green field. The top triangle represents an icicle, denoting Lonelywood's northerly location; the bottom triangle is an ivory horn, representing the town's scrimshaw trade.  
 
@@ -53,8 +53,8 @@ A three-mile-long snow-covered path connects Lonelywood to Termalaine. Character
 Lonelywood has no inns or other places for visitors to rest, except for the town speaker's house, which has a spacious, heated attic that can accommodate characters looking for a night's rest. Other residents of Lonelywood value their privacy and are much less inclined to welcome strangers into their meager dwellings.
 
 > [!gallery]
-> ![Map 1.14: Lonelywood](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/066-map-1-14-lonelywood.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/067-map-1-14-lonelywood-player.webp#gallery)
+> ![Map 1.14: Lonelywood](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/066-map-1-14-lonelywood.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/067-map-1-14-lonelywood-player.webp#gallery)
 
 The following locations are marked on map 1.14.
 
@@ -62,7 +62,7 @@ The following locations are marked on map 1.14.
 
 *Shop*
 
-This little shop facing the docks sells the tools of the scrimshander's trade: needles and knives in a wide array of shapes and sizes, inks in a rainbow of colors, and wax used to seal an engraving when it's done. The shop's owner is a doughy spinster of few words named Iriskree Harrowhill (retired neutral human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md)). She doesn't talk about her shady past except to speak fondly of people she once knew who have since died.
+This little shop facing the docks sells the tools of the scrimshander's trade: needles and knives in a wide array of shapes and sizes, inks in a rainbow of colors, and wax used to seal an engraving when it's done. The shop's owner is a doughy spinster of few words named Iriskree Harrowhill (retired neutral human [assassin](3-Mechanics/CLI/bestiary/humanoid/assassin.md)). She doesn't talk about her shady past except to speak fondly of people she once knew who have since died.
 
 ### The Lucky Liar
 
@@ -70,7 +70,7 @@ This little shop facing the docks sells the tools of the scrimshander's trade: n
 
 Fishers and woodcutters gather here in the evenings to weave tall tales—the more outrageous and embellished, the better. From time to time, patrons whose tongues have been loosened by drink let slip valuable or dangerous secrets. Characters who loiter in the tavern are likely to hear a rumor or two, which you can determine by rolling on the Ten-Towns Rumors table (see "Ten-Towns Rumors").
 
-The tavern's raven-haired barkeep, Danae Xotal (lawful evil human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md)), files away these secrets as she goes about her serving work with quiet circumspection. Her secret is that she's a Thayan agent working for Szass Tam, the most powerful lich in Thay. Danae was planted in Icewind Dale years ago to watch for enemies of Szass Tam who might seek refuge in Ten-Towns. No one else in Ten-Towns knows her secret, and those she has marked as enemies in the past have quietly vanished.
+The tavern's raven-haired barkeep, Danae Xotal (lawful evil human [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md)), files away these secrets as she goes about her serving work with quiet circumspection. Her secret is that she's a Thayan agent working for Szass Tam, the most powerful lich in Thay. Danae was planted in Icewind Dale years ago to watch for enemies of Szass Tam who might seek refuge in Ten-Towns. No one else in Ten-Towns knows her secret, and those she has marked as enemies in the past have quietly vanished.
 
 ### Ramshackle
 
@@ -78,7 +78,7 @@ The tavern's raven-haired barkeep, Danae Xotal (lawful evil human [spy](/3-Mecha
 
 This aptly named building—which used to be the only inn in town—closed after its last owner, a retired sawyer named DeGrootz, hanged himself in the common room two years ago. Some locals believe that DeGrootz's hanging was staged to conceal his murder at the hands of some old "friends" of his. Townsfolk are currently using the vacant building for lumber storage, but anyone interested in refurbishing and reopening the old inn is welcome to try.
 
-![The dreaded white moose of...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/068-01-033-white-moose.webp#center "The dreaded white moose of Lonelywood is no one's prey")
+![The dreaded white moose of Lonelywood is no one's prey](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/068-01-033-white-moose.webp#center)
 
 ## The White Moose
 
@@ -86,7 +86,7 @@ A white moose is attacking loggers in the forest near Lonelywood. The town's log
 
 Speaker Huddle tries to seduce the characters with a basket of halfling-shaped cookies, hoping they'll join the hunt for the white moose. If the characters turn her down, Speaker Huddle sweetens the deal with coin.
 
-The white moose is an awakened beast that serves Ravisin, the same evil frost druid who awakened the plesiosaurus in Maer Dualdon (see "Lake Monster"). This druid has cast awaken spells on several beasts, gifting them with human-level intelligence and the ability to speak, and uses them to spy on settlements and terrorize their inhabitants. Ravisin has taken refuge in an elven tomb in the woods and won't rest until the forest is free of loggers. Simply killing the white moose will not solve Lonelywood's problem; to end the threat to Lonelywood and other towns, the characters must stop the druid from awakening more beasts and using them to harm Ten-Towners.
+The white moose is an awakened beast that serves Ravisin, the same evil frost druid who awakened the plesiosaurus in Maer Dualdon (see "Lake Monster"). This druid has cast [awaken](3-Mechanics/CLI/spells/awaken.md) spells on several beasts, gifting them with human-level intelligence and the ability to speak, and uses them to spy on settlements and terrorize their inhabitants. Ravisin has taken refuge in an elven tomb in the woods and won't rest until the forest is free of loggers. Simply killing the white moose will not solve Lonelywood's problem; to end the threat to Lonelywood and other towns, the characters must stop the druid from awakening more beasts and using them to harm Ten-Towners.
 
 ### Getting the Quest
 
@@ -99,17 +99,15 @@ If the characters aren't staying in Nimsy Huddle's attic, they are summoned to t
 > "Our loggers are being terrorized by a white moose," says Speaker Huddle, "and the beast has eluded the hunters we've sent to kill it. We depend on the forest for our survival. I wouldn't be a very good town speaker if I let a dumb moose get the better of us. Will you help?"
 ^1ef
 
-If the characters demand more than tasty treats as an incentive, Speaker Huddle is willing to pay them 100 gp for the moose's head, though she can be talked up to 125 gp with a successful DC 15 Charisma (Persuasion) check. She suggests that the characters can sell the moose's carcass to a local butcher for 10 gp. If the characters want the pot sweetened further, Speaker Huddle says she can offer them Ramshackle (the closed inn) as an investment property, to do with what they will. "Of course," she adds with a smile, "if our hunters get the moose first, the rewards will be theirs!"
+If the characters demand more than tasty treats as an incentive, Speaker Huddle is willing to pay them 100 gp for the moose's head, though she can be talked up to 125 gp with a successful DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. She suggests that the characters can sell the moose's carcass to a local butcher for 10 gp. If the characters want the pot sweetened further, Speaker Huddle says she can offer them Ramshackle (the closed inn) as an investment property, to do with what they will. "Of course," she adds with a smile, "if our hunters get the moose first, the rewards will be theirs!"
 
 ### Tracking the Moose
 
-To find the white moose, the characters must venture into the forest and search for the beast's tracks in the snow. Any character who spends an hour searching for moose tracks and succeeds on a DC 15 Wisdom (Survival) check finds a set of them. If the characters follow these tracks, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 6, the tracks lead to the elven tomb, where the white moose can be found. On any other roll, the tracks lead to an ordinary moose (use the [giant goat](/3-Mechanics/CLI/bestiary/beast/giant-goat.md) stat block) that's encountered after `dice:1d4|noform|noparens|avg` (`1d4`) hours. This moose poses no threat if the characters leave it alone. After each encounter with an ordinary moose, the characters can repeat their search for moose tracks and, upon finding some, make another `dice:d6|noform|noparens|avg` (`d6`) roll to determine if the tracks belong to the elusive white moose.
+To find the white moose, the characters must venture into the forest and search for the beast's tracks in the snow. Any character who spends an hour searching for moose tracks and succeeds on a DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check finds a set of them. If the characters follow these tracks, roll a `d6`. On a 6, the tracks lead to the elven tomb, where the white moose can be found. On any other roll, the tracks lead to an ordinary moose (use the [giant goat](3-Mechanics/CLI/bestiary/beast/giant-goat.md) stat block) that's encountered after `1d4` hours. This moose poses no threat if the characters leave it alone. After each encounter with an ordinary moose, the characters can repeat their search for moose tracks and, upon finding some, make another `d6` roll to determine if the tracks belong to the elusive white moose.
 
 After every three hours the characters spend in the forest, check for a random encounter using the Lonelywood Forest Encounters table.
 
 **Lonelywood Forest Encounters**
-
-`dice: [](10-lonelywood.md#^lonelywood-forest-encounters)`
 
 | dice: d20 | Encounter |
 |-----------|-----------|
@@ -123,27 +121,27 @@ After every three hours the characters spend in the forest, check for a random e
 
 #### Banshee
 
-This [banshee](/3-Mechanics/CLI/bestiary/undead/lonelywood-banshee-idrotf.md) is the spectral remnant of a female elf warrior who was banished for a selfish, evil act. It wields a spectral longbow that shoots phantom arrows. This weapon has the range of a standard longbow and is used to make ranged spell attacks; it otherwise functions like the banshee's Corrupting Touch.
+This [banshee](3-Mechanics/CLI/bestiary/undead/lonelywood-banshee-idrotf.md) is the spectral remnant of a female elf warrior who was banished for a selfish, evil act. It wields a spectral longbow that shoots phantom arrows. This weapon has the range of a standard longbow and is used to make ranged spell attacks; it otherwise functions like the banshee's Corrupting Touch.
 
 There is only one banshee haunting the forest. If it's destroyed, it re-forms after 24 hours in a random location in the forest, damned to its eternal exile.
 
 #### Brown Bear(s)
 
-A hungry [brown bear](/3-Mechanics/CLI/bestiary/beast/brown-bear.md) is pulling some low branches off a tree and gnawing on them when it sees the party and moves toward the group in search of tastier food. A character can use an action to try to frighten away the bear, doing so with a successful DC 15 Charisma (Intimidation) check. If the characters kill this bear, the next brown bear encounter (if this result comes up again) is with the bear's mate and `dice:1d4|noform|noparens|avg` (`1d4`) cubs (noncombatants).
+A hungry [brown bear](3-Mechanics/CLI/bestiary/beast/brown-bear.md) is pulling some low branches off a tree and gnawing on them when it sees the party and moves toward the group in search of tastier food. A character can use an action to try to frighten away the bear, doing so with a successful DC 15 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) check. If the characters kill this bear, the next brown bear encounter (if this result comes up again) is with the bear's mate and `1d4` cubs (noncombatants).
 
 #### Chwingas
 
-As the characters navigate the woods or stop to rest, `dice:1d4|noform|noparens|avg` (`1d4`) [chwingas](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) (see appendix C) take an interest in them.
+As the characters navigate the woods or stop to rest, `1d4` [chwingas](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) take an interest in them.
 
 #### Fox and Hare
 
-The characters spot an arctic [fox](/3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) patiently stalking a snowshoe [hare](/3-Mechanics/CLI/bestiary/beast/hare-idrotf.md) (see appendix C for both creatures' stat blocks). If the characters leave the animals alone, roll a `dice:d6|noform|noparens|avg` (`d6`) to determine what happens next. On an odd roll, the hare escapes from the fox; on an even roll, the fox catches the hare and takes it back to its lair.
+The characters spot an arctic [fox](3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) patiently stalking a snowshoe [hare](3-Mechanics/CLI/bestiary/beast/hare-idrotf.md) (see appendix C for both creatures' stat blocks). If the characters leave the animals alone, roll a `d6` to determine what happens next. On an odd roll, the hare escapes from the fox; on an even roll, the fox catches the hare and takes it back to its lair.
 
-Characters can interrupt the fox's hunt and speak to either animal using magic or an ability that facilitates communication with small beasts. Speaking to the fox prompts the hare to flee, and vice versa. A friendly animal can lead the characters to the white moose's tracks in the snow after `dice:1d4|noform|noparens|avg` (`1d4`) hours.
+Characters can interrupt the fox's hunt and speak to either animal using magic or an ability that facilitates communication with small beasts. Speaking to the fox prompts the hare to flee, and vice versa. A friendly animal can lead the characters to the white moose's tracks in the snow after `1d4` hours.
 
 #### Wolf Pack
 
-A pack of `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`) [wolves](/3-Mechanics/CLI/bestiary/beast/wolf.md) descends upon the party. If three or more wolves are killed, the surviving wolves flee.
+A pack of `1d4 + 4` [wolves](3-Mechanics/CLI/bestiary/beast/wolf.md) descends upon the party. If three or more wolves are killed, the surviving wolves flee.
 
 ### Finding the Elven Tomb
 
@@ -156,13 +154,13 @@ When the characters come within sight of the elven tomb, read:
 > The tracks lead to a large, circular indentation in a snowy hillside. Rising from the middle of this circle is a triangular gnomon of beautifully carved crystal that stands twenty feet tall. A ten-foot-high berm hugging the circle's eastern edge has evergreens growing around and atop it, sheltering what looks like a sarcophagus buried under snow and enclosed by a half-circle of pale blue crystal pillars. North of the berm is a delicately carved gazebo made of marble, and south of the berm is a row of outward-facing, white marble statues atop granite pillars.
 ^1f7
 
-If the characters watch the location for an hour or more from a safe distance away, they see the [awakened white moose](/3-Mechanics/CLI/bestiary/beast/awakened-white-moose-idrotf.md) (see the accompanying stat block) emerge from under the hillside, stand in the moon dial, and sniff the air for a few minutes before ambling back toward Lonelywood to continue its reign of terror. If the characters explore the elven tomb without delay, they encounter the moose in area E6.
+If the characters watch the location for an hour or more from a safe distance away, they see the [awakened white moose](3-Mechanics/CLI/bestiary/beast/awakened-white-moose-idrotf.md) (see the accompanying stat block) emerge from under the hillside, stand in the moon dial, and sniff the air for a few minutes before ambling back toward Lonelywood to continue its reign of terror. If the characters explore the elven tomb without delay, they encounter the moose in area E6.
 
 ### Elven Tomb Locations
 
 > [!gallery]
-> ![Map 1.15: Elven Tomb](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/069-map-1-15-elven-tomb.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/070-map-1-15-elven-tomb-player.webp#gallery)
+> ![Map 1.15: Elven Tomb](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/069-map-1-15-elven-tomb.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/070-map-1-15-elven-tomb-player.webp#gallery)
 
 The following locations are keyed to map 1.15. Areas E1 through E5 are outside; areas E6 through E9 are underground.
 
@@ -173,7 +171,7 @@ The following locations are keyed to map 1.15. Areas E1 through E5 are outside; 
 > Six elevated, white marble statues arranged in a line depict slender, robed figures facing northward. The engraving on their faces has been worn away by the wind, but pointed ears make the statues identifiable as elves.
 ^1fa
 
-Each statue is life-sized, depicting an elf standing rigidly atop a 7-foot-high cylindrical base of wind-worn granite. (A seventh statue stands alone atop the northern tip of area E4, facing south. Three more statues, unseen from this vantage point, are located under the hill in area E6.) A detect magic spell or similar magic reveals an aura of abjuration magic around each statue.
+Each statue is life-sized, depicting an elf standing rigidly atop a 7-foot-high cylindrical base of wind-worn granite. (A seventh statue stands alone atop the northern tip of area E4, facing south. Three more statues, unseen from this vantage point, are located under the hill in area E6.) A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic reveals an aura of abjuration magic around each statue.
 
 If all ten statues are toppled, the magical effect that directs the intruders away from the tomb ends (see "Finding the Elven Tomb" above). Toppling a statue requires a combined Strength of 25.
 
@@ -184,7 +182,7 @@ If all ten statues are toppled, the magical effect that directs the intruders aw
 > Embedded in the hillside south of the circular indentation is a stone door with no visible handles or hinges.
 ^1fc
 
-The door is snug and airtight. It can be opened only from the inside (by a creature in area E6) or by using a knock spell or similar magic.
+The door is snug and airtight. It can be opened only from the inside (by a creature in area E6) or by using a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic.
 
 #### E3. Marble Gazebo
 
@@ -208,7 +206,7 @@ The sarcophagus can't be opened until a twig, a pinecone, a feather, and a sever
 
 Once the brazier is functioning, the heavy lid can be lifted or pushed aside. It weighs 500 pounds.
 
-The sarcophagus holds Sahnar, a moon elf [mummy](/3-Mechanics/CLI/bestiary/undead/mummy.md) that animates as soon as the lid no longer prevents it from sitting up. This mummy is chaotic good and acclimated to cold weather. It follows the commands of its liberators until it is reduced to 0 hit points, whereupon it crumbles to dust.
+The sarcophagus holds Sahnar, a moon elf [mummy](3-Mechanics/CLI/bestiary/undead/mummy.md) that animates as soon as the lid no longer prevents it from sitting up. This mummy is chaotic good and acclimated to cold weather. It follows the commands of its liberators until it is reduced to 0 hit points, whereupon it crumbles to dust.
 
 If the mummy receives conflicting orders, it follows whichever command it deems the most sensible, although its Intelligence score of 6 means that it can make bad choices. Sahnar speaks Common and Elvish. The mummy knows how the moon dial functions (see area E5) but knows nothing about the tomb's current inhabitants, Ten-Towns, or the present state of affairs in Icewind Dale, since it has been sealed up for hundreds of years. If the characters return to Ten-Towns with Sahnar in tow, they will need to disguise the elf mummy to keep it from frightening the townsfolk.
 
@@ -233,15 +231,15 @@ Any character who studies the lunar symbols sees tiny inscriptions in Elvish aro
 
 ##### Full Moon Inscription
 
-"Gaze upon your own face and have seven questions answered." The magic mirror in area E7 is activated for as long as the light of the gnomon or a moonbeam spell illuminates this symbol.
+"Gaze upon your own face and have seven questions answered." The magic mirror in area E7 is activated for as long as the light of the gnomon or a [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell illuminates this symbol.
 
 ##### Half-Moon Inscription
 
-"Unlock the tombs of the half moon." While the light of the gnomon or a moonbeam spell illuminates either of the half-moon symbols on the moon dial's face, the doors to areas E8 and E9 can be opened.
+"Unlock the tombs of the half moon." While the light of the gnomon or a [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell illuminates either of the half-moon symbols on the moon dial's face, the doors to areas E8 and E9 can be opened.
 
 #### E6. Barrow
 
-The spacious chamber tucked under the hill is strewn with bones and holds the sleeping forms of several harmless animals (foxes, hares, goats, owls, wolf pups, and young bears) that share the space peacefully. The white moose makes its lair among these creatures as well when it's not out terrorizing Ten-Towners. If the characters didn't wait outside to encounter the [awakened white moose](/3-Mechanics/CLI/bestiary/beast/awakened-white-moose-idrotf.md) (see the stat block), it fights them here, which startles and scares away the other animals. If the frost druid in area E9 hears sounds of battle in this room, she remains where she is, preferring to make a final stand there.
+The spacious chamber tucked under the hill is strewn with bones and holds the sleeping forms of several harmless animals (foxes, hares, goats, owls, wolf pups, and young bears) that share the space peacefully. The white moose makes its lair among these creatures as well when it's not out terrorizing Ten-Towners. If the characters didn't wait outside to encounter the [awakened white moose](3-Mechanics/CLI/bestiary/beast/awakened-white-moose-idrotf.md) (see the stat block), it fights them here, which startles and scares away the other animals. If the frost druid in area E9 hears sounds of battle in this room, she remains where she is, preferring to make a final stand there.
 
 ##### Statues
 
@@ -254,20 +252,20 @@ In addition to the animals, this area contains three white marble statues of elv
 > The underground passage narrows before ending at a wall upon which is mounted an oval mirror seven feet tall and half as wide, encircled by a decorative stone frame.
 ^208
 
-The mirror's stone frame glows with silvery, scintillating light as long as the moon dial's light or a moonbeam spell is illuminating the symbol of the full moon in area E5. While its frame is lit, the mirror functions like an ordinary crystal ball. Currently, the mirror is attuned to the white moose, which uses it to locate hunters and loggers it is familiar with. After clearing the snow covering the moon dial, the frost druid uses a moonbeam spell to light the full moon symbol on the moon dial's face, activating the mirror so the moose can use it. If the moose dies or another creature attunes to the mirror, the moose's attunement ends.
+The mirror's stone frame glows with silvery, scintillating light as long as the moon dial's light or a [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell is illuminating the symbol of the full moon in area E5. While its frame is lit, the mirror functions like an ordinary crystal ball. Currently, the mirror is attuned to the white moose, which uses it to locate hunters and loggers it is familiar with. After clearing the snow covering the moon dial, the frost druid uses a [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell to light the full moon symbol on the moon dial's face, activating the mirror so the moose can use it. If the moose dies or another creature attunes to the mirror, the moose's attunement ends.
 
 The mirror is held to the wall with sovereign glue and can't be removed without shattering it. Once broken, the mirror's magic is gone forever.
 
 #### E8. First Tomb of the Half-Moon
 
-The stone door to this tomb is engraved with a white semicircle (the symbol of a half-moon), with its rounded edge facing toward the right. The door is locked from the outside unless the light of the gnomon or a moonbeam spell illuminates one of the half-moon symbols on the moon dial in area E5. A knock spell or similar magic also opens the door. It pushes open easily from the inside.
+The stone door to this tomb is engraved with a white semicircle (the symbol of a half-moon), with its rounded edge facing toward the right. The door is locked from the outside unless the light of the gnomon or a [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell illuminates one of the half-moon symbols on the moon dial in area E5. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic also opens the door. It pushes open easily from the inside.
 
 > [!readaloud] 
 > 
 > This circular chamber has an intricately carved, domed ceiling twenty feet high. A beam of light shines down from the top of the dome, illuminating a rectangular stone sarcophagus.
 ^20a
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/071-01-034-wolf.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/071-01-034-wolf.webp#center)
 
 The light that shines down upon the sarcophagus is a minor magical effect that can be dispelled.
 
@@ -281,7 +279,7 @@ The sarcophagus's 350-pound lid can be lifted or pushed aside. Inside the sarcop
 
 The stone door to this tomb is engraved with a white semicircle (the symbol of a half-moon), with its rounded edge facing toward the left.
 
-The door is locked from the outside unless the light of the gnomon or a moonbeam spell illuminates one of the half-moon symbols on the moon dial in area E5. A knock spell or similar magic also opens the door. It pushes open easily from the inside.
+The door is locked from the outside unless the light of the gnomon or a [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell illuminates one of the half-moon symbols on the moon dial in area E5. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic also opens the door. It pushes open easily from the inside.
 
 > [!readaloud] 
 > 
@@ -290,27 +288,27 @@ The door is locked from the outside unless the light of the gnomon or a moonbeam
 
 The light that shines down on the sarcophagus is a minor magical effect that can be dispelled.
 
-![Ravisin and an Awakened Shrub](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/072-01-035-ravisin.webp#center)
+![Ravisin and an Awakened Shrub](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/072-01-035-ravisin.webp#center)
 
-When she hears the door open, Ravisin the [frost druid](/3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C) ducks behind the sarcophagus. Hidden alongside her is an [awakened shrub](/3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) (a berry bush) that follows Ravisin everywhere, in case the druid gets hungry and wants some berries to munch on. Eating the berries has stained the druid's teeth blue.
+When she hears the door open, Ravisin the [frost druid](3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C) ducks behind the sarcophagus. Hidden alongside her is an [awakened shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) (a berry bush) that follows Ravisin everywhere, in case the druid gets hungry and wants some berries to munch on. Eating the berries has stained the druid's teeth blue.
 
-The druid climbs onto the sarcophagus when characters enter the tomb and shouts, in Common, "Ten-Towns will be destroyed—if not by my hand, then by the Frostmaiden's!" The druid then attacks, fighting to the death. If a character who has the Doppelganger secret (see appendix B) fails their saving throw against the druid's moonbeam spell, remember that the spell reveals the character's true (doppelganger) form.
+The druid climbs onto the sarcophagus when characters enter the tomb and shouts, in Common, "Ten-Towns will be destroyed—if not by my hand, then by the Frostmaiden's!" The druid then attacks, fighting to the death. If a character who has the Doppelganger secret (see appendix B) fails their saving throw against the druid's [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spell, remember that the spell reveals the character's true (doppelganger) form.
 
 When she is reduced to 0 hit points, Ravisin uses her last, gasping breath to say, "My beasts will avenge us!"
 
 ##### Awakened Shrub
 
-The [awakened shrub](/3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) is terrified of Ravisin and doubly frightened of fire. It fights only in self-defense. Growing on its branches are `dice:2d20|noform|noparens|avg` (`2d20`) tasty berries, which it allows characters to pick if they let it live. The shrub speaks Common and can share the following information once the frost druid is dealt with:
+The [awakened shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub.md) is terrified of Ravisin and doubly frightened of fire. It fights only in self-defense. Growing on its branches are `2d20` tasty berries, which it allows characters to pick if they let it live. The shrub speaks Common and can share the following information once the frost druid is dealt with:
 
 - Ravisin blamed Ten-Towners for the death of her twin sister, also a frost druid. (The shrub doesn't know how or when Ravisin's sister died.) Ravisin hides her sister's corpse in the sarcophagus.  
-- Ravisin awakened many beasts and plants throughout Icewind Dale. Some of them, such as the white moose, are of an evil bent. Others aren't. Ravisin often complained about the scruples of the plesiosaurus she awakened in Maer Dualdon (see "Lake Monster").  
-- Ravisin used moonbeam spells to trigger the moon dial, enabling the white moose to scry on loggers and hunters by using the magic mirror in area E7.  
+- Ravisin [awakened](3-Mechanics/CLI/spells/awaken.md) many beasts and plants throughout Icewind Dale. Some of them, such as the white moose, are of an evil bent. Others aren't. Ravisin often complained about the scruples of the plesiosaurus she awakened in Maer Dualdon (see "Lake Monster").  
+- Ravisin used [moonbeam](3-Mechanics/CLI/spells/moonbeam.md) spells to trigger the moon dial, enabling the white moose to scry on loggers and hunters by using the magic mirror in area E7.  
 
 ##### Sarcophagus
 
-The contents of an herbalism kit are spread across the top of the sarcophagus, which the druid uses as a worktable. The sarcophagus lid weighs 350 pounds, and moving it aside causes the tomb to fill with a horrible stench of decay.
+The contents of an [herbalism kit](3-Mechanics/CLI/items/herbalism-kit.md) are spread across the top of the sarcophagus, which the druid uses as a worktable. The sarcophagus lid weighs 350 pounds, and moving it aside causes the tomb to fill with a horrible stench of decay.
 
-The sarcophagus contains the rotting corpse of Ravisin's twin sister, Vurnis. Any character who examines the corpse and succeeds on a DC 10 Wisdom (Medicine) check determines that her death occurred months ago, but the cold has slowed the decomposition of the body. A speak with dead spell cast on the corpse reveals that Vurnis was killed by hunters near Lonelywood.
+The sarcophagus contains the rotting corpse of Ravisin's twin sister, Vurnis. Any character who examines the corpse and succeeds on a DC 10 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check determines that her death occurred months ago, but the cold has slowed the decomposition of the body. A [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md) spell cast on the corpse reveals that Vurnis was killed by hunters near Lonelywood.
 
 ##### Treasure
 
@@ -320,4 +318,4 @@ Tucked under Vurnis's corpse is a sharkskin pouch that contains two potions in c
 
 Once they slay the awakened white moose, the characters can return to Lonelywood with proof of the moose's demise. After every three hours the characters spend in the forest, check for a random encounter using the Lonelywood Forest Encounters table.
 
-If Ravisin the frost druid is not dealt with, Lonelywood is doomed to experience more of the same harassment from newly awakened beasts such as [polar bears](/3-Mechanics/CLI/bestiary/beast/polar-bear.md), [woolly rhinoceroses](/3-Mechanics/CLI/bestiary/beast/rhinoceros.md), and [saber-toothed tigers](/3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md).
+If Ravisin the frost druid is not dealt with, Lonelywood is doomed to experience more of the same harassment from newly awakened beasts such as [polar bears](3-Mechanics/CLI/bestiary/beast/polar-bear.md), [woolly rhinoceroses](3-Mechanics/CLI/bestiary/beast/rhinoceros.md), and [saber-toothed tigers](3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md).

@@ -5,18 +5,18 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Chapter 6: Night of Blue Fire
+- "Chapter 6: Night of Blue Fire"
 ---
 # Chapter 6: Night of Blue Fire
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 111* 
 
-![To retrieve the fifth rod ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/090-06-001-vault-infiltration.webp#center "To retrieve the fifth rod piece, the characters must infiltrate Three Moons Vault, a complex teeming with allies of the evil Lord Soth")
+![To retrieve the fifth rod piece, the characters must infiltrate Three Moons Vault, a complex teeming with allies of the evil Lord Soth](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/090-06-001-vault-infiltration.webp#center)
 
-To find the next piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), the characters must travel to the world of Krynn where the Blue Fire Wardens, a coalition of benevolent lycanthropes, have clashed with the death knight [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) and his minions. By infiltrating a heavily fortified keep, rescuing the Blue Fire Wardens' leader, and unraveling the schemes of the evil mage Teremini Nightsedge, the characters can claim the fifth rod piece.
+To find the next piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), the characters must travel to the world of Krynn where the Blue Fire Wardens, a coalition of benevolent lycanthropes, have clashed with the death knight Lord Soth and his minions. By infiltrating a heavily fortified keep, rescuing the Blue Fire Wardens' leader, and unraveling the schemes of the evil mage Teremini Nightsedge, the characters can claim the fifth rod piece.
 
 ## Running This Chapter
 
-This chapter begins after the characters retrieve the fourth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). When a character holds this piece, they instinctively know that the fifth piece is located somewhere on the war-torn world of Krynn. That character senses that the fifth piece is located near a massive, magical tree, in a region called the Northern Dargaard Mountains, but this indication seems inexact. The fifth piece's location is unclear to the characters.
+This chapter begins after the characters retrieve the fourth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). When a character holds this piece, they instinctively know that the fifth piece is located somewhere on the war-torn world of Krynn. That character senses that the fifth piece is located near a massive, magical tree, in a region called the Northern Dargaard Mountains, but this indication seems inexact. The fifth piece's location is unclear to the characters.
 
 Neither the characters nor the Wizards Three know why the location of the fifth piece is ambiguous. In truth, the fifth piece was housed in the tree until recently, when it was taken to a nearby castle called Three Moons Vault. The crimson moonlight that now surrounds the castle warps the rod's magical properties. To retrieve the fifth rod piece, the characters must dispel the magical moonlight by disrupting a wicked ritual in the vault.
 
@@ -24,22 +24,22 @@ This chapter starts when the characters step through the portal in Sigil, emerge
 
 ### Character Advancement
 
-The characters should be 15th level when this chapter begins. The characters gain a level after they retrieve the fifth piece of [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from the upper level of Three Moons Vault.
+The characters should be 15th level when this chapter begins. The characters gain a level after they retrieve the fifth piece of [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) from the upper level of Three Moons Vault.
 
 ### Power of Secrets
 
 The characters can learn two secrets in this chapter that are applicable to the rules in "The Power of Secrets" section in this book's introduction:
 
-- **Gazaia's Secret.** The [dryad](/3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) Gazaia hid and watched while soldiers attacked the peylon tree where she lived and looted the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), which was sustaining the tree. Gazaia now hides in the grotto (area P4) described in the "Peylon Tree Locations" section later in this chapter.  
-- **Valendar's Secret.** The [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) Valendar led an assault against his enemies without properly planning the mission. Valendar is the leader of the Blue Fire Wardens and is held captive in area V7 of the Three Moons Vault.  
+- **Gazaia's Secret.** The [dryad](3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) Gazaia hid and watched while soldiers attacked the peylon tree where she lived and looted the fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), which was sustaining the tree. Gazaia now hides in the grotto (area P4) described in the "Peylon Tree Locations" section later in this chapter.  
+- **Valendar's Secret.** The [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) Valendar led an assault against his enemies without properly planning the mission. Valendar is the leader of the Blue Fire Wardens and is held captive in area V7 of the Three Moons Vault.  
 
 ### Fifth Rod Piece
 
-The fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area U5 in the upper level of the Three Moons Vault. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
+The fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area U5 in the upper level of the Three Moons Vault. For more information about the rod and the spell this piece allows its wielder to cast, see this book's introduction.
 
 ## Krynn
 
-Once the characters decide to seek the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), the portal in the Sigil sanctum takes them to the world of Krynn, where evil plots complicate the party's search.
+Once the characters decide to seek the fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), the portal in the Sigil sanctum takes them to the world of Krynn, where evil plots complicate the party's search.
 
 ### Knowledge of Krynn
 
@@ -47,7 +47,7 @@ The libraries in Sigil contain the following useful information about Krynn:
 
 - **Dragons of Krynn.** Dragons have a strong presence on Krynn. Chromatic dragons swear allegiance to the expansionistic Dragon Armies of Queen Takhisis. Unusual dragons such as sapphire dragons and lunar dragons pursue hidden agendas.  
 - **Ruins of the Cataclysm.** A world-shattering event called the Cataclysm swept across Krynn centuries ago. The apocalypse destroyed nations, unleashed monsters, and cast Krynn into a dark age.  
-- **War Torn.** Recently, war has spread across Krynn. Infamous warlords such as the elf mage Feal-Thas and the death knight [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md) (see appendix B) have taken up arms in their bids for greater power.  
+- **War Torn.** Recently, war has spread across Krynn. Infamous warlords such as the elf mage Feal-Thas and the death knight Lord Soth (see appendix B) have taken up arms in their bids for greater power.  
 
 ## Arriving on Krynn
 
@@ -62,11 +62,11 @@ When the party steps through the Sigil portal and arrives on Krynn, they arrive 
 
 The fourth rod piece points its wielder to a dying peylon tree. This peylon tree grew to a titanic height thanks to the magic of the rod piece that was previously embedded in its trunk. The rod piece was recently removed, resulting in the tree's current state of decay.
 
-The tree still bears traces of the rod's magic. The fourth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) points here due to those traces, and the crimson moonlight and latent magic from the Three Moons Vault warps the artifact's divinatory properties. The characters must investigate the tree and talk to its occupants to learn the fifth rod piece's true whereabouts.
+The tree still bears traces of the rod's magic. The fourth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) points here due to those traces, and the crimson moonlight and latent magic from the Three Moons Vault warps the artifact's divinatory properties. The characters must investigate the tree and talk to its occupants to learn the fifth rod piece's true whereabouts.
 
 ## The Peylon Tree
 
-![An enormous, magical tree ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/091-06-001-magical-tree.webp#center "An enormous, magical tree seems to be the location of the next rod piece, though the characters soon learn the piece is elsewhere")
+![An enormous, magical tree seems to be the location of the next rod piece, though the characters soon learn the piece is elsewhere](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/091-06-001-magical-tree.webp#center)
 
 The characters begin their exploration of the peylon tree at area P1. When they arrive at the tree, read or paraphrase the following:
 
@@ -87,8 +87,8 @@ The peylon tree has the following features:
 The following locations are keyed to map 6.1.
 
 > [!gallery]
-> ![Map 6.1: Peylon Tree](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/092-6-01-peylon-tree.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/093-6-01-peylon-tree-player.webp#gallery)
+> ![Map 6.1: Peylon Tree](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/092-6-01-peylon-tree.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/093-6-01-peylon-tree-player.webp#gallery)
 
 #### P1: Rotted Roots
 
@@ -97,7 +97,7 @@ The following locations are keyed to map 6.1.
 > Thick, gnarled roots spread in all directions. A gaping fissure at the base of the tree forms a rough, arched entrance into the trunk.
 ^2ce
 
-A character who examines the ground around the tree can make a DC 14 Wisdom (Perception) or Wisdom (Survival) check. On a successful check, the character spots vague humanoid footprints in the soft dirt. The tracks lead into area P2.
+A character who examines the ground around the tree can make a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check. On a successful check, the character spots vague humanoid footprints in the soft dirt. The tracks lead into area P2.
 
 ##### Alternative Entrance
 
@@ -110,7 +110,7 @@ A character who scales the roots that form a mound along the east side of the tr
 > A ledge of interwoven roots and packed dirt hangs sixty feet above the hollow's eastern half, and a boulder leans against the hollow's northern wall.
 ^2d1
 
-The fourth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) points its wielder to the boulder along the tree's interior northwest curve.
+The fourth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) points its wielder to the boulder along the tree's interior northwest curve.
 
 If the characters enter this area from area P1, they attract the attention of the treant and spiders dwelling on the ledge above (see area P3).
 
@@ -127,9 +127,9 @@ A creature can spend 1 minute digging to widen the hole so Medium creatures can 
 > This thick, tangled mat of roots overlooks a broad hollow within the peylon tree's trunk.
 ^2d4
 
-Rosintar, a neutral evil [treant](/3-Mechanics/CLI/bestiary/plant/treant.md) who hates intruders, hides on this ledge above area P2. Two [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) lurk in the ledge's corner and follow Rosintar's commands.
+Rosintar, a neutral evil [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md) who hates intruders, hides on this ledge above area P2. Two [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) lurk in the ledge's corner and follow Rosintar's commands.
 
-While motionless, Rosintar is indistinguishable from the rest of the peylon tree. A character looking out for trouble notices the two giant spiders with a successful DC 17 Wisdom (Perception) check. Shortly after the characters arrive in area P2, Rosintar silently signals for the spiders to sneak up on the party. Any character with a passive Wisdom (Perception) score of 15 or higher notices the spiders readying to attack. As soon as the spiders attack, Rosintar hurls a rock at a random character, then fights viciously to drive the intruders away.
+While motionless, Rosintar is indistinguishable from the rest of the peylon tree. A character looking out for trouble notices the two giant spiders with a successful DC 17 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Shortly after the characters arrive in area P2, Rosintar silently signals for the spiders to sneak up on the party. Any character with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 15 or higher notices the spiders readying to attack. As soon as the spiders attack, Rosintar hurls a rock at a random character, then fights viciously to drive the intruders away.
 
 If the treant notices characters arriving on the ledge via the alternative entrance (see area P1), it screeches in surprise and attacks the intruders.
 
@@ -148,7 +148,7 @@ It's a 50-foot drop from the hole in area P2 to the floor of this underground ch
 > Tangled roots anchor the dirt walls of this damp, subterranean chamber. The rinds of large, rotten fruits litter the floor. A thick taproot hangs from the ceiling. In one corner of the grotto, a kender wearing a blue cloak rummages in the dirt on hands and knees.
 ^2d7
 
-The rummaging figure is a kender named Riffel who also happens to be a werewolf (use the [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) stat block, except Riffel's size is Small and his alignment is neutral good). When Riffel realizes he has company, he jumps to his feet and draws his spear, but he doesn't fight unless attacked. He is initially wary of the characters but is willing to hear them out. If a character mentions the rod piece, or if a character tries to befriend Riffel and succeeds on a DC 13 Charisma (Persuasion) check, Riffel relaxes and puts away his weapon.
+The rummaging figure is a kender named Riffel who also happens to be a werewolf (use the [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) stat block, except Riffel's size is Small and his alignment is neutral good). When Riffel realizes he has company, he jumps to his feet and draws his spear, but he doesn't fight unless attacked. He is initially wary of the characters but is willing to hear them out. If a character mentions the rod piece, or if a character tries to befriend Riffel and succeeds on a DC 13 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, Riffel relaxes and puts away his weapon.
 
 ##### Riffel's Quest
 
@@ -161,7 +161,7 @@ If the characters mention the rod piece, Riffel says:
 > "The artifact was taken to the Three Moons Vault, but you'd be foolish to simply walk in and try to take it. I can sneak you into the vault—but first, I need your help."
 ^2d9
 
-Riffel explains that he needs the peylon fruit to distract a [borthak](/3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md)—a bog monster that attacked the Blue Fire Wardens and trapped Riffel's allies.
+Riffel explains that he needs the peylon fruit to distract a [borthak](3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md)—a bog monster that attacked the Blue Fire Wardens and trapped Riffel's allies.
 
 Riffel continues his explanation:
 
@@ -172,7 +172,7 @@ Riffel continues his explanation:
 
 ### The Deadbark Dryad
 
-As Riffel and the characters talk, the peylon tree's guardian emerges from the grotto's wall and stands before her uninvited guests. This is Gazaia, a [deadbark dryad](/3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) (see appendix A). Annoyed at the disturbance, Gazaia tells the party and Riffel to state their business or leave her sanctum at once.
+As Riffel and the characters talk, the peylon tree's guardian emerges from the grotto's wall and stands before her uninvited guests. This is Gazaia, a [deadbark dryad](3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) (see appendix A). Annoyed at the disturbance, Gazaia tells the party and Riffel to state their business or leave her sanctum at once.
 
 #### The Last Peylon Fruit
 
@@ -180,7 +180,7 @@ Gazaia says that there is one ripe peylon fruit left in this tree, and she's wil
 
 > [!note] Kender
 > 
-> The NPC Riffel is a kender [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md). On the world of Krynn, kender are a race of Humanoid creatures with pointed ears. They are similar to halflings on other worlds and about the same size. For more information about kender, see Dragonlance: Shadow of the Dragon Queen.
+> The NPC Riffel is a kender [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md). On the world of Krynn, kender are a race of Humanoid creatures with pointed ears. They are similar to halflings on other worlds and about the same size. For more information about kender, see Dragonlance: Shadow of the Dragon Queen.
 ^kender
 
 #### Bargaining with Gazaia
@@ -189,7 +189,7 @@ Gazaia can convey the following points to the party:
 
 - **Corruption of Soth.** Not long ago, Gazaia and her tree were verdant and thriving. A powerful artifact buried in this hill—the rod piece—infused the peylon tree with its magic and enticed Gazaia to become the tree's guardian. When Lord Soth's soldiers recently stole the artifact, Gazaia failed to defend her charge. The tree turned fetid without the artifact, and Gazaia became angry, vengeful, and grief-stricken.  
 - **Gazaia's Anger.** If the characters refuse Gazaia's offer and fail to promptly leave, or if Gazaia catches a character attempting to take the peylon fruit by stealth or force, she attacks the party viciously and fights until destroyed.  
-- **Gazaia's Secret.** The [deadbark dryad](/3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) bitterly recounts the tale of Lord Soth's soldiers assaulting the tree. If a character tries to comfort Gazaia, she confesses that she hid while the soldiers were around the tree. Gazaia feels extremely guilty that she didn't defend her charge. Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the Power of Secrets rules in this book's introduction.  
+- **Gazaia's Secret.** The [deadbark dryad](3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md) bitterly recounts the tale of Lord Soth's soldiers assaulting the tree. If a character tries to comfort Gazaia, she confesses that she hid while the soldiers were around the tree. Gazaia feels extremely guilty that she didn't defend her charge. Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the Power of Secrets rules in this book's introduction.  
 
 #### Gazaia's Death
 
@@ -201,14 +201,14 @@ Once the party has the peylon fruit, they can leave the peylon tree with Riffel 
 
 ## Bittergrass Fen
 
-To help Riffel save his fellow wardens, the characters must follow the kender [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) to a marshy lowland called Bittergrass Fen.
+To help Riffel save his fellow wardens, the characters must follow the kender [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) to a marshy lowland called Bittergrass Fen.
 
 ### Journey to Bittergrass Fen
 
 By foot, the trek to Bittergrass Fen takes an hour. Along the way, Riffel conveys the following:
 
-- **Teremini's Vault.** The Three Moons Vault is a heavily fortified keep in the nearby mountains. It's overseen by the [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md) Teremini Nightsedge, who serves the dreaded Lord Soth.  
-- **The Stolen Shard.** Teremini's soldiers stole a magical shard at the heart of the peylon tree. The tree and its dryad became corrupted shortly thereafter. (The characters are certain this is the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md).)  
+- **Teremini's Vault.** The Three Moons Vault is a heavily fortified keep in the nearby mountains. It's overseen by the [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) Teremini Nightsedge, who serves the dreaded Lord Soth.  
+- **The Stolen Shard.** Teremini's soldiers stole a magical shard at the heart of the peylon tree. The tree and its dryad became corrupted shortly thereafter. (The characters are certain this is the fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md).)  
 - **The Blue Fire Wardens.** Riffel is a member of the Blue Fire Wardens: benevolent lycanthropes and trackers who oppose Lord Soth and worship the nature god Habbakuk. The wardens' attack on the Three Moons Vault was a catastrophic failure that resulted in the capture of the group's leader, Valendar. Valendar knows more about the vault and the stolen rod piece than any of the other wardens.  
 
 ### Approaching the Fen
@@ -216,8 +216,8 @@ By foot, the trek to Bittergrass Fen takes an hour. Along the way, Riffel convey
 Once the party arrives at Bittergrass Fen, show your players map 6.2. Read the following to describe the scene:
 
 > [!gallery]
-> ![Map 6.2: Bittergrass Fen](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/094-6-02-bittergrass-fen.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/095-6-02-bittergrass-fen-player.webp#gallery)
+> ![Map 6.2: Bittergrass Fen](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/094-6-02-bittergrass-fen.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/095-6-02-bittergrass-fen-player.webp#gallery)
 
 > [!readaloud] 
 > 
@@ -226,9 +226,9 @@ Once the party arrives at Bittergrass Fen, show your players map 6.2. Read the f
 > An enormous, slavering monster attacks the bluff face, where a stone arch marks the entrance to an underground temple. A crumbling stone door separates the monster from the temple's interior.
 ^2e5
 
-The Blue Fire Wardens are trapped inside their own temple. If the characters don't intervene, the [borthak](/3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md) (see appendix A) will soon break through the temple door.
+The Blue Fire Wardens are trapped inside their own temple. If the characters don't intervene, the [borthak](3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md) (see appendix A) will soon break through the temple door.
 
-The [borthak](/3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md) is too large to fit through the stone door and into the temple, though smaller creatures can slip through with some effort. Left alone, the borthak uses its action on each of its turns to attack the temple door. The door has AC 20, 225 hit points, and immunity to poison and psychic damage. If the borthak succeeds in breaking down the door, it enters the temple and attacks the seven wardens (use the [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) stat block, except their alignments are neutral good) who are trapped inside.
+The [borthak](3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md) is too large to fit through the stone door and into the temple, though smaller creatures can slip through with some effort. Left alone, the borthak uses its action on each of its turns to attack the temple door. The door has AC 20, 225 hit points, and immunity to poison and psychic damage. If the borthak succeeds in breaking down the door, it enters the temple and attacks the seven wardens (use the [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) stat block, except their alignments are neutral good) who are trapped inside.
 
 The underground temple isn't shown on map 6.2. Hewn out of the rock and earth, it has a central gathering area and six adjoining cells, where the wardens sleep and pray behind thin wooden doors. The temple contains supplies but nothing of value.
 
@@ -238,34 +238,34 @@ If one or more characters attack the borthak, it stops attacking the temple long
 
 As an action, a character can use a ripe peylon fruit to distract the borthak. If the fruit is hurled toward the borthak, the monster moves toward the fruit on its next turn and uses its action to devour it. If a character holding the fruit moves within 20 feet of the borthak, the borthak pursues and attacks that character, eager to obtain the fruit.
 
-While characters contend with the [borthak](/3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md), Riffel moves quickly toward the temple door and crawls through a narrow gap underneath it. The gap is just big enough for a Small character to squeeze through. Once inside, Riffel urges the other wardens to evacuate the temple while the borthak is distracted. On Riffel's next turn, he and the wardens push open the temple door so everyone can escape. Once outside, they skirt along the bluff, heading north. If one or more characters assist with the evacuation, they can keep an eye on the borthak and distract it if necessary while Riffel helps the wardens get to safety.
+While characters contend with the [borthak](3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md), Riffel moves quickly toward the temple door and crawls through a narrow gap underneath it. The gap is just big enough for a Small character to squeeze through. Once inside, Riffel urges the other wardens to evacuate the temple while the borthak is distracted. On Riffel's next turn, he and the wardens push open the temple door so everyone can escape. Once outside, they skirt along the bluff, heading north. If one or more characters assist with the evacuation, they can keep an eye on the borthak and distract it if necessary while Riffel helps the wardens get to safety.
 
 ### Bittergrass Fen Features
 
-The fen has features the characters can use to their advantage in a confrontation with the [borthak](/3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md):
+The fen has features the characters can use to their advantage in a confrontation with the [borthak](3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md):
 
-- **Floating Boulders.** The boulders floating above the stone pillars are held aloft by ancient druidic magic. Casting Dispel Magic on a boulder causes it to fall and tumble to the ground. As an action, a character within reach of a floating boulder can try to push it, doing so with a successful DC 15 Strength (Athletics) check. Pushing the boulder ends the magic on it and causes it to fall in whichever direction the character prefers. Any creature in the path of a falling boulder must succeed on a DC 15 Dexterity saving throw to avoid it, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage on a failed save.  
+- **Floating Boulders.** The boulders floating above the stone pillars are held aloft by ancient druidic magic. Casting [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a boulder causes it to fall and tumble to the ground. As an action, a character within reach of a floating boulder can try to push it, doing so with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Pushing the boulder ends the magic on it and causes it to fall in whichever direction the character prefers. Any creature in the path of a falling boulder must succeed on a DC 15 Dexterity saving throw to avoid it, taking 11 (`2d10`) bludgeoning damage on a failed save.  
 - **Muddy Bank.** The ground within 20 feet of the creek's eastern shore has turned to sticky mud and is "difficult terrain".  
 
 ### Escaping the Fen
 
 Once all the wardens escape the temple, each warden transforms into a wolf and flees from the borthak. End the characters' encounter with the borthak when they defeat it or after they and all the wardens have escaped, whichever happens first.
 
-![A terrifying monster calle...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/096-06-002-borthak.webp#center "A terrifying monster called a borthak has trapped several Blue Fire Wardens in Bittergrass Fen")
+![A terrifying monster called a borthak has trapped several Blue Fire Wardens in Bittergrass Fen](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/096-06-002-borthak.webp#center)
 
 ## The Blue Fire Wardens
 
-Once the wardens are safe, a human werewolf named Argentia Skywright (use the [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) stat block, except her alignment is neutral good) thanks the characters on behalf of her group. She expands on what Riffel told the party earlier about the Three Moons Vault, conveying the following points:
+Once the wardens are safe, a human werewolf named Argentia Skywright (use the [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) stat block, except her alignment is neutral good) thanks the characters on behalf of her group. She expands on what Riffel told the party earlier about the Three Moons Vault, conveying the following points:
 
-![Argentira Skywright](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/097-06-003-argentira-skywright.webp#center)
+![Argentira Skywright](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/097-06-003-argentira-skywright.webp#center)
 
-- **Blue Fire Attack.** Shortly after Teremini Nightsedge's soldiers seized the rod fragment from the peylon tree, the Blue Fire Wardens assaulted the Three Moons Vault. They refer to their attack as the Night of Blue Fire. Teremini, a renegade from the Mages of High Sorcery's Order of the Red Robes, foresaw the attack and used powerful lunar magic to create a shroud of transformative red moonlight around the vault. [Werewolves](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) that step into this moonlight lose control of their powers and succumb to raw, animalistic instinct, making it easier for Teremini to manipulate or trap them.  
+- **Blue Fire Attack.** Shortly after Teremini Nightsedge's soldiers seized the rod fragment from the peylon tree, the Blue Fire Wardens assaulted the Three Moons Vault. They refer to their attack as the Night of Blue Fire. Teremini, a renegade from the Mages of High Sorcery's Order of the Red Robes, foresaw the attack and used powerful lunar magic to create a shroud of transformative red moonlight around the vault. [Werewolves](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) that step into this moonlight lose control of their powers and succumb to raw, animalistic instinct, making it easier for Teremini to manipulate or trap them.  
 - **Mage's Ritual.** Teremini learned her red moonlight magic from a lunar dragon named Orinix. Orinix also taught Teremini a ritual to make the wall of transformative moonlight permanent and tasked her with completing this lengthy, taxing ritual. While she focuses on the ritual, powerful magical barriers surround Teremini and her ritual components, which include the fifth rod piece.  
 - **Stopping the Ritual.** Argentia insists there must be a way to disrupt Teremini's ritual so the characters can seize the rod piece. She encourages the characters to find and rescue Valendar, the wardens' imprisoned leader, who might know how to stop Teremini's ritual.  
 
 ### Wardens' Aid
 
-Argentia gives the characters a Spell Scroll of Moonbeam. She also explains that if Valendar is stuck in his wolf or hybrid form, they must bring Valendar close to death before he'll return to his true form, which is a human.
+Argentia gives the characters a [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md). She also explains that if Valendar is stuck in his wolf or hybrid form, they must bring Valendar close to death before he'll return to his true form, which is a human.
 
 Riffel agrees to take the characters to the Three Moons Vault's secret entrance. Before the party leaves, Argentia leads a quick rite to cast a protective ward over Riffel. For the next 12 hours, Riffel and allies within 10 feet of him are immune to the Forced Transformation effect of Teremini's curtain of red moonlight (see the "Environmental Effects" subsection of the "Three Moons Vault" section). The wardens have enough power to cast this ritual only once, so it's imperative Riffel return to Bittergrass Fen with Valendar as soon as possible.
 
@@ -279,9 +279,9 @@ The Cataclysm destroyed the white tower, disrupting the balance of magic between
 
 ### Teremini Nightsedge
 
-A lawful evil, elf [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md) named Teremini Nightsedge oversees the Three Moons Vault. Though a loyal servant of Lord Soth, Teremini has her own agenda for the ancient moon towers. When she was young, Teremini tried to join the wardens but was rejected after her reverence of Lord Soth became clear. Now, she hopes to complete her revenge by permanently shrouding the vault in crimson moonlight, kidnapping the Blue Fire Wardens she hates so deeply, and bringing them here to be slain, thereby completing her revenge. Thanks to her recent acquisition of a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), Teremini has commenced her plan.
+A lawful evil, elf [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) named Teremini Nightsedge oversees the Three Moons Vault. Though a loyal servant of Lord Soth, Teremini has her own agenda for the ancient moon towers. When she was young, Teremini tried to join the wardens but was rejected after her reverence of Lord Soth became clear. Now, she hopes to complete her revenge by permanently shrouding the vault in crimson moonlight, kidnapping the Blue Fire Wardens she hates so deeply, and bringing them here to be slain, thereby completing her revenge. Thanks to her recent acquisition of a piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), Teremini has commenced her plan.
 
-![Teremini Nightsedge](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/098-06-004-teremini-nightsedge.webp#center)
+![Teremini Nightsedge](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/098-06-004-teremini-nightsedge.webp#center)
 
 ### The Characters' Goals
 
@@ -297,7 +297,7 @@ If the characters rescue Valendar, he tells them that Teremini needs three speci
 
 #### Get the Rod Piece
 
-Teremini is using a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) as part of a ritual that would permanently shroud the vault and a 1-mile radius around it in magical crimson moonlight. The characters need to disrupt Teremini's ritual before they can retrieve the rod piece. They can then return to Sigil.
+Teremini is using a piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) as part of a ritual that would permanently shroud the vault and a 1-mile radius around it in magical crimson moonlight. The characters need to disrupt Teremini's ritual before they can retrieve the rod piece. They can then return to Sigil.
 
 ### Environmental Effects
 
@@ -305,7 +305,7 @@ The magical red moonlight that surrounds the Three Moons Vault is temporary, alt
 
 #### Forced Transformation
 
-A [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) that enters the red moonlight changes into its wolf or hybrid form, and it has the poisoned condition as long as it is within 1 mile of Three Moons Vault. As long as it remains in this area, the creature can't willingly change shape unless it is reduced to 10 hit points or fewer; a Remove Curse spell suppresses Forced Transformation for 1 hour.
+A [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) that enters the red moonlight changes into its wolf or hybrid form, and it has the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition as long as it is within 1 mile of Three Moons Vault. As long as it remains in this area, the creature can't willingly change shape unless it is reduced to 10 hit points or fewer; a [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell suppresses Forced Transformation for 1 hour.
 
 #### Reduced Gravity
 
@@ -337,15 +337,15 @@ Unless otherwise noted, interior areas are dark. Area descriptions assume the ch
 
 Several areas in the vault contain objects known as moonlight mirrors, which each reflect a powerful beam of light from one of Krynn's moons. Moonlight mirrors can be used to disrupt Teremini's ritual, as described later in this chapter.
 
-A moonlight mirror is a Medium object with AC 13; 5 hit points; and immunity to poison, psychic, and radiant damage. A Detect Magic spell reveals an aura of evocation magic emanating from the mirror. Unless covered, the reflective side of a moonlight mirror casts bright light in a 20-foot hemisphere, in the color of the moon the mirror reflects. The text notes which ability checks, if any, are required to remove a moonlight mirror from where it is found.
+A moonlight mirror is a Medium object with AC 13; 5 hit points; and immunity to poison, psychic, and radiant damage. A [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of evocation magic emanating from the mirror. Unless covered, the reflective side of a moonlight mirror casts bright light in a 20-foot hemisphere, in the color of the moon the mirror reflects. The text notes which ability checks, if any, are required to remove a moonlight mirror from where it is found.
 
 ### Vault Locations
 
 The following locations are keyed to map 6.3.
 
 > [!gallery]
-> ![Map 6.3: Three Moons Vault](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/099-6-03-three-moons-vault.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/100-6-03-three-moons-vault-player.webp#gallery)
+> ![Map 6.3: Three Moons Vault](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/099-6-03-three-moons-vault.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/100-6-03-three-moons-vault-player.webp#gallery)
 
 #### V1: Entrance
 
@@ -356,11 +356,11 @@ Around the corner from where Riffel leaves the party is the vault's entrance. Re
 > The goat path dead-ends at the convergence of three steep cliff walls. Two austere pillars flank a stone double door set into the wall. Next to each pillar stands a silver statue of a tall, mostly human-shaped individual.
 ^2fc
 
-Two [moonlight guardians](/3-Mechanics/CLI/bestiary/construct/moonlight-guardian-veor.md) (see appendix A) guard this secret entrance. They attack any intruders on sight and fight until destroyed.
+Two [moonlight guardians](3-Mechanics/CLI/bestiary/construct/moonlight-guardian-veor.md) (see appendix A) guard this secret entrance. They attack any intruders on sight and fight until destroyed.
 
 ##### Trapped Doorway
 
-A Detect Magic spell reveals an aura of evocation magic radiating from the doorway. If a creature pulls on either of the doors' crescent-shaped handles, the doorway emits a 30-foot cone of silvery light for 1 minute, centered on the middle of the double door. A creature that enters that area for the first time on a turn or starts its turn there must make a DC 17 Constitution saving throw, taking `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) radiant damage on a failed save or half as much damage on a successful one. A creature not in its true form has disadvantage on this save; if it fails its save, the creature instantly reverts to its true form and can't assume a different form until it leaves the light.
+A [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of evocation magic radiating from the doorway. If a creature pulls on either of the doors' crescent-shaped handles, the doorway emits a 30-foot cone of silvery light for 1 minute, centered on the middle of the double door. A creature that enters that area for the first time on a turn or starts its turn there must make a DC 17 Constitution saving throw, taking 27 (`5d10`) radiant damage on a failed save or half as much damage on a successful one. A creature not in its true form has disadvantage on this save; if it fails its save, the creature instantly reverts to its true form and can't assume a different form until it leaves the light.
 
 Once this trap is triggered, it can't be triggered again.
 
@@ -375,7 +375,7 @@ An inscription at the base of the statue reads, in Elvish: "It is not surrender.
 
 ##### Treasure
 
-A weapon rack in the room holds a black steel +1 Longsword and a steel shield bearing the stylized floral emblem of the Order of the Rose. An armor stand bears a black breastplate. A small, unlocked chest holds a Potion of Vitality.
+A weapon rack in the room holds a black steel [+1 Longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md) and a steel shield bearing the stylized floral emblem of the Order of the Rose. An armor stand bears a black breastplate. A small, unlocked chest holds a [Potion of Vitality](3-Mechanics/CLI/items/potion-of-vitality-xdmg.md).
 
 #### V3: Escape Tunnel
 
@@ -386,7 +386,7 @@ A weapon rack in the room holds a black steel +1 Longsword and a steel shield be
 
 The secret door in the wall is obvious: emblazoned on the masonry is a wide circle of dimly glowing runes. A character who examines the secret door immediately realizes they can trace the runes to cause that circular section of wall to disappear, revealing the remainder of the tunnel on the other side. The wall re-forms a few seconds after it disappears.
 
-The secret door can be activated from either side of the wall, but the runes are visible only when viewed from the north. From the southern side of the door, a creature that searches the wall and succeeds on a DC 20 Intelligence (Investigation) check can see the faintest traces of the runes' light through the wall's brickwork. The creature can trace those runes to activate the door.
+The secret door can be activated from either side of the wall, but the runes are visible only when viewed from the north. From the southern side of the door, a creature that searches the wall and succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check can see the faintest traces of the runes' light through the wall's brickwork. The creature can trace those runes to activate the door.
 
 #### V4: Halls
 
@@ -395,7 +395,7 @@ The secret door can be activated from either side of the wall, but the runes are
 > Four ghostly soldiers patrol these hallways. Their eyes are red, and each wears spectral, ridged armor and carries a hollowed-out goat horn.
 ^304
 
-The creatures are four [wraiths](/3-Mechanics/CLI/bestiary/undead/wraith.md). When Akaazi (see area V34) isn't present, these wraiths lead the small army of Undead soldiers stationed in the underground garrison (area V8). A wraith named Guerthel is Akaazi's favorite; he carries an iron key that unlocks the doors to areas V7 and V10.
+The creatures are four [wraiths](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md). When Akaazi (see area V34) isn't present, these wraiths lead the small army of Undead soldiers stationed in the underground garrison (area V8). A wraith named Guerthel is Akaazi's favorite; he carries an iron key that unlocks the doors to areas V7 and V10.
 
 ##### Raising the Alarm
 
@@ -412,9 +412,9 @@ If a wraith spots an intruder or is attacked, it uses its action to blow its hor
 
 The silver sphere is a scrying device that allows Teremini to remotely communicate with Lord Soth, who has a similar sphere in his home, Dargaard Keep.
 
-A creature that touches the seemingly solid sphere discovers that it is made from harmless, viscous silver liquid that is cool to the touch. Each time the sphere is touched, Lord Soth hears a faint pinging noise. Soth can respond by standing before his sphere and speaking. When he does, his helmeted face manifests, but it's composed of the sphere's silvery goo. (For more about [Lord Soth](/3-Mechanics/CLI/bestiary/npc/lord-soth-dsotdq.md), see appendix B.)
+A creature that touches the seemingly solid sphere discovers that it is made from harmless, viscous silver liquid that is cool to the touch. Each time the sphere is touched, Lord Soth hears a faint pinging noise. Soth can respond by standing before his sphere and speaking. When he does, his helmeted face manifests, but it's composed of the sphere's silvery goo. (For more about Lord Soth, see appendix B.)
 
-Unknown to Teremini, Lord Soth can send a weaker facsimile of himself through this scrying sphere. If the characters respond to Lord Soth's manifested face with anything other than deference, a [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight.md) made from the sphere's silvery metal emerges from the sphere. The death knight inflicts punishment in Soth's stead, following his directives but requiring no action on Soth's part. If the death knight is destroyed, the sphere is also destroyed and disappears.
+Unknown to Teremini, Lord Soth can send a weaker facsimile of himself through this scrying sphere. If the characters respond to Lord Soth's manifested face with anything other than deference, a [death knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) made from the sphere's silvery metal emerges from the sphere. The death knight inflicts punishment in Soth's stead, following his directives but requiring no action on Soth's part. If the death knight is destroyed, the sphere is also destroyed and disappears.
 
 #### V6: Empty Cells
 
@@ -423,7 +423,7 @@ Unknown to Teremini, Lord Soth can send a weaker facsimile of himself through th
 > Iron bars form three empty cells along the walls of this room. A nondescript stone door to the east indicates the room's exit. Lupine howls of pain sound from beyond the iron door to the west.
 ^30a
 
-The howls can be clearly heard coming from the other side of the locked iron door (area V7). The door can be unlocked with Guerthel's key (see area V4), or a character using thieves' tools can use an action to try to pick the lock, doing so with a successful DC 16 Dexterity (Sleight of Hand) check.
+The howls can be clearly heard coming from the other side of the locked iron door (area V7). The door can be unlocked with Guerthel's key (see area V4), or a character using thieves' tools can use an action to try to pick the lock, doing so with a successful DC 16 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check.
 
 #### V7: Valendar's Cell
 
@@ -434,7 +434,7 @@ When the characters enter this room, read the following:
 > Bright-red light fills this twenty-foot-tall oval chamber. The light emanates from a large circular mirror set into a specially made groove on the ceiling. Kneeling on the floor of the chamber is a werewolf. It howls terribly, clutching and clawing at its body in fury. At the sight of the cell door opening, the werewolf leaps up and sprints toward you, claws extended!
 ^30c
 
-The red moonlight from the magical mirror forced Valendar (use the [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) stat block, except his alignment is chaotic good) to transform into his hybrid form. Valendar's imprisonment, anger, and fear make it difficult for him to think clearly. He attacks the characters, thinking they are his tormentors.
+The red moonlight from the magical mirror forced Valendar (use the [werewolf](3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) stat block, except his alignment is chaotic good) to transform into his hybrid form. Valendar's imprisonment, anger, and fear make it difficult for him to think clearly. He attacks the characters, thinking they are his tormentors.
 
 ##### Red Moonlight Mirror
 
@@ -448,7 +448,7 @@ Valendar can't transform into his true form as long as he is in the area of moon
 
 If the characters help Valendar transform back into his true form, he thanks them wholeheartedly and shares everything he knows about the Three Moons Vault. He conveys the following points:
 
-![Valendar](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/101-06-005-valendar.webp#center)
+![Valendar](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/101-06-005-valendar.webp#center)
 
 - **General Layout.** Valendar describes the general layout of the Three Moons Vault. He also explains that each of the vault's three towers is topped with a special room called a lunarium, which is an observatory containing a model.  
 - **Lunariums and Crystals.** Within each lunarium is a "lunar crystal" infused with the moonlight of one of Krynn's three moons. These crystals are essential to Teremini's ritual and are protected by the ritual's magic.  
@@ -470,7 +470,7 @@ Regardless of the characters' reaction to this revelation, learning it counts as
 > All manner of undead creatures—mostly skeletons and zombies—impatiently mill around this area. They look ready for a fight.
 ^312
 
-The vault's Undead soldiers occupy this grim chamber, ready for deployment at a moment's notice. Unless the soldiers have been called elsewhere to defend the vault or perform drudge work, the garrison contains sixteen [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton.md), nine [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md), and two [ogre zombies](/3-Mechanics/CLI/bestiary/undead/ogre-zombie.md).
+The vault's Undead soldiers occupy this grim chamber, ready for deployment at a moment's notice. Unless the soldiers have been called elsewhere to defend the vault or perform drudge work, the garrison contains sixteen [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md), nine [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), and two [ogre zombies](3-Mechanics/CLI/bestiary/undead/ogre-zombie-xmm.md).
 
 #### V9: Winding Staircase
 
@@ -478,14 +478,14 @@ A spiral staircase occupies most of this small chamber. Short hallways lead east
 
 #### V10: Trapped Black Rose Bearer
 
-Both doors to this room are locked. A character can take the key from Guerthel (see area V4), or as an action, a character can use thieves' tools to try to pick the lock, doing so with a successful DC 10 Dexterity (Sleight of Hand) check. If the characters enter this room, read the following:
+Both doors to this room are locked. A character can take the key from Guerthel (see area V4), or as an action, a character can use thieves' tools to try to pick the lock, doing so with a successful DC 10 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. If the characters enter this room, read the following:
 
 > [!readaloud] 
 > 
 > Though this tiered chamber was once elegantly appointed, its brass candelabras, velvet runners, and red tapestries were destroyed—likely by the room's occupant, a desiccated Undead currently tearing at the walls. A single doorway is set into the short north wall of the room.
 ^315
 
-The [black rose bearer](/3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) (see appendix A) trapped here is raging at everything in sight. Akaazi (see area V34) locked the bearer in here to prevent it from wreaking havoc throughout the dungeon. The black rose bearer attacks anyone who enters and fights until destroyed.
+The [black rose bearer](3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) (see appendix A) trapped here is raging at everything in sight. Akaazi (see area V34) locked the bearer in here to prevent it from wreaking havoc throughout the dungeon. The black rose bearer attacks anyone who enters and fights until destroyed.
 
 The doorway in the north wall opens to a stairway ascending to area V35.
 
@@ -496,21 +496,21 @@ The doorway in the north wall opens to a stairway ascending to area V35.
 > Two minotaur skeletons guard this curved hallway. Beyond them, heavy, round metal doors seal five doorways. A brown stain covers the ground in front of the northernmost door.
 ^317
 
-The two [minotaur skeletons](/3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md) attack intruders on sight and fight until destroyed.
+The two [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md) attack intruders on sight and fight until destroyed.
 
 #### V12: Treasure Vaults
 
-Each of these vault rooms is sealed behind a locked iron door. As an action, a character can use thieves' tools to try to unlock a door, doing so with a successful DC 18 Dexterity (Sleight of Hand) check, or force open a locked door, which requires a successful DC 18 Strength (Athletics) check.
+Each of these vault rooms is sealed behind a locked iron door. As an action, a character can use thieves' tools to try to unlock a door, doing so with a successful DC 18 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check, or force open a locked door, which requires a successful DC 18 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ##### V12a: Treasures
 
-The door to this vault is trapped with a magical glyph. A character who examines the door can find the glyph by succeeding on a DC 17 Intelligence (Investigation) check, and any character can disable the glyph by succeeding on a DC 20 Intelligence (Arcana) check. When a creature other than Teremini opens the door, a 20-foot-radius sphere of fire explodes from the glyph. Each creature in that area must make a DC 17 Dexterity saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) fire damage on a failed save or half as much damage on a successful one. Once this trap is triggered, it can't be triggered again.
+The door to this vault is trapped with a magical glyph. A character who examines the door can find the glyph by succeeding on a DC 17 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check, and any character can disable the glyph by succeeding on a DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. When a creature other than Teremini opens the door, a 20-foot-radius sphere of fire explodes from the glyph. Each creature in that area must make a DC 17 Dexterity saving throw, taking 22 (`5d8`) fire damage on a failed save or half as much damage on a successful one. Once this trap is triggered, it can't be triggered again.
 
 This vault contains 1,900 gp, ten gems worth 100 gp each, and six paintings worth 250 gp each.
 
 ##### V12b: Guardian Chamber
 
-A [beholder zombie](/3-Mechanics/CLI/bestiary/undead/beholder-zombie.md) waits inside this vault. Akaazi keeps this zombie apart from the other Undead and reserves it for special tasks. It has orders to attack non-Undead creatures other than Akaazi and Teremini.
+A [beholder zombie](3-Mechanics/CLI/bestiary/undead/beholder-zombie-xmm.md) waits inside this vault. Akaazi keeps this zombie apart from the other Undead and reserves it for special tasks. It has orders to attack non-Undead creatures other than Akaazi and Teremini.
 
 ##### V12c: Empty Vault
 
@@ -518,7 +518,7 @@ This vault is empty.
 
 ##### V12d: Leader's Gear
 
-Heaped on this vault's floor are Valendar's belongings, including his leather armor, a Potion of Healing (greater), a Spell Scroll of Stoneskin, and a brilliant-blue cloak emblazoned with the holy symbol of Habbakuk.
+Heaped on this vault's floor are Valendar's belongings, including his leather armor, a [Potion of Healing (greater)](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), a [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md), and a brilliant-blue cloak emblazoned with the holy symbol of Habbakuk.
 
 #### V13: Ruined Vault
 
@@ -553,9 +553,9 @@ The mirror in the statue's arm is a white moonlight mirror. Removing the mirror 
 
 ##### Shrine's Guardian
 
-Wrapped around the statue is a [guardian naga](/3-Mechanics/CLI/bestiary/monstrosity/guardian-naga.md) named Casivus. Casivus has guarded this shrine since long before Lord Soth's forces arrived, and it chafes at the evil doings of Teremini and her minions.
+Wrapped around the statue is a [guardian naga](3-Mechanics/CLI/bestiary/celestial/guardian-naga-xmm.md) named Casivus. Casivus has guarded this shrine since long before Lord Soth's forces arrived, and it chafes at the evil doings of Teremini and her minions.
 
-The naga is initially indifferent to the characters. If a character mentions that the party opposes Teremini's plans or engages the naga in polite conversation and succeeds on a DC 14 Charisma (Persuasion) check, Casivus becomes friendly toward the group. In this case, the naga permits the characters to take the mirror from the statue. Casivus also imparts two useful points of information:
+The naga is initially indifferent to the characters. If a character mentions that the party opposes Teremini's plans or engages the naga in polite conversation and succeeds on a DC 14 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, Casivus becomes friendly toward the group. In this case, the naga permits the characters to take the mirror from the statue. Casivus also imparts two useful points of information:
 
 - **Position of the Moons.** To disrupt Teremini's ritual, the characters must shine different colors of moonlight onto the lunariums' crystals in a specific combination. This combination depends on the current phases and positions of Krynn's moons. Teremini has a magical orrery in the red tower that shows the moons' positions. A character can study this orrery to determine the moonlight-crystal combinations necessary to disrupt the ritual.  
 - **Stairwell Passphrase.** Casivus tells the characters the passphrase to open the locked door inside the chamber northeast of here (area V16). The passphrase is "buried is best."  
@@ -569,7 +569,7 @@ Casivus has no wish to leave this shrine or accompany the characters, but the na
 > An enclosure with a shuttered door stands in the southernmost part of this otherwise empty room.
 ^326
 
-The door to this stairwell is locked with an Arcane Lock spell. Teremini, Akaazi, and Casivus know the door's passphrase ("buried is best"). As an action, a character can try to force open the door, doing so with a successful DC 24 Strength (Athletics) check.
+The door to this stairwell is locked with an [Arcane Lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. Teremini, Akaazi, and Casivus know the door's passphrase ("buried is best"). As an action, a character can try to force open the door, doing so with a successful DC 24 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 The circular staircase connects to area V17, which is 30 feet above.
 
@@ -589,7 +589,7 @@ The white tower's ground floor lies in ruin. A ladder connects this floor to are
 > A sloping mound of rubble creates a rough bridge over the moat west of the white tower. Six humans in dented armor pace atop the slope.
 ^32a
 
-The slope immediately leading into this area is guarded by six [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) (lawful evil humans). A seventh veteran is resting in the tent to the north and rushes to help their allies when a fight breaks out. The veterans defend the keep with their lives, knowing that to do otherwise would invite Teremini's wrath.
+The slope immediately leading into this area is guarded by six [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) (lawful evil humans). A seventh veteran is resting in the tent to the north and rushes to help their allies when a fight breaks out. The veterans defend the keep with their lives, knowing that to do otherwise would invite Teremini's wrath.
 
 #### V19: White Tower Lookout
 
@@ -598,7 +598,7 @@ The slope immediately leading into this area is guarded by six [veterans](/3-Mec
 > A single human lookout in dented armor stands watch in the southern portion of this area.
 ^32c
 
-The guard is a lawful evil, human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md). The veteran carries a hollow goat's horn in addition to her usual gear. If she expects attackers, she pulls up the ladder that connects to area V17 and blows her horn to raise the alarm.
+The guard is a lawful evil, human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md). The veteran carries a hollow goat's horn in addition to her usual gear. If she expects attackers, she pulls up the ladder that connects to area V17 and blows her horn to raise the alarm.
 
 A spiral staircase ascends to area V20.
 
@@ -613,7 +613,7 @@ A staircase in the southern part of the room ascends to the white tower's lunari
 
 ##### White Moonlight Mirror
 
-Hidden in a cavity beneath the flagstone tiles is a white moonlight mirror wrapped in old oilcloth. A character can find the mirror by searching the floor and succeeding on a DC 12 Intelligence (Investigation) check. Removing the mirror from the cavity requires no special effort.
+Hidden in a cavity beneath the flagstone tiles is a white moonlight mirror wrapped in old oilcloth. A character can find the mirror by searching the floor and succeeding on a DC 12 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. Removing the mirror from the cavity requires no special effort.
 
 #### V21: Drawbridge
 
@@ -639,7 +639,7 @@ The moat surrounding the Three Moons Vault is 50 feet deep. A nearby stream keep
 > A ladder allows access from the courtyard to this fortified platform. Two guards in dented armor, each carrying hollowed-out goat's horns, keep watch here.
 ^335
 
-Two [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) (lawful evil humans) keep watch atop the turret. If they see or hear the characters approach, they sound their horns, and allies from area V18 arrive in 5 minutes.
+Two [veterans](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) (lawful evil humans) keep watch atop the turret. If they see or hear the characters approach, they sound their horns, and allies from area V18 arrive in 5 minutes.
 
 #### V23: Wall Walk
 
@@ -652,7 +652,7 @@ The stone walkway atop the keep's curtain wall passes through the second floor o
 > Two enormous, skeletal, birdlike creatures perch atop the wooden platform here.
 ^338
 
-These two [bone rocs](/3-Mechanics/CLI/bestiary/undead/bone-roc-veor.md) (see appendix A) are trained to ferry passengers to and from a similar rookery near the bottom of the mountain.
+These two [bone rocs](3-Mechanics/CLI/bestiary/undead/bone-roc-veor.md) (see appendix A) are trained to ferry passengers to and from a similar rookery near the bottom of the mountain.
 
 A bone roc attacks only if threatened or harmed.
 
@@ -685,12 +685,12 @@ When non-Undead individuals stay at the Three Moons Vault, they reside here.
 
 The equipment here includes the following:
 
-- Three longswords  
-- Two halberds  
-- Two crossbow bolt cases, each containing 20 bolts  
-- Two shields  
-- A suit of splint mail  
-- A bottle of Oil of Sharpness  
+- Three [longswords](3-Mechanics/CLI/items/longsword-xphb.md)  
+- Two [halberds](3-Mechanics/CLI/items/halberd-xphb.md)  
+- Two [crossbow bolt cases](3-Mechanics/CLI/items/crossbow-bolt-case-xphb.md), each containing 20 [bolts](3-Mechanics/CLI/items/bolts-20-xphb.md)  
+- Two [shields](3-Mechanics/CLI/items/shield-xphb.md)  
+- A suit of [splint](3-Mechanics/CLI/items/splint-armor-xphb.md) mail  
+- A bottle of [Oil of Sharpness](3-Mechanics/CLI/items/oil-of-sharpness-xdmg.md)  
 
 #### V28: Royal Quarters
 
@@ -744,7 +744,7 @@ Teremini dwells in this finely decorated bedroom.
 
 ##### Mimic
 
-The footlocker is a [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md). Teremini trained the mimic to attack anyone who snoops around her room.
+The footlocker is a [mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md). Teremini trained the mimic to attack anyone who snoops around her room.
 
 ##### Logbook
 
@@ -758,7 +758,7 @@ The first page describes the six moonlight mirrors found in the original moon to
 
 **Black Mirrors**: Royal quarters (area V28) and Akaazi's quarters (area V36)
 
-The log's last pages mention "a piece of the legendary [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), seized from an ungrateful dryad" as well as "three lunar crystals, procured from a powerful dragon." The logbook doesn't specify where the rod piece or the crystals are currently stored.
+The log's last pages mention "a piece of the legendary [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), seized from an ungrateful dryad" as well as "three lunar crystals, procured from a powerful dragon." The logbook doesn't specify where the rod piece or the crystals are currently stored.
 
 A staircase at the northern end of the room ascends to the red tower's lunarium (area U2).
 
@@ -775,7 +775,7 @@ This stairwell connects to area V9 below.
 
 Teremini's soldiers conduct training drills in this muddy yard. When the keep's alarm is raised, they rally here and prepare to defend the keep. The mud is "difficult terrain".
 
-Two [earth elementals](/3-Mechanics/CLI/bestiary/elemental/earth-elemental.md), summoned and bound by Teremini, dwell beneath the mud. If they detect intruders with their tremorsense, the elementals rise from the mud and attack.
+Two [earth elementals](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md), summoned and bound by Teremini, dwell beneath the mud. If they detect intruders with their [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense), the elementals rise from the mud and attack.
 
 #### V34. Circle of Undeath
 
@@ -791,7 +791,7 @@ Three archways, each shrouded by a black curtain, connect the two spaces in this
 > Black candles cast dim light throughout this inner room, revealing a circle of unholy runes drawn in chalk on the floor. A black-robed figure crouches, examining the runes, while a zombie-like creature holding a black rose in a glass jar stands nearby.
 ^352
 
-A neutral evil human [necromancer wizard](/3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md) (see appendix A) named Akaazi uses this chamber to conduct necromantic rituals and create Undead soldiers for Lord Soth's army. Akaazi is accompanied by a [black rose bearer](/3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) (see appendix A).
+A neutral evil human [necromancer wizard](3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md) (see appendix A) named Akaazi uses this chamber to conduct necromantic rituals and create Undead soldiers for Lord Soth's army. Akaazi is accompanied by a [black rose bearer](3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) (see appendix A).
 
 As soon as she's aware of intruders, Akaazi commands the bearer to attack and fights to the death in the name of Lord Soth.
 
@@ -808,11 +808,11 @@ Akaazi's eerie black tower leads into this temple, so the chamber is rarely used
 
 ##### Secret Door
 
-A section of this chamber's western wall is hollow and set onto hinges that allow it to swing out toward the courtyard. The secret door can be detected with a successful DC 13 Wisdom (Perception) check.
+A section of this chamber's western wall is hollow and set onto hinges that allow it to swing out toward the courtyard. The secret door can be detected with a successful DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 ##### Treasure
 
-The back of the altar is hollow and bears a single shelf, on which sits a Wand of Enemy Detection.
+The back of the altar is hollow and bears a single shelf, on which sits a [Wand of Enemy Detection](3-Mechanics/CLI/items/wand-of-enemy-detection-xdmg.md).
 
 #### V36: Akaazi's Quarters
 
@@ -823,7 +823,7 @@ The back of the altar is hollow and bears a single shelf, on which sits a Wand o
 
 ##### Black Moonlight Mirror
 
-A circular opening in the floor allows a creature to view the chamber below (area V34). A black moonlight mirror is suspended from three iron chains connected to the sides of the opening. The mirror can be safely detached from one iron chain with a successful DC 15 Dexterity (Sleight of Hand) check. If a character fails this check by 5 or more, the mirror comes loose from the chains and falls to the floor 20 feet below.
+A circular opening in the floor allows a creature to view the chamber below (area V34). A black moonlight mirror is suspended from three iron chains connected to the sides of the opening. The mirror can be safely detached from one iron chain with a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. If a character fails this check by 5 or more, the mirror comes loose from the chains and falls to the floor 20 feet below.
 
 #### V37: Aviary
 
@@ -832,7 +832,7 @@ A circular opening in the floor allows a creature to view the chamber below (are
 > Black corvids fill the small cages in this bleak, windowless aviary. The birds squawk loudly whenever anyone enters.
 ^35b
 
-Twenty [ravens](/3-Mechanics/CLI/bestiary/beast/raven.md) used to deliver messages occupy the flimsy wooden cages.
+Twenty [ravens](3-Mechanics/CLI/bestiary/beast/raven-xmm.md) used to deliver messages occupy the flimsy wooden cages.
 
 A staircase on the eastern wall ascends to the black tower's lunarium (area U3).
 
@@ -860,19 +860,19 @@ These crystals are components for Teremini's ritual, but they have no value or s
 
 #### Solid Moonlight
 
-The moonbridges and moondisk (areas U4 and U5) are made of solid moonlight that shimmers like opalescent glass. If a creature not in its true form starts its turn touching solid moonlight, the creature must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the start of its next turn.
+The moonbridges and moondisk (areas U4 and U5) are made of solid moonlight that shimmers like opalescent glass. If a creature not in its true form starts its turn touching solid moonlight, the creature must succeed on a DC 15 Constitution saving throw or have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition until the start of its next turn.
 
 While Teremini concentrates on her ritual, spherical barriers of solid moonlight also surround each lunar crystal dais.
 
-Nothing can physically pass through solid moonlight or teleport through it. It is immune to all damage and can't be dispelled by the Dispel Magic spell. Any solid moonlight caught in the area of a Sunburst spell is dispelled for 10 minutes. Solid moonlight also extends into the Ethereal Plane, blocking ethereal travel through it. The ritual is powered by the rod piece and is therefore unaffected by the Antimagic Field spell.
+Nothing can physically pass through solid moonlight or teleport through it. It is immune to all damage and can't be dispelled by the [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell. Any solid moonlight caught in the area of a [Sunburst](3-Mechanics/CLI/spells/sunburst-xphb.md) spell is dispelled for 10 minutes. Solid moonlight also extends into the Ethereal Plane, blocking ethereal travel through it. The ritual is powered by the rod piece and is therefore unaffected by the [Antimagic Field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell.
 
 ### Upper-Level Locations
 
 The following locations are keyed to map 6.4.
 
 > [!gallery]
-> ![Map 6.4: Three Moons Vault—Upper Level](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/102-6-04-three-moons-vault-upper-level.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/103-6-04-three-moons-vault-upper-level-player.webp#gallery)
+> ![Map 6.4: Three Moons Vault—Upper Level](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/102-6-04-three-moons-vault-upper-level.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/103-6-04-three-moons-vault-upper-level-player.webp#gallery)
 
 #### U1: White Lunarium
 
@@ -881,7 +881,7 @@ The following locations are keyed to map 6.4.
 > White moonlight glows around this smooth dais.
 ^362
 
-The moonlight barrier around this lunarium's dais is trapped. When the barrier is touched, it emits a blinding flash of white light in a 30-foot radius centered on the dais. Any creature in that area must succeed on a DC 17 Constitution saving throw or have the blinded condition for 24 hours.
+The moonlight barrier around this lunarium's dais is trapped. When the barrier is touched, it emits a blinding flash of white light in a 30-foot radius centered on the dais. Any creature in that area must succeed on a DC 17 Constitution saving throw or have the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition for 24 hours.
 
 #### U2: Red Lunarium
 
@@ -890,7 +890,7 @@ The moonlight barrier around this lunarium's dais is trapped. When the barrier i
 > A shadowy, skeletal wolf walking upright like a human stalks the area here.
 ^364
 
-The skeletal wolf is a [deathwolf](/3-Mechanics/CLI/bestiary/undead/deathwolf-veor.md) (see appendix A) created from the body of a slain Blue Fire Warden. Akaazi ordered the deathwolf to attack any intruders during Teremini's ritual. If it sees the characters, the deathwolf attacks viciously and stops at nothing to destroy its opponents.
+The skeletal wolf is a [deathwolf](3-Mechanics/CLI/bestiary/undead/deathwolf-veor.md) (see appendix A) created from the body of a slain Blue Fire Warden. Akaazi ordered the deathwolf to attack any intruders during Teremini's ritual. If it sees the characters, the deathwolf attacks viciously and stops at nothing to destroy its opponents.
 
 #### U3: Black Lunarium
 
@@ -899,7 +899,7 @@ The skeletal wolf is a [deathwolf](/3-Mechanics/CLI/bestiary/undead/deathwolf-ve
 > Two desiccated, undead creatures, each holding a bell jar containing a black rose, stand guard here.
 ^366
 
-Two [black rose bearers](/3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) (see appendix A) have been ordered to defend this lunarium against intruders.
+Two [black rose bearers](3-Mechanics/CLI/bestiary/undead/black-rose-bearer-veor.md) (see appendix A) have been ordered to defend this lunarium against intruders.
 
 #### U4: Moonbridges
 
@@ -912,15 +912,15 @@ Three bridges of solid moonlight span the gaps between the lunariums and the moo
 > A robed, hooded woman stands at the center of a circular platform, her arms stretched wide and her eyes closed. A rod piece floats between her outstretched hands.
 ^369
 
-Teremini (lawful evil, elf [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md)) performs her ritual here. The [fifth piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) floats between Teremini's outstretched hands.
+Teremini (lawful evil, elf [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md)) performs her ritual here. The [fifth piece](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) floats between Teremini's outstretched hands.
 
 When Teremini notices the characters approaching, she shouts, "Death to all who oppose Lord Soth! And death to those pitiful wardens! You'll never stop me!"
 
-If the characters disrupt Teremini's ritual, she screams in rage and attacks them. Teremini pockets the rod piece and fights to the death. For more about the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
+If the characters disrupt Teremini's ritual, she screams in rage and attacks them. Teremini pockets the rod piece and fights to the death. For more about the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
 
 ### Disrupting the Ritual
 
-![To retrieve the fifth rod ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/104-06-006-teremini-nightsedges-ritual.webp#center "To retrieve the fifth rod piece, the characters must stop Teremini Nightsedge's ritual to enshroud the Three Moons Vault in magical red moonlight")
+![To retrieve the fifth rod piece, the characters must stop Teremini Nightsedge's ritual to enshroud the Three Moons Vault in magical red moonlight](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/104-06-006-teremini-nightsedges-ritual.webp#center)
 
 Teremini's ritual is disrupted if either of the following occurs:
 
@@ -938,12 +938,12 @@ The curtain of crimson moonlight surrounding the Three Moons Vault disappears. A
 
 #### Orinix Arrives
 
-A portal to Lunitari opens where the moondisk once hovered. Orinix, an [adult lunar dragon](/3-Mechanics/CLI/bestiary/dragon/adult-lunar-dragon-bam.md) (see appendix A) flies from this portal and looms over the courtyard. Displeased at Teremini's failure, the dragon attacks everyone in sight, focusing foremost on Teremini.
+A portal to Lunitari opens where the moondisk once hovered. Orinix, an adult lunar dragon (see appendix A) flies from this portal and looms over the courtyard. Displeased at Teremini's failure, the dragon attacks everyone in sight, focusing foremost on Teremini.
 
-![Orinix](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/105-06-007-orinix.webp#center)
+![Orinix](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/105-06-007-orinix.webp#center)
 
 ## Next Steps
 
-Once the characters have the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), they can return to Sigil via the doorway in the tree through which they arrived on Krynn.
+Once the characters have the fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), they can return to Sigil via the doorway in the tree through which they arrived on Krynn.
 
 An enormous, magical tree seems to be the location of the next rod piece, though the characters soon learn the piece is elsewhere.

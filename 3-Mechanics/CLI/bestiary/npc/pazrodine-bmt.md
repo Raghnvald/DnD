@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/21
-- new/monster/size/gargantuan
-- new/monster/type/dragon/moonstone
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/21
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon/moonstone
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pazrodine
+- "Pazrodine"
 ---
-# [Pazrodine](3-Mechanics\CLI\bestiary\npc/pazrodine-bmt.md)
+# [Pazrodine](3-Mechanics/CLI/bestiary/npc/pazrodine-bmt.md)
 *Source: The Book of Many Things p. 113*  
 
 Pazrodine, a moonstone dragon with a peaceful demeanor, oversees Seelie Market. A consummate traveler, she is always searching for fey crossings, which she uses to travel between the Feywild and the Material Plane. Moonstone dragons are detailed further in Fizban's Treasury of Dragons.
@@ -68,14 +68,14 @@ If anyone comes to visit Pazrodine at her refuge, she greets them and happily an
 "actions":
   - "desc": "Pazrodine makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage plus 11 (2d10) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) piercing damage plus 11 (2d10) radiant damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 10\
-      \ (1d8 + 6) bludgeoning damage. If the target is a creature, it must succeed\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:*\
+      \ 10 (1d8 + 6) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 21 Strength saving throw or have the prone condition."
     "name": "Tail"
   - "desc": "Pazrodine uses one of the following breath weapons:\n\n- **Dream Breath.**\
@@ -126,6 +126,6 @@ If anyone comes to visit Pazrodine at her refuge, she greets them and happily an
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/pazrodine-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/pazrodine-bmt.webp"
 ```
 ^statblock

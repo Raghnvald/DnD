@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nine-Fingers Keene
+- "Nine-Fingers Keene"
 ---
-# [Nine-Fingers Keene](3-Mechanics\CLI\bestiary\npc/nine-fingers-keene-bgdia.md)
+# [Nine-Fingers Keene](3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 170*  
 
 The current leader of the Guild, Nine-Fingers Keene, disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
@@ -26,7 +26,7 @@ Keene has become increasingly intolerant of the populous tide turning against he
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "leather armor"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -42,20 +42,22 @@ Keene has become increasingly intolerant of the populous tide turning against he
   - "dexterity": !!int "7"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+10"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "Sleight of Hand"
     "desc": "+10"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+10"
+"gear":
+  - "dagger"
 "senses": "passive Perception 16"
 "languages": "Common, Thieves' cant"
 "cr": "5"
@@ -79,6 +81,6 @@ Keene has become increasingly intolerant of the populous tide turning against he
     "name": "Uncanny Dodge"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nine-fingers-keene-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nine-fingers-keene-bgdia.webp"
 ```
 ^statblock

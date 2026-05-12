@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/6
-- new/monster/size/large
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Centaur Mummy
+- "Centaur Mummy"
 ---
-# [Centaur Mummy](3-Mechanics\CLI\bestiary\undead/centaur-mummy-tftyp.md)
+# [Centaur Mummy](3-Mechanics/CLI/bestiary/undead/centaur-mummy-tftyp.md)
 *Source: Tales from the Yawning Portal p. 231*  
 
 In The Hidden Shrine of Tamoachan, characters must contend with a mummified centaur that wants to prevent them from moving any farther into the dungeon. Combining the most lethal features of two creature types, the centaur mummy can attack nearby targets with its melee weapons while trying to use its Dreadful Glare against enemies that hold back.
@@ -40,8 +40,13 @@ In The Hidden Shrine of Tamoachan, characters must contend with a mummified cent
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[pike](3-Mechanics/CLI/items/pike-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Sylvan"
 "cr": "6"
 "traits":
@@ -53,28 +58,29 @@ In The Hidden Shrine of Tamoachan, characters must contend with a mummified cent
   - "desc": "The centaur mummy makes two melee attacks, one with its pike and one\
       \ with its hooves, or it attacks with its pike and uses Dreadful Glare."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (1d10 + 5) piercing damage."
     "name": "Pike"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) piercing damage plus 10 (3d6) necrotic damage. If the target is\
-      \ a creature, it must succeed on a DC 14 Constitution saving throw or be cursed\
-      \ with mummy rot. The cursed target can't regain hit points, and its hit point\
-      \ maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse\
-      \ reduces the target's hit point maximum to 0, the target dies, and its body\
-      \ turns to dust. The curse lasts until removed by the remove curse spell or\
-      \ similar magic."
+      \ (2d6 + 5) piercing damage plus 10 (3d6) necrotic damage. If the target\
+      \ is a creature, it must succeed on a DC 14 Constitution saving throw or be\
+      \ cursed with mummy rot. The cursed target can't regain hit points, and its\
+      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse.\
+      \ If the curse reduces the target's hit point maximum to 0, the target dies,\
+      \ and its body turns to dust. The curse lasts until removed by the [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
+      \ spell or similar magic."
     "name": "Hooves"
   - "desc": "The centaur mummy targets one creature it can see within 60 feet of it.\
       \ If the target can see the mummy, the target must succeed on a DC 12 Wisdom\
-      \ saving throw against this magic or become frightened until the end of the\
-      \ mummy's next turn. If the target fails the saving throw by 5 or more, it is\
-      \ also paralyzed for the same duration. A target that succeeds on the saving\
-      \ throw is immune to the Dreadful Glare of all mummies (but not mummy lords)\
-      \ for the next 24 hours."
+      \ saving throw against this magic or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ until the end of the mummy's next turn. If the target fails the saving throw\
+      \ by 5 or more, it is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ for the same duration. A target that succeeds on the saving throw is immune\
+      \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24\
+      \ hours."
     "name": "Dreadful Glare"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/centaur-mummy-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/centaur-mummy-tftyp.webp"
 ```
 ^statblock

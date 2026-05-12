@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dzaan
+- "Dzaan"
 ---
-# [Dzaan](3-Mechanics\CLI\bestiary\npc/dzaan-idrotf.md)
+# [Dzaan](3-Mechanics/CLI/bestiary/npc/dzaan-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 271*  
 
 Dzaan was a Red Wizard of Thay who studied the arcane tradition of illusion. The leaders of the Arcane Brotherhood welcomed him with open arms, eager to count a Red Wizard among their ranks. Dzaan might have become a force to reckon with in the brotherhood had his quest for power not led him to Icewind Dale, where he was killed by the people of Easthaven after making a few too many enemies.
@@ -23,7 +23,7 @@ Dzaan's trouble started after he broke away from his fellow wizards and hired ad
 
 ## Companion
 
-Because they're so despised throughout Faerûn, Red Wizards often adopt disguises and rarely travel abroad without an escort. They generally favor undead servants and bodyguards, since they find that undead tend to be more obedient than the living. Dzaan's bodyguard is a Thayan [wight](/3-Mechanics/CLI/bestiary/undead/wight.md) named Krintaas. When Dzaan returned to Easthaven, he ordered his companion to stay with the simulacrum and watch over it and the buried Netherese spire.
+Because they're so despised throughout Faerûn, Red Wizards often adopt disguises and rarely travel abroad without an escort. They generally favor undead servants and bodyguards, since they find that undead tend to be more obedient than the living. Dzaan's bodyguard is a Thayan [wight](3-Mechanics/CLI/bestiary/undead/wight.md) named Krintaas. When Dzaan returned to Easthaven, he ordered his companion to stay with the simulacrum and watch over it and the buried Netherese spire.
 
 ```statblock
 "name": "Dzaan (IDRotF)"
@@ -46,11 +46,11 @@ Because they're so despised throughout Faerûn, Red Wizards often adopt disguise
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+5"
 "senses": "passive Perception 11"
 "languages": "Abyssal, Common, Giant, Infernal"
@@ -58,11 +58,17 @@ Because they're so despised throughout Faerûn, Red Wizards often adopt disguise
 "traits":
   - "desc": "Dzaan is a 9th-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 13, +5 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** acid splash *, light, minor illusion,\
-      \ shocking grasp *\n\n**1st level (4 slots):** detect magic, disguise self,\
-      \ magic missile *\n\n**2nd level (3 slots):** invisibility, levitate, phantasmal\
-      \ force\n\n**3rd level (3 slots):** fireball, sending, slow\n\n**4th level (3\
-      \ slots):** arcane eye, confusion\n\n**5th level (1 slots):** animate objects\n\
+      \ spells prepared:\n\n**Cantrips (at will):** [acid splash](3-Mechanics/CLI/spells/acid-splash.md)\
+      \ *, [light](3-Mechanics/CLI/spells/light.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md),\
+      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp.md) *\n\n**1st level\
+      \ (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md)\
+      \ *\n\n**2nd level (3 slots):** [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate.md), [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md)\n\
+      \n**3rd level (3 slots):** [fireball](3-Mechanics/CLI/spells/fireball.md), [sending](3-Mechanics/CLI/spells/sending.md),\
+      \ [slow](3-Mechanics/CLI/spells/slow.md)\n\n**4th level (3 slots):** [arcane\
+      \ eye](3-Mechanics/CLI/spells/arcane-eye.md), [confusion](3-Mechanics/CLI/spells/confusion.md)\n\
+      \n**5th level (1 slots):** [animate objects](3-Mechanics/CLI/spells/animate-objects.md)\n\
       \n*See \"Actions\" below."
     "name": "Spellcasting"
 "actions":
@@ -82,6 +88,6 @@ Because they're so despised throughout Faerûn, Red Wizards often adopt disguise
     "name": "Magic Missile (1st-Level Spell; Requires a Spell Slot)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/dzaan-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/dzaan-idrotf.webp"
 ```
 ^statblock

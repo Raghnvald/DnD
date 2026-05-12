@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Type 2 Malison: Arms
+- "Physical Variations; Type 2 Malison: Arms"
 ---
 # Physical Variations; Type 2 Malison: Arms
 *Source: Volo's Guide to Monsters p. 97* 
 
 **Type 2 Malison: Arms**
-
-`dice: [](physical-variations-type-2-malison-arms-vgm.md#^type-2-malison-arms)`
 
 | dice: d10 | Malison Type 2 Arm* |
 |-----------|---------------------|

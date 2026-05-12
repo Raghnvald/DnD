@@ -3,19 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Monkey
+- "Flying Monkey"
 ---
-# [Flying Monkey](3-Mechanics\CLI\bestiary\beast/flying-monkey-toa.md)
+# [Flying Monkey](3-Mechanics/CLI/bestiary/beast/flying-monkey-toa.md)
 *Source: Tomb of Annihilation p. 220*  
 
-Flying monkeys are slightly more clever and curious than common monkeys, and they can be domesticated and taught to obey simple commands. They come in many colors and varieties, with feathered wings that have a span of about 5 feet. With the DM's permission, the find familiar spell can summon a flying monkey.
+Flying monkeys are slightly more clever and curious than common monkeys, and they can be domesticated and taught to obey simple commands. They come in many colors and varieties, with feathered wings that have a span of about 5 feet. With the DM's permission, the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md) spell can summon a flying monkey.
 
 ```statblock
 "name": "Flying Monkey (ToA)"
@@ -40,17 +40,17 @@ Flying monkeys are slightly more clever and curious than common monkeys, and the
 "traits":
   - "desc": "The flying monkey has advantage on an attack roll against a creature\
       \ if at least one of the monkey's allies is within 5 feet of the creature and\
-      \ the ally isn't incapacitated."
+      \ the ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
-  - "desc": "With the DM's permission, the find familiar spell can summon a flying\
-      \ monkey."
+  - "desc": "With the DM's permission, the [find familiar](3-Mechanics/CLI/spells/find-familiar-xphb.md)\
+      \ spell can summon a flying monkey."
     "name": "Familiar"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target *Hit:* 1 (1d4\
-      \ - 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target *Hit:* 1\
+      \ (1d4 - 1) piercing damage."
     "name": "Bite"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/flying-monkey-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/flying-monkey-toa.webp"
 ```
 ^statblock

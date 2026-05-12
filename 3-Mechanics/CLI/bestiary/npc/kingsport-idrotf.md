@@ -3,19 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kingsport
+- "Kingsport"
 ---
-# [Kingsport](3-Mechanics\CLI\bestiary\npc/kingsport-idrotf.md)
+# [Kingsport](3-Mechanics/CLI/bestiary/npc/kingsport-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 243*  
 
-Scrivenscry is an arcanaloth who always refers to itself in the third person. It has a fondness for black licorice, strips of which it keeps in the pockets of its robe. The fiend is attended by Kingsport, a blind, albino giant penguin under the effect of an awaken spell.
+Scrivenscry is an arcanaloth who always refers to itself in the third person. It has a fondness for black licorice, strips of which it keeps in the pockets of its robe. The fiend is attended by Kingsport, a blind, albino giant penguin under the effect of an [awaken](3-Mechanics/CLI/spells/awaken.md) spell.
 
 Scrivenscry's anxious penguin servant, Kingsport, was promised a life of enlightenment. The truth is that Kingsport was turned into Scrivenscry's lackey, who lives in fear of his cruel, unpredictable master. The blind giant penguin hopes to be free of the arcanaloth one day.
 
@@ -36,18 +36,19 @@ Scrivenscry's anxious penguin servant, Kingsport, was promised a life of enlight
   - !!int "10"
   - !!int "4"
 "speed": "20 ft., swim 40 ft."
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": "Common"
 "cr": "0"
 "traits":
   - "desc": "Kingsport can hold its breath for 20 minutes."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) piercing damage."
     "name": "Beak"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kingsport-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kingsport-idrotf.webp"
 ```
 ^statblock

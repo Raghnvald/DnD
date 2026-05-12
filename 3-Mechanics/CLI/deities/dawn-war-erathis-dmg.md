@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
-aliases: 
-- Erathis
+aliases:
+- "Erathis"
 ---
 # Erathis
 *Source: Dungeon Master's Guide p. 10* 

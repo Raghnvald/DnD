@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
-aliases: 
+aliases:
 - "Pariah's Shield"
 ---
 # Pariah's Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/pariahs-shield.webp#right)
+*Armor (shield), rare (requires attunement)*  
+![](3-Mechanics/CLI/items/img/pariahs-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

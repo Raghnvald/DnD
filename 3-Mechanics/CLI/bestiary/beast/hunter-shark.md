@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hunter Shark
+- "Hunter Shark"
 ---
-# [Hunter Shark](3-Mechanics\CLI\bestiary\beast/hunter-shark.md)
-*Source: Monster Manual p. 330, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hunter Shark](3-Mechanics/CLI/bestiary/beast/hunter-shark.md)
+*Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
@@ -37,9 +37,10 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
   - !!int "4"
 "speed": "swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "blindsight 30 ft., passive Perception 12"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
@@ -54,8 +55,7 @@ Smaller than a giant shark but larger and fiercer than a reef shark, a hunter sh
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hunter-shark.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/hunter-shark.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reflection
+- "Reflection"
 ---
-# [Reflection](3-Mechanics\CLI\bestiary\fey/reflection-tce.md)
+# [Reflection](3-Mechanics/CLI/bestiary/fey/reflection-tce.md)
 *Source: Tasha's Cauldron of Everything p. 158*  
 
 ```statblock
@@ -33,40 +33,41 @@ aliases:
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "bludgeoning"
 "damage_resistances": "acid; cold; fire; lightning; thunder; piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The reflection can move through a space as narrow as 1 inch wide without\
       \ squeezing."
     "name": "Amorphous"
-  - "desc": "While in dim light or darkness, the reflection can take the Hide action\
-      \ as a bonus action. Its stealth bonus is also improved to +6."
+  - "desc": "While in dim light or darkness, the reflection can take the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action as a bonus action. Its stealth bonus is also improved to +6."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the reflection has disadvantage on attack rolls, ability\
       \ checks, and saving throws."
     "name": "Sunlight Weakness"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4.\
-      \ The target dies if this reduces its Strength to 0. Otherwise, the reduction\
-      \ lasts until the target finishes a short or long rest.\n\nIf a non-evil humanoid\
-      \ dies from this attack, a new reflection rises from the corpse 1d4 hours later."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced\
+      \ by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the\
+      \ reduction lasts until the target finishes a short or long rest.\n\nIf a non-evil\
+      \ humanoid dies from this attack, a new reflection rises from the corpse 1d4\
+      \ hours later."
     "name": "Strength Drain"
 "source":
   - "TCE"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/reflection-tce.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/reflection-tce.webp"
 ```
 ^statblock

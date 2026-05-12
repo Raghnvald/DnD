@@ -15,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Griffon
+- "Griffon"
 ---
-# [Griffon](3-Mechanics\CLI\bestiary\monstrosity/griffon.md)
-*Source: Monster Manual p. 174, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md)
+*Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
 
@@ -58,28 +58,28 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
   - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The griffon has advantage on Wisdom (Perception) checks that rely on\
-      \ sight."
+  - "desc": "The griffon has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The griffon makes two attacks: one with its beak and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage."
     "name": "Beak"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/griffon.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/griffon.webp"
 ```
 ^statblock
 

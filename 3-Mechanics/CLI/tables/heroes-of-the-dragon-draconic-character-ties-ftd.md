@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Heroes of the Dragon; Draconic Character Ties
+- "Heroes of the Dragon; Draconic Character Ties"
 ---
 # Heroes of the Dragon; Draconic Character Ties
 *Source: Fizban's Treasury of Dragons p. 16* 
 
 **Draconic Character Ties**
-
-`dice: [](heroes-of-the-dragon-draconic-character-ties-ftd.md#^draconic-character-ties)`
 
 | dice: d10 | Draconic Tie |
 |-----------|--------------|

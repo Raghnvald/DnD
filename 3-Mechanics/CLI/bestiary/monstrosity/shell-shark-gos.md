@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shell Shark
+- "Shell Shark"
 ---
-# [Shell Shark](3-Mechanics\CLI\bestiary\monstrosity/shell-shark-gos.md)
+# [Shell Shark](3-Mechanics/CLI/bestiary/monstrosity/shell-shark-gos.md)
 *Source: Ghosts of Saltmarsh p. 252*  
 
 These impressive creatures, swimming through the sahuagin stronghold in The Final Enemy, are chosen by priestesses of Sekolah to serve as protectors and messengers. The sharks are blessed in a ritual during which plates of shell and coral are permanently affixed to their bodies.
@@ -60,6 +60,6 @@ These impressive creatures, swimming through the sahuagin stronghold in The Fina
     "name": "Bite"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/shell-shark-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/shell-shark-gos.webp"
 ```
 ^statblock

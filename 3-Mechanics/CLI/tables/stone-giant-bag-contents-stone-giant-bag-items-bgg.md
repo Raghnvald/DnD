@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Stone Giant Bag Contents; Stone Giant Bag Items
+- "Stone Giant Bag Contents; Stone Giant Bag Items"
 ---
 # Stone Giant Bag Contents; Stone Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 107* 
 
 **Stone Giant Bag Items**
-
-`dice: [](stone-giant-bag-contents-stone-giant-bag-items-bgg.md#^stone-giant-bag-items)`
 
 | dice: d12 | Item |
 |-----------|------|

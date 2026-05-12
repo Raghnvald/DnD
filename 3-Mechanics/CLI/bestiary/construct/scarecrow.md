@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scarecrow
+- "Scarecrow"
 ---
-# [Scarecrow](3-Mechanics\CLI\bestiary\construct/scarecrow.md)
+# [Scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow.md)
 *Source: Monster Manual p. 268*  
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
@@ -42,11 +42,11 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -56,20 +56,20 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 "actions":
   - "desc": "The scarecrow makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) slashing damage. If the target is a creature, it must succeed on a DC\
-      \ 11 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) slashing damage. If the target is a creature, it must succeed\
+      \ on a DC 11 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ until the end of the scarecrow's next turn."
     "name": "Claw"
   - "desc": "The scarecrow targets one creature it can see within 30 feet of it. If\
       \ the target can see the scarecrow, the target must succeed on a DC 11 Wisdom\
-      \ saving throw or be magically [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ until the end of the scarecrow's next turn. The [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ target is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)."
+      \ saving throw or be magically [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ until the end of the scarecrow's next turn. The [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ target is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)."
     "name": "Terrifying Glare"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/scarecrow.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/scarecrow.webp"
 ```
 ^statblock
 

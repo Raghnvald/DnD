@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurinax
+- "Aurinax"
 ---
-# [Aurinax](3-Mechanics\CLI\bestiary\npc/aurinax-wdh.md)
+# [Aurinax](3-Mechanics/CLI/bestiary/npc/aurinax-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 194*  
 
 ```statblock
@@ -39,16 +39,17 @@ aliases:
   - "wisdom": !!int "8"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+14"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+13"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
@@ -60,17 +61,17 @@ aliases:
   - "desc": "Aurinax can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d10 + 8) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Aurinax's choice that is within 120 feet of Aurinax\
-      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened\
+      \ and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Aurinax's\
@@ -100,16 +101,18 @@ aliases:
   \ turn, Aurinax can expend a use to take one of the following actions. Aurinax regains\
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Aurinax makes a Wisdom (Perception) check."
+  - "desc": "Aurinax makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "Aurinax makes a tail attack."
     "name": "Tail Attack"
   - "desc": "Aurinax beats its wings. Each creature within 10 feet of Aurinax must\
       \ succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-      \ damage and be knocked prone. Aurinax can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ Aurinax can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/aurinax-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/aurinax-wdh.webp"
 ```
 ^statblock

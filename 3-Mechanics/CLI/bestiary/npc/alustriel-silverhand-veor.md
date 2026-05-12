@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Alustriel Silverhand
+- "Alustriel Silverhand"
 ---
-# [Alustriel Silverhand](3-Mechanics\CLI\bestiary\npc/alustriel-silverhand-veor.md)
+# [Alustriel Silverhand](3-Mechanics/CLI/bestiary/npc/alustriel-silverhand-veor.md)
 *Source: Vecna: Eve of Ruin p. 242*  
 
 Lady Alustriel Silverhand, called the Shining Lady, has been an influential wizard and proponent of good across Toril for centuries. Alustriel is one of the Seven Sisters—immortal daughters of Mystra, the god of magic. The divine energy Mystra passed to Alustriel grants Alustriel incredible power over arcane magic.
@@ -41,7 +41,7 @@ Alustriel has partaken in countless adventures before and after her tenure as Si
 "subtype": "human, wizard"
 "alignment": "Chaotic Good"
 "ac": !!int "15"
-"ac_class": "18 with mage armor"
+"ac_class": "18 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "272"
 "hit_dice": "32d8 + 128"
 "modifier": !!int "5"
@@ -58,17 +58,18 @@ Alustriel has partaken in countless adventures before and after her tenure as Si
   - "intelligence": !!int "14"
   - "wisdom": !!int "13"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+14"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+14"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+13"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+14"
 "damage_resistances": "radiant"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 16"
 "languages": "Common, Draconic, Elvish"
 "cr": "21"
@@ -80,41 +81,45 @@ Alustriel has partaken in countless adventures before and after her tenure as Si
   - "desc": "If Alustriel fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "Alustriel carries a magic staff known as the Staff of Silverymoon. In\
-      \ the hands of anyone other than Alustriel, the Staff of Silverymoon is a Staff\
-      \ of Power."
+      \ the hands of anyone other than Alustriel, the Staff of Silverymoon is a [Staff\
+      \ of Power](3-Mechanics/CLI/items/staff-of-power-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Alustriel makes three Staff of Silverymoon attacks or two Reproving Ray\
       \ attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d8 + 5) bludgeoning damage plus 38 (7d10) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d8 + 5) bludgeoning damage plus 38 (7d10) radiant damage."
     "name": "Staff of Silverymoon"
   - "desc": "*Ranged Spell Attack:* +14 to hit, range 120 ft., one target. *Hit:*\
       \ 65 (9d12 + 7) force damage, and if the target is a creature, it must make\
-      \ a DC 22 Charisma saving throw. On a failed save, the target has the incapacitated\
+      \ a DC 22 Charisma saving throw. On a failed save, the target has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition until the start of Alustriel's next turn. On a successful save,\
       \ the target's speed is reduced by 10 feet until the start of Alustriel's next\
       \ turn."
     "name": "Reproving Ray"
   - "desc": "Alustriel summons a 60-foot cone of silver fire. Each creature in that\
-      \ area must make a DC 22 Dexterity saving throw, taking 77 (14d10) radiant damage\
-      \ on a failed save or half as much damage on a successful one. Additionally,\
+      \ area must make a DC 22 Dexterity saving throw, taking 77 (14d10) radiant\
+      \ damage on a failed save or half as much damage on a successful one. Additionally,\
       \ Alustriel or one creature of her choice within 60 feet of her then regains\
       \ 10 (3d6) hit points."
     "name": "Argent Blaze (Requires Silver Fire)"
   - "desc": "Alustriel casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 22):\n\n**At will:** Dancing Lights, Detect\
-      \ Magic, Mage Armor (self only), Mage Hand\n\n**2/day each:** Detect Thoughts,\
-      \ Dispel Magic, Tongues\n\n**1/day each:** Telepathy, Teleport, Time Stop"
+      \ spellcasting ability (spell save DC 22):\n\n**At will:** [Dancing Lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (self only), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**2/day\
+      \ each:** [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\
+      \n**1/day each:** [Telepathy](3-Mechanics/CLI/spells/telepathy-xphb.md), [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md),\
+      \ [Time Stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Brilliant silver fire harmlessly wreathes Alustriel and empowers her.\
-      \ The silver fire lasts for 1 hour or until she has the incapacitated condition\
-      \ or uses another bonus action to quench it. While wreathed in silver fire,\
-      \ Alustriel gains truesight within 30 feet and can use her Argent Blaze action.\
-      \ In addition, Alustriel is unaffected by magic that would ascertain her alignment,\
-      \ creature type, thoughts, or truthfulness."
+      \ The silver fire lasts for 1 hour or until she has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition or uses another bonus action to quench it. While wreathed in silver\
+      \ fire, Alustriel gains truesight within 30 feet and can use her Argent Blaze\
+      \ action. In addition, Alustriel is unaffected by magic that would ascertain\
+      \ her alignment, creature type, thoughts, or truthfulness."
     "name": "Silver Fire (2/Day)"
 "reactions":
   - "desc": "Alustriel interrupts a creature she can see within 60 feet of herself\
@@ -126,6 +131,6 @@ Alustriel has partaken in countless adventures before and after her tenure as Si
     "name": "Shining Counterspell"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/alustriel-silverhand-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/alustriel-silverhand-veor.webp"
 ```
 ^statblock

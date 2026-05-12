@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Thunder Cliffs
+- "Thunder Cliffs"
 ---
 # Thunder Cliffs
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -46,7 +46,7 @@ Within a few days, the two captains arrive via rowboat through the marsh to talk
 
 Valdi Estapaar brings the tabaxi Stands in Tar and the dragonborn Kristoffen before the characters to allow them to ask questions of the two captains. They each plead their case for being the best ship and crew for the job.
 
-Stands in Tar staggers slightly as she stands. A successful DC 15 Wisdom (Insight) check reveals that the tabaxi has been in the rum-soaked catnip and is not totally sober. She does, however, plead her case eloquently. Her ship is faster and more agile, and her crew smaller and less likely to gossip about their mission. There isn't a ship on the sea that the *Dancing Delight* can't outmaneuver or outrun on the open ocean.
+Stands in Tar staggers slightly as she stands. A successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check reveals that the tabaxi has been in the rum-soaked catnip and is not totally sober. She does, however, plead her case eloquently. Her ship is faster and more agile, and her crew smaller and less likely to gossip about their mission. There isn't a ship on the sea that the *Dancing Delight* can't outmaneuver or outrun on the open ocean.
 
 Kristoffen looks at Stands in Tar with a mixture of disgust and horror, shaking his head in disbelief that anyone would even consider choosing the drunken tabaxi and her ship over him and his. He explains to the party that his ship is more reliable and safer, which they might need on the seas that have become more violent of late. He goes on to reveal that he's heard rumors that the once-safe caves at the base of the Thunder Cliffs have recently become more dangerous. Stand in Tar scoffs at that idea.
 
@@ -54,7 +54,7 @@ Kristoffen looks at Stands in Tar with a mixture of disgust and horror, shaking 
 
 Feel free to roleplay the interactions here as much or as little as you are comfortable. If the characters ask to get a read on the attitudes of the two captains, Stands in Tar is pretty much as advertised: competent but foolhardy, experienced but overly confident.
 
-Kristoffen, on the other hand, is hiding something. With a successful DC 20 Wisdom (Insight) check, a character can sense that the dragonborn is nervous and hiding something. If confronted, he says that he just has a bad feeling about traveling to the Thunder Cliffs, but he is willing to do so for the payment and the friendship he shares with Valdi Estapaar.
+Kristoffen, on the other hand, is hiding something. With a successful DC 20 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check, a character can sense that the dragonborn is nervous and hiding something. If confronted, he says that he just has a bad feeling about traveling to the Thunder Cliffs, but he is willing to do so for the payment and the friendship he shares with Valdi Estapaar.
 
 Kristoffen has recently been converted into the Cult of Talos. There is no evidence of this on his person, but back on the Ice Floe the characters might find some if they snoop in his quarters.
 
@@ -64,7 +64,7 @@ At some point, the characters must decide which vessel and captain they prefer. 
 
 Whomever the party chooses is pleased, and the other captain simply accepts the decision and walks away. They are both ready to go as soon as the characters are.
 
-If for any reason the characters attack Kristoffen because they learn of his affiliation with the Cult of Talos, he defends himself. Kristoffen (use [half-red dragon veteran](/3-Mechanics/CLI/bestiary/humanoid/half-red-dragon-veteran.md) statistics but replace fire with cold in attacks and resistances) can summon a pair of [air elementals](/3-Mechanics/CLI/bestiary/elemental/air-elemental.md) that serve him on behalf of Talos, which appear at the end of the first round of combat.
+If for any reason the characters attack Kristoffen because they learn of his affiliation with the Cult of Talos, he defends himself. Kristoffen (use [half-red dragon veteran](3-Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md) statistics but replace fire with cold in attacks and resistances) can summon a pair of [air elementals](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md) that serve him on behalf of Talos, which appear at the end of the first round of combat.
 
 ## Encounters on the Way
 
@@ -80,7 +80,7 @@ The crew of the *Dancing Delight* is unhappy because their captain has been even
 
 ### The Moment of Truth
 
-A day into the journey, after the party has heard some grumbling among the sailors, the crew confronts the captain. Regardless of the vessel, the mutiny is led by Castisha (female Calishite [swashbuckler](/3-Mechanics/CLI/bestiary/humanoid/swashbuckler-vgm.md); see appendix A), the first mate. She is backed by four sailors ([bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit.md)) per character, excluding sidekicks.
+A day into the journey, after the party has heard some grumbling among the sailors, the crew confronts the captain. Regardless of the vessel, the mutiny is led by Castisha (female Calishite [swashbuckler](3-Mechanics/CLI/bestiary/humanoid/swashbuckler-mpmm.md); see appendix A), the first mate. She is backed by four sailors ([bandits](3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)) per character, excluding sidekicks.
 
 The captain (of either ship) refuses to turn over control of the ship peacefully. Castisha offers to let the captain get into a dingy and go ashore safely, but if they don't go peacefully, the mutineers are willing to do it the hard way. The mutineers make it clear they will not hurt the party and will honor the contract that was agreed upon.
 
@@ -92,7 +92,7 @@ Without the characters' help, neither captain can defeat the mutineers. If the a
 
 The adventurers may attempt to speak on behalf of the captain, hoping to talk the mutineers out of their plans. Castisha has already made up her mind, and nothing short of magical compulsion can get her to back down. The rest of the mutineers, however, are willing to listen to reasons why they shouldn't overthrow their captain. Set the DC for succeeding at 15, and then adjust based on the tactics the characters use.
 
-For example, if one of the characters shoots a fireball into the sky to intimidate the sailors into standing down, the Charisma (Intimidation) check to cow the sailors might just be DC 10, or it might even succeed automatically.
+For example, if one of the characters shoots a fireball into the sky to intimidate the sailors into standing down, the Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) check to cow the sailors might just be DC 10, or it might even succeed automatically.
 
 #### Fight
 
@@ -115,7 +115,7 @@ As the party's ship gets closer to the Thunder Cliffs, the spectral ship that th
 > The skies darken and a thick mist rises from the water, obscuring sight around the ship. The crew swears and make superstitious signs. Then, from the crow's nest, a voice screams, "Ghost ship ahead." Before the words can even register, spectral figures emerge from the mist, swooping up onto the decks.
 ^0d6
 
-One [allip](/3-Mechanics/CLI/bestiary/undead/allip-mpmm.md) per three adventurers (rounded down) and two [specters](/3-Mechanics/CLI/bestiary/undead/specter.md) per character, excluding sidekicks, use the cover of the mist to approach the ship. The allip's howling babble instantly stuns everyone on the ship except the adventurers, as the crew collapses in a heap. Even if they get up during the battle, the sailors are terrified and do nothing but flee and cower under the undead assault.
+One allip per three adventurers (rounded down) and two [specters](3-Mechanics/CLI/bestiary/undead/specter-xmm.md) per character, excluding sidekicks, use the cover of the mist to approach the ship. The allip's howling babble instantly stuns everyone on the ship except the adventurers, as the crew collapses in a heap. Even if they get up during the battle, the sailors are terrified and do nothing but flee and cower under the undead assault.
 
 While the allips attack, the characters can understand a few snippets of recognizable words in their babbling, including "we know of the ruinstone... that never happens" and "the Ebondeath rises but cannot fly" and "the bronze points the way to the green."
 
@@ -125,7 +125,7 @@ While the allips attack, the characters can understand a few snippets of recogni
 > 
 > The trek from Leilon to the Thunder Cliffs should trigger many encounters with undead creatures from the army of Ularan Mortus, random ogre and giant attacks, and confrontations with other hostile beasts, humanoids, and monsters.
 > 
-> The top of the cliffs is home to a tribe of Talos-worshipping aarakocra who act as a guard for the cult. Many will attack when the characters approach, but some will hang back and see what happens. If the characters succeed in defeating the group, the rest of the aarakocra pester the party as they try to climb down the 800-foot-high cliffs. And, of course, the [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) and [manticores](/3-Mechanics/CLI/bestiary/monstrosity/manticore.md) are always ready to attack intruders.
+> The top of the cliffs is home to a tribe of Talos-worshipping aarakocra who act as a guard for the cult. Many will attack when the characters approach, but some will hang back and see what happens. If the characters succeed in defeating the group, the rest of the aarakocra pester the party as they try to climb down the 800-foot-high cliffs. And, of course, the [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) and [manticores](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) are always ready to attack intruders.
 ^the-sea-less-traveled
 
 ## Arrival
@@ -140,7 +140,7 @@ From here, the characters must either use the rowboat attached to the ship (2-8 
 
 As the adventurers set off toward the caves, guardians serving the cultists of Talos sense their presence and attack.
 
-One [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) flies down from the cliffs to attempt to upend the rowboat. [Manticores](/3-Mechanics/CLI/bestiary/monstrosity/manticore.md) (one per two characters, excluding sidekicks) follow from their perches in the cliff face.
+One [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) flies down from the cliffs to attempt to upend the rowboat. [Manticores](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md) (one per two characters, excluding sidekicks) follow from their perches in the cliff face.
 
 #### Talos is Angry
 
@@ -148,11 +148,11 @@ The water and air, which have been relatively peaceful until now, suddenly turn 
 
 Flying creatures not sent by Talos must succeed on a DC 15 Strength saving throw at the start of each turn. On a failed save, severe winds drive them into the water.
 
-Creatures in the water find the rough waves treacherous. Creatures without a swim speed must succeed on a DC 10 Strength (Athletics) check to take an action without going under. On a failed check, or if the creature takes an action without attempting the check, that creature begins to drown (see ""Suffocating"" in the "Player's Handbook").
+Creatures in the water find the rough waves treacherous. Creatures without a swim speed must succeed on a DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to take an action without going under. On a failed check, or if the creature takes an action without attempting the check, that creature begins to drown (see ""Suffocating"" in the "Player's Handbook").
 
 ### Sea Galley
 
-The previous guardians are not the only creatures that protect the shore in the service of Talos. A [huge giant crab](/3-Mechanics/CLI/bestiary/beast/huge-giant-crab-tftyp.md) (see appendix A), or two crabs if there are more than four characters, including sidekicks, floats under the surface 200 feet from shore. It waits until a boat or swimming creatures pass above it, then it swims up and attacks, tipping over the boat if it is still in use. If creatures are flying, the crab waits until they land on shore, then rushes out to attack.
+The previous guardians are not the only creatures that protect the shore in the service of Talos. A [huge giant crab](3-Mechanics/CLI/bestiary/beast/huge-giant-crab-tftyp.md) (see appendix A), or two crabs if there are more than four characters, including sidekicks, floats under the surface 200 feet from shore. It waits until a boat or swimming creatures pass above it, then it swims up and attacks, tipping over the boat if it is still in use. If creatures are flying, the crab waits until they land on shore, then rushes out to attack.
 
 ## Thunder Cliffs Caves
 
@@ -165,20 +165,20 @@ The operation undertaken by the Cult of Talos here is not complicated. They lure
 With the gold earned through this terrible operation, the Cult of Talos funds operatives along the coast and the High Road, who (like the group at the Wayside Inn) hope to establish shrines that will eventually put the Cult of Talos in control of the area.
 
 > [!gallery]
-> ![Map 8: Caverns at Thunder Cliffs](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/015-1vb8n-map-thunder-cliffs_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/016-vi6zl-map-thunder-cliffs_player.webp#gallery)
+> ![Map 8: Caverns at Thunder Cliffs](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/015-1vb8n-map-thunder-cliffs_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/016-vi6zl-map-thunder-cliffs_player.webp#gallery)
 
 ### 1. Unsure Shore
 
 The shoreline, where the water meets the sandy beach, crashes with the breaking waves. The echoes formed within the caves reverberate back, filling the air with a sound like the crashing of thunder.
 
-The shore is lined with thin wire treated with a modified version of the alarm spell. Water and other natural circumstances do not trigger the spell, but any humanoid creatures that trip the wires cause an alarm to sound within the caves, alerting the cultists that intruders are present.
+The shore is lined with thin wire treated with a modified version of the [alarm](3-Mechanics/CLI/spells/alarm-xphb.md) spell. Water and other natural circumstances do not trigger the spell, but any humanoid creatures that trip the wires cause an alarm to sound within the caves, alerting the cultists that intruders are present.
 
-The wires can be spotted with a successful DC 15 Wisdom (Perception) check. Getting to shore without tripping the wires is practically impossible, but the wires can be disarmed with a DC 15 Dexterity (Sleight of Hand) check, or the alarm spell can be suppressed for an hour using dispel magic.
+The wires can be spotted with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Getting to shore without tripping the wires is practically impossible, but the wires can be disarmed with a DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check, or the [alarm](3-Mechanics/CLI/spells/alarm-xphb.md) spell can be suppressed for an hour using [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md).
 
 ### 2. Unhappy Cultists
 
-If the characters are able to approach without tripping the alarm, they might hear some disgruntled cultists talking while they work. If the alarm was tripped, the cultists wait with weapons drawn and cannot be surprised.
+If the characters are able to approach without tripping the alarm, they might hear some disgruntled cultists talking while they work. If the alarm was tripped, the cultists wait with weapons drawn and cannot be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised).
 
 If the adventurers get a chance to hear the cultists talking, use the following read-aloud text to portray that conversation:
 
@@ -187,11 +187,11 @@ If the adventurers get a chance to hear the cultists talking, use the following 
 > A severely damaged ship leans against a ledge. Atop the ledge, a handful of workers offload crates, boxes, and barrels from the ship. They grumble and grouse about this menial labor, agreeing that they did not seek the power of the Stormlord to be forced into playing the part of glorified longshoremen.
 ^0df
 
-The cultists here ([spies](/3-Mechanics/CLI/bestiary/humanoid/spy.md)) number two per character, including sidekicks.
+The cultists here ([spies](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) number two per character, including sidekicks.
 
 #### A Better Offer?
 
-The party could avoid a fight here if they understand the frustration of the cultists and go in immediately with a better offer. To get the dialogue started on a good note, one of the characters must approach the group and talk to them. A successful DC 15 Charisma (Deception or Persuasion) checks convinces the disgruntled cultists to listen.
+The party could avoid a fight here if they understand the frustration of the cultists and go in immediately with a better offer. To get the dialogue started on a good note, one of the characters must approach the group and talk to them. A successful DC 15 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) checks convinces the disgruntled cultists to listen.
 
 The party might also pretend to be other members of the cult who are seeking volunteers to do more exciting work elsewhere. They might offer to kill the current leader and put the workers in charge, or they might come up with a totally different plan.
 
@@ -201,7 +201,7 @@ Whatever the party's tactics allow the roleplaying to carry the encounter until 
 
 On a success, however, the party now has a valuable resource. The cultists are unlikely to turn traitor completely and join the characters, but they might give the characters valuable information about who and what lives in the caves, where the important areas are, and anything else they might need to know.
 
-![Sea Hags](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/017-q5cyq-sea-hags.webp#center)
+![Sea Hags](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/017-q5cyq-sea-hags.webp#center)
 
 ### 3. Sea Hag Coven
 
@@ -213,9 +213,9 @@ In order to access this cave, a creature must swim through a submerged tunnel te
 
 #### The Coven Cave
 
-In the cave, three [sea hags](/3-Mechanics/CLI/bestiary/fey/sea-hag.md) chew on the hands and feet of sailors who drowned after being shipwrecked on the magical reefs. The cultists supply the bodies in return for help from the coven when dealing with special problems, and the two forces have an easy mutual-protection pact.
+In the cave, three [sea hags](3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) chew on the hands and feet of sailors who drowned after being shipwrecked on the magical reefs. The cultists supply the bodies in return for help from the coven when dealing with special problems, and the two forces have an easy mutual-protection pact.
 
-Piles of slimy seaweed act as beds for the three sisters: Nana Pocktuss, Auntie Unk, and Granny Muyuk. The trio is using the inedible parts of the bodies to create assistants that look like flying skulls with long stingers. There is one [skull flier](/3-Mechanics/CLI/bestiary/construct/skull-flier-slw.md) per character, excluding sidekicks. You can find the statistics for these creatures in Appendix A.
+Piles of slimy seaweed act as beds for the three sisters: Nana Pocktuss, Auntie Unk, and Granny Muyuk. The trio is using the inedible parts of the bodies to create assistants that look like flying skulls with long stingers. There is one [skull flier](3-Mechanics/CLI/bestiary/construct/skull-flier-slw.md) per character, excluding sidekicks. You can find the statistics for these creatures in Appendix A.
 
 #### A Nice Chat
 
@@ -231,9 +231,9 @@ If all three of the hags can be placated by catering to to their particular vice
 
 ### 4. The Dying Second
 
-While the incredibly devout Gadrille the Reef-Reaver leads the group of cultists at the caves, Fheralai Stormsworn assigned a second-in-command to assist her—with special instructions to keep an eye on Gadrille to ensure she doesn't kill all her followers in a fit of mad devotion to Talos. That second-in-command is Sovendahl Erkinze, a [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md).
+While the incredibly devout Gadrille the Reef-Reaver leads the group of cultists at the caves, Fheralai Stormsworn assigned a second-in-command to assist her—with special instructions to keep an eye on Gadrille to ensure she doesn't kill all her followers in a fit of mad devotion to Talos. That second-in-command is Sovendahl Erkinze, a [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md).
 
-Sovendahl's bodyguards ([thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md)), numbering one per character, including sidekicks, stay with the drow no matter where he goes. And right now, he isn't going very far, because he is suffering from a curse.
+Sovendahl's bodyguards ([thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)), numbering one per character, including sidekicks, stay with the drow no matter where he goes. And right now, he isn't going very far, because he is suffering from a curse.
 
 Sovendahl's duties involve overseeing the sorting, transportation, and sales of the stolen goods that the rest of the operation steals from wrecked ships. This frees Gadrille do what she loves most: killing others in the name of Talos.
 
@@ -247,17 +247,17 @@ If combat breaks out here, Sovendahl fights bravely and expertly, but the exerti
 
 If at any point the characters speak with the drow about his affliction, pointing out that he is sick and in need of assistance, the drow might stop fighting and ask the characters if they can help him. He is willing to walk away from the cult to obtain a cure.
 
-A successful DC 15 Wisdom (Medicine) check reveals that the ailment is not a disease, but a curse. A character who casts remove curse on Sovendahl earns the drow's thanks. As a reward, the he gives the characters a magic item has been storing away: a dagger of venom.
+A successful DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check reveals that the ailment is not a disease, but a curse. A character who casts [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) on Sovendahl earns the drow's thanks. As a reward, the he gives the characters a magic item has been storing away: a [dagger of venom](3-Mechanics/CLI/items/dagger-of-venom-xdmg.md).
 
 ##### Treasure
 
-If the characters kill Sovendahl and his bodyguards, they do not find the magical dagger, which is hidden carefully in a secret location outside the caves. They do, however, get 250 gp in various coins, 3 potions of greater healing, and a jade brooch worth 500 gp.
+If the characters kill Sovendahl and his bodyguards, they do not find the magical dagger, which is hidden carefully in a secret location outside the caves. They do, however, get 250 gp in various coins, 3 [potions of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md), and a jade brooch worth 500 gp.
 
 ### 5. The Cultist's Quarters
 
 The cultists of Talos working under Gadrille the Reef-Reaver don't get a lot of time for relaxation and socializing. They spend most of their time out on the sea, luring unsuspecting ships into the reef, then salvaging the wreckages. Gadrille's motto is "if you're not reavin' in service to Talos, you're sleepin' in service to Talos."
 
-This area is where the cultists of the lowest standing sleep and eat. At any time, there are eight [scouts](/3-Mechanics/CLI/bestiary/humanoid/scout.md) here, sleeping in four bunk beds that line the walls, or eating their fish broth at the table in the center of the room before heading out to perform their tasks. The cultists here when the characters arrive are dedicated to their god and will not surrender or negotiate.
+This area is where the cultists of the lowest standing sleep and eat. At any time, there are eight [scouts](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) here, sleeping in four bunk beds that line the walls, or eating their fish broth at the table in the center of the room before heading out to perform their tasks. The cultists here when the characters arrive are dedicated to their god and will not surrender or negotiate.
 
 #### The Blowhole
 
@@ -265,13 +265,13 @@ In an alcove to the north of the room is a special feature that the occupants of
 
 When Gadrille believes a cultist is lacking the proper amount of faith to be a true servant of Talos, the cultist is dragged here and tossed into the water of the blowhole to be judged. Sometimes they are pulled down into the bottom of the shaft, sometimes a geyser of water blows them up through the top of the shaft, and sometimes nothing happens. If nothing happens, Gadrille takes that as a sign Talos approves.
 
-The truth is that the blowhole is a magical portal. When a living creature enters the blowhole, roll a `dice:d10|noform|noparens|avg` (`d10`). On a 1-8, nothing happens. On a 9, the creature is pulled down into the shaft, through a portal, and appears moments later floating in Waterdeep Harbor, alive and well. On a 10, the creature is pushed up through the ceiling by the geyser. With a successful DC 10 Strength saving throw, a creature can grab onto the side of the shaft and avoid getting pushed through the portal. On a failure, the creature tumbles through a portal at the top of the shaft and ends up in the Elemental Plane of Water. (Perhaps a passing [marid](/3-Mechanics/CLI/bestiary/elemental/marid.md) takes pity on the creature and uses plane shift to return it home—for a price!)
+The truth is that the blowhole is a magical portal. When a living creature enters the blowhole, roll a `d10`. On a 1-8, nothing happens. On a 9, the creature is pulled down into the shaft, through a portal, and appears moments later floating in Waterdeep Harbor, alive and well. On a 10, the creature is pushed up through the ceiling by the geyser. With a successful DC 10 Strength saving throw, a creature can grab onto the side of the shaft and avoid getting pushed through the portal. On a failure, the creature tumbles through a portal at the top of the shaft and ends up in the Elemental Plane of Water. (Perhaps a passing [marid](3-Mechanics/CLI/bestiary/elemental/marid-xmm.md) takes pity on the creature and uses [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) to return it home—for a price!)
 
 The party can learn about the magic of the blowhole in a number of ways:
 
 - One of the disgruntled anchorites tells the character about Gadrille's cruelty in dealing with those she deems unworthy.  
-- A successful DC 15 Intelligence (Investigation) check of the area reveals scrape marks around the blowhole, where people have grabbed hold while attempting to keep from getting sent away.  
-- Characters succeeding on a DC 15 Intelligence (Arcana) checks notices the magical emanations within the blowhole, revealing that it contains teleportation magic.  
+- A successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check of the area reveals scrape marks around the blowhole, where people have grabbed hold while attempting to keep from getting sent away.  
+- Characters succeeding on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) checks notices the magical emanations within the blowhole, revealing that it contains teleportation magic.  
 - A character steps into the blowhole and suffers the effects of the area.  
 
 ### 6. Loot
@@ -284,9 +284,9 @@ When the characters arrive, there is no one here, but there are several closed c
 
 Sovendahl fears that some of the cultists might be stealing from the stockpiles of goods for sale, so he placed a crate here that might be tempting to a thief.
 
-The crate marked "Gold" is full of rocks, and there are tiny runes on the edge of the lid, which can be noticed with a DC 20 Intelligence (Investigation) check. The runes can be deactivated with a dispel magic spell, or carefully filed away with a DC 15 Dexterity (Sleight of Hand) check.
+The crate marked "Gold" is full of rocks, and there are tiny runes on the edge of the lid, which can be noticed with a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. The runes can be deactivated with a [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell, or carefully filed away with a DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check.
 
-If the crate is opened without deactivating the runes, it explodes. Any creature within 10 feet of the crate must succeed on a DC 15 Constitution saving throw, taking `dice:8d8|noform|noparens|avg` (`8d8`) thunder damage on a failed save, or half as much on a success. The creatures within the blast radius are also covered in green ink that only comes off with repeated scrubbing over the course of months.
+If the crate is opened without deactivating the runes, it explodes. Any creature within 10 feet of the crate must succeed on a DC 15 Constitution saving throw, taking `8d8` thunder damage on a failed save, or half as much on a success. The creatures within the blast radius are also covered in green ink that only comes off with repeated scrubbing over the course of months.
 
 ##### Treasure
 
@@ -294,21 +294,21 @@ The rest of the crates here contain about 2000 gp worth of trade goods. However,
 
 ### 7. Gadrille the Reef-Reaver
 
-Gadrille the Reef-Reaver is a female half-elf [evoker](/3-Mechanics/CLI/bestiary/humanoid/evoker-vgm.md). She spends most of her time out with her followers, preying on those too weak to withstand the ravaging power of Talos. When in the caves, however, she is in her chambers praying.
+Gadrille the Reef-Reaver is a female half-elf [evoker](3-Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm.md). She spends most of her time out with her followers, preying on those too weak to withstand the ravaging power of Talos. When in the caves, however, she is in her chambers praying.
 
-Talos has rewarded Gadrille for her devotion with a pet, whom she calls "[Tooth-N-Claw](/3-Mechanics/CLI/bestiary/npc/tooth-n-claw-slw.md)." This beast uses [hell hound](/3-Mechanics/CLI/bestiary/fiend/hell-hound.md) statistics but replace fire with cold in attacks and immunities. [Tooth-N-Claw](/3-Mechanics/CLI/bestiary/npc/tooth-n-claw-slw.md) is ferociously protective of Gadrille. If there are more than four characters, excluding sidekicks, add a second pet called "Frost-N-Fang."
+Talos has rewarded Gadrille for her devotion with a pet, whom she calls "[Tooth-N-Claw](3-Mechanics/CLI/bestiary/npc/tooth-n-claw-slw.md)." This beast uses [hell hound](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md) statistics but replace fire with cold in attacks and immunities. [Tooth-N-Claw](3-Mechanics/CLI/bestiary/npc/tooth-n-claw-slw.md) is ferociously protective of Gadrille. If there are more than four characters, excluding sidekicks, add a second pet called "Frost-N-Fang."
 
 #### Swirling Pool Chamber
 
-In the center of this chamber is a large roiling boil of water. Gadrille likes to soak in it, feeling the power of Talos course through her when she does. If a creature not favored by Talos enters the pool or starts its turn there, it takes `dice:4d10|noform|noparens|avg` (`4d10`) psychic damage.
+In the center of this chamber is a large roiling boil of water. Gadrille likes to soak in it, feeling the power of Talos course through her when she does. If a creature not favored by Talos enters the pool or starts its turn there, it takes `4d10` psychic damage.
 
 #### Shrine Chamber
 
-This area is Gadrille's private shrine. In addition to the carved limestone likeness of Talos in one corner, the walls are carved with images of Talos's destructive power. Moving within the chamber is like moving through difficult terrain unless you are a worshipper of Talos. Taking an action to say a prayer to Talos and succeeding on a DC 15 Intelligence (Religion) check, allows a creature to move normally in the room for 1 minute.
+This area is Gadrille's private shrine. In addition to the carved limestone likeness of Talos in one corner, the walls are carved with images of Talos's destructive power. Moving within the chamber is like moving through difficult terrain unless you are a worshipper of Talos. Taking an action to say a prayer to Talos and succeeding on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, allows a creature to move normally in the room for 1 minute.
 
 ##### Treasury
 
-Gadrille stores her personal wealth here, including a chest with 300 gp, three ornate matching silver daggers worth a total of 500 gp, a ring of warmth, a wand of magic missiles, and a potion of vitality.
+Gadrille stores her personal wealth here, including a chest with 300 gp, three ornate matching silver daggers worth a total of 500 gp, a [ring of warmth](3-Mechanics/CLI/items/ring-of-warmth-xdmg.md), a [wand of magic missiles](3-Mechanics/CLI/items/wand-of-magic-missiles-xdmg.md), and a [potion of vitality](3-Mechanics/CLI/items/potion-of-vitality-xdmg.md).
 
 ### Aftermath
 

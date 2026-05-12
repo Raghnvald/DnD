@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gem Stalker
+- "Gem Stalker"
 ---
-# [Gem Stalker](3-Mechanics\CLI\bestiary\monstrosity/gem-stalker-ftd.md)
+# [Gem Stalker](3-Mechanics/CLI/bestiary/monstrosity/gem-stalker-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 202*  
 
 When a gem dragon kills an aberrant creature from the Far Realm, the dragon sometimes reshapes the alien corpse into a gem stalker—a cunning predator capable of traversing the Underdark, hunting Aberrations, and guarding its creator's lair. A gem stalker is imbued with life, sapience, and purpose by the mystical energy of the gem dragon's breath, and it is dedicated to its mission.
@@ -41,13 +41,12 @@ A gem stalker has a four-legged body resembling that of a wingless dragon, but w
   - "dexterity": !!int "5"
   - "intelligence": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"senses": "darkvision 120 ft., passive Perception 13"
 "languages": "telepathy 60 ft. understands Draconic but can't speak"
 "cr": "5"
 "traits":
@@ -63,8 +62,8 @@ A gem stalker has a four-legged body resembling that of a wingless dragon, but w
       \ (2d6 + 3) slashing damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 30 ft., one target. *Hit:* 7\
-      \ (1d10 + 2) force damage, and one of the following effects occurs, determined\
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 30 ft., one target. *Hit:*\
+      \ 7 (1d10 + 2) force damage, and one of the following effects occurs, determined\
       \ by the kind of dragon that created the gem stalker:"
     "name": "Crystal Dart"
   - "desc": "The gem stalker can teleport to an unoccupied space it can see within\
@@ -77,9 +76,9 @@ A gem stalker has a four-legged body resembling that of a wingless dragon, but w
       \ attack roll it makes before the start of the gem stalker's next turn."
     "name": "Emerald"
   - "desc": "The target must succeed on a DC 13 Strength saving throw or be pushed\
-      \ horizontally up to 10 feet away from the gem stalker and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ horizontally up to 10 feet away from the gem stalker and be knocked prone."
     "name": "Sapphire"
-  - "desc": "The target must succeed on a DC 13 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "The target must succeed on a DC 13 Constitution saving throw or be poisoned\
       \ until the start of the gem stalker's next turn."
     "name": "Topaz"
 "reactions":
@@ -89,6 +88,6 @@ A gem stalker has a four-legged body resembling that of a wingless dragon, but w
     "name": "Protective Link"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/gem-stalker-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gem-stalker-ftd.webp"
 ```
 ^statblock

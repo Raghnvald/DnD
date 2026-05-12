@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdh
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Waterdeep: Dragon Heist* 

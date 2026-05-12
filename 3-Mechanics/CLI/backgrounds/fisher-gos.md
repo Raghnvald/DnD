@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/gos
 aliases:
-- Fisher
+- "Fisher"
 ---
 # Fisher
 *Source: Ghosts of Saltmarsh p. 29*  
@@ -26,8 +26,6 @@ You gain advantage on ability checks made using fishing tackle. If you have acce
 
 You can tell a compelling tale, whether tall or true, to impress and entertain others. Once a day, you can tell your story to willing listeners. At the DM's discretion, a number of those listeners become friendly toward you; this is not a magical effect, and continued amicability on their part depends on your actions. You can roll on the following table to help determine the theme of your tale or choose one that best fits your character. Alternatively, work with your DM to create your own fishing tale.
 
-`dice: [](fisher-gos.md#^tale)`
-
 | dice: d8 | Tale |
 |----------|------|
 | 1 | Lobster Wrestling. You fought in hand-to-hand combat with an immense lobster. |
@@ -46,8 +44,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 
 **Fisher Personality Traits**
 
-`dice: [](fisher-gos.md#^fisher-personality-traits)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I am unmoved by the wrath of nature. |
@@ -62,8 +58,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 
 **Fisher Ideals**
 
-`dice: [](fisher-gos.md#^fisher-ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Camaraderie.** Good people make even the longest voyage bearable. (Good) |
@@ -76,8 +70,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 
 **Fisher Bonds**
 
-`dice: [](fisher-gos.md#^fisher-bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I lost something important in the deep sea, and I intend to find it. |
@@ -89,8 +81,6 @@ Fishers succeed only if they spend time at their jobs. As such, most fishers hav
 ^fisher-bonds
 
 **Fisher Flaws**
-
-`dice: [](fisher-gos.md#^fisher-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clockwork Horror
+- "Clockwork Horror"
 ---
-# [Clockwork Horror](3-Mechanics\CLI\bestiary\construct/clockwork-horror-mcv1sc.md)
+# [Clockwork Horror](3-Mechanics/CLI/bestiary/construct/clockwork-horror-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 4*  
 
 Clockwork horrors are ruthless insectile automatons—eldritch machines encased in adamantine or some other precious metal. They roam Wildspace in commandeered spelljamming ships, gathering the precious metals and crystals they need to build more of their kind. Clockwork horrors have no goal beyond replication and will stop at nothing to create new clockwork horrors. The time it takes for a clockwork horror to build another of its kind, assuming it has the requisite materials, is approximately ten days.
@@ -47,18 +47,22 @@ When a clockwork horror dies, the magic that created it consumes it over a perio
   - "strength": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 16"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Thri-kreen, Ziklight"
 "cr": "2"
 "traits":
-  - "desc": "If targeted by dispel magic, the horror must succeed on a Constitution\
-      \ saving throw against the caster's spell save DC or fall unconscious for 1\
-      \ minute or until it takes any damage."
+  - "desc": "If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
+      \ the horror must succeed on a Constitution saving throw against the caster's\
+      \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for 1 minute or until it takes any damage."
     "name": "Shutdown"
   - "desc": "The horror doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -66,14 +70,14 @@ When a clockwork horror dies, the magic that created it consumes it over a perio
   - "desc": "The horror makes one Bite attack and two Rotating Saw attacks, or it\
       \ makes two Lightning Jolt attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Rotating Saw"
-  - "desc": "*Ranged Spell Attack:* +4 to hit, range 120 ft., one target. *Hit:* 7\
-      \ (1d10 + 2) lightning damage."
+  - "desc": "*Ranged Spell Attack:* +4 to hit, range 120 ft., one target. *Hit:*\
+      \ 7 (1d10 + 2) lightning damage."
     "name": "Lightning Jolt"
   - "desc": "The horror attaches to a spelljamming helm it can see within 5 feet of\
       \ itself and attunes to the helm instantly. If another creature is already attuned\
@@ -84,6 +88,6 @@ When a clockwork horror dies, the magic that created it consumes it over a perio
     "name": "Spelljamming Helm Interface"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/clockwork-horror-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/clockwork-horror-mcv1sc.webp"
 ```
 ^statblock

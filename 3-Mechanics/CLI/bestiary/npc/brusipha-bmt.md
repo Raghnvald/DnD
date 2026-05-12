@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/minotaur
-- new/monster/type/humanoid/warlock
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/minotaur
+- ttrpg-cli/monster/type/humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brusipha
+- "Brusipha"
 ---
-# [Brusipha](3-Mechanics\CLI\bestiary\npc/brusipha-bmt.md)
+# [Brusipha](3-Mechanics/CLI/bestiary/npc/brusipha-bmt.md)
 *Source: The Book of Many Things p. 127*  
 
 ```statblock
@@ -49,25 +49,25 @@ aliases:
 "languages": "Abyssal, Common"
 "cr": "3"
 "traits":
-  - "desc": "Brusipha can spend 3 hours performing a ritual that summons 1d3 + 1 barlguras\
-      \ or 1 hezrou. She must sacrifice a Medium or larger living creature to Baphomet\
-      \ during this ritual, and the ritual can be performed only at night. The demons\
-      \ vanish at dawn."
+  - "desc": "Brusipha can spend 3 hours performing a ritual that summons 1d3 + 1\
+      \ barlguras or 1 hezrou. She must sacrifice a Medium or larger living creature\
+      \ to Baphomet during this ritual, and the ritual can be performed only at night.\
+      \ The demons vanish at dawn."
     "name": "Demonic Ritual"
   - "desc": "Brusipha can perfectly recall any path she has traveled."
     "name": "Labyrinthine Recall"
 "actions":
   - "desc": "Brusipha makes two Eldritch Blast attacks."
     "name": "Multiattack"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:* 8\
-      \ (1d10 + 3) force damage."
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:*\
+      \ 8 (1d10 + 3) force damage."
     "name": "Eldritch Blast"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage plus 4 (1d8) necrotic damage. If Brusipha moved at least\
-      \ 10 feet straight toward the target immediately before she hit, the target\
-      \ takes an extra 4 (1d8) piercing damage, and if the target is a creature, it\
-      \ must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet from\
-      \ Brusipha and have the prone condition."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage plus 4 (1d8) necrotic damage. If Brusipha moved\
+      \ at least 10 feet straight toward the target immediately before she hit, the\
+      \ target takes an extra 4 (1d8) piercing damage, and if the target is a creature,\
+      \ it must succeed on a DC 15 Strength saving throw or be pushed up to 10 feet\
+      \ from Brusipha and have the prone condition."
     "name": "Gore"
   - "desc": "Brusipha allows each ally within 30 feet of herself that has the Unerring\
       \ Tracker trait to make one weapon attack as a reaction against the target of\
@@ -89,6 +89,6 @@ aliases:
     "name": "Baphomet's Blessing"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/brusipha-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/brusipha-bmt.webp"
 ```
 ^statblock

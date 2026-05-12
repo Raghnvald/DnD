@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kuo-toa
+- "Kuo-toa"
 ---
-# [Kuo-toa](3-Mechanics\CLI\bestiary\aberration/kuo-toa-xmm.md)
+# [Kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md)
 *Source: Monster Manual (2024) p. 189*  
 
 Kuo-toa loot ruins and raid communities near their dwellings in the Underdark. Their shields are coated in sticky slime, which they use to disarm their foes, and they employ slimy nets to entrap victims. They usually strive to take their enemies alive and drag captives to their hidden lairs.
@@ -26,7 +26,7 @@ Most kuo-toa follow the orders of their more powerful leaders out of a combinati
 *Fishlike Fanatics of the Deep*
 
 - **Habitat.** Coastal, Underdark  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
@@ -41,8 +41,6 @@ Kuo-toa ever seek to placate their inscrutable deities. However, few kuo-toa can
 Lacking information about what their other gods look like, kuo-toa priests invent new forms for them, creating divine idols with whatever objects are at hand. But whether these kuo-toa priests draw power from belief or delusion, aberrant talent, or a stranger supernatural source, some power answers their petitions. Roll twice on or choose results from the Kuo-toa Deity Features table to inspire how kuo-toa represent a deity.
 
 **Kuo-toa Deity Features**
-
-`dice: [](kuo-toa-xmm.md#^kuo-toa-deity-features)`
 
 | dice: 1d10 | The Deity's Head Is Like A... | The Deity's Body Is Like A... |
 |------------|-------------------------------|-------------------------------|
@@ -63,8 +61,6 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 Kuo-toa typically organize their communities around sites they believe to be important to their deities. These might be structures or series of caverns, and most feature both air-filled and submerged chambers. Important places within these sites suggest the rituals of kuo-toa faiths, the demands of kuo-toa deities, or the whims of omen-seeking archpriests. As with kuo-toa deities, the features of these locations vary between communities. Roll on or choose a result from the Kuo-toa Ritual Sites table to inspire features and suggest adventures within a kuo-toa community.
 
 **Kuo-toa Ritual Sites**
-
-`dice: [](kuo-toa-xmm.md#^kuo-toa-ritual-sites)`
 
 | dice: 1d8 | The Kuo-toa Community Features... |
 |-----------|-----------------------------------|
@@ -101,27 +97,29 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [Truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
   \ 30 ft., passive Perception 14"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
-  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "While in sunlight, the kuo-toa has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
       \ on ability checks and attack rolls."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft. *Hit:*\
-      \ 5 (1d8 + 1) Piercing damage."
+  - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 5 (1d8 + 1) Piercing damage."
     "name": "Spear"
   - "desc": "*Dexterity Saving Throw:* DC 10, one Large or smaller creature the kuo-toa\
-      \ can see within 15 feet. *Failure:* The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition until the net is destroyed (AC 10; HP 5; [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+      \ can see within 15 feet. *Failure:* The target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition until the net is destroyed (AC 10; HP 5; [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)\
       \ to Bludgeoning, Poison, and Psychic damage). A creature can take an action\
-      \ to make a DC 10 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
+      \ to make a DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
       \ check to free itself or another creature in a net within 5 feet, destroying\
       \ the net on a success."
     "name": "Sticky Net (1/Day)"
@@ -129,14 +127,14 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - "desc": "Trigger: A creature misses the kuo-toa with a melee attack roll using\
       \ a weapon. _Response—_*Strength Saving Throw:* DC 11, the triggering creature.\
       \ *Failure:* The attack's weapon sticks to the kuo-toa's shield. If the target\
-      \ doesn't let go of the weapon, the target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ doesn't let go of the weapon, the target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition while the weapon is stuck (escape DC 11). While stuck, the weapon\
-      \ can't be used. The target can take an action to make a DC 11 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
+      \ can't be used. The target can take an action to make a DC 11 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
       \ check, freeing the weapon on a success."
     "name": "Sticky Shield"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/kuo-toa-xmm.webp"
 ```
 ^statblock
 

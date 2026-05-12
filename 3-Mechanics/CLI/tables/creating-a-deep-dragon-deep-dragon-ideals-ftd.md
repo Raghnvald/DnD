@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Deep Dragon; Deep Dragon Ideals
+- "Creating a Deep Dragon; Deep Dragon Ideals"
 ---
 # Creating a Deep Dragon; Deep Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 107* 
 
 **Deep Dragon Ideals**
-
-`dice: [](creating-a-deep-dragon-deep-dragon-ideals-ftd.md#^deep-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

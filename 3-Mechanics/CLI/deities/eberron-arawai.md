@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/nature
-aliases: 
-- Arawai
+aliases:
+- "Arawai"
 ---
 # Arawai
 *Source: Player's Handbook p. 296* 

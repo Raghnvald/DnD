@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Seal
+- "Seal"
 ---
-# [Seal](3-Mechanics\CLI\bestiary\beast/seal-idrotf.md)
+# [Seal](3-Mechanics/CLI/bestiary/beast/seal-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 308*  
 
 The seals native to the Sea of Moving Ice often beach themselves on ice floes and rocky shores. They are acclimated to the cold weather and feed primarily on small fish, squid, and clams. Seal pups have yellowish-white fur, which turns silvery gray as they enter adulthood.
@@ -34,20 +34,22 @@ The seals native to the Sea of Moving Ice often beach themselves on ice floes an
   - !!int "12"
   - !!int "5"
 "speed": "20 ft., swim 40 ft."
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
   - "desc": "The seal can hold its breath for 15 minutes."
     "name": "Hold Breath"
-  - "desc": "The seal has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The seal has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Bite"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/seal-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/seal-idrotf.webp"
 ```
 ^statblock

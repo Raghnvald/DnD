@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/smpl
 aliases:
-- Sleep of Ages Trap
+- "Sleep of Ages Trap"
 ---
 # Sleep of Ages Trap
 *Generic Hazard*  

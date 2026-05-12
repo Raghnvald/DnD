@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/changeling
-- new/monster/type/humanoid/shapechanger
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/changeling
+- ttrpg-cli/monster/type/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Changeling
+- "Changeling"
 ---
-# [Changeling](3-Mechanics\CLI\bestiary\humanoid/changeling-erlw.md)
+# [Changeling](3-Mechanics/CLI/bestiary/humanoid/changeling-erlw.md)
 *Source: Eberron: Rising from the Last War p. 317*  
 
 Changelings are a humanoid race of shapechangers who conceal their true identities behind false faces. Their gifts of mimicry allow them to appear as members of any humanoid culture, playing the part of a dwarf one day and a dragonborn the next. Although changelings can adopt any guise, most rely on a few established personas, each with a developed history and a network of friends and acquaintances.
@@ -48,6 +48,8 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
     "desc": "+2"
   - "name": "Persuasion"
     "desc": "+5"
+"gear":
+  - "dagger"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish, Elvish, Halfling, Thieves' cant"
 "cr": "1/2"
@@ -70,6 +72,6 @@ Changelings are a humanoid race of shapechangers who conceal their true identiti
     "name": "Unsettling Visage (Recharges after a Short or Long Rest)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/changeling-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/changeling-erlw.webp"
 ```
 ^statblock

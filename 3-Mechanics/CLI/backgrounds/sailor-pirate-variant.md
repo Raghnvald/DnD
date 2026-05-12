@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Sailor (Pirate) (Variant)
+- "Sailor (Pirate) (Variant)"
 ---
 # Sailor (Pirate) (Variant)
 *Source: Player's Handbook p. 139*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
-- **Tool Proficiencies.** [Navigator's tools](/3-Mechanics/CLI/items/navigators-tools-xphb.md), vehicles (water)  
-- **Equipment.** A belaying pin ([club](/3-Mechanics/CLI/items/club-xphb.md)), [silk rope (50 feet)](/3-Mechanics/CLI/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](/3-Mechanics/CLI/items/trinket-xphb.md) on the Trinkets table in chapter 5), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Perception](3-Mechanics/CLI/rules/skills.md#Perception)  
+- **Tool Proficiencies.** [Navigator's tools](3-Mechanics/CLI/items/navigators-tools.md), vehicles (water)  
+- **Equipment.** A belaying pin ([club](3-Mechanics/CLI/items/club.md)), [silk rope (50 feet)](3-Mechanics/CLI/items/silk-rope-50-feet.md), a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random [trinket](3-Mechanics/CLI/items/trinket.md) on the Trinkets table in chapter 5), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
 
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 
@@ -28,8 +28,6 @@ No matter where you go, people are afraid of you due to your reputation. When yo
 
 Sailors can be a rough lot, but the responsibilities of life on a ship make them generally reliable as well. Life aboard a ship shapes their outlook and forms their most important attachments.
 
-`dice: [](sailor-pirate-variant.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | My friends know they can rely on me, no matter what. |
@@ -42,8 +40,6 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 8 | I like a job well done, especially if I can convince someone else to do it. |
 ^personality-trait
 
-`dice: [](sailor-pirate-variant.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. The thing that keeps a ship together is mutual respect between captain and crew. (Good) |
@@ -54,8 +50,6 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 6 | Aspiration. Someday, I'll own my own ship and chart my own destiny. (Any) |
 ^ideal
 
-`dice: [](sailor-pirate-variant.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I'm loyal to my captain first, everything else second. |
@@ -65,8 +59,6 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 | 5 | I was cheated out of my fair share of the profits, and I want to get my due. |
 | 6 | Ruthless pirates murdered my captain and crewmates, plundered our ship, and left me to die. Vengeance will be mine. |
 ^bond
-
-`dice: [](sailor-pirate-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

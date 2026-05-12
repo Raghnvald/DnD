@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Stronmaus
+- "Scion of Stronmaus"
 ---
-# [Scion of Stronmaus](3-Mechanics\CLI\bestiary\giant/scion-of-stronmaus-bgg.md)
+# [Scion of Stronmaus](3-Mechanics/CLI/bestiary/giant/scion-of-stronmaus-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 171*  
 
 A scion of Stronmaus often slumbers high in the sky or deep in the ocean, where the tumult caused by the scion's restless sleep has little effect on the world. If it drifts too near the ground or the ocean surface, it causes mighty storms or fierce maelstroms. A scion's slumber is filled with dreams ranging from inspiring visions of Annam's return to melancholy prophecies of inevitable decline, from joyful glimpses of an idyllic past to horrific nightmares of torment and devastation.
@@ -52,20 +52,17 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "dexterity": !!int "13"
   - "intelligence": !!int "16"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+16"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+16"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+17"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "lightning, thunder"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 27"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, prone"
+"senses": "truesight 120 ft., passive Perception 27"
 "languages": "Giant, Primordial"
 "cr": "27"
 "traits":
@@ -83,16 +80,16 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "desc": "The scion makes one attack using Lightning Sword or Hailstone, as well\
       \ as two Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 30 ft., one target. *Hit:* 36\
-      \ (4d12 + 10) force damage plus 22 (4d10) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 30 ft., one target. *Hit:*\
+      \ 36 (4d12 + 10) force damage plus 22 (4d10) lightning damage."
     "name": "Lightning Sword"
-  - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120/480 ft., one target. *Hit:*\
-      \ 32 (4d10 + 10) bludgeoning damage plus 18 (4d8) cold damage, and the target\
-      \ must succeed on a DC 26 Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
+  - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120/480 ft., one target.\
+      \ *Hit:* 32 (4d10 + 10) bludgeoning damage plus 18 (4d8) cold damage, and\
+      \ the target must succeed on a DC 26 Strength saving throw or have the prone\
       \ condition."
     "name": "Hailstone"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 36\
-      \ (4d12 + 10) force damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 36 (4d12 + 10) force damage."
     "name": "Slam"
 "bonus_actions":
   - "desc": "The scion conjures a churning storm cloud in a 30-foot-radius, 10-foot-tall\
@@ -107,8 +104,8 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "desc": "The cloud rains acid. Each creature in the cylinder must succeed on a\
       \ DC 25 Constitution saving throw or be covered in acid for 1 minute or until\
       \ a creature uses its action to remove the acid from itself or another creature.\
-      \ A creature covered in the acid takes 26 (4d12) acid damage at the start of\
-      \ each of its turns."
+      \ A creature covered in the acid takes 26 (4d12) acid damage at the start\
+      \ of each of its turns."
     "name": "Acid Rain"
   - "desc": "Shards of ice pelt down, and freezing wind fills the area. Each creature\
       \ in the cylinder must succeed on a DC 25 Dexterity saving throw or take 28\
@@ -118,8 +115,7 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": "Freezing Storm"
   - "desc": "Bolts of lightning strike down. Each creature in the cylinder must succeed\
       \ on DC 25 Dexterity saving throw or take 18 (4d8) lightning damage and have\
-      \ the [stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition until the\
-      \ end of its next turn."
+      \ the stunned condition until the end of its next turn."
     "name": "Lightning Bolts"
 "regional_effects":
   - "desc": "The region surrounding a scion of Stronmaus is altered by the giant's\
@@ -135,6 +131,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/scion-of-stronmaus-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/scion-of-stronmaus-bgg.webp"
 ```
 ^statblock

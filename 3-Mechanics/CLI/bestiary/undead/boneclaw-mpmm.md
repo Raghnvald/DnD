@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boneclaw
+- "Boneclaw"
 ---
-# [Boneclaw](3-Mechanics\CLI\bestiary\undead/boneclaw-mpmm.md)
+# [Boneclaw](3-Mechanics/CLI/bestiary/undead/boneclaw-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66, Mordenkainen's Tome of Foes p. 121*  
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -49,16 +49,16 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
   - "constitution": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold, necrotic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 16"
 "languages": "Common plus one language spoken by its master"
 "cr": "12"
 "traits":
@@ -71,23 +71,23 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "actions":
   - "desc": "The boneclaw makes two Piercing Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target is\
-      \ a creature, the boneclaw can pull the target up to 10 feet toward itself,\
-      \ and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape\
-      \ DC 14). The boneclaw has two claws. While a claw grapples a target, the claw\
-      \ can attack only that target."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (3d10 + 4) piercing damage plus 11 (2d10) necrotic damage. If the target\
+      \ is a creature, the boneclaw can pull the target up to 10 feet toward itself,\
+      \ and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 14). The boneclaw has two claws. While a claw grapples a target,\
+      \ the claw can attack only that target."
     "name": "Piercing Claw"
   - "desc": "If the boneclaw is in dim light or darkness, each creature of the boneclaw's\
       \ choice within 15 feet of it must succeed on a DC 14 Constitution saving throw\
-      \ or take 34 (5d12 + 2) necrotic damage.\n\nThe boneclaw then teleports up to\
-      \ 60 feet to an unoccupied space it can see. It can bring one creature it's\
+      \ or take 34 (5d12 + 2) necrotic damage.\n\nThe boneclaw then teleports up\
+      \ to 60 feet to an unoccupied space it can see. It can bring one creature it's\
       \ grappling, teleporting that creature to an unoccupied space it can see within\
       \ 5 feet of its destination. The destination spaces of this teleportation must\
       \ be in dim light or darkness."
     "name": "Shadow Jump (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the boneclaw takes the [Hide](/3-Mechanics/CLI/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the boneclaw takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "reactions":
@@ -97,7 +97,7 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp"
 ```
 ^statblock
 

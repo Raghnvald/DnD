@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases:
 - "Khyber Trinket"
 ---
 # Khyber Trinket
@@ -15,8 +15,6 @@ aliases:
 
 
 **Trinkets from Khyber**
-
-`dice: [](khyber-trinket-erlw.md#^trinkets-from-khyber)`
 
 | dice: d10 | Trinket |
 |-----------|---------|

@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon"
 ---
 # Prehistoric Figurine of Wondrous Power, Kyanite Pteranodon
 *Wondrous item, rare*  
-![](/3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
+![](3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
 
 
 Larger and more roughly hewn than typical figurines of wondrous power, these statuettes depict dinosaurs and related creatures from the earliest days of the world.
@@ -23,6 +23,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Kyanite Pteranodon
 
-This figurine becomes a [pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md) for up to 8 hours. If your size is Medium or smaller, you can ride the pteranodon as a mount. Once it has been used, it can't be used again until 7 days have passed.
+This figurine becomes a pteranodon for up to 8 hours. If your size is Medium or smaller, you can ride the pteranodon as a mount. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Bigby Presents: Glory of the Giants p. 114*

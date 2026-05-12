@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Foraging DCs
+- "Foraging DCs"
 ---
 # Foraging DCs
 *Source: Dungeon Master's Guide p. 111* 

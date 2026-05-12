@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- A Normal Day in Leilon
+- "A Normal Day in Leilon"
 ---
 # A Normal Day in Leilon
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -28,10 +28,10 @@ When the adventurers approach the settlers, use the following read-aloud text to
 The dwarf is Grizzelda Copperwraught, who the settlers call "the Growler," but never within earshot of her. She was personally hired by Lord Neverember to oversee the rebuilding of the structures that will comprise the new town. She instructs the builders and gives them their pay at the end of each tenday.
 
 > [!gallery]
-> ![Map 3: Leilon Under Construction](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/005-lloxo-map-leilon-town_ruined_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/006-mjl1f-map-leilon-town-map_ruined_player.webp#gallery)
+> ![Map 3: Leilon Under Construction](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/005-lloxo-map-leilon-town_ruined_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/006-mjl1f-map-leilon-town-map_ruined_player.webp#gallery)
 
-Next to Grizzelda is Sergeant Hazz Yorrum. Yorrum is a human [guard](/3-Mechanics/CLI/bestiary/humanoid/guard.md), and in charge of the Neverwinter soldiers who protect the settlers while the town is being built. He is a coward, as lazy as he is corrupt.
+Next to Grizzelda is Sergeant Hazz Yorrum. Yorrum is a human [guard](3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), and in charge of the Neverwinter soldiers who protect the settlers while the town is being built. He is a coward, as lazy as he is corrupt.
 
 Two other persons of note are here as well: Merrygold Brightshine and Valdi Estapaar. Merrygold is a priest of Lathander, the Morninglord. He and his church were given the rights to build the first temple in Leilon. The church of Lathander paid handsomely for the honor, and Merrygold and his staff assist in making sure that the workers get fed and cared for outside of their normal duties.
 
@@ -58,7 +58,7 @@ During the town meeting, two servants of the Morninglord are tasked with keeping
 
 These children, some of them terrified and missing their parents, others mischievous and too young to understand consequences (much like adventurers), decide to run off in different directions during the meeting.
 
-Any players not engrossed by the town council discussion can be called upon to have their characters help the acolytes round up the wayward children. This could involve DC 10 ability checks like Strength (Athletics) to get them down from trees, Dexterity (Acrobatics) to pull them out of the marshland, or Charisma (Persuasion or Intimidation) to cajole or order them to behave.
+Any players not engrossed by the town council discussion can be called upon to have their characters help the acolytes round up the wayward children. This could involve DC 10 ability checks like Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) to get them down from trees, Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) to pull them out of the marshland, or Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion) or [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) to cajole or order them to behave.
 
 Whichever adventurer does the best job of corralling the children might gain an admirer. This child can be totally smitten or intrigued by the character, following them around, asking them questions constantly, and wanting to be just like the character (regardless of how inappropriate that might be).
 
@@ -66,7 +66,7 @@ Whichever adventurer does the best job of corralling the children might gain an 
 
 After the drama (or comedy) of the town meeting has played out, and the party has decided on a course of action, the first threat comes to them in the form of a wagon full of anchorites of the Cult of Talos.
 
-The forces of the cult include one [archer](/3-Mechanics/CLI/bestiary/humanoid/archer-vgm.md) and one [dark tide knight](/3-Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota.md) (see appendix A) for every two characters, including sidekicks, rounded down. If there is an odd number of characters, add one dark tide knight.
+The forces of the cult include one [archer](3-Mechanics/CLI/bestiary/humanoid/archer-mpmm.md) and one dark tide knight (see appendix A) for every two characters, including sidekicks, rounded down. If there is an odd number of characters, add one dark tide knight.
 
 As enemy approaches, use the following read-aloud text to describe the situation:
 
@@ -83,7 +83,7 @@ As the Cult of Talos members attack, the rest of the citizens of Leilon scatter.
 
 If the party defeats the cultists, they find that each of them bears a tattoo of three parallel lightning bolts on their forearms. If any are taken prisoner and questioned, they answer with the ominous ravings of those touched by divine madness. They claim that the Stormlord is coming to drown everyone and cleanse the world of the unworthy.
 
-The wagon was stolen from the town, and still contains the remains of some fish that were meant to be taken to the fishery. One of the dark tide knights carries a potion of greater healing.
+The wagon was stolen from the town, and still contains the remains of some fish that were meant to be taken to the fishery. One of the dark tide knights carries a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
 
 #### The Request
 
@@ -115,25 +115,25 @@ When they reach Leilon, use the following read-aloud text to describe the situat
 > If you want to add drama and motivation for the party, you can place the children out in the open, needing to be brought to safety before they are seen by the Talos cultists. Just remember that giving the characters something else to do in the encounter increases the difficulty of the encounter for the party.
 ^children-in-danger
 
-The tiefling standing in front of the fishery is a [kraken priest](/3-Mechanics/CLI/bestiary/humanoid/kraken-priest-vgm.md) (see appendix A) named Nixoxious, and before her in the water there is 1 [berserker](/3-Mechanics/CLI/bestiary/humanoid/berserker.md) per character, including sidekicks. They are trying to perform a ritual to summon water creatures to destroy the town. (These water creatures are faced in the next wave of the battle, as described below.)
+The tiefling standing in front of the fishery is a [kraken priest](3-Mechanics/CLI/bestiary/monstrosity/kraken-priest-mpmm.md) (see appendix A) named Nixoxious, and before her in the water there is 1 [berserker](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) per character, including sidekicks. They are trying to perform a ritual to summon water creatures to destroy the town. (These water creatures are faced in the next wave of the battle, as described below.)
 
 The characters start 500 feet from the priest. She has already completed enough of her ritual to summon the water elemental, and every four rounds she is alive, she summons another water weird, up to the maximum described below. Once she has summoned the maximum number of creatures, she stops chanting and joins the combat, assuming the party has engaged in combat with her and the berserkers.
 
 Note that even though she performs the ritual to summon these water creatures, they do not attack or even appear until this part of the battle has ended.
 
-***Ritual***. If the characters watch what is happening for at least a round, they can attempt a DC 10 Intelligence (Religion) check. On a success, they realize what she is doing and know that, unless they stop her, she could summon any number of terrible creatures.
+***Ritual***. If the characters watch what is happening for at least a round, they can attempt a DC 10 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check. On a success, they realize what she is doing and know that, unless they stop her, she could summon any number of terrible creatures.
 
 ### Aftermath
 
-After defeating the forces of Talos on land, the party can find a spell scroll of mass cure wounds on Nixoxious. They don't have long to recover, however, because the water creatures summoned by the ritual are about to arrive.
+After defeating the forces of Talos on land, the party can find a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) on Nixoxious. They don't have long to recover, however, because the water creatures summoned by the ritual are about to arrive.
 
 ### Marsh, Unmellow
 
-On the marsh islands with the pagan ruins, fishers and soldiers captured by the cultists are unconscious, meant to be used as sacrifices for the water creatures that the tiefling summoned.
+On the marsh islands with the pagan ruins, fishers and soldiers captured by the cultists are [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), meant to be used as sacrifices for the water creatures that the tiefling summoned.
 
 #### Monsters
 
-Based on the number of rounds that the kraken priest chanted before being defeated, there is at least one [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md), and a maximum of one [water weird](/3-Mechanics/CLI/bestiary/elemental/water-weird.md) for every two characters, including sidekicks.
+Based on the number of rounds that the kraken priest chanted before being defeated, there is at least one [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md), and a maximum of one [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) for every two characters, including sidekicks.
 
 When the creatures arrive, set the scene using the following read-aloud text:
 
@@ -144,11 +144,11 @@ When the creatures arrive, set the scene using the following read-aloud text:
 
 #### Tactics
 
-If the characters do not intervene, the monsters move out to the islands and kill the unconscious fishers and soldiers lying there. The water between the shore and the islands is 3 feet deep, acting as difficult terrain for any creature without a swim speed.
+If the characters do not intervene, the monsters move out to the islands and kill the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) fishers and soldiers lying there. The water between the shore and the islands is 3 feet deep, acting as difficult terrain for any creature without a swim speed.
 
 ### Aftermath
 
-If the party defeats the water creatures, the immediate threat to Leilon is eliminated. The unconscious people on the islands can be brought back to the mainland and treated.
+If the party defeats the water creatures, the immediate threat to Leilon is eliminated. The [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) people on the islands can be brought back to the mainland and treated.
 
 The damage to the town was minimal, and only a few of the settlers were killed, most of the them brave Neverwinter soldiers who gave their lives to protect the fishers caught in their boats during the attack.
 

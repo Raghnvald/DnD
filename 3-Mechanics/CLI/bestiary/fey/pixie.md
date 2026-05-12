@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pixie
+- "Pixie"
 ---
-# [Pixie](3-Mechanics\CLI\bestiary\fey/pixie.md)
-*Source: Monster Manual p. 253, Explorer's Guide to Wildemount*  
+# [Pixie](3-Mechanics/CLI/bestiary/fey/pixie.md)
+*Source: Monster Manual p. 253*  
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
 
@@ -63,9 +63,9 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
   - !!int "15"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "senses": "passive Perception 14"
 "languages": "Sylvan"
@@ -73,22 +73,27 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 "traits":
   - "desc": "The pixie's innate spellcasting ability is Charisma (spell save DC 12).\
       \ It can innately cast the following spells, requiring only its pixie dust as\
-      \ a component:\n\n**At will:** druidcraft\n\n**1/day each:** confusion, dancing\
-      \ lights, detect evil and good, detect thoughts, dispel magic, entangle, fly,\
-      \ phantasmal force, polymorph, sleep"
+      \ a component:\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md)\n\
+      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion.md), [dancing\
+      \ lights](3-Mechanics/CLI/spells/dancing-lights.md), [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
+      \ [entangle](3-Mechanics/CLI/spells/entangle.md), [fly](3-Mechanics/CLI/spells/fly.md),\
+      \ [phantasmal force](3-Mechanics/CLI/spells/phantasmal-force.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep.md)"
     "name": "Innate Spellcasting"
   - "desc": "The pixie has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "The pixie magically turns invisible until its concentration ends (as\
-      \ if concentrating on a spell). Any equipment the pixie wears or carries is\
-      \ invisible with it."
+  - "desc": "The pixie magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the pixie wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with it."
     "name": "Superior Invisibility"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/pixie.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/pixie.webp"
 ```
 ^statblock
 

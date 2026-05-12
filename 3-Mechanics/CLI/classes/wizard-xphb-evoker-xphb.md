@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/evoker
 aliases:
-- Evoker
+- "Evoker"
 ---
 # Evoker
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
@@ -44,13 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Evoker (Level 3)
-
 *Create Explosive Elemental Effects*
 
 Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
+
+## Subclass Features
 
 ### Evocation Savant (Level 3)
 
@@ -74,6 +72,6 @@ Whenever you cast a Wizard spell from the Evocation school, you can add your Int
 
 You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `dice:2d12|noform|noparens|avg` (`2d12`) Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md).
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md).
 
-Each time you use this feature again before finishing a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `dice:1d12|noform|noparens|avg` (`1d12`).
+Each time you use this feature again before finishing a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `1d12`.

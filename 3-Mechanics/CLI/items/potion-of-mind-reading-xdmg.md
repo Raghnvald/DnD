@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Mind Reading"
 ---
 # Potion of Mind Reading
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell (save DC 13) for 10 minutes (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required).
+When you drink this potion, you gain the effect of the [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md) spell (save DC 13) for 10 minutes (no [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) required).
 
 This potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 

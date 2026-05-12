@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/smpl
 aliases:
-- Falling Portcullis
+- "Falling Portcullis"
 ---
 # Falling Portcullis
 *Generic Hazard*  

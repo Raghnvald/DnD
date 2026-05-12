@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aerosaur
+- "Aerosaur"
 ---
-# [Aerosaur](3-Mechanics\CLI\bestiary\monstrosity/aerosaur-bgg.md)
+# [Aerosaur](3-Mechanics/CLI/bestiary/monstrosity/aerosaur-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 128*  
 
 A pterosaur the size of the most ancient dragons, an aerosaur boasts a wingspan of nearly 200 feet. Elemental energy traces patterns like lightning across its scales, giving additional thunderous power to the beating of its enormous wings.
@@ -41,7 +41,7 @@ When Annam's children first began to populate the worlds of the Material Plane, 
   - !!int "5"
 "speed": "20 ft., fly 120 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
@@ -53,24 +53,23 @@ When Annam's children first began to populate the worlds of the Material Plane, 
 "actions":
   - "desc": "The aerosaur makes one Bite attack and one Talons attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 27\
-      \ (3d12 + 8) piercing damage. If the target is a Huge or smaller creature, it\
-      \ has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 18). Until this grapple ends, the target has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition, and the aerosaur can't Bite another target."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 27 (3d12 + 8) piercing damage. If the target is a Huge or smaller creature,\
+      \ it has the grappled condition (escape DC 18). Until this grapple ends, the\
+      \ target has the restrained condition, and the aerosaur can't Bite another target."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 24\
-      \ (3d10 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 24 (3d10 + 8) slashing damage."
     "name": "Talons"
   - "desc": "The aerosaur beats its wings, creating bursts of thunderous force. Each\
       \ creature within 10 feet of the aerosaur must make a DC 20 Strength saving\
       \ throw. On a failed save, a creature takes 38 (7d10) thunder damage, is pushed\
-      \ up to 30 feet horizontally from the aerosaur, and has the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition. On a successful save, a creature takes half as much damage and\
-      \ is pushed up to 15 feet horizontally from the aerosaur."
+      \ up to 30 feet horizontally from the aerosaur, and has the prone condition.\
+      \ On a successful save, a creature takes half as much damage and is pushed up\
+      \ to 15 feet horizontally from the aerosaur."
     "name": "Wing Gusts (Recharge 5-6)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/aerosaur-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/aerosaur-bgg.webp"
 ```
 ^statblock

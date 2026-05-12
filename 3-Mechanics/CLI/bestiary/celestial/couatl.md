@@ -14,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Couatl
+- "Couatl"
 ---
-# [Couatl](3-Mechanics\CLI\bestiary\celestial/couatl.md)
-*Source: Monster Manual p. 43, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Couatl](3-Mechanics/CLI/bestiary/celestial/couatl.md)
+*Source: Monster Manual p. 43. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
 
@@ -59,16 +59,21 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
   - "charisma": !!int "6"
 "damage_resistances": "radiant"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "truesight 120 ft., passive Perception 15"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 15"
 "languages": "all, telepathy 120 ft."
 "cr": "4"
 "traits":
   - "desc": "The couatl's spellcasting ability is Charisma (spell save DC 14). It\
       \ can innately cast the following spells, requiring only verbal components:\n\
-      \n**At will:** detect evil and good, detect magic, detect thoughts\n\n**3/day\
-      \ each:** bless, create food and water, cure wounds, lesser restoration, protection\
-      \ from poison, sanctuary, shield\n\n**1/day each:** dream, greater restoration,\
-      \ scrying"
+      \n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md)\n\
+      \n**3/day each:** [bless](3-Mechanics/CLI/spells/bless.md), [create food and\
+      \ water](3-Mechanics/CLI/spells/create-food-and-water.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
+      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [protection\
+      \ from poison](3-Mechanics/CLI/spells/protection-from-poison.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield.md)\n\n**1/day each:** [dream](3-Mechanics/CLI/spells/dream.md),\
+      \ [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md), [scrying](3-Mechanics/CLI/spells/scrying.md)"
     "name": "Innate Spellcasting"
   - "desc": "The couatl's weapon attacks are magical."
     "name": "Magic Weapons"
@@ -76,15 +81,16 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
       \ emotions, read its thoughts, or detect its location."
     "name": "Shielded Mind"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be poisoned for 24 hours. Until this poison ends, the target\
-      \ is unconscious. Another creature can use an action to shake the target awake."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 24 hours. Until this poison ends, the target is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).\
+      \ Another creature can use an action to shake the target awake."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller\
-      \ creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled\
-      \ (escape DC 15). Until this grapple ends, the target is restrained, and the\
-      \ couatl can't constrict another target."
+      \ creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 15). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the couatl can't constrict another target."
     "name": "Constrict"
   - "desc": "The couatl magically polymorphs into a humanoid or beast that has a challenge\
       \ rating equal to or less than its own, or back into its true form. It reverts\
@@ -98,8 +104,7 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
     "name": "Change Shape"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/couatl.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/couatl.webp"
 ```
 ^statblock
 

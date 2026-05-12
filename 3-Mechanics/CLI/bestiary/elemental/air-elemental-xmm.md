@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Air Elemental
+- "Air Elemental"
 ---
-# [Air Elemental](3-Mechanics\CLI\bestiary\elemental/air-elemental-xmm.md)
+# [Air Elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md)
 *Source: Monster Manual (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Air Elemental
@@ -35,8 +35,6 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 > What can withstand the storm's scream? The lightning's spear? The want of sweet breath? Air is the mightiest of elements—respect its power.
 
 **Air Elemental Compositions**
-
-`dice: [](air-elemental-xmm.md#^air-elemental-compositions)`
 
 | dice: 1d6 | The Air Elemental's Body Features... |
 |-----------|--------------------------------------|
@@ -67,13 +65,13 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "speed": "10 ft., fly 90 ft. (hover)"
 "damage_resistances": "bludgeoning, lightning, piercing, slashing"
 "damage_immunities": "poison, thunder"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Primordial (Auran)"
 "cr": "5"
 "traits":
@@ -84,16 +82,17 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "actions":
   - "desc": "The elemental makes two Thunderous Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Thunder damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 14 (2d8 + 5) Thunder\
+      \ damage."
     "name": "Thunderous Slam"
   - "desc": "*Strength Saving Throw:* DC 13, one Medium or smaller creature in the\
       \ elemental's space. *Failure:* 24 (4d10 + 2) Thunder damage, and the target\
-      \ is pushed up to 20 feet straight away from the elemental and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ is pushed up to 20 feet straight away from the elemental and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition. *Success:* Half damage only."
     "name": "Whirlwind (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/air-elemental-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/air-elemental-xmm.webp"
 ```
 ^statblock
 

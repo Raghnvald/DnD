@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Will-o'-Wisp
+- "Will-o'-Wisp"
 ---
-# [Will-o'-Wisp](3-Mechanics\CLI\bestiary\undead/will-o-wisp.md)
+# [Will-o'-Wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp.md)
 *Source: Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
@@ -58,12 +58,12 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 "damage_resistances": "acid; cold; fire; necrotic; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "the languages it knew in life"
 "cr": "2"
 "traits":
@@ -83,17 +83,17 @@ A will-o'-wisp doesn't require air, drink, or sleep.
       \ can alter the radius as a bonus action."
     "name": "Variable Illumination"
 "actions":
-  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d8) lightning damage."
+  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d8) lightning damage."
     "name": "Shock"
-  - "desc": "The will-o'-wisp and its light magically become [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ until it attacks or uses its Consume Life, or until its [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ ends (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
+  - "desc": "The will-o'-wisp and its light magically become [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks or uses its Consume Life, or until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ on a spell)."
     "name": "Invisibility"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/will-o-wisp.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/will-o-wisp.webp"
 ```
 ^statblock
 

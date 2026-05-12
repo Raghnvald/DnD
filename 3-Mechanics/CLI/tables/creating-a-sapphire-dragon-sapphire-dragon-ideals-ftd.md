@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Sapphire Dragon; Sapphire Dragon Ideals
+- "Creating a Sapphire Dragon; Sapphire Dragon Ideals"
 ---
 # Creating a Sapphire Dragon; Sapphire Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 138* 
 
 **Sapphire Dragon Ideals**
-
-`dice: [](creating-a-sapphire-dragon-sapphire-dragon-ideals-ftd.md#^sapphire-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

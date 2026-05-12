@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Comforts of Civilization; Cosmopolitan Conveniences
+- "Comforts of Civilization; Cosmopolitan Conveniences"
 ---
 # Comforts of Civilization; Cosmopolitan Conveniences
 *Source: Guildmasters' Guide to Ravnica p. 9* 

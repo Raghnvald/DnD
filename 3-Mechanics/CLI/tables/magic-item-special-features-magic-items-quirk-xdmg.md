@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Magic Item Special Features; Magic Item's Quirk
+- "Magic Item Special Features; Magic Item's Quirk"
 ---
 # Magic Item Special Features; Magic Item's Quirk
 *Source: Dungeon Master's Guide (2024) p. 222* 
 
 **Magic Item's Quirk**
-
-`dice: [](magic-item-special-features-magic-items-quirk-xdmg.md#^magic-items-quirk)`
 
 | dice: 1d8 | Quirk |
 |-----------|-------|

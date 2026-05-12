@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/gnome/deep
 aliases:
-- Gnome (Deep)
+- "Gnome (Deep)"
 ---
 # Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  
@@ -23,14 +23,14 @@ aliases:
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) (self only)  
-- **1/day each.** [blindness/deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](/3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md)  
+- **At will.** nondetection (self only)  
+- **1/day each.** blindness/deafness, blur, disguise self  
 
 Intelligence is your spellcasting ability for these spells.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks to hide in rocky terrain.
+You have advantage on Dexterity (Stealth) checks to hide in rocky terrain.
 
 ### Gnome Cunning
 

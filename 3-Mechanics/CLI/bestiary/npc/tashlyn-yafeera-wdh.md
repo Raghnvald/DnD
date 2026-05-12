@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tashlyn Yafeera
+- "Tashlyn Yafeera"
 ---
-# [Tashlyn Yafeera](3-Mechanics\CLI\bestiary\npc/tashlyn-yafeera-wdh.md)
+# [Tashlyn Yafeera](3-Mechanics/CLI/bestiary/npc/tashlyn-yafeera-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 200*  
 
 Tashlyn is Master of Arms and Mercenaries for the Waterdeep Zhentarim. In this role, she provides armor, weapons, and training to sellswords on the Black Network's payroll.
@@ -32,7 +32,7 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "149"
 "hit_dice": "23d8 + 46"
 "modifier": !!int "2"
@@ -48,12 +48,15 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
   - "strength": !!int "8"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "9"
@@ -63,8 +66,8 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
     "name": "Indomitable (2/Day)"
   - "desc": "As a bonus action, Tashlyn can regain 20 hit points."
     "name": "Second Wind (Recharges after a Short or Long Rest)"
-  - "desc": "Tashlyn deals an extra 7 (2d6) damage to every hit if she has more than\
-      \ half her hit points remaining."
+  - "desc": "Tashlyn deals an extra 7 (2d6) damage to every hit if she has more\
+      \ than half her hit points remaining."
     "name": "Extra Damage"
 "actions":
   - "desc": "Tashlyn makes three attacks with her greatsword or her shortbow."
@@ -77,6 +80,6 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
     "name": "Shortbow"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tashlyn-yafeera-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/tashlyn-yafeera-wdh.webp"
 ```
 ^statblock

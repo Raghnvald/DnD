@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Ghost Story Settings
+- "Ghost Story Settings"
 ---
 # Ghost Story Settings
 *Source: Van Richten's Guide to Ravenloft p. 55* 
 
 **Ghost Story Settings**
-
-`dice: [](ghost-story-settings-vrgr.md#^ghost-story-settings)`
 
 | dice: d8 | Setting |
 |----------|---------|

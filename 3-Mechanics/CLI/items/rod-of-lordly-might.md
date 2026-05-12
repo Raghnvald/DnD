@@ -9,12 +9,12 @@ tags:
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/rod
-aliases: 
+aliases:
 - "Rod of Lordly Might"
 ---
 # Rod of Lordly Might
-*Rod ([mace](/3-Mechanics/CLI/items/mace.md)), melee weapon ([mace](/3-Mechanics/CLI/items/mace.md)), major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
+*Rod (mace), melee weapon (mace), major, legendary (requires attunement)*  
+![](3-Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
 
 - **Weight**: 2.0 lbs.
 
@@ -24,7 +24,7 @@ This rod has a flanged head, and it functions as a magic mace that grants a +3 b
 
 You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
-If you press button 1, the rod becomes a [flame tongue](/3-Mechanics/CLI/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
+If you press button 1, the rod becomes a [flame tongue](3-Mechanics/CLI/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
 
 If you press button 2, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
@@ -38,14 +38,14 @@ If you press button 6, the rod assumes or remains in its normal form and indicat
 
 ## Drain Life
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target rakes an extra `dice:4d6|noform|noparens|avg` (`4d6`) necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Constitution saving throw. On a failure, the target rakes an extra `4d6` necrotic damage, and you regain a number of hit points equal to half that necrotic damage. This property can't be used again until the next dawn.
 
 ## Paralyze
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
 
 ## Terrify
 
-While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of you for 1 minute. A [frightened](/3-Mechanics/CLI/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
+While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is frightened of you for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
 *Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

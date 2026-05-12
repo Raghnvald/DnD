@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fire Giant Royal Headsman
+- "Fire Giant Royal Headsman"
 ---
-# [Fire Giant Royal Headsman](3-Mechanics\CLI\bestiary\giant/fire-giant-royal-headsman-tftyp.md)
+# [Fire Giant Royal Headsman](3-Mechanics/CLI/bestiary/giant/fire-giant-royal-headsman-tftyp.md)
 *Source: Tales from the Yawning Portal p. 201*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -38,25 +38,27 @@ aliases:
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "fire"
+"gear":
+  - "[+2 greataxe](3-Mechanics/CLI/items/2-weapon-xdmg.md)"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
 "actions":
   - "desc": "The giant makes two greataxe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (3d12 + 9) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (3d12 + 9) slashing damage."
     "name": "Greataxe +2"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Rock"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fire-giant-royal-headsman-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/fire-giant-royal-headsman-tftyp.webp"
 ```
 ^statblock

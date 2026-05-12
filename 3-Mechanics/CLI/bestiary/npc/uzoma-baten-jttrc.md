@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Uzoma Baten
+- "Uzoma Baten"
 ---
-# [Uzoma Baten](3-Mechanics\CLI\bestiary\npc/uzoma-baten-jttrc.md)
+# [Uzoma Baten](3-Mechanics/CLI/bestiary/npc/uzoma-baten-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "16"
-"ac_class": "chain shirt, shield"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -35,10 +35,13 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "1/8"
 "traits":
@@ -51,6 +54,6 @@ aliases:
     "name": "Spear"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/uzoma-baten-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/uzoma-baten-jttrc.webp"
 ```
 ^statblock

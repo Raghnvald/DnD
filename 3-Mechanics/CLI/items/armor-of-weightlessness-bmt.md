@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/heavy
+- ttrpg-cli/item/armor/light
+- ttrpg-cli/item/armor/medium
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Armor of Weightlessness"
 - "Breastplate of Weightlessness"
 - "Chain Mail of Weightlessness"
@@ -33,7 +33,7 @@ aliases:
 
 This armor has 5 charges. While you wear it, you can use a bonus action to expend 1 or more charges to cast one of the following spells from the armor, targeting yourself: Jump (1 charge) or Levitate (2 charges).
 
-This armor regains `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) expended charges daily at dawn.
+This armor regains `1d4 + 1` expended charges daily at dawn.
 
 **Variants**:
 - [Breastplate of Weightlessness](#Breastplate%20of%20Weightlessness)

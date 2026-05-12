@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Brass Dragon Adventures; Brass Dragon Adventure Hooks
+- "Brass Dragon Adventures; Brass Dragon Adventure Hooks"
 ---
 # Brass Dragon Adventures; Brass Dragon Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 90* 
 
 **Brass Dragon Adventure Hooks**
-
-`dice: [](brass-dragon-adventures-brass-dragon-adventure-hooks-ftd.md#^brass-dragon-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

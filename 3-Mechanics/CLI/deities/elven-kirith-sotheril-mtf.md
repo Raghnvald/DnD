@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Kirith Sotheril
+aliases:
+- "Kirith Sotheril"
 ---
 # Kirith Sotheril
 *Source: Mordenkainen's Tome of Foes p. 43* 

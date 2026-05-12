@@ -11,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened Shrub
+- "Awakened Shrub"
 ---
-# [Awakened Shrub](3-Mechanics\CLI\bestiary\plant/awakened-shrub.md)
+# [Awakened Shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub.md)
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](/3-Mechanics/CLI/spells/awaken.md) spell or similar magic.
+An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](3-Mechanics/CLI/spells/awaken.md) spell or similar magic.
 
 ```statblock
 "name": "Awakened Shrub"
@@ -45,12 +45,12 @@ An awakened shrub is an ordinary shrub given sentience and mobility by the [awak
       \ shrub."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
-      \ - 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ (1d4 - 1) slashing damage."
     "name": "Rake"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/awakened-shrub.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/awakened-shrub.webp"
 ```
 ^statblock
 

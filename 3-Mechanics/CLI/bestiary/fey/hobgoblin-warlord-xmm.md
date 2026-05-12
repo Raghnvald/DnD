@@ -18,9 +18,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hobgoblin Warlord
+- "Hobgoblin Warlord"
 ---
-# [Hobgoblin Warlord](3-Mechanics\CLI\bestiary\fey/hobgoblin-warlord-xmm.md)
+# [Hobgoblin Warlord](3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md)
 *Source: Monster Manual (2024) p. 171*  
 
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
@@ -30,7 +30,7 @@ Hobgoblin warlords lead armies of hobgoblins and their allies, using their exper
 *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -43,8 +43,6 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 The drive to subjugate and pillage is part of hobgoblins' supernatural nature, though a few might repress their warlike tendencies or turn them to more useful ends. Roll on or choose a result from the Hobgoblin Strategies table to inspire how a hobgoblin carries out its conquest.
 
 **Hobgoblin Strategies**
-
-`dice: [](hobgoblin-warlord-xmm.md#^hobgoblin-strategies)`
 
 | dice: 1d6 | The Hobgoblin Works To... |
 |-----------|---------------------------|
@@ -79,25 +77,31 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - "intelligence": !!int "5"
   - "wisdom": !!int "3"
   - "charisma": !!int "5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "nine [javelins](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
+  - "[shield](3-Mechanics/CLI/items/shield-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Goblin"
 "cr": "6"
 "traits":
-  - "desc": "While in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "While in a 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the hobgoblin, the hobgoblin and its allies have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on attack rolls and saving throws, provided the hobgoblin doesn't have the\
-      \ [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition."
     "name": "Aura of Authority"
 "actions":
   - "desc": "The hobgoblin makes three attacks, using Javelin or Longsword in any\
       \ combination."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. *Hit:*\
-      \ 11 (2d6 + 4) Piercing damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft.\
+      \ *Hit:* 11 (2d6 + 4) Piercing damage, and the target's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
       \ decreases by 10 feet until the start of the hobgoblin's next turn."
     "name": "Javelin"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 12 (2d8 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 12 (2d8 + 3) Slashing\
+      \ damage."
     "name": "Longsword"
 "reactions":
   - "desc": "Trigger: The hobgoblin is hit by a melee attack roll while holding a\
@@ -106,7 +110,7 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warlord-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warlord-xmm.webp"
 ```
 ^statblock
 

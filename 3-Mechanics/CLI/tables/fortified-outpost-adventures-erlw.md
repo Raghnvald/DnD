@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Fortified Outpost Adventures
+- "Fortified Outpost Adventures"
 ---
 # Fortified Outpost Adventures
 *Source: Eberron: Rising from the Last War p. 211* 
 
 **Fortified Outpost Adventures**
-
-`dice: [](fortified-outpost-adventures-erlw.md#^fortified-outpost-adventures)`
 
 | dice: d8 | Adventure Premise |
 |----------|-------------------|

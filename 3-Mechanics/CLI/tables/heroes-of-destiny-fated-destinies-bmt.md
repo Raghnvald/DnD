@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Heroes of Destiny; Fated Destinies
+- "Heroes of Destiny; Fated Destinies"
 ---
 # Heroes of Destiny; Fated Destinies
 *Source: The Book of Many Things p. 58* 
 
 **Fated Destinies**
-
-`dice: [](heroes-of-destiny-fated-destinies-bmt.md#^fated-destinies)`
 
 | dice: 1d22 | Card | Heroic Tie |
 |------------|------|------------|

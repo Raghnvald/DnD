@@ -13,12 +13,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Kruthik
+- "Adult Kruthik"
 ---
-# [Adult Kruthik](3-Mechanics\CLI\bestiary\monstrosity/adult-kruthik-mpmm.md)
+# [Adult Kruthik](3-Mechanics/CLI/bestiary/monstrosity/adult-kruthik-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 169, Mordenkainen's Tome of Foes p. 212*  
 
-It takes six months of steady eating for a [young kruthik](/3-Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [young kruthik](3-Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -61,16 +61,16 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "8"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
   \ 60 ft., passive Perception 15"
 "languages": "Kruthik"
 "cr": "2"
 "traits":
   - "desc": "The kruthik has advantage on an attack roll against a creature if at\
       \ least one of the kruthik's allies is within 5 feet of the creature and the\
-      \ ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "The kruthik can burrow through solid rock at half its burrowing speed\
       \ and leaves a 5-foot-diameter tunnel in its wake."
@@ -78,8 +78,8 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "actions":
   - "desc": "The kruthik makes two Stab or Spike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Stab"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 20/60 ft., one target. *Hit:*\
       \ 5 (1d4 + 3) piercing damage."
@@ -87,7 +87,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/adult-kruthik-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/adult-kruthik-mpmm.webp"
 ```
 ^statblock
 

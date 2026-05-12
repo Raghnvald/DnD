@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Dragon Wyrmling
+- "Black Dragon Wyrmling"
 ---
-# [Black Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/black-dragon-wyrmling-xmm.md)
+# [Black Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md)
 *Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking dominance over their clutch and slaying rivals they can't subjugate.
@@ -23,7 +23,7 @@ Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and
 *Dragons of Decay and Despair*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
@@ -57,12 +57,12 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "dexterity": !!int "4"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "acid"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "2"
@@ -72,16 +72,16 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
 "actions":
   - "desc": "The dragon makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage\
-      \ plus 2 (1d4) Acid damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
+      \ damage plus 2 (1d4) Acid damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 11, each creature in a 15-foot-long, 5-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
       \ 22 (5d8) Acid damage. *Success:* Half damage."
     "name": "Acid Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling-xmm.webp"
 ```
 ^statblock
 

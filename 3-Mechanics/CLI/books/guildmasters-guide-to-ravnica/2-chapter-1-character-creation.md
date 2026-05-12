@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Chapter 1: Character Creation
+- "Chapter 1: Character Creation"
 ---
 # Chapter 1: Character Creation
 *Source: Guildmasters' Guide to Ravnica, p. 11* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/000-c101.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/000-c101.webp#center)
 
 The "Player's Handbook" describes a step-by-step process of character creation. When you create a character for a Ravnica campaign, you'll go through the same steps, with the added step of choosing a guild.
 
@@ -52,11 +52,11 @@ Although conflicts among the guilds drive much of the action in a Ravnica campai
 
 The DM can also use the Common Cause table in this section to find a way to bring together characters who don't know or trust each other.
 
-![Building a Party; Party Makeup](/3-Mechanics/CLI/tables/building-a-party-party-makeup-ggr.md)
+![Building a Party; Party Makeup](3-Mechanics/CLI/tables/building-a-party-party-makeup-ggr.md)
 
-![Building a Party; Common Cause](/3-Mechanics/CLI/tables/building-a-party-common-cause-ggr.md)
+![Building a Party; Common Cause](3-Mechanics/CLI/tables/building-a-party-common-cause-ggr.md)
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/001-c102.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/001-c102.webp#center)
 
 ## Races
 
@@ -77,7 +77,7 @@ This chapter provides information about the following common races of Ravnica, a
 
 You can roll for your character's height and weight on the Random Height and Weight table. See the "Player's Handbook" for humans, elves, and half-elves.
 
-![Random Height and Weight](/3-Mechanics/CLI/tables/random-height-and-weight-ggr.md)
+![Random Height and Weight](3-Mechanics/CLI/tables/random-height-and-weight-ggr.md)
 
 Height = Base Height + Height Modifier in inches
 
@@ -95,7 +95,7 @@ The humans of Ravnica are no less physically diverse than those of other worlds.
 
 One particular human tongue has triumphed over all others to become Ravnica's Common language, and its phonemes and traditions shape the names of most of Ravnica's humans. Humans sometimes borrow names from other races, but they have a rich pool of traditional names to draw from.
 
-The use of family names seems to be a peculiarly human custom. Family names are passed down to children from either parent, and sometimes children use the family names of both their parents. For example, Micyl Savod Zunich was the son of Fonn Zunich and [Jarad Vod Savo](/3-Mechanics/CLI/bestiary/npc/jarad-vod-savo-ggr.md). When other races use family names, they are usually derived from some connection (not necessarily a blood tie) to a human family.
+The use of family names seems to be a peculiarly human custom. Family names are passed down to children from either parent, and sometimes children use the family names of both their parents. For example, Micyl Savod Zunich was the son of Fonn Zunich and [Jarad Vod Savo](3-Mechanics/CLI/bestiary/npc/jarad-vod-savo-ggr.md). When other races use family names, they are usually derived from some connection (not necessarily a blood tie) to a human family.
 
 - **Male Human Names.** Agmand, Agosto, Bell, Brev, Dars, Dobromir, Dravin, Evern, Gorev, Ivos, Janik, Juri, Lannos, Lucian, Micas, Nikos, Obez, Olrik, Osidar, Rogad, Sergiu, Sirislav, Tibor, Trigori, Tzaric, Uzric, Valen, Vennick, Vict, Vorimir, Vuliev, Zunak  
 - **Female Human Names.** Anksa, Aszala, Berta, Bori, Briska, Dahlya, Geetra, Izolda, Jozica, Lavinia, Luda, Lyzolda, Milana, Miotri, Nefara, Palla, Pel, Ruba, Strava, Sulli, Vina, Voka, Zija  
@@ -103,7 +103,7 @@ The use of family names seems to be a peculiarly human custom. Family names are 
 
 ### Elf
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/002-c104.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/002-c104.webp#center)
 
 The elves of Ravnica are as much at home in the markets of Ivy Lane and the inns of Oak Street as their kin on other worlds are in ancient forests and fey castles. They scale the spires of cathedrals and meditate in gardens and greenbelts. They are part of the city, contributing to its vibrant life and sprawling growth while ensuring it never strays too far from its roots in the earth.
 
@@ -136,39 +136,39 @@ If the tradition of using child names for young elves, as described in the "Play
 
 ### Centaur
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/003-c103.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/003-c103.webp#center)
 
-See the [Centaur](/3-Mechanics/CLI/races/centaur-mpmm.md) entry in the races page.
+See the [Centaur](3-Mechanics/CLI/races/centaur-ggr.md) entry in the races page.
 
 ### Goblin
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/004-c105.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/004-c105.webp#center)
 
-See the [Goblin](/3-Mechanics/CLI/races/goblin-mpmm.md) entry in the races page.
+See the [Goblin](3-Mechanics/CLI/races/goblin-ggr.md) entry in the races page.
 
 ### Loxodon
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/005-c106.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/005-c106.webp#center)
 
-See the [Loxodon](/3-Mechanics/CLI/races/loxodon-ggr.md) entry in the races page.
+See the [Loxodon](3-Mechanics/CLI/races/loxodon-ggr.md) entry in the races page.
 
 ### Minotaur
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/006-c107.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/006-c107.webp#center)
 
-See the [Minotaur](/3-Mechanics/CLI/races/minotaur-mpmm.md) entry in the races page.
+See the [Minotaur](3-Mechanics/CLI/races/minotaur-ggr.md) entry in the races page.
 
 ### Simic Hybrid
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/007-c108.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/007-c108.webp#center)
 
-See the [Simic Hybrid](/3-Mechanics/CLI/races/simic-hybrid-ggr.md) entry in the races page.
+See the [Simic Hybrid](3-Mechanics/CLI/races/simic-hybrid-ggr.md) entry in the races page.
 
 ### Vedalken
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/008-c109.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/008-c109.webp#center)
 
-See the [Vedalken](/3-Mechanics/CLI/races/vedalken-ggr.md) entry in the races page.
+See the [Vedalken](3-Mechanics/CLI/races/vedalken-ggr.md) entry in the races page.
 
 ## Classes by Guild
 
@@ -180,61 +180,61 @@ If you want to play a barbarian, your most likely guild home is the Gruul Clans,
 
 Gruul barbarians of the Zhur-Taa clan often choose the path of the Totem Warrior and a boar totem spirit. The effects are the same as for a bear spirit.
 
-![Barbarian](/3-Mechanics/CLI/tables/barbarian-ggr.md)
+![Barbarian](3-Mechanics/CLI/tables/barbarian-ggr.md)
 
 ### Bard
 
 In Ravnica, bards are commonly found among the Azorius Senate, the Cult of Rakdos, and the Selesnya Conclave, serving in a variety of capacities as lore keepers and entertainers.
 
-![Bard](/3-Mechanics/CLI/tables/bard-ggr.md)
+![Bard](3-Mechanics/CLI/tables/bard-ggr.md)
 
 ### Cleric
 
 Though the worship of gods isn't widespread in Ravnica, clerics dedicated to more abstract principles do exist, primarily within the Azorius Senate, the Boros Legion, the Gruul Clans, the Orzhov Syndicate, and the Selesnya Conclave. They most often use their guild insignia as holy symbols.
 
-![Cleric](/3-Mechanics/CLI/tables/cleric-ggr.md)
+![Cleric](3-Mechanics/CLI/tables/cleric-ggr.md)
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/010-c111.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/010-c111.webp#center)
 
 ### Druid
 
 Druid characters are typically associated with the Golgari Swarm, the Gruul Clans, the Selesnya Conclave, and the Simic Combine. Druid circles do not cross guild boundaries; the fact that a Golgari druid and a Selesnya druid both belong to the Circle of the Land does not necessarily create common ground between them.
 
-![Druid](/3-Mechanics/CLI/tables/druid-ggr.md)
+![Druid](3-Mechanics/CLI/tables/druid-ggr.md)
 
 ### Fighter
 
 Fighters are common in almost every guild, with Dimir as the notable exception. In a world where constant tension among the guilds often blooms into physical violence, fighters are the core of most guilds' defenses.
 
-![Fighter](/3-Mechanics/CLI/tables/fighter-ggr.md)
+![Fighter](3-Mechanics/CLI/tables/fighter-ggr.md)
 
 ### Monk
 
 Unarmed fighting styles like those practiced by monks are uncommon on Ravnica, but a few guilds—House Dimir, the Selesnya Conclave, and the Simic Combine—do have contemplative traditions that include channeling magic in the form of ki.
 
-![Monk](/3-Mechanics/CLI/tables/monk-ggr.md)
+![Monk](3-Mechanics/CLI/tables/monk-ggr.md)
 
 ### Paladin
 
 The loyalty of a paladin is appreciated most by those guilds that value oaths of service, namely the Azorius Senate, the Boros Legion, and the Selesnya Conclave.
 
-![Paladin](/3-Mechanics/CLI/tables/paladin-ggr.md)
+![Paladin](3-Mechanics/CLI/tables/paladin-ggr.md)
 
 *Appears in "Xanathar's Guide to Everything"
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/011-c112.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/011-c112.webp#center)
 
 ### Ranger
 
 Standing as a bastion between civilization and the wilderness, Boros rangers scout the rubblebelts and other wild areas of Ravnica. Gruul rangers serve a similar role, though they are focused on protecting their clans from the encroachment of civilized forces such as the Boros. Selesnya and Golgari rangers are focused on protecting their communities.
 
-![Ranger](/3-Mechanics/CLI/tables/ranger-ggr.md)
+![Ranger](3-Mechanics/CLI/tables/ranger-ggr.md)
 
 ### Rogue
 
 Rogues are most at home in House Dimir, the Golgari Swarm, and the Orzhov Syndicate.
 
-![Rogue](/3-Mechanics/CLI/tables/rogue-ggr.md)
+![Rogue](3-Mechanics/CLI/tables/rogue-ggr.md)
 
 *Appears in "Xanathar's Guide to Everything"
 
@@ -242,9 +242,9 @@ Rogues are most at home in House Dimir, the Golgari Swarm, and the Orzhov Syndic
 
 Ravnica's sorcerers usually attribute their magical power not to bloodlines or cosmic forces, but to laboratory experiments—often ones gone awry. Thus, they are most often found among the Izzet.
 
-[Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the guildmaster of the Izzet, is a dragon. Sorcerers who gain their elemental powers from laboratory incidents often claim that they have been infused with some of [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s power.
+[Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the guildmaster of the Izzet, is a dragon. Sorcerers who gain their elemental powers from laboratory incidents often claim that they have been infused with some of [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md)'s power.
 
-![Sorcerer](/3-Mechanics/CLI/tables/sorcerer-ggr.md)
+![Sorcerer](3-Mechanics/CLI/tables/sorcerer-ggr.md)
 
 ### Warlock
 
@@ -252,13 +252,13 @@ In a handful of guilds, service to a powerful individual is common among warlock
 
 Members of any guild who delve too deeply into forbidden secrets—perhaps at the behest of their guilds' leaders, or sometimes in defiance of them—might unearth lore regarding the "old gods" of Ravnica. These mysterious beings, called the Nephilim, grant warlocks the mysterious and maddening powers of the Great Old One.
 
-![Warlock](/3-Mechanics/CLI/tables/warlock-ggr.md)
+![Warlock](3-Mechanics/CLI/tables/warlock-ggr.md)
 
 ### Wizard
 
 Almost every guild has wizards. Noteworthy exceptions include the Gruul Clans, the Cult of Rakdos, and the Selesnya Conclave, which are built around devotion to ancient ways and powerful beings.
 
-![Wizard](/3-Mechanics/CLI/tables/wizard-ggr.md)
+![Wizard](3-Mechanics/CLI/tables/wizard-ggr.md)
 
 ## Subclass Options
 

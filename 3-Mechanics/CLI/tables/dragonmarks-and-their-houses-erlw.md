@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Dragonmarks and Their Houses
+- "Dragonmarks and Their Houses"
 ---
 # Dragonmarks and Their Houses
 *Source: Eberron: Rising from the Last War p. 37* 

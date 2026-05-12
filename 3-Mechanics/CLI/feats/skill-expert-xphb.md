@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
 aliases:
-- Skill Expert
+- "Skill Expert"
 ---
 # Skill Expert
 *Source: Player's Handbook (2024) p. 207*  
@@ -19,4 +19,4 @@ You gain the following benefits.
 
 **Skill Proficiency.** You gain proficiency in one skill of your choice.
 
-**Expertise.** Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.
+**Expertise.** Choose one skill in which you have proficiency but lack [Expertise](3-Mechanics/CLI/rules/variant-rules/expertise-xphb.md). You gain [Expertise](3-Mechanics/CLI/rules/variant-rules/expertise-xphb.md) with that skill.

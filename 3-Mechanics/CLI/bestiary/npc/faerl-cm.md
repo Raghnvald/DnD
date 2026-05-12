@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/elf
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerl
+- "Faerl"
 ---
-# [Faerl](3-Mechanics\CLI\bestiary\npc/faerl-cm.md)
+# [Faerl](3-Mechanics/CLI/bestiary/npc/faerl-cm.md)
 *Source: Candlekeep Mysteries p. 104*  
 
 Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be in control at all times. He dresses in pompous finery and an oversized red hat. He speaks precisely, but in a volume so low that it forces people to pay close attention to him.
@@ -43,6 +43,8 @@ Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be 
     "desc": "+4"
   - "name": "Persuasion"
     "desc": "+5"
+"gear":
+  - "rapier"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish"
 "cr": "1/8"
@@ -51,8 +53,8 @@ Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be 
       \ can't put him to sleep."
     "name": "Fey Ancestry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Faerl adds 2 to his AC against one melee attack that would hit it. To\
@@ -60,6 +62,6 @@ Faerl, a neutral evil wood elf, is proud and cruel. He believes that he must be 
     "name": "Parry"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/faerl-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/faerl-cm.webp"
 ```
 ^statblock

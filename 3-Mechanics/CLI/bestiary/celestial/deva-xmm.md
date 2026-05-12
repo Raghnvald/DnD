@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deva
+- "Deva"
 ---
-# [Deva](3-Mechanics\CLI\bestiary\celestial/deva-xmm.md)
+# [Deva](3-Mechanics/CLI/bestiary/celestial/deva-xmm.md)
 *Source: Monster Manual (2024) p. 97. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Deva
@@ -22,15 +22,13 @@ aliases:
 *World-Changing Angelic Messenger*
 
 - **Habitat.** Planar (Upper Planes)  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Devas are emissaries of divine will. These immortal messengers adopt the shapes of mystical beasts or idealized, winged mortals. As with all angels, their true forms are known only to the gods they serve.
 
 Rather than literal correspondence from a god, a deva conveys an allegory or quest to mortals, tasking them with delivering something to its rightful place. While the angel might be called on in times of need, it encourages mortal heroism. Should a deva's chosen champions carry out their charge, they experience a revelation or the world is changed in line with divine purpose. Roll on or choose a result from the Deva Messages table to inspire a deva's charge.
 
 **Deva Messages**
-
-`dice: [](deva-xmm.md#^deva-messages)`
 
 | dice: 1d6 | The Deva Tasks a Mortal with Delivering... |
 |-----------|--------------------------------------------|
@@ -64,49 +62,49 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "radiant"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 19"
 "languages": "all; telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "If the deva dies outside Mount Celestia, its body disappears, and it\
-      \ gains a new body instantly, reviving with all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ gains a new body instantly, reviving with all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ somewhere in Mount Celestia."
     "name": "Exalted Restoration"
-  - "desc": "The deva has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The deva has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The deva makes two Holy Mace attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning damage\
-      \ plus 18 (4d8) Radiant damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
+      \ damage plus 18 (4d8) Radiant damage."
     "name": "Holy Mace"
   - "desc": "The deva casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** [Detect Evil and Good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-      \ [Shapechange](/3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
-      \ form only, no [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ gained from the spell, and no Concentration or [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)\
-      \ required to maintain the spell)\n\n**1/day each:** [Commune](/3-Mechanics/CLI/spells/commune-xphb.md),\
-      \ [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)"
+      \ will:** [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [Shapechange](3-Mechanics/CLI/spells/shapechange-xphb.md) (Beast or Humanoid\
+      \ form only, no [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)\
+      \ gained from the spell, and no Concentration or [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)\
+      \ required to maintain the spell)\n\n**1/day each:** [Commune](3-Mechanics/CLI/spells/commune-xphb.md),\
+      \ [Raise Dead](3-Mechanics/CLI/spells/raise-dead-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The deva casts [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-      \ or [Remove Curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md), using the\
-      \ same spellcasting ability as Spellcasting.\n"
+  - "desc": "The deva casts [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), or\
+      \ [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), using the same\
+      \ spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/deva-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/deva-xmm.webp"
 ```
 ^statblock
 

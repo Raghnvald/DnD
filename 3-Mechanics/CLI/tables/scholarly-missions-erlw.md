@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Scholarly Missions
+- "Scholarly Missions"
 ---
 # Scholarly Missions
 *Source: Eberron: Rising from the Last War p. 100* 
 
 **Scholarly Missions**
-
-`dice: [](scholarly-missions-erlw.md#^scholarly-missions)`
 
 | dice: d6 | Mission |
 |----------|---------|

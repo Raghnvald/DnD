@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 - ttrpg-cli/race/dhampir
 aliases:
-- Dhampir
+- "Dhampir"
 ---
 # Dhampir
 *Source: Van Richten's Guide to Ravenloft p. 16*  
-![](/3-Mechanics/CLI/races/img/dhampir.webp#right)
+![](3-Mechanics/CLI/races/img/dhampir.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -42,7 +42,7 @@ You have a climbing speed equal to your walking speed. In addition, at 3rd level
 
 ### Vampiric Bite
 
-Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.
+Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals `1d4` piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.
 
 When you attack with this bite and hit a creature that isn't a Construct or an Undead, you can empower yourself in one of the following ways of your choice:
 
@@ -53,7 +53,7 @@ You can empower yourself with this bite a number of times equal to your proficie
 
 ## Description
 
-Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), and a life-draining bite.
+Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire's deathless prowess in the form of increased speed, [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), and a life-draining bite.
 
 With unique insights into the nature of the undead, many dhampirs become adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who'd tempt their hunger.
 
@@ -64,8 +64,6 @@ Every dhampir knows a thirst slaked only by the living. Those who overindulge th
 While many dhampirs thirst for blood, your character might otherwise gain sustenance from the living. Roll on or choose an option from the Dhampir Hungers table to determine what tempts your character to feed.
 
 **Dhampir Hungers**
-
-`dice: [](dhampir-vrgr.md#^dhampir-hungers)`
 
 | dice: d6 | Hunger |
 |----------|--------|
@@ -82,8 +80,6 @@ While many dhampirs thirst for blood, your character might otherwise gain susten
 Dhampirs often arise from encounters with vampires, but all manner of macabre bargains, necromantic influences, and encounters with mysterious immortals might have transformed your character. The Dhampir Origins table provides suggestions for how your character gained their lineage.
 
 **Dhampir Origins**
-
-`dice: [](dhampir-vrgr.md#^dhampir-origins)`
 
 | dice: d8 | Origin |
 |----------|--------|

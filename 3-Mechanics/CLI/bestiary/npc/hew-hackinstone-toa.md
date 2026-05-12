@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/dwarf
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hew Hackinstone
+- "Hew Hackinstone"
 ---
-# [Hew Hackinstone](3-Mechanics\CLI\bestiary\npc/hew-hackinstone-toa.md)
+# [Hew Hackinstone](3-Mechanics/CLI/bestiary/npc/hew-hackinstone-toa.md)
 *Source: Tomb of Annihilation p. 33*  
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
@@ -28,7 +28,7 @@ Three years ago, Hew was part of a dwarven expedition seeking to reopen Wyrmhear
 "subtype": "dwarf"
 "alignment": "Chaotic Neutral"
 "ac": !!int "13"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -41,26 +41,29 @@ Three years ago, Hew was part of a dwarven expedition seeking to reopen Wyrmhear
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
 "traits":
   - "desc": "Hew has resistance to poison damage and advantage on saving throws against\
-      \ being poisoned."
+      \ being [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)."
     "name": "Dwarven Resilience"
   - "desc": "At the start of his turn, Hew can gain advantage on all melee weapon\
       \ attack rolls during that turn, but attack rolls against him have advantage\
       \ until the start of his next turn."
     "name": "Reckless"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage."
     "name": "Battleaxe"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hew-hackinstone-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hew-hackinstone-toa.webp"
 ```
 ^statblock

@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 15: Obstacle Course
+- "Level 15: Obstacle Course"
 ---
 # Level 15: Obstacle Course
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 193* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/047-15-01.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/047-15-01.webp#center)
 
 The Obstacle Course is designed for four 13th-level characters, and adventurers who defeat the monsters on this level should gain enough XP to advance to 14th level. Before running this level of Undermountain, review the description of the death tyrant in the "Beholders" entry in the "Monster Manual", as that information will help you roleplay the death tyrant that claims the Obstacle Course as its lair.
 
@@ -32,7 +32,7 @@ The githzerai are aware that githyanki have conquered the Crystal Labyrinth (lev
 
 ### Lava Children and Friends
 
-Several lava children (see appendix A) brought to Undermountain by Halaster's apprentice [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) have migrated from level 13 to the Obstacle Course and taken residence around a lava-filled chasm in the heart of the level, joining the magma mephits that dwell there. Netherskull terrorizes the lava children and magma mephits from time to time, but not enough to force them to leave the warmth of the chasm. The evil mephits trick or goad the lava children into attacking all other creatures that blunder into their territory.
+Several lava children (see appendix A) brought to Undermountain by Halaster's apprentice [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md) have migrated from level 13 to the Obstacle Course and taken residence around a lava-filled chasm in the heart of the level, joining the magma mephits that dwell there. Netherskull terrorizes the lava children and magma mephits from time to time, but not enough to force them to leave the warmth of the chasm. The evil mephits trick or goad the lava children into attacking all other creatures that blunder into their territory.
 
 ### Traps
 
@@ -42,7 +42,7 @@ The Obstacle Course is replete with mechanical and magical traps. Two recurring 
 
 Melairkyn dwarves built these pits, and Halaster keeps them in working order.
 
-A 10-foot-square slab of 2-inch-thick stone covers each pit. Each cover is carved to resemble the floor surrounding the pit. A character who has a passive Wisdom (Perception) score of 17 or higher recognizes the trapped section of floor as the cover of a pit. A character can also search the floor for traps, detecting the pit with a successful DC 17 Wisdom (Perception) check. Once a pit is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor to prevent the cover from opening. The cover can also be held in place using an arcane lock spell or similar magic.
+A 10-foot-square slab of 2-inch-thick stone covers each pit. Each cover is carved to resemble the floor surrounding the pit. A character who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 17 or higher recognizes the trapped section of floor as the cover of a pit. A character can also search the floor for traps, detecting the pit with a successful DC 17 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Once a pit is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor to prevent the cover from opening. The cover can also be held in place using an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell or similar magic.
 
 When a weight of 25 pounds or more is placed on the cover, it swings downward (as long as it hasn't been prevented from opening) and remains open until Halaster happens by and decides to close it. Any creature or object on the cover when it swings open falls into the pit below. The pit's depth and other hazards vary by location, as described in the location's description. Regardless of a pit's depth, its walls are too smooth for characters to climb without the aid of climbing gear, magic, or the Spider Climb trait (or a similar ability).
 
@@ -50,7 +50,7 @@ When a weight of 25 pounds or more is placed on the cover, it swings downward (a
 
 Teleport traps are at the locations marked T on the map. A teleport trap is a magical effect usually cast on a 10-foot-square section of floor, set to trigger whenever a creature enters the trap's space. The trap extends all the way to the ceiling of the space that contains it.
 
-A teleport trap is invisible to the senses, and a permanent Nystul's magic aura spell prevents divination spells such as detect magic from revealing the trap's presence. A successful dispel magic spell (DC 18) cast on the trapped section of floor destroys the trap.
+A teleport trap is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to the senses, and a permanent [Nystul's magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md) spell prevents divination spells such as [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) from revealing the trap's presence. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 18) cast on the trapped section of floor destroys the trap.
 
 A creature that enters the trap's space is teleported along with any objects it is wearing or carrying to another teleport trap (or the nearest unoccupied space). There is no saving throw to resist the teleportation effect, and the destination varies from trap to trap. Once a creature has been teleported in this way, it is unaffected by teleport traps on this level for 1 hour.
 
@@ -82,8 +82,8 @@ Teleport traps are designed to split the party—a situation that can challenge 
 The following encounter locations are keyed to map 15. The most distinguishing feature of the level is a gaping chasm that borders several dungeon corridors and chambers (see area 40 for details).
 
 > [!gallery]
-> ![Map 15](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/048-15-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/049-15-03.webp#gallery)
+> ![Map 15](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/048-15-02.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/049-15-03.webp#gallery)
 
 The Obstacle Course is mostly devoid of furnishings, since the level was designed explicitly to dispose of intruders in an efficient yet entertaining manner.
 
@@ -93,16 +93,16 @@ A broad set of stairs descend to a large chamber with the following features:
 
 > [!note] 
 > 
-> **Pillars**. Four stone pillars support a 35-foot-high, vaulted ceiling strung with cobwebs. When one or more humanoids approach within 30 feet of the northeast pillar, a magic mouth spell activates, forming a stone mouth on the pillar.
+> **Pillars**. Four stone pillars support a 35-foot-high, vaulted ceiling strung with cobwebs. When one or more humanoids approach within 30 feet of the northeast pillar, a [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell activates, forming a stone mouth on the pillar.
 > 
-> **Statues**. Tunnel exits to the north and south are flanked by 12-foot-tall stone statues of [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md), depicted as a bearded, scowling old wizard wearing a robe covered with lidless eyes and clutching a stout scepter with a red dragon's head at each end.
+> **Statues**. Tunnel exits to the north and south are flanked by 12-foot-tall stone statues of [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md), depicted as a bearded, scowling old wizard wearing a robe covered with lidless eyes and clutching a stout scepter with a red dragon's head at each end.
 > 
 > **Mine Carts**. Two mine carts made of corroded iron stand near a tunnel exit in the east wall.
 ^792
 
 #### Halaster Statues
 
-These statues can't be moved, knocked over, or damaged in any way. A detect magic spell reveals an aura of transmutation magic around each one.
+These statues can't be moved, knocked over, or damaged in any way. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around each one.
 
 Any nonmagical weapon that strikes a statue for the purpose of dealing damage to it turns to dust.
 
@@ -112,19 +112,17 @@ In Halaster's voice, the magic mouth speaks the following words in Common before
 
 #### Mine Carts
 
-The axles, wheels, and brake handles of the mine carts are rusted in place. A prestidigitation cantrip or similar magic can free the mechanisms and render a mine cart functional for the spell's duration, but it still squeals loudly when rolled across the floor.
+The axles, wheels, and brake handles of the mine carts are rusted in place. A [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip or similar magic can free the mechanisms and render a mine cart functional for the spell's duration, but it still squeals loudly when rolled across the floor.
 
-The characters are under no compulsion to heed Halaster's magic mouth spell. Any items they place in the carts and leave there are safe for 24 hours. After that, all unattended objects in the carts disappear—taken by Halaster to area 5 on level 23. Characters can find the missing items waiting for them there.
+The characters are under no compulsion to heed Halaster's [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell. Any items they place in the carts and leave there are safe for 24 hours. After that, all unattended objects in the carts disappear—taken by Halaster to area 5 on level 23. Characters can find the missing items waiting for them there.
 
 #### Covered Pit
 
-This 40-foot-deep hidden pit (see "Covered Pits") is located between the two northernmost statues. Halaster has cast a glyph of warding spell at the bottom of the pit, set to trigger a fireball spell (save DC 22) when a creature lands on the pit floor. The fireball is created using a 7th-level spell slot, engulfs all creatures in the pit, and deals `dice:12d6|noform|noparens|avg|text(42)` (`12d6`) fire damage on a failed save, or half as much damage on a successful one. Creatures in the pit have disadvantage on the saving throw, as there's precious little space to maneuver.
+This 40-foot-deep hidden pit (see "Covered Pits") is located between the two northernmost statues. Halaster has cast a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell at the bottom of the pit, set to trigger a [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spell (save DC 22) when a creature lands on the pit floor. The fireball is created using a 7th-level spell slot, engulfs all creatures in the pit, and deals 42 (`12d6`) fire damage on a failed save, or half as much damage on a successful one. Creatures in the pit have disadvantage on the saving throw, as there's precious little space to maneuver.
 
 #### Teleport Trap
 
-Halaster has placed a teleport trap (see "Teleport Traps") between the two southern statues. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+Halaster has placed a teleport trap (see "Teleport Traps") between the two southern statues. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -135,17 +133,17 @@ Halaster has placed a teleport trap (see "Teleport Traps") between the two south
 
 ##### Additional Effect: Elder Rune
 
-The first time a creature triggers this teleport trap, an elder rune (see "Elder Runes") appears in the air between the two southern statues a split second after the creature disappears, and at the same moment a booming voice shouts, "Teleported!" Draw a card from the [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B) to determine which rune appears. This rune targets all creatures within 60 feet of it with the same effect (bane or boon, determined randomly).
+The first time a creature triggers this teleport trap, an elder rune (see "Elder Runes") appears in the air between the two southern statues a split second after the creature disappears, and at the same moment a booming voice shouts, "Teleported!" Draw a card from the [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B) to determine which rune appears. This rune targets all creatures within 60 feet of it with the same effect (bane or boon, determined randomly).
 
 ### 2. Clacking Floor
 
-The stones that comprise the floor of this 10-foot-high chamber make clacking noises when stepped on—a crude but effective alarm system installed by dwarves long ago. A character who searches the floor for traps before stepping on it discovers the hidden alarm system with a successful DC 20 Wisdom (Perception) check.
+The stones that comprise the floor of this 10-foot-high chamber make clacking noises when stepped on—a crude but effective alarm system installed by dwarves long ago. A character who searches the floor for traps before stepping on it discovers the hidden alarm system with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 A secret door in the west wall opens into area 3, and north of the room is a hidden pit trap.
 
 #### Covered Pit
 
-This hidden pit (see "Covered Pits") is 20 feet deep, but the bottom 10 feet is occupied by a [gelatinous cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md). Any creature that falls into the pit takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) acid damage as it sinks into the cube and is automatically engulfed by it. If the cube is attacked from above, it rises out of the pit on its turn and tries to engulf anything in its path.
+This hidden pit (see "Covered Pits") is 20 feet deep, but the bottom 10 feet is occupied by a [gelatinous cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md). Any creature that falls into the pit takes 10 (`3d6`) acid damage as it sinks into the cube and is automatically engulfed by it. If the cube is attacked from above, it rises out of the pit on its turn and tries to engulf anything in its path.
 
 ### 3. Stuffed Monsters
 
@@ -155,7 +153,7 @@ The secret doors leading to this chamber are 10 feet square. It takes a singular
 - A reared-up ankheg (600 pounds)  
 - A young brass dragon with wings tucked in, head lowered, and jaws agape (750 pounds)  
 - An ettercap with its arms raised menacingly (200 pounds)  
-- A hell hound with a continual flame spell cast in its gullet (150 pounds)  
+- A hell hound with a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell cast in its gullet (150 pounds)  
 
 ### 4. Caught in the Tentacles
 
@@ -168,9 +166,9 @@ The secret doors leading to this chamber are 10 feet square. It takes a singular
 > **Statues**. Two life-size iron statues of mind flayers sit in opposite corners of the central chamber, facing one another with their tentacles outstretched.
 ^79d
 
-Halaster placed the mind flayer statues here and trapped them. A detect magic spell reveals auras of abjuration and evocation magic around each one. It doesn't require an ability check to realize that a humanoid head would fit nicely inside each mind flayer's tentacles.
+Halaster placed the mind flayer statues here and trapped them. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals auras of abjuration and evocation magic around each one. It doesn't require an ability check to realize that a humanoid head would fit nicely inside each mind flayer's tentacles.
 
-Any humanoid that passes between the statues must succeed on a DC 22 Intelligence saving throw or be charmed by the statues for 1 minute. The charmed creature must use all of its movement on its turn to move toward the nearest statue and stick its head between the tentacles. (A Small humanoid must climb the front of the statue to do so.) Only one creature at a time can place its head between the tentacles. A humanoid that places its head between the tentacles is no longer charmed but is stunned and remains so until another creature separates it from the statue or until the statue is destroyed.
+Any humanoid that passes between the statues must succeed on a DC 22 Intelligence saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the statues for 1 minute. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature must use all of its movement on its turn to move toward the nearest statue and stick its head between the tentacles. (A Small humanoid must climb the front of the statue to do so.) Only one creature at a time can place its head between the tentacles. A humanoid that places its head between the tentacles is no longer [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) but is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) and remains so until another creature separates it from the statue or until the statue is destroyed.
 
 Each statue is rooted to the floor and is a Medium object with AC 19, 40 hit points, and immunity to all damage except force damage.
 
@@ -184,20 +182,18 @@ Several traps and obstacles await visitors to these areas. The ceilings are 10 f
 > 
 > **Columns**. Six 10-foot-wide columns support the ceiling.
 > 
-> **Gilded Statue**. An alcove in the south wall contains a gilded statue of [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) holding what looks like coins in its outstretched right hand.
+> **Gilded Statue**. An alcove in the south wall contains a gilded statue of [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md) holding what looks like coins in its outstretched right hand.
 > 
 > **Secret Door**. A northwest alcove contains a secret door that opens into area 5d.
 ^7a0
 
-The statue holds five gold-painted stone coins in its outstretched hand. Close inspection reveals that one of the coins is loose and can be removed from the statue's hand. Engraved on each side of the loose coin is Halaster's rune. A detect magic spell reveals an aura of abjuration magic around the coin, and an identify spell or similar magic reveals its magical property.
+The statue holds five gold-painted stone coins in its outstretched hand. Close inspection reveals that one of the coins is loose and can be removed from the statue's hand. Engraved on each side of the loose coin is Halaster's rune. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around the coin, and an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic reveals its magical property.
 
 When an elder rune triggers within 60 feet of the creature that possesses the coin, the creature can use its reaction and the coin to change the elder rune's bane effect into a boon effect, or vice versa. After the coin is used once, it disappears in a flash, accompanied by Halaster's booming laugh.
 
 #### 5b. Teleport Trap
 
-This trap is located in the far west alcove in the south wall (see "Teleport Traps"). A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+This trap is located in the far west alcove in the south wall (see "Teleport Traps"). A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -208,17 +204,17 @@ This trap is located in the far west alcove in the south wall (see "Teleport Tra
 
 #### 5c. Electrified Portcullises
 
-This empty, 30-foot-wide, 10-foot-deep, 10-foot-high chamber is closed off by two humming iron portcullises with 3-inch gaps between their 1-inch-thick bars. A winch on the north wall of the chamber raises and lowers both portcullises simultaneously, but it's beyond the reach of characters standing outside the room. A mage hand cantrip or an unseen servant spell cannot exert enough force to turn the winch, but a telekinesis spell does. A character can also circumvent one or both portcullises using a spell such as misty step or gaseous form. Any creature that touches either portcullis or passes between its electrified bars takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage, or `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) lightning damage if the creature is made of ferrous metal or wearing metal armor.
+This empty, 30-foot-wide, 10-foot-deep, 10-foot-high chamber is closed off by two humming iron portcullises with 3-inch gaps between their 1-inch-thick bars. A winch on the north wall of the chamber raises and lowers both portcullises simultaneously, but it's beyond the reach of characters standing outside the room. A [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip or an [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md) spell cannot exert enough force to turn the winch, but a [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md) spell does. A character can also circumvent one or both portcullises using a spell such as [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) or [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md). Any creature that touches either portcullis or passes between its electrified bars takes 22 (`4d10`) lightning damage, or 44 (`8d10`) lightning damage if the creature is made of ferrous metal or wearing metal armor.
 
 #### 5d. Deep Duerra's Den
 
 This chamber, hidden behind a secret door, is choked with dust and cobwebs. The room's only feature is a 9-foot-tall stone statue of a cloaked female dwarf, her face half hidden under a cowl. In one outstretched hand, she holds an alien skull, yellowed with age.
 
-The statue depicts Deep Duerra, the duergar god of conquest and psionics. Recognizing this sinister figure requires a successful DC 20 Intelligence (Religion) check; dwarves (including duergar) have advantage on the check. A successful DC 15 Intelligence (Arcana or Nature) check confirms that she is holding the skull of a long-dead mind flayer.
+The statue depicts Deep Duerra, the duergar god of conquest and psionics. Recognizing this sinister figure requires a successful DC 20 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check; dwarves (including duergar) have advantage on the check. A successful DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check confirms that she is holding the skull of a long-dead mind flayer.
 
 ##### Treasure
 
-A detect magic spell reveals an aura of illusion magic around the mind flayer skull, and an identify spell or similar magic reveals its magical properties. A creature with the skull in its possession is invisible to mind flayers, as is anything the creature is wearing or carrying. The skull crumbles to dust and is destroyed `dice:1d10|noform|noparens|avg` (`1d10`) days after leaving the statue's grasp.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of illusion magic around the mind flayer skull, and an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic reveals its magical properties. A creature with the skull in its possession is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to mind flayers, as is anything the creature is wearing or carrying. The skull crumbles to dust and is destroyed `1d10` days after leaving the statue's grasp.
 
 ### 6. Looted Chest
 
@@ -233,9 +229,7 @@ A detect magic spell reveals an aura of illusion magic around the mind flayer sk
 
 #### Teleport Trap
 
-In addition to the empty chest, the middle 10-foot square of the room contains a teleport trap (see "Teleport Traps"). A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+In addition to the empty chest, the middle 10-foot square of the room contains a teleport trap (see "Teleport Traps"). A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -252,28 +246,26 @@ In addition to the empty chest, the middle 10-foot square of the room contains a
 > 
 > **Peeling Paint**. The vibrant green paint that once adorned the walls has mostly peeled off from the chasm's extreme heat.
 > 
-> **Ghost**. As one or more characters attempt to cross the room, the [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) of [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md), a human paladin of Tyr, appears in the middle of the room. The air around it reeks of cheap cologne.
+> **Ghost**. As one or more characters attempt to cross the room, the [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) of [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md), a human paladin of Tyr, appears in the middle of the room. The air around it reeks of cheap cologne.
 ^7a9
 
-[Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost has 80 hit points and appears as a translucent knight in shining armor, with the symbol of Tyr (a set of balanced scales) on his ghostly breastplate. The ghost is lawful good and speaks in Common. If the ghost is reduced to 0 hit points, it re-forms 24 hours later in a random location within the Obstacle Course and remains there until encountered again.
+[Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost has 80 hit points and appears as a translucent knight in shining armor, with the symbol of Tyr (a set of balanced scales) on his ghostly breastplate. The ghost is lawful good and speaks in Common. If the ghost is reduced to 0 hit points, it re-forms 24 hours later in a random location within the Obstacle Course and remains there until encountered again.
 
-Over a century ago, [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md) began his campaign to single-handedly rid Undermountain of evil, foolishly believing that Tyr would not let him perish. The arrogant paladin fought his way down to the Obstacle Course, only to be disintegrated unceremoniously by Netherskull. [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s convictions are so strong, however, that his spirit cannot rest until it defeats Netherskull in battle. The ghost has confronted the death tyrant many times on its own, but these battles are always short-lived, ending with Netherskull destroying the ghost and causing it to re-form elsewhere in the dungeon.
+Over a century ago, [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md) began his campaign to single-handedly rid Undermountain of evil, foolishly believing that Tyr would not let him perish. The arrogant paladin fought his way down to the Obstacle Course, only to be disintegrated unceremoniously by Netherskull. [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s convictions are so strong, however, that his spirit cannot rest until it defeats Netherskull in battle. The ghost has confronted the death tyrant many times on its own, but these battles are always short-lived, ending with Netherskull destroying the ghost and causing it to re-form elsewhere in the dungeon.
 
-[Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost is looking for a potential host who is willing to be possessed by it. A character who allows the possession forgoes the saving throw to resist the effect, and you can allow the player to continue running the character. While possessed, the character gains the following flaw, which supersedes any conflicting personality trait: "I, [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md), favored son of Tyr, must strike down Netherskull at all costs, as justice demands." The character also reeks of cheap cologne while possessed.
+[Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost is looking for a potential host who is willing to be possessed by it. A character who allows the possession forgoes the saving throw to resist the effect, and you can allow the player to continue running the character. While possessed, the character gains the following flaw, which supersedes any conflicting personality trait: "I, [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md), favored son of Tyr, must strike down Netherskull at all costs, as justice demands." The character also reeks of cheap cologne while possessed.
 
-His arrogance aside, [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md) won't possess a humanoid without its consent. If it can't find a willing host, it offers to join the party on two conditions: the characters must seek out Netherskull with haste, combat it, and allow [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md) to deal the death blow to it. The ghost knows the location of the death tyrant's lair (area 39c) but doesn't know how to open the doors that lead to it, or about the secret way in (area 39b).
+His arrogance aside, [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md) won't possess a humanoid without its consent. If it can't find a willing host, it offers to join the party on two conditions: the characters must seek out Netherskull with haste, combat it, and allow [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md) to deal the death blow to it. The ghost knows the location of the death tyrant's lair (area 39c) but doesn't know how to open the doors that lead to it, or about the secret way in (area 39b).
 
-If Netherskull is reduced to 0 hit points by a creature other than [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost or its host, the paladin of Tyr can't accept that someone other than he dealt the killing blow. The ghost wallows in despair, doomed to haunt the Obstacle Course until another follower of Tyr convinces it to move on with a successful DC 20 Charisma (Persuasion) check. A non-follower can attempt the check, but only by posing as a Tyr worshiper and fooling the ghost with a successful DC 10 Charisma (Deception) check.
+If Netherskull is reduced to 0 hit points by a creature other than [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost or its host, the paladin of Tyr can't accept that someone other than he dealt the killing blow. The ghost wallows in despair, doomed to haunt the Obstacle Course until another follower of Tyr convinces it to move on with a successful DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. A non-follower can attempt the check, but only by posing as a Tyr worshiper and fooling the ghost with a successful DC 10 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check.
 
-If it succeeds in reducing Netherskull to 0 hit points, either as a ghost or when in possession of a host, [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost is laid to rest. "Victory at last!" says the ghost as it fades away. Afterward, Tyr bestows a blessing of protection (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide") on any character who served as [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s host.
+If it succeeds in reducing Netherskull to 0 hit points, either as a ghost or when in possession of a host, [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s ghost is laid to rest. "Victory at last!" says the ghost as it fades away. Afterward, Tyr bestows a [blessing of protection](3-Mechanics/CLI/rewards/blessing-of-protection-xdmg.md) (see ""Supernatural Gifts"" in chapter 7 of the "Dungeon Master's Guide") on any character who served as [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s host.
 
-For laying [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s spirit to rest, the characters should receive XP as if they had defeated the ghost in combat.
+For laying [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md)'s spirit to rest, the characters should receive XP as if they had defeated the ghost in combat.
 
 ### 8. Teleport Trap
 
-This unadorned hallway contains a teleport trap (see "Teleport Traps"). A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+This unadorned hallway contains a teleport trap (see "Teleport Traps"). A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -295,7 +287,7 @@ This 20-foot-high chamber shows signs of past extravagance. It has the following
 > **Double Door**. At the south end of the room, two pillars carved with scores of eyes flank a stone double door engraved with a giant letter H.
 ^7ac
 
-If their handles are tugged, the double doors fly open, revealing a stone wall with a giant elder rune carved into it (see "Elder Runes"). Draw a card from the [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B) to determine which rune waits beyond the doors. This rune targets all creatures in the room with the same effect (bane or boon, determined randomly). If Halaster's personal rune is indicated, an additional effect occurs: the pillars flanking the doorway shoot multicolored rays from their eyes, and each creature in the room becomes the target of a prismatic spray spell (save DC 22). Once this effect is resolved, the elder rune on the wall disappears, and the doors slam shut unless they are held open or otherwise prevented from closing.
+If their handles are tugged, the double doors fly open, revealing a stone wall with a giant elder rune carved into it (see "Elder Runes"). Draw a card from the [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B) to determine which rune waits beyond the doors. This rune targets all creatures in the room with the same effect (bane or boon, determined randomly). If Halaster's personal rune is indicated, an additional effect occurs: the pillars flanking the doorway shoot multicolored rays from their eyes, and each creature in the room becomes the target of a [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md) spell (save DC 22). Once this effect is resolved, the elder rune on the wall disappears, and the doors slam shut unless they are held open or otherwise prevented from closing.
 
 When the doors close, the trap resets so that the next time the doors open, another randomly determined elder rune appears on the wall behind them.
 
@@ -311,9 +303,7 @@ The rolling statue is designed to fit snugly in the dungeon's 10-foot-wide passa
 
 #### Teleport Trap
 
-A teleport trap fills the 10-foot-square space in front of the west exit. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A teleport trap fills the 10-foot-square space in front of the west exit. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -324,7 +314,7 @@ A teleport trap fills the 10-foot-square space in front of the west exit. A crea
 
 ##### Additional Effect: Rolling Dragon
 
-When a creature is teleported to this location from another teleport trap, a disembodied voice shouts, "Teleported!" at the same moment the 10-foot-wide dragon statue rolls forward 60 feet, passing through the teleport trap's space and slamming into the wall of the corridor that leads west. Any creature in the path of the rolling statue, including the one teleported by the trap, must succeed on a DC 15 Dexterity saving throw to get out of its way. On a failed save, the creature is struck by the rolling statue, falls prone, and takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage.
+When a creature is teleported to this location from another teleport trap, a disembodied voice shouts, "Teleported!" at the same moment the 10-foot-wide dragon statue rolls forward 60 feet, passing through the teleport trap's space and slamming into the wall of the corridor that leads west. Any creature in the path of the rolling statue, including the one teleported by the trap, must succeed on a DC 15 Dexterity saving throw to get out of its way. On a failed save, the creature is struck by the rolling statue, falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone), and takes 55 (`10d10`) bludgeoning damage.
 
 The statue returns to its original position against the east wall after 1 minute, ready to roll again the next time a creature teleports into the room.
 
@@ -341,13 +331,11 @@ The rotting corpse of a drow mage lies slumped against a wall at the end of the 
 
 #### Treasure
 
-Characters who search Elvilac's remains find a zurkhwood wand (used as an arcane focus), a spellbook with black leather covers, and a spider silk pouch containing three soft purple mushrooms that give off an aura when subjected to a detect magic spell or similar magic. Elvilac's spellbook contains all the spells he had prepared (see the [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) stat block), plus dispel magic, stoneskin, and telekinesis. Each of the purple mushrooms can be eaten as an action and has the magical properties of a potion of greater healing.
+Characters who search Elvilac's remains find a zurkhwood wand (used as an arcane focus), a spellbook with black leather covers, and a spider silk pouch containing three soft purple mushrooms that give off an aura when subjected to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic. Elvilac's spellbook contains all the spells he had prepared (see the [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) stat block), plus [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md), and [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md). Each of the purple mushrooms can be eaten as an action and has the magical properties of a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
 
 #### Teleport Trap
 
-A teleport trap fills the 10-foot-square space marked on map 15. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A teleport trap fills the 10-foot-square space marked on map 15. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -364,7 +352,7 @@ Hidden behind a secret door is a dusty, 10-foot-high room that contains the foll
 > 
 > **Lever**. In the middle of the room, a 6-foot-diameter rusty iron wheel protrudes from the floor.
 > 
-> **Unseen Servant**. Standing silently in the northwest corner is a [living unseen servant](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A).
+> **Unseen Servant**. Standing silently in the northwest corner is a [living unseen servant](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A).
 ^7b6
 
 The rusty iron wheel can be rotated a half turn in either direction, squealing loudly until it clicks to a stop. Turning the wheel causes mechanisms under the floor to clank and whir, locking the lids of all the covered pits on this level and deactivating all the teleport traps on this level. Resetting the wheel to its original position reactivates these traps.
@@ -377,9 +365,7 @@ Two traps are hidden in these unadorned halls.
 
 #### 13a. Teleport Trap
 
-A teleport trap (see "Teleport Traps") fills the 10-foot-square space marked on the map. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A teleport trap (see "Teleport Traps") fills the 10-foot-square space marked on the map. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -390,11 +376,11 @@ A teleport trap (see "Teleport Traps") fills the 10-foot-square space marked on 
 
 ##### Additional Effect: Summoned Devil
 
-After a creature triggers the trap and is teleported away, an [ice devil](/3-Mechanics/CLI/bestiary/fiend/ice-devil.md) appears in the trap's space and attacks any other creatures it sees at the same moment a booming voice shouts, "Teleported!" The devil doesn't trigger any of the teleport traps on this level. It disappears when reduced to 0 hit points or after 1 minute. Each time the trap is triggered, a new ice devil appears.
+After a creature triggers the trap and is teleported away, an [ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md) appears in the trap's space and attacks any other creatures it sees at the same moment a booming voice shouts, "Teleported!" The devil doesn't trigger any of the teleport traps on this level. It disappears when reduced to 0 hit points or after 1 minute. Each time the trap is triggered, a new ice devil appears.
 
 #### 13b. Covered Pit
 
-This hidden pit (see "Covered Pits") is 40 feet deep, and a creature that falls the distance takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) bludgeoning damage. In addition, Halaster has cast a glyph of warding spell at the bottom of the pit, set to trigger a cloudkill spell (save DC 22) when a creature lands on the floor of the pit. The poisonous fog created by the spell fills the pit and lasts for 10 minutes. The spell is cast using an 8th-level spell slot. It deals `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) poison damage on a failed saving throw, or half as much damage on a successful one.
+This hidden pit (see "Covered Pits") is 40 feet deep, and a creature that falls the distance takes 14 (`4d6`) bludgeoning damage. In addition, Halaster has cast a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell at the bottom of the pit, set to trigger a [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md) spell (save DC 22) when a creature lands on the floor of the pit. The poisonous fog created by the spell fills the pit and lasts for 10 minutes. The spell is cast using an 8th-level spell slot. It deals 36 (`8d8`) poison damage on a failed saving throw, or half as much damage on a successful one.
 
 ### 14. Sepulchers
 
@@ -425,26 +411,26 @@ The door to this room is identical to the one guarding area 14a, except for a tr
 
 > [!note] 
 > 
-> **Skeletons and Sarcophagi**. Twelve dwarf [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton.md) mill aimlessly around three unmarked stone sarcophagi in the middle of this crypt.
+> **Skeletons and Sarcophagi**. Twelve dwarf [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) mill aimlessly around three unmarked stone sarcophagi in the middle of this crypt.
 > 
-> **Lorlynn**. The southern sarcophagus is missing its lid. A female [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Lorlynn Zmirth rests inside. She sits up when intruders enter the crypt.
+> **Lorlynn**. The southern sarcophagus is missing its lid. A female [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Lorlynn Zmirth rests inside. She sits up when intruders enter the crypt.
 ^7bf
 
 Lorlynn came to Undermountain with her twin brother Elvilac in hopes of finding useful spellbooks and magic. Netherskull has chosen to leave her alone for the time being. Her brother wasn't so fortunate (see area 11). Lorlynn doesn't know he's dead and is expecting him to return any moment, but news of his death doesn't upset her. So gloomy a creature was he that if Lorlynn can recover and animate his corpse, it will be as though he never died.
 
-Lorlynn wears a tattered gray spider silk robe and cowl that, coupled with her gaunt features, makes her appear distinctly banshee-like. She abhors the company of other humanoids except her brother. She is in a relaxing trance when the characters first arrive. Normally indifferent toward adventurers, she turns hostile if she finds that the characters have her brother's spellbook and refuse to surrender it to her. If her skeletons are turned or destroyed and she is reduced to half her hit points or fewer, Lorlynn offers information in exchange for her life. She knows one random Undermountain secret, determined by drawing a card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C). She also knows how to deactivate the pit traps and teleport traps on this level using the wheel in area 12, but knows nothing of the living unseen servant that Halaster recently put there.
+Lorlynn wears a tattered gray spider silk robe and cowl that, coupled with her gaunt features, makes her appear distinctly banshee-like. She abhors the company of other humanoids except her brother. She is in a relaxing trance when the characters first arrive. Normally indifferent toward adventurers, she turns hostile if she finds that the characters have her brother's spellbook and refuse to surrender it to her. If her skeletons are turned or destroyed and she is reduced to half her hit points or fewer, Lorlynn offers information in exchange for her life. She knows one random Undermountain secret, determined by drawing a card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C). She also knows how to deactivate the pit traps and teleport traps on this level using the wheel in area 12, but knows nothing of the living unseen servant that Halaster recently put there.
 
 Each sarcophagus sits atop a 1-foot-tall stone bier and is 7 feet long, 3 feet wide, and 3 feet tall. A character with a Strength score of 15 or higher can push off the lid of a sarcophagus easily. The contents of each sarcophagus are described below:
 
-- The northern sarcophagus has a gaping crack in one of its sides, and four harmless rats have used this crack to creep inside and make a nest among the moldering bones of a sahuagin (placed here by Halaster to confound grave robbers). Lifting the lid or tapping on the sarcophagus causes `dice:1d4|noform|noparens|avg` (`1d4`) rats to emerge in a panic. The detritus in the nest includes two random trinkets, determined by rolling on the Trinkets table in chapter 5 of the "Player's Handbook".  
+- The northern sarcophagus has a gaping crack in one of its sides, and four harmless rats have used this crack to creep inside and make a nest among the moldering bones of a sahuagin (placed here by Halaster to confound grave robbers). Lifting the lid or tapping on the sarcophagus causes `1d4` rats to emerge in a panic. The detritus in the nest includes two random trinkets, determined by rolling on the [Trinkets](3-Mechanics/CLI/items/trinket-xphb.md) table in chapter 5 of the "Player's Handbook".  
 - The middle sarcophagus is full of cobwebs, hidden under which is a right-handed iron gauntlet with six fingers. Characters can use the gauntlet to activate the gate in area 24c.  
-- The southern sarcophagus (Lorlynn's bed) has a secret compartment in the bottom that can be found with a successful DC 20 Wisdom (Perception) check. Its contents are described in "Treasure" below.  
+- The southern sarcophagus (Lorlynn's bed) has a secret compartment in the bottom that can be found with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Its contents are described in "Treasure" below.  
 
 ##### Treasure
 
 Lorlynn wears a black gold ring set with bloodstones (250 gp) on the index finger of her right hand and carries a bone wand (her arcane focus), a pouch containing two bone dice (1 gp each), and a bloodstained sackcloth doll with two jet eyes (100 gp per eye).
 
-The secret compartment in Lorlynn's sarcophagus holds her spellbook, which has covers made of stitched elf flesh. It contains all the spells she has prepared plus animate dead, arcane eye, and wall of stone.
+The secret compartment in Lorlynn's sarcophagus holds her spellbook, which has covers made of stitched elf flesh. It contains all the spells she has prepared plus [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md), [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), and [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md).
 
 ### 15. Ruined Armory
 
@@ -461,22 +447,22 @@ The secret compartment in Lorlynn's sarcophagus holds her spellbook, which has c
 
 Each of the arch's one hundred jigsaw pieces weighs 10 pounds. The rules of this gate are as follows:
 
-- Only one piece of the arch can be removed at any given time. A detect magic spell reveals that one of the pieces (determined randomly) is magical. When that piece is removed from the arch, it disappears, and the gate opens for 1 minute. When the gate closes, the piece removed from the arch magically reappears in its proper place, and a different piece becomes magical and must be removed to reopen the gate.  
-- If a wrong piece is removed from the arch, an [adult white dragon](/3-Mechanics/CLI/bestiary/dragon/adult-white-dragon.md) magically appears in an unoccupied space within 60 feet of the arch and attacks any creature it can see. The dragon disappears when it is slain or after 1 minute. When the dragon disappears, the piece that was removed from the arch magically reappears in its previous place.  
+- Only one piece of the arch can be removed at any given time. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that one of the pieces (determined randomly) is magical. When that piece is removed from the arch, it disappears, and the gate opens for 1 minute. When the gate closes, the piece removed from the arch magically reappears in its proper place, and a different piece becomes magical and must be removed to reopen the gate.  
+- If a wrong piece is removed from the arch, an [adult white dragon](3-Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md) magically appears in an unoccupied space within 60 feet of the arch and attacks any creature it can see. The dragon disappears when it is slain or after 1 minute. When the dragon disappears, the piece that was removed from the arch magically reappears in its previous place.  
 - Characters must be at least 16th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 9b on level 20, in the closest unoccupied space next to the identical gate located there.  
 
 ### 16. Spectral Bridge
 
-A 120-foot-long, 10-foot-wide bridge of wispy magical energy spans the lava-filled chasm, connecting areas 9 and 17. This bridge provides a relatively safe means of crossing the chasm, particularly given that the chasm suppresses fly spells and similar magic (see area 40).
+A 120-foot-long, 10-foot-wide bridge of wispy magical energy spans the lava-filled chasm, connecting areas 9 and 17. This bridge provides a relatively safe means of crossing the chasm, particularly given that the chasm suppresses [fly](3-Mechanics/CLI/spells/fly-xphb.md) spells and similar magic (see area 40).
 
-The bridge, suspended 30 feet above the surface of the lava, is flat, translucent, and without railings. Normally, it is solid and safe to walk on—but any section of the bridge within 10 feet of a magic item becomes insubstantial. A creature or object passes through an insubstantial section of the bridge like it's not there. A successful dispel magic spell cast on the bridge (DC 18) causes the entire span to disappear for 1 hour.
+The bridge, suspended 30 feet above the surface of the lava, is flat, translucent, and without railings. Normally, it is solid and safe to walk on—but any section of the bridge within 10 feet of a magic item becomes insubstantial. A creature or object passes through an insubstantial section of the bridge like it's not there. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell cast on the bridge (DC 18) causes the entire span to disappear for 1 hour.
 
 In order to retain their magic items as they cross the bridge, the characters must devise a way to distance the items from the bridge as they cross it, such as by tying the items to ropes and dangling them more than 10 feet from the span.
 
 #### Fireball Trap
 
-Whenever a creature on the bridge crosses the midpoint of the span, there is a 25 percent chance that the lava pool below spouts a fireball that explodes at a point centered on that creature. The effect is that of a fireball spell (save DC 19) cast using a 7th-level spell slot. It deals `dice:12d6|noform|noparens|avg|text(42)` (`12d6`) fire damage on a failed saving throw, or half as much damage on a successful one.
+Whenever a creature on the bridge crosses the midpoint of the span, there is a 25 percent chance that the lava pool below spouts a fireball that explodes at a point centered on that creature. The effect is that of a [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spell (save DC 19) cast using a 7th-level spell slot. It deals 42 (`12d6`) fire damage on a failed saving throw, or half as much damage on a successful one.
 
 ### 17. Ruined Chamber
 
@@ -493,17 +479,17 @@ What's left of this room is perched above the lava at the north end of the spect
 
 This room stands empty except for fist-sized bas-reliefs of spiders at various heights along the walls. The furnishings of the shrine were either destroyed by the formation of the chasm or disintegrated by the death tyrant. What remains is an empty chamber with a crumbling ledge that overlooks a lava pool 30 feet below.
 
-Characters who make no effort to conceal themselves as they approach the ledge are spotted by the creatures frolicking in area 40d: six [lava children](/3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) and seven [magma mephits](/3-Mechanics/CLI/bestiary/elemental/magma-mephit.md). See area 40d for details.
+Characters who make no effort to conceal themselves as they approach the ledge are spotted by the creatures frolicking in area 40d: six [lava children](3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) and seven [magma mephits](3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md). See area 40d for details.
 
 #### Treasure
 
-A character who searches the north wall and succeeds on a DC 15 Intelligence (Investigation) check discovers that one of the spider carvings on that wall can be detached. The carving is 6 feet off the floor, weighs 10 pounds, and acts as a plug sealing a stone tube. Removing the plug causes 250 pp to cascade out of the tube onto the floor.
+A character who searches the north wall and succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check discovers that one of the spider carvings on that wall can be detached. The carving is 6 feet off the floor, weighs 10 pounds, and acts as a plug sealing a stone tube. Removing the plug causes 250 pp to cascade out of the tube onto the floor.
 
 ### 19. Grabby Pillars
 
 > [!note] 
 > 
-> **Ropers**. Three [ropers](/3-Mechanics/CLI/bestiary/monstrosity/roper.md) are disguised as 10-foot-tall pillars of rough-hewn stone that extend from floor to ceiling. Lying on the floor between the pillars is a key of bone. Set into each pillar at a height of 7 feet is a lidded eye fixed on the key. (These are the ropers' actual eyes, which appear still and lifeless.)
+> **Ropers**. Three [ropers](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md) are disguised as 10-foot-tall pillars of rough-hewn stone that extend from floor to ceiling. Lying on the floor between the pillars is a key of bone. Set into each pillar at a height of 7 feet is a lidded eye fixed on the key. (These are the ropers' actual eyes, which appear still and lifeless.)
 > 
 > **Frescoes**. The walls are covered with faded frescoes that depict Underdark caverns and fungi forests.
 > 
@@ -516,9 +502,7 @@ The ropers remain still and hold their pillar-like shapes until the key is distu
 
 #### Teleport Trap
 
-A creature teleported by this room's teleport trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A creature teleported by this room's teleport trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -535,7 +519,7 @@ This empty hallway has been broken away from the rest of the level by the lava-f
 
 A crumbling ledge overlooks a great chasm brightly lit by a bubbling pool of lava 30 feet below. Characters who peer over the ledge can see several creatures frolicking in the lava.
 
-Characters who make no effort to conceal themselves as they cross the room are detected and attacked by the creatures frolicking in the pool: six [lava children](/3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) and seven [magma mephits](/3-Mechanics/CLI/bestiary/elemental/magma-mephit.md). See area 40d for details.
+Characters who make no effort to conceal themselves as they cross the room are detected and attacked by the creatures frolicking in the pool: six [lava children](3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) and seven [magma mephits](3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md). See area 40d for details.
 
 ### 22. Teleport Traps
 
@@ -543,9 +527,7 @@ These tunnels contain two teleport traps (see "Teleport Traps").
 
 #### 22a. West Teleport Trap
 
-A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -555,13 +537,11 @@ A creature teleported by this trap arrives at a location determined by rolling a
 
 ##### Additional Effect: Vergadain Lives
 
-When a creature is teleported by this trap, a disembodied voice shouts, "Teleported!" at the same moment the [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem.md) in area 23 animates. This golem begins stalking through nearby tunnels, attacking all other creatures it sees. If it finds nothing to attack after prowling these tunnels for 10 minutes, it returns to its alcove and goes dormant.
+When a creature is teleported by this trap, a disembodied voice shouts, "Teleported!" at the same moment the [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) in area 23 animates. This golem begins stalking through nearby tunnels, attacking all other creatures it sees. If it finds nothing to attack after prowling these tunnels for 10 minutes, it returns to its alcove and goes dormant.
 
 #### 22b. East Teleport Trap
 
-A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -571,7 +551,7 @@ A creature teleported by this trap arrives at a location determined by rolling a
 
 ### 23. Statue of Vergadain
 
-A 9-foot-tall [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem.md) carved in the likeness of Vergadain, the dwarven god of luck and wealth, stands in this alcove with shoulders squared and a smug look carved into its face. Dwarves immediately recognize Vergadain's likeness, while other characters can determine its identity with a successful DC 15 Intelligence (Religion) check. Its eyes are glittering black sapphires that can't be pried loose until the golem is destroyed (see "Treasure" below).
+A 9-foot-tall [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) carved in the likeness of Vergadain, the dwarven god of luck and wealth, stands in this alcove with shoulders squared and a smug look carved into its face. Dwarves immediately recognize Vergadain's likeness, while other characters can determine its identity with a successful DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check. Its eyes are glittering black sapphires that can't be pried loose until the golem is destroyed (see "Treasure" below).
 
 The golem remains motionless until it is attacked or activated by the trap in area 22a. It has the following additional trait:
 
@@ -600,13 +580,11 @@ All rooms and corridors in this part of the dungeon have flat, 10-foot-high ceil
 > **Scuff Marks**. Scuff marks on the floor show evidence of stone furnishings long since removed.
 ^7d9
 
-Characters who hold bright light sources in this room or make a lot of noise alert the githzerai in area 24c, who remain where they are but can't be surprised.
+Characters who hold bright light sources in this room or make a lot of noise alert the githzerai in area 24c, who remain where they are but can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised).
 
 ##### Teleport Trap
 
-This trap fills a 10-foot-square section of the passage leading to area 24d. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+This trap fills a 10-foot-square section of the passage leading to area 24d. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -627,7 +605,7 @@ The door to this room is ajar. Characters who approach stealthily might overhear
 
 > [!note] 
 > 
-> **Githzerai**. Four [githzerai zerths](/3-Mechanics/CLI/bestiary/humanoid/githzerai-zerth.md) are having a hushed conversation in the middle of the room, speaking Gith. They stop talking and ready themselves for combat if they detect intruders.
+> **Githzerai**. Four [githzerai zerths](3-Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md) are having a hushed conversation in the middle of the room, speaking Gith. They stop talking and ready themselves for combat if they detect intruders.
 > 
 > **Arch**. A stone arch is embedded in the middle of the south wall. Carved into the arch's keystone is an image of a six-fingered gauntlet.
 ^7dd
@@ -648,7 +626,7 @@ The githzerai have correctly deduced that a six-fingered gauntlet is required to
 
 ##### Treasure
 
-Yrlakka carries a potion of resistance (fire) in a tiny crystal vial fastened to a cord around his right ankle, and he has a wand of magic detection hanging from his belt.
+Yrlakka carries a [potion of resistance (fire)](3-Mechanics/CLI/items/potion-of-fire-resistance-xdmg.md) in a tiny crystal vial fastened to a cord around his right ankle, and he has a [wand of magic detection](3-Mechanics/CLI/items/wand-of-magic-detection-xdmg.md) hanging from his belt.
 
 #### 24d. Fountain
 
@@ -676,13 +654,11 @@ If you haven't done so in a while, remind the players that their characters can'
 
 This 20-foot-high, domed chamber is dominated by a 12-foot-tall stone statue of Moradin, the great dwarven god of the forge. It stands in the middle of the room facing the only exit. The statue is veined with bright mithral, and with one hand it raises a stone hammer carved with faintly glowing runes. A steel plaque at the base of the statue reads in Dwarvish, "All that is made can be unmade."
 
-The statue can't be budged or damaged. A detect magic spell reveals powerful auras of abjuration and transmutation magic surrounding both it and the hammer, which cannot be separated from one another.
+The statue can't be budged or damaged. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals powerful auras of abjuration and transmutation magic surrounding both it and the hammer, which cannot be separated from one another.
 
 #### Teleport Trap
 
-This trap fills the 10-foot square directly in front of the statue. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+This trap fills the 10-foot square directly in front of the statue. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -693,11 +669,11 @@ This trap fills the 10-foot square directly in front of the statue. A creature t
 
 ##### Additional Effect: Moradin Smash
 
-When a creature is teleported to this location from another teleport trap, a disembodied voice shouts, "Teleported!" at the same moment the statue of Moradin animates and takes a swing at the creature with its hammer. The target must succeed on a DC 17 Dexterity saving throw or take `dice:6d10+7|noform|noparens|avg|text(40)` (`6d10 + 7`) force damage. Any creature reduced to 0 hit points by this damage is disintegrated, along with all items it is wearing and carrying except for artifacts. After swinging the hammer once, the statue reverts to its inanimate state until the trap is triggered again.
+When a creature is teleported to this location from another teleport trap, a disembodied voice shouts, "Teleported!" at the same moment the statue of Moradin animates and takes a swing at the creature with its hammer. The target must succeed on a DC 17 Dexterity saving throw or take 40 (`6d10 + 7`) force damage. Any creature reduced to 0 hit points by this damage is disintegrated, along with all items it is wearing and carrying except for artifacts. After swinging the hammer once, the statue reverts to its inanimate state until the trap is triggered again.
 
 ### 27. Mark of Death
 
-Halaster captured a dwarf vampire named [Zorak Lightdrinker](/3-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md) and magically bound him here.
+Halaster captured a dwarf vampire named [Zorak Lightdrinker](3-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md) and magically bound him here.
 
 > [!note] 
 > 
@@ -706,40 +682,38 @@ Halaster captured a dwarf vampire named [Zorak Lightdrinker](/3-Mechanics/CLI/be
 > **Sarcophagus**. At the bottom of the pit rests a 6-foot-long, 3-foot-wide alabaster sarcophagus draped in cobwebs. Its lid is carved to resemble a giant bat with folded wings. (The sarcophagus contains a vampire.) Floating above the vessel is a magic rune that glows as bright as a candle flame.
 ^7e8
 
-A character who understands Dwarvish recognizes the glowing, magical rune as a dwarven symbol of death (identical to the one inscribed on the door to area 14a). The first time a creature crosses from one side of the pit to the other, the rune disappears and imprints itself as a death mark on a visible portion of the creature's face or body. The mark disappears when its bearer dies or when the vampire is destroyed. Only a wish spell or a deity can remove a death mark otherwise.
+A character who understands Dwarvish recognizes the glowing, magical rune as a dwarven symbol of death (identical to the one inscribed on the door to area 14a). The first time a creature crosses from one side of the pit to the other, the rune disappears and imprints itself as a death mark on a visible portion of the creature's face or body. The mark disappears when its bearer dies or when the vampire is destroyed. Only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or a deity can remove a death mark otherwise.
 
-The sarcophagus at the bottom of the pit is a 2,000-pound chunk of hollowed-out alabaster. [Zorak Lightdrinker](/3-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md), a vampire in mist form, is trapped inside. When the death mark is imprinted on a creature, the sarcophagus crumbles to dust and Zorak is released. The sarcophagus is otherwise indestructible.
+The sarcophagus at the bottom of the pit is a 2,000-pound chunk of hollowed-out alabaster. [Zorak Lightdrinker](3-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md), a vampire in mist form, is trapped inside. When the death mark is imprinted on a creature, the sarcophagus crumbles to dust and Zorak is released. The sarcophagus is otherwise indestructible.
 
-A geas spell cast by Halaster compels Zorak to hunt down and destroy the creature bearing the death mark, singling out that target above all others. Zorak knows the exact location of the marked creature while the two of them are on the same plane of existence. Slaying the bearer of the death mark frees Zorak from Halaster's geas spell, whereupon the vampire seeks to return to his true lair in the Underdark.
+A [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell cast by Halaster compels Zorak to hunt down and destroy the creature bearing the death mark, singling out that target above all others. Zorak knows the exact location of the marked creature while the two of them are on the same plane of existence. Slaying the bearer of the death mark frees Zorak from Halaster's [geas](3-Mechanics/CLI/spells/geas-xphb.md) spell, whereupon the vampire seeks to return to his true lair in the Underdark.
 
-If a successful dispel magic spell is cast on the rune (DC 19) before it imprints on a creature, the rune disappears for 1 minute, allowing creatures to cross the pit in the meantime without the rune imprinting on any of them.
+If a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell is cast on the rune (DC 19) before it imprints on a creature, the rune disappears for 1 minute, allowing creatures to cross the pit in the meantime without the rune imprinting on any of them.
 
 #### Dwarf Vampire
 
-[Zorak Lightdrinker](/3-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md) is a shield dwarf [vampire](/3-Mechanics/CLI/bestiary/undead/vampire.md), with a challenge rating of 14 (11,500 XP) and these additional changes:
+[Zorak Lightdrinker](3-Mechanics/CLI/bestiary/npc/zorak-lightdrinker-wdmm.md) is a shield dwarf [vampire](3-Mechanics/CLI/bestiary/undead/vampire-xmm.md), with a challenge rating of 14 (11,500 XP) and these additional changes:
 
 - Zorak has these racial traits: He speaks Common and Dwarvish. He has resistance to poison damage and advantage on saving throws against poison.  
-- He wears plate armor (AC 18), wields a dwarven thrower, and gains the action options described below.  
+- He wears plate armor (AC 18), wields a [dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower-xdmg.md), and gains the action options described below.  
 
 ##### Multiattack
 
-Zorak makes two attacks with his dwarven thrower, only one of which can be a ranged attack.
+Zorak makes two attacks with his [dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower-xdmg.md), only one of which can be a ranged attack.
 
 ##### Dwarven Thrower
 
-*Melee or Ranged Weapon Attack*: +12 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit*: `dice:1d8+7|noform|noparens|avg|text(11)` (`1d8 + 7`) bludgeoning damage, or `dice:1d10+7|noform|noparens|avg|text(12)` (`1d10 + 7`) bludgeoning damage when used with two hands to make a melee attack. On a ranged attack that hits, the hammer deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) bludgeoning damage (`dice:2d8|noform|noparens|avg` (`2d8`) if the target is a giant). *Hit or Miss*: If thrown, the weapon flies back to Zorak's hand after the attack.
+*Melee or Ranged Weapon Attack*: `+12` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit*: 11 (`1d8 + 7`) bludgeoning damage, or 12 (`1d10 + 7`) bludgeoning damage when used with two hands to make a melee attack. On a ranged attack that hits, the hammer deals an extra `1d8` bludgeoning damage (`2d8` if the target is a giant). *Hit or Miss*: If thrown, the weapon flies back to Zorak's hand after the attack.
 
 ### 28. Statue of Tharmekhûl
 
-A 12-foot-tall stone statue with continual flame spells cast on its eyes stands facing the exit in the middle of this 20-foot-high, domed chamber. The statue represents Tharmekhûl, the dwarven god of fire and molten rock. It holds an obsidian greataxe above its head. A steel plaque at the base of the statue reads in Dwarvish, "Fire is the cure."
+A 12-foot-tall stone statue with [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on its eyes stands facing the exit in the middle of this 20-foot-high, domed chamber. The statue represents Tharmekhûl, the dwarven god of fire and molten rock. It holds an obsidian greataxe above its head. A steel plaque at the base of the statue reads in Dwarvish, "Fire is the cure."
 
-The statue can't be budged or damaged. A detect magic spell reveals powerful auras of abjuration and transmutation magic surrounding both the statue and the axe, which can't be separated from one another.
+The statue can't be budged or damaged. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals powerful auras of abjuration and transmutation magic surrounding both the statue and the axe, which can't be separated from one another.
 
 #### Teleport Trap
 
-This trap fills the 10-foot square directly in front of the statue. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+This trap fills the 10-foot square directly in front of the statue. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -750,7 +724,7 @@ This trap fills the 10-foot square directly in front of the statue. A creature t
 
 ##### Additional Effect: Shearing Flame
 
-When a creature is teleported to this location from another teleport trap, a disembodied voice shouts, "Teleported!" at the same moment the statue of Tharmekhûl animates and takes a swing at the creature. Flames spread across its obsidian axe as it slashes. The axe is considered a magic weapon in the statue's grasp. The target must succeed on a DC 15 Dexterity saving throw or take `dice:2d12+5|noform|noparens|avg|text(16)` (`2d12 + 5`) slashing damage plus `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) fire damage. After swinging the axe once, the statue reverts to its inanimate state until the trap is triggered again.
+When a creature is teleported to this location from another teleport trap, a disembodied voice shouts, "Teleported!" at the same moment the statue of Tharmekhûl animates and takes a swing at the creature. Flames spread across its obsidian axe as it slashes. The axe is considered a magic weapon in the statue's grasp. The target must succeed on a DC 15 Dexterity saving throw or take 16 (`2d12 + 5`) slashing damage plus 11 (`2d10`) fire damage. After swinging the axe once, the statue reverts to its inanimate state until the trap is triggered again.
 
 ### 29. Trapped Halls
 
@@ -758,23 +732,23 @@ an unusual pit and an unusual painting await adventurers in these tunnels.
 
 #### 29a. Pit of Brown Mold
 
-This hidden pit (see "Covered Pits") is 50 feet deep, but the floor of the pit is lined with a 10-foot-square patch of brown mold. A creature that falls the distance takes `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) bludgeoning damage plus damage from the brown mold (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Master's Guide").
+This hidden pit (see "Covered Pits") is 50 feet deep, but the floor of the pit is lined with a 10-foot-square patch of brown mold. A creature that falls the distance takes 17 (`5d6`) bludgeoning damage plus damage from the [brown mold](3-Mechanics/CLI/traps-hazards/brown-mold-xdmg.md) (see ""Dungeon Hazards"" in chapter 5 of the "Dungeon Master's Guide").
 
 #### 29b. Underbrew in Chains
 
 Affixed to the back wall of the western alcove is a stone-framed painting of a scarred male dwarf wearing black plate armor. He is bound by heavy iron chains and shackles anchored to the floor of a dreary dungeon cell. The painting is 3½ feet wide by 7 feet tall.
 
-Thanks to a permanent Nystul's magic aura spell cast on the painting, a detect magic spell does not reveal that the painting is magical. It is a magical prison that can hold one humanoid creature at a time. The first humanoid creature that approaches within 5 feet of the painting must succeed on a DC 22 Charisma saving throw or be magically pulled into it, switching places with the dwarf currently trapped inside (see below). A humanoid drawn into the painting finds itself chained in an extradimensional cell 10 feet on a side. While trapped in the cell, the creature is paralyzed. The painting has AC 11, 4 hit points, and immunity to poison and psychic damage. Destroying it frees the trapped creature, which appears in the closest unoccupied space adjacent to the painting.
+Thanks to a permanent [Nystul's magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md) spell cast on the painting, a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell does not reveal that the painting is magical. It is a magical prison that can hold one humanoid creature at a time. The first humanoid creature that approaches within 5 feet of the painting must succeed on a DC 22 Charisma saving throw or be magically pulled into it, switching places with the dwarf currently trapped inside (see below). A humanoid drawn into the painting finds itself chained in an extradimensional cell 10 feet on a side. While trapped in the cell, the creature is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed). The painting has AC 11, 4 hit points, and immunity to poison and psychic damage. Destroying it frees the trapped creature, which appears in the closest unoccupied space adjacent to the painting.
 
 ##### Thwad Underbrew
 
-The dwarf in the painting is a beard-stroking villain named [Thwad Underbrew](/3-Mechanics/CLI/bestiary/npc/thwad-underbrew-wdmm.md), a former champion of Gorm Gulthyn (the dwarven god of vigilance) who long ago set out to rid Undermountain of the evil that is [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). Halaster defeated Underbrew but offered to spare the dwarf's life if he vowed to serve the Mad Mage as an enforcer, ridding the dungeon of other invaders. Unwilling to face his own mortal end, Underbrew made this vow and convinced himself over time that the executions he performed were acts of mercy, because those he killed would never be forced to turn against their beliefs as he had. In time, these acts stopped weighing on Underbrew's conscience. In fact, the dwarf began to enjoy his grisly work.
+The dwarf in the painting is a beard-stroking villain named [Thwad Underbrew](3-Mechanics/CLI/bestiary/npc/thwad-underbrew-wdmm.md), a former champion of Gorm Gulthyn (the dwarven god of vigilance) who long ago set out to rid Undermountain of the evil that is [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). Halaster defeated Underbrew but offered to spare the dwarf's life if he vowed to serve the Mad Mage as an enforcer, ridding the dungeon of other invaders. Unwilling to face his own mortal end, Underbrew made this vow and convinced himself over time that the executions he performed were acts of mercy, because those he killed would never be forced to turn against their beliefs as he had. In time, these acts stopped weighing on Underbrew's conscience. In fact, the dwarf began to enjoy his grisly work.
 
-[Thwad Underbrew](/3-Mechanics/CLI/bestiary/npc/thwad-underbrew-wdmm.md) is a shield dwarf [champion](/3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md) (see appendix A), with these changes:
+[Thwad Underbrew](3-Mechanics/CLI/bestiary/npc/thwad-underbrew-wdmm.md) is a shield dwarf [champion](3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md) (see appendix A), with these changes:
 
 - Underbrew is neutral evil.  
 - Instead of a greatsword, he wields a maul (which deals bludgeoning damage instead of slashing damage).  
-- He has these racial traits: He speaks Common and Dwarvish. He has darkvision out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against poison.  
+- He has these racial traits: He speaks Common and Dwarvish. He has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet, resistance to poison damage, and advantage on saving throws against poison.  
 
 ### 30. Halaster's Handiwork
 
@@ -788,24 +762,24 @@ The challenges that await adventurers in these areas can be directly attributed 
 > 
 > **Gong**. A 3-foot-diameter bronze gong hangs from a sturdy wooden frame anchored to the floor near the west wall. The gong is embossed with carvings of ears of corn. A padded wooden mallet dangles from a hook on one of the support posts.
 > 
-> **Monsters**. Sitting on the steps of the dais, scribbling madly in a journal with a quill pen, is a wretchedly pale man in a dusty black robe. He is watched over by two invisible [nycaloths](/3-Mechanics/CLI/bestiary/fiend/nycaloth.md).
+> **Monsters**. Sitting on the steps of the dais, scribbling madly in a journal with a quill pen, is a wretchedly pale man in a dusty black robe. He is watched over by two [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [nycaloths](3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md).
 ^7f5
 
-To flatter Netherskull, Halaster assigned a would-be apprentice to chronicle the death tyrant's history in a series of journals. This biographer is a skittish, ill-bred, and unkempt male human in his thirties named [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) Mereshanter. [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) is a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md), with these changes:
+To flatter Netherskull, Halaster assigned a would-be apprentice to chronicle the death tyrant's history in a series of journals. This biographer is a skittish, ill-bred, and unkempt male human in his thirties named [Kavil Mereshanter](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md). [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) is a [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md), with these changes:
 
-- [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) is neutral evil.  
+- [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) is neutral evil.  
 - He speaks Dwarvish, Common, Giant, and Undercommon.  
 
-[Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) was denied admittance to Dweomercore (level 9), and Halaster robbed him of his spellbook. The Mad Mage has promised to return the book once [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) completes his work. (In fact, Halaster has misplaced the spellbook, though [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) is unaware of this.)
+[Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) was denied admittance to Dweomercore (level 9), and Halaster robbed him of his spellbook. The Mad Mage has promised to return the book once [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) completes his work. (In fact, Halaster has misplaced the spellbook, though [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) is unaware of this.)
 
-As Netherskull's appointed biographer, [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) is expected to earn the death tyrant's trust, but Netherskull trusts no wizard, and has been reluctant to grant interviews. [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) has instead filled one journal after another with his own narrative concoctions and self-pitying asides. The biography is a mostly fictionalized, somewhat sensationalized version of Netherskull's life, death, and undeath. [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) knows that anyone who reads this drivel won't be fooled, but he's hoping the deluge of words will impress Halaster while simultaneously discouraging close examination of the work.
+As Netherskull's appointed biographer, [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) is expected to earn the death tyrant's trust, but Netherskull trusts no wizard, and has been reluctant to grant interviews. [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) has instead filled one journal after another with his own narrative concoctions and self-pitying asides. The biography is a mostly fictionalized, somewhat sensationalized version of Netherskull's life, death, and undeath. [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) knows that anyone who reads this drivel won't be fooled, but he's hoping the deluge of words will impress Halaster while simultaneously discouraging close examination of the work.
 
-[Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) won't start a fight, but he sides with the nycaloths if a battle erupts, which is likely since the fiends have orders to slay intruders. If reduced to 33 hit points or fewer, [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) switches sides and offers information in exchange for his life. He knows one random Undermountain secret, determined by drawing a card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C), as well as a secret way into Netherskull's lair (see area 39b). [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md) isn't aware of the secret door that leads to area 30b.
+[Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) won't start a fight, but he sides with the nycaloths if a battle erupts, which is likely since the fiends have orders to slay intruders. If reduced to 33 hit points or fewer, [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) switches sides and offers information in exchange for his life. He knows one random Undermountain secret, determined by drawing a card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C), as well as a secret way into Netherskull's lair (see area 39b). [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md) isn't aware of the secret door that leads to area 30b.
 
-Characters who spend at least 10 minutes poring over [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md)'s journal can piece together bits of Netherskull's history and, with a successful DC 10 Wisdom (Insight) check, separate out [Kavil](/3-Mechanics/CLI/bestiary/npc/kavil-wdmm.md)'s gibberish to learn the following truths:
+Characters who spend at least 10 minutes poring over [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md)'s journal can piece together bits of Netherskull's history and, with a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check, separate out [Kavil](3-Mechanics/CLI/bestiary/npc/kavil-mereshanter-wdmm.md)'s gibberish to learn the following truths:
 
 - The beholder's true name is unknown. It changed its name to Netherskull after becoming a death tyrant.  
-- Netherskull has slain countless interlopers, none more deserving of death than a pompous human paladin named [Fidelio](/3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md), who wept bitter tears before his disintegration.  
+- Netherskull has slain countless interlopers, none more deserving of death than a pompous human paladin named [Fidelio](3-Mechanics/CLI/bestiary/npc/fidelio-wdmm.md), who wept bitter tears before his disintegration.  
 - Netherskull's primary goals are to destroy Halaster and take over Undermountain.  
 
 ##### Arch Gate to Level 18
@@ -818,23 +792,23 @@ The arch in the north wall is one of Halaster's magic gates (see "Gates"). The a
 
 ##### Gong
 
-A detect magic spell reveals an aura of conjuration magic around the gong. If the gong is struck with the mallet, three items appear on the floor before it: a small clay bowl filled with bland, edible food (hunks of bread and cheese, strips of meat, and dried nuts); an empty tin cup; and a glass carafe containing 1 gallon of water. The items disappear after 1 hour. Removing any of these items from the room also causes them to vanish. Once it is used to summon food and water, the gong can't do so again until the next dawn. If the gong is taken from this room, it loses its magical property.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around the gong. If the gong is struck with the mallet, three items appear on the floor before it: a small clay bowl filled with bland, edible food (hunks of bread and cheese, strips of meat, and dried nuts); an empty tin cup; and a glass carafe containing 1 gallon of water. The items disappear after 1 hour. Removing any of these items from the room also causes them to vanish. Once it is used to summon food and water, the gong can't do so again until the next dawn. If the gong is taken from this room, it loses its magical property.
 
 #### 30b. Play-by-Play Generator
 
 This dusty room has a 10-foot-high ceiling. A 3-foot cube composed of equal parts adamantine and flesh sits atop a 3-foot-tall hexagonal plinth of carved stone. The surface of the cube facing the secret door bears Halaster's fleshy, grimacing visage.
 
-Disturbing the cube causes it to sprout spindly arms, legs, and wings. It then fights until destroyed. It has the statistics of a [quadrone](/3-Mechanics/CLI/bestiary/construct/quadrone.md), with these changes:
+Disturbing the cube causes it to sprout spindly arms, legs, and wings. It then fights until destroyed. It has the statistics of a [quadrone](3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md), with these changes:
 
 - The cube is chaotic evil.  
 - It speaks Common and is the source of Halaster's play-by-play (see "Halaster's Play-by-Play").  
-- Whenever it would normally make a shortbow attack, it instead hurls a magic dart at a target it can see up to 60 feet away from it. Each dart hits its target automatically (no attack roll required) for `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) force damage.  
+- Whenever it would normally make a shortbow attack, it instead hurls a magic dart at a target it can see up to 60 feet away from it. Each dart hits its target automatically (no attack roll required) for 5 (`2d4`) force damage.  
 
 As the cube attacks, it continues its play-by-play routine, commentating its battle with the adventurers. Destroying the cube ends the play-by-play throughout the Obstacle Course.
 
 ##### Hidden Key
 
-A secret compartment is hidden atop the hexagonal plinth. Finding it requires a successful DC 15 Wisdom (Perception) check. It contains a 6-inch-long key carved from a dragon's finger bone, shaped like an H. This key, which is identical to the one in area 19, unlocks the doors to area 39c.
+A secret compartment is hidden atop the hexagonal plinth. Finding it requires a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. It contains a 6-inch-long key carved from a dragon's finger bone, shaped like an H. This key, which is identical to the one in area 19, unlocks the doors to area 39c.
 
 ### 31. Hall of Embers
 
@@ -849,43 +823,39 @@ A secret compartment is hidden atop the hexagonal plinth. Finding it requires a 
 
 #### Brazier
 
-The eight embers swirling above the brazier radiate auras of conjuration and transmutation magic under the scrutiny of a detect magic spell or similar magic.
+The eight embers swirling above the brazier radiate auras of conjuration and transmutation magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic.
 
-The embers easily slip through the grasp of mage hand spells and other magical effects, but a creature within reach of the brazier can use an action to try to catch an ember, doing so with a successful DC 20 Dexterity check. Catching an ember causes it to vanish and triggers a random magical effect, determined by rolling a `dice:d6|noform|noparens|avg` (`d6`) and consulting the Magic Embers table. Any creature that gains a benefit also gains awareness of that benefit. Embers that are caught do not reappear.
+The embers easily slip through the grasp of [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spells and other magical effects, but a creature within reach of the brazier can use an action to try to catch an ember, doing so with a successful DC 20 Dexterity check. Catching an ember causes it to vanish and triggers a random magical effect, determined by rolling a `d6` and consulting the Magic Embers table. Any creature that gains a benefit also gains awareness of that benefit. Embers that are caught do not reappear.
 
 **Magic Embers**
-
-`dice: [](16-level-15-obstacle-course.md#^magic-embers)`
 
 | dice: d6 | Magical Effect |
 |----------|----------------|
 | 1 | The creature that caught the ember gains immunity to fire damage for the next 24 hours. |
-| 2 | The ember becomes a single bead from a *necklace of fireballs*. |
+| 2 | The ember becomes a single bead from a *necklace of [fireballs](3-Mechanics/CLI/spells/fireball-xphb.md)*. |
 | 3 | The creature that caught the ember gains the ability to speak and understand Ignan for the next 24 hours (useful for communicating with the mephits and lava children on this level). |
-| 4 | The ember becomes an elemental gem (fire). |
+| 4 | The ember becomes an [elemental gem](3-Mechanics/CLI/items/elemental-gem-xdmg.md) (fire). |
 | 5 | The ember becomes a diamond worth 5,000 gp. |
 | 6 | The ember becomes a tiny iron key that unlocks the jaws of the giant toad statue. |
 ^magic-embers
 
 #### Giant Toad Statue
 
-The giant toad statue merges seamlessly with the floor and can't be moved. A character who inspects the statue and succeeds on a DC 15 Wisdom (Perception) check notices two things: the statue's jaws are hinged but locked shut, and a tiny keyhole is positioned just above its bulbous eyes. Inserting the proper key into the keyhole causes the statue's hinged mouth to open, as does a knock spell or similar magic. The mouth can also be opened by a character using thieves' tools who succeeds on a DC 20 Dexterity check.
+The giant toad statue merges seamlessly with the floor and can't be moved. A character who inspects the statue and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices two things: the statue's jaws are hinged but locked shut, and a tiny keyhole is positioned just above its bulbous eyes. Inserting the proper key into the keyhole causes the statue's hinged mouth to open, as does a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. The mouth can also be opened by a character using thieves' tools who succeeds on a DC 20 Dexterity check.
 
 Opening the statue's mouth causes a 50-foot rope ladder to tumble out, extending all the way to the bottom of the pit. The ladder is securely attached to a stone bar lodged in the toad's throat, and characters can use it to safely climb in and out of the pit.
 
 #### Open Pit
 
-This 50-foot-deep pit has walls too smooth to climb without climbing gear or a special climbing trait such as Spider Climb. An antimagic field like that created by an antimagic field spell fills the uppermost 40 feet of the pit, leaving a 10-foot cube at the bottom unaffected.
+This 50-foot-deep pit has walls too smooth to climb without climbing gear or a special climbing trait such as Spider Climb. An antimagic field like that created by an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell fills the uppermost 40 feet of the pit, leaving a 10-foot cube at the bottom unaffected.
 
 ##### Treasure
 
-Any magic items teleported away by the [statue of Vergadain](/3-Mechanics/CLI/bestiary/construct/statue-of-vergadain-wdmm.md) in area 23 or by the teleport trap in this room lie unharmed at the bottom of the pit.
+Any magic items teleported away by the [statue of Vergadain](3-Mechanics/CLI/bestiary/construct/statue-of-vergadain-wdmm.md) in area 23 or by the teleport trap in this room lie unharmed at the bottom of the pit.
 
 #### Teleport Trap
 
-This trap fills the alcove. A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+This trap fills the alcove. A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -903,7 +873,7 @@ Scrawled in chalk on the west wall is the word "LOOT" in Dwarvish, with an arrow
 
 ### 33. Shots in the Dark
 
-This room is empty except for a pair of loaded wooden ballistae aimed squarely at the doors. When either door is opened, magic causes the ballista across from the door to discharge its wooden bolt, targeting the first creature in its path. Each ballista has a +6 bonus to hit and deals `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage on a hit.
+This room is empty except for a pair of loaded wooden ballistae aimed squarely at the doors. When either door is opened, magic causes the ballista across from the door to discharge its wooden bolt, targeting the first creature in its path. Each ballista has a +6 bonus to hit and deals 16 (`3d10`) piercing damage on a hit.
 
 The ballistae are securely bolted to the floor, and each comes equipped with one bolt.
 
@@ -924,17 +894,15 @@ This hall terminates abruptly at the edge of the lava-lit chasm. If the characte
 
 #### Scythe Trap
 
-If the dead dwarf is disturbed, the scythe blades shatter due to the built-up pressure from the gears hidden in the walls. Any creature within 5 feet of the broken trap must succeed on a DC 14 Dexterity saving throw or be struck by flying broken blades for `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) slashing damage. A character proficient with thieves' tools can use them to try to safely release the pressure and render the trap harmless, doing so with a successful DC 20 Dexterity check. If this check fails by 5 or more, the trap flies apart as described above.
+If the dead dwarf is disturbed, the scythe blades shatter due to the built-up pressure from the gears hidden in the walls. Any creature within 5 feet of the broken trap must succeed on a DC 14 Dexterity saving throw or be struck by flying broken blades for 9 (`2d8`) slashing damage. A character proficient with thieves' tools can use them to try to safely release the pressure and render the trap harmless, doing so with a successful DC 20 Dexterity check. If this check fails by 5 or more, the trap flies apart as described above.
 
 ##### Treasure
 
-The dead dwarf was an adventuring rogue named Xelba Shunlight. She clutches a shortsword and wears torn and bloody studded leather armor, as well as a dungeoneer's pack (with no rations), a mess kit, a miner's pick, and a random trinket (roll on the Trinkets table in chapter 5 of the "Player's Handbook"). Tied to her waist is a hide pouch that contains a figurine of wondrous power (onyx dog).
+The dead dwarf was an adventuring rogue named Xelba Shunlight. She clutches a shortsword and wears torn and bloody studded leather armor, as well as a dungeoneer's pack (with no rations), a mess kit, a miner's pick, and a random trinket (roll on the [Trinkets](3-Mechanics/CLI/items/trinket-xphb.md) table in chapter 5 of the "Player's Handbook"). Tied to her waist is a hide pouch that contains a [figurine of wondrous power](3-Mechanics/CLI/items/figurine-of-wondrous-power-xdmg.md) (onyx dog).
 
 #### Teleport Trap
 
-A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -949,9 +917,7 @@ These dwarven vaults were looted long ago. The heavy iron vault doors have all b
 
 #### 36a. Teleport Trap
 
-A creature teleported by this trap arrives at a location determined by rolling a `dice:d20|noform|noparens|avg` (`d20`) and consulting the following table:
-
-`dice: [](16-level-15-obstacle-course.md#^teleport-destination)`
+A creature teleported by this trap arrives at a location determined by rolling a `d20` and consulting the following table:
 
 | dice: d20 | Teleport Destination |
 |-----------|----------------------|
@@ -986,13 +952,13 @@ The lava children in area 40b like to climb up to this room and leap off the edg
 
 This cavern has a jagged, 20-foot-high ceiling. The floor is smooth and level except for a sloping tunnel that descends to level 16.
 
-In the middle of the cave stands a life-size statue of Halaster with lidless eyes carved into its flowing robe. The statue is a Medium object with AC 17, 45 hit points, and immunity to poison and psychic damage. A character can topple the statue with a successful DC 15 Strength (Athletics) check.
+In the middle of the cave stands a life-size statue of Halaster with lidless eyes carved into its flowing robe. The statue is a Medium object with AC 17, 45 hit points, and immunity to poison and psychic damage. A character can topple the statue with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ### 38. Zombie Horde
 
 > [!note] 
 > 
-> **Zombies**. The stench of death fills this 20-foot-high cavern, which contains forty [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md) in various states of decay. They shamble about aimlessly.
+> **Zombies**. The stench of death fills this 20-foot-high cavern, which contains forty [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) in various states of decay. They shamble about aimlessly.
 > 
 > **Sinkhole**. A 70-foot-deep sinkhole has formed near the east wall.
 ^812
@@ -1001,9 +967,9 @@ The zombies are the remains of humanoids killed by Netherskull and animated by i
 
 ### 39. Netherskull's Sanctum
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/050-15-04.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/050-15-04.webp#center)
 
-Adventurers who explore this area are doomed to face Netherskull the death tyrant if they haven't done so already. Netherskull can't be surprised in its lair.
+Adventurers who explore this area are doomed to face Netherskull the death tyrant if they haven't done so already. Netherskull can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) in its lair.
 
 #### 39a. Hanging Beholder Statue
 
@@ -1015,13 +981,13 @@ This dusty passage circumvents the adamantine doors to Netherskull's lair (see a
 
 #### 39c. Death Tyrant
 
-All doors leading to this area are 1-foot-thick, 7-foot-diameter adamantine disks molded to look like concentric rings of bones with a leering human skull at the center. The skull's nose cavity contains an adamantine keyhole. When one of Halaster's bone keys (see areas 19 and 30b) is inserted into the lock and turned 90 degrees clockwise, four bolt locks slide back from the surrounding walls, and the door swings inward on adamantine hinges. The door remains open until it is closed, and the key can be removed at any time. Without the proper key, it takes four separate knock spells to open one of these doors, each spell causing one bolt to slide back. The doors are otherwise impregnable.
+All doors leading to this area are 1-foot-thick, 7-foot-diameter adamantine disks molded to look like concentric rings of bones with a leering human skull at the center. The skull's nose cavity contains an adamantine keyhole. When one of Halaster's bone keys (see areas 19 and 30b) is inserted into the lock and turned 90 degrees clockwise, four bolt locks slide back from the surrounding walls, and the door swings inward on adamantine hinges. The door remains open until it is closed, and the key can be removed at any time. Without the proper key, it takes four separate [knock](3-Mechanics/CLI/spells/knock-xphb.md) spells to open one of these doors, each spell causing one bolt to slide back. The doors are otherwise impregnable.
 
 There is no keyhole on the inside of the doors. Instead, each door has an adamantine wheel in the middle of it that must be turned counterclockwise to slide back the bolts. This wheel can also be used as a handle to pull the heavy door open. When Netherskull wants to leave the room through a door, it uses its Telekinetic Ray to turn the wheel and leaves the door open until it returns.
 
 ##### Netherskull
 
-Unless it has been defeated elsewhere, the [death tyrant](/3-Mechanics/CLI/bestiary/undead/death-tyrant.md) floats 30 feet above the stone-tiled floor of this 40-foot-high chamber. Netherskull seeks to destroy intruders and animate their corpses, turning them into zombie thralls. It calls forth the zombies in area 38 (assuming they haven't been defeated) and commands them to attack all intruders.
+Unless it has been defeated elsewhere, the [death tyrant](3-Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md) floats 30 feet above the stone-tiled floor of this 40-foot-high chamber. Netherskull seeks to destroy intruders and animate their corpses, turning them into zombie thralls. It calls forth the zombies in area 38 (assuming they haven't been defeated) and commands them to attack all intruders.
 
 If the characters haven't silenced the level's play-by-play announcer (see "Halaster's Play-by-Play"), it becomes increasingly excited as the battle with the death tyrant unfolds. If they defeat Netherskull, the announcer screams, "How could this happen?! This is unbelievable! This might be the greatest upset in the history of Undermountain!" It then falls silent for the rest of the time the characters spend on this level.
 
@@ -1029,19 +995,19 @@ If the characters haven't silenced the level's play-by-play announcer (see "Hala
 
 The death tyrant carved out this immense chasm using its Disintegration Ray, and Halaster added his own touches by flooding it with lava and confounding magical flight within the chasm.
 
-Spells and magic items that allow creatures to fly are suppressed within the chasm. Any character who enters the chasm under the effect of a fly spell or similar magic goes hurtling down into the lava. Spells that slow one's fall (such as feather fall) function normally.
+Spells and magic items that allow creatures to fly are suppressed within the chasm. Any character who enters the chasm under the effect of a [fly](3-Mechanics/CLI/spells/fly-xphb.md) spell or similar magic goes hurtling down into the lava. Spells that slow one's fall (such as [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md)) function normally.
 
-Creatures who spend 1 hour or longer in the chasm or in any of the areas open to it are susceptible to the effects of extreme heat (as described in "chapter 5" of the "Dungeon Master's Guide"). The chasm is brightly lit by the lava, which fills the bottom of the chasm to a depth of 20 feet. A creature that enters the lava for the first time on a turn or starts its turn there takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) fire damage.
+Creatures who spend 1 hour or longer in the chasm or in any of the areas open to it are susceptible to the effects of extreme heat (as described in "chapter 5" of the "Dungeon Master's Guide"). The chasm is brightly lit by the lava, which fills the bottom of the chasm to a depth of 20 feet. A creature that enters the lava for the first time on a turn or starts its turn there takes 55 (`10d10`) fire damage.
 
-The surface of the lava is 30 feet below the floor level of the Obstacle Course. The walls in between are sloped and have abundant handholds and footholds. Climbing them requires a successful DC 10 Strength (Athletics) check; on a check that fails by 5 or more, the creature slips and falls into the lava.
+The surface of the lava is 30 feet below the floor level of the Obstacle Course. The walls in between are sloped and have abundant handholds and footholds. Climbing them requires a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check; on a check that fails by 5 or more, the creature slips and falls into the lava.
 
 #### 40a. Magma Mephits
 
-Four [magma mephits](/3-Mechanics/CLI/bestiary/elemental/magma-mephit.md) lounge in this small lava pool. If the characters parley with the mephits in a language they understand, the mephits try to lure the characters toward area 39c, hoping they'll either kill Netherskull or die in the attempt. The mephits detest the death tyrant and care only about their own well-being.
+Four [magma mephits](3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md) lounge in this small lava pool. If the characters parley with the mephits in a language they understand, the mephits try to lure the characters toward area 39c, hoping they'll either kill Netherskull or die in the attempt. The mephits detest the death tyrant and care only about their own well-being.
 
 #### 40b. Lava Children's Pool
 
-Eight [lava children](/3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) swim and play in this lava pool. They also climb up to area 36d and do cannonballs into the lava from the top of the 30-foot-high ledge.
+Eight [lava children](3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) swim and play in this lava pool. They also climb up to area 36d and do cannonballs into the lava from the top of the 30-foot-high ledge.
 
 #### 40c. Teleport Trap Destination
 
@@ -1051,7 +1017,7 @@ Unlike other teleport traps in the Obstacle Course, this trap doesn't teleport c
 
 #### 40d. Magma Mephits' Pool
 
-Six [lava children](/3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) and seven [magma mephits](/3-Mechanics/CLI/bestiary/elemental/magma-mephit.md) frolic in this lava pool and watch for intruders in areas 18 and 21. If intruders are detected, the mephits incite the lava children into climbing up the walls to attack the new arrivals, while the mephits use their breath weapons and keep their distance.
+Six [lava children](3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md) (see appendix A) and seven [magma mephits](3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md) frolic in this lava pool and watch for intruders in areas 18 and 21. If intruders are detected, the mephits incite the lava children into climbing up the walls to attack the new arrivals, while the mephits use their breath weapons and keep their distance.
 
 ## Aftermath
 

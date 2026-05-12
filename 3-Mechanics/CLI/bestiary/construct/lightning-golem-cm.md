@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lightning Golem
+- "Lightning Golem"
 ---
-# [Lightning Golem](3-Mechanics\CLI\bestiary\construct/lightning-golem-cm.md)
+# [Lightning Golem](3-Mechanics/CLI/bestiary/construct/lightning-golem-cm.md)
 *Source: Candlekeep Mysteries p. 129*  
 
 Lightning golems resemble humans made of crackling lightning. Powerful enchantments protect it, deflecting spells and all but the most potent weapons.
@@ -71,6 +71,6 @@ Lightning golems resemble humans made of crackling lightning. Powerful enchantme
     "name": "Slam"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/lightning-golem-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/lightning-golem-cm.webp"
 ```
 ^statblock

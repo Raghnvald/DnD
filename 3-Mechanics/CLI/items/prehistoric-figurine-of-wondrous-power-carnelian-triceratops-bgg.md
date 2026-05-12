@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Prehistoric Figurine of Wondrous Power, Carnelian Triceratops"
 ---
 # Prehistoric Figurine of Wondrous Power, Carnelian Triceratops
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
+![](3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
 
 
 Larger and more roughly hewn than typical figurines of wondrous power, these statuettes depict dinosaurs and related creatures from the earliest days of the world.
@@ -23,6 +23,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Carnelian Triceratops
 
-This figurine becomes a [triceratops](/3-Mechanics/CLI/bestiary/beast/triceratops-xmm.md) for up to 6 hours and can be ridden as a mount. Once it has been used, it can't be used again until 10 days have passed.
+This figurine becomes a triceratops for up to 6 hours and can be ridden as a mount. Once it has been used, it can't be used again until 10 days have passed.
 
 *Source: Bigby Presents: Glory of the Giants p. 114*

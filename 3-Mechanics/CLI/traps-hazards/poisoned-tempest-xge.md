@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/cmpx
 aliases:
-- Poisoned Tempest
+- "Poisoned Tempest"
 ---
 # Poisoned Tempest
 *Generic Hazard*  

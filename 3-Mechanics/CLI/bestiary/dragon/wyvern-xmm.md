@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wyvern
+- "Wyvern"
 ---
-# [Wyvern](3-Mechanics\CLI\bestiary\dragon/wyvern-xmm.md)
+# [Wyvern](3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md)
 *Source: Monster Manual (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Wyvern
@@ -48,24 +48,25 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
   - !!int "6"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": ""
 "cr": "6"
 "actions":
   - "desc": "The wyvern makes one Bite attack and one Sting attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
+      \ damage."
     "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage\
-      \ plus 24 (7d6) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage plus 24 (7d6) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition until the start of the wyvern's next turn."
     "name": "Sting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/wyvern-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/wyvern-xmm.webp"
 ```
 ^statblock
 

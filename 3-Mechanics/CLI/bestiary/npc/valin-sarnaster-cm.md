@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/16
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/16
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valin Sarnaster
+- "Valin Sarnaster"
 ---
-# [Valin Sarnaster](3-Mechanics\CLI\bestiary\npc/valin-sarnaster-cm.md)
+# [Valin Sarnaster](3-Mechanics/CLI/bestiary/npc/valin-sarnaster-cm.md)
 *Source: Candlekeep Mysteries p. 182*  
 
 Valin Sarnaster has been thoroughly corrupted by visions of a future in which she sees herself as the immortal heir of Savras's realm.*The Canopic Being*came into her possession years ago, and an obsession with the dark rituals therein set the oracle on her present course.
@@ -84,9 +84,9 @@ Valin can use her lair actions in any area of the tomb.
       \ (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target\
       \ is a creature, it must succeed on a DC 16 Constitution saving throw or be\
       \ cursed with mummy rot. The cursed target can't regain hit points, and its\
-      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
-      \ the curse reduces the target's hit point maximum to 0, the target dies, and\
-      \ its body turns to dust. The curse lasts until removed by the remove curse\
+      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse.\
+      \ If the curse reduces the target's hit point maximum to 0, the target dies,\
+      \ and its body turns to dust. The curse lasts until removed by the remove curse\
       \ spell or other magic."
     "name": "Rotting Fist"
   - "desc": "Valin targets one creature she can see within 60 feet of her. If the\
@@ -148,6 +148,6 @@ Valin can use her lair actions in any area of the tomb.
     "name": "Whirlwind of Sand (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/valin-sarnaster-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/valin-sarnaster-cm.webp"
 ```
 ^statblock

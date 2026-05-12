@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/toa
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Chapter 5: Tomb of the Nine Gods
+- "Chapter 5: Tomb of the Nine Gods"
 ---
 # Chapter 5: Tomb of the Nine Gods
 *Source: Tomb of Annihilation, p. 125* 
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/064-501.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/064-501.webp#center)
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) built the Tomb of the Nine Gods not only to house the remains of Omu's trickster gods, but also to slay interlopers. However, few today even know the tomb exists, and thus it remains an enigma. Rare are the tavern tales that lure adventurers to its gates, and its horrors remain undocumented in the libraries of Candlekeep. The reason for this is simple: not one person who has entered the tomb has lived to tell the tale.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) built the Tomb of the Nine Gods not only to house the remains of Omu's trickster gods, but also to slay interlopers. However, few today even know the tomb exists, and thus it remains an enigma. Rare are the tavern tales that lure adventurers to its gates, and its horrors remain undocumented in the libraries of Candlekeep. The reason for this is simple: not one person who has entered the tomb has lived to tell the tale.
 
 ## History of the Tomb
 
@@ -20,15 +20,15 @@ As the characters plumb the depths of the Tomb of the Nine Gods, they'll learn s
 
 ### Rise of the Tomb
 
-After [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) murdered Omu's gods, he enslaved the Omuans and forced them to carve a grand tomb under one of the cliffs surrounding the city. The archlich devised brutal trials for each burial chamber, and sprinkled riddles and illusions throughout to deceive intruders. When the building work was done, he fed his slaves into the death trap to test its efficacy. The archlich turned some of his victims into undead and flesh golems, then locked them inside the tomb to serve as guardians. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) then resumed his wanderings.
+After [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) murdered Omu's gods, he enslaved the Omuans and forced them to carve a grand tomb under one of the cliffs surrounding the city. The archlich devised brutal trials for each burial chamber, and sprinkled riddles and illusions throughout to deceive intruders. When the building work was done, he fed his slaves into the death trap to test its efficacy. The archlich turned some of his victims into undead and flesh golems, then locked them inside the tomb to serve as guardians. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) then resumed his wanderings.
 
-In [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s absence, the tomb snared adventurers from faraway lands and harvested their souls to feed the archlich's phylactery, which remained hidden on another plane. Every few decades, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) returned to tinker with his dungeon's traps, add treasure to its vaults, and reap a bounty of hoarded souls. His planar wanderings have influenced the tomb's mishmash of architectural styles, and have populated it with strange and deadly monsters.
+In [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s absence, the tomb snared adventurers from faraway lands and harvested their souls to feed the archlich's phylactery, which remained hidden on another plane. Every few decades, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) returned to tinker with his dungeon's traps, add treasure to its vaults, and reap a bounty of hoarded souls. His planar wanderings have influenced the tomb's mishmash of architectural styles, and have populated it with strange and deadly monsters.
 
 ### Nourishing the Atropal
 
-On one of his journeys through the cosmos, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) stumbled upon an atropal (see appendix D). He brought it to Toril, ensconced it in the cradle of his tomb, and began feeding it necromantic energy, hoping to transform it into a deity: one able to claim dominion over death. Unleashed on Toril, the newborn death god would glut itself on life until none but the dead walked the world.
+On one of his journeys through the cosmos, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) stumbled upon an atropal (see appendix D). He brought it to Toril, ensconced it in the cradle of his tomb, and began feeding it necromantic energy, hoping to transform it into a deity: one able to claim dominion over death. Unleashed on Toril, the newborn death god would glut itself on life until none but the dead walked the world.
 
-To nurture the atropal, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) needed an untold number of souls. The archlich made a bargain with the Sewn Sisters, a coven of night hags feared throughout the Lower Planes. Seduced by the prospect of a near-endless supply of souls, the hags joined [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) in his tomb. With their assistance, the archlich crafted the Soulmonger—a necromantic device that could reap the souls of the dying from across Toril and feed them to the atropal. Leaving the Sewn Sisters behind as nursemaids, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) abandoned his tomb to watch the rise of the death god from afar.
+To nurture the atropal, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) needed an untold number of souls. The archlich made a bargain with the Sewn Sisters, a coven of night hags feared throughout the Lower Planes. Seduced by the prospect of a near-endless supply of souls, the hags joined [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) in his tomb. With their assistance, the archlich crafted the Soulmonger—a necromantic device that could reap the souls of the dying from across Toril and feed them to the atropal. Leaving the Sewn Sisters behind as nursemaids, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) abandoned his tomb to watch the rise of the death god from afar.
 
 ## Exploring the Tomb
 
@@ -54,7 +54,7 @@ All areas of the tomb are unlit unless noted otherwise.
 
 Most secret doors within the tomb slide open on stone runners. The handles that unlock them are hidden within the features of relief carvings along the walls, including inside the jaws of many graven skulls.
 
-A secret door can be spotted by any character within 5 feet of it who has a passive Wisdom (Perception) score of 20 or higher, or with a search and a successful DC 20 Wisdom (Perception) check.
+A secret door can be spotted by any character within 5 feet of it who has a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 20 or higher, or with a search and a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 #### Staircases
 
@@ -62,7 +62,7 @@ Stairs in the tomb are carved out of the living rock, and each step is topped wi
 
 #### Tracks
 
-Explorers have broken into the tomb recently, and [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his tomb dwarves make frequent patrols. Their trails crisscross back and forth, making other creatures in the tomb difficult to track. The freshest tracks belong to the [skeleton keys](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) (see "Tomb Inhabitants" below). Any character who tries to follow a [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)'s trail can do so with a successful DC 12 Wisdom (Survival) check, finding the way to the nearest unexplored location marked with a skull symbol on the dungeon map.
+Explorers have broken into the tomb recently, and [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his tomb dwarves make frequent patrols. Their trails crisscross back and forth, making other creatures in the tomb difficult to track. The freshest tracks belong to the [skeleton keys](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) (see "Tomb Inhabitants" below). Any character who tries to follow a [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)'s trail can do so with a successful DC 12 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check, finding the way to the nearest unexplored location marked with a skull symbol on the dungeon map.
 
 ### Tomb Inhabitants
 
@@ -70,37 +70,37 @@ A grim pageant of monstrous residents lurks in the tomb, waiting to greet visito
 
 #### Withers and the Tomb Dwarves
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md), [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s undead custodian, oversees the undead maintenance crew that keeps the tomb's traps in working order. To assemble that team, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) abducted dwarf miners and transformed them into wights to exploit their expertise at underground construction. [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) acts as supervisor for the dwarves and serves as [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s adjunct when the archlich visits the tomb. Using his scrying pool at area 25, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) can command Omu's gargoyles and speak to agents on the surface world.
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md), [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s undead custodian, oversees the undead maintenance crew that keeps the tomb's traps in working order. To assemble that team, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) abducted dwarf miners and transformed them into wights to exploit their expertise at underground construction. [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) acts as supervisor for the dwarves and serves as [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s adjunct when the archlich visits the tomb. Using his scrying pool at area 25, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) can command Omu's gargoyles and speak to agents on the surface world.
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his crew use the staircase at area 26 to roam unseen through the tomb's many levels. When their work is done, they retreat to their secret headquarters on level 2 of the tomb (areas 27 and 28). [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) avoids contact with the characters when possible, confident that [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s traps will defeat them.
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his crew use the staircase at area 26 to roam unseen through the tomb's many levels. When their work is done, they retreat to their secret headquarters on level 2 of the tomb (areas 27 and 28). [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) avoids contact with the characters when possible, confident that [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s traps will defeat them.
 
 #### Legendary Monsters
 
-Two legendary monsters dwell in [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s tomb: a beholder guarding a treasure vault (area 44) and an aboleth lurking in an underground lake (area 65). These creatures can't use lair actions within the tomb, and the regional effects of each creature's lair are localized to the levels where they dwell.
+Two legendary monsters dwell in [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s tomb: a beholder guarding a treasure vault (area 44) and an aboleth lurking in an underground lake (area 65). These creatures can't use lair actions within the tomb, and the regional effects of each creature's lair are localized to the levels where they dwell.
 
-Despite being the dungeon's creator, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) doesn't count the Tomb of the Nine Gods as his lair. Consequently, no lair actions or regional effects are ascribed to the archlich in this adventure.
+Despite being the dungeon's creator, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) doesn't count the Tomb of the Nine Gods as his lair. Consequently, no lair actions or regional effects are ascribed to the archlich in this adventure.
 
 #### Skeleton Keys
 
 To unlock the final gate to the Soulmonger, the adventurers must acquire five skeleton keys—each the carved skull of an animated human skeleton that roams the tomb. The characters can capture and control these skeletons, or can simply snap a skull off its spine.
 
-A [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) has the statistics of a [skeleton](/3-Mechanics/CLI/bestiary/undead/skeleton.md), with these changes:
+A [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) has the statistics of a [skeleton](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md), with these changes:
 
-- The [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) is unaligned.  
+- The [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) is unaligned.  
 - It has a climbing speed of 30 feet and can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
-- It wields a pair of daggers and can make two melee weapon attacks (+4 to hit) as an action. Each dagger attack deals `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage on a hit.  
-- When reduced to 0 hit points, a [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) falls apart, though its skull and bones remain intact.  
-- A [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) does not trigger any trap placed in a room or on a door of the tomb.  
+- It wields a pair of daggers and can make two melee weapon attacks (`+4` to hit) as an action. Each dagger attack deals 4 (`1d4 + 2`) piercing damage on a hit.  
+- When reduced to 0 hit points, a [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) falls apart, though its skull and bones remain intact.  
+- A [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) does not trigger any trap placed in a room or on a door of the tomb.  
 
-Each [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) has a skull that extends into a carved key-like shape. These shapes match the keyholes of the skeleton gate in the lair of the Sewn Sisters (area 71). The Skeleton Keys table summarizes the location and shape of each key.
+Each [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) has a skull that extends into a carved key-like shape. These shapes match the keyholes of the skeleton gate in the lair of the Sewn Sisters (area 71). The Skeleton Keys table summarizes the location and shape of each key.
 
 ##### Finding a Skeleton Key
 
-Each of the first five levels of the tomb has its own [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md). A [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) can be encountered in any of the locations marked with a skull symbol on the level map. You choose a [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)'s location. You can also change your mind and relocate the [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) to make it easier or harder to find.
+Each of the first five levels of the tomb has its own [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md). A [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) can be encountered in any of the locations marked with a skull symbol on the level map. You choose a [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)'s location. You can also change your mind and relocate the [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) to make it easier or harder to find.
 
-Apart from unlocking the skeleton gate in area 71, the skeleton keys perform no function. When the characters enter an area containing a [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md), it might be standing in the middle of the room, standing in a corner, walking across the ceiling, or clinging to a wall. A [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)'s primary goal is to avoid capture or destruction, so it flees if it can.
+Apart from unlocking the skeleton gate in area 71, the skeleton keys perform no function. When the characters enter an area containing a [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md), it might be standing in the middle of the room, standing in a corner, walking across the ceiling, or clinging to a wall. A [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md)'s primary goal is to avoid capture or destruction, so it flees if it can.
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/065-502.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/065-502.webp#center)
 
 #### Skeleton Keys
 
@@ -121,7 +121,7 @@ In the lowest level of the tomb, a coven of night hags nurses the atropal to its
 
 Adventurers who have perished inside the tomb are stitched together by tomb dwarves and bolted into suits of armor. Once complete, these shambling golems are released into the tomb to hunt intruders.
 
-A [tomb guardian](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) is a [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) clad in plate armor, giving it AC 17. One or two tomb guardians should appear whenever you feel the need for combat. As the characters delve deeper into the tomb, they should come to know these monsters well.
+A [tomb guardian](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) is a [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) clad in plate armor, giving it AC 17. One or two tomb guardians should appear whenever you feel the need for combat. As the characters delve deeper into the tomb, they should come to know these monsters well.
 
 #### Trickster God Spirits
 
@@ -129,15 +129,15 @@ The spirits of the nine trickster gods of Omu haunt the tomb. Although they cann
 
 ### Fabled Treasures
 
-Among the many treasures hidden in the tomb are four fabled art objects that hold special value. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) uses them to lure adventurers to the tomb.
+Among the many treasures hidden in the tomb are four fabled art objects that hold special value. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) uses them to lure adventurers to the tomb.
 
-Any character with proficiency in the History skill who lays eyes on one of these treasures can recall its lore with a successful DC 20 Intelligence (History) check.
+Any character with proficiency in the [History](3-Mechanics/CLI/rules/skills.md#History) skill who lays eyes on one of these treasures can recall its lore with a successful DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check.
 
 #### Black Opal Crown
 
-The Black Opal Crown was once worn by the archmage Sadamor of Netheril. Legend speaks of how Sadamor saw the depths of humanity's evil reflected in the opal of his crown. Heartbroken, he created a doomsday device—a sphere of annihilation—to swallow the world but was consumed by his own creation.
+The Black Opal Crown was once worn by the archmage Sadamor of Netheril. Legend speaks of how Sadamor saw the depths of humanity's evil reflected in the opal of his crown. Heartbroken, he created a doomsday device—a [sphere of annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md)—to swallow the world but was consumed by his own creation.
 
-The yuan-ti nightmare speaker [Fenthaza](/3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) (see chapter 4) believes that the Black Opal Crown can awaken Dendar the Night Serpent. If the characters find the crown, [Fenthaza](/3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) tries to kill them before they escape Chult with it. The crown rests in the maze of death (area 49).
+The yuan-ti nightmare speaker [Fenthaza](3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) (see chapter 4) believes that the Black Opal Crown can awaken Dendar the Night Serpent. If the characters find the crown, [Fenthaza](3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) tries to kill them before they escape Chult with it. The crown rests in the maze of death (area 49).
 
 #### Eye of Zaltec
 
@@ -149,7 +149,7 @@ An adventuring band known as the Company of the Yellow Banner entered Omu to fin
 
 Said to be carved from a chunk of the moon, this polished egg-shaped stone was given as a gift by the ruling syl-pasha of Calimport to his sailor daughter. It is said that anyone who holds the stone can always find the way home to his or her loved ones.
 
-The tabaxi hunter [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) (see chapter 3) came to Omu in search of the Navel of the Moon but failed to find it. The Navel of the Moon is set into the pendulum of a grandfather clock inside a secret room (area 56).
+The tabaxi hunter [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) (see chapter 3) came to Omu in search of the Navel of the Moon but failed to find it. The Navel of the Moon is set into the pendulum of a grandfather clock inside a secret room (area 56).
 
 #### Skull Chalice of Ch'gakare
 
@@ -159,38 +159,38 @@ Princess Mwaxanaré (see "Kir Sabal," and appendix D) is keen to recover the Sku
 
 ### Spell Restrictions
 
-Many spells have altered effects when cast in the Tomb of the Nine Gods, including spells cast from magic items or artifacts, and class abilities that duplicate the effects of spells. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic and the magic of the [amulet of the black skull](/3-Mechanics/CLI/items/amulet-of-the-black-skull-toa.md) (see appendix C) are unaffected.
+Many spells have altered effects when cast in the Tomb of the Nine Gods, including spells cast from magic items or artifacts, and class abilities that duplicate the effects of spells. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic and the magic of the [amulet of the black skull](3-Mechanics/CLI/items/amulet-of-the-black-skull-toa.md) (see appendix C) are unaffected.
 
 Spells that would normally allow creatures to transport into and out of the tomb either fail or deposit their recipients in area 57. Spells that normally allow one to pass through stone fail, and divination spells cast within the tomb provide false readings. Spells designed to communicate over long distances are similarly foiled. These alterations are summarized in the Modified Spells table. Spells not included in the table might suffer similar alterations, at your discretion.
 
-Magic that summons creatures or objects from other planes functions normally, as does magic that involves the creation of an extradimensional space. Any spells cast within an extradimensional space (such as that created by rope trick) are subject to the same restrictions as magic cast in the tomb.
+Magic that summons creatures or objects from other planes functions normally, as does magic that involves the creation of an extradimensional space. Any spells cast within an extradimensional space (such as that created by [rope trick](3-Mechanics/CLI/spells/rope-trick-xphb.md)) are subject to the same restrictions as magic cast in the tomb.
 
 **Modified Spells**
 
 | Spells | Effect |
 |--------|--------|
-| Antimagic field | This spell does not prevent the spirits of trickster gods from inhabiting hosts. The spell also has no effect on the Soulmonger. |
-| Arcane gate | Any creature that tries to enter or leave the tomb using this spell appears in area 57. |
-| Astral projection | This spell fails if cast in the tomb or if its intended destination is inside the tomb. |
-| Augury | This spell returns false readings if cast in the tomb. |
-| Banishing smite | Any creature banished by this spell appears in area 57. |
-| Banishment | Same as banishing smite. |
-| Clairvoyance | This spell fails if the sensor is meant to appear inside the tomb. |
-| Commune | This spell returns no answer if cast in the tomb. |
-| Dimension door | Same as arcane gate. |
-| Divination | Same as augury. |
-| Etherealness | The caster enters the Border Ethereal but can't move through surfaces or doors in the tomb. Ethereal characters might encounter one or more of the Sewn Sisters. |
-| Find traps | This spell fails if cast in the tomb. |
-| Gate | Any creature in the tomb that steps through the gate created by this spell appears in area 57. |
-| Passwall | This spell does not allow passage through surfaces or doors in the tomb. |
-| Plane shift | Same as arcane gate. |
-| Stone shape | This spell has no effect on surfaces, doors, sarcophagi, stone blocks, or statues in the tomb. |
-| Teleport | Same as arcane gate. |
-| Teleportation circle | Same as arcane gate. |
-| Transport via plants | Same as astral projection. |
-| Tree stride | Same as astral projection. |
-| Wish | This spell can't be used to escape the tomb. |
-| Word of recall | Same as arcane gate. |
+| [Antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) | This spell does not prevent the spirits of trickster gods from inhabiting hosts. The spell also has no effect on the Soulmonger. |
+| [Arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md) | Any creature that tries to enter or leave the tomb using this spell appears in area 57. |
+| [Astral projection](3-Mechanics/CLI/spells/astral-projection-xphb.md) | This spell fails if cast in the tomb or if its intended destination is inside the tomb. |
+| [Augury](3-Mechanics/CLI/spells/augury-xphb.md) | This spell returns false readings if cast in the tomb. |
+| [Banishing smite](3-Mechanics/CLI/spells/banishing-smite-xphb.md) | Any creature banished by this spell appears in area 57. |
+| [Banishment](3-Mechanics/CLI/spells/banishment-xphb.md) | Same as [banishing smite](3-Mechanics/CLI/spells/banishing-smite-xphb.md). |
+| [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) | This spell fails if the sensor is meant to appear inside the tomb. |
+| [Commune](3-Mechanics/CLI/spells/commune-xphb.md) | This spell returns no answer if cast in the tomb. |
+| [Dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md) | Same as [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md). |
+| [Divination](3-Mechanics/CLI/spells/divination-xphb.md) | Same as [augury](3-Mechanics/CLI/spells/augury-xphb.md). |
+| [Etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md) | The caster enters the Border Ethereal but can't move through surfaces or doors in the tomb. Ethereal characters might encounter one or more of the Sewn Sisters. |
+| [Find traps](3-Mechanics/CLI/spells/find-traps-xphb.md) | This spell fails if cast in the tomb. |
+| [Gate](3-Mechanics/CLI/spells/gate-xphb.md) | Any creature in the tomb that steps through the gate created by this spell appears in area 57. |
+| [Passwall](3-Mechanics/CLI/spells/passwall-xphb.md) | This spell does not allow passage through surfaces or doors in the tomb. |
+| [Plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) | Same as [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md). |
+| [Stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) | This spell has no effect on surfaces, doors, sarcophagi, stone blocks, or statues in the tomb. |
+| [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md) | Same as [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md). |
+| [Teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) | Same as [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md). |
+| [Transport via plants](3-Mechanics/CLI/spells/transport-via-plants-xphb.md) | Same as [astral projection](3-Mechanics/CLI/spells/astral-projection-xphb.md). |
+| [Tree stride](3-Mechanics/CLI/spells/tree-stride-xphb.md) | Same as [astral projection](3-Mechanics/CLI/spells/astral-projection-xphb.md). |
+| [Wish](3-Mechanics/CLI/spells/wish-xphb.md) | This spell can't be used to escape the tomb. |
+| [Word of recall](3-Mechanics/CLI/spells/word-of-recall-xphb.md) | Same as [arcane gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md). |
 ^modified-spells
 
 ### Replacing Dead Characters
@@ -198,13 +198,13 @@ Magic that summons creatures or objects from other planes functions normally, as
 If a character dies in the Tomb of the Nine Gods and you need a hook to introduce a new party member, choose from the suggestions below or work with the character's player to devise something appropriate:
 
 - The replacement character broke into the tomb centuries ago but was imprisoned inside a magical carving. When one of the other characters accidentally leans against this carving, the replacement character is released from captivity.  
-- The replacement character hails from another world (Athas, Krynn, Oerth, medieval Earth, or any other milieu of your choosing) and is trapped in stasis within the tomb as one of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s trophies. If the character is touched, the archlich's binding magic ends.  
+- The replacement character hails from another world (Athas, Krynn, Oerth, medieval Earth, or any other milieu of your choosing) and is trapped in stasis within the tomb as one of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s trophies. If the character is touched, the archlich's binding magic ends.  
 - The replacement character is a clone of the fallen adventurer. The hags in area 71 created and tortured the clone to gain information about the adventurers' presence in the tomb. Having escaped, the new character suffers from amnesia and has scant memory of the hags. The clone has gear scavenged from dead adventurers.  
 - The new character is the sole survivor of a doomed adventuring company that breached the tomb in order to find and destroy the Soulmonger.  
 
 ## Spirits of the Nine Trickster Gods
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) trapped the spirits of Omu's nine trickster gods in the tomb he constructed in their name, and they're not happy about it. The spirits don't know the tomb's layout or defenses, but they offer advice and magical powers to those they inhabit. Of course, their assistance comes at a price.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) trapped the spirits of Omu's nine trickster gods in the tomb he constructed in their name, and they're not happy about it. The spirits don't know the tomb's layout or defenses, but they offer advice and magical powers to those they inhabit. Of course, their assistance comes at a price.
 
 **Trickster Gods**
 
@@ -212,24 +212,24 @@ If a character dies in the Tomb of the Nine Gods and you need a hook to introduc
 |--------|--------|-------------|----------------|-------|-------|
 | I'jin (female) | CN | Fickle and unpredictable | "I never stick to a plan." | Obo'laka | The host's Dexterity score becomes 23, unless it is already higher. |
 | Kubazan (male) | CG | Wild and spirited | "I am fearless and not afraid to take great risks." | Papazotl | The host's Strength score becomes 23, unless it is already higher. |
-| Moa (male) | LG | Truthful and kind | "I must always speak the truth." | Wongo | The host can use an action to turn invisible. Anything the host is wearing or carrying is invisible as long as it is on the host's person. The effect ends if the host attacks, casts a spell, forces a saving throw, or deals damage. |
+| Moa (male) | LG | Truthful and kind | "I must always speak the truth." | Wongo | The host can use an action to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). Anything the host is wearing or carrying is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) as long as it is on the host's person. The effect ends if the host attacks, casts a spell, forces a saving throw, or deals damage. |
 | Nangnang (female) | NE | Selfish and cruel | "I won't share with others." | Shagambi | The host can move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. It gains a climbing speed equal to its walking speed. |
 | Obo'laka (female) | LN | Nervous and obsessive | "I am risk-averse and a slave to routine." | I'jin | The host can attune to one additional magic item. When Obo'laka leaves the host, all magic items to which the host is attuned are no longer attuned to it. |
-| Papazotl (male) | LE | Shrewd and conniving | "I bow before no one and expect others to do as I command." | Kubazan | The host can't be surprised, gains advantage on all Wisdom checks, and never takes damage from falling. |
-| Shagambi (female) | NG | Wise and virtuous | "I never show mercy to evildoers." | Nangnang | The host can make one extra attack when taking the Attack action on its turn. |
+| Papazotl (male) | LE | Shrewd and conniving | "I bow before no one and expect others to do as I command." | Kubazan | The host can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), gains advantage on all Wisdom checks, and never takes damage from falling. |
+| Shagambi (female) | NG | Wise and virtuous | "I never show mercy to evildoers." | Nangnang | The host can make one extra attack when taking the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on its turn. |
 | Unkh (female) | N | Self-absorbed and indecisive | "I am incapable of making decisions." | None | The host's Constitution score becomes 23, unless it is already higher. |
-| Wongo (male) | CE | Violent and deranged | "I act without concern for the well-being of others." | Moa | The host can use an action to unleash a psionic assault on a creature it can see within 60 feet of it. The target must succeed on a DC 16 Wisdom saving throw or be stunned until the end of the target's next turn. |
+| Wongo (male) | CE | Violent and deranged | "I act without concern for the well-being of others." | Moa | The host can use an action to unleash a psionic assault on a creature it can see within 60 feet of it. The target must succeed on a DC 16 Wisdom saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until the end of the target's next turn. |
 ^trickster-gods
 
 ### Spiritual Inhabitation
 
 The spirits are bound inside magic items scattered throughout the tomb. When a creature of the humanoid type touches such an item, the trickster god bound within attempts to inhabit that creature. With a successful DC 16 Charisma saving throw, the creature resists the god's power, and that god can't attempt to inhabit the same creature for the remainder of the adventure. On a failed save—or if the creature chooses to forgo the save—the god's spirit inhabits the creature's body. The trickster gods can tell whether or not a creature is humanoid, and they have no interest in possessing other types of creatures.
 
-While inhabiting a host body, a trickster god acts like an overbearing passenger. The host creature remains in control of its actions but inherits a flaw from the god, as well as a special power. When a trickster god inhabits a player character, give the player that [god's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md) (see appendix F). A character doesn't know what power and flaw are gained from a specific trickster god until that god inhabits the character for the first time. Both the flaw and the power end when the spirit leaves the host.
+While inhabiting a host body, a trickster god acts like an overbearing passenger. The host creature remains in control of its actions but inherits a flaw from the god, as well as a special power. When a trickster god inhabits a player character, give the player that [god's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md) (see appendix F). A character doesn't know what power and flaw are gained from a specific trickster god until that god inhabits the character for the first time. Both the flaw and the power end when the spirit leaves the host.
 
 ### Leaving a Host
 
-A trickster god never willingly leaves a host, but its spirit is forced out if a host dies or leaves the tomb, or if a host is targeted by the break enchantment function of the dispel evil and good spell. A trickster god can also be forced out by another trickster god (see "Fighting Over a Host" below).
+A trickster god never willingly leaves a host, but its spirit is forced out if a host dies or leaves the tomb, or if a host is targeted by the break enchantment function of the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell. A trickster god can also be forced out by another trickster god (see "Fighting Over a Host" below).
 
 When the spirit of a trickster god is forced out of a host, it returns to the magic item to which it is bound and cannot inhabit that host again for the remainder of the adventure. If the item is destroyed or taken from the tomb, the trickster god's spirit finds another object within the tomb to inhabit. The spirits of the trickster gods can't be destroyed and can never leave the tomb.
 
@@ -243,7 +243,7 @@ A trickster god can use the host character's senses and speak to the host's mind
 
 You can roleplay the voices of the trickster gods in the characters' heads, but let the players roleplay their characters' inherited flaws. If a player neglects to roleplay a trickster god's flaw, have the inhabiting spirit attempt to goad the character into behaving more like it. You can award inspiration to a player who roleplays a trickster god's flaw particularly well.
 
-All the trickster gods are eager to get their revenge on [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md). They can offer only limited guidance regarding the tomb and its denizens, but they encourage the characters to seek out other trickster god spirits and offer supernatural assistance in the final battle against the archlich.
+All the trickster gods are eager to get their revenge on [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md). They can offer only limited guidance regarding the tomb and its denizens, but they encourage the characters to seek out other trickster god spirits and offer supernatural assistance in the final battle against the archlich.
 
 Each trickster god (except Unkh) has its own rival in the tomb that it would prefer to avoid. The Omuans dreamed up colorful stories to explain these antipathies, but in truth, the spirits simply represent conflicting points on the alignment axes. When rival spirits occupy different characters in the same group, they try to make their hosts bicker and defy each other whenever possible.
 
@@ -252,8 +252,8 @@ Each trickster god (except Unkh) has its own rival in the tomb that it would pre
 Map 5.1 shows this level of the dungeon. The air is stale and humid here. Moss covers the walls, which are decorated with screaming skulls and hung with rotting tree roots and dead vines.
 
 > [!gallery]
-> ![Map 5.1: Rotten Halls](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/066-505.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/067-505a.webp#gallery)
+> ![Map 5.1: Rotten Halls](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/066-505.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/067-505a.webp#gallery)
 
 ### Ceiling Cracks
 
@@ -270,22 +270,22 @@ Muddy rainwater seeps from the jungles above, flowing through the tomb as a slug
 > Near the base of the cliffs, a fifteen-foot-tall obelisk of cracked stone is draped with vines and black moss. Behind it, you see a dark passageway obscured by withered creepers. A second, smaller tunnel burrows into the base of a cliff to the east.
 ^32b
 
-The tunnel leading to the tomb's true entrance (area 4) is obscured by vegetation and cannot be detected unless the characters search for it. However, any character who succeeds on a DC 10 Wisdom (Perception) check around the areas of the false entrance (area 2) or the open gallery (area 3) notices something more:
+The tunnel leading to the tomb's true entrance (area 4) is obscured by vegetation and cannot be detected unless the characters search for it. However, any character who succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check around the areas of the false entrance (area 2) or the open gallery (area 3) notices something more:
 
 > [!readaloud] 
 > 
 > Three stone gargoyles watch you from narrow ledges carved into the cliff side. Each has the face of a bearded devil, its mouth agape in a silent scream.
 ^32c
 
-The three [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md) are perched on the ledges overlooking the obelisk, at the points marked G on map 5.1. The ledges are 30 feet above the ground, 5 feet wide, 2 feet deep, and spaced 25 feet apart. The gargoyles swoop down and attack anyone who tries to topple or damage the obelisk, or who attacks them first.
+The three [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) are perched on the ledges overlooking the obelisk, at the points marked G on map 5.1. The ledges are 30 feet above the ground, 5 feet wide, 2 feet deep, and spaced 25 feet apart. The gargoyles swoop down and attack anyone who tries to topple or damage the obelisk, or who attacks them first.
 
 #### Obelisk
 
-The obelisk radiates a strong aura of abjuration magic under the scrutiny of a detect magic spell or similar magic, and a paladin using Divine Sense can detect a fiendish presence within the obelisk. Clearing the vines and moss from the south face of the obelisk exposes a message carved into it in Common. (Give the players a copy of handout 17 in appendix E.) The message reads as follows:
+The obelisk radiates a strong aura of abjuration magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic, and a paladin using Divine Sense can detect a fiendish presence within the obelisk. Clearing the vines and moss from the south face of the obelisk exposes a message carved into it in Common. (Give the players a copy of handout 17 in appendix E.) The message reads as follows:
 
 > [!readaloud] 
 > 
-> Fear the night when the forsaken one seizes death's mantle and the seas dry up and the dead rise and I, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) the Eternal, reap the world of the living. Those who dare enter take heed: The enemies oppose.
+> Fear the night when the forsaken one seizes death's mantle and the seas dry up and the dead rise and I, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) the Eternal, reap the world of the living. Those who dare enter take heed: The enemies oppose.
 > 
 > One stands between them.
 > 
@@ -298,9 +298,9 @@ The obelisk radiates a strong aura of abjuration magic under the scrutiny of a d
 > The keys turn on the inside only.
 ^32e
 
-The warnings [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has placed on the obelisk and on the grand staircase (area 7) provide clues to overcoming some of the challenges of the tomb. The obelisk's clues pertain to features and locations on level 1, specifically the true entrance (area 4), the devil face (area 5B), Obo'laka's tomb (area 10), Moa's tomb (area 14), and Wongo's tomb (area 16).
+The warnings [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has placed on the obelisk and on the grand staircase (area 7) provide clues to overcoming some of the challenges of the tomb. The obelisk's clues pertain to features and locations on level 1, specifically the true entrance (area 4), the devil face (area 5B), Obo'laka's tomb (area 10), Moa's tomb (area 14), and Wongo's tomb (area 16).
 
-Characters with a combined Strength of 60 or more can topple the obelisk, breaking it off at the base. Breaking or destroying the obelisk releases a cloud of black smoke that coalesces into a [nalfeshnee](/3-Mechanics/CLI/bestiary/fiend/nalfeshnee.md) demon. The demon appears in an unoccupied space within 30 feet of the obelisk and attacks those responsible for the obelisk's desecration. After 1 minute, the demon disappears and returns to the Abyss.
+Characters with a combined Strength of 60 or more can topple the obelisk, breaking it off at the base. Breaking or destroying the obelisk releases a cloud of black smoke that coalesces into a [nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md) demon. The demon appears in an unoccupied space within 30 feet of the obelisk and attacks those responsible for the obelisk's desecration. After 1 minute, the demon disappears and returns to the Abyss.
 
 The teleportation function of the ebon pool (area 81) returns characters to the obelisk even if it is toppled or destroyed.
 
@@ -313,7 +313,7 @@ The teleportation function of the ebon pool (area 81) returns characters to the 
 
 The statues depict the nine trickster gods, with each facing pair of alcoves dedicated to two trickster gods who oppose each other. Moving down the hall from west to east, the opposing statues depict Moa (jaculi) and Wongo (su-monster), I'jin (almiraj) and Obo'laka (zorbo), Papazotl (eblis) and Kubazan (froghemoth), and Nangnang (grung) and Shagambi (kamadan).
 
-Each statue is 3 feet tall and can't be moved from its pedestal. When any character carrying a puzzle cube (see chapter 3) enters the tunnel, the oil basin matching the cube's trickster god bursts into flame. A detect magic spell or similar effect reveals an aura of divination magic around the statues. The oil basins give off an aura of conjuration.
+Each statue is 3 feet tall and can't be moved from its pedestal. When any character carrying a puzzle cube (see chapter 3) enters the tunnel, the oil basin matching the cube's trickster god bursts into flame. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of divination magic around the statues. The oil basins give off an aura of conjuration.
 
 Only eight trickster gods are initially visible; the statue of Unkh (flail snail) is hidden behind a secret door at the end of the tunnel, though it functions the same as the others. Bringing Unkh's puzzle cube into the tunnel lights Unkh's brazier, giving characters advantage on ability checks made to find the secret door.
 
@@ -332,15 +332,15 @@ After 20 feet, a puzzle door sealing off a small chamber beyond blocks this fals
 
 Each cavity is sized to hold one of the puzzle cubes recovered from the shrines of Omu (see chapter 3). However, there are nine puzzle cubes in total and only eight cavities.
 
-If puzzle cubes representing every trickster god except Unkh are inserted into the cavities in such a way that the cubes of rival gods are opposite to one another, a stone block slowly descends over the tunnel entrance. Any character in the tunnel must decide whether to stay or to flee, which requires a successful DC 10 Strength (Athletics) check. Characters who stay or who fail the check are trapped when the stone block seals off the tunnel. Once the tunnel is sealed, caustic gas billows out from the mouths of the relief-carved skulls. Any creature trapped in the tunnel must succeed on a DC 15 Constitution saving throw or take `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) poison damage and `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) acid damage. While any affected creature remains in the tunnel, it must repeat the saving throw at the start of each of its turns. After 10 rounds, the gas valves close and the stone block rises back into the ceiling. Any puzzle cubes still in their cavities are pushed out, and the trap resets.
+If puzzle cubes representing every trickster god except Unkh are inserted into the cavities in such a way that the cubes of rival gods are opposite to one another, a stone block slowly descends over the tunnel entrance. Any character in the tunnel must decide whether to stay or to flee, which requires a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Characters who stay or who fail the check are trapped when the stone block seals off the tunnel. Once the tunnel is sealed, caustic gas billows out from the mouths of the relief-carved skulls. Any creature trapped in the tunnel must succeed on a DC 15 Constitution saving throw or take 5 (`1d10`) poison damage and 5 (`1d10`) acid damage. While any affected creature remains in the tunnel, it must repeat the saving throw at the start of each of its turns. After 10 rounds, the gas valves close and the stone block rises back into the ceiling. Any puzzle cubes still in their cavities are pushed out, and the trap resets.
 
-Any character searching the tunnel for traps spots the raised stone block with a successful DC 16 Wisdom (Perception) check. The weight of the block makes it impossible to hinder its descent. Any character who examines the puzzle door and succeeds on a DC 14 Wisdom (Perception) check notices holes in the mouths of the skulls. Stuffing the holes with cloth or wax prevents the gas from being released. Doing so while the trap is active is difficult, requiring six successful DC 10 Dexterity checks, each made as an action.
+Any character searching the tunnel for traps spots the raised stone block with a successful DC 16 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The weight of the block makes it impossible to hinder its descent. Any character who examines the puzzle door and succeeds on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices holes in the mouths of the skulls. Stuffing the holes with cloth or wax prevents the gas from being released. Doing so while the trap is active is difficult, requiring six successful DC 10 Dexterity checks, each made as an action.
 
-Beyond the false door is a gas-filled chamber. Any creature that starts its turn in this area takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage and `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) acid damage.
+Beyond the false door is a gas-filled chamber. Any creature that starts its turn in this area takes 11 (`2d10`) poison damage and 11 (`2d10`) acid damage.
 
 ### 4. True Entrance
 
-Thick foliage conceals the true entrance to the Tomb of the Nine Gods. Any character searching the base of the cliff at this location finds the entrance with a successful DC 10 Wisdom (Perception) check.
+Thick foliage conceals the true entrance to the Tomb of the Nine Gods. Any character searching the base of the cliff at this location finds the entrance with a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 > [!readaloud] 
 > 
@@ -360,9 +360,9 @@ Give the players copies of the god symbols in handout 11 of appendix E. The indi
 
 To open the door, the characters must fill the cavities with all nine puzzle cubes retrieved from the shrines of Omu (see chapter 3), but in the proper configuration. The cubes representing the trickster gods must be placed so that each god is opposite its rival's cube on the grid, with Unkh (who is neutral and has no rivals) in the middle. For example, a puzzle cube inserted into a corner of the grid must have its rival in the diagonally opposite corner. Diagram 5.1 shows one possible configuration, though others will work as long as Unkh is situated between I'jin (CN) and Obo'laka (LN), between Kubazan (CG) and Papazotl (LE), between Moa (LG) and Wongo (CE), and between Nangnang (NE) and Shagambi (NG).
 
-If a puzzle cube is placed incorrectly, any previously placed cubes pop out. Electricity then erupts from the incorrectly placed cube, dealing `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) lightning damage to any creature within 20 feet of the door. A mage hand spell can be used to place the cubes from farther away and avoid this damage.
+If a puzzle cube is placed incorrectly, any previously placed cubes pop out. Electricity then erupts from the incorrectly placed cube, dealing 18 (`4d8`) lightning damage to any creature within 20 feet of the door. A [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spell can be used to place the cubes from farther away and avoid this damage.
 
-A detect magic spell or similar effect reveals an aura of evocation magic around each of the cavities. If the characters place the cubes correctly, read:
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of evocation magic around each of the cavities. If the characters place the cubes correctly, read:
 
 > [!readaloud] 
 > 
@@ -371,7 +371,7 @@ A detect magic spell or similar effect reveals an aura of evocation magic around
 
 When the door opens, the puzzle cubes teleport back to their respective shrines in Omu. Once the door has fully risen, it remains open for 1 hour before slowly sinking back into place. Characters who are outside when the door closes must revisit the city to recover the cubes.
 
-![Diagram 5.1: Sample Puzzle Cube Configuration](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/068-503.webp#center)
+![Diagram 5.1: Sample Puzzle Cube Configuration](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/068-503.webp#center)
 
 #### 4B. Second Puzzle Door
 
@@ -397,9 +397,9 @@ After remaining open for 1 hour, the door slowly rises to seal off the passage o
 
 Pulling the lever causes the floor between the two doors to split open along a central seam. Each creature standing on the floor when the lever is pulled tumbles into a 20-foot-deep pit lined with poisoned spikes. With a successful DC 15 Dexterity saving throw, the character who pulled the lever can avoid falling by hanging onto it. The pit remains open until the lever is reset to its original position.
 
-Each creature falling into the pit takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage and is impaled on `dice:1d4|noform|noparens|avg` (`1d4`) spikes, each of which deals `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) piercing damage and `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) poison damage. Any creature that takes poison damage from one or more spikes is poisoned for 24 hours, or until the condition is removed with a lesser restoration spell or similar magic.
+Each creature falling into the pit takes 11 (`2d10`) bludgeoning damage and is impaled on `1d4` spikes, each of which deals 3 (`1d6`) piercing damage and 5 (`1d10`) poison damage. Any creature that takes poison damage from one or more spikes is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 24 hours, or until the condition is removed with a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic.
 
-Spotting the seam along the floor requires a successful DC 15 Wisdom (Perception) check. Characters can hammer spikes into the floor to prevent it from dropping, but at least ten spikes are needed because of the floor's size and weight.
+Spotting the seam along the floor requires a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Characters can hammer spikes into the floor to prevent it from dropping, but at least ten spikes are needed because of the floor's size and weight.
 
 ### 5. Trapped Corridor
 
@@ -410,17 +410,17 @@ Spotting the seam along the floor requires a successful DC 15 Wisdom (Perception
 
 #### 5A. Poison Darts
 
-Each X on the map marks a 5-foot-square pressure plate triggered by 20 pounds or more. When a plate is triggered, four poisoned darts shoot out from spring-loaded tubes in the walls. Each dart makes a ranged attack (`dice:1d20+8|noform|noparens|text(+8)` to hit) against a random target within 10 feet of the pressure plate. Any creature hit by a dart takes `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) piercing damage and must make a DC 15 Constitution saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage on a failed save, or half as much damage on a successful one.
+Each X on the map marks a 5-foot-square pressure plate triggered by 20 pounds or more. When a plate is triggered, four poisoned darts shoot out from spring-loaded tubes in the walls. Each dart makes a ranged attack (`+8` to hit) against a random target within 10 feet of the pressure plate. Any creature hit by a dart takes 2 (`1d4`) piercing damage and must make a DC 15 Constitution saving throw, taking 14 (`4d6`) poison damage on a failed save, or half as much damage on a successful one.
 
-Moss obscures the tiny holes in the walls through which the darts are fired, but they can be spotted with a successful DC 15 Wisdom (Perception) check. With a careful inspection of the floor and a successful DC 15 Wisdom (Perception) check, a character notes irregularities in the floor's tile patterns that reveal the pressure plates. Wedging an iron spike or similar object under a plate prevents that plate from being triggered. Stuffing the wall holes adjacent to a pressure plate with cloth or wax prevents the darts from being fired.
+Moss obscures the tiny holes in the walls through which the darts are fired, but they can be spotted with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. With a careful inspection of the floor and a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, a character notes irregularities in the floor's tile patterns that reveal the pressure plates. Wedging an iron spike or similar object under a plate prevents that plate from being triggered. Stuffing the wall holes adjacent to a pressure plate with cloth or wax prevents the darts from being fired.
 
 #### 5B. Devil Face
 
-Magical darkness and a permanent silence spell fills the mouth of the devil face and a large cavity behind it. The face is sculpted from stone and melds seamlessly with the surrounding wall, and its mouth is wide enough for a Medium or smaller creature to crawl through. A detect magic spell or similar effect reveals an aura of illusion magic over the face.
+Magical darkness and a permanent [silence](3-Mechanics/CLI/spells/silence-xphb.md) spell fills the mouth of the devil face and a large cavity behind it. The face is sculpted from stone and melds seamlessly with the surrounding wall, and its mouth is wide enough for a Medium or smaller creature to crawl through. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of illusion magic over the face.
 
-The cavity behind the devil's mouth is home to a [shadow demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon.md) that can see normally in the magical darkness. If any creature reaches into the mouth, the demon makes an attack against it with advantage, then continues attacking if any creature enters its abode.
+The cavity behind the devil's mouth is home to a [shadow demon](3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) that can see normally in the magical darkness. If any creature reaches into the mouth, the demon makes an attack against it with advantage, then continues attacking if any creature enters its abode.
 
-A successful dispel magic (DC 16) cast on the demon's lair dispels the magical darkness and the silence. If the darkness is dispelled, the shadow demon emerges and attacks until reduced to half its hit points or fewer, at which point it flees to a darker area of the tomb.
+A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) cast on the demon's lair dispels the magical darkness and the silence. If the darkness is dispelled, the shadow demon emerges and attacks until reduced to half its hit points or fewer, at which point it flees to a darker area of the tomb.
 
 #### 5C. Floor Hatch
 
@@ -462,11 +462,11 @@ The first character to reach this point on the map glimpses a tomb dwarf on the 
 > A hunched figure glares up at you from the balcony below, wearing a mask that is a replica of the devil face at the tomb entrance. Without saying a word, the figure steps out of sight.
 ^348
 
-If the characters take action at once, they can catch the tomb dwarf. The tomb dwarf uses the statistics of a [wight](/3-Mechanics/CLI/bestiary/undead/wight.md), except that it wields a battleaxe and a light crossbow. If it is not caught, the creature moves silently through the secret door to area 25. To any character leaning over the balcony to see where the figure went, it appears to have vanished into thin air.
+If the characters take action at once, they can catch the tomb dwarf. The tomb dwarf uses the statistics of a [wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md), except that it wields a battleaxe and a light crossbow. If it is not caught, the creature moves silently through the secret door to area 25. To any character leaning over the balcony to see where the figure went, it appears to have vanished into thin air.
 
 #### 7B. Acererak's Second Warning
 
-A bronze plaque is fixed to the east wall of the balcony on level 2, engraved with another of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s cryptic warnings in Common. (Give the players a copy of handout 18 in appendix E.) It reads as follows:
+A bronze plaque is fixed to the east wall of the balcony on level 2, engraved with another of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s cryptic warnings in Common. (Give the players a copy of handout 18 in appendix E.) It reads as follows:
 
 > [!readaloud] 
 > 
@@ -519,7 +519,7 @@ The last warning is on a bronze plaque mounted to the west wall of the balcony o
 > The maze holds the key.
 ^34e
 
-The clues on this bronze plaque pertain to features and locations on level 4, specifically the elemental traps (area 47), Shagambi's tomb (area 48), the mirror of life trapping (area 50), the scepter in the crypt of the Sun Queen (area 53), and Unkh's tomb (area 55).
+The clues on this bronze plaque pertain to features and locations on level 4, specifically the elemental traps (area 47), Shagambi's tomb (area 48), the [mirror of life trapping](3-Mechanics/CLI/items/mirror-of-life-trapping-xdmg.md) (area 50), the scepter in the crypt of the Sun Queen (area 53), and Unkh's tomb (area 55).
 
 ### 8. Magical Attraction
 
@@ -528,9 +528,9 @@ The clues on this bronze plaque pertain to features and locations on level 4, sp
 > A rusting statue of a knight stands at the west end of this hall, gripping a large iron shield. Shards and flakes of rusted metal cover the floor around the statue's feet.
 ^350
 
-A magical field around the statue attracts metal objects of any kind (not just ferrous metal). Any metal object that comes into direct contact with the shield disintegrates, showering the floor with powdered rust. Artifacts are immune to this corrosion. Any metal object not being worn or carried that enters the room is instantly drawn to the shield if it weighs 150 pounds or less. Any creature wearing or carrying metal items that enters the room or starts its turn there can feel the pull of the statue and must succeed on a DC 10 Strength (Athletics) check to resist it. On a failed check, the creature loses its footing, flies across the chamber, and slams into the statue, taking `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage for every 10 feet it moved. If the character is wearing metal armor, the check is made with disadvantage. The shield disintegrates only metal objects that come into direct contact with it, so a metal object stored in a backpack would be protected from destruction by the pack's leather.
+A magical field around the statue attracts metal objects of any kind (not just ferrous metal). Any metal object that comes into direct contact with the shield disintegrates, showering the floor with powdered rust. Artifacts are immune to this corrosion. Any metal object not being worn or carried that enters the room is instantly drawn to the shield if it weighs 150 pounds or less. Any creature wearing or carrying metal items that enters the room or starts its turn there can feel the pull of the statue and must succeed on a DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to resist it. On a failed check, the creature loses its footing, flies across the chamber, and slams into the statue, taking `1d6` bludgeoning damage for every 10 feet it moved. If the character is wearing metal armor, the check is made with disadvantage. The shield disintegrates only metal objects that come into direct contact with it, so a metal object stored in a backpack would be protected from destruction by the pack's leather.
 
-A detect magic spell or similar effect reveals an aura of transmutation magic over the shield. The statue and shield are treated as a single Large object with AC 17; 40 hit points; immunity to piercing, bludgeoning, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage. If the statue and shield are destroyed, the trap is disabled. A successful dispel magic (DC 17) cast on the statue shuts down the attractive field for 1 hour.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of transmutation magic over the shield. The statue and shield are treated as a single Large object with AC 17; 40 hit points; immunity to piercing, bludgeoning, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage. If the statue and shield are destroyed, the trap is disabled. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 17) cast on the statue shuts down the attractive field for 1 hour.
 
 ### 9. Magic Fountain
 
@@ -548,18 +548,16 @@ Any characters inhabited by the spirits of Obo'laka or Wongo receive advice when
 
 #### Magic Fountain
 
-Any creature that drinks from the fountain experiences a random magical effect, determined by rolling a `dice:d4|noform|noparens|avg` (`d4`) and consulting the Magic Fountain Effects table. Water removed from the fountain and stored in a container retains its magical properties, and a different effect occurs each time someone drinks from the container. Under the scrutiny of a detect magic spell or similar effect, the fountain radiates an aura of transmutation magic.
+Any creature that drinks from the fountain experiences a random magical effect, determined by rolling a `d4` and consulting the Magic Fountain Effects table. Water removed from the fountain and stored in a container retains its magical properties, and a different effect occurs each time someone drinks from the container. Under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect, the fountain radiates an aura of transmutation magic.
 
 #### Magic Fountain Effects
 
-`dice: [](06-chapter-5-tomb-of-the-nine-gods.md#^effect)`
-
 | dice: d4 | Effect |
 |----------|--------|
-| 1 | The creature drinking the water must make a DC 12 Constitution saving throw, taking `dice:8d10\|noform\|noparens\|avg\|text(44)` (`8d10`) necrotic damage on a failed save, or half as much damage on a successful one. If this damage reduces the creature to 0 hit points, it dies and turns to dust. |
-| 2 | The creature drinking the water loses the ability to speak for 8 hours. A lesser restoration spell or similar magic ends this effect. |
-| 3 | The creature drinking the water magically changes sex. A greater restoration spell restores the creature's original sex, as does another drink from the fountain that yields this same result. |
-| 4 | The creature drinking the water gains `dice:2d10\|noform\|noparens\|avg` (`2d10`) temporary hit points. |
+| 1 | The creature drinking the water must make a DC 12 Constitution saving throw, taking 44 (`8d10`) necrotic damage on a failed save, or half as much damage on a successful one. If this damage reduces the creature to 0 hit points, it dies and turns to dust. |
+| 2 | The creature drinking the water loses the ability to speak for 8 hours. A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic ends this effect. |
+| 3 | The creature drinking the water magically changes sex. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell restores the creature's original sex, as does another drink from the fountain that yields this same result. |
+| 4 | The creature drinking the water gains `2d10` temporary hit points. |
 ^effect
 
 ### 10. Obo'laka's Tomb
@@ -571,17 +569,17 @@ Any creature that drinks from the fountain experiences a random magical effect, 
 
 See area 6 for a description of the crystal window.
 
-The corpses slumped on the thrones are six dormant [wights](/3-Mechanics/CLI/bestiary/undead/wight.md). If the eyes on the bronze disk spot intruders in the tomb (see "Disk of Eyes"), the wights rise and attack. The wights also attack if one or more of them takes any damage. They won't leave the chamber to pursue intruders. Once all intruders are dead or gone, the wights return to their thrones and fall dormant once more.
+The corpses slumped on the thrones are six dormant [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md). If the eyes on the bronze disk spot intruders in the tomb (see "Disk of Eyes"), the wights rise and attack. The wights also attack if one or more of them takes any damage. They won't leave the chamber to pursue intruders. Once all intruders are dead or gone, the wights return to their thrones and fall dormant once more.
 
 #### Disk of Eyes
 
-Any character who studies the disk notices that its eyes are moving, their bronzed pupils flicking back and forth to scan the tomb for intruders. These eyes have darkvision out to a range of 30 feet. If the eyes spot any humanoids inside the tomb, the wights awaken and attack. The disk of eyes can't perceive any humanoid that dons one of the papier-mâché masks worn by the wights, nor can it see in magical darkness or while covered with a blanket or similar object.
+Any character who studies the disk notices that its eyes are moving, their bronzed pupils flicking back and forth to scan the tomb for intruders. These eyes have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 30 feet. If the eyes spot any humanoids inside the tomb, the wights awaken and attack. The disk of eyes can't perceive any humanoid that dons one of the papier-mâché masks worn by the wights, nor can it see in magical darkness or while covered with a blanket or similar object.
 
-The bronze disk weighs 250 pounds. The bear statues grip the disk tightly in their stone paws, so that it can't be pried free without smashing the statues. Each statue is a Large object with AC 17; 45 hit points; immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage. A detect magic spell or similar effect reveals an aura of divination magic around the disk.
+The bronze disk weighs 250 pounds. The bear statues grip the disk tightly in their stone paws, so that it can't be pried free without smashing the statues. Each statue is a Large object with AC 17; 45 hit points; immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of divination magic around the disk.
 
 #### Sarcophagus
 
-Any creature wearing one of the wights' papier-mâché masks can push aside the lid of the sarcophagus with a successful DC 13 Strength (Athletics) check. To all other creatures, the lid is magically locked and cannot be opened without a knock spell or a successful DC 20 Dexterity check made by a character using thieves' tools.
+Any creature wearing one of the wights' papier-mâché masks can push aside the lid of the sarcophagus with a successful DC 13 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. To all other creatures, the lid is magically locked and cannot be opened without a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or a successful DC 20 Dexterity check made by a character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md).
 
 #### Secret Doors
 
@@ -589,7 +587,7 @@ Secret doors are set into the back walls of two alcoves—one to the north and t
 
 #### Treasure
 
-The bones of a zorbo (Obo'laka's animal form; see appendix D) lie in a dusty pile within the sarcophagus. A ring of protection rests atop the pile. The ring turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+The bones of a zorbo (Obo'laka's animal form; see appendix D) lie in a dusty pile within the sarcophagus. A [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md) rests atop the pile. The ring turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Obo'laka's Spirit
 
@@ -600,11 +598,11 @@ The spirit of Obo'laka tries to inhabit any character who touches the ring (see 
 > As you touch the ring, the dust swirls into the shape of a small, feral, bear-like creature that billows toward you with a ghostly roar.
 ^35d
 
-If the spirit successfully inhabits the character, give the player [Obo'laka's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Obo'laka) (see appendix F). If the attempt fails, the spirit returns to the ring and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [Obo'laka's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Obo'laka) (see appendix F). If the attempt fails, the spirit returns to the ring and waits for another character to touch it.
 
 ### 11. Gas Pocket
 
-This section of the underground river contains a buildup of flammable gas that has a rotten odor. If a torch, lantern, or other open flame is brought into the area, or if the secret door to area 10 is opened, the gas explodes. Each creature in the area of the gas pocket or within 15 feet of it must make a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) fire damage on a failed save, or half damage on a successful one. The explosion burns away the gas, which builds up again after 8 hours.
+This section of the underground river contains a buildup of flammable gas that has a rotten odor. If a torch, lantern, or other open flame is brought into the area, or if the secret door to area 10 is opened, the gas explodes. Each creature in the area of the gas pocket or within 15 feet of it must make a DC 15 Dexterity saving throw, taking 22 (`4d10`) fire damage on a failed save, or half damage on a successful one. The explosion burns away the gas, which builds up again after 8 hours.
 
 ### 12. Trapped Chest
 
@@ -615,15 +613,15 @@ This section of the underground river contains a buildup of flammable gas that h
 
 The chest is 6 feet long, 3 feet wide, 3 feet high, and suspended 1 foot above the surface of the 5-foot-deep pool. A keyhole shaped like a cackling demon skull decorates the front of the lid. Encircling the keyhole, a tiny inscription in Common reads, "I devour all but the greatest thieves."
 
-The chest is locked and doesn't appear to be trapped. However, a detect magic spell or similar effect reveals an aura of evocation magic around it. Picking the lock requires a successful DC 22 Dexterity check made using thieves' tools. This also disarms the lock's magical trap, allowing the chest to be opened safely.
+The chest is locked and doesn't appear to be trapped. However, a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of evocation magic around it. Picking the lock requires a successful DC 22 Dexterity check made using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). This also disarms the lock's magical trap, allowing the chest to be opened safely.
 
-If the check fails, the demon skull bites down on the thieves' tools and destroys them. If the check fails by 5 or more, the magical trap teleports the character making the check inside the locked chest, whereupon the character is restrained. The chains holding the chest then release it into the water, where it sinks to the bottom of the pool. Even if the chest is removed from the water, a character trapped within runs out of air after 5 rounds (see ""Suffocating"" in chapter 8 of the *Player's Handbook*).
+If the check fails, the demon skull bites down on the [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and destroys them. If the check fails by 5 or more, the magical trap teleports the character making the check inside the locked chest, whereupon the character is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). The chains holding the chest then release it into the water, where it sinks to the bottom of the pool. Even if the chest is removed from the water, a character trapped within runs out of air after 5 rounds (see ""Suffocating"" in chapter 8 of the *Player's Handbook*).
 
 The chest is a Medium object with AC 13, 30 hit points, and immunity to poison and psychic damage. Any character who attempts to pick the lock or hit the chest with a melee or ranged attack while it's underwater does so with disadvantage.
 
 #### Treasure
 
-The chest interior is lined with lead and contains 300 gp, a gold tankard embossed with a sad face that smiles when the tankard is filled (250 gp), and a stoppered bone tube containing a spell scroll of remove curse.
+The chest interior is lined with lead and contains 300 gp, a gold tankard embossed with a sad face that smiles when the tankard is filled (250 gp), and a stoppered bone tube containing a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md).
 
 ### 13. Stone Skull
 
@@ -634,9 +632,9 @@ The chest interior is lined with lead and contains 300 gp, a gold tankard emboss
 
 Any character who peers through the skull can see into area 14 (see the description below). The skull's jaws are opened wide enough to allow a Medium or smaller creature to climb though.
 
-Each time a creature climbs through the skull's jaws, one of the flames in its eye sockets snuffs out. The third time a creature climbs through, the jaws clamp shut, making a melee weapon attack with a +10 bonus. On a hit, the target creature takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) bludgeoning damage and is grappled (escape DC 19). While it remains grappled, the creature takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) bludgeoning damage at the start of each of its turns. When that creature exits the jaws, the flames in the skull's eye sockets reignite, the jaws open, and the trap resets.
+Each time a creature climbs through the skull's jaws, one of the flames in its eye sockets snuffs out. The third time a creature climbs through, the jaws clamp shut, making a melee weapon attack with a +10 bonus. On a hit, the target creature takes 22 (`4d10`) bludgeoning damage and is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 19). While it remains [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), the creature takes 5 (`1d10`) bludgeoning damage at the start of each of its turns. When that creature exits the jaws, the flames in the skull's eye sockets reignite, the jaws open, and the trap resets.
 
-The flames within the eye sockets give off no heat or smoke, and they can't be extinguished except in the manner described above. Any character searching the skull and succeeding on a DC 15 Wisdom (Perception) check notes that the lower jaw is hinged. A stout object jammed into the skull's jaw holds it open for as long as the object can withstand the damage. A detect magic spell or similar effect reveals an aura of transmutation magic around the skull.
+The flames within the eye sockets give off no heat or smoke, and they can't be extinguished except in the manner described above. Any character searching the skull and succeeding on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notes that the lower jaw is hinged. A stout object jammed into the skull's jaw holds it open for as long as the object can withstand the damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of transmutation magic around the skull.
 
 ### 14. Moa's Tomb
 
@@ -647,41 +645,41 @@ The flames within the eye sockets give off no heat or smoke, and they can't be e
 
 If the characters enter this tomb from the secret passage along the river, they see the concave inner surface of the stone skull at area 13.
 
-A maze of tiny passages is cut into the walls beyond the niches, and any character who succeeds on a DC 10 Wisdom (Perception) check can hear the faint yet grotesque scuttling of insects from within. Hundreds of tarantula-sized undead spiders crawl through these warrens.
+A maze of tiny passages is cut into the walls beyond the niches, and any character who succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check can hear the faint yet grotesque scuttling of insects from within. Hundreds of tarantula-sized undead spiders crawl through these warrens.
 
 #### Nepartak's Skull
 
-The skull in the crystal box belongs to [Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md), the 10-year-old granddaughter of Napaka, the last queen of Omu. The magic of the crystal box preserves her consciousness, but centuries of solitude and horror have caused her mind to blank out the details of her plight. The first character to enter the tomb hears [Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) call out telepathically:
+The skull in the crystal box belongs to [Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md), the 10-year-old granddaughter of Napaka, the last queen of Omu. The magic of the crystal box preserves her consciousness, but centuries of solitude and horror have caused her mind to blank out the details of her plight. The first character to enter the tomb hears [Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) call out telepathically:
 
 > [!readaloud] 
 > 
 > The voice of a young girl echoes in your mind: "What's happening? Why can't I see?"
 ^367
 
-[Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) magically senses the presence of intruders, using telepathy to question all the characters. Roleplay her as a terrified child lost in the dark. In her panic, she might ask any of the following questions:
+[Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) magically senses the presence of intruders, using telepathy to question all the characters. Roleplay her as a terrified child lost in the dark. In her panic, she might ask any of the following questions:
 
 - "Where am I? How did I get here?"  
 - "Why can't I see anything?"  
 - "Are you friends of my father? Is he looking for me?"  
 
-To safely explore this area, the characters must calm [Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) without revealing her true predicament. Lying to her requires a successful DC 12 Charisma (Deception) check. If the characters reveal that she's nothing more than a disembodied skull, if they fail three Charisma checks to deceive her, of if they simply ignore her, [Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) grows increasingly anxious, then flies into a murderous rage.
+To safely explore this area, the characters must calm [Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) without revealing her true predicament. Lying to her requires a successful DC 12 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. If the characters reveal that she's nothing more than a disembodied skull, if they fail three Charisma checks to deceive her, of if they simply ignore her, [Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) grows increasingly anxious, then flies into a murderous rage.
 
 > [!readaloud] 
 > 
 > The voice shrieks in horror as the skull's eye sockets flare with green flame. With a shattering crash, the crystal box explodes and the skull levitates into the air.
 ^368
 
-[Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) has the statistics of a [flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull.md) but doesn't speak, instead communicating using telepathy out to a range of 30 feet. When she attacks, swarms of mummified spiders pour out from the niches at the start of the following round.
+[Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) has the statistics of a [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) but doesn't speak, instead communicating using telepathy out to a range of 30 feet. When she attacks, swarms of mummified spiders pour out from the niches at the start of the following round.
 
 #### Undead Spider Warrens
 
-Six swarms of undead spiders inhabit the warrens within the walls of the tomb. They are treated as [swarms of insects (spiders)](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md), except that they are susceptible to effects that can target undead.
+Six swarms of undead spiders inhabit the warrens within the walls of the tomb. They are treated as [swarms of insects (spiders)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md), except that they are susceptible to effects that can target undead.
 
-The warrens are too narrow for Medium and larger creatures to enter, and Small creatures must squeeze to traverse them (see ""Movement and Position"" in chapter 9 of the *Player's Handbook*). Tiny creatures can move through the warrens freely. The swarms attack any creatures that enter the warrens or any creatures in Moa's tomb if [Nepartak](/3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) becomes enraged.
+The warrens are too narrow for Medium and larger creatures to enter, and Small creatures must squeeze to traverse them (see ""Movement and Position"" in chapter 9 of the *Player's Handbook*). Tiny creatures can move through the warrens freely. The swarms attack any creatures that enter the warrens or any creatures in Moa's tomb if [Nepartak](3-Mechanics/CLI/bestiary/npc/nepartak-toa.md) becomes enraged.
 
 #### Treasure
 
-The stone sarcophagus isn't locked and can be opened with a successful DC 15 Strength (Athletics) check. Inside, a bundle of faded cloth holds the serpentine bones of a jaculi (the trickster god Moa's animal form; see appendix D). A staff of the python rests atop these remains. The staff turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+The stone sarcophagus isn't locked and can be opened with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Inside, a bundle of faded cloth holds the serpentine bones of a jaculi (the trickster god Moa's animal form; see appendix D). A [staff of the python](3-Mechanics/CLI/items/staff-of-the-python-xdmg.md) rests atop these remains. The staff turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Moa's Spirit
 
@@ -692,7 +690,7 @@ The spirit of Moa tries to inhabit any character who touches the staff (see "Spi
 > Green smoke billows from the staff, coiling around you like a serpent. A sibilant voice whispers in your ear: "Let me help you! I promise to be good."
 ^36c
 
-If the spirit successfully inhabits the character, give the player [Moa's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Moa) (see appendix F). If the attempt fails, the spirit returns to the staff and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [Moa's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Moa) (see appendix F). If the attempt fails, the spirit returns to the staff and waits for another character to touch it.
 
 ### 15. Wind Tunnel
 
@@ -701,17 +699,17 @@ If the spirit successfully inhabits the character, give the player [Moa's card](
 > Carved birds soar across the walls of this corridor. Blocking the passage near its northern end is a large adamantine propeller with five sharp blades.
 ^36e
 
-With a successful DC 15 Wisdom (Perception) check, a character discerns that the entire floor of the corridor is a single pressure plate. The adamantine propeller has AC 20, 30 hit points, and immunity to all damage except force damage. It thunders into motion whenever more than 20 pounds of pressure is placed on the corridor floor. Once activated, the propeller spins up to full speed in 6 seconds. If the weight is removed from the floor, the blades take a full minute to slow to a stop.
+With a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, a character discerns that the entire floor of the corridor is a single pressure plate. The adamantine propeller has AC 20, 30 hit points, and immunity to all damage except force damage. It thunders into motion whenever more than 20 pounds of pressure is placed on the corridor floor. Once activated, the propeller spins up to full speed in 6 seconds. If the weight is removed from the floor, the blades take a full minute to slow to a stop.
 
-While the propeller is spinning up or slowing down, a creature can leap through a gap between two blades with a successful DC 20 Dexterity (Acrobatics) check. On a failed check, the character takes `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) slashing damage as it passes through the blades.
+While the propeller is spinning up or slowing down, a creature can leap through a gap between two blades with a successful DC 20 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. On a failed check, the character takes 33 (`6d10`) slashing damage as it passes through the blades.
 
-At full speed, the propeller deals `dice:12d10|noform|noparens|avg|text(66)` (`12d10`) slashing damage to any creature that passes through it, and the blades are turning too fast for a creature to leap between them. The rapidly spinning propeller also creates a wind tunnel effect, such that any creature that comes within 10 feet of the propeller or starts its turn there must succeed on a DC 15 Strength saving throw. A creature that fails the save is hurled northward into the pit in area 16. If this forced movement causes the creature to pass through the propeller, the creature takes damage from the spinning blades.
+At full speed, the propeller deals 66 (`12d10`) slashing damage to any creature that passes through it, and the blades are turning too fast for a creature to leap between them. The rapidly spinning propeller also creates a wind tunnel effect, such that any creature that comes within 10 feet of the propeller or starts its turn there must succeed on a DC 15 Strength saving throw. A creature that fails the save is hurled northward into the pit in area 16. If this forced movement causes the creature to pass through the propeller, the creature takes damage from the spinning blades.
 
-One can jam the propeller by fixing an immovable rod in place between two of the blades. Other magic items wedged between the blades are knocked aside as the propeller turns. The propeller destroys all nonmagical objects lodged between its spinning blades.
+One can jam the propeller by fixing an [immovable rod](3-Mechanics/CLI/items/immovable-rod-xdmg.md) in place between two of the blades. Other magic items wedged between the blades are knocked aside as the propeller turns. The propeller destroys all nonmagical objects lodged between its spinning blades.
 
-While the propeller is motionless, a creature that isn't incapacitated can jam the mechanism with its body. When the propeller begins to turn, the creature must make a DC 20 Strength (Athletics) check. If the check succeeds, the propeller is jammed until the start of the creature's next turn, when it can use its action to repeat the check. A creature that fails the check or chooses to extricate itself takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) slashing damage and is ejected north of the propeller.
+While the propeller is motionless, a creature that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) can jam the mechanism with its body. When the propeller begins to turn, the creature must make a DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. If the check succeeds, the propeller is jammed until the start of the creature's next turn, when it can use its action to repeat the check. A creature that fails the check or chooses to extricate itself takes 11 (`2d10`) slashing damage and is ejected north of the propeller.
 
-If the propeller is jammed for 3 consecutive rounds, it breaks down and becomes nonfunctional. At dawn the next day, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) sends tomb dwarves to repair the damage and return the trap to its operational state.
+If the propeller is jammed for 3 consecutive rounds, it breaks down and becomes nonfunctional. At dawn the next day, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) sends tomb dwarves to repair the damage and return the trap to its operational state.
 
 ### 16. Wongo's Tomb
 
@@ -736,9 +734,9 @@ The sarcophagus lid is carved with a stylized image of Wongo in his su-monster f
 
 Whenever one of the three chests is locked, a carved button magically appears on the sarcophagus lid above the monstrous image of Wongo. The material of each button matches its corresponding chest: onyx, rusty iron, or silver. Pressing the button simultaneously unlocks the associated chest and triggers a trap within it:
 
-- Pushing the onyx button forces any creature inside the onyx chest to succeed on a DC 15 Constitution saving throw or take `dice:10d6+40|noform|noparens|avg|text(75)` (`10d6 + 40`) force damage. A creature reduced to 0 hit points by this damage turns to a pile of dust, leaving behind whatever gear it was holding or wearing.  
+- Pushing the onyx button forces any creature inside the onyx chest to succeed on a DC 15 Constitution saving throw or take 75 (`10d6 + 40`) force damage. A creature reduced to 0 hit points by this damage turns to a pile of dust, leaving behind whatever gear it was holding or wearing.  
 - Pushing the rusty iron button causes any nonmagical metal objects inside the rusty iron chest (including objects carried or worn by a creature in the chest) to corrode into worthless piles of rust. Objects partly made of metal are ruined as their metal components decay.  
-- Pushing the silver button causes any creature inside the silver chest to make a DC 15 Constitution saving throw, taking `dice:10d8|noform|noparens|avg|text(45)` (`10d8`) cold damage on a failed save, or half as much damage on a successful one.  
+- Pushing the silver button causes any creature inside the silver chest to make a DC 15 Constitution saving throw, taking 45 (`10d8`) cold damage on a failed save, or half as much damage on a successful one.  
 
 Once all three buttons on the sarcophagus lid have been pressed, read:
 
@@ -747,11 +745,11 @@ Once all three buttons on the sarcophagus lid have been pressed, read:
 > The stone sarcophagus turns to transparent crystal, revealing a mummified monkey-like creature within. Clutched in its desiccated claws is a fearsome mace.
 ^373
 
-When the sarcophagus turns crystalline, it becomes brittle, having AC 5, 10 hit points, vulnerability to bludgeoning and thunder damage, and immunity to poison and psychic damage. It shatters if reduced to 0 hit points, whereupon the su-monster [mummy](/3-Mechanics/CLI/bestiary/undead/mummy.md) within animates and attacks. In its first round of combat, the mummy activates its mace of terror to unleash a wave of terror against the characters. Thereafter, it makes melee attacks using the mace or its rotting fists.
+When the sarcophagus turns crystalline, it becomes brittle, having AC 5, 10 hit points, vulnerability to bludgeoning and thunder damage, and immunity to poison and psychic damage. It shatters if reduced to 0 hit points, whereupon the su-monster [mummy](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) within animates and attacks. In its first round of combat, the mummy activates its [mace of terror](3-Mechanics/CLI/items/mace-of-terror-xdmg.md) to unleash a wave of terror against the characters. Thereafter, it makes melee attacks using the mace or its rotting fists.
 
 #### Treasure
 
-Wongo's mummy clutches a mace of terror. The mace turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+Wongo's mummy clutches a [mace of terror](3-Mechanics/CLI/items/mace-of-terror-xdmg.md). The mace turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Wongo's Spirit
 
@@ -762,7 +760,7 @@ Wongo's spirit is bound to the mace. If the mace hits or otherwise comes into co
 > Red smoke seethes from the head of the mace, forming the outline of a monkey with a long tail. With a roar, the smoky apparition leaps at you, screaming, "Let me in!"
 ^376
 
-If the spirit successfully inhabits the character, give the player [Wongo's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Wongo) (see appendix F). If the attempt fails, the spirit returns to the mace and waits for another character to come into contact with it. The mummy is friendly toward any character inhabited by Wongo's spirit, treating that character as an ally.
+If the spirit successfully inhabits the character, give the player [Wongo's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Wongo) (see appendix F). If the attempt fails, the spirit returns to the mace and waits for another character to come into contact with it. The mummy is friendly toward any character inhabited by Wongo's spirit, treating that character as an ally.
 
 ### 17. Underground Waterfall
 
@@ -771,21 +769,21 @@ If the spirit successfully inhabits the character, give the player [Wongo's card
 > The underground river plunges down into a dark, rocky chasm. Cold air swirls up from below like the breath of some monstrous creature. Through the gloom, you spot an ornate treasure chest resting on a ledge opposite.
 ^378
 
-The treasure chest is a [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md) in disguise. If any creature touches it, the mimic attacks in object form.
+The treasure chest is a [mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) in disguise. If any creature touches it, the mimic attacks in object form.
 
 #### Ledge
 
-The ledge is 15 feet from the lip of the waterfall. A successful DC 14 Strength (Athletics) check is required to climb around to the ledge.
+The ledge is 15 feet from the lip of the waterfall. A successful DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check is required to climb around to the ledge.
 
-The ledge is slippery and uneven. Any creature that takes damage while standing on the ledge must succeed on a DC 10 Dexterity saving throw or fall into the rift, plunging 100 feet into the water at area 64. The fall deals `dice:10d6|noform|noparens|avg|text(35)` (`10d6`) bludgeoning damage, or no damage with a successful DC 10 Dexterity saving throw.
+The ledge is slippery and uneven. Any creature that takes damage while standing on the ledge must succeed on a DC 10 Dexterity saving throw or fall into the rift, plunging 100 feet into the water at area 64. The fall deals 35 (`10d6`) bludgeoning damage, or no damage with a successful DC 10 Dexterity saving throw.
 
 ## Level 2: Dungeon of Deception
 
 Map 5.2 shows this level of the dungeon. Mocking devil faces are graven into the walls, and the air reeks of rotting flesh. With no light to nourish it, the vegetation that fills much of level 1 doesn't extend down here.
 
 > [!gallery]
-> ![Map 5.2: Dungeon of Deception](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/069-506.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/070-506a.webp#gallery)
+> ![Map 5.2: Dungeon of Deception](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/069-506.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/070-506a.webp#gallery)
 
 ### 18. Devil Pit
 
@@ -794,9 +792,9 @@ Map 5.2 shows this level of the dungeon. Mocking devil faces are graven into the
 > The walls and floor of this fifteen-foot-square room are cracked and carved with images of terrified humanoids falling. Set into the middle of the floor is a stone bas-relief of a bearded devil face, painted green. Forlorn cries echo from the black void of its gaping maw.
 ^37c
 
-The devil face forms the mouth of a 5-foot-wide cylindrical shaft that descends 10 feet before opening up in the ceiling of area 35. Magical darkness fills the mouth and the shaft. A detect magic spell or similar effect reveals auras of evocation and illusion magic within the shaft.
+The devil face forms the mouth of a 5-foot-wide cylindrical shaft that descends 10 feet before opening up in the ceiling of area 35. Magical darkness fills the mouth and the shaft. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals auras of evocation and illusion magic within the shaft.
 
-A successful dispel magic (DC 16) cast on the darkness dispels it. If the darkness is dispelled, its fading essence magically coalesces into a [swarm of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md) that flies up out of the shaft and attacks any creatures in the room.
+A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) cast on the darkness dispels it. If the darkness is dispelled, its fading essence magically coalesces into a [swarm of bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) that flies up out of the shaft and attacks any creatures in the room.
 
 ### 19. Gravity Ring
 
@@ -805,7 +803,7 @@ A successful dispel magic (DC 16) cast on the darkness dispels it. If the darkne
 > At a four-way intersection, the corridors to north and south curve upward and out of sight, but with no rails or steps to allow them to be climbed. The corpse of a half-human, half-goat creature in robes sprawls ten feet to the north. It grips a staff tipped with a bronze goat's head.
 ^37e
 
-The curving corridor forms a perfect circle, imbued with magical gravity that keeps creatures bound to the floor as they walk along it. A detect magic spell or similar effect reveals an aura of transmutation within the corridor.
+The curving corridor forms a perfect circle, imbued with magical gravity that keeps creatures bound to the floor as they walk along it. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of transmutation within the corridor.
 
 The corpse belongs to Devlin Bashir, a Calishite wizard and member of the Company of the Yellow Banner. Devlin's goat-like features are the result of a curse, and he was killed by tomb dwarves after he became separated from his companions. Any inspection of his remains reveals that he was killed by wounds from axes and crossbow bolts. Devlin's ink-stained robes contain a journal that hints at the tomb's mysteries (see "Devlin's Journal" below). A search of the corpse also yields more valuable belongings (see "Treasure" below).
 
@@ -820,9 +818,9 @@ Any characters inhabited by the spirits of Papazotl or Shagambi receive advice w
 
 The halfway point of the circular corridor, directly "opposite" the intersection, is an invisible planar gate that cannot be detected with magic. Any creature passing through this gate emerges into a parallel reality. Characters who walk the length of the circular corridor notice that Devlin's body is no longer present—nor are any companions who waited behind for them. If they step back through the gate, they return to their own world.
 
-To test his traps, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) crafted a "mirror tomb" and hid it inside a demiplane. This mirror tomb is identical to the real tomb as it stood exactly one year ago. All objects and creatures encountered in the mirror tomb appear real, but they fade away if taken to the real world. The mirror tomb has the same magical defenses as the true tomb, and any character who dies in the demiplane is trapped by the Soulmonger.
+To test his traps, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) crafted a "mirror tomb" and hid it inside a demiplane. This mirror tomb is identical to the real tomb as it stood exactly one year ago. All objects and creatures encountered in the mirror tomb appear real, but they fade away if taken to the real world. The mirror tomb has the same magical defenses as the true tomb, and any character who dies in the demiplane is trapped by the Soulmonger.
 
-Each dawn, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic replaces the mirror tomb with a fresh fabrication. Slain monsters reappear in their original locations, and moved objects teleport back to where they were found. When this occurs, characters inside the mirror tomb witness a strange distortion ripple through the air.
+Each dawn, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic replaces the mirror tomb with a fresh fabrication. Slain monsters reappear in their original locations, and moved objects teleport back to where they were found. When this occurs, characters inside the mirror tomb witness a strange distortion ripple through the air.
 
 #### Devlin's Journal
 
@@ -834,24 +832,24 @@ Any character who spends 10 minutes poring over the journal can note a few brief
 
 A search of Devlin's body also turns up an ink pot that never runs dry (100 gp) and a spellbook containing the following spells:
 
-1st level: alarm, comprehend languages, detect magic, expeditious retreat, identify, illusory script, sleep, Tenser's floating disk
+1st level: [alarm](3-Mechanics/CLI/spells/alarm-xphb.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat-xphb.md), [identify](3-Mechanics/CLI/spells/identify-xphb.md), [illusory script](3-Mechanics/CLI/spells/illusory-script-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md), [Tenser's floating disk](3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md)
 
-2nd level: arcane lock, cloud of daggers, flaming sphere, knock
+2nd level: [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md), [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers-xphb.md), [flaming sphere](3-Mechanics/CLI/spells/flaming-sphere-xphb.md), [knock](3-Mechanics/CLI/spells/knock-xphb.md)
 
-3rd level: dispel magic, fireball
+3rd level: [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md)
 
-Devlin's staff is a staff of striking, but any character who attunes to it transforms into a goat-humanoid hybrid over the course of 3 days. Tieflings are immune to this curse. Throughout the first day, shaggy fur begins to grow all over the cursed character's body. After 24 hours, the character's eyes become goat-like, and stumpy horns sprout from the brow. On the last day, the character's fingers and toes meld into double digits, and the horns grow to full length. This transformation doesn't prevent the character from wielding weapons or casting spells. Remove curse, greater restoration, or any other effect that ends a curse restores the character's original appearance, but only a wish spell can rid the staff of its power to transform those who attune to it.
+Devlin's staff is a [staff of striking](3-Mechanics/CLI/items/staff-of-striking-xdmg.md), but any character who attunes to it transforms into a goat-humanoid hybrid over the course of 3 days. Tieflings are immune to this curse. Throughout the first day, shaggy fur begins to grow all over the cursed character's body. After 24 hours, the character's eyes become goat-like, and stumpy horns sprout from the brow. On the last day, the character's fingers and toes meld into double digits, and the horns grow to full length. This transformation doesn't prevent the character from wielding weapons or casting spells. [Remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), or any other effect that ends a curse restores the character's original appearance, but only a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can rid the staff of its power to transform those who attune to it.
 
 ### 20. False Tomb
 
-Nested in the ceiling of the western tunnel is a stone block. A character who searches the tunnel spots the block with a successful DC 15 Wisdom (Perception) check. The block is part of the room's trap (see "Trap" below).
+Nested in the ceiling of the western tunnel is a stone block. A character who searches the tunnel spots the block with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The block is part of the room's trap (see "Trap" below).
 
 > [!readaloud] 
 > 
 > This room smells of wine. On a checkerboard marble floor, a gilded coffin sparkles in sunlight streaming down from the chamber's vaulted ceiling, which arches twelve feet overhead. Four huge stone gargoyle heads, their mouths agape, protrude from the walls.
 ^384
 
-Illusion magic generates the sunlight that shines on the coffin. This light is treated as real sunlight, and creatures averse to sunlight are affected by it. The gargoyle heads are 5 feet tall and 5 feet wide, with mouths that are 2 feet in diameter. Behind each head, an airtight stone valve blocks a crawlway. The valves remain closed until the room's trap activates, though a knock spell or a successful DC 25 Strength (Athletics) check can force open a valve. Casting dispel magic on the illusory sunlight dispels it and prevents the trap from triggering.
+Illusion magic generates the sunlight that shines on the coffin. This light is treated as real sunlight, and creatures averse to sunlight are affected by it. The gargoyle heads are 5 feet tall and 5 feet wide, with mouths that are 2 feet in diameter. Behind each head, an airtight stone valve blocks a crawlway. The valves remain closed until the room's trap activates, though a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check can force open a valve. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the illusory sunlight dispels it and prevents the trap from triggering.
 
 #### Advice from the Spirits
 
@@ -862,18 +860,18 @@ Any characters inhabited by the spirits of Kubazan or Moa receive advice when en
 
 #### Trap
 
-The closed coffin is stuck to the floor with sovereign glue and has a hinged lid. A detect magic spell or similar effect reveals an aura of abjuration magic around the coffin. A wooden plaque inside the coffin reads "Drown your sorrows" in Common.
+The closed coffin is stuck to the floor with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md) and has a hinged lid. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of abjuration magic around the coffin. A wooden plaque inside the coffin reads "Drown your sorrows" in Common.
 
-If the illusory sunlight falling from the ceiling strikes the plaque when the coffin is opened, the stone block in the corridor outside the room slowly descends, sealing the entrance in 6 seconds. A creature that wishes to enter or leave the tomb during this time can do so, moving up to its speed. If the creature ends its movement under the block, it must make a DC 15 Dexterity saving throw. If the save succeeds, the creature manages to get out from under the block on the side it was moving toward. If the save fails, the creature takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage. If this damage reduces the creature's hit points to 0, it is crushed to a pulp; otherwise, the creature is shoved into the room. The block is impervious to damage and spells. When fully lowered, the block is air-tight and refuses to be budged.
+If the illusory sunlight falling from the ceiling strikes the plaque when the coffin is opened, the stone block in the corridor outside the room slowly descends, sealing the entrance in 6 seconds. A creature that wishes to enter or leave the tomb during this time can do so, moving up to its speed. If the creature ends its movement under the block, it must make a DC 15 Dexterity saving throw. If the save succeeds, the creature manages to get out from under the block on the side it was moving toward. If the save fails, the creature takes 55 (`10d10`) bludgeoning damage. If this damage reduces the creature's hit points to 0, it is crushed to a pulp; otherwise, the creature is shoved into the room. The block is impervious to damage and spells. When fully lowered, the block is air-tight and refuses to be budged.
 
-Four enormous cisterns filled with red wine are hidden in the walls behind the gargoyle heads. When the stone block seals off the entrance, the valves behind the heads open, causing the wine to pour from the gargoyles' mouths and nostrils. The wine floods the tomb at a rate of 1 foot per round. Trying to crawl into a gargoyle's mouth while wine is gushing out of it requires a successful DC 25 Strength (Athletics) check.
+Four enormous cisterns filled with red wine are hidden in the walls behind the gargoyle heads. When the stone block seals off the entrance, the valves behind the heads open, causing the wine to pour from the gargoyles' mouths and nostrils. The wine floods the tomb at a rate of 1 foot per round. Trying to crawl into a gargoyle's mouth while wine is gushing out of it requires a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 As the wine begins pouring into the room, all creatures present must roll initiative. Track the passage of rounds:
 
-- At the start of round 3, three wine weirds (use [water weird](/3-Mechanics/CLI/bestiary/elemental/water-weird.md) statistics) flow into the tomb from the northwest, northeast, and southeast cisterns. The weirds attack anyone in the tomb and are invisible while fully immersed in wine.  
+- At the start of round 3, three wine weirds (use [water weird](3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md) statistics) flow into the tomb from the northwest, northeast, and southeast cisterns. The weirds attack anyone in the tomb and are [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) while fully immersed in wine.  
 - After 12 rounds, the wine fills the tomb. Use the underwater combat rules in "chapter 9" of the *Player's Handbook* to handle fighting in these conditions. Visibility within the wine is limited to 5 feet.  
 
-The ability to breathe water does not help a character drowning in wine. When 10 minutes have passed, the stone block sealing the tomb rises back up to its niche in the ceiling. The wine cascades down the west tunnel, pouring down the grand staircase (area 7). At dawn the next day, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) sends tomb dwarves to clean up the room and tunnel, after which the wine cisterns magically refill and the trap resets.
+The ability to breathe water does not help a character drowning in wine. When 10 minutes have passed, the stone block sealing the tomb rises back up to its niche in the ceiling. The wine cascades down the west tunnel, pouring down the grand staircase (area 7). At dawn the next day, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) sends tomb dwarves to clean up the room and tunnel, after which the wine cisterns magically refill and the trap resets.
 
 #### Escape Tunnel
 
@@ -888,9 +886,9 @@ Adventurers on the balcony hear guttural moans coming from this door.
 > Three oval holes are carved into a nine-foot-wide, nine-foot-high stone door at human head height. As you approach, three humanoid heads stick out of the holes, each covered in putrid flesh and gnashing on an iron bit bolted to a chain bridle.
 ^389
 
-The gnashing heads belong to three [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md) that are chained to a pulley bolted to the ceiling on the south side of the door. The pulley is set up in such a way that when all three zombies move away from the door, they heave it open. The zombies won't move while fresh meat tempts them from the balcony, but if they are successfully turned, they raise the door as they flee toward the south.
+The gnashing heads belong to three [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) that are chained to a pulley bolted to the ceiling on the south side of the door. The pulley is set up in such a way that when all three zombies move away from the door, they heave it open. The zombies won't move while fresh meat tempts them from the balcony, but if they are successfully turned, they raise the door as they flee toward the south.
 
-The door weighs 1,000 pounds. Characters with a combined Strength score of 33 or more can lift the door. The zombies attack any creatures they can reach. [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his tomb dwarves replace destroyed zombies within 24 hours.
+The door weighs 1,000 pounds. Characters with a combined Strength score of 33 or more can lift the door. The zombies attack any creatures they can reach. [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his tomb dwarves replace destroyed zombies within 24 hours.
 
 ### 22. Papazotl's Tomb
 
@@ -910,15 +908,15 @@ Any characters inhabited by the spirits of Nangnang or Obo'laka receive advice w
 
 #### Glass Cauldrons
 
-Disturbing the chariot, the sarcophagus, or the treasure lying atop it causes twelve [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton.md) to crawl out of the glass cauldrons (two per cauldron). All the skeletons act on the same initiative count. A cauldron disgorges one additional [skeleton](/3-Mechanics/CLI/bestiary/undead/skeleton.md) at the start of the skeletons' turn each round until the cauldron is destroyed or the tomb is cleared of interlopers. When no enemies remain, any remaining skeletons return to the cauldrons.
+Disturbing the chariot, the sarcophagus, or the treasure lying atop it causes twelve [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) to crawl out of the glass cauldrons (two per cauldron). All the skeletons act on the same initiative count. A cauldron disgorges one additional [skeleton](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) at the start of the skeletons' turn each round until the cauldron is destroyed or the tomb is cleared of interlopers. When no enemies remain, any remaining skeletons return to the cauldrons.
 
-Destroying the cauldrons stops the flow of skeletons, as does bowing before the faceless statue ("Bow before no one"). Each cauldron is a Large object with AC 15, 22 hit points, vulnerability to bludgeoning and thunder damage, and immunity to poison and psychic damage. A detect magic spell or similar effect reveals an aura of conjuration around the cauldrons. An empty cauldron weighs 500 pounds.
+Destroying the cauldrons stops the flow of skeletons, as does bowing before the faceless statue ("Bow before no one"). Each cauldron is a Large object with AC 15, 22 hit points, vulnerability to bludgeoning and thunder damage, and immunity to poison and psychic damage. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of conjuration around the cauldrons. An empty cauldron weighs 500 pounds.
 
 #### Bronze Shield
 
-The bronze shield hangs from the wall on leather straps. It radiates conjuration magic to a detect magic spell or similar effect.
+The bronze shield hangs from the wall on leather straps. It radiates conjuration magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect.
 
-If the chariot, the sarcophagus, or the treasure is disturbed, or if the shield is removed from the wall, the hunter embossed on it animates. Each round on initiative count 20, it flings a magical spear of force at the nearest character it can see, ignoring any creature that has bowed before the faceless bronze statue. The hunter can't see any creature behind the front-facing side of the shield. When it hurls a spear at a creature, the hunter makes a ranged spell attack (+10 to hit) and deals `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) force damage on a hit. A target reduced to 0 hit points by this attack is disintegrated and turns to dust.
+If the chariot, the sarcophagus, or the treasure is disturbed, or if the shield is removed from the wall, the hunter embossed on it animates. Each round on initiative count 20, it flings a magical spear of force at the nearest character it can see, ignoring any creature that has bowed before the faceless bronze statue. The hunter can't see any creature behind the front-facing side of the shield. When it hurls a spear at a creature, the hunter makes a ranged spell attack (`+10` to hit) and deals 18 (`4d8`) force damage on a hit. A target reduced to 0 hit points by this attack is disintegrated and turns to dust.
 
 To stop the shield's hunter from attacking, a character must blind it by draping something opaque over the shield (such as a sack or cloak) or turning the shield to face a wall. The shield can also be destroyed; it has AC 15, 10 hit points, and is immune to all damage except force damage. If taken from the room, the shield vanishes and reappears on the wall between the statues.
 
@@ -928,18 +926,18 @@ The sarcophagus contains the brittle skull and bones of an eblis (Papazotl's ani
 
 #### Treasure
 
-The following treasures are strewn atop the sarcophagus: a gold torc (250 gp), three gold cups (75 gp each), five gold cloak pins (25 gp each), and an amulet of health. The amulet turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+The following treasures are strewn atop the sarcophagus: a gold torc (250 gp), three gold cups (75 gp each), five gold cloak pins (25 gp each), and an [amulet of health](3-Mechanics/CLI/items/amulet-of-health-xdmg.md). The amulet turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Papazotl's Spirit
 
-The spirit of Papazotl tries to inhabit any character who touches the amulet of health (see "Spirits of the Nine Trickster Gods"). When Papazotl's spirit manifests, read:
+The spirit of Papazotl tries to inhabit any character who touches the [amulet of health](3-Mechanics/CLI/items/amulet-of-health-xdmg.md) (see "Spirits of the Nine Trickster Gods"). When Papazotl's spirit manifests, read:
 
 > [!readaloud] 
 > 
 > Strange shadows shift across the walls, forming the outline of a long-legged bird. Its beak stabs at you as a voice echoes through your mind: "You will do as I command!"
 ^392
 
-If the spirit successfully inhabits the character, give the player [Papazotl's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Papazotl) (see appendix F). If the attempt fails, the spirit returns to the amulet and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [Papazotl's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Papazotl) (see appendix F). If the attempt fails, the spirit returns to the amulet and waits for another character to touch it.
 
 ### 23. Bottled Genie
 
@@ -948,9 +946,9 @@ If the spirit successfully inhabits the character, give the player [Papazotl's c
 > Ancient cobwebs fill this narrow corridor, whose midpoint features an arched alcove. Within the alcove, a dusty bottle stands on a table.
 ^394
 
-The bottle is stoppered and contains a [dao](/3-Mechanics/CLI/bestiary/elemental/dao.md) named Keshma al-Wazir, who was trapped centuries ago by [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md). Anyone examining the bottle spots the genie waving from within and hears her muffled voice calling out. Keshma speaks Terran only. At first, she orders the characters to release her. If they refuse, she tries to bargain with them (see "Roleplaying the Dao" below). While trapped inside the bottle, Keshma can't attack or cast spells. Once she's released, she can cast the tongues spell to better communicate with her liberators.
+The bottle is stoppered and contains a [dao](3-Mechanics/CLI/bestiary/elemental/dao-xmm.md) named Keshma al-Wazir, who was trapped centuries ago by [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md). Anyone examining the bottle spots the genie waving from within and hears her muffled voice calling out. Keshma speaks Terran only. At first, she orders the characters to release her. If they refuse, she tries to bargain with them (see "Roleplaying the Dao" below). While trapped inside the bottle, Keshma can't attack or cast spells. Once she's released, she can cast the [tongues](3-Mechanics/CLI/spells/tongues-xphb.md) spell to better communicate with her liberators.
 
-If the bottle is broken or unplugged, the dao emerges in a whirlwind of sand. She fulfills whatever promise she made to the characters in exchange for her freedom, then casts plane shift in an effort to return to the Elemental Plane of Earth. (The attempt fails, naturally, and she winds up trapped in area 57.)
+If the bottle is broken or unplugged, the dao emerges in a whirlwind of sand. She fulfills whatever promise she made to the characters in exchange for her freedom, then casts [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) in an effort to return to the Elemental Plane of Earth. (The attempt fails, naturally, and she winds up trapped in area 57.)
 
 #### Advice from the Spirits
 
@@ -968,7 +966,7 @@ At first, Keshma promises the characters riches in exchange for freedom—the sa
 
 Once freed, Keshma remains true to her word. However, she won't tolerate any slight to her honor. If she feels insulted, she attacks the characters and attempts to enslave them.
 
-The dao could become a thorn in the characters' side or a difficult ally. Her ignorance of the tomb's defenses confines her to area 57 if she casts plane shift. If she escapes from area 57, she expects the characters to help her find a safe way out of the tomb. When she learns of the trickster gods, Keshma encourages the characters to seek them out and use them to defeat [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md).
+The dao could become a thorn in the characters' side or a difficult ally. Her ignorance of the tomb's defenses confines her to area 57 if she casts [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md). If she escapes from area 57, she expects the characters to help her find a safe way out of the tomb. When she learns of the trickster gods, Keshma encourages the characters to seek them out and use them to defeat [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md).
 
 #### Treasure
 
@@ -981,7 +979,7 @@ The dao wears two sapphire cords (1,250 gp each), two platinum armbands engraved
 > The air here reeks of sulfur and brimstone. On the floor of this chamber, a pentagram traced in salt surrounds an ornate sarcophagus, its lid covered with figurines of prancing frog-like humanoids.
 ^399
 
-An invisible [gray slaad](/3-Mechanics/CLI/bestiary/aberration/gray-slaad.md) paces inside the salt pentagram. Magical wards prevent the slaad from disturbing the salt or leaving the circle's confines. If another creature attacks the slaad, enters the area of the boundary circle, or breaks any part of the circle or pentagram by sweeping or brushing away the salt, the slaad is freed. Hungry for carnage, the creature vents its rage on the characters before leaving the room in search of its control gem, not knowing that it is kept in area 28.
+An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [gray slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md) paces inside the salt pentagram. Magical wards prevent the slaad from disturbing the salt or leaving the circle's confines. If another creature attacks the slaad, enters the area of the boundary circle, or breaks any part of the circle or pentagram by sweeping or brushing away the salt, the slaad is freed. Hungry for carnage, the creature vents its rage on the characters before leaving the room in search of its control gem, not knowing that it is kept in area 28.
 
 #### Advice from the Spirits
 
@@ -992,13 +990,13 @@ Any characters inhabited by the spirits of Obo'laka or Wongo receive advice when
 
 #### Sarcophagus
 
-Arranged atop the sarcophagus are twelve painted wooden statuettes depicting grungs. They are cute but worthless. The lid of the sarcophagus can be lifted and pushed aside with a successful DC 17 Strength (Athletics) check. Within is a varnished clay urn containing the skull and bones of a grung (Nangnang's animal form; see appendix D), as well as a number of valuables (see "Treasure" below).
+Arranged atop the sarcophagus are twelve painted wooden statuettes depicting grungs. They are cute but worthless. The lid of the sarcophagus can be lifted and pushed aside with a successful DC 17 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Within is a varnished clay urn containing the skull and bones of a grung (Nangnang's animal form; see appendix D), as well as a number of valuables (see "Treasure" below).
 
-A detect magic spell or similar effect reveals an aura of enchantment surrounding the clay urn. The first creature to touch the urn or disturb its contents must succeed on a DC 21 Wisdom saving throw or be affected by an Otto's irresistible dance spell. Until the effect ends, the creature also takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage at the end of each of its turns as discordant, percussive music overwhelms its mind. Any creature under the effect of a mind blank spell or similar magic doesn't hear this music or suffer the psychic damage. A successful dispel magic (DC 18) dismisses the effect on the urn, allowing it to be touched safely.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of enchantment surrounding the clay urn. The first creature to touch the urn or disturb its contents must succeed on a DC 21 Wisdom saving throw or be affected by an [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md) spell. Until the effect ends, the creature also takes 11 (`2d10`) psychic damage at the end of each of its turns as discordant, percussive music overwhelms its mind. Any creature under the effect of a [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md) spell or similar magic doesn't hear this music or suffer the psychic damage. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 18) dismisses the effect on the urn, allowing it to be touched safely.
 
 #### Treasure
 
-Inside the sarcophagus are a potion of poison disguised as a potion of supreme healing and a petrified grung egg that functions as a pearl of power. A spellcaster that attunes to the egg also gains resistance to poison damage. The egg turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+Inside the sarcophagus are a [potion of poison](3-Mechanics/CLI/items/potion-of-poison-xdmg.md) disguised as a [potion of supreme healing](3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md) and a petrified grung egg that functions as a [pearl of power](3-Mechanics/CLI/items/pearl-of-power-xdmg.md). A spellcaster that attunes to the egg also gains resistance to poison damage. The egg turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Nangnang's Spirit
 
@@ -1009,7 +1007,7 @@ The spirit of Nangnang tries to inhabit any character who touches the egg (see "
 > As you touch the egg, a tendril of slime rises from its surface and transforms into a frog-like head that bobs toward you. A croaking voice sounds out in your mind: "Nangnang will help you now."
 ^39e
 
-If the spirit successfully inhabits the character, give the player [Nangnang's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Nangnang) (see appendix F). If the attempt fails, the spirit returns to the egg and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [Nangnang's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Nangnang) (see appendix F). If the attempt fails, the spirit returns to the egg and waits for another character to touch it.
 
 ### 25. Scrying Pool
 
@@ -1018,23 +1016,23 @@ If the spirit successfully inhabits the character, give the player [Nangnang's c
 > Behind the secret door, water fills a carved stone font.
 ^3a0
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) uses this font to speak to creatures outside the tomb and contact his [tomb guardian](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md). A detect magic spell or similar effect reveals an aura of divination over the water. When any character gazes into the font, read:
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) uses this font to speak to creatures outside the tomb and contact his [tomb guardian](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md). A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of divination over the water. When any character gazes into the font, read:
 
 > [!readaloud] 
 > 
 > As the water begins to swirl, eerie light emanates from within the basin. Slowly, an image resolves on the water's surface.
 ^3a1
 
-Those gazing into the font can see through the eyes of a random tomb guardian as it patrols the dungeon. Pick a random level (or roll a `dice:d6|noform|noparens|avg` (`d6`)) and describe the guardian's path through it. The guardian relies on darkvision to see, so images in the pool are in black and white. The images fade and the scrying effect ends if no character gazes into the water.
+Those gazing into the font can see through the eyes of a random tomb guardian as it patrols the dungeon. Pick a random level (or roll a `d6`) and describe the guardian's path through it. The guardian relies on [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) to see, so images in the pool are in black and white. The images fade and the scrying effect ends if no character gazes into the water.
 
-Unless one of the characters gazing into the pool is wearing an [amulet of the black skull](/3-Mechanics/CLI/items/amulet-of-the-black-skull-toa.md) (see appendix C and area 28), the tomb guardian becomes aware of the party's scrying after 1 minute. When that happens, read:
+Unless one of the characters gazing into the pool is wearing an [amulet of the black skull](3-Mechanics/CLI/items/amulet-of-the-black-skull-toa.md) (see appendix C and area 28), the tomb guardian becomes aware of the party's scrying after 1 minute. When that happens, read:
 
 > [!readaloud] 
 > 
 > The surface of the pool explodes, and a hulking figure wearing plate armor and a bucket helm heaves itself up from the font.
 ^3a2
 
-The [tomb guardian](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) is a [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) clad in plate armor (AC 17). As it emerges from the font, it attacks everyone in the chamber, fighting until destroyed. When the guardian appears, the pool loses its scrying power until the next dawn.
+The [tomb guardian](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) is a [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) clad in plate armor (AC 17). As it emerges from the font, it attacks everyone in the chamber, fighting until destroyed. When the guardian appears, the pool loses its scrying power until the next dawn.
 
 ### 26. Spiral Staircase
 
@@ -1043,7 +1041,7 @@ The [tomb guardian](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) is
 > Three archways overlook a circular chamber where a spiral staircase descends into darkness. The staircase walls are lined with unlit torches in iron sconces and set with niches containing moldering humanoid skulls and bones.
 ^3a4
 
-This staircase descends from level 2 to levels 3, 4, and 5, with each level 25 feet below the level above. The bones and skulls in the niches belong to dead Omuans whom [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) sacrificed to build the tomb. [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his tomb dwarves use these stairs to move between levels.
+This staircase descends from level 2 to levels 3, 4, and 5, with each level 25 feet below the level above. The bones and skulls in the niches belong to dead Omuans whom [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) sacrificed to build the tomb. [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) and his tomb dwarves use these stairs to move between levels.
 
 The torches can be removed from their brackets and taken elsewhere.
 
@@ -1054,30 +1052,30 @@ The torches can be removed from their brackets and taken elsewhere.
 > Old wooden benches and shelves along the walls of this chamber are covered with gears, chains, trap components, and cages filled with rats. Lit iron braziers hang by chains from the ceiling. Along the north wall, a stepped dais is set with a bulky contraption: an iron maiden of sorts, attached to a network of steaming pistons, tubes, and bubbling vats of blood. Five masked dwarves operate the contraption.
 ^3a6
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/071-504.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/071-504.webp#center)
 
-When the characters arrive, five tomb dwarves are working inside the chamber. Each one has the statistics of a [wight](/3-Mechanics/CLI/bestiary/undead/wight.md), except that it wields a battleaxe and a light crossbow. If the adventurers leave this area, there's a 50 percent chance that `dice:1d4|noform|noparens|avg` (`1d4`) of the other tomb dwarves prowling the dungeon are present when they return.
+When the characters arrive, five tomb dwarves are working inside the chamber. Each one has the statistics of a [wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md), except that it wields a battleaxe and a light crossbow. If the adventurers leave this area, there's a 50 percent chance that `1d4` of the other tomb dwarves prowling the dungeon are present when they return.
 
-Any character who searches the forge uncovers enough gear to assemble two sets of thieves' tools, a set of artisan's tools, a set of alchemist's supplies, a set of mason's tools, and a set of smith's tools. The caged rats are used to test traps.
+Any character who searches the forge uncovers enough gear to assemble two sets of [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), a set of [artisan's tools](3-Mechanics/CLI/items/artisans-tools-xphb.md), a set of [alchemist's supplies](3-Mechanics/CLI/items/alchemists-supplies-xphb.md), a set of [mason's tools](3-Mechanics/CLI/items/masons-tools-xphb.md), and a set of [smith's tools](3-Mechanics/CLI/items/smiths-tools-xphb.md). The caged rats are used to test traps.
 
 #### Iron Kiln
 
-The dwarves use the iron contraption on the dais to craft [tomb guardians](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) from the corpses of slain adventurers. As the characters arrive, the tomb dwarves are in the process of unleashing their newest creation.
+The dwarves use the iron contraption on the dais to craft [tomb guardians](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) from the corpses of slain adventurers. As the characters arrive, the tomb dwarves are in the process of unleashing their newest creation.
 
 > [!readaloud] 
 > 
 > The iron contraption shudders as it opens, releasing a hissing cloud of steam. Through the roiling vapor, an armored figure wearing a bucket helm stomps into view.
 ^3a8
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/072-507.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/072-507.webp#center)
 
-The creature that emerges from the contraption is a [tomb guardian](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md)—a [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) encased in plate armor (AC 17). This guardian was fashioned using the salvaged remains of Seward, an adventurer with the Company of the Yellow Banner, and a number of other unfortunate trespassers. Now a mindless undead, it attacks the characters on sight.
+The creature that emerges from the contraption is a [tomb guardian](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md)—a [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) encased in plate armor (AC 17). This guardian was fashioned using the salvaged remains of Seward, an adventurer with the Company of the Yellow Banner, and a number of other unfortunate trespassers. Now a mindless undead, it attacks the characters on sight.
 
 #### Treasure
 
-Any character who searches the forge finds a [ghost lantern](/3-Mechanics/CLI/items/ghost-lantern-toa.md) (see appendix C) that once belonged to Seward. It lies on a bench next to some tools.
+Any character who searches the forge finds a [ghost lantern](3-Mechanics/CLI/items/ghost-lantern-toa.md) (see appendix C) that once belonged to Seward. It lies on a bench next to some tools.
 
-The spirit of a female moon elf warlock known as the Starfallen resides within the [ghost lantern](/3-Mechanics/CLI/items/ghost-lantern-toa.md). If any character touches the lantern, the spirit can be seen within it. The spirit is insubstantial and can't be harmed, nor can it cause harm. It speaks and understands Common, Elvish, and Sylvan. If the lantern is destroyed, the spirit becomes trapped in the Soulmonger.
+The spirit of a female moon elf warlock known as the Starfallen resides within the [ghost lantern](3-Mechanics/CLI/items/ghost-lantern-toa.md). If any character touches the lantern, the spirit can be seen within it. The spirit is insubstantial and can't be harmed, nor can it cause harm. It speaks and understands Common, Elvish, and Sylvan. If the lantern is destroyed, the spirit becomes trapped in the Soulmonger.
 
 The Starfallen was slain almost a thousand years ago by a fomorian. After her death, her soul inhabited the lantern. The Company of the Yellow Banner found the lantern and began questing for a way to return the Starfallen to life. The fabled Eye of Zaltec was said to possess the power to raise the ancient dead. The company tracked the jewel to the tomb and perished without ever finding it.
 
@@ -1090,63 +1088,63 @@ The spirit of the Starfallen has weakened over time and grown forgetful. She rem
 > Candles dimly illuminate a cluttered office. A skeletal songbird rasps at you from a filthy cage in one corner. Other furnishing include a wooden writing desk and a tall-backed chair. Anatomical drawings sketched in charcoal hang on the wall behind the desk. Seated in the chair is the shriveled corpse of a humanoid wearing moldy robes and a bronze mask sculpted to look like a frowning visage. Around the figure's neck hangs a black skull-shaped amulet, and a number of severed hands crawl on the desk and floor around him.
 ^3ab
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/073-508.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/073-508.webp#center)
 
-Before he was turned into an undead creature, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) was an Omuan engineer named Gorra. Like all of Omu's citizens, Gorra was enslaved and put to work constructing the tomb. When [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) sacrificed his workers to their own dungeon, Gorra's traps performed the best. This pleased the archlich enough that he transformed Gorra into a [wight](/3-Mechanics/CLI/bestiary/undead/wight.md), with these changes:
+Before he was turned into an undead creature, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) was an Omuan engineer named Gorra. Like all of Omu's citizens, Gorra was enslaved and put to work constructing the tomb. When [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) sacrificed his workers to their own dungeon, Gorra's traps performed the best. This pleased the archlich enough that he transformed Gorra into a [wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md), with these changes:
 
-- [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) has an Intelligence of 16 (+3).  
-- He wears an [amulet of the black skull](/3-Mechanics/CLI/items/amulet-of-the-black-skull-toa.md) (see appendix C) and doesn't carry a longbow.  
+- [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) has an Intelligence of 16 (+3).  
+- He wears an [amulet of the black skull](3-Mechanics/CLI/items/amulet-of-the-black-skull-toa.md) (see appendix C) and doesn't carry a longbow.  
 - He has the Spellcasting feature described below.  
 - He has a challenge rating of 4 (1,100 XP).  
 
 > [!note] 
 > 
-> **Spellcasting.** [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). He has the following wizard spells prepared:
+> **Spellcasting.** [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) is a 9th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13; `+5` to hit with spell attacks). He has the following wizard spells prepared:
 > 
-> Cantrips (at will): acid splash, mage hand, minor illusion, prestidigitation
+> Cantrips (at will): [acid splash](3-Mechanics/CLI/spells/acid-splash-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)
 > 
-> 1st level (4 slots): detect magic, expeditious retreat, feather fall, thunderwave
+> 1st level (4 slots): [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat-xphb.md), [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)
 > 
-> 2nd level (3 slots): darkness, hold person, rope trick
+> 2nd level (3 slots): [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md), [rope trick](3-Mechanics/CLI/spells/rope-trick-xphb.md)
 > 
-> 3rd level (3 slots): dispel magic, lightning bolt
+> 3rd level (3 slots): [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)
 > 
-> 4th level (3 slots): blight, wall of fire
+> 4th level (3 slots): [blight](3-Mechanics/CLI/spells/blight-xphb.md), [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)
 > 
-> 5th level (1 slot): telekinesis
+> 5th level (1 slot): [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)
 ^3ac
 
-When the characters arrive, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) is working at his desk. Seven [crawling claws](/3-Mechanics/CLI/bestiary/undead/crawling-claw.md) follow him around and obey his commands.
+When the characters arrive, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) is working at his desk. Seven [crawling claws](3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md) follow him around and obey his commands.
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) is fiercely loyal to [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md). His passion for learning followed him into undeath, granting him a rare chance to study for eternity. The walls of his office are covered in papers on natural history and anatomy, and he uses the scrying pool in area 25 to study the natural world through the eyes of Omu's gargoyles.
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) is fiercely loyal to [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md). His passion for learning followed him into undeath, granting him a rare chance to study for eternity. The walls of his office are covered in papers on natural history and anatomy, and he uses the scrying pool in area 25 to study the natural world through the eyes of Omu's gargoyles.
 
-When he encounters the characters, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) is keen to learn everything he can before killing them. He's particularly interested in current affairs in Chult and in the history of foreign lands. If the characters humor him, he behaves cordially while they answer his questions. Then with some regret, he finally announces that it's time for them to die. [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) would rather escape than be destroyed or captured, so he uses his spells to retreat if the battle goes against him, saving wall of fire to cut off pursuers when he flees.
+When he encounters the characters, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) is keen to learn everything he can before killing them. He's particularly interested in current affairs in Chult and in the history of foreign lands. If the characters humor him, he behaves cordially while they answer his questions. Then with some regret, he finally announces that it's time for them to die. [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) would rather escape than be destroyed or captured, so he uses his spells to retreat if the battle goes against him, saving [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md) to cut off pursuers when he flees.
 
 #### Journals
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) is a diligent scribe. His moldy journals track the history of Omu and the Tomb of the Nine Gods, and detail the arrival of the atropal and the construction of the Soulmonger. Any character who spends 10 minutes flipping through the journals finds an entry that stands out. Give that character's player a copy of handout 22 in appendix E. To flesh out the journals further, refer to the "History of Omu" section in chapter 3 and "History of the Tomb" earlier in this chapter.
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) is a diligent scribe. His moldy journals track the history of Omu and the Tomb of the Nine Gods, and detail the arrival of the atropal and the construction of the Soulmonger. Any character who spends 10 minutes flipping through the journals finds an entry that stands out. Give that character's player a copy of handout 22 in appendix E. To flesh out the journals further, refer to the "History of Omu" section in chapter 3 and "History of the Tomb" earlier in this chapter.
 
 #### Treasure
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) has enough equipment on his desk to assemble a scholar's pack. A manual of golems (clay) lies open on his desk next to a spellbook containing all the spells he has prepared. On the inside back cover of the spellbook is what appears to be a name: Khomara Blackfire. "Khomara" and "Blackfire" are actually the command words for the mirror of life trapping in area 50.
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) has enough equipment on his desk to assemble a scholar's pack. A [manual of golems](3-Mechanics/CLI/items/manual-of-golems-xdmg.md) (clay) lies open on his desk next to a spellbook containing all the spells he has prepared. On the inside back cover of the spellbook is what appears to be a name: Khomara Blackfire. "Khomara" and "Blackfire" are actually the command words for the [mirror of life trapping](3-Mechanics/CLI/items/mirror-of-life-trapping-xdmg.md) in area 50.
 
-The desk drawer contains a translucent, fist-sized gray stone that radiates an aura of enchantment to a detect magic spell or similar effect. This stone is the control gem for the gray slaad in area 24. For more information on control gems, see the "Slaadi" entry in the *Monster Manual*.
+The desk drawer contains a translucent, fist-sized gray stone that radiates an aura of enchantment to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. This stone is the control gem for the gray slaad in area 24. For more information on control gems, see the "Slaadi" entry in the *Monster Manual*.
 
-[Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md)'s skeletal songbird is tame but cantankerous. It can't fly, but it can be sold to a buyer in Port Nyanzaru for 75 gp. [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md)'s bronze mask is worth 25 gp.
+[Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md)'s skeletal songbird is tame but cantankerous. It can't fly, but it can be sold to a buyer in Port Nyanzaru for 75 gp. [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md)'s bronze mask is worth 25 gp.
 
 ## Level 3: Vault of Reflection
 
-Map 5.3 shows this level of the dungeon, which an invisible beholder named Belchorzh the Unseen (see area 44) claims as its home. It doesn't have access to lair actions and regional effects; instead, it has infected its home with weird alien growth.
+Map 5.3 shows this level of the dungeon, which an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) beholder named Belchorzh the Unseen (see area 44) claims as its home. It doesn't have access to lair actions and regional effects; instead, it has infected its home with weird alien growth.
 
 > [!gallery]
-> ![Map 5.3: Vault of Reflection](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/074-509.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/075-509a.webp#gallery)
+> ![Map 5.3: Vault of Reflection](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/074-509.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/075-509a.webp#gallery)
 
 ### Alien Growth
 
 The beholder's aberrant influence permeates the stonework across this level of the tomb, causing purple mold to sprout from the floors, walls, and ceilings. The mold smells like rotting corpses and occasionally releases clouds of harmless spores. As characters move through areas with alien growth, tiny eyeballs emerge from the mold to scrutinize them. Belchorzh can see through these eyes and uses them to track the party's progress.
 
-Any effect that deals fire, necrotic, or radiant damage destroys a patch of alien growth on contact. However, the beholder doesn't take kindly to the mold's destruction. When a patch of growth is destroyed, the next nearest patch sprouts a stubby eyestalk that shoots a randomly determined eye ray at the nearest character. (Roll a `dice:d10|noform|noparens|avg` (`d10`) and consult the [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder.md) stat block to determine which ray it produces.) After making this attack, the eyestalk quickly disappears back into the mold.
+Any effect that deals fire, necrotic, or radiant damage destroys a patch of alien growth on contact. However, the beholder doesn't take kindly to the mold's destruction. When a patch of growth is destroyed, the next nearest patch sprouts a stubby eyestalk that shoots a randomly determined eye ray at the nearest character. (Roll a `d10` and consult the [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) stat block to determine which ray it produces.) After making this attack, the eyestalk quickly disappears back into the mold.
 
 ### 29. Jackal Mask
 
@@ -1178,7 +1176,7 @@ The magic here records the last moments of Bravus Boulderborn, hero of the Compa
 
 If all the characters turn away, the vision resets. When any character next looks through the mask, the dwarf is seen entering I'jin's tomb once more.
 
-The jackal mask radiates an aura of divination to a detect magic spell or similar effect. If any character uses teleportation or other magic to bypass the teeth and enter the tomb, the dwarf's moldering skeleton is discovered in area 35.
+The jackal mask radiates an aura of divination to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. If any character uses teleportation or other magic to bypass the teeth and enter the tomb, the dwarf's moldering skeleton is discovered in area 35.
 
 ### 30. Iron Barrier
 
@@ -1187,9 +1185,9 @@ The jackal mask radiates an aura of divination to a detect magic spell or simila
 > Ahead of you, the face of a snarling minotaur is etched into a sheet of iron that bisects the crawlway. Its eyes have been cut out, letting you see through the sheet, beyond which the tunnel continues onward.
 ^3b9
 
-The minotaur face is etched into both sides of a 1-inch-thick, sharp-edged iron sheet that blocks the crawlway. The holes that form the eyes are 2 inches wide. The characters can use spells such as gaseous form and misty step to move past the iron sheet.
+The minotaur face is etched into both sides of a 1-inch-thick, sharp-edged iron sheet that blocks the crawlway. The holes that form the eyes are 2 inches wide. The characters can use spells such as [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) and [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) to move past the iron sheet.
 
-Any character who examines the barrier discovers that it slides up into the ceiling. Coiled springs provide resistance, and a successful DC 17 Strength (Athletics) check is needed to lift the sheet. If the check succeeds, a hidden latch locks the sheet in place, allowing creatures to crawl underneath it. Unless it is wedged in place with an iron spike, a stout weapon, or a similar object, the barrier snaps down after 1 minute, sealing the crawlway once more. Any creature underneath the sheet when it snaps shut must succeed on a DC 15 Dexterity saving throw or take `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) slashing damage. Any creature reduced to 0 hit points by this damage is chopped in two.
+Any character who examines the barrier discovers that it slides up into the ceiling. Coiled springs provide resistance, and a successful DC 17 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check is needed to lift the sheet. If the check succeeds, a hidden latch locks the sheet in place, allowing creatures to crawl underneath it. Unless it is wedged in place with an iron spike, a stout weapon, or a similar object, the barrier snaps down after 1 minute, sealing the crawlway once more. Any creature underneath the sheet when it snaps shut must succeed on a DC 15 Dexterity saving throw or take 44 (`8d10`) slashing damage. Any creature reduced to 0 hit points by this damage is chopped in two.
 
 ### 31. Reflected Hall
 
@@ -1238,11 +1236,11 @@ The nonmagical crystal eyes are two of the ten keys needed to open the vault of 
 
 #### 31B. Curtain of Water
 
-Clear water forms a 1-foot-thick, 7-foot-high, 10-foot-wide curtain between the two hallways, radiating an aura of conjuration magic to a detect magic spell or similar effect. A successful dispel magic (DC 17) cast on the curtain causes it to vanish, leaving the archway open. The curtain magically reappears after 1 hour.
+Clear water forms a 1-foot-thick, 7-foot-high, 10-foot-wide curtain between the two hallways, radiating an aura of conjuration magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 17) cast on the curtain causes it to vanish, leaving the archway open. The curtain magically reappears after 1 hour.
 
 If any creature passes through the curtain of water carrying a trident, nothing happens. Any trident will do, not just the ones in the hallways.
 
-If any creature passes through the curtain without a trident, the water erupts as a fierce wave flowing north and south. Any creature in either hall is slammed by the water and must make a DC 15 Strength saving throw. On a failed saving throw, the creature takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) bludgeoning damage and is swept to the end of the hall with such great force that it falls prone. A creature that succeeds on the saving throw takes half damage and falls prone, but is not swept away. The weapons hooked on the walls remain where they are.
+If any creature passes through the curtain without a trident, the water erupts as a fierce wave flowing north and south. Any creature in either hall is slammed by the water and must make a DC 15 Strength saving throw. On a failed saving throw, the creature takes 14 (`4d6`) bludgeoning damage and is swept to the end of the hall with such great force that it falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone). A creature that succeeds on the saving throw takes half damage and falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone), but is not swept away. The weapons hooked on the walls remain where they are.
 
 Water expelled by the curtain disappears before it can flow beyond the confines of the hallways. The water also does not enter either of the hidden alcoves (area 31A), so creatures there are safe from the waves' effect.
 
@@ -1250,7 +1248,7 @@ The water conjured by the curtain leaks out of the hall through tiny cracks in t
 
 ### 32. Rotating Crawlways
 
-Any character searching for traps or secret doors in this tunnel notices a narrow seam in the stonework with a successful DC 15 Wisdom (Perception) check. This seam marks one end of a 25-foot-long section of crawlway (marked "Tunnel A" on map 5.3) that rotates. If the check succeeds by 5 or more, the character can deduce that the seam represents a point where two sections of tunnel can detach from one another.
+Any character searching for traps or secret doors in this tunnel notices a narrow seam in the stonework with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. This seam marks one end of a 25-foot-long section of crawlway (marked "Tunnel A" on map 5.3) that rotates. If the check succeeds by 5 or more, the character can deduce that the seam represents a point where two sections of tunnel can detach from one another.
 
 When 50 pounds or more of weight is applied to the floor at the midpoint of tunnel A, a mechanism causes the tunnel to quickly rotate 90 degrees clockwise and sink 5 feet as it turns. Both ends of the tunnel are immediately cut off, trapping creatures inside. At the same time, a second crawlway perpendicular to the first (marked "Tunnel B" on map 5.3) rotates 90 degrees clockwise and sinks into place, positioned where tunnel A used to be. Characters who are flying, in gaseous form, or otherwise effectively weightless do not trigger the trap and can move through the tunnel safely.
 
@@ -1280,7 +1278,7 @@ The corpse belongs to Sephirius, dragonborn paladin of the Company of the Yellow
 
 #### Treasure
 
-Sephirius wore no armor but carried a +1 yklwa (see "Buying a Special Item" in chapter 1 for more information on this weapon), a dungeoneer's pack, a pouch containing 8 gp, an ivory back scratcher shaped like a dinosaur claw (25 gp), a holy symbol of Bahamut (25 gp), and a red crystal eyeball measuring 1 inch in diameter.
+Sephirius wore no armor but carried a [+1 yklwa](3-Mechanics/CLI/items/1-weapon-xdmg.md) (see "Buying a Special Item" in chapter 1 for more information on this weapon), a dungeoneer's pack, a pouch containing 8 gp, an ivory back scratcher shaped like a dinosaur claw (25 gp), a holy symbol of Bahamut (25 gp), and a red crystal eyeball measuring 1 inch in diameter.
 
 ##### Crystal Eye
 
@@ -1295,13 +1293,13 @@ The nonmagical crystal eye is one of the ten keys needed to open the vault of th
 
 The stone font is attached to the floor and can't be tipped over. It is also impervious to damage and spells. It appears to hold 40 pints (5 gallons) of hot soup, but the liquid is illusory. Tactile exploration reveals that the liquid has no substance and the font is dry.
 
-The dark figure is a magical, illusory duplicate of whichever character opened the door to the room. It copies the character's movements, allowing a shrewd player to use the duplicate to dispense with the liquid in the font. The shadow duplicate has the statistics of a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) and is immune to poison damage. It perfectly matches the motions of the character who created it, always keeping its back to its creator as though it was a projected image 15 feet ahead.
+The dark figure is a magical, illusory duplicate of whichever character opened the door to the room. It copies the character's movements, allowing a shrewd player to use the duplicate to dispense with the liquid in the font. The shadow duplicate has the statistics of a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) and is immune to poison damage. It perfectly matches the motions of the character who created it, always keeping its back to its creator as though it was a projected image 15 feet ahead.
 
-If the character who created the shadow duplicate moves backward, the duplicate moves toward the font. If the character then mimes drinking from the font, the duplicate slurps up the "soup" at a rate of 5 pints per round, draining the font in 8 rounds. Once the font is drained of illusory soup, a treasure appears in the font that wasn't there before (see "Treasure" below). Casting dispel magic on the font causes the illusory soup to vanish, but the treasure does not appear. The illusory soup reappears 1 minute later.
+If the character who created the shadow duplicate moves backward, the duplicate moves toward the font. If the character then mimes drinking from the font, the duplicate slurps up the "soup" at a rate of 5 pints per round, draining the font in 8 rounds. Once the font is drained of illusory soup, a treasure appears in the font that wasn't there before (see "Treasure" below). Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the font causes the illusory soup to vanish, but the treasure does not appear. The illusory soup reappears 1 minute later.
 
-The shadow duplicate can't exert pressure on objects and glides through any obstacles it encounters. Casting dispel magic on the figure causes it to vanish. It doesn't react to taking damage but disappears if it drops to 0 hit points or is made to leave the chamber. Closing the door to the room and reopening it creates a new duplicate of whoever opened the door. There can be only one shadow duplicate at a time.
+The shadow duplicate can't exert pressure on objects and glides through any obstacles it encounters. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the figure causes it to vanish. It doesn't react to taking damage but disappears if it drops to 0 hit points or is made to leave the chamber. Closing the door to the room and reopening it creates a new duplicate of whoever opened the door. There can be only one shadow duplicate at a time.
 
-The shadow duplicate has a terrible and deadly aspect. Any creature that looks upon its face sees a horrific visage locked in a silent scream and must succeed on a DC 15 Wisdom saving throw or drop to 0 hit points. A creature that cannot be frightened automatically succeeds on the saving throw.
+The shadow duplicate has a terrible and deadly aspect. Any creature that looks upon its face sees a horrific visage locked in a silent scream and must succeed on a DC 15 Wisdom saving throw or drop to 0 hit points. A creature that cannot be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) automatically succeeds on the saving throw.
 
 #### Treasure
 
@@ -1345,9 +1343,9 @@ The "medallion" worn by the jackal-headed painting is actually a 6-inch-diameter
 
 If any character steps on a vulture floor tile in area 35B, the dial turns, revealing a new hieroglyph: a serpent. One hieroglyph at a time, the dial reveals the correct sequence of floor tiles to stand on: vulture, serpent, door, reed, scarab, scepter, foot, and urn. Stepping on a floor tile that matches the hieroglyph on the dial causes the dial to turn, revealing the next symbol in the sequence.
 
-The gold medallion is attached to the stone block with sovereign glue, and removing it requires universal solvent. However, one can simply destroy the medallion to get at the dial underneath. Removing or destroying the medallion exposes the dial and its eight hieroglyphs.
+The gold medallion is attached to the stone block with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md), and removing it requires [universal solvent](3-Mechanics/CLI/items/universal-solvent-xdmg.md). However, one can simply destroy the medallion to get at the dial underneath. Removing or destroying the medallion exposes the dial and its eight hieroglyphs.
 
-Once the medallion is out of the way, the dial can be easily removed from its spoke inside the stone block. However, removing the dial releases a corrosive gas trapped within the block. The gas escapes through tiny holes hidden behind the dial and fills the 5-foot space directly east of the block. Any creature in this area when the gas is released must make a DC 14 Constitution saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) acid damage on a failed save, or half as much damage on a successful one. A character who searches for traps can detect the holes hidden behind the dial with a DC 25 Wisdom (Perception) check; once found, these holes can be plugged with wax before the dial is removed, preventing the gas from escaping.
+Once the medallion is out of the way, the dial can be easily removed from its spoke inside the stone block. However, removing the dial releases a corrosive gas trapped within the block. The gas escapes through tiny holes hidden behind the dial and fills the 5-foot space directly east of the block. Any creature in this area when the gas is released must make a DC 14 Constitution saving throw, taking 44 (`8d10`) acid damage on a failed save, or half as much damage on a successful one. A character who searches for traps can detect the holes hidden behind the dial with a DC 25 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check; once found, these holes can be plugged with wax before the dial is removed, preventing the gas from escaping.
 
 #### 35B. Tomb
 
@@ -1375,9 +1373,9 @@ Any characters inhabited by the spirits of Nangnang or Shagambi receive advice w
 
 The floor around the dais and the statues is covered with 5-foot-square stone tiles, each one etched with a hieroglyph. Give the players handout 23 in appendix E.
 
-Characters can avoid triggering the floor tiles by flying or by climbing along the walls and ceiling. Climbing the walls requires a successful DC 20 Strength (Athletics) check. Those who set foot on the tiles must traverse them in the proper sequence or suffer the consequences.
+Characters can avoid triggering the floor tiles by flying or by climbing along the walls and ceiling. Climbing the walls requires a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Those who set foot on the tiles must traverse them in the proper sequence or suffer the consequences.
 
-If any character steps onto a tile and the passage to the east is open, the stone block at area 35A rises to seal the tunnel. Any creature atop the block when it meets the ceiling must succeed on a DC 7 Dexterity saving throw to leap clear in one direction or the other. On a failed save, the creature takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage. Any creature reduced to 0 hit points by this damage is crushed to a pulp. Otherwise, the creature falls prone inside the tomb.
+If any character steps onto a tile and the passage to the east is open, the stone block at area 35A rises to seal the tunnel. Any creature atop the block when it meets the ceiling must succeed on a DC 7 Dexterity saving throw to leap clear in one direction or the other. On a failed save, the creature takes 55 (`10d10`) bludgeoning damage. Any creature reduced to 0 hit points by this damage is crushed to a pulp. Otherwise, the creature falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone) inside the tomb.
 
 The correct sequence of floor tiles matches the order in which the hieroglyphs appear on the clay dial in area 35A: vulture, serpent, door, reed, scarab, scepter, foot, urn. Each time a character steps on a correct floor tile, a new hieroglyph clicks into view on the clay dial, with that view accessible by any character using the peephole in area 34. The dial rotates through all the hieroglyphs in the correct order. If any character steps on a hieroglyph out of order, the statues react as described in "Sphinx Statues." Stepping on the wrong tile does not reset the sequence.
 
@@ -1386,19 +1384,19 @@ When the final tile in the sequence is stepped on, the following things all happ
 - I'jin's sarcophagus opens.  
 - The stone block at area 35A sinks into the floor, creating an open passage to the east.  
 - Any locusts conjured by the sphinx statues are dispelled.  
-- The hieroglyphic floor is disabled. After 24 hours, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) sends `dice:1d4|noform|noparens|avg` (`1d4`) tomb dwarves to reset the trap.  
+- The hieroglyphic floor is disabled. After 24 hours, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) sends `1d4` tomb dwarves to reset the trap.  
 
 #### Sphinx Statues
 
-Each of these statues depicts a life-size gynosphinx, and all four radiate auras of abjuration and conjuration to a detect magic spell or similar effect. The statues are impervious to damage and spells.
+Each of these statues depicts a life-size gynosphinx, and all four radiate auras of abjuration and conjuration to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. The statues are impervious to damage and spells.
 
-When any creature steps on an incorrect floor tile, all four statues yawn and masses of magically summoned locusts fly out of their mouths. The locusts form a single cloud that fills a 15-foot cube centered above the offending floor tile. Each creature in the cloud when it forms, as well as any creature that enters the cloud for the first time on a turn or starts its turn there, takes `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) piercing damage. Any creature reduced to 0 hit points by this trap is killed and eaten to the bone by the devouring locusts. The cloud lasts for 1 minute or until another cloud of locusts is created.
+When any creature steps on an incorrect floor tile, all four statues yawn and masses of magically summoned locusts fly out of their mouths. The locusts form a single cloud that fills a 15-foot cube centered above the offending floor tile. Each creature in the cloud when it forms, as well as any creature that enters the cloud for the first time on a turn or starts its turn there, takes 44 (`8d10`) piercing damage. Any creature reduced to 0 hit points by this trap is killed and eaten to the bone by the devouring locusts. The cloud lasts for 1 minute or until another cloud of locusts is created.
 
 #### Sarcophagus
 
-I'jin's golden sarcophagus cannot be opened by any means other than stepping on eight floor tiles in the correct order. The sarcophagus is worth 7,500 gp intact but weighs 75 pounds. Removing it from the funeral barge causes four floor-to-ceiling walls of force (like those created by a wall of force spell) to surround the dais on all four sides. The walls last until destroyed or until the sarcophagus is returned to the barge.
+I'jin's golden sarcophagus cannot be opened by any means other than stepping on eight floor tiles in the correct order. The sarcophagus is worth 7,500 gp intact but weighs 75 pounds. Removing it from the funeral barge causes four floor-to-ceiling walls of force (like those created by a [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) spell) to surround the dais on all four sides. The walls last until destroyed or until the sarcophagus is returned to the barge.
 
-The sarcophagus contains the fragile bones of an almiraj (I'jin's animal form; see appendix D), as well as its spiral horn, which functions as a wand of wonder. The horn turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+The sarcophagus contains the fragile bones of an almiraj (I'jin's animal form; see appendix D), as well as its spiral horn, which functions as a [wand of wonder](3-Mechanics/CLI/items/wand-of-wonder-xdmg.md). The horn turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### I'jin's Spirit
 
@@ -1406,14 +1404,14 @@ The spirit of I'jin tries to inhabit any character who touches the horn (see "Sp
 
 > [!readaloud] 
 > 
-> Streamers of light emanate from the tip of the horn. As they swirl around you, they form into a spectral rabbit with a single horn on its brow. A female voice whispers, "Quick, quick, let me in! We must stop [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)!"
+> Streamers of light emanate from the tip of the horn. As they swirl around you, they form into a spectral rabbit with a single horn on its brow. A female voice whispers, "Quick, quick, let me in! We must stop [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)!"
 ^3da
 
-If the spirit successfully inhabits the character, give the player [I'jin's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#I'jin) (see appendix F). If the attempt fails, the spirit returns to the horn and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [I'jin's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#I'jin) (see appendix F). If the attempt fails, the spirit returns to the horn and waits for another character to touch it.
 
 #### Treasure
 
-Bravus's yellow turban is set with a peridot gemstone (500 gp). A search of Bravus's corpse also yields a nonmagical shield and a belt pouch containing a 500 gp diamond (the material component of a raise dead spell) and two 1-inch-diameter crystal eyeballs—one dark blue and one vibrant purple.
+Bravus's yellow turban is set with a peridot gemstone (500 gp). A search of Bravus's corpse also yields a nonmagical shield and a belt pouch containing a 500 gp diamond (the material component of a [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md) spell) and two 1-inch-diameter crystal eyeballs—one dark blue and one vibrant purple.
 
 ##### Crystal Eyes
 
@@ -1430,7 +1428,7 @@ The tomb's keepers have all but forgotten this tiny room lodged between two craw
 > Two balconies face each other over a vast pit. Between the balconies hover five wooden platforms, each one a disk ten feet across. A single torch burns above each balcony. On the east balcony stands a rough-hewn, fifteen-foot-tall statue of a hulking fiend with furled wings and clenched fists. Set into the wall on the west balcony is a rusty lever in the up position.
 ^3df
 
-Climbing the walls requires a successful DC 15 Strength (Athletics) check. A crawlway is set into the northwest corner, at the same height as the balconies and floating platforms. Another crawlway extends off the east balcony. At the back of the west balcony, a staircase descends 10 feet to a landing and a secret door.
+Climbing the walls requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A crawlway is set into the northwest corner, at the same height as the balconies and floating platforms. Another crawlway extends off the east balcony. At the back of the west balcony, a staircase descends 10 feet to a landing and a secret door.
 
 #### Advice from the Spirits
 
@@ -1441,19 +1439,19 @@ Any characters inhabited by the spirits of I'jin or Kubazan receive advice when 
 
 #### Floating Platforms
 
-The circular wooden platforms are 10 feet in diameter and hover between 6 and 12 feet apart, as shown on map 5.3. They float at the same level as the balconies, 15 feet below the ceiling and 60 feet above the pit floor. A detect magic spell or similar magic reveals auras of abjuration and transmutation around each platform. Each disk is wide enough that characters can move 10 feet before jumping (see ""Movement"" in chapter 8 of the *Player's Handbook*). The platforms bob slightly when anything lands on them, as though they were floating on water. Any creature that falls from a platform to the pit floor takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) bludgeoning damage. Casting dispel magic on a platform causes it to fall.
+The circular wooden platforms are 10 feet in diameter and hover between 6 and 12 feet apart, as shown on map 5.3. They float at the same level as the balconies, 15 feet below the ceiling and 60 feet above the pit floor. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic reveals auras of abjuration and transmutation around each platform. Each disk is wide enough that characters can move 10 feet before jumping (see ""Movement"" in chapter 8 of the *Player's Handbook*). The platforms bob slightly when anything lands on them, as though they were floating on water. Any creature that falls from a platform to the pit floor takes 21 (`6d6`) bludgeoning damage. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a platform causes it to fall.
 
 #### Wailing Winds
 
 If the lever on the west balcony is pulled, the fiendish statue unclenches its fists to reveal a marble-sized object in the palm of each hand (see "Treasure" below). Simultaneously, howling winds rise up and fill the room. Returning the lever to its original up position causes the winds to abate and the statue's fists to close.
 
-Have all party members roll initiative whenever the winds begin to howl. While the winds are howling, any creature not standing on a floating platform that starts its turn in the room must make a DC 20 Wisdom saving throw, taking `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) psychic damage on a failed save, or half as much damage on a successful one. In addition, the winds cause creatures in the room to suffer disadvantage on all Strength-based skill checks, including checks made to jump to and from the floating platforms and checks made to climb the walls.
+Have all party members roll initiative whenever the winds begin to howl. While the winds are howling, any creature not standing on a floating platform that starts its turn in the room must make a DC 20 Wisdom saving throw, taking 16 (`3d10`) psychic damage on a failed save, or half as much damage on a successful one. In addition, the winds cause creatures in the room to suffer disadvantage on all Strength-based skill checks, including checks made to jump to and from the floating platforms and checks made to climb the walls.
 
 #### Statue
 
-Any character who succeeds on a DC 15 Intelligence (Arcana) check realizes that the statue depicts a nycaloth. A detect magic spell or similar effect reveals auras of transmutation magic radiating from the statue's clenched fists.
+Any character who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check realizes that the statue depicts a nycaloth. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals auras of transmutation magic radiating from the statue's clenched fists.
 
-The statue weighs 15,000 pounds and is impervious to damage and spells. Casting a knock spell on the statue causes one of its fists to unclench for 1 round, during which time the object in that hand can be safely removed.
+The statue weighs 15,000 pounds and is impervious to damage and spells. Casting a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell on the statue causes one of its fists to unclench for 1 round, during which time the object in that hand can be safely removed.
 
 #### Treasure
 
@@ -1467,7 +1465,7 @@ The nonmagical crystal eyes are two of the ten keys needed to open the vault of 
 
 Three separate areas comprise this section of the tomb: a control room (area 38A), an access corridor (area 38B), and a revolving death trap (area 38C). Diagram 5.2 shows a side view of these areas.
 
-![Diagram 5.2: Revolving Room Trap](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/076-510.webp#center)
+![Diagram 5.2: Revolving Room Trap](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/076-510.webp#center)
 
 #### 38A. Control Room
 
@@ -1476,11 +1474,11 @@ Three separate areas comprise this section of the tomb: a control room (area 38A
 > This room is dark and dusty. A hulking figure wearing a bucket helm stands to the west, with one hand on an iron lever set into the wall. The south wall is sloped and has a large rectangular window five feet wide by seven feet high. The window looks into a hallway, through a rectangular hole in the hallway floor, and farther down into a well-lit room shaped like a cylinder tipped on its side.
 ^3e8
 
-The helmed figure is a [tomb guardian](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md): a [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) clad in plate armor (AC 17). Its task is to pull the lever when it sees adventurers enter area 38C. The tomb guardian fights only in self-defense and has orders from [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) to not leave the control room. If it goes berserk, it ignores these orders.
+The helmed figure is a [tomb guardian](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md): a [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) clad in plate armor (AC 17). Its task is to pull the lever when it sees adventurers enter area 38C. The tomb guardian fights only in self-defense and has orders from [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) to not leave the control room. If it goes berserk, it ignores these orders.
 
 ##### Window
 
-The window in the south wall is stone magically rendered transparent from this side only. A successful dispel magic (DC 17) cast on the stone causes it to lose its transparency. If the tomb guardian is prevented from seeing into areas 38B and 38C, it won't pull the lever.
+The window in the south wall is stone magically rendered transparent from this side only. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 17) cast on the stone causes it to lose its transparency. If the tomb guardian is prevented from seeing into areas 38B and 38C, it won't pull the lever.
 
 ##### Iron Lever
 
@@ -1497,7 +1495,7 @@ This hallway is 10 feet high and 5 feet wide. If the characters enter the hall t
 
 Any character standing next to the hole can peer down into a cylindrical room (area 38C), the curved floor of which is 15 feet below the hole.
 
-The wall north of the hole acts as a one-way window, but it appears no different from the rest of the tunnel from this side. Creatures in area 38A can see into this tunnel, but creatures in the tunnel can't see into area 38A. Spells such as detect magic and true seeing do not reveal the window from this side.
+The wall north of the hole acts as a one-way window, but it appears no different from the rest of the tunnel from this side. Creatures in area 38A can see into this tunnel, but creatures in the tunnel can't see into area 38A. Spells such as [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) and [true seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md) do not reveal the window from this side.
 
 #### 38C. Revolving Drum
 
@@ -1508,27 +1506,25 @@ The characters can enter this room through the rectangular hole in the ceiling (
 > This room is shaped like a drum or cylinder lying on its side, with its south end tapering toward a small stone door. Carvings of demons decorate the stonework, with flickering flames in all their eyes.
 ^3ee
 
-The flickering flames were created by continual flame spells, which fill the room with bright light.
+The flickering flames were created by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells, which fill the room with bright light.
 
-When the lever in area 38A is pulled, three hidden locks seal the south door, a wall of stone spell blocks the rectangular hole in the ceiling (cutting off escape to area 38B), and the room begins revolving. When that happens, all creatures present should roll initiative.
+When the lever in area 38A is pulled, three hidden locks seal the south door, a [wall of stone](3-Mechanics/CLI/spells/wall-of-stone-xphb.md) spell blocks the rectangular hole in the ceiling (cutting off escape to area 38B), and the room begins revolving. When that happens, all creatures present should roll initiative.
 
-Any creature that is not firmly attached to a wall, flying, or under the effect of a gaseous form spell or similar magic is knocked about the revolving room. The creature must make a DC 15 Dexterity saving throw at the start of each of its turns, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+Any creature that is not firmly attached to a wall, flying, or under the effect of a [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) spell or similar magic is knocked about the revolving room. The creature must make a DC 15 Dexterity saving throw at the start of each of its turns, taking 11 (`2d10`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 #### Revolving Room Effects
 
-`dice: [](06-chapter-5-tomb-of-the-nine-gods.md#^effect)`
-
 | dice: d20 | Effect |
 |-----------|--------|
-| 1–6 | The demon faces exhale jets of a soporific gas that dissipates quickly. Each creature in the room that is not immune to the poisoned condition must succeed on a DC 15 Constitution saving throw or fall unconscious. An unconscious creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. |
-| 7–12 | The demon faces exhale jets of sparkling dust, which blind any creature in the room that does not succeed on a DC 15 Wisdom saving throw. A creature's blindness lasts until it is cured with a lesser restoration spell or similar magic. |
-| 13–18 | Stone spikes 6 inches long magically protrude from the walls. Any creature that takes damage from the room at the start of its turn takes an additional `dice:2d10\|noform\|noparens\|avg\|text(11)` (`2d10`) piercing damage from the spikes. The spikes retract when the next room effect is triggered. |
-| 19–20 | The demon faces spew jets of an incendiary gas that promptly ignites, filling the room with fire. Each creature in the room takes `dice:10d8\|noform\|noparens\|avg\|text(45)` (`10d8`) fire damage. |
+| 1–6 | The demon faces exhale jets of a soporific gas that dissipates quickly. Each creature in the room that is not immune to the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition must succeed on a DC 15 Constitution saving throw or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). An [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. |
+| 7–12 | The demon faces exhale jets of sparkling dust, which blind any creature in the room that does not succeed on a DC 15 Wisdom saving throw. A creature's blindness lasts until it is cured with a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic. |
+| 13–18 | Stone spikes 6 inches long magically protrude from the walls. Any creature that takes damage from the room at the start of its turn takes an additional 11 (`2d10`) piercing damage from the spikes. The spikes retract when the next room effect is triggered. |
+| 19–20 | The demon faces spew jets of an incendiary gas that promptly ignites, filling the room with fire. Each creature in the room takes 45 (`10d8`) fire damage. |
 ^effect
 
-While the room is revolving, an additional effect is triggered at the end of initiative count 10. Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the Revolving Room Effects table.
+While the room is revolving, an additional effect is triggered at the end of initiative count 10. Roll a `d20` and consult the Revolving Room Effects table.
 
-The room stops tumbling if the lever in area 38A is raised, or if the south door is opened or destroyed. The door's locks are hidden in the walls and can't be picked with thieves' tools, and it takes three separate knock spells to unlock them. The door can also be wrenched open with a successful DC 26 Strength (Athletics) check or attacked. It has AC 17; 50 hit points; and immunity to fire, piercing, poison, psychic, slashing, and thunder damage.
+The room stops tumbling if the lever in area 38A is raised, or if the south door is opened or destroyed. The door's locks are hidden in the walls and can't be picked with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), and it takes three separate [knock](3-Mechanics/CLI/spells/knock-xphb.md) spells to unlock them. The door can also be wrenched open with a successful DC 26 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or attacked. It has AC 17; 50 hit points; and immunity to fire, piercing, poison, psychic, slashing, and thunder damage.
 
 ### 39. Golem Pit
 
@@ -1539,7 +1535,7 @@ The room stops tumbling if the lever in area 38A is raised, or if the south door
 > Two nine-foot-tall stone statues stand atop plinths on either side of the pit. A third plinth against the south wall stands empty. One of the statues depicts a hooded and bearded male figure with his left hand held high, index finger pointed up. The other portrays an armored male knight with his gauntleted right hand extended, its palm facing inward toward the knight.
 ^3f1
 
-An invisible wall of force (as created by the wall of force spell) covers the top of the pit, shielding the [clay golem](/3-Mechanics/CLI/bestiary/construct/clay-golem.md) and the chest below. By manipulating the statues, characters can teleport the golem up to their level, or send one of their own into the pit.
+An invisible wall of force (as created by the [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) spell) covers the top of the pit, shielding the [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md) and the chest below. By manipulating the statues, characters can teleport the golem up to their level, or send one of their own into the pit.
 
 #### Advice from the Spirits
 
@@ -1550,15 +1546,15 @@ Any characters inhabited by the spirits of Moa or Papazotl receive advice when e
 
 #### God Statues
 
-The two statues facing the pit represent Azuth (god of wizardry) and Torm (god of courage and self-sacrifice). Either can be identified with a successful DC 12 Intelligence (Religion) check. A detect magic spell or similar effect reveals an aura of abjuration magic around each statue.
+The two statues facing the pit represent Azuth (god of wizardry) and Torm (god of courage and self-sacrifice). Either can be identified with a successful DC 12 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of abjuration magic around each statue.
 
 Any examination of the plinths reveals that each statue is set on a rotating, spring-loaded gear. If the statue of Azuth is rotated to the right, one creature inside the pit teleports onto the third plinth, forcing aside any other creature standing there. If multiple creatures are in the pit, randomly determine which creature is teleported. Rotating the statue of Torm to the right teleports anything on or above the third plinth into the pit. Even if nothing is there, a popping is heard as air rushes in to fill the empty space. When a statue that has been turned is released, it grinds back to its starting position.
 
-The clay golem has orders to attack any creature that it sees and can reach. If the golem is destroyed, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) uses his manual of golems in area 28 to create a new one after 30 days.
+The clay golem has orders to attack any creature that it sees and can reach. If the golem is destroyed, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) uses his [manual of golems](3-Mechanics/CLI/items/manual-of-golems-xdmg.md) in area 28 to create a new one after 30 days.
 
 #### Stone Chest
 
-The chest and its hinges are made of stone. The chest weighs 250 pounds and is fitted with a silver locking mechanism. Opening the lock requires the silver key that the golem wears around its neck. A mage hand spell or similar magic can lift the key from around the golem's neck without causing the golem to attack. A character using thieves' tools can pick the lock with a successful DC 20 Dexterity check. However, opening the chest by any means other than the silver key releases a cloud of gas that fills a 15-foot cube centered above the chest (filling the entire pit). The gas instantly corrodes and destroys all nonmagical metal that comes into contact with it, including armor and weapons. Metal objects sealed in containers are protected.
+The chest and its hinges are made of stone. The chest weighs 250 pounds and is fitted with a silver locking mechanism. Opening the lock requires the silver key that the golem wears around its neck. A [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spell or similar magic can lift the key from around the golem's neck without causing the golem to attack. A character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) can pick the lock with a successful DC 20 Dexterity check. However, opening the chest by any means other than the silver key releases a cloud of gas that fills a 15-foot cube centered above the chest (filling the entire pit). The gas instantly corrodes and destroys all nonmagical metal that comes into contact with it, including armor and weapons. Metal objects sealed in containers are protected.
 
 The chest is a Small object with AC 12, 10 hit points, and immunity to poison and psychic damage.
 
@@ -1579,7 +1575,7 @@ The nonmagical crystal eyes are two of the ten keys needed to open the vault of 
 
 This cursed human skull plated in gold is the remains of a fool named Yaka—an entertainer who once amused the royal family of Omu. If any character touches it, the skull levitates into the air and begins to follow that character everywhere. The skull never strays more than a few feet away, teleporting back to the character's side if it loses sight of him or her. As it hovers, Yaka's skull supplies a stream of deadpan banter in a mocking, hollow voice. Unless the skull is magically silenced, its inopportune comments cause the character to make all ability checks with disadvantage.
 
-Roleplay the skull as cruel and cynical, with a dark sense of humor. It knows nothing of the tomb but pretends to know all. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has warded the skull with powerful magic, rendering it impervious to damage and spells. Its curse is too powerful to be broken with any spell other than wish, which can be used either to destroy the skull or end the curse. If the curse ends but the skull survives, it teleports back to its pedestal and waits for another character to touch it.
+Roleplay the skull as cruel and cynical, with a dark sense of humor. It knows nothing of the tomb but pretends to know all. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has warded the skull with powerful magic, rendering it impervious to damage and spells. Its curse is too powerful to be broken with any spell other than [wish](3-Mechanics/CLI/spells/wish-xphb.md), which can be used either to destroy the skull or end the curse. If the curse ends but the skull survives, it teleports back to its pedestal and waits for another character to touch it.
 
 The curse can also be ended by feeding gemstones to the skull, which it craves. The skull chews up and destroys any nonmagical gem fed to it, leaving no trace of the gem behind. Once it destroys 10,000 gp worth of gemstones, the skull teleports back to its pedestal and the curse ends for the affected character.
 
@@ -1590,10 +1586,10 @@ The curse can also be ended by feeding gemstones to the skull, which it craves. 
 > Two hulking figures stand in alcoves along this long hall, facing each other. Armor is bolted to their flesh, and they wear bucket helms and spiked gauntlets. Iron collars around their necks are connected by a spiked chain that stretches across the corridor.
 ^3fa
 
-The [tomb guardians](/3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) in the alcoves attack any creature that attacks them or tries to move past them. They are [flesh golems](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md), with these changes:
+The [tomb guardians](3-Mechanics/CLI/bestiary/construct/tomb-guardian-toa.md) in the alcoves attack any creature that attacks them or tries to move past them. They are [flesh golems](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md), with these changes:
 
 - The golems are clad in plate armor (AC 17).  
-- With its spiked gauntlets, a tomb guardian deals `dice:2d8+4|noform|noparens|avg|text(13)` (`2d8 + 4`) bludgeoning damage plus `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) piercing damage with each successful Slam attack.  
+- With its spiked gauntlets, a tomb guardian deals 13 (`2d8 + 4`) bludgeoning damage plus 7 (`2d6`) piercing damage with each successful Slam attack.  
 - Each tomb guardian has a challenge rating of 6 (2,300 XP).  
 
 #### Spiked Chain
@@ -1674,17 +1670,17 @@ To open the sarcophagus, one or more characters must stand before the wall shrin
 - Spill the blood of a living creature into the copper bowl while wearing a frog mask.  
 - Eat a bug (living or dead) while wearing a frog mask.  
 
-If any of these actions are performed incorrectly, three [wraiths](/3-Mechanics/CLI/bestiary/undead/wraith.md) rise from the bones on the floor. The wraiths attack until they are destroyed and pursue any characters who flee this area. When the wraiths appear, any character wearing one of the frog masks is polymorphed into a [frog](/3-Mechanics/CLI/bestiary/beast/frog.md), as though it had failed a saving throw against the *polymorph spell*.
+If any of these actions are performed incorrectly, three [wraiths](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) rise from the bones on the floor. The wraiths attack until they are destroyed and pursue any characters who flee this area. When the wraiths appear, any character wearing one of the frog masks is polymorphed into a [frog](3-Mechanics/CLI/bestiary/beast/frog-xmm.md), as though it had failed a saving throw against the *polymorph spell*.
 
 #### Sarcophagus
 
-Kubazan's sarcophagus is bereft of adornment, though a detect magic spell or similar effect reveals auras of abjuration and evocation magic around it.
+Kubazan's sarcophagus is bereft of adornment, though a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals auras of abjuration and evocation magic around it.
 
-When the ritual is performed correctly, the sarcophagus lid unlocks and slides open. It contains the bones of a froghemoth (Kubazan's animal form; see appendix D) as well as some valuable items (see "Treasure" below). The sarcophagus lid is otherwise sealed shut with an arcane lock spell. It can be opened with a knock spell or forced open with a successful DC 25 Strength (Athletics) check. However, if the sarcophagus is opened by any means other than the ritual, a prismatic spray spell (save DC 19) erupts from the wall behind the sarcophagus. All creatures in the room, as well as creatures in the narrow hallway to the south, become targets of the spell.
+When the ritual is performed correctly, the sarcophagus lid unlocks and slides open. It contains the bones of a froghemoth (Kubazan's animal form; see appendix D) as well as some valuable items (see "Treasure" below). The sarcophagus lid is otherwise sealed shut with an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. It can be opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or forced open with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. However, if the sarcophagus is opened by any means other than the ritual, a [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md) spell (save DC 19) erupts from the wall behind the sarcophagus. All creatures in the room, as well as creatures in the narrow hallway to the south, become targets of the spell.
 
 #### Treasure
 
-The sarcophagus contains a pair of bracers of archery and twenty brittle arrows in a rotting leather quiver. Each arrow shatters on impact and deals only 1 piercing damage on a hit. Carvings of froghemoths adorn the bracers, which keep the skin of any character attuned to them disturbingly moist. The bracers turn to dust and are destroyed if they leave the Tomb of the Nine Gods (but see "Lost Treasures").
+The sarcophagus contains a pair of [bracers of archery](3-Mechanics/CLI/items/bracers-of-archery-xdmg.md) and twenty brittle arrows in a rotting leather quiver. Each arrow shatters on impact and deals only 1 piercing damage on a hit. Carvings of froghemoths adorn the bracers, which keep the skin of any character attuned to them disturbingly moist. The bracers turn to dust and are destroyed if they leave the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Kubazan's Spirit
 
@@ -1695,7 +1691,7 @@ The spirit of Kubazan tries to inhabit any character who touches either of the b
 > The bracers glow as watery light ripples across the walls. A monstrous, tentacled shadow rises from the sarcophagus, and the air fills with the stench of a swamp. A rumbling voice echoes through the tomb: "You are brave to summon me. Together, we will crush the undying one!"
 ^40c
 
-If the spirit successfully inhabits the character, give the player [Kubazan's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Kubazan) (see appendix F). If the attempt fails, the spirit returns to the bracers and waits for another character to touch one of them.
+If the spirit successfully inhabits the character, give the player [Kubazan's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Kubazan) (see appendix F). If the attempt fails, the spirit returns to the bracers and waits for another character to touch one of them.
 
 ### 43. Veils of Fear
 
@@ -1720,7 +1716,7 @@ Behind the second curtain is a third:
 > A scene of horror confronts you: nobles feasting on servants, eating each other alive, and setting fire to the hall. The roast boar is alive and laughing on its platter.
 ^410
 
-A detect magic spell or similar effect reveals an aura of enchantment magic radiating from the third curtain. Any creature that looks at this curtain must succeed on a DC 14 Wisdom saving throw or be frightened of it. A frightened creature tries to leave the room as quickly as possible and cannot reenter. Once outside the room, a creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is unaffected by the curtain thereafter and can reenter the room.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of enchantment magic radiating from the third curtain. Any creature that looks at this curtain must succeed on a DC 14 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of it. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) creature tries to leave the room as quickly as possible and cannot reenter. Once outside the room, a creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is unaffected by the curtain thereafter and can reenter the room.
 
 #### Lord of the Feast
 
@@ -1731,7 +1727,7 @@ When the final tapestry curtain is pulled aside, the dreaded Lord of the Feast c
 > The rotting head of a giant boar is mounted to the wall behind the final curtain. Fresh blood and gore spatters its tusks, dribbling down the wall beneath it.
 ^412
 
-Any humanoid that can see the severed boar's head must succeed on a DC 16 Wisdom saving throw or be charmed by it. On its turn, a charmed creature does nothing except approach the severed head and put its own head in the boar's mouth. Only one head can fit in the mouth at a time. If the boar's mouth is already full, a charmed creature waits patiently until the mouth is clear. Any creature that ends its turn with its head in the boar's mouth takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) slashing damage as the boar's jaws clamp down. If this damage reduces the creature to 0 hit points, it is decapitated. A charmed creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. Once a creature successfully saves against this effect, it cannot be affected by the boar's head for 24 hours.
+Any humanoid that can see the severed boar's head must succeed on a DC 16 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by it. On its turn, a [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature does nothing except approach the severed head and put its own head in the boar's mouth. Only one head can fit in the mouth at a time. If the boar's mouth is already full, a [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature waits patiently until the mouth is clear. Any creature that ends its turn with its head in the boar's mouth takes 22 (`4d10`) slashing damage as the boar's jaws clamp down. If this damage reduces the creature to 0 hit points, it is decapitated. A [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature can repeat the saving throw each time it takes damage, ending the effect on itself on a success. Once a creature successfully saves against this effect, it cannot be affected by the boar's head for 24 hours.
 
 Destroying the Lord of the Feast ends its charm effect on all creatures. The boar's head is a Medium object with AC 5 and 22 hit points.
 
@@ -1741,7 +1737,7 @@ Destroying the boar's head reveals three items lodged between its teeth: a bent 
 
 ### 44. Vault of the Beholder
 
-An invisible beholder lairs in this circular chamber. To enter, adventurers must pass through a locked door.
+An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) beholder lairs in this circular chamber. To enter, adventurers must pass through a locked door.
 
 #### 44A. Eyes of the Beholder
 
@@ -1763,11 +1759,11 @@ When the door opens, read:
 > The vault door grinds upward, revealing a domed, candlelit room fifty feet high. The polished marble floor is so perfectly reflective that it creates the illusion of standing at the entrance to a sphere. Nine alcoves filled with glittering treasure open up along the walls. In the middle of the chamber, a large spherical object hovers under a black silk drape twenty feet above the floor.
 ^418
 
-The [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder.md), Belchorzh (pronounced BEL-korj), floats at the top of the room. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) cast a wish spell to render Belchorzh invisible. A successful dispel magic (DC 19) cast on the beholder or contact with an antimagic field ends its invisibility. Belchorzh reacts to intruders as described in the "Beholder Tactics" section below.
+The [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md), Belchorzh (pronounced BEL-korj), floats at the top of the room. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) cast a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell to render Belchorzh [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) cast on the beholder or contact with an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) ends its invisibility. Belchorzh reacts to intruders as described in the "Beholder Tactics" section below.
 
 The hall contains one hundred lit candles. While the candles remain inside this vault, they burn indefinitely. If a candle is taken from the room, it burns down normally.
 
-The floor beneath the dome is magically slick. Any creature that steps onto or starts its turn on the floor must succeed on a DC 10 Dexterity saving throw or fall prone. When an untethered creature is shoved or otherwise moved across the floor, it travels in one direction and does not stop until it comes into contact with a wall or other barrier.
+The floor beneath the dome is magically slick. Any creature that steps onto or starts its turn on the floor must succeed on a DC 10 Dexterity saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone). When an untethered creature is shoved or otherwise moved across the floor, it travels in one direction and does not stop until it comes into contact with a wall or other barrier.
 
 The alcoves contain treasure (see "Treasure" below).
 
@@ -1781,13 +1777,13 @@ Any characters inhabited by the spirits of Kubazan, Obo'laka, or Wongo receive t
 
 #### Black Drape, Iron Sphere
 
-The black drape conceals a magical sphere of iron, 6 feet in diameter and floating 20 feet above the floor. A Nystul's magic aura spell placed on the sphere makes it seem like an evil aberration to features or magic that can sense such information.
+The black drape conceals a magical sphere of iron, 6 feet in diameter and floating 20 feet above the floor. A [Nystul's magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md) spell placed on the sphere makes it seem like an evil aberration to features or magic that can sense such information.
 
-The iron sphere is hollow and immobile, and it remains inert while the drape covers it. Belchorzh can use its telekinetic eye ray to remove the drape at any time, revealing the sphere and causing it to emit a magical magnetic field. Each creature in the room wearing metal armor is pulled to the sphere and becomes stuck to it, as does any metal weapon or object that isn't secured or being held. Any creature stuck to the sphere is restrained until the magnetic field deactivates.
+The iron sphere is hollow and immobile, and it remains inert while the drape covers it. Belchorzh can use its telekinetic eye ray to remove the drape at any time, revealing the sphere and causing it to emit a magical magnetic field. Each creature in the room wearing metal armor is pulled to the sphere and becomes stuck to it, as does any metal weapon or object that isn't secured or being held. Any creature stuck to the sphere is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until the magnetic field deactivates.
 
 Any ranged attack made in the chamber that uses ammunition made wholly or partly from metal has disadvantage on the attack roll; if the attack misses, the ammunition becomes stuck to the sphere.
 
-Throwing the black drape over the sphere renders it temporarily inert, with creatures and objects stuck to it falling to the floor. A successful dispel magic (DC 16) cast on the sphere dispels the Nystul's magic aura spell, permanently deactivates the magnetic field, and causes the sphere to crash to the floor. This sends a web of cracks through the marble, negating the floor's frictionless effect and allowing creatures to move across it normally. The sphere also deactivates and falls if it comes into contact with an antimagic field or is destroyed.
+Throwing the black drape over the sphere renders it temporarily inert, with creatures and objects stuck to it falling to the floor. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) cast on the sphere dispels the [Nystul's magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura-xphb.md) spell, permanently deactivates the magnetic field, and causes the sphere to crash to the floor. This sends a web of cracks through the marble, negating the floor's frictionless effect and allowing creatures to move across it normally. The sphere also deactivates and falls if it comes into contact with an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) or is destroyed.
 
 The sphere is a Large object with AC 20; 100 hit points; resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage. It weighs 1,000 pounds. While the magnetic field is active, any attack made against the sphere with a metal weapon automatically hits, though the weapon becomes stuck to the sphere after impact.
 
@@ -1795,7 +1791,7 @@ The sphere is a Large object with AC 20; 100 hit points; resistance to bludgeoni
 
 The Tomb of the Nine Gods is not truly the beholder's domain, so it can't use lair actions.
 
-The invisible beholder puts as much distance between itself and the adventurers as possible, while making sure to not catch the iron sphere in its Antimagic Cone.
+The [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) beholder puts as much distance between itself and the adventurers as possible, while making sure to not catch the iron sphere in its Antimagic Cone.
 
 Belchorzh doesn't pursue intruders who flee its vault. However, if the adventurers steal even one copper piece from its trove, the beholder uses the alien growth throughout this level of the dungeon against them. Whenever the characters come near a patch of the growth, it sprouts an eyestalk and attacks (see "Alien Growth").
 
@@ -1813,15 +1809,15 @@ The nine alcoves contain the following treasures:
 - A clay chameleon statuette covered in crystal beads that change colors (25 gp)  
 - Three painted gold masks sized for children and shaped like the faces of a bat, a monkey, and a parrot, respectively (75 gp each)  
 - A gold coronet shaped like an octopus with mother-of-pearl eyes (2,500 gp)  
-- A potion of diminution, a bead of force, and a bronze +1 shield shaped like a screaming devil's face  
+- A [potion of diminution](3-Mechanics/CLI/items/potion-of-diminution-xdmg.md), a [bead of force](3-Mechanics/CLI/items/bead-of-force-xdmg.md), and a bronze [+1 shield](3-Mechanics/CLI/items/1-shield-xdmg.md) shaped like a screaming devil's face  
 
 ## Level 4: Chambers of Horror
 
 Map 5.4 shows this level of the dungeon. These corridors and chambers are choked with dust, their floors littered with rubble and the bones of dead Omuans.
 
 > [!gallery]
-> ![Map 5.4: Chambers of Horror](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/077-512.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/078-512a.webp#gallery)
+> ![Map 5.4: Chambers of Horror](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/077-512.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/078-512a.webp#gallery)
 
 ### 45. Gargoyle Guardians
 
@@ -1837,9 +1833,9 @@ Any character looking down on the room from one of the balconies above or anothe
 > Each gargoyle is contained within a square made of metallic tiles embedded in the top of its pedestal. Starting with the northernmost pedestal and going clockwise, the tiles are copper, silver, gold, and platinum.
 ^420
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/079-511.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/079-511.webp#center)
 
-Four [giant four-armed gargoyles](/3-Mechanics/CLI/bestiary/elemental/giant-four-armed-gargoyle-toa.md) (see appendix D) are perched atop the pedestals, each one crouched within its square of tiled precious metal. The gargoyles remain motionless until they are provoked.
+Four [giant four-armed gargoyles](3-Mechanics/CLI/bestiary/elemental/giant-four-armed-gargoyle-toa.md) (see appendix D) are perched atop the pedestals, each one crouched within its square of tiled precious metal. The gargoyles remain motionless until they are provoked.
 
 The slots in each pedestal are 4 feet above the floor and roughly the size of a standard coin. All humanoids must pay a tithe before leaving this room to avoid provoking the gargoyles' wrath. Specifically, each humanoid must insert a coin of the appropriate type into each pedestal (1 cp in the north pedestal, 1 sp in the east pedestal, 1 gp in the south pedestal, and 1 pp in the west pedestal). A gargoyle will always accept a more precious coin than the one required, so a character inserting a platinum coin into every pedestal could exit the room safely. A gargoyle will also accept a tithe of multiple coins of equal or greater value (10 cp instead of 1 sp in the east pedestal, for example). The pedestals have hollow cavities within them to store the coins (see "Treasure" below).
 
@@ -1862,13 +1858,13 @@ The north pedestal holds 5 sp and 100 cp. The east pedestal hides 1 gp, 120 sp, 
 > A six-foot-tall green devil face is carved into the far end of this hallway, its mouth agape. Painted murals on the walls show faceless humanoid figures doubled over in pain, clutching at their heads and ears.
 ^424
 
-Despite the ominous murals and the devil face carving, this hall is devoid of traps. Any character who searches the devil face finds a [lizard](/3-Mechanics/CLI/bestiary/beast/lizard.md) hiding in the carving's shallow mouth cavity. The recipient of an awaken spell cast by a Chultan druid, the lizard has an Intelligence score of 10 and speaks Druidic. The Company of the Yellow Banner captured it in Omu and brought it to the tomb thinking it might be useful for setting off traps. The lizard escaped and wound up here. It doesn't know what became of its captors and helps the characters any way it can if they promise to return it to Omu.
+Despite the ominous murals and the devil face carving, this hall is devoid of traps. Any character who searches the devil face finds a [lizard](3-Mechanics/CLI/bestiary/beast/lizard-xmm.md) hiding in the carving's shallow mouth cavity. The recipient of an [awaken](3-Mechanics/CLI/spells/awaken-xphb.md) spell cast by a Chultan druid, the lizard has an Intelligence score of 10 and speaks Druidic. The Company of the Yellow Banner captured it in Omu and brought it to the tomb thinking it might be useful for setting off traps. The lizard escaped and wound up here. It doesn't know what became of its captors and helps the characters any way it can if they promise to return it to Omu.
 
 ### 47. Elemental Cells
 
-To reach Shagambi's tomb (area 48), the adventurers must pass through four cells thematically linked to fire, water, air, and earth. Unless the characters destroyed him, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) (see area 28) senses when the secret door to area 47A is opened and uses the scrying pool in area 25 to observe the adventurers as they contend with the cells.
+To reach Shagambi's tomb (area 48), the adventurers must pass through four cells thematically linked to fire, water, air, and earth. Unless the characters destroyed him, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) (see area 28) senses when the secret door to area 47A is opened and uses the scrying pool in area 25 to observe the adventurers as they contend with the cells.
 
-An antimagic field fills each cell, rendering magic items useless, suppressing ongoing magical effects, and preventing all spellcasting. See the spell's description in the *Player's Handbook* for full information.
+An [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) fills each cell, rendering magic items useless, suppressing ongoing magical effects, and preventing all spellcasting. See the spell's description in the *Player's Handbook* for full information.
 
 #### 47A. Fire Cell
 
@@ -1881,15 +1877,15 @@ The skeleton is all that remains of a dead Omuan engineer. As long as the candle
 
 ##### Secret Door
 
-If [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) is watching, he tries to trap as many characters as he can in the cell by whispering a command word that causes the secret door in the south wall to slide shut and lock. No keyhole or visible opening mechanism can be found on the secret door. The secret door remains sealed until the characters escape from the cells or die trying. A wedge, spike, or similar object can be used to prevent the door from closing.
+If [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) is watching, he tries to trap as many characters as he can in the cell by whispering a command word that causes the secret door in the south wall to slide shut and lock. No keyhole or visible opening mechanism can be found on the secret door. The secret door remains sealed until the characters escape from the cells or die trying. A wedge, spike, or similar object can be used to prevent the door from closing.
 
 ##### Lava Trap
 
-Molten lava begins pouring from the tiny holes in the ceiling as soon as any character comes within 1 foot of the candle or removes it from the sconce. The lava rains down and magically drains away through the holes in the floor. Each creature in the cell when the lava begins to fall must make a DC 20 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) fire damage on a failed save, or half as much damage on a successful one. Any creature that enters the cell for the first time on a turn or starts its turn there must repeat the saving throw. Because of the cell's antimagic field, magic items and spells that provide resistance to fire offer no protection here.
+Molten lava begins pouring from the tiny holes in the ceiling as soon as any character comes within 1 foot of the candle or removes it from the sconce. The lava rains down and magically drains away through the holes in the floor. Each creature in the cell when the lava begins to fall must make a DC 20 Dexterity saving throw, taking 22 (`4d10`) fire damage on a failed save, or half as much damage on a successful one. Any creature that enters the cell for the first time on a turn or starts its turn there must repeat the saving throw. Because of the cell's [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md), magic items and spells that provide resistance to fire offer no protection here.
 
 ##### Extinguishing the Candle
 
-If the candle is extinguished inside the cell, the antimagic field is dispelled and all creatures in the cell are teleported to one of the other cells, as follows:
+If the candle is extinguished inside the cell, the [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) is dispelled and all creatures in the cell are teleported to one of the other cells, as follows:
 
 - If the candle's flame is doused with water or some other liquid, creatures in the cell are teleported to the water cell (area 47B).  
 - If the candle's flame is blown out or smothered by a lack of oxygen (including being ground out against the wall or floor), creatures are teleported to the air cell (area 47C).  
@@ -1905,11 +1901,11 @@ The candle is a distraction and offers no way out of the cell. As long as it rem
 
 ##### Flood Trap
 
-The water fills the cell at a rate of 1 foot per round, taking 10 rounds to fill the room. If the candle is left in its sconce, the rising water extinguishes it on the fourth round. Trying to stuff or block the holes doesn't stop the water from pouring in. Because of the cell's antimagic field, spells and magic items that enable characters to breathe underwater don't function here. Any character who runs out of air begins to suffocate (see ""The Environment"" in chapter 8 of the *Player's Handbook*).
+The water fills the cell at a rate of 1 foot per round, taking 10 rounds to fill the room. If the candle is left in its sconce, the rising water extinguishes it on the fourth round. Trying to stuff or block the holes doesn't stop the water from pouring in. Because of the cell's [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md), spells and magic items that enable characters to breathe underwater don't function here. Any character who runs out of air begins to suffocate (see ""The Environment"" in chapter 8 of the *Player's Handbook*).
 
 ##### Snails and Oysters
 
-There are dozens of snails and oysters clinging to the walls. A character can use an action to remove an oyster or snail from a wall, crack it open, and eat it. The first time an oyster or snail is removed from a wall, the cell's antimagic field is dispelled. Eating an oyster teleports a character (along with his or her possessions) to the air cell (area 47C), while eating a snail teleports a character (along with his or her possessions) to the earth cell (area 47D).
+There are dozens of snails and oysters clinging to the walls. A character can use an action to remove an oyster or snail from a wall, crack it open, and eat it. The first time an oyster or snail is removed from a wall, the cell's [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) is dispelled. Eating an oyster teleports a character (along with his or her possessions) to the air cell (area 47C), while eating a snail teleports a character (along with his or her possessions) to the earth cell (area 47D).
 
 When the last character leaves the cell, rows of tiny holes open in the floor, allowing the water to drain out at a rate of 1 foot per round.
 
@@ -1920,7 +1916,7 @@ When the last character leaves the cell, rows of tiny holes open in the floor, a
 > You immediately begin to choke as you are teleported to a room with no light, no sound, and no air.
 ^430
 
-The cell's antimagic field douses magical lights, and nonmagical flames are snuffed out because of the lack of oxygen in the room. Creatures that can see in the dark can see the following:
+The cell's [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) douses magical lights, and nonmagical flames are snuffed out because of the lack of oxygen in the room. Creatures that can see in the dark can see the following:
 
 > [!readaloud] 
 > 
@@ -1929,11 +1925,11 @@ The cell's antimagic field douses magical lights, and nonmagical flames are snuf
 
 Any creature that requires air to breathe immediately begins to suffocate unless it took the precaution of holding its breath before teleporting here (see ""The Environment"" in chapter 8 of the *Player's Handbook*).
 
-Any character who cannot see can use an action to blindly search the cell by touch, then make a DC 13 Wisdom (Perception) check. If the check succeeds, the character discerns one key feature of the room: either the wall carvings, the aarakocra skeleton, or the candle.
+Any character who cannot see can use an action to blindly search the cell by touch, then make a DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. If the check succeeds, the character discerns one key feature of the room: either the wall carvings, the aarakocra skeleton, or the candle.
 
 ##### Aarakocra Bones
 
-The aarakocra skeleton embedded in the wall has hollow bones containing stale yet breathable air—each one essentially a tube sealed with wax. A character with a dagger or similar tool can use an action to pry a bone out of the wall, pierce the wax seal, and inhale the air within. The first time a bone is removed from a wall, the cell's antimagic field is dispelled. Any character who inhales the air is teleported (along with his or her possessions) to area 48.
+The aarakocra skeleton embedded in the wall has hollow bones containing stale yet breathable air—each one essentially a tube sealed with wax. A character with a dagger or similar tool can use an action to pry a bone out of the wall, pierce the wax seal, and inhale the air within. The first time a bone is removed from a wall, the cell's [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) is dispelled. Any character who inhales the air is teleported (along with his or her possessions) to area 48.
 
 ##### Unlit Candle
 
@@ -1948,19 +1944,19 @@ The candle can't be lit without air, but let characters waste time trying. The c
 
 The candle can be extinguished and relit, but is of no use to characters trying to escape the room. As long as it remains in this cell, the candle burns indefinitely. If taken from the area, it burns down normally.
 
-Any character who searches the cell and succeeds on a DC 10 Wisdom (Perception) check notices a seam running down the middle of the floor from north to south. The seam suggests the existence of a pit trap.
+Any character who searches the cell and succeeds on a DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices a seam running down the middle of the floor from north to south. The seam suggests the existence of a pit trap.
 
 ##### Trap
 
 The falling sand fills the room at a rate of 6 inches per round, turning the floor into difficult terrain after 1 round. Any character who can reach the ceiling can use an action to stuff a number of holes with cloth or wax, slowing the sand by 1 inch per round. If the sand reaches a depth of 12 inches, the floor splits open along its seam. When the pit opens, half of the floor swings down to the west and the other half drops to the east, and the sand stops falling. A 6-inch-wide ledge surrounds the pit on all sides. Any creature standing on the floor when it opens must make a DC 15 Dexterity saving throw; those standing along the walls have advantage on the save. On a successful save, a creature finds purchase on the ledge. A creature that fails the save falls.
 
-The 10-foot-deep pit contains two giant stone rollers with interlocking stone teeth. Anything larger than a grain of sand gets chewed up between these rollers, taking `dice:24d10|noform|noparens|avg|text(132)` (`24d10`) force damage. Any creature reduced to 0 hit points by this damage is ground to a pulp. A creature that passes through the rollers with at least 1 hit point remaining lands on an iron grate 5 feet below the grinders. A stone button is set into one of the walls above the grate and is visible only to creatures under the rollers. When pressed, the button causes the rollers to stop turning and retract into the walls, allowing creatures that survived the horrid trap to climb out with a successful DC 15 Strength (Athletics) check.
+The 10-foot-deep pit contains two giant stone rollers with interlocking stone teeth. Anything larger than a grain of sand gets chewed up between these rollers, taking 132 (`24d10`) force damage. Any creature reduced to 0 hit points by this damage is ground to a pulp. A creature that passes through the rollers with at least 1 hit point remaining lands on an iron grate 5 feet below the grinders. A stone button is set into one of the walls above the grate and is visible only to creatures under the rollers. When pressed, the button causes the rollers to stop turning and retract into the walls, allowing creatures that survived the horrid trap to climb out with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
-The pit is within the cell's antimagic field, so spells and magical effects that might otherwise allow a character to survive the rollers or ascend the pit won't work.
+The pit is within the cell's [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md), so spells and magical effects that might otherwise allow a character to survive the rollers or ascend the pit won't work.
 
 ##### Secret Door
 
-Any character who searches the medusa bas-relief and succeeds on a DC 11 Wisdom (Perception) check notices seams around the carving, suggesting the presence of a secret door. A successful check also reveals that the medusa's obsidian pendant is a button. The button won't depress unless the pit is open. A character can try to unlock the button using thieves' tools, doing so with a successful DC 17 Dexterity check. Pressing the unlocked pendant causes the secret door's lock to release with a dull clunk, after which the door can be swung open to reveal area 48 beyond. The secret door has springs that cause it to close automatically unless it is held or wedged open. The door locks when it closes and can be opened only from within the cell.
+Any character who searches the medusa bas-relief and succeeds on a DC 11 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices seams around the carving, suggesting the presence of a secret door. A successful check also reveals that the medusa's obsidian pendant is a button. The button won't depress unless the pit is open. A character can try to unlock the button using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), doing so with a successful DC 17 Dexterity check. Pressing the unlocked pendant causes the secret door's lock to release with a dull clunk, after which the door can be swung open to reveal area 48 beyond. The secret door has springs that cause it to close automatically unless it is held or wedged open. The door locks when it closes and can be opened only from within the cell.
 
 ### 48. Shagambi's Tomb
 
@@ -1968,7 +1964,7 @@ Each character who teleports into this tomb from area 47C appears atop a randoml
 
 > [!readaloud] 
 > 
-> This tomb is filled with [terracotta warriors](/3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md), kneeling in neat ranks around a polished wooden coffin. Between the warriors, four aisles scattered with broken pottery lead up to the coffin, whose painted lid shows a leopard with serpents sprouting from its shoulders.
+> This tomb is filled with [terracotta warriors](3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md), kneeling in neat ranks around a polished wooden coffin. Between the warriors, four aisles scattered with broken pottery lead up to the coffin, whose painted lid shows a leopard with serpents sprouting from its shoulders.
 ^439
 
 If intruders are heard within the tomb, the terracotta warriors rise to defend it (see "Terracotta Warriors" below). To steal Shagambi's treasures, characters must move quietly.
@@ -1982,18 +1978,18 @@ Any characters inhabited by the spirits of Unkh or Wongo receive advice when ent
 
 #### Teleportation Runes
 
-Three teleportation runes are scribed on the floor along the north, east, and south walls of the tomb. A detect magic spell or similar effect reveals that each rune has a different aura—strong, steady conjuration magic from the eastern rune; flickering conjuration magic from the northern rune; and a combination of conjuration and transmutation magic from the southern rune.
+Three teleportation runes are scribed on the floor along the north, east, and south walls of the tomb. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals that each rune has a different aura—strong, steady conjuration magic from the eastern rune; flickering conjuration magic from the northern rune; and a combination of conjuration and transmutation magic from the southern rune.
 
-Whenever a creature teleports into the tomb, roll a `dice:d6|noform|noparens|avg` (`d6`) to determine which rune it arrives on: 1–2, north rune; 3–4, east rune; 5–6, south rune. If more than one creature is teleported to the same rune, the previous creature is pushed harmlessly off the rune when the new creature appears. Additionally, the north rune is malfunctioning, and any creature arriving there takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) force damage.
+Whenever a creature teleports into the tomb, roll a `d6` to determine which rune it arrives on: 1–2, north rune; 3–4, east rune; 5–6, south rune. If more than one creature is teleported to the same rune, the previous creature is pushed harmlessly off the rune when the new creature appears. Additionally, the north rune is malfunctioning, and any creature arriving there takes 18 (`4d8`) force damage.
 
-Any creature that moves from outside a rune into its space is instantly teleported to area 50. A creature that uses the south rune to teleport is also polymorphed into a random beast, as though it had failed its saving throw against the polymorph spell. Roll a `dice:d4|noform|noparens|avg` (`d4`) to determine the new form: 1, [baboon](/3-Mechanics/CLI/bestiary/beast/baboon.md); 2, [bat](/3-Mechanics/CLI/bestiary/beast/bat.md); 3, [flying snake](/3-Mechanics/CLI/bestiary/beast/flying-snake.md); 4, [quipper](/3-Mechanics/CLI/bestiary/beast/quipper.md).
+Any creature that moves from outside a rune into its space is instantly teleported to area 50. A creature that uses the south rune to teleport is also polymorphed into a random beast, as though it had failed its saving throw against the [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell. Roll a `d4` to determine the new form: 1, [baboon](3-Mechanics/CLI/bestiary/beast/baboon-xmm.md); 2, [bat](3-Mechanics/CLI/bestiary/beast/bat-xmm.md); 3, [flying snake](3-Mechanics/CLI/bestiary/monstrosity/flying-snake-xmm.md); 4, [quipper](3-Mechanics/CLI/bestiary/beast/piranha-xmm.md).
 
 #### Terracotta Warriors
 
-Forty-eight [terracotta warriors](/3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md) guard the tomb. Use [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor.md) statistics, with these changes:
+Forty-eight [terracotta warriors](3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md) guard the tomb. Use [animated armor](3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) statistics, with these changes:
 
-- Each [terracotta warrior](/3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md) wields a shortsword. As an action, it can attack twice with the weapon (+4 to hit), dealing `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) piercing damage on a hit.  
-- If a critical hit is scored against a [terracotta warrior](/3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md), it shatters and is destroyed.  
+- Each [terracotta warrior](3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md) wields a shortsword. As an action, it can attack twice with the weapon (`+4` to hit), dealing 5 (`1d6 + 2`) piercing damage on a hit.  
+- If a critical hit is scored against a [terracotta warrior](3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md), it shatters and is destroyed.  
 
 The terracotta warriors remain perfectly still and pose no threat as long as the tomb remains relatively quiet. If any character talks loudly, steps on a piece of broken pottery, or makes any other equivalent noise while in the tomb, read:
 
@@ -2002,17 +1998,17 @@ The terracotta warriors remain perfectly still and pose no threat as long as the
 > All the terracotta warriors turn their heads to face you. As one, they pull their swords a few inches from their scabbards.
 ^43d
 
-After this single warning, the [terracotta warriors](/3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md) attack if they hear any other noise. Without the use of magic, any creature walking through the tomb must succeed on a DC 12 Dexterity (Stealth) check to remain quiet. Moving through pottery shards imposes disadvantage on the check. Once roused into action, the terracotta warriors attack all the creatures in the tomb.
+After this single warning, the [terracotta warriors](3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md) attack if they hear any other noise. Without the use of magic, any creature walking through the tomb must succeed on a DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check to remain quiet. Moving through pottery shards imposes disadvantage on the check. Once roused into action, the terracotta warriors attack all the creatures in the tomb.
 
 #### Coffin
 
-Shagambi's coffin is trapped but not locked. When its lid is opened, a music box inside the coffin is activated, rousing the terracotta warriors if they can hear its haunting melody (even if the adventurers have been silent up to that point). Any character who succeeds on a DC 14 Wisdom (Perception) check while gently lifting the coffin lid spots the trap's trigger wire, which can then be cut with thieves' tools and a successful DC 12 Dexterity check. The music box is activated on a failed check.
+Shagambi's coffin is trapped but not locked. When its lid is opened, a music box inside the coffin is activated, rousing the terracotta warriors if they can hear its haunting melody (even if the adventurers have been silent up to that point). Any character who succeeds on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check while gently lifting the coffin lid spots the trap's trigger wire, which can then be cut with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) and a successful DC 12 Dexterity check. The music box is activated on a failed check.
 
 The bones of a kamadan (Shagambi's animal form; see appendix D) are bound in cloth inside the sarcophagus, along with valuables (see "Treasure" below).
 
 #### Treasure
 
-The following treasures are heaped around Shagambi's bones: 200 gp, five moonstones (50 gp each), the fine music box activated by the trap (250 gp), and an instrument of the bards (Canaith mandolin). The instrument turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+The following treasures are heaped around Shagambi's bones: 200 gp, five moonstones (50 gp each), the fine music box activated by the trap (250 gp), and an [instrument of the bards](3-Mechanics/CLI/items/instrument-of-the-bards-xdmg.md) (Canaith mandolin). The instrument turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Shagambi's Spirit
 
@@ -2023,7 +2019,7 @@ The spirit of Shagambi tries to inhabit any character who touches the mandolin (
 > Six shadowy serpents slither out of the mandolin and coil around your body. You hear a purring voice in your mind say, "I am not your enemy."
 ^441
 
-If the spirit successfully inhabits the character, give the player [Shagambi's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Shagambi) (see appendix F). If the attempt fails, the spirit returns to the mandolin and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [Shagambi's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Shagambi) (see appendix F). If the attempt fails, the spirit returns to the mandolin and waits for another character to touch it.
 
 ### 49. Maze of Death
 
@@ -2052,7 +2048,7 @@ If the stone slabs are raised up to seal off the exits once more (see area 49C),
 > Painted on the inside of the slab is a male humanoid wearing a hooded cloak, once again with stars where his face should be. The figure holds up his right arm, which is severed neatly at the elbow.
 ^446
 
-This image is visible only while the slabs are in their raised positions. From inside the maze, a character can make both slabs sink back down into the floor by standing in front of either slab while holding up his or her right arm—as long as that arm has been severed at the elbow. It doesn't matter how the arm is cut off, but sticking it in the sphere of annihilation in area 49B is one way to do it.
+This image is visible only while the slabs are in their raised positions. From inside the maze, a character can make both slabs sink back down into the floor by standing in front of either slab while holding up his or her right arm—as long as that arm has been severed at the elbow. It doesn't matter how the arm is cut off, but sticking it in the [sphere of annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) in area 49B is one way to do it.
 
 #### 49B. Green Devil Face
 
@@ -2061,9 +2057,9 @@ This image is visible only while the slabs are in their raised positions. From i
 > A green stone face of devilish countenance protrudes from the wall. The devil's mouth is agape and filled with darkness.
 ^448
 
-The devil face is 6 feet tall, with a mouth 2 feet in diameter. A detect magic spell or similar effect reveals an aura of transmutation magic on the face.
+The devil face is 6 feet tall, with a mouth 2 feet in diameter. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of transmutation magic on the face.
 
-The darkness within the mouth is a sphere of annihilation, which can't be controlled or moved. Any character who stands within 5 feet of the sphere can hear a faint whisper emanating from it. A successful DC 12 Wisdom (Perception) check allows a character to make out words in Abyssal that translate as follows: "Darkness is coming for you. Your doom is at hand."
+The darkness within the mouth is a [sphere of annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md), which can't be controlled or moved. Any character who stands within 5 feet of the sphere can hear a faint whisper emanating from it. A successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check allows a character to make out words in Abyssal that translate as follows: "Darkness is coming for you. Your doom is at hand."
 
 #### 49C. Black Opal Crown
 
@@ -2075,9 +2071,9 @@ The darkness within the mouth is a sphere of annihilation, which can't be contro
 If any creature removes the crown from the pedestal, two things happen simultaneously:
 
 - The stone slabs in area 49A rise up to seal off both exits from the maze.  
-- Two [bodaks](/3-Mechanics/CLI/bestiary/undead/bodak-vgm.md) (see appendix D) magically emerge from the sphere of annihilation in area 49B, seemingly unaffected by it, and begin scouring the maze for prey. Any creature killed by the bodaks is dragged back to the sphere and tossed into it. The bodaks crawl back into the sphere only if they're satisfied that there's nothing left in the maze to kill.  
+- Two [bodaks](3-Mechanics/CLI/bestiary/undead/bodak-mpmm.md) (see appendix D) magically emerge from the [sphere of annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) in area 49B, seemingly unaffected by it, and begin scouring the maze for prey. Any creature killed by the bodaks is dragged back to the sphere and tossed into it. The bodaks crawl back into the sphere only if they're satisfied that there's nothing left in the maze to kill.  
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/080-513.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/080-513.webp#center)
 
 ##### Treasure
 
@@ -2092,19 +2088,19 @@ Any creature teleported here from area 48 appears in a random spot near the cent
 > This dusty room is fifteen feet square and empty except for an ornate, rectangular mirror mounted on the wall opposite the room's only exit.
 ^44d
 
-Attached to the west wall with sovereign glue is a mirror of life trapping. Any creature within 30 feet of the mirror that sees its reflection must succeed on a DC 15 Charisma saving throw or be imprisoned within one of the mirror's twelve extradimensional cells, along with anything it is wearing or carrying. Constructs automatically succeed on the saving throw.
+Attached to the west wall with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md) is a [mirror of life trapping](3-Mechanics/CLI/items/mirror-of-life-trapping-xdmg.md). Any creature within 30 feet of the mirror that sees its reflection must succeed on a DC 15 Charisma saving throw or be imprisoned within one of the mirror's twelve extradimensional cells, along with anything it is wearing or carrying. Constructs automatically succeed on the saving throw.
 
 The mirror currently has three vacant cells. If the mirror traps a creature when its twelve cells are already occupied, it releases one trapped creature at random to accommodate the new prisoner. The Prisoners of the Mirror table lists the mirror's current prisoners and summarizes how they react if set free or spoken to. Otherwise, roleplay them as you see fit.
 
 The mirror has two command words. Speaking the word "Khomara" while standing within 5 feet of the mirror deactivates or reactivates it. (The mirror can't trap creatures while deactivated.) Speaking the word "Blackfire" along with a cell number frees the creature trapped in that cell.
 
-Casting an identify spell on the mirror reveals its command words and magical properties. The command words are also written in the spellbook found in area 28.
+Casting an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell on the mirror reveals its command words and magical properties. The command words are also written in the spellbook found in area 28.
 
 #### Destroying the Mirror
 
-If the mirror is destroyed, all creatures trapped within it are released at once. (See "chapter 7" of the *Dungeon Master's Guide* for the mirror's statistics.) Rather than running combat with so many creatures, assume that only the [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) and the troll attack the party initially. The other creatures react to their liberation by turning on one another or running away, as follows:
+If the mirror is destroyed, all creatures trapped within it are released at once. (See "chapter 7" of the *Dungeon Master's Guide* for the mirror's statistics.) Rather than running combat with so many creatures, assume that only the [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) and the troll attack the party initially. The other creatures react to their liberation by turning on one another or running away, as follows:
 
-- Lukanu and Zaal attack the gargoyle, destroying it in 4 rounds, and then help the characters deal with the [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) and the troll.  
+- Lukanu and Zaal attack the gargoyle, destroying it in 4 rounds, and then help the characters deal with the [invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) and the troll.  
 - The stirge attacks A'tan, killing him in 1 round. After draining A'tan's blood, the stirge flies away to digest its meal.  
 - The doppelganger tries to flee but doesn't go far, hoping that the characters survive and returning to thank them if they prevail.  
 - Tlad Xolbrys uses his magic to help the characters unless it looks like they're near defeat, whereupon the drow turns against them.  
@@ -2113,18 +2109,18 @@ If the mirror is destroyed, all creatures trapped within it are released at once
 
 | Cell | Prisoner | Notes | Reaction if Released |
 |------|----------|-------|----------------------|
-| 1 | A'tan (CN male Chultan human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) | Omuan merchant trapped shortly after the fall of Omu; driven insane by his long incarceration | Follows his liberators around, talking nonsense |
+| 1 | A'tan (CN male Chultan human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) | Omuan merchant trapped shortly after the fall of Omu; driven insane by his long incarceration | Follows his liberators around, talking nonsense |
 | 2 | — | — | — |
-| 3 | [Invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) | Mirror guardian | Tries to kill whoever released it, and vanishes if it succeeds |
-| 4 | Zaal ([minotaur](/3-Mechanics/CLI/bestiary/monstrosity/minotaur.md)) | Trapped by [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) shortly after Omu's fall | Attacks any other creature it sees except Lukanu, whom it obeys |
+| 3 | [Invisible stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) | Mirror guardian | Tries to kill whoever released it, and vanishes if it succeeds |
+| 4 | Zaal ([minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)) | Trapped by [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) shortly after Omu's fall | Attacks any other creature it sees except Lukanu, whom it obeys |
 | 5 | — | — | — |
-| 6 | Yraggath ([troll](/3-Mechanics/CLI/bestiary/giant/troll.md)) | Driven insane by its captivity | Attacks anything it can eat |
-| 7 | Tlad Xolbrys (NE male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md)) | A visitor to Omu who was trapped during the construction of the Tomb of the Nine Gods | Aids or betrays his liberators to ensure his own survival |
-| 8 | Pox ([doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md)) | Disguised as a male human adventurer named Biff Longsteel; followed the Company of the Yellow Banner into the tomb | Tries to join the party and stay out of harm's way |
-| 9 | [Giant four-armed gargoyle](/3-Mechanics/CLI/bestiary/elemental/giant-four-armed-gargoyle-toa.md) (see appendix D) | Mirror guardian | Attacks all other creatures, then stands guard next to the mirror |
+| 6 | Yraggath ([troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md)) | Driven insane by its captivity | Attacks anything it can eat |
+| 7 | Tlad Xolbrys (NE male [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md)) | A visitor to Omu who was trapped during the construction of the Tomb of the Nine Gods | Aids or betrays his liberators to ensure his own survival |
+| 8 | Pox ([doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md)) | Disguised as a male human adventurer named Biff Longsteel; followed the Company of the Yellow Banner into the tomb | Tries to join the party and stay out of harm's way |
+| 9 | [Giant four-armed gargoyle](3-Mechanics/CLI/bestiary/elemental/giant-four-armed-gargoyle-toa.md) (see appendix D) | Mirror guardian | Attacks all other creatures, then stands guard next to the mirror |
 | 10 | — | — | — |
-| 11 | Lukanu (N female Chultan [champion](/3-Mechanics/CLI/bestiary/humanoid/champion-vgm.md); see appendix D) | Bodyguard to Queen Napaka of Omu, trapped during the city's fall; wears [scorpion armor](/3-Mechanics/CLI/items/scorpion-armor-toa.md) (see appendix C) | Helps her liberators, but won't leave Omu until she learns what happened to Queen Napaka (see area 53) |
-| 12 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Trapped when it flew toward the mirror | Attacks the nearest warm-blooded creature |
+| 11 | Lukanu (N female Chultan [champion](3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md); see appendix D) | Bodyguard to Queen Napaka of Omu, trapped during the city's fall; wears [scorpion armor](3-Mechanics/CLI/items/scorpion-armor-toa.md) (see appendix C) | Helps her liberators, but won't leave Omu until she learns what happened to Queen Napaka (see area 53) |
+| 12 | [Stirge](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) | Trapped when it flew toward the mirror | Attacks the nearest warm-blooded creature |
 ^cell-prisoner-notes-reaction-if-released
 
 ### 51. Ghastly Door
@@ -2134,11 +2130,11 @@ If the mirror is destroyed, all creatures trapped within it are released at once
 > What appears to be a large stone door looms at the end of the hallway, but it bears no handles or hinges. Jutting from the wall on either side of the door are two matching bronze sculptures—each the head and neck of a serpent with fangs bared. On the lintel above the door is inscribed the following message in Common: "Warm like flame, cold for the cruel, still for the dead, gruel for the ghoul."
 ^451
 
-The stench of rotting flesh wafts from the bronze serpents. Close examination reveals dried blood in each statue's mouth and tiny tubes at the back of its neck. The tubes extend into secret rooms on either side of the door, where six [ghasts](/3-Mechanics/CLI/bestiary/undead/ghast.md) are confined (three per room).
+The stench of rotting flesh wafts from the bronze serpents. Close examination reveals dried blood in each statue's mouth and tiny tubes at the back of its neck. The tubes extend into secret rooms on either side of the door, where six [ghasts](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) are confined (three per room).
 
 The stone door opens when a pint or more of fresh blood is poured into the mouth of each bronze serpent. The blood drips into the chambers holding the ghasts, driving them into a slurping frenzy that can be heard through the serpents' open mouths. Once sated with blood, the ghasts yank chains to hoist the door open.
 
-The door weighs 1,000 pounds and can be lifted by characters with a combined Strength of 33 or more. If the characters do so, secret doors on either side of the hallway behind the door unlock and slide open. This releases the hungry ghasts, which fight until turned or destroyed. Each locked secret door can be opened with a knock spell or forced open by a character who succeeds on a DC 22 Strength (Athletics) check.
+The door weighs 1,000 pounds and can be lifted by characters with a combined Strength of 33 or more. If the characters do so, secret doors on either side of the hallway behind the door unlock and slide open. This releases the hungry ghasts, which fight until turned or destroyed. Each locked secret door can be opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or forced open by a character who succeeds on a DC 22 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ### 52. Throne Room
 
@@ -2162,22 +2158,22 @@ Any characters inhabited by the spirits of Obo'laka or Papazotl receive advice w
 
 #### Blind Artists
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/081-514.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/081-514.webp#center)
 
-The three creatures skulking about the room are undead servants of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md). Despite their blindness, each has the magical ability to perceive and paint scenes of pain, carnage, and death that have occurred in the Tomb of the Nine Gods.
+The three creatures skulking about the room are undead servants of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md). Despite their blindness, each has the magical ability to perceive and paint scenes of pain, carnage, and death that have occurred in the Tomb of the Nine Gods.
 
 One of the artists is presently painting over scenes depicting the fall of the Company of the Yellow Banner. All that remains is an image of a human male (the late Lord Brixton, whose remains can be found in area 63) choking on poisonous gas. The other two artists are in the process of painting images that capture the player characters' harrowing exploits in the tomb thus far. (Choose memorable moments in which one or more party members were badly wounded or killed.)
 
-The undead artists have the statistics of [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md), with these changes:
+The undead artists have the statistics of [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md), with these changes:
 
-- Instead of darkvision, each artist has blindsight out to a range of 30 feet. The artists are blind beyond this radius and immune to the blinded condition.  
+- Instead of [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), each artist has [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 30 feet. The artists are blind beyond this radius and immune to the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition.  
 - They have no effective attacks and are worth 0 XP.  
 
-If the characters turn or destroy any of the artists, a [tyrannosaurus zombie](/3-Mechanics/CLI/bestiary/undead/tyrannosaurus-zombie-toa.md) (see appendix D) bursts up from a cavity beneath the floor and attacks, leaving a 20-foot diameter hole and shattered floor tiles behind. While it's too big to squeeze down any 5-foot-wide corridors, it can easily traverse the wider passageway to the east.
+If the characters turn or destroy any of the artists, a [tyrannosaurus zombie](3-Mechanics/CLI/bestiary/undead/tyrannosaurus-zombie-toa.md) (see appendix D) bursts up from a cavity beneath the floor and attacks, leaving a 20-foot diameter hole and shattered floor tiles behind. While it's too big to squeeze down any 5-foot-wide corridors, it can easily traverse the wider passageway to the east.
 
 #### Throne of Acererak
 
-The throne is made from the skin and bones of slain Omuan warriors, and the skulls of Omuan children are piled around it. The skull atop the throne once belonged to a minotaur guardian of Omu named Karagos. Any creature that touches the skull or sits in the throne must succeed on a DC 16 Charisma saving throw or become cursed with the Rage of Karagos. When cursed, the creature gains 50 temporary hit points and goes berserk. Until the curse is lifted, the victim is forced to attack the nearest creature it can see with melee attacks. It can't make ranged attacks or cast spells, and if it can't see any creatures to attack, it does nothing. The curse ends if the berserk creature drops to 0 hit points, or if a greater restoration or remove curse spell is cast on it. When the curse ends, the temporary hit points granted by it disappear.
+The throne is made from the skin and bones of slain Omuan warriors, and the skulls of Omuan children are piled around it. The skull atop the throne once belonged to a minotaur guardian of Omu named Karagos. Any creature that touches the skull or sits in the throne must succeed on a DC 16 Charisma saving throw or become cursed with the Rage of Karagos. When cursed, the creature gains 50 temporary hit points and goes berserk. Until the curse is lifted, the victim is forced to attack the nearest creature it can see with melee attacks. It can't make ranged attacks or cast spells, and if it can't see any creatures to attack, it does nothing. The curse ends if the berserk creature drops to 0 hit points, or if a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) or [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell is cast on it. When the curse ends, the temporary hit points granted by it disappear.
 
 ##### Acererak's Scepter
 
@@ -2196,17 +2192,17 @@ A properly closed secret door in the southeast corner of the room leads to a spi
 > The walls of this room are adorned with tile mosaics of a jungle city intermingled with frescoes of flowering plants, birds, insects, and humans wearing gold skirts and carrying spears and ornate jugs. The ceiling is painted to look like a clear blue sky. A small bejeweled cockroach rests atop a sarcophagus of black basalt in the middle of the room. A two-foot-diameter orb hanging from a chain above the sarcophagus is made of hammered gold to resemble a smiling sun.
 ^45a
 
-After [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) slew the trickster gods of Omu and enslaved the city, Napaka, the city's elderly queen, chose not to flee, and instead offered herself as a sacrifice in exchange for the release of her people. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) was impressed by the queen's courage—not enough to spare her life or honor her request, but enough to place her in a special crypt.
+After [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) slew the trickster gods of Omu and enslaved the city, Napaka, the city's elderly queen, chose not to flee, and instead offered herself as a sacrifice in exchange for the release of her people. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) was impressed by the queen's courage—not enough to spare her life or honor her request, but enough to place her in a special crypt.
 
-A detect magic spell or similar effect reveals auras of evocation magic around the golden sun and the bejeweled cockroach (see "Treasure" below).
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals auras of evocation magic around the golden sun and the bejeweled cockroach (see "Treasure" below).
 
-The lid of the black sarcophagus bears a name etched in Common: NAPAKA. The lid is sealed with strips of melted lead that can be easily pried away. Once the lead is removed, the lid can be pushed aside with a successful DC 15 Strength (Athletics) check. The interior of the sarcophagus is lined with lead and contains several treasures (see "Treasure" below).
+The lid of the black sarcophagus bears a name etched in Common: NAPAKA. The lid is sealed with strips of melted lead that can be easily pried away. Once the lead is removed, the lid can be pushed aside with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The interior of the sarcophagus is lined with lead and contains several treasures (see "Treasure" below).
 
 #### Golden Sun
 
-Whenever the sun or its chain are touched or damaged, the sun's smile fades to an inscrutable expression, and it emits tremendous heat in a 20-foot-radius sphere centered on itself. Any creature that starts its turn in the area takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage. This effect ends if all creatures leave the affected area.
+Whenever the sun or its chain are touched or damaged, the sun's smile fades to an inscrutable expression, and it emits tremendous heat in a 20-foot-radius sphere centered on itself. Any creature that starts its turn in the area takes 10 (`3d6`) fire damage. This effect ends if all creatures leave the affected area.
 
-The first time the queen's remains or any of her treasures are removed from the sarcophagus, the sun's expression turns angry as it emits rays of searing light. Each creature within 30 feet of the sun that doesn't have total cover against it must succeed on a DC 14 Dexterity saving throw or be struck by a ray, which deals `dice:12d6|noform|noparens|avg|text(42)` (`12d6`) fire damage.
+The first time the queen's remains or any of her treasures are removed from the sarcophagus, the sun's expression turns angry as it emits rays of searing light. Each creature within 30 feet of the sun that doesn't have total cover against it must succeed on a DC 14 Dexterity saving throw or be struck by a ray, which deals 42 (`12d6`) fire damage.
 
 The sun and its chain are treated as a single Small object with AC 15; 22 hit points; and immunity to fire, poison, and psychic damage. The sun loses its magical properties when it shoots its rays or is destroyed.
 
@@ -2216,23 +2212,23 @@ The jewelry box and the sarcophagus contain treasure.
 
 ##### Jewelry Box
 
-The cockroach-shaped jewelry box is made of gold, set with precious gems (including tiny black pearls for its eyes), and worth 1,500 gp. It weighs 5 pounds and contains two items: a small jade key shaped like a crocodile (designed to fit in the keyhole in area 62B) and a necklace of fireballs with eight beads remaining. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) placed a curse on the necklace, which can be revealed by an identify spell.
+The cockroach-shaped jewelry box is made of gold, set with precious gems (including tiny black pearls for its eyes), and worth 1,500 gp. It weighs 5 pounds and contains two items: a small jade key shaped like a crocodile (designed to fit in the keyhole in area 62B) and a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs-xdmg.md) with eight beads remaining. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) placed a curse on the necklace, which can be revealed by an [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell.
 
-When any creature dons the cursed necklace, all its beads detonate at once. Each creature in a 20-foot-radius sphere centered on the exploding necklace must make a DC 15 Dexterity saving throw, taking `dice:16d6|noform|noparens|avg|text(56)` (`16d6`) fire damage on a failed save, or half as much damage on a successful one. The wearer of the necklace fails the saving throw automatically. A remove curse spell or similar magic removes the curse from the necklace.
+When any creature dons the cursed necklace, all its beads detonate at once. Each creature in a 20-foot-radius sphere centered on the exploding necklace must make a DC 15 Dexterity saving throw, taking 56 (`16d6`) fire damage on a failed save, or half as much damage on a successful one. The wearer of the necklace fails the saving throw automatically. A [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic removes the curse from the necklace.
 
 ##### Sarcophagus
 
 The sarcophagus contains the magically preserved remains of Queen Napaka. She wears the tattered remnants of a black gown and a hornet mask made of painted gold (250 gp).
 
-In her left hand, Napaka holds an iron scepter with an adamantine head, which is lighter than it appears (5 pounds). A detect magic spell or similar effect reveals an aura of transmutation magic around the scepter, which can be used to destroy the stone juggernaut in area 62. Casting an identify, legend lore, or similar spell on the scepter reveals that its singular purpose is to destroy a construct named after Napaka.
+In her left hand, Napaka holds an iron scepter with an adamantine head, which is lighter than it appears (5 pounds). A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of transmutation magic around the scepter, which can be used to destroy the stone juggernaut in area 62. Casting an [identify](3-Mechanics/CLI/spells/identify-xphb.md), [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md), or similar spell on the scepter reveals that its singular purpose is to destroy a construct named after Napaka.
 
-If the scepter is removed and not immediately replaced with its nonmagical twin from area 52, or if Napaka's remains are removed from their resting place, the queen's corpse opens its mouth in a wide yawn and exhales a baleful black gas that fills a 15-foot cube centered on it. Each creature in the area must make a DC 18 Constitution saving throw, taking `dice:7d12|noform|noparens|avg|text(45)` (`7d12`) necrotic damage on a failed save, or half as much damage on a successful one.
+If the scepter is removed and not immediately replaced with its nonmagical twin from area 52, or if Napaka's remains are removed from their resting place, the queen's corpse opens its mouth in a wide yawn and exhales a baleful black gas that fills a 15-foot cube centered on it. Each creature in the area must make a DC 18 Constitution saving throw, taking 45 (`7d12`) necrotic damage on a failed save, or half as much damage on a successful one.
 
 #### Questioning Napaka
 
-Queen Napaka has been dead for more than a century. If a speak with dead spell is cast on her corpse, the characters can ask it questions about Omu and receive honest answers. Napaka came to believe that the gods of Omu were not truly divine beings but rather trickster spirits that had fooled the Omuan people into worshiping them. The queen remembers [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) killing the trickster gods and enslaving the Omuans, but she knows nothing about the Tomb of the Nine Gods, which was built after her death. She knows that a few members of the royal family fled Omu, but she is unaware that the aarakocra are sheltering her great-grandchildren at Kir Sabal. Napaka knows that her grandmother, Zalkoré, languishes in the ruins of Nangalore.
+Queen Napaka has been dead for more than a century. If a [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md) spell is cast on her corpse, the characters can ask it questions about Omu and receive honest answers. Napaka came to believe that the gods of Omu were not truly divine beings but rather trickster spirits that had fooled the Omuan people into worshiping them. The queen remembers [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) killing the trickster gods and enslaving the Omuans, but she knows nothing about the Tomb of the Nine Gods, which was built after her death. She knows that a few members of the royal family fled Omu, but she is unaware that the aarakocra are sheltering her great-grandchildren at Kir Sabal. Napaka knows that her grandmother, Zalkoré, languishes in the ruins of Nangalore.
 
-Even in death, Napaka pines for Omu to be reborn and repopulated. However, what she desires above all is the destruction of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md).
+Even in death, Napaka pines for Omu to be reborn and repopulated. However, what she desires above all is the destruction of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md).
 
 ### 54. Rolling Doom
 
@@ -2245,23 +2241,23 @@ The chest (area 54A) is the trigger for a trap. When the chest or its lid is lif
 
 #### 54A. Treasure Chest
 
-The lock on the chest can be picked with a successful DC 10 Dexterity check made using thieves' tools. Within the chest is an invisible key, 3 inches long and made of brass. Any character who manually searches inside the chest feels the key, which unlocks the clock in area 56.
+The lock on the chest can be picked with a successful DC 10 Dexterity check made using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). Within the chest is an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) key, 3 inches long and made of brass. Any character who manually searches inside the chest feels the key, which unlocks the clock in area 56.
 
-If the chest is smashed by the granite ball (see below), the invisible key is lost in the wreckage but can be found with a successful DC 15 Wisdom (Perception) check.
+If the chest is smashed by the granite ball (see below), the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) key is lost in the wreckage but can be found with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
-A detect magic spell or similar effect also reveals the presence of the key, either in the chest or among the wreckage. A successful dispel magic (DC 14) cast on the key renders it visible.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect also reveals the presence of the key, either in the chest or among the wreckage. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 14) cast on the key renders it visible.
 
 #### 54B. Granite Ball
 
-A 5-foot-diameter sphere of solid granite balances within a secret compartment at the top of the stairs. Finding the compartment requires that a character search the tunnel ceiling and succeed on a DC 15 Wisdom (Perception) check. The hatch can be jammed with an iron spike or with a successful DC 20 Dexterity check made using thieves' tools.
+A 5-foot-diameter sphere of solid granite balances within a secret compartment at the top of the stairs. Finding the compartment requires that a character search the tunnel ceiling and succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The hatch can be jammed with an iron spike or with a successful DC 20 Dexterity check made using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md).
 
-When released, the stone ball thunders down the stairs and tumbles into the pit at 54C. Any character on the stairs or in the tunnel below can stay ahead of the ball by running toward the pit. A character can also leap over the ball with a successful DC 15 Dexterity (Acrobatics) check. Any character who fails the check or can't move out of the ball's way is struck for `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) bludgeoning damage and knocked prone. The ball also flattens the treasure chest (54A) as it tumbles through.
+When released, the stone ball thunders down the stairs and tumbles into the pit at 54C. Any character on the stairs or in the tunnel below can stay ahead of the ball by running toward the pit. A character can also leap over the ball with a successful DC 15 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check. Any character who fails the check or can't move out of the ball's way is struck for 22 (`4d10`) bludgeoning damage and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). The ball also flattens the treasure chest (54A) as it tumbles through.
 
 #### 54C. Acid Pit
 
-The walls of this 10-foot-deep pit are lined with thick glass, and the pit is filled with green acid to a depth of 5 feet. The pit's lid is crafted of interlocking stone tiles that fall apart beneath 100 pounds or more of weight. Any character who searches the floor notices the unusual stonework and smells the acid below with a successful DC 13 Wisdom (Perception) check.
+The walls of this 10-foot-deep pit are lined with thick glass, and the pit is filled with green acid to a depth of 5 feet. The pit's lid is crafted of interlocking stone tiles that fall apart beneath 100 pounds or more of weight. Any character who searches the floor notices the unusual stonework and smells the acid below with a successful DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
-A creature in the area of the pit when the floor collapses can avoid a fall and grab the edge of the pit with a successful DC 15 Dexterity saving throw. The saving throw is made with disadvantage if the character was unaware of the pit. Any creature that enters the acid for the first time on a turn or starts its turn there takes `dice:12d10|noform|noparens|avg|text(66)` (`12d10`) acid damage. The walls of the pit are too smooth to climb without the aid of magic or climbing gear.
+A creature in the area of the pit when the floor collapses can avoid a fall and grab the edge of the pit with a successful DC 15 Dexterity saving throw. The saving throw is made with disadvantage if the character was unaware of the pit. Any creature that enters the acid for the first time on a turn or starts its turn there takes 66 (`12d10`) acid damage. The walls of the pit are too smooth to climb without the aid of magic or climbing gear.
 
 The pit's acid can be safely contained in glass vials if the characters have any at hand, and can then be used as the acid in chapter 5, "Equipment," of the *Player's Handbook*.
 
@@ -2290,7 +2286,7 @@ When the wall carving is examined, read:
 > The intricate carving shifts before your eyes, its configuration ever-changing. The maze has no exits, and its corridors are lit by tiny torches and clouded by fog.
 ^469
 
-Any non-undead creature that touches the wall carving vanishes and reappears in a demiplanar maze, the configuration of which matches that of the carving. The first time this happens, all the secret doors slide open as the minotaur bones knit together, forming ten [minotaur skeletons](/3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md) that emerge from their chambers and attack anyone in the tomb. All creatures present should roll initiative, including anyone trapped in the maze. The keys to open Unkh's sarcophagus are hidden in the maze.
+Any non-undead creature that touches the wall carving vanishes and reappears in a demiplanar maze, the configuration of which matches that of the carving. The first time this happens, all the secret doors slide open as the minotaur bones knit together, forming ten [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md) that emerge from their chambers and attack anyone in the tomb. All creatures present should roll initiative, including anyone trapped in the maze. The keys to open Unkh's sarcophagus are hidden in the maze.
 
 When a character arrives in the maze, describe it as follows:
 
@@ -2303,7 +2299,7 @@ Characters standing near the wall carving can see characters trapped in the maze
 
 The configuration of the maze constantly changes to ensure that characters within it remain separated and unable to find each other. Visibility within the maze is limited to 20 feet because of the churning fog. Spells that are altered within the tomb are similarly altered in the maze (see "Spell Restrictions").
 
-The walls of the maze can be climbed with a successful DC 20 Strength (Athletics) check. Any character who climbs to the top of the walls or flies beyond them is expelled from the maze, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) force damage and reappearing with a loud pop in an unoccupied space near the wall carving.
+The walls of the maze can be climbed with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Any character who climbs to the top of the walls or flies beyond them is expelled from the maze, taking 22 (`5d8`) force damage and reappearing with a loud pop in an unoccupied space near the wall carving.
 
 ##### Finding a Key
 
@@ -2311,13 +2307,11 @@ Any character in the maze can spend time exploring it. At the end of each turn s
 
 #### Maze Discoveries
 
-`dice: [](06-chapter-5-tomb-of-the-nine-gods.md#^discovery)`
-
 | dice: d100 | Discovery |
 |------------|-----------|
 | 01–70 | Nothing |
 | 71–75 | Skeletal remains of an Omuan child |
-| 76–84 | [Minotaur](/3-Mechanics/CLI/bestiary/monstrosity/minotaur.md) that fights to the death |
+| 76–84 | [Minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) that fights to the death |
 | 85–87 | Blue crystal key |
 | 88–90 | Gold crystal key |
 | 91–93 | Purple crystal key |
@@ -2330,52 +2324,52 @@ Any character in the maze can spend time exploring it. At the end of each turn s
 
 Any character who examines the sarcophagus notices a tiny keyhole carved into its lid. The keyhole does not penetrate to the interior of the sarcophagus, and there are no mechanisms within it to pick or disarm. The sarcophagus is impervious to damage and spells.
 
-The crystal sarcophagus changes color every 6 seconds, shifting through the following repeating cycle: blue, gold, purple, green, red, black. If a crystal key claimed from the maze is inserted into the keyhole when the sarcophagus and the key are the same color, the sarcophagus lid disappears, and the contents of the sarcophagus are revealed (see "Treasure" below). At the same time, the character who retrieved the key from the maze receives a supernatural gift from a mysterious benefactor (see "[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s Gift" below).
+The crystal sarcophagus changes color every 6 seconds, shifting through the following repeating cycle: blue, gold, purple, green, red, black. If a crystal key claimed from the maze is inserted into the keyhole when the sarcophagus and the key are the same color, the sarcophagus lid disappears, and the contents of the sarcophagus are revealed (see "Treasure" below). At the same time, the character who retrieved the key from the maze receives a supernatural gift from a mysterious benefactor (see "[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s Gift" below).
 
 If a crystal key is inserted when the sarcophagus and the key are not the same color, the key is teleported back to the maze and the sarcophagus remains sealed.
 
 #### Treasure
 
-The sarcophagus is filled with salt, within which are buried ten opalescent bracelets (75 gp each) made from the shell of a flail snail (Unkh's animal form; see appendix D) and a robe of scintillating colors. The robe turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
+The sarcophagus is filled with salt, within which are buried ten opalescent bracelets (75 gp each) made from the shell of a flail snail (Unkh's animal form; see appendix D) and a [robe of scintillating colors](3-Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md). The robe turns to dust and is destroyed if it leaves the Tomb of the Nine Gods (but see "Lost Treasures").
 
 ##### Unkh's Spirit
 
-The spirit of Unkh tries to inhabit any character who touches the robe of scintillating colors (see "Spirits of the Nine Trickster Gods"). When Unkh's spirit manifests, read:
+The spirit of Unkh tries to inhabit any character who touches the [robe of scintillating colors](3-Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md) (see "Spirits of the Nine Trickster Gods"). When Unkh's spirit manifests, read:
 
 > [!readaloud] 
 > 
 > Slime pours from the folds of the scintillating robe to take the form of multiple flail-like pseudopods. A female voice echoes through the chamber: "I can help you. At least, I think that's what I'm supposed to do."
 ^470
 
-If the spirit successfully inhabits the character, give the player [Unkh's card](/3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Unkh) (see appendix F). If the attempt fails, the spirit returns to the robe and waits for another character to touch it.
+If the spirit successfully inhabits the character, give the player [Unkh's card](3-Mechanics/CLI/decks/trickster-gods-of-omu-toa.md#Unkh) (see appendix F). If the attempt fails, the spirit returns to the robe and waits for another character to touch it.
 
 #### Acererak's Gift
 
-The character who retrieves the crystal key used to open Unkh's sarcophagus receives a supernatural gift from [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) that varies based on the key's color. The character becomes aware of the gift when [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s arcane sigil appears somewhere on his or her body. The source of the gift cannot be confirmed without consulting a higher power, but the mark can be removed with a lesser restoration spell or similar magic. These gifts otherwise follow the rules for charms in ""Other Rewards"," chapter 7 of the *Dungeon Master's Guide*.
+The character who retrieves the crystal key used to open Unkh's sarcophagus receives a supernatural gift from [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) that varies based on the key's color. The character becomes aware of the gift when [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s arcane sigil appears somewhere on his or her body. The source of the gift cannot be confirmed without consulting a higher power, but the mark can be removed with a [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic. These gifts otherwise follow the rules for charms in ""Other Rewards"," chapter 7 of the *Dungeon Master's Guide*.
 
 ##### Black Key
 
-The recipient gains a *charm of nine lives*. When you drop to 0 hit points as a result of taking damage, you can choose to drop to 1 hit point instead. Once used nine times, the charm goes away.
+The recipient gains a [charm of nine lives](3-Mechanics/CLI/rewards/charm-of-nine-lives-toa.md). When you drop to 0 hit points as a result of taking damage, you can choose to drop to 1 hit point instead. Once used nine times, the charm goes away.
 
 ##### Blue Key
 
-The recipient gains a *charm of the crystal heart*. This charm grants you immunity to piercing and slashing damage from nonmagical attacks, but you gain vulnerability to bludgeoning damage. These effects last for 10 days, after which the charm vanishes from you.
+The recipient gains a [charm of the crystal heart](3-Mechanics/CLI/rewards/charm-of-the-crystal-heart-toa.md). This charm grants you immunity to piercing and slashing damage from nonmagical attacks, but you gain vulnerability to bludgeoning damage. These effects last for 10 days, after which the charm vanishes from you.
 
 ##### Gold Key
 
-The recipient gains a *charm of treasure sense*. While this charm lasts, you can use an action to pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 30 feet of you. The effect lasts for 3 days, after which the charm vanishes from you.
+The recipient gains a [charm of treasure sense](3-Mechanics/CLI/rewards/charm-of-treasure-sense-toa.md). While this charm lasts, you can use an action to pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 30 feet of you. The effect lasts for 3 days, after which the charm vanishes from you.
 
 ##### Green Key
 
-The recipient gains a *charm of the swollen**hag*. This charm allows you to spit up a [frog](/3-Mechanics/CLI/bestiary/beast/frog.md) as an action. The frog understands you and obeys your commands. Once used three times, the charm goes away.
+The recipient gains a [charm of the swollen hag](3-Mechanics/CLI/rewards/charm-of-the-swollen-hag-toa.md). This charm allows you to spit up a [frog](3-Mechanics/CLI/bestiary/beast/frog-xmm.md) as an action. The frog understands you and obeys your commands. Once used three times, the charm goes away.
 
 ##### Purple Key
 
-The recipient gains a *charm of the maimed*. This charm allows you to regrow a lost appendage or organ, such as an arm, a foot, or an eye. After it is used once, the charm goes away.
+The recipient gains a [charm of the maimed](3-Mechanics/CLI/rewards/charm-of-the-maimed-toa.md). This charm allows you to regrow a lost appendage or organ, such as an arm, a foot, or an eye. After it is used once, the charm goes away.
 
 ##### Red Key
 
-The recipient gains a *charm of the ghoul*. This charm allows you to use an action to eat a mouthful of flesh from a humanoid that has been dead no longer than 1 day. When you do, you regain `dice:3d8+3|noform|noparens|avg` (`3d8 + 3`) hit points. Once used three times, the charm goes away.
+The recipient gains a [charm of the ghoul](3-Mechanics/CLI/rewards/charm-of-the-ghoul-toa.md). This charm allows you to use an action to eat a mouthful of flesh from a humanoid that has been dead no longer than 1 day. When you do, you regain `3d8 + 3` hit points. Once used three times, the charm goes away.
 
 ### 56. Grandfather Clock
 
@@ -2386,7 +2380,7 @@ Any character approaching this room hears a rhythmic ticking sound from within.
 > This room contains a wooden cabinet with a numbered dial at its top set with two ornate metal spokes. Beneath the dial, a pendulum swings inside an open compartment. An egg-shaped stone adorns the pendulum's tip.
 ^479
 
-This long-case clock radiates an aura of transmutation magic to a detect magic spell or similar effect.
+This long-case clock radiates an aura of transmutation magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect.
 
 #### Advice from the Spirits
 
@@ -2397,9 +2391,9 @@ Any characters inhabited by the spirits of Unkh or Wongo receive advice when ent
 
 #### Clock
 
-Bronze chimes within the clock ring at the top of each hour. Any creature within 30 feet of the clock when it strikes the top of the hour must succeed on a DC 17 Constitution saving throw or age by ten years. The effect can be reversed by a greater restoration spell, but only within 24 hours of it occurring. When characters first arrive, assume the time is `dice:5d10+5|noform|noparens|avg` (`5d10 + 5`) minutes past the hour.
+Bronze chimes within the clock ring at the top of each hour. Any creature within 30 feet of the clock when it strikes the top of the hour must succeed on a DC 17 Constitution saving throw or age by ten years. The effect can be reversed by a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell, but only within 24 hours of it occurring. When characters first arrive, assume the time is `5d10 + 5` minutes past the hour.
 
-An invisible locked metal door shields the compartment containing the clock's pendulum. The invisibility effect on the door can't be dispelled, but the keyhole can be located by touch. The invisible key from the treasure chest in area 54A opens the lock, as does a knock spell. To pick the lock, a character must succeed on a DC 20 Dexterity check made using thieves' tools. If the character thinks to blow powdered chalk, dust, or a similar substance into the lock to highlight its gears, the check is made with advantage.
+An invisible locked metal door shields the compartment containing the clock's pendulum. The invisibility effect on the door can't be dispelled, but the keyhole can be located by touch. The invisible key from the treasure chest in area 54A opens the lock, as does a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell. To pick the lock, a character must succeed on a DC 20 Dexterity check made using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). If the character thinks to blow powdered chalk, dust, or a similar substance into the lock to highlight its gears, the check is made with advantage.
 
 #### Treasure
 
@@ -2416,9 +2410,9 @@ Any creature that tries to magically transport itself out of the tomb arrives he
 > You arrive in a room half-filled with rotting corpses. Protruding from one wall is a large green devil's face, its flared nostrils set just above the putrescent mass. A sconce above the face holds a flickering torch.
 ^47e
 
-The torch burns with a continual flame spell, illuminating the humanoid corpses that fill the room to a depth of 6 feet and make the area difficult terrain. As needed, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic draws new corpses here from graveyards across the world, all in various states of decay.
+The torch burns with a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell, illuminating the humanoid corpses that fill the room to a depth of 6 feet and make the area difficult terrain. As needed, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic draws new corpses here from graveyards across the world, all in various states of decay.
 
-An [otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh.md) feeds on the corpses and is presently buried under the heap in the southwest corner. Any character who succeeds on a DC 14 Wisdom (Perception) check spots the creature's eyestalk poking up above the reeking mass. The otyugh eagerly attacks a lone character but avoids confrontations with multiple enemies. Once killed, the otyugh is not replaced.
+An [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md) feeds on the corpses and is presently buried under the heap in the southwest corner. Any character who succeeds on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots the creature's eyestalk poking up above the reeking mass. The otyugh eagerly attacks a lone character but avoids confrontations with multiple enemies. Once killed, the otyugh is not replaced.
 
 #### Green Devil Face
 
@@ -2435,12 +2429,12 @@ If the characters return to this room at a later time, the effects of the levers
 Map 5.5 shows this level of the dungeon. The Soulmonger draws power from the machinery on this level. The rumbling of that machinery echoes throughout all areas here, setting up tremors in the riveted metal panels that clad many of the walls, floors, and ceilings. The malign influence of an aboleth also pollutes this level.
 
 > [!gallery]
-> ![Map 5.5: Gears of Hate](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/082-515.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/083-515a.webp#gallery)
+> ![Map 5.5: Gears of Hate](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/082-515.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/083-515a.webp#gallery)
 
 ### Aboleth Slime
 
-Puddles of viscid gray slime cover the floor in some areas, as marked on map 5.5. These areas are difficult terrain, and any creature that starts its turn in a puddle of slime or comes into contact with it for the first time on a turn takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) psychic damage. A slime puddle is destroyed if it takes any cold, radiant, or necrotic damage. It is immune to all other types of damage.
+Puddles of viscid gray slime cover the floor in some areas, as marked on map 5.5. These areas are difficult terrain, and any creature that starts its turn in a puddle of slime or comes into contact with it for the first time on a turn takes 5 (`1d10`) psychic damage. A slime puddle is destroyed if it takes any cold, radiant, or necrotic damage. It is immune to all other types of damage.
 
 ### Great Stone Gears
 
@@ -2455,7 +2449,7 @@ Areas 58, 59, and 60 are constructed within giant stone gears. When the characte
 
 Whenever this room is rotated by the controls in area 61, the sprinkler draws water from the underground lake (area 65) to spray the plants in the room. Magic keeps the plants alive despite the lack of sunlight.
 
-If the cogs are turned so that one of the doorways lines up with area 63 to the north, gas from that area billows into the garden and transforms random piles of compost into three [shambling mounds](/3-Mechanics/CLI/bestiary/plant/shambling-mound.md), which rise up and attack any other creatures in the room. After 1 hour, the shambling mounds revert to dead compost.
+If the cogs are turned so that one of the doorways lines up with area 63 to the north, gas from that area billows into the garden and transforms random piles of compost into three [shambling mounds](3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md), which rise up and attack any other creatures in the room. After 1 hour, the shambling mounds revert to dead compost.
 
 The shaft in the ceiling ascends 15 feet to area 45. To scale the smooth walls of the shaft, a character needs a climbing gear or magic.
 
@@ -2481,7 +2475,7 @@ To raise the portcullis, monsters from all five wardrobes must be summoned and s
 
 Each wardrobe contains a one-way gate to another plane, which deactivates if the wardrobe is removed from this chamber or destroyed. Any creature attempting to pass through a wardrobe's gate from this side is forced back and cannot enter.
 
-Each wardrobe weighs 250 pounds, stands 6½ feet tall, and radiates an aura of conjuration magic to a detect magic spell or similar effect. A wardrobe is a Medium object with AC 11, 30 hit points, and immunity to poison and psychic damage.
+Each wardrobe weighs 250 pounds, stands 6½ feet tall, and radiates an aura of conjuration magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. A wardrobe is a Medium object with AC 11, 30 hit points, and immunity to poison and psychic damage.
 
 #### Acheron Wardrobe
 
@@ -2492,7 +2486,7 @@ The scene on this door depicts an army of orcs clashing with an army of hobgobli
 > Dust and smoke billow from the wardrobe, and the air around you sounds out with the roar of battle. Beyond the doors, armies fight under a blood-red sky that has an iron cube floating in it like a huge, distant moon. Clouds of ash suddenly fly out of the wardrobe, transforming into screaming orcs before your eyes.
 ^48b
 
-Opening the wardrobe summons an [orc war chief](/3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md) and seven [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md). Their bodies, armor, and weapons remain in this chamber when they die.
+Opening the wardrobe summons an [orc war chief](3-Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md) and seven [orcs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md). Their bodies, armor, and weapons remain in this chamber when they die.
 
 #### Gehenna Wardrobe
 
@@ -2503,7 +2497,7 @@ This door depicts a grinning night hag with a swaddled human infant in her arms.
 > The door opens above the caldera of an active volcano. Shards of black rock float above the molten magma. Perched atop one shard are two man-sized creatures with insectoid features and four arms apiece.
 ^48d
 
-Opening the wardrobe reveals two [mezzoloths](/3-Mechanics/CLI/bestiary/fiend/mezzoloth.md), which teleport into the room and attack. When a mezzoloth dies, its body transforms into wisps of oily smoke, though its trident remains.
+Opening the wardrobe reveals two [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md), which teleport into the room and attack. When a mezzoloth dies, its body transforms into wisps of oily smoke, though its trident remains.
 
 #### Mechanus Wardrobe
 
@@ -2514,7 +2508,7 @@ This door is carved to depict the face of an ornate clock. When the door is open
 > Enormous interlocking gears and cogs stretch as far as you can see. Suddenly, a spherical construct with spindly legs and small wings tumbles through the open doorway.
 ^48f
 
-Opening the wardrobe summons a clueless, disoriented [monodrone](/3-Mechanics/CLI/bestiary/construct/monodrone.md) that lands prone at the characters' feet. It then tries to right itself and reenter the wardrobe, but is rebuffed by the wardrobe's magic. The modron fights only in self-defense and disintegrates if destroyed.
+Opening the wardrobe summons a clueless, disoriented [monodrone](3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md) that lands [prone](3-Mechanics/CLI/rules/conditions.md#Prone) at the characters' feet. It then tries to right itself and reenter the wardrobe, but is rebuffed by the wardrobe's magic. The modron fights only in self-defense and disintegrates if destroyed.
 
 #### Nine Hells Wardrobe
 
@@ -2525,7 +2519,7 @@ The scene on this door depicts twisted, screaming humanoid faces wrapped in chai
 > Waves of heat assail you as the door opens, revealing an iron road leading to a basalt citadel surrounded by the charred remains of defeated armies. Prisoners scream from iron gibbets that festoon the citadel walls. Suddenly, a single glowing ember flies out of the wardrobe and transforms into a winged, bony fiend with a smiling, skull-like visage.
 ^491
 
-Opening the wardrobe summons a [bone devil](/3-Mechanics/CLI/bestiary/fiend/bone-devil.md). When it dies, its body transforms into a pool of stinking ichor.
+Opening the wardrobe summons a [bone devil](3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md). When it dies, its body transforms into a pool of stinking ichor.
 
 #### Shadowfell Wardrobe
 
@@ -2536,7 +2530,7 @@ The scene on this door depicts ghouls gnawing on bones. When the door is opened,
 > You gaze out across an ancient cemetery, its canted tombstones shrouded in fog. Eerie, hungry shapes move among the graves in the distance. Suddenly, bright glowing balls of light appear in the room behind you.
 ^493
 
-Opening the wardrobe summons four [will-o'-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md), which are invisible until they attack. Nothing remains of them when they are destroyed.
+Opening the wardrobe summons four [will-o'-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md), which are [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) until they attack. Nothing remains of them when they are destroyed.
 
 ### 61. Control Room
 
@@ -2561,7 +2555,7 @@ A hidden crawlway runs from the underside of the lectern to area 70, but it cann
 
 #### Control Panel
 
-The control panel is a Medium object with AC 15, a damage threshold of 10, 15 hit points, and immunity to poison and psychic damage. Destroying the panel disables the controls and causes arcs of lightning to momentarily erupt from the iron lectern. Each creature in the room must succeed on a DC 16 Dexterity saving throw or be struck by lightning, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) lightning damage.
+The control panel is a Medium object with AC 15, a damage threshold of 10, 15 hit points, and immunity to poison and psychic damage. Destroying the panel disables the controls and causes arcs of lightning to momentarily erupt from the iron lectern. Each creature in the room must succeed on a DC 16 Dexterity saving throw or be struck by lightning, taking 11 (`2d10`) lightning damage.
 
 The controls atop the iron lectern have no labels, so their purpose must be discovered with experimentation.
 
@@ -2579,19 +2573,19 @@ The lever begins in the up position. If pulled to the down position, the lever l
 
 The slime covers the floor to a depth of 1 inch per round. If the crawlway to area 70 is exposed (see "Concealed Crawlway" above), the slime does not accumulate in the room and instead pours into the crawlspace.
 
-The lever's locking mechanism can be released with a successful DC 15 Dexterity check made by a character using thieves' tools. If released, the lever automatically shifts to the up position, shutting the valves in the pipes and stopping the flow of slime. The lever can be torn from the console with a successful DC 15 Strength (Athletics) check, which has the same effect.
+The lever's locking mechanism can be released with a successful DC 15 Dexterity check made by a character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). If released, the lever automatically shifts to the up position, shutting the valves in the pipes and stopping the flow of slime. The lever can be torn from the console with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, which has the same effect.
 
 The gold lever has another function, which is revealed in area 67.
 
 ##### Red Button
 
-Pushing the red button causes a 6-inch-thick wall of iron to drop from the ceiling in the doorway, sealing off the east exit. Any creature in the doorway when the wall drops must make a DC 15 Dexterity saving throw. On a successful save, the creature is pushed to one side of the barrier or the other (its choice). On a failed save, the creature is pinned under the wall, falls prone, and takes `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) bludgeoning damage. A pinned creature is restrained, can't stand up, and takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage at the start of each of its turns until it crawls out from under the door or another creature pulls it free, either of which requires an action and a successful DC 25 Strength (Athletics) check. The iron wall remains locked in place for 1 hour, after which it rises back into the ceiling on its own. It can't be lifted or pried open, though a knock spell causes it to retract into the ceiling. While the iron wall is down, pushing the red button has no effect.
+Pushing the red button causes a 6-inch-thick wall of iron to drop from the ceiling in the doorway, sealing off the east exit. Any creature in the doorway when the wall drops must make a DC 15 Dexterity saving throw. On a successful save, the creature is pushed to one side of the barrier or the other (its choice). On a failed save, the creature is pinned under the wall, falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone), and takes 44 (`8d10`) bludgeoning damage. A pinned creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), can't stand up, and takes 11 (`2d10`) bludgeoning damage at the start of each of its turns until it crawls out from under the door or another creature pulls it free, either of which requires an action and a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The iron wall remains locked in place for 1 hour, after which it rises back into the ceiling on its own. It can't be lifted or pried open, though a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell causes it to retract into the ceiling. While the iron wall is down, pushing the red button has no effect.
 
 ##### Red Dial
 
 This dial can be turned to the left or right, and it snaps back to center if released. Turning the dial to the left establishes a two-way telepathic link between the creatures in this room and the aboleth in area 65. Turning the dial to the right ends the link. The telepathic link to the aboleth also ends for any creature that leaves the control room. Because the communication is telepathic, all participants can understand one another even if they don't speak the same language. Roleplay the aboleth using the information in area 65.
 
-The aboleth is accustomed to speaking only with [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) and refers to the wight by his original name of Gorra. If the characters activate the telepathic link, the first thought the aboleth sends is an exasperated, "What now, Gorra?" Once the aboleth realizes it's telepathically linked to strangers, it wants to know all about them for no reason other than to satisfy its curiosity.
+The aboleth is accustomed to speaking only with [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) and refers to the wight by his original name of Gorra. If the characters activate the telepathic link, the first thought the aboleth sends is an exasperated, "What now, Gorra?" Once the aboleth realizes it's telepathically linked to strangers, it wants to know all about them for no reason other than to satisfy its curiosity.
 
 #### Cog Configurations
 
@@ -2620,7 +2614,7 @@ This area is a dead end—in more ways than one.
 
 A secret door in the west wall slides open to reveal a dark tunnel leading to areas 26 and 66. At the spot marked X on map 5.5, bloody words on the ceiling read, "AWAKEN NAPAKA!"
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/084-516.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/084-516.webp#center)
 
 #### 62B. Sloped Hall
 
@@ -2637,7 +2631,7 @@ Six magic candles are spaced 10 feet apart on alternate sides of the hallway. Th
 
 ##### Secret Crawlway
 
-Hidden behind a bas-relief depicting a crocodile-headed humanoid holding up a trapezoidal chest, a crawlway leads to area 62D. Close inspection of the relief reveals that the chest's keyhole is real. The jade key found in area 53 can be used to unlock the relief and swing it open, revealing the crawlway. The lock can also be picked with a successful DC 21 Dexterity check made by a character using thieves' tools. But if the check fails by 5 or more, the secret door in the west wall slides open to release the stone juggernaut (see "Napaka Awakens" in area 62D).
+Hidden behind a bas-relief depicting a crocodile-headed humanoid holding up a trapezoidal chest, a crawlway leads to area 62D. Close inspection of the relief reveals that the chest's keyhole is real. The jade key found in area 53 can be used to unlock the relief and swing it open, revealing the crawlway. The lock can also be picked with a successful DC 21 Dexterity check made by a character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). But if the check fails by 5 or more, the secret door in the west wall slides open to release the stone juggernaut (see "Napaka Awakens" in area 62D).
 
 #### 62C. Broken Statue
 
@@ -2658,13 +2652,13 @@ The hallway comes to a dead end 15 feet beyond the purple drape.
 
 The gargoyle statue is impervious to damage and spells, but its broken-off arm is not. If three gemstones are placed in the three open hands of the statue, the hands magically close into fists that crush the gemstones to powder. The statue's hands then open again. If this exercise is performed twice more, so that nine gemstones in total are crushed, the hand of the broken-off arm opens and a fist-sized ruby appears in it. The ruby is the Eye of Zaltec, which is teleported from area 62D by the sacrifice of the gems. If the ruby is plucked from the gargoyle's hand, the statue magically opens its mouth and exhales a cloud of soporific gas that fills the eastern 15 feet of the hall. At the same time, the secret door at the west end of the hallway slides open, and the stone juggernaut in area 62D rolls down the corridor.
 
-Each creature in the gas cloud that is not immune to the poisoned condition must succeed on a DC 15 Constitution saving throw or fall unconscious for 1 hour. The effect ends on a creature that takes damage.
+Each creature in the gas cloud that is not immune to the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition must succeed on a DC 15 Constitution saving throw or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) for 1 hour. The effect ends on a creature that takes damage.
 
 #### 62D. Secret Room
 
 The secret door to this room spans the entire wall and can't be opened by force or magic. It opens only when triggered by the characters' actions in area 62B or 62C.
 
-Two-thirds of this room is taken up by [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s [stone juggernaut](/3-Mechanics/CLI/bestiary/construct/stone-juggernaut-toa.md) (see appendix D). The archlich named the juggernaut after Napaka, a dead Omuan queen (see area 53). If the characters enter the room through the crawlway and haven't yet awakened the juggernaut, it remains inert and does not attack unless it takes damage or the secret door slides open.
+Two-thirds of this room is taken up by [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s [stone juggernaut](3-Mechanics/CLI/bestiary/construct/stone-juggernaut-toa.md) (see appendix D). The archlich named the juggernaut after Napaka, a dead Omuan queen (see area 53). If the characters enter the room through the crawlway and haven't yet awakened the juggernaut, it remains inert and does not attack unless it takes damage or the secret door slides open.
 
 ##### Napaka Awakens
 
@@ -2675,7 +2669,7 @@ When the stone juggernaut is activated, read:
 > The wall at the west end of the hall slides back to reveal a stone juggernaut on rollers. The construct fills the height and width of the hall and barrels toward you at alarming speed.
 ^4aa
 
-All creatures present must roll initiative. On its turn, the juggernaut rolls down the hallway, making a Slam attack against any creature standing in its way and using its Devastating Roll feature to crush small or prone enemies. When no enemies are left alive, it returns to the secret room. The juggernaut can't fit into any space less than 10 feet wide, and it doesn't have room in the hallway to turn. It attacks by rolling forward and backward.
+All creatures present must roll initiative. On its turn, the juggernaut rolls down the hallway, making a Slam attack against any creature standing in its way and using its Devastating Roll feature to crush small or [prone](3-Mechanics/CLI/rules/conditions.md#Prone) enemies. When no enemies are left alive, it returns to the secret room. The juggernaut can't fit into any space less than 10 feet wide, and it doesn't have room in the hallway to turn. It attacks by rolling forward and backward.
 
 Hidden in the tomb of the real Napaka (area 53) is a magic scepter, the adamantine head of which reduces the juggernaut to 0 hit points and turns it to dust on contact. While the juggernaut is inert, no attack roll is needed to strike it with the scepter. If the juggernaut has been awakened, a character can use the scepter to make a melee weapon attack against the juggernaut, reducing it to 0 hit points and turning it to dust on a hit.
 
@@ -2691,21 +2685,21 @@ This chamber is closed off and inaccessible most of the time. The characters can
 
 > [!readaloud] 
 > 
-> Thick green gas billows out of skull-shaped nozzles set into the walls of this cramped room. A rotting corpse clad in studded leather armor lies on the floor, mouth open and hands grasping its throat. Wrapped around one of its arms is a yellow band.
+> Thick green gas billows out of skull-shaped nozzles set into the walls of this cramped room. A rotting corpse clad in [studded leather armor](3-Mechanics/CLI/items/studded-leather-armor-xphb.md) lies on the floor, mouth open and hands grasping its throat. Wrapped around one of its arms is a yellow band.
 ^4ad
 
 The green gas that fills this room fills area 58 when the two rooms are open to each other, but the gas is too heavy to rise up the shaft into area 45. The gas has two effects:
 
 - It transforms the dead vegetation in area 58 into three shambling mounds (see that area for details).  
-- It is poisonous to non-plants. Any creature susceptible to the gas that starts its turn in a gas-filled area must make a DC 13 Constitution saving throw, taking `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) poison damage on a failed save, or half as much damage on a successful one. A creature is affected even if it holds its breath or doesn't need to breathe.  
+- It is poisonous to non-plants. Any creature susceptible to the gas that starts its turn in a gas-filled area must make a DC 13 Constitution saving throw, taking 18 (`4d8`) poison damage on a failed save, or half as much damage on a successful one. A creature is affected even if it holds its breath or doesn't need to breathe.  
 
 Stuffing the nozzles with cloth prevents more gas from spilling into the room. If the characters block the flow of gas, the lingering gas disperses after 1 minute.
 
 #### Treasure
 
-The dead figure on the floor is Lord Brixton, the Cormyrean leader of the doomed Company of the Yellow Banner. He died when [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) rotated the cogs from area 61 and trapped him in this room.
+The dead figure on the floor is Lord Brixton, the Cormyrean leader of the doomed Company of the Yellow Banner. He died when [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) rotated the cogs from area 61 and trapped him in this room.
 
-The corpse wears studded leather armor and carries a sheathed longsword with a dragon-shaped hilt. The sword has a minor magical property: its bearer gains the ability to speak and understand the Draconic language.
+The corpse wears [studded leather armor](3-Mechanics/CLI/items/studded-leather-armor-xphb.md) and carries a sheathed longsword with a dragon-shaped hilt. The sword has a minor magical property: its bearer gains the ability to speak and understand the Draconic language.
 
 Next to Lord Brixton's body is a dungeoneer's pack, tucked inside which is a pouch containing six carnelian gemstones (50 gp each).
 
@@ -2718,7 +2712,7 @@ Anything that falls from area 17 ends up here.
 > The walls of this grotto are slick with slime, and the air reeks of decay. Filthy water tumbles down from a hole in the ceiling, then courses along a rough-hewn tunnel toward a murky lake. The din of machinery echoes from that direction.
 ^4b0
 
-Climbing the slimy walls requires a successful DC 15 Strength (Athletics) check. The water here is 30 feet deep. Characters who allow themselves to be carried by the current are swept gently into area 65.
+Climbing the slimy walls requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The water here is 30 feet deep. Characters who allow themselves to be carried by the current are swept gently into area 65.
 
 ### 65. Underground Lake
 
@@ -2727,19 +2721,19 @@ Climbing the slimy walls requires a successful DC 15 Strength (Athletics) check.
 > A dark underground lake opens up before you, its ceiling festooned with chains and gears—some of which appear to have dwarves dangling from them. A gigantic motionless stone cog rises from the water, with two matching cogs connected to it. Rusty metal conduits stretch from the cavern walls to the cogs. The water of the lake is slimy, with pinpricks of phosphorescent light twinkling in the murk.
 ^4b2
 
-The cavern ceiling is 20 feet above the foul surface of the lake, which is 20 feet deep. Any creature that drinks the water is poisoned until it regurgitates the liquid, which happens automatically in `dice:1d4|noform|noparens|avg` (`1d4`) minutes. The lights at the bottom of the lake are phosphorescent [crabs](/3-Mechanics/CLI/bestiary/beast/crab.md) that feed on the muck. Each crab sheds dim light in a 5-foot radius but stops glowing 10 minutes after being removed from the water.
+The cavern ceiling is 20 feet above the foul surface of the lake, which is 20 feet deep. Any creature that drinks the water is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until it regurgitates the liquid, which happens automatically in `1d4` minutes. The lights at the bottom of the lake are phosphorescent [crabs](3-Mechanics/CLI/bestiary/beast/crab-xmm.md) that feed on the muck. Each crab sheds dim light in a 5-foot radius but stops glowing 10 minutes after being removed from the water.
 
 The three stone cogs of areas 58 to 60 are half-submerged in the water and rise 10 feet above its surface. Their uneven upper surfaces are difficult terrain, and their smooth outer walls can't be scaled without climbing gear or magic.
 
-The Mechanus chain (area 69) drives the machinery in this cavern, feeding power to the Soulmonger and to the many traps and other mechanisms within the dungeon. At any given time, `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) tomb dwarves in leather harnesses dangle from the ceiling while performing routine maintenance on the gears and giant cogs. Each tomb dwarf has the statistics of a [wight](/3-Mechanics/CLI/bestiary/undead/wight.md), except that it wields a battleaxe and a light crossbow. The tomb dwarves ignore intruders unless they are attacked, in which case they defend themselves with their crossbows.
+The Mechanus chain (area 69) drives the machinery in this cavern, feeding power to the Soulmonger and to the many traps and other mechanisms within the dungeon. At any given time, `1d4 + 1` tomb dwarves in leather harnesses dangle from the ceiling while performing routine maintenance on the gears and giant cogs. Each tomb dwarf has the statistics of a [wight](3-Mechanics/CLI/bestiary/undead/wight-xmm.md), except that it wields a battleaxe and a light crossbow. The tomb dwarves ignore intruders unless they are attacked, in which case they defend themselves with their crossbows.
 
 #### Lurker in the Lake
 
-An [aboleth](/3-Mechanics/CLI/bestiary/aberration/aboleth.md) named G'lyh'rul (guh-LEE-rool) lives in the lake. When [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) enslaved it, the aboleth lost its mind and developed a split personality. Its dominant aspect awaits the coming of the death god, which it believes heralds the fall of divinity. Until that day, the aboleth humbly obeys [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) (whom the creature refers to by his original name of Gorra) and attacks anyone seeking to prevent the atropal's ascension. The aboleth's other personality is that of a humanoid child—harmless, gleeful, and insanely curious. In this state of mind, the aboleth poses no threat to anyone and flees if attacked. Roll any die to determine which personality is dominant at any given time. On an even result, the aboleth's childlike personality is dominant.
+An [aboleth](3-Mechanics/CLI/bestiary/aberration/aboleth-xmm.md) named G'lyh'rul (guh-LEE-rool) lives in the lake. When [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) enslaved it, the aboleth lost its mind and developed a split personality. Its dominant aspect awaits the coming of the death god, which it believes heralds the fall of divinity. Until that day, the aboleth humbly obeys [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) (whom the creature refers to by his original name of Gorra) and attacks anyone seeking to prevent the atropal's ascension. The aboleth's other personality is that of a humanoid child—harmless, gleeful, and insanely curious. In this state of mind, the aboleth poses no threat to anyone and flees if attacked. Roll any die to determine which personality is dominant at any given time. On an even result, the aboleth's childlike personality is dominant.
 
 If the characters explore the lake using the rowboats in area 66, the aboleth ignores them regardless of its current demeanor, unless they draw undue attention to themselves. In the event of combat, the aboleth is not the master of the lake and has no lair actions as a result.
 
-Ancient beyond reckoning, G'lyh'rul has accumulated tens of thousands of years of knowledge. If the characters establish telepathic communication with the aboleth and it is inclined to speak to them, it can provide information as if the characters had cast a commune spell. (Since they're not actually casting the spell, this effect is not subject to the restrictions on spellcasting within the Tomb of the Nine Gods.) After sharing this information, the aboleth grows bored and withdraws to a dark corner of the lake to dream of evil things.
+Ancient beyond reckoning, G'lyh'rul has accumulated tens of thousands of years of knowledge. If the characters establish telepathic communication with the aboleth and it is inclined to speak to them, it can provide information as if the characters had cast a [commune](3-Mechanics/CLI/spells/commune-xphb.md) spell. (Since they're not actually casting the spell, this effect is not subject to the restrictions on spellcasting within the Tomb of the Nine Gods.) After sharing this information, the aboleth grows bored and withdraws to a dark corner of the lake to dream of evil things.
 
 ### 66. Door of Devouring
 
@@ -2757,7 +2751,7 @@ If the characters approach this area from the lake, read:
 > A worked stone column stretches from the bottom of the lake to the cavern roof and is attached to the nearby wall by a stone conduit. On one side of the column, steps of moss-covered stone climb from a stone dock to a landing whose stone door shows no handles or hinges. Ropes lash a pair of rowboats to a dock post, and a rusty iron cage wallows in the slime, held afloat by chain and winch. Phosphorescent crabs gather at the bottom of the lake below the cage.
 ^4b6
 
-The stone door separating the mooring area from the spiral staircase (area 26) radiates auras of abjuration, conjuration, and illusion to a detect magic spell or similar effect. The door can be opened easily from the west side simply by pulling on the brass knob. The door is much harder to open from the east side.
+The stone door separating the mooring area from the spiral staircase (area 26) radiates auras of abjuration, conjuration, and illusion to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. The door can be opened easily from the west side simply by pulling on the brass knob. The door is much harder to open from the east side.
 
 #### Hungry Door
 
@@ -2768,7 +2762,7 @@ The mossy staircase that climbs up out of the lake and the landing at its top ar
 > A monstrous mouth forms on the door's surface, calling out with a deep drawl: "I'm so hungry I could eat you alive, but I'll settle for somethin' else. Somethin' livin'. Somethin' light!"
 ^4b8
 
-The mouth is similar to that created by a magic mouth spell, but more powerful. A successful dispel magic (DC 19) cast on the door suppresses its magic for 10 minutes, preventing the mouth from forming. However, the door cannot be opened without the mouth except from the west side, not even with a knock spell.
+The mouth is similar to that created by a [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell, but more powerful. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 19) cast on the door suppresses its magic for 10 minutes, preventing the mouth from forming. However, the door cannot be opened without the mouth except from the west side, not even with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell.
 
 The mouth isn't programmed to say anything else, but its words (and the crab shells underfoot) provide the characters with a clue regarding how to open the door. If the mouth is offered a live phosphorescent crab, it opens wide, chomps down to consume the crab, then spits out its crushed shell. Once the mouth has been fed, it disappears and the door into area 26 swings open. The door locks and the spell resets if the door is closed again.
 
@@ -2776,15 +2770,15 @@ If a character tosses anything into the mouth that isn't a phosphorescent crab, 
 
 #### Diving Cage
 
-A rusty iron gate on the side of the cage provides ingress for two Medium or smaller creatures. The cage radiates transmutation magic to a detect magic spell or similar effect, and bestows the effect of a water breathing spell on any creatures within it. The stout bars grant half cover against attacks originating from outside the cage.
+A rusty iron gate on the side of the cage provides ingress for two Medium or smaller creatures. The cage radiates transmutation magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect, and bestows the effect of a [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md) spell on any creatures within it. The stout bars grant half cover against attacks originating from outside the cage.
 
-Using the winch, a character on the steps can lower the cage 20 feet to the lakebed, allowing characters in the cage to easily harvest `dice:2d6|noform|noparens|avg` (`2d6`) phosphorescent [crabs](/3-Mechanics/CLI/bestiary/beast/crab.md) from the muck.
+Using the winch, a character on the steps can lower the cage 20 feet to the lakebed, allowing characters in the cage to easily harvest `2d6` phosphorescent [crabs](3-Mechanics/CLI/bestiary/beast/crab-xmm.md) from the muck.
 
 The creaking descent of the cage draws the attention of the aboleth in area 65. If the aboleth's crueler personality is dominant, it attempts to enslave any characters in the cage. If it succeeds, it sends them back to the surface with orders to entice others down into the depths. If the aboleth's childlike personality is dominant, it swims over and uses its telepathy to strike up a friendly conversation with the divers.
 
 #### Rowboats
 
-The two rowboats have the names *Predator* and *Prey* etched into their transoms. A detect magic spell or similar effect reveals an aura of transmutation magic around each vessel. Each boat can hold up to four Small or Medium creatures and their gear, and each contains two oars, an empty wooden bucket, and a 50-foot-long coil of hempen rope.
+The two rowboats have the names *Predator* and *Prey* etched into their transoms. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of transmutation magic around each vessel. Each boat can hold up to four Small or Medium creatures and their gear, and each contains two oars, an empty wooden bucket, and a 50-foot-long coil of hempen rope.
 
 ##### Predator
 
@@ -2796,14 +2790,14 @@ Creatures aboard the *Prey* have advantage on saving throws while the boat is in
 
 ### 67. Hall of the Golden Mastodon
 
-A character who searches for traps in the tunnel approaching this room notices a block of stone lodged in the ceiling with a successful DC 20 Wisdom (Perception) check. The block remains there until the room's trap is activated.
+A character who searches for traps in the tunnel approaching this room notices a block of stone lodged in the ceiling with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The block remains there until the room's trap is activated.
 
 > [!readaloud] 
 > 
 > A life-size golden statue of a mastodon stands atop a one-foot-high stone cog at the center of this room. Jeweled tusks sweep from its jowls, and its trunk is raised in a roar. Inscriptions coil around the statue's body, and murals on the walls show a Chultan warrior riding a living mastodon through a series of hellish landscapes. In each scene, a different breed of devil assails them.
 ^4be
 
-The murals on the walls tell the story of Ch'gakare (pronounced chuh-GAH-kah-ree), a Chultan warrior who stole his king's prized steed: a mastodon named Ghom. As punishment, the king's sorcerers banished Ch'gakare and Ghom to the Nine Hells, but the two fought their way back home. On his return, Ch'gakare chopped off the king's head and turned his skull into a jeweled chalice. Any character who studies the murals and succeeds on a DC 15 Intelligence (History) check recognizes the legend and can recount it. The murals show Ch'gakare and Ghom fighting spined devils, bearded devils, barbed devils, horned devils, and erinyes.
+The murals on the walls tell the story of Ch'gakare (pronounced chuh-GAH-kah-ree), a Chultan warrior who stole his king's prized steed: a mastodon named Ghom. As punishment, the king's sorcerers banished Ch'gakare and Ghom to the Nine Hells, but the two fought their way back home. On his return, Ch'gakare chopped off the king's head and turned his skull into a jeweled chalice. Any character who studies the murals and succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes the legend and can recount it. The murals show Ch'gakare and Ghom fighting spined devils, bearded devils, barbed devils, horned devils, and erinyes.
 
 #### Advice from the Spirits
 
@@ -2831,23 +2825,23 @@ Scratches on the floor beneath the stone cog indicate that it can rotate, yet no
 > A thunderous trumpeting sound erupts from the mastodon's trunk, causing a block of stone to seal off the room. The cog under the mastodon's feet then begins to revolve, letting the statue face each of the murals in turn.
 ^4c2
 
-The block of stone fills the space in the hallway indicated on map 5.5. Any creature under the block when it falls must make a DC 15 Dexterity saving throw. On a success, the creature moves out of the block's way in whichever direction it prefers. On a failed save, the creature takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage. If this damage reduces the creature's hit points to 0, the creature is crushed to a pulp; otherwise, it is shoved into the room.
+The block of stone fills the space in the hallway indicated on map 5.5. Any creature under the block when it falls must make a DC 15 Dexterity saving throw. On a success, the creature moves out of the block's way in whichever direction it prefers. On a failed save, the creature takes 55 (`10d10`) bludgeoning damage. If this damage reduces the creature's hit points to 0, the creature is crushed to a pulp; otherwise, it is shoved into the room.
 
 When the mastodon statue begins to revolve, all creatures present should roll initiative. The statue turns counterclockwise and completes one 360-degree revolution on initiative count 0 of each round.
 
-When the statue completes its first revolution, magical fire engulfs the floor and the cog, flaring up 6 feet high. Any creature that enters the fire for the first time on a turn or starts its turn there takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage. Any character perched on the golden mastodon is shielded from the flames. Up to six Medium creatures can perch on the mastodon at once—four on its back and one on each of its curved tusks.
+When the statue completes its first revolution, magical fire engulfs the floor and the cog, flaring up 6 feet high. Any creature that enters the fire for the first time on a turn or starts its turn there takes 10 (`3d6`) fire damage. Any character perched on the golden mastodon is shielded from the flames. Up to six Medium creatures can perch on the mastodon at once—four on its back and one on each of its curved tusks.
 
 Each time the statue turns to face north, one or more devils emerge from the murals and attack all other creatures in the room. Roll initiative for each group of new arrivals. Each magically summoned devil vanishes in a puff of smoke when it drops to 0 hit points or when there are no creatures left to attack. The devils appear in the following order, emerging from the walls wherever you see fit:
 
-**Round 2**: Four [spined devils](/3-Mechanics/CLI/bestiary/fiend/spined-devil.md)
+**Round 2**: Four [spined devils](3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md)
 
-**Round 3**: Three [bearded devils](/3-Mechanics/CLI/bestiary/fiend/bearded-devil.md)
+**Round 3**: Three [bearded devils](3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md)
 
-**Round 4**: Two [barbed devils](/3-Mechanics/CLI/bestiary/fiend/barbed-devil.md)
+**Round 4**: Two [barbed devils](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md)
 
-**Round 5**: One [horned devil](/3-Mechanics/CLI/bestiary/fiend/horned-devil.md)
+**Round 5**: One [horned devil](3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md)
 
-**Round 6**: One [erinyes](/3-Mechanics/CLI/bestiary/fiend/erinyes.md)
+**Round 6**: One [erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md)
 
 If the characters try to strike a bargain with the devils, only the erinyes is willing to engage them—but it demands the willing sacrifice of one character's soul. A character who offers his or her soul to the erinyes is destroyed by fire. The character's soul becomes trapped in the Soulmonger, the character's belongings are left behind, and all remaining devils in the room disappear in clouds of smoke.
 
@@ -2860,9 +2854,9 @@ When the last devil is defeated or when the party strikes a deal with the erinye
 > The fires go out, though smoke still hangs in the air. A warm wind blows through the hall, carrying the scent of jasmine, frankincense, and grave dust. The smoke coalesces into a decayed warrior wrapped in bandages. He holds up a gruesome chalice made from a human skull.
 ^4c4
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/085-517.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/085-517.webp#center)
 
-The undead warrior is Ch'gakare, barely recognizable as the man riding the mastodon in the wall murals. He has the statistics of a [revenant](/3-Mechanics/CLI/bestiary/undead/revenant.md), but he can't be destroyed. If reduced to 0 hit points, Ch'gakare turns to smoke, vanishes, and reforms in his tomb somewhere in the distant jungle.
+The undead warrior is Ch'gakare, barely recognizable as the man riding the mastodon in the wall murals. He has the statistics of a [revenant](3-Mechanics/CLI/bestiary/undead/revenant-xmm.md), but he can't be destroyed. If reduced to 0 hit points, Ch'gakare turns to smoke, vanishes, and reforms in his tomb somewhere in the distant jungle.
 
 Ch'gakare does not speak but holds up the chalice in a manner that suggests he's offering it as a gift. If the chalice is taken from his hand, Ch'gakare turns to smoke and is gone. The stone block that seals off the room retracts into the ceiling when Ch'gakare disappears.
 
@@ -2879,7 +2873,7 @@ Ch'gakare's gift is the fabled Skull Chalice of Ch'gakare. This item is worth 2,
 > Graven images of rotting corpses decorate this hall, and the floor is littered with tarnished coins, pieces of armor, broken shields, axe heads, and other bits of scrap metal.
 ^4c7
 
-All nonmagical objects made of cloth, leather, wood, or metal that enter this corridor instantly decay or corrode to the point of being useless and worthless. Clothing and armor falls apart, shields and weapons become brittle and ineffective, and so forth. A mending spell cannot repair an object damaged in this fashion.
+All nonmagical objects made of cloth, leather, wood, or metal that enter this corridor instantly decay or corrode to the point of being useless and worthless. Clothing and armor falls apart, shields and weapons become brittle and ineffective, and so forth. A [mending](3-Mechanics/CLI/spells/mending-xphb.md) spell cannot repair an object damaged in this fashion.
 
 An archway stands at the west end of the hall, through which characters can see into area 69.
 
@@ -2888,7 +2882,7 @@ An archway stands at the west end of the hall, through which characters can see 
 > This yawning archway has a keystone adorned with an iron bull's skull, which bites down on an ivory ring.
 ^4c8
 
-A detect magic spell or similar effect reveals an aura of necromancy magic emanating from the ivory ring. If the ring is yanked from the skull's jaws, it disintegrates and the destructive effect in the hallway ends.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of necromancy magic emanating from the ivory ring. If the ring is yanked from the skull's jaws, it disintegrates and the destructive effect in the hallway ends.
 
 The staircase on the south side of the hallway descends 25 feet to area 71 on level 6.
 
@@ -2899,7 +2893,7 @@ The staircase on the south side of the hallway descends 25 feet to area 71 on le
 > Hot wind tinged with the smell of burning oil blows down a forty-foot-diameter vertical shaft. Stone balconies protrude from the walls on opposite sides of this expanse, with the west balcony fifteen feet higher than the east one. Two thick chains rattle in the gulf between the balconies—one ascending two hundred feet before disappearing into a cloudy vortex lit by arcs of purple lightning; the other wrapping around an enormous metal gear floating one hundred feet below. Another hundred feet below the gear, a second vortex rages.
 ^4ca
 
-To drive his infernal machinery, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) contaminated a workforce of modrons from the plane of Mechanus. Under the stewardship of a corrupt pentadrone, the modrons rerouted one of their great chains into the tomb. The sections of the shaft above and below the balconies exist outside of normal space, preventing the shaft from intersecting with the tomb's other levels.
+To drive his infernal machinery, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) contaminated a workforce of modrons from the plane of Mechanus. Under the stewardship of a corrupt pentadrone, the modrons rerouted one of their great chains into the tomb. The sections of the shaft above and below the balconies exist outside of normal space, preventing the shaft from intersecting with the tomb's other levels.
 
 #### Modron Intervention
 
@@ -2910,17 +2904,17 @@ The first time any character moves out onto a balcony, read:
 > A rip forms in the vortex high above, and nine cube-shaped creatures with wings and shortbows fly through. They are quickly followed by a large crystal decahedron that holds a weird starfish-shaped creature.
 ^4cc
 
-A [pentadrone](/3-Mechanics/CLI/bestiary/construct/pentadrone.md) leads a squad of nine [quadrones](/3-Mechanics/CLI/bestiary/construct/quadrone.md) through the upper planar vortex, which allows safe passage into the shaft but not out of it. Knowing that they cannot return to Mechanus, the modrons fight until destroyed. Once these modrons are dealt with, the shaft becomes undefended. No other modrons are sent through the vortex.
+A [pentadrone](3-Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm.md) leads a squad of nine [quadrones](3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md) through the upper planar vortex, which allows safe passage into the shaft but not out of it. Knowing that they cannot return to Mechanus, the modrons fight until destroyed. Once these modrons are dealt with, the shaft becomes undefended. No other modrons are sent through the vortex.
 
 The pentadrone can't fly on its own, but it gains a flying speed of 30 feet and can hover while encased in the crystal decahedron, which grants its occupant total cover against attacks that originate outside the vehicle. The pentadrone can't make melee attacks through the decahedron, but it can use a bonus action to open a small hole in any of the decahedron's facets in order to spray creatures with its paralysis gas.
 
 The decahedron has AC 16, 50 hit points, immunity to poison damage, resistance to piercing and slashing damage, and vulnerability to bludgeoning and thunder damage. If it is reduced to 0 hit points, the crystal decahedron shatters and the pentadrone falls.
 
-The crystal decahedron has enough room to accommodate one Small or Medium creature in addition to the pentadrone if a character thinks to enter the vehicle using misty step, dimension door, or similar magic. Inside the vehicle, the pentadrone can attack as normal. When the pentadrone dies, the decahedron shatters.
+The crystal decahedron has enough room to accommodate one Small or Medium creature in addition to the pentadrone if a character thinks to enter the vehicle using [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), or similar magic. Inside the vehicle, the pentadrone can attack as normal. When the pentadrone dies, the decahedron shatters.
 
 #### Planar Lore
 
-Characters with proficiency in the Arcana skill can make an Intelligence (Arcana) check to determine what, if anything, they recall about planar vortices and Mechanus chains. With a successful check, a character learns the appropriate lore and all lore with a lower DC:
+Characters with proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) skill can make an Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check to determine what, if anything, they recall about planar vortices and Mechanus chains. With a successful check, a character learns the appropriate lore and all lore with a lower DC:
 
 **DC 10**: Planar vortices are incredibly destructive. No one can expect to enter a vortex and survive.
 
@@ -2928,7 +2922,7 @@ Characters with proficiency in the Arcana skill can make an Intelligence (Arcana
 
 **DC 20**: This Mechanus chain has been repurposed for the tomb. One chain would be enough to keep the tomb's traps and other mechanisms in working order.
 
-**DC 25**: Destroying a Mechanus chain requires the casting of three wish spells.
+**DC 25**: Destroying a Mechanus chain requires the casting of three [wish](3-Mechanics/CLI/spells/wish-xphb.md) spells.
 
 #### The Shaft
 
@@ -2936,7 +2930,7 @@ The shaft is 400 feet high in total and features deadly planar vortices at top a
 
 The Mechanus chain forms a loop in constant motion. One part of the chain descends at a rate of 50 feet per round, wrapping around the giant gear that floats 100 feet below the east balcony, while the other part of the chain climbs to enter the upper vortex at the same rate.
 
-The two balconies are separated by a 15-foot-wide gulf, through which jangling chain links rise and fall. Magic that allows characters to fly or to walk on walls makes it easy to cross from one balcony to the other. Any character who moves at least 10 feet beforehand can jump from the west balcony to the east balcony. Because the west balcony is 15 feet higher than its eastern counterpart, a character must either pole vault across the gap (using a 10-foot pole or similar item) or use magic. A character can also cross the expanse by leaping from one balcony to the nearest chain, from that chain to the other, and finally to the opposite balcony. Each of these jumps requires a successful DC 10 Strength (Athletics) check. Any character who fails a check made to jump to a balcony or chain falls down the shaft and into the lower planar vortex unless somehow halted. A falling character can land on the floating gear 100 feet below with a successful DC 10 Dexterity saving throw but takes falling damage as normal.
+The two balconies are separated by a 15-foot-wide gulf, through which jangling chain links rise and fall. Magic that allows characters to fly or to walk on walls makes it easy to cross from one balcony to the other. Any character who moves at least 10 feet beforehand can jump from the west balcony to the east balcony. Because the west balcony is 15 feet higher than its eastern counterpart, a character must either pole vault across the gap (using a 10-foot pole or similar item) or use magic. A character can also cross the expanse by leaping from one balcony to the nearest chain, from that chain to the other, and finally to the opposite balcony. Each of these jumps requires a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Any character who fails a check made to jump to a balcony or chain falls down the shaft and into the lower planar vortex unless somehow halted. A falling character can land on the floating gear 100 feet below with a successful DC 10 Dexterity saving throw but takes falling damage as normal.
 
 ### 70. Armillary Sphere
 
@@ -2956,7 +2950,7 @@ The first time any creature moves within 5 feet of the central globe, read:
 > The apparatus suddenly swings around, its rings rotating out of the way as the surface of the globe peels back to reveal a dark, hollow interior. Inside this cavity is a padded bronze chair with levers built into its armrests.
 ^4d2
 
-When a creature sits on the armillary chair, the globe closes again. Any attempt to prevent that closing overloads the mechanism; until the blockage is removed, any creature within 5 feet of the armillary sphere that isn't seated on the chair takes `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) lightning damage.
+When a creature sits on the armillary chair, the globe closes again. Any attempt to prevent that closing overloads the mechanism; until the blockage is removed, any creature within 5 feet of the armillary sphere that isn't seated on the chair takes 18 (`4d8`) lightning damage.
 
 When the creature seated on the chair stands up, the globe's hatch opens, closing again only when another creature sits on the chair or when there are no creatures within 5 feet of the armillary sphere.
 
@@ -2964,7 +2958,7 @@ While the globe is sealed, the character sitting in the chair can see through th
 
 #### Monster in the Moon
 
-A [nycaloth](/3-Mechanics/CLI/bestiary/fiend/nycaloth.md) is crammed inside the bronze orb representing Toril's moon, Selûne. The first time a creature inside the armillary sphere reorients its rings and outer orbs, the nycaloth bursts out of the moon, shattering it. The nycaloth then tries to kill all other creatures in the room, pursuing fleeing enemies. It ignores creatures inside the globe but attacks any creature that exits it.
+A [nycaloth](3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md) is crammed inside the bronze orb representing Toril's moon, Selûne. The first time a creature inside the armillary sphere reorients its rings and outer orbs, the nycaloth bursts out of the moon, shattering it. The nycaloth then tries to kill all other creatures in the room, pursuing fleeing enemies. It ignores creatures inside the globe but attacks any creature that exits it.
 
 When this nycaloth rolls a natural 20 on an attack roll made with its greataxe, it cuts off the target's head (or one of the target's heads, if it has more than one). If the target can't survive without the lost head, it dies. A target that is immune to slashing damage is immune to this effect. The target is also spared decapitation if it doesn't have or need a head, has legendary actions, or if its head is too big to be cut off with the greataxe, though it still takes the damage from the weapon's critical hit.
 
@@ -2972,23 +2966,21 @@ When this nycaloth rolls a natural 20 on an attack roll made with its greataxe, 
 
 If the rings are spun so that all the celestial bodies are lined up, roll on the Armillary Sphere Conjunction table to determine what happens. Once a conjunction effect occurs, the armillary sphere breaks down, causing the levers to lock in place and the hatch to lock shut.
 
-The locked hatch is a Large object with AC 11, 25 hit points, and immunity to poison and psychic damage. As long as the outer rings and orbs aren't in motion, the hatch can be forced open with a successful DC 20 Strength (Athletics) check, or opened with a successful DC 20 Dexterity check made by character using thieves' tools.
+The locked hatch is a Large object with AC 11, 25 hit points, and immunity to poison and psychic damage. As long as the outer rings and orbs aren't in motion, the hatch can be forced open with a successful DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, or opened with a successful DC 20 Dexterity check made by character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md).
 
 #### Armillary Sphere Conjunction
-
-`dice: [](06-chapter-5-tomb-of-the-nine-gods.md#^conjunction-effect)`
 
 | dice: d100 | Conjunction Effect |
 |------------|--------------------|
 | 01–05 | The armillary sphere and any creatures inside it disappear. The DM ultimately decides where they end up, if anywhere. Possibilities include Mechanus, the Vast Swamp on Oerth, Mount Nevermind on Krynn, a desert on Athas, Victorian London on Earth, or the sun. |
 | 06–15 | The creature sitting in the armillary chair is touched by an unknown entity and suffers a radical personality change. Work with the player to determine an appropriate change. |
-| 16–30 | A cloudkill spell is cast within the globe. |
+| 16–30 | A [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md) spell is cast within the globe. |
 | 31–50 | The sun-shaped orb splits open, spilling 5,000 gp onto the floor. |
-| 51–65 | The creature sitting in the armillary chair gains a *charm of heroism* (see ""Supernatural Gifts"" in chapter 7 of the *Dungeon Master's Guide*). |
+| 51–65 | The creature sitting in the armillary chair gains a [charm of heroism](3-Mechanics/CLI/rewards/charm-of-heroism-xdmg.md) (see ""Supernatural Gifts"" in chapter 7 of the *Dungeon Master's Guide*). |
 | 66–80 | Every creature within 20 feet of the armillary sphere regains 50 hit points. Creatures inside the globe do not gain this benefit. |
-| 81–90 | A gem of brightness appears on the lap of the creature seated in the armillary chair. |
-| 91–99 | The Intelligence score of the creature seated in the armillary chair permanently increases by `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`), up to a maximum of 22. |
-| 00 | The creature seated in the armillary chair is granted the ability to cast the wish spell once. |
+| 81–90 | A [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness-xdmg.md) appears on the lap of the creature seated in the armillary chair. |
+| 91–99 | The Intelligence score of the creature seated in the armillary chair permanently increases by `1d4 + 1`, up to a maximum of 22. |
+| 00 | The creature seated in the armillary chair is granted the ability to cast the [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell once. |
 ^conjunction-effect
 
 #### Secret Crawlway
@@ -2997,11 +2989,11 @@ A secret door in the south wall conceals a crawlway that leads south and passes 
 
 ## Level 6: Cradle of the Death God
 
-Map 5.6 shows this level of the dungeon. Here, the dreaded Soulmonger nurses the atropal to godhood. A coven of hags called the Sewn Sisters guards the nursery, which remains sealed until five [skeleton keys](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) are used to unlock it. If the characters failed to obtain all five skeleton keys from the upper levels, they won't get far on this level. If you want to keep the adventure moving forward rather than have the characters backtrack, place the remaining skeleton keys in area 71 or somewhere else nearby.
+Map 5.6 shows this level of the dungeon. Here, the dreaded Soulmonger nurses the atropal to godhood. A coven of hags called the Sewn Sisters guards the nursery, which remains sealed until five [skeleton keys](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) are used to unlock it. If the characters failed to obtain all five skeleton keys from the upper levels, they won't get far on this level. If you want to keep the adventure moving forward rather than have the characters backtrack, place the remaining skeleton keys in area 71 or somewhere else nearby.
 
 > [!gallery]
-> ![Map 5.6: Cradle of the Death God](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/086-520.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/087-520a.webp#gallery)
+> ![Map 5.6: Cradle of the Death God](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/086-520.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/087-520a.webp#gallery)
 
 ### 71. Lair of the Sewn Sisters
 
@@ -3019,7 +3011,7 @@ When the characters are in a position to get a better view of the upper gallerie
 > Five wooden doors are set into the walls of the galleries, each carved with a geometric symbol: a triangle, a square, a pentagon, a hexagon, and an octagon.
 ^4da
 
-This chamber belongs to the Sewn Sisters, a coven of three [night hags](/3-Mechanics/CLI/bestiary/fiend/night-hag.md) loyal to [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md). Together, the hags mother the atropal and guard the Soulmonger. They eagerly await the atropal's apotheosis, when the downfall of civilization promises an abundance of souls to harvest. The Sewn Sisters spy on intruders from the Border Ethereal. Any character who can perceive creatures and objects on the Ethereal Plane sees the hags as spectral figures huddled in the middle of the room. See "The Sewn Sisters" sidebar for more information.
+This chamber belongs to the Sewn Sisters, a coven of three [night hags](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md) loyal to [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md). Together, the hags mother the atropal and guard the Soulmonger. They eagerly await the atropal's apotheosis, when the downfall of civilization promises an abundance of souls to harvest. The Sewn Sisters spy on intruders from the Border Ethereal. Any character who can perceive creatures and objects on the Ethereal Plane sees the hags as spectral figures huddled in the middle of the room. See "The Sewn Sisters" sidebar for more information.
 
 #### Hag Dolls
 
@@ -3030,7 +3022,7 @@ Each hag has created a cruel plaything: a doll brought to life through the impla
 > Three tiny figures waddle toward you through the smoky haze: a straw doll with rusty pins sticking into its body, a faceless child molded from clay, and a stuffed monkey with the lower body of a unicycle. The straw doll says, "You need to run away! The Sewn Sisters will be back any moment now!"
 ^4dc
 
-Each doll is a Tiny construct with AC 10, 1 hit point, a walking speed of 10 feet, immunity to poison damage and the poisoned condition, and no attacks. Destroying a doll causes the child's soul within it to become trapped in the Soulmonger.
+Each doll is a Tiny construct with AC 10, 1 hit point, a walking speed of 10 feet, immunity to poison damage and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition, and no attacks. Destroying a doll causes the child's soul within it to become trapped in the Soulmonger.
 
 The straw doll, Strawbundle, usually speaks for the group. Clay No-Face can speak only if it molds a mouth onto its blank face, and Joho the monkey coughs on its stuffing when it tries to talk. Given a chance, the dolls share the following information:
 
@@ -3051,7 +3043,7 @@ If any character makes an effort to befriend one of the dolls, the soul of the c
 
 ##### Strawbundle's Charm
 
-While you have Strawbundle in your possession, this charm allows you to cast the etherealness spell as an action, no components required. After it is used three times, the charm vanishes.
+While you have Strawbundle in your possession, this charm allows you to cast the [etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md) spell as an action, no components required. After it is used three times, the charm vanishes.
 
 ##### Clay No-Face's Charm
 
@@ -3059,13 +3051,13 @@ While you have Clay No-Face in your possession, you don't need to eat, drink, or
 
 ##### Joho's Charm
 
-While you have Joho in your possession, it grants you the benefit of a helm of comprehending languages. This benefit lasts for 7 days while the doll is in your possession, after which the charm vanishes from you.
+While you have Joho in your possession, it grants you the benefit of a [helm of comprehending languages](3-Mechanics/CLI/items/helm-of-comprehending-languages-xdmg.md). This benefit lasts for 7 days while the doll is in your possession, after which the charm vanishes from you.
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/088-518.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/088-518.webp#center)
 
 > [!note] The Sewn Sisters
 > 
-> [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) recruited three night hags for their expertise in stitching soul bags—a craft they adapted for the creation of the Soulmonger. The hags are a frightful lot:
+> [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) recruited three night hags for their expertise in stitching soul bags—a craft they adapted for the creation of the Soulmonger. The hags are a frightful lot:
 > 
 > **Widow Groat** has tarnished gold coins covering her eyes and ants nesting in her skull. The ants serve as her spies, and their presence often portends her arrival. She carries a heartstone, a soul bag, and an iron ring with eight keys. The keys unlock the shackles in area 78.
 > 
@@ -3073,7 +3065,7 @@ While you have Joho in your possession, it grants you the benefit of a helm of c
 > 
 > **Baggy Nanna** has a squirming leather sack sewn over her head. The bag also contains a cockerel, a viper, and a terrier. One animal can emerge from the bag in place of her own head to speak on her behalf, and the animals become smoke when Baggy Nanna dies. In her pockets, she carries a heartstone, a soul bag, and three goblin fingers.
 > 
-> The night hags have a shared pool of spells (see the "Hag Covens" sidebar in the Monster Manual). The scarecrow [Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) (see area 74) carries the coven's hag eye.
+> The night hags have a shared pool of spells (see the "Hag Covens" sidebar in the Monster Manual). The scarecrow [Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) (see area 74) carries the coven's hag eye.
 > 
 > For more information on heartstones and soul bags, see the "Night Hag Items" sidebar in the Monster Manual.
 ^the-sewn-sisters
@@ -3082,17 +3074,17 @@ While you have Joho in your possession, it grants you the benefit of a helm of c
 
 A heavy padlock secures the gate of the rusted cage, inside which a naked figure cowers under a bloodstained blanket.
 
-[Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) (see area 74) carries the key to the padlock, which can otherwise be unlocked with a successful DC 15 Dexterity check made using thieves' tools. The lock can also be broken off easily enough.
+[Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) (see area 74) carries the key to the padlock, which can otherwise be unlocked with a successful DC 15 Dexterity check made using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). The lock can also be broken off easily enough.
 
 The cage's prisoner is a degenerate clone of one of the player characters and is instantly recognizable as such. It was created from blood or strands of hair obtained by one of the hags while the character slept. Characters had a slight chance of meeting the hag as a random wilderness encounter (see appendix B); however, when and where the theft occurred is up to you.
 
-The clone is not a perfect copy. It is shorter and scrawnier than the character after whom it's modeled, and it has deformities. Use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) statistics to represent this creature, applying racial traits as appropriate.
+The clone is not a perfect copy. It is shorter and scrawnier than the character after whom it's modeled, and it has deformities. Use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) statistics to represent this creature, applying racial traits as appropriate.
 
 The clone has no name and no memory of having been created. However, the hags have forged a magical link between the clone and the character from which it was made. The clone knows everything the character knows, up to and including all present knowledge. The hags have been interrogating the clone to learn everything about the adventurers. Now that they have no more use for such information, the Sewn Sisters plan to kill and eat the clone.
 
 #### Cauldron
 
-A tarry greenish-black brew fills the bronze cauldron. Any creature that drinks the brew is stunned for `dice:1d10|noform|noparens|avg` (`1d10`) minutes. While stunned, the creature succumbs to seizures brought on by the dark dreams of the atropal.
+A tarry greenish-black brew fills the bronze cauldron. Any creature that drinks the brew is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) for `1d10` minutes. While [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), the creature succumbs to seizures brought on by the dark dreams of the atropal.
 
 The bronze lid of the cauldron lies on the floor nearby. If the lid is placed on the cauldron, the green smoke that fills the room dissipates after 1 minute.
 
@@ -3105,17 +3097,17 @@ When the characters get close enough to make out the details of the green door, 
 > This twelve-foot-high, ten-foot-wide door is made of green stone, its surface carved with grinning goblin skeletons. A belt of smooth stone spans the door at a height of four feet, set with five gold symbols in a row: a triangle, a square, a pentagon, a hexagon, and an octagon. Each symbol is engraved on a recessed circular seal.
 ^4e4
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/089-519.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/089-519.webp#center)
 
 The geometric symbols are 6 inches across, 1 foot apart, and set into stone disks 8 inches in diameter. Hidden behind the seals are five keyholes that conform in size and shape to the heads of the skeleton keys found on the other tomb levels (see "Skeleton Keys").
 
-Each time the characters complete a trial in areas 72 through 76, one stone seal rolls aside, exposing the keyhole behind it. When a [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) is inserted into its corresponding keyhole and turned clockwise, a tumbler inside the door unlocks. When all five tumblers unlock, the skeleton gate can be pulled open like a normal (albeit heavy) door, revealing a wide staircase that descends 20 feet to area 77. The door and its seals are impervious to damage and spells, and cannot be opened in a manner other than that which is prescribed above.
+Each time the characters complete a trial in areas 72 through 76, one stone seal rolls aside, exposing the keyhole behind it. When a [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md) is inserted into its corresponding keyhole and turned clockwise, a tumbler inside the door unlocks. When all five tumblers unlock, the skeleton gate can be pulled open like a normal (albeit heavy) door, revealing a wide staircase that descends 20 feet to area 77. The door and its seals are impervious to damage and spells, and cannot be opened in a manner other than that which is prescribed above.
 
 ##### Facing the Night Hags
 
-If the characters manage to open all five keyholes and have the requisite skeleton keys in their possession, the Sewn Sisters emerge from the Border Ethereal and attack them. The hags' goal is to seize one or more of the skeleton keys, thus preventing the characters from reaching the Soulmonger. If a hag obtains a [skeleton key](/3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md), it cackles as it returns to the Border Ethereal with it.
+If the characters manage to open all five keyholes and have the requisite skeleton keys in their possession, the Sewn Sisters emerge from the Border Ethereal and attack them. The hags' goal is to seize one or more of the skeleton keys, thus preventing the characters from reaching the Soulmonger. If a hag obtains a [skeleton key](3-Mechanics/CLI/bestiary/undead/skeleton-key-toa.md), it cackles as it returns to the Border Ethereal with it.
 
-If two hags die, the third tries to bargain with the characters, offering useful information in exchange for her life. The hag makes the characters swear on their mortal souls not to harm her once her information is divulged. Any character who reneges on the agreement contracts slimy doom, as though he or she had failed a saving throw against the contagion spell. The hag reveals the following information (and nothing more) once an agreement is reached:
+If two hags die, the third tries to bargain with the characters, offering useful information in exchange for her life. The hag makes the characters swear on their mortal souls not to harm her once her information is divulged. Any character who reneges on the agreement contracts slimy doom, as though he or she had failed a saving throw against the [contagion](3-Mechanics/CLI/spells/contagion-xphb.md) spell. The hag reveals the following information (and nothing more) once an agreement is reached:
 
 - "Hidden on this level of the dungeon is a library of lost lore, guarded by an arcanaloth whose true name is Ygga Raxyg." (See area 80 for details.)  
 - "There is only one way to leave the dungeon: the ebon pool. Charred bones point the way." (See area 81 for details on the ebon pool. "Charred bones" refers to the charred skeleton on the floor in area 79.)  
@@ -3132,7 +3124,7 @@ The door to this area has a triangle carved into it. When the characters open th
 
 To reach the lever, the characters must figure out a way to enter or bypass the cylinder. If the lever is pulled, the triangle seal on the skeleton gate in area 71 rolls aside, revealing a triangular keyhole behind it.
 
-The cylinder is 5 feet in diameter, shaped of glass 2 inches thick. The triangular hole in the glass is 1 inch wide. The cylinder is normally impervious to damage and spells, and it can't be moved. A character in gaseous form can enter the cylinder through the hole, while an ethereal character can pass through the glass. A character can also use misty step, dimension door, or similar magic to enter the cylinder. A magically summoned creature can appear inside the cylinder, as can an unseen servant, either of which can be commanded to pull the lever. The lever is too heavy to be moved with a mage hand spell but responds to a telekinesis spell.
+The cylinder is 5 feet in diameter, shaped of glass 2 inches thick. The triangular hole in the glass is 1 inch wide. The cylinder is normally impervious to damage and spells, and it can't be moved. A character in [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md) can enter the cylinder through the hole, while an ethereal character can pass through the glass. A character can also use [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), or similar magic to enter the cylinder. A magically summoned creature can appear inside the cylinder, as can an [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md), either of which can be commanded to pull the lever. The lever is too heavy to be moved with a [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) spell but responds to a [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md) spell.
 
 If three creatures stand around the glass cylinder, forming the points of a triangle around it, the cylinder turns brittle and can be shattered with any solid hit. Once the cylinder is destroyed, anyone can walk up to the lever and pull it.
 
@@ -3145,23 +3137,23 @@ The door to this area has a square carved into it. When the characters open the 
 > This room is filled with flying sheets of parchment, with writing on the pages visible as they flutter by. A metal plate bolted onto the far wall is set with a ghostly lever.
 ^4e9
 
-The flying pages are from a spellbook and are destroyed if they take any amount of fire damage. A character can use an action to grab a page as it flutters past with a successful DC 10 Dexterity check. Written on the page is a random spell; roll a `dice:d6|noform|noparens|avg` (`d6`) to determine the spell's level, then randomly choose a spell of that level from the wizard spell list.
+The flying pages are from a spellbook and are destroyed if they take any amount of fire damage. A character can use an action to grab a page as it flutters past with a successful DC 10 Dexterity check. Written on the page is a random spell; roll a `d6` to determine the spell's level, then randomly choose a spell of that level from the wizard spell list.
 
-If more than three pages are taken, all the remaining pages in the room turn to dust, which coalesces into a hostile [dust mephit](/3-Mechanics/CLI/bestiary/elemental/dust-mephit.md) and three illusory duplicates created by a mirror image spell. The mephit attacks all other creatures in the room, with its duplicates appearing to follow suit.
+If more than three pages are taken, all the remaining pages in the room turn to dust, which coalesces into a hostile [dust mephit](3-Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md) and three illusory duplicates created by a [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md) spell. The mephit attacks all other creatures in the room, with its duplicates appearing to follow suit.
 
 The mephit knows three command words: "bloatbug," "frogspittle," and "spindledash." While in this room, it can speak one command word as a bonus action on it turn, triggering the associated magical effect below. It can't speak the same command word two rounds in a row.
 
-**Bloatbug**: The mephit targets one creature within 30 feet of it that it can see, which immediately increases its weight by 50 percent. Any spell that ends a curse, such as greater restoration or remove curse, ends the effect and returns the creature to its normal weight.
+**Bloatbug**: The mephit targets one creature within 30 feet of it that it can see, which immediately increases its weight by 50 percent. Any spell that ends a curse, such as [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) or [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), ends the effect and returns the creature to its normal weight.
 
-**Frogspittle**: Each creature in the room must succeed on a DC 10 Constitution saving throw or take `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) poison damage. (The mephit is immune to poison damage.)
+**Frogspittle**: Each creature in the room must succeed on a DC 10 Constitution saving throw or take 9 (`2d8`) poison damage. (The mephit is immune to poison damage.)
 
-**Spindledash**: The effect targets a random creature in the room. Have the players roll a `dice:d20|noform|noparens|avg` (`d20`) for each character in the room, and roll a `dice:d20|noform|noparens|avg` (`d20`) for the mephit and each other creature in the room. Whichever creatures roll the lowest take `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) force damage.
+**Spindledash**: The effect targets a random creature in the room. Have the players roll a `d20` for each character in the room, and roll a `d20` for the mephit and each other creature in the room. Whichever creatures roll the lowest take 21 (`6d6`) force damage.
 
 When the dust mephit dies, it collapses and transforms into a stick of black chalk.
 
 #### Phantom Lever
 
-The lever on the north wall is carved from bone but is insubstantial, such that a character's hand passes right through it. The lever appears solid to a creature on the Ethereal Plane, and an ethereal creature can pull it normally. Dispel magic has no effect on the lever, which remains insubstantial even within the area of an antimagic field. If any creature uses chalk to draw a square on the wall around the lever, the lever becomes solid. If the square is erased, the lever turns insubstantial again.
+The lever on the north wall is carved from bone but is insubstantial, such that a character's hand passes right through it. The lever appears solid to a creature on the Ethereal Plane, and an ethereal creature can pull it normally. [Dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) has no effect on the lever, which remains insubstantial even within the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md). If any creature uses chalk to draw a square on the wall around the lever, the lever becomes solid. If the square is erased, the lever turns insubstantial again.
 
 If the lever is pulled, the square seal on the skeleton gate in area 71 rolls aside, revealing a square keyhole behind it.
 
@@ -3176,11 +3168,11 @@ The door to this area has a pentagon carved into it. When the characters open th
 > A gaunt human male in a dusty black suit quietly arranges the items on the cake table, taking notice of your intrusion. Without a word, he gestures for you to come forward and sample the feast.
 ^4ec
 
-The gaunt gentleman is [Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md), the Sewn Sisters' manservant. A detect magic spell or similar effect reveals an aura of illusion magic around him. A successful dispel magic (DC 16) reveals his true form.
+The gaunt gentleman is [Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md), the Sewn Sisters' manservant. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of illusion magic around him. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 16) reveals his true form.
 
-[Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) is a [scarecrow](/3-Mechanics/CLI/bestiary/construct/scarecrow.md) disguised with magic to appear human. In a pocket, he carries the Sewn Sisters' *hag eye* (see the "Hags" entry in the *Monster Manual*) and one lustrous black marble (see area 81). [Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) understands Common but can't speak. He communicates by nodding and shaking his head, or with gestures and facial expressions.
+[Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) is a [scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md) disguised with magic to appear human. In a pocket, he carries the Sewn Sisters' *hag eye* (see the "Hags" entry in the *Monster Manual*) and one lustrous black marble (see area 81). [Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) understands Common but can't speak. He communicates by nodding and shaking his head, or with gestures and facial expressions.
 
-Warned of the adventurers' arrival, the hags prepared this magical feast and instructed [Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) to lay it out. The scarecrow attacks the characters only if they attack first, or if the hags command him to.
+Warned of the adventurers' arrival, the hags prepared this magical feast and instructed [Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) to lay it out. The scarecrow attacks the characters only if they attack first, or if the hags command him to.
 
 #### Advice from the Spirits
 
@@ -3197,15 +3189,15 @@ The food is well prepared and delicious, and the beer is rich. Any character who
 
 **Squash Stew**: The character feels healthier and gains advantage on Constitution saving throws, but has disadvantage on attack rolls made against Peggy Deadbells. Both effects have a duration of 24 hours.
 
-**Iced Cakes**: The character feels energized and gains `dice:2d10|noform|noparens|avg` (`2d10`) temporary hit points, but has disadvantage on attack rolls made against Baggy Nanna for the next 24 hours.
+**Iced Cakes**: The character feels energized and gains `2d10` temporary hit points, but has disadvantage on attack rolls made against Baggy Nanna for the next 24 hours.
 
-**Frothy Beer**: The character gains a special die: a `dice:d6|noform|noparens|avg` (`d6`). Anytime in the next 24 hours, the character can roll this die once and add the result to a `dice:d20|noform|noparens|avg` (`d20`) roll he or she just made. Additionally, if the character is inhabited by the spirit of a trickster god, the power normally granted by the spirit is suppressed for 24 hours.
+**Frothy Beer**: The character gains a special die: a `d6`. Anytime in the next 24 hours, the character can roll this die once and add the result to a `d20` roll he or she just made. Additionally, if the character is inhabited by the spirit of a trickster god, the power normally granted by the spirit is suppressed for 24 hours.
 
-Characters who enter the room but do not partake of the food or drink are cursed with crippling hunger as soon as they leave this area. The effect imposes disadvantage on attack rolls and ability checks, and it can be ended on a character with greater restoration, remove curse, or similar magic.
+Characters who enter the room but do not partake of the food or drink are cursed with crippling hunger as soon as they leave this area. The effect imposes disadvantage on attack rolls and ability checks, and it can be ended on a character with [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), or similar magic.
 
 #### Tapestries
 
-Five red tapestries hang from iron rods bolted to the walls. Each is made up of pentagonal patches stitched together. Any character who inspects the tapestry on the southwest wall and succeeds on a DC 15 Wisdom (Perception) check sees something more: a subliminal devil's face cleverly hidden in the design. The devil's open mouth forms a pentagon. A character can reach into the devil's mouth as though the fabric wasn't there, uncovering a small extradimensional compartment with a glass lever set into the back of it. The compartment can be accessed only from the front side of the tapestry, and only while the tapestry is hanging on the wall. If the tapestry is taken from the room or destroyed, a new one materializes on the wall in `dice:4d6|noform|noparens|avg` (`4d6`) hours.
+Five red tapestries hang from iron rods bolted to the walls. Each is made up of pentagonal patches stitched together. Any character who inspects the tapestry on the southwest wall and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check sees something more: a subliminal devil's face cleverly hidden in the design. The devil's open mouth forms a pentagon. A character can reach into the devil's mouth as though the fabric wasn't there, uncovering a small extradimensional compartment with a glass lever set into the back of it. The compartment can be accessed only from the front side of the tapestry, and only while the tapestry is hanging on the wall. If the tapestry is taken from the room or destroyed, a new one materializes on the wall in `4d6` hours.
 
 If the lever in the tapestry is pulled, the pentagon seal on the skeleton gate in area 71 rolls aside, revealing a pentagonal keyhole behind it.
 
@@ -3218,7 +3210,7 @@ Carved into the door of this room is a hexagon. When the characters open the doo
 > A large, cracked, six-sided mirror is mounted above a stone shelf protruding from the opposite wall. Five unlit candles stand on the shelf, each made of yellow wax and covered with tiny black sigils. Scrawled on the wall above the mirror in dried blood are the words "PIGGY PIGGY PIGGY."
 ^4f1
 
-A sixth candle, identical to the five in plain view, is tucked out of sight under the stone shelf. Any character who searches the shelf for traps or hidden compartments automatically finds the sixth candle. Both the mirror and the candles radiate auras of conjuration magic to a detect magic spell or similar effect.
+A sixth candle, identical to the five in plain view, is tucked out of sight under the stone shelf. Any character who searches the shelf for traps or hidden compartments automatically finds the sixth candle. Both the mirror and the candles radiate auras of conjuration magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect.
 
 #### Cracked Mirror
 
@@ -3226,7 +3218,7 @@ The cracked mirror can't be pried from the wall or damaged more than it already 
 
 If all six candles are lit, a character who looks in the mirror and says the word "piggy" three times in a row sees the reflected candlelight reveal a wooden lever set into a metal panel on the north wall. If fewer than six candles are lit when the words are spoken, the lever appears on the south wall instead. These levers exist only in the mirror's reflection, not in reality.
 
-Only a character who can see a lever reflected in the mirror can pull it. As this likely puts the lever out of the character's reach, he or she can cast a mage hand or telekinesis spell, conjure an unseen servant, lasso the lever with a rope, or undertake any suitably clever solution.
+Only a character who can see a lever reflected in the mirror can pull it. As this likely puts the lever out of the character's reach, he or she can cast a [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) or [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md) spell, conjure an [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md), lasso the lever with a rope, or undertake any suitably clever solution.
 
 ##### True Lever
 
@@ -3234,7 +3226,7 @@ If the north lever is pulled, the hexagon seal on the skeleton gate in area 71 r
 
 ##### False Lever
 
-If the south lever is pulled, three insane [wereboars](/3-Mechanics/CLI/bestiary/humanoid/wereboar.md) in hybrid form magically spring from the mirror, land in the middle of the room, and fight to the death. When the wereboars have nothing left in the room to fight, they join the night hags in area 71.
+If the south lever is pulled, three insane [wereboars](3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md) in hybrid form magically spring from the mirror, land in the middle of the room, and fight to the death. When the wereboars have nothing left in the room to fight, they join the night hags in area 71.
 
 The wereboars can be summoned only once. Pulling this lever again has no effect.
 
@@ -3249,11 +3241,11 @@ Carved into the door of this room is an octagon. When the characters open the do
 
 The skeletons are inanimate remains embedded into the plastered walls. The lectern is held in place by four bolts set deep into the floor and is impervious to damage, spells, and attempts to move it. The book's covers are secured to the lectern with *sovereign glue*, preventing it from being easily removed. The eight-page book contains an eight-line nursery rhyme written by the Sewn Sisters in Infernal, with each page bearing one line of the poem. The book is open to pages 4 and 5 when the characters first arrive.
 
-Hidden in the leg of the lectern, on the side facing the east wall, is a secret compartment that can be found with a successful DC 10 Wisdom (Perception) check.
+Hidden in the leg of the lectern, on the side facing the east wall, is a secret compartment that can be found with a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 If the lines of the nursery rhyme (see below) are read aloud in reverse order, starting with the last line and ending on the first, the doors of the secret compartment open, revealing a brass lever inside. If the lever is pulled, the octagon seal on the skeleton gate in area 71 rolls aside, revealing an octagonal keyhole behind it.
 
-The compartment can also be opened with a knock spell, or with a successful DC 20 Dexterity check made by a character using thieves' tools. Opening the compartment in either manner triggers the trap (see "Spider Fan Trap" below).
+The compartment can also be opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell, or with a successful DC 20 Dexterity check made by a character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md). Opening the compartment in either manner triggers the trap (see "Spider Fan Trap" below).
 
 #### Nursery Rhyme Book
 
@@ -3280,11 +3272,11 @@ Any character who understands the Infernal tongue can translate the hags' nurser
 
 #### Spider Fan Trap
 
-Any character who inspects the floor of the room and succeeds on a DC 15 Wisdom (Perception) check notices thin seams along the floor's perimeter that suggest a pit below. The seams are meant to deceive adventurers and make them wary of the floor, which doesn't actually have a pit underneath it.
+Any character who inspects the floor of the room and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices thin seams along the floor's perimeter that suggest a pit below. The seams are meant to deceive adventurers and make them wary of the floor, which doesn't actually have a pit underneath it.
 
 The real danger is the ceiling, which appears to be smooth-cut stone but is actually thin plaster. Five feet above the false plaster ceiling is the room's true ceiling, which has a bladed fan shaped like a giant iron spider mounted to it.
 
-If a character in the room reads the entire nursery rhyme beginning with the first line on page 1 and ending with the last line on page 8, or if the compartment in the lectern is opened improperly, the ceiling fan begins to twirl as a reverse gravity spell activates within the room. The lectern is the only fixed object in the room. Any creature within reach of it can, with a successful DC 17 Dexterity saving throw, grab the lectern and avoid falling upward. A creature that can't grab the lectern or isn't secured in some other way "falls" upward through the fake plaster ceiling into the rotating blades of the fan, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) slashing damage. The creature takes that damage again each time it starts its turn on the ceiling. The reverse gravity effect lasts for 1 minute, after which creatures on the ceiling fall back down to the floor 20 feet below. Once the spell ends, the ceiling fan stops twirling. The trap does not reset.
+If a character in the room reads the entire nursery rhyme beginning with the first line on page 1 and ending with the last line on page 8, or if the compartment in the lectern is opened improperly, the ceiling fan begins to twirl as a [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md) spell activates within the room. The lectern is the only fixed object in the room. Any creature within reach of it can, with a successful DC 17 Dexterity saving throw, grab the lectern and avoid falling upward. A creature that can't grab the lectern or isn't secured in some other way "falls" upward through the fake plaster ceiling into the rotating blades of the fan, taking 44 (`8d10`) slashing damage. The creature takes that damage again each time it starts its turn on the ceiling. The [reverse gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md) effect lasts for 1 minute, after which creatures on the ceiling fall back down to the floor 20 feet below. Once the spell ends, the ceiling fan stops twirling. The trap does not reset.
 
 ### 77. Death God's Nursery
 
@@ -3295,9 +3287,9 @@ Opening the skeleton gate in area 71 reveals a 10-foot-wide, 20-foot-long stairc
 > Crumbling balconies overlook a pool of lava filling this triangular chamber, above which is suspended an enormous crystal cylinder held in place by three adamantine struts. Wraithlike forms swirl inside the cylinder, and otherworldly screams hang in the air. Four long, writhing tentacles sprout from the cylinder's cap. A shriveled monstrosity the size of an elephant floats near the cylinder. Its body is wet and malformed, its arms and legs are atrophied, and its oversized head drips black goo. The creature is attached to the cylinder by a twisted umbilical cord.
 ^4fb
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/090-521.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/090-521.webp#center)
 
-The cylindrical device is the Soulmonger. The malformed creature floating next to it is an [atropal](/3-Mechanics/CLI/bestiary/undead/atropal-toa.md) (see appendix D), which feeds on the captured souls of the dead. The atropal attacks any creature that threatens it or tries to damage its food source. If the atropal dies, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) arrives to take his revenge (see "Acererak's Revenge" below).
+The cylindrical device is the Soulmonger. The malformed creature floating next to it is an [atropal](3-Mechanics/CLI/bestiary/undead/atropal-toa.md) (see appendix D), which feeds on the captured souls of the dead. The atropal attacks any creature that threatens it or tries to damage its food source. If the atropal dies, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) arrives to take his revenge (see "Acererak's Revenge" below).
 
 The ceiling of the vault is 30 feet high, and the walls along the north balcony are lined with alcoves containing piles of skulls and bones—the remains of Old Omuans and their minotaur protectors.
 
@@ -3319,7 +3311,7 @@ Any characters inhabited by trickster spirits receive advice when entering this 
 
 The Soulmonger is an upright crystal cylinder 20 feet high and 10 feet in diameter. The adamantine struts that suspend it above the lava attach to an adamantine ring around the cylinder's midsection.
 
-Under the scrutiny of a detect magic spell or similar effect, the Soulmonger radiates an intense aura of necromantic magic. Destroying the Soulmonger not only ends the effects of the death curse (see the introduction to the adventure) but also frees all the souls trapped within the device. Freed souls travel to the afterlife, and any creature whose soul is set free can be brought back from the dead by magical means.
+Under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect, the Soulmonger radiates an intense aura of necromantic magic. Destroying the Soulmonger not only ends the effects of the death curse (see the introduction to the adventure) but also frees all the souls trapped within the device. Freed souls travel to the afterlife, and any creature whose soul is set free can be brought back from the dead by magical means.
 
 The Soulmonger is an artifact of evil—a Huge object with AC 15; 200 hit points; vulnerability to radiant damage; and immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks.
 
@@ -3333,7 +3325,7 @@ Unless likewise secured, any creature standing on an adamantine strut when the s
 
 ##### Tentacles
 
-Once per turn, in response to any creature making a successful melee weapon attack against the cylinder or one of its struts, the Soulmonger attacks that creature with one of its 30-foot-long tentacles. The tentacle has a Strength score of 22 and makes one melee weapon attack against the creature: +7 to hit, `dice:4d8+6|noform|noparens|avg|text(24)` (`4d8 + 6`) bludgeoning damage. Instead of dealing damage, a tentacle can grapple its target (escape DC 16). If the target weighs 330 pounds or less, the tentacle can also lift the grappled creature and move it to any unoccupied space within its 30-foot reach, or drop it in the lava.
+Once per turn, in response to any creature making a successful melee weapon attack against the cylinder or one of its struts, the Soulmonger attacks that creature with one of its 30-foot-long tentacles. The tentacle has a Strength score of 22 and makes one melee weapon attack against the creature: `+7` to hit, 24 (`4d8 + 6`) bludgeoning damage. Instead of dealing damage, a tentacle can grapple its target (escape DC 16). If the target weighs 330 pounds or less, the tentacle can also lift the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) creature and move it to any unoccupied space within its 30-foot reach, or drop it in the lava.
 
 The tentacles can be attacked and destroyed. Each one is a Huge animated object with AC 15, 30 hit points, and immunity to poison and psychic damage.
 
@@ -3350,7 +3342,7 @@ If the atropal has not been destroyed, it shrieks as the souls of the dead escap
 
 #### Lava Pit
 
-The lava pit is 30 feet below the floor of the room and 100 feet deep. Any creature that falls into the lava or starts its turn there takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) fire damage. Any object that falls into the lava takes damage on initial contact and once per round thereafter until it is removed from the lava or destroyed.
+The lava pit is 30 feet below the floor of the room and 100 feet deep. Any creature that falls into the lava or starts its turn there takes 55 (`10d10`) fire damage. Any object that falls into the lava takes damage on initial contact and once per round thereafter until it is removed from the lava or destroyed.
 
 #### Phylacteries
 
@@ -3361,9 +3353,9 @@ Along the east and west walls of the chamber, two balconies stand 30 feet above 
 > Two facing balconies halfway along the room are littered by ornate glass bottles, fluted silver urns, ivory caskets, and other vessels—all of them inscribed with baleful sigils.
 ^504
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has disciples scattered throughout the multiverse, including many liches that seek to become as powerful as him. He keeps their phylacteries here.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has disciples scattered throughout the multiverse, including many liches that seek to become as powerful as him. He keeps their phylacteries here.
 
-Each balcony has `dice:2d6+5|noform|noparens|avg` (`2d6 + 5`) lich phylacteries on it. Any character who succeeds on a DC 15 Intelligence (Arcana) check recognizes the phylacteries for what they are. Destroying a phylactery is no simple task and often requires a special ritual, item, or weapon. The phylacteries here are all unique, and discovering the key to each one's destruction will require time and expensive research. There's a 10 percent chance that any one of these phylacteries would be destroyed by hurling it into the lava.
+Each balcony has `2d6 + 5` lich phylacteries on it. Any character who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes the phylacteries for what they are. Destroying a phylactery is no simple task and often requires a special ritual, item, or weapon. The phylacteries here are all unique, and discovering the key to each one's destruction will require time and expensive research. There's a 10 percent chance that any one of these phylacteries would be destroyed by hurling it into the lava.
 
 #### Mist Gate
 
@@ -3374,7 +3366,7 @@ The balcony at the south end of the room holds the gateway to the final chambers
 > An ornate archway looms over this balcony. Grinning skulls are molded into its frame, and glowing mist swirls within.
 ^506
 
-A detect magic spell or similar effect reveals an aura of conjuration magic around the gate. Any creature that steps into the archway emerges from a similar archway in area 78, along with anything it is wearing or carrying.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of conjuration magic around the gate. Any creature that steps into the archway emerges from a similar archway in area 78, along with anything it is wearing or carrying.
 
 #### Acererak's Revenge
 
@@ -3385,34 +3377,34 @@ If the characters kill the atropal, read:
 > A skeletal figure wrapped in moldering robes and clutching a skull-tipped staff appears on the south balcony. Hateful pinpricks of white light burn in its eye sockets, and a two-foot-diameter sphere of utter darkness floats in the air beside it.
 ^508
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) (see appendix D) rolls initiative and attacks with all his power, hoping to slay the intruders and reap their souls. The archlich carries the [Staff of the Forgotten One](/3-Mechanics/CLI/items/staff-of-the-forgotten-one-toa.md) (see appendix C) and is accompanied by a sphere of annihilation, which he controls using a talisman of the sphere worn about his neck. Because the Tomb of the Nine Gods is not [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s home, he has no access to lair actions during this battle.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) (see appendix D) rolls initiative and attacks with all his power, hoping to slay the intruders and reap their souls. The archlich carries the [Staff of the Forgotten One](3-Mechanics/CLI/items/staff-of-the-forgotten-one-toa.md) (see appendix C) and is accompanied by a [sphere of annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md), which he controls using a [talisman of the sphere](3-Mechanics/CLI/items/talisman-of-the-sphere-xdmg.md) worn about his neck. Because the Tomb of the Nine Gods is not [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s home, he has no access to lair actions during this battle.
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) speaks to the adventurers in condescending tones, referring to them as "puny mortals" as he sets out to destroy them.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) speaks to the adventurers in condescending tones, referring to them as "puny mortals" as he sets out to destroy them.
 
 ##### Wrath of the Trickster Gods
 
-When [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) appears, any character inhabited by the spirit of a trickster god hears that spirit cry out for vengeance. In addition to the power granted by his or her trickster god, the character gains the following benefits while he or she can see [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md):
+When [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) appears, any character inhabited by the spirit of a trickster god hears that spirit cry out for vengeance. In addition to the power granted by his or her trickster god, the character gains the following benefits while he or she can see [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md):
 
 - The character gains 50 temporary hit points at the start of each of his or her turns.  
-- When the character makes an attack roll against [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) and hits, the attack deals an extra `dice:3d6|noform|noparens|avg` (`3d6`) psychic damage.  
+- When the character makes an attack roll against [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) and hits, the attack deals an extra `3d6` psychic damage.  
 
 #### Acererak's Defeat
 
-If [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) drops below 100 hit points, he casts teleport on his next turn and flees. As he departs, read:
+If [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) drops below 100 hit points, he casts [teleport](3-Mechanics/CLI/spells/teleport-xphb.md) on his next turn and flees. As he departs, read:
 
 > [!readaloud] 
 > 
-> "We'll meet again, fools!" says the lich. "And on that day, you will die!" With that, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) raises his staff, utters some arcane syllables, and is gone.
+> "We'll meet again, fools!" says the lich. "And on that day, you will die!" With that, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) raises his staff, utters some arcane syllables, and is gone.
 ^50b
 
-If the characters succeed in killing [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) before he has a chance to escape, read:
+If the characters succeed in killing [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) before he has a chance to escape, read:
 
 > [!readaloud] 
 > 
 > A look of horror passes over the lich's face as his body turns to dust. His tattered robes fall to the ground, as do his staff and talisman.
 ^50c
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s body reforms near his phylactery, which is hidden in some far-flung demiplane, but his possessions are left behind for the characters to pilfer. The sphere of annihilation remains stationary until someone takes control of it using the talisman. Because it's not a creature, the sphere is not teleported if it enters the mist gate (see "Mist Gate" above).
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s body reforms near his phylactery, which is hidden in some far-flung demiplane, but his possessions are left behind for the characters to pilfer. The [sphere of annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md) remains stationary until someone takes control of it using the talisman. Because it's not a creature, the sphere is not teleported if it enters the mist gate (see "Mist Gate" above).
 
 ### 78. Chapel of Hate
 
@@ -3425,7 +3417,7 @@ Any creature that passes through the mist gate in area 77 emerges from a similar
 > Eight emaciated, green-skinned creatures are shackled to the walls of the chapel, each one gazing toward you with a single baleful eye. The monsters begin to gibber and drool as they shake their manacles, eager to be set free.
 ^50e
 
-Once the atropal has fed on enough souls, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) plans to baptize it in the blood of a worthy sacrifice. This chapel was built for that dark ceremony. The Sewn Sisters obtained an appropriate sacrifice and have stitched it inside the leather body bag that rests on the altar.
+Once the atropal has fed on enough souls, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) plans to baptize it in the blood of a worthy sacrifice. This chapel was built for that dark ceremony. The Sewn Sisters obtained an appropriate sacrifice and have stitched it inside the leather body bag that rests on the altar.
 
 #### Advice from the Spirits
 
@@ -3436,17 +3428,17 @@ Any characters inhabited by the spirits of Moa or Wongo receive advice when ente
 
 #### Body Bag
 
-The leather body bag can be cut open to reveal an unconscious prisoner, whose identity is yours to decide. It might be [Artus Cimber](/3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md), [Dragonbait](/3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md), Volothamp Geddarm, or some other NPC the characters never got the chance to meet. It could also be an NPC who became separated from the party in the course of the adventure.
+The leather body bag can be cut open to reveal an [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) prisoner, whose identity is yours to decide. It might be [Artus Cimber](3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md), [Dragonbait](3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md), Volothamp Geddarm, or some other NPC the characters never got the chance to meet. It could also be an NPC who became separated from the party in the course of the adventure.
 
-If no suitable NPC springs to mind, use a captured member of the Order of the Gauntlet named Zalder Faelrond (LG male Tethyrian human [knight](/3-Mechanics/CLI/bestiary/humanoid/knight.md) of Torm, with no armor or weapons). Zalder's story is that he was kidnapped by the Sewn Sisters while patrolling the jungle. If set free, he requests an escort back to Camp Vengeance (see chapter 2).
+If no suitable NPC springs to mind, use a captured member of the Order of the Gauntlet named Zalder Faelrond (LG male Tethyrian human [knight](3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) of Torm, with no armor or weapons). Zalder's story is that he was kidnapped by the Sewn Sisters while patrolling the jungle. If set free, he requests an escort back to Camp Vengeance (see chapter 2).
 
-The night hags' magic keeps the prisoner alive and unconscious. With a successful DC 17 Intelligence (Arcana or Religion) check, a character determines that the effect can be ended only by splashing the prisoner with holy water.
+The night hags' magic keeps the prisoner alive and [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). With a successful DC 17 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, a character determines that the effect can be ended only by splashing the prisoner with holy water.
 
 #### Devotees of Acererak
 
-The creatures shackled to the chapel walls are eight [nothics](/3-Mechanics/CLI/bestiary/aberration/nothic.md)—former disciples of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) who lost their minds trying to learn their master's arcane secrets. The nothics are restrained by the shackles and can't make melee attacks until they are set free. They speak Undercommon and demand to be released.
+The creatures shackled to the chapel walls are eight [nothics](3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md)—former disciples of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) who lost their minds trying to learn their master's arcane secrets. The nothics are [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the shackles and can't make melee attacks until they are set free. They speak Undercommon and demand to be released.
 
-The night hag Widow Groat (see area 71) carries the keys to the nothics' shackles, which can also be picked with a successful DC 13 Dexterity check made by a character using thieves' tools, or sundered with a good, hard weapon strike.
+The night hag Widow Groat (see area 71) carries the keys to the nothics' shackles, which can also be picked with a successful DC 13 Dexterity check made by a character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), or sundered with a good, hard weapon strike.
 
 If the characters ignore the nothics' demands, the spiteful creatures attack them using their horrid Rotting Gaze. If the characters unshackle them, the nothics loiter in the chapel and leave the party alone. They also provide the following helpful information if their liberators question them:
 
@@ -3477,21 +3469,21 @@ The charred skeleton points to the arch containing a secret door that slides ope
 
 ##### Glyph of Warding
 
-Opening the secret door triggers a glyph of warding spell, which targets all creatures in a 20-foot-radius sphere centered on the door. The sphere spreads around corners. Each creature in the area must make a DC 24 Dexterity saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) cold damage on a failed save, or half as much damage on a successful one. The triggering glyph is at the bottom right corner of the door and can be found with a successful DC 24 Intelligence (Investigation) check.
+Opening the secret door triggers a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell, which targets all creatures in a 20-foot-radius sphere centered on the door. The sphere spreads around corners. Each creature in the area must make a DC 24 Dexterity saving throw, taking 22 (`5d8`) cold damage on a failed save, or half as much damage on a successful one. The triggering glyph is at the bottom right corner of the door and can be found with a successful DC 24 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check.
 
 ##### Wall of Fire
 
-When the glyph of warding spell activates or is dispelled, a magical wall of fire springs up at the south end of the hallway, setting the black curtain ablaze if it still hangs there. The wall of fire spans the width and height of the hall. Any creature that enters the wall, starts its turn inside the wall, or starts its turn within 5 feet of the north side of the wall takes `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) fire damage.
+When the [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell activates or is dispelled, a magical wall of fire springs up at the south end of the hallway, setting the black curtain ablaze if it still hangs there. The wall of fire spans the width and height of the hall. Any creature that enters the wall, starts its turn inside the wall, or starts its turn within 5 feet of the north side of the wall takes 22 (`5d8`) fire damage.
 
-When the wall of fire appears, all creatures present should roll initiative. Each round on initiative count 15, the wall moves 10 feet northward, stopping only when it reaches 5 feet from the north wall. The wall lasts until there are no creatures in the hallway, or until it is dispelled with a successful dispel magic (DC 14).
+When the wall of fire appears, all creatures present should roll initiative. Each round on initiative count 15, the wall moves 10 feet northward, stopping only when it reaches 5 feet from the north wall. The wall lasts until there are no creatures in the hallway, or until it is dispelled with a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 14).
 
 #### Golden Trail and Secret Door
 
-The trail of gold-colored tiles leads to the archway in the west wall that contains a secret door. Any character wearing the eye-shaped pendant found in area 2 can find the secret door without needing to make a check and can open the secret door without setting off the trap (see below). Behind the secret door is a dusty, web-filled hallway filled with sweet dulcimer music. The music gets louder as one approaches area 80.
+The trail of gold-colored tiles leads to the archway in the west wall that contains a secret door. Any character wearing the eye-shaped pendant found in area 2 can find the secret door without needing to make a check and can open the secret door without setting off the trap (see below). Behind the secret door is a dusty, web-filled hallway filled with sweet [dulcimer](3-Mechanics/CLI/items/dulcimer-xphb.md) music. The music gets louder as one approaches area 80.
 
 ##### Glyph of Warding
 
-Opening the secret door triggers a glyph of warding spell, which targets all creatures in a 20-foot-radius sphere centered on the door. The sphere spreads around corners. Each creature in the area must make a DC 24 Dexterity saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) thunder damage on a failed save, or half as much damage on a successful one. The triggering glyph is at the bottom right corner of the door and can be found with a successful DC 24 Intelligence (Investigation) check.
+Opening the secret door triggers a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell, which targets all creatures in a 20-foot-radius sphere centered on the door. The sphere spreads around corners. Each creature in the area must make a DC 24 Dexterity saving throw, taking 22 (`5d8`) thunder damage on a failed save, or half as much damage on a successful one. The triggering glyph is at the bottom right corner of the door and can be found with a successful DC 24 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check.
 
 #### Purple Trail
 
@@ -3507,16 +3499,16 @@ The characters might arrive here by way of the tunnel to the east, or through th
 
 > [!readaloud] 
 > 
-> Soft dulcimer music fills this room, the walls of which are painted the color of dried blood. Bookcases draped in cobwebs and dust line the walls and stand four deep in the middle of the room. Hundreds of leather-bound tomes weigh down their sagging shelves. At one end of the room, a small study contains a padded leather chair, a footstool, and a small table—as well as three corpses dangling upside down from shackles and chains bolted to the ceiling near the north wall. A lantern-shaped device resting atop the table appears to be the source of the music. An old man lies asleep in the chair, his horn-rimmed spectacles slipping down to the end of his nose.
+> Soft [dulcimer](3-Mechanics/CLI/items/dulcimer-xphb.md) music fills this room, the walls of which are painted the color of dried blood. Bookcases draped in cobwebs and dust line the walls and stand four deep in the middle of the room. Hundreds of leather-bound tomes weigh down their sagging shelves. At one end of the room, a small study contains a padded leather chair, a footstool, and a small table—as well as three corpses dangling upside down from shackles and chains bolted to the ceiling near the north wall. A lantern-shaped device resting atop the table appears to be the source of the music. An old man lies asleep in the chair, his horn-rimmed spectacles slipping down to the end of his nose.
 ^51d
 
 The library contains the collected wisdom of a hundred sages, along with a few spellbooks and scrolls (see "Treasure" below).
 
-The corpses hanging along the north wall are the remains of three archmagi who tried to meddle in [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s affairs. A successful DC 12 Wisdom (Medicine) check confirms that all three died within the past month and that destructive spells were the cause of their demise.
+The corpses hanging along the north wall are the remains of three archmagi who tried to meddle in [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s affairs. A successful DC 12 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check confirms that all three died within the past month and that destructive spells were the cause of their demise.
 
-The old man sleeping in the chair is an [arcanaloth](/3-Mechanics/CLI/bestiary/fiend/arcanaloth.md) under the effect of its alter self spell. The fiend has one of the library's spellbooks lying open on its lap and pretends to be asleep. If approached, the man appears to wake and asks, "Why do you disturb me?" The creature won't reveal its true name, instead referring to itself as "Mr. Fox." The arcanaloth is bound to the library by [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic and can't leave, nor can it allow any of the library's books or scrolls to be removed.
+The old man sleeping in the chair is an [arcanaloth](3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md) under the effect of its [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md) spell. The fiend has one of the library's spellbooks lying open on its lap and pretends to be asleep. If approached, the man appears to wake and asks, "Why do you disturb me?" The creature won't reveal its true name, instead referring to itself as "Mr. Fox." The arcanaloth is bound to the library by [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s magic and can't leave, nor can it allow any of the library's books or scrolls to be removed.
 
-If any character speaks the arcanaloth's true name ("Ygga Raxyg"; see area 71) within earshot of the fiend, it is stunned for 1 minute. Once the stunned effect wears off, repeating the arcanaloth's name has no effect on it for the next 24 hours. If killed, the arcanaloth melts into a pool of ichor, leaving behind its robes and horn-rimmed spectacles (see "Treasure" below).
+If any character speaks the arcanaloth's true name ("Ygga Raxyg"; see area 71) within earshot of the fiend, it is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. Once the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) effect wears off, repeating the arcanaloth's name has no effect on it for the next 24 hours. If killed, the arcanaloth melts into a pool of ichor, leaving behind its robes and horn-rimmed spectacles (see "Treasure" below).
 
 #### Alcove
 
@@ -3524,11 +3516,11 @@ The alcove in the southwest corner of the room is empty. If the magic at the end
 
 #### Treasure
 
-The arcanaloth's horn-rimmed spectacles aren't magical, but they are worth 250 gp. The spectacles are also a gate key that opens a portal in the planar city of Sigil. The portal is a two-way door to the plane of Arcadia. A legend lore spell cast on the spectacles reveals this information and raises their potential value to 2,500 gp if they are sold to a wizard or sage.
+The arcanaloth's horn-rimmed spectacles aren't magical, but they are worth 250 gp. The spectacles are also a gate key that opens a portal in the planar city of Sigil. The portal is a two-way door to the plane of Arcadia. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell cast on the spectacles reveals this information and raises their potential value to 2,500 gp if they are sold to a wizard or sage.
 
-The object on the table is a music box made of dark wood with gold filigree. A detect magic spell or similar effect reveals an aura of conjuration magic around it. Each of its five sides is sculpted with the image of a horned woman playing a different musical instrument: a dulcimer, a flute, a harp, a lyre, and a viol. While touching the box, a creature can use an action to make it play music featuring one of the instruments shown, which can be heard up to 60 feet away. The character can also use an action to stop the music. The music box is worth 750 gp.
+The object on the table is a music box made of dark wood with gold filigree. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of conjuration magic around it. Each of its five sides is sculpted with the image of a horned woman playing a different [musical instrument](3-Mechanics/CLI/items/musical-instrument-xphb.md): a [dulcimer](3-Mechanics/CLI/items/dulcimer-xphb.md), a [flute](3-Mechanics/CLI/items/flute-xphb.md), a harp, a [lyre](3-Mechanics/CLI/items/lyre-xphb.md), and a [viol](3-Mechanics/CLI/items/viol-xphb.md). While touching the box, a creature can use an action to make it play music featuring one of the instruments shown, which can be heard up to 60 feet away. The character can also use an action to stop the music. The music box is worth 750 gp.
 
-The library contains two hundred historical texts (50 gp each), sixty tomes of arcane lore (100 gp each), three dusty spell scrolls (create undead, fabricate, and resurrection), and six spellbooks. The first three spellbooks contain `dice:1d6|noform|noparens|avg` (`1d6`) spells each of 1st through 3rd level. The fourth and fifth spellbooks contain `dice:1d4|noform|noparens|avg` (`1d4`) spells each of 4th through 6th level. The sixth spellbook has a title (*X the Mystic's Arcane Grimoire*) burned into its spine and contains `dice:1d3|noform|noparens|avg` (`1d3`) spells each of 7th through 9th level.
+The library contains two hundred historical texts (50 gp each), sixty tomes of arcane lore (100 gp each), three dusty [spell scrolls](3-Mechanics/CLI/items/spell-scroll-xdmg.md) ([create undead](3-Mechanics/CLI/spells/create-undead-xphb.md), [fabricate](3-Mechanics/CLI/spells/fabricate-xphb.md), and [resurrection](3-Mechanics/CLI/spells/resurrection-xphb.md)), and six spellbooks. The first three spellbooks contain `1d6` spells each of 1st through 3rd level. The fourth and fifth spellbooks contain `1d4` spells each of 4th through 6th level. The sixth spellbook has a title (*X the Mystic's Arcane Grimoire*) burned into its spine and contains `1d3` spells each of 7th through 9th level.
 
 ### 81. Ebon Pool
 
@@ -3537,11 +3529,11 @@ The library contains two hundred historical texts (50 gp each), sixty tomes of a
 > A pool of jet-black ooze glistens inside this silent chamber, whose walls are decorated with relief carvings depicting black stars.
 ^521
 
-The pool radiates an aura of conjuration magic to a detect magic spell or similar effect. Creatures that come into contact with the ooze are unharmed. Any object that isn't being worn or carried by a creature disappears if submerged in the black ooze. Such items are permanently lost, having been transported to a secret demiplane whose location cannot be divined. Any amount of ooze that is removed from the pool disappears instantly.
+The pool radiates an aura of conjuration magic to a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect. Creatures that come into contact with the ooze are unharmed. Any object that isn't being worn or carried by a creature disappears if submerged in the black ooze. Such items are permanently lost, having been transported to a secret demiplane whose location cannot be divined. Any amount of ooze that is removed from the pool disappears instantly.
 
 #### Activating the Pool
 
-Peggy Deadbells (in area 71) and [Mister Threadneedle](/3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) (in area 74) have black marbles in their possession that can be used to activate the pool. If one of these black marbles is tossed into the pool, read:
+Peggy Deadbells (in area 71) and [Mister Threadneedle](3-Mechanics/CLI/bestiary/npc/mister-threadneedle-toa.md) (in area 74) have black marbles in their possession that can be used to activate the pool. If one of these black marbles is tossed into the pool, read:
 
 > [!readaloud] 
 > 
@@ -3554,7 +3546,7 @@ The ooze obelisk sinks back into the pool and disappears after 1 minute. Tossing
 
 ## Conclusion
 
-Destroying the Soulmonger frees the souls trapped inside it and ends [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s death curse. Characters who accomplish this goal will have saved many lives, and if word spreads of their heroism, wealthy and influential NPCs come forward bearing gifts of thanks. These gifts can take many forms, including parcels of land and special favors (see ""Marks of Prestige"" in chapter 7 of the *Dungeon Master's Guide*). If the characters allow the atropal to survive in the depths of the tomb, it eventually attracts nihilistic devotees of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) who feed it their own dark souls as nourishment.
+Destroying the Soulmonger frees the souls trapped inside it and ends [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s death curse. Characters who accomplish this goal will have saved many lives, and if word spreads of their heroism, wealthy and influential NPCs come forward bearing gifts of thanks. These gifts can take many forms, including parcels of land and special favors (see ""Marks of Prestige"" in chapter 7 of the *Dungeon Master's Guide*). If the characters allow the atropal to survive in the depths of the tomb, it eventually attracts nihilistic devotees of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) who feed it their own dark souls as nourishment.
 
 ### Lost Treasures
 
@@ -3562,7 +3554,7 @@ As they explore the tomb, characters are likely to find one or more fabled treas
 
 #### Relics of the Past
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) placed four treasures in the tomb as lures: the Black Opal Crown, the Eye of Zaltec, the Navel of the Moon, and the Skull Chalice of Ch'gakare. These items can be kept, sold to interested buyers, or returned to their rightful owners.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) placed four treasures in the tomb as lures: the Black Opal Crown, the Eye of Zaltec, the Navel of the Moon, and the Skull Chalice of Ch'gakare. These items can be kept, sold to interested buyers, or returned to their rightful owners.
 
 ##### Black Opal Crown (Area 49)
 
@@ -3578,45 +3570,45 @@ If the characters try to sell this stone in Baldur's Gate, Port Nyanzaru, or som
 
 ##### Skull Chalice of Ch'gakare (Area 67)
 
-Princess Mwaxanaré can't afford to pay characters what this treasure is worth, and she will despise them for selling it to someone else. Three of Port Nyanzaru's merchant princes express interest in buying the chalice: [Ifan Talro'a](/3-Mechanics/CLI/bestiary/npc/ifan-talroa-toa.md) wants to add it to his private collection of Chultan relics, Kwayothé wants to melt it down, and [Zhanthi](/3-Mechanics/CLI/bestiary/npc/zhanthi-toa.md) wants it for sentimental reasons. Denying any one of them would be a grave mistake on the characters' part and might result in them receiving an ominous Ytepka Society token.
+Princess Mwaxanaré can't afford to pay characters what this treasure is worth, and she will despise them for selling it to someone else. Three of Port Nyanzaru's merchant princes express interest in buying the chalice: [Ifan Talro'a](3-Mechanics/CLI/bestiary/npc/ifan-talroa-toa.md) wants to add it to his private collection of Chultan relics, Kwayothé wants to melt it down, and [Zhanthi](3-Mechanics/CLI/bestiary/npc/zhanthi-toa.md) wants it for sentimental reasons. Denying any one of them would be a grave mistake on the characters' part and might result in them receiving an ominous Ytepka Society token.
 
 #### Magic Items of the Trickster Gods
 
-Certain magic items—specifically those in which the spirits of the nine trickster gods reside—turn to dust and are destroyed as soon as they exit the tomb. These items include Obo'laka's ring of protection (area 10), Moa's staff of the python (area 14), Wongo's mace of terror (area 16), Papazotl's amulet of health (area 22), Nangnang's egg-shaped pearl of power (area 24), I'jin's horn-shaped wand of wonder (area 35), Kubazan's bracers of archery (area 42), Shagambi's instrument of the bards (area 48), and Unkh's robe of scintillating colors (area 55).
+Certain magic items—specifically those in which the spirits of the nine trickster gods reside—turn to dust and are destroyed as soon as they exit the tomb. These items include Obo'laka's [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md) (area 10), Moa's [staff of the python](3-Mechanics/CLI/items/staff-of-the-python-xdmg.md) (area 14), Wongo's [mace of terror](3-Mechanics/CLI/items/mace-of-terror-xdmg.md) (area 16), Papazotl's [amulet of health](3-Mechanics/CLI/items/amulet-of-health-xdmg.md) (area 22), Nangnang's egg-shaped [pearl of power](3-Mechanics/CLI/items/pearl-of-power-xdmg.md) (area 24), I'jin's horn-shaped [wand of wonder](3-Mechanics/CLI/items/wand-of-wonder-xdmg.md) (area 35), Kubazan's [bracers of archery](3-Mechanics/CLI/items/bracers-of-archery-xdmg.md) (area 42), Shagambi's [instrument of the bards](3-Mechanics/CLI/items/instrument-of-the-bards-xdmg.md) (area 48), and Unkh's [robe of scintillating colors](3-Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md) (area 55).
 
 If, in your estimation, a player did an extraordinary job roleplaying a trickster god's flaw, the god's spirit might reward that player's character by allowing its magic item to exist outside the tomb, provided that character is attuned to the item when it leaves the tomb.
 
 ### Syndra's Fate
 
-Characters who survive the Tomb of the Nine Gods won't know the fate of [Syndra Silvane](/3-Mechanics/CLI/bestiary/npc/syndra-silvane-toa.md) until they return to Port Nyanzaru, use a spell such as scrying to spy on her, or reach out to her with a sending spell or similar magic. If the characters destroy the Soulmonger and Syndra is still alive, priests quickly restore her to full health, and the characters can collect their promised reward. If Syndra dies but her soul is saved before the atropal devours it, she is raised from the dead within a tenday of the Soulmonger's destruction and honors her agreement with the party. In the event that Syndra dies and her soul is devoured, her body lies in state pending a funeral and proper burial.
+Characters who survive the Tomb of the Nine Gods won't know the fate of [Syndra Silvane](3-Mechanics/CLI/bestiary/npc/syndra-silvane-toa.md) until they return to Port Nyanzaru, use a spell such as [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) to spy on her, or reach out to her with a [sending](3-Mechanics/CLI/spells/sending-xphb.md) spell or similar magic. If the characters destroy the Soulmonger and Syndra is still alive, priests quickly restore her to full health, and the characters can collect their promised reward. If Syndra dies but her soul is saved before the atropal devours it, she is raised from the dead within a tenday of the Soulmonger's destruction and honors her agreement with the party. In the event that Syndra dies and her soul is devoured, her body lies in state pending a funeral and proper burial.
 
 ### Artus and the Ring of Winter
 
-[Artus Cimber](/3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) is unwilling to part with [Ring of Winter](/3-Mechanics/CLI/items/ring-of-winter-toa.md). He is justifiably concerned that the ring would dominate and control any other owner. Furthermore, Artus would begin to age as a normal human without the ring, and he wants to live forever with his beloved Alisanda.
+[Artus Cimber](3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) is unwilling to part with [Ring of Winter](3-Mechanics/CLI/items/ring-of-winter-toa.md). He is justifiably concerned that the ring would dominate and control any other owner. Furthermore, Artus would begin to age as a normal human without the ring, and he wants to live forever with his beloved Alisanda.
 
-[Xandala](/3-Mechanics/CLI/bestiary/npc/xandala-toa.md), the Harpers, the Zhentarim, and frost giants loyal to Jarl Storvald won't stop searching for the [Ring of Winter](/3-Mechanics/CLI/items/ring-of-winter-toa.md). If the characters make their way back to civilization with Artus in tow, they should encounter one or more of these groups along the way. [Valindra Shadowmantle](/3-Mechanics/CLI/bestiary/npc/valindra-shadowmantle-toa.md) and the Red Wizards of Thay also won't pass up a chance to take the ring by force.
+[Xandala](3-Mechanics/CLI/bestiary/npc/xandala-toa.md), the Harpers, the Zhentarim, and frost giants loyal to Jarl Storvald won't stop searching for the [Ring of Winter](3-Mechanics/CLI/items/ring-of-winter-toa.md). If the characters make their way back to civilization with Artus in tow, they should encounter one or more of these groups along the way. [Valindra Shadowmantle](3-Mechanics/CLI/bestiary/npc/valindra-shadowmantle-toa.md) and the Red Wizards of Thay also won't pass up a chance to take the ring by force.
 
-With or without the ring, [Artus Cimber](/3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) continues to await Mezro's return while searching for the means to reach or summon the displaced city. Nothing matters to him more than reuniting with his wife. Characters interested in helping Artus can use divination spells or downtime to conduct research. They might also consult with the Harpers, who have access to lore that might assist Artus in his quest, but they demand the ring in exchange for their assistance. Forced to choose between the Harpers' assistance and the ring, Artus chooses the latter. Alternatively, a portal to Mezro's demiplane might be hidden somewhere in Chult, creating the seeds of a wonderful new adventure.
+With or without the ring, [Artus Cimber](3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) continues to await Mezro's return while searching for the means to reach or summon the displaced city. Nothing matters to him more than reuniting with his wife. Characters interested in helping Artus can use divination spells or downtime to conduct research. They might also consult with the Harpers, who have access to lore that might assist Artus in his quest, but they demand the ring in exchange for their assistance. Forced to choose between the Harpers' assistance and the ring, Artus chooses the latter. Alternatively, a portal to Mezro's demiplane might be hidden somewhere in Chult, creating the seeds of a wonderful new adventure.
 
 ### Dragonbait
 
-If he's with the characters when they escape from the Tomb of the Nine Gods, [Dragonbait](/3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md) is eager to put Omu and this adventure behind him. As long as [Artus Cimber](/3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) is alive, [Dragonbait](/3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md) remains committed to helping his friend find the displaced city of Mezro. If Artus is dead and there's no hope of raising him, [Dragonbait](/3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md) opts to return to Port Nyanzaru, where he drowns his sorrows in a few casks of tej before enjoying some downtime. The saurial gives off the scent of roses as he waves farewell to the party. He eventually crosses paths with Volothamp Geddarm, and the two explorers embark on numerous adventures together.
+If he's with the characters when they escape from the Tomb of the Nine Gods, [Dragonbait](3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md) is eager to put Omu and this adventure behind him. As long as [Artus Cimber](3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) is alive, [Dragonbait](3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md) remains committed to helping his friend find the displaced city of Mezro. If Artus is dead and there's no hope of raising him, [Dragonbait](3-Mechanics/CLI/bestiary/npc/dragonbait-toa.md) opts to return to Port Nyanzaru, where he drowns his sorrows in a few casks of tej before enjoying some downtime. The saurial gives off the scent of roses as he waves farewell to the party. He eventually crosses paths with Volothamp Geddarm, and the two explorers embark on numerous adventures together.
 
 ### Omu
 
-Unless the characters cleared out the Fane of the Night Serpent, Omu remains in the clutches of the yuan-ti. If [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) is still alive, he has no further use for the characters once the death curse is ended. Believing they know too much for their own good, he sends a party of yuan-ti to capture or kill them before they leave the city. If the party obtained the Black Opal Crown, they can trade the item for their lives.
+Unless the characters cleared out the Fane of the Night Serpent, Omu remains in the clutches of the yuan-ti. If [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) is still alive, he has no further use for the characters once the death curse is ended. Believing they know too much for their own good, he sends a party of yuan-ti to capture or kill them before they leave the city. If the party obtained the Black Opal Crown, they can trade the item for their lives.
 
-If [Fenthaza](/3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) lives, [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) makes the mistake of putting her in charge of the team sent to kill the characters, and she offers the party a deal instead. If the characters agree to kill [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md), they can go free and keep whatever treasure they take from the fane except for the Black Opal Crown, which [Fenthaza](/3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) insists be given to her at once. If the characters defeat [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) handily, [Fenthaza](/3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) honors her end of the deal. If they emerge from the fane weakened, she tries to destroy them.
+If [Fenthaza](3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) lives, [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) makes the mistake of putting her in charge of the team sent to kill the characters, and she offers the party a deal instead. If the characters agree to kill [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md), they can go free and keep whatever treasure they take from the fane except for the Black Opal Crown, which [Fenthaza](3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) insists be given to her at once. If the characters defeat [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) handily, [Fenthaza](3-Mechanics/CLI/bestiary/npc/fenthaza-toa.md) honors her end of the deal. If they emerge from the fane weakened, she tries to destroy them.
 
 Princess Mwaxanaré wants to restore Omu to its former glory and build a new kingdom there. With the Skull Chalice of Ch'gakare in her possession, she can win the support of Chultans eager to return to the old ways. However, the merchant princes of Port Nyanzaru aren't willing to back her claim, and the yuan-ti won't give up Omu without a fight. It could take years for Mwaxanaré's dream to come true, if it ever does.
 
 ### Red Wizards of Thay
 
-News of the Soulmonger's destruction annoys [Valindra Shadowmantle](/3-Mechanics/CLI/bestiary/npc/valindra-shadowmantle-toa.md). Using her teleportation circle, she returns to Thay and informs Szass Tam that her mission in Chult has failed. Angered by the party's interference, Szass Tam sends new operatives and powerful undead to spy on the characters, learn their weaknesses, and (eventually) dispose of them. If the characters have friendly ties to the Harpers or the Zhentarim, spies working for one faction or the other learn of the Red Wizard plot and can warn the characters.
+News of the Soulmonger's destruction annoys [Valindra Shadowmantle](3-Mechanics/CLI/bestiary/npc/valindra-shadowmantle-toa.md). Using her [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md), she returns to Thay and informs Szass Tam that her mission in Chult has failed. Angered by the party's interference, Szass Tam sends new operatives and powerful undead to spy on the characters, learn their weaknesses, and (eventually) dispose of them. If the characters have friendly ties to the Harpers or the Zhentarim, spies working for one faction or the other learn of the Red Wizard plot and can warn the characters.
 
 ### Acererak the Eternal
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) keeps his phylactery hidden, and neither gods nor spells can divine its location. If his physical body is destroyed, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) reforms next to his phylactery in `dice:1d10|noform|noparens|avg` (`1d10`) days. The archlich isn't quick to avenge his defeat. He prefers to let time—his most powerful ally—slay the adventurers. Once they're dead and gone, he sets out to make life miserable for their descendants.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) keeps his phylactery hidden, and neither gods nor spells can divine its location. If his physical body is destroyed, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) reforms next to his phylactery in `1d10` days. The archlich isn't quick to avenge his defeat. He prefers to let time—his most powerful ally—slay the adventurers. Once they're dead and gone, he sets out to make life miserable for their descendants.
 
 ### More Adventures
 

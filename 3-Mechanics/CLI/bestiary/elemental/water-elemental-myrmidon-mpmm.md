@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Water Elemental Myrmidon
+- "Water Elemental Myrmidon"
 ---
-# [Water Elemental Myrmidon](3-Mechanics\CLI\bestiary\elemental/water-elemental-myrmidon-mpmm.md)
+# [Water Elemental Myrmidon](3-Mechanics/CLI/bestiary/elemental/water-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123, Mordenkainen's Tome of Foes p. 203*  
 
 ## Elemental Myrmidons
@@ -25,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "2"
@@ -39,26 +39,29 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "40 ft., swim 40 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"gear":
+  - "[trident](3-Mechanics/CLI/items/trident.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Aquan, one language of its creator's choice"
 "cr": "7"
 "actions":
   - "desc": "The myrmidon makes three Trident attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 7 (1d6 + 4) force damage, or 8 (1d8 + 4) force damage\
-      \ if used with two hands to make a melee attack."
+      \ ft., one target. *Hit:* 7 (1d6 + 4) force damage, or 8 (1d8 + 4) force\
+      \ damage if used with two hands to make a melee attack."
     "name": "Trident"
   - "desc": "The myrmidon uses Multiattack. Each attack that hits deals an extra 5\
-      \ (1d10) cold damage. A target that is hit by one or more of these attacks has\
-      \ its speed reduced by 10 feet until the end of the myrmidon's next turn."
+      \ (1d10) cold damage. A target that is hit by one or more of these attacks\
+      \ has its speed reduced by 10 feet until the end of the myrmidon's next turn."
     "name": "Freezing Strikes (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

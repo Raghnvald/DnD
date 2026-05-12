@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Folk Horror Torments
+- "Folk Horror Torments"
 ---
 # Folk Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 53* 
 
 **Folk Horror Torments**
-
-`dice: [](folk-horror-torments-vrgr.md#^folk-horror-torments)`
 
 | dice: d6 | Torment |
 |----------|---------|

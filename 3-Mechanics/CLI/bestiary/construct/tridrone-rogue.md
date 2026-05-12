@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tridrone (Rogue)
+- "Tridrone (Rogue)"
 ---
-# [Tridrone (Rogue)](3-Mechanics\CLI\bestiary\construct/tridrone-rogue.md)
+# [Tridrone (Rogue)](3-Mechanics/CLI/bestiary/construct/tridrone-rogue.md)
 *Source: Monster Manual p. 225*  
 
 ```statblock
@@ -33,8 +33,10 @@ aliases:
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 10"
 "languages": "Modron"
 "cr": "1/2"
 "traits":
@@ -44,8 +46,8 @@ aliases:
 "actions":
   - "desc": "The tridrone makes three fist attacks or three javelin attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) bludgeoning damage."
     "name": "Fist"
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 4 (1d6 + 1) piercing damage."

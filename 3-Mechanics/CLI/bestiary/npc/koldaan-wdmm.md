@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kol'daan
+- "Kol'daan"
 ---
-# [Kol'daan](3-Mechanics\CLI\bestiary\npc/koldaan-wdmm.md)
+# [Kol'daan](3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 155*  
 
 ```statblock
@@ -35,37 +35,40 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Troglodyte"
 "cr": "1/4"
 "traits":
-  - "desc": "Kol'daan has advantage on Dexterity (Stealth) checks made to hide."
+  - "desc": "Kol'daan has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide."
     "name": "Chameleon Skin"
   - "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
-      \ of Kol'daan must succeed on a DC 12 Constitution saving throw or be poisoned\
+      \ of Kol'daan must succeed on a DC 12 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ until the start of the creature's next turn. On a successful saving throw,\
       \ the creature is immune to the stench of all troglodytes for 1 hour."
     "name": "Stench"
   - "desc": "While in sunlight, Kol'daan has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Kol'daan makes three attacks: one with its bite and two with its claws\
       \ or sparring sword."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d4 + 2) bludgeoning damage."
     "name": "Sparring Sword"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/koldaan-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/koldaan-wdmm.webp"
 ```
 ^statblock

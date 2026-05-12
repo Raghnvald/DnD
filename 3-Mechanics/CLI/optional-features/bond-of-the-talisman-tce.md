@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/optional-feature/ei
 aliases:
-- Bond of the Talisman
+- "Bond of the Talisman"
 ---
 # Bond of the Talisman
 *Source: Tasha's Cauldron of Everything p. 70*  

@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iron Golem
+- "Iron Golem"
 ---
-# [Iron Golem](3-Mechanics\CLI\bestiary\construct/iron-golem.md)
-*Source: Monster Manual p. 170, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Iron Golem](3-Mechanics/CLI/bestiary/construct/iron-golem.md)
+*Source: Monster Manual p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The mightiest of the golems, the iron golem is a massive, towering giant wrought of heavy metal. An iron golem's shape can be worked into any form, though most are fashioned to look like giant suits of armor. Its fist can destroy creatures with a single blow, and its clanging steps shake the earth beneath its feet. Iron golems wield enormous blades to extend their reach, and all can belch clouds of deadly poison.
 
@@ -45,7 +45,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is incapacitated, it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -71,8 +71,11 @@ A golem doesn't require air, food, drink, or sleep.
 "speed": "30 ft."
 "damage_immunities": "fire; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "16"
 "traits":
@@ -89,11 +92,11 @@ A golem doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The golem makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) bludgeoning damage."
     "name": "Slam"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23\
-      \ (3d10 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 23 (3d10 + 7) slashing damage."
     "name": "Sword"
   - "desc": "The golem exhales poisonous gas in a 15-foot cone. Each creature in that\
       \ area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison\
@@ -101,7 +104,6 @@ A golem doesn't require air, food, drink, or sleep.
     "name": "Poison Breath (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/iron-golem.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/iron-golem.webp"
 ```
 ^statblock

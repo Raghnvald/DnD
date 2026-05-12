@@ -11,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draegloth
+- "Draegloth"
 ---
-# [Draegloth](3-Mechanics\CLI\bestiary\fiend/draegloth-mpmm.md)
+# [Draegloth](3-Mechanics/CLI/bestiary/fiend/draegloth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141*  
 
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -44,40 +44,40 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "7"
 "traits":
-  - "desc": "The draegloth has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The draegloth has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
   - "desc": "The draegloth makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 16\
-      \ (2d10 + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) slashing damage."
     "name": "Claw"
   - "desc": "The draegloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 11):\n\
-      \n**At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md)\n\n**1/day each:** [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md),\
-      \ [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
+      \n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md)\n\n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/draegloth-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/draegloth-mpmm.webp"
 ```
 ^statblock
 

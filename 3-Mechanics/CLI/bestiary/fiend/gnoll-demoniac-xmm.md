@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Demoniac
+- "Gnoll Demoniac"
 ---
-# [Gnoll Demoniac](3-Mechanics\CLI\bestiary\fiend/gnoll-demoniac-xmm.md)
+# [Gnoll Demoniac](3-Mechanics/CLI/bestiary/fiend/gnoll-demoniac-xmm.md)
 *Source: Monster Manual (2024) p. 141*  
 
 Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed on flesh corrupted by the Abyss. Now embodying the ruinous hunger of Yeenoghu, these gnolls throw themselves into battle, heedless of odds or their own survival. Rampaging demoniacs even devour other gnolls in their wild frenzies.
@@ -26,7 +26,7 @@ Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed
 *Fiends in Feral Flesh*
 
 - **Habitat.** Desert, Forest, Grassland, Hill  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
@@ -58,10 +58,10 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Abyssal, Common, Gnoll"
 "cr": "8"
 "actions":
@@ -70,25 +70,25 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 60 ft. *Hit:*\
       \ 20 (5d6 + 3) Poison damage."
     "name": "Abyssal Strike"
-  - "desc": "The gnoll conjures a 30-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md)\
-      \ of magical [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md) originating\
-      \ from a point it can see within 60 feet, which lasts for 1 minute or until\
-      \ the gnoll's [Concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ ends on it. This area is [Difficult Terrain](/3-Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).\
+  - "desc": "The gnoll conjures a 30-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)\
+      \ of magical [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md)\
+      \ originating from a point it can see within 60 feet, which lasts for 1 minute\
+      \ or until the gnoll's [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends on it. This area is [Difficult Terrain](3-Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).\
       \ *Dexterity Saving Throw:* DC 14, any creature that starts its turn in this\
       \ area or enters it for the first time on a turn. *Failure:* 28 (8d6) Necrotic\
       \ damage, and the gnoll or a creature of its choice it can see gains 10 [Temporary\
-      \ Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).\
+      \ Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).\
       \ *Success:* Half damage only."
     "name": "Hunger of Yeenoghu (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](/3-Mechanics/CLI/conditions.md#Bloodied),\
-      \ the gnoll moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "Immediately after dealing damage to a creature that is already [Bloodied](3-Mechanics/CLI/rules/conditions.md#Bloodied),\
+      \ the gnoll moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md),\
       \ and it makes one Abyssal Strike attack."
     "name": "Rampage (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/gnoll-demoniac-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/gnoll-demoniac-xmm.webp"
 ```
 ^statblock
 

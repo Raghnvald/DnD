@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Necromite of Myrkul
+- "Necromite of Myrkul"
 ---
-# [Necromite of Myrkul](3-Mechanics\CLI\bestiary\humanoid/necromite-of-myrkul-bgdia.md)
+# [Necromite of Myrkul](3-Mechanics/CLI/bestiary/humanoid/necromite-of-myrkul-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 234*  
 
 Those who follow Myrkul are either wizards or those who seek to master the necromantic arts.
@@ -44,22 +44,22 @@ A follower of Myrkul wields a flail that has a skull replacing the normal flail'
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+5"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+5"
 "senses": "passive Perception 10"
 "languages": "Abyssal, Common, Infernal"
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d8)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d8) bludgeoning damage."
     "name": "Skull Flail"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 90 ft., one target. *Hit:* 8\
-      \ (2d4 + 3) necrotic damage."
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 90 ft., one target. *Hit:*\
+      \ 8 (2d4 + 3) necrotic damage."
     "name": "Claws of the Grave"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/necromite-of-myrkul-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/necromite-of-myrkul-bgdia.webp"
 ```
 ^statblock

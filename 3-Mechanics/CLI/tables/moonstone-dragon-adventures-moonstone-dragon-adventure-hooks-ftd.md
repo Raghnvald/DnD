@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
+- "Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks"
 ---
 # Moonstone Dragon Adventures; Moonstone Dragon Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 131* 
 
 **Moonstone Dragon Adventure Hooks**
-
-`dice: [](moonstone-dragon-adventures-moonstone-dragon-adventure-hooks-ftd.md#^moonstone-dragon-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

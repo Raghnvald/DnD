@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/4
-- new/monster/size/huge
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eigeron's Ghost
+- "Eigeron's Ghost"
 ---
-# [Eigeron's Ghost](3-Mechanics\CLI\bestiary\npc/eigerons-ghost-skt.md)
+# [Eigeron's Ghost](3-Mechanics/CLI/bestiary/npc/eigerons-ghost-skt.md)
 *Source: Storm King's Thunder p. 129*  
 
 ```statblock
@@ -35,9 +35,13 @@ aliases:
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Giant"
 "cr": "4"
 "traits":
@@ -62,23 +66,25 @@ aliases:
     "name": "Etherealness"
   - "desc": "One humanoid or giant that the ghost can see within 5 feet of it must\
       \ succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the\
-      \ ghost then disappears, and the target is incapacitated and loses control of\
-      \ its body. The ghost now controls the body but doesn't deprive the target of\
-      \ awareness. The ghost can't be targeted by any attack, spell, or other effect,\
-      \ except ones that turn undead, and it retains its alignment, Intelligence,\
-      \ Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise\
+      \ ghost then disappears, and the target is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and loses control of its body. The ghost now controls the body but doesn't\
+      \ deprive the target of awareness. The ghost can't be targeted by any attack,\
+      \ spell, or other effect, except ones that turn undead, and it retains its alignment,\
+      \ Intelligence, Wisdom, Charisma, and immunity to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened). It otherwise\
       \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, the ghost ends it as a bonus action, or the\
-      \ ghost is turned or forced out by an effect like the dispel evil and good spell.\
-      \ When the possession ends, the ghost reappears in an unoccupied space within\
-      \ 5 feet of the body. The target is immune to this ghost's Possession for 24\
-      \ hours after succeeding on the saving throw or after the possession ends. If\
-      \ a creature possessed by the ghost is forcibly removed from the Eye of Annam,\
-      \ the ghost is expelled from its host and re-forms in the middle of this room."
+      \ ghost is turned or forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
+      \ spell. When the possession ends, the ghost reappears in an unoccupied space\
+      \ within 5 feet of the body. The target is immune to this ghost's Possession\
+      \ for 24 hours after succeeding on the saving throw or after the possession\
+      \ ends. If a creature possessed by the ghost is forcibly removed from the Eye\
+      \ of Annam, the ghost is expelled from its host and re-forms in the middle of\
+      \ this room."
     "name": "Possession (Recharge 6)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/eigerons-ghost-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/eigerons-ghost-skt.webp"
 ```
 ^statblock

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/war
-aliases: 
-- The Spirits of the Past
+aliases:
+- "The Spirits of the Past"
 ---
 # The Spirits of the Past
 *Source: Player's Handbook p. 296* 

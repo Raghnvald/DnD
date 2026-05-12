@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Sanctum Amulet"
 ---
 # Sanctum Amulet
@@ -16,7 +16,7 @@ aliases:
 
 A black opal pendant hangs at the base of this pearlescent chain. The sacred rune is inscribed on the back of the pendant.
 
-While wearing this item, you have resistance to necrotic damage. Additionally, you can cast the [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md) cantrip using either an action or a bonus action.
+While wearing this item, you have resistance to necrotic damage. Additionally, you can cast the spare the dying cantrip using either an action or a bonus action.
 
 ## Invoking the Rune
 

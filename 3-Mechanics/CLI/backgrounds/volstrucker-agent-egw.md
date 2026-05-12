@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Volstrucker Agent
+- "Volstrucker Agent"
 ---
 # Volstrucker Agent
 *Source: Explorer's Guide to Wildemount p. 202*  
-![](/3-Mechanics/CLI/backgrounds/img/volstrucker-agent.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/volstrucker-agent.webp#right)
 
-- **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiencies.** [Poisoner's kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md)  
+- **Skill Proficiencies.** Deception, Stealth  
+- **Tool Proficiencies.** Poisoner's kit  
 - **Languages.** One of your choice  
-- **Equipment.** A set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), a black cloak with a hood, a [poisoner's kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md), and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A set of common clothes, a black cloak with a hood, a poisoner's kit, and a pouch containing 10 gp  
 
 The Volstrucker are a clandestine organization of arcane assassins and enforcers in the service of the Cerberus Assembly. Their operatives bear no official title, but are referred to in hushed tones as "scourgers" by residents of large Dwendalian cities such as Zadash and Rexxentrum.
 
@@ -24,8 +24,6 @@ You are a Volstrucker agent. Your duty is to silence dissidents who would underm
 ## Tragedy
 
 Happy people aren't selected to join the Volstrucker. The Cerberus Assembly preys upon talented individuals who have been broken by tragedy—in some cases, tragedy that the Volstrucker has arranged for. A slightly broken mind is more easily reshaped and reeducated. Choose the tragedy that set you on this path, or roll on the Tragedies table.
-
-`dice: [](volstrucker-agent-egw.md#^tragedy)`
 
 | dice: d6 | Tragedy |
 |----------|---------|
@@ -47,8 +45,6 @@ The ink used to send a letter across the shadow network is the same as that used
 
 Agents of the Volstrucker are groomed to follow orders without question and to kill without mercy. The trauma that brings one into the order can fester even more strongly against the darkness of a Volstrucker agent's assignments. Officially, no one ever leaves the order—but those desperate enough do whatever it takes to gain some measure of freedom.
 
-`dice: [](volstrucker-agent-egw.md#^personality-trait)`
-
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | I prefer to keep my thoughts to myself. |
@@ -58,8 +54,6 @@ Agents of the Volstrucker are groomed to follow orders without question and to k
 | 5 | I always keep my word—except when I'm commanded to break it. |
 | 6 | I laugh off insults and never take them personally. |
 ^personality-trait
-
-`dice: [](volstrucker-agent-egw.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -71,8 +65,6 @@ Agents of the Volstrucker are groomed to follow orders without question and to k
 | 6 | Escape. The Volstrucker are pure evil! I can't atone for what I've done for them, but I can escape with my life. (Any) |
 ^ideal
 
-`dice: [](volstrucker-agent-egw.md#^bond)`
-
 | dice: d4 | Bond |
 |----------|------|
 | 1 | The job is all that matters. I will see it through. |
@@ -80,8 +72,6 @@ Agents of the Volstrucker are groomed to follow orders without question and to k
 | 3 | Everything I've done, I've done to protect someone close to me. |
 | 4 | If the empire falls, all of civilization falls with it. I will hold back chaos and barbarism at any cost. |
 ^bond
-
-`dice: [](volstrucker-agent-egw.md#^flaw)`
 
 | dice: d4 | Flaw |
 |----------|------|

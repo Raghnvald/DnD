@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Noble Prodigy
+- "Noble Prodigy"
 ---
-# [Noble Prodigy](3-Mechanics\CLI\bestiary\humanoid/noble-prodigy-xmm.md)
+# [Noble Prodigy](3-Mechanics/CLI/bestiary/humanoid/noble-prodigy-xmm.md)
 *Source: Monster Manual (2024) p. 227*  
 
 Noble prodigies trace their lineage to a legendary hero, a demigod, a dragon, or some other ancestor that grants them magical prowess. Among some nobles, the source of a prodigy's magic might be a family secret.
@@ -50,9 +50,9 @@ Nobles encompass a variety of people with social influence. They might be rulers
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
 "senses": "passive Perception 16"
 "languages": "Common plus two other languages"
@@ -61,25 +61,25 @@ Nobles encompass a variety of people with social influence. They might be rulers
   - "desc": "The noble makes three Beguiling Strike attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +8, reach 5 ft. or range 60 ft. *Hit:*\
-      \ 18 (4d6 + 4) Psychic damage, and the target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ 18 (4d6 + 4) Psychic damage, and the target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ condition until the start of the noble's next turn."
     "name": "Beguiling Strike"
   - "desc": "The noble casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md) (included\
-      \ in AC), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Befuddlement](/3-Mechanics/CLI/spells/befuddlement-xphb.md),\
-      \ [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Fly](/3-Mechanics/CLI/spells/fly-xphb.md),\
-      \ [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md)\
+      \ will:** [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (included\
+      \ in AC), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [Befuddlement](3-Mechanics/CLI/spells/befuddlement-xphb.md),\
+      \ [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [Fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md)\
       \ (level 7 version)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "The noble casts [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response\
+  - "desc": "The noble casts [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response\
       \ to that spell's trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Shield (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/noble-prodigy-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/noble-prodigy-xmm.webp"
 ```
 ^statblock
 

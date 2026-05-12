@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Rakdos Cultist
+- "Rakdos Cultist"
 ---
 # Rakdos Cultist
 *Source: Guildmasters' Guide to Ravnica p. 79*  
 
 
-- **Skill Proficiencies.** [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
+- **Skill Proficiencies.** Acrobatics, Performance  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** Choose either Abyssal or Giant  
-- **Equipment.** A Rakdos insignia, a musical instrument (one of your choice), a [costume](/3-Mechanics/CLI/items/costume-xphb.md), a [hooded lantern](/3-Mechanics/CLI/items/hooded-lantern-xphb.md) made of wrought iron, a 10-foot length of chain with sharply spiked links, a [tinderbox](/3-Mechanics/CLI/items/tinderbox-xphb.md), 10 [torches](/3-Mechanics/CLI/items/torch-xphb.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice  
+- **Equipment.** A Rakdos insignia, a musical instrument (one of your choice), a costume, a hooded lantern made of wrought iron, a 10-foot length of chain with sharply spiked links, a tinderbox, 10 torches, a set of common clothes, a belt pouch containing 10 gp (a mix of Azorius and Boros 1-zino coins), and a bottle of sweet, red juice  
 
 You're an entertainer at heart, a performer with a flair for the dramatic and a love of the spotlight. You've spent years honing your craft, mastering a demanding set of skills so you can perform them with panache and make them look easy. The wild applause, the screams of the crowds, the mayhem and terror spreading into the streets—this is what you live for.
 
@@ -23,11 +23,9 @@ You're also a member of a cult devoted to an ancient demon who delights in viole
 
 ## A Flair for the Dramatic
 
-Rakdos performance styles typically fuse standard circus-style acrobatics with fire, wrought-iron spikes and hooks, and monsters. You can roll a `dice:d8|noform|noparens|avg` (`d8`) or choose from the options in the Performance Options table to determine your preferred style of performance.
+Rakdos performance styles typically fuse standard circus-style acrobatics with fire, wrought-iron spikes and hooks, and monsters. You can roll a `d8` or choose from the options in the Performance Options table to determine your preferred style of performance.
 
 **Performance Options**
-
-`dice: [](rakdos-cultist-ggr.md#^performance-options)`
 
 | dice: d8 | Type of Performer |
 |----------|-------------------|
@@ -55,12 +53,12 @@ For you, the spells on the Rakdos Guild Spells table are added to the spell list
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md), [vicious mockery](/3-Mechanics/CLI/spells/vicious-mockery-xphb.md) |
-| 1st | [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), [dissonant whispers](/3-Mechanics/CLI/spells/dissonant-whispers-xphb.md), [hellish rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md) |
-| 2nd | [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [enthrall](/3-Mechanics/CLI/spells/enthrall-xphb.md), [flaming sphere](/3-Mechanics/CLI/spells/flaming-sphere-xphb.md) |
-| 3rd | [fear](/3-Mechanics/CLI/spells/fear-xphb.md), [haste](/3-Mechanics/CLI/spells/haste-xphb.md) |
-| 4th | [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 5th | [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) |
+| Cantrip | fire bolt, vicious mockery |
+| 1st | burning hands, dissonant whispers, hellish rebuke |
+| 2nd | crown of madness, enthrall, flaming sphere |
+| 3rd | fear, haste |
+| 4th | confusion, wall of fire |
+| 5th | dominate person |
 ^rakdos-guild-spells
 
 Your magic often produces a flashy spectacle, wreathing you or your targets in a mixture of harmless flame and shadowy shapes. When you manipulate an opponent's mind, a flaming symbol of Rakdos might momentarily appear like a mask over the target's face.
@@ -70,8 +68,6 @@ Your magic often produces a flashy spectacle, wreathing you or your targets in a
 Members of demonic cults aren't generally known as the kindest or most mentally stable individuals, so you're likely to have something in your nature that distinguishes you from the law-abiding citizens of Ravnica.
 
 **Personality Traits**
-
-`dice: [](rakdos-cultist-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -87,8 +83,6 @@ Members of demonic cults aren't generally known as the kindest or most mentally 
 
 **Ideals**
 
-`dice: [](rakdos-cultist-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -101,8 +95,6 @@ Members of demonic cults aren't generally known as the kindest or most mentally 
 
 **Bonds**
 
-`dice: [](rakdos-cultist-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I have belonged to the same performance troupe for years, and these people mean everything to me. |
@@ -114,8 +106,6 @@ Members of demonic cults aren't generally known as the kindest or most mentally 
 ^bonds
 
 **Flaws**
-
-`dice: [](rakdos-cultist-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -135,8 +125,6 @@ Roll twice on the Rakdos Contacts table (for an ally and a rival) and once on th
 
 **Rakdos Contacts**
 
-`dice: [](rakdos-cultist-ggr.md#^rakdos-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | I was part of a two-person act until my former partner moved to a different troupe. |
@@ -150,8 +138,6 @@ Roll twice on the Rakdos Contacts table (for an ally and a rival) and once on th
 ^rakdos-contacts
 
 **Non-Rakdos Contacts**
-
-`dice: [](rakdos-cultist-ggr.md#^non-rakdos-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

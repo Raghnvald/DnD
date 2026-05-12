@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sunder Shaman
+- "Sunder Shaman"
 ---
-# [Sunder Shaman](3-Mechanics\CLI\bestiary\giant/sunder-shaman-ggr.md)
+# [Sunder Shaman](3-Mechanics/CLI/bestiary/giant/sunder-shaman-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 202*  
 
 Gruul sunder shamans are angry giants that channel their rage into brutal attacks that deal overwhelming damage to foes and structures alike.
@@ -46,12 +46,11 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "constitution": !!int "9"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
 "cr": "10"
 "traits":
@@ -61,23 +60,23 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Reckless"
   - "desc": "The giant deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "The giant has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
-      \ checks made to hide in rocky terrain."
+  - "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in\
+      \ rocky terrain."
     "name": "Stone Camouflage"
 "actions":
   - "desc": "The giant makes two slam attacks. The first of those attacks that hits\
       \ deals an extra 18 (4d8) damage if the giant has taken damage since its last\
       \ turn."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 24\
-      \ (4d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:*\
+      \ 24 (4d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +10 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 18 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ on a DC 18 Strength saving throw or be knocked prone."
     "name": "Rock"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/sunder-shaman-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/sunder-shaman-ggr.webp"
 ```
 ^statblock

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/skt
+- ttrpg-cli/compendium/src/5e/skt
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Storm King's Thunder* 
@@ -69,7 +69,7 @@ Selinker, Michael. "Lear the Giant King." Dungeon 78. 2000.
 
 Winninger, Ray. Giantcraft. 1995.
 
-![On the Cover: Heir to the ...](/3-Mechanics/CLI/adventures/storm-kings-thunder/img/credits.webp#center "On the Cover: Heir to the Wyrmskull Throne, and indeed all giant-kind, the storm giant Serissa stands amidst the clouds, in the shadow of her mighty father, King Hekaton. Her contentious elder siblings, Mirran and Nym, occupy the forefront of this tempestuous illustration by the esteemed Tyler Jacobson.")
+![On the Cover: Heir to the Wyrmskull Throne, and indeed all giant-kind, the storm giant Serissa stands amidst the clouds, in the shadow of her mighty father, King Hekaton. Her contentious elder siblings, Mirran and Nym, occupy the forefront of this tempestuous illustration by the esteemed Tyler Jacobson.](3-Mechanics/CLI/adventures/storm-kings-thunder/img/credits.webp#center)
 
 > [!note]
 > Disclaimer: Creatures and objects in this adventure are bigger than they appear. No giant beanstalks were damaged and no golden geese were harmed in the making of this book.

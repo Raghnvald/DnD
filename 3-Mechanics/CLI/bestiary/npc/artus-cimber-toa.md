@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/7
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Artus Cimber
+- "Artus Cimber"
 ---
-# [Artus Cimber](3-Mechanics\CLI\bestiary\npc/artus-cimber-toa.md)
+# [Artus Cimber](3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md)
 *Source: Tomb of Annihilation p. 212*  
 
 A former member of the Harpers, Artus Cimber is the keeper of the Ring of Winter. He found the ring in the jungles of Chult, where he also met his wife, Alisanda. The ring halts its wearer's natural aging and has allowed Artus to survive well beyond his natural lifespan. The ring also defies magical attempts to divine its location and that of its wearer. On his fingers above the knuckles, Artus has tattooed the names of his dearly departed animal companions-a pair of talking wombats named Byrt and Lugg.
@@ -46,7 +46,7 @@ The first time a situation forces Artus to use the Ring of Winter, he warns the 
 "subtype": "human"
 "alignment": "Neutral Good"
 "ac": !!int "14"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "82"
 "hit_dice": "15d8 + 15"
 "modifier": !!int "2"
@@ -62,31 +62,35 @@ The first time a situation forces Artus to use the Ring of Winter, he warns the 
   - "dexterity": !!int "5"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+9"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+9"
 "damage_immunities": "While wearing the Ring of Winter: cold"
+"gear":
+  - "[bookmark](3-Mechanics/CLI/items/bookmark-toa.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic, Dwarvish, Goblin"
 "cr": "7"
 "traits":
-  - "desc": "Artus wears the [Ring of Winter](/3-Mechanics/CLI/items/ring-of-winter-toa.md).\
+  - "desc": "Artus wears the [Ring of Winter](3-Mechanics/CLI/items/ring-of-winter-toa.md).\
       \ He and the ring can't be targeted by divination magic or perceived through\
       \ magical scrying sensors. While attuned to and wearing the ring, Artus ceases\
       \ to age and is immune to cold damage and the effects of extreme cold.\n\nArtus\
-      \ wields [Bookmark](/3-Mechanics/CLI/items/bookmark-toa.md) a +3 dagger with\
+      \ wields [Bookmark](3-Mechanics/CLI/items/bookmark-toa.md) a +3 dagger with\
       \ additional magical properties. As a bonus action, Artus can activate any one\
       \ of the following properties while attuned to the dagger, provided he has the\
       \ weapon drawn:\n\n- Cause a blue gem set into the dagger's pommel to shed bright\
       \ light in a 20-foot radius and dim light for an additional 20 feet, or make\
       \ the gem go dark.  \n- Turn the dagger into a compass that, while resting on\
-      \ your palm, points north.  \n- Cast dimension door from the dagger. Once this\
-      \ property is used, it can't be used again until the next dawn.  \n- Cast compulsion\
+      \ your palm, points north.  \n- Cast [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md)\
+      \ from the dagger. Once this property is used, it can't be used again until\
+      \ the next dawn.  \n- Cast [compulsion](3-Mechanics/CLI/spells/compulsion-xphb.md)\
       \ (save DC 15) from the dagger. The range of the spell increases to 90 feet\
       \ but it targets only spiders that are beasts. Once this property is used, it\
       \ can't be used again until the next dawn.  "
@@ -94,8 +98,8 @@ The first time a situation forces Artus to use the Ring of Winter, he warns the 
 "actions":
   - "desc": "Artus makes three attacks with Bookmark or his longbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d4\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d4 + 5) piercing damage."
     "name": "Bookmark (+3 Dagger)"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -111,22 +115,28 @@ The first time a situation forces Artus to use the Ring of Winter, he warns the 
       \ to end the effect as an action, at which point the temperature in the area\
       \ returns to normal at a rate of 10 degrees per minute.  \n- Artus can cast\
       \ one of the following spells from the ring (spell save DC 17) by expending\
-      \ the necessary number of charges: Bigby's hand (2 charges) the hand is made\
-      \ of ice, is immune to cold damage, and deals bludgeoning damage instead of\
-      \ force damage as a clenched fist, cone of cold (2 charges), flesh to ice (3\
-      \ charges); as flesh to stone except that the target turns to solid ice with\
-      \ the density and durability of stone, ice storm (2 charges), Otiluke's freezing\
-      \ sphere (3 charges), sleet storm (1 charge), spike growth (1 charge) the spikes\
-      \ are made of ice, or wall of ice (2 charges).  \n- Artus can expend the necessary\
-      \ number of charges and use the ring to create either an inanimate ice object\
-      \ (2 charges) or an animated ice creature (4 charges). The ice object can't\
-      \ have any moving parts, must be able to fit inside a 10-foot cube, and has\
-      \ the density and durability of metal or stone (Artus's choice). The ice creature\
-      \ must be modeled after a beast with a challenge rating of 2 or less. The ice\
-      \ creature has the same statistics as the beast it models, with the following\
-      \ changes: the creature is a construct with vulnerability to fire damage, immunity\
-      \ to cold and poison damage, and immunity to the following conditions: charmed,\
-      \ exhaustion, frightened, paralyzed, petrified, and poisoned. The ice creature\
+      \ the necessary number of charges: [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand-xphb.md)\
+      \ (2 charges) the hand is made of ice, is immune to cold damage, and deals bludgeoning\
+      \ damage instead of force damage as a clenched fist, [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\
+      \ (2 charges), [flesh to ice](3-Mechanics/CLI/spells/flesh-to-stone-xphb.md)\
+      \ (3 charges); as flesh to stone except that the target turns to solid ice with\
+      \ the density and durability of stone, [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\
+      \ (2 charges), [Otiluke's freezing sphere](3-Mechanics/CLI/spells/otilukes-freezing-sphere-xphb.md)\
+      \ (3 charges), [sleet storm](3-Mechanics/CLI/spells/sleet-storm-xphb.md) (1\
+      \ charge), [spike growth](3-Mechanics/CLI/spells/spike-growth-xphb.md) (1 charge)\
+      \ the spikes are made of ice, or [wall of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md)\
+      \ (2 charges).  \n- Artus can expend the necessary number of charges and use\
+      \ the ring to create either an inanimate ice object (2 charges) or an animated\
+      \ ice creature (4 charges). The ice object can't have any moving parts, must\
+      \ be able to fit inside a 10-foot cube, and has the density and durability of\
+      \ metal or stone (Artus's choice). The ice creature must be modeled after a\
+      \ beast with a challenge rating of 2 or less. The ice creature has the same\
+      \ statistics as the beast it models, with the following changes: the creature\
+      \ is a construct with vulnerability to fire damage, immunity to cold and poison\
+      \ damage, and immunity to the following conditions: [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+      \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+      \ and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned). The ice creature\
       \ obeys only its creator's commands. The object or creature appears in an unoccupied\
       \ space within 60 feet of Artus. It melts into a pool of normal water after\
       \ 24 hours or when it drops to 0 hit points. In extreme heat, it loses 5 (1d10)\
@@ -136,6 +146,6 @@ The first time a situation forces Artus to use the Ring of Winter, he warns the 
     "name": "Ring of Winter"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/artus-cimber-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/artus-cimber-toa.webp"
 ```
 ^statblock

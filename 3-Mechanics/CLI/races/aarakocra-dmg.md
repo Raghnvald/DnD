@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/aarakocra
 aliases:
-- Aarakocra
+- "Aarakocra"
 ---
 # Aarakocra
 *Source: Dungeon Master's Guide p. 282*  
@@ -20,11 +20,11 @@ aliases:
 
 ### Dive Attack
 
-If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage to the target.
+If you are flying and dive at least 30 ft. straight toward a target and then hit it with a melee weapon attack, the attack deals an extra `1d6` damage to the target.
 
 ### Talons
 
-You are proficient with your unarmed strikes, which deal `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage on a hit.
+You are proficient with your unarmed strikes, which deal `1d4` slashing damage on a hit.
 
 ### Language
 

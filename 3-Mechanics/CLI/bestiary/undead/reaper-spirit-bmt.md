@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reaper Spirit
+- "Reaper Spirit"
 ---
-# [Reaper Spirit](3-Mechanics\CLI\bestiary\undead/reaper-spirit-bmt.md)
+# [Reaper Spirit](3-Mechanics/CLI/bestiary/undead/reaper-spirit-bmt.md)
 *Source: The Book of Many Things p. 50*  
 
 ```statblock
@@ -60,6 +60,6 @@ aliases:
     "name": "Haunt Creature"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/reaper-spirit-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/reaper-spirit-bmt.webp"
 ```
 ^statblock

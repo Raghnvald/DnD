@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Outlander
+- "Outlander"
 ---
 # Outlander
 *Source: Player's Handbook p. 136*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Tool Proficiencies.** One type of musical instrument  
 - **Languages.** One of your choice  
-- **Equipment.** A [staff](/3-Mechanics/CLI/items/staff-xphb.md), a [hunting trap](/3-Mechanics/CLI/items/hunting-trap-xphb.md), a trophy from an animal you killed, a set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A [staff](3-Mechanics/CLI/items/staff.md), a [hunting trap](3-Mechanics/CLI/items/hunting-trap.md), a trophy from an animal you killed, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
 
 You grew up in the wilds, far from civilization and the comforts of town and technology. You've witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don't know the specific features of the terrain, you know the ways of the wild.
 
@@ -26,8 +26,6 @@ You have an excellent memory for maps and geography, and you can always recall t
 ## Specialty
 
 You've been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
-
-`dice: [](outlander.md#^origin)`
 
 | dice: d10 | Origin |
 |-----------|--------|
@@ -47,8 +45,6 @@ You've been to strange places and seen things that others cannot begin to fathom
 
 Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
 
-`dice: [](outlander.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I'm driven by a wanderlust that led me away from home. |
@@ -61,8 +57,6 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 8 | I was, in fact, raised by wolves. |
 ^personality-trait
 
-`dice: [](outlander.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic) |
@@ -73,8 +67,6 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 6 | Glory. I must earn glory in battle, for myself and my clan. (Any) |
 ^ideal
 
-`dice: [](outlander.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My family, clan, or tribe is the most important thing in my life, even when they are far from me. |
@@ -84,8 +76,6 @@ Often considered rude and uncouth among civilized folk, outlanders have little r
 | 5 | I suffer awful visions of a coming disaster and will do anything to prevent it. |
 | 6 | It is my duty to provide children to sustain my tribe. |
 ^bond
-
-`dice: [](outlander.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

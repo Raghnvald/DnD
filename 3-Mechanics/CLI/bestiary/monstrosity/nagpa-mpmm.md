@@ -16,9 +16,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nagpa
+- "Nagpa"
 ---
-# [Nagpa](3-Mechanics\CLI\bestiary\monstrosity/nagpa-mpmm.md)
+# [Nagpa](3-Mechanics/CLI/bestiary/monstrosity/nagpa-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 189, Mordenkainen's Tome of Foes p. 215*  
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -51,57 +51,58 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 20"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 20"
 "languages": "Common plus up to five other languages"
 "cr": "17"
 "actions":
   - "desc": "The nagpa makes three Staff or Deathly Ray attacks. It can replace one\
       \ attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) bludgeoning damage plus 24 (7d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) bludgeoning damage plus 24 (7d6) necrotic damage."
     "name": "Staff"
   - "desc": "*Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:*\
       \ 30 (7d6 + 6) necrotic damage."
     "name": "Deathly Ray"
   - "desc": "The nagpa casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 20):\n\n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**2/day\
-      \ each:** [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md),\
-      \ [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\n**1/day each:**\
-      \ [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md), [etherealness](/3-Mechanics/CLI/spells/etherealness-xphb.md),\
-      \ [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md)"
+      \ spellcasting ability (spell save DC 20):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [message](3-Mechanics/CLI/spells/message.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**2/day each:**\
+      \ [fireball](3-Mechanics/CLI/spells/fireball.md), [fly](3-Mechanics/CLI/spells/fly.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**1/day each:**\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person.md), [etherealness](3-Mechanics/CLI/spells/etherealness.md),\
+      \ [feeblemind](3-Mechanics/CLI/spells/feeblemind.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The nagpa targets one creature it can see within 90 feet of it. The target\
       \ must make a DC 20 Charisma saving throw. An evil creature makes the save with\
-      \ disadvantage. On a failed save, the target is [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ disadvantage. On a failed save, the target is [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ by the nagpa until the start of the nagpa's next turn. On a successful save,\
       \ the target becomes immune to the nagpa's Corruption for the next 24 hours."
     "name": "Corruption"
   - "desc": "The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom\
       \ saving throw, excluding Undead and Constructs. On a failed save, a target\
-      \ is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+      \ is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute.\
+      \ A [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
+      \ on a success."
     "name": "Paralysis (Recharge 6-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/nagpa-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/nagpa-mpmm.webp"
 ```
 ^statblock
 

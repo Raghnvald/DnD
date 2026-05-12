@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rerak
+- "Rerak"
 ---
-# [Rerak](3-Mechanics\CLI\bestiary\npc/rerak-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Rerak](3-Mechanics/CLI/bestiary/npc/rerak-veor.md)
+*Source: Vecna: Eve of Ruin p. 146*  
 
 ```statblock
 "name": "Rerak (VEoR)"
@@ -40,8 +40,11 @@ aliases:
   - "charisma": !!int "9"
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-"senses": "truesight 60 ft., passive Perception 14"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 14"
 "languages": "Abyssal, Common, Draconic, Dwarvish, Elvish, Giant, Infernal, Primordial,\
   \ Undercommon"
 "cr": "21"
@@ -58,19 +61,24 @@ aliases:
     "name": "Death Rend"
   - "desc": "Rerak emits a hideous shriek charged with malignant energy. Each creature\
       \ within 30 feet of Rerak must succeed on a DC 22 Wisdom saving throw or have\
-      \ the frightened condition for 1 minute. While frightened in this way, a creature\
-      \ also has the unconscious condition. An affected creature can repeat the saving\
-      \ throw at the end of each of its turns, ending the effect on itself on a success."
+      \ the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition\
+      \ for 1 minute. While [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ in this way, a creature also has the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ condition. An affected creature can repeat the saving throw at the end of\
+      \ each of its turns, ending the effect on itself on a success."
     "name": "Bloodcurdling Lament (Recharge 5-6)"
   - "desc": "Rerak casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\n\
-      **At will:** Detect Magic, Fly, Mage Hand, Prestidigitation\n\n**3/day each:**\
-      \ Dispel Magic, Invisibility (self only)\n\n**1/day each:** Globe of Invulnerability,\
-      \ Hold Monster"
+      **At will:** [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**3/day each:** [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) (self only)\n\n\
+      **1/day each:** [Globe of Invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Rerak targets one creature it can see within 120 feet of itself. The\
-      \ target must make a DC 22 Charisma saving throw; if the target has the unconscious\
+      \ target must make a DC 22 Charisma saving throw; if the target has the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ condition, it has disadvantage on this saving throw. The target takes 21 (6d6)\
       \ force damage on a failed save or half as much damage on a successful one.\
       \ Rerak then regains a number of hit points equal to the amount of force damage\
@@ -94,6 +102,6 @@ aliases:
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/rerak-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/rerak-veor.webp"
 ```
 ^statblock

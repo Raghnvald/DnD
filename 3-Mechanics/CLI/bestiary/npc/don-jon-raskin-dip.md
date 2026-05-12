@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/dip
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Don-Jon Raskin
+- "Don-Jon Raskin"
 ---
-# [Don-Jon Raskin](3-Mechanics\CLI\bestiary\npc/don-jon-raskin-dip.md)
+# [Don-Jon Raskin](3-Mechanics/CLI/bestiary/npc/don-jon-raskin-dip.md)
 *Source: Dragon of Icespire Peak p. 56*  
 
 Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearless troubleshooter who has experienced more than his fair share of adventures.
@@ -43,6 +43,9 @@ Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearle
     "desc": "+4"
   - "name": "Persuasion"
     "desc": "+4"
+"gear":
+  - "dagger"
+  - "sling"
 "senses": "passive Perception 10"
 "languages": "Common, Dwarvish"
 "cr": "1/2"
@@ -63,6 +66,6 @@ Adventurers who undertake the Mountain's Toe Quest meet Don-Jon Raskin, a fearle
     "name": "Sling"
 "source":
   - "DIP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/don-jon-raskin-dip.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/don-jon-raskin-dip.webp"
 ```
 ^statblock

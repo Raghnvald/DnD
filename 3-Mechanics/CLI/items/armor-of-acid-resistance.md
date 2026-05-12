@@ -11,7 +11,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Acid Resistance"
 - "Breastplate of Acid Resistance"
 - "Chain Mail of Acid Resistance"

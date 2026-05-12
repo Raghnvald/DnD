@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Storm Giant Bag Contents; Storm Giant Bag Items
+- "Storm Giant Bag Contents; Storm Giant Bag Items"
 ---
 # Storm Giant Bag Contents; Storm Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 108* 
 
 **Storm Giant Bag Items**
-
-`dice: [](storm-giant-bag-contents-storm-giant-bag-items-bgg.md#^storm-giant-bag-items)`
 
 | dice: d12 | Item |
 |-----------|------|

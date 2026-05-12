@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/efr
 aliases:
-- Building Eberron Adventures - Forgotten Relics
+- "Building Eberron Adventures - Forgotten Relics"
 ---
 # Building Eberron Adventures - Forgotten Relics
 *Source: Eberron: Forgotten Relics, p. 260* 
@@ -39,15 +39,13 @@ The adventure begins one evening in Upper Central Plateau, where the characters 
 
 After talking to Coal and learning her employer was Alden d'Orien, the characters are confronted by Daask forces sent to kill Coal. If they survive the fight, the characters can meet with Alden in the Mithral Tower district Upper Central Plateau. The scion stays tight-lipped, but Vishtai, Alden's kalashtar bodyguard, telepathically gives the characters directions to the Old Sharn ruin where Caden d'Orien is imprisoned.
 
-If Caden is rescued and returned to his father, Alden shares what he knows of Daask's operation and tells the characters where to find Garra. The half-ogre knows the characters are coming for her. She tries to flee on a lightning rail while drawing them into a trap. If the characters chase down the half-ogre, she attempts to make a deal to keep her freedom, which they can either refuse or accept, setting the stage for further adventures.
+If Caden is rescued and returned to his father, Alden shares what he knows of Daask's operation and tells the characters where to find [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md). The half-ogre knows the characters are coming for her. She tries to flee on a lightning rail while drawing them into a trap. If the characters chase down the half-ogre, she attempts to make a deal to keep her freedom, which they can either refuse or accept, setting the stage for further adventures.
 
 ### How Do You Know Vilroy?
 
 Before the adventure begins, inform each character that they are an acquaintance of Sergeant Germaine Vilroy of the Sharn Watch, a Brelish veteran of the Last War. Ask each character to come up with a friendly connection to Germaine, or have them choose or roll on the Germaine Connections table. If a rolled connection doesn't make sense with the character's background, simply roll for a new connection or choose one that seems appropriate.
 
 **Germaine Connections**
-
-`dice: [](1-building-eberron-adventures-forgotten-relics.md#^germaine-connections)`
 
 | dice: d6 | Connection |
 |----------|------------|
@@ -79,7 +77,7 @@ This is also a good time for characters to make personal connections that might 
 > As darkness descends on the city, you see windows light up the towers around you from bottom to top. A cool wind whisks between you, drowning out the other noises of the city. A nearby lift rises, carrying a human in her mid-thirties with close cropped black hair and a glowing pipe in her mouth. Germaine gives a wry smile as she nods to you all, saying, "Thanks for coming."
 ^47c
 
-Sergeant Germaine Vilroy (neutral female Brelish human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) greets the characters then gets down to business.
+Sergeant Germaine Vilroy (neutral female Brelish human veteran) greets the characters then gets down to business.
 
 ### Roleplaying Sergeant Vilroy
 
@@ -116,7 +114,7 @@ It is a simple matter to find the Cog Carnival, and just about any resident can 
 
 ### The Cog Carnival
 
-The Cog Carnival is a dilapidated warforged dive bar. The bar has a crumbling stone outside marred with graffiti that says things like, "Forged Are Scrap!" and "Leave, Metalheads!" Ingot, a neutral warforged soldier (see "chapter 6") with a carved chunk of wood replacing a severed foot, collects a cover fee from creatures that enter the room. Warforged can enter the building for free, but other humanoids must pay 5 cp each.
+The Cog Carnival is a dilapidated warforged dive bar. The bar has a crumbling stone outside marred with graffiti that says things like, "Forged Are Scrap!" and "Leave, Metalheads!" Ingot, a neutral [warforged soldier](3-Mechanics/CLI/bestiary/humanoid/warforged-soldier-erlw.md) (see "chapter 6") with a carved chunk of wood replacing a severed foot, collects a cover fee from creatures that enter the room. Warforged can enter the building for free, but other humanoids must pay 5 cp each.
 
 When the characters enter the Cog Carnival, read or paraphrase the following boxed text to the players:
 
@@ -127,13 +125,13 @@ When the characters enter the Cog Carnival, read or paraphrase the following box
 > A small bar in the corner serves cheap ale. Behind this bar, a warforged bartender shouts jeers at patrons losing games.
 ^482
 
-Smelt, a lawful good warforged soldier (see "chapter 6"), is the owner of the Cog Carnival. She wanted to create a safe place where warforged could gather and socialize in this district. She can't afford the city's expensive gambling license, so she made the Cog Carnival a place where warforged can play games for free.
+Smelt, a lawful good [warforged soldier](3-Mechanics/CLI/bestiary/humanoid/warforged-soldier-erlw.md) (see "chapter 6"), is the owner of the Cog Carnival. She wanted to create a safe place where warforged could gather and socialize in this district. She can't afford the city's expensive gambling license, so she made the Cog Carnival a place where warforged can play games for free.
 
 #### Anybody Know Coal?
 
 The warforged patrons of the Cog Carnival do not freely give information about their own to outsiders. If asked about Coal, most of them remain tight-lipped. A character who provides a bribe of 1 gp or succeeds on a DC 13 Charisma (Persuasion) check convinces one of the patrons to point out who Coal is: a black, one-armed metal warforged sitting alone near the bar.
 
-Coal, a neutral good warforged soldier (see "chapter 6"), is missing her right arm. If the characters approach her without identifying that they work for Sergeant Vilroy, Coal immediately notifies the bartender, Smelt, that she's being bothered by the party. If things start to get tense, Coal gets spooked and bugs out; move on to "Catching Coal," below.
+Coal, a neutral good [warforged soldier](3-Mechanics/CLI/bestiary/humanoid/warforged-soldier-erlw.md) (see "chapter 6"), is missing her right arm. If the characters approach her without identifying that they work for Sergeant Vilroy, Coal immediately notifies the bartender, Smelt, that she's being bothered by the party. If things start to get tense, Coal gets spooked and bugs out; move on to "Catching Coal," below.
 
 ### Chatting with Coal
 
@@ -145,16 +143,16 @@ Once Coal is calmed, she hurriedly explains the kidnapping of a child from House
 
 Coal sprints 60 feet away from the characters into High Wall's streets, intent on escape. The warforged has no particular destination in mind. She simply wants to get away from the characters, whom she believes set her up to be assassinated. This chase takes place in the "theater of the mind," and there is no map for it.
 
-If Coal runs away and the characters pursue her, use the "chase rules" and Urban Chase Complications table in "chapter 8" of the "Dungeon Master's Guide" to resolve the scene. The chase ends when the characters catch up to Coal or after three rounds, when a Daask hit squad intercepts Coal as she runs through an alley.
+If Coal runs away and the characters pursue her, use the "chase rules" and [Urban Chase Complications table](3-Mechanics/CLI/tables/urban-chase-complications.md) in "chapter 8" of the "Dungeon Master's Guide" to resolve the scene. The chase ends when the characters catch up to Coal or after three rounds, when a Daask hit squad intercepts Coal as she runs through an alley.
 
 #### Daask Hit Squad
 
 If they fail to catch up to Coal before the Daask hit squad attacks, the characters hear the warforged scream for help in a nearby alley. If the characters rush to help her, they find the warforged unconscious on the ground, but stable, surrounded by the Daask criminals. If the characters resolve the chase by catching up to Coal, the Daask criminals attack as soon as the chase ends, and the warforged aids the characters in battle.
 
-The Daask force consists of Hound, a chaotic evil female shifter (see "chapter 6"), leading three cranky [kobolds](/3-Mechanics/CLI/bestiary/humanoid/kobold.md) and one kobold [acolyte](/3-Mechanics/CLI/bestiary/humanoid/acolyte.md). Each Daask criminal fights until reduced to half its hit points then flees. If the characters capture one of the criminals, a successful DC 13 Charisma (Intimidation) check compels the captive to reveal the following information:
+The Daask force consists of Hound, a chaotic evil female [shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md) (see "chapter 6"), leading three cranky kobolds and one kobold acolyte. Each Daask criminal fights until reduced to half its hit points then flees. If the characters capture one of the criminals, a successful DC 13 Charisma (Intimidation) check compels the captive to reveal the following information:
 
 - The group works for Daask, a criminal organization.  
-- The criminals were told to kill Coal via a letter sent by a Daask lieutenant named Garra. The letter has since been destroyed.  
+- The criminals were told to kill Coal via a letter sent by a Daask lieutenant named [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md). The letter has since been destroyed.  
 
 The criminals have no other useful information to share with the characters. They don't know Garra is a half-ogre, and they don't know how to contact her. A character who succeeds on a DC 13 Intelligence (History) check knows Daask's members are mostly immigrants from Droaam and some of the local population from the Cogs and lower wards of Sharn.
 
@@ -192,9 +190,9 @@ Mithral Tower is Sharn's most desirable downtown residential district in Upper C
 > The magnificent marble home is clearly owned by one of the city's wealthiest dragonmarked families. Seated on a patio couch are two figures engaged in quiet conversation: a haggard man in his late thirties and an attentive kalashtar who holds a rose-colored crystal in his hands. Two more guards dressed like the ones at the gates stand nearby.
 ^48b
 
-A detect magic spell reveals that the grounds of the estate radiate auras of abjuration and illusion magic. Any humanoid that takes a long rest in the estate can attune to the property as if they were attuning to a magic item (see ""Attunement"" in chapter 7 of the "Dungeon Master's Guide"). A creature attuned to Unicorn Estate can't be affected by enchantment spells of 3rd level or lower while it is on the property unless it wishes to be. When a creature not attuned to the estate enters the property, the illusion of a unicorn appears wherever the creature is and brays loudly, announcing its presence. Four human [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) provide security at the estate, with two at the front gate and two following Alden.
+A detect magic spell reveals that the grounds of the estate radiate auras of abjuration and illusion magic. Any humanoid that takes a long rest in the estate can attune to the property as if they were attuning to a magic item (see ""Attunement"" in chapter 7 of the "Dungeon Master's Guide"). A creature attuned to Unicorn Estate can't be affected by enchantment spells of 3rd level or lower while it is on the property unless it wishes to be. When a creature not attuned to the estate enters the property, the illusion of a unicorn appears wherever the creature is and brays loudly, announcing its presence. Four human guards provide security at the estate, with two at the front gate and two following Alden.
 
-Alden d'Orien (neutral male Brelish human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md)) and his assistant, Vishtai (chaotic good male kalashtar; see "chapter 6"), are talking about official house business. Vishtai records notes in a spellshard. When the pair notices the characters, Alden calls them over and asks their business.
+Alden d'Orien (neutral male Brelish human noble) and his assistant, Vishtai (chaotic good male [kalashtar](3-Mechanics/CLI/bestiary/humanoid/kalashtar-erlw.md); see "chapter 6"), are talking about official house business. Vishtai records notes in a [spellshard](3-Mechanics/CLI/items/spellshard-erlw.md). When the pair notices the characters, Alden calls them over and asks their business.
 
 ### Roleplaying Alden
 
@@ -232,7 +230,7 @@ If the characters follow Vishtai's directions, they find a lift with an enclosed
 > The double doors on the enclosed lift car open to reveal the inside of a 15-foot cube made of stone with etchings of unicorn patterns covering its walls. A magic orb in the ceiling illuminates the lift. Two young adults—a shifter and a well-dressed human—talk nose to nose, cradling each other's faces in a corner of the elevator, absorbed fully in each other and taking no notice of you.
 ^490
 
-Luna (chaotic neutral female shifter; see "chapter 6") and Vonnie ir'Cardwan (neutral female Brelish human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md)) are having a secret date on the lift. This is where they first met, so it's a frequent rendezvous. They are bemused by the interruption and politely ask the party to leave, pointing out the lift is broken and growing more insistent and annoyed if the characters don't comply. Any character who succeeds on a DC 12 Charisma (Diplomacy or Intimidation) check convinces the couple to leave the lift. If a character fails the Intimidation check or removes the secret panel (see "Medusa Panel" below), Vonnie gets upset and plainly states she is summoning the Watch and stalks away with Luna. Two minutes later, Vonnie returns with three city Watch [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) and accuses them of harassing her, vandalizing the lift, or both. The guards arrest the party if the lift appears tampered with. Presenting Vilroy's writ and explaining the situation causes the guards to back off. Hostile action toward the young lovers or the guards results the guards attempting to subdue the party.
+Luna (chaotic neutral female [shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md); see "chapter 6") and Vonnie ir'Cardwan (neutral female Brelish human noble) are having a secret date on the lift. This is where they first met, so it's a frequent rendezvous. They are bemused by the interruption and politely ask the party to leave, pointing out the lift is broken and growing more insistent and annoyed if the characters don't comply. Any character who succeeds on a DC 12 Charisma (Diplomacy or Intimidation) check convinces the couple to leave the lift. If a character fails the Intimidation check or removes the secret panel (see "Medusa Panel" below), Vonnie gets upset and plainly states she is summoning the Watch and stalks away with Luna. Two minutes later, Vonnie returns with three city Watch guards and accuses them of harassing her, vandalizing the lift, or both. The guards arrest the party if the lift appears tampered with. Presenting Vilroy's writ and explaining the situation causes the guards to back off. Hostile action toward the young lovers or the guards results the guards attempting to subdue the party.
 
 #### Medusa Panel
 
@@ -240,7 +238,7 @@ Upon entering the lift, the characters notice that the head of a medusa engraved
 
 #### Bugbear Going Down
 
-If the characters can't find the hidden panel or figure out how to get the lift to Old Sharn, eventually the lift goes down, called to the tavern district of Olladra's Kitchen in Lower Central by Orgon, a male [bugbear](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) working for Daask. Orgon wants to go down to Old Sharn's ruins to help guard the relic excavation site. If Luna and Vonnie are on the lift when Orgon enters, they leave immediately.
+If the characters can't find the hidden panel or figure out how to get the lift to Old Sharn, eventually the lift goes down, called to the tavern district of Olladra's Kitchen in Lower Central by Orgon, a male bugbear working for Daask. Orgon wants to go down to Old Sharn's ruins to help guard the relic excavation site. If Luna and Vonnie are on the lift when Orgon enters, they leave immediately.
 
 When Orgon enters the lift, he demands the characters get out of the car. If the characters don't leave, Orgon attacks them. Orgon fights until reduced to 10 hit points then surrenders. A successful DC 12 Charisma (Intimidation) check gets Orgon to admit to being a member of Daask and gets him to show the characters how to bring the lift down to the ruins of Old Sharn.
 
@@ -263,7 +261,7 @@ When the characters take the lift down to the Daask excavation site, read or par
 
 The cavern is irregular in shape and hundreds of feet in diameter. Its uneven ceiling ranges in height from 15 to 30 feet. Due to the rubble, the ground around the pit counts as difficult terrain.
 
-Four Daask [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) guard this area and rely on darkvision to see. They hide in the pit when the characters arrive then leap out to attack. A successful Wisdom (Perception) check contested by the goblins' Dexterity (Stealth) check notices the goblins. Otherwise the goblins surprise the characters. The goblins fight until one remains who flees into Old Sharn's ruins. If a goblin is captured, a successful DC 12 Charisma (Intimidation) check gets the goblin to reveal that it works for Daask and that it was told by a half-ogre named Garra to guard this area. The goblins don't know where Garra is.
+Four Daask goblins guard this area and rely on darkvision to see. They hide in the pit when the characters arrive then leap out to attack. A successful Wisdom (Perception) check contested by the goblins' Dexterity (Stealth) check notices the goblins. Otherwise the goblins surprise the characters. The goblins fight until one remains who flees into Old Sharn's ruins. If a goblin is captured, a successful DC 12 Charisma (Intimidation) check gets the goblin to reveal that it works for Daask and that it was told by a half-ogre named [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) to guard this area. The goblins don't know where Garra is.
 
 #### Excavation Pit
 
@@ -282,15 +280,15 @@ Caden d'Orien (noncombatant) is kept manacled hand and foot in a filthy, 15-foot
 
 Caden's manacles, originally designed to bind goblins, are sturdy but old. A character who makes a successful DC 15 Dexterity check with thieves' tools picks the manacles' lock, and a character who succeeds on a DC 17 Strength (Athletics) check breaks the manacles loose.
 
-A character who succeeds on a DC 11 Intelligence (Investigation) check finds the manacles' lock is smeared with oil of taggit. Any character that attempts to pick the lock without gloves is exposed to the poison and must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. It wakes up if it takes damage.
+A character who succeeds on a DC 11 Intelligence (Investigation) check finds the manacles' lock is smeared with [oil of taggit](3-Mechanics/CLI/items/oil-of-taggit.md). Any character that attempts to pick the lock without gloves is exposed to the poison and must succeed on a DC 13 Constitution saving throw or become poisoned for 24 hours. The poisoned creature is unconscious. It wakes up if it takes damage.
 
 ##### Roleplaying Caden
 
-Caden is nearly catatonic from his ordeal. If freed, the six-year-old simply sits and stares in to the middle distance. Any character trained in Medicine knows that the boy needs proper food and water, rest, and his father. Using any sort of healing magic on the boy rouses him almost immediately. A successful DC 13 Charisma (Persuasion) check gets him to open up about his experience. A character who spends an hour consoling Caden and giving him something to eat and drink brings him around, no check required. If either of these methods succeed, Caden tells the characters he was kidnapped by a big, mean lady named Garra and imprisoned here by her goblin friends.
+Caden is nearly catatonic from his ordeal. If freed, the six-year-old simply sits and stares in to the middle distance. Any character trained in Medicine knows that the boy needs proper food and water, rest, and his father. Using any sort of healing magic on the boy rouses him almost immediately. A successful DC 13 Charisma (Persuasion) check gets him to open up about his experience. A character who spends an hour consoling Caden and giving him something to eat and drink brings him around, no check required. If either of these methods succeed, Caden tells the characters he was kidnapped by a big, mean lady named [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) and imprisoned here by her goblin friends.
 
 #### Treasure
 
-Each goblin carries `dice:1d6|noform|noparens|avg` (`1d6`) gp and `dice:1d6|noform|noparens|avg` (`1d6`) sp in a pouch. One goblin (determined randomly) also wears a cheap necklace that consists of a banded agate (10 gp) tied to a loop of rope.
+Each goblin carries `1d6` gp and `1d6` sp in a pouch. One goblin (determined randomly) also wears a cheap necklace that consists of a [banded agate](3-Mechanics/CLI/items/banded-agate.md) (10 gp) tied to a loop of rope.
 
 ### Optional Encounter: Ghost of Pfingston Nezzelech
 
@@ -304,23 +302,23 @@ Pfingston's dress, mannerisms, and lack of contemporary knowledge mark him as be
 
 If the characters return Caden d'Orien safely to his father at Unicorn Estate, Alden is overjoyed. Still, he is saddened by the deaths of the warforged that he hired to work for Daask, but he doesn't regret the actions that kept his son alive.
 
-Alden thanks the characters and tells them everything he knows, which is all the information contained in the first three paragraphs of the ""Story Overview"". In addition, he gives the characters the address of a Terminus apartment in Lower Tavick's Landing that Garra uses as a safe house and a place to store the books and schemas found in Old Sharn's ruins.
+Alden thanks the characters and tells them everything he knows, which is all the information contained in the first three paragraphs of the ""Story Overview"". In addition, he gives the characters the address of a Terminus apartment in Lower Tavick's Landing that [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) uses as a safe house and a place to store the books and schemas found in Old Sharn's ruins.
 
 When the characters have all the information they need from Alden to find Garra, the Orien heir offers them a sum of 50 gp to leave his name and House Orien out of their report to the Sharn Watch. Alden is deeply ashamed of being manipulated in this way and doesn't want to tarnish his reputation or his house. A character who succeeds on a DC 15 Charisma (Intimidation or Persuasion) check gets Alden to raise this amount to 100 gp. If the characters report Alden's actions to the Sharn Watch, he manages to bury the scandal on his own, and the characters become his enemies (see ""Conclusion""). If the characters conclude their business with Alden on friendly terms, he offers his residence as a place where they can rest and grab a bite to eat before moving on.
 
 #### Treasure
 
-As a gesture of goodwill and thanks, Vishtai offers each character a unicorn-shaped feather token inset with the sigil of House Orien.
+As a gesture of goodwill and thanks, Vishtai offers each character a unicorn-shaped [feather token](3-Mechanics/CLI/items/feather-token-erlw.md) inset with the sigil of House Orien.
 
-![](/3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/144-4-13.webp#center)
+![](3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/144-4-13.webp#center)
 
 ## Skycoach Ride
 
-While the characters were off rescuing Caden d'Orien, Garra captured and interrogated Sergeant Vilroy and learned about the characters' meddling. In this section, Garra orders a changeling named Jas to adopt Sergeant Vilroy's appearance and lead the characters into a trap.
+While the characters were off rescuing Caden d'Orien, [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) captured and interrogated Sergeant Vilroy and learned about the characters' meddling. In this section, Garra orders a changeling named Jas to adopt Sergeant Vilroy's appearance and lead the characters into a trap.
 
 ### Need a Lift?
 
-Jas (neutral evil changeling; see "chapter 6") approaches the characters in the guise of Sergeant Vilroy sometime after they leave Mithral Tower. Read or paraphrase the following boxed text to the players when this occurs:
+Jas (neutral evil [changeling](3-Mechanics/CLI/bestiary/humanoid/changeling-erlw.md); see "chapter 6") approaches the characters in the guise of Sergeant Vilroy sometime after they leave Mithral Tower. Read or paraphrase the following boxed text to the players when this occurs:
 
 > [!readaloud] 
 > 
@@ -331,13 +329,13 @@ Jas (neutral evil changeling; see "chapter 6") approaches the characters in the 
 
 Any character who suspects that "Vilroy" is hiding something can make a Wisdom (Insight) check contested by the changeling's Charisma (Deception) check. A character who wins the contest detects slight differences in the sergeant's facial expressions, suggesting that she's not the same person the party interacted with previously. Jas doesn't have details of any prior conversations the party had with the real Sergeant Vilroy and flubs any sustained questioning.
 
-If the characters realize they're not dealing with the real Sergeant Vilroy and confront the changeling, Jas leaps out of the skycoach, uses a feather token to land safely, and flees into the crowded city. Each character has one turn to act before the unpiloted skycoach crashes. A character proficient with air vehicles who makes a successful DC 12 Intelligence check as an action gains control of the skycoach and stops it from falling. If the coach crashes, the characters are thrown from it as it hurdles down. Use the "Falling in Sharn table" in "chapter 3" to determine what happens to characters who fall. The party has three rounds to catch Jas before the changeling adopts a new guise.
+If the characters realize they're not dealing with the real Sergeant Vilroy and confront the changeling, Jas leaps out of the skycoach, uses a [feather token](3-Mechanics/CLI/items/feather-token-erlw.md) to land safely, and flees into the crowded city. Each character has one turn to act before the unpiloted skycoach crashes. A character proficient with air vehicles who makes a successful DC 12 Intelligence check as an action gains control of the skycoach and stops it from falling. If the coach crashes, the characters are thrown from it as it hurdles down. Use the "Falling in Sharn table" in "chapter 3" to determine what happens to characters who fall. The party has three rounds to catch Jas before the changeling adopts a new guise.
 
-If the characters capture Jas, the changeling reveals that Garra is leaving Sharn on a lightning rail bound for Wroat. The changeling doesn't know about Garra's trap and simply has instructions to deliver the characters.
+If the characters capture Jas, the changeling reveals that [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) is leaving Sharn on a lightning rail bound for Wroat. The changeling doesn't know about Garra's trap and simply has instructions to deliver the characters.
 
 ### Daask Gnolls
 
-As the characters travel to Terminus either on foot or by skycoach, they are accosted by a Daask strike team consisting of five [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md). Garra has sent the gnolls to kill the characters if possible, or at least soften them up before they arrive at her Terminus safe house. You can describe them to the players as follows:
+As the characters travel to Terminus either on foot or by skycoach, they are accosted by a Daask strike team consisting of five gnolls. Garra has sent the gnolls to kill the characters if possible, or at least soften them up before they arrive at her Terminus safe house. You can describe them to the players as follows:
 
 > [!readaloud] 
 > 
@@ -352,7 +350,7 @@ The gnolls initially keep their distance, peppering the characters with arrows. 
 
 Terminus in Lower Tavick's Landing is named for Terminus Station, a massive House Orien enclave that serves as the endpoint for the Orien lightning rail. Map 4.14 shows a cross-section and floor plan of the station. The Terminus district is right near Wroann's Gate, most travelers' entry point into Sharn. It bustles with crowds, pickpockets, con artists, and other criminals looking to take advantage of the city's visitors.
 
-Garra has an apartment in Terminus where she left a trap for the characters. The half-ogre took the books and schemas recovered in Old Sharn's ruins and boarded a lightning rail bound for Wroat that's about to leave Terminus Station.
+[Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) has an apartment in Terminus where she left a trap for the characters. The half-ogre took the books and schemas recovered in Old Sharn's ruins and boarded a lightning rail bound for Wroat that's about to leave Terminus Station.
 
 ### Terminus Features
 
@@ -360,7 +358,7 @@ The buildings in Terminus are made of stone. Their walls require a successful DC
 
 A building's doors are made of wood. Each door has AC 15, 27 hit points, and immunity to poison and psychic damage. If a door is locked, its lock can be picked with a successful DC 15 Dexterity check with thieves' tools, and the door can be forced open with a successful DC 17 Strength (Athletics) check.
 
-Everbright lanterns (see "chapter 5") hanging from the ceilings and walls illuminate interior areas.
+[Everbright lanterns](3-Mechanics/CLI/items/everbright-lantern-erlw.md) (see "chapter 5") hanging from the ceilings and walls illuminate interior areas.
 
 Buildings in Terminus have openable glass windows large enough that a Medium or smaller creature can fit through one without a problem, while a Large creature can squeeze through. These windows have AC 13, 4 hit points, and immunity to poison and psychic damage. The windows can be locked from the inside. A character that succeeds on a DC 15 Dexterity check with thieves' tools unlocks a window from the outside.
 
@@ -370,7 +368,7 @@ If a creature makes a Strength (Athletics) check to shove another creature again
 
 Terminus has busy streets, and most of the visitors and residents flee at the first sign of trouble. However, some bystanders might assist the party in their fight with Daask. Kraz, described below, is one example of a helpful bystander.
 
-Kraz is a [gnoll](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) porter who has endured several run-ins with Daask criminals in the past and bears them no love. At the time of your choosing, Kraz rushes a member of Daask and knocks the affected creature prone. Consider having Kraz intervene in "area T14".
+Kraz is a gnoll porter who has endured several run-ins with Daask criminals in the past and bears them no love. At the time of your choosing, Kraz rushes a member of Daask and knocks the affected creature prone. Consider having Kraz intervene in "area T14".
 
 #### Falling
 
@@ -378,7 +376,7 @@ Use the "Falling in Sharn table" in "chapter 3" when a creature falls through a 
 
 ### Sharn Watch Guards
 
-The Sharn Watch has a modest presence in Terminus. Its guards defend wealthy visitors and the holdings of House Orien. If combat breaks out in the streets or if a bystander calls for the Sharn Watch, roll a `dice:d20|noform|noparens|avg` (`d20`) on initiative count 0 during each round the disturbance occurs. On a result of 18 or higher, `dice:1d4|noform|noparens|avg` (`1d4`) Sharn Watch [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md) arrive and attempt to arrest anyone involved in a crime.
+The Sharn Watch has a modest presence in Terminus. Its guards defend wealthy visitors and the holdings of House Orien. If combat breaks out in the streets or if a bystander calls for the Sharn Watch, roll a `d20` on initiative count 0 during each round the disturbance occurs. On a result of 18 or higher, `1d4` Sharn Watch guards arrive and attempt to arrest anyone involved in a crime.
 
 ### Daask Forces
 
@@ -393,8 +391,8 @@ If the characters are traveling with Jas (see ""Skycoach Ride"" earlier in the a
 At some point during their exploration of Terminus, the characters learn that Garra has boarded a lightning rail getting ready to leave Sharn if they don't know this already. If the characters ask any bystanders, they learn the location of the lift ("area T10") that leads to Terminus Station.
 
 > [!gallery]
-> ![Map 4.14: Terminus](/3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/145-map414_terminus.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/146-map414_terminus-player.webp#gallery)
+> ![Map 4.14: Terminus](3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/145-map414_terminus.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/146-map414_terminus-player.webp#gallery)
 
 ## Areas of Terminus (1-7)
 
@@ -409,7 +407,7 @@ The following encounter locations are keyed to map 4.14. This map does not depic
 > shaped prow is chained to the south platform.
 ^4ad
 
-A crowd of `dice:2d8|noform|noparens|avg` (`2d8`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) and `dice:1d4|noform|noparens|avg` (`1d4`) [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble.md) is gathered on the platform waiting to hire skycoaches.
+A crowd of `2d8` commoners and `1d4` nobles is gathered on the platform waiting to hire skycoaches.
 
 The docked skycoach belongs to an off-duty professional driver named Belga Twillo. The chain anchoring the skycoach to the dock has AC 19, 10 hit points, and immunity to poison and psychic damage. A character who makes a successful DC 17 Dexterity check with thieves' tools picks the chain's lock. A bystander who catches a character trying to steal the skycoach shouts for the Sharn Watch (see ""Sharn Watch Personalities"").
 
@@ -427,7 +425,7 @@ The doors to both apartments on this level are locked.
 
 #### T4a. Martisha's Apartment
 
-Martisha Kullandra (neutral female Brelish human magewright; see "chapter 6") lives in this modestly furnished studio apartment. If the characters break into the 80-year-old's apartment, Martisha flees, fighting for her life if she must. If the characters knock on her door, Martisha shouts to them through the door to go away.
+Martisha Kullandra (neutral female Brelish human [magewright](3-Mechanics/CLI/bestiary/humanoid/magewright-erlw.md); see "chapter 6") lives in this modestly furnished studio apartment. If the characters break into the 80-year-old's apartment, Martisha flees, fighting for her life if she must. If the characters knock on her door, Martisha shouts to them through the door to go away.
 
 A character who succeeds on DC 12 Charisma (Persuasion) check convinces Martisha to talk to the characters. If asked about Garra, Martisha gives the characters the following information:
 
@@ -444,7 +442,7 @@ When the characters enter this area, read or paraphrase the following boxed text
 > Cabinets hang on the north wall of this large room, which is hazy with the smell of tobacco. Near the east wall stands an overstuffed couch. An rectangular table turned on its side blocks a closed door on the south wall.
 ^4b3
 
-Four [kenku](/3-Mechanics/CLI/bestiary/humanoid/kenku.md) cutpurses working for Daask hide in two groups of two: one group behind the couch, the other behind the table. A character with a passive Wisdom (Perception) score of 13 or higher is not surprised by the kenku, which prefer to attack from behind the furniture. When using the couch and table for protection, a creature gains half cover. The cabinets are empty.
+Four kenku cutpurses working for Daask hide in two groups of two: one group behind the couch, the other behind the table. A character with a passive Wisdom (Perception) score of 13 or higher is not surprised by the kenku, which prefer to attack from behind the furniture. When using the couch and table for protection, a creature gains half cover. The cabinets are empty.
 
 #### T4c. Garra's Bedroom
 
@@ -455,9 +453,9 @@ When the characters enter this area, read the following boxed text to the player
 > A frantic gnoll is picking up papers from the floor to throw into a burning brazier at the center of the room. Beyond the brazier, Sergeant Vilroy is bound at the hands and feet with rope, lying bloodied and unconscious on a large mattress.
 ^4b5
 
-Nur, a Daask [gnoll](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md), is burning Garra's documents as ordered by the half-ogre. Of the documents that remain on the floor, two are of interest. One is a receipt for a lightning rail ticket, indicating the time, date, and journey of Garra's lightning rail trip to Wroat. The other document contains a list of the names and addresses of the warforged hired to work in the ruins of Old Sharn. You can add other documents that could act as story hooks for future adventures.
+Nur, a Daask gnoll, is burning Garra's documents as ordered by the half-ogre. Of the documents that remain on the floor, two are of interest. One is a receipt for a lightning rail ticket, indicating the time, date, and journey of Garra's lightning rail trip to Wroat. The other document contains a list of the names and addresses of the warforged hired to work in the ruins of Old Sharn. You can add other documents that could act as story hooks for future adventures.
 
-Sergeant Germaine Vilroy (neutral female Brelish human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) is restrained and unconscious and currently has 5 hit points remaining. After getting the information she needed from Germaine, Garra knocked her out using oil of taggit (see ""Caden d'Orien"" earlier in this adventure). A character can remove the ropes binding the sergeant as an action. If the characters wake up Germaine, she tells the characters to continue pursuing Garra and that she can get help for herself.
+Sergeant Germaine Vilroy (neutral female Brelish human veteran) is restrained and unconscious and currently has 5 hit points remaining. After getting the information she needed from Germaine, [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) knocked her out using [oil of taggit](3-Mechanics/CLI/items/oil-of-taggit.md) (see ""Caden d'Orien"" earlier in this adventure). A character can remove the ropes binding the sergeant as an action. If the characters wake up Germaine, she tells the characters to continue pursuing Garra and that she can get help for herself.
 
 ### T5. Lower-Level Apartments
 
@@ -465,20 +463,18 @@ The lower-level apartments have similar layouts to the ones in "area T4" but hou
 
 **Apartment Occupants**
 
-`dice: [](1-building-eberron-adventures-forgotten-relics.md#^apartment-occupants)`
-
 | dice: d12 | Occupants |
 |-----------|-----------|
 | 1–6 | No current occupants |
-| 7–9 | A family of `dice:1d4\|noform\|noparens\|avg` (`1d4`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) |
-| 10 | A shifter (see "chapter 6") |
-| 11 | A warforged soldier (see "chapter 6") |
-| 12 | A changeling (see "chapter 6") |
+| 7–9 | A family of `1d4` commoners |
+| 10 | A [shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md) (see "chapter 6") |
+| 11 | A [warforged soldier](3-Mechanics/CLI/bestiary/humanoid/warforged-soldier-erlw.md) (see "chapter 6") |
+| 12 | A [changeling](3-Mechanics/CLI/bestiary/humanoid/changeling-erlw.md) (see "chapter 6") |
 ^apartment-occupants
 
 ### T6. Skybridge
 
-This stone skybridge connects the tenement building to the building containing the lift. A Daask [harpy](/3-Mechanics/CLI/bestiary/monstrosity/harpy.md) and a group of `dice:1d4|noform|noparens|avg` (`1d4`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) loiter on the bridge when the characters arrive. The commoners pose no threat, but the harpy attacks the characters on sight, using her Luring Song to bring them to her if they flee.
+This stone skybridge connects the tenement building to the building containing the lift. A Daask harpy and a group of `1d4` commoners loiter on the bridge when the characters arrive. The commoners pose no threat, but the harpy attacks the characters on sight, using her Luring Song to bring them to her if they flee.
 
 ### T7. Graffiti Hall
 
@@ -500,7 +496,7 @@ A Daask shifter operative in area T8 watches the hall through the peephole. If t
 > This room reeks of urine and body odor. The floor is covered in empty liquor bottles, food waste, and old copies of the *Sharn Inquisitive*.
 ^4bc
 
-Two Daask operatives, a chaotic neutral shifter named Bartram (see "chapter 6") and his [worg](/3-Mechanics/CLI/bestiary/monstrosity/worg.md) companion are stationed here. Bartram and the worg are surly and never shy away from a fight. That said, they will happily leave the party alone if handed a bribe of 10 gp or more.
+Two Daask operatives, a chaotic neutral [shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md) named Bartram (see "chapter 6") and his worg companion are stationed here. Bartram and the worg are surly and never shy away from a fight. That said, they will happily leave the party alone if handed a bribe of 10 gp or more.
 
 ### T9. Interrogation Room
 
@@ -511,9 +507,9 @@ Two Daask operatives, a chaotic neutral shifter named Bartram (see "chapter 6") 
 
 Corrin Delmaco is a male lightfoot halfling who works for the Boromar Clan. The halfling tried to infiltrate Daask and was captured. He is being held in the hideout while Daask agents torture him for information.
 
-Corrin is a lawful evil [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md) with the following changes:
+[Corrin](3-Mechanics/CLI/bestiary/npc/corrin-delmaco-erlw.md) is a lawful evil spy with the following changes:
 
-- He is Small, has a hit point maximum of `dice:6d6|noform|noparens|avg|text(21)` (`6d6`), and has 10 hit points remaining.  
+- He is Small, has a hit point maximum of 21 (`6d6`), and has 10 hit points remaining.  
 - He has the following racial traits: He can move through the space of a Medium or larger creature. He has advantage on saving throws against being frightened. He speaks Common, Halfling, and thieves' cant.  
 
 Corrin claims to have no idea why Daask abducted him and begs for the characters to free him. A character who succeeds on a Wisdom (Insight) check contested by Corrin's Charisma (Deception) check knows the halfling is lying. If pressed, Corrin admits his connection to the Boromar Clan, and tells the characters it would be mean a lot to the powerful halfling family if they freed him.
@@ -531,15 +527,15 @@ This lift connects Terminus Station with the higher levels of the Terminus distr
 > A small bell above the door rings as you enter this store. Its many shelves are packed with bottled drinks, packaged food that is ready to eat, souvenirs, and newspapers. A kenku wearing spectacles and standing behind a counter says, "Buy something, will ya?" in an old woman's voice.
 ^4c1
 
-This store sells is run by Gurty, an elderly [kenku](/3-Mechanics/CLI/bestiary/humanoid/kenku.md). If the characters ask Gurty about Garra, the kenku mimics the half-ogre's voice, saying, "My coach is leaving soon. Hurry it up, or I'll pluck ya, stupid bird."
+This store sells is run by Gurty, an elderly kenku. If the characters ask Gurty about [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md), the kenku mimics the half-ogre's voice, saying, "My coach is leaving soon. Hurry it up, or I'll pluck ya, stupid bird."
 
 ### T12. Ticket Booth
 
-A [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) in the livery of House Orien works in this area, selling tickets through a small opening in a glass window to people on the platform. The door to the booth is locked from the inside. Money collected from ticket sales is placed in a small slot in a magic floor safe that can only be opened by a dwarf bearing the Mark of Warding.
+A commoner in the livery of House Orien works in this area, selling tickets through a small opening in a glass window to people on the platform. The door to the booth is locked from the inside. Money collected from ticket sales is placed in a small slot in a magic floor safe that can only be opened by a dwarf bearing the Mark of Warding.
 
 ### T13. Bathroom
 
-The bathroom contains six stalls, each with a toilet, and a 3-foot-high pillar at the center of the room with a cleansing stone embedded in its top.
+The bathroom contains six stalls, each with a toilet, and a 3-foot-high pillar at the center of the room with a [cleansing stone](3-Mechanics/CLI/items/cleansing-stone-erlw.md) embedded in its top.
 
 ### T14. Station Platform
 
@@ -548,33 +544,33 @@ The bathroom contains six stalls, each with a toilet, and a 3-foot-high pillar a
 > The sound of lightning rail trains stopping and starting elsewhere in Terminus Station echoes throughout the platform. A crowd of people is gathered near a lightning rail train crackling with arcs of blue energy. "If you're headed to Wroat, you'll have to catch the next one!" cries a conductor in the livery of House Orien as the train begins moving out of the station.
 ^4c5
 
-A crowd of `dice:2d10|noform|noparens|avg` (`2d10`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) and `dice:2d4|noform|noparens|avg` (`2d4`) [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble.md) gathers on the platform along with six hostile human [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit.md) who belong to Daask. The bandits are here to cover Garra's escape and attack characters who try to board the departing train.
+A crowd of `2d10` commoners and `2d4` nobles gathers on the platform along with six hostile human bandits who belong to Daask. The bandits are here to cover Garra's escape and attack characters who try to board the departing train.
 
-To catch Garra, the characters need to board the lightning rail train leaving the station. The coach has ten cars: a helm car (at the front), a first-class car, a galley car, a dining car, two standard cars, two sleeper cars, a steerage car, and a cargo car (at the rear).
+To catch [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md), the characters need to board the lightning rail train leaving the station. The coach has ten cars: a helm car (at the front), a first-class car, a galley car, a dining car, two standard cars, two sleeper cars, a steerage car, and a cargo car (at the rear).
 
-The characters have 30 seconds (5 rounds) to catch the coach before it leaves Terminus Station. A character can jump onto a lightning rail car by making a successful DC 10 Strength (Athletics) check. A character who fails this check takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage and falls prone on the platform. At the start of round six, the coach moves 20 feet per round for three rounds before accelerating to top speed.
+The characters have 30 seconds (5 rounds) to catch the coach before it leaves Terminus Station. A character can jump onto a lightning rail car by making a successful DC 10 Strength (Athletics) check. A character who fails this check takes 3 (`1d6`) bludgeoning damage and falls prone on the platform. At the start of round six, the coach moves 20 feet per round for three rounds before accelerating to top speed.
 
 #### Left at the Station
 
-If none of the characters board the lightning rail train, Garra gets away with the books and schemas found in Old Sharn's ruins. A more likely scenario is that one or more characters are left behind as the others board the train. In this case, keep the initiative order and alternate between the characters stuck on the platform with the Daask bandits and the characters exploring the train. The characters who remain at the station can seek out an adventurous skycoach driver and bribe them to fly after the train before making a DC 13 Dexterity (Acrobatics) check to leap onto the roof of a train car safely. Characters who fail the check take fall prone on the roof of the car and take bludgeoning damage based on the distance fallen (`dice:1d6|noform|noparens|avg` (`1d6`) per 10 feet).
+If none of the characters board the lightning rail train, Garra gets away with the books and schemas found in Old Sharn's ruins. A more likely scenario is that one or more characters are left behind as the others board the train. In this case, keep the initiative order and alternate between the characters stuck on the platform with the Daask bandits and the characters exploring the train. The characters who remain at the station can seek out an adventurous skycoach driver and bribe them to fly after the train before making a DC 13 Dexterity (Acrobatics) check to leap onto the roof of a train car safely. Characters who fail the check take fall prone on the roof of the car and take bludgeoning damage based on the distance fallen (`1d6` per 10 feet).
 
 ## Lightning Rail to Wroat
 
-After making it onto the lightning rail train, the characters must explore it to find Garra.
+After making it onto the lightning rail train, the characters must explore it to find [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md).
 
 ### Exploring the Coach
 
-Each car has a human conductor ([commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) wearing the livery of House Orien. When a character enters a car, the conductor asks to see the character's ticket. If the character doesn't have a ticket, the conductor demands the character pay 15 gp (the price of a fare to First Tower, plus a sizeable fine) or face armed guards who attempt to arrest the character at the next stop. A character who makes a successful DC 14 Charisma (Intimidation or Persuasion) check convinces the conductor to stand down without the character paying. If the character can't pay and fails to convince the conductor to stand down, this conductor sends word throughout the train to the other conductors to keep an eye on the character.
+Each car has a human conductor (commoner) wearing the livery of House Orien. When a character enters a car, the conductor asks to see the character's ticket. If the character doesn't have a ticket, the conductor demands the character pay 15 gp (the price of a fare to First Tower, plus a sizeable fine) or face armed guards who attempt to arrest the character at the next stop. A character who makes a successful DC 14 Charisma (Intimidation or Persuasion) check convinces the conductor to stand down without the character paying. If the character can't pay and fails to convince the conductor to stand down, this conductor sends word throughout the train to the other conductors to keep an eye on the character.
 
 If the characters move outside the coach, they must either move along the roof or cling to the sides of the train cars to find Garra.
 
 #### Walking on Rooftops
 
-A creature moving across the train car roofs must succeed on a DC 10 Dexterity (Acrobatics) check to keep its balance. A creature that fails this check by 4 or less slips and falls prone on the roof. A creature that fails this check by 5 or more falls off the train and takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.
+A creature moving across the train car roofs must succeed on a DC 10 Dexterity (Acrobatics) check to keep its balance. A creature that fails this check by 4 or less slips and falls prone on the roof. A creature that fails this check by 5 or more falls off the train and takes 7 (`2d6`) bludgeoning damage.
 
 #### Climbing the Sides
 
-A creature climbing along the sides of the cars must succeed on a DC 10 Strength (Athletics) check to hang on. A creature that fails this check almost loses its grip and makes no progress. A creature that fails this check by 5 or more falls off the train and takes `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.
+A creature climbing along the sides of the cars must succeed on a DC 10 Strength (Athletics) check to hang on. A creature that fails this check almost loses its grip and makes no progress. A creature that fails this check by 5 or more falls off the train and takes 7 (`2d6`) bludgeoning damage.
 
 ### Confronting Garra
 
@@ -585,31 +581,31 @@ When the characters peer into the foremost cabin of the first-class car, read or
 > An eight-foot-tall muscular woman with a tusked, protruding jaw lounges on a couch in a luxury passenger car. She reads the *Sharn Inquisitive* and keeps a battleaxe within arm's reach. A wooden chest rests by her feet, and a table lined with fine foods and bottles of spirits stands close by.
 ^4ce
 
-Garra paid for the privilege of a private car. She is a chaotic evil [half-ogre](/3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md) with Intelligence and Wisdom scores of 14 (+2). Her passive Wisdom (Perception) score is 12.
+[Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) paid for the privilege of a private car. She is a chaotic evil half-ogre with Intelligence and Wisdom scores of 14 (+2). Her passive Wisdom (Perception) score is 12.
 
-Rot, a chaotic evil male [sprite](/3-Mechanics/CLI/bestiary/fey/sprite.md) that works for Daask, is also in the car and invisible when the characters enter. The sprite is Garra's servant—a gift from Niho Koi. If the characters attack Garra, Rot shoots at them with his bow; if Garra falls, the sprite flees. Rot's mind has been warped by Niho Koi's magic, and he can't provide any useful information to the characters if captured.
+Rot, a chaotic evil male sprite that works for Daask, is also in the car and invisible when the characters enter. The sprite is Garra's servant—a gift from Niho Koi. If the characters attack Garra, Rot shoots at them with his bow; if Garra falls, the sprite flees. Rot's mind has been warped by Niho Koi's magic, and he can't provide any useful information to the characters if captured.
 
 If Garra feels outnumbered, she smashes the closest window and climbs onto the roof, where she can more easily shove enemies off the train.
 
 #### Roleplaying Garra
 
-Garra has no remorse when it comes to her crimes and can always rationalize her behavior. When she notices the characters, Garra puts up her hands to indicate she means them no harm. She is impressed that the characters managed to catch up with her. The half-ogre offers a 100 gp bribe to the group for the characters to tell the Sharn Watch she escaped and have that be the end of it. If the characters express interest in joining Daask, she chuckles asks why they'd do such a thing, and if she's satisfied with the answer, obliges. Garra pays new recruits 100 gp each, promises there is more reward to come, and says the characters' first task is to help her transport the chest to Droaam from Wroat. If the characters refuse, Garra attacks. Garra is willing to die for Daask and fights accordingly.
+[Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) has no remorse when it comes to her crimes and can always rationalize her behavior. When she notices the characters, Garra puts up her hands to indicate she means them no harm. She is impressed that the characters managed to catch up with her. The half-ogre offers a 100 gp bribe to the group for the characters to tell the Sharn Watch she escaped and have that be the end of it. If the characters express interest in joining Daask, she chuckles asks why they'd do such a thing, and if she's satisfied with the answer, obliges. Garra pays new recruits 100 gp each, promises there is more reward to come, and says the characters' first task is to help her transport the chest to Droaam from Wroat. If the characters refuse, Garra attacks. Garra is willing to die for Daask and fights accordingly.
 
 Garra doesn't know what is in books or schemas, as these items are written in a coded magical language. She only knows that Niho Koi desires the items.
 
-Garra holds the key to her chest, which weighs 50 pounds. A character who makes a successful DC 13 Dexterity check with thieves' tools picks the lock, and a character who makes a successful DC 15 Strength (Athletics) check forces the chest open. The chest contains Garra's treasure (see below), thirteen books, and three paper schemas in scroll tubes. Each book and schema is written in a magically coded language that can't be read by the comprehend languages spell. Finding a way to read these documents is another adventure.
+[Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md) holds the key to her chest, which weighs 50 pounds. A character who makes a successful DC 13 Dexterity check with thieves' tools picks the lock, and a character who makes a successful DC 15 Strength (Athletics) check forces the chest open. The chest contains Garra's treasure (see below), thirteen books, and three paper schemas in scroll tubes. Each book and schema is written in a magically coded language that can't be read by the comprehend languages spell. Finding a way to read these documents is another adventure.
 
 #### Treasure
 
-In addition to the books and schemas, the chest contains gem of brightness with 32 charges, a feather token, and 600 gp.
+In addition to the books and schemas, the chest contains [gem of brightness](3-Mechanics/CLI/items/gem-of-brightness.md) with 32 charges, a [feather token](3-Mechanics/CLI/items/feather-token-erlw.md), and 600 gp.
 
 ### Stop the Coach!
 
-If the characters kill Garra in noisy combat, the lightning rail coach stops, and a House Orien conductor ([commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) checks on the disturbance. If the characters explain that they are working with the Sharn Watch to catch a murderer and present their writ, the conductor has the coach halted at the next stop, with guards waiting to verify the characters' claims.
+If the characters kill Garra in noisy combat, the lightning rail coach stops, and a House Orien conductor (commoner) checks on the disturbance. If the characters explain that they are working with the Sharn Watch to catch a murderer and present their writ, the conductor has the coach halted at the next stop, with guards waiting to verify the characters' claims.
 
 ## Conclusion
 
-If the characters fail to stop Garra, she gets away and brings the books and schemas to Niho Koi in Droaam. The information contained in these documents is up to you, but it might be dangerous information the Daughters of Sora Kell could weaponize. The characters could face the rising threat of Droaam in future adventures. See the "Droaam" section earlier in this chapter for more adventure ideas.
+If the characters fail to stop [Garra](3-Mechanics/CLI/bestiary/npc/garra-erlw.md), she gets away and brings the books and schemas to Niho Koi in Droaam. The information contained in these documents is up to you, but it might be dangerous information the Daughters of Sora Kell could weaponize. The characters could face the rising threat of Droaam in future adventures. See the "Droaam" section earlier in this chapter for more adventure ideas.
 
 There are several other possibilities for future adventures, depending on how this story played out:
 
@@ -619,4 +615,4 @@ There are several other possibilities for future adventures, depending on how th
 - If the characters freed Corrin Delmaco (see "area T9" of Terminus) or if they killed Garra, the Boromar Clan sees them as potential allies. If the characters ally with Daask, the Boromar Clan sees them as enemies.  
 - The characters' heroics catch the attention of a House Lyrandar airship captain seeking a crew for a dangerous expedition to some far-flung corner of Khorvaire, or perhaps even as far away as Xen'drik or Argonnessen. See "chapter 2" for possible adventure locations.  
 
-![](/3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/147-4-14.webp#center)
+![](3-Mechanics/CLI/adventures/eberron-forgotten-relics/img/147-4-14.webp#center)

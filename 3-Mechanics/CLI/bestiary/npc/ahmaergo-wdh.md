@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ahmaergo
+- "Ahmaergo"
 ---
-# [Ahmaergo](3-Mechanics\CLI\bestiary\npc/ahmaergo-wdh.md)
+# [Ahmaergo](3-Mechanics/CLI/bestiary/npc/ahmaergo-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 193*  
 
 Ahmaergo, Xanathar's majordomo, has a fascination with minotaurs. Although outwardly civil, the shield dwarf is as devious and corrupt as the worst devil, yet also unflinchingly loyal to his beholder master.
@@ -26,7 +26,7 @@ After the beholder, Ahmaergo is the most influential member of the Xanathar Guil
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "143"
 "hit_dice": "22d8 + 44"
 "modifier": !!int "2"
@@ -42,18 +42,22 @@ After the beholder, Ahmaergo is the most influential member of the Xanathar Guil
   - "strength": !!int "9"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 16"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 16"
 "languages": "Common, Dwarvish, Undercommon"
 "cr": "9"
 "traits":
-  - "desc": "Ahmaergo has advantage on saving throws against being poisoned."
+  - "desc": "Ahmaergo has advantage on saving throws against being [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)."
     "name": "Dwarven Resilience"
   - "desc": "Ahmaergo can reroll a saving throw that he fails. He must use the new\
       \ roll."
@@ -67,13 +71,13 @@ After the beholder, Ahmaergo is the most influential member of the Xanathar Guil
   - "desc": "Ahmaergo makes three attacks with his greataxe."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (1d12 + 5) slashing damage"
+      \ (1d12 + 5) slashing damage."
     "name": "Greataxe"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 100/400 ft., one target. *Hit:*\
       \ 7 (1d10 + 2) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ahmaergo-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ahmaergo-wdh.webp"
 ```
 ^statblock

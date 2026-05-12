@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/other
-aliases: 
+aliases:
 - "Circlet of Human Perfection"
 ---
 # Circlet of Human Perfection

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Tall Tales
+- "Tall Tales"
 ---
 # Tall Tales
 *Source: Bigby Presents: Glory of the Giants p. 17* 
 
 **Tall Tales**
-
-`dice: [](tall-tales-bgg.md#^tall-tales)`
 
 | dice: d6 | Tall Tale Connection |
 |----------|----------------------|

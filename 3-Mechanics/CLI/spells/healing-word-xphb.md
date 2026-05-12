@@ -8,20 +8,22 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+- ttrpg-cli/spell/feat/strixhaven-initiate/witherbloom-3
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/sanctuary-charm
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/alchemist
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Artificer (Alchemist)
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Healing Word
+- "Healing Word"
 ---
 # Healing Word
 *1st-level, Abjuration*  
@@ -32,10 +34,10 @@ aliases:
 - **Components:** V
 - **Duration:** Instantaneous
 
-A creature of your choice that you can see within range regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `dice:2d4|noform|noparens|avg` (`2d4`) plus your spellcasting ability modifier.
+A creature of your choice that you can see within range regains [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `2d4` plus your spellcasting ability modifier.
 
-**Using a Higher-Level Spell Slot.** The healing increases by `dice:2d4|noform|noparens|avg|text(2d4)` for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The healing increases by `2d4` for each spell slot level above 1.
 
-**Classes**: [Artificer (Alchemist)](/3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Artificer (Alchemist)](3-Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE"); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

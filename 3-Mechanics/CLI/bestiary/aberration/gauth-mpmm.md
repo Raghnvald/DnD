@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gauth
+- "Gauth"
 ---
-# [Gauth](3-Mechanics\CLI\bestiary\aberration/gauth-mpmm.md)
+# [Gauth](3-Mechanics/CLI/bestiary/aberration/gauth-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
@@ -22,7 +22,7 @@ A gauth can survive on meat but prefers to sustain itself with power drained fro
 
 When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
 
-A [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
+A [beholder](3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 ```statblock
 "name": "Gauth (MPMM)"
@@ -48,19 +48,19 @@ A [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) usually drive
   - "wisdom": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "6"
 "traits":
   - "desc": "When a creature that can see the gauth's central eye starts its turn\
       \ within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom\
-      \ saving throw if the gauth isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ and can see the creature. A creature that fails the save is [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
-      \ until the start of its next turn.\n\nUnless [surprised](/3-Mechanics/CLI/conditions.md#Surprised),\
+      \ saving throw if the gauth isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and can see the creature. A creature that fails the save is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ until the start of its next turn.\n\nUnless [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised),\
       \ a creature can avert its eyes at the start of its turn to avoid the saving\
       \ throw. If the creature does so, it can't see the gauth until the start of\
       \ its next turn, when it can avert its eyes again. If the creature looks at\
@@ -72,8 +72,8 @@ A [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) usually drive
       \ one."
     "name": "Death Throes"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 9 (2d8)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d8) piercing damage."
     "name": "Bite"
   - "desc": "The gauth shoots three of the following magical eye rays at random (roll\
       \ three d6s, and reroll duplicates), targeting one to three creatures it can\
@@ -83,24 +83,24 @@ A [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) usually drive
       \ is a charged item, it also loses 1d4 charges. Determine the affected item\
       \ randomly, ignoring single-use items such as potions and scrolls.  \n- **2\
       \ Enervation Ray.** The target must make a DC 14 Constitution saving throw,\
-      \ taking 18 (4d8) necrotic damage on a failed save, or half as much damage on\
-      \ a successful one.  \n- **3 Fire Ray.** The target must succeed on a DC 14\
-      \ Dexterity saving throw or take 22 (4d10) fire damage.  \n- **4 Paralyzing\
+      \ taking 18 (4d8) necrotic damage on a failed save, or half as much damage\
+      \ on a successful one.  \n- **3 Fire Ray.** The target must succeed on a DC\
+      \ 14 Dexterity saving throw or take 22 (4d10) fire damage.  \n- **4 Paralyzing\
       \ Ray.** The target must succeed on a DC 14 Constitution saving throw or be\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success.  \n- **5 Pushing Ray.** The target must succeed on\
-      \ a DC 14 Strength saving throw or be pushed up to 15 feet away from the gauth\
-      \ and have its speed halved until the start of the gauth's next turn.  \n- **6\
-      \ Sleep Ray.** The target must succeed on a DC 14 Wisdom saving throw or fall\
-      \ asleep and remain [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The\
+      \ target can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success.  \n- **5 Pushing Ray.** The target must\
+      \ succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away from\
+      \ the gauth and have its speed halved until the start of the gauth's next turn.\
+      \  \n- **6 Sleep Ray.** The target must succeed on a DC 14 Wisdom saving throw\
+      \ or fall asleep and remain [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 minute. The target awakens if it takes damage or another creature takes\
       \ an action to wake it. This ray has no effect on Constructs and Undead.  "
     "name": "Eye Rays"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/gauth-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/gauth-mpmm.webp"
 ```
 ^statblock
 

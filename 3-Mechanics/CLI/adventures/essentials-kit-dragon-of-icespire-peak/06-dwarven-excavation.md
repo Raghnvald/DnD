@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Dwarven Excavation
+- "Dwarven Excavation"
 ---
 # Dwarven Excavation
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 22* 
@@ -20,7 +20,7 @@ Behind the settlement, carved into the back wall of the canyon, is an old temple
 
 ### Quest Goals
 
-To complete the Dwarven Excavation Quest, the adventurers need only to warn Dazlyn and Norbus of the white dragon. The grateful dwarves then tempt the adventurers with a quest of their own, offering their pair of sending stones as a reward if the characters rid the temple of the monsters within. If they stay long enough to help Dazlyn and Norbus, the characters encounter orcs before they leave (see "When Orcs Attack").
+To complete the Dwarven Excavation Quest, the adventurers need only to warn Dazlyn and Norbus of the white dragon. The grateful dwarves then tempt the adventurers with a quest of their own, offering their pair of [sending stones](3-Mechanics/CLI/items/sending-stones.md) as a reward if the characters rid the temple of the monsters within. If they stay long enough to help Dazlyn and Norbus, the characters encounter orcs before they leave (see "When Orcs Attack").
 
 ## Arrival
 
@@ -38,8 +38,8 @@ If the characters announce their arrival, Dazlyn and Norbus come forth to greet 
 The following locations are keyed to the map of the dwarven excavation.
 
 > [!gallery]
-> ![Map: Dwarven Excavation](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/015-map-de-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/016-map-de-pc.webp#gallery)
+> ![Map: Dwarven Excavation](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/015-map-de-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/016-map-de-pc.webp#gallery)
 
 #### E1. Canyon
 
@@ -60,9 +60,9 @@ Describe this location as follows:
 > A partially collapsed, ten-foot-high wall separates this courtyard from the settlement west of it. Three heaps of rubble are piled high in this area. Hewn from the canyon's back wall, a thirty-foot-high temple facade features steps rising to a stone platform. Cut into this facade is a ten-foot-high open doorway flanked by crumbling, life-sized granite statues of cloaked dwarves. Evil grins can be seen on their weatherworn faces.
 ^0c3
 
-If they haven't been encountered yet, Dazlyn and Norbus are eating rations behind the easternmost rubble pile while keeping an eye on the temple entrance (area E4). Each is a shield dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) who speaks Common and Dwarvish, and who has darkvision out to a range of 60 feet. Dazlyn is forthright and honest to a fault. Norbus is gruff and excessively cautious. They banter like an old married couple.
+If they haven't been encountered yet, Dazlyn and Norbus are eating rations behind the easternmost rubble pile while keeping an eye on the temple entrance (area E4). Each is a shield dwarf commoner who speaks Common and Dwarvish, and who has darkvision out to a range of 60 feet. Dazlyn is forthright and honest to a fault. Norbus is gruff and excessively cautious. They banter like an old married couple.
 
-Each dwarf has ten days of rations, a waterskin, mining tools, and one of two matching sending stones. The dwarves offer these magic items to anyone willing to kill the [ochre jellies](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md) in area E5, search the temple for other obvious threats, and make it safe. If the characters obtain these stones, give the players both Sending Stone [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Sending%20Stone) or they can reference them in the Magic Items Listing. Eager to resume their excavation, the dwarves offer to split what they find with characters who help them.
+Each dwarf has ten days of rations, a waterskin, mining tools, and one of two matching [sending stones](3-Mechanics/CLI/items/sending-stones.md). The dwarves offer these magic items to anyone willing to kill the ochre jellies in area E5, search the temple for other obvious threats, and make it safe. If the characters obtain these stones, give the players both [Sending Stone](3-Mechanics/CLI/items/sending-stones.md) [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Sending%20Stone) or they can reference them in the Magic Items Listing. Eager to resume their excavation, the dwarves offer to split what they find with characters who help them.
 
 > [!note] Temple Features
 > 
@@ -83,7 +83,7 @@ Spikes hammered into the floor hold open two sets of double doors. A once-secret
 
 #### E5. Temple
 
-This area contains five secret doors, including one that opens up into one of the stone pillars holding up the ceiling. A bloodstained limestone altar stands at the far end of the room. Dazlyn and Norbus got this far into the temple before an [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md) scared them off. It clings to the ceiling above the altar. If the party includes two or more characters (not counting sidekicks), a second ochre jelly clings to the south wall.
+This area contains five secret doors, including one that opens up into one of the stone pillars holding up the ceiling. A bloodstained limestone altar stands at the far end of the room. Dazlyn and Norbus got this far into the temple before an ochre jelly scared them off. It clings to the ceiling above the altar. If the party includes two or more characters (not counting sidekicks), a second ochre jelly clings to the south wall.
 
 ##### Treasure
 
@@ -95,7 +95,7 @@ An earthquake collapsed part of this room, which holds nothing of value.
 
 #### E7. Secret Tunnel
 
-Trapped behind the secret doors, an [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md) lurks in the rubble at the south end of this hall.
+Trapped behind the secret doors, an ochre jelly lurks in the rubble at the south end of this hall.
 
 #### E8. Priests' Bedchamber
 
@@ -117,8 +117,8 @@ Around the skeleton's neck hangs a holy symbol of Abbathor: a tiny jeweled dagge
 
 To reach this room, the characters must clear away the rubble that seals it off, which takes a single character 40 hours. Multiple characters working together can reduce the time proportionately.
 
-An alcove in the south wall holds the rubble of a shattered statue. An alcove to the north holds a statue of a dwarf with horns, which stares greedily at a glowing green gem in its hands. If the gem is taken, it turns to dust and the statue explodes. Any creature within 10 feet of the exploding statue must make a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) piercing damage on a failed save, or half as much damage on a successful one.
+An alcove in the south wall holds the rubble of a shattered statue. An alcove to the north holds a statue of a dwarf with horns, which stares greedily at a glowing green gem in its hands. If the gem is taken, it turns to dust and the statue explodes. Any creature within 10 feet of the exploding statue must make a DC 15 Dexterity saving throw, taking 22 (`4d10`) piercing damage on a failed save, or half as much damage on a successful one.
 
 ## When Orcs Attack
 
-[Orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) arrive at area E1 as the characters conclude their business with the dwarves. The number of orcs is equal to the number of characters in the party, including sidekicks. Driven from their territory by Cryovain, the orcs are looking for a new lair and fight to the death.
+Orcs arrive at area E1 as the characters conclude their business with the dwarves. The number of orcs is equal to the number of characters in the party, including sidekicks. Driven from their territory by Cryovain, the orcs are looking for a new lair and fight to the death.

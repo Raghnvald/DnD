@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/turami-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/turami-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Markham Southwell
+- "Markham Southwell"
 ---
-# [Markham Southwell](3-Mechanics\CLI\bestiary\npc/markham-southwell-skt.md)
+# [Markham Southwell](3-Mechanics/CLI/bestiary/npc/markham-southwell-skt.md)
 *Source: Storm King's Thunder p. 248*  
 
 Sheriff Markham of Bryn Shander is a brawny, likable man of few words. Nothing is more important to him than protecting Icewind Dale. He judges others by their actions, not their words.
@@ -30,7 +30,7 @@ Flaw:"I bury my emotions and have no interest in small talk."
 "subtype": "Turami human"
 "alignment": "Lawful Good"
 "ac": !!int "17"
-"ac_class": "splint armor"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "9d8 + 18"
 "modifier": !!int "1"
@@ -43,10 +43,13 @@ Flaw:"I bury my emotions and have no interest in small talk."
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common"
 "traits":
@@ -60,14 +63,15 @@ Flaw:"I bury my emotions and have no interest in small talk."
 "actions":
   - "desc": "Markham makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:*\
       \ 6 (1d10 + 1) piercing damage. Markham carries twenty crossbow bolts."
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/markham-southwell-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/markham-southwell-skt.webp"
 ```
 ^statblock

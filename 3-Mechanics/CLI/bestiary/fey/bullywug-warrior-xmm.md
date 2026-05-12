@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bullywug Warrior
+- "Bullywug Warrior"
 ---
-# [Bullywug Warrior](3-Mechanics\CLI\bestiary\fey/bullywug-warrior-xmm.md)
+# [Bullywug Warrior](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.
@@ -23,7 +23,7 @@ Bullywug warriors are adept at moving through swamps and ambushing trespassers. 
 *Amphibious Appreciators of Marsh and Muck*
 
 - **Habitat.** Swamp  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
 
 Fey embodiments of swamplands, bullywugs protect the murky wilds and consider themselves cosmically favored for that role. These human-size, toad- or frog-like creatures have close relationships with the creatures of the swamp.
 
@@ -45,7 +45,7 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "Bullywug, Common"
@@ -57,15 +57,15 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
       \ it speaks in Bullywug."
     "name": "Speak with Frogs and Toads"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing damage\
-      \ plus 2 (1d4) Poison damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Piercing\
+      \ damage plus 2 (1d4) Poison damage."
     "name": "Insectile Rapier"
 "bonus_actions":
   - "desc": "The bullywug can jump up to 30 feet by spending 10 feet of movement."
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/bullywug-warrior-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/bullywug-warrior-xmm.webp"
 ```
 ^statblock
 

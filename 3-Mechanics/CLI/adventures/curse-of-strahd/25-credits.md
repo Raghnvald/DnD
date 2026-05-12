@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/cos
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Curse of Strahd* 
@@ -55,7 +55,7 @@ aliases:
 > ———. *Van Richten's Monster Hunter's Compendium, Volume Three*. 2000.
 ^326
 
-![On the Cover: the master o...](/3-Mechanics/CLI/adventures/curse-of-strahd/img/credits.webp#center "On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds.")
+![On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds.](3-Mechanics/CLI/adventures/curse-of-strahd/img/credits.webp#center)
 
 > [!note]
 > Disclaimer: Wizards of the Coast cannot be held liable for any long-term side effects of venturing into the dread realm of Ravenloft, such as lycanthropy, vampirism, a fear of dead things, a fear of living things, an inability to sleep without a nightlight on and a +5 holy avenger under your pillow, and the unsettling suspicion that Strahd is too clever to be so easily defeated and that this is all just part of some grand scheme of his to extend his power beyond Barovia. You didn't think you could escape unless he wanted you to, did you?

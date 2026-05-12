@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Djinni
+- "Djinni"
 ---
-# [Djinni](3-Mechanics\CLI\bestiary\elemental/djinni.md)
+# [Djinni](3-Mechanics/CLI/bestiary/elemental/djinni.md)
 *Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
@@ -89,22 +89,24 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "damage_immunities": "lightning, thunder"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Auran"
 "cr": "11"
 "traits":
   - "desc": "The djinni's innate spellcasting ability is Charisma (spell save DC 17,\
       \ +9 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [thunderwave](/3-Mechanics/CLI/spells/thunderwave.md)\n\
-      \n**3/day each:** [create food and water](/3-Mechanics/CLI/spells/create-food-and-water.md)\
-      \ (can create wine instead of water), [tongues](/3-Mechanics/CLI/spells/tongues.md),\
-      \ [wind walk](/3-Mechanics/CLI/spells/wind-walk.md)\n\n**1/day each:** [conjure\
-      \ elemental](/3-Mechanics/CLI/spells/conjure-elemental.md) ([air elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental.md)\
-      \ only), [creation](/3-Mechanics/CLI/spells/creation.md), [gaseous form](/3-Mechanics/CLI/spells/gaseous-form.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility.md), [major image](/3-Mechanics/CLI/spells/major-image.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift.md)"
+      \ requiring no material components:\n\n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)\n\
+      \n**3/day each:** [create food and water](3-Mechanics/CLI/spells/create-food-and-water.md)\
+      \ (can create wine instead of water), [tongues](3-Mechanics/CLI/spells/tongues.md),\
+      \ [wind walk](3-Mechanics/CLI/spells/wind-walk.md)\n\n**1/day each:** [conjure\
+      \ elemental](3-Mechanics/CLI/spells/conjure-elemental.md) ([air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md)\
+      \ only), [creation](3-Mechanics/CLI/spells/creation.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md)"
     "name": "Innate Spellcasting"
   - "desc": "If the djinni dies, its body disintegrates into a warm breeze, leaving\
       \ behind only equipment the djinni was wearing or carrying."
@@ -118,21 +120,21 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
     "name": "Scimitar"
   - "desc": "A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms\
       \ on a point the djinni can see within 120 feet of it. The whirlwind lasts as\
-      \ long as the djinni maintains [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a\
-      \ spell). Any creature but the djinni that enters the whirlwind must succeed\
-      \ on a DC 18 Strength saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ long as the djinni maintains [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any creature but the djinni that enters the whirlwind must succeed\
+      \ on a DC 18 Strength saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures\
-      \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by the whirlwind move\
-      \ with it. The whirlwind ends if the djinni loses sight of it.\n\nA creature\
-      \ can use its action to free a creature [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the whirlwind\
+      \ move with it. The whirlwind ends if the djinni loses sight of it.\n\nA creature\
+      \ can use its action to free a creature [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ by the whirlwind, including itself, by succeeding on a DC 18 Strength check.\
-      \ If the check succeeds, the creature is no longer [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ If the check succeeds, the creature is no longer [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ and moves to the nearest space outside the whirlwind."
     "name": "Create Whirlwind"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/djinni.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/djinni.webp"
 ```
 ^statblock
 

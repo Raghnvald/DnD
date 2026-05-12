@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Dragon Statue
+- "Stone Dragon Statue"
 ---
-# [Stone Dragon Statue](3-Mechanics\CLI\bestiary\construct/stone-dragon-statue-tftyp.md)
+# [Stone Dragon Statue](3-Mechanics/CLI/bestiary/construct/stone-dragon-statue-tftyp.md)
 *Source: Tales from the Yawning Portal p. 85*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -55,6 +58,6 @@ aliases:
     "name": "Steam Breath"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/stone-dragon-statue-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/stone-dragon-statue-tftyp.webp"
 ```
 ^statblock

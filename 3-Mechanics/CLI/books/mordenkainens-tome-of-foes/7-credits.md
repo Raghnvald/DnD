@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Mordenkainen's Tome of Foes* 

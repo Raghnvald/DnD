@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/scroll
-aliases: 
+aliases:
 - "Spell Scroll (2nd Level)"
 ---
 # Spell Scroll (2nd Level)
@@ -21,8 +21,8 @@ If the spell is on your class's spell list but of a higher level than you can no
 
 Once the spell is cast, the words on the scroll fade, and the scroll itself crumbles to dust.
 
-A spell cast from this scroll has a save DC of 13 and an attack bonus of `dice:1d20+5|noform|noparens|text(+5)`.
+A spell cast from this scroll has a save DC of 13 and an attack bonus of `+5`.
 
-A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 12 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When a spell is copied from a spell scroll, the copier must succeed on a DC 12 Intelligence (Arcana) check. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 
 *Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

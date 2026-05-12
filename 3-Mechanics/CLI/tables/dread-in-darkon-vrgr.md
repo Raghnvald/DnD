@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Dread in Darkon
+- "Dread in Darkon"
 ---
 # Dread in Darkon
 *Source: Van Richten's Guide to Ravenloft p. 93* 
 
 **Dread in Darkon**
-
-`dice: [](dread-in-darkon-vrgr.md#^dread-in-darkon)`
 
 | dice: d6 | Dread Possibility |
 |----------|-------------------|

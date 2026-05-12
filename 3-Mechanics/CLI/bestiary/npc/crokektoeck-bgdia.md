@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crokek'toeck
+- "Crokek'toeck"
 ---
-# [Crokek'toeck](3-Mechanics\CLI\bestiary\npc/crokektoeck-bgdia.md)
+# [Crokek'toeck](3-Mechanics/CLI/bestiary/npc/crokektoeck-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 231*  
 
 Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the teeth, fur, ears, and laugh of a hyena, this unique demon can hold smaller demons in its gullet and disgorge them anywhere Yeenoghu wishes. Immune to the mind-shattering effects of the River Styx, Crokek'toeck is often used to transport smaller demons (and sometimes Yeenoghu himself) through the Styx's terrible waters.
@@ -42,10 +42,8 @@ Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the t
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "14"
 "traits":
@@ -63,18 +61,16 @@ Crokek'toeck is Yeenoghu's demonic pet. Resembling a giant mudskipper with the t
       \ 30 feet, with or without a running start."
     "name": "Standing Leap"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 44\
-      \ (10d6 + 9) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:*\
+      \ 44 (10d6 + 9) piercing damage."
     "name": "Bite"
-  - "desc": "Crokek'toeck opens its mouth and disgorges 1d4 [barlguras](/3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md),\
-      \ 3d6 [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) led by\
-      \ 1 [gnoll fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md),\
-      \ 6d6 [dretches](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md), or 1d3 [vrocks](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md).\
-      \ Each creature it disgorges appears in an unoccupied space within 30 feet of\
-      \ Crokek'toeck's mouth, or the next closest unoccupied space."
+  - "desc": "Crokek'toeck opens its mouth and disgorges 1d4 barlguras, 3d6 gnolls\
+      \ led by 1 gnoll fang of Yeenoghu, 6d6 dretches, or 1d3 vrocks. Each creature\
+      \ it disgorges appears in an unoccupied space within 30 feet of Crokek'toeck's\
+      \ mouth, or the next closest unoccupied space."
     "name": "Disgorge Allies (Recharge 6)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/crokektoeck-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/crokektoeck-bgdia.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/5
-- new/monster/size/small
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nevermind Gnome Mastermind
+- "Nevermind Gnome Mastermind"
 ---
-# [Nevermind Gnome Mastermind](3-Mechanics\CLI\bestiary\humanoid/nevermind-gnome-mastermind-mcv2dc.md)
+# [Nevermind Gnome Mastermind](3-Mechanics/CLI/bestiary/humanoid/nevermind-gnome-mastermind-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 11*  
 
 The gnome masterminds of Mount Nevermind temper their creativity with years of experience. While they still create wild inventions on a whim, these masterminds also wield at least one more stable clockwork invention—typically something that affords the mastermind more movement, extends their reach with extra appendages, or both.
@@ -27,7 +27,7 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "82"
 "hit_dice": "15d6 + 30"
 "modifier": !!int "4"
@@ -44,13 +44,14 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
   - "constitution": !!int "5"
   - "intelligence": !!int "8"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Gnomish"
 "cr": "5"
 "traits":
@@ -64,33 +65,35 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
   - "desc": "The mastermind makes two Clockwork Claw attacks. The mastermind can replace\
       \ one of these attacks with Generate Gadget if it's available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 20 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) piercing damage, and if the target is a Medium or smaller creature,\
-      \ the target is grappled (escape DC 15). Until this grapple ends, the target\
-      \ takes 10 (3d6) piercing damage at the start of each of the mastermind's turns.\
-      \ The mastermind has two claws, each of which can grapple only one target."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 20 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) piercing damage, and if the target is a Medium or smaller creature,\
+      \ the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape\
+      \ DC 15). Until this grapple ends, the target takes 10 (3d6) piercing damage\
+      \ at the start of each of the mastermind's turns. The mastermind has two claws,\
+      \ each of which can grapple only one target."
     "name": "Clockwork Claw"
   - "desc": "The mastermind quickly assembles a clockwork gadget, producing one of\
       \ the following effects (the mastermind's choice):"
     "name": "Generate Gadget (Recharge 5-6)"
   - "desc": "Parts of this gadget look like gnashing metal teeth. This gadget hurtles\
       \ toward a creature the mastermind can see within 60 feet of itself. The creature\
-      \ must succeed on a DC 16 Dexterity saving throw or take 31 (7d8) piercing damage\
-      \ and be incapacitated until the start of the mastermind's next turn."
+      \ must succeed on a DC 16 Dexterity saving throw or take 31 (7d8) piercing\
+      \ damage and be [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ until the start of the mastermind's next turn."
     "name": "Chattergrab"
   - "desc": "The mastermind launches this gadget to a point the mastermind can see\
       \ within 30 feet of itself, where the gadget unleashes a cloud of mind-warping\
       \ gases in a 10-foot-radius sphere. Each creature within the sphere must succeed\
-      \ on a DC 16 Wisdom saving throw or take 11 (2d10) psychic damage and be frightened\
+      \ on a DC 16 Wisdom saving throw or take 11 (2d10) psychic damage and be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ of the mastermind until the start of the mastermind's next turn."
     "name": "Phasmoball"
   - "desc": "This gadget emits a screeching wave of sound in a 30-foot cone originating\
       \ from the mastermind. Each creature in that area must make a DC 16 Constitution\
-      \ saving throw, taking 21 (6d6) thunder damage on a failed save or half as much\
-      \ damage on a successful one."
+      \ saving throw, taking 21 (6d6) thunder damage on a failed save or half as\
+      \ much damage on a successful one."
     "name": "Thunderscream"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/nevermind-gnome-mastermind-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/nevermind-gnome-mastermind-mcv2dc.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duke Thalamra Vanthampur
+- "Duke Thalamra Vanthampur"
 ---
-# [Duke Thalamra Vanthampur](3-Mechanics\CLI\bestiary\npc/duke-thalamra-vanthampur-bgdia.md)
+# [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 38*  
 
 Acid-tongued, shrewd, and aggressive, Duke Thalamra Vanthampur is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
@@ -40,21 +40,19 @@ Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late 
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+6"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft. (see devil's\
-  \ sight below), passive Perception 13"
+"senses": "darkvision 120 ft. (see devil's sight below), passive Perception 13"
 "languages": "Common, Infernal"
 "cr": "4"
 "traits":
-  - "desc": "Thalamra has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "Thalamra has advantage on saving throws against being charmed or frightened."
     "name": "Dark Devotion"
   - "desc": "Thalamra can see normally in darkness, both magical and nonmagical, out\
       \ to a distance of 120 feet."
@@ -65,8 +63,8 @@ Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late 
   - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one creature. *Hit:*\
       \ 9 (1d10 + 4) force damage."
     "name": "Eldritch Blast (Cantrip)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 4 bludgeoning\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ bludgeoning damage."
     "name": "Unarmed Strike"
 "reactions":
   - "desc": "When Thalamra is damaged by a creature within 60 feet of her that she\
@@ -76,6 +74,6 @@ Thalamra Vanthampur is a cunning, devil-worshiping beast of a woman in her late 
     "name": "Hellish Rebuke (1st-Level Spell; 2/Day)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/duke-thalamra-vanthampur-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/duke-thalamra-vanthampur-bgdia.webp"
 ```
 ^statblock

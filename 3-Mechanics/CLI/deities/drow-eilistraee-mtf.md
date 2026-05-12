@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/nature
-aliases: 
-- Eilistraee
+aliases:
+- "Eilistraee"
 ---
 # Eilistraee
 *Source: Mordenkainen's Tome of Foes p. 56* 

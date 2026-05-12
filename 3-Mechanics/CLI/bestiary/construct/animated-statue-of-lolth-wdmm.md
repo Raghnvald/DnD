@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Statue of Lolth
+- "Animated Statue of Lolth"
 ---
-# [Animated Statue of Lolth](3-Mechanics\CLI\bestiary\construct/animated-statue-of-lolth-wdmm.md)
+# [Animated Statue of Lolth](3-Mechanics/CLI/bestiary/construct/animated-statue-of-lolth-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 142*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "11"
 "traits":
@@ -53,8 +56,8 @@ aliases:
 "actions":
   - "desc": "The statue makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The statue targets one or more creatures it can see within 10 feet of\
       \ it. Each target must make a DC 17 Wisdom saving throw against this magic.\
@@ -66,6 +69,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-statue-of-lolth-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-statue-of-lolth-wdmm.webp"
 ```
 ^statblock

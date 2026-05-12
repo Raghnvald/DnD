@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Blue Dragon
+- "Ancient Blue Dragon"
 ---
-# [Ancient Blue Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-blue-dragon-xmm.md)
+# [Ancient Blue Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ancient blue dragons think beyond dominating groups of short-lived servants. Instead, they seek to claim their places above other dragons and their world's most powerful inhabitants. If world domination seems too tedious or cliché, these dragons might seek to seize control of extraplanar realms, multi-world empires, or forces of reality—like life, storms, or time itself.
@@ -24,7 +24,7 @@ Ancient blue dragons think beyond dominating groups of short-lived servants. Ins
 *Dragons of Tyranny and Tempests*
 
 - **Habitat.** Desert  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Arrogant and imperious, blue dragons are chromatic dragons that crave control and collect followers like other dragons hoard treasure. They seek to transform their territories into empires, domains to be feared by nations.
 
@@ -58,12 +58,12 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
   - "dexterity": !!int "7"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "23"
@@ -72,43 +72,43 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md)\
+      \ use of Spellcasting to cast [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md)\
       \ (level 3 version)."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +16, reach 15 ft. *Hit:* 18 (2d8 + 9) Slashing damage\
-      \ plus 11 (2d10) Lightning damage."
+  - "desc": "*Melee Attack Roll:* +16, reach 15 ft. *Hit:* 18 (2d8 + 9) Slashing\
+      \ damage plus 11 (2d10) Lightning damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 23, each creature in a 120-foot-long, 10-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
       \ 88 (16d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md)\
-      \ (level 3 version)\n\n**1/day each:** [Scrying](/3-Mechanics/CLI/spells/scrying-xphb.md),\
-      \ [Sending](/3-Mechanics/CLI/spells/sending-xphb.md)"
+      \ will:** [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md)\
+      \ (level 3 version)\n\n**1/day each:** [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md),\
+      \ [Sending](3-Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing an adult or ancient blue dragon's lair is changed\
       \ by its presence, creating the following effects:\n\n- **Sinkholes.** Sinkholes\
       \ form more frequently in the area within 1 mile of the lair. Whenever a creature\
-      \ in that area other than the dragon and its allies finishes a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md),\
+      \ in that area other than the dragon and its allies finishes a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md),\
       \ roll 1d20. On a 1, a sinkhole opens beneath the creature, and the creature\
       \ must succeed on a DC 15 Dexterity saving throw or fall 2d4 × 10 feet into\
       \ the sinkhole.  \n- **Spiteful Storms.** Dust devils and thunderstorms rage\
-      \ within 1 mile of the lair. The area is [Lightly Obscured](/3-Mechanics/CLI/variant-rules/lightly-obscured-xphb.md).\
+      \ within 1 mile of the lair. The area is [Lightly Obscured](3-Mechanics/CLI/rules/variant-rules/lightly-obscured-xphb.md).\
       \  \n\nIf the dragon dies or moves its lair elsewhere, these effects end immediately."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3 (4 in Lair). Immediately after\
   \ another creature's turn, the dragon can expend a use to take one of the following\
   \ actions. The dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-      \ on itself, and it can fly up to half its [Fly Speed](/3-Mechanics/CLI/variant-rules/fly-speed-xphb.md).\
+  - "desc": "The dragon uses Spellcasting to cast [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ on itself, and it can fly up to half its [Fly Speed](3-Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md).\
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Cloaked Flight"
-  - "desc": "The dragon uses Spellcasting to cast [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md)\
       \ (level 3 version). The dragon can't take this action again until the start\
       \ of its next turn."
     "name": "Sonic Boom"
@@ -116,7 +116,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
     "name": "Tail Swipe"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-blue-dragon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-blue-dragon-xmm.webp"
 ```
 ^statblock
 

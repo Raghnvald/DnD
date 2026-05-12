@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ezmerelda d'Avenir
+- "Ezmerelda d'Avenir"
 ---
-# [Ezmerelda d'Avenir](3-Mechanics\CLI\bestiary\npc/ezmerelda-davenir-cos.md)
+# [Ezmerelda d'Avenir](3-Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos.md)
 *Source: Curse of Strahd p. 231*  
 
 Ezmerelda d'Avenir, a Vistana, is the protégé of Rudolph van Richten - despite the fact that her first encounter with the vampire hunter was anything but pleasant.
@@ -41,7 +41,7 @@ While in the company of a Vistani caravan, Ezmerelda heard a rumor that Rudolph 
 
 ## Tarokka Deck
 
-Ezmerelda keeps a [deck of tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-cos.md) in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
+Ezmerelda keeps a [deck of tarokka cards](3-Mechanics/CLI/decks/tarokka-deck-cos.md) in her wagon (chapter 11, area V1). Although the cards aren't magical, Ezmerelda can use them to perform a card reading for the characters (see chapter 1), like the one that can be performed by Madam Eva.
 
 ## Ezmerelda d'Avenir's Traits
 
@@ -64,7 +64,7 @@ Ezmerelda keeps a [deck of tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-co
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "17"
-"ac_class": "[+1 studded leather armor](/3-Mechanics/CLI/items/1-armor-xdmg.md)"
+"ac_class": "[+1 studded leather armor](3-Mechanics/CLI/items/1-armor.md)"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "modifier": !!int "4"
@@ -79,78 +79,76 @@ Ezmerelda keeps a [deck of tarokka cards](/3-Mechanics/CLI/decks/tarokka-deck-co
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+6"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+9"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+3"
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "Medicine"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+6"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "Sleight of Hand"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+6"
+"gear":
+  - "[+1 handaxe](3-Mechanics/CLI/items/1-weapon.md)"
+  - "[+1 rapier](3-Mechanics/CLI/items/1-weapon.md)"
+  - "silvered shortsword"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish"
 "cr": "8"
 "traits":
   - "desc": "Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Ezmerelda has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
-      \ level (4 slots):** [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
-      \ [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md)\n\
-      \n**2nd level (3 slots):** [darkvision](/3-Mechanics/CLI/spells/darkvision-xphb.md),\
-      \ [knock](/3-Mechanics/CLI/spells/knock-xphb.md), [mirror image](/3-Mechanics/CLI/spells/mirror-image-xphb.md)\n\
-      \n**3rd level (3 slots):** [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
-      \ [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [magic circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md)\n\
-      \n**4th level (1 slots):** [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** fire bolt, light, mage\
+      \ hand, prestidigitation\n\n**1st level (4 slots):** protection from evil and\
+      \ good, magic missile, shield\n\n**2nd level (3 slots):** darkvision, knock,\
+      \ mirror image\n\n**3rd level (3 slots):** clairvoyance, lightning bolt, magic\
+      \ circle\n\n**4th level (1 slots):** greater invisibility"
     "name": "Spellcasting"
   - "desc": "In addition to her magic armor and weapons, Ezmerelda has two [potions\
-      \ of greater healing](/3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md),\
-      \ six [vials of holy water](/3-Mechanics/CLI/items/holy-water-xphb.md), and\
-      \ three wooden stakes."
+      \ of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing.md), six\
+      \ vials of holy water, and three wooden stakes."
     "name": "Special Equipment"
 "actions":
   - "desc": "Ezmerelda makes three attacks: two with her +1 rapier and one with her\
       \ +1 handaxe or her silvered shortsword."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage."
     "name": "Rapier +1"
   - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 6 (1d6 + 3) slashing damage."
     "name": "Handaxe +1"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Silvered Shortsword"
   - "desc": "Ezmerelda targets one creature that she can see within 30 feet of her.\
       \ The target must succeed on a DC 14 Wisdom saving throw or be cursed. While\
       \ cursed, the target has vulnerability to one type of damage of Ezmerelda's\
-      \ choice. The curse lasts until ended with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell,\
-      \ or similar magic. When the curse ends, Ezmerelda takes 3d6 psychic damage."
+      \ choice. The curse lasts until ended with a greater restoration spell, a remove\
+      \ curse spell, or similar magic. When the curse ends, Ezmerelda takes 3d6\
+      \ psychic damage."
     "name": "Curse (Recharges after a Long Rest)"
   - "desc": "Ezmerelda targets one creature that she can see within 10 feet of her\
       \ and casts one of the following spells on the target (save DC 14), requiring\
       \ neither somatic nor material components to do so: animal friendship, charm\
       \ person, or hold person. If the target succeeds on the initial saving throw,\
-      \ Ezmerelda is [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until the end\
-      \ of her next turn. Once a target succeeds on a saving throw against this effect,\
-      \ it is immune to the Evil Eye power of all Vistani for 24 hours."
+      \ Ezmerelda is blinded until the end of her next turn. Once a target succeeds\
+      \ on a saving throw against this effect, it is immune to the Evil Eye power\
+      \ of all Vistani for 24 hours."
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ezmerelda-davenir-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ezmerelda-davenir-cos.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undercity Medusa
+- "Undercity Medusa"
 ---
-# [Undercity Medusa](3-Mechanics\CLI\bestiary\monstrosity/undercity-medusa-ggr.md)
+# [Undercity Medusa](3-Mechanics/CLI/bestiary/monstrosity/undercity-medusa-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 222*  
 
 The medusas of Ravnica, often called gorgons, are a monstrous race of creatures that appear superficially similar to human women. In place of hair, a gorgon has a writhing mass of black, serpentine cables, and its hands are scaly claws.
@@ -42,31 +42,28 @@ Not all gorgons are so ambitious; some prefer to simply stalk the endless shadow
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Elvish"
 "cr": "6"
 "traits":
   - "desc": "The medusa's innate spellcasting ability is Intelligence (spell save\
       \ DC 14). The medusa can innately cast the following spells, requiring no material\
-      \ components:\n\n**1/day each:** [expeditious retreat](/3-Mechanics/CLI/spells/expeditious-retreat-xphb.md),\
-      \ [fog cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md)"
+      \ components:\n\n**1/day each:** expeditious retreat, fog cloud, misty step"
     "name": "Innate Spellcasting"
   - "desc": "The medusa has advantage on saving throws against spells and other magical\
       \ effects."
     "name": "Magic Resistance"
   - "desc": "During the first round of combat, the medusa has advantage on attack\
-      \ rolls against any creature that is [surprised](/3-Mechanics/CLI/conditions.md#Surprised),\
-      \ and it deals an extra 10 (3d6) damage each time it hits such a creature with\
-      \ an attack."
+      \ rolls against any creature that is surprised, and it deals an extra 10 (3d6)\
+      \ damage each time it hits such a creature with an attack."
     "name": "Surprise Attack"
 "actions":
   - "desc": "The medusa makes two claw attacks. It can also use Petrifying Gaze before\
@@ -78,16 +75,14 @@ Not all gorgons are so ambitious; some prefer to simply stalk the endless shadow
   - "desc": "The medusa fixes its gaze on one creature within 60 feet of it that it\
       \ can see and that can see its eyes. The target must make a DC 14 Constitution\
       \ saving throw. If the saving throw fails by 5 or more, the creature is instantly\
-      \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified). Otherwise, a creature\
-      \ that fails the save begins to turn to stone and is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
-      \ The [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature must\
-      \ repeat the saving throw at the end of its next turn, becoming [petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
-      \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell or similar magic."
+      \ petrified. Otherwise, a creature that fails the save begins to turn to stone\
+      \ and is restrained. The restrained creature must repeat the saving throw at\
+      \ the end of its next turn, becoming petrified on a failure or ending the effect\
+      \ on a success. The petrification lasts until the creature is freed by a greater\
+      \ restoration spell or similar magic."
     "name": "Petrifying Gaze"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/undercity-medusa-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/undercity-medusa-ggr.webp"
 ```
 ^statblock

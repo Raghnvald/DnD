@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fist of Bane
+- "Fist of Bane"
 ---
-# [Fist of Bane](3-Mechanics\CLI\bestiary\humanoid/fist-of-bane-bgdia.md)
+# [Fist of Bane](3-Mechanics/CLI/bestiary/humanoid/fist-of-bane-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 232*  
 
 Bane's devoted followers are warriors who seek to rule through martial strength and intimidation, cruel tyrants who use threats and gifts as needed to ensure loyalty. They enslave those too weak to resist them and shower the strong with gifts and promises of power to turn them into loyal vassals.
@@ -36,7 +36,7 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "chain mail, shield"
 "hp": !!int "22"
 "hit_dice": "4d8 + 4"
 "modifier": !!int "0"
@@ -48,7 +48,10 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
   - !!int "12"
   - !!int "11"
 "speed": "30 ft."
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "frightened"
+"gear":
+  - "longbow"
+  - "mace"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "1/2"
@@ -57,14 +60,14 @@ Bane's cultists operate according to strict military hierarchies. The lowest ran
       \ made during combat."
     "name": "Tactical Discipline"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage."
     "name": "Mace"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 150/600 ft., one target. *Hit:*\
       \ 4 (1d8) piercing damage."
     "name": "Longbow"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/fist-of-bane-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/fist-of-bane-bgdia.webp"
 ```
 ^statblock

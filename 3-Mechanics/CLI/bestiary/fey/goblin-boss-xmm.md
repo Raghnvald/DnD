@@ -17,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goblin Boss
+- "Goblin Boss"
 ---
-# [Goblin Boss](3-Mechanics\CLI\bestiary\fey/goblin-boss-xmm.md)
+# [Goblin Boss](3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md)
 *Source: Monster Manual (2024) p. 143. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Goblin bosses are often the most imaginative, disruptive, or forceful goblins. Through a combination of luck, cowardice, and callousness, these leaders avoid harm at the expense of their followers.
@@ -29,7 +29,7 @@ Goblin bosses are often the most imaginative, disruptive, or forceful goblins. T
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -61,23 +61,29 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"gear":
+  - "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shield](3-Mechanics/CLI/items/shield-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "actions":
   - "desc": "The goblin makes two attacks, using Scimitar or Shortbow in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing damage,\
-      \ plus 2 (1d4) Slashing damage if the attack roll had [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Slashing\
+      \ damage, plus 2 (1d4) Slashing damage if the attack roll had [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)."
     "name": "Scimitar"
   - "desc": "*Ranged Attack Roll:* +4, range 80/320 ft. *Hit:* 5 (1d6 + 2) Piercing\
-      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)."
+      \ damage, plus 2 (1d4) Piercing damage if the attack roll had [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)."
     "name": "Shortbow"
 "bonus_actions":
-  - "desc": "The goblin takes the Disengage or Hide action."
+  - "desc": "The goblin takes the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Nimble Escape"
 "reactions":
   - "desc": "Trigger: A creature the goblin can see makes an attack roll against it.\
@@ -87,7 +93,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
     "name": "Redirect Attack"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-boss-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/goblin-boss-xmm.webp"
 ```
 ^statblock
 

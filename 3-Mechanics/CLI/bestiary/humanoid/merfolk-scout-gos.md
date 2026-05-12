@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merfolk Scout
+- "Merfolk Scout"
 ---
-# [Merfolk Scout](3-Mechanics\CLI\bestiary\humanoid/merfolk-scout-gos.md)
+# [Merfolk Scout](3-Mechanics/CLI/bestiary/humanoid/merfolk-scout-gos.md)
 *Source: Ghosts of Saltmarsh p. 216*  
 
 ```statblock
@@ -43,6 +43,9 @@ aliases:
     "desc": "+6"
   - "name": "Survival"
     "desc": "+5"
+"gear":
+  - "longbow"
+  - "shortsword"
 "senses": "passive Perception 15"
 "languages": "any one language (usually Common), Aquan"
 "cr": "1/2"
@@ -55,11 +58,11 @@ aliases:
 "actions":
   - "desc": "The scout makes two melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/merfolk-scout-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/merfolk-scout-gos.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Coral Smasher
+- "Sahuagin Coral Smasher"
 ---
-# [Sahuagin Coral Smasher](3-Mechanics\CLI\bestiary\humanoid/sahuagin-coral-smasher-gos.md)
+# [Sahuagin Coral Smasher](3-Mechanics/CLI/bestiary/humanoid/sahuagin-coral-smasher-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  
 
 Employed as frontline brutes in The Final Enemy, coral smashers are drawn from the ranks of the strongest sahuagin warriors. Their physical strength overcomes the resistance of the water as they swing their hammers at structures and foes with equal zeal.
@@ -39,6 +39,8 @@ Employed as frontline brutes in The Final Enemy, coral smashers are drawn from t
 "skillsaves":
   - "name": "Perception"
     "desc": "+5"
+"gear":
+  - "warhammer"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Sahuagin"
 "cr": "1"
@@ -58,17 +60,17 @@ Employed as frontline brutes in The Final Enemy, coral smashers are drawn from t
   - "desc": "The coral smasher makes two attacks with its warhammer, or one attack\
       \ with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) bludgeoning damage."
     "name": "Warhammer"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) slashing damage."
     "name": "Claws"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-coral-smasher-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-coral-smasher-gos.webp"
 ```
 ^statblock

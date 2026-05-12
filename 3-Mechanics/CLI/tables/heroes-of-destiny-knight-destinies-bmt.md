@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Heroes of Destiny; Knight Destinies
+- "Heroes of Destiny; Knight Destinies"
 ---
 # Heroes of Destiny; Knight Destinies
 *Source: The Book of Many Things p. 69* 
 
 **Knight Destinies**
-
-`dice: [](heroes-of-destiny-knight-destinies-bmt.md#^knight-destinies)`
 
 | dice: 1d22 | Card | Heroic Tie |
 |------------|------|------------|

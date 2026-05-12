@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tlincalli
+- "Tlincalli"
 ---
-# [Tlincalli](3-Mechanics\CLI\bestiary\monstrosity/tlincalli-mpmm.md)
+# [Tlincalli](3-Mechanics/CLI/bestiary/monstrosity/tlincalli-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  
 
 Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.
@@ -47,41 +47,44 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Tlincalli"
 "cr": "5"
 "actions":
   - "desc": "The tlincalli makes one Longsword or Spiked Chain attack and one Sting\
       \ attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6\
-      \ (1d6 + 3) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 6 (1d6 + 3) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 11) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained), and\
-      \ the tlincalli can't use the spiked chain against another target."
+      \ the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the tlincalli can't use the spiked chain against another target."
     "name": "Spiked Chain"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d6 + 3) piercing damage plus 14 (4d6) poison damage, and the target\
+      \ must succeed on a DC 14 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ for 1 minute. If it fails the saving throw by 5 or more, the target is also\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
+      \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Sting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/tlincalli-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/tlincalli-mpmm.webp"
 ```
 ^statblock
 

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/norse
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Njord
+aliases:
+- "Njord"
 ---
 # Njord
 *Source: Player's Handbook p. 299* 

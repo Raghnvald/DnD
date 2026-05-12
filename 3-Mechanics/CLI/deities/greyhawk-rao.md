@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/peace
-aliases: 
-- Rao
+aliases:
+- "Rao"
 ---
 # Rao
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 

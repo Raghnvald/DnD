@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Insect (Spider)
+- "Giant Insect (Spider)"
 ---
-# [Giant Insect (Spider)](3-Mechanics\CLI\bestiary\beast/giant-insect-spider-xphb.md)
+# [Giant Insect (Spider)](3-Mechanics/CLI/bestiary/beast/giant-insect-spider-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
@@ -30,8 +30,8 @@ aliases:
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The insect can climb difficult surfaces, including along ceilings, without\
@@ -42,7 +42,8 @@ aliases:
       \ (round down)."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10\
-      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison damage."
+      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
+      \ damage."
     "name": "Poison Jab"
   - "desc": "*Ranged Attack Roll:* Bonus equals your spell attack modifier, range\
       \ 60 ft. *Hit:* 1d10 + 3 + the spell's level Bludgeoning damage, and the target's\

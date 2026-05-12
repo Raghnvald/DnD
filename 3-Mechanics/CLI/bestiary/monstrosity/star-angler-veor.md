@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Angler
+- "Star Angler"
 ---
-# [Star Angler](3-Mechanics\CLI\bestiary\monstrosity/star-angler-veor.md)
+# [Star Angler](3-Mechanics/CLI/bestiary/monstrosity/star-angler-veor.md)
 *Source: Vecna: Eve of Ruin p. 237*  
 
 Distantly related to scavvers, star anglers are astral predators that resemble hulking, golden anglerfish with iridescent fins and tails. A star angler lacks eyes, and its hide is dotted with bioluminescent specks, allowing it to easily blend into the vast expanse of the Astral Plane. A star angler's signature lure emits an enchanting glow that has pulled many Wildspace explorers to their demises.
@@ -36,11 +36,12 @@ Distantly related to scavvers, star anglers are astral predators that resemble h
   - !!int "6"
 "speed": "0 ft., fly 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
-"senses": "blindsight 120 ft. (can't see beyond this radius), passive Perception 15"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (can't\
+  \ see beyond this radius), passive Perception 15"
 "languages": ""
 "cr": "8"
 "traits":
@@ -60,15 +61,17 @@ Distantly related to scavvers, star anglers are astral predators that resemble h
 "bonus_actions":
   - "desc": "The star angler's lure flares with enchanting starlight, targeting one\
       \ creature the star angler can see within 120 feet of itself. The target must\
-      \ succeed on a DC 13 Wisdom saving throw or have the charmed condition until\
-      \ the start of the star angler's next turn. While charmed in this way, the target\
-      \ has the incapacitated condition and must use its movement on its turn to move\
-      \ directly toward the star angler; a charmed target doesn't avoid opportunity\
-      \ attacks, but it does avoid damaging terrain. A target can be charmed by only\
-      \ one star angler at a time."
+      \ succeed on a DC 13 Wisdom saving throw or have the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ condition until the start of the star angler's next turn. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ in this way, the target has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition and must use its movement on its turn to move directly toward the\
+      \ star angler; a [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
+      \ doesn't avoid opportunity attacks, but it does avoid damaging terrain. A target\
+      \ can be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by only one\
+      \ star angler at a time."
     "name": "Lure Charm"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/star-angler-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/star-angler-veor.webp"
 ```
 ^statblock

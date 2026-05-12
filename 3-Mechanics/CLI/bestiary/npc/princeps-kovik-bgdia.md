@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Princeps Kovik
+- "Princeps Kovik"
 ---
-# [Princeps Kovik](3-Mechanics\CLI\bestiary\npc/princeps-kovik-bgdia.md)
+# [Princeps Kovik](3-Mechanics/CLI/bestiary/npc/princeps-kovik-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 91*  
 
 ```statblock
@@ -41,9 +41,8 @@ aliases:
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"condition_immunities": "poisoned"
+"senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -55,11 +54,11 @@ aliases:
 "actions":
   - "desc": "Kovik makes two attacks with its chains."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) slashing damage. The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 14) if Kovik isn't already grappling a creature. Until this grapple\
-      \ ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ and takes 7 (2d6) piercing damage at the start of each of its turns."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if Kovik\
+      \ isn't already grappling a creature. Until this grapple ends, the target is\
+      \ restrained and takes 7 (2d6) piercing damage at the start of each of its\
+      \ turns."
     "name": "Chain"
   - "desc": "Up to four chains Kovik can see within 60 feet of it magically sprout\
       \ razor-edged barbs and animate under Kovik's control, provided that the chains\
@@ -69,18 +68,16 @@ aliases:
       \ animated chain to make one additional chain attack. An animated chain can\
       \ grapple one creature of its own but can't make attacks while grappling. An\
       \ animated chain reverts to its inanimate state if reduced to 0 hit points or\
-      \ if Kovik is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ or dies."
+      \ if Kovik is incapacitated or dies."
     "name": "Animate Chains (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "When a creature Kovik can see starts its turn within 30 feet of Kovik,\
       \ Kovik can create the illusion that it looks like one of the creature's departed\
       \ loved ones or bitter enemies. If the creature can see Kovik, it must succeed\
-      \ on a DC 14 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ until the end of its turn."
+      \ on a DC 14 Wisdom saving throw or be frightened until the end of its turn."
     "name": "Unnerving Mask"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/princeps-kovik-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/princeps-kovik-bgdia.webp"
 ```
 ^statblock

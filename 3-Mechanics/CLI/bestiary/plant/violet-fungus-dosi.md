@@ -10,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Violet Fungus
+- "Violet Fungus"
 ---
-# [Violet Fungus](3-Mechanics\CLI\bestiary\plant/violet-fungus-dosi.md)
-*Source: Dragons of Stormwreck Isle p. 48, Phandelver and Below: The Shattered Obelisk*  
+# [Violet Fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus-dosi.md)
+*Source: Dragons of Stormwreck Isle p. 48*  
 
-This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `dice:2d6|noform|noparens|avg` (`2d6`) days.
+This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `2d6` days.
 
 ## Fungi
 
@@ -42,16 +42,14 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
   - !!int "3"
   - !!int "1"
 "speed": "5 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), passive Perception 6"
+"condition_immunities": "blinded, deafened, frightened"
+"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1/4"
 "traits":
   - "desc": "If the violet fungus is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the fungus\
-      \ move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
+      \ move or act, that creature must succeed on a DC 18 Intelligence (Investigation)\
       \ check to discern that the violet fungus isn't ordinary fungus."
     "name": "False Appearance"
 "actions":
@@ -62,7 +60,6 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
     "name": "Rotting Touch"
 "source":
   - "DoSI"
-  - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/violet-fungus-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/violet-fungus-dosi.webp"
 ```
 ^statblock

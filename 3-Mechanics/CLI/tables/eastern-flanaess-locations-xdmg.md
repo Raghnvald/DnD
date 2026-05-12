@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Eastern Flanaess Locations
+- "Eastern Flanaess Locations"
 ---
 # Eastern Flanaess Locations
 *Source: Dungeon Master's Guide (2024) p. 164* 

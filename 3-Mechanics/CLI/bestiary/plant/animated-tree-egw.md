@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Tree
+- "Animated Tree"
 ---
-# [Animated Tree](3-Mechanics\CLI\bestiary\plant/animated-tree-egw.md)
+# [Animated Tree](3-Mechanics/CLI/bestiary/plant/animated-tree-egw.md)
 *Source: Explorer's Guide to Wildemount p. 130*  
 
 ```statblock
@@ -47,8 +47,8 @@ aliases:
 "actions":
   - "desc": "The tree makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 16 (3d6 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
@@ -63,6 +63,6 @@ aliases:
     "name": "Animate Trees (1/Day)"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/animated-tree-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/animated-tree-egw.webp"
 ```
 ^statblock

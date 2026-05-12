@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Mantle of Spell Resistance"
 ---
 # Mantle of Spell Resistance
 *Wondrous item, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/mantle-of-spell-resistance.webp#right)
+![](3-Mechanics/CLI/items/img/mantle-of-spell-resistance.webp#right)
 
 
 You have advantage on saving throws against spells while you wear this cloak.

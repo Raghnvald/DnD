@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Acheron Blade"
 - "Acheron Blade Double-Bladed Scimitar"
 - "Acheron Blade Greatsword"
@@ -27,11 +27,11 @@ The black blade of this sword is crafted from a mysterious arcane alloy. You gai
 
 ## Dark Blessing
 
-While holding the sword, you can use an action to give yourself `dice:1d4+4|noform|noparens|avg` (`1d4 + 4`) temporary hit points. This property can't be used again until the next dusk.
+While holding the sword, you can use an action to give yourself `1d4 + 4` temporary hit points. This property can't be used again until the next dusk.
 
 ## Disheartening Strike
 
-When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition. Once you use this property, you can't do so again until the next dusk.
+When you hit a creature with an attack using this weapon, you can fill the target with unsettling dread: the target has disadvantage on the next saving throw it makes before the end of your next turn. The creature ignores this effect if it's immune to the frightened condition. Once you use this property, you can't do so again until the next dusk.
 
 **Variants**:
 - [Acheron Blade Double-Bladed Scimitar](#Acheron%20Blade%20Double-Bladed%20Scimitar)
@@ -44,13 +44,13 @@ When you hit a creature with an attack using this weapon, you can fill the targe
 ### Acheron Blade Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Acheron Blade Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Acheron Blade Longsword
@@ -58,25 +58,25 @@ When you hit a creature with an attack using this weapon, you can fill the targe
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Acheron Blade Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Acheron Blade Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Acheron Blade Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 

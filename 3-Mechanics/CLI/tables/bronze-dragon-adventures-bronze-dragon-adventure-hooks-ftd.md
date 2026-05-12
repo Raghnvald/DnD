@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
+- "Bronze Dragon Adventures; Bronze Dragon Adventure Hooks"
 ---
 # Bronze Dragon Adventures; Bronze Dragon Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 95* 
 
 **Bronze Dragon Adventure Hooks**
-
-`dice: [](bronze-dragon-adventures-bronze-dragon-adventure-hooks-ftd.md#^bronze-dragon-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/trickery
-aliases: 
-- Torog
+aliases:
+- "Torog"
 ---
 # Torog
 *Source: Explorer's Guide to Wildemount p. 28* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-torog.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-torog.webp#symbol)
 
 - **Alignment**: Neutral Evil
 - **Category**: Betrayer Gods

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; Dungeon: Maze
+- "Chamber Purpose; Dungeon: Maze"
 ---
 # Chamber Purpose; Dungeon: Maze
 *Source: Dungeon Master's Guide p. 292* 
 
 **Dungeon: Maze**
-
-`dice: [](chamber-purpose-dungeon-maze.md#^dungeon-maze)`
 
 | dice: d20 | Purpose |
 |-----------|---------|

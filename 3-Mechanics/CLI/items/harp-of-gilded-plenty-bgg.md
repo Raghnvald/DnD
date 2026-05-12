@@ -5,18 +5,19 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/instrument
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Harp of Gilded Plenty"
 ---
 # Harp of Gilded Plenty
-*Wondrous item, legendary (requires attunement)*  
+*Wondrous item, instrument, legendary (requires attunement)*  
 
 
 
 This golden harp is sculpted in the image of the god Iallanis, depicted as a young cloud giant woman. When a creature comes within 5 feet of the harp, the instrument animates and is capable of speaking, singing, and playing by itself.
 
-Whenever you attempt to attune to the harp, you must first make either a DC 15 Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check or a DC 20 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check to convince the harp that you are worthy, attuning to the harp on a success. If you fail, you can't attempt to attune to the harp again until the next dawn. Once you have successfully attuned to the harp, the harp resizes to suit you.
+Whenever you attempt to attune to the harp, you must first make either a DC 15 Charisma (Performance) check or a DC 20 Charisma (Persuasion) check to convince the harp that you are worthy, attuning to the harp on a success. If you fail, you can't attempt to attune to the harp again until the next dawn. Once you have successfully attuned to the harp, the harp resizes to suit you.
 
 ## Stalwart Song
 
@@ -24,15 +25,15 @@ Whenever you make a Charisma check while attuned to the harp, you can treat a ro
 
 ## Feast of Plenty
 
-If you spend 10 minutes playing the harp, you can cast the [heroes' feast](/3-Mechanics/CLI/spells/heroes-feast-xphb.md) spell from it. Once this property is used, it can't be used again until `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) days have passed.
+If you spend 10 minutes playing the harp, you can cast the heroes' feast spell from it. Once this property is used, it can't be used again until `1d10 + 10` days have passed.
 
 ## Soothing Melody
 
-As an action, you can use the harp to cast the [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md) spell (save DC 19). When the spell is cast using the harp, its duration increases to 1 hour, provided you maintain [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell. This property can be used five times, and it regains all uses at dawn.
+As an action, you can use the harp to cast the calm emotions spell (save DC 19). When the spell is cast using the harp, its duration increases to 1 hour, provided you maintain concentration on the spell. This property can be used five times, and it regains all uses at dawn.
 
 ## Sentience
 
-The harp is a sentient, chaotic good object with an Intelligence of 13, a Wisdom of 15, and a Charisma of 20. It has hearing and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) to a range of 120 feet.
+The harp is a sentient, chaotic good object with an Intelligence of 13, a Wisdom of 15, and a Charisma of 20. It has hearing and darkvision to a range of 120 feet.
 
 The harp can speak, read, and understand Common and Giant. It can also communicate telepathically with the creature attuned to it.
 

@@ -7,11 +7,11 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/shield/
-aliases: 
+aliases:
 - "Shield of the Blazing Dreadnought"
 ---
 # Shield of the Blazing Dreadnought
-*Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md)), legendary (requires attunement)*  
+*Armor (shield), legendary (requires attunement)*  
 
 
 - **Armor Class**: 2
@@ -31,7 +31,7 @@ As an action, you can cause the shield to flare with the cleansing fire of the g
 
 ## Shield Bash
 
-When you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of your attacks with a shield bash, targeting one creature you can see within 5 feet of yourself. The target must make a Strength saving throw (DC equals 8 + your proficiency bonus + your Strength modifier). On a failed save, the target takes `dice:3d6|noform|noparens|avg` (`3d6`) bludgeoning damage plus `dice:3d6|noform|noparens|avg` (`3d6`) fire damage and is knocked prone. On a successful save, the target takes half as much damage only. You can use Shield Bash only once per turn.
+When you take the Attack action on your turn, you can replace one of your attacks with a shield bash, targeting one creature you can see within 5 feet of yourself. The target must make a Strength saving throw (DC equals 8 + your proficiency bonus + your Strength modifier). On a failed save, the target takes `3d6` bludgeoning damage plus `3d6` fire damage and is knocked prone. On a successful save, the target takes half as much damage only. You can use Shield Bash only once per turn.
 
 Once the shield has been activated, it can't be activated again until the next dawn.
 

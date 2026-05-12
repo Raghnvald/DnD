@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Blademaster
+- "Sahuagin Blademaster"
 ---
-# [Sahuagin Blademaster](3-Mechanics\CLI\bestiary\humanoid/sahuagin-blademaster-gos.md)
+# [Sahuagin Blademaster](3-Mechanics/CLI/bestiary/humanoid/sahuagin-blademaster-gos.md)
 *Source: Ghosts of Saltmarsh p. 249*  
 
 A cunning veteran of countless campaigns, the sahuagin blademaster decorates its armor with the bones of its defeated foes. As demonstrated in The Final Enemy, sahuagin blademasters often serve as officers in the sahuagin army.
@@ -64,14 +64,14 @@ A cunning veteran of countless campaigns, the sahuagin blademaster decorates its
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d8 + 3) slashing damage."
     "name": "Wavecutter Blade"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage."
     "name": "Claws"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-blademaster-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-blademaster-gos.webp"
 ```
 ^statblock

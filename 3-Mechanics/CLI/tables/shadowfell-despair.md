@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Shadowfell Despair
+- "Shadowfell Despair"
 ---
 # Shadowfell Despair
 *Source: Dungeon Master's Guide p. 52* 
 
 **Shadowfell Despair**
-
-`dice: [](shadowfell-despair.md#^shadowfell-despair)`
 
 | dice: d6 | Effect |
 |----------|--------|

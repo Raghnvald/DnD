@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Commoner
+- "Commoner"
 ---
-# [Commoner](3-Mechanics\CLI\bestiary\humanoid/commoner-xmm.md)
+# [Commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)
 *Source: Monster Manual (2024) p. 77. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Commoner
@@ -120,20 +120,22 @@ Youngster
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "0"
 "traits":
   - "desc": "The commoner has proficiency in one skill of the DM's choice and has\
-      \ [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) whenever it\
-      \ makes an ability check using that skill."
+      \ [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) whenever\
+      \ it makes an ability check using that skill."
     "name": "Training"
 "actions":
   - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 2 (1d4) Bludgeoning damage."
     "name": "Club"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/commoner-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/commoner-xmm.webp"
 ```
 ^statblock
 

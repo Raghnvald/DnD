@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/subrace/genasi-earth
+- ttrpg-cli/spell/list/subrace/genasi-earth
 aliases:
-- Spells for Genasi (Earth)
+- "Spells for Genasi (Earth)"
 ---
 # Spells for Genasi (Earth)
 
 ## Cantrip
 
-- [Blade Ward](/3-Mechanics/CLI/spells/blade-ward-xphb.md "XPHB") as cantrip
+- [Blade Ward](3-Mechanics/CLI/spells/blade-ward.md "PHB") as cantrip
 
 ## 2nd Level
 
-- [Pass without Trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md "XPHB") as cantrip
+- [Pass without Trace](3-Mechanics/CLI/spells/pass-without-trace.md "PHB") at class level 5

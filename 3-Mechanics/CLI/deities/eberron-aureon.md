@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
-aliases: 
-- Aureon
+aliases:
+- "Aureon"
 ---
 # Aureon
 *Source: Player's Handbook p. 296* 

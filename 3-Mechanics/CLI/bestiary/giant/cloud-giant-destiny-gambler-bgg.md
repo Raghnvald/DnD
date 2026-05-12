@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant Destiny Gambler
+- "Cloud Giant Destiny Gambler"
 ---
-# [Cloud Giant Destiny Gambler](3-Mechanics\CLI\bestiary\giant/cloud-giant-destiny-gambler-bgg.md)
+# [Cloud Giant Destiny Gambler](3-Mechanics/CLI/bestiary/giant/cloud-giant-destiny-gambler-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 124*  
 
 Cloud giants rise in the ordning by amassing valuable and beautiful treasures—often by gambling. While many cloud giants are content with risking their wealth in games with each other, those who aim for the top of their ordning challenge all manner of beings in games of chance and wit. A destiny gambler is a cloud giant who has won increasingly high-stakes wagers against other giants, smaller folk, and even beings from the Outer Planes.
@@ -46,15 +46,14 @@ Years of successful wagers make destiny gamblers so confident in their ability t
   - "wisdom": !!int "9"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+18"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_immunities": "thunder"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 30 ft. (requires cloud\
-  \ rune), passive Perception 19"
+"senses": "truesight 30 ft. (requires cloud rune), passive Perception 19"
 "languages": "Common, Giant"
 "cr": "19"
 "traits":
@@ -71,28 +70,25 @@ Years of successful wagers make destiny gamblers so confident in their ability t
 "actions":
   - "desc": "The giant makes three Flying Staff attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +14 to hit, reach 10 ft. or range 30/90\
-      \ ft., one target. *Hit:* 18 (3d6 + 8) bludgeoning damage plus 16 (3d10) thunder\
-      \ damage. *Hit or Miss:* The staff magically returns to the giant's hand immediately\
-      \ after a ranged attack."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +14 to hit, reach 10 ft. or range\
+      \ 30/90 ft., one target. *Hit:* 18 (3d6 + 8) bludgeoning damage plus 16 (3d10)\
+      \ thunder damage. *Hit or Miss:* The staff magically returns to the giant's\
+      \ hand immediately after a ranged attack."
     "name": "Flying Staff"
   - "desc": "The giant magically summons a thundercloud that fills a 30-foot-radius\
       \ sphere centered on a point the giant can see within 60 feet of itself. The\
       \ cloud spreads around corners. Each creature in that area must make a DC 20\
       \ Constitution saving throw as the cloud emits a thunderous boom. On a failed\
-      \ save, a creature takes 52 (8d12) thunder damage and has the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition. On a successful save, a creature takes half as much damage only.\
-      \ The thunderclap is audible within 300 feet of the cloud's center point.\n\n\
-      The cloud's area is heavily obscured. The cloud lingers until the start of the\
-      \ giant's next turn or until a strong wind disperses it."
+      \ save, a creature takes 52 (8d12) thunder damage and has the prone condition.\
+      \ On a successful save, a creature takes half as much damage only. The thunderclap\
+      \ is audible within 300 feet of the cloud's center point.\n\nThe cloud's area\
+      \ is heavily obscured. The cloud lingers until the start of the giant's next\
+      \ turn or until a strong wind disperses it."
     "name": "Thunderous Clap (Requires Cloud Rune)"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\n**At\
-      \ will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog\
-      \ cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md), [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day\
-      \ each:** [dream](/3-Mechanics/CLI/spells/dream-xphb.md) (as an action), [gaseous\
-      \ form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md)"
+      \ will:** detect magic, fog cloud, light, minor illusion\n\n**1/day each:**\
+      \ dream (as an action), gaseous form, major image"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When the giant sees a creature within 60 feet of itself casting a spell,\
@@ -103,6 +99,6 @@ Years of successful wagers make destiny gamblers so confident in their ability t
     "name": "Negate Spell (Requires Cloud Rune)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cloud-giant-destiny-gambler-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/cloud-giant-destiny-gambler-bgg.webp"
 ```
 ^statblock

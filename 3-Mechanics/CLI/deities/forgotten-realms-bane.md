@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/forgotten-realms
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Bane
+aliases:
+- "Bane"
 ---
 # Bane
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 

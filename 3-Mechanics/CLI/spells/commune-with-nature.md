@@ -21,7 +21,7 @@ classes:
 - Paladin (Oath of the Ancients)
 - Ranger
 aliases:
-- Commune with Nature
+- "Commune with Nature"
 ---
 # Commune with Nature
 *5th-level, Divination (ritual)*  
@@ -44,6 +44,6 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 For example, you could determine the location of powerful undead in the area, the location of major sources of safe drinking water, and the location of any nearby towns.
 
-**Classes**: [Barbarian (Path of the Totem Warrior)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Barbarian (Path of the Totem Warrior)](3-Mechanics/CLI/lists/list-spells-classes-path-of-the-totem-warrior.md); [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Arctic)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 224. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

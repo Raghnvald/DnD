@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/4
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Bigby's Hand
+- "Living Bigby's Hand"
 ---
-# [Living Bigby's Hand](3-Mechanics\CLI\bestiary\construct/living-bigbys-hand-idrotf.md)
+# [Living Bigby's Hand](3-Mechanics/CLI/bestiary/construct/living-bigbys-hand-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 298*  
 
 A living Bigby's hand is a Large, hovering hand of shimmering, translucent force. It often serves as a guardian, attacking creatures that cross its path while remaining loyal to its caster.
@@ -41,14 +41,18 @@ Areas of wild magic and sites that have been ravaged by powerful eldritch forces
   - "dexterity": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned, unconscious"
-"senses": "darkvision 60 ft., passive Perception 12"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "4"
 "traits":
@@ -65,13 +69,13 @@ Areas of wild magic and sites that have been ravaged by powerful eldritch forces
     "name": "Force Fist"
   - "desc": "The living spell attempts to grab a Huge or smaller creature within 5\
       \ feet of it. The target must succeed on a DC 15 Dexterity saving throw or be\
-      \ grappled (escape DC 15). Until the grapple ends, the target takes 15 (2d6\
-      \ + 8) bludgeoning damage at the start of each of its turns. The living spell\
-      \ can grapple only one creature at a time and can't use Force Fist until the\
-      \ grapple ends."
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). Until\
+      \ the grapple ends, the target takes 15 (2d6 + 8) bludgeoning damage at the\
+      \ start of each of its turns. The living spell can grapple only one creature\
+      \ at a time and can't use Force Fist until the grapple ends."
     "name": "Grasping Hand"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/living-bigbys-hand-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/living-bigbys-hand-idrotf.webp"
 ```
 ^statblock

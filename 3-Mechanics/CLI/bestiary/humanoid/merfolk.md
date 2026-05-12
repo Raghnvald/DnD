@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merfolk
+- "Merfolk"
 ---
-# [Merfolk](3-Mechanics\CLI\bestiary\humanoid/merfolk.md)
+# [Merfolk](3-Mechanics/CLI/bestiary/humanoid/merfolk.md)
 *Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
@@ -48,8 +48,10 @@ Merfolk defend their communities with spears crafted from whatever materials the
   - !!int "12"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"
@@ -63,7 +65,7 @@ Merfolk defend their communities with spears crafted from whatever materials the
     "name": "Spear"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/merfolk.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/merfolk.webp"
 ```
 ^statblock
 

@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dryad
+- "Dryad"
 ---
-# [Dryad](3-Mechanics\CLI\bestiary\fey/dryad.md)
-*Source: Monster Manual p. 121, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Dryad](3-Mechanics/CLI/bestiary/fey/dryad.md)
+*Source: Monster Manual p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 
@@ -26,7 +26,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 ## Reclusive Fey
 
-Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be charmed.
+Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed).
 
 Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
 
@@ -40,7 +40,7 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 "type": "fey"
 "alignment": "Neutral"
 "ac": !!int "11"
-"ac_class": "16 with barkskin"
+"ac_class": "16 with [barkskin](3-Mechanics/CLI/spells/barkskin.md)"
 "hp": !!int "22"
 "hit_dice": "5d8"
 "modifier": !!int "1"
@@ -53,18 +53,23 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[club](3-Mechanics/CLI/items/club.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Elvish, Sylvan"
 "cr": "1"
 "traits":
   - "desc": "The dryad's innate spellcasting ability is Charisma (spell save DC 14).\
       \ The dryad can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** druidcraft\n\n**3/day each:** entangle, goodberry\n\n**1/day\
-      \ each:** barkskin, pass without trace, shillelagh"
+      \n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md)\n\n**3/day\
+      \ each:** [entangle](3-Mechanics/CLI/spells/entangle.md), [goodberry](3-Mechanics/CLI/spells/goodberry.md)\n\
+      \n**1/day each:** [barkskin](3-Mechanics/CLI/spells/barkskin.md), [pass without\
+      \ trace](3-Mechanics/CLI/spells/pass-without-trace.md), [shillelagh](3-Mechanics/CLI/spells/shillelagh.md)"
     "name": "Innate Spellcasting"
   - "desc": "The dryad has advantage on saving throws against spells and other magical\
       \ effects."
@@ -78,27 +83,28 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
       \ 5 feet of the second tree. Both trees must be large or bigger."
     "name": "Tree Stride"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit (+6 to hit with shillelagh), reach 5\
-      \ ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning\
+  - "desc": "*Melee Weapon Attack:* +2 to hit (+6 to hit with shillelagh), reach\
+      \ 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning\
       \ damage with shillelagh."
     "name": "Club"
   - "desc": "The dryad targets one humanoid or beast that she can see within 30 feet\
       \ of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom\
-      \ saving throw or be magically charmed. The charmed creature regards the dryad\
-      \ as a trusted friend to be heeded and protected. Although the target isn't\
-      \ under the dryad's control, it takes the dryad's requests or actions in the\
-      \ most favorable way it can.\n\nEach time the dryad or its allies do anything\
-      \ harmful to the target, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. Otherwise, the effect lasts 24 hours or until the dryad\
-      \ dies, is on a different plane of existence from the target, or ends the effect\
-      \ as a bonus action. If a target's saving throw is successful, the target is\
-      \ immune to the dryad's Fey Charm for the next 24 hours.\n\nThe dryad can have\
-      \ no more than one humanoid and up to three beasts charmed at a time."
+      \ saving throw or be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed).\
+      \ The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature regards\
+      \ the dryad as a trusted friend to be heeded and protected. Although the target\
+      \ isn't under the dryad's control, it takes the dryad's requests or actions\
+      \ in the most favorable way it can.\n\nEach time the dryad or its allies do\
+      \ anything harmful to the target, it can repeat the saving throw, ending the\
+      \ effect on itself on a success. Otherwise, the effect lasts 24 hours or until\
+      \ the dryad dies, is on a different plane of existence from the target, or ends\
+      \ the effect as a bonus action. If a target's saving throw is successful, the\
+      \ target is immune to the dryad's Fey Charm for the next 24 hours.\n\nThe dryad\
+      \ can have no more than one humanoid and up to three beasts [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ at a time."
     "name": "Fey Charm"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/dryad.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/dryad.webp"
 ```
 ^statblock
 

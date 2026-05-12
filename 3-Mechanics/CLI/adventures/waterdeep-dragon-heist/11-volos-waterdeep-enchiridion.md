@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdh
 aliases:
-- Volo's Waterdeep Enchiridion
+- "Volo's Waterdeep Enchiridion"
 ---
 # Volo's Waterdeep Enchiridion
 *Source: Waterdeep: Dragon Heist, p. 163* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/volos-waterdeep-enchiridion.webp#center)
 
-Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city—smiled over by none other than its Open Lord, Lady [Laeral Silverhand](/3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md). This chapbook will serve you well until my seminal work on the subject, Volo's Guide to Waterdeep—sadly long out of print, but now a tome prized by collectors—can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they'll soon have copies of the new edition for sale!
+Welcome, Traveler! You have in your hands the foremost and most up-to-date guide to the city—smiled over by none other than its Open Lord, Lady [Laeral Silverhand](3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md). This chapbook will serve you well until my seminal work on the subject, Volo's Guide to Waterdeep—sadly long out of print, but now a tome prized by collectors—can be updated and printed anew. Ask any broadsheet seller, innkeeper, shopkeeper, tavern owner, or bookseller if they'll soon have copies of the new edition for sale!
 
 ## Entering Waterdeep
 
@@ -50,7 +50,7 @@ But this fruitful alliance lasted less than the lifetime of a dwarf, for the emp
 
 So it was that the humans who came to the deepwater harbor found it empty and suitable for their own purposes. For more than a thousand years, folk lived and traded at the site of what would become Waterdeep, but their identities remain a mystery—with a curious exception. We know that at some point during this period, the wizard Halaster Blackcloak built his tower at the base of Mount Waterdeep and came to rule the lands around—until he, like the Melairkyn, vanished under the mountain.
 
-Various warlords later claimed the plateau's harbor as their own, but it was one known as Nimoar who is best remembered. A History of Waterdeep: Age One, The Rise of the Warlord records how Nimoar raised a wooden stockade to protect the settlement around the harbor, claiming rule over the town that by then was being called "Nimoar's Hold, the Town of Waters Deep." War between orcs and elves in lands farther north drove hordes of trolls south to claw at the fledgling city, and amid this danger, Nimoar died of old age. Many bloody struggles unfolded between local folk and [trolls](/3-Mechanics/CLI/bestiary/giant/troll.md), until the magic of a youth named Ahghairon turned the fortunes of war against the "everlasting ones, "which were destroyed or scattered. Ahghairon improved slowly in skill and power with the passage of the years, until he became a great mage. He is said to have discovered a supply of potions of longevity, or learned the art of making such, for he lived on and on, still physically in his prime for decade after decade. *A History of Waterdeep: Age Two*, The Lords' Rule Begins records that in the year 1032 DR, Ahghairon (then in his 112th winter) argued with Raurlor, who was then Warlord of Waterdeep. Raurlor wanted to use Waterdeep's acquired wealth and strength of arms to create a northern empire. Ahghairon defied him before all the people, and Raurlor ordered the mage to be chained. But when Ahghairon magically turned aside all who sought to lay hands on him, Raurlor struck at the mage with his own sword. Ahghairon then rose into the air, just out of reach, and used his magic to transmute Raurlor's blade into a hissing serpent. When the serpent struck Raurlor, he died in full view of his shocked followers.
+Various warlords later claimed the plateau's harbor as their own, but it was one known as Nimoar who is best remembered. A History of Waterdeep: Age One, The Rise of the Warlord records how Nimoar raised a wooden stockade to protect the settlement around the harbor, claiming rule over the town that by then was being called "Nimoar's Hold, the Town of Waters Deep." War between orcs and elves in lands farther north drove hordes of trolls south to claw at the fledgling city, and amid this danger, Nimoar died of old age. Many bloody struggles unfolded between local folk and [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md), until the magic of a youth named Ahghairon turned the fortunes of war against the "everlasting ones, "which were destroyed or scattered. Ahghairon improved slowly in skill and power with the passage of the years, until he became a great mage. He is said to have discovered a supply of potions of longevity, or learned the art of making such, for he lived on and on, still physically in his prime for decade after decade. *A History of Waterdeep: Age Two*, The Lords' Rule Begins records that in the year 1032 DR, Ahghairon (then in his 112th winter) argued with Raurlor, who was then Warlord of Waterdeep. Raurlor wanted to use Waterdeep's acquired wealth and strength of arms to create a northern empire. Ahghairon defied him before all the people, and Raurlor ordered the mage to be chained. But when Ahghairon magically turned aside all who sought to lay hands on him, Raurlor struck at the mage with his own sword. Ahghairon then rose into the air, just out of reach, and used his magic to transmute Raurlor's blade into a hissing serpent. When the serpent struck Raurlor, he died in full view of his shocked followers.
 
 Ahghairon then gathered the leaders of Waterdeep's armies and powerful families. While runners sought to bring them to the castle, flames roared and crackled in the empty warlord's throne at Ahghairon's bidding, so that none could sit there. Then, when the gathered host of worthies met in the audience chamber, the wizard seated himself on the flaming throne. Immediately the fires died away, leaving both the throne and Ahghairon unharmed.
 
@@ -70,15 +70,15 @@ But Ao was not omniscient, it seems, nor overly wise. The gods didn't seek out t
 
 It is no surprise, then, that Waterdeep has since attracted a steady stream of pilgrims who worship Midnight at Mystra's temple and pay homage to Kelemvor in the City of the Dead. It might surprise you, though, to learn that Waterdavians had a short-lived penchant for worshiping Ao. The Cynosure-that great marble-pillared structure on the edge of the Market, now rented out for private and public events-was built as a temple to Ao. But his worship fell from favor when all prayers to him went unanswered, and folk realized they had no idea what he stood for or who he was. You can visit the Cynosure to see sculptures and paintings of all the major participants and events in the Time of Troubles. Entrance is free to the public on any day when no event (such as a meeting of guilds, a noble's coming-of-age ball, or some such) is scheduled.
 
-In the Year of Blue Fire (1385 DR), the Spellplague gripped the world. None knew it at the time, but it has since been divined that Cyric's long hatred for Mystra boiled over and led to his murder of the goddess of magic. I was absent from the world at this time-indisposed by the force of an imprisonment spell. Elminster has since explained the events to me, but I must confess that much of what he said made little sense. It was a long lecture having something to do with stars, "crystal spheres," and "demiplanar reality mirrors." Suffice it to say, parts of our world switched with parts of another one, and magic was again disrupted.
+In the Year of Blue Fire (1385 DR), the Spellplague gripped the world. None knew it at the time, but it has since been divined that Cyric's long hatred for Mystra boiled over and led to his murder of the goddess of magic. I was absent from the world at this time-indisposed by the force of an [imprisonment](3-Mechanics/CLI/spells/imprisonment-xphb.md) spell. Elminster has since explained the events to me, but I must confess that much of what he said made little sense. It was a long lecture having something to do with stars, "crystal spheres," and "demiplanar reality mirrors." Suffice it to say, parts of our world switched with parts of another one, and magic was again disrupted.
 
 During this period, the powerful magical fields that protect and affect Waterdeep became unstable. This led to the disastrous activation of most of Waterdeep's amazing walking statues during an earthquake. In the years before, the walking statues were often hidden on the Ethereal Plane, to be called forth only in times of great peril. Many in the city doubted that such massive, sapient constructs were even real, let alone that they guarded the city invisibly. The Spellplague confirmed their existence for all to see, though, and each carved a swath of destruction through Waterdeep before it was stopped. Now the walking statues stand about the city in various states of readiness or disarray-one of the most obvious of Waterdeep's so-called splendors.
 
 After the Spellplague came the Sundering. Elf scholars insist on calling it the Second Sundering, asserting that the creation of Evermeet thousands of years ago was a similar happening. Regardless of the name you give it, the event that unfolded beginning in 1482 DR was the result of another world-called Abeir, I am told-passing again into our own. The gods were once more cast into the mortal realm, this time embodied in mortal beings known as Chosen. The old troublemaker Ao seems to be the cause of it all, though why he chose to cast down the gods was a matter of dispute even among those entities while they were with us.
 
-Apparently, all of this was foreseen by Waterdeep's legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, [Laeral Silverhand](/3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md)-now the Open Lord of Waterdeep-and a handful of others that the world was saved. According to Elminster, Ao remade the Tablets of Fate as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.
+Apparently, all of this was foreseen by Waterdeep's legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, [Laeral Silverhand](3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md)-now the Open Lord of Waterdeep-and a handful of others that the world was saved. According to Elminster, Ao remade the Tablets of Fate as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.
 
-![The Sea Maiden's Faire Parade](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/sea-maidens-faire.webp#center)
+![The Sea Maiden's Faire Parade](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/sea-maidens-faire.webp#center)
 
 ## Surviving in the City
 
@@ -92,7 +92,7 @@ Unlike in less civilized settlements, punishment for crimes in Waterdeep isn't t
 
 Waterdeep has a complex library of law and custom set by precedent, the main body of which can be read in the Code Legal. This document is available in multiple languages at the Palace of Waterdeep, and (in the Common tongue) provided on request by the magisters at the gates and in the harbor. Be aware that the Code Legal provides only an outline of typical sentences for various offenses, and magisters have broad discretion when meting out justice as they see fit. Any Masked Lord can overturn a magister's ruling, but there's rarely a Masked Lord around when you need one.
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/street-scene.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/street-scene.webp#center)
 
 ### Arms, Armor, and Combat
 
@@ -108,7 +108,7 @@ The first soldiers you see in service to the city will be the members of the Cit
 
 You can recognize any member of the City Watch by the uniform: a green-and-goldenrod doublet and a tall steel helmet. Each typically carries a long truncheon, a dagger, and a buckler. Because most citizens in Waterdeep don't bear weapons, these tools prove a more than ample deterrent to criminal activity. Members of the Watch typically don't carry crossbows or other weapons to attack at range, but running from the Watch—though it may be a time-honored tradition for local miscreants—rarely works out for newcomers to the city. I guarantee that all members of the Watch know the streets they patrol and that area's residents better than you do, even if you stay in Waterdeep for ten seasons.
 
-The City Watch has watch posts throughout the city. These stations are often off the main thoroughfares, tucked away in small courtyards or at cross streets. A watch post can be recognized by the green-and-gold lantern outside it, lit even during the day with a continual flame spell. A watch post serves as an organizational headquarters and armory. Anyone who wishes to report a crime may do so at a watch post in the event a Watch constable can't be found elsewhere. A watch post typically contains a few holding cells where people arrested for crimes can be detained until they're marched to a courthouse jail before standing trial.
+The City Watch has watch posts throughout the city. These stations are often off the main thoroughfares, tucked away in small courtyards or at cross streets. A watch post can be recognized by the green-and-gold lantern outside it, lit even during the day with a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell. A watch post serves as an organizational headquarters and armory. Anyone who wishes to report a crime may do so at a watch post in the event a Watch constable can't be found elsewhere. A watch post typically contains a few holding cells where people arrested for crimes can be detained until they're marched to a courthouse jail before standing trial.
 
 Small squads head out from the watch posts on daily and nightly rounds of the city streets, or on special assignments involving protection or investigation. A mere pair of Watch operatives might discreetly patrol in the Castle Ward; in contrast, squads of eight walk the Dock Ward, increasing to as many as a dozen at night. If Watch members spot trouble they can't handle, they blow shrill tin whistles to summon more of their members-an act that alerts nearby citizens as well.
 
@@ -145,7 +145,7 @@ Be sure to exchange taols and harbor moons before leaving the city, as their val
 
 Here are images of the city's coins, which aren't to scale.
 
-![Coins of Waterdeep](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/coins.webp#center)
+![Coins of Waterdeep](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/coins.webp#center)
 
 |    |    |
 |----|----|
@@ -174,9 +174,9 @@ Perambulating is the superior manner of experiencing the city and all its splend
 
 #### Traffic and Travel
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street.webp#center)
 
-Waterdeep is a city of broad boulevards that thrum with traffic. All day and well into the night, a bewildering melee of wagons, carts, horse and pony riders, carriages, buggies, hire-coaches, and Waterdeep's signature towering drays (further discussed below) surges through its major thoroughfares. Fortunately, most roads are flanked by paved sidewalks that give pedestrians plenty of space, and most of the widest roads have raised dividers that allow an individual crossing a street a safe space to step out of the fray and wait for traffic to pass.
+Waterdeep is a city of broad boulevards that thrum with traffic. All day and well into the night, a bewildering melee of wagons, [carts](3-Mechanics/CLI/items/cart-xphb.md), horse and pony riders, [carriages](3-Mechanics/CLI/items/carriage-xphb.md), buggies, hire-coaches, and Waterdeep's signature towering drays (further discussed below) surges through its major thoroughfares. Fortunately, most roads are flanked by paved sidewalks that give pedestrians plenty of space, and most of the widest roads have raised dividers that allow an individual crossing a street a safe space to step out of the fray and wait for traffic to pass.
 
 The city's centuries-old layout dictates its traffic patterns today. Waterdeep lies on a plateau adjacent to a long mountain that shields much of it from the sea. In the southern third of the city, where the land slopes up from the harbor, the High Road and the Way of the Dragon are the two main south-north roads. These converge both at the Waymoot near the southern gate, and in the heart of the Trades Ward where the city is at its narrowest-bounded by Castle Waterdeep, high on a spur of the mountain, and the walls of the City of the Dead. The conjoined boulevard then splits to the north, continuing as the High Road, and to the west as a boulevard called Waterdeep Way, heading toward the Palace of Waterdeep (not to be confused with Waterdeep Castle, which it passes hard by). In the middle of the city, six boulevards run north from Waterdeep Way, where they meet the road that encircles the Market. On the other side of the Market, five boulevards continue north.
 
@@ -200,7 +200,7 @@ During particularly heavy traffic and at congested areas such as the great oval 
 > 
 > Natives of the City of Splendors are notoriously slow to take offense. A Waterdavian plainly states their feelings as a warning, so that one is apt to hear "I don't find that amusing, friend," said pleasantly before real anger is shown. Some visitors misinterpret such behavior as cowardice or ignorance ("He was too stupid to realize I insulted him!"). For those who act on such misjudgments, however, surprise and regret are the usual results.
 > 
-> Most Waterdavians are also slow to take fright unless facing magic or monsters. A swaggering warrior threatening them is quite likely to be stared at calmly, or even sneered at. "The only mortals that Waterdavians fear are a few unstable wizards and the Lords," [Durnan](/3-Mechanics/CLI/bestiary/npc/durnan-wdh.md) often says to those who are surprised by the nonchalance of the Yawning Portal's regulars concerning the open entrance to Undermountain in their midst. "And only when they've incurred the wrath of said persons themselves."
+> Most Waterdavians are also slow to take fright unless facing magic or monsters. A swaggering warrior threatening them is quite likely to be stared at calmly, or even sneered at. "The only mortals that Waterdavians fear are a few unstable wizards and the Lords," [Durnan](3-Mechanics/CLI/bestiary/npc/durnan-wdh.md) often says to those who are surprised by the nonchalance of the Yawning Portal's regulars concerning the open entrance to Undermountain in their midst. "And only when they've incurred the wrath of said persons themselves."
 ^the-unflappable-waterdavian
 
 #### Drays
@@ -213,7 +213,7 @@ A fare taker stands at the back of the lower seating area to take your coin (typ
 
 If you desire to travel in relative comfort and be the master of your destination, simply give a spirited wave and shout to any hire-coach driver who has no passengers. Each of these handsome, two-wheeled black coaches comfortably seats two travelers (perhaps four if you're quite slim and very well acquainted), who ride facing the road ahead. The hire-coach's driver sits high and to the rear of the carriage, manipulating the horses by means of long reins and a short whip on a rod. The fare must be agreed upon and paid before the journey, but only rarely will the cost exceed a half-dozen shards.
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street-2.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-street-2.webp#center)
 
 #### Carriages
 
@@ -254,7 +254,7 @@ Seeking patronage from a noble without having been introduced to that person is 
 
 In the words of that quarrelsome acquaintance of mine from the Dales, "Before you strut your stuff in the chickens' preening circle, get to know the other cocks first." This colorful aphorism applies well to the affairs of nobility, because when you have interaction with a noble, you are at the same time dealing with one's entire family-as well as a network of business associates and allies. That situation can put you in a troublesome spot if you are unaware of the noble's connections.
 
-![Waterdeep at Night](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/night.webp#center)
+![Waterdeep at Night](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/night.webp#center)
 
 ### Guilds and Guild Law
 
@@ -278,7 +278,7 @@ All that said, working at a guild-related profession without being a member of t
 
 Newcomers to the city of Waterdeep are often confused by the importance that Waterdavians give to wards. In other cities, such as Baldur's Gate and Neverwinter, districts are bounded by rivers or walls. But in Waterdeep, one can traverse from ward to ward by crossing a street-a fact that offers the drivers of hire-coaches some amusement when an ignorant tourist requests a ride to an adjacent ward.
 
-Each ward has its own history, legends, and traditions based around who lived there in the past, famous or infamous events, and the uncanny things that continue to occur. For example, children (and even some adults) hop on one foot when crossing Asmagh's Alley in the Castle Ward. Why? Well, Asmagh was an apothecary who poisoned many patients, then buried them upright beneath the alley under cover of night. He was discovered, and some say that as many as eighty bodies were subsequently pulled up from holes under the alley's wide flagstones. Though this happened over a century ago, children passing through the alley still sing a song: "Hop for the hollows, hop for the dead, hop on the flagstones, hop on their heads." As you stroll down Warrior's Way or the Street of Silver, listen for the children's delighted screams and go give it a try.
+Each ward has its own history, legends, and traditions based around who lived there in the past, famous or infamous events, and the uncanny things that continue to occur. For example, children (and even some adults) hop on one foot when crossing Asmagh's Alley in the Castle Ward. Why? Well, Asmagh was an apothecary who [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) many patients, then buried them upright beneath the alley under cover of night. He was discovered, and some say that as many as eighty bodies were subsequently pulled up from holes under the alley's wide flagstones. Though this happened over a century ago, children passing through the alley still sing a song: "Hop for the hollows, hop for the dead, hop on the flagstones, hop on their heads." As you stroll down Warrior's Way or the Street of Silver, listen for the children's delighted screams and go give it a try.
 
 These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you're sure to see some version of this display of civic spirit.
 
@@ -294,7 +294,7 @@ These shared stories and traditions impart to each ward a different culture, jus
 > 
 > **"Which the greater thief?"** Tuezaera Hallowhand was a famous "lone cat" thief of Waterdeep in the 1200s DR, who disappeared suddenly and is thought to have come to a violent end. She once robbed a wizard and wrote this on his wall with a fingertip dipped in his favorite red wine: "I take things. You take freedom with your spells. Which of us is the greater thief?" Waterdavians now use this phrase in argument with one another over all kinds of matters when comparing wrongs done.
 > 
-> **"Doth thy mirror crack?" or "Hurl but think not?" or "Take but not count cost? Be nothing, then!"** [Laeral Silverhand](/3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md), then the Lady Mage of Waterdeep when she was married to Khelben "Blackstaff" Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: "If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?"
+> **"Doth thy mirror crack?" or "Hurl but think not?" or "Take but not count cost? Be nothing, then!"** [Laeral Silverhand](3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md), then the Lady Mage of Waterdeep when she was married to Khelben "Blackstaff" Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: "If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?"
 > 
 > These scornful words are remembered and used almost daily in Waterdeep even a century later.
 ^speak-like-a-native
@@ -319,7 +319,7 @@ Two parks in the Sea Ward might also be worth your time. The Shrines to Nature, 
 
 I hesitate to mention a last location in the Sea Ward, and I will not reveal where to find it, for reasons that will soon become apparent. There is a house in the Sea Ward without windows or doors. You can't see it from the street, and those who live near it will not speak of it to others. You'll know you are near it when you see blue tiles on the streets and walls leading into an alley that passes under the surrounding buildings. At night, these tiles glimmer dimly with the blue light of foxfire. More than one route leads into the Blue Alley, as this place is known, but there are precious few ways out. Most who enter don't come back. If you see blue tiles, turn around and walk away before it is too late.
 
-![Swift Justice](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/swift-justice.webp#center)
+![Swift Justice](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/swift-justice.webp#center)
 
 ### North Ward
 
@@ -366,15 +366,15 @@ Many landmarks of interest are found in this ward aside from the six walking sta
 
 Blackstaff Tower is a squat black blot in the otherwise pretty ward. Humble though the edifice might be, looking at the place for too long can give you a queasy feeling and the sense that you are being watched-almost as if the tower itself has turned an unseen and wrathful eye upon you. Perhaps you think this fanciful. Well, go and try it yourself!
 
-On the opposite end of the mountain, close to the Naval Harbor, stands [Mirt](/3-Mechanics/CLI/bestiary/npc/mirt-wdh.md)'s Mansion. Once a fortress-like and glowering tower, it has been upgraded with more delicate fashions of architecture since the return of its long-absent owner.
+On the opposite end of the mountain, close to the Naval Harbor, stands [Mirt](3-Mechanics/CLI/bestiary/npc/mirt-wdh.md)'s Mansion. Once a fortress-like and glowering tower, it has been upgraded with more delicate fashions of architecture since the return of its long-absent owner.
 
-[Mirt](/3-Mechanics/CLI/bestiary/npc/mirt-wdh.md) has quite a history with [Durnan](/3-Mechanics/CLI/bestiary/npc/durnan-wdh.md), the proprietor of the Yawning Portal. Together they descended into "the Well, "as the entrance to Undermountain was known in olden days. Waterdeep used to throw criminals in the Well, leaving them to die horribly in Undermountain's dungeons. [Durnan](/3-Mechanics/CLI/bestiary/npc/durnan-wdh.md) and [Mirt](/3-Mechanics/CLI/bestiary/npc/mirt-wdh.md) entered the dungeons of their own free will-and not only that, but returned laden with treasures. Both used magic to extend their lives, but they eventually parted ways. [Mirt](/3-Mechanics/CLI/bestiary/npc/mirt-wdh.md) kept on with a life of adventure, while [Durnan](/3-Mechanics/CLI/bestiary/npc/durnan-wdh.md) built the tavern called the Yawning Portal over the Well and now, almost two centuries later, charges coin to descend into it. Not a bad way to part fools from their money!
+[Mirt](3-Mechanics/CLI/bestiary/npc/mirt-wdh.md) has quite a history with [Durnan](3-Mechanics/CLI/bestiary/npc/durnan-wdh.md), the proprietor of the Yawning Portal. Together they descended into "the Well, "as the entrance to Undermountain was known in olden days. Waterdeep used to throw criminals in the Well, leaving them to die horribly in Undermountain's dungeons. [Durnan](3-Mechanics/CLI/bestiary/npc/durnan-wdh.md) and [Mirt](3-Mechanics/CLI/bestiary/npc/mirt-wdh.md) entered the dungeons of their own free will-and not only that, but returned laden with treasures. Both used magic to extend their lives, but they eventually parted ways. [Mirt](3-Mechanics/CLI/bestiary/npc/mirt-wdh.md) kept on with a life of adventure, while [Durnan](3-Mechanics/CLI/bestiary/npc/durnan-wdh.md) built the tavern called the Yawning Portal over the Well and now, almost two centuries later, charges coin to descend into it. Not a bad way to part fools from their money!
 
 The glorious Spires of the Morning, dedicated to Lathander, is one of Waterdeep's most beautiful temples. But it is rivaled in this ward by the Temple of the Seldarine, dedicated to all the elf gods. The journey through Mount Melody Walk, a tunnel cut through Mount Waterdeep, to New Olamn's academy of music and other arts is a wondrous daytime excursion. The Market offers a wild array of sights, smells, and sounds in which folk might lose themselves for a tenday. The Font of Knowledge is a temple to Oghma, yes, but also the city's largest public library. Titles written throughout the ages can be viewed here-under the watchful eyes of the temple's priests. In short (if I can claim this section of the enchiridion to be such), the Castle Ward offers far too many splendors to list them all here.
 
 The Castle Ward's colors are blue and purple, and its mascot is a griffon, typically depicted in gold. These borrow colors from the city's flag and reference the Griffon Cavalry, of course. Champions for the ward often come from among the ranks of the Guard, the Navy, or the Cavalry. Although such competitors have often had the advantage in races and competitions, their crowds of rabidly cheering fans are naturally much smaller than those of other wards.
 
-![The stately, clean, and well-defended Castle Ward](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/castle-ward.webp#center)
+![The stately, clean, and well-defended Castle Ward](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/castle-ward.webp#center)
 
 ### Trades Ward
 
@@ -382,7 +382,7 @@ Shopping, shopping, shopping galore! Or eating, eating, eating! Or drinking, dri
 
 This ward bustles day and night with activity, both on the street and on balcony walkways that run the length of blocks and are sometimes layered five stories high. Shop signs appear to leap out from buildings, whose sides are plastered with advertisements all vying for the attention of the eye. Glove shops, shoe shops, jewelry stores, perfumeries, flower shops, cake shops, taverns, cafés, tea shops, inns, row houses, boarding schools, offices, dance academies, grocers, pottery stores, armor vendors-as long as it's not illegal, you can find it in the Trades Ward. But if you are looking for something illegal, the Trades Ward is likely the place to get that too. Do not do so too loudly, though. The City Watch has a heavy presence in this ward, in the form of both open patrols and officers working out of uniform.
 
-As befits a place of so much business, many guilds have their halls in this ward. Of particular note is the House of Light, the hall of the Guild of Chandlers and Lamplighters. Outside the building, a wagon-sized mound of wax with hundreds of wicks is kept lit day and night, while being continually built up with adhered candles. Inside, the best works of the guild are put on display and sold, including not just candles of various colors, lamps, and chandeliers, but elaborate waxwork constructions that depict all sorts of subjects from personages of note, to dragons, to complex and abstract lattices-all represented as fantastical candles.
+As befits a place of so much business, many guilds have their halls in this ward. Of particular note is the House of Light, the hall of the Guild of Chandlers and Lamplighters. Outside the building, a wagon-sized mound of wax with hundreds of wicks is kept lit day and night, while being continually built up with adhered candles. Inside, the best works of the guild are put on display and sold, including not just candles of various colors, [lamps](3-Mechanics/CLI/items/lamp-xphb.md), and chandeliers, but elaborate waxwork constructions that depict all sorts of subjects from personages of note, to dragons, to complex and abstract lattices-all represented as fantastical candles.
 
 Magic users should be wary in the Court of the White Bull. Long ago, this plaza was a grazing area for livestock, including an albino calf that was born here. The calf's owner built the White Bull Tavern, which thrived on the spot for years and gave the area its name. You'll not find the tavern now, though. It vanished, utterly destroyed during an infamous spell battle between the archmage Thongalar the Mighty and the evil mage Shile Rauretilar and his apprentices. In the storm of magic that touched down here, Shile and his apprentices all perished and the fabric of the Weave was rent, such that Azuth, god of wizards, was forced to appear and set things right. He is said to have stitched reality and the Weave back together, but a wrinkle in the fabric remains. To this day, magic brought to bear in the Court of the White Bull sometimes goes awry, and the use of magic items and spells is forbidden in the area.
 
@@ -422,7 +422,7 @@ Those who can afford it memorialize the departed with sculptures, making the Cit
 
 One of the cemetery's most impressive attractions is the Warriors' Monument. This intricate, sixty-foot-high sculpture depicts a circle of women and men striking down trolls, orcs, hobgoblins, bugbears, and barbarians, all of which are falling backward and outward around the warriors. Above all of them, a flying griffon rider spears a skeletal knight whose breastplate bears the symbol of Myrkul, god of the dead. But this statue is also a fountain, and the wounds on these combatants gush water! Don't try to imagine it—just go see it. And see it as Waterdavians do: pack a midday feast, have a picnic, and then take a stroll through the beauty of the place.
 
-![City of the Dead](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-of-the-dead.webp#center)
+![City of the Dead](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/city-of-the-dead.webp#center)
 
 ### Outside the City Proper
 
@@ -473,7 +473,7 @@ Also notice how clean the streets are kept. This upkeep is due in large part to 
 
 Another amenity soon appreciated by visitors is Waterdeep's water system. With public fountains and wells all about the city, clean water is plentiful. Many buildings have pumps of their own to draw water from the local supply, and some even possess taps that pour out water with the twist of a knob. This convenience is made possible by the inventiveness of the Gondar, the industry of the Cellarers' and Plumbers' Guild, and the magic that Waterdeep inherited from the Illefarni elves.
 
-Waterdeep is also a city of light. continual flame spells illuminate many signs and streetlamps in the wealthier parts of the city. Elsewhere, the Guild of Chandlers and Lamplighters keeps the streets lit (excepting the Field Ward and the most dangerous areas of the Dock Ward). Not only that, but hundreds of driftglobes bob about the City of the Dead at night, departing to float over the rest of the city each morning. Such is not typical behavior for driftglobes, I assure you!
+Waterdeep is also a city of light. [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells illuminate many signs and streetlamps in the wealthier parts of the city. Elsewhere, the Guild of Chandlers and Lamplighters keeps the streets lit (excepting the Field Ward and the most dangerous areas of the Dock Ward). Not only that, but hundreds of [driftglobes](3-Mechanics/CLI/items/driftglobe-xdmg.md) bob about the City of the Dead at night, departing to float over the rest of the city each morning. Such is not typical behavior for driftglobes, I assure you!
 
 Lastly, no city in the world is as literate as Waterdeep. Oghma's priests from the Font of Knowledge offer free instruction in reading to all who desire it, and the city has over thirty publishers of broadsheets in addition to chapbook printers and book publishers. Large paper advertisements are plastered onto alley walls, and smaller ones are passed out by those hired by businesses to trumpet their services. Printed menus can be found posted in the windows of most eateries and are handed out to those who dine within. Admittedly, you'll see less reading material in the Dock Ward and the Field Ward, but this fact is notable only because of its preponderance elsewhere.
 
@@ -485,7 +485,7 @@ In both martial displays and in real battles against flying threats such as mant
 
 Riders of the Griffon Cavalry are trained to stay above the rooftops, not because they fear crashing into towers and weather vanes, but because the smell of so much horseflesh in the streets below can sometimes drive their griffons into a frenzy.
 
-![Griffon Cavalry Patrol](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/griffon-cavalry.webp#center)
+![Griffon Cavalry Patrol](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/griffon-cavalry.webp#center)
 
 ### The Walking Statues
 
@@ -499,7 +499,7 @@ This is perhaps the most famous walking statue in the city, thanks to its dramat
 
 All about the statue, climbing up its chest and on its knee and shoulders, is a tenement that carries the name "the God Catcher." The tenement's landlord is Aundra Blackcloak, an unsociable sorcerer who is rarely seen in the city except when she alights from the door carved in the floating sphere, which serves as her home. On the rare occasions when she wants to meet with city folk (typically to purchase odd substances for magical purposes), she appears unannounced on balconies or rooftops after dark. Her dealings are polite, though, and she pays fair coin. She never confides in anyone or talks about her own doings-and if anyone but she has ever seen the inside of her spherical home, they've said nothing publicly about it.
 
-![The God Catcher looming in the background](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/god-catcher.webp#center)
+![The God Catcher looming in the background](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/god-catcher.webp#center)
 
 #### The Griffon
 
@@ -511,7 +511,7 @@ For years, the only visible walking statue of Waterdeep was known simply as "the
 
 #### The Great Drunkard
 
-This walking statue stopped its rampage as it approached the Market, then fell backward and sat upon a building. When it settled, its arms fell limp at its sides and its head tilted forward onto its chest, giving the impression that it had fallen asleep. The statue's huge stone battleaxe still stands nearby, its haft angled upright and its blade half buried in the cobbles. The rubble of the crushed building was long ago rebuilt into a broad stone stair (with railings and a ramp that drunkards are often rolled down) that ascends from the cobbles to the statue's lap. That lap now holds a two-story tavern also built from the rubble, called Gralkyn's Tankard. The unconscious pose of the statue and the tavern in its lap made the name of the Great Drunkard a natural fit.
+This walking statue stopped its rampage as it approached the Market, then fell backward and sat upon a building. When it settled, its arms fell limp at its sides and its head tilted forward onto its chest, giving the impression that it had fallen asleep. The statue's huge stone battleaxe still stands nearby, its haft angled upright and its blade half buried in the cobbles. The rubble of the crushed building was long ago rebuilt into a broad stone stair (with railings and a ramp that drunkards are often rolled down) that ascends from the cobbles to the statue's lap. That lap now holds a two-story tavern also built from the rubble, called Gralkyn's Tankard. The [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) pose of the statue and the tavern in its lap made the name of the Great Drunkard a natural fit.
 
 #### The Lady Dreaming
 
@@ -519,7 +519,7 @@ This fair lady caused much chaos when she was active. The statue has the appeara
 
 #### The Honorable Knight
 
-The Honorable Knight is a statue of a male warrior in plate armor with a shield and longsword. When the walking statues stopped, it bowed to those opposing it, straightened, sheathed its sword, and doffed its shield, setting it point down on the ground and upright by its side. It then ceased motion in this position, facing southwest toward the harbor, and looking for all the world like a castle guard standing at ease. The pose it assumed led to its naming, and it is viewed with respect by the citizens of the southerly wards.
+The Honorable Knight is a statue of a male warrior in plate armor with a shield and [longsword](3-Mechanics/CLI/items/longsword-xphb.md). When the walking statues stopped, it bowed to those opposing it, straightened, sheathed its sword, and doffed its shield, setting it point down on the ground and upright by its side. It then ceased motion in this position, facing southwest toward the harbor, and looking for all the world like a castle guard standing at ease. The pose it assumed led to its naming, and it is viewed with respect by the citizens of the southerly wards.
 
 #### The Hawk Man
 
@@ -582,7 +582,7 @@ This festival has existed in a number of forms since the first trade-meets occur
 
 #### Tarsahk 1–10: Waukeentide
 
-This festival has long gathered a number of older holidays under one name, stretching those celebrations into a holiday season that lasts a tenday. Among the rituals in homage to the goddess of wealth and trade are these: **Caravance (Tarsahk 1**). This gift-giving holiday commemorates the traditional arrival of the first caravans of the season into the city. Many parents hide gifts for their offspring in their homes, telling the children that they were left by Old Carvas—a mythical peddler who arrived with the first caravan to reach Waterdeep, his wagon loaded down with toys for children to enjoy. **Goldenight (Tarsahk 5**). This festival celebrates coin and gold, with many businesses staying open all night, offering midnight sales and other promotions. Some celebrants and customers decorate themselves with gold dust and wear coins as jewelry. **Guildsmeet (Tarsahk 7**). On this holiday, guild members gather in their halls for the announcement of new policies and a celebration of business concluded for the year. These gatherings culminate in a gala festival and dance sponsored by several guilds, which lasts from dusk till dawn and overruns the Market, the Cynosure, the Field of Triumph, and all areas in between. **Leiruin (Tarsahk 10**). In times long past, Waukeen caught Leira, the goddess of illusions and deception, attempting to cheat her in a deal, and buried her under a mountain of molten gold as punishment. A commemoration of that event, Leiruin is the day for guild members to pay their annual dues and for guildmasters to meet with the Lords of Waterdeep and renew their charters for another year.
+This festival has long gathered a number of older holidays under one name, stretching those celebrations into a holiday season that lasts a tenday. Among the rituals in homage to the goddess of wealth and trade are these: **Caravance (Tarsahk 1**). This gift-giving holiday commemorates the traditional arrival of the first caravans of the season into the city. Many parents hide gifts for their offspring in their homes, telling the children that they were left by Old Carvas—a mythical peddler who arrived with the first caravan to reach Waterdeep, his wagon loaded down with toys for children to enjoy. **Goldenight (Tarsahk 5**). This festival celebrates coin and [gold](3-Mechanics/CLI/items/gold-xdmg.md), with many businesses staying open all night, offering midnight sales and other promotions. Some celebrants and customers decorate themselves with gold dust and wear coins as jewelry. **Guildsmeet (Tarsahk 7**). On this holiday, guild members gather in their halls for the announcement of new policies and a celebration of business concluded for the year. These gatherings culminate in a gala festival and dance sponsored by several guilds, which lasts from dusk till dawn and overruns the Market, the Cynosure, the Field of Triumph, and all areas in between. **Leiruin (Tarsahk 10**). In times long past, Waukeen caught Leira, the goddess of illusions and deception, attempting to cheat her in a deal, and buried her under a mountain of molten gold as punishment. A commemoration of that event, Leiruin is the day for guild members to pay their annual dues and for guildmasters to meet with the Lords of Waterdeep and renew their charters for another year.
 
 #### Mirtul 6–9: The Plowing and Running
 
@@ -628,7 +628,7 @@ On this day, the City Guard, the City Navy, and the City Watch-all in glittering
 
 The imaginative inventions of the Gondar are revealed on this day and paraded through the city. These devices range from something as humble as new cabinet hinges to massive mechanical constructs that walk or roll about. Failure is the paramour of invention, though, meaning it is a rare year when there isn't some notable disruption of the celebration. The flying chair of Marchell was one such recent oddity-a device that worked marvelously on the way up but was incapable of descending. Marchell was rescued by the Griffon Cavalry, but his flying chair drifted away and was never seen again.
 
-![Day of Wonders](/3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/day-of-wonders.webp#center)
+![Day of Wonders](3-Mechanics/CLI/adventures/waterdeep-dragon-heist/img/day-of-wonders.webp#center)
 
 #### Marpenoth 7: Stoneshar
 
@@ -670,7 +670,7 @@ Sometimes called "The Small Feast," this day of residential feasting is held in 
 
 #### Nightal 11: Howldown
 
-In honor of Malar, members of the City Guard leave the city in groups on this day to hunt down known threats to farmers and travelers, including brigands, [wolves](/3-Mechanics/CLI/bestiary/beast/wolf.md), [owlbears](/3-Mechanics/CLI/bestiary/monstrosity/owlbear.md), [ogres](/3-Mechanics/CLI/bestiary/giant/ogre.md), and trolls that haunt the roads and wilderness. These hunts typically last no longer than a tenday. During the same span of time, the City Watch engages in its own rigorous hunt for malefactors within the city walls. If you've any reason to doubt your standing in the eyes of the law, avoid Waterdeep for at least a tenday after Howldown.
+In honor of Malar, members of the City Guard leave the city in groups on this day to hunt down known threats to farmers and travelers, including brigands, [wolves](3-Mechanics/CLI/bestiary/beast/wolf-xmm.md), [owlbears](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md), [ogres](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md), and trolls that haunt the roads and wilderness. These hunts typically last no longer than a tenday. During the same span of time, the City Watch engages in its own rigorous hunt for malefactors within the city walls. If you've any reason to doubt your standing in the eyes of the law, avoid Waterdeep for at least a tenday after Howldown.
 
 With no real hunting to do of their own, the children of Waterdeep spend Howldown engaging in mock hunts of adults dressed up as monsters, and play at the killing of these predators.
 

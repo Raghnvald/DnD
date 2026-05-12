@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/war
-aliases: 
-- Moradin
+aliases:
+- "Moradin"
 ---
 # Moradin
 *Source: Explorer's Guide to Wildemount p. 24* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-moradin.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-moradin.webp#symbol)
 
 - **Alignment**: Lawful Good
 - **Category**: Prime Deities

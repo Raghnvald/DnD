@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hulil Lutan
+- "Hulil Lutan"
 ---
-# [Hulil Lutan](3-Mechanics\CLI\bestiary\npc/hulil-lutan-egw.md)
+# [Hulil Lutan](3-Mechanics/CLI/bestiary/npc/hulil-lutan-egw.md)
 *Source: Explorer's Guide to Wildemount p. 240*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Neutral Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "leather armor"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "2"
@@ -35,30 +35,26 @@ aliases:
   - !!int "14"
 "speed": "15 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+2"
 "damage_resistances": "poison"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"gear":
+  - "dagger"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "2"
 "traits":
   - "desc": "Hulil is a 4th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 11, +3 to hit with spell attacks). Hulil has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n**1st level (4 slots):** [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-      \ [inflict wounds](/3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [shield\
-      \ of faith](/3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd level\
-      \ (3 slots):** [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [spiritual\
-      \ weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
+      \n**1st level (4 slots):** command, inflict wounds, shield of faith\n\n**2nd\
+      \ level (3 slots):** hold person, spiritual weapon"
     "name": "Spellcasting"
-  - "desc": "Hulil has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "Hulil has advantage on saving throws against being charmed or frightened."
     "name": "Dark Devotion"
   - "desc": "Hulil"
     "name": "Dwarven Resilience"
@@ -70,6 +66,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hulil-lutan-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hulil-lutan-egw.webp"
 ```
 ^statblock

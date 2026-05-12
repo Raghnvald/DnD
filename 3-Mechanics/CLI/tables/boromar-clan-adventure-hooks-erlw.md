@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Boromar Clan Adventure Hooks
+- "Boromar Clan Adventure Hooks"
 ---
 # Boromar Clan Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 249* 
 
 **Boromar Clan Adventure Hooks**
-
-`dice: [](boromar-clan-adventure-hooks-erlw.md#^boromar-clan-adventure-hooks)`
 
 | dice: d4 | Adventure Hook |
 |----------|----------------|

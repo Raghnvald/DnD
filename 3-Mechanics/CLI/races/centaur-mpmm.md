@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/centaur
 aliases:
-- Centaur
+- "Centaur"
 ---
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  
-![](/3-Mechanics/CLI/races/img/centaur.webp#right)
+![](3-Mechanics/CLI/races/img/centaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -35,11 +35,11 @@ In addition, any climb that requires hands and feet is especially difficult for 
 
 ### Hooves
 
-You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals `1d6` + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Natural Affinity
 
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Nature](/3-Mechanics/CLI/skills.md#Nature), or [Survival](/3-Mechanics/CLI/skills.md#Survival).
+Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), or [Survival](3-Mechanics/CLI/rules/skills.md#Survival).
 
 ## Description
 

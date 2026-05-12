@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/goblin
 aliases:
-- Goblin
+- "Goblin"
 ---
 # Goblin
-*Source: Volo's Guide to Monsters p. 119, Explorer's Guide to Wildemount p. 174*  
-![](/3-Mechanics/CLI/races/img/goblin.webp#right)
+*Source: Volo's Guide to Monsters p. 119*  
+![](3-Mechanics/CLI/races/img/goblin.webp#right)
 
 - **Ability Scores**: dex +2 con +1
 - **Size**: Small
@@ -36,7 +36,7 @@ When you damage a creature with an attack or a spell and the creature's size is 
 
 ### Nimble Escape
 
-You can take the Disengage or Hide action as a bonus action on each of your turns.
+You can take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action on each of your turns.
 
 ### Languages
 

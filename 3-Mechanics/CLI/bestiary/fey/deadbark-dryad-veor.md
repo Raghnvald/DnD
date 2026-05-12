@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deadbark Dryad
+- "Deadbark Dryad"
 ---
-# [Deadbark Dryad](3-Mechanics\CLI\bestiary\fey/deadbark-dryad-veor.md)
+# [Deadbark Dryad](3-Mechanics/CLI/bestiary/fey/deadbark-dryad-veor.md)
 *Source: Vecna: Eve of Ruin p. 216*  
 
 When a dryad fails to protect its wilderness home from a great evil and is unable to forgive itself, the dryad might transform into a wicked Fey monster called a deadbark dryad. Such dryads relinquish any compassion they once felt for living beings and instead harbor hatred for anyone who dares to invade their rotted demesne.
@@ -45,14 +45,15 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
   - "constitution": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 18"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 18"
 "languages": "Elvish, Sylvan"
 "cr": "13"
 "traits":
@@ -71,26 +72,31 @@ Deadbark dryads are most often found on Krynn, but occasionally they are found o
   - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 120\
       \ ft., one target. *Hit:* 13 (4d4 + 3) piercing damage plus 10 (3d6) poison\
       \ damage. If the target is a creature, it must succeed on a DC 17 Constitution\
-      \ saving throw or have the poisoned condition until the start of the dryad's\
-      \ next turn."
+      \ saving throw or have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ condition until the start of the dryad's next turn."
     "name": "Poisonous Thorn"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 30 ft., one target. *Hit:* The\
-      \ target has the grappled condition (escape DC 16). Until the grapple ends,\
-      \ the target has the restrained condition, and the dryad can't use the same\
-      \ vine on another target. A creature restrained in this way takes 13 (3d8) necrotic\
-      \ damage at the start of its turn.\n\nThe dryad has six vines. Each vine can\
-      \ be attacked (AC 20; 10 hit points; immunity to poison and psychic damage).\
-      \ Destroying a vine deals no damage to the dryad, but any creature grappled\
-      \ by that vine no longer has the grappled condition. All vines immediately wither\
-      \ and disappear when the dryad is reduced to 0 hit points."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 30 ft., one target. *Hit:*\
+      \ The target has the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition (escape DC 16). Until the grapple ends, the target has the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition, and the dryad can't use the same vine on another target. A creature\
+      \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) in this way takes\
+      \ 13 (3d8) necrotic damage at the start of its turn.\n\nThe dryad has six\
+      \ vines. Each vine can be attacked (AC 20; 10 hit points; immunity to poison\
+      \ and psychic damage). Destroying a vine deals no damage to the dryad, but any\
+      \ creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by that\
+      \ vine no longer has the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition. All vines immediately wither and disappear when the dryad is reduced\
+      \ to 0 hit points."
     "name": "Sapping Vine"
   - "desc": "The dryad casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\n**At\
-      \ will:** Druidcraft\n\n**2/day each:** Pass without Trace, Spike Growth\n\n\
-      **1/day:** Dispel Magic"
+      \ will:** [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\n**2/day\
+      \ each:** [Pass without Trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md),\
+      \ [Spike Growth](3-Mechanics/CLI/spells/spike-growth-xphb.md)\n\n**1/day:**\
+      \ [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/deadbark-dryad-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/deadbark-dryad-veor.webp"
 ```
 ^statblock

@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yeti
+- "Yeti"
 ---
-# [Yeti](3-Mechanics\CLI\bestiary\monstrosity/yeti.md)
-*Source: Monster Manual p. 305, Explorer's Guide to Wildemount. Available in the Basic Rules (2014)*  
+# [Yeti](3-Mechanics/CLI/bestiary/monstrosity/yeti.md)
+*Source: Monster Manual p. 305. Available in the Basic Rules (2014)*  
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
 
@@ -62,32 +62,34 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "cold"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Yeti"
 "cr": "3"
 "traits":
   - "desc": "If the yeti takes fire damage, it has disadvantage on attack rolls and\
       \ ability checks until the end of its next turn."
     "name": "Fear of Fire"
-  - "desc": "The yeti has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The yeti has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
-  - "desc": "The yeti has advantage on Dexterity (Stealth) checks made to hide in\
-      \ snowy terrain."
+  - "desc": "The yeti has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide in snowy terrain."
     "name": "Snow Camouflage"
 "actions":
   - "desc": "The yeti can use its Chilling Gaze and makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) slashing damage plus 3 (1d6) cold damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) slashing damage plus 3 (1d6) cold damage."
     "name": "Claw"
   - "desc": "The yeti targets one creature it can see within 30 feet of it. If the\
       \ target can see the yeti, the target must succeed on a DC 13 Constitution saving\
-      \ throw against this magic or take 10 (3d6) cold damage and then be paralyzed\
+      \ throw against this magic or take 10 (3d6) cold damage and then be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for 1 minute, unless it is immune to cold damage. The target can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success. If the target's saving throw is successful, or if the effect\
@@ -96,8 +98,7 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
     "name": "Chilling Gaze"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yeti.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yeti.webp"
 ```
 ^statblock
 

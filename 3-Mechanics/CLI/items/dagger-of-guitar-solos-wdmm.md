@@ -7,16 +7,16 @@ tags:
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Dagger of Guitar Solos"
 ---
 # Dagger of Guitar Solos
-*Weapon (dagger)*  
+*Weapon ([dagger](3-Mechanics/CLI/items/dagger-xphb.md))*  
 
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: Finesse, Light, Thrown
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light), [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Cost**: 750 gp
 - **Weight**: 1.0 lbs.
 

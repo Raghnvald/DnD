@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skyjek Roc
+- "Skyjek Roc"
 ---
-# [Skyjek Roc](3-Mechanics\CLI\bestiary\monstrosity/skyjek-roc-ggr.md)
+# [Skyjek Roc](3-Mechanics/CLI/bestiary/monstrosity/skyjek-roc-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 219*  
 
 The aerial forces of the Boros Legion-skyknights who fly alongside the angels-take to the air mounted on Skyjek rocs. These avians are named for the skyknights who are also part of the Wojek League, called Skyjeks. From the backs of their rocs, these mounted soldiers carry out reconnaissance missions, bombard enemies on the ground, and engage flying foes.
@@ -27,7 +27,7 @@ Skyjek rocs are headstrong and impulsive, but their bravery makes them ideal mou
 "type": "monstrosity"
 "alignment": "Unaligned"
 "ac": !!int "15"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "breastplate"
 "hp": !!int "37"
 "hit_dice": "5d10 + 10"
 "modifier": !!int "1"
@@ -43,26 +43,25 @@ Skyjek rocs are headstrong and impulsive, but their bravery makes them ideal mou
   - "dexterity": !!int "3"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The roc has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks that rely on sight."
+  - "desc": "The roc has advantage on Wisdom (Perception) checks that rely on sight."
     "name": "Keen Sight"
 "actions":
   - "desc": "The roc makes two attacks: one with its beak and one with its talons."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage."
     "name": "Beak"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d4 + 5) slashing damage."
     "name": "Talons"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/skyjek-roc-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/skyjek-roc-ggr.webp"
 ```
 ^statblock

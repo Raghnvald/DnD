@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Magic Tattoos; Magic Tattoo Coverage
+- "Magic Tattoos; Magic Tattoo Coverage"
 ---
 # Magic Tattoos; Magic Tattoo Coverage
 *Source: Tasha's Cauldron of Everything p. 118* 

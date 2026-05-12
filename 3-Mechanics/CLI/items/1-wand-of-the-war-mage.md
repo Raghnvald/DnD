@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/wand
-aliases: 
+aliases:
 - "+1 Wand of the War Mage"
 ---
 # +1 Wand of the War Mage

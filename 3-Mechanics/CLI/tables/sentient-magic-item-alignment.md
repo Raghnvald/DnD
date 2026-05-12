@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Sentient Magic Item Alignment
+- "Sentient Magic Item Alignment"
 ---
 # Sentient Magic Item Alignment
 *Source: Dungeon Master's Guide p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 
 **Sentient Magic Item Alignment**
-
-`dice: [](sentient-magic-item-alignment.md#^sentient-magic-item-alignment)`
 
 | dice: d100 | Alignment |
 |------------|-----------|

@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
+- ttrpg-cli/compendium/src/5e/cm
 aliases:
-- Kandlekeep Dekonstruktion
+- "Kandlekeep Dekonstruktion"
 ---
 # Kandlekeep Dekonstruktion
 *Source: Candlekeep Mysteries, p. 124* 
 
-![Kandlekeep Dekonstruktion](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/085-11-001-kandlekeep-dekonstruktion.webp#center)
+![Kandlekeep Dekonstruktion](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/085-11-001-kandlekeep-dekonstruktion.webp#center)
 
 **An Adventure for 9th-level Characters**  
 **Edited by Scott Fitzgerald Gray**  
@@ -113,16 +113,16 @@ Stonky has assigned aliases to the members of the Livestock. Each alias is a com
 
 | Alias | Real Name | Notes |
 |-------|-----------|-------|
-| Alpaca Macadamia Nuts | Marci Plumpitter | Human [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md); speaks Common |
-| Chicken Peach | Baff Boltlock | Rock gnome [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) with darkvision 60 ft.; speaks Common and Gnomish |
-| Cow Cotton | Patch Varnast | Half-elf [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) with darkvision 60 ft.; speaks Common and Elvish |
-| Donkey Biscuit | Merla One-Tusk | Half-orc [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) with darkvision 60 ft.; speaks Common and Orc |
-| Duck Bean | Trop Thunderhew | Shield dwarf [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) with darkvision 60 ft.; speaks Common and Dwarvish |
-| Goat Beet | Stekk | Half-orc [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) with darkvision 60 ft.; speaks Common and Orc |
-| Horse Egg | Glynn Yamanachi | Half-elf [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) with darkvision 60 ft.; speaks Common and Elvish |
-| Pig Wheat | Neff Cunningfoot | Lightfoot halfling [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md); speaks Common and Halfling |
-| [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) | Norty | Brass dragonborn [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md); speaks Common and Draconic |
-| Sheep Sweet Corn | Yohn Blofrond | Human [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md); speaks Common |
+| Alpaca Macadamia Nuts | Marci Plumpitter | Human cultist; speaks Common |
+| Chicken Peach | Baff Boltlock | Rock gnome cultist with darkvision 60 ft.; speaks Common and Gnomish |
+| Cow Cotton | Patch Varnast | Half-elf cultist with darkvision 60 ft.; speaks Common and Elvish |
+| Donkey Biscuit | Merla One-Tusk | Half-orc cultist with darkvision 60 ft.; speaks Common and Orc |
+| Duck Bean | Trop Thunderhew | Shield dwarf cultist with darkvision 60 ft.; speaks Common and Dwarvish |
+| Goat Beet | Stekk | Half-orc cultist with darkvision 60 ft.; speaks Common and Orc |
+| Horse Egg | Glynn Yamanachi | Half-elf cultist with darkvision 60 ft.; speaks Common and Elvish |
+| Pig Wheat | Neff Cunningfoot | Lightfoot halfling cult fanatic; speaks Common and Halfling |
+| [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) | Norty | Brass dragonborn cult fanatic; speaks Common and Draconic |
+| Sheep Sweet Corn | Yohn Blofrond | Human cult fanatic; speaks Common |
 ^livestock-cult-members
 
 ## The Barn Door
@@ -153,8 +153,8 @@ All areas of the tower are lit by lanterns holding wax candles.
 The following locations are keyed to the map of the Barn Door.
 
 > [!gallery]
-> ![Map 11.1: The Barn Door](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/086-map-11-01-the-barn-door.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/087-map-11-01-the-barn-door-player.webp#gallery)
+> ![Map 11.1: The Barn Door](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/086-map-11-01-the-barn-door.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/087-map-11-01-the-barn-door-player.webp#gallery)
 
 #### B1. Library
 
@@ -167,7 +167,7 @@ The tower's front door is sealed with an arcane lock spell, the password for whi
 > Three custodians are working here, sweeping the floors: a human, a gnome, and a half-elf.
 ^31a
 
-After *Kandlekeep Dekonstruktion* was stolen from this room, Stonky ordered three of his most fanatical [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md)—Alpaca Macadamia Nuts (the human), Chicken Peach (the rock gnome), and Cow Cotton (the half-elf)—to guard the remaining books. The three of them attack intruders at once and gladly throw away their lives for Stonky's cause. Each wields their heavy broom as a weapon, using the statistics for the cultist's scimitar attack but dealing bludgeoning damage.
+After *Kandlekeep Dekonstruktion* was stolen from this room, Stonky ordered three of his most fanatical cultists—Alpaca Macadamia Nuts (the human), Chicken Peach (the rock gnome), and Cow Cotton (the half-elf)—to guard the remaining books. The three of them attack intruders at once and gladly throw away their lives for Stonky's cause. Each wields their heavy broom as a weapon, using the statistics for the cultist's scimitar attack but dealing bludgeoning damage.
 
 After the fight, or as the characters get a better look at the room during the fight, add the following:
 
@@ -192,7 +192,7 @@ A narrow staircase beyond the secret door leads down to area U1. A small wooden 
 
 ##### Stonky and Friends
 
-Five minutes before the launch, any members of the Livestock in the underlevel who haven't been defeated make their way to this chamber by way of the secret door. That includes Stonky Noptopper (a rock gnome [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md); see "Sages and Master Sages" for his stat block) and three [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (Pig Wheat, [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md), and Sheep Sweet Corn). Eager to get to their assigned spots in area B4 prior to the launch, Stonky and the cult fanatics avoid combat with any characters still exploring the tower. As he runs upstairs, Stonky shouts, "To the stars, my animals! To the stars!"
+Five minutes before the launch, any members of the Livestock in the underlevel who haven't been defeated make their way to this chamber by way of the secret door. That includes Stonky Noptopper (a rock gnome [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md); see "Sages and Master Sages" for his stat block) and three cult fanatics (Pig Wheat, [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md), and Sheep Sweet Corn). Eager to get to their assigned spots in area B4 prior to the launch, Stonky and the cult fanatics avoid combat with any characters still exploring the tower. As he runs upstairs, Stonky shouts, "To the stars, my animals! To the stars!"
 
 #### B2. Main Room
 
@@ -205,12 +205,12 @@ The larger part of the tower's second floor contains two staircases, which desce
 > The ceiling is braced by four wooden pillars, between which are set four pairs of stocky wooden chairs facing inward. Each chair is bolted to the floor and fitted with two lengths of rope. Four of the chairs have people in custodial uniforms tied to them—two half-orcs, a half-elf, and a dwarf.
 ^321
 
-Four Livestock [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) have tied themselves into the chairs in preparation for blastoff, with the ropes acting as seat belts. All four are unarmed, restrained, and unable to free themselves. They go by the names Donkey Biscuit (the first half-orc), Duck Bean (the dwarf), Goat Beet (the second half-orc), and Horse Egg (the half-elf).
+Four Livestock cultists have tied themselves into the chairs in preparation for blastoff, with the ropes acting as seat belts. All four are unarmed, restrained, and unable to free themselves. They go by the names Donkey Biscuit (the first half-orc), Duck Bean (the dwarf), Goat Beet (the second half-orc), and Horse Egg (the half-elf).
 
 Despite their helplessness, the cultists are uncooperative. They refuse to talk about why they're here, divulge Stonky's whereabouts, or shed light on his intentions. Only if magic is used to coerce them do they reveal what they know:
 
 - Stonky is planning to launch the Barn Door and all its books into space. The countdown has begun. (The cultists don't know precisely when the launch is set to occur.)  
-- Stonky and three senior members of the Livestock (Pig Wheat, [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md), and Sheep Sweet Corn) are in the underlevel, making final preparations before launch.  
+- Stonky and three senior members of the Livestock (Pig Wheat, [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md), and Sheep Sweet Corn) are in the underlevel, making final preparations before launch.  
 - A secret door hidden in a library bookcase (see area B1) conceals the only route to the tower's underlevel.  
 - The Barn Door will be launched into space by arcane devices called rockets, which are attached to the bottom of the tower.  
 
@@ -252,7 +252,7 @@ The paper is Stonky's task list, which reads as follows in Gnomish:
 
 One or more of the other books described in this adventure anthology might be found here at your discretion, having been purloined by Stonky. The remaining books are mostly dull treatises with titles that tickled the gnome's fancy. The books are arranged by color rather than some more useful system, but characters who make a quick survey of the shelves discover three tomes that warrant further examination:
 
-*Heroes' Feast: A Cookbook*. This richly illustrated book of recipes was written by a trio of culinary enthusiasts named Wyk Nenmael, Nojen Eptros, and Imrit Welachwe. Any creature that spends a short rest poring over the book's recipes gains a supernatural charm called the *charm of the heroes' feast*. This charm allows you to cast the heroes' feast spell as an action, no components required. Once used, this charm goes away. See ""Supernatural Gifts"" in the "Dungeon Master's Guide" for more information on how charms work. The book teleports to a secret vault in Candlekeep after bestowing its charm on a creature.
+*Heroes' Feast: A Cookbook*. This richly illustrated book of recipes was written by a trio of culinary enthusiasts named Wyk Nenmael, Nojen Eptros, and Imrit Welachwe. Any creature that spends a short rest poring over the book's recipes gains a supernatural charm called the [charm of the heroes' feast](3-Mechanics/CLI/rewards/charm-of-the-heroes-feast-cm.md). This charm allows you to cast the heroes' feast spell as an action, no components required. Once used, this charm goes away. See ""Supernatural Gifts"" in the "Dungeon Master's Guide" for more information on how charms work. The book teleports to a secret vault in Candlekeep after bestowing its charm on a creature.
 
 *Stonky Noptopper's Spells o' Plenty*. Stonky's fat little spellbook contains the following wizard spells: alarm, animate objects, arcane lock, banishment, chain lightning, clairvoyance, detect magic, dispel magic, fabricate, fireball, flesh to stone, fly, globe of invulnerability, glyph of warding, grease, knock, legend lore, levitate, locate creature, locate object, mage armor, planar binding, polymorph, programmed illusion, protection from evil and good, scrying, see invisibility, sending, shield, telekinesis, and true seeing.
 
@@ -277,13 +277,13 @@ Read or paraphrase the following boxed text when the characters arrive here for 
 > Chains and wheels attached to the tower's conical metal roof suggest that the strong, tightly fitting panels can be retracted, enabling the telescope's user to peer into the starry heavens on clear nights.
 ^328
 
-This observatory doubles as the control room for the rocket ship. Stonky's chair is the small one on the dais. The other three chairs are reserved for his cult fanatics, Pig Wheat, [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md), and Sheep Sweet Corn.
+This observatory doubles as the control room for the rocket ship. Stonky's chair is the small one on the dais. The other three chairs are reserved for his cult fanatics, Pig Wheat, [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md), and Sheep Sweet Corn.
 
-If anyone other than Stonky tampers with the telescope or the steering wheel, three [lightning golems](/3-Mechanics/CLI/bestiary/construct/lightning-golem-cm.md) are conjured to appear next to the dais and attack anyone who isn't Stonky or a member of the Livestock. These golems resemble humans made of crackling lightning. They use the [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) stat block but deal lightning damage instead of bludgeoning damage with their slam attacks, and they lack the Aversion to Fire trait. The golems can't leave the observatory.
+If anyone other than Stonky tampers with the telescope or the steering wheel, three [lightning golems](3-Mechanics/CLI/bestiary/construct/lightning-golem-cm.md) are conjured to appear next to the dais and attack anyone who isn't Stonky or a member of the Livestock. These golems resemble humans made of crackling lightning. They use the flesh golem stat block but deal lightning damage instead of bludgeoning damage with their slam attacks, and they lack the Aversion to Fire trait. The golems can't leave the observatory.
 
 ##### Lever
 
-Stonky has placed a glyph of warding spell on the red ruby atop the lever. Any character who inspects the lever and succeeds on a DC 16 Intelligence (Investigation) check spots the tiny, nearly invisible glyph. If any creature other than Stonky moves the lever, the glyph activates to fill the room with magical lightning. Each creature in the room must succeed on a DC 16 Dexterity saving throw, taking `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) lightning damage on a failed save, or half as much damage on a successful one. The glyph disappears once the spell is triggered, rendering the lever safe to use.
+Stonky has placed a glyph of warding spell on the red ruby atop the lever. Any character who inspects the lever and succeeds on a DC 16 Intelligence (Investigation) check spots the tiny, nearly invisible glyph. If any creature other than Stonky moves the lever, the glyph activates to fill the room with magical lightning. Each creature in the room must succeed on a DC 16 Dexterity saving throw, taking 36 (`8d8`) lightning damage on a failed save, or half as much damage on a successful one. The glyph disappears once the spell is triggered, rendering the lever safe to use.
 
 The lever can be moved to fit into one of three slots, which are labeled Coop, Shed, and Stable, all in Common. The lever is currently in the notch labeled Stable. When the countdown timer in area U7 reaches zero, the rocket reacts according to the lever's position:
 
@@ -297,7 +297,7 @@ This wheel sets the rocket's trajectory. Its glowing numerals currently read 646
 
 ## Under the Barn Door
 
-Stonky and his cult fanatics are in the process of evacuating the chambers beneath the tower, having set the Barn Door on a programmed countdown to launch. But their evacuation has been delayed by an unforeseen complication: Stonky can't find his ring of telekinesis and doesn't know where he left it. It's a race against time to find the ring before the four of them must go up to the Barn Door's observatory, secure themselves to the chairs there, and blast into space along with the rest of their cult and their collection of "priceless" books.
+Stonky and his cult fanatics are in the process of evacuating the chambers beneath the tower, having set the Barn Door on a programmed countdown to launch. But their evacuation has been delayed by an unforeseen complication: Stonky can't find his [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis.md) and doesn't know where he left it. It's a race against time to find the ring before the four of them must go up to the Barn Door's observatory, secure themselves to the chairs there, and blast into space along with the rest of their cult and their collection of "priceless" books.
 
 Before running this part of the adventure, determine how much time has elapsed since the earthquake. That tells you how much time the characters have left before the 60-minute countdown timer reaches zero. What happens then depends on the position of the lever in the observatory (area B4). See that area and the "Conclusion" section for details.
 
@@ -315,8 +315,8 @@ The Barn Door's underlevel is hewn from solid rock and has the following feature
 The following locations are keyed to the map of the underlevel.
 
 > [!gallery]
-> ![Map 11.1: Under The Barn Door](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/088-map-11-01-under-the-barn-door.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/089-map-11-01-under-the-barn-door-player.webp#gallery)
+> ![Map 11.1: Under The Barn Door](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/088-map-11-01-under-the-barn-door.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/089-map-11-01-under-the-barn-door-player.webp#gallery)
 
 #### U1. Descending Staircase
 
@@ -342,7 +342,7 @@ A four-section rocket engine is attached to the underside of the tower above thi
 > At the bottom of the stairs, a thirty-foot-diameter room opens up directly underneath the Barn Door tower. Four ten-foot-long metal cylinders protrude from the twenty-foot-high ceiling, glowing with intense heat and shedding bright embers that rain down on the floor. Four mechanical constructs resembling wolf-sized, dog-headed cockroaches march in a circle around the perimeter of the cylinders.
 ^332
 
-The constructs are four [skitterwidgets](/3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) (see the end of the adventure for their stat block). They have orders to attack anyone approaching the double doors who is not a Livestock member. They break off their attack if the characters take one or more kiddywidgets as hostages (see "Kiddywidget Nests" below). The skitterwidgets won't do anything that might harm their young.
+The constructs are four [skitterwidgets](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) (see the end of the adventure for their stat block). They have orders to attack anyone approaching the double doors who is not a Livestock member. They break off their attack if the characters take one or more kiddywidgets as hostages (see "Kiddywidget Nests" below). The skitterwidgets won't do anything that might harm their young.
 
 If the characters are eager to fight the skitterwidgets, run that combat now. Otherwise, describe the rest of the room:
 
@@ -353,7 +353,7 @@ If the characters are eager to fight the skitterwidgets, run that combat now. Ot
 
 ##### Cylinders
 
-The four metal cylinders jutting from the ceiling are rocket engines attached to the base of the Barn Door. There is 10 feet of clearance between the floor and the cylinders, which put out a lot of heat. Any creature that moves into the area beneath the cylinders for the first time on a turn or starts its turn there takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) fire damage.
+The four metal cylinders jutting from the ceiling are rocket engines attached to the base of the Barn Door. There is 10 feet of clearance between the floor and the cylinders, which put out a lot of heat. Any creature that moves into the area beneath the cylinders for the first time on a turn or starts its turn there takes 14 (`4d6`) fire damage.
 
 ##### Double Door
 
@@ -361,9 +361,9 @@ If Stonky has not yet evacuated the underlevel, the iron double door to area U3 
 
 ##### Kiddywidget Nests
 
-The fallen sections of wall collapsed when the Barn Door's rockets were test-fired, exposing cavities behind the walls. Characters who investigate find one [kiddywidget](/3-Mechanics/CLI/bestiary/construct/kiddywidget-cm.md) (see the end of the adventure for its stat block) in each cavity. These offspring of the skitterwidgets chirp loudly if disturbed by anyone other than their parents.
+The fallen sections of wall collapsed when the Barn Door's rockets were test-fired, exposing cavities behind the walls. Characters who investigate find one [kiddywidget](3-Mechanics/CLI/bestiary/construct/kiddywidget-cm.md) (see the end of the adventure for its stat block) in each cavity. These offspring of the skitterwidgets chirp loudly if disturbed by anyone other than their parents.
 
-Stonky and his cultists are unaware of the kiddywidgets, and they would be surprised to learn that skitterwidgets can procreate. Stonky would be even more surprised to find that he can't control kiddywidgets by using his ring of telekinesis. (See area U5 for more information about [Stonky's ring](/3-Mechanics/CLI/items/stonkys-ring-cm.md).)
+Stonky and his cultists are unaware of the kiddywidgets, and they would be surprised to learn that skitterwidgets can procreate. Stonky would be even more surprised to find that he can't control kiddywidgets by using his [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis.md). (See area U5 for more information about [Stonky's ring](3-Mechanics/CLI/items/stonkys-ring-cm.md).)
 
 #### U3. Unlit Hallway
 
@@ -403,15 +403,15 @@ A quick search of the room yields four sets of smith's tools. Characters who spe
 > A five-foot-diameter well enclosed by a two-foot-high stone rim stands in the center of this room. An iron lever juts up from the floor next to the well, resting in a position that points it toward the door.
 ^33e
 
-The well is 30 feet deep and contains a 10-foot-deep pool of corrosive acid that Stonky uses to dispose of malfunctioning skitterwidgets. Any creature that enters the pool of acid for the first time on a turn or that starts its turn there takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) acid damage.
+The well is 30 feet deep and contains a 10-foot-deep pool of corrosive acid that Stonky uses to dispose of malfunctioning skitterwidgets. Any creature that enters the pool of acid for the first time on a turn or that starts its turn there takes 21 (`6d6`) acid damage.
 
 Pulling the lever so that it angles away from the door causes valves to open at the bottom of the well, draining it in 1 minute. Returning the lever to its previous position seals the valves but doesn't refill the well. Once the well is emptied, it's easy to see the corroded remains of a dead skitterwidget at the bottom of it.
 
 ##### Treasure
 
-Hidden amid the acid-pitted wreckage at the bottom of the well is an undamaged ring of telekinesis that Stonky accidentally dropped while working here.
+Hidden amid the acid-pitted wreckage at the bottom of the well is an undamaged [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis.md) that Stonky accidentally dropped while working here.
 
-[Stonky's ring](/3-Mechanics/CLI/items/stonkys-ring-cm.md) doubles as the control ring for the seven [skitterwidgets](/3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) he has created (the four in area U2 and the three in area U6). Without the ring, he can't command them to do anything other than what they're programmed to do: attack intruders on sight. Any character who attunes to the ring gains control of Stonky's creations, though the skitterwidgets ignore commands spoken more than 30 feet away from them. The ring cannot control the kiddywidgets in area U2, even if they become skitterwidgets.
+[Stonky's ring](3-Mechanics/CLI/items/stonkys-ring-cm.md) doubles as the control ring for the seven [skitterwidgets](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) he has created (the four in area U2 and the three in area U6). Without the ring, he can't command them to do anything other than what they're programmed to do: attack intruders on sight. Any character who attunes to the ring gains control of Stonky's creations, though the skitterwidgets ignore commands spoken more than 30 feet away from them. The ring cannot control the kiddywidgets in area U2, even if they become skitterwidgets.
 
 A character needs to spend a short rest attuning to the ring, and a short rest is at least 1 hour long. This means that unless the countdown is delayed or aborted, the Barn Door will launch before the character attunes to the ring.
 
@@ -431,16 +431,16 @@ If Stonky's three cult fanatics have not yet been encountered (see area B1), add
 > In addition to the metal constructs, three figures in custodial uniforms—a halfling, a dragonborn, and a human—are crawling around on the floor as though searching for something.
 ^342
 
-The insectoid creatures are three [skitterwidgets](/3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) (see the end of the adventure for their stat block). They are programmed to attack intruders on sight. A character attuned to [Stonky's ring](/3-Mechanics/CLI/items/stonkys-ring-cm.md) (see area U5) can issue commands to these skitterwidgets, which follow those commands to the best of their ability.
+The insectoid creatures are three [skitterwidgets](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) (see the end of the adventure for their stat block). They are programmed to attack intruders on sight. A character attuned to [Stonky's ring](3-Mechanics/CLI/items/stonkys-ring-cm.md) (see area U5) can issue commands to these skitterwidgets, which follow those commands to the best of their ability.
 
-The figures crawling on the floor are three Livestock [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) who go by the names Pig Wheat (the halfling), [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) (the dragonborn), and Sheep Sweet Corn (the human). As a dragonborn, [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) has resistance to fire damage and the following additional action option:
+The figures crawling on the floor are three Livestock cult fanatics who go by the names Pig Wheat (the halfling), [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) (the dragonborn), and Sheep Sweet Corn (the human). As a dragonborn, [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) has resistance to fire damage and the following additional action option:
 
 > [!note] 
 > 
-> **Breath Weapon (Recharges after a Short or Long Rest).** [Ram Sugar](/3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) exhales fire in a 30-foot-long line that is 5 feet wide. Any creature in the line must make a DC 11 Dexterity saving throw, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
+> **Breath Weapon (Recharges after a Short or Long Rest).** [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md) exhales fire in a 30-foot-long line that is 5 feet wide. Any creature in the line must make a DC 11 Dexterity saving throw, taking 7 (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
 ^343
 
-The cult fanatics are trying to help Stonky find his ring of telekinesis, which he has lost. They fight alongside the skitterwidgets as soon as the characters enter this area, and they gladly throw away their lives "for Stonky!"
+The cult fanatics are trying to help Stonky find his [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis.md), which he has lost. They fight alongside the skitterwidgets as soon as the characters enter this area, and they gladly throw away their lives "for Stonky!"
 
 ##### Treasure
 
@@ -468,7 +468,7 @@ The door to this room is sealed by an arcane lock spell that members of the Live
 > This chamber contains an iron safe roughly five feet on a side and a low metal console with a slanted top. The safe's thick door stands open on its iron hinges. The console, which is securely bolted to the floor, has a countdown timer and a blinking red button built into it. Suspended above the console are four wire-frame windows, each displaying a projected image.
 ^34c
 
-Unless the characters have already encountered him (see area B1), Stonky is here. The intrepid gnome [master sage](/3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) (see "Sages and Master Sages" for his stat block) is currently crawling underneath the console, looking for his ring of telekinesis. (The ring is in area U5, but it hasn't yet occurred to Stonky to search there.)
+Unless the characters have already encountered him (see area B1), Stonky is here. The intrepid gnome [master sage](3-Mechanics/CLI/bestiary/humanoid/master-sage-cm.md) (see "Sages and Master Sages" for his stat block) is currently crawling underneath the console, looking for his [ring of telekinesis](3-Mechanics/CLI/items/ring-of-telekinesis.md). (The ring is in area U5, but it hasn't yet occurred to Stonky to search there.)
 
 If anyone knocks on the door, the distracted Stonky opens it, expecting to see his cultists on the other side. As soon as he sees the characters instead, he attacks them in a panic. See the "Stonky Noptopper" sidebar for additional guidance on how to portray him.
 
@@ -509,7 +509,7 @@ In addition to the key in his possession, Stonky carries a wand he uses as a spe
 
 These words provide clues to how the lever in area B4 works. Stonky wrote them down as a reminder to himself.
 
-![Blastoff!](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/090-11-002-blastoff.webp#center)
+![Blastoff!](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/090-11-002-blastoff.webp#center)
 
 ## Conclusion
 
@@ -517,13 +517,13 @@ Depending on what actions the characters took to affect the impending launch, th
 
 ### Blastoff!
 
-The characters can use the lever in area B4 to abort or delay the launch. If they fail to do that, you must determine when the launch occurs based on your estimation of how much time has elapsed since the earthquake. If the characters take a short rest or otherwise waste time, the Barn Door launches at the end of the 60-minute countdown. When that happens, the entire tower flies into the sky, soaring along its preset trajectory. It leaves behind a cloud of smoke large enough to engulf the entire Inner Ward of Candlekeep (treat the area as heavily obscured for 1 minute). Any creature in area U1 or area U2 takes `dice:24d10|noform|noparens|avg|text(132)` (`24d10`) fire damage from the rocket engines as the tower lifts off.
+The characters can use the lever in area B4 to abort or delay the launch. If they fail to do that, you must determine when the launch occurs based on your estimation of how much time has elapsed since the earthquake. If the characters take a short rest or otherwise waste time, the Barn Door launches at the end of the 60-minute countdown. When that happens, the entire tower flies into the sky, soaring along its preset trajectory. It leaves behind a cloud of smoke large enough to engulf the entire Inner Ward of Candlekeep (treat the area as heavily obscured for 1 minute). Any creature in area U1 or area U2 takes 132 (`24d10`) fire damage from the rocket engines as the tower lifts off.
 
-Any creatures clinging to the outside of the tower when it launches are shaken off, while those inside are borne upward at phenomenal speed. Creatures in the tower that are not tied down when it launches are thrown about, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage and falling prone at the start of each of their turns until they find some way to secure themselves.
+Any creatures clinging to the outside of the tower when it launches are shaken off, while those inside are borne upward at phenomenal speed. Creatures in the tower that are not tied down when it launches are thrown about, taking 10 (`3d6`) bludgeoning damage and falling prone at the start of each of their turns until they find some way to secure themselves.
 
-If the Barn Door's trajectory is altered enough to prevent it from reaching outer space, it crashes and explodes in a remote location of your choosing, dealing `dice:16d10|noform|noparens|avg|text(88)` (`16d10`) bludgeoning damage plus `dice:16d6|noform|noparens|avg|text(56)` (`16d6`) fire damage to each creature aboard. If it reaches space, the tower begins to orbit the planet, as magical wards kick in to provide occupants with artificial gravity and a continuous supply of air and heat.
+If the Barn Door's trajectory is altered enough to prevent it from reaching outer space, it crashes and explodes in a remote location of your choosing, dealing 88 (`16d10`) bludgeoning damage plus 56 (`16d6`) fire damage to each creature aboard. If it reaches space, the tower begins to orbit the planet, as magical wards kick in to provide occupants with artificial gravity and a continuous supply of air and heat.
 
-If the characters were inside the Barn Door for the launch and have come along for the ride, you can decide what measures might allow them to return to the world, from reprogramming the tower's controls and the rocket engines, to having a spell scroll of teleportation circle found amid Stonky's books. If Stonky and his cultists take off alone, the tower's supply of rations keeps them fed for a year, after which they turn to cannibalism.
+If the characters were inside the Barn Door for the launch and have come along for the ride, you can decide what measures might allow them to return to the world, from reprogramming the tower's controls and the rocket engines, to having a [spell scroll](3-Mechanics/CLI/items/spell-scroll.md) of teleportation circle found amid Stonky's books. If Stonky and his cultists take off alone, the tower's supply of rations keeps them fed for a year, after which they turn to cannibalism.
 
 ### Launch Delayed or Aborted
 
@@ -533,7 +533,7 @@ If the characters use the lever in area B4 to delay or shut down the launch, the
 
 If any of Stonky's skitterwidgets or their kiddywidget offspring were left to their own devices after the characters' excursion into the Barn Door, those constructs might become a problem for Candlekeep. Any pair of skitterwidgets—including any left undestroyed in area U6, which survive even if the Barn Door launches into space—can mate and give birth to kiddywidgets. Those tiny constructs soon grow to be as big as their parents, and they can make kiddywidgets of their own in turn. If the construct population isn't culled, Candlekeep might one day be overrun by the creatures.
 
-[Stonky's ring](/3-Mechanics/CLI/items/stonkys-ring-cm.md) allows a character to control his original seven [skitterwidgets](/3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) (the four in area U2 and the three in area U6). No others, including the offspring of the original skitterwidgets, can be controlled using the ring. The Avowed permit skitterwidgets under the characters' control to remain in Candlekeep, but not in the Inner Ward. Stray skitterwidgets are eventually hunted down and destroyed.
+[Stonky's ring](3-Mechanics/CLI/items/stonkys-ring-cm.md) allows a character to control his original seven [skitterwidgets](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) (the four in area U2 and the three in area U6). No others, including the offspring of the original skitterwidgets, can be controlled using the ring. The Avowed permit skitterwidgets under the characters' control to remain in Candlekeep, but not in the Inner Ward. Stray skitterwidgets are eventually hunted down and destroyed.
 
 ## New Monsters
 
@@ -543,7 +543,7 @@ This section provides stat blocks for the two new creatures encountered in the a
 
 A skitterwidget is made of metal and bears a passing resemblance to a giant dog-headed cockroach. No two skitterwidgets look exactly alike, but all are surprisingly cute.
 
-![Skitterwidget](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/091-637514193186284468.webp#center)
+![Skitterwidget](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/091-637514193186284468.webp#center)
 
 #### Language of Squeals
 
@@ -555,17 +555,17 @@ A skitterwidget that was created is bound to a magic control ring and must obey 
 
 #### Protective Parents
 
-Skitterwidgets have the ability to mate and breed, producing [kiddywidgets](/3-Mechanics/CLI/bestiary/construct/kiddywidget-cm.md) that are even cuter than their parents. A skitterwidget strives to protect nearby kiddywidgets, whether it gave birth to them or not. If it receives a command from its master that would endanger the life of one or more kiddywidgets in its care, a skitterwidget can make a DC 5 Charisma saving throw, ignoring the command and all other commands from its master for 1 minute on a success.
+Skitterwidgets have the ability to mate and breed, producing [kiddywidgets](3-Mechanics/CLI/bestiary/construct/kiddywidget-cm.md) that are even cuter than their parents. A skitterwidget strives to protect nearby kiddywidgets, whether it gave birth to them or not. If it receives a command from its master that would endanger the life of one or more kiddywidgets in its care, a skitterwidget can make a DC 5 Charisma saving throw, ignoring the command and all other commands from its master for 1 minute on a success.
 
 ### Kiddywidget
 
-A [skitterwidget](/3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) that gives birth to a kiddywidget can't procreate for `dice:3d6|noform|noparens|avg` (`3d6`) days afterward. Still, given that skitterwidgets are constructs with no natural life span, there is no telling how many kiddywidgets a pair of skitterwidgets can produce.
+A [skitterwidget](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md) that gives birth to a kiddywidget can't procreate for `3d6` days afterward. Still, given that skitterwidgets are constructs with no natural life span, there is no telling how many kiddywidgets a pair of skitterwidgets can produce.
 
-![Kiddywidget](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/092-637514193149301393.webp#center)
+![Kiddywidget](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/092-637514193149301393.webp#center)
 
 #### Growth Cycle
 
-It takes `dice:3d6|noform|noparens|avg` (`3d6`) hours for an impregnated skitterwidget to give birth to one kiddywidget. A newborn kiddywidget magically grows into a full sized skitterwidget in 10 days.
+It takes `3d6` hours for an impregnated skitterwidget to give birth to one kiddywidget. A newborn kiddywidget magically grows into a full sized skitterwidget in 10 days.
 
 #### Autonomous
 

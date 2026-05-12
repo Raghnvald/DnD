@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/pota
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/pota
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dark Tide Knight
+- "Dark Tide Knight"
 ---
-# [Dark Tide Knight](3-Mechanics\CLI\bestiary\humanoid/dark-tide-knight-pota.md)
-*Source: Princes of the Apocalypse p. 205, Storm Lord's Wrath*  
+# [Dark Tide Knight](3-Mechanics/CLI/bestiary/humanoid/dark-tide-knight-pota.md)
+*Source: Princes of the Apocalypse p. 205*  
 
 Dark Tide knights are the elite warriors of the Crushing Wave cult. By drawing upon Olhydra's dark power, they gain the ability to ride sea-creatures that normally wouldn't be suitable as mounts, and can even breathe underwater and share their mount's senses. The knights prefer to fight from or in the water, since they don't like to leave their mounts behind, but they can be fierce opponents on foot at need.
 
@@ -38,10 +38,13 @@ Unlike most other knights, Dark Tide knights disdain heavy armor, relying on the
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
+"gear":
+  - "[lance](3-Mechanics/CLI/items/lance.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "3"
@@ -52,19 +55,19 @@ Unlike most other knights, Dark Tide knights disdain heavy armor, relying on the
       \ the knight's commands. If its mount dies, the knight can train a new beast\
       \ to serve as its bonded mount, a process requiring a month."
     "name": "Bonded Mount"
-  - "desc": "The knight deals an extra 7 (2d6) damage when it hits a target with a\
-      \ weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of the knight that isn't incapacitated and the knight\
-      \ doesn't have disadvantage on the attack roll."
+  - "desc": "The knight deals an extra 7 (2d6) damage when it hits a target with\
+      \ a weapon attack and has advantage on the attack roll, or when the target is\
+      \ within 5 feet of an ally of the knight that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and the knight doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack"
 "actions":
   - "desc": "The knight makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d12 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d12 + 3) piercing damage."
     "name": "Lance"
 "reactions":
   - "desc": "When an attacker the knight can see hits it with an attack, the knight\
@@ -72,7 +75,6 @@ Unlike most other knights, Dark Tide knights disdain heavy armor, relying on the
     "name": "Uncanny Dodge"
 "source":
   - "PotA"
-  - "SLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/dark-tide-knight-pota.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/dark-tide-knight-pota.webp"
 ```
 ^statblock

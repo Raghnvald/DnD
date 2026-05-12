@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vecna the Archlich
+- "Vecna the Archlich"
 ---
-# [Vecna the Archlich](3-Mechanics\CLI\bestiary\npc/vecna-the-archlich-veor.md)
+# [Vecna the Archlich](3-Mechanics/CLI/bestiary/npc/vecna-the-archlich-veor.md)
 *Source: Vecna: Eve of Ruin p. 254*  
 
 On countless worlds, his name evokes tales of terror and cruelty: Vecna, the Undying King. Vecna, the Whispered One. Vecna, the Lord of the Rotted Tower. But Vecna had humble beginnings on the world of Oerth, where an order of wizards used him as a bootblack and scribe. He spent the better part of his childhood secretly educating himself in his masters' arts. Once Vecna learned all he could, he massacred the wizards. He then recorded his every foul thought and dream as he started to write his Book of Vile Darkness.
@@ -35,7 +35,7 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
 
 > [!note] The Book of Vile Darkness
 > 
-> While Vecna always carries the Book of Vile Darkness on his person—in fact, he fashioned his lich form to encompass the Book—he typically has no need to call upon its foul magic in battle. If the DM wishes to run a more challenging (and more complex) encounter, Vecna may call upon any of the book's abilities as appropriate.
+> While Vecna always carries the [Book of Vile Darkness](3-Mechanics/CLI/items/book-of-vile-darkness-xdmg.md) on his person—in fact, he fashioned his lich form to encompass the Book—he typically has no need to call upon its foul magic in battle. If the DM wishes to run a more challenging (and more complex) encounter, Vecna may call upon any of the book's abilities as appropriate.
 ^the-book-of-vile-darkness
 
 ```statblock
@@ -62,25 +62,28 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
   - "intelligence": !!int "14"
   - "wisdom": !!int "15"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+22"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+14"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+15"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+15"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
-"senses": "truesight 120 ft., passive Perception 25"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 25"
 "languages": "Common, Draconic, Elvish, Infernal"
 "cr": "26"
 "traits":
   - "desc": "If Vecna fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (5/Day)"
   - "desc": "Vecna carries a magic dagger named Afterthought. In the hands of anyone\
-      \ other than Vecna, Afterthought is a +2 Dagger."
+      \ other than Vecna, Afterthought is a [+2 Dagger](3-Mechanics/CLI/items/2-weapon-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "If Vecna is slain, his soul refuses to accept its fate and lives on as\
       \ a disembodied spirit that fashions a new body for itself after 1d100 years.\
@@ -92,21 +95,22 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
   - "desc": "Vecna uses Flight of the Damned (if available), Rotten Fate, or Spellcasting.\
       \ He then makes two attacks with Afterthought."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 7\
-      \ (1d4 + 5) piercing damage plus 9 (2d8) necrotic damage. If the target is a\
-      \ creature, it is afflicted by entropic magic, taking 9 (2d8) necrotic damage\
-      \ at the start of each of its turns. Immediately after taking this damage on\
-      \ its turn, the target must make a DC 20 Constitution saving throw, ending the\
-      \ effect on itself on a success. Until it succeeds on this save, the afflicted\
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 7 (1d4 + 5) piercing damage plus 9 (2d8) necrotic damage. If the target\
+      \ is a creature, it is afflicted by entropic magic, taking 9 (2d8) necrotic\
+      \ damage at the start of each of its turns. Immediately after taking this damage\
+      \ on its turn, the target must make a DC 20 Constitution saving throw, ending\
+      \ the effect on itself on a success. Until it succeeds on this save, the afflicted\
       \ target can't regain hit points."
     "name": "Afterthought"
   - "desc": "Vecna conjures a torrent of flying, spectral entities that fill a 120-foot\
       \ cone and pass through all creatures in that area before dissipating. Each\
       \ creature in that area must make a DC 22 Constitution saving throw. On a failed\
-      \ save, the creature takes 36 (8d8) necrotic damage and has the frightened condition\
-      \ for 1 minute. On a successful save, the creature takes half as much damage\
-      \ only. A frightened creature can repeat the saving throw at the end of each\
-      \ of its turns, ending the effect on itself on a success."
+      \ save, the creature takes 36 (8d8) necrotic damage and has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition for 1 minute. On a successful save, the creature takes half as much\
+      \ damage only. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Flight of the Damned (Recharge 5-6)"
   - "desc": "Vecna causes necrotic magic to engulf one creature he can see within\
       \ 120 feet of himself. The target must make a DC 22 Constitution saving throw,\
@@ -117,10 +121,16 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
     "name": "Rotten Fate"
   - "desc": "Vecna casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 22):\n\n\
-      **At will:** Animate Dead (as an action), Detect Magic, Dispel Magic, Fly, Lightning\
-      \ Bolt, Mage Hand, Prestidigitation\n\n**2/day each:** Dimension Door, Invisibility,\
-      \ Scrying (as an action)\n\n**1/day each:** Dominate Monster, Globe of Invulnerability,\
-      \ Plane Shift (self only)"
+      **At will:** [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) (as\
+      \ an action), [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Dispel\
+      \ Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
+      \ each:** [Dimension Door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md) (as an action)\n\n**1/day\
+      \ each:** [Dominate Monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [Globe of Invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Vecna teleports, along with any equipment he is wearing or carrying,\
@@ -133,8 +143,8 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
       \ casting a spell. If the spell is 4th level or lower, it fails and has no effect.\
       \ If the spell is 5th level or higher, Vecna makes an Intelligence check (DC\
       \ 10 plus the spell's level). On a successful check, the spell fails and has\
-      \ no effect. Whatever the spell's level, the caster takes 10 (3d6) psychic damage\
-      \ if the spell fails."
+      \ no effect. Whatever the spell's level, the caster takes 10 (3d6) psychic\
+      \ damage if the spell fails."
     "name": "Dread Counterspell"
   - "desc": "In response to being hit by an attack, Vecna utters a fell word, dealing\
       \ 10 (3d6) necrotic damage to the attacker, and Vecna teleports, along with\
@@ -143,6 +153,6 @@ The accompanying stat block depicts Vecna in his archlich form prior to Kas's be
     "name": "Fell Rebuke"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/vecna-the-archlich-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/vecna-the-archlich-veor.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/23
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/23
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iymrith
+- "Iymrith"
 ---
-# [Iymrith](3-Mechanics\CLI\bestiary\npc/iymrith-skt.md)
+# [Iymrith](3-Mechanics/CLI/bestiary/npc/iymrith-skt.md)
 *Source: Storm King's Thunder p. 241*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -129,12 +129,13 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
   - "wisdom": !!int "10"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "lightning"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 27"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic, Giant, Terran"
 "cr": "23"
 "traits":
@@ -144,17 +145,17 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
   - "desc": "Iymrith can use her Frightful Presence. She then makes three attacks:\
       \ one with her bite and two with her claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (2d10 + 9) piercing damage plus 11 (2d10) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d6 + 9) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d6 + 9) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18\
-      \ (2d8 + 9) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:*\
+      \ 18 (2d8 + 9) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Iymrith's choice that is within 120 feet of Iymrith\
-      \ and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened\
+      \ and aware of it must succeed on a DC 20 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Iymrith's\
@@ -165,7 +166,7 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
       \ (16d10) lightning damage on a failed save, or half as much damage on a successful\
       \ one."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "Iymrith magically polymorphs into a female [storm giant](/3-Mechanics/CLI/bestiary/giant/storm-giant.md)\
+  - "desc": "Iymrith magically polymorphs into a female [storm giant](3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)\
       \ or back into her true form. She reverts to her true form if she dies. Any\
       \ equipment she is wearing or carrying is absorbed or borne by the new form\
       \ (Iymrith's choice).\n\nIn storm giant form, Iymrith retains her alignment,\
@@ -175,26 +176,30 @@ Tiamat's most hated enemy is Bahamut the Platinum Dragon, with whom she shares c
     "name": "Change Shape"
   - "desc": "Iymrith casts one of the following spells, requiring no spell components\
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\n**1/day\
-      \ each:** detect magic, dispel magic, ice storm, stone shape, teleport\n\nWhen\
-      \ she casts her stone shape spell, Iymrith can shape the targeted stone into\
-      \ a living [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md) instead\
-      \ of altering the stone as described in the spell's description. This transformation\
-      \ is permanent and can't be reversed or dispelled."
+      \ each:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md),\
+      \ [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md), [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+      \nWhen she casts her [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\
+      \ spell, Iymrith can shape the targeted stone into a living [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md)\
+      \ instead of altering the stone as described in the spell's description. This\
+      \ transformation is permanent and can't be reversed or dispelled."
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Iymrith can expend a use to take one of the following actions. Iymrith regains\
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Iymrith makes a Wisdom (Perception) check."
+  - "desc": "Iymrith makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "Iymrith makes a tail attack."
     "name": "Tail Attack"
   - "desc": "Iymrith beats her wings. Each creature within 15 feet of Iymrith must\
       \ succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning\
-      \ damage and be knocked prone. Iymrith can then fly up to half her flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ Iymrith can then fly up to half her flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/iymrith-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/iymrith-skt.webp"
 ```
 ^statblock

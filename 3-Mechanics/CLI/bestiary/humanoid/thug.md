@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thug
+- "Thug"
 ---
-# [Thug](3-Mechanics\CLI\bestiary\humanoid/thug.md)
-*Source: Monster Manual p. 350, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Thug](3-Mechanics/CLI/bestiary/humanoid/thug.md)
+*Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
@@ -25,7 +25,7 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
 "subtype": "any race"
 "alignment": "Any Non-Good alignment"
 "ac": !!int "11"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "32"
 "hit_dice": "5d8 + 10"
 "modifier": !!int "0"
@@ -38,29 +38,31 @@ Thugs are ruthless enforcers skilled at intimidation and violence. They work for
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[mace](3-Mechanics/CLI/items/mace.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
 "traits":
   - "desc": "The thug has advantage on an attack roll against a creature if at least\
       \ one of the thug's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The thug makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) bludgeoning damage."
     "name": "Mace"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:*\
       \ 5 (1d10) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/thug.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/thug.webp"
 ```
 ^statblock
 

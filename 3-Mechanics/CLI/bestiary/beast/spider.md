@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spider
+- "Spider"
 ---
-# [Spider](3-Mechanics\CLI\bestiary\beast/spider.md)
+# [Spider](3-Mechanics/CLI/bestiary/beast/spider.md)
 *Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -33,10 +33,10 @@ aliases:
   - !!int "2"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -49,12 +49,12 @@ aliases:
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1\
-      \ piercing damage, and the target must succeed on a DC 9 Constitution saving\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 1 piercing damage, and the target must succeed on a DC 9 Constitution saving\
       \ throw or take 2 (1d4) poison damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/spider.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/spider.webp"
 ```
 ^statblock

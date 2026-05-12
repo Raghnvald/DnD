@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ghoul
+- "Ghoul"
 ---
-# [Ghoul](3-Mechanics\CLI\bestiary\undead/ghoul-xmm.md)
+# [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)
 *Source: Monster Manual (2024) p. 132. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ghouls rise from the bodies of cannibals and villains with depraved hungers. They form packs out of shared voracity.
@@ -52,27 +52,27 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
   - "desc": "The ghoul makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage\
-      \ plus 3 (1d6) Necrotic damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage plus 3 (1d6) Necrotic damage."
     "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing damage.\
-      \ If the target is a creature that isn't an Undead or elf, it is subjected to\
-      \ the following effect. *Constitution Saving Throw:* DC 10. *Failure:* The target\
-      \ has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) condition until\
-      \ the end of its next turn."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Slashing\
+      \ damage. If the target is a creature that isn't an Undead or elf, it is subjected\
+      \ to the following effect. *Constitution Saving Throw:* DC 10. *Failure:* The\
+      \ target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ condition until the end of its next turn."
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ghoul-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/ghoul-xmm.webp"
 ```
 ^statblock
 

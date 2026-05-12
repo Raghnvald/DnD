@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Izzet Character Goals; Izzet Assignments
+- "Izzet Character Goals; Izzet Assignments"
 ---
 # Izzet Character Goals; Izzet Assignments
 *Source: Guildmasters' Guide to Ravnica p. 146* 
 
 **Izzet Assignments**
-
-`dice: [](izzet-character-goals-izzet-assignments-ggr.md#^izzet-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

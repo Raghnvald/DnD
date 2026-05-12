@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/drow
 - ttrpg-cli/domain/war
-aliases: 
-- Ghaunadaur
+aliases:
+- "Ghaunadaur"
 ---
 # Ghaunadaur
 *Source: Mordenkainen's Tome of Foes p. 53* 

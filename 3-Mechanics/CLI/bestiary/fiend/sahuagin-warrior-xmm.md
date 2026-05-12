@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Warrior
+- "Sahuagin Warrior"
 ---
-# [Sahuagin Warrior](3-Mechanics\CLI\bestiary\fiend/sahuagin-warrior-xmm.md)
+# [Sahuagin Warrior](3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Sahuagin warriors are vicious combatants that savage their foes with webbed claws. Once sahuagin draw blood, they usually attack until either they or their foe is slain.
@@ -53,16 +53,16 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "9"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "acid, cold"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
-  - "desc": "The sahuagin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ on attack rolls against any creature that doesn't have all its [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "The sahuagin has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ on attack rolls against any creature that doesn't have all its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
     "name": "Blood Frenzy"
   - "desc": "The sahuagin can breathe air and water, but it must be submerged at least\
       \ once every 4 hours to avoid suffocating outside water."
@@ -73,15 +73,16 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 "actions":
   - "desc": "The sahuagin makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing\
+      \ damage."
     "name": "Claw"
 "bonus_actions":
-  - "desc": "The sahuagin swims up to its [Swim Speed](/3-Mechanics/CLI/variant-rules/swim-speed-xphb.md)\
+  - "desc": "The sahuagin swims up to its [Swim Speed](3-Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md)\
       \ straight toward an enemy it can see."
     "name": "Aquatic Charge"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/sahuagin-warrior-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/sahuagin-warrior-xmm.webp"
 ```
 ^statblock
 

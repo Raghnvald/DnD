@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Lolth
+aliases:
+- "Lolth"
 ---
 # Lolth
 *Source: Explorer's Guide to Wildemount p. 27* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-lolth.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-lolth.webp#symbol)
 
 - **Alignment**: Chaotic Evil
 - **Category**: Betrayer Gods

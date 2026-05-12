@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oculorb
+- "Oculorb"
 ---
-# [Oculorb](3-Mechanics\CLI\bestiary\aberration/oculorb-pabtso.md)
+# [Oculorb](3-Mechanics/CLI/bestiary/aberration/oculorb-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 214*  
 
 Many oculorbs are dreamed into existence by beholders. The Far Realm's strange power can pervade a beholder's dreams, resulting in the birth of an oculorb.
@@ -42,13 +42,13 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Investigation](/3-Mechanics/CLI/skills.md#Investigation)"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 60 ft., passive Perception\
-  \ 20"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 20"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -60,9 +60,9 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
 "actions":
   - "desc": "The oculorb makes two Dreadful Contact attacks or four Eye Beam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 14\
-      \ (3d6 + 4) psychic damage, or 25 (6d6 + 4) psychic damage if the target has\
-      \ the [frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 14 (3d6 + 4) psychic damage, or 25 (6d6 + 4) psychic damage if the target\
+      \ has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition."
     "name": "Dreadful Contact"
   - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one creature. *Hit:*\
       \ 14 (3d6 + 4) psychic damage."
@@ -73,17 +73,18 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
   - "desc": "The oculorb weeps, releasing a wave of crushing despair. Each creature\
       \ within 30 feet of the oculorb must make a DC 16 Constitution saving throw.\
       \ On a failed save, a creature's speed is reduced to 0 feet until the end of\
-      \ the oculorb's next turn, and if the creature was [concentrating](/3-Mechanics/CLI/conditions.md#Concentration),\
-      \ its [concentration](/3-Mechanics/CLI/conditions.md#Concentration) is broken."
+      \ the oculorb's next turn, and if the creature was [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration),\
+      \ its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) is\
+      \ broken."
     "name": "Weeping Eyes"
   - "desc": "The oculorb's eyes unleash furious scarlet energy in a 60-foot cone.\
       \ Each creature in that area must make a DC 16 Wisdom saving throw. On a failed\
-      \ save, a creature takes 33 (6d10) necrotic damage and has the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ save, a creature takes 33 (6d10) necrotic damage and has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition for 1 minute. On a successful save, a creature takes half as much\
-      \ damage and isn't [frightened](/3-Mechanics/CLI/conditions.md#Frightened).\
-      \ A [frightened](/3-Mechanics/CLI/conditions.md#Frightened) creature can repeat\
-      \ the saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a successful save."
+      \ damage and isn't [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened).\
+      \ A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) creature can\
+      \ repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a successful save."
     "name": "Withering Glare"
 "reactions":
   - "desc": "When the oculorb is damaged by a creature it can see within 60 feet of\
@@ -93,6 +94,6 @@ Oculorbs resemble a slimy conglomeration of eyes in many sizes and shapes. They 
     "name": "Obsessive Rebuke"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/oculorb-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/oculorb-pabtso.webp"
 ```
 ^statblock

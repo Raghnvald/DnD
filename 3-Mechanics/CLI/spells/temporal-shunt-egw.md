@@ -7,13 +7,13 @@ tags:
 - ttrpg-cli/spell/level/5th-level
 - ttrpg-cli/spell/school/transmutation
 aliases:
-- Temporal Shunt
+- "Temporal Shunt"
 ---
 # Temporal Shunt
 *5th-level, Transmutation*  
 
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, taken when a creature you can see makes an attack roll or starts to cast a spell
 - **Range:** 120 feet
 - **Components:** V, S
 - **Duration:** 1 round

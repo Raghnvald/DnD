@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Owlbear
+- "Owlbear"
 ---
-# [Owlbear](3-Mechanics\CLI\bestiary\monstrosity/owlbear-xmm.md)
+# [Owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md)
 *Source: Monster Manual (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Owlbears are tenacious hunters that might track prey over miles and rarely give up their hunts.
@@ -31,13 +31,11 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 
 **Owlbear Den Features**
 
-`dice: [](owlbear-xmm.md#^owlbear-den-features)`
-
 | dice: 1d4 | An Owlbear Den Contains... |
 |-----------|----------------------------|
 | 1 | Evidence of previous occupants, like bandits, wolves, or dragons. |
 | 2 | Heaps of regurgitated pellets studded with coins or other treasure. |
-| 3 | A nest with `dice:1d6\|noform\|noparens\|avg` (`1d6`) owlbear eggs. |
+| 3 | A nest with `1d6` owlbear eggs. |
 | 4 | Passages through the earth or hollow trees. |
 ^owlbear-den-features
 
@@ -59,20 +57,21 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "3"
 "actions":
   - "desc": "The owlbear makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 14 (2d8 + 5) Slashing\
+      \ damage."
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/owlbear-xmm.webp"
 ```
 ^statblock
 

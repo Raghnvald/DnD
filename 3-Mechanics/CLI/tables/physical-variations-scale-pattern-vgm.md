@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Scale Pattern
+- "Physical Variations; Scale Pattern"
 ---
 # Physical Variations; Scale Pattern
 *Source: Volo's Guide to Monsters p. 66* 
 
 **Scale Pattern**
-
-`dice: [](physical-variations-scale-pattern-vgm.md#^scale-pattern)`
 
 | dice: d20 | Scale Pattern |
 |-----------|---------------|

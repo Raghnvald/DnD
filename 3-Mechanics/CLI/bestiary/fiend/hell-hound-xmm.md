@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hell Hound
+- "Hell Hound"
 ---
-# [Hell Hound](3-Mechanics\CLI\bestiary\fiend/hell-hound-xmm.md)
+# [Hell Hound](3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md)
 *Source: Monster Manual (2024) p. 165. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Hell Hound
@@ -48,31 +48,31 @@ Hell hounds have greater cunning than normal canines. They're skilled trackers a
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "fire"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "understands Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The hound has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The hound has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the hound's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The hound makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage\
-      \ plus 3 (1d6) Fire damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing\
+      \ damage plus 3 (1d6) Fire damage."
     "name": "Bite"
-  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 15-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 15-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* 17 (5d6) Fire damage. *Success:* Half damage."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/hell-hound-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/hell-hound-xmm.webp"
 ```
 ^statblock
 

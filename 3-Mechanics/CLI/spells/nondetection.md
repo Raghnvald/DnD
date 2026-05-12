@@ -7,21 +7,24 @@ tags:
 - ttrpg-cli/spell/class/bard/magical-secrets
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/svirfneblin-magic
 - ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/race/gnome-deep
+- ttrpg-cli/spell/race/deep-gnome
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/knowledge-domain
+- ttrpg-cli/spell/subclass/knowledge-domain-psa
 classes:
 - Bard (Magical Secrets)
+- Cleric (Knowledge Domain (PSA))
 - Cleric (Knowledge Domain)
 - Fighter (Eldritch Knight)
 - Ranger
 - Rogue (Arcane Trickster)
 - Wizard
 aliases:
-- Nondetection
+- "Nondetection"
 ---
 # Nondetection
 *3rd-level, Abjuration*  
@@ -34,6 +37,6 @@ aliases:
 
 For the duration, you hide a target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than 10 feet in any dimension. The target can't be targeted by any divination magic or perceived through magical scrying sensors.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain-psa-psa.md "subclass=PSA"); [Cleric (Knowledge Domain)](3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

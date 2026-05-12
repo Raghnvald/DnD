@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/idrotf
-- new/reward/charm
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/reward/charm
 aliases:
-- Charm of Cold Resistance
+- "Charm of Cold Resistance"
 ---
 # Charm of Cold Resistance
 
 > [!note]
-> This charm can be bestowed by a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) living in Icewind Dale or other cold regions by using their Magical Gift action.
+> This charm can be bestowed by a chwinga living in Icewind Dale or other cold regions by using their Magical Gift action.
 
 This charm allows you to give yourself resistance to cold damage as an action. This benefit lasts for 24 hours, after which the charm vanishes from you.
 

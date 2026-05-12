@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/wizard/conjuration
 aliases:
-- School of Conjuration
+- "School of Conjuration"
 ---
 # School of Conjuration
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -44,11 +44,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Conjuration (Level 2)
-
 As a conjurer, you favor spells that produce objects and creatures out of thin air. You can conjure billowing clouds of killing fog or summon creatures from elsewhere to fight on your behalf. As your mastery grows, you learn spells of transportation and can teleport yourself across vast distances, even to other planes of existence, in an instant.
+
+## Subclass Features
 
 ### Conjuration Savant (Level 2)
 
@@ -68,7 +66,7 @@ Once you use this feature, you can't use it again until you finish a long rest o
 
 ### Focused Conjuration (Level 10)
 
-Beginning at 10th level, while you are [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a conjuration spell, your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) can't be broken as a result of taking damage.
+Beginning at 10th level, while you are [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration) on a conjuration spell, your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) can't be broken as a result of taking damage.
 
 ### Durable Summons (Level 14)
 

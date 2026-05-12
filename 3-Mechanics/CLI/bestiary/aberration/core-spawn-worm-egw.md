@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Core Spawn Worm
+- "Core Spawn Worm"
 ---
-# [Core Spawn Worm](3-Mechanics\CLI\bestiary\aberration/core-spawn-worm-egw.md)
+# [Core Spawn Worm](3-Mechanics/CLI/bestiary/aberration/core-spawn-worm-egw.md)
 *Source: Explorer's Guide to Wildemount p. 287*  
 
 This invertebrate horror has quivering, barbed tentacles set around its massive, toothy maw. The worm's cracked and stony hide pulses with a dull orange glow, as if it might be composed of primordial lava perpetually on the verge of hardening into solid rock.
@@ -47,13 +47,12 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
   - "constitution": !!int "10"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., tremorsense\
-  \ 60 ft., passive Perception 14"
+"condition_immunities": "charmed, frightened"
+"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "15"
 "traits":
@@ -70,26 +69,24 @@ The aberrant creatures known as core spawn are a subterranean breed of heralds, 
       \ its bite."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 25 (5d6 + 8) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 18). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
-      \ The tentacles can grapple only one creature at a time."
+      \ 25 (5d6 + 8) piercing damage, and the target is grappled (escape DC 18).\
+      \ Until this grapple ends, the target is restrained. The tentacles can grapple\
+      \ only one creature at a time."
     "name": "Barbed Tentacles"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 30\
-      \ (5d8 + 8) piercing damage. If the target is a Large or smaller creature, it\
-      \ must succeed on a DC 18 Dexterity saving throw or be swallowed by the worm.\
-      \ A swallowed creature is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [restrained](/3-Mechanics/CLI/conditions.md#Restrained), has total cover\
-      \ against attacks and other effects outside the worm, and takes 21 (6d6) fire\
-      \ damage at the start of each of the worm's turns.\n\nIf the worm takes 30 damage\
-      \ or more on a single turn from a creature inside it, the worm must succeed\
-      \ on a DC 21 Constitution saving throw at the end of that turn or regurgitate\
-      \ all swallowed creatures, which fall [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ in a space within 10 feet of the worm. If the worm dies, a swallowed creature\
-      \ is no longer [restrained](/3-Mechanics/CLI/conditions.md#Restrained) by it\
-      \ and can escape from the corpse by using 20 feet of movement, exiting [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 30 (5d8 + 8) piercing damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 18 Dexterity saving throw or be swallowed by the worm.\
+      \ A swallowed creature is blinded and restrained, has total cover against attacks\
+      \ and other effects outside the worm, and takes 21 (6d6) fire damage at the\
+      \ start of each of the worm's turns.\n\nIf the worm takes 30 damage or more\
+      \ on a single turn from a creature inside it, the worm must succeed on a DC\
+      \ 21 Constitution saving throw at the end of that turn or regurgitate all swallowed\
+      \ creatures, which fall prone in a space within 10 feet of the worm. If the\
+      \ worm dies, a swallowed creature is no longer restrained by it and can escape\
+      \ from the corpse by using 20 feet of movement, exiting prone."
     "name": "Bite"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/core-spawn-worm-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/core-spawn-worm-egw.webp"
 ```
 ^statblock

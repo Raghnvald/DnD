@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barbed Devil
+- "Barbed Devil"
 ---
-# [Barbed Devil](3-Mechanics\CLI\bestiary\fiend/barbed-devil.md)
-*Source: Monster Manual p. 70, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Barbed Devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md)
+*Source: Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
@@ -115,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -164,22 +164,23 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 18"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 18"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "5"
 "traits":
-  - "desc": "At the start of each of its turns, the barbed devil deals 5 (1d10) piercing\
-      \ damage to any creature grappling it."
+  - "desc": "At the start of each of its turns, the barbed devil deals 5 (1d10)\
+      \ piercing damage to any creature grappling it."
     "name": "Barbed Hide"
   - "desc": "Magical darkness doesn't impede the devil's darkvision."
     "name": "Devil's Sight"
@@ -190,19 +191,18 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The devil makes three melee attacks: one with its tail and two with its\
       \ claws. Alternatively, it can use Hurl Flame twice."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d6 + 3) piercing damage."
     "name": "Tail"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:* 10\
-      \ (3d6) fire damage. If the target is a flammable object that isn't being worn\
-      \ or carried, it also catches fire."
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 150 ft., one target. *Hit:*\
+      \ 10 (3d6) fire damage. If the target is a flammable object that isn't being\
+      \ worn or carried, it also catches fire."
     "name": "Hurl Flame"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/barbed-devil.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/barbed-devil.webp"
 ```
 ^statblock

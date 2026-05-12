@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quasit
+- "Quasit"
 ---
-# [Quasit](3-Mechanics\CLI\bestiary\fiend/quasit.md)
-*Source: Monster Manual p. 63, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md)
+*Source: Monster Manual p. 63. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Quasits infest the Lower Planes. Physically weak, they keep to the shadows to plot mischief and wickedness. More powerful demons use quasits as spies and messengers when they aren't devouring them or pulling them apart to pass the time.
 
@@ -159,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -205,13 +205,14 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Abyssal, Common"
 "cr": "1"
 "traits":
@@ -226,24 +227,26 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage, and the target must succeed on a DC 10 Constitution\
-      \ saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute.\
-      \ The target can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution\
+      \ saving throw or take 5 (2d4) poison damage and become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
     "name": "Claw (Bite in Beast Form)"
   - "desc": "One creature of the quasit's choice within 20 feet of it must succeed\
-      \ on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can\
-      \ repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if the quasit is within line of sight, ending the effect on itself on a success."
+      \ on a DC 10 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, with disadvantage if the quasit is within line of sight, ending\
+      \ the effect on itself on a success."
     "name": "Scare (1/Day)"
-  - "desc": "The quasit magically turns invisible until it attacks or uses Scare,\
-      \ or until its concentration ends (as if concentrating on a spell). Any equipment\
-      \ the quasit wears or carries is invisible with it."
+  - "desc": "The quasit magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks or uses Scare, or until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the quasit wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with it."
     "name": "Invisibility"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/quasit.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/quasit.webp"
 ```
 ^statblock

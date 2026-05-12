@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Safeguarding"
 - "Chain Mail of Safeguarding"
 - "Plate Armor of Safeguarding"
@@ -26,7 +26,7 @@ While wearing this armor, your hit point maximum increases by an amount equal to
 
 ## Invoking the Rune
 
-As an action, you can invoke the armor's rune to cast the [beacon of hope](/3-Mechanics/CLI/spells/beacon-of-hope-xphb.md) spell with it; the spell has a duration of 1 minute and doesn't require [concentration](/3-Mechanics/CLI/conditions.md#Concentration). Once the rune has been invoked, it can't be invoked again until the next dawn.
+As an action, you can invoke the armor's rune to cast the beacon of hope spell with it; the spell has a duration of 1 minute and doesn't require concentration. Once the rune has been invoked, it can't be invoked again until the next dawn.
 
 **Variants**:
 - [Chain Mail of Safeguarding](#Chain%20Mail%20of%20Safeguarding)

@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/gear/treasure-gemstone
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Jacinth"
 ---
 # Jacinth
 *Treasure (gemstone)*  
 
 
-- **Cost**: 5,000 gp
+- **Cost**: 5.000 gp
 
 A transparent fiery orange gemstone.
 

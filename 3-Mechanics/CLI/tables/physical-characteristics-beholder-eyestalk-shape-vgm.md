@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Eyestalk Shape
+- "Physical Characteristics; Beholder Eyestalk Shape"
 ---
 # Physical Characteristics; Beholder Eyestalk Shape
 *Source: Volo's Guide to Monsters p. 8* 
 
 **Beholder Eyestalk Shape**
-
-`dice: [](physical-characteristics-beholder-eyestalk-shape-vgm.md#^beholder-eyestalk-shape)`
 
 | dice: d4 | Eyestalk Shape |
 |----------|----------------|

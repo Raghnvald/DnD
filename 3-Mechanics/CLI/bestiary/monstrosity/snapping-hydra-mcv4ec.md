@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Snapping Hydra
+- "Snapping Hydra"
 ---
-# [Snapping Hydra](3-Mechanics\CLI\bestiary\monstrosity/snapping-hydra-mcv4ec.md)
+# [Snapping Hydra](3-Mechanics/CLI/bestiary/monstrosity/snapping-hydra-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 A rare variety of hydra native to the wilds of Eldraine, snapping hydras resemble giant, many-headed turtles. Snapping hydras dwell at the bottom of the wild's largest lakes, or along shorelines where the wilds meet the ocean. These monstrous creatures are aptly named; their bites are known to snap giants' arms cleanly in half.
@@ -38,10 +38,13 @@ Snapping hydras have naturally long life spans and strong instincts of self-pres
   - !!int "7"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
-"condition_immunities": "blinded, charmed, deafened, frightened, stunned, unconscious"
-"senses": "darkvision 60 ft., passive Perception 21"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 21"
 "languages": ""
 "cr": "11"
 "traits":
@@ -61,18 +64,18 @@ Snapping hydras have naturally long life spans and strong instincts of self-pres
 "actions":
   - "desc": "The hydra makes as many Bite attacks as it has heads."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (2d8 + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (2d8 + 5) piercing damage."
     "name": "Bite"
   - "desc": "The hydra withdraws its limbs and heads into its shell. Until it emerges\
       \ as a bonus action, it gains a +4 bonus to AC and has advantage on Strength\
-      \ and Constitution saving throws. While in its shell, the hydra has the prone\
+      \ and Constitution saving throws. While in its shell, the hydra has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition, its speed is 0 and can't increase, its heads can't die, it has\
       \ disadvantage on Dexterity saving throws, and it can't take any other actions\
       \ or reactions."
     "name": "Shell Defense"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/snapping-hydra-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/snapping-hydra-mcv4ec.webp"
 ```
 ^statblock

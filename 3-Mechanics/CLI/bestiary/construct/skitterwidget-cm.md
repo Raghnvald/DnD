@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skitterwidget
+- "Skitterwidget"
 ---
-# [Skitterwidget](3-Mechanics\CLI\bestiary\construct/skitterwidget-cm.md)
+# [Skitterwidget](3-Mechanics/CLI/bestiary/construct/skitterwidget-cm.md)
 *Source: Candlekeep Mysteries p. 136*  
 
 A skitterwidget is made of metal and bears a passing resemblance to a giant dog-headed cockroach. No two skitterwidgets look exactly alike, but all are surprisingly cute.
@@ -55,10 +55,10 @@ A skitterwidget is made of metal and bears a passing resemblance to a giant dog-
       \ (2d6 + 3) piercing damage. If the target is a creature, it is grappled by\
       \ the skitterwidget (escape DC 13)."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage plus 10 (3d6) lightning damage, and if the target is\
-      \ a creature, it must succeed on a DC 15 Constitution saving throw or be stunned\
-      \ until the end of its next turn."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage plus 10 (3d6) lightning damage, and if the target\
+      \ is a creature, it must succeed on a DC 15 Constitution saving throw or be\
+      \ stunned until the end of its next turn."
     "name": "Tail"
 "reactions":
   - "desc": "The skitterwidget imposes disadvantage on one attack roll made against\
@@ -66,6 +66,6 @@ A skitterwidget is made of metal and bears a passing resemblance to a giant dog-
     "name": "Good Parent"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/skitterwidget-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/skitterwidget-cm.webp"
 ```
 ^statblock

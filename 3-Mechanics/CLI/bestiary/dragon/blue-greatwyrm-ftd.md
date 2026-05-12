@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Greatwyrm
+- "Blue Greatwyrm"
 ---
-# [Blue Greatwyrm](3-Mechanics\CLI\bestiary\dragon/blue-greatwyrm-ftd.md)
+# [Blue Greatwyrm](3-Mechanics/CLI/bestiary/dragon/blue-greatwyrm-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 168*  
 
 The most ancient chromatic dragons, who have survived over twelve hundred years of mortal life and acquired vast hoards worth millions of gold pieces, can achieve a form of apotheosis, reaching a level of power approaching that of Tiamat's mighty aspect. The competitive avarice of dragonkind and the interference of adventurers prevent most dragons from attaining this level of power. But a chromatic dragon who can outwit all rivals and overcome all potential thieves can rise to become one of the mightiest of dragons.
@@ -46,17 +46,15 @@ In both size and power, chromatic greatwyrms exceed even ancient dragons. The en
   - "wisdom": !!int "13"
   - "charisma": !!int "16"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+16"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+21"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+10"
 "damage_immunities": "lightning"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 31"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "truesight 120 ft., passive Perception 31"
 "languages": "Common, Draconic"
 "cr": "27"
 "traits":
@@ -74,19 +72,17 @@ In both size and power, chromatic greatwyrms exceed even ancient dragons. The en
 "actions":
   - "desc": "The greatwyrm makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 15 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) piercing damage plus 13 (2d12) force damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 15 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) piercing damage plus 13 (2d12) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d8 + 10) slashing damage. If the target is a Huge or smaller creature, it\
-      \ is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 20) and\
-      \ is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until this grapple\
-      \ ends. The greatwyrm can have only one creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ this way at a time."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d8 + 10) slashing damage. If the target is a Huge or smaller creature,\
+      \ it is grappled (escape DC 20) and is restrained until this grapple ends. The\
+      \ greatwyrm can have only one creature grappled this way at a time."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 19\
-      \ (2d8 + 10) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 26 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 19 (2d8 + 10) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 26 Strength saving throw or be knocked prone."
     "name": "Tail"
   - "desc": "The greatwyrm exhales a blast of energy in a 300-foot cone. Each creature\
       \ in that area must make a DC 26 Dexterity saving throw. On a failed save, the\
@@ -101,8 +97,8 @@ In both size and power, chromatic greatwyrms exceed even ancient dragons. The en
     "name": "Attack"
   - "desc": "The greatwyrm beats its wings. Each creature within 30 feet of it must\
       \ succeed on a DC 26 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The greatwyrm\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked prone. The greatwyrm can then fly up to half its flying\
+      \ speed."
     "name": "Wing Attack (Costs 2 Actions)"
   - "desc": "The greatwyrm creates four spears of magical force. Each spear hits a\
       \ creature of the greatwyrm's choice it can see within 120 feet of it, dealing\
@@ -119,6 +115,6 @@ In both size and power, chromatic greatwyrms exceed even ancient dragons. The en
     "name": "Chromatic Flare (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/blue-greatwyrm-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/blue-greatwyrm-ftd.webp"
 ```
 ^statblock

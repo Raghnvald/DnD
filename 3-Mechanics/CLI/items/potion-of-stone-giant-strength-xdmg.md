@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Stone Giant Strength"
 ---
 # Potion of Stone Giant Strength

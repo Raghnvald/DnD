@@ -16,9 +16,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cyclops Sentry
+- "Cyclops Sentry"
 ---
-# [Cyclops Sentry](3-Mechanics\CLI\bestiary\giant/cyclops-sentry-xmm.md)
+# [Cyclops Sentry](3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md)
 *Source: Monster Manual (2024) p. 88*  
 
 Most cyclops sentries serve their divine progenitors and oppose those who would tamper with fate.
@@ -28,7 +28,7 @@ Most cyclops sentries serve their divine progenitors and oppose those who would 
 *Monocular Servants of Destiny*
 
 - **Habitat.** Coastal, Desert, Grassland, Hill, Mountain, Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vision, cyclopes can witness how future events are likely to occur.
 
@@ -56,7 +56,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "desc": "The cyclops makes two attacks, using Stone Club or Rock in any combination."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* +9, reach 10 ft. *Hit:* 16 (3d6 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Huge or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Stone Club"
   - "desc": "*Ranged Attack Roll:* +9, range 30/120 ft. *Hit:* 22 (3d10 + 6) Bludgeoning\
@@ -64,13 +64,13 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
     "name": "Rock"
 "reactions":
   - "desc": "Trigger: A creature the cyclops can see makes an attack roll against\
-      \ it. _Response:_ The cyclops imposes [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on the roll, and the cyclops gains [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+      \ it. _Response:_ The cyclops imposes [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+      \ on the roll, and the cyclops gains [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on attack rolls against the target until the end of the cyclops's next turn."
     "name": "Limited Foresight (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cyclops-sentry-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/cyclops-sentry-xmm.webp"
 ```
 ^statblock
 

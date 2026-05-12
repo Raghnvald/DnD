@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 7: Maddgoth's Castle
+- "Level 7: Maddgoth's Castle"
 ---
 # Level 7: Maddgoth's Castle
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 95* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/021-701.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/021-701.webp#center)
 
 Maddgoth's Castle is designed for four 9th-level characters, who should amass enough XP to reach 10th level. The characters can forge tenuous alliances with several of the monsters on this level. Award XP for these creatures as if the characters had defeated them in combat.
 
@@ -23,38 +23,38 @@ The level is named after a miniature, one-twelfth-scale fortress in one of its c
 
 ## What Dwells Here?
 
-Maddgoth comes and goes from Undermountain with the aid of a [horned ring](/3-Mechanics/CLI/items/horned-ring-wdmm.md) similar to the one worn by [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). While he's away, his homunculus watches over his castle. A faerie dragon has also discovered the castle and claimed it as its lair. To reach the castle, adventurers must travel through caverns inhabited by a family of forgetful stone giants.
+Maddgoth comes and goes from Undermountain with the aid of a [horned ring](3-Mechanics/CLI/items/horned-ring-wdmm.md) similar to the one worn by [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). While he's away, his homunculus watches over his castle. A faerie dragon has also discovered the castle and claimed it as its lair. To reach the castle, adventurers must travel through caverns inhabited by a family of forgetful stone giants.
 
 ### Stone Giants
 
 Ten years ago, Halaster lured a family of stone giants to Undermountain and stripped them of most of their memories. The giants remember who they are and can recall events that happened within the last 8 hours, but everything that occurred before then is lost in a haze and soon forgotten. All their memories of the surface world and its inhabitants faded long ago.
 
-The stone giants are irritable and self-serving, but not evil. They treat any invasion by humanoids as a vermin infestation, nothing more, and attempts to parley with them fall on deaf ears for the most part. They are unaware of the miniature castle in the heart of their domain because it floats in the middle of a great cavern beyond the range of their darkvision.
+The stone giants are irritable and self-serving, but not evil. They treat any invasion by humanoids as a vermin infestation, nothing more, and attempts to parley with them fall on deaf ears for the most part. They are unaware of the miniature castle in the heart of their domain because it floats in the middle of a great cavern beyond the range of their [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision).
 
-The giants are tormented by the faerie dragon that lairs in Maddgoth's castle. It emerges while invisible and uses illusion spells to close off passages, create false tunnels, and make temporary alterations to the giants' caves. The faerie dragon's mischief has only heightened the stone giants' irritability, and the giants, having never seen the creature, suspect that the characters might be responsible. To earn the giants' trust, characters must determine the cause of the mischief and put an end to it. Even if they succeed, however, their efforts are soon forgotten as Halaster's magic erodes the giants' memories.
+The giants are tormented by the faerie dragon that lairs in Maddgoth's castle. It emerges while [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and uses illusion spells to close off passages, create false tunnels, and make temporary alterations to the giants' caves. The faerie dragon's mischief has only heightened the stone giants' irritability, and the giants, having never seen the creature, suspect that the characters might be responsible. To earn the giants' trust, characters must determine the cause of the mischief and put an end to it. Even if they succeed, however, their efforts are soon forgotten as Halaster's magic erodes the giants' memories.
 
 The oldest stone giants, Gravillok and Speleosa, are mates. They have four adult children: two sons, Qurrok and Rhodos, and two daughters, Obsidia and Xorta.
 
 ### Otto the Faerie Dragon
 
-A violet faerie dragon named [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) was drawn here by the magic that Halaster wove into these caves. Upon discovering Maddgoth's castle, [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) decided to move in. The faerie dragon was unaffected by the castle's shrinking magic and settled comfortably into its new home. It feeds on bats and other vermin it finds in the surrounding cavern.
+A violet faerie dragon named [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) was drawn here by the magic that Halaster wove into these caves. Upon discovering Maddgoth's castle, [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) decided to move in. The faerie dragon was unaffected by the castle's shrinking magic and settled comfortably into its new home. It feeds on bats and other vermin it finds in the surrounding cavern.
 
 When it's bored, the faerie dragon sneaks out invisibly and uses its spells to make illusory modifications to the stone giants' caves, confounding the giants for its own amusement. The giants have no clue who or what is responsible for this magical mischief.
 
-The faerie dragon would like to get rid of [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md), which has become a troublesome reminder of the castle's true owner. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) has defeated the homunculus in physical combat more than once, but it keeps coming back. The dragon has concluded that the only way to get rid of the homunculus for good is to forcibly remove it from the castle and trap it elsewhere. If the characters do this for the faerie dragon, [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) allows them to use the castle for rest and relaxation—provided they don't overstay their welcome or loot the joint.
+The faerie dragon would like to get rid of [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md), which has become a troublesome reminder of the castle's true owner. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) has defeated the homunculus in physical combat more than once, but it keeps coming back. The dragon has concluded that the only way to get rid of the homunculus for good is to forcibly remove it from the castle and trap it elsewhere. If the characters do this for the faerie dragon, [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) allows them to use the castle for rest and relaxation—provided they don't overstay their welcome or loot the joint.
 
 #### Modified Statistics
 
 While inside the castle, the faerie dragon is 12 feet long relative to its surroundings, because its size is not altered by the castle's shrinking magic. It has a challenge rating of 3 (700 XP) and the following statistical changes:
 
-- [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) is Large and has `dice:16d10+16|noform|noparens|avg|text(104)` (`16d10 + 16`) hit points.  
-- It has a Strength score of 18 (+4), and its bite attack deals `dice:2d6+4|noform|noparens|avg|text(11)` (`2d6 + 4`) piercing damage on a hit.  
+- [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) is Large and has 104 (`16d10 + 16`) hit points.  
+- It has a Strength score of 18 (+4), and its bite attack deals 11 (`2d6 + 4`) piercing damage on a hit.  
 
-[Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) turns invisible and flees if reduced to half its hit points or fewer. It tries to find a hiding place in the castle but abandons the structure if it must. When encountered outside the castle, [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) has the size and statistics of a normal violet [faerie dragon](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md). Whenever [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s relative size decreases, any hit points beyond its new hit point maximum are lost. Whenever [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s relative size increases, any damage that [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) has taken remains and is subtracted from its new hit point maximum.
+[Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and flees if reduced to half its hit points or fewer. It tries to find a hiding place in the castle but abandons the structure if it must. When encountered outside the castle, [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) has the size and statistics of a normal violet [faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md). Whenever [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s relative size decreases, any hit points beyond its new hit point maximum are lost. Whenever [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s relative size increases, any damage that [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) has taken remains and is subtracted from its new hit point maximum.
 
 ### Maddgoth's Homunculus
 
-Maddgoth's [homunculus](/3-Mechanics/CLI/bestiary/construct/homunculus.md) awaits its master's return. The fact that it hasn't perished suggests that Maddgoth is still alive, but their telepathic bond has been severed, indicating that the two are no longer on the same plane of existence. Whether this separation is of Maddgoth's choosing is unknown. The wizard could be sequestered in a demiplane, imprisoned in a mirror of life trapping, or touring the Abyss, for all anyone knows.
+Maddgoth's [homunculus](3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md) awaits its master's return. The fact that it hasn't perished suggests that Maddgoth is still alive, but their telepathic bond has been severed, indicating that the two are no longer on the same plane of existence. Whether this separation is of Maddgoth's choosing is unknown. The wizard could be sequestered in a demiplane, imprisoned in a [mirror of life trapping](3-Mechanics/CLI/items/mirror-of-life-trapping-xdmg.md), or touring the Abyss, for all anyone knows.
 
 The lonely homunculus longs to be reunited with its creator. It also wants to rid Maddgoth's castle of the faerie dragon that has invaded it. The characters can impress the homunculus and earn its trust by killing the faerie dragon or scaring it away for good. The homunculus can't leave the castle, by order of its master. If it takes damage that would normally destroy it, it forms anew in Maddgoth's study (area 25a). Only the wizard's death can destroy the homunculus for good.
 
@@ -62,21 +62,21 @@ The lonely homunculus longs to be reunited with its creator. It also wants to ri
 
 Inside the castle, the homunculus is 12 feet tall relative to its surroundings, because its size is not altered by the castle's shrinking magic. It has a challenge rating of 2 (450 XP) and the following statistical changes:
 
-- The homunculus is Large and has `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) hit points.  
-- It has a Strength score of 15 (+2), and its bite attack deals `dice:2d6+2|noform|noparens|avg|text(9)` (`2d6 + 2`) piercing damage on a hit.  
+- The homunculus is Large and has 55 (`10d10`) hit points.  
+- It has a Strength score of 15 (+2), and its bite attack deals 9 (`2d6 + 2`) piercing damage on a hit.  
 - It understands Abyssal, Common, Draconic, and Gnomish, but can't speak.  
 
-If the homunculus is forcibly taken from the castle, its relative size reverts to Tiny, and its statistics become those of a normal [homunculus](/3-Mechanics/CLI/bestiary/construct/homunculus.md). Whenever the creature's relative size decreases, any hit points beyond its new hit point maximum are lost. Whenever its relative size increases, any damage that it has taken remains and is subtracted from its new hit point maximum.
+If the homunculus is forcibly taken from the castle, its relative size reverts to Tiny, and its statistics become those of a normal [homunculus](3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md). Whenever the creature's relative size decreases, any hit points beyond its new hit point maximum are lost. Whenever its relative size increases, any damage that it has taken remains and is subtracted from its new hit point maximum.
 
 ## The Caverns
 
 Umber hulks bored the tunnels that connect this level of Undermountain to the levels above and below. The stone giants don't like the damage that the umber hulks cause and scare them off as best they can.
 
-Unless otherwise noted, all chambers on this level are rough-hewn (not naturally formed) and have 30-foot-high ceilings. Wider passages are 20 feet tall—ideal for the 18-foot-tall stone giants that dwell here. Narrower tunnels are 5 feet wide and 8 feet tall—too small for the giants to fit inside. All caves and tunnels are unlit, since the giants rely on darkvision to see.
+Unless otherwise noted, all chambers on this level are rough-hewn (not naturally formed) and have 30-foot-high ceilings. Wider passages are 20 feet tall—ideal for the 18-foot-tall stone giants that dwell here. Narrower tunnels are 5 feet wide and 8 feet tall—too small for the giants to fit inside. All caves and tunnels are unlit, since the giants rely on [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) to see.
 
 > [!gallery]
-> ![Map 7](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/022-702.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/023-703.webp#gallery)
+> ![Map 7](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/022-702.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/023-703.webp#gallery)
 
 ### 1. Umber Shells
 
@@ -101,9 +101,9 @@ Sixty pieces of blue quartz can be broken off the throne. Each piece is worth 10
 
 ### 4. Silt Pit
 
-The giants avoid this cave, since they know it contains a 40-foot-deep pit of silt, more commonly known to adventurers as quicksand. A character who prods the floor or otherwise searches for traps detects the natural hazard with a successful DC 10 Wisdom (Perception) check.
+The giants avoid this cave, since they know it contains a 40-foot-deep pit of silt, more commonly known to adventurers as quicksand. A character who prods the floor or otherwise searches for traps detects the natural hazard with a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
-The characters can avoid the pit by staying within 5 feet of the walls. If a character falls into the pit, resolve the outcome using the quicksand rules in "chapter 5" of the "Dungeon Master's Guide".
+The characters can avoid the pit by staying within 5 feet of the walls. If a character falls into the pit, resolve the outcome using the [quicksand](3-Mechanics/CLI/traps-hazards/quicksand-pit-xdmg.md) rules in "chapter 5" of the "Dungeon Master's Guide".
 
 ### 5. Cave of Echoes
 
@@ -117,7 +117,7 @@ The walls of these caves are covered with abstract carvings, many of them unfini
 
 > [!note] 
 > 
-> **Gravillok**. The [stone giant](/3-Mechanics/CLI/bestiary/giant/stone-giant.md) is using a chisel to carve on the wall between the tunnels leading to area 5.
+> **Gravillok**. The [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) is using a chisel to carve on the wall between the tunnels leading to area 5.
 > 
 > **Carvings**. Abstract carvings cover the walls, and chiseled bits of stone lie scattered across the floor.
 ^3d2
@@ -126,7 +126,7 @@ If the characters catch him by surprise or greet him with hostility, Gravillok r
 
 In addition to his greatclub, Gravillok carries a favorite chisel, much too large for Medium or smaller characters to use as an effective tool.
 
-A successful DC 15 Intelligence (Religion) check identifies Gravillok's wall carving as a 30-foot-tall image of Skoraeus Stonebones, the stone giant god. Gravillok hopes that Skoraeus will be honored by the carving enough to help him catch whoever has been tormenting his family.
+A successful DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check identifies Gravillok's wall carving as a 30-foot-tall image of Skoraeus Stonebones, the stone giant god. Gravillok hopes that Skoraeus will be honored by the carving enough to help him catch whoever has been tormenting his family.
 
 #### 6b. Tool Storage
 
@@ -140,20 +140,20 @@ Carved into the floor where the northeast tunnel meets this cave is a large X (a
 
 > [!note] 
 > 
-> **Petrified Basilisk**. What at first glance appears to be a spiky rock formation in the middle of the cavern is really a petrified basilisk.
+> **Petrified Basilisk**. What at first glance appears to be a spiky rock formation in the middle of the cavern is really a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) basilisk.
 > 
 > **Decor**. Jagged spirals are carved into the walls and roof, but the crude artwork is incomplete.
 > 
 > **Descending Tunnel**. The tunnel to the southeast descends hundreds of feet to level 8.
 ^3d6
 
-Hundreds of years ago, before the arrival of the stone giants, an adventurer used a mirror to trick the basilisk into targeting itself with its own petrifying gaze. It has remained a fixture of this cavern ever since. A detect magic spell reveals an aura of conjuration magic emanating from within the basilisk's belly. One must smash open the basilisk to get at the treasure inside. Its belly can be cracked open with a solid weapon hit.
+Hundreds of years ago, before the arrival of the stone giants, an adventurer used a mirror to trick the basilisk into targeting itself with its own petrifying gaze. It has remained a fixture of this cavern ever since. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic emanating from within the basilisk's belly. One must smash open the basilisk to get at the treasure inside. Its belly can be cracked open with a solid weapon hit.
 
 #### Treasure
 
-Inside the belly of the basilisk is a gold ring set with moonstones (250 gp) and a wand of conducting. The wand, a common magic item, has 3 charges and doesn't require attunement. The holder of the wand can use an action to expend 1 charge and create orchestral music by waving it around. The music can be heard out to a range of 60 feet and ends when the holder stops waving the wand.
+Inside the belly of the basilisk is a gold ring set with moonstones (250 gp) and a [wand of conducting](3-Mechanics/CLI/items/wand-of-conducting-xdmg.md). The wand, a common magic item, has 3 charges and doesn't require attunement. The holder of the wand can use an action to expend 1 charge and create orchestral music by waving it around. The music can be heard out to a range of 60 feet and ends when the holder stops waving the wand.
 
-The wand regains all expended charges daily at dawn. If the wand's last charge is expended, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, a sad tuba sound plays as the wand crumbles to dust and is destroyed.
+The wand regains all expended charges daily at dawn. If the wand's last charge is expended, roll a `d20`. On a 1, a sad tuba sound plays as the wand crumbles to dust and is destroyed.
 
 ### 9. Stone Cathedral
 
@@ -170,9 +170,9 @@ The stone giants eat the crystals that grow in this chamber. Ten pounds of cryst
 
 > [!note] 
 > 
-> **Xorta**. The reclusive [stone giant](/3-Mechanics/CLI/bestiary/giant/stone-giant.md) lairs here, shunning the rest of her family.
+> **Xorta**. The reclusive [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) lairs here, shunning the rest of her family.
 > 
-> **Bats**. Ten [giant bats](/3-Mechanics/CLI/bestiary/beast/giant-bat.md) cling to the cave's roof, their wings wrapped tightly around their bodies as they sleep.
+> **Bats**. Ten [giant bats](3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) cling to the cave's roof, their wings wrapped tightly around their bodies as they sleep.
 > 
 > **Rocks**. Strewn upon the uneven floor amid mounds of bat guano are loose rocks that Xorta hurls at intruders and others who bother her.
 > 
@@ -227,7 +227,7 @@ This cluster of 30-foot-high caverns serves as the living quarters for the stone
 
 #### 13a. Obsidia and Rhodos
 
-Two [stone giants](/3-Mechanics/CLI/bestiary/giant/stone-giant.md) named Obsidia and Rhodos have been tasked with carving abstract designs into the roof of this empty cave. To reach the ceiling, Obsidia rides on her brother's broad shoulders. She is using a chisel to smooth out some of the rough spots.
+Two [stone giants](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) named Obsidia and Rhodos have been tasked with carving abstract designs into the roof of this empty cave. To reach the ceiling, Obsidia rides on her brother's broad shoulders. She is using a chisel to smooth out some of the rough spots.
 
 Of all the giants in here, Obsidia and Rhodos are the least set in their ways and the most likely to tolerate small folk. Characters who bribe them with at least 500 gp worth of precious metals, gemstones, or art objects can convince the giants to let them pass or to escort the party to the tunnel that leads to level 8.
 
@@ -237,14 +237,14 @@ Of all the giants in here, Obsidia and Rhodos are the least set in their ways an
 > 
 > **Carvings and Loose Rocks**. The walls and domed roof display carvings of stone giants. At the foot of each carving is a pile of loose rocks.
 > 
-> **Speleosa**. Unless she is interrupted, Speleosa the [stone giant](/3-Mechanics/CLI/bestiary/giant/stone-giant.md) is sitting in the middle of the cave and using a patch of bat fur to polish amber gemstones.
+> **Speleosa**. Unless she is interrupted, Speleosa the [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) is sitting in the middle of the cave and using a patch of bat fur to polish amber gemstones.
 > 
-> **Otto**. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the [faerie dragon](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md) shows up to create mischief shortly after the characters arrive.
+> **Otto**. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the [faerie dragon](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md) shows up to create mischief shortly after the characters arrive.
 ^3e7
 
 If Speleosa detects intruders in her home, she grabs loose rocks from the piles around the room, instructs Obsidia and Rhodos (see area 13a) to do the same, and sets out to destroy the invaders. Attempting to reason with Speleosa while she's hurling rocks is no simple matter, and she isn't receptive to bribes. If one or more of her children are imperiled, Speleosa becomes calm and begins negotiating for their safe release.
 
-While the characters are dealing with Speleosa, the invisible faerie dragon flies into the cavern, becomes visible momentarily as it casts the hallucinatory terrain spell, and turns invisible again as a bonus action. Characters who have a passive Wisdom (Perception) score of 17 or higher glimpse the wee dragon for a second before it turns invisible. On subsequent turns, [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) flies back to Maddgoth's castle. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s spell replaces all of areas 10, 12, and 13 with a sylvan forest. The cavern walls remain but are masked by the illusion. Any stone giants in the affected area find themselves in wholly unfamiliar terrain and become panicky. Their inclination is to blame the characters, and dispelling the faerie dragon's magic does little to console them. If the characters don't flee, the giants attack them out of fear.
+While the characters are dealing with Speleosa, the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) faerie dragon flies into the cavern, becomes visible momentarily as it casts the [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) spell, and turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) again as a bonus action. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 17 or higher glimpse the wee dragon for a second before it turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). On subsequent turns, [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) flies back to Maddgoth's castle. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s spell replaces all of areas 10, 12, and 13 with a sylvan forest. The cavern walls remain but are masked by the illusion. Any stone giants in the affected area find themselves in wholly unfamiliar terrain and become panicky. Their inclination is to blame the characters, and dispelling the faerie dragon's magic does little to console them. If the characters don't flee, the giants attack them out of fear.
 
 ##### Treasure
 
@@ -258,7 +258,7 @@ Niches have been carved into the walls of this deep alcove at a height of 15 fee
 
 The niches contain a wooden cask filled with 5 gallons of tar, a damaged alabaster troll mask missing its nose (25 gp), a rhinestone sack that holds 250 gp, and an 800-pound, life-size stone statue of Halaster painted blue.
 
-The Halaster statue has an elemental gem (air) for a heart. This gem can be obtained only by shattering or disintegrating the statue. With a successful DC 12 Strength (Athletics) check, a character can use an action to knock the statue off its high shelf, causing it to shatter on the floor.
+The Halaster statue has an [elemental gem](3-Mechanics/CLI/items/elemental-gem-xdmg.md) (air) for a heart. This gem can be obtained only by shattering or disintegrating the statue. With a successful DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, a character can use an action to knock the statue off its high shelf, causing it to shatter on the floor.
 
 #### 13d. Cave of Rest
 
@@ -270,11 +270,11 @@ These caves smell like an animal den—not surprising, given that Qurrok keeps h
 
 #### 14a. Adult Cave Bears
 
-Two adult cave bears (use the [polar bear](/3-Mechanics/CLI/bestiary/beast/polar-bear.md) statistics) rest here. These mates attack anyone they don't recognize, defending their young in area 14b. Gnawed bones cover the den's floor.
+Two adult cave bears (use the [polar bear](3-Mechanics/CLI/bestiary/beast/polar-bear-xmm.md) statistics) rest here. These mates attack anyone they don't recognize, defending their young in area 14b. Gnawed bones cover the den's floor.
 
 #### 14b. Young Cave Bears
 
-Two cave bear cubs (use the [black bear](/3-Mechanics/CLI/bestiary/beast/black-bear.md) statistics) sleep and play here. Qurrok has hollowed out several large rocks for the young bears to run through and climb on.
+Two cave bear cubs (use the [black bear](3-Mechanics/CLI/bestiary/beast/black-bear-xmm.md) statistics) sleep and play here. Qurrok has hollowed out several large rocks for the young bears to run through and climb on.
 
 ### 15. Qurrok's Den
 
@@ -292,13 +292,13 @@ This cave's walls are bereft of carvings. Resting on the floor at the north end 
 
 This 180-foot-diameter spherical cavern has a domed ceiling and a bowl-shaped floor. Along its perimeter are stone ledges (area 16a) that don't quite encircle the chamber. Any creature knocked off a ledge goes tumbling down the inward-sloping rock walls to the bottom of the cavern (area 16b), which is strewn with rocks, bones, and the bodies of two dead umber hulks.
 
-At the center of the cavern, floating 10 feet above a smooth, 80-foot-tall mithral spindle that erupts from the floor, is Maddgoth's castle. The stone castle is more than 60 feet away from the ledges, putting it outside the range of some creatures' darkvision. The stone giants have never noticed it for this reason.
+At the center of the cavern, floating 10 feet above a smooth, 80-foot-tall mithral spindle that erupts from the floor, is Maddgoth's castle. The stone castle is more than 60 feet away from the ledges, putting it outside the range of some creatures' [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision). The stone giants have never noticed it for this reason.
 
-The castle looks small enough to fit in a 20-foot-cube, and it floats at the center of an invisible 40-foot-radius sphere of transmutation magic that shrinks all creatures and objects in its area to one-twelfth their normal size. A 6-foot-tall person becomes a 6-inch-tall person, for example. Characters who enter the sphere can tell something has happened when Maddgoth's castle suddenly looms twelve times larger in their vision.
+The castle looks small enough to fit in a 20-foot-cube, and it floats at the center of an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) 40-foot-radius sphere of transmutation magic that shrinks all creatures and objects in its area to one-twelfth their normal size. A 6-foot-tall person becomes a 6-inch-tall person, for example. Characters who enter the sphere can tell something has happened when Maddgoth's castle suddenly looms twelve times larger in their vision.
 
 A shrunken creature or object reverts to its normal size once it leaves the sphere, which is generated by the mithral spindle. No saving throw is allowed to resist the shrinking effect, and nothing short of divine intervention can suppress the spindle's magic. The spindle is impervious to damage, and it generates a magical repulsion field that prevents creatures from approaching any closer to it than 5 feet.
 
-When Halaster created the mithral spindle, he exempted certain creatures and objects from its shrinking effect. The spindle itself is unaffected, as is [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md). Faerie dragons are also immune to the shrinking effect, and there might be other creatures and objects that are unaffected as well, based solely on the Mad Mage's whims.
+When Halaster created the mithral spindle, he exempted certain creatures and objects from its shrinking effect. The spindle itself is unaffected, as is [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md). Faerie dragons are also immune to the shrinking effect, and there might be other creatures and objects that are unaffected as well, based solely on the Mad Mage's whims.
 
 #### 16a. Ledges
 
@@ -308,7 +308,7 @@ These ledges are 90 feet above the cavern floor and safe to traverse.
 
 > [!note] 
 > 
-> **Qurrok**. If no one has raised an alarm, Qurrok the [stone giant](/3-Mechanics/CLI/bestiary/giant/stone-giant.md) is searching the cavern floor for interesting rocks and gem deposits.
+> **Qurrok**. If no one has raised an alarm, Qurrok the [stone giant](3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) is searching the cavern floor for interesting rocks and gem deposits.
 > 
 > **Corpses**. Amid the rocks on the cavern floor are the rotting corpses of two umber hulks killed by Qurrok in the western caves.
 ^3f5
@@ -323,7 +323,7 @@ Qurrok likes physical challenges. He neither shies away from combat nor backs do
 
 > [!note] Falling from Maddgoth's Castle
 > 
-> If a creature that is reduced to one-twelfth its normal size falls from the castle, it will travel over 600 relative feet before hitting the cavern floor due to the reducing effect around the castle, which turns every foot of actual distance into 12 feet of relative distance. From its perspective, the creature would seem to fall several hundred feet before suddenly growing twelve times bigger in the final 40 feet before impact. Because the reducing effect creates more relative distance between the creature and the cavern floor, a fall from anywhere on the castle deals `dice:20d6|noform|noparens|avg` (`20d6`) bludgeoning damage on impact.
+> If a creature that is reduced to one-twelfth its normal size falls from the castle, it will travel over 600 relative feet before hitting the cavern floor due to the reducing effect around the castle, which turns every foot of actual distance into 12 feet of relative distance. From its perspective, the creature would seem to fall several hundred feet before suddenly growing twelve times bigger in the final 40 feet before impact. Because the reducing effect creates more relative distance between the creature and the cavern floor, a fall from anywhere on the castle deals `20d6` bludgeoning damage on impact.
 ^falling-from-maddgoths-castle
 
 ## The Castle
@@ -332,15 +332,15 @@ Halaster constructed this castle to serve as a temporary residence for guests, t
 
 Characters who approach the castle can examine it for points of entry. The main entrance is a door at the base of the south tower (area 17). The castle also features an open courtyard (area 23) with doors leading to areas on the first level. The faerie dragon's preferred route is through a secret trapdoor on the roof (area 47). In addition, the corner towers have arrow slits that Small characters can squeeze through, and the central structure has windows fitted with crystal bars as strong as steel that are spaced 6 inches apart.
 
-Maddgoth's castle is now controlled by [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon, whose right to ownership is predicated on the argument "I found it and it's mine and you can't have it." The castle is a beautiful structure. Its walls, floors, and 20-foot-high ceilings of smooth gray stone can't be damaged or magically altered except with wish spells. The interior walls have colored glass blocks embedded in them. The blocks are not lit when the characters first arrive, but pulling a lever in area 37 causes each block to shed colorful light as bright as that created by a continual flame spell. Maddgoth's magic keeps the temperature inside the castle steady at 70 degrees Fahrenheit, but characters can shut off the heat by pulling another lever in area 37.
+Maddgoth's castle is now controlled by [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon, whose right to ownership is predicated on the argument "I found it and it's mine and you can't have it." The castle is a beautiful structure. Its walls, floors, and 20-foot-high ceilings of smooth gray stone can't be damaged or magically altered except with [wish](3-Mechanics/CLI/spells/wish-xphb.md) spells. The interior walls have colored glass blocks embedded in them. The blocks are not lit when the characters first arrive, but pulling a lever in area 37 causes each block to shed colorful light as bright as that created by a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell. Maddgoth's magic keeps the temperature inside the castle steady at 70 degrees Fahrenheit, but characters can shut off the heat by pulling another lever in area 37.
 
-Exterior doors are made of stone with adamantine hinges, and, like the castle walls, are impervious to damage. Interior doors look like fancy stained glass windows with iron hinges on one side. Each one is fitted with panes of colored glass set in an iron framework. The door handles are likewise fashioned from iron. A locked interior door can be forced open with a successful DC 15 Strength (Athletics) check. Its lock can also be picked with thieves' tools and a successful DC 15 Dexterity check. Shattering a door's glass panes creates an opening large enough for a creature to fit through.
+Exterior doors are made of stone with adamantine hinges, and, like the castle walls, are impervious to damage. Interior doors look like fancy stained glass windows with iron hinges on one side. Each one is fitted with panes of colored glass set in an iron framework. The door handles are likewise fashioned from iron. A locked interior door can be forced open with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Its lock can also be picked with thieves' tools and a successful DC 15 Dexterity check. Shattering a door's glass panes creates an opening large enough for a creature to fit through.
 
-Characters near the castle and inside it are shrunk to one-twelfth their normal size along with their gear. Almost everything they encounter inside the castle is similarly reduced in size, creating a sense of normalcy. [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) and [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon are noteworthy exceptions; use their modified statistics for encounters in the castle.
+Characters near the castle and inside it are shrunk to one-twelfth their normal size along with their gear. Almost everything they encounter inside the castle is similarly reduced in size, creating a sense of normalcy. [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) and [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon are noteworthy exceptions; use their modified statistics for encounters in the castle.
 
 ### 17. Main Entrance
 
-There isn't a stoop or other surface to stand on outside this castle entrance, but hanging on the front door is a crude wooden sign inscribed with the words "[Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s Castle" in Draconic. The exterior door is not locked, but opening it triggers a permanent alarm spell that rings throughout areas 18, 28, and 38. This alarm warns the faerie dragon and [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) that visitors have arrived, though neither creature makes any effort to greet them.
+There isn't a stoop or other surface to stand on outside this castle entrance, but hanging on the front door is a crude wooden sign inscribed with the words "[Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s Castle" in Draconic. The exterior door is not locked, but opening it triggers a permanent [alarm](3-Mechanics/CLI/spells/alarm-xphb.md) spell that rings throughout areas 18, 28, and 38. This alarm warns the faerie dragon and [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) that visitors have arrived, though neither creature makes any effort to greet them.
 
 The room contains the following:
 
@@ -348,39 +348,39 @@ The room contains the following:
 > 
 > **Pedestals**. Four white marble pedestals stand near the west and east walls. Atop each pedestal is a corked flask made of opaque green glass.
 > 
-> **Servants**. Four [living unseen servants](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) are dusting the pedestals and flasks, using dusters made of cockatrice feathers.
+> **Servants**. Four [living unseen servants](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) are dusting the pedestals and flasks, using dusters made of cockatrice feathers.
 ^3f9
 
 #### Green Flasks
 
-Uncorking or breaking a green flask releases a cloud of invisible poison gas called essence of ether. The gas fills a 10-foot-radius sphere and dissipates within seconds. Any creature in the cloud when it forms must succeed on a DC 15 Constitution saving throw or become poisoned for 8 hours. Creatures poisoned in this way fall unconscious, but they wake up if they take damage or if another creature uses an action to shake them awake.
+Uncorking or breaking a green flask releases a cloud of [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) poison gas called essence of ether. The gas fills a 10-foot-radius sphere and dissipates within seconds. Any creature in the cloud when it forms must succeed on a DC 15 Constitution saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 8 hours. Creatures [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), but they wake up if they take damage or if another creature uses an action to shake them awake.
 
 #### Living Unseen Servants
 
-Attacking a servant, snatching its feather duster, or otherwise disturbing the contents of this room triggers combat. On their first turn after rolling initiative, the living unseen servants knock the green flasks off their pedestals, causing the containers to shatter on the floor and release their poison gas (which has no effect on the unseen servants). The servants have no weapons but can arm themselves with weapons dropped by creatures rendered unconscious by the poison gas.
+Attacking a servant, snatching its feather duster, or otherwise disturbing the contents of this room triggers combat. On their first turn after rolling initiative, the living unseen servants knock the green flasks off their pedestals, causing the containers to shatter on the floor and release their poison gas (which has no effect on the unseen servants). The servants have no weapons but can arm themselves with weapons dropped by creatures rendered [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) by the poison gas.
 
 The living unseen servants are bound to this room and can't leave of their own volition.
 
 > [!note] Otto's Game
 > 
-> [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon spends much of its time stalking the castle hallways (areas 18, 28, and 38) and takes regular naps in area 43a. While awake, the faerie dragon prefers to remain invisible and likes to play pranks on guests.
+> [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon spends much of its time stalking the castle hallways (areas 18, 28, and 38) and takes regular naps in area 43a. While awake, the faerie dragon prefers to remain [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and likes to play pranks on guests.
 > 
-> [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s favorite prank is to sneak up on a guest, engulf it in a cloud of euphoria gas, and sneak away while remaining invisible the whole time. Its second favorite prank is to cast mage hand and use the spectral appendage to tap guests on the shoulder. Any time it performs such a prank, the faerie dragon has a 25 percent chance of betraying its location with a giggle or a snicker. The faerie dragon must then relocate itself on its next turn to keep from being caught.
+> [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s favorite prank is to sneak up on a guest, engulf it in a cloud of euphoria gas, and sneak away while remaining [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) the whole time. Its second favorite prank is to cast mage hand and use the spectral appendage to tap guests on the shoulder. Any time it performs such a prank, the faerie dragon has a 25 percent chance of betraying its location with a giggle or a snicker. The faerie dragon must then relocate itself on its next turn to keep from being caught.
 > 
-> Casting a spell that requires concentration causes the faerie dragon to become visible—after which it can move, cast a spell that doesn't require concentration (such as color spray or hallucinatory terrain), and use its bonus action to turn invisible again. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) is careful about casting spells that require concentration, because it can't concentrate on the spell and stay invisible at the same time. It normally casts mirror image before casting a spell that requires concentration, trusting that its images will protect it while it maintains concentration on the spell. If [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) succeeds in incapacitating a guest, it tries to remove the guest's weapons and gear, then spends the next hour hiding these items throughout the castle.
+> Casting a spell that requires concentration causes the faerie dragon to become visible—after which it can move, cast a spell that doesn't require concentration (such as color spray or hallucinatory terrain), and use its bonus action to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) again. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) is careful about casting spells that require concentration, because it can't concentrate on the spell and stay [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) at the same time. It normally casts mirror image before casting a spell that requires concentration, trusting that its images will protect it while it maintains concentration on the spell. If [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) succeeds in incapacitating a guest, it tries to remove the guest's weapons and gear, then spends the next hour hiding these items throughout the castle.
 > 
-> [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) reserves its polymorph spell for a truly dangerous adversary, turning that enemy into a frog before making a hasty escape.
+> [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) reserves its polymorph spell for a truly dangerous adversary, turning that enemy into a frog before making a hasty escape.
 > 
-> If the characters get rid of [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md), the faerie dragon takes a shine to them and offers to pay them 50 gp for each trinket they deliver to it. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) collects trinkets and has a secret stash of coins (see area 43b).
+> If the characters get rid of [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md), the faerie dragon takes a shine to them and offers to pay them 50 gp for each trinket they deliver to it. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) collects trinkets and has a secret stash of coins (see area 43b).
 ^ottos-game
 
 ### 18. Stone Hallways
 
-There is a 50 percent chance that [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) is stalking these halls. The last thing it wants are more invaders in its master's abode, so it attacks. When killed, it melts away and re-forms in area 25.
+There is a 50 percent chance that [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) is stalking these halls. The last thing it wants are more invaders in its master's abode, so it attacks. When killed, it melts away and re-forms in area 25.
 
 ### 19. Southwest Storeroom
 
-A tiny copper coin has been wedged into the door frame and can be spotted with a DC 15 Wisdom (Perception) check. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) places coins in door frames to keep track of where the homunculus has been. If the door is opened, the coin falls to the floor with a little clatter.
+A tiny copper coin has been wedged into the door frame and can be spotted with a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) places coins in door frames to keep track of where the homunculus has been. If the door is opened, the coin falls to the floor with a little clatter.
 
 The room is stuffed from floor to ceiling with junk. Most of it is worthless, but characters who spend 1 hour sifting through the junk can acquire up to 10 gp worth of mundane equipment from the Adventuring Gear table in the "Player's Handbook".
 
@@ -422,9 +422,9 @@ The arch is one of Halaster's magic gates (see "Gates"). Inscribed on its wall i
 > **Windows**. Crystal-barred windows look down on the courtyard from the two floors above.
 ^405
 
-Pulling the correct lever in area 37 unlocks all the doors leading to the courtyard. A knock spell or similar magic can also unlock a door. Each time such a spell is cast in the courtyard, a blade of force like that created by the Mordenkainen's sword spell materializes next to the statue. Each sword acts on initiative count 17. On its turn, the sword flies up to 20 feet toward the nearest creature and makes a melee spell attack against it (+8 to hit), dealing `dice:3d10|noform|noparens|avg` (`3d10`) force damage on a hit. A sword lasts for 1 minute or until successfully dispelled (DC 17), and it can pursue creatures beyond the courtyard's confines.
+Pulling the correct lever in area 37 unlocks all the doors leading to the courtyard. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic can also unlock a door. Each time such a spell is cast in the courtyard, a blade of force like that created by the [Mordenkainen's sword](3-Mechanics/CLI/spells/mordenkainens-sword-xphb.md) spell materializes next to the statue. Each sword acts on initiative count 17. On its turn, the sword flies up to 20 feet toward the nearest creature and makes a melee spell attack against it (`+8` to hit), dealing `3d10` force damage on a hit. A sword lasts for 1 minute or until successfully dispelled (DC 17), and it can pursue creatures beyond the courtyard's confines.
 
-The statue's eyes betray a hint of madness, and the wizard's helm is a representation of Maddgoth's magic helmet (found in area 25b). Like the castle, the statue can't be damaged or altered in any way. Carved into the pages of its open spellbook is the Mordenkainen's sword spell. A wizard can take a rubbing of the spell and copy it into a spellbook.
+The statue's eyes betray a hint of madness, and the wizard's helm is a representation of Maddgoth's magic helmet (found in area 25b). Like the castle, the statue can't be damaged or altered in any way. Carved into the pages of its open spellbook is the [Mordenkainen's sword](3-Mechanics/CLI/spells/mordenkainens-sword-xphb.md) spell. A wizard can take a rubbing of the spell and copy it into a spellbook.
 
 ### 24. Privy and Bath
 
@@ -474,11 +474,11 @@ The wands, staffs, rods, and orbs embedded in the walls are trophies taken by Ma
 
 Maddgoth took the spellbooks from scores of dead wizards and used them to construct the desk and chair for himself. Any character who examines the furniture can quickly ascertain that the spellbooks belonged to many different wizards. Some look much older than others. A coating of thick lacquer gives these furnishings a glass-like sheen and prevents the books from being opened. Characters who smash the desk and chair can salvage twelve intact spellbooks, nine from the wreckage of the desk and three from the wreckage of the chair. The remaining books are too damaged to be salvaged or read.
 
-To determine a particular spellbook's contents, roll a `dice:d6|noform|noparens|avg` (`d6`). The book contains four wizard spells of each level up to and including the number rolled on the die. For example, on a roll of 3, a spellbook contains four spells of each level from 1st through 3rd. Pick spells from the wizard spell list.
+To determine a particular spellbook's contents, roll a `d6`. The book contains four wizard spells of each level up to and including the number rolled on the die. For example, on a roll of 3, a spellbook contains four spells of each level from 1st through 3rd. Pick spells from the wizard spell list.
 
 ##### Magic Mirror
 
-A detect magic spell reveals an aura of transmutation magic around the mirror, which is stuck to the wall with sovereign glue and can't be pried loose without breaking it. An identify spell or similar magic reveals that it's a magic storage device and that contact with an arcane focus activates it.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the mirror, which is stuck to the wall with [sovereign glue](3-Mechanics/CLI/items/sovereign-glue-xdmg.md) and can't be pried loose without breaking it. An [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic reveals that it's a magic storage device and that contact with an arcane focus activates it.
 
 The mirror's reflective surface turns to liquid for 1 minute when touched by either a construct or an object serving as an arcane focus. A creature can reach into the liquid and remove a helm from inside it. The helm belongs to Maddgoth. Fashioned from mithral, it has blade-like fins. If the mirror is smashed while the helm is inside it, the helm is lost forever.
 
@@ -492,7 +492,7 @@ The scent of dry clay pervades these rooms.
 
 #### 26a. Building Blocks
 
-This room contains piles of tiny interlocking clay bricks that radiate auras of transmutation magic under the scrutiny of a detect magic spell. The bricks can be assembled into a single Large object, two Medium objects, or four Small objects. A sculpture animates at its creator's command, as though affected by an animate objects spell, and remains animate and under its creator's control for 1 hour. The sculpture is destroyed and turns to clay dust when it drops to 0 hit points, when it's successfully targeted by a dispel magic spell (DC 15), or when the effect ends.
+This room contains piles of tiny interlocking clay bricks that radiate auras of transmutation magic under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell. The bricks can be assembled into a single Large object, two Medium objects, or four Small objects. A sculpture animates at its creator's command, as though affected by an [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell, and remains animate and under its creator's control for 1 hour. The sculpture is destroyed and turns to clay dust when it drops to 0 hit points, when it's successfully targeted by a [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 15), or when the effect ends.
 
 #### 26b. Old Clay
 
@@ -503,7 +503,7 @@ This room contains piles of tiny interlocking clay bricks that radiate auras of 
 > **Blocks and Molds**. Dozens of 5-pound blocks of dried clay and several stone molds are stacked on shelves in the middle of the room.
 ^413
 
-A detect magic spell reveals an aura of transmutation magic around the oven, which is used for baking tiny clay bricks like the ones in area 26a. The clay on the shelves is too old and brittle to be of use.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the oven, which is used for baking tiny clay bricks like the ones in area 26a. The clay on the shelves is too old and brittle to be of use.
 
 ### 27. Dining Room and Kitchen
 
@@ -518,13 +518,13 @@ The outer doors to these rooms have copper coins wedged into their frames (see a
 > **Dining Set**. A green marble dining table surrounded by twelve high-backed oak chairs stands in the middle of the room.
 ^416
 
-Moments after the bell rings, the six [living unseen servants](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) from area 27b enter through the north door and begin setting the table for a feast. Once the table is set, they pull out chairs for guests and begin pouring wine into goblets before serving dinner and dessert.
+Moments after the bell rings, the six [living unseen servants](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) from area 27b enter through the north door and begin setting the table for a feast. Once the table is set, they pull out chairs for guests and begin pouring wine into goblets before serving dinner and dessert.
 
 #### 27b. Kitchen
 
 This room contains tables, stoves, cauldrons, cooking utensils, and food in various states of preparation. All the food is magically created and appears fresh. Packed in cupboards are enameled bowls, plates, goblets, and mugs, as well as silver eating utensils and candlesticks.
 
-Unless they were in encountered in area 27a, six [living unseen servants](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) staff the kitchen. They try to gently nudge anyone who wanders into the kitchen out the nearest door. Intruders that refuse to leave are attacked. The servants are confined to area 27 and can't leave these chambers of their own volition.
+Unless they were in encountered in area 27a, six [living unseen servants](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A) staff the kitchen. They try to gently nudge anyone who wanders into the kitchen out the nearest door. Intruders that refuse to leave are attacked. The servants are confined to area 27 and can't leave these chambers of their own volition.
 
 #### 27c. Pantry
 
@@ -544,7 +544,7 @@ The halls on this level join to form a circuit. Their features are as follows:
 > 
 > **Windows**. Crystal-barred windows face the courtyard (area 23).
 > 
-> Unless the characters have already encountered and defeated [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) elsewhere, the invisible faerie dragon lurks in these halls (see "Otto's Game").
+> Unless the characters have already encountered and defeated [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) elsewhere, the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) faerie dragon lurks in these halls (see "Otto's Game").
 ^41b
 
 ### 29. Southwest Guest Room
@@ -579,9 +579,9 @@ The door frame has a silver coin wedged into it (see area 19). This room's featu
 > **Portrait**. Behind the bottle, hanging on the wall, is a large framed portrait of a wild-haired old man (Halaster) gazing down at the boat with a mad gleam in his eyes.
 ^420
 
-The longship model is 54 inches long by 15 inches wide, contained in a corked glass bottle 5 feet long and 1½ feet wide. The bottle rests on its side in a wooden stand and is portable. A detect magic spell reveals an aura of transmutation magic around the ship.
+The longship model is 54 inches long by 15 inches wide, contained in a corked glass bottle 5 feet long and 1½ feet wide. The bottle rests on its side in a wooden stand and is portable. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the ship.
 
-An identify spell or similar magic cast on the model reveals that it's an actual longship magically reduced to one-twelfth its normal size. The spell also reveals that the only way to restore the ship to its actual size (54 feet long by 15 feet wide) is to touch the ship while speaking the proper command phrase: "Our voyage is at hand!" Once the ship enlarges to normal size, it becomes an ordinary longship (worth 10,000 gp intact) and cannot be shrunk back down. If it is restored to full size in a space too small to contain it, such as this chamber, the ship splinters apart and is destroyed. Creatures nearby might take damage from flying debris at your discretion. The ship is unaffected by the size-altering magic of Maddgoth's castle.
+An [identify](3-Mechanics/CLI/spells/identify-xphb.md) spell or similar magic cast on the model reveals that it's an actual longship magically reduced to one-twelfth its normal size. The spell also reveals that the only way to restore the ship to its actual size (54 feet long by 15 feet wide) is to touch the ship while speaking the proper command phrase: "Our voyage is at hand!" Once the ship enlarges to normal size, it becomes an ordinary longship (worth 10,000 gp intact) and cannot be shrunk back down. If it is restored to full size in a space too small to contain it, such as this chamber, the ship splinters apart and is destroyed. Creatures nearby might take damage from flying debris at your discretion. The ship is unaffected by the size-altering magic of Maddgoth's castle.
 
 ### 31. Northeast Guest Room
 
@@ -617,12 +617,12 @@ The door to this room is locked, its key lost.
 > 
 > **Furnishings**. Four overstuffed chairs face each other with a low circular table between them.
 > 
-> **Octobass**. An octobass, a 12-foot-tall fiddle, leans in the northeast corner, its bow on the floor nearby. Trapped in the octobass is a naked old man (a shapechanged [gray slaad](/3-Mechanics/CLI/bestiary/aberration/gray-slaad.md)).
+> **Octobass**. An octobass, a 12-foot-tall fiddle, leans in the northeast corner, its bow on the floor nearby. Trapped in the octobass is a naked old man (a shapechanged [gray slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md)).
 ^426
 
 Maddgoth removed the slaad's control gem and, for fun, ordered the creature to crawl inside the octobass and remain there.
 
-The old man claims to be Zartem, a wizard whom Maddgoth invited to the castle for dinner. He further claims that Maddgoth stole his spellbook and used magic to trap him inside the octobass. If the characters shatter the fragile instrument, the slaad is no longer bound by Maddgoth's parting instructions and attacks its liberators. The slaad prefers to fight with its greatsword (which is hidden from view while it's in the octobass) or catch multiple foes in the area of a fireball spell.
+The old man claims to be Zartem, a wizard whom Maddgoth invited to the castle for dinner. He further claims that Maddgoth stole his spellbook and used magic to trap him inside the octobass. If the characters shatter the fragile instrument, the slaad is no longer bound by Maddgoth's parting instructions and attacks its liberators. The slaad prefers to fight with its greatsword (which is hidden from view while it's in the octobass) or catch multiple foes in the area of a [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) spell.
 
 ### 34. Maddgoth's Suite
 
@@ -641,17 +641,17 @@ Maddgoth slept as little as possible and spent almost no time here. The room's f
 > **Bed**. A large four-poster bed stands against the west wall between two crystal-barred windows. A hefty figure sleeps under the covers, snoring loudly.
 ^429
 
-The snoring lump under the covers is an illusion. If the covers are pulled back, the snoring stops as it's revealed that there's no one in the bed. Casting dispel magic on the bed also ends the illusion.
+The snoring lump under the covers is an illusion. If the covers are pulled back, the snoring stops as it's revealed that there's no one in the bed. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the bed also ends the illusion.
 
-A detect magic spell reveals an aura of conjuration magic around each framed portrait of Maddgoth. When a creature casts a spell in this room or disturbs the figure in the bed, the six wands depicted in the framed portraits magically spring from their paintings, gaining the statistics of [flying swords](/3-Mechanics/CLI/bestiary/construct/flying-sword.md), and remain detached from the paintings thereafter. Replace the wands' Longsword action option with the following:
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of conjuration magic around each framed portrait of Maddgoth. When a creature casts a spell in this room or disturbs the figure in the bed, the six wands depicted in the framed portraits magically spring from their paintings, gaining the statistics of [flying swords](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md), and remain detached from the paintings thereafter. Replace the wands' Longsword action option with the following:
 
 ##### Magic Missile
 
-The wand shoots a dart of magical force at one creature that it can detect within 60 feet of it. The target takes `dice:1d4+1|noform|noparens|avg|text(3)` (`1d4 + 1`) force damage as the dart hits it unerringly.
+The wand shoots a dart of magical force at one creature that it can detect within 60 feet of it. The target takes 3 (`1d4 + 1`) force damage as the dart hits it unerringly.
 
 ##### Treasure
 
-The Dragonchess set weighs 30 pounds and has beautifully carved and enameled pieces. A character who succeeds on a DC 25 Intelligence (History) check realizes that the set is one of four made by Emperor Umyatin, who ruled an ancient human civilization called Imaskar that spanned much of Faerûn ten millennia ago. Collectors aware of its history will pay up to 2,500 gp for the set.
+The Dragonchess set weighs 30 pounds and has beautifully carved and enameled pieces. A character who succeeds on a DC 25 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check realizes that the set is one of four made by Emperor Umyatin, who ruled an ancient human civilization called Imaskar that spanned much of Faerûn ten millennia ago. Collectors aware of its history will pay up to 2,500 gp for the set.
 
 #### 34b. Closet
 
@@ -670,7 +670,7 @@ Most of the apparel on display was taken from wizards whom Maddgoth killed. Cons
 
 #### Mind Flayer Costume
 
-Closer inspection reveals that the mind flayer is a featureless wooden mannequin dressed in a convincing mind flayer costume, complete with black robe, cowl, and rubber mask. A Medium character who wears the costume can make Charisma (Deception) checks to impersonate a mind flayer. Such checks are made with advantage if the costume is viewed in poor lighting or from more than 15 feet away. A character who wears the mask has disadvantage on Wisdom (Perception) checks. A character who wears the robe and cowl has disadvantage on Dexterity (Stealth) checks. The robe and cowl can't be worn over heavy armor.
+Closer inspection reveals that the mind flayer is a featureless wooden mannequin dressed in a convincing mind flayer costume, complete with black robe, cowl, and rubber mask. A Medium character who wears the costume can make Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) checks to impersonate a mind flayer. Such checks are made with advantage if the costume is viewed in poor lighting or from more than 15 feet away. A character who wears the mask has disadvantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks. A character who wears the robe and cowl has disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks. The robe and cowl can't be worn over heavy armor.
 
 ### 36. Records
 
@@ -682,9 +682,9 @@ This room contains rows of wooden cabinets stuffed with disorganized files chron
 
 #### 36b. Secure Records
 
-The door to this room is locked and trapped with a glyph of warding spell. Maddgoth took the key with him, and opening the door by any means other than using the proper key triggers the spell. Picking the lock requires thieves' tools and a successful DC 15 Dexterity check.
+The door to this room is locked and trapped with a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell. Maddgoth took the key with him, and opening the door by any means other than using the proper key triggers the spell. Picking the lock requires thieves' tools and a successful DC 15 Dexterity check.
 
-An examination of the door accompanied by a successful DC 19 Intelligence (Investigation) check detects the nearly invisible glyph, which is scratched into one of the door's stained glass panes. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on it. Each creature in the area must make a DC 19 Dexterity saving throw, taking `dice:10d8|noform|noparens|avg|text(45)` (`10d8`) thunder damage on a failed save, or half as much damage on a successful one. The glyph has the secondary effect of blowing out all the glass in the door.
+An examination of the door accompanied by a successful DC 19 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check detects the nearly [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) glyph, which is scratched into one of the door's stained glass panes. When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on it. Each creature in the area must make a DC 19 Dexterity saving throw, taking 45 (`10d8`) thunder damage on a failed save, or half as much damage on a successful one. The glyph has the secondary effect of blowing out all the glass in the door.
 
 The room is empty.
 
@@ -708,16 +708,16 @@ A creature can use an action to adjust up to three levers and buttons, in any co
 > 
 > **Button 3**. The inscription under this button reads "FOG." Pushing the button fills the castle hallways (areas 18, 28, and 38) and the stairways connecting them with fog, making these areas heavily obscured. The fog lasts for 1 hour or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 > 
-> **Button 4**. The inscription next to this button reads "LOCKDOWN." Pushing the button causes every door in the castle (including the rooftop trapdoor) to lock, as if sealed by an arcane lock spell. This effect lasts for 1 hour. While locked in this way, the interior doors—most of which are as much iron as glass—also become electrified. Such a door deals `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) lightning damage to any creature that touches it.
+> **Button 4**. The inscription next to this button reads "LOCKDOWN." Pushing the button causes every door in the castle (including the rooftop trapdoor) to lock, as if sealed by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell. This effect lasts for 1 hour. While locked in this way, the interior doors—most of which are as much iron as glass—also become electrified. Such a door deals 5 (`1d10`) lightning damage to any creature that touches it.
 > 
-> **Button 5**. The inscription next to this button reads "DO NOT PRESS!" Pushing the button causes bolts of lightning to erupt from the console. Every creature in the room must make a DC 20 Dexterity saving throw, taking `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. A creature in metal armor has disadvantage on the saving throw.
+> **Button 5**. The inscription next to this button reads "DO NOT PRESS!" Pushing the button causes bolts of lightning to erupt from the console. Every creature in the room must make a DC 20 Dexterity saving throw, taking 44 (`8d10`) lightning damage on a failed save, or half as much damage on a successful one. A creature in metal armor has disadvantage on the saving throw.
 ^434
 
 ### 38. Glittering Hall
 
 The halls on this level join to form a circuit, with crystal-barred windows looking down on the central courtyard (area 23).
 
-The floor is made of tiny bits of colored glass and crushed gems, polished to a lustrous sheen. Four [living unseen servants](/3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A), each carrying a mop and a bucket of soapy water, stand outside the doors to areas 39 through 42, ready to clean up any spills in the hall. The servants defend themselves with their mops (treat as clubs) if attacked but are otherwise harmless.
+The floor is made of tiny bits of colored glass and crushed gems, polished to a lustrous sheen. Four [living unseen servants](3-Mechanics/CLI/bestiary/construct/living-unseen-servant-wdmm.md) (see appendix A), each carrying a mop and a bucket of soapy water, stand outside the doors to areas 39 through 42, ready to clean up any spills in the hall. The servants defend themselves with their mops (treat as clubs) if attacked but are otherwise harmless.
 
 #### Stairs to the Roof
 
@@ -727,7 +727,7 @@ The northernmost staircase climbs 20 feet before ending at an 8-foot-square ston
 
 The walls, floor, and ceiling of this room are scorched. Strewn about are blackened pieces of furniture, shards of smoky glass, and charred splinters of wood and bone.
 
-A character who examines the room thoroughly and succeeds on a DC 14 Intelligence (Investigation) check concludes that four separate fiery eruptions caused the destruction. A successful DC 19 Intelligence (Arcana) check reveals that the damage was likely the result of a meteor swarm spell cast in the room.
+A character who examines the room thoroughly and succeeds on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check concludes that four separate fiery eruptions caused the destruction. A successful DC 19 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check reveals that the damage was likely the result of a [meteor swarm](3-Mechanics/CLI/spells/meteor-swarm-xphb.md) spell cast in the room.
 
 ### 40. Northwest Chamber
 
@@ -741,12 +741,12 @@ The door frame has a silver coin wedged into it (see area 19). The room contains
 > 
 > **Mirror**. Embedded in the middle of the south wall is a rectangular mirror in a stone frame.
 > 
-> **Statue**. Standing in front of the mirror is an unfinished 8-foot-tall statue of a merfolk blowing a conch shell, its lower body replaced by a misshapen block of chiseled granite. (This statue is a shapechanged [roper](/3-Mechanics/CLI/bestiary/monstrosity/roper.md).)
+> **Statue**. Standing in front of the mirror is an unfinished 8-foot-tall statue of a merfolk blowing a conch shell, its lower body replaced by a misshapen block of chiseled granite. (This statue is a shapechanged [roper](3-Mechanics/CLI/bestiary/aberration/roper-xmm.md).)
 > 
 > **Tridents**. Four tridents hang on the north and east walls between the arrow slits. They fly off the walls and attack if certain conditions are met.
 ^43a
 
-The tridents animate and attack if any of them are disturbed or if the roper dies. They have the statistics of [flying swords](/3-Mechanics/CLI/bestiary/construct/flying-sword.md) but deal piercing damage instead of slashing damage on a hit.
+The tridents animate and attack if any of them are disturbed or if the roper dies. They have the statistics of [flying swords](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) but deal piercing damage instead of slashing damage on a hit.
 
 #### Mirror Gate to Level 10
 
@@ -766,7 +766,7 @@ The roper has the following additional trait:
 
 The roper can use its action to polymorph into a stone object or back to its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-The roper answers to the name Miguel. It has instructions to attack any creature that enters the room through the mirror gate. It also attacks any creature that threatens to do it harm. Halaster feeds the roper regularly so that it doesn't have to attack out of hunger. Neither [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon nor [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) is aware that the statue is really a creature in disguise.
+The roper answers to the name Miguel. It has instructions to attack any creature that enters the room through the mirror gate. It also attacks any creature that threatens to do it harm. Halaster feeds the roper regularly so that it doesn't have to attack out of hunger. Neither [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon nor [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) is aware that the statue is really a creature in disguise.
 
 #### Treasure
 
@@ -778,7 +778,7 @@ The door to this room is missing its stained glass window panes. Tiny shard of g
 
 ### 43. Otto's Den
 
-Maddgoth crafted and tested magic items here. The area contains several lingering magical effects that prompted the faerie dragon to turn these chambers into its private den. Whenever [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) leaves to torment the stone giants or wander the castle, [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) sneaks in here to trash the place.
+Maddgoth crafted and tested magic items here. The area contains several lingering magical effects that prompted the faerie dragon to turn these chambers into its private den. Whenever [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) leaves to torment the stone giants or wander the castle, [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) sneaks in here to trash the place.
 
 #### 43a. "Homunculi Unwelcome"
 
@@ -795,40 +795,40 @@ The characters hear crashing sounds as they approach this room. Hanging on the h
 > **Secret Door**. A secret door in the north corner of the east wall opens into area 43b. (The homunculus is unaware of it.)
 ^442
 
-[Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) knows it can't be killed and attacks the characters unless they withdraw immediately. If it is destroyed, it melts away and re-forms in area 25a.
+[Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) knows it can't be killed and attacks the characters unless they withdraw immediately. If it is destroyed, it melts away and re-forms in area 25a.
 
-[Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s spoils include candles and candle snuffers, potted mushrooms, mortars and pestles, lamps, belts, pentacle pendants, recipe books, sticks of colored chalk, kettles, cauldrons, spoons, stuffed animals, spools of wire, glass beads, wigs, walking sticks, bars of soap, balls of yarn, cracked mirrors and prisms, quills, smoking pipes, empty scroll tubes, and torn sheaves of parchment. Though some of the collection's pieces might be useful and many are colorful or whimsical in design, nothing here holds any special value.
+[Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s spoils include candles and candle snuffers, potted mushrooms, mortars and pestles, lamps, belts, pentacle pendants, recipe books, sticks of colored chalk, kettles, cauldrons, spoons, stuffed animals, spools of wire, glass beads, wigs, walking sticks, bars of soap, balls of yarn, cracked mirrors and prisms, quills, smoking pipes, empty scroll tubes, and torn sheaves of parchment. Though some of the collection's pieces might be useful and many are colorful or whimsical in design, nothing here holds any special value.
 
 #### 43b. Otto's Secret Stash
 
-[Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s most prized possessions fill this cluttered space. These treasures are spread across tables that have been stacked atop one another, forming makeshift shelves that scrape the 20-foot-high ceiling and threaten to topple at any moment. Any character who tries to get at a hard-to-reach item has a 50 percent chance of setting into motion a Rube Goldberg-esque cascade of tables and baubles. When everything comes tumbling down, every creature in the room must make a DC 15 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+[Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md)'s most prized possessions fill this cluttered space. These treasures are spread across tables that have been stacked atop one another, forming makeshift shelves that scrape the 20-foot-high ceiling and threaten to topple at any moment. Any character who tries to get at a hard-to-reach item has a 50 percent chance of setting into motion a Rube Goldberg-esque cascade of tables and baubles. When everything comes tumbling down, every creature in the room must make a DC 15 Dexterity saving throw, taking 10 (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
 ##### Treasure
 
-The items gathered here include dozens of porcelain and ceramic dragon statuettes, old storybooks, worthless but shiny costume jewelry, a pair of jade bookends carved to resemble yuan-ti abominations (250 gp for the pair), two random trinkets (roll twice on the Trinkets table in chapter 5 of the "Player's Handbook"), and coffers stuffed with a total of 30 pp, 150 gp, 300 ep, 1,500 sp, and 5,000 cp. Perched atop a high table is a potion of fire breath in a small crystal flask that breaks if the tables fall.
+The items gathered here include dozens of porcelain and ceramic dragon statuettes, old storybooks, worthless but shiny costume jewelry, a pair of jade bookends carved to resemble yuan-ti abominations (250 gp for the pair), two random trinkets (roll twice on the [Trinkets](3-Mechanics/CLI/items/trinket-xphb.md) table in chapter 5 of the "Player's Handbook"), and coffers stuffed with a total of 30 pp, 150 gp, 300 ep, 1,500 sp, and 5,000 cp. Perched atop a high table is a [potion of fire breath](3-Mechanics/CLI/items/potion-of-fire-breath-xdmg.md) in a small crystal flask that breaks if the tables fall.
 
 ### 44. Wizard's Armory
 
-This room is locked, its key lost. [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) punched a hole through one of the door's glass panes to get a look inside but didn't see anything of interest. Characters who peer inside see the following:
+This room is locked, its key lost. [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) punched a hole through one of the door's glass panes to get a look inside but didn't see anything of interest. Characters who peer inside see the following:
 
 > [!note] 
 > 
-> **Bats**. Two ordinary [bats](/3-Mechanics/CLI/bestiary/beast/bat.md) flap around the room. Each bat transforms into a [nycaloth](/3-Mechanics/CLI/bestiary/fiend/nycaloth.md) if it is reduced to 0 hit points or if the door to the room is opened.
+> **Bats**. Two ordinary [bats](3-Mechanics/CLI/bestiary/beast/bat-xmm.md) flap around the room. Each bat transforms into a [nycaloth](3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md) if it is reduced to 0 hit points or if the door to the room is opened.
 > 
 > **Scroll**. On the north wall, east of the door, hangs a framed scroll pressed flat behind a sheet of glass. Bolted to the wooden frame is a tiny metal plaque that reads, "Break glass in case of emergency."
 ^446
 
-Maddgoth's idea of an armory is a pair of well-paid nycaloths named Yzig and Gorzog. They can't leave the room until they're restored to their true form, and they won't leave the castle before Maddgoth returns. Their orders are to slay castle invaders. The nycaloths recognize [Maddgoth's homunculus](/3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) and won't harm it; all other creatures are attacked on sight.
+Maddgoth's idea of an armory is a pair of well-paid nycaloths named Yzig and Gorzog. They can't leave the room until they're restored to their true form, and they won't leave the castle before Maddgoth returns. Their orders are to slay castle invaders. The nycaloths recognize [Maddgoth's homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md) and won't harm it; all other creatures are attacked on sight.
 
 Without its master around, the homunculus doesn't trust the nycaloths and thus hasn't tried to free them.
 
 #### Treasure
 
-The framed scroll is a spell scroll of cloudkill.
+The framed scroll is a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md).
 
 ### 45. Alchemist's Laboratory
 
-[Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) removed anything it considered valuable from this chamber but periodically returns to see if it missed anything. If the faerie dragon hasn't been encountered and defeated elsewhere, there is a 25 percent chance that it's here when the characters arrive, in which case the door to the room is open. If [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) is not present, the door is closed and has a silver coin lodged in its frame (see area 19). The room's features are as follows:
+[Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) removed anything it considered valuable from this chamber but periodically returns to see if it missed anything. If the faerie dragon hasn't been encountered and defeated elsewhere, there is a 25 percent chance that it's here when the characters arrive, in which case the door to the room is open. If [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) is not present, the door is closed and has a silver coin lodged in its frame (see area 19). The room's features are as follows:
 
 > [!note] 
 > 
@@ -843,7 +843,7 @@ The framed scroll is a spell scroll of cloudkill.
 
 The room contains three full sets of alchemist's supplies, all of which can fit in one backpack.
 
-A potion of invisibility in a stoppered glass vial has rolled underneath the northwest corner cabinet and is lodged in the back corner. A detect magic spell reveals its presence.
+A [potion of invisibility](3-Mechanics/CLI/items/potion-of-invisibility-xdmg.md) in a stoppered glass vial has rolled underneath the northwest corner cabinet and is lodged in the back corner. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals its presence.
 
 ### 46. Maddgoth's Throne
 
@@ -857,20 +857,20 @@ The roof offers little in the way of a view, since the surrounding cavern is all
 
 #### Hidden Trapdoor
 
-An 8-foot-square trapdoor near the northern battlement hides a stone staircase that leads down to area 38. This is the route by which [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon comes and goes from the castle.
+An 8-foot-square trapdoor near the northern battlement hides a stone staircase that leads down to area 38. This is the route by which [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon comes and goes from the castle.
 
-The trapdoor blends in with the surrounding stonework, and detecting it requires a successful DC 15 Wisdom (Perception) check. Tiny letters scratched into the trapdoor spell the words "KNOCK KNOCK" in Draconic.
+The trapdoor blends in with the surrounding stonework, and detecting it requires a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Tiny letters scratched into the trapdoor spell the words "KNOCK KNOCK" in Draconic.
 
-Knocking twice on the trapdoor causes it to swing open on its own, then close 1 minute later. Otherwise, the trapdoor must be pried open with a crowbar or similar tool. Prying the trapdoor open requires a successful DC 18 Strength (Athletics) check.
+Knocking twice on the trapdoor causes it to swing open on its own, then close 1 minute later. Otherwise, the trapdoor must be pried open with a crowbar or similar tool. Prying the trapdoor open requires a successful DC 18 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ## Aftermath
 
-What happens in the miniature castle has little impact on the stone giants, and vice versa. Killing all the giants saddens [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon, but its goals don't change. If the characters help the giants by dealing with the faerie dragon, all is forgotten in a few hours when the giants' memories fade away.
+What happens in the miniature castle has little impact on the stone giants, and vice versa. Killing all the giants saddens [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) the faerie dragon, but its goals don't change. If the characters help the giants by dealing with the faerie dragon, all is forgotten in a few hours when the giants' memories fade away.
 
-If the slaad in area 33 succeeds in slaying or driving off the characters, it makes its home in the castle, hoping that Maddgoth will one day return with the slaad's control gem. In a struggle between the faerie dragon and the slaad for control of the castle, the slaad can win either by killing [Otto](/3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) or forcing the dragon into hiding.
+If the slaad in area 33 succeeds in slaying or driving off the characters, it makes its home in the castle, hoping that Maddgoth will one day return with the slaad's control gem. In a struggle between the faerie dragon and the slaad for control of the castle, the slaad can win either by killing [Otto](3-Mechanics/CLI/bestiary/npc/otto-wdmm.md) or forcing the dragon into hiding.
 
 Characters who leave the level and later return discover that the giants don't recognize them or remember having met them previously. If one or more giants were killed, the surviving ones retain no memory of how their fallen kin died. If all the giants die, Halaster might freeze the caverns and fill them with a tribe of yetis led by a mated pair of abominable yetis, or provide the space to a clan of degenerate fomorians.
 
-After the characters depart, Maddgoth might return to check on things. He's either a neutral evil [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md) who has exceeded his natural life span with potions of longevity, or he's a [lich](/3-Mechanics/CLI/bestiary/undead/lich.md). Choose whichever form you prefer. In either case, Maddgoth tries to put his house in order, which could take weeks if the characters made a mess of things. Maddgoth might be accompanied by a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) he has invited to stay with him on some false pretense. In truth, Maddgoth plans to torture and murder his house guest, as he has done with so many others.
+After the characters depart, Maddgoth might return to check on things. He's either a neutral evil [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) who has exceeded his natural life span with [potions of longevity](3-Mechanics/CLI/items/potion-of-longevity-xdmg.md), or he's a [lich](3-Mechanics/CLI/bestiary/undead/lich-xmm.md). Choose whichever form you prefer. In either case, Maddgoth tries to put his house in order, which could take weeks if the characters made a mess of things. Maddgoth might be accompanied by a [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) he has invited to stay with him on some false pretense. In truth, Maddgoth plans to torture and murder his house guest, as he has done with so many others.
 
-Maddgoth wears a [horned ring](/3-Mechanics/CLI/items/horned-ring-wdmm.md) (a very rare magic item) that allows a wearer attuned to it to ignore Undermountain's magical restrictions (see "Alterations to Magic"). He also carries the control gem for the slaad in area 33. If the party didn't claim his helm (see area 25b), he dons it for the duration of his stay in the castle. If the nycaloths are still around (see area 44), Maddgoth retains their services as bodyguards. If the characters prove too great a challenge for him, Maddgoth teleports away and returns the next day with eight [mezzoloths](/3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) to help him clean house.
+Maddgoth wears a [horned ring](3-Mechanics/CLI/items/horned-ring-wdmm.md) (a very rare magic item) that allows a wearer attuned to it to ignore Undermountain's magical restrictions (see "Alterations to Magic"). He also carries the control gem for the slaad in area 33. If the party didn't claim his helm (see area 25b), he dons it for the duration of his stay in the castle. If the nycaloths are still around (see area 44), Maddgoth retains their services as bodyguards. If the characters prove too great a challenge for him, Maddgoth teleports away and returns the next day with eight [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) to help him clean house.

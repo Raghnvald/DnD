@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gallows Speaker
+- "Gallows Speaker"
 ---
-# [Gallows Speaker](3-Mechanics\CLI\bestiary\undead/gallows-speaker-vrgr.md)
+# [Gallows Speaker](3-Mechanics/CLI/bestiary/undead/gallows-speaker-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 234*  
 
 Gallows speakers arise from places of mass death or sites where creatures regularly meet their doom. Over time, pain-wracked phantoms and lingering souls combine into an entity that knows death in myriad forms. Such amalgamated spirits are tormented by their collective pain, endlessly moaning disjointed final thoughts as they lash out at the living. Having known untold deaths, gallows speakers can predict suffering, foreseeing dooms leveled against them and overwhelming their foes with visions of innumerable violent deaths.
@@ -39,17 +39,17 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 17"
 "languages": "any languages its component spirits knew in life"
 "cr": "6"
 "traits":
@@ -63,19 +63,20 @@ Gallows speakers rarely speak coherently or communicate with the living, instead
   - "desc": "The gallows speaker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 15\
-      \ (2d10 + 4) psychic damage, and the target must roll a d4 and subtract the\
-      \ number rolled from the next attack roll or saving throw it makes before the\
-      \ start of the gallows speaker's next turn."
+  - "desc": "*Melee Spell Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 15 (2d10 + 4) psychic damage, and the target must roll a d4 and subtract\
+      \ the number rolled from the next attack roll or saving throw it makes before\
+      \ the start of the gallows speaker's next turn."
     "name": "Foretelling Touch"
   - "desc": "The gallows speaker targets a creature it can see within 30 feet of it.\
       \ The target must make a DC 15 Wisdom saving throw. On a failed save, the target\
-      \ takes 19 (3d12) psychic damage, and waves of painful memories leap from the\
-      \ target to up to three other creatures of the gallows speaker's choice that\
-      \ are within 30 feet of the target, each of which takes 13 (3d8) psychic damage."
+      \ takes 19 (3d12) psychic damage, and waves of painful memories leap from\
+      \ the target to up to three other creatures of the gallows speaker's choice\
+      \ that are within 30 feet of the target, each of which takes 13 (3d8) psychic\
+      \ damage."
     "name": "Suffering Echoes"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/gallows-speaker-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/gallows-speaker-vrgr.webp"
 ```
 ^statblock

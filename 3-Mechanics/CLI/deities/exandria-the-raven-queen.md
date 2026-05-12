@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/grave
-aliases: 
-- The Raven Queen
+aliases:
+- "The Raven Queen"
 ---
 # The Raven Queen
 *Source: Explorer's Guide to Wildemount p. 24* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-the-raven-queen.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-the-raven-queen.webp#symbol)
 
 - **Alignment**: Lawful Neutral
 - **Category**: Prime Deities

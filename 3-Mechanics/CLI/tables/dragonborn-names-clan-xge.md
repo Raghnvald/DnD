@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Dragonborn Names – Clan
+- "Dragonborn Names – Clan"
 ---
 # Dragonborn Names – Clan
 *Source: Xanathar's Guide to Everything p. 175* 
 
 **Dragonborn Names – Clan**
-
-`dice: [](dragonborn-names-clan-xge.md#^dragonborn-names-clan)`
 
 | dice: d100 | Name |
 |------------|------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeletal Alchemist
+- "Skeletal Alchemist"
 ---
-# [Skeletal Alchemist](3-Mechanics\CLI\bestiary\undead/skeletal-alchemist-gos.md)
+# [Skeletal Alchemist](3-Mechanics/CLI/bestiary/undead/skeletal-alchemist-gos.md)
 *Source: Ghosts of Saltmarsh p. 253*  
 
 This undead retains enough of its former self to continue its alchemical work, often on behalf of necromancers or other sinister patrons. It toils in a dark laboratory (such as the one found in The Sinister Secret of Saltmarsh), often falling dormant for long periods of time.
@@ -50,14 +50,14 @@ This undead retains enough of its former self to continue its alchemical work, o
 "actions":
   - "desc": "The skeletal alchemist makes two Lob Acid attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft. one target. *Hit:* 4 (1d6\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft. one target. *Hit:* 4\
+      \ (1d6 + 1) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d8 + 1) acid damage."
     "name": "Lob Acid"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/skeletal-alchemist-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/skeletal-alchemist-gos.webp"
 ```
 ^statblock

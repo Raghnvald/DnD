@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Tower of Storms
+- "Tower of Storms"
 ---
 # Tower of Storms
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 40* 
@@ -16,7 +16,7 @@ Before running this location, review the "underwater combat rules" in "the ruleb
 
 ## Location Overview
 
-The Tower of Storms is more than just a lighthouse—it's a temple dedicated to Talos, the evil god of storms. Moesko, the half-orc [anchorite](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) who guards the lighthouse, uses its pulsing beacon to draw ships to their doom, for the light acts as an irresistible lure to passing seafarers who sail too close to shore. The source of the beacon's eerie green light is Moesko's own heart, which was torn from his chest in a ritual. If the heart is destroyed, the beacon's light goes out.
+The Tower of Storms is more than just a lighthouse—it's a temple dedicated to Talos, the evil god of storms. Moesko, the half-orc [anchorite](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) who guards the lighthouse, uses its pulsing beacon to draw ships to their doom, for the light acts as an irresistible lure to passing seafarers who sail too close to shore. The source of the beacon's eerie green light is Moesko's own heart, which was torn from his chest in a ritual. If the heart is destroyed, the beacon's light goes out.
 
 The lighthouse is built atop a barren, 80-foot-high outcropping of rock. At low tide, a narrow causeway extends from the shore to this outcropping, allowing easy access to the lighthouse. This causeway is 5 feet above sea level at low tide. At high tide, the causeway and the sandy beach are submerged under 5 feet of water.
 
@@ -33,7 +33,7 @@ The characters arrive at low tide, when the causeway leading to the lighthouse i
 > Below the high cliff that hugs the coastline, an outcropping of rock is nearly surrounded by water, with only a narrow causeway connecting it to the beach below. Atop this outcropping is a stone building surmounted by a lighthouse tower. An eerie green light pulses from this beacon, shining westward out to sea. With each green pulse of light, you hear the thump of a slow-beating heart.
 ^18a
 
-Characters searching for a safe way down the cliffs discover a staircase carved into a narrow fissure. They can follow these steps all the way down to the shore just east of area T1. Crawling along the beach as they arrive there is a [giant crab](/3-Mechanics/CLI/bestiary/beast/giant-crab.md).
+Characters searching for a safe way down the cliffs discover a staircase carved into a narrow fissure. They can follow these steps all the way down to the shore just east of area T1. Crawling along the beach as they arrive there is a giant crab.
 
 The giant crab waves its claws at the characters, who can interpret this behavior as a friendly gesture with a successful DC 13 Wisdom (Animal Handling) check. A sea elf named Miraal used magic to imbue this creature with an Intelligence of 10 and the ability to speak Common. If the characters approach it peacefully, the crab says, "Well met!" and tries to strike up a conversation, during which it imparts the following information:
 
@@ -43,25 +43,25 @@ The giant crab waves its claws at the characters, who can interpret this behavio
 
 ### Helping the Giant Crab
 
-If the characters agree to help the giant crab, it asks them to lay to rest its dead sea elf master, Miraal, whose spirit haunts a nearby cave (area T1). If the characters do so, the crab thanks them and makes good on its promise, retrieving the +1 weapon from the wreck of the *Star-Crossed Lover* (see the Shipwrecks table).
+If the characters agree to help the giant crab, it asks them to lay to rest its dead sea elf master, Miraal, whose spirit haunts a nearby cave (area T1). If the characters do so, the crab thanks them and makes good on its promise, retrieving the [+1 weapon](3-Mechanics/CLI/items/1-weapon.md) from the wreck of the *Star-Crossed Lover* (see the Shipwrecks table).
 
 ### Tower of Storms Locations
 
 The following locations are keyed to the map of the Tower of Storms.
 
 > [!gallery]
-> ![Map: Tower of Storms](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/029-map-tos-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/030-map-tos-pc.webp#gallery)
+> ![Map: Tower of Storms](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/029-map-tos-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/030-map-tos-pc.webp#gallery)
 
 #### T1. Haunted Cave
 
-Rough-hewn steps climb a 7-foot-high tunnel that passes all the way through a 30-foot-tall natural pillar of rock. A damp, 8-foot-high cave encrusted with lichen is connected to this tunnel. The cave remains above sea level at high tide and is haunted by a [banshee](/3-Mechanics/CLI/bestiary/undead/banshee.md). The banshee, Miraal, manifests as a ghostly elf with gills, webbed hands, and webbed feet. It wears spectral garments that sway as though the undead is floating underwater. The banshee can't travel farther than 100 feet from this cave, and thus can't reach the lighthouse.
+Rough-hewn steps climb a 7-foot-high tunnel that passes all the way through a 30-foot-tall natural pillar of rock. A damp, 8-foot-high cave encrusted with lichen is connected to this tunnel. The cave remains above sea level at high tide and is haunted by a banshee. The banshee, Miraal, manifests as a ghostly elf with gills, webbed hands, and webbed feet. It wears spectral garments that sway as though the undead is floating underwater. The banshee can't travel farther than 100 feet from this cave, and thus can't reach the lighthouse.
 
 Miraal was a sea elf killed by Moesko, who took her spellcasting focus—an opalescent conch—as a trophy. The banshee demands that the characters retrieve the conch and bring it to the cave, which will set her spirit to rest. It tries to kill the characters if they refuse, pursuing them as far as it can if they flee.
 
 #### T2. Plateau
 
-Rough-hewn stairs climb the eastern face of the rocky outcropping. The [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy.md) in area T5 accost the characters as they climb these steps. See area T5 for details.
+Rough-hewn stairs climb the eastern face of the rocky outcropping. The harpies in area T5 accost the characters as they climb these steps. See area T5 for details.
 
 At the top of the stairs, a rocky plateau spreads out some 80 feet above the water. Wooden doors leading to area T3 have rusty iron hinges and handles, as well as decorative lightning bolts carved into them. All other doors in the Tower of Storms are of similar construction and ornamentation. None of the doors are locked.
 
@@ -84,7 +84,7 @@ Through the window, the characters can see the broken masts of several sunken sh
 
 ##### Altar
 
-The lightning rod on the roof (area T8) channels electricity into the altar, which converts that raw elemental power into magical energy. The first character to touch the altar gains the [Charm of the Storm](/3-Mechanics/CLI/rewards/charm-of-the-storm-dip.md), described below. Give that character's player the [Charm of the Storm card](/3-Mechanics/CLI/decks/magic-charm-cards-dip.md#Charm%20of%20the%20Storm).
+The lightning rod on the roof (area T8) channels electricity into the altar, which converts that raw elemental power into magical energy. The first character to touch the altar gains the [Charm of the Storm](3-Mechanics/CLI/rewards/charm-of-the-storm-dip.md), described below. Give that character's player the [Charm of the Storm card](3-Mechanics/CLI/decks/magic-charm-cards-dip.md#Charm%20of%20the%20Storm).
 
 ##### Charm of the Storm
 
@@ -94,11 +94,11 @@ Once the altar bestows this benefit, it can't do so again until it recharges. Th
 
 #### T5. Harpies' Aerie
 
-A ledge enclosed by a 3-foot-high stone retaining wall serves as a nest for [harpies](/3-Mechanics/CLI/bestiary/monstrosity/harpy.md). The harpies line their nest with rotting vegetation and the bones of previous meals, which they hunt up and down the coast. The number of harpies present equals the number of characters in the party, including sidekicks (maximum three harpies). A harpy reduced to 10 hit points or fewer tries to fly away on its next turn, hoping to live to fight another day.
+A ledge enclosed by a 3-foot-high stone retaining wall serves as a nest for harpies. The harpies line their nest with rotting vegetation and the bones of previous meals, which they hunt up and down the coast. The number of harpies present equals the number of characters in the party, including sidekicks (maximum three harpies). A harpy reduced to 10 hit points or fewer tries to fly away on its next turn, hoping to live to fight another day.
 
 ##### Treasure
 
-Characters who search through the harpies' nest find a potion of water breathing. If the characters acquire this potion, give them the Potion of Water Breathing [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Water%20Breathing) or they can reference it in the Magic Items Listing.
+Characters who search through the harpies' nest find a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing.md). If the characters acquire this potion, give them the [Potion of Water Breathing](3-Mechanics/CLI/items/potion-of-water-breathing.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Water%20Breathing) or they can reference it in the Magic Items Listing.
 
 #### T6. Lighthouse Interior
 
@@ -106,7 +106,7 @@ A spiral staircase with an ornate stone railing climbs up the inside wall of thi
 
 #### T7. Moesko the Anchorite
 
-This 15-foot-high room has two north-facing windows. A barnacle-encrusted chair stands against the south wall. Sitting in the chair is Moesko, an [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) clad in armor made from giant octopus hide. Resting in his lap is an opalescent conch he took from Miraal the sea elf (see area T1).
+This 15-foot-high room has two north-facing windows. A barnacle-encrusted chair stands against the south wall. Sitting in the chair is Moesko, an [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) clad in armor made from giant octopus hide. Resting in his lap is an opalescent conch he took from Miraal the sea elf (see area T1).
 
 Beneath his armor, Moesko has a hole in his chest where his heart used to be. If his heart (located in area T9) has been destroyed, Moesko is dead and slumped in the chair. Otherwise, he's alive and demands that intruders leave the Tower of Storms at once or face his wrath. He attacks those who defy him, confident in his ability to defend the lighthouse.
 
@@ -122,7 +122,7 @@ From this vantage point, the characters can see the shattered masts of the five 
 
 ##### Lightning Rod
 
-A 10-foot-tall, wrought-iron lightning rod reaches toward the sky. During a thunderstorm, lightning strikes the rod at random intervals as determined by the DM, and is channeled through the roof to the altar in area T4. A creature that happens to be in contact with the lightning rod when it's struck by a bolt of lightning must succeed on a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage on a failed save, or half as much damage on a successful one.
+A 10-foot-tall, wrought-iron lightning rod reaches toward the sky. During a thunderstorm, lightning strikes the rod at random intervals as determined by the DM, and is channeled through the roof to the altar in area T4. A creature that happens to be in contact with the lightning rod when it's struck by a bolt of lightning must succeed on a DC 15 Dexterity saving throw, taking 22 (`4d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
 #### T9. Moesko's Heart
 
@@ -134,9 +134,9 @@ The light originates from Moesko's still-beating heart, which floats in the air 
 > 
 > West of the Tower of Storms are five sunken shipwrecks (areas T10 through T14), with only their masts visible. Characters intent on searching the ships for treasure will need darkvision or magical light sources to see, as the wrecks are submerged in murky, 20-foot-deep water.
 > 
-> Characters atop the 80-foot-high lighthouse outcropping might try to climb down its slope to reach the water. The slope has abundant handholds but is wet, so that ascending or descending it requires a successful DC 10 Strength (Athletics) check. A character who fails the check slips and falls, landing in the water below and taking `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage per 10 feet fallen.
+> Characters atop the 80-foot-high lighthouse outcropping might try to climb down its slope to reach the water. The slope has abundant handholds but is wet, so that ascending or descending it requires a successful DC 10 Strength (Athletics) check. A character who fails the check slips and falls, landing in the water below and taking `1d6` bludgeoning damage per 10 feet fallen.
 > 
-> Three 15-foot-long [hunter sharks](/3-Mechanics/CLI/bestiary/beast/hunter-shark.md) glide among the wrecks. Daggermaw is the meanest and hungriest of the three, and it attacks characters without provocation after they finish searching two of the wrecks. If Daggermaw wounds a character, that character's blood in the water attracts the other two sharks, which join the fray on Daggermaw's next turn.
+> Three 15-foot-long hunter sharks glide among the wrecks. Daggermaw is the meanest and hungriest of the three, and it attacks characters without provocation after they finish searching two of the wrecks. If Daggermaw wounds a character, that character's blood in the water attracts the other two sharks, which join the fray on Daggermaw's next turn.
 ^exploring-the-wrecks
 
 #### T10–T14. Shipwrecks
@@ -147,15 +147,15 @@ The Shipwrecks table below gives the name of each ship and the treasure that can
 
 If the item found is a locked chest, a character can use an action to search the wreck for the key to the chest, finding it with a successful DC 20 Wisdom (Perception) check. Conversely, a character can pick the chest's sturdy lock with a successful DC 15 Dexterity check using thieves' tools.
 
-When a magic item is found and identified, give the players the corresponding [magic item card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) or they can reference it in the Magic Items Listing. In the case of the +1 weapon in area T10, choose from among the weapons available (+1 battleaxe, +1 longbow, +1 mace, or +1 shortsword). Only one +1 weapon can be found, so choose a weapon with which at least one party member has proficiency.
+When a magic item is found and identified, give the players the corresponding [magic item card](3-Mechanics/CLI/decks/magic-item-cards-dip.md) or they can reference it in the Magic Items Listing. In the case of the [+1 weapon](3-Mechanics/CLI/items/1-weapon.md) in area T10, choose from among the weapons available ([+1 battleaxe](3-Mechanics/CLI/items/1-weapon.md), [+1 longbow](3-Mechanics/CLI/items/1-weapon.md), [+1 mace](3-Mechanics/CLI/items/1-weapon.md), or [+1 shortsword](3-Mechanics/CLI/items/1-weapon.md)). Only one [+1 weapon](3-Mechanics/CLI/items/1-weapon.md) can be found, so choose a weapon with which at least one party member has proficiency.
 
 **Shipwrecks**
 
 | Area | Ship Name | Treasure |
 |------|-----------|----------|
-| T10 | *Star-Crossed Lover* | +1 weapon of your choice, found in the grip of a skeleton that used to be the ship's captain |
+| T10 | *Star-Crossed Lover* | [+1 weapon](3-Mechanics/CLI/items/1-weapon.md) of your choice, found in the grip of a skeleton that used to be the ship's captain |
 | T11 | *Sea Urchin* | Starfish clinging to a locked chest filled with straw, within which is packed a delicate, 9-inch-tall, blue quartz statuette of a mermaid (75 gp) |
 | T12 | *Vainglory* | Cloak of many fashions worn by the skeleton of the ship's captain |
 | T13 | *Golden Gull* | Locked chest containing 120 ep and six pearls (100 gp each) in a black silk pouch |
-| T14 | *Orca* | Locked chest that holds a fully charged wand of secrets and a leather-bound spellbook that contains the wizard spells blur, charm person, comprehend languages, hold person, mage armor, sleep, and spider climb |
+| T14 | *Orca* | Locked chest that holds a fully charged [wand of secrets](3-Mechanics/CLI/items/wand-of-secrets.md) and a leather-bound spellbook that contains the wizard spells blur, charm person, comprehend languages, hold person, mage armor, sleep, and spider climb |
 ^shipwrecks

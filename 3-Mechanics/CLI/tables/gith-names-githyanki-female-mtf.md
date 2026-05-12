@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Names – Githyanki, Female
+- "Gith Names – Githyanki, Female"
 ---
 # Gith Names – Githyanki, Female
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Gith Names – Githyanki, Female**
-
-`dice: [](gith-names-githyanki-female-mtf.md#^gith-names-githyanki-female)`
 
 | dice: d10 | Name |
 |-----------|------|

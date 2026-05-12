@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/light
-aliases: 
-- Bleredd
+aliases:
+- "Bleredd"
 ---
 # Bleredd
 *Source: Mordenkainen's Tome of Foes p. 110* 

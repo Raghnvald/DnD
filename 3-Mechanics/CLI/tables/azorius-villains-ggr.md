@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Azorius Villains
+- "Azorius Villains"
 ---
 # Azorius Villains
 *Source: Guildmasters' Guide to Ravnica p. 129* 
 
 **Azorius Villains**
-
-`dice: [](azorius-villains-ggr.md#^azorius-villains)`
 
 | dice: d8 | Villain |
 |----------|---------|
@@ -22,6 +20,6 @@ aliases:
 | 4 | An overzealous imperator is prepared to arrest a neighborhood full of people to find a stolen item. |
 | 5 | A sadistic warden tortures prisoners, ostensibly for the sake of law and order. |
 | 6 | A corrupt senator seeks to pass laws that favor a certain class of people. |
-| 7 | A [precognitive mage](/3-Mechanics/CLI/bestiary/humanoid/precognitive-mage-ggr.md) invents visions designed to frame enemies. |
+| 7 | A [precognitive mage](3-Mechanics/CLI/bestiary/humanoid/precognitive-mage-ggr.md) invents visions designed to frame enemies. |
 | 8 | A cowardly bureaucrat destroys evidence to hide someone else's involvement in a crime. |
 ^azorius-villains

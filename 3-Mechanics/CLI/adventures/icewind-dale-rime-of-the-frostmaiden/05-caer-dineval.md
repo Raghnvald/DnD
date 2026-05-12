@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Caer-Dineval
+- "Caer-Dineval"
 ---
 # Caer-Dineval
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 37* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/023-01-012-shield-caer-dineval.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/023-01-012-shield-caer-dineval.webp#center)
 
 In generations past, travelers to Caer-Dineval had to follow the rocky shore of Lac Dinneshere until after several hours they spied a small fortress (the "caer" for which the town is named) jutting up from the prominence where it overlooks the lake. A ferry out of Easthaven made the arduous trek unnecessary for merchants and other travelers, but the ferry was discontinued two months ago, cutting off Caer-Dineval (and its eastward neighbor, Caer-Konig) from the rest of Ten-Towns except by the overland route. Town residents are furious that the ferry service has stopped, mainly because they have not received deliveries of mead from the town of Good Mead, and the taverns have run dry.
 
@@ -28,11 +28,11 @@ As if things weren't bad enough, the town's harbor has frozen over, and the town
 
 ### Leader
 
-Speaker Crannoc Siever (lawful neutral human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) speaks for the townsfolk. Known as a bully who shouts and uses theatrics to make his point, he has reportedly been ill for months and rarely makes public appearances nowadays.
+Speaker Crannoc Siever (lawful neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) speaks for the townsfolk. Known as a bully who shouts and uses theatrics to make his point, he has reportedly been ill for months and rarely makes public appearances nowadays.
 
 ### Militia
 
-Caer-Dineval can muster up to 25 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 2 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Caer-Dineval can muster up to 25 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 2 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** A crenellated stone watchtower (three merlons, two crenellations) on a dark blue field, with a horizontal red fish facing right beneath the tower, representing the town's vigilance, harbor, and proud fishing tradition.  
 
@@ -59,8 +59,8 @@ A snow-covered path leads from Caer-Dineval to the Eastway. Other paths lead to 
 ## Locations in Caer-Dineval
 
 > [!gallery]
-> ![Map 1.3: Caer-Dineval](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/024-map-1-3-caer-dineval.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/025-map-1-3-caer-dineval-player.webp#gallery)
+> ![Map 1.3: Caer-Dineval](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/024-map-1-3-caer-dineval.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/025-map-1-3-caer-dineval-player.webp#gallery)
 
 Whether arriving "by land or by lac," visitors are immediately confronted by the fortifications for which the town is famous: its clifftop fortress, known as the Caer, and the ruined watchtower at the mouth of the frozen harbor. Most of the town's buildings, which date back to the town's Cormyrean founders, line the path that winds down the steep slope from the Caer to the harbor, whose docks are perched on the rocky shore. Noteworthy places in town are marked on map 1.3, and map 1.4 shows the floor plan of the Caer.
 
@@ -80,17 +80,17 @@ Today, the keep is the residence of the town speaker, Crannoc Siever, who recent
 
 At the south end of town is Caer-Dineval's inn, a drafty old building with boarded-up windows and a crooked weather vane shaped like a rearing dragon. The place has been out of business for almost a year.
 
-Six [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) hide inside the ramshackle inn and remain out of sight until Xardorok's chardalyn dragon attacks the town (see chapter 4).
+Six [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) hide inside the ramshackle inn and remain out of sight until Xardorok's chardalyn dragon attacks the town (see chapter 4).
 
 ### The Uphill Climb
 
 *Tavern*
 
-This tavern is situated northwest of the Caer, where it offers a spectacular view of the lake and the frozen docks. The Climb serves hot chowder but is all out of beer and spirits, which might explain why locals don't frequent the place as much as they used to. The proprietor, a rugged middle-aged man named Roark (lawful good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), blames the cursed winter and the closing of the Easthaven ferry for his business woes. Although he has spare rooms with empty beds, he claims to have no available guest accommodations. If adventurers are looking for a place to rest, he suggests that they try the Caer. Roark can't guarantee that Speaker Crannoc Siever's attendants will welcome them with open arms, given how sick the speaker has been of late.
+This tavern is situated northwest of the Caer, where it offers a spectacular view of the lake and the frozen docks. The Climb serves hot chowder but is all out of beer and spirits, which might explain why locals don't frequent the place as much as they used to. The proprietor, a rugged middle-aged man named Roark (lawful good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), blames the cursed winter and the closing of the Easthaven ferry for his business woes. Although he has spare rooms with empty beds, he claims to have no available guest accommodations. If adventurers are looking for a place to rest, he suggests that they try the Caer. Roark can't guarantee that Speaker Crannoc Siever's attendants will welcome them with open arms, given how sick the speaker has been of late.
 
 Roark and some of his patrons know something is amiss in the castle, but they refrain from talking about it. Roark figures that if he steers adventurers toward the castle, they'll figure out what's going on by themselves.
 
-![Caer-Dineval is built on t...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/026-01-013-caer-dineval.webp#center "Caer-Dineval is built on the rocky shore of Lac Dinneshere, with Kelvin's Cairn looming behind it")
+![Caer-Dineval is built on the rocky shore of Lac Dinneshere, with Kelvin's Cairn looming behind it](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/026-01-013-caer-dineval.webp#center)
 
 ## Black Swords
 
@@ -107,7 +107,7 @@ The Knights of the Black Sword are a secret society of cultists devoted to Levis
 
 Most of the cultists are Icewind Dale natives who would have perished in the wilderness had Levistus not intervened on their behalf. The cultists' stories are all the same: the archdevil reached out to them in their minds as they were freezing to death, offering a second chance at life in exchange for their absolute devotion. After they agreed to follow Levistus, a pale glow caught their eye in the snow nearby, leading to the discovery of a sword-shaped amulet of chardalyn. Each of these amulets has an inner radiance that provides warmth and aid, protecting its wearer against the cold while guiding them safely back to civilization. Once its wearer reaches Ten-Towns, the talisman loses its inner radiance, yet the cultists keep their amulets as signs of their devotion to the archduke of Stygia (see the "Chardalyn Amulets" sidebar).
 
-The Knights of the Black Sword have members scattered throughout Ten-Towns. They welcome new members and answer to Levistus, who speaks to them infrequently using a powerful form of cross-planar telepathy. Levistus has recently called upon them to help another of their master's disciples—an albino tiefling wizard named [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)—achieve her goals. Even though they find her demanding and difficult to live with, they dare not defy her.
+The Knights of the Black Sword have members scattered throughout Ten-Towns. They welcome new members and answer to Levistus, who speaks to them infrequently using a powerful form of cross-planar telepathy. Levistus has recently called upon them to help another of their master's disciples—an albino tiefling wizard named [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)—achieve her goals. Even though they find her demanding and difficult to live with, they dare not defy her.
 
 Levistus has warned the Knights of the Black Sword that duergar are plotting the destruction of Ten-Towns. He believes the duergar are acting on behalf of Asmodeus, the Lord of the Hells and his infernal jailer, but has not shared this information with the cult. The cult's oldest living member, Hethyl (a peg-legged shield dwarf who has lost her right foot to frostbite), hates duergar as most dwarves do. She has convinced the other cult members to forge alliances with anyone willing to oppose the duergar, including stray bands of adventurers.
 
@@ -115,7 +115,7 @@ The Caer serves as the cult's headquarters. The cult's presence is the worst-kep
 
 #### Game Statistics
 
-The Knights of the Black Sword are lawful evil [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) and [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) who speak Common and Infernal. They have the following additional trait:
+The Knights of the Black Sword are lawful evil [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) and [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) who speak Common and Infernal. They have the following additional trait:
 
 ##### Icy Doom
 
@@ -123,7 +123,7 @@ When the cultist dies, its corpse freezes for 9 days, during which time it can't
 
 #### Cult Behavior
 
-The Knights of the Black Sword take orders from Levistus, who speaks to them telepathically. The contact is one-way only, although a vainglorious tiefling cult fanatic named [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) falsely claims to have the archdevil's ear.
+The Knights of the Black Sword take orders from Levistus, who speaks to them telepathically. The contact is one-way only, although a vainglorious tiefling cult fanatic named [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) falsely claims to have the archdevil's ear.
 
 The cultists shun contact with outsiders and, posing as members of Speaker Crannoc's staff, turn away all visitors to the castle. If the time is right, however, they welcome the characters with open arms. That time comes when Levistus instructs the cultists, in no uncertain terms, to form an alliance with the party. For that to happen, one of the following statements must be true:
 
@@ -135,17 +135,17 @@ Once the cultists are told that the characters' goals align with theirs, they wi
 
 Levistus tells the cultists to terminate the alliance if one of the following events comes to pass:
 
-- The characters attack any member of the cult other than [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md), whom Levistus secretly despises.  
-- The characters harm [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), the albino tiefling wizard, or inhibit her efforts to plunder the lost city of Ythryn.  
+- The characters attack any member of the cult other than [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md), whom Levistus secretly despises.  
+- The characters harm [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), the albino tiefling wizard, or inhibit her efforts to plunder the lost city of Ythryn.  
 - The characters give up their fight against the duergar menace threatening Ten-Towns.  
 
 > [!note] Chardalyn Amulets
 > 
-> The chardalyn amulets worn by the Knights of the Black Sword have been corrupted by the magic of Levistus. A detect evil and good spell or similar magic reveals that the amulets are desecrated objects.
+> The chardalyn amulets worn by the Knights of the Black Sword have been corrupted by the magic of Levistus. A [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md) spell or similar magic reveals that the amulets are desecrated objects.
 > 
-> Each day at dawn, roll a `dice:d6|noform|noparens|avg` (`d6`) for each chardalyn amulet in a character's possession. On a roll of 1, the character must succeed on a DC 10 Charisma saving throw or become lawful evil, unless the character has that alignment already. Take the character's player aside to describe how the player should roleplay the new alignment. A lawful evil character craves power and tries to exert control over others, by being either cruel or manipulative.
+> Each day at dawn, roll a `d6` for each chardalyn amulet in a character's possession. On a roll of 1, the character must succeed on a DC 10 Charisma saving throw or become lawful evil, unless the character has that alignment already. Take the character's player aside to describe how the player should roleplay the new alignment. A lawful evil character craves power and tries to exert control over others, by being either cruel or manipulative.
 > 
-> The alignment change can be undone by any magic that ends a curse, but after nine days, it can be reversed only by a wish spell or divine intervention.
+> The alignment change can be undone by any magic that ends a curse, but after nine days, it can be reversed only by a [wish](3-Mechanics/CLI/spells/wish.md) spell or divine intervention.
 ^chardalyn-amulets
 
 #### Getting into the Castle
@@ -154,7 +154,7 @@ The characters need not wait for an invitation to enter the castle. They can mak
 
 - The characters can ambush one or more cultists as they leave the castle on cult business, then use the cultists' amulets and garb to fashion disguises for themselves.  
 - With the aid of climbing gear or magic, the characters can scale the castle walls seen or unseen.  
-- The characters can use a charm person spell or similar magic to convince a cultist to let them inside.  
+- The characters can use a [charm person](3-Mechanics/CLI/spells/charm-person.md) spell or similar magic to convince a cultist to let them inside.  
 
 ### Approaching the Caer
 
@@ -175,20 +175,20 @@ Most of the castle is lit by torches regardless of the time of day. Doors inside
 
 The castle's relatively small size makes it possible for one cult member to sound the alarm simply by yelling. If an alarm is raised, the following cult members are tasked with defending the castle:
 
-- Twelve [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) of various races and genders, who normally reside on the ground floors of the guard towers (area C4).  
-- Two [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (a human named Huarwar Mulphoon and a tiefling named Fel Suparra), who normally guard the gatehouse (area C6).  
+- Twelve [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) of various races and genders, who normally reside on the ground floors of the guard towers (area C4).  
+- Two [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) (a human named Huarwar Mulphoon and a tiefling named Fel Suparra), who normally guard the gatehouse (area C6).  
 
 ### Caer Locations (C1-C9)
 
 > [!gallery]
-> ![Map 1.4: Keep at Caer-Dineval](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/027-map-1-4-caer-dineval-keep.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/028-map-1-4-caer-dineval-keep-player.webp#gallery)
+> ![Map 1.4: Keep at Caer-Dineval](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/027-map-1-4-caer-dineval-keep.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/028-map-1-4-caer-dineval-keep-player.webp#gallery)
 
 The following locations are keyed to map 1.4.
 
 #### C1. Main Gate
 
-Two lowered iron portcullises and two sets of closed wooden doors seal off the castle. The gatehouse (area C6) holds the mechanisms that raise and lower the portcullises as well as open and close both sets of doors. Knock spells and similar magic can bypass these barriers, which otherwise require siege engines to force open.
+Two lowered iron portcullises and two sets of closed wooden doors seal off the castle. The gatehouse (area C6) holds the mechanisms that raise and lower the portcullises as well as open and close both sets of doors. [Knock](3-Mechanics/CLI/spells/knock.md) spells and similar magic can bypass these barriers, which otherwise require siege engines to force open.
 
 ##### Gate Guards
 
@@ -205,7 +205,7 @@ The hut is an outhouse, currently empty. Many tracks lead to and from it.
 
 #### C3. Kennel and Sled Storage
 
-Six friendly sled dogs (use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) statistics) are housed inside this kennel. They bark loudly whenever someone approaches within 10 feet of the door. The cultists can hear the barking but choose to ignore it.
+Six friendly sled dogs (use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) statistics) are housed inside this kennel. They bark loudly whenever someone approaches within 10 feet of the door. The cultists can hear the barking but choose to ignore it.
 
 A dogsled is stored here, along with the dogs' harnesses and reins.
 
@@ -215,7 +215,7 @@ Sleeping among the dogs is an eight-year-old Calishite youth named Alassar Sulma
 
 #### C4. Guard Towers
 
-The lower level of each tower contains three [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) at rest. The furnishings on this level include six wooden cots with furs and matching footlockers (where the cultists keep their cold weather clothing). A copper brazier full of hot coals is situated in the middle of the room. Protruding from the brazier's base is a bellows that can be pumped to reheat the dying coals.
+The lower level of each tower contains three [cultists](3-Mechanics/CLI/bestiary/humanoid/cultist.md) at rest. The furnishings on this level include six wooden cots with furs and matching footlockers (where the cultists keep their cold weather clothing). A copper brazier full of hot coals is situated in the middle of the room. Protruding from the brazier's base is a bellows that can be pumped to reheat the dying coals.
 
 A wooden staircase hugs the outer wall as it climbs to the second level, which is unfurnished. Gusts of wind enter through the arrow slits on this level.
 
@@ -225,16 +225,16 @@ This tower has two additional features on its ground level: a stone trapdoor in 
 
 #### C5. Armory
 
-In the middle of this small room is a rack of twenty spears, and resting against the back wall is an unlocked wooden chest containing six flasks of alchemist's fire. Hanging from hooks on the walls are eight longbows and eight quivers. Each quiver holds fifty arrows.
+In the middle of this small room is a rack of twenty spears, and resting against the back wall is an unlocked wooden chest containing six [flasks of alchemist's fire](3-Mechanics/CLI/items/alchemists-fire-flask.md). Hanging from hooks on the walls are eight [longbows](3-Mechanics/CLI/items/longbow.md) and eight [quivers](3-Mechanics/CLI/items/quiver.md). Each quiver holds fifty [arrows](3-Mechanics/CLI/items/arrows-20.md).
 
 #### C6. Gatehouse
 
 This chamber is equipped with a system of wheels that raises the portcullises and opens the outer sets of doors. In the middle of the floor are murder holes through which arrows can be shot or alchemist's fire can be poured. The south wall has a row of five arrow slits built into it.
 
-Two wooden cots covered with furs are in the northeast corner of the room. Of the two [cult fanatics](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) stationed here, one stands guard while the other sleeps. These individuals are briefly described below:
+Two wooden cots covered with furs are in the northeast corner of the room. Of the two [cult fanatics](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) stationed here, one stands guard while the other sleeps. These individuals are briefly described below:
 
 - Huarwar Mulphoon is a brooding, pessimistic human in his late twenties, the son of Cora Mulphoon (see "Buried Treasures").  
-- Fel Suparra is a tiefling. She has darkvision out to a range of 60 feet and resistance to fire damage. As Huarwar's friend and mentor, she's the one most responsible for tearing him away from his mother and pushing him up through the ranks of the cult.  
+- Fel Suparra is a tiefling. She has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet and resistance to fire damage. As Huarwar's friend and mentor, she's the one most responsible for tearing him away from his mother and pushing him up through the ranks of the cult.  
 
 #### C7. Great Hall
 
@@ -247,7 +247,7 @@ The double door leading to the courtyard (area C2) can be sealed shut with a hug
 > A stone staircase ascends to a pair of twenty-foot-high balconies that hug the walls. On the north landing, directly across from the main entrance, hangs a banner depicting the town's heraldry: a stone watchtower on a dark blue field, with a horizontal red fish facing to the right under the tower.
 ^0d4
 
-The servant is a fourteen-year-old tiefling noncombatant named Mere, whom [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) found begging for food in Bryn Shander. Mere is frightened of [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) and would like to get out from under his thumb but can't figure out how. The servant knows the layout of all levels of the castle but can't be coerced or bribed into helping the characters until [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) is no longer a concern. Mere can move about the castle without drawing too much suspicion but trembles in [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s presence.
+The servant is a fourteen-year-old tiefling noncombatant named Mere, whom [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) found begging for food in Bryn Shander. Mere is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) and would like to get out from under his thumb but can't figure out how. The servant knows the layout of all levels of the castle but can't be coerced or bribed into helping the characters until [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) is no longer a concern. Mere can move about the castle without drawing too much suspicion but trembles in [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s presence.
 
 Mere knows about the cult's allegiance to Levistus and its animus toward the duergar. Mere has also met the albino tiefling wizard who has made a lair for herself in the cistern (area C22).
 
@@ -255,21 +255,21 @@ Mere knows about the cult's allegiance to Levistus and its animus toward the due
 
 This well-appointed sitting room is where Crannoc Siever used to meet with visitors, whether distinguished guests or concerned townsfolk. Comfortable furnishings abound, and the cultists keep a fire burning in the hearth.
 
-Standing outside the door to the speaker's office (area C9) is a sadistic little klutz (human [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md)) named Thoob, whose job is to serve at [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s beck and call. It's a mostly thankless role that comes with a mountain of verbal abuse. The only time Thoob feels rewarded is when [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) orders him to relay instructions to another cultist, in effect empowering Thoob to boss around others in [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s name.
+Standing outside the door to the speaker's office (area C9) is a sadistic little klutz (human [cultist](3-Mechanics/CLI/bestiary/humanoid/cultist.md)) named Thoob, whose job is to serve at [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s beck and call. It's a mostly thankless role that comes with a mountain of verbal abuse. The only time Thoob feels rewarded is when [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) orders him to relay instructions to another cultist, in effect empowering Thoob to boss around others in [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s name.
 
-![Kadroth](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/029-01-014-kadroth.webp#center)
+![Kadroth](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/029-01-014-kadroth.webp#center)
 
 #### C9. Speaker's Office
 
-[Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) is a paunchy, lawful evil tiefling [cult fanatic](/3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) who has darkvision out to a range of 60 feet and resistance to fire damage. From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he's tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran (see area C13) has more respect and influence within the cult. [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) doesn't involve [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) (see area C21) in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) doesn't want to give her any reason to do so.
+[Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) is a paunchy, lawful evil tiefling [cult fanatic](3-Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) who has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet and resistance to fire damage. From this usurped office, he coordinates all cult activities in Ten-Towns. It's a role he carved out for himself by asserting that he's tight with Levistus. He rules the roost by sheer force of personality, though it chafes him that Hethyl Arkorran (see area C13) has more respect and influence within the cult. [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) doesn't involve [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) (see area C21) in cult affairs because he fears her spellcasting ability and her connection to the Arcane Brotherhood. She could take over the cult anytime she wanted, and [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) doesn't want to give her any reason to do so.
 
-For all his political machinations, [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) is a visionary who has so far made the cult stronger through his actions and decisions. He spends hours behind his desk, staring into the burning fireplace and drawing inspiration from its crackling flames. The slightest disturbance upsets him.
+For all his political machinations, [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) is a visionary who has so far made the cult stronger through his actions and decisions. He spends hours behind his desk, staring into the burning fireplace and drawing inspiration from its crackling flames. The slightest disturbance upsets him.
 
-[Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) appreciates the wisdom of maintaining the illusion that Speaker Crannoc Siever is still in charge, if only to keep Caer-Dineval's townsfolk from becoming restless. Thus, when necessary, [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) has the town speaker brought to his office to sign official documents.
+[Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) appreciates the wisdom of maintaining the illusion that Speaker Crannoc Siever is still in charge, if only to keep Caer-Dineval's townsfolk from becoming restless. Thus, when necessary, [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) has the town speaker brought to his office to sign official documents.
 
 ##### Ring of Keys
 
-In addition to his weapons and cult regalia, [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) carries a ring of keys that can lock or unlock every interior door in the castle.
+In addition to his weapons and cult regalia, [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) carries a ring of keys that can lock or unlock every interior door in the castle.
 
 ### Caer Locations (C10-C19)
 
@@ -288,11 +288,11 @@ Against the west wall are three crates of torches next to a large, stacked pile 
 > This kitchen reeks of fish. It is furnished with stone ovens, a fireplace for roasting skewers of meat and boiling soups, and wood-block countertops. A portly cook busies himself at a table while a kettle belches steam over a fire in the hearth. A kennel by the door holds a pair of goats.
 ^0dc
 
-The two [goats](/3-Mechanics/CLI/bestiary/beast/goat.md) are harmless and will eat just about anything. The cook, a human named Karou Salafan (neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), was not replaced by the cultists because he knows fifty different ways to cook and prepare knucklehead trout. Although he has some knowledge about the affairs of the keep, he doesn't want to know about any shady business, so he keeps his head down and his lips shut tightly.
+The two [goats](3-Mechanics/CLI/bestiary/beast/goat.md) are harmless and will eat just about anything. The cook, a human named Karou Salafan (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), was not replaced by the cultists because he knows fifty different ways to cook and prepare knucklehead trout. Although he has some knowledge about the affairs of the keep, he doesn't want to know about any shady business, so he keeps his head down and his lips shut tightly.
 
 #### C12. Kadroth's Bedchamber
 
-A large, gilded mirror covering most of the east wall is what made [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) want this room for himself. Other furnishings include an ornately carved wooden table and chair, where [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) takes his meals. [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s black [cat](/3-Mechanics/CLI/bestiary/beast/cat.md), Touche, is the chamber's sole occupant, although Mere (see area C7) routinely checks on the fire to make sure the room stays warm.
+A large, gilded mirror covering most of the east wall is what made [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) want this room for himself. Other furnishings include an ornately carved wooden table and chair, where [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) takes his meals. [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md)'s black [cat](3-Mechanics/CLI/bestiary/beast/cat.md), Touche, is the chamber's sole occupant, although Mere (see area C7) routinely checks on the fire to make sure the room stays warm.
 
 #### C13. Soothsayer's Room
 
@@ -303,13 +303,13 @@ A large, gilded mirror covering most of the east wall is what made [Kadroth](/3-
 
 The shield dwarf in the rocking chair is Hethyl Arkorran, a noncombatant. She is the cult's soothsayer and oldest member—too old, in fact, to harm anyone. On the plate next to her is a knucklehead trout fillet topped with goat's milk. Hethyl won't touch it, because she's sick to death of trout.
 
-![Hethyl Arkorran](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/030-01-015-hethyl.webp#center)
+![Hethyl Arkorran](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/030-01-015-hethyl.webp#center)
 
-Hethyl is a heartless creature—not cruel out of spite, just blunt in a mean, uncaring way. She doesn't hide the truth or mince words, and she knows her soul is going to the Nine Hells when she dies. She also sees glimpses of the future, which means she's rarely shocked by what happens around her. These revelations have kept the cultists one step ahead of their enemies for a long time, but Hethyl's health is failing, and there's nothing that can be done for her given her age. She considers [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) a worthy leader but lost his respect when she told him that Levistus hates his guts. [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) has tried hard to forget that conversation and looks forward to the day when Hethyl drops dead.
+Hethyl is a heartless creature—not cruel out of spite, just blunt in a mean, uncaring way. She doesn't hide the truth or mince words, and she knows her soul is going to the Nine Hells when she dies. She also sees glimpses of the future, which means she's rarely shocked by what happens around her. These revelations have kept the cultists one step ahead of their enemies for a long time, but Hethyl's health is failing, and there's nothing that can be done for her given her age. She considers [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) a worthy leader but lost his respect when she told him that Levistus hates his guts. [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) has tried hard to forget that conversation and looks forward to the day when Hethyl drops dead.
 
 Hethyl has foreseen her doom. She dies of natural causes immediately after sharing the following information with the characters:
 
-- [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), a duergar warlord, will conquer Icewind Dale unless the characters defeat him.  
+- [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md), a duergar warlord, will conquer Icewind Dale unless the characters defeat him.  
 - Xardorok has a fortress on the surface, hidden in the Spine of the World. It contains, among other things, a forge powered by the still-beating heart of a red dragon.  
 - Xardorok has a plan for the systematic destruction of Ten-Towns, which the characters can discover if they search his fortress.  
 - The characters will die if they face Xardorok too soon. They must test their mettle against the horrors that haunt the farthest reaches of Icewind Dale before they can hope to survive the perils of Xardorok's fortress.  
@@ -321,21 +321,21 @@ Hethyl has foreseen her doom. She dies of natural causes immediately after shari
 > This room is immaculately furnished. It has all the trappings of a royal bedchamber, including a soft bed, warm quilts, elegant tapestries, and a gilded chamber pot. Bars over the windows dispel the air of luxury somewhat, as does the guard standing just inside the door.
 ^0e1
 
-A human [cultist](/3-Mechanics/CLI/bestiary/humanoid/cultist.md) named Yajath has the unenviable task of guarding Speaker Siever and making sure he doesn't leave this room. Once the characters deal with Yajath, they can reckon with the town speaker:
+A human [cultist](3-Mechanics/CLI/bestiary/humanoid/cultist.md) named Yajath has the unenviable task of guarding Speaker Siever and making sure he doesn't leave this room. Once the characters deal with Yajath, they can reckon with the town speaker:
 
 > [!readaloud] 
 > 
 > Squatting in the far corner of the room is a pale man wearing a nightgown. He has an unkempt beard and seems hard at work filling a chamber pot. "Perfect timing," he says, his voice dripping with sarcasm.
 ^0e2
 
-Speaker Crannoc Siever (lawful neutral human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a 49-year-old unmarried man, has been under house arrest for the past two weeks. Although he's not the picture of good health, he's not deathly ill, as the cult's propaganda would have others believe. The only time Crannoc is permitted to leave this room is when [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) needs him to sign paperwork in area C9.
+Speaker Crannoc Siever (lawful neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a 49-year-old unmarried man, has been under house arrest for the past two weeks. Although he's not the picture of good health, he's not deathly ill, as the cult's propaganda would have others believe. The only time Crannoc is permitted to leave this room is when [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) needs him to sign paperwork in area C9.
 
 The cultists slew the speaker's guards but are keeping his servants alive. Crannoc has been warned to behave himself, lest his servants pay the ultimate price. He doesn't know where the servants are being held, but he knows the cook is still making meals. He suspects the rest are being kept in the cistern under the castle.
 
 Crannoc won't be happy until he regains control of the castle and his captors are punished for their crimes. He has little to say about his captors, since they don't share information with him:
 
 - His captors arrived under false pretenses, claiming to be neutral arbiters employed by the Council of Speakers to help Caer-Dineval resolve its fishing disputes with Easthaven and Caer-Konig.  
-- The one calling the shots is a tiefling named [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md), who answers to someone named Levistus.  
+- The one calling the shots is a tiefling named [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md), who answers to someone named Levistus.  
 
 #### C15. Old Library
 
@@ -381,7 +381,7 @@ A 5-foot-wide, 8-foot-high passage cuts into the north wall 20 feet beyond the r
 
 ##### Eastern Door
 
-At the eastern end of the cistern is a 10-foot-square, 2-foot-thick, half-submerged slab of blue marble that blocks access to area C23. This slab is far enough away that characters won't see it with torches or darkvision unless they move farther into the cistern. The lever that lowers and raises this gate is in area C22. The gate can also be opened with a knock spell or similar magic.
+At the eastern end of the cistern is a 10-foot-square, 2-foot-thick, half-submerged slab of blue marble that blocks access to area C23. This slab is far enough away that characters won't see it with torches or [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) unless they move farther into the cistern. The lever that lowers and raises this gate is in area C22. The gate can also be opened with a [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic.
 
 ##### Rowboat
 
@@ -389,7 +389,7 @@ This boat comes with two oars and can hold two Medium characters plus their gear
 
 #### C19. Storage
 
-Characters can use the rowboat to reach this area, the floor of which is above the water level in the cistern (area C18). A harmless [rat](/3-Mechanics/CLI/bestiary/beast/rat.md) chews through the corner of a sack of grain lying on the floor. This room is otherwise empty.
+Characters can use the rowboat to reach this area, the floor of which is above the water level in the cistern (area C18). A harmless [rat](3-Mechanics/CLI/bestiary/beast/rat.md) chews through the corner of a sack of grain lying on the floor. This room is otherwise empty.
 
 ### Caer Locations (C20-C24)
 
@@ -402,7 +402,7 @@ Characters can use the rowboat to reach this area, the floor of which is above t
 
 The figure in the pillar is a wooden mannequin painted and dressed to resemble the archdevil Levistus. The mannequin was encased in ice, which was chiseled into a pillar shape and wrapped in chains. The ice is kept frozen at all times by the 10-foot-square patch of brown mold growing on the wall behind it (see ""Brown Mold"" in the "Dungeon Master's Guide"). Any creature that touches the pillar of ice is close enough to the brown mold to be harmed by it.
 
-Any character who succeeds on a DC 10 Intelligence (Religion) check can guess, correctly, that the cultists use this frozen, chain-wrapped effigy as an altar.
+Any character who succeeds on a DC 10 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check can guess, correctly, that the cultists use this frozen, chain-wrapped effigy as an altar.
 
 #### C21. Avarice's Quarters
 
@@ -413,15 +413,15 @@ Any character who succeeds on a DC 10 Intelligence (Religion) check can guess, c
 
 Other furnishings in this former storeroom include a red rug, a narrow bed, and a freestanding mirror in a wooden frame, none of which are remarkable.
 
-The albino tiefling is a member of the Arcane Brotherhood named [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) (see appendix C). The [raven](/3-Mechanics/CLI/bestiary/beast/raven.md) is her familiar, Skelm. Levistus sent a telepathic message to [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), urging her not to antagonize a certain party of adventurers until they've helped her reach her goal: the lost Netherese city of Ythryn. Realizing that the characters are the ones Levistus warned her about, she tries to be as hospitable as possible but won't discuss why she's here or what she's after.
+The albino tiefling is a member of the Arcane Brotherhood named [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) (see appendix C). The [raven](3-Mechanics/CLI/bestiary/beast/raven.md) is her familiar, Skelm. Levistus sent a telepathic message to [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), urging her not to antagonize a certain party of adventurers until they've helped her reach her goal: the lost Netherese city of Ythryn. Realizing that the characters are the ones Levistus warned her about, she tries to be as hospitable as possible but won't discuss why she's here or what she's after.
 
-If she no longer feels safe in the castle, [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) leaves without a fight. (There are plenty of other places in Ten-Towns where she can make herself comfortable.)
+If she no longer feels safe in the castle, [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) leaves without a fight. (There are plenty of other places in Ten-Towns where she can make herself comfortable.)
 
-[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s two [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md), Gargle and Gurgle, are not present. She recently sent them to spy on her wizardly rivals. [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) can speak to her gargoyles telepathically, thanks to her Rary's telepathic bond spell, and orders them back to the castle as soon as the characters confront her. If the characters slay or capture [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), the gargoyles attack them as they leave the keep.
+[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s two [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle.md), Gargle and Gurgle, are not present. She recently sent them to spy on her wizardly rivals. [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) can speak to her gargoyles telepathically, thanks to her [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond.md) spell, and orders them back to the castle as soon as the characters confront her. If the characters slay or capture [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), the gargoyles attack them as they leave the keep.
 
 ##### Treasure
 
-[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) keeps her staff of frost within easy reach. When she's not writing in her spellbook, she sticks it in a fur-lined satchel. See [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s description in appendix C for more information about the spellbook.
+[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) keeps her staff of frost within easy reach. When she's not writing in her spellbook, she sticks it in a fur-lined satchel. See [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md)'s description in appendix C for more information about the spellbook.
 
 #### C22. Iron Lever
 
@@ -440,7 +440,7 @@ After the cultists took over the castle, they trapped most of the servants in th
 > A five-foot-wide, eight-foot-high tunnel leads to a dark, cold room that reeks of filth.
 ^0f7
 
-Five of the speaker's servants (unarmed human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) have been trapped here by the cult for the past two weeks. All of them are malnourished, since the cultists feed them only once every few days. The servants are briefly described below:
+Five of the speaker's servants (unarmed human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) have been trapped here by the cult for the past two weeks. All of them are malnourished, since the cultists feed them only once every few days. The servants are briefly described below:
 
 **Lanthis Alderdusk** is Speaker Crannoc's 64-year-old assistant, notary, and scribe. He's feisty and spry for his age.
 
@@ -452,14 +452,14 @@ Five of the speaker's servants (unarmed human [commoners](/3-Mechanics/CLI/besti
 
 **Dassir Ravenscar** is the speaker's shy, 25-year-old dogkeeper.
 
-These servants have decided to mount a prison break. When they hear the blue stone slab open in area C23, they hide. If the characters make their identities known before entering the room, the servants come forward and plead with the characters to free them. Otherwise, the servants try to ambush the first character to enter the room. They roll initiative as a group and make one grapple attempt only, with advantage on the `dice:d20|noform|noparens|avg` (`d20`) roll. (Apply no modifiers to the roll.) If they fail to grapple the character, they scurry to the far corners of the room and huddle in defeat.
+These servants have decided to mount a prison break. When they hear the blue stone slab open in area C23, they hide. If the characters make their identities known before entering the room, the servants come forward and plead with the characters to free them. Otherwise, the servants try to ambush the first character to enter the room. They roll initiative as a group and make one grapple attempt only, with advantage on the `d20` roll. (Apply no modifiers to the roll.) If they fail to grapple the character, they scurry to the far corners of the room and huddle in defeat.
 
 ### Outcome: Dark Alliance
 
-Characters who forge a friendly relationship with the Knights of the Black Sword can use the Caer as a base of operations, coming and going for as long as this dark alliance lasts. The northeast guard tower is set aside for them to stay in. [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) tries to minimize her contact with the party during this time; meanwhile, her gargoyles take shifts atop the southwest guard tower, from where they can watch the characters come and go.
+Characters who forge a friendly relationship with the Knights of the Black Sword can use the Caer as a base of operations, coming and going for as long as this dark alliance lasts. The northeast guard tower is set aside for them to stay in. [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) tries to minimize her contact with the party during this time; meanwhile, her gargoyles take shifts atop the southwest guard tower, from where they can watch the characters come and go.
 
 ### Outcome: Routing the Cultists
 
 If the characters rout the cultists and release Speaker Crannoc Siever, the speaker asks them to call out the town militia so that the castle can be refortified. Henceforth, the speaker lets the characters rest at the castle whenever they need to. His home is their home, so to speak. Characters will quickly learn that the speaker is a blowhard and firebrand who enjoys living like a king behind his castle walls.
 
-Without their leaders, [Kadroth](/3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) and Hethyl, the Knights of the Black Sword are rudderless until [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) finally steps up to fill the power vacuum. The characters are doomed to cross paths with the cultists again in chapter 7.
+Without their leaders, [Kadroth](3-Mechanics/CLI/bestiary/npc/kadroth-idrotf.md) and Hethyl, the Knights of the Black Sword are rudderless until [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) finally steps up to fill the power vacuum. The characters are doomed to cross paths with the cultists again in chapter 7.

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdh
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Knave's Eye Patch"
 ---
 # Knave's Eye Patch
@@ -16,7 +16,7 @@ aliases:
 
 While wearing this eye patch, you gain these benefits:
 
-- You have advantage on Wisdom (Perception) checks that rely on sight.  
+- You have advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.  
 - If you have the Sunlight Sensitivity trait, you are unaffected by the trait.  
 - You are immune to magic that allows other creatures to read your thoughts or determine whether you are lying. Creatures can communicate telepathically with you only if you allow it.  
 

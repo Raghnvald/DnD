@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frog
+- "Frog"
 ---
-# [Frog](3-Mechanics\CLI\bestiary\beast/frog.md)
+# [Frog](3-Mechanics/CLI/bestiary/beast/frog.md)
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A frog has no effective attacks. It feeds on small insects and typically dwells near water, in trees, or underground. The frog's statistics can also be used to represent a toad.
@@ -35,12 +35,12 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
   - !!int "3"
 "speed": "20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "0"
 "traits":
@@ -51,6 +51,6 @@ A frog has no effective attacks. It feeds on small insects and typically dwells 
     "name": "Standing Leap"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/frog.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/frog.webp"
 ```
 ^statblock

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Mabar, the Endless Night; Mabar Manifest Zone Features
+- "Mabar, the Endless Night; Mabar Manifest Zone Features"
 ---
 # Mabar, the Endless Night; Mabar Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 230* 
 
 **Mabar Manifest Zone Features**
-
-`dice: [](mabar-the-endless-night-mabar-manifest-zone-features-erlw.md#^mabar-manifest-zone-features)`
 
 | dice: d4 | Feature |
 |----------|---------|

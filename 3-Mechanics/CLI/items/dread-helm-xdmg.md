@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Dread Helm"
 ---
 # Dread Helm
 *Wondrous item, common*  
-![](/3-Mechanics/CLI/items/img/dread-helm.webp#right)
+![](3-Mechanics/CLI/items/img/dread-helm.webp#right)
 
 
 While you're wearing this fearsome steel helm, your eyes glow red and the rest of your face is hidden in shadow.

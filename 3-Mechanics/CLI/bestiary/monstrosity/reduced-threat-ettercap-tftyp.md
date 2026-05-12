@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Ettercap
+- "Reduced-Threat Ettercap"
 ---
-# [Reduced-Threat Ettercap](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-ettercap-tftyp.md)
+# [Reduced-Threat Ettercap](3-Mechanics/CLI/bestiary/monstrosity/reduced-threat-ettercap-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -34,13 +34,14 @@ aliases:
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+1"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
@@ -60,24 +61,25 @@ aliases:
 "actions":
   - "desc": "The ettercap makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed\
-      \ on a DC 9 Constitution saving throw or be poisoned for 1 minute. The creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must\
+      \ succeed on a DC 9 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. The creature can repeat the saving throw at the end of each\
+      \ of its turns, ending the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 30/60 ft., one Large or smaller\
-      \ creature. *Hit:* The creature is restrained by webbing. As an action, the\
-      \ restrained creature can make a DC 9 Strength check, escaping from the webbing\
-      \ on a success. The effect ends if the webbing is destroyed. The webbing has\
-      \ AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning,\
-      \ poison and psychic damage."
+      \ creature. *Hit:* The creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by webbing. As an action, the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ creature can make a DC 9 Strength check, escaping from the webbing on a success.\
+      \ The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit\
+      \ points, is vulnerable to fire damage and immune to bludgeoning, poison and\
+      \ psychic damage."
     "name": "Web (Recharge 5-6)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-ettercap-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-ettercap-tftyp.webp"
 ```
 ^statblock

@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
-aliases: 
+aliases:
 - "Hand Crossbow"
 ---
 # Hand Crossbow
@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Light](3-Mechanics/CLI/rules/item-properties.md#Light), [Loading](3-Mechanics/CLI/rules/item-properties.md#Loading)
 - **Cost**: 75 gp
 - **Weight**: 3.0 lbs.
 

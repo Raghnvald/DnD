@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Alignment
+- "Supplemental Tables; Alignment"
 ---
 # Supplemental Tables; Alignment
 *Source: Xanathar's Guide to Everything p. 72* 
 
 **Alignment**
-
-`dice: [](supplemental-tables-alignment-xge.md#^alignment)`
 
 | dice: 3d6 | Alignment |
 |-----------|-----------|

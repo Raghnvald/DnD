@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/tabaxi
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flask of Wine
+- "Flask of Wine"
 ---
-# [Flask of Wine](3-Mechanics\CLI\bestiary\npc/flask-of-wine-toa.md)
+# [Flask of Wine](3-Mechanics/CLI/bestiary/npc/flask-of-wine-toa.md)
 *Source: Tomb of Annihilation p. 35*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "tabaxi"
 "alignment": "Chaotic Good"
 "ac": !!int "14"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "3"
@@ -35,15 +35,19 @@ aliases:
   - !!int "15"
 "speed": "30 ft., climb 20 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+2"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common plus any one language"
 "cr": "1"
 "traits":
@@ -55,17 +59,17 @@ aliases:
   - "desc": "Flask of Wine makes two attacks with its claws, its shortsword, or its\
       \ shortbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ slashing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) slashing damage."
     "name": "Claws"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage."
     "name": "Shortbow"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/flask-of-wine-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/flask-of-wine-toa.webp"
 ```
 ^statblock

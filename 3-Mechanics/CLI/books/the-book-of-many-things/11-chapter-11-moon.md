@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Chapter 11: Moon
+- "Chapter 11: Moon"
 ---
 # Chapter 11: Moon
 *Source: The Book of Many Things, p. 81* 
 
-This chapter details the Moonstalkers, a thieves' guild of evil lycanthropes that Dungeon Masters can use in any D&D setting as criminals, rival treasure hunters, or potential patrons. Characters who draw the Moon card from a Deck of Many Things might cross the Moonstalkers' path, since that card grants wishes that the Moonstalkers want to acquire.
+This chapter details the Moonstalkers, a thieves' guild of evil lycanthropes that Dungeon Masters can use in any D&D setting as criminals, rival treasure hunters, or potential patrons. Characters who draw the Moon card from a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md) might cross the Moonstalkers' path, since that card grants wishes that the Moonstalkers want to acquire.
 
-![](/3-Mechanics/CLI/books/the-book-of-many-things/img/058-10-001-moon.webp#center)
+![](3-Mechanics/CLI/books/the-book-of-many-things/img/058-10-001-moon.webp#center)
 
 ## The Moonstalkers
 
@@ -42,17 +42,17 @@ Here are some of the Moonstalkers' most powerful and respected members.
 
 #### Boss Augustus
 
-[Augustus](/3-Mechanics/CLI/bestiary/monstrosity/boss-augustus-bmt.md) is a hulking human werewolf of few words. He shares leadership of the guild with Boss Delour and has a knack for planning heists. Guild members consider him a brutal but fair leader. Some perceptive guild members—like Kathra Bitterwind—have noticed he's become more reclusive recently, and when he does appear, he's restless.
+[Augustus](3-Mechanics/CLI/bestiary/monstrosity/boss-augustus-bmt.md) is a hulking human werewolf of few words. He shares leadership of the guild with Boss Delour and has a knack for planning heists. Guild members consider him a brutal but fair leader. Some perceptive guild members—like Kathra Bitterwind—have noticed he's become more reclusive recently, and when he does appear, he's restless.
 
-Augustus is a natural-born lycanthrope, born to [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) parents. His parents were slain by monster hunters when he was young, and he traveled from town to town for most of his life, fleeing whenever townsfolk discovered his true nature.
+Augustus is a natural-born lycanthrope, born to werewolf parents. His parents were slain by monster hunters when he was young, and he traveled from town to town for most of his life, fleeing whenever townsfolk discovered his true nature.
 
 Delour and Pyrite accepted Augustus in a way he'd never experienced before. When the three of them created the Moonstalkers guild, Augustus relished his new life of crime. But over time, his passion has faded. The riches they gathered mean nothing to him now. The violence grates on him, and he no longer empathizes with Delour's fantasies of revenge. Instead, Augustus secretly longs to end his curse and integrate into society.
 
-Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag.md), to find anyone with access to that spell and plans to offer anything in his power in exchange for undoing his curse. And if bargaining doesn't work, there's always blackmail. (See the ""Using the Moonstalkers in Your Campaign"" section later in this chapter for more details.)
+Only a Wish spell can end Augustus's curse. He has ordered Wanewort, a night hag, to find anyone with access to that spell and plans to offer anything in his power in exchange for undoing his curse. And if bargaining doesn't work, there's always blackmail. (See the ""Using the Moonstalkers in Your Campaign"" section later in this chapter for more details.)
 
 #### Boss Delour
 
-[Delour](/3-Mechanics/CLI/bestiary/monstrosity/boss-delour-bmt.md) the wererat is a sly trickster and consummate thief who rules the Moonstalkers alongside his friend Augustus. Delour's honeyed words and calculating mind make him dangerous. He can smile and shake someone's hand while simultaneously plotting to ruin that person.
+[Delour](3-Mechanics/CLI/bestiary/monstrosity/boss-delour-bmt.md) the wererat is a sly trickster and consummate thief who rules the Moonstalkers alongside his friend Augustus. Delour's honeyed words and calculating mind make him dangerous. He can smile and shake someone's hand while simultaneously plotting to ruin that person.
 
 Expanding the guild's activities beyond thievery was Delour's idea. He studies other criminal syndicates and their methods of getting rich. He considers protection rackets, smuggling, and arson to be low-hanging fruit, with extortion, kidnapping, and murder for hire being more complex challenges the guild can take on as it grows in power. His only real fear is exposure; the bigger and more active the Moonstalkers become, the more likely they are to attract the attention of law enforcement or adventurous do-gooders. The sting of the guild's flight from its first home is still fresh in Delour's mind.
 
@@ -60,19 +60,19 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
 
 #### Kathra Bitterwind
 
-The human [werevulture](/3-Mechanics/CLI/bestiary/fiend/werevulture-bmt.md) Kathra Bitterwind (see "chapter 21" for the werevulture stat block) is the trusted lieutenant of both Boss Augustus and Boss Delour. Unlike most members, Kathra was already a lycanthrope when she joined the guild, and she quickly clawed her way to the top by proving her unwavering loyalty to its leaders.
+The human [werevulture](3-Mechanics/CLI/bestiary/fiend/werevulture-bmt.md) Kathra Bitterwind (see "chapter 21" for the werevulture stat block) is the trusted lieutenant of both Boss Augustus and Boss Delour. Unlike most members, Kathra was already a lycanthrope when she joined the guild, and she quickly clawed her way to the top by proving her unwavering loyalty to its leaders.
 
 Since the bosses spend most of their time at the Moonstalkers' guildhall, plotting and negotiating with powerful clients, most guild members spend far more time with Kathra than they do with either Delour or Augustus. She trains members and leads high-priority assignments, always expecting her accomplices to deliver the same professional precision she does. She has a short temper and no patience for new recruits, but she rarely loses her cool when it counts.
 
-![Wanewort](/3-Mechanics/CLI/books/the-book-of-many-things/img/061-10-004-wanewort.webp#center)
+![Wanewort](3-Mechanics/CLI/books/the-book-of-many-things/img/061-10-004-wanewort.webp#center)
 
 #### Wanewort
 
-Wanewort the [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag.md) performs rituals that help the guild pull off its schemes. She uses divination magic to scope out locations for future heists and casts illusions that disguise Moonstalker members. Occasionally she provides a member with a *Hag Eye* necklace, allowing her to see what they see so she can provide real-time guidance during a mission. She reports to the bosses, but they give her ample rein to pursue her own endeavors and delegate tasks to guild members. Wanewort has special lair actions she can use while in the Moonstalkers' guildhall (see "area 11").
+Wanewort the night hag performs rituals that help the guild pull off its schemes. She uses divination magic to scope out locations for future heists and casts illusions that disguise Moonstalker members. Occasionally she provides a member with a *Hag Eye* necklace, allowing her to see what they see so she can provide real-time guidance during a mission. She reports to the bosses, but they give her ample rein to pursue her own endeavors and delegate tasks to guild members. Wanewort has special lair actions she can use while in the Moonstalkers' guildhall (see "area 11").
 
-Wanewort has ten [imps](/3-Mechanics/CLI/bestiary/fiend/imp.md) as companions. They spend almost all their time in the form of house cats, not out of secrecy, but because Wanewort prefers them that way. Guild members never see her without one of these cats in her arms, twining around her legs, or following in her wake. She pampers these imp-cats like spoiled children.
+Wanewort has ten imps as companions. They spend almost all their time in the form of house cats, not out of secrecy, but because Wanewort prefers them that way. Guild members never see her without one of these cats in her arms, twining around her legs, or following in her wake. She pampers these imp-cats like spoiled children.
 
-Augustus has asked Wanewort to find someone who can cast the Wish spell, but he hasn't told her why. She has developed a ritual that alerts her whenever someone draws the Moon card from a Deck of Many Things, anywhere in the world. She figures this is less dangerous than contacting spellcasters powerful enough to cast the Wish spell.
+Augustus has asked Wanewort to find someone who can cast the Wish spell, but he hasn't told her why. She has developed a ritual that alerts her whenever someone draws the Moon card from a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md), anywhere in the world. She figures this is less dangerous than contacting spellcasters powerful enough to cast the Wish spell.
 
 ## Moonstalker Guildhall
 
@@ -111,12 +111,12 @@ The guildhall has the following features:
 The following locations are keyed to map 11.1.
 
 > [!gallery]
-> ![Map 11.1: Moonstalker Guildhall](/3-Mechanics/CLI/books/the-book-of-many-things/img/062-map-10-01-moonstalker-guildhall.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/the-book-of-many-things/img/063-map-10-01-moonstalker-guildhall-player.webp#gallery)
+> ![Map 11.1: Moonstalker Guildhall](3-Mechanics/CLI/books/the-book-of-many-things/img/062-map-10-01-moonstalker-guildhall.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/the-book-of-many-things/img/063-map-10-01-moonstalker-guildhall-player.webp#gallery)
 
 #### 1: Crescent Antechamber
 
-The curved southeast wall of this room has one permanent door, which leads to the guildhall's tavern entrance. Across from it stands a double door guarded by two [werewolves](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) and two [werevultures](/3-Mechanics/CLI/bestiary/fiend/werevulture-bmt.md) (see "chapter 21" for the werevulture stat block). This room's ceiling is 30 feet high.
+The curved southeast wall of this room has one permanent door, which leads to the guildhall's tavern entrance. Across from it stands a double door guarded by two werewolves and two [werevultures](3-Mechanics/CLI/bestiary/fiend/werevulture-bmt.md) (see "chapter 21" for the werevulture stat block). This room's ceiling is 30 feet high.
 
 The walls to the left and right of the entrance bear small bas-reliefs of a new moon, a waning moon, a half moon, and a waxing moon. When the moon reaches one of these phases, the corresponding symbol glows and a magic door appears beneath it, linking to a matching door in a different city. The door disappears when its phase of the moon ends.
 
@@ -124,13 +124,13 @@ On the nights of full moons, when all Moonstalkers lock themselves in the guildh
 
 #### 2: Commons
 
-This common room is where Moonstalkers mingle, prepare for missions and receive orders. When the characters first visit, five [wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) sit at a table, playing a game of cards. One hopeful initiate accompanies them: a human [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit.md) who has yet to prove her mettle.
+This common room is where Moonstalkers mingle, prepare for missions and receive orders. When the characters first visit, five wererats sit at a table, playing a game of cards. One hopeful initiate accompanies them: a human bandit who has yet to prove her mettle.
 
 #### 3: Jail
 
 In addition to holding captives, these jail cells are used to hold Moonstalkers who become particularly feral during the full moon. As a result, the walls of these jail cells are lined with deep claw marks.
 
-A prisoner from a rival thieves' guild (use the [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md) stat block) is locked in one cell; Kathra Bitterwind visits occasionally to interrogate the prisoner.
+A prisoner from a rival thieves' guild (use the spy stat block) is locked in one cell; Kathra Bitterwind visits occasionally to interrogate the prisoner.
 
 #### 4: Audience Hall
 
@@ -146,7 +146,7 @@ A moonstone chandelier casts a soft, bluish-white glow over this room's oaken ta
 
 #### 6: Guard Post
 
-Two [wereboars](/3-Mechanics/CLI/bestiary/humanoid/wereboar.md) stand before the northern doors, guarding the vault. They question anyone passing toward the bosses' rooms or Wanewort's den.
+Two wereboars stand before the northern doors, guarding the vault. They question anyone passing toward the bosses' rooms or Wanewort's den.
 
 The double door is locked. It can be opened with one of the keys from the bosses' rooms.
 
@@ -156,7 +156,7 @@ The floor and walls of this chilly room are covered with slick ice, making them 
 
 This vault holds much of the Moonstalkers' gold and treasure, but not all of it. The bosses spread their wealth across similar vaults in the five cities they can access.
 
-A [young white dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md) named Rahaskardon prowls this room. The dragon obeys the bosses and Wanewort, guarding the Moonstalkers' treasure against intruders.
+A young white dragon named Rahaskardon prowls this room. The dragon obeys the bosses and Wanewort, guarding the Moonstalkers' treasure against intruders.
 
 ##### Treasure
 
@@ -170,13 +170,13 @@ This room has a small shrine with a headstone memorializing Boss Pyrite and othe
 
 A magic hearth flickers with white, heatless flame on the south wall of this room. Paperwork full of notes and detailed schemes sits atop a desk, alongside a tiny portrait of Delour, Augustus, and Pyrite painted soon after the guild was founded.
 
-[Boss Delour](/3-Mechanics/CLI/bestiary/monstrosity/boss-delour-bmt.md) (see the "stat block" earlier in this chapter) spends most of this time in this well-kept room. He keeps his key to "area 7" beneath his pillow whenever it isn't on his person.
+[Boss Delour](3-Mechanics/CLI/bestiary/monstrosity/boss-delour-bmt.md) (see the "stat block" earlier in this chapter) spends most of this time in this well-kept room. He keeps his key to "area 7" beneath his pillow whenever it isn't on his person.
 
 #### 10: Boss Augustus's Quarters
 
 An owlbear rug stretches across this room's floor. Stuffed animal heads are mounted on the walls.
 
-[Boss Augustus](/3-Mechanics/CLI/bestiary/monstrosity/boss-augustus-bmt.md) (see the "stat block" earlier in this chapter) passes much of his time in this impressive room. He keeps his key to "area 7" and the key to his chest in the mouth of a mounted deer head whenever these keys aren't on his person.
+[Boss Augustus](3-Mechanics/CLI/bestiary/monstrosity/boss-augustus-bmt.md) (see the "stat block" earlier in this chapter) passes much of his time in this impressive room. He keeps his key to "area 7" and the key to his chest in the mouth of a mounted deer head whenever these keys aren't on his person.
 
 ##### Chest
 
@@ -184,22 +184,22 @@ A wooden chest sits beneath the bed in this room. It can be unlocked with a succ
 
 ##### Treasure
 
-Augustus wields a +2 Longsword. He usually takes the sword with him when he leaves the room, but if he's resting here or has left the sword behind for some reason, it's leaning against the wall near his bed.
+Augustus wields a [+2 Longsword](3-Mechanics/CLI/items/2-weapon.md). He usually takes the sword with him when he leaves the room, but if he's resting here or has left the sword behind for some reason, it's leaning against the wall near his bed.
 
 #### 11: Wanewort's Den
 
-Ten [imps](/3-Mechanics/CLI/bestiary/fiend/imp.md) who have adopted the form of cats of various colors strut, creep, or sleep around this 30-foot-tall, circular room. Wanewort, a [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag.md), spends much of her time here as well.
+Ten imps who have adopted the form of cats of various colors strut, creep, or sleep around this 30-foot-tall, circular room. Wanewort, a night hag, spends much of her time here as well.
 
 In addition to a cauldron and the witchy ingredients typical of a hag's lair, this room is crowded with litter boxes, scratching posts, cat trees, feather toys, hand-knit kitty clothing, and catnip.
 
 Wanewort has access to the following lair actions while she is in the Moonstalkers' guildhall:
 
-- **Ghostly Passage.** Until initiative count 20 on the next round, Wanewort can pass through solid walls, doors, ceilings, and floors as if they weren't there. She takes `dice:1d10|noform|noparens|avg` (`1d10`) force damage if she ends her turn inside an object.  
+- **Ghostly Passage.** Until initiative count 20 on the next round, Wanewort can pass through solid walls, doors, ceilings, and floors as if they weren't there. She takes `1d10` force damage if she ends her turn inside an object.  
 - **Open and Shut.** Wanewort targets any number of doors that she can see, causing each one to close. She can choose to lock a door as it closes. Wanewort can also use this lair action to unlock and open locked doors.  
 
 ##### Treasure
 
-A [Glimmering Moonbow](/3-Mechanics/CLI/items/glimmering-moonbow-bmt.md) (see "chapter 5") sits atop a high shelf in this room.
+A [Glimmering Moonbow](3-Mechanics/CLI/items/glimmering-moonbow-bmt.md) (see "chapter 5") sits atop a high shelf in this room.
 
 #### 12: Scrying Pool
 
@@ -207,11 +207,11 @@ A large scrying pool takes up much of this room. Wanewort uses it for her Scryin
 
 #### 13: Armory
 
-The [wereboar](/3-Mechanics/CLI/bestiary/humanoid/wereboar.md) in charge of the armory keeps it stocked with daggers, cloaks, thieves' tools, grappling hooks, and other equipment the Moonstalkers don't want to hide at their homes. The wereboar can usually be found here, maintaining this equipment.
+The wereboar in charge of the armory keeps it stocked with daggers, cloaks, thieves' tools, grappling hooks, and other equipment the Moonstalkers don't want to hide at their homes. The wereboar can usually be found here, maintaining this equipment.
 
 #### 14: Barrack
 
-When a Moonstalker needs to spend the night at the guildhall instead of their home, they can sleep in the bunk beds at this barrack. Two [werewolves](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) and three [wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) are currently sleeping here.
+When a Moonstalker needs to spend the night at the guildhall instead of their home, they can sleep in the bunk beds at this barrack. Two werewolves and three wererats are currently sleeping here.
 
 ## Using the Moonstalkers in Your Campaign
 
@@ -225,7 +225,7 @@ Alternatively, if the characters are looking to steal something (for instance, a
 
 ### Bargaining for a Wish
 
-If your characters have access to the Wish spell—for example, because they've drawn the Moon card from a Deck of Many Things—Boss Augustus makes them an offer they can't refuse. The characters could also be drawn into this story if a noncombatant draws the Moon card and becomes a target for the Moonstalkers.
+If your characters have access to the Wish spell—for example, because they've drawn the Moon card from a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md)—Boss Augustus makes them an offer they can't refuse. The characters could also be drawn into this story if a noncombatant draws the Moon card and becomes a target for the Moonstalkers.
 
 Wanewort's ritual tells her the name and location of anyone who draws the Moon card. She also has contacts looking for anyone who can cast the Wish spell on their own. Once she has a target, she resorts to one of three tactics:
 

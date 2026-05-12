@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Druid
+- "Druid"
 ---
-# [Druid](3-Mechanics\CLI\bestiary\humanoid/druid-xmm.md)
+# [Druid](3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md)
 *Source: Monster Manual (2024) p. 106. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Druid
@@ -21,13 +21,11 @@ aliases:
 *Steward and Sage of Nature*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.
 
 **Druid Traditions**
-
-`dice: [](druid-xmm.md#^druid-traditions)`
 
 | dice: 1d6 | The Druid Is... |
 |-----------|-----------------|
@@ -57,12 +55,14 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+5"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
+"gear":
+  - "[studded leather armor](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Druidic, Sylvan"
 "cr": "2"
@@ -70,21 +70,21 @@ Druids use primal magic, traditional teachings, and bonds with animals and eldri
   - "desc": "The druid makes two attacks, using Vine Staff or Verdant Wisp in any\
       \ combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage\
-      \ plus 2 (1d4) Poison damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
+      \ damage plus 2 (1d4) Poison damage."
     "name": "Vine Staff"
   - "desc": "*Ranged Attack Roll:* +5, range 90 ft. *Hit:* 10 (3d6) Radiant damage."
     "name": "Verdant Wisp"
   - "desc": "The druid casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 13):\n\n**At will:** [Druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-      \ [Speak with Animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\
-      \n**2/day each:** [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
-      \n**1/day each:** [Animal Messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
-      \ [Longstrider](/3-Mechanics/CLI/spells/longstrider-xphb.md), [Moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md)"
+      \ ability (spell save DC 13):\n\n**At will:** [Druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md),\
+      \ [Speak with Animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md)\n\n\
+      **2/day each:** [Entangle](3-Mechanics/CLI/spells/entangle-xphb.md), [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md)\n\
+      \n**1/day each:** [Animal Messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md),\
+      \ [Longstrider](3-Mechanics/CLI/spells/longstrider-xphb.md), [Moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/druid-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/druid-xmm.webp"
 ```
 ^statblock
 

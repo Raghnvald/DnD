@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Watchful Rest"
 ---
 # Potion of Watchful Rest

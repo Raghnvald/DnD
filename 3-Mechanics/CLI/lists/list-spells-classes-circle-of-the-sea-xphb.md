@@ -1,38 +1,39 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-note
+- json5e-note
 tags:
-  - Zauber/list/subclass/circle-of-the-sea
+- ttrpg-cli/spell/list/subclass/circle-of-the-sea
 aliases:
-  - Spells for Circle of the Sea
+- "Spells for Circle of the Sea"
 ---
 # Spells for Circle of the Sea
 
 ## Cantrip
 
-- [Ray of Frost](/3-Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 9
+- [Ray of Frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md "XPHB") at class level 3
 
 ## 1st Level
 
-- [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 9
-- [Thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 9
+- [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") at class level 3
+- [Thunderwave](3-Mechanics/CLI/spells/thunderwave-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 9
-- [Shatter](/3-Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 9
+- [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 3
+- [Shatter](3-Mechanics/CLI/spells/shatter-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Lightning Bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 9
-- [Water Breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB") at class level 9
+- [Lightning Bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md "XPHB") at class level 5
+- [Water Breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Control Water](/3-Mechanics/CLI/spells/control-water-xphb.md "XPHB") at class level 9
-- [Ice Storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 9
+- [Control Water](3-Mechanics/CLI/spells/control-water-xphb.md "XPHB") at class level 7
+- [Ice Storm](3-Mechanics/CLI/spells/ice-storm-xphb.md "XPHB") at class level 7
 
 ## 5th Level
 
-- [Conjure Elemental](/3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB") at class level 9
-- [Hold Monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 9
+- [Conjure Elemental](3-Mechanics/CLI/spells/conjure-elemental-xphb.md "XPHB") at class level 9
+- [Hold Monster](3-Mechanics/CLI/spells/hold-monster-xphb.md "XPHB") at class level 9

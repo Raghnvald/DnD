@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/skt
+- ttrpg-cli/compendium/src/5e/skt
 aliases:
-- Appendix A: Linked Adventures
+- "Appendix A: Linked Adventures"
 ---
 # Appendix A: Linked Adventures
 *Source: Storm King's Thunder, p. 231* 
@@ -18,11 +18,11 @@ Wizards of the Coast has published other D&D adventures that can serve as spring
 
 ### Lionshield Delivery
 
-Linene Graywind, who runs the trading post in Phandalin on behalf of a mercantile company, the Lionshield Coster, has a colleague, Alaestra Ulgar, who lives in Triboar with her business partner, [Narth Tezrin](/3-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md). Linene has written a letter to her friend, describing recent tribulations in Phandalin, and asks the characters to deliver it. In a note attached to the letter, Linene asks Alaestra to reward her messengers with an old gray bag stitched with animal designs. This item is a gray bag of tricks.
+Linene Graywind, who runs the trading post in Phandalin on behalf of a mercantile company, the Lionshield Coster, has a colleague, Alaestra Ulgar, who lives in Triboar with her business partner, [Narth Tezrin](3-Mechanics/CLI/bestiary/npc/narth-tezrin-skt.md). Linene has written a letter to her friend, describing recent tribulations in Phandalin, and asks the characters to deliver it. In a note attached to the letter, Linene asks Alaestra to reward her messengers with an old gray bag stitched with animal designs. This item is a [gray bag of tricks](3-Mechanics/CLI/items/bag-of-tricks-gray-xdmg.md).
 
 ### A Demanding Letter
 
-Harbin Wester, the pompous town master of Phandalin, asks the characters to deliver a letter to [Darathra Shendrel](/3-Mechanics/CLI/bestiary/npc/darathra-shendrel-skt.md), the lord protector of Triboar. In the letter, Harbin demands that the lord protector do a better job of patrolling the territory between their two settlements. He reprimands Darathra for allowing orcs to infest the hills near Phandalin. Unknown to Harbin, Darathra is a member of the Harpers. She gives the characters 50 gp for having the guts to deliver the condescending letter.
+Harbin Wester, the pompous town master of Phandalin, asks the characters to deliver a letter to [Darathra Shendrel](3-Mechanics/CLI/bestiary/npc/darathra-shendrel-skt.md), the lord protector of Triboar. In the letter, Harbin demands that the lord protector do a better job of patrolling the territory between their two settlements. He reprimands Darathra for allowing orcs to infest the hills near Phandalin. Unknown to Harbin, Darathra is a member of the Harpers. She gives the characters 50 gp for having the guts to deliver the condescending letter.
 
 ### Zhentarim Connection
 
@@ -37,8 +37,8 @@ Early in *Tyranny of Dragons*, the characters join a caravan traveling from Bald
 Part of *Tyranny of Dragons* takes place in Skyreach Castle, a flying fortress belonging to a cloud giant named Blagothkus. You can make him a pivotal figure in this adventure by having his castle appear when the characters are around 7th or 8th level, giving them a chance to meet the evil cloud giant and convince him to aid their cause. The characters might also want to confront him after meeting the ghost of his dead son, Eigeron, in chapter 4, "The Chosen Path." The shattering of the ordning has the following effects on Blagothkus:
 
 - The cloud giant is eager to dispose of his Cult of the Dragon allies, use their money to buy the loyalty of lesser giants, and wage war against dragonkind. If the characters help him rid Skyreach Castle of the cultists and their white dragon ally, the giant pledges to help them in return and offers them one-third of the cult's spoils. Blagothkus honors his agreements as long as the characters pose no threat to him and he gets his way. If they have an airship with Cult of the Dragon members aboard (see the "Airship of a Cult" section in chapter 4), these cultists ally with the ones aboard Skyreach Castle.  
-- Blagothkus knows that [King Hekaton](/3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) has disappeared and suspects that dragons are somehow responsible. Although he has no proof to corroborate his suspicions, Blagothkus sees dragon conspiracies everywhere and is convinced that evil dragons would pounce on the chance to throw giant society into chaos. Although he's eager to see the ordning restored with cloud giants at its apex, he can be convinced to use his flying fortress to help the characters locate [King Hekaton](/3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) if he's told that one or more dragons orchestrated the king's abduction.  
-- Although they share a disdain for dragons, Blagothkus and [Countess Sansuri](/3-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md) are bitter rivals. If the characters intend to confront Sansuri (see chapter 9, "Castle of the Cloud Giants"), Blagothkus offers to join the characters and help them thwart her machinations so that he, not she, can win the favor of the gods and elevate cloud giants to the top of the ordning.  
+- Blagothkus knows that [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) has disappeared and suspects that dragons are somehow responsible. Although he has no proof to corroborate his suspicions, Blagothkus sees dragon conspiracies everywhere and is convinced that evil dragons would pounce on the chance to throw giant society into chaos. Although he's eager to see the ordning restored with cloud giants at its apex, he can be convinced to use his flying fortress to help the characters locate [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) if he's told that one or more dragons orchestrated the king's abduction.  
+- Although they share a disdain for dragons, Blagothkus and [Countess Sansuri](3-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md) are bitter rivals. If the characters intend to confront Sansuri (see chapter 9, "Castle of the Cloud Giants"), Blagothkus offers to join the characters and help them thwart her machinations so that he, not she, can win the favor of the gods and elevate cloud giants to the top of the ordning.  
 
 Blagothkus bears no ill will toward small folk, but his desire to rekindle the ancient war between giants and dragons could have devastating consequences for small folk settlements up and down the Sword Coast.
 
@@ -50,7 +50,7 @@ You can transition the characters from *Princes of the Apocalypse* to this adven
 
 ### Harper Sympathizer
 
-Endrith Vallivoe, a retired caravan merchant living in the village of Red Larch, is friendly toward the Harpers. If he suspects or knows that one or more characters have ties to the Harpers, he urges them to speak to [Darathra Shendrel](/3-Mechanics/CLI/bestiary/npc/darathra-shendrel-skt.md), the lord protector of Triboar. He doesn't reveal that she's a Harper, but he's certain that she has need of adventurers in these "troubled times."
+Endrith Vallivoe, a retired caravan merchant living in the village of Red Larch, is friendly toward the Harpers. If he suspects or knows that one or more characters have ties to the Harpers, he urges them to speak to [Darathra Shendrel](3-Mechanics/CLI/bestiary/npc/darathra-shendrel-skt.md), the lord protector of Triboar. He doesn't reveal that she's a Harper, but he's certain that she has need of adventurers in these "troubled times."
 
 ### Errant Priest
 
@@ -64,10 +64,10 @@ Herivin Dardragon, the halfling proprietor of the Harvest Inn in the town of Wes
 > 
 > Here are examples of how you can weave *Princes of the Apocalypse* and *Storm King's Thunder* together by having cultists aid the giants, as a way to hide their own plans:
 > 
-> - The Cult of the Black Earth sends cultists to Deadstone Cleft (see chapter 6, "Canyon of the Stone Giants"). They provide [Thane Kayalithica](/3-Mechanics/CLI/bestiary/npc/thane-kayalithica-skt.md) and her stone giants with information on the defensive capabilities of nearby settlements and offer to help lay waste to them. The cultists might know about the earth primordial trapped under Deadstone Cleft and want to communicate with it.  
-> - The Cult of the Eternal Flame helps [Duke Zalto](/3-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md) and his drow allies (see chapter 8, "Forge of the Fire Giants") steal Maegera, the fire primordial trapped in Gauntlgrym. The cultists believe that the fire primordial is the offspring of Imix, the Prince of Evil Fire, whom they worship as a god.  
-> - The Cult of the Howling Hatred, after witnessing several cloud giant castles drifting in the skies over the Sword Coast, sends representatives to meet with the cloud giants and learn their intentions. [Countess Sansuri](/3-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md) is fascinated by the cult's ability to create devastation orbs and wants a demonstration. Characters who visit her castle (see chapter 9, "Castle of the Cloud Giants") might encounter a team of air cultists with a devastation orb in their possession.  
-> - The Cult of the Crushing Wave might help [Chief Guh](/3-Mechanics/CLI/bestiary/npc/chief-guh-skt.md) and her hill giants dam the river that runs alongside her den (see chapter 5, "Den of the Hill Giants"). Water cultists might also be helping the Kraken Society guard [King Hekaton](/3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) (see chapter 11, "Caught in the Tentacles").  
+> - The Cult of the Black Earth sends cultists to Deadstone Cleft (see chapter 6, "Canyon of the Stone Giants"). They provide [Thane Kayalithica](3-Mechanics/CLI/bestiary/npc/thane-kayalithica-skt.md) and her stone giants with information on the defensive capabilities of nearby settlements and offer to help lay waste to them. The cultists might know about the earth primordial trapped under Deadstone Cleft and want to communicate with it.  
+> - The Cult of the Eternal Flame helps [Duke Zalto](3-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md) and his drow allies (see chapter 8, "Forge of the Fire Giants") steal Maegera, the fire primordial trapped in Gauntlgrym. The cultists believe that the fire primordial is the offspring of Imix, the Prince of Evil Fire, whom they worship as a god.  
+> - The Cult of the Howling Hatred, after witnessing several cloud giant castles drifting in the skies over the Sword Coast, sends representatives to meet with the cloud giants and learn their intentions. [Countess Sansuri](3-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md) is fascinated by the cult's ability to create devastation orbs and wants a demonstration. Characters who visit her castle (see chapter 9, "Castle of the Cloud Giants") might encounter a team of air cultists with a devastation orb in their possession.  
+> - The Cult of the Crushing Wave might help [Chief Guh](3-Mechanics/CLI/bestiary/npc/chief-guh-skt.md) and her hill giants dam the river that runs alongside her den (see chapter 5, "Den of the Hill Giants"). Water cultists might also be helping the Kraken Society guard [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md) (see chapter 11, "Caught in the Tentacles").  
 ^using-the-elemental-cults
 
 ## Out of the Abyss

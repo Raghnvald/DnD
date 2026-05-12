@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Helmed Horror Detention Drone
+- "Helmed Horror Detention Drone"
 ---
-# [Helmed Horror Detention Drone](3-Mechanics\CLI\bestiary\construct/helmed-horror-detention-drone-bmt.md)
+# [Helmed Horror Detention Drone](3-Mechanics/CLI/bestiary/construct/helmed-horror-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
@@ -43,6 +43,8 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
 "damage_immunities": "force, necrotic, poison"
 "condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
   \ poisoned, stunned"
+"gear":
+  - "longsword"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "4"
@@ -56,8 +58,9 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
 "actions":
   - "desc": "The drone makes two longsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "The drone launches a tiny orb of magical force at a creature it can see\
       \ within 30 feet of itself. The creature must succeed on a DC 15 Constitution\
@@ -75,6 +78,6 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
     "name": "Detention Orb"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/helmed-horror-detention-drone-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/helmed-horror-detention-drone-bmt.webp"
 ```
 ^statblock

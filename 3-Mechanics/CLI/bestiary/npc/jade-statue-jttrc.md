@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jade Statue
+- "Jade Statue"
 ---
-# [Jade Statue](3-Mechanics\CLI\bestiary\npc/jade-statue-jttrc.md)
+# [Jade Statue](3-Mechanics/CLI/bestiary/npc/jade-statue-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 195*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -50,8 +53,8 @@ aliases:
 "actions":
   - "desc": "The statue makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The statue targets one or more creatures it can see within 10 feet of\
       \ it. Each target must make a DC 17 Wisdom saving throw against this magic.\
@@ -63,6 +66,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jade-statue-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jade-statue-jttrc.webp"
 ```
 ^statblock

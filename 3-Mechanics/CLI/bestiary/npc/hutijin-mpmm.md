@@ -10,14 +10,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hutijin
+- "Hutijin"
 ---
-# [Hutijin](3-Mechanics\CLI\bestiary\npc/hutijin-mpmm.md)
+# [Hutijin](3-Mechanics/CLI/bestiary/npc/hutijin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 157, Mordenkainen's Tome of Foes p. 175*  
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 
-Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](/3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
 
 Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
 
@@ -47,17 +47,19 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
   - "constitution": !!int "14"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+14"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 21"
 "languages": "all, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -77,40 +79,40 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
   - "desc": "Hutijin makes one Bite attack, one Claw attack, one Mace attack, and\
       \ one Tail attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution saving\
-      \ throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned). While\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the target\
-      \ can't regain hit points, and it takes 10 (3d6) poison damage at the start\
-      \ of each of its turns. The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) fire damage. The target must succeed on a DC 22 Constitution\
+      \ saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ the target can't regain hit points, and it takes 10 (3d6) poison damage\
+      \ at the start of each of its turns. The [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) cold damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) cold damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) force damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) force damage."
     "name": "Mace"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) thunder damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d10 + 8) thunder damage."
     "name": "Tail"
   - "desc": "Hutijin teleports, along with any equipment he is wearing and carrying,\
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Hutijin casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\n**At\
-      \ will:** [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md) (can become\
-      \ Medium when changing his appearance), [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\
-      \ (self only), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)\n\
-      \n**3/day:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md) (can become Medium\
+      \ when changing his appearance), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)\n\n**3/day:** [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "In response to taking damage, Hutijin utters a dreadful word of power.\
       \ Each creature within 30 feet of him that isn't a devil must succeed on a DC\
-      \ 22 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ 22 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ of him for 1 minute. A creature can repeat the saving throw at the end of\
       \ each of its turns, ending the effect on itself on a success. A creature that\
       \ saves against this effect is immune to his Fearful Voice for 24 hours."
@@ -131,6 +133,6 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hutijin-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hutijin-mpmm.webp"
 ```
 ^statblock

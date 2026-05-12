@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phantom Warrior
+- "Phantom Warrior"
 ---
-# [Phantom Warrior](3-Mechanics\CLI\bestiary\undead/phantom-warrior-cos.md)
+# [Phantom Warrior](3-Mechanics/CLI/bestiary/undead/phantom-warrior-cos.md)
 *Source: Curse of Strahd p. 235*  
 
 A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
@@ -23,11 +23,11 @@ Although one is often mistaken for a ghost, a phantom warrior isn't bound by a y
 
 ## Faded Memories
 
-A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `dice:1d10+10|noform|noparens|avg` (`1d10 + 10`) days of its life; everything that happened before that is an impenetrable fog.
+A phantom warrior retains the alignment and personality it had before it died, and it remembers how it died. Memories of its life from shortly before it died are hazy, and older memories are forgotten. A phantom warrior can usually remember the last `1d10 + 10` days of its life; everything that happened before that is an impenetrable fog.
 
 ## Forceful Presence
 
-Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An [invisible](/3-Mechanics/CLI/conditions.md#Invisible) sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
+Although they are incorporeal, phantom warriors can harness the energy around them to deflect incoming attacks and strike with great force. An invisible sheath of energy surrounds a phantom warrior's ghostly armor, shields, and weapons, which become as hard as steel yet don't impede the warrior's ability to move through walls and other solid objects.
 
 ## Undead Nature
 
@@ -51,19 +51,15 @@ A phantom warrior doesn't require air, food, drink, or sleep.
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "3"
 "traits":
@@ -79,8 +75,8 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The phantom warrior makes two attacks with its spectral longsword."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) force damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) force damage."
     "name": "Spectral Longsword"
   - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
       \ or vice versa. It is visible on the Material Plane while it is in the Border\
@@ -89,6 +85,6 @@ A phantom warrior doesn't require air, food, drink, or sleep.
     "name": "Etherealness"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/phantom-warrior-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/phantom-warrior-cos.webp"
 ```
 ^statblock

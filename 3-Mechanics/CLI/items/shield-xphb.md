@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/shield/
-aliases: 
+aliases:
 - "Shield"
 ---
 # Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield-xphb.md))*  
-![](/3-Mechanics/CLI/items/img/shield.webp#right)
+*Armor ([shield](3-Mechanics/CLI/items/shield-xphb.md))*  
+![](3-Mechanics/CLI/items/img/shield.webp#right)
 
 - **Armor Class**: 2
 - **Cost**: 10 gp

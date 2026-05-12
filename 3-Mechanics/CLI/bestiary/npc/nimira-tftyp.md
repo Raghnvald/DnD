@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/dwarf
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nimira
+- "Nimira"
 ---
-# [Nimira](3-Mechanics\CLI\bestiary\npc/nimira-tftyp.md)
+# [Nimira](3-Mechanics/CLI/bestiary/npc/nimira-tftyp.md)
 *Source: Tales from the Yawning Portal p. 54*  
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
@@ -31,7 +31,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become invisible to slip away into the darkness. Eons spent in the Underdark also sharpened their darkvision, allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -44,7 +44,7 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 "subtype": "dwarf"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "splint armor"
+"ac_class": "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -57,21 +57,27 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "darkvision 120 ft., passive Perception 10"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "3"
 "traits":
   - "desc": "Nimira has advantage on saving throws against poison, spells, and illusions,\
-      \ as well as to resist being charmed or paralyzed."
+      \ as well as to resist being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, Nimira has disadvantage on attack rolls, as well as\
-      \ on Wisdom (Perception) checks that rely on sight."
+      \ on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Multiattack. Nimira makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage, or 16 (4d6 + 2) slashing damage while enlarged."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage, or 16 (4d6 + 2) slashing damage while enlarged."
     "name": "Greatsword"
   - "desc": "For 1 minute, Nimira magically increases in size, along with anything\
       \ it is wearing or carrying. While enlarged, Nimira is Large, doubles its damage\
@@ -80,20 +86,21 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
       \ the room to become Large, it attains the maximum size possible in the space\
       \ available."
     "name": "Enlarge (Recharges after a Short or Long Rest)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged."
     "name": "War Pick"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing\
       \ damage while enlarged."
     "name": "Javelin"
-  - "desc": "Nimira magically turns invisible until it attacks, casts a spell, or\
-      \ uses its Enlarge, or until its concentration is broken, up to 1 hour (as if\
-      \ concentrating on a spell). Any equipment Nimira wears or carries is invisible\
+  - "desc": "Nimira magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ is broken, up to 1 hour (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment Nimira wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nimira-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nimira-tftyp.webp"
 ```
 ^statblock

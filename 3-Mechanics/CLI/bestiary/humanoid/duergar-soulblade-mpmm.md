@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Soulblade
+- "Duergar Soulblade"
 ---
-# [Duergar Soulblade](3-Mechanics\CLI\bestiary\humanoid/duergar-soulblade-mpmm.md)
+# [Duergar Soulblade](3-Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 109, Mordenkainen's Tome of Foes p. 190*  
 
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "27"
 "hit_dice": "6d8"
 "modifier": !!int "3"
@@ -59,29 +59,29 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "12"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "1"
 "traits":
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6\
-      \ + 3) force damage, or 13 (3d6 + 3) force damage while under the effect of\
-      \ Enlarge."
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
+      \ (2d6 + 3) force damage, or 13 (3d6 + 3) force damage while under the effect\
+      \ of Enlarge."
     "name": "Soulblade"
-  - "desc": "The duergar magically turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+      \ throw, or its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ is broken (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the duergar wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ with it."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "bonus_actions":
@@ -95,7 +95,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/duergar-soulblade-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-soulblade-mpmm.webp"
 ```
 ^statblock
 

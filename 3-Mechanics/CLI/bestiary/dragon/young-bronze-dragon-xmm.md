@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Bronze Dragon
+- "Young Bronze Dragon"
 ---
-# [Young Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/young-bronze-dragon-xmm.md)
+# [Young Bronze Dragon](3-Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
@@ -23,7 +23,7 @@ Many young bronze dragons become experts in a type of problem, like driving off 
 *Dragons of Potential and Preservation*
 
 - **Habitat.** Coastal  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md)  
 
 Where bronze dragons dwell, wonders flourish. Imaginative yet mindful, these metallic dragons work toward greatness and help others achieve all they can. They strive to preserve innovations, from the works of past civilizations to new discoveries, and they share such works widely. When dealing with shorter-lived beings, bronze dragons prefer to win them over through conversation and cultivation, but they don't shy from battle when villains keep others from achieving their potential.
 
@@ -55,14 +55,14 @@ Bronze dragons usually make their homes near or under the sea.
   - "dexterity": !!int "3"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
@@ -73,19 +73,20 @@ Bronze dragons usually make their homes near or under the sea.
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
       \ use of Repulsion Breath."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 16 (2d10 + 5) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 16 (2d10 + 5) Slashing\
+      \ damage."
     "name": "Rend"
   - "desc": "*Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
       \ 49 (9d10) Lightning damage. *Success:* Half damage."
     "name": "Lightning Breath (Recharge 5-6)"
-  - "desc": "*Strength Saving Throw:* DC 15, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Strength Saving Throw:* DC 15, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* The target is pushed up to 40 feet straight away from the dragon\
-      \ and has the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ and has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon-xmm.webp"
 ```
 ^statblock
 

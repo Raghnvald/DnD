@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/illuskan-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duvessa Shane
+- "Duvessa Shane"
 ---
-# [Duvessa Shane](3-Mechanics\CLI\bestiary\npc/duvessa-shane-skt.md)
+# [Duvessa Shane](3-Mechanics/CLI/bestiary/npc/duvessa-shane-skt.md)
 *Source: Storm King's Thunder p. 248*  
 
 The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of Bryn Shander, and a young one at that, she has much to prove.
@@ -42,12 +42,14 @@ Flaw:"I don't give an inch in any argument or conflict."
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish, Giant, Orc"
 "traits":
@@ -70,6 +72,6 @@ Flaw:"I don't give an inch in any argument or conflict."
     "name": "Parry"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/duvessa-shane-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/duvessa-shane-skt.webp"
 ```
 ^statblock

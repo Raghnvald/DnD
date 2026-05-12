@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Cosmic Horror Torments
+- "Cosmic Horror Torments"
 ---
 # Cosmic Horror Torments
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
 **Cosmic Horror Torments**
-
-`dice: [](cosmic-horror-torments-vrgr.md#^cosmic-horror-torments)`
 
 | dice: d8 | Torment |
 |----------|---------|

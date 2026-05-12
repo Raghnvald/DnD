@@ -12,15 +12,24 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/kobold
+- ttrpg-cli/spell/race/yuan-ti
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/circle-of-the-land/arctic
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/nature-domain
+- ttrpg-cli/spell/subclass/strength-domain-psa
 - ttrpg-cli/spell/subrace/elf-high
+- ttrpg-cli/spell/subrace/elf-kaladesh-vahadar
+- ttrpg-cli/spell/subrace/merfolk-ixalan-blue
+- ttrpg-cli/spell/subrace/merfolk-ixalan-green
+- ttrpg-cli/spell/subrace/merfolk-zendikar-emeria-creed
+- ttrpg-cli/spell/subrace/merfolk-zendikar-ula-creed
 classes:
 - Bard (Magical Secrets)
 - Cleric (Nature Domain)
+- Cleric (Strength Domain (PSA))
 - Druid
 - Druid (Circle of the Land, Arctic)
 - Fighter (Eldritch Knight)
@@ -29,7 +38,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Poison Spray
+- "Poison Spray"
 ---
 # Poison Spray
 *cantrip, Conjuration*  
@@ -40,10 +49,10 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take `dice:1d12|noform|noparens|avg` (`1d12`) poison damage.
+You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take `1d12` poison damage.
 
-This spell's damage increases by `dice:1d12|noform|noparens|avg` (`1d12`) when you reach 5th level (`dice:2d12|noform|noparens|avg` (`2d12`)), 11th level (`dice:3d12|noform|noparens|avg` (`3d12`)), and 17th level (`dice:4d12|noform|noparens|avg` (`4d12`)).
+This spell's damage increases by `1d12` when you reach 5th level (`2d12`), 11th level (`3d12`), and 17th level (`4d12`).
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](/3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Druid (Circle of the Land, Arctic)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Nature Domain)](3-Mechanics/CLI/lists/list-spells-classes-nature-domain.md); [Cleric (Strength Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-strength-domain-psa-psa.md "subclass=PSA"); [Druid (Circle of the Land, Arctic)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Nine Lives Stealer"
 - "Nine Lives Stealer Double-Bladed Scimitar"
 - "Nine Lives Stealer Greatsword"
@@ -21,12 +21,12 @@ aliases:
 ---
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/nine-lives-stealer.webp#right)
+![Nine Lives Stealer (Greatsword)](3-Mechanics/CLI/items/img/nine-lives-stealer.webp#right)
 
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
-The sword has `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
+The sword has `1d8 + 1` charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
 
 **Variants**:
 - [Nine Lives Stealer Double-Bladed Scimitar](#Nine%20Lives%20Stealer%20Double-Bladed%20Scimitar)
@@ -39,13 +39,13 @@ The sword has `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges. If you score
 ### Nine Lives Stealer Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Nine Lives Stealer Longsword
@@ -53,25 +53,25 @@ The sword has `dice:1d8+1|noform|noparens|avg` (`1d8 + 1`) charges. If you score
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Nine Lives Stealer Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Nine Lives Stealer Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Priest Acolyte
+- "Priest Acolyte"
 ---
-# [Priest Acolyte](3-Mechanics\CLI\bestiary\humanoid/priest-acolyte-xmm.md)
+# [Priest Acolyte](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)
 *Source: Monster Manual (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Priest acolytes have great faith but modest magical skill. Some might be trainees in religious organizations or soldiers in zealous armies, while others are faith leaders in small communities or wanderers on pilgrimages.
@@ -23,15 +23,13 @@ Priest acolytes have great faith but modest magical skill. Some might be trainee
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
 Roll on or choose a result from the Priest Roles table to inspire different sorts of priests.
 
 **Priest Roles**
-
-`dice: [](priest-acolyte-xmm.md#^priest-roles)`
 
 | dice: 1d10 | The Priest Is... |
 |------------|------------------|
@@ -71,30 +69,34 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
+"gear":
+  - "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
+  - "[holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md)"
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning damage\
-      \ plus 2 (1d4) Radiant damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Bludgeoning\
+      \ damage plus 2 (1d4) Radiant damage."
     "name": "Mace"
   - "desc": "*Ranged Attack Roll:* +4, range 60 ft. *Hit:* 7 (2d6) Radiant damage."
     "name": "Radiant Flame"
   - "desc": "The priest casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability:\n\n**At will:** [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+      \ ability:\n\n**At will:** [Light](3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Healing\
-      \ Word](/3-Mechanics/CLI/spells/healing-word-xphb.md), or [Sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+  - "desc": "The priest casts [Bless](3-Mechanics/CLI/spells/bless-xphb.md), [Healing\
+      \ Word](3-Mechanics/CLI/spells/healing-word-xphb.md), or [Sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/priest-acolyte-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/priest-acolyte-xmm.webp"
 ```
 ^statblock
 

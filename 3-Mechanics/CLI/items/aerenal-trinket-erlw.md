@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/gear/
-- new/item/rarity/none
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/gear/
+- ttrpg-cli/item/rarity/none
+aliases:
 - "Aerenal Trinket"
 ---
 # Aerenal Trinket
@@ -15,8 +15,6 @@ aliases:
 
 
 **Trinkets from Aerenal**
-
-`dice: [](aerenal-trinket-erlw.md#^trinkets-from-aerenal)`
 
 | dice: d8 | Trinket |
 |----------|---------|

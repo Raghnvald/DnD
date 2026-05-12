@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- 3: Lyrical Names
+- "3: Lyrical Names"
 ---
 # 3: Lyrical Names
 *Source: Dungeon Master's Guide (2024) p. 84* 
 
 **3: Lyrical Names**
-
-`dice: [](3-lyrical-names-xdmg.md#^3-lyrical-names)`
 
 | dice: 1d12 | Lyrical Given Name | Lyrical Surname |
 |------------|--------------------|-----------------|

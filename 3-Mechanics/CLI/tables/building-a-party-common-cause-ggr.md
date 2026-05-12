@@ -5,18 +5,16 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Building a Party; Common Cause
+- "Building a Party; Common Cause"
 ---
 # Building a Party; Common Cause
 *Source: Guildmasters' Guide to Ravnica p. 11* 
 
 **Common Cause**
 
-`dice: [](building-a-party-common-cause-ggr.md#^common-cause)`
-
 | dice: d8 | Reasons for Cooperating |
 |----------|-------------------------|
-| 1 | **Cellmates**. The characters are prisoners in an Azorius prison, a Gruul camp, or a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cage. |
+| 1 | **Cellmates**. The characters are prisoners in an Azorius prison, a Gruul camp, or a [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) cage. |
 | 2 | **Greater Threat**. The characters are fighting each other when a rampaging wurm attacks. |
 | 3 | **Sudden Danger**. The characters are trapped together by a sinkhole opening, a building collapsing, or a laboratory exploding. |
 | 4 | **Dream Team**. A strange dream leads each character to the same destination. |

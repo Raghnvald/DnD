@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Halfling Tables; Reasons for Adventuring
+- "Halfling Tables; Reasons for Adventuring"
 ---
 # Halfling Tables; Reasons for Adventuring
 *Source: Mordenkainen's Tome of Foes p. 105* 
 
 **Reasons for Adventuring**
-
-`dice: [](halfling-tables-reasons-for-adventuring-mtf.md#^reasons-for-adventuring)`
 
 | dice: d6 | Reason |
 |----------|--------|

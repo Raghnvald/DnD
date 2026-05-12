@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kenku
+- "Kenku"
 ---
-# [Kenku](3-Mechanics\CLI\bestiary\humanoid/kenku.md)
+# [Kenku](3-Mechanics/CLI/bestiary/humanoid/kenku.md)
 *Source: Monster Manual p. 194*  
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
@@ -59,34 +59,37 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "understands Auran and Common but speaks only through the use of its\
   \ Mimicry trait"
 "cr": "1/4"
 "traits":
   - "desc": "In the first round of a combat, the kenku has advantage on attack rolls\
-      \ against any creature it [surprised](/3-Mechanics/CLI/conditions.md#Surprised)."
+      \ against any creature it [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)."
     "name": "Ambusher"
   - "desc": "The kenku can mimic any sounds it has heard, including voices. A creature\
       \ that hears the sounds can tell they are imitations with a successful DC 14\
-      \ Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check."
     "name": "Mimicry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage."
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kenku.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/kenku.webp"
 ```
 ^statblock
 

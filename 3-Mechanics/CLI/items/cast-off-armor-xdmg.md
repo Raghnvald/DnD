@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Cast-Off Armor"
 - "Cast-Off Breastplate"
 - "Cast-Off Chain Mail"
@@ -29,7 +29,7 @@ aliases:
 
 
 
-You can doff this armor as a [Magic](/3-Mechanics/CLI/actions.md#Magic) action.
+You can doff this armor as a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action.
 
 **Variants**:
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)

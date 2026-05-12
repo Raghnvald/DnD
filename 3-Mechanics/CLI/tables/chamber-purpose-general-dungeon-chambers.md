@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; General Dungeon Chambers
+- "Chamber Purpose; General Dungeon Chambers"
 ---
 # Chamber Purpose; General Dungeon Chambers
 *Source: Dungeon Master's Guide p. 292* 
 
 **General Dungeon Chambers**
-
-`dice: [](chamber-purpose-general-dungeon-chambers.md#^general-dungeon-chambers)`
 
 | dice: d100 | Purpose |
 |------------|---------|

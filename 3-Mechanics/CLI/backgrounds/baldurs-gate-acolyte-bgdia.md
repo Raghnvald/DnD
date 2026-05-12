@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Baldur's Gate Acolyte
+- "Baldur's Gate Acolyte"
 ---
 # Baldur's Gate Acolyte
 *Source: Baldur's Gate: Descent Into Avernus p. 202, Player's Handbook p. 127*  
 
 
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Skill Proficiencies.** Insight, Religion  
 - **Languages.** Two of your choice  
-- **Equipment.** A [holy symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) (a gift to you when you entered the priesthood), a prayer [book](/3-Mechanics/CLI/items/book-xphb.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Equipment.** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp  
 
 It's said that every faith in the world has a believer in Baldur's Gate. Not only are most established faiths tolerated—even if some of them, including most of the openly evil faiths, are relegated to the Outer City's Twin Songs neighborhood—but new ones arrive constantly, carried by travelers and proselytizers from far-flung lands. A character with this background might aspire to greater things, not for themselves, but for their faith.
 
@@ -35,8 +35,6 @@ You're tightly connected with the religious community of Baldur's Gate. You know
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-`dice: [](baldurs-gate-acolyte-bgdia.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example. |
@@ -49,8 +47,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |
 ^personality-trait
 
-`dice: [](baldurs-gate-acolyte-bgdia.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful) |
@@ -61,8 +57,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
 ^ideal
 
-`dice: [](baldurs-gate-acolyte-bgdia.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would die to recover an ancient relic of my faith that was lost long ago. |
@@ -72,8 +66,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 5 | I will do anything to protect the temple where I served. |
 | 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 ^bond
-
-`dice: [](baldurs-gate-acolyte-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

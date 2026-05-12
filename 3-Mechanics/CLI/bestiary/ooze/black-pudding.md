@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Black Pudding
+- "Black Pudding"
 ---
-# [Black Pudding](3-Mechanics\CLI\bestiary\ooze/black-pudding.md)
+# [Black Pudding](3-Mechanics/CLI/bestiary/ooze/black-pudding.md)
 *Source: Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
@@ -64,11 +64,11 @@ An ooze doesn't require sleep.
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "4"
 "traits":
@@ -87,8 +87,8 @@ An ooze doesn't require sleep.
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
       \ armor worn by the target is partly dissolved and takes a permanent and cumulative\
       \ −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces\
       \ its AC to 10."
@@ -101,7 +101,7 @@ An ooze doesn't require sleep.
     "name": "Split"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/black-pudding.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/black-pudding.webp"
 ```
 ^statblock
 

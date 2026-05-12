@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/duergar
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/forge
-aliases: 
-- Laduguer
+aliases:
+- "Laduguer"
 ---
 # Laduguer
 *Source: Mordenkainen's Tome of Foes p. 79* 

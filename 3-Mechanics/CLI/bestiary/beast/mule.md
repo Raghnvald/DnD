@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mule
+- "Mule"
 ---
-# [Mule](3-Mechanics\CLI\bestiary\beast/mule.md)
+# [Mule](3-Mechanics/CLI/bestiary/beast/mule.md)
 *Source: Monster Manual p. 333. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -43,15 +43,15 @@ aliases:
       \ its carrying capacity."
     "name": "Beast of Burden"
   - "desc": "The mule has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/mule.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/mule.webp"
 ```
 ^statblock
 

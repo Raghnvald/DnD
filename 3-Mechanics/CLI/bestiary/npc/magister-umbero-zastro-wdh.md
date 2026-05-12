@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Magister Umbero Zastro
+- "Magister Umbero Zastro"
 ---
-# [Magister Umbero Zastro](3-Mechanics\CLI\bestiary\npc/magister-umbero-zastro-wdh.md)
+# [Magister Umbero Zastro](3-Mechanics/CLI/bestiary/npc/magister-umbero-zastro-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 82*  
 
 A handsome, eloquent, and fair-minded half-elf in his thirties. He's known for his finely honed sense of poetic justice and for meting out unconventional punishments.
@@ -36,22 +36,25 @@ A handsome, eloquent, and fair-minded half-elf in his thirties. He's known for h
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Elvish"
 "cr": "0"
 "traits":
-  - "desc": "Umbero has advantage on saving throws against being charmed and magic\
-      \ can't put him to sleep."
+  - "desc": "Umbero has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ and magic can't put him to sleep."
     "name": "Fey Ancestry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "The noble adds 2 to its AC against one melee attack that would hit it.\
@@ -59,6 +62,6 @@ A handsome, eloquent, and fair-minded half-elf in his thirties. He's known for h
     "name": "Parry"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/magister-umbero-zastro-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/magister-umbero-zastro-wdh.webp"
 ```
 ^statblock

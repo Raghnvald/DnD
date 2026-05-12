@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ankheg
+- "Ankheg"
 ---
-# [Ankheg](3-Mechanics\CLI\bestiary\monstrosity/ankheg-xmm.md)
+# [Ankheg](3-Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md)
 *Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Ankheg
@@ -36,16 +36,14 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
 
 **Ankheg Tunnel Discoveries**
 
-`dice: [](ankheg-xmm.md#^ankheg-tunnel-discoveries)`
-
 | dice: 1d8 | Inside the Ankheg Tunnel Is... |
 |-----------|--------------------------------|
 | 1 | Another tunnel (either natural or of worked stone) that extends into the Underdark. |
 | 2 | A buried ruin or grave exposed by the tunnel. |
-| 3 | A cluster of `dice:1d4\|noform\|noparens\|avg` (`1d4`) fresh ankheg eggs that can be broken and used as vials of Acid. |
+| 3 | A cluster of `1d4` fresh ankheg eggs that can be broken and used as vials of Acid. |
 | 4 | A dead ankheg and evidence of a deadlier subterranean predator. |
 | 5 | A piece of ankheg carapace usable as a Shield. |
-| 6 | A pouch with `dice:2d6\|noform\|noparens\|avg` (`2d6`) GP near a puddle of acid. |
+| 6 | A pouch with `2d6` GP near a puddle of acid. |
 | 7 | A stray farm or woodland animal. |
 | 8 | A viciously mauled scarecrow. |
 ^ankheg-tunnel-discoveries
@@ -67,28 +65,28 @@ Ankheg tunnels are roughly cylindrical and are often littered with the remains o
   - !!int "13"
   - !!int "6"
 "speed": "30 ft., burrow 10 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., Tremorsense\
   \ 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](/3-Mechanics/CLI/variant-rules/burrow-speed-xphb.md)\
+  - "desc": "The ankheg can burrow through solid rock at half its [Burrow Speed](3-Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md)\
       \ and leaves a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
-      \ ankheg), reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage plus 3 (1d6) Acid\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the ankheg), reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage plus 3 (1d6)\
+      \ Acid damage. If the target is a Large or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 13)."
     "name": "Bite"
   - "desc": "*Dexterity Saving Throw:* DC 12, each creature in a 30-foot-long, 5-foot-wide\
-      \ [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
+      \ [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). *Failure:*\
       \ 14 (4d6) Acid damage. *Success:* Half damage."
     "name": "Acid Spray (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ankheg-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/ankheg-xmm.webp"
 ```
 ^statblock
 

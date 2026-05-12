@@ -1,0 +1,22 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-feat
+tags:
+- ttrpg-cli/compendium/src/5e/frhof
+- ttrpg-cli/feat
+aliases:
+- "Boon of the Furious Storm"
+---
+# Boon of the Furious Storm
+*Source: Forgotten Realms: Heroes of Faerûn p. 43*  
+
+**Prerequisite**: 19th; Spellcasting or Pact Magic feature
+
+You gain the following benefits.
+
+**Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 30.
+
+**Eye of the Storm.** You have <span title="Player's Handbook (2024)">Resistance</span> to Lightning and Thunder damage. While you are Bloodied, you have <span title="Player's Handbook (2024)">Immunity</span> to Lightning and Thunder damage.
+
+**Storm's Strength.** Creatures have <span title="Player's Handbook (2024)">Disadvantage</span> on saving throws against your spells that deal Lightning or Thunder damage.

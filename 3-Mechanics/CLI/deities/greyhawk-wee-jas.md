@@ -10,8 +10,8 @@ tags:
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
-aliases: 
-- Wee Jas
+aliases:
+- "Wee Jas"
 ---
 # Wee Jas
 *Source: Player's Handbook p. 295, Xanathar's Guide to Everything p. 19, Sword Coast Adventurer's Guide p. 125, Tasha's Cauldron of Everything p. 31* 

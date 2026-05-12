@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Black Dragon; Black Dragon Ideals
+- "Creating a Black Dragon; Black Dragon Ideals"
 ---
 # Creating a Black Dragon; Black Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 80* 
 
 **Black Dragon Ideals**
-
-`dice: [](creating-a-black-dragon-black-dragon-ideals-ftd.md#^black-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

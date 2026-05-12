@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/eepc
-- new/race/genasi/earth
+- ttrpg-cli/compendium/src/5e/eepc
+- ttrpg-cli/race/genasi/earth
 aliases:
-- Genasi (Earth)
+- "Genasi (Earth)"
 ---
 # Genasi (Earth)
 *Source: Elemental Evil Player's Companion p. 9, Explorer's Guide to Wildemount p. 170*  
-![](/3-Mechanics/CLI/races/img/genasi.webp#right)
+![](3-Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: str +1
 - **Size**: Medium
@@ -49,6 +49,8 @@ As an earth genasi, you are descended from the cruel and greedy dao, though you 
 
 Elemental earth manifests differently from one individual to the next. Some earth genasi always have bits of dust falling from their bodies and mud clinging to their clothes, never getting clean no matter how often they bathe. Others are as shiny and polished as gemstones, with skin tones of deep brown or black, eyes sparkling like agates. Earth genasi can also have smooth metallic flesh, dull iron skin spotted with rust, a pebbled and rough hide, or even a coating of tiny embedded crystals. The most arresting have fissures in their flesh, from which faint light shines.
 
+### Genasi
+
 Those who think of other planes at all consider them remote, distant realms, but planar influence can be felt throughout the world. It sometimes manifests in beings who, through an accident of birth, carry the power of the planes in their blood. The genasi are one such people, the offspring of genies and mortals.
 
 The Elemental Planes are often inhospitable to natives of the Material Plane: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, do not face such troubles when venturing into the mortal world. They adapt well to the mingled elements of the Material Plane, and they sometimes visit whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito.
@@ -57,7 +59,7 @@ During these visits, a mortal might catch a genies eye. Friendship forms, romanc
 
 Occasionally, genasi result from exposure to a surge of elemental power, through phenomena such as an eruption from the Inner Planes or a planar convergence. Elemental energy saturates any creatures in the area and might alter their nature enough that their offspring with other mortals are born as genasi.
 
-### Heirs to Elemental Power
+#### Heirs to Elemental Power
 
 Genasi inherit something from both sides of their dual nature. They resemble humans but have unusual skin color (red, green, blue, or gray), and there is something odd about them. The elemental blood flowing through their veins manifests differently in each genasi, often as magical power.
 
@@ -67,13 +69,13 @@ Genasi almost never have contact with their elemental parents. Genies seldom hav
 
 Some genasi live as outcasts, driven into exile for their unsettling appearance and strange magic, or assuming leadership of savage humanoids and weird cults in untamed lands. Others gain positions of great influence, especially where elemental beings are revered. A few genasi leave the Material Plane to find refuge in the households of their genie parents.
 
-### Wild and Confident
+#### Wild and Confident
 
 Genasi rarely lack confidence, seeing themselves as equal to almost any challenge in their path. This certainty might manifest as graceful self-assurance in one genasi and as arrogance in another. Such self-confidence can sometimes blind genasi to risk, and their great plans often get them and others into trouble.
 
 Too much failure can chip away at even a genasis sense of self, so they constantly push themselves to improve, honing their talents and perfecting their craft.
 
-### Genasi Lands
+#### Genasi Lands
 
 As rare beings, genasi might go their entire lives without encountering another one of their kind. There are no great genasi cities or empires. Genasi seldom have communities of their own and typically adopt the cultures and societies into which they are born. The more strange their appearance, the harder time they have. Many genasi lose themselves in teeming cities, where their distinctiveness hardly raises an eyebrow in places accustomed to a variety of different people.
 
@@ -85,6 +87,6 @@ In contrast, water and earth genasi have no common history. Individuals have dif
 
 The distant land of Zakhara is known only in legends to most inhabitants of Faerûn. There, genies and spellcasters enter into bargains, and genasi can result from such pacts. Those genasi have been sources of great weal and woe in the history of that land.
 
-### Genasi Names
+#### Genasi Names
 
 Genasi use the naming conventions of the people among whom they were raised. They might later assume distinctive names to capture their heritage, such as Flame, Ember, Wave, or Onyx.

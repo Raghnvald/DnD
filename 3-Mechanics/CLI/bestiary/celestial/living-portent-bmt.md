@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/small-or-medium
-- new/monster/type/celestial
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Portent
+- "Living Portent"
 ---
-# [Living Portent](3-Mechanics\CLI\bestiary\celestial/living-portent-bmt.md)
+# [Living Portent](3-Mechanics/CLI/bestiary/celestial/living-portent-bmt.md)
 *Source: The Book of Many Things p. 180*  
 
 Living portents are embodiments of prophecy sent by deities or other cosmic forces. These Celestials descend to Material Plane worlds in the form of falling stars. When the living portents impact the earth, they carve great craters, yet miraculously, none who live in the impact zone are harmed. These beings of light then assume Humanoid forms to blend in with the inhabitants of the world.
@@ -91,6 +91,6 @@ Living portents seek out beings who will play a part in the prophecies they serv
     "name": "Price of Defiance"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/living-portent-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/living-portent-bmt.webp"
 ```
 ^statblock

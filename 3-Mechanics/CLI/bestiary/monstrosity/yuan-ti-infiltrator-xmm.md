@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Infiltrator
+- "Yuan-ti Infiltrator"
 ---
-# [Yuan-ti Infiltrator](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-infiltrator-xmm.md)
+# [Yuan-ti Infiltrator](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)
 *Source: Monster Manual (2024) p. 342*  
 
 Infiltrators can pass as human, their serpentine features limited to scaly skin, forked tongues, and other minor or internal transformations. These spies insinuate themselves among their rivals, manipulating others and making foes vulnerable to the plots of more powerful yuan-ti.
@@ -26,7 +26,7 @@ Infiltrators can pass as human, their serpentine features limited to scaly skin,
 *Power-Hungry Serpentine Conspirators*
 
 - **Habitat.** Desert, Forest, Swamp, Urban  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Exploiting pacts with sinister supernatural forces, yuan-ti bargain away their humanity for the lethality and predatory deviousness of serpents. From hidden bastions, they manipulate rulers and the wealthy, seeking to control the world. Many yuan-ti possess venomous magic, which often manifests as fangs or striking serpents.
 
@@ -35,8 +35,6 @@ Yuan-ti have humanlike forms with a variety of horrifying serpentine transformat
 Yuan-ti might gain their reptilian features through dangerous supernatural rites. Roll on or choose a result from the Yuan-ti Transformations table to inspire how yuan-ti obtain their serpentine aspects.
 
 **Yuan-ti Transformations**
-
-`dice: [](yuan-ti-infiltrator-xmm.md#^yuan-ti-transformations)`
 
 | dice: 1d6 | A Yuan-ti Gained Its Snake Features From... |
 |-----------|---------------------------------------------|
@@ -71,37 +69,41 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
-  - "desc": "The yuan-ti has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The yuan-ti has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The yuan-ti makes two Scimitar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 4 (1d6 + 1) Slashing\
+      \ damage."
     "name": "Scimitar"
-  - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 9 (2d6 + 2) Poison damage."
+  - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 9 (2d6 + 2) Poison\
+      \ damage."
     "name": "Poison Ray"
   - "desc": "The yuan-ti casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 12):\n\
-      \n**At will:** [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
-      \ (snakes only)\n\n**2/day:** [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+      \n**At will:** [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**2/day:** [Suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-infiltrator-xmm.webp"
 ```
 ^statblock
 

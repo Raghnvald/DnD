@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blink Dog
+- "Blink Dog"
 ---
-# [Blink Dog](3-Mechanics\CLI\bestiary\fey/blink-dog.md)
+# [Blink Dog](3-Mechanics/CLI/bestiary/fey/blink-dog.md)
 *Source: Monster Manual p. 318. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A blink dog takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
@@ -36,20 +36,20 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 13"
 "languages": "Blink Dog, understands Sylvan but can't speak it"
 "cr": "1/4"
 "traits":
-  - "desc": "The dog has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The dog has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) piercing damage."
     "name": "Bite"
   - "desc": "The dog magically teleports, along with any equipment it is wearing or\
       \ carrying, up to 40 feet to an unoccupied space it can see. Before or after\
@@ -57,7 +57,7 @@ A blink dog takes its name from its ability to blink in and out of existence, a 
     "name": "Teleport (Recharge 4-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/blink-dog.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/blink-dog.webp"
 ```
 ^statblock
 

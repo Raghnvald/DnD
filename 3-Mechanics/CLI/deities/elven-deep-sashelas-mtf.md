@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Deep Sashelas
+aliases:
+- "Deep Sashelas"
 ---
 # Deep Sashelas
 *Source: Mordenkainen's Tome of Foes p. 48* 

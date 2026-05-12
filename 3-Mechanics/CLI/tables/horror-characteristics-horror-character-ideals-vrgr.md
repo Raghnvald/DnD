@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Horror Characteristics; Horror Character Ideals
+- "Horror Characteristics; Horror Character Ideals"
 ---
 # Horror Characteristics; Horror Character Ideals
 *Source: Van Richten's Guide to Ravenloft p. 32* 
 
 **Horror Character Ideals**
-
-`dice: [](horror-characteristics-horror-character-ideals-vrgr.md#^horror-character-ideals)`
 
 | dice: d12 | Ideal |
 |-----------|-------|

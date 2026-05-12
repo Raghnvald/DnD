@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Ghost Story Villains
+- "Ghost Story Villains"
 ---
 # Ghost Story Villains
 *Source: Van Richten's Guide to Ravenloft p. 54* 
 
 **Ghost Story Villains**
-
-`dice: [](ghost-story-villains-vrgr.md#^ghost-story-villains)`
 
 | dice: d10 | Villain |
 |-----------|---------|

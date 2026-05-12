@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Battlehammer Dwarf
+- "Battlehammer Dwarf"
 ---
-# [Battlehammer Dwarf](3-Mechanics\CLI\bestiary\humanoid/battlehammer-dwarf-idrotf.md)
+# [Battlehammer Dwarf](3-Mechanics/CLI/bestiary/humanoid/battlehammer-dwarf-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 107*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Lawful Good"
 "ac": !!int "13"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "2"
@@ -35,21 +35,25 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 15"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "any one language (usually Common), Dwarvish"
 "cr": "1/2"
 "traits":
-  - "desc": "The dwarf has advantage on Wisdom (Perception) checks that rely on hearing\
-      \ or sight."
+  - "desc": "The dwarf has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or sight."
     "name": "Keen Hearing and Sight"
   - "desc": "The battlehammer dwarf"
     "name": "Dwarven Resilience"
@@ -64,6 +68,6 @@ aliases:
     "name": "Light Crossbow"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/battlehammer-dwarf-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/battlehammer-dwarf-idrotf.webp"
 ```
 ^statblock

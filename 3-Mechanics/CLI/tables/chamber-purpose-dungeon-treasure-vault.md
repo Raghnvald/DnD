@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; Dungeon: Treasure Vault
+- "Chamber Purpose; Dungeon: Treasure Vault"
 ---
 # Chamber Purpose; Dungeon: Treasure Vault
 *Source: Dungeon Master's Guide p. 292* 
 
 **Dungeon: Treasure Vault**
-
-`dice: [](chamber-purpose-dungeon-treasure-vault.md#^dungeon-treasure-vault)`
 
 | dice: d20 | Purpose |
 |-----------|---------|

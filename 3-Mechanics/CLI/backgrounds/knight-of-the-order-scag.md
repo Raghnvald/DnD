@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Knight of the Order
+- "Knight of the Order"
 ---
 # Knight of the Order
 *Source: Sword Coast Adventurer's Guide p. 151*  
 
 
-- **Skill Proficiencies.** [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), plus one from among [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Nature](/3-Mechanics/CLI/skills.md#Nature), and [Religion](/3-Mechanics/CLI/skills.md#Religion), as appropriate for your order  
+- **Skill Proficiencies.** [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), plus one from among [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion), as appropriate for your order  
 - **Tool Proficiencies.** Your choice of a gaming set or a musical instrument  
 - **Languages.** Any one of your choice  
-- **Equipment.** One set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), a signet, banner, or seal representing your place or rank in the order, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** One set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), a signet, banner, or seal representing your place or rank in the order, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You belong to an order of knights who have sworn oaths to achieve a certain goal. The nature of this goal depends on the order you serve, but in your eyes it is without question a vital and honorable endeavor. Faerûn has a wide variety of knightly orders, all of which have a similar outlook concerning their actions and responsibilities.
 
@@ -42,6 +42,6 @@ This help comes in the form of shelter and meals, and healing when appropriate, 
 
 ## Suggested Characteristics
 
-Use the tables for the [soldier](/3-Mechanics/CLI/backgrounds/soldier-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a knight of your order.
+Use the tables for the [soldier](3-Mechanics/CLI/backgrounds/soldier-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a knight of your order.
 
 Your bond almost always involves the order to which you belong (or at least key members of it), and it is highly unusual for a knight's ideal not to reflect the agenda, sentiment, or philosophy of one's order.

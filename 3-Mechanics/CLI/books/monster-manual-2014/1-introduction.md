@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mm
 aliases:
-- Introduction
+- "Introduction"
 ---
 # Introduction
 *Source: Monster Manual (2014), p. 4* 
@@ -119,7 +119,7 @@ A monster's statistics, sometimes referred to as its stat block, provide the ess
 
 A monster can be Tiny, Small, Medium, Large, Huge, or Gargantuan. The Size Categories table shows how much space a creature of a particular size controls in combat. See the "Player's Handbook" for more information on creature size and space.
 
-![Size Categories](/3-Mechanics/CLI/tables/size-categories-mm.md)
+![Size Categories](3-Mechanics/CLI/tables/size-categories-mm.md)
 
 ### Type
 
@@ -177,13 +177,13 @@ A monster that wears armor or carries a shield has an Armor Class (AC) that take
 
 A monster usually dies or is destroyed when it drops to 0 hit points. For more on hit points, see the *Player's Handbook.*
 
-A monster's hit points are presented both as a die expression and as an average number. For example, a monster with `dice:2d8|noform|noparens|avg` (`2d8`) hit points has 9 hit points on average (2 × 4½).
+A monster's hit points are presented both as a die expression and as an average number. For example, a monster with `2d8` hit points has 9 hit points on average (2 × 4½).
 
 A monster's size determines the die used to calculate its hit points, as shown in the Hit Dice by Size table.
 
-A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and `dice:2d8|noform|noparens|avg` (`2d8`) Hit Dice, it has `dice:2d8+2|noform|noparens|avg` (`2d8 + 2`) hit points (average 11).
+A monster's Constitution modifier also affects the number of hit points it has. Its Constitution modifier is multiplied by the number of Hit Dice it possesses, and the result is added to its hit points. For example, if a monster has a Constitution of 12 (+1 modifier) and `2d8` Hit Dice, it has `2d8 + 2` hit points (average 11).
 
-![Hit Points; Hit Dice by Size](/3-Mechanics/CLI/tables/hit-points-hit-dice-by-size-mm.md)
+![Hit Points; Hit Dice by Size](3-Mechanics/CLI/tables/hit-points-hit-dice-by-size-mm.md)
 
 ### Speed
 
@@ -215,15 +215,15 @@ Every monster has six ability scores (Strength, Dexterity, Constitution, Intelli
 
 ### Saving Throws
 
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened) might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
-![Saving Throws; Proficiency Bonus by Challenge Rating](/3-Mechanics/CLI/tables/saving-throws-proficiency-bonus-by-challenge-rating-mm.md)
+![Saving Throws; Proficiency Bonus by Challenge Rating](3-Mechanics/CLI/tables/saving-throws-proficiency-bonus-by-challenge-rating-mm.md)
 
 ### Skills
 
-The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) and Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.
+The Skills entry is reserved for monsters that are proficient in one or more skills. For example, a monster that is very perceptive and stealthy might have bonuses to Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) and Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks.
 
 A skill bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table). Other modifiers might apply. For instance, a monster might have a larger-than-expected bonus (usually double its proficiency bonus) to account for its heightened expertise.
 
@@ -233,25 +233,25 @@ Some creatures have vulnerability, resistance, or immunity to certain types of d
 
 ### Senses
 
-The Senses entry notes a monster's passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score, as well as any special senses the monster might have. Special senses are described below.
+The Senses entry notes a monster's passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score, as well as any special senses the monster might have. Special senses are described below.
 
 #### Blindsight
 
-A monster with [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
+A monster with [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) can perceive its surroundings without relying on sight, within a specific radius. Creatures without eyes, such as grimlocks and gray oozes, typically have this special sense, as do creatures with echolocation or heightened senses, such as bats and true dragons.
 
-If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) defines the maximum range of its perception.
+If a monster is naturally blind, it has a parenthetical note to this effect, indicating that the radius of its [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) defines the maximum range of its perception.
 
 #### Darkvision
 
-A monster with [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can't discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
+A monster with [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) can see in the dark within a specific radius. The monster can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The monster can't discern color in darkness, only shades of gray. Many creatures that live underground have this special sense.
 
 #### Tremorsense
 
-A monster with [tremorsense](/3-Mechanics/CLI/senses.md#Tremorsense) can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
+A monster with [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance. Tremorsense can't be used to detect flying or incorporeal creatures. Many burrowing creatures, such as ankhegs and umber hulks, have this special sense.
 
 #### Truesight
 
-A monster with [truesight](/3-Mechanics/CLI/senses.md#Truesight) can, out to a specific range, see in normal and magical darkness, see [invisible](/3-Mechanics/CLI/conditions.md#Invisible) creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
+A monster with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) can, out to a specific range, see in normal and magical darkness, see [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic. Furthermore, the monster can see into the Ethereal Plane within the same range.
 
 ### Languages
 
@@ -261,7 +261,7 @@ The languages that a monster can speak are listed in alphabetical order. Sometim
 
 Telepathy is a magical ability that allows a monster to communicate mentally with another creature within a specified range. The contacted creature doesn't need to share a language with the monster to communicate in this way with it, but it must be able to understand at least one language. A creature without telepathy can receive and respond to telepathic messages but can't initiate or terminate a telepathic conversation.
 
-A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), it can't initiate telepathic contact, and any current contact is terminated.
+A telepathic monster doesn't need to see a contacted creature and can end the telepathic contact at any time. The contact is broken as soon as the two creatures are no longer within range of each other or if the telepathic monster contacts a different creature within range. A telepathic monster can initiate or terminate a telepathic conversation without using an action, but while the monster is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), it can't initiate telepathic contact, and any current contact is terminated.
 
 A creature within the area of an antimagic field or in any other location where magic doesn't function can't send or receive telepathic messages.
 
@@ -292,7 +292,7 @@ Unless something tells you otherwise, a monster summoned by a spell or other mag
 
 The *Dungeon Master's Guide* explains how to create encounters using XP budgets, as well as how to adjust an encounter's difficulty.
 
-![Experience Points by Challenge Rating](/3-Mechanics/CLI/tables/experience-points-by-challenge-rating-mm.md)
+![Experience Points by Challenge Rating](3-Mechanics/CLI/tables/experience-points-by-challenge-rating-mm.md)
 
 ### Special Traits
 
@@ -302,17 +302,17 @@ Special traits (which appear after a monster's challenge rating but before any a
 
 A monster with the innate ability to cast spells has the Innate Spellcasting special trait. Unless noted otherwise. an innate spell of 1st level or higher is always cast at its lowest possible level and can't be cast at a higher level. If a monster has a cantrip where its level matters and no level is given, use the monster's challenge rating.
 
-An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md) spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
+An innate spell can have special rules or restrictions. For example, a drow mage can innately cast the [levitate](3-Mechanics/CLI/spells/levitate.md) spell, but the spell has a "self only" restriction, which means that the spell affects only the drow mage.
 
 A monster's innate spells can't be swapped out with other spells. If a monster's innate spells don't require attack rolls, no attack bonus is given for them.
 
 #### Spellcasting
 
-A monster with the Spellcasting special trait has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
+A monster with the Spellcasting class feature has a spellcaster level and spell slots, which it uses to cast its spells of 1st level and higher (as explained in the *Player's Handbook*). The spellcaster level is also used for any cantrips included in the feature.
 
 The monster has a list of spells known or prepared from a specific class. The list might also include spells from a feature in that class, such as the Divine Domain feature of the cleric or the Druid Circle feature of the druid. The monster is considered a member of that class when attuning to or using a magic item that requires membership in the class or access to its spell list.
 
-A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd level [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md) spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
+A monster can cast a spell from its list at a higher level if it has the spell slot to do so. For example, a drow mage with the 3rd level [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md) spell can cast it as a 5th-level spell by using one of its 5th-level spell slots.
 
 You can change the spells that a monster knows or has prepared, replacing any spell on its spell list with a spell of the same level and from the same class list. If you do so. you might cause the monster to be a greater or lesser threat than suggested by its challenge rating.
 
@@ -322,7 +322,7 @@ A monster that casts spells using only the power of its mind has the psionics ta
 
 ### Actions
 
-When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the [Dash](/3-Mechanics/CLI/actions.md#Dash) or [Hide](/3-Mechanics/CLI/actions.md#Hide) action, as described in the *Player's Handbook.*
+When a monster takes its action, it can choose from the options in the Actions section of its stat block or use one of the actions available to all creatures, such as the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action, as described in the *Player's Handbook.*
 
 #### Melee and Ranged Attacks
 
@@ -346,7 +346,7 @@ A creature that can make multiple attacks on its turn has the Multiattack abilit
 
 #### Ammunition
 
-A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has `dice:2d4|noform|noparens|avg` (`2d4`) pieces of ammunition for a thrown weapon attack, and `dice:2d10|noform|noparens|avg` (`2d10`) pieces of ammunition for a projectile weapon such as a bow or crossbow.
+A monster carries enough ammunition to make its ranged attacks. You can assume that a monster has `2d4` pieces of ammunition for a thrown weapon attack, and `2d10` pieces of ammunition for a projectile weapon such as a bow or crossbow.
 
 ### Reactions
 
@@ -362,7 +362,7 @@ The notation "X/Day" means a special ability can be used X number of times and t
 
 #### Recharge X-Y
 
-The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a `dice:d6|noform|noparens|avg` (`d6`). If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest. For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a `dice:d6|noform|noparens|avg` (`d6`).
+The notation "Recharge X-Y" means a monster can use a special ability once and that the ability then has a random chance of recharging during each subsequent round of combat. At the start of each of the monster's turns, roll a `d6`. If the roll is one of the numbers in the recharge notation, the monster regains the use of the special ability. The ability also recharges when the monster finishes a short or long rest. For example, "Recharge 5-6" means a monster can use the special ability once. Then, at the start of the monster's turn, it regains the use of that ability if it rolls a 5 or 6 on a `d6`.
 
 #### Recharge after a Short or Long Rest
 
@@ -372,7 +372,7 @@ This notation means that a monster can use a special ability once and then must 
 > 
 > Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
 > 
-> A creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) modifier.
+> A creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) modifier.
 ^grapple-rules-for-monsters
 
 ### Equipment
@@ -391,7 +391,7 @@ If a creature assumes the form of a legendary creature, such as through a spell,
 
 ### Legendary Actions
 
-A legendary creature can take a certain number of special actions-called legendary actions-outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A legendary creature regains spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](/3-Mechanics/CLI/conditions.md#Surprised), it can't use them until after its first turn in the combat.
+A legendary creature can take a certain number of special actions-called legendary actions-outside its turn. Only one legendary action option can be used at a time and only at the end of another creature's turn. A legendary creature regains spent legendary actions at the start of its turn. It can forgo using them, and it can't use them while [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), it can't use them until after its first turn in the combat.
 
 ### A Legendary Creature's Lair
 
@@ -399,346 +399,346 @@ A legendary creature might have a section describing its lair and the special ef
 
 #### Lair Actions
 
-If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](/3-Mechanics/CLI/conditions.md#Surprised), it can't use one until after its first turn in the combat.
+If a legendary creature has lair actions, it can use them to harness the ambient magic in its lair. On initiative count 20 (losing all initiative ties), it can use one of its lair action options. It can't do so while [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or otherwise unable to take actions. If [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), it can't use one until after its first turn in the combat.
 
 #### Regional Effects
 
 The mere presence of a legendary creature can have strange and wondrous effects on its environment, as noted in this section. Regional effects end abruptly or dissipate over time when the legendary creature dies.
 
-- [Aarakocra](/3-Mechanics/CLI/bestiary/elemental/aarakocra-skirmisher-xmm.md)  
-- [Aboleth](/3-Mechanics/CLI/bestiary/aberration/aboleth-xmm.md)  
-- [Abominable Yeti](/3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md)  
-- [Adult Black Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-black-dragon-xmm.md)  
-- [Adult Blue Dracolich](/3-Mechanics/CLI/bestiary/undead/dracolich-xmm.md)  
-- [Adult Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon-xmm.md)  
-- [Adult Brass Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon-xmm.md)  
-- [Adult Bronze Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon-xmm.md)  
-- [Adult Copper Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon-xmm.md)  
-- [Adult Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon-xmm.md)  
-- [Adult Green Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-green-dragon-xmm.md)  
-- [Adult Red Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md)  
-- [Adult Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon-xmm.md)  
-- [Adult White Dragon](/3-Mechanics/CLI/bestiary/dragon/adult-white-dragon-xmm.md)  
-- [Air Elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental-xmm.md)  
-- [Allosaurus](/3-Mechanics/CLI/bestiary/beast/allosaurus-xmm.md)  
-- [Ancient Black Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon-xmm.md)  
-- [Ancient Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon-xmm.md)  
-- [Ancient Brass Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon-xmm.md)  
-- [Ancient Bronze Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon-xmm.md)  
-- [Ancient Copper Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon-xmm.md)  
-- [Ancient Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)  
-- [Ancient Green Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md)  
-- [Ancient Red Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon-xmm.md)  
-- [Ancient Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon-xmm.md)  
-- [Ancient White Dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon-xmm.md)  
-- [Androsphinx](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-valor-xmm.md)  
-- [Animated Armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md)  
-- [Ankheg](/3-Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md)  
-- [Ankylosaurus](/3-Mechanics/CLI/bestiary/beast/ankylosaurus-xmm.md)  
-- [Arcanaloth](/3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md)  
-- [Azer](/3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md)  
-- [Balor](/3-Mechanics/CLI/bestiary/fiend/balor-xmm.md)  
-- [Banshee](/3-Mechanics/CLI/bestiary/undead/banshee-xmm.md)  
-- [Barbed Devil](/3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md)  
-- [Barlgura](/3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md)  
-- [Basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md)  
-- [Bearded Devil](/3-Mechanics/CLI/bestiary/fiend/bearded-devil-xmm.md)  
-- [Behir](/3-Mechanics/CLI/bestiary/monstrosity/behir-xmm.md)  
-- [Beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md)  
-- [Beholder Zombie](/3-Mechanics/CLI/bestiary/undead/beholder-zombie-xmm.md)  
-- [Black Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling-xmm.md)  
-- [Black Pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding-xmm.md)  
-- [Blue Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling-xmm.md)  
-- [Blue Slaad](/3-Mechanics/CLI/bestiary/aberration/blue-slaad-xmm.md)  
-- [Bone Devil](/3-Mechanics/CLI/bestiary/fiend/bone-devil-xmm.md)  
-- [Bone Naga (Guardian)](/3-Mechanics/CLI/bestiary/undead/bone-naga-xmm.md)  
-- [Bone Naga (Spirit)](/3-Mechanics/CLI/bestiary/undead/bone-naga-xmm.md)  
-- [Brass Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling-xmm.md)  
-- [Bronze Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling-xmm.md)  
-- [Bugbear](/3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md)  
-- [Bugbear Chief](/3-Mechanics/CLI/bestiary/humanoid/bugbear-chief.md)  
-- [Bulette](/3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md)  
-- [Bullywug](/3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md)  
-- [Cambion](/3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md)  
-- [Carrion Crawler](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md)  
-- [Cave Bear](/3-Mechanics/CLI/bestiary/beast/polar-bear-xmm.md)  
-- [Centaur](/3-Mechanics/CLI/bestiary/fey/centaur-trooper-xmm.md)  
-- [Chain Devil](/3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md)  
-- [Chasme](/3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md)  
-- [Chimera](/3-Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md)  
-- [Chuul](/3-Mechanics/CLI/bestiary/aberration/chuul-xmm.md)  
-- [Clay Golem](/3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md)  
-- [Cloaker](/3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md)  
-- [Cloud Giant](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md)  
-- [Cockatrice](/3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md)  
-- [Copper Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling-xmm.md)  
-- [Couatl](/3-Mechanics/CLI/bestiary/celestial/couatl-xmm.md)  
-- [Crawling Claw](/3-Mechanics/CLI/bestiary/undead/crawling-claw-xmm.md)  
-- [Cyclops](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md)  
-- [Dao](/3-Mechanics/CLI/bestiary/elemental/dao-xmm.md)  
-- [Darkmantle](/3-Mechanics/CLI/bestiary/aberration/darkmantle-xmm.md)  
-- [Death Knight](/3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md)  
-- [Death Slaad](/3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md)  
-- [Death Tyrant](/3-Mechanics/CLI/bestiary/undead/death-tyrant-xmm.md)  
-- [Deep Gnome (Svirfneblin)](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)  
-- [Demilich](/3-Mechanics/CLI/bestiary/undead/demilich-xmm.md)  
-- [Deva](/3-Mechanics/CLI/bestiary/celestial/deva-xmm.md)  
-- [Displacer Beast](/3-Mechanics/CLI/bestiary/monstrosity/displacer-beast-xmm.md)  
-- [Djinni](/3-Mechanics/CLI/bestiary/elemental/djinni-xmm.md)  
-- [Doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md)  
-- [Dragon Turtle](/3-Mechanics/CLI/bestiary/dragon/dragon-turtle-xmm.md)  
-- [Dretch](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md)  
-- [Drider](/3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md)  
-- [Drow](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)  
-- [Drow Elite Warrior](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)  
-- [Drow Mage](/3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md)  
-- [Drow Priestess of Lolth](/3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md)  
-- [Dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md)  
-- [Duergar](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)  
-- [Duodrone](/3-Mechanics/CLI/bestiary/construct/modron-duodrone-xmm.md)  
-- [Dust Mephit](/3-Mechanics/CLI/bestiary/elemental/dust-mephit-xmm.md)  
-- [Earth Elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md)  
-- [Efreeti](/3-Mechanics/CLI/bestiary/elemental/efreeti-xmm.md)  
-- [Empyrean](/3-Mechanics/CLI/bestiary/miscellaneous/empyrean-xmm.md)  
-- [Erinyes](/3-Mechanics/CLI/bestiary/fiend/erinyes-xmm.md)  
-- [Ettercap](/3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md)  
-- [Ettin](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md)  
-- [Faerie Dragon (Blue)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md)  
-- [Faerie Dragon (Green)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md)  
-- [Faerie Dragon (Indigo)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md)  
-- [Faerie Dragon (Orange)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md)  
-- [Faerie Dragon (Red)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md)  
-- [Faerie Dragon (Violet)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-adult-xmm.md)  
-- [Faerie Dragon (Yellow)](/3-Mechanics/CLI/bestiary/dragon/faerie-dragon-youth-xmm.md)  
-- [Fire Elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md)  
-- [Fire Giant](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md)  
-- [Fire Snake](/3-Mechanics/CLI/bestiary/elemental/salamander-fire-snake-xmm.md)  
-- [Flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md)  
-- [Flesh Golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md)  
-- [Flumph](/3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md)  
-- [Flying Sword](/3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md)  
-- [Fomorian](/3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md)  
-- [Frost Giant](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md)  
-- [Galeb Duhr](/3-Mechanics/CLI/bestiary/elemental/galeb-duhr-xmm.md)  
-- [Gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md)  
-- [Gas Spore](/3-Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md)  
-- [Gelatinous Cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube-xmm.md)  
-- [Ghast](/3-Mechanics/CLI/bestiary/undead/ghast-xmm.md)  
-- [Ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md)  
-- [Ghoul](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md)  
-- [Gibbering Mouther](/3-Mechanics/CLI/bestiary/aberration/gibbering-mouther-xmm.md)  
-- [Githyanki Knight](/3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md)  
-- [Githyanki Warrior](/3-Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md)  
-- [Githzerai Monk](/3-Mechanics/CLI/bestiary/aberration/githzerai-monk-xmm.md)  
-- [Githzerai Zerth](/3-Mechanics/CLI/bestiary/aberration/githzerai-zerth-xmm.md)  
-- [Glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md)  
-- [Gnoll](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md)  
-- [Gnoll Fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)  
-- [Gnoll Pack Lord](/3-Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md)  
-- [Goblin](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md)  
-- [Goblin Boss](/3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md)  
-- [Gold Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling-xmm.md)  
-- [Gorgon](/3-Mechanics/CLI/bestiary/construct/gorgon-xmm.md)  
-- [Goristro](/3-Mechanics/CLI/bestiary/fiend/goristro-xmm.md)  
-- [Gray Ooze](/3-Mechanics/CLI/bestiary/ooze/gray-ooze-xmm.md)  
-- [Gray Slaad](/3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md)  
-- [Green Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling-xmm.md)  
-- [Green Hag](/3-Mechanics/CLI/bestiary/fey/green-hag-xmm.md)  
-- [Green Slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad-xmm.md)  
-- [Grell](/3-Mechanics/CLI/bestiary/aberration/grell-xmm.md)  
-- [Grick](/3-Mechanics/CLI/bestiary/aberration/grick-xmm.md)  
-- [Grick Alpha](/3-Mechanics/CLI/bestiary/aberration/grick-ancient-xmm.md)  
-- [Griffon](/3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md)  
-- [Grimlock](/3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md)  
-- [Guardian Naga](/3-Mechanics/CLI/bestiary/celestial/guardian-naga-xmm.md)  
-- [Gynosphinx](/3-Mechanics/CLI/bestiary/celestial/sphinx-of-lore-xmm.md)  
-- [Half-Ogre (Ogrillon)](/3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md)  
-- [Half-Red Dragon Veteran](/3-Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md)  
-- [Harpy](/3-Mechanics/CLI/bestiary/monstrosity/harpy-xmm.md)  
-- [Hell Hound](/3-Mechanics/CLI/bestiary/fiend/hell-hound-xmm.md)  
-- [Helmed Horror](/3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md)  
-- [Hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md)  
-- [Hill Giant](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md)  
-- [Hippogriff](/3-Mechanics/CLI/bestiary/monstrosity/hippogriff-xmm.md)  
-- [Hobgoblin](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md)  
-- [Hobgoblin Captain](/3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md)  
-- [Hobgoblin Warlord](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md)  
-- [Homunculus](/3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md)  
-- [Hook Horror](/3-Mechanics/CLI/bestiary/monstrosity/hook-horror-xmm.md)  
-- [Horned Devil](/3-Mechanics/CLI/bestiary/fiend/horned-devil-xmm.md)  
-- [Hydra](/3-Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md)  
-- [Ice Devil](/3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md)  
-- [Ice Mephit](/3-Mechanics/CLI/bestiary/elemental/ice-mephit-xmm.md)  
-- [Imp](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md)  
-- [Incubus](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md)  
-- [Intellect Devourer](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md)  
-- [Invisible Stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md)  
-- [Iron Golem](/3-Mechanics/CLI/bestiary/construct/iron-golem-xmm.md)  
-- [Jackalwere](/3-Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md)  
-- [Kenku](/3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md)  
-- [Kobold](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md)  
-- [Kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md)  
-- [Kuo-toa](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md)  
-- [Kuo-toa Archpriest](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-archpriest-xmm.md)  
-- [Kuo-toa Monitor](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-monitor-xmm.md)  
-- [Kuo-toa Whip](/3-Mechanics/CLI/bestiary/aberration/kuo-toa-whip-xmm.md)  
-- [Lamia](/3-Mechanics/CLI/bestiary/fiend/lamia-xmm.md)  
-- [Lemure](/3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md)  
-- [Lich](/3-Mechanics/CLI/bestiary/undead/lich-xmm.md)  
-- [Lizard King](/3-Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm.md)  
-- [Lizard Queen](/3-Mechanics/CLI/bestiary/elemental/lizardfolk-sovereign-xmm.md)  
-- [Lizardfolk](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)  
-- [Lizardfolk Shaman](/3-Mechanics/CLI/bestiary/elemental/lizardfolk-geomancer-xmm.md)  
-- [Magma Mephit](/3-Mechanics/CLI/bestiary/elemental/magma-mephit-xmm.md)  
-- [Magmin](/3-Mechanics/CLI/bestiary/elemental/magmin-xmm.md)  
-- [Manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)  
-- [Manticore](/3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md)  
-- [Marid](/3-Mechanics/CLI/bestiary/elemental/marid-xmm.md)  
-- [Marilith](/3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md)  
-- [Medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md)  
-- [Merfolk](/3-Mechanics/CLI/bestiary/elemental/merfolk-skirmisher-xmm.md)  
-- [Merrow](/3-Mechanics/CLI/bestiary/monstrosity/merrow-xmm.md)  
-- [Mezzoloth](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md)  
-- [Mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md)  
-- [Mind Flayer](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md)  
-- [Mind Flayer Arcanist](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist-xmm.md)  
-- [Minotaur](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md)  
-- [Minotaur Skeleton](/3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md)  
-- [Monodrone](/3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md)  
-- [Mud Mephit](/3-Mechanics/CLI/bestiary/elemental/mud-mephit-xmm.md)  
-- [Mummy](/3-Mechanics/CLI/bestiary/undead/mummy-xmm.md)  
-- [Mummy Lord](/3-Mechanics/CLI/bestiary/undead/mummy-lord-xmm.md)  
-- [Myconid Adult](/3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md)  
-- [Myconid Sovereign](/3-Mechanics/CLI/bestiary/plant/myconid-sovereign-xmm.md)  
-- [Myconid Sprout](/3-Mechanics/CLI/bestiary/plant/myconid-sprout-xmm.md)  
-- [Nalfeshnee](/3-Mechanics/CLI/bestiary/fiend/nalfeshnee-xmm.md)  
-- [Needle Blight](/3-Mechanics/CLI/bestiary/plant/needle-blight-xmm.md)  
-- [Night Hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md)  
-- [Nightmare](/3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md)  
-- [Nothic](/3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md)  
-- [Nycaloth](/3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md)  
-- [Ochre Jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md)  
-- [Ogre](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md)  
-- [Ogre Zombie](/3-Mechanics/CLI/bestiary/undead/ogre-zombie-xmm.md)  
-- [Oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md)  
-- [Orc](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)  
-- [Orc Eye of Gruumsh](/3-Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm.md)  
-- [Orc War Chief](/3-Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md)  
-- [Orog](/3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md)  
-- [Otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md)  
-- [Owlbear](/3-Mechanics/CLI/bestiary/monstrosity/owlbear-xmm.md)  
-- [Pegasus](/3-Mechanics/CLI/bestiary/celestial/pegasus-xmm.md)  
-- [Pentadrone](/3-Mechanics/CLI/bestiary/construct/modron-pentadrone-xmm.md)  
-- [Peryton](/3-Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md)  
-- [Piercer](/3-Mechanics/CLI/bestiary/aberration/piercer-xmm.md)  
-- [Pit Fiend](/3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md)  
-- [Pixie](/3-Mechanics/CLI/bestiary/fey/pixie-xmm.md)  
-- [Planetar](/3-Mechanics/CLI/bestiary/celestial/planetar-xmm.md)  
-- [Plesiosaurus](/3-Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md)  
-- [Poltergeist](/3-Mechanics/CLI/bestiary/undead/poltergeist-xmm.md)  
-- [Pseudodragon](/3-Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md)  
-- [Pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon-xmm.md)  
-- [Purple Worm](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md)  
-- [Quadrone](/3-Mechanics/CLI/bestiary/construct/modron-quadrone-xmm.md)  
-- [Quaggoth](/3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md)  
-- [Quaggoth Spore Servant](/3-Mechanics/CLI/bestiary/plant/myconid-spore-servant-xmm.md)  
-- [Quaggoth Thonot](/3-Mechanics/CLI/bestiary/monstrosity/quaggoth-thonot-xmm.md)  
-- [Quasit](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md)  
-- [Rakshasa](/3-Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md)  
-- [Red Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling-xmm.md)  
-- [Red Slaad](/3-Mechanics/CLI/bestiary/aberration/red-slaad-xmm.md)  
-- [Remorhaz](/3-Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md)  
-- [Revenant](/3-Mechanics/CLI/bestiary/undead/revenant-xmm.md)  
-- [Roc](/3-Mechanics/CLI/bestiary/monstrosity/roc-xmm.md)  
-- [Roper](/3-Mechanics/CLI/bestiary/aberration/roper-xmm.md)  
-- [Rug of Smothering](/3-Mechanics/CLI/bestiary/construct/animated-rug-of-smothering-xmm.md)  
-- [Rust Monster](/3-Mechanics/CLI/bestiary/monstrosity/rust-monster-xmm.md)  
-- [Sahuagin](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md)  
-- [Sahuagin Baron](/3-Mechanics/CLI/bestiary/fiend/sahuagin-baron-xmm.md)  
-- [Sahuagin Priestess](/3-Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md)  
-- [Salamander](/3-Mechanics/CLI/bestiary/elemental/salamander-xmm.md)  
-- [Satyr](/3-Mechanics/CLI/bestiary/fey/satyr-xmm.md)  
-- [Scarecrow](/3-Mechanics/CLI/bestiary/construct/scarecrow-xmm.md)  
-- [Sea Hag](/3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md)  
-- [Shadow](/3-Mechanics/CLI/bestiary/undead/shadow-xmm.md)  
-- [Shadow Demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md)  
-- [Shambling Mound](/3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md)  
-- [Shield Guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md)  
-- [Shrieker](/3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md)  
-- [Silver Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling-xmm.md)  
-- [Skeleton](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)  
-- [Slaad Tadpole](/3-Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md)  
-- [Smoke Mephit](/3-Mechanics/CLI/bestiary/elemental/smoke-mephit-xmm.md)  
-- [Solar](/3-Mechanics/CLI/bestiary/celestial/solar-xmm.md)  
-- [Spectator](/3-Mechanics/CLI/bestiary/aberration/spectator-xmm.md)  
-- [Specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md)  
-- [Spined Devil](/3-Mechanics/CLI/bestiary/fiend/spined-devil-xmm.md)  
-- [Spirit Naga](/3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md)  
-- [Sprite](/3-Mechanics/CLI/bestiary/fey/sprite-xmm.md)  
-- [Steam Mephit](/3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md)  
-- [Stirge](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md)  
-- [Stone Giant](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md)  
-- [Stone Golem](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md)  
-- [Storm Giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)  
-- [Succubus](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md)  
-- [Swarm of Beetles](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Swarm of Centipedes](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Swarm of Spiders](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Swarm of Wasps](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md)  
-- [Tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md)  
-- [Thri-kreen](/3-Mechanics/CLI/bestiary/monstrosity/thri-kreen-marauder-xmm.md)  
-- [Treant](/3-Mechanics/CLI/bestiary/plant/treant-xmm.md)  
-- [Triceratops](/3-Mechanics/CLI/bestiary/beast/triceratops-xmm.md)  
-- [Tridrone](/3-Mechanics/CLI/bestiary/construct/modron-tridrone-xmm.md)  
-- [Troglodyte](/3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md)  
-- [Troll](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md)  
-- [Twig Blight](/3-Mechanics/CLI/bestiary/plant/twig-blight-xmm.md)  
-- [Tyrannosaurus Rex](/3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md)  
-- [Ultroloth](/3-Mechanics/CLI/bestiary/fiend/ultroloth-xmm.md)  
-- [Umber Hulk](/3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md)  
-- [Unicorn](/3-Mechanics/CLI/bestiary/celestial/unicorn-xmm.md)  
-- [Vampire](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md)  
-- [Vampire Spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)  
-- [Vampire Spellcaster](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md)  
-- [Vampire Warrior](/3-Mechanics/CLI/bestiary/undead/vampire-xmm.md)  
-- [Vine Blight](/3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md)  
-- [Violet Fungus](/3-Mechanics/CLI/bestiary/plant/violet-fungus-xmm.md)  
-- [Vrock](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md)  
-- [Warhorse Skeleton](/3-Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md)  
-- [Water Elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md)  
-- [Water Weird](/3-Mechanics/CLI/bestiary/elemental/water-weird-xmm.md)  
-- [Werebear](/3-Mechanics/CLI/bestiary/monstrosity/werebear-xmm.md)  
-- [Wereboar](/3-Mechanics/CLI/bestiary/monstrosity/wereboar-xmm.md)  
-- [Wererat](/3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md)  
-- [Weretiger](/3-Mechanics/CLI/bestiary/monstrosity/weretiger-xmm.md)  
-- [Werewolf](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md)  
-- [White Dragon Wyrmling](/3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling-xmm.md)  
-- [Wight](/3-Mechanics/CLI/bestiary/undead/wight-xmm.md)  
-- [Will-o'-Wisp](/3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md)  
-- [Winged Kobold](/3-Mechanics/CLI/bestiary/dragon/winged-kobold-xmm.md)  
-- [Wraith](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md)  
-- [Wyvern](/3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md)  
-- [Xorn](/3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md)  
-- [Yeti](/3-Mechanics/CLI/bestiary/monstrosity/yeti-xmm.md)  
-- [Yochlol](/3-Mechanics/CLI/bestiary/fiend/yochlol-xmm.md)  
-- [Young Black Dragon](/3-Mechanics/CLI/bestiary/dragon/young-black-dragon-xmm.md)  
-- [Young Blue Dragon](/3-Mechanics/CLI/bestiary/dragon/young-blue-dragon-xmm.md)  
-- [Young Brass Dragon](/3-Mechanics/CLI/bestiary/dragon/young-brass-dragon-xmm.md)  
-- [Young Bronze Dragon](/3-Mechanics/CLI/bestiary/dragon/young-bronze-dragon-xmm.md)  
-- [Young Copper Dragon](/3-Mechanics/CLI/bestiary/dragon/young-copper-dragon-xmm.md)  
-- [Young Gold Dragon](/3-Mechanics/CLI/bestiary/dragon/young-gold-dragon-xmm.md)  
-- [Young Green Dragon](/3-Mechanics/CLI/bestiary/dragon/young-green-dragon-xmm.md)  
-- [Young Red Dragon](/3-Mechanics/CLI/bestiary/dragon/young-red-dragon-xmm.md)  
-- [Young Red Shadow Dragon](/3-Mechanics/CLI/bestiary/dragon/shadow-dragon-xmm.md)  
-- [Young Remorhaz](/3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm.md)  
-- [Young Silver Dragon](/3-Mechanics/CLI/bestiary/dragon/young-silver-dragon-xmm.md)  
-- [Young White Dragon](/3-Mechanics/CLI/bestiary/dragon/young-white-dragon-xmm.md)  
-- [Yuan-ti Abomination](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md)  
-- [Yuan-ti Malison (Type 1)](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md)  
-- [Yuan-ti Malison (Type 2)](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm.md)  
-- [Yuan-ti Malison (Type 3)](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm.md)  
-- [Yuan-ti Pureblood](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md)  
-- [Zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)  
+- [Aarakocra](3-Mechanics/CLI/bestiary/humanoid/aarakocra.md)  
+- [Aboleth](3-Mechanics/CLI/bestiary/aberration/aboleth.md)  
+- [Abominable Yeti](3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti.md)  
+- [Adult Black Dragon](3-Mechanics/CLI/bestiary/dragon/adult-black-dragon.md)  
+- [Adult Blue Dracolich](3-Mechanics/CLI/bestiary/undead/adult-blue-dracolich.md)  
+- [Adult Blue Dragon](3-Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md)  
+- [Adult Brass Dragon](3-Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md)  
+- [Adult Bronze Dragon](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon.md)  
+- [Adult Copper Dragon](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon.md)  
+- [Adult Gold Dragon](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md)  
+- [Adult Green Dragon](3-Mechanics/CLI/bestiary/dragon/adult-green-dragon.md)  
+- [Adult Red Dragon](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon.md)  
+- [Adult Silver Dragon](3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md)  
+- [Adult White Dragon](3-Mechanics/CLI/bestiary/dragon/adult-white-dragon.md)  
+- [Air Elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md)  
+- [Allosaurus](3-Mechanics/CLI/bestiary/beast/allosaurus.md)  
+- [Ancient Black Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-black-dragon.md)  
+- [Ancient Blue Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)  
+- [Ancient Brass Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)  
+- [Ancient Bronze Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon.md)  
+- [Ancient Copper Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md)  
+- [Ancient Gold Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)  
+- [Ancient Green Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md)  
+- [Ancient Red Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md)  
+- [Ancient Silver Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)  
+- [Ancient White Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md)  
+- [Androsphinx](3-Mechanics/CLI/bestiary/monstrosity/androsphinx.md)  
+- [Animated Armor](3-Mechanics/CLI/bestiary/construct/animated-armor.md)  
+- [Ankheg](3-Mechanics/CLI/bestiary/monstrosity/ankheg.md)  
+- [Ankylosaurus](3-Mechanics/CLI/bestiary/beast/ankylosaurus.md)  
+- [Arcanaloth](3-Mechanics/CLI/bestiary/fiend/arcanaloth.md)  
+- [Azer](3-Mechanics/CLI/bestiary/elemental/azer.md)  
+- [Balor](3-Mechanics/CLI/bestiary/fiend/balor.md)  
+- [Banshee](3-Mechanics/CLI/bestiary/undead/banshee.md)  
+- [Barbed Devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil.md)  
+- [Barlgura](3-Mechanics/CLI/bestiary/fiend/barlgura.md)  
+- [Basilisk](3-Mechanics/CLI/bestiary/monstrosity/basilisk.md)  
+- [Bearded Devil](3-Mechanics/CLI/bestiary/fiend/bearded-devil.md)  
+- [Behir](3-Mechanics/CLI/bestiary/monstrosity/behir.md)  
+- [Beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md)  
+- [Beholder Zombie](3-Mechanics/CLI/bestiary/undead/beholder-zombie.md)  
+- [Black Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/black-dragon-wyrmling.md)  
+- [Black Pudding](3-Mechanics/CLI/bestiary/ooze/black-pudding.md)  
+- [Blue Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling.md)  
+- [Blue Slaad](3-Mechanics/CLI/bestiary/aberration/blue-slaad.md)  
+- [Bone Devil](3-Mechanics/CLI/bestiary/fiend/bone-devil.md)  
+- [Bone Naga (Guardian)](3-Mechanics/CLI/bestiary/undead/bone-naga-guardian.md)  
+- [Bone Naga (Spirit)](3-Mechanics/CLI/bestiary/undead/bone-naga-spirit.md)  
+- [Brass Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/brass-dragon-wyrmling.md)  
+- [Bronze Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/bronze-dragon-wyrmling.md)  
+- [Bugbear](3-Mechanics/CLI/bestiary/humanoid/bugbear.md)  
+- [Bugbear Chief](3-Mechanics/CLI/bestiary/humanoid/bugbear-chief.md)  
+- [Bulette](3-Mechanics/CLI/bestiary/monstrosity/bulette.md)  
+- [Bullywug](3-Mechanics/CLI/bestiary/humanoid/bullywug.md)  
+- [Cambion](3-Mechanics/CLI/bestiary/fiend/cambion.md)  
+- [Carrion Crawler](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md)  
+- [Cave Bear](3-Mechanics/CLI/bestiary/beast/cave-bear.md)  
+- [Centaur](3-Mechanics/CLI/bestiary/monstrosity/centaur.md)  
+- [Chain Devil](3-Mechanics/CLI/bestiary/fiend/chain-devil.md)  
+- [Chasme](3-Mechanics/CLI/bestiary/fiend/chasme.md)  
+- [Chimera](3-Mechanics/CLI/bestiary/monstrosity/chimera.md)  
+- [Chuul](3-Mechanics/CLI/bestiary/aberration/chuul.md)  
+- [Clay Golem](3-Mechanics/CLI/bestiary/construct/clay-golem.md)  
+- [Cloaker](3-Mechanics/CLI/bestiary/aberration/cloaker.md)  
+- [Cloud Giant](3-Mechanics/CLI/bestiary/giant/cloud-giant.md)  
+- [Cockatrice](3-Mechanics/CLI/bestiary/monstrosity/cockatrice.md)  
+- [Copper Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/copper-dragon-wyrmling.md)  
+- [Couatl](3-Mechanics/CLI/bestiary/celestial/couatl.md)  
+- [Crawling Claw](3-Mechanics/CLI/bestiary/undead/crawling-claw.md)  
+- [Cyclops](3-Mechanics/CLI/bestiary/giant/cyclops.md)  
+- [Dao](3-Mechanics/CLI/bestiary/elemental/dao.md)  
+- [Darkmantle](3-Mechanics/CLI/bestiary/monstrosity/darkmantle.md)  
+- [Death Knight](3-Mechanics/CLI/bestiary/undead/death-knight.md)  
+- [Death Slaad](3-Mechanics/CLI/bestiary/aberration/death-slaad.md)  
+- [Death Tyrant](3-Mechanics/CLI/bestiary/undead/death-tyrant.md)  
+- [Deep Gnome (Svirfneblin)](3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md)  
+- [Demilich](3-Mechanics/CLI/bestiary/undead/demilich.md)  
+- [Deva](3-Mechanics/CLI/bestiary/celestial/deva.md)  
+- [Displacer Beast](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast.md)  
+- [Djinni](3-Mechanics/CLI/bestiary/elemental/djinni.md)  
+- [Doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md)  
+- [Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/dragon-turtle.md)  
+- [Dretch](3-Mechanics/CLI/bestiary/fiend/dretch.md)  
+- [Drider](3-Mechanics/CLI/bestiary/monstrosity/drider.md)  
+- [Drow](3-Mechanics/CLI/bestiary/humanoid/drow.md)  
+- [Drow Elite Warrior](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md)  
+- [Drow Mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md)  
+- [Drow Priestess of Lolth](3-Mechanics/CLI/bestiary/humanoid/drow-priestess-of-lolth.md)  
+- [Dryad](3-Mechanics/CLI/bestiary/fey/dryad.md)  
+- [Duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md)  
+- [Duodrone](3-Mechanics/CLI/bestiary/construct/duodrone.md)  
+- [Dust Mephit](3-Mechanics/CLI/bestiary/elemental/dust-mephit.md)  
+- [Earth Elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md)  
+- [Efreeti](3-Mechanics/CLI/bestiary/elemental/efreeti.md)  
+- [Empyrean](3-Mechanics/CLI/bestiary/celestial/empyrean.md)  
+- [Erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes.md)  
+- [Ettercap](3-Mechanics/CLI/bestiary/monstrosity/ettercap.md)  
+- [Ettin](3-Mechanics/CLI/bestiary/giant/ettin.md)  
+- [Faerie Dragon (Blue)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-blue.md)  
+- [Faerie Dragon (Green)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-green.md)  
+- [Faerie Dragon (Indigo)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-indigo.md)  
+- [Faerie Dragon (Orange)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-orange.md)  
+- [Faerie Dragon (Red)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-red.md)  
+- [Faerie Dragon (Violet)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-violet.md)  
+- [Faerie Dragon (Yellow)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-yellow.md)  
+- [Fire Elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md)  
+- [Fire Giant](3-Mechanics/CLI/bestiary/giant/fire-giant.md)  
+- [Fire Snake](3-Mechanics/CLI/bestiary/elemental/fire-snake.md)  
+- [Flameskull](3-Mechanics/CLI/bestiary/undead/flameskull.md)  
+- [Flesh Golem](3-Mechanics/CLI/bestiary/construct/flesh-golem.md)  
+- [Flumph](3-Mechanics/CLI/bestiary/aberration/flumph.md)  
+- [Flying Sword](3-Mechanics/CLI/bestiary/construct/flying-sword.md)  
+- [Fomorian](3-Mechanics/CLI/bestiary/giant/fomorian.md)  
+- [Frost Giant](3-Mechanics/CLI/bestiary/giant/frost-giant.md)  
+- [Galeb Duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr.md)  
+- [Gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle.md)  
+- [Gas Spore](3-Mechanics/CLI/bestiary/plant/gas-spore.md)  
+- [Gelatinous Cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md)  
+- [Ghast](3-Mechanics/CLI/bestiary/undead/ghast.md)  
+- [Ghost](3-Mechanics/CLI/bestiary/undead/ghost.md)  
+- [Ghoul](3-Mechanics/CLI/bestiary/undead/ghoul.md)  
+- [Gibbering Mouther](3-Mechanics/CLI/bestiary/aberration/gibbering-mouther.md)  
+- [Githyanki Knight](3-Mechanics/CLI/bestiary/humanoid/githyanki-knight.md)  
+- [Githyanki Warrior](3-Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md)  
+- [Githzerai Monk](3-Mechanics/CLI/bestiary/humanoid/githzerai-monk.md)  
+- [Githzerai Zerth](3-Mechanics/CLI/bestiary/humanoid/githzerai-zerth.md)  
+- [Glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu.md)  
+- [Gnoll](3-Mechanics/CLI/bestiary/humanoid/gnoll.md)  
+- [Gnoll Fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)  
+- [Gnoll Pack Lord](3-Mechanics/CLI/bestiary/humanoid/gnoll-pack-lord.md)  
+- [Goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md)  
+- [Goblin Boss](3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md)  
+- [Gold Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/gold-dragon-wyrmling.md)  
+- [Gorgon](3-Mechanics/CLI/bestiary/monstrosity/gorgon.md)  
+- [Goristro](3-Mechanics/CLI/bestiary/fiend/goristro.md)  
+- [Gray Ooze](3-Mechanics/CLI/bestiary/ooze/gray-ooze.md)  
+- [Gray Slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad.md)  
+- [Green Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/green-dragon-wyrmling.md)  
+- [Green Hag](3-Mechanics/CLI/bestiary/fey/green-hag.md)  
+- [Green Slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad.md)  
+- [Grell](3-Mechanics/CLI/bestiary/aberration/grell.md)  
+- [Grick](3-Mechanics/CLI/bestiary/monstrosity/grick.md)  
+- [Grick Alpha](3-Mechanics/CLI/bestiary/monstrosity/grick-alpha.md)  
+- [Griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md)  
+- [Grimlock](3-Mechanics/CLI/bestiary/humanoid/grimlock.md)  
+- [Guardian Naga](3-Mechanics/CLI/bestiary/monstrosity/guardian-naga.md)  
+- [Gynosphinx](3-Mechanics/CLI/bestiary/monstrosity/gynosphinx.md)  
+- [Half-Ogre (Ogrillon)](3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md)  
+- [Half-Red Dragon Veteran](3-Mechanics/CLI/bestiary/humanoid/half-red-dragon-veteran.md)  
+- [Harpy](3-Mechanics/CLI/bestiary/monstrosity/harpy.md)  
+- [Hell Hound](3-Mechanics/CLI/bestiary/fiend/hell-hound.md)  
+- [Helmed Horror](3-Mechanics/CLI/bestiary/construct/helmed-horror.md)  
+- [Hezrou](3-Mechanics/CLI/bestiary/fiend/hezrou.md)  
+- [Hill Giant](3-Mechanics/CLI/bestiary/giant/hill-giant.md)  
+- [Hippogriff](3-Mechanics/CLI/bestiary/monstrosity/hippogriff.md)  
+- [Hobgoblin](3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md)  
+- [Hobgoblin Captain](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md)  
+- [Hobgoblin Warlord](3-Mechanics/CLI/bestiary/humanoid/hobgoblin-warlord.md)  
+- [Homunculus](3-Mechanics/CLI/bestiary/construct/homunculus.md)  
+- [Hook Horror](3-Mechanics/CLI/bestiary/monstrosity/hook-horror.md)  
+- [Horned Devil](3-Mechanics/CLI/bestiary/fiend/horned-devil.md)  
+- [Hydra](3-Mechanics/CLI/bestiary/monstrosity/hydra.md)  
+- [Ice Devil](3-Mechanics/CLI/bestiary/fiend/ice-devil.md)  
+- [Ice Mephit](3-Mechanics/CLI/bestiary/elemental/ice-mephit.md)  
+- [Imp](3-Mechanics/CLI/bestiary/fiend/imp.md)  
+- [Incubus](3-Mechanics/CLI/bestiary/fiend/incubus.md)  
+- [Intellect Devourer](3-Mechanics/CLI/bestiary/aberration/intellect-devourer.md)  
+- [Invisible Stalker](3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md)  
+- [Iron Golem](3-Mechanics/CLI/bestiary/construct/iron-golem.md)  
+- [Jackalwere](3-Mechanics/CLI/bestiary/humanoid/jackalwere.md)  
+- [Kenku](3-Mechanics/CLI/bestiary/humanoid/kenku.md)  
+- [Kobold](3-Mechanics/CLI/bestiary/humanoid/kobold.md)  
+- [Kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken.md)  
+- [Kuo-toa](3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md)  
+- [Kuo-toa Archpriest](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-archpriest.md)  
+- [Kuo-toa Monitor](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md)  
+- [Kuo-toa Whip](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-whip.md)  
+- [Lamia](3-Mechanics/CLI/bestiary/monstrosity/lamia.md)  
+- [Lemure](3-Mechanics/CLI/bestiary/fiend/lemure.md)  
+- [Lich](3-Mechanics/CLI/bestiary/undead/lich.md)  
+- [Lizard King](3-Mechanics/CLI/bestiary/humanoid/lizard-king.md)  
+- [Lizard Queen](3-Mechanics/CLI/bestiary/humanoid/lizard-queen.md)  
+- [Lizardfolk](3-Mechanics/CLI/bestiary/humanoid/lizardfolk.md)  
+- [Lizardfolk Shaman](3-Mechanics/CLI/bestiary/humanoid/lizardfolk-shaman.md)  
+- [Magma Mephit](3-Mechanics/CLI/bestiary/elemental/magma-mephit.md)  
+- [Magmin](3-Mechanics/CLI/bestiary/elemental/magmin.md)  
+- [Manes](3-Mechanics/CLI/bestiary/fiend/manes.md)  
+- [Manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore.md)  
+- [Marid](3-Mechanics/CLI/bestiary/elemental/marid.md)  
+- [Marilith](3-Mechanics/CLI/bestiary/fiend/marilith.md)  
+- [Medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa.md)  
+- [Merfolk](3-Mechanics/CLI/bestiary/humanoid/merfolk.md)  
+- [Merrow](3-Mechanics/CLI/bestiary/monstrosity/merrow.md)  
+- [Mezzoloth](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md)  
+- [Mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic.md)  
+- [Mind Flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer.md)  
+- [Mind Flayer Arcanist](3-Mechanics/CLI/bestiary/aberration/mind-flayer-arcanist.md)  
+- [Minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md)  
+- [Minotaur Skeleton](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md)  
+- [Monodrone](3-Mechanics/CLI/bestiary/construct/monodrone.md)  
+- [Mud Mephit](3-Mechanics/CLI/bestiary/elemental/mud-mephit.md)  
+- [Mummy](3-Mechanics/CLI/bestiary/undead/mummy.md)  
+- [Mummy Lord](3-Mechanics/CLI/bestiary/undead/mummy-lord.md)  
+- [Myconid Adult](3-Mechanics/CLI/bestiary/plant/myconid-adult.md)  
+- [Myconid Sovereign](3-Mechanics/CLI/bestiary/plant/myconid-sovereign.md)  
+- [Myconid Sprout](3-Mechanics/CLI/bestiary/plant/myconid-sprout.md)  
+- [Nalfeshnee](3-Mechanics/CLI/bestiary/fiend/nalfeshnee.md)  
+- [Needle Blight](3-Mechanics/CLI/bestiary/plant/needle-blight.md)  
+- [Night Hag](3-Mechanics/CLI/bestiary/fiend/night-hag.md)  
+- [Nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare.md)  
+- [Nothic](3-Mechanics/CLI/bestiary/aberration/nothic.md)  
+- [Nycaloth](3-Mechanics/CLI/bestiary/fiend/nycaloth.md)  
+- [Ochre Jelly](3-Mechanics/CLI/bestiary/ooze/ochre-jelly.md)  
+- [Ogre](3-Mechanics/CLI/bestiary/giant/ogre.md)  
+- [Ogre Zombie](3-Mechanics/CLI/bestiary/undead/ogre-zombie.md)  
+- [Oni](3-Mechanics/CLI/bestiary/giant/oni.md)  
+- [Orc](3-Mechanics/CLI/bestiary/humanoid/orc.md)  
+- [Orc Eye of Gruumsh](3-Mechanics/CLI/bestiary/humanoid/orc-eye-of-gruumsh.md)  
+- [Orc War Chief](3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md)  
+- [Orog](3-Mechanics/CLI/bestiary/humanoid/orog.md)  
+- [Otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh.md)  
+- [Owlbear](3-Mechanics/CLI/bestiary/monstrosity/owlbear.md)  
+- [Pegasus](3-Mechanics/CLI/bestiary/celestial/pegasus.md)  
+- [Pentadrone](3-Mechanics/CLI/bestiary/construct/pentadrone.md)  
+- [Peryton](3-Mechanics/CLI/bestiary/monstrosity/peryton.md)  
+- [Piercer](3-Mechanics/CLI/bestiary/monstrosity/piercer.md)  
+- [Pit Fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend.md)  
+- [Pixie](3-Mechanics/CLI/bestiary/fey/pixie.md)  
+- [Planetar](3-Mechanics/CLI/bestiary/celestial/planetar.md)  
+- [Plesiosaurus](3-Mechanics/CLI/bestiary/beast/plesiosaurus.md)  
+- [Poltergeist](3-Mechanics/CLI/bestiary/undead/poltergeist.md)  
+- [Pseudodragon](3-Mechanics/CLI/bestiary/dragon/pseudodragon.md)  
+- [Pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md)  
+- [Purple Worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md)  
+- [Quadrone](3-Mechanics/CLI/bestiary/construct/quadrone.md)  
+- [Quaggoth](3-Mechanics/CLI/bestiary/humanoid/quaggoth.md)  
+- [Quaggoth Spore Servant](3-Mechanics/CLI/bestiary/plant/quaggoth-spore-servant.md)  
+- [Quaggoth Thonot](3-Mechanics/CLI/bestiary/humanoid/quaggoth-thonot.md)  
+- [Quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md)  
+- [Rakshasa](3-Mechanics/CLI/bestiary/fiend/rakshasa.md)  
+- [Red Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/red-dragon-wyrmling.md)  
+- [Red Slaad](3-Mechanics/CLI/bestiary/aberration/red-slaad.md)  
+- [Remorhaz](3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md)  
+- [Revenant](3-Mechanics/CLI/bestiary/undead/revenant.md)  
+- [Roc](3-Mechanics/CLI/bestiary/monstrosity/roc.md)  
+- [Roper](3-Mechanics/CLI/bestiary/monstrosity/roper.md)  
+- [Rug of Smothering](3-Mechanics/CLI/bestiary/construct/rug-of-smothering.md)  
+- [Rust Monster](3-Mechanics/CLI/bestiary/monstrosity/rust-monster.md)  
+- [Sahuagin](3-Mechanics/CLI/bestiary/humanoid/sahuagin.md)  
+- [Sahuagin Baron](3-Mechanics/CLI/bestiary/humanoid/sahuagin-baron.md)  
+- [Sahuagin Priestess](3-Mechanics/CLI/bestiary/humanoid/sahuagin-priestess.md)  
+- [Salamander](3-Mechanics/CLI/bestiary/elemental/salamander.md)  
+- [Satyr](3-Mechanics/CLI/bestiary/fey/satyr.md)  
+- [Scarecrow](3-Mechanics/CLI/bestiary/construct/scarecrow.md)  
+- [Sea Hag](3-Mechanics/CLI/bestiary/fey/sea-hag.md)  
+- [Shadow](3-Mechanics/CLI/bestiary/undead/shadow.md)  
+- [Shadow Demon](3-Mechanics/CLI/bestiary/fiend/shadow-demon.md)  
+- [Shambling Mound](3-Mechanics/CLI/bestiary/plant/shambling-mound.md)  
+- [Shield Guardian](3-Mechanics/CLI/bestiary/construct/shield-guardian.md)  
+- [Shrieker](3-Mechanics/CLI/bestiary/plant/shrieker.md)  
+- [Silver Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/silver-dragon-wyrmling.md)  
+- [Skeleton](3-Mechanics/CLI/bestiary/undead/skeleton.md)  
+- [Slaad Tadpole](3-Mechanics/CLI/bestiary/aberration/slaad-tadpole.md)  
+- [Smoke Mephit](3-Mechanics/CLI/bestiary/elemental/smoke-mephit.md)  
+- [Solar](3-Mechanics/CLI/bestiary/celestial/solar.md)  
+- [Spectator](3-Mechanics/CLI/bestiary/aberration/spectator.md)  
+- [Specter](3-Mechanics/CLI/bestiary/undead/specter.md)  
+- [Spined Devil](3-Mechanics/CLI/bestiary/fiend/spined-devil.md)  
+- [Spirit Naga](3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md)  
+- [Sprite](3-Mechanics/CLI/bestiary/fey/sprite.md)  
+- [Steam Mephit](3-Mechanics/CLI/bestiary/elemental/steam-mephit.md)  
+- [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md)  
+- [Stone Giant](3-Mechanics/CLI/bestiary/giant/stone-giant.md)  
+- [Stone Golem](3-Mechanics/CLI/bestiary/construct/stone-golem.md)  
+- [Storm Giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md)  
+- [Succubus](3-Mechanics/CLI/bestiary/fiend/succubus.md)  
+- [Swarm of Beetles](3-Mechanics/CLI/bestiary/beast/swarm-of-beetles.md)  
+- [Swarm of Centipedes](3-Mechanics/CLI/bestiary/beast/swarm-of-centipedes.md)  
+- [Swarm of Spiders](3-Mechanics/CLI/bestiary/beast/swarm-of-spiders.md)  
+- [Swarm of Wasps](3-Mechanics/CLI/bestiary/beast/swarm-of-wasps.md)  
+- [Tarrasque](3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md)  
+- [Thri-kreen](3-Mechanics/CLI/bestiary/humanoid/thri-kreen.md)  
+- [Treant](3-Mechanics/CLI/bestiary/plant/treant.md)  
+- [Triceratops](3-Mechanics/CLI/bestiary/beast/triceratops.md)  
+- [Tridrone](3-Mechanics/CLI/bestiary/construct/tridrone.md)  
+- [Troglodyte](3-Mechanics/CLI/bestiary/humanoid/troglodyte.md)  
+- [Troll](3-Mechanics/CLI/bestiary/giant/troll.md)  
+- [Twig Blight](3-Mechanics/CLI/bestiary/plant/twig-blight.md)  
+- [Tyrannosaurus Rex](3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex.md)  
+- [Ultroloth](3-Mechanics/CLI/bestiary/fiend/ultroloth.md)  
+- [Umber Hulk](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md)  
+- [Unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn.md)  
+- [Vampire](3-Mechanics/CLI/bestiary/undead/vampire.md)  
+- [Vampire Spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)  
+- [Vampire Spellcaster](3-Mechanics/CLI/bestiary/undead/vampire-spellcaster.md)  
+- [Vampire Warrior](3-Mechanics/CLI/bestiary/undead/vampire-warrior.md)  
+- [Vine Blight](3-Mechanics/CLI/bestiary/plant/vine-blight.md)  
+- [Violet Fungus](3-Mechanics/CLI/bestiary/plant/violet-fungus.md)  
+- [Vrock](3-Mechanics/CLI/bestiary/fiend/vrock.md)  
+- [Warhorse Skeleton](3-Mechanics/CLI/bestiary/undead/warhorse-skeleton.md)  
+- [Water Elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md)  
+- [Water Weird](3-Mechanics/CLI/bestiary/elemental/water-weird.md)  
+- [Werebear](3-Mechanics/CLI/bestiary/humanoid/werebear.md)  
+- [Wereboar](3-Mechanics/CLI/bestiary/humanoid/wereboar.md)  
+- [Wererat](3-Mechanics/CLI/bestiary/humanoid/wererat.md)  
+- [Weretiger](3-Mechanics/CLI/bestiary/humanoid/weretiger.md)  
+- [Werewolf](3-Mechanics/CLI/bestiary/humanoid/werewolf.md)  
+- [White Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md)  
+- [Wight](3-Mechanics/CLI/bestiary/undead/wight.md)  
+- [Will-o'-Wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp.md)  
+- [Winged Kobold](3-Mechanics/CLI/bestiary/humanoid/winged-kobold.md)  
+- [Wraith](3-Mechanics/CLI/bestiary/undead/wraith.md)  
+- [Wyvern](3-Mechanics/CLI/bestiary/dragon/wyvern.md)  
+- [Xorn](3-Mechanics/CLI/bestiary/elemental/xorn.md)  
+- [Yeti](3-Mechanics/CLI/bestiary/monstrosity/yeti.md)  
+- [Yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol.md)  
+- [Young Black Dragon](3-Mechanics/CLI/bestiary/dragon/young-black-dragon.md)  
+- [Young Blue Dragon](3-Mechanics/CLI/bestiary/dragon/young-blue-dragon.md)  
+- [Young Brass Dragon](3-Mechanics/CLI/bestiary/dragon/young-brass-dragon.md)  
+- [Young Bronze Dragon](3-Mechanics/CLI/bestiary/dragon/young-bronze-dragon.md)  
+- [Young Copper Dragon](3-Mechanics/CLI/bestiary/dragon/young-copper-dragon.md)  
+- [Young Gold Dragon](3-Mechanics/CLI/bestiary/dragon/young-gold-dragon.md)  
+- [Young Green Dragon](3-Mechanics/CLI/bestiary/dragon/young-green-dragon.md)  
+- [Young Red Dragon](3-Mechanics/CLI/bestiary/dragon/young-red-dragon.md)  
+- [Young Red Shadow Dragon](3-Mechanics/CLI/bestiary/dragon/young-red-shadow-dragon.md)  
+- [Young Remorhaz](3-Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md)  
+- [Young Silver Dragon](3-Mechanics/CLI/bestiary/dragon/young-silver-dragon.md)  
+- [Young White Dragon](3-Mechanics/CLI/bestiary/dragon/young-white-dragon.md)  
+- [Yuan-ti Abomination](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md)  
+- [Yuan-ti Malison (Type 1)](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1.md)  
+- [Yuan-ti Malison (Type 2)](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2.md)  
+- [Yuan-ti Malison (Type 3)](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3.md)  
+- [Yuan-ti Pureblood](3-Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md)  
+- [Zombie](3-Mechanics/CLI/bestiary/undead/zombie.md)  
 
 ## Shadow Dragon Template
 
@@ -752,7 +752,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks.
 
 ### Living Shadow
 
@@ -760,11 +760,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [Hide](/3-Mechanics/CLI/actions.md#Hide) action as a bonus action.
+While in dim light or darkness, the dragon can take the [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -784,13 +784,13 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) with a radius of 10 feet and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet.
+The half-dragon gains [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a radius of 60 feet.
 
 ### Resistances
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-![Resistances](/3-Mechanics/CLI/tables/resistances-mm.md)
+![Resistances](3-Mechanics/CLI/tables/resistances-mm.md)
 
 ### Languages
 
@@ -800,7 +800,7 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-![New Action: Breath Weapon](/3-Mechanics/CLI/tables/new-action-breath-weapon-mm.md)
+![New Action: Breath Weapon](3-Mechanics/CLI/tables/new-action-breath-weapon-mm.md)
 
 ## Spore Servant Template
 
@@ -832,11 +832,11 @@ The servant's ability scores change as follows: Int 2 (−4), Wis 6 (−2), Cha 
 
 ### Senses
 
-The servant has [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
 
 ### Condition Immunities
 
-The servant can't be [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened), or [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed).
+The servant can't be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), or [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed).
 
 ### Languages
 
@@ -844,4 +844,4 @@ The servant loses all known languages, but it responds to orders given to it by 
 
 ### Attacks
 
-If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + the servant's Strength modifier, or, if the servant is Large, `dice:2d4|noform|noparens|avg` (`2d4`) + its Strength modifier.
+If the servant has no other means of dealing damage, it can use its fists or limbs to make unarmed strikes. On a hit, an unarmed strike deals bludgeoning damage equal to `1d4` + the servant's Strength modifier, or, if the servant is Large, `2d4` + its Strength modifier.

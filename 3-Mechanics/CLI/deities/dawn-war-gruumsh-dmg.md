@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/war
-aliases: 
-- Gruumsh
+aliases:
+- "Gruumsh"
 ---
 # Gruumsh
 *Source: Dungeon Master's Guide p. 10* 

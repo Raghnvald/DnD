@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur
+- "Minotaur"
 ---
-# [Minotaur](3-Mechanics\CLI\bestiary\monstrosity/minotaur.md)
-*Source: Monster Manual p. 223, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Minotaur](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md)
+*Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
 
@@ -55,16 +55,19 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-"senses": "darkvision 60 ft., passive Perception 17"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 17"
 "languages": "Abyssal"
 "cr": "3"
 "traits":
   - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked prone."
+      \ saving throw or be pushed up to 10 feet away and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The minotaur can perfectly recall any path it has traveled."
     "name": "Labyrinthine Recall"
@@ -81,8 +84,7 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
     "name": "Gore"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/minotaur.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/minotaur.webp"
 ```
 ^statblock
 

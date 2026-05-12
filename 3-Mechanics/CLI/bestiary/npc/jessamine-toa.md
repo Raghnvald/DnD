@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jessamine
+- "Jessamine"
 ---
-# [Jessamine](3-Mechanics\CLI\bestiary\npc/jessamine-toa.md)
+# [Jessamine](3-Mechanics/CLI/bestiary/npc/jessamine-toa.md)
 *Source: Tomb of Annihilation p. 26*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "58"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -38,22 +38,26 @@ aliases:
   - "dexterity": !!int "6"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+6"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "poison"
+"gear":
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Thieves' cant plus any two languages"
 "cr": "8"
 "traits":
   - "desc": "During its first turn, the assassin has advantage on attack rolls against\
       \ any creature that hasn't taken a turn. Any hit the assassin scores against\
-      \ a surprised creature is a critical hit."
+      \ a [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) creature is a\
+      \ critical hit."
     "name": "Assassinate"
   - "desc": "If the assassin is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the assassin instead takes no damage\
@@ -61,24 +65,24 @@ aliases:
     "name": "Evasion"
   - "desc": "The assassin deals an extra 14 (4d6) damage when it hits a target with\
       \ a weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of the assassin that isn't incapacitated and the\
-      \ assassin doesn't have disadvantage on the attack roll."
+      \ within 5 feet of an ally of the assassin that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and the assassin doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
   - "desc": "The assassin makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution\
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution\
-      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
-      \ damage on a successful one."
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Light Crossbow"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/jessamine-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/jessamine-toa.webp"
 ```
 ^statblock

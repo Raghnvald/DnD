@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/item/rarity/unknown
 - ttrpg-cli/item/wondrous/other
-aliases: 
+aliases:
 - "Flensing Claws (Large)"
 ---
 # Flensing Claws (Large)

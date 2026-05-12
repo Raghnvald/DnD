@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Truth Telling"
 ---
 # Ring of Truth Telling
@@ -15,6 +15,6 @@ aliases:
 
 
 
-While wearing this ring, you have advantage on Wisdom (Insight) checks to determine whether someone is lying to you.
+While wearing this ring, you have advantage on Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) checks to determine whether someone is lying to you.
 
 *Source: Waterdeep: Dragon Heist p. 192*

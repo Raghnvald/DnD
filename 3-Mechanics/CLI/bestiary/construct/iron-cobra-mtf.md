@@ -14,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Iron Cobra
+- "Iron Cobra"
 ---
-# [Iron Cobra](3-Mechanics\CLI\bestiary\construct/iron-cobra-mtf.md)
-*Source: Mordenkainen's Tome of Foes p. 125, Ghosts of Saltmarsh*  
+# [Iron Cobra](3-Mechanics/CLI/bestiary/construct/iron-cobra-mtf.md)
+*Source: Mordenkainen's Tome of Foes p. 125, Return to Glory p. 33*  
 
 > [!quote] A quote from Mordenkainen  
 > 
@@ -41,12 +41,10 @@ A clockwork can be customized by adding one of the following enhancements and on
 
 **Clockwork Enhancements**
 
-`dice: [](iron-cobra-mtf.md#^clockwork-enhancements)`
-
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in Stealth if it doesn't already have it. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's darkvision becomes 120 feet, unless it is higher, and it gains proficiency in Perception if it doesn't already have it. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) if it doesn't already have it. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) becomes 120 feet, unless it is higher, and it gains proficiency in [Perception](3-Mechanics/CLI/rules/skills.md#Perception) if it doesn't already have it. |
 | 3 | **Improved Armor.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -59,18 +57,16 @@ A clockwork can be customized by adding one of the following enhancements and on
 
 **Clockwork Malfunctions**
 
-`dice: [](iron-cobra-mtf.md#^clockwork-malfunctions)`
-
 | dice: d10 | Malfunction |
 |-----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is blinded until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks it or deals damage to it. |
-| 5 | **Leaking Lubricant.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork gains 1 level of exhaustion that it isn't immune to. |
+| 4 | **Imprinting Loop.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks it or deals damage to it. |
+| 5 | **Leaking Lubricant.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) that it isn't immune to. |
 | 6 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 7 | **Overactive Sense of Self-Preservation.** If the clockwork has half its hit points or fewer at the start of its turn in combat, roll a `dice:d6\|noform\|noparens\|avg` (`d6`). If you roll a 1, it retreats from combat. If retreat isn't possible, it continues fighting. |
-| 8 | **Overheats.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is incapacitated until the end of its turn. |
+| 7 | **Overactive Sense of Self-Preservation.** If the clockwork has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat. If retreat isn't possible, it continues fighting. |
+| 8 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its turn. |
 | 9 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 | 10 | **Weak Armor.** The clockwork isn't immune to bludgeoning, piercing, and slashing damage from nonmagical attacks that aren't adamantine. |
 ^clockwork-malfunctions
@@ -93,12 +89,15 @@ A clockwork can be customized by adding one of the following enhancements and on
   - !!int "1"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "4"
 "traits":
@@ -106,21 +105,23 @@ A clockwork can be customized by adding one of the following enhancements and on
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage. If the target is a creature, it must succeed on a DC\
-      \ 13 Constitution saving throw or suffer one random poison effect:\n\n1. Poison\
-      \ Damage: The target takes 13 (3d8) poison damage.\n\n2. Confusion: On its next\
-      \ turn, the target must use its action to make one weapon attack against a random\
-      \ creature it can see within 30 feet of it, using whatever weapon it has in\
-      \ hand and moving beforehand if necessary to get in range. If it's holding no\
-      \ weapon, it makes an unarmed strike. If no creature is visible within 30 feet,\
-      \ it takes the Dash action, moving toward the nearest creature.\n\n3. Paralysis:\
-      \ The target is paralyzed until the end of its next turn."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 13 Constitution saving throw or suffer one random poison effect:\n\
+      \n1. Poison Damage: The target takes 13 (3d8) poison damage.\n\n2. Confusion:\
+      \ On its next turn, the target must use its action to make one weapon attack\
+      \ against a random creature it can see within 30 feet of it, using whatever\
+      \ weapon it has in hand and moving beforehand if necessary to get in range.\
+      \ If it's holding no weapon, it makes an unarmed strike. If no creature is visible\
+      \ within 30 feet, it takes the [Dash](3-Mechanics/CLI/rules/actions.md#Dash)\
+      \ action, moving toward the nearest creature.\n\n3. Paralysis: The target is\
+      \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) until the end of\
+      \ its next turn."
     "name": "Bite"
 "source":
   - "MTF"
-  - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/iron-cobra-mtf.webp"
+  - "RtG"
+"image": "3-Mechanics/CLI/bestiary/construct/token/iron-cobra-mtf.webp"
 ```
 ^statblock
 

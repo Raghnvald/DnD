@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Thautam
+aliases:
+- "Thautam"
 ---
 # Thautam
 *Source: Mordenkainen's Tome of Foes p. 73* 

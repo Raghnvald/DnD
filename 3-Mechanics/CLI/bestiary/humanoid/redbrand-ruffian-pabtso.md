@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redbrand Ruffian
+- "Redbrand Ruffian"
 ---
-# [Redbrand Ruffian](3-Mechanics\CLI\bestiary\humanoid/redbrand-ruffian-pabtso.md)
+# [Redbrand Ruffian](3-Mechanics/CLI/bestiary/humanoid/redbrand-ruffian-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 216*  
 
 Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. They work for money and have no scruples.
@@ -23,7 +23,7 @@ Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. T
 "type": "humanoid"
 "alignment": "typically  Neutral Evil"
 "ac": !!int "11"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "16"
 "hit_dice": "3d8 + 3"
 "modifier": !!int "0"
@@ -36,17 +36,19 @@ Redbrand ruffians are ruthless enforcers skilled at intimidation and violence. T
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 9"
 "languages": "Common"
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/redbrand-ruffian-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/redbrand-ruffian-pabtso.webp"
 ```
 ^statblock

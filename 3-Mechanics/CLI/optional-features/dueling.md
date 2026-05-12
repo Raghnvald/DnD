@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/optional-feature/fs-p
 - ttrpg-cli/optional-feature/fs-r
 aliases:
-- Dueling
+- "Dueling"
 ---
 # Dueling
 *Source: Player's Handbook. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

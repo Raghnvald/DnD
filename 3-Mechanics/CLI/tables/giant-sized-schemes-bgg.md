@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Giant-Sized Schemes
+- "Giant-Sized Schemes"
 ---
 # Giant-Sized Schemes
 *Source: Bigby Presents: Glory of the Giants p. 57* 
 
 **Giant-Sized Schemes**
-
-`dice: [](giant-sized-schemes-bgg.md#^giant-sized-schemes)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

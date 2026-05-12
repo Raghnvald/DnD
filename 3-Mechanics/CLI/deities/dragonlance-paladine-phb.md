@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/peace
 - ttrpg-cli/domain/war
-aliases: 
-- Paladine
+aliases:
+- "Paladine"
 ---
 # Paladine
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33* 

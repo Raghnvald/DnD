@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex"
 ---
 # Prehistoric Figurine of Wondrous Power, Jasper Tyrannosaurus Rex
 *Wondrous item, legendary*  
-![](/3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
+![](3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
 
 
 Larger and more roughly hewn than typical figurines of wondrous power, these statuettes depict dinosaurs and related creatures from the earliest days of the world.
@@ -23,8 +23,8 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Jasper Tyrannosaurus Rex
 
-This figurine, crafted from rare green jasper, becomes a [tyrannosaurus rex](/3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md) for up to 1 hour. Once it has been used, it can't be used again until 14 days have passed.
+This figurine, crafted from rare green jasper, becomes a tyrannosaurus rex for up to 1 hour. Once it has been used, it can't be used again until 14 days have passed.
 
-Whenever you command the figurine while it's in tyrannosaurus rex form (including commanding it to revert to figurine form), you must roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, you lose control of the figurine, and it becomes hostile to you and your companions until it is reduced to 0 hit points, at which point it reverts to figurine form.
+Whenever you command the figurine while it's in tyrannosaurus rex form (including commanding it to revert to figurine form), you must roll a `d20`. On a 1, you lose control of the figurine, and it becomes hostile to you and your companions until it is reduced to 0 hit points, at which point it reverts to figurine form.
 
 *Source: Bigby Presents: Glory of the Giants p. 114*

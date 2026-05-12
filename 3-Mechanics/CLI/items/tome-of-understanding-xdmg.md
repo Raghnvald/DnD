@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Tome of Understanding"
 ---
 # Tome of Understanding
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/tome-of-understanding.webp#right)
+![](3-Mechanics/CLI/items/img/tome-of-understanding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

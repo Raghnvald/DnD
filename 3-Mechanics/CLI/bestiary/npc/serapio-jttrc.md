@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Serapio
+- "Serapio"
 ---
-# [Serapio](3-Mechanics\CLI\bestiary\npc/serapio-jttrc.md)
+# [Serapio](3-Mechanics/CLI/bestiary/npc/serapio-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 61*  
 
 ```statblock
@@ -37,13 +37,14 @@ aliases:
   - "dexterity": !!int "6"
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "cold, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 15"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Abyssal, Common"
 "cr": "5"
 "traits":
@@ -53,8 +54,8 @@ aliases:
 "actions":
   - "desc": "Serapio makes two Talon attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 3) piercing damage plus 14 (3d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 3) piercing damage plus 14 (3d8) poison damage."
     "name": "Talon"
   - "desc": "Serapio magically transforms into a Medium owl, while retaining its game\
       \ statistics (other than its size). This transformation ends if Serapio is reduced\
@@ -62,16 +63,17 @@ aliases:
     "name": "Change Shape"
   - "desc": "Serapio emits a chilling, disease-ridden wind in a 60-foot line that\
       \ is 10 feet wide. Each creature in that area must succeed on a DC 13 Constitution\
-      \ saving throw or take 26 (4d12) cold damage and become poisoned.\n\nWhile poisoned\
-      \ in this way, the creature can't regain hit points. At the end of every hour,\
-      \ the creature must succeed on a DC 13 Constitution saving throw or gain 1 level\
-      \ of exhaustion. If the creature is in direct sunlight when it makes this saving\
-      \ throw, it automatically succeeds on the save.\n\nIf the creature is targeted\
-      \ by magic that ends a poison or disease, such as lesser restoration, while\
-      \ the creature isn't in direct sunlight, the effect does not end."
+      \ saving throw or take 26 (4d12) cold damage and become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\n\
+      \nWhile [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ the creature can't regain hit points. At the end of every hour, the creature\
+      \ must succeed on a DC 13 Constitution saving throw or gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).\
+      \ If the creature is in direct sunlight when it makes this saving throw, it\
+      \ automatically succeeds on the save.\n\nIf the creature is targeted by magic\
+      \ that ends a poison or disease, such as lesser restoration, while the creature\
+      \ isn't in direct sunlight, the effect does not end."
     "name": "Plague Winds (Fiend Form Only; Recharge 5-6)"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/serapio-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/serapio-jttrc.webp"
 ```
 ^statblock

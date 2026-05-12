@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Water Breathing"
 ---
 # Potion of Water Breathing
 *Potion, uncommon*  
-![](/3-Mechanics/CLI/items/img/potion-of-water-breathing.webp#right)
+![](3-Mechanics/CLI/items/img/potion-of-water-breathing.webp#right)
 
 - **Weight**: 0.5 lbs.
 

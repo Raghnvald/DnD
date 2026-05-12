@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+aliases:
 - "Tidecaller Trident"
 ---
 # Tidecaller Trident
@@ -24,6 +24,6 @@ aliases:
 
 You gain a +2 bonus to attack and damage rolls made with this magic trident. You also have advantage on attack rolls made with this weapon while underwater.
 
-This trident has 3 charges. You can expend 1 charge to cast Control Water (save DC 15) from the trident or 3 charges to cast Tsunami (save DC 15) from it instead. The trident regains `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
+This trident has 3 charges. You can expend 1 charge to cast Control Water (save DC 15) from the trident or 3 charges to cast Tsunami (save DC 15) from it instead. The trident regains `1d3` expended charges daily at dawn.
 
 *Source: The Book of Many Things p. 69*

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/slw
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skull Flier
+- "Skull Flier"
 ---
-# [Skull Flier](3-Mechanics\CLI\bestiary\construct/skull-flier-slw.md)
+# [Skull Flier](3-Mechanics/CLI/bestiary/construct/skull-flier-slw.md)
 *Source: Storm Lord's Wrath*  
 
 ```statblock
@@ -34,20 +34,24 @@ aliases:
   - !!int "3"
 "speed": "10 ft., fly 50 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "charmed, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but poisoned for 1 hour, even after regaining hit points,\
-      \ and is paralyzed while poisoned in this way."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 10 (3d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one. If the poison damage reduces the target to\
+      \ 0 hit points, the target is stable but [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour, even after regaining hit points, and is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way."
     "name": "Sting"
 "source":
   - "SLW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/skull-flier-slw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/skull-flier-slw.webp"
 ```
 ^statblock

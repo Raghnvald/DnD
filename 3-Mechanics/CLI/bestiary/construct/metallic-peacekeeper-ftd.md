@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Metallic Peacekeeper
+- "Metallic Peacekeeper"
 ---
-# [Metallic Peacekeeper](3-Mechanics\CLI\bestiary\construct/metallic-peacekeeper-ftd.md)
+# [Metallic Peacekeeper](3-Mechanics/CLI/bestiary/construct/metallic-peacekeeper-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 210*  
 
 When a metallic dragon grows attached to a settlement of smaller folk—often after dwelling there for a time in Humanoid form—the dragon might decide to create a metallic peacekeeper to protect the place. The peacekeeper can ward a community for centuries, standing in the place of its dragon creator and maintaining peace and order.
@@ -40,11 +40,8 @@ A metallic sentinel is a guardian created by a metallic dragon, forged from the 
   - !!int "11"
 "speed": "30 ft."
 "damage_immunities": "fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Draconic, telepathy 30 ft."
 "cr": "4"
 "traits":
@@ -63,13 +60,11 @@ A metallic sentinel is a guardian created by a metallic dragon, forged from the 
     "name": "Slam"
   - "desc": "The peacekeeper releases a calming gas in a 30-foot-radius sphere centered\
       \ on itself. Each creature in that area must succeed on a DC 14 Charisma saving\
-      \ throw or become [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the peacekeeper\
-      \ for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed) in this\
-      \ way, the creature is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ and has a speed of 0."
+      \ throw or become charmed by the peacekeeper for 1 minute. While charmed in\
+      \ this way, the creature is incapacitated and has a speed of 0."
     "name": "Calming Mist (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/metallic-peacekeeper-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/metallic-peacekeeper-ftd.webp"
 ```
 ^statblock

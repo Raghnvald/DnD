@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Golgari Shaman
+- "Golgari Shaman"
 ---
-# [Golgari Shaman](3-Mechanics\CLI\bestiary\humanoid/golgari-shaman-ggr.md)
+# [Golgari Shaman](3-Mechanics/CLI/bestiary/humanoid/golgari-shaman-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 236*  
 
 Golgari shamans are the spiritual leaders of the Golgari Swarm. They teach the guild's beliefs about the cycles of nature, using their necromantic magic to show how life sprouts from death.
@@ -30,7 +30,7 @@ Members of the Golgari Swarm have an intimate connection to their territory. Whe
 "subtype": "elf"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "hide armor"
 "hp": !!int "88"
 "hit_dice": "16d8 + 16"
 "modifier": !!int "2"
@@ -46,45 +46,40 @@ Members of the Golgari Swarm have an intimate connection to their territory. Whe
   - "constitution": !!int "4"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "Nature"
     "desc": "+4"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"gear":
+  - "quarterstaff"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Elvish"
 "cr": "5"
 "traits":
   - "desc": "The shaman is an 8th-level Golgari spellcaster. Its spellcasting ability\
       \ is Wisdom (spell save DC 14, +6 to hit with spell attacks). The shaman has\
-      \ the following druid spells prepared:\n\n**Cantrips (at will):** [poison spray](/3-Mechanics/CLI/spells/poison-spray-xphb.md),\
-      \ [shillelagh](/3-Mechanics/CLI/spells/shillelagh-xphb.md), [thorn whip](/3-Mechanics/CLI/spells/thorn-whip-xphb.md)\n\
-      \n**1st level (4 slots):** [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [ray of sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\
-      \n**2nd level (3 slots):** [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md),\
-      \ [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md),\
-      \ [spike growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md)\n\n**3rd level\
-      \ (3 slots):** [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md)\n\
-      \n**4th level (2 slots):** [blight](/3-Mechanics/CLI/spells/blight-xphb.md),\
-      \ [giant insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md)"
+      \ the following druid spells prepared:\n\n**Cantrips (at will):** poison spray,\
+      \ shillelagh, thorn whip\n\n**1st level (4 slots):** cure wounds, entangle,\
+      \ ray of sickness\n\n**2nd level (3 slots):** pass without trace, ray of enfeeblement,\
+      \ spike growth\n\n**3rd level (3 slots):** animate dead, dispel magic, plant\
+      \ growth\n\n**4th level (2 slots):** blight, giant insect"
     "name": "Spellcasting"
-  - "desc": "The shaman has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ and magic can't put it to sleep."
+  - "desc": "The shaman has advantage on saving throws against being charmed, and\
+      \ magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used\
+      \ with two hands."
     "name": "Quarterstaff"
-  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d8)\
-      \ necrotic damage, and the target must make a DC 14 Constitution saving throw,\
-      \ taking 18 (4d8) poison damage on a failed save, or half as much damage on\
-      \ a successful one."
+  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d8) necrotic damage, and the target must make a DC 14 Constitution saving\
+      \ throw, taking 18 (4d8) poison damage on a failed save, or half as much damage\
+      \ on a successful one."
     "name": "Fungal Rot"
 "reactions":
   - "desc": "When a creature within 30 feet of the shaman drops to 0 hit points, the\
@@ -92,6 +87,6 @@ Members of the Golgari Swarm have an intimate connection to their territory. Whe
     "name": "Feed on Death"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/golgari-shaman-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/golgari-shaman-ggr.webp"
 ```
 ^statblock

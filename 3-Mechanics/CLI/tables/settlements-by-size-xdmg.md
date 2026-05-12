@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Settlements by Size
+- "Settlements by Size"
 ---
 # Settlements by Size
 *Source: Dungeon Master's Guide (2024) p. 93* 

@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Ioun
+aliases:
+- "Ioun"
 ---
 # Ioun
 *Source: Explorer's Guide to Wildemount p. 23* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-ioun.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-ioun.webp#symbol)
 
 - **Alignment**: Neutral
 - **Category**: Prime Deities

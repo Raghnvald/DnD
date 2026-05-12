@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Red Dragon Adventures; Red Dragon Adventure Hooks
+- "Red Dragon Adventures; Red Dragon Adventure Hooks"
 ---
 # Red Dragon Adventures; Red Dragon Adventure Hooks
 *Source: Fizban's Treasury of Dragons p. 134* 
 
 **Red Dragon Adventure Hooks**
-
-`dice: [](red-dragon-adventures-red-dragon-adventure-hooks-ftd.md#^red-dragon-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

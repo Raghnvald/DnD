@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Blade of Ilneval
+- "Orc Blade of Ilneval"
 ---
-# [Orc Blade of Ilneval](3-Mechanics\CLI\bestiary\humanoid/orc-blade-of-ilneval-vgm.md)
+# [Orc Blade of Ilneval](3-Mechanics/CLI/bestiary/humanoid/orc-blade-of-ilneval-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
@@ -42,7 +42,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "60"
 "hit_dice": "8d8 + 24"
 "modifier": !!int "0"
@@ -57,14 +57,17 @@ In addition, orcs have special relationships with two creatures that are sometim
 "saves":
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Orc"
 "cr": "4"
 "traits":
@@ -80,8 +83,8 @@ In addition, orcs have special relationships with two creatures that are sometim
       \ it after these attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage when used with\
-      \ two hands."
+      \ (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage when used\
+      \ with two hands."
     "name": "Longsword"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
@@ -91,7 +94,7 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Ilneval's Command (Recharge 4-6)"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp"
 ```
 ^statblock
 

@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bandit Captain
+- "Bandit Captain"
 ---
-# [Bandit Captain](3-Mechanics\CLI\bestiary\humanoid/bandit-captain.md)
-*Source: Monster Manual p. 344, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Bandit Captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md)
+*Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
 
@@ -34,7 +34,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -51,10 +51,13 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
@@ -62,8 +65,8 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
   - "desc": "The captain makes three melee attacks: two with its scimitar and one\
       \ with its dagger. Or the captain makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
@@ -74,8 +77,7 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain.webp"
 ```
 ^statblock
 

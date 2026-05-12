@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Half-Elf Parents
+- "Half-Elf Parents"
 ---
 # Half-Elf Parents
 *Source: Xanathar's Guide to Everything p. 62* 
 
 **Half-Elf Parents**
-
-`dice: [](half-elf-parents-xge.md#^half-elf-parents)`
 
 | dice: d8 | Parents |
 |----------|---------|

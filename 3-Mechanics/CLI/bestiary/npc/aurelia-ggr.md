@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurelia
+- "Aurelia"
 ---
-# [Aurelia](3-Mechanics\CLI\bestiary\npc/aurelia-ggr.md)
+# [Aurelia](3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 230*  
 
 The angel Aurelia leads the Boros Legion. During the years of her leadership, she has shown a strong appreciation for the ordinary citizens who are often caught in the middle of interguild violence.
@@ -49,18 +49,17 @@ Aurelia doesn't require food, drink, or sleep.
   - "constitution": !!int "14"
   - "charisma": !!int "17"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+14"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+14"
 "damage_resistances": "necrotic; radiant; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
+"gear":
+  - "longsword"
+"senses": "truesight 120 ft., passive Perception 24"
 "languages": "all"
 "cr": "23"
 "traits":
@@ -72,9 +71,9 @@ Aurelia doesn't require food, drink, or sleep.
 "actions":
   - "desc": "Aurelia makes three longsword attacks and uses Leadership."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage when used with\
-      \ two hands, plus 27 (6d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (1d8 + 8) slashing damage, or 13 (1d10 + 8) slashing damage when used\
+      \ with two hands, plus 27 (6d8) radiant damage."
     "name": "Longsword"
   - "desc": "Aurelia utters a few inspiring words to one creature she can see within\
       \ 30 feet of her. If the creature can hear her, it can add a d10 to one attack\
@@ -90,8 +89,7 @@ Aurelia doesn't require food, drink, or sleep.
       \ To do so, Aurelia must see the attacker and be wielding a melee weapon."
     "name": "Parry"
   - "desc": "When Aurelia is subjected to an effect that would move her, knock her\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone), or both, she can use her reaction\
-      \ to be neither moved nor knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ prone, or both, she can use her reaction to be neither moved nor knocked prone."
     "name": "Unyielding"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Aurelia can expend a use to take one of the following actions. Aurelia regains\
@@ -104,12 +102,12 @@ Aurelia doesn't require food, drink, or sleep.
   - "desc": "Aurelia makes one longsword attack."
     "name": "Longsword Attack (Costs 2 Actions)"
   - "desc": "Aurelia targets up to five creatures she can see within 30 feet of her.\
-      \ Each target must succeed on a DC 25 Wisdom saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of her until the end of her next turn. Any target within 5 feet of Aurelia\
-      \ has disadvantage on the saving throw."
+      \ Each target must succeed on a DC 25 Wisdom saving throw or be frightened of\
+      \ her until the end of her next turn. Any target within 5 feet of Aurelia has\
+      \ disadvantage on the saving throw."
     "name": "Frighten Foes (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/aurelia-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/aurelia-ggr.webp"
 ```
 ^statblock

@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Bryn Shander
+- "Bryn Shander"
 ---
 # Bryn Shander
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 32* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/016-01-007-shield-bryn-shander.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/016-01-007-shield-bryn-shander.webp#center)
 
 The first stop for most visitors to Icewind Dale is Bryn Shander, a walled town perched atop a cold, lonely, wind-lashed hill. Bright lanterns suspended over narrow streets twist in the wind and add flecks of color to the town's otherwise drab surroundings.
 
@@ -20,7 +20,7 @@ The walls of the town stand some 30 feet high and are defined by two concentric 
 
 ## Bryn Shander in a Nutshell
 
-![Speaker Duvessa Shane](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/017-01-008-duvessa.webp#center)
+![Speaker Duvessa Shane](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/017-01-008-duvessa.webp#center)
 
 **Friendliness** ❄❄❄**Services** ❄❄❄**Comfort** ❄❄❄
 
@@ -32,11 +32,11 @@ The walls of the town stand some 30 feet high and are defined by two concentric 
 
 ### Leaders
 
-Speaker Duvessa Shane (lawful good human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md)) speaks for the townsfolk. Though relatively young, Duvessa is the head of the Council of Speakers. Sheriff Markham Southwell (lawful good human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) commands the militia.
+Speaker Duvessa Shane (lawful good human [noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)) speaks for the townsfolk. Though relatively young, Duvessa is the head of the Council of Speakers. Sheriff Markham Southwell (lawful good human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) commands the militia.
 
 ### Militia
 
-Bryn Shander can muster up to 250 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 20 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Bryn Shander can muster up to 250 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 20 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** Black antlers above a vertical shaft of golden wheat on a white field, signifying the town's strength and prosperity on the vast, snowy tundra.  
 
@@ -64,8 +64,8 @@ Bryn Shander is connected to Easthaven by the Eastway, a snow-covered road. In a
 ## Locations in Bryn Shander
 
 > [!gallery]
-> ![Map 1.2: Bryn Shander](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/018-map-1-2-bryn-shander.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/019-map-1-2-bryn-shander-player.webp#gallery)
+> ![Map 1.2: Bryn Shander](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/018-map-1-2-bryn-shander.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/019-map-1-2-bryn-shander-player.webp#gallery)
 
 The following locations marked on map 1.2 are just a few of the places the characters might visit during their stay in Bryn Shander.
 
@@ -73,19 +73,19 @@ The following locations marked on map 1.2 are just a few of the places the chara
 
 *Smithy and outfitter*
 
-This combination shop and smithy stands just north of the main square. Garn the Hammer (lawful good shield dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) manufactures the cheapest blades in Ten-Towns, while his sister Elza (lawful good shield dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) sells adventuring supplies—including rations, cold weather gear, ice picks, and snowshoes—to fortune-seekers. Most of the veteran sellswords in Ten-Towns disdain Garn's smithcraft, due to the uninspiring quality of his work. Jokes told about hapless newcomers to Icewind Dale often end with the line "an' 'e was carrying a Blackiron blade, to boot!"
+This combination shop and smithy stands just north of the main square. Garn the Hammer (lawful good shield dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) manufactures the cheapest blades in Ten-Towns, while his sister Elza (lawful good shield dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) sells adventuring supplies—including rations, cold weather gear, ice picks, and snowshoes—to fortune-seekers. Most of the veteran sellswords in Ten-Towns disdain Garn's smithcraft, due to the uninspiring quality of his work. Jokes told about hapless newcomers to Icewind Dale often end with the line "an' 'e was carrying a Blackiron blade, to boot!"
 
 ### House of the Morninglord
 
-![Sheriff Markham Southwell](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/020-01-009-markham.webp#center)
+![Sheriff Markham Southwell](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/020-01-009-markham.webp#center)
 
 *Shrine of Amaunator (god of the sun)*
 
-Located near Bryn Shander's northeast market square, this modest converted house serves as a gathering place for worshipers of Amaunator, a god of the sun known to take both male and female forms. A retired human adventurer named Mishann (neutral good [priest](/3-Mechanics/CLI/bestiary/humanoid/priest.md) of Amaunator) runs the shrine and aspires to see the sun regain its rightful place in the sky over Icewind Dale. She calls Amaunator "the Morninglord," a name that southerners use to describe Lathander, a god of the dawn and rebirth. Mishann views Lathander as a usurper of Amaunator's light and doesn't like it when people confuse the two deities.
+Located near Bryn Shander's northeast market square, this modest converted house serves as a gathering place for worshipers of Amaunator, a god of the sun known to take both male and female forms. A retired human adventurer named Mishann (neutral good [priest](3-Mechanics/CLI/bestiary/humanoid/priest.md) of Amaunator) runs the shrine and aspires to see the sun regain its rightful place in the sky over Icewind Dale. She calls Amaunator "the Morninglord," a name that southerners use to describe Lathander, a god of the dawn and rebirth. Mishann views Lathander as a usurper of Amaunator's light and doesn't like it when people confuse the two deities.
 
 #### Copper Knobberknocker
 
-Mishann rents her attic to a pessimistic rock gnome tinkerer named Copper Knobberknocker (chaotic good rock gnome [acolyte](/3-Mechanics/CLI/bestiary/humanoid/acolyte.md) of Lathander), who begrudgingly helps with services and chores. The two argue incessantly. Copper walks around in a fuzzy suit and hood that he made himself; although it's quite warm, it makes him look like a teddy bear.
+Mishann rents her attic to a pessimistic rock gnome tinkerer named Copper Knobberknocker (chaotic good rock gnome [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md) of Lathander), who begrudgingly helps with services and chores. The two argue incessantly. Copper walks around in a fuzzy suit and hood that he made himself; although it's quite warm, it makes him look like a teddy bear.
 
 If the characters talk to Copper, he tells them he's worried about a friend named Macreadus, who is conducting research at an old cabin in the wilderness (see "Black Cabin"). He says that if the characters find themselves nearby, he would appreciate it if they looked in on Macreadus, who's trying to build a device that could end the Frostmaiden's eternal winter and return summer to Icewind Dale.
 
@@ -97,13 +97,13 @@ The Northlook is the establishment most frequented by mercenaries and adventurer
 
 Characters who hang out in the tavern are likely to hear a rumor or two, which you can determine by rolling on the Ten-Towns Rumors table (See "Ten-Towns Rumors").
 
-The inn's proprietor, a retired sellsword named Scramsax (neutral human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)), knows full well the cycles of an adventurer's life. He often cuts a break for customers who are between jobs, allowing them to stay here on credit and then presenting them with a bill inflated by interest charges to be reckoned with as soon as they make their next payday. Those who don't settle their accounts discover that the old mercenary still knows how to handle a blade, and that he doesn't take "later" for an answer.
+The inn's proprietor, a retired sellsword named Scramsax (neutral human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)), knows full well the cycles of an adventurer's life. He often cuts a break for customers who are between jobs, allowing them to stay here on credit and then presenting them with a bill inflated by interest charges to be reckoned with as soon as they make their next payday. Those who don't settle their accounts discover that the old mercenary still knows how to handle a blade, and that he doesn't take "later" for an answer.
 
 #### Ol' Bitey
 
 Stuffed and mounted on a plaque above the hearth in the common room is a battle-scarred knucklehead trout named Ol' Bitey, who pulled many a fisher into the icy depths of Maer Dualdon before it was finally caught by a human rogue named Kintyre and her companion, a human druid who called himself the Maverick. They hauled Ol' Bitey to the Northlook in the hope of having it cooked for them, but Scramsax bought it from them and had it stuffed instead. Years later, some prankster wizard cast a spell on the stuffed fish so that it turns and snaps at any creature that comes within 5 feet of it. Occasionally, seemingly at random, Ol' Bitey sings the following verse instead:
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/021-01-010-bitey.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/021-01-010-bitey.webp#center)
 
 > [!note] 
 > 
@@ -135,7 +135,7 @@ Three frostbitten shield dwarves approach the characters at the Northlook or in 
 
 The three dwarves work in a mine located in the valley at the base of Kelvin's Cairn. This mine is owned and operated by Clan Battlehammer, and it provides most of the iron for the smithies in Ten-Towns.
 
-The dwarves wear cold weather clothing. Only their eyes are visible. Treat them as [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) who speak Common and Dwarvish; being dwarves, they have darkvision out to a range of 60 feet and resistance to poison damage. They carry ice picks (`dice:1d4|noform|noparens|avg` (`1d4`) piercing damage) instead of clubs. Each dwarf is briefly described below:
+The dwarves wear cold weather clothing. Only their eyes are visible. Treat them as [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) who speak Common and Dwarvish; being dwarves, they have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet and resistance to poison damage. They carry ice picks (`1d4` piercing damage) instead of clubs. Each dwarf is briefly described below:
 
 - Hruna speaks for the group in a voice made raspy by years of smoking. She has lost her right ear and two fingers to frostbite.  
 - Korux stares in silence and doesn't talk much. He has lost three fingers, two toes, and his nose to frostbite.  
@@ -171,7 +171,7 @@ When the characters get within a couple miles of the sled, a blizzard sweeps dow
 > A blizzard descends on you, reducing visibility to twenty feet. Kelvin's Cairn vanishes from view as the blowing snow and howling wind engulf you.
 ^0a8
 
-Ask the players what their characters do during the blizzard, which lasts for `dice:2d4|noform|noparens|avg` (`2d4`) hours. They can stop and wait for the blizzard to pass, or they can press on. If they don't stop and wait, they could lose their bearings and veer off course—or worse, they could become separated (see "Blizzards").
+Ask the players what their characters do during the blizzard, which lasts for `2d4` hours. They can stop and wait for the blizzard to pass, or they can press on. If they don't stop and wait, they could lose their bearings and veer off course—or worse, they could become separated (see "Blizzards").
 
 #### Oobok's Remains
 
@@ -184,7 +184,7 @@ When the characters arrive at the location where the dwarves were forced to aban
 
 The corpse belongs to Oobok the dwarf. The yeti that killed him ate his arms and most of his internal organs before leaving with poor Oobok's severed head. Both Oobok's tracks and the yeti's tracks were erased by the wind. The tracks that are present were left by goblins.
 
-Characters who inspect the tracks around the corpse can, with a successful DC 10 Survival (Wisdom) check, determine that they are fresh (made in the past hour) and belong to a half-dozen Small humanoids wearing snowshoes. The tracks lead south. Characters who follow them for a half-hour catch up to the goblins, who are hindered by the sled they're hauling.
+Characters who inspect the tracks around the corpse can, with a successful DC 10 [Survival](3-Mechanics/CLI/rules/skills.md#Survival) (Wisdom) check, determine that they are fresh (made in the past hour) and belong to a half-dozen Small humanoids wearing snowshoes. The tracks lead south. Characters who follow them for a half-hour catch up to the goblins, who are hindered by the sled they're hauling.
 
 #### Goblins
 
@@ -195,7 +195,7 @@ When the characters find the goblins, read:
 > The creatures you've been following appear to be goblins, based on their stature. All six of them groan, grunt, and curse loudly as they haul the bulky sled toward what appears to be a twenty-foot-tall wagon parked in the snow. Harnessed to this conveyance are two roaring polar bears that don't look happy.
 ^0ac
 
-These goblins were rolling across the tundra when their advance scout, a trained [hawk](/3-Mechanics/CLI/bestiary/beast/hawk.md), spotted the abandoned sled. The one-eared [goblin boss](/3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md), Izobai, sent six [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) forth to seize the sled and its cargo, while she and two [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) stayed behind to guard the wagon and keep an eye on the two [polar bears](/3-Mechanics/CLI/bestiary/beast/polar-bear.md) that pull it.
+These goblins were rolling across the tundra when their advance scout, a trained [hawk](3-Mechanics/CLI/bestiary/beast/hawk.md), spotted the abandoned sled. The one-eared [goblin boss](3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md), Izobai, sent six [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) forth to seize the sled and its cargo, while she and two [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) stayed behind to guard the wagon and keep an eye on the two [polar bears](3-Mechanics/CLI/bestiary/beast/polar-bear.md) that pull it.
 
 At the start of the encounter, the characters are 120 feet behind the sled, and the goblins' wagon is 120 feet farther still. The goblins hauling the sled are too distracted to notice they're being followed, so the characters have surprise.
 
@@ -209,13 +209,13 @@ Izobai fights only in self-defense. If defeat seems inevitable, she uses her tor
 
 ##### Freeing the Bears
 
-A character who succeeds on a DC 12 Wisdom (Animal Handling) check can approach the polar bears without aggravating them and use an action to free one of them from its harness. On a failed check, both bears are hostile toward that character for the rest of the encounter. A freed polar bear does not attack the character who released it, but all other creatures on the battlefield are fair game. It would sooner eat a goblin than anything else, given how badly the goblins have treated the bears. The goblins run away from a freed polar bear as fast as they can.
+A character who succeeds on a DC 12 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check can approach the polar bears without aggravating them and use an action to free one of them from its harness. On a failed check, both bears are hostile toward that character for the rest of the encounter. A freed polar bear does not attack the character who released it, but all other creatures on the battlefield are fair game. It would sooner eat a goblin than anything else, given how badly the goblins have treated the bears. The goblins run away from a freed polar bear as fast as they can.
 
 ##### Treasure
 
-Izobai carries two potions of animal friendship and a sealskin pouch containing 13 sp, 25 cp, and a bone whistle (1 sp). The other goblins each carry `dice:1d6|noform|noparens|avg` (`1d6`) cp in sealskin pouches.
+Izobai carries two potions of animal friendship and a sealskin pouch containing 13 sp, 25 cp, and a bone whistle (1 sp). The other goblins each carry `1d6` cp in sealskin pouches.
 
-![Two surly polar bears pull...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/022-01-011-polar-bears.webp#center "Two surly polar bears pull a goblin wagon across the snowy tundra")
+![Two surly polar bears pull a goblin wagon across the snowy tundra](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/022-01-011-polar-bears.webp#center)
 
 ### Concluding the Quest
 

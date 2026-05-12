@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Davil Starsong
+- "Davil Starsong"
 ---
-# [Davil Starsong](3-Mechanics\CLI\bestiary\npc/davil-starsong-wdh.md)
+# [Davil Starsong](3-Mechanics/CLI/bestiary/npc/davil-starsong-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 199*  
 
 Within the Waterdeep division of the Black Network, Davil is accorded the title of Master of Opportunities and Negotiations because he's good at sniffing out lucrative business deals, and he makes friends easily.
@@ -32,7 +32,7 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
 "subtype": "elf"
 "alignment": "Neutral"
 "ac": !!int "15"
-"ac_class": "chain shirt"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "82"
 "hit_dice": "15d8 + 15"
 "modifier": !!int "2"
@@ -48,40 +48,51 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
   - "dexterity": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Performance"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common, Draconic, Dwarvish, Elvish"
 "cr": "6"
 "traits":
   - "desc": "Davil is a 12th-level spellcaster. His spellcasting ability is Charisma\
       \ (spell save DC 14, +6 to hit with spell attacks) He has the following bard\
-      \ spells prepared:\n\n**Cantrips (at will):** mage hand, mending, minor illusion,\
-      \ vicious mockery\n\n**1st level (4 slots):** cure wounds, disguise self, sleep\n\
-      \n**2nd level (3 slots):** crown of madness, invisibility, suggestion\n\n**3rd\
-      \ level (3 slots):** nondetection, sending, tongues\n\n**4th level (3 slots):**\
-      \ compulsion, freedom of movement, polymorph\n\n**5th level (2 slots):** dominate\
-      \ person, greater restoration\n\n**6th level (1 slots):** Otto's irresistible\
-      \ dance"
+      \ spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md)\n\n**1st\
+      \ level (4 slots):** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\
+      \n**2nd level (3 slots):** [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**3rd level (3 slots):** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md), [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\
+      \n**4th level (3 slots):** [compulsion](3-Mechanics/CLI/spells/compulsion-xphb.md),\
+      \ [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\n**5th level (2 slots):**\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)\n\n**6th\
+      \ level (1 slots):** [Otto's irresistible dance](3-Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Davil has advantage on saving throws against being charmed, and magic\
-      \ can't put him to sleep."
+  - "desc": "Davil has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put him to sleep."
     "name": "Fey Ancestry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60 ft.,\
-      \ one target. *Hit:* 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +5 to hit, range 20/60\
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/davil-starsong-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/davil-starsong-wdh.webp"
 ```
 ^statblock

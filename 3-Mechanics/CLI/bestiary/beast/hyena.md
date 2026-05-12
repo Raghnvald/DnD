@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hyena
+- "Hyena"
 ---
-# [Hyena](3-Mechanics\CLI\bestiary\beast/hyena.md)
+# [Hyena](3-Mechanics/CLI/bestiary/beast/hyena.md)
 *Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -37,7 +37,7 @@ aliases:
   - !!int "5"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -45,15 +45,15 @@ aliases:
 "traits":
   - "desc": "The hyena has advantage on an attack roll against a creature if at least\
       \ one of the hyena's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hyena.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/hyena.webp"
 ```
 ^statblock
 

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phoenix
+- "Phoenix"
 ---
-# [Phoenix](3-Mechanics\CLI\bestiary\elemental/phoenix-mpmm.md)
+# [Phoenix](3-Mechanics/CLI/bestiary/elemental/phoenix-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 206, Mordenkainen's Tome of Foes p. 199*  
 
 > [!quote] A quote from Mordenkainen  
@@ -45,13 +45,13 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
   - "charisma": !!int "9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "16"
 "traits":
@@ -62,7 +62,8 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
       \ or carried.\n\nThe explosion destroys the phoenix's body and leaves behind\
       \ an egg-shaped cinder, which weighs 5 pounds. The cinder deals 21 (6d6) fire\
       \ damage to any creature that touches it, though no more than once per round.\
-      \ The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix."
+      \ The cinder is immune to all damage, and after 1d6 days, it hatches a new\
+      \ phoenix."
     "name": "Fiery Death and Rebirth"
   - "desc": "The phoenix can move through a space as narrow as 1 inch wide without\
       \ squeezing.\n\nAny creature that touches the phoenix or hits it with a melee\
@@ -72,7 +73,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
       \ fire damage.\n\nWith a touch, the phoenix can also ignite flammable objects\
       \ that aren't worn or carried (no action required)."
     "name": "Fire Form"
-  - "desc": "The phoenix doesn't provoke [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)\
+  - "desc": "The phoenix doesn't provoke [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)\
       \ when it flies out of an enemy's reach."
     "name": "Flyby"
   - "desc": "The phoenix sheds bright light in a 60-foot radius and dim light for\
@@ -85,11 +86,11 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "actions":
   - "desc": "The phoenix makes two attacks: one Beak attack and one Fiery Talons attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) fire damage."
     "name": "Beak"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) fire damage."
     "name": "Fiery Talons"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the phoenix can expend a use to take one of the following actions. The phoenix\
@@ -104,7 +105,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp"
 ```
 ^statblock
 

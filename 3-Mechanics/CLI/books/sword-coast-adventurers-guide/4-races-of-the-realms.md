@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Races of the Realms
+- "Races of the Realms"
 ---
 # Races of the Realms
 *Source: Sword Coast Adventurer's Guide, p. 103* 
@@ -45,7 +45,7 @@ Shield dwarves are renowned artisans, particularly in metal and stone. They tend
 
 ### Gold Dwarves
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-02.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-02.webp#center)
 
 Gold dwarves are common in the lands to the south and east. They are formidable warriors, proud of their long traditions, with strong ties to clan. They are gruff and haughty and have a love of fine craftsmanship and an eagerness to trade.
 
@@ -69,15 +69,15 @@ Duergar value toil above all else. Showing emotions other than grim determinatio
 
 Few duergar become adventurers, fewer still on the surface world, because they are a hidebound and suspicious race. Those who leave their subterranean cities are usually exiles. Check with your Dungeon Master to see if you can play a gray dwarf character.
 
-- [Dwarf (Duergar)](/3-Mechanics/CLI/races/duergar-mpmm.md)  
+- [Dwarf (Duergar)](3-Mechanics/CLI/races/dwarf-duergar-mtf.md)  
 
-![Dethek, the letters and numerals of Dwarvish](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/dwarvish-language.webp#center)
+![Dethek, the letters and numerals of Dwarvish](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/dwarvish-language.webp#center)
 
 ### Dwarven Deities
 
 The gods of the dwarves are a pantheon, or clan, collectively known as the Morndinsamman.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-03.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-03.webp#center)
 
 #### Forge Father and Revered Mother
 
@@ -129,7 +129,7 @@ Given the race's love of travel, exploration, and new experiences, many moon elv
 
 ### Sun Elves
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-04.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-04.webp#center)
 
 Sun elves, also known as gold elves, or Ar'Tel'Quessir, have a reputation for being arrogant and self-important. Many of them believe they are Corellon's chosen people and that other races—even other elves—are subordinate to them in skill, significance, and sophistication. They claim the title of "high elves" with pride, and indeed their race is responsible for great, and sometimes terrible, achievements.
 
@@ -180,13 +180,13 @@ Inherent magical abilities and a preference for dark places make drow naturally 
 > **Wild Elves.** The Sy'Tel'Quessir are considered by many elves to be the most strange of their race, having abandoned or lost much of their ancient culture.
 ^rare-elf-subraces
 
-![Espruar, the letters and numerals of Elvish](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/elvish-language.webp#center)
+![Espruar, the letters and numerals of Elvish](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/elvish-language.webp#center)
 
 ### Elven Deities
 
 The gods of the Tel'Quessir, collectively known as the Seldarine, have embodied the ideals of the elf people since time immemorial. They are believed to dwell in the realm of Arvandor on the plane of Arborea.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-05.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-05.webp#center)
 
 #### God of the Elves
 
@@ -226,7 +226,7 @@ Some drow exiles have heard the song of Eilistraee, urging them out onto the sur
 
 ## Halflings
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-06.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-06.webp#center)
 
 Folk think of elves as aloof and graceful, dwarves as fierce and hardy, and of gnomes—if they think of them at all—as clever and shy. Halflings, in contrast, have the reputation of being deft and plucky.
 
@@ -266,7 +266,7 @@ Strongheart halflings have all the racial traits of stouts in the Player's Handb
 > 
 > Because these folk are clannish and mistrustful of outsiders, ghostwise halfling adventurers are rare. Ask your DM if you can play a member of this subrace, which has the halfling traits in the Player's Handbook, plus the subrace traits below.
 > 
-> - [Halfling (Ghostwise)](/3-Mechanics/CLI/races/halfling-ghostwise-scag.md)  
+> - [Halfling (Ghostwise)](3-Mechanics/CLI/races/halfling-ghostwise-scag.md)  
 ^ghostwise-halflings
 
 ### Halfling Deities
@@ -291,7 +291,7 @@ Many halflings have taken to regular worship of Tymora, seeing her as a helping 
 
 ## Humans
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-07.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-07.webp#center)
 
 Humans dwell in every corner of Toril and encompass a full range of cultures and ethnicities. Along the Sword Coast and across the North, humans are the most pervasive of the races and in many places the most dominant. Their cultural and societal makeup runs the gamut, from the cosmopolitan folk who reside in great cities such as Baldur's Gate and Waterdeep to the barbarians who rage throughout the Savage Frontier.
 
@@ -412,7 +412,7 @@ The Ulutiuns are short, dark-haired, golden-skinned people who originated in nor
 > If your Dungeon Master allows this option, then any human from an ethnic group that has its own language is assumed to know that language as well as Common. This ethnic language is treated as a free additional language for such individuals.
 ^option-human-languages
 
-![Thorass, the letters and numerals of Common](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/common-language.webp#center)
+![Thorass, the letters and numerals of Common](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/common-language.webp#center)
 
 #### Humans' Deities
 
@@ -430,7 +430,7 @@ As with all stories of the ancient past, tales of the origins of the dragonborn 
 
 One story relates that the dragonborn were shaped by the ancient dragon-god Io at the same time that Io created the dragons. In the beginning of days, Io fused brilliant astral spirits with the unchecked fury of the elements. The greater spirits became dragons—creatures so powerful, proud, and willful that they were lords of the newborn world. The lesser spirits became the dragonborn. Although smaller in stature, they were no less draconic in nature. This tale stresses the close kinship between dragons and dragonborn, while reinforcing the natural order of things—dragons rule and dragonborn serve, at least according to the dragonborn's former masters.
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-08.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-08.webp#center)
 
 Another legend asserts that Io created the dragons at the birth of the world, but dragonborn did not yet exist. Then, during the Dawn War, Io was killed by the primordial known as Erek-Hus, the King of Terror. With a rough-hewn axe of adamantine, the behemoth split Io from head to tail, cleaving the dragon-god into two equal halves, which rose up as new gods—Bahamut and Tiamat. Droplets of Io's blood, spattered across the world, became the first dragonborn. For some who believe it, this origin story supports the view that dragonborn are clearly inferior to the dragons that were made by Io's loving hand, while others emphasize that the dragonborn arose from Io's own blood—just as two draconic deities arose from the god's severed body. So are the dragonborn not, therefore, like the gods themselves?
 
@@ -462,7 +462,7 @@ Still, some dragonborn do hear the call of the gods of Faerûn and choose to ser
 
 ## Gnomes
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-09.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-09.webp#center)
 
 Small of stature and dwelling in the corners of Faerûn away from prying eyes, gnomes are one of the least populous and influential races in the world, called the "Forgotten Folk" by some. This appellation doesn't bother the gnomes; they generally prefer their anonymity and the protection it affords them.
 
@@ -511,7 +511,7 @@ Deep gnome adventurers are just as curious and daring as those of other races. S
 
 The svirfneblin subrace has the gnome traits in the Player's Handbook, plus the subrace traits below. Unlike other gnomes, svirfneblin tend to be neutral, they weigh 80 to 120 pounds, and they reach maturity at 25 and live 200 to 250 years.
 
-- [Gnome (Deep/Svirfneblin)](/3-Mechanics/CLI/races/deep-gnome-mpmm.md)  
+- [Gnome (Deep/Svirfneblin)](3-Mechanics/CLI/races/gnome-deep-svirfneblin-scag.md)  
 
 ### Gnomish Deities
 
@@ -547,7 +547,7 @@ For most folk in Faerûn, the issue isn't so cut and dried. Half-elves are gener
 
 ### Young Race, Old Roots
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-10.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-10.webp#center)
 
 In the distant past, half-elves were scarce because humans and elves came into contact only infrequently. The ancient elven kingdoms of Cormanthyr and Myth Drannor had significant populations of half-elves. It is only in the past thousand years or so, as the races have intermingled more and more, that the number of half-elves has increased so that they are now found throughout Faerûn.
 
@@ -575,23 +575,23 @@ Many half-elves worship Sune or Hanali Celanil in appreciation for the love thei
 > 
 > Some half-elves in Faerûn have a racial trait in place of the Skill Versatility trait. If your DM allows it, your half-elf character can forgo Skill Versatility and instead take a trait based on your elf parentage:
 > 
-> - [Half-Elf (Variant; Aquatic Elf Descent)](/3-Mechanics/CLI/races/half-elf-aquatic-elf-descent-scag.md)  
-> - [Half-Elf (Variant; Drow Descent)](/3-Mechanics/CLI/races/half-elf-drow-descent-scag.md)  
-> - [Half-Elf (Variant; Moon Elf or Sun Elf Descent)](/3-Mechanics/CLI/races/half-elf-moon-elf-or-sun-elf-descent-scag.md)  
-> - [Half-Elf (Variant; Wood Elf Descent)](/3-Mechanics/CLI/races/half-elf-wood-elf-descent-scag.md)  
+> - [Half-Elf (Variant; Aquatic Elf Descent)](3-Mechanics/CLI/races/half-elf-aquatic-elf-descent-scag.md)  
+> - [Half-Elf (Variant; Drow Descent)](3-Mechanics/CLI/races/half-elf-drow-descent-scag.md)  
+> - [Half-Elf (Variant; Moon Elf or Sun Elf Descent)](3-Mechanics/CLI/races/half-elf-moon-elf-or-sun-elf-descent-scag.md)  
+> - [Half-Elf (Variant; Wood Elf Descent)](3-Mechanics/CLI/races/half-elf-wood-elf-descent-scag.md)  
 ^half-elf-variants
 
 ## Half-Orcs
 
 Half-orcs have existed in the world since before the dawn of recorded history, when orcs and humans first came into contact. Yet, in all that time, they have found few places for themselves in Faerûnian civilization—or, perhaps more accurately, civilization has never made room for them.
 
-Most of the common folk have an aversion to half-orcs based largely on their appearance: anyone who looks that much like an orc, they reason, must be like an orc and should be kept at a distance. Because half-orcs are typically stronger and hardier than their human peers, they can find employment in towns and cities, but their appearance marks them as outsiders . In response to being ostracized, half-orcs either embrace their otherness and take pride in their physical superiority, pull back and try not to draw too much attention to themselves, or give up trying to fit in anywhere and adopt a nomadic lifestyle.
+Most of the common folk have an aversion to half-orcs based largely on their appearance: anyone who looks that much like an orc, they reason, must be like an orc and should be kept at a distance. Because half-orcs are typically stronger and hardier than their human peers, they can find employment in towns and cities, but their appearance marks them as outsiders. In response to being ostracized, half-orcs either embrace their otherness and take pride in their physical superiority, pull back and try not to draw too much attention to themselves, or give up trying to fit in anywhere and adopt a nomadic lifestyle.
 
 Half-orcs in Faerûn have the racial traits of half-orcs in the Player's Handbook. They speak both Common and Orc. The rare written examples of the Orc language use the Dethek alphabet.
 
 ### Blood Will Tell
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-11.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-11.webp#center)
 
 Half-orcs ultimately owe their plight to the deity Gruumsh, the creator of the orcs. Legend has it that when Gruumsh discovered all the territories of the world had been claimed by other races, he swore the orcs would avenge themselves by taking what they wanted by force. The great orc hordes continue to do just that today, appearing periodically from out of the wilderness to raid and scavenge.
 
@@ -639,7 +639,7 @@ Humans with the blood of fiends, most tieflings in Faerûn share a common connec
 
 ### The Mark of Asmodeus
 
-![](/3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-12.webp#center)
+![](3-Mechanics/CLI/books/sword-coast-adventurers-guide/img/scag03-12.webp#center)
 
 During the Spellplague, Asmodeus consumed the divine spark of Azuth and thereby achieved godhood. Subsequently, Asmodeus and a coven of warlocks, the Toril Thirteen, performed a rite wherein the archdevil claimed all tieflings in the world as his own, cursing them to bear "the blood of Asmodeus." This act marked all tieflings as "descendants" of the Lord of the Nine Hells, regardless of their true heritage, and changed them into creatures that resembled their supposed progenitor. The other folk of Faerûn, unnerved by the appearance of these devil-beings, became suspicious of all tieflings and occasionally hostile to them.
 
@@ -681,14 +681,14 @@ Mulhorandi surnames that begin with "Sia" or "Zia" followed by a god's name indi
 > 
 > Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the Player's Handbook. The Dungeon Master may permit the following variants for your tiefling character, although Devil's Tongue, Hellfire, and Winged are mutually exclusive.
 > 
-> - [Tiefling (Variant; Infernal Legacy)](/3-Mechanics/CLI/races/tiefling-infernal-legacy-scag.md)  
-> - [Tiefling (Variant; Devil's Tongue)](/3-Mechanics/CLI/races/tiefling-devils-tongue-scag.md)  
-> - [Tiefling (Variant; Hellfire)](/3-Mechanics/CLI/races/tiefling-hellfire-scag.md)  
-> - [Tiefling (Variant; Winged)](/3-Mechanics/CLI/races/tiefling-winged-scag.md)  
+> - [Tiefling (Variant; Infernal Legacy)](3-Mechanics/CLI/races/tiefling-infernal-legacy-scag.md)  
+> - [Tiefling (Variant; Devil's Tongue)](3-Mechanics/CLI/races/tiefling-devils-tongue-scag.md)  
+> - [Tiefling (Variant; Hellfire)](3-Mechanics/CLI/races/tiefling-hellfire-scag.md)  
+> - [Tiefling (Variant; Winged)](3-Mechanics/CLI/races/tiefling-winged-scag.md)  
 ^tiefling-variants
 
 ### Aasimar
 
 The celestial opposites of the tieflings, aasimar are descended from humans of celestial heritage. Aasimar aren't as prevalent in the Realms as tieflings, but common enough that some become adventurers. Dungeon Masters who want to allow their players to create aasimar characters can find rules for doing so in the Dungeon Master's Guide.
 
-- [Aasimar](/3-Mechanics/CLI/races/aasimar-xphb.md)
+- [Aasimar](3-Mechanics/CLI/races/aasimar-xphb.md)

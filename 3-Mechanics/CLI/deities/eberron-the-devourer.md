@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/tempest
-aliases: 
-- The Devourer
+aliases:
+- "The Devourer"
 ---
 # The Devourer
 *Source: Player's Handbook p. 296* 

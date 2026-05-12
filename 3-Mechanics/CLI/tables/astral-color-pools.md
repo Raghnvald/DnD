@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Astral Color Pools
+- "Astral Color Pools"
 ---
 # Astral Color Pools
 *Source: Dungeon Master's Guide p. 47* 
 
 **Astral Color Pools**
-
-`dice: [](astral-color-pools.md#^astral-color-pools)`
 
 | dice: d20 | Plane | Pool Color |
 |-----------|-------|------------|

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mummy
+- "Mummy"
 ---
-# [Mummy](3-Mechanics\CLI\bestiary\undead/mummy.md)
+# [Mummy](3-Mechanics/CLI/bestiary/undead/mummy.md)
 *Source: Monster Manual p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -76,11 +76,11 @@ A mummy doesn't require air, food, drink, or sleep.
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "the languages it knew in life"
 "cr": "3"
 "actions":
@@ -91,23 +91,23 @@ A mummy doesn't require air, food, drink, or sleep.
       \ (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target\
       \ is a creature, it must succeed on a DC 12 Constitution saving throw or be\
       \ cursed with mummy rot. The cursed target can't regain hit points, and its\
-      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If\
-      \ the curse reduces the target's hit point maximum to 0, the target dies, and\
-      \ its body turns to dust. The curse lasts until removed by the [remove curse](/3-Mechanics/CLI/spells/remove-curse.md)\
+      \ hit point maximum decreases by 10 (3d6) for every 24 hours that elapse.\
+      \ If the curse reduces the target's hit point maximum to 0, the target dies,\
+      \ and its body turns to dust. The curse lasts until removed by the [remove curse](3-Mechanics/CLI/spells/remove-curse.md)\
       \ spell or other magic."
     "name": "Rotting Fist"
   - "desc": "The mummy targets one creature it can see within 60 feet of it. If the\
       \ target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against\
-      \ this magic or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ this magic or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ until the end of the mummy's next turn. If the target fails the saving throw\
-      \ by 5 or more, it is also [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ by 5 or more, it is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for the same duration. A target that succeeds on the saving throw is immune\
       \ to the Dreadful Glare of all mummies (but not mummy lords) for the next 24\
       \ hours."
     "name": "Dreadful Glare"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/mummy.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/mummy.webp"
 ```
 ^statblock
 

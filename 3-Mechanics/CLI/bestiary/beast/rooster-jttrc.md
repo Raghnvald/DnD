@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rooster
+- "Rooster"
 ---
-# [Rooster](3-Mechanics\CLI\bestiary\beast/rooster-jttrc.md)
+# [Rooster](3-Mechanics/CLI/bestiary/beast/rooster-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 206*  
 
 ```statblock
@@ -33,21 +33,21 @@ aliases:
   - !!int "6"
 "speed": "10 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The rooster has advantage on Wisdom (Perception) checks that rely on\
-      \ sight."
+  - "desc": "The rooster has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight."
     "name": "Keen Sight"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ slashing damage."
     "name": "Talons"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/rooster-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/rooster-jttrc.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/elf
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sea Elf
+- "Sea Elf"
 ---
-# [Sea Elf](3-Mechanics\CLI\bestiary\humanoid/sea-elf-skt.md)
+# [Sea Elf](3-Mechanics/CLI/bestiary/humanoid/sea-elf-skt.md)
 *Source: Storm King's Thunder p. 70*  
 
 ```statblock
@@ -34,14 +34,17 @@ aliases:
   - !!int "12"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Elvish"
 "cr": "1/8"
 "traits":
-  - "desc": "The sea elf has advantage on saving throws against being charmed, and\
-      \ magic can't put the sea elf to sleep."
+  - "desc": "The sea elf has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put the sea elf to sleep."
     "name": "Fey Ancestry"
   - "desc": "The sea elf can breathe air and water."
     "name": "Amphibious"
@@ -52,6 +55,6 @@ aliases:
     "name": "Spear"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sea-elf-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sea-elf-skt.webp"
 ```
 ^statblock

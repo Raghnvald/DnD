@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pegasus
+- "Pegasus"
 ---
-# [Pegasus](3-Mechanics\CLI\bestiary\celestial/pegasus.md)
+# [Pegasus](3-Mechanics/CLI/bestiary/celestial/pegasus.md)
 *Source: Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.
@@ -59,7 +59,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
   - "wisdom": !!int "4"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "understands Celestial, Common, Elvish, and Sylvan but can't speak"
@@ -70,7 +70,7 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
     "name": "Hooves"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/pegasus.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/pegasus.webp"
 ```
 ^statblock
 

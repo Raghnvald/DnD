@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/war
-aliases: 
-- Dol Dorn
+aliases:
+- "Dol Dorn"
 ---
 # Dol Dorn
 *Source: Player's Handbook p. 296* 

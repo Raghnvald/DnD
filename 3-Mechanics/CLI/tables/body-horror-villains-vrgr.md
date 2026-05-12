@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Body Horror Villains
+- "Body Horror Villains"
 ---
 # Body Horror Villains
 *Source: Van Richten's Guide to Ravenloft p. 45* 
 
 **Body Horror Villains**
-
-`dice: [](body-horror-villains-vrgr.md#^body-horror-villains)`
 
 | dice: d10 | Villain |
 |-----------|---------|

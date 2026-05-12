@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Glyster
+- "Glyster"
 ---
-# [Glyster](3-Mechanics\CLI\bestiary\npc/glyster-wdmm.md)
+# [Glyster](3-Mechanics/CLI/bestiary/npc/glyster-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 241*  
 
 ```statblock
@@ -39,14 +39,15 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "lightning"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "15"
 "traits":
@@ -58,17 +59,17 @@ aliases:
   - "desc": "Glyster can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d6 + 7) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Glyster's choice that is within 120 feet of Glyster\
-      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened\
+      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Glyster's\
@@ -76,10 +77,10 @@ aliases:
     "name": "Frightful Presence"
   - "desc": "Glyster uses one of the following breath weapons.\n\n- **Lightning Breath.**\
       \ Glyster exhales lightning in a 90-foot line that is 5 feet wide. Each creature\
-      \ in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **Repulsion Breath.** Glyster exhales repulsion energy in a 30-foot cone.\
-      \ Each creature in that area must succeed on a DC 19 Strength saving throw.\
+      \ in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10)\
+      \ lightning damage on a failed save, or half as much damage on a successful\
+      \ one.  \n- **Repulsion Breath.** Glyster exhales repulsion energy in a 30-foot\
+      \ cone. Each creature in that area must succeed on a DC 19 Strength saving throw.\
       \ On a failed save, the creature is pushed 60 feet away from Glyster.  "
     "name": "Breath Weapons (Recharge 5-6)"
   - "desc": "Glyster magically polymorphs into a humanoid or beast that has a challenge\
@@ -96,16 +97,18 @@ aliases:
   \ turn, Glyster can expend a use to take one of the following actions. Glyster regains\
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Glyster makes a Wisdom (Perception) check."
+  - "desc": "Glyster makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "Glyster makes a tail attack."
     "name": "Tail Attack"
   - "desc": "Glyster beats its wings. Each creature within 10 feet of Glyster must\
       \ succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
-      \ damage and be knocked prone. Glyster can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ Glyster can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/glyster-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/glyster-wdmm.webp"
 ```
 ^statblock

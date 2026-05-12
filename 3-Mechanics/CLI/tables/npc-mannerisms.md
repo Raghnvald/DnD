@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- NPC Mannerisms
+- "NPC Mannerisms"
 ---
 # NPC Mannerisms
 *Source: Dungeon Master's Guide p. 90* 
 
 **NPC Mannerisms**
-
-`dice: [](npc-mannerisms.md#^npc-mannerisms)`
 
 | dice: d20 | Mannerism |
 |-----------|-----------|

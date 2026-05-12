@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gynosphinx
+- "Gynosphinx"
 ---
-# [Gynosphinx](3-Mechanics\CLI\bestiary\monstrosity/gynosphinx.md)
+# [Gynosphinx](3-Mechanics/CLI/bestiary/monstrosity/gynosphinx.md)
 *Source: Monster Manual p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.
@@ -79,39 +79,39 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
   - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+12"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 18"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 18"
 "languages": "Common, Sphinx"
 "cr": "11"
 "traits":
   - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). It requires no material\
       \ components to cast its spells. The sphinx has the following wizard spells\
-      \ prepared:\n\n**Cantrips (at will):** [mage hand](/3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation.md)\n\
-      \n**1st level (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic.md),\
-      \ [identify](/3-Mechanics/CLI/spells/identify.md), [shield](/3-Mechanics/CLI/spells/shield.md)\n\
-      \n**2nd level (3 slots):** [darkness](/3-Mechanics/CLI/spells/darkness.md),\
-      \ [locate object](/3-Mechanics/CLI/spells/locate-object.md), [suggestion](/3-Mechanics/CLI/spells/suggestion.md)\n\
-      \n**3rd level (3 slots):** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md),\
-      \ [remove curse](/3-Mechanics/CLI/spells/remove-curse.md), [tongues](/3-Mechanics/CLI/spells/tongues.md)\n\
-      \n**4th level (3 slots):** [banishment](/3-Mechanics/CLI/spells/banishment.md),\
-      \ [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility.md)\n\n\
-      **5th level (1 slots):** [legend lore](/3-Mechanics/CLI/spells/legend-lore.md)"
+      \ prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
+      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [identify](3-Mechanics/CLI/spells/identify.md), [shield](3-Mechanics/CLI/spells/shield.md)\n\
+      \n**2nd level (3 slots):** [darkness](3-Mechanics/CLI/spells/darkness.md), [locate\
+      \ object](3-Mechanics/CLI/spells/locate-object.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\
+      \n**3rd level (3 slots):** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
+      \ [remove curse](3-Mechanics/CLI/spells/remove-curse.md), [tongues](3-Mechanics/CLI/spells/tongues.md)\n\
+      \n**4th level (3 slots):** [banishment](3-Mechanics/CLI/spells/banishment.md),\
+      \ [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md)\n\n\
+      **5th level (1 slots):** [legend lore](3-Mechanics/CLI/spells/legend-lore.md)"
     "name": "Spellcasting"
   - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
-      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
+      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
       \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
     "name": "Inscrutable"
   - "desc": "The sphinx's weapon attacks are magical."
@@ -130,11 +130,11 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
       \ The sphinx can choose not to reroll.  \n- The effects of time are altered\
       \ such that every creature in the lair must succeed on a DC 15 Constitution\
       \ saving throw or become 1d20 years older or younger (the sphinx's choice),\
-      \ but never any younger than 1 year old. A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ but never any younger than 1 year old. A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
       \ spell can restore a creature's age to normal.  \n- The flow of time within\
       \ the lair is altered such that everything within moves up to 10 years forward\
       \ or backward (sphinx's choice). Only the sphinx is immediately aware of the\
-      \ time change. A [wish](/3-Mechanics/CLI/spells/wish.md) spell can return the\
+      \ time change. A [wish](3-Mechanics/CLI/spells/wish.md) spell can return the\
       \ caster and up to seven other creatures designated by the caster to their normal\
       \ time.  \n- The sphinx shifts itself and up to seven other creatures it can\
       \ see within in its lair to another plane of existence. Once outside its lair,\
@@ -155,7 +155,7 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/gynosphinx.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gynosphinx.webp"
 ```
 ^statblock
 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tortle
+- "Tortle"
 ---
-# [Tortle](3-Mechanics\CLI\bestiary\humanoid/tortle-mpmm.md)
+# [Tortle](3-Mechanics/CLI/bestiary/humanoid/tortle-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -43,10 +43,13 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
+"gear":
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 11"
 "languages": "Aquan, Common"
 "cr": "1/4"
@@ -54,8 +57,8 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - "desc": "The tortle can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
@@ -66,7 +69,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
     "name": "Light Crossbow"
   - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4\
       \ bonus to AC and has advantage on Strength and Constitution saving throws.\
-      \ While in its shell, the tortle is [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+      \ While in its shell, the tortle is [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
       \ its speed is 0 and can't increase, it has disadvantage on Dexterity saving\
       \ throws, it can't take reactions, and the only action it can take is a bonus\
       \ action to emerge."
@@ -74,7 +77,7 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/tortle-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/tortle-mpmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Amphisbaena
+- "Amphisbaena"
 ---
-# [Amphisbaena](3-Mechanics\CLI\bestiary\monstrosity/amphisbaena-gos.md)
+# [Amphisbaena](3-Mechanics/CLI/bestiary/monstrosity/amphisbaena-gos.md)
 *Source: Ghosts of Saltmarsh p. 230*  
 
 Found in Danger at Dunwater, these strange reptiles have a head at either end of their serpentine bodies, each one equipped with venomous fangs. To move, an amphisbaena uses one head to grip the neck of its other head, forming a hoop that rolls over the ground.
@@ -48,13 +48,13 @@ Found in Danger at Dunwater, these strange reptiles have a head at either end of
 "actions":
   - "desc": "The amphisbaena makes two bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
-      \ + 4) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 3 (1d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 3 (1d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Bite"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/amphisbaena-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/amphisbaena-gos.webp"
 ```
 ^statblock

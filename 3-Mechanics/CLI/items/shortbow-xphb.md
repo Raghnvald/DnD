@@ -7,16 +7,16 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Shortbow"
 ---
 # Shortbow
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/shortbow.webp#right)
+![](3-Mechanics/CLI/items/img/shortbow.webp#right)
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

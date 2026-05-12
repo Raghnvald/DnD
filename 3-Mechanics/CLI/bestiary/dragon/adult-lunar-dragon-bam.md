@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Lunar Dragon
+- "Adult Lunar Dragon"
 ---
-# [Adult Lunar Dragon](3-Mechanics\CLI\bestiary\dragon/adult-lunar-dragon-bam.md)
-*Source: Boo's Astral Menagerie p. 34, Vecna: Eve of Ruin*  
+# [Adult Lunar Dragon](3-Mechanics/CLI/bestiary/dragon/adult-lunar-dragon-bam.md)
+*Source: Boo's Astral Menagerie p. 34*  
 
 Lunar dragons (also known as moon dragons or phase dragons) are capricious, xenophobic creatures that make their lairs inside desolate moons by burrowing through the rock.
 
@@ -68,14 +68,14 @@ The cave complex where a lunar dragon makes its lair contains ample space for fo
 "actions":
   - "desc": "The dragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) piercing damage plus 3 (1d6) cold damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) piercing damage plus 3 (1d6) cold damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) bludgeoning damage."
     "name": "Tail"
   - "desc": "The dragon exhales a blast of frost in a 60-foot cone. Each creature\
       \ in the cone must make a DC 18 Constitution saving throw. On a failed save,\
@@ -89,6 +89,22 @@ The cave complex where a lunar dragon makes its lair contains ample space for fo
       \ incorporeal, the dragon has resistance to bludgeoning, piercing, and slashing\
       \ damage."
     "name": "Phase (3/Day)"
+"regional_effects":
+  - "desc": "The region containing an ancient or adult lunar dragon's lair is warped\
+      \ by the dragon's magic, which produces one or more of the following effects:\n\
+      \n- **Black Frost.** A thin layer of black frost covers the ground, which kills\
+      \ all ordinary plants growing within 6 miles of the lair if the dragon is ancient,\
+      \ or within 3 miles if the dragon is an adult.  \n- **Haunting Moan.** A haunting\
+      \ sound gets louder or fainter (dragon's choice) the closer one gets to the\
+      \ lair. The moan is audible 6 miles from the lair if the dragon is ancient,\
+      \ or 3 miles if the dragon is an adult.  \n- **Moon Devils.** Swirling funnels\
+      \ of dust and frost known as moon devils crisscross the area within 1 mile of\
+      \ the lair, intercepting other creatures they encounter. A moon devil is a free-willed\
+      \ air elemental that deals cold damage instead of bludgeoning damage.  \n\n\
+      If the dragon dies, the moaning stops, the moon devils dissipate, and the black\
+      \ frost disappears over the course of 1d10 days, allowing plant life in the\
+      \ area to recover."
+    "name": ""
 "legendary_description": "Legendary Action Uses: 2. Immediately after another creature's\
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
@@ -102,7 +118,6 @@ The cave complex where a lunar dragon makes its lair contains ample space for fo
     "name": "Treacherous Ice"
 "source":
   - "BAM"
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-lunar-dragon-bam.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-lunar-dragon-bam.webp"
 ```
 ^statblock

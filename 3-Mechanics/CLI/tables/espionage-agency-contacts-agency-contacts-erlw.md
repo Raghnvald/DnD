@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Espionage Agency Contacts; Agency Contacts
+- "Espionage Agency Contacts; Agency Contacts"
 ---
 # Espionage Agency Contacts; Agency Contacts
 *Source: Eberron: Rising from the Last War p. 78* 
 
 **Agency Contacts**
-
-`dice: [](espionage-agency-contacts-agency-contacts-erlw.md#^agency-contacts)`
 
 | dice: d8 | Contact |
 |----------|---------|
@@ -23,5 +21,5 @@ aliases:
 | 5 | A hotheaded former soldier who would prefer a return to open warfare instead of this so-called "Shadow War" |
 | 6 | A battle-scarred field agent who would do almost anything to prevent a return to the horrors of the Last War |
 | 7 | A bored but effective manager who refuses to be impressed by anything you do or shocked by anything that happens to you |
-| 8 | A mysterious voice on the other end of a [speaking stone](/3-Mechanics/CLI/items/speaking-stone-erlw.md) |
+| 8 | A mysterious voice on the other end of a [speaking stone](3-Mechanics/CLI/items/speaking-stone-erlw.md) |
 ^agency-contacts

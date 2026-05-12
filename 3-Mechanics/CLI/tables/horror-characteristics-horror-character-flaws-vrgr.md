@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Horror Characteristics; Horror Character Flaws
+- "Horror Characteristics; Horror Character Flaws"
 ---
 # Horror Characteristics; Horror Character Flaws
 *Source: Van Richten's Guide to Ravenloft p. 32* 
 
 **Horror Character Flaws**
-
-`dice: [](horror-characteristics-horror-character-flaws-vrgr.md#^horror-character-flaws)`
 
 | dice: d12 | Flaw |
 |-----------|------|

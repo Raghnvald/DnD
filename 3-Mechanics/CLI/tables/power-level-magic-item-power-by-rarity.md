@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Power Level; Magic Item Power by Rarity
+- "Power Level; Magic Item Power by Rarity"
 ---
 # Power Level; Magic Item Power by Rarity
 *Source: Dungeon Master's Guide p. 285* 

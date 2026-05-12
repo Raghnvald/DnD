@@ -16,14 +16,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Venomous Snake
+- "Giant Venomous Snake"
 ---
-# [Giant Venomous Snake](3-Mechanics\CLI\bestiary\beast/giant-venomous-snake-xmm.md)
+# [Giant Venomous Snake](3-Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md)
 *Source: Monster Manual (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Venomous Snake (XMM)"
@@ -43,19 +43,19 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "40 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception\
-  \ 12"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 6 (1d4 + 4) Piercing damage\
-      \ plus 4 (1d8) Poison damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 6 (1d4 + 4) Piercing\
+      \ damage plus 4 (1d8) Poison damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-venomous-snake-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-venomous-snake-xmm.webp"
 ```
 ^statblock
 

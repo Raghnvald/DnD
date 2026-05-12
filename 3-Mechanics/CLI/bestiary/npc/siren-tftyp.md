@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Siren
+- "Siren"
 ---
-# [Siren](3-Mechanics\CLI\bestiary\npc/siren-tftyp.md)
+# [Siren](3-Mechanics/CLI/bestiary/npc/siren-tftyp.md)
 *Source: Tales from the Yawning Portal p. 243*  
 
 Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as evidence of Acererak's heartless sense of humor. This mysterious fey creature yearns to be released, but an enchantment laid on her by the demilich prevents her from telling visitors how to accomplish that task. If anyone succeeds in freeing her, she vows to be a lifelong friend.
@@ -35,22 +35,26 @@ Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as 
   - !!int "16"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Medicine"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "3"
 "traits":
   - "desc": "Siren's innate spellcasting ability is Charisma (spell save DC 13). She\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**1/day each:** charm person, fog cloud, greater invisibility, polymorph (self\
-      \ only)"
+      \n**1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (self only)"
     "name": "Innate Spellcasting"
   - "desc": "Siren can breathe air and water."
     "name": "Amphibious"
@@ -58,15 +62,16 @@ Imprisoned inside a mist-filled chamber in the Tomb of Horrors, Siren serves as 
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Shortsword"
   - "desc": "Siren touches one creature she can see within 5 feet of her. The creature\
       \ must succeed on a DC 13 Intelligence saving throw or take 13 (3d6 + 3) psychic\
-      \ damage and be stunned until the start of Siren's next turn."
+      \ damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) until\
+      \ the start of Siren's next turn."
     "name": "Stupefying Touch"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/siren-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/siren-tftyp.webp"
 ```
 ^statblock

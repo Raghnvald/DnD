@@ -11,10 +11,20 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/githyanki
+- ttrpg-cli/spell/race/githzerai
+- ttrpg-cli/spell/race/kobold
+- ttrpg-cli/spell/reward/kruphixs-devotee
+- ttrpg-cli/spell/reward/kruphixs-disciple
 - ttrpg-cli/spell/school/conjuration
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subrace/elf-high
+- ttrpg-cli/spell/subrace/merfolk-ixalan-blue
+- ttrpg-cli/spell/subrace/merfolk-zendikar-cosi-creed
+- ttrpg-cli/spell/subrace/merfolk-zendikar-ula-creed
+- ttrpg-cli/spell/subrace/tiefling-mammon
+- ttrpg-cli/spell/subrace/tiefling-mephistopheles
 classes:
 - Bard (Magical Secrets)
 - Fighter (Eldritch Knight)
@@ -23,7 +33,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Mage Hand
+- "Mage Hand"
 ---
 # Mage Hand
 *cantrip, Conjuration*  
@@ -40,6 +50,6 @@ You can use your action to control the hand. You can use the hand to manipulate 
 
 The hand can't attack, activate magic items, or carry more than 10 pounds.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 256. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

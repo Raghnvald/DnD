@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rot Troll
+- "Rot Troll"
 ---
-# [Rot Troll](3-Mechanics\CLI\bestiary\giant/rot-troll-mpmm.md)
+# [Rot Troll](3-Mechanics/CLI/bestiary/giant/rot-troll-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
@@ -50,11 +50,11 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "4"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "necrotic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Giant"
 "cr": "9"
 "traits":
@@ -65,8 +65,8 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "actions":
   - "desc": "The troll makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
-      \ + 4) piercing damage plus 16 (3d10) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d10 + 4) piercing damage plus 16 (3d10) necrotic damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage plus 7 (2d6) necrotic damage."
@@ -74,7 +74,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp"
 ```
 ^statblock
 

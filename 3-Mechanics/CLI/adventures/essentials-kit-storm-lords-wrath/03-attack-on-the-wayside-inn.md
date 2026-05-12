@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Attack on the Wayside Inn
+- "Attack on the Wayside Inn"
 ---
 # Attack on the Wayside Inn
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -25,8 +25,8 @@ The bartender is Backes Dunfield, a human with a scarred face and a crooked smil
 The cook is Cooragh Struckt, a half-orc who has been a close friend and confidante of Martisha for many years. Cooragh is famous for her incredibly tasty, and alarmingly well-spiced, stews and meat pies.
 
 > [!gallery]
-> ![Map 2: Wayside Inn](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/003-ivsrz-map-wayside-inn-final_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/004-unnbj-map-wayside-inn_player.webp#gallery)
+> ![Map 2: Wayside Inn](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/003-ivsrz-map-wayside-inn-final_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/004-unnbj-map-wayside-inn_player.webp#gallery)
 
 ### Undead Attack
 
@@ -43,11 +43,11 @@ The smaller doorway leads into a cloak room, and another door bars the way into 
 
 #### Monsters
 
-The attacking creatures are comprised of 1 [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md) per player character, and 1 [wraith](/3-Mechanics/CLI/bestiary/undead/wraith.md) per every two characters (rounded down), excluding sidekicks. The zombies are the only ones attacking the building. The wraiths come out of the darkness after the party approaches the zombies.
+The attacking creatures are comprised of 1 [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) per player character, and 1 [wraith](3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) per every two characters (rounded down), excluding sidekicks. The zombies are the only ones attacking the building. The wraiths come out of the darkness after the party approaches the zombies.
 
 The zombies don't notice the party until the adventurers are within 60 feet of them, or until the party attacks. Then all the monsters turn their focus from the building to the party, who are easier to reach.
 
-If the zombies are defeated and examined, each bears a brand on its forehead in the shape of a skull. A successful DC 15 Intelligence (Religion) check reveals that this mark was probably used as part of a ritual to create the creatures, and that it is similar to the symbol of the death god Myrkul.
+If the zombies are defeated and examined, each bears a brand on its forehead in the shape of a skull. A successful DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check reveals that this mark was probably used as part of a ritual to create the creatures, and that it is similar to the symbol of the death god Myrkul.
 
 #### Inn Occupants
 

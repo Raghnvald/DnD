@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Water Elemental
+- "Water Elemental"
 ---
-# [Water Elemental](3-Mechanics\CLI\bestiary\elemental/water-elemental.md)
+# [Water Elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md)
 *Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
@@ -60,13 +60,13 @@ An elemental doesn't require air, food, drink, or sleep.
 "speed": "30 ft., swim 90 ft."
 "damage_resistances": "acid; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Aquan"
 "cr": "5"
 "traits":
@@ -83,20 +83,20 @@ An elemental doesn't require air, food, drink, or sleep.
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "Each creature in the elemental's space must make a DC 15 Strength saving\
-      \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it\
-      \ is Large or smaller, it is also [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If\
+      \ it is Large or smaller, it is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ and unable to breathe unless it can breathe water. If the saving throw is\
       \ successful, the target is pushed out of the elemental's space.\n\nThe elemental\
       \ can grapple one Large creature or up to two Medium or smaller creatures at\
-      \ one time. At the start of each of the elemental's turns, each target [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the\
-      \ elemental can pull a creature or object out of it by taking an action to make\
-      \ a DC 14 Strength check and succeeding."
+      \ one time. At the start of each of the elemental's turns, each target [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of\
+      \ the elemental can pull a creature or object out of it by taking an action\
+      \ to make a DC 14 Strength check and succeeding."
     "name": "Whelm (Recharge 4-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-elemental.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/water-elemental.webp"
 ```
 ^statblock
 

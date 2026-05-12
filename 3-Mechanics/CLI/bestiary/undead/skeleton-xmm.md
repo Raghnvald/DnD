@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeleton
+- "Skeleton"
 ---
-# [Skeleton](3-Mechanics\CLI\bestiary\undead/skeleton-xmm.md)
+# [Skeleton](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
@@ -31,8 +31,6 @@ Skeletons are reanimated Humanoid bones bearing the equipment they had in life. 
 Skeletons rise at the summons of necromancers and foul spirits. Whether they're the remains of the ancient dead or fresh bones bound to morbid ambitions, they commit deathless work for whatever forces reanimated them, often serving as guardians, soldiers, or laborers. In rare cases, skeletons are reanimated but given no particular direction. Roll on or choose a result from the Skeleton Pantomimes table to inspire how undirected skeletons behave.
 
 **Skeleton Pantomimes**
-
-`dice: [](skeleton-xmm.md#^skeleton-pantomimes)`
 
 | dice: 1d6 | Left to Its Own Devices, the Skeleton... |
 |-----------|------------------------------------------|
@@ -63,14 +61,18 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage."
     "name": "Shortsword"
   - "desc": "*Ranged Attack Roll:* +5, range 80/320 ft. *Hit:* 6 (1d6 + 3) Piercing\
       \ damage."
@@ -78,7 +80,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp"
 ```
 ^statblock
 

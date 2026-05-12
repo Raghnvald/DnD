@@ -8,10 +8,9 @@ tags:
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/ship
 aliases:
-- Sailing Ship
+- "Sailing Ship"
 ---
 # Sailing Ship
-%%-- Embedded content starts on the next line. --%%
 *Source: Ghosts of Saltmarsh p. 192*  
 
 Sailing ships are fast-moving designs focused on travel.
@@ -29,9 +28,9 @@ A sailing ship has the following features:
 
 A sailing ship requires a large crew to properly sail the vessel. If the characters are guests on a sailing ship, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
 
-- One captain ([bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md))  
-- Four other officers: a first mate, a bosun, a quartermaster, and a cook ([nobles](/3-Mechanics/CLI/bestiary/humanoid/noble.md))  
-- Twenty-five sailors ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md))  
+- One captain (bandit captain)  
+- Four other officers: a first mate, a bosun, a quartermaster, and a cook (nobles)  
+- Twenty-five sailors (commoners)  
 
 ## 1. Main Deck
 
@@ -40,7 +39,7 @@ The main deck of the ship has the following features:
 - **Mangonel.** Sailing ships have one mangonel (DMG, ch. 8) attached to the deck. Each weapon has 10 mangonel stones stacked and secured near it.  
 - **Hatch.** A covered, 10-foot-square opening leads to the lower deck (area W8).  
 - **Railing.** The main deck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.  
-- **Rowboats.** Four [rowboats](/3-Mechanics/CLI/vehicles/rowboat.md) are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.  
+- **Rowboats.** Four [rowboats](3-Mechanics/CLI/vehicles/rowboat.md) are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.  
 
 ## 2. Officers' Quarters
 
@@ -100,7 +99,7 @@ The ship's supply of weapons and armor is held in this cabin. Its walls are fitt
 
 ```ad-statblock
 title: Sailing Ship
-![](/3-Mechanics/CLI/vehicles/token/sailing-ship.webp#token)
+![](3-Mechanics/CLI/vehicles/token/sailing-ship.webp#token)
 *Gargantuan vehicle (100 ft. by 20 ft.); sea*
 
 - **Creature Capacity** 30 crew, 20 passengers
@@ -146,13 +145,13 @@ Move up to the speed of its sails, with one 90-degree turn. If the helm is destr
 - **Armor Class** 15
 - **Hit Points** 50
 
-*Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `+6` to hit, range 120/480 ft., one target. *Hit:* 16 (`3d10`) piercing damage.
 
 ## Weapon: Mangonel
 
 - **Armor Class** 15
 - **Hit Points** 100
 
-*Ranged Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. *Hit:* `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) bludgeoning damage.
+*Ranged Weapon Attack:* `+5` to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. *Hit:* 27 (`5d10`) bludgeoning damage.
 ```
 ^statblock

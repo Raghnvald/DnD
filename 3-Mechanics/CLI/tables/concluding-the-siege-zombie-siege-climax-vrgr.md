@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Concluding the Siege; Zombie Siege Climax
+- "Concluding the Siege; Zombie Siege Climax"
 ---
 # Concluding the Siege; Zombie Siege Climax
 *Source: Van Richten's Guide to Ravenloft p. 105* 
 
 **Zombie Siege Climax**
-
-`dice: [](concluding-the-siege-zombie-siege-climax-vrgr.md#^zombie-siege-climax)`
 
 | dice: d4 | Climax |
 |----------|--------|

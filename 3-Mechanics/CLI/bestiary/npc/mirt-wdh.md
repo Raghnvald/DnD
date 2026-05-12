@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mirt
+- "Mirt"
 ---
-# [Mirt](3-Mechanics\CLI\bestiary\npc/mirt-wdh.md)
+# [Mirt](3-Mechanics/CLI/bestiary/npc/mirt-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 211*  
 
 Once known as Mirt the Merciless and the Old Wolf, Mirt made a fortune and carved out a reputation as an adventurer and philanderer. Today, an older and wiser Mirt serves as one of the Masked Lords, a Harper, and a close advisor to Laeral Silverhand. The years have not worn him down, and though he has grown soft in the flesh, he remains deceptively strong, vigorous, and clear of mind. Mirt has survived the passing of centuries by means of magic, and of all the Masked Lords, he is the least concerned with concealing his identity.
@@ -32,7 +32,7 @@ In addition to his other magical gear, Mirt owns a Lord's ensemble (see appendix
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "bracers of defense"
+"ac_class": "[bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md)"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "4"
@@ -48,22 +48,27 @@ In addition to his other magical gear, Mirt owns a Lord's ensemble (see appendix
   - "dexterity": !!int "8"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+8"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
+"gear":
+  - "[+1 dagger](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
+  - "[+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Dwarvish"
 "cr": "9"
 "traits":
-  - "desc": "Mirt wears bracers of defense and a ring of regeneration. He wields a\
-      \ +1 longsword and a +1 dagger."
+  - "desc": "Mirt wears [bracers of defense](3-Mechanics/CLI/items/bracers-of-defense-xdmg.md)\
+      \ and a [ring of regeneration](3-Mechanics/CLI/items/ring-of-regeneration-xdmg.md).\
+      \ He wields a [+1 longsword](3-Mechanics/CLI/items/1-weapon-xdmg.md) and a [+1\
+      \ dagger](3-Mechanics/CLI/items/1-weapon-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "A melee weapon deals one extra die of its damage when Mirt hits with\
       \ it (included in the attacks below)."
@@ -71,20 +76,20 @@ In addition to his other magical gear, Mirt owns a Lord's ensemble (see appendix
   - "desc": "If he is subjected to an effect that allows him to make a Dexterity saving\
       \ throw to take only half damage, Mirt instead takes no damage if he succeeds\
       \ on the saving throw, and only half damage if he fails. He can't use this trait\
-      \ if he's incapacitated."
+      \ if he's [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
   - "desc": "Mirt deals an extra 14 (4d6) damage when he hits a target with a weapon\
       \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of Mirt's that isn't incapacitated and Mirt doesn't have\
-      \ disadvantage on the attack roll."
+      \ 5 feet of an ally of Mirt's that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and Mirt doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
   - "desc": "Mirt makes three attacks: two with his +1 longsword and one with his\
       \ +1 dagger."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d8 + 5) slashing damage, or 16 (2d10 + 5) slashing damage when used with\
-      \ two hands."
+      \ (2d8 + 5) slashing damage, or 16 (2d10 + 5) slashing damage when used\
+      \ with two hands."
     "name": "+1 Longsword"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (2d4 + 5) piercing damage. Or Ranged Weapon Attack: +9 to hit, range 20/60\
@@ -96,6 +101,6 @@ In addition to his other magical gear, Mirt owns a Lord's ensemble (see appendix
     "name": "Parry"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/mirt-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/mirt-wdh.webp"
 ```
 ^statblock

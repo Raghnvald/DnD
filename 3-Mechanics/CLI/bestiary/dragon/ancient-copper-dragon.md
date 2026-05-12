@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Copper Dragon
+- "Ancient Copper Dragon"
 ---
-# [Ancient Copper Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-copper-dragon.md)
+# [Ancient Copper Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md)
 *Source: Monster Manual p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -106,14 +106,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "acid"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "21"
@@ -124,17 +124,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (2d10 + 8) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -142,9 +142,9 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Frightful Presence"
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Acid Breath.**\
       \ The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature\
-      \ in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature\
+      \ in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8)\
+      \ acid damage on a failed save, or half as much damage on a successful one.\
+      \  \n- **Slowing Breath.** The dragon exhales gas in a 90-foot cone. Each creature\
       \ in that area must succeed on a DC 22 Constitution saving throw. On a failed\
       \ save, the creature can't use reactions, its speed is halved, and it can't\
       \ make more than one attack on its turn. In addition, the creature can use either\
@@ -167,24 +167,24 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ action to cause one of the following effects:\n\n- The dragon chooses a point\
       \ on the ground that it can see within 120 feet of it. Stone spikes sprout from\
       \ the ground in a 20-foot radius centered on that point. The effect is otherwise\
-      \ identical to the [spike growth](/3-Mechanics/CLI/spells/spike-growth.md) spell\
+      \ identical to the [spike growth](3-Mechanics/CLI/spells/spike-growth.md) spell\
       \ and lasts until the dragon uses this lair action again or until the dragon\
       \ dies.  \n- The dragon chooses a 10-foot-square area on the ground that it\
       \ can see within 120 feet of it. The ground in that area turns into 3-foot-deep\
       \ mud. Each creature on the ground in that area when the mud appears must succeed\
-      \ on a DC 15 Dexterity saving throw or sink into the mud and become [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
+      \ on a DC 15 Dexterity saving throw or sink into the mud and become [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
       \ A creature can take an action to attempt a DC 15 Strength check, freeing itself\
-      \ or another creature within its reach and ending the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ or another creature within its reach and ending the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ condition on a success. Moving 1 foot in the mud costs 2 feet of movement.\
       \ On initiative count 20 on the next round, the mud hardens, and the Strength\
       \ DC to work free increases to 20.  \n\n**Additional Lair Actions.** At your\
-      \ discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon.md)\
-      \ or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md)) copper\
+      \ discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-copper-dragon.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-copper-dragon.md)) copper\
       \ dragon can use one or both of the following additional lair actions while\
       \ in its lair:\n\n- **Laughing Gas.** The dragon chooses a point on the ground\
       \ that it can see within 120 feet of it. A cloud of pink gas fills a 20-foot-radius\
       \ sphere centered on that point. Each creature in that area that fails a DC\
-      \ 15 Wisdom saving throw is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ 15 Wisdom saving throw is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ with laughter until the end of its next turn.  \n- **Torpid Energy.** The\
       \ dragon chooses a creature it can see within 120 feet of it. If the target\
       \ fails a DC 15 Constitution saving throw, its speed is halved, and it can't\
@@ -214,19 +214,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The dragon\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-copper-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-copper-dragon.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/22
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/22
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lady Illmarrow
+- "Lady Illmarrow"
 ---
-# [Lady Illmarrow](3-Mechanics\CLI\bestiary\npc/lady-illmarrow-erlw.md)
+# [Lady Illmarrow](3-Mechanics/CLI/bestiary/npc/lady-illmarrow-erlw.md)
 *Source: Eberron: Rising from the Last War p. 296*  
 
 Lady Illmarrow is a legend—an ancient lich said to dwell in a castle of bone and ice in the coldest regions of the Lhazaar Principalities. Some stories say that she is served by a legion of undead and that she maintains a court of vampires and ghosts in her palace of ice. Other tales claim that when anyone dies in Lhazaar, Illmarrow chooses whether to take their soul before it passes on to the Keeper and Dolurrh.
@@ -116,8 +116,8 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
       \ on attack rolls against Illmarrow until the end of her next turn."
     "name": "Chill Touch (Cantrip)"
   - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one creature. *Hit:*\
-      \ 13 (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target must\
-      \ succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute.\
+      \ 13 (3d6 + 3) slashing damage plus 10 (3d6) cold damage, and the target\
+      \ must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute.\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Paralyzing Claw"
@@ -150,6 +150,6 @@ Though she takes great pleasure in fighting the dragons and elves who destroyed 
     "name": "Poison Breath (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lady-illmarrow-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lady-illmarrow-erlw.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gnome Tables; Gnome Flaws
+- "Gnome Tables; Gnome Flaws"
 ---
 # Gnome Tables; Gnome Flaws
 *Source: Mordenkainen's Tome of Foes p. 114* 
 
 **Gnome Flaws**
-
-`dice: [](gnome-tables-gnome-flaws-mtf.md#^gnome-flaws)`
 
 | dice: d4 | Flaw |
 |----------|------|

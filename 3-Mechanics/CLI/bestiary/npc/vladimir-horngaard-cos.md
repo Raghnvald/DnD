@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vladimir Horngaard
+- "Vladimir Horngaard"
 ---
-# [Vladimir Horngaard](3-Mechanics\CLI\bestiary\npc/vladimir-horngaard-cos.md)
+# [Vladimir Horngaard](3-Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos.md)
 *Source: Curse of Strahd p. 241*  
 
 Vladimir Horngaard joined the Order of the Silver Dragon at a young age and quickly earned the friendship of its founder, the silver dragon Argynvost. When he became a knight of the order, he traveled to distant lands to wage war against the forces of evil. The dragon stayed home and, in the guise of a human noble named Lord Argynvost, brought new initiates into the order.
@@ -41,7 +41,7 @@ Vladimir Horngaard has the statistics of a revenant with the following modificat
 - His Armor Class is 17 (half plate).  
 - He has 192 hit points.  
 - He speaks Common and Draconic.  
-- Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (+9 to hit). It deals `dice:4d6+6|noform|noparens|avg|text(20)` (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) slashing damage with the weapon.  
+- Vladimir wields a +2 greatsword with a hilt sculpted to resemble silver dragon wings and a pommel shaped like a silver dragon's head clutching a black opal between its teeth. As an action, he can make two attacks with the sword (`+9` to hit). It deals 20 (`4d6 + 6`) slashing damage on a hit. Against Strahd, Vladimir deals an extra 14 (`4d6`) slashing damage with the weapon.  
 - Vladimir has a challenge rating of 7 (2,900 XP).  
 
 ## Vladimir Horngaard's Traits
@@ -80,7 +80,7 @@ A revenant doesn't require air, food, drink, or sleep.
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "[half plate armor](/3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
+"ac_class": "half plate armor"
 "hp": !!int "192"
 "hit_dice": "16d8 + 64"
 "modifier": !!int "2"
@@ -99,11 +99,10 @@ A revenant doesn't require air, food, drink, or sleep.
   - "charisma": !!int "7"
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+"gear":
+  - "[+2 greatsword](3-Mechanics/CLI/items/2-weapon.md)"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "7"
 "traits":
@@ -114,10 +113,10 @@ A revenant doesn't require air, food, drink, or sleep.
     "name": "Regeneration"
   - "desc": "When Vladimir's body is destroyed, his soul lingers. After 24 hours,\
       \ the soul inhabits and animates another corpse on the same plane of existence\
-      \ and regains all its hit points. While the soul is bodiless, a [wish](/3-Mechanics/CLI/spells/wish-xphb.md)\
-      \ spell can be used to force the soul to go to the afterlife and not return."
+      \ and regains all its hit points. While the soul is bodiless, a wish spell can\
+      \ be used to force the soul to go to the afterlife and not return."
     "name": "Rejuvenation"
-  - "desc": "Vladimir wields a [+2 greatsword](/3-Mechanics/CLI/items/2-weapon-xdmg.md)\
+  - "desc": "Vladimir wields a [+2 greatsword](3-Mechanics/CLI/items/2-weapon.md)\
       \ with a hilt sculpted to resemble silver dragon wings and a pommel shaped like\
       \ a silver dragon's head clutching a black opal between its teeth. "
     "name": "Special Equipment"
@@ -140,15 +139,14 @@ A revenant doesn't require air, food, drink, or sleep.
       \ slashing damage with this weapon."
     "name": "Greatsword +2"
   - "desc": "Vladimir can target Strahd within 30 feet provided he can see Strahd.\
-      \ Strahd must make a DC 15 Wisdom saving throw. On a failure, Strahd is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ Strahd must make a DC 15 Wisdom saving throw. On a failure, Strahd is paralyzed\
       \ until Vladimir deals damage to him, or until the end of Vladimir's next turn.\
-      \ When the paralysis ends, Strahd is [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of Vladimir for 1 minute. Strahd can repeat the saving throw at the end of\
-      \ each of his turns, with disadvantage if he can see Vladimir, ending the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ condition on itself on a success."
+      \ When the paralysis ends, Strahd is frightened of Vladimir for 1 minute. Strahd\
+      \ can repeat the saving throw at the end of each of his turns, with disadvantage\
+      \ if he can see Vladimir, ending the frightened condition on itself on a success."
     "name": "Vengeful Glare"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/vladimir-horngaard-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/vladimir-horngaard-cos.webp"
 ```
 ^statblock

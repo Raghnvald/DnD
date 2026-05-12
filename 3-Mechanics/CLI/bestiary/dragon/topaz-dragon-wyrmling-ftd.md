@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Topaz Dragon Wyrmling
+- "Topaz Dragon Wyrmling"
 ---
-# [Topaz Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/topaz-dragon-wyrmling-ftd.md)
+# [Topaz Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/topaz-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 223*  
 
 Decay and despair are bound up in the nature of topaz dragons, thanks to the necrotic energy of the Negative Plane that suffuses them. Their psionic power manifests the fundamental entropic principle that mortal beings and their creations are ultimately doomed to death and decomposition, and the dragons' demeanor is typically morbid and curmudgeonly as a result.
@@ -39,8 +39,6 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 
 ### Topaz Dragon Personality Traits
 
-`dice: [](topaz-dragon-wyrmling-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I seek no company other than my own, for no one else can compete with me. |
@@ -54,8 +52,6 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 ^trait
 
 ### Topaz Dragon Ideals
-
-`dice: [](topaz-dragon-wyrmling-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -72,8 +68,6 @@ Use the Topaz Dragon Personality Traits and Topaz Dragon Ideals tables to inspir
 The Topaz Dragon Adventure Hooks table offers suggestions for stories and adventures involving topaz dragons.
 
 ### Topaz Dragon Adventure Hooks
-
-`dice: [](topaz-dragon-wyrmling-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -93,13 +87,11 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
 
 ### Topaz Dragon Wyrmling Connections
 
-`dice: [](topaz-dragon-wyrmling-ftd.md#^connected-creatures)`
-
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
 | 1 | Moved by pity, a giant eagle continues bringing food to an abandoned topaz dragon wyrmling, despite the wyrmling's attempts to eat the eagle. |
 | 2 | A pseudodragon who is fanatical about the kinship of all dragonkind is trying to win a topaz dragon wyrmling's friendship. |
-| 3 | A topaz dragon wyrmling has developed a taste for crab meat and persistently hunts a giant crab that always manages to evade the wyrmling. (The crab might have been the recipient of a druid's [awaken](/3-Mechanics/CLI/spells/awaken-xphb.md) spell.) |
+| 3 | A topaz dragon wyrmling has developed a taste for crab meat and persistently hunts a giant crab that always manages to evade the wyrmling. (The crab might have been the recipient of a druid's awaken spell.) |
 | 4 | A mated pair of griffons found a topaz dragon egg, and they care for it as if it were their own. |
 | 5 | A sea hag is on the hunt for a topaz dragon wyrmling, to be used as a component in a fell ritual. |
 | 6 | A pirate crew keeps a curmudgeonly topaz dragon wyrmling as a beloved mascot. |
@@ -130,38 +122,37 @@ Topaz dragons rarely tolerate any company but their own, and they are usually in
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "damage_resistances": "cold, necrotic"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 15"
+"senses": "blindsight 10 ft., darkvision 120 ft., passive Perception 15"
 "languages": "Draconic"
 "cr": "2"
 "traits":
   - "desc": "The dragon can breathe both air and water."
     "name": "Amphibious"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) piercing damage plus 2 (1d4) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) piercing damage plus 2 (1d4) necrotic damage."
     "name": "Bite"
   - "desc": "The dragon exhales yellowish necrotic energy in a 15-foot cone. Each\
       \ creature in that area must make a DC 11 Constitution saving throw. On a failed\
-      \ save, the creature takes 21 (6d6) necrotic damage and is weakened until the\
-      \ end of its next turn. A weakened creature has disadvantage on Strength-based\
+      \ save, the creature takes 21 (6d6) necrotic damage and is weakened until\
+      \ the end of its next turn. A weakened creature has disadvantage on Strength-based\
       \ ability checks and Strength saving throws, and the creature's weapon attacks\
       \ that rely on Strength deal half damage. On a successful save, the creature\
       \ takes half as much damage and isn't weakened."
     "name": "Desiccating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      **1/day each:** [bane](/3-Mechanics/CLI/spells/bane-xphb.md)"
+      **1/day each:** bane"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/topaz-dragon-wyrmling-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/topaz-dragon-wyrmling-ftd.webp"
 ```
 ^statblock

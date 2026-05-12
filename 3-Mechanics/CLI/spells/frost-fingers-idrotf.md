@@ -3,11 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-spell
 tags:
-- new/compendium/src/5e/idrotf
-- new/spell/level/1st-level
-- new/spell/school/evocation
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/spell/class/bard/magical-secrets
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/school/evocation
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/eldritch-knight
+classes:
+- Bard (Magical Secrets)
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Wizard
 aliases:
-- Frost Fingers
+- "Frost Fingers"
 ---
 # Frost Fingers
 *1st-level, Evocation*  
@@ -18,10 +28,12 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in that area must make a Constitution saving throw, taking `dice:2d8|noform|noparens|avg` (`2d8`) cold damage on a failed save, or half as much damage on a successful one.
+Freezing cold blasts from your fingertips in a 15-foot cone. Each creature in that area must make a Constitution saving throw, taking `2d8` cold damage on a failed save, or half as much damage on a successful one.
 
 The cold freezes nonmagical liquids in the area that aren't being worn or carried.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `dice:1d8|noform|noparens|avg` (`1d8`) for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d8` for each slot level above 1st.
+
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Icewind Dale: Rime of the Frostmaiden p. 318*

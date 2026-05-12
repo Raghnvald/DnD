@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Blue Dragon; Blue Dragon Personality Traits
+- "Creating a Blue Dragon; Blue Dragon Personality Traits"
 ---
 # Creating a Blue Dragon; Blue Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 85* 
 
 **Blue Dragon Personality Traits**
-
-`dice: [](creating-a-blue-dragon-blue-dragon-personality-traits-ftd.md#^blue-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

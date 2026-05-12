@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/death
-aliases: 
-- Laogzed
+aliases:
+- "Laogzed"
 ---
 # Laogzed
 *Source: Player's Handbook p. 296* 

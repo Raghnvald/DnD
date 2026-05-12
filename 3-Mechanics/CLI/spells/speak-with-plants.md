@@ -14,7 +14,7 @@ classes:
 - Druid
 - Ranger
 aliases:
-- Speak with Plants
+- "Speak with Plants"
 ---
 # Speak with Plants
 *3rd-level, Transmutation*  
@@ -33,8 +33,8 @@ Plants might be able to perform other tasks on your behalf, at the DM's discreti
 
 If a plant creature is in the area, you can communicate with it as if you shared a common language, but you gain no magical ability to influence it.
 
-This spell can cause the plants created by the [entangle](/3-Mechanics/CLI/spells/entangle.md) spell to release a [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature.
+This spell can cause the plants created by the [entangle](3-Mechanics/CLI/spells/entangle.md) spell to release a [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 277. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

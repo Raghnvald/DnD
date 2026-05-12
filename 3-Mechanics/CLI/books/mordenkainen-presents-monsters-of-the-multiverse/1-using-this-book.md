@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 aliases:
-- Using This Book
+- "Using This Book"
 ---
 # Using This Book
 *Source: Mordenkainen Presents: Monsters of the Multiverse, p. 4* 

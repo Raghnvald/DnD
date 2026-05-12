@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/sorcerer/shadow
 aliases:
-- Shadow Magic
+- "Shadow Magic"
 ---
 # Shadow Magic
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
@@ -47,17 +47,11 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Shadow Magic (Level 3)
-
 You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.
 
 The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.
 
 **Shadow Sorcerer Quirks**
-
-`dice: [](sorcerer-xphb-shadow-magic-xge.md#^shadow-sorcerer-quirks)`
 
 | dice: d6 | Quirk |
 |----------|-------|
@@ -69,11 +63,13 @@ The power of shadow magic casts a strange pall over your physical presence. The 
 | 6 | You blinked. Once. Last week. |
 ^shadow-sorcerer-quirks
 
+## Subclass Features
+
 ### Eyes of the Dark (Level 1)
 
-Starting at 1st level, you have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
+Starting at 1st level, you have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet.
 
-When you reach 3rd level in this class, you learn the [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md) spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md) created by the spell.
+When you reach 3rd level in this class, you learn the [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spell, which doesn't count against your number of sorcerer spells known. In addition, you can cast it by spending 2 sorcery points or by expending a spell slot. If you cast it with sorcery points, you can see through the [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) created by the spell.
 
 ### Strength of the Grave (Level 1)
 
@@ -83,7 +79,7 @@ After the saving throw succeeds, you can't use this feature again until you fini
 
 ### Hound of Ill Omen (Level 6)
 
-At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [hound of ill omen](/3-Mechanics/CLI/bestiary/monstrosity/hound-of-ill-omen-xge.md) to target one creature you can see within 120 feet of you. The hound uses the [dire wolf](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
+At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [hound of ill omen](3-Mechanics/CLI/bestiary/monstrosity/hound-of-ill-omen-xge.md) to target one creature you can see within 120 feet of you. The hound uses the [dire wolf](3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
 
 - The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
 - It appears with a number of temporary hit points equal to half your sorcerer level.  
@@ -100,4 +96,4 @@ At 14th level, you gain the ability to step from one shadow into another. When y
 
 Starting at 18th level, you can spend 6 sorcery points as a bonus action to magically transform yourself into a shadowy form. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.
 
-You remain in this form for 1 minute. It ends early if you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated), if you die, or if you dismiss it as a bonus action.
+You remain in this form for 1 minute. It ends early if you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), if you die, or if you dismiss it as a bonus action.

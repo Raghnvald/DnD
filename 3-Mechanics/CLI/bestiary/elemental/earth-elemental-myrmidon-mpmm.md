@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Earth Elemental Myrmidon
+- "Earth Elemental Myrmidon"
 ---
-# [Earth Elemental Myrmidon](3-Mechanics\CLI\bestiary\elemental/earth-elemental-myrmidon-mpmm.md)
+# [Earth Elemental Myrmidon](3-Mechanics/CLI/bestiary/elemental/earth-elemental-myrmidon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
 
 ## Elemental Myrmidons
@@ -25,7 +25,7 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "type": "elemental"
 "alignment": "Typically  Neutral"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "127"
 "hit_dice": "17d8 + 51"
 "modifier": !!int "0"
@@ -39,10 +39,13 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"gear":
+  - "[maul](3-Mechanics/CLI/items/maul.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Terran, one language of its creator's choice"
 "cr": "7"
 "actions":
@@ -53,11 +56,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
     "name": "Maul"
   - "desc": "The myrmidon makes one Maul attack. On a hit, the target takes an extra\
       \ 22 (4d10) thunder damage, and the target must succeed on a DC 14 Strength\
-      \ saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Thunderous Strike (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-myrmidon-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-myrmidon-mpmm.webp"
 ```
 ^statblock

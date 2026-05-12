@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Special Purpose; Sentient Item's Communication
+- "Special Purpose; Sentient Item's Communication"
 ---
 # Special Purpose; Sentient Item's Communication
 *Source: Dungeon Master's Guide (2024) p. 226* 
 
 **Sentient Item's Communication**
-
-`dice: [](special-purpose-sentient-items-communication-xdmg.md#^sentient-items-communication)`
 
 | dice: 1d10 | Communication |
 |------------|---------------|

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Boots of False Tracks"
 ---
 # Boots of False Tracks

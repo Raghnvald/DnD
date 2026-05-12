@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+3 Armor"
 - "+3 Breastplate"
 - "+3 Chain Mail"

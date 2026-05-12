@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Berserker Commander
+- "Berserker Commander"
 ---
-# [Berserker Commander](3-Mechanics\CLI\bestiary\humanoid/berserker-commander-xmm.md)
+# [Berserker Commander](3-Mechanics/CLI/bestiary/humanoid/berserker-commander-xmm.md)
 *Source: Monster Manual (2024) p. 37*  
 
 Berserker commanders bear the scars of battle and drive their followers to match their deadly zeal. These commanders tap into a primal magic to enhance their might.
@@ -23,7 +23,7 @@ Berserker commanders bear the scars of battle and drive their followers to match
 *Raging Invaders and Impassioned Warriors*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fighters, and other ferocious warriors.
 
@@ -48,40 +48,43 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
   - "strength": !!int "7"
   - "constitution": !!int "7"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe-xphb.md)"
+  - "six [javelins](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common"
 "cr": "8"
 "traits":
-  - "desc": "While [Bloodied](/3-Mechanics/CLI/conditions.md#Bloodied), the berserker\
-      \ has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on attack\
-      \ rolls and saving throws."
+  - "desc": "While [Bloodied](3-Mechanics/CLI/rules/conditions.md#Bloodied), the berserker\
+      \ has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on\
+      \ attack rolls and saving throws."
     "name": "Bloodied Frenzy"
 "actions":
   - "desc": "The berserker makes three attacks, using Greataxe or Javelin in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 10 (1d12 + 4) Slashing damage,\
-      \ plus 10 (3d6) Thunder damage to the target or another creature within 5 feet\
-      \ of the target."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 10 (1d12 + 4) Slashing\
+      \ damage, plus 10 (3d6) Thunder damage to the target or another creature within\
+      \ 5 feet of the target."
     "name": "Greataxe"
-  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 30/120 ft. *Hit:*\
-      \ 18 (4d6 + 4) Piercing damage, and the target's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
+  - "desc": "*Melee  or Ranged Attack Roll:* +7, reach 5 ft. or range 30/120 ft.\
+      \ *Hit:* 18 (4d6 + 4) Piercing damage, and the target's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
       \ decreases by 5 feet until the start of the berserker's next turn."
     "name": "Javelin"
 "bonus_actions":
-  - "desc": "Each ally within 30 feet of the berserker can take a [Reaction](/3-Mechanics/CLI/variant-rules/reaction-xphb.md)\
-      \ to move up to half the ally's [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack).\
-      \ The berserker can also move up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md)\
-      \ without provoking [Opportunity Attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+  - "desc": "Each ally within 30 feet of the berserker can take a [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md)\
+      \ to move up to half the ally's [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).\
+      \ The berserker can also move up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md)\
+      \ without provoking [Opportunity Attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)."
     "name": "Frenzied Rush"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/berserker-commander-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/berserker-commander-xmm.webp"
 ```
 ^statblock
 

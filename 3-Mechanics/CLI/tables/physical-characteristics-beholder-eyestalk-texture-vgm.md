@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Eyestalk Texture
+- "Physical Characteristics; Beholder Eyestalk Texture"
 ---
 # Physical Characteristics; Beholder Eyestalk Texture
 *Source: Volo's Guide to Monsters p. 8* 
 
 **Beholder Eyestalk Texture**
-
-`dice: [](physical-characteristics-beholder-eyestalk-texture-vgm.md#^beholder-eyestalk-texture)`
 
 | dice: d6 | Eyestalk Texture |
 |----------|------------------|

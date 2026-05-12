@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Fharlanghn
+aliases:
+- "Fharlanghn"
 ---
 # Fharlanghn
 *Source: Player's Handbook p. 295* 

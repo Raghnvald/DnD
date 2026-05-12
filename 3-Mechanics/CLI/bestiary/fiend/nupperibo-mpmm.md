@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nupperibo
+- "Nupperibo"
 ---
-# [Nupperibo](3-Mechanics\CLI\bestiary\fiend/nupperibo-mpmm.md)
+# [Nupperibo](3-Mechanics/CLI/bestiary/fiend/nupperibo-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
 
 > [!quote] A quote from Mordenkainen  
@@ -25,7 +25,7 @@ aliases:
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](3-Mechanics/CLI/bestiary/beast/stirge.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -51,33 +51,33 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
   - !!int "1"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 20 ft. (blind beyond\
-  \ this radius), passive Perception 11"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 20 ft. (blind\
+  \ beyond this radius), passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
 "traits":
   - "desc": "Any creature, other than a devil, that starts its turn within 20 feet\
       \ of one or more nupperibos must succeed on a DC 11 Constitution saving throw\
-      \ or take 5 (2d4) acid damage. A creature within the areas of two or more nupperibos\
-      \ makes the saving throw with disadvantage."
+      \ or take 5 (2d4) acid damage. A creature within the areas of two or more\
+      \ nupperibos makes the saving throw with disadvantage."
     "name": "Cloud of Vermin"
   - "desc": "In the Nine Hells, the nupperibo can flawlessly track any creature that\
       \ has taken damage from any nupperibo's Cloud of Vermin within the previous\
       \ 24 hours."
     "name": "Driven Tracker"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Bite"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/nupperibo-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/nupperibo-mpmm.webp"
 ```
 ^statblock

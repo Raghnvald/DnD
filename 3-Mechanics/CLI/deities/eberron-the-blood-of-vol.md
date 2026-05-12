@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/life
-aliases: 
-- The Blood of Vol
+aliases:
+- "The Blood of Vol"
 ---
 # The Blood of Vol
 *Source: Player's Handbook p. 296* 

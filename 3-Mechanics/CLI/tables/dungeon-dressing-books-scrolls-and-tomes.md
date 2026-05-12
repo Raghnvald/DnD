@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Books, Scrolls, and Tomes
+- "Dungeon Dressing; Books, Scrolls, and Tomes"
 ---
 # Dungeon Dressing; Books, Scrolls, and Tomes
 *Source: Dungeon Master's Guide p. 298* 
 
 **Books, Scrolls, and Tomes**
-
-`dice: [](dungeon-dressing-books-scrolls-and-tomes.md#^books-scrolls-and-tomes)`
 
 | dice: d100 | Contents |
 |------------|----------|

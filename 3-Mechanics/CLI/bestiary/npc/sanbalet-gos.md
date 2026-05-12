@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sanbalet
+- "Sanbalet"
 ---
-# [Sanbalet](3-Mechanics\CLI\bestiary\npc/sanbalet-gos.md)
+# [Sanbalet](3-Mechanics/CLI/bestiary/npc/sanbalet-gos.md)
 *Source: Ghosts of Saltmarsh p. 252*  
 
 In The Sinister Secret of Saltmarsh, Sanbalet is the leader of the land-based half of a smuggling ring. He is a cunning narcissist with an interest in illusion and mind control. He defends the contraband stored in the caves under the haunted house.
@@ -38,6 +38,8 @@ In The Sinister Secret of Saltmarsh, Sanbalet is the leader of the land-based ha
 "skillsaves":
   - "name": "Arcana"
     "desc": "+5"
+"gear":
+  - "dagger"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "1"
@@ -54,6 +56,6 @@ In The Sinister Secret of Saltmarsh, Sanbalet is the leader of the land-based ha
     "name": "Dagger"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sanbalet-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sanbalet-gos.webp"
 ```
 ^statblock

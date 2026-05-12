@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jackalwere
+- "Jackalwere"
 ---
-# [Jackalwere](3-Mechanics\CLI\bestiary\fiend/jackalwere-xmm.md)
+# [Jackalwere](3-Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md)
 *Source: Monster Manual (2024) p. 182*  
 
 ## Jackalwere
@@ -22,15 +22,13 @@ aliases:
 *Shape-Shifting Trickster of the Wilds*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md)  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md)  
 
 Indistinguishable from jackals in their natural form, jackalweres shape-shift to deceive others. These shape-shifters can take three forms: a jackal, a human, or a monstrous hybrid of the two. Jackalweres are easily mistaken for werewolves, but jackalweres aren't supernaturally afflicted—their jackal forms are their natural state. Jackalweres also possess magical gazes capable of putting foes to sleep, allowing jackalweres to play their tricks unimpeded or get the upper hand over threats.
 
 Jackalweres dwell in inhospitable wildernesses and pride themselves on their cleverness. They take offense at those who travel through their lands without leaving a gift of treasure or fresh game. Roll on or choose a result from the Jackalwere Tricks table to inspire how a jackalwere repays such slights.
 
 **Jackalwere Tricks**
-
-`dice: [](jackalwere-xmm.md#^jackalwere-tricks)`
 
 | dice: 1d4 | The Jackalwere Tricks Travelers By... |
 |-----------|---------------------------------------|
@@ -58,32 +56,34 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 14"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 90 ft., passive\
+  \ Perception 14"
 "languages": "Common"
 "cr": "1/2"
 "traits":
-  - "desc": "The jackalwere has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The jackalwere has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the jackalwere's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The jackalwere makes two Rend or Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 5 (1d6 + 2) Piercing\
+      \ damage."
     "name": "Rend (Jackal or Hybrid Form Only)"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 4 (1d4 + 2) Bludgeoning\
+      \ damage."
     "name": "Slam (Human or Hybrid Form Only)"
   - "desc": "*Wisdom Saving Throw:* DC 10, one creature the jackalwere can see within\
       \ 30 feet (Constructs and Undead succeed automatically). *Failure:* The target\
-      \ has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition\
+      \ has the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition\
       \ for 10 minutes or until it takes damage or a creature within 5 feet of it\
       \ takes an action to wake it. *Success:* The target is immune to this jackalwere's\
       \ Sleep Gaze for 24 hours."
@@ -96,7 +96,7 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/jackalwere-xmm.webp"
 ```
 ^statblock
 

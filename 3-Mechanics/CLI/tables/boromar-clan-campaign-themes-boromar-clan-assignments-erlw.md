@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Boromar Clan Campaign Themes; Boromar Clan Assignments
+- "Boromar Clan Campaign Themes; Boromar Clan Assignments"
 ---
 # Boromar Clan Campaign Themes; Boromar Clan Assignments
 *Source: Eberron: Rising from the Last War p. 249* 
 
 **Boromar Clan Assignments**
-
-`dice: [](boromar-clan-campaign-themes-boromar-clan-assignments-erlw.md#^boromar-clan-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

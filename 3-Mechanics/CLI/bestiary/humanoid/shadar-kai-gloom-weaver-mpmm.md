@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadar-kai Gloom Weaver
+- "Shadar-kai Gloom Weaver"
 ---
-# [Shadar-kai Gloom Weaver](3-Mechanics\CLI\bestiary\humanoid/shadar-kai-gloom-weaver-mpmm.md)
+# [Shadar-kai Gloom Weaver](3-Mechanics/CLI/bestiary/humanoid/shadar-kai-gloom-weaver-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 224*  
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -57,16 +57,16 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   - "dexterity": !!int "8"
   - "constitution": !!int "6"
 "damage_immunities": "necrotic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Elvish"
 "cr": "9"
 "traits":
   - "desc": "Beasts and Humanoids (except elves) have disadvantage on saving throws\
       \ while within 10 feet of the shadar-kai."
     "name": "Burden of Time"
-  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
@@ -74,31 +74,30 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
       \ with a use of Spellcasting."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +8 to hit, reach 5 ft. or range 30/120,\
-      \ one target. *Hit:* 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic damage.\
-      \ *Hit or Miss:* The spear magically returns to the shadar-kai's hand immediately\
-      \ after a ranged attack."
+      \ one target. *Hit:* 7 (1d6 + 4) piercing damage plus 26 (4d12) necrotic\
+      \ damage. *Hit or Miss:* The spear magically returns to the shadar-kai's hand\
+      \ immediately after a ranged attack."
     "name": "Shadow Spear"
   - "desc": "The shadar-kai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [arcane eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [mage\
-      \ armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md), [speak\
-      \ with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md)\n\n**1/day each:**\
-      \ [arcane gate](/3-Mechanics/CLI/spells/arcane-gate-xphb.md), [bane](/3-Mechanics/CLI/spells/bane-xphb.md),\
-      \ [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md), [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md),\
-      \ [fear](/3-Mechanics/CLI/spells/fear-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
-      \ [true seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)"
+      \n**At will:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
+      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)\n\n**1/day each:**\
+      \ [arcane gate](3-Mechanics/CLI/spells/arcane-gate.md), [bane](3-Mechanics/CLI/spells/bane.md),\
+      \ [confusion](3-Mechanics/CLI/spells/confusion.md), [darkness](3-Mechanics/CLI/spells/darkness.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
+      \ [true seeing](3-Mechanics/CLI/spells/true-seeing.md)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "When the shadar-kai takes damage, it turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "When the shadar-kai takes damage, it turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ and teleports, along with any equipment it is wearing or carrying, up to 60\
-      \ feet to an unoccupied space it can see. It remains [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+      \ feet to an unoccupied space it can see. It remains [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ until the start of its next turn or until it attacks or casts a spell."
     "name": "Misty Escape (Recharge 6-6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp"
 ```
 ^statblock
 

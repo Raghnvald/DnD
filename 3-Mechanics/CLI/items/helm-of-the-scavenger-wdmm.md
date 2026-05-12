@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Helm of the Scavenger"
 ---
 # Helm of the Scavenger

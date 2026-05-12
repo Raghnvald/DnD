@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/gear/ammunition
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/gear/ammunition
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Dried Leech"
 - "Dried Leech Arrow"
 - "Dried Leech Bolt"
@@ -20,7 +20,7 @@ aliases:
 
 
 
-This leech has been dried and imbued with a mote of animating magic. If you hit a creature with a ranged attack roll using this ammunition, the leech springs to life and sinks its teeth into the target, dealing `dice:1d4|noform|noparens|avg` (`1d4`) piercing damage at the start of each of the target's turns. If the leech deals at least 10 damage or the target dies, the leech falls off. A creature, including the target, can use its action to detach the leech. Once a leech is no longer attached to its target, the leech dies and is no longer magical.
+This leech has been dried and imbued with a mote of animating magic. If you hit a creature with a ranged attack roll using this ammunition, the leech springs to life and sinks its teeth into the target, dealing `1d4` piercing damage at the start of each of the target's turns. If the leech deals at least 10 damage or the target dies, the leech falls off. A creature, including the target, can use its action to detach the leech. Once a leech is no longer attached to its target, the leech dies and is no longer magical.
 
 **Variants**:
 - [Dried Leech Arrow](#Dried%20Leech%20Arrow)

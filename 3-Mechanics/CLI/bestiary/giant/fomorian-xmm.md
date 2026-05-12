@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fomorian
+- "Fomorian"
 ---
-# [Fomorian](3-Mechanics\CLI\bestiary\giant/fomorian-xmm.md)
+# [Fomorian](3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md)
 *Source: Monster Manual (2024) p. 123*  
 
 ## Fomorian
@@ -26,8 +26,6 @@ aliases:
 Once infamous for their magical aptitude, fomorians are giants afflicted with a fey curse. In their pride, they were tricked into invading the Feywild to claim its magic for their own. When the archfey rulers of that realm united, the fomorians were turned back and cursed with supernatural strangeness to make their bodies match their vile souls. Ever since, fomorians have dwelled in the Underdark amid the ruins of their magical cities. The archfey's curse afflicts them still, tormenting them with wandering cankers, lurching organs, and stranger discomforts. Rather than atoning for their offenses, fomorians harness the magic of their curse and turn it against others. Roll on or choose a result from the Fomorian Warping table to inspire the cosmetic effects a creature undergoes while they're affected by a fomorian's Warping Hex.
 
 **Fomorian Warping**
-
-`dice: [](fomorian-xmm.md#^fomorian-warping)`
 
 | dice: 1d4 | The Fomorian's Hex Causes... |
 |-----------|------------------------------|
@@ -60,12 +58,12 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
@@ -76,12 +74,12 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
       \ damage."
     "name": "Stone Club"
   - "desc": "*Wisdom Saving Throw:* DC 16, one creature the fomorian can see within\
-      \ 120 feet. *Failure:* 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
+      \ 120 feet. *Failure:* 21 (6d6) Psychic damage, and the target gains 1 [Exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
       \ level. *Success:* Half damage only."
     "name": "Warping Hex (Recharge 4-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/fomorian-xmm.webp"
 ```
 ^statblock
 

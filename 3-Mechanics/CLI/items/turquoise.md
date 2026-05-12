@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/gear/treasure-gemstone
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Turquoise"
 ---
 # Turquoise

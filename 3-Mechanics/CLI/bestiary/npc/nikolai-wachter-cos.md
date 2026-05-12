@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nikolai Wachter
+- "Nikolai Wachter"
 ---
-# [Nikolai Wachter](3-Mechanics\CLI\bestiary\npc/nikolai-wachter-cos.md)
+# [Nikolai Wachter](3-Mechanics/CLI/bestiary/npc/nikolai-wachter-cos.md)
 *Source: Curse of Strahd p. 110*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Neutral"
 "ac": !!int "15"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "breastplate"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -35,18 +35,20 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+4"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+5"
+"gear":
+  - "rapier"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Nikolai adds 2 to its AC against one melee attack that would hit it.\
@@ -54,6 +56,6 @@ aliases:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nikolai-wachter-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nikolai-wachter-cos.webp"
 ```
 ^statblock

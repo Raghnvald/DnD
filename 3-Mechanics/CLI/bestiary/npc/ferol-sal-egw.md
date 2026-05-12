@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ferol Sal
+- "Ferol Sal"
 ---
-# [Ferol Sal](3-Mechanics\CLI\bestiary\npc/ferol-sal-egw.md)
+# [Ferol Sal](3-Mechanics/CLI/bestiary/npc/ferol-sal-egw.md)
 *Source: Explorer's Guide to Wildemount p. 249*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -34,46 +34,46 @@ aliases:
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "exhaustion, poisoned"
+"gear":
+  - "longbow"
+  - "longsword"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "While in sunlight, Ferol has disadvantage on attack rolls, as well as\
-      \ on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that\
-      \ rely on sight."
+      \ on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Ferol makes two longsword attacks or two longbow attacks. It can use\
       \ its Life Drain in place of one longsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if this effect reduces its hit point maximum to 0.\n\nA humanoid\
-      \ slain by this attack rises 24 hours later as a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
-      \ under Ferol's control, unless the humanoid is restored to life or its body\
-      \ is destroyed. Ferol can have no more than twelve zombies under its control\
-      \ at one time."
+      \ slain by this attack rises 24 hours later as a zombie under Ferol's control,\
+      \ unless the humanoid is restored to life or its body is destroyed. Ferol can\
+      \ have no more than twelve zombies under its control at one time."
     "name": "Life Drain"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ferol-sal-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ferol-sal-egw.webp"
 ```
 ^statblock

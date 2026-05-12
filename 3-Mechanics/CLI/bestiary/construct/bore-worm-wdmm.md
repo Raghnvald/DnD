@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bore Worm
+- "Bore Worm"
 ---
-# [Bore Worm](3-Mechanics\CLI\bestiary\construct/bore-worm-wdmm.md)
+# [Bore Worm](3-Mechanics/CLI/bestiary/construct/bore-worm-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 171*  
 
 Trobriand modeled this 100-foot-long, 15-foot-diameter drilling machine after a purple worm. Unless Trobriand commands it to do otherwise, the worm tirelessly moves through well-worn tunnels and trenches. It mindlessly attacks anything that gets in its way, and occasionally ventures up to level 12 or down to level 14. Characters hear it long before they see it.
@@ -40,9 +40,13 @@ Trobriand modeled this 100-foot-long, 15-foot-diameter drilling machine after a 
   - "wisdom": !!int "4"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned, prone"
-"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 9"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., tremorsense\
+  \ 60 ft., passive Perception 9"
 "languages": ""
 "cr": "16"
 "traits":
@@ -56,8 +60,8 @@ Trobriand modeled this 100-foot-long, 15-foot-diameter drilling machine after a 
   - "desc": "The worm makes two attacks: one with its grinding jaws and one with its\
       \ stinger."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (3d8 + 9) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (3d8 + 9) slashing damage."
     "name": "Grinding Jaws"
   - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one creature. *Hit:*\
       \ 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution\
@@ -66,6 +70,6 @@ Trobriand modeled this 100-foot-long, 15-foot-diameter drilling machine after a 
     "name": "Tail Stinger"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/bore-worm-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/bore-worm-wdmm.webp"
 ```
 ^statblock

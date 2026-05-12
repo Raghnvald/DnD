@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Borrower
+- "Faerie Borrower"
 ---
-# [Faerie Borrower](3-Mechanics\CLI\bestiary\fey/faerie-borrower-mcv4ec.md)
+# [Faerie Borrower](3-Mechanics/CLI/bestiary/fey/faerie-borrower-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Faerie borrowers are tiny thieves who steal whatever they can lay their hands on to cause confusion and consternation. A faerie borrower stands less than six inches tall, with blue or blue-gray skin and wings resembling shards of broken glass.
@@ -50,9 +50,9 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
   - !!int "16"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "senses": "passive Perception 11"
 "languages": "Common, Sylvan"
@@ -62,8 +62,8 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
       \ enemy's reach."
     "name": "Flyby"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d4\
-      \ + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d4 + 5) piercing damage."
     "name": "Needle Blade"
   - "desc": "The faerie hurls magical taunts at one creature it can see within 60\
       \ feet of itself. The creature must succeed on a DC 13 Wisdom saving throw or\
@@ -72,7 +72,8 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Magic Mockery"
   - "desc": "The faerie casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** prestidigitation\n\n**1/day:** silent image"
+      \ will:** [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\n\
+      **1/day:** [silent image](3-Mechanics/CLI/spells/silent-image.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Immediately after taking damage, the faerie reduces the damage taken\
@@ -80,6 +81,6 @@ The faeries of Eldraine are winged, elfin creatures similar to sprites or pixies
     "name": "Tricksy Parry"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/faerie-borrower-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/faerie-borrower-mcv4ec.webp"
 ```
 ^statblock

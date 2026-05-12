@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Canary
+- "Giant Canary"
 ---
-# [Giant Canary](3-Mechanics\CLI\bestiary\beast/giant-canary-ftd.md)
+# [Giant Canary](3-Mechanics/CLI/bestiary/beast/giant-canary-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 23*  
 
 ```statblock
@@ -36,11 +36,11 @@ aliases:
 "languages": ""
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) piercing damage."
     "name": "Peck"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-canary-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-canary-ftd.webp"
 ```
 ^statblock

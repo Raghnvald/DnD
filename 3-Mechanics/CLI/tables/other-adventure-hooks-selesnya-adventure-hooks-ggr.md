@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Other Adventure Hooks; Selesnya Adventure Hooks
+- "Other Adventure Hooks; Selesnya Adventure Hooks"
 ---
 # Other Adventure Hooks; Selesnya Adventure Hooks
 *Source: Guildmasters' Guide to Ravnica p. 156* 
 
 **Selesnya Adventure Hooks**
-
-`dice: [](other-adventure-hooks-selesnya-adventure-hooks-ggr.md#^selesnya-adventure-hooks)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|
@@ -21,5 +19,5 @@ aliases:
 | 3 | A seer of the conclave tries to convince the characters that they are fated to save the world. |
 | 4 | Plants throughout a neighborhood develop carnivorous tendencies. |
 | 5 | A magic-infused stone of a Selesnya building grows out of control, threatening nearby buildings. |
-| 6 | A Selesnya [wurm](/3-Mechanics/CLI/bestiary/monstrosity/wurm-ggr.md) breaks free of its controller and goes on a rampage. |
+| 6 | A Selesnya [wurm](3-Mechanics/CLI/bestiary/monstrosity/wurm-ggr.md) breaks free of its controller and goes on a rampage. |
 ^selesnya-adventure-hooks

@@ -13,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Wasp
+- "Giant Wasp"
 ---
-# [Giant Wasp](3-Mechanics\CLI\bestiary\beast/giant-wasp.md)
-*Source: Monster Manual p. 329, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Wasp](3-Mechanics/CLI/bestiary/beast/giant-wasp.md)
+*Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Wasp"
@@ -39,17 +39,17 @@ aliases:
 "languages": ""
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but poisoned for 1 hour, even after regaining hit points,\
-      \ and is paralyzed while poisoned in this way."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 10 (3d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one. If the poison damage reduces the target to\
+      \ 0 hit points, the target is stable but [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour, even after regaining hit points, and is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way."
     "name": "Sting"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-wasp.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-wasp.webp"
 ```
 ^statblock
 

@@ -11,12 +11,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened Tree
+- "Awakened Tree"
 ---
-# [Awakened Tree](3-Mechanics\CLI\bestiary\plant/awakened-tree.md)
+# [Awakened Tree](3-Mechanics/CLI/bestiary/plant/awakened-tree.md)
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
-An awakened tree is an ordinary tree given sentience and mobility by the [awaken](/3-Mechanics/CLI/spells/awaken.md) spell or similar magic.
+An awakened tree is an ordinary tree given sentience and mobility by the [awaken](3-Mechanics/CLI/spells/awaken.md) spell or similar magic.
 
 ```statblock
 "name": "Awakened Tree"
@@ -46,12 +46,12 @@ An awakened tree is an ordinary tree given sentience and mobility by the [awaken
       \ tree."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (3d6 + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (3d6 + 4) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/awakened-tree.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/awakened-tree.webp"
 ```
 ^statblock
 

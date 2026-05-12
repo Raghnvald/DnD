@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/light
-aliases: 
-- Araleth Letheranil
+aliases:
+- "Araleth Letheranil"
 ---
 # Araleth Letheranil
 *Source: Mordenkainen's Tome of Foes p. 43* 

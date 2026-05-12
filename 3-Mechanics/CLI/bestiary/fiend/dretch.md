@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dretch
+- "Dretch"
 ---
-# [Dretch](3-Mechanics\CLI\bestiary\fiend/dretch.md)
-*Source: Monster Manual p. 57, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Dretch](3-Mechanics/CLI/bestiary/fiend/dretch.md)
+*Source: Monster Manual p. 57. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
 
@@ -157,7 +157,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -205,31 +205,32 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 9"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Abyssal, telepathy 60 ft. (works only with creatures that understand\
   \ Abyssal)"
 "cr": "1/4"
 "actions":
   - "desc": "The dretch makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5 (2d4)\
-      \ slashing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (2d4) slashing damage."
     "name": "Claws"
   - "desc": "A 10-foot radius of disgusting green gas extends out from the dretch.\
       \ The gas spreads around corners, and its area is lightly obscured. It lasts\
       \ for 1 minute or until a strong wind disperses it. Any creature that starts\
       \ its turn in that area must succeed on a DC 11 Constitution saving throw or\
-      \ be poisoned until the start of its next turn. While poisoned in this way,\
-      \ the target can take either an action or a bonus action on its turn, not both,\
-      \ and can't take reactions."
+      \ be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the start\
+      \ of its next turn. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ in this way, the target can take either an action or a bonus action on its\
+      \ turn, not both, and can't take reactions."
     "name": "Fetid Cloud (1/Day)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/dretch.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/dretch.webp"
 ```
 ^statblock

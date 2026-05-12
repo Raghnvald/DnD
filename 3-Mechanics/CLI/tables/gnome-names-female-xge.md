@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Gnome Names – Female
+- "Gnome Names – Female"
 ---
 # Gnome Names – Female
 *Source: Xanathar's Guide to Everything p. 178* 
 
 **Gnome Names – Female**
-
-`dice: [](gnome-names-female-xge.md#^gnome-names-female)`
 
 | dice: d100 | Name |
 |------------|------|

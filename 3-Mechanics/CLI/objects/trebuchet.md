@@ -3,14 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- Quelle/5e/dmg
-- Kompendium/object/size/huge
-- Kompendium/object/type/siege-weapon
+- ttrpg-cli/compendium/src/5e/dmg
+- ttrpg-cli/object/size/huge
+- ttrpg-cli/object/type/siege-weapon
 aliases:
-- Trebuchet
+- "Trebuchet"
 ---
 # Trebuchet
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 256*  
 
 A trebuchet is a powerful catapult that throws its payload in a high arc, so it can hit targets behind cover.
@@ -21,7 +20,7 @@ A trebuchet typically hurls a heavy stone. However, it can launch other kinds of
 
 ```ad-statblock
 title: Trebuchet
-![](/3-Mechanics/CLI/objects/token/trebuchet.webp#token)
+![](3-Mechanics/CLI/objects/token/trebuchet.webp#token)
 *Huge Siege weapon*
 
 - **Armor Class** 15
@@ -36,6 +35,6 @@ title: Trebuchet
 
 ## Actions
 
-***Trebuchet Stone.*** *Ranged Weapon Attack:* +5 to hit, range 300/1,200 ft. (can't hit targets within 60 feet of it), one target. *Hit:* 44 (8d10) bludgeoning damage.
+***Trebuchet Stone.*** *Ranged Weapon Attack:* `+5` to hit, range 300/1,200 ft. (can't hit targets within 60 feet of it), one target. *Hit:* 44 (`8d10`) bludgeoning damage.
 ```
 ^statblock

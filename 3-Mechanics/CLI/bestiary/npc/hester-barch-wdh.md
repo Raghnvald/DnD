@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hester Barch
+- "Hester Barch"
 ---
-# [Hester Barch](3-Mechanics\CLI\bestiary\npc/hester-barch-wdh.md)
+# [Hester Barch](3-Mechanics/CLI/bestiary/npc/hester-barch-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 83*  
 
 ```statblock
@@ -34,27 +34,31 @@ aliases:
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Medicine"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/4"
 "traits":
   - "desc": "Hester is a 1st-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). Hester has following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** light, sacred flame, thaumaturgy\n\
-      \n**1st level (3 slots):** bless, cure wounds, sanctuary"
+      \ spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (3 slots):** [bless](3-Mechanics/CLI/spells/bless-xphb.md), [cure\
+      \ wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)"
     "name": "Spellcasting"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hester-barch-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hester-barch-wdh.webp"
 ```
 ^statblock

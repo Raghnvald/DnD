@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/nature
-aliases: 
-- Malar
-- The Beastlord
-- The Black-Blooded One
+aliases:
+- "Malar"
+- "The Beastlord"
+- "The Black-Blooded One"
 ---
 # Malar
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-malar.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-malar.webp#symbol)
 
 - **Alternate Names**: The Beastlord, The Black-Blooded One
 - **Alignment**: Chaotic Evil

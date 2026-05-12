@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/optfeature/ride-the-wind
+- ttrpg-cli/spell/list/optfeature/ride-the-wind
 aliases:
-- Spells for Ride the Wind
+- "Spells for Ride the Wind"
 ---
 # Spells for Ride the Wind
 
 ## 3rd Level
 
-- [Fly](/3-Mechanics/CLI/spells/fly.md "PHB")
+- [Fly](3-Mechanics/CLI/spells/fly.md "PHB")

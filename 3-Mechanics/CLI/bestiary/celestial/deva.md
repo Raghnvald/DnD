@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deva
+- "Deva"
 ---
-# [Deva](3-Mechanics\CLI\bestiary\celestial/deva.md)
+# [Deva](3-Mechanics/CLI/bestiary/celestial/deva.md)
 *Source: Monster Manual p. 16. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -61,22 +61,24 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "The deva's spellcasting ability is Charisma (spell save DC 17). The deva\
       \ can innately cast the following spells, requiring only verbal components:\n\
-      \n**At will:** [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good.md)\n\
-      \n**1/day each:** [commune](/3-Mechanics/CLI/spells/commune.md), [raise dead](/3-Mechanics/CLI/spells/raise-dead.md)"
+      \n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md)\n\
+      \n**1/day each:** [commune](3-Mechanics/CLI/spells/commune.md), [raise dead](3-Mechanics/CLI/spells/raise-dead.md)"
     "name": "Innate Spellcasting"
   - "desc": "The deva's weapon attacks are magical. When the deva hits with any weapon,\
       \ the weapon deals an extra 4d8 radiant damage (included in the attack)."
@@ -87,12 +89,12 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 "actions":
   - "desc": "The deva makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage plus 18 (4d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage."
     "name": "Mace"
   - "desc": "The deva touches another creature. The target magically regains 20 (4d8\
-      \ + 2) hit points and is freed from any curse, disease, poison, blindness, or\
-      \ deafness."
+      \ + 2) hit points and is freed from any curse, disease, poison, blindness,\
+      \ or deafness."
     "name": "Healing Touch (3/Day)"
   - "desc": "The deva magically polymorphs into a humanoid or beast that has a challenge\
       \ rating equal to or less than its own, or back into its true form. It reverts\
@@ -105,6 +107,6 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
     "name": "Change Shape"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/deva.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/deva.webp"
 ```
 ^statblock

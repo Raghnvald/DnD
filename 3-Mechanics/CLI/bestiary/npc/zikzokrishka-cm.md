@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/17
-- new/monster/size/huge
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zikzokrishka
+- "Zikzokrishka"
 ---
-# [Zikzokrishka](3-Mechanics\CLI\bestiary\npc/zikzokrishka-cm.md)
+# [Zikzokrishka](3-Mechanics/CLI/bestiary/npc/zikzokrishka-cm.md)
 *Source: Candlekeep Mysteries p. 209*  
 
 ## Zikzokrishka's Phylactery
@@ -63,14 +63,14 @@ Zikzokrishka hid her phylactery deep within the Scimitar Spires, a mountain rang
   - "desc": "Zikzokrishka can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) piercing damage plus 5 (1d10) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d6 + 7) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Zikzokrishka's choice that is within 120 feet of the\
       \ Zikzokrishka and aware of it must succeed on a DC 18 Wisdom saving throw or\
@@ -81,8 +81,8 @@ Zikzokrishka hid her phylactery deep within the Scimitar Spires, a mountain rang
     "name": "Frightful Presence"
   - "desc": "Zikzokrishka exhales lightning in a 90-foot line that is 5 feet wide.\
       \ Each creature in that line must make a DC 20 Dexterity saving throw, taking\
-      \ 66 (12d10) lightning damage on a failed save, or half as much damage on a\
-      \ successful one."
+      \ 66 (12d10) lightning damage on a failed save, or half as much damage on\
+      \ a successful one."
     "name": "Lightning Breath (Recharge 5-6)"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties) whenever she is in the\
@@ -119,6 +119,6 @@ Zikzokrishka hid her phylactery deep within the Scimitar Spires, a mountain rang
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zikzokrishka-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zikzokrishka-cm.webp"
 ```
 ^statblock

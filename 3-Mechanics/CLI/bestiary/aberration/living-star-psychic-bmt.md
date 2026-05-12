@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/small-or-medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Star (Psychic)
+- "Living Star (Psychic)"
 ---
-# [Living Star (Psychic)](3-Mechanics\CLI\bestiary\aberration/living-star-psychic-bmt.md)
+# [Living Star (Psychic)](3-Mechanics/CLI/bestiary/aberration/living-star-psychic-bmt.md)
 *Source: The Book of Many Things p. 180*  
 
 ```statblock

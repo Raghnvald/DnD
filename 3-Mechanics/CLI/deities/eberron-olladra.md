@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/trickery
-aliases: 
-- Olladra
+aliases:
+- "Olladra"
 ---
 # Olladra
 *Source: Player's Handbook p. 296* 

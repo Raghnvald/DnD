@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Homunculus Servant
+- "Homunculus Servant"
 ---
-# [Homunculus Servant](3-Mechanics\CLI\bestiary\construct/homunculus-servant-tce.md)
+# [Homunculus Servant](3-Mechanics/CLI/bestiary/construct/homunculus-servant-tce.md)
 *Source: Tasha's Cauldron of Everything p. 22*  
 
 ```statblock
@@ -35,21 +35,21 @@ aliases:
   - "name": "Dexterity"
     "desc": "+2 plus PB"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+0 plus PB × 2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2 plus PB"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 0"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 0"
 "languages": "understands the languages you speak"
 "traits":
   - "desc": "If the homunculus is subjected to an effect that allows it to make a\
       \ Dexterity saving throw to take only half damage, it instead takes no damage\
       \ if it succeeds on the saving throw, and only half damage if it fails. It can't\
-      \ use this trait if it's [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ use this trait if it's [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
 "actions":
   - "desc": "*Ranged Weapon Attack:* your spell attack modifier to hit, range 30 ft.,\
@@ -61,6 +61,6 @@ aliases:
     "name": "Channel Magic"
 "source":
   - "TCE"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/homunculus-servant-tce.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/homunculus-servant-tce.webp"
 ```
 ^statblock

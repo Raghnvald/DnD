@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Outer Planes
+- "Outer Planes"
 ---
 # Outer Planes
 *Source: Player's Handbook p. 301* 

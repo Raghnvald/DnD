@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Targos
+- "Targos"
 ---
 # Targos
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 86* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/073-01-036-shield-targos.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/073-01-036-shield-targos.webp#center)
 
 Like Bryn Shander, Targos is encircled by a wooden wall, which helps to protect the town against orcs and other threats from the wilderness. The wall extends out into the lake, creating a safe harbor for the town's boats. But now Auril's long winter has frozen the water in the harbor, and many of Targos's boats are trapped in the ice. Fishers must drag their smaller vessels across the ice to get to the unfrozen lake beyond the harbor walls.
 
@@ -30,11 +30,11 @@ Naerth Maxildanarr, a former rogue of Luskan, moved to Targos a couple of years 
 
 ### Leaders
 
-Speaker Naerth Maxildanarr (lawful evil human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md)) is secretly a Zhentarim agent, who won the speakership because of his popularity with the fishers. Naerth is eager to secure a Zhentarim stranglehold on trade in Icewind Dale. A Zhent mercenary named Skath (lawful evil tiefling [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) who is loyal to Naerth leads the town's militia.
+Speaker Naerth Maxildanarr (lawful evil human [spy](3-Mechanics/CLI/bestiary/humanoid/spy.md)) is secretly a Zhentarim agent, who won the speakership because of his popularity with the fishers. Naerth is eager to secure a Zhentarim stranglehold on trade in Icewind Dale. A Zhent mercenary named Skath (lawful evil tiefling [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) who is loyal to Naerth leads the town's militia.
 
 ### Militia
 
-Targos can muster up to 200 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 16 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Targos can muster up to 200 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 16 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** A single-sailed, black ship (facing to the right) on a light blue field, representing the town's pride in its fishing fleet.  
 
@@ -44,7 +44,7 @@ Humanoid (see "Sacrifices to Auril").
 
 - **Rivals.** Bremen, Lonelywood, Termalaine.  
 
-![Speaker Naerth Maxildanarr...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/074-01-037-speaker-naerth.webp#center "Speaker Naerth Maxildanarr feeds his flying snakes while Captain Skath looks on")
+![Speaker Naerth Maxildanarr feeds his flying snakes while Captain Skath looks on](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/074-01-037-speaker-naerth.webp#center)
 
 ## Overland Travel
 
@@ -64,8 +64,8 @@ There is no easy way to reach Bremen by land, since heavy snow has wiped out the
 ## Locations in Targos
 
 > [!gallery]
-> ![Map 1.16: Targos](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/075-map-1-16-targos.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/076-map-1-16-targos-player.webp#gallery)
+> ![Map 1.16: Targos](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/075-map-1-16-targos.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/076-map-1-16-targos-player.webp#gallery)
 
 The following locations marked on map 1.16 are likely to attract characters during their stay in Targos.
 
@@ -73,15 +73,15 @@ The following locations marked on map 1.16 are likely to attract characters duri
 
 *Inn (and the town speaker's residence)*
 
-The Luskan Arms is the oldest public house in Ten-Towns, established back when Bryn Shander was still just "the camp on the hill" and Luskan was a thriving city. Many of the traders who came to Targos in those days hailed from Luskan, so the Luskan Arms was built to look like an inn that might be found in the City of Sails. As a result, much of the decor is nearly two hundred years old, reflecting Luskan as it was in the years before its decline. The inn has sturdy walls but rotten floorboards, and drafts come up into the common room from the cellar. The place is also infested with rats, which scurry between the walls at all hours of the night. The proprietor, Owenn Tarsenel (neutral human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), is a quiet, balding man who has sunk into a deep depression, fearing that summer will never return to Icewind Dale.
+The Luskan Arms is the oldest public house in Ten-Towns, established back when Bryn Shander was still just "the camp on the hill" and Luskan was a thriving city. Many of the traders who came to Targos in those days hailed from Luskan, so the Luskan Arms was built to look like an inn that might be found in the City of Sails. As a result, much of the decor is nearly two hundred years old, reflecting Luskan as it was in the years before its decline. The inn has sturdy walls but rotten floorboards, and drafts come up into the common room from the cellar. The place is also infested with rats, which scurry between the walls at all hours of the night. The proprietor, Owenn Tarsenel (neutral human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), is a quiet, balding man who has sunk into a deep depression, fearing that summer will never return to Icewind Dale.
 
-The largest guest suite in the Luskan Arms is occupied by the town speaker, Naerth Maxildanarr, who likes the inn because it reminds him of home and is a great place to meet visitors. Caged in his room are three [flying snakes](/3-Mechanics/CLI/bestiary/beast/flying-snake.md) that he uses to deliver messages to his spies.
+The largest guest suite in the Luskan Arms is occupied by the town speaker, Naerth Maxildanarr, who likes the inn because it reminds him of home and is a great place to meet visitors. Caged in his room are three [flying snakes](3-Mechanics/CLI/bestiary/beast/flying-snake.md) that he uses to deliver messages to his spies.
 
 ### Three Flags Sailing
 
 *Tavern*
 
-Fishers come here after a long day for a bowl of stew and a quick pint before heading to bed. The atmosphere is subdued; the fishers are cold and tired and unsure about Icewind Dale's future. The tavern is run by a plump, gray-haired widow named Ethen Yarbroul (neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), better known as "Ma." She fusses over the fishers as if they were her children.
+Fishers come here after a long day for a bowl of stew and a quick pint before heading to bed. The atmosphere is subdued; the fishers are cold and tired and unsure about Icewind Dale's future. The tavern is run by a plump, gray-haired widow named Ethen Yarbroul (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), better known as "Ma." She fusses over the fishers as if they were her children.
 
 Characters who hang out in the tavern are likely to hear a rumor or two, which you can determine by rolling on the Ten-Towns Rumors table (See "Ten-Towns Rumors").
 
@@ -89,7 +89,7 @@ Characters who hang out in the tavern are likely to hear a rumor or two, which y
 
 *General store*
 
-Triglio takes its name from one of the chanteys that the fishers of Targos sing when they are hard at work: *"Trig-lee-oh, lads, an' 'oist upon the line/Trig-lee-oh, lads, an' bring yon fishers in."* The store's proprietor is Jestin Hunrae (neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a scarecrow-like fellow who fished the lake until his left hand was crushed in a collision with a boat from Termalaine. The only items he doesn't sell are fishing and sailing supplies; in Targos, such goods are supplied by specialty crafters and merchants. All other common gear, including fishing poles and snowshoes, can be bought here.
+Triglio takes its name from one of the chanteys that the fishers of Targos sing when they are hard at work: *"Trig-lee-oh, lads, an' 'oist upon the line/Trig-lee-oh, lads, an' bring yon fishers in."* The store's proprietor is Jestin Hunrae (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a scarecrow-like fellow who fished the lake until his left hand was crushed in a collision with a boat from Termalaine. The only items he doesn't sell are fishing and sailing supplies; in Targos, such goods are supplied by specialty crafters and merchants. All other common gear, including fishing poles and snowshoes, can be bought here.
 
 ## Mountain Climb
 
@@ -102,9 +102,9 @@ The characters can pick up this quest if they start the adventure in Targos or s
 > As you trudge through town, snow crunching underneath your feet, you hear the bark of a dog over the whistle of the wind. A wolf-sized sled dog with light gray fur runs toward you, dragging a broken leather harness behind it.
 ^220
 
-The dog (use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) stat block), whose name is Boy, has clearly broken free of its sled and is friendly. It tackles the nearest character and whimpers as it licks that character's face. Then, using every communication tactic at its disposal, it tries to lead the party to its master's house a few blocks away, grabbing a character by the bootstrap and tugging the character in the direction it wants the party to go.
+The dog (use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) stat block), whose name is Boy, has clearly broken free of its sled and is friendly. It tackles the nearest character and whimpers as it licks that character's face. Then, using every communication tactic at its disposal, it tries to lead the party to its master's house a few blocks away, grabbing a character by the bootstrap and tugging the character in the direction it wants the party to go.
 
-If the characters follow the dog, it leads them to the front door of a modest dwelling. The dog barks and scratches at the door. Keegan Velryn (neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a handsome man in his thirties, opens the door, and the dog races inside. When Keegan sees the characters instead of his husband, his smile fades as he urges the characters to come inside, where he gives each of them a cup of warm cider and shares the following information:
+If the characters follow the dog, it leads them to the front door of a modest dwelling. The dog barks and scratches at the door. Keegan Velryn (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a handsome man in his thirties, opens the door, and the dog races inside. When Keegan sees the characters instead of his husband, his smile fades as he urges the characters to come inside, where he gives each of them a cup of warm cider and shares the following information:
 
 > [!readaloud] 
 > 
@@ -147,12 +147,12 @@ As the characters pass through the Dwarven Valley, they might (if the weather is
 ### Climbing Kelvin's Cairn
 
 > [!gallery]
-> ![Map 1.17: Kelvin's Cairn](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/077-map-1-17-kelvins-cairn.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/078-map-1-17-kelvins-cairn-player.webp#gallery)
+> ![Map 1.17: Kelvin's Cairn](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/077-map-1-17-kelvins-cairn.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/078-map-1-17-kelvins-cairn-player.webp#gallery)
 
 Map 1.17 shows the route that Garret's expedition took up Kelvin's Cairn. It leads not to the topmost peak of the mountain, but to the summit of one of its spurs.
 
-Before they can follow their quarry up Kelvin's Cairn, the characters must locate Garret's base camp at the foot of the mountain. Jarthra Farzassh can lead them there, since she recommended the location to Garret before his expedition left Caer-Konig. Garret's sled dog can also lead characters straight to the base camp. Without help of any sort, the characters can spend 8 hours searching for the camp on their own, finding it with a successful DC 15 Wisdom (Survival) group check. If the group check fails, they can repeat it after another 8 hours of looking.
+Before they can follow their quarry up Kelvin's Cairn, the characters must locate Garret's base camp at the foot of the mountain. Jarthra Farzassh can lead them there, since she recommended the location to Garret before his expedition left Caer-Konig. Garret's sled dog can also lead characters straight to the base camp. Without help of any sort, the characters can spend 8 hours searching for the camp on their own, finding it with a successful DC 15 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) group check. If the group check fails, they can repeat it after another 8 hours of looking.
 
 #### Base Camp
 
@@ -161,7 +161,7 @@ Before they can follow their quarry up Kelvin's Cairn, the characters must locat
 > You see two tents pitched in the snow near an icy outcropping that acts as a natural windbreaker. Between the tents is an overturned sled. Still harnessed to the sled are five howling dogs.
 ^228
 
-Garret's dog, Boy, tore free of its harness and ran back to Targos to get help, leaving the other five sled dogs (use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) stat block) behind. The dogs are friendly, cold, hungry, and miserable. If the characters release them, the dogs run back to the nearest town to seek shelter.
+Garret's dog, Boy, tore free of its harness and ran back to Targos to get help, leaving the other five sled dogs (use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) stat block) behind. The dogs are friendly, cold, hungry, and miserable. If the characters release them, the dogs run back to the nearest town to seek shelter.
 
 Under the sled are two small crates. One is empty, and it appears that the dogs broke into it and ate the provisions that were contained within; the other is not in the dogs' reach and contains enough rations to feed four people for three days.
 
@@ -178,7 +178,7 @@ If Boy is with the party, the dog can lead the characters to Garret (see "Fallen
 > The howling wind, blowing snow, and slippery ice make the climb treacherous. Ahead, you see four mountain goats perched on a large rock formation around which you must navigate.
 ^22b
 
-The four [mountain goats](/3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C) are indifferent toward the characters and bleat loudly as the party draws near. The goats turn hostile if the characters attack them.
+The four [mountain goats](3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C) are indifferent toward the characters and bleat loudly as the party draws near. The goats turn hostile if the characters attack them.
 
 #### Avalanche
 
@@ -187,7 +187,7 @@ The four [mountain goats](/3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.m
 > Hundreds of feet up the mountain, you come to a glistening white expanse of packed snow. As you get about halfway across it, you hear a loud crack from higher up the mountain, followed by a rumbling noise as the ground starts to shake. It's an avalanche!
 ^22d
 
-The party finds itself in the path of an avalanche (see "[Avalanches](/3-Mechanics/CLI/traps-hazards/avalanche-idrotf.md)"). The avalanche is 200 feet wide, 100 feet long, and 30 feet deep.
+The party finds itself in the path of an avalanche (see "[Avalanches](3-Mechanics/CLI/traps-hazards/avalanche-idrotf.md)"). The avalanche is 200 feet wide, 100 feet long, and 30 feet deep.
 
 To run this event, first determine the marching order of the party and how far apart the characters are. Assume that the rearmost party member is directly below the avalanche, which means that character must move at least 100 feet to get clear of the avalanche's path. Next, have all party members roll initiative.
 
@@ -200,13 +200,13 @@ The avalanche starts 500 feet above the party and sweeps down to the base of the
 > You reach a steep, snow-covered incline dotted with jagged rocks. Lying facedown in the snow, barely conscious, is a humanoid in bloodstained cold weather clothing.
 ^22f
 
-The figure in the snow is Garret Velryn (neutral good human [scout](/3-Mechanics/CLI/bestiary/humanoid/scout.md)), a rugged, bearded man in his prime. He has one level of exhaustion and 6 hit points remaining. In addition to his weapons, he carries a climber's kit. His other equipment is lost. If the characters have Boy with them, the dog and Garret become inseparable.
+The figure in the snow is Garret Velryn (neutral good human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)), a rugged, bearded man in his prime. He has one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and 6 hit points remaining. In addition to his weapons, he carries a climber's kit. His other equipment is lost. If the characters have Boy with them, the dog and Garret become inseparable.
 
 If the characters tend to his wounds, Garret comes around and tells them that a yeti surprised him and his companions higher up the mountain. He lured the yeti away from the others and got it to chase him down the mountain. The yeti wounded him seriously, but he escaped with his life when the monster stopped following him.
 
 ##### Hunters of Men
 
-As the characters tend to Garret, two [crag cats](/3-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md) (see appendix C) move to within 20 feet of the party and attack, each one pouncing on a randomly determined party member. Known to Ten-Towners as "Hunters of Men," the crag cats caught Garret's scent but failed to reach him before the characters showed up. Characters with passive Wisdom (Perception) scores of 17 or higher are not surprised by the crag cats. If one crag cat dies, the other one disengages from melee combat and tries to flee down the mountain on its next turn.
+As the characters tend to Garret, two crag cats (see appendix C) move to within 20 feet of the party and attack, each one pouncing on a randomly determined party member. Known to Ten-Towners as "Hunters of Men," the crag cats caught Garret's scent but failed to reach him before the characters showed up. Characters with passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) scores of 17 or higher are not [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) by the crag cats. If one crag cat dies, the other one disengages from melee combat and tries to flee down the mountain on its next turn.
 
 ##### Development
 
@@ -218,9 +218,9 @@ Assuming he survives the encounter with the crag cats, Garret makes it known tha
 
 #### Perilous Climb
 
-At this point, the characters must zigzag their way up the mountain, clinging to narrow ledges and scaling icy cliffs. To pass all these obstacles, the party must make three successful DC 10 Strength (Athletics) group checks. If a group check fails, the party wastes 1 hour making no progress, and each party member who failed the check gains one level of exhaustion.
+At this point, the characters must zigzag their way up the mountain, clinging to narrow ledges and scaling icy cliffs. To pass all these obstacles, the party must make three successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) group checks. If a group check fails, the party wastes 1 hour making no progress, and each party member who failed the check gains one level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).
 
-![A mountain climber meets h...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/079-01-038-mountain-climber.webp#center "A mountain climber meets his doom on the slopes of Kelvin's Cairn")
+![A mountain climber meets his doom on the slopes of Kelvin's Cairn](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/079-01-038-mountain-climber.webp#center)
 
 #### Frozen Cave
 
@@ -233,13 +233,13 @@ A character with the Littlest Yeti secret (see appendix B) can really shine in t
 
 The blood marks the area where Garret's expedition was ambushed by a male yeti that was hidden under a snowdrift near the cave entrance. It lunged at Garret, raking him with its claws and biting into his shoulder. Mokingo the goliath came to Garret's defense but didn't last long. Perilou hid in the cave as Astrix fled up the mountain. The yeti pursued Garret some distance down the mountain before abandoning the chase and returning to the cave.
 
-The cave is home to a mated pair of [yetis](/3-Mechanics/CLI/bestiary/monstrosity/yeti.md) and their child, a [yeti tyke](/3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md) (see appendix C). Mother and child are both inside; the father is out hunting but returns shortly with a fresh kill. The cave's interior is shown on map 1.17.
+The cave is home to a mated pair of [yetis](3-Mechanics/CLI/bestiary/monstrosity/yeti.md) and their child, a [yeti tyke](3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md) (see appendix C). Mother and child are both inside; the father is out hunting but returns shortly with a fresh kill. The cave's interior is shown on map 1.17.
 
 ##### F1. Chasm
 
 This cave has a 20-foot-high, concave roof. Most of the floor has fallen away, forming a chasm 80 feet deep. All that's left of the floor is a rocky ledge connected to area F2 by a natural stone bridge that's safe to cross. A 1-foot-thick sheet of ice spans the southern part of the chasm. Characters can walk across this ice to avoid area F2 and go directly to area F3.
 
-A character can also try to collapse the ice sheet by dealing damage to it. The ice sheet has AC 13, 30 hit points, and immunity to cold, psychic, and poison damage; if reduced to 0 hit points, the ice sheet fractures and falls into the chasm. Any creature standing on the ice sheet when it begins to collapse must make a DC 16 Dexterity saving throw. On a failed check, the creature falls into the chasm, taking `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) bludgeoning damage and landing prone. On a success, the creature lunges and leaps to land on one side of the chasm or the other (its choice) and doesn't fall.
+A character can also try to collapse the ice sheet by dealing damage to it. The ice sheet has AC 13, 30 hit points, and immunity to cold, psychic, and poison damage; if reduced to 0 hit points, the ice sheet fractures and falls into the chasm. Any creature standing on the ice sheet when it begins to collapse must make a DC 16 Dexterity saving throw. On a failed check, the creature falls into the chasm, taking 28 (`8d6`) bludgeoning damage and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a success, the creature lunges and leaps to land on one side of the chasm or the other (its choice) and doesn't fall.
 
 ##### F2. Trophies
 
@@ -249,7 +249,7 @@ The floor of this 10-foot-high tunnel is strewn with the bones of Mokingo Growli
 
 The floor of this cave is 5 feet higher than in area F2, and it has an uneven ceiling that ranges in height from 10 to 20 feet. The floor drops off sharply to the south, forming a 10-foot-high ledge that overlooks the entrance to a tunnel. In the passageway is a short flight of steps that ascend to the south.
 
-This cave contains a strange sight: a female adult [yeti](/3-Mechanics/CLI/bestiary/monstrosity/yeti.md) watching her child, a [yeti tyke](/3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md) (see appendix C), as it plays with a lightfoot halfling dressed in cold weather clothing and curled up in the fetal position. The halfling is Perilou Fishfinger (neutral good lightfoot halfling [acolyte](/3-Mechanics/CLI/bestiary/humanoid/acolyte.md) of Yondalla). The yeti tyke is knocking her around like a ball, and it's clear from her cries that Perilou is still alive. She has three levels of exhaustion but is otherwise unharmed.
+This cave contains a strange sight: a female adult [yeti](3-Mechanics/CLI/bestiary/monstrosity/yeti.md) watching her child, a [yeti tyke](3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md) (see appendix C), as it plays with a lightfoot halfling dressed in cold weather clothing and curled up in the fetal position. The halfling is Perilou Fishfinger (neutral good lightfoot halfling [acolyte](3-Mechanics/CLI/bestiary/humanoid/acolyte.md) of Yondalla). The yeti tyke is knocking her around like a ball, and it's clear from her cries that Perilou is still alive. She has three levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) but is otherwise unharmed.
 
 The appearance of intruders terrifies the yeti tyke, which crawls up onto its mother's back to get away from them. The mother lets out a roar, hoping to scare off the intruders without a fight. She won't endanger herself or her child by attacking the characters if they also refrain from combat and get it across to her that they've come to rescue the halfling.
 
@@ -259,9 +259,9 @@ Against one wall, hidden under the shattered remains of a dogsled, is a mess kit
 
 ##### Development
 
-As the characters leave the yeti cave, the male adult [yeti](/3-Mechanics/CLI/bestiary/monstrosity/yeti.md) returns home with a dead mountain goat tucked under one arm. Under normal circumstances, the male yeti is hostile, but a character with the Littlest Yeti secret (see appendix B) can improve the yeti's attitude. If no one has this secret but the characters have the yeti tyke with them, they can trade the tyke for safe passage up or down the mountain.
+As the characters leave the yeti cave, the male adult [yeti](3-Mechanics/CLI/bestiary/monstrosity/yeti.md) returns home with a dead mountain goat tucked under one arm. Under normal circumstances, the male yeti is hostile, but a character with the Littlest Yeti secret (see appendix B) can improve the yeti's attitude. If no one has this secret but the characters have the yeti tyke with them, they can trade the tyke for safe passage up or down the mountain.
 
-![Here lie the bodies of Ast...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/080-01-039-astrix.webp#center "Here lie the bodies of Astrix the tiefling and an ill-fated mountaineer known only as Blue Boots")
+![Here lie the bodies of Astrix the tiefling and an ill-fated mountaineer known only as Blue Boots](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/080-01-039-astrix.webp#center)
 
 #### Ruined Camp
 
@@ -278,7 +278,7 @@ A shield dwarf explorer named Barthoom Hammerhome climbed to this great height a
 
 ##### Treasure
 
-Characters who search Astrix's body find a potion of invisibility and a leather-bound spellbook, which contains the following wizard spells: alter self, cloud of daggers, comprehend languages, detect magic, expeditious retreat, scorching ray, shield, suggestion, and Tenser's floating disk.
+Characters who search Astrix's body find a potion of invisibility and a leather-bound [spellbook](3-Mechanics/CLI/items/spellbook.md), which contains the following wizard spells: [alter self](3-Mechanics/CLI/spells/alter-self.md), [cloud of daggers](3-Mechanics/CLI/spells/cloud-of-daggers.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [expeditious retreat](3-Mechanics/CLI/spells/expeditious-retreat.md), [scorching ray](3-Mechanics/CLI/spells/scorching-ray.md), [shield](3-Mechanics/CLI/spells/shield.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md), and [Tenser's floating disk](3-Mechanics/CLI/spells/tensers-floating-disk.md).
 
 ### Concluding the Quest
 

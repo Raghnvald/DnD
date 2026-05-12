@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/lmop
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Lost Mine of Phandelver* 

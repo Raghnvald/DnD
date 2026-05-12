@@ -10,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Baphomet
+- "Baphomet"
 ---
-# [Baphomet](3-Mechanics\CLI\bestiary\npc/baphomet-mpmm.md)
+# [Baphomet](3-Mechanics/CLI/bestiary/npc/baphomet-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 58, Mordenkainen's Tome of Foes p. 143*  
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 
 Cults devoted to Baphomet use mazes and complex knots as their emblems. They create secret places to indulge themselves, including labyrinths of the sort their master favors. Bloodstained crowns and weapons of iron and brass decorate their profane altars.
 
-Over time, a MPMM becomes tainted by his influence, gaining bloodshot eyes and coarse, thickening hair. Small horns eventually sprout from the cultist's forehead. In time, a devoted cultist might transform entirely into a minotaur, which is considered the greatest gift of the Prince of Beasts.
+Over time, a cultist of Baphomet becomes tainted by his influence, gaining bloodshot eyes and coarse, thickening hair. Small horns eventually sprout from the cultist's forehead. In time, a devoted cultist might transform entirely into a minotaur, which is considered the greatest gift of the Prince of Beasts.
 
 Baphomet appears as a fearsome, 20-foot-tall minotaur with six iron horns. A fiendish light burns in his red eyes. Although he is filled with bestial blood lust, there lies within him a cruel and cunning intellect devoted to subverting all civilization.
 
@@ -32,7 +32,7 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 
 ## Baphomet's Lair
 
-Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](/3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md), [goristros](/3-Mechanics/CLI/bestiary/fiend/goristro-xmm.md), and [quasits](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md).
+Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](3-Mechanics/CLI/bestiary/monstrosity/minotaur.md), [goristros](3-Mechanics/CLI/bestiary/fiend/goristro.md), and [quasits](3-Mechanics/CLI/bestiary/fiend/quasit.md).
 
 ```statblock
 "name": "Baphomet (MPMM)"
@@ -58,21 +58,21 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
   - "constitution": !!int "15"
   - "wisdom": !!int "14"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+17"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+14"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 24"
 "languages": "all, telepathy 120 ft."
 "cr": "23"
 "traits":
   - "desc": "Baphomet can perfectly recall any path he has traveled, and he is immune\
-      \ to the [maze](/3-Mechanics/CLI/spells/maze-xphb.md) spell."
+      \ to the [maze](3-Mechanics/CLI/spells/maze.md) spell."
     "name": "Labyrinthine Recall"
   - "desc": "If Baphomet fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -83,33 +83,33 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
   - "desc": "Baphomet makes one Bite attack, one Gore attack, and one Heartcleaver\
       \ attack. He also uses Frightful Presence."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d8 + 10) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d8 + 10) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight toward\
-      \ the target immediately before the hit, the target takes an extra 16 (3d10)\
-      \ piercing damage. If the target is a creature, it must succeed on a DC 25 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d6 + 10) piercing damage. If Baphomet moved at least 10 feet straight\
+      \ toward the target immediately before the hit, the target takes an extra 16\
+      \ (3d10) piercing damage. If the target is a creature, it must succeed on\
+      \ a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked\
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) force damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) force damage."
     "name": "Heartcleaver"
   - "desc": "Each creature of Baphomet's choice within 120 feet of him and aware of\
-      \ him must succeed on a DC 18 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ for 1 minute. A [frightened](/3-Mechanics/CLI/conditions.md#Frightened) creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success. These later saves have disadvantage if Baphomet is\
-      \ within line of sight of the creature.\n\nIf a creature succeeds on any of\
-      \ these saves or the effect ends on it, the creature is immune to Baphomet's\
-      \ Frightful Presence for the next 24 hours."
+      \ him must succeed on a DC 18 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success. These later saves have disadvantage if\
+      \ Baphomet is within line of sight of the creature.\n\nIf a creature succeeds\
+      \ on any of these saves or the effect ends on it, the creature is immune to\
+      \ Baphomet's Frightful Presence for the next 24 hours."
     "name": "Frightful Presence"
   - "desc": "Baphomet casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 18):\n\n**3/day\
-      \ each:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [dominate\
-      \ beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md), [maze](/3-Mechanics/CLI/spells/maze-xphb.md),\
-      \ [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md)\n\n**1/day:**\
-      \ [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)"
+      \ each:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [dominate\
+      \ beast](3-Mechanics/CLI/spells/dominate-beast.md), [maze](3-Mechanics/CLI/spells/maze.md),\
+      \ [wall of stone](3-Mechanics/CLI/spells/wall-of-stone.md)\n\n**1/day:** [teleport](3-Mechanics/CLI/spells/teleport.md)"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), Baphomet can take one\
@@ -131,17 +131,17 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "regional_effects":
   - "desc": "The region containing Baphomet's lair is warped by his magic, creating\
       \ one or more of the following effects:\n\n- **Beguiling Realm.** Within 6 miles\
-      \ of the lair, all Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion))\
-      \ and Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) checks\
-      \ have disadvantage, and all Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
-      \ and Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks\
-      \ have advantage.  \n- **Hedge Mazes.** Plant life within 1 mile of the lair\
-      \ grows thick and forms walls of trees, hedges, and other flora in the form\
-      \ of small mazes.  \n- **Panicked Beasts.** Beasts within 1 mile of the lair\
-      \ become [frightened](/3-Mechanics/CLI/conditions.md#Frightened) and disoriented,\
-      \ as though constantly under threat of being hunted, and might lash out or panic\
-      \ even when no visible threat is nearby.  \n\nIf Baphomet dies, these effects\
-      \ fade over the course of 1d10 days."
+      \ of the lair, all Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion))\
+      \ and Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance))\
+      \ checks have disadvantage, and all Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception))\
+      \ and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation))\
+      \ checks have advantage.  \n- **Hedge Mazes.** Plant life within 1 mile of the\
+      \ lair grows thick and forms walls of trees, hedges, and other flora in the\
+      \ form of small mazes.  \n- **Panicked Beasts.** Beasts within 1 mile of the\
+      \ lair become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) and\
+      \ disoriented, as though constantly under threat of being hunted, and might\
+      \ lash out or panic even when no visible threat is nearby.  \n\nIf Baphomet\
+      \ dies, these effects fade over the course of 1d10 days."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Baphomet can expend a use to take one of the following actions. Baphomet\
@@ -149,12 +149,12 @@ Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss c
 "legendary_actions":
   - "desc": "Baphomet makes one Heartcleaver attack."
     "name": "Heartcleaver Attack"
-  - "desc": "Baphomet moves up to his speed without provoking [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack),\
+  - "desc": "Baphomet moves up to his speed without provoking [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack),\
       \ then makes a Gore attack."
     "name": "Charge (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/baphomet-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/baphomet-mpmm.webp"
 ```
 ^statblock

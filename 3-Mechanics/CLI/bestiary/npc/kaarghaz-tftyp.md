@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/troglodyte
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/troglodyte
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kaarghaz
+- "Kaarghaz"
 ---
-# [Kaarghaz](3-Mechanics\CLI\bestiary\npc/kaarghaz-tftyp.md)
+# [Kaarghaz](3-Mechanics/CLI/bestiary/npc/kaarghaz-tftyp.md)
 *Source: Tales from the Yawning Portal p. 45*  
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -49,40 +49,48 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Draconic, Troglodyte"
 "cr": "2"
 "traits":
   - "desc": "Kaarghaz is a 4th-level spellcaster. His spellcasting ability is Charisma\
-      \ (spell save DC 12, +4 to hit with spell attacks). He knows the following sorcerer\
-      \ spells:\n\n**Cantrips (at will):** fire bolt, mage hand, poison spray, prestidigitation,\
-      \ ray of frost\n\n**1st level (6 slots):** burning hands, shield, sleep\n\n\
-      **2nd level (3 slots):** invisibility, scorching ray"
+      \ (spell save DC 12, +4 to hit with spell attacks). He knows the following\
+      \ sorcerer spells:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [poison spray](3-Mechanics/CLI/spells/poison-spray-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [ray\
+      \ of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level (6 slots):**\
+      \ [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "The troglodyte has advantage on Dexterity (Stealth) checks made to hide."
+  - "desc": "The troglodyte has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide."
     "name": "Chameleon Skin"
   - "desc": "Any creature other than a troglodyte that starts its turn within 5 feet\
       \ of the troglodyte must succeed on a DC 12 Constitution saving throw or be\
-      \ poisoned until the start of the creature's next turn. On a successful saving\
-      \ throw, the creature is immune to the stench of all troglodytes for 1 hour."
+      \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) until the start of\
+      \ the creature's next turn. On a successful saving throw, the creature is immune\
+      \ to the stench of all troglodytes for 1 hour."
     "name": "Stench"
   - "desc": "While in sunlight, the troglodyte has disadvantage on attack rolls, as\
-      \ well as on Wisdom (Perception) checks that rely on sight."
+      \ well as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The troglodyte makes three attacks: one with its bite and two with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kaarghaz-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kaarghaz-tftyp.webp"
 ```
 ^statblock

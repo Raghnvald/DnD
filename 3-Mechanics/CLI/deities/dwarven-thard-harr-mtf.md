@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/nature
-aliases: 
-- Thard Harr
+aliases:
+- "Thard Harr"
 ---
 # Thard Harr
 *Source: Mordenkainen's Tome of Foes p. 73* 

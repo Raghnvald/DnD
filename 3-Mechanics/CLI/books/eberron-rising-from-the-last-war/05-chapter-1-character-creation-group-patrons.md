@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Chapter 1: Character Creation - Group Patrons
+- "Chapter 1: Character Creation - Group Patrons"
 ---
 # Chapter 1: Character Creation - Group Patrons
 *Source: Eberron: Rising from the Last War, p. 64* 
@@ -60,7 +60,7 @@ When you run your own organization, you can use the Running a Business downtime 
 
 Here are the most likely types of patrons for an adventuring group in Eberron. Presented in alphabetical order, the patrons each include an example.
 
-![Patrons in Eberron; Patrons](/3-Mechanics/CLI/tables/patrons-in-eberron-patrons-erlw.md)
+![Patrons in Eberron; Patrons](3-Mechanics/CLI/tables/patrons-in-eberron-patrons-erlw.md)
 
 ## Adventurers' Guild
 
@@ -119,7 +119,7 @@ As members of an adventurers' guild, your group gains the following benefits:
 
 **Referrals**. The guild can recommend hired services to its members, drawing on other guild members' experiences to provide honest, reliable, and skillful hirelings.
 
-**Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a bag of holding or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall's basement for a time.
+**Storage**. The guild will store items for its members. The Clifftop guild has an account with House Kundarak banks that allow its members to store valuables in secure vaults. Some guilds have access to items such as a [bag of holding](3-Mechanics/CLI/items/bag-of-holding.md) or a safe that opens into a similar extradimensional space. In the worst case, an item can be hidden in a guildhall's basement for a time.
 
 ### Build Your Group
 
@@ -129,15 +129,15 @@ Membership in an adventurers' guild doesn't affect the composition of your party
 
 Typically, an adventuring group has no particular contact within the larger guild. There's a local leader or bookkeeper who collects dues, but otherwise you might interact with a variety of different members of the guild in different contexts—when looking for a contract, gathering referrals, staying in the guildhall, and so on. The Guild Contact table provides inspiration for contacts you might encounter during any given encounter with your adventurer's guild.
 
-![Adventurers' Guild Contacts; Guild Contacts](/3-Mechanics/CLI/tables/adventurers-guild-contacts-guild-contacts-erlw.md)
+![Adventurers' Guild Contacts; Guild Contacts](3-Mechanics/CLI/tables/adventurers-guild-contacts-guild-contacts-erlw.md)
 
-![Headquarters of the Clifftop Adventurers' Guild](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/057-1-42.webp#center)
+![Headquarters of the Clifftop Adventurers' Guild](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/057-1-42.webp#center)
 
 ### Guild Adventures
 
 Among its various services, the Clifftop Adventurers' Guild offers a launchpad for all manner of adventures. Potential employers bring all manner of work to the guildhall, posting messages or seeking out those with specific fields of expertise. Guild members also relate news about opportunities via word of mouth. Such jobs might resemble those assigned by any other patron. Without a patron directing your assignments, your group is free to pursue its own goals, whether you're seeking wealth, struggling against evil, pursuing a personal vendetta, or simply reacting to disastrous events around you. The Guild Adventures table refers to the descriptions of other patrons in this section; your DM can use the adventure ideas in those descriptions to flesh out job opportunities available through your guild.
 
-![Guild Adventures](/3-Mechanics/CLI/tables/guild-adventures-erlw.md)
+![Guild Adventures](3-Mechanics/CLI/tables/guild-adventures-erlw.md)
 
 In any of these cases, the potential employer might represent an established organization (a crime syndicate or university, for example) or might be independent like your party. In the latter case, there's always the possibility that you could end up competing with an organization—running up against a crime syndicate while pursuing a criminal job, perhaps, or competing with university researchers to plunder a ruin. This competition might turn into a rivalry, or it could evolve into employment, with the crime syndicate or university recognizing your talent and becoming your patron.
 
@@ -220,27 +220,27 @@ Naturally, a large portion of the Boromar Clan's members come from a criminal ba
 
 Your work as syndicate members involves more than simple street swindles or pickpocketing. A team with your skills comes together for greater purposes—more dangerous risks and far more splendid rewards. As a group, consider the options on the Syndicate Crimes table and work with your DM to decide what kinds of work you do for the Boromar Clan.
 
-![Types of Crime; Syndicate Crimes](/3-Mechanics/CLI/tables/types-of-crime-syndicate-crimes-erlw.md)
+![Types of Crime; Syndicate Crimes](3-Mechanics/CLI/tables/types-of-crime-syndicate-crimes-erlw.md)
 
 ### Infamy
 
 Even among the notorious Boromar Clan, your group has a distinct identity and a reputation. What's the event or unique trait that makes your crew stand out? Consult the Group Infamy table for suggestions on how your group might stand out within the larger syndicate.
 
-![Group Infamy](/3-Mechanics/CLI/tables/group-infamy-erlw.md)
+![Group Infamy](3-Mechanics/CLI/tables/group-infamy-erlw.md)
 
 ### Rival Outfit
 
 Some criminals believe you can't do a job without betraying your partners. Perhaps you have your own share of adversaries you've angered. The Group Rivals table presents a host of groups and individuals who might—legitimately or otherwise—hold a grudge against you.
 
-![Rival Outfit; Group Rivals](/3-Mechanics/CLI/tables/rival-outfit-group-rivals-erlw.md)
+![Rival Outfit; Group Rivals](3-Mechanics/CLI/tables/rival-outfit-group-rivals-erlw.md)
 
-![Boromar Clan Nightclub](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/058-1-43.webp#center)
+![Boromar Clan Nightclub](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/058-1-43.webp#center)
 
 ### Crime Syndicate Contacts
 
 Everyone has a well-defined place in the Boromar Clan hierarchy. You report to a contact who oversees your work, giving you assignments, and collecting the syndicate's cut. This person might be a criminal mastermind who plans all your exploits, or they could leave the planning to your group. In any case, the Syndicate Contact table can help you define the personality of this contact.
 
-![Crime Syndicate Contacts; Syndicate Contact](/3-Mechanics/CLI/tables/crime-syndicate-contacts-syndicate-contact-erlw.md)
+![Crime Syndicate Contacts; Syndicate Contact](3-Mechanics/CLI/tables/crime-syndicate-contacts-syndicate-contact-erlw.md)
 
 ### Other Crime Syndicates
 
@@ -257,7 +257,7 @@ The city of Sharn is unusual in that it is home to no less than four powerful sy
 
 **The Tyrants**. The Tyrants are a mysterious group of shapeshifters who traffic in all manner of information. They sell secrets, blackmail powerful people, and forge everything from identification papers to coins and works of art.
 
-**Running Your Own**. Rather than join an existing syndicate, you can start your own. You need to establish your own headquarters and direct the activities of the `dice:3d6|noform|noparens|avg` (`3d6`) criminals who work for you. By claiming a 15 percent share of their take, you can rely on an income that will sustain you at a modest lifestyle, plus an additional `dice:1d6|noform|noparens|avg` (`1d6`) gp in profit per week. You can access contraband and fences as described earlier in this section, but you don't get a discount at syndicate-owned businesses unless you acquire some businesses of your own. You can also use the Running a Business downtime activity to direct the activities of your syndicate.
+**Running Your Own**. Rather than join an existing syndicate, you can start your own. You need to establish your own headquarters and direct the activities of the `3d6` criminals who work for you. By claiming a 15 percent share of their take, you can rely on an income that will sustain you at a modest lifestyle, plus an additional `1d6` gp in profit per week. You can access contraband and fences as described earlier in this section, but you don't get a discount at syndicate-owned businesses unless you acquire some businesses of your own. You can also use the Running a Business downtime activity to direct the activities of your syndicate.
 
 ## Dragonmarked House
 
@@ -289,21 +289,21 @@ Dragonmarked houses employ adventurers who suit their needs. The roles character
 
 Your group and your DM should decide together which house employs you. The nature of the missions you undertake depends in part on the house or guild you work for, but there are general categories of work that every house needs agents to perform on its behalf. The House Missions table provides suggestions for which house might employ you along with multiple possibilities for adventures that overlap with their interests. For the more general kind of work you might carry out on behalf of any dragonmarked house, consult the General House Missions table.
 
-![General House Missions](/3-Mechanics/CLI/tables/general-house-missions-erlw.md)
+![General House Missions](3-Mechanics/CLI/tables/general-house-missions-erlw.md)
 
-![House Missions](/3-Mechanics/CLI/tables/house-missions-erlw.md)
+![House Missions](3-Mechanics/CLI/tables/house-missions-erlw.md)
 
 ### House Status
 
 Politics within a dragonmarked house can be vicious. Perhaps your the house leadership's favorite scion. Perhaps you've been exiled from your house for misdeeds—your own or another's. In any case, use the Group Status table to determine your party's standing within the organization.
 
-![House Status; Group Status](/3-Mechanics/CLI/tables/house-status-group-status-erlw.md)
+![House Status; Group Status](3-Mechanics/CLI/tables/house-status-group-status-erlw.md)
 
 ### Dragonmarked House Contacts
 
 Your primary contact within your patron house is another house agent—perhaps a dragonmarked heir, another family member, or a guild leader. Some contacts are devoted to the house and its interests, while others might use your group to pursue a personal agenda. Consult the House Contacts table to determine what sort of arbiter oversees your party.
 
-![Dragonmarked House Contacts; House Contacts](/3-Mechanics/CLI/tables/dragonmarked-house-contacts-house-contacts-erlw.md)
+![Dragonmarked House Contacts; House Contacts](3-Mechanics/CLI/tables/dragonmarked-house-contacts-house-contacts-erlw.md)
 
 ### The Twelve
 
@@ -338,7 +338,7 @@ The Twelve is headquartered in a many-spired keep that floats in the air above t
 
 With a long record of providing benefit to society at large, the Twelve is widely respected. Some of their closest allies include the following groups:
 
-![Headquarters of the Twelve](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/059-1-44.webp#center)
+![Headquarters of the Twelve](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/059-1-44.webp#center)
 
 **Dragonmarked Houses**. Above all, the Twelve has the almost universal support of the dragonmarked houses, which provide the funding to support its continued operation. One of the few things that all the houses agree on is that the Twelve should be allowed to do its work in peace. Agents of the Twelve can count on at least a minimal level of assistance from the houses in case of dire need.
 
@@ -370,7 +370,7 @@ The King's Citadel is based in Breland's capital city of Wroat, under the comman
 
 The Sharn office of the King's Citadel is in Andith Tower in the Ambassador Towers district. Though a knight marshal commands the office, most of the King's Citadel members in Sharn are Dark Lanterns, and thus under the authority of a scheming and ruthless gnome named Talleon Haliar Tonan.
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/060-1-45.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/060-1-45.webp#center)
 
 #### Agents
 
@@ -435,25 +435,25 @@ Espionage agents are typically both highly trained and tightly specialized. The 
 
 Espionage activities can be classified in three broad categories: counterintelligence, covert action, and intelligence gathering. Your party might focus on one of those areas, or perhaps you're the team that handles situations that other teams bungle. As a group, work with your DM and consult the Espionage Missions table to decide what kinds of missions you might undertake.
 
-![Types of Espionage; Espionage Missions](/3-Mechanics/CLI/tables/types-of-espionage-espionage-missions-erlw.md)
+![Types of Espionage; Espionage Missions](3-Mechanics/CLI/tables/types-of-espionage-espionage-missions-erlw.md)
 
 ### Secrets
 
 Most likely, your espionage work will eventually put you in possession of secrets others don't want you to know. When the time comes, consult the Secrets table to determine what clandestine knowledge your group possesses, and how it might make life complicated for you.
 
-![Secrets](/3-Mechanics/CLI/tables/secrets-erlw.md)
+![Secrets](3-Mechanics/CLI/tables/secrets-erlw.md)
 
 ### Memorable Mission
 
 You engaged in a mission that still overshadows your work. Was it the perfect operation, or do you still carry scars from a mission gone horribly wrong? Consult the Memorable Mission table to determine the details of your career-defining exploit.
 
-![Memorable Mission](/3-Mechanics/CLI/tables/memorable-mission-erlw.md)
+![Memorable Mission](3-Mechanics/CLI/tables/memorable-mission-erlw.md)
 
 ### Espionage Agency Contacts
 
 Your assignments come from a superior in the agency who typically works at a desk rather than in the field—compiling intelligence into reports for their superiors and coordinating the activities of multiple groups. Use the Agency Contacts table to determine the character of your superior, which can shape the kinds of missions you undertake and the degree of support you receive.
 
-![Espionage Agency Contacts; Agency Contacts](/3-Mechanics/CLI/tables/espionage-agency-contacts-agency-contacts-erlw.md)
+![Espionage Agency Contacts; Agency Contacts](3-Mechanics/CLI/tables/espionage-agency-contacts-agency-contacts-erlw.md)
 
 ### Other Espionage Agencies
 
@@ -495,7 +495,7 @@ Bitter Cyran avengers who punish those they believe responsible for the Mourning
 
 **The Five Nations**. Aundairians, Karrns, and Thranes are generally unsympathetic to the plight of displaced Cyrans. Many of them bitterly bear the scars of the war, their resentments reinforced by the deeds of violent Cyran extremists. Even the Brelish, for all their practiced indifference, become guarded when confronted by Cyrans, who represent a burden foisted upon them by their leaders. They tend to treat Cyran refugees as second-class citizens and vagabonds. Among non-Cyran communities, agents of Prince Oargev can't rely on aid from any of Cyre's former enemies.
 
-**The Lord of Blades.** In the depths of the Mournland, the closest thing to a sovereign is [the Lord of Blades](/3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)—a heavily enhanced warforged who seeks vengeance against those who created his people to serve as weapons. He is hostile to adventurers who enter the Mournland on missions of plunder, and the idea of Prince Oargev reclaiming the Mournland fills him with fury. He shows Oargev's agents no mercy.
+**The Lord of Blades.** In the depths of the Mournland, the closest thing to a sovereign is [the Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)—a heavily enhanced warforged who seeks vengeance against those who created his people to serve as weapons. He is hostile to adventurers who enter the Mournland on missions of plunder, and the idea of Prince Oargev reclaiming the Mournland fills him with fury. He shows Oargev's agents no mercy.
 
 ### Patron Benefits
 
@@ -518,7 +518,7 @@ With a head of state as your group's patron, you gain the following benefits:
 
 A head of state like Prince Oargev requires a variety of adventurers to do the range of tasks they require. Depending on the kinds of work you do, your party might include some or all of these roles:
 
-![Prince Oargev ir'Wynarn](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/061-1-46.webp#center)
+![Prince Oargev ir'Wynarn](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/061-1-46.webp#center)
 
 **Civil Servant**. The vast majority of work performed on behalf of a head of state has very little to do with deadly adventure: it's about prosecuting and judging criminals in the courts of law, hearing the petitions and complaints of citizens, collecting taxes, and interminable amounts of paperwork. Once in a while, though, a faithful Civil Servant gets forcefully pulled from this work and thrust into life-or-death situations, with or without help from more hardened adventurers. The knowledge and experience of a Civil Servant can often be useful, with some developing skills as clerics, rogues, wizards, or other classes. Such characters often come from the sage background and have proficiency in skills that reflect their studies, such as Arcana, History, Nature, and Religion.
 
@@ -532,19 +532,19 @@ A head of state like Prince Oargev requires a variety of adventurers to do the r
 
 Sometimes there's a fine line between the missions assigned by a head of state and those of an espionage agency or a military force, but your team's central focus is politics. As a group, consult the Cyran Affairs table and work with your DM to decide what kinds of adventures you undertake on behalf of Prince Oargev. The Heads of State table at the end of the section offers additional options for leaders who might make appealing patrons.
 
-![National Affairs; Cyran Affairs](/3-Mechanics/CLI/tables/national-affairs-cyran-affairs-erlw.md)
+![National Affairs; Cyran Affairs](3-Mechanics/CLI/tables/national-affairs-cyran-affairs-erlw.md)
 
 ### Official Status
 
 Heads of state employ a variety of agents. Some are officially recognized, but others are expected to operate on the borders of legality. Consult the State Status table to determine the nature of your group's work
 
-![Official Status; State Status](/3-Mechanics/CLI/tables/official-status-state-status-erlw.md)
+![Official Status; State Status](3-Mechanics/CLI/tables/official-status-state-status-erlw.md)
 
 ### Head of State Contacts
 
 Often, your connection to your patron is quite direct—the head of state summons you, grants you an audience, and gives you an assignment or hears your report. Heads of state are busy people, though, and if your business isn't pressing, you might be handled by a functionary of the court. The State Contacts table provides several options for what functionaries your group might work with when the head of state is indisposed.
 
-![Head of State Contacts; State Contacts](/3-Mechanics/CLI/tables/head-of-state-contacts-state-contacts-erlw.md)
+![Head of State Contacts; State Contacts](3-Mechanics/CLI/tables/head-of-state-contacts-state-contacts-erlw.md)
 
 ### Other Heads of State
 
@@ -552,7 +552,7 @@ The head of almost any nation described in chapter 2 could be your patron. For s
 
 The Heads of State table offers suggestions for the kind of work you might do for other national leaders in Khorvaire, if Prince Oargev isn't your patron.
 
-![Other Heads of State; Heads of State](/3-Mechanics/CLI/tables/other-heads-of-state-heads-of-state-erlw.md)
+![Other Heads of State; Heads of State](3-Mechanics/CLI/tables/other-heads-of-state-heads-of-state-erlw.md)
 
 ## Immortal Being
 
@@ -564,7 +564,7 @@ A mysterious figure who appears in lofty myths and children's fables, Sora Kell 
 
 One fact is indisputable: Sora Kell is an immortal being who employs mortals to do her bidding. In exchange, she trades lore from her boundless stores of magic items, racks of scrolls, libraries of ancient spells, maps of forgotten ruins, and tomes unveiling the mysteries of the multiverse, which she has secreted away in caches across the planes.
 
-![Sora Kell and a Dreamer](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/062-1-47.webp#center)
+![Sora Kell and a Dreamer](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/062-1-47.webp#center)
 
 #### Appearances
 
@@ -621,13 +621,13 @@ No common thread unites adventurers with an immortal patron, except perhaps unco
 
 The tasks you perform for your immortal patron can be mysterious, even trivial seeming, but they always have implications within the immortal's larger plans. Often it's hard to tell what those implications might be—and stumbling upon hints of an immortal's broader agenda might prove frightening. Your tasks could involve fulfilling prophecies in deliberate ways, preventing prophesied events from coming to pass, or even engaging in seemingly random actions that further designs invisible to mortal eyes. Immortal beings might send you on all manner of adventures, such as those shown on the Immortal Missions table.
 
-![Serving an Immortal; Immortal Missions](/3-Mechanics/CLI/tables/serving-an-immortal-immortal-missions-erlw.md)
+![Serving an Immortal; Immortal Missions](3-Mechanics/CLI/tables/serving-an-immortal-immortal-missions-erlw.md)
 
 ### Immortal Contacts
 
 Immortal beings sometimes use mortal intermediaries to contact their agents, but most of them possess magic powerful enough to communicate with you directly, even over impossible distances. Consult the Immortal Communication table to determine what mysterious method your patron uses to direct your party.
 
-![Immortal Contacts; Immortal Communication](/3-Mechanics/CLI/tables/immortal-contacts-immortal-communication-erlw.md)
+![Immortal Contacts; Immortal Communication](3-Mechanics/CLI/tables/immortal-contacts-immortal-communication-erlw.md)
 
 ### Other Immortal Beings
 
@@ -685,7 +685,7 @@ With an inquisitive agency as your group's patron, you gain the following benefi
 
 **Contacts**. Through the Finders' Guild, each associated inquisitive agency can benefit from the knowledge and experience of not only other inquisitives, but also bounty hunters, explorers, dragonshard prospectors, and others who make use of House Tharashk's talent for finding. Thus, an affiliated agency might find helpful allies not only in cities throughout the Five Nations, but even in remote corners of the wilderness where trackers and prospectors ply their trade. At the DM's discretion, your contacts might direct you to new cases, offer you leads in the case you're working on, put you in touch with their own network of contacts, or show up suddenly to pull you out of the fire. You can call in a favor from your agency to draw on the resources of any of your contacts. At the start of the campaign, roll twice on the Contacts table to choose two contacts. You will certainly acquire new contacts in the course of your adventures, who might or might not fit the descriptions of contacts on this table.
 
-![Patron Benefits; Contacts](/3-Mechanics/CLI/tables/patron-benefits-contacts-erlw.md)
+![Patron Benefits; Contacts](3-Mechanics/CLI/tables/patron-benefits-contacts-erlw.md)
 
 ### Build Your Group
 
@@ -695,7 +695,7 @@ A wide variety of talents can be useful in the work of an inquisitive, leading t
 
 **Consultant**. Sometimes skilled individuals end up working alongside inquisitives for a time. Such Consultants might work for a newspaper, study an esoteric field, or write crime fiction for a living. This character is usually similar to an Investigator, but typically has an unusual background or expert knowledge. The relationship between a Consultant and the rest of the party can be a source of drama—or comedy.
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/063-1-48.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/063-1-48.webp#center)
 
 **Interrogator**. The Interrogator specializes in interaction with suspects, witnesses, or others who need persuasion to reveal what they know. A high Charisma combined with proficiency in both Persuasion and Intimidation prove helpful in this role. Bards, paladins, and sorcerers have both the requisite talents and the ability to supplement their interrogations with magic.
 
@@ -707,7 +707,7 @@ A wide variety of talents can be useful in the work of an inquisitive, leading t
 
 Much of the work done by inquisitives is relatively mundane: collecting evidence of marital infidelity, investigating insurance fraud, or finding runaways. Sometimes these relatively innocent investigations can lead into the shadowy underbelly of society and become more dangerous, but most adventurers prefer the more dangerous kinds of inquisitive work. Your group might specialize in one particular kind of work, or it might take whatever cases come its way. Roll or pick from the Investigative Expertise table to determine your agency's specialty.
 
-![Types of Inquisitive Work; Investigative Expertise](/3-Mechanics/CLI/tables/types-of-inquisitive-work-investigative-expertise-erlw.md)
+![Types of Inquisitive Work; Investigative Expertise](3-Mechanics/CLI/tables/types-of-inquisitive-work-investigative-expertise-erlw.md)
 
 ### Signature Case
 
@@ -715,13 +715,13 @@ Inquisitives occupy a significant place in the popular imagination, both in thei
 
 Whether true or false, stories like these tend to cling to inquisitive agencies and color their reputations. What big story is associated with your agency (and possibly your party)? Are the stories accurate, or do they reflect only one side of a complicated situation? Roll on the Signature Case table or choose a case that cemented your reputation.
 
-![Signature Case](/3-Mechanics/CLI/tables/signature-case-erlw.md)
+![Signature Case](3-Mechanics/CLI/tables/signature-case-erlw.md)
 
 ### Clientele
 
 Inquisitives tend to acquire a reputation for working with a certain type of person. Some are known for discretion, attracting wealthy clients who trust them to keep a secret. Others are known to have a soft spot for a sad story, drawing the type of client who has plenty of troubles but little money. Roll on or choose an option from the Clientele table to determine who tends to show up at your office with a case.
 
-![Clientele](/3-Mechanics/CLI/tables/clientele-erlw.md)
+![Clientele](3-Mechanics/CLI/tables/clientele-erlw.md)
 
 ### Other Inquisitive Agencies
 
@@ -749,13 +749,13 @@ As an elite group of special forces, the Redcloaks don't include inexperienced a
 
 First, the Redcloaks do sometimes take inexperienced adventurers under their wings. Existing Redcloaks proved themselves on the battlefields of the Last War; if the group is to continue, the Redcloaks of the future have to learn the soldier's trade in different battles. To such ends, senior members of the battalion send your party on missions across Khorvaire to provide you with combat experience as well as to further Redcloak goals.
 
-Alternatively, your DM might decide to start the campaign with your characters at a higher level and already established as members of the Redcloaks (see ""Starting at Higher Level"" in chapter 1 of the "Dungeon Master's Guide"). In this case, you might also begin with magic items and other gear reflecting your status in the organization. The standard-issue uniform for the Redcloaks is a hooded crimson cloak of protection bearing two badges: the seal of the Brelish crown on the left shoulder and a snarling displacer beast surrounded by the words, "First in battle, last to fall"—the Redcloak insignia and motto—on the right.
+Alternatively, your DM might decide to start the campaign with your characters at a higher level and already established as members of the Redcloaks (see ""Starting at Higher Level"" in chapter 1 of the "Dungeon Master's Guide"). In this case, you might also begin with magic items and other gear reflecting your status in the organization. The standard-issue uniform for the Redcloaks is a hooded crimson [cloak of protection](3-Mechanics/CLI/items/cloak-of-protection.md) bearing two badges: the seal of the Brelish crown on the left shoulder and a snarling displacer beast surrounded by the words, "First in battle, last to fall"—the Redcloak insignia and motto—on the right.
 
 #### Allies
 
 As part of Breland's military forces, the Redcloaks can count on the support of the crown, the King's Citadel, and the larger Brelish army, largely summarized as the following parties:
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/064-1-49.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/064-1-49.webp#center)
 
 **King Boranel**. The king of Breland is a cautious advocate of the Redcloaks. He values their contributions but fears their power, which is why he divided the battalion after the end of the war. Still, he rewards loyalty among the Redcloaks by showing loyalty to them in return. Again and again, he has proven himself willing to exercise his power on behalf of a loyal Redcloak.
 
@@ -806,25 +806,25 @@ A military unit, like most adventuring parties, incorporates a range of useful s
 
 The work involved in serving as a military unit is wide-ranging. Your missions potentially run the risk of shattering the fragile peace established by the Treaty of Thronehold and plunging all of Khorvaire back into war. Alternatively, you might consider running your campaign during the Last War, so your group's missions influence the war effort and don't risk violating the treaty. As a group, consider the options on the Military Missions table and work with your DM to decide how the work you do fits into the larger picture of war and peace in Khorvaire.
 
-![Military Missions](/3-Mechanics/CLI/tables/military-missions-erlw.md)
+![Military Missions](3-Mechanics/CLI/tables/military-missions-erlw.md)
 
 ### Defining Mission
 
 You were there at a crucial moment that turned the tide of the Last War. Choose or roll an option on the Defining Mission table to determine what that moment was.
 
-![Defining Mission](/3-Mechanics/CLI/tables/defining-mission-erlw.md)
+![Defining Mission](3-Mechanics/CLI/tables/defining-mission-erlw.md)
 
 ### Nemesis
 
 During the Last War, you had a run-in with a particularly dangerous foe, one who still haunts your nightmares. One day you'll have your revenge. Consult the Nemesis table to determine the identity of your foe.
 
-![Nemesis](/3-Mechanics/CLI/tables/nemesis-erlw.md)
+![Nemesis](3-Mechanics/CLI/tables/nemesis-erlw.md)
 
 ### Military Contacts
 
 Your group's primary contact within your hierarchy is generally your superior officer—the person who gives you orders and is responsible for your success or failure. The Commanding Officer table offers suggestions for the personality and goals of that officer.
 
-![Military Contacts; Commanding Officer](/3-Mechanics/CLI/tables/military-contacts-commanding-officer-erlw.md)
+![Military Contacts; Commanding Officer](3-Mechanics/CLI/tables/military-contacts-commanding-officer-erlw.md)
 
 ### Other Military Forces
 
@@ -840,7 +840,7 @@ Every nation in Khorvaire has its military forces. In addition to the Redcloak B
 
 #### Running Your Own
 
-Rather than join an existing force, you might choose to form your own mercenary outfit. You can assemble a unit of `dice:3d10|noform|noparens|avg` (`3d10`) soldiers housed in a headquarters with an armory, barracks, and private quarters for you and any other officers. Your group earns `dice:3d20|noform|noparens|avg` (`3d20`) gp per month, plus enough money to maintain your headquarters. You might be able to acquire weapons and armor through an arms dealer at a 20 percent discount, at the DM's discretion. You give the orders to those beneath you and take orders from no one, but that means that you are ultimately responsible for the activities of everyone in your outfit.
+Rather than join an existing force, you might choose to form your own mercenary outfit. You can assemble a unit of `3d10` soldiers housed in a headquarters with an armory, barracks, and private quarters for you and any other officers. Your group earns `3d20` gp per month, plus enough money to maintain your headquarters. You might be able to acquire weapons and armor through an arms dealer at a 20 percent discount, at the DM's discretion. You give the orders to those beneath you and take orders from no one, but that means that you are ultimately responsible for the activities of everyone in your outfit.
 
 You can use the Running a Business downtime activity to direct the activities of your unit and potentially increase your earnings, as described at the start of this section.
 
@@ -872,7 +872,7 @@ The *Korranberg Chronicle* is widely known and respected as a source of balanced
 
 **House Orien**. House Orien distributes the *Chronicle* along its mail and lightning rail runs across Khorvaire, helping the newspaper reach a huge audience. Employees of the *Chronicle* can travel on lightning rail coaches at a discounted rate of 15 cp/mile (instead of the usual 2 sp/mile).
 
-**House Sivis**. The newspaper also cooperates closely with House Sivis to facilitate communication between the main office and the field offices, as well as between reporters and their editors. The house bills the *Chronicle* directly for communications using [speaking stones](/3-Mechanics/CLI/items/speaking-stone-erlw.md) or sending spells directed to the newspaper's main office.
+**House Sivis**. The newspaper also cooperates closely with House Sivis to facilitate communication between the main office and the field offices, as well as between reporters and their editors. The house bills the *Chronicle* directly for communications using [speaking stones](3-Mechanics/CLI/items/speaking-stone-erlw.md) or sending spells directed to the newspaper's main office.
 
 **Zilargo**. The gnome nation of Zilargo is generally friendly to the newspaper. The senior editors, publisher, and owners of the *Chronicle* are influential people in the city of Korranberg and Zilargo as a whole. In extreme circumstances Zilargo officials might be persuaded to advocate for the newspaper's employees.
 
@@ -886,7 +886,7 @@ The *Korranberg Chronicle* is dedicated to learning and reporting the truth, and
 
 **House Thuranni**. The snoops and spies of the *Chronicle* have pried one time too many into House Thuranni's private affairs. No member or agent of the house will cooperate with *Chronicle* reporters under any circumstances.
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/065-1-50.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/065-1-50.webp#center)
 
 ### Patron Benefits
 
@@ -927,25 +927,25 @@ Newspapers employ a wide range of adventurers to bring news back to the home off
 
 Decide as a group, in consultation with your DM, what kind of reporting you do for the newspaper. It's possible that different members of your group have different specialties, or that only some members actually write stories while the rest aid the reporters. Choose an option or roll on the Journalistic Focus table to determine what sort of reporting you specialize in.
 
-![Types of Reporting; Journalistic Focus](/3-Mechanics/CLI/tables/types-of-reporting-journalistic-focus-erlw.md)
+![Types of Reporting; Journalistic Focus](3-Mechanics/CLI/tables/types-of-reporting-journalistic-focus-erlw.md)
 
 ### Famous Story
 
 Is there one story that hangs over your group's head, for good or ill? Maybe it sets a high bar you might never reach again, or ensures you'll never write a story of a different kind. Consult the Famous Story table to determine what reporting has most colored your career.
 
-![Famous Story](/3-Mechanics/CLI/tables/famous-story-erlw.md)
+![Famous Story](3-Mechanics/CLI/tables/famous-story-erlw.md)
 
 ### Reporting Repercussions
 
 Your reporting changes lives—you like to think for the better. Sometimes, though, your work has drawn some fairly pointed criticism and earned you an enemy. Reference the Story Aftermath table to determine the repercussions of one of your most impactful stories.
 
-![Reporting Repercussions; Story Aftermath](/3-Mechanics/CLI/tables/reporting-repercussions-story-aftermath-erlw.md)
+![Reporting Repercussions; Story Aftermath](3-Mechanics/CLI/tables/reporting-repercussions-story-aftermath-erlw.md)
 
 ### Newspaper Contacts
 
 Usually, your primary contact—the person who gives you assignments for the newspaper—is an editor of some kind, who takes the stories you write and makes them suitable for the printed page. Depending on the editor, you might not even recognize the stories when they're printed, and your editor's personality and goals can have a tremendous impact on your work for the paper. Consult the Newspaper Contact table to learn about the editor or other newspaper figure you're responsible to.
 
-![Newspaper Contact](/3-Mechanics/CLI/tables/newspaper-contact-erlw.md)
+![Newspaper Contact](3-Mechanics/CLI/tables/newspaper-contact-erlw.md)
 
 ### Other Newspapers
 
@@ -964,7 +964,7 @@ Besides the well-respected *Korranberg Chronicle*, other newspapers in Khorvaire
 
 #### Running Your Own
 
-Rather than work for an existing outlet, you can run your own newspaper. You own a small office and a printing press, and keep `dice:2d4|noform|noparens|avg` (`2d4`) employees to manage daily tasks and keep the paper going to press. You gain the benefit of press access as described earlier. Additionally, you can use the Running a Business downtime activity to direct the activities of your paper in hopes of increasing your earnings, as described at the start of this section.
+Rather than work for an existing outlet, you can run your own newspaper. You own a small office and a printing press, and keep `2d4` employees to manage daily tasks and keep the paper going to press. You gain the benefit of press access as described earlier. Additionally, you can use the Running a Business downtime activity to direct the activities of your paper in hopes of increasing your earnings, as described at the start of this section.
 
 ## Religious Order
 
@@ -982,7 +982,7 @@ As templars of the Silver Flame, you have distinctive silver tabards to wear ove
 
 The order of the Templars of the Silver Flame is represented on the Council of Cardinals that serves as the governing body of Thrane and the church. Seven commanders govern the knights of the order under the Grand Master's leadership: one for each of the Five Nations of old, one for foreign lands, and one for the seas. Their assistants carry the title of marshal, but no real division of rank exists beneath them.
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/066-1-51.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/066-1-51.webp#center)
 
 Knights templar are free to wander the world in pursuit of the order's aims. When leaving the jurisdiction of one commander and entering that of another, it is a knight's responsibility to promptly report to the commander of the new area, in case that commander has a pressing need for a knight to perform a mission. The commanders try to keep each other informed about where knights are operating and what they are doing, but this system works better in some places—and between some commanders—than others.
 
@@ -1039,19 +1039,19 @@ Religious orders attract people from all walks of life. It can be fun to play ag
 
 What is the nature of your work for the religious order? As a group, consult the Religious Service table and work with your DM to decide what role you play—which likely shapes the kind of adventures you undertake.
 
-![Serving the Order; Religious Service](/3-Mechanics/CLI/tables/serving-the-order-religious-service-erlw.md)
+![Serving the Order; Religious Service](3-Mechanics/CLI/tables/serving-the-order-religious-service-erlw.md)
 
 ### Hierarchy
 
 Some religious orders are viewed with suspicion by the priestly hierarchies of their faiths; others are viewed as champions who act as the gods' hands in the world. Within a religious order, some members are highly respected while others are seen as dangerous for one reason or another. What is your relationship to the hierarchy you're a part of? Is your entire order held in particularly high or low esteem? Or does your adventuring party stand out from the larger order for some reason? Is your behavior in line with the expectations of your religion, or is it unorthodox in some way? Reference the Order Reputation table to determine how you're viewed by your larger religious institution.
 
-![Hierarchy; Order Reputation](/3-Mechanics/CLI/tables/hierarchy-order-reputation-erlw.md)
+![Hierarchy; Order Reputation](3-Mechanics/CLI/tables/hierarchy-order-reputation-erlw.md)
 
 ### Religious Order Contacts
 
 Your primary contact within the religious order is usually some kind of priest—not necessarily a cleric or druid, but someone who holds a priestly office and a position of some authority in the hierarchy of the organization. This person might direct you and your adventures according to their interpretation of divine will, or they might trust the gods to lead you to do what needs to be done. Of course, some priests (as well as lay functionaries) are more interested in their own agendas than any supposed divine will. Consult the Order Contact table to determine your liaison within the religious order.
 
-![Religious Order Contacts; Order Contact](/3-Mechanics/CLI/tables/religious-order-contacts-order-contact-erlw.md)
+![Religious Order Contacts; Order Contact](3-Mechanics/CLI/tables/religious-order-contacts-order-contact-erlw.md)
 
 ### Other Religious Orders
 
@@ -1111,7 +1111,7 @@ A group sponsored by a university might look very much like any other adventurin
 
 **Field Researcher**. The academic in your group might also be a character with plenty of training and experience in the dangerous life of an adventurer. Sometimes called tomb raiders or grave robbers, such characters know that groundbreaking work requires firsthand experience with the creatures, cultures, forces, and histories being investigated, and the best way to get that is in the field. This role is similar to the Scholar, but the Field Researcher is armed with combat-oriented spells that supplement the knowledge-focused capabilities of the Scholar, preparing them to face those who guard the world's greatest secrets.
 
-![Morgrave University](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/067-1-52.webp#center)
+![Morgrave University](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/067-1-52.webp#center)
 
 **Financier**. Whether they're hunting for grants or seeking donations from wealthy philanthropists, the Financier seeks the funds to pay for academic expeditions. Such characters might know their ways around ballrooms, boardrooms, and seedy taverns, willing to do whats necessary to get what they need. Those in this role often exude Charisma and might be adept with the Deception, Intimidation, and Persuasion skills. Bards and rogues make natural academic Financiers, as do those with the charlatan and noble backgrounds.
 
@@ -1123,19 +1123,19 @@ A group sponsored by a university might look very much like any other adventurin
 
 Decide as a group, in consultation with your DM, what kind of work your group does for the university. Consult the Scholarly Missions table to determine what sort of adventures you undertake.
 
-![Scholarly Missions](/3-Mechanics/CLI/tables/scholarly-missions-erlw.md)
+![Scholarly Missions](3-Mechanics/CLI/tables/scholarly-missions-erlw.md)
 
 ### Scholarly Standing
 
 Academics live and die by their reputation. Some stand as embodiments of their fields of expertise, others might be considered con artists who stigmatize whole academic fields. Roll on or choose an option from the Scholarly Standing table to determine what other people think about your research.
 
-![Scholarly Standing](/3-Mechanics/CLI/tables/scholarly-standing-erlw.md)
+![Scholarly Standing](3-Mechanics/CLI/tables/scholarly-standing-erlw.md)
 
 ### University Contacts
 
 With a university as your patron, you are part of a sprawling bureaucracy—maybe deep in the tangles of it or, more likely, lingering at the edges. Wherever you sit in the network of colleges, administrators, and faculty, a single person serves as your primary point of contact, someone who has a significant impact on the nature of your relationship with the university. Reference the University Contact table to help determine who manages the relationship between you and the university.
 
-![University Contact](/3-Mechanics/CLI/tables/university-contact-erlw.md)
+![University Contact](3-Mechanics/CLI/tables/university-contact-erlw.md)
 
 ### Other Universities
 

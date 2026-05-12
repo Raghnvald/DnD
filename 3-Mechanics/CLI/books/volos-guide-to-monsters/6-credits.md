@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Volo's Guide to Monsters* 

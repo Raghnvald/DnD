@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow
+- "Shadow"
 ---
-# [Shadow](3-Mechanics\CLI\bestiary\undead/shadow.md)
+# [Shadow](3-Mechanics/CLI/bestiary/undead/shadow.md)
 *Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
@@ -47,41 +47,42 @@ A shadow doesn't require air, food, drink, or sleep
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
   - "desc": "The shadow can move through a space as narrow as 1 inch wide without\
       \ squeezing."
     "name": "Amorphous"
-  - "desc": "While in dim light or darkness, the shadow can take the Hide action as\
-      \ a bonus action. Its stealth bonus is also improved to +6."
+  - "desc": "While in dim light or darkness, the shadow can take the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action as a bonus action. Its stealth bonus is also improved to +6."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the shadow has disadvantage on attack rolls, ability\
       \ checks, and saving throws."
     "name": "Sunlight Weakness"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4.\
-      \ The target dies if this reduces its Strength to 0. Otherwise, the reduction\
-      \ lasts until the target finishes a short or long rest.\n\nIf a non-evil humanoid\
-      \ dies from this attack, a new shadow rises from the corpse 1d4 hours later."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced\
+      \ by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the\
+      \ reduction lasts until the target finishes a short or long rest.\n\nIf a non-evil\
+      \ humanoid dies from this attack, a new [shadow](3-Mechanics/CLI/bestiary/undead/shadow.md)\
+      \ rises from the corpse 1d4 hours later."
     "name": "Strength Drain"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/shadow.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/shadow.webp"
 ```
 ^statblock
 

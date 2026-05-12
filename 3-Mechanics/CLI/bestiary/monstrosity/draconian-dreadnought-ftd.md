@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draconian Dreadnought
+- "Draconian Dreadnought"
 ---
-# [Draconian Dreadnought](3-Mechanics\CLI\bestiary\monstrosity/draconian-dreadnought-ftd.md)
+# [Draconian Dreadnought](3-Mechanics/CLI/bestiary/monstrosity/draconian-dreadnought-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 177*  
 
 The largest of the draconians are the dreadnoughts, who are born from the eggs of silver, blue, or sapphire dragons. They fly on mighty wings over the battlefield to wherever the fighting is the thickest. Their magical ability to change their appearance to mimic those they've slain allows them to sow confusion and despair among their enemies. When dreadnoughts are killed, their bodies burst into flames, scorching everything around them.
@@ -46,8 +46,7 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
 "saves":
   - "strength": !!int "6"
   - "wisdom": !!int "2"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Draconic"
 "cr": "4"
 "traits":
@@ -62,9 +61,9 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage."
     "name": "Serrated Sword"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) bludgeoning damage. If the target is a Large or smaller creature, it\
-      \ must succeed on a DC 14 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) bludgeoning damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 14 Strength saving throw or be knocked prone."
     "name": "Tail"
 "reactions":
   - "desc": "After the draconian kills a Medium or smaller Humanoid, the draconian\
@@ -74,6 +73,6 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
     "name": "Shape Theft"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/draconian-dreadnought-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-dreadnought-ftd.webp"
 ```
 ^statblock

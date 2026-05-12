@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/domain/war
-aliases: 
-- Tiamat
+aliases:
+- "Tiamat"
 ---
 # Tiamat
 *Source: Explorer's Guide to Wildemount p. 28* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-tiamat.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-tiamat.webp#symbol)
 
 - **Alignment**: Lawful Evil
 - **Category**: Betrayer Gods

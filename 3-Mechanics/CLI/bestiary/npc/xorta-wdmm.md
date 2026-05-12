@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xorta
+- "Xorta"
 ---
-# [Xorta](3-Mechanics\CLI\bestiary\npc/xorta-wdmm.md)
+# [Xorta](3-Mechanics/CLI/bestiary/npc/xorta-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 98*  
 
 ```statblock
@@ -38,26 +38,29 @@ aliases:
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Giant"
 "cr": "7"
 "traits":
-  - "desc": "Xorta has advantage on Dexterity (Stealth) checks made to hide in rocky\
-      \ terrain."
+  - "desc": "Xorta has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
   - "desc": "Xorta makes two greatclub attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked prone."
+      \ on a DC 17 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Rock"
 "reactions":
   - "desc": "If a rock or similar object is hurled at Xorta, Xorta can, with a successful\
@@ -66,6 +69,6 @@ aliases:
     "name": "Rock Catching"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/xorta-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/xorta-wdmm.webp"
 ```
 ^statblock

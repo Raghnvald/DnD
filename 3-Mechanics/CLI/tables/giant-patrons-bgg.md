@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Giant Patrons
+- "Giant Patrons"
 ---
 # Giant Patrons
 *Source: Bigby Presents: Glory of the Giants p. 59* 

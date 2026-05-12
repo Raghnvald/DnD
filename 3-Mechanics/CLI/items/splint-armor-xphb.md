@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Splint Armor"
 ---
 # Splint Armor
 *Heavy armor*  
-![](/3-Mechanics/CLI/items/img/splint-armor.webp#right)
+![](3-Mechanics/CLI/items/img/splint-armor.webp#right)
 
 - **Armor Class**: 17
 - **Strength**: Requires 15 STR.

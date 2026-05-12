@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pteranodon
+- "Pteranodon"
 ---
-# [Pteranodon](3-Mechanics\CLI\bestiary\beast/pteranodon.md)
+# [Pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md)
 *Source: Monster Manual p. 80. Available in the Basic Rules (2014)*  
 
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.
@@ -45,7 +45,7 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   - !!int "5"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
 "senses": "passive Perception 11"
 "languages": ""
@@ -55,12 +55,12 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
       \ of an enemy's reach."
     "name": "Flyby"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) piercing damage"
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/pteranodon.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/pteranodon.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/11
-- new/monster/size/medium
-- new/monster/type/humanoid/warlock
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hierophant of the Comet
+- "Hierophant of the Comet"
 ---
-# [Hierophant of the Comet](3-Mechanics\CLI\bestiary\humanoid/hierophant-of-the-comet-bmt.md)
+# [Hierophant of the Comet](3-Mechanics/CLI/bestiary/humanoid/hierophant-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 92*  
 
 The number of hierophants is fixed at twenty-two on any one world, one for each card in a Deck of Many Things. As a group, hierophants are sometimes called Sages, but each hierophant is also identified with a particular card. When a hierophant dies, the remaining leaders choose an initiate to fill the position, preferring initiates from the oldest broods.
@@ -72,19 +72,19 @@ The leaders of the Heralds of the Comet, hierophants are powerful warlocks with 
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (1d12 + 5) slashing damage plus 10 (3d6) necrotic damage."
     "name": "Herald's Axe"
-  - "desc": "*Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) force damage."
+  - "desc": "*Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) force damage."
     "name": "Comet Blast"
   - "desc": "The hierophant conjures a manifestation of the All-Consuming Star: brilliant\
       \ light and haunting screams that fill a 20-foot-radius sphere centered on a\
       \ point the hierophant can see within 60 feet of itself. Each creature within\
       \ the sphere has the blinded and deafened conditions. Each creature that enters\
       \ the sphere for the first time on a turn or starts its turn there must make\
-      \ a DC 17 Wisdom saving throw. On a failed save, a creature takes 27 (6d8) psychic\
-      \ damage and has the incapacitated condition until the start of its next turn.\
-      \ On a successful save, a creature takes half as much damage only. The manifestation\
-      \ persists until the hierophant dies, has the incapacitated condition, uses\
-      \ a bonus action to end the effect, or uses this action again."
+      \ a DC 17 Wisdom saving throw. On a failed save, a creature takes 27 (6d8)\
+      \ psychic damage and has the incapacitated condition until the start of its\
+      \ next turn. On a successful save, a creature takes half as much damage only.\
+      \ The manifestation persists until the hierophant dies, has the incapacitated\
+      \ condition, uses a bonus action to end the effect, or uses this action again."
     "name": "All-Consuming Star (Recharge 6)"
   - "desc": "The hierophant casts one of the following spells, using Charisma as the\
       \ spellcasting ability (spell save DC 17):\n\n**At will:** Detect Thoughts,\
@@ -97,6 +97,6 @@ The leaders of the Heralds of the Comet, hierophants are powerful warlocks with 
     "name": "Star's Hunger"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/hierophant-of-the-comet-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/hierophant-of-the-comet-bmt.webp"
 ```
 ^statblock

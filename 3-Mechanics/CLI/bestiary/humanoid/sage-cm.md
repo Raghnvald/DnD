@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sage
+- "Sage"
 ---
-# [Sage](3-Mechanics\CLI\bestiary\humanoid/sage-cm.md)
+# [Sage](3-Mechanics/CLI/bestiary/humanoid/sage-cm.md)
 *Source: Candlekeep Mysteries p. 9*  
 
 Candlekeep's resident lore experts are master sages and sages who dedicate themselves to scholarship above all.
@@ -59,9 +59,9 @@ Candlekeep's resident lore experts are master sages and sages who dedicate thems
       \ damage, and the target can't take reactions until the start of its next turn."
     "name": "Shocking Grasp (Cantrip)"
   - "desc": "The sage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (save DC 14, +6 to hit with spell attacks):\n\n**At will:**\
-      \ light, mage hand, mending\n\n**3/day each:** comprehend languages, detect\
-      \ magic, identify\n\n**1/day each:** dispel magic, levitate, locate object,\
+      \ spellcasting ability (save DC 14, +6 to hit with spell attacks):\n\n**At\
+      \ will:** light, mage hand, mending\n\n**3/day each:** comprehend languages,\
+      \ detect magic, identify\n\n**1/day each:** dispel magic, levitate, locate object,\
       \ see invisibility, sending, tongues, unseen servant"
     "name": "Spellcasting"
 "reactions":
@@ -72,6 +72,6 @@ Candlekeep's resident lore experts are master sages and sages who dedicate thems
     "name": "Shield (1st-Level Spell; 3/Day)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sage-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sage-cm.webp"
 ```
 ^statblock

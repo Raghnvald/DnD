@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Body Horror Plots
+- "Body Horror Plots"
 ---
 # Body Horror Plots
 *Source: Van Richten's Guide to Ravenloft p. 47* 
 
 **Body Horror Plots**
-
-`dice: [](body-horror-plots-vrgr.md#^body-horror-plots)`
 
 | dice: d8 | Plot |
 |----------|------|

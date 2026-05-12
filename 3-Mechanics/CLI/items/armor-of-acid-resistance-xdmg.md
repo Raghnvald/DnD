@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Acid Resistance"
 - "Breastplate of Acid Resistance"
 - "Chain Mail of Acid Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to acid damage while you wear this armor.
+You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to acid damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)

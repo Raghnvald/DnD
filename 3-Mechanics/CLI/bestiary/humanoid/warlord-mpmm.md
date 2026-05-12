@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warlord
+- "Warlord"
 ---
-# [Warlord](3-Mechanics\CLI\bestiary\humanoid/warlord-mpmm.md)
+# [Warlord](3-Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
@@ -21,8 +21,6 @@ Warlords are legendary battlefield commanders, whose names are spoken with awe. 
 Warlords urge their troops into the fray with shouted exhortations. You can roll on the Warlord Battle Cries table to select one, or choose a battle cry that fits with your campaign.
 
 **Warlord Battle Cries**
-
-`dice: [](warlord-mpmm.md#^warlord-battle-cries)`
 
 | dice: d8 | Battle Cry |
 |----------|------------|
@@ -42,7 +40,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "229"
 "hit_dice": "27d8 + 108"
 "modifier": !!int "3"
@@ -59,14 +57,17 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
   - "dexterity": !!int "7"
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "12"
@@ -97,13 +98,13 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
     "name": "Weapon Attack"
   - "desc": "The warlord targets one creature it can see within 30 feet of it. If\
       \ the target can see and hear it, the target must succeed on a DC 16 Wisdom\
-      \ saving throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ until the end of warlord's next turn."
     "name": "Frighten Foe (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warlord-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/warlord-mpmm.webp"
 ```
 ^statblock
 

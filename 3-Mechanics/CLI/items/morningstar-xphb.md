@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Morningstar"
 ---
 # Morningstar
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/morningstar.webp#right)
+![](3-Mechanics/CLI/items/img/morningstar.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Cost**: 15 gp

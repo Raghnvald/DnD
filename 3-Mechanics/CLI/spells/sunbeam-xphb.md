@@ -12,7 +12,7 @@ tags:
 - ttrpg-cli/spell/level/6th-level
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/arcana-domain
-- ttrpg-cli/spell/subclass/divine-soul/good
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/evoker
 classes:
 - Bard
@@ -20,11 +20,11 @@ classes:
 - Cleric (Arcana Domain)
 - Druid
 - Sorcerer
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Evoker)
 aliases:
-- Sunbeam
+- "Sunbeam"
 ---
 # Sunbeam
 *6th-level, Evocation*  
@@ -35,12 +35,12 @@ aliases:
 - **Components:** V, S, M (a magnifying glass)
 - **Duration:** Concentration, up to 1 minute
 
-You launch a sunbeam in a 5-foot-wide, 60-foot-long [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). Each creature in the [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md) makes a Constitution saving throw. On a failed save, a creature takes `dice:6d8|noform|noparens|avg` (`6d8`) Radiant damage and has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition until the start of your next turn. On a successful save, it takes half as much damage only.
+You launch a sunbeam in a 5-foot-wide, 60-foot-long [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). Each creature in the [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md) makes a Constitution saving throw. On a failed save, a creature takes `6d8` Radiant damage and has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition until the start of your next turn. On a successful save, it takes half as much damage only.
 
-Until the spell ends, you can take a [Magic](/3-Mechanics/CLI/actions.md#Magic) action to create a new [Line](/3-Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md) of radiance.
+Until the spell ends, you can take a [Magic](3-Mechanics/CLI/rules/actions.md#Magic) action to create a new [Line](3-Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md) of radiance.
 
-For the duration, a mote of brilliant radiance shines above you. It sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 30 feet. This light is sunlight.
+For the duration, a mote of brilliant radiance shines above you. It sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet. This light is sunlight.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](/3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](3-Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

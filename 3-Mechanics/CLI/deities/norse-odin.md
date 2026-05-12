@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/norse
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/war
-aliases: 
-- Odin
+aliases:
+- "Odin"
 ---
 # Odin
 *Source: Player's Handbook p. 299* 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Class Training; I became...
+- "Class Training; I became..."
 ---
 # Class Training; I became...
 *Source: Xanathar's Guide to Everything p. 66* 
 
 **Barbarian**
-
-`dice: [](class-training-i-became.md#^barbarian)`
 
 | dice: d6 | I became a barbarian because... |
 |----------|---------------------------------|
@@ -26,8 +24,6 @@ aliases:
 
 **Bard**
 
-`dice: [](class-training-i-became.md#^bard)`
-
 | dice: d6 | I became a bard because... |
 |----------|----------------------------|
 | 1 | I awakened my latent bardic abilities through trial and error. |
@@ -39,8 +35,6 @@ aliases:
 ^bard
 
 **Cleric**
-
-`dice: [](class-training-i-became.md#^cleric)`
 
 | dice: d6 | I became a cleric because... |
 |----------|------------------------------|
@@ -54,8 +48,6 @@ aliases:
 
 **Druid**
 
-`dice: [](class-training-i-became.md#^druid)`
-
 | dice: d6 | I became a druid because... |
 |----------|-----------------------------|
 | 1 | I saw too much devastation in the wild places, too much of nature's splendor ruined by the despoilers. I joined a circle of druids to fight back against the enemies of nature. |
@@ -67,8 +59,6 @@ aliases:
 ^druid
 
 **Fighter**
-
-`dice: [](class-training-i-became.md#^fighter)`
 
 | dice: d6 | I became a fighter because... |
 |----------|-------------------------------|
@@ -82,8 +72,6 @@ aliases:
 
 **Monk**
 
-`dice: [](class-training-i-became.md#^monk)`
-
 | dice: d6 | I became a monk because... |
 |----------|----------------------------|
 | 1 | I was chosen to study at a secluded monastery. There, I was taught the fundamental techniques required to eventually master a tradition. |
@@ -95,8 +83,6 @@ aliases:
 ^monk
 
 **Paladin**
-
-`dice: [](class-training-i-became.md#^paladin)`
 
 | dice: d6 | I became a paladin because... |
 |----------|-------------------------------|
@@ -110,8 +96,6 @@ aliases:
 
 **Ranger**
 
-`dice: [](class-training-i-became.md#^ranger)`
-
 | dice: d6 | I became a ranger because... |
 |----------|------------------------------|
 | 1 | I found purpose while I honed my hunting skills by bringing down dangerous animals at the edge of civilization. |
@@ -123,8 +107,6 @@ aliases:
 ^ranger
 
 **Rogue**
-
-`dice: [](class-training-i-became.md#^rogue)`
 
 | dice: d6 | I became a rogue because... |
 |----------|-----------------------------|
@@ -138,8 +120,6 @@ aliases:
 
 **Sorcerer**
 
-`dice: [](class-training-i-became.md#^sorcerer)`
-
 | dice: d6 | I became a sorcerer because... |
 |----------|--------------------------------|
 | 1 | When I was born, all the water in the house froze solid, the milk spoiled, or all the iron turned to copper. My family is convinced that this event was a harbinger of stranger things to come for me. |
@@ -152,8 +132,6 @@ aliases:
 
 **Warlock**
 
-`dice: [](class-training-i-became.md#^warlock)`
-
 | dice: d6 | I became a warlock because... |
 |----------|-------------------------------|
 | 1 | While wandering around in a forbidden place, I encountered an otherworldly being that offered to enter into a pact with me. |
@@ -165,8 +143,6 @@ aliases:
 ^warlock
 
 **Wizard**
-
-`dice: [](class-training-i-became.md#^wizard)`
 
 | dice: d6 | I became a wizard because... |
 |----------|------------------------------|

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Middle-Class Carousing Complications
+- "Middle-Class Carousing Complications"
 ---
 # Middle-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 
 
 **Middle-Class Carousing Complications**
-
-`dice: [](middle-class-carousing-complications-xge.md#^middle-class-carousing-complications)`
 
 | dice: d8 | Complication |
 |----------|--------------|

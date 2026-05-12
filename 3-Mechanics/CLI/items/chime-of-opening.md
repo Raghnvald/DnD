@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Chime of Opening"
 ---
 # Chime of Opening
 *Wondrous item, minor, rare*  
-![](/3-Mechanics/CLI/items/img/chime-of-opening.webp#right)
+![](3-Mechanics/CLI/items/img/chime-of-opening.webp#right)
 
 - **Weight**: 1.0 lbs.
 

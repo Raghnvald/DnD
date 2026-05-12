@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jiangshi
+- "Jiangshi"
 ---
-# [Jiangshi](3-Mechanics\CLI\bestiary\undead/jiangshi-vrgr.md)
+# [Jiangshi](3-Mechanics/CLI/bestiary/undead/jiangshi-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 236*  
 
 When a soul becomes trapped within its corpse, its bitterness can reanimate its body, creating a jiangshi. These vengeful dead stalk their descendants and the communities they knew in life, sowing terror and taking retribution for the slights or neglected burial rites that led to their cursed resurrections. Rigor mortis notoriously afflicts the limbs of jiangshi, causing them to hold their arms rigidly and to walk with a stiff gait. This, along with their flight, lead many to call them hopping vampires.
@@ -42,11 +42,11 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
   - "intelligence": !!int "7"
   - "wisdom": !!int "6"
   - "charisma": !!int "5"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "any languages it knew in life"
 "cr": "9"
 "traits":
@@ -65,16 +65,16 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
       \ (2d8 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The jiangshi draws energy from a creature it can see within 30 feet of\
-      \ it. The target makes a DC 16 Constitution saving throw, taking 18 (4d8) necrotic\
-      \ damage on a failed save, or half as much damage on a successful one. The jiangshi\
-      \ regains hit points equal to the amount of necrotic damage dealt. After regaining\
-      \ hit points from this action, the jiangshi gains the following benefits for\
-      \ 7 days: its walking speed increases to 40 feet, and it gains a flying speed\
-      \ equal to its walking speed and can hover.\n\nA Humanoid slain by this necrotic\
-      \ damage rises as a wight (see its entry in the Monster Manual) at the end of\
-      \ the jiangshi's turn. The wight acts immediately after the jiangshi in the\
-      \ initiative order. If this wight slays a Humanoid with its Life Drain, the\
-      \ wight transforms into a jiangshi 5 days later."
+      \ it. The target makes a DC 16 Constitution saving throw, taking 18 (4d8)\
+      \ necrotic damage on a failed save, or half as much damage on a successful one.\
+      \ The jiangshi regains hit points equal to the amount of necrotic damage dealt.\
+      \ After regaining hit points from this action, the jiangshi gains the following\
+      \ benefits for 7 days: its walking speed increases to 40 feet, and it gains\
+      \ a flying speed equal to its walking speed and can hover.\n\nA Humanoid slain\
+      \ by this necrotic damage rises as a wight (see its entry in the Monster Manual)\
+      \ at the end of the jiangshi's turn. The wight acts immediately after the jiangshi\
+      \ in the initiative order. If this wight slays a Humanoid with its Life Drain,\
+      \ the wight transforms into a jiangshi 5 days later."
     "name": "Consume Energy"
   - "desc": "The jiangshi polymorphs into a Beast, a Humanoid, or an Undead that is\
       \ Medium or Small or back into its true form. Its statistics, other than its\
@@ -84,6 +84,6 @@ By day, jiangshi lurk within their tombs and hidden ruins to avoid the attention
     "name": "Change Shape"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/jiangshi-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/jiangshi-vrgr.webp"
 ```
 ^statblock

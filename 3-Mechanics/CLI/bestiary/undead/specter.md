@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Specter
+- "Specter"
 ---
-# [Specter](3-Mechanics\CLI\bestiary\undead/specter.md)
-*Source: Monster Manual p. 279, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Specter](3-Mechanics/CLI/bestiary/undead/specter.md)
+*Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
 
@@ -57,9 +57,13 @@ A specter doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained, unconscious"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -68,19 +72,19 @@ A specter doesn't require air, food, drink, or sleep.
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving\
-      \ throw or its hit point maximum is reduced by an amount equal to the damage\
-      \ taken. This reduction lasts until the creature finishes a long rest. The target\
-      \ dies if this effect reduces its hit point maximum to 0."
+  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution\
+      \ saving throw or its hit point maximum is reduced by an amount equal to the\
+      \ damage taken. This reduction lasts until the creature finishes a long rest.\
+      \ The target dies if this effect reduces its hit point maximum to 0."
     "name": "Life Drain"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/specter.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/specter.webp"
 ```
 ^statblock
 

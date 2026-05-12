@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Brute
+- "Hybrid Brute"
 ---
-# [Hybrid Brute](3-Mechanics\CLI\bestiary\humanoid/hybrid-brute-ggr.md)
+# [Hybrid Brute](3-Mechanics/CLI/bestiary/humanoid/hybrid-brute-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 217*  
 
 ## Simic Hybrids
@@ -23,7 +23,7 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "name": "Hybrid Brute (GGR)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Simic hybrid"
+"subtype": "simic hybrid"
 "alignment": "Neutral Good"
 "ac": !!int "18"
 "ac_class": "natural armor"
@@ -47,11 +47,11 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "actions":
   - "desc": "The hybrid makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) slashing damage."
     "name": "Claw"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/hybrid-brute-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/hybrid-brute-ggr.webp"
 ```
 ^statblock

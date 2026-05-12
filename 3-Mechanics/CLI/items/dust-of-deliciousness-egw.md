@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Dust of Deliciousness"
 ---
 # Dust of Deliciousness

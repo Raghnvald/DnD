@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kysh
+- "Kysh"
 ---
-# [Kysh](3-Mechanics\CLI\bestiary\npc/kysh-gos.md)
+# [Kysh](3-Mechanics/CLI/bestiary/npc/kysh-gos.md)
 *Source: Ghosts of Saltmarsh p. 240*  
 
 A prisoner of the sahuagin in The Final Enemy, Kysh is a defender of the deep sea realms who is ready to join the party in their struggle. Tritons are folk of the Elemental Plane of Water who journeyed to the Material Plane to watch over the dark places of the ocean depths. They stand guard over portals, deep sea chasms, and other places where foul monsters might emerge. When such threats appear, the tritons take up arms to drive them from the world.
@@ -40,6 +40,8 @@ A prisoner of the sahuagin in The Final Enemy, Kysh is a defender of the deep se
     "desc": "+4"
   - "name": "Survival"
     "desc": "+3"
+"gear":
+  - "spear"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Primordial"
 "cr": "1"
@@ -63,6 +65,6 @@ A prisoner of the sahuagin in The Final Enemy, Kysh is a defender of the deep se
     "name": "Spear"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kysh-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kysh-gos.webp"
 ```
 ^statblock

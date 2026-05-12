@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Banderhobb
+- "Banderhobb"
 ---
-# [Banderhobb](3-Mechanics\CLI\bestiary\monstrosity/banderhobb-mpmm.md)
+# [Banderhobb](3-Mechanics/CLI/bestiary/monstrosity/banderhobb-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  
 
 A banderhobb is a hybrid of shadow and flesh. Through vile magic, these components take on an enormous and horrific upright shape resembling a bipedal toad. In this form, a banderhobb temporarily serves its creator as a thug, a thief, and a kidnapper that swallows the unwary.
@@ -43,13 +43,13 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "understands Common and the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -63,10 +63,10 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
       \ one attack with a use of Shadow Step."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (3d6 + 5) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (3d6 + 5) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 16) if it is a Large or smaller creature. Until this grapple ends,\
-      \ the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained), and\
-      \ the banderhobb can't use its Bite attack or Tongue attack on another target."
+      \ the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the banderhobb can't use its Bite attack or Tongue attack on another target."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one creature. *Hit:*\
       \ 10 (3d6) necrotic damage, and the target must make a DC 16 Strength saving\
@@ -77,27 +77,27 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
       \ light or darkness that it can see."
     "name": "Shadow Step"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one Medium or smaller\
-      \ creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the banderhobb.\
-      \ *Hit:* 15 (3d6 + 5) piercing damage. The creature is also swallowed, and the\
-      \ grapple ends. The swallowed creature is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ and [restrained](/3-Mechanics/CLI/conditions.md#Restrained), it has total\
+      \ creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by the banderhobb.\
+      \ *Hit:* 15 (3d6 + 5) piercing damage. The creature is also swallowed, and\
+      \ the grapple ends. The swallowed creature is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), it has total\
       \ cover against attacks and other effects outside the banderhobb, and it takes\
-      \ 10 (3d6) necrotic damage at the start of each of the banderhobb's turns. A\
-      \ creature reduced to 0 hit points in this way stops taking the necrotic damage\
+      \ 10 (3d6) necrotic damage at the start of each of the banderhobb's turns.\
+      \ A creature reduced to 0 hit points in this way stops taking the necrotic damage\
       \ and becomes stable.\n\nThe banderhobb can have only one creature swallowed\
-      \ at a time. While the banderhobb isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
+      \ at a time. While the banderhobb isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
       \ it can regurgitate the creature at any time (no action required) in a space\
-      \ within 5 feet of it. The creature exits [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+      \ within 5 feet of it. The creature exits [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
       \ If the banderhobb dies, it likewise regurgitates a swallowed creature."
     "name": "Swallow"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the banderhobb takes the [Hide](/3-Mechanics/CLI/actions.md#Hide)\
+  - "desc": "While in dim light or darkness, the banderhobb takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
       \ action."
     "name": "Shadow Stealth"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/banderhobb-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/banderhobb-mpmm.webp"
 ```
 ^statblock
 

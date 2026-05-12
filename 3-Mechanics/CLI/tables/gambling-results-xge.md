@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Gambling Results
+- "Gambling Results"
 ---
 # Gambling Results
 *Source: Xanathar's Guide to Everything p. 130* 

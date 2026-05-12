@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/mv-b
 aliases:
-- Maneuvering Attack
+- "Maneuvering Attack"
 ---
 # Maneuvering Attack
 *Source: Player's Handbook p. 74*  

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Naiad
+- "Naiad"
 ---
-# [Naiad](3-Mechanics\CLI\bestiary\fey/naiad-cm.md)
+# [Naiad](3-Mechanics/CLI/bestiary/fey/naiad-cm.md)
 *Source: Candlekeep Mysteries p. 84*  
 
 ```statblock
@@ -60,11 +60,11 @@ aliases:
 "actions":
   - "desc": "The naiad makes two psychic touch attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
-      \ + 4) psychic damage."
+  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d10 + 4) psychic damage."
     "name": "Psychic Touch"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/naiad-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/naiad-cm.webp"
 ```
 ^statblock

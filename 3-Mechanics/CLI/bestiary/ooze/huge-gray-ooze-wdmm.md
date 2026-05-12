@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Huge Gray Ooze
+- "Huge Gray Ooze"
 ---
-# [Huge Gray Ooze](3-Mechanics\CLI\bestiary\ooze/huge-gray-ooze-wdmm.md)
+# [Huge Gray Ooze](3-Mechanics/CLI/bestiary/ooze/huge-gray-ooze-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 243*  
 
 ```statblock
@@ -33,11 +33,14 @@ aliases:
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "8"
 "traits":
@@ -56,8 +59,8 @@ aliases:
   - "desc": "As an action, it can make two attacks with its pseudopods."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 21\
-      \ (6d6) acid damage, or 42 (12d6) acid damage while the ooze is enlarged. If\
-      \ the target is wearing nonmagical metal armor, its armor is partly corroded\
+      \ (6d6) acid damage, or 42 (12d6) acid damage while the ooze is enlarged.\
+      \ If the target is wearing nonmagical metal armor, its armor is partly corroded\
       \ and takes a permanent and cumulative −1 penalty to the AC it offers. The armor\
       \ is destroyed if the penalty reduces its AC to 10."
     "name": "Pseudopod"
@@ -65,12 +68,13 @@ aliases:
       \ ooze is Gargantuan, doubles its damage dice with its pseudopod attack, and\
       \ makes Strength checks and Strength saving throws with advantage."
     "name": "Enlarge (Recharges after a Short or Long Rest)"
-  - "desc": "The ooze magically turns invisible for up to 1 hour until it attacks,\
-      \ it uses its Enlarge, or its concentration is broken (as if concentrating on\
-      \ a spell)."
+  - "desc": "The ooze magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ for up to 1 hour until it attacks, it uses its Enlarge, or its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ is broken (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell)."
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/huge-gray-ooze-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/huge-gray-ooze-wdmm.webp"
 ```
 ^statblock

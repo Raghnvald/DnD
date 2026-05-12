@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bone Naga (Guardian)
+- "Bone Naga (Guardian)"
 ---
-# [Bone Naga (Guardian)](3-Mechanics\CLI\bestiary\undead/bone-naga-guardian.md)
+# [Bone Naga (Guardian)](3-Mechanics/CLI/bestiary/undead/bone-naga-guardian.md)
 *Source: Monster Manual p. 233*  
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -57,22 +57,22 @@ A naga doesn't require air, food, drink, or sleep.
   - !!int "16"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common plus one other language"
 "cr": "4"
 "traits":
   - "desc": "The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with\
       \ spell attacks) that needs only verbal components to cast its spells. Its spellcasting\
       \ ability is Wisdom, and it has the following cleric spells prepared:\n\n**Cantrips\
-      \ (at will):** [mending](/3-Mechanics/CLI/spells/mending.md), [sacred flame](/3-Mechanics/CLI/spells/sacred-flame.md),\
-      \ [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
-      \ [command](/3-Mechanics/CLI/spells/command.md), [shield of faith](/3-Mechanics/CLI/spells/shield-of-faith.md)\n\
-      \n**2nd level (3 slots):** [calm emotions](/3-Mechanics/CLI/spells/calm-emotions.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person.md)\n\n**3rd level (2 slots):**\
-      \ [bestow curse](/3-Mechanics/CLI/spells/bestow-curse.md)"
+      \ (at will):** [mending](3-Mechanics/CLI/spells/mending.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\n**1st level (4 slots):**\
+      \ [command](3-Mechanics/CLI/spells/command.md), [shield of faith](3-Mechanics/CLI/spells/shield-of-faith.md)\n\
+      \n**2nd level (3 slots):** [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person.md)\n\n**3rd level (2 slots):**\
+      \ [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
@@ -80,7 +80,7 @@ A naga doesn't require air, food, drink, or sleep.
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/bone-naga-guardian.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/bone-naga-guardian.webp"
 ```
 ^statblock
 

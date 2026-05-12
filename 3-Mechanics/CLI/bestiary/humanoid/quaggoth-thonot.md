@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quaggoth Thonot
+- "Quaggoth Thonot"
 ---
-# [Quaggoth Thonot](3-Mechanics\CLI\bestiary\humanoid/quaggoth-thonot.md)
+# [Quaggoth Thonot](3-Mechanics/CLI/bestiary/humanoid/quaggoth-thonot.md)
 *Source: Monster Manual p. 256*  
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -58,21 +58,21 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
   - !!int "7"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
   - "desc": "The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11).\
       \ The quaggoth can innately cast the following spells, requiring no components:\n\
-      \n**At will:** [feather fall](/3-Mechanics/CLI/spells/feather-fall.md), [mage\
-      \ hand](/3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\n**1/day\
-      \ each:** [cure wounds](/3-Mechanics/CLI/spells/cure-wounds.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce.md),\
-      \ [heat metal](/3-Mechanics/CLI/spells/heat-metal.md), [mirror image](/3-Mechanics/CLI/spells/mirror-image.md)"
+      \n**At will:** [feather fall](3-Mechanics/CLI/spells/feather-fall.md), [mage\
+      \ hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\n**1/day\
+      \ each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md),\
+      \ [heat metal](3-Mechanics/CLI/spells/heat-metal.md), [mirror image](3-Mechanics/CLI/spells/mirror-image.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "While it has 10 hit points or fewer, the quaggoth has advantage on attack\
       \ rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits\
@@ -81,12 +81,12 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 "actions":
   - "desc": "The quaggoth makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/quaggoth-thonot.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/quaggoth-thonot.webp"
 ```
 ^statblock
 

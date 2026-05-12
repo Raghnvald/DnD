@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nyssa Otellion
+- "Nyssa Otellion"
 ---
-# [Nyssa Otellion](3-Mechanics\CLI\bestiary\npc/nyssa-otellion-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Nyssa Otellion](3-Mechanics/CLI/bestiary/npc/nyssa-otellion-veor.md)
+*Source: Vecna: Eve of Ruin p. 157*  
 
 ```statblock
 "name": "Nyssa Otellion (VEoR)"
@@ -39,17 +39,18 @@ aliases:
   - "intelligence": !!int "12"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+12"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, lightning, poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 16"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Draconic, Infernal, telepathy 120 ft."
 "cr": "17"
 "traits":
-  - "desc": "Magical darkness doesn't impede Nyssa's darkvision."
+  - "desc": "Magical darkness doesn't impede Nyssa's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "Nyssa has advantage on saving throws against spells and other magical\
       \ effects."
@@ -64,9 +65,11 @@ aliases:
       \ 36 (8d8) lightning damage."
     "name": "Lightning Strike"
   - "desc": "Nyssa casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 20):\n\n**At will:** disguise self, mage hand, minor\
-      \ illusion\n\n**2/day each:** charm person, dispel magic, greater invisibility,\
-      \ wall of force"
+      \ ability (spell save DC 20):\n\n**At will:** [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Nyssa teleports, along with any equipment it is wearing or carrying,\
@@ -74,6 +77,6 @@ aliases:
     "name": "Teleport"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nyssa-otellion-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nyssa-otellion-veor.webp"
 ```
 ^statblock

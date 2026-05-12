@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/gnome/rock
 aliases:
-- Gnome (Rock)
+- "Gnome (Rock)"
 ---
 # Gnome (Rock)
 *Source: Player's Handbook p. 37. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
-![](/3-Mechanics/CLI/races/img/gnome.webp#right)
+![](3-Mechanics/CLI/races/img/gnome.webp#right)
 
 - **Ability Scores**: con +1
 - **Size**: Small
@@ -40,11 +40,11 @@ You can speak, read, and write Common and Gnomish. The Gnomish language, which u
 
 ### Artificer's Lore
 
-Whenever you make an Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
+Whenever you make an Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.
 
 ### Tinker
 
-You have proficiency with artisan's tools ([tinker's tools](/3-Mechanics/CLI/items/tinkers-tools.md)). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
+You have proficiency with [artisan's tools](3-Mechanics/CLI/items/artisans-tools.md) ([tinker's tools](3-Mechanics/CLI/items/tinkers-tools.md)). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.
 
 When you create a device, choose one of the following options:
 

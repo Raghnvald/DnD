@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blade Lieutenant
+- "Blade Lieutenant"
 ---
-# [Blade Lieutenant](3-Mechanics\CLI\bestiary\construct/blade-lieutenant-veor.md)
+# [Blade Lieutenant](3-Mechanics/CLI/bestiary/construct/blade-lieutenant-veor.md)
 *Source: Vecna: Eve of Ruin p. 209*  
 
 Blade lieutenants lead subordinates on raids on behalf of the Lord of Blades. Soldiers who fail to meet a lieutenant's demands are harshly disciplined.
@@ -44,39 +44,46 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
   - "intelligence": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "poison"
-"condition_immunities": "exhaustion, poisoned"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "9"
 "traits":
   - "desc": "The lieutenant has advantage on an attack roll against a creature if\
       \ at least one of the lieutenant's allies is within 5 feet of the creature and\
-      \ the ally doesn't have the incapacitated condition."
+      \ the ally doesn't have the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The lieutenant makes three Longsword or Javelin Launcher attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 17\
-      \ (3d8 + 4) slashing damage, or 20 (3d10 + 4) slashing damage if used with two\
-      \ hands."
+      \ (3d8 + 4) slashing damage, or 20 (3d10 + 4) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:*\
-      \ 14 (3d6 + 4) piercing damage, and the target has the prone condition."
+      \ 14 (3d6 + 4) piercing damage, and the target has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ condition."
     "name": "Javelin Launcher"
 "bonus_actions":
   - "desc": "The lieutenant targets one ally it can see within 30 feet of itself.\
       \ If the target can see or hear the lieutenant, the target can make one melee\
       \ attack using its reaction, if available, and has advantage on the attack roll."
     "name": "Command Ally"
-  - "desc": "The lieutenant ends the charmed and frightened conditions on itself and\
-      \ each creature of its choice that it can see within 30 feet of itself."
+  - "desc": "The lieutenant ends the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) conditions\
+      \ on itself and each creature of its choice that it can see within 30 feet of\
+      \ itself."
     "name": "Rally the Troops (1/Day)"
 "reactions":
   - "desc": "The lieutenant adds 3 to its AC against one melee attack that would hit\
@@ -85,6 +92,6 @@ In the aftermath of Eberron's Last War, a warforged called the Lord of Blades ro
     "name": "Parry"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/blade-lieutenant-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/blade-lieutenant-veor.webp"
 ```
 ^statblock

@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Shadowfell Brand Tattoo"
 ---
 # Shadowfell Brand Tattoo
@@ -25,7 +25,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Shadow Essence
 
-You gain [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks.
+You gain [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks.
 
 ## Shadowy Defense
 

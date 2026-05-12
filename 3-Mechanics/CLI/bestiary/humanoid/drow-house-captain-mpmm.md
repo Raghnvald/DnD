@@ -7,13 +7,13 @@ tags:
 - ttrpg-cli/monster/cr/9
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow House Captain
+- "Drow House Captain"
 ---
-# [Drow House Captain](3-Mechanics\CLI\bestiary\humanoid/drow-house-captain-mpmm.md)
+# [Drow House Captain](3-Mechanics/CLI/bestiary/humanoid/drow-house-captain-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 101, Mordenkainen's Tome of Foes p. 184*  
 
 > [!quote] A quote from Tasha  
@@ -28,10 +28,10 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "name": "Drow House Captain (MPMM)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md)"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md)"
 "hp": !!int "162"
 "hit_dice": "25d8 + 50"
 "modifier": !!int "4"
@@ -48,51 +48,54 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
   - "constitution": !!int "6"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[whip](3-Mechanics/CLI/items/whip.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Elvish, Undercommon"
 "cr": "9"
 "traits":
-  - "desc": "The drow has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The drow makes two Scimitar attacks and one Whip or Hand Crossbow attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) slashing damage plus 14 (4d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) slashing damage plus 14 (4d6) poison damage."
     "name": "Scimitar"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 6\
-      \ (1d4 + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 6 (1d4 + 4) slashing damage."
     "name": "Whip"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for\
-      \ 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way. The\
-      \ target regains consciousness if it takes damage or if another creature takes\
-      \ an action to shake it."
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The target regains consciousness if it takes damage or if another creature\
+      \ takes an action to shake it."
     "name": "Hand Crossbow"
   - "desc": "The drow casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n**At\
-      \ will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
-      \n**1/day each:** [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
-      \ fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\
-      \ (self only)"
+      \ will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n**1/day\
+      \ each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Choose one creature within 30 feet of the drow that the drow can see.\
       \ If the chosen creature can see or hear the drow, that creature can use its\
-      \ reaction to make one melee attack or to take the [Dodge](/3-Mechanics/CLI/actions.md#Dodge)\
-      \ or [Hide](/3-Mechanics/CLI/actions.md#Hide) action."
+      \ reaction to make one melee attack or to take the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge)\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Battle Command"
 "reactions":
   - "desc": "The drow adds 3 to its AC against one melee attack roll that would hit\
@@ -101,7 +104,7 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/drow-house-captain-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-house-captain-mpmm.webp"
 ```
 ^statblock
 

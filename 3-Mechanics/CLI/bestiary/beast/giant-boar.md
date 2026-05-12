@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Boar
+- "Giant Boar"
 ---
-# [Giant Boar](3-Mechanics\CLI\bestiary\beast/giant-boar.md)
+# [Giant Boar](3-Mechanics/CLI/bestiary/beast/giant-boar.md)
 *Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -43,7 +43,7 @@ aliases:
   - "desc": "If the boar moves at least 20 feet straight toward a target and then\
       \ hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6)\
       \ slashing damage. If the target is a creature, it must succeed on a DC 13 Strength\
-      \ saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "If the boar takes 10 damage or less that would reduce it to 0 hit points,\
       \ it is reduced to 1 hit point instead."
@@ -54,7 +54,7 @@ aliases:
     "name": "Tusk"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-boar.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-boar.webp"
 ```
 ^statblock
 

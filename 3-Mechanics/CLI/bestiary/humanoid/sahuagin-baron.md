@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Baron
+- "Sahuagin Baron"
 ---
-# [Sahuagin Baron](3-Mechanics\CLI\bestiary\humanoid/sahuagin-baron.md)
+# [Sahuagin Baron](3-Mechanics/CLI/bestiary/humanoid/sahuagin-baron.md)
 *Source: Monster Manual p. 264*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -51,7 +51,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 "subtype": "sahuagin"
 "alignment": "Lawful Evil"
 "ac": !!int "16"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "2"
@@ -69,10 +69,12 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - "intelligence": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"gear":
+  - "[trident](3-Mechanics/CLI/items/trident.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 17"
 "languages": "Sahuagin"
 "cr": "5"
 "traits":
@@ -89,19 +91,19 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - "desc": "The sahuagin makes three attacks: one with his bite and two with his\
       \ claws or trident."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claws"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack."
+      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4)\
+      \ piercing damage if used with two hands to make a melee attack."
     "name": "Trident"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-baron.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-baron.webp"
 ```
 ^statblock
 

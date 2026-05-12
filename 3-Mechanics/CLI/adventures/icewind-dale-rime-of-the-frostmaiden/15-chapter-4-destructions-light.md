@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Chapter 4: Destruction's Light
+- "Chapter 4: Destruction's Light"
 ---
 # Chapter 4: Destruction's Light
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 187* 
 
-[Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)'s merciless construct slices through Ten-Towns with its radiant beam.
+[Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)'s merciless construct slices through Ten-Towns with its radiant beam.
 
 Ten-Towns won't survive the attack of Xardorok's dragon without the characters' intervention. This chapter describes the dragon's attacks on Ten-Towns and what the characters can do to minimize the destruction and save as many Ten-Towners as possible. The extent to which they can help depends on their actions in the previous chapter:
 
@@ -19,11 +19,11 @@ Ten-Towns won't survive the attack of Xardorok's dragon without the characters' 
 
 The point of this chapter, beyond pitting the characters against a formidable draconic foe, is to make the players aware that their characters' choices have consequences. If the characters do nothing to stop the dragon, Ten-Towns will be destroyed. Many lives hang in the balance.
 
-![Xardorok Sunblight's merci...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/154-04-000-intro-splash.webp#center "Xardorok Sunblight's merciless construct slices through Ten-Towns with its radiant beam")
+![Xardorok Sunblight's merciless construct slices through Ten-Towns with its radiant beam](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/154-04-000-intro-splash.webp#center)
 
 ## Running This Chapter
 
-Review the [chardalyn dragon's](/3-Mechanics/CLI/bestiary/construct/chardalyn-dragon-idrotf.md) stat block and description in appendix C before running this chapter of the adventure. Stopping the dragon will be a daunting task for the characters. Fortunately, they won't have to fight it alone.
+Review the [chardalyn dragon's](3-Mechanics/CLI/bestiary/construct/chardalyn-dragon-idrotf.md) stat block and description in appendix C before running this chapter of the adventure. Stopping the dragon will be a daunting task for the characters. Fortunately, they won't have to fight it alone.
 
 From the moment it leaves the fortress, the chardalyn dragon begins to carry out Xardorok's plan to level Ten-Towns one settlement after another. The characters can intervene by successfully predicting where the dragon will strike next and confronting it. The "Return to Ten-Towns" section provides characters with a much-needed ally and a swift dogsled ride back to Ten-Towns. The "Dragon Scourge" section describes how long it takes for the dragon to reach each town, the defenses each settlement musters against it, and the likely outcome if no help from the characters is forthcoming. The "Showdown!" section helps you run an encounter involving the characters and the dragon. Regardless of what happens to Ten-Towns, the "Vellynne's Quest" section sets up the final three chapters of the adventure.
 
@@ -40,9 +40,9 @@ As the characters start to make their way back to Ten-Towns, read:
 > Over the sound of the wind, you can hear the barking of dogs getting louder. Through the blowing snow come three wooden sleds pulled by canines as big as wolves. The closest driver calls out, "Can we be of service?"
 ^4e5
 
-The figure calling to the party is [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) (see appendix C), a wizard of the Arcane Brotherhood. She is cocooned in cold weather clothing, her face all but hidden behind a wool muffler. Her snowy [owl](/3-Mechanics/CLI/bestiary/beast/owl.md) familiar is perched on her shoulder. Her sled has two [Icewind kobold zombies](/3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md) riding on it, their acid-eaten forms visible through gashes in their hide armor. Steering the other two sleds are four [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md), two per sled. (See appendix C for the kobolds' stat blocks.) Each sled is pulled by six strong dogs (use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) stat block).
+The figure calling to the party is [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) (see appendix C), a wizard of the Arcane Brotherhood. She is cocooned in cold weather clothing, her face all but hidden behind a wool muffler. Her snowy [owl](3-Mechanics/CLI/bestiary/beast/owl.md) familiar is perched on her shoulder. Her sled has two [Icewind kobold zombies](3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md) riding on it, their acid-eaten forms visible through gashes in their hide armor. Steering the other two sleds are four [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md), two per sled. (See appendix C for the kobolds' stat blocks.) Each sled is pulled by six strong dogs (use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) stat block).
 
-Vellynne was searching in Ten-Towns for a group of adventurers to help her complete a personal mission when she learned about the characters' earlier acts of bravery (as displayed in chapters 1 and 2). She decided to try to catch up to them and earn their friendship. Although the fate of Ten-Towns doesn't concern her, Vellynne hopes the characters will help her obtain [The Codicil of White](/3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) once they learn to trust her. With this ulterior motive in mind, Vellynne offers the characters her sleds for traveling back to Ten-Towns and can easily be persuaded to help fight the dragon. ("A wizard worth her weight never passes up a chance to test her magic against the mightiest foes," she says brazenly.)
+Vellynne was searching in Ten-Towns for a group of adventurers to help her complete a personal mission when she learned about the characters' earlier acts of bravery (as displayed in chapters 1 and 2). She decided to try to catch up to them and earn their friendship. Although the fate of Ten-Towns doesn't concern her, Vellynne hopes the characters will help her obtain [The Codicil of White](3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) once they learn to trust her. With this ulterior motive in mind, Vellynne offers the characters her sleds for traveling back to Ten-Towns and can easily be persuaded to help fight the dragon. ("A wizard worth her weight never passes up a chance to test her magic against the mightiest foes," she says brazenly.)
 
 There's room in the kobolds' sleds to transport the characters and their gear. If the characters insist on steering these sleds, the kobolds fuss about handing over the reins but do so, piling into the cargo beds. If the characters refuse to travel with the kobolds, Vellynne jettisons her little sidekicks without a second thought—the characters are much more valuable to her than the kobolds.
 
@@ -54,7 +54,7 @@ Vellynne is a pragmatist who tries to stay one step ahead of her competition, in
 
 Vellynne is open about her intentions if the characters are suspicious and confront her. She is willing to postpone her mission until the threat of the dragon is no more, and tells the characters as much.
 
-For more information on [Vellynne](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) and her motivations, see the "Arcane Brotherhood" section in appendix C.
+For more information on [Vellynne](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) and her motivations, see the "Arcane Brotherhood" section in appendix C.
 
 ## Dragon Scourge
 
@@ -87,7 +87,7 @@ The Dragon Flight Times table shows how long it takes for the dragon to get from
 | Bryn Shander to Sunblight | 3½ hours |
 ^dragon-flight-times
 
-![Map 4.1: Dragons Flight Path](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/155-map-4-1-dragons-flight-path.webp#center)
+![Map 4.1: Dragons Flight Path](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/155-map-4-1-dragons-flight-path.webp#center)
 
 #### Target 1: Dougan's Hole
 
@@ -121,9 +121,9 @@ The dragon uses its radiant breath weapon to strafe the town from the air, never
 
 ##### Casualties
 
-Two hundred fifty people (one-third of the population), including most of the town's militia, are killed. Captain Arlaggath is slain by two invisible [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) who have been waiting impatiently for the dragon to strike. The five hundred survivors flee on foot to Bryn Shander, taking their most cherished possessions and livestock with them.
+Two hundred fifty people (one-third of the population), including most of the town's militia, are killed. Captain Arlaggath is slain by two [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) who have been waiting impatiently for the dragon to strike. The five hundred survivors flee on foot to Bryn Shander, taking their most cherished possessions and livestock with them.
 
-If he's alive and present when the dragon attacks, Speaker Waylen is killed when six [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) storm the Town Hall and confiscate any chardalyn they find there.
+If he's alive and present when the dragon attacks, Speaker Waylen is killed when six [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) storm the Town Hall and confiscate any chardalyn they find there.
 
 ##### Dragon Damage
 
@@ -135,7 +135,7 @@ The dragon lands between the castle and the rest of the town. It then moves thro
 
 ##### Casualties
 
-If he's still alive and confined to his castle, Speaker Siever survives. Everyone living outside the castle is killed, either by the dragon or by the six [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) lurking in Dinev's Rest. When the dragon attacks, the duergar emerge from the dilapidated inn, enlarge themselves to ogre size, and join the battle.
+If he's still alive and confined to his castle, Speaker Siever survives. Everyone living outside the castle is killed, either by the dragon or by the six [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) lurking in Dinev's Rest. When the dragon attacks, the duergar emerge from the dilapidated inn, enlarge themselves to ogre size, and join the battle.
 
 ##### Dragon Damage
 
@@ -147,11 +147,11 @@ The dragon destroys every structure in town in 1½ hours. Speaker Trovus, the to
 
 ##### Casualties
 
-Fifty people (one-third of the population) are killed, a few at the hands of an invisible [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) lurking about town. Among the dead are the Shorard sisters, whose inn collapses on top of them, and Atenas Swift, who dies helping several citizens escape on dogsleds. Speaker Trovus survives but never conquers his guilt; he does, however, give up the bottle. Jarthra Farzassh survives and leads most of the town's evacuees to the ruins of Caer-Dineval, only to be denied entry into the castle. Before they can leave Caer-Dineval, Jarthra and several others are murdered by the duergar lurking in town (see "Target 4: Caer-Dineval" above). Only fifty refugees from Caer-Konig make it all the way to Bryn Shander.
+Fifty people (one-third of the population) are killed, a few at the hands of an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) lurking about town. Among the dead are the Shorard sisters, whose inn collapses on top of them, and Atenas Swift, who dies helping several citizens escape on dogsleds. Speaker Trovus survives but never conquers his guilt; he does, however, give up the bottle. Jarthra Farzassh survives and leads most of the town's evacuees to the ruins of Caer-Dineval, only to be denied entry into the castle. Before they can leave Caer-Dineval, Jarthra and several others are murdered by the duergar lurking in town (see "Target 4: Caer-Dineval" above). Only fifty refugees from Caer-Konig make it all the way to Bryn Shander.
 
 ##### Dragon Damage
 
-Trovus was the town's best hope for defense. Because he was unconscious during the attack, no organized resistance was mounted. Consequently, the dragon takes no damage.
+Trovus was the town's best hope for defense. Because he was [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) during the attack, no organized resistance was mounted. Consequently, the dragon takes no damage.
 
 #### Target 6: Termalaine
 
@@ -161,7 +161,7 @@ The dragon takes 6 hours to destroy the town, leaving no building unharmed. The 
 
 ##### Casualties
 
-The town militia is wiped out, and twenty of the town's residents perish in their homes. Another thirty residents are killed in a mine collapse triggered by [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) saboteurs. Half of the remaining five hundred people flee to Targos and continue to Bryn Shander, while the rest (including Speaker Masthew) remain holed up in the mines.
+The town militia is wiped out, and twenty of the town's residents perish in their homes. Another thirty residents are killed in a mine collapse triggered by [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) saboteurs. Half of the remaining five hundred people flee to Targos and continue to Bryn Shander, while the rest (including Speaker Masthew) remain holed up in the mines.
 
 ##### Dragon Damage
 
@@ -195,13 +195,13 @@ Bremen's militia puts up a good fight, reducing the dragon's hit points by 5.
 
 #### Target 9: Targos
 
-Speaker Maxildanarr's network of spies throughout Ten-Towns alerted him to the dragon shortly after its attacks began, allowing Targos time to prepare. The local militia swells with furious residents eager to defend their town, and siege weapons are brought to bear. Unfortunately, many of the town's prepared defenses are undermined by [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) saboteurs.
+Speaker Maxildanarr's network of spies throughout Ten-Towns alerted him to the dragon shortly after its attacks began, allowing Targos time to prepare. The local militia swells with furious residents eager to defend their town, and siege weapons are brought to bear. Unfortunately, many of the town's prepared defenses are undermined by [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) saboteurs.
 
 It takes the dragon 8 hours to reduce Targos to a smoldering ruin. The dragon ignores the town's walls for the most part and focuses on the buildings, leveling one after another.
 
 ##### Casualties
 
-Five hundred people (half the population) are killed by the dragon or by duergar moving invisibly through town and indiscriminately murdering people. The survivors flee to Bryn Shander, taking their most prized possessions and livestock with them.
+Five hundred people (half the population) are killed by the dragon or by duergar moving [invisibly](3-Mechanics/CLI/rules/conditions.md#Invisible) through town and indiscriminately murdering people. The survivors flee to Bryn Shander, taking their most prized possessions and livestock with them.
 
 The militia makes its final stand outside the Luskan Arms, by which time Speaker Maxildanarr has fled to a Zhentarim safe house in Bryn Shander. Skath, his faithful tiefling militia captain, is one of many sacrificial pawns left behind to cover his escape.
 
@@ -217,7 +217,7 @@ The dragon strafes the town for 6 hours, remaining airborne the whole time and e
 
 The Northlook is damaged but not destroyed. Both Blackiron Blades and the House of the Morninglord are lost, along with almost every other establishment.
 
-While the dragon does its work, [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) prowl through town, murdering leaders, spellcasters, and other key figures.
+While the dragon does its work, [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) prowl through town, murdering leaders, spellcasters, and other key figures.
 
 ##### Casualties
 
@@ -233,17 +233,17 @@ Bryn Shander benefits from strong leadership, a tested militia, and helpful spel
 
 ## Showdown!
 
-The dragon's flying speed is greater than the characters' overland movement speed or the flying speed available to characters who can cast fly spells, so the party has little hope of catching up to the dragon before it reaches Ten-Towns. The characters' best chance of destroying the dragon is to pick a settlement and wait for the dragon there. If the characters saw Xardorok's battle plan in the previous chapter, they know the order in which the settlements of Ten-Towns will be attacked.
+The dragon's flying speed is greater than the characters' overland movement speed or the flying speed available to characters who can cast [fly](3-Mechanics/CLI/spells/fly.md) spells, so the party has little hope of catching up to the dragon before it reaches Ten-Towns. The characters' best chance of destroying the dragon is to pick a settlement and wait for the dragon there. If the characters saw Xardorok's battle plan in the previous chapter, they know the order in which the settlements of Ten-Towns will be attacked.
 
 The dragon's preferred tactic is to strafe each settlement from the air, using its breath weapon to incinerate people and structures alike. It then soars out of missile range until its breath weapon recharges. After dealing as much damage as it can from the air, the dragon lands and begins searching through the smoldering ruins to eliminate any survivors.
 
 Whenever the characters engage the dragon, they buy time for Ten-Towners to flee. Reduce a town's losses as you see fit to account for the characters' interference.
 
-![Heroes are all that stand ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/156-04-001-dragon.webp#center "Heroes are all that stand between Ten-Towns and certain destruction")
+![Heroes are all that stand between Ten-Towns and certain destruction](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/156-04-001-dragon.webp#center)
 
 ### When the Dragon Takes Damage
 
-If the characters deal 30 damage or more to the dragon and it's not destroyed, it flies to the next town. If this happens in Bryn Shander, the dragon flies back to Xardorok's fortress and remains there, in the forge. If Xardorok is still alive in this fortress, he makes the necessary repairs. The dragon regains `dice:1d6|noform|noparens|avg` (`1d6`) hit points at the end of every hour of repair work.
+If the characters deal 30 damage or more to the dragon and it's not destroyed, it flies to the next town. If this happens in Bryn Shander, the dragon flies back to Xardorok's fortress and remains there, in the forge. If Xardorok is still alive in this fortress, he makes the necessary repairs. The dragon regains `1d6` hit points at the end of every hour of repair work.
 
 #### Destroying the Dragon
 
@@ -270,15 +270,15 @@ Ten-Towners are happy to let adventurers fight the dragon while they flee for th
 
 If a character ends up in a tight spot, you can have a friendly NPC act immediately before the character in the initiative order. This NPC can help the imperiled character in one of the following ways:
 
-- The NPC uses the Help action to assist the character.  
+- The NPC uses the [Help](3-Mechanics/CLI/rules/actions.md#Help) action to assist the character.  
 - If the character is dying, the NPC stabilizes them or carries them to a safer location.  
 - The NPC moves close enough to the dragon to provide a distraction, allowing the character to move to a safer location or use a class feature that relies on an ally being near the dragon (such as Sneak Attack).  
 
 #### What Can Vellynne Do?
 
-[Vellynne Harpell's](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) survival is important for the story to continue forward. She fights alongside the party but does not participate in any foolhardy acts of heroism.
+[Vellynne Harpell's](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) survival is important for the story to continue forward. She fights alongside the party but does not participate in any foolhardy acts of heroism.
 
-During encounters with the dragon, Vellynne can't drop below 1 hit point. If she is reduced to 1 hit point, she either retreats to somewhere safe or uses her next action to cast vampiric touch, draining the life force of her nearest kobold minion (or some other poor fool) to ensure her own survival.
+During encounters with the dragon, Vellynne can't drop below 1 hit point. If she is reduced to 1 hit point, she either retreats to somewhere safe or uses her next action to cast [vampiric touch](3-Mechanics/CLI/spells/vampiric-touch.md), draining the life force of her nearest kobold minion (or some other poor fool) to ensure her own survival.
 
 Vellynne's most potent spells are useless against the dragon construct, so she relies on her wand of magic missiles, using its charges sparingly. She can also focus her efforts on clearing the streets of innocent bystanders and coordinating the party's actions with those of the local militia. (As she likes to say, "It's a weak wizard who relies on spells alone.")
 
@@ -291,8 +291,6 @@ If you're unable to save Vellynne for whatever reason, have the characters disco
 Characters who can't harm the dragon (or choose not to) can find plenty of other things to distract them during the dragon's attack. If a player is having trouble figuring out what their character can or should do, you can use the Town in Chaos table to introduce an urgent development for the character to deal with. Before the character moves or acts on its turn, roll on the table or choose a development you think might spur the character into action.
 
 **Town in Chaos**
-
-`dice: [](15-chapter-4-destructions-light.md#^town-in-chaos)`
 
 | dice: d20 | Development |
 |-----------|-------------|
@@ -312,9 +310,9 @@ Characters who can't harm the dragon (or choose not to) can find plenty of other
 > A damaged building collapses twenty feet away from you. The noise of crashing walls and shattered timbers fades, replaced by the screams of people trapped in the wreckage.
 ^511
 
-There are `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) people trapped in the collapsed building. All of them are [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) suffering from broken bones, lacerations, and concussions, and half of them (rounded down) are at 0 hit points and dying; the rest have 1 hit point each.
+There are `1d4 + 1` people trapped in the collapsed building. All of them are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) suffering from broken bones, lacerations, and concussions, and half of them (rounded down) are at 0 hit points and dying; the rest have 1 hit point each.
 
-A character can rush to the building and use an action to try to pull a Ten-Towner out of the wreckage, doing so with a successful DC 14 Strength (Athletics) check, whereupon the character can try to stabilize a dying commoner or use healing magic to restore their hit points and remove their injuries.
+A character can rush to the building and use an action to try to pull a Ten-Towner out of the wreckage, doing so with a successful DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, whereupon the character can try to stabilize a dying commoner or use healing magic to restore their hit points and remove their injuries.
 
 #### Enlarged Duergar
 
@@ -323,7 +321,7 @@ A character can rush to the building and use an action to try to pull a Ten-Town
 > Panicked Ten-Towners rush past you—not to escape the dragon but to get away from a heavily armored, gray-skinned dwarf as big as an ogre. It yells in Dwarvish as it stomps through the snow toward you.
 ^513
 
-This enlarged [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) fights to the death, shouting, "No more winters for Ten-Towns!" in Dwarvish as it does so. The duergar has already used its Invisibility trait and can't use it again until it finishes a short or long rest.
+This enlarged [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) fights to the death, shouting, "No more winters for Ten-Towns!" in Dwarvish as it does so. The duergar has already used its Invisibility trait and can't use it again until it finishes a short or long rest.
 
 #### Invisible Duergar
 
@@ -332,7 +330,7 @@ This enlarged [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) fights to
 > Something unseen is making footprints in the snow, and those footprints are getting closer!
 ^515
 
-A [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) is using its Invisibility trait to get close enough to the character to make an attack, but the snow betrays its presence, giving the character the chance to act first.
+A [duergar](3-Mechanics/CLI/bestiary/humanoid/duergar.md) is using its Invisibility trait to get close enough to the character to make an attack, but the snow betrays its presence, giving the character the chance to act first.
 
 When the duergar gets within striking distance, it attacks and becomes visible. Following its initial attack, it uses an action to increase its size, then presses its attack.
 
@@ -343,9 +341,9 @@ When the duergar gets within striking distance, it attacks and becomes visible. 
 > Unrecognizable figures in cold weather clothing advance until they form a line twenty feet away from you. Each one clutches a handaxe threateningly. One of them points a gloved finger at you and shouts, "Kill that one first!"
 ^517
 
-The character is singled out by `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) who have become corrupted by the chardalyn dragon's Malevolent Presence. Each one wields a handaxe that deals `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) slashing damage on a hit. These townsfolk act on the same initiative count.
+The character is singled out by `1d4 + 2` [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) who have become corrupted by the chardalyn dragon's Malevolent Presence. Each one wields a handaxe that deals 3 (`1d6`) slashing damage on a hit. These townsfolk act on the same initiative count.
 
-Rather than make saving throws for the commoners to end the effect of the dragon's Malevolent Presence on them, roll a `dice:d6|noform|noparens|avg` (`d6`) at the end of each of their turns. On a 6, the townsfolk regain their senses and cease to be hostile as the dragon's hold over them ends.
+Rather than make saving throws for the commoners to end the effect of the dragon's Malevolent Presence on them, roll a `d6` at the end of each of their turns. On a 6, the townsfolk regain their senses and cease to be hostile as the dragon's hold over them ends.
 
 #### Thieves
 
@@ -354,7 +352,7 @@ Rather than make saving throws for the commoners to end the effect of the dragon
 > The chaos has brought out the worst in some Ten-Towners. About twenty feet away, you see two thugs in cold weather clothing beating up an old woman and stealing her food.
 ^519
 
-The two [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md) are neutral evil humans, and the old woman is a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) with 1 hit point remaining. A character can use an action to try to make the thugs drop the woman's food and run away, doing so with a successful DC 12 Charisma (Intimidation) check. A thug that takes any damage also runs away.
+The two [thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md) are neutral evil humans, and the old woman is a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md) with 1 hit point remaining. A character can use an action to try to make the thugs drop the woman's food and run away, doing so with a successful DC 12 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) check. A thug that takes any damage also runs away.
 
 #### Trapped Beast
 
@@ -363,7 +361,7 @@ The two [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md) are neutral evil hum
 > A strange noise draws your attention to an axe beak loaded down with sacks and tied to a wooden post. The beast lets out a panicked cry as it struggles to free itself. Its owner is nowhere to be seen.
 ^51b
 
-You can replace the [axe beak](/3-Mechanics/CLI/bestiary/beast/axe-beak.md) with a mule, a sled dog, or any other domesticated beast. A character can use an action to try to calm the beast until the end of its next turn, doing so with a successful DC 11 Wisdom (Animal Handling) check. While the beast is calm, the character can use an action to untie or cut the rope that tethers it to the wooden post. A character can also try to cut the rope with an edged weapon without first calming the beast, doing so with a successful attack against AC 15, enabling the panicked beast to bolt away on its next turn.
+You can replace the [axe beak](3-Mechanics/CLI/bestiary/beast/axe-beak.md) with a mule, a sled dog, or any other domesticated beast. A character can use an action to try to calm the beast until the end of its next turn, doing so with a successful DC 11 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. While the beast is calm, the character can use an action to untie or cut the rope that tethers it to the wooden post. A character can also try to cut the rope with an edged weapon without first calming the beast, doing so with a successful attack against AC 15, enabling the panicked beast to bolt away on its next turn.
 
 #### Walking Wounded
 
@@ -372,7 +370,7 @@ You can replace the [axe beak](/3-Mechanics/CLI/bestiary/beast/axe-beak.md) with
 > A Ten-Towner in torn cold weather clothing stumbles into view, falls in the snow, and gets back up. From twenty feet away, you can see that the person is leaving a trail of blood in the snow.
 ^51d
 
-On a roll of 19, the figure is a badly wounded member of the local militia (an unarmed [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) with 1 hit point remaining). On a roll of 20, the figure is an uninjured, opportunistic [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) posing as a wounded Ten-Towner.
+On a roll of 19, the figure is a badly wounded member of the local militia (an unarmed [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) with 1 hit point remaining). On a roll of 20, the figure is an uninjured, opportunistic [doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) posing as a wounded Ten-Towner.
 
 ##### Militia Member
 
@@ -382,16 +380,16 @@ Having lost their spear fighting the dragon, this member of the town militia is 
 
 The doppelganger (which has smeared itself with someone else's blood) asks to be taken to a safe location out of the dragon's sight. If a character obliges, the doppelganger tries to slay, rob, and replace its "savior" in a location where its treachery can't be observed by anyone else.
 
-![An adventurer confronts to...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/157-04-002-townsfolk.webp#center "An adventurer confronts townsfolk corrupted by the dragon's malevolent presence")
+![An adventurer confronts townsfolk corrupted by the dragon's malevolent presence](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/157-04-002-townsfolk.webp#center)
 
 ## Vellynne's Quest
 
-[Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) needs help reaching Ythryn, a quest that propels the characters through the final chapters of this adventure. However, she is reluctant to share details of her mission until the following conditions are met:
+[Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) needs help reaching Ythryn, a quest that propels the characters through the final chapters of this adventure. However, she is reluctant to share details of her mission until the following conditions are met:
 
 - The chardalyn dragon is no longer an immediate concern.  
 - The characters have the experience needed to survive the perils that await them in the first stage of the quest. (In other words, the characters are at least 7th level.)  
 
-These conditions don't account for any unfinished business that the characters are determined to resolve. For example, if [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) is still alive, the characters might want to finish him off before turning their attention elsewhere.
+These conditions don't account for any unfinished business that the characters are determined to resolve. For example, if [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md) is still alive, the characters might want to finish him off before turning their attention elsewhere.
 
 Once she's confident that the characters are ready for the challenges that lie ahead, Vellynne makes her bold proposition:
 
@@ -411,14 +409,14 @@ Vellynne learned a few things from her professor orb (see appendix D) before it 
 
 - Netheril was a vast human empire ruled by wizards, whose mastery of the Weave remains unsurpassed to this day.  
 - Some of what the Netherese wizards learned came from the elves. The rest came from the study of artifacts called the *Nether Scrolls*.  
-- The Netherese created magic that was more powerful than a wish spell and used it to accomplish the impossible. Their magic could shear the tops of mountains and lift entire cities into the sky.  
-- To hold Ythryn aloft, the Netherese wizards would have needed a powerful magic item called a [mythallar](/3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md). It likely survived the crash and might have other properties as well, including the ability to change the weather. ("Think of what that could mean for Icewind Dale!" Vellynne adds excitedly.)  
+- The Netherese created magic that was more powerful than a [wish](3-Mechanics/CLI/spells/wish.md) spell and used it to accomplish the impossible. Their magic could shear the tops of mountains and lift entire cities into the sky.  
+- To hold Ythryn aloft, the Netherese wizards would have needed a powerful magic item called a [mythallar](3-Mechanics/CLI/items/ythryn-mythallar-idrotf.md). It likely survived the crash and might have other properties as well, including the ability to change the weather. ("Think of what that could mean for Icewind Dale!" Vellynne adds excitedly.)  
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/158-04-003.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/158-04-003.webp#center)
 
 ### The Codicil and the Orb
 
-Before beginning their search for Ythryn, Vellynne and the characters need two objects: [The Codicil of White](/3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) and Vellynne's professor orb, which she calls [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md). Vellynne has every reason to believe that both items are currently on an island in the Sea of Moving Ice.
+Before beginning their search for Ythryn, Vellynne and the characters need two objects: [The Codicil of White](3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) and Vellynne's professor orb, which she calls [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md). Vellynne has every reason to believe that both items are currently on an island in the Sea of Moving Ice.
 
 #### The Codicil
 
@@ -426,14 +424,14 @@ Vellynne describes this book as follows:
 
 > [!readaloud] 
 > 
-> "Written and guarded by Auril's followers, [The Codicil of White](/3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) is rumored to contain a spell or ritual that can carve a passage through the Reghed Glacier, under which the lost city Ythryn is buried. Divination magic has revealed that the book is being held in a frost giant fortress on a mist-shrouded island in the Sea of Moving Ice."
+> "Written and guarded by Auril's followers, [The Codicil of White](3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) is rumored to contain a spell or ritual that can carve a passage through the Reghed Glacier, under which the lost city Ythryn is buried. Divination magic has revealed that the book is being held in a frost giant fortress on a mist-shrouded island in the Sea of Moving Ice."
 ^525
 
-Vellynne knows that any quest to retrieve [The Codicil of White](/3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) is likely to attract Auril's attention. Members of the Arcane Brotherhood are notoriously brazen, which is why Vellynne does not balk at the thought of a confrontation with the Frostmaiden. If Auril's name comes up, Vellynne tries to allay concerns by pointing out the obvious: "Any god who chooses to live among mortals is hiding from something, and anyone who needs to hide can't be all-powerful."
+Vellynne knows that any quest to retrieve [The Codicil of White](3-Mechanics/CLI/items/the-codicil-of-white-idrotf.md) is likely to attract Auril's attention. Members of the Arcane Brotherhood are notoriously brazen, which is why Vellynne does not balk at the thought of a confrontation with the Frostmaiden. If Auril's name comes up, Vellynne tries to allay concerns by pointing out the obvious: "Any god who chooses to live among mortals is hiding from something, and anyone who needs to hide can't be all-powerful."
 
 #### Professor Skant
 
-Vellynne's family has a private collection of magic items. The professor orb known as [Professor Skant](/3-Mechanics/CLI/items/professor-skant-idrotf.md) was part of that collection, and Vellynne wants it back for both practical and sentimental reasons:
+Vellynne's family has a private collection of magic items. The professor orb known as [Professor Skant](3-Mechanics/CLI/items/professor-skant-idrotf.md) was part of that collection, and Vellynne wants it back for both practical and sentimental reasons:
 
 > [!readaloud] 
 > 

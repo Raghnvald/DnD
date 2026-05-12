@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/nature
-aliases: 
-- Naviask
+aliases:
+- "Naviask"
 ---
 # Naviask
 *Source: Explorer's Guide to Wildemount p. 32* 

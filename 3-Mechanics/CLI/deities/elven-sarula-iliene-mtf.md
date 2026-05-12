@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/trickery
-aliases: 
-- Sarula Iliene
+aliases:
+- "Sarula Iliene"
 ---
 # Sarula Iliene
 *Source: Mordenkainen's Tome of Foes p. 43* 

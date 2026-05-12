@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/trade-good
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Linen (1 sq. yd.)"
 ---
 # Linen (1 sq. yd.)

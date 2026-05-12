@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wyvern
+- "Wyvern"
 ---
-# [Wyvern](3-Mechanics\CLI\bestiary\dragon/wyvern.md)
+# [Wyvern](3-Mechanics/CLI/bestiary/dragon/wyvern.md)
 *Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
@@ -54,10 +54,10 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
   - !!int "6"
 "speed": "20 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": ""
 "cr": "6"
 "actions":
@@ -71,13 +71,13 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
       \ (2d8 + 4) slashing damage."
     "name": "Claws"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+      \ 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution\
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Stinger"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/wyvern.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/wyvern.webp"
 ```
 ^statblock
 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Evoker Wizard
+- "Evoker Wizard"
 ---
-# [Evoker Wizard](3-Mechanics\CLI\bestiary\humanoid/evoker-wizard-mpmm.md)
+# [Evoker Wizard](3-Mechanics/CLI/bestiary/humanoid/evoker-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "121"
 "hit_dice": "22d8 + 22"
 "modifier": !!int "2"
@@ -44,9 +44,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+7"
 "senses": "passive Perception 11"
 "languages": "any four languages"
@@ -63,22 +63,22 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ must make a DC 15 Dexterity saving throw. The evoker can select up to three\
       \ creatures it can see in the area to ignore the spell, as the evoker sculpts\
       \ the spell's energy around them. On a failed save, a creature takes 40 (9d8)\
-      \ damage of the chosen type and is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
+      \ damage of the chosen type and is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
       \ On a successful save, a creature takes half as much damage and isn't knocked\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sculpted Explosion (Recharge 4-6)"
   - "desc": "The evoker casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
-      \ each:** [ice storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md), [lightning\
-      \ bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\
-      \n**1/day each:** [wall of ice](/3-Mechanics/CLI/spells/wall-of-ice-xphb.md)"
+      \ spellcasting ability (spell save DC 15):\n\n**At will:** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
+      \ each:** [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [lightning\
+      \ bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\
+      \n**1/day each:** [wall of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/evoker-wizard-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/evoker-wizard-mpmm.webp"
 ```
 ^statblock
 

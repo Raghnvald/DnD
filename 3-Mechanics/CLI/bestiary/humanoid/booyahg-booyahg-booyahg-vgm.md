@@ -10,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Booyahg Booyahg
+- "Booyahg Booyahg Booyahg"
 ---
-# [Booyahg Booyahg Booyahg](3-Mechanics\CLI\bestiary\humanoid/booyahg-booyahg-booyahg-vgm.md)
+# [Booyahg Booyahg Booyahg](3-Mechanics/CLI/bestiary/humanoid/booyahg-booyahg-booyahg-vgm.md)
 *Source: Volo's Guide to Monsters p. 43*  
 
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/3-Mechanics/CLI/tables/wild-magic-surge-phb.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 ## Booyahgs
 
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -48,32 +48,34 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "any four languages, Goblin"
 "cr": "6"
 "traits":
   - "desc": "The goblin is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). The goblin has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
-      \ level (4 slots):** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md),\
-      \ [shield](/3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
-      \ [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
-      \n**3rd level (3 slots):** [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md)\n\
-      \n**4th level (3 slots):** [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
-      \ [ice storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\n**5th level (1 slots):**\
-      \ [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md)\n\
+      \n**4th level (3 slots):** [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\n**5th level (1 slots):**\
+      \ [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Each time the goblin casts a spell (including cantrips), there is an\
-      \ accompanying surge of wild magic; roll on the [Wild Magic Surge](/3-Mechanics/CLI/tables/wild-magic-surge-phb.md)\
+      \ accompanying surge of wild magic; roll on the [Wild Magic Surge](3-Mechanics/CLI/tables/wild-magic-surge-xphb.md)\
       \ table in the \"Player's Handbook\" to determine the wild magic effect."
     "name": "Wild Magic"
   - "desc": "The goblin"
@@ -84,6 +86,6 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
     "name": "Dagger"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/booyahg-booyahg-booyahg-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-booyahg-booyahg-vgm.webp"
 ```
 ^statblock

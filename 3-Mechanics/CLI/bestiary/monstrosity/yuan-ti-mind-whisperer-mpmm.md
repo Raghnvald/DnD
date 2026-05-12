@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Mind Whisperer
+- "Yuan-ti Mind Whisperer"
 ---
-# [Yuan-ti Mind Whisperer](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-mind-whisperer-mpmm.md)
+# [Yuan-ti Mind Whisperer](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-mind-whisperer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*  
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -45,18 +45,20 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Abyssal, Common, Draconic"
 "cr": "4"
 "traits":
-  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the yuan-ti's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
       \ effects."
@@ -68,23 +70,23 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
   - "desc": "The yuan-ti makes two Bite attacks and one Scimitar attack, or it makes\
       \ two Spectral Fangs attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) piercing damage plus 7 (2d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar (Yuan-ti Form Only)"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:* 16\
-      \ (3d8 + 3) psychic damage."
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:*\
+      \ 16 (3d8 + 3) psychic damage."
     "name": "Spectral Fangs"
   - "desc": "The yuan-ti casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 13):\n\
-      \n**At will:** [animal friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
-      \ (snakes only), [message](/3-Mechanics/CLI/spells/message-xphb.md), [minor\
-      \ illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n**3/day:** [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**2/day\
-      \ each:** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [hypnotic pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only), [message](3-Mechanics/CLI/spells/message-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**3/day:**\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**2/day each:**\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [hypnotic\
+      \ pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)"
     "name": "Spellcasting (Yuan-ti Form Only)"
 "bonus_actions":
   - "desc": "The yuan-ti transforms into a Medium snake or back into its true form.\
@@ -94,7 +96,7 @@ Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat o
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-mind-whisperer-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-mind-whisperer-mpmm.webp"
 ```
 ^statblock
 

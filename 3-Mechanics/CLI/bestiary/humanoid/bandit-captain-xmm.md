@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bandit Captain
+- "Bandit Captain"
 ---
-# [Bandit Captain](3-Mechanics\CLI\bestiary\humanoid/bandit-captain-xmm.md)
+# [Bandit Captain](3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)
 *Source: Monster Manual (2024) p. 27. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bandit captains command gangs of scoundrels and conduct straightforward heists. Others serve as guards and muscle for more influential criminals.
@@ -34,8 +34,6 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
 > I am he who rules the world, don't you know? One little piece at a time.
 
 **Bandit Motivations**
-
-`dice: [](bandit-captain-xmm.md#^bandit-motivations)`
 
 | dice: 1d6 | The Bandit... |
 |-----------|---------------|
@@ -69,17 +67,22 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
+"gear":
+  - "[pistol](3-Mechanics/CLI/items/pistol-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[studded leather armor](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Thieves' cant"
 "cr": "2"
 "actions":
   - "desc": "The bandit makes two attacks, using Scimitar and Pistol in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Slashing\
+      \ damage."
     "name": "Scimitar"
   - "desc": "*Ranged Attack Roll:* +5, range 30/90 ft. *Hit:* 8 (1d10 + 3) Piercing\
       \ damage."
@@ -91,7 +94,7 @@ Roll on or choose a result from the Bandit Motivations table to determine the ci
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bandit-captain-xmm.webp"
 ```
 ^statblock
 

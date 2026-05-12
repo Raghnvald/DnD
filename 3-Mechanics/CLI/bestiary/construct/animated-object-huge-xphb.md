@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Object (Huge)
+- "Animated Object (Huge)"
 ---
-# [Animated Object (Huge)](3-Mechanics\CLI\bestiary\construct/animated-object-huge-xphb.md)
-*Source: Player's Handbook (2024) p. 240*  
+# [Animated Object (Huge)](3-Mechanics/CLI/bestiary/construct/animated-object-huge-xphb.md)
+*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
 "name": "Animated Object (Huge) (XPHB)"
@@ -31,8 +31,8 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 6"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 6"
 "languages": "understands the languages you know"
 "actions":
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\

@@ -17,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goblin Hexer
+- "Goblin Hexer"
 ---
-# [Goblin Hexer](3-Mechanics\CLI\bestiary\fey/goblin-hexer-xmm.md)
+# [Goblin Hexer](3-Mechanics/CLI/bestiary/fey/goblin-hexer-xmm.md)
 *Source: Monster Manual (2024) p. 143*  
 
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
@@ -29,7 +29,7 @@ Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -61,12 +61,12 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Goblin"
 "cr": "3"
 "actions":
@@ -77,9 +77,9 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
       \ 12 (2d8 + 3) Psychic damage."
     "name": "Hex Stick"
   - "desc": "The goblin casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 13):\n\n**At will:** [Minor Illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [Blindness/Deafness](/3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
-      \ [Faerie Fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [Grease](/3-Mechanics/CLI/spells/grease-xphb.md)"
+      \ spellcasting ability (spell save DC 13):\n\n**At will:** [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**1/day each:** [Blindness/Deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [Faerie Fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [Grease](3-Mechanics/CLI/spells/grease-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: A creature the goblin can see hits it with an attack roll. _Response—\
@@ -88,7 +88,7 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
     "name": "Jinx"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-hexer-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/goblin-hexer-xmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Izek Strazni
+- "Izek Strazni"
 ---
-# [Izek Strazni](3-Mechanics\CLI\bestiary\npc/izek-strazni-cos.md)
+# [Izek Strazni](3-Mechanics/CLI/bestiary/npc/izek-strazni-cos.md)
 *Source: Curse of Strahd p. 232*  
 
 Izek and his sister were born in Vallaki. One morning, their father and their uncle took them fishing on Lake Zarovich. On the way back to town, a dire wolf attacked Izek and bit off his right arm. His father carried Izek back to town while his uncle distracted the beast. His sister ran and hid in the woods and was never seen again.
@@ -58,7 +58,7 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "14"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -71,10 +71,12 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "battleaxe"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "5"
@@ -88,12 +90,12 @@ Izek has dreams of Ireena. If he spots her, he tries to take her by force to the
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) slashing damage, or 15 (2d10 + 4) when used with two hands."
     "name": "Battleaxe"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:* 10\
-      \ (3d6) fire damage. If the target is a flammable object that isn't being worn\
-      \ or carried, it catches fire."
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 60 ft., one target. *Hit:*\
+      \ 10 (3d6) fire damage. If the target is a flammable object that isn't being\
+      \ worn or carried, it catches fire."
     "name": "Hurl Flame"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/izek-strazni-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/izek-strazni-cos.webp"
 ```
 ^statblock

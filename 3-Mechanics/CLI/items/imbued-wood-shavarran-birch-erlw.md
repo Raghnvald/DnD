@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/gear/spellcasting-focus
-- new/item/rarity/common
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
+- ttrpg-cli/item/rarity/common
+- ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Imbued Wood (Shavarran Birch)"
 - "Shavarran Birch Rod"
 - "Shavarran Birch Staff"

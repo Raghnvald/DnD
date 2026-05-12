@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Titanothere
+- "Titanothere"
 ---
-# [Titanothere](3-Mechanics\CLI\bestiary\beast/titanothere-bgg.md)
+# [Titanothere](3-Mechanics/CLI/bestiary/beast/titanothere-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 185*  
 
 Titanotheres are a family of enormous mammals related to rhinoceroses. Some of them lack any horns on the face, while others have one, two, or more horns of various shapes and sizes. Some have rough, almost stony skin; some have horny plates; and some have thick, shaggy fur. These creatures are united by their tremendous stature, their herding behavior, and their irritable disposition.
@@ -48,15 +48,14 @@ Titanotheres are a family of enormous mammals related to rhinoceroses. Some of t
       \ determining its carrying capacity."
     "name": "Beast of Burden"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) bludgeoning damage. If the titanothere moved at least 20 feet straight\
-      \ toward the target immediately before the hit, the target takes an extra 13\
-      \ (3d8) bludgeoning damage, and the target must succeed on a DC 18 Strength\
-      \ saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition\
-      \ if it is a creature."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) bludgeoning damage. If the titanothere moved at least 20 feet\
+      \ straight toward the target immediately before the hit, the target takes an\
+      \ extra 13 (3d8) bludgeoning damage, and the target must succeed on a DC 18\
+      \ Strength saving throw or have the prone condition if it is a creature."
     "name": "Stomp"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/titanothere-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/titanothere-bgg.webp"
 ```
 ^statblock

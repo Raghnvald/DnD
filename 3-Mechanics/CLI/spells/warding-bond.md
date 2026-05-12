@@ -8,11 +8,13 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/solidarity-domain-psa
 classes:
 - Bard (Magical Secrets)
 - Cleric
+- Cleric (Solidarity Domain (PSA))
 aliases:
-- Warding Bond
+- "Warding Bond"
 ---
 # Warding Bond
 *2nd-level, Abjuration*  
@@ -27,6 +29,6 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 The spell ends if you drop to 0 hit points or if you and the target become separated by more than 60 feet. It also ends if the spell is cast again on either of the connected creatures. You can also dismiss the spell as an action.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Solidarity Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-solidarity-domain-psa-psa.md "subclass=PSA"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 287. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

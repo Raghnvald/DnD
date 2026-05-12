@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/illuskan-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Darz Helgar
+- "Darz Helgar"
 ---
-# [Darz Helgar](3-Mechanics\CLI\bestiary\npc/darz-helgar-skt.md)
+# [Darz Helgar](3-Mechanics/CLI/bestiary/npc/darz-helgar-skt.md)
 *Source: Storm King's Thunder p. 253*  
 
 In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.
@@ -42,19 +42,22 @@ Flaw:"I have no regrets. I do whatever it takes to survive."
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "traits":
   - "desc": "Darz deals an extra 7 (2d6) damage when he hits a target with a weapon\
       \ attack and has advantage on the attack roll, or when the target is within\
-      \ 5 feet of an ally of Darz that isn't incapacitated and Darz doesn't have disadvantage\
-      \ on the attack roll."
+      \ 5 feet of an ally of Darz that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and Darz doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
   - "desc": "In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep.\
       \ After serving ten years in prison for his crimes, he cut all ties to the city\
@@ -64,14 +67,14 @@ Flaw:"I have no regrets. I do whatever it takes to survive."
       \ I do whatever it takes to survive.\""
     "name": "Roleplaying Information"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) piercing damage. Darz carries twenty sling stones."
     "name": "Sling"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/darz-helgar-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/darz-helgar-skt.webp"
 ```
 ^statblock

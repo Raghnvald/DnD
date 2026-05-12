@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/13
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bak Mei
+- "Bak Mei"
 ---
-# [Bak Mei](3-Mechanics\CLI\bestiary\npc/bak-mei-cm.md)
+# [Bak Mei](3-Mechanics/CLI/bestiary/npc/bak-mei-cm.md)
 *Source: Candlekeep Mysteries p. 168*  
 
 Bak Mei was once an agile and skilled Shou monk famous for upholding justice and helping the needy in his distant homeland to the east of Faerûn. As he grew older, learned more about the world, and began to feel the weight of old age, his worldview changed dramatically. Motivated by his growing fear of death, Bak Mei became obsessed with living an unending life. He began collecting texts on the subject, consulting with practitioners of the necromantic arts, and seeking audiences with dark forces.
@@ -68,7 +68,8 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
 "traits":
   - "desc": "If Bak Mei fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (2/Day)"
-  - "desc": "Bak Mei carries a staff of striking with 10 charges."
+  - "desc": "Bak Mei carries a [staff of striking](3-Mechanics/CLI/items/staff-of-striking.md)\
+      \ with 10 charges."
     "name": "Special Equipment"
   - "desc": "While Bak Mei is wearing no armor and wielding no shield, his AC includes\
       \ his Wisdom modifier."
@@ -82,10 +83,10 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
       \ on a DC 17 Constitution saving throw or be deafened and stunned until the\
       \ start of Bak Mei's next turn."
     "name": "Thunder Strike"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage, or 4 (1d8) bludgeoning damage when used with two hands,\
-      \ and Bak Mei can expend up to 3 of the staff's charges. For each expended charge,\
-      \ the target takes an extra 1d6 force damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage when used with\
+      \ two hands, and Bak Mei can expend up to 3 of the staff's charges. For each\
+      \ expended charge, the target takes an extra 1d6 force damage."
     "name": "Staff of Striking"
   - "desc": "Bak Mei regains 2d8 + 4 hit points, and all levels of exhaustion end\
       \ on him."
@@ -110,6 +111,6 @@ Bak Mei is an old man with a long white beard and bushy eyebrows. Like the other
     "name": "Thunder Strike (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/bak-mei-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/bak-mei-cm.webp"
 ```
 ^statblock

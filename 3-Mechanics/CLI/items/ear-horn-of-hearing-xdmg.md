@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Ear Horn of Hearing"
 ---
 # Ear Horn of Hearing
@@ -13,6 +13,6 @@ aliases:
 
 
 
-While held up to your ear, this horn suppresses the effects of the [Deafened](/3-Mechanics/CLI/conditions.md#Deafened) condition on you.
+While held up to your ear, this horn suppresses the effects of the [Deafened](3-Mechanics/CLI/rules/conditions.md#Deafened) condition on you.
 
 *Source: Dungeon Master's Guide (2024) p. 256*

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scorchbringer Guard
+- "Scorchbringer Guard"
 ---
-# [Scorchbringer Guard](3-Mechanics\CLI\bestiary\humanoid/scorchbringer-guard-ggr.md)
+# [Scorchbringer Guard](3-Mechanics/CLI/bestiary/humanoid/scorchbringer-guard-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 243*  
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
@@ -24,7 +24,7 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "16"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "breastplate"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "2"
@@ -36,6 +36,8 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - !!int "9"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "light hammer"
 "senses": "passive Perception 9"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
@@ -53,11 +55,11 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
     "name": "Light Hammer"
   - "desc": "The guard's scorchbringer spouts a stream of flame in a line that is\
       \ 30 feet long and 5 feet wide. Each creature in the line must make a DC 12\
-      \ Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half\
-      \ as much damage on a successful one."
+      \ Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or\
+      \ half as much damage on a successful one."
     "name": "Scorchbringer (Recharge 4-6)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/scorchbringer-guard-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/scorchbringer-guard-ggr.webp"
 ```
 ^statblock

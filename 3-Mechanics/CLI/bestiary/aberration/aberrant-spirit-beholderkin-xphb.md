@@ -10,7 +10,7 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aberrant Spirit (Beholderkin)
+- "Aberrant Spirit (Beholderkin)"
 ---
 # [Aberrant Spirit (Beholderkin)](3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-beholderkin-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  
@@ -31,8 +31,8 @@ aliases:
   - !!int "6"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_immunities": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Deep Speech, understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\

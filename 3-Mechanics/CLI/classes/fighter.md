@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/fighter
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Fighter
+- "Fighter"
 ---
 # Fighter
 *Source: Player's Handbook p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
@@ -51,17 +51,17 @@ aliases:
 ## Starting Fighter
 
 - **Saving Throws**: Constitution, Strength
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [heavy armor](/3-Mechanics/CLI/item-types.md#Heavy%20Armor), [shields](/3-Mechanics/CLI/items/shield.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [heavy armor](3-Mechanics/CLI/rules/item-types.md#Heavy%20Armor), [shields](3-Mechanics/CLI/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 - **Tools**: none
-- **Skills**: choose 2 from [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Perception](/3-Mechanics/CLI/skills.md#Perception), and [Survival](/3-Mechanics/CLI/skills.md#Survival)
+- **Skills**: choose 2 from [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [History](3-Mechanics/CLI/rules/skills.md#History), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), and [Survival](3-Mechanics/CLI/rules/skills.md#Survival)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) [chain mail](/3-Mechanics/CLI/items/chain-mail.md) or (b) [leather armor](/3-Mechanics/CLI/items/leather-armor.md), [longbow](/3-Mechanics/CLI/items/longbow.md), and [20 arrows](/3-Mechanics/CLI/items/arrows-20.md)
-- (a) a martial weapon and a [shield](/3-Mechanics/CLI/items/shield.md) or (b) two martial weapons
-- (a) a [light crossbow](/3-Mechanics/CLI/items/light-crossbow.md) and [20 bolts](/3-Mechanics/CLI/items/crossbow-bolts-20.md) or (b) two [handaxes](/3-Mechanics/CLI/items/handaxe.md)
-- (a) a [dungeoneer's pack](/3-Mechanics/CLI/items/dungeoneers-pack.md) or (b) an [explorer's pack](/3-Mechanics/CLI/items/explorers-pack.md)
+- (a) [chain mail](3-Mechanics/CLI/items/chain-mail.md) or (b) [leather armor](3-Mechanics/CLI/items/leather-armor.md), [longbow](3-Mechanics/CLI/items/longbow.md), and [20 arrows](3-Mechanics/CLI/items/arrows-20.md)
+- (a) a martial weapon and a [shield](3-Mechanics/CLI/items/shield.md) or (b) two martial weapons
+- (a) a [light crossbow](3-Mechanics/CLI/items/light-crossbow.md) and [20 bolts](3-Mechanics/CLI/items/crossbow-bolts-20.md) or (b) two [handaxes](3-Mechanics/CLI/items/handaxe.md)
+- (a) a [dungeoneer's pack](3-Mechanics/CLI/items/dungeoneers-pack.md) or (b) an [explorer's pack](3-Mechanics/CLI/items/explorers-pack.md)
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -71,7 +71,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [shields](3-Mechanics/CLI/items/shield.md)
 - **Weapons**: simple weapons, martial weapons
 
 ## Fighter
@@ -102,7 +102,7 @@ You might have enjoyed formal training in a noble's army or in a local militia. 
 
 #### Quick Build
 
-You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [soldier](/3-Mechanics/CLI/backgrounds/soldier.md) background.
+You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution, or Intelligence if you plan to adopt the Eldritch Knight martial archetype. Second, choose the [soldier](3-Mechanics/CLI/backgrounds/soldier.md) background.
 
 > [!quote] A quote from Tordek  
 > 
@@ -127,8 +127,6 @@ Your character could be affiliated with an organization or a cause, and thus mig
 
 **Heraldic Signs**
 
-`dice: [](fighter.md#^heraldic-signs)`
-
 | dice: d6 | Heraldic Signs |
 |----------|----------------|
 | 1 | A rampant golden dragon on a green field, representing valor and a quest for wealth |
@@ -150,8 +148,6 @@ If you decide that your character had an individual instructor, what is that per
 
 **Instructor**
 
-`dice: [](fighter.md#^instructor)`
-
 | dice: d6 | Instructor |
 |----------|------------|
 | 1 | Gladiator. Your instructor was a slave who fought for freedom in the arena, or one who willingly chose the gladiator's life to earn money and fame. |
@@ -171,8 +167,6 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 **Style**
 
-`dice: [](fighter.md#^style)`
-
 | dice: d6 | Style |
 |----------|-------|
 | 1 | Elegant. You move with precise grace and total control, never using more energy than you need. |
@@ -189,16 +183,18 @@ Do you have a combat style that mirrors your outlook on life, or is something el
 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
 
-- [Archery](/3-Mechanics/CLI/optional-features/archery.md)  
-- [Defense](/3-Mechanics/CLI/optional-features/defense.md)  
-- [Dueling](/3-Mechanics/CLI/optional-features/dueling.md)  
-- [Great Weapon Fighting](/3-Mechanics/CLI/optional-features/great-weapon-fighting.md)  
-- [Protection](/3-Mechanics/CLI/optional-features/protection.md)  
-- [Two-Weapon Fighting](/3-Mechanics/CLI/optional-features/two-weapon-fighting.md)  
+Options (choose 1):
+
+- [Archery](3-Mechanics/CLI/optional-features/archery.md)  
+- [Defense](3-Mechanics/CLI/optional-features/defense.md)  
+- [Dueling](3-Mechanics/CLI/optional-features/dueling.md)  
+- [Great Weapon Fighting](3-Mechanics/CLI/optional-features/great-weapon-fighting.md)  
+- [Protection](3-Mechanics/CLI/optional-features/protection.md)  
+- [Two-Weapon Fighting](3-Mechanics/CLI/optional-features/two-weapon-fighting.md)  
 
 ### Second Wind (Level 1)
 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `dice:1d10|noform|noparens|avg` (`1d10`) + your fighter level.
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to `1d10` + your fighter level.
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
@@ -225,12 +221,12 @@ _Source: Tasha's Cauldron of Everything p. 41_
 
 Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can do one of the following, as you shift the focus of your martial practice:
 
-- Replace a [fighting style](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-f.md) you know with another fighting style available to fighters.  
-- If you know any [maneuvers](/3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md) from the [Battle Master](/3-Mechanics/CLI/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
+- Replace a [fighting style](3-Mechanics/CLI/lists/list-optfeaturetype-fs-f.md) you know with another fighting style available to fighters.  
+- If you know any [maneuvers](3-Mechanics/CLI/lists/list-optfeaturetype-mv-b.md) from the [Battle Master](3-Mechanics/CLI/classes/fighter-battle-master.md) archetype, you can replace one maneuver you know with a different maneuver.  
 
 ### Extra Attack (Level 5)
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn.
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
@@ -262,7 +258,7 @@ At 10th level, you gain a feature granted by your Martial Archetype.
 
 ### Extra Attack (2) (Level 11)
 
-At 11th level, you can attack three times whenever you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.
+At 11th level, you can attack three times whenever you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn.
 
 ### Ability Score Improvement (Level 12)
 
@@ -310,10 +306,10 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Extra Attack (3) (Level 20)
 
-At 20th level, you can attack four times whenever you take the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on your turn.
+At 20th level, you can attack four times whenever you take the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on your turn.
 
 ## Optional Features
 
 > [!example]- Optional Features: Fighting Style, Fighter
-> ![Fighting Style, Fighter](/3-Mechanics/CLI/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
+> ![Fighting Style, Fighter](3-Mechanics/CLI/lists/list-optfeaturetype-fs-f.md#Fighting%20Style,%20Fighter)
 ^list-optfeature-fs-f

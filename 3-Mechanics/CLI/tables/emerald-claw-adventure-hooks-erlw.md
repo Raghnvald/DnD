@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Emerald Claw Adventure Hooks
+- "Emerald Claw Adventure Hooks"
 ---
 # Emerald Claw Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 226* 
 
 **Emerald Claw Adventure Hooks**
-
-`dice: [](emerald-claw-adventure-hooks-erlw.md#^emerald-claw-adventure-hooks)`
 
 | dice: d8 | NPC |
 |----------|-----|

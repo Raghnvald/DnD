@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Steel Crane
+- "Steel Crane"
 ---
-# [Steel Crane](3-Mechanics\CLI\bestiary\npc/steel-crane-cm.md)
+# [Steel Crane](3-Mechanics/CLI/bestiary/npc/steel-crane-cm.md)
 *Source: Candlekeep Mysteries p. 164*  
 
 Steel Crane is tall and slender. He is exceptionally handsome, with neat silver hair and deep green eyes, and carries himself with the grace of a dancer.
@@ -51,6 +51,8 @@ A strip of cloth was torn from the left sleeve of Steel Crane's white robe durin
   - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "poison, psychic"
+"gear":
+  - "whip"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "8"
@@ -61,14 +63,14 @@ A strip of cloth was torn from the left sleeve of Steel Crane's white robe durin
 "actions":
   - "desc": "Steel Crane makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) force damage, and if the target is a creature, it must succeed on a DC\
-      \ 15 Constitution saving throw or be stunned until the start of Steel Crane's\
-      \ next turn."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) force damage, and if the target is a creature, it must succeed\
+      \ on a DC 15 Constitution saving throw or be stunned until the start of Steel\
+      \ Crane's next turn."
     "name": "Force Strike"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 6\
-      \ (1d4 + 4) slashing damage or, if the target is a creature, Steel Crane can\
-      \ grapple the target instead (escape DC 15). Steel Crane can't make attacks\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 6 (1d4 + 4) slashing damage or, if the target is a creature, Steel Crane\
+      \ can grapple the target instead (escape DC 15). Steel Crane can't make attacks\
       \ with the whip while using it to grapple a creature. Anytime on his turn, he\
       \ can release a creature grappled by the whip (no action required)."
     "name": "Whip"
@@ -86,6 +88,6 @@ A strip of cloth was torn from the left sleeve of Steel Crane's white robe durin
     "name": "Slow Descent (3/Day)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/steel-crane-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/steel-crane-cm.webp"
 ```
 ^statblock

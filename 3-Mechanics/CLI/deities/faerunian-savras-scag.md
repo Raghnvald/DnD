@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Savras
-- The All-Seeing
-- The Third Eye
-- Divination's Lord
+aliases:
+- "Savras"
+- "The All-Seeing"
+- "The Third Eye"
+- "Divination's Lord"
 ---
 # Savras
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-savras.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-savras.webp#symbol)
 
 - **Alternate Names**: The All-Seeing, The Third Eye, Divination's Lord
 - **Alignment**: Lawful Neutral

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Creator; NPC Alignment
+- "Dungeon Creator; NPC Alignment"
 ---
 # Dungeon Creator; NPC Alignment
 *Source: Dungeon Master's Guide p. 99* 
 
 **NPC Alignment**
-
-`dice: [](dungeon-creator-npc-alignment.md#^npc-alignment)`
 
 | dice: d20 | Alignment |
 |-----------|-----------|

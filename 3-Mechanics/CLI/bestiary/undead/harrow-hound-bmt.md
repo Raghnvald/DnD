@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harrow Hound
+- "Harrow Hound"
 ---
-# [Harrow Hound](3-Mechanics\CLI\bestiary\undead/harrow-hound-bmt.md)
+# [Harrow Hound](3-Mechanics/CLI/bestiary/undead/harrow-hound-bmt.md)
 *Source: The Book of Many Things p. 164*  
 
 When the Grim Harrow first found the faerie realm known as the Gardens of Delight, that place was home to a large population of blink dogs. The Undead invaders slaughtered the blink dogs and settled in the gardens, transforming the demiplane forever. In time, the necrotic magic of the Grim Harrow animated the corpses of the blink dogs as the first harrow hounds.
@@ -60,9 +60,9 @@ The Grim Harrow employs harrow hounds as trackers and companions. Harrow hounds 
     "name": "Supernatural Tracker"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) piercing damage plus 3 (1d6) necrotic damage. If the target is a\
-      \ creature, it must succeed on a DC 13 Strength saving throw or have the prone\
-      \ condition."
+      \ (2d6 + 3) piercing damage plus 3 (1d6) necrotic damage. If the target\
+      \ is a creature, it must succeed on a DC 13 Strength saving throw or have the\
+      \ prone condition."
     "name": "Bite"
 "bonus_actions":
   - "desc": "The hound magically teleports, along with any equipment it is wearing\
@@ -70,6 +70,6 @@ The Grim Harrow employs harrow hounds as trackers and companions. Harrow hounds 
     "name": "Shadow Step (Recharge 4-6)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/harrow-hound-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/harrow-hound-bmt.webp"
 ```
 ^statblock

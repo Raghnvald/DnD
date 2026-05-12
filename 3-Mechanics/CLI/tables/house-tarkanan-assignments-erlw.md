@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- House Tarkanan Assignments
+- "House Tarkanan Assignments"
 ---
 # House Tarkanan Assignments
 *Source: Eberron: Rising from the Last War p. 253* 
 
 **House Tarkanan Assignments**
-
-`dice: [](house-tarkanan-assignments-erlw.md#^house-tarkanan-assignments)`
 
 | dice: d4 | Assignment |
 |----------|------------|

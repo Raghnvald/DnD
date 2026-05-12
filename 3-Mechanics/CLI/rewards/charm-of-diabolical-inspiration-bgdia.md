@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- Quelle/5e/bgdia
-- Kompendium/reward/charm
+- ttrpg-cli/compendium/src/5e/bgdia
+- ttrpg-cli/reward/charm
 aliases:
-- Charm of Diabolical Inspiration
+- "Charm of Diabolical Inspiration"
 ---
 # Charm of Diabolical Inspiration
 

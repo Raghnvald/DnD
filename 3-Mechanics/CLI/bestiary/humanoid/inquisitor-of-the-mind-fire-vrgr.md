@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Inquisitor of the Mind Fire
+- "Inquisitor of the Mind Fire"
 ---
-# [Inquisitor of the Mind Fire](3-Mechanics\CLI\bestiary\humanoid/inquisitor-of-the-mind-fire-vrgr.md)
+# [Inquisitor of the Mind Fire](3-Mechanics/CLI/bestiary/humanoid/inquisitor-of-the-mind-fire-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 248*  
 
 "Evil lurks everywhere. With our minds, we will unearth it, we will plumb its depths, and we will annihilate it." With those words, the psychically gifted priest Ulmed founded the Ulmist Inquisition, an order of psionic inquisitors that seeks to discover the wickedness hiding in people's souls.
@@ -29,7 +29,7 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
 "type": "humanoid"
 "alignment": "Unaligned"
 "ac": !!int "16"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "77"
 "hit_dice": "14d8 + 14"
 "modifier": !!int "2"
@@ -46,46 +46,47 @@ Today the inquisition rules the city of Malitain, a vast city-state to the north
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 30 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive\
+  \ Perception 16"
 "languages": "any three languages, telepathy 120 ft."
 "cr": "8"
 "actions":
   - "desc": "The inquisitor attacks twice with its Silver Longsword or uses Mind Fire\
       \ twice."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus 18 (4d8)\
-      \ force damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) if used with two hands, plus\
+      \ 18 (4d8) force damage."
     "name": "Silver Longsword"
   - "desc": "The inquisitor targets one creature it can see within 120 feet of it.\
       \ The target must succeed on a DC 15 Intelligence saving throw or take 17 (3d8\
-      \ + 4) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ + 4) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the start of the inquisitor's next turn."
     "name": "Mind Fire"
   - "desc": "Each creature of the inquisitor's choice that it can see within 60 feet\
-      \ of it must succeed on a DC 15 Wisdom saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ until the start of the inquisitor's next turn. On the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ of it must succeed on a DC 15 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ until the start of the inquisitor's next turn. On the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ target's turn, the inquisitor can telepathically control the target's move,\
       \ action, or both. When controlled in this way, the target can take only the\
-      \ Attack (inquisitor chooses the target) or Dash action."
+      \ Attack (inquisitor chooses the target) or [Dash](3-Mechanics/CLI/rules/actions.md#Dash)\
+      \ action."
     "name": "Inquisitor's Command (Recharge 5-6)"
   - "desc": "The inquisitor casts one of the following spells, requiring no components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\
-      \ will:** [arcane eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day each:**\
-      \ [mass suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [modify\
-      \ memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md)"
+      \ will:** [arcane eye](3-Mechanics/CLI/spells/arcane-eye-xphb.md), [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**1/day each:**\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [modify\
+      \ memory](3-Mechanics/CLI/spells/modify-memory-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/inquisitor-of-the-mind-fire-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/inquisitor-of-the-mind-fire-vrgr.webp"
 ```
 ^statblock

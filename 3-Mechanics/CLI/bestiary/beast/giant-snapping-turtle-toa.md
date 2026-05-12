@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Snapping Turtle
+- "Giant Snapping Turtle"
 ---
-# [Giant Snapping Turtle](3-Mechanics\CLI\bestiary\beast/giant-snapping-turtle-toa.md)
+# [Giant Snapping Turtle](3-Mechanics/CLI/bestiary/beast/giant-snapping-turtle-toa.md)
 *Source: Tomb of Annihilation p. 222*  
 
 Giant snapping turtles can grow to be 12 feet in diameter. Although they appear slow and ponderous, they are capable of startling bursts of speed and will aggressively attack smaller creatures that approach them. One snap of a giant turtle's jaws can cut a human in half, and these creatures aren't fussy about what they eat.
@@ -35,14 +35,16 @@ Giant snapping turtles can grow to be 12 feet in diameter. Although they appear 
   - !!int "12"
   - !!int "5"
 "speed": "30 ft., swim 40 ft."
-"senses": "darkvision 60 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
   - "desc": "The turtle can breathe air and water."
     "name": "Amphibious"
-  - "desc": "Whenever an effect knocks the turtle prone, it can make a DC 10 Constitution\
-      \ saving throw to avoid being knocked prone. A prone turtle is upside down.\
+  - "desc": "Whenever an effect knocks the turtle [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+      \ it can make a DC 10 Constitution saving throw to avoid being knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ A [prone](3-Mechanics/CLI/rules/conditions.md#Prone) turtle is upside down.\
       \ To stand up, it must succeed on a DC 10 Dexterity check on its turn and then\
       \ use all its movement for that turn."
     "name": "Stable"
@@ -52,6 +54,6 @@ Giant snapping turtles can grow to be 12 feet in diameter. Although they appear 
     "name": "Bite"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-snapping-turtle-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-snapping-turtle-toa.webp"
 ```
 ^statblock

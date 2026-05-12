@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Deep Diver
+- "Sahuagin Deep Diver"
 ---
-# [Sahuagin Deep Diver](3-Mechanics\CLI\bestiary\humanoid/sahuagin-deep-diver-gos.md)
+# [Sahuagin Deep Diver](3-Mechanics/CLI/bestiary/humanoid/sahuagin-deep-diver-gos.md)
 *Source: Ghosts of Saltmarsh p. 250*  
 
 These mighty sahuagin, found in The Final Enemy, are transformed by the divine magic of Sekolah to enable them to better explore the darkest depths of the ocean. Out of the water, they cling to shadows and serve as hunters and assassins. A long, scaly lure that can be illuminated extends from a deep diver's forehead.
@@ -44,6 +44,8 @@ These mighty sahuagin, found in The Final Enemy, are transformed by the divine m
     "desc": "+5"
   - "name": "Stealth"
     "desc": "+5"
+"gear":
+  - "glaive"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Sahuagin"
 "cr": "4"
@@ -68,14 +70,14 @@ These mighty sahuagin, found in The Final Enemy, are transformed by the divine m
   - "desc": "The deep diver makes two attacks with its glaive, or one attack with\
       \ its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d10 + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d10 + 2) slashing damage."
     "name": "Glaive"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage."
     "name": "Claws"
   - "desc": "The deep diver pulses magical light from its lure. Any creature within\
       \ 30 feet of the deep diver that can see the light must succeed on a DC 11 Wisdom\
@@ -84,6 +86,6 @@ These mighty sahuagin, found in The Final Enemy, are transformed by the divine m
     "name": "Light of Sekolah"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-deep-diver-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-deep-diver-gos.webp"
 ```
 ^statblock

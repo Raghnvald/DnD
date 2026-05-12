@@ -4,7 +4,6 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/background/izzet-engineer
 - ttrpg-cli/spell/class/artificer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
@@ -14,9 +13,8 @@ tags:
 - ttrpg-cli/spell/subclass/abjurer
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/runechild
 classes:
 - Artificer
 - Bard
@@ -24,12 +22,11 @@ classes:
 - Cleric
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Sorcerer (Runechild)
+- Sorcerer (Divine Soul)
 - Wizard
 - Wizard (Abjurer)
 aliases:
-- Glyph of Warding
+- "Glyph of Warding"
 ---
 # Glyph of Warding
 *3rd-level, Abjuration*  
@@ -42,7 +39,7 @@ aliases:
 
 You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 10 feet in diameter. If the surface or object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly imperceptible and requires a successful Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check against your spell save DC to notice.
+The glyph is nearly imperceptible and requires a successful Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check against your spell save DC to notice.
 
 When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below.
 
@@ -54,20 +51,20 @@ You can refine the trigger so that only creatures of certain types activate it (
 
 ## Explosive Rune
 
-When triggered, the glyph erupts with magical energy in a 20-foot-radius [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes `dice:5d8|noform|noparens|avg` (`5d8`) Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
+When triggered, the glyph erupts with magical energy in a 20-foot-radius [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on the glyph. Each creature in the area makes a Dexterity saving throw. A creature takes `5d8` Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
 
 ## Spell Glyph
 
 You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
 
-When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons [Hostile](/3-Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [Concentration](/3-Mechanics/CLI/conditions.md#Concentration), it lasts until the end of its full duration.
+When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons [Hostile](3-Mechanics/CLI/rules/variant-rules/hostile-attitude-xphb.md) creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration), it lasts until the end of its full duration.
 
 ## Using a Higher-Level Spell Slot
 
-The damage of an explosive rune increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
+The damage of an explosive rune increases by `1d8` for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
 
 ## Summary
 
-**Classes**: [Artificer](/3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Runechild)](/3-Mechanics/CLI/lists/list-spells-classes-runechild-tdcsr.md "subclass=TDCSR;class=XPHB"); [Wizard (Abjurer)](/3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Artificer](3-Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Abjurer)](3-Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

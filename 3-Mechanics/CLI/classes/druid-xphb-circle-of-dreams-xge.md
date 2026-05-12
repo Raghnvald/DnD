@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/druid/dreams
 aliases:
-- Circle of Dreams
+- "Circle of Dreams"
 ---
 # Circle of Dreams
 *[Druid](./druid-xphb.md): Druid Subclass*  
@@ -47,15 +47,13 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Circle of Dreams (Level 3)
-
 Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.
+
+## Subclass Features
 
 ### Balm of the Summer Court (Level 2)
 
-At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of `dice:d6|noform|noparens|avg` (`d6`)s equal to your druid level.
+At 2nd level, you become imbued with the blessings of the Summer Court. You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of `d6`s equal to your druid level.
 
 As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent.
 
@@ -65,7 +63,7 @@ You regain all expended dice when you finish a long rest.
 
 At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
 
-While within the sphere, you and your allies gain a +5 bonus to Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) and Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
+While within the sphere, you and your allies gain a +5 bonus to Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) and Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
 
 The sphere vanishes at the end of the rest or when you leave the sphere.
 
@@ -79,8 +77,8 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.
 
-When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [dream](/3-Mechanics/CLI/spells/dream-xphb.md) (with you as the messenger), [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), or [teleportation circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md).
+When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [dream](3-Mechanics/CLI/spells/dream-xphb.md) (with you as the messenger), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md), or [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md).
 
-This use of [teleportation circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md) is special. Rather than opening a portal to a permanent [teleportation circle](/3-Mechanics/CLI/spells/teleportation-circle-xphb.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+This use of [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) is special. Rather than opening a portal to a permanent [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
 Once you use this feature, you can't use it again until you finish a long rest.

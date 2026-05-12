@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Graz'zt
+- "Graz'zt"
 ---
-# [Graz'zt](3-Mechanics\CLI\bestiary\npc/grazzt-mpmm.md)
+# [Graz'zt](3-Mechanics/CLI/bestiary/npc/grazzt-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148, Mordenkainen's Tome of Foes p. 149*  
 
 The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
@@ -58,18 +58,18 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
   - "constitution": !!int "12"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+15"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+15"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison; bludgeoning, piercing, slashing that is nonmagical"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 22"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 22"
 "languages": "all, telepathy 120 ft."
 "cr": "24"
 "traits":
@@ -82,20 +82,20 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
   - "desc": "Graz'zt makes two Wave of Sorrow attacks. He can replace one attack with\
       \ a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 20\
-      \ (4d6 + 6) force damage plus 14 (4d6) acid damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 20 (4d6 + 6) force damage plus 14 (4d6) acid damage."
     "name": "Wave of Sorrow (Greatsword)"
   - "desc": "Graz'zt teleports, along with any equipment he is wearing or carrying,\
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Graz'zt casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 23):\n\n**At\
-      \ will:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [detect\
-      \ magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)\n\
-      \n**3/day each:** [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [dominate\
-      \ person](/3-Mechanics/CLI/spells/dominate-person-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md),\
-      \ [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\n**1/day each:** [dominate\
-      \ monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md), [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md)"
+      \ will:** [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)\n\n**3/day each:**\
+      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [dominate person](3-Mechanics/CLI/spells/dominate-person.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md), [teleport](3-Mechanics/CLI/spells/teleport.md)\n\
+      \n**1/day each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster.md),\
+      \ [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Graz'zt transforms into a form that resembles a Medium Humanoid or back\
@@ -117,7 +117,7 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
       \ an individual is in the lair to target that creature. He issues the same command\
       \ to all the targets.  \n- **Conjure Mirrors.** Smooth surfaces within the lair\
       \ become as reflective as a polished mirror. Until a different lair action is\
-      \ used, creatures within the lair have disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+      \ used, creatures within the lair have disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide.  "
     "name": ""
 "regional_effects":
@@ -125,9 +125,9 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
       \ one or more of the following effects:\n\n- **Agitated Beasts.** Wild beasts\
       \ within 6 miles of the lair break into frequent conflicts and coupling, mirroring\
       \ the behavior that occurs during their mating seasons.  \n- **Beguiling Realm.**\
-      \ Within 6 miles of the lair, all Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
-      \ checks have disadvantage, and all Charisma ([Deception](/3-Mechanics/CLI/skills.md#Deception))\
-      \ and Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) checks\
+      \ Within 6 miles of the lair, all Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
+      \ checks have disadvantage, and all Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception))\
+      \ and Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) checks\
       \ have advantage.  \n- **Mirrors Everywhere.** Flat surfaces within 1 mile of\
       \ the lair that are made of stone or metal become highly reflective, as though\
       \ polished to a shine. These surfaces become supernaturally mirrorlike.  \n\n\
@@ -141,13 +141,13 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
     "name": "Abyssal Magic"
   - "desc": "Graz'zt makes one Wave of Sorrow attack."
     "name": "Attack"
-  - "desc": "One creature [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by Graz'zt\
-      \ that Graz'zt can see must use its reaction to move up to its speed as Graz'zt\
-      \ directs."
+  - "desc": "One creature [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by\
+      \ Graz'zt that Graz'zt can see must use its reaction to move up to its speed\
+      \ as Graz'zt directs."
     "name": "Dance, My Puppet!"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/grazzt-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/grazzt-mpmm.webp"
 ```
 ^statblock

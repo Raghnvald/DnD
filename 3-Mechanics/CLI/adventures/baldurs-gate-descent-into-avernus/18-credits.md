@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Baldur's Gate: Descent Into Avernus* 

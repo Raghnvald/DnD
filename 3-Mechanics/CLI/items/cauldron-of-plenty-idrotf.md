@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/item/rarity/rare
+aliases:
 - "Cauldron of Plenty"
 ---
 # Cauldron of Plenty

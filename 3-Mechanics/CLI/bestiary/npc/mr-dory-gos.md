@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mr. Dory
+- "Mr. Dory"
 ---
-# [Mr. Dory](3-Mechanics\CLI\bestiary\npc/mr-dory-gos.md)
+# [Mr. Dory](3-Mechanics/CLI/bestiary/npc/mr-dory-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  
 
 One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature in plain sight. His rare, liquid-sensitive "skin condition" is actually a form of the same aboleth affliction that creates skum, though Dory's condition is not as severe, and he has managed to retain his free will.
@@ -46,12 +46,14 @@ One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature
   - "name": "Stealth"
     "desc": "+9"
 "damage_immunities": "necrotic"
+"gear":
+  - "rapier"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Abyssal, Common, Deep Speech, telepathy 60 ft."
 "cr": "10"
 "traits":
-  - "desc": "Mr. Dory's innate spellcasting ability is Charisma (save DC 15, +7 to\
-      \ hit with spell attacks). Mr. Dory can innately cast the following spells,\
+  - "desc": "Mr. Dory's innate spellcasting ability is Charisma (save DC 15, +7\
+      \ to hit with spell attacks). Mr. Dory can innately cast the following spells,\
       \ requiring no material components:\n\n**At will:** detect magic, detect thoughts,\
       \ invisibility (self only)\n\n**2/day each:** fear, fireball, fly\n\n**1/day\
       \ each:** cloudkill, etherealness"
@@ -65,8 +67,8 @@ One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature
 "actions":
   - "desc": "Mr. Dory makes three attacks with his rapier."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage and 7 (2d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage and 7 (2d6) necrotic damage."
     "name": "Rapier"
   - "desc": "Mr. Dory glares at a creature he can see within 30 feet of him. The target\
       \ must make a DC 15 Constitution saving throw. On a failed save, it takes 27\
@@ -76,6 +78,6 @@ One of the four councillors who rule the Styes, Mr. Dory hides his cursed nature
     "name": "Eye of Corruption (Recharge 5-6)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/mr-dory-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/mr-dory-gos.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archon of the Triumvirate
+- "Archon of the Triumvirate"
 ---
-# [Archon of the Triumvirate](3-Mechanics\CLI\bestiary\celestial/archon-of-the-triumvirate-ggr.md)
+# [Archon of the Triumvirate](3-Mechanics/CLI/bestiary/celestial/archon-of-the-triumvirate-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 192*  
 
 Archons are enigmatic, supernatural embodiments of the harshest aspects of law and order. They espouse a rigid sense of justice and deal ruthless punishment to those who break the law. This nature often aligns them with the Azorius Senate, and they are commonly seen circling above the Azorius guildhall astride their winged felidar mounts, soaring alongside griffon-mounted hussars.
@@ -33,7 +33,7 @@ An archon doesn't require food, drink, or sleep.
 "type": "celestial"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "plate armor"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "modifier": !!int "2"
@@ -50,22 +50,20 @@ An archon doesn't require food, drink, or sleep.
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 20"
+"condition_immunities": "charmed, exhaustion, frightened"
+"senses": "darkvision 120 ft., passive Perception 20"
 "languages": "all"
 "cr": "14"
 "traits":
   - "desc": "The archon's innate spellcasting ability is Wisdom (spell save DC 18,\
       \ +10 to hit with spell attacks). The archon can innately cast the following\
-      \ spells, requiring no material components:\n\n**At will:** [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
-      \ [command](/3-Mechanics/CLI/spells/command-xphb.md), [compelled duel](/3-Mechanics/CLI/spells/compelled-duel-xphb.md)"
+      \ spells, requiring no material components:\n\n**At will:** calm emotions, command,\
+      \ compelled duel"
     "name": "Innate Spellcasting"
   - "desc": "As a bonus action, the archon can target a creature it can see within\
       \ 120 feet of it and determine which laws that creature has broken in the last\
@@ -75,29 +73,27 @@ An archon doesn't require food, drink, or sleep.
       \ onto the creature serving as its mount, provided the archon and its mount\
       \ are on the same plane of existence. When it teleports, the archon appears\
       \ astride the mount along with any equipment it is wearing or carrying. While\
-      \ mounted and not [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ the archon can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised),\
-      \ and both it and its mount gain advantage on Dexterity saving throws. If the\
-      \ archon is reduced to 0 hit points while riding its mount, the mount is reduced\
-      \ to 0 hit points as well."
+      \ mounted and not incapacitated, the archon can't be surprised, and both it\
+      \ and its mount gain advantage on Dexterity saving throws. If the archon is\
+      \ reduced to 0 hit points while riding its mount, the mount is reduced to 0\
+      \ hit points as well."
     "name": "Mount"
 "actions":
   - "desc": "The archon makes two Hammer of Justice attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) bludgeoning damage plus 18 (4d8) force damage. If the target is\
-      \ a creature, it must succeed on a DC 18 Strength saving throw or be knocked\
-      \ [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) bludgeoning damage plus 18 (4d8) force damage. If the target\
+      \ is a creature, it must succeed on a DC 18 Strength saving throw or be knocked\
+      \ prone."
     "name": "Hammer of Justice"
   - "desc": "Each creature of the archon's choice that the archon can see within 120\
       \ feet of it must succeed on a DC 18 Wisdom saving throw, or else the target\
-      \ drops any weapons it is holding, ends its [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ on any spells or other effects, and becomes [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ by the archon for 1 minute. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success. If a creature's saving throw is successful\
-      \ or the effect ends for it, the creature is immune to the archon's Pacifying\
-      \ Presence for the next 24 hours."
+      \ drops any weapons it is holding, ends its concentration on any spells or other\
+      \ effects, and becomes charmed by the archon for 1 minute. The charmed creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success. If a creature's saving throw is successful or the\
+      \ effect ends for it, the creature is immune to the archon's Pacifying Presence\
+      \ for the next 24 hours."
     "name": "Pacifying Presence"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the archon of the triumvirate can expend a use to take one of the following\
@@ -118,6 +114,6 @@ An archon doesn't require food, drink, or sleep.
     "name": "Detention (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/archon-of-the-triumvirate-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/archon-of-the-triumvirate-ggr.webp"
 ```
 ^statblock

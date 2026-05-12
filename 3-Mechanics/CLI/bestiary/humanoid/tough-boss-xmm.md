@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tough Boss
+- "Tough Boss"
 ---
-# [Tough Boss](3-Mechanics\CLI\bestiary\humanoid/tough-boss-xmm.md)
+# [Tough Boss](3-Mechanics/CLI/bestiary/humanoid/tough-boss-xmm.md)
 *Source: Monster Manual (2024) p. 307. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Tough bosses leverage their street smarts, brawling prowess, and reputation to compel others to follow their demands.
@@ -23,7 +23,7 @@ Tough bosses leverage their street smarts, brawling prowess, and reputation to c
 *Brawlers and Bullies*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Bodyguards, belligerents, and laborers, toughs rely on their physical strength to intimidate foes. They might be brawny criminals, rowdy tavern goers, seasoned workers, or anyone who uses their muscle to get what they want.
 
@@ -53,13 +53,17 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
   - "strength": !!int "5"
   - "constitution": !!int "5"
   - "charisma": !!int "2"
+"gear":
+  - "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[warhammer](3-Mechanics/CLI/items/warhammer-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common plus one other language"
 "cr": "4"
 "traits":
-  - "desc": "The tough has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The tough has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the tough's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
@@ -70,12 +74,12 @@ Bodyguards, belligerents, and laborers, toughs rely on their physical strength t
       \ damage. If the target is a Large or smaller creature, the tough pushes the\
       \ target up to 10 feet straight away from itself."
     "name": "Warhammer"
-  - "desc": "*Ranged Attack Roll:* +4, range 100/400 ft. *Hit:* 13 (2d10 + 2) Piercing\
-      \ damage."
+  - "desc": "*Ranged Attack Roll:* +4, range 100/400 ft. *Hit:* 13 (2d10 + 2)\
+      \ Piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/tough-boss-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/tough-boss-xmm.webp"
 ```
 ^statblock
 

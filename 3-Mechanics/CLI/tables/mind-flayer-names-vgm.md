@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Mind Flayer Names
+- "Mind Flayer Names"
 ---
 # Mind Flayer Names
 *Source: Volo's Guide to Monsters p. 75* 
 
 **Mind Flayer Names**
-
-`dice: [](mind-flayer-names-vgm.md#^mind-flayer-names)`
 
 | dice: d12 | Name |
 |-----------|------|

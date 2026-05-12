@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hare
+- "Hare"
 ---
-# [Hare](3-Mechanics\CLI\bestiary\beast/hare-idrotf.md)
+# [Hare](3-Mechanics/CLI/bestiary/beast/hare-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 294*  
 
 Snowshoe hares are gentle herbivores that live in burrows throughout Icewind Dale. They have shorter ears than other hares and are acclimated to cold weather.
@@ -35,19 +35,20 @@ Snowshoe hares are gentle herbivores that live in burrows throughout Icewind Dal
   - !!int "4"
 "speed": "20 ft., burrow 5 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "The hare can take the Dash, Disengage, or Hide action as a bonus action\
-      \ on each of its turns."
+  - "desc": "The hare can take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
+      \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), or [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action as a bonus action on each of its turns."
     "name": "Escape"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hare-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/hare-idrotf.webp"
 ```
 ^statblock

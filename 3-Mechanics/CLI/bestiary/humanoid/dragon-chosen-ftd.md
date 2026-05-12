@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragon Chosen
+- "Dragon Chosen"
 ---
-# [Dragon Chosen](3-Mechanics\CLI\bestiary\humanoid/dragon-chosen-ftd.md)
+# [Dragon Chosen](3-Mechanics/CLI/bestiary/humanoid/dragon-chosen-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 189*  
 
 Dragon chosen are mighty warriors who offer their bodies as vessels for a dragon's might. They serve as enforcers of their masters' will; they often accompany dragon speakers—and are quick to defend them if they sense any ill intent. Dragon chosen are skilled in close combat, using two weapons to tear at their foes.
@@ -46,11 +46,14 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
   - "dexterity": !!int "6"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "frightened"
+"gear":
+  - "handaxe"
+  - "shortsword"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic"
 "cr": "3"
@@ -58,11 +61,12 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
   - "desc": "The chosen makes one Handaxe attack and two Shortsword attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 7 (1d6 + 4) slashing damage. *Hit or Miss:* The handaxe\
-      \ magically returns to the chosen's hand immediately after a ranged attack."
+      \ ft., one target. *Hit:* 7 (1d6 + 4) slashing damage. *Hit or Miss:* The\
+      \ handaxe magically returns to the chosen's hand immediately after a ranged\
+      \ attack."
     "name": "Handaxe"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Shortsword"
 "reactions":
   - "desc": "Immediately after the chosen takes damage from a creature within 5 feet\
@@ -70,6 +74,6 @@ Dragon followers might serve and revere any kind of dragon, and their behavior a
     "name": "Biting Rebuke"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/dragon-chosen-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragon-chosen-ftd.webp"
 ```
 ^statblock

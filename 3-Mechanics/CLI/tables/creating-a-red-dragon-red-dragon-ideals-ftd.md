@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Red Dragon; Red Dragon Ideals
+- "Creating a Red Dragon; Red Dragon Ideals"
 ---
 # Creating a Red Dragon; Red Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 133* 
 
 **Red Dragon Ideals**
-
-`dice: [](creating-a-red-dragon-red-dragon-ideals-ftd.md#^red-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

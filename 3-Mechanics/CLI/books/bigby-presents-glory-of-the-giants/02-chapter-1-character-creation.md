@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Chapter 1: Character Creation
+- "Chapter 1: Character Creation"
 ---
 # Chapter 1: Character Creation
 *Source: Bigby Presents: Glory of the Giants, p. 11* 
@@ -28,24 +28,24 @@ The following sections present a variety of options for creating characters with
 
 ""Feats"" provides options for players who wish to link their characters to giants and primordial magic.
 
-![](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/022-01-001-bigby-squish.webp#center)
+![](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/022-01-001-bigby-squish.webp#center)
 
 ## Subclass Option
 
 This section presents one new subclass option: the Path of the Giant for the barbarian.
 
-![Halfling Path of the Giant Barbarian](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/023-01-002-halfling-barbarian.webp#center)
+![Halfling Path of the Giant Barbarian](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/023-01-002-halfling-barbarian.webp#center)
 
 ## Backgrounds
 
-This section presents two backgrounds that provide options linking characters to the ancient magic of giants. The [giant foundling](/3-Mechanics/CLI/backgrounds/giant-foundling-bgg.md) background represents a life spent around titanic creatures and their supernatural might. The [rune carver](/3-Mechanics/CLI/backgrounds/rune-carver-bgg.md) background reflects a history of studying the ancient traditions of giants' runecraft.
+This section presents two backgrounds that provide options linking characters to the ancient magic of giants. The [giant foundling](3-Mechanics/CLI/backgrounds/giant-foundling-bgg.md) background represents a life spent around titanic creatures and their supernatural might. The [rune carver](3-Mechanics/CLI/backgrounds/rune-carver-bgg.md) background reflects a history of studying the ancient traditions of giants' runecraft.
 
 ### Bonus Feats
 
 If the DM decides to allow the giant foundling and rune carver backgrounds, all characters in the campaign gain access to a bonus feat. If you select one of those backgrounds, you gain the bonus feat specified in that background. If the background you choose doesn't provide a feat, you gain a bonus feat of your choice from the following list (these feats appear in the "Player's Handbook"):
 
-- [Skilled](/3-Mechanics/CLI/feats/skilled-xphb.md)  
-- [Tough](/3-Mechanics/CLI/feats/tough-xphb.md)  
+- Skilled  
+- Tough  
 
 ## Big Heroes, Big Stories
 
@@ -57,7 +57,7 @@ Barbarians who harness the might of giants are not the only adventurers who draw
 
 #### Elements and Environments
 
-If your spells or class features draw on elemental forces or the magic of the land, you might use a connection to giants to tap into that power. A druid belonging to the [Circle of the Land](/3-Mechanics/CLI/classes/druid-xphb.md) might feel a connection to the giants who inhabit that land. A monk who follows the [Way of the Four Elements](/3-Mechanics/CLI/classes/monk-xphb.md) might seek to emulate Annam, the All-Father, to shape and channel the forces of the Elemental Chaos.
+If your spells or class features draw on elemental forces or the magic of the land, you might use a connection to giants to tap into that power. A druid belonging to the Circle of the Land might feel a connection to the giants who inhabit that land. A monk who follows the Way of the Four Elements might seek to emulate Annam, the All-Father, to shape and channel the forces of the Elemental Chaos.
 
 #### Giant Ancestors
 
@@ -69,7 +69,7 @@ Your character's relationship to giants might be defined by animosity. You could
 
 #### Giant Lore
 
-You might have learned magic, martial techniques, or other secrets from studying giants, either ancient or living. Your character might strive to unearth and record more of the ancient history of giants or to learn more of their present ways. This could be a matter of personal motivation, but it also might explain some of your class features or magic. A bard of the [College of Lore](/3-Mechanics/CLI/classes/bard-xphb.md) might focus on the study of giants, a Rune Knight fighter (from "Tasha's Cauldron of Everything") might use the magic of Giant runes, or a paladin's Sacred Oath could involve allegiance to the tenets of a philosophy or organization of giants (such as those described in "chapter 2").
+You might have learned magic, martial techniques, or other secrets from studying giants, either ancient or living. Your character might strive to unearth and record more of the ancient history of giants or to learn more of their present ways. This could be a matter of personal motivation, but it also might explain some of your class features or magic. A bard of the College of Lore might focus on the study of giants, a Rune Knight fighter (from "Tasha's Cauldron of Everything") might use the magic of Giant runes, or a paladin's Sacred Oath could involve allegiance to the tenets of a philosophy or organization of giants (such as those described in "chapter 2").
 
 #### Giant-Made Accessories
 
@@ -87,7 +87,7 @@ Perhaps you had a giant as a mentor or a financial benefactor who taught you you
 
 You could have a connection with giant-sized or prehistoric animals. You might call on the spirits of cave bears, dire wolves, or eagle-eyed pteranodons, or you might use your magic to take the shapes of such creatures. Or you could have a dinosaur companion.
 
-![A druid summons a primeval beast](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/026-01-005-druid-primeval.webp#center)
+![A druid summons a primeval beast](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/026-01-005-druid-primeval.webp#center)
 
 ### Birthplaces and Hometowns
 
@@ -99,9 +99,9 @@ You grew up amid the ruins of one of the giants' civilizations. Perhaps the hist
 
 ##### Giant Trinket
 
-While exploring your home, you discovered some trivial remnant of the ancient inhabitants, as determined by rolling on the [Giant Trinkets](/3-Mechanics/CLI/items/giant-trinket-bgg.md) table. The items in parentheses are the normal-sized objects most analogous to the described giant trinkets.
+While exploring your home, you discovered some trivial remnant of the ancient inhabitants, as determined by rolling on the [Giant Trinkets](3-Mechanics/CLI/items/giant-trinket-bgg.md) table. The items in parentheses are the normal-sized objects most analogous to the described giant trinkets.
 
-![A character raised in the ...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/027-01-006-character-giant-teacup.webp#center "A character raised in the ruins of giant civilization uses giant-made tools")
+![A character raised in the ruins of giant civilization uses giant-made tools](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/027-01-006-character-giant-teacup.webp#center)
 
 #### Primordial Nexus
 
@@ -113,7 +113,7 @@ In any case, your time spent among these elemental forces deeply affected you. T
 
 Your exposure to primordial elemental magic has altered you physically in some small way, determined by rolling on the Elemental Marks table.
 
-![Elemental Marks](/3-Mechanics/CLI/tables/elemental-marks-bgg.md)
+![Elemental Marks](3-Mechanics/CLI/tables/elemental-marks-bgg.md)
 
 #### Sequestered Caverns
 
@@ -125,7 +125,7 @@ You may have encountered giants during your time underground—particularly fami
 
 Your time spent underground has changed you in some way, as determined by rolling on the Underground Quirks table.
 
-![Underground Quirks](/3-Mechanics/CLI/tables/underground-quirks-bgg.md)
+![Underground Quirks](3-Mechanics/CLI/tables/underground-quirks-bgg.md)
 
 ### Tall Tales
 
@@ -133,7 +133,7 @@ Some folks are content to merely listen to stories of giants and other enormous 
 
 Myths about giants vary across the worlds. The Tall Tales table provides ideas for legends of—or encounters with—giant creatures that may have inspired your character to begin adventuring.
 
-![Tall Tales](/3-Mechanics/CLI/tables/tall-tales-bgg.md)
+![Tall Tales](3-Mechanics/CLI/tables/tall-tales-bgg.md)
 
 ## Feats
 
@@ -143,11 +143,11 @@ The following section presents a variety of feats linked to giants and their mag
 
 The feats are presented in alphabetical order. If a feat has a prerequisite, you must meet that prerequisite to gain the feat.
 
-- [Ember of the Fire Giant](/3-Mechanics/CLI/feats/ember-of-the-fire-giant-bgg.md)  
-- [Fury of the Frost Giant](/3-Mechanics/CLI/feats/fury-of-the-frost-giant-bgg.md)  
-- [Guile of the Cloud Giant](/3-Mechanics/CLI/feats/guile-of-the-cloud-giant-bgg.md)  
-- [Keenness of the Stone Giant](/3-Mechanics/CLI/feats/keenness-of-the-stone-giant-bgg.md)  
-- [Rune Shaper](/3-Mechanics/CLI/feats/rune-shaper-bgg.md)  
-- [Soul of the Storm Giant](/3-Mechanics/CLI/feats/soul-of-the-storm-giant-bgg.md)  
-- [Strike of the Giants](/3-Mechanics/CLI/feats/strike-of-the-giants-bgg.md)  
-- [Vigor of the Hill Giant](/3-Mechanics/CLI/feats/vigor-of-the-hill-giant-bgg.md)
+- [Ember of the Fire Giant](3-Mechanics/CLI/feats/ember-of-the-fire-giant-bgg.md)  
+- [Fury of the Frost Giant](3-Mechanics/CLI/feats/fury-of-the-frost-giant-bgg.md)  
+- [Guile of the Cloud Giant](3-Mechanics/CLI/feats/guile-of-the-cloud-giant-bgg.md)  
+- [Keenness of the Stone Giant](3-Mechanics/CLI/feats/keenness-of-the-stone-giant-bgg.md)  
+- [Rune Shaper](3-Mechanics/CLI/feats/rune-shaper-bgg.md)  
+- [Soul of the Storm Giant](3-Mechanics/CLI/feats/soul-of-the-storm-giant-bgg.md)  
+- [Strike of the Giants](3-Mechanics/CLI/feats/strike-of-the-giants-bgg.md)  
+- [Vigor of the Hill Giant](3-Mechanics/CLI/feats/vigor-of-the-hill-giant-bgg.md)

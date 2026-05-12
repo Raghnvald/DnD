@@ -3,22 +3,22 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Chapter 13: Star
+- "Chapter 13: Star"
 ---
 # Chapter 13: Star
 *Source: The Book of Many Things, p. 98* 
 
-When Istus created the first Deck of Many Things, she drew constellations from the sky to create each card. This chapter presents these constellations, known as the Sky of Many Things, complete with magical effects created by the constellations as well as a zodiac that might influence the destiny of those born under its signs.
+When Istus created the first [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md), she drew constellations from the sky to create each card. This chapter presents these constellations, known as the Sky of Many Things, complete with magical effects created by the constellations as well as a zodiac that might influence the destiny of those born under its signs.
 
 The latter part of the chapter, intended for the DM, includes details and rules for observatories: locations that facilitate stargazing and astronomical studies.
 
 ## The Sky of Many Things
 
-A zodiac is a series of constellations that appear to rotate around the night sky in time with the changing seasons. Many people use the alignment of zodiac constellations to explain personality traits, mysterious phenomena, or other patterns. This section presents a zodiac called the Sky of Many Things. It was from this zodiac that Istus, god of fate, drew the original Deck of Many Things.
+A zodiac is a series of constellations that appear to rotate around the night sky in time with the changing seasons. Many people use the alignment of zodiac constellations to explain personality traits, mysterious phenomena, or other patterns. This section presents a zodiac called the Sky of Many Things. It was from this zodiac that Istus, god of fate, drew the original [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md).
 
-![](/3-Mechanics/CLI/books/the-book-of-many-things/img/072-12-001-star.webp#center)
+![](3-Mechanics/CLI/books/the-book-of-many-things/img/072-12-001-star.webp#center)
 
 If you're a player, the Sky of Many Things might inspire your character's backstory, starting from the moment that character was born. If you're a DM, this zodiac can inspire countless adventures themed around prophecy and fate, or it could be a starting point for a zodiac of your own creation.
 
@@ -115,17 +115,17 @@ Children born under the Knight are destined to embark on and succeed in a great 
 
 *The Gardener; Prominent in Late Summer*
 
-When the legendary druid [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md) appears on the horizon, farmers sow their final late-season seeds and prepare their other fields for harvest. [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)'s constellation was created at the same time as the first Deck of Many Things. Artistic renditions of this constellation often show [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)'s hair as a tangle of snakes and wildflowers.
+When the legendary druid [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md) appears on the horizon, farmers sow their final late-season seeds and prepare their other fields for harvest. [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)'s constellation was created at the same time as the first [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md). Artistic renditions of this constellation often show [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)'s hair as a tangle of snakes and wildflowers.
 
 ##### Omen of Dedication
 
-Those born under the sign of [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md) are fated for intense personal relationships that prove their value when hardship comes. They find careers as caregivers or in other occupations that allow them to work closely with another person, as a squire assists a knight.
+Those born under the sign of [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md) are fated for intense personal relationships that prove their value when hardship comes. They find careers as caregivers or in other occupations that allow them to work closely with another person, as a squire assists a knight.
 
 #### Rogue
 
 *Night's Edge; Most Prominent in Early Autumn*
 
-Like a skilled bandit, the Rogue slinks onto the night sky without drawing attention to herself. By the time leaves are turning color and evenings are getting colder, Night's Edge already looms high overhead, dagger in hand. Legend has it that in her haste to steal from [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md), the Rogue failed to notice the valuable Gem right behind her.
+Like a skilled bandit, the Rogue slinks onto the night sky without drawing attention to herself. By the time leaves are turning color and evenings are getting colder, Night's Edge already looms high overhead, dagger in hand. Legend has it that in her haste to steal from [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md), the Rogue failed to notice the valuable Gem right behind her.
 
 ##### Omen of Betrayal
 
@@ -163,13 +163,13 @@ While those born under other signs find a hint of their future in the stars, the
 
 ### Zodiac Associations
 
-![The Sky of Many Things](/3-Mechanics/CLI/books/the-book-of-many-things/img/073-12-002-sky.webp#center)
+![The Sky of Many Things](3-Mechanics/CLI/books/the-book-of-many-things/img/073-12-002-sky.webp#center)
 
 The Common Zodiac Associations table summarizes astrological beliefs about the Sky of Many Things. The first three columns list the names of the zodiac's constellations, their nicknames, and the time of year they appear most prominently in the night sky. The next three columns denote the birthstone, creature, and color associated with each of the twelve signs.
 
 The Ability Score column suggests individuals born under a specific sign are believed to have characteristics related to this attribute. People born under the Balance, for example, might be referred to as shrewd or cunning, a sign of their high Intelligence score.
 
-![Common Zodiac Associations](/3-Mechanics/CLI/tables/common-zodiac-associations-bmt.md)
+![Common Zodiac Associations](3-Mechanics/CLI/tables/common-zodiac-associations-bmt.md)
 
 ### Zodiac Phenomena
 
@@ -187,9 +187,9 @@ The Zodiac Phenomena table lists effects and brief encounters associated with th
 
 > [!quote] A quote from Asteria  
 > 
-> On nights when I'm feeling especially lonely, I'll search the sky for that distant green star of [Euryale](/3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)'s constellation. And then, no matter where I am in the multiverse, I feel like I'm home with my sister.
+> On nights when I'm feeling especially lonely, I'll search the sky for that distant green star of [Euryale](3-Mechanics/CLI/bestiary/npc/euryale-bmt.md)'s constellation. And then, no matter where I am in the multiverse, I feel like I'm home with my sister.
 
-![Zodiac Phenomena](/3-Mechanics/CLI/tables/zodiac-phenomena-bmt.md)
+![Zodiac Phenomena](3-Mechanics/CLI/tables/zodiac-phenomena-bmt.md)
 
 ## Observatories
 
@@ -215,17 +215,17 @@ Observatories are places of wonder that bridge the known world and the cosmos, s
 
 ### Example Observatory
 
-Map 13.1 shows an example of a midsize observatory. This observatory is staffed by `dice:2d4|noform|noparens|avg` (`2d4`) scholars who study the stars and provide visitors with information and counsel. Use the [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) stat block to represent these scholars, if necessary.
+Map 13.1 shows an example of a midsize observatory. This observatory is staffed by `2d4` scholars who study the stars and provide visitors with information and counsel. Use the mage stat block to represent these scholars, if necessary.
 
 Despite their meager resources, the astronomers who work at this remote observatory don't charge adventurers for most services. Instead, the scholars might request a favor, such as clearing out a local monster den or collecting a rare magical ingredient from a nearby mountaintop. In return, the scholars allow the characters to use the observatory as a temporary base and grant the characters access to the observatory's amenities, as described below.
 
 > [!gallery]
-> ![Map 13.1: Observatory](/3-Mechanics/CLI/books/the-book-of-many-things/img/074-map-12-01-observatory.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/the-book-of-many-things/img/075-map-12-01-observatory-player.webp#gallery)
+> ![Map 13.1: Observatory](3-Mechanics/CLI/books/the-book-of-many-things/img/074-map-12-01-observatory.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/the-book-of-many-things/img/075-map-12-01-observatory-player.webp#gallery)
 
 #### Astronomical Clock
 
-The front door of the observatory leads into the building's ground floor. Suspended from the ceiling is a clock face ten feet across, surrounded by slowly turning gears. Slender metal chains descend from the gears through small holes in the floor to a subterranean waterwheel. Since this observatory is on a hilltop with no access to running water, attendants use a Decanter of Endless Water to fill an elevated basin that feeds the waterwheel. As the wheel rotates, the chains connected to it move the clock gears, which in turn control the hands and dials on the clock's face.
+The front door of the observatory leads into the building's ground floor. Suspended from the ceiling is a clock face ten feet across, surrounded by slowly turning gears. Slender metal chains descend from the gears through small holes in the floor to a subterranean waterwheel. Since this observatory is on a hilltop with no access to running water, attendants use a [Decanter of Endless Water](3-Mechanics/CLI/items/decanter-of-endless-water.md) to fill an elevated basin that feeds the waterwheel. As the wheel rotates, the chains connected to it move the clock gears, which in turn control the hands and dials on the clock's face.
 
 This clock can tell not just the time of day but also the times for sunrise and sundown, the phase of the moon, and the position of the zodiac. The observatory charges visitors a fee to see the clock and have a scholar interpret it for them. This is the observatory's primary source of income; since demand is low, funding is a perpetual struggle.
 
@@ -242,7 +242,7 @@ The library on the second floor of this observatory holds books of extraterrestr
 
 #### Planetarium
 
-![Telescopic Transporter](/3-Mechanics/CLI/books/the-book-of-many-things/img/076-12-003-telescope.webp#center)
+![Telescopic Transporter](3-Mechanics/CLI/books/the-book-of-many-things/img/076-12-003-telescope.webp#center)
 
 The domed ceiling of this windowless chamber is permanently enchanted to show the stars and planets overhead, night or day. Four comfortable couches allow visitors (or astronomers seeking a nap) to watch the stars in peace. Using a crystal orb in an adjacent room, resident astronomers can change the illusion to simulate the view of the night sky from any point on the planet at any time of year.
 
@@ -252,7 +252,7 @@ Spellcasters who cast the Teleport or Teleportation Circle spell can use the sig
 
 #### Telescope
 
-The massive mechanism here is a priceless [Telescopic Transporter](/3-Mechanics/CLI/items/telescopic-transporter-bmt.md) (described later in this chapter). The astronomers who work at the observatory are extremely proud of their telescope and regale any visitor with the long tale of how it was designed, financed, and finally constructed—at great cost. This story always ends with a suggestion that visitors should help address the observatory's perpetual financial woes with a modest donation.
+The massive mechanism here is a priceless [Telescopic Transporter](3-Mechanics/CLI/items/telescopic-transporter-bmt.md) (described later in this chapter). The astronomers who work at the observatory are extremely proud of their telescope and regale any visitor with the long tale of how it was designed, financed, and finally constructed—at great cost. This story always ends with a suggestion that visitors should help address the observatory's perpetual financial woes with a modest donation.
 
 ### Telescope Travel
 
@@ -266,9 +266,9 @@ This enormous telescope allows you to view distant celestial objects, including 
 
 After spending 1 hour calibrating the telescope, you can attempt to travel to the planet or celestial body at which the telescope is currently pointed. At the end of the hour, make a DC 17 Intelligence (Arcana) check. On a successful check, you and eight other willing creatures touching the telescope, along with everything all travelers are wearing and carrying, safely teleport to unoccupied spaces at the intended destination. On a failed check, a mishap occurs instead. The DM rolls on the Telescope Travel Mishaps table to determine the mishap or chooses a mishap that's good for the campaign.
 
-![Telescope Travel Mishaps](/3-Mechanics/CLI/tables/telescope-travel-mishaps-bmt.md)
+![Telescope Travel Mishaps](3-Mechanics/CLI/tables/telescope-travel-mishaps-bmt.md)
 
 > [!note] Rescue Mission
 > 
-> A character who draws the Donjon card from the Deck of Many Things is whisked away to an extradimensional prison such as the Donjon Sphere, detailed in "chapter 17". This remote dungeon drifts in the vast Astral Sea, so reaching it is no mean feat. However, a [Telescopic Transporter](/3-Mechanics/CLI/items/telescopic-transporter-bmt.md) is a ready—if slightly unreliable—means of reuniting the party. The Donjon Sphere holds one of these telescopes, so a character trapped there might use it to find a way home. At your discretion, the rest of the party could instead find a different *Telescopic Transporter* and use it to travel to the Donjon Sphere for a daring rescue mission.
+> A character who draws the Donjon card from the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md) is whisked away to an extradimensional prison such as the Donjon Sphere, detailed in "chapter 17". This remote dungeon drifts in the vast Astral Sea, so reaching it is no mean feat. However, a [Telescopic Transporter](3-Mechanics/CLI/items/telescopic-transporter-bmt.md) is a ready—if slightly unreliable—means of reuniting the party. The Donjon Sphere holds one of these telescopes, so a character trapped there might use it to find a way home. At your discretion, the rest of the party could instead find a different *Telescopic Transporter* and use it to travel to the Donjon Sphere for a daring rescue mission.
 ^rescue-mission

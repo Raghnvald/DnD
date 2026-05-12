@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shapechanged Roper
+- "Shapechanged Roper"
 ---
-# [Shapechanged Roper](3-Mechanics\CLI\bestiary\monstrosity/shapechanged-roper-wdmm.md)
+# [Shapechanged Roper](3-Mechanics/CLI/bestiary/monstrosity/shapechanged-roper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 106*  
 
 ```statblock
@@ -34,11 +34,12 @@ aliases:
   - !!int "6"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
@@ -67,15 +68,16 @@ aliases:
       \ (4d8 + 4) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:*\
-      \ The target is grappled (escape DC 15). Until the grapple ends, the target\
-      \ is restrained and has disadvantage on Strength checks and Strength saving\
-      \ throws, and the roper can't use the same tendril on another target."
+      \ The target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape\
+      \ DC 15). Until the grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ and has disadvantage on Strength checks and Strength saving throws, and the\
+      \ roper can't use the same tendril on another target."
     "name": "Tendril"
-  - "desc": "The roper pulls each creature grappled by it up to 25 feet straight toward\
-      \ it."
+  - "desc": "The roper pulls each creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it up to 25 feet straight toward it."
     "name": "Reel"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/shapechanged-roper-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/shapechanged-roper-wdmm.webp"
 ```
 ^statblock

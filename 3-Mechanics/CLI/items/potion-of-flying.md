@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Flying"
 ---
 # Potion of Flying

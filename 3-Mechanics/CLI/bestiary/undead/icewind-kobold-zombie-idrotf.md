@@ -3,19 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-8
-- new/monster/size/small
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Icewind Kobold Zombie
+- "Icewind Kobold Zombie"
 ---
-# [Icewind Kobold Zombie](3-Mechanics\CLI\bestiary\undead/icewind-kobold-zombie-idrotf.md)
+# [Icewind Kobold Zombie](3-Mechanics/CLI/bestiary/undead/icewind-kobold-zombie-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 297*  
 
-The necromancer Vellynne Harpell has Icewind kobold guides in her employ, including a pair that died and were turned into zombies using animate dead spells. The cold climate helps to preserve their dead flesh.
+The necromancer Vellynne Harpell has Icewind kobold guides in her employ, including a pair that died and were turned into zombies using [animate dead](3-Mechanics/CLI/spells/animate-dead.md) spells. The cold climate helps to preserve their dead flesh.
 
 ```statblock
 "name": "Icewind Kobold Zombie (IDRotF)"
@@ -38,8 +38,11 @@ The necromancer Vellynne Harpell has Icewind kobold guides in her employ, includ
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 8"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/8"
 "traits":
@@ -50,11 +53,11 @@ The necromancer Vellynne Harpell has Icewind kobold guides in her employ, includ
   - "desc": "The zombie doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
-      \ - 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d6 - 1) piercing damage."
     "name": "Javelin"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/icewind-kobold-zombie-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/icewind-kobold-zombie-idrotf.webp"
 ```
 ^statblock

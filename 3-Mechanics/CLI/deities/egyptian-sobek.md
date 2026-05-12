@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/egyptian
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Sobek
+aliases:
+- "Sobek"
 ---
 # Sobek
 *Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

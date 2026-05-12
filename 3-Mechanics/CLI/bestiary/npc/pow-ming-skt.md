@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pow Ming
+- "Pow Ming"
 ---
-# [Pow Ming](3-Mechanics\CLI\bestiary\npc/pow-ming-skt.md)
+# [Pow Ming](3-Mechanics/CLI/bestiary/npc/pow-ming-skt.md)
 *Source: Storm King's Thunder p. 216*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -38,23 +38,33 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic, Dwarvish, Elvish"
 "cr": "6"
 "traits":
   - "desc": "Pow is a 9th-level spellcaster. Her spellcasting ability is Intelligence\
-      \ (spell save DC 14, +6 to hit with spell attacks). Pow has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** fire bolt, light, mage hand, prestidigitation\n\
-      \n**1st level (4 slots):** detect magic, mage armor, magic missile, shield\n\
-      \n**2nd level (3 slots):** detect thoughts, suggestion\n\n**3rd level (3 slots):**\
-      \ counterspell, fireball, fly\n\n**4th level (3 slots):** greater invisibility,\
-      \ ice storm\n\n**5th level (1 slots):** cone of cold"
+      \ (spell save DC 14, +6 to hit with spell attacks). Pow has the following\
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md)\n\
+      \n**4th level (3 slots):** [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\n**5th level (1 slots):**\
+      \ [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Pow carries a bag of holding and wears a [robe of serpents](/3-Mechanics/CLI/items/robe-of-serpents-skt.md)\
+  - "desc": "Pow carries a [bag of holding](3-Mechanics/CLI/items/bag-of-holding-xdmg.md)\
+      \ and wears a [robe of serpents](3-Mechanics/CLI/items/robe-of-serpents-skt.md)\
       \ with six snakes."
     "name": "Special Equipment"
 "actions":
@@ -63,6 +73,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/pow-ming-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/pow-ming-skt.webp"
 ```
 ^statblock

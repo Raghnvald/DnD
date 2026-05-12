@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Exiles
+- "Exiles"
 ---
 # Exiles
 *Source: Bigby Presents: Glory of the Giants p. 35* 
 
 **Exiles**
-
-`dice: [](exiles-bgg.md#^exiles)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Rival Outfit; Group Rivals
+- "Rival Outfit; Group Rivals"
 ---
 # Rival Outfit; Group Rivals
 *Source: Eberron: Rising from the Last War p. 70* 
 
 **Group Rivals**
-
-`dice: [](rival-outfit-group-rivals-erlw.md#^group-rivals)`
 
 | dice: d6 | Rival |
 |----------|-------|

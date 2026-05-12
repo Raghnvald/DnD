@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Metallic Warbler
+- "Metallic Warbler"
 ---
-# [Metallic Warbler](3-Mechanics\CLI\bestiary\construct/metallic-warbler-ftd.md)
+# [Metallic Warbler](3-Mechanics/CLI/bestiary/construct/metallic-warbler-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 210*  
 
 Metallic warblers resemble songbirds and serve as clandestine agents of their creators, keeping watch over communities without directly intervening. Their telepathic bond lets them summon their dragon creators in case of dire need.
@@ -42,11 +42,8 @@ A metallic sentinel is a guardian created by a metallic dragon, forged from the 
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
@@ -57,18 +54,16 @@ A metallic sentinel is a guardian created by a metallic dragon, forged from the 
       \ telepathically with each other."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
   - "desc": "The warbler releases a calming gas in a 5-foot-radius sphere centered\
       \ on itself. Each creature in that area must succeed on a DC 11 Charisma saving\
-      \ throw or become [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the warbler\
-      \ for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed) in this\
-      \ way, the creature is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ and has a speed of 0."
+      \ throw or become charmed by the warbler for 1 minute. While charmed in this\
+      \ way, the creature is incapacitated and has a speed of 0."
     "name": "Calming Mist (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/metallic-warbler-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/metallic-warbler-ftd.webp"
 ```
 ^statblock

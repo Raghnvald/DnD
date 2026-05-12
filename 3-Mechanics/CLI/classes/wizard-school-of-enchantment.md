@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/wizard/enchantment
 aliases:
-- School of Enchantment
+- "School of Enchantment"
 ---
 # School of Enchantment
 *[Wizard](./wizard.md): Arcane Tradition*  
@@ -44,11 +44,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### School of Enchantment (Level 2)
-
 As a member of the School of Enchantment, you have honed your ability to magically entrance and beguile other people and monsters. Some enchanters are peacemakers who bewitch the violent to lay down their arms and charm the cruel into showing mercy. Others are tyrants who magically bind the unwilling into their service. Most enchanters fall somewhere in between.
+
+## Subclass Features
 
 ### Enchantment Savant (Level 2)
 
@@ -56,7 +54,7 @@ Beginning when you select this school at 2nd level, the gold and time you must s
 
 ### Hypnotic Gaze (Level 2)
 
-Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by you until the end of your next turn. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed) creature's speed drops to 0, and the creature is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) and visibly dazed.
+Starting at 2nd level when you choose this school, your soft words and enchanting gaze can magically enthrall another creature. As an action, choose one creature that you can see within 5 feet of you. If the target can see or hear you, it must succeed on a Wisdom saving throw against your wizard spell save DC or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by you until the end of your next turn. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature's speed drops to 0, and the creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) and visibly dazed.
 
 On subsequent turns, you can use your action to maintain this effect, extending its duration until the end of your next turn. However, the effect ends if you move more than 5 feet away from the creature, if the creature can neither see nor hear you, or if the creature takes damage.
 
@@ -66,7 +64,7 @@ Once the effect ends, or if the creature succeeds on its initial saving throw ag
 
 Beginning at 6th level, when a creature you can see within 30 feet of you makes an attack roll against you, you can use your reaction to divert the attack, provided that another creature is within the attack's range. The attacker must make a Wisdom saving throw against your wizard spell save DC. On a failed save, the attacker must target the creature that is closest to it, not including you or itself. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, you can't use this feature on the attacker again until you finish a long rest.
 
-You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) are immune to this effect.
+You must choose to use this feature before knowing whether the attack hits or misses. Creatures that can't be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) are immune to this effect.
 
 ### Split Enchantment (Level 10)
 
@@ -74,6 +72,6 @@ Starting at 10th level, when you cast an enchantment spell of 1st level or highe
 
 ### Alter Memories (Level 14)
 
-At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being [charmed](/3-Mechanics/CLI/conditions.md#Charmed).
+At 14th level, you gain the ability to make a creature unaware of your magical influence on it. When you cast an enchantment spell to charm one or more creatures, you can alter one creature's understanding so that it remains unaware of being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed).
 
-Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent [charmed](/3-Mechanics/CLI/conditions.md#Charmed). The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.
+Additionally, once before the spell expires, you can use your action to try to make the chosen creature forget some of the time it spent [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed). The creature must succeed on an Intelligence saving throw against your wizard spell save DC or lose a number of hours of its memories equal to 1 + your Charisma modifier (minimum of 1). You can make the creature forget less time, and the amount of time can't exceed the duration of your enchantment spell.

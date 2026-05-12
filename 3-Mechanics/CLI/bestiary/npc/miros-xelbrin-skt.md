@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/damaran-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/damaran-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Miros Xelbrin
+- "Miros Xelbrin"
 ---
-# [Miros Xelbrin](3-Mechanics\CLI\bestiary\npc/miros-xelbrin-skt.md)
+# [Miros Xelbrin](3-Mechanics/CLI/bestiary/npc/miros-xelbrin-skt.md)
 *Source: Storm King's Thunder p. 251*  
 
 Innkeeper Miros is a retired carnival attraction, dubbed "the Yeti" because of his barrel-shaped body and the thick, white hair covering his arms, chest, back, and head. When Goldenfields suffers, so does his business, so he takes strides to protect the compound.
@@ -42,10 +42,13 @@ Flaw:"When something upsets me, I have a tendency to fly into a rage."
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common"
 "traits":
@@ -59,19 +62,20 @@ Flaw:"When something upsets me, I have a tendency to fly into a rage."
       \ into a rage.\""
     "name": "Roleplaying Information"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d4 + 3) bludgeoning damage, and the target grappled (escape DC 13) and takes\
-      \ 5 (1d4 + 3) bludgeoning damage at the start of each of Miros's turns until\
-      \ the grapple ends. Miros cannot make attacks while grappling a creature."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d4 + 3) bludgeoning damage, and the target [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 13) and takes 5 (1d4 + 3) bludgeoning damage at the start of\
+      \ each of Miros's turns until the grapple ends. Miros cannot make attacks while\
+      \ grappling a creature."
     "name": "Bear Hug"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 1) bludgeoning damage"
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 1) bludgeoning damage."
     "name": "Club"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:*\
       \ 5 (1d10) piercing damage. Miros carries ten crossbow bolts."
     "name": "Heavy Crossbow"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/miros-xelbrin-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/miros-xelbrin-skt.webp"
 ```
 ^statblock

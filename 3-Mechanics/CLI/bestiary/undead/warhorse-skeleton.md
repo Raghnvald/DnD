@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warhorse Skeleton
+- "Warhorse Skeleton"
 ---
-# [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton.md)
+# [Warhorse Skeleton](3-Mechanics/CLI/bestiary/undead/warhorse-skeleton.md)
 *Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -61,10 +61,10 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "1/2"
 "actions":
@@ -73,6 +73,6 @@ A skeleton doesn't require air, food, drink, or sleep.
     "name": "Hooves"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton.webp"
 ```
 ^statblock

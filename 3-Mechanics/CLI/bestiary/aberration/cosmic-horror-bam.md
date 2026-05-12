@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cosmic Horror
+- "Cosmic Horror"
 ---
-# [Cosmic Horror](3-Mechanics\CLI\bestiary\aberration/cosmic-horror-bam.md)
-*Source: Boo's Astral Menagerie p. 18, Vecna: Eve of Ruin*  
+# [Cosmic Horror](3-Mechanics/CLI/bestiary/aberration/cosmic-horror-bam.md)
+*Source: Boo's Astral Menagerie p. 18*  
 
 Cosmic horrors are colossal, malevolent entities that occasionally slip the bonds of the Far Realm and find themselves adrift on the Astral Plane. Drawn to the light of distant stars, these creatures invade Wildspace systems and lay waste to worlds. After feeding on the minds and bodies of a world's inhabitants until it is sated, a cosmic horror usually returns to the void, where it falls into a deep sleep, drifting aimlessly until hunger or some other stimulus awakens it.
 
@@ -54,19 +54,19 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
 "actions":
   - "desc": "The horror makes one Bite attack and two Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (4d6 + 8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (4d6 + 8) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:* 18\
-      \ (3d6 + 8) force damage, and if the target is a creature, it is grappled (escape\
-      \ DC 18). Until this grapple ends, the horror can't use this tentacle against\
-      \ other targets. The horror has 1d8 + 1 tentacles, each of which can grapple\
-      \ one target."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:*\
+      \ 18 (3d6 + 8) force damage, and if the target is a creature, it is grappled\
+      \ (escape DC 18). Until this grapple ends, the horror can't use this tentacle\
+      \ against other targets. The horror has 1d8 + 1 tentacles, each of which can\
+      \ grapple one target."
     "name": "Tentacle"
   - "desc": "The horror emits dreadful whispers in a 60-foot-radius sphere centered\
       \ on itself. Each creature in the sphere that isn't an Aberration must make\
-      \ a DC 21 Wisdom saving throw, taking 33 (6d10) psychic damage on a failed save,\
-      \ or half as much damage on a successful one."
+      \ a DC 21 Wisdom saving throw, taking 33 (6d10) psychic damage on a failed\
+      \ save, or half as much damage on a successful one."
     "name": "Psychic Whispers (Recharge 5-6)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the cosmic horror can expend a use to take one of the following actions.\
@@ -85,7 +85,6 @@ Cosmic horrors are among the most powerful creatures spawned by the Far Realm. N
     "name": "Teleport (Costs 2 Actions)"
 "source":
   - "BAM"
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/cosmic-horror-bam.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/cosmic-horror-bam.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Slaad
+- "Blue Slaad"
 ---
-# [Blue Slaad](3-Mechanics\CLI\bestiary\aberration/blue-slaad.md)
+# [Blue Slaad](3-Mechanics/CLI/bestiary/aberration/blue-slaad.md)
 *Source: Monster Manual p. 276*  
 
 The bone hooks that protrude from the back of a blue slaad's hands inflict a terrible transformative disease on humanoids wounded by them. This infection, called chaos phage, transforms its victim into a fully grown red slaad—or green slaad if the host was a spellcaster able to cast 3rd level spells or higher.
@@ -41,13 +41,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/3-Mechanics/CLI/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](3-Mechanics/CLI/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A [greater restoration](/3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) can remove the gem from an [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check. Each failed attempt deals `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -74,11 +74,11 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "7"
 "traits":
@@ -95,17 +95,17 @@ Some slaadi can transform into the humanoid creatures from which they were origi
       \ (2d6 + 5) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed on\
-      \ a DC 15 Constitution saving throw or be infected with a disease called chaos\
-      \ phage. While infected, the target can't regain hit points, and its hit point\
-      \ maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces the\
-      \ target's hit point maximum to 0, the target instantly transforms into a [red\
-      \ slaad](/3-Mechanics/CLI/bestiary/aberration/red-slaad.md) or, if it has the\
-      \ ability to cast spells of 3rd level or higher, a [green slaad](/3-Mechanics/CLI/bestiary/aberration/green-slaad.md).\
-      \ Only a [wish](/3-Mechanics/CLI/spells/wish.md) spell can reverse the transformation."
+      \ (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed\
+      \ on a DC 15 Constitution saving throw or be infected with a disease called\
+      \ chaos phage. While infected, the target can't regain hit points, and its hit\
+      \ point maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces\
+      \ the target's hit point maximum to 0, the target instantly transforms into\
+      \ a [red slaad](3-Mechanics/CLI/bestiary/aberration/red-slaad.md) or, if it\
+      \ has the ability to cast spells of 3rd level or higher, a [green slaad](3-Mechanics/CLI/bestiary/aberration/green-slaad.md).\
+      \ Only a [wish](3-Mechanics/CLI/spells/wish.md) spell can reverse the transformation."
     "name": "Claw"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/blue-slaad.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/blue-slaad.webp"
 ```
 ^statblock

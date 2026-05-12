@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Azorius NPCs
+- "Azorius NPCs"
 ---
 # Azorius NPCs
 *Source: Guildmasters' Guide to Ravnica p. 226* 
@@ -14,10 +14,10 @@ aliases:
 
 | Role | Appropriate Stat Block |
 |------|------------------------|
-| Arrester | [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) or [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| Azorius soldier | [Soldier](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md)* |
-| Hussar (cavalry) | [Soldier](/3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md)* mounted on a [warhorse](/3-Mechanics/CLI/bestiary/beast/warhorse-xmm.md) or a [griffon](/3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md) |
-| Magical support | [Lawmage](/3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md)* or [precognitive mage](/3-Mechanics/CLI/bestiary/humanoid/precognitive-mage-ggr.md)* |
+| Arrester | Knight or veteran |
+| Azorius soldier | [Soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md)* |
+| Hussar (cavalry) | [Soldier](3-Mechanics/CLI/bestiary/humanoid/soldier-ggr.md)* mounted on a warhorse or a griffon |
+| Magical support | [Lawmage](3-Mechanics/CLI/bestiary/humanoid/lawmage-ggr.md)* or [precognitive mage](3-Mechanics/CLI/bestiary/humanoid/precognitive-mage-ggr.md)* |
 ^azorius-npcs
 
 * Appears in this chapter

@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/ranged
-aliases: 
+aliases:
 - "Blowgun"
 ---
 # Blowgun
@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](3-Mechanics/CLI/rules/item-properties.md#Loading)
 - **Cost**: 10 gp
 - **Weight**: 1.0 lbs.
 

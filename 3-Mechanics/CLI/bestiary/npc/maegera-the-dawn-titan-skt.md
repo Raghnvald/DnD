@@ -3,21 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/23
-- new/monster/size/gargantuan
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/23
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maegera the Dawn Titan
+- "Maegera the Dawn Titan"
 ---
-# [Maegera the Dawn Titan](3-Mechanics\CLI\bestiary\npc/maegera-the-dawn-titan-skt.md)
+# [Maegera the Dawn Titan](3-Mechanics/CLI/bestiary/npc/maegera-the-dawn-titan-skt.md)
 *Source: Storm King's Thunder p. 241*  
 
 Maegera is powerful elemental that has been trapped in the forges of Gauntlgrym for millennia. About fifty years ago, Maegera briefly escaped and triggered the eruption of Mount Hotenow. Lava from the volcano flowed toward the coast, laying waste to Neverwinter. The city is still rebuilding in the wake of that catastrophe.
 
-The fire giant duke Zalto recently sent a team of drow to infiltrate Gauntlgrym and trap Maegera in an iron flask . Zalto needs the primordial to ignite an adamantine forge beneath the Ice Spires. Returning Maegera to Gauntlgrym is one way to thwart the fire giant's plans.
+The fire giant duke Zalto recently sent a team of drow to infiltrate Gauntlgrym and trap Maegera in an iron flask. Zalto needs the primordial to ignite an adamantine forge beneath the Ice Spires. Returning Maegera to Gauntlgrym is one way to thwart the fire giant's plans.
 
 Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smoldering black pits for eyes.
 
@@ -44,9 +44,12 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
   - "charisma": !!int "11"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "charmed, frightened, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained"
-"senses": "blindsight 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive\
+  \ Perception 10"
 "languages": "Ignan"
 "cr": "23"
 "traits":
@@ -74,11 +77,12 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
 "actions":
   - "desc": "Maegera makes three slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 15\
-      \ (3d6 + 5) bludgeoning damage plus 35 (10d6) fire damage"
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:*\
+      \ 15 (3d6 + 5) bludgeoning damage plus 35 (10d6) fire damage,"
     "name": "Slam"
-  - "desc": "Maegera casts fireball (spell save DC 19), requiring no material components\
-      \ and using Charisma as the spellcasting ability.\n"
+  - "desc": "Maegera casts [fireball](3-Mechanics/CLI/spells/fireball-xphb.md) (spell\
+      \ save DC 19), requiring no material components and using Charisma as the spellcasting\
+      \ ability.\n"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Maegera can expend a use to take one of the following actions. Maegera regains\
@@ -92,10 +96,11 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
   - "desc": "Maegera exhales a billowing cloud of hot smoke and embers that fills\
       \ a 60 feet cube. Each creature in the area takes 11 (2d10) fire damage. The\
       \ cloud lasts until the end of Maegera's next turn. Creatures completely in\
-      \ the cloud are blinded and can't be seen."
+      \ the cloud are [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and can't\
+      \ be seen."
     "name": "Smoke Cloud (Costs 2 Actions)"
   - "desc": "Maegera's hit points are reduced by 50 as part of it separates and becomes\
-      \ a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md)\
+      \ a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md)\
       \ with 102 hit points. The fire element appears in an unoccupied space within\
       \ 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use\
       \ this action if it has 50 hit points or fewer. The fire element obeys Maegera's\
@@ -103,6 +108,6 @@ Maegera looks like a 50-foot-tall, multi-limbed beast made of flame, with smolde
     "name": "Create Fire Elemental (Costs 3 Actions)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/maegera-the-dawn-titan-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/maegera-the-dawn-titan-skt.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Locathah Hunter
+- "Locathah Hunter"
 ---
-# [Locathah Hunter](3-Mechanics\CLI\bestiary\humanoid/locathah-hunter-gos.md)
+# [Locathah Hunter](3-Mechanics/CLI/bestiary/humanoid/locathah-hunter-gos.md)
 *Source: Ghosts of Saltmarsh p. 243*  
 
 The far-ranging locathah hunter is trained in tracking and stalking prey on land and in water. They often serve as leaders to small bands of locathah or emissaries for their people (such as the hunter found in Danger at Dunwater). Their colorful, poisoned, and fast-loading crossbows rarely miss a target.
@@ -44,6 +44,8 @@ The far-ranging locathah hunter is trained in tracking and stalking prey on land
     "desc": "+3"
   - "name": "Perception"
     "desc": "+4"
+"gear":
+  - "club"
 "senses": "passive Perception 14"
 "languages": "Aquan, Common"
 "cr": "2"
@@ -61,11 +63,11 @@ The far-ranging locathah hunter is trained in tracking and stalking prey on land
       \ 11 (2d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution\
       \ saving throw or be poisoned until the end of its next turn."
     "name": "Envenomed Crossbow"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage."
     "name": "Club"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/locathah-hunter-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/locathah-hunter-gos.webp"
 ```
 ^statblock

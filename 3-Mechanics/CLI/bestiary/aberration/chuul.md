@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chuul
+- "Chuul"
 ---
-# [Chuul](3-Mechanics\CLI\bestiary\aberration/chuul.md)
+# [Chuul](3-Mechanics/CLI/bestiary/aberration/chuul.md)
 *Source: Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
@@ -53,39 +53,39 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "understands Deep Speech but can't speak"
 "cr": "4"
 "traits":
   - "desc": "The chuul can breathe air and water."
     "name": "Amphibious"
   - "desc": "The chuul senses magic within 120 feet of it at will. This trait otherwise\
-      \ works like the [detect magic](/3-Mechanics/CLI/spells/detect-magic.md) spell\
+      \ works like the [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell\
       \ but isn't itself magical."
     "name": "Sense Magic"
 "actions":
   - "desc": "The chuul makes two pincer attacks. If the chuul is grappling a creature,\
       \ the chuul can also use its tentacles once."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage. The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) bludgeoning damage. The target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 14) if it is a Large or smaller creature and the chuul doesn't\
-      \ have two other creatures [grappled](/3-Mechanics/CLI/conditions.md#Grappled)."
+      \ have two other creatures [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)."
     "name": "Pincer"
-  - "desc": "One creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
-      \ chuul must succeed on a DC 13 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 minute. Until this poison ends, the target is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed).\
+  - "desc": "One creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the chuul must succeed on a DC 13 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. Until this poison ends, the target is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed).\
       \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Tentacles"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/chuul.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/chuul.webp"
 ```
 ^statblock
 

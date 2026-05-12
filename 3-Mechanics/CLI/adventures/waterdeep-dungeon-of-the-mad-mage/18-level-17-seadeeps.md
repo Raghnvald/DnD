@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 17: Seadeeps
+- "Level 17: Seadeeps"
 ---
 # Level 17: Seadeeps
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 221* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/054-17-01.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/054-17-01.webp#center)
 
-Seadeeps is designed for four 14th-level characters, and adventurers who defeat the monsters on this level should gain enough XP to advance to 15th level. Before running this level, consider reviewing the "Gith" and "[Mind Flayer](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md)" entries in the "Monster Manual", as well as the "Ulitharid" entry in appendix A. They will help you roleplay the monsters on this level and bring their conflict in Seadeeps to life.
+Seadeeps is designed for four 14th-level characters, and adventurers who defeat the monsters on this level should gain enough XP to advance to 15th level. Before running this level, consider reviewing the "Gith" and "[Mind Flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md)" entries in the "Monster Manual", as well as the "Ulitharid" entry in appendix A. They will help you roleplay the monsters on this level and bring their conflict in Seadeeps to life.
 
 ## What Dwells Here?
 
@@ -46,7 +46,7 @@ The githyanki forces on this level await reinforcements from level 16. Yaveklar,
 > 
 > Mounted on both sides of every door in the mind flayer colony (areas 9 through 20) is a burnished plate of dark, alien metal embossed with a braille-like form of tactile writing known as Qualith. Mind flayers use their tentacles to read Qualith, which is composed in four-line stanzas indecipherable to other creatures. A creature that touches a Qualith inscription, however, can receive fragmentary insight into the multilayered thoughts contained in it. A non-illithid that wants to understand a Qualith inscription in Seadeeps can make a DC 18 Intelligence check to interpret the inscription. A failed attempt results in a crushing headache and requires the creature to succeed on a DC 11 Wisdom saving throw or develop a random form of short-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide"). A comprehend languages spell provides understanding of the inscription roughly equivalent to what a mind flayer would get from it.
 > 
-> Each door plate is imbued with psionic energy that functions like an arcane lock spell. The Qualith inscription on the plate describes the genuflections a mind flayer must make with its tentacles to open the door. Other creatures with at least four tentacles (such as flumphs) can imitate these motions to bypass the lock, provided they can interpret the inscription. A creature must be within 5 feet of the door to open it in this way. Creatures without the requisite tentacles and knowledge must deal with the lock by more conventional means, such as a knock spell. If magic is unavailable, a locked door can be forced open with a successful DC 30 Strength (Athletics) check.
+> Each door plate is imbued with psionic energy that functions like an arcane lock spell. The Qualith inscription on the plate describes the genuflections a mind flayer must make with its tentacles to open the door. Other creatures with at least four tentacles (such as flumphs) can imitate these motions to bypass the lock, provided they can interpret the inscription. A creature must be within 5 feet of the door to open it in this way. Creatures without the requisite tentacles and knowledge must deal with the lock by more conventional means, such as a knock spell. If magic is unavailable, a locked door can be forced open with a successful DC 30 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 > 
 > Clever adventurers might discover that a decapitated mind flayer head, animated through an animate dead spell, can be used to access the locks.
 ^qualith-door-locks
@@ -56,8 +56,8 @@ The githyanki forces on this level await reinforcements from level 16. Yaveklar,
 All location descriptions for this level are keyed to map 17.
 
 > [!gallery]
-> ![Map 17](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/055-17-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/056-17-03.webp#gallery)
+> ![Map 17](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/055-17-02.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/056-17-03.webp#gallery)
 
 The caverns surrounding the mind flayer colony are dark and damp. The space occupied by the colony is smoothly carved from solid stone. Throughout this level, adventurers hear the constant thunder of the underground river, which is especially loud in area 12 and slightly less so in areas 16 through 20.
 
@@ -77,13 +77,13 @@ The broken statue is all that remains of Aasathra Raghthroknaar, a female dragon
 
 #### Pit Trap
 
-A detect magic spell reveals an aura of transmutation magic around the pit. Each time part of the statue is disturbed, the pit magically snaps shut like a giant mouth and then slowly opens again. Creatures in the pit when it closes are crushed between its rocky walls and must make a DC 17 Dexterity saving throw, taking `dice:16d10|noform|noparens|avg|text(88)` (`16d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. Creatures that are gaseous, amorphous (such as an ooze), or protected by an impenetrable magical barrier (such as that created by an Otiluke's resilient sphere spell) take no damage.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the pit. Each time part of the statue is disturbed, the pit magically snaps shut like a giant mouth and then slowly opens again. Creatures in the pit when it closes are crushed between its rocky walls and must make a DC 17 Dexterity saving throw, taking 88 (`16d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. Creatures that are gaseous, amorphous (such as an ooze), or protected by an impenetrable magical barrier (such as that created by an [Otiluke's resilient sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md) spell) take no damage.
 
 ### 4. Flumph Cloister
 
 > [!note] 
 > 
-> **Flumphs**. Stalactites cling to the roof of this 20-foot-high cavern. Lurking among them are nine [flumphs](/3-Mechanics/CLI/bestiary/aberration/flumph.md). The flumphs are passive creatures that fight only in self-defense.
+> **Flumphs**. Stalactites cling to the roof of this 20-foot-high cavern. Lurking among them are nine [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md). The flumphs are passive creatures that fight only in self-defense.
 > 
 > **Secret Door**. A secret door in the south wall is carved to resemble natural stone.
 ^8ab
@@ -91,7 +91,7 @@ A detect magic spell reveals an aura of transmutation magic around the pit. Each
 The flumphs telepathically share the following information with friendly visitors:
 
 - Mind flayers have established a splinter colony on this level (areas 9 through 20). An ulitharid called Extremiton leads the colony. Once the colony is secure and its enemies are eradicated, Extremiton will undergo a transformation ritual to become an elder brain.  
-- Githyanki want to destroy the illithid colony and any flumphs they encounter. The mind flayers have spawned a neothelid—a worm-like behemoth—to defend their colony and destroy their githyanki enemies. Right now, the neothelid is trapped behind several wall of force spells (in area 8).  
+- Githyanki want to destroy the illithid colony and any flumphs they encounter. The mind flayers have spawned a neothelid—a worm-like behemoth—to defend their colony and destroy their githyanki enemies. Right now, the neothelid is trapped behind several [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) spells (in area 8).  
 - The mind flayers have captured many humanoids from Waterdeep and Undermountain, most of whom are kept as "cattle." The rest are turned into mindless thralls in service to Extremiton.  
 
 The flumphs don't need to enter the mind flayer colony to feed on the illithids' immense psionic energy. This cave is close enough to the colony that the flumphs can nourish themselves from a safe distance.
@@ -117,7 +117,7 @@ This area has become the main battleground in the conflict between the githyanki
 > 
 > **Corpses**. The uneven floor is strewn with the corpses of githyanki, troglodytes, duergar, ogres, and orogs, as well as eight decapitated mind flayers and two flumphs.
 > 
-> **Githyanki**. Four [githyanki warriors](/3-Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md) with nondetection spells cast on them lurk behind rock formations in the middle of the cavern.
+> **Githyanki**. Four [githyanki warriors](3-Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md) with [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md) spells cast on them lurk behind rock formations in the middle of the cavern.
 ^8b0
 
 The githyanki report to the knights in area 7c. Three fight to the death to defend the cavern, while the fourth retreats to area 7a to alert their allies.
@@ -133,11 +133,11 @@ The githyanki report to the knights in area 7c. Three fight to the death to defe
 
 #### 6c. One Brave Flumph
 
-A [flumph](/3-Mechanics/CLI/bestiary/aberration/flumph.md) lurks in the shadows of this alcove, surreptitiously feeding on the psionic energy of the githyanki warriors in area 6a. A successful DC 12 Wisdom (Perception) check is required to detect the creature. The flumph has the same helpful disposition and information as the rest of its kin on this level (see area 4).
+A [flumph](3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md) lurks in the shadows of this alcove, surreptitiously feeding on the psionic energy of the githyanki warriors in area 6a. A successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check is required to detect the creature. The flumph has the same helpful disposition and information as the rest of its kin on this level (see area 4).
 
 ### 7. Githyanki Stronghold
 
-Two githyanki knights and eight githyanki warriors are stationed here. These githyanki are alert and won't give up their stronghold without a fight. Yaveklar, the knight in command, carries a potion of supreme healing, which she uses if she becomes grievously wounded.
+Two githyanki knights and eight githyanki warriors are stationed here. These githyanki are alert and won't give up their stronghold without a fight. Yaveklar, the knight in command, carries a [potion of supreme healing](3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md), which she uses if she becomes grievously wounded.
 
 #### 7a. Arch Gate to Level 15
 
@@ -145,7 +145,7 @@ Two githyanki knights and eight githyanki warriors are stationed here. These git
 > 
 > **Light**. Torches burn in iron brackets mounted to four pillars that support the 20-foot-high ceiling.
 > 
-> **Githyanki**. Four [githyanki warriors](/3-Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md) stand guard next to the pillars.
+> **Githyanki**. Four [githyanki warriors](3-Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md) stand guard next to the pillars.
 > 
 > **Arch**. Embedded in the east wall is a stone arch, its keystone carved with an image of a six-fingered gauntlet.
 ^8b6
@@ -164,9 +164,9 @@ The arch is one of Halaster's magic gates (see "Gates"). Its rules are as follow
 
 > [!note] 
 > 
-> **Light**. Resting on the floor are two glass lanterns with continual flame spells cast on them.
+> **Light**. Resting on the floor are two glass lanterns with [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast on them.
 > 
-> **Wounded Githyanki**. Four [githyanki warriors](/3-Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md) are recovering from wounds inflicted on them by the mind flayers' thralls. Each has 30 hit points remaining.
+> **Wounded Githyanki**. Four [githyanki warriors](3-Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md) are recovering from wounds inflicted on them by the mind flayers' thralls. Each has 30 hit points remaining.
 > 
 > **Fountain**. Embedded in the north wall is a stone fountain with a semicircular basin. The fountain is carved in the likeness of a winged fish with water spouting from its mouth.
 ^8b9
@@ -179,14 +179,14 @@ The water spouting from the stone fish falls into the semicircular basin beneath
 
 > [!note] 
 > 
-> **Light**. Resting on the floor is a glass lantern with a continual flame spell cast on it.
+> **Light**. Resting on the floor is a glass lantern with a [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spell cast on it.
 > 
-> **Knightly Argument**. Left undisturbed, two female [githyanki knights](/3-Mechanics/CLI/bestiary/humanoid/githyanki-knight.md) argue quietly with one another in the middle of the room. One of the knights has a decapitated mind flayer head hanging from her belt.
+> **Knightly Argument**. Left undisturbed, two female [githyanki knights](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) argue quietly with one another in the middle of the room. One of the knights has a decapitated mind flayer head hanging from her belt.
 ^8bb
 
 The older githyanki knight, Yaveklar, commands the githyanki forces on this level. Though she is eager to slay the ulitharid and wipe out the mind flayer colony, Yaveklar is cautious and patient. She has suffered more losses than her superiors would consider acceptable, so she's waiting for reinforcements before launching any further assaults.
 
-The younger knight, Lashiir, stands ready to take over in the event that Yaveklar is removed from command. Lashiir is proposing to attack the neothelid in area 8, using misty step spells to bypass the walls of force containing it. Yaveklar is not convinced that her forces are strong enough to defeat the neothelid and still maintain a foothold on this level.
+The younger knight, Lashiir, stands ready to take over in the event that Yaveklar is removed from command. Lashiir is proposing to attack the neothelid in area 8, using [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) spells to bypass the walls of force containing it. Yaveklar is not convinced that her forces are strong enough to defeat the neothelid and still maintain a foothold on this level.
 
 If the characters can communicate with the knights, they can attempt to forge a truce with the githyanki. Yaveklar orders them to slay the neothelid as proof of their worth. If the characters kill the neothelid but return to Yaveklar in a very weakened state, she takes advantage of their situation and tries to finish them off. If they kill the creature and return with strength to spare, Yaveklar agrees to let them travel through Seadeeps unmolested and will even commit forces to a joint operation to conquer the mind flayer colony. If Yaveklar is neutralized, Lashiir readily fills the power vacuum and behaves much like her predecessor.
 
@@ -194,7 +194,7 @@ The illithid head dangling from Yaveklar's belt is a trophy from a recent skirmi
 
 ##### Treasure
 
-Each githyanki knight wears a suit of baroque half plate armor set with three alexandrites (500 gp each) and ten citrines (50 gp each). In addition, Yaveklar carries a potion of supreme healing.
+Each githyanki knight wears a suit of baroque half plate armor set with three alexandrites (500 gp each) and ten citrines (50 gp each). In addition, Yaveklar carries a [potion of supreme healing](3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md).
 
 ### 8. Operation: Eat Them All
 
@@ -206,7 +206,7 @@ Magic walls of force seal off all tunnels leading to this enormous cavern (see "
 
 > [!note] 
 > 
-> **Neothelid**. A 210-foot-long [neothelid](/3-Mechanics/CLI/bestiary/aberration/neothelid-mpmm.md) (see appendix A) is curled up in the middle of the cavern, waiting to be fed.
+> **Neothelid**. A 210-foot-long [neothelid](3-Mechanics/CLI/bestiary/aberration/neothelid-mpmm.md) (see appendix A) is curled up in the middle of the cavern, waiting to be fed.
 > 
 > **Ceiling**. The ceiling is uneven—ranging in height from 60 to 90 feet—and festooned with stalactites.
 > 
@@ -223,10 +223,10 @@ If you decide to expand the dungeon southward, the passage in the south wall exi
 
 ##### Walls of Force
 
-The illithids have a psionic device in area 16c that generates the magic walls of force sealing off the neothelid's cavern. Each wall is identical to that created by a wall of force spell, with these differences:
+The illithids have a psionic device in area 16c that generates the magic walls of force sealing off the neothelid's cavern. Each wall is identical to that created by a [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md) spell, with these differences:
 
 - The walls last until the psionic force generator in area 16c is deactivated.  
-- A disintegrate spell cast on a wall destroys it for 1 minute, after which the psionic force generator in area 16c resummons the wall.  
+- A [disintegrate](3-Mechanics/CLI/spells/disintegrate-xphb.md) spell cast on a wall destroys it for 1 minute, after which the psionic force generator in area 16c resummons the wall.  
 
 #### 8b. Standing Gate to Level 19
 
@@ -246,7 +246,7 @@ The doors to this area are made of stone and sealed with Qualith door locks (see
 
 > [!note] 
 > 
-> **Sentries**. Two [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) stand behind eight [orogs](/3-Mechanics/CLI/bestiary/humanoid/orog.md) (lined up in two rows of four) facing the double door to the west.
+> **Sentries**. Two [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) stand behind eight [orogs](3-Mechanics/CLI/bestiary/humanoid/berserker-xmm.md) (lined up in two rows of four) facing the double door to the west.
 > 
 > **Pillars**. Two stone pillars with glowing veins of crystal stand to either side of the western hallway.
 ^8c5
@@ -265,18 +265,18 @@ The cell block is 10 feet high throughout and contains the following:
 > 
 > **Cells**. Spaced along the corridor are ten cells with doors made of sturdy iron bars through which a Tiny creature could squeeze. Each cell door is fitted with a Qualith door lock (see "Qualith Door Locks").
 > 
-> **Prisoners**. Three prisoners are locked in separate cells when the characters arrive: a foul-smelling [troglodyte](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md), a young male human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) wearing the uniform of a City Watch constable of Waterdeep, and an elderly female [grimlock](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md) in a soiled gray robe.
+> **Prisoners**. Three prisoners are locked in separate cells when the characters arrive: a foul-smelling [troglodyte](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md), a young male human [veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) wearing the uniform of a City Watch constable of Waterdeep, and an elderly female [grimlock](3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md) in a soiled gray robe.
 ^8c7
 
 The three prisoners subsist on a slimy but nutritious gray mold delivered to them in bowls once a day by illithid thralls.
 
 The troglodyte, Glorz, has a dinner date with the neothelid in area 8 and, given its chaotic evil alignment, can't be trusted to behave itself if set loose.
 
-The City Watch constable, Ishan Toru (LG male Kozakuran human), waits to have his brain devoured by the illithids. Toru's weapons were taken from him and discarded, and he plans to meet his death with whatever courage he can muster. He remembers being lured into an alley by a young girl who claimed her father was being accosted by ruffians. Toru was knocked unconscious by an unseen foe in the alley and awoke in this cell. If set free, he joins forces with his liberators and helps them in any way he can, but is eager to report to his superiors in Waterdeep about what he has witnessed here. He also has parents and siblings who are no doubt wondering what happened to him.
+The City Watch constable, Ishan Toru (LG male Kozakuran human), waits to have his brain devoured by the illithids. Toru's weapons were taken from him and discarded, and he plans to meet his death with whatever courage he can muster. He remembers being lured into an alley by a young girl who claimed her father was being accosted by ruffians. Toru was knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) by an unseen foe in the alley and awoke in this cell. If set free, he joins forces with his liberators and helps them in any way he can, but is eager to report to his superiors in Waterdeep about what he has witnessed here. He also has parents and siblings who are no doubt wondering what happened to him.
 
 If his death seems likely, Toru asks one of the characters to take his City Watch badge and return it to his father in Waterdeep. If this is done, Toru's mother—a renowned jewelry artist—gives that character a sapphire bracelet or pendant worth 2,500 gp as a show of her gratitude.
 
-Ahpok, the old grimlock, has an [intellect devourer](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer.md) in her skull. She is used by the mind flayers to lure other grimlocks to the colony to have their brains devoured. Ahpok has been unable to leave the colony in recent weeks because of the githyanki, so the illithids have stationed her here with orders to keep an eye on the other prisoners. The grimlock speaks Undercommon. Ahpok claims to know this level of Undermountain by sound, smell, and touch, and offers her services as a guide if the characters agree to set her free. If the characters follow her, Ahpok leads them to the neothelid to be killed and consumed. If the intellect devourer is deprived of its host, it teleports away to seek a new one.
+Ahpok, the old grimlock, has an [intellect devourer](3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) in her skull. She is used by the mind flayers to lure other grimlocks to the colony to have their brains devoured. Ahpok has been unable to leave the colony in recent weeks because of the githyanki, so the illithids have stationed her here with orders to keep an eye on the other prisoners. The grimlock speaks Undercommon. Ahpok claims to know this level of Undermountain by sound, smell, and touch, and offers her services as a guide if the characters agree to set her free. If the characters follow her, Ahpok leads them to the neothelid to be killed and consumed. If the intellect devourer is deprived of its host, it teleports away to seek a new one.
 
 ### 11. Halaster Is Glowing
 
@@ -289,11 +289,11 @@ The stone doors to this chamber are sealed with Qualith door locks (see "Qualith
 > **Statue**. In the middle of the room, a statue of a thin, bearded, wild-haired man wearing a robe covered with eyes stands atop a 3-foot-high block of stone. The statue is surrounded by a faint nimbus of multicolored light and points a stony finger at the eastern arch.
 ^8c9
 
-The glowing statue depicts [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). It is a magic trap that casts a prismatic spray spell every time a creature emerges from the arch gate in the east wall. (Simply passing between the statue and the gate doesn't trigger the trap.) The rays created by the spell originate from the statue's pointed finger and target all creatures between the statue and the gate (save DC 19).
+The glowing statue depicts [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). It is a magic trap that casts a [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md) spell every time a creature emerges from the arch gate in the east wall. (Simply passing between the statue and the gate doesn't trigger the trap.) The rays created by the spell originate from the statue's pointed finger and target all creatures between the statue and the gate (save DC 19).
 
-A detect magic spell reveals auras of abjuration magic and evocation magic around the statue. It melds seamlessly with its base and the floor, as though one with both. It can't be toppled and is impervious to damage.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals auras of abjuration magic and evocation magic around the statue. It melds seamlessly with its base and the floor, as though one with both. It can't be toppled and is impervious to damage.
 
-Close examination of the statue reveals that the eyes carved into its robe, twenty in all, have lids that are locked open. Casting an arcane lock spell on the statue closes the eyelids on all the robe's eyes and deactivates the statue. Encompassing the statue in a darkness spell suppresses the trap for the duration.
+Close examination of the statue reveals that the eyes carved into its robe, twenty in all, have lids that are locked open. Casting an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell on the statue closes the eyelids on all the robe's eyes and deactivates the statue. Encompassing the statue in a [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spell suppresses the trap for the duration.
 
 #### Arch Gate to Level 14
 
@@ -315,7 +315,7 @@ All doors leading to this area are made of stone and sealed with Qualith door lo
 
 > [!note] Underground River
 > 
-> The underground river on this level is swift and loud. Creatures within 20 feet of it are deafened by the roar unless a soundproof barrier or a silence spell blocks the noise. Any creature that starts its turn in the river and isn't anchored must make a DC 15 Strength saving throw. On a failed save, the creature is swept 60 feet downriver; on a successful save, the distance is halved to 30 feet. The river flows just as strongly through area 12 as it does elsewhere.
+> The underground river on this level is swift and loud. Creatures within 20 feet of it are [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened) by the roar unless a soundproof barrier or a silence spell blocks the noise. Any creature that starts its turn in the river and isn't anchored must make a DC 15 Strength saving throw. On a failed save, the creature is swept 60 feet downriver; on a successful save, the distance is halved to 30 feet. The river flows just as strongly through area 12 as it does elsewhere.
 ^underground-river
 
 #### 12a. South Water Collector
@@ -326,7 +326,7 @@ The ceiling in this chamber forms a dome 20 feet higher than the floor around th
 
 This area is watched by the ettins that lurk in area 12h.
 
-The ceiling in this chamber forms a dome 20 feet higher than the floor around the cistern, which is 15 feet deep. Water pouring in from the south travels west along a trough that leads toward area 12c. Excess water flows north through a submerged tunnel blocked by a 10-foot-diameter, circular iron grate that Tiny creatures can slip through. Forcing open the grate while fighting off the current requires a successful DC 30 Strength (Athletics) check.
+The ceiling in this chamber forms a dome 20 feet higher than the floor around the cistern, which is 15 feet deep. Water pouring in from the south travels west along a trough that leads toward area 12c. Excess water flows north through a submerged tunnel blocked by a 10-foot-diameter, circular iron grate that Tiny creatures can slip through. Forcing open the grate while fighting off the current requires a successful DC 30 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 #### 12c. Central Hub
 
@@ -348,14 +348,14 @@ The stone door to this room is soundproof, airtight, and sealed with a Qualith d
 
 > [!note] 
 > 
-> **Grimlock**. A stunned male [grimlock](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md) is slumped in one of three stone chairs that face the door.
+> **Grimlock**. A [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) male [grimlock](3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md) is slumped in one of three stone chairs that face the door.
 > 
-> **Illithids**. Two [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) are present. One stands behind the grimlock, feasting on its brain while telepathically communicating the experience to the second mind flayer, which looks on.
+> **Illithids**. Two [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) are present. One stands behind the grimlock, feasting on its brain while telepathically communicating the experience to the second mind flayer, which looks on.
 ^8d3
 
 Dining on brains is a spectator event for mind flayers. With the aid of telepathy, the diner can convey the pleasures of a meal to other illithids in range. These mind flayers don't like being outnumbered. They try to stun as many characters as possible, then gather reinforcements from area 12h.
 
-Most of the grimlock's brain is consumed by the time the characters arrive. Short of a raise dead spell or similar magic, there's no way to save the creature from its fate.
+Most of the grimlock's brain is consumed by the time the characters arrive. Short of a [raise dead](3-Mechanics/CLI/spells/raise-dead-xphb.md) spell or similar magic, there's no way to save the creature from its fate.
 
 #### 12g. Control Room
 
@@ -363,7 +363,7 @@ The stone door to this room is soundproof, airtight, and sealed with a Qualith d
 
 > [!note] 
 > 
-> **Extremiton**. In the middle of the room, the [ulitharid](/3-Mechanics/CLI/bestiary/aberration/ulitharid-mpmm.md) (see appendix A) sits on a swiveling crystal throne shaped like a cocoon. The throne's base is shaped from a dark, alien metal. Dozens of thick copper wires connect it to plates of a similar metal bolted to the floor.
+> **Extremiton**. In the middle of the room, the [ulitharid](3-Mechanics/CLI/bestiary/aberration/ulitharid-mpmm.md) (see appendix A) sits on a swiveling crystal throne shaped like a cocoon. The throne's base is shaped from a dark, alien metal. Dozens of thick copper wires connect it to plates of a similar metal bolted to the floor.
 > 
 > **Crystal Screen**. When the characters first arrive, the throne faces the room's curved back wall, which has rows of pale white crystals embedded in it. These crystals project the flickering, spectral image of the Yawning Portal's taproom, as seen through the eyes of its proprietor, Durnan.
 > 
@@ -380,9 +380,9 @@ Given a chance to do so, the ulitharid is delighted and eager to show off its Al
 
 #### 12h. Ettin Thralls
 
-This curved chamber has a flat ceiling 10 feet high. Lurking in the dark, empty alcoves to the north and south are four scrawny [ettins](/3-Mechanics/CLI/bestiary/giant/ettin.md). At full health, each ettin has 60 hit points.
+This curved chamber has a flat ceiling 10 feet high. Lurking in the dark, empty alcoves to the north and south are four scrawny [ettins](3-Mechanics/CLI/bestiary/giant/ettin-xmm.md). At full health, each ettin has 60 hit points.
 
-The ettins' minds have been broken by dominate monster spells cast on them repeatedly by the illithids over many months. These drooling, gibbering, malnourished thralls won't attack illithids or creatures in their company. All other creatures are attacked on sight. The starving ettins hungrily devour any kills.
+The ettins' minds have been broken by [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md) spells cast on them repeatedly by the illithids over many months. These drooling, gibbering, malnourished thralls won't attack illithids or creatures in their company. All other creatures are attacked on sight. The starving ettins hungrily devour any kills.
 
 ### 13. Back Door
 
@@ -396,7 +396,7 @@ Two chests carved from zurkhwood sit atop low stone tables against the west wall
 
 ##### Treasure
 
-The chests contain treasure that the mind flayers use to bribe creatures they can't devour or enslave. Each chest contains 800 pp. Characters who dig through the gold also find a pair of purple-tinted crystal spectacles with platinum frames (2,500 gp), a potion of resistance (acid), a Quaal's feather token (tree), and a drow-made dagger with silver web filigree. The dagger magically plays a fragment of a guitar solo when struck or used to strike a foe. The dagger is worth 750 gp.
+The chests contain treasure that the mind flayers use to bribe creatures they can't devour or enslave. Each chest contains 800 pp. Characters who dig through the gold also find a pair of purple-tinted crystal spectacles with platinum frames (2,500 gp), a [potion of resistance (acid)](3-Mechanics/CLI/items/potion-of-acid-resistance-xdmg.md), a [Quaal's feather token](3-Mechanics/CLI/items/quaals-feather-token-xdmg.md) (tree), and a drow-made dagger with silver web filigree. The dagger magically plays a fragment of a guitar solo when struck or used to strike a foe. The dagger is worth 750 gp.
 
 #### 13b. Outer Guard Post
 
@@ -410,20 +410,20 @@ The doors to this room are made of stone and sealed with Qualith door locks (see
 > 
 > **Psipods**. Resting in iron brackets along the curved walls are fifteen coffin-sized bronze cylinders with lids of transparent crystal. Each capsule is tilted at a 45-degree angle, connected to metal floor panels with thick copper wires, and coated in a thin, slimy residue.
 > 
-> **Illithids**. Four [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) carrying dark sheets of metal resembling clipboards are inspecting the capsules, nine of which contain unconscious humanoids.
+> **Illithids**. Four [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) carrying dark sheets of metal resembling clipboards are inspecting the capsules, nine of which contain [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) humanoids.
 ^8dc
 
-The mind flayers are tasked with ensuring that the equipment in this room is functioning properly. They try to stun intruders and trap them inside empty psipods (see "Psipods" below). Their "clipboards" are thin sheets of metal with braille-like writing (Qualith) embossed on them. The mind flayers use their tentacles to interpret the writing, which provides technical schematics for the psipods. A comprehend languages spell or similar magic reveals as much, enabling characters to discern what the psipods do and how to disable them.
+The mind flayers are tasked with ensuring that the equipment in this room is functioning properly. They try to stun intruders and trap them inside empty psipods (see "Psipods" below). Their "clipboards" are thin sheets of metal with braille-like writing (Qualith) embossed on them. The mind flayers use their tentacles to interpret the writing, which provides technical schematics for the psipods. A [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md) spell or similar magic reveals as much, enabling characters to discern what the psipods do and how to disable them.
 
 #### Psipods
 
-A psipod is a magic device that connects the mind of an unconscious humanoid to the mind of the ulitharid in area 12g. The psychic residue that coats each psipod is a byproduct of this connection. The residue is sticky and foul-smelling, but harmless. It dissolves after a few hours.
+A psipod is a magic device that connects the mind of an [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) humanoid to the mind of the ulitharid in area 12g. The psychic residue that coats each psipod is a byproduct of this connection. The residue is sticky and foul-smelling, but harmless. It dissolves after a few hours.
 
-Any creature that enters a psipod's bronze cylinder must succeed on a DC 17 Constitution saving throw or fall unconscious, lulled into that state by a soothing psionic vibration that the ulitharid produces. A creature that succeeds on the saving throw must repeat it at the end of each of its turns unit it exits the cylinder.
+Any creature that enters a psipod's bronze cylinder must succeed on a DC 17 Constitution saving throw or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), lulled into that state by a soothing psionic vibration that the ulitharid produces. A creature that succeeds on the saving throw must repeat it at the end of each of its turns unit it exits the cylinder.
 
-While in a psipod, an unconscious creature finds itself drawn into a simulated reality created by the ulitharid (see the "Alterdeep" sidebar) and can survive in this state for the remainder of its natural life, its mind and body nourished by the psipod's psychic energy. If the psipod is shut down, or if the unconscious creature is removed from it, the creature can repeat the DC 17 Constitution saving throw at the end of each of its turns, waking on a success. The creature also awakens if it takes damage in the real world, but not if it takes damage in the Waterdeep simulation.
+While in a psipod, an [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) creature finds itself drawn into a simulated reality created by the ulitharid (see the "Alterdeep" sidebar) and can survive in this state for the remainder of its natural life, its mind and body nourished by the psipod's psychic energy. If the psipod is shut down, or if the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) creature is removed from it, the creature can repeat the DC 17 Constitution saving throw at the end of each of its turns, waking on a success. The creature also awakens if it takes damage in the real world, but not if it takes damage in the Waterdeep simulation.
 
-A psipod shuts down if it is disabled or destroyed. To disable a psipod, a creature must disconnect three of the eight copper wires connecting it to the metal panels in the floor. The mind flayers' schematic pads identify which three wires to disconnect on each psipod. (The combination of wires varies from one psipod to another.) If wires are torn out at random, roll a `dice:d8|noform|noparens|avg` (`d8`) three times (rerolling duplicate results) to determine which three wires shut down that particular psipod, then roll a `dice:d8|noform|noparens|avg` (`d8`) for each wire that is disconnected to see if it's one of the correct ones. Disconnecting a wrong wire triggers a magical surge that targets all creatures within 5 feet of the psipod except the one inside it. A targeted creature must make a DC 17 Wisdom saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage on a failed save, or half as much damage on a successful one. A magical surge from one psipod has no effect on the others.
+A psipod shuts down if it is disabled or destroyed. To disable a psipod, a creature must disconnect three of the eight copper wires connecting it to the metal panels in the floor. The mind flayers' schematic pads identify which three wires to disconnect on each psipod. (The combination of wires varies from one psipod to another.) If wires are torn out at random, roll a `d8` three times (rerolling duplicate results) to determine which three wires shut down that particular psipod, then roll a `d8` for each wire that is disconnected to see if it's one of the correct ones. Disconnecting a wrong wire triggers a magical surge that targets all creatures within 5 feet of the psipod except the one inside it. A targeted creature must make a DC 17 Wisdom saving throw, taking 22 (`4d10`) psychic damage on a failed save, or half as much damage on a successful one. A magical surge from one psipod has no effect on the others.
 
 All the psipods shut down if the ulitharid dies or leaves the crystal throne in area 12g. Each psipod is a Large object with AC 15, 50 hit points, and immunity to poison and psychic damage. A creature inside a psipod has total cover against attacks originating from outside the capsule.
 
@@ -446,16 +446,16 @@ All the psipods shut down if the ulitharid dies or leaves the crystal throne in 
 
 #### Unconscious Humanoids
 
-Eight of the humanoids in the psipods are [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) of mixed race, alignment, and ethnicity. Their names are Daundarak Steelfist (LG male shield dwarf), Jarana Hammerstone (LG female shield dwarf), Falain Tlandrue (CG female moon elf), Merrily Shadowstep (NG female lightfoot halfling), Jagtar Uythrapp (LG male Mulan human), Lament (N male tiefling), Stormal Voss (LE male Illuskan human), and Lander Hellwind (CG male Illuskan human). All were abducted from Waterdeep. Apply racial traits to them as warranted, and remember that dwarves, elves, and tieflings have darkvision.
+Eight of the humanoids in the psipods are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) of mixed race, alignment, and ethnicity. Their names are Daundarak Steelfist (LG male shield dwarf), Jarana Hammerstone (LG female shield dwarf), Falain Tlandrue (CG female moon elf), Merrily Shadowstep (NG female lightfoot halfling), Jagtar Uythrapp (LG male Mulan human), Lament (N male tiefling), Stormal Voss (LE male Illuskan human), and Lander Hellwind (CG male Illuskan human). All were abducted from Waterdeep. Apply racial traits to them as warranted, and remember that dwarves, elves, and tieflings have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision).
 
-The ninth humanoid is Selphorn Amcathra (NE male Tethyrian human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble.md)). A resident of the town of Amphail, he was abducted after attending the funeral of a cousin in Waterdeep. Selphorn promises a reward of 500 gp for his safe return to the City of Splendors and makes good on his promise, but he puts his self-interest above all other concerns. Characters from Waterdeep would know that House Amcathra is one of the city's wealthiest noble families.
+The ninth humanoid is Selphorn Amcathra (NE male Tethyrian human [noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). A resident of the town of Amphail, he was abducted after attending the funeral of a cousin in Waterdeep. Selphorn promises a reward of 500 gp for his safe return to the City of Splendors and makes good on his promise, but he puts his self-interest above all other concerns. Characters from Waterdeep would know that House Amcathra is one of the city's wealthiest noble families.
 
 ### 15. Psipod Nexus II
 
 This room is identical to area 14, with these alterations:
 
 - The room contains twenty empty psipods in various stages of completion. (Half of the psipods are fully assembled and functional.)  
-- Three [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) are busily assembling one of the unfinished psipods.  
+- Three [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) are busily assembling one of the unfinished psipods.  
 
 ### 16. Old Dwarven Halls
 
@@ -471,20 +471,20 @@ The doors in this area are made of stone and sealed with Qualith door locks (see
 > 
 > **Dishware**. Shallow niches in the walls hold stone dishes and tankards. Some of the dishware contains globs of edible gray slime. (The mind flayers use these dishes to bring food to prisoners in area 10.)
 > 
-> **Wall of Force**. The rubble-strewn passage to area 8a is blocked by an invisible wall of force that is generated from area 16c.
+> **Wall of Force**. The rubble-strewn passage to area 8a is blocked by an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) wall of force that is generated from area 16c.
 ^8e6
 
-The mind flayers gained control of two [scaladar](/3-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md) (see appendix A) and implanted duergar brains in them, bestowing on each construct an Intelligence of 11 and the ability to understand (but not speak) Dwarvish and Undercommon. Each duergar brain is contained in a glass sphere embedded in the construct's head. These scaladar obey the commands of illithids and attack any creatures that aren't mind flayers or their thralls. [Trobriand](/3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s rings no longer have any effect on these constructs.
+The mind flayers gained control of two [scaladar](3-Mechanics/CLI/bestiary/construct/scaladar-wdmm.md) (see appendix A) and implanted duergar brains in them, bestowing on each construct an Intelligence of 11 and the ability to understand (but not speak) Dwarvish and Undercommon. Each duergar brain is contained in a glass sphere embedded in the construct's head. These scaladar obey the commands of illithids and attack any creatures that aren't mind flayers or their thralls. [Trobriand](3-Mechanics/CLI/bestiary/npc/trobriand-wdmm.md)'s rings no longer have any effect on these constructs.
 
 #### 16b. South Guard Post
 
-This misshapen, 20-foot-high room sits at the top of a sloped tunnel that descends for hundreds of feet to level 18. Guarding the otherwise empty room are eight [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md). If they see light approaching, the duergar turn invisible and enlarge themselves, then ambush anyone that enters the chamber. These duergar have had their minds broken by the mind flayers and fight to the death.
+This misshapen, 20-foot-high room sits at the top of a sloped tunnel that descends for hundreds of feet to level 18. Guarding the otherwise empty room are eight [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md). If they see light approaching, the duergar turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and enlarge themselves, then ambush anyone that enters the chamber. These duergar have had their minds broken by the mind flayers and fight to the death.
 
 #### 16c. Psionic Force Generator
 
 > [!note] 
 > 
-> **Pedestal**. In the middle of the room, two [mind flayers](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) grip the top of a 4-foot-tall, three-sided crystal pedestal with a fist-sized diamond floating 1 foot above it.
+> **Pedestal**. In the middle of the room, two [mind flayers](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) grip the top of a 4-foot-tall, three-sided crystal pedestal with a fist-sized diamond floating 1 foot above it.
 > 
 > **Anvils**. Piled against the walls are scores of rusty iron anvils forged and abandoned long ago by the Melairkyn dwarves. (Each one weighs 500 pounds.)
 ^8e9
@@ -515,7 +515,7 @@ Neither the mind flayers nor their thralls come here.
 
 #### 19a. River's Roar
 
-Creatures in this 10-foot-high, partially collapsed chamber have disadvantage on Wisdom (Perception) checks that rely on hearing due to the loud roar of the underground river nearby.
+Creatures in this 10-foot-high, partially collapsed chamber have disadvantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing due to the loud roar of the underground river nearby.
 
 #### 19b. Safe Shoreline Cave
 
@@ -523,7 +523,7 @@ The 10-foot-high, rough-hewn chamber is strewn with rubble. The shore is rocky a
 
 ### 20. River Branches
 
-The river (see "Underground River") reaches a depth of 20 feet at this point, where it splits off in three directions. A creature swept along by the river's strong current is pulled in a random direction determined by rolling a `dice:d6|noform|noparens|avg` (`d6`). On a 1, the creature is swept into area 12a. On a 2, the creature is swept into area 12b. On any other result, the creature is swept into area 12c.
+The river (see "Underground River") reaches a depth of 20 feet at this point, where it splits off in three directions. A creature swept along by the river's strong current is pulled in a random direction determined by rolling a `d6`. On a 1, the creature is swept into area 12a. On a 2, the creature is swept into area 12b. On any other result, the creature is swept into area 12c.
 
 ## Aftermath
 

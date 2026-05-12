@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zebra
+- "Zebra"
 ---
-# [Zebra](3-Mechanics\CLI\bestiary\beast/zebra-toa.md)
+# [Zebra](3-Mechanics/CLI/bestiary/beast/zebra-toa.md)
 *Source: Tomb of Annihilation p. 106*  
 
 ```statblock
@@ -36,11 +36,11 @@ aliases:
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/zebra-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/zebra-toa.webp"
 ```
 ^statblock

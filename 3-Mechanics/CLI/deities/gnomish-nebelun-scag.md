@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnomish
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/trickery
-aliases: 
-- Nebelun
+aliases:
+- "Nebelun"
 ---
 # Nebelun
 *Source: Sword Coast Adventurer's Guide p. 24* 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk Scaleshield
+- "Lizardfolk Scaleshield"
 ---
-# [Lizardfolk Scaleshield](3-Mechanics\CLI\bestiary\humanoid/lizardfolk-scaleshield-gos.md)
+# [Lizardfolk Scaleshield](3-Mechanics/CLI/bestiary/humanoid/lizardfolk-scaleshield-gos.md)
 *Source: Ghosts of Saltmarsh p. 242*  
 
 Serving as the elite warriors and officers of a lizardfolk clan, these robust creatures wear thick armor made from crocodile scales and metal. Trained in martial weapons and advanced combat tactics, they are found protecting lizardfolk lairs such as the one in Danger at Dunwater.
@@ -43,6 +43,8 @@ Serving as the elite warriors and officers of a lizardfolk clan, these robust cr
     "desc": "+3"
   - "name": "Survival"
     "desc": "+5"
+"gear":
+  - "morningstar"
 "senses": "passive Perception 13"
 "languages": "Draconic"
 "cr": "1"
@@ -52,14 +54,14 @@ Serving as the elite warriors and officers of a lizardfolk clan, these robust cr
 "actions":
   - "desc": "The scaleshield makes two melee attacks, each one with a different weapon."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage."
     "name": "Morningstar"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Spiked Shield"
 "reactions":
   - "desc": "If an ally within 5 feet of the scaleshield is hit by an attack, the\
@@ -67,6 +69,6 @@ Serving as the elite warriors and officers of a lizardfolk clan, these robust cr
     "name": "Shield Block"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk-scaleshield-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk-scaleshield-gos.webp"
 ```
 ^statblock

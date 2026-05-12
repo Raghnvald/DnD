@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Alkilith
+- "Alkilith"
 ---
-# [Alkilith](3-Mechanics\CLI\bestiary\fiend/alkilith-mpmm.md)
+# [Alkilith](3-Mechanics/CLI/bestiary/fiend/alkilith-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44, Mordenkainen's Tome of Foes p. 130*  
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -46,15 +46,15 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
   - "dexterity": !!int "8"
   - "constitution": !!int "10"
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "acid; cold; fire; lightning; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands Abyssal but can't speak"
 "cr": "11"
 "traits":
@@ -67,15 +67,15 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
     "name": "Amorphous"
   - "desc": "If the alkilith is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the alkilith\
-      \ move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation))\
+      \ move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
       \ check to discern that the alkilith isn't ordinary slime or fungus."
     "name": "False Appearance"
   - "desc": "Any creature that isn't a demon that starts its turn within 30 feet of\
       \ the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint\
       \ buzzing in its head for a moment and has disadvantage on its next attack roll,\
       \ saving throw, or ability check.\n\nIf the saving throw against Foment Confusion\
-      \ fails by 5 or more, the creature is instead subjected to the [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md)\
-      \ spell for 1 minute (no [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
+      \ fails by 5 or more, the creature is instead subjected to the [confusion](3-Mechanics/CLI/spells/confusion.md)\
+      \ spell for 1 minute (no [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ required by the alkilith). While under the effect of that confusion, the creature\
       \ is immune to Foment Confusion."
     "name": "Foment Confusion"
@@ -90,13 +90,13 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 "actions":
   - "desc": "The alkilith makes three Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:* 18\
-      \ (4d6 + 4) acid damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 15 ft., one target. *Hit:*\
+      \ 18 (4d6 + 4) acid damage."
     "name": "Tentacle"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/alkilith-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/alkilith-mpmm.webp"
 ```
 ^statblock
 

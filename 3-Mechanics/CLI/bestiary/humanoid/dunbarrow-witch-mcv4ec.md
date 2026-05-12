@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dunbarrow Witch
+- "Dunbarrow Witch"
 ---
-# [Dunbarrow Witch](3-Mechanics\CLI\bestiary\humanoid/dunbarrow-witch-mcv4ec.md)
+# [Dunbarrow Witch](3-Mechanics/CLI/bestiary/humanoid/dunbarrow-witch-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 > [!quote] A quote from Dunbarrow witch incantation  
@@ -39,7 +39,7 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
 "subtype": "human"
 "alignment": "typically  Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
 "hp": !!int "72"
 "hit_dice": "16d8"
 "modifier": !!int "2"
@@ -55,9 +55,9 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
   - "wisdom": !!int "5"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+6"
 "senses": "passive Perception 12"
 "languages": "Common, Sylvan, and any one language"
@@ -67,15 +67,16 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
       \ attacks with Spellcasting."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage plus 21 (6d6) poison damage."
+      \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage plus 21 (6d6) poison\
+      \ damage."
     "name": "Poison Dagger"
   - "desc": "The witch hurls a bottle of liquid at a point up to 20 feet away from\
       \ itself, which shatters into a cloud of magical smoke that fills a 10-foot-radius\
       \ sphere. Each creature in that area must succeed on a DC 16 Wisdom saving throw\
-      \ or transform into a creature, as if under the effects of a polymorph spell,\
-      \ transforming into one of the following forms (roll a d4): 1, bat; 2, frog;\
-      \ 3, lizard; or 4, rat. This transformation lasts for 1 hour or until the creature\
-      \ drops to 0 hit points in its new form."
+      \ or transform into a creature, as if under the effects of a [polymorph](3-Mechanics/CLI/spells/polymorph.md)\
+      \ spell, transforming into one of the following forms (roll a d4): 1, bat;\
+      \ 2, frog; 3, lizard; or 4, rat. This transformation lasts for 1 hour or until\
+      \ the creature drops to 0 hit points in its new form."
     "name": "Polymorph Concoction (1/Day)"
   - "desc": "The witch targets a point it can see within 30 feet of itself. The air\
       \ there magically solidifies into a mirrorlike pane, then shatters in a 15-foot\
@@ -84,12 +85,15 @@ Much of a Dunbarrow witch's magic is performed at cauldrons and delivered as a p
       \ or half as much damage on a successful one."
     "name": "Shattered Shards"
   - "desc": "The witch casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 16):\n\n**At will:** mage armor (self only), prestidigitation\n\
-      \n**2/day each:** animal messenger, charm person, Tasha's hideous laughter\n\
-      \n**1/day each:** bestow curse, dispel magic"
+      \ ability (spell save DC 16):\n\n**At will:** [mage armor](3-Mechanics/CLI/spells/mage-armor.md)\
+      \ (self only), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md)\n\
+      \n**2/day each:** [animal messenger](3-Mechanics/CLI/spells/animal-messenger.md),\
+      \ [charm person](3-Mechanics/CLI/spells/charm-person.md), [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\
+      \n**1/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md), [dispel\
+      \ magic](3-Mechanics/CLI/spells/dispel-magic.md)"
     "name": "Spellcasting"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/dunbarrow-witch-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/dunbarrow-witch-mcv4ec.webp"
 ```
 ^statblock

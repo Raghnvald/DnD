@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/weapon/simple
+aliases:
 - "Fate Cutter Shears"
 ---
 # Fate Cutter Shears
@@ -22,7 +22,7 @@ aliases:
 
 The blades of these pruning shears bear many nicks and dents but still cut cleanly. The shears function as a magic dagger. The weapon has the following properties:
 
-- **Ever Sharp.** When you hit with an attack using the shears, the target takes an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage.  
-- **Sever Threads.** When you hit a creature with the shears, you can cut that creature's fate. Until the target finishes a long rest, attack rolls against it score a critical hit on a roll of 19 or 20 on the `dice:d20|noform|noparens|avg` (`d20`). Once this property is used, it can't be used again until the next dawn.  
+- **Ever Sharp.** When you hit with an attack using the shears, the target takes an extra `1d6` force damage.  
+- **Sever Threads.** When you hit a creature with the shears, you can cut that creature's fate. Until the target finishes a long rest, attack rolls against it score a critical hit on a roll of 19 or 20 on the `d20`. Once this property is used, it can't be used again until the next dawn.  
 
 *Source: The Book of Many Things p. 61*

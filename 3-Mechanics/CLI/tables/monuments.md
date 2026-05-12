@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Monuments
+- "Monuments"
 ---
 # Monuments
 *Source: Dungeon Master's Guide p. 108* 
 
 **Monuments**
-
-`dice: [](monuments.md#^monuments)`
 
 | dice: d20 | Monument |
 |-----------|----------|

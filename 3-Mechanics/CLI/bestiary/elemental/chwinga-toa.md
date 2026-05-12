@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chwinga
+- "Chwinga"
 ---
-# [Chwinga](3-Mechanics\CLI\bestiary\elemental/chwinga-toa.md)
+# [Chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md)
 *Source: Tomb of Annihilation p. 216*  
 
 A chwinga (pronounced cheh-WING-ah) is a tiny elemental spirit that lives in plants, rocks, and rivers far from civilization. Painfully shy, chwingas prefer to move about unseen.
@@ -45,19 +45,21 @@ Chwingas sleep but don't require air, food, or drink. They don't have names and 
   - !!int "16"
 "speed": "20 ft., climb 20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "blindsight 60 ft., passive Perception 17"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 17"
 "languages": ""
 "cr": "0"
 "traits":
   - "desc": "The chwinga's innate spellcasting ability is Wisdom. It can innately\
       \ cast the following spells, requiring no material or verbal components:\n\n\
-      **At will:** druidcraft, guidance, pass without trace, resistance"
+      **At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md), [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The chwinga doesn't require air, food, or drink. When it dies, it turns\
       \ into a handful of flower petals, a cloud of pollen, a stone statuette resembling\
@@ -82,6 +84,6 @@ Chwingas sleep but don't require air, food, or drink. They don't have names and 
     "name": "Natural Shelter"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/chwinga-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/chwinga-toa.webp"
 ```
 ^statblock

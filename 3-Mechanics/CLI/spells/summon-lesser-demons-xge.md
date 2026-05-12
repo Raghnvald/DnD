@@ -20,7 +20,7 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Summon Lesser Demons
+- "Summon Lesser Demons"
 ---
 # Summon Lesser Demons
 *3rd-level, Conjuration*  
@@ -33,8 +33,6 @@ aliases:
 
 You utter foul words, summoning demons from the chaos of the Abyss. Roll on the following table to determine what appears.
 
-`dice: [](summon-lesser-demons-xge.md#^demons-summoned)`
-
 | dice: d6 | Demons Summoned |
 |----------|-----------------|
 | 1-2 | Two demons of challenge rating 1 or lower |
@@ -42,7 +40,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 | 5-6 | Eight demons of challenge rating 1/4 or lower |
 ^demons-summoned
 
-The DM chooses the demons, such as [manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md) or [dretches](/3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md), and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
+The DM chooses the demons, such as [manes](3-Mechanics/CLI/bestiary/fiend/manes-xmm.md) or [dretches](3-Mechanics/CLI/bestiary/fiend/dretch-xmm.md), and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
 
 The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 
@@ -50,6 +48,6 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 167*

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/life
-aliases: 
-- Semuanya
+aliases:
+- "Semuanya"
 ---
 # Semuanya
 *Source: Player's Handbook p. 296* 

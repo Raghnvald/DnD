@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/10
-- new/monster/size/huge
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tomb Tapper
+- "Tomb Tapper"
 ---
-# [Tomb Tapper](3-Mechanics\CLI\bestiary\construct/tomb-tapper-idrotf.md)
+# [Tomb Tapper](3-Mechanics/CLI/bestiary/construct/tomb-tapper-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 310*  
 
 The Netherese arcanists who created these creatures called them "thaluud," which means "faceless." Wrought from the fusion of magic and elemental earth, each of these sexless, hairless warriors stands 15 to 21 feet tall and possesses a lust for magic, an inherited memory (composed of recollections from the souls sacrificed in their creation), and an insane hatred for nonhuman spellcasting creatures. Tomb tappers can dig through earth and rock with their claws or use their metal sledgehammers to shatter rock when needed. They absorb water through their skin and crush rock with their jaws to extract mineral sustenance. They can also digest iron from blood and marrow, if mineral-rich rock is unavailable.
@@ -44,12 +44,13 @@ Magic is sacred to tomb tappers. They don't use any magic items they acquire, in
   - !!int "11"
 "speed": "30 ft., burrow 10 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "lightning"
 "damage_immunities": "cold, fire"
-"condition_immunities": "charmed, frightened"
-"senses": "blindsight 240 ft. (blind beyond this radius), passive Perception 16"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 240 ft. (blind\
+  \ beyond this radius), passive Perception 16"
 "languages": "understands Common and Undercommon but doesn't speak, telepathy 60 ft."
 "cr": "10"
 "traits":
@@ -71,20 +72,20 @@ Magic is sacred to tomb tappers. They don't use any magic items they acquire, in
       \ its claws. If it hits the same creature with both claws, it can pull that\
       \ creature within 5 feet of its mouth and make a bite attack against it."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 22\
-      \ (3d10 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 22 (3d10 + 6) slashing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (3d6 + 6) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 15 ft. or range 30/120\
-      \ ft., one target. *Hit:* 27 (6d6 + 6) bludgeoning or force damage (tomb tapper's\
-      \ choice). If thrown, the hammer returns to the tomb tapper at the end of its\
-      \ turn, landing at the tomb tapper's feet if it doesn't have a hand free to\
-      \ catch the weapon."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 15 ft. or range\
+      \ 30/120 ft., one target. *Hit:* 27 (6d6 + 6) bludgeoning or force damage\
+      \ (tomb tapper's choice). If thrown, the hammer returns to the tomb tapper at\
+      \ the end of its turn, landing at the tomb tapper's feet if it doesn't have\
+      \ a hand free to catch the weapon."
     "name": "Sledgehammer"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/tomb-tapper-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/tomb-tapper-idrotf.webp"
 ```
 ^statblock

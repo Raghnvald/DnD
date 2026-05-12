@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Maddgoth's Homunculus
+- "Maddgoth's Homunculus"
 ---
-# [Maddgoth's Homunculus](3-Mechanics\CLI\bestiary\npc/maddgoths-homunculus-wdmm.md)
+# [Maddgoth's Homunculus](3-Mechanics/CLI/bestiary/npc/maddgoths-homunculus-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 96*  
 
 ```statblock
@@ -34,8 +34,9 @@ aliases:
   - !!int "7"
 "speed": "20 ft., fly 40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "charmed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Abyssal, Common, Draconic, Gnomish but can't speak"
 "cr": "2"
 "traits":
@@ -44,14 +45,16 @@ aliases:
       \ telepathically."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 2d6\
-      \ + 2 piercing damage, and the target must succeed on a DC 10 Constitution saving\
-      \ throw or be poisoned for 1 minute. If the saving throw fails by 5 or more,\
-      \ the target is instead poisoned for 5 (1d10) minutes and unconscious while\
-      \ poisoned in this way."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 2d6 + 2 piercing damage, and the target must succeed on a DC 10 Constitution\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. If the saving throw fails by 5 or more, the target is instead\
+      \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 5 (1d10) minutes\
+      \ and [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ in this way."
     "name": "Bite"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/maddgoths-homunculus-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/maddgoths-homunculus-wdmm.webp"
 ```
 ^statblock

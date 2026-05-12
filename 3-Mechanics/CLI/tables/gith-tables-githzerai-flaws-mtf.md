@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githzerai Flaws
+- "Gith Tables; Githzerai Flaws"
 ---
 # Gith Tables; Githzerai Flaws
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githzerai Flaws**
-
-`dice: [](gith-tables-githzerai-flaws-mtf.md#^githzerai-flaws)`
 
 | dice: d4 | Flaw |
 |----------|------|

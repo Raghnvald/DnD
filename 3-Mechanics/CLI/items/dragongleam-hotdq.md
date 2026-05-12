@@ -11,7 +11,7 @@ aliases:
 - "Dragongleam"
 ---
 # Dragongleam
-*Weapon ([spear](3-Mechanics/CLI/items/spear.md))*  
+*Weapon ([spear](3-Mechanics/CLI/items/spear-xphb.md))*  
 
 
 - **Damage**:
@@ -21,6 +21,6 @@ aliases:
 - **Properties**: [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
-This spear is enchanted with 10 charges of a [daylight](3-Mechanics/CLI/spells/daylight.md) spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
+This spear is enchanted with 10 charges of a [daylight](3-Mechanics/CLI/spells/daylight-xphb.md) spell for use in twilight or dark forest underbrush. The command phrase is "Tiamat's eyes shine," written in Draconic runes on the spear's crossguard.
 
-*Source: Hoard of the Dragon Queen p. 84*
+*Source: Hoard of the Dragon Queen p. 84, Tyranny of Dragons p. 84*

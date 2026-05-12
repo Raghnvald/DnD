@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grick
+- "Grick"
 ---
-# [Grick](3-Mechanics\CLI\bestiary\monstrosity/grick.md)
+# [Grick](3-Mechanics/CLI/bestiary/monstrosity/grick.md)
 *Source: Monster Manual p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -50,27 +50,27 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
-  - "desc": "The grick has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The grick has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
   - "desc": "The grick makes one attack with its tentacles. If that attack hits, the\
       \ grick can make one beak attack against the same target."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Beak"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/grick.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/grick.webp"
 ```
 ^statblock
 

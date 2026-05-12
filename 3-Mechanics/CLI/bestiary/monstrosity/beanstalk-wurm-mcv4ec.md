@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beanstalk Wurm
+- "Beanstalk Wurm"
 ---
-# [Beanstalk Wurm](3-Mechanics\CLI\bestiary\monstrosity/beanstalk-wurm-mcv4ec.md)
+# [Beanstalk Wurm](3-Mechanics/CLI/bestiary/monstrosity/beanstalk-wurm-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Wurms are enormous creatures that resemble limbless, wingless dragons, though they lack a dragon's breath weapons and keen intelligence. On the world of Eldraine, many wurms have adapted to life among the world's skyscraping beanstalks. These beanstalk wurms sport leafy growths, sustaining themselves on a mixture of natural photosynthesis and a carnivorous diet.
@@ -51,7 +51,7 @@ Cloud-dwelling giants often use beanstalk wurms as a first line of defense again
 "traits":
   - "desc": "If the wurm is motionless at the start of combat, it has advantage on\
       \ its initiative roll. Moreover, if a creature hasn't observed the wurm move\
-      \ or act, that creature must succeed on a DC 18 Intelligence (Investigation)\
+      \ or act, that creature must succeed on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
       \ check to discern that the wurm is animate."
     "name": "False Appearance"
   - "desc": "Creatures have advantage on ability checks made to climb the wurm."
@@ -65,22 +65,23 @@ Cloud-dwelling giants often use beanstalk wurms as a first line of defense again
 "actions":
   - "desc": "The wurm makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 30\
-      \ (5d8 + 8) piercing damage. If the target is a Large or smaller creature, it\
-      \ must succeed on a DC 22 Dexterity saving throw or be swallowed by the wurm.\
-      \ A swallowed creature has the restrained condition, has total cover against\
-      \ attacks and other effects outside the wurm, and takes 28 (8d6) piercing damage\
-      \ at the start of each of the wurm's turns from thorns in the wurm's gullet.\n\
-      \nThe wurm's stomach can hold up to two creatures at a time. If the wurm takes\
-      \ 30 damage or more on a single turn from a creature inside it, the wurm must\
-      \ succeed on a DC 22 Constitution saving throw at the end of that turn or regurgitate\
-      \ all swallowed creatures, each of which falls in a space within 10 feet of\
-      \ the wurm and has the prone condition. If the wurm dies, a swallowed creature\
-      \ no longer has the restrained condition and can escape from the corpse by using\
-      \ 10 feet of movement, exiting with the prone condition."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:*\
+      \ 30 (5d8 + 8) piercing damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 22 Dexterity saving throw or be swallowed by the wurm.\
+      \ A swallowed creature has the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition, has total cover against attacks and other effects outside the wurm,\
+      \ and takes 28 (8d6) piercing damage at the start of each of the wurm's turns\
+      \ from thorns in the wurm's gullet.\n\nThe wurm's stomach can hold up to two\
+      \ creatures at a time. If the wurm takes 30 damage or more on a single turn\
+      \ from a creature inside it, the wurm must succeed on a DC 22 Constitution saving\
+      \ throw at the end of that turn or regurgitate all swallowed creatures, each\
+      \ of which falls in a space within 10 feet of the wurm and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ condition. If the wurm dies, a swallowed creature no longer has the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition and can escape from the corpse by using 10 feet of movement, exiting\
+      \ with the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Bite"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/beanstalk-wurm-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/beanstalk-wurm-mcv4ec.webp"
 ```
 ^statblock

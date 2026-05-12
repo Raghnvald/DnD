@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/tiny
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chwinga
+- "Chwinga"
 ---
-# [Chwinga](3-Mechanics\CLI\bestiary\elemental/chwinga-idrotf.md)
+# [Chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 282*  
 
 A chwinga is a tiny elemental spirit that lives in plants, rocks, and rivers far from civilization. Those found in cold climates also live in ice and snow. Painfully shy, chwingas prefer to move about unseen.
@@ -33,13 +33,13 @@ Exposure to Auril's nightly aurora and the unnatural blizzards she creates can c
 
 This section describes several new charms that chwingas living in Icewind Dale or other cold regions can bestow using their Magical Gift action.
 
-- [Charm of Biting Cold](/3-Mechanics/CLI/rewards/charm-of-biting-cold-idrotf.md)  
-- [Charm of Bounty](/3-Mechanics/CLI/rewards/charm-of-bounty-idrotf.md)  
-- [Charm of Cold Resistance](/3-Mechanics/CLI/rewards/charm-of-cold-resistance-idrotf.md)  
-- [Charm of Snowball Strike](/3-Mechanics/CLI/rewards/charm-of-snowball-strike-idrotf.md)  
-- [Charm of the Ice Troll](/3-Mechanics/CLI/rewards/charm-of-the-ice-troll-idrotf.md)  
-- [Charm of the Snow Walker](/3-Mechanics/CLI/rewards/charm-of-the-snow-walker-idrotf.md)  
-- [Charm of the Traveler's Haven](/3-Mechanics/CLI/rewards/charm-of-the-travelers-haven-idrotf.md)  
+- [Charm of Biting Cold](3-Mechanics/CLI/rewards/charm-of-biting-cold-idrotf.md)  
+- [Charm of Bounty](3-Mechanics/CLI/rewards/charm-of-bounty-idrotf.md)  
+- [Charm of Cold Resistance](3-Mechanics/CLI/rewards/charm-of-cold-resistance-idrotf.md)  
+- [Charm of Snowball Strike](3-Mechanics/CLI/rewards/charm-of-snowball-strike-idrotf.md)  
+- [Charm of the Ice Troll](3-Mechanics/CLI/rewards/charm-of-the-ice-troll-idrotf.md)  
+- [Charm of the Snow Walker](3-Mechanics/CLI/rewards/charm-of-the-snow-walker-idrotf.md)  
+- [Charm of the Traveler's Haven](3-Mechanics/CLI/rewards/charm-of-the-travelers-haven-idrotf.md)  
 
 ```statblock
 "name": "Chwinga (IDRotF)"
@@ -59,19 +59,21 @@ This section describes several new charms that chwingas living in Icewind Dale o
   - !!int "16"
 "speed": "20 ft., climb 20 ft., swim 20 ft."
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "blindsight 60 ft., passive Perception 17"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 17"
 "languages": ""
 "cr": "0"
 "traits":
   - "desc": "The chwinga's innate spellcasting ability is Wisdom. It can innately\
       \ cast the following spells, requiring no material or verbal components:\n\n\
-      **At will:** druidcraft, guidance, pass without trace, resistance"
+      **At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md), [guidance](3-Mechanics/CLI/spells/guidance.md),\
+      \ [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md), [resistance](3-Mechanics/CLI/spells/resistance.md)"
     "name": "Innate Spellcasting"
   - "desc": "The chwinga doesn't require air, food, or drink. When it dies, it turns\
       \ into a handful of flower petals, a cloud of pollen, a stone statuette resembling\
@@ -96,6 +98,6 @@ This section describes several new charms that chwingas living in Icewind Dale o
     "name": "Natural Shelter"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/chwinga-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/chwinga-idrotf.webp"
 ```
 ^statblock

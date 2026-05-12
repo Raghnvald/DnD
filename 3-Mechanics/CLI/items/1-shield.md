@@ -7,11 +7,11 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/shield/
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "+1 Shield"
 ---
 # +1 Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md)), major, uncommon*  
+*Armor (shield), major, uncommon*  
 
 
 - **Armor Class**: 2

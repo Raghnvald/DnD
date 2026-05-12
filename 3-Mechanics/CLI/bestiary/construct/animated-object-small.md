@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Object (Small)
+- "Animated Object (Small)"
 ---
-# [Animated Object (Small)](3-Mechanics\CLI\bestiary\construct/animated-object-small.md)
+# [Animated Object (Small)](3-Mechanics/CLI/bestiary/construct/animated-object-small.md)
 *Source: Player's Handbook p. 213*  
 
 ```statblock
@@ -32,8 +32,8 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), passive Perception 6"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "traits":
   - "desc": "If the object lacks legs or other appendages it can use for locomotion,\
@@ -45,11 +45,11 @@ aliases:
       \ inflicts slashing or piercing damage based on its form."
     "name": "Animated"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) bludgeoning damage."
     "name": "Slam"
 "source":
   - "PHB"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-object-small.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-object-small.webp"
 ```
 ^statblock

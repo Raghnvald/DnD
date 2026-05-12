@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/war
-aliases: 
-- The Silver Flame
+aliases:
+- "The Silver Flame"
 ---
 # The Silver Flame
 *Source: Player's Handbook p. 296* 

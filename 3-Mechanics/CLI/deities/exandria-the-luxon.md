@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/light
-aliases: 
-- The Luxon
+aliases:
+- "The Luxon"
 ---
 # The Luxon
 *Source: Explorer's Guide to Wildemount p. 32* 

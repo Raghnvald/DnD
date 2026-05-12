@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Criminal Syndicate Contact; Syndicate Contact
+- "Criminal Syndicate Contact; Syndicate Contact"
 ---
 # Criminal Syndicate Contact; Syndicate Contact
 *Source: Tasha's Cauldron of Everything p. 92* 
 
 **Syndicate Contact**
-
-`dice: [](criminal-syndicate-contact-syndicate-contact-tce.md#^syndicate-contact)`
 
 | dice: d6 | Contact |
 |----------|---------|

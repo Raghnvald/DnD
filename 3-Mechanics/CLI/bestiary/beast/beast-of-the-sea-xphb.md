@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beast of the Sea
+- "Beast of the Sea"
 ---
-# [Beast of the Sea](3-Mechanics\CLI\bestiary\beast/beast-of-the-sea-xphb.md)
+# [Beast of the Sea](3-Mechanics/CLI/bestiary/beast/beast-of-the-sea-xphb.md)
 *Source: Player's Handbook (2024) p. 124*  
 
 ```statblock
@@ -30,8 +30,8 @@ aliases:
   - !!int "14"
   - !!int "11"
 "speed": "5 ft., swim 60 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 90 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 90 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The beast can breathe air and water."
@@ -42,11 +42,11 @@ aliases:
 "actions":
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
       \ ft. *Hit:* 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage\
-      \ (your choice when you summon the beast), and the target has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ (your choice when you summon the beast), and the target has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC equals your spell save DC)."
     "name": "Beast's Strike"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sea-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/beast-of-the-sea-xphb.webp"
 ```
 ^statblock

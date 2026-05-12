@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathlock Mastermind
+- "Deathlock Mastermind"
 ---
-# [Deathlock Mastermind](3-Mechanics\CLI\bestiary\undead/deathlock-mastermind-mpmm.md)
+# [Deathlock Mastermind](3-Mechanics/CLI/bestiary/undead/deathlock-mastermind-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -46,23 +46,23 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "the languages it knew in life"
 "cr": "8"
 "traits":
-  - "desc": "Magical darkness doesn't impede the deathlock's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)."
+  - "desc": "Magical darkness doesn't impede the deathlock's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)."
     "name": "Devil's Sight"
   - "desc": "The deathlock has advantage on saving throws against any effect that\
       \ turns Undead."
@@ -75,25 +75,25 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (3d6 + 3 necrotic damage)."
     "name": "Deathly Claw"
-  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:* 13\
-      \ (3d8) necrotic damage. If the target is Large or smaller, it must succeed\
-      \ on a DC 16 Strength saving throw or become [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ as shadowy tendrils wrap around it for 1 minute. A [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one target. *Hit:*\
+      \ 13 (3d8) necrotic damage. If the target is Large or smaller, it must succeed\
+      \ on a DC 16 Strength saving throw or become [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ as shadowy tendrils wrap around it for 1 minute. A [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ target can use its action to repeat the saving throw, ending the effect on\
       \ itself on a success."
     "name": "Grave Bolt"
   - "desc": "The deathlock casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day\
-      \ each:** [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](/3-Mechanics/CLI/spells/fly-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day each:**\
+      \ [darkness](3-Mechanics/CLI/spells/darkness.md), [dimension door](3-Mechanics/CLI/spells/dimension-door.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [fly](3-Mechanics/CLI/spells/fly.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp"
 ```
 ^statblock
 

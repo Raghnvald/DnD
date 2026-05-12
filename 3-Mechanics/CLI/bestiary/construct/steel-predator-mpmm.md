@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Steel Predator
+- "Steel Predator"
 ---
-# [Steel Predator](3-Mechanics\CLI\bestiary\construct/steel-predator-mpmm.md)
+# [Steel Predator](3-Mechanics/CLI/bestiary/construct/steel-predator-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -45,20 +45,20 @@ If all goes according to plan, a steel predator slays its target and then volunt
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+7"
 "damage_resistances": "cold, lightning, necrotic, thunder"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 17"
 "languages": "understands Modron and the language of its owner but can't speak"
 "cr": "16"
@@ -71,29 +71,29 @@ If all goes according to plan, a steel predator slays its target and then volunt
 "actions":
   - "desc": "The steel predator makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) force damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) force damage."
     "name": "Claw"
   - "desc": "The steel predator emits a roar in a 60-foot cone. Each creature in that\
       \ area must make a DC 19 Constitution saving throw. On a failed save, a creature\
-      \ takes 33 (6d10) thunder damage, drops everything it's holding, and is [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
-      \ for 1 minute. The [stunned](/3-Mechanics/CLI/conditions.md#Stunned) creature\
+      \ takes 33 (6d10) thunder damage, drops everything it's holding, and is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ for 1 minute. The [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) creature\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success. On a successful save, a creature takes half as much\
-      \ damage and isn't [stunned](/3-Mechanics/CLI/conditions.md#Stunned)."
+      \ damage and isn't [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)."
     "name": "Stunning Roar (Recharge 5-6)"
   - "desc": "The steel predator casts one of the following spells, requiring no spell\
       \ components and using Wisdom as the spellcasting ability:\n\n**3/day each:**\
-      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) (self only),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)"
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door.md) (self only), [plane\
+      \ shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/steel-predator-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/steel-predator-mpmm.webp"
 ```
 ^statblock
 

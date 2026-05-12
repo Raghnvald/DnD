@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Sovereign Assignments
+- "Sovereign Assignments"
 ---
 # Sovereign Assignments
 *Source: Bigby Presents: Glory of the Giants p. 60* 
 
 **Sovereign Assignments**
-
-`dice: [](sovereign-assignments-bgg.md#^sovereign-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

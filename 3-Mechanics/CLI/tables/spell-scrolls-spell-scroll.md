@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Spell Scrolls; Spell Scroll
+- "Spell Scrolls; Spell Scroll"
 ---
 # Spell Scrolls; Spell Scroll
 *Source: Dungeon Master's Guide p. 139. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 

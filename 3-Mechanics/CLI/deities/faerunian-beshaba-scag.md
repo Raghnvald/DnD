@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/trickery
-aliases: 
-- Beshaba
-- The Maid of Misfortune
-- Lady Doom
-- Black Bess
+aliases:
+- "Beshaba"
+- "The Maid of Misfortune"
+- "Lady Doom"
+- "Black Bess"
 ---
 # Beshaba
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-beshaba.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-beshaba.webp#symbol)
 
 - **Alternate Names**: The Maid of Misfortune, Lady Doom, Black Bess
 - **Alignment**: Chaotic Evil

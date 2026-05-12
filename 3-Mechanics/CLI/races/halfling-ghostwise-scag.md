@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/race/halfling/ghostwise
 aliases:
-- Halfling (Ghostwise)
+- "Halfling (Ghostwise)"
 ---
 # Halfling (Ghostwise)
 *Source: Sword Coast Adventurer's Guide p. 110*  
-![](/3-Mechanics/CLI/races/img/halfling.webp#right)
+![](3-Mechanics/CLI/races/img/halfling.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Small
@@ -32,7 +32,7 @@ When you roll a 1 on an attack roll, ability check, or saving throw, you can rer
 
 ### Brave
 
-You have advantage on saving throws against being [frightened](/3-Mechanics/CLI/conditions.md#Frightened).
+You have advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened).
 
 ### Halfling Nimbleness
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Orzhov Creatures
+- "Orzhov Creatures"
 ---
 # Orzhov Creatures
 *Source: Guildmasters' Guide to Ravnica p. 186* 
@@ -14,25 +14,25 @@ aliases:
 
 | Challenge | Creature | Source |
 |-----------|----------|--------|
-| 0 | [Bat](/3-Mechanics/CLI/bestiary/beast/bat-xmm.md) | *MM* |
-| 0 | [Commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) | *MM* |
-| 1/8 | [Guard](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) | *MM* |
-| 1/8 | [Noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) | *MM* |
-| 1/4 | [Acolyte](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) | *MM* |
-| 1/4 | [Giant bat](/3-Mechanics/CLI/bestiary/beast/giant-bat-xmm.md) | *MM* |
-| 1/4 | [Servitor thrull](/3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md) | *GGR* |
-| 1/4 | [Swarm of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md) | *MM* |
-| 1/2 | [Thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) | *MM* |
-| 1/2 | [Winged thrull](/3-Mechanics/CLI/bestiary/construct/winged-thrull-ggr.md) | *GGR* |
-| 1 | [Indentured spirit](/3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md) | *GGR* |
-| 1 | Spirit ([specter](/3-Mechanics/CLI/bestiary/undead/specter-xmm.md)) | *MM* |
-| 2 | [Gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) | *MM* |
-| 2 | [Priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) | *MM* |
-| 3 | [Knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) | *MM* |
-| 4 | Spirit ([ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md)) | *MM* |
-| 6 | [Mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) | *MM* |
-| 6 | [Orzhov giant](/3-Mechanics/CLI/bestiary/giant/orzhov-giant-ggr.md) | *GGR* |
-| 8 | [Blood drinker vampire](/3-Mechanics/CLI/bestiary/undead/blood-drinker-vampire-ggr.md) | *GGR* |
-| 8 | [Obzedat ghost](/3-Mechanics/CLI/bestiary/undead/obzedat-ghost-ggr.md) | *GGR* |
-| 14 | [Deathpact angel](/3-Mechanics/CLI/bestiary/celestial/deathpact-angel-ggr.md) | *GGR* |
+| 0 | Bat | *MM* |
+| 0 | Commoner | *MM* |
+| 1/8 | Guard | *MM* |
+| 1/8 | Noble | *MM* |
+| 1/4 | Acolyte | *MM* |
+| 1/4 | Giant bat | *MM* |
+| 1/4 | [Servitor thrull](3-Mechanics/CLI/bestiary/construct/servitor-thrull-ggr.md) | *GGR* |
+| 1/4 | Swarm of bats | *MM* |
+| 1/2 | Thug | *MM* |
+| 1/2 | [Winged thrull](3-Mechanics/CLI/bestiary/construct/winged-thrull-ggr.md) | *GGR* |
+| 1 | [Indentured spirit](3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md) | *GGR* |
+| 1 | Spirit (specter) | *MM* |
+| 2 | Gargoyle | *MM* |
+| 2 | Priest | *MM* |
+| 3 | Knight | *MM* |
+| 4 | Spirit (ghost) | *MM* |
+| 6 | Mage | *MM* |
+| 6 | [Orzhov giant](3-Mechanics/CLI/bestiary/giant/orzhov-giant-ggr.md) | *GGR* |
+| 8 | [Blood drinker vampire](3-Mechanics/CLI/bestiary/undead/blood-drinker-vampire-ggr.md) | *GGR* |
+| 8 | [Obzedat ghost](3-Mechanics/CLI/bestiary/undead/obzedat-ghost-ggr.md) | *GGR* |
+| 14 | [Deathpact angel](3-Mechanics/CLI/bestiary/celestial/deathpact-angel-ggr.md) | *GGR* |
 ^orzhov-creatures

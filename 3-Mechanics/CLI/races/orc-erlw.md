@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/erlw
-- new/race/orc
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/race/orc
 aliases:
-- Orc
+- "Orc"
 ---
 # Orc
 *Source: Eberron: Rising from the Last War p. 31*  

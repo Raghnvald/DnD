@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Haungharassk
+- "Haungharassk"
 ---
-# [Haungharassk](3-Mechanics\CLI\bestiary\npc/haungharassk-wdmm.md)
+# [Haungharassk](3-Mechanics/CLI/bestiary/npc/haungharassk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 258*  
 
 Haungharassk is a magical snail as large as an elephant, with a shell of gleaming gold.
@@ -38,19 +38,19 @@ Haungharassk is a magical snail as large as an elephant, with a shell of gleamin
 "languages": ""
 "cr": "0"
 "traits":
-  - "desc": "A pound of salt thrown onto the snail's skin deals 1d6 acid damage to\
-      \ the creature."
+  - "desc": "A pound of salt thrown onto the snail's skin deals 1d6 acid damage\
+      \ to the creature."
     "name": "Salt Sensitivity"
   - "desc": "A creature that uses an action to touch the living snail gains 6 temporary\
       \ hit points that last for 24 hours. Any creature or object that touches the\
-      \ living snail also gains the benefit of a remove curse spell. The snail loses\
-      \ these magical properties if it dies."
+      \ living snail also gains the benefit of a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
+      \ spell. The snail loses these magical properties if it dies."
     "name": "Magical Properties"
   - "desc": "The snail can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/haungharassk-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/haungharassk-wdmm.webp"
 ```
 ^statblock

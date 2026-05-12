@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – Roman, Male
+- "Human Names – Roman, Male"
 ---
 # Human Names – Roman, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – Roman, Male**
-
-`dice: [](human-names-roman-male-xge.md#^human-names-roman-male)`
 
 | dice: d100 | Name |
 |------------|------|

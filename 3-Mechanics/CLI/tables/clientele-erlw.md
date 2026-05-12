@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Clientele
+- "Clientele"
 ---
 # Clientele
 *Source: Eberron: Rising from the Last War p. 88* 
 
 **Clientele**
-
-`dice: [](clientele-erlw.md#^clientele)`
 
 | dice: d6 | Clientele |
 |----------|-----------|

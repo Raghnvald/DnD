@@ -8,22 +8,28 @@ tags:
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/class/wizard
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+- ttrpg-cli/spell/feat/svirfneblin-magic
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/optfeature/mask-of-many-faces
-- ttrpg-cli/spell/race/gnome-deep
+- ttrpg-cli/spell/race/deep-gnome
+- ttrpg-cli/spell/race/firbolg
 - ttrpg-cli/spell/school/illusion
+- ttrpg-cli/spell/subclass/ambition-domain-psa
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/trickery-domain
+- ttrpg-cli/spell/subrace/tiefling-dispater
+- ttrpg-cli/spell/subrace/tiefling-glasya
 classes:
 - Bard (Magical Secrets)
+- Cleric (Ambition Domain (PSA))
 - Cleric (Trickery Domain)
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
 - Sorcerer
 - Wizard
 aliases:
-- Disguise Self
+- "Disguise Self"
 ---
 # Disguise Self
 *1st-level, Illusion*  
@@ -38,8 +44,8 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair.
 
-To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check against your spell save DC.
+To discern that you are disguised, a creature can use its action to inspect your appearance and must succeed on an Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](/3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Ambition Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-ambition-domain-psa-psa.md "subclass=PSA"); [Cleric (Trickery Domain)](3-Mechanics/CLI/lists/list-spells-classes-trickery-domain.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 233. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

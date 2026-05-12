@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "+1 Wraps of Unarmed Power"
 ---
 # +1 Wraps of Unarmed Power

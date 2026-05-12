@@ -3,23 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/17
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hierophant Medusa
+- "Hierophant Medusa"
 ---
-# [Hierophant Medusa](3-Mechanics\CLI\bestiary\monstrosity/hierophant-medusa-bmt.md)
+# [Hierophant Medusa](3-Mechanics/CLI/bestiary/monstrosity/hierophant-medusa-bmt.md)
 *Source: The Book of Many Things p. 179*  
 
 Sometimes deeply devout people, usually either Humanoids or medusas, dedicate themselves to a cause and are transformed by a deity or magic into hierophant medusas—beings with powerful snakelike tails for their lower body, snakes for hair, and a petrifying gaze. The first hierophant medusa was transformed by the power of the Euryale card when that individual was inspired by Euryale's story and unwavering conviction.
 
 These medusas are divinely empowered champions, drawing their power from a cosmic truth, the will of a deity, or the primal forces of nature. They gather and inspire followers, protecting their people and guiding them to fulfill the medusa's divine purpose. The Divine Purpose table offers suggestions for motivations. Roll on the table, or use the entries as inspiration to create your own.
-
-`dice: [](hierophant-medusa-bmt.md#^purpose)`
 
 | dice: d6 | Purpose |
 |----------|---------|
@@ -83,22 +81,22 @@ A medusa's lair is often decorated with the petrified bodies of creatures that r
   - "desc": "The medusa makes one Constrict attack, one Final Blade attack, and one\
       \ Snake Hair attack. Alternatively, it makes two Wrathful Strike attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) bludgeoning damage, and if the target is a Medium or smaller creature,\
-      \ it has the grappled condition (escape DC 20). Until this grapple ends, the\
-      \ target has the restrained condition, and the medusa can't constrict another\
-      \ creature."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (3d6 + 6) bludgeoning damage, and if the target is a Medium or smaller\
+      \ creature, it has the grappled condition (escape DC 20). Until this grapple\
+      \ ends, the target has the restrained condition, and the medusa can't constrict\
+      \ another creature."
     "name": "Constrict"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage plus 21 (6d6) force damage. If the target has at\
-      \ least one head and the medusa rolled a 20 on the attack roll, the target is\
-      \ decapitated and dies if it fails a DC 20 Constitution saving throw and can't\
-      \ survive without that head. A target is immune to this effect if it takes none\
-      \ of the damage, has legendary actions, or is Huge or larger. Such a creature\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage plus 21 (6d6) force damage. If the target\
+      \ has at least one head and the medusa rolled a 20 on the attack roll, the target\
+      \ is decapitated and dies if it fails a DC 20 Constitution saving throw and\
+      \ can't survive without that head. A target is immune to this effect if it takes\
+      \ none of the damage, has legendary actions, or is Huge or larger. Such a creature\
       \ takes an extra 28 (8d6) force damage from the hit."
     "name": "Final Blade"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (1d10 + 6) piercing damage plus 5 (1d10) poison damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 11 (1d10 + 6) piercing damage plus 5 (1d10) poison damage."
     "name": "Snake Hair"
   - "desc": "*Ranged Spell Attack:* +12 to hit, range 120 ft., one creature. *Hit:*\
       \ 22 (3d10 + 6) radiant damage, and the target has the blinded condition until\
@@ -169,6 +167,6 @@ A medusa's lair is often decorated with the petrified bodies of creatures that r
     "name": "Final Slash (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hierophant-medusa-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hierophant-medusa-bmt.webp"
 ```
 ^statblock

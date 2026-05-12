@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Half-Red Dragon Veteran
+- "Half-Red Dragon Veteran"
 ---
-# [Half-Red Dragon Veteran](3-Mechanics\CLI\bestiary\humanoid/half-red-dragon-veteran.md)
+# [Half-Red Dragon Veteran](3-Mechanics/CLI/bestiary/humanoid/half-red-dragon-veteran.md)
 *Source: Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -33,13 +33,13 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) with a radius of 10 feet and [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet.
+The half-dragon gains [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a radius of 60 feet.
 
 ### Resistances
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-![Resistances](/3-Mechanics/CLI/tables/resistances-mm.md)
+![Resistances](3-Mechanics/CLI/tables/resistances-mm.md)
 
 ### Languages
 
@@ -49,11 +49,11 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-![New Action: Breath Weapon](/3-Mechanics/CLI/tables/new-action-breath-weapon-mm.md)
+![New Action: Breath Weapon](3-Mechanics/CLI/tables/new-action-breath-weapon-mm.md)
 
 ### Sample Half-Dragon
 
-Here the half-dragon template has been applied to a human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](/3-Mechanics/CLI/items/splint-armor.md) has been replaced with [plate](/3-Mechanics/CLI/items/plate-armor.md).
+Here the half-dragon template has been applied to a human [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](3-Mechanics/CLI/items/splint-armor.md) has been replaced with [plate](3-Mechanics/CLI/items/plate-armor.md).
 
 ```statblock
 "name": "Half-Red Dragon Veteran"
@@ -62,7 +62,7 @@ Here the half-dragon template has been applied to a human [veteran](/3-Mechanics
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate armor](/3-Mechanics/CLI/items/plate-armor.md)"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "1"
@@ -75,12 +75,16 @@ Here the half-dragon template has been applied to a human [veteran](/3-Mechanics
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 12"
 "languages": "Common, Draconic"
 "cr": "5"
@@ -88,21 +92,22 @@ Here the half-dragon template has been applied to a human [veteran](/3-Mechanics
   - "desc": "The veteran makes two longsword attacks. If it has a shortsword drawn,\
       \ it can also make a shortsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:*\
       \ 6 (1d10 + 1) piercing damage."
     "name": "Heavy Crossbow"
   - "desc": "The veteran exhales fire in a 15-foot cone. Each creature in that area\
-      \ must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a\
-      \ failed save, or half as much damage on a successful one."
+      \ must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on\
+      \ a failed save, or half as much damage on a successful one."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/half-red-dragon-veteran.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/half-red-dragon-veteran.webp"
 ```
 ^statblock

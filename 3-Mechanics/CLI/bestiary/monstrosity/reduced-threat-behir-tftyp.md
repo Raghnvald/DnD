@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/11
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Behir
+- "Reduced-Threat Behir"
 ---
-# [Reduced-Threat Behir](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-behir-tftyp.md)
+# [Reduced-Threat Behir](3-Mechanics/CLI/bestiary/monstrosity/reduced-threat-behir-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -34,12 +34,13 @@ aliases:
   - !!int "12"
 "speed": "50 ft., climb 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "lightning"
-"senses": "darkvision 90 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 90 ft., passive\
+  \ Perception 16"
 "languages": "Draconic"
 "cr": "11"
 "traits":
@@ -51,8 +52,8 @@ aliases:
 "actions":
   - "desc": "The behir makes two attacks: one with its bite and one to constrict."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (3d10 + 6) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (3d10 + 6) piercing damage."
     "name": "Bite"
   - "desc": "The behir exhales a line of lightning that is 20 feet long and 5 feet\
       \ wide. Each creature in that line must make a DC 14 Dexterity saving throw,\
@@ -61,6 +62,6 @@ aliases:
     "name": "Lightning Breath (Recharge 5-6)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-behir-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-behir-tftyp.webp"
 ```
 ^statblock

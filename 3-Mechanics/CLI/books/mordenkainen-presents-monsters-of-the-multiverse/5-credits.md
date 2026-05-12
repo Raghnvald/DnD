@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Mordenkainen Presents: Monsters of the Multiverse* 
@@ -38,12 +38,12 @@ aliases:
 - **D&D Beyond.**     - **Digital Design Manager.** Faith Elisabeth Lilley    
         - **Digital Design Team.** Jay Jani, Adam Walton    
 
-![](/3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/credits.webp#center)
+![](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/credits.webp#center)
 
 This book is a revision of content that originally appeared in the books "Volo's Guide to Monsters" (2016) and "Mordenkainen's Tome of Foes" (2018). It also includes revised options from Princes of the Apocalypse (2015), "Eberron: Rising from the Last War" (2019), and "Mythic Odysseys of Theros" (2020).
 
 > [!gallery]
-> ![On the Cover: The wizard M...](/3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/credits1.webp#gallery "On the Cover: The wizard Mordenkainen soars through the Astral Plane astride a ki-rin—unaware of the astral dreadnought slinking toward them—in this painting by Grzegorz Rutkowski.")
+> ![On the Cover: The wizard Mordenkainen soars through the Astral Plane astride a ki-rin—unaware of the astral dreadnought slinking toward them—in this painting by Grzegorz Rutkowski.](3-Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse/img/credits1.webp#gallery)
 
 > [!note]
 > Disclaimer: We asked the wizard Mordenkainen to write a humorous disclaimer for this book. We received this response: "The day I start writing frivolous disclaimers for game manuals is the day I retire from wizardry and abandon all self-respect." Mordenkainen's rival wizard Tasha apparently intercepted our request and sent us this note: "Mordenkainen lost his sense of humor somewhere between the City of Greyhawk and the Astral Plane. Keep your chins up, my dearest ones. The multiverse is filled with horrors, many of which are detailed in this book. Marshal your laughter and a few good spells. If we're going to be devoured, better to face the darkness with a smile."

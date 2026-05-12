@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/cos
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/other
-aliases: 
+aliases:
 - "Statuette of Saint Markovia"
 ---
 # Statuette of Saint Markovia

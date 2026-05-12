@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/7
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Advanced Detention Drone
+- "Advanced Detention Drone"
 ---
-# [Advanced Detention Drone](3-Mechanics\CLI\bestiary\construct/advanced-detention-drone-bmt.md)
+# [Advanced Detention Drone](3-Mechanics/CLI/bestiary/construct/advanced-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
@@ -81,6 +81,6 @@ This Construct doesn't have a control amulet and can't be controlled like other 
     "name": "Shield"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/advanced-detention-drone-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/advanced-detention-drone-bmt.webp"
 ```
 ^statblock

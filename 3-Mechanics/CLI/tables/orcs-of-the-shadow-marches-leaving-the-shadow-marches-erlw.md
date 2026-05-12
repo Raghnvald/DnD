@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Orcs of the Shadow Marches; Leaving the Shadow Marches
+- "Orcs of the Shadow Marches; Leaving the Shadow Marches"
 ---
 # Orcs of the Shadow Marches; Leaving the Shadow Marches
 *Source: Eberron: Rising from the Last War p. 31* 
 
 **Leaving the Shadow Marches**
-
-`dice: [](orcs-of-the-shadow-marches-leaving-the-shadow-marches-erlw.md#^leaving-the-shadow-marches)`
 
 | dice: d8 | Reason for Leaving |
 |----------|--------------------|

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tarak
+- "Tarak"
 ---
-# [Tarak](3-Mechanics\CLI\bestiary\npc/tarak-dosi.md)
+# [Tarak](3-Mechanics/CLI/bestiary/npc/tarak-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  
 
 Before coming to Dragon's Rest, Tarak was a criminal, but he has since devoted himself to the study of herbs and medicine. He is usually unarmed, but he keeps several daggers hidden in his cell (in area A1 of Dragon's Rest).
@@ -44,6 +44,8 @@ Before coming to Dragon's Rest, Tarak was a criminal, but he has since devoted h
     "desc": "+4"
   - "name": "Nature"
     "desc": "+3"
+"gear":
+  - "dagger"
 "senses": "passive Perception 12"
 "languages": "Common, Draconic, Thieves' cant"
 "cr": "1"
@@ -58,6 +60,6 @@ Before coming to Dragon's Rest, Tarak was a criminal, but he has since devoted h
     "name": "Cunning Action"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tarak-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/tarak-dosi.webp"
 ```
 ^statblock

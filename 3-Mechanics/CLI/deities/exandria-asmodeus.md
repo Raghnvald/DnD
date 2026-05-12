@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/domain/war
-aliases: 
-- Asmodeus
+aliases:
+- "Asmodeus"
 ---
 # Asmodeus
 *Source: Explorer's Guide to Wildemount p. 26* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-asmodeus.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-asmodeus.webp#symbol)
 
 - **Alignment**: Lawful Evil
 - **Category**: Betrayer Gods

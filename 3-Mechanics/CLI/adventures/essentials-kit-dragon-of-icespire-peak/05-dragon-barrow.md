@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Dragon Barrow
+- "Dragon Barrow"
 ---
 # Dragon Barrow
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 20* 
@@ -18,7 +18,7 @@ Lady Tanamere Alagondar was a royal scion of Neverwinter more than a century ago
 
 ### Quest Goals
 
-To complete the Dragon Barrow Quest, the adventurers must retrieve Lady Alagondar's dragon slayer longsword which, according to legend, was buried with her.
+To complete the Dragon Barrow Quest, the adventurers must retrieve Lady Alagondar's [dragon slayer longsword](3-Mechanics/CLI/items/dragon-slayer.md) which, according to legend, was buried with her.
 
 ## Travel to the Barrow
 
@@ -26,7 +26,7 @@ The barrow is roughly 40 miles northwest of Phandalin, amid the rolling hills an
 
 ### Centaur of Attention
 
-After being driven from his home in Neverwinter Wood by marauding orcs, Xanth the [centaur](/3-Mechanics/CLI/bestiary/monstrosity/centaur.md) has taken refuge in the hills around the barrow. When he spots the characters, Xanth approaches peacefully and shares the following warnings:
+After being driven from his home in Neverwinter Wood by marauding orcs, Xanth the centaur has taken refuge in the hills around the barrow. When he spots the characters, Xanth approaches peacefully and shares the following warnings:
 
 - "Strange witchlights hover over Dragon Barrow at night. The hill is haunted by the restless spirits of the dead."  
 - "Neverwinter Wood has become overrun with orcs in league with half-orc spellcasters. Deep in the forest, atop a cave-riddled hill, is a circle of standing stones where the evil half-orcs perform their dark rites."  
@@ -57,15 +57,15 @@ When the adventurers come within sight of the barrow, read the following boxed t
 
 Characters who climb to the top of the barrow and survey it notice its distinctive dragon-like shape with a successful DC 10 Wisdom (Insight) check. The pale rocks resemble spikes protruding from the dragon's back.
 
-At night, the [will-o'-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) in area D2 emerge from the hill using their Incorporeal Movement and float above the barrow, hoping to attract prey with their lights. If they detect characters nearby, the will-o'-wisps turn invisible and withdraw into the barrow.
+At night, the will-o'-wisps in area D2 emerge from the hill using their Incorporeal Movement and float above the barrow, hoping to attract prey with their lights. If they detect characters nearby, the will-o'-wisps turn invisible and withdraw into the barrow.
 
 ### Barrow Locations
 
 The following locations are keyed to the map of Dragon Barrow.
 
 > [!gallery]
-> ![Map: Dragon Barrow](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/013-map-db-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/014-map-db-pc.webp#gallery)
+> ![Map: Dragon Barrow](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/013-map-db-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/014-map-db-pc.webp#gallery)
 
 #### D1. Secret Entrance
 
@@ -73,17 +73,17 @@ One of the white rocks atop the hill acts as a stone plug embedded in the earth.
 
 #### D2. Will-o'-Wisps
 
-The tunnels around the spiral staircase are haunted by three [will-o'-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md). The wisps are invisible until they hear intruders coming down the stairs, whereupon they illuminate and move to the far side of the three concealed pit traps (area D3), hoping to lure intruders to their doom. Each wisp has its own pit and attacks any character who falls into it. A wisp reduced to 7 hit points or fewer turns invisible on its next turn and flees to hide until the characters leave the barrow.
+The tunnels around the spiral staircase are haunted by three will-o'-wisps. The wisps are invisible until they hear intruders coming down the stairs, whereupon they illuminate and move to the far side of the three concealed pit traps (area D3), hoping to lure intruders to their doom. Each wisp has its own pit and attacks any character who falls into it. A wisp reduced to 7 hit points or fewer turns invisible on its next turn and flees to hide until the characters leave the barrow.
 
 #### D3. Concealed Pit Traps
 
 Each of these pits is 5 feet wide, 10 feet deep, and dug out of the earth. Rows of rusty swords are embedded into the floor of each pit, whose tops are covered by rotted wooden planks hidden under a thin layer of earth. A creature using a pole or similar tool to prod ahead detects the pit with a successful DC 10 Wisdom (Perception) check.
 
-Any creature that steps onto a pit falls into it, taking `dice:1d6|noform|noparens|avg` (`1d6`) bludgeoning damage and impaling itself on `dice:1d4|noform|noparens|avg` (`1d4`) swords, each of which deals `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage.
+Any creature that steps onto a pit falls into it, taking `1d6` bludgeoning damage and impaling itself on `1d4` swords, each of which deals `1d6` piercing damage.
 
 #### D4. Skeletal Surprise
 
-The bones and rotting saddle of Lady Alagondar's horse lie in the southern niche of this cavern. When a creature approaches within 5 feet of the bones, they knit together and rise as a skeletal horse. This steed has the statistics of a [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse.md), except that it's undead. It bonds with any character who wants to ride it.
+The bones and rotting saddle of Lady Alagondar's horse lie in the southern niche of this cavern. When a creature approaches within 5 feet of the bones, they knit together and rise as a skeletal horse. This steed has the statistics of a riding horse, except that it's undead. It bonds with any character who wants to ride it.
 
 #### D5. Narrow Tunnel
 
@@ -91,7 +91,7 @@ This tunnel is only 2 feet wide. At the halfway point, a 5-foot-long pressure pl
 
 #### D6. False Tomb
 
-Two sealed stone sarcophagi rest in alcoves dug into the south wall here. Each sarcophagus releases a cloud of corrosive dust when opened, filling the 10-foot-by-10-foot area north of the sarcophagus. Any creature in the area must make a DC 15 Dexterity saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) acid damage on a failed save, or half as much damage on a successful one. The cloud then disappears. The sarcophagi contain nothing of interest.
+Two sealed stone sarcophagi rest in alcoves dug into the south wall here. Each sarcophagus releases a cloud of corrosive dust when opened, filling the 10-foot-by-10-foot area north of the sarcophagus. Any creature in the area must make a DC 15 Dexterity saving throw, taking 14 (`4d6`) acid damage on a failed save, or half as much damage on a successful one. The cloud then disappears. The sarcophagi contain nothing of interest.
 
 #### D7. Adventurers' Sepulcher
 
@@ -99,7 +99,7 @@ Four sarcophagi in alcoves contain the moldy bones of adventurers (a bard, a cle
 
 ##### Treasure
 
-The northwest sarcophagus contains the dead bard, who was buried with a lute of illusions. Sealed with the dead wizard in the southeast sarcophagus is a necklace of fireballs. If the characters acquire and identify these magic items, give them the Lute of Illusions and Necklace of Fireballs [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) or they can reference them in the Magic Items Listing.
+The northwest sarcophagus contains the dead bard, who was buried with a lute of illusions. Sealed with the dead wizard in the southeast sarcophagus is a [necklace of fireballs](3-Mechanics/CLI/items/necklace-of-fireballs.md). If the characters acquire and identify these magic items, give them the Lute of Illusions and [Necklace of Fireballs](3-Mechanics/CLI/items/necklace-of-fireballs.md) [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md) or they can reference them in the Magic Items Listing.
 
 #### D8. Dragon Slayer
 
@@ -107,4 +107,4 @@ Two sarcophagi in alcoves contain the moldy bones and rusty armor of Tanamere Al
 
 ##### Treasure
 
-The sword is Lady Alagondar's dragon slayer. Give the Dragon Slayer [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Dragon%20Slayer) to whoever takes it or they can reference it in the Magic Items Listing. If the sword is taken, an [invisible stalker](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) appears and attacks anyone in this area until the sword is put back, or until that guardian is destroyed.
+The sword is Lady Alagondar's [dragon slayer](3-Mechanics/CLI/items/dragon-slayer.md). Give the [Dragon Slayer](3-Mechanics/CLI/items/dragon-slayer.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Dragon%20Slayer) to whoever takes it or they can reference it in the Magic Items Listing. If the sword is taken, an invisible stalker appears and attacks anyone in this area until the sword is put back, or until that guardian is destroyed.

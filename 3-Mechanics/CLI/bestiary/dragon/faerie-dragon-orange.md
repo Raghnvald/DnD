@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Faerie Dragon (Orange)
+- "Faerie Dragon (Orange)"
 ---
-# [Faerie Dragon (Orange)](3-Mechanics\CLI\bestiary\dragon/faerie-dragon-orange.md)
+# [Faerie Dragon (Orange)](3-Mechanics/CLI/bestiary/dragon/faerie-dragon-orange.md)
 *Source: Monster Manual p. 133*  
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -61,22 +61,22 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
   - !!int "16"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Draconic, Sylvan"
 "cr": "1"
 "traits":
   - "desc": "The dragon's innate spellcasting ability is Charisma (spell save DC 13).\
       \ It can innately cast a number of spells, requiring no material components:\n\
-      \n**1/day each:** [color spray](/3-Mechanics/CLI/spells/color-spray.md), [dancing\
-      \ lights](/3-Mechanics/CLI/spells/dancing-lights.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md)"
+      \n**1/day each:** [color spray](3-Mechanics/CLI/spells/color-spray.md), [dancing\
+      \ lights](3-Mechanics/CLI/spells/dancing-lights.md), [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)"
     "name": "Innate Spellcasting"
   - "desc": "A faerie dragon's scales change hue as it ages, moving through all the\
       \ colors of the rainbow. All faerie dragons have innate spellcasting ability,\
@@ -85,10 +85,10 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
       50 years\n\nViolet—51 years or more\n\nA green or older faerie dragon's CR increases\
       \ to 2."
     "name": "The Colors of Age"
-  - "desc": "As a bonus action, the dragon can magically turn [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ until its [concentration](/3-Mechanics/CLI/conditions.md#Concentration) ends\
-      \ (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a\
-      \ spell). Any equipment the dragon wears or carries is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "As a bonus action, the dragon can magically turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ ends (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the dragon wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ with it."
     "name": "Superior Invisibility"
   - "desc": "Using telepathy, the dragon can magically communicate with any other\
@@ -98,21 +98,21 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 1\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 1 piercing damage."
     "name": "Bite"
   - "desc": "The dragon exhales a puff of euphoria gas at one creature within 5 feet\
       \ of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute,\
-      \ the target can't take reactions and must roll a d6 at the start of each of\
-      \ its turns to determine its behavior during the turn:\n\n1–4. The target takes\
-      \ no action or bonus action and uses all of its movement to move in a random\
-      \ direction.\n\n5–6. The target doesn't move, and the only thing it can do on\
-      \ its turn is make a DC 11 Wisdom saving throw, ending the effect on itself\
+      \ the target can't take reactions and must roll a d6 at the start of each\
+      \ of its turns to determine its behavior during the turn:\n\n1–4. The target\
+      \ takes no action or bonus action and uses all of its movement to move in a\
+      \ random direction.\n\n5–6. The target doesn't move, and the only thing it can\
+      \ do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself\
       \ on a success."
     "name": "Euphoria Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/faerie-dragon-orange.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/faerie-dragon-orange.webp"
 ```
 ^statblock
 

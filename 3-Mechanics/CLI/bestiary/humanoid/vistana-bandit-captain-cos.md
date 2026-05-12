@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vistana Bandit Captain
+- "Vistana Bandit Captain"
 ---
-# [Vistana Bandit Captain](3-Mechanics\CLI\bestiary\humanoid/vistana-bandit-captain-cos.md)
+# [Vistana Bandit Captain](3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-captain-cos.md)
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -39,10 +39,13 @@ aliases:
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+4"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
+"gear":
+  - "dagger"
+  - "scimitar"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
@@ -50,8 +53,8 @@ aliases:
   - "desc": "The captain makes three melee attacks: two with its scimitar and one\
       \ with its dagger. Or the captain makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
@@ -65,20 +68,18 @@ aliases:
       \ target bad breath. When this curse ends, the Vistana takes 1d6 psychic damage.\
       \  \n- A nonmagical item in the target's possession (chosen by the DM) disappears\
       \ and can't be found until the curse ends. The lost item can weigh no more than\
-      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n-\
-      \ The target gains vulnerability to a damage type of the Vistana's choice. When\
+      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n\
+      - The target gains vulnerability to a damage type of the Vistana's choice. When\
       \ this curse ends, the Vistana takes 3d6 psychic damage.  \n- The target has\
       \ disadvantage on ability checks and saving throws tied to one ability score\
       \ of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic\
       \ damage.  \n- The target's attunement to one magic item (chosen by the DM)\
       \ ends, and the target can't attune to the chosen item until the curse ends.\
       \ When this curse ends, the Vistana takes 5d6 psychic damage.  \n- The target\
-      \ is [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ or both. When this curse ends, the Vistana takes 5d6 psychic damage.  \n\n\
-      The curse lasts until ended with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell,\
-      \ or similar magic. It doesn't end when the target dies. If a cursed target\
-      \ is returned to life, the curse remains in effect."
+      \ is blinded, deafened, or both. When this curse ends, the Vistana takes 5d6\
+      \ psychic damage.  \n\nThe curse lasts until ended with a greater restoration\
+      \ spell, a remove curse spell, or similar magic. It doesn't end when the target\
+      \ dies. If a cursed target is returned to life, the curse remains in effect."
     "name": "Curse (Recharges After a Long Rest)"
   - "desc": "12\n\nA Vistana who uses Evil Eye can't use it again before finishing\
       \ a short or long rest. Once a target succeeds on a saving throw against a Vistana's\
@@ -90,6 +91,6 @@ aliases:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/vistana-bandit-captain-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/vistana-bandit-captain-cos.webp"
 ```
 ^statblock

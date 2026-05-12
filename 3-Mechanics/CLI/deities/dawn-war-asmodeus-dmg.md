@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/trickery
-aliases: 
-- Asmodeus
+aliases:
+- "Asmodeus"
 ---
 # Asmodeus
 *Source: Dungeon Master's Guide p. 10* 

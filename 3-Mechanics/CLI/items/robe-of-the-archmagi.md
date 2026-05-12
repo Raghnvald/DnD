@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Robe of the Archmagi"
 ---
 # Robe of the Archmagi
 *Wondrous item, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/robe-of-the-archmagi.webp#right)
+![](3-Mechanics/CLI/items/img/robe-of-the-archmagi.webp#right)
 
 
 This elegant garment is made from exquisite cloth of white, gray, or black and adorned with silvery runes. The robe's color corresponds to the alignment for which the item was created. A white robe was made for good, gray for neutral, and black for evil. You can't attune to a robe of the archmagi that doesn't correspond to your alignment.

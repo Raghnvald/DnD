@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Adventures in Wildemount
+- "Adventures in Wildemount"
 ---
 # Adventures in Wildemount
 *Source: Explorer's Guide to Wildemount, p. 205* 
 
-![Adventurers confront the m...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/105-05-01.webp#center "Adventurers confront the mad inventor Stahlmast and his deadly mechanical masterpiece, the Stahlmaster!")
+![Adventurers confront the mad inventor Stahlmast and his deadly mechanical masterpiece, the Stahlmaster!](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/105-05-01.webp#center)
 
 > [!quote] A quote from Captain Jessie Wensthorp, pirate captain of the Revelry  
 > 

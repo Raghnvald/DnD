@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/shield/
-aliases: 
+aliases:
 - "Shield"
 ---
 # Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md))*  
+*Armor ([shield](3-Mechanics/CLI/items/shield.md))*  
 
 
 - **Armor Class**: 2

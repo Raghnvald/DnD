@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ott Steeltoes
+- "Ott Steeltoes"
 ---
-# [Ott Steeltoes](3-Mechanics\CLI\bestiary\npc/ott-steeltoes-wdh.md)
+# [Ott Steeltoes](3-Mechanics/CLI/bestiary/npc/ott-steeltoes-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 214*  
 
 The dwarf Ott Steeltoes has the nerve-wracking task of tending to Xanathar's pet fish, Sylgar. In his spare time, he worships Zuggtmoy, the demon queen of fungi, and cultivates mushrooms, spores, and molds. He wears a leather skullcap stitched with fake beholder eyestalks.
@@ -24,7 +24,7 @@ The dwarf Ott Steeltoes has the nerve-wracking task of tending to Xanathar's pet
 "subtype": "dwarf"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -37,26 +37,30 @@ The dwarf Ott Steeltoes has the nerve-wracking task of tending to Xanathar's pet
   - !!int "10"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+2"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+0"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Dwarvish"
 "cr": "1/8"
 "traits":
   - "desc": "Ott has advantage on saving throws against poison and resistance to poison\
       \ damage."
     "name": "Dwarven Resilience"
-  - "desc": "The cultist has advantage on saving throws against being charmed or frightened."
+  - "desc": "The cultist has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d6 + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d6 + 1) slashing damage."
     "name": "Scimitar"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ott-steeltoes-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ott-steeltoes-wdh.webp"
 ```
 ^statblock

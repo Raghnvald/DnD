@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Gold dragon comb set with red garnets as eyes"
 ---
 # Gold dragon comb set with red garnets as eyes

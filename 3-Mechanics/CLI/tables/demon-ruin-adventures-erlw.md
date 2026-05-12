@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Demon Ruin Adventures
+- "Demon Ruin Adventures"
 ---
 # Demon Ruin Adventures
 *Source: Eberron: Rising from the Last War p. 215* 
 
 **Demon Ruin Adventures**
-
-`dice: [](demon-ruin-adventures-erlw.md#^demon-ruin-adventures)`
 
 | dice: d4 | Adventure Goal |
 |----------|----------------|

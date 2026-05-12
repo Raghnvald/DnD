@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnomish
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/war
-aliases: 
-- Urdlen
+aliases:
+- "Urdlen"
 ---
 # Urdlen
 *Source: Sword Coast Adventurer's Guide p. 24* 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant Ghost
+- "Cloud Giant Ghost"
 ---
-# [Cloud Giant Ghost](3-Mechanics\CLI\bestiary\undead/cloud-giant-ghost-cm.md)
+# [Cloud Giant Ghost](3-Mechanics/CLI/bestiary/undead/cloud-giant-ghost-cm.md)
 *Source: Candlekeep Mysteries p. 146*  
 
 ```statblock
@@ -62,8 +62,8 @@ aliases:
 "actions":
   - "desc": "The ghost makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d8 + 8) force damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d8 + 8) force damage."
     "name": "Spectral Weapon"
   - "desc": "The ghost enters the Ethereal Plane from the Material Plane, or vice\
       \ versa. It is visible on the Material Plane while it is in the Border Ethereal,\
@@ -73,8 +73,8 @@ aliases:
   - "desc": "The ghost emits a dreadful howl that summons a cold, biting wind. This\
       \ wind engulfs up to three creatures of the ghost's choice that it can see within\
       \ 60 feet of it. Each target is pulled up to 20 feet toward the ghost and must\
-      \ make a DC 15 Constitution saving throw, taking 16 (3d10) cold damage on a\
-      \ failed save, or half as much damage on a successful one."
+      \ make a DC 15 Constitution saving throw, taking 16 (3d10) cold damage on\
+      \ a failed save, or half as much damage on a successful one."
     "name": "Wind Howl (Recharge 6)"
   - "desc": "The ghost casts one of the following spells, using Charisma as the spellcasting\
       \ ability and requiring no material components:\n\n**At will:** fog cloud\n\n\
@@ -82,6 +82,6 @@ aliases:
     "name": "Spellcasting"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/cloud-giant-ghost-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/cloud-giant-ghost-cm.webp"
 ```
 ^statblock

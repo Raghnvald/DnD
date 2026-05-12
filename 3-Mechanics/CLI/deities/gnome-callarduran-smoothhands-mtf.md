@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/nature
-aliases: 
-- Callarduran Smoothhands
+aliases:
+- "Callarduran Smoothhands"
 ---
 # Callarduran Smoothhands
 *Source: Mordenkainen's Tome of Foes p. 111* 

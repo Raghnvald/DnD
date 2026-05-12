@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Sharpshooter
+- "Sharpshooter"
 ---
 # Sharpshooter
 *Source: Player's Handbook p. 170*  

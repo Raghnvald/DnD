@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/7
-- new/monster/size/gargantuan
-- new/monster/type/plant
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yggdrasti
+- "Yggdrasti"
 ---
-# [Yggdrasti](3-Mechanics\CLI\bestiary\plant/yggdrasti-mcv1sc.md)
+# [Yggdrasti](3-Mechanics/CLI/bestiary/plant/yggdrasti-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 13*  
 
 Thought to be cast-off splinters of Yggdrasil, the World Tree, yggdrasti look like gigantic, dead trees covered with barnacles. They fly through Wildspace and the Astral Sea with their topmost branches leading the way and their withered roots trailing behind them. Each one has its own gravity plane and air envelope.
@@ -44,13 +44,15 @@ Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, bur
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
 "damage_immunities": "lightning"
-"condition_immunities": "blinded, deafened, exhaustion"
-"senses": "blindsight 120 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The yggdrasti has 1d4 + 2 cavities in its trunk. Each cavity is big enough\
-      \ to hold one Medium creature, two Small creatures, or eight Tiny creatures.\
+  - "desc": "The yggdrasti has 1d4 + 2 cavities in its trunk. Each cavity is big\
+      \ enough to hold one Medium creature, two Small creatures, or eight Tiny creatures.\
       \ A creature inside a cavity has three-quarters cover against attacks and other\
       \ effects that originate outside the cavity. The yggdrasti's cavities aren't\
       \ connected to one another."
@@ -58,8 +60,8 @@ Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, bur
   - "desc": "If the yggdrasti is motionless and rooted in the ground at the start\
       \ of combat, it looks just like a dead tree and has advantage on its initiative\
       \ roll. Moreover, if a creature hasn't observed the rooted yggdrasti move or\
-      \ act, that creature must succeed on a DC 18 Intelligence (Investigation) check\
-      \ to discern that the yggdrasti is animate."
+      \ act, that creature must succeed on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
+      \ check to discern that the yggdrasti is animate."
     "name": "False Appearance"
   - "desc": "If the yggdrasti is subjected to lightning damage, it is unhurt, and\
       \ the lightning damage is instead divided evenly among all creatures it is grappling.\
@@ -71,10 +73,10 @@ Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, bur
   - "desc": "The yggdrasti makes two Root attacks and uses Lightning Discharge (if\
       \ available)."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) bludgeoning damage, and if the target is a creature, it is grappled\
-      \ (escape DC 15). The yggdrasti has four roots, each of which can grapple one\
-      \ target."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 20 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) bludgeoning damage, and if the target is a creature, it is\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). The\
+      \ yggdrasti has four roots, each of which can grapple one target."
     "name": "Root"
   - "desc": "The yggdrasti shoots lightning at one creature within 120 feet of itself.\
       \ The target must make a DC 13 Dexterity saving throw, taking 31 (7d8) lightning\
@@ -82,6 +84,6 @@ Yggdrasti sometimes make landfall and disguise themselves as ordinary trees, bur
     "name": "Lightning Discharge (3/Day)"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/yggdrasti-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/yggdrasti-mcv1sc.webp"
 ```
 ^statblock

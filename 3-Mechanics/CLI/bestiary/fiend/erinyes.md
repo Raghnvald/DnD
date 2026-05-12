@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Erinyes
+- "Erinyes"
 ---
-# [Erinyes](3-Mechanics\CLI\bestiary\fiend/erinyes.md)
-*Source: Monster Manual p. 73, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Erinyes](3-Mechanics/CLI/bestiary/fiend/erinyes.md)
+*Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most beautiful and striking of all lesser and greater devils, the erinyes are fierce and disciplined warriors. Sweeping down from the skies, they bring swift death to creatures that have wronged their masters or defied the edicts of Asmodeus. The erinyes appear as male or female humanoids with statuesque builds and large feathery wings. Most wear stylized armor and horned helms, and carry exquisite swords and bows. A few also use ropes of entanglement to ensnare powerful foes.
 
@@ -124,7 +124,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -155,7 +155,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "3"
@@ -175,13 +175,17 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
-  - "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison\
-      \ damage on a hit (included in the attacks)."
+  - "desc": "The erinyes's weapon attacks are magical and deal an extra 13 (3d8)\
+      \ poison damage on a hit (included in the attacks)."
     "name": "Hellish Weapons"
   - "desc": "The erinyes has advantage on saving throws against spells and other magical\
       \ effects."
@@ -189,14 +193,15 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "actions":
   - "desc": "The erinyes makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
-      \ plus 13 (3d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with\
+      \ two hands, plus 13 (3d8) poison damage."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts\
-      \ until it is removed by the lesser restoration spell or similar magic."
+      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target\
+      \ must succeed on a DC 14 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ The poison lasts until it is removed by the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md)\
+      \ spell or similar magic."
     "name": "Longbow"
 "reactions":
   - "desc": "The erinyes adds 4 to its AC against one melee attack that would hit\
@@ -204,7 +209,6 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/erinyes.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/erinyes.webp"
 ```
 ^statblock

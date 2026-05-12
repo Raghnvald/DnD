@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Otyugh
+- "Reduced-Threat Otyugh"
 ---
-# [Reduced-Threat Otyugh](3-Mechanics\CLI\bestiary\aberration/reduced-threat-otyugh-tftyp.md)
+# [Reduced-Threat Otyugh](3-Mechanics/CLI/bestiary/aberration/reduced-threat-otyugh-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -35,7 +35,8 @@ aliases:
 "speed": "30 ft."
 "saves":
   - "constitution": !!int "5"
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Otyugh"
 "cr": "5"
 "traits":
@@ -52,19 +53,19 @@ aliases:
   - "desc": "The otyugh makes three attacks: one with its bite and two with its tentacles."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d8 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Constitution saving throw against disease or become poisoned until\
-      \ the disease is cured. Every 24 hours that elapse, the target must repeat the\
-      \ saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The\
-      \ disease is cured on a success. The target dies if the disease reduces its\
-      \ hit point maximum to 0. This reduction to the target's hit point maximum lasts\
-      \ until the disease is cured."
+      \ (2d8 + 3) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 13 Constitution saving throw against disease or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ until the disease is cured. Every 24 hours that elapse, the target must repeat\
+      \ the saving throw, reducing its hit point maximum by 5 (1d10) on a failure.\
+      \ The disease is cured on a success. The target dies if the disease reduces\
+      \ its hit point maximum to 0. This reduction to the target's hit point maximum\
+      \ lasts until the disease is cured."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:*\
+      \ 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage."
     "name": "Tentacle"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/reduced-threat-otyugh-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/reduced-threat-otyugh-tftyp.webp"
 ```
 ^statblock

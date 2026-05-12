@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sweettooth Horror
+- "Sweettooth Horror"
 ---
-# [Sweettooth Horror](3-Mechanics\CLI\bestiary\fiend/sweettooth-horror-mcv4ec.md)
+# [Sweettooth Horror](3-Mechanics/CLI/bestiary/fiend/sweettooth-horror-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 No one is certain of the true origin of Sweettooth Village. This eerie, abandoned town constructed of gingerbread and frosting lies deep in the wilds of Eldraine. Some say the fiendish candy monsters that prowl its butterscotch-lined streets were once servants of a powerful witch, and the entire place was a trap created to lure hungry travelers. But if the sugary horrors of Sweettooth Village were ever under someone's control, that time has long since passed.
@@ -45,16 +45,19 @@ No one is certain of the true origin of Sweettooth Village. This eerie, abandone
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 9"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "4"
 "traits":
   - "desc": "If the horror takes fire damage, it releases a sweet, mesmerizing scent.\
       \ Each creature within 30 feet of the horror must succeed on a DC 11 Wisdom\
-      \ saving throw or have the charmed condition. A charmed creature can repeat\
-      \ the saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a success."
+      \ saving throw or have the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ condition. A [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Caramelization"
   - "desc": "The horror has advantage on saving throws against spells and other magical\
       \ effects."
@@ -65,13 +68,13 @@ No one is certain of the true origin of Sweettooth Village. This eerie, abandone
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage plus 10 (3d6) acid damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 8\
-      \ (1d8 + 4) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ the horror can choose to deal no damage; instead, the target has the prone\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 8 (1d8 + 4) bludgeoning damage. If the target is a Large or smaller creature,\
+      \ the horror can choose to deal no damage; instead, the target has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition, and the horror can pull the target up to 5 feet toward itself."
     "name": "Candy Cane"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/sweettooth-horror-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/sweettooth-horror-mcv4ec.webp"
 ```
 ^statblock

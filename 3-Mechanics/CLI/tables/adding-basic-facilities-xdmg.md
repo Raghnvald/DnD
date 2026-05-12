@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Adding Basic Facilities
+- "Adding Basic Facilities"
 ---
 # Adding Basic Facilities
 *Source: Dungeon Master's Guide (2024) p. 335* 

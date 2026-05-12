@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grottenelle Stonecutter
+- "Grottenelle Stonecutter"
 ---
-# [Grottenelle Stonecutter](3-Mechanics\CLI\bestiary\npc/grottenelle-stonecutter-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Grottenelle Stonecutter](3-Mechanics/CLI/bestiary/npc/grottenelle-stonecutter-veor.md)
+*Source: Vecna: Eve of Ruin p. 49*  
 
 ```statblock
 "name": "Grottenelle Stonecutter (VEoR)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Chaotic Evil"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -38,24 +38,35 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
-"senses": "darkvision 120 ft., passive Perception 11"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "any four languages, Gnomish, Terran, Undercommon"
 "cr": "6"
 "traits":
-  - "desc": "Grottenelle\n\n**At will:** nondetection (self only)\n\n**1/day each:**\
-      \ blindness/deafness, blur, disguise self"
+  - "desc": "Grottenelle\n\n**At will:** [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only)\n\n**1/day each:** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Grottenelle is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Grottenelle has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** fire bolt, light, mage\
-      \ hand, prestidigitation\n\n**1st level (4 slots):** detect magic, mage armor,\
-      \ magic missile, shield\n\n**2nd level (3 slots):** misty step, suggestion\n\
-      \n**3rd level (3 slots):** counterspell, fireball, fly\n\n**4th level (3 slots):**\
-      \ greater invisibility, ice storm\n\n**5th level (1 slots):** cone of cold"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md)\n\
+      \n**4th level (3 slots):** [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\n**5th level (1 slots):**\
+      \ [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Grottenelle"
     "name": "Gnome Cunning"
@@ -67,6 +78,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/grottenelle-stonecutter-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/grottenelle-stonecutter-veor.webp"
 ```
 ^statblock

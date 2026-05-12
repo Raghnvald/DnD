@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Jade Serpent
+- "Animated Jade Serpent"
 ---
-# [Animated Jade Serpent](3-Mechanics\CLI\bestiary\construct/animated-jade-serpent-wdmm.md)
+# [Animated Jade Serpent](3-Mechanics/CLI/bestiary/construct/animated-jade-serpent-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 92*  
 
 ```statblock
@@ -33,21 +33,22 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 10 ft., passive Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6\
-      \ (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 10 (3d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 10 (3d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Bite"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-jade-serpent-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-jade-serpent-wdmm.webp"
 ```
 ^statblock

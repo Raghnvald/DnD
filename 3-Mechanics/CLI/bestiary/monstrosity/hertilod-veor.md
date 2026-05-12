@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hertilod
+- "Hertilod"
 ---
-# [Hertilod](3-Mechanics\CLI\bestiary\monstrosity/hertilod-veor.md)
+# [Hertilod](3-Mechanics/CLI/bestiary/monstrosity/hertilod-veor.md)
 *Source: Vecna: Eve of Ruin p. 223*  
 
 > [!quote] A quote from Melthena Vellaine, Wizard and Spelljammer  
@@ -42,12 +42,13 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
   - "strength": !!int "12"
   - "dexterity": !!int "10"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "blindsight 30 ft., tremorsense 60 ft., passive Perception 18"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., tremorsense\
+  \ 60 ft., passive Perception 18"
 "languages": ""
 "cr": "17"
 "traits":
@@ -59,7 +60,8 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
   - "desc": "If the hertilod takes lightning damage, its speed is halved until the\
       \ end of its next turn, and it must succeed on a DC 15 Constitution saving throw\
       \ or immediately regurgitate all swallowed creatures, each of which lands in\
-      \ a space within 10 feet of the hertilod and has the prone condition."
+      \ a space within 10 feet of the hertilod and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ condition."
     "name": "Shock Susceptibility"
   - "desc": "The hertilod can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -67,24 +69,25 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
 "actions":
   - "desc": "The hertilod makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) piercing damage plus 13 (2d12) poison damage. If the target is a\
-      \ Large or smaller creature, it must succeed on a DC 20 Strength saving throw\
-      \ or be swallowed by the hertilod. A swallowed creature has the blinded and\
-      \ restrained conditions, and it has total cover against attacks and other effects\
-      \ outside the hertilod. At the start of each of the hertilod's turns, each swallowed\
-      \ creature takes 13 (2d12) poison damage from the poisonous secretion in the\
-      \ hertilod's gullet.\n\nThe hertilod's gullet can hold up to two creatures at\
-      \ a time. If the hertilod takes 40 damage or more on a single turn from a swallowed\
-      \ creature, the hertilod must succeed on a DC 15 Constitution saving throw at\
-      \ the end of that turn or regurgitate all swallowed creatures, each of which\
-      \ lands in a space within 10 feet of the hertilod and has the prone condition.\
-      \ If the hertilod dies, a swallowed creature is no longer restrained and can\
-      \ escape from the corpse by using 10 feet of movement, exiting with the prone\
-      \ condition."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) piercing damage plus 13 (2d12) poison damage. If the target\
+      \ is a Large or smaller creature, it must succeed on a DC 20 Strength saving\
+      \ throw or be swallowed by the hertilod. A swallowed creature has the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) conditions,\
+      \ and it has total cover against attacks and other effects outside the hertilod.\
+      \ At the start of each of the hertilod's turns, each swallowed creature takes\
+      \ 13 (2d12) poison damage from the poisonous secretion in the hertilod's gullet.\n\
+      \nThe hertilod's gullet can hold up to two creatures at a time. If the hertilod\
+      \ takes 40 damage or more on a single turn from a swallowed creature, the hertilod\
+      \ must succeed on a DC 15 Constitution saving throw at the end of that turn\
+      \ or regurgitate all swallowed creatures, each of which lands in a space within\
+      \ 10 feet of the hertilod and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ condition. If the hertilod dies, a swallowed creature is no longer [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ and can escape from the corpse by using 10 feet of movement, exiting with\
+      \ the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) slashing damage."
     "name": "Claw"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the hertilod can expend a use to take one of the following actions. The\
@@ -99,6 +102,6 @@ When a dead god is left adrift in the Astral Sea, its corpse sometimes spawns a 
     "name": "Feed (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/hertilod-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/hertilod-veor.webp"
 ```
 ^statblock

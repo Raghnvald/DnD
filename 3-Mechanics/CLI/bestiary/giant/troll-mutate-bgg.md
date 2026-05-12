@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll Mutate
+- "Troll Mutate"
 ---
-# [Troll Mutate](3-Mechanics\CLI\bestiary\giant/troll-mutate-bgg.md)
+# [Troll Mutate](3-Mechanics/CLI/bestiary/giant/troll-mutate-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 187*  
 
 When exposed to corrupting alien energy, such as that found near a gate to the Far Realm or the strange magic that emanates through the Underdark, a regenerating troll undergoes strange mutations. Among the most common mutations are wings, stretchable bodies, resistance to magic, and a strange reflective psychic property. Many troll mutates also have small additional limbs and eyes, externalized organs, and other variations.
@@ -54,12 +54,11 @@ Trolls' rapid healing makes them subject to bizarre mutations, particularly when
   - "constitution": !!int "7"
   - "intelligence": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 15"
+"senses": "blindsight 60 ft., passive Perception 15"
 "languages": "Giant, telepathy 60 ft."
 "cr": "7"
 "traits":
@@ -96,6 +95,6 @@ Trolls' rapid healing makes them subject to bizarre mutations, particularly when
     "name": "Psychic Burst (Recharge 5-6)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/troll-mutate-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/troll-mutate-bgg.webp"
 ```
 ^statblock

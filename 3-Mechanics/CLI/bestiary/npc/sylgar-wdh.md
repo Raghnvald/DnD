@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sylgar
+- "Sylgar"
 ---
-# [Sylgar](3-Mechanics\CLI\bestiary\npc/sylgar-wdh.md)
+# [Sylgar](3-Mechanics/CLI/bestiary/npc/sylgar-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  
 
 Xanathar's pet fish.
@@ -34,18 +34,19 @@ Xanathar's pet fish.
   - !!int "7"
   - !!int "2"
 "speed": "0 ft., swim 40 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": ""
 "cr": "0"
 "traits":
   - "desc": "Sylgar can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Bite"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sylgar-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sylgar-wdh.webp"
 ```
 ^statblock

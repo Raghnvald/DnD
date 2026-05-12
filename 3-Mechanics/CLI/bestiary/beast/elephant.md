@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elephant
+- "Elephant"
 ---
-# [Elephant](3-Mechanics\CLI\bestiary\beast/elephant.md)
+# [Elephant](3-Mechanics/CLI/bestiary/beast/elephant.md)
 *Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -40,20 +40,20 @@ aliases:
 "traits":
   - "desc": "If the elephant moves at least 20 feet straight toward a creature and\
       \ then hits it with a gore attack on the same turn, that target must succeed\
-      \ on a DC 12 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ If the target is [prone](/3-Mechanics/CLI/conditions.md#Prone), the elephant\
+      \ on a DC 12 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If the target is [prone](3-Mechanics/CLI/rules/conditions.md#Prone), the elephant\
       \ can make one stomp attack against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19\
       \ (3d8 + 6) piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one [prone](/3-Mechanics/CLI/conditions.md#Prone)\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ creature. *Hit:* 22 (3d10 + 6) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/elephant.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/elephant.webp"
 ```
 ^statblock
 

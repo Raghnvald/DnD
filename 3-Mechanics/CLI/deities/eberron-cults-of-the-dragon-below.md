@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/trickery
-aliases: 
-- Cults of the Dragon Below
+aliases:
+- "Cults of the Dragon Below"
 ---
 # Cults of the Dragon Below
 *Source: Player's Handbook p. 296* 

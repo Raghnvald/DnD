@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Pit Fighting Complications
+- "Pit Fighting Complications"
 ---
 # Pit Fighting Complications
 *Source: Xanathar's Guide to Everything p. 131* 
 
 **Pit Fighting Complications**
-
-`dice: [](pit-fighting-complications-xge.md#^pit-fighting-complications)`
 
 | dice: d6 | Complication |
 |----------|--------------|

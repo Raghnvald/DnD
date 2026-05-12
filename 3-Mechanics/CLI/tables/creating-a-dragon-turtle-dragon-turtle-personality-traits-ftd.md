@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Dragon Turtle; Dragon Turtle Personality Traits
+- "Creating a Dragon Turtle; Dragon Turtle Personality Traits"
 ---
 # Creating a Dragon Turtle; Dragon Turtle Personality Traits
 *Source: Fizban's Treasury of Dragons p. 110* 
 
 **Dragon Turtle Personality Traits**
-
-`dice: [](creating-a-dragon-turtle-dragon-turtle-personality-traits-ftd.md#^dragon-turtle-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

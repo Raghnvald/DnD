@@ -7,13 +7,13 @@ tags:
 - ttrpg-cli/monster/cr/5
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Elite Warrior
+- "Drow Elite Warrior"
 ---
-# [Drow Elite Warrior](3-Mechanics\CLI\bestiary\humanoid/drow-elite-warrior.md)
+# [Drow Elite Warrior](3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md)
 *Source: Monster Manual p. 128*  
 
 ## Drow
@@ -54,7 +54,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -74,10 +74,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow Elite Warrior"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor.md), [shield](/3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "modifier": !!int "4"
@@ -94,40 +94,43 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   - "constitution": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+10"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"
 "traits":
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
-      **1/day each:** [darkness](/3-Mechanics/CLI/spells/darkness.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate.md) (self only)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
+      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "The drow has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The drow makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage plus 10 (3d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for\
-      \ 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way. The\
-      \ target wakes up if it takes damage or if another creature takes an action\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The target wakes up if it takes damage or if another creature takes an action\
       \ to shake it awake."
     "name": "Hand Crossbow"
 "reactions":
@@ -136,7 +139,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "name": "Parry"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/drow-elite-warrior.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-elite-warrior.webp"
 ```
 ^statblock
 

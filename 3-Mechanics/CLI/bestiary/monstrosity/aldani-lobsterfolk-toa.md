@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aldani (Lobsterfolk)
+- "Aldani (Lobsterfolk)"
 ---
-# [Aldani (Lobsterfolk)](3-Mechanics\CLI\bestiary\monstrosity/aldani-lobsterfolk-toa.md)
+# [Aldani (Lobsterfolk)](3-Mechanics/CLI/bestiary/monstrosity/aldani-lobsterfolk-toa.md)
 *Source: Tomb of Annihilation p. 210*  
 
 Many Chultan natives can recall childhood fables of the aldani, the eerie lobsterfolk that lived in the rivers and lakes of their homeland. As there have been no sightings of the aldani in years, it is widely believed that they were wiped out. In truth, many aldani survived and retreated to the lakes of the Aldani Basin in the heart of Chult.
@@ -46,11 +46,12 @@ The aldani are the monstrous descendants of Chultan humans belonging to the Alda
   - !!int "10"
 "speed": "20 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common"
 "cr": "1"
 "traits":
@@ -59,12 +60,13 @@ The aldani are the monstrous descendants of Chultan humans belonging to the Alda
 "actions":
   - "desc": "The aldani makes two attacks with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) slashing damage, and the target is grappled (escape DC 11). The aldani\
-      \ has two claws, each of which can grapple only one target."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) slashing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 11). The aldani has two claws, each of which can grapple only one\
+      \ target."
     "name": "Claw"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/aldani-lobsterfolk-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/aldani-lobsterfolk-toa.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Koalinth Sergeant
+- "Koalinth Sergeant"
 ---
-# [Koalinth Sergeant](3-Mechanics\CLI\bestiary\humanoid/koalinth-sergeant-gos.md)
+# [Koalinth Sergeant](3-Mechanics/CLI/bestiary/humanoid/koalinth-sergeant-gos.md)
 *Source: Ghosts of Saltmarsh p. 239*  
 
 These fierce koalinths lead special missions for their people, such as the diplomatic envoy encountered in Danger at Dunwater. A koalinth sergeant focuses its ire on the most significant threats on the battlefield, then eliminates those threats one by one.
@@ -44,6 +44,8 @@ These fierce koalinths lead special missions for their people, such as the diplo
     "desc": "+4"
   - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "trident"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
 "cr": "2"
@@ -75,6 +77,6 @@ These fierce koalinths lead special missions for their people, such as the diplo
     "name": "Spear the Helpless (2/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/koalinth-sergeant-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/koalinth-sergeant-gos.webp"
 ```
 ^statblock

@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnoll Witherling
+- "Gnoll Witherling"
 ---
-# [Gnoll Witherling](3-Mechanics\CLI\bestiary\undead/gnoll-witherling-mpmm.md)
+# [Gnoll Witherling](3-Mechanics/CLI/bestiary/undead/gnoll-witherling-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
 
 > [!quote] A quote from Mordenkainen  
@@ -48,10 +48,10 @@ Witherlings travel with their comrades and try to kill anything in their path. T
   - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 7"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 7"
 "languages": "understands Gnoll but can't speak"
 "cr": "1/4"
 "traits":
@@ -60,11 +60,11 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "actions":
   - "desc": "The witherling makes two Bite or Spiked Club attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) necrotic damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Spiked Club"
 "bonus_actions":
   - "desc": "After the witherling reduces a creature to 0 hit points with a melee\
@@ -78,7 +78,7 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp"
 ```
 ^statblock
 

@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/feat
 aliases:
-- Second Chance
+- "Second Chance"
 ---
 # Second Chance
 *Source: Xanathar's Guide to Everything p. 75*  
 
-**Prerequisite**: [Halfling](/3-Mechanics/CLI/races/halfling-xphb.md)
+**Prerequisite**: [Halfling](3-Mechanics/CLI/races/halfling-xphb.md)
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
 

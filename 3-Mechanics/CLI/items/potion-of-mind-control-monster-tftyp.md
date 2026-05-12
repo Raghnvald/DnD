@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/rarity/very-rare
-- new/item/wondrous/potion
-aliases: 
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/potion
+aliases:
 - "Potion of Mind Control (monster)"
 ---
 # Potion of Mind Control (monster)
@@ -16,6 +16,6 @@ aliases:
 
 When you drink a potion of mind control, you can cast a dominate spell (save DC 15) on a specific creature if you do so before the end of your next turn. If you don't, the potion is wasted.
 
-A potion of mind control produces the effect of a dominate monster spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no concentration required on your part. The charmed creature has disadvantage on new saving throws to break the effect during this time.
+A potion of mind control produces the effect of a [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md) spell. If the target's initial saving throw fails, the effect lasts for 1 hour, with no [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) required on your part. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature has disadvantage on new saving throws to break the effect during this time.
 
 *Source: Tales from the Yawning Portal p. 229*

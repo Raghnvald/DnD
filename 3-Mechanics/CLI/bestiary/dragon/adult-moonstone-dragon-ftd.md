@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Moonstone Dragon
+- "Adult Moonstone Dragon"
 ---
-# [Adult Moonstone Dragon](3-Mechanics\CLI\bestiary\dragon/adult-moonstone-dragon-ftd.md)
+# [Adult Moonstone Dragon](3-Mechanics/CLI/bestiary/dragon/adult-moonstone-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 212*  
 
 Ancient legends suggest that when the gods came to the First World and tried to populate it with their Humanoid followers, a clever dragon fled to the Feywild to hide a clutch of eggs. The magic of that faerie realm suffused the eggs, which hatched into the first moonstone dragons. Their descendants are now found throughout the Feywild.
@@ -52,15 +52,14 @@ The challenge rating of a legendary moonstone dragon increases by 1 when it's en
   - "wisdom": !!int "10"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+11"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+9"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "charmed"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 20"
 "languages": "Common, Draconic, Elvish, Gnomish, Sylvan"
 "cr": "15"
 "traits":
@@ -69,30 +68,28 @@ The challenge rating of a legendary moonstone dragon increases by 1 when it's en
 "actions":
   - "desc": "The dragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage plus 7 (2d6) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage plus 7 (2d6) radiant damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 9\
-      \ (1d8 + 5) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 18 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:*\
+      \ 9 (1d8 + 5) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 18 Strength saving throw or be knocked prone."
     "name": "Tail"
   - "desc": "The dragon uses one of the following breath weapons:\n\n- **Dream Breath.**\
       \ The dragon exhales mist in a 90-foot cone. Each creature in that area must\
-      \ succeed on a DC 18 Constitution saving throw or fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ for 10 minutes. This effect ends for a creature if the creature takes damage\
-      \ or someone uses an action to wake it.  \n- **Moonlight Breath.** The dragon\
-      \ exhales a beam of moonlight in a 90-foot line that is 10 feet wide. Each creature\
-      \ in that area must make a DC 18 Dexterity saving throw, taking 49 (9d10) radiant\
+      \ succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes.\
+      \ This effect ends for a creature if the creature takes damage or someone uses\
+      \ an action to wake it.  \n- **Moonlight Breath.** The dragon exhales a beam\
+      \ of moonlight in a 90-foot line that is 10 feet wide. Each creature in that\
+      \ area must make a DC 18 Dexterity saving throw, taking 49 (9d10) radiant\
       \ damage on a failed save, or half as much damage on a successful one.  "
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 19):\n\n**At\
-      \ will:** [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md)\n\n**1/day\
-      \ each:** [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md)"
+      \ will:** faerie fire\n\n**1/day each:** calm emotions, invisibility, revivify"
     "name": "Spellcasting"
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon can take\
@@ -101,17 +98,16 @@ The challenge rating of a legendary moonstone dragon increases by 1 when it's en
       \ it can see within 120 feet of it and attempts to send that creature to a dream\
       \ plane. The target must succeed on a DC 15 Charisma saving throw or be banished\
       \ to a harmless demiplane until initiative count 20 on the next round. While\
-      \ there, the target is [stunned](/3-Mechanics/CLI/conditions.md#Stunned). When\
-      \ the effect ends, the target reappears in the space it left or in the nearest\
-      \ unoccupied space.  \n- **Compulsive Dance.** The dragon targets a creature\
-      \ it can see in its lair, and a merry waltz begins to play that only the target\
-      \ can hear. The target must succeed on a DC 15 Intelligence saving throw or\
-      \ dance until initiative count 20 on the following round. The dancing creature\
-      \ is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) and must\
-      \ use all its movement to dance.  \n- **Disorienting Visions.** Disorienting\
-      \ illusory images flit through the dragon's lair. Each creature in the lair\
-      \ must succeed on a DC 20 Wisdom saving throw or have disadvantage on ability\
-      \ checks until initiative count 20 on the following round.  "
+      \ there, the target is stunned. When the effect ends, the target reappears in\
+      \ the space it left or in the nearest unoccupied space.  \n- **Compulsive Dance.**\
+      \ The dragon targets a creature it can see in its lair, and a merry waltz begins\
+      \ to play that only the target can hear. The target must succeed on a DC 15\
+      \ Intelligence saving throw or dance until initiative count 20 on the following\
+      \ round. The dancing creature is incapacitated and must use all its movement\
+      \ to dance.  \n- **Disorienting Visions.** Disorienting illusory images flit\
+      \ through the dragon's lair. Each creature in the lair must succeed on a DC\
+      \ 20 Wisdom saving throw or have disadvantage on ability checks until initiative\
+      \ count 20 on the following round.  "
     "name": ""
 "regional_effects":
   - "desc": "The region surrounding a legendary moonstone dragon's lair is altered\
@@ -136,6 +132,6 @@ The challenge rating of a legendary moonstone dragon increases by 1 when it's en
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-moonstone-dragon-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-moonstone-dragon-ftd.webp"
 ```
 ^statblock

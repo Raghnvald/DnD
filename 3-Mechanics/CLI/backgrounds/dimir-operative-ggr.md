@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Dimir Operative
+- "Dimir Operative"
 ---
 # Dimir Operative
 *Source: Guildmasters' Guide to Ravnica p. 46*  
 
 
-- **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md)  
+- **Skill Proficiencies.** Deception, Stealth  
+- **Tool Proficiencies.** Disguise kit  
 - **Languages.** One of your choice  
-- **Equipment.** A Dimir insignia, three small knives, a set of dark-colored [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and the starting equipment of the background described in this chapter for your secondary guild  
+- **Equipment.** A Dimir insignia, three small knives, a set of dark-colored common clothes, and the starting equipment of the background described in this chapter for your secondary guild  
 
 You're a spy. Secrets and misinformation are your stock in trade. You skulk in the shadows, infiltrate other guilds, and steal the most precious secrets, whether they're written in locked journals or hidden away in someone's mind. Even you might not be aware of all the reasons behind the missions you carry out. Sometimes a mission's sole purpose is to conceal the motivation behind another strike performed in a different part of the city, or simply to spread fear.
 
@@ -28,8 +28,6 @@ You have more than one identity. The one you wear most of the time makes you app
 Whenever you choose, you can drop this identity and blend into the guildless masses of the city.
 
 Consider why you're embedded in the secondary guild. Create a story with your DM, inspired by rolling on the following table or choosing a reason that suits you.
-
-`dice: [](dimir-operative-ggr.md#^reason-for-infiltration)`
 
 | dice: d8 | Reason for Infiltration |
 |----------|-------------------------|
@@ -53,23 +51,21 @@ For you, the spells on the Dimir Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [encode thoughts](/3-Mechanics/CLI/spells/encode-thoughts-ggr.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) |
-| 1st | [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) |
-| 2nd | [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace-xphb.md) |
-| 3rd | [gaseous form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [meld into stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md), [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md) |
-| 4th | [arcane eye](/3-Mechanics/CLI/spells/arcane-eye-xphb.md), [freedom of movement](/3-Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 5th | [modify memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md) |
+| Cantrip | [encode thoughts](3-Mechanics/CLI/spells/encode-thoughts-ggr.md), mage hand |
+| 1st | disguise self, sleep |
+| 2nd | detect thoughts, pass without trace |
+| 3rd | gaseous form, meld into stone, nondetection |
+| 4th | arcane eye, freedom of movement |
+| 5th | modify memory |
 ^dimir-guild-spells
 
-Your magic is meant to be subtle and undetectable, but it might pull shadows or clouds of mist around you as you cast your spells. Using the [encode thoughts](/3-Mechanics/CLI/spells/encode-thoughts-ggr.md) cantrip described below, you can turn a creature's thoughts (including your own) into a thought strand that others can potentially read, share, or steal. These thought strands are treated as valuable currency among the Dimir.
+Your magic is meant to be subtle and undetectable, but it might pull shadows or clouds of mist around you as you cast your spells. Using the [encode thoughts](3-Mechanics/CLI/spells/encode-thoughts-ggr.md) cantrip described below, you can turn a creature's thoughts (including your own) into a thought strand that others can potentially read, share, or steal. These thought strands are treated as valuable currency among the Dimir.
 
 ## Suggested Characteristics
 
 Skilled at infiltration, disguise, and deception, members of House Dimir appear inscrutable. Your true personality and ideals might never manifest, or they might mark you as a quirky member of your secondary guild.
 
 **Personality Traits**
-
-`dice: [](dimir-operative-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -85,8 +81,6 @@ Skilled at infiltration, disguise, and deception, members of House Dimir appear 
 
 **Ideals**
 
-`dice: [](dimir-operative-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My true guild is all that really matters. (Any) |
@@ -99,8 +93,6 @@ Skilled at infiltration, disguise, and deception, members of House Dimir appear 
 
 **Bonds**
 
-`dice: [](dimir-operative-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I discovered a secret I can't let anyone else uncover—including my guild superiors. |
@@ -112,8 +104,6 @@ Skilled at infiltration, disguise, and deception, members of House Dimir appear 
 ^bonds
 
 **Flaws**
-
-`dice: [](dimir-operative-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -132,8 +122,6 @@ As an agent of House Dimir working undercover, you have limited contacts within 
 Roll once on the Dimir Contacts table, giving you an ally who serves as your contact in Dimir. Then roll twice on the table for your secondary guild. The first roll gives you an ally there, and the second roll gives you a rival.
 
 **Dimir Contacts**
-
-`dice: [](dimir-operative-ggr.md#^dimir-contacts)`
 
 | dice: d8 | Contact |
 |----------|---------|

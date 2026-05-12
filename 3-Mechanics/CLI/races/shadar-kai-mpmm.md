@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/shadar-kai
 aliases:
-- Shadar-Kai
+- "Shadar-Kai"
 ---
 # Shadar-Kai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 31*  
-![](/3-Mechanics/CLI/races/img/shadar-kai.webp#right)
+![](3-Mechanics/CLI/races/img/shadar-kai.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -35,11 +35,11 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition on yourself.
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/3-Mechanics/CLI/skills.md#Perception) skill.
+You have proficiency in the [Perception](3-Mechanics/CLI/rules/skills.md#Perception) skill.
 
 ### Necrotic Resistance
 
@@ -63,9 +63,9 @@ Like other elves, shadar-kai can live to be over 750 years old.
 
 > [!note] Elves of Many Realms
 > 
-> Created by the god [Corellon](/3-Mechanics/CLI/deities/elven-corellon-larethian-mtf.md), the first elves were Fey beings who cavorted on various planes of existence, changing their physical forms at will. Outside the glory of Arvandor, their favorite place was the feywild—a realm of unbridled passion. It was to that place of splendors that elves fled after they were exiled from [Corellon's](/3-Mechanics/CLI/deities/elven-corellon-larethian-mtf.md) presence for plotting with their god's rival, [Lolth](/3-Mechanics/CLI/deities/drow-lolth-mtf.md). And it was there that they transformed from Fey creatures into Humanoids and lost their ability to shape-shift at will. Afterward, they often wept as they realized what they had lost, their sorrow made even deeper by the Feywild's influence. But in the Feywild, they also discovered the potential joys of being people of fixed forms, and they rediscovered hope once they renounced [Lolth's](/3-Mechanics/CLI/deities/drow-lolth-mtf.md) treachery.
+> Created by the god [Corellon](3-Mechanics/CLI/deities/elven-corellon-larethian-mtf.md), the first elves were Fey beings who cavorted on various planes of existence, changing their physical forms at will. Outside the glory of Arvandor, their favorite place was the feywild—a realm of unbridled passion. It was to that place of splendors that elves fled after they were exiled from [Corellon's](3-Mechanics/CLI/deities/elven-corellon-larethian-mtf.md) presence for plotting with their god's rival, [Lolth](3-Mechanics/CLI/deities/drow-lolth-mtf.md). And it was there that they transformed from Fey creatures into Humanoids and lost their ability to shape-shift at will. Afterward, they often wept as they realized what they had lost, their sorrow made even deeper by the Feywild's influence. But in the Feywild, they also discovered the potential joys of being people of fixed forms, and they rediscovered hope once they renounced [Lolth's](3-Mechanics/CLI/deities/drow-lolth-mtf.md) treachery.
 > 
-> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([wood elves](/3-Mechanics/CLI/races/elf-xphb.md)), fey crossings in the Material Plane ([high elves](/3-Mechanics/CLI/races/elf-xphb.md)), the Underdark ([drow](/3-Mechanics/CLI/races/elf-xphb.md)), the Shadowfell ([shadar-kai](/3-Mechanics/CLI/races/shadar-kai-mpmm.md)), the Feywild ([eladrin](/3-Mechanics/CLI/races/eladrin-mpmm.md)), or oceans ([sea elves](/3-Mechanics/CLI/races/sea-elf-mpmm.md)).
+> Most elves eventually spread from the Feywild to other worlds, as wanderlust and curiosity drove them to the far reaches of the multiverse. In those other worlds, elves developed the physical forms now associated with them. Because of their original mutable nature, each group of elves mystically took on characteristics of the environment with which they bonded, whether forests ([wood elves](3-Mechanics/CLI/races/elf-wood.md)), fey crossings in the Material Plane ([high elves](3-Mechanics/CLI/races/elf-high.md)), the Underdark ([drow](3-Mechanics/CLI/races/elf-drow.md)), the Shadowfell ([shadar-kai](3-Mechanics/CLI/races/shadar-kai-mpmm.md)), the Feywild ([eladrin](3-Mechanics/CLI/races/eladrin-mpmm.md)), or oceans ([sea elves](3-Mechanics/CLI/races/sea-elf-mpmm.md)).
 > 
-> In some places, [Corellon](/3-Mechanics/CLI/deities/elven-corellon-larethian-mtf.md) has passed from elves' memory, but the god's blood flows within them still, even if they know nothing of its source. That blood is what causes them to evolve after spending centuries connected to a particular environment, so it is only a matter of time before other kinds of elves emerge.
+> In some places, [Corellon](3-Mechanics/CLI/deities/elven-corellon-larethian-mtf.md) has passed from elves' memory, but the god's blood flows within them still, even if they know nothing of its source. That blood is what causes them to evolve after spending centuries connected to a particular environment, so it is only a matter of time before other kinds of elves emerge.
 ^elves-of-many-realms

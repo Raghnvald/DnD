@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/grave
 - ttrpg-cli/domain/life
-aliases: 
-- Naralis Analor
+aliases:
+- "Naralis Analor"
 ---
 # Naralis Analor
 *Source: Mordenkainen's Tome of Foes p. 43* 

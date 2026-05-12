@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Raven
+- "Raven"
 ---
-# [Raven](3-Mechanics\CLI\bestiary\beast/raven.md)
+# [Raven](3-Mechanics/CLI/bestiary/beast/raven.md)
 *Source: Monster Manual p. 335. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -36,7 +36,7 @@ aliases:
   - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -44,16 +44,16 @@ aliases:
 "traits":
   - "desc": "The raven can mimic simple sounds it has heard, such as a person whispering,\
       \ a baby crying, or an animal chittering. A creature that hears the sounds can\
-      \ tell they are imitations with a successful DC 10 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
+      \ tell they are imitations with a successful DC 10 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight))\
       \ check."
     "name": "Mimicry"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ piercing damage."
     "name": "Beak"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/raven.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/raven.webp"
 ```
 ^statblock
 

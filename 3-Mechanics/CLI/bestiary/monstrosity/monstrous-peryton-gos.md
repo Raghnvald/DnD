@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Monstrous Peryton
+- "Monstrous Peryton"
 ---
-# [Monstrous Peryton](3-Mechanics\CLI\bestiary\monstrosity/monstrous-peryton-gos.md)
+# [Monstrous Peryton](3-Mechanics/CLI/bestiary/monstrosity/monstrous-peryton-gos.md)
 *Source: Ghosts of Saltmarsh p. 245*  
 
 The terror of the coast and the recent scourge of Firewatch Island in Tammeraut's Fate, this large peryton preys on ships and coastal communities alike. It has built numerous nests to mark its territory.
@@ -81,11 +81,11 @@ The terror of the coast and the recent scourge of Firewatch Island in Tammeraut'
   - "desc": "The peryton makes one attack with its talons."
     "name": "Talons Attack"
   - "desc": "The peryton moves up to its speed toward one target of its choosing.\
-      \ It then makes a gore attack that deals an extra 9 (2d8) piercing damage on\
-      \ a hit."
+      \ It then makes a gore attack that deals an extra 9 (2d8) piercing damage\
+      \ on a hit."
     "name": "Dive Attack (Costs 2 Actions)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/monstrous-peryton-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/monstrous-peryton-gos.webp"
 ```
 ^statblock

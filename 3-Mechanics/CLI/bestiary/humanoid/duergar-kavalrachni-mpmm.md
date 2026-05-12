@@ -12,12 +12,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Kavalrachni
+- "Duergar Kavalrachni"
 ---
-# [Duergar Kavalrachni](3-Mechanics\CLI\bestiary\humanoid/duergar-kavalrachni-mpmm.md)
+# [Duergar Kavalrachni](3-Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 189*  
 
-Kavalrachni are duergar cavalry trained to fight while riding [female steeders](/3-Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
+Kavalrachni are duergar cavalry trained to fight while riding [female steeders](3-Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
@@ -46,7 +46,7 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "26"
 "hit_dice": "4d8 + 8"
 "modifier": !!int "0"
@@ -59,44 +59,47 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - !!int "9"
 "speed": "25 ft."
 "damage_resistances": "poison"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[war pick](3-Mechanics/CLI/items/war-pick.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "Dwarvish, Undercommon"
 "cr": "2"
 "traits":
   - "desc": "When the duergar hits a target with a melee attack while mounted, the\
       \ mount can use its reaction to make one melee attack against the same target."
     "name": "Cavalry Training"
-  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "The duergar has advantage on saving throws against spells and the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ conditions."
     "name": "Duergar Resilience"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The duergar makes two War Pick attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage plus 5 (2d4) poison damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage plus 5 (2d4) poison damage."
     "name": "War Pick"
   - "desc": "*Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:*\
       \ 5 (1d10) piercing damage."
     "name": "Heavy Crossbow"
-  - "desc": "The duergar magically turns [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The duergar magically turns [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ for up to 1 hour or until it attacks, it forces a creature to make a saving\
-      \ throw, or its [concentration](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ is broken (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration)\
-      \ on a spell). Any equipment the duergar wears or carries is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
-      \ with it. While the [invisible](/3-Mechanics/CLI/conditions.md#Invisible) duergar\
-      \ is mounted, the mount is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+      \ throw, or its [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ is broken (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). Any equipment the duergar wears or carries is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ with it. While the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ duergar is mounted, the mount is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ as well. The invisibility ends early on the mount immediately after it attacks."
     "name": "Shared Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp"
 ```
 ^statblock
 

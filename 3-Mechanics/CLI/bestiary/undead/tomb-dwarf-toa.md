@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tomb Dwarf
+- "Tomb Dwarf"
 ---
-# [Tomb Dwarf](3-Mechanics\CLI\bestiary\undead/tomb-dwarf-toa.md)
+# [Tomb Dwarf](3-Mechanics/CLI/bestiary/undead/tomb-dwarf-toa.md)
 *Source: Tomb of Annihilation p. 135*  
 
 Acererak abducted dwarf miners and transformed them into wights to exploit their expertise at underground construction.
@@ -23,7 +23,7 @@ Acererak abducted dwarf miners and transformed them into wights to exploit their
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "14"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -36,27 +36,33 @@ Acererak abducted dwarf miners and transformed them into wights to exploit their
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "While in sunlight, the tomb dwarf has disadvantage on attack rolls, as\
-      \ well as on Wisdom (Perception) checks that rely on sight."
+      \ well as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The tomb dwarf makes two longsword attacks or two crossbow attacks. It\
       \ can use its Life Drain in place of one longsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if this effect reduces its hit point maximum to 0.A humanoid\
@@ -65,14 +71,15 @@ Acererak abducted dwarf miners and transformed them into wights to exploit their
       \ The tomb dwarf can have no more than twelve zombies under its control at one\
       \ time."
     "name": "Life Drain"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands."
     "name": "Battleaxe"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Light Crossbow"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/tomb-dwarf-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/tomb-dwarf-toa.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/5
-- new/monster/size/small
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Riffler
+- "Riffler"
 ---
-# [Riffler](3-Mechanics\CLI\bestiary\fey/riffler-bmt.md)
+# [Riffler](3-Mechanics/CLI/bestiary/fey/riffler-bmt.md)
 *Source: The Book of Many Things p. 181*  
 
 Rifflers are diminutive Fey reminiscent of gnomes and obsessed with destiny and fate. The oldest stories of rifflers suggest these dangerously curious spirits manifested as physical beings when the Deck of Many Things was shuffled for the first time. The rifflers were so enraptured with the soft sound made by the whispering cards that they made physical bodies for themselves in order to possess and understand this new instrument of destiny.
@@ -68,9 +68,9 @@ Both the Solar Bastion (see chapter 10) and the Grim Harrow (see chapter 19) kno
 "actions":
   - "desc": "The riffler makes two Spectral Card attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 60 ft.,\
-      \ one target. *Hit:* 8 (1d10 + 3) force damage plus 5 (1d10) damage that is\
-      \ radiant if the d10 roll is an even number and necrotic if it's odd."
+  - "desc": "*Melee  or Ranged Spell Attack:* +6 to hit, reach 5 ft. or range 60\
+      \ ft., one target. *Hit:* 8 (1d10 + 3) force damage plus 5 (1d10) damage\
+      \ that is radiant if the d10 roll is an even number and necrotic if it's odd."
     "name": "Spectral Card"
   - "desc": "The riffler magically unleashes a spray of spectral cards in a 30-foot\
       \ cone. Each creature in that area must make a DC 14 Dexterity saving throw.\
@@ -85,12 +85,12 @@ Both the Solar Bastion (see chapter 10) and the Grim Harrow (see chapter 19) kno
 "reactions":
   - "desc": "When a creature the riffler can see within 30 feet of itself makes an\
       \ ability check, an attack roll, or a saving throw, the riffler can magically\
-      \ force that creature to roll a d6 and either add the number rolled to the total\
-      \ or subtract it from the total (riffler's choice), potentially changing the\
-      \ outcome."
+      \ force that creature to roll a d6 and either add the number rolled to the\
+      \ total or subtract it from the total (riffler's choice), potentially changing\
+      \ the outcome."
     "name": "Shuffle Destiny"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/riffler-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/riffler-bmt.webp"
 ```
 ^statblock

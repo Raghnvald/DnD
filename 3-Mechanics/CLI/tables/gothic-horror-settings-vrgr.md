@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Gothic Horror Settings
+- "Gothic Horror Settings"
 ---
 # Gothic Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 57* 
 
 **Gothic Horror Settings**
-
-`dice: [](gothic-horror-settings-vrgr.md#^gothic-horror-settings)`
 
 | dice: d8 | Setting |
 |----------|---------|

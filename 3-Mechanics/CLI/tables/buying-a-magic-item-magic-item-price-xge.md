@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Buying a Magic Item; Magic Item Price
+- "Buying a Magic Item; Magic Item Price"
 ---
 # Buying a Magic Item; Magic Item Price
 *Source: Xanathar's Guide to Everything p. 126* 

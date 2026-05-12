@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Family; Families
+- "Family; Families"
 ---
 # Family; Families
 *Source: Bigby Presents: Glory of the Giants p. 37* 
 
 **Families**
-
-`dice: [](family-families-bgg.md#^families)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

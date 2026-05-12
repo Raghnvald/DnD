@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rakdos Performer, Blade Juggler
+- "Rakdos Performer, Blade Juggler"
 ---
-# [Rakdos Performer, Blade Juggler](3-Mechanics\CLI\bestiary\humanoid/rakdos-performer-blade-juggler-ggr.md)
+# [Rakdos Performer, Blade Juggler](3-Mechanics/CLI/bestiary/humanoid/rakdos-performer-blade-juggler-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 249*  
 
 By offering a place for those of many different talents, the Cult of Rakdos has seen its numbers swell with performing artists, including blade jugglers, fire eaters, and high wire acrobats. Performers carry the message of Rakdos out into the streets: cut loose, free yourself from the bonds of society's mores and expectations, and indulge your desires.
@@ -39,10 +39,12 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+7"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+4"
+"gear":
+  - "dagger"
 "senses": "passive Perception 9"
 "languages": "any one language (usually Common)"
 "cr": "1"
@@ -58,6 +60,6 @@ By offering a place for those of many different talents, the Cult of Rakdos has 
     "name": "Dagger"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-blade-juggler-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/rakdos-performer-blade-juggler-ggr.webp"
 ```
 ^statblock

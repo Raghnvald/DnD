@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-- new/item/weapon/ranged
-- new/item/weapon/simple
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/weapon/ranged
+- ttrpg-cli/item/weapon/simple
+aliases:
 - "Sling of Giant Felling"
 ---
 # Sling of Giant Felling

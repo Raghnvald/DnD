@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duke Zalto
+- "Duke Zalto"
 ---
-# [Duke Zalto](3-Mechanics\CLI\bestiary\npc/duke-zalto-skt.md)
+# [Duke Zalto](3-Mechanics/CLI/bestiary/npc/duke-zalto-skt.md)
 *Source: Storm King's Thunder p. 184*  
 
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
@@ -79,7 +79,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "221"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -96,34 +96,36 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "lightning"
 "damage_immunities": "fire"
+"gear":
+  - "[maul](3-Mechanics/CLI/items/maul-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common, Elvish, Giant"
 "cr": "9"
 "traits":
   - "desc": "Zalto deals double damage to objects and structures."
     "name": "Siege Monster"
-  - "desc": "Zalto wears a ring of lightning resistance."
+  - "desc": "Zalto wears a [ring of lightning resistance](3-Mechanics/CLI/items/ring-of-lightning-resistance-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "When Zalto enters any enemy's space for the first time on a turn, the\
-      \ enemy must succeed on a DC 19 Strength saving throw or be knocked prone."
+      \ enemy must succeed on a DC 19 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Tackle"
 "actions":
   - "desc": "Zalto makes two maul attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (6d6 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (6d6 + 7) bludgeoning damage."
     "name": "Maul"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Rock"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/duke-zalto-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/duke-zalto-skt.webp"
 ```
 ^statblock

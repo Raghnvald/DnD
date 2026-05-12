@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Varnoth
+- "Varnoth"
 ---
-# [Varnoth](3-Mechanics\CLI\bestiary\npc/varnoth-dosi.md)
+# [Varnoth](3-Mechanics/CLI/bestiary/npc/varnoth-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 47*  
 
 A hardened mercenary captain, Varnoth Wender is an experienced professional fighter. She is usually unarmed, but she keeps her old sword beneath the mattress in her cell (in area A1 in Dragon's Rest).
@@ -44,17 +44,19 @@ A hardened mercenary captain, Varnoth Wender is an experienced professional figh
     "desc": "+2"
   - "name": "Religion"
     "desc": "+2"
+"gear":
+  - "shortsword"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "2"
 "actions":
   - "desc": "Varnoth makes three Shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/varnoth-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/varnoth-dosi.webp"
 ```
 ^statblock

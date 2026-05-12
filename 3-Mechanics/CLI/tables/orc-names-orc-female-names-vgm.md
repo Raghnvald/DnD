@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Orc Names; Orc Female Names
+- "Orc Names; Orc Female Names"
 ---
 # Orc Names; Orc Female Names
 *Source: Volo's Guide to Monsters p. 88* 
 
 **Orc Female Names**
-
-`dice: [](orc-names-orc-female-names-vgm.md#^orc-female-names)`
 
 | dice: d12 | Name |
 |-----------|------|

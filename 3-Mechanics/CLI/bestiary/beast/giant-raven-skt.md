@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Raven
+- "Giant Raven"
 ---
-# [Giant Raven](3-Mechanics\CLI\bestiary\beast/giant-raven-skt.md)
+# [Giant Raven](3-Mechanics/CLI/bestiary/beast/giant-raven-skt.md)
 *Source: Storm King's Thunder p. 66*  
 
 ```statblock
@@ -33,30 +33,30 @@ aliases:
   - !!int "7"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": "understands Common but can't speak"
 "cr": "1"
 "traits":
-  - "desc": "The raven has advantage on Wisdom (Perception) checks that rely on sight\
-      \ or smell."
+  - "desc": "The raven has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
   - "desc": "The raven has advantage on an attack roll against a creature if at least\
       \ one of the raven's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The raven makes two attacks: one with its beak and one with its talons."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) piercing damage."
     "name": "Beak"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) slashing damage."
     "name": "Talons"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-raven-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-raven-skt.webp"
 ```
 ^statblock

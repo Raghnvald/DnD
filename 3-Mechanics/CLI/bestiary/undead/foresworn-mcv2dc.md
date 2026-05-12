@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Foresworn
+- "Foresworn"
 ---
-# [Foresworn](3-Mechanics\CLI\bestiary\undead/foresworn-mcv2dc.md)
+# [Foresworn](3-Mechanics/CLI/bestiary/undead/foresworn-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 7*  
 
 Foresworn are the spirits of fallen Solamnic knights who attend to their duty long after death. Armed with spectral armor and weaponry, a foresworn maintains the martial prowess it had in life and can call on magic and its fallen brethren for aid.
@@ -25,7 +25,7 @@ Like revenants, foresworn fixate on a singular purpose, and they refuse to aband
 "type": "undead"
 "alignment": "typically  Lawful Good"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "modifier": !!int "2"
@@ -42,9 +42,13 @@ Like revenants, foresworn fixate on a singular purpose, and they refuse to aband
   - "wisdom": !!int "7"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, frightened, grappled, paralyzed, petrified, poisoned,\
-  \ prone, restrained, unconscious"
-"senses": "darkvision 60 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "the languages it knew in life"
 "cr": "6"
 "traits":
@@ -67,7 +71,9 @@ Like revenants, foresworn fixate on a singular purpose, and they refuse to aband
     "name": "Spectral Polearm"
   - "desc": "The foresworn casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**2/day each:** command, detect evil and good\n\n**1/day:** wall of force"
+      \n**2/day each:** [command](3-Mechanics/CLI/spells/command.md), [detect evil\
+      \ and good](3-Mechanics/CLI/spells/detect-evil-and-good.md)\n\n**1/day:** [wall\
+      \ of force](3-Mechanics/CLI/spells/wall-of-force.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The foresworn summons a battalion of ghostly soldiers to its aid. The\
@@ -79,6 +85,6 @@ Like revenants, foresworn fixate on a singular purpose, and they refuse to aband
     "name": "Phantasmic Battalion (Recharge 5-6)"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/foresworn-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/foresworn-mcv2dc.webp"
 ```
 ^statblock

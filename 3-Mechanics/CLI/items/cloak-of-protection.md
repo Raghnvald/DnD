@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Cloak of Protection"
 ---
 # Cloak of Protection
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/cloak-of-protection.webp#right)
+![](3-Mechanics/CLI/items/img/cloak-of-protection.webp#right)
 
 
 You gain a +1 bonus to AC and saving throws while you wear this cloak.

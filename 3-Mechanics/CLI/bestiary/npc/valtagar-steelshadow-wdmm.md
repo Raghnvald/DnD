@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Valtagar Steelshadow
+- "Valtagar Steelshadow"
 ---
-# [Valtagar Steelshadow](3-Mechanics\CLI\bestiary\npc/valtagar-steelshadow-wdmm.md)
+# [Valtagar Steelshadow](3-Mechanics/CLI/bestiary/npc/valtagar-steelshadow-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 271*  
 
 Archmages are exceedingly rare in duergar society, and Valtagar's gift for wizardry never sat well with the clans of Gracklstugh. He doesn't put himself in harm's way unless he has a clear tactical edge.
@@ -24,7 +24,7 @@ Archmages are exceedingly rare in duergar society, and Valtagar's gift for wizar
 "subtype": "any race"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "99"
 "hit_dice": "18d8 + 18"
 "modifier": !!int "2"
@@ -40,27 +40,41 @@ Archmages are exceedingly rare in duergar society, and Valtagar's gift for wizar
   - "intelligence": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin); poison"
-"senses": "darkvision 120 ft., passive Perception 12"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Common, Dwarvish, Infernal, Terran, Troglodyte, Undercommon"
 "cr": "12"
 "traits":
   - "desc": "Valtagar is an 18th-level spellcaster. Its spellcasting ability is Intelligence\
-      \ (spell save DC 17, +9 to hit with spell attacks). Valtagar can cast disguise\
-      \ self and invisibility at will and has the following wizard spells prepared:\n\
-      \n**Cantrips (at will):** fire bolt, light, mage hand, prestidigitation, shocking\
-      \ grasp\n\n**1st level (4 slots):** detect magic, identify, mage armor*, magic\
-      \ missile\n\n**2nd level (3 slots):** detect thoughts, mirror image, misty step\n\
-      \n**3rd level (3 slots):** counterspell, fly, lightning bolt\n\n**4th level\
-      \ (3 slots):** Otiluke's Resilient Sphere, fire shield, stoneskin*\n\n**5th\
-      \ level (3 slots):** cone of cold, scrying, wall of force\n\n**6th level (1\
-      \ slots):** globe of invulnerability\n\n**7th level (1 slots):** teleport\n\n\
-      **8th level (1 slots):** mind blank*\n\n**9th level (1 slots):** time stop\n\
+      \ (spell save DC 17, +9 to hit with spell attacks). Valtagar can cast [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md) and [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\
+      \ at will and has the following wizard spells prepared:\n\n**Cantrips (at will):**\
+      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n**1st level\
+      \ (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [identify](3-Mechanics/CLI/spells/identify-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)*,\
+      \ [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md)\n\n**2nd level\
+      \ (3 slots):** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md)\n\
+      \n**4th level (3 slots):** [Otiluke's Resilient Sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md),\
+      \ [fire shield](3-Mechanics/CLI/spells/fire-shield-xphb.md), [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md)*\n\
+      \n**5th level (3 slots):** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+      \ [scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)\n\
+      \n**6th level (1 slots):** [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md)\n\
+      \n**7th level (1 slots):** [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\
+      \n**8th level (1 slots):** [mind blank](3-Mechanics/CLI/spells/mind-blank-xphb.md)*\n\
+      \n**9th level (1 slots):** [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)\n\
       \n*Valtagar casts these spells on itself before combat."
     "name": "Spellcasting"
   - "desc": "Valtagar has advantage on saving throws against spells and other magical\
@@ -78,6 +92,6 @@ Archmages are exceedingly rare in duergar society, and Valtagar's gift for wizar
     "name": "Invisibility (Recharges after a Short or Long Rest)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/valtagar-steelshadow-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/valtagar-steelshadow-wdmm.webp"
 ```
 ^statblock

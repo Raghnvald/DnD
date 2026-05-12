@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/age/renaissance
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Renaissance Bullet"
 ---
 # Renaissance Bullet

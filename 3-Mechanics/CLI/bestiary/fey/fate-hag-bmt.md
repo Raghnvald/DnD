@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fate Hag
+- "Fate Hag"
 ---
-# [Fate Hag](3-Mechanics\CLI\bestiary\fey/fate-hag-bmt.md)
+# [Fate Hag](3-Mechanics/CLI/bestiary/fey/fate-hag-bmt.md)
 *Source: The Book of Many Things p. 176*  
 
 Fate hags are servants of destiny that mostly reside in the Feywild and Shadowfell or near crossings to those realms from the Material Plane. The aspects of fate to which a fate hag is most attuned depends on the plane where the hag dwells—hopeful and prosperous in the Feywild or dire and doomed in the Shadowfell.
@@ -63,9 +63,9 @@ Fate hags carry gleaming magical shears they use to snip strands of fate. These 
   - "desc": "The hag makes two Shears attacks. It can replace one attack with a use\
       \ of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) force damage. If the target is a creature, it has disadvantage on attack\
-      \ rolls until the end of the hag's next turn."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) force damage. If the target is a creature, it has disadvantage\
+      \ on attack rolls until the end of the hag's next turn."
     "name": "Shears"
   - "desc": "While holding its shears, the hag casts one of the following spells,\
       \ requiring no material components and using Wisdom as the spellcasting ability\
@@ -88,13 +88,13 @@ Fate hags carry gleaming magical shears they use to snip strands of fate. These 
       \ on this save if it has damaged the hag within the last minute. On a failed\
       \ save, the creature has disadvantage on ability checks, attack rolls, and saving\
       \ throws until the curse ends. Once per turn, when the cursed creature fails\
-      \ one of those d20 rolls, it takes 7 (2d6) force damage. The curse ends after\
-      \ 1 minute; when the creature succeeds on a total of three ability checks, attack\
-      \ rolls, or saving throws in any combination; or when the hag uses this action\
-      \ again."
+      \ one of those d20 rolls, it takes 7 (2d6) force damage. The curse ends\
+      \ after 1 minute; when the creature succeeds on a total of three ability checks,\
+      \ attack rolls, or saving throws in any combination; or when the hag uses this\
+      \ action again."
     "name": "Destiny Curse (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/fate-hag-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/fate-hag-bmt.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Dragon as Schemer; Cross-Purposes
+- "Dragon as Schemer; Cross-Purposes"
 ---
 # Dragon as Schemer; Cross-Purposes
 *Source: Fizban's Treasury of Dragons p. 56* 
 
 **Cross-Purposes**
-
-`dice: [](dragon-as-schemer-cross-purposes-ftd.md#^cross-purposes)`
 
 | dice: d6 | The Dragon's Schemes... |
 |----------|-------------------------|

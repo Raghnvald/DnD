@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightwalker
+- "Nightwalker"
 ---
-# [Nightwalker](3-Mechanics\CLI\bestiary\undead/nightwalker-mpmm.md)
+# [Nightwalker](3-Mechanics/CLI/bestiary/undead/nightwalker-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 194, Mordenkainen's Tome of Foes p. 216*  
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -47,13 +47,13 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "20"
 "traits":
@@ -62,7 +62,7 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
       \ Undead are immune to this aura."
     "name": "Annihilating Aura"
   - "desc": "A creature dies if reduced to 0 hit points by the nightwalker and can't\
-      \ be revived except by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell."
+      \ be revived except by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
     "name": "Life Eater"
   - "desc": "The nightwalker doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
@@ -70,24 +70,24 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
   - "desc": "The nightwalker makes two Enervating Focus attacks, one of which can\
       \ be replaced by Finger of Doom, if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 28\
-      \ (5d8 + 6) necrotic damage. The target must succeed on a DC 21 Constitution\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:*\
+      \ 28 (5d8 + 6) necrotic damage. The target must succeed on a DC 21 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ necrotic damage taken. This reduction lasts until the target finishes a long\
       \ rest. The target dies if its hit point maximum is reduced to 0."
     "name": "Enervating Focus"
   - "desc": "The nightwalker points at one creature it can see within 300 feet of\
       \ it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (6d12)\
-      \ necrotic damage and become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ until the end of the nightwalker's next turn. While [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ in this way, the creature is also [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed).\
+      \ necrotic damage and become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ until the end of the nightwalker's next turn. While [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ in this way, the creature is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed).\
       \ If a target's saving throw is successful, the target is immune to the nightwalker's\
       \ Finger of Doom for the next 24 hours."
     "name": "Finger of Doom (Recharge 6)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp"
 ```
 ^statblock
 

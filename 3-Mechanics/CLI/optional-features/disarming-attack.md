@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/mv-b
 aliases:
-- Disarming Attack
+- "Disarming Attack"
 ---
 # Disarming Attack
 *Source: Player's Handbook p. 74*  

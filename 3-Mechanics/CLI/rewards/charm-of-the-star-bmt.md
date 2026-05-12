@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/bmt
-- new/reward/charm
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/reward/charm
 aliases:
-- Charm of the Star
+- "Charm of the Star"
 ---
 # Charm of the Star
 

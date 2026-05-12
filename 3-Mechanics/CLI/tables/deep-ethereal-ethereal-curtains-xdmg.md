@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Deep Ethereal; Ethereal Curtains
+- "Deep Ethereal; Ethereal Curtains"
 ---
 # Deep Ethereal; Ethereal Curtains
 *Source: Dungeon Master's Guide (2024) p. 192* 
 
 **Ethereal Curtains**
-
-`dice: [](deep-ethereal-ethereal-curtains-xdmg.md#^ethereal-curtains)`
 
 | dice: 1d12 | Plane | Curtain Color |
 |------------|-------|---------------|

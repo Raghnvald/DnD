@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying Gnolls and Cultists of Yeenoghu
+- "Roleplaying Gnolls and Cultists of Yeenoghu"
 ---
 # Roleplaying Gnolls and Cultists of Yeenoghu
 *Source: Volo's Guide to Monsters p. 36* 
 
 **Gnoll/Cultist Physical Features**
-
-`dice: [](roleplaying-gnolls-and-cultists-of-yeenoghu.md#^gnoll-cultist-physical-features)`
 
 | dice: d12 | Physical Feature |
 |-----------|------------------|
@@ -32,8 +30,6 @@ aliases:
 
 **Gnoll/Cultist Personality Trait**
 
-`dice: [](roleplaying-gnolls-and-cultists-of-yeenoghu.md#^gnoll-cultist-personality-trait)`
-
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | Once an enemy defies me, I dedicate everything to its destruction. |
@@ -45,8 +41,6 @@ aliases:
 ^gnoll-cultist-personality-trait
 
 **Gnoll/Cultist Ideals**
-
-`dice: [](roleplaying-gnolls-and-cultists-of-yeenoghu.md#^gnoll-cultist-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -60,8 +54,6 @@ aliases:
 
 **Gnoll/Cultist Bonds**
 
-`dice: [](roleplaying-gnolls-and-cultists-of-yeenoghu.md#^gnoll-cultist-bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would die before betraying the Lord of Savagery. |
@@ -73,8 +65,6 @@ aliases:
 ^gnoll-cultist-bonds
 
 **Gnoll/Cultist Flaws**
-
-`dice: [](roleplaying-gnolls-and-cultists-of-yeenoghu.md#^gnoll-cultist-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/nature
-aliases: 
-- Obad-Hai
+aliases:
+- "Obad-Hai"
 ---
 # Obad-Hai
 *Source: Player's Handbook p. 295* 

@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/bugbear
 aliases:
-- Bugbear
+- "Bugbear"
 ---
 # Bugbear
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 8*  
-![](/3-Mechanics/CLI/races/img/bugbear.webp#right)
+![](3-Mechanics/CLI/races/img/bugbear.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: humanoid
@@ -29,7 +29,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition on yourself.
 
 ### Long-Limbed
 
@@ -41,11 +41,11 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the [Stealth](/3-Mechanics/CLI/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
+You are proficient in the [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
 
 ### Surprise Attack
 
-If you hit a creature with an attack roll, the creature takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage if it hasn't taken a turn yet in the current combat.
+If you hit a creature with an attack roll, the creature takes an extra `2d6` damage if it hasn't taken a turn yet in the current combat.
 
 ## Description
 

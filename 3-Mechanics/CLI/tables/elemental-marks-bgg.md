@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Elemental Marks
+- "Elemental Marks"
 ---
 # Elemental Marks
 *Source: Bigby Presents: Glory of the Giants p. 16* 
 
 **Elemental Marks**
-
-`dice: [](elemental-marks-bgg.md#^elemental-marks)`
 
 | dice: d6 | Mark |
 |----------|------|

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Wyrmreaver Gauntlets"
 ---
 # Wyrmreaver Gauntlets
@@ -16,7 +16,7 @@ aliases:
 
 Originally crafted for ground-bound giant brawlers to fight against dragons and other enormous predators of the sky, these studded gauntlets are engraved with the dragon rune.
 
-While you are wearing these gauntlets, your unarmed strike deals an additional `dice:1d6|noform|noparens|avg` (`1d6`) force damage on a hit. Additionally, whenever you finish a long rest, choose one of the following damage types: acid, cold, fire, lightning, or poison. You have resistance to the chosen damage type until you finish another long rest.
+While you are wearing these gauntlets, your unarmed strike deals an additional `1d6` force damage on a hit. Additionally, whenever you finish a long rest, choose one of the following damage types: acid, cold, fire, lightning, or poison. You have resistance to the chosen damage type until you finish another long rest.
 
 ## Invoking the Runes
 

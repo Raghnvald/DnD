@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/toa
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Chapter 3: Dwellers of the Forbidden City
+- "Chapter 3: Dwellers of the Forbidden City"
 ---
 # Chapter 3: Dwellers of the Forbidden City
 *Source: Tomb of Annihilation, p. 91* 
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/051-301.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/051-301.webp#center)
 
-Omu lies in a basin hidden in the depths of the rainforest, surrounded on all sides by sheer cliffs. The city is notoriously hard to find. Those who try must contend with miles of trackless jungle inhabited by natural predators, cannibals, and the remnants of [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)'s undead army. Even skilled guides have difficulty threading their way through.
+Omu lies in a basin hidden in the depths of the rainforest, surrounded on all sides by sheer cliffs. The city is notoriously hard to find. Those who try must contend with miles of trackless jungle inhabited by natural predators, cannibals, and the remnants of [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)'s undead army. Even skilled guides have difficulty threading their way through.
 
 To enter the Tomb of the Nine Gods, adventurers must tread cautiously, contend with the dwellers of the ruined city, and learn all they can about the nine trickster gods of Omu and their ancient rivalries.
 
@@ -35,14 +35,14 @@ When the characters see Omu for the first time, read:
 > A waterfall pours into the basin, creating a swollen river that floods much of the city before draining into a deep rift filled with molten lava. A ruined palace lies a few hundred feet from the edge of the steaming abyss.
 ^1da
 
-The cliffs surrounding Omu are 100–150 feet high and composed of crumbling rock. Thick jungle hugs the clifftops, with ferns, orchids, and moss spilling over the edges. Every 100 feet or so, a [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md) perches on the brink of the precipice. When a character gets a good look at one of these creatures, read:
+The cliffs surrounding Omu are 100–150 feet high and composed of crumbling rock. Thick jungle hugs the clifftops, with ferns, orchids, and moss spilling over the edges. Every 100 feet or so, a [gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) perches on the brink of the precipice. When a character gets a good look at one of these creatures, read:
 
 > [!readaloud] 
 > 
 > A vine-draped gargoyle perches on the clifftop, staring down at the ruined city. It has the face of a devil, with its mouth agape in a silent scream.
 ^1db
 
-The gargoyles attack anyone who flies over the city or tries to climb up or down the cliffs, but they ignore intruders who enter by the river or the ravine to the southwest. They serve [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) and take orders from his undead tomb custodian, [Withers](/3-Mechanics/CLI/bestiary/npc/withers-toa.md) (see chapter 5).
+The gargoyles attack anyone who flies over the city or tries to climb up or down the cliffs, but they ignore intruders who enter by the river or the ravine to the southwest. They serve [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) and take orders from his undead tomb custodian, [Withers](3-Mechanics/CLI/bestiary/npc/withers-toa.md) (see chapter 5).
 
 ### History of Omu
 
@@ -64,15 +64,15 @@ For nine decades, the city folk lived by the mantras of their trickster gods. Th
 
 #### Fall of Omu
 
-Omu's bloody trials drew the attention of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md), an archlich who wanders the cosmos in search of souls to harvest. [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md), who is fond of deathtraps, marveled at the trials concocted by the Omuans. They inspired him to create his own dungeon below the city.
+Omu's bloody trials drew the attention of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md), an archlich who wanders the cosmos in search of souls to harvest. [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md), who is fond of deathtraps, marveled at the trials concocted by the Omuans. They inspired him to create his own dungeon below the city.
 
-A little over a century ago, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) entered Omu and slew all nine trickster gods. He then enslaved the Omuans and forced them to carve out a tomb for their defeated gods. When the tomb was complete, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) murdered the Omuans and sealed them in the tomb with their false gods. The archlich resumed his odyssey across the planes, content that the dungeon would feed his phylactery with the souls of dead adventurers. The jungle reclaimed Omu, and it fell into ruin.
+A little over a century ago, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) entered Omu and slew all nine trickster gods. He then enslaved the Omuans and forced them to carve out a tomb for their defeated gods. When the tomb was complete, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) murdered the Omuans and sealed them in the tomb with their false gods. The archlich resumed his odyssey across the planes, content that the dungeon would feed his phylactery with the souls of dead adventurers. The jungle reclaimed Omu, and it fell into ruin.
 
 #### Rise of Ras Nsi
 
 Fifty years ago, a brood of yuan-ti from Hisari (see chapter 2) slithered into Omu and made it their new home. They built an underground temple beneath the old palace and patiently waited for their god, Dendar the Night Serpent, to come forth and swallow the world. Earthquakes shook Omu and cracked it open like a fig, causing the river to burst its banks. Chance spared the yuan-ti temple from destruction, but scores of yuan-ti died, including their leader (a yuan-ti abomination).
 
-The evil warlord [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md), who had raised an army of undead to wage war on the holy city of Mezro, only to suffer a terrible defeat, arrived in Omu shortly after the yuan-ti. [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) wormed his way into the yuan-ti's favor and underwent a ritual to transform into a malison. Before long, he became their ruler. Today, beneath the cracked and broken streets of Omu, [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) holds sway and plots to bring Dendar the Night Serpent into the world, sealing its doom.
+The evil warlord [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md), who had raised an army of undead to wage war on the holy city of Mezro, only to suffer a terrible defeat, arrived in Omu shortly after the yuan-ti. [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) wormed his way into the yuan-ti's favor and underwent a ritual to transform into a malison. Before long, he became their ruler. Today, beneath the cracked and broken streets of Omu, [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) holds sway and plots to bring Dendar the Night Serpent into the world, sealing its doom.
 
 ### Legend of the Nine Gods
 
@@ -96,17 +96,17 @@ Several factions dwell within Omu, including yuan-ti, grungs, vegepygmies, and k
 
 #### Yuan-ti
 
-Yuan-ti offer sacrifices to Dendar the Night Serpent in a sprawling underground temple beneath the ruins of Omu's royal palace (area 20); the temple is described in chapter 4. The yuan-ti guard the entrances to the city, patrol its streets, and send raiding parties into the surrounding jungle. [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) rules over them, but traitorous priests plot his downfall.
+Yuan-ti offer sacrifices to Dendar the Night Serpent in a sprawling underground temple beneath the ruins of Omu's royal palace (area 20); the temple is described in chapter 4. The yuan-ti guard the entrances to the city, patrol its streets, and send raiding parties into the surrounding jungle. [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) rules over them, but traitorous priests plot his downfall.
 
 ##### Salida's Treachery
 
-One of the guides presented in chapter 1 is [Salida](/3-Mechanics/CLI/bestiary/npc/salida-toa.md), a pureblood yuan-ti loyal to [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md). If [Salida](/3-Mechanics/CLI/bestiary/npc/salida-toa.md) escorts the characters into the city, she'll surreptitiously use her sending stone to contact [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) so that he can prepare an ambush. When night falls, [Salida](/3-Mechanics/CLI/bestiary/npc/salida-toa.md) uses a lantern to signal the yuan-ti attack. The attacking force consists of one type 3 [yuan-ti malison](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1.md) and two [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md) per party member. [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) is keen to capture the characters so he can question them about their mission.
+One of the guides presented in chapter 1 is [Salida](3-Mechanics/CLI/bestiary/npc/salida-toa.md), a pureblood yuan-ti loyal to [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md). If [Salida](3-Mechanics/CLI/bestiary/npc/salida-toa.md) escorts the characters into the city, she'll surreptitiously use her [sending stone](3-Mechanics/CLI/items/sending-stones-xdmg.md) to contact [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) so that he can prepare an ambush. When night falls, [Salida](3-Mechanics/CLI/bestiary/npc/salida-toa.md) uses a lantern to signal the yuan-ti attack. The attacking force consists of one type 3 [yuan-ti malison](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) and two [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) per party member. [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) is keen to capture the characters so he can question them about their mission.
 
 #### Grungs
 
-A small colony of grungs lives on the rooftops around Nangnang's shrine (area 18). [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) regularly mounts raids on them to thin their numbers.
+A small colony of grungs lives on the rooftops around Nangnang's shrine (area 18). [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) regularly mounts raids on them to thin their numbers.
 
-The grungs worship Nangnang and view her shrine as holy ground for their chieftain and his elite guards. [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md), the mad grung chieftain, craves vengeance against [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) but hasn't yet found a worthy attack plan.
+The grungs worship Nangnang and view her shrine as holy ground for their chieftain and his elite guards. [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md), the mad grung chieftain, craves vengeance against [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) but hasn't yet found a worthy attack plan.
 
 #### Vegepygmies
 
@@ -116,15 +116,15 @@ Omu contains several small tribes of vegepygmies. They clash over territory and 
 
 #### Kobolds
 
-Nine deadly shrines hold the secret to entering the Tomb of the Nine Gods. To maintain the shrines' traps, [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) recruited a tribe of kobolds to act as shrine menders. These creatures dwell in cellars beneath a ruined marketplace (area 15). [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has promised to transform their sorcerer, Kakarol, into a dragon if the kobolds keep their end of their bargain. Too impatient to wait for his ascension, Kakarol has taken to sleeping on a small hoard of treasure and insists his underlings address him as Great Wyrm. If the characters cut a deal with the kobolds, the sorcerer's greed is easily manipulated.
+Nine deadly shrines hold the secret to entering the Tomb of the Nine Gods. To maintain the shrines' traps, [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) recruited a tribe of kobolds to act as shrine menders. These creatures dwell in cellars beneath a ruined marketplace (area 15). [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) has promised to transform their sorcerer, Kakarol, into a dragon if the kobolds keep their end of their bargain. Too impatient to wait for his ascension, Kakarol has taken to sleeping on a small hoard of treasure and insists his underlings address him as Great Wyrm. If the characters cut a deal with the kobolds, the sorcerer's greed is easily manipulated.
 
-[Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) hasn't told the kobolds about his alliance with [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md). For their part, the yuan-ti are barely aware of the kobolds' existence.
+[Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) hasn't told the kobolds about his alliance with [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md). For their part, the yuan-ti are barely aware of the kobolds' existence.
 
 #### Red Wizards of Thay
 
-A group of Red Wizards entered the city a couple of days prior to the characters' arrival. They camped in the ruined compound at area 2, but [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)'s forces nearly wiped them out in a night raid. Those who survived the attack continue to search the ruins for the Soulmonger.
+A group of Red Wizards entered the city a couple of days prior to the characters' arrival. They camped in the ruined compound at area 2, but [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)'s forces nearly wiped them out in a night raid. Those who survived the attack continue to search the ruins for the Soulmonger.
 
-The survivors include four Red Wizards (LE male and female Thayan human [mages](/3-Mechanics/CLI/bestiary/humanoid/mage.md)) named Dyrax (male), Thazma (female), Yamoch (male), and Zagmira (female). Their red robes, shaved heads, and sallow complexions betray their allegiance to Thay. Eight mercenaries (LE male and female human [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md) of various ethnicities) escort the wizards. The highest ranking mage, Zagmira, appears just eighteen years old, yet one half of her face is wizened and old. This effect is a holdover from a terrible ritual she performed to inhabit the body of her own granddaughter. All four mages carry spellbooks that contain all their prepared spells.
+The survivors include four Red Wizards (LE male and female Thayan human [mages](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) named Dyrax (male), Thazma (female), Yamoch (male), and Zagmira (female). Their red robes, shaved heads, and sallow complexions betray their allegiance to Thay. Eight mercenaries (LE male and female human [thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) of various ethnicities) escort the wizards. The highest ranking mage, Zagmira, appears just eighteen years old, yet one half of her face is wizened and old. This effect is a holdover from a terrible ritual she performed to inhabit the body of her own granddaughter. All four mages carry spellbooks that contain all their prepared spells.
 
 Zagmira has seen the entrance to the Tomb of the Nine Gods (area 14) and believes the Soulmonger is held within. The Red Wizards have separated to find the puzzle cubes needed to unlock the tomb (see "Puzzle Cubes").
 
@@ -134,44 +134,44 @@ A man named Orvex (see area 2) serves the Red Wizards as a scribe and translator
 
 In the twilight of their lives, venerable tabaxi sometimes leave their families and venture into the jungle to claim a hunter's death. A divine being known as the Cat Lord leads the bravest to Omu, where they spend their final days hunting dinosaurs and other jungle beasts.
 
-Three elderly [tabaxi hunters](/3-Mechanics/CLI/bestiary/humanoid/tabaxi-hunter-toa.md) (see appendix D) stalk the city when the characters arrive. Their names are Hooded Lantern (male), [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) (male), and Copper Bell (female). The hunters know the city well, but care little for its history and keep clear of its shrines. They hunt alone and avoid contact with explorers. Rare weapons and hunting gear are the only items the characters could offer to gain their help.
+Three elderly [tabaxi hunters](3-Mechanics/CLI/bestiary/humanoid/tabaxi-hunter-toa.md) (see appendix D) stalk the city when the characters arrive. Their names are Hooded Lantern (male), [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) (male), and Copper Bell (female). The hunters know the city well, but care little for its history and keep clear of its shrines. They hunt alone and avoid contact with explorers. Rare weapons and hunting gear are the only items the characters could offer to gain their help.
 
-Hooded Lantern has graying black fur, and cataracts cloud his left eye. He is preparing himself for a glorious death fighting the great tyrannosaurus rex known as the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) (see area 13). Copper Bell has speckled ginger fur and wears a torn blue cloth over her bony shoulders—the blanket used to comfort her cubs when they were infants. She retains much of her inquisitiveness and wry humor. [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) has gone mad and is described in area 7.
+Hooded Lantern has graying black fur, and cataracts cloud his left eye. He is preparing himself for a glorious death fighting the great tyrannosaurus rex known as the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) (see area 13). Copper Bell has speckled ginger fur and wears a torn blue cloth over her bony shoulders—the blanket used to comfort her cubs when they were infants. She retains much of her inquisitiveness and wry humor. [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) has gone mad and is described in area 7.
 
 > [!note] Old Omuan
 > 
-> The Omuans wrote in Old Omuan, a cuneiform script that bears little resemblance to any other alphabet. A character with the cloistered scholar or sage background can translate an inscription written in Old Omuan with a successful DC 10 Intelligence (History) check, while a warlock with the Eyes of the Rune Keeper invocation can translate Old Omuan script without a check. If the characters recover the "queen's decree" from the chwinga cart at area 11, they can use it to decode inscriptions written in Old Omuan. Without the queen's decree or a character with the appropriate background, the characters can translate Old Omuan writing only by using a comprehend languages spell or similar magic.
+> The Omuans wrote in Old Omuan, a cuneiform script that bears little resemblance to any other alphabet. A character with the cloistered scholar or sage background can translate an inscription written in Old Omuan with a successful DC 10 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check, while a warlock with the Eyes of the Rune Keeper invocation can translate Old Omuan script without a check. If the characters recover the "queen's decree" from the chwinga cart at area 11, they can use it to decode inscriptions written in Old Omuan. Without the queen's decree or a character with the appropriate background, the characters can translate Old Omuan writing only by using a [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md) spell or similar magic.
 ^old-omuan
 
 ### Puzzle Cubes
 
-To unlock the Tomb of the Nine Gods, the characters must first recover nine puzzle cubes from shrines hidden throughout the city. The Red Wizards are already searching for the cubes, and [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) does what he must to prevent the Red Wizards or the characters from obtaining all of them.
+To unlock the Tomb of the Nine Gods, the characters must first recover nine puzzle cubes from shrines hidden throughout the city. The Red Wizards are already searching for the cubes, and [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) does what he must to prevent the Red Wizards or the characters from obtaining all of them.
 
-A puzzle cube is a stone cube 3 inches on a side and engraved with images of a specific trickster god. Each cube weighs half a pound. A detect magic spell or similar effect reveals an aura of abjuration magic around each cube.
+A puzzle cube is a stone cube 3 inches on a side and engraved with images of a specific trickster god. Each cube weighs half a pound. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of abjuration magic around each cube.
 
 The puzzle cubes can't be destroyed by any means. If they're discarded, buried, or taken more than a mile outside Omu, they teleport back to their resting places inside their respective shrines. If the characters return to a previously cleared shrine, there's a cumulative 20 percent chance per day that kobolds have reset its traps.
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/052-302.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/052-302.webp#center)
 
 #### Learning of the Shrines
 
-A few clues can point the players toward the shrines, including a lost journal found at a campsite (area 9). Characters can also discover the shrines on their own or learn about them from [Orvex Ocrammas](/3-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md) (area 2).
+A few clues can point the players toward the shrines, including a lost journal found at a campsite (area 9). Characters can also discover the shrines on their own or learn about them from [Orvex Ocrammas](3-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md) (area 2).
 
 #### Race for the Puzzle Cubes
 
-The characters need not explore all nine shrines. The Red Wizards find at least two of the puzzle cubes, and [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) always steps in to claim the final cube. Things play out differently if the players find a way to foil their enemies' plans—by killing them, for example.
+The characters need not explore all nine shrines. The Red Wizards find at least two of the puzzle cubes, and [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) always steps in to claim the final cube. Things play out differently if the players find a way to foil their enemies' plans—by killing them, for example.
 
 On the day the characters claim their first puzzle cube, the Red Wizards clear a separate shrine within the city. While the Red Wizards remain active, there's a cumulative 25 percent chance per day that they claim another puzzle cube from a random shrine. If the players arrive at a cleared shrine, they discover a scene of devastation: traps sprung, monsters slain, and the cube missing.
 
-Once five puzzle cubes have been taken from their shrines, [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) begins to set ambushes. When the characters arrive at their next shrine, three type 1 [yuan-ti malisons](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1.md) and six [yuan-ti purebloods](/3-Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md) ambush them. Their orders are to capture characters and bring them to the Fane of the Night Serpent for interrogation.
+Once five puzzle cubes have been taken from their shrines, [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) begins to set ambushes. When the characters arrive at their next shrine, three type 1 [yuan-ti malisons](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) and six [yuan-ti purebloods](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) ambush them. Their orders are to capture characters and bring them to the Fane of the Night Serpent for interrogation.
 
-Once eight puzzle cubes have been claimed, [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) steals the ninth cube for himself and leaves an obvious trail leading pursuers to the main entrance of his underground temple (see area 20A). The characters must infiltrate the temple and either take the puzzle cube by force or convince [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) to part with it. For more information on the temple and its inhabitants, see chapter 4.
+Once eight puzzle cubes have been claimed, [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) steals the ninth cube for himself and leaves an obvious trail leading pursuers to the main entrance of his underground temple (see area 20A). The characters must infiltrate the temple and either take the puzzle cube by force or convince [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md) to part with it. For more information on the temple and its inhabitants, see chapter 4.
 
 #### An Uneasy Alliance
 
 The characters could form an alliance with the Red Wizards to recover the puzzle cube taken by the yuan-ti. If an accord is reached, Zagmira reveals that she has a spy in the yuan-ti temple: a yuan-ti pureblood named Ishmakahl (pronounced ISH-mah-kawl). Zagmira doesn't reveal that this spy is a doppelganger.
 
-Zagmira encourages human characters to infiltrate the yuan-ti temple disguised as purebloods, with nonhuman characters posing as their slaves. If no human characters are present, Zagmira is willing to spend a 5th-level spell slot to cast invisibility on up to four party members. If the characters recover the puzzle cube taken by [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md), the Red Wizards turn against the characters and try to claim all the puzzle cubes for themselves once the characters emerge from the yuan-ti temple. If [Artus Cimber](/3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) is with the party, the Red Wizards also try to take the [Ring of Winter](/3-Mechanics/CLI/items/ring-of-winter-toa.md) from him.
+Zagmira encourages human characters to infiltrate the yuan-ti temple disguised as purebloods, with nonhuman characters posing as their slaves. If no human characters are present, Zagmira is willing to spend a 5th-level spell slot to cast [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) on up to four party members. If the characters recover the puzzle cube taken by [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md), the Red Wizards turn against the characters and try to claim all the puzzle cubes for themselves once the characters emerge from the yuan-ti temple. If [Artus Cimber](3-Mechanics/CLI/bestiary/npc/artus-cimber-toa.md) is with the party, the Red Wizards also try to take the [Ring of Winter](3-Mechanics/CLI/items/ring-of-winter-toa.md) from him.
 
 If the Red Wizards obtain all nine puzzle cubes, they use them to enter the Tomb of the Nine Gods and, one by one, fall prey to the tomb's insidious traps.
 
@@ -182,8 +182,6 @@ The city basin is densely packed with ruined villas and overgrown courtyards. Bu
 Cautious characters can move through the city at a rate of 200 feet every 5 minutes. Even if they throw caution to the wind, the density of the undergrowth makes it tricky to move faster than 200 feet per minute. If the characters stop to search for treasure, each building takes 30 minutes to clear. Whenever the party searches a ruined building, roll percentile dice and consult the Ruin Interior table to see what, if anything, the building contains.
 
 #### Ruin Interior
-
-`dice: [](04-chapter-3-dwellers-of-the-forbidden-city.md#^ruin-contents)`
 
 | dice: d100 | Ruin Contents |
 |------------|---------------|
@@ -199,7 +197,7 @@ Cautious characters can move through the city at a rate of 200 feet every 5 minu
 
 #### Assassin Vines
 
-This ruin is choked with vines, lurking among which are `dice:1d3|noform|noparens|avg` (`1d3`) [assassin vines](/3-Mechanics/CLI/bestiary/plant/assassin-vine-toa.md) (see appendix D).
+This ruin is choked with vines, lurking among which are `1d3` [assassin vines](3-Mechanics/CLI/bestiary/plant/assassin-vine-toa.md) (see appendix D).
 
 #### Collapsing Floor
 
@@ -211,42 +209,38 @@ A thin, odorless blue mist lingers inside the ruin. Characters who enter the bui
 
 #### Nest
 
-Vermin have made a nest in the building. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Nest Occupants table to determine the nest's inhabitants. Any character damaged by a giant wasp must succeed on a DC 11 Constitution saving throw at the end of the encounter or become infected with shivering sickness (see "Diseases").
+Vermin have made a nest in the building. Roll a `d6` and consult the Nest Occupants table to determine the nest's inhabitants. Any character damaged by a giant wasp must succeed on a DC 11 Constitution saving throw at the end of the encounter or become infected with shivering sickness (see "Diseases").
 
 #### Nest Occupants
 
-`dice: [](04-chapter-3-dwellers-of-the-forbidden-city.md#^creatures)`
-
 | dice: d6 | Creatures |
 |----------|-----------|
-| 1–2 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [giant wasps](/3-Mechanics/CLI/bestiary/beast/giant-wasp.md) |
-| 3–4 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [stirges](/3-Mechanics/CLI/bestiary/beast/stirge.md) |
-| 5–6 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [swarms of poisonous snakes](/3-Mechanics/CLI/bestiary/beast/swarm-of-poisonous-snakes.md) |
+| 1–2 | `1d6` [giant wasps](3-Mechanics/CLI/bestiary/beast/giant-wasp-xmm.md) |
+| 3–4 | `2d6` [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
+| 5–6 | `1d3` [swarms of poisonous snakes](3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md) |
 ^creatures
 
 #### Plant Discovery
 
-The ruin contains one or more rare plants, determined by rolling a `dice:d6|noform|noparens|avg` (`d6`) and consulting the Plant Discovery table. These plants are described in appendix C.
-
-`dice: [](04-chapter-3-dwellers-of-the-forbidden-city.md#^plant)`
+The ruin contains one or more rare plants, determined by rolling a `d6` and consulting the Plant Discovery table. These plants are described in appendix C.
 
 | dice: d6 | Plant |
 |----------|-------|
-| 1 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [dancing monkey fruit](/3-Mechanics/CLI/items/dancing-monkey-fruit-toa.md) hanging from a tree |
-| 2 | Menga bush with `dice:1d6\|noform\|noparens\|avg` (`1d6`) [ounces of leaves](/3-Mechanics/CLI/items/menga-leaves-1-ounce-toa.md) |
-| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [ryath roots](/3-Mechanics/CLI/items/ryath-root-toa.md) growing in the ground |
-| 4 | `dice:4d6\|noform\|noparens\|avg` (`4d6`) [sinda berries](/3-Mechanics/CLI/items/sinda-berries-10-toa.md) growing on a bush |
-| 5 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [wildroots](/3-Mechanics/CLI/items/wildroot-toa.md) |
-| 6 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [zabou](/3-Mechanics/CLI/items/zabou-toa.md) growing on the floor |
+| 1 | `2d6` [dancing monkey fruit](3-Mechanics/CLI/items/dancing-monkey-fruit-toa.md) hanging from a tree |
+| 2 | Menga bush with `1d6` [ounces of leaves](3-Mechanics/CLI/items/menga-leaves-1-ounce-toa.md) |
+| 3 | `1d6` [ryath roots](3-Mechanics/CLI/items/ryath-root-toa.md) growing in the ground |
+| 4 | `4d6` [sinda berries](3-Mechanics/CLI/items/sinda-berries-10-toa.md) growing on a bush |
+| 5 | `1d6` [wildroots](3-Mechanics/CLI/items/wildroot-toa.md) |
+| 6 | `2d6` [zabou](3-Mechanics/CLI/items/zabou-toa.md) growing on the floor |
 ^plant
 
 #### Treasure
 
-The ruin contains `dice:1d6|noform|noparens|avg` (`1d6`) Omuan art objects (jade rings, painted pottery, silver-inlaid wooden statuettes of trickster gods, crystal vases, and so forth). Each art object is worth 25 gp.
+The ruin contains `1d6` Omuan art objects (jade rings, painted pottery, silver-inlaid wooden statuettes of trickster gods, crystal vases, and so forth). Each art object is worth 25 gp.
 
 #### Vegepygmies
 
-Hiding in the ruin are `dice:1d4|noform|noparens|avg` (`1d4`) [vegepygmies](/3-Mechanics/CLI/bestiary/plant/vegepygmy-vgm.md) (see appendix D). They are not in a fighting mood and cower from interlopers. If attacked, they flee through cracks in the walls and attempt to hide in the surrounding marsh.
+Hiding in the ruin are `1d4` [vegepygmies](3-Mechanics/CLI/bestiary/plant/vegepygmy-mpmm.md) (see appendix D). They are not in a fighting mood and cower from interlopers. If attacked, they flee through cracks in the walls and attempt to hide in the surrounding marsh.
 
 ### Random Encounters in Omu
 
@@ -257,8 +251,8 @@ Adventurers are likely to have one or more random encounters as they explore Omu
 The following descriptions correspond to areas marked on maps 3.1 and 3.2.
 
 > [!gallery]
-> ![Map 3.1: Omu](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/053-304.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/054-304a.webp#gallery)
+> ![Map 3.1: Omu](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/053-304.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/054-304a.webp#gallery)
 
 ### 1. City Entrance
 
@@ -278,7 +272,7 @@ The graffiti (written in Common) provides hints about the challenges that await:
 
 > [!note] 
 > 
-> "Fear the fangs of [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)!"
+> "Fear the fangs of [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)!"
 > 
 > "Erik, I've gone in search of the nine shrines. V."
 > 
@@ -288,7 +282,7 @@ The graffiti (written in Common) provides hints about the challenges that await:
 > 
 > "Who is Unkh?"
 > 
-> "All hail the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md)!"
+> "All hail the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md)!"
 > 
 > "The snakes are not what they seem."
 > 
@@ -297,7 +291,7 @@ The graffiti (written in Common) provides hints about the challenges that await:
 
 #### Ras Nsi's Scouts
 
-Five [yuan-ti malisons](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1.md) watch this entrance to the city from a small cave carved into the cliffside. A narrow goat track zigzags up the cliff to their hideout.
+Five [yuan-ti malisons](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) watch this entrance to the city from a small cave carved into the cliffside. A narrow goat track zigzags up the cliff to their hideout.
 
 The group consists of two type 1 malisons, two type 2 malisons, and one type 3 malison. They follow the characters into Omu and shadow them through the streets. Their goal is to ambush the characters and capture at least one of them. If they remain out of sight, the yuan-ti launch their attack when the characters try to take their first long or short rest in the city.
 
@@ -312,7 +306,7 @@ The type 3 malison's longbow is painted and carved like a serpent with tiny ambe
 > Smoke drifts lazily from a walled compound. The gate lies in splinters, and scorch marks deface the buildings. Near the center of the compound is a plaza littered with charred human corpses. One of the corpses is being torn apart by a pack of wild dogs.
 ^202
 
-The Red Wizards seized this compound as their base of operations in Omu, but yuan-ti attacked and nearly wiped them out. Thirty corpses are scattered across the compound—the remains of three Red Wizards, twenty human mercenaries, and seven bearers hired in Port Nyanzaru. The yuan-ti looted all the supplies they found and stole their enemies' weapons. Six wild dogs (use [jackal](/3-Mechanics/CLI/bestiary/beast/jackal.md) statistics) feed on one of the Red Wizards. The dogs pose no threat if the characters keep their distance.
+The Red Wizards seized this compound as their base of operations in Omu, but yuan-ti attacked and nearly wiped them out. Thirty corpses are scattered across the compound—the remains of three Red Wizards, twenty human mercenaries, and seven bearers hired in Port Nyanzaru. The yuan-ti looted all the supplies they found and stole their enemies' weapons. Six wild dogs (use [jackal](3-Mechanics/CLI/bestiary/beast/jackal-xmm.md) statistics) feed on one of the Red Wizards. The dogs pose no threat if the characters keep their distance.
 
 #### Spirit Pole
 
@@ -323,18 +317,18 @@ The yuan-ti burned their dead comrades and arranged their bones into a spirit po
 > A glaive has been thrust into remains of a burned-out pyre. Charred snake skulls and blackened inhuman vertebrae are lashed to the spear. On a wall nearby, a symbol has been daubed in ash: a snake curled in a spiral, gripping a circle in its jaws.
 ^204
 
-With a successful DC 15 Intelligence (Religion) check, a character recognizes the sigil on the wall as the symbol of Dendar the Night Serpent devouring the world.
+With a successful DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check, a character recognizes the sigil on the wall as the symbol of Dendar the Night Serpent devouring the world.
 
 #### Orvex Ocrammas
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/055-303.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/055-303.webp#center)
 
-During the attack, an explosion buried a member of the Red Wizards' expedition under a fallen section of wall. [Orvex](/3-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md) is dying of thirst and exhaustion. As characters search the compound, they hear him calling out for help from under the rubble. If the characters free Orvex, he begs to join their band until he finds sanctuary.
+During the attack, an explosion buried a member of the Red Wizards' expedition under a fallen section of wall. [Orvex](3-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md) is dying of thirst and [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). As characters search the compound, they hear him calling out for help from under the rubble. If the characters free Orvex, he begs to join their band until he finds sanctuary.
 
-Orvex serves as scribe and translator for the Red Wizards. He's a pragmatic, balding human in his early forties who serves the Red Wizards because, as he puts it, they pay well. [Orvex](/3-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md) has the statistics of a [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md), with these changes:
+Orvex serves as scribe and translator for the Red Wizards. He's a pragmatic, balding human in his early forties who serves the Red Wizards because, as he puts it, they pay well. [Orvex](3-Mechanics/CLI/bestiary/npc/orvex-ocrammas-toa.md) has the statistics of a [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), with these changes:
 
 - Orvex is neutral.  
-- He has 3 hit points remaining and 3 levels of exhaustion (see appendix A of the *Player's Handbook* for exhaustion effects).  
+- He has 3 hit points remaining and 3 levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) (see [appendix A](3-Mechanics/CLI/rules/conditions.md#Exhaustion) of the *Player's Handbook* for [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) effects).  
 - He speaks Common and Grung.  
 
 If the characters befriend Orvex, he can help them forge a truce with any surviving Red Wizards. Orvex can translate Old Omuan, and his studies of Omu's carvings taught him the legend of the nine trickster gods (see "Legend of the Nine Gods"), which Orvex is happy to recount once he's fully healed and rested.
@@ -348,13 +342,13 @@ Despite the obvious risks, Orvex looks forward to exploring more of the city and
 > A rectangular pool of murky water stretches before this vine-draped shrine. Rope bridges that once spanned the water float on the surface, tangled with other debris. The shards of a toppled monolith form stepping stones to the middle of the pool, where a statue of a stone frog rises above the water.
 ^207
 
-The shrine to the trickster god Kubazan (represented as a [froghemoth](/3-Mechanics/CLI/bestiary/monstrosity/froghemoth-vgm.md)) contains one of nine puzzle cubes needed to enter the Tomb of the Nine Gods.
+The shrine to the trickster god Kubazan (represented as a [froghemoth](3-Mechanics/CLI/bestiary/monstrosity/froghemoth-mpmm.md)) contains one of nine puzzle cubes needed to enter the Tomb of the Nine Gods.
 
 #### 3A. Froghemoth Pool
 
-This pool is 6 feet deep and clouded with mud and algae. A character who succeeds on a DC 14 Wisdom (Perception) check spots the eyestalk of a [froghemoth](/3-Mechanics/CLI/bestiary/monstrosity/froghemoth-vgm.md) (see appendix D) sticking out of the pool. The froghemoth attacks anyone who disturbs the water or tries to reach the shrine, heaving itself from the pool to pursue prey.
+This pool is 6 feet deep and clouded with mud and algae. A character who succeeds on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots the eyestalk of a [froghemoth](3-Mechanics/CLI/bestiary/monstrosity/froghemoth-mpmm.md) (see appendix D) sticking out of the pool. The froghemoth attacks anyone who disturbs the water or tries to reach the shrine, heaving itself from the pool to pursue prey.
 
-The shattered monolith is slippery with moss, and the rotted rope bridges sink as soon as anyone steps on them. Any character who jumps across the stepping stones must succeed on a DC 10 Dexterity (Acrobatics) check to keep from falling in the pool.
+The shattered monolith is slippery with moss, and the rotted rope bridges sink as soon as anyone steps on them. Any character who jumps across the stepping stones must succeed on a DC 10 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check to keep from falling in the pool.
 
 ##### Stone Key
 
@@ -364,7 +358,7 @@ A character who examines the mouth of the frog statue spots a stone key set into
 
 Carved into the lintel above this locked gate is an inscription written in Old Omuan: "Kubazan urges us to tread without fear and to give back as much as we take." A character who heeds the words gains some insight into the trial that awaits in area 3C.
 
-To pick the lock, a character with thieves' tools must succeed on a DC 20 Dexterity check. Whether the check succeeds or fails, a glyph of warding spell targets the character with a fear spell (save DC 15). The glyph doesn't trigger if the door is unlocked using the stone key from the froghemoth pool (area 3A).
+To pick the lock, a character with [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md) must succeed on a DC 20 Dexterity check. Whether the check succeeds or fails, a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell targets the character with a [fear](3-Mechanics/CLI/spells/fear-xphb.md) spell (save DC 15). The glyph doesn't trigger if the door is unlocked using the stone key from the froghemoth pool (area 3A).
 
 #### 3C. Chamber of Bravery
 
@@ -373,25 +367,25 @@ To pick the lock, a character with thieves' tools must succeed on a DC 20 Dexter
 > Steps descend to a ledge overlooking a pit of sharpened stakes. An alcove on the far wall holds a pedestal with a stone cube resting on it. A relief carved into the back of the alcove shows a monstrous frog with tentacles fighting a crane. Wooden beams radiate from the walls at floor height, with four-foot gaps between them. Carved frog heads extrude from the walls above the beams.
 ^20c
 
-The wall relief shows Kubazan (a [froghemoth](/3-Mechanics/CLI/bestiary/monstrosity/froghemoth-vgm.md)) fighting Papazotl (an [eblis](/3-Mechanics/CLI/bestiary/monstrosity/eblis-toa.md)). An inscription written in Old Omuan tells how Kubazan earned his tentacles from the god Ubtao (see "Legend of the Nine Gods").
+The wall relief shows Kubazan (a [froghemoth](3-Mechanics/CLI/bestiary/monstrosity/froghemoth-mpmm.md)) fighting Papazotl (an [eblis](3-Mechanics/CLI/bestiary/monstrosity/eblis-toa.md)). An inscription written in Old Omuan tells how Kubazan earned his tentacles from the god Ubtao (see "Legend of the Nine Gods").
 
 ##### Spiked Pit
 
-The pit is 30 feet deep. A creature that falls into the pit takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage from the fall and must make a DC 12 Dexterity saving throw. On a failed save, `dice:1d4|noform|noparens|avg` (`1d4`) stakes impale the creature for an additional `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage per stake.
+The pit is 30 feet deep. A creature that falls into the pit takes 10 (`3d6`) bludgeoning damage from the fall and must make a DC 12 Dexterity saving throw. On a failed save, `1d4` stakes impale the creature for an additional `1d6` piercing damage per stake.
 
 ##### Wooden Beams
 
-A creature can move around the perimeter of the room by hopping from beam to beam. To hop onto a beam without falling, a creature must succeed on a Dexterity (Acrobatics) check, the DC of which is 5 + the distance (in feet) between the two beams. When weight is applied to and lifted from a beam, it retracts and becomes flush with the wall, preventing it from being used again. The beams reset to their original positions after all of them have retracted into the walls.
+A creature can move around the perimeter of the room by hopping from beam to beam. To hop onto a beam without falling, a creature must succeed on a Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check, the DC of which is 5 + the distance (in feet) between the two beams. When weight is applied to and lifted from a beam, it retracts and becomes flush with the wall, preventing it from being used again. The beams reset to their original positions after all of them have retracted into the walls.
 
 ##### Puzzle Cube
 
 If Kubazan's puzzle cube is removed from its pedestal, the gate in area 3B slams shut and locks. Checks made to pick the gate lock from within the shrine have disadvantage. At the same time, the carved frog heads on the walls open their mouths, belch forth enough poisonous gas to fill the shrine, and then close their mouths. Placing an object of equal weight to the puzzle cube (half a pound) on the pedestal prevents the gate closure and the release of gas.
 
-The gas fills the shrine for 1 minute, then dissipates. Any creature that starts its turn inside the shrine while the gas is present must succeed on a DC 12 Constitution saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) poison damage. Creatures are affected even if they hold their breath or don't need to breathe.
+The gas fills the shrine for 1 minute, then dissipates. Any creature that starts its turn inside the shrine while the gas is present must succeed on a DC 12 Constitution saving throw or take 10 (`3d6`) poison damage. Creatures are affected even if they hold their breath or don't need to breathe.
 
 > [!gallery]
-> ![Map 3.2: Nine Shrines of Omu](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/056-305.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/057-305a.webp#gallery)
+> ![Map 3.2: Nine Shrines of Omu](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/056-305.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/057-305a.webp#gallery)
 
 ### 4. Shagambi's Shrine
 
@@ -400,9 +394,9 @@ The gas fills the shrine for 1 minute, then dissipates. Any creature that starts
 > A ruined shrine stands at the heart of this walled compound. Tall monoliths flank the entrance, decorated with images of a jaguar with six snakes sprouting from its shoulders. A stone door is set into the shrine beyond.
 ^211
 
-The shrine to the trickster god Shagambi (represented as a [kamadan](/3-Mechanics/CLI/bestiary/monstrosity/kamadan-toa.md)) contains one of nine puzzle cubes needed to enter the Tomb of the Nine Gods.
+The shrine to the trickster god Shagambi (represented as a [kamadan](3-Mechanics/CLI/bestiary/monstrosity/kamadan-toa.md)) contains one of nine puzzle cubes needed to enter the Tomb of the Nine Gods.
 
-Two mated [kamadans](/3-Mechanics/CLI/bestiary/monstrosity/kamadan-toa.md) (see appendix D) use a cart at the back of the shrine as their lair. If they hear intruders approaching the shrine, the kamadans try to ambush them. The kamadans fight tooth and claw to protect their three young cubs. Kamadan cubs are noncombatants that look like baby leopards and grow to adult size within a year. The cubs' snakes won't sprout from their shoulders for another 6 months. Characters can capture the cubs and spend months trying to domesticate them, but the kamadans turn on their would-be masters once they reach adulthood in a year.
+Two mated [kamadans](3-Mechanics/CLI/bestiary/monstrosity/kamadan-toa.md) (see appendix D) use a cart at the back of the shrine as their lair. If they hear intruders approaching the shrine, the kamadans try to ambush them. The kamadans fight tooth and claw to protect their three young cubs. Kamadan cubs are noncombatants that look like baby leopards and grow to adult size within a year. The cubs' snakes won't sprout from their shoulders for another 6 months. Characters can capture the cubs and spend months trying to domesticate them, but the kamadans turn on their would-be masters once they reach adulthood in a year.
 
 #### 4A. Shrine Entrance
 
@@ -421,11 +415,11 @@ When one or more characters enter the shrine, read:
 
 The statues can't be moved from their alcoves, and they are impervious to damage and spells. The tunnel in the north wall slopes down to the bottom of the gladiatorial pit (area 4D) and leads to a cellblock beyond (area 4C).
 
-The wall relief depicts Shagambi (a kamadan) fighting Nangnang (a grung). Just below, an inscription written in Old Omuan tells the story of how Nangnang stole Shagambi's spear (see "Legend of the Nine Gods"). With a successful DC 15 Wisdom (Perception) check, a character notices tiny holes in the relief. Stuffing the holes with cloth or wax prevents the poison gas from penetrating through when the pedestal is disturbed (see below).
+The wall relief depicts Shagambi (a kamadan) fighting Nangnang (a grung). Just below, an inscription written in Old Omuan tells the story of how Nangnang stole Shagambi's spear (see "Legend of the Nine Gods"). With a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, a character notices tiny holes in the relief. Stuffing the holes with cloth or wax prevents the poison gas from penetrating through when the pedestal is disturbed (see below).
 
 ##### Pedestal
 
-The pedestal is a 4-foot-high stone cylinder that is impervious to damage and spells. Close inspection reveals a stone hatch in the top of it. Any physical attempt to force open the hatch releases a cloud of gas through the holes in the wall relief. The gas fills a 15-foot cube directly in front of the mural. Creatures in the area must make a DC 12 Constitution saving throw, taking `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) poison damage on a failed saving throw, or half as much damage on a successful one. The gas affects a creature even if it holds its breath or doesn't need to breathe. The gas doesn't linger.
+The pedestal is a 4-foot-high stone cylinder that is impervious to damage and spells. Close inspection reveals a stone hatch in the top of it. Any physical attempt to force open the hatch releases a cloud of gas through the holes in the wall relief. The gas fills a 15-foot cube directly in front of the mural. Creatures in the area must make a DC 12 Constitution saving throw, taking 14 (`4d6`) poison damage on a failed saving throw, or half as much damage on a successful one. The gas affects a creature even if it holds its breath or doesn't need to breathe. The gas doesn't linger.
 
 ##### Puzzle Cube
 
@@ -440,15 +434,15 @@ Once it rises up out of the pedestal, Shagambi's puzzle cube can be safely remov
 
 #### 4C. Gladiator Cells
 
-This hallway contains four cramped cells behind iron portcullises. The portcullises are locked in place and can be raised only with a knock spell or by stepping on the pressure plate in area 4D. Each cell contains a [Chultan gladiator](/3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md) made of painted clay. Each gladiator is a golem-like creature with a bronze spear in one hand and a wooden shield in the other. It has the statistics of a [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md), with these changes:
+This hallway contains four cramped cells behind iron portcullises. The portcullises are locked in place and can be raised only with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or by stepping on the pressure plate in area 4D. Each cell contains a [Chultan gladiator](3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md) made of painted clay. Each gladiator is a golem-like creature with a bronze spear in one hand and a wooden shield in the other. It has the statistics of a [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), with these changes:
 
-- The [clay gladiator](/3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md) is an unaligned construct with an Armor Class of 17 (natural, shield).  
+- The [clay gladiator](3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md) is an unaligned construct with an Armor Class of 17 (natural, shield).  
 - It has a climbing speed of 30 feet and can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
-- It is immune to poison damage as well as the charmed, frightened, and poisoned conditions. It doesn't need to eat, drink, sleep, or breathe.  
+- It is immune to poison damage as well as the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), and [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) conditions. It doesn't need to eat, drink, sleep, or breathe.  
 - It doesn't speak.  
 - It can't make ranged attacks, and it can't be disarmed.  
 
-A [clay gladiator](/3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md) fights if attacked or when called to the gladiatorial pit (area 4D). If reduced to 0 hit points outside of the gladiatorial pit, the gladiator disappears along with its possessions, reappears in its cell at full health with spear and shield in hand, and returns to the gladiatorial pit if it can. If defeated in the gladiatorial pit, the gladiator leaves its spear behind before reforming in its cell. The spear can then be taken back to area 4B. If taken from the shrine, the spear disappears and reappears in the gladiator's hand.
+A [clay gladiator](3-Mechanics/CLI/bestiary/construct/clay-gladiator-toa.md) fights if attacked or when called to the gladiatorial pit (area 4D). If reduced to 0 hit points outside of the gladiatorial pit, the gladiator disappears along with its possessions, reappears in its cell at full health with spear and shield in hand, and returns to the gladiatorial pit if it can. If defeated in the gladiatorial pit, the gladiator leaves its spear behind before reforming in its cell. The spear can then be taken back to area 4B. If taken from the shrine, the spear disappears and reappears in the gladiator's hand.
 
 The gladiators can go anywhere in the shrine but can't leave it. When the shrine has no other creatures inside it, the gladiators return to their cells, and the portcullises drop behind them.
 
@@ -465,13 +459,13 @@ Six-foot-high archways stand opposite one another at the bottom of the pit, the 
 > Tumbledown ruins cling to the lip of a rift overlooking a lake of bubbling lava.
 ^21b
 
-A creature that falls from the top of the cliff into the lava takes `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) bludgeoning damage from the fall and `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) fire damage from the lava. A creature that starts its turn in the lava takes the fire damage again.
+A creature that falls from the top of the cliff into the lava takes 70 (`20d6`) bludgeoning damage from the fall and 55 (`10d10`) fire damage from the lava. A creature that starts its turn in the lava takes the fire damage again.
 
 #### Sacrifice of Fire
 
-The first time the characters arrive, they encounter a small vegepygmy tribe preparing to sacrifice a [grung](/3-Mechanics/CLI/bestiary/humanoid/grung-vgm.md) (see appendix D) to the rift. The grung, Imbok, is bound with vines and restrained. As the grung struggles, the vegepygmies encircle him and perform a strange, ritualistic dance. Unless the characters intervene, the vegepygmies roll their captive off the edge of the cliff. A couple of vegepygmies leap off after him, caught in the throes of devotion.
+The first time the characters arrive, they encounter a small vegepygmy tribe preparing to sacrifice a [grung](3-Mechanics/CLI/bestiary/humanoid/grung-mpmm.md) (see appendix D) to the rift. The grung, Imbok, is bound with vines and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). As the grung struggles, the vegepygmies encircle him and perform a strange, ritualistic dance. Unless the characters intervene, the vegepygmies roll their captive off the edge of the cliff. A couple of vegepygmies leap off after him, caught in the throes of devotion.
 
-The tribe consists of one [vegepygmy chief](/3-Mechanics/CLI/bestiary/plant/vegepygmy-chief-vgm.md), eight [vegepygmies](/3-Mechanics/CLI/bestiary/plant/vegepygmy-vgm.md), and the chief's [thorny](/3-Mechanics/CLI/bestiary/plant/thorny-vgm.md) pet. Statistics for all these creatures appear in appendix D. Their grung captive is the beloved one hundred and eightieth son of the grung chieftain [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md). If the characters free Imbok, he grovels at their feet. He doesn't speak Common but promises to bury his benefactors in gold if they escort him back to his father's shrine (area 18). Imbok's promise is empty, but he has nothing else to offer his saviors.
+The tribe consists of one [vegepygmy chief](3-Mechanics/CLI/bestiary/plant/vegepygmy-chief-mpmm.md), eight [vegepygmies](3-Mechanics/CLI/bestiary/plant/vegepygmy-mpmm.md), and the chief's [thorny](3-Mechanics/CLI/bestiary/plant/thorny-vegepygmy-mpmm.md) pet. Statistics for all these creatures appear in appendix D. Their grung captive is the beloved one hundred and eightieth son of the grung chieftain [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md). If the characters free Imbok, he grovels at their feet. He doesn't speak Common but promises to bury his benefactors in gold if they escort him back to his father's shrine (area 18). Imbok's promise is empty, but he has nothing else to offer his saviors.
 
 ### 6. Moa's Shrine
 
@@ -493,7 +487,7 @@ The shrine to the trickster god Moa (represented by a jaculi) contains one of ni
 > Palm trees grow in front of this squat building, and worn steps ascend to an archway that forms the entrance. Reliefs of coiled serpents flank the entrance.
 ^220
 
-Four [jaculis](/3-Mechanics/CLI/bestiary/beast/jaculi-toa.md) (see appendix D) lurk in the courtyard, using their camouflage to hide while coiled around tree trunks. If the characters enter the courtyard, the jaculis spring forth and attack.
+Four [jaculis](3-Mechanics/CLI/bestiary/beast/jaculi-toa.md) (see appendix D) lurk in the courtyard, using their camouflage to hide while coiled around tree trunks. If the characters enter the courtyard, the jaculis spring forth and attack.
 
 #### 6B. Trapped Passage
 
@@ -508,9 +502,9 @@ The arrow slits are 6 inches wide, 2 feet tall, and 1 foot deep. A character who
 
 ##### Pits
 
-Three covered pits are spaced along the corridor in the positions marked X on the shrine map. Their covers remain locked until the puzzle cube is moved from the pedestal in area 6C. Thereafter, a creature stepping on a pit cover causes it to swing open and falls in unless it succeeds on a DC 15 Dexterity saving throw. Each pit is 10 feet deep and has a patch of green slime (see chapter 5 of the *Dungeon Master's Guide*) at the bottom of it.
+Three covered pits are spaced along the corridor in the positions marked X on the shrine map. Their covers remain locked until the puzzle cube is moved from the pedestal in area 6C. Thereafter, a creature stepping on a pit cover causes it to swing open and falls in unless it succeeds on a DC 15 Dexterity saving throw. Each pit is 10 feet deep and has a patch of [green slime](3-Mechanics/CLI/traps-hazards/green-slime-xdmg.md) (see [chapter 5](3-Mechanics/CLI/traps-hazards/green-slime-xdmg.md) of the *Dungeon Master's Guide*) at the bottom of it.
 
-A character who searches the hallway floor for traps finds a pit trap with a successful DC 15 Wisdom (Perception) check. The lids are cleverly constructed and can be jammed shut only by using magic such as an arcane lock spell.
+A character who searches the hallway floor for traps finds a pit trap with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The lids are cleverly constructed and can be jammed shut only by using magic such as an [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell.
 
 #### 6C. Chamber of Deception
 
@@ -519,15 +513,15 @@ A character who searches the hallway floor for traps finds a pit trap with a suc
 > In the middle of this room, a stone cube rests on a plain stone pedestal. Statues of twelve tribal warriors jut from the surrounding walls, aiming bows at the pedestal. The floor in front of the pedestal bears a mosaic depicting a monstrous serpent constricting a furious monkey. Moss obscures much of the detail.
 ^225
 
-The mosaic shows Moa (a [jaculi](/3-Mechanics/CLI/bestiary/beast/jaculi-toa.md)) fighting Wongo (a [su-monster](/3-Mechanics/CLI/bestiary/monstrosity/su-monster-toa.md)). If a character peels the moss aside, they uncover the following message written in Old Omuan: "Death rewards a thief deceived. Truth comes from the serpent's mouth." Another inscription encircles the floor and tells the story of how Moa upheld the truth to Ubtao and betrayed Wongo's trust (see "Legend of the Nine Gods").
+The mosaic shows Moa (a [jaculi](3-Mechanics/CLI/bestiary/beast/jaculi-toa.md)) fighting Wongo (a [su-monster](3-Mechanics/CLI/bestiary/monstrosity/su-monster-toa.md)). If a character peels the moss aside, they uncover the following message written in Old Omuan: "Death rewards a thief deceived. Truth comes from the serpent's mouth." Another inscription encircles the floor and tells the story of how Moa upheld the truth to Ubtao and betrayed Wongo's trust (see "Legend of the Nine Gods").
 
-The puzzle cube on the pedestal is illusory, though it feels real to the touch. A detect magic spell or similar effect reveals an aura of illusion magic around the cube. When taken from the shrine, it vanishes in a puff of green smoke. If a creature removes the puzzle cube from the pedestal or tries to damage one of the statues, the archers animate and open fire on all creatures in the room. The archers can detect the presence of creatures even if they are invisible. Before they open fire, arrows magically appear in their bows. The archers remain animated for 1 hour, after which they revert to their inanimate state.
+The puzzle cube on the pedestal is illusory, though it feels real to the touch. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of illusion magic around the cube. When taken from the shrine, it vanishes in a puff of green smoke. If a creature removes the puzzle cube from the pedestal or tries to damage one of the statues, the archers animate and open fire on all creatures in the room. The archers can detect the presence of creatures even if they are [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible). Before they open fire, arrows magically appear in their bows. The archers remain animated for 1 hour, after which they revert to their inanimate state.
 
-The twelve archers act on initiative count 20. On its turn, a statue shoots one arrow (+6 to hit). A creature hit by an arrow takes `dice:1d8+1|noform|noparens|avg|text(5)` (`1d8 + 1`) piercing damage. Each statue is a Medium object with AC 17; 30 hit points; immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage.
+The twelve archers act on initiative count 20. On its turn, a statue shoots one arrow (`+6` to hit). A creature hit by an arrow takes 5 (`1d8 + 1`) piercing damage. Each statue is a Medium object with AC 17; 30 hit points; immunity to bludgeoning, piercing, and slashing damage from nonmagical attacks; and immunity to poison and psychic damage.
 
 ##### Secret Doors
 
-Characters who search the walls for secret doors find one on each side of the entrance tunnel with a successful DC 12 Wisdom (Perception) check.
+Characters who search the walls for secret doors find one on each side of the entrance tunnel with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 #### 6D. Western Secret Room
 
@@ -558,25 +552,25 @@ The cube is Moa's puzzle cube. It can be removed from the statue's jaws and the 
 > A fallen tree bridges the river ahead. Its trunk is wider than a man and stretches more than 100 feet. On both banks lie ruined buildings.
 ^22d
 
-An elderly tabaxi hunter named [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) ambushes the characters if they try to ford the river here.
+An elderly tabaxi hunter named [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) ambushes the characters if they try to ford the river here.
 
-The fallen trunk is wide enough for two Medium creatures to pass each other safely. Under the tree, the water churns toward the falls 200 feet downriver. A creature that tumbles into the river or tries to swim across it must succeed on a DC 14 Strength (Athletics) check to reach the bank. If the check fails, the current pulls the creature toward the falls at a speed of 50 feet per round.
+The fallen trunk is wide enough for two Medium creatures to pass each other safely. Under the tree, the water churns toward the falls 200 feet downriver. A creature that tumbles into the river or tries to swim across it must succeed on a DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to reach the bank. If the check fails, the current pulls the creature toward the falls at a speed of 50 feet per round.
 
 #### Bag of Nails
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/058-306.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/058-306.webp#center)
 
-[Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) yearns for a hunter's death. Senility has taken hold, and now he sees all creatures as his prey.
+[Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) yearns for a hunter's death. Senility has taken hold, and now he sees all creatures as his prey.
 
-When the characters arrive, [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) is hiding in a ruined building on the east bank of the river, 150 feet from the fallen tree. To spot him, a character must succeed on a DC 22 Wisdom (Perception) check. When a character crosses the bridge, [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) opens fire. After each shot, he leaps across the rooftops to a new firing position and tries to hide.
+When the characters arrive, [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) is hiding in a ruined building on the east bank of the river, 150 feet from the fallen tree. To spot him, a character must succeed on a DC 22 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. When a character crosses the bridge, [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) opens fire. After each shot, he leaps across the rooftops to a new firing position and tries to hide.
 
-[Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) is a tabaxi [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md), with these changes:
+[Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) is a tabaxi [assassin](3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md), with these changes:
 
-- [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) is chaotic neutral.  
+- [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) is chaotic neutral.  
 - He has a climbing speed of 20 feet and the Feline Agility trait (see below).  
-- He has darkvision out to a range of 60 feet.  
+- He has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet.  
 - He knows Common, Dwarvish, and thieves' cant.  
-- As an action, he can make a melee weapon attack with his claws (+3 to hit), dealing `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage on a hit.  
+- As an action, he can make a melee weapon attack with his claws (`+3` to hit), dealing `1d4` slashing damage on a hit.  
 - He carries a longbow instead of a crossbow (range 150/600 ft.).  
 
 > [!note] 
@@ -584,11 +578,11 @@ When the characters arrive, [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-
 > **Feline Agility.** When the tabaxi moves on its turn in combat, it can double its speed until the end of the turn. Once it uses this trait, the tabaxi can't use it again until it moves 0 feet on one of its turns.
 ^22f
 
-If [Bag of Nails](/3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) drops to fewer than half his maximum hit points, he surrenders to his enemies, leads them to his lair (a ruined basement), and offers them stew in a show of friendship. While distributing bowls of stew, he explains that he came to Omu to find a fabled treasure called the Navel of the Moon (see chapter 5). He hoped to use its alleged powers to find his lost son, but he has long since given up hope of ever finding it. A successful DC 15 Wisdom (Insight) check reveals that the tabaxi has no intention of letting the characters leave his domain alive. He laces the stew with midnight tears (ingested) (see ""Poisons"" in chapter 8 of the *Dungeon Master's Guide*).
+If [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md) drops to fewer than half his maximum hit points, he surrenders to his enemies, leads them to his lair (a ruined basement), and offers them stew in a show of friendship. While distributing bowls of stew, he explains that he came to Omu to find a fabled treasure called the Navel of the Moon (see chapter 5). He hoped to use its alleged powers to find his lost son, but he has long since given up hope of ever finding it. A successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check reveals that the tabaxi has no intention of letting the characters leave his domain alive. He laces the stew with [midnight tears (ingested)](3-Mechanics/CLI/items/midnight-tears-xdmg.md) (see ""Poisons"" in chapter 8 of the *Dungeon Master's Guide*).
 
 #### Treasure
 
-Characters who search through the tabaxi hunter's lair find five doses of midnight tears (ingested) in a hollow gourd and enough gear to make an explorer's pack.
+Characters who search through the tabaxi hunter's lair find five doses of [midnight tears (ingested)](3-Mechanics/CLI/items/midnight-tears-xdmg.md) in a hollow gourd and enough gear to make an explorer's pack.
 
 ### 8. Unkh's Shrine
 
@@ -619,7 +613,7 @@ One of the keys unlocks the pedestal in area 8C. If the characters know which ke
 > A statue of a giant snail looms before you. In place of antennae, it has five pseudopods ending in rocky clubs. Along the walls, six iron keys hang in small niches above stone plinths. Behind the statue, a carved pedestal in a wide alcove has a keyhole set into its base.
 ^238
 
-The statue is 9 feet tall and represents the trickster god Unkh as a flail snail. Three [ghasts](/3-Mechanics/CLI/bestiary/undead/ghast.md) (undead Chultan tribesfolk) hide behind it. Each ghast has [Ras Nsi](/3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)'s symbol—a small blue triangle—tattooed on its forehead. The ghasts leap out from behind the statue and attack as soon as the characters enter the room.
+The statue is 9 feet tall and represents the trickster god Unkh as a flail snail. Three [ghasts](3-Mechanics/CLI/bestiary/undead/ghast-xmm.md) (undead Chultan tribesfolk) hide behind it. Each ghast has [Ras Nsi](3-Mechanics/CLI/bestiary/npc/ras-nsi-toa.md)'s symbol—a small blue triangle—tattooed on its forehead. The ghasts leap out from behind the statue and attack as soon as the characters enter the room.
 
 None of the keys in this room unlock the pedestal. However, they are all similar in size. If a character takes all six keys and overlaps them, their overlapping teeth form a particular pattern. A search of the ruined workshop (area 8B) yields a single key that matches this pattern. This key unlocks the pedestal.
 
@@ -634,11 +628,11 @@ Unkh's puzzle cube is hidden inside the pedestal. If a character inserts the cor
 
 The puzzle cube can now be safely removed from its pedestal.
 
-Using thieves' tools, a character can pick the lock on the pedestal with a successful DC 25 Dexterity check. A character who fails the check by 5 or more accidentally triggers the trap.
+Using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), a character can pick the lock on the pedestal with a successful DC 25 Dexterity check. A character who fails the check by 5 or more accidentally triggers the trap.
 
 ##### Trap
 
-If a character inserts the wrong key into the keyhole at the base of the pedestal or botches an attempt to pick the lock, the shell of the flail snail statue emits dazzling rays of light that fire in all directions. When this happens, each creature in the shrine must make a DC 18 Dexterity saving throw. Any creature that fails the save is struck by a ray and takes `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) radiant damage. The statue can't emit rays while wholly or partly contained with an antimagic field.
+If a character inserts the wrong key into the keyhole at the base of the pedestal or botches an attempt to pick the lock, the shell of the flail snail statue emits dazzling rays of light that fire in all directions. When this happens, each creature in the shrine must make a DC 18 Dexterity saving throw. Any creature that fails the save is struck by a ray and takes 33 (`6d10`) radiant damage. The statue can't emit rays while wholly or partly contained with an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).
 
 ### 9. Adventurers' Camp
 
@@ -666,7 +660,7 @@ The shrine to the trickster god I'jin (represented by an almiraj) contains one o
 
 #### 10A. Shrine Entrance
 
-A harmless [almiraj](/3-Mechanics/CLI/bestiary/beast/almiraj-toa.md) (see appendix D) lives in a burrow underneath the courtyard and goes to ground as soon as it senses intruders. When a character approaches the door, read:
+A harmless [almiraj](3-Mechanics/CLI/bestiary/beast/almiraj-toa.md) (see appendix D) lives in a burrow underneath the courtyard and goes to ground as soon as it senses intruders. When a character approaches the door, read:
 
 > [!readaloud] 
 > 
@@ -690,17 +684,17 @@ Thirty-two tiles cover a 20-foot-long, 10-foot-wide stretch of the hallway. Each
 
 ##### Poison Darts
 
-To cross the hallway safely, a character must avoid stepping on the same animal more than once. If more than 20 pounds of pressure is exerted on the wrong picture tile, four poison darts shoot from holes in the walls. Each dart makes a ranged weapon attack (+5 to hit) against a random target within 10 feet of the triggering tile. A single creature can be attacked by multiple darts. A creature hit by a dart takes `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) piercing damage and must succeed on a DC 15 Constitution saving throw, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) poison damage on a failed save, or half as much damage on a successful one. A character can spot the holes with a successful DC 13 Wisdom (Perception) check. Stuffing the holes with cloth or wax prevents the darts from launching.
+To cross the hallway safely, a character must avoid stepping on the same animal more than once. If more than 20 pounds of pressure is exerted on the wrong picture tile, four poison darts shoot from holes in the walls. Each dart makes a ranged weapon attack (`+5` to hit) against a random target within 10 feet of the triggering tile. A single creature can be attacked by multiple darts. A creature hit by a dart takes 2 (`1d4`) piercing damage and must succeed on a DC 15 Constitution saving throw, taking 7 (`2d6`) poison damage on a failed save, or half as much damage on a successful one. A character can spot the holes with a successful DC 13 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Stuffing the holes with cloth or wax prevents the darts from launching.
 
-Characters can avoid the trap by flying or teleporting across the hallway, or by using spider climb spells to crawl along the walls or ceiling. The walls are too smooth to climb otherwise.
+Characters can avoid the trap by flying or teleporting across the hallway, or by using [spider climb](3-Mechanics/CLI/spells/spider-climb-xphb.md) spells to crawl along the walls or ceiling. The walls are too smooth to climb otherwise.
 
 ##### Almiraj Tiles
 
-A detect magic spell reveals an aura of abjuration magic around each almiraj tile. A creature that steps on an almiraj tile gains `dice:2d10|noform|noparens|avg` (`2d10`) temporary hit points. Once a tile has bestowed this benefit, it loses its magic until the next dawn. Casting dispel magic on a tile has the same effect.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around each almiraj tile. A creature that steps on an almiraj tile gains `2d10` temporary hit points. Once a tile has bestowed this benefit, it loses its magic until the next dawn. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a tile has the same effect.
 
 #### 10C. Labyrinth
 
-Traps are riddled throughout this dusty maze. Hidden pressure plates in the floor are located in the positions marked X on the shrine map. If more than 20 pounds of pressure is exerted on a pressure plate, a sharpened axe blade swings from a hidden compartment in the ceiling. The blade makes a melee attack (+6 to hit) against any creature standing on the pressure plate. On a hit, the target takes `dice:1d8+4|noform|noparens|avg|text(8)` (`1d8 + 4`) slashing damage. A character searching for traps spots a pressure plate and ceiling compartment with a successful DC 16 Wisdom (Perception) check. Wedging an iron spike or other object under a plate prevents the trap from triggering. Using thieves' tools, a character can dismantle an axe blade with a successful DC 15 Dexterity check. If the check fails by 5 or more, the trap triggers and makes an attack against the character with disadvantage.
+Traps are riddled throughout this dusty maze. Hidden pressure plates in the floor are located in the positions marked X on the shrine map. If more than 20 pounds of pressure is exerted on a pressure plate, a sharpened axe blade swings from a hidden compartment in the ceiling. The blade makes a melee attack (`+6` to hit) against any creature standing on the pressure plate. On a hit, the target takes 8 (`1d8 + 4`) slashing damage. A character searching for traps spots a pressure plate and ceiling compartment with a successful DC 16 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Wedging an iron spike or other object under a plate prevents the trap from triggering. Using [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md), a character can dismantle an axe blade with a successful DC 15 Dexterity check. If the check fails by 5 or more, the trap triggers and makes an attack against the character with disadvantage.
 
 #### 10D. Puzzle Cube
 
@@ -720,7 +714,7 @@ The cube is I'jin's puzzle cube. It is not trapped and can be safely removed fro
 > An overturned wagon lies on the street ahead. Rotting flower petals litter the ground around it, and bees nest in its broken wheels. A freshly cut garland of jungle flowers hangs from the wagon's tongue.
 ^24b
 
-The wagon is home to a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-cm.md) (see appendix D). The vegepygmies in the area are afraid of the chwinga and bring it gifts of flowers to appease its wrath. In truth, the chwinga is harmless.
+The wagon is home to a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) (see appendix D). The vegepygmies in the area are afraid of the chwinga and bring it gifts of flowers to appease its wrath. In truth, the chwinga is harmless.
 
 The chwinga uses its magic to hide in a mossy stone disk underneath the cart (see "Queen's Decree" below). Characters who approach the cart notice that the area is unusually lush and full of life. If they leave an offering, the chwinga timidly presents itself to them. If not, the chwinga's natural curiosity forces it to shadow the characters and spy on them.
 
@@ -760,18 +754,18 @@ Creatures that pass between these two obelisks hear in their heads a cacophony o
 
 > [!readaloud] 
 > 
-> A ten-foot-tall stone statue of an evil-looking monkey balances on its tail atop a stone dais in the middle of this twenty-foot-high chamber. The statue's limbs are splayed, with hands and feet cupped. On the wall behind, a sculpted relief shows a monkey-like creature tearing into a giant serpent. Cuneiform inscriptions are carved above and below the relief. Four masks of painted stone protrude from the walls; they depict the heads of a lion, a [zebra](/3-Mechanics/CLI/bestiary/beast/zebra-toa.md), a boar, and a vulture.
+> A ten-foot-tall stone statue of an evil-looking monkey balances on its tail atop a stone dais in the middle of this twenty-foot-high chamber. The statue's limbs are splayed, with hands and feet cupped. On the wall behind, a sculpted relief shows a monkey-like creature tearing into a giant serpent. Cuneiform inscriptions are carved above and below the relief. Four masks of painted stone protrude from the walls; they depict the heads of a lion, a [zebra](3-Mechanics/CLI/bestiary/beast/zebra-toa.md), a boar, and a vulture.
 ^254
 
 The wall relief shows the trickster god Wongo (a su-monster) fighting his hated enemy, Moa (a jaculi). Inscriptions in Old Omuan explain how Moa betrayed Wongo to the god Ubtao (see "Legend of the Nine Gods").
 
 ##### Statue and Puzzle Cube
 
-A detect magic spell or similar effect reveals an aura of conjuration magic around the statue, which is easy to climb. A character who searches the statue's base uncovers the following inscription written in Old Omuan: "Wongo's friend knows where to pour the water." Wongo's "friend" (the vulture) can be identified by figuring out the logic puzzle written above the masks in the viewing corridors (area 12C).
+A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect reveals an aura of conjuration magic around the statue, which is easy to climb. A character who searches the statue's base uncovers the following inscription written in Old Omuan: "Wongo's friend knows where to pour the water." Wongo's "friend" (the vulture) can be identified by figuring out the logic puzzle written above the masks in the viewing corridors (area 12C).
 
-When a character pours a pint or more of water into the statue's right hand or one of its cupped feet, the liquid sizzles and transforms into `dice:1d3|noform|noparens|avg` (`1d3`) [steam mephits](/3-Mechanics/CLI/bestiary/elemental/steam-mephit.md) that fight until destroyed. The statue can create up to six steam mephits in this fashion, after which no more mephits can be created until the next dawn. A steam mephit reduced to 0 hit points loses its form and disappears.
+When a character pours a pint or more of water into the statue's right hand or one of its cupped feet, the liquid sizzles and transforms into `1d3` [steam mephits](3-Mechanics/CLI/bestiary/elemental/steam-mephit-xmm.md) that fight until destroyed. The statue can create up to six steam mephits in this fashion, after which no more mephits can be created until the next dawn. A steam mephit reduced to 0 hit points loses its form and disappears.
 
-When a pint or more of water is poured into the statue's cupped left hand, Wongo's puzzle cube appears by magic on the statue's head. When the puzzle cube appears, the character who poured the water hears a snarling, disembodied voice say, "Take the prize and curse your friends, or fight my children to claim it. What is your choice?" If a character takes the puzzle cube, the masks on the walls deliver their curses (see area 12C). If no character takes the cube immediately, the portcullises slam shut over the entrance corridors in area 12A as four [su-monsters](/3-Mechanics/CLI/bestiary/monstrosity/su-monster-toa.md) (see appendix D) are teleported into the room, clinging to the statue like startled children to a protective parent. The su-monsters leap down and attack. Once the su-monsters appear, taking the puzzle cube doesn't trigger the masks' curses. The summoned su-monsters are real, and their bodies don't disappear when they die.
+When a pint or more of water is poured into the statue's cupped left hand, Wongo's puzzle cube appears by magic on the statue's head. When the puzzle cube appears, the character who poured the water hears a snarling, disembodied voice say, "Take the prize and curse your friends, or fight my children to claim it. What is your choice?" If a character takes the puzzle cube, the masks on the walls deliver their curses (see area 12C). If no character takes the cube immediately, the portcullises slam shut over the entrance corridors in area 12A as four [su-monsters](3-Mechanics/CLI/bestiary/monstrosity/su-monster-toa.md) (see appendix D) are teleported into the room, clinging to the statue like startled children to a protective parent. The su-monsters leap down and attack. Once the su-monsters appear, taking the puzzle cube doesn't trigger the masks' curses. The summoned su-monsters are real, and their bodies don't disappear when they die.
 
 ##### Masks
 
@@ -779,7 +773,7 @@ Characters who examine the stone masks on the walls see that their eyes are open
 
 #### 12C. Viewing Corridors
 
-Each of these four corridors ends in a molded stone mask that juts into area 12B. A detect magic spell reveals an aura of transmutation magic around each mask. Inscriptions in Old Omuan are carved into the walls above the masks on this side.
+Each of these four corridors ends in a molded stone mask that juts into area 12B. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around each mask. Inscriptions in Old Omuan are carved into the walls above the masks on this side.
 
 > [!note] 
 > 
@@ -792,9 +786,9 @@ Each of these four corridors ends in a molded stone mask that juts into area 12B
 > **Vulture Mask (V**). The inscription above this mask reads, "One of the others has no friends." Through this mask, a character sees a ray of blue light falling onto the left hand of the statue in area 12B.
 ^258
 
-When the masks deliver their curses (see area 12B), any character who has looked through a mask in the last hour must succeed on a DC 15 Constitution saving throw or transform into the creature depicted on the last mask they looked through. This curse functions as a polymorph spell and ends after 24 hours.
+When the masks deliver their curses (see area 12B), any character who has looked through a mask in the last hour must succeed on a DC 15 Constitution saving throw or transform into the creature depicted on the last mask they looked through. This curse functions as a [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) spell and ends after 24 hours.
 
-A [zebra](/3-Mechanics/CLI/bestiary/beast/zebra-toa.md) has the same statistics as a [riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse.md). Statistics for the [boar](/3-Mechanics/CLI/bestiary/beast/boar.md), [lion](/3-Mechanics/CLI/bestiary/beast/lion.md), and [vulture](/3-Mechanics/CLI/bestiary/beast/vulture.md) also appear in the "Monster Manual".
+A [zebra](3-Mechanics/CLI/bestiary/beast/zebra-toa.md) has the same statistics as a [riding horse](3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md). Statistics for the [boar](3-Mechanics/CLI/bestiary/beast/boar-xmm.md), [lion](3-Mechanics/CLI/bestiary/beast/lion-xmm.md), and [vulture](3-Mechanics/CLI/bestiary/beast/vulture-xmm.md) also appear in the "Monster Manual".
 
 ### 13. Amphitheater
 
@@ -803,35 +797,35 @@ A [zebra](/3-Mechanics/CLI/bestiary/beast/zebra-toa.md) has the same statistics 
 > A ruined amphitheater looms over the surrounding buildings. Vines cling to its steps, and animal statues line its stands. The muddy ground outside is stripped clean of vegetation. An eerie silence hangs over the area. No birds cry, no insects chirp, nothing stirs.
 ^25a
 
-The amphitheater is the lair of the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md), a powerful tyrannosaurus rex with magical abilities. As they approach the amphitheater, characters can't fail to notice giant clawed footprints in the mud. From toe to heel, each footprint spans over 5 feet. Closer to the ruin, they find long, slender feathers in scarlet, orange, and green hues, and heaps of dung large enough to bury a dwarf.
+The amphitheater is the lair of the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md), a powerful tyrannosaurus rex with magical abilities. As they approach the amphitheater, characters can't fail to notice giant clawed footprints in the mud. From toe to heel, each footprint spans over 5 feet. Closer to the ruin, they find long, slender feathers in scarlet, orange, and green hues, and heaps of dung large enough to bury a dwarf.
 
-The amphitheater is an open-air, semicircular structure with tiered seats overlooking a ruined stage. The Omuans used it for public debates and plays both comic and tragic. Narrow passages and rubble-strewn chambers spread beneath the grandstands. This darkened maze is home to five [deinonychuses](/3-Mechanics/CLI/bestiary/beast/deinonychus-vgm.md) (see appendix D). While the tyrannosaurus is out hunting, the deinonychuses leave their lair and prowl throughout the amphitheater, attacking other creatures on sight. Strewn about their lair are Omuan relics (see "Treasure" below).
+The amphitheater is an open-air, semicircular structure with tiered seats overlooking a ruined stage. The Omuans used it for public debates and plays both comic and tragic. Narrow passages and rubble-strewn chambers spread beneath the grandstands. This darkened maze is home to five [deinonychuses](3-Mechanics/CLI/bestiary/beast/deinonychus-mpmm.md) (see appendix D). While the tyrannosaurus is out hunting, the deinonychuses leave their lair and prowl throughout the amphitheater, attacking other creatures on sight. Strewn about their lair are Omuan relics (see "Treasure" below).
 
 #### Hail to the King
 
-During the day, there is a 50 percent chance that the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) rests in the amphitheater. At night, this chance decreases to 25 percent. If the beast is out hunting, there is a cumulative 20 percent chance per hour of it returning. The [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) is a feathered [tyrannosaurus rex](/3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex.md), with these changes:
+During the day, there is a 50 percent chance that the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) rests in the amphitheater. At night, this chance decreases to 25 percent. If the beast is out hunting, there is a cumulative 20 percent chance per hour of it returning. The [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) is a feathered [tyrannosaurus rex](3-Mechanics/CLI/bestiary/beast/tyrannosaurus-rex-xmm.md), with these changes:
 
-- The [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) is a monstrosity with 200 hit points.  
-- It can see invisible creatures and objects as if they were visible.  
-- It can innately cast misty step at will, requiring no components. Its spellcasting ability is Wisdom.  
+- The [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) is a monstrosity with 200 hit points.  
+- It can see [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creatures and objects as if they were visible.  
+- It can innately cast [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md) at will, requiring no components. Its spellcasting ability is Wisdom.  
 - It has the Legendary Resistance trait and the Summon Swarm action option (see below). It can't use the Summon Swarm action while it is grappling a creature with its jaws.  
 
 > [!note] 
 > 
-> **Legendary Resistance (3/Day).** If the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) fails a saving throw, it can choose to succeed instead.
+> **Legendary Resistance (3/Day).** If the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) fails a saving throw, it can choose to succeed instead.
 > 
-> **Summon Swarm (Recharge 5-6).** The [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) exhales a swarm of insects (wasps) that forms in a space within 20 feet of it. The swarm acts as an ally of the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) and takes its turn immediately after it. The swarm disperses after 1 minute.
+> **Summon Swarm (Recharge 5-6).** The [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) exhales a [swarm of insects (wasps)](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) that forms in a space within 20 feet of it. The swarm acts as an ally of the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) and takes its turn immediately after it. The swarm disperses after 1 minute.
 ^25c
 
 #### Treasure
 
-A search of the rooms under the amphitheater uncovers an electrum platter inscribed with images of Chultan feasting rituals (25 gp), an Omuan death mask made of painted gold (250 gp), and a helm of telepathy.
+A search of the rooms under the amphitheater uncovers an electrum platter inscribed with images of Chultan feasting rituals (25 gp), an Omuan death mask made of painted gold (250 gp), and a [helm of telepathy](3-Mechanics/CLI/items/helm-of-telepathy-xdmg.md).
 
 > [!note] The King of Feathers
 > 
-> The monstrous tyrannosaurus known as the [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) is the undisputed lord of Omu. Most other dwellers of the Forbidden City live in fear of its thunderous approach and steer well clear of the amphitheater, its lair.
+> The monstrous tyrannosaurus known as the [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) is the undisputed lord of Omu. Most other dwellers of the Forbidden City live in fear of its thunderous approach and steer well clear of the amphitheater, its lair.
 > 
-> The [King of Feathers](/3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) can be encountered anywhere within Omu. At first, tease the characters with glimpses of it moving through distant fog or have them hear its roar echoing over the ruins. It might appear while the heroes are exploring the ruins or taking a rest. Alternatively, it might interrupt a fight that's going badly for the party (or is too easy).
+> The [King of Feathers](3-Mechanics/CLI/bestiary/npc/king-of-feathers-toa.md) can be encountered anywhere within Omu. At first, tease the characters with glimpses of it moving through distant fog or have them hear its roar echoing over the ruins. It might appear while the heroes are exploring the ruins or taking a rest. Alternatively, it might interrupt a fight that's going badly for the party (or is too easy).
 ^the-king-of-feathers
 
 ### 14. Tomb of the Nine Gods
@@ -845,9 +839,9 @@ A vine-draped obelisk marks the entrance to the Tomb of the Nine Gods. For full 
 > A derelict market hall stands on the street corner ahead. Frayed cloth awnings hang in tatters above a broad alley lined with stalls.
 ^263
 
-Kobolds live in hidden cellars underneath the ruined market hall and have set six traps throughout the bazaar. A character has a cumulative 20 percent chance of finding a trap for each minute spent searching the bazaar. When a trap is found, have the character make a DC 15 Wisdom (Perception) check. If the check succeeds, the character spots the trap (a hidden, spring-loaded catapult) and its triggering mechanism (a tripwire or pressure plate) without triggering it. Once spotted, the trap is easily disarmed or avoided (no check required). A failed check indicates that the character accidentally set off the trap, which duplicates the Weapon Invention attack of a [kobold inventor](/3-Mechanics/CLI/bestiary/humanoid/kobold-inventor-vgm.md) (see appendix D).
+Kobolds live in hidden cellars underneath the ruined market hall and have set six traps throughout the bazaar. A character has a cumulative 20 percent chance of finding a trap for each minute spent searching the bazaar. When a trap is found, have the character make a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. If the check succeeds, the character spots the trap (a hidden, spring-loaded catapult) and its triggering mechanism (a tripwire or pressure plate) without triggering it. Once spotted, the trap is easily disarmed or avoided (no check required). A failed check indicates that the character accidentally set off the trap, which duplicates the Weapon Invention attack of a [kobold inventor](3-Mechanics/CLI/bestiary/humanoid/kobold-inventor-mpmm.md) (see appendix D).
 
-After the characters find three traps, they spot a [kobold](/3-Mechanics/CLI/bestiary/humanoid/kobold.md) disappearing down a well-hidden staircase on the outskirts of the bazaar. If they follow the creature, it leads them to the cellars under the marketplace.
+After the characters find three traps, they spot a [kobold](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) disappearing down a well-hidden staircase on the outskirts of the bazaar. If they follow the creature, it leads them to the cellars under the marketplace.
 
 #### Kobold Cellars
 
@@ -858,17 +852,17 @@ The kobolds live in cellars not shown on map 3.1. All but one of the staircases 
 > Guttering torches cast dim light under the arches of a wine cellar roughly 20 feet square. The cracked ceiling is 8 feet high. In an alcove on the far side of the room, a pile of treasure twinkles in the torchlight. Kobolds gather around it.
 ^265
 
-Kakarol, a [kobold scale sorcerer](/3-Mechanics/CLI/bestiary/humanoid/kobold-scale-sorcerer-vgm.md), rests on the pile of treasure. Two [kobold inventors](/3-Mechanics/CLI/bestiary/humanoid/kobold-inventor-vgm.md) and ten [kobolds](/3-Mechanics/CLI/bestiary/humanoid/kobold.md) are also present. Statistics for the kobold scale sorcerer and kobold inventor appear in appendix D.
+Kakarol, a [kobold scale sorcerer](3-Mechanics/CLI/bestiary/humanoid/kobold-scale-sorcerer-mpmm.md), rests on the pile of treasure. Two [kobold inventors](3-Mechanics/CLI/bestiary/humanoid/kobold-inventor-mpmm.md) and ten [kobolds](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) are also present. Statistics for the kobold scale sorcerer and kobold inventor appear in appendix D.
 
 The kobolds rally to defend Kakarol. While they fight off intruders, Kakarol and his inventors make ranged attacks from the rear. If things look dire, Kakarol throws himself at the characters' mercy.
 
 #### Treasure
 
-Kakarol wears a torn, 6-foot-long tapestry of a macaw decorated with garnet beads (75 gp) as a cloak. His hoard contains 30 gp, 250 sp, 1,800 cp, a colored glass statuette of a dragonfly (25 gp), four bloodstones (50 gp each), and a potion of greater healing.
+Kakarol wears a torn, 6-foot-long tapestry of a macaw decorated with garnet beads (75 gp) as a cloak. His hoard contains 30 gp, 250 sp, 1,800 cp, a colored glass statuette of a dragonfly (25 gp), four bloodstones (50 gp each), and a [potion of greater healing](3-Mechanics/CLI/items/potion-of-greater-healing-xdmg.md).
 
 #### Development
 
-Kakarol believes that [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md) is going to transform him into a dragon. As such, the kobold is arrogant, greedy, and vain—traits that can be used against him. He knows nothing of [Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s true aims, nor has he been told about the Soulmonger. Kakarol's kobolds spy on most other factions in the city. If gifted with enough treasure, he could become a useful early warning system for the adventurers.
+Kakarol believes that [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md) is going to transform him into a dragon. As such, the kobold is arrogant, greedy, and vain—traits that can be used against him. He knows nothing of [Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)'s true aims, nor has he been told about the Soulmonger. Kakarol's kobolds spy on most other factions in the city. If gifted with enough treasure, he could become a useful early warning system for the adventurers.
 
 ### 16. Papazotl's Shrine
 
@@ -883,7 +877,7 @@ The shrine to the trickster god Papazotl (represented by an eblis) contains one 
 
 A plaque above the shrine entrance displays an inscription in Old Omuan: "Papazotl teaches us to bow before no one." Characters who remember the cult's motto gain an edge when they explore Papazotl's tomb in chapter 5.
 
-Four hungry [crocodiles](/3-Mechanics/CLI/bestiary/beast/crocodile.md) lurk in the shrine's flooded courtyard. These creatures are the offspring of a [giant crocodile](/3-Mechanics/CLI/bestiary/beast/giant-crocodile.md) that nests to the rear of the shrine. If the characters attack the crocodiles, their mother joins the fray 2 rounds later.
+Four hungry [crocodiles](3-Mechanics/CLI/bestiary/beast/crocodile-xmm.md) lurk in the shrine's flooded courtyard. These creatures are the offspring of a [giant crocodile](3-Mechanics/CLI/bestiary/beast/giant-crocodile-xmm.md) that nests to the rear of the shrine. If the characters attack the crocodiles, their mother joins the fray 2 rounds later.
 
 #### 16B. Mosaic Floor
 
@@ -920,7 +914,7 @@ A character who examines the pedestal finds a riddle inscribed on its base. (Giv
 > Never strays from its master
 ^26f
 
-The answer to the riddle ("a shadow") is a clue to finding the secret chamber (area 16D). If a character holds a light source close to the statue with the head of a bat, a crawlway appears in its shadow. The crawlway entrance is otherwise hidden behind an illusory wall that can be dispelled with a dispel magic spell. The crawlway, which is 2 feet wide and 3 feet high, leads to area 16D.
+The answer to the riddle ("a shadow") is a clue to finding the secret chamber (area 16D). If a character holds a light source close to the statue with the head of a bat, a crawlway appears in its shadow. The crawlway entrance is otherwise hidden behind an illusory wall that can be dispelled with a [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell. The crawlway, which is 2 feet wide and 3 feet high, leads to area 16D.
 
 ##### Puzzle Cube
 
@@ -944,7 +938,7 @@ When a character enters this chamber, give the players a copy of handout 16 in a
 
 ### 17. Waterfall
 
-A river courses through a rocky ravine before plunging 50 feet into a 30-foot-deep pool. A creature that goes over the waterfall must make a DC 10 Dexterity saving throw, taking `dice:5d4|noform|noparens|avg|text(12)` (`5d4`) bludgeoning damage on a failed save, or no damage on a successful one. There is no safe path from the top of the waterfall to the city below.
+A river courses through a rocky ravine before plunging 50 feet into a 30-foot-deep pool. A creature that goes over the waterfall must make a DC 10 Dexterity saving throw, taking 12 (`5d4`) bludgeoning damage on a failed save, or no damage on a successful one. There is no safe path from the top of the waterfall to the city below.
 
 #### Vision of Acererak
 
@@ -955,7 +949,7 @@ The first character to look out across the city from the clifftops near the wate
 > A city of magnificent, whitewashed buildings stretches out before you. Sunlight sparkles off of glass domes and windows, yet all is not well. Black smoke coils from fires across the city, corpses litter the streets, and wraiths circle the rooftops like vultures. A sphere of utter darkness grows out from the heart of the city, blotting out the light as it expands toward you. You turn away, and when you look back, the darkness is gone. The city is a half-flooded, overgrown ruin.
 ^276
 
-While in Omu, the character who saw the vision has the same dark dream whenever he or she takes a long rest. In the dream, the character is standing in the city during its fall and sees a skeletal figure walking alone through the dead streets. He wears tattered robes and holds a skull-tipped staff, and his sunken eyes contain points of dead light. With each dream, the figure ([Acererak](/3-Mechanics/CLI/bestiary/npc/acererak-toa.md)) gets a little closer.
+While in Omu, the character who saw the vision has the same dark dream whenever he or she takes a long rest. In the dream, the character is standing in the city during its fall and sees a skeletal figure walking alone through the dead streets. He wears tattered robes and holds a skull-tipped staff, and his sunken eyes contain points of dead light. With each dream, the figure ([Acererak](3-Mechanics/CLI/bestiary/npc/acererak-toa.md)) gets a little closer.
 
 ### 18. Nangnang's Shrine
 
@@ -966,21 +960,21 @@ While in Omu, the character who saw the vision has the same dark dream whenever 
 
 The shrine to the trickster god Nangnang (represented by a grung) contains one of nine puzzle cubes needed to enter the Tomb of the Nine Gods. The water around the shrine is 2 feet deep.
 
-![](/3-Mechanics/CLI/adventures/tomb-of-annihilation/img/059-307.webp#center)
+![](3-Mechanics/CLI/adventures/tomb-of-annihilation/img/059-307.webp#center)
 
 #### 18A. Shrine Entrance
 
-The shrine is home to a gold-skinned [grung elite warrior](/3-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-vgm.md) named Chief [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md). Four orange-skinned [grung elite warriors](/3-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-vgm.md) wallow in the flooded courtyard with [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md) and his trained [hadrosaurus](/3-Mechanics/CLI/bestiary/beast/hadrosaurus-vgm.md) mount. One red-skinned [grung wildling](/3-Mechanics/CLI/bestiary/humanoid/grung-wildling-vgm.md) and seven green-skinned [grungs](/3-Mechanics/CLI/bestiary/humanoid/grung-vgm.md) lurk on the shrine's 20-foot-high rooftop. See appendix D for these creatures' statistics.
+The shrine is home to a gold-skinned [grung elite warrior](3-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-mpmm.md) named Chief [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md). Four orange-skinned [grung elite warriors](3-Mechanics/CLI/bestiary/humanoid/grung-elite-warrior-mpmm.md) wallow in the flooded courtyard with [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md) and his trained [hadrosaurus](3-Mechanics/CLI/bestiary/beast/hadrosaurus-mpmm.md) mount. One red-skinned [grung wildling](3-Mechanics/CLI/bestiary/humanoid/grung-wildling-mpmm.md) and seven green-skinned [grungs](3-Mechanics/CLI/bestiary/humanoid/grung-mpmm.md) lurk on the shrine's 20-foot-high rooftop. See appendix D for these creatures' statistics.
 
-The grungs on the roof unleash arrows to ward off intruders. If the intruders fight back, more green-skinned [grungs](/3-Mechanics/CLI/bestiary/humanoid/grung-vgm.md) close in from nearby buildings, with `dice:1d4|noform|noparens|avg` (`1d4`) appearing at the end of each round until twenty have arrived.
+The grungs on the roof unleash arrows to ward off intruders. If the intruders fight back, more green-skinned [grungs](3-Mechanics/CLI/bestiary/humanoid/grung-mpmm.md) close in from nearby buildings, with `1d4` appearing at the end of each round until twenty have arrived.
 
-The grungs are jumpy and distrustful of strangers. At first, [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md) is more interested in scaring away intruders than he is talking with them. If the characters rescue his favored son in area 5 and have the means to communicate with the chief, [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md) opens up to them. He currently has no idea his son is missing.
+The grungs are jumpy and distrustful of strangers. At first, [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md) is more interested in scaring away intruders than he is talking with them. If the characters rescue his favored son in area 5 and have the means to communicate with the chief, [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md) opens up to them. He currently has no idea his son is missing.
 
-The grungs worship the dead trickster god Nangnang. If the characters enter into negotiations with [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md), he can recount the full legend of Omu's nine trickster gods (see "Legend of the Nine Gods").
+The grungs worship the dead trickster god Nangnang. If the characters enter into negotiations with [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md), he can recount the full legend of Omu's nine trickster gods (see "Legend of the Nine Gods").
 
 ##### Shrine Doors
 
-The doors to the shrine stand ajar. If the tide of battle turns against Chief [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md), he retreats into the shrine with his elite guards and bars the doors. A character can force open the barred doors with a successful DC 25 Strength check.
+The doors to the shrine stand ajar. If the tide of battle turns against Chief [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md), he retreats into the shrine with his elite guards and bars the doors. A character can force open the barred doors with a successful DC 25 Strength check.
 
 #### 18B. Chamber of Greed
 
@@ -991,11 +985,11 @@ The doors to the shrine stand ajar. If the tide of battle turns against Chief [Y
 
 The inscriptions are written in Old Omuan. The one above the mosaic reads, "Nangnang teaches us to serve only ourselves." The inscriptions below tell how Nangnang (a grung) stole a spear belonging to Shagambi (a kamadan). For details, see "Legend of the Nine Gods."
 
-While the treasures remain in the shrine, they look and feel real. If a character removes a treasure from the shrine, the illusion drops and the treasure reverts to its true form: gold coins become disks of tin, silver decanters revert back to clay jugs, and glittering armor becomes rusty scrap metal. A detect magic spell reveals that the treasures radiate auras of illusion magic while in the shrine. None of these "treasures" are valuable.
+While the treasures remain in the shrine, they look and feel real. If a character removes a treasure from the shrine, the illusion drops and the treasure reverts to its true form: gold coins become disks of tin, silver decanters revert back to clay jugs, and glittering armor becomes rusty scrap metal. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals that the treasures radiate auras of illusion magic while in the shrine. None of these "treasures" are valuable.
 
 ##### Locked Doors
 
-The stone doors to area 18C are locked, with neither keyhole nor handle. Above the double door, the following message is carved into the stonework in Old Omuan: "Whoever among you is the richest, bring me your gifts." To date, even Chief [Yorb](/3-Mechanics/CLI/bestiary/npc/yorb-toa.md) hasn't learned what lies on the other side of the doors. A detect magic spell reveals an aura of divination magic around the doors. The doors swing open if a creature approaches them while carrying one or more of the treasures found in the shrine. However, if another creature in the shrine is also carrying such treasure, the doors remains closed. A knock spell also opens the doors.
+The stone doors to area 18C are locked, with neither keyhole nor handle. Above the double door, the following message is carved into the stonework in Old Omuan: "Whoever among you is the richest, bring me your gifts." To date, even Chief [Yorb](3-Mechanics/CLI/bestiary/npc/yorb-toa.md) hasn't learned what lies on the other side of the doors. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of divination magic around the doors. The doors swing open if a creature approaches them while carrying one or more of the treasures found in the shrine. However, if another creature in the shrine is also carrying such treasure, the doors remains closed. A [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell also opens the doors.
 
 #### 18C. Puzzle Cube
 
@@ -1019,7 +1013,7 @@ The shrine to the trickster god Obo'laka (represented by a zorbo) contains one o
 
 A plaque above the shrine's entrance bears the following message in Old Omuan: "Obo'laka teaches us to tread warily and stay in the light." This message sheds light on how to obtain Obo'laka's puzzle cube. The doors are slightly ajar and have rusty hinges that squeal loudly when the doors are opened.
 
-When the characters arrive, four [zorbos](/3-Mechanics/CLI/bestiary/monstrosity/zorbo-toa.md) (see appendix D) are lurking around the perimeter of the shrine. They investigate the sound of the squealing doors but won't attack large groups, preferring to pick off loners and stragglers.
+When the characters arrive, four [zorbos](3-Mechanics/CLI/bestiary/monstrosity/zorbo-toa.md) (see appendix D) are lurking around the perimeter of the shrine. They investigate the sound of the squealing doors but won't attack large groups, preferring to pick off loners and stragglers.
 
 #### 19B. Gallery of Carvings
 
@@ -1032,7 +1026,7 @@ To disarm the puzzle cube trap in area 19E, the magic torches from that room mus
 
 ##### Barred Secret Door
 
-A character who searches the walls and succeeds on a DC 17 Wisdom (Perception) check spots a secret door just inside the entrance. The door is triple-barred from the west side. It can't be opened manually from this side, though three knock spells will do the trick.
+A character who searches the walls and succeeds on a DC 17 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots a secret door just inside the entrance. The door is triple-barred from the west side. It can't be opened manually from this side, though three [knock](3-Mechanics/CLI/spells/knock-xphb.md) spells will do the trick.
 
 #### 19C. Sun Pool
 
@@ -1056,9 +1050,9 @@ The ceiling reflected in the pool doesn't show a moon carving, but rather a sun 
 
 ##### Locked Secret Door
 
-A secret door in the south wall requires a successful DC 15 Wisdom (Perception) check to spot. Even when found, there's no obvious way to open the door, although a knock spell works.
+A secret door in the south wall requires a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to spot. Even when found, there's no obvious way to open the door, although a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell works.
 
-A character who studies the wall reliefs and succeeds on a DC 10 Intelligence (Investigation) check observes that one of the figures on the wall is crafting a key. If the character pushes the key, the secret door pops open, revealing a dusty, web-filled tunnel (area 19F) beyond.
+A character who studies the wall reliefs and succeeds on a DC 10 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check observes that one of the figures on the wall is crafting a key. If the character pushes the key, the secret door pops open, revealing a dusty, web-filled tunnel (area 19F) beyond.
 
 #### 19E. Chamber of Sacraments
 
@@ -1069,13 +1063,13 @@ A character who studies the wall reliefs and succeeds on a DC 10 Intelligence (I
 
 The floor mosaic shows Obo'laka (a zorbo) fighting I'jin (an almiraj). Inscriptions in Old Omuan underneath the mosaic explain how I'jin ruined Obo'laka's attempt to placate Ubtao (see "Legend of the Nine Gods").
 
-The statue is a petrified Red Wizard (LE male Thayan human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md)) named Voj. He failed to disarm the puzzle cube trap before touching it, and its magic turned him to stone. If a greater restoration spell or similar magic is cast on Voj, he reverts to flesh, realizes he's not alone, and attacks anyone who would deny him the cube.
+The statue is a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) Red Wizard (LE male Thayan human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) named Voj. He failed to disarm the puzzle cube trap before touching it, and its magic turned him to stone. If a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic is cast on Voj, he reverts to flesh, realizes he's not alone, and attacks anyone who would deny him the cube.
 
-Voj takes orders from Zagmira and knows the legend of Obo'laka and I'jin. If the characters defeat him, they find some valuables on his person (see "Treasure" below) that aren't obtainable while Voj is petrified.
+Voj takes orders from Zagmira and knows the legend of Obo'laka and I'jin. If the characters defeat him, they find some valuables on his person (see "Treasure" below) that aren't obtainable while Voj is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified).
 
 ##### Puzzle Cube
 
-Any creature that touches the puzzle cube must make a DC 15 Constitution saving throw or be petrified. Even on a success, a creature holding the cube must repeat the saving throw at the end of each of its turns until the puzzle cube is removed from the shrine. When the torches in this room are inserted into the empty brackets in area 19B, Obo'laka's puzzle cube can be handled safely.
+Any creature that touches the puzzle cube must make a DC 15 Constitution saving throw or be [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified). Even on a success, a creature holding the cube must repeat the saving throw at the end of each of its turns until the puzzle cube is removed from the shrine. When the torches in this room are inserted into the empty brackets in area 19B, Obo'laka's puzzle cube can be handled safely.
 
 ##### Torches
 
@@ -1083,7 +1077,7 @@ Each torch burns with a flame that never wears its wood down. The torches can be
 
 ##### Treasure
 
-Voj carries an immovable rod, a leather pouch containing three tiger eye gemstones (10 gp each), and a red, leather-bound spellbook, which contains all the spells he has prepared.
+Voj carries an [immovable rod](3-Mechanics/CLI/items/immovable-rod-xdmg.md), a leather pouch containing three tiger eye gemstones (10 gp each), and a red, leather-bound spellbook, which contains all the spells he has prepared.
 
 #### 19F. Secret Passage
 
@@ -1103,7 +1097,7 @@ Traversing this corridor is the easiest way to transport the torches in area 19E
 
 The palace looks abandoned and has been looted of all treasure. Snakes slithering through the rubble are mostly harmless (but see area 20A and 20B below). The bats flying above the ruin are also harmless.
 
-The Fane of the Night Serpent (see chapter 4) lies under the palace. There are two entrances: a large entrance to the north (area 20A) and a hidden entrance to the south (area 20B). Watching over each entrance are three type 1 [yuan-ti malisons](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1.md) in snake form. They slither out of hiding, revert to their true forms, and attack anyone who isn't accompanied by yuan-ti.
+The Fane of the Night Serpent (see chapter 4) lies under the palace. There are two entrances: a large entrance to the north (area 20A) and a hidden entrance to the south (area 20B). Watching over each entrance are three type 1 [yuan-ti malisons](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm.md) in snake form. They slither out of hiding, revert to their true forms, and attack anyone who isn't accompanied by yuan-ti.
 
 #### 20A. Main Entrance to the Fane
 
@@ -1118,7 +1112,7 @@ The tunnel slopes down to area 1 of the yuan-ti temple (see chapter 4).
 
 #### 20B. Secret Entrance to the Fane
 
-The south entrance to the Fane of the Night Serpent is hidden behind palms and thorny bushes. Yuan-ti who pass through here always try to cover their tracks. To find the entrance, a character must succeed on a DC 15 Wisdom (Perception) or Wisdom (Survival) check while searching the vicinity.
+The south entrance to the Fane of the Night Serpent is hidden behind palms and thorny bushes. Yuan-ti who pass through here always try to cover their tracks. To find the entrance, a character must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) or Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check while searching the vicinity.
 
 > [!readaloud] 
 > 

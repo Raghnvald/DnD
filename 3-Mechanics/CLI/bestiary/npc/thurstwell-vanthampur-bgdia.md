@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thurstwell Vanthampur
+- "Thurstwell Vanthampur"
 ---
-# [Thurstwell Vanthampur](3-Mechanics\CLI\bestiary\npc/thurstwell-vanthampur-bgdia.md)
+# [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 34*  
 
 Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he uses imps to spy on his brothers, Amrik and Mortlock. Thurstwell resents both of them—Amrik for being their mother's favorite, and Mortlock for being a monstrous dolt.
@@ -36,13 +36,13 @@ Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he 
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+3"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+4"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Infernal"
@@ -50,14 +50,10 @@ Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he 
 "traits":
   - "desc": "Thurstwell is a 2nd-level spellcaster. His spellcasting ability is Wisdom\
       \ (spell save DC 13). He has the following cleric spells prepared:\n\n**Cantrips\
-      \ (at will):** [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [sacred\
-      \ flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md) (see \"Actions\" below),\
-      \ [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level\
-      \ (3 slots):** [command](/3-Mechanics/CLI/spells/command-xphb.md), [detect evil\
-      \ and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)"
+      \ (at will):** guidance, sacred flame (see \"Actions\" below), thaumaturgy\n\
+      \n**1st level (3 slots):** command, detect evil and good, sanctuary"
     "name": "Spellcasting"
-  - "desc": "Thurstwell has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "Thurstwell has advantage on saving throws against being charmed or frightened."
     "name": "Dark Devotion"
 "actions":
   - "desc": "Flame-like radiance descends on one creature Thurstwell can see within\
@@ -66,6 +62,6 @@ Thurstwell is a pale and sullen recluse in his forties. A veritable shut-in, he 
     "name": "Sacred Flame (Cantrip)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/thurstwell-vanthampur-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/thurstwell-vanthampur-bgdia.webp"
 ```
 ^statblock

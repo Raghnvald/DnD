@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/16
-- new/monster/size/large
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/16
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nintra Siotta
+- "Nintra Siotta"
 ---
-# [Nintra Siotta](3-Mechanics\CLI\bestiary\npc/nintra-siotta-cm.md)
+# [Nintra Siotta](3-Mechanics/CLI/bestiary/npc/nintra-siotta-cm.md)
 *Source: Candlekeep Mysteries p. 197*  
 
 Nintra Siotta, a chaotic evil archfey who was exiled from the Gloaming Court by the Queen of Air and Darkness long ago, is known in Faerûn by three titles: Princess of the Shadow Glass, Lady of Dread Omens, and Seeker of the Three Crowns. She appears as a 9-foot-tall humanoid made of smoky gray glass, wrapped in a cloak-like darkness that appears to devour the light.
@@ -57,8 +57,8 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
 "actions":
   - "desc": "Nintra makes two attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d4 + 7) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (2d4 + 7) piercing damage."
     "name": "Claw"
   - "desc": "*Ranged Spell Attack:* +12 to hit, range 120 ft., one target. *Hit:*\
       \ 10 (1d6 + 7) necrotic damage, and if the target is a creature, it must succeed\
@@ -80,15 +80,15 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
       \ action to cause one of the following effects; she can't use the same effect\
       \ two rounds in a row:\n\n- Nintra targets one pane of shadow glass in her lair,\
       \ causing it to explode into shards. Each creature within 20 feet of the exploding\
-      \ pane must make a DC 18 Dexterity saving throw, taking 13 (3d8) piercing damage\
-      \ on a failed save, or half as much damage on a successful one. The shards fade\
-      \ away to vapor and the pane is restored to normal at the next initiative count\
-      \ 20.  \n- Nintra targets one pane of shadow glass in her lair, briefly transforming\
-      \ it into a swirling vortex. One creature of her choice within 20 feet of the\
-      \ pane must succeed on a DC 20 Strength saving throw or be drawn into the vortex,\
-      \ taking 11 (2d10) necrotic damage. The creature is then teleported to an unoccupied\
-      \ space within 5 feet of another pane of shadow glass in Nintra's lair (determined\
-      \ randomly).  "
+      \ pane must make a DC 18 Dexterity saving throw, taking 13 (3d8) piercing\
+      \ damage on a failed save, or half as much damage on a successful one. The shards\
+      \ fade away to vapor and the pane is restored to normal at the next initiative\
+      \ count 20.  \n- Nintra targets one pane of shadow glass in her lair, briefly\
+      \ transforming it into a swirling vortex. One creature of her choice within\
+      \ 20 feet of the pane must succeed on a DC 20 Strength saving throw or be drawn\
+      \ into the vortex, taking 11 (2d10) necrotic damage. The creature is then\
+      \ teleported to an unoccupied space within 5 feet of another pane of shadow\
+      \ glass in Nintra's lair (determined randomly).  "
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Nintra can expend a use to take one of the following actions. Nintra regains\
@@ -106,6 +106,6 @@ Nintra's eyes burn with green fire, and she speaks in a high, musical voice. Dec
     "name": "Shadow Strikes (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nintra-siotta-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nintra-siotta-cm.webp"
 ```
 ^statblock

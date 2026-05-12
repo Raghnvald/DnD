@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Boots of the Winterlands"
 ---
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/boots-of-the-winterlands.webp#right)
+![](3-Mechanics/CLI/items/img/boots-of-the-winterlands.webp#right)
 
 
 These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:

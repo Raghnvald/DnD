@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Peryton
+- "Reduced-Threat Peryton"
 ---
-# [Reduced-Threat Peryton](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-peryton-tftyp.md)
+# [Reduced-Threat Peryton](3-Mechanics/CLI/bestiary/monstrosity/reduced-threat-peryton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -34,7 +34,7 @@ aliases:
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "passive Perception 15"
@@ -53,20 +53,20 @@ aliases:
   - "desc": "The peryton doesn't provoke an opportunity attack when it flies out of\
       \ an enemy's reach."
     "name": "Flyby"
-  - "desc": "The peryton has advantage on Wisdom (Perception) checks that rely on\
-      \ sight or smell."
+  - "desc": "The peryton has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight or smell."
     "name": "Keen Sight and Smell"
 "actions":
   - "desc": "The peryton makes one gore attack and one talon attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) piercing damage."
     "name": "Talons"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-peryton-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-peryton-tftyp.webp"
 ```
 ^statblock

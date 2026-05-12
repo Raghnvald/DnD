@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/18
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lichen Lich
+- "Lichen Lich"
 ---
-# [Lichen Lich](3-Mechanics\CLI\bestiary\undead/lichen-lich-cm.md)
+# [Lichen Lich](3-Mechanics/CLI/bestiary/undead/lichen-lich-cm.md)
 *Source: Candlekeep Mysteries p. 223*  
 
 Lichen liches are undead remnants of powerful druids.
@@ -72,8 +72,8 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
       \ saving throw or be poisoned for 1 minute. The target can repeat the saving\
       \ throw at the end of each of its turns, ending the effect on itself on a success."
     "name": "Poisonous Touch"
-  - "desc": "*Ranged Spell Attack:* +9 to hit, range 60 ft., one target. *Hit:* 14\
-      \ (4d6) necrotic damage."
+  - "desc": "*Ranged Spell Attack:* +9 to hit, range 60 ft., one target. *Hit:*\
+      \ 14 (4d6) necrotic damage."
     "name": "Wither"
   - "desc": "The lich fills up to ten 10-foot cubes with fire. Every cube must be\
       \ within 150 feet of the lich and occupy a space the lich can see, and each\
@@ -126,6 +126,6 @@ A lichen lich looks like a skeleton covered with fungi and bark-like lichen. A l
     "name": "Sap Life (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/lichen-lich-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/lichen-lich-cm.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/druid
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Druid
+- "Druid"
 ---
 # Druid
 *Source: Player's Handbook p. 64. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -51,16 +51,16 @@ aliases:
 ## Starting Druid
 
 - **Saving Throws**: Intelligence, Wisdom
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md) (druids will not wear armor or use shields made of metal)
-- **Weapons**: [clubs](/3-Mechanics/CLI/items/club.md), [daggers](/3-Mechanics/CLI/items/dagger.md), [darts](/3-Mechanics/CLI/items/dart.md), [javelins](/3-Mechanics/CLI/items/javelin.md), [maces](/3-Mechanics/CLI/items/mace.md), [quarterstaffs](/3-Mechanics/CLI/items/quarterstaff.md), [scimitars](/3-Mechanics/CLI/items/scimitar.md), [sickles](/3-Mechanics/CLI/items/sickle.md), [slings](/3-Mechanics/CLI/items/sling.md), [spears](/3-Mechanics/CLI/items/spear.md)
-- **Tools**: [Herbalism kit](/3-Mechanics/CLI/items/herbalism-kit.md)
-- **Skills**: choose 2 from [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), [Religion](/3-Mechanics/CLI/skills.md#Religion), and [Survival](/3-Mechanics/CLI/skills.md#Survival)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [shields](3-Mechanics/CLI/items/shield.md) (druids will not wear armor or use shields made of metal)
+- **Weapons**: [clubs](3-Mechanics/CLI/items/club.md), [daggers](3-Mechanics/CLI/items/dagger.md), [darts](3-Mechanics/CLI/items/dart.md), [javelins](3-Mechanics/CLI/items/javelin.md), [maces](3-Mechanics/CLI/items/mace.md), [quarterstaffs](3-Mechanics/CLI/items/quarterstaff.md), [scimitars](3-Mechanics/CLI/items/scimitar.md), [sickles](3-Mechanics/CLI/items/sickle.md), [slings](3-Mechanics/CLI/items/sling.md), [spears](3-Mechanics/CLI/items/spear.md)
+- **Tools**: [Herbalism kit](3-Mechanics/CLI/items/herbalism-kit.md)
+- **Skills**: choose 2 from [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Religion](3-Mechanics/CLI/rules/skills.md#Religion), and [Survival](3-Mechanics/CLI/rules/skills.md#Survival)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a wooden [shield](/3-Mechanics/CLI/items/shield.md) or (b) any simple weapon
-- (a) a [scimitar](/3-Mechanics/CLI/items/scimitar.md) or (b) any simple melee weapon
-- [Leather armor](/3-Mechanics/CLI/items/leather-armor.md), an [explorer's pack](/3-Mechanics/CLI/items/explorers-pack.md), and a [druidic focus](/3-Mechanics/CLI/items/druidic-focus.md)
+- (a) a wooden [shield](3-Mechanics/CLI/items/shield.md) or (b) any simple weapon
+- (a) a [scimitar](3-Mechanics/CLI/items/scimitar.md) or (b) any simple melee weapon
+- [Leather armor](3-Mechanics/CLI/items/leather-armor.md), an [explorer's pack](3-Mechanics/CLI/items/explorers-pack.md), and a [druidic focus](3-Mechanics/CLI/items/druidic-focus.md)
 
 Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
@@ -70,7 +70,7 @@ Alternatively, you may start with 2d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md) (druids will not wear armor or use shields made of metal)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [shields](3-Mechanics/CLI/items/shield.md) (druids will not wear armor or use shields made of metal)
 
 ## Druid
 
@@ -104,7 +104,7 @@ Have you always been an adventurer as part of your druidic calling, or did you f
 
 #### Quick Build
 
-You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [hermit](/3-Mechanics/CLI/backgrounds/hermit.md) background.
+You can make a druid quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Constitution. Second, choose the [hermit](3-Mechanics/CLI/backgrounds/hermit.md) background.
 
 > [!note] Sacred Plants and Wood
 > 
@@ -145,8 +145,6 @@ When you decide what your character's treasured item is, think about giving it a
 
 **Treasured Item**
 
-`dice: [](druid.md#^treasured-item)`
-
 | dice: d6 | Treasured Item |
 |----------|----------------|
 | 1 | A twig from the meeting tree that stands in the center of your village |
@@ -163,8 +161,6 @@ _Source: Xanathar's Guide to Everything_
 Many druids feel a strong link to a specific aspect of the natural world, such as a body of water, an animal, a type of tree, or some other sort of plant. You identify with your chosen aspect; by its behavior or its very nature, it sets an example that you seek to emulate.
 
 **Guiding Aspects**
-
-`dice: [](druid.md#^guiding-aspects)`
 
 | dice: d6 | Guiding Aspects |
 |----------|-----------------|
@@ -184,8 +180,6 @@ It's not unusual for would-be druids to seek out (or be sought out by) instructo
 If your character received training from someone else, who or what was that individual, and what was the nature of your relationship? Did your mentor imbue you with a particular outlook or otherwise influence your approach to achieving the goals of your chosen path?
 
 **Mentors**
-
-`dice: [](druid.md#^mentors)`
 
 | dice: d6 | Mentors |
 |----------|---------|
@@ -219,285 +213,275 @@ _Source: Xanathar's Guide to Everything_
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Owl](/3-Mechanics/CLI/bestiary/beast/owl.md) | Fly |
-| 1/8 | [Blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
-| 1/4 | [Giant owl](/3-Mechanics/CLI/bestiary/beast/giant-owl.md) | Fly |
-| 1 | [Brown bear](/3-Mechanics/CLI/bestiary/beast/brown-bear.md) | — |
-| 2 | [Polar bear](/3-Mechanics/CLI/bestiary/beast/polar-bear.md) | Swim |
-| 2 | [Saber-toothed tiger](/3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) | — |
-| 6 | [Mammoth](/3-Mechanics/CLI/bestiary/beast/mammoth.md) | — |
+| 0 | [Owl](3-Mechanics/CLI/bestiary/beast/owl.md) | Fly |
+| 1/8 | [Blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
+| 1/4 | [Giant owl](3-Mechanics/CLI/bestiary/beast/giant-owl.md) | Fly |
+| 1 | [Brown bear](3-Mechanics/CLI/bestiary/beast/brown-bear.md) | — |
+| 2 | [Polar bear](3-Mechanics/CLI/bestiary/beast/polar-bear.md) | Swim |
+| 2 | [Saber-toothed tiger](3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) | — |
+| 6 | [Mammoth](3-Mechanics/CLI/bestiary/beast/mammoth.md) | — |
 ^arctic
 
 **Coast**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Crab](/3-Mechanics/CLI/bestiary/beast/crab.md) | Swim |
-| 0 | [Eagle](/3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
-| 1/8 | [Blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Giant crab](/3-Mechanics/CLI/bestiary/beast/giant-crab.md) | Swim |
-| 1/8 | [Poisonous snake](/3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Giant lizard](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant wolf spider](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon.md) | Fly |
-| 1 | [Giant eagle](/3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Giant toad](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
-| 2 | [Plesiosaurus](/3-Mechanics/CLI/bestiary/beast/plesiosaurus.md) | Swim |
+| 0 | [Crab](3-Mechanics/CLI/bestiary/beast/crab.md) | Swim |
+| 0 | [Eagle](3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
+| 1/8 | [Blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Giant crab](3-Mechanics/CLI/bestiary/beast/giant-crab.md) | Swim |
+| 1/8 | [Poisonous snake](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Giant lizard](3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md) | Fly |
+| 1 | [Giant eagle](3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
+| 2 | [Plesiosaurus](3-Mechanics/CLI/bestiary/beast/plesiosaurus.md) | Swim |
 ^coast
 
 **Desert**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Cat](/3-Mechanics/CLI/bestiary/beast/cat.md) | — |
-| 0 | [Hyena](/3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
-| 0 | [Jackal](/3-Mechanics/CLI/bestiary/beast/jackal.md) | — |
-| 0 | [Scorpion](/3-Mechanics/CLI/bestiary/beast/scorpion.md) | — |
-| 0 | [Vulture](/3-Mechanics/CLI/bestiary/beast/vulture.md) | Fly |
-| 1/8 | [Camel](/3-Mechanics/CLI/bestiary/beast/camel.md) | — |
-| 1/8 | [Flying snake](/3-Mechanics/CLI/bestiary/beast/flying-snake.md) | Fly |
-| 1/8 | [Mule](/3-Mechanics/CLI/bestiary/beast/mule.md) | — |
-| 1/8 | [Poisonous snake](/3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Constrictor snake](/3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/4 | [Giant lizard](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/4 | [Giant wolf spider](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
-| 1 | [Giant hyena](/3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
-| 1 | [Giant vulture](/3-Mechanics/CLI/bestiary/beast/giant-vulture.md) | Fly |
-| 1 | [Lion](/3-Mechanics/CLI/bestiary/beast/lion.md) | — |
-| 2 | [Giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 3 | [Giant scorpion](/3-Mechanics/CLI/bestiary/beast/giant-scorpion.md) | — |
+| 0 | [Cat](3-Mechanics/CLI/bestiary/beast/cat.md) | — |
+| 0 | [Hyena](3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
+| 0 | [Jackal](3-Mechanics/CLI/bestiary/beast/jackal.md) | — |
+| 0 | [Scorpion](3-Mechanics/CLI/bestiary/beast/scorpion.md) | — |
+| 0 | [Vulture](3-Mechanics/CLI/bestiary/beast/vulture.md) | Fly |
+| 1/8 | [Camel](3-Mechanics/CLI/bestiary/beast/camel.md) | — |
+| 1/8 | [Flying snake](3-Mechanics/CLI/bestiary/beast/flying-snake.md) | Fly |
+| 1/8 | [Mule](3-Mechanics/CLI/bestiary/beast/mule.md) | — |
+| 1/8 | [Poisonous snake](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Constrictor snake](3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/4 | [Giant lizard](3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/4 | [Giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
+| 1 | [Giant hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
+| 1 | [Giant vulture](3-Mechanics/CLI/bestiary/beast/giant-vulture.md) | Fly |
+| 1 | [Lion](3-Mechanics/CLI/bestiary/beast/lion.md) | — |
+| 2 | [Giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 3 | [Giant scorpion](3-Mechanics/CLI/bestiary/beast/giant-scorpion.md) | — |
 ^desert
 
 **Forest**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Baboon](/3-Mechanics/CLI/bestiary/beast/baboon.md) | — |
-| 0 | [Badger](/3-Mechanics/CLI/bestiary/beast/badger.md) | — |
-| 0 | [Cat](/3-Mechanics/CLI/bestiary/beast/cat.md) | — |
-| 0 | [Deer](/3-Mechanics/CLI/bestiary/beast/deer.md) | — |
-| 0 | [Hyena](/3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
-| 0 | [Owl](/3-Mechanics/CLI/bestiary/beast/owl.md) | Fly |
-| 1/8 | [Blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Flying snake](/3-Mechanics/CLI/bestiary/beast/flying-snake.md) | Fly |
-| 1/8 | [Giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat.md) | — |
-| 1/8 | [Giant weasel](/3-Mechanics/CLI/bestiary/beast/giant-weasel.md) | — |
-| 1/8 | [Poisonous snake](/3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Mastiff](/3-Mechanics/CLI/bestiary/beast/mastiff.md) | — |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Boar](/3-Mechanics/CLI/bestiary/beast/boar.md) | — |
-| 1/4 | [Constrictor snake](/3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/4 | [Elk](/3-Mechanics/CLI/bestiary/beast/elk.md) | — |
-| 1/4 | [Giant badger](/3-Mechanics/CLI/bestiary/beast/giant-badger.md) | — |
-| 1/4 | [Giant bat](/3-Mechanics/CLI/bestiary/beast/giant-bat.md) | Fly |
-| 1/4 | [Giant frog](/3-Mechanics/CLI/bestiary/beast/giant-frog.md) | Swim |
-| 1/4 | [Giant lizard](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant owl](/3-Mechanics/CLI/bestiary/beast/giant-owl.md) | Fly |
-| 1/4 | [Giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/4 | [Giant wolf spider](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Panther](/3-Mechanics/CLI/bestiary/beast/panther.md) | — |
-| 1/4 | [Wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) | — |
-| 1/2 | [Ape](/3-Mechanics/CLI/bestiary/beast/ape.md) | — |
-| 1/2 | [Black bear](/3-Mechanics/CLI/bestiary/beast/black-bear.md) | — |
-| 1/2 | [Giant wasp](/3-Mechanics/CLI/bestiary/beast/giant-wasp.md) | Fly |
-| 1 | [Brown bear](/3-Mechanics/CLI/bestiary/beast/brown-bear.md) | — |
-| 1 | [Dire wolf](/3-Mechanics/CLI/bestiary/beast/dire-wolf.md) | — |
-| 1 | [Giant hyena](/3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
-| 1 | [Tiger](/3-Mechanics/CLI/bestiary/beast/tiger.md) | — |
-| 2 | [Giant boar](/3-Mechanics/CLI/bestiary/beast/giant-boar.md) | — |
-| 2 | [Giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 2 | [Giant elk](/3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
+| 0 | [Baboon](3-Mechanics/CLI/bestiary/beast/baboon.md) | — |
+| 0 | [Badger](3-Mechanics/CLI/bestiary/beast/badger.md) | — |
+| 0 | [Cat](3-Mechanics/CLI/bestiary/beast/cat.md) | — |
+| 0 | [Deer](3-Mechanics/CLI/bestiary/beast/deer.md) | — |
+| 0 | [Hyena](3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
+| 0 | [Owl](3-Mechanics/CLI/bestiary/beast/owl.md) | Fly |
+| 1/8 | [Blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Flying snake](3-Mechanics/CLI/bestiary/beast/flying-snake.md) | Fly |
+| 1/8 | [Giant rat](3-Mechanics/CLI/bestiary/beast/giant-rat.md) | — |
+| 1/8 | [Giant weasel](3-Mechanics/CLI/bestiary/beast/giant-weasel.md) | — |
+| 1/8 | [Poisonous snake](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Mastiff](3-Mechanics/CLI/bestiary/beast/mastiff.md) | — |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Boar](3-Mechanics/CLI/bestiary/beast/boar.md) | — |
+| 1/4 | [Constrictor snake](3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/4 | [Elk](3-Mechanics/CLI/bestiary/beast/elk.md) | — |
+| 1/4 | [Giant badger](3-Mechanics/CLI/bestiary/beast/giant-badger.md) | — |
+| 1/4 | [Giant bat](3-Mechanics/CLI/bestiary/beast/giant-bat.md) | Fly |
+| 1/4 | [Giant frog](3-Mechanics/CLI/bestiary/beast/giant-frog.md) | Swim |
+| 1/4 | [Giant lizard](3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant owl](3-Mechanics/CLI/bestiary/beast/giant-owl.md) | Fly |
+| 1/4 | [Giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/4 | [Giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Panther](3-Mechanics/CLI/bestiary/beast/panther.md) | — |
+| 1/4 | [Wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) | — |
+| 1/2 | [Ape](3-Mechanics/CLI/bestiary/beast/ape.md) | — |
+| 1/2 | [Black bear](3-Mechanics/CLI/bestiary/beast/black-bear.md) | — |
+| 1/2 | [Giant wasp](3-Mechanics/CLI/bestiary/beast/giant-wasp.md) | Fly |
+| 1 | [Brown bear](3-Mechanics/CLI/bestiary/beast/brown-bear.md) | — |
+| 1 | [Dire wolf](3-Mechanics/CLI/bestiary/beast/dire-wolf.md) | — |
+| 1 | [Giant hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
+| 1 | [Tiger](3-Mechanics/CLI/bestiary/beast/tiger.md) | — |
+| 2 | [Giant boar](3-Mechanics/CLI/bestiary/beast/giant-boar.md) | — |
+| 2 | [Giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 2 | [Giant elk](3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
 ^forest
 
 **Grassland**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Cat](/3-Mechanics/CLI/bestiary/beast/cat.md) | — |
-| 0 | [Deer](/3-Mechanics/CLI/bestiary/beast/deer.md) | — |
-| 0 | [Eagle](/3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
-| 0 | [Goat](/3-Mechanics/CLI/bestiary/beast/goat.md) | — |
-| 0 | [Hyena](/3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
-| 0 | [Jackal](/3-Mechanics/CLI/bestiary/beast/jackal.md) | — |
-| 0 | [Vulture](/3-Mechanics/CLI/bestiary/beast/vulture.md) | Fly |
-| 1/8 | [Blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Flying snake](/3-Mechanics/CLI/bestiary/beast/flying-snake.md) | Fly |
-| 1/8 | [Giant weasel](/3-Mechanics/CLI/bestiary/beast/giant-weasel.md) | — |
-| 1/8 | [Poisonous snake](/3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Axe beak](/3-Mechanics/CLI/bestiary/beast/axe-beak.md) | — |
-| 1/4 | [Boar](/3-Mechanics/CLI/bestiary/beast/boar.md) | — |
-| 1/4 | [Elk](/3-Mechanics/CLI/bestiary/beast/elk.md) | — |
-| 1/4 | [Giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/4 | [Giant wolf spider](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Panther](/3-Mechanics/CLI/bestiary/beast/panther.md) (leopard) | — |
-| 1/4 | [Pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon.md) | Fly |
-| 1/4 | [Riding horse](/3-Mechanics/CLI/bestiary/beast/riding-horse.md) | — |
-| 1/4 | [Wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) | — |
-| 1/2 | [Giant goat](/3-Mechanics/CLI/bestiary/beast/giant-goat.md) | — |
-| 1/2 | [Giant wasp](/3-Mechanics/CLI/bestiary/beast/giant-wasp.md) | Fly |
-| 1 | [Giant eagle](/3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Giant hyena](/3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Giant vulture](/3-Mechanics/CLI/bestiary/beast/giant-vulture.md) | Fly |
-| 1 | [Lion](/3-Mechanics/CLI/bestiary/beast/lion.md) | — |
-| 1 | [Tiger](/3-Mechanics/CLI/bestiary/beast/tiger.md) | — |
-| 2 | [Allosaurus](/3-Mechanics/CLI/bestiary/beast/allosaurus.md) | — |
-| 2 | [Giant boar](/3-Mechanics/CLI/bestiary/beast/giant-boar.md) | — |
-| 2 | [Giant elk](/3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
-| 2 | [Rhinoceros](/3-Mechanics/CLI/bestiary/beast/rhinoceros.md) | — |
-| 3 | [Ankylosaurus](/3-Mechanics/CLI/bestiary/beast/ankylosaurus.md) | — |
-| 4 | [Elephant](/3-Mechanics/CLI/bestiary/beast/elephant.md) | — |
-| 5 | [Triceratops](/3-Mechanics/CLI/bestiary/beast/triceratops.md) | — |
+| 0 | [Cat](3-Mechanics/CLI/bestiary/beast/cat.md) | — |
+| 0 | [Deer](3-Mechanics/CLI/bestiary/beast/deer.md) | — |
+| 0 | [Eagle](3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
+| 0 | [Goat](3-Mechanics/CLI/bestiary/beast/goat.md) | — |
+| 0 | [Hyena](3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
+| 0 | [Jackal](3-Mechanics/CLI/bestiary/beast/jackal.md) | — |
+| 0 | [Vulture](3-Mechanics/CLI/bestiary/beast/vulture.md) | Fly |
+| 1/8 | [Blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Flying snake](3-Mechanics/CLI/bestiary/beast/flying-snake.md) | Fly |
+| 1/8 | [Giant weasel](3-Mechanics/CLI/bestiary/beast/giant-weasel.md) | — |
+| 1/8 | [Poisonous snake](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Axe beak](3-Mechanics/CLI/bestiary/beast/axe-beak.md) | — |
+| 1/4 | [Boar](3-Mechanics/CLI/bestiary/beast/boar.md) | — |
+| 1/4 | [Elk](3-Mechanics/CLI/bestiary/beast/elk.md) | — |
+| 1/4 | [Giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/4 | [Giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Panther](3-Mechanics/CLI/bestiary/beast/panther.md) (leopard) | — |
+| 1/4 | [Pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md) | Fly |
+| 1/4 | [Riding horse](3-Mechanics/CLI/bestiary/beast/riding-horse.md) | — |
+| 1/4 | [Wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) | — |
+| 1/2 | [Giant goat](3-Mechanics/CLI/bestiary/beast/giant-goat.md) | — |
+| 1/2 | [Giant wasp](3-Mechanics/CLI/bestiary/beast/giant-wasp.md) | Fly |
+| 1 | [Giant eagle](3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Giant hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Giant vulture](3-Mechanics/CLI/bestiary/beast/giant-vulture.md) | Fly |
+| 1 | [Lion](3-Mechanics/CLI/bestiary/beast/lion.md) | — |
+| 1 | [Tiger](3-Mechanics/CLI/bestiary/beast/tiger.md) | — |
+| 2 | [Allosaurus](3-Mechanics/CLI/bestiary/beast/allosaurus.md) | — |
+| 2 | [Giant boar](3-Mechanics/CLI/bestiary/beast/giant-boar.md) | — |
+| 2 | [Giant elk](3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
+| 2 | [Rhinoceros](3-Mechanics/CLI/bestiary/beast/rhinoceros.md) | — |
+| 3 | [Ankylosaurus](3-Mechanics/CLI/bestiary/beast/ankylosaurus.md) | — |
+| 4 | [Elephant](3-Mechanics/CLI/bestiary/beast/elephant.md) | — |
+| 5 | [Triceratops](3-Mechanics/CLI/bestiary/beast/triceratops.md) | — |
 ^grassland
 
 **Hill**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Baboon](/3-Mechanics/CLI/bestiary/beast/baboon.md) | — |
-| 0 | [Eagle](/3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
-| 0 | [Goat](/3-Mechanics/CLI/bestiary/beast/goat.md) | — |
-| 0 | [Hyena](/3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
-| 0 | [Raven](/3-Mechanics/CLI/bestiary/beast/raven.md) | Fly |
-| 0 | [Vulture](/3-Mechanics/CLI/bestiary/beast/vulture.md) | Fly |
-| 1/8 | [Blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Giant weasel](/3-Mechanics/CLI/bestiary/beast/giant-weasel.md) | — |
-| 1/8 | [Mastiff](/3-Mechanics/CLI/bestiary/beast/mastiff.md) | — |
-| 1/8 | [Mule](/3-Mechanics/CLI/bestiary/beast/mule.md) | — |
-| 1/8 | [Poisonous snake](/3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Axe beak](/3-Mechanics/CLI/bestiary/beast/axe-beak.md) | — |
-| 1/4 | [Boar](/3-Mechanics/CLI/bestiary/beast/boar.md) | — |
-| 1/4 | [Elk](/3-Mechanics/CLI/bestiary/beast/elk.md) | — |
-| 1/4 | [Giant owl](/3-Mechanics/CLI/bestiary/beast/giant-owl.md) | Fly |
-| 1/4 | [Giant wolf spider](/3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
-| 1/4 | [Panther](/3-Mechanics/CLI/bestiary/beast/panther.md) (cougar) | — |
-| 1/4 | [Wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) | — |
-| 1/2 | [Giant goat](/3-Mechanics/CLI/bestiary/beast/giant-goat.md) | — |
-| 1 | [Brown bear](/3-Mechanics/CLI/bestiary/beast/brown-bear.md) | — |
-| 1 | [Dire wolf](/3-Mechanics/CLI/bestiary/beast/dire-wolf.md) | — |
-| 1 | [Giant eagle](/3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Giant hyena](/3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
-| 1 | [Lion](/3-Mechanics/CLI/bestiary/beast/lion.md) | — |
-| 2 | [Giant boar](/3-Mechanics/CLI/bestiary/beast/giant-boar.md) | — |
-| 2 | [Giant elk](/3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
+| 0 | [Baboon](3-Mechanics/CLI/bestiary/beast/baboon.md) | — |
+| 0 | [Eagle](3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
+| 0 | [Goat](3-Mechanics/CLI/bestiary/beast/goat.md) | — |
+| 0 | [Hyena](3-Mechanics/CLI/bestiary/beast/hyena.md) | — |
+| 0 | [Raven](3-Mechanics/CLI/bestiary/beast/raven.md) | Fly |
+| 0 | [Vulture](3-Mechanics/CLI/bestiary/beast/vulture.md) | Fly |
+| 1/8 | [Blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Giant weasel](3-Mechanics/CLI/bestiary/beast/giant-weasel.md) | — |
+| 1/8 | [Mastiff](3-Mechanics/CLI/bestiary/beast/mastiff.md) | — |
+| 1/8 | [Mule](3-Mechanics/CLI/bestiary/beast/mule.md) | — |
+| 1/8 | [Poisonous snake](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Axe beak](3-Mechanics/CLI/bestiary/beast/axe-beak.md) | — |
+| 1/4 | [Boar](3-Mechanics/CLI/bestiary/beast/boar.md) | — |
+| 1/4 | [Elk](3-Mechanics/CLI/bestiary/beast/elk.md) | — |
+| 1/4 | [Giant owl](3-Mechanics/CLI/bestiary/beast/giant-owl.md) | Fly |
+| 1/4 | [Giant wolf spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md) | — |
+| 1/4 | [Panther](3-Mechanics/CLI/bestiary/beast/panther.md) (cougar) | — |
+| 1/4 | [Wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) | — |
+| 1/2 | [Giant goat](3-Mechanics/CLI/bestiary/beast/giant-goat.md) | — |
+| 1 | [Brown bear](3-Mechanics/CLI/bestiary/beast/brown-bear.md) | — |
+| 1 | [Dire wolf](3-Mechanics/CLI/bestiary/beast/dire-wolf.md) | — |
+| 1 | [Giant eagle](3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Giant hyena](3-Mechanics/CLI/bestiary/beast/giant-hyena.md) | — |
+| 1 | [Lion](3-Mechanics/CLI/bestiary/beast/lion.md) | — |
+| 2 | [Giant boar](3-Mechanics/CLI/bestiary/beast/giant-boar.md) | — |
+| 2 | [Giant elk](3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
 ^hill
 
 **Mountain**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Eagle](/3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
-| 0 | [Goat](/3-Mechanics/CLI/bestiary/beast/goat.md) | — |
-| 1/8 | [Blood hawk](/3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Pteranodon](/3-Mechanics/CLI/bestiary/beast/pteranodon.md) | Fly |
-| 1/2 | [Giant goat](/3-Mechanics/CLI/bestiary/beast/giant-goat.md) | — |
-| 1 | [Giant eagle](/3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
-| 1 | [Lion](/3-Mechanics/CLI/bestiary/beast/lion.md) | — |
-| 2 | [Giant elk](/3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
-| 2 | [Saber-toothed tiger](/3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) | — |
+| 0 | [Eagle](3-Mechanics/CLI/bestiary/beast/eagle.md) | Fly |
+| 0 | [Goat](3-Mechanics/CLI/bestiary/beast/goat.md) | — |
+| 1/8 | [Blood hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md) | Fly |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Pteranodon](3-Mechanics/CLI/bestiary/beast/pteranodon.md) | Fly |
+| 1/2 | [Giant goat](3-Mechanics/CLI/bestiary/beast/giant-goat.md) | — |
+| 1 | [Giant eagle](3-Mechanics/CLI/bestiary/beast/giant-eagle.md) | Fly |
+| 1 | [Lion](3-Mechanics/CLI/bestiary/beast/lion.md) | — |
+| 2 | [Giant elk](3-Mechanics/CLI/bestiary/beast/giant-elk.md) | — |
+| 2 | [Saber-toothed tiger](3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) | — |
 ^mountain
 
 **Swamp**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Rat](/3-Mechanics/CLI/bestiary/beast/rat.md) | — |
-| 0 | [Raven](/3-Mechanics/CLI/bestiary/beast/raven.md) | Fly |
-| 1/8 | [Giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat.md) | — |
-| 1/8 | [Poisonous snake](/3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Constrictor snake](/3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/4 | [Giant frog](/3-Mechanics/CLI/bestiary/beast/giant-frog.md) | Swim |
-| 1/4 | [Giant lizard](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1/2 | [Crocodile](/3-Mechanics/CLI/bestiary/beast/crocodile.md) | Swim |
-| 1 | [Giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
-| 2 | [Giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 5 | [Giant crocodile](/3-Mechanics/CLI/bestiary/beast/giant-crocodile.md) | Swim |
+| 0 | [Rat](3-Mechanics/CLI/bestiary/beast/rat.md) | — |
+| 0 | [Raven](3-Mechanics/CLI/bestiary/beast/raven.md) | Fly |
+| 1/8 | [Giant rat](3-Mechanics/CLI/bestiary/beast/giant-rat.md) | — |
+| 1/8 | [Poisonous snake](3-Mechanics/CLI/bestiary/beast/poisonous-snake.md) | Swim |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Constrictor snake](3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/4 | [Giant frog](3-Mechanics/CLI/bestiary/beast/giant-frog.md) | Swim |
+| 1/4 | [Giant lizard](3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1/2 | [Crocodile](3-Mechanics/CLI/bestiary/beast/crocodile.md) | Swim |
+| 1 | [Giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
+| 2 | [Giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 5 | [Giant crocodile](3-Mechanics/CLI/bestiary/beast/giant-crocodile.md) | Swim |
 ^swamp
 
 **Underdark**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Giant fire beetle](/3-Mechanics/CLI/bestiary/beast/giant-fire-beetle.md) | — |
-| 1/8 | [Giant rat](/3-Mechanics/CLI/bestiary/beast/giant-rat.md) | — |
-| 1/8 | [Stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
-| 1/4 | [Giant bat](/3-Mechanics/CLI/bestiary/beast/giant-bat.md) | Fly |
-| 1/4 | [Giant centipede](/3-Mechanics/CLI/bestiary/beast/giant-centipede.md) | — |
-| 1/4 | [Giant lizard](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
-| 1/4 | [Giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
-| 1 | [Giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
-| 1 | [Giant toad](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
-| 2 | [Giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 2 | [Polar bear](/3-Mechanics/CLI/bestiary/beast/polar-bear.md) (cave bear) | Swim |
+| 0 | [Giant fire beetle](3-Mechanics/CLI/bestiary/beast/giant-fire-beetle.md) | — |
+| 1/8 | [Giant rat](3-Mechanics/CLI/bestiary/beast/giant-rat.md) | — |
+| 1/8 | [Stirge](3-Mechanics/CLI/bestiary/beast/stirge.md) | Fly |
+| 1/4 | [Giant bat](3-Mechanics/CLI/bestiary/beast/giant-bat.md) | Fly |
+| 1/4 | [Giant centipede](3-Mechanics/CLI/bestiary/beast/giant-centipede.md) | — |
+| 1/4 | [Giant lizard](3-Mechanics/CLI/bestiary/beast/giant-lizard.md) | — |
+| 1/4 | [Giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md) | Swim |
+| 1 | [Giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md) | — |
+| 1 | [Giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md) | Swim |
+| 2 | [Giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 2 | [Polar bear](3-Mechanics/CLI/bestiary/beast/polar-bear.md) (cave bear) | Swim |
 ^underdark
 
 **Underwater**
 
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
-| 0 | [Quipper](/3-Mechanics/CLI/bestiary/beast/quipper.md) | Swim |
-| 1/4 | [Constrictor snake](/3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
-| 1/2 | [Giant sea horse](/3-Mechanics/CLI/bestiary/beast/giant-sea-horse.md) | Swim |
-| 1/2 | [Reef shark](/3-Mechanics/CLI/bestiary/beast/reef-shark.md) | Swim |
-| 1 | [Giant octopus](/3-Mechanics/CLI/bestiary/beast/giant-octopus.md) | Swim |
-| 2 | [Giant constrictor snake](/3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
-| 2 | [Hunter shark](/3-Mechanics/CLI/bestiary/beast/hunter-shark.md) | Swim |
-| 2 | [Plesiosaurus](/3-Mechanics/CLI/bestiary/beast/plesiosaurus.md) | Swim |
-| 3 | [Killer whale](/3-Mechanics/CLI/bestiary/beast/killer-whale.md) | Swim |
-| 5 | [Giant shark](/3-Mechanics/CLI/bestiary/beast/giant-shark.md) | Swim |
+| 0 | [Quipper](3-Mechanics/CLI/bestiary/beast/quipper.md) | Swim |
+| 1/4 | [Constrictor snake](3-Mechanics/CLI/bestiary/beast/constrictor-snake.md) | Swim |
+| 1/2 | [Giant sea horse](3-Mechanics/CLI/bestiary/beast/giant-sea-horse.md) | Swim |
+| 1/2 | [Reef shark](3-Mechanics/CLI/bestiary/beast/reef-shark.md) | Swim |
+| 1 | [Giant octopus](3-Mechanics/CLI/bestiary/beast/giant-octopus.md) | Swim |
+| 2 | [Giant constrictor snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md) | Swim |
+| 2 | [Hunter shark](3-Mechanics/CLI/bestiary/beast/hunter-shark.md) | Swim |
+| 2 | [Plesiosaurus](3-Mechanics/CLI/bestiary/beast/plesiosaurus.md) | Swim |
+| 3 | [Killer whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md) | Swim |
+| 5 | [Giant shark](3-Mechanics/CLI/bestiary/beast/giant-shark.md) | Swim |
 ^underwater
 
 ## Class Features
 
 ### Druidic (Level 1)
 
-You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check but can't decipher it without magic.
+You know Druidic, the secret language of druids. You can speak the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check but can't decipher it without magic.
 
 ### Spellcasting (Level 1)
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the druid spell list.
 
-#### Cantrips
+**Cantrips.** At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
 
-At 1st level, you know two cantrips of your choice from the druid spell list. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table.
-
-#### Preparing and Casting Spells
-
-The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Druid table shows how many spell slots you have to cast your druid spells of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](/3-Mechanics/CLI/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your druid spells, since your magic draws upon your devotion and attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-
-#### Spellcasting Focus
-
-You can use a [druidic focus](/3-Mechanics/CLI/items/druidic-focus.md) as a spellcasting focus for your druid spells.
+**Spellcasting Focus.** You can use a [druidic focus](3-Mechanics/CLI/items/druidic-focus.md) as a spellcasting focus for your druid spells.
 
 ### Wild Shape (Level 2)
 
@@ -514,14 +498,14 @@ Your druid level determines the beasts you can transform into, as shown in the B
 | 8th | 1 | — | Giant eagle |
 ^beast-shapes
 
-You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious), drop to 0 hit points, or die.
+You can stay in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 
 - Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them.  
-- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious).  
-- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning](/3-Mechanics/CLI/spells/call-lightning.md), that you've already cast.  
-- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [darkvision](/3-Mechanics/CLI/senses.md#Darkvision), unless your new form also has that sense.  
+- When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).  
+- You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as [call lightning](3-Mechanics/CLI/spells/call-lightning.md), that you've already cast.  
+- You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), unless your new form also has that sense.  
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form.  
 
 ### Wild Companion (Level 2)
@@ -529,7 +513,7 @@ _Source: Tasha's Cauldron of Everything p. 35_
 
 *2nd-level druid <span title="Tasha's Cauldron of Everything">optional feature</span>*
 
-You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar](/3-Mechanics/CLI/spells/find-familiar.md) spell, without material components.
+You gain the ability to summon a spirit that assumes an animal form: as an action, you can expend a use of your Wild Shape feature to cast the [find familiar](3-Mechanics/CLI/spells/find-familiar.md) spell, without material components.
 
 When you cast the spell in this way, the familiar is a fey instead of a beast, and the familiar disappears after a number of hours equal to half your druid level.
 

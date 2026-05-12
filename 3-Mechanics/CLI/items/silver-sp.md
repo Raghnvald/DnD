@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/treasure-coinage
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Silver (sp)"
 ---
 # Silver (sp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/silver-sp.webp#right)
+![](3-Mechanics/CLI/items/img/silver-sp.webp#right)
 
 - **Cost**: 1 sp
 - **Weight**: 0.02 lbs.

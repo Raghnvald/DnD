@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fume Drake
+- "Fume Drake"
 ---
-# [Fume Drake](3-Mechanics\CLI\bestiary\elemental/fume-drake-dosi.md)
+# [Fume Drake](3-Mechanics/CLI/bestiary/elemental/fume-drake-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 41*  
 
 Fume drakes are mischievous creatures that arise from the lingering magical energy of a dead dragon. They resemble small, legless dragons formed from clouds of greenish smoke. They delight in causing pain and confusion in other creatures.
@@ -47,8 +47,8 @@ Fume drakes are mischievous creatures that arise from the lingering magical ener
   - "desc": "The fume drake doesn't require food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) fire damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) fire damage."
     "name": "Bite"
   - "desc": "The fume drake exhales a 15-foot cone of scalding steam. Each creature\
       \ in that area must make a DC 11 Dexterity saving throw, taking 4 (1d8) fire\
@@ -56,6 +56,6 @@ Fume drakes are mischievous creatures that arise from the lingering magical ener
     "name": "Scalding Breath (Recharge 6)"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/fume-drake-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/fume-drake-dosi.webp"
 ```
 ^statblock

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elemental Cultist
+- "Elemental Cultist"
 ---
-# [Elemental Cultist](3-Mechanics\CLI\bestiary\humanoid/elemental-cultist-xmm.md)
+# [Elemental Cultist](3-Mechanics/CLI/bestiary/humanoid/elemental-cultist-xmm.md)
 *Source: Monster Manual (2024) p. 87*  
 
 Elemental cultists harness destructive natural forces to cleanse the world of civilization or prove the dominance of one element over all others. Such cultists are aligned with Elemental monsters or wicked immortals such as the Princes of Elemental Evil or the Elder Elemental Eye.
@@ -23,13 +23,11 @@ Elemental cultists harness destructive natural forces to cleanse the world of ci
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
 **Cultist Agendas**
-
-`dice: [](elemental-cultist-xmm.md#^cultist-agendas)`
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
@@ -46,8 +44,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
 
 **Cult Symbols**
-
-`dice: [](elemental-cultist-xmm.md#^cult-symbols)`
 
 | dice: 1d10 | The Symbol Is... | Depicted As... |
 |------------|------------------|----------------|
@@ -97,12 +93,14 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+5"
+"gear":
+  - "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Common, Primordial"
 "cr": "8"
@@ -110,26 +108,26 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "desc": "The cultist makes three attacks, using Elemental Flail or Elemental Claw\
       \ in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 25 (6d6 + 4) damage of a\
-      \ type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 25 (6d6 + 4) damage of\
+      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder."
     "name": "Elemental Flail"
-  - "desc": "*Ranged Attack Roll:* +7, range 120 ft. *Hit:* 22 (4d10) damage of a\
-      \ type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If the\
-      \ target is a Medium or smaller creature, the cultist moves the target up to\
-      \ 10 feet straight toward or away from itself."
+  - "desc": "*Ranged Attack Roll:* +7, range 120 ft. *Hit:* 22 (4d10) damage of\
+      \ a type chosen by the cultist: Acid, Cold, Fire, Lightning, or Thunder. If\
+      \ the target is a Medium or smaller creature, the cultist moves the target up\
+      \ to 10 feet straight toward or away from itself."
     "name": "Elemental Claw"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 15):\n\n**At will:** [Elementalism](/3-Mechanics/CLI/spells/elementalism-xphb.md),\
-      \ [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)"
+      \ ability (spell save DC 15):\n\n**At will:** [Elementalism](3-Mechanics/CLI/spells/elementalism-xphb.md),\
+      \ [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "Trigger: The cultist takes Acid, Cold, Fire, Lightning, or Thunder damage.\
-      \ _Response:_ The cultist gives itself [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md)\
-      \ to that instance of damage and gains 10 [Temporary Hit Points](/3-Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md)."
+      \ _Response:_ The cultist gives itself [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md)\
+      \ to that instance of damage and gains 10 [Temporary Hit Points](3-Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md)."
     "name": "Elemental Absorption (1/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/elemental-cultist-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/elemental-cultist-xmm.webp"
 ```
 ^statblock
 

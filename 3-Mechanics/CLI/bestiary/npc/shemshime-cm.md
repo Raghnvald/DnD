@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shemshime
+- "Shemshime"
 ---
-# [Shemshime](3-Mechanics\CLI\bestiary\npc/shemshime-cm.md)
+# [Shemshime](3-Mechanics/CLI/bestiary/npc/shemshime-cm.md)
 *Source: Candlekeep Mysteries p. 69*  
 
 ```statblock
@@ -57,8 +57,8 @@ aliases:
       \ an object."
     "name": "Incorporeal Movement"
 "actions":
-  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6\
-      \ + 3) psychic damage."
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17\
+      \ (4d6 + 3) psychic damage."
     "name": "Maddening Touch"
   - "desc": "Shemshime chooses up to two creatures it can see within 60 feet of it.\
       \ Each target must succeed on a DC 13 Wisdom saving throw, or that target takes\
@@ -73,6 +73,6 @@ aliases:
     "name": "Howling Babble (Recharge 6)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/shemshime-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/shemshime-cm.webp"
 ```
 ^statblock

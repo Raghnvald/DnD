@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Appendix B: Sidekicks
+- "Appendix B: Sidekicks"
 ---
 # Appendix B: Sidekicks
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -24,7 +24,7 @@ If the characters have already played through Dragon of Icespire Peak, they can 
 
 ### Donnabella Fiasco
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/023-ynkgo-donnabella.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/023-ynkgo-donnabella.webp#center)
 
 #### Donnabella Fiasco
 
@@ -32,7 +32,7 @@ If the characters have already played through Dragon of Icespire Peak, they can 
 
 Donnabella is a young magic-user who wears a papier-mâché unicorn mask because it makes her feel more magical.
 
-Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md) or [Spellcaster (Mage)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md) sidekick stat block to represent her.
+Use the [Spellcaster (Healer)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md) or [Spellcaster (Mage)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md) sidekick stat block to represent her.
 
 #### Personality
 
@@ -52,7 +52,7 @@ Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-he
 
 ### Galandro Luna
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/024-leeom-galandro.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/024-leeom-galandro.webp#center)
 
 #### Galandro Luna
 
@@ -60,7 +60,7 @@ Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-he
 
 Galandro's most treasured possession is a fiddle that he tunes and plucks constantly.
 
-Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat block to represent him.
+Use the [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat block to represent him.
 
 #### Personality
 
@@ -80,7 +80,7 @@ Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat
 
 ### Inverna Nightbreeze
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/025-l3v6r-inverna.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/025-l3v6r-inverna.webp#center)
 
 #### Inverna Nightbreeze
 
@@ -88,7 +88,7 @@ Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat
 
 Inverna has a scar on her cheek where she was grazed by an orc's javelin. She is cautious by nature and suspicious of strangers.
 
-Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick stat block to represent her.
+Use the [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick stat block to represent her.
 
 #### Personality
 
@@ -108,7 +108,7 @@ Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick st
 
 ### Nib Addlespur
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/026-3krsm-nib.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/026-3krsm-nib.webp#center)
 
 #### Nib Addlespur
 
@@ -116,7 +116,7 @@ Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick st
 
 Nib is a happy-go-lucky gambler who keeps a deck of Three-Dragon Ante cards in her vest pocket. She also has a goldfinch named Lil.
 
-Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md) or [Spellcaster (Mage)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md) sidekick stat block to represent her.
+Use the [Spellcaster (Healer)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md) or [Spellcaster (Mage)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md) sidekick stat block to represent her.
 
 #### Personality
 
@@ -136,7 +136,7 @@ Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-he
 
 ### Pickled Pete
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/027-pu4f2-pete.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/027-pu4f2-pete.webp#center)
 
 #### Pickled Pete
 
@@ -144,7 +144,7 @@ Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-he
 
 Pete likes ale and tends to function better while tipsy. At his best, he's quite the handyman and comes up with all sorts of crazy ways to get things done.
 
-Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat block to represent him.
+Use the [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat block to represent him.
 
 #### Personality
 
@@ -164,7 +164,7 @@ Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat
 
 ### Quinn Hightopple
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/028-gttxp-quinn.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/028-gttxp-quinn.webp#center)
 
 #### Quinn Hightopple
 
@@ -172,7 +172,7 @@ Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat
 
 Quinn is a happy little scrapper who likes to punch people in the groin.
 
-Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick stat block to represent him.
+Use the [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick stat block to represent him.
 
 #### Personality
 
@@ -192,7 +192,7 @@ Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick st
 
 ### Ruby Hammerwhacker
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/029-1qyge-ruby.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/029-1qyge-ruby.webp#center)
 
 #### Ruby Hammerwhacker
 
@@ -200,7 +200,7 @@ Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick st
 
 Ruby lacks the customary dwarven stoicism and greets every day with a warm smile and a renewed sense of optimism.
 
-Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick stat block to represent her.
+Use the [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick stat block to represent her.
 
 #### Personality
 
@@ -220,7 +220,7 @@ Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick st
 
 ### Shanjan Kwan
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/030-nemem-shanjan.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/030-nemem-shanjan.webp#center)
 
 #### Shanjan Kwan
 
@@ -228,7 +228,7 @@ Use the [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md) sidekick st
 
 Kwan died and was raised from the dead as an infant, whereupon a tiny black glyph—the symbol of necromancy—appeared on his forehead.
 
-Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md) or [Spellcaster (Mage)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md) sidekick stat block to represent him.
+Use the [Spellcaster (Healer)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md) or [Spellcaster (Mage)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md) sidekick stat block to represent him.
 
 #### Personality
 
@@ -248,7 +248,7 @@ Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-he
 
 ### Talon Thornwild
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/031-nrqv1-talon.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-sleeping-dragons-wake/img/031-nrqv1-talon.webp#center)
 
 #### Talon Thornwild
 
@@ -256,7 +256,7 @@ Use the [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-he
 
 Talon loves gold and adventure, and dreams of being a famous gold prospector.
 
-Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat block to represent them.
+Use the [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat block to represent them.
 
 #### Personality
 
@@ -278,10 +278,10 @@ Use the [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md) sidekick stat
 
 The following stat blocks work with any character race. If you and the DM agree, you may enhance your sidekick with the appropriate racial traits presented in "chapter 2" of the "Player's Handbook".
 
-- [Expert](/3-Mechanics/CLI/bestiary/humanoid/expert-slw.md)  
-- [Spellcaster (Healer)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md)  
-- [Spellcaster (mage)](/3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md)  
-- [Warrior](/3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md)  
+- [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-slw.md)  
+- [Spellcaster (Healer)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-healer-slw.md)  
+- [Spellcaster (mage)](3-Mechanics/CLI/bestiary/humanoid/spellcaster-mage-slw.md)  
+- [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-slw.md)  
 
 ## Proficiencies
 
@@ -297,22 +297,22 @@ When a sidekick gains a level, look at the sidekick's table below, and consult t
 
 | Level | Hit Points | New Features |
 |-------|------------|--------------|
-| 8th | 49 (`dice:9d8+9\|noform\|noparens\|avg` (`9d8 + 9`)) | **Ability Score Improvement.** The expert's Dex. score increases by 2, raising the modifier by 1, so increase the following numbers by 1: the Dex. saving throw bonus; the Armor Class; the Acrobatics, Sleight of Hand, and Stealth bonuses; and the bonuses to hit and damage of the expert's weapon attacks. |
-| 9th | 55 (`dice:10d8+10\|noform\|noparens\|avg` (`10d8 + 10`)) |  |
+| 8th | 49 (`9d8 + 9`) | **Ability Score Improvement.** The expert's Dex. score increases by 2, raising the modifier by 1, so increase the following numbers by 1: the Dex. saving throw bonus; the Armor Class; the [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), and [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) bonuses; and the bonuses to hit and damage of the expert's weapon attacks. |
+| 9th | 55 (`10d8 + 10`) |  |
 ^level-hit-points-new-features
 
 ### Spellcasters Beyond 7th Level
 
 | Level | Hit Points | New Features |
 |-------|------------|--------------|
-| 8th | 40 (`dice:9d8\|noform\|noparens\|avg` (`9d8`)) | **Ability Score Improvement.** The spellcaster's Int. (mage) or Wis. (healer) score increases by 2, raising the modifier by 1, so increase the following numbers by 1: the Int. or Wis. saving throw bonus; Int. or Wis. based skill bonuses; and the bonuses to hit and to saving throw DCs with spells. Spellcasting. The caster gains one 4th-level spell slot and learns one new 4th-level spell: banishment (healer) or polymorph (mage). |
-| 9th | 45 (`dice:10d8\|noform\|noparens\|avg` (`10d8`)) | **Spellcasting.** The spellcaster gains one 4th-level and one 5th-level spell slot and learns one new 5th-level spell: greater restoration (healer) or cone of cold (mage). |
+| 8th | 40 (`9d8`) | **Ability Score Improvement.** The spellcaster's Int. (mage) or Wis. (healer) score increases by 2, raising the modifier by 1, so increase the following numbers by 1: the Int. or Wis. saving throw bonus; Int. or Wis. based skill bonuses; and the bonuses to hit and to saving throw DCs with spells. Spellcasting. The caster gains one 4th-level spell slot and learns one new 4th-level spell: [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) (healer) or [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (mage). |
+| 9th | 45 (`10d8`) | **Spellcasting.** The spellcaster gains one 4th-level and one 5th-level spell slot and learns one new 5th-level spell: [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) (healer) or [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md) (mage). |
 ^level-hit-points-new-features
 
 ### Warriors Beyond 7th Level
 
 | Level | Hit Points | New Features |
 |-------|------------|--------------|
-| 8th | 58 (`dice:9d8+18\|noform\|noparens\|avg` (`9d8 + 18`)) | **Ability Score Improvement.** The warrior's Str. score increases by 2, raising the modifier by 1, so increase the following numbers by 1: the Str. saving throw bonus; the Athletics bonuses; and the bonuses to hit and damage of the warrior's longsword attacks. |
-| 9th | 65 (`dice:10d8+20\|noform\|noparens\|avg` (`10d8 + 20`)) | **Indomitable (1/Day).** The warrior can reroll a saving throw that it fails but must use the new result. |
+| 8th | 58 (`9d8 + 18`) | **Ability Score Improvement.** The warrior's Str. score increases by 2, raising the modifier by 1, so increase the following numbers by 1: the Str. saving throw bonus; the [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics) bonuses; and the bonuses to hit and damage of the warrior's longsword attacks. |
+| 9th | 65 (`10d8 + 20`) | **Indomitable (1/Day).** The warrior can reroll a saving throw that it fails but must use the new result. |
 ^level-hit-points-new-features

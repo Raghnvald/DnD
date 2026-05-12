@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Speed Factor Initiative Modifiers
+- "Speed Factor Initiative Modifiers"
 ---
 # Speed Factor Initiative Modifiers
 *Source: Dungeon Master's Guide p. 270* 

@@ -6,27 +6,25 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Deck of Many Things"
 ---
 # Deck of Many Things
 *Wondrous item, major, legendary*  
-![](/3-Mechanics/CLI/items/img/deck-of-many-things.webp#right)
+![](3-Mechanics/CLI/items/img/deck-of-many-things.webp#right)
 
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 
 Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
 
-Once a card is drawn, it fades from existence. Unless the card is the [Fool](/3-Mechanics/CLI/decks/deck-of-many-things.md#Fool) or the [Jester](/3-Mechanics/CLI/decks/deck-of-many-things.md#Jester), the card reappears in the deck, making it possible to draw the same card twice.
+Once a card is drawn, it fades from existence. Unless the card is the [Fool](3-Mechanics/CLI/decks/deck-of-many-things.md#Fool) or the [Jester](3-Mechanics/CLI/decks/deck-of-many-things.md#Jester), the card reappears in the deck, making it possible to draw the same card twice.
 
 ## A Question of Enmity
 
 Two of the cards in a deck of many things can earn a character the enmity of another being. With the Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil itself.
 
-In the case of the [Rogue](/3-Mechanics/CLI/decks/deck-of-many-things.md#Rogue) card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
-
-`dice: [](deck-of-many-things.md#^1-playing-card-card)`
+In the case of the [Rogue](3-Mechanics/CLI/decks/deck-of-many-things.md#Rogue) card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
 
 | dice: 1d22 | Playing Card | Card |
 |------------|--------------|------|
@@ -66,7 +64,7 @@ You gain 50,000 XP, and a wondrous item (which the DM determines randomly) appea
 
 ## Moon
 
-You are granted the ability to cast the [wish](/3-Mechanics/CLI/spells/wish.md) spell `dice:1d3|noform|noparens|avg` (`1d3`) times.
+You are granted the ability to cast the wish spell `1d3` times.
 
 ## Star
 
@@ -82,7 +80,7 @@ Reality's fabric unravels and spins anew, allowing you to avoid or erase one eve
 
 ## Throne
 
-You gain proficiency in the [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion) skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
+You gain proficiency in the Persuasion skill, and you double your proficiency bonus on checks made with that skill. In addition, you gain rightful ownership of a small keep somewhere in the world. However, the keep is currently in the hands of monsters, which you must clear out before you can claim the keep as yours.
 
 ## Key
 
@@ -102,7 +100,7 @@ Every magic item you wear or carry disintegrates. Artifacts in your possession a
 
 ## The Void
 
-This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). A [wish](/3-Mechanics/CLI/spells/wish.md) spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
+This black card spells disaster. Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is incapacitated. A wish spell can't restore your soul, but the spell reveals the location of the object that holds it. You draw no more cards.
 
 ## Flames
 
@@ -110,15 +108,15 @@ A powerful devil becomes your enemy. The devil seeks your ruin and plagues your 
 
 ## Skull
 
-You summon an [avatar of death](/3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md)—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [avatar of death](/3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md). A creature slain by an [avatar of death](/3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md) can't be restored to life.
+You summon an [avatar of death](3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md)—a ghostly humanoid skeleton clad in a tattered black robe and carrying a spectral scythe. It appears in a space of the DM's choice within 10 feet of you and attacks you, warning all others that you must win the battle alone. The avatar fights until you die or it drops to 0 hit points, whereupon it disappears. If anyone tries to help you, the helper summons its own [avatar of death](3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md). A creature slain by an [avatar of death](3-Mechanics/CLI/bestiary/undead/avatar-of-death-dmg.md) can't be restored to life.
 
 ## Idiot
 
-Permanently reduce your Intelligence by `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) (to a minimum score of 1). You can draw one additional card beyond your declared draws.
+Permanently reduce your Intelligence by `1d4 + 1` (to a minimum score of 1). You can draw one additional card beyond your declared draws.
 
 ## Donjon
 
-You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a [wish](/3-Mechanics/CLI/spells/wish.md) spell can reveal the location of your prison. You draw no more cards.
+You disappear and become entombed in a state of suspended animation in an extradimensional sphere. Everything you were wearing and carrying stays behind in the space you occupied when you disappeared. You remain imprisoned until you are found and removed from the sphere. You can't be located by any divination magic, but a wish spell can reveal the location of your prison. You draw no more cards.
 
 ## Ruin
 
@@ -126,11 +124,11 @@ All forms of wealth that you carry or own, other than magic items, are lost to y
 
 ## Euryale
 
-The card's [medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa.md)-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [The Fates](/3-Mechanics/CLI/decks/deck-of-many-things.md#The%20Fates) card can end this curse.
+The card's medusa-like visage curses you. You take a −2 penalty on saving throws while cursed in this way. Only a god or the magic of [The Fates](3-Mechanics/CLI/decks/deck-of-many-things.md#The%20Fates) card can end this curse.
 
 ## Rogue
 
-A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a [wish](/3-Mechanics/CLI/spells/wish.md) spell or divine intervention can end the NPC's hostility toward you.
+A nonplayer character of the DM's choice becomes hostile toward you. The identity of your new enemy isn't known until the NPC or someone else reveals it. Nothing less than a wish spell or divine intervention can end the NPC's hostility toward you.
 
 ## Balance
 

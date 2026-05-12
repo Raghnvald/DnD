@@ -8,20 +8,20 @@ tags:
 - ttrpg-cli/item/rarity/artifact
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/rod
-aliases: 
+aliases:
 - "Rod of Seven Parts"
 ---
 # Rod of Seven Parts
-*Weapon (quarterstaff), rod, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/rod-of-seven-parts.webp#right)
+*Weapon ([quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)), rod, artifact (requires attunement)*  
+![](3-Mechanics/CLI/items/img/rod-of-seven-parts.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: Versatile
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-Eons ago, a war between the primordials and the gods scarred the planes of existence. A demon lord named [Miska the Wolf-Spider](/3-Mechanics/CLI/bestiary/npc/miska-the-wolf-spider-veor.md) eventually pushed the primordials' enemies to the brink of annihilation.
+Eons ago, a war between the primordials and the gods scarred the planes of existence. A demon lord named [Miska the Wolf-Spider](3-Mechanics/CLI/bestiary/npc/miska-the-wolf-spider-veor.md) eventually pushed the primordials' enemies to the brink of annihilation.
 
 Desperate to save themselves and their allies, powerful elemental beings called the Wind Dukes of Aaqa rose against Miska. Committed to the concept of law, the Wind Dukes descended from a people called the vaati, who once ruled many worlds. Seven Wind Dukes wove their power into an artifact called the Rod of Law. The dukes used the rod to imprison Miska on the plane of Pandemonium. As a result, the rod shattered into seven parts that were scattered throughout the multiverse. The rod thus became known as the Rod of Seven Parts.
 
@@ -35,13 +35,13 @@ Additionally, while holding one piece of the broken rod, you can use an action t
 
 | Piece | Spell |
 |-------|-------|
-| First | Commune |
-| Second | Arcane Gate |
-| Third | Reverse Gravity (spell save DC 18) |
-| Fourth | Regenerate |
-| Fifth | Find the Path |
-| Sixth | Mirage Arcane |
-| Seventh | Simulacrum |
+| First | [Commune](3-Mechanics/CLI/spells/commune-xphb.md) |
+| Second | [Arcane Gate](3-Mechanics/CLI/spells/arcane-gate-xphb.md) |
+| Third | [Reverse Gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md) (spell save DC 18) |
+| Fourth | [Regenerate](3-Mechanics/CLI/spells/regenerate-xphb.md) |
+| Fifth | [Find the Path](3-Mechanics/CLI/spells/find-the-path-xphb.md) |
+| Sixth | [Mirage Arcane](3-Mechanics/CLI/spells/mirage-arcane-xphb.md) |
+| Seventh | [Simulacrum](3-Mechanics/CLI/spells/simulacrum-xphb.md) |
 ^rod-pieces
 
 ## Possessing the Whole Rod
@@ -54,7 +54,7 @@ The Rod of Seven Parts functions for you as a magic quarterstaff that grants a +
 
 ## Rod Spellcasting
 
-The Rod of Seven Parts has 7 charges and regains `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast Detect Evil and Good from the rod without using any charges.
+The Rod of Seven Parts has 7 charges and regains `1d4 + 3` expended charges daily at dawn. While holding the rod, you can use an action to expend 1 charge and cast any of the spells in the Rod Pieces table. You can also use an action to cast [Detect Evil and Good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md) from the rod without using any charges.
 
 ## Ultimate Law
 
@@ -66,7 +66,7 @@ The only way to destroy the Rod of Seven Parts is to immerse the assembled rod i
 
 A piece of the rod may be temporarily destroyed in this way, but each piece re-forms one year after it has succumbed. A re-formed piece teleports to a random place in the multiverse.
 
-![A piece of the Rod of Seven Parts](/3-Mechanics/CLI/items/img/rod-of-seven-parts-piece.webp#center)
+![A piece of the Rod of Seven Parts](3-Mechanics/CLI/items/img/rod-of-seven-parts-piece.webp#center)
 
 
 *Source: Vecna: Eve of Ruin p. 8*

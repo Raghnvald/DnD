@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Flesh Golem
+- "Reduced-Threat Flesh Golem"
 ---
-# [Reduced-Threat Flesh Golem](3-Mechanics\CLI\bestiary\construct/reduced-threat-flesh-golem-tftyp.md)
+# [Reduced-Threat Flesh Golem](3-Mechanics/CLI/bestiary/construct/reduced-threat-flesh-golem-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -34,8 +34,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -52,9 +55,9 @@ aliases:
       \ to do so until it is destroyed or regains all its hit points.\n\nThe golem's\
       \ creator, if within 60 feet of the berserk golem, can try to calm it by speaking\
       \ firmly and persuasively. The golem must be able to hear its creator, who must\
-      \ take an action to make a DC 13 Charisma (Persuasion) check. If the check succeeds,\
-      \ the golem ceases being berserk. If it takes damage while still at 40 hit points\
-      \ or fewer, the golem might go berserk again."
+      \ take an action to make a DC 13 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion))\
+      \ check. If the check succeeds, the golem ceases being berserk. If it takes\
+      \ damage while still at 40 hit points or fewer, the golem might go berserk again."
     "name": "Berserk"
   - "desc": "If the golem takes fire damage, it has disadvantage on attack rolls and\
       \ ability checks until the end of its next turn."
@@ -77,6 +80,6 @@ aliases:
     "name": "Slam"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/reduced-threat-flesh-golem-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/reduced-threat-flesh-golem-tftyp.webp"
 ```
 ^statblock

@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/class/monk
+- ttrpg-cli/spell/list/class/monk
 aliases:
-- Monk Spells
+- "Monk Spells"
 ---
 # Monk Spells
 
 ## 9th Level
 
-- [Astral Projection](/3-Mechanics/CLI/spells/astral-projection.md "PHB")
+- [Astral Projection](3-Mechanics/CLI/spells/astral-projection.md "PHB")

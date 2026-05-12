@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/plant
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mantrap
+- "Mantrap"
 ---
-# [Mantrap](3-Mechanics\CLI\bestiary\plant/mantrap-toa.md)
+# [Mantrap](3-Mechanics/CLI/bestiary/plant/mantrap-toa.md)
 *Source: Tomb of Annihilation p. 227*  
 
 A mantrap is a giant carnivorous plant that resembles an oversized flytrap. To attract prey, the mantrap releases a pollen that magically draws creatures to it. Though it will snap its leafy jaws shut around any warm-blooded creature that strays within its reach, it prefers humanoid prey.
@@ -34,7 +34,8 @@ A mantrap is a giant carnivorous plant that resembles an oversized flytrap. To a
   - !!int "10"
   - !!int "2"
 "speed": "5 ft."
-"condition_immunities": "blinded, deafened, exhaustion, prone"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
 "senses": "tremorsense 30 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
@@ -52,14 +53,15 @@ A mantrap is a giant carnivorous plant that resembles an oversized flytrap. To a
 "actions":
   - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one Medium or smaller\
       \ creature. *Hit:* The target is trapped inside the mantrap's leafy jaws. While\
-      \ trapped in this way, the target is blinded and restrained, has total cover\
-      \ from an attacks and other effects outside the mantrap, and takes 14 (4d6)\
-      \ acid damage at the start of each of the target's turns. If the mantrap dies,\
-      \ the creature inside it is no longer restrained by it. A mantrap can engulf\
-      \ only one creature at a time."
+      \ trapped in this way, the target is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), has total\
+      \ cover from an attacks and other effects outside the mantrap, and takes 14\
+      \ (4d6) acid damage at the start of each of the target's turns. If the mantrap\
+      \ dies, the creature inside it is no longer [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by it. A mantrap can engulf only one creature at a time."
     "name": "Engulf"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/mantrap-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/mantrap-toa.webp"
 ```
 ^statblock

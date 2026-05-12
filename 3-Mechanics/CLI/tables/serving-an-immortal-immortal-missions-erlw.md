@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Serving an Immortal; Immortal Missions
+- "Serving an Immortal; Immortal Missions"
 ---
 # Serving an Immortal; Immortal Missions
 *Source: Eberron: Rising from the Last War p. 84* 
 
 **Immortal Missions**
-
-`dice: [](serving-an-immortal-immortal-missions-erlw.md#^immortal-missions)`
 
 | dice: d8 | Mission |
 |----------|---------|

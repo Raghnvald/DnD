@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/troglodyte
 aliases:
-- Troglodyte
+- "Troglodyte"
 ---
 # Troglodyte
 *Source: Dungeon Master's Guide p. 282*  
@@ -20,15 +20,15 @@ aliases:
 
 ### Chameleon Skin
 
-You have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide.
+You have advantage on Dexterity (Stealth) checks made to hide.
 
 ### Stench
 
-Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+Any creature other than a troglodyte that starts its turn within 5 ft. of you must succeed on a DC 12 Constitution saving throw or be poisoned until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ### Natural Armor
 

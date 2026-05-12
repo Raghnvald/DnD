@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/tool
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Thieves' Tools"
 ---
 # Thieves' Tools
 *Tool*  
-![](/3-Mechanics/CLI/items/img/thieves-tools.webp#right)
+![](3-Mechanics/CLI/items/img/thieves-tools.webp#right)
 
 - **Cost**: 25 gp
 - **Weight**: 1.0 lbs.

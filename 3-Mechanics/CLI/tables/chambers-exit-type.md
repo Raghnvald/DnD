@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chambers; Exit Type
+- "Chambers; Exit Type"
 ---
 # Chambers; Exit Type
 *Source: Dungeon Master's Guide p. 291* 
 
 **Exit Type**
-
-`dice: [](chambers-exit-type.md#^exit-type)`
 
 | dice: d20 | Type |
 |-----------|------|

@@ -7,13 +7,13 @@ tags:
 - ttrpg-cli/monster/cr/7
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow Mage
+- "Drow Mage"
 ---
-# [Drow Mage](3-Mechanics\CLI\bestiary\humanoid/drow-mage.md)
+# [Drow Mage](3-Mechanics/CLI/bestiary/humanoid/drow-mage.md)
 *Source: Monster Manual p. 129*  
 
 ## Drow
@@ -54,7 +54,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -74,10 +74,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow Mage"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor.md)"
 "hp": !!int "45"
 "hit_dice": "10d8"
 "modifier": !!int "2"
@@ -90,54 +90,54 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "7"
 "traits":
   - "desc": "The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). The drow has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](/3-Mechanics/CLI/spells/mage-hand.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion.md), [poison spray](/3-Mechanics/CLI/spells/poison-spray.md),\
-      \ [ray of frost](/3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**1st level (4\
-      \ slots):** [mage armor](/3-Mechanics/CLI/spells/mage-armor.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile.md),\
-      \ [shield](/3-Mechanics/CLI/spells/shield.md), [witch bolt](/3-Mechanics/CLI/spells/witch-bolt.md)\n\
-      \n**2nd level (3 slots):** [alter self](/3-Mechanics/CLI/spells/alter-self.md),\
-      \ [misty step](/3-Mechanics/CLI/spells/misty-step.md), [web](/3-Mechanics/CLI/spells/web.md)\n\
-      \n**3rd level (3 slots):** [fly](/3-Mechanics/CLI/spells/fly.md), [lightning\
-      \ bolt](/3-Mechanics/CLI/spells/lightning-bolt.md)\n\n**4th level (3 slots):**\
-      \ [Evard's black tentacles](/3-Mechanics/CLI/spells/evards-black-tentacles.md),\
-      \ [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility.md)\n\n\
-      **5th level (2 slots):** [cloudkill](/3-Mechanics/CLI/spells/cloudkill.md)"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [mage hand](3-Mechanics/CLI/spells/mage-hand.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md), [poison spray](3-Mechanics/CLI/spells/poison-spray.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md)\n\n**1st level (4 slots):**\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield.md), [witch bolt](3-Mechanics/CLI/spells/witch-bolt.md)\n\
+      \n**2nd level (3 slots):** [alter self](3-Mechanics/CLI/spells/alter-self.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step.md), [web](3-Mechanics/CLI/spells/web.md)\n\
+      \n**3rd level (3 slots):** [fly](3-Mechanics/CLI/spells/fly.md), [lightning\
+      \ bolt](3-Mechanics/CLI/spells/lightning-bolt.md)\n\n**4th level (3 slots):**\
+      \ [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles.md),\
+      \ [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility.md)\n\n\
+      **5th level (2 slots):** [cloudkill](3-Mechanics/CLI/spells/cloudkill.md)"
     "name": "Spellcasting"
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
-      **1/day each:** [darkness](/3-Mechanics/CLI/spells/darkness.md), [faerie fire](/3-Mechanics/CLI/spells/faerie-fire.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate.md) (self only)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
+      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "The drow has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
-      \ - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two\
-      \ hands, plus 3 (1d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used\
+      \ with two hands, plus 3 (1d6) poison damage."
     "name": "Staff"
-  - "desc": "The drow magically summons a [quasit](/3-Mechanics/CLI/bestiary/fiend/quasit.md),\
-      \ or attempts to summon a [shadow demon](/3-Mechanics/CLI/bestiary/fiend/shadow-demon.md)\
+  - "desc": "The drow magically summons a [quasit](3-Mechanics/CLI/bestiary/fiend/quasit.md),\
+      \ or attempts to summon a [shadow demon](3-Mechanics/CLI/bestiary/fiend/shadow-demon.md)\
       \ with a 50 percent chance of success. The summoned demon appears in an unoccupied\
       \ space within 60 feet of its summoner, acts as an ally of its summoner, and\
       \ can't summon other demons. It remains for 10 minutes, until it or its summoner\
@@ -145,7 +145,7 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
     "name": "Summon Demon (1/Day)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/drow-mage.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow-mage.webp"
 ```
 ^statblock
 

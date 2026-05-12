@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eyedrake
+- "Eyedrake"
 ---
-# [Eyedrake](3-Mechanics\CLI\bestiary\aberration/eyedrake-ftd.md)
+# [Eyedrake](3-Mechanics/CLI/bestiary/aberration/eyedrake-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 199*  
 
 When a beholder contends with a dragon for power and wealth, its thoughts of its dragon rival can become deeply obsessive, eventually pervading the beholder's dreams. If the rivalry lasts long enough, these fevered dreams can manifest as an eyedrake—a beholder-like creature with draconic features.
@@ -43,27 +43,26 @@ An eyedrake left to its own devices exhibits much of the stereotypical behavior 
   - "constitution": !!int "6"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"condition_immunities": "prone"
+"senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Deep Speech, Draconic"
 "cr": "8"
 "traits":
   - "desc": "The eyedrake doesn't require food or drink."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (3d6 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (3d6 + 3) piercing damage."
     "name": "Bite"
   - "desc": "The eyedrake emits a magic wave in a 30-foot cone. Each creature in that\
-      \ area must make a DC 14 Constitution saving throw, taking 39 (6d12) force damage\
-      \ on a failed save, or half as much damage on a successful one. Every spell\
-      \ of 3rd level or lower ends on creatures and objects of the eyedrake's choice\
-      \ in that area."
+      \ area must make a DC 14 Constitution saving throw, taking 39 (6d12) force\
+      \ damage on a failed save, or half as much damage on a successful one. Every\
+      \ spell of 3rd level or lower ends on creatures and objects of the eyedrake's\
+      \ choice in that area."
     "name": "Antimagic Breath (Recharge 6)"
   - "desc": "The eyedrake shoots three of the following magical eye rays at random\
       \ (reroll duplicates), each ray targeting one creature it can see within 60\
@@ -72,22 +71,21 @@ An eyedrake left to its own devices exhibits much of the stereotypical behavior 
       \ its speed is halved until the end of its next turn. On a successful save,\
       \ the target takes half as much damage with no additional effects.  \n- **2\
       \ Debilitating Ray.** The target must succeed on a DC 14 Constitution saving\
-      \ throw or take 7 (2d6) thunder damage and become [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ until the end of its next turn.  \n- **3 Repulsion Ray.** The target must\
-      \ succeed on a DC 14 Strength saving throw or take 14 (4d6) force damage and\
-      \ be pushed up to 60 feet away from the eyedrake.  \n- **4 Fire Ray.** The target\
-      \ must make a DC 14 Dexterity saving throw, taking 21 (6d6) fire damage on a\
-      \ failed save, or half as much damage on a successful one.  \n- **5 Paralyzing\
-      \ Ray.** The target must succeed on a DC 14 Constitution saving throw or be\
-      \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success.  \n- **6 Death Ray.** The target must make a DC 14\
-      \ Dexterity saving throw, taking 28 (8d6) necrotic damage on a failed save,\
-      \ or half as much damage on a successful one. The target dies if the ray reduces\
-      \ it to 0 hit points.  "
+      \ throw or take 7 (2d6) thunder damage and become incapacitated until the\
+      \ end of its next turn.  \n- **3 Repulsion Ray.** The target must succeed on\
+      \ a DC 14 Strength saving throw or take 14 (4d6) force damage and be pushed\
+      \ up to 60 feet away from the eyedrake.  \n- **4 Fire Ray.** The target must\
+      \ make a DC 14 Dexterity saving throw, taking 21 (6d6) fire damage on a failed\
+      \ save, or half as much damage on a successful one.  \n- **5 Paralyzing Ray.**\
+      \ The target must succeed on a DC 14 Constitution saving throw or be paralyzed\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success.  \n- **6 Death Ray.**\
+      \ The target must make a DC 14 Dexterity saving throw, taking 28 (8d6) necrotic\
+      \ damage on a failed save, or half as much damage on a successful one. The target\
+      \ dies if the ray reduces it to 0 hit points.  "
     "name": "Eye Rays"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/eyedrake-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/eyedrake-ftd.webp"
 ```
 ^statblock

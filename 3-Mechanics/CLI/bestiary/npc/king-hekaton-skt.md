@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- King Hekaton
+- "King Hekaton"
 ---
-# [King Hekaton](3-Mechanics\CLI\bestiary\npc/king-hekaton-skt.md)
+# [King Hekaton](3-Mechanics/CLI/bestiary/npc/king-hekaton-skt.md)
 *Source: Storm King's Thunder p. 222*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -71,7 +71,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "scale mail"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "330"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -89,13 +89,13 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+14"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
@@ -105,16 +105,18 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** detect magic, feather fall, levitate, light\n\n**3/day each:**\
-      \ control weather, water breathing"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [control\
+      \ weather](3-Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Hekaton can breathe air and water."
     "name": "Amphibious"
 "actions":
   - "desc": "Hekaton makes two broken chain attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (3d6 + 9) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (3d6 + 9) bludgeoning damage."
     "name": "Broken Chain"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 120/480 ft., one target. *Hit:*\
       \ 18 (3d10 + 2) piercing damage."
@@ -126,12 +128,13 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Lightning Strike (Recharge 5-6)"
   - "desc": "Hekaton stomps the ground, triggering a thunderclap. All other creatures\
       \ within 15 feet of him must succeed on a DC 17 Constitution saving throw or\
-      \ take 33 (6d10) thunder damage and be deafened until the start of Hekaton's\
-      \ next turn. On a successful save, a creature takes half as much damage and\
-      \ isn't deafened. The thunderclap can be heard out to a range of 1,200 feet."
+      \ take 33 (6d10) thunder damage and be [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)\
+      \ until the start of Hekaton's next turn. On a successful save, a creature takes\
+      \ half as much damage and isn't [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened).\
+      \ The thunderclap can be heard out to a range of 1,200 feet."
     "name": "Thunderous Stomp (Recharge 6)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/king-hekaton-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/king-hekaton-skt.webp"
 ```
 ^statblock

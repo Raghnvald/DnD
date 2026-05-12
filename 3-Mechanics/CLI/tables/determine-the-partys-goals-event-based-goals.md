@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Determine the Party's Goals; Event-Based Goals
+- "Determine the Party's Goals; Event-Based Goals"
 ---
 # Determine the Party's Goals; Event-Based Goals
 *Source: Dungeon Master's Guide p. 76* 
 
 **Event-Based Goals**
-
-`dice: [](determine-the-partys-goals-event-based-goals.md#^event-based-goals)`
 
 | dice: d20 | Goal |
 |-----------|------|

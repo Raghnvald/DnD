@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Names – Githzerai, Male
+- "Gith Names – Githzerai, Male"
 ---
 # Gith Names – Githzerai, Male
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Gith Names – Githzerai, Male**
-
-`dice: [](gith-names-githzerai-male-mtf.md#^gith-names-githzerai-male)`
 
 | dice: d10 | Name |
 |-----------|------|

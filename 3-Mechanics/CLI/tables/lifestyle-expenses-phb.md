@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Lifestyle Expenses
+- "Lifestyle Expenses"
 ---
 # Lifestyle Expenses
 *Source: Player's Handbook p. 157* 

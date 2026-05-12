@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Propeller Helm"
 ---
 # Propeller Helm
@@ -14,6 +14,6 @@ aliases:
 
 
 
-While worn, the helm allows its wearer to use an action to cast the levitate spell, requiring no components. The helm's propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a 50 percent chance that the helm loses its magic and becomes nonmagical.
+While worn, the helm allows its wearer to use an action to cast the [levitate](3-Mechanics/CLI/spells/levitate-xphb.md) spell, requiring no components. The helm's propeller spins and whirs loudly until the spell ends. Each time the spell ends, there is a 50 percent chance that the helm loses its magic and becomes nonmagical.
 
 *Source: Waterdeep: Dungeon of the Mad Mage p. 251*

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cloud Giant Noble
+- "Cloud Giant Noble"
 ---
-# [Cloud Giant Noble](3-Mechanics\CLI\bestiary\giant/cloud-giant-noble-tftyp.md)
+# [Cloud Giant Noble](3-Mechanics/CLI/bestiary/giant/cloud-giant-noble-tftyp.md)
 *Source: Tales from the Yawning Portal p. 206*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Neutral Good or Neutral Evil"
 "ac": !!int "16"
-"ac_class": "chain mail"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "200"
 "hit_dice": "16d12 + 96"
 "modifier": !!int "0"
@@ -38,32 +38,39 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
+"gear":
+  - "[morningstar](3-Mechanics/CLI/items/morningstar-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Common, Giant"
 "cr": "9"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells, requiring no material components:\n\n**At will:**\
-      \ detect magic, fog cloud, light\n\n**3/day each:** feather fall, fly, misty\
-      \ step, telekinesis\n\n**1/day each:** control weather, gaseous form"
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The giant has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The giant has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
   - "desc": "The giant makes two morningstar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d8 + 8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d8 + 8) piercing damage."
     "name": "Morningstar"
   - "desc": "*Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:*\
       \ 30 (4d10 + 8) bludgeoning damage."
     "name": "Rock"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cloud-giant-noble-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/cloud-giant-noble-tftyp.webp"
 ```
 ^statblock

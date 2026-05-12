@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Dragon's Majesty"
 ---
 # Potion of Dragon's Majesty

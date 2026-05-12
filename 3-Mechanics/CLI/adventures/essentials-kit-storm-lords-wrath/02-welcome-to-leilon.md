@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Welcome to Leilon
+- "Welcome to Leilon"
 ---
 # Welcome to Leilon
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -37,11 +37,9 @@ The characters might wish to explore key establishments within Leilon. These loc
 
 ### Aubrey's Peculiarities Shoppe
 
-This shop is crammed with curiosities dredged from the ruins of Leilon: old fishing rods, swamp idols, mining helmets, and other oddities. A whimsical Illuskan male named Aubrey Silverspun runs the store. Roll a `dice:d20|noform|noparens|avg` (`d20`) on Peculiarities table to see what he has on offer when the characters visit.
+This shop is crammed with curiosities dredged from the ruins of Leilon: old fishing rods, swamp idols, mining helmets, and other oddities. A whimsical Illuskan male named Aubrey Silverspun runs the store. Roll a `d20` on Peculiarities table to see what he has on offer when the characters visit.
 
 **Peculiarities**
-
-`dice: [](02-welcome-to-leilon.md#^peculiarities)`
 
 | dice: d20 | Peculiarity | Price |
 |-----------|-------------|-------|
@@ -62,7 +60,7 @@ The fishery building serves as the town hall. During the day the warehouse hosts
 
 ### House of Thalivar
 
-This wizard's tower has been recently rebuilt as a garrison for the Neverwinter soldiery. Gallio Elibro is a brooding middle-aged male Rashemi with the [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) statistics (except that he has the legend lore spell prepared instead of cone of cold). He came to Neverwinter to find and unlock the secrets of the House of Thalivar. Gallio has found many coded journals inside the ruin, which he decrypted. He has now rebuilt the tower's planar beacon and is using it to study the creatures of the Ethereal Plane.
+This wizard's tower has been recently rebuilt as a garrison for the Neverwinter soldiery. Gallio Elibro is a brooding middle-aged male Rashemi with the [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) statistics (except that he has the [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell prepared instead of [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)). He came to Neverwinter to find and unlock the secrets of the House of Thalivar. Gallio has found many coded journals inside the ruin, which he decrypted. He has now rebuilt the tower's planar beacon and is using it to study the creatures of the Ethereal Plane.
 
 Gallio does not talk much about his work with adventurers but is willing to cast spells in exchange for gold. The mage casts the *legend lore* spell for 400 gp.
 
@@ -70,13 +68,13 @@ Gallio does not talk much about his work with adventurers but is willing to cast
 
 Idol Island rises from the marshes a few yards from Leilon. It contains the remains of crumbled statues of forgotten human nobles. The settlers claim to hear whispered voices on the island at night, inviting them to view their destinies. If they characters walk by the island at night, they hear these whispers as well.
 
-A character who spends the night on the island has vague, prophetic dreams of adventures to come. For instance, the character might view storm clouds swirling over Leilon, a galleon made from bones, or a glowing statue of a dwarf standing in a canyon. At the end of the night, the character must make a DC 13 Wisdom saving throw. On a success, the character is bolstered by the strange dreams and gains "inspiration". On a failure, the character gains a level of exhaustion.
+A character who spends the night on the island has vague, prophetic dreams of adventures to come. For instance, the character might view storm clouds swirling over Leilon, a galleon made from bones, or a glowing statue of a dwarf standing in a canyon. At the end of the night, the character must make a DC 13 Wisdom saving throw. On a success, the character is bolstered by the strange dreams and gains "inspiration". On a failure, the character gains a level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).
 
 ### Shrine of Lathander
 
-This shrine to Lathander, god of light, was the first temple to be reconstructed in Leilon. Merrygold Brightshine, an outgoing young female halfling with the [priest](/3-Mechanics/CLI/bestiary/humanoid/priest.md) statistics, cares for the shrine and offers council to any who pray at the small stone altar to Lathander within. She conducts services at the shrine each day at dawn.
+This shrine to Lathander, god of light, was the first temple to be reconstructed in Leilon. Merrygold Brightshine, an outgoing young female halfling with the [priest](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) statistics, cares for the shrine and offers council to any who pray at the small stone altar to Lathander within. She conducts services at the shrine each day at dawn.
 
-Merrygold casts the cure wounds spell for a donation of 10 gp to the shrine and the lesser restoration spell for a donation of 20 gp.
+Merrygold casts the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell for a donation of 10 gp to the shrine and the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell for a donation of 20 gp.
 
 ### Settler Camp
 

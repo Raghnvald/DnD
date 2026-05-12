@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warrior Veteran
+- "Warrior Veteran"
 ---
-# [Warrior Veteran](3-Mechanics\CLI\bestiary\humanoid/warrior-veteran-xmm.md)
+# [Warrior Veteran](3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)
 *Source: Monster Manual (2024) p. 320. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Warrior veterans have participated in numerous battles and can hold their own against lesser rivals and monsters.
@@ -23,15 +23,13 @@ Warrior veterans have participated in numerous battles and can hold their own ag
 *Soldiers and Scrappers*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Warriors are professionals who make a living through their prowess in battle. They might be skilled in using a variety of tactics or trained to take advantage of unusual battlefields. Warriors often work together, whether in armies or in teams with deliberate goals.
 
 Roll on or choose a result from the Warrior Roles table to inspire the creation of different sorts of warriors.
 
 **Warrior Roles**
-
-`dice: [](warrior-veteran-xmm.md#^warrior-roles)`
 
 | dice: 1d10 | The Warrior Is... |
 |------------|-------------------|
@@ -70,20 +68,25 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
+  - "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common plus one other language"
 "cr": "3"
 "actions":
   - "desc": "The warrior makes two Greatsword or Heavy Crossbow attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage."
-    "name": "Greatsword"
-  - "desc": "*Ranged Attack Roll:* +3, range 100/400 ft. *Hit:* 12 (2d10 + 1) Piercing\
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
       \ damage."
+    "name": "Greatsword"
+  - "desc": "*Ranged Attack Roll:* +3, range 100/400 ft. *Hit:* 12 (2d10 + 1)\
+      \ Piercing damage."
     "name": "Heavy Crossbow"
 "reactions":
   - "desc": "Trigger: The warrior is hit by a melee attack roll while holding a weapon.\
@@ -92,7 +95,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/warrior-veteran-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/warrior-veteran-xmm.webp"
 ```
 ^statblock
 

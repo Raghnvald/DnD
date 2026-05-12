@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fiendish Spirit
+- "Fiendish Spirit"
 ---
-# [Fiendish Spirit](3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-xphb.md)
+# [Fiendish Spirit](3-Mechanics/CLI/bestiary/fiend/fiendish-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock
@@ -32,15 +32,15 @@ aliases:
 "speed": "40 ft., climb 40 ft. (Demon only), fly 60 ft. (Devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
   - "desc": "When the spirit drops to 0 Hit Points or the spell ends, the spirit explodes.\
       \ *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a\
-      \ 10-foot Emanation originating from the spirit. *Failure:* 2d10 plus this spell's\
-      \ level Fire damage. *Success:* Half damage."
+      \ 10-foot Emanation originating from the spirit. *Failure:* 2d10 plus this\
+      \ spell's level Fire damage. *Success:* Half damage."
     "name": "Death Throes (Demon Only)"
   - "desc": "Magical Darkness doesn't impede the spirit's Darkvision."
     "name": "Devil's Sight (Devil Only)"
@@ -64,6 +64,6 @@ aliases:
     "name": "Fiery Strike (Devil Only)"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp"
 ```
 ^statblock

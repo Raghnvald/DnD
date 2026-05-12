@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/10
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undying Councilor
+- "Undying Councilor"
 ---
-# [Undying Councilor](3-Mechanics\CLI\bestiary\undead/undying-councilor-erlw.md)
+# [Undying Councilor](3-Mechanics/CLI/bestiary/undead/undying-councilor-erlw.md)
 *Source: Eberron: Rising from the Last War p. 311*  
 
 Undying councilors guide and protect the people of Aerenal. They are the most powerful members of the Undying Court who still maintain their physical forms. While many undying councilors spend their days advising the living, some devote years projecting their consciousness into the Astral Plane, seeking new knowledge to share with their people. Still, not all minds are capable of assimilating immortality, and undying councilors sometimes buckle under the strain and go mad.
@@ -104,8 +104,8 @@ An undying doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The councilor makes two Radiant Touch attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 15 (3d6\
-      \ + 5) radiant damage."
+  - "desc": "*Melee Spell Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 15\
+      \ (3d6 + 5) radiant damage."
     "name": "Radiant Touch"
   - "desc": "The councilor touches another creature. The target magically regains\
       \ 18 (3d8 + 5) hit points and is freed from one curse afflicting it (councilor's\
@@ -133,6 +133,6 @@ An undying doesn't require air, food, drink, or sleep.
     "name": "Shimmering Aura (Costs 2 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/undying-councilor-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/undying-councilor-erlw.webp"
 ```
 ^statblock

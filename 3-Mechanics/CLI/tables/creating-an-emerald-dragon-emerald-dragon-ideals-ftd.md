@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating an Emerald Dragon; Emerald Dragon Ideals
+- "Creating an Emerald Dragon; Emerald Dragon Ideals"
 ---
 # Creating an Emerald Dragon; Emerald Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 114* 
 
 **Emerald Dragon Ideals**
-
-`dice: [](creating-an-emerald-dragon-emerald-dragon-ideals-ftd.md#^emerald-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

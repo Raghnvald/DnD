@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grick Alpha
+- "Grick Alpha"
 ---
-# [Grick Alpha](3-Mechanics\CLI\bestiary\monstrosity/grick-alpha.md)
+# [Grick Alpha](3-Mechanics/CLI/bestiary/monstrosity/grick-alpha.md)
 *Source: Monster Manual p. 173*  
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -50,12 +50,12 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
   - !!int "9"
 "speed": "30 ft., climb 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "7"
 "traits":
-  - "desc": "The grick has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The grick has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
@@ -63,18 +63,18 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
       \ If it hits with its tentacles, the grick can make one beak attack against\
       \ the same target."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) bludgeoning damage."
     "name": "Tail"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (4d8 + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (4d8 + 4) slashing damage."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d8 + 4) piercing damage."
     "name": "Beak"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/grick-alpha.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/grick-alpha.webp"
 ```
 ^statblock
 

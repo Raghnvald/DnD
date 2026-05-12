@@ -3,19 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kiddywidget
+- "Kiddywidget"
 ---
-# [Kiddywidget](3-Mechanics\CLI\bestiary\construct/kiddywidget-cm.md)
+# [Kiddywidget](3-Mechanics/CLI/bestiary/construct/kiddywidget-cm.md)
 *Source: Candlekeep Mysteries p. 136*  
 
-A skitterwidget that gives birth to a kiddywidget can't procreate for `dice:3d6|noform|noparens|avg` (`3d6`) days afterward. Still, given that skitterwidgets are constructs with no natural life span, there is no telling how many kiddywidgets a pair of skitterwidgets can produce.
+A skitterwidget that gives birth to a kiddywidget can't procreate for `3d6` days afterward. Still, given that skitterwidgets are constructs with no natural life span, there is no telling how many kiddywidgets a pair of skitterwidgets can produce.
 
 ```statblock
 "name": "Kiddywidget (CM)"
@@ -47,15 +47,15 @@ A skitterwidget that gives birth to a kiddywidget can't procreate for `dice:3d6|
   - "desc": "The kiddywidget makes two attacks: one with its bite and one with its\
       \ tail."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage. If the target is a creature, it is grappled by the kiddywidget\
-      \ (escape DC 8)."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage. If the target is a creature, it is grappled by\
+      \ the kiddywidget (escape DC 8)."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage plus 2 (1d4) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage plus 2 (1d4) lightning damage."
     "name": "Tail"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/kiddywidget-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/kiddywidget-cm.webp"
 ```
 ^statblock

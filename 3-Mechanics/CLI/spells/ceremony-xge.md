@@ -9,21 +9,21 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
 - ttrpg-cli/spell/feat/ritual-caster
+- ttrpg-cli/spell/feat/strixhaven-initiate/silverquill-3
 - ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/book-of-ancient-secrets
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/abjuration
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
+- ttrpg-cli/spell/subclass/divine-soul
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Paladin
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Ceremony
+- "Ceremony"
 ---
 # Ceremony
 *1st-level, Abjuration (ritual)*  
@@ -38,23 +38,23 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [vial](/3-Mechanics/CLI/items/vial-xphb.md) of water and cause it to become [holy water](/3-Mechanics/CLI/items/holy-water-xphb.md).
+You touch one [vial](3-Mechanics/CLI/items/vial-xphb.md) of water and cause it to become [holy water](3-Mechanics/CLI/items/holy-water-xphb.md).
 
 ## Coming of Age
 
-You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the ability check. A creature can benefit from this rite only once.
+You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a `d4` and add the number rolled to the ability check. A creature can benefit from this rite only once.
 
 ## Dedication
 
-You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a `dice:d4|noform|noparens|avg` (`d4`) and add the number rolled to the save. A creature can benefit from this rite only once.
+You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a saving throw, it can roll a `d4` and add the number rolled to the save. A creature can benefit from this rite only once.
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell.
 
 ## Wedding
 
@@ -62,6 +62,6 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Xanathar's Guide to Everything p. 151*

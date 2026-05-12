@@ -14,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clockwork Oaken Bolter
+- "Clockwork Oaken Bolter"
 ---
-# [Clockwork Oaken Bolter](3-Mechanics\CLI\bestiary\construct/clockwork-oaken-bolter-mpmm.md)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Mordenkainen's Tome of Foes p. 126*  
+# [Clockwork Oaken Bolter](3-Mechanics/CLI/bestiary/construct/clockwork-oaken-bolter-mpmm.md)
+*Source: Mordenkainen Presents: Monsters of the Multiverse p. 80, Return to Glory p. 33*  
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
 
@@ -31,12 +31,10 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 **Clockwork Enhancements**
 
-`dice: [](clockwork-oaken-bolter-mpmm.md#^clockwork-enhancements)`
-
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](/3-Mechanics/CLI/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](/3-Mechanics/CLI/skills.md#Perception) if it lacks that proficiency. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](3-Mechanics/CLI/rules/skills.md#Perception) if it lacks that proficiency. |
 | 3 | **Fortified.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -49,17 +47,15 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 **Clockwork Malfunctions**
 
-`dice: [](clockwork-oaken-bolter-mpmm.md#^clockwork-malfunctions)`
-
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](/3-Mechanics/CLI/conditions.md#Blinded) until the end of its turn. |
-| 2 | **Flawed Targeting.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end of its turn. |
+| 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
-| 4 | **Imprinting Loop.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
+| 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
-| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `dice:d6\|noform\|noparens\|avg` (`d6`). If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `dice:d6\|noform\|noparens\|avg` (`d6`) at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until the end of its turn. |
+| 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
+| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -82,11 +78,11 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
   - !!int "1"
 "speed": "30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands one language of its creator but can't speak"
 "cr": "5"
 "traits":
@@ -103,8 +99,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
       \ ft., one target. *Hit:* 15 (2d10 + 4) piercing damage."
     "name": "Lancing Bolt"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 50/200 ft., one target. *Hit:*\
-      \ 9 (1d10 + 4) piercing damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 12). While [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ 9 (1d10 + 4) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 12). While [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ in this way, a creature's speed isn't reduced, but it can move only in directions\
       \ that bring it closer to the clockwork. A creature takes 5 (1d10) slashing\
       \ damage if it escapes from the grapple or if it tries and fails. The clockwork\
@@ -112,17 +108,17 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
     "name": "Harpoon"
   - "desc": "The clockwork launches an explosive charge at a point within 120 feet.\
       \ Each creature in a 20-foot-radius sphere centered on that point must make\
-      \ a DC 15 Dexterity saving throw, taking 17 (5d6) fire damage on a failed save,\
-      \ or half as much damage on a successful one."
+      \ a DC 15 Dexterity saving throw, taking 17 (5d6) fire damage on a failed\
+      \ save, or half as much damage on a successful one."
     "name": "Explosive Bolt (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "The clockwork pulls the creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "The clockwork pulls the creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by its Harpoon up to 20 feet closer."
     "name": "Reel In"
 "source":
   - "MPMM"
-  - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/clockwork-oaken-bolter-mpmm.webp"
+  - "RtG"
+"image": "3-Mechanics/CLI/bestiary/construct/token/clockwork-oaken-bolter-mpmm.webp"
 ```
 ^statblock
 

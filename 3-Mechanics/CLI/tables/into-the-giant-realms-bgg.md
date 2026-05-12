@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Into the Giant Realms
+- "Into the Giant Realms"
 ---
 # Into the Giant Realms
 *Source: Bigby Presents: Glory of the Giants p. 58* 
 
 **Into the Giant Realms**
-
-`dice: [](into-the-giant-realms-bgg.md#^into-the-giant-realms)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

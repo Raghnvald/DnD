@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Barrier Tattoo (Medium)"
 ---
 # Barrier Tattoo (Medium)

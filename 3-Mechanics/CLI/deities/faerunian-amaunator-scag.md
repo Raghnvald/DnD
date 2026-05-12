@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Amaunator
-- The Keeper of the Eternal Sun
-- The Light of Law
-- The Yellow God
+aliases:
+- "Amaunator"
+- "The Keeper of the Eternal Sun"
+- "The Light of Law"
+- "The Yellow God"
 ---
 # Amaunator
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-amaunator.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-amaunator.webp#symbol)
 
 - **Alternate Names**: The Keeper of the Eternal Sun, The Light of Law, The Yellow God
 - **Alignment**: Lawful Neutral

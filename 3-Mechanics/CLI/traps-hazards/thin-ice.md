@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/hazard/wld
 aliases:
-- Thin Ice
+- "Thin Ice"
 ---
 # Thin Ice
 *Wilderness Hazard*  

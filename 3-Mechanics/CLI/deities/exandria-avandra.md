@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/trickery
-aliases: 
-- Avandra
+aliases:
+- "Avandra"
 ---
 # Avandra
 *Source: Explorer's Guide to Wildemount p. 20* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-avandra.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-avandra.webp#symbol)
 
 - **Alignment**: Chaotic Good
 - **Category**: Prime Deities

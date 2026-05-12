@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dimetrodon
+- "Dimetrodon"
 ---
-# [Dimetrodon](3-Mechanics\CLI\bestiary\beast/dimetrodon-mpmm.md)
+# [Dimetrodon](3-Mechanics/CLI/bestiary/beast/dimetrodon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
@@ -39,19 +39,19 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "senses": "passive Perception 12"
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) piercing damage."
     "name": "Bite"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/dimetrodon-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/dimetrodon-mpmm.webp"
 ```
 ^statblock
 

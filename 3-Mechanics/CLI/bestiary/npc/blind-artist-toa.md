@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blind Artist
+- "Blind Artist"
 ---
-# [Blind Artist](3-Mechanics\CLI\bestiary\npc/blind-artist-toa.md)
+# [Blind Artist](3-Mechanics/CLI/bestiary/npc/blind-artist-toa.md)
 *Source: Tomb of Annihilation p. 164*  
 
 ```statblock
@@ -35,8 +35,9 @@ aliases:
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "blinded, poisoned"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "0"
 "traits":
@@ -46,6 +47,6 @@ aliases:
     "name": "Undead Fortitude"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/blind-artist-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/blind-artist-toa.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Snow Leopard
+- "Snow Leopard"
 ---
-# [Snow Leopard](3-Mechanics\CLI\bestiary\beast/snow-leopard-tftyp.md)
+# [Snow Leopard](3-Mechanics/CLI/bestiary/beast/snow-leopard-tftyp.md)
 *Source: Tales from the Yawning Portal p. 183*  
 
 ```statblock
@@ -33,31 +33,33 @@ aliases:
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "1"
 "traits":
-  - "desc": "The leopard has advantage on Wisdom (Perception) checks that rely on\
-      \ smell."
+  - "desc": "The leopard has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "If the leopard moves at least 20 feet straight toward a creature and\
       \ then hits it with a claw attack on the same turn, that target must succeed\
-      \ on a DC 13 Strength saving throw or be knocked prone. If the target is prone,\
-      \ the leopard can make one bite attack against it as a bonus action."
+      \ on a DC 13 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If the target is [prone](3-Mechanics/CLI/rules/conditions.md#Prone), the leopard\
+      \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage."
     "name": "Claw"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/snow-leopard-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/snow-leopard-tftyp.webp"
 ```
 ^statblock

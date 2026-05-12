@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Monster Relationships
+- "Monster Relationships"
 ---
 # Monster Relationships
 *Source: Xanathar's Guide to Everything p. 91* 
 
 **Monster Relationships**
-
-`dice: [](monster-relationships-xge.md#^monster-relationships)`
 
 | dice: d6 | Relationship |
 |----------|--------------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragonborn of Tiamat
+- "Dragonborn of Tiamat"
 ---
-# [Dragonborn of Tiamat](3-Mechanics\CLI\bestiary\humanoid/dragonborn-of-tiamat-ftd.md)
+# [Dragonborn of Tiamat](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-tiamat-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 185*  
 
 Champions of the dragon queen are often called Talons of Tiamat. They work tirelessly to free their master from her imprisonment in Avernus, and Tiamat grants these pawns immense strength and a devastating breath weapon. Champions of Tiamat are sometimes associated with the Cult of the Dragon (described in chapter 3).
@@ -27,7 +27,7 @@ The connection between dragonborn and their draconic ancestors manifests in a va
 "type": "humanoid"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "plate"
 "hp": !!int "85"
 "hit_dice": "10d8 + 40"
 "modifier": !!int "0"
@@ -45,13 +45,15 @@ The connection between dragonborn and their draconic ancestors manifests in a va
   - "wisdom": !!int "4"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+8"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+4"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "frightened"
+"gear":
+  - "greataxe"
 "senses": "passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "7"
@@ -66,15 +68,13 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "name": "Greataxe"
   - "desc": "The dragonborn exhales shadowy fire in a 30-foot cone. Each creature\
       \ in that area must make a DC 15 Wisdom saving throw. On a failed save, the\
-      \ creature takes 36 (8d8) necrotic damage and is [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of the dragonborn for 1 minute. On a successful save, the creature takes half\
-      \ as much damage and isn't [frightened](/3-Mechanics/CLI/conditions.md#Frightened).\
-      \ A [frightened](/3-Mechanics/CLI/conditions.md#Frightened) creature can repeat\
-      \ the saving throw at end of each of its turns, ending the effect on itself\
-      \ on a success."
+      \ creature takes 36 (8d8) necrotic damage and is frightened of the dragonborn\
+      \ for 1 minute. On a successful save, the creature takes half as much damage\
+      \ and isn't frightened. A frightened creature can repeat the saving throw at\
+      \ end of each of its turns, ending the effect on itself on a success."
     "name": "Necrotic Breath (Recharge 6)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-tiamat-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-tiamat-ftd.webp"
 ```
 ^statblock

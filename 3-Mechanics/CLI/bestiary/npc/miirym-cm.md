@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/22
-- new/monster/size/large
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/22
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Miirym
+- "Miirym"
 ---
-# [Miirym](3-Mechanics\CLI\bestiary\npc/miirym-cm.md)
+# [Miirym](3-Mechanics/CLI/bestiary/npc/miirym-cm.md)
 *Source: Candlekeep Mysteries p. 16*  
 
 Well over 1,500 years ago, the silver dragon Miirym broke into Candlekeep, intent on adding its riches to her hoard. She devoured scholars and destroyed a score of irreplaceable books before she was confronted by an archmage and bound into service to protect Candlekeep as penance for her misdeeds. The wizard passed away before Miirym's sentence had been served, and other spellcasters were unable to break the enchantment that bound her.
@@ -75,7 +75,8 @@ Miirym doesn't have a treasure hoard. Instead, she protects the books and scroll
       \ 0 hit points and doesn't regenerate."
     "name": "Regeneration"
   - "desc": "Miirym can move through other creatures and objects as if they were difficult\
-      \ terrain. She takes 5 (1d10) force damage if she ends her turn inside an object."
+      \ terrain. She takes 5 (1d10) force damage if she ends her turn inside an\
+      \ object."
     "name": "Incorporeal Movement"
   - "desc": "If Miirym fails a saving throw, she can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -86,14 +87,14 @@ Miirym doesn't have a treasure hoard. Instead, she protects the books and scroll
       \ Thicker substances block this vision, as does a thin sheet of lead."
     "name": "X-Ray Vision"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 34\
-      \ (9d6 + 3) force damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 34 (9d6 + 3) force damage."
     "name": "Bite"
   - "desc": "Miirym uses one of the following breath weapons:"
     "name": "Breath Weapon (Recharge 5-6)"
   - "desc": "Miirym exhales an icy blast in a 90-foot cone. Each creature in that\
-      \ area must make a DC 21 Constitution saving throw, taking 67 (15d8) cold damage\
-      \ on a failed save, or half as much damage on a successful one."
+      \ area must make a DC 21 Constitution saving throw, taking 67 (15d8) cold\
+      \ damage on a failed save, or half as much damage on a successful one."
     "name": "Cold Breath"
   - "desc": "Miirym exhales a bolt of necrotic energy in a 120-foot line that is 10\
       \ feet wide. Each creature in that line must make a DC 21 Dexterity saving throw,\
@@ -129,6 +130,6 @@ Miirym doesn't have a treasure hoard. Instead, she protects the books and scroll
     "name": "Teleport (Costs 2 Actions)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/miirym-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/miirym-cm.webp"
 ```
 ^statblock

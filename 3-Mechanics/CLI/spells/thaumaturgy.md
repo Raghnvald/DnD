@@ -12,11 +12,15 @@ tags:
 - ttrpg-cli/spell/race/tiefling-base
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subrace/tiefling
+- ttrpg-cli/spell/subrace/tiefling-asmodeus
+- ttrpg-cli/spell/subrace/tiefling-baalzebul
+- ttrpg-cli/spell/subrace/tiefling-dispater
+- ttrpg-cli/spell/subrace/tiefling-zariel
 classes:
 - Bard (Magical Secrets)
 - Cleric
 aliases:
-- Thaumaturgy
+- "Thaumaturgy"
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  
@@ -38,6 +42,6 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
 
 *Source: Player's Handbook p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Titivilus
+- "Titivilus"
 ---
-# [Titivilus](3-Mechanics\CLI\bestiary\npc/titivilus-mpmm.md)
+# [Titivilus](3-Mechanics/CLI/bestiary/npc/titivilus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Mordenkainen's Tome of Foes p. 179*  
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
@@ -50,21 +50,21 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
   - "wisdom": !!int "11"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+13"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "all, telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -84,18 +84,19 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 "actions":
   - "desc": "Titivilus makes one Silver Sword attack, and he uses Frightful Word."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) force damage, or 9 (1d10 + 4) force damage if used with two hands, plus\
-      \ 16 (3d10) necrotic damage. If the target is a creature, its hit point maximum\
-      \ is reduced by an amount equal to half the necrotic damage taken."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) force damage, or 9 (1d10 + 4) force damage if used with two\
+      \ hands, plus 16 (3d10) necrotic damage. If the target is a creature, its\
+      \ hit point maximum is reduced by an amount equal to half the necrotic damage\
+      \ taken."
     "name": "Silver Sword"
   - "desc": "Titivilus targets one creature he can see within 10 feet of him. The\
-      \ target must succeed on a DC 21 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of him for 1 minute. While [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ in this way, the target must take the [Dash](/3-Mechanics/CLI/actions.md#Dash)\
+      \ target must succeed on a DC 21 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ of him for 1 minute. While [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ in this way, the target must take the [Dash](3-Mechanics/CLI/rules/actions.md#Dash)\
       \ action and move away from Titivilus by the safest available route on each\
       \ of its turns, unless there is nowhere to move, in which case it needn't take\
-      \ the [Dash](/3-Mechanics/CLI/actions.md#Dash) action. The target can repeat\
+      \ the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action. The target can repeat\
       \ the saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Frightful Word"
@@ -103,28 +104,28 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
       \ up to 120 feet to an unoccupied space he can see."
     "name": "Teleport"
   - "desc": "Titivilus targets one creature he can see within 60 feet of him. The\
-      \ target must succeed on a DC 21 Charisma saving throw or become [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ by Titivilus for 1 minute. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ target must succeed on a DC 21 Charisma saving throw or become [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by Titivilus for 1 minute. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ target can repeat the saving throw if Titivilus deals any damage to it. A\
       \ creature that succeeds on the saving throw is immune to Titivilus's Twisting\
       \ Words for 24 hours."
     "name": "Twisting Words"
   - "desc": "Titivilus casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
-      \ [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md), [sending](/3-Mechanics/CLI/spells/sending-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\n**3/day each:**\
-      \ [mislead](/3-Mechanics/CLI/spells/mislead-xphb.md), [modify memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md)"
+      \ will:** [alter self](3-Mechanics/CLI/spells/alter-self.md), [major image](3-Mechanics/CLI/spells/major-image.md),\
+      \ [nondetection](3-Mechanics/CLI/spells/nondetection.md), [sending](3-Mechanics/CLI/spells/sending.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**3/day each:** [mislead](3-Mechanics/CLI/spells/mislead.md),\
+      \ [modify memory](3-Mechanics/CLI/spells/modify-memory.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Titivilus can expend a use to take one of the following actions. Titivilus\
   \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
   - "desc": "Titivilus uses Twisting Words. Alternatively, he targets one creature\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by him that is within 60\
-      \ feet of him; that [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target\
-      \ must succeed on a DC 21 Charisma saving throw, or Titivilus decides how the\
-      \ target acts during its next turn."
+      \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by him that is within\
+      \ 60 feet of him; that [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ target must succeed on a DC 21 Charisma saving throw, or Titivilus decides\
+      \ how the target acts during its next turn."
     "name": "Corrupting Guidance"
   - "desc": "Titivilus uses Teleport."
     "name": "Teleport"
@@ -133,6 +134,6 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/titivilus-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/titivilus-mpmm.webp"
 ```
 ^statblock

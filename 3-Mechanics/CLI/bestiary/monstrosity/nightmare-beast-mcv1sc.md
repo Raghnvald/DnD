@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/16
-- new/monster/size/gargantuan
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/16
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightmare Beast
+- "Nightmare Beast"
 ---
-# [Nightmare Beast](3-Mechanics\CLI\bestiary\monstrosity/nightmare-beast-mcv1sc.md)
+# [Nightmare Beast](3-Mechanics/CLI/bestiary/monstrosity/nightmare-beast-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 10*  
 
 Nightmare beasts are enormous quadrupeds that stand 20 feet tall, or 40 feet tall when rearing on their hind legs.
@@ -39,7 +39,8 @@ Powerful spellcasters create nightmare beasts to serve as living siege engines. 
   - !!int "12"
   - !!int "15"
 "speed": "30 ft., climb 30 ft."
-"senses": "darkvision 120 ft., passive Perception 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "16"
 "traits":
@@ -50,12 +51,12 @@ Powerful spellcasters create nightmare beasts to serve as living siege engines. 
 "actions":
   - "desc": "The beast makes two Claw attacks and one Tusk attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 14\
-      \ (1d12 + 8) slashing damage, and if the target is a creature, it must succeed\
-      \ on a DC 21 Strength saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 14 (1d12 + 8) slashing damage, and if the target is a creature, it must\
+      \ succeed on a DC 21 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) slashing damage."
     "name": "Tusk"
   - "desc": "The beast targets one creature it can see within 60 feet of itself. The\
       \ target must make a DC 18 Constitution saving throw, taking 70 (10d6 + 40)\
@@ -79,11 +80,12 @@ Powerful spellcasters create nightmare beasts to serve as living siege engines. 
     "name": "Charge (Costs 2 Actions)"
   - "desc": "The beast howls as it exhales a cloud of magical fear gas in a 120-foot\
       \ cone. Any creature in that area must succeed on a DC 18 Wisdom saving throw\
-      \ or be frightened of the beast for 1 minute. A creature can repeat the saving\
-      \ throw at the end of each of its turns, ending the effect on itself on a success."
+      \ or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) of the\
+      \ beast for 1 minute. A creature can repeat the saving throw at the end of each\
+      \ of its turns, ending the effect on itself on a success."
     "name": "Frightful Howl (Costs 2 Actions)"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/nightmare-beast-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/nightmare-beast-mcv1sc.webp"
 ```
 ^statblock

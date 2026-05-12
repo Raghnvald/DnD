@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Merrow Extortionist
+- "Merrow Extortionist"
 ---
-# [Merrow Extortionist](3-Mechanics\CLI\bestiary\monstrosity/merrow-extortionist-dosi.md)
+# [Merrow Extortionist](3-Mechanics/CLI/bestiary/monstrosity/merrow-extortionist-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 0*  
 
 ```statblock
@@ -42,11 +42,11 @@ aliases:
 "actions":
   - "desc": "The merrow makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8\
-      \ (2d4 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 8 (2d4 + 3) piercing damage."
     "name": "Rend"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/merrow-extortionist-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/merrow-extortionist-dosi.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/tool
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Poisoner's Kit"
 ---
 # Poisoner's Kit

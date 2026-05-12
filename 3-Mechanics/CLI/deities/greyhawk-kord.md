@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/war
-aliases: 
-- Kord
+aliases:
+- "Kord"
 ---
 # Kord
 *Source: Player's Handbook p. 295* 

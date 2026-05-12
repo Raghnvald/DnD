@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Earth Elemental
+- "Earth Elemental"
 ---
-# [Earth Elemental](3-Mechanics\CLI\bestiary\elemental/earth-elemental-xmm.md)
+# [Earth Elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental-xmm.md)
 *Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Earth Elemental
@@ -31,8 +31,6 @@ Primal spirits from the Elemental Plane of Earth merge with rocks and minerals t
 Earth elementals are typically made of more than dirt. While an elemental's composition doesn't change its statistics or have monetary value, it makes each elemental distinct. Roll on or choose a result from the Earth Elemental Compositions table to inspire an earth elemental's features.
 
 **Earth Elemental Compositions**
-
-`dice: [](earth-elemental-xmm.md#^earth-elemental-compositions)`
 
 | dice: 1d8 | The Earth Elemental's Body Features... |
 |-----------|----------------------------------------|
@@ -70,10 +68,10 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., Tremorsense\
   \ 60 ft., passive Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "5"
@@ -90,12 +88,12 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
       \ damage."
     "name": "Slam"
   - "desc": "*Ranged Attack Roll:* +8, range 60 ft. *Hit:* 8 (1d6 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ damage. If the target is a Large or smaller creature, it has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Rock Launch"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/earth-elemental-xmm.webp"
 ```
 ^statblock
 

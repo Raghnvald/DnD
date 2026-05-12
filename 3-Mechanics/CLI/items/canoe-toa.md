@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/none
-- new/item/vehicle/ship-water
-aliases: 
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/vehicle/ship-water
+aliases:
 - "Canoe"
 ---
 # Canoe
@@ -16,6 +16,6 @@ aliases:
 - **Cost**: 50 gp
 - **Weight**: 100.0 lbs.
 
-A canoe can be purchased in Port Nyanzaru for 50 gp. It holds up to six Medium creatures and has a maximum speed of 2 mph. It is otherwise identical to a rowboat.
+A canoe can be purchased in Port Nyanzaru for 50 gp. It holds up to six Medium creatures and has a maximum speed of 2 mph. It is otherwise identical to a [rowboat](3-Mechanics/CLI/items/rowboat-xphb.md).
 
 *Source: Tomb of Annihilation p. 31*

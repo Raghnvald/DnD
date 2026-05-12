@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ziraj the Hunter
+- "Ziraj the Hunter"
 ---
-# [Ziraj the Hunter](3-Mechanics\CLI\bestiary\npc/ziraj-the-hunter-wdh.md)
+# [Ziraj the Hunter](3-Mechanics/CLI/bestiary/npc/ziraj-the-hunter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 201*  
 
 Ziraj is a half-orc hunter who wields an oversized bow that shoots correspondingly large arrows. He is the Master of Assassination for the Black Network. If Ziraj sets out to kill someone, it's because one of his friends (Davil, Istrid, Skeemo, or Tashlyn) asked him to. The characters might become Ziraj's prey, or Ziraj might come to their aid to eliminate a common enemy. He's the strong, silent type.
@@ -21,7 +21,7 @@ The City Watch has received reports of a figure who haunts the rooftops of Water
 
 ## Treasure
 
-Ziraj wears +2 leather armor and carries an oversized longbow. This unique weapon can be used only by a Medium or larger creature that has a Strength of 18 or higher. The bow shoots oversized arrows that deal piercing damage equal to `dice:2d6|noform|noparens|avg` (`2d6`) + the wielder's Strength modifier. Its range is the same as an ordinary longbow.
+Ziraj wears +2 leather armor and carries an oversized longbow. This unique weapon can be used only by a Medium or larger creature that has a Strength of 18 or higher. The bow shoots oversized arrows that deal piercing damage equal to `2d6` + the wielder's Strength modifier. Its range is the same as an ordinary longbow.
 
 ## The Doom Raiders
 
@@ -34,7 +34,7 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
 "subtype": "half-orc"
 "alignment": "Lawful Evil"
 "ac": !!int "17"
-"ac_class": "+2 leather armor"
+"ac_class": "[+2 leather armor](3-Mechanics/CLI/items/2-armor-xdmg.md)"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "4"
@@ -50,40 +50,49 @@ The Doom Raiders were five unscrupulous adventurers who liked to plunder lich la
   - "wisdom": !!int "5"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[glaive](3-Mechanics/CLI/items/glaive-xphb.md)"
+  - "[oversized longbow](3-Mechanics/CLI/items/oversized-longbow-wdh.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Orc"
 "cr": "8"
 "traits":
   - "desc": "Ziraj is a 10th-level spellcaster. His spellcasting ability is Charisma.\
       \ He has the following paladin spells prepared:\n\n**1st level (4 slots):**\
-      \ command, protection from evil and good, thunderous smite\n\n**2nd level (3\
-      \ slots):** branding smite, find steed\n\n**3rd level (2 slots):** blinding\
-      \ smite, dispel magic"
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [protection from evil and\
+      \ good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [thunderous\
+      \ smite](3-Mechanics/CLI/spells/thunderous-smite-xphb.md)\n\n**2nd level (3\
+      \ slots):** [branding smite](3-Mechanics/CLI/spells/shining-smite-xphb.md),\
+      \ [find steed](3-Mechanics/CLI/spells/find-steed-xphb.md)\n\n**3rd level (2\
+      \ slots):** [blinding smite](3-Mechanics/CLI/spells/blinding-smite-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "Ziraj makes three attacks with his glaive or with his oversized longbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d10\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d10 + 4) slashing damage."
     "name": "Glaive"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
       \ 11 (2d6 + 4) piercing damage."
     "name": "Oversized Longbow"
   - "desc": "Ziraj exudes magical menace. Each enemy within 30 feet of him must succeed\
-      \ on a DC 13 Wisdom saving throw or be frightened for 1 minute of Ziraj. If\
-      \ a frightened enemy ends its turn more than 30 feet away from Ziraj, the enemy\
-      \ can repeat the saving throw, ending the effect on itself on a success."
+      \ on a DC 13 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute of Ziraj. If a [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ enemy ends its turn more than 30 feet away from Ziraj, the enemy can repeat\
+      \ the saving throw, ending the effect on itself on a success."
     "name": "Dreadful Aspect (Recharges after a Short or Long Rest)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ziraj-the-hunter-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ziraj-the-hunter-wdh.webp"
 ```
 ^statblock

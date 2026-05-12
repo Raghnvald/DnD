@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/slw
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/slw
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Statue of Talos
+- "Statue of Talos"
 ---
-# [Statue of Talos](3-Mechanics\CLI\bestiary\elemental/statue-of-talos-slw.md)
+# [Statue of Talos](3-Mechanics/CLI/bestiary/elemental/statue-of-talos-slw.md)
 *Source: Storm Lord's Wrath*  
 
 ```statblock
@@ -36,13 +36,15 @@ aliases:
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Terran"
 "cr": "10"
 "traits":
@@ -56,11 +58,11 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage."
     "name": "Headbutt"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) slashing damage."
     "name": "Lightning Bolt Blades"
 "source":
   - "SLW"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/statue-of-talos-slw.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/statue-of-talos-slw.webp"
 ```
 ^statblock

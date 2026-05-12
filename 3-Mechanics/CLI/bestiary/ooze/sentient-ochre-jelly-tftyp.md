@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/ooze
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sentient Ochre Jelly
+- "Sentient Ochre Jelly"
 ---
-# [Sentient Ochre Jelly](3-Mechanics\CLI\bestiary\ooze/sentient-ochre-jelly-tftyp.md)
+# [Sentient Ochre Jelly](3-Mechanics/CLI/bestiary/ooze/sentient-ochre-jelly-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  
 
 ```statblock
@@ -34,8 +34,11 @@ aliases:
 "speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": "Common"
 "cr": "2"
 "traits":
@@ -45,8 +48,8 @@ aliases:
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6\
-      \ + 2) bludgeoning damage plus 3 (1d6) acid damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage."
     "name": "Pseudopod"
 "reactions":
   - "desc": "When a jelly that is Medium or larger is subjected to lightning or slashing\
@@ -56,6 +59,6 @@ aliases:
     "name": "Split"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/sentient-ochre-jelly-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/sentient-ochre-jelly-tftyp.webp"
 ```
 ^statblock

@@ -44,4 +44,4 @@ You can speak and understand Draconic. You also have advantage on any Charisma c
 
 You can breathe underwater.
 
-*Source: Hoard of the Dragon Queen p. 94*
+*Source: Hoard of the Dragon Queen p. 94, Tyranny of Dragons p. 179*

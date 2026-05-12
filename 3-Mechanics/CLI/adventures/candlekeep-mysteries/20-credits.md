@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
+- ttrpg-cli/compendium/src/5e/cm
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Candlekeep Mysteries* 
@@ -40,11 +40,11 @@ aliases:
 - **The map of Candlekeep was inspired by a map design by Marco Bernardini.**  
 - Special thanks to our hundreds of playtesters!  
 
-![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits.webp#center)
+![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits.webp#center)
 
 > [!gallery]
-> ![On the Cover: Clint Cearle...](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits2.webp#gallery "On the Cover: Clint Cearley gives us a glimpse of two adventurers trying to solve one of Candlekeep's great mysteries, unaware of the danger looming behind them.")
-> ![On the Alt-Cover: Simen Me...](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits3.webp#gallery "On the Alt-Cover: Simen Meyer's cover incorporates the symbol of Candlekeep and various creatures into its design, creating what looks like a book one might find in the library's vaults.")
+> ![On the Cover: Clint Cearley gives us a glimpse of two adventurers trying to solve one of Candlekeep's great mysteries, unaware of the danger looming behind them.](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits2.webp#gallery)
+> ![On the Alt-Cover: Simen Meyer's cover incorporates the symbol of Candlekeep and various creatures into its design, creating what looks like a book one might find in the library's vaults.](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/credits3.webp#gallery)
 
 > [!note]
 > Disclaimer: This book has been compiled by the Avowed of Candlekeep, in accordance with the wishes of the late Alaundo the Seer, whose prophecies foreshadow all events of consequence in the Forgotten Realms. Alaundo warned that anyone who unravels all the mysteries of this tome will be hunted down by the Time Dragons of Chronepsis, tossed into the gaping maw of Dendar the Night Serpent, and cast into the Vortex of Ineffable Damnation. Ha ha. What a sense of humor, that Alaundo!

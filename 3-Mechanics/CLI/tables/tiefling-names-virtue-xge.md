@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Tiefling Names – Virtue
+- "Tiefling Names – Virtue"
 ---
 # Tiefling Names – Virtue
 *Source: Xanathar's Guide to Everything p. 180* 
 
 **Tiefling Names – Virtue**
-
-`dice: [](tiefling-names-virtue-xge.md#^tiefling-names-virtue)`
 
 | dice: d100 | Name |
 |------------|------|

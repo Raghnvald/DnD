@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/optfeature/sculptor-of-flesh
+- ttrpg-cli/spell/list/optfeature/sculptor-of-flesh
 aliases:
-- Spells for Sculptor of Flesh
+- "Spells for Sculptor of Flesh"
 ---
 # Spells for Sculptor of Flesh
 
 ## 4th Level
 
-- [Polymorph](/3-Mechanics/CLI/spells/polymorph.md "PHB")
+- [Polymorph](3-Mechanics/CLI/spells/polymorph.md "PHB")

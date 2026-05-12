@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fomorian Noble
+- "Fomorian Noble"
 ---
-# [Fomorian Noble](3-Mechanics\CLI\bestiary\giant/fomorian-noble-bgg.md)
+# [Fomorian Noble](3-Mechanics/CLI/bestiary/giant/fomorian-noble-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 143*  
 
 Before their banishment to the Underdark, fomorians ordered themselves based on achievements of knowledge and magical power. Before Karontor urged his descendants into an ill-fated assault against the Feywild, some of the most ambitious, inquisitive, and power-hungry fomorians felt they had already learned all they could from the Material Plane, and they departed to the Inner Planes, where they could continue their journeys of knowledge unopposed.
@@ -34,7 +34,7 @@ Descended from Annam's son Karontor, fomorians once occupied a place in the gian
 "subtype": "wizard"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "17 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "17 with mage armor"
 "hp": !!int "253"
 "hit_dice": "22d12 + 110"
 "modifier": !!int "4"
@@ -51,34 +51,31 @@ Descended from Annam's son Karontor, fomorians once occupied a place in the gian
   - "wisdom": !!int "7"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+14"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+9"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
+"condition_immunities": "charmed"
 "senses": "passive Perception 17"
 "languages": "Giant plus any three languages"
 "cr": "15"
 "actions":
   - "desc": "The fomorian makes three Rod attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) bludgeoning damage plus 11 (2d10) force damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (3d6 + 6) bludgeoning damage plus 11 (2d10) force damage."
     "name": "Rod"
   - "desc": "The fomorian casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 17):\n\n**At will:** [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-      \ (self only), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n**1/day each:** [chain lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md),\
-      \ [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) (6th-level version),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) (6th-level version),\
-      \ [fly](/3-Mechanics/CLI/spells/fly-xphb.md), [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \ the spellcasting ability (spell save DC 17):\n\n**At will:** mage armor (self\
+      \ only), mage hand, prestidigitation\n\n**1/day each:** chain lightning, cone\
+      \ of cold (6th-level version), fireball (6th-level version), fly, plane shift\
       \ (self only)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The fomorian targets a creature it can see within 60 feet of itself.\
-      \ The target must succeed on a DC 17 Wisdom saving throw or have the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ The target must succeed on a DC 17 Wisdom saving throw or have the charmed\
       \ condition for 1 minute. An affected target can repeat the saving throw at\
       \ the end of each of its turns and whenever it takes damage, ending the effect\
       \ on itself on a success. If a target's saving throw is successful or the effect\
@@ -87,6 +84,6 @@ Descended from Annam's son Karontor, fomorians once occupied a place in the gian
     "name": "Beguiling Presence"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian-noble-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/fomorian-noble-bgg.webp"
 ```
 ^statblock

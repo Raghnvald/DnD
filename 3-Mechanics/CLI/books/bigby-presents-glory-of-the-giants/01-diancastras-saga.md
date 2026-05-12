@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Diancastra's Saga
+- "Diancastra's Saga"
 ---
 # Diancastra's Saga
 *Source: Bigby Presents: Glory of the Giants, p. 4* 
@@ -162,7 +162,7 @@ Myths, fairy tales, folklore, and fantasy literature throughout the real world d
 
 In the worlds of Dungeons & Dragons, the story of the giants is a tragic one that echoes this whole range of fantasy and myth. Begotten by the mighty god Annam, who intended them to rule the worlds with wisdom as well as might, giants have fallen far short of the lofty destiny their progenitor imagined for them. Now supplanted by myriad smaller peoples of the worlds, giants live apart in remote steadings, undersea palaces, subterranean realms, and flying citadels.
 
-*Bigby Presents: Glory of the Giants* explores giants' role in D&D and their realms across the worlds. It delves into the history of the giants and details the places where they live in isolation, as well as the ruins they left behind in their decline. Our guide in this exploration is the wizard Bigby, a former apprentice of Mordenkainen and creator of the spell [Bigby's hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md). Though he began his career determined to use magic to dominate and control others, he eventually changed his ways and has worked hard to make amends for his past villainy. One factor that influenced his change of heart was Bigby's recurring encounters with Diancastra, a demigod revered by many giants. Throughout this book, we see glimpses into the relationship between these two mighty figures of legend.
+*Bigby Presents: Glory of the Giants* explores giants' role in D&D and their realms across the worlds. It delves into the history of the giants and details the places where they live in isolation, as well as the ruins they left behind in their decline. Our guide in this exploration is the wizard Bigby, a former apprentice of Mordenkainen and creator of the spell Bigby's hand. Though he began his career determined to use magic to dominate and control others, he eventually changed his ways and has worked hard to make amends for his past villainy. One factor that influenced his change of heart was Bigby's recurring encounters with Diancastra, a demigod revered by many giants. Throughout this book, we see glimpses into the relationship between these two mighty figures of legend.
 
 This introduction presents a portion of the saga of Diancastra. The saga is a window into important aspects of giants' life and thought, and it introduces themes that reappear throughout the book: Annam's retreat from his children, the giants' fall from grace, and the hope some giants hold for a future restoration of their ancient glory.
 
@@ -186,7 +186,7 @@ This introduction presents a portion of the saga of Diancastra. The saga is a wi
 > 
 > I've asked Diancastra to review this text, and her notes appear throughout the book where her perspective can enlarge upon my own. I trust that her insight and my erudition will expand your horizons as she has broadened mine.
 
-![](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/000-00-001-bigby.webp#center)
+![](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/000-00-001-bigby.webp#center)
 
 ## Annam and the Giants
 
@@ -212,13 +212,13 @@ The descendants of Annam are the various creatures of the Giant creature type. T
 
 #### Heirs of Annam
 
-As described in the "Monster Manual", the ordning ranks the six main families of giants. Each family's place in the ordning corresponds to the birth order of the associated son of Annam: Stronmaus, Annam's firstborn, is regarded as the progenitor of storm giants, and Grolantor, progenitor of hill giants, is Annam's youngest son. Thus, the ordning neatly encompasses and arranges [storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md), [cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), [fire giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), [stone giants](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), and [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) by connecting them to Stronmaus, Memnor, Surtur, Thrym, Skoraeus, and Grolantor, respectively.
+As described in the "Monster Manual", the ordning ranks the six main families of giants. Each family's place in the ordning corresponds to the birth order of the associated son of Annam: Stronmaus, Annam's firstborn, is regarded as the progenitor of storm giants, and Grolantor, progenitor of hill giants, is Annam's youngest son. Thus, the ordning neatly encompasses and arranges storm giants, cloud giants, fire giants, frost giants, stone giants, and hill giants by connecting them to Stronmaus, Memnor, Surtur, Thrym, Skoraeus, and Grolantor, respectively.
 
 That neat structure overlooks the daughters of Annam: Hiatea, Iallanis, and Diancastra. Indeed, these goddesses and their worshipers often push against the boundaries of the ordning, both within each kind of giant and in the overall rankings of the giant families. No giants count the goddesses as ancestors, but that helps ensure their popularity extends across giantkind.
 
 ##### Fomorians
 
-The structure of the ordning also overlooks the [fomorians](/3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md) and their progenitor, Karontor, who is usually described as Grolantor's older twin. Just as Annam banished Karontor from the family of the gods for his part in inciting the fomorians to assault the Feywild, the All-Father also excluded the fomorians from the ordning.
+The structure of the ordning also overlooks the fomorians and their progenitor, Karontor, who is usually described as Grolantor's older twin. Just as Annam banished Karontor from the family of the gods for his part in inciting the fomorians to assault the Feywild, the All-Father also excluded the fomorians from the ordning.
 
 ##### Death Giants
 
@@ -230,9 +230,9 @@ Once cloud giants, death giants (introduced in "chapter 6" of this book) technic
 > 
 > The word "giant" has multiple meanings in English and in the rules of D&D, opening the possibility of some confusion.
 > 
-> As a rule, when this book talks about "giants," it refers to the various creatures that include "giant" in their name—specifically, the giants found in the "Monster Manual"—[cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), [fire giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md), [stone giants](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), and [storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md)—as well as the death giants that appear in "chapter 6" of this book. These giants are the focus of this book, so it's safe to assume that's what is meant when you see the word "giant" and it's not capitalized or otherwise qualified.
+> As a rule, when this book talks about "giants," it refers to the various creatures that include "giant" in their name—specifically, the giants found in the "Monster Manual"—cloud giants, fire giants, frost giants, hill giants, stone giants, and storm giants—as well as the death giants that appear in "chapter 6" of this book. These giants are the focus of this book, so it's safe to assume that's what is meant when you see the word "giant" and it's not capitalized or otherwise qualified.
 > 
-> "Giant" is also a creature type in the D&D rules, and as such, it's capitalized whenever it's used. This book usually refers to "creatures of the Giant type" to make sure it's very clear what is being talked about. All the giants are creatures of the Giant type, as are [cyclopes](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md), [ettins](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md), [fomorians](/3-Mechanics/CLI/bestiary/giant/fomorian-xmm.md), [ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md), and [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md). But that latter group of creatures is not the focus of this book.
+> "Giant" is also a creature type in the D&D rules, and as such, it's capitalized whenever it's used. This book usually refers to "creatures of the Giant type" to make sure it's very clear what is being talked about. All the giants are creatures of the Giant type, as are cyclopes, ettins, fomorians, ogres, and trolls. But that latter group of creatures is not the focus of this book.
 > 
 > "Giant" (capitalized) is also the name of the language spoken by most creatures of the Giant type (as well as a few other creatures, such as hags). References to the language throughout this book typically refer to "the Giant language" or "Giant runes," so there should be no confusion between the language and the creature type.
 ^008
@@ -243,15 +243,15 @@ The other creatures of the Giant type, who are not included in the category of "
 
 ##### Trolls and Ogres
 
-The monstrous god Vaprak is connected to Annam in some myths, though he is never regarded as a proper son of Annam. The Dwarvish Saga of Gnarldan Steelshield describes how Vaprak arose from Annam's blood when it was spilled on one of the worlds he tended, and the [trolls](/3-Mechanics/CLI/bestiary/giant/troll-xmm.md) in turn arose from Vaprak's blood shed in a similar manner. The fensirs introduced in "chapter 6" of this book are descended from trolls. [Ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) are sometimes described as descendants of Vaprak, giving them a distant and distorted connection to Annam. [Oni](/3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) are often said to be distantly related to ogres, but at this point they are more fiendish than Giant.
+The monstrous god Vaprak is connected to Annam in some myths, though he is never regarded as a proper son of Annam. The Dwarvish Saga of Gnarldan Steelshield describes how Vaprak arose from Annam's blood when it was spilled on one of the worlds he tended, and the trolls in turn arose from Vaprak's blood shed in a similar manner. The fensirs introduced in "chapter 6" of this book are descended from trolls. Ogres are sometimes described as descendants of Vaprak, giving them a distant and distorted connection to Annam. Oni are often said to be distantly related to ogres, but at this point they are more fiendish than Giant.
 
 ##### Cyclopes
 
-Contradictory legends explain the origin of [cyclopes](/3-Mechanics/CLI/bestiary/giant/cyclops-sentry-xmm.md), and none of those legends are told by cyclopes themselves (who generally display little interest in the question of their origins and their connection to the gods). Some myths lump them in with ogres as descendants of Vaprak, while others claim they were once ogres who joined the ancient fomorians' invasion of the Feywild and thus shared in fomorians' banishment to the Underdark and the resulting corruption of their physical forms. One myth suggests cyclopes are descendants of Karontor like the fomorians, but stemming from a line that began after Karontor's banishment rather than before it.
+Contradictory legends explain the origin of cyclopes, and none of those legends are told by cyclopes themselves (who generally display little interest in the question of their origins and their connection to the gods). Some myths lump them in with ogres as descendants of Vaprak, while others claim they were once ogres who joined the ancient fomorians' invasion of the Feywild and thus shared in fomorians' banishment to the Underdark and the resulting corruption of their physical forms. One myth suggests cyclopes are descendants of Karontor like the fomorians, but stemming from a line that began after Karontor's banishment rather than before it.
 
 ##### Ettins
 
-A widespread folktale suggests [ettins](/3-Mechanics/CLI/bestiary/giant/ettin-xmm.md) were once orcs who were transformed into their giant-like form by a blessing of the demon lord Demogorgon. If that were true, though, ettins would have no connection to Annam and couldn't be considered kin of the giants. Most giants acknowledge ettins as distant relatives and consider them descendants of Grolantor (and thus distant cousins of hill giants) or of hill giants who were transformed by Demogorgon.
+A widespread folktale suggests ettins were once orcs who were transformed into their giant-like form by a blessing of the demon lord Demogorgon. If that were true, though, ettins would have no connection to Annam and couldn't be considered kin of the giants. Most giants acknowledge ettins as distant relatives and consider them descendants of Grolantor (and thus distant cousins of hill giants) or of hill giants who were transformed by Demogorgon.
 
 #### Goliaths and Firbolgs
 
@@ -271,7 +271,7 @@ After four millennia of coexistence and intermittent conflict, a mighty red drag
 
 For nearly thirty thousand years since the fall of Ostoria, giants have largely lived in seclusion, keeping as far as possible from the spread of smaller peoples' settlements. From time to time, giants lent their strength to conflicts among other folk. Charismatic giants occasionally forged short-lived kingdoms in ultimately futile efforts to restore the glory of Ostoria, but giants have never again been a driving force in the history of the world as they were during the Dawn Ages.
 
-![The Sword Coast of the For...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/001-00-002-sword-coast-ruins.webp#center "The Sword Coast of the Forgotten Realms holds many giant-built ruins featuring massive stone monoliths with keyhole-like openings")
+![The Sword Coast of the Forgotten Realms holds many giant-built ruins featuring massive stone monoliths with keyhole-like openings](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/001-00-002-sword-coast-ruins.webp#center)
 
 #### Greyhawk
 
@@ -293,35 +293,35 @@ The giants of Eberron do not tell legends of Annam the All-Father, nor do they a
 > 
 > Giant Runes and Dwarvish Script
 > 
-> When Annam created the giants, he also taught them language and gave them runes of power. These symbols are pictographs: each symbol represents a whole word or concept rather than a single letter or sound. Each rune holds latent magical power, much like the glyphs inscribed in magic circles of protection, teleportation circles, and magical traps like the [glyph of warding](/3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell. Thus, the first giants treated these runes as a sacred secret and rarely wrote them.
+> When Annam created the giants, he also taught them language and gave them runes of power. These symbols are pictographs: each symbol represents a whole word or concept rather than a single letter or sound. Each rune holds latent magical power, much like the glyphs inscribed in magic circles of protection, teleportation circles, and magical traps like the glyph of warding spell. Thus, the first giants treated these runes as a sacred secret and rarely wrote them.
 > 
 > It wasn't until long after the first flourishing of the giants' culture that the introduction of the Dwarvish script—an alphabetic set of symbols, where each glyph represents a single sound—made transcribing the Giant language an easier task. To this day, most written forms of the Giant language use the "Dwarvish script" (as described in the "Player's Handbook"), and the knowledge of Giant runes is rare except among those who study magical writing.
 ^013
 
 > [!gallery]
-> ![Blood Rune (Blod)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/002-00-003-blood-rune.webp#gallery)
-> ![Cloud Rune (Skye)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/003-00-004-cloud-rune.webp#gallery)
-> ![Death Rune (Dod)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/004-00-005-death-rune.webp#gallery)
-> ![Dragon Rune (Wyrm)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/005-00-006-dragon-rune.webp#gallery)
-> ![Enemy Rune (Uven)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/006-00-007-enemy-rune.webp#gallery)
+> ![Blood Rune (Blod)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/002-00-003-blood-rune.webp#gallery)
+> ![Cloud Rune (Skye)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/003-00-004-cloud-rune.webp#gallery)
+> ![Death Rune (Dod)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/004-00-005-death-rune.webp#gallery)
+> ![Dragon Rune (Wyrm)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/005-00-006-dragon-rune.webp#gallery)
+> ![Enemy Rune (Uven)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/006-00-007-enemy-rune.webp#gallery)
 
 > [!gallery]
-> ![Fire Rune (Ild)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/007-00-008-fire-rune.webp#gallery)
-> ![Friend Rune (Venn)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/008-00-009-friend-rune.webp#gallery)
-> ![Frost Rune (Ise)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/009-00-010-frost-rune.webp#gallery)
-> ![Hill Rune (Haug)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/010-00-011-hill-rune.webp#gallery)
-> ![Journey Rune (Ferd)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/011-00-012-journey-rune.webp#gallery)
+> ![Fire Rune (Ild)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/007-00-008-fire-rune.webp#gallery)
+> ![Friend Rune (Venn)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/008-00-009-friend-rune.webp#gallery)
+> ![Frost Rune (Ise)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/009-00-010-frost-rune.webp#gallery)
+> ![Hill Rune (Haug)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/010-00-011-hill-rune.webp#gallery)
+> ![Journey Rune (Ferd)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/011-00-012-journey-rune.webp#gallery)
 
 > [!gallery]
-> ![King Rune (Kong)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/012-00-013-king-rune.webp#gallery)
-> ![Life Rune (Liv)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/013-00-014-life-rune.webp#gallery)
-> ![Light Rune (Stig)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/014-00-015-light-rune.webp#gallery)
-> ![Mountain Rune (Fjell)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/015-00-016-mountain-rune.webp#gallery)
-> ![Sacred Rune (Hellig)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/016-00-017-sacred-rune.webp#gallery)
+> ![King Rune (Kong)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/012-00-013-king-rune.webp#gallery)
+> ![Life Rune (Liv)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/013-00-014-life-rune.webp#gallery)
+> ![Light Rune (Stig)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/014-00-015-light-rune.webp#gallery)
+> ![Mountain Rune (Fjell)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/015-00-016-mountain-rune.webp#gallery)
+> ![Sacred Rune (Hellig)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/016-00-017-sacred-rune.webp#gallery)
 
 > [!gallery]
-> ![Shield Rune (Skold)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/017-00-018-shield-rune.webp#gallery)
-> ![Stone Rune (Stein)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/018-00-019-stone-rune.webp#gallery)
-> ![Storm Rune (Uvar)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/019-00-020-storm-rune.webp#gallery)
-> ![War Rune (Krig)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/020-00-021-war-rune.webp#gallery)
-> ![Wind Rune (Vind)](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/021-00-022-wind-rune.webp#gallery)
+> ![Shield Rune (Skold)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/017-00-018-shield-rune.webp#gallery)
+> ![Stone Rune (Stein)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/018-00-019-stone-rune.webp#gallery)
+> ![Storm Rune (Uvar)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/019-00-020-storm-rune.webp#gallery)
+> ![War Rune (Krig)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/020-00-021-war-rune.webp#gallery)
+> ![Wind Rune (Vind)](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/021-00-022-wind-rune.webp#gallery)

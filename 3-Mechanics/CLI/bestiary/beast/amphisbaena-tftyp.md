@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/huge
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Amphisbaena
+- "Amphisbaena"
 ---
-# [Amphisbaena](3-Mechanics\CLI\bestiary\beast/amphisbaena-tftyp.md)
+# [Amphisbaena](3-Mechanics/CLI/bestiary/beast/amphisbaena-tftyp.md)
 *Source: Tales from the Yawning Portal p. 84*  
 
 ```statblock
@@ -33,9 +33,10 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "blindsight 10 ft., passive Perception 12"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "3"
 "actions":
@@ -45,13 +46,13 @@ aliases:
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:*\
       \ 11 (2d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until\
-      \ this grapple ends, the creature is restrained, and the snake can't constrict\
-      \ another target."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 13 (2d8 + 4) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 16). Until this grapple ends, the creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the snake can't constrict another target."
     "name": "Constrict"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/amphisbaena-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/amphisbaena-tftyp.webp"
 ```
 ^statblock

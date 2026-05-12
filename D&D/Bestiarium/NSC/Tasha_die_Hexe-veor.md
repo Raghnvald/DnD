@@ -12,14 +12,14 @@ aliases:
   - Tasha the Witch
 linter-yaml-title-alias: Tasha the Witch
 ---
-# [Tasha the Witch](3-Mechanics\CLI\bestiary\npc/tasha-the-witch-veor.md)
-*Source: Vecna: Eve of Ruin p. 252*  
+# Tasha the Witch
+*Quelle: Vecna: Vorabend der Verdammnis S. 250*  
 
-Tasha's path to greatness began when she was adopted by the arch-hag Baba Yaga, who named her Natasha. Tasha went on to create various spells, including Tasha's Hideous Laughter, and her magic-fueled ambitions brought her into contact with demons and demon lords, which she subjugated and used against her enemies. On the Material Plane, she became known as Iggwilv the Witch Queen and wrote the Demonomicon of Iggwilv, the greatest of all treatises on the Abyss and its demonic inhabitants. In recent years, Tasha sequestered herself in the Feywild, achieving incredible power and slowly turning into a Fey creature. Tasha became Zybilna, archfey of the domain of Prismeer.
+Tasha schlug den Pfad zu wahrer Größe ein, als sie von der Erzvettel Baba Yaga adoptiert und Natasha genannt wurde. Tasha erschuf zahlreiche Zauber, darunter Tashas fürchterlicher Lachanfall, und ihre magischen Ambitionen brachten sie in Kontakt mit Dämonen und Dämonenfürsten, die sie sich unterwarf und gegen ihre Feinde einsetzte. Auf der materiellen Ebene wurde sie als Iggwilv die Hexenkönigin bekannt und schrieb das Dämonomikon von Jggwilv, die umfangreichste aller Abhandlungen über den Abyss und seine dämonischen Bewohner. In den vergangenen Jahren hat sich Tasha ins Feywild zurückgezogen, unglaubliche Macht erlangt und sich allmählich in ein Feenwesen verwandelt. So ist Tasha zu Zybilna geworden, Erzfee der Domäne Prismeer. 
 
-## Answering the Summons
+## Dem Ruf gefolgt
 
-When Zybilna received Alustriel Silverhand's summons to combat Vecna, the archfey was sorely needed in Prismeer. As a compromise, and to honor Tasha's friendship with Alustriel, Zybilna sent a version of herself from the past to Alustriel's side. The Tasha who appears in *Vecna: Eve of Ruin* is a powerful wizard, though she is not yet a witch queen or an archfey.
+Als Zybilna von Alustriel Silberhand gerufen wurde, um gegen Vecna zu kämpfen, wurde die Erzfee jedoch dringend in Prismeer gebraucht. Als Kompromiss und zu Ehren von Tashas Freundschaft mit Alustriel schickte Zybilna eine vergangene Version von sich zu Alustriel. Die Tasha im Abenteuer ist eine mächtige Magierin, doch noch keine Hexenkönigin und auch keine Erzfee. 
 
 ```statblock
 "name": "Tasha the Witch (VEoR)"

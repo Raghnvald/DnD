@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened Shrub
+- "Awakened Shrub"
 ---
-# [Awakened Shrub](3-Mechanics\CLI\bestiary\plant/awakened-shrub-xmm.md)
+# [Awakened Shrub](3-Mechanics/CLI/bestiary/plant/awakened-shrub-xmm.md)
 *Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
@@ -25,7 +25,7 @@ Awakened shrubs can be any sort of small plant, from forest bushes to clustered 
 - **Habitat.** Forest  
 - **Treasure.** None  
 
-Magic can invest plants with mobility, sapience, and even a voice. Spells such as [Awaken](/3-Mechanics/CLI/spells/awaken-xphb.md) or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
+Magic can invest plants with mobility, sapience, and even a voice. Spells such as [Awaken](3-Mechanics/CLI/spells/awaken-xphb.md) or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
 > 
@@ -59,7 +59,7 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
     "name": "Rake"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/awakened-shrub-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/awakened-shrub-xmm.webp"
 ```
 ^statblock
 

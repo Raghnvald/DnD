@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- The Hunters' Role; Hunt for the Ka
+- "The Hunters' Role; Hunt for the Ka"
 ---
 # The Hunters' Role; Hunt for the Ka
 *Source: Van Richten's Guide to Ravenloft p. 111* 
 
 **Hunt for the Ka**
-
-`dice: [](the-hunters-role-hunt-for-the-ka-vrgr.md#^hunt-for-the-ka)`
 
 | dice: d6 | Hunt |
 |----------|------|

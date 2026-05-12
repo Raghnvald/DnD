@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Known For Its...
+- "Random Settlements; Known For Its..."
 ---
 # Random Settlements; Known For Its...
 *Source: Dungeon Master's Guide p. 112* 
 
 **Known For Its...**
-
-`dice: [](random-settlements-known-for-its.md#^known-for-its)`
 
 | dice: d20 | Feature |
 |-----------|---------|

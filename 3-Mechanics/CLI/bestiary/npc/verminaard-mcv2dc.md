@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/17
-- new/monster/size/medium
-- new/monster/type/humanoid/cleric
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/cleric
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Verminaard
+- "Verminaard"
 ---
-# [Verminaard](3-Mechanics\CLI\bestiary\npc/verminaard-mcv2dc.md)
+# [Verminaard](3-Mechanics/CLI/bestiary/npc/verminaard-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 15*  
 
 > [!quote]  
@@ -62,13 +62,16 @@ Verminaard's extreme devotion to Takhisis allows him to channel her unholy power
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+9"
 "damage_immunities": "fire"
-"condition_immunities": "charmed, frightened"
-"senses": "darkvision 60 ft., passive Perception 26"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"gear":
+  - "[nightbringer](3-Mechanics/CLI/items/nightbringer-mcv2dc.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 26"
 "languages": "Abyssal, Common, Draconic"
 "cr": "17"
 "traits":
@@ -78,17 +81,19 @@ Verminaard's extreme devotion to Takhisis allows him to channel her unholy power
     "name": "Draconic Command"
   - "desc": "If Verminaard fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "Verminaard wears +2 plate armor and wields the mace [Nightbringer](/3-Mechanics/CLI/items/nightbringer-mcv2dc.md),\
+  - "desc": "Verminaard wears +2 plate armor and wields the mace [Nightbringer](3-Mechanics/CLI/items/nightbringer-mcv2dc.md),\
       \ which grants him darkvision as well as immunity to fire damage and to the\
-      \ charmed and frightened conditions (included above)."
+      \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ conditions (included above)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Verminaard makes two Nightbringer attacks and uses Malediction."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (1d6 + 9) bludgeoning damage plus 10 (4d4) radiant damage. If the target is\
-      \ a creature, the target must succeed on a DC 20 Constitution saving throw or\
-      \ be blinded until the start of Verminaard's next turn."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (1d6 + 9) bludgeoning damage plus 10 (4d4) radiant damage. If the target\
+      \ is a creature, the target must succeed on a DC 20 Constitution saving throw\
+      \ or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the start\
+      \ of Verminaard's next turn."
     "name": "Nightbringer"
   - "desc": "Verminaard utters an unholy word, causing profane fire to descend on\
       \ one creature Verminaard can see within 60 feet of himself. The creature must\
@@ -98,8 +103,11 @@ Verminaard's extreme devotion to Takhisis allows him to channel her unholy power
     "name": "Malediction"
   - "desc": "Verminaard casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 18):\n\n**At will:**\
-      \ light, thaumaturgy\n\n**2/day each:** bane, fear, freedom of movement, greater\
-      \ restoration, hold monster, revivify"
+      \ [light](3-Mechanics/CLI/spells/light.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md)\n\
+      \n**2/day each:** [bane](3-Mechanics/CLI/spells/bane.md), [fear](3-Mechanics/CLI/spells/fear.md),\
+      \ [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement.md), [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration.md), [hold monster](3-Mechanics/CLI/spells/hold-monster.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "Verminaard or one creature he can see within 60 feet of himself magically\
@@ -119,6 +127,6 @@ Verminaard's extreme devotion to Takhisis allows him to channel her unholy power
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/verminaard-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/verminaard-mcv2dc.webp"
 ```
 ^statblock

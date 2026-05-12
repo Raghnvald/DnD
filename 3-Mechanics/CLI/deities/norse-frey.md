@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/norse
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Frey
+aliases:
+- "Frey"
 ---
 # Frey
 *Source: Player's Handbook p. 299* 

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- Quelle/5e/cos
-- Kompendium/reward/charm
+- ttrpg-cli/compendium/src/5e/cos
+- ttrpg-cli/reward/charm
 aliases:
-- Dark Gift of Yog the Invincible
+- "Dark Gift of Yog the Invincible"
 ---
 # Dark Gift of Yog the Invincible
 *Charm*  

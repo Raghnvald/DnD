@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Aristocrat Contact
+- "Aristocrat Contact"
 ---
 # Aristocrat Contact
 *Source: Tasha's Cauldron of Everything p. 90* 
 
 **Aristocrat Contact**
-
-`dice: [](aristocrat-contact-tce.md#^aristocrat-contact)`
 
 | dice: d6 | Contact |
 |----------|---------|

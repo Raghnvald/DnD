@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deity
 tags:
-- new/compendium/src/5e/erlw
-- new/deity/eberron
-- new/domain/life
-- new/domain/nature
-aliases: 
-- Arawai
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/deity/eberron
+- ttrpg-cli/domain/life
+- ttrpg-cli/domain/nature
+aliases:
+- "Arawai"
 ---
 # Arawai
 *Source: Eberron: Rising from the Last War p. 141* 
-![The Sovereign Host](/3-Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
+![The Sovereign Host](3-Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
 - **Category**: The Sovereign Host

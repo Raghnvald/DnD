@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Goblin Hucker
+- "Ogre Goblin Hucker"
 ---
-# [Ogre Goblin Hucker](3-Mechanics\CLI\bestiary\giant/ogre-goblin-hucker-skt.md)
+# [Ogre Goblin Hucker](3-Mechanics/CLI/bestiary/giant/ogre-goblin-hucker-skt.md)
 *Source: Storm King's Thunder p. 50*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -33,7 +33,11 @@ aliases:
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
@@ -46,11 +50,11 @@ aliases:
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 150/600 ft. (can't hit targets\
       \ within 30 feet of the hucker), one target. Hit: 5 (2d4) bludgeoning damage,\
       \ or 10 (4d4) piercing damage if the projectile is wearing a spiked helmet.\
-      \ *Hit or Miss:* The goblin projectile takes 1d6 bludgeoning damage per 10 feet\
-      \ it travels through the air (maximum 20d6)."
+      \ *Hit or Miss:* The goblin projectile takes 1d6 bludgeoning damage per 10\
+      \ feet it travels through the air (maximum 20d6)."
     "name": "Goblin Projectile"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-goblin-hucker-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-goblin-hucker-skt.webp"
 ```
 ^statblock

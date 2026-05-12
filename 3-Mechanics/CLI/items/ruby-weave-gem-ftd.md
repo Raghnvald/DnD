@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Ruby Weave Gem"
 ---
 # Ruby Weave Gem
-*Wondrous item, legendary (requires attunement by a spellcaster)*  
+*Wondrous item, spellcasting focus, legendary (requires attunement by a spellcaster)*  
 
 
 

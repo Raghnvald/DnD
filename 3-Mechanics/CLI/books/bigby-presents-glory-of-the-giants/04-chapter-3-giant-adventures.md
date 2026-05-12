@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Chapter 3: Giant Adventures
+- "Chapter 3: Giant Adventures"
 ---
 # Chapter 3: Giant Adventures
 *Source: Bigby Presents: Glory of the Giants, p. 43* 
@@ -22,7 +22,7 @@ This chapter, intended for the Dungeon Master, is full of tables and inspiration
 
 ""Campaigns"" helps you establish the role of giants in your game world and place these mighty peoples—past or present—in the forefront of your campaign.
 
-![](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/037-03-001-bigby-smash.webp#center)
+![](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/037-03-001-bigby-smash.webp#center)
 
 ## Encounters
 
@@ -44,10 +44,10 @@ Giants are dangerous foes. The encounter tables in this section are most suitabl
 > 
 > Use the guidelines in the "Dungeon Master's Guide" or "Xanathar's Guide to Everything" to build appropriately challenging encounters for your party. The guidelines here can help you plan adventures featuring giants for each tier of play:
 > 
-> - **First Tier (Levels 1–4).** [Ogres](/3-Mechanics/CLI/bestiary/giant/ogre-xmm.md) are the most suitable Giant opponents for characters in the first tier of play, and characters at level 4 might face a single [hill giant](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md). A lone hill giant can feel confident bullying (or eating) the inhabitants of a village, but more powerful giants (and larger groups) set their sights higher.  
-> - **Second Tier (Levels 5–10).** A single [stone](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md), [frost](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), [fire](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), or [cloud giant](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) is an appropriate challenge for characters in this tier. Near the top of this tier, characters might challenge two [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) or possibly a [storm giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md). The intrusion of these giants into settled lands is a threat that a whole kingdom or region notices.  
-> - **Third Tier (Levels 11–16).** Three to five [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) are an appropriate challenge for characters at this level, as are two to three [stone](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) or [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), two [fire](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) or [cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), or a single [storm giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md). Large groups of giants, when they are organized toward a single purpose, can determine the fate of nations.  
-> - **Fourth Tier (Levels 17–20).** Mighty characters in the fourth tier can challenge as many as eight [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md), four to five [stone](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md) or [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md), three to five [fire](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md) or [cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md), or two to three [storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md). When giants in significant numbers work toward a common cause, they can alter the nature of worlds.  
+> - **First Tier (Levels 1–4).** Ogres are the most suitable Giant opponents for characters in the first tier of play, and characters at level 4 might face a single hill giant. A lone hill giant can feel confident bullying (or eating) the inhabitants of a village, but more powerful giants (and larger groups) set their sights higher.  
+> - **Second Tier (Levels 5–10).** A single stone, frost, fire, or cloud giant is an appropriate challenge for characters in this tier. Near the top of this tier, characters might challenge two hill giants or possibly a storm giant. The intrusion of these giants into settled lands is a threat that a whole kingdom or region notices.  
+> - **Third Tier (Levels 11–16).** Three to five hill giants are an appropriate challenge for characters at this level, as are two to three stone or frost giants, two fire or cloud giants, or a single storm giant. Large groups of giants, when they are organized toward a single purpose, can determine the fate of nations.  
+> - **Fourth Tier (Levels 17–20).** Mighty characters in the fourth tier can challenge as many as eight hill giants, four to five stone or frost giants, three to five fire or cloud giants, or two to three storm giants. When giants in significant numbers work toward a common cause, they can alter the nature of worlds.  
 ^086
 
 ### Encounter Context
@@ -58,13 +58,13 @@ Each table entry presents a short description of the creatures in an encounter a
 
 Each creature on these tables includes a suggested attitude roll in parentheses after its name. To randomly determine the initial attitude of creatures in an encounter, roll the dice specified in the parentheses, then refer to the appropriate line of the Initial Attitudes table.
 
-![Initial Attitudes](/3-Mechanics/CLI/tables/initial-attitudes-bgg.md)
+![Initial Attitudes](3-Mechanics/CLI/tables/initial-attitudes-bgg.md)
 
 If an attitude doesn't fit what the creature is doing, you can either ignore the attitude or shape the encounter to match it. For example, if you roll an indifferent or friendly attitude for a creature that is hunting prey, you might decide the hunter simply doesn't find the characters to be a tasty treat. If the creature is sapient, it could ask the characters if they've seen which way its quarry has gone.
 
 ### Giantkind Encounters
 
-This section includes encounter tables themed around each of the six kinds of giants in the "Monster Manual", plus "death giants" (found in "chapter 6") and "fomorians". Each table includes giants as well as creatures that might be found in or around the homes of giants, including those commonly associated with giants as pets (such as [spotted lions](/3-Mechanics/CLI/bestiary/beast/spotted-lion-bgg.md) for [cloud giants](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) and [dire wolves](/3-Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) for [hill giants](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md)).
+This section includes encounter tables themed around each of the six kinds of giants in the "Monster Manual", plus "death giants" (found in "chapter 6") and "fomorians". Each table includes giants as well as creatures that might be found in or around the homes of giants, including those commonly associated with giants as pets (such as [spotted lions](3-Mechanics/CLI/bestiary/beast/spotted-lion-bgg.md) for cloud giants and dire wolves for hill giants).
 
 > [!note] 
 > 
@@ -72,7 +72,7 @@ This section includes encounter tables themed around each of the six kinds of gi
 > 
 > If you'd like to randomly determine the kind of giants that are dominant in a location, roll on the Giantkind Encounters table. You could also roll twice and use the resulting two tables to create either a cooperative or rival relationship between the indicated giants.
 > 
-> ![Giantkind Encounters](/3-Mechanics/CLI/tables/giantkind-encounters-bgg.md)
+> ![Giantkind Encounters](3-Mechanics/CLI/tables/giantkind-encounters-bgg.md)
 ^08b
 
 #### Cloud Giant Encounters
@@ -80,44 +80,44 @@ This section includes encounter tables themed around each of the six kinds of gi
 Cloud giants and related creatures thrive where there is fantastic wealth to be earned, plundered, or swindled; where there are secrets to be uncovered; and where diplomacy or guile can carry the day.
 
 > [!embed-table]- Cloud Giant Encounters
-> ![Cloud Giant Encounters](/3-Mechanics/CLI/tables/cloud-giant-encounters-bgg.md)
+> ![Cloud Giant Encounters](3-Mechanics/CLI/tables/cloud-giant-encounters-bgg.md)
 
 #### Death Giant Encounters
 
 The Death Giant Encounters table is appropriate for places steeped in gloom, whether within the Shadowfell or touched by that plane's sorrowful influence. The creatures on this table might populate places where giants fell into despair, sites where giants delved too deeply into necromantic magic, or areas where the Negative Plane's life-consuming influence seeps into the world.
 
-![Death giants haunt the Sha...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/039-03-002-death-giants-shadowfell.webp#center "Death giants haunt the Shadowfell and other places where death's influence is strong")
+![Death giants haunt the Shadowfell and other places where death's influence is strong](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/039-03-002-death-giants-shadowfell.webp#center)
 
 > [!embed-table]- Death Giant Encounters
-> ![Death Giant Encounters](/3-Mechanics/CLI/tables/death-giant-encounters-bgg.md)
+> ![Death Giant Encounters](3-Mechanics/CLI/tables/death-giant-encounters-bgg.md)
 
 #### Fire Giant Encounters
 
 Fire giants and their minions strive to create the strongest and finest crafts and fortresses. These giants can be found in any area rich in workable resources, particularly metal, as well as places where they can test their creations in battle.
 
 > [!embed-table]- Fire Giant Encounters
-> ![Fire Giant Encounters](/3-Mechanics/CLI/tables/fire-giant-encounters-bgg.md)
+> ![Fire Giant Encounters](3-Mechanics/CLI/tables/fire-giant-encounters-bgg.md)
 
 #### Fomorian Encounters
 
 The Fomorian Encounters table presents encounters that can occur in underground regions or at surface locations suffering an invasion from the depths. These encounters also fit well for places warped by the strange corruption of the Far Realm. Using these encounters to supplement another table can hint at deeper threats that are just beginning to burst through the fabric of the multiverse.
 
 > [!embed-table]- Fomorian Encounters
-> ![Fomorian Encounters](/3-Mechanics/CLI/tables/fomorian-encounters-bgg.md)
+> ![Fomorian Encounters](3-Mechanics/CLI/tables/fomorian-encounters-bgg.md)
 
 #### Frost Giant Encounters
 
 The Frost Giant Encounters table includes encounters suitable for arctic regions or regions where the activity of frost giants has magically cooled the climate.
 
 > [!embed-table]- Frost Giant Encounters
-> ![Frost Giant Encounters](/3-Mechanics/CLI/tables/frost-giant-encounters-bgg.md)
+> ![Frost Giant Encounters](3-Mechanics/CLI/tables/frost-giant-encounters-bgg.md)
 
 #### Hill Giant Encounters
 
 The Hill Giant Encounters table presents hill giants alongside other creatures driven by hunger. These encounters are good for straightforward adventures that don't focus on twists and guile. These creatures simply seek to indulge their endless hunger.
 
 > [!embed-table]- Hill Giant Encounters
-> ![Hill Giant Encounters](/3-Mechanics/CLI/tables/hill-giant-encounters-bgg.md)
+> ![Hill Giant Encounters](3-Mechanics/CLI/tables/hill-giant-encounters-bgg.md)
 
 #### Stone Giant Encounters
 
@@ -126,14 +126,14 @@ The Stone Giant Encounters table presents stone giants and creatures that might 
 These creatures can appear on the surface rather than in typical stone giant tunnels. Perhaps they're following the giants on a quest to the "dream world" that is the surface, or maybe they're trading and conferring with such giants when they emerge.
 
 > [!embed-table]- Stone Giant Encounters
-> ![Stone Giant Encounters](/3-Mechanics/CLI/tables/stone-giant-encounters-bgg.md)
+> ![Stone Giant Encounters](3-Mechanics/CLI/tables/stone-giant-encounters-bgg.md)
 
 #### Storm Giant Encounters
 
 The Storm Giant Encounters table includes storm giants as well as creatures that relate to or resonate with storm giant themes. Storm giants usually remain solitary, but they can get tangled in events that relate to prophecies and omens. These encounters might happen anywhere, at any time, and can be a sign on their own of momentous events to come.
 
 > [!embed-table]- Storm Giant Encounters
-> ![Storm Giant Encounters](/3-Mechanics/CLI/tables/storm-giant-encounters-bgg.md)
+> ![Storm Giant Encounters](3-Mechanics/CLI/tables/storm-giant-encounters-bgg.md)
 
 ### Connected Creatures
 
@@ -146,9 +146,9 @@ Use the Dinosaur World Encounters table to populate "lost worlds" sequestered fr
 Domesticated dinosaurs might have a variety of trappings—markings, brands, harnesses, collars, or saddles—that reflect the culture and nature of the giants who care for them. Hill giants might use crude twisted rope or rough leather cords, while storm giants could use bridles of spun copper that spark when touched or masterfully woven seaweed saddles.
 
 > [!embed-table]- Dinosaur World Encounters
-> ![Dinosaur World Encounters](/3-Mechanics/CLI/tables/dinosaur-world-encounters-bgg.md)
+> ![Dinosaur World Encounters](3-Mechanics/CLI/tables/dinosaur-world-encounters-bgg.md)
 
-![Giants and dinosaurs are b...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/039-03-003-giants-and-dinosaurs.webp#center "Giants and dinosaurs are both ancient creatures belonging to a long-forgotten time")
+![Giants and dinosaurs are both ancient creatures belonging to a long-forgotten time](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/039-03-003-giants-and-dinosaurs.webp#center)
 
 > [!quote] A quote from Bigby  
 > 
@@ -158,23 +158,23 @@ Domesticated dinosaurs might have a variety of trappings—markings, brands, har
 
 Use the four Elemental Encounters tables to populate areas suffused with the elemental and magical nature of giants or places where the Elemental Planes break into the Material Plane. The creatures on these tables might be connected to the cults of Elemental Evil (described in "chapter 2"). Magical conduits might draw creatures from the Elemental Planes and disgorge them within powerful storms, deep chasms, tumultuous wildfires, or ocean maelstroms. Elemental forces might also come to the world to oppose their elemental rivals from opposite planes: air versus earth or fire versus water.
 
-The elemental forces of air are most commonly connected with [cloud](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) and [storm giants](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md). Those of earth are typically associated with [hill](/3-Mechanics/CLI/bestiary/giant/hill-giant-xmm.md) and [stone giants](/3-Mechanics/CLI/bestiary/giant/stone-giant-xmm.md). Elemental fire is closely tied to [fire giants](/3-Mechanics/CLI/bestiary/giant/fire-giant-xmm.md), and elemental water is typically connected to [cloud](/3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) and [frost giants](/3-Mechanics/CLI/bestiary/giant/frost-giant-xmm.md).
+The elemental forces of air are most commonly connected with cloud and storm giants. Those of earth are typically associated with hill and stone giants. Elemental fire is closely tied to fire giants, and elemental water is typically connected to cloud and frost giants.
 
 The Elemental Water Encounters table can be useful in any aquatic environment, not just one where the Plane of Water extends its reach. An ancient giant enclave sunken in some great catastrophe or a storm giant retreat beneath the sea is an appropriate locale for these encounters.
 
 > [!embed-table]- Elemental Air Encounters
-> ![Elemental Air Encounters](/3-Mechanics/CLI/tables/elemental-air-encounters-bgg.md)
+> ![Elemental Air Encounters](3-Mechanics/CLI/tables/elemental-air-encounters-bgg.md)
 
 > [!embed-table]- Elemental Earth Encounters
-> ![Elemental Earth Encounters](/3-Mechanics/CLI/tables/elemental-earth-encounters-bgg.md)
+> ![Elemental Earth Encounters](3-Mechanics/CLI/tables/elemental-earth-encounters-bgg.md)
 
 > [!embed-table]- Elemental Fire Encounters
-> ![Elemental Fire Encounters](/3-Mechanics/CLI/tables/elemental-fire-encounters-bgg.md)
+> ![Elemental Fire Encounters](3-Mechanics/CLI/tables/elemental-fire-encounters-bgg.md)
 
-![A whirlpool from the Plane...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/040-03-004-plane-of-water-storm-giant.webp#center "A whirlpool from the Plane of Water is the center of this storm giant enclave")
+![A whirlpool from the Plane of Water is the center of this storm giant enclave](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/040-03-004-plane-of-water-storm-giant.webp#center)
 
 > [!embed-table]- Elemental Water Encounters
-> ![Elemental Water Encounters](/3-Mechanics/CLI/tables/elemental-water-encounters-bgg.md)
+> ![Elemental Water Encounters](3-Mechanics/CLI/tables/elemental-water-encounters-bgg.md)
 
 #### Fiendish Incursion Encounters
 
@@ -185,9 +185,9 @@ Use the Fiendish Incursion Encounters table for situations where giants have tur
 > Listen. I have glimpsed the pages of Iggwilv's Demonomicon. I've felt the soul-chilling touch of an incubus. I've even ventured to more than one of the Lower Planes. Somehow none of these things compares to the sheer horror of a giant transformed into something much, much worse by the corruption of a demon lord.
 
 > [!embed-table]- Fiendish Incursion Encounters
-> ![Fiendish Incursion Encounters](/3-Mechanics/CLI/tables/fiendish-incursion-encounters-bgg.md)
+> ![Fiendish Incursion Encounters](3-Mechanics/CLI/tables/fiendish-incursion-encounters-bgg.md)
 
-![Abandoned by Annam, some f...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/041-03-005-fire-giants-hells.webp#center "Abandoned by Annam, some fire giants turn to devils to understand their place in the cosmos")
+![Abandoned by Annam, some fire giants turn to devils to understand their place in the cosmos](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/041-03-005-fire-giants-hells.webp#center)
 
 #### Giant Construct Encounters
 
@@ -196,14 +196,14 @@ Use the Giant Construct Encounters table to populate ancient giants' ruins that 
 You can alter the appearance of any Construct on this table to reflect the nature of its creators. An iron golem built by fire giants might spew embers and sooty smoke between its iron plates, while one built by cloud giants might leak wisps of mist and raindrops. Any of these Constructs might have Giant runes engraved somewhere on them as part of the magic that animates them. You can alter any Construct's size without changing any of the creature's other statistics.
 
 > [!embed-table]- Giant Construct Encounters
-> ![Giant Construct Encounters](/3-Mechanics/CLI/tables/giant-construct-encounters-bgg.md)
+> ![Giant Construct Encounters](3-Mechanics/CLI/tables/giant-construct-encounters-bgg.md)
 
 #### Giant Kin Encounters
 
 The Giant Kin Encounters table presents a range of creatures of the Giant type that are not encompassed by the ordning, along with related creatures that might be pursuing their own schemes or working as part of a giant's machinations. These giant kin might be drawn to runes and sites of giant power, even long after the creators of those sites are gone.
 
 > [!embed-table]- Giant Kin Encounters
-> ![Giant Kin Encounters](/3-Mechanics/CLI/tables/giant-kin-encounters-bgg.md)
+> ![Giant Kin Encounters](3-Mechanics/CLI/tables/giant-kin-encounters-bgg.md)
 
 > [!quote] A quote from Diancastra  
 > 
@@ -216,7 +216,7 @@ Use the Giant Necropolis Encounters table to populate places where giants once t
 Even without a theme of undeath, you can use these encounters to add a flavor of despair or to suggest Undead giants are interested in a location for mysterious reasons.
 
 > [!embed-table]- Giant Necropolis Encounters
-> ![Giant Necropolis Encounters](/3-Mechanics/CLI/tables/giant-necropolis-encounters-bgg.md)
+> ![Giant Necropolis Encounters](3-Mechanics/CLI/tables/giant-necropolis-encounters-bgg.md)
 
 > [!quote] A quote from Diancastra  
 > 
@@ -233,7 +233,7 @@ The Megafauna World Encounters table suggests encounters with gigantic animals t
 As with the dinosaurs on the "Dinosaur World Encounters table", you can add a variety of trappings to the animals encountered here to reflect the nature of the giants who care for them.
 
 > [!embed-table]- Megafauna World Encounters
-> ![Megafauna World Encounters](/3-Mechanics/CLI/tables/megafauna-world-encounters-bgg.md)
+> ![Megafauna World Encounters](3-Mechanics/CLI/tables/megafauna-world-encounters-bgg.md)
 
 ## Adventures
 
@@ -259,19 +259,19 @@ The Against the Giants table offers suggestions for adventure hooks you can use 
 > 
 > On the world I call home, three linked mountain ranges—the Crystalmist Mountains, the Jotens, and the Hellfurnaces—are inhabited by fierce giants who launch all-too-frequent raids into the nearby lands of the Yeomanry, Sterich, and Geoff.
 
-![Against the Giants](/3-Mechanics/CLI/tables/against-the-giants-bgg.md)
+![Against the Giants](3-Mechanics/CLI/tables/against-the-giants-bgg.md)
 
 #### Clash of Titans
 
-Sometimes giants are background elements to an adventure that has more to do with the impact of the giants' actions on the world than it does with the giants themselves. These adventures might be disaster stories, where characters might help bystanders escape. The source of the disaster might be a conflict between two giants (or two groups of giants), a clash between a giant and another powerful monster (such as a dragon, a dinosaur, a [purple worm](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md), or the [tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque-xmm.md)), or the stirring of a truly colossal giant (such as the "scions of giants' gods" described in "chapter 6"). An adventure might also challenge characters to drive the giants (and other forces of destruction) away from settled lands.
+Sometimes giants are background elements to an adventure that has more to do with the impact of the giants' actions on the world than it does with the giants themselves. These adventures might be disaster stories, where characters might help bystanders escape. The source of the disaster might be a conflict between two giants (or two groups of giants), a clash between a giant and another powerful monster (such as a dragon, a dinosaur, a purple worm, or the tarrasque), or the stirring of a truly colossal giant (such as the "scions of giants' gods" described in "chapter 6"). An adventure might also challenge characters to drive the giants (and other forces of destruction) away from settled lands.
 
-The giant in a scenario like this need not be the villain. A [storm giant](/3-Mechanics/CLI/bestiary/giant/storm-giant-xmm.md) wrestling a [kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) to keep the creature from destroying a coastal city might still cause accidental devastation. A giant might look for heroes to take care of bystanders while the giant deals with (or holds back) the greater threat.
+The giant in a scenario like this need not be the villain. A storm giant wrestling a kraken to keep the creature from destroying a coastal city might still cause accidental devastation. A giant might look for heroes to take care of bystanders while the giant deals with (or holds back) the greater threat.
 
 The Clash of Titans table provides a sampling of adventure hooks you can use to build an adventure along these lines.
 
-![Clash of Titans](/3-Mechanics/CLI/tables/clash-of-titans-bgg.md)
+![Clash of Titans](3-Mechanics/CLI/tables/clash-of-titans-bgg.md)
 
-![A giant and a dragon are o...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/042-03-006-dragons-vs-giants.webp#center "A giant and a dragon are oblivious to the destruction they're causing")
+![A giant and a dragon are oblivious to the destruction they're causing](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/042-03-006-dragons-vs-giants.webp#center)
 
 #### Delve into the Past
 
@@ -285,7 +285,7 @@ An expedition into giants' ruins might involve a confrontation with giants, or i
 
 You can use the Delve into the Past table to inspire adventures leading characters into ancient giant ruins. You can also use the locations in "chapter 4" as destinations for these adventures; each of those locations includes its own suggested adventure hooks that you can use instead, or combine with the ones here, as inspiration strikes you.
 
-![Delve into the Past](/3-Mechanics/CLI/tables/delve-into-the-past-bgg.md)
+![Delve into the Past](3-Mechanics/CLI/tables/delve-into-the-past-bgg.md)
 
 #### Giant-Sized Schemes
 
@@ -293,19 +293,19 @@ Giants are mythical creatures, descended from a god and imbued with the raw ener
 
 The Giant-Sized Schemes table offers suggestions, including several inspired by the plots of famous dramas.
 
-![Giant-Sized Schemes](/3-Mechanics/CLI/tables/giant-sized-schemes-bgg.md)
+![Giant-Sized Schemes](3-Mechanics/CLI/tables/giant-sized-schemes-bgg.md)
 
 #### Into the Giant Realms
 
 In Jonathan Swift's novel *Gulliver's Travels*, the protagonist is swept off course on a sea voyage and finds himself in the land of Brobdingnag, where everything is twelve times its usual size, from people to rats. In Jules Verne's *Journey to the Center of the Earth*, explorers discover a subterranean world where giant-sized people tend herds of mastodons and where reptiles from Earth's ancient past still roam the sea and sky. The English fairy tale of Jack climbing a beanstalk to a giant's cloud castle is a similar example of an adventurer passing into a world of giants. In Norse myth, giants inhabit the realm of Jotunheim, where brave gods and heroes occasionally venture on dangerous quests.
 
-![Three brave urchins seem t...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/043-03-007-giants-and-urchins.webp#center "Three brave urchins seem to have stepped through the wrong doorway in Waterdeep!")
+![Three brave urchins seem to have stepped through the wrong doorway in Waterdeep!](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/043-03-007-giants-and-urchins.webp#center)
 
 An adventure inspired by these tales might see characters discovering a secret valley hidden in a remote mountain range where storm giants tend flocks of sheep the size of horses, delving deep into the Underdark where stone giants ride mammoths across vast subterranean plains, washing up on an uncharted island whose giant inhabitants hunt dinosaurs, or entering a demiplane where a portion of the ancient world of the giants is perfectly preserved. The characters might be lost travelers or bold explorers, or they might journey to these wondrous locations in search of some treasure or powerful magic used by the giants.
 
 The Into the Giant Realms table offers more suggestions for how to bring characters to these realms.
 
-![Into the Giant Realms](/3-Mechanics/CLI/tables/into-the-giant-realms-bgg.md)
+![Into the Giant Realms](3-Mechanics/CLI/tables/into-the-giant-realms-bgg.md)
 
 ##### Giants of Surtland
 
@@ -321,7 +321,7 @@ Many of the adventure hooks throughout this book involve giants asking character
 
 If you want to use a giant as a patron for a group of adventurers, you can use the perks, contacts, and roles described in the ""Group Patrons"" chapter of "Tasha's Cauldron of Everything" alongside the adventure hooks and other information included here. Each of the roles described here corresponds (at least loosely) to a patron type described in that book, as shown on the Giant Patrons table.
 
-![Giant Patrons](/3-Mechanics/CLI/tables/giant-patrons-bgg.md)
+![Giant Patrons](3-Mechanics/CLI/tables/giant-patrons-bgg.md)
 
 #### Boss
 
@@ -331,7 +331,7 @@ The archetypal giant boss is a hill giant, perhaps cleverer than most, who enjoy
 
 The Boss Assignments table suggests the kinds of missions a giant boss might send adventurers on.
 
-![Boss Assignments](/3-Mechanics/CLI/tables/boss-assignments-bgg.md)
+![Boss Assignments](3-Mechanics/CLI/tables/boss-assignments-bgg.md)
 
 #### Financier
 
@@ -341,7 +341,7 @@ The archetypal giant financier is a cloud giant who constantly seeks to improve 
 
 The Financier Assignments table suggests appropriate expeditions a giant might finance.
 
-![Financier Assignments](/3-Mechanics/CLI/tables/financier-assignments-bgg.md)
+![Financier Assignments](3-Mechanics/CLI/tables/financier-assignments-bgg.md)
 
 #### Seer
 
@@ -351,7 +351,7 @@ The archetypal giant seer is a storm giant driven by the search for signs of Ann
 
 The Seer Assignments table suggests quests a giant seer might lay on adventurers.
 
-![Seer Assignments](/3-Mechanics/CLI/tables/seer-assignments-bgg.md)
+![Seer Assignments](3-Mechanics/CLI/tables/seer-assignments-bgg.md)
 
 #### Sovereign
 
@@ -361,7 +361,7 @@ The archetypal giant sovereign is a fire giant who commands significant numbers 
 
 The Sovereign Assignments table lists some missions a giant sovereign might send adventurers on.
 
-![Sovereign Assignments](/3-Mechanics/CLI/tables/sovereign-assignments-bgg.md)
+![Sovereign Assignments](3-Mechanics/CLI/tables/sovereign-assignments-bgg.md)
 
 #### Tutor
 
@@ -375,9 +375,9 @@ The archetypal giant tutor is a stone giant who is convinced the surface world�
 
 The Tutor Assignments table presents assignments a giant tutor might give to adventurous students.
 
-![Tutor Assignments](/3-Mechanics/CLI/tables/tutor-assignments-bgg.md)
+![Tutor Assignments](3-Mechanics/CLI/tables/tutor-assignments-bgg.md)
 
-![Adventurers explore a city of petrified giants](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/044-03-008-petrified-city.webp#center)
+![Adventurers explore a city of petrified giants](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/044-03-008-petrified-city.webp#center)
 
 #### Warleader
 
@@ -387,7 +387,7 @@ The archetypal giant warleader is a frost giant commanding a horde of fierce sol
 
 The Warleader Assignments table provides suggested missions the giant might assign.
 
-![Warleader Assignments](/3-Mechanics/CLI/tables/warleader-assignments-bgg.md)
+![Warleader Assignments](3-Mechanics/CLI/tables/warleader-assignments-bgg.md)
 
 ## Campaigns
 
@@ -425,7 +425,7 @@ If you don't want to build a world that focuses on the presence or absence of gi
 
 The World-Shaking Events table offers inspiration for giant-driven events that can set or alter the course of your campaign.
 
-![Campaign Events; World-Shaking Events](/3-Mechanics/CLI/tables/campaign-events-world-shaking-events-bgg.md)
+![Campaign Events; World-Shaking Events](3-Mechanics/CLI/tables/campaign-events-world-shaking-events-bgg.md)
 
 > [!quote] A quote from Diancastra  
 > 
@@ -439,13 +439,13 @@ In the mythic history of most D&D worlds, giants occupy a privileged place—alo
 
 The history of the giants and these other ancient peoples doesn't need to be important in your world, but it might have long-lasting implications. In the Forgotten Realms, giants and dragons sometimes nurse grudges against each other stemming from the Thousand-Year War that devastated their ancient empires millennia ago. Even for such long-lived creatures, twenty-five thousand years is a long time to hold a grudge. In your world, there might never have been conflict between giants and dragons, or they might have long ago set aside any lingering resentment. Perhaps giants and dragons banded together in ages past in a desperate effort to survive the rise of younger peoples. Or evil giants might have sided with chromatic dragons while good giants took up arms alongside metallic dragons in the long-running conflict between the children of Bahamut and the children of Tiamat.
 
-Similarly, many D&D worlds feature an ancient history of conflict between dwarves and giants. This enmity is visible most clearly in certain magic items originally made by dwarves to be highly effective against giants (and other creatures of the Giant type): the [dwarven thrower](/3-Mechanics/CLI/items/dwarven-thrower-xdmg.md), [Whelm](/3-Mechanics/CLI/items/whelm-xdmg.md), and the [Axe of the Dwarvish Lords](/3-Mechanics/CLI/items/axe-of-the-dwarvish-lords-xdmg.md). Often this history of conflict is assumed to be simply a matter of fighting over territory, since both dwarves and giants often prefer to live in mountainous regions. But the myths told by both giants and dwarves on some worlds describe the conflict extending into the divine realms as well. The god Moradin, who is revered by many dwarves, is said to loathe the evil giant gods. But you might decide the dwarves and giants of your world have a long history of friendly relations, or that dwarves often side with good giants in opposition to the schemes and depredations of evil giants. Perhaps dwarves are frequently the subjects of giant-ruled realms in the mountains, living peaceful and prosperous lives under beneficent storm giant rulers or toiling in poverty under fire giant tyrants.
+Similarly, many D&D worlds feature an ancient history of conflict between dwarves and giants. This enmity is visible most clearly in certain magic items originally made by dwarves to be highly effective against giants (and other creatures of the Giant type): the [dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower.md), [Whelm](3-Mechanics/CLI/items/whelm.md), and the [Axe of the Dwarvish Lords](3-Mechanics/CLI/items/axe-of-the-dwarvish-lords.md). Often this history of conflict is assumed to be simply a matter of fighting over territory, since both dwarves and giants often prefer to live in mountainous regions. But the myths told by both giants and dwarves on some worlds describe the conflict extending into the divine realms as well. The god Moradin, who is revered by many dwarves, is said to loathe the evil giant gods. But you might decide the dwarves and giants of your world have a long history of friendly relations, or that dwarves often side with good giants in opposition to the schemes and depredations of evil giants. Perhaps dwarves are frequently the subjects of giant-ruled realms in the mountains, living peaceful and prosperous lives under beneficent storm giant rulers or toiling in poverty under fire giant tyrants.
 
-Most D&D worlds' histories don't include any particular animosity between elves and giants. Perhaps in your world, elves and giants have coexisted peacefully in separate regions of the world. Or maybe they warred fiercely: an [elven thrower](/3-Mechanics/CLI/items/elven-thrower-bgg.md) (a spear that is otherwise identical to a [dwarven thrower](/3-Mechanics/CLI/items/dwarven-thrower-xdmg.md) warhammer) might be a magic relic of those ancient battles. Perhaps elves and giants worked together to bring an end to evil dragons' dominion over the young world, and the two peoples maintain a sense of mutual respect.
+Most D&D worlds' histories don't include any particular animosity between elves and giants. Perhaps in your world, elves and giants have coexisted peacefully in separate regions of the world. Or maybe they warred fiercely: an [elven thrower](3-Mechanics/CLI/items/elven-thrower-bgg.md) (a spear that is otherwise identical to a [dwarven thrower](3-Mechanics/CLI/items/dwarven-thrower.md) warhammer) might be a magic relic of those ancient battles. Perhaps elves and giants worked together to bring an end to evil dragons' dominion over the young world, and the two peoples maintain a sense of mutual respect.
 
 #### War of the Ancients
 
-![When giants hold up the sk...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/045-03-009-giants-atlas.webp#center "When giants hold up the sky, what happens when dragons decide to make the sky fall?")
+![When giants hold up the sky, what happens when dragons decide to make the sky fall?](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/045-03-009-giants-atlas.webp#center)
 
 You might also decide to create a campaign where the conflicts among the ancients, like the Thousand-Year War between giants and dragons in the Forgotten Realms, are not a matter of ancient history but a present reality. You could build an entire campaign in the shadow of such a conflict, which is basically taking the ideas described under ""Clash of Titans"" earlier in this chapter and extending them through many adventures.
 

@@ -6,10 +6,10 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/feat
 aliases:
-- Dueling
+- "Dueling"
 ---
 # Dueling
-*Source: Player's Handbook (2024) p. 209. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 209*  
 
 **Prerequisite**: Fighting Style Feature
 

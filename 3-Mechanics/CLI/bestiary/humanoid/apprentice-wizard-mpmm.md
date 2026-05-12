@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Apprentice Wizard
+- "Apprentice Wizard"
 ---
-# [Apprentice Wizard](3-Mechanics\CLI\bestiary\humanoid/apprentice-wizard-mpmm.md)
+# [Apprentice Wizard](3-Mechanics/CLI/bestiary/humanoid/apprentice-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*  
 
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "10"
-"ac_class": "13 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "13 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "0"
@@ -41,9 +41,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+4"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
@@ -53,15 +53,15 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 7 (1d10 + 2) force damage."
     "name": "Arcane Burst"
   - "desc": "The apprentice casts one of the following spells, using Intelligence\
-      \ as the spellcasting ability (spell save DC 12)\n\n**At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [burning hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), [disguise\
-      \ self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+      \ as the spellcasting ability (spell save DC 12)\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), [disguise\
+      \ self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/apprentice-wizard-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/apprentice-wizard-mpmm.webp"
 ```
 ^statblock
 

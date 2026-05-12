@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Darkmantle
+- "Reduced-Threat Darkmantle"
 ---
-# [Reduced-Threat Darkmantle](3-Mechanics\CLI\bestiary\monstrosity/reduced-threat-darkmantle-tftyp.md)
+# [Reduced-Threat Darkmantle](3-Mechanics/CLI/bestiary/monstrosity/reduced-threat-darkmantle-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -33,9 +33,10 @@ aliases:
   - !!int "5"
 "speed": "10 ft., fly 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+1"
-"senses": "blindsight 60 ft., passive Perception 10"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -44,33 +45,35 @@ aliases:
       \ saving throws (included in the stat block for saving throw proficiencies),\
       \ and saving throw DCs (included in the stat block)."
     "name": "Reduced Threat"
-  - "desc": "The darkmantle can't use its blindsight while deafened."
+  - "desc": "The darkmantle can't use its blindsight while [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)."
     "name": "Echolocation"
   - "desc": "While the darkmantle remains motionless, it is indistinguishable from\
       \ a cave formation such as a stalactite or stalagmite."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If\
-      \ the target is Medium or smaller and the darkmantle has advantage on the attack\
-      \ roll, it attaches by engulfing the target's head, and the target is also blinded\
-      \ and unable to breathe while the darkmantle is attached in this way.\n\nWhile\
-      \ attached to the target, the darkmantle can attack no other creature except\
-      \ the target but has advantage on its attack rolls. The darkmantle's speed also\
-      \ becomes 0, it can't benefit from any bonus to its speed, and it moves with\
-      \ the target.\n\nA creature can detach the darkmantle by making a successful\
-      \ DC 11 Strength check as an action. On its turn, the darkmantle can detach\
-      \ itself from the target by using 5 feet of movement."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target.\
+      \ If the target is Medium or smaller and the darkmantle has advantage on the\
+      \ attack roll, it attaches by engulfing the target's head, and the target is\
+      \ also [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and unable to\
+      \ breathe while the darkmantle is attached in this way.\n\nWhile attached to\
+      \ the target, the darkmantle can attack no other creature except the target\
+      \ but has advantage on its attack rolls. The darkmantle's speed also becomes\
+      \ 0, it can't benefit from any bonus to its speed, and it moves with the target.\n\
+      \nA creature can detach the darkmantle by making a successful DC 11 Strength\
+      \ check as an action. On its turn, the darkmantle can detach itself from the\
+      \ target by using 5 feet of movement."
     "name": "Crush"
   - "desc": "A 15-foot radius of magical darkness extends out from the darkmantle,\
       \ moves with it, and spreads around corners. The darkness lasts as long as the\
-      \ darkmantle maintains concentration, up to 10 minutes (as if concentrating\
+      \ darkmantle maintains [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration),\
+      \ up to 10 minutes (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
       \ on a spell). Darkvision can't penetrate this darkness, and no natural light\
       \ can illuminate it. If any of the darkness overlaps with an area of light created\
       \ by a spell of 2nd level or lower, the spell creating the light is dispelled."
     "name": "Darkness Aura (1/Day)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-darkmantle-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/reduced-threat-darkmantle-tftyp.webp"
 ```
 ^statblock

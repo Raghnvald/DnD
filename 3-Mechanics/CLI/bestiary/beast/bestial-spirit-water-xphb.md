@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bestial Spirit (Water)
+- "Bestial Spirit (Water)"
 ---
-# [Bestial Spirit (Water)](3-Mechanics\CLI\bestiary\beast/bestial-spirit-water-xphb.md)
+# [Bestial Spirit (Water)](3-Mechanics/CLI/bestiary/beast/bestial-spirit-water-xphb.md)
 *Source: Player's Handbook (2024) p. 323*  
 
 ```statblock
@@ -30,13 +30,14 @@ aliases:
   - !!int "14"
   - !!int "5"
 "speed": "30 ft., swim 30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The spirit has Advantage on an attack roll against a creature if at least\
       \ one of the spirit's allies is within 5 feet of the creature and the ally doesn't\
-      \ have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition."
     "name": "Pack Tactics"
   - "desc": "The spirit can breathe only underwater."
     "name": "Water Breathing (Water Only)"

@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/legendary
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/legendary
+aliases:
 - "Deck of Many More Things"
 ---
 # Deck of Many More Things
 *Wondrous item, legendary*  
-![](/3-Mechanics/CLI/items/img/deck-of-many-more-things.webp#right)
+![](3-Mechanics/CLI/items/img/deck-of-many-more-things.webp#right)
 
 
 Over the centuries since the first Deck of Many Things was created, many have sought and failed to replicate it. But some have created new cards. These forty-four additional cards are known collectively as the Deck of Many More Things. (More information on creating new cards for this deck appears in chapter 2.)
@@ -27,80 +27,78 @@ The DM can use the physical cards provided in The Deck of Many Things card set t
 
 **Deck of Many More Things**
 
-`dice: [](deck-of-many-more-things-bmt.md#^deck-of-many-more-things)`
-
 | dice: d100 | Card |
 |------------|------|
-| 01 | [Aberration](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Aberration) |
-| 02 | [Balance](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Balance)* |
-| 03 | [Beast](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Beast) |
-| 04 | [Book](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Book) |
-| 05 | [Bridge](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Bridge) |
-| 06 | [Campfire](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Campfire) |
-| 07 | [Cavern](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Cavern) |
-| 08 | [Celestial](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Celestial) |
-| 09 | [Comet](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Comet)* |
-| 10 | [Construct](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Construct) |
-| 11 | [Corpse](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Corpse) |
-| 12 | [Crossroads](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Crossroads) |
-| 13 | [Donjon](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Donjon)* |
-| 14 | [Door](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Door) |
-| 15 | [Dragon](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Dragon) |
-| 16 | [Elemental](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Elemental) |
-| 17 | [Euryale](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Euryale)* |
-| 18 | [Expert](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Expert) |
-| 19 | [Fates](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fates)* |
-| 20 | [Fey](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fey) |
-| 21 | [Fiend](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fiend) |
-| 22 | [Flames](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Flames)* |
-| 23 | [Fool](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fool)* |
-| 24 | [Gem](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Gem)* |
-| 25 | [Giant](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Giant) |
-| 26 | [Humanoid](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Humanoid) |
-| 27 | [Jester](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Jester)* |
-| 28 | [Key](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Key)* |
-| 29 | [Knight](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Knight)* |
-| 30 | [Lance](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Lance) |
-| 31 | [Mage](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Mage) |
-| 32 | [Map](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Map) |
-| 33 | [Maze](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Maze) |
-| 34 | [Mine](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Mine) |
-| 35 | [Monstrosity](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Monstrosity) |
-| 36 | [Moon](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Moon)* |
-| 37 | [Ooze](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ooze) |
-| 38 | [Path](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Path) |
-| 39 | [Pit](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Pit) |
-| 40 | [Plant](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Plant) |
-| 41 | [Priest](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Priest) |
-| 42 | [Prisoner](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Prisoner) |
-| 43 | [Puzzle](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Puzzle)* |
-| 44 | [Ring](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ring) |
-| 45 | [Rogue](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Rogue)* |
-| 46 | [Ruin](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ruin)* |
-| 47 | [Sage](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Sage)* |
-| 48 | [Shield](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Shield) |
-| 49 | [Ship](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ship) |
-| 50 | [Skull](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Skull)* |
-| 51 | [Staff](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Staff) |
-| 52 | [Stairway](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Stairway) |
-| 53 | [Star](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Star)* |
-| 54 | [Statue](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Statue) |
-| 55 | [Sun](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Sun)* |
-| 56 | [Talons](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Talons)* |
-| 57 | [Tavern](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tavern) |
-| 58 | [Temple](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Temple) |
-| 59 | [Throne](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Throne)* |
-| 60 | [Tomb](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tomb) |
-| 61 | [Tower](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tower) |
-| 62 | [Tree](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tree) |
-| 63 | [Undead](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Undead) |
-| 64 | [Void](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Void)* |
-| 65 | [Warrior](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Warrior) |
-| 66 | [Well](/3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Well) |
+| 01 | [Aberration](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Aberration) |
+| 02 | [Balance](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Balance)* |
+| 03 | [Beast](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Beast) |
+| 04 | [Book](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Book) |
+| 05 | [Bridge](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Bridge) |
+| 06 | [Campfire](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Campfire) |
+| 07 | [Cavern](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Cavern) |
+| 08 | [Celestial](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Celestial) |
+| 09 | [Comet](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Comet)* |
+| 10 | [Construct](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Construct) |
+| 11 | [Corpse](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Corpse) |
+| 12 | [Crossroads](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Crossroads) |
+| 13 | [Donjon](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Donjon)* |
+| 14 | [Door](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Door) |
+| 15 | [Dragon](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Dragon) |
+| 16 | [Elemental](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Elemental) |
+| 17 | [Euryale](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Euryale)* |
+| 18 | [Expert](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Expert) |
+| 19 | [Fates](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fates)* |
+| 20 | [Fey](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fey) |
+| 21 | [Fiend](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fiend) |
+| 22 | [Flames](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Flames)* |
+| 23 | [Fool](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Fool)* |
+| 24 | [Gem](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Gem)* |
+| 25 | [Giant](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Giant) |
+| 26 | [Humanoid](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Humanoid) |
+| 27 | [Jester](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Jester)* |
+| 28 | [Key](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Key)* |
+| 29 | [Knight](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Knight)* |
+| 30 | [Lance](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Lance) |
+| 31 | [Mage](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Mage) |
+| 32 | [Map](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Map) |
+| 33 | [Maze](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Maze) |
+| 34 | [Mine](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Mine) |
+| 35 | [Monstrosity](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Monstrosity) |
+| 36 | [Moon](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Moon)* |
+| 37 | [Ooze](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ooze) |
+| 38 | [Path](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Path) |
+| 39 | [Pit](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Pit) |
+| 40 | [Plant](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Plant) |
+| 41 | [Priest](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Priest) |
+| 42 | [Prisoner](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Prisoner) |
+| 43 | [Puzzle](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Puzzle)* |
+| 44 | [Ring](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ring) |
+| 45 | [Rogue](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Rogue)* |
+| 46 | [Ruin](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ruin)* |
+| 47 | [Sage](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Sage)* |
+| 48 | [Shield](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Shield) |
+| 49 | [Ship](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Ship) |
+| 50 | [Skull](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Skull)* |
+| 51 | [Staff](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Staff) |
+| 52 | [Stairway](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Stairway) |
+| 53 | [Star](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Star)* |
+| 54 | [Statue](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Statue) |
+| 55 | [Sun](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Sun)* |
+| 56 | [Talons](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Talons)* |
+| 57 | [Tavern](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tavern) |
+| 58 | [Temple](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Temple) |
+| 59 | [Throne](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Throne)* |
+| 60 | [Tomb](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tomb) |
+| 61 | [Tower](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tower) |
+| 62 | [Tree](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Tree) |
+| 63 | [Undead](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Undead) |
+| 64 | [Void](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Void)* |
+| 65 | [Warrior](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Warrior) |
+| 66 | [Well](3-Mechanics/CLI/decks/deck-of-many-more-things-bmt.md#Well) |
 | 67–00 | Roll again |
 ^deck-of-many-more-things
 
-* Found in the Deck of Many Things as depicted in the "Dungeon Master's Guide"
+* Found in the [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md) as depicted in the "Dungeon Master's Guide"
 
 ## Aberration
 
@@ -110,15 +108,15 @@ You gain telepathy within a range of 90 feet.
 
 You immediately transform into a random Beast with a CR of 5 or lower. Your game statistics—including your ability scores, hit points, and possible actions—are replaced by the Beast's game statistics, and any nonmagical equipment you're wearing or carrying melds into your new form and can't be used. Any magic items you're carrying drop in an unoccupied space within 5 feet of your new form.
 
-You remain transformed in this way for `dice:2d12|noform|noparens|avg` (`2d12`) days; nothing can alter your form while you're under the effects of this card, but the Wish spell can end the transformation early. When you revert to your normal form, you return to the same state you were in when you initially transformed.
+You remain transformed in this way for `2d12` days; nothing can alter your form while you're under the effects of this card, but the Wish spell can end the transformation early. When you revert to your normal form, you return to the same state you were in when you initially transformed.
 
 ## Book
 
-You gain the ability to speak, read, and write `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) languages of your choice.
+You gain the ability to speak, read, and write `1d6 + 2` languages of your choice.
 
 ## Bridge
 
-You gain the ability to cast the Time Stop spell `dice:1d3|noform|noparens|avg` (`1d3`) times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+You gain the ability to cast the Time Stop spell `1d3` times. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Campfire
 
@@ -134,7 +132,7 @@ You sprout a pair of softly luminescent, feathered wings from your back and gain
 
 ## Construct
 
-A [homunculus](/3-Mechanics/CLI/bestiary/construct/homunculus.md) appears in an unoccupied space within 5 feet of you. The appearance of the homunculus is determined by the DM, and the homunculus treats you as its creator.
+A homunculus appears in an unoccupied space within 5 feet of you. The appearance of the homunculus is determined by the DM, and the homunculus treats you as its creator.
 
 ## Corpse
 
@@ -142,11 +140,11 @@ You immediately drop to 0 hit points, have the unconscious condition, and must b
 
 ## Crossroads
 
-Roll a `dice:d20|noform|noparens|avg` (`d20`). If the roll is even, you age `dice:1d10|noform|noparens|avg` (`1d10`) years. If the roll is odd, you become younger by `dice:1d10|noform|noparens|avg` (`1d10`) years, to a minimum of 1 year. This effect can be undone only by the Wish spell, divine intervention, or similar magic.
+Roll a `d20`. If the roll is even, you age `1d10` years. If the roll is odd, you become younger by `1d10` years, to a minimum of 1 year. This effect can be undone only by the Wish spell, divine intervention, or similar magic.
 
 ## Door
 
-You gain the ability to cast the Gate spell `dice:1d4|noform|noparens|avg` (`1d4`) times, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
+You gain the ability to cast the Gate spell `1d4` times, requiring no material components. Use your Intelligence, Wisdom, or Charisma as the spellcasting ability (your choice).
 
 ## Dragon
 
@@ -172,7 +170,7 @@ A powerful Fiend appears in a nearby unoccupied space and offers you a deal. The
 
 ## Giant
 
-You immediately grow `dice:2d10|noform|noparens|avg` (`2d10`) inches in height, and your hit point maximum and current hit points both increase by 20.
+You immediately grow `2d10` inches in height, and your hit point maximum and current hit points both increase by 20.
 
 ## Humanoid
 
@@ -192,11 +190,11 @@ At any time you choose within 1 year of drawing this card, you can mentally name
 
 ## Maze
 
-You gain `dice:1d3|noform|noparens|avg` (`1d3`) levels of exhaustion.
+You gain `1d3` levels of exhaustion.
 
 ## Mine
 
-A pile of `dice:2d6|noform|noparens|avg` (`2d6`) gems (each worth 5,000 gp) and `dice:1d10|noform|noparens|avg` (`1d10`) chunks of precious ore (each worth 2,500 gp) appears at your feet.
+A pile of `2d6` gems (each worth 5,000 gp) and `1d10` chunks of precious ore (each worth 2,500 gp) appears at your feet.
 
 ## Monstrosity
 
@@ -204,7 +202,7 @@ A Large or larger Monstrosity with a challenge rating of 10 or less (chosen by t
 
 ## Ooze
 
-A [gelatinous cube](/3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) immediately appears in your space and engulfs you. The gelatinous cube is hostile and remains until it is destroyed. If there isn't enough space for the gelatinous cube to appear, this card has no effect.
+A gelatinous cube immediately appears in your space and engulfs you. The gelatinous cube is hostile and remains until it is destroyed. If there isn't enough space for the gelatinous cube to appear, this card has no effect.
 
 ## Path
 
@@ -272,7 +270,7 @@ Your skin immediately becomes rough, like tree bark. Your base AC now equals 15 
 
 ## Undead
 
-Somewhere on the Material Plane, a [revenant](/3-Mechanics/CLI/bestiary/undead/revenant.md) rises. This revenant blames you for its existence and relentlessly hunts you to exact its revenge. The revenant exists until either 1 year passes, the revenant kills you, or you use a Wish spell to banish it permanently to the afterlife.
+Somewhere on the Material Plane, a revenant rises. This revenant blames you for its existence and relentlessly hunts you to exact its revenge. The revenant exists until either 1 year passes, the revenant kills you, or you use a Wish spell to banish it permanently to the afterlife.
 
 ## Warrior
 

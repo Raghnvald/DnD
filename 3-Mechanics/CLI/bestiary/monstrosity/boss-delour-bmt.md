@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/9
-- new/monster/size/small
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boss Delour
+- "Boss Delour"
 ---
-# [Boss Delour](3-Mechanics\CLI\bestiary\monstrosity/boss-delour-bmt.md)
+# [Boss Delour](3-Mechanics/CLI/bestiary/monstrosity/boss-delour-bmt.md)
 *Source: The Book of Many Things p. 83*  
 
 Delour the wererat is a sly trickster and consummate thief who rules the Moonstalkers alongside his friend Augustus. Delour's honeyed words and calculating mind make him dangerous. He can smile and shake someone's hand while simultaneously plotting to ruin that person.
@@ -50,6 +50,9 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
     "desc": "+8"
   - "name": "Stealth"
     "desc": "+8"
+"gear":
+  - "hand crossbow"
+  - "shortsword"
 "senses": "darkvision 60 ft., passive Perception 20"
 "languages": "Common, Thieves' cant (can't speak in rat form)"
 "cr": "9"
@@ -71,13 +74,13 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
       \ attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 26\
-      \ (5d8 + 4) piercing damage. If the target is a Humanoid, it must succeed on\
-      \ a DC 14 Constitution saving throw or be cursed with lycanthropy. While cursed\
-      \ in this way, the target retains its alignment, languages, and equipment but\
-      \ otherwise uses the wererat stat block, excluding actions that require equipment\
-      \ the target doesn't have. During any night when there's a full moon in the\
-      \ sky, the target becomes an NPC under the DM's control and remains so until\
-      \ the night ends. A Remove Curse spell or similar magic ends this curse."
+      \ (5d8 + 4) piercing damage. If the target is a Humanoid, it must succeed\
+      \ on a DC 14 Constitution saving throw or be cursed with lycanthropy. While\
+      \ cursed in this way, the target retains its alignment, languages, and equipment\
+      \ but otherwise uses the wererat stat block, excluding actions that require\
+      \ equipment the target doesn't have. During any night when there's a full moon\
+      \ in the sky, the target becomes an NPC under the DM's control and remains so\
+      \ until the night ends. A Remove Curse spell or similar magic ends this curse."
     "name": "Bite (Rat or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage plus 10 (3d6) poison damage."
@@ -95,6 +98,6 @@ Indeed, Delour never forgets a slight. He is obsessed with getting revenge on th
     "name": "Cunning Action"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/boss-delour-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/boss-delour-bmt.webp"
 ```
 ^statblock

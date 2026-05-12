@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aspect of Bahamut
+- "Aspect of Bahamut"
 ---
-# [Aspect of Bahamut](3-Mechanics\CLI\bestiary\dragon/aspect-of-bahamut-ftd.md)
+# [Aspect of Bahamut](3-Mechanics/CLI/bestiary/dragon/aspect-of-bahamut-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 165*  
 
 Known as the Platinum Dragon, Bahamut is the patron and progenitor of metallic dragons. Since fleeing the First World, he has made his home in the Seven Heavens of Mount Celestia and is often numbered among the gods of that plane. Adventurers and dragons alike pray to Bahamut to uphold honor and justice, or when they need courage to face a great threat. In the most dire situations, a powerful follower of Bahamut who makes a tremendous sacrifice—a vast hoard or even the follower's own life—might convince the god to send aid to the world in the form of a divine aspect. This aspect is a physical manifestation of the Platinum Dragon, carrying his memories and will—and a significant portion of his formidable strength.
@@ -46,19 +46,16 @@ In combat, Bahamut's enemies experience the full force of his justice, while his
   - "wisdom": !!int "18"
   - "charisma": !!int "19"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+18"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+18"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+19"
 "damage_immunities": "acid; cold; fire; lightning; radiant; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 28"
+"condition_immunities": "charmed, deafened, frightened, paralyzed, stunned"
+"senses": "truesight 120 ft., passive Perception 28"
 "languages": "Common, Draconic"
 "cr": "30"
 "traits":
@@ -74,19 +71,17 @@ In combat, Bahamut's enemies experience the full force of his justice, while his
 "actions":
   - "desc": "The aspect makes one Bite attack, one Claw attack, and one Tail attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:* 23\
-      \ (2d12 + 10) piercing damage plus 22 (4d10) force damage."
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 20 ft., one target. *Hit:*\
+      \ 23 (2d12 + 10) piercing damage plus 22 (4d10) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) slashing damage. If the target is a Huge or smaller creature,\
-      \ it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 20) and\
-      \ is [restrained](/3-Mechanics/CLI/conditions.md#Restrained) until this grapple\
-      \ ends. The aspect can have only one creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ this way at a time."
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) slashing damage. If the target is a Huge or smaller creature,\
+      \ it is grappled (escape DC 20) and is restrained until this grapple ends. The\
+      \ aspect can have only one creature grappled this way at a time."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:* 23\
-      \ (2d12 + 10) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 27 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +19 to hit, reach 15 ft., one target. *Hit:*\
+      \ 23 (2d12 + 10) bludgeoning damage. If the target is a creature, it must\
+      \ succeed on a DC 27 Strength saving throw or be knocked prone."
     "name": "Tail"
   - "desc": "The aspect uses one of the following breath weapons:\n\n- **Exalting\
       \ Breath.** The aspect exhales the restoring winds of Mount Celestia in a 300-foot\
@@ -110,25 +105,25 @@ In combat, Bahamut's enemies experience the full force of his justice, while his
   - "desc": "The aspect makes one Claw or Tail attack."
     "name": "Attack"
   - "desc": "The aspect makes one Bite attack. If the attack hits a creature, the\
-      \ target must succeed on a DC 27 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ of the aspect until the end of the target's next turn."
+      \ target must succeed on a DC 27 Wisdom saving throw or become frightened of\
+      \ the aspect until the end of the target's next turn."
     "name": "Furious Bite (Costs 2 Actions)"
 "mythic_description": "If the aspect's Platinum Brilliance trait has activated in\
   \ the last hour, he can use the options below as legendary actions."
 "mythic_actions":
-  - "desc": "The aspect manifests seven spectral [ancient gold dragons](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon-xmm.md)\
-      \ around himself that protect him; he gains 77 temporary hit points until the\
-      \ start of his next turn."
+  - "desc": "The aspect manifests seven spectral ancient gold dragons around himself\
+      \ that protect him; he gains 77 temporary hit points until the start of his\
+      \ next turn."
     "name": "Celestial Shield (Costs 2 Actions)"
   - "desc": "The aspect conjures four enormous lances of magical force that plummet\
       \ to the ground at four different points he can see within 150 feet of him and\
       \ then disappear. Each creature in a 20-foot-radius, 100-foot-high cylinder\
       \ centered on each point must succeed on a DC 27 Dexterity saving throw or take\
-      \ 24 (7d6) force damage. A creature in the area of more than one lance is affected\
-      \ only once."
+      \ 24 (7d6) force damage. A creature in the area of more than one lance is\
+      \ affected only once."
     "name": "Celestial Lances (Costs 3 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/aspect-of-bahamut-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/aspect-of-bahamut-ftd.webp"
 ```
 ^statblock

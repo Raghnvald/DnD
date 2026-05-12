@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/none
-- new/item/wondrous/other
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/wondrous/other
+aliases:
 - "Dreamlily"
 ---
 # Dreamlily

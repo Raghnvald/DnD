@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/war
-aliases: 
-- Tethrin Veraldé
+aliases:
+- "Tethrin Veraldé"
 ---
 # Tethrin Veraldé
 *Source: Mordenkainen's Tome of Foes p. 43* 

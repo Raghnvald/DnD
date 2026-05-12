@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/rarity/none
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+aliases:
 - "Double-Bladed Scimitar"
 ---
 # Double-Bladed Scimitar
@@ -23,6 +23,6 @@ The double-bladed scimitar is the signature weapon of Valenar elves. A haft of f
 
 ## Special
 
-If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage on a hit, instead of `dice:2d4|noform|noparens|avg` (`2d4`).
+If you attack with a double-bladed scimitar as part of the Attack action on your turn, you can use a bonus action immediately after to make a melee attack with it. This attack deals `1d4` slashing damage on a hit, instead of `2d4`.
 
 *Source: Eberron: Rising from the Last War p. 21*

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Uthgardt Shaman
+- "Uthgardt Shaman"
 ---
-# [Uthgardt Shaman](3-Mechanics\CLI\bestiary\humanoid/uthgardt-shaman-skt.md)
+# [Uthgardt Shaman](3-Mechanics/CLI/bestiary/humanoid/uthgardt-shaman-skt.md)
 *Source: Storm King's Thunder p. 243*  
 
 The Uthgardt are suspicious and resentful of most kinds of magic. Seldom do they choose to become shamans. Instead, the role is thrust upon those who are born with a strong connection to the spirit world. To be a shaman is to stand with one foot in the land of the living and the other in the land of the dead. Those who walk the shadowed path between two lands do so because the spirits of the dead compel them. Other Uthgardt fear and respect a shaman's power.
@@ -27,27 +27,27 @@ By communing with their ancestors' spirits, Uthgardt shamans can also learn secr
 
 Depending on an Uthgardt shaman's tribe, the shaman's Innate Spellcasting feature gains additional spells the shaman can cast once per day.
 
-Black Lion: chill touch, feign death, revivify
+Black Lion: [chill touch](3-Mechanics/CLI/spells/chill-touch-xphb.md), [feign death](3-Mechanics/CLI/spells/feign-death-xphb.md), [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)
 
-Black Raven: animal messenger (raven only), polymorph (self only; into a raven only)
+Black Raven: [animal messenger](3-Mechanics/CLI/spells/animal-messenger-xphb.md) (raven only), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md) (self only; into a raven only)
 
-Blue Bear: enhance ability (bear's endurance only), heroism
+Blue Bear: [enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md) (bear's endurance only), [heroism](3-Mechanics/CLI/spells/heroism-xphb.md)
 
-Elk: find steed (cast as 1 action; elk only), haste
+Elk: [find steed](3-Mechanics/CLI/spells/find-steed-xphb.md) (cast as 1 action; elk only), [haste](3-Mechanics/CLI/spells/haste-xphb.md)
 
-Gray Wolf: beast sense (wolf or dire wolf only), moonbeam, speak with animals (wolf or dire wolf only)
+Gray Wolf: [beast sense](3-Mechanics/CLI/spells/beast-sense-xphb.md) (wolf or dire wolf only), [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals-xphb.md) (wolf or dire wolf only)
 
-Great Worm: crusader's mantle, hypnotic pattern
+Great Worm: [crusader's mantle](3-Mechanics/CLI/spells/crusaders-mantle-xphb.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md)
 
-Griffon: beast sense (birds only), fly
+Griffon: [beast sense](3-Mechanics/CLI/spells/beast-sense-xphb.md) (birds only), [fly](3-Mechanics/CLI/spells/fly-xphb.md)
 
-Sky Pony: gust of wind, witch bolt
+Sky Pony: [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md), [witch bolt](3-Mechanics/CLI/spells/witch-bolt-xphb.md)
 
-Red Tiger: enhance ability (cat's grace only), jump
+Red Tiger: [enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md) (cat's grace only), [jump](3-Mechanics/CLI/spells/jump-xphb.md)
 
-Thunderbeast: enhance ability (bull's strength only), pass without trace
+Thunderbeast: [enhance ability](3-Mechanics/CLI/spells/enhance-ability-xphb.md) (bull's strength only), [pass without trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md)
 
-Tree Ghost: barkskin, speak with plants
+Tree Ghost: [barkskin](3-Mechanics/CLI/spells/barkskin-xphb.md), [speak with plants](3-Mechanics/CLI/spells/speak-with-plants-xphb.md)
 
 ```statblock
 "name": "Uthgardt Shaman (SKT)"
@@ -56,7 +56,7 @@ Tree Ghost: barkskin, speak with plants
 "subtype": "human"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "38"
 "hit_dice": "7d8 + 7"
 "modifier": !!int "1"
@@ -69,14 +69,17 @@ Tree Ghost: barkskin, speak with plants
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Medicine"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+6"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Bothii, Common"
 "cr": "2"
@@ -90,12 +93,16 @@ Tree Ghost: barkskin, speak with plants
     "name": "Shortbow"
   - "desc": "The shaman casts one of the following spells, using Wisdom as the spellcasting\
       \ ability (spell save DC 12; +4 to hit with spell attacks):\n\n**At will:**\
-      \ dancing lights, mage hand, message, thaumaturgy\n\n**1/day each:** augury\
-      \ (cast as 1 action), bestow curse, cordon of arrows, detect magic, speak with\
-      \ dead, spirit guardians"
+      \ [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1/day each:** [augury](3-Mechanics/CLI/spells/augury-xphb.md) (cast as 1\
+      \ action), [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md), [cordon\
+      \ of arrows](3-Mechanics/CLI/spells/cordon-of-arrows-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [speak with dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [spirit\
+      \ guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)"
     "name": "Spellcasting (Requires a Sacred Bundle)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/uthgardt-shaman-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/uthgardt-shaman-skt.webp"
 ```
 ^statblock

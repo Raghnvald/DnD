@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Green Dragon; Green Dragon Personality Traits
+- "Creating a Green Dragon; Green Dragon Personality Traits"
 ---
 # Creating a Green Dragon; Green Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 126* 
 
 **Green Dragon Personality Traits**
-
-`dice: [](creating-a-green-dragon-green-dragon-personality-traits-ftd.md#^green-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

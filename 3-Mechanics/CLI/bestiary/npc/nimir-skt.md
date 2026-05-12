@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nimir
+- "Nimir"
 ---
-# [Nimir](3-Mechanics\CLI\bestiary\npc/nimir-skt.md)
+# [Nimir](3-Mechanics/CLI/bestiary/npc/nimir-skt.md)
 *Source: Storm King's Thunder p. 256*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Lawful Good"
 "ac": !!int "16"
-"ac_class": "scale mail"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail-xphb.md)"
 "hp": !!int "230"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -39,14 +39,16 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+14"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
@@ -64,8 +66,8 @@ aliases:
 "actions":
   - "desc": "Nimir makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30\
-      \ (6d6 + 9) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 30 (6d6 + 9) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:*\
       \ 35 (4d12 + 9) bludgeoning damage."
@@ -77,11 +79,13 @@ aliases:
     "name": "Lightning Strike (Recharge 5-6)"
   - "desc": "Nimir casts one of the following spells, requiring no material spell\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** detect magic, levitate, light\n\n**1/day each:** control weather\
-      \ (cast as 1 action), water breathing"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md), [light](3-Mechanics/CLI/spells/light-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md)\
+      \ (cast as 1 action), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nimir-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nimir-skt.webp"
 ```
 ^statblock

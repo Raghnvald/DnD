@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grung Wildling (Red)
+- "Grung Wildling (Red)"
 ---
-# [Grung Wildling (Red)](3-Mechanics\CLI\bestiary\humanoid/grung-wildling-red-mpmm.md)
+# [Grung Wildling (Red)](3-Mechanics/CLI/bestiary/humanoid/grung-wildling-red-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 
 ```statblock
@@ -37,48 +37,52 @@ aliases:
 "saves":
   - "dexterity": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+2"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Grung"
 "cr": "1"
 "traits":
   - "desc": "The grung can breathe air and water."
     "name": "Amphibious"
-  - "desc": "A creature [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) by a grung\
-      \ suffers an additional effect that depends on the grung's color. This effect\
-      \ lasts until the creature is no longer [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ by the grung. The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) creature\
-      \ must use its action to eat if food is within reach."
+  - "desc": "A creature [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) by\
+      \ a grung suffers an additional effect that depends on the grung's color. This\
+      \ effect lasts until the creature is no longer [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ by the grung. The [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ creature must use its action to eat if food is within reach."
     "name": "Poisonous Skin"
   - "desc": "The grung's long jump is up to 25 feet and its high jump is up to 15\
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "If the grung isn't immersed in water for at least 1 hour during a day,\
-      \ it suffers 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
-      \ at the end of that day. The grung can recover from this [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)\
+      \ it suffers 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
+      \ at the end of that day. The grung can recover from this [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
       \ only through magic or by immersing itself in water for at least 1 hour."
     "name": "Water Dependency"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 5 (2d4) poison damage."
+      \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage plus 5 (2d4) poison\
+      \ damage."
     "name": "Dagger"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage plus 5 (2d4) poison damage."
     "name": "Shortbow"
   - "desc": "The grung casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
-      \n**3/day each:** [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [spike growth](/3-Mechanics/CLI/spells/spike-growth-xphb.md)\n\n**2/day:**\
-      \ [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft-xphb.md)\n\
+      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [spike growth](3-Mechanics/CLI/spells/spike-growth-xphb.md)\n\n**2/day:**\
+      \ [plant growth](3-Mechanics/CLI/spells/plant-growth-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"

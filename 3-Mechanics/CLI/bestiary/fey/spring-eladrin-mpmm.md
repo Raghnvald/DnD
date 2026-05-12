@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spring Eladrin
+- "Spring Eladrin"
 ---
-# [Spring Eladrin](3-Mechanics\CLI\bestiary\fey/spring-eladrin-mpmm.md)
+# [Spring Eladrin](3-Mechanics/CLI/bestiary/fey/spring-eladrin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116, Mordenkainen's Tome of Foes p. 196*  
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
@@ -35,7 +35,7 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ```statblock
 "name": "Spring Eladrin (MPMM)"
@@ -57,23 +57,26 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - !!int "18"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+8"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Elvish, Sylvan"
 "cr": "10"
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the eladrin for 1 minute.\
-      \ On a successful save, the creature becomes immune to any eladrin's Joyful\
-      \ Presence for 24 hours.\n\nWhenever the eladrin deals damage to the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ creature, the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) creature can\
-      \ repeat the saving throw, ending the effect on itself on a success."
+      \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the eladrin for\
+      \ 1 minute. On a successful save, the creature becomes immune to any eladrin's\
+      \ Joyful Presence for 24 hours.\n\nWhenever the eladrin deals damage to the\
+      \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature, the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ creature can repeat the saving throw, ending the effect on itself on a success."
     "name": "Joyful Presence"
   - "desc": "The eladrin has advantage on saving throws against spells and other magical\
       \ effects."
@@ -82,18 +85,17 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "desc": "The eladrin makes two Longsword or Longbow attacks. It can replace one\
       \ attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands,\
-      \ plus 22 (5d8) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands, plus 22 (5d8) psychic damage."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage plus 22 (5d8) psychic damage."
     "name": "Longbow"
   - "desc": "The eladrin casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Tasha's hideous laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)\n\
-      \n**1/day each:** [major image](/3-Mechanics/CLI/spells/major-image-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)"
+      \n**At will:** [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter.md)\n\
+      \n**1/day each:** [major image](3-Mechanics/CLI/spells/major-image.md), [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The eladrin teleports, along with any equipment it is wearing or carrying,\
@@ -102,7 +104,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/spring-eladrin-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/spring-eladrin-mpmm.webp"
 ```
 ^statblock
 

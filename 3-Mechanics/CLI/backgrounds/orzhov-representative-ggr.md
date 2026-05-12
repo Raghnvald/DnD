@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Orzhov Representative
+- "Orzhov Representative"
 ---
 # Orzhov Representative
 *Source: Guildmasters' Guide to Ravnica p. 72*  
 
 
-- **Skill Proficiencies.** [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Skill Proficiencies.** Intimidation, Religion  
 - **Languages.** Two of your choice  
-- **Equipment.** An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 1 pp (an Orzhov-minted 10-zino coin)  
+- **Equipment.** An Orzhov insignia, a foot-long chain made of ten gold coins, vestments, a set of fine clothes, and a belt pouch containing 1 pp (an Orzhov-minted 10-zino coin)  
 
 The prospect of immense wealth is the promise of membership in the Orzhov Syndicate. All of the guild's endeavors channel wealth from Ravnican society into the ranks of the Orzhov—and concentrates the spoils at the top of the hierarchy. As a functionary in that system, your best hope is to claim as much as possible of the money that passes through your hands on its way up, so that you can work your way into a more prominent position.
 
@@ -34,12 +34,12 @@ For you, the spells on the Orzhov Guild Spells table are added to the spell list
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [friends](/3-Mechanics/CLI/spells/friends-xphb.md), [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md) |
-| 1st | [command](/3-Mechanics/CLI/spells/command-xphb.md), [illusory script](/3-Mechanics/CLI/spells/illusory-script-xphb.md) |
-| 2nd | [enthrall](/3-Mechanics/CLI/spells/enthrall-xphb.md), [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md), [zone of truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md) |
-| 3rd | [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md), [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [spirit guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md) |
-| 4th | [blight](/3-Mechanics/CLI/spells/blight-xphb.md), [death ward](/3-Mechanics/CLI/spells/death-ward-xphb.md), [Leomund's secret chest](/3-Mechanics/CLI/spells/leomunds-secret-chest-xphb.md) |
-| 5th | [geas](/3-Mechanics/CLI/spells/geas-xphb.md) |
+| Cantrip | friends, guidance |
+| 1st | command, illusory script |
+| 2nd | enthrall, ray of enfeeblement, zone of truth |
+| 3rd | bestow curse, speak with dead, spirit guardians |
+| 4th | blight, death ward, Leomund's secret chest |
+| 5th | geas |
 ^orzhov-guild-spells
 
 Your magic tends to manifest as swirling shadows, brilliant light, or sometimes the momentary appearance of shadowy spirit forms. Your spells might draw the blood of your enemies, or even directly touch their souls.
@@ -49,8 +49,6 @@ Your magic tends to manifest as swirling shadows, brilliant light, or sometimes 
 Members of the Orzhov Syndicate range from the decadent nobility at the top of the oligarchy to the debt-ridden wretches at the bottom. You fall somewhere between those extremes, so you might behave with the arrogance of the very rich or the humility of the impoverished.
 
 **Personality Traits**
-
-`dice: [](orzhov-representative-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -66,8 +64,6 @@ Members of the Orzhov Syndicate range from the decadent nobility at the top of t
 
 **Ideals**
 
-`dice: [](orzhov-representative-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -80,8 +76,6 @@ Members of the Orzhov Syndicate range from the decadent nobility at the top of t
 
 **Bonds**
 
-`dice: [](orzhov-representative-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | The unbearable weight of my debt has driven me to desperation. |
@@ -93,8 +87,6 @@ Members of the Orzhov Syndicate range from the decadent nobility at the top of t
 ^bonds
 
 **Flaws**
-
-`dice: [](orzhov-representative-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -114,8 +106,6 @@ Roll twice on the Orzhov Contacts table (for an ally and a rival) and once on th
 
 **Orzhov Contacts**
 
-`dice: [](orzhov-representative-ggr.md#^orzhov-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | The spirit of an ancestor has taken an interest in me. |
@@ -129,8 +119,6 @@ Roll twice on the Orzhov Contacts table (for an ally and a rival) and once on th
 ^orzhov-contacts
 
 **Non-Orzhov Contacts**
-
-`dice: [](orzhov-representative-ggr.md#^non-orzhov-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

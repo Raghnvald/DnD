@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Guild Types
+- "Guild Types"
 ---
 # Guild Types
 *Source: Tasha's Cauldron of Everything p. 93* 
 
 **Guild Types**
-
-`dice: [](guild-types-tce.md#^guild-types)`
 
 | dice: d6 | Guild |
 |----------|-------|

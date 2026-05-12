@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Guild Villains
+- "Guild Villains"
 ---
 # Guild Villains
 *Source: Guildmasters' Guide to Ravnica p. 123* 
 
 **Guild Villains**
-
-`dice: [](guild-villains-ggr.md#^guild-villains)`
 
 | dice: d6 | Villainous Activity |
 |----------|---------------------|

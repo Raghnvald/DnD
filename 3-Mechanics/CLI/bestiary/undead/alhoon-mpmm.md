@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Alhoon
+- "Alhoon"
 ---
-# [Alhoon](3-Mechanics\CLI\bestiary\undead/alhoon-mpmm.md)
+# [Alhoon](3-Mechanics/CLI/bestiary/undead/alhoon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172*  
 
 > [!quote] A quote from Mordenkainen  
@@ -68,25 +68,25 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 17"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "10"
 "traits":
@@ -99,29 +99,29 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "actions":
   - "desc": "The alhoon makes two Chilling Grasp or Arcane Bolt attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (4d6)\
-      \ cold damage, and the alhoon regains 14 hit points."
+  - "desc": "*Melee Spell Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14\
+      \ (4d6) cold damage, and the alhoon regains 14 hit points."
     "name": "Chilling Grasp"
-  - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one target. *Hit:* 28\
-      \ (8d6) force damage."
+  - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one target. *Hit:*\
+      \ 28 (8d6) force damage."
     "name": "Arcane Bolt"
   - "desc": "The alhoon magically emits psychic energy in a 60-foot cone. Each creature\
       \ in that area must succeed on a DC 16 Intelligence saving throw or take 22\
-      \ (4d8 + 4) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ (4d8 + 4) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ for 1 minute. A target can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
   - "desc": "The alhoon casts one of the following spells, requiring no material components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [disguise self](/3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [dominate monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
-      \ [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md),\
-      \ [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall\
-      \ of force](/3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
+      \ each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall\
+      \ of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "The alhoon targets one creature it can see within 60 feet of it that\
@@ -131,7 +131,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp"
 ```
 ^statblock
 

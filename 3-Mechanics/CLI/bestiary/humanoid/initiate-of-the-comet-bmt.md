@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/humanoid/warlock
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/warlock
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Initiate of the Comet
+- "Initiate of the Comet"
 ---
-# [Initiate of the Comet](3-Mechanics\CLI\bestiary\humanoid/initiate-of-the-comet-bmt.md)
+# [Initiate of the Comet](3-Mechanics/CLI/bestiary/humanoid/initiate-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 93*  
 
 Once initiated into the Heralds of the Comet, members learn magical divination practices that give them glimpses into the future.
@@ -64,6 +64,6 @@ Once initiated into the Heralds of the Comet, members learn magical divination p
     "name": "Moment of Foresight (1/Day)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/initiate-of-the-comet-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/initiate-of-the-comet-bmt.webp"
 ```
 ^statblock

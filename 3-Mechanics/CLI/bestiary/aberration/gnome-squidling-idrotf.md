@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gnome Squidling
+- "Gnome Squidling"
 ---
-# [Gnome Squidling](3-Mechanics\CLI\bestiary\aberration/gnome-squidling-idrotf.md)
+# [Gnome Squidling](3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 303*  
 
 Mind flayers, which are described in the Monster Manual, are created through ceremorphosis, a process that begins with the implantation of an illithid tadpole in the brain of a humanoid host. After about seven days in its new home, the tadpole transforms its host into a mind flayer. The new creation typically retains no memory of its previous existence.
@@ -38,33 +38,37 @@ Squidlings eat brains for sustenance, just like other mind flayers do, and they 
   - !!int "10"
   - !!int "3"
 "speed": "15 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands Deep Speech and Gnomish but can't speak, telepathy 60 ft."
 "cr": "1/2"
 "traits":
   - "desc": "The squidling's innate spellcasting ability is Intelligence (spell save\
-      \ DC 7). It can innately cast levitate at will, requiring no components.\n"
+      \ DC 7). It can innately cast [levitate](3-Mechanics/CLI/spells/levitate.md)\
+      \ at will, requiring no components.\n"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The squidling has advantage on saving throws against spells and other\
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (2d4) psychic damage. If the target is Medium or smaller, it is grappled (escape\
-      \ DC 7) and must succeed on a DC 7 Intelligence saving throw or be stunned until\
-      \ this grapple ends."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (2d4) psychic damage. If the target is Medium or smaller, it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 7) and must succeed on a DC 7 Intelligence saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ until this grapple ends."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one incapacitated creature\
-      \ grappled by the squidling. *Hit:* 27 (5d10) piercing damage. If this damage\
-      \ reduces the target to 0 hit points, the squidling kills the target by extracting\
-      \ and devouring its brain."
+  - "desc": "*Melee Weapon Attack:* +0 to hit, reach 5 ft., one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by the squidling.\
+      \ *Hit:* 27 (5d10) piercing damage. If this damage reduces the target to 0\
+      \ hit points, the squidling kills the target by extracting and devouring its\
+      \ brain."
     "name": "Extract Brain"
   - "desc": "The squidling magically emits psychic energy in a 30-foot cone. Each\
       \ creature in that area must succeed on a DC 7 Intelligence saving throw or\
-      \ take 2 (1d4) psychic damage and be stunned until the end of its next turn."
+      \ take 2 (1d4) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ until the end of its next turn."
     "name": "Mind Tickle (Recharge 5-6)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/gnome-squidling-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/gnome-squidling-idrotf.webp"
 ```
 ^statblock

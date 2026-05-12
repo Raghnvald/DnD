@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Abomination
+- "Yuan-ti Abomination"
 ---
-# [Yuan-ti Abomination](3-Mechanics\CLI\bestiary\monstrosity/yuan-ti-abomination.md)
+# [Yuan-ti Abomination](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md)
 *Source: Monster Manual p. 308*  
 
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
@@ -83,22 +83,25 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Abyssal, Common, Draconic"
 "cr": "7"
 "traits":
   - "desc": "The yuan-ti's innate spellcasting ability is Charisma (spell save DC\
       \ 15). The yuan-ti can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** [animal friendship](/3-Mechanics/CLI/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day:** [suggestion](/3-Mechanics/CLI/spells/suggestion.md)\n\
-      \n**1/day:** [fear](/3-Mechanics/CLI/spells/fear.md)"
+      \ components:\n\n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md)\
+      \ (snakes only)\n\n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\
+      \n**1/day:** [fear](3-Mechanics/CLI/spells/fear.md)"
     "name": "Innate Spellcasting (Abomination Form Only)"
   - "desc": "The yuan-ti can use its action to polymorph into a Large snake, or back\
       \ into its true form. Its statistics are the same in each form. Any equipment\
@@ -112,12 +115,12 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   - "desc": "The yuan-ti makes two ranged attacks or three melee attacks, but can\
       \ use its bite and constrict attacks only once each."
     "name": "Multiattack (Abomination Form Only)"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
       \ and the yuan-ti can't constrict another target."
     "name": "Constrict"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
@@ -128,7 +131,7 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
     "name": "Longbow (Abomination Form Only)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination.webp"
 ```
 ^statblock
 

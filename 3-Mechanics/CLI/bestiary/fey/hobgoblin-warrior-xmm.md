@@ -18,9 +18,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hobgoblin Warrior
+- "Hobgoblin Warrior"
 ---
-# [Hobgoblin Warrior](3-Mechanics\CLI\bestiary\fey/hobgoblin-warrior-xmm.md)
+# [Hobgoblin Warrior](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md)
 *Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
@@ -30,7 +30,7 @@ Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, go
 *Conquerors of Every Horizon*
 
 - **Habitat.** Desert, Forest, Grassland, Hill, Mountain, Planar (Acheron), Underdark  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Hobgoblins embody the primal urge to grow and spread, expressing such drives by bending the world to their whims. Lone hobgoblins claim woodland territories and plunder the wilds. In groups, they form hierarchical, martial societies bent on conquering lands and stripping them of resources to serve their expansionist zeal.
 
@@ -43,8 +43,6 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 The drive to subjugate and pillage is part of hobgoblins' supernatural nature, though a few might repress their warlike tendencies or turn them to more useful ends. Roll on or choose a result from the Hobgoblin Strategies table to inspire how a hobgoblin carries out its conquest.
 
 **Hobgoblin Strategies**
-
-`dice: [](hobgoblin-warrior-xmm.md#^hobgoblin-strategies)`
 
 | dice: 1d6 | The Hobgoblin Works To... |
 |-----------|---------------------------|
@@ -74,25 +72,31 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"gear":
+  - "[half plate armor](3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shield](3-Mechanics/CLI/items/shield-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Goblin"
 "cr": "1/2"
 "traits":
-  - "desc": "The hobgoblin has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The hobgoblin has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on an attack roll against a creature if at least one of the hobgoblin's allies\
-      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ is within 5 feet of the creature and the ally doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 12 (2d10 + 1) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 12 (2d10 + 1) Slashing\
+      \ damage."
     "name": "Longsword"
   - "desc": "*Ranged Attack Roll:* +3, range 150/600 ft. *Hit:* 5 (1d8 + 1) Piercing\
       \ damage plus 7 (3d4) Poison damage."
     "name": "Longbow"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/hobgoblin-warrior-xmm.webp"
 ```
 ^statblock
 

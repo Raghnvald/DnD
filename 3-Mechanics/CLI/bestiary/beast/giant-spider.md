@@ -15,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Spider
+- "Giant Spider"
 ---
-# [Giant Spider](3-Mechanics\CLI\bestiary\beast/giant-spider.md)
-*Source: Monster Manual p. 328, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Spider](3-Mechanics/CLI/bestiary/beast/giant-spider.md)
+*Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 To snare its prey, a giant spider spins elaborate webs or shoots sticky strands of webbing from its abdomen. Giant spiders are most commonly found underground, making their lairs on ceilings or in dark, web-filled crevices. Such lairs are often festooned with web cocoons holding past victims.
 
@@ -41,9 +41,10 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
   - !!int "4"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -56,23 +57,24 @@ To snare its prey, a giant spider spins elaborate webs or shoots sticky strands 
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 9 (2d8) poison damage on a failed save, or half as much damage\
-      \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but poisoned for 1 hour, even after regaining hit points,\
-      \ and is paralyzed while poisoned in this way."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 9 (2d8) poison damage on a failed save, or half as\
+      \ much damage on a successful one. If the poison damage reduces the target to\
+      \ 0 hit points, the target is stable but [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour, even after regaining hit points, and is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:*\
-      \ The target is restrained by webbing. As an action, the restrained target can\
-      \ make a DC 12 Strength check, bursting the webbing on a success. The webbing\
-      \ can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage;\
-      \ immunity to bludgeoning, poison, and psychic damage)."
+      \ The target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by webbing. As an action, the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ target can make a DC 12 Strength check, bursting the webbing on a success.\
+      \ The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability\
+      \ to fire damage; immunity to bludgeoning, poison, and psychic damage)."
     "name": "Web (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-spider.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-spider.webp"
 ```
 ^statblock
 

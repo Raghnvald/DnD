@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draconian Foot Soldier
+- "Draconian Foot Soldier"
 ---
-# [Draconian Foot Soldier](3-Mechanics\CLI\bestiary\monstrosity/draconian-foot-soldier-ftd.md)
+# [Draconian Foot Soldier](3-Mechanics/CLI/bestiary/monstrosity/draconian-foot-soldier-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 178*  
 
 The most numerous draconians are the foot soldiers, who are born from brass, white, or crystal dragon eggs. They are the smallest of their kind, and their slight wings are incapable of flight—though they do afford the draconians some control when falling. These wings are small enough to be hidden beneath a cloak or robe, so foot soldiers sometimes disguise themselves to get close to enemies before springing an ambush. When draconian foot soldiers die, they unleash clouds of petrifying gas, turning their corpses—and any creatures within the clouds—to stone.
@@ -43,30 +43,31 @@ When draconians die, they do not go quietly. Instead, their lifeless bodies unle
   - !!int "8"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"gear":
+  - "shortsword"
+"senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Draconic"
 "cr": "1/2"
 "traits":
-  - "desc": "When the draconian falls and isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ it subtracts up to 100 feet from the fall when calculating the fall's damage."
+  - "desc": "When the draconian falls and isn't incapacitated, it subtracts up to\
+      \ 100 feet from the fall when calculating the fall's damage."
     "name": "Controlled Fall"
   - "desc": "When the draconian is reduced to 0 hit points, its body turns to stone\
       \ and releases a petrifying gas. Each creature within 5 feet of the draconian\
-      \ must succeed on a DC 11 Constitution saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ as it begins to turn to stone. The [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ creature must repeat the saving throw at the end of its next turn. On a success,\
-      \ the effect ends; otherwise the creature is [petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
-      \ for 1 minute. After 1 minute, the body of the draconian crumbles to dust."
+      \ must succeed on a DC 11 Constitution saving throw or be restrained as it begins\
+      \ to turn to stone. The restrained creature must repeat the saving throw at\
+      \ the end of its next turn. On a success, the effect ends; otherwise the creature\
+      \ is petrified for 1 minute. After 1 minute, the body of the draconian crumbles\
+      \ to dust."
     "name": "Death Throes"
 "actions":
   - "desc": "The draconian makes two Shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) piercing damage."
     "name": "Shortsword"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/draconian-foot-soldier-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/draconian-foot-soldier-ftd.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- High Fae Noble
+- "High Fae Noble"
 ---
-# [High Fae Noble](3-Mechanics\CLI\bestiary\fey/high-fae-noble-mcv4ec.md)
+# [High Fae Noble](3-Mechanics/CLI/bestiary/fey/high-fae-noble-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae nobles regard themselves as the natural and obvious superiors of all in Eldraine. Many have been given dominion over a small aspect of the natural world; there are dukes and duchesses for each of the seasons, and noble archivists track every promise made and broken within the borders of Eldraine.
@@ -50,22 +50,25 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
   - "wisdom": !!int "9"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+9"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+14"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "charmed, exhaustion, frightened"
-"senses": "darkvision 60 ft., passive Perception 19"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 19"
 "languages": "Common, Sylvan, telepathy 120 ft."
 "cr": "13"
 "traits":
   - "desc": "The high fae radiates dazzling and mollifying magic. Each creature of\
       \ the high fae's choice that starts its turn within 5 feet of the high fae must\
-      \ succeed on a DC 19 Wisdom saving throw or have the charmed condition until\
-      \ the start of its next turn. While charmed, the creature also has the incapacitated\
+      \ succeed on a DC 19 Wisdom saving throw or have the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ condition until the start of its next turn. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ the creature also has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition."
     "name": "Aura of Overwhelming Splendor"
   - "desc": "If the high fae fails a saving throw, it can choose to succeed instead."
@@ -77,22 +80,24 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
   - "desc": "The high fae makes two Fae Blade attacks. It can replace one of these\
       \ attacks with Stunning Soliloquy if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) force damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) force damage."
     "name": "Fae Blade"
   - "desc": "The high fae unleashes a string of magical words. Each creature of the\
       \ high fae's choice within 30 feet of itself must succeed on a DC 19 Wisdom\
-      \ saving throw or have the stunned condition for 1 minute. A stunned creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+      \ saving throw or have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ condition for 1 minute. A [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Stunning Soliloquy (Recharge 5-6)"
   - "desc": "The high fae casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 19):\n\
-      \n**At will:** detect magic, prestidigitation, suggestion\n\n**1/day each:**\
-      \ major image, zone of truth"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)\n\n**1/day each:** [major\
+      \ image](3-Mechanics/CLI/spells/major-image.md), [zone of truth](3-Mechanics/CLI/spells/zone-of-truth.md)"
     "name": "Spellcasting"
 "reactions":
-  - "desc": "Immediately after taking damage, the high fae magically has the invisible\
+  - "desc": "Immediately after taking damage, the high fae magically has the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ condition and teleports, along with any equipment it is wearing or carrying,\
       \ to an unoccupied space it can see within 30 feet of itself. The invisibility\
       \ lasts until the end of the high fae's next turn."
@@ -102,6 +107,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Ridicule"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/high-fae-noble-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-noble-mcv4ec.webp"
 ```
 ^statblock

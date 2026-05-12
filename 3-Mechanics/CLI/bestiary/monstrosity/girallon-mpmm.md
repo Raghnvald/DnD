@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Girallon
+- "Girallon"
 ---
-# [Girallon](3-Mechanics\CLI\bestiary\monstrosity/girallon-mpmm.md)
+# [Girallon](3-Mechanics/CLI/bestiary/monstrosity/girallon-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*  
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
@@ -48,22 +48,22 @@ Girallons that are well treated might be willing to serve as guards, though they
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "4"
 "actions":
   - "desc": "The girallon makes one Bite attack and four Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (1d6 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (1d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d6 + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) slashing damage."
     "name": "Claw"
 "bonus_actions":
   - "desc": "The girallon moves up to its speed toward a hostile creature that it\
@@ -72,7 +72,7 @@ Girallons that are well treated might be willing to serve as guards, though they
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp"
 ```
 ^statblock
 

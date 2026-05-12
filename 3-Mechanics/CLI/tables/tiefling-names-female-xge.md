@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Tiefling Names – Female
+- "Tiefling Names – Female"
 ---
 # Tiefling Names – Female
 *Source: Xanathar's Guide to Everything p. 180* 
 
 **Tiefling Names – Female**
-
-`dice: [](tiefling-names-female-xge.md#^tiefling-names-female)`
 
 | dice: d100 | Name |
 |------------|------|

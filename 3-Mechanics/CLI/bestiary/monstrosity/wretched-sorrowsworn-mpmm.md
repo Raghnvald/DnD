@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wretched Sorrowsworn
+- "Wretched Sorrowsworn"
 ---
-# [Wretched Sorrowsworn](3-Mechanics\CLI\bestiary\monstrosity/wretched-sorrowsworn-mpmm.md)
+# [Wretched Sorrowsworn](3-Mechanics/CLI/bestiary/monstrosity/wretched-sorrowsworn-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 224, Mordenkainen's Tome of Foes p. 233*  
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
@@ -43,30 +43,30 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "5"
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": ""
 "cr": "1/4"
 "traits":
   - "desc": "The sorrowsworn has advantage on an attack roll against a creature if\
       \ at least one of the sorrowsworn's allies is within 5 feet of the creature\
-      \ and the ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated).\
+      \ and the ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\
       \ The sorrowsworn otherwise has disadvantage on attack rolls."
     "name": "Wretched Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (1d10\
-      \ + 1) piercing damage, and the sorrowsworn attaches to the target. While attached,\
-      \ the sorrowsworn can't attack, and at the start of each of the sorrowsworn's\
-      \ turns, the target takes 6 (1d10 + 1) necrotic damage.\n\nThe attached sorrowsworn\
-      \ moves with the target whenever the target moves, requiring none of the sorrowsworn's\
-      \ movement. The sorrowsworn can detach itself by spending 5 feet of its movement\
-      \ on its turn. A creature, including the target, can use its action to detach\
-      \ the sorrowsworn."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d10 + 1) piercing damage, and the sorrowsworn attaches to the target.\
+      \ While attached, the sorrowsworn can't attack, and at the start of each of\
+      \ the sorrowsworn's turns, the target takes 6 (1d10 + 1) necrotic damage.\n\
+      \nThe attached sorrowsworn moves with the target whenever the target moves,\
+      \ requiring none of the sorrowsworn's movement. The sorrowsworn can detach itself\
+      \ by spending 5 feet of its movement on its turn. A creature, including the\
+      \ target, can use its action to detach the sorrowsworn."
     "name": "Bite"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp"
 ```
 ^statblock
 

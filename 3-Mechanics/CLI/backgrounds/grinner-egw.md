@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Grinner
+- "Grinner"
 ---
 # Grinner
 *Source: Explorer's Guide to Wildemount p. 200*  
-![](/3-Mechanics/CLI/backgrounds/img/grinner.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/grinner.webp#right)
 
-- **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Performance](/3-Mechanics/CLI/skills.md#Performance)  
-- **Tool Proficiencies.** One type of musical instrument, [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** A set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), a [disguise kit](/3-Mechanics/CLI/items/disguise-kit-xphb.md), a musical instrument of your choice, a gold-plated ring depicting a smiling face, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Skill Proficiencies.** Deception, Performance  
+- **Tool Proficiencies.** One type of musical instrument, thieves' tools  
+- **Equipment.** A set of fine clothes, a disguise kit, a musical instrument of your choice, a gold-plated ring depicting a smiling face, and a pouch containing 15 gp  
 
 The Golden Grin began in the far-off land of Tal'Dorei, trading secret messages through a network of bards and minstrels to undermine an iron-fisted king's authoritarian rule. Today, Tal'Dorei is a relatively peaceful republic, and some Grinners have grown restless while waiting for tyranny to raise its ugly head again. A contingent of such Grinners traveled to the Menagerie Coast and set up a network of secret bases in the cities of the Clovis Concord, from which they are presently working their way into the highest echelons of the Dwendalian Empire.
 
@@ -23,8 +23,6 @@ You are a Grinner. Your goals are to spread freedom and inspire hope—or, in ti
 ## Favorite Code-Song
 
 All members of the Golden Grin have learned a handful of folk songs in their travels, and use those songs to send secret codes and alert fellow Grinners to danger. Choose a favorite song or roll on the Favorite Code-Songs table.
-
-`dice: [](grinner-egw.md#^favorite-code-song)`
 
 | dice: d6 | Favorite Code-Song |
 |----------|--------------------|
@@ -46,8 +44,6 @@ This feature must be used with caution, for not all who know the ballad are your
 
 Grinners are trained in the art of secrecy and innuendo, and are skilled at hiding in plain sight by being the loudest and brightest person in the room. Their skills in subterfuge and combat lend themselves well to an adventuring lifestyle, and traveling with mercenaries and treasure hunters creates a convenient excuse to journey through lands bent under tyranny.
 
-`dice: [](grinner-egw.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I love the spotlight. Everyone, look at me! |
@@ -60,8 +56,6 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 8 | I'm lucky like you wouldn't believe. |
 ^personality-trait
 
-`dice: [](grinner-egw.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Revolution. Tyrants must fall, no matter the cost. (Chaotic) |
@@ -72,8 +66,6 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 6 | Vigilance. A free people must be carefully taught, lest they be misled. (Neutral) |
 ^ideal
 
-`dice: [](grinner-egw.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I lost someone important to an agent of the Dwendalian Empire. That regime will fall. |
@@ -83,8 +75,6 @@ Grinners are trained in the art of secrecy and innuendo, and are skilled at hidi
 | 5 | All life is precious to me. I know I can change the world without taking a humanoid life. |
 | 6 | The elite in their ivory towers don't understand how we suffer. I intend to show them. |
 ^bond
-
-`dice: [](grinner-egw.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

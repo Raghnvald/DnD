@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Amethyst Dragon Treasures; Amethyst Dragon Art Objects
+- "Amethyst Dragon Treasures; Amethyst Dragon Art Objects"
 ---
 # Amethyst Dragon Treasures; Amethyst Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 79* 
 
 **Amethyst Dragon Art Objects**
-
-`dice: [](amethyst-dragon-treasures-amethyst-dragon-art-objects-ftd.md#^amethyst-dragon-art-objects)`
 
 | dice: d8 | Object |
 |----------|--------|

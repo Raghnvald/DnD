@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Lower-Class Carousing Complications
+- "Lower-Class Carousing Complications"
 ---
 # Lower-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 
 
 **Lower-Class Carousing Complications**
-
-`dice: [](lower-class-carousing-complications-xge.md#^lower-class-carousing-complications)`
 
 | dice: d8 | Complication |
 |----------|--------------|

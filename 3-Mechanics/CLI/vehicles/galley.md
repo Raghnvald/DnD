@@ -8,10 +8,9 @@ tags:
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/ship
 aliases:
-- Galley
+- "Galley"
 ---
 # Galley
-%%-- Embedded content starts on the next line. --%%
 *Source: Ghosts of Saltmarsh p. 187*  
 
 Galleys are long vessels that rely on sails and sizable rowing crews to move. These ships can carry siege weapons and soldiers to war or transport large amounts of cargo for merchants. No matter the ship's purpose, the crew almost always hires extra protection, since galleys make large, cargo-rich targets for pirates.
@@ -27,11 +26,11 @@ A galley has the following features:
 
 A galley requires a crew of eighty to properly sail or row the vessel and might carry extra passengers or soldiers. If the characters are guests on a galley, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
 
-- One captain ([bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md))  
-- Five other officers: a first mate, a bosun, a quartermaster, a surgeon, and a cook ([scouts](/3-Mechanics/CLI/bestiary/humanoid/scout.md))  
-- Forty-two sailors ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md))  
-- Twelve siege engineers ([guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md))  
-- Twenty [guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md)  
+- One captain (bandit captain)  
+- Five other officers: a first mate, a bosun, a quartermaster, a surgeon, and a cook (scouts)  
+- Forty-two sailors (commoners)  
+- Twelve siege engineers (guards)  
+- Twenty guards  
 
 ## Main Deck
 
@@ -57,7 +56,7 @@ The cramped lower deck of the galley ship reeks of body odor and has the followi
 
 ```ad-statblock
 title: Galley
-![](/3-Mechanics/CLI/vehicles/token/galley.webp#token)
+![](3-Mechanics/CLI/vehicles/token/galley.webp#token)
 *Gargantuan vehicle (130 ft. by 20 ft.); sea*
 
 - **Creature Capacity** 80 crew, 40 passengers
@@ -109,14 +108,14 @@ Move up to the speed of one of its movement components, with one 90-degree turn.
 - **Armor Class** 15
 - **Hit Points** 50
 
-*Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `+6` to hit, range 120/480 ft., one target. *Hit:* 16 (`3d10`) piercing damage.
 
 ## Weapon: Mangonels (2)
 
 - **Armor Class** 15
 - **Hit Points** 100
 
-*Ranged Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. *Hit:* `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) bludgeoning damage.
+*Ranged Weapon Attack:* `+5` to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. *Hit:* 27 (`5d10`) bludgeoning damage.
 
 ## Weapon: Naval Ram
 

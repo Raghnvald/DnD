@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Meloon Wardragon
+- "Meloon Wardragon"
 ---
-# [Meloon Wardragon](3-Mechanics\CLI\bestiary\npc/meloon-wardragon-wdh.md)
+# [Meloon Wardragon](3-Mechanics/CLI/bestiary/npc/meloon-wardragon-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 210*  
 
 *Famous human adventurer*
@@ -42,7 +42,7 @@ If Meloon is killed and raised from the dead, his true self is restored and his 
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "143"
 "hit_dice": "22d8 + 44"
 "modifier": !!int "2"
@@ -58,16 +58,19 @@ If Meloon is killed and raised from the dead, his true self is restored and his 
   - "strength": !!int "9"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+6"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[azuredge](3-Mechanics/CLI/items/azuredge-wdh.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Deep Speech, telepathy 60 ft."
 "cr": "9"
 "traits":
-  - "desc": "Meloon wields [Azuredge](/3-Mechanics/CLI/items/azuredge-wdh.md) but\
-      \ can't attune to it, and thus gains none of its benefits."
+  - "desc": "Meloon wields [Azuredge](3-Mechanics/CLI/items/azuredge-wdh.md) but can't\
+      \ attune to it, and thus gains none of its benefits."
     "name": "Special Equipment"
   - "desc": "Meloon can reroll a saving throw that he fails. He must use the new roll."
     "name": "Indomitable (2/Day)"
@@ -76,11 +79,11 @@ If Meloon is killed and raised from the dead, his true self is restored and his 
 "actions":
   - "desc": "Meloon makes four attacks with Azuredge."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +9 to hit, reach 5 ft., one target. *Hit:* 11 (1d12\
-      \ + 5) slashing damage."
+  - "desc": "*Melee Attack Roll:* +9 to hit, reach 5 ft., one target. *Hit:* 11\
+      \ (1d12 + 5) slashing damage."
     "name": "Azuredge"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/meloon-wardragon-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/meloon-wardragon-wdh.webp"
 ```
 ^statblock

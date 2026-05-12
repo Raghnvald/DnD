@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/treasure-coinage
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Copper (cp)"
 ---
 # Copper (cp)
 *Treasure (coinage)*  
-![](/3-Mechanics/CLI/items/img/copper-cp.webp#right)
+![](3-Mechanics/CLI/items/img/copper-cp.webp#right)
 
 - **Cost**: 1 cp
 - **Weight**: 0.02 lbs.

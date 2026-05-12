@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Moonstone Dragon Treasures; Moonstone Dragon Art Objects
+- "Moonstone Dragon Treasures; Moonstone Dragon Art Objects"
 ---
 # Moonstone Dragon Treasures; Moonstone Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 132* 
 
 **Moonstone Dragon Art Objects**
-
-`dice: [](moonstone-dragon-treasures-moonstone-dragon-art-objects-ftd.md#^moonstone-dragon-art-objects)`
 
 | dice: d8 | Object |
 |----------|--------|

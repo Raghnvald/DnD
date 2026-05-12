@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sergeant
+- "Sergeant"
 ---
-# [Sergeant](3-Mechanics\CLI\bestiary\humanoid/sergeant-erlw.md)
+# [Sergeant](3-Mechanics/CLI/bestiary/humanoid/sergeant-erlw.md)
 *Source: Eberron: Rising from the Last War p. 197*  
 
 ```statblock
@@ -37,6 +37,8 @@ aliases:
 "skillsaves":
   - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "spear"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
@@ -47,6 +49,6 @@ aliases:
     "name": "Spear"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sergeant-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sergeant-erlw.webp"
 ```
 ^statblock

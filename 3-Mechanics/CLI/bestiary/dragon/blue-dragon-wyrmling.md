@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blue Dragon Wyrmling
+- "Blue Dragon Wyrmling"
 ---
-# [Blue Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/blue-dragon-wyrmling.md)
+# [Blue Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/blue-dragon-wyrmling.md)
 *Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -123,18 +123,18 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "2"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+2"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 14"
 "languages": "Draconic"
 "cr": "3"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) piercing damage plus 3 (1d6) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) piercing damage plus 3 (1d6) lightning damage."
     "name": "Bite"
   - "desc": "The dragon exhales lightning in a 30-foot line that is 5 feet wide. Each\
       \ creature in that line must make a DC 12 Dexterity saving throw, taking 22\
@@ -143,6 +143,6 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Lightning Breath (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/blue-dragon-wyrmling.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/blue-dragon-wyrmling.webp"
 ```
 ^statblock

@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hell Hound
+- "Hell Hound"
 ---
-# [Hell Hound](3-Mechanics\CLI\bestiary\fiend/hell-hound.md)
-*Source: Monster Manual p. 182, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Hell Hound](3-Mechanics/CLI/bestiary/fiend/hell-hound.md)
+*Source: Monster Manual p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
 
@@ -48,32 +48,32 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_immunities": "fire"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "understands Infernal but can't speak it"
 "cr": "3"
 "traits":
-  - "desc": "The hound has advantage on Wisdom (Perception) checks that rely on hearing\
-      \ or smell."
+  - "desc": "The hound has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The hound has advantage on an attack roll against a creature if at least\
       \ one of the hound's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage plus 7 (2d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage plus 7 (2d6) fire damage."
     "name": "Bite"
   - "desc": "The hound exhales fire in a 15-foot cone. Each creature in that area\
-      \ must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a\
-      \ failed save, or half as much damage on a successful one."
+      \ must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on\
+      \ a failed save, or half as much damage on a successful one."
     "name": "Fire Breath (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/hell-hound.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/hell-hound.webp"
 ```
 ^statblock
 

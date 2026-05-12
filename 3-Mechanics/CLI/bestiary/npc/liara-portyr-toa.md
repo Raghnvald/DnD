@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Liara Portyr
+- "Liara Portyr"
 ---
-# [Liara Portyr](3-Mechanics\CLI\bestiary\npc/liara-portyr-toa.md)
-*Source: Tomb of Annihilation p. 227, Baldur's Gate: Descent Into Avernus*  
+# [Liara Portyr](3-Mechanics/CLI/bestiary/npc/liara-portyr-toa.md)
+*Source: Tomb of Annihilation p. 227*  
 
 As the commander of Fort Beluarian, Liara spends most of her time worrying about the security of her stronghold while cutting deals with pirates. In general, she has no problem with adventurers and will do her utmost to help them deal with the myriad threats lurking in the jungle.
 
@@ -40,8 +40,8 @@ Liara comes from an influential family in Baldur's Gate and has held her post fo
 "subtype": "human"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
-  \ [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "1"
@@ -57,36 +57,39 @@ Liara comes from an influential family in Baldur's Gate and has held her post fo
   - "constitution": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Draconic, Dwarvish"
 "cr": "4"
 "traits":
-  - "desc": "Liara has advantage on saving throws against being [frightened](/3-Mechanics/CLI/conditions.md#Frightened)."
+  - "desc": "Liara has advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Brave"
   - "desc": "Once per turn, when Liara hits a creature with a melee weapon, she can\
-      \ cause fire to magically erupt from her weapon and deal an extra 10 (3d6) fire\
-      \ damage to the target."
+      \ cause fire to magically erupt from her weapon and deal an extra 10 (3d6)\
+      \ fire damage to the target."
     "name": "Flaming Fury"
 "actions":
   - "desc": "Liara makes three melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage when used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage when used with\
+      \ two hands."
     "name": "Battleaxe"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:*\
       \ 6 (1d10 + 1) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "ToA"
-  - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/liara-portyr-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/liara-portyr-toa.webp"
 ```
 ^statblock

@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Gruul Anarch
+- "Gruul Anarch"
 ---
 # Gruul Anarch
 *Source: Guildmasters' Guide to Ravnica p. 60*  
 
 
-- **Skill Proficiencies.** [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics)  
-- **Tool Proficiencies.** [Herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md)  
+- **Skill Proficiencies.** Animal Handling, Athletics  
+- **Tool Proficiencies.** Herbalism kit  
 - **Languages.** Choose one of Draconic, Giant, Goblin, or Sylvan  
-- **Equipment.** A Gruul insignia, a [hunting trap](/3-Mechanics/CLI/items/hunting-trap-xphb.md), an [herbalism kit](/3-Mechanics/CLI/items/herbalism-kit-xphb.md), the skull of a boar, a beast-hide cloak, a set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp (Azorius 1-zino coins)  
+- **Equipment.** A Gruul insignia, a hunting trap, an herbalism kit, the skull of a boar, a beast-hide cloak, a set of traveler's clothes, and a belt pouch containing 10 gp (Azorius 1-zino coins)  
 
 The entire world of Ravnica is a sprawling metropolis, but you are a native of the wild areas that still exist—the abandoned districts, the rubblebelts, the overgrown parks, and the crumbling ruins. You are part of a savage society that clings desperately to the Old Ways—attuned to nature, full of primal rage, and given short shrift by a world consumed with continuing civilization's march of progress.
 
@@ -33,12 +33,12 @@ For you, the spells on the Gruul Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md), [produce flame](/3-Mechanics/CLI/spells/produce-flame-xphb.md) |
-| 1st | [compelled duel](/3-Mechanics/CLI/spells/compelled-duel-xphb.md), [speak with animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md), [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md) |
-| 2nd | [beast sense](/3-Mechanics/CLI/spells/beast-sense-xphb.md), [shatter](/3-Mechanics/CLI/spells/shatter-xphb.md) |
-| 3rd | [conjure animals](/3-Mechanics/CLI/spells/conjure-animals-xphb.md), [conjure barrage](/3-Mechanics/CLI/spells/conjure-barrage-xphb.md) |
-| 4th | [dominate beast](/3-Mechanics/CLI/spells/dominate-beast-xphb.md), [stoneskin](/3-Mechanics/CLI/spells/stoneskin-xphb.md) |
-| 5th | [destructive wave](/3-Mechanics/CLI/spells/destructive-wave-xphb.md) |
+| Cantrip | fire bolt, produce flame |
+| 1st | compelled duel, speak with animals, thunderwave |
+| 2nd | beast sense, shatter |
+| 3rd | conjure animals, conjure barrage |
+| 4th | dominate beast, stoneskin |
+| 5th | destructive wave |
 ^gruul-guild-spells
 
 Fueled by the fire of rage burning in your heart, your magic is almost always accompanied by fiery effects, such as flames smoldering behind your eyes or dancing over your hands.
@@ -48,8 +48,6 @@ Fueled by the fire of rage burning in your heart, your magic is almost always ac
 Gruul ways aren't the ways of civilized folk, and the Gruul have little patience for social niceties. But they do have cherished traditions and values, just as important to them as the different values held by the urban, cosmopolitan culture of Ravnica.
 
 **Personality Traits**
-
-`dice: [](gruul-anarch-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -65,8 +63,6 @@ Gruul ways aren't the ways of civilized folk, and the Gruul have little patience
 
 **Ideals**
 
-`dice: [](gruul-anarch-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Clan**. My clan is all that really matters. (Any) |
@@ -79,8 +75,6 @@ Gruul ways aren't the ways of civilized folk, and the Gruul have little patience
 
 **Bonds**
 
-`dice: [](gruul-anarch-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I am determined that one day I will lead my clan—or a new one. |
@@ -92,8 +86,6 @@ Gruul ways aren't the ways of civilized folk, and the Gruul have little patience
 ^bonds
 
 **Flaws**
-
-`dice: [](gruul-anarch-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -113,8 +105,6 @@ Roll twice on the Gruul Contacts table (for an ally and a rival) and once on the
 
 **Gruul Contacts**
 
-`dice: [](gruul-anarch-ggr.md#^gruul-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | One of my parents is a renowned warrior in my clan. |
@@ -128,8 +118,6 @@ Roll twice on the Gruul Contacts table (for an ally and a rival) and once on the
 ^gruul-contacts
 
 **Non-Gruul Contacts**
-
-`dice: [](gruul-anarch-ggr.md#^non-gruul-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

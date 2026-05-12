@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/gos
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Charm of Plant Command"
 ---
 # Charm of Plant Command

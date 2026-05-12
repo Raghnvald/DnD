@@ -6,13 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Set of gold nesting dolls"
 ---
 # Set of gold nesting dolls
 *Treasure (art object)*  
 
 
-- **Cost**: 7,500 gp
+- **Cost**: 7.500 gp
 
 *Source: Dungeon Master's Guide (2024) p. 215*

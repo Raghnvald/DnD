@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/light
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/light
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+aliases:
 - "Voidwalker Armor"
 ---
 # Voidwalker Armor
@@ -15,7 +15,7 @@ aliases:
 
 
 - **Armor Class**: 12 + Dex modifier
-- **Properties**: Cursed
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items)
 - **Weight**: 13.0 lbs.
 
 This black studded leather armor bears a red sheen. While wearing this armor, you can use a bonus action to summon a projection of yourself in an unoccupied space within 30 feet of yourself. The projection is a translucent copy of you that has immunity to all damage and conditions, and you can make attacks and cast spells with a range other than self as if standing in the projection's space. The projection disappears at the end of your turn. Once you use this bonus action, it can't be used again until the next dawn.

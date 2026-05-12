@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tloques-Popolocas
+- "Tloques-Popolocas"
 ---
-# [Tloques-Popolocas](3-Mechanics\CLI\bestiary\npc/tloques-popolocas-tftyp.md)
+# [Tloques-Popolocas](3-Mechanics/CLI/bestiary/npc/tloques-popolocas-tftyp.md)
 *Source: Tales from the Yawning Portal p. 68*  
 
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
@@ -39,9 +39,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 ## Player Characters as Vampires
 
-The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, darkvision, traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 
-The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a wish spell or the character is killed and brought back to life.
+The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell or the character is killed and brought back to life.
 
 > [!note] Strahd von Zarovich
 > 
@@ -76,22 +76,24 @@ The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Cha
   - "dexterity": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "the languages it knew in life"
 "cr": "5"
 "traits":
-  - "desc": "Tloques can cast hold person (DC 14) at will, requiring no components,\
-      \ but his target must be able to see him.\n"
+  - "desc": "Tloques can cast [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md)\
+      \ (DC 14) at will, requiring no components, but his target must be able to see\
+      \ him.\n"
     "name": "Innate Spellcasting"
   - "desc": "The vampire regains 10 hit points at the start of its turn if it has\
       \ at least 1 hit point and isn't in sunlight or running water. If the vampire\
-      \ takes radiant damage or damage from holy water, this trait doesn't function\
-      \ at the start of the vampire's next turn."
+      \ takes radiant damage or damage from [holy water](3-Mechanics/CLI/items/holy-water-xphb.md),\
+      \ this trait doesn't function at the start of the vampire's next turn."
     "name": "Regeneration"
   - "desc": "The vampire can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -101,9 +103,10 @@ The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Cha
       \ \n- **Harmed by Running Water.** The vampire takes 20 acid damage when it\
       \ ends its turn in running water.  \n- **Stake to the Heart.** The vampire is\
       \ destroyed if a piercing weapon made of wood is driven into its heart while\
-      \ it is incapacitated in its resting place.  \n- **Sunlight Hypersensitivity.**\
-      \ The vampire takes 20 radiant damage when it starts its turn in sunlight. While\
-      \ in sunlight, it has disadvantage on attack rolls and ability checks.  "
+      \ it is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) in\
+      \ its resting place.  \n- **Sunlight Hypersensitivity.** The vampire takes 20\
+      \ radiant damage when it starts its turn in sunlight. While in sunlight, it\
+      \ has disadvantage on attack rolls and ability checks.  "
     "name": "Vampire Weaknesses"
   - "desc": "If the vampire isn't in sunlight or running water, it can use its action\
       \ to Polymorph into a Tiny bat, or back into its true form.\n\nWhile in bat\
@@ -115,20 +118,20 @@ The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Cha
 "actions":
   - "desc": "The vampire makes two attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple\
-      \ the target, escape DC 13."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can\
+      \ grapple the target, escape DC 13."
     "name": "Claws"
   - "desc": "The vampire magically calls 2d4 swarms of bats, provided that the sun\
-      \ isn't up. The called creatures arrive in 1d4 rounds, acting as allies of the\
-      \ vampire and obeying its spoken commands. The beasts remain for 1 hour, until\
-      \ the vampire dies, or until the vampire dismisses them as a bonus action."
+      \ isn't up. The called creatures arrive in 1d4 rounds, acting as allies of\
+      \ the vampire and obeying its spoken commands. The beasts remain for 1 hour,\
+      \ until the vampire dies, or until the vampire dismisses them as a bonus action."
     "name": "Children of the Night (1/Day)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) slashing damage."
     "name": "Tloques' Berserker Axe +2"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tloques-popolocas-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/tloques-popolocas-tftyp.webp"
 ```
 ^statblock

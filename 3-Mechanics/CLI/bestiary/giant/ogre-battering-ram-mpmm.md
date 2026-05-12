@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre Battering Ram
+- "Ogre Battering Ram"
 ---
-# [Ogre Battering Ram](3-Mechanics\CLI\bestiary\giant/ogre-battering-ram-mpmm.md)
+# [Ogre Battering Ram](3-Mechanics/CLI/bestiary/giant/ogre-battering-ram-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
@@ -30,7 +30,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "type": "giant"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "76"
 "hit_dice": "9d10 + 27"
 "modifier": !!int "-1"
@@ -42,8 +42,8 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Giant"
 "cr": "4"
 "traits":
@@ -64,7 +64,7 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre-battering-ram-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ogre-battering-ram-mpmm.webp"
 ```
 ^statblock
 

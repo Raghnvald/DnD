@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Criminal (Spy) (Variant)
+- "Criminal (Spy) (Variant)"
 ---
 # Criminal (Spy) (Variant)
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiencies.** One type of gaming set, [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** A [crowbar](/3-Mechanics/CLI/items/crowbar-xphb.md), a set of dark [common clothes](/3-Mechanics/CLI/items/common-clothes.md) including a hood, and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)  
+- **Tool Proficiencies.** One type of gaming set, [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md)  
+- **Equipment.** A [crowbar](3-Mechanics/CLI/items/crowbar.md), a set of dark [common clothes](3-Mechanics/CLI/items/common-clothes.md) including a hood, and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 15 gp  
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
 
@@ -25,8 +25,6 @@ You have a reliable and trustworthy contact who acts as your liaison to a networ
 ## Specialty
 
 There are many kinds of criminals, and within a thieves' guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.
-
-`dice: [](criminal-spy-variant.md#^specialty)`
 
 | dice: d8 | Specialty |
 |----------|-----------|
@@ -44,8 +42,6 @@ There are many kinds of criminals, and within a thieves' guild or similar crimin
 
 Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.
 
-`dice: [](criminal-spy-variant.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I always have a plan for when things go wrong. |
@@ -58,8 +54,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 8 | I blow up at the slightest insult. |
 ^personality-trait
 
-`dice: [](criminal-spy-variant.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Honor. I don't steal from others in the trade. (Lawful) |
@@ -70,8 +64,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 6 | Redemption. There's a spark of good in everyone. (Good) |
 ^ideal
 
-`dice: [](criminal-spy-variant.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I'm trying to pay off an old debt I owe to a generous benefactor. |
@@ -81,8 +73,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 | 5 | I'm guilty of a terrible crime. I hope I can redeem myself for it. |
 | 6 | Someone I loved died because of a mistake I made. That will never happen again. |
 ^bond
-
-`dice: [](criminal-spy-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

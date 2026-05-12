@@ -11,16 +11,16 @@ aliases:
   - Miska the Wolf-Spider
 linter-yaml-title-alias: Miska the Wolf-Spider
 ---
-# [Miska the Wolf-Spider](3-Mechanics\CLI\bestiary\npc/miska-the-wolf-spider-veor.md)
-*Source: Vecna: Eve of Ruin p. 247*  
+# Miska the Wolf-Spider
+*Quelle: Vecna: Vorabend der Verdammnis S. 247*  
 
-Miska the Wolf-Spider is a legendary demon lord and master of battlefield strategy. He has the lower body of a massive armored spider, four arms, and two enormous wolf heads that drip poison. Yet Miska's greatest strength is his cunning mind.
+Miska Wolfsspinne ist ein legendärer Dämonenfürst und ein strategischer Meister.des Schlachtfelds. Er hat den Unterleib einer riesigen gepanzerten Spinne, vier Arme und zwei riesige Wolfsköpfe, aus denen Gift tropft. Doch seine größte Stärke ist sein scharfer Verstand. 
 
-## History
+## Geschichte
 
-Ages ago, Miska led the hordes of Chaos against the forces of Law at the behest of his patron, the enigmatic Queen of Chaos. It seemed Miska's domination couldn't be stopped.
+Vor langer Zeit führte Miska auf Geheiß seiner Schutzpatronin, der rätselhaften Königin des Chaos, die Horden des Chaos gegen die Kräfte der Ordnung an. Miskas Herrschaft schien unaufhaltsam. 
 
-In desperation, Miska's opponents crafted an artifact to bind him in an extraplanar prison. This rod broke apart after sealing him in Pandemonium, scattering across the planes and becoming known as the Rod of Seven Parts. The rod is the key to releasing Miska from his long imprisonment.
+Seine verzweifelten Gegner schufen ein Artefakt, um Miska in ein extraplanares Gefängnis zu bannen. Es gelang, ihn im Pandämonium einzusperren. Danach zerbrach der Stab. Seine Bruchstücke verteilten sich über alle Ebenen hinweg und wurden als Stab der Sieben Teile bekannt. Dieser Stab ist der Schlüssel dazu, Miska aus seiner langen Gefangenschaft zu befreien. 
 
 ```statblock
 "name": "Miska the Wolf-Spider (VEoR)"

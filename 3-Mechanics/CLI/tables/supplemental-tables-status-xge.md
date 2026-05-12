@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Status
+- "Supplemental Tables; Status"
 ---
 # Supplemental Tables; Status
 *Source: Xanathar's Guide to Everything p. 72* 
 
 **Status**
-
-`dice: [](supplemental-tables-status-xge.md#^status)`
 
 | dice: 3d6 | Status |
 |-----------|--------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Juvenile Kraken
+- "Juvenile Kraken"
 ---
-# [Juvenile Kraken](3-Mechanics\CLI\bestiary\monstrosity/juvenile-kraken-gos.md)
+# [Juvenile Kraken](3-Mechanics/CLI/bestiary/monstrosity/juvenile-kraken-gos.md)
 *Source: Ghosts of Saltmarsh p. 238*  
 
 Hidden in a deep, dark underwater pit near the Styes, this creature bears the mark of the dark god Tharizdun's madness. Becoming more independent every day, it dreams of freeing itself from its aboleth tenders and wreaking its own foul will upon the seas.
@@ -60,22 +60,22 @@ Hidden in a deep, dark underwater pit near the Styes, this creature bears the ma
   - "desc": "The kraken makes two tentacle attacks, each of which it can replace with\
       \ a use of Fling."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) piercing damage. If the target is a Medium or smaller creature grappled\
-      \ by the kraken, that creature is swallowed and the grapple ends. While swallowed,\
-      \ the creature is blinded and restrained, it has total cover against attacks\
-      \ and other effects outside the kraken, and it takes 21 (6d6) acid damage at\
-      \ the start of each of the kraken's turns. One Medium or two smaller creatures\
-      \ can be swallowed at the same time.\n\nIf the kraken takes 35 damage or more\
-      \ on a single turn from a creature inside it, the kraken must succeed on a DC\
-      \ 23 Constitution saving throw at the end of that turn or regurgitate all swallowed\
-      \ creatures, which fall prone in spaces within 10 feet of the kraken. If the\
-      \ kraken dies, a swallowed creature is no longer restrained by it and can escape\
-      \ from the corpse using 10 feet of movement, exiting prone."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) piercing damage. If the target is a Medium or smaller creature\
+      \ grappled by the kraken, that creature is swallowed and the grapple ends. While\
+      \ swallowed, the creature is blinded and restrained, it has total cover against\
+      \ attacks and other effects outside the kraken, and it takes 21 (6d6) acid\
+      \ damage at the start of each of the kraken's turns. One Medium or two smaller\
+      \ creatures can be swallowed at the same time.\n\nIf the kraken takes 35 damage\
+      \ or more on a single turn from a creature inside it, the kraken must succeed\
+      \ on a DC 23 Constitution saving throw at the end of that turn or regurgitate\
+      \ all swallowed creatures, which fall prone in spaces within 10 feet of the\
+      \ kraken. If the kraken dies, a swallowed creature is no longer restrained by\
+      \ it and can escape from the corpse using 10 feet of movement, exiting prone."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 20 ft., one target. *Hit:* 17\
-      \ (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 20). Until\
-      \ the grapple ends, the target is restrained. The kraken has ten tentacles,\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 20 ft., one target. *Hit:*\
+      \ 17 (3d6 + 7) bludgeoning damage, and the target is grappled (escape DC 20).\
+      \ Until the grapple ends, the target is restrained. The kraken has ten tentacles,\
       \ each of which can grapple one target."
     "name": "Tentacle"
   - "desc": "One Medium or smaller object held or creature grappled by the kraken\
@@ -108,6 +108,6 @@ Hidden in a deep, dark underwater pit near the Styes, this creature bears the ma
     "name": "Ink Cloud (Costs 3 Actions)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/juvenile-kraken-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/juvenile-kraken-gos.webp"
 ```
 ^statblock

@@ -10,12 +10,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Stove
+- "Animated Stove"
 ---
-# [Animated Stove](3-Mechanics\CLI\bestiary\construct/animated-stove-wdmm.md)
+# [Animated Stove](3-Mechanics/CLI/bestiary/construct/animated-stove-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 186*  
 
-The stove was given a semblance of life through an animate objects spell made permanent by a wish spell.
+The stove was given a semblance of life through an [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md) spell made permanent by a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell.
 
 ```statblock
 "name": "Animated Stove (WDMM)"
@@ -34,7 +34,8 @@ The stove was given a semblance of life through an animate objects spell made pe
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "3"
 "actions":
@@ -47,6 +48,6 @@ The stove was given a semblance of life through an animate objects spell made pe
     "name": "Belch Fire (Recharge 4-6)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-stove-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-stove-wdmm.webp"
 ```
 ^statblock

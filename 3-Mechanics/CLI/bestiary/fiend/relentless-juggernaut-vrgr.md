@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Relentless Juggernaut
+- "Relentless Juggernaut"
 ---
-# [Relentless Juggernaut](3-Mechanics\CLI\bestiary\fiend/relentless-juggernaut-vrgr.md)
+# [Relentless Juggernaut](3-Mechanics/CLI/bestiary/fiend/relentless-juggernaut-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 243*  
 
 Relentless juggernauts are massive brutes that thirst for carnage. Their presence twists the world around them, allowing them to create weapons with which they can slaughter prey. Sharp iron fences, crushing stalagmites and blades of glass all conveniently appear in order to aid a juggernaut's brutality. Every juggernaut considers a certain area its territory and visits destruction upon all trespassers.
@@ -25,8 +25,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 
 **Relentless Origins**
 
-`dice: [](relentless-juggernaut-vrgr.md#^relentless-origins)`
-
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | It was left for dead and granted new life to seek revenge. |
@@ -38,8 +36,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 ^relentless-origins
 
 **Relentless Methods**
-
-`dice: [](relentless-juggernaut-vrgr.md#^relentless-methods)`
 
 | dice: d8 | Method |
 |----------|--------|
@@ -76,14 +72,14 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+6"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "understands all languages but can't speak"
 "cr": "12"
 "traits":
@@ -100,27 +96,27 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   - "desc": "The juggernaut makes two attacks. It can replace one attack with Deadly\
       \ Shaping if it is ready."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) piercing damage, and if the target is a creature, its speed is\
-      \ reduced by 10 feet until the start of the juggernaut's next turn."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) piercing damage, and if the target is a creature, its speed\
+      \ is reduced by 10 feet until the start of the juggernaut's next turn."
     "name": "Executioner's Pick"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 11\
-      \ (1d10 + 6) bludgeoning damage, and if the target is a Large or smaller creature,\
-      \ it must succeed on a DC 18 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 11 (1d10 + 6) bludgeoning damage, and if the target is a Large or smaller\
+      \ creature, it must succeed on a DC 18 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Fist"
   - "desc": "The juggernaut magically shapes a feature of its surroundings into a\
       \ deadly implement. A creature the juggernaut can see within 60 feet of it must\
       \ make a DC 18 Dexterity saving throw. If the saving throw fails, the targeted\
       \ creature is struck by one of the following (juggernaut's choice):"
     "name": "Deadly Shaping (Recharge 5-6)"
-  - "desc": "The target takes 22 (5d8) bludgeoning damage and is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+  - "desc": "The target takes 22 (5d8) bludgeoning damage and is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ until the start of the juggernaut's next turn, and the implement vanishes."
     "name": "Flying Stone"
   - "desc": "The target takes 14 (4d6) slashing damage, and the implement vanishes.\
       \ At the start of each of its turns, the target takes 10 (3d6) necrotic damage\
       \ from the wound left by the shrapnel. The wound ends if the target regains\
       \ any hit points or if a creature uses an action to stanch the wound, which\
-      \ requires a successful DC 15 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine))\
+      \ requires a successful DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine))\
       \ check."
     "name": "Scything Shrapnel"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
@@ -129,13 +125,13 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   \ of its turns."
 "legendary_actions":
   - "desc": "The juggernaut moves up to its speed, ignoring difficult terrain. Any\
-      \ object in its path takes 55 (10d10) bludgeoning damage if it isn't being worn\
-      \ or carried."
+      \ object in its path takes 55 (10d10) bludgeoning damage if it isn't being\
+      \ worn or carried."
     "name": "Implacable Advance"
   - "desc": "The juggernaut recharges Deadly Shaping and uses it."
     "name": "Rapid Shaping (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/relentless-juggernaut-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/relentless-juggernaut-vrgr.webp"
 ```
 ^statblock

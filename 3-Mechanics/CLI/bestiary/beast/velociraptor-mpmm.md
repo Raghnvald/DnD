@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Velociraptor
+- "Velociraptor"
 ---
-# [Velociraptor](3-Mechanics\CLI\bestiary\beast/velociraptor-mpmm.md)
+# [Velociraptor](3-Mechanics/CLI/bestiary/beast/velociraptor-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
@@ -39,7 +39,7 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
@@ -47,21 +47,21 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 "traits":
   - "desc": "The velociraptor has advantage on an attack roll against a creature if\
       \ at least one of the velociraptor's allies is within 5 feet of the creature\
-      \ and the ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ and the ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "The velociraptor makes one Bite attack and one Claw attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp"
 ```
 ^statblock
 

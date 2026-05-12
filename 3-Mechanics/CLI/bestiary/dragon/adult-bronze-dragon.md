@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Bronze Dragon
+- "Adult Bronze Dragon"
 ---
-# [Adult Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/adult-bronze-dragon.md)
-*Source: Monster Manual p. 108, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Adult Bronze Dragon](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon.md)
+*Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
@@ -106,14 +106,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "lightning"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 22"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 22"
 "languages": "Common, Draconic"
 "cr": "15"
 "traits":
@@ -125,17 +126,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d6 + 7) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened\
+      \ and aware of it must succeed on a DC 17 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -144,11 +145,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Lightning\
       \ Breath.** The dragon exhales lightning in a 90-foot line that is 5 feet wide.\
       \ Each creature in that line must make a DC 19 Dexterity saving throw, taking\
-      \ 66 (12d10) lightning damage on a failed save, or half as much damage on a\
-      \ successful one.  \n- **Repulsion Breath.** The dragon exhales repulsion energy\
-      \ in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength\
-      \ saving throw. On a failed save, the creature is pushed 60 feet away from the\
-      \ dragon.  "
+      \ 66 (12d10) lightning damage on a failed save, or half as much damage on\
+      \ a successful one.  \n- **Repulsion Breath.** The dragon exhales repulsion\
+      \ energy in a 30-foot cone. Each creature in that area must succeed on a DC\
+      \ 19 Strength saving throw. On a failed save, the creature is pushed 60 feet\
+      \ away from the dragon.  "
     "name": "Breath Weapons (Recharge 5-6)"
   - "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
       \ rating no higher than its own, or back into its true form. It reverts to its\
@@ -160,23 +161,68 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ replaced by those of the new form, except any class features or legendary\
       \ actions of that form."
     "name": "Change Shape"
+"lair_actions":
+  - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
+      \ action to cause one of the following effects:\n\n- The dragon creates fog\
+      \ as though it had cast the [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md)\
+      \ spell. The fog lasts until initiative count 20 on the next round.  \n- A thunderclap\
+      \ originates at a point the dragon can see within 120 feet of it. Each creature\
+      \ within a 20-foot radius centered on that point must make a DC 15 Constitution\
+      \ saving throw or take 5 (1d10) thunder damage and be [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)\
+      \ until the end of its next turn.  \n\n**Additional Lair Actions.** At your\
+      \ discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-bronze-dragon.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-bronze-dragon.md)) bronze\
+      \ dragon can use one or more of the following additional lair actions while\
+      \ in its lair:\n\n- **Ocean's Call.** The dragon conjures a swarm of spectral\
+      \ dolphins. Each creature in the water within 120 feet of the dragon must succeed\
+      \ on a DC 15 Dexterity saving throw or take 5 (1d10) slashing damage; then\
+      \ the swarm vanishes.  \n- **Salt Burst.** The dragon chooses a point it can\
+      \ see in the lair. The air in a 20-foot-radius sphere centered on that point\
+      \ bursts with abrasive salt crystals. Each creature in that area must succeed\
+      \ on a DC 15 Dexterity saving throw or take 10 (3d6) slashing damage.  \n\
+      - **Whelming Water.** The dragon causes a strong current to course through the\
+      \ water in its lair. The dragon chooses any number of creatures it can see that\
+      \ are standing or swimming in water within 120 feet of it. Each chosen creature\
+      \ must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \  "
+    "name": ""
+"regional_effects":
+  - "desc": "The region containing a legendary bronze dragon's lair is warped by the\
+      \ dragon's magic.\n\n- Once per day, the dragon can alter the weather in a 6-mile\
+      \ radius centered on its lair. The dragon doesn't need to be outdoors; otherwise\
+      \ the effect is identical to the [control weather](3-Mechanics/CLI/spells/control-weather.md)\
+      \ spell.  \n- Underwater plants within 6 miles of the dragon's lair take on\
+      \ dazzlingly brilliant hues.  \n- Within its lair, the dragon can set illusory\
+      \ sounds, such as soft music and strange echoes, so that they can be heard in\
+      \ various parts of the lair.  \n\nIf the dragon dies, changed weather reverts\
+      \ to normal, as described in the spell, and the other effects fade in 1d10\
+      \ days.\n\n**Additional Regional Effects.** Any of these effects might appear\
+      \ in the area around a bronze dragon's lair, in addition to or instead of the\
+      \ effects described in the *Monster Manual*:\n\n- **Phantom Escort.** Ghostly\
+      \ naval ships from an ancient armada appear, escorting well-meaning creatures\
+      \ in need of the dragon's help toward the dragon's lair.  \n- **Underwater Pursuit.**\
+      \ Sailors glimpse the shadowy, illusory form of a dragon in the depths below\
+      \ them, keeping pace with their vessel.  \n- **Unfailing Faithfulness.** Sapient\
+      \ creatures that spend a year within 10 miles of the dragon's lair find it nearly\
+      \ impossible to break a promise.  "
+    "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom (Perception) check."
+  - "desc": "The dragon makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning\
-      \ damage and be knocked prone. The dragon can then fly up to half its flying\
-      \ speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-bronze-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-bronze-dragon.webp"
 ```
 ^statblock
 

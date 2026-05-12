@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Dragonmark Appearance; Dragonmark Quirks
+- "Dragonmark Appearance; Dragonmark Quirks"
 ---
 # Dragonmark Appearance; Dragonmark Quirks
 *Source: Eberron: Rising from the Last War p. 38* 
 
 **Dragonmark Quirks**
-
-`dice: [](dragonmark-appearance-dragonmark-quirks-erlw.md#^dragonmark-quirks)`
 
 | dice: d8 | Quirk |
 |----------|-------|

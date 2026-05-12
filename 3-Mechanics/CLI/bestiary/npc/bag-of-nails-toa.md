@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/tabaxi
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bag of Nails
+- "Bag of Nails"
 ---
-# [Bag of Nails](3-Mechanics\CLI\bestiary\npc/bag-of-nails-toa.md)
+# [Bag of Nails](3-Mechanics/CLI/bestiary/npc/bag-of-nails-toa.md)
 *Source: Tomb of Annihilation p. 102*  
 
 Bag of Nails yearns for a hunter's death. Senility has taken hold, and now he sees all creatures as his prey.
@@ -26,7 +26,7 @@ He explains that he came to Omu to find a fabled treasure called the Navel of th
 "subtype": "tabaxi"
 "alignment": "Chaotic Neutral"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "3"
@@ -42,16 +42,20 @@ He explains that he came to Omu to find a fabled treasure called the Navel of th
   - "dexterity": !!int "6"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+6"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 13"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Thieves' cant, Common, Dwarvish"
 "cr": "8"
 "traits":
@@ -61,7 +65,8 @@ He explains that he came to Omu to find a fabled treasure called the Navel of th
     "name": "Feline Agility"
   - "desc": "During his first turn, Bag of Nails has advantage on attack rolls against\
       \ any creature that hasn't taken a turn. Any hit Bag of Nails scores against\
-      \ a surprised creature is a critical hit."
+      \ a [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) creature is a\
+      \ critical hit."
     "name": "Assassinate"
   - "desc": "If Bag of Nails is subjected to an effect that allows him to make a Dexterity\
       \ saving throw to take only half damage, Bag of Nails instead takes no damage\
@@ -69,27 +74,27 @@ He explains that he came to Omu to find a fabled treasure called the Navel of th
     "name": "Evasion"
   - "desc": "Bag of Nails deals an extra 14 (4d6) damage when he hits a target with\
       \ a weapon attack and has advantage on the attack roll, or when the target is\
-      \ within 5 feet of an ally of his that isn't incapacitated and Bag of Nails\
-      \ doesn't have disadvantage on the attack roll."
+      \ within 5 feet of an ally of his that isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and Bag of Nails doesn't have disadvantage on the attack roll."
     "name": "Sneak Attack (1/Turn)"
 "actions":
   - "desc": "Bag of Nails makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage, and the target must make a DC 15 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution\
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution\
-      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as much\
-      \ damage on a successful one."
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Longbow"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/bag-of-nails-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/bag-of-nails-toa.webp"
 ```
 ^statblock

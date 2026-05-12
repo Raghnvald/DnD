@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Financier Assignments
+- "Financier Assignments"
 ---
 # Financier Assignments
 *Source: Bigby Presents: Glory of the Giants p. 59* 
 
 **Financier Assignments**
-
-`dice: [](financier-assignments-bgg.md#^financier-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

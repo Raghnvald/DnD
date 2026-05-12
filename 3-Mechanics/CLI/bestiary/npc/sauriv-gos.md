@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sauriv
+- "Sauriv"
 ---
-# [Sauriv](3-Mechanics\CLI\bestiary\npc/sauriv-gos.md)
+# [Sauriv](3-Mechanics/CLI/bestiary/npc/sauriv-gos.md)
 *Source: Ghosts of Saltmarsh p. 79*  
 
 ```statblock
@@ -41,6 +41,8 @@ aliases:
     "desc": "+6"
   - "name": "Persuasion"
     "desc": "+7"
+"gear":
+  - "rapier"
 "senses": "passive Perception 14"
 "languages": "Common, Draconic"
 "cr": "1/8"
@@ -48,8 +50,8 @@ aliases:
   - "desc": "Sauriv"
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Sauriv adds 2 to its AC against one melee attack that would hit it. To\
@@ -57,6 +59,6 @@ aliases:
     "name": "Parry"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sauriv-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sauriv-gos.webp"
 ```
 ^statblock

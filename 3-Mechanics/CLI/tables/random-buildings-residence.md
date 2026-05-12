@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Residence
+- "Random Buildings; Residence"
 ---
 # Random Buildings; Residence
 *Source: Dungeon Master's Guide p. 113* 
 
 **Residence**
-
-`dice: [](random-buildings-residence.md#^residence)`
 
 | dice: d20 | Type |
 |-----------|------|

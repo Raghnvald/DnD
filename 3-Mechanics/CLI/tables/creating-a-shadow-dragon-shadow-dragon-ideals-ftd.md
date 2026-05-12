@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Shadow Dragon; Shadow Dragon Ideals
+- "Creating a Shadow Dragon; Shadow Dragon Ideals"
 ---
 # Creating a Shadow Dragon; Shadow Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 142* 
 
 **Shadow Dragon Ideals**
-
-`dice: [](creating-a-shadow-dragon-shadow-dragon-ideals-ftd.md#^shadow-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

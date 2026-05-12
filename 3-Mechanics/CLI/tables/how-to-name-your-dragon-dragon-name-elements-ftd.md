@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- How to Name Your Dragon; Dragon Name Elements
+- "How to Name Your Dragon; Dragon Name Elements"
 ---
 # How to Name Your Dragon; Dragon Name Elements
 *Source: Fizban's Treasury of Dragons p. 33* 
 
 **Dragon Name Elements**
-
-`dice: [](how-to-name-your-dragon-dragon-name-elements-ftd.md#^dragon-name-elements)`
 
 | dice: d20 | 1 | 2 | 3 | 4 |
 |-----------|---|---|---|---|

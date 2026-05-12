@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/0
-- new/monster/size/huge
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stone Giant Statue
+- "Stone Giant Statue"
 ---
-# [Stone Giant Statue](3-Mechanics\CLI\bestiary\construct/stone-giant-statue-skt.md)
+# [Stone Giant Statue](3-Mechanics/CLI/bestiary/construct/stone-giant-statue-skt.md)
 *Source: Storm King's Thunder p. 127*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -49,6 +52,6 @@ aliases:
     "name": "Magic Weapons"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/stone-giant-statue-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/stone-giant-statue-skt.webp"
 ```
 ^statblock

@@ -8,22 +8,22 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of the Magi"
 ---
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/staff-of-the-magi.webp#right)
+![](3-Mechanics/CLI/items/img/staff-of-the-magi.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
 
-The staff has 50 charges for the following properties. It regains `dice:4d6+2|noform|noparens|avg` (`4d6 + 2`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 20, the staff regains `dice:1d12+1|noform|noparens|avg` (`1d12 + 1`) charges.
+The staff has 50 charges for the following properties. It regains `4d6 + 2` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 20, the staff regains `1d12 + 1` charges.
 
 ## Spell Absorption
 
@@ -31,9 +31,9 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [conjure elemental](/3-Mechanics/CLI/spells/conjure-elemental.md) (7 charges), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic.md) (3 charges), [fireball](/3-Mechanics/CLI/spells/fireball.md) (7th-level version, 7 charges), [flaming sphere](/3-Mechanics/CLI/spells/flaming-sphere.md) (2 charges), [ice storm](/3-Mechanics/CLI/spells/ice-storm.md) (4 charges), [invisibility](/3-Mechanics/CLI/spells/invisibility.md) (2 charges), [knock](/3-Mechanics/CLI/spells/knock.md) (2 charges), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt.md) (7th-level version, 7 charges), [passwall](/3-Mechanics/CLI/spells/passwall.md) (5 charges), [plane shift](/3-Mechanics/CLI/spells/plane-shift.md) (7 charges), [telekinesis](/3-Mechanics/CLI/spells/telekinesis.md) (5 charges), [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire.md) (4 charges), or [web](/3-Mechanics/CLI/spells/web.md) (2 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: conjure elemental (7 charges), dispel magic (3 charges), fireball (7th-level version, 7 charges), flaming sphere (2 charges), ice storm (4 charges), invisibility (2 charges), knock (2 charges), lightning bolt (7th-level version, 7 charges), passwall (5 charges), plane shift (7 charges), telekinesis (5 charges), wall of fire (4 charges), or web (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](/3-Mechanics/CLI/spells/arcane-lock.md), [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce.md), [light](/3-Mechanics/CLI/spells/light.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand.md), or [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good.md).
+You can also use an action to cast one of the following spells from the staff without using any charges: arcane lock, detect magic, enlarge/reduce, light, mage hand, or protection from evil and good.
 
 ## Retributive Strike
 

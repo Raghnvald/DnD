@@ -9,16 +9,16 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/level/4th-level
 - ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/death-domain
+- ttrpg-cli/spell/subclass/ambition-domain-psa
 - ttrpg-cli/spell/subclass/life-domain
 classes:
 - Bard (Magical Secrets)
 - Cleric
-- Cleric (Death Domain)
+- Cleric (Ambition Domain (PSA))
 - Cleric (Life Domain)
 - Paladin
 aliases:
-- Death Ward
+- "Death Ward"
 ---
 # Death Ward
 *4th-level, Abjuration*  
@@ -35,6 +35,6 @@ The first time the target would drop to 0 hit points as a result of taking damag
 
 If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG"); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Ambition Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-ambition-domain-psa-psa.md "subclass=PSA"); [Cleric (Life Domain)](3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

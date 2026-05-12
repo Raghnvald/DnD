@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Far Traveler
+- "Far Traveler"
 ---
 # Far Traveler
 *Source: Sword Coast Adventurer's Guide p. 148*  
 
 
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Perception](/3-Mechanics/CLI/skills.md#Perception)  
+- **Skill Proficiencies.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Perception](3-Mechanics/CLI/rules/skills.md#Perception)  
 - **Tool Proficiencies.** Any one musical instrument or gaming set of your choice, likely something native to your homeland  
 - **Languages.** Any one of your choice  
-- **Equipment.** One set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in Faerûn, a small piece of jewelry worth 10 gp in the style of your homeland's craftsmanship, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 5 gp  
+- **Equipment.** One set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), any one musical instrument or gaming set you are proficient with, poorly wrought maps from your homeland that depict where you are in Faerûn, a small piece of jewelry worth 10 gp in the style of your homeland's craftsmanship, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 5 gp  
 
 Almost all of the common people and other folk that one might encounter along the Sword Coast or in the North have one thing in common: they live out their lives without ever traveling more than a few miles from where they were born.
 
@@ -85,8 +85,6 @@ You can parley this attention into access to people and places you might not oth
 
 A far traveler might have set out on a journey for one of a number of reasons, and the departure from his or her homeland could have been voluntary or involuntary. To determine why you are so far from home, roll on the table below or choose from the options provided. The following section, discussing possible homelands, includes some suggested reasons that are appropriate for each location.
 
-`dice: [](far-traveler-scag.md#^reason)`
-
 | dice: d6 | Reason |
 |----------|--------|
 | 1 | Emissary |
@@ -99,8 +97,6 @@ A far traveler might have set out on a journey for one of a number of reasons, a
 
 ## Suggested Characteristics
 
-`dice: [](far-traveler-scag.md#^personality-trait)`
-
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | I have different assumptions from those around me concerning personal space, blithely invading others' space in innocence, or reacting to ignorant invasion of my own. |
@@ -110,8 +106,6 @@ A far traveler might have set out on a journey for one of a number of reasons, a
 | 5 | I honor my deities through practices that are foreign to this land. |
 | 6 | I begin or end my day with small traditional rituals that are unfamiliar to those around me. |
 ^personality-trait
-
-`dice: [](far-traveler-scag.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -123,8 +117,6 @@ A far traveler might have set out on a journey for one of a number of reasons, a
 | 6 | Suspicious. I must be careful, for I have no way of telling friend from foe here. (Any) |
 ^ideal
 
-`dice: [](far-traveler-scag.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | So long as I have this token from my homeland, I can face any adversity in this strange land. |
@@ -134,8 +126,6 @@ A far traveler might have set out on a journey for one of a number of reasons, a
 | 5 | I'm fascinated by the beauty and wonder of this new land. |
 | 6 | Though I had no choice, I lament having to leave my loved one(s) behind. I hope to see them again one day. |
 ^bond
-
-`dice: [](far-traveler-scag.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

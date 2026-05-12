@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
+- "Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations"
 ---
 # Levels 5–10: Heroes of the Realm; Levels 5–10 Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 106* 
 
 **Levels 5–10 Adventure Situations**
-
-`dice: [](levels-510-heroes-of-the-realm-levels-510-adventure-situations-xdmg.md#^levels-510-adventure-situations)`
 
 | dice: 1d20 | Situation |
 |------------|-----------|

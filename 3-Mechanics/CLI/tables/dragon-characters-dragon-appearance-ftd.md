@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Dragon Characters; Dragon Appearance
+- "Dragon Characters; Dragon Appearance"
 ---
 # Dragon Characters; Dragon Appearance
 *Source: Fizban's Treasury of Dragons p. 31* 
 
 **Dragon Appearance**
-
-`dice: [](dragon-characters-dragon-appearance-ftd.md#^dragon-appearance)`
 
 | dice: d20 | Appearance |
 |-----------|------------|

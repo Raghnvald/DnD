@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Babau
+- "Babau"
 ---
-# [Babau](3-Mechanics\CLI\bestiary\fiend/babau-mpmm.md)
+# [Babau](3-Mechanics/CLI/bestiary/fiend/babau-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
 
 > [!quote] A quote from Mordenkainen  
@@ -45,24 +45,24 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Abyssal"
 "cr": "4"
 "actions":
   - "desc": "The babau makes two Claw attacks. It can replace one attack with a use\
       \ of Spellcasting or Weakening Gaze."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
-      \ + 4) slashing damage plus 2 (1d4) acid damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d4 + 4) slashing damage plus 2 (1d4) acid damage."
     "name": "Claw"
   - "desc": "The babau targets one creature that it can see within 20 feet of it.\
       \ The target must make a DC 13 Constitution saving throw. On a failed save,\
@@ -72,14 +72,14 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
     "name": "Weakening Gaze"
   - "desc": "The babau casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 11):\n\n**At will:**\
-      \ [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [fear](/3-Mechanics/CLI/spells/fear-xphb.md), [heat metal](/3-Mechanics/CLI/spells/heat-metal-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)"
+      \ [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md), [heat metal](3-Mechanics/CLI/spells/heat-metal-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp"
 ```
 ^statblock
 

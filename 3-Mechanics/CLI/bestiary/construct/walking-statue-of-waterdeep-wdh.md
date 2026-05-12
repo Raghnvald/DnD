@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Walking Statue of Waterdeep
+- "Walking Statue of Waterdeep"
 ---
-# [Walking Statue of Waterdeep](3-Mechanics\CLI\bestiary\construct/walking-statue-of-waterdeep-wdh.md)
+# [Walking Statue of Waterdeep](3-Mechanics/CLI/bestiary/construct/walking-statue-of-waterdeep-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 219*  
 
 Scattered throughout Waterdeep are eight enormous statues that can defend the city in times of great peril. Because they are so destructive, the walking statues are used only to fend off armies and seemingly insurmountable foes.
@@ -49,16 +49,19 @@ A walking statue doesn't require air, food, drink, or sleep.
   - "constitution": !!int "14"
 "damage_immunities": "cold; fire; poison; psychic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks not made with adamantine weapons"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
-  \ stunned"
-"senses": "truesight 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "18"
 "traits":
   - "desc": "When the statue drops to 0 hit points, it crumbles and is destroyed.\
       \ Any creature on the ground within 30 feet of the crumbling statue must make\
-      \ a DC 22 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a failed\
-      \ save, or half as much damage on a successful one."
+      \ a DC 22 Dexterity saving throw, taking 22 (4d10) bludgeoning damage on a\
+      \ failed save, or half as much damage on a successful one."
     "name": "Crumbling Colossus"
   - "desc": "The statue is immune to any spell or effect that would alter its form."
     "name": "Immutable Form"
@@ -70,14 +73,14 @@ A walking statue doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The statue makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 5 ft., one target. *Hit:* 29\
-      \ (3d12 + 10) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 5 ft., one target. *Hit:*\
+      \ 29 (3d12 + 10) bludgeoning damage."
     "name": "Slam"
-  - "desc": "*Ranged Weapon Attack:* +16 to hit, range 200/800 ft., one target. *Hit:*\
-      \ 43 (6d10 + 10) bludgeoning damage."
+  - "desc": "*Ranged Weapon Attack:* +16 to hit, range 200/800 ft., one target.\
+      \ *Hit:* 43 (6d10 + 10) bludgeoning damage."
     "name": "Hurled Stone"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/walking-statue-of-waterdeep-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/walking-statue-of-waterdeep-wdh.webp"
 ```
 ^statblock

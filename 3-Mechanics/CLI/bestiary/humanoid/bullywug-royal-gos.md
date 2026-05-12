@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bullywug Royal
+- "Bullywug Royal"
 ---
-# [Bullywug Royal](3-Mechanics\CLI\bestiary\humanoid/bullywug-royal-gos.md)
+# [Bullywug Royal](3-Mechanics/CLI/bestiary/humanoid/bullywug-royal-gos.md)
 *Source: Ghosts of Saltmarsh p. 232*  
 
 The largest and most intelligent bullywugs invariably end up leading their kind. These sneering specimens dress in robes made from leather, rough cloth, and bits of marsh plants. As seen in Danger at Dunwater, a bullywug royal is often accompanied by and mounted astride a giant toad.
@@ -70,14 +70,14 @@ The largest and most intelligent bullywugs invariably end up leading their kind.
   - "desc": "The royal makes two attacks: one with its royal spear and one with its\
       \ bite."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 10 ft. or range 20/60\
-      \ ft., one target. *Hit:* 10 (2d6 + 3) piercing damage, or 12 (2d8 + 3) piercing\
-      \ damage if used with two hands to make a melee attack. If the target is a Medium\
-      \ or smaller creature, it must succeed on a DC 13 Strength saving throw or be\
-      \ knocked prone."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 10 ft. or range\
+      \ 20/60 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage, or 12 (2d8\
+      \ + 3) piercing damage if used with two hands to make a melee attack. If the\
+      \ target is a Medium or smaller creature, it must succeed on a DC 13 Strength\
+      \ saving throw or be knocked prone."
     "name": "Royal Spear"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Bite"
   - "desc": "The royal makes a loud pronouncement. Each bullywug within 60 feet of\
       \ the royal that can hear the pronouncement has advantage on its next attack\
@@ -85,6 +85,6 @@ The largest and most intelligent bullywugs invariably end up leading their kind.
     "name": "Croaked Decree (1/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bullywug-royal-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bullywug-royal-gos.webp"
 ```
 ^statblock

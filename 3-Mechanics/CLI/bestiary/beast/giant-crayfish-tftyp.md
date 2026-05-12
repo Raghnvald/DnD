@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Crayfish
+- "Giant Crayfish"
 ---
-# [Giant Crayfish](3-Mechanics\CLI\bestiary\beast/giant-crayfish-tftyp.md)
+# [Giant Crayfish](3-Mechanics/CLI/bestiary/beast/giant-crayfish-tftyp.md)
 *Source: Tales from the Yawning Portal p. 235*  
 
 ```statblock
@@ -34,9 +34,10 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "blindsight 30 ft., passive Perception 9"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "2"
 "traits":
@@ -45,12 +46,13 @@ aliases:
 "actions":
   - "desc": "The giant crayfish makes two claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) bludgeoning damage, and the target is grappled (escape DC 12). The crayfish\
-      \ has two claws, each of which can grapple only one target."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 12). The crayfish has two claws, each of which can grapple only\
+      \ one target."
     "name": "Claw"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-crayfish-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-crayfish-tftyp.webp"
 ```
 ^statblock

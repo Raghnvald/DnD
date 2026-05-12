@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thri-kreen
+- "Thri-kreen"
 ---
-# [Thri-kreen](3-Mechanics\CLI\bestiary\humanoid/thri-kreen.md)
+# [Thri-kreen](3-Mechanics/CLI/bestiary/humanoid/thri-kreen.md)
 *Source: Monster Manual p. 288*  
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
@@ -57,20 +57,20 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Thri-kreen"
 "cr": "1"
 "traits":
   - "desc": "The thri-kreen can change the color of its carapace to match the color\
       \ and texture of its surroundings. As a result, it has advantage on Dexterity\
-      \ ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide."
+      \ ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide."
     "name": "Chameleon Carapace"
   - "desc": "The thri-kreen's long jump is up to 30 feet and its high jump is up to\
       \ 15 feet, with or without a running start."
@@ -79,21 +79,21 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
   - "desc": "The thri-kreen makes two attacks: one with its bite and one with its\
       \ claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for\
-      \ 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way. The\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) target can repeat the\
-      \ saving throw at the end of each of its turns, ending the effect on itself\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d6 + 1) piercing damage, and the target must succeed on a DC 11 Constitution\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat\
+      \ the saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) slashing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/thri-kreen.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/thri-kreen.webp"
 ```
 ^statblock
 

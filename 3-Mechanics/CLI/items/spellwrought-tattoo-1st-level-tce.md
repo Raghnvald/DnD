@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/tattoo
-aliases: 
+aliases:
 - "Spellwrought Tattoo (1st Level)"
 ---
 # Spellwrought Tattoo (1st Level)

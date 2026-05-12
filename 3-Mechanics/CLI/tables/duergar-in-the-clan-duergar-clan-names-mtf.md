@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Duergar in the Clan; Duergar Clan Names
+- "Duergar in the Clan; Duergar Clan Names"
 ---
 # Duergar in the Clan; Duergar Clan Names
 *Source: Mordenkainen's Tome of Foes p. 84* 
 
 **Duergar Clan Names**
-
-`dice: [](duergar-in-the-clan-duergar-clan-names-mtf.md#^duergar-clan-names)`
 
 | dice: d12 | Name |
 |-----------|------|

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dolphin
+- "Dolphin"
 ---
-# [Dolphin](3-Mechanics\CLI\bestiary\beast/dolphin-mpmm.md)
+# [Dolphin](3-Mechanics/CLI/bestiary/beast/dolphin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
@@ -42,25 +42,25 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
   - !!int "7"
 "speed": "0 ft., swim 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 13"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "1/8"
 "traits":
   - "desc": "The dolphin can hold its breath for 20 minutes."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage. If the dolphin moved at least 30 feet straight toward\
-      \ the target immediately before the hit, the target takes an extra 3 (1d6) bludgeoning\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage. If the dolphin moved at least 30 feet straight\
+      \ toward the target immediately before the hit, the target takes an extra 3\
+      \ (1d6) bludgeoning damage."
     "name": "Slam"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp"
 ```
 ^statblock
 

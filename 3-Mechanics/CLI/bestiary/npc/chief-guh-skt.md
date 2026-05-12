@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/5
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Chief Guh
+- "Chief Guh"
 ---
-# [Chief Guh](3-Mechanics\CLI\bestiary\npc/chief-guh-skt.md)
+# [Chief Guh](3-Mechanics/CLI/bestiary/npc/chief-guh-skt.md)
 *Source: Storm King's Thunder p. 140*  
 
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can,bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
@@ -96,25 +96,27 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - !!int "6"
 "speed": "0 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Giant, Goblin"
 "cr": "5"
 "actions":
   - "desc": "The giant makes two greatclub attacks or two unarmed attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (3d8 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (3d8 + 5) bludgeoning damage."
     "name": "Greatclub"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 12\
-      \ (3d4 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 12 (3d4 + 5) bludgeoning damage."
     "name": "Unarmed Attack"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:*\
       \ 21 (3d10 + 5) bludgeoning damage."
     "name": "Rock"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/chief-guh-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/chief-guh-skt.webp"
 ```
 ^statblock

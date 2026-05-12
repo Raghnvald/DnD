@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/drow
 - ttrpg-cli/domain/war
-aliases: 
-- Selvetarm
+aliases:
+- "Selvetarm"
 ---
 # Selvetarm
 *Source: Mordenkainen's Tome of Foes p. 54* 

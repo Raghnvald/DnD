@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Modron Tridrone
+- "Modron Tridrone"
 ---
-# [Modron Tridrone](3-Mechanics\CLI\bestiary\construct/modron-tridrone-xmm.md)
+# [Modron Tridrone](3-Mechanics/CLI/bestiary/construct/modron-tridrone-xmm.md)
 *Source: Monster Manual (2024) p. 217*  
 
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.
@@ -39,8 +39,6 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 Whether in service to lawful deities or as part of the Great Modron March, modrons travel from Mechanus to spread their vision of law to other planes of existence. Roll on or choose a result from the Modron Operations table to inspire what effort leads a group of modrons to other realms.
 
 **Modron Operations**
-
-`dice: [](modron-tridrone-xmm.md#^modron-operations)`
 
 | dice: 1d8 | The Modrons Work To... |
 |-----------|------------------------|
@@ -76,9 +74,9 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 10"
 "languages": "Modron"
 "cr": "1/2"
 "traits":
@@ -89,12 +87,12 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - "desc": "The modron makes three Clockwork Spear attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Attack Roll:* +3, reach 5 ft. or range 120 ft. *Hit:*\
-      \ 4 (1d6 + 1) Force damage. *Hit or Miss:* The spear magically returns to the\
-      \ modron's hand immediately after a ranged attack."
+      \ 4 (1d6 + 1) Force damage. *Hit or Miss:* The spear magically returns to\
+      \ the modron's hand immediately after a ranged attack."
     "name": "Clockwork Spear"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-tridrone-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/modron-tridrone-xmm.webp"
 ```
 ^statblock
 

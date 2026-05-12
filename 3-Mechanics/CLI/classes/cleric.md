@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/cleric
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Cleric
+- "Cleric"
 ---
 # Cleric
 *Source: Player's Handbook p. 56. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
@@ -51,18 +51,18 @@ aliases:
 ## Starting Cleric
 
 - **Saving Throws**: Charisma, Wisdom
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [shields](3-Mechanics/CLI/items/shield.md)
 - **Weapons**: simple weapons
 - **Tools**: none
-- **Skills**: choose 2 from [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), and [Religion](/3-Mechanics/CLI/skills.md#Religion)
+- **Skills**: choose 2 from [History](3-Mechanics/CLI/rules/skills.md#History), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [mace](/3-Mechanics/CLI/items/mace.md) or (b) a [warhammer](/3-Mechanics/CLI/items/warhammer.md) (if proficient)
-- (a) [scale mail](/3-Mechanics/CLI/items/scale-mail.md), (b) [leather armor](/3-Mechanics/CLI/items/leather-armor.md), or (c) [chain mail](/3-Mechanics/CLI/items/chain-mail.md) (if proficient)
-- (a) a [light crossbow](/3-Mechanics/CLI/items/light-crossbow.md) and [20 bolts](/3-Mechanics/CLI/items/crossbow-bolts-20.md) or (b) any simple weapon
-- (a) a [priest's pack](/3-Mechanics/CLI/items/priests-pack.md) or (b) an [explorer's pack](/3-Mechanics/CLI/items/explorers-pack.md)
-- A [shield](/3-Mechanics/CLI/items/shield.md) and a [holy symbol](/3-Mechanics/CLI/items/holy-symbol.md)
+- (a) a [mace](3-Mechanics/CLI/items/mace.md) or (b) a [warhammer](3-Mechanics/CLI/items/warhammer.md) (if proficient)
+- (a) [scale mail](3-Mechanics/CLI/items/scale-mail.md), (b) [leather armor](3-Mechanics/CLI/items/leather-armor.md), or (c) [chain mail](3-Mechanics/CLI/items/chain-mail.md) (if proficient)
+- (a) a [light crossbow](3-Mechanics/CLI/items/light-crossbow.md) and [20 bolts](3-Mechanics/CLI/items/crossbow-bolts-20.md) or (b) any simple weapon
+- (a) a [priest's pack](3-Mechanics/CLI/items/priests-pack.md) or (b) an [explorer's pack](3-Mechanics/CLI/items/explorers-pack.md)
+- A [shield](3-Mechanics/CLI/items/shield.md) and a [holy symbol](3-Mechanics/CLI/items/holy-symbol.md)
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -72,7 +72,7 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor), [medium armor](/3-Mechanics/CLI/item-types.md#Medium%20Armor), [shields](/3-Mechanics/CLI/items/shield.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor), [medium armor](3-Mechanics/CLI/rules/item-types.md#Medium%20Armor), [shields](3-Mechanics/CLI/items/shield.md)
 
 ## Cleric
 
@@ -108,7 +108,7 @@ Once you've chosen a deity, consider your cleric's relationship to that god. Did
 
 #### Quick Build
 
-You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [acolyte](/3-Mechanics/CLI/backgrounds/acolyte.md) background.
+You can make a cleric quickly by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Constitution. Second, choose the [acolyte](3-Mechanics/CLI/backgrounds/acolyte.md) background.
 
 > [!quote] A quote from Riggby the patriarch  
 > 
@@ -133,8 +133,6 @@ Some temples are cut off from the world so that their occupants can focus on dev
 
 **Temple**
 
-`dice: [](cleric.md#^temple)`
-
 | dice: d6 | Temple |
 |----------|--------|
 | 1 | Your temple is said to be the oldest surviving structure built to honor your god. |
@@ -151,8 +149,6 @@ _Source: Xanathar's Guide to Everything_
 Many clerics have items among their personal gear that symbolize their faith, remind them of their vows, or otherwise help to keep them on their chosen paths. Even though such an item is not imbued with divine power, it is vitally important to its owner because of what it represents.
 
 **Keepsake**
-
-`dice: [](cleric.md#^keepsake)`
 
 | dice: d6 | Keepsake |
 |----------|----------|
@@ -172,8 +168,6 @@ No mortal soul is entirely free of second thoughts or doubt. Even a cleric must 
 If you haven't considered this aspect of your character yet, see the table entries for some possibilities, or use them for inspiration. Your deep, dark secret might involve something you did (or are doing), or it could be rooted in the way you feel about the world and your role in it.
 
 **Secret**
-
-`dice: [](cleric.md#^secret)`
 
 | dice: d6 | Secret |
 |----------|--------|
@@ -202,43 +196,31 @@ If you haven't considered this aspect of your character yet, see the table entri
 
 As a conduit for divine power, you can cast cleric spells. See "chapter 10" for the general rules of spellcasting and "chapter 11" for a selection of cleric spells.
 
-#### Cantrips
+**Cantrips.** At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
 
-At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table.
-
-#### Preparing and Casting Spells
-
-The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Cleric table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](/3-Mechanics/CLI/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md), you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Wisdom is your spellcasting ability for your cleric spells. The power of your spells comes from your devotion to your deity. You use your Wisdom whenever a cleric spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a cleric spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Wisdom</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Wisdom</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
 
-You can cast a cleric spell as a ritual if that spell has the ritual tag and you have the spell prepared.
-
-#### Spellcasting Focus
-
-You can use a [holy symbol](/3-Mechanics/CLI/items/holy-symbol.md) as a spellcasting focus for your cleric spells.
+**Spellcasting Focus.** You can use a [holy symbol](3-Mechanics/CLI/items/holy-symbol.md) as a spellcasting focus for your cleric spells.
 
 ### Divine Domain (Level 1)
 
 Choose one domain related to your deity from the list of available domains. Each domain is detailed in their own feature, and each one provides examples of gods associated with it. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-#### Domain Spells
-
-Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+**Domain Spells.** Each domain has a list of spells—its domain spells—that you gain at the cleric levels noted in the domain description. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
 
 If you have a domain spell that doesn't appear on the cleric spell list, the spell is nonetheless a cleric spell for you.
 
@@ -256,7 +238,7 @@ Beginning at 6th level, you can use your Channel Divinity twice between rests, a
 
 As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
-A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](/3-Mechanics/CLI/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](/3-Mechanics/CLI/actions.md#Dodge) action.
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action.
 
 ### Channel Divinity: Harness Divine Power (Level 2)
 _Source: Tasha's Cauldron of Everything p. 30_

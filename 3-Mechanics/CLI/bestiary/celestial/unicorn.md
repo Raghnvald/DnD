@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Unicorn
+- "Unicorn"
 ---
-# [Unicorn](3-Mechanics\CLI\bestiary\celestial/unicorn.md)
+# [Unicorn](3-Mechanics/CLI/bestiary/celestial/unicorn.md)
 *Source: Monster Manual p. 294. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
@@ -72,24 +72,24 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
   - !!int "16"
 "speed": "50 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "5"
 "traits":
   - "desc": "The unicorn's innate spellcasting ability is Charisma (spell save DC\
       \ 14). The unicorn can innately cast the following spells, requiring no components:\n\
-      \n**At will:** [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good.md),\
-      \ [druidcraft](/3-Mechanics/CLI/spells/druidcraft.md), [pass without trace](/3-Mechanics/CLI/spells/pass-without-trace.md)\n\
-      \n**1/day each:** [calm emotions](/3-Mechanics/CLI/spells/calm-emotions.md),\
-      \ [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good.md), [entangle](/3-Mechanics/CLI/spells/entangle.md)"
+      \n**At will:** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good.md),\
+      \ [druidcraft](3-Mechanics/CLI/spells/druidcraft.md), [pass without trace](3-Mechanics/CLI/spells/pass-without-trace.md)\n\
+      \n**1/day each:** [calm emotions](3-Mechanics/CLI/spells/calm-emotions.md),\
+      \ [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md), [entangle](3-Mechanics/CLI/spells/entangle.md)"
     "name": "Innate Spellcasting"
   - "desc": "If the unicorn moves at least 20 feet straight toward a target and then\
       \ hits it with a horn attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 15 Strength\
-      \ saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The unicorn has advantage on saving throws against spells and other magical\
       \ effects."
@@ -102,8 +102,8 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) piercing damage."
     "name": "Horn"
   - "desc": "The unicorn touches another creature with its horn. The target magically\
       \ regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases\
@@ -119,8 +119,8 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
       \ non magical nature are extinguished within the unicorn's domain. Torches and\
       \ campfires refuse to burn, but closed lanterns are unaffected.  \n- Creatures\
       \ native to the unicorn's domain have an easier time hiding; they have advantage\
-      \ on all Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made\
-      \ to hide.  \n- When a good-aligned creature casts a spell or uses a magical\
+      \ on all Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks\
+      \ made to hide.  \n- When a good-aligned creature casts a spell or uses a magical\
       \ effect that causes another good-aligned creature to regain hit points, the\
       \ target regains the maximum number of hit points possible for the spell or\
       \ effect.  \n- Curses affecting any good-aligned creature are suppressed.  \n\
@@ -140,7 +140,7 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
     "name": "Heal Self (Costs 3 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/unicorn.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/unicorn.webp"
 ```
 ^statblock
 

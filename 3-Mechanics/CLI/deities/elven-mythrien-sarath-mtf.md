@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Mythrien Sarath
+aliases:
+- "Mythrien Sarath"
 ---
 # Mythrien Sarath
 *Source: Mordenkainen's Tome of Foes p. 43* 

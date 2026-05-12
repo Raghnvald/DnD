@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/hobgoblin
 aliases:
-- Hobgoblin
+- "Hobgoblin"
 ---
 # Hobgoblin
-*Source: Volo's Guide to Monsters p. 119, Explorer's Guide to Wildemount p. 175*  
-![](/3-Mechanics/CLI/races/img/hobgoblin.webp#right)
+*Source: Volo's Guide to Monsters p. 119*  
+![](3-Mechanics/CLI/races/img/hobgoblin.webp#right)
 
 - **Ability Scores**: con +2 int +1
 - **Size**: Medium

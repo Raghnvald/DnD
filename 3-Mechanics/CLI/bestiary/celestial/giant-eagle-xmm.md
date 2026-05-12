@@ -14,14 +14,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Eagle
+- "Giant Eagle"
 ---
-# [Giant Eagle](3-Mechanics\CLI\bestiary\celestial/giant-eagle-xmm.md)
+# [Giant Eagle](3-Mechanics/CLI/bestiary/celestial/giant-eagle-xmm.md)
 *Source: Monster Manual (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Giant Eagle (XMM)"
@@ -41,7 +41,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "10"
 "speed": "10 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "necrotic, radiant"
 "senses": "passive Perception 16"
@@ -51,12 +51,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "actions":
   - "desc": "The eagle makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing damage\
-      \ plus 3 (1d6) Radiant damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 5 (1d4 + 3) Slashing\
+      \ damage plus 3 (1d6) Radiant damage."
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/giant-eagle-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/giant-eagle-xmm.webp"
 ```
 ^statblock
 

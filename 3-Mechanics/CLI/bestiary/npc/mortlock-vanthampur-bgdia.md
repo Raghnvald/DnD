@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mortlock Vanthampur
+- "Mortlock Vanthampur"
 ---
-# [Mortlock Vanthampur](3-Mechanics\CLI\bestiary\npc/mortlock-vanthampur-bgdia.md)
+# [Mortlock Vanthampur](3-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 26*  
 
 Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by his older brothers, Thurstwell and Amrik, who view him as a simpleton and an abomination. Half of Mortlock's face was scarred by fire when he was a child, and his disfigurement gives him a fearsome countenance.
@@ -36,10 +36,13 @@ Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by h
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+6"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+5"
+"gear":
+  - "greatclub"
+  - "heavy crossbow"
 "senses": "passive Perception 11"
 "languages": "Common"
 "cr": "3"
@@ -50,15 +53,15 @@ Mortlock is tolerated by his mother, Duke Thalamra Vanthampur, and despised by h
 "actions":
   - "desc": "Mortlock makes two attacks with his greatclub."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) bludgeoning damage, plus 5 (2d4) bludgeoning damage if Mortlock has taken\
-      \ any damage since his last turn."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) bludgeoning damage, plus 5 (2d4) bludgeoning damage if Mortlock\
+      \ has taken any damage since his last turn."
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 100/400 ft., one target. *Hit:*\
       \ 7 (1d10 + 2) piercing damage."
     "name": "Heavy Crossbow"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/mortlock-vanthampur-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/mortlock-vanthampur-bgdia.webp"
 ```
 ^statblock

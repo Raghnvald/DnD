@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Black Dragon; Black Dragon Personality Traits
+- "Creating a Black Dragon; Black Dragon Personality Traits"
 ---
 # Creating a Black Dragon; Black Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 80* 
 
 **Black Dragon Personality Traits**
-
-`dice: [](creating-a-black-dragon-black-dragon-personality-traits-ftd.md#^black-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

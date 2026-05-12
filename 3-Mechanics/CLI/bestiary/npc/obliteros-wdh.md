@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Obliteros
+- "Obliteros"
 ---
-# [Obliteros](3-Mechanics\CLI\bestiary\npc/obliteros-wdh.md)
+# [Obliteros](3-Mechanics/CLI/bestiary/npc/obliteros-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 66*  
 
 An awakened Giant Shark who inhabits the harbor around Mistshore.
@@ -36,9 +36,10 @@ An awakened Giant Shark who inhabits the harbor around Mistshore.
   - !!int "5"
 "speed": "0 ft., swim 50 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "blindsight 60 ft., passive Perception 13"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 13"
 "languages": "Aquan"
 "cr": "5"
 "traits":
@@ -53,6 +54,6 @@ An awakened Giant Shark who inhabits the harbor around Mistshore.
     "name": "Bite"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/obliteros-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/obliteros-wdh.webp"
 ```
 ^statblock

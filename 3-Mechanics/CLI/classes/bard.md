@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/bard
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Bard
+- "Bard"
 ---
 # Bard
 *Source: Player's Handbook p. 51. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
@@ -51,17 +51,17 @@ aliases:
 ## Starting Bard
 
 - **Saving Throws**: Charisma, Dexterity
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor)
-- **Weapons**: simple weapons, [hand crossbows](/3-Mechanics/CLI/items/hand-crossbow.md), [longswords](/3-Mechanics/CLI/items/longsword.md), [rapiers](/3-Mechanics/CLI/items/rapier.md), [shortswords](/3-Mechanics/CLI/items/shortsword.md)
-- **Tools**: three [musical instruments](/3-Mechanics/CLI/items/musical-instrument.md) of your choice
-- **Skills**: choose any 3 [skills](/3-Mechanics/CLI/skills.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Weapons**: simple weapons, [hand crossbows](3-Mechanics/CLI/items/hand-crossbow.md), [longswords](3-Mechanics/CLI/items/longsword.md), [rapiers](3-Mechanics/CLI/items/rapier.md), [shortswords](3-Mechanics/CLI/items/shortsword.md)
+- **Tools**: three [musical instruments](3-Mechanics/CLI/items/musical-instrument.md) of your choice
+- **Skills**: choose any 3 [skills](3-Mechanics/CLI/rules/skills.md)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [rapier](/3-Mechanics/CLI/items/rapier.md), (b) a [longsword](/3-Mechanics/CLI/items/longsword.md), or (c) any simple weapon
-- (a) a [diplomat's pack](/3-Mechanics/CLI/items/diplomats-pack.md) or (b) an [entertainer's pack](/3-Mechanics/CLI/items/entertainers-pack.md)
-- (a) a [lute](/3-Mechanics/CLI/items/lute.md) or (b) any other musical instrument
-- [Leather armor](/3-Mechanics/CLI/items/leather-armor.md), and a [dagger](/3-Mechanics/CLI/items/dagger.md)
+- (a) a [rapier](3-Mechanics/CLI/items/rapier.md), (b) a [longsword](3-Mechanics/CLI/items/longsword.md), or (c) any simple weapon
+- (a) a [diplomat's pack](3-Mechanics/CLI/items/diplomats-pack.md) or (b) an [entertainer's pack](3-Mechanics/CLI/items/entertainers-pack.md)
+- (a) a [lute](3-Mechanics/CLI/items/lute.md) or (b) any other musical instrument
+- [Leather armor](3-Mechanics/CLI/items/leather-armor.md), and a [dagger](3-Mechanics/CLI/items/dagger.md)
 
 Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
@@ -71,9 +71,9 @@ Alternatively, you may start with 5d4 × 10 gp to buy your own equipment.
 
 When you gain a level in a class other than your first, you gain only some of that class's starting proficiencies.
 
-- **Armor**: [light armor](/3-Mechanics/CLI/item-types.md#Light%20Armor)
-- **Tools**: one [musical instrument](/3-Mechanics/CLI/items/musical-instrument.md) of your choice
-- **Skills**: choose any 1 [skill](/3-Mechanics/CLI/skills.md)
+- **Armor**: [light armor](3-Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Tools**: one [musical instrument](3-Mechanics/CLI/items/musical-instrument.md) of your choice
+- **Skills**: choose any 1 [skill](3-Mechanics/CLI/rules/skills.md)
 
 ## Bard
 
@@ -105,7 +105,7 @@ Did you serve an apprenticeship, studying under a master, following the more exp
 
 #### Quick Build
 
-You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [entertainer](/3-Mechanics/CLI/backgrounds/entertainer.md) background. Third, choose the [dancing lights](/3-Mechanics/CLI/spells/dancing-lights.md) and [vicious mockery](/3-Mechanics/CLI/spells/vicious-mockery.md) cantrips, along with the following 1st-level spells: [charm person](/3-Mechanics/CLI/spells/charm-person.md), [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [healing word](/3-Mechanics/CLI/spells/healing-word.md), and [thunderwave](/3-Mechanics/CLI/spells/thunderwave.md).
+You can make a bard quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Dexterity. Second, choose the [entertainer](3-Mechanics/CLI/backgrounds/entertainer.md) background. Third, choose the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) and [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery.md) cantrips, along with the following 1st-level spells: [charm person](3-Mechanics/CLI/spells/charm-person.md), [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [healing word](3-Mechanics/CLI/spells/healing-word.md), and [thunderwave](3-Mechanics/CLI/spells/thunderwave.md).
 
 > [!quote] A quote from Fletcher Danairia, master bard  
 > 
@@ -134,8 +134,6 @@ If your character is just starting out, your ultimate defining work is likely in
 
 **Defining Work**
 
-`dice: [](bard.md#^defining-work)`
-
 | dice: d6 | Defining Work |
 |----------|---------------|
 | 1 | "The Three Flambinis," a ribald song concerning mistaken identities and unfettered desire |
@@ -155,14 +153,12 @@ You might have an "off the rack" instrument, perhaps because it's all you can af
 
 **Instrument**
 
-`dice: [](bard.md#^instrument)`
-
 | dice: d6 | Instrument |
 |----------|------------|
 | 1 | A masterfully crafted halfling fiddle |
-| 2 | A mithral [horn](/3-Mechanics/CLI/items/horn.md) made by elves |
+| 2 | A mithral [horn](3-Mechanics/CLI/items/horn.md) made by elves |
 | 3 | A zither made with drow spider silk |
-| 4 | An orcish [drum](/3-Mechanics/CLI/items/drum.md) |
+| 4 | An orcish [drum](3-Mechanics/CLI/items/drum.md) |
 | 5 | A wooden bullywug croak box |
 | 6 | A tinker's harp of gnomish design |
 ^instrument
@@ -176,8 +172,6 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 
 **Embarrassment**
 
-`dice: [](bard.md#^embarrassment)`
-
 | dice: d6 | Embarrassment |
 |----------|---------------|
 | 1 | The time when your comedic song, "Big Tom's Hijinks"—which, by the way, you thought was brilliant—did not go over well with Big Tom |
@@ -185,7 +179,7 @@ The ways that a performance can go wrong are as varied as the fish in the sea. N
 | 3 | When your opening song was your enthusiastic but universally hated rendition of "Song of the Froghemoth" |
 | 4 | The first and last public performance of "Mirt, Man about Town" |
 | 5 | The time on stage when your wig caught fire and you threw it down—which set fire to the stage |
-| 6 | When you sat on your [lute](/3-Mechanics/CLI/items/lute.md) by mistake during the final stanza of "Starlight Serenade" |
+| 6 | When you sat on your [lute](3-Mechanics/CLI/items/lute.md) by mistake during the final stanza of "Starlight Serenade" |
 ^embarrassment
 
 ## A Bard's Muse
@@ -216,51 +210,39 @@ Drama embodies conflict, and the best stories have conflict as a key element. Fr
 
 ### Bardic Inspiration (Level 1)
 
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a `dice:d6|noform|noparens|avg` (`d6`).
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a `d6`.
 
-Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the `dice:d20|noform|noparens|avg` (`d20`) before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
+Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the `d20` before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a `dice:d8|noform|noparens|avg` (`d8`) at 5th level, a `dice:d10|noform|noparens|avg` (`d10`) at 10th level, and a `dice:d12|noform|noparens|avg` (`d12`) at 15th level.
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a `d8` at 5th level, a `d10` at 10th level, and a `d12` at 15th level.
 
 ### Spellcasting (Level 1)
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music. Your spells are part of your vast repertoire, magic that you can tune to different situations. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the bard spell list.
 
-#### Cantrips
+**Cantrips.** You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
 
-You know two cantrips of your choice from the bard spell list. You learn additional bard cantrips of your choice at higher levels, learning a 3rd cantrip at 4th level and a 4th at 10th level.
+**Spell Slots.** The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
-#### Spell Slots
+For example, if you know the 1st-level spell [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) using either slot.
 
-The Bard table shows how many spell slots you have to cast your bard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
-
-For example, if you know the 1st-level spell [cure wounds](/3-Mechanics/CLI/spells/cure-wounds.md) and have a 1st-level and a 2nd-level spell slot available, you can cast [cure wounds](/3-Mechanics/CLI/spells/cure-wounds.md) using either slot.
-
-#### Spells Known of 1st Level and Higher
-
-You know four 1st-level spells of your choice from the bard spell list.
+**Spells Known of 1st Level and Higher.** You know four 1st-level spells of your choice from the bard spell list.
 
 You learn an additional bard spell of your choice at each level except 12th, 16th, 19th, and 20th. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
 Additionally, when you gain a level in this class, you can choose one of the bard spells you know and replace it with another spell from the bard spell list, which also must be of a level for which you have spell slots.
 
-#### Spellcasting Ability
-
-Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Charisma is your spellcasting ability for your bard spells. Your magic comes from the heart and soul you pour into the performance of your music or oration. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Charisma</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Charisma</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast any bard spell you know as a ritual if that spell has the ritual tag.
 
-You can cast any bard spell you know as a ritual if that spell has the ritual tag.
-
-#### Spellcasting Focus
-
-You can use a [musical instrument](/3-Mechanics/CLI/items/musical-instrument.md) as a spellcasting focus for your bard spells.
+**Spellcasting Focus.** You can use a [musical instrument](3-Mechanics/CLI/items/musical-instrument.md) as a spellcasting focus for your bard spells.
 
 ### Jack of All Trades (Level 2)
 
@@ -268,9 +250,9 @@ Starting at 2nd level, you can add half your proficiency bonus, rounded down, to
 
 ### Song of Rest (d6) (Level 2)
 
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra `dice:1d6|noform|noparens|avg` (`1d6`) hit points.
+Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra `1d6` hit points.
 
-The extra hit points increase when you reach certain levels in this class: to `dice:1d8|noform|noparens|avg` (`1d8`) at 9th level, to `dice:1d10|noform|noparens|avg` (`1d10`) at 13th level, and to `dice:1d12|noform|noparens|avg` (`1d12`) at 17th level.
+The extra hit points increase when you reach certain levels in this class: to `1d8` at 9th level, to `1d10` at 13th level, and to `1d12` at 17th level.
 
 ### Magical Inspiration (Level 2)
 _Source: Tasha's Cauldron of Everything p. 27_
@@ -307,7 +289,7 @@ Whenever you reach a level in this class that grants the Ability Score Improveme
 
 ### Bardic Inspiration (d8) (Level 5)
 
-At 5th level, your Bardic Inspiration die changes to a `dice:d8|noform|noparens|avg` (`d8`).
+At 5th level, your Bardic Inspiration die changes to a `d8`.
 
 ### Font of Inspiration (Level 5)
 
@@ -315,7 +297,7 @@ Beginning when you reach 5th level, you regain all of your expended uses of Bard
 
 ### Countercharm (Level 6)
 
-At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](/3-Mechanics/CLI/conditions.md#Frightened) or [charmed](/3-Mechanics/CLI/conditions.md#Charmed). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or silenced or if you voluntarily end it (no action required).
+At 6th level, you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) or [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed). A creature must be able to hear you to gain this benefit. The performance ends early if you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or silenced or if you voluntarily end it (no action required).
 
 ### Bard College feature (Level 6)
 
@@ -329,11 +311,11 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d8) (Level 9)
 
-At 9th level, the extra hit points gained from Song of Rest increases to `dice:1d8|noform|noparens|avg` (`1d8`).
+At 9th level, the extra hit points gained from Song of Rest increases to `1d8`.
 
 ### Bardic Inspiration (d10) (Level 10)
 
-At 10th level, your Bardic Inspiration die changes to a `dice:d10|noform|noparens|avg` (`d10`).
+At 10th level, your Bardic Inspiration die changes to a `d10`.
 
 ### Expertise (Level 10)
 
@@ -355,7 +337,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d10) (Level 13)
 
-At 13th level, the extra hit points gained from Song of Rest increases to `dice:1d10|noform|noparens|avg` (`1d10`).
+At 13th level, the extra hit points gained from Song of Rest increases to `1d10`.
 
 ### Magical Secrets (Level 14)
 
@@ -369,7 +351,7 @@ At 14th level, you gain a feature from your Bard College.
 
 ### Bardic Inspiration (d12) (Level 15)
 
-At 15th level, your Bardic Inspiration die changes to a `dice:d12|noform|noparens|avg` (`d12`).
+At 15th level, your Bardic Inspiration die changes to a `d12`.
 
 ### Ability Score Improvement (Level 16)
 
@@ -379,7 +361,7 @@ If your DM allows the use of feats, you may instead take a feat.
 
 ### Song of Rest (d12) (Level 17)
 
-At 17th level, the extra hit points gained from Song of Rest increases to `dice:1d12|noform|noparens|avg` (`1d12`).
+At 17th level, the extra hit points gained from Song of Rest increases to `1d12`.
 
 ### Magical Secrets (Level 18)
 

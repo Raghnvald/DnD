@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Manual of Quickness of Action"
 ---
 # Manual of Quickness of Action
 *Wondrous item, major, very rare*  
-![](/3-Mechanics/CLI/items/img/manual-of-quickness-of-action.webp#right)
+![](3-Mechanics/CLI/items/img/manual-of-quickness-of-action.webp#right)
 
 - **Weight**: 5.0 lbs.
 

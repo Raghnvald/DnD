@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- City Government; Sharn Councilors
+- "City Government; Sharn Councilors"
 ---
 # City Government; Sharn Councilors
 *Source: Eberron: Rising from the Last War p. 156* 
 
 **Sharn Councilors**
-
-`dice: [](city-government-sharn-councilors-erlw.md#^sharn-councilors)`
 
 | dice: d12 | Councilor |
 |-----------|-----------|
@@ -24,7 +22,7 @@ aliases:
 | 6 | **Shassa Tarr** (shifter), from Lower Northedge, represents the interests of the merchants and shifters of her ward. She is a cunning diplomat and devoted to her constituents. |
 | 7 | **Bestan ir'Tonn** (halfling) has represented Upper Tavick's Landing for thirty years, and largely views his ward as a separate city within the city. He has a reputation for stirring up conflict and setting the other councilors against one another. |
 | 8 | **Kilk** (changeling) represents the merchants of Lower Tavick's Landing. Whispered rumors suggest that the changeling has ties to the mysterious Tyrants. Some insist that Kilk is actually an identity shared by a group of changelings. |
-| 9 | **Hruitt** (owl) is a [giant owl](/3-Mechanics/CLI/bestiary/beast/giant-owl.md) who can assume human form. A former aerial racer, he's a clever negotiator who fights for the good of the Bazaar and Middle Dura, often opposing the Boromar Clan and its allies. |
+| 9 | **Hruitt** (owl) is a giant owl who can assume human form. A former aerial racer, he's a clever negotiator who fights for the good of the Bazaar and Middle Dura, often opposing the Boromar Clan and its allies. |
 | 10 | **Ilyra Boromar** (halfling) is the councilor for Lower Dura, but it's common knowledge that her true allegiance is to her family and its criminal empire. The current ongoing conflict with Daask has weakened her family and her position. |
 | 11 | **Evix ir'Marasha** (human) represents Skyway. Lady Marasha owns the Celestial Vista restaurant, along with several other valuable businesses. She's an eloquent speaker who supports many radical positions, including abolishing the monarchy after the death of King Boranel and recognizing Sharn as an independent province. |
 | 12 | **Nolan Toranak** (dwarf), the councilor for the Cogs, is largely seen as a tool of the industrialists who own the foundries there. Members of his family were killed by warforged during the Last War, and Toranak harbors a bitter grudge against House Cannith and the warforged. He has tried to have warforged reclassified as property, and seeks to suppress warforged activists in the Cogs. |

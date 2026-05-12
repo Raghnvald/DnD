@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Intelligent Black Pudding
+- "Intelligent Black Pudding"
 ---
-# [Intelligent Black Pudding](3-Mechanics\CLI\bestiary\ooze/intelligent-black-pudding-wdmm.md)
+# [Intelligent Black Pudding](3-Mechanics/CLI/bestiary/ooze/intelligent-black-pudding-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 244*  
 
 ```statblock
@@ -33,15 +33,20 @@ aliases:
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": "Elvish and Undercommon but can't speak"
 "cr": "4"
 "traits":
   - "desc": "The pudding's spellcasting ability is Intelligence (spell save DC 12,\
       \ +4 to hit with spell attacks). It can cast the following spells, requiring\
-      \ no components:\n\n**At will:** dancing lights, mage hand\n\n**3/day each:**\
-      \ darkness, faerie fire, shield\n\n**1/day:** Melf's acid arrow"
+      \ no components:\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\n**3/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md),\
+      \ [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\
+      \n**1/day:** [Melf's acid arrow](3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "The pudding can move through a space as narrow as 1 inch wide without\
       \ squeezing."
@@ -58,8 +63,8 @@ aliases:
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical\
       \ armor worn by the target is partly dissolved and takes a permanent and cumulative\
       \ −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces\
       \ its AC to 10."
@@ -72,6 +77,6 @@ aliases:
     "name": "Split"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/intelligent-black-pudding-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/intelligent-black-pudding-wdmm.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/28
-- new/monster/size/large
-- new/monster/type/fiend
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/28
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sul Khatesh
+- "Sul Khatesh"
 ---
-# [Sul Khatesh](3-Mechanics\CLI\bestiary\npc/sul-khatesh-erlw.md)
+# [Sul Khatesh](3-Mechanics/CLI/bestiary/npc/sul-khatesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 304*  
 
 Sul Khatesh is known as the Keeper of Secrets and the Queen of Shadows. She embodies the fears and superstitions surrounding magic, from malevolent warlocks to mad wizards, from deadly curses to magical power that draws those who wield it deeper into darkness.
@@ -98,14 +98,14 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
   - "desc": "*Ranged Spell Attack:* +18 to hit, range 120 ft., one target. *Hit:*\
       \ 15 (1d10 + 10) force damage."
     "name": "Arcane Blast"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 36\
-      \ (5d12 + 4) force damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 36 (5d12 + 4) force damage."
     "name": "Magic Staff"
   - "desc": "Sul Khatesh conjures orbs of magical energy that plummet to the ground\
       \ at three different points she can see within 1 mile of her. Each creature\
       \ in a 40-foot-radius sphere centered on each point must make a DC 26 Dexterity\
-      \ saving throw, taking 71 (11d12) force damage on a failed save or half as much\
-      \ damage on a successful one. A creature in the area of more than one arcane\
+      \ saving throw, taking 71 (11d12) force damage on a failed save or half as\
+      \ much damage on a successful one. A creature in the area of more than one arcane\
       \ burst is affected only once. The area of each arcane burst then acts as an\
       \ antimagic field for 1 hour. Sul Khatesh and spells she casts are unaffected\
       \ by these fields."
@@ -141,6 +141,6 @@ Some thirty overlords are bound in Khyber. Two are described here: Rak Tulkhesh 
     "name": "Maddening Secrets (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sul-khatesh-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sul-khatesh-erlw.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Books
+- "Swarm of Books"
 ---
-# [Swarm of Books](3-Mechanics\CLI\bestiary\construct/swarm-of-books-wdh.md)
+# [Swarm of Books](3-Mechanics/CLI/bestiary/construct/swarm-of-books-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 156*  
 
 Animated books which form a swarm when disturbed
@@ -35,9 +35,12 @@ Animated books which form a swarm when disturbed
   - !!int "4"
 "speed": "0 ft., fly 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "charmed, frightened, paralyzed, petrified, prone, restrained,\
-  \ stunned, grappled"
-"senses": "blindsight 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -46,12 +49,12 @@ Animated books which form a swarm when disturbed
       \ can't regain hit points or gain temporary hit points."
     "name": "Swarm"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's\
-      \ space. *Hit:* 5 (2d4) bludgeoning damage, or 2 (1d4) bludgeoning damage if\
-      \ the swarm has half of its hit points or fewer."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the\
+      \ swarm's space. *Hit:* 5 (2d4) bludgeoning damage, or 2 (1d4) bludgeoning\
+      \ damage if the swarm has half of its hit points or fewer."
     "name": "Slam"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/swarm-of-books-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/swarm-of-books-wdh.webp"
 ```
 ^statblock

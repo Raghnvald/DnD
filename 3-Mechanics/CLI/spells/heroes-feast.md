@@ -14,7 +14,7 @@ classes:
 - Cleric
 - Druid
 aliases:
-- Heroes' Feast
+- "Heroes' Feast"
 ---
 # Heroes' Feast
 *6th-level, Conjuration*  
@@ -27,8 +27,8 @@ aliases:
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 
-A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `dice:2d10|noform|noparens|avg` (`2d10`), and it gains the same number of hit points. These benefits last for 24 hours.
+A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poison, becomes immune to poison and being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by `2d10`, and it gains the same number of hit points. These benefits last for 24 hours.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md)
 
 *Source: Player's Handbook p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Copper Dragon; Copper Dragon Personality Traits
+- "Creating a Copper Dragon; Copper Dragon Personality Traits"
 ---
 # Creating a Copper Dragon; Copper Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 99* 
 
 **Copper Dragon Personality Traits**
-
-`dice: [](creating-a-copper-dragon-copper-dragon-personality-traits-ftd.md#^copper-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

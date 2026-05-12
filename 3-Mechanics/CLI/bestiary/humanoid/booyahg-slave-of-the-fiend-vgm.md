@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Slave of the Fiend
+- "Booyahg Slave of the Fiend"
 ---
-# [Booyahg Slave of the Fiend](3-Mechanics\CLI\bestiary\humanoid/booyahg-slave-of-the-fiend-vgm.md)
+# [Booyahg Slave of the Fiend](3-Mechanics/CLI/bestiary/humanoid/booyahg-slave-of-the-fiend-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "78"
 "hit_dice": "12d8 + 24"
 "modifier": !!int "2"
@@ -48,16 +48,18 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "wisdom": !!int "4"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+7"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+7"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
 "damage_resistances": "slashing from nonmagical attacks not made with silvered weapons"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"gear":
+  - "[mace](3-Mechanics/CLI/items/mace-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 11"
 "languages": "any two languages (usually Abyssal or Infernal), Goblin"
 "cr": "7"
@@ -65,39 +67,39 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - "desc": "The goblin is a 17th-level spellcaster. Its spellcasting ability is Charisma\
       \ (spell save DC 15, +7 to hit with spell attacks). It regains its expended\
       \ spell slots when it finishes a short or long rest. It knows the following\
-      \ warlock spells:\n\n**Cantrips (at will):** [eldritch blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md),\
-      \ [fire bolt](/3-Mechanics/CLI/spells/fire-bolt-xphb.md), [friends](/3-Mechanics/CLI/spells/friends-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md), [shocking\
-      \ grasp](/3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n**1st-5th level\
-      \ (4 slots):** [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md), [burning\
-      \ hands](/3-Mechanics/CLI/spells/burning-hands-xphb.md), [flame strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md),\
-      \ [hellish rebuke](/3-Mechanics/CLI/spells/hellish-rebuke-xphb.md), [magic circle](/3-Mechanics/CLI/spells/magic-circle-xphb.md),\
-      \ [scorching ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md), [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md),\
-      \ [stinking cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md),\
-      \ [wall of fire](/3-Mechanics/CLI/spells/wall-of-fire-xphb.md)"
+      \ warlock spells:\n\n**Cantrips (at will):** [eldritch blast](3-Mechanics/CLI/spells/eldritch-blast-xphb.md),\
+      \ [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [friends](3-Mechanics/CLI/spells/friends-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [shocking\
+      \ grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\n**1st-5th level (4\
+      \ slots):** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [burning\
+      \ hands](3-Mechanics/CLI/spells/burning-hands-xphb.md), [flame strike](3-Mechanics/CLI/spells/flame-strike-xphb.md),\
+      \ [hellish rebuke](3-Mechanics/CLI/spells/hellish-rebuke-xphb.md), [magic circle](3-Mechanics/CLI/spells/magic-circle-xphb.md),\
+      \ [scorching ray](3-Mechanics/CLI/spells/scorching-ray-xphb.md), [scrying](3-Mechanics/CLI/spells/scrying-xphb.md),\
+      \ [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The goblin's innate spellcasting ability is Charisma. It can innately\
       \ cast the following spells (spell save DC 15), requiring no material components:\n\
-      \n**At will:** [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [false\
-      \ life](/3-Mechanics/CLI/spells/false-life-xphb.md), [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\
-      \ (self only), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md) (self\
-      \ only), [silent image](/3-Mechanics/CLI/spells/silent-image-xphb.md)\n\n**1/day\
-      \ each:** [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md), [finger\
-      \ of death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md), [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)"
+      \n**At will:** [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md), [false\
+      \ life](3-Mechanics/CLI/spells/false-life-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
+      \ (self only), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md) (self\
+      \ only), [silent image](3-Mechanics/CLI/spells/silent-image-xphb.md)\n\n**1/day\
+      \ each:** [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md), [finger\
+      \ of death](3-Mechanics/CLI/spells/finger-of-death-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "When the goblin makes an ability check or saving throw, it can add a\
-      \ d10 to the roll. It can do this after the roll is made but before any of the\
-      \ roll's effects occur."
+      \ d10 to the roll. It can do this after the roll is made but before any of\
+      \ the roll's effects occur."
     "name": "Dark One's Own Luck (Recharges after a Short or Long Rest)"
   - "desc": "The goblin"
     "name": "Nimble Escape"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage plus 10 (3d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage plus 10 (3d6) fire damage."
     "name": "Mace"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/booyahg-slave-of-the-fiend-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-slave-of-the-fiend-vgm.webp"
 ```
 ^statblock

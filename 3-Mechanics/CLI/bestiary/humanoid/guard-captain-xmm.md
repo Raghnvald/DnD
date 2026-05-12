@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guard Captain
+- "Guard Captain"
 ---
-# [Guard Captain](3-Mechanics\CLI\bestiary\humanoid/guard-captain-xmm.md)
+# [Guard Captain](3-Mechanics/CLI/bestiary/humanoid/guard-captain-xmm.md)
 *Source: Monster Manual (2024) p. 162. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Guard captains often have ample professional experience. They might be accomplished bodyguards, protectors of magic treasures, veteran watch members, or similar wardens.
@@ -23,7 +23,7 @@ Guard captains often have ample professional experience. They might be accomplis
 *Sentries and Watch Members*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Guards protect people, places, and things, either for pay or from a sense of duty. They might perform their duties vigilantly or distractedly. Some raise alarms at the first sign of danger and defend their charges with their lives. Others flee outright if their compensation doesn't match the danger they face.
 
@@ -50,24 +50,30 @@ Guards protect people, places, and things, either for pay or from a sense of dut
   - !!int "13"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
+"gear":
+  - "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
+  - "six [javelins](3-Mechanics/CLI/items/javelin-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+  - "[shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "4"
 "actions":
   - "desc": "The guard makes two attacks, using Javelin or Longsword in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft. *Hit:*\
-      \ 14 (3d6 + 4) Piercing damage."
+  - "desc": "*Melee  or Ranged Attack Roll:* +6, reach 5 ft. or range 30/120 ft.\
+      \ *Hit:* 14 (3d6 + 4) Piercing damage."
     "name": "Javelin"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 15 (2d10 + 4) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 15 (2d10 + 4) Slashing\
+      \ damage."
     "name": "Longsword"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/guard-captain-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/guard-captain-xmm.webp"
 ```
 ^statblock
 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Half-Dragon
+- "Half-Dragon"
 ---
-# [Half-Dragon](3-Mechanics\CLI\bestiary\dragon/half-dragon-xmm.md)
+# [Half-Dragon](3-Mechanics/CLI/bestiary/dragon/half-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 163. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Half-Dragon
@@ -21,7 +21,7 @@ aliases:
 *Warrior Created by Dragons*
 
 - **Habitat.** Any  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Born through magical rites involving the essences of dragons, half-dragons serve their creators and their own draconic whims. Most half-dragons are created by chromatic dragons who desire servants with some trace of their own might and grandeur. Half-dragons frequently command other servants of a villainous dragon or act as agents in lands where their draconic master would attract unwanted attention.
 
@@ -53,14 +53,14 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
   - "dexterity": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "Damage type chosen for the Draconic Origin trait below"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 15"
 "languages": "Common, Draconic"
 "cr": "5"
@@ -72,10 +72,10 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
 "actions":
   - "desc": "The half-dragon makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 6 (1d4 + 4) Slashing damage\
-      \ plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 6 (1d4 + 4) Slashing\
+      \ damage plus 7 (2d6) damage of the type chosen for the Draconic Origin trait."
     "name": "Claw"
-  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Dexterity Saving Throw:* DC 14, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* 28 (8d6) damage of the type chosen for the Draconic Origin trait.\
       \ *Success:* Half damage."
     "name": "Dragon's Breath (Recharge 5-6)"
@@ -84,7 +84,7 @@ Half-dragons share personality traits and agendas with the dragon who spawned th
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/half-dragon-xmm.webp"
 ```
 ^statblock
 

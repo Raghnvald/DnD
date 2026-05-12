@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- What's on the Bill?; Shows in Menthis
+- "What's on the Bill?; Shows in Menthis"
 ---
 # What's on the Bill?; Shows in Menthis
 *Source: Eberron: Rising from the Last War p. 170* 
 
 **Shows in Menthis**
-
-`dice: [](whats-on-the-bill-shows-in-menthis-erlw.md#^shows-in-menthis)`
 
 | dice: d8 | Event |
 |----------|-------|

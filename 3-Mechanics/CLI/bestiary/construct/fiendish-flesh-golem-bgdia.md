@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fiendish Flesh Golem
+- "Fiendish Flesh Golem"
 ---
-# [Fiendish Flesh Golem](3-Mechanics\CLI\bestiary\construct/fiendish-flesh-golem-bgdia.md)
+# [Fiendish Flesh Golem](3-Mechanics/CLI/bestiary/construct/fiendish-flesh-golem-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 236*  
 
 A fiendish flesh golem is a particularly big flesh golem made of stitched-together body parts from devils, demons, yugoloths, and other fiends. As these parts can come from different creatures and be combined in different ways, no two fiendish flesh golems look exactly alike. Night hags guard the secret to making such golems, rarely sharing it with anyone else.
@@ -40,11 +40,8 @@ Some fiendish flesh golems have wings. However, the magic used to create these g
 "damage_resistances": "cold, fire"
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine or silvered"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "8"
 "traits":
@@ -56,10 +53,9 @@ Some fiendish flesh golems have wings. However, the magic used to create these g
       \ to do so until it is destroyed or regains all its hit points. If the golem's\
       \ creator is within 60 feet of the berserk golem, the creator can try to calm\
       \ it by speaking firmly and persuasively. The golem must be able to hear its\
-      \ creator, who must take an action to make a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion))\
-      \ check. If the check succeeds, the golem ceases being berserk. If it takes\
-      \ damage while still at 100 hit points or fewer, the golem might go berserk\
-      \ again."
+      \ creator, who must take an action to make a DC 15 Charisma (Persuasion) check.\
+      \ If the check succeeds, the golem ceases being berserk. If it takes damage\
+      \ while still at 100 hit points or fewer, the golem might go berserk again."
     "name": "Berserk"
   - "desc": "The golem is immune to any spell or effect that would alter its form."
     "name": "Immutable Form"
@@ -79,6 +75,6 @@ Some fiendish flesh golems have wings. However, the magic used to create these g
     "name": "Slam"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/fiendish-flesh-golem-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/fiendish-flesh-golem-bgdia.webp"
 ```
 ^statblock

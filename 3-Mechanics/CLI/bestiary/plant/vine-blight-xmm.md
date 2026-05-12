@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vine Blight
+- "Vine Blight"
 ---
-# [Vine Blight](3-Mechanics\CLI\bestiary\plant/vine-blight-xmm.md)
+# [Vine Blight](3-Mechanics/CLI/bestiary/plant/vine-blight-xmm.md)
 *Source: Monster Manual (2024) p. 44*  
 
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
@@ -52,26 +52,26 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+1"
-"condition_immunities": "[deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "1/2"
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 10 ft. *Hit:* 6 (1d8 + 2) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ damage. If the target is a Large or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 12). Until the grapple ends, the target takes 4 (1d8)\
       \ Bludgeoning damage at the start of each of its turns, and the blight can't\
       \ make Constricting Vine attacks."
     "name": "Constricting Vine"
-  - "desc": "The blight casts the [Entangle](/3-Mechanics/CLI/spells/entangle-xphb.md)\
+  - "desc": "The blight casts the [Entangle](3-Mechanics/CLI/spells/entangle-xphb.md)\
       \ spell, using Constitution as the spellcasting ability (spell save DC 12).\n"
     "name": "Entangling Plants (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/vine-blight-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/vine-blight-xmm.webp"
 ```
 ^statblock
 

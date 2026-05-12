@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Dragonshield
+- "Kobold Dragonshield"
 ---
-# [Kobold Dragonshield](3-Mechanics\CLI\bestiary\dragon/kobold-dragonshield-mpmm.md)
+# [Kobold Dragonshield](3-Mechanics/CLI/bestiary/dragon/kobold-dragonshield-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
 > [!quote] A quote from Mordenkainen  
@@ -33,7 +33,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "type": "dragon"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[leather](/3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[leather](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d6 + 16"
 "modifier": !!int "2"
@@ -46,32 +46,34 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
   - !!int "10"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "see Dragon's Resistance below"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Draconic"
 "cr": "1"
 "traits":
   - "desc": "The kobold has resistance to a type of damage based on the color of dragon\
-      \ that invested it with power (choose or roll a d10): 1–2, acid (black or copper);\
-      \ 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning\
-      \ (blue or bronze); 9–10, poison (green)."
+      \ that invested it with power (choose or roll a d10): 1–2, acid (black or\
+      \ copper); 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–\
+      8, lightning (blue or bronze); 9–10, poison (green)."
     "name": "Dragon's Resistance"
-  - "desc": "If the kobold is [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
-      \ or [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) by an effect that\
-      \ allows a saving throw, it can repeat the save at the start of its turn to\
-      \ end the effect on itself and all kobolds within 30 feet of it. Any kobold\
+  - "desc": "If the kobold is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ or [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) by an effect\
+      \ that allows a saving throw, it can repeat the save at the start of its turn\
+      \ to end the effect on itself and all kobolds within 30 feet of it. Any kobold\
       \ that benefits from this trait (including the dragonshield) has advantage on\
       \ its next attack roll."
     "name": "Heart of the Dragon"
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
@@ -84,7 +86,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/kobold-dragonshield-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/kobold-dragonshield-mpmm.webp"
 ```
 ^statblock
 

@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Manticore
+- "Manticore"
 ---
-# [Manticore](3-Mechanics\CLI\bestiary\monstrosity/manticore-xmm.md)
+# [Manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore-xmm.md)
 *Source: Monster Manual (2024) p. 202. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Manticore
@@ -34,8 +34,6 @@ Manticores have tails bristling with detachable spikes. These monsters launch th
 Despite their ravenous tendencies, manticores enjoy speaking with those they're about to devour. Sometimes they make agreements with their prey. Roll on or choose a result from the Manticore Negotiations table to inspire what a manticore might offer in exchange for a more tempting meal.
 
 **Manticore Negotiations**
-
-`dice: [](manticore-xmm.md#^manticore-negotiations)`
 
 | dice: 1d8 | The Manticore Agrees To... |
 |-----------|----------------------------|
@@ -66,21 +64,22 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
   - !!int "12"
   - !!int "8"
 "speed": "30 ft., fly 50 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common"
 "cr": "3"
 "actions":
   - "desc": "The manticore makes three attacks, using Rend or Tail Spike in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Slashing\
+      \ damage."
     "name": "Rend"
   - "desc": "*Ranged Attack Roll:* +5, range 100/200 ft. *Hit:* 7 (1d8 + 3) Piercing\
       \ damage."
     "name": "Tail Spike"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/manticore-xmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Dragon Turtle
+- "Ancient Dragon Turtle"
 ---
-# [Ancient Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/ancient-dragon-turtle-ftd.md)
+# [Ancient Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/ancient-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 191*  
 
 Dragon turtles are mighty creatures whose inherent magic is intimately linked with the oceans of the Material Plane. The dragon turtle presented in the *Monster Manual* is a typical adult, at least a century old and boasting a valuable hoard. You can use the stat blocks in this section for older or younger dragon turtles. In addition, chapter 5 includes lair actions and regional effects that can be used for adult or ancient dragon turtles. An ancient dragon turtle is a mythic creature akin to a greatwyrm, combining the power of multiple echoes from across the worlds of the Material Plane. Such a creature can be as large as an island—and indeed, legends suggest that many unwitting sailors wrecked at sea have mistaken slumbering dragon turtles for solid ground.
@@ -24,8 +24,6 @@ Ancient dragon turtles might sleep for years or decades while floating along the
 Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to inspire your portrayal of distinctive dragon turtle characters, and use the Dragon Turtle Spellcasting table to help select spells for a spellcasting dragon. (Though the *Monster Manual*doesn't explicitly include dragon turtles in the variant rules for making a dragon a spellcaster, you can apply those rules to these aquatic dragons.)
 
 ### Dragon Turtle Personality Traits
-
-`dice: [](ancient-dragon-turtle-ftd.md#^trait)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -40,8 +38,6 @@ Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to insp
 ^trait
 
 ### Dragon Turtle Ideals
-
-`dice: [](ancient-dragon-turtle-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,8 +64,6 @@ The Dragon Turtle Adventure Hooks table offers suggestions for stories and adven
 
 ### Dragon Turtle Adventure Hooks
 
-`dice: [](ancient-dragon-turtle-ftd.md#^adventure-hook)`
-
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A ruthless shipping magnate has bribed a dragon turtle to attack competitors' vessels and drive them out of business. |
@@ -88,13 +82,11 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 
 ### Ancient Dragon Turtle Connections
 
-`dice: [](ancient-dragon-turtle-ftd.md#^connected-creatures)`
-
 | dice: d4 | Connected Creatures |
 |----------|---------------------|
 | 1 | An ancient dragon turtle and an ancient gold dragon meet once a year to trade moves in a game of dragonchess that has been going on for centuries. |
 | 2 | An ancient dragon turtle serves as counsel to an empyrean court, tempering the Celestials' passions with the dragon turtle's endless patience. |
-| 3 | A [geas](/3-Mechanics/CLI/spells/geas-xphb.md) spell forces an ancient dragon turtle to carry a lich's tower. |
+| 3 | A geas spell forces an ancient dragon turtle to carry a lich's tower. |
 | 4 | An ancient dragon turtle is responsible for ensuring that a kraken is never woken from its slumber. |
 ^connected-creatures
 
@@ -138,13 +130,11 @@ As an example, map 5.14 depicts a topaz dragon's lair in a seaside cavern, but i
   - "constitution": !!int "16"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
 "damage_immunities": "cold, fire"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "truesight 120 ft., passive Perception 21"
 "languages": "Aquan, Draconic"
 "cr": "24"
 "traits":
@@ -163,20 +153,20 @@ As an example, map 5.14 depicts a topaz dragon's lair in a seaside cavern, but i
 "actions":
   - "desc": "The dragon turtle makes one Bite or Tail attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 15\
-      \ (1d12 + 9) piercing damage plus 13 (2d12) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:*\
+      \ 15 (1d12 + 9) piercing damage plus 13 (2d12) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 18\
-      \ (2d8 + 9) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:*\
+      \ 18 (2d8 + 9) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (2d10 + 9) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 24 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (2d10 + 9) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 24 Strength saving throw or be knocked prone."
     "name": "Tail"
   - "desc": "The dragon turtle exhales steam in a 90-foot cone. Each creature in that\
-      \ area must make a DC 24 Constitution saving throw, taking 67 (15d8) fire damage\
-      \ on a failed save, or half as much damage on a successful one. Being underwater\
-      \ doesn't grant resistance against this damage."
+      \ area must make a DC 24 Constitution saving throw, taking 67 (15d8) fire\
+      \ damage on a failed save, or half as much damage on a successful one. Being\
+      \ underwater doesn't grant resistance against this damage."
     "name": "Steam Breath (Recharge 5-6)"
 "lair_actions":
   - "desc": "As they are presented in the *Monster Manual*, dragon turtles don't have\
@@ -191,13 +181,13 @@ As an example, map 5.14 depicts a topaz dragon's lair in a seaside cavern, but i
       \ the creature is moved 10 feet instead.  \n- **Entangling Kelp.** Strands of\
       \ spectral kelp reach out to ensnare creatures in a 20-foot-radius sphere centered\
       \ on a point in the lair that the dragon turtle can see. Each creature in that\
-      \ area must succeed on a DC 15 Strength saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ until the end of its next turn.  \n- **Steam Eruption.** Steam erupts in a\
-      \ 15-foot cone from a point on the ground the dragon turtle can see within 120\
-      \ feet of it. Each creature in that area must make a DC 15 Constitution saving\
-      \ throw, taking 21 (6d6) fire damage on a failed save, or half as much damage\
-      \ on a successful one. Being underwater doesn't grant creatures resistance to\
-      \ this damage.  "
+      \ area must succeed on a DC 15 Strength saving throw or be restrained until\
+      \ the end of its next turn.  \n- **Steam Eruption.** Steam erupts in a 15-foot\
+      \ cone from a point on the ground the dragon turtle can see within 120 feet\
+      \ of it. Each creature in that area must make a DC 15 Constitution saving throw,\
+      \ taking 21 (6d6) fire damage on a failed save, or half as much damage on\
+      \ a successful one. Being underwater doesn't grant creatures resistance to this\
+      \ damage.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a dragon turtle's lair can be transformed by its\
@@ -240,6 +230,6 @@ As an example, map 5.14 depicts a topaz dragon's lair in a seaside cavern, but i
     "name": "Armor of Storms (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-dragon-turtle-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-dragon-turtle-ftd.webp"
 ```
 ^statblock

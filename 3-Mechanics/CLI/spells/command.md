@@ -9,17 +9,20 @@ tags:
 - ttrpg-cli/spell/class/paladin
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/klothyss-devotee
 - ttrpg-cli/spell/school/enchantment
 - ttrpg-cli/spell/subclass/knowledge-domain
+- ttrpg-cli/spell/subclass/knowledge-domain-psa
 - ttrpg-cli/spell/subclass/the-fiend
 classes:
 - Bard (Magical Secrets)
 - Cleric
+- Cleric (Knowledge Domain (PSA))
 - Cleric (Knowledge Domain)
 - Paladin
 - Warlock (The Fiend)
 aliases:
-- Command
+- "Command"
 ---
 # Command
 *1st-level, Enchantment*  
@@ -48,7 +51,7 @@ The target spends its turn moving away from you by the fastest available means.
 
 ## Grovel
 
-The target falls [prone](/3-Mechanics/CLI/conditions.md#Prone) and then ends its turn.
+The target falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone) and then ends its turn.
 
 ## Halt
 
@@ -60,6 +63,6 @@ When you cast this spell using a spell slot of 2nd level or higher, you can affe
 
 ## Summary
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock (The Fiend)](/3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain-psa-psa.md "subclass=PSA"); [Cleric (Knowledge Domain)](3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock (The Fiend)](3-Mechanics/CLI/lists/list-spells-classes-the-fiend.md)
 
 *Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Amethyst Dragon
+- "Young Amethyst Dragon"
 ---
-# [Young Amethyst Dragon](3-Mechanics\CLI\bestiary\dragon/young-amethyst-dragon-ftd.md)
+# [Young Amethyst Dragon](3-Mechanics/CLI/bestiary/dragon/young-amethyst-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 161*  
 
 Amethyst dragons, the mightiest of the gem dragons, study and psionically manipulate the fundamental principles of the multiverse, from the force of gravity to the emanations of the Outer Planes. Their innate psionics give them a measure of control over how physical laws affect them. They defy gravity with flight that doesn't rely solely upon their great wings, and gravitational force empowers both their devastating breath weapon and the exploding amethyst crystals they spit at their foes.
@@ -37,8 +37,6 @@ Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to 
 
 ### Amethyst Dragon Personality Traits
 
-`dice: [](young-amethyst-dragon-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I am never so content as when contemplating the beauty and wonders of the multiverse. |
@@ -52,8 +50,6 @@ Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to 
 ^trait
 
 ### Amethyst Dragon Ideals
-
-`dice: [](young-amethyst-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -70,8 +66,6 @@ Use the Amethyst Dragon Personality Traits and Amethyst Dragon Ideals tables to 
 The Amethyst Dragon Adventure Hooks table offers suggestions for stories and adventures involving amethyst dragons.
 
 ### Amethyst Dragon Adventure Hooks
-
-`dice: [](young-amethyst-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -90,8 +84,6 @@ The Amethyst Dragon Adventure Hooks table offers suggestions for stories and adv
 Amethyst dragons are generally aloof creatures, dwelling in isolation for long periods of time and rarely cultivating connections with other creatures. When they do connect with others, it is most often for intellectual and philosophical pursuits or to fulfill some arcane purpose involving the dragons' echoes across the worlds.
 
 ### Young Amethyst Dragon Connections
-
-`dice: [](young-amethyst-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -128,19 +120,17 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "force, psychic"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 20"
+"condition_immunities": "frightened, prone"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "9"
 "traits":
@@ -149,11 +139,11 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
 "actions":
   - "desc": "The dragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage plus 4 (1d8) force damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage plus 4 (1d8) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) slashing damage."
     "name": "Claw"
   - "desc": "The dragon creates a shining bead of gravitational force in its mouth,\
       \ then releases the energy in a 30-foot cone. Each creature in that area must\
@@ -164,12 +154,10 @@ Amethyst dragons are generally aloof creatures, dwelling in isolation for long p
     "name": "Singularity Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **1/day each:** [blink](/3-Mechanics/CLI/spells/blink-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
-      \ [sending](/3-Mechanics/CLI/spells/sending-xphb.md)"
+      **1/day each:** blink, dispel magic, protection from evil and good, sending"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-amethyst-dragon-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-amethyst-dragon-ftd.webp"
 ```
 ^statblock

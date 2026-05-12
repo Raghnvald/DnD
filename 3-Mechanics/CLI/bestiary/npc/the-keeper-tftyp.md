@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/7
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- The Keeper
+- "The Keeper"
 ---
-# [The Keeper](3-Mechanics\CLI\bestiary\npc/the-keeper-tftyp.md)
+# [The Keeper](3-Mechanics/CLI/bestiary/npc/the-keeper-tftyp.md)
 *Source: Tales from the Yawning Portal p. 173*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Neutral"
 "ac": !!int "17"
-"ac_class": "chain mail"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
 "hp": !!int "126"
 "hit_dice": "11d12 + 55"
 "modifier": !!int "2"
@@ -38,23 +38,26 @@ aliases:
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Giant"
 "cr": "7"
 "actions":
   - "desc": "The Keeper makes two battleaxe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (3d8 + 7) slashing damage, or 23 (3d10 + 7) slashing damage if used with both\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (3d8 + 7) slashing damage, or 23 (3d10 + 7) slashing damage if used\
+      \ with both hands."
     "name": "Battleaxe +1"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked prone."
+      \ on a DC 17 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Rock"
 "reactions":
   - "desc": "If a rock or similar object is hurled at the Keeper, the Keeper can,\
@@ -63,6 +66,6 @@ aliases:
     "name": "Rock Catching"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/the-keeper-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/the-keeper-tftyp.webp"
 ```
 ^statblock

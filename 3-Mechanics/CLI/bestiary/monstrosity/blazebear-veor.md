@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blazebear
+- "Blazebear"
 ---
-# [Blazebear](3-Mechanics\CLI\bestiary\monstrosity/blazebear-veor.md)
+# [Blazebear](3-Mechanics/CLI/bestiary/monstrosity/blazebear-veor.md)
 *Source: Vecna: Eve of Ruin p. 210*  
 
 > [!quote] A quote from Clank, Warforged Merchant from Sharn  
@@ -43,9 +43,10 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
   - "strength": !!int "11"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "darkvision 120 ft., passive Perception 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "12"
 "traits":
@@ -59,11 +60,11 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
   - "desc": "The blazebear makes two Bite attacks. It can replace one attack with\
       \ Stunning Gaze if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (2d12 + 7) piercing damage plus 11 (2d10) force damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (2d12 + 7) piercing damage plus 11 (2d10) force damage."
     "name": "Bite"
   - "desc": "The blazebear targets two creatures it can see within 120 feet of itself.\
-      \ Each target must succeed on a DC 15 Wisdom saving throw or have the stunned\
+      \ Each target must succeed on a DC 15 Wisdom saving throw or have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ condition until the start of the blazebear's next turn."
     "name": "Stunning Gaze (Recharge 5-6)"
 "reactions":
@@ -74,6 +75,6 @@ On the world of Eberron, many strange, magic-warped monsters have emerged from t
     "name": "Antimagic Swipe"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/blazebear-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/blazebear-veor.webp"
 ```
 ^statblock

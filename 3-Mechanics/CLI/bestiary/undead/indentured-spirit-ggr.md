@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Indentured Spirit
+- "Indentured Spirit"
 ---
-# [Indentured Spirit](3-Mechanics\CLI\bestiary\undead/indentured-spirit-ggr.md)
+# [Indentured Spirit](3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 206*  
 
 Those who die with unpaid debts to the Orzhov Syndicate don't get a reprieve. Instead, their spirits serve the syndicate until they have worked off their obligation. Sometimes that means existing as an indentured spirit for years or even millennia.
@@ -39,11 +39,8 @@ An indentured spirit is an incorporeal being draped in ghostly black robes and a
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
 "senses": "passive Perception 11"
 "languages": "the languages it knew in life"
 "cr": "1"
@@ -58,6 +55,6 @@ An indentured spirit is an incorporeal being draped in ghostly black robes and a
     "name": "Withering Touch"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/indentured-spirit-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/indentured-spirit-ggr.webp"
 ```
 ^statblock

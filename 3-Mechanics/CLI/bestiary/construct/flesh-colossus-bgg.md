@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flesh Colossus
+- "Flesh Colossus"
 ---
-# [Flesh Colossus](3-Mechanics\CLI\bestiary\construct/flesh-colossus-bgg.md)
+# [Flesh Colossus](3-Mechanics/CLI/bestiary/construct/flesh-colossus-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 141*  
 
 During the dawn of the giants' empires, twisted minds sought to make their fallen comrades continue their service. Wizard giants stitched and wove the flesh of various giants over an adamantine skeleton, creating a grisly colossal construct. Inside the flesh colossus's chest is a stone sphere infused with spirits from each elemental plane acting as its core.
@@ -39,11 +39,8 @@ To this day, some of these ancient flesh colossi guard abandoned ruins, sites sa
 "speed": "60 ft."
 "damage_immunities": "lightning; poison; psychic; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Giant but can't speak"
 "cr": "20"
 "traits":
@@ -66,10 +63,9 @@ To this day, some of these ancient flesh colossi guard abandoned ruins, sites sa
   - "desc": "*Melee Weapon Attack:* +13 to hit (with advantage if the colossus is\
       \ berserk), reach 20 ft., one target. *Hit:* 17 (3d6 + 7) bludgeoning damage.\
       \ If the target is a Large or smaller creature, it is pulled up to 15 feet toward\
-      \ the colossus, it has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 17), and it has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition until this grapple ends. The colossus can have up to two creatures\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) this way at a time."
+      \ the colossus, it has the grappled condition (escape DC 17), and it has the\
+      \ restrained condition until this grapple ends. The colossus can have up to\
+      \ two creatures grappled this way at a time."
     "name": "Fist"
   - "desc": "The colossus exhales a cloud swirling with elemental energy in a 90-foot\
       \ cone. Each creature in that area must make a DC 21 Dexterity saving throw.\
@@ -81,9 +77,8 @@ To this day, some of these ancient flesh colossi guard abandoned ruins, sites sa
     "name": "Elemental Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one Large or smaller\
-      \ creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the colossus.\
-      \ *Hit:* 20 (3d8 + 7) bludgeoning damage, and the creature is swallowed. A swallowed\
-      \ creature has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained) condition,\
+      \ creature grappled by the colossus. *Hit:* 20 (3d8 + 7) bludgeoning damage,\
+      \ and the creature is swallowed. A swallowed creature has the restrained condition,\
       \ has total cover against attacks and other effects outside the colossus, and\
       \ takes 10 (3d6) force damage at the start of each of the colossus's turns.\n\
       \nThe colossus's chest cavity can hold up to two creatures at a time. Inside\
@@ -91,14 +86,13 @@ To this day, some of these ancient flesh colossi guard abandoned ruins, sites sa
       \ to lightning, poison, and psychic damage. It has 140 hit points and sheds\
       \ dim light in a 10-foot radius. If the core is destroyed, the colossus regurgitates\
       \ all swallowed creatures, each of which falls in a space within 10 feet of\
-      \ the colossus and has the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition,\
-      \ and the colossus can no longer swallow a creature. If the colossus dies, any\
-      \ swallowed creature no longer has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition and can escape from the corpse using 10 feet of movement, exiting\
-      \ with the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ the colossus and has the prone condition, and the colossus can no longer swallow\
+      \ a creature. If the colossus dies, any swallowed creature no longer has the\
+      \ restrained condition and can escape from the corpse using 10 feet of movement,\
+      \ exiting with the prone condition."
     "name": "Bite"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/flesh-colossus-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/flesh-colossus-bgg.webp"
 ```
 ^statblock

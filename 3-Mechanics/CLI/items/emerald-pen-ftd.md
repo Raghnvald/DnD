@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Emerald Pen"
 ---
 # Emerald Pen
@@ -13,6 +13,6 @@ aliases:
 
 
 
-This pen is tipped with an emerald nib and requires no ink to write. While holding this pen, you can cast [illusory script](/3-Mechanics/CLI/spells/illusory-script-xphb.md) at will, requiring no material components.
+This pen is tipped with an emerald nib and requires no ink to write. While holding this pen, you can cast illusory script at will, requiring no material components.
 
 *Source: Fizban's Treasury of Dragons p. 23*

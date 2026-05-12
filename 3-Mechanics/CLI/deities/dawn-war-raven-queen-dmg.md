@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/life
-aliases: 
-- Raven Queen
+aliases:
+- "Raven Queen"
 ---
 # Raven Queen
 *Source: Dungeon Master's Guide p. 10* 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Echo of Demogorgon
+- "Echo of Demogorgon"
 ---
-# [Echo of Demogorgon](3-Mechanics\CLI\bestiary\fiend/echo-of-demogorgon-bgg.md)
+# [Echo of Demogorgon](3-Mechanics/CLI/bestiary/fiend/echo-of-demogorgon-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 132*  
 
 > [!quote] A quote from Bigby  
@@ -46,12 +46,11 @@ The arms of an echo of Demogorgon transform into powerful tentacles, and the hea
   - "strength": !!int "9"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "charmed, frightened"
+"senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal, Giant, Orc"
 "cr": "6"
 "traits":
@@ -63,8 +62,8 @@ The arms of an echo of Demogorgon transform into powerful tentacles, and the hea
 "actions":
   - "desc": "The echo makes two Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) bludgeoning damage plus 9 (2d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) bludgeoning damage plus 9 (2d8) necrotic damage."
     "name": "Tentacle"
 "bonus_actions":
   - "desc": "The echo directs its frenzied howls at one creature it can see within\
@@ -76,6 +75,6 @@ The arms of an echo of Demogorgon transform into powerful tentacles, and the hea
     "name": "Discordant Screams"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/echo-of-demogorgon-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/echo-of-demogorgon-bgg.webp"
 ```
 ^statblock

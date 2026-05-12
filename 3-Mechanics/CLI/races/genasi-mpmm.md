@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/genasi
 aliases:
-- Genasi
+- "Genasi"
 ---
 # Genasi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 16*  
-![](/3-Mechanics/CLI/races/img/genasi.webp#right)
+![](3-Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -31,6 +31,8 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
 ## Description
+
+### Genasi
 
 Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.
 

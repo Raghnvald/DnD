@@ -3,31 +3,31 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/tftyp
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/weapon/martial
-- new/item/weapon/melee
-aliases: 
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+aliases:
 - "Waythe"
 ---
 # Waythe
-*Weapon (greatsword), legendary (requires attunement)*  
+*Weapon ([greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement)*  
 
 
 - **Damage**: 2d6 slashing
-- **Properties**: Heavy, Two-Handed
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
-Waythe is a unique greatsword most recently in the possession of a high-ranking [cloud giant](/3-Mechanics/CLI/bestiary/giant/cloud-giant.md) ambassador.
+Waythe is a unique greatsword most recently in the possession of a high-ranking [cloud giant](3-Mechanics/CLI/bestiary/giant/cloud-giant-xmm.md) ambassador.
 
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) slashing damage, and it must succeed on a DC 15 Strength saving throw or fall prone.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit a creature of the giant type with it, the giant takes an extra `2d6` slashing damage, and it must succeed on a DC 15 Strength saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
-The sword also functions as a wand of enemy detection. It regains all of its expended charges at dawn and isn't at risk of crumbling if its last charge is used.
+The sword also functions as a [wand of enemy detection](3-Mechanics/CLI/items/wand-of-enemy-detection-xdmg.md). It regains all of its expended charges at dawn and isn't at risk of crumbling if its last charge is used.
 
 ## Sentience
 
-Waythe is a sentient weapon of neutral good alignment, with an Intelligence of 12, a Wisdom of 2, and a Charisma of 14. It has hearing and darkvision out to a range of 120 feet.
+Waythe is a sentient weapon of neutral good alignment, with an Intelligence of 12, a Wisdom of 2, and a Charisma of 14. It has hearing and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet.
 
 The weapon can speak and understand Giant and Common, and it can communicate telepathically with its wielder.
 

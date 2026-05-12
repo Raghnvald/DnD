@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/gos
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Cursed Luckstone"
 ---
 # Cursed Luckstone

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Draconic Shard
+- "Draconic Shard"
 ---
-# [Draconic Shard](3-Mechanics\CLI\bestiary\undead/draconic-shard-ftd.md)
+# [Draconic Shard](3-Mechanics/CLI/bestiary/undead/draconic-shard-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 181*  
 
 Gem dragons wield psionic power, and when a powerful gem dragon perishes, the force of the dragon's will and mind sometimes refuses to pass on. This essence lingers in the form of a psychic remnant called a draconic shard.
@@ -45,23 +45,20 @@ A draconic shard is difficult to destroy. Destroying the shard's spectral form o
   - "wisdom": !!int "10"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+12"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+16"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_resistances": "acid; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "cold, necrotic, poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 26"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone"
+"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "17"
 "traits":
@@ -84,37 +81,34 @@ A draconic shard is difficult to destroy. Destroying the shard's spectral form o
 "actions":
   - "desc": "The shard makes two Telekinetic Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Spell Attack:* +12 to hit, reach 10 ft. or range 120\
-      \ ft., one target. *Hit:* 15 (2d8 + 6) force damage."
+  - "desc": "*Melee  or Ranged Spell Attack:* +12 to hit, reach 10 ft. or range\
+      \ 120 ft., one target. *Hit:* 15 (2d8 + 6) force damage."
     "name": "Telekinetic Rend"
   - "desc": "The shard disappears as it pours its psychic essence into a Medium or\
       \ smaller nonsentient object it can see within 30 feet of it, magically possessing\
       \ it. The object uses the shard's AC, and any damage dealt to the object applies\
       \ to the shard's hit points. The shard inhabits the object until it uses an\
       \ action to leave; until it is turned; until it is reduced to 0 hit points;\
-      \ or until an effect that ends possession, such as a [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
-      \ spell, is used on it. When it leaves the object, it reappears in the nearest\
-      \ unoccupied space.\n\nWhile inhabited, the object becomes a magic item if it\
-      \ wasn't already, and a Tiny cracked gemstone matching the kind of gem dragon\
-      \ the shard was in life appears somewhere on the object. The shard can cause\
-      \ the object to fly using the shard's own flying speed, use its senses, speak\
-      \ verbally or telepathically, cast spells, and use its legendary actions.\n\n\
-      If a creature wears or carries the inhabited object, the shard can grant the\
-      \ creature the following benefits:\n\nEach of the creature's attacks deals an\
-      \ extra 1d8 force damage on a hit.\n\nThe creature gains resistance to psychic\
-      \ damage."
+      \ or until an effect that ends possession, such as a dispel evil and good spell,\
+      \ is used on it. When it leaves the object, it reappears in the nearest unoccupied\
+      \ space.\n\nWhile inhabited, the object becomes a magic item if it wasn't already,\
+      \ and a Tiny cracked gemstone matching the kind of gem dragon the shard was\
+      \ in life appears somewhere on the object. The shard can cause the object to\
+      \ fly using the shard's own flying speed, use its senses, speak verbally or\
+      \ telepathically, cast spells, and use its legendary actions.\n\nIf a creature\
+      \ wears or carries the inhabited object, the shard can grant the creature the\
+      \ following benefits:\n\nEach of the creature's attacks deals an extra 1d8\
+      \ force damage on a hit.\n\nThe creature gains resistance to psychic damage."
     "name": "Inhabit Object"
   - "desc": "The shard unleashes a pulse of psychic power. Each creature of the shard's\
       \ choice in a 60-foot-radius sphere centered on it must make a DC 20 Intelligence\
       \ saving throw. On a failed save, the creature takes 55 (10d10) psychic damage\
-      \ and is [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until the end of\
-      \ its next turn. On a successful save, the creature takes half as much damage\
-      \ and isn't [stunned](/3-Mechanics/CLI/conditions.md#Stunned)."
+      \ and is stunned until the end of its next turn. On a successful save, the creature\
+      \ takes half as much damage and isn't stunned."
     "name": "Psychic Crush (Recharge 5-6)"
   - "desc": "The shard casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 20):\n\n\
-      **At will:** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      **At will:** detect thoughts, invisibility, telekinesis"
     "name": "Spellcasting (Psionics)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the draconic shard can expend a use to take one of the following actions.\
@@ -125,15 +119,14 @@ A draconic shard is difficult to destroy. Destroying the shard's spectral form o
   - "desc": "The shard uses Spellcasting."
     "name": "Cast a Spell (Costs 2 Actions)"
   - "desc": "The shard targets a creature it can see within 30 feet of it. The target\
-      \ must succeed on a DC 20 Wisdom saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ until the end of its next turn. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ in this way, the target becomes the shard's puppet, acting and moving in accordance\
-      \ with its telepathic commands. While under the shard's control, the target\
-      \ can take only the Attack (shard chooses the target) or Dash action on its\
-      \ turn."
+      \ must succeed on a DC 20 Wisdom saving throw or be charmed until the end of\
+      \ its next turn. While charmed in this way, the target becomes the shard's puppet,\
+      \ acting and moving in accordance with its telepathic commands. While under\
+      \ the shard's control, the target can take only the Attack (shard chooses the\
+      \ target) or Dash action on its turn."
     "name": "Commanding Thought (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/draconic-shard-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/draconic-shard-ftd.webp"
 ```
 ^statblock

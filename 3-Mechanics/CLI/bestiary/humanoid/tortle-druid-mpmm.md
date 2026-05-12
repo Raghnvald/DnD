@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tortle Druid
+- "Tortle Druid"
 ---
-# [Tortle Druid](3-Mechanics\CLI\bestiary\humanoid/tortle-druid-mpmm.md)
+# [Tortle Druid](3-Mechanics/CLI/bestiary/humanoid/tortle-druid-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 244, Mordenkainen's Tome of Foes p. 242*  
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
@@ -43,11 +43,11 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling)"
+  - "name": "[Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)"
     "desc": "+4"
-  - "name": "[Nature](/3-Mechanics/CLI/skills.md#Nature)"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+2"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common"
@@ -56,34 +56,33 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
   - "desc": "The tortle can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "The tortle makes four Claw attacks or two [Nature](/3-Mechanics/CLI/skills.md#Nature)'s\
+  - "desc": "The tortle makes four Claw attacks or two [Nature](3-Mechanics/CLI/rules/skills.md#Nature)'s\
       \ Wrath attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage."
     "name": "Claw"
-  - "desc": "*Ranged Spell Attack:* +4 to hit, range 90 ft., one target. *Hit:* 9\
-      \ (2d6 + 2) damage of a type chosen by the tortle: cold, fire, lightning, or\
-      \ thunder."
+  - "desc": "*Ranged Spell Attack:* +4 to hit, range 90 ft., one target. *Hit:*\
+      \ 9 (2d6 + 2) damage of a type chosen by the tortle: cold, fire, lightning,\
+      \ or thunder."
     "name": "Nature's Wrath"
   - "desc": "The tortle withdraws into its shell. Until it emerges, it gains a +4\
       \ bonus to AC and has advantage on Strength and Constitution saving throws.\
-      \ While in its shell, the tortle is [prone](/3-Mechanics/CLI/conditions.md#Prone),\
+      \ While in its shell, the tortle is [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
       \ its speed is 0 and can't increase, it has disadvantage on Dexterity saving\
       \ throws, it can't take reactions, and the only action it can take is a bonus\
       \ action to emerge."
     "name": "Shell Defense"
   - "desc": "The tortle casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md),\
-      \ [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md)\n\n**2/day each:** [cure\
-      \ wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [speak with animals](/3-Mechanics/CLI/spells/speak-with-animals-xphb.md),\
-      \ [thunderwave](/3-Mechanics/CLI/spells/thunderwave-xphb.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md),\
+      \ [guidance](3-Mechanics/CLI/spells/guidance.md)\n\n**2/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md),\
+      \ [hold person](3-Mechanics/CLI/spells/hold-person.md), [speak with animals](3-Mechanics/CLI/spells/speak-with-animals.md),\
+      \ [thunderwave](3-Mechanics/CLI/spells/thunderwave.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/tortle-druid-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/tortle-druid-mpmm.webp"
 ```
 ^statblock
 

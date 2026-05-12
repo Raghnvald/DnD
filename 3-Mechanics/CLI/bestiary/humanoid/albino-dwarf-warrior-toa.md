@@ -3,17 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid/dwarf
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/dwarf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Albino Dwarf Warrior
+- "Albino Dwarf Warrior"
 ---
-# [Albino Dwarf Warrior](3-Mechanics\CLI\bestiary\humanoid/albino-dwarf-warrior-toa.md)
+# [Albino Dwarf Warrior](3-Mechanics/CLI/bestiary/humanoid/albino-dwarf-warrior-toa.md)
 *Source: Tomb of Annihilation p. 210*  
+
+## Albino Dwarf
 
 The albino dwarves of Chult were driven from their subterranean homes by volcanic activity, and those who didn't seek refuge in Port Nyanzaru adapted to living in the jungle. They make armor out of dinosaur hide; shape weapons out of dinosaur bones, flint, and wood; and craft ornate jewelry out of bones, feathers, tusks, and stone beads. Albino dwarves haven't forgotten how to forge metal, but they seldom have the means to do so.
 
@@ -24,7 +26,7 @@ The albino dwarves of Chult were driven from their subterranean homes by volcani
 "subtype": "dwarf"
 "alignment": "Any alignment"
 "ac": !!int "13"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "30"
 "hit_dice": "4d8 + 12"
 "modifier": !!int "1"
@@ -37,14 +39,17 @@ The albino dwarves of Chult were driven from their subterranean homes by volcani
   - !!int "11"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "poison"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[handaxe](3-Mechanics/CLI/items/handaxe-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common, Dwarvish"
 "cr": "1/4"
 "traits":
@@ -56,6 +61,6 @@ The albino dwarves of Chult were driven from their subterranean homes by volcani
     "name": "Handaxe"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/albino-dwarf-warrior-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/albino-dwarf-warrior-toa.webp"
 ```
 ^statblock

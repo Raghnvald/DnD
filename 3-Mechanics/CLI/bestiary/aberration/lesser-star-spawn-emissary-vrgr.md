@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lesser Star Spawn Emissary
+- "Lesser Star Spawn Emissary"
 ---
-# [Lesser Star Spawn Emissary](3-Mechanics\CLI\bestiary\aberration/lesser-star-spawn-emissary-vrgr.md)
+# [Lesser Star Spawn Emissary](3-Mechanics/CLI/bestiary/aberration/lesser-star-spawn-emissary-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 245*  
 
 A star spawn emissary's lesser form allows it to appear as any creature. Emissaries have no misplaced pride and just as readily appear as people, animals, or other creatures—the more unassuming, the better. Should it reveal its true form, an emissary appears as a roughly bipedal mass of agitated organs, self-cannibalizing alien orifices, and appendages suggestive of forms it has previously assumed.
@@ -50,16 +50,16 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
   - "wisdom": !!int "11"
   - "charisma": !!int "12"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+19"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+18"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
 "damage_resistances": "acid, force, necrotic, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 21"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 21"
 "languages": "all, telepathy 1,000 ft."
 "cr": "19"
 "traits":
@@ -75,8 +75,8 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
 "actions":
   - "desc": "The emissary makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage plus 13 (3d8) acid damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage plus 13 (3d8) acid damage."
     "name": "Lashing Maw"
   - "desc": "*Ranged Spell Attack:* +13 to hit, range 120 ft., one creature. *Hit:*\
       \ 18 (2d10 + 7) psychic damage."
@@ -97,11 +97,11 @@ After finishing a long rest, a greater star spawn emissary regains its lesser fo
     "name": "Teleportation Maw (Costs 2 Actions)"
   - "desc": "The emissary targets a creature it can see within 30 feet of it and psychically\
       \ lashes at that creature's mind. The target must succeed on a DC 21 Wisdom\
-      \ saving throw or take 36 (8d8) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ saving throw or take 36 (8d8) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the start of its next turn."
     "name": "Psychic Lash (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/lesser-star-spawn-emissary-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/lesser-star-spawn-emissary-vrgr.webp"
 ```
 ^statblock

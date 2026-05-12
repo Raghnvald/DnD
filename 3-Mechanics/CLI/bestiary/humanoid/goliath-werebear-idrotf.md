@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/8
-- new/monster/size/medium
-- new/monster/type/humanoid/goliath
-- new/monster/type/humanoid/shapechanger
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/goliath
+- ttrpg-cli/monster/type/humanoid/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goliath Werebear
+- "Goliath Werebear"
 ---
-# [Goliath Werebear](3-Mechanics\CLI\bestiary\humanoid/goliath-werebear-idrotf.md)
+# [Goliath Werebear](3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 293*  
 
 Goliath legends speak of a creature that prowls the far reaches of Icewind Dale, known as Oyaminartok the Winter Walker. She can take the form of either a polar bear or a hulking, bipedal shape obscured by wind and blowing snow. Elders invoke her name to keep young goliaths from wandering too far from home before they're ready. Adult goliaths sometimes encounter this legendary individual in their travels to the far-flung corners of the dale. If they flee like cowards, Oyaminartok laughs and lets them go to wander in obscurity. If they challenge Oyaminartok to a fight, the Winter Walker smiles and tests their mettle. Those who impress her with their fighting skills are bitten and become goliath werebears themselves—goliaths who carry Oyaminartok's curse of lycanthropy. Contrary to myth, Oyaminartok is not a monster but a force of good in the region, and she passes her curse only to goliaths whose hearts are pure.
@@ -27,7 +27,7 @@ Oyaminartok and others of her kind try to help creatures they come across, for t
 "subtype": "goliath, shapechanger"
 "alignment": "Neutral Good"
 "ac": !!int "10"
-"ac_class": "12 from natural armor in bear or hybrid form"
+"ac_class": "12 natural armor in bear or hybrid form"
 "hp": !!int "161"
 "hit_dice": "19d8 + 76"
 "modifier": !!int "0"
@@ -40,22 +40,24 @@ Oyaminartok and others of her kind try to help creatures they come across, for t
   - !!int "10"
 "speed": "30 ft. (40 ft. swim 30 ft. in bear or hybrid form)"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "cold"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
 "senses": "passive Perception 18"
 "languages": "Common, Giant (can't speak in bear form)"
 "cr": "8"
 "traits":
-  - "desc": "The werebear has advantage on Wisdom (Perception) checks that rely on\
-      \ smell."
+  - "desc": "The werebear has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The werebear is acclimated to high altitude, including elevations above\
       \ 20,000 feet."
@@ -71,9 +73,9 @@ Oyaminartok and others of her kind try to help creatures they come across, for t
 "actions":
   - "desc": "The werebear makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 16\
-      \ (2d10 + 5) piercing damage. If the target is a humanoid, it must succeed on\
-      \ a DC 15 Constitution saving throw or be cursed with werebear lycanthropy,\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage. If the target is a humanoid, it must succeed\
+      \ on a DC 15 Constitution saving throw or be cursed with werebear lycanthropy,\
       \ as described in the Monster Manual."
     "name": "Bite (Bear or Hybrid Form Only)"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14\
@@ -88,6 +90,6 @@ Oyaminartok and others of her kind try to help creatures they come across, for t
     "name": "Stone's Endurance (Recharges after a Short or Long Rest)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/goliath-werebear-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/goliath-werebear-idrotf.webp"
 ```
 ^statblock

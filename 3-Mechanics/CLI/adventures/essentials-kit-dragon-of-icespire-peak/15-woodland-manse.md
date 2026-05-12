@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Woodland Manse
+- "Woodland Manse"
 ---
 # Woodland Manse
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 44* 
@@ -16,7 +16,7 @@ aliases:
 
 Many years ago, a half-elf wizard interested in the exploration of ancient elven ruins built a stone house in Neverwinter Wood, not far from several ruins that piqued her interest. In the course of her explorations, the wizard disappeared, and the protective magical wards on her home expired. The house fell into disrepair, then eventually into ruin. Ivy has all but engulfed it in the years since.
 
-Recently, a half-orc [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) named Grannoc took over the ruined house and planted seeds at the bottom of its well. From these seeds, a malignant tree grew to fill the well and began spawning evil plant monsters called blights (see "Blights" in the Creatures chapter). The blights obey Grannoc, who uses them to defend his woodland manse and kill trespassers within the forest.
+Recently, a half-orc [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) named Grannoc took over the ruined house and planted seeds at the bottom of its well. From these seeds, a malignant tree grew to fill the well and began spawning evil plant monsters called blights (see "Blights" in the Creatures chapter). The blights obey Grannoc, who uses them to defend his woodland manse and kill trespassers within the forest.
 
 ### Quest Goals
 
@@ -34,7 +34,7 @@ Characters who come here from Falcon's Hunting Lodge arrive from the west. Those
 > 
 > **Doors.** Normal doors are made of wood, and are so rotted as to be soft and easily breakable (no ability check required). Secret doors are made of stone and blend in with the surrounding walls. A secret door can be found by a character who searches the surrounding wall and succeeds on a DC 10 Wisdom (Perception) check.
 > 
-> **Ivy.** The ivy enveloping the manse is poisonous and makes the walls difficult to climb. Scaling a wall requires a successful DC 15 Strength (Athletics) check. A creature that comes into contact with ivy must succeed on a DC 12 Constitution saving throw or take `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) poison damage.
+> **Ivy.** The ivy enveloping the manse is poisonous and makes the walls difficult to climb. Scaling a wall requires a successful DC 15 Strength (Athletics) check. A creature that comes into contact with ivy must succeed on a DC 12 Constitution saving throw or take 2 (`1d4`) poison damage.
 > 
 > **Light.** Most locations on the ground floor are dark, as the ivy blocks out the natural light except in areas that are open to the sky (such as the courtyard) or that have openings through which sunlight or moonlight can enter. Rooms and halls on the upper level are dimly lit by natural light that filters through holes in the roof.
 > 
@@ -55,16 +55,16 @@ The trail heading north off the map leads to the Circle of Thunder. The trail he
 The following locations are keyed to the map of the woodland manse.
 
 > [!gallery]
-> ![Map: Woodland Manse](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/033-map-wm-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/034-map-wm-pc.webp#gallery)
+> ![Map: Woodland Manse](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/033-map-wm-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/034-map-wm-pc.webp#gallery)
 
 #### W1. Pumpkin Patches
 
-Nine boars graze in the pumpkin patches—one per patch. Of these, six are actual [boars](/3-Mechanics/CLI/bestiary/beast/boar.md). The other three are [anchorites of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) in boar form. The anchorites ignore the characters until they try to leave (see "Leaving the Manse"). If the characters attack a boar, it flees on its turn by darting into the nearby woods. If the characters attack an anchorite, all of the boars and anchorites retaliate. If you need to determine whether a boar is an anchorite or not, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 5 or 6, the boar is an anchorite in disguise.
+Nine boars graze in the pumpkin patches—one per patch. Of these, six are actual boars. The other three are [anchorites of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) in boar form. The anchorites ignore the characters until they try to leave (see "Leaving the Manse"). If the characters attack a boar, it flees on its turn by darting into the nearby woods. If the characters attack an anchorite, all of the boars and anchorites retaliate. If you need to determine whether a boar is an anchorite or not, roll a `d6`. On a 5 or 6, the boar is an anchorite in disguise.
 
 ##### Pumpkins
 
-A detect magic spell reveals a dim aura of transmutation magic around each pumpkin. As an action, a character can carve open a pumpkin to reveal six servings of seeds within. Any creature that eats a serving of pumpkin seeds as an action regains 1 hit point. If a creature eats more than five servings of pumpkin seeds in 1 hour, it must succeed on a DC 12 Constitution saving throw or be poisoned for `dice:1d4|noform|noparens|avg` (`1d4`) hours.
+A detect magic spell reveals a dim aura of transmutation magic around each pumpkin. As an action, a character can carve open a pumpkin to reveal six servings of seeds within. Any creature that eats a serving of pumpkin seeds as an action regains 1 hit point. If a creature eats more than five servings of pumpkin seeds in 1 hour, it must succeed on a DC 12 Constitution saving throw or be poisoned for `1d4` hours.
 
 #### W2. Portico and Balcony
 
@@ -83,7 +83,7 @@ This undecorated hall features a creaky and moldy wooden staircase.
 
 ##### Trapped Stairs
 
-The staircase climbs 10 feet to area W14. Its upper half has been weakened to the extent that it collapses under 50 pounds or more of weight. A creature on the collapsing stairs must make a DC 15 Dexterity saving throw to avoid falling onto a bed of wooden spikes planted underneath the staircase. On a failed save, the creature lands on `dice:1d6|noform|noparens|avg` (`1d6`) wooden spikes, each one dealing `dice:1d6|noform|noparens|avg` (`1d6`) piercing damage.
+The staircase climbs 10 feet to area W14. Its upper half has been weakened to the extent that it collapses under 50 pounds or more of weight. A creature on the collapsing stairs must make a DC 15 Dexterity saving throw to avoid falling onto a bed of wooden spikes planted underneath the staircase. On a failed save, the creature lands on `1d6` wooden spikes, each one dealing `1d6` piercing damage.
 
 #### W4. Parlor
 
@@ -93,7 +93,7 @@ The door to this parlor has been smashed to pieces. The room is strewn with brok
 
 The walls are covered with crude drawings in blood that depict boars chasing stick-figure humanoids. A fireplace dominates the south side of the room, and a smashed wooden dining table lies in a heap in the eastern half of the room, surrounded by six broken chairs.
 
-If the characters met the shapechanged [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) on the way to the loggers' camp and let it get away (see "A Boar-ing Encounter"), small twig figures rest on the mantelpiece—one representing each party member (including sidekicks). These are [twig blights](/3-Mechanics/CLI/bestiary/plant/twig-blight.md) that attack if they are touched or harmed.
+If the characters met the shapechanged [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) on the way to the loggers' camp and let it get away (see "A Boar-ing Encounter"), small twig figures rest on the mantelpiece—one representing each party member (including sidekicks). These are twig blights that attack if they are touched or harmed.
 
 ##### Treasure
 
@@ -129,11 +129,11 @@ Characters who understand the Orc language can overhear the orcs planning some s
 
 The well, which is 30 feet deep, contains a Gulthias tree, the roots of which extend deep underground. With little room to spread out, the tree has grown into a malformed column of twisted wood with narrow gaps between its curling branches.
 
-Hidden in the shaft are a number of [vine blights](/3-Mechanics/CLI/bestiary/plant/vine-blight.md)—one blight plus one additional blight for each member of the party, not including sidekicks (maximum five blights). The blights form a descending column, with the closest one 5 feet below the well's mouth. With their blindsight, they can sense intruders in the courtyard. However, they emerge to attack only when they or the Gulthias tree take damage, or when Grannoc (see area W10) commands them to do so. Once the blights are out of the shaft, a Medium or smaller character can climb down it, slipping between the branches of the tree with ease (no ability check needed).
+Hidden in the shaft are a number of vine blights—one blight plus one additional blight for each member of the party, not including sidekicks (maximum five blights). The blights form a descending column, with the closest one 5 feet below the well's mouth. With their blindsight, they can sense intruders in the courtyard. However, they emerge to attack only when they or the Gulthias tree take damage, or when Grannoc (see area W10) commands them to do so. Once the blights are out of the shaft, a Medium or smaller character can climb down it, slipping between the branches of the tree with ease (no ability check needed).
 
 The Gulthias tree is a Huge plant with blood for sap. It has AC 15, 250 hit points, vulnerability to fire damage, and no actions, reactions, or defenses. Like an ordinary tree, it's immobile. Unless it's completely uprooted, however, it regrows from its roots even if it's reduced to 0 hit points, regaining 1 hit point every 24 hours.
 
-On any night when the moon is blood red, the Gulthias tree can spawn `dice:2d6|noform|noparens|avg` (`2d6`) [twig blights](/3-Mechanics/CLI/bestiary/plant/twig-blight.md), `dice:1d6|noform|noparens|avg` (`1d6`) [needle blights](/3-Mechanics/CLI/bestiary/plant/needle-blight.md), or `dice:1d4|noform|noparens|avg` (`1d4`) [vine blights](/3-Mechanics/CLI/bestiary/plant/vine-blight.md). These blights split from the tree and crawl out of the well, ready to do Grannoc's bidding.
+On any night when the moon is blood red, the Gulthias tree can spawn `2d6` twig blights, `1d6` needle blights, or `1d4` vine blights. These blights split from the tree and crawl out of the well, ready to do Grannoc's bidding.
 
 ##### Sounding the Alarm
 
@@ -177,7 +177,7 @@ If the characters manage to get this far without alerting Grannoc, they catch hi
 > Where the lightning bolts converge, a half-orc wearing hide armor performs an eerie dance while consuming the entrails of a dead possum. Standing around the half-orc are several small twig figures.
 ^1c8
 
-The half-orc, Grannoc, is an [anchorite of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md). Under his command are a number of [twig blights](/3-Mechanics/CLI/bestiary/plant/twig-blight.md)—three blights for each character in the party, not including sidekicks. Characters who watch Grannoc without alerting or interrupting him can determine that he's performing a ritual with a successful DC 15 Intelligence (Religion) check. Grannoc hopes Talos will answer his prayers and rain destruction down upon Falcon's Hunting Lodge. Any interruption by the characters spoils the ritual and incurs Grannoc's wrath.
+The half-orc, Grannoc, is an [anchorite of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md). Under his command are a number of twig blights—three blights for each character in the party, not including sidekicks. Characters who watch Grannoc without alerting or interrupting him can determine that he's performing a ritual with a successful DC 15 Intelligence (Religion) check. Grannoc hopes Talos will answer his prayers and rain destruction down upon Falcon's Hunting Lodge. Any interruption by the characters spoils the ritual and incurs Grannoc's wrath.
 
 ##### Map
 
@@ -198,7 +198,7 @@ One of the bookcases on the balcony conceals a secret door into area W12. Tuggin
 
 ##### Treasure
 
-The books found here are old texts written in Elvish that describe long-lost elven kingdoms and civilizations. They are too damaged to be worth anything. Additionally, one desk has a small book tucked under one of its back legs to level it off. The book is titled *Elvish Idioms*, and its pages have been cut out to conceal a tiny leather packet containing dust of disappearance. If the characters find the packet and identify the dust, give the players the Dust of Disappearance [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Dust%20of%20Disappearance) or they can reference it in the Magic Items Listing.
+The books found here are old texts written in Elvish that describe long-lost elven kingdoms and civilizations. They are too damaged to be worth anything. Additionally, one desk has a small book tucked under one of its back legs to level it off. The book is titled *Elvish Idioms*, and its pages have been cut out to conceal a tiny leather packet containing [dust of disappearance](3-Mechanics/CLI/items/dust-of-disappearance.md). If the characters find the packet and identify the dust, give the players the [Dust of Disappearance](3-Mechanics/CLI/items/dust-of-disappearance.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Dust%20of%20Disappearance) or they can reference it in the Magic Items Listing.
 
 #### W12. Master Bedroom
 
@@ -206,7 +206,7 @@ A four-poster bed stands between two shuttered windows against the west wall. Ot
 
 ##### Treasure
 
-A detect magic spell reveals an aura of conjuration magic emanating from the fireplace mantel. Any character who searches it and succeeds on a DC 10 Wisdom (Perception) check discovers that the mantelpiece is actually a lid concealing a long, hidden compartment. The wizard who built the manse hid her staff of birdcalls here. If the characters obtain and identify the staff, give the players the Staff of Birdcalls [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Staff%20of%20Birdcalls) or they can reference it in the Magic Items Listing.
+A detect magic spell reveals an aura of conjuration magic emanating from the fireplace mantel. Any character who searches it and succeeds on a DC 10 Wisdom (Perception) check discovers that the mantelpiece is actually a lid concealing a long, hidden compartment. The wizard who built the manse hid her staff of birdcalls here. If the characters obtain and identify the staff, give the players the Staff of Birdcalls [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Staff%20of%20Birdcalls) or they can reference it in the Magic Items Listing.
 
 #### W13. Magic Item Vault
 
@@ -221,7 +221,7 @@ The chest weighs 30 pounds and is magically locked. A knock spell unlocks it, or
 
 ##### Treasure
 
-The garment hanging on the hook is a cloak of billowing, and the chest contains an immovable rod wrapped in a black cloth. If the characters acquire and identify these magic items, give the players the Cloak of Billowing and Immovable Rod [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) or they can reference them in the Magic Items Listing.
+The garment hanging on the hook is a cloak of billowing, and the chest contains an [immovable rod](3-Mechanics/CLI/items/immovable-rod.md) wrapped in a black cloth. If the characters acquire and identify these magic items, give the players the Cloak of Billowing and [Immovable Rod](3-Mechanics/CLI/items/immovable-rod.md) [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md) or they can reference them in the Magic Items Listing.
 
 #### W14. Upstairs Hall
 
@@ -234,9 +234,9 @@ Describe this area to the players as follows:
 
 The wooden staircase that leads downstairs is trapped (see area W3).
 
-The head mounted above the fireplace is that of an [ankheg](/3-Mechanics/CLI/bestiary/monstrosity/ankheg.md) (see "Ankheg" in the Creatures chapter for an illustration).
+The head mounted above the fireplace is that of an ankheg (see "Ankheg" in the Creatures chapter for an illustration).
 
-The hallway leading to area W12 is dark. [Stirges](/3-Mechanics/CLI/bestiary/beast/stirge.md) hang from the rafters here—three stirges per party member, not including sidekicks (maximum twelve stirges). The hungry stirges attack any warm-blooded creature that enters the area.
+The hallway leading to area W12 is dark. Stirges hang from the rafters here—three stirges per party member, not including sidekicks (maximum twelve stirges). The hungry stirges attack any warm-blooded creature that enters the area.
 
 #### W15. Bathroom
 
@@ -244,7 +244,7 @@ This room has a conical roof and an open window to the north, through which ivy 
 
 #### W16. Slanted Rooftop
 
-Sections of this wood-shingled roof have collapsed into area W7, leaving gaping holes. The westernmost 15-foot-square section of roof collapses if 50 pounds or more of weight is placed on it. Any creature standing on this section of the roof when it collapses must succeed on a DC 10 Dexterity saving throw or fall into area W7 below, taking `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage on impact.
+Sections of this wood-shingled roof have collapsed into area W7, leaving gaping holes. The westernmost 15-foot-square section of roof collapses if 50 pounds or more of weight is placed on it. Any creature standing on this section of the roof when it collapses must succeed on a DC 10 Dexterity saving throw or fall into area W7 below, taking 3 (`1d6`) bludgeoning damage on impact.
 
 #### W17. Upper Arcade
 
@@ -252,14 +252,14 @@ This corridor is enclosed by two double doors and four open windows. Characters 
 
 #### W18. Guest Room
 
-This room has been claimed by hostile [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) in league with Grannoc. Four orcs are here, plus an additional orc for each character in the party, not including sidekicks. The orcs are sharpening their weapons in anticipation of an attack on Falcon's Hunting Lodge. The orcs have destroyed this room's once-fine furnishings, leaving nothing of value. A hole in the southwest corner of the floor leads to area W9 below.
+This room has been claimed by hostile orcs in league with Grannoc. Four orcs are here, plus an additional orc for each character in the party, not including sidekicks. The orcs are sharpening their weapons in anticipation of an attack on Falcon's Hunting Lodge. The orcs have destroyed this room's once-fine furnishings, leaving nothing of value. A hole in the southwest corner of the floor leads to area W9 below.
 
 ## Leaving the Manse
 
-When the characters finish exploring the manse, they are attacked as they make their exit. The attacking force consists of any [anchorites of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) and [boars](/3-Mechanics/CLI/bestiary/beast/boar.md) in area W1 that were not previously killed or forced to flee. In addition, [needle blights](/3-Mechanics/CLI/bestiary/plant/needle-blight.md) emerge from the woods to join the battle—two blights for each character in the party, not including sidekicks.
+When the characters finish exploring the manse, they are attacked as they make their exit. The attacking force consists of any [anchorites of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) and boars in area W1 that were not previously killed or forced to flee. In addition, needle blights emerge from the woods to join the battle—two blights for each character in the party, not including sidekicks.
 
 ## Counterattack!
 
-The day after the characters attack the manse, dark clouds settle over Neverwinter Wood as the [anchorites of Talos](/3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) stage a counterattack against Falcon's Hunting Lodge. [Gorthok the Thunder Boar](/3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md) smashes through the lodge's palisade, allowing twenty [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) to storm the lodge.
+The day after the characters attack the manse, dark clouds settle over Neverwinter Wood as the [anchorites of Talos](3-Mechanics/CLI/bestiary/humanoid/anchorite-of-talos-dip.md) stage a counterattack against Falcon's Hunting Lodge. [Gorthok the Thunder Boar](3-Mechanics/CLI/bestiary/npc/gorthok-the-thunder-boar-dip.md) smashes through the lodge's palisade, allowing twenty orcs to storm the lodge.
 
 If the characters aren't present when the lodge is attacked, Falcon and his servants flee on Falcon's riding horse and make their way to Phandalin, surrendering the lodge to the orcs.

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Crystal Golem
+- "Crystal Golem"
 ---
-# [Crystal Golem](3-Mechanics\CLI\bestiary\construct/crystal-golem-wdmm.md)
+# [Crystal Golem](3-Mechanics/CLI/bestiary/construct/crystal-golem-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  
 
 Crystal golems found throughout the Crystal Labyrinth look like 10-foot-tall githyanki warriors. Like other golems, they are nearly impervious to spells and ordinary weapons.
@@ -37,8 +37,11 @@ Crystal golems found throughout the Crystal Labyrinth look like 10-foot-tall git
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -53,7 +56,7 @@ Crystal golems found throughout the Crystal Labyrinth look like 10-foot-tall git
       \ for an additional 30 feet. This light goes out when the golem is destroyed."
     "name": "Illumination"
   - "desc": "Any creature that starts its turn within 10 feet of the illuminated golem\
-      \ and can see the golem must succeed on a DC 17 Wisdom saving throw or be blinded\
+      \ and can see the golem must succeed on a DC 17 Wisdom saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ until the start of the creature's next turn.\n\nA creature can avert its eyes\
       \ to avoid the saving throw at the start of its turn. If the creature does so,\
       \ it can't see the golem until the start of its next turn, when it can avert\
@@ -63,8 +66,8 @@ Crystal golems found throughout the Crystal Labyrinth look like 10-foot-tall git
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem targets one or more creatures it can see within 10 feet of\
       \ it. Each target must make a DC 17 Wisdom saving throw against this magic.\
@@ -76,6 +79,6 @@ Crystal golems found throughout the Crystal Labyrinth look like 10-foot-tall git
     "name": "Slow (Recharge 5-6)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/crystal-golem-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/crystal-golem-wdmm.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Duergar in the Clan; Clan's Notable Trait
+- "Duergar in the Clan; Clan's Notable Trait"
 ---
 # Duergar in the Clan; Clan's Notable Trait
 *Source: Mordenkainen's Tome of Foes p. 84* 
 
 **Clan's Notable Trait**
-
-`dice: [](duergar-in-the-clan-clans-notable-trait-mtf.md#^clans-notable-trait)`
 
 | dice: d12 | Trait |
 |-----------|-------|

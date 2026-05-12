@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Killer Whale
+- "Killer Whale"
 ---
-# [Killer Whale](3-Mechanics\CLI\bestiary\beast/killer-whale.md)
-*Source: Monster Manual p. 331, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Killer Whale](3-Mechanics/CLI/bestiary/beast/killer-whale.md)
+*Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Killer Whale"
@@ -35,17 +35,19 @@ aliases:
   - !!int "7"
 "speed": "swim 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "blindsight 120 ft., passive Perception 13"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "3"
 "traits":
-  - "desc": "The whale can't use its blindsight while deafened."
+  - "desc": "The whale can't use its blindsight while [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)."
     "name": "Echolocation"
   - "desc": "The whale can hold its breath for 30 minutes."
     "name": "Hold Breath"
-  - "desc": "The whale has advantage on Wisdom (Perception) checks that rely on hearing."
+  - "desc": "The whale has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing."
     "name": "Keen Hearing"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21\
@@ -53,8 +55,7 @@ aliases:
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/killer-whale.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/killer-whale.webp"
 ```
 ^statblock
 

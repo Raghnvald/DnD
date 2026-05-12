@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-4
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reindeer
+- "Reindeer"
 ---
-# [Reindeer](3-Mechanics\CLI\bestiary\beast/reindeer-idrotf.md)
+# [Reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 107*  
 
 To ensure that they don't starve in the winter, the Reghed nomads of Icewind Dale follow the migration routes of reindeer herds and are mindful not to deplete the herds to the point where the beasts can no longer flourish or defend themselves against other natural predators.
@@ -43,17 +43,17 @@ The average adult reindeer is 5 feet tall at the shoulder and weighs 250 pounds.
   - "desc": "If the reindeer moves at least 20 feet straight toward a target and then\
       \ hits it with a ram attack on the same turn, the target takes an extra 7 (2d6)\
       \ damage. If the target is a creature, it must succeed on a DC 13 Strength saving\
-      \ throw or be knocked prone."
+      \ throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage."
     "name": "Ram"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:*\
-      \ 8 (2d4 + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ creature. *Hit:* 8 (2d4 + 3) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/reindeer-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/reindeer-idrotf.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Secondary Tables; Crime
+- "Secondary Tables; Crime"
 ---
 # Secondary Tables; Crime
 *Source: Xanathar's Guide to Everything p. 70* 
 
 **Crime**
-
-`dice: [](secondary-tables-crime-xge.md#^crime)`
 
 | dice: d8 | Crime |
 |----------|-------|

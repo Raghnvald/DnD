@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/8
-- new/monster/size/large
-- new/monster/type/celestial/unicorn
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/8
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial/unicorn
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Forest Master
+- "Forest Master"
 ---
-# [Forest Master](3-Mechanics\CLI\bestiary\celestial/forest-master-mcv2dc.md)
+# [Forest Master](3-Mechanics/CLI/bestiary/celestial/forest-master-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 6*  
 
 Said to be older than the trees themselves, the Forest Master is a wise and powerful unicorn who rules over the creatures of Darken Wood in Krynn. The ancient being's body is wreathed in protective briars, and moonlight dances around the unicorn's horn. Those who threaten the Forest Master's lands find themselves beguiled by magical mist and nigh-impregnable thorny thickets, but those who gain the Forest Master's favor are blessed with healing and protected as they traverse the woods.
@@ -40,15 +40,17 @@ Said to be older than the trees themselves, the Forest Master is a wise and powe
   - "intelligence": !!int "4"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Nature"
+  - "name": "[Nature](3-Mechanics/CLI/rules/skills.md#Nature)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, paralyzed, poisoned"
-"senses": "darkvision 60 ft., passive Perception 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 17"
 "languages": "Celestial, Elvish, Sylvan, telepathy 60 ft."
 "cr": "8"
 "traits":
@@ -67,13 +69,16 @@ Said to be older than the trees themselves, the Forest Master is a wise and powe
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) bludgeoning damage."
     "name": "Hooves"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:* 11\
-      \ (2d6 + 4) radiant damage."
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 60 ft., one target. *Hit:*\
+      \ 11 (2d6 + 4) radiant damage."
     "name": "Moon Bolt"
   - "desc": "The Forest Master casts one of the following spells, requiring no material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
-      \n**At will:** druidcraft, fog cloud, guidance\n\n**2/day each:** goodberry,\
-      \ greater restoration, pass without trace, speak with plants"
+      \n**At will:** [druidcraft](3-Mechanics/CLI/spells/druidcraft.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md),\
+      \ [guidance](3-Mechanics/CLI/spells/guidance.md)\n\n**2/day each:** [goodberry](3-Mechanics/CLI/spells/goodberry.md),\
+      \ [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md), [pass\
+      \ without trace](3-Mechanics/CLI/spells/pass-without-trace.md), [speak with\
+      \ plants](3-Mechanics/CLI/spells/speak-with-plants.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The Forest Master touches his horn to the earth and causes a 5-foot-tall\
@@ -94,6 +99,6 @@ Said to be older than the trees themselves, the Forest Master is a wise and powe
     "name": "Misty Escape"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/forest-master-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/forest-master-mcv2dc.webp"
 ```
 ^statblock

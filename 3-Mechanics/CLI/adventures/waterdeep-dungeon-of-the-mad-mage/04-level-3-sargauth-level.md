@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 3: Sargauth Level
+- "Level 3: Sargauth Level"
 ---
 # Level 3: Sargauth Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 43* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/008-301.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/008-301.webp#center)
 
 The Sargauth Level is designed for four 7th-level characters, and characters who defeat the monsters on this level should gain enough XP to reach 8th level. This level of Undermountain is connected to the subterranean settlement of Skullport by way of tunnels, as well as the River Sargauth itself (see "Skullport"). More ancient than Skullport is the town of Stromkuhldur, whose ruins lie half-buried in the heart of the Sargauth Level. Goblinoids and drow vie for control of these ruins, which were previously inhabited by the Netherese and the Melairkyn dwarves.
 
@@ -24,15 +24,15 @@ A drow priestess of Lolth named T'rissa Auvryndar and her retinue have assumed c
 
 ### Legion of Azrok
 
-Azrok, the son of a hobgoblin warlord, was born blind. Such a curse would ordinarily have spelled his doom in hobgoblin society, but Azrok's mother was a sorcerer, and she refused to allow her son's misfortune to dictate his destiny. She crafted a [dagger of blindsight](/3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md), which young Azrok used to defend himself and perceive his surroundings. The dagger allowed Azrok to become the powerful soldier and leader he was fated to be, and he was quickly promoted up through the ranks until none stood above him. Other goblinoids believed he was blessed by Maglubiyet, the great god of war. Azrok wisely hid the true source of his "godsight" to perpetuate the myth.
+Azrok, the son of a hobgoblin warlord, was born blind. Such a curse would ordinarily have spelled his doom in hobgoblin society, but Azrok's mother was a sorcerer, and she refused to allow her son's misfortune to dictate his destiny. She crafted a [dagger of blindsight](3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md), which young Azrok used to defend himself and perceive his surroundings. The dagger allowed Azrok to become the powerful soldier and leader he was fated to be, and he was quickly promoted up through the ranks until none stood above him. Other goblinoids believed he was blessed by Maglubiyet, the great god of war. Azrok wisely hid the true source of his "godsight" to perpetuate the myth.
 
 Age granted Azrok wisdom and the desire to carve out a domain of his own. He led his forces to Stromkuhldur, and they rid the place of grimlocks and troglodytes that dwelled there. He sired an heir, ensuring that his legacy would last beyond his lifetime. His son, Azrokkog, chafed at his father's sedentary nature and left to wage wars of his own, eventually returning to Undermountain with a new name—Doomcrown—and a new purpose (see "Level 14: Arcturiadoom").
 
 The Legion of Azrok, which has lived in Stromkuhldur for three decades, is in turmoil. Azrok was recently forced to give up a portion of his domain to encroaching drow, and did so with nary a fight. This has sent shock waves through his legion. What caused this strange lack of courage in their great warlord? Has age finally taken its toll?
 
-In reality, a band of duergar thieves posing as merchants recently stole Azrok's [dagger of blindsight](/3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md) and fled using their invisibility. News of the theft reached the drow of House Auvryndar and spurred them to take over the eastern section of Stromkuhldur. Lurkana, Azrok's wife and strongest captain, tried to cover up her husband's blindness, but her efforts were undone by a mind flayer acting as Skullport's ambassador. This mind flayer secretly implanted intellect devourers in the skulls of several goblins in Azrok's court, and these goblins are spreading the truth of Azrok's blindness throughout Stromkuhldur to further besmirch his reputation and demoralize his troops.
+In reality, a band of duergar thieves posing as merchants recently stole Azrok's [dagger of blindsight](3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md) and fled using their invisibility. News of the theft reached the drow of House Auvryndar and spurred them to take over the eastern section of Stromkuhldur. Lurkana, Azrok's wife and strongest captain, tried to cover up her husband's blindness, but her efforts were undone by a mind flayer acting as Skullport's ambassador. This mind flayer secretly implanted intellect devourers in the skulls of several goblins in Azrok's court, and these goblins are spreading the truth of Azrok's blindness throughout Stromkuhldur to further besmirch his reputation and demoralize his troops.
 
-The hobgoblins under Azrok remain loyal to him, but many of the goblins and bugbears have fled to Skullport to join the Xanathar Guild. Compounding Azrok's and Lurkana's woes is the likelihood that House Auvryndar is planning another attack to seize more territory. Fears of a Xanathar Guild offensive emerging from Skullport also play in the back of Azrok's mind. Meanwhile, Lurkana searches for aid in finding the duergar thieves who stole the [dagger of blindsight](/3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md) and returning it to her.
+The hobgoblins under Azrok remain loyal to him, but many of the goblins and bugbears have fled to Skullport to join the Xanathar Guild. Compounding Azrok's and Lurkana's woes is the likelihood that House Auvryndar is planning another attack to seize more territory. Fears of a Xanathar Guild offensive emerging from Skullport also play in the back of Azrok's mind. Meanwhile, Lurkana searches for aid in finding the duergar thieves who stole the [dagger of blindsight](3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md) and returning it to her.
 
 > [!note] Side Quest: Retrieve Azrok's Dagger
 > 
@@ -54,8 +54,8 @@ Eager to expunge the drow occupying his dungeon, Halaster has summoned a coven o
 All location descriptions for this level are keyed to map 3. As one gets closer to the River Sargauth, the echoes of its sluggish waters become ambient.
 
 > [!gallery]
-> ![Map 3](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/009-302.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/010-303.webp#gallery)
+> ![Map 3](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/009-302.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/010-303.webp#gallery)
 
 ### 1. Catacombs
 
@@ -68,17 +68,17 @@ These catacombs are part of a temple complex formerly dedicated to the dwarven g
 > **Tombs**. Shelf-like niches carved into the walls are stacked three high. Each of these open tombs contains the dust-covered bones of a long-dead dwarf.
 ^193
 
-The dwarves laid to rest here were all worshipers of Dumathoin. Characters who search each shelf also find fragments of metal armor so old that they turn to dust at the lightest touch, as well as tiny stone beads with holes bored through them. A character who inspects the beads and succeeds on a DC 20 Intelligence (History) check recalls that ancient dwarves braided the beards of their dead using these stone beads.
+The dwarves laid to rest here were all worshipers of Dumathoin. Characters who search each shelf also find fragments of metal armor so old that they turn to dust at the lightest touch, as well as tiny stone beads with holes bored through them. A character who inspects the beads and succeeds on a DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recalls that ancient dwarves braided the beards of their dead using these stone beads.
 
 ### 2. Dead Explorer
 
 The partially rotted remains of a male human lie in a corner of this cavern. What's left of his face is twisted into a silent scream.
 
-A successful DC 13 Wisdom (Medicine) check reveals several grisly wounds on the corpse, including one on his neck where the skin has peeled outward, suggesting that something emerged from within. This human died after spider eggs hatched inside his body and the creatures swarmed out of him.
+A successful DC 13 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check reveals several grisly wounds on the corpse, including one on his neck where the skin has peeled outward, suggesting that something emerged from within. This human died after spider eggs hatched inside his body and the creatures swarmed out of him.
 
 ### 3. Grick Ambush
 
-Three [gricks](/3-Mechanics/CLI/bestiary/monstrosity/grick.md) hide at the end of this tunnel and attempt to ambush the characters.
+Three [gricks](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md) hide at the end of this tunnel and attempt to ambush the characters.
 
 ### 4. Webbed Tunnels
 
@@ -88,11 +88,11 @@ Web-covered areas count as difficult terrain, but they're not strong enough to r
 
 #### 4a. Wandering Quaggoths
 
-Three [quaggoths](/3-Mechanics/CLI/bestiary/humanoid/quaggoth.md) serving as guards for the drow are patrolling this 10-foot-high area. When they detect intruders, one tries to run to area 5 to sound the alarm while the remaining two attack. On the second round of combat, the clamor attracts the spiders in area 4b.
+Three [quaggoths](3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) serving as guards for the drow are patrolling this 10-foot-high area. When they detect intruders, one tries to run to area 5 to sound the alarm while the remaining two attack. On the second round of combat, the clamor attracts the spiders in area 4b.
 
 #### 4b. Phase Spider Lair
 
-Four [phase spiders](/3-Mechanics/CLI/bestiary/monstrosity/phase-spider.md) lurk in this 20-foot-high cave. If they hear the characters approaching, they shift to the Ethereal Plane and try to ambush the characters.
+Four [phase spiders](3-Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) lurk in this 20-foot-high cave. If they hear the characters approaching, they shift to the Ethereal Plane and try to ambush the characters.
 
 #### 4c. Gobbled Goblins
 
@@ -105,7 +105,7 @@ Four [phase spiders](/3-Mechanics/CLI/bestiary/monstrosity/phase-spider.md) lurk
 > **Stained Floor**. The uneven floor is stained a rusty red.
 ^19a
 
-The drow feed wandering goblins to the phase spiders. A character who succeeds on a DC 12 Wisdom (Perception) check notices that one of the bundles is wriggling slightly. The bundle contains a [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) named Greech, who has been mutilated by spiders and drained of his blood. The goblin has 3 hit points left and is missing his tongue. He tries desperately to bargain for his life using grunts and frantic sign language.
+The drow feed wandering goblins to the phase spiders. A character who succeeds on a DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices that one of the bundles is wriggling slightly. The bundle contains a [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named Greech, who has been mutilated by spiders and drained of his blood. The goblin has 3 hit points left and is missing his tongue. He tries desperately to bargain for his life using grunts and frantic sign language.
 
 ### 5. House Auvryndar
 
@@ -115,7 +115,7 @@ This area outside the old temple of Dumathoin marks the beginning of the drow se
 
 > [!note] 
 > 
-> **Guards**. Four [quaggoths](/3-Mechanics/CLI/bestiary/humanoid/quaggoth.md) guard this entryway. If any quaggoths fled from area 4a, they are waiting here, along with a male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Ilnor Telenna, who has come to investigate.
+> **Guards**. Four [quaggoths](3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md) guard this entryway. If any quaggoths fled from area 4a, they are waiting here, along with a male [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Ilnor Telenna, who has come to investigate.
 > 
 > **Webs**. Thick cobwebs stretch between the walls and form a canopy across the ceiling, from which hundreds of tiny spiders dangle on silken threads.
 > 
@@ -128,20 +128,20 @@ The spider silk bundles are sticky but easily torn open to reveal two stout stat
 
 > [!note] 
 > 
-> **Miners**. Sparkling veins of gold stripe this hall. These minerals were preserved by the ancient dwarves for their natural beauty, but currently four [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md)—slaves of the drow—are mining the veins with pickaxes. (If the troglodytes hear combat in area 5a, they drop their pickaxes and flee to area 6.)
+> **Miners**. Sparkling veins of gold stripe this hall. These minerals were preserved by the ancient dwarves for their natural beauty, but currently four [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md)—slaves of the drow—are mining the veins with pickaxes. (If the troglodytes hear combat in area 5a, they drop their pickaxes and flee to area 6.)
 > 
-> **Webs**. The ceiling is covered with webs that conceal a [giant spider](/3-Mechanics/CLI/bestiary/beast/giant-spider.md). It attacks the adventurers from above.
+> **Webs**. The ceiling is covered with webs that conceal a [giant spider](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). It attacks the adventurers from above.
 > 
 > **Door**. The west door to area 6 is emblazoned with a bronze relief of a mountain with a fist-sized depression in its center. The door is locked.
 ^19f
 
 ##### Bronze Relief Door
 
-A successful DC 13 Intelligence (Religion) check reveals that the relief resembles the symbol of Dumathoin but is missing a gem. Placing any gem in the depression unlocks the door. The door can also be opened with a knock spell or similar magic, or by a character who uses thieves' tools and succeeds on a DC 20 Dexterity check.
+A successful DC 13 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check reveals that the relief resembles the symbol of Dumathoin but is missing a gem. Placing any gem in the depression unlocks the door. The door can also be opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic, or by a character who uses thieves' tools and succeeds on a DC 20 Dexterity check.
 
 ##### Treasure
 
-The gold veins are actually pyrite (fool's gold), which a character can determine by succeeding on a DC 13 Intelligence (Nature) check. The mineral is lovely, but not of great value. The troglodytes have chipped off twenty 1-pound chunks of pyrite (5 sp each).
+The gold veins are actually pyrite (fool's gold), which a character can determine by succeeding on a DC 13 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. The mineral is lovely, but not of great value. The troglodytes have chipped off twenty 1-pound chunks of pyrite (5 sp each).
 
 #### 5c. Prison
 
@@ -149,24 +149,24 @@ The gold veins are actually pyrite (fool's gold), which a character can determin
 > 
 > **Cells**. The west end of this hall has six cells with barred doors of rusted iron.
 > 
-> **Grimlocks**. Six [grimlocks](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md) terrorize the prisoners in the cells by reaching between the bars with bone clubs. (They don't have keys to unlock the cells.)
+> **Grimlocks**. Six [grimlocks](3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md) terrorize the prisoners in the cells by reaching between the bars with bone clubs. (They don't have keys to unlock the cells.)
 ^1a3
 
-T'rissa Auvryndar (see area 6) carries the keys to the cells. The lock on each cell door can be picked with thieves' tools and a successful DC 10 Dexterity check. The rusty bars can be torn away from a door with a successful DC 21 Strength (Athletics) check. The cells' occupants are as follows:
+T'rissa Auvryndar (see area 6) carries the keys to the cells. The lock on each cell door can be picked with thieves' tools and a successful DC 10 Dexterity check. The rusty bars can be torn away from a door with a successful DC 21 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The cells' occupants are as follows:
 
-- Geldax Breer (NG male half-elf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) occupies the easternmost cell. He is a Waterdavian lamplighter abducted several nights ago by the drow (and doomed to become a sacrifice to Lolth unless he escapes).  
-- Lurrash, an unarmed male [hobgoblin](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md), occupies the next cell. He is loyal to Warlord Azrok, and the drow are planning to interrogate him for information.  
+- Geldax Breer (NG male half-elf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) occupies the easternmost cell. He is a Waterdavian lamplighter abducted several nights ago by the drow (and doomed to become a sacrifice to Lolth unless he escapes).  
+- Lurrash, an unarmed male [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md), occupies the next cell. He is loyal to Warlord Azrok, and the drow are planning to interrogate him for information.  
 - The next cell is occupied by the maggot-laced corpse of a grell that starved to death while in captivity.  
-- The three westernmost cells are occupied by armed male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) named Quave, Narlros, and T'mek. They are being tested by T'rissa Auvryndar, who is hungry for a new consort. The drow are all malnourished and have weeping wounds from the lashes of a scourge. Each has 8 hit points remaining. While locked in their cells, they attack intruders they can see with their hand crossbows.  
+- The three westernmost cells are occupied by armed male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) named Quave, Narlros, and T'mek. They are being tested by T'rissa Auvryndar, who is hungry for a new consort. The drow are all malnourished and have weeping wounds from the lashes of a scourge. Each has 8 hit points remaining. While locked in their cells, they attack intruders they can see with their hand crossbows.  
 
 #### 5d. Sun Elf
 
-The door to this chamber is barred from the outside. Confined inside is a prisoner named [Marta Moonshadow](/3-Mechanics/CLI/bestiary/npc/marta-moonshadow-wdmm.md). Fascinated by drow culture, Marta hoped to join the ranks of House Auvryndar but was captured and locked up instead. She seeks an opportunity to prove her worth to the drow.
+The door to this chamber is barred from the outside. Confined inside is a prisoner named [Marta Moonshadow](3-Mechanics/CLI/bestiary/npc/marta-moonshadow-wdmm.md). Fascinated by drow culture, Marta hoped to join the ranks of House Auvryndar but was captured and locked up instead. She seeks an opportunity to prove her worth to the drow.
 
-Marta is a sun elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md), with these changes:
+Marta is a sun elf [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md), with these changes:
 
 - Marta is neutral evil.  
-- She has the following racial traits: She speaks Common, Draconic, Dwarvish, Elvish, and Undercommon. She has darkvision out to a range of 60 feet. She has advantage on saving throws against being charmed, and magic can't put her to sleep. Add ray of frost to her list of known cantrips.  
+- She has the following racial traits: She speaks Common, Draconic, Dwarvish, Elvish, and Undercommon. She has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. She has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put her to sleep. Add [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md) to her list of known cantrips.  
 - Her spellbook and her arcane focus were taken from her. (The characters can find them in area 20b.)  
 
 ### 6. Temple of Dumathoin
@@ -175,13 +175,13 @@ This ancient temple of Dumathoin has been converted into a vile hatchery for gia
 
 > [!note] 
 > 
-> **Dais**. T'rissa Auvryndar, a [drow priestess of Lolth](/3-Mechanics/CLI/bestiary/humanoid/drow-priestess-of-lolth.md), stands atop a raised dais at the back of the hall, presiding over a group of four [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) (two females named Ardulace and Dhessril, and two males named Izzatlab and Yriltorn) and three [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider.md). If the characters didn't encounter the [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) in area 5a, he is present as well.
+> **Dais**. T'rissa Auvryndar, a [drow priestess of Lolth](3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md), stands atop a raised dais at the back of the hall, presiding over a group of four [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) (two females named Ardulace and Dhessril, and two males named Izzatlab and Yriltorn) and three [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). If the characters didn't encounter the [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) in area 5a, he is present as well.
 > 
-> **Spiders**. Scores of tarantula-sized baby giant [spiders](/3-Mechanics/CLI/bestiary/beast/spider.md) creep and crawl throughout the room. (Unless they're destroyed, most of them will mature into full-size giant spiders in a matter of weeks.)
+> **Spiders**. Scores of tarantula-sized baby giant [spiders](3-Mechanics/CLI/bestiary/beast/spider-xmm.md) creep and crawl throughout the room. (Unless they're destroyed, most of them will mature into full-size giant spiders in a matter of weeks.)
 > 
 > **Web Cocoons**. Stone pillars hold up the 30-foot-high arched ceiling, which is concealed by a thick canopy of spiderwebs. Strung between the pillars and bas-relief carvings of towering dwarves protruding from the walls are humanoid corpses cocooned in spider silk.
 > 
-> **Sacrifice**. The back wall of the temple is carved with a towering bas-relief of a mountain. Lashed to the mountain with sticky webs is a struggling and gagged male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) with sacks of spider eggs clinging to his body.
+> **Sacrifice**. The back wall of the temple is carved with a towering bas-relief of a mountain. Lashed to the mountain with sticky webs is a struggling and gagged male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) with sacks of spider eggs clinging to his body.
 ^1a6
 
 T'rissa is as malevolent as the demonic god she worships and refuses to speak to non-drow, let alone negotiate with them. T'rissa stabilizes dying characters so that they can be implanted with spider eggs (see "Spider Eggs" below).
@@ -196,9 +196,9 @@ The corpses hanging in the webs are the desiccated husks of prisoners who served
 
 #### Spider Eggs
 
-If the party is defeated, stabilized characters awaken after `dice:1d4|noform|noparens|avg` (`1d4`) hours to find themselves cocooned in sticky webs and suspended 10 feet off the floor, with spider eggs implanted in their bodies. A cocooned character is restrained and can use its action to try to escape by making a successful DC 15 Strength check.
+If the party is defeated, stabilized characters awaken after `1d4` hours to find themselves cocooned in sticky webs and suspended 10 feet off the floor, with spider eggs implanted in their bodies. A cocooned character is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) and can use its action to try to escape by making a successful DC 15 Strength check.
 
-Spider eggs implanted in a host hatch in `dice:2d12|noform|noparens|avg` (`2d12`) hours, killing the host as the baby spiders chew their way out. This infestation functions like a disease. A lesser restoration spell or similar magic cast upon the host kills the spider eggs, ending the threat.
+Spider eggs implanted in a host hatch in `2d12` hours, killing the host as the baby spiders chew their way out. This infestation functions like a disease. A [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md) spell or similar magic cast upon the host kills the spider eggs, ending the threat.
 
 ### 7. Pain and Pleasure
 
@@ -216,7 +216,7 @@ The walls of this room are lined with coiled whips, daggers, and other menacing 
 
 > [!note] 
 > 
-> **Guards**. Four female [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) named Balwiira, Olorgyl, Restryn, and Ulraelle stand guard in the corners of the room, enjoying the screams coming from areas 7d and 7e.
+> **Guards**. Four female [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) named Balwiira, Olorgyl, Restryn, and Ulraelle stand guard in the corners of the room, enjoying the screams coming from areas 7d and 7e.
 > 
 > **Circle**. In the middle of the floor is a 10-foot-diameter circle of entrails surrounded with ghastly script written in blood (see "Abyssal Circle" below).
 > 
@@ -229,20 +229,20 @@ The drow guards have orders to kill all non-drow on sight, including driders tha
 
 ##### Abyssal Circle
 
-The script around the circle is written in Abyssal. Anyone who understands the language and succeeds on a DC 15 Intelligence (Religion) check can ascertain the circle's purpose, which is to send drow to the Abyss as part of a ritual known as the Test of Lolth. Any drow who fails this test returns from the Abyss horrifically transformed into a drider and is instructed to flee by way of the southern tunnel and never return, lest they be killed. Drow who pass the test return to this chamber as they were, with Lolth's blessing and nothing more.
+The script around the circle is written in Abyssal. Anyone who understands the language and succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check can ascertain the circle's purpose, which is to send drow to the Abyss as part of a ritual known as the Test of Lolth. Any drow who fails this test returns from the Abyss horrifically transformed into a drider and is instructed to flee by way of the southern tunnel and never return, lest they be killed. Drow who pass the test return to this chamber as they were, with Lolth's blessing and nothing more.
 
 #### 7d. Water Torture
 
 > [!note] 
 > 
-> **Narizmar**. A nude male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) named Narizmar Do'ett is strapped to a sturdy table positioned beneath a suspended 80-gallon water barrel. A spider silk hood covers his head. (His weapons, shirt, and armor lie in a pile in the northeast corner.)
+> **Narizmar**. A nude male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) named Narizmar Do'ett is strapped to a sturdy table positioned beneath a suspended 80-gallon water barrel. A spider silk hood covers his head. (His weapons, shirt, and armor lie in a pile in the northeast corner.)
 > 
-> **Sylkress**. Unless she is drawn to area 7c by sounds of combat there, a female [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Sylkress Auvryndar stands at the far end of the table, gripping a pair of ropes that cause the barrel to tilt and disgorge water when they are pulled.
+> **Sylkress**. Unless she is drawn to area 7c by sounds of combat there, a female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Sylkress Auvryndar stands at the far end of the table, gripping a pair of ropes that cause the barrel to tilt and disgorge water when they are pulled.
 ^1b0
 
 Sylkress is convinced that Narizmar has pledged his loyalty to another female drow, and she means to learn the identity of this rival for Narizmar's affections. Narizmar actually spread rumors of the affair himself, so that Sylkress would torture him and thereby see his value. In short, the two are enjoying themselves at each other's expense.
 
-If he must, Narizmar can free himself from the leather straps with a successful DC 15 Dexterity (Sleight of Hand) check. Once free, he tries to arm himself. He obeys Sylkress above all others and would willingly sacrifice his life to save hers.
+If he must, Narizmar can free himself from the leather straps with a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. Once free, he tries to arm himself. He obeys Sylkress above all others and would willingly sacrifice his life to save hers.
 
 Sylkress defends herself, but if she is reduced to half her hit points or fewer, she calls for mercy and supplies characters with the following information in exchange for her freedom:
 
@@ -252,7 +252,7 @@ Sylkress defends herself, but if she is reduced to half her hit points or fewer,
 
 #### 7e. Whipping Room
 
-Unless combat in area 7c draws their attention, two female [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) named Pellanonia Auvryndar and Ghirith Nhilran are engaged in a consensual act of torture in this room, which has the following additional features:
+Unless combat in area 7c draws their attention, two female [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) named Pellanonia Auvryndar and Ghirith Nhilran are engaged in a consensual act of torture in this room, which has the following additional features:
 
 > [!note] 
 > 
@@ -261,9 +261,9 @@ Unless combat in area 7c draws their attention, two female [drow](/3-Mechanics/C
 > **Gear**. Lying on a chair in the northeast corner are Pellanonia's armor and weapons.
 ^1b2
 
-Pellanonia and Ghirith are lovers. If she must, Pellanonia can slip free of her bonds with a successful DC 15 Dexterity (Sleight of Hand) check. Once free, she tries to arm herself. As a daughter of House Auvryndar, she uses her status in the house as a shield, claiming that she's worth more alive than dead. If captured or cornered, she is willing to divulge the following information in exchange for her freedom:
+Pellanonia and Ghirith are lovers. If she must, Pellanonia can slip free of her bonds with a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. Once free, she tries to arm herself. As a daughter of House Auvryndar, she uses her status in the house as a shield, claiming that she's worth more alive than dead. If captured or cornered, she is willing to divulge the following information in exchange for her freedom:
 
-- House Auvryndar's main stronghold in Undermountain is in [Muiral](/3-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)'s Gauntlet (level 10) and is under the direct command of her mother, Vlonwelv.  
+- House Auvryndar's main stronghold in Undermountain is in [Muiral](3-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)'s Gauntlet (level 10) and is under the direct command of her mother, Vlonwelv.  
 - Her oldest sister, T'rissa, has orders from their mother to secure the Sargauth Level as a prelude to a full-scale attack on Skullport.  
 - Another of her older sisters, Melith, has gained a foothold in the Twisted Caverns (level 4) and is waging a campaign of violence against the kuo-toa on that level.  
 
@@ -277,7 +277,7 @@ The winds are loudest here, stirring the thick webs that fill this cave and evok
 
 #### 8b. Mad Drider
 
-A [drider](/3-Mechanics/CLI/bestiary/monstrosity/drider.md) driven mad by the wailing winds covers its ears in a futile attempt to block out the noise. When the characters enter the room, it begins shrieking, "Make it stop!" in Elvish. If the characters cast a silence spell around the drider, it enjoys the respite and allows them to pass through its cave unharmed. Otherwise, it attacks them in a demented rage.
+A [drider](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) driven mad by the wailing winds covers its ears in a futile attempt to block out the noise. When the characters enter the room, it begins shrieking, "Make it stop!" in Elvish. If the characters cast a [silence](3-Mechanics/CLI/spells/silence-xphb.md) spell around the drider, it enjoys the respite and allows them to pass through its cave unharmed. Otherwise, it attacks them in a demented rage.
 
 #### 8c. Pirate Rhyme
 
@@ -301,7 +301,7 @@ The river's current is not particularly strong, and characters can easily make t
 
 ### 9. Captain's Grave
 
-Skullport was once a haven for pirates, one of whom came here to hide her treasure—only to die from a poisoned cask of ale shortly thereafter.
+Skullport was once a haven for pirates, one of whom came here to hide her treasure—only to die from a [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) cask of ale shortly thereafter.
 
 #### 9a. River's Edge
 
@@ -309,11 +309,11 @@ This cave at the river's edge contains a weathered backpack left by an adventure
 
 #### 9b. Demon-Guarded Treasure
 
-Two [barlguras](/3-Mechanics/CLI/bestiary/fiend/barlgura.md) crawled out of the Underdark and made a home here. Alerted by approaching light or the echoes of footfalls, they turn invisible and wait to ambush newcomers.
+Two [barlguras](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) crawled out of the Underdark and made a home here. Alerted by approaching light or the echoes of footfalls, they turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and wait to ambush newcomers.
 
 ##### Treasure
 
-Slumped against the west wall is the moldy skeleton of a human pirate clutching a rusty shortsword in one hand and a wooden tankard in the other. A shattered wooden cask lies nearby. Careful examination of the wall above the skeleton reveals a slot carved into the stone. The slot has the same width and depth as the pirate's rusty blade. If this shortsword or one like it is inserted into the slot, a loose rock in the ceiling falls away, and with it comes a moldy old chest. The chest splinters when it hits the floor, spilling out its contents: 500 sp, a sharkskin pouch containing five moss agates (10 gp each), a pair of bone dice (1 gp), a 6-inch-tall empty obsidian bottle carved in the shape of a wizard's tower with a removable cork roof (50 gp), a pearl necklace (250 gp), and a shriveled sea elf's head with a potion of water breathing stuffed in its mouth (with the vial's cork sticking out).
+Slumped against the west wall is the moldy skeleton of a human pirate clutching a rusty shortsword in one hand and a wooden tankard in the other. A shattered wooden cask lies nearby. Careful examination of the wall above the skeleton reveals a slot carved into the stone. The slot has the same width and depth as the pirate's rusty blade. If this shortsword or one like it is inserted into the slot, a loose rock in the ceiling falls away, and with it comes a moldy old chest. The chest splinters when it hits the floor, spilling out its contents: 500 sp, a sharkskin pouch containing five moss agates (10 gp each), a pair of bone dice (1 gp), a 6-inch-tall empty obsidian bottle carved in the shape of a wizard's tower with a removable cork roof (50 gp), a pearl necklace (250 gp), and a shriveled sea elf's head with a [potion of water breathing](3-Mechanics/CLI/items/potion-of-water-breathing-xdmg.md) stuffed in its mouth (with the vial's cork sticking out).
 
 ### 10. Caves of the River Coven
 
@@ -325,11 +325,11 @@ This 8-foot-high cave abuts the River Sargauth. Its floor is covered with wet bl
 
 #### 10b. Grimlocks
 
-Having eluded the drow so far, ten [grimlocks](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md) huddle in the back of this 10-foot-high cavern. They feed on fish from the River Sargauth and fight only in self-defense.
+Having eluded the drow so far, ten [grimlocks](3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md) huddle in the back of this 10-foot-high cavern. They feed on fish from the River Sargauth and fight only in self-defense.
 
 #### 10c. Sea Hag Coven
 
-This 30-foot-high natural cave smells like brine and seaweed. It is home to a coven of three [sea hags](/3-Mechanics/CLI/bestiary/fey/sea-hag.md) in league with [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). Each hag has a [giant crab](/3-Mechanics/CLI/bestiary/beast/giant-crab.md) pet that follows her around and obeys her commands. The cave's other features are as follows:
+This 30-foot-high natural cave smells like brine and seaweed. It is home to a coven of three [sea hags](3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) in league with [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). Each hag has a [giant crab](3-Mechanics/CLI/bestiary/beast/giant-crab-xmm.md) pet that follows her around and obeys her commands. The cave's other features are as follows:
 
 > [!note] 
 > 
@@ -361,11 +361,11 @@ Small geysers bubble throughout this 20-foot-high cave, spouting jets of briny w
 > **Decor**. Ship rigging and tattered sails hang from the ceiling like web strands and torn curtains.
 ^1c4
 
-The stone cauldron, created by Halaster, is filled to the brim with murky water and has five rusty iron keys at the bottom. (These keys unlock the shackles in area 10g.) The cauldron has AC 17, 60 hit points, and immunity to poison and psychic damage. If reduced to 0 hit points, the cauldron cracks and is destroyed. The sea hags use the cauldron as a focus for their scrying spell.
+The stone cauldron, created by Halaster, is filled to the brim with murky water and has five rusty iron keys at the bottom. (These keys unlock the shackles in area 10g.) The cauldron has AC 17, 60 hit points, and immunity to poison and psychic damage. If reduced to 0 hit points, the cauldron cracks and is destroyed. The sea hags use the cauldron as a focus for their [scrying](3-Mechanics/CLI/spells/scrying-xphb.md) spell.
 
-The first time a creature other than a sea hag disturbs the water or damages the cauldron, an elder rune materializes above it (see "Elder Runes"). Draw from the [Elder Runes Deck](/3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B) to determine which rune appears. The elder rune targets a random creature within 60 feet of it.
+The first time a creature other than a sea hag disturbs the water or damages the cauldron, an elder rune materializes above it (see "Elder Runes"). Draw from the [Elder Runes Deck](3-Mechanics/CLI/decks/elder-runes-deck-wdmm.md) (see appendix B) to determine which rune appears. The elder rune targets a random creature within 60 feet of it.
 
-Any creature that drinks a pint or more of water from the cauldron must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour per pint consumed.
+Any creature that drinks a pint or more of water from the cauldron must succeed on a DC 13 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour per pint consumed.
 
 #### 10f. Gnawed Bones
 
@@ -375,7 +375,7 @@ The walls of this cave are stacked neatly with goblin, hobgoblin, troglodyte, an
 
 The sea hags shackle their food here. Old chains bolted to the walls end in five sets of rusty shackles, the keys to which are hidden inside the cauldron in area 10e. A character with thieves' tools can pick each lock with a successful DC 15 Dexterity check.
 
-Two prisoners are chained here when the characters arrive: an unarmed [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) named Lerk and a 13-year-old boy named Delvin Stormshore (CG male Illuskan human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) with no weapons).
+Two prisoners are chained here when the characters arrive: an unarmed [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named Lerk and a 13-year-old boy named Delvin Stormshore (CG male Illuskan human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with no weapons).
 
 The hags caught Delvin after he and a friend "borrowed" a rowboat and used it to explore the sea caves near Skullport. When the sea hags attacked, Delvin's friend leaped out of the boat and managed to swim away, but Delvin wasn't so lucky. He's so cold and scared that he stammers when he tries to talk.
 
@@ -396,9 +396,9 @@ Like most goblins, Lerk is a cowardly bully. He's very hungry and begs character
 > **Figurehead**. Leaning against the south wall is a ship's figurehead carved in the form of a wailing banshee.
 ^1c8
 
-The rowboat wreckage is difficult terrain, and sections of it are prone to collapse. Any creature that ends its turn on the wreckage must succeed on a DC 10 Dexterity saving throw or fall prone.
+The rowboat wreckage is difficult terrain, and sections of it are prone to collapse. Any creature that ends its turn on the wreckage must succeed on a DC 10 Dexterity saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
-The waterlogged figurehead stands 8 feet tall and weighs 1,200 pounds. A detect magic spell reveals an aura of abjuration magic around it. Casting dispel magic on the figurehead renders it nonmagical. Unless its magic is dispelled, the banshee figurehead lets out a tremendous wail if any creature other than a sea hag approaches within 10 feet of the crow's nest. The banshee's wail echoes throughout the cavern and can be heard as far away as area 10c. If the hags survive, they gather reinforcements from areas 10a and 10b and rush to defend their precious treasure.
+The waterlogged figurehead stands 8 feet tall and weighs 1,200 pounds. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of abjuration magic around it. Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the figurehead renders it nonmagical. Unless its magic is dispelled, the banshee figurehead lets out a tremendous wail if any creature other than a sea hag approaches within 10 feet of the crow's nest. The banshee's wail echoes throughout the cavern and can be heard as far away as area 10c. If the hags survive, they gather reinforcements from areas 10a and 10b and rush to defend their precious treasure.
 
 ##### Treasure
 
@@ -423,18 +423,18 @@ A medusa lived in these caverns many years ago until adventurers got the better 
 
 > [!note] 
 > 
-> **Drider Spellcaster**. A [drider](/3-Mechanics/CLI/bestiary/monstrosity/drider.md) lurks in the smaller cave to the north and emerges to confront intruders who enter by way of area 11a. This drider has the Spellcasting trait described in the sidebar that appears in the "Drider" entry in the "Monster Manual".
+> **Drider Spellcaster**. A [drider](3-Mechanics/CLI/bestiary/monstrosity/drider-xmm.md) lurks in the smaller cave to the north and emerges to confront intruders who enter by way of area 11a. This drider has the Spellcasting trait described in the sidebar that appears in the "Drider" entry in the "Monster Manual".
 > 
-> **Statues**. The main cave has a 40-foot-high ceiling filled with the petrified victims of a medusa that once lived here. The drider has wrapped these statues in thick webs, creating an eerie forest of gray cocoons. Strung between these cocoons are web strands that create difficult terrain.
+> **Statues**. The main cave has a 40-foot-high ceiling filled with the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) victims of a medusa that once lived here. The drider has wrapped these statues in thick webs, creating an eerie forest of gray cocoons. Strung between these cocoons are web strands that create difficult terrain.
 ^1ce
 
 The drider clings to the walls, staying out of reach of melee weapons while casting spells or shooting its longbow. As it attacks, it says over and over in Elvish, "The queen is mad—mad at me. She is mad as mad can be."
 
-Pulling apart the web cocoons or setting them on fire reveals the petrified creatures hidden inside them. The creatures include several drow, kuo-toa, and troglodytes, as well as a few dwarf miners and human pirates. All of them are locked in poses of combat, with expressions of fear on their faces.
+Pulling apart the web cocoons or setting them on fire reveals the [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) creatures hidden inside them. The creatures include several drow, kuo-toa, and troglodytes, as well as a few dwarf miners and human pirates. All of them are locked in poses of combat, with expressions of fear on their faces.
 
 ### 12. Boo-ty Hunters
 
-The shape of this riverside cavern resembles a clamshell. The [ghosts](/3-Mechanics/CLI/bestiary/undead/ghost.md) of three human pirates named Algarr Grimtide, Liddie "Slurtongue" Peddlekant, and Fishbone Jim move in and out of the rocks, searching for buried treasure. They attack creatures they perceive as competitors and ignore any others.
+The shape of this riverside cavern resembles a clamshell. The [ghosts](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) of three human pirates named Algarr Grimtide, Liddie "Slurtongue" Peddlekant, and Fishbone Jim move in and out of the rocks, searching for buried treasure. They attack creatures they perceive as competitors and ignore any others.
 
 The ghosts can't rest until they find hidden treasure. The characters can get the ghosts' attention by offering to lead them to a hidden hoard (such as the one in area 9b) or to a location near the river where the characters have buried treasure themselves. The ghosts can follow the party or possess characters but can't stray more than 100 feet from the River Sargauth. Once they find what they're looking for, they cackle and dance about madly, then vanish forever. Characters who lay the ghosts to rest in this way should receive XP as if they had defeated them in combat.
 
@@ -454,20 +454,18 @@ This 20-foot-high cave abuts the River Sargauth and has the following features:
 > 
 > **Door**. An ornate stone door embedded in the northwest wall is flanked by bas-reliefs of helmed dwarves, their faces chipped away by vandals. An inscription carved into the door's molding has also been damaged, rendering it indecipherable.
 > 
-> **Ferry**. A black gondola, its hull carved with leering eyes, is moored at the river's edge and ferried by a black-robed tiefling [skeleton](/3-Mechanics/CLI/bestiary/undead/skeleton.md) clutching a 10-foot pole, which it uses to guide the boat.
+> **Ferry**. A black gondola, its hull carved with leering eyes, is moored at the river's edge and ferried by a black-robed tiefling [skeleton](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) clutching a 10-foot pole, which it uses to guide the boat.
 ^1d3
 
 The gondola and the skeletal ferryman are all creations of Halaster. The gondola, which can hold up to seven Medium creatures and their gear, is a Large object with AC 11, 50 hit points, and immunity to poison and psychic damage.
 
-The tiefling skeleton understands Common and Infernal, but can't speak. It plies the River Sargauth in whichever direction its riders want to go. When the characters reach their destination, the tiefling extends a bony hand, expecting a payment of one coin per passenger. If it doesn't receive the proper payment, both it and the boat fade away. Characters who destroy the skeleton or use an effect that turns undead against it can commandeer the gondola—but without its proper pilot, the ship is attacked whenever it enters a section of the river marked with a wavy arrow. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the following table to determine the nature of the attackers:
-
-`dice: [](04-level-3-sargauth-level.md#^creatures)`
+The tiefling skeleton understands Common and Infernal, but can't speak. It plies the River Sargauth in whichever direction its riders want to go. When the characters reach their destination, the tiefling extends a bony hand, expecting a payment of one coin per passenger. If it doesn't receive the proper payment, both it and the boat fade away. Characters who destroy the skeleton or use an effect that turns undead against it can commandeer the gondola—but without its proper pilot, the ship is attacked whenever it enters a section of the river marked with a wavy arrow. Roll a `d6` and consult the following table to determine the nature of the attackers:
 
 | dice: d6 | Creatures |
 |----------|-----------|
-| 1–2 | Four [minotaur skeletons](/3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md) rise from the river bottom. |
-| 3–4 | Seven [shadows](/3-Mechanics/CLI/bestiary/undead/shadow.md) crawl into the boat. |
-| 5–6 | Four [will-o-wisps](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) materialize above the boat. |
+| 1–2 | Four [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md) rise from the river bottom. |
+| 3–4 | Seven [shadows](3-Mechanics/CLI/bestiary/undead/shadow-xmm.md) crawl into the boat. |
+| 5–6 | Four [will-o-wisps](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) materialize above the boat. |
 ^creatures
 
 ### 14. Stonecarvers' Hall
@@ -480,7 +478,7 @@ A 4-foot-square block of stone has fallen from the ceiling of this hall and crac
 
 ##### Innermost Door
 
-This thick stone door is flanked by bas-relief carvings of dwarves, their faces and beards chipped away. A dwarf can open the door, but no other creatures can do so except by using a knock spell or similar magic. The door has AC 15, 75 hit points, and immunity to all damage except force damage and damage dealt by adamantine weapons.
+This thick stone door is flanked by bas-relief carvings of dwarves, their faces and beards chipped away. A dwarf can open the door, but no other creatures can do so except by using a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. The door has AC 15, 75 hit points, and immunity to all damage except force damage and damage dealt by adamantine weapons.
 
 #### 14b. North Entrance
 
@@ -501,12 +499,12 @@ This thick stone door has the same appearance and properties as the one in area 
 > **Statues**. Four unfinished statues situated around the room have piles of chipped stone around their bases.
 ^1da
 
-Until it escaped captivity and hid here, the xorn was one of Halaster's prized pets, raised on a steady diet of magic gemstones to dramatically increase its size. It comes and goes by phasing through the walls, and it enjoys the quiet solitude that this chamber provides. A successful DC 16 Dexterity (Stealth) check allows a creature to cross the room quietly without waking the xorn, but the check is made with disadvantage if the creature is carrying coins or gemstones, since the xorn can detect such treasures by scent even while it is asleep. The discovery of intruders in its lair provokes its anger, causing it to attack.
+Until it escaped captivity and hid here, the xorn was one of Halaster's prized pets, raised on a steady diet of magic gemstones to dramatically increase its size. It comes and goes by phasing through the walls, and it enjoys the quiet solitude that this chamber provides. A successful DC 16 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check allows a creature to cross the room quietly without waking the xorn, but the check is made with disadvantage if the creature is carrying coins or gemstones, since the xorn can detect such treasures by scent even while it is asleep. The discovery of intruders in its lair provokes its anger, causing it to attack.
 
-The [xorn](/3-Mechanics/CLI/bestiary/elemental/xorn.md) has a challenge rating of 8 (3,900 XP) and the following changes to its statistics:
+The [xorn](3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md) has a challenge rating of 8 (3,900 XP) and the following changes to its statistics:
 
-- The xorn is Large and has `dice:9d10+54|noform|noparens|avg|text(103)` (`9d10 + 54`) hit points.  
-- Its Strength is 20 (+5), and its melee weapon attacks have a +8 bonus to hit. Its claw attacks have a reach of 10 feet and deal `dice:1d8+5|noform|noparens|avg|text(9)` (`1d8 + 5`) slashing damage on a hit, and its bite attack deals `dice:5d6+5|noform|noparens|avg|text(22)` (`5d6 + 5`) piercing damage on a hit.  
+- The xorn is Large and has 103 (`9d10 + 54`) hit points.  
+- Its Strength is 20 (+5), and its melee weapon attacks have a +8 bonus to hit. Its claw attacks have a reach of 10 feet and deal 9 (`1d8 + 5`) slashing damage on a hit, and its bite attack deals 22 (`5d6 + 5`) piercing damage on a hit.  
 
 ##### Fake Cube
 
@@ -536,13 +534,13 @@ The drow cornered and killed several troglodytes in these caves after the reptil
 
 #### 15a. Battle Scene
 
-The floor here is stained with blood and strewn with a dozen spent bolts from hand crossbows. A character who inspects the bolts and succeeds on a DC 15 Intelligence (Nature) check finds evidence of drow poison on the bolts, but the poison has lost its potency.
+The floor here is stained with blood and strewn with a dozen spent bolts from hand crossbows. A character who inspects the bolts and succeeds on a DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check finds evidence of [drow poison](3-Mechanics/CLI/items/lolths-sting-xdmg.md) on the bolts, but the poison has lost its potency.
 
 #### 15b. Rotting Trogs
 
 > [!note] 
 > 
-> **Stench**. A putrid stench fills this 10-foot-high cave, courtesy of three rotting troglodyte corpses riddled with crossbow bolts. Closer examination reveals nasty puncture wounds (from poisoned drow shortswords).
+> **Stench**. A putrid stench fills this 10-foot-high cave, courtesy of three rotting troglodyte corpses riddled with crossbow bolts. Closer examination reveals nasty puncture wounds (from [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) drow shortswords).
 > 
 > **Arch Gate to Level 5**. Embedded in the southeast wall is a stone arch, its keystone and base stones each bearing an engraving of an old man clutching a staff.
 ^1e0
@@ -559,11 +557,11 @@ Four drow sentries watch for river incursions from Skullport. The drow fire cros
 
 #### 16a. North Ledge
 
-Two male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) hide on this ledge, 6 feet above the water. They are brothers named Varaun and Veszdar. If one is killed, the other flees and alerts the drow in area 20.
+Two male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) hide on this ledge, 6 feet above the water. They are brothers named Varaun and Veszdar. If one is killed, the other flees and alerts the drow in area 20.
 
 #### 16b. South Ledge
 
-Hidden atop this 8-foot-high ledge are two male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) named Molkoth and Quilolvir and a female [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Meridin Helvirae. Meridin commands this guard post. She carries a 30-foot-long coil of spider silk rope tied to a grappling hook, which the drow use to swing across the river.
+Hidden atop this 8-foot-high ledge are two male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) named Molkoth and Quilolvir and a female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Meridin Helvirae. Meridin commands this guard post. She carries a 30-foot-long coil of spider silk rope tied to a grappling hook, which the drow use to swing across the river.
 
 A side cave contains the remnants of an old campfire and the skeletal remains of a halfling adventurer who was robbed and killed by his companions. There's no treasure left to be found here.
 
@@ -575,7 +573,7 @@ These caverns stand between the drow and goblinoid settlements on this level.
 
 > [!note] 
 > 
-> **Guards**. Eleven [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) and a [hobgoblin captain](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md) are stationed in this 20-foot-high cave.
+> **Guards**. Eleven [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) and a [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) are stationed in this 20-foot-high cave.
 > 
 > **Blood**. Bloodstains on the floor hint at violent skirmishes that took place here in the past.
 > 
@@ -586,25 +584,25 @@ House Auvryndar and the Legion of Azrok have been fighting for control of this c
 
 #### 17b. Bugbear Sentries
 
-Hunkered down near the eastern wall of this 15-foot-high cave, gnawing on old bones, are six [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) with orders to attack any non-goblinoids traveling through here without an escort.
+Hunkered down near the eastern wall of this 15-foot-high cave, gnawing on old bones, are six [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) with orders to attack any non-goblinoids traveling through here without an escort.
 
 #### 17c. Keepers of the Purple Worm
 
-This 15-foot-high side cave is mostly empty except for two [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) huddled at the north end. The goblins, Dribblespit and Zob, found a treasure buried in the ruins of Stromkuhldur (see "Treasure" below) and brought it here to inspect it more closely. The goblins are oblivious to the danger nearby (see area 17d) and won't give up their newfound treasure easily.
+This 15-foot-high side cave is mostly empty except for two [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) huddled at the north end. The goblins, Dribblespit and Zob, found a treasure buried in the ruins of Stromkuhldur (see "Treasure" below) and brought it here to inspect it more closely. The goblins are oblivious to the danger nearby (see area 17d) and won't give up their newfound treasure easily.
 
 ##### Treasure
 
-Each goblin has half of a 6-inch-tall purple worm statuette carved out of a lustrous purple stone. If the two halves are reattached using a mending cantrip, the statuette can be sold for 125 gp. It weighs 5 pounds.
+Each goblin has half of a 6-inch-tall purple worm statuette carved out of a lustrous purple stone. If the two halves are reattached using a [mending](3-Mechanics/CLI/spells/mending-xphb.md) cantrip, the statuette can be sold for 125 gp. It weighs 5 pounds.
 
 #### 17d. Nerozar the Defeated
 
-Floating in the middle of this 30-foot-high cavern is a beholder zombie named Nerozar and three [gas spores](/3-Mechanics/CLI/bestiary/plant/gas-spore.md) that closely resemble it. Any character who can see the gas spores can discern their true nature with a successful DC 15 Intelligence (Nature) check.
+Floating in the middle of this 30-foot-high cavern is a beholder zombie named Nerozar and three [gas spores](3-Mechanics/CLI/bestiary/plant/gas-spore-fungus-xmm.md) that closely resemble it. Any character who can see the gas spores can discern their true nature with a successful DC 15 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check.
 
-Nerozar has the statistics of a [beholder zombie](/3-Mechanics/CLI/bestiary/undead/beholder-zombie.md), but its Disintegration Ray is replaced with the following:
+Nerozar has the statistics of a [beholder zombie](3-Mechanics/CLI/bestiary/undead/beholder-zombie-xmm.md), but its Disintegration Ray is replaced with the following:
 
 ##### Telekinetic Ray
 
-If the target is a creature, it must succeed on a DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is restrained by the ray's telekinetic grip until the start of the zombie's next turn or until the zombie is incapacitated.If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.
+If the target is a creature, it must succeed on a DC 14 Strength saving throw, or the zombie moves it up to 30 feet in any direction. It is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the ray's telekinetic grip until the start of the zombie's next turn or until the zombie is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The zombie can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or container.
 
 Nerozar uses its Telekinetic Ray to direct the gas spores on collision courses with intruders. The gas spores' poison has no effect on the beholder zombie.
 
@@ -612,7 +610,7 @@ Nerozar challenged Xanathar for lordship of Skullport and lost. Skullport's mind
 
 #### 17e. Otyugh Lair
 
-This 10-foot-high side cavern is piled high with refuse and rotting corpses, under which hides an [otyugh](/3-Mechanics/CLI/bestiary/aberration/otyugh.md). The otyugh is a friend to the goblins, hobgoblins, and bugbears of Azrok's Hold (area 21), who supply it with plenty of carrion. It won't ordinarily attack goblinoids or anyone escorted by them. It will, however, attack any creature that dares to root through its garbage pile.
+This 10-foot-high side cavern is piled high with refuse and rotting corpses, under which hides an [otyugh](3-Mechanics/CLI/bestiary/aberration/otyugh-xmm.md). The otyugh is a friend to the goblins, hobgoblins, and bugbears of Azrok's Hold (area 21), who supply it with plenty of carrion. It won't ordinarily attack goblinoids or anyone escorted by them. It will, however, attack any creature that dares to root through its garbage pile.
 
 The corpses in the garbage pile are the remains of drow, quaggoths, bugbears, goblins, and hobgoblins that were killed in skirmishes between the Legion of Azrok and House Auvryndar. The bodies have been stripped of all armor, weapons, and valuables, and some are missing chunks of flesh—a feast for the otyugh.
 
@@ -622,7 +620,7 @@ This 30-foot-high cavern contains part of the ancient settlement of Stromkuhldur
 
 ### 19. Chimera's Lair
 
-T'rissa Auvryndar's pet [chimera](/3-Mechanics/CLI/bestiary/monstrosity/chimera.md) lounges atop a pile of coins in the southern half of this 15-foot-high cavern. The chimera can be placated with food and shiny trinkets; otherwise, it attacks adventurers who come too close to its hoard.
+T'rissa Auvryndar's pet [chimera](3-Mechanics/CLI/bestiary/monstrosity/chimera-xmm.md) lounges atop a pile of coins in the southern half of this 15-foot-high cavern. The chimera can be placated with food and shiny trinkets; otherwise, it attacks adventurers who come too close to its hoard.
 
 The chimera's hoard contains 600 ep, 2,000 sp, and 10,000 cp.
 
@@ -634,7 +632,7 @@ An ancient earthquake collapsed sections of Stromkuhldur, dividing the town into
 > 
 > **Ruins**. The 30-foot-high cavern is a deathly quiet maze of crumbling stone buildings, many of which have partially collapsed. The buildings' walls are 10 feet high, and their roofs have mostly caved in.
 > 
-> **Webs and Spiders**. Webs are strung between the buildings, but they're not thick enough to inhibit movement. Nine [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider.md) roam the alleys between the buildings in search of prey.
+> **Webs and Spiders**. Webs are strung between the buildings, but they're not thick enough to inhibit movement. Nine [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) roam the alleys between the buildings in search of prey.
 ^1f0
 
 The giant spiders creep about in groups of three. Additional forces stationed here include a male drow elite warrior named Ranaghax Auvryndar, twelve male drow, three grimlocks, and three quaggoths. If an alarm is raised, these forces gather with the giant spiders to seek out and destroy intruders.
@@ -647,7 +645,7 @@ Buildings not keyed on the map are assumed to be empty rooms. The rest are descr
 > 
 > **Odor**. The smell of meat stew wafts from this building.
 > 
-> **Servants and Guards**. Inside, a manacled [bugbear](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) and three [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) shackled together by the ankles are preparing meals under the watchful eye of three male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) guards named Raelphar, Rizryn, and Xebyl.
+> **Servants and Guards**. Inside, a manacled [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) and three [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) shackled together by the ankles are preparing meals under the watchful eye of three male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) guards named Raelphar, Rizryn, and Xebyl.
 > 
 > **Furnishings**. Stone counters are spread throughout the room. A large cauldron is hung above a fire in the southwest corner.
 ^1f2
@@ -662,7 +660,7 @@ The simmering cauldron contains a hearty stew of ripplebark fungus and troglodyt
 
 #### 20b. T'rissa's Quarters
 
-Two male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) guards named Krivven and Yazdriirn stand outside the door. They deny entry to all but T'rissa and immediately attack intruders. The building holds the following features:
+Two male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) guards named Krivven and Yazdriirn stand outside the door. They deny entry to all but T'rissa and immediately attack intruders. The building holds the following features:
 
 > [!note] 
 > 
@@ -673,7 +671,7 @@ Two male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) guards named Krivven
 > **Furnishings**. A bed with a canopy of spiderwebs fills the eastern alcove. Other furnishings include a dresser and a vanity that has an empty frame where the mirror should be.
 ^1f5
 
-The chest's lock can be picked by using thieves' tools and making a successful DC 15 Dexterity check, or opened with a knock spell or similar magic.
+The chest's lock can be picked by using thieves' tools and making a successful DC 15 Dexterity check, or opened with a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
 
 ##### Treasure
 
@@ -681,13 +679,13 @@ The eight red crystal eyes on the chest can be pried loose and are worth 5 gp ea
 
 The top shelf holds an onyx spider figurine (25 gp), eight sticks of incense (1 gp each), and a dagger with a tiny reservoir built into its hilt that holds up to three doses of a liquid poison.
 
-The middle shelf contains a folded spider silk robe, dyed black, with tiny golden spiders sewn into it (90 gp). Hidden in the folds of the robe is a potion of healing in a crystal vial.
+The middle shelf contains a folded spider silk robe, dyed black, with tiny golden spiders sewn into it (90 gp). Hidden in the folds of the robe is a [potion of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) in a crystal vial.
 
-On the bottom shelf rests a birchwood wand (an arcane focus) and a leather-bound spellbook that belong to [Marta Moonshadow](/3-Mechanics/CLI/bestiary/npc/marta-moonshadow-wdmm.md) (see area 5d). The book contains the following spells: chromatic orb, cone of cold, counterspell, detect magic, dispel magic, enlarge/reduce, fireball, fly, greater invisibility, ice storm, identify, mage armor, magic missile, magic weapon, misty step, polymorph, sending, shield, and suggestion.
+On the bottom shelf rests a birchwood wand (an arcane focus) and a leather-bound spellbook that belong to [Marta Moonshadow](3-Mechanics/CLI/bestiary/npc/marta-moonshadow-wdmm.md) (see area 5d). The book contains the following spells: [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb-xphb.md), [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce-xphb.md), [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md), [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [identify](3-Mechanics/CLI/spells/identify-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [magic weapon](3-Mechanics/CLI/spells/magic-weapon-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md), and [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md).
 
 #### 20c. Quaggoth Den
 
-Three [quaggoths](/3-Mechanics/CLI/bestiary/humanoid/quaggoth.md), one of which is a quaggoth thonot (see the sidebar in the "Quaggoth" entry in the "Monster Manual"), feast from a trough in the middle of this room. The trough contains bloody troglodyte entrails and other less identifiable fixings. Non-drow intruders are attacked on sight.
+Three [quaggoths](3-Mechanics/CLI/bestiary/monstrosity/quaggoth-xmm.md), one of which is a quaggoth thonot (see the sidebar in the "Quaggoth" entry in the "Monster Manual"), feast from a trough in the middle of this room. The trough contains bloody troglodyte entrails and other less identifiable fixings. Non-drow intruders are attacked on sight.
 
 #### 20d. Demon Mirror
 
@@ -712,7 +710,7 @@ The vein of turquoise runs from the top right corner of the east wall to the bot
 
 ##### Treasure
 
-The emerald fish swims around the basin until it is scooped out with a successful DC 10 Dexterity check, at which point the fish transforms into an elemental gem (water). The water remains in the basin after the fish is removed and does not drain away. Nothing happens if the trout carvings are rotated again.
+The emerald fish swims around the basin until it is scooped out with a successful DC 10 Dexterity check, at which point the fish transforms into an [elemental gem](3-Mechanics/CLI/items/elemental-gem-xdmg.md) (water). The water remains in the basin after the fish is removed and does not drain away. Nothing happens if the trout carvings are rotated again.
 
 #### 20f. Unoccupied Quarters
 
@@ -720,7 +718,7 @@ Eleven padded bedrolls are spread throughout this room atop stone slabs. Each be
 
 #### 20g. Drow Barracks
 
-Twelve bedrolls are spread out on the floor of this room. Six off-duty male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) and a male [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) relax here, but they quickly snatch up their weapons at the first sign of trouble. The drow are named Alybbrin, Chasmas, Jarkorl, K'yordred, Szorth, and Xebrek. The drow elite warrior, Ranaghax Auvryndar, is regaling the other drow with a reenactment of a one-on-one battle he had with a hobgoblin captain of the Legion of Azrok, which ended with the captain catching Ranaghax's poisoned blade in the neck. His telling of the tale is loud enough to be heard by characters listening at the door.
+Twelve bedrolls are spread out on the floor of this room. Six off-duty male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) and a male [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) relax here, but they quickly snatch up their weapons at the first sign of trouble. The drow are named Alybbrin, Chasmas, Jarkorl, K'yordred, Szorth, and Xebrek. The drow elite warrior, Ranaghax Auvryndar, is regaling the other drow with a reenactment of a one-on-one battle he had with a hobgoblin captain of the Legion of Azrok, which ended with the captain catching Ranaghax's [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) blade in the neck. His telling of the tale is loud enough to be heard by characters listening at the door.
 
 Ranaghax, T'rissa's older brother, is subordinate to her and all other female drow in his house. He knows his place and eagerly awaits the opportunity to claim the rest of Stromkuhldur when T'rissa finally gives the order to do so.
 
@@ -739,13 +737,13 @@ Ranaghax wears an obsidian scarab brooch inscribed with the insignia of House Au
 
 #### 20i. Water Closet
 
-A male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) named Balok sits on a latrine bucket in this chamber and is embarrassed to be caught in such a compromising position. If the characters attack him, he tosses the bucket at one of them as a distraction and flees to area 20g. (Treat the bucket as an improvised weapon that deals no damage but douses the target in stinky filth on a hit.)
+A male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) named Balok sits on a latrine bucket in this chamber and is embarrassed to be caught in such a compromising position. If the characters attack him, he tosses the bucket at one of them as a distraction and flees to area 20g. (Treat the bucket as an improvised weapon that deals no damage but douses the target in stinky filth on a hit.)
 
 #### 20j. Troglodyte Mob
 
 A horrible stench fills this chamber, the floor of which is covered with loose rocks.
 
-Twelve captured [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) are confined to these quarters, but the guard stationed outside their door has slipped away to area 20i. If anyone other than a drow opens the door, the troglodytes seize the chance to escape. On their turn, they try to stampede their way to freedom and are loud enough to trigger an alarm. Troglodytes that escape head south and disappear into the dark waters of the River Sargauth.
+Twelve captured [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) are confined to these quarters, but the guard stationed outside their door has slipped away to area 20i. If anyone other than a drow opens the door, the troglodytes seize the chance to escape. On their turn, they try to stampede their way to freedom and are loud enough to trigger an alarm. Troglodytes that escape head south and disappear into the dark waters of the River Sargauth.
 
 #### 20k. Gathering of Grimlocks
 
@@ -753,7 +751,7 @@ Twelve captured [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) 
 > 
 > **Stench**. This room reeks of death and decay.
 > 
-> **Grimlocks**. Three [grimlocks](/3-Mechanics/CLI/bestiary/humanoid/grimlock.md) are picking hair out of their teeth in the middle of the room.
+> **Grimlocks**. Three [grimlocks](3-Mechanics/CLI/bestiary/aberration/grimlock-xmm.md) are picking hair out of their teeth in the middle of the room.
 > 
 > **Detritus**. The room is strewn with rocks, heaps of splintered armor, and broken weapons. (The armor and weapons were taken from dead goblinoids. None of this gear is salvageable.)
 ^204
@@ -772,27 +770,25 @@ The largest unburied section of Stromkuhldur is held by the Legion of Azrok and 
 > 
 > **Banners**. Hanging from several structures are tattered yellow banners bearing Azrok's sigil, a bloody handprint inside a hollow red triangle.
 > 
-> **Patrols**. Four bands of hobgoblins patrol Azrok's Hold. Each patrol consists of three [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) and a [hobgoblin captain](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md), who interrogates visitors and demands to see their identification papers.
+> **Patrols**. Four bands of hobgoblins patrol Azrok's Hold. Each patrol consists of three [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) and a [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md), who interrogates visitors and demands to see their identification papers.
 ^206
 
-Visitors entering Azrok's Hold are greeted by two [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md). Drow are attacked on sight. Others may enter and move through Azrok's Hold, provided they have the proper identification papers. Visitors without papers are escorted by the bugbears to area 21c for processing.
+Visitors entering Azrok's Hold are greeted by two [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md). Drow are attacked on sight. Others may enter and move through Azrok's Hold, provided they have the proper identification papers. Visitors without papers are escorted by the bugbears to area 21c for processing.
 
 Once each party member has papers, the bugbears take the characters to see Azrok in area 21n. This meeting is not optional, since tribute must be paid to the hobgoblin warlord in return for his hospitality. Afterward, characters can move freely about Azrok's Hold, coming and going as they please. (Visitors need to register again only if they lose their papers.) If the characters wander the streets on their own, use the Random Encounters in Azrok's Hold table as needed.
 
 **Random Encounters in Azrok's Hold**
 
-`dice: [](04-level-3-sargauth-level.md#^random-encounters-in-azroks-hold)`
-
 | dice: d10 | Encounter |
 |-----------|-----------|
 | 1 | Halaster's scrying eye (see "Halaster's Lair"), which observes the characters silently for a minute before disappearing |
 | 2 | A goblin child (noncombatant) eating a dead rat |
-| 3 | A [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) hauling a bucket of garbage to area 17e |
-| 4 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) with shovels, either digging through rubble or heading to a dig site |
-| 5 | `dice:1d3\|noform\|noparens\|avg` (`1d3`) [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) who sneer at visitors and make rude comments as they pass by |
-| 6 | A [bugbear](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) with an [intellect devourer](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer.md) in its skull that tries to lure characters to area 21f |
-| 7 | [Preeta Kreepa](/3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md) (see area 21m) |
-| 8–10 | Three [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) and a [hobgoblin captain](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md) keeping the peace and checking visitors' identification papers |
+| 3 | A [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) hauling a bucket of garbage to area 17e |
+| 4 | `1d4` [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) with shovels, either digging through rubble or heading to a dig site |
+| 5 | `1d3` [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) who sneer at visitors and make rude comments as they pass by |
+| 6 | A [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) with an [intellect devourer](3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) in its skull that tries to lure characters to area 21f |
+| 7 | [Preeta Kreepa](3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md) (see area 21m) |
+| 8–10 | Three [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) and a [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) keeping the peace and checking visitors' identification papers |
 ^random-encounters-in-azroks-hold
 
 Combat behind closed doors probably doesn't raise an alarm, but any loud disturbance in the streets is likely to put the entire settlement on alert. As it happens, the Legion of Azrok's military has been winnowed down by recent altercations with the drow. The current defenders of Azrok's Hold include eight bugbears, thirty-two goblins, twenty hobgoblins, four hobgoblin captains (including Lurkana), Azrok the hobgoblin warlord, and two worgs. These forces don't include goblinoids in league with the Xanathar Guild or other visitors, nor do they include noncombatants such as children.
@@ -803,9 +799,9 @@ Buildings not keyed on the map are assumed to be empty rooms. The rest are descr
 
 At the end of a street of mostly collapsed buildings is a canted door with a bugbear marionette hanging next to it. Gouged into the door frame is the word "Krek" (a Goblin word meaning "this for that" or "trade").
 
-The walls of the shop on the other side of the door have caved in, and the space that remains is filled with piles of junk and well-worn adventuring gear. The shop's proprietor is an [oni](/3-Mechanics/CLI/bestiary/giant/oni.md) disguised as an old hobgoblin named Kinrob. If a character is looking to procure an item on the Adventuring Gear table or the Tools table in "chapter 5" of the "Player's Handbook", there's a 25 percent chance that Kinrob has the item in question and will trade it for one or more items of equal or greater value.
+The walls of the shop on the other side of the door have caved in, and the space that remains is filled with piles of junk and well-worn adventuring gear. The shop's proprietor is an [oni](3-Mechanics/CLI/bestiary/fiend/oni-xmm.md) disguised as an old hobgoblin named Kinrob. If a character is looking to procure an item on the Adventuring Gear table or the Tools table in "chapter 5" of the "Player's Handbook", there's a 25 percent chance that Kinrob has the item in question and will trade it for one or more items of equal or greater value.
 
-Kinrob's true nature is a well-known "secret" in the Legion of Azrok, and fear of the oni has rendered the surrounding neighborhood a ghost town. Azrok placates the oni by giving it newborn goblins to feed on. The first time the characters visit Kinrob, a [bugbear](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) enters to deliver a goblin child in a basket, then skulks away. Kinrob puts the meal aside until its business with the characters is concluded, then politely shows them the door.
+Kinrob's true nature is a well-known "secret" in the Legion of Azrok, and fear of the oni has rendered the surrounding neighborhood a ghost town. Azrok placates the oni by giving it newborn goblins to feed on. The first time the characters visit Kinrob, a [bugbear](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) enters to deliver a goblin child in a basket, then skulks away. Kinrob puts the meal aside until its business with the characters is concluded, then politely shows them the door.
 
 ##### Princess Doll
 
@@ -823,22 +819,22 @@ If the characters return the doll to Huggybug, she gives them a turquoise dolphi
 
 > [!note] 
 > 
-> **Clerks**. Six [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) with ink quills sit behind a row of makeshift desks, ready to scribble the names of visitors into dog-eared ledgers and issue identification papers. Glowing oil lanterns hang above each desk from chains anchored to the ceiling.
+> **Clerks**. Six [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) with ink quills sit behind a row of makeshift desks, ready to scribble the names of visitors into dog-eared ledgers and issue identification papers. Glowing oil lanterns hang above each desk from chains anchored to the ceiling.
 > 
-> **Manager**. A [hobgoblin](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) wearing cracked half-moon spectacles sits behind a stone lectern and greets all those who enter, directing each new arrival to one of the available goblin clerks.
+> **Manager**. A [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) wearing cracked half-moon spectacles sits behind a stone lectern and greets all those who enter, directing each new arrival to one of the available goblin clerks.
 ^20c
 
 Visitors are required to carry identification papers at all times in Azrok's Hold. The goblins behind the desks interview visitors, draw crude pictures of them, and fill out papers with their names, races, ages, heights, eye color, skills, and home cities. The same information is also entered in a large ledger. Inquiries about other visitors are met with silent stares, because the goblins have instructions not to reveal any of the information.
 
-Once all the characters are registered and have identification papers, the hobgoblin behind the lectern rings a bell, and two [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) appear to escort the visitors to area 21n, where they are expected to pay deference to Warlord Azrok.
+Once all the characters are registered and have identification papers, the hobgoblin behind the lectern rings a bell, and two [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) appear to escort the visitors to area 21n, where they are expected to pay deference to Warlord Azrok.
 
 #### 21d. Armory
 
-Two [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) guard racks of mundane weaponry.
+Two [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) guard racks of mundane weaponry.
 
 #### 21e. Hobgoblin Barracks
 
-The old furnishings were cleared out of this chamber to make room for thirty-two wooden cots. Five [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) rest here between patrols.
+The old furnishings were cleared out of this chamber to make room for thirty-two wooden cots. Five [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) rest here between patrols.
 
 #### 21f. Brain-Dog Kennel
 
@@ -848,18 +844,18 @@ The mind flayer ambassador (see area 21g) has been luring goblinoids into this b
 > 
 > **Wreckage**. The floor is strewn with wrecked furniture and broken crates.
 > 
-> **Goblins**. Feeding on rats in the middle of the room are two [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) and a [goblin boss](/3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md), all with [intellect devourers](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer.md) implanted in their skulls.
+> **Goblins**. Feeding on rats in the middle of the room are two [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) and a [goblin boss](3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md), all with [intellect devourers](3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) implanted in their skulls.
 > 
-> **Brain-Dogs**. Two more [intellect devourers](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer.md) hide among the wreckage. They target intruders with their Devour Intellect action option.
+> **Brain-Dogs**. Two more [intellect devourers](3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) hide among the wreckage. They target intruders with their Devour Intellect action option.
 ^210
 
 #### 21g. Xanathar's Ambassador
 
-A [mind flayer](/3-Mechanics/CLI/bestiary/aberration/mind-flayer.md) named Ulquess resides here, serving as the ambassador from Skullport. Ulquess has been implanting intellect devourers in the skulls of goblinoids, turning them into spies loyal to Xanathar. If its plot is discovered, the mind flayer has no choice but to telepathically summon its thralls from area 21f to kill anyone who knows its secret. (It hides the bodies in area 22.)
+A [mind flayer](3-Mechanics/CLI/bestiary/aberration/mind-flayer-xmm.md) named Ulquess resides here, serving as the ambassador from Skullport. Ulquess has been implanting intellect devourers in the skulls of goblinoids, turning them into spies loyal to Xanathar. If its plot is discovered, the mind flayer has no choice but to telepathically summon its thralls from area 21f to kill anyone who knows its secret. (It hides the bodies in area 22.)
 
 The room's centerpiece consists of two elegant chairs made of petrified wood arranged atop a circular rug. On a slender table between the chairs is a makeshift, three-tiered Dragonchess set assembled from myriad pieces of other sets. The mind flayer conducts business here while seated casually in one of the chairs.
 
-If the characters are meeting with the ambassador at Lurkana's urging (see "Side Quest: Retrieve Azrok's Dagger"), the mind flayer politely discourages them from visiting Skullport, claiming that it's not safe for adventurers. It also tells them an Undermountain secret, hoping they'll be lured away by the mystery. Draw a card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C).
+If the characters are meeting with the ambassador at Lurkana's urging (see "Side Quest: Retrieve Azrok's Dagger"), the mind flayer politely discourages them from visiting Skullport, claiming that it's not safe for adventurers. It also tells them an Undermountain secret, hoping they'll be lured away by the mystery. Draw a card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C).
 
 ##### Treasure
 
@@ -867,7 +863,7 @@ A thorough search of the room yields an unlocked iron coffer containing 100 gp t
 
 #### 21h. Goblin Den
 
-The door to this structure is ajar, with snores emanating from within. Sleeping in a pile to the north are twelve [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md). Their weapons and shields lie in a heap to the south. The goblins are reluctant combatants, easily intimidated by shows of strength. If they're being massacred, the survivors flee to area 23a.
+The door to this structure is ajar, with snores emanating from within. Sleeping in a pile to the north are twelve [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md). Their weapons and shields lie in a heap to the south. The goblins are reluctant combatants, easily intimidated by shows of strength. If they're being massacred, the survivors flee to area 23a.
 
 #### 21i. Visitors' Quarters
 
@@ -875,13 +871,13 @@ Visitors who are on friendly terms with Azrok and Lurkana can rest here. The doo
 
 #### 21j. Ale Storehouse
 
-Azrok buys cheap ale from Gyudd's Distillery in Skullport and stores it here. The door is shut from within and has a small, iron-barred window. Forcing open the door requires a successful DC 22 Strength (Athletics) check. Standing inside the room is a [hobgoblin](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) guard with a horn. It uses an action to blow the horn and sound an alarm if someone tries to break into the storehouse.
+Azrok buys cheap ale from Gyudd's Distillery in Skullport and stores it here. The door is shut from within and has a small, iron-barred window. Forcing open the door requires a successful DC 22 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Standing inside the room is a [hobgoblin](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) guard with a horn. It uses an action to blow the horn and sound an alarm if someone tries to break into the storehouse.
 
 The chamber contains thirty 5-gallon casks. Eight of them hold Wyrmwizz, a muddy swill, and the rest are empty.
 
 #### 21k. Captains' Barracks
 
-The furnishings were cleared out of this room to make space for nine wooden cots. Two [hobgoblin captains](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md) rest here between patrols.
+The furnishings were cleared out of this room to make space for nine wooden cots. Two [hobgoblin captains](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) rest here between patrols.
 
 #### 21l. Visitors' Quarters
 
@@ -889,48 +885,48 @@ This chamber is identical to area 21i.
 
 #### 21m. Preeta Kreepa
 
-Dug out of a mostly collapsed section of Stromkuhldur is a stone hovel in a cave lit by continual flame spells cast in several old cauldrons lying among the rubble.
+Dug out of a mostly collapsed section of Stromkuhldur is a stone hovel in a cave lit by [continual flame](3-Mechanics/CLI/spells/continual-flame-xphb.md) spells cast in several old cauldrons lying among the rubble.
 
-The door to the hovel is ajar, and harmless rats scurry in and out in a constant stream. Inside the hovel, feeding bits of juicy moss to the rats, is a mage named [Preeta Kreepa](/3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md). She served as an assistant to [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md), one of Halaster's apprentices, until [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) transformed her into a monstrous horror. Preeta looks like an old woman with two beholder eyestalks sprouting from her eye sockets. Her mouth, twice as large as it should be, is filled with sharp, pointed teeth. She wears the flayed, slippery, translucent skin of a kuo-toa as a cloak.
+The door to the hovel is ajar, and harmless rats scurry in and out in a constant stream. Inside the hovel, feeding bits of juicy moss to the rats, is a mage named [Preeta Kreepa](3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md). She served as an assistant to [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md), one of Halaster's apprentices, until [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) transformed her into a monstrous horror. Preeta looks like an old woman with two beholder eyestalks sprouting from her eye sockets. Her mouth, twice as large as it should be, is filled with sharp, pointed teeth. She wears the flayed, slippery, translucent skin of a kuo-toa as a cloak.
 
-For years, the Legion of Azrok left Preeta alone. Now the growing hostilities with the drow have prompted Azrok to call on her for help. Preeta understands the threat posed by the drow and is using animate dead spells to raise drow corpses, creating forces that Azrok can call upon to bolster his defenses. She keeps these undead warriors locked in area 21q.
+For years, the Legion of Azrok left Preeta alone. Now the growing hostilities with the drow have prompted Azrok to call on her for help. Preeta understands the threat posed by the drow and is using [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) spells to raise drow corpses, creating forces that Azrok can call upon to bolster his defenses. She keeps these undead warriors locked in area 21q.
 
-Preeta is a [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md), with these changes:
+Preeta is a [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md), with these changes:
 
 - Preeta is chaotic neutral.  
-- She has darkvision out to a range of 120 feet, and she speaks Common, Dwarvish, Goblin, and Undercommon.  
+- She has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet, and she speaks Common, Dwarvish, Goblin, and Undercommon.  
 - As a bonus action or a reaction, she can shoot one of the following eye rays at one target she can see within 120 feet of her:  
 
-- **Fear Ray.** The target must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Paralyzing Ray.** The target must succeed on a DC 15 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Fear Ray.** The target must succeed on a DC 15 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Paralyzing Ray.** The target must succeed on a DC 15 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
-If the characters promise not to harm her, Preeta shares two Undermountain secrets with them. Determine each secret by drawing a card from the [Secrets Deck](/3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C).
+If the characters promise not to harm her, Preeta shares two Undermountain secrets with them. Determine each secret by drawing a card from the [Secrets Deck](3-Mechanics/CLI/decks/secrets-deck-wdmm.md) (see appendix C).
 
 > [!note] Side Quest: Free Alussiarr
 > 
-> [Preeta Kreepa](/3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md) knows that [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) uses the blood of a "magical man" named Alussiarr as a material component in her horrid transformation rituals. She suggests that the characters free this man to prevent [Arcturia](/3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) from creating new abominations. Preeta knows that Alussiarr is a prisoner in Arcturiadoom, the fourteenth level of Undermountain, but she doesn't know that Alussiarr is a rakshasa.
+> [Preeta Kreepa](3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md) knows that [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) uses the blood of a "magical man" named Alussiarr as a material component in her horrid transformation rituals. She suggests that the characters free this man to prevent [Arcturia](3-Mechanics/CLI/bestiary/npc/arcturia-wdmm.md) from creating new abominations. Preeta knows that Alussiarr is a prisoner in Arcturiadoom, the fourteenth level of Undermountain, but she doesn't know that Alussiarr is a rakshasa.
 ^side-quest-free-alussiarr
 
 ##### Treasure
 
-Preeta carries a spellbook bound in lizard hide that contains all the spells she has prepared, plus animate dead, animate objects, and fabricate.
+Preeta carries a spellbook bound in lizard hide that contains all the spells she has prepared, plus [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md), [animate objects](3-Mechanics/CLI/spells/animate-objects-xphb.md), and [fabricate](3-Mechanics/CLI/spells/fabricate-xphb.md).
 
 #### 21n. Azrok's Hall
 
-Two [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) stand guard outside this building, one in front of each door. They allow registered visitors to enter after checking their identification papers.
+Two [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) stand guard outside this building, one in front of each door. They allow registered visitors to enter after checking their identification papers.
 
 This structure once housed a dwarven smithy, and the decor suggests as much. Its contents are as follows:
 
 > [!note] 
 > 
-> **Azrok and Lurkana**. In the northeast part of the room, Azrok the [hobgoblin warlord](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin-warlord.md) sits on a throne of bleached skulls, with one foot resting on an iron anvil and one hand on the pommel of his greatsword. He wears a helm that covers most of his face and darkens his eyes. Whispering in his ear is his wife Lurkana, a formidable [hobgoblin captain](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin-captain.md).
+> **Azrok and Lurkana**. In the northeast part of the room, Azrok the [hobgoblin warlord](3-Mechanics/CLI/bestiary/fey/hobgoblin-warlord-xmm.md) sits on a throne of bleached skulls, with one foot resting on an iron anvil and one hand on the pommel of his greatsword. He wears a helm that covers most of his face and darkens his eyes. Whispering in his ear is his wife Lurkana, a formidable [hobgoblin captain](3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md).
 > 
-> **Goblinoids**. Attending the warlord are two [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md), four [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md), and six [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md). One of the bugbears has an [intellect devourer](/3-Mechanics/CLI/bestiary/aberration/intellect-devourer.md) hidden in its skull and acts as a spy for Xanathar while feigning loyalty to Azrok.
+> **Goblinoids**. Attending the warlord are two [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md), four [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md), and six [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md). One of the bugbears has an [intellect devourer](3-Mechanics/CLI/bestiary/aberration/intellect-devourer-xmm.md) hidden in its skull and acts as a spy for Xanathar while feigning loyalty to Azrok.
 > 
-> **Worgs**. Gnawing on humanoid bones in the southwest part of the room are two [worgs](/3-Mechanics/CLI/bestiary/monstrosity/worg.md) loyal to Azrok and Lurkana.
+> **Worgs**. Gnawing on humanoid bones in the southwest part of the room are two [worgs](3-Mechanics/CLI/bestiary/fey/worg-xmm.md) loyal to Azrok and Lurkana.
 ^21c
 
-Adventurers brought before Azrok are expected to offer tribute. He is more interested in oaths of fealty than in tangible gifts, but he accepts whatever he's offered. Unless the characters make fools of themselves, Azrok grants them his protection for the duration of their stay in his settlement. Any character who interacts with him and succeeds on a DC 17 Wisdom (Insight) check realizes that the hobgoblin warlord is blind but is hiding that fact, never looking directly at anyone. The characters also see a ghastly pendant on a cord around his neck—a severed human finger that wears a platinum signet ring (see "Lord Rosznar's Ring" below).
+Adventurers brought before Azrok are expected to offer tribute. He is more interested in oaths of fealty than in tangible gifts, but he accepts whatever he's offered. Unless the characters make fools of themselves, Azrok grants them his protection for the duration of their stay in his settlement. Any character who interacts with him and succeeds on a DC 17 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check realizes that the hobgoblin warlord is blind but is hiding that fact, never looking directly at anyone. The characters also see a ghastly pendant on a cord around his neck—a severed human finger that wears a platinum signet ring (see "Lord Rosznar's Ring" below).
 
 When the characters are done speaking with Azrok, Lurkana takes them aside and offers them a quest (see "Side Quest: Retrieve Azrok's Dagger"). If they refuse, Lurkana scowls and kicks them out.
 
@@ -942,7 +938,7 @@ The ring worn around Azrok's neck bears the symbol of House Rosznar of Waterdeep
 
 The finger upon which the ring rests once belonged to Kressando Rosznar, who came to Azrok's Hold after failing to make progress in dealings with the Xanathar Guild in Skullport. The young nobleman was looking to set up a slavery ring in Undermountain, with slaves flowing down from Waterdeep and money flowing up into House Rosznar's coffers as well as Azrok's war chest.
 
-Azrok was intrigued by the proposition but found Kressando condescending. He killed the nobleman for failing to show the proper respect. Kressando's gutted corpse was fed to the otyugh in area 17e, but Azrok kept the finger as a trophy. If the characters want to retrieve the ring to complete a quest (see "Search for Kressando Rosznar"), they'll have to kill Azrok, charm him into relinquishing it, or steal it while he's incapacitated. The warlord does not give it up otherwise.
+Azrok was intrigued by the proposition but found Kressando condescending. He killed the nobleman for failing to show the proper respect. Kressando's gutted corpse was fed to the otyugh in area 17e, but Azrok kept the finger as a trophy. If the characters want to retrieve the ring to complete a quest (see "Search for Kressando Rosznar"), they'll have to kill Azrok, charm him into relinquishing it, or steal it while he's [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated). The warlord does not give it up otherwise.
 
 ##### Stay a While
 
@@ -950,11 +946,11 @@ If the characters are looking for a safe place to rest and are on good terms wit
 
 #### 21o. Goblin Orphanage
 
-The sound of screaming goblin children issues from small cracks in the walls of this building. Inside, two [goblin bosses](/3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md) are minding twenty goblin children (noncombatants). The bigger children are being taught how to bully the smaller ones, shoving them around and hurling insults. The goblin bosses remain here even if an alarm sounds elsewhere.
+The sound of screaming goblin children issues from small cracks in the walls of this building. Inside, two [goblin bosses](3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) are minding twenty goblin children (noncombatants). The bigger children are being taught how to bully the smaller ones, shoving them around and hurling insults. The goblin bosses remain here even if an alarm sounds elsewhere.
 
 ##### Trinket
 
-Various broken toys lie scattered about. A thorough search yields an intact trinket (roll on the Trinkets table in chapter 5 of the "Player's Handbook").
+Various broken toys lie scattered about. A thorough search yields an intact trinket (roll on the [Trinkets](3-Mechanics/CLI/items/trinket-xphb.md) table in chapter 5 of the "Player's Handbook").
 
 #### 21p. Arch Gate to Level 6
 
@@ -966,19 +962,19 @@ Embedded in the west wall of this otherwise empty chamber is an arch gate to lev
 
 #### 21q. Morgue
 
-Nine drow [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md) stand perfectly still in the middle of this room, which is cluttered with cobwebs, rubble, and wreckage. The zombies obey [Preeta Kreepa](/3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md) (see area 21m) and attack anyone else who gets too close.
+Nine drow [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) stand perfectly still in the middle of this room, which is cluttered with cobwebs, rubble, and wreckage. The zombies obey [Preeta Kreepa](3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md) (see area 21m) and attack anyone else who gets too close.
 
 #### 21r. Azrok and Lurkana's Quarters
 
-Standing in front of the door to this chamber is a tired [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) named Salt Nose, so named because he has white freckles on his broad snout. He's suffering from three levels of exhaustion and is trying to keep a 10-foot pole steady with trembling hands. From the top of the pole hangs Azrok's banner: a bloody handprint inside a hollow red triangle on a sheet of yellow-dyed flesh.
+Standing in front of the door to this chamber is a tired [goblin](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) named Salt Nose, so named because he has white freckles on his broad snout. He's suffering from three levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) and is trying to keep a 10-foot pole steady with trembling hands. From the top of the pole hangs Azrok's banner: a bloody handprint inside a hollow red triangle on a sheet of yellow-dyed flesh.
 
-Lurkana uses the banner as a form of punishment; she makes disobedient or incompetent underlings stand outside these quarters for hours or even days on end with no food, no water, and only the banner to keep them company. Salt Nose spilled a plate of food on Azrok's lap and fears that he will spend what little remains of his life here. Characters who take pity on him earn his trust, and he readily tells them where to find things in Azrok's Hold. If information is what the characters seek, Salt Nose suggests they speak with [Preeta Kreepa](/3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md), a strange creature that has lived in Stromkuhldur since before the goblinoids came (see area 21m).
+Lurkana uses the banner as a form of punishment; she makes disobedient or incompetent underlings stand outside these quarters for hours or even days on end with no food, no water, and only the banner to keep them company. Salt Nose spilled a plate of food on Azrok's lap and fears that he will spend what little remains of his life here. Characters who take pity on him earn his trust, and he readily tells them where to find things in Azrok's Hold. If information is what the characters seek, Salt Nose suggests they speak with [Preeta Kreepa](3-Mechanics/CLI/bestiary/npc/preeta-kreepa-wdmm.md), a strange creature that has lived in Stromkuhldur since before the goblinoids came (see area 21m).
 
 The building is empty except for a large bed covered with furs. Azrok and Lurkana come here to rest.
 
 #### 21s. Azrok's War Chest
 
-Two [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) stand guard outside this chamber, one in front of each door.
+Two [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) stand guard outside this chamber, one in front of each door.
 
 What was once a shrine to the dwarven pantheon is now Azrok's treasury. The room contains the following:
 
@@ -997,11 +993,11 @@ Stealing Azrok's treasure deprives the warlord of the funds he needs to ensure h
 
 ##### Treasure
 
-One iron chest contains 180 gp, 450 sp, and 600 cp. The other holds a dwarven ear horn made of brass (1 gp), a gold-plated candlestick shaped like a pillar of fire (25 gp), three obsidian scarabs inscribed with the insignia of House Auvryndar (25 gp each), and a stoppered gourd containing a potion of animal friendship.
+One iron chest contains 180 gp, 450 sp, and 600 cp. The other holds a dwarven ear horn made of brass (1 gp), a gold-plated candlestick shaped like a pillar of fire (25 gp), three obsidian scarabs inscribed with the insignia of House Auvryndar (25 gp each), and a stoppered gourd containing a [potion of animal friendship](3-Mechanics/CLI/items/potion-of-animal-friendship-xdmg.md).
 
 #### 21t. Rations
 
-A painted wooden sign mounted above this building's recessed door depicts a goblin chomping down on a rat sandwich. Inside, three [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) busily assemble packs of rations consisting of baked mushrooms, rat jerky, cakes of dry moss, and other underground edibles. The rations are stored on shelves, and visitors can purchase a small parcel containing 1 day of rations for 5 sp.
+A painted wooden sign mounted above this building's recessed door depicts a goblin chomping down on a rat sandwich. Inside, three [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) busily assemble packs of rations consisting of baked mushrooms, rat jerky, cakes of dry moss, and other underground edibles. The rations are stored on shelves, and visitors can purchase a small parcel containing 1 day of rations for 5 sp.
 
 ##### Treasure
 
@@ -1015,7 +1011,7 @@ The goblins keep their proceeds in a small wooden coffer. The coins are added to
 > 
 > **Fungi**. The cave contains a giant garden of barrelstalk fungi (see "Barrelstalk").
 > 
-> **Gardeners**. Three [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) are tending the garden and killing the spiders, rats, and other vermin that infest it. These goblins shy away from any confrontations with the adventurers.
+> **Gardeners**. Three [goblins](3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) are tending the garden and killing the spiders, rats, and other vermin that infest it. These goblins shy away from any confrontations with the adventurers.
 ^22a
 
 ### 23. Way to Skullport
@@ -1026,7 +1022,7 @@ Weakened by the drow, the Legion of Azrok now fears incursions from Skullport. A
 
 > [!note] 
 > 
-> **Guards**. Five [hobgoblins](/3-Mechanics/CLI/bestiary/humanoid/hobgoblin.md) stand watch in the middle of this 20-foot-high cave.
+> **Guards**. Five [hobgoblins](3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) stand watch in the middle of this 20-foot-high cave.
 > 
 > **Fungus**. A shelf-like fungus resembling a mass of rotting flesh clings to the north wall. The fungus is called ripplebark (see "Ripplebark").
 ^22d
@@ -1041,10 +1037,10 @@ If the characters approach from the south, heading toward Azrok's Hold (area 21)
 > 
 > **Spores and Gardens**. The air is full of harmless, dimly luminescent spores that form clouds around gardens of moss and fungi.
 > 
-> **Shriekers**. Planted among the other fungi are four Small (3-foot-tall) [shriekers](/3-Mechanics/CLI/bestiary/plant/shrieker.md) with `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) hit points each, their locations marked with asterisks on map 3.
+> **Shriekers**. Planted among the other fungi are four Small (3-foot-tall) [shriekers](3-Mechanics/CLI/bestiary/plant/shrieker-fungus-xmm.md) with 7 (`2d6`) hit points each, their locations marked with asterisks on map 3.
 ^22f
 
-Characters who have encountered shriekers before can spot the young ones in this chamber with a successful DC 11 Intelligence (Nature) or Wisdom (Perception) check. Each shrieker cries out when a creature or a bright light comes within 30 feet of it, alerting the guards in area 23a.
+Characters who have encountered shriekers before can spot the young ones in this chamber with a successful DC 11 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) or Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Each shrieker cries out when a creature or a bright light comes within 30 feet of it, alerting the guards in area 23a.
 
 ## Aftermath
 

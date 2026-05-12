@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Figurine of Wondrous Power, Onyx Dog"
 ---
 # Figurine of Wondrous Power, Onyx Dog
@@ -22,6 +22,6 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Onyx Dog
 
-This onyx statuette of a dog can become a [mastiff](/3-Mechanics/CLI/bestiary/beast/mastiff.md) for up to 6 hours. The [mastiff](/3-Mechanics/CLI/bestiary/beast/mastiff.md) has an Intelligence of 8 and can speak Common. It also has [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 60 feet and can see [invisible](/3-Mechanics/CLI/conditions.md#Invisible) creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
+This onyx statuette of a dog can become a mastiff for up to 6 hours. The mastiff has an Intelligence of 8 and can speak Common. It also has darkvision out to a range of 60 feet and can see invisible creatures and objects within that range. Once it has been used, it can't be used again until 7 days have passed.
 
 *Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

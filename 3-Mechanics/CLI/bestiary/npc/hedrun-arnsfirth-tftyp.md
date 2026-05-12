@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hedrun Arnsfirth
+- "Hedrun Arnsfirth"
 ---
-# [Hedrun Arnsfirth](3-Mechanics\CLI\bestiary\npc/hedrun-arnsfirth-tftyp.md)
+# [Hedrun Arnsfirth](3-Mechanics/CLI/bestiary/npc/hedrun-arnsfirth-tftyp.md)
 *Source: Tales from the Yawning Portal p. 160*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "undead"
 "alignment": "Lawful Evil"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "37"
 "hit_dice": "5d8 + 15"
 "modifier": !!int "2"
@@ -36,43 +36,48 @@ aliases:
 "saves":
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 14"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "the languages it knew in life"
 "cr": "3"
 "traits":
   - "desc": "Hedrun's innate spellcasting ability is Charisma (spell save DC 13).\
       \ It can innately cast the following spells, requiring no verbal or material\
-      \ components:\n\n**At will:** detect magic, disguise self, mage armor\n\n**1/day\
-      \ each:** fear, hold person, misty step"
+      \ components:\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\
+      \n**1/day each:** [fear](3-Mechanics/CLI/spells/fear-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "While in sunlight, Hedrun has disadvantage on attack rolls, as well as\
-      \ on Wisdom (Perception) checks that rely on sight."
+      \ on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Hedrun attacks twice with Grave Bolt."
     "name": "Multiattack"
-  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:* 7\
-      \ (1d8 + 3) necrotic damage."
+  - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one target. *Hit:*\
+      \ 7 (1d8 + 3) necrotic damage."
     "name": "Grave Bolt"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution\
       \ saving throw or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
       \ The target dies if this effect reduces its hit point maximum to 0.\n\nA humanoid\
-      \ slain by this attack rises 24 hours later as a [zombie](/3-Mechanics/CLI/bestiary/undead/zombie.md)\
+      \ slain by this attack rises 24 hours later as a [zombie](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
       \ under Hedrun's control, unless the humanoid is restored to life or its body\
-      \ is destroyed. Hedrun can have no more than twelve [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md)\
+      \ is destroyed. Hedrun can have no more than twelve [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md)\
       \ under its control at one time."
     "name": "Life Drain"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hedrun-arnsfirth-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hedrun-arnsfirth-tftyp.webp"
 ```
 ^statblock

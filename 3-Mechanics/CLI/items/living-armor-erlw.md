@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/armor/heavy
-- new/item/armor/light
-- new/item/armor/medium
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/armor/heavy
+- ttrpg-cli/item/armor/light
+- ttrpg-cli/item/armor/medium
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Living Armor"
 - "Living Breastplate"
 - "Living Chain Mail"

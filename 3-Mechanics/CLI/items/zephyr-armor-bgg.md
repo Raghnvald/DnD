@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Zephyr Armor"
 - "Zephyr Leather Armor"
 - "Zephyr Padded Armor"
@@ -21,11 +21,11 @@ aliases:
 
 This fine set of white-and-silver armor bears the wind rune upon its chest.
 
-While wearing this armor, you have advantage on Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) checks and Dexterity saving throws as your movements are bolstered by gentle currents of wind.
+While wearing this armor, you have advantage on Dexterity (Acrobatics) checks and Dexterity saving throws as your movements are bolstered by gentle currents of wind.
 
 ## Invoking the Rune
 
-As an action, you can invoke the armor's rune to cast the [wind wall](/3-Mechanics/CLI/spells/wind-wall-xphb.md) spell (save DC 15) with it. Once the rune has been invoked, it can't be invoked again until the next dawn.
+As an action, you can invoke the armor's rune to cast the wind wall spell (save DC 15) with it. Once the rune has been invoked, it can't be invoked again until the next dawn.
 
 **Variants**:
 - [Zephyr Leather Armor](#Zephyr%20Leather%20Armor)

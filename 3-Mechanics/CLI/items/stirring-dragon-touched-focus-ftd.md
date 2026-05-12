@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Stirring Dragon-Touched Focus"
 ---
 # Stirring Dragon-Touched Focus
-*Wondrous item, rare (requires attunement by a spellcaster)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a spellcaster)*  
 
 
 
@@ -20,7 +21,7 @@ You have advantage on initiative rolls. While you are holding the focus, it can 
 
 The focus gains an additional property determined by the family of the dragon in whose hoard it became Stirring:
 
-- **Chromatic.** Whenever you use a spell slot to cast a spell that deals acid, cold, fire, lightning, or poison damage, roll a `dice:d6|noform|noparens|avg` (`d6`), and you gain a bonus equal to the number rolled to one of the spell's damage rolls.  
+- **Chromatic.** Whenever you use a spell slot to cast a spell that deals acid, cold, fire, lightning, or poison damage, roll a `d6`, and you gain a bonus equal to the number rolled to one of the spell's damage rolls.  
 - **Gem.** Whenever you use a spell slot to cast a spell, you can immediately teleport to an unoccupied space you can see within 15 feet of you.  
 - **Metallic.** When a creature you can see within 30 feet of you makes a saving throw, you can use your reaction to give that creature advantage on the saving throw.  
 

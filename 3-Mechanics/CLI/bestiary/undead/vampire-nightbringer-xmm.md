@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vampire Nightbringer
+- "Vampire Nightbringer"
 ---
-# [Vampire Nightbringer](3-Mechanics\CLI\bestiary\undead/vampire-nightbringer-xmm.md)
+# [Vampire Nightbringer](3-Mechanics/CLI/bestiary/undead/vampire-nightbringer-xmm.md)
 *Source: Monster Manual (2024) p. 316*  
 
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
@@ -31,8 +31,6 @@ Vampires disguise their accursed, immortal natures, passing as mortals to feed o
 Undead vampires lie dormant during the day, retreating to resting places hidden from foes and the sun's searing rays. Roll on or choose a result from the Vampire Resting Places table to inspire a vampire's grim sanctuary.
 
 **Vampire Resting Places**
-
-`dice: [](vampire-nightbringer-xmm.md#^vampire-resting-places)`
 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
@@ -74,42 +72,42 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "dexterity": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "cold, necrotic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Common plus one other language"
 "cr": "8"
 "traits":
   - "desc": "The vampire takes 10 Radiant damage if it starts its turn in sunlight.\
-      \ While in sunlight, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+      \ While in sunlight, it has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
       \ on attack rolls and ability checks."
     "name": "Sunlight Hypersensitivity"
 "actions":
   - "desc": "The vampire makes one Bite attack and one Shadow Strike attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing damage\
-      \ plus 10 (3d6) Necrotic damage. The target's [Hit Point](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Piercing\
+      \ damage plus 10 (3d6) Necrotic damage. The target's [Hit Point](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ maximum decreases by an amount equal to the Necrotic damage taken, and the\
-      \ vampire regains [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
+      \ vampire regains [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)\
       \ equal to that amount."
     "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing damage\
-      \ plus 14 (4d6) Cold damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 7 (1d6 + 4) Slashing\
+      \ damage plus 14 (4d6) Cold damage."
     "name": "Shadow Strike"
 "bonus_actions":
-  - "desc": "While in [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
-      \ or [Darkness](/3-Mechanics/CLI/variant-rules/darkness-xphb.md), the vampire\
-      \ takes the Hide action."
+  - "desc": "While in [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
+      \ or [Darkness](3-Mechanics/CLI/rules/variant-rules/darkness-xphb.md), the vampire\
+      \ takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Shadow Stealth"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/vampire-nightbringer-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/vampire-nightbringer-xmm.webp"
 ```
 ^statblock
 

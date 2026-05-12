@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/trickery
-aliases: 
-- Sehanine
+aliases:
+- "Sehanine"
 ---
 # Sehanine
 *Source: Explorer's Guide to Wildemount p. 25* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-sehanine.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-sehanine.webp#symbol)
 
 - **Alignment**: Chaotic Good
 - **Category**: Prime Deities

@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bugbear Chief
+- "Bugbear Chief"
 ---
-# [Bugbear Chief](3-Mechanics\CLI\bestiary\humanoid/bugbear-chief.md)
+# [Bugbear Chief](3-Mechanics/CLI/bestiary/humanoid/bugbear-chief.md)
 *Source: Monster Manual p. 33*  
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -39,7 +39,7 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 "subtype": "goblinoid"
 "alignment": "Chaotic Evil"
 "ac": !!int "17"
-"ac_class": "[chain shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "2"
@@ -52,14 +52,17 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Goblin"
 "cr": "3"
 "traits":
@@ -67,12 +70,12 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
       \ with it (included in the attack)."
     "name": "Brute"
   - "desc": "If the bugbear surprises a creature and hits it with an attack during\
-      \ the first round of combat, the target takes an extra 7 (2d6) damage from the\
-      \ attack."
+      \ the first round of combat, the target takes an extra 7 (2d6) damage from\
+      \ the attack."
     "name": "Surprise Attack"
-  - "desc": "The bugbear has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-      \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned),\
+  - "desc": "The bugbear has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+      \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned),\
       \ or put to sleep."
     "name": "Heart of Hruggek"
 "actions":
@@ -82,12 +85,12 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
       \ (2d8 + 3) piercing damage."
     "name": "Morningstar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
-      \ ft., one target. *Hit:* 9 (2d6 + 3) piercing damage in melee or 5 (1d6 + 3)\
-      \ piercing damage at range."
+      \ ft., one target. *Hit:* 9 (2d6 + 3) piercing damage in melee or 5 (1d6\
+      \ + 3) piercing damage at range."
     "name": "Javelin"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bugbear-chief.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bugbear-chief.webp"
 ```
 ^statblock
 

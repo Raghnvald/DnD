@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/age/modern
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Modern Bullet"
 ---
 # Modern Bullet

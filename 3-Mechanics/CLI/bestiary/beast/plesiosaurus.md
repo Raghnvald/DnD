@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Plesiosaurus
+- "Plesiosaurus"
 ---
-# [Plesiosaurus](3-Mechanics\CLI\bestiary\beast/plesiosaurus.md)
+# [Plesiosaurus](3-Mechanics/CLI/bestiary/beast/plesiosaurus.md)
 *Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
@@ -44,9 +44,9 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   - !!int "5"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
@@ -55,12 +55,12 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
   - "desc": "The plesiosaurus can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (3d6 + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (3d6 + 4) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/plesiosaurus.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/plesiosaurus.webp"
 ```
 ^statblock
 

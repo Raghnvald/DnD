@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/hazard/cmpx
 aliases:
-- Sphere of Crushing Doom
+- "Sphere of Crushing Doom"
 ---
 # Sphere of Crushing Doom
 *Generic Hazard*  

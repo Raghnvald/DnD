@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnome
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/trickery
-aliases: 
-- Baravar Cloakshadow
+aliases:
+- "Baravar Cloakshadow"
 ---
 # Baravar Cloakshadow
 *Source: Mordenkainen's Tome of Foes p. 111* 

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Adventurers' Guild Contacts; Guild Contacts
+- "Adventurers' Guild Contacts; Guild Contacts"
 ---
 # Adventurers' Guild Contacts; Guild Contacts
 *Source: Eberron: Rising from the Last War p. 66* 
 
 **Guild Contacts**
-
-`dice: [](adventurers-guild-contacts-guild-contacts-erlw.md#^guild-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

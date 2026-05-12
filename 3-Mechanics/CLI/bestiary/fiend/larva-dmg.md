@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Larva
+- "Larva"
 ---
-# [Larva](3-Mechanics\CLI\bestiary\fiend/larva-dmg.md)
+# [Larva](3-Mechanics/CLI/bestiary/fiend/larva-dmg.md)
 *Source: Dungeon Master's Guide p. 63*  
 
 ```statblock
@@ -36,11 +36,11 @@ aliases:
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4\
-      \ - 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1\
+      \ (1d4 - 1) piercing damage."
     "name": "Bite"
 "source":
   - "DMG"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/larva-dmg.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/larva-dmg.webp"
 ```
 ^statblock

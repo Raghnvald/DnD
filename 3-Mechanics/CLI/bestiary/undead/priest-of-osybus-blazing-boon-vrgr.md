@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Priest of Osybus (Blazing Boon)
+- "Priest of Osybus (Blazing Boon)"
 ---
-# [Priest of Osybus (Blazing Boon)](3-Mechanics\CLI\bestiary\undead/priest-of-osybus-blazing-boon-vrgr.md)
+# [Priest of Osybus (Blazing Boon)](3-Mechanics/CLI/bestiary/undead/priest-of-osybus-blazing-boon-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 241*  
 
 ```statblock
@@ -37,9 +37,9 @@ aliases:
   - "intelligence": !!int "7"
   - "wisdom": !!int "6"
   - "charisma": !!int "3"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "any three languages"
 "cr": "6"
 "traits":
@@ -54,7 +54,7 @@ aliases:
       \ at the end of every combatant's turn."
     "name": "Tattoo of Osybus"
   - "desc": "The priest sloughs off its flesh, and its skeleton crumbles away, leaving\
-      \ only its skull. Its stat block is replaced by that of a [flameskull](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md),\
+      \ only its skull. Its stat block is replaced by that of a [flameskull](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md),\
       \ but it retains its Tattoo of Osybus trait, and all fire damage it deals becomes\
       \ necrotic damage. The Tattoo of Osybus now appears carved into the skull's\
       \ forehead."
@@ -62,16 +62,16 @@ aliases:
 "actions":
   - "desc": "The priest attacks twice."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) piercing damage, and if the target is a creature, it is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) piercing damage, and if the target is a creature, it is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ until the start of the priest's next turn. If this damage reduces a Medium\
       \ or smaller creature to 0 hit points, the creature dies, and its soul is trapped\
       \ in the priest's body, manifesting as a shadowy Soul Tattoo on the priest.\
       \ The soul is freed if the priest dies."
     "name": "Soul Blade"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17\
-      \ (3d8 + 4) necrotic damage, and the target can't regain hit points until the\
-      \ start of the priest's next turn."
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:*\
+      \ 17 (3d8 + 4) necrotic damage, and the target can't regain hit points until\
+      \ the start of the priest's next turn."
     "name": "Necrotic Bolt"
 "bonus_actions":
   - "desc": "The priest touches one of the Soul Tattoos on its body. The tattoo vanishes\

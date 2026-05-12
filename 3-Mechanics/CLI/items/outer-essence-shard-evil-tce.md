@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Outer Essence Shard (Evil)"
 ---
 # Outer Essence Shard (Evil)
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
 
 - **Weight**: 1.0 lbs.
@@ -21,6 +22,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-Choose one creature who takes damage from the spell. That target takes an extra `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage.
+Choose one creature who takes damage from the spell. That target takes an extra `3d6` necrotic damage.
 
 *Source: Tasha's Cauldron of Everything p. 133*

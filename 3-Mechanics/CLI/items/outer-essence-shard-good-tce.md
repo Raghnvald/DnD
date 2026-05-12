@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Outer Essence Shard (Good)"
 ---
 # Outer Essence Shard (Good)
-*Wondrous item, rare (requires attunement by a sorcerer)*  
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
 
 - **Weight**: 1.0 lbs.
@@ -21,6 +22,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 ## Property
 
-You or one creature of your choice that you can see within 30 feet of you gains `dice:3d6|noform|noparens|avg` (`3d6`) temporary hit points.
+You or one creature of your choice that you can see within 30 feet of you gains `3d6` temporary hit points.
 
 *Source: Tasha's Cauldron of Everything p. 133*

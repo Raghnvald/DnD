@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Wicked Personality; Fatal Flaws
+- "Wicked Personality; Fatal Flaws"
 ---
 # Wicked Personality; Fatal Flaws
 *Source: Van Richten's Guide to Ravenloft p. 40* 
 
 **Fatal Flaws**
-
-`dice: [](wicked-personality-fatal-flaws-vrgr.md#^fatal-flaws)`
 
 | dice: d10 | Flaw |
 |-----------|------|

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Defensive Duelist
+- "Defensive Duelist"
 ---
 # Defensive Duelist
 *Source: Player's Handbook p. 165*  

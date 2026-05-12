@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/war
-aliases: 
-- The Fury
+aliases:
+- "The Fury"
 ---
 # The Fury
 *Source: Player's Handbook p. 296* 

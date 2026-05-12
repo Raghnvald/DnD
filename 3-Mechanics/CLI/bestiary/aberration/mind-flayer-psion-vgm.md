@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mind Flayer Psion
+- "Mind Flayer Psion"
 ---
-# [Mind Flayer Psion](3-Mechanics\CLI\bestiary\aberration/mind-flayer-psion-vgm.md)
+# [Mind Flayer Psion](3-Mechanics/CLI/bestiary/aberration/mind-flayer-psion-vgm.md)
 *Source: Volo's Guide to Monsters p. 71*  
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
@@ -48,7 +48,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "[breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "1"
@@ -65,66 +65,67 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "8"
 "traits":
   - "desc": "The mind flayer is a 10th-level spellcaster. Its innate spellcasting\
       \ ability is Intelligence (spell save DC 15; +7 to hit with spell attacks).\
       \ It can innately cast the following spells, requiring no components:\n\n**At\
-      \ will:** [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [vicious mockery](/3-Mechanics/CLI/spells/vicious-mockery-xphb.md), [true\
-      \ strike](/3-Mechanics/CLI/spells/true-strike-xphb.md), [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\n\n**1/day each:** [dominate\
-      \ monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md)\
-      \ (self only)\n\n**1st level (4 slots):** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [command](/3-Mechanics/CLI/spells/command-xphb.md), [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
-      \ [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\n**2nd level (3 slots):**\
-      \ [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [phantasmal\
-      \ force](/3-Mechanics/CLI/spells/phantasmal-force-xphb.md), [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\
-      \n**3rd level (3 slots):** [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
-      \ [fear](/3-Mechanics/CLI/spells/fear-xphb.md), [meld into stone](/3-Mechanics/CLI/spells/meld-into-stone-xphb.md)\n\
-      \n**4th level (3 slots):** [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md),\
-      \ [stone shape](/3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\n**5th level\
-      \ (2 slots):** [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      \ will:** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [vicious mockery](3-Mechanics/CLI/spells/vicious-mockery-xphb.md), [true strike](3-Mechanics/CLI/spells/true-strike-xphb.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\
+      \n**1/day each:** [dominate monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only)\n\n\
+      **1st level (4 slots):** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [phantasmal\
+      \ force](3-Mechanics/CLI/spells/phantasmal-force-xphb.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)\n\
+      \n**3rd level (3 slots):** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [fear](3-Mechanics/CLI/spells/fear-xphb.md), [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md)\n\
+      \n**4th level (3 slots):** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\n**5th level (2\
+      \ slots):** [scrying](3-Mechanics/CLI/spells/scrying-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "The mind flayer has advantage on saving throws against spells and other\
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 15\
-      \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be\
-      \ [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until this grapple ends."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) and\
+      \ must succeed on a DC 15 Intelligence saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ until this grapple ends."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ humanoid [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the mind flayer.\
-      \ *Hit:* The target takes 55 (10d10) piercing damage. If this damage reduces\
-      \ the target to 0 hit points, the mind flayer kills the target by extracting\
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ humanoid [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by the mind\
+      \ flayer. *Hit:* The target takes 55 (10d10) piercing damage. If this damage\
+      \ reduces the target to 0 hit points, the mind flayer kills the target by extracting\
       \ and devouring its brain."
     "name": "Extract Brain"
   - "desc": "The mind flayer magically emits psychic energy in a 60-foot cone. Each\
       \ creature in that area must succeed on a DC 15 Intelligence saving throw or\
-      \ take 22 (4d8 + 4) psychic damage and be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ take 22 (4d8 + 4) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-psion-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/mind-flayer-psion-vgm.webp"
 ```
 ^statblock
 

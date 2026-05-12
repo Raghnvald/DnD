@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Religious Order Quests
+- "Religious Order Quests"
 ---
 # Religious Order Quests
 *Source: Tasha's Cauldron of Everything p. 100* 
 
 **Religious Order Quests**
-
-`dice: [](religious-order-quests-tce.md#^religious-order-quests)`
 
 | dice: d6 | Quest |
 |----------|-------|

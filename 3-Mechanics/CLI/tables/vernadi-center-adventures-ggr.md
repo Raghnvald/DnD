@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Vernadi Center Adventures
+- "Vernadi Center Adventures"
 ---
 # Vernadi Center Adventures
 *Source: Guildmasters' Guide to Ravnica p. 153* 
 
 **Vernadi Center Adventures**
-
-`dice: [](vernadi-center-adventures-ggr.md#^vernadi-center-adventures)`
 
 | dice: d12 | Adventure Goal |
 |-----------|----------------|

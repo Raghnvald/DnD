@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Doppelganger
+- "Doppelganger"
 ---
-# [Doppelganger](3-Mechanics\CLI\bestiary\monstrosity/doppelganger.md)
-*Source: Monster Manual p. 82, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md)
+*Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
 
@@ -50,12 +50,13 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-"condition_immunities": "charmed"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
@@ -65,7 +66,7 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
       \ isn't transformed. It reverts to its true form if it dies."
     "name": "Shapechanger"
   - "desc": "In the first round of a combat, the doppelganger has advantage on attack\
-      \ rolls against any creature it surprised."
+      \ rolls against any creature it [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)."
     "name": "Ambusher"
   - "desc": "If the doppelganger surprises a creature and hits it with an attack during\
       \ the first round of combat, the target takes an extra 10 (3d6) damage from\
@@ -74,22 +75,24 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 "actions":
   - "desc": "The doppelganger makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "The doppelganger magically reads the surface thoughts of one creature\
       \ within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood\
       \ or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks\
       \ it. While the target is in range, the doppelganger can continue reading its\
-      \ thoughts, as long as the doppelganger's concentration isn't broken (as if\
-      \ concentrating on a spell). While reading the target's mind, the doppelganger\
-      \ has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and\
-      \ Persuasion) checks against the target."
+      \ thoughts, as long as the doppelganger's [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ isn't broken (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). While reading the target's mind, the doppelganger has advantage\
+      \ on Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) and Charisma\
+      \ ([Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation),\
+      \ and [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) checks against\
+      \ the target."
     "name": "Read Thoughts"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/doppelganger.webp"
 ```
 ^statblock
 

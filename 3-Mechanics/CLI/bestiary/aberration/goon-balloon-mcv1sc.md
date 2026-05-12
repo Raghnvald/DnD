@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goon Balloon
+- "Goon Balloon"
 ---
-# [Goon Balloon](3-Mechanics\CLI\bestiary\aberration/goon-balloon-mcv1sc.md)
+# [Goon Balloon](3-Mechanics/CLI/bestiary/aberration/goon-balloon-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 9*  
 
 > [!quote] A quote from Final log entry of Arquebus Graves, giff first mate of the wasp ship Lightning Bolt  
@@ -46,26 +46,28 @@ Although they can seem playful and harmless, goon balloons are quite mean-spirit
   - "constitution": !!int "4"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_vulnerabilities": "piercing"
-"senses": "darkvision 60 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 16"
 "languages": "Deep Speech"
 "cr": "1/8"
 "traits":
   - "desc": "The goon balloon bursts when it drops to 0 hit points, releasing noxious\
       \ gas in a 10-foot-radius sphere centered on itself. Creatures in that area\
-      \ must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute.\
-      \ A poisoned creature can repeat the saving throw at the end of each of its\
-      \ turns, ending the effect on itself on a success."
+      \ must succeed on a DC 12 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. A [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) creature\
+      \ can repeat the saving throw at the end of each of its turns, ending the effect\
+      \ on itself on a success."
     "name": "Burst"
   - "desc": "The goon balloon doesn't require air, food, or drink."
     "name": "Unusual Nature"
 "actions":
   - "desc": "The goon balloon makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ slashing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) slashing damage."
     "name": "Claw"
   - "desc": "Magical, kaleidoscopic light emanates from one of the goon balloon's\
       \ eyes as the goon balloon targets one creature it can see within 30 feet of\
@@ -75,10 +77,11 @@ Although they can seem playful and harmless, goon balloons are quite mean-spirit
 "bonus_actions":
   - "desc": "The goon balloon moves up to 20 feet vertically in one direction without\
       \ provoking opportunity attacks. If it ends this movement suspended in the air,\
-      \ it hovers in place. It can't be knocked prone while airborne."
+      \ it hovers in place. It can't be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ while airborne."
     "name": "Float"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/goon-balloon-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/goon-balloon-mcv1sc.webp"
 ```
 ^statblock

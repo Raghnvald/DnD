@@ -8,15 +8,15 @@ tags:
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/trickery
-aliases: 
-- Asmodeus
-- The Lord of the Ninth
-- The Cloven
-- Old Hoof and Horn
+aliases:
+- "Asmodeus"
+- "The Lord of the Ninth"
+- "The Cloven"
+- "Old Hoof and Horn"
 ---
 # Asmodeus
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-asmodeus.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-asmodeus.webp#symbol)
 
 - **Alternate Names**: The Lord of the Ninth, The Cloven, Old Hoof and Horn
 - **Alignment**: Lawful Evil

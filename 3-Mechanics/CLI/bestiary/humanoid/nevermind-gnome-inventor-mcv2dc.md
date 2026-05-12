@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nevermind Gnome Inventor
+- "Nevermind Gnome Inventor"
 ---
-# [Nevermind Gnome Inventor](3-Mechanics\CLI\bestiary\humanoid/nevermind-gnome-inventor-mcv2dc.md)
+# [Nevermind Gnome Inventor](3-Mechanics/CLI/bestiary/humanoid/nevermind-gnome-inventor-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 10*  
 
 > [!quote]  
@@ -35,7 +35,7 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "36"
 "hit_dice": "8d6 + 8"
 "modifier": !!int "3"
@@ -51,13 +51,14 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
   - "dexterity": !!int "5"
   - "intelligence": !!int "6"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+6"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Gnomish"
 "cr": "2"
 "traits":
@@ -81,10 +82,11 @@ Mount Nevermind is a hollow, dormant volcano on the island of Sancrist in Krynn.
   - "desc": "If the inventor is damaged by a creature it can see within 15 feet of\
       \ itself, the inventor retaliates by flinging brilliantly explosive powder at\
       \ the creature. The creature must succeed on a DC 14 Dexterity saving throw\
-      \ or be blinded until the end of its next turn."
+      \ or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) until the end\
+      \ of its next turn."
     "name": "Flash Powder"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/nevermind-gnome-inventor-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/nevermind-gnome-inventor-mcv2dc.webp"
 ```
 ^statblock

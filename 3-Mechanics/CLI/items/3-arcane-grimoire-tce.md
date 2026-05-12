@@ -5,12 +5,13 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "+3 Arcane Grimoire"
 ---
 # +3 Arcane Grimoire
-*Wondrous item, very rare (requires attunement by a wizard)*  
+*Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  
 
 
 - **Weight**: 3.0 lbs.

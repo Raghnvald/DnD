@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eye Monger
+- "Eye Monger"
 ---
-# [Eye Monger](3-Mechanics\CLI\bestiary\aberration/eye-monger-bam.md)
-*Source: Boo's Astral Menagerie p. 21, Vecna: Eve of Ruin*  
+# [Eye Monger](3-Mechanics/CLI/bestiary/aberration/eye-monger-bam.md)
+*Source: Boo's Astral Menagerie p. 21*  
 
 When its large eye and mouth are closed, an eye monger looks like nothing more than a 12-foot-diameter asteroid. When it senses vibrations in the space around it, the eye monger opens its eye and reveals its true, menacing nature.
 
@@ -68,16 +68,15 @@ Although an eye monger doesn't project an antimagic cone from its eye as a behol
       \ monger and deposited in the eye monger's gullet (see Antimagic Gullet). The\
       \ eye monger can swallow one creature at a time. A swallowed creature is blinded\
       \ and restrained, has total cover against attacks and other effects originating\
-      \ outside the eye monger, and takes 35 (10d6) acid damage at the start of each\
-      \ of its turns.\n\nIf the eye monger takes 25 damage or more on a single turn\
-      \ from a creature inside its gullet, the eye monger regurgitates the swallowed\
+      \ outside the eye monger, and takes 35 (10d6) acid damage at the start of\
+      \ each of its turns.\n\nIf the eye monger takes 25 damage or more on a single\
+      \ turn from a creature inside its gullet, the eye monger regurgitates the swallowed\
       \ creature, which falls prone in a space within 10 feet of the eye monger. If\
       \ the eye monger dies, a swallowed creature is no longer restrained by it and\
       \ can escape from the corpse by using 10 feet of movement, exiting prone."
     "name": "Bite"
 "source":
   - "BAM"
-  - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/eye-monger-bam.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/eye-monger-bam.webp"
 ```
 ^statblock

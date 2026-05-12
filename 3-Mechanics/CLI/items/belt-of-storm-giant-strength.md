@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Belt of Storm Giant Strength"
 ---
 # Belt of Storm Giant Strength
 *Wondrous item, major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/belt-of-storm-giant-strength.webp#right)
+![](3-Mechanics/CLI/items/img/belt-of-storm-giant-strength.webp#right)
 
 
 While wearing this belt, your Strength score changes to 29. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.

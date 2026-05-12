@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Strahd Zombie
+- "Strahd Zombie"
 ---
-# [Strahd Zombie](3-Mechanics\CLI\bestiary\undead/strahd-zombie-cos.md)
+# [Strahd Zombie](3-Mechanics/CLI/bestiary/undead/strahd-zombie-cos.md)
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
@@ -45,9 +45,8 @@ A Strahd zombie doesn't require air or sleep.
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "poisoned"
+"senses": "darkvision 60 ft., passive Perception 8"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -62,25 +61,24 @@ A Strahd zombie doesn't require air or sleep.
       \ of 5 feet.\n\nA severed arm has a speed of 5 feet and can make one claw attack\
       \ on its turn, with disadvantage on the attack roll. Each time the zombie loses\
       \ an arm, it loses a claw attack.\n\nIf its head is severed, the zombie loses\
-      \ its bite attack and its body is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ unless the head can see it. The severed head has a speed of 0 feet. It can\
-      \ make a bite attack, but only against a target in its space.\n\nThe zombie's\
-      \ speed is halved if it's missing a leg. If it loses both legs, it falls [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ If it has both arms, it can crawl. With only one arm, it can still crawl,\
-      \ but its speed is halved. With no arms or legs, its speed is 0 feet, and it\
-      \ can't benefit from bonuses to speed."
+      \ its bite attack and its body is blinded unless the head can see it. The severed\
+      \ head has a speed of 0 feet. It can make a bite attack, but only against a\
+      \ target in its space.\n\nThe zombie's speed is halved if it's missing a leg.\
+      \ If it loses both legs, it falls prone. If it has both arms, it can crawl.\
+      \ With only one arm, it can still crawl, but its speed is halved. With no arms\
+      \ or legs, its speed is 0 feet, and it can't benefit from bonuses to speed."
     "name": "Loathsome Limbs"
 "actions":
   - "desc": "The zombie makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) slashing damage."
     "name": "Claw"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/strahd-zombie-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/strahd-zombie-cos.webp"
 ```
 ^statblock

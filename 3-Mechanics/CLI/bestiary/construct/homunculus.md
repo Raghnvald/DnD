@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Homunculus
+- "Homunculus"
 ---
-# [Homunculus](3-Mechanics\CLI\bestiary\construct/homunculus.md)
+# [Homunculus](3-Mechanics/CLI/bestiary/construct/homunculus.md)
 *Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
@@ -42,9 +42,9 @@ A homunculus knows everything its creator knows, including all the languages the
   - !!int "7"
 "speed": "20 ft., fly 40 ft."
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "0"
 "traits":
@@ -53,15 +53,15 @@ A homunculus knows everything its creator knows, including all the languages the
       \ telepathically."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1\
-      \ piercing damage, and the target must succeed on a DC 10 Constitution saving\
-      \ throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1 minute.\
-      \ If the saving throw fails by 5 or more, the target is instead [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 5 (1d10) minutes and [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 1 piercing damage, and the target must succeed on a DC 10 Constitution saving\
+      \ throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1\
+      \ minute. If the saving throw fails by 5 or more, the target is instead [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 5 (1d10) minutes and [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/homunculus.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/homunculus.webp"
 ```
 ^statblock

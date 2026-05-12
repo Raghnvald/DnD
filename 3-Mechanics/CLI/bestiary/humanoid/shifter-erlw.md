@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid/shifter
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/shifter
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shifter
+- "Shifter"
 ---
-# [Shifter](3-Mechanics\CLI\bestiary\humanoid/shifter-erlw.md)
+# [Shifter](3-Mechanics/CLI/bestiary/humanoid/shifter-erlw.md)
 *Source: Eberron: Rising from the Last War p. 319*  
 
 Shifters are tied to primal spirits, which most of them refer to as the beast within. They are lithe of form and have bestial features: large eyes, flat noses, pointed ears, and light fur over much of their bodies. When a shifter fully embraces the beast within by "shifting," these features become even more pronounced.
@@ -45,6 +45,8 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
     "desc": "+2"
   - "name": "Perception"
     "desc": "+4"
+"gear":
+  - "shortsword"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common"
 "cr": "1/2"
@@ -55,14 +57,14 @@ Shifters are tied to primal spirits, which most of them refer to as the beast wi
       \ of its turns while in its bestial form."
     "name": "Shifting (Recharges after a Short or Long Rest)"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d4 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d4 + 3) piercing damage."
     "name": "Bite"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/shifter-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/shifter-erlw.webp"
 ```
 ^statblock

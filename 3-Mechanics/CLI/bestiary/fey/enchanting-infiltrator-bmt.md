@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/11
-- new/monster/size/small-or-medium
-- new/monster/type/fey
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/fey
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Enchanting Infiltrator
+- "Enchanting Infiltrator"
 ---
-# [Enchanting Infiltrator](3-Mechanics\CLI\bestiary\fey/enchanting-infiltrator-bmt.md)
+# [Enchanting Infiltrator](3-Mechanics/CLI/bestiary/fey/enchanting-infiltrator-bmt.md)
 *Source: The Book of Many Things p. 46*  
 
 An antagonist for tier 2 play (levels 5 to 10), the enchanting infiltrator is a Fey that beguiles and misdirects.
@@ -124,12 +124,12 @@ The villain's challenge rating increases while the villain is in this lair:
       \ equipment it is wearing or carrying, to an unoccupied space within 15 feet\
       \ of itself. The image flings illusory blades at two creatures of the infiltrator's\
       \ choice within 20 feet of the image. Each target must make a DC 17 Wisdom saving\
-      \ throw, taking 13 (3d8) psychic damage on a failed save, or half as much damage\
-      \ on a successful one. The invisibility lasts until the end of the infiltrator's\
+      \ throw, taking 13 (3d8) psychic damage on a failed save, or half as much\
+      \ damage on a successful one. The invisibility lasts until the end of the infiltrator's\
       \ next turn."
     "name": "Misdirecting Escape (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/enchanting-infiltrator-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/enchanting-infiltrator-bmt.webp"
 ```
 ^statblock

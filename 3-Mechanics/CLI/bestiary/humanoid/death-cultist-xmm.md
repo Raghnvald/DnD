@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death Cultist
+- "Death Cultist"
 ---
-# [Death Cultist](3-Mechanics\CLI\bestiary\humanoid/death-cultist-xmm.md)
+# [Death Cultist](3-Mechanics/CLI/bestiary/humanoid/death-cultist-xmm.md)
 *Source: Monster Manual (2024) p. 86*  
 
 Death cultists revel in nihilistic forces, embracing them as paths to undeath, multiversal purity, or entropic inevitability. These cultists serve powerful undead beings, apocalyptic prophecies, or immortals with power over death, such as Acererak, Kyuss, Orcus, Vecna, or Wee Jas.
@@ -23,13 +23,11 @@ Death cultists revel in nihilistic forces, embracing them as paths to undeath, m
 *Doomsayers and Fanatics*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Cultists use magic and extreme measures to spread radical beliefs. Some privately pursue esoteric secrets, while others form shadowy cabals seeking to bring about terrifying ends. Cultists often follow obscure mystical traditions or obsess over interpretations of ancient prophecies. They might worship supernatural patrons—deities, otherworldly creatures, manipulative alien minds, or stranger forces. Roll on or choose a result from the Cultist Agendas table to inspire what a cultist seeks to achieve.
 
 **Cultist Agendas**
-
-`dice: [](death-cultist-xmm.md#^cultist-agendas)`
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
@@ -46,8 +44,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 Cults often identify with symbols that exemplify their beliefs. Such symbols might mark objects important to the cult, as well as the dress and bodies of cultists themselves. These symbols might be broadly understandable, or they might have meaning only to cultists. Roll twice on or choose results from the Cult Symbols table to inspire a cult's icons.
 
 **Cult Symbols**
-
-`dice: [](death-cultist-xmm.md#^cult-symbols)`
 
 | dice: 1d10 | The Symbol Is... | Depicted As... |
 |------------|------------------|----------------|
@@ -97,12 +93,14 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "constitution": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+4"
+"gear":
+  - "[splint armor](3-Mechanics/CLI/items/splint-armor-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Common"
 "cr": "8"
@@ -110,25 +108,27 @@ Cults can organize around any mystical tradition, but many serve supernatural be
   - "desc": "The cultist makes three attacks, using Dread Scythe or Deathly Ray in\
       \ any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing damage\
-      \ plus 11 (2d10) Necrotic damage, and the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)\
-      \ until the end of its next turn."
+  - "desc": "*Melee Attack Roll:* +7, reach 10 ft. *Hit:* 9 (1d10 + 4) Slashing\
+      \ damage plus 11 (2d10) Necrotic damage, and the target can't regain [Hit\
+      \ Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) until the\
+      \ end of its next turn."
     "name": "Dread Scythe"
-  - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 22 (4d10) Necrotic damage."
+  - "desc": "*Ranged Attack Roll:* +6, range 120 ft. *Hit:* 22 (4d10) Necrotic\
+      \ damage."
     "name": "Deathly Ray"
   - "desc": "The cultist casts one of the following spells, using Wisdom as the spellcasting\
-      \ ability (spell save DC 14):\n\n**At will:** [Speak with Dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md),\
-      \ [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
+      \ ability (spell save DC 14):\n\n**At will:** [Speak with Dead](3-Mechanics/CLI/spells/speak-with-dead-xphb.md),\
+      \ [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "*Wisdom Saving Throw:* DC 14, each creature in a 20-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from the cultist. *Failure:* 14 (4d6) Psychic damage, and the\
-      \ target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition\
-      \ until the end of its next turn. *Success:* Half damage only."
+      \ target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition until the end of its next turn. *Success:* Half damage only."
     "name": "Spirit Wail (Recharge 5-6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/death-cultist-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/death-cultist-xmm.webp"
 ```
 ^statblock
 

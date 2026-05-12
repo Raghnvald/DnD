@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Spellguard Shield"
 ---
 # Spellguard Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md)), major, very rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/spellguard-shield.webp#right)
+*Armor (shield), major, very rare (requires attunement)*  
+![](3-Mechanics/CLI/items/img/spellguard-shield.webp#right)
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.

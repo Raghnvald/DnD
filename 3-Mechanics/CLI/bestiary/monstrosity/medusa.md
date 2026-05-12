@@ -11,16 +11,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Medusa
+- "Medusa"
 ---
-# [Medusa](3-Mechanics\CLI\bestiary\monstrosity/medusa.md)
+# [Medusa](3-Mechanics/CLI/bestiary/monstrosity/medusa.md)
 *Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
 
 ## Immortal Splendor
 
-Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](/3-Mechanics/CLI/conditions.md#Petrified), becoming stone monuments to its corruption.
+Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), becoming stone monuments to its corruption.
 
 ## Medusa Lairs
 
@@ -47,30 +47,33 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Common"
 "cr": "6"
 "traits":
   - "desc": "When a creature that can see the medusa's eyes starts its turn within\
       \ 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution\
-      \ saving throw if the medusa isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ saving throw if the medusa isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-      \ is instantly [petrified](/3-Mechanics/CLI/conditions.md#Petrified). Otherwise,\
-      \ a creature that fails the save begins to turn to stone and is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
-      \ The [restrained](/3-Mechanics/CLI/conditions.md#Restrained) creature must\
-      \ repeat the saving throw at the end of its next turn, becoming [petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
+      \ is instantly [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified). Otherwise,\
+      \ a creature that fails the save begins to turn to stone and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
+      \ The [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) creature\
+      \ must repeat the saving throw at the end of its next turn, becoming [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
       \ on a failure or ending the effect on a success. The petrification lasts until\
-      \ the creature is freed by the  [greater restoration](/3-Mechanics/CLI/spells/greater-restoration.md)\
-      \ spell or other magic.\n\nUnless [surprised](/3-Mechanics/CLI/conditions.md#Surprised),\
+      \ the creature is freed by the  [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ spell or other magic.\n\nUnless [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised),\
       \ a creature can avert its eyes to avoid the saving throw at the start of its\
       \ turn. If the creature does so, it can't see the medusa until the start of\
       \ its next turn, when it can avert its eyes again. If the creature looks at\
@@ -83,18 +86,18 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
   - "desc": "The medusa makes either three melee attacks—one with its snake hair and\
       \ two with its shortsword—or two ranged attacks with its longbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage plus 14 (4d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage."
     "name": "Snake Hair"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage."
     "name": "Longbow"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/medusa.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/medusa.webp"
 ```
 ^statblock
 

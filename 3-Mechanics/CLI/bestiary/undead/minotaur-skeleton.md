@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Minotaur Skeleton
+- "Minotaur Skeleton"
 ---
-# [Minotaur Skeleton](3-Mechanics\CLI\bestiary\undead/minotaur-skeleton.md)
+# [Minotaur Skeleton](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md)
 *Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -62,17 +62,19 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "40 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "understands Abyssal but can't speak"
 "cr": "2"
 "traits":
   - "desc": "If the skeleton moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ saving throw or be pushed up to 10 feet away and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17\
@@ -83,7 +85,7 @@ A skeleton doesn't require air, food, drink, or sleep.
     "name": "Gore"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/minotaur-skeleton.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/minotaur-skeleton.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mountain Goat
+- "Mountain Goat"
 ---
-# [Mountain Goat](3-Mechanics\CLI\bestiary\beast/mountain-goat-idrotf.md)
+# [Mountain Goat](3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 304*  
 
 Mountain goats are found throughout the Spine of the World and on the slopes of Kelvin's Cairn, their thick fur and layers of body fat protecting them from the extreme cold. They are expert climbers, able to leap and bound up sheer slopes.
@@ -43,17 +43,17 @@ Mountain goats are territorial but easily placated with offerings of food. Their
   - "desc": "If the goat moves at least 20 feet straight toward a target and then\
       \ hits it with a ram attack on the same turn, the target takes an extra 3 (1d6)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 12\
-      \ Strength saving throw or be knocked prone."
+      \ Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The goat has advantage on Strength and Dexterity saving throws made against\
-      \ effects that would knock it prone."
+      \ effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage."
     "name": "Ram"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/mountain-goat-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/mountain-goat-idrotf.webp"
 ```
 ^statblock

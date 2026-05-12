@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Dwarf Names – Female
+- "Dwarf Names – Female"
 ---
 # Dwarf Names – Female
 *Source: Xanathar's Guide to Everything p. 176* 
 
 **Dwarf Names – Female**
-
-`dice: [](dwarf-names-female-xge.md#^dwarf-names-female)`
 
 | dice: d100 | Name |
 |------------|------|

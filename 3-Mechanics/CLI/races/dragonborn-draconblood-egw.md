@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/race/dragonborn/draconblood
 aliases:
-- Dragonborn (Draconblood)
+- "Dragonborn (Draconblood)"
 ---
 # Dragonborn (Draconblood)
 *Source: Explorer's Guide to Wildemount p. 168*  
-![](/3-Mechanics/CLI/races/img/dragonborn-draconblood.webp#right)
+![](3-Mechanics/CLI/races/img/dragonborn-draconblood.webp#right)
 
 - **Ability Scores**: int +2 cha +1
 - **Size**: Medium
@@ -50,13 +50,13 @@ You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry
 
 You can use your action to exhale destructive energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation.
 
-When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes `dice:2d6|noform|noparens|avg` (`2d6`) damage on a failed save, and half as much damage on a successful one. The damage increases to `dice:3d6|noform|noparens|avg` (`3d6`) at 6th level, `dice:4d6|noform|noparens|avg` (`4d6`) at 11th level, and `dice:5d6|noform|noparens|avg` (`5d6`) at 16th level.
+When you use your breath weapon, each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry. The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus. A creature takes `2d6` damage on a failed save, and half as much damage on a successful one. The damage increases to `3d6` at 6th level, `4d6` at 11th level, and `5d6` at 16th level.
 
 After you use your breath weapon, you can't use it again until you complete a short or long rest.
 
 ### Forceful Presence
 
-You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest.
+You can use your understanding of creative diplomacy or intimidation to guide a conversation in your favor. When you make a Charisma (Intimidation or Persuasion) check, you can do so with advantage. Once you use this trait, you can't do so again until you finish a short or long rest.
 
 ### Languages
 
@@ -92,7 +92,7 @@ Dragonborn have personal names given at birth, but they put their clan names fir
 
 - **Male Names.** Arjhan, Balasar, Bharash, Donaar, Ghesh, Hesken, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn  
 - **Female Names.** Akra, Biri, Daar, Farideh, Harann, Havilar, Jheri, Kava, Korinn, Mishann, Nala, Perra, Raiann, Sora, Surina, Thava, Uadjit  
-- **Childhood Names.** Climber, Earbenden Leaper, Pious, Shieldbiter, Zealous  
+- **Childhood Names.** Climber, Earbenden, Leaper, Pious, Shieldbiter, Zealous  
 - **Clan Names.** Clethtinthiallor, Daardendrian, Delmirev, Drachedandion, Fenkenkabradon, Kepeshkmolik, Kerrhylon, Kimbatuul, Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit  
 
 > [!note] Draconians

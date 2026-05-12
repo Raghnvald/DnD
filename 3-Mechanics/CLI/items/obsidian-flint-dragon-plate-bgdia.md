@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgdia
 - ttrpg-cli/item/armor/heavy
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Obsidian Flint Dragon Plate"
 ---
 # Obsidian Flint Dragon Plate
-*Heavy armor ([plate armor](/3-Mechanics/CLI/items/plate-armor-xphb.md)), legendary*  
+*Heavy armor (plate armor), legendary*  
 
 
 - **Armor Class**: 18
@@ -18,6 +18,6 @@ aliases:
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 65.0 lbs.
 
-You gain a +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end the [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition on yourself.
+You gain a +2 bonus to AC and resistance to poison damage while you wear this armor. In addition, you gain advantage on ability checks and saving throws made to avoid or end the grappled condition on yourself.
 
 *Source: Baldur's Gate: Descent Into Avernus p. 224*

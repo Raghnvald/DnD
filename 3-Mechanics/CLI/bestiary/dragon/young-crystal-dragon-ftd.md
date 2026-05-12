@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Crystal Dragon
+- "Young Crystal Dragon"
 ---
-# [Young Crystal Dragon](3-Mechanics\CLI\bestiary\dragon/young-crystal-dragon-ftd.md)
+# [Young Crystal Dragon](3-Mechanics/CLI/bestiary/dragon/young-crystal-dragon-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 172*  
 
 Shimmering with radiant energy and brimming with life, crystal dragons enjoy an innate psionic connection to the Positive Plane that suffuses their bodies as well as their personalities with light. Though they prefer to live in desolate, frigid regions, many of them are among the friendliest of dragonkind, nurturing and optimistic.
@@ -39,8 +39,6 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 
 ### Crystal Dragon Personality Traits
 
-`dice: [](young-crystal-dragon-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | If you're not a thief or a frost giant, let's talk! |
@@ -54,8 +52,6 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 ^trait
 
 ### Crystal Dragon Ideals
-
-`dice: [](young-crystal-dragon-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -72,8 +68,6 @@ Use the Crystal Dragon Personality Traits and Crystal Dragon Ideals tables to in
 The Crystal Dragon Adventure Hooks table offers suggestions for stories and adventures involving crystal dragons.
 
 ### Crystal Dragon Adventure Hooks
-
-`dice: [](young-crystal-dragon-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -92,8 +86,6 @@ The Crystal Dragon Adventure Hooks table offers suggestions for stories and adve
 Crystal dragons are among the most social and hospitable of dragons. They are equal parts mysterious, contemplative, and mischievous, making it difficult to know what to expect of them.
 
 ### Young Crystal Dragon Connections
-
-`dice: [](young-crystal-dragon-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -130,25 +122,24 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+5"
 "damage_resistances": "cold, radiant"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 18"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic, telepathy 120 ft."
 "cr": "5"
 "actions":
   - "desc": "The dragon makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (2d10 + 3) piercing damage plus 4 (1d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (2d10 + 3) piercing damage plus 4 (1d8) radiant damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claw"
   - "desc": "The dragon exhales a burst of brilliant radiance in a 30-foot cone. Each\
       \ creature in that area must make a DC 15 Constitution saving throw, taking\
@@ -158,12 +149,11 @@ Crystal dragons are among the most social and hospitable of dragons. They are eq
     "name": "Scintillating Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md)\n\n**1/day each:** [hypnotic\
-      \ pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md)"
+      **At will:** dancing lights, guidance\n\n**1/day each:** hypnotic pattern, lesser\
+      \ restoration"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-crystal-dragon-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-crystal-dragon-ftd.webp"
 ```
 ^statblock

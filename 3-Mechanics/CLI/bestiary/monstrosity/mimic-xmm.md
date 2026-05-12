@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mimic
+- "Mimic"
 ---
-# [Mimic](3-Mechanics\CLI\bestiary\monstrosity/mimic-xmm.md)
+# [Mimic](3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md)
 *Source: Monster Manual (2024) p. 212. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Mimic
@@ -118,31 +118,31 @@ Weapon rack
   - !!int "8"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[prone](/3-Mechanics/CLI/conditions.md#Prone)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "2"
 "traits":
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ adhered to the mimic has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 13). Ability checks made to escape this grapple have\
-      \ [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
+      \ [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Adhesive (Object Form Only)"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
-      \ if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the\
-      \ mimic), reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage—or 12 (2d8 + 3) Piercing\
-      \ damage if the target is [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +5 (with [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
+      \ if the target is [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the mimic), reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage—or 12 (2d8\
+      \ + 3) Piercing damage if the target is [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by the mimic—plus 4 (1d8) Acid damage."
     "name": "Bite"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning damage\
-      \ plus 4 (1d8) Acid damage. If the target is a Large or smaller creature, it\
-      \ has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape\
-      \ DC 13). Ability checks made to escape this grapple have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Bludgeoning\
+      \ damage plus 4 (1d8) Acid damage. If the target is a Large or smaller creature,\
+      \ it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition\
+      \ (escape DC 13). Ability checks made to escape this grapple have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)."
     "name": "Pseudopod"
 "bonus_actions":
   - "desc": "The mimic shape-shifts to resemble a Medium or Small object while retaining\
@@ -151,7 +151,7 @@ Weapon rack
     "name": "Shape-Shift"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/mimic-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/mimic-xmm.webp"
 ```
 ^statblock
 

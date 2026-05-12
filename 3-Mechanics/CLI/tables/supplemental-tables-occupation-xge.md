@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Occupation
+- "Supplemental Tables; Occupation"
 ---
 # Supplemental Tables; Occupation
 *Source: Xanathar's Guide to Everything p. 72* 
 
 **Occupation**
-
-`dice: [](supplemental-tables-occupation-xge.md#^occupation)`
 
 | dice: d100 | Occupation |
 |------------|------------|

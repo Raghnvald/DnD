@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv3mc
-- new/monster/cr/19
-- new/monster/size/gargantuan
-- new/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/mcv3mc
+- ttrpg-cli/monster/cr/19
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ender Dragon
+- "Ender Dragon"
 ---
-# [Ender Dragon](3-Mechanics\CLI\bestiary\dragon/ender-dragon-mcv3mc.md)
+# [Ender Dragon](3-Mechanics/CLI/bestiary/dragon/ender-dragon-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 5*  
 
 The mighty Ender Dragon is one of a kind—a vast, flying creature with void-black scales and purple eyes. It soars above the central island of the End. No one can say whether it is a guardian or a prisoner of the End, but either way, the Ender Dragon challenges anyone who enters its domain.
@@ -25,7 +25,7 @@ The Ender Dragon buffets enemies with great wings, engulfs foes with its gaseous
 > 
 > **Crystal Healing.** When the Ender Dragon ends its turn within 60 feet of an End crystal, the crystal emits a healing beam that causes the dragon to regain 20 hit points. The dragon can benefit from such healing only once per turn.
 > 
-> **Crystal Statistics.** An End crystal is a Large object that has Armor Class 11; 30 hit points; vulnerability to bludgeoning and thunder damage; resistance to piercing and slashing damage; and immunity to poison and psychic damage. When a crystal is destroyed, it explodes in a 20-foot-radius sphere of destructive energy. Any creature in that area must make a DC 15 Dexterity saving throw, taking `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) force damage on a failed save, or half as much damage on a successful one.
+> **Crystal Statistics.** An End crystal is a Large object that has Armor Class 11; 30 hit points; vulnerability to bludgeoning and thunder damage; resistance to piercing and slashing damage; and immunity to poison and psychic damage. When a crystal is destroyed, it explodes in a 20-foot-radius sphere of destructive energy. Any creature in that area must make a DC 15 Dexterity saving throw, taking 21 (`6d6`) force damage on a failed save, or half as much damage on a successful one.
 ^end-crystals
 
 ```statblock
@@ -51,14 +51,15 @@ The Ender Dragon buffets enemies with great wings, engulfs foes with its gaseous
   - "intelligence": !!int "6"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+14"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "fire"
 "damage_immunities": "necrotic"
-"condition_immunities": "charmed, frightened"
-"senses": "darkvision 240 ft., passive Perception 24"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 240 ft., passive\
+  \ Perception 24"
 "languages": "Draconic"
 "cr": "19"
 "traits":
@@ -71,12 +72,12 @@ The Ender Dragon buffets enemies with great wings, engulfs foes with its gaseous
 "actions":
   - "desc": "The dragon makes one Bite attack and uses Beating Wings."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit; reach 15 ft., one target. *Hit:* 18\
-      \ (3d6 + 8) piercing damage plus 7 (2d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit; reach 15 ft., one target. *Hit:*\
+      \ 18 (3d6 + 8) piercing damage plus 7 (2d6) necrotic damage."
     "name": "Bite"
   - "desc": "The dragon beats its great wings. Each creature within 15 feet of the\
       \ dragon must succeed on a DC 21 Dexterity saving throw or take 10 (1d4 + 8)\
-      \ bludgeoning damage, be pushed 10 feet away from the dragon, and have the prone\
+      \ bludgeoning damage, be pushed 10 feet away from the dragon, and have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition."
     "name": "Beating Wings"
   - "desc": "The dragon exhales putrid gas in a 60-foot cone. Each creature in that\
@@ -89,6 +90,6 @@ The Ender Dragon buffets enemies with great wings, engulfs foes with its gaseous
     "name": "Harmful Breath (Recharge 5-6)"
 "source":
   - "MCV3MC"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ender-dragon-mcv3mc.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ender-dragon-mcv3mc.webp"
 ```
 ^statblock

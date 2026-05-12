@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Displacer Beast
+- "Displacer Beast"
 ---
-# [Displacer Beast](3-Mechanics\CLI\bestiary\monstrosity/displacer-beast.md)
+# [Displacer Beast](3-Mechanics/CLI/bestiary/monstrosity/displacer-beast.md)
 *Source: Monster Manual p. 81*  
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
@@ -50,8 +50,8 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
   - !!int "12"
   - !!int "8"
 "speed": "40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": ""
 "cr": "3"
 "traits":
@@ -63,18 +63,18 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
       \ to be standing near its actual location, causing attack rolls against it to\
       \ have disadvantage. If it is hit by an attack, this trait is disrupted until\
       \ the end of its next turn. This trait is also disrupted while the displacer\
-      \ beast is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or\
-      \ has a speed of 0."
+      \ beast is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ or has a speed of 0."
     "name": "Displacement"
 "actions":
   - "desc": "The displacer beast makes two attacks with its tentacles."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) bludgeoning damage plus 3 (1d6) piercing damage."
     "name": "Tentacle"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/displacer-beast.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/displacer-beast.webp"
 ```
 ^statblock
 

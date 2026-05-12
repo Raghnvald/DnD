@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/subclass/wizard/diviner
 aliases:
-- Diviner
+- "Diviner"
 ---
 # Diviner
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
@@ -44,13 +44,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Diviner (Level 3)
-
 *Learn the Secrets of the Multiverse*
 
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
+
+## Subclass Features
 
 ### Divination Savant (Level 3)
 
@@ -60,9 +58,9 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Portent (Level 3)
 
-Glimpses of the future begin to press on your awareness. Whenever you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Glimpses of the future begin to press on your awareness. Whenever you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-Each foretelling roll can be used only once. When you finish a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
+Each foretelling roll can be used only once. When you finish a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
 
 ### Expert Divination (Level 6)
 
@@ -70,19 +68,13 @@ Casting Divination spells comes so easily to you that it expends only a fraction
 
 ### The Third Eye (Level 10)
 
-You can increase your powers of perception. As a [Bonus Action](/3-Mechanics/CLI/variant-rules/bonus-action-xphb.md), choose one of the following benefits, which lasts until you start a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md). You can't use this feature again until you finish a [Short](/3-Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md).
+You can increase your powers of perception. As a [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), choose one of the following benefits, which lasts until you start a [Short](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can't use this feature again until you finish a [Short](3-Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
-#### Darkvision
+**Darkvision.** You gain [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet.
 
-You gain [Darkvision](/3-Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
+**Greater Comprehension.** You can read any language.
 
-#### Greater Comprehension
-
-You can read any language.
-
-#### See Invisibility
-
-You can cast [See Invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md) without expending a spell slot.
+**See Invisibility.** You can cast [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md) without expending a spell slot.
 
 ### Greater Portent (Level 14)
 

@@ -8,11 +8,11 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Arrow-Catching Shield"
 ---
 # Arrow-Catching Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md)), major, rare (requires attunement)*  
+*Armor (shield), major, rare (requires attunement)*  
 
 
 - **Armor Class**: 2

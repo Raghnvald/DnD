@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Lost Memories; Suppressed Memories
+- "Lost Memories; Suppressed Memories"
 ---
 # Lost Memories; Suppressed Memories
 *Source: Van Richten's Guide to Ravenloft p. 75* 
 
 **Suppressed Memories**
-
-`dice: [](lost-memories-suppressed-memories-vrgr.md#^suppressed-memories)`
 
 | dice: d6 | Memory |
 |----------|--------|

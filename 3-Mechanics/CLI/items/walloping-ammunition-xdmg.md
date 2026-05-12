@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Walloping Ammunition"
 - "Walloping Arrow"
 - "Walloping Bolt"
@@ -23,7 +23,7 @@ aliases:
 
 
 
-A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [Prone](/3-Mechanics/CLI/conditions.md#Prone) condition.
+A creature hit by this ammunition must succeed on a DC 10 Strength saving throw or have the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition.
 
 **Variants**:
 - [Walloping Arrow](#Walloping%20Arrow)

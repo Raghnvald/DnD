@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 - ttrpg-cli/monster/legendary-group
 aliases:
-- Keresta Delvingstone
+- "Keresta Delvingstone"
 ---
 # Keresta Delvingstone
 

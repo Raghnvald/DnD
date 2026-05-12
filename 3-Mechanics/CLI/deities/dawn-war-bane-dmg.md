@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Bane
+aliases:
+- "Bane"
 ---
 # Bane
 *Source: Dungeon Master's Guide p. 10* 

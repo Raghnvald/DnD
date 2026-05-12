@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pirate
+- "Pirate"
 ---
-# [Pirate](3-Mechanics\CLI\bestiary\humanoid/pirate-xmm.md)
+# [Pirate](3-Mechanics/CLI/bestiary/humanoid/pirate-xmm.md)
 *Source: Monster Manual (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Along with being competent warriors, pirates are accomplished seafarers who know how to sail and maintain a ship. While some loyally follow their captains' orders, others place greed, superstition, or self-preservation over duty.
@@ -23,7 +23,7 @@ Along with being competent warriors, pirates are accomplished seafarers who know
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -34,8 +34,6 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 To terrify opponents and spread their reputations, pirate crews fly distinctive flags. Roll twice on or choose results from the Pirate Flags table to inspire what flag a pirate crew sails under.
 
 **Pirate Flags**
-
-`dice: [](pirate-xmm.md#^pirate-flags)`
 
 | dice: 1d8 | The Flag Shows A... | With... |
 |-----------|---------------------|---------|
@@ -69,6 +67,9 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
 "saves":
   - "dexterity": !!int "5"
   - "charisma": !!int "4"
+"gear":
+  - "six [daggers](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common plus one other language"
 "cr": "1"
@@ -76,16 +77,16 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "desc": "The pirate makes two Dagger attacks. It can replace one attack with a\
       \ use of Enthralling Panache."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft. *Hit:*\
-      \ 5 (1d4 + 3) Piercing damage."
+  - "desc": "*Melee  or Ranged Attack Roll:* +5, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 5 (1d4 + 3) Piercing damage."
     "name": "Dagger"
   - "desc": "*Wisdom Saving Throw:* DC 12, one creature the pirate can see within\
-      \ 30 feet. *Failure:* The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ 30 feet. *Failure:* The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ condition until the start of the pirate's next turn."
     "name": "Enthralling Panache"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-xmm.webp"
 ```
 ^statblock
 

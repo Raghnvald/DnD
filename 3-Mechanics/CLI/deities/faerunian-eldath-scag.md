@@ -8,15 +8,15 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/peace
-aliases: 
-- Eldath
-- The Quiet One
-- The Guardian of Groves
-- The Mother of the Waters
+aliases:
+- "Eldath"
+- "The Quiet One"
+- "The Guardian of Groves"
+- "The Mother of the Waters"
 ---
 # Eldath
 *Source: Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 33* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-eldath.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-eldath.webp#symbol)
 
 - **Alternate Names**: The Quiet One, The Guardian of Groves, The Mother of the Waters
 - **Alignment**: Neutral Good

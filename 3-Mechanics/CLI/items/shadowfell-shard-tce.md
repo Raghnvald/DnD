@@ -5,13 +5,14 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/gear/spellcasting-focus
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Shadowfell Shard"
 ---
 # Shadowfell Shard
-*Wondrous item, rare (requires attunement by a sorcerer)*  
-![](/3-Mechanics/CLI/items/img/shadowfell-shard.webp#right)
+*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
+![](3-Mechanics/CLI/items/img/shadowfell-shard.webp#right)
 
 - **Weight**: 1.0 lbs.
 

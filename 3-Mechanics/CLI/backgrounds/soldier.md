@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Soldier
+- "Soldier"
 ---
 # Soldier
 *Source: Player's Handbook p. 140. Available in the Basic Rules (2014)*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
+- **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](/3-Mechanics/CLI/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](/3-Mechanics/CLI/items/dice-set.md) or [playing card set](/3-Mechanics/CLI/items/playing-card-set.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch.md) containing 10 gp  
+- **Equipment.** An insignia of rank, a trophy taken from a fallen enemy (a [dagger](3-Mechanics/CLI/items/dagger.md), broken blade, or piece of a banner), a bone [dice set](3-Mechanics/CLI/items/dice-set.md) or [playing card set](3-Mechanics/CLI/items/playing-card-set.md), a set of [common clothes](3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 10 gp  
 
 War has been your life for as long as you care to remember. You trained as a youth, studied the use of weapons and armor, learned basic survival techniques, including how to stay alive on the battlefield. You might have been part of a standing national army or a mercenary company, or perhaps a member of a local militia who rose to prominence during a recent war.
 
@@ -27,8 +27,6 @@ You have a military rank from your career as a soldier. Soldiers loyal to your f
 ## Specialty
 
 During your time as a soldier, you had a specific role to play in your unit or army. Roll a d8 or choose from the options in the table below to determine your role:
-
-`dice: [](soldier.md#^role)`
 
 | dice: d8 | Role |
 |----------|------|
@@ -46,8 +44,6 @@ During your time as a soldier, you had a specific role to play in your unit or a
 
 The horrors of war combined with the rigid discipline of military service leave their mark on all soldiers, shaping their ideals, creating strong bonds, and often leaving them scarred and vulnerable to fear, shame, and hatred.
 
-`dice: [](soldier.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I'm always polite and respectful. |
@@ -60,8 +56,6 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 8 | I face problems head-on. A simple, direct solution is the best path to success. |
 ^personality-trait
 
-`dice: [](soldier.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Greater Good. Our lot is to lay down our lives in defense of others. (Good) |
@@ -72,8 +66,6 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 6 | Nation. My city, nation, or people are all that matter. (Any) |
 ^ideal
 
-`dice: [](soldier.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would still lay down my life for the people I served with. |
@@ -83,8 +75,6 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 5 | Those who fight beside me are those worth dying for. |
 | 6 | I fight for those who cannot fight for themselves. |
 ^bond
-
-`dice: [](soldier.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

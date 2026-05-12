@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightmare
+- "Nightmare"
 ---
-# [Nightmare](3-Mechanics\CLI\bestiary\fiend/nightmare-xmm.md)
+# [Nightmare](3-Mechanics/CLI/bestiary/fiend/nightmare-xmm.md)
 *Source: Monster Manual (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Nightmare
@@ -29,8 +29,6 @@ Nightmares resemble horses with flaming manes, burning hooves, and smoldering ey
 Nightmares' speed, resilience, and ability to gallop between planes of existence make them steeds coveted by evildoers. Roll on or choose a result from the Nightmare Riders table to inspire what might employ a nightmare steed.
 
 **Nightmare Riders**
-
-`dice: [](nightmare-xmm.md#^nightmare-riders)`
 
 | dice: 1d6 | The Nightmare Carries... |
 |-----------|--------------------------|
@@ -64,11 +62,11 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 "languages": "understands Abyssal, Common, and Infernal but can't speak"
 "cr": "3"
 "traits":
-  - "desc": "The nightmare can grant [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md)\
+  - "desc": "The nightmare can grant [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md)\
       \ to Fire damage to a rider while it is on the nightmare."
     "name": "Confer Fire Resistance"
-  - "desc": "The nightmare sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The nightmare sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -80,7 +78,7 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
     "name": "Ethereal Stride"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/nightmare-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/nightmare-xmm.webp"
 ```
 ^statblock
 

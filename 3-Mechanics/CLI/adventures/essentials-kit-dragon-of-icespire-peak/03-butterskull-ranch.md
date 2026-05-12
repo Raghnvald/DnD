@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Butterskull Ranch
+- "Butterskull Ranch"
 ---
 # Butterskull Ranch
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 16* 
@@ -32,11 +32,11 @@ The characters have the following encounters as they travel to the ranch.
 
 #### Horses in Conyberry
 
-The abandoned town of Conyberry is eerily silent except for the whistling of the wind as it blows through the settlement's burned and crumbled-down structures. As the characters make their way through or around the ruins, they spot three unsaddled [riding horses](/3-Mechanics/CLI/bestiary/beast/riding-horse.md) grazing near an old well. Anyone who succeeds on a DC 10 Wisdom (Perception) check sees that the horses are branded with the letters BAK (for Big Al Kalazorn). A character who succeeds on a DC 15 Wisdom (Animal Handling) check can approach a horse without startling it, and can even ride it.
+The abandoned town of Conyberry is eerily silent except for the whistling of the wind as it blows through the settlement's burned and crumbled-down structures. As the characters make their way through or around the ruins, they spot three unsaddled riding horses grazing near an old well. Anyone who succeeds on a DC 10 Wisdom (Perception) check sees that the horses are branded with the letters BAK (for Big Al Kalazorn). A character who succeeds on a DC 15 Wisdom (Animal Handling) check can approach a horse without startling it, and can even ride it.
 
 #### Petunia the Cow
 
-Between Conyberry and the ranch, the characters spot Petunia the [cow](/3-Mechanics/CLI/bestiary/beast/cow-vgm.md) in a field a few hundred feet off the Triboar Trail. Petunia wears a cowbell around her neck. Characters who approach her spot a brand on her hindquarters: the letters BAK. Petunia has a calm, unflappable demeanor. If treated well, she follows her new benefactors everywhere.
+Between Conyberry and the ranch, the characters spot Petunia the cow in a field a few hundred feet off the Triboar Trail. Petunia wears a cowbell around her neck. Characters who approach her spot a brand on her hindquarters: the letters BAK. Petunia has a calm, unflappable demeanor. If treated well, she follows her new benefactors everywhere.
 
 ## Arrival
 
@@ -50,14 +50,14 @@ The following locations are keyed to the map of Butterskull Ranch. When the adve
 Pigs harmlessly wander the fields, gardens, and orchard. Between the farmhouse and the gutted barn lie the scattered corpses of two orcs and five humans (ranch hands) swarming with flies. The bodies carry nothing of value.
 
 > [!gallery]
-> ![Map: Butterskull Ranch](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/009-map-br-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/010-map-br-pc.webp#gallery)
+> ![Map: Butterskull Ranch](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/009-map-br-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/010-map-br-pc.webp#gallery)
 
 ### Exploring the Farmhouse
 
 The farmhouse is a two-story log building with a pitched, shingled roof and a stone chimney. Its wooden doors are set with iron handles and hinges. Its windows are fitted with wooden shutters that can be bolted shut from inside. All the shutters are open when the characters arrive.
 
-Raucous [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md) dwell in the farmhouse, consuming Big Al's ale and food stores. There are three times as many orcs as there are characters in the party, not including sidekicks. Place the orcs in areas B1 through B9 as you see fit. The orcs are not expecting trouble, but they fight to the death.
+Raucous orcs dwell in the farmhouse, consuming Big Al's ale and food stores. There are three times as many orcs as there are characters in the party, not including sidekicks. Place the orcs in areas B1 through B9 as you see fit. The orcs are not expecting trouble, but they fight to the death.
 
 #### B1. Kitchen
 
@@ -85,7 +85,7 @@ A large bed and a bulky cedar wardrobe dominate this room, which also has framed
 
 ##### Treasure
 
-Any character who searches the wardrobe and succeeds on a DC 15 Wisdom (Perception) check finds a secret compartment at the bottom, stuffed inside which is a suit of mithral chain mail. (If the characters acquire and identify this magic item, give them the Mithral Chain Mail [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Mithral%20Chain%20Mail) or they can reference it in the Magic Items Listing.)
+Any character who searches the wardrobe and succeeds on a DC 15 Wisdom (Perception) check finds a secret compartment at the bottom, stuffed inside which is a suit of [mithral chain mail](3-Mechanics/CLI/items/mithral-armor.md). (If the characters acquire and identify this magic item, give them the [Mithral Chain Mail](3-Mechanics/CLI/items/mithral-armor.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Mithral%20Chain%20Mail) or they can reference it in the Magic Items Listing.)
 
 #### B7. Ranch Hands' Bedrooms
 
@@ -112,8 +112,8 @@ Wooden doors set against the north side of the farmhouse cover stone stairs lead
 > The cellar has a dirt floor, walls of mortared stone, and an eight-foot-high plank ceiling braced by wooden pillars. Tied to a chair is a large figure with a burlap sack pulled over his head. Shelves along the walls are lined with skulls made of butter and protected by a thin coating of wax.
 ^088
 
-The bound figure is Alfonse Kalazorn, a human [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md). It takes 1 minute for a character to free Big Al from his rope bonds. Having been beaten by the orcs, he has 9 hit points remaining and appreciates any healing the characters can provide. He is also without weapons and armor (AC 11).
+The bound figure is Alfonse Kalazorn, a human veteran. It takes 1 minute for a character to free Big Al from his rope bonds. Having been beaten by the orcs, he has 9 hit points remaining and appreciates any healing the characters can provide. He is also without weapons and armor (AC 11).
 
 Once liberated, Big Al can be convinced to abandon his ranch by any character who succeeds on a DC 10 Charisma (Intimidation or Persuasion) check. But he would rather stay, borrow a weapon, and kill any orcs that remain.
 
-Big Al can't turn a profit without his prized cow. He offers his suit of mithral chain mail (hidden in area B6) as a reward for her safe return. If the characters didn't bring Petunia with them, they can scour the countryside for her. At the end of each hour spent searching, roll a `dice:d6|noform|noparens|avg` (`d6`). On a roll of 6, the party finds Petunia. If one or more characters search on horseback, they find Petunia on a roll of 5 or 6.
+Big Al can't turn a profit without his prized cow. He offers his suit of [mithral chain mail](3-Mechanics/CLI/items/mithral-armor.md) (hidden in area B6) as a reward for her safe return. If the characters didn't bring Petunia with them, they can scour the countryside for her. At the end of each hour spent searching, roll a `d6`. On a roll of 6, the party finds Petunia. If one or more characters search on horseback, they find Petunia on a roll of 5 or 6.

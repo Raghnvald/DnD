@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/elf/drow
 aliases:
-- Elf (Drow)
+- "Elf (Drow)"
 ---
 # Elf (Drow)
 *Source: Player's Handbook p. 24*  
@@ -33,11 +33,11 @@ Accustomed to the depths of the Underdark, you have superior vision in dark and 
 
 ### Keen Senses
 
-You have proficiency in the [Perception](/3-Mechanics/CLI/skills.md#Perception) skill.
+You have proficiency in the [Perception](3-Mechanics/CLI/rules/skills.md#Perception) skill.
 
 ### Fey Ancestry
 
-You have advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and magic can't put you to sleep.
+You have advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put you to sleep.
 
 ### Trance
 
@@ -52,15 +52,15 @@ You can speak, read, and write Common and Elvish. Elvish is fluid, with subtle i
 
 ### Sunlight Sensitivity
 
-You have disadvantage on attack rolls and on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+You have disadvantage on attack rolls and on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
 ### Drow Magic
 
-You know the [dancing lights](/3-Mechanics/CLI/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](/3-Mechanics/CLI/spells/faerie-fire.md) spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [darkness](/3-Mechanics/CLI/spells/darkness.md) spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md) cantrip. When you reach 3rd level, you can cast the [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the [darkness](3-Mechanics/CLI/spells/darkness.md) spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Drow Weapon Training
 
-You have proficiency with [rapiers](/3-Mechanics/CLI/items/rapier.md), [shortswords](/3-Mechanics/CLI/items/shortsword.md), and [hand crossbows](/3-Mechanics/CLI/items/hand-crossbow.md).
+You have proficiency with [rapiers](3-Mechanics/CLI/items/rapier.md), [shortswords](3-Mechanics/CLI/items/shortsword.md), and [hand crossbows](3-Mechanics/CLI/items/hand-crossbow.md).
 
 ## Description
 

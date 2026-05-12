@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aspirant of the Comet
+- "Aspirant of the Comet"
 ---
-# [Aspirant of the Comet](3-Mechanics\CLI\bestiary\humanoid/aspirant-of-the-comet-bmt.md)
+# [Aspirant of the Comet](3-Mechanics/CLI/bestiary/humanoid/aspirant-of-the-comet-bmt.md)
 *Source: The Book of Many Things p. 91*  
 
 Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, but they are firmly in the group's clutches, both socially and metaphysically. If an aspirant is killed, the hapless individual is drawn into the Void and devoured, body and soul.
@@ -34,6 +34,8 @@ Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, b
   - !!int "10"
   - !!int "13"
 "speed": "30 ft."
+"gear":
+  - "spear"
 "senses": "passive Perception 10"
 "languages": "Common plus any one language"
 "cr": "1/2"
@@ -55,6 +57,6 @@ Aspirants aren't yet initiated into the mysteries of the Heralds of the Comet, b
     "name": "Spear"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/aspirant-of-the-comet-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/aspirant-of-the-comet-bmt.webp"
 ```
 ^statblock

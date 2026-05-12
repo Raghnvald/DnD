@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdh
 - ttrpg-cli/item/rarity/unknown
 - ttrpg-cli/item/wondrous/other
-aliases: 
+aliases:
 - "Backpack Parachute"
 ---
 # Backpack Parachute

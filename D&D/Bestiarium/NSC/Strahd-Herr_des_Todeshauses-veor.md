@@ -12,16 +12,16 @@ aliases:
   - Strahd, Master of Death House
 linter-yaml-title-alias: Strahd, Master of Death House
 ---
-# [Strahd, Master of Death House](3-Mechanics\CLI\bestiary\npc/strahd-master-of-death-house-veor.md)
-*Source: Vecna: Eve of Ruin p. 251*  
+# Strahd, Master of Death House
+*Quelle: Vecna: Vorabend der Verdammnis S. 250*  
 
-Strahd von Zarovich is the Darklord of Barovia, a Domain of Dread. Little happens there without the Darklord's knowledge, although Strahd rarely pays attention to what he considers the uninteresting dealings of lesser beings.
+Strahd von Zarowitsch ist der Dunkle Fürst von Barovia, einer Domäne des Schreckens. Ohne das Wissen des Dunklen Fürsten geschieht dort nur wenig, wobei Strahd nur selten Aufmerksamkeit für das übrig hat, was er als uninteressante Angelegenheiten niederer Wesen betrachtet.
 
-## History
+## Geschichte
 
-In life, Strahd von Zarovich was a prince, a soldier, and a conqueror. His thirst for power never sated, Strahd made a pact with the Dark Powers to become immortal. Meanwhile, Strahd's evil deepened, until in a jealous rage he murdered his brother, Sergei. Sergei's betrothed, Tatyana, leapt from a tower to escape Strahd and vanished into the Mists rising around Barovia as Strahd slew everyone else in the castle. He had become a vampire, and Barovia became a Domain of Dread.
+Zu seinen Lebzeiten war Strahd von Zarowitsch ein Prinz, ein Soldat und ein Eroberer. Doch seine Machtgier war unstillbar, und er schloss einen Pakt mit den Dunklen Mächten, um unsterblich zu werden. So vertiefte sich seine Bosheit, und in einem Anfall von Eifersucht ermordete er seinen Bruder Sergei. Sergeis Verlobte Tatyana sprang von einem Turm, um Strahd zu entkommen. Sie verschwand in jenen Nebeln, die sich um Barovia erhoben, als Strahd alle anderen in der Burg erschlug. Er wurde zum Vampir, und Barovia wurde eine Domäne des Schreckens. 
 
-Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his inability to escape for all eternity. He spends his days amusing himself as best he can, terrorizing Barovia's people and savoring the fear and worship he commands.
+Nun halten die Dunklen Mächte Strahd in seinem Reich gefangen und quälen ihn damit, dass er es niemals wieder verlassen kann. Er verbringt seine Zeit damit, sich so gut wie möglich zu amüsieren, indem er die Bevölkerung von Barovia terrorisiert und die Angst und Anbetung genießt, über die er gebietet. 
 
 ```statblock
 "name": "Strahd, Master of Death House (VEoR)"

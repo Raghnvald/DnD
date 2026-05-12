@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mad Maggie
+- "Mad Maggie"
 ---
-# [Mad Maggie](3-Mechanics\CLI\bestiary\npc/mad-maggie-bgdia.md)
+# [Mad Maggie](3-Mechanics/CLI/bestiary/npc/mad-maggie-bgdia.md)
 *Source: Baldur's Gate: Descent Into Avernus p. 74*  
 
 ```statblock
@@ -34,29 +34,25 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+6"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"condition_immunities": "charmed"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Abyssal, Common, Infernal, Primordial"
 "cr": "5"
 "traits":
   - "desc": "Maggie's innate spellcasting ability is Charisma (spell save DC 14, +6\
       \ to hit with spell attacks). She can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md)\n\n**2/day\
-      \ each:** [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) (self only),\
-      \ [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md),\
-      \ [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+      \ no material components:\n\n**At will:** detect magic, magic missile\n\n**2/day\
+      \ each:** plane shift (self only), ray of enfeeblement, sleep"
     "name": "Innate Spellcasting"
   - "desc": "Maggie has advantage on saving throws against spells and other magical\
       \ effects."
@@ -86,18 +82,17 @@ aliases:
       \ vice versa. To do so, Maggie must have a heartstone in her possession."
     "name": "Etherealness"
   - "desc": "While on the Ethereal Plane, Maggie magically touches a sleeping humanoid\
-      \ on the Material Plane. A [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
-      \ spell cast on the target prevents this contact, as does a magic circle. As\
-      \ long as the contact persists, the target has dreadful visions. If these visions\
-      \ last for at least 1 hour, the target gains no benefit from its rest, and its\
-      \ hit point maximum is reduced by 5 (1d10). If this effect reduces the target's\
-      \ hit point maximum to 0, the target dies, and if the target was evil, its soul\
-      \ is trapped in Maggie's soul bag. The reduction to the target's hit point maximum\
-      \ lasts until removed by the  [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell or similar magic."
+      \ on the Material Plane. A protection from evil and good spell cast on the target\
+      \ prevents this contact, as does a magic circle. As long as the contact persists,\
+      \ the target has dreadful visions. If these visions last for at least 1 hour,\
+      \ the target gains no benefit from its rest, and its hit point maximum is reduced\
+      \ by 5 (1d10). If this effect reduces the target's hit point maximum to 0,\
+      \ the target dies, and if the target was evil, its soul is trapped in Maggie's\
+      \ soul bag. The reduction to the target's hit point maximum lasts until removed\
+      \ by the  greater restoration spell or similar magic."
     "name": "Nightmare Haunting (1/Day)"
 "source":
   - "BGDIA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/mad-maggie-bgdia.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/mad-maggie-bgdia.webp"
 ```
 ^statblock

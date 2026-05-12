@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Galeb Duhr
+- "Galeb Duhr"
 ---
-# [Galeb Duhr](3-Mechanics\CLI\bestiary\elemental/galeb-duhr.md)
+# [Galeb Duhr](3-Mechanics/CLI/bestiary/elemental/galeb-duhr.md)
 *Source: Monster Manual p. 139*  
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
@@ -51,10 +51,10 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
   \ 60 ft., passive Perception 11"
 "languages": "Terran"
 "cr": "6"
@@ -64,8 +64,8 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
     "name": "False Appearance"
   - "desc": "If the galeb duhr rolls at least 20 feet straight toward a target and\
       \ then hits it with a slam attack on the same turn, the target takes an extra\
-      \ 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on\
-      \ a DC 16 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 16 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Rolling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
@@ -73,16 +73,16 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
     "name": "Slam"
   - "desc": "The galeb duhr magically animates up to two boulders it can see within\
       \ 60 feet of it. A boulder has statistics like those of a galeb duhr, except\
-      \ it has Intelligence 1 and Charisma 1, it can't be [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ or [frightened](/3-Mechanics/CLI/conditions.md#Frightened), and it lacks this\
-      \ action option. A boulder remains animated as long as the galeb duhr maintains\
-      \ [concentration](/3-Mechanics/CLI/conditions.md#Concentration), up to 1 minute\
-      \ (as if [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a\
-      \ spell)."
+      \ it has Intelligence 1 and Charisma 1, it can't be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), and it lacks\
+      \ this action option. A boulder remains animated as long as the galeb duhr maintains\
+      \ [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration), up to\
+      \ 1 minute (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell)."
     "name": "Animate Boulders (1/Day)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/galeb-duhr.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/galeb-duhr.webp"
 ```
 ^statblock
 

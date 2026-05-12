@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant Servant
+- "Frost Giant Servant"
 ---
-# [Frost Giant Servant](3-Mechanics\CLI\bestiary\giant/frost-giant-servant-tftyp.md)
+# [Frost Giant Servant](3-Mechanics/CLI/bestiary/giant/frost-giant-servant-tftyp.md)
 *Source: Tales from the Yawning Portal p. 187*  
 
 ```statblock
@@ -34,23 +34,25 @@ aliases:
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
 "damage_immunities": "cold"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Giant"
 "cr": "5"
 "actions":
   - "desc": "The giant makes two greatclub attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (3d8 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (3d8 + 5) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:*\
       \ 21 (3d10 + 5) bludgeoning damage."
     "name": "Rock"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-servant-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/frost-giant-servant-tftyp.webp"
 ```
 ^statblock

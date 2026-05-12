@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/gos
 aliases:
-- Smuggler
+- "Smuggler"
 ---
 # Smuggler
 *Source: Ghosts of Saltmarsh p. 34*  
@@ -26,8 +26,6 @@ You are acquainted with a network of smugglers who are willing to help you out o
 
 Every smuggler has that one tale that sets them apart from common criminals. By wits, sailing skill, or a silver tongue, you lived to tell the story—and you tell it often. You can roll on the following table to determine your claim or choose one that best fits your character.
 
-`dice: [](smuggler-gos.md#^accomplishment)`
-
 | dice: d6 | Accomplishment |
 |----------|----------------|
 | 1 | Spirit of the Whale. You smuggled stolen dwarven spirits in the body of a dead whale being pulled behind a fishing boat. When you delivered the goods, the corpse suddenly exploded, sending whale meat and whiskey bottles for half a mile. |
@@ -44,8 +42,6 @@ In general, smugglers value survival, and then profit, above other things. One c
 
 **Smuggler Personality Traits**
 
-`dice: [](smuggler-gos.md#^smuggler-personality-traits)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I love being on the water but hate fishing. |
@@ -60,8 +56,6 @@ In general, smugglers value survival, and then profit, above other things. One c
 
 **Smuggler Ideals**
 
-`dice: [](smuggler-gos.md#^smuggler-ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Wealth** Heaps of coins in a secure vault is all I dream of. (Any) |
@@ -74,8 +68,6 @@ In general, smugglers value survival, and then profit, above other things. One c
 
 **Smuggler Bonds**
 
-`dice: [](smuggler-gos.md#^smuggler-bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My vessel was stolen from me, and I burn with the desire to recover it. |
@@ -87,8 +79,6 @@ In general, smugglers value survival, and then profit, above other things. One c
 ^smuggler-bonds
 
 **Smuggler Flaws**
-
-`dice: [](smuggler-gos.md#^smuggler-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

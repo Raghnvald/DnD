@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sibriex
+- "Sibriex"
 ---
-# [Sibriex](3-Mechanics\CLI\bestiary\fiend/sibriex-mpmm.md)
+# [Sibriex](3-Mechanics/CLI/bestiary/fiend/sibriex-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 217, Mordenkainen's Tome of Foes p. 137*  
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -45,18 +45,18 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "intelligence": !!int "13"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+13"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+13"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+13"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 23"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 23"
 "languages": "all, telepathy 120 ft."
 "cr": "18"
 "traits":
@@ -75,8 +75,8 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "actions":
   - "desc": "The sibriex makes three Chain attacks, and it uses Squirt Bile."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (2d12 + 7) force damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (2d12 + 7) force damage."
     "name": "Chain"
   - "desc": "The sibriex targets one creature it can see within 120 feet of it. The\
       \ target must succeed on a DC 20 Dexterity saving throw or take 31 (9d6) acid\
@@ -85,23 +85,23 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
   - "desc": "The sibriex targets up to three creatures it can see within 120 feet\
       \ of it. Each target must make a DC 20 Constitution saving throw. On a successful\
       \ save, a creature becomes immune to this sibriex's Warp Creature. On a failed\
-      \ save, the target is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), which\
-      \ causes it to also gain 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the\
-      \ target must repeat the saving throw at the start of each of its turns. Three\
-      \ successful saves against the poison end it, and ending the poison removes\
-      \ any levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion) caused\
-      \ by it. Each failed save causes the target to gain another level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
-      \ Once the target reaches 6 levels of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-      \ it dies and instantly transforms into a living [manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
+      \ save, the target is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ which causes it to also gain 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).\
+      \ While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ the target must repeat the saving throw at the start of each of its turns.\
+      \ Three successful saves against the poison end it, and ending the poison removes\
+      \ any levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)\
+      \ caused by it. Each failed save causes the target to gain another level of\
+      \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion). Once the target\
+      \ reaches 6 levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+      \ it dies and instantly transforms into a living [manes](3-Mechanics/CLI/bestiary/fiend/manes.md)\
       \ under the sibriex's control. The transformation of the body can be undone\
-      \ only by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell."
+      \ only by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
     "name": "Warp Creature"
   - "desc": "The sibriex casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 21):\n\
-      \n**At will:** [command](/3-Mechanics/CLI/spells/command-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [hold monster](/3-Mechanics/CLI/spells/hold-monster-xphb.md)\n\n**1/day:**\
-      \ [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md)"
+      \n**At will:** [command](3-Mechanics/CLI/spells/command.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md),\
+      \ [hold monster](3-Mechanics/CLI/spells/hold-monster.md)\n\n**1/day:** [feeblemind](3-Mechanics/CLI/spells/feeblemind.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the sibriex can expend a use to take one of the following actions. The sibriex\
@@ -116,7 +116,7 @@ Sibriexes can channel the power of the Abyss to create new demons from other cre
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/sibriex-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/sibriex-mpmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Warlock of Uk'otoa
+- "Sahuagin Warlock of Uk'otoa"
 ---
-# [Sahuagin Warlock of Uk'otoa](3-Mechanics\CLI\bestiary\humanoid/sahuagin-warlock-of-ukotoa-egw.md)
+# [Sahuagin Warlock of Uk'otoa](3-Mechanics/CLI/bestiary/humanoid/sahuagin-warlock-of-ukotoa-egw.md)
 *Source: Explorer's Guide to Wildemount p. 297*  
 
 The slumbering leviathan Uk'otoa preys on the fears and ambitions of humanoids that brave the depths of the Lucidian Ocean. Countless communities of sahuagin inhabit uncharted pockets of water along the Menagerie Coast, and the most ambitious among them often hear the call of the leviathan in their dreams, urging them to take his power and use it to achieve their blood-soaked dreams.
@@ -39,23 +39,19 @@ Sahuagin who answer the call of Uk'otoa tend to have one ambition in common: ven
   - !!int "16"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+1"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "Persuasion"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 9"
+"senses": "darkvision 120 ft., passive Perception 9"
 "languages": "Common, Sahuagin"
 "cr": "3"
 "traits":
   - "desc": "The warlock's innate spellcasting ability is Charisma (spell save DC\
       \ 13, +5 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** [eldritch blast](/3-Mechanics/CLI/spells/eldritch-blast-xphb.md)\
-      \ (see \"Actions\" below), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
-      \n**1/day each:** [armor of Agathys](/3-Mechanics/CLI/spells/armor-of-agathys-xphb.md),\
-      \ [arms of Hadar](/3-Mechanics/CLI/spells/arms-of-hadar-xphb.md), [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md),\
-      \ [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md),\
-      \ [hunger of Hadar](/3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md)"
+      \ requiring no material components:\n\n**At will:** eldritch blast (see \"Actions\"\
+      \ below), minor illusion\n\n**1/day each:** armor of Agathys, arms of Hadar,\
+      \ counterspell, crown of madness, invisibility, hunger of Hadar"
     "name": "Innate Spellcasting"
   - "desc": "The warlock has advantage on melee attack rolls against any creature\
       \ that doesn't have all its hit points."
@@ -70,20 +66,19 @@ Sahuagin who answer the call of Uk'otoa tend to have one ambition in common: ven
   - "desc": "The warlock makes two attacks: one with its bite and one with its Sword\
       \ of Fathoms."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) slashing damage, and if the target is a creature, it must succeed on\
-      \ a DC 13 Constitution saving throw or begin choking. The choking creature is\
-      \ [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) until the end\
-      \ of its next turn, when the effect ends on it."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) slashing damage, and if the target is a creature, it must succeed\
+      \ on a DC 13 Constitution saving throw or begin choking. The choking creature\
+      \ is incapacitated until the end of its next turn, when the effect ends on it."
     "name": "Sword of Fathoms"
   - "desc": "*Ranged Spell Attack:* +5 to hit, range 120 ft., one creature. *Hit:*\
       \ 5 (1d10) force damage."
     "name": "Eldritch Blast (Cantrip)"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-warlock-of-ukotoa-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-warlock-of-ukotoa-egw.webp"
 ```
 ^statblock

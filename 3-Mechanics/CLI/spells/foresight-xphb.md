@@ -20,7 +20,7 @@ classes:
 - Wizard
 - Wizard (Diviner)
 aliases:
-- Foresight
+- "Foresight"
 ---
 # Foresight
 *9th-level, Divination*  
@@ -31,8 +31,8 @@ aliases:
 - **Components:** V, S, M (a hummingbird feather)
 - **Duration:** 8 hours
 
-You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md), and other creatures have [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against it. The spell ends early if you cast it again.
+You touch a willing creature and bestow a limited ability to see into the immediate future. For the duration, the target has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), and other creatures have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against it. The spell ends early if you cast it again.
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](/3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](3-Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

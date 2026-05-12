@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/peace
-aliases: 
-- Berronar Truesilver
+aliases:
+- "Berronar Truesilver"
 ---
 # Berronar Truesilver
 *Source: Mordenkainen's Tome of Foes p. 73, Tasha's Cauldron of Everything p. 33* 

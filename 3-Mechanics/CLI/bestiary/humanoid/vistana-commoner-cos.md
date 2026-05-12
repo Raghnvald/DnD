@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vistana Commoner
+- "Vistana Commoner"
 ---
-# [Vistana Commoner](3-Mechanics\CLI\bestiary\humanoid/vistana-commoner-cos.md)
+# [Vistana Commoner](3-Mechanics/CLI/bestiary/humanoid/vistana-commoner-cos.md)
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -33,12 +33,14 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "club"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
   - "desc": "10\n\n- The target is unable to perform a certain kind of act involving\
       \ fine motor control, such as tying knots, writing, playing an instrument, sewing,\
@@ -49,20 +51,18 @@ aliases:
       \ target bad breath. When this curse ends, the Vistana takes 1d6 psychic damage.\
       \  \n- A nonmagical item in the target's possession (chosen by the DM) disappears\
       \ and can't be found until the curse ends. The lost item can weigh no more than\
-      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n-\
-      \ The target gains vulnerability to a damage type of the Vistana's choice. When\
+      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n\
+      - The target gains vulnerability to a damage type of the Vistana's choice. When\
       \ this curse ends, the Vistana takes 3d6 psychic damage.  \n- The target has\
       \ disadvantage on ability checks and saving throws tied to one ability score\
       \ of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic\
       \ damage.  \n- The target's attunement to one magic item (chosen by the DM)\
       \ ends, and the target can't attune to the chosen item until the curse ends.\
       \ When this curse ends, the Vistana takes 5d6 psychic damage.  \n- The target\
-      \ is [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ or both. When this curse ends, the Vistana takes 5d6 psychic damage.  \n\n\
-      The curse lasts until ended with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell,\
-      \ or similar magic. It doesn't end when the target dies. If a cursed target\
-      \ is returned to life, the curse remains in effect."
+      \ is blinded, deafened, or both. When this curse ends, the Vistana takes 5d6\
+      \ psychic damage.  \n\nThe curse lasts until ended with a greater restoration\
+      \ spell, a remove curse spell, or similar magic. It doesn't end when the target\
+      \ dies. If a cursed target is returned to life, the curse remains in effect."
     "name": "Curse (Recharges After a Long Rest)"
   - "desc": "10\n\nA Vistana who uses Evil Eye can't use it again before finishing\
       \ a short or long rest. Once a target succeeds on a saving throw against a Vistana's\
@@ -70,6 +70,6 @@ aliases:
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/vistana-commoner-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/vistana-commoner-cos.webp"
 ```
 ^statblock

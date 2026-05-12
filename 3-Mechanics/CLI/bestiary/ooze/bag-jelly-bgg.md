@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bag Jelly
+- "Bag Jelly"
 ---
-# [Bag Jelly](3-Mechanics\CLI\bestiary\ooze/bag-jelly-bgg.md)
+# [Bag Jelly](3-Mechanics/CLI/bestiary/ooze/bag-jelly-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 120*  
 
 > [!quote] A quote from Bigby  
@@ -46,9 +46,8 @@ Some giants keep their bags scrupulously clean to avoid attracting bag jellies, 
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "damage_resistances": "acid, bludgeoning"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (can't see beyond\
-  \ this radius), passive Perception 8"
+"condition_immunities": "exhaustion"
+"senses": "blindsight 60 ft. (can't see beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1"
 "traits":
@@ -57,13 +56,13 @@ Some giants keep their bags scrupulously clean to avoid attracting bag jellies, 
 "actions":
   - "desc": "The bag jelly makes two Pseudopod attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6\
-      \ + 1) acid damage. If the target is a Medium or smaller creature, it has the\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) condition (escape DC 11).\
-      \ Ability checks made to escape this grapple have disadvantage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d6 + 1) acid damage. If the target is a Medium or smaller creature, it\
+      \ has the grappled condition (escape DC 11). Ability checks made to escape this\
+      \ grapple have disadvantage."
     "name": "Pseudopod"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/bag-jelly-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/bag-jelly-bgg.webp"
 ```
 ^statblock

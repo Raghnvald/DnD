@@ -7,16 +7,16 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Dart"
 ---
 # Dart
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/dart.webp#right)
+![](3-Mechanics/CLI/items/img/dart.webp#right)
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Cost**: 5 cp
 - **Weight**: 0.25 lbs.
 

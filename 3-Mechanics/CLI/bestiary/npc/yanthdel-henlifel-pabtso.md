@@ -6,24 +6,23 @@ tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/monster/cr/5
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yanthdel Henlifel
+- "Yanthdel Henlifel"
 ---
-# [Yanthdel Henlifel](3-Mechanics\CLI\bestiary\npc/yanthdel-henlifel-pabtso.md)
+# [Yanthdel Henlifel](3-Mechanics/CLI/bestiary/npc/yanthdel-henlifel-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 114*  
 
 ```statblock
 "name": "Yanthdel Henlifel (PaBTSO)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral"
 "ac": !!int "18"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
-  \ [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "71"
 "hit_dice": "11d8 + 22"
 "modifier": !!int "4"
@@ -40,41 +39,43 @@ aliases:
   - "constitution": !!int "5"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+10"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "Elvish, Undercommon"
 "cr": "5"
 "traits":
   - "desc": "Yanthdel's spellcasting ability is Charisma (spell save DC 12). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
-      \n**1/day each:** [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
-      \ fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\
-      \ (self only)"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
+      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate.md) (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Yanthdel has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "Yanthdel has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put Yanthdel to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, Yanthdel has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Yanthdel makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage plus 10 (3d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage plus 10 (3d6) poison damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for\
-      \ 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way. The\
-      \ target wakes up if it takes damage or if another creature takes an action\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The target wakes up if it takes damage or if another creature takes an action\
       \ to shake it awake."
     "name": "Hand Crossbow"
 "reactions":
@@ -83,6 +84,6 @@ aliases:
     "name": "Parry"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/yanthdel-henlifel-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/yanthdel-henlifel-pabtso.webp"
 ```
 ^statblock

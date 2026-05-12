@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Needle Blight
+- "Needle Blight"
 ---
-# [Needle Blight](3-Mechanics\CLI\bestiary\plant/needle-blight.md)
+# [Needle Blight](3-Mechanics/CLI/bestiary/plant/needle-blight.md)
 *Source: Monster Manual p. 32*  
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
@@ -61,21 +61,21 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "8"
   - !!int "3"
 "speed": "30 ft."
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 9"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) piercing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 30/60 ft., one target. *Hit:*\
       \ 8 (2d6 + 1) piercing damage."
     "name": "Needles"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/needle-blight.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/needle-blight.webp"
 ```
 ^statblock
 

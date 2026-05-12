@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Boneless
+- "Boneless"
 ---
-# [Boneless](3-Mechanics\CLI\bestiary\undead/boneless-vrgr.md)
+# [Boneless](3-Mechanics/CLI/bestiary/undead/boneless-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 228*  
 
 Not all animate corpses shamble from their graves. Boneless are undead remains devoid of skeletons. Most rise from the bodies of those who've suffered brutal ends, such as deliberate skinning or crushing. Deathless malice infuses what remains, their husks flopping and slithering in pursuit of vengeance or at the whims of sinister masters. Slipping through cracks and under doors, these stealthy undead seek to adorn living frames once more, wrapping themselves around their victims and wringing them to death in their full-body grip.
@@ -39,13 +39,13 @@ Whether through accident or depraved genius, some villains use one corpse to cre
   - !!int "1"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "bludgeoning, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -57,14 +57,14 @@ Whether through accident or depraved genius, some villains use one corpse to cre
     "name": "Unusual Nature"
 "actions":
   - "desc": "The boneless makes two Slam attacks. If both attacks hit a Large or smaller\
-      \ creature, the creature is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+      \ creature, the creature is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ (escape DC 13), and the boneless can use Crushing Embrace."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) bludgeoning damage."
     "name": "Slam"
-  - "desc": "The boneless wraps its body around a Large or smaller creature [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by it. While the boneless is attached, the target is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+  - "desc": "The boneless wraps its body around a Large or smaller creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it. While the boneless is attached, the target is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ and is unable to breathe. The target must succeed on a DC 13 Strength saving\
       \ throw at the start of each of the boneless' turns or take 5 (1d4 + 3) bludgeoning\
       \ damage. If something moves the target, the boneless moves with it. The boneless\
@@ -76,6 +76,6 @@ Whether through accident or depraved genius, some villains use one corpse to cre
     "name": "Crushing Embrace"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/boneless-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/boneless-vrgr.webp"
 ```
 ^statblock

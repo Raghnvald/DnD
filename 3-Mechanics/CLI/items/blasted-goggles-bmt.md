@@ -3,23 +3,24 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Blasted Goggles"
 ---
 # Blasted Goggles
-*Wondrous item, uncommon (requires attunement)*  
+*Wondrous item, cursed item, uncommon (requires attunement)*  
 
 
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items)
 
-These tinker's goggles have 3 charges. As an action, you can expend 1 charge to shoot a beam of fiery light from the goggles at a creature you can see within 120 feet of yourself. The target must succeed on a DC 15 Dexterity saving throw or take `dice:3d6|noform|noparens|avg` (`3d6`) fire damage. The goggles regain `dice:1d3|noform|noparens|avg` (`1d3`) expended charges daily at dawn.
+These tinker's goggles have 3 charges. As an action, you can expend 1 charge to shoot a beam of fiery light from the goggles at a creature you can see within 120 feet of yourself. The target must succeed on a DC 15 Dexterity saving throw or take `3d6` fire damage. The goggles regain `1d3` expended charges daily at dawn.
 
 ## Cursed
 
 The goggles are cursed, and becoming attuned to them extends the curse to you. You can't remove the goggles or end your attunement to them until you are targeted by a Remove Curse spell or similar magic.
 
-Whenever you use the goggles' fiery beam and the target rolls a 20 on the `dice:d20|noform|noparens|avg` (`d20`) for the saving throw, the goggles expose you to a flash of violent bright light. As a result, you have the blinded condition for 24 hours.
+Whenever you use the goggles' fiery beam and the target rolls a 20 on the `d20` for the saving throw, the goggles expose you to a flash of violent bright light. As a result, you have the blinded condition for 24 hours.
 
 *Source: The Book of Many Things p. 174*

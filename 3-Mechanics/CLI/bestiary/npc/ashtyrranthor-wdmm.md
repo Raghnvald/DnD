@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ashtyrranthor
+- "Ashtyrranthor"
 ---
-# [Ashtyrranthor](3-Mechanics\CLI\bestiary\npc/ashtyrranthor-wdmm.md)
+# [Ashtyrranthor](3-Mechanics/CLI/bestiary/npc/ashtyrranthor-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 210*  
 
 ```statblock
@@ -39,18 +39,21 @@ aliases:
   - "wisdom": !!int "7"
   - "charisma": !!int "11"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+13"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 23"
 "languages": "Common, Draconic"
 "cr": "17"
 "traits":
   - "desc": "Ashtyrranthor's spellcasting ability is Charisma. She can innately cast\
       \ the following spells, requiring no material components:\n\n**1/day each:**\
-      \ alarm, detect magic, gaseous form, misty step, passwall, see invisibility"
+      \ [alarm](3-Mechanics/CLI/spells/alarm-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
+      \ [passwall](3-Mechanics/CLI/spells/passwall-xphb.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Ashtyrranthor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -58,17 +61,17 @@ aliases:
   - "desc": "Ashtyrranthor can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) piercing damage plus 7 (2d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Ashtyrranthor's choice that is within 120 feet of Ashtyrranthor\
-      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened\
+      \ and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Ashtyrranthor's\
@@ -82,17 +85,18 @@ aliases:
   \ turn, Ashtyrranthor can expend a use to take one of the following actions. Ashtyrranthor\
   \ regains all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Ashtyrranthor makes a Wisdom (Perception) check."
+  - "desc": "Ashtyrranthor makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "Ashtyrranthor makes a tail attack."
     "name": "Tail Attack"
   - "desc": "Ashtyrranthor beats its wings. Each creature within 10 feet of Ashtyrranthor\
       \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-      \ damage and be knocked prone. Ashtyrranthor can then fly up to half its flying\
-      \ speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ Ashtyrranthor can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ashtyrranthor-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ashtyrranthor-wdmm.webp"
 ```
 ^statblock

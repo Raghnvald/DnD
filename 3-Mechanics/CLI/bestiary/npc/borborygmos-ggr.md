@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Borborygmos
+- "Borborygmos"
 ---
-# [Borborygmos](3-Mechanics\CLI\bestiary\npc/borborygmos-ggr.md)
+# [Borborygmos](3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 238*  
 
 For decades, the enormous cyclops Borborygmos has commanded the respect and obedience of the Gruul Clans by defeating all who challenged him. He embodies the raging fire that the Gruul believe burns in their bellies, and his wrath toward the civilization of Ravnica knows no bounds.
@@ -46,14 +46,16 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
   - "constitution": !!int "13"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+13"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+9"
 "damage_resistances": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "charmed, frightened"
+"gear":
+  - "maul"
 "senses": "tremorsense 60 ft., passive Perception 13"
 "languages": "Common, Giant"
 "cr": "18"
@@ -69,24 +71,22 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
   - "desc": "Borborygmos can use his Frightful Presence. He also makes two attacks:\
       \ one with his maul and one with his stomp."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (6d6 + 7) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 21 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (6d6 + 7) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 21 Strength saving throw or be knocked prone."
     "name": "Maul"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) bludgeoning damage."
     "name": "Stomp"
   - "desc": "*Ranged Weapon Attack:* +13 to hit, range 30/120 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Rock"
   - "desc": "Each creature of Borborygmos's choice that is within 60 feet of him and\
       \ can see or hear him must succeed on a DC 17 Wisdom saving throw or become\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of him for 1 minute.\
-      \ The [frightened](/3-Mechanics/CLI/conditions.md#Frightened) creature can repeat\
-      \ the saving throw at the end of each of its turns, ending the effect on itself\
-      \ on a success. If a creature's saving throw is successful or the effect ends\
-      \ for it, the creature is immune to Borborygmos's Frightful Presence for the\
-      \ next 24 hours."
+      \ frightened of him for 1 minute. The frightened creature can repeat the saving\
+      \ throw at the end of each of its turns, ending the effect on itself on a success.\
+      \ If a creature's saving throw is successful or the effect ends for it, the\
+      \ creature is immune to Borborygmos's Frightful Presence for the next 24 hours."
     "name": "Frightful Presence"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Borborygmos can expend a use to take one of the following actions. Borborygmos\
@@ -96,23 +96,21 @@ The Gruul follow strength, and Borborygmos holds his position only because he ha
     "name": "Attack"
   - "desc": "Borborygmos yells menacingly at one creature he can see within 60 feet\
       \ of him. That creature must succeed on a DC 17 Wisdom saving throw or become\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of him for 1 minute.\
-      \ If the creature is already [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-      \ it becomes [stunned](/3-Mechanics/CLI/conditions.md#Stunned) instead. A creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success. If a creature's saving throw is successful or the\
-      \ effect ends for it, the creature is immune to Borborygmos's Bellow for the\
-      \ next 24 hours."
+      \ frightened of him for 1 minute. If the creature is already frightened, it\
+      \ becomes stunned instead. A creature can repeat the saving throw at the end\
+      \ of each of its turns, ending the effect on itself on a success. If a creature's\
+      \ saving throw is successful or the effect ends for it, the creature is immune\
+      \ to Borborygmos's Bellow for the next 24 hours."
     "name": "Bellow (Costs 2 Actions)"
   - "desc": "Borborygmos moves up to half his speed and can move through the space\
       \ of any creature smaller than Huge. The first time Borborygmos enters a creature's\
       \ space during this move, the creature must make a DC 21 Dexterity saving throw.\
       \ If the saving throw succeeds, the creature is pushed 5 feet away from Borborygmos.\
-      \ If the saving throw fails, that creature is knocked [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-      \ and Borborygmos can make a stomp attack against it."
+      \ If the saving throw fails, that creature is knocked prone, and Borborygmos\
+      \ can make a stomp attack against it."
     "name": "Wide Berth (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/borborygmos-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/borborygmos-ggr.webp"
 ```
 ^statblock

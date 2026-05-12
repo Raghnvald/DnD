@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Boromar Villains
+- "Boromar Villains"
 ---
 # Boromar Villains
 *Source: Eberron: Rising from the Last War p. 247* 
 
 **Boromar Villains**
-
-`dice: [](boromar-villains-erlw.md#^boromar-villains)`
 
 | dice: d6 | Villain |
 |----------|---------|

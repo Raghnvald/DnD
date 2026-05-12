@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/toa
-- new/item/rarity/none
-- new/item/weapon/melee
-- new/item/weapon/simple
-aliases: 
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/weapon/simple
+aliases:
 - "Yklwa"
 ---
 # Yklwa
@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: Thrown
+- **Properties**: [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Cost**: 1 gp
 - **Weight**: 3.0 lbs.
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goose Mother
+- "Goose Mother"
 ---
-# [Goose Mother](3-Mechanics\CLI\bestiary\fey/goose-mother-mcv4ec.md)
+# [Goose Mother](3-Mechanics/CLI/bestiary/fey/goose-mother-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Astonishingly aggressive geese populate the marshes of Eldraine. Legends tell that these geese descend from a monstrous many-headed bird that dwells deep within the wilds. Though the knights of Eldraine consider its existence a myth, the folk of the wilds know that the Goose Mother is real.
@@ -44,14 +44,17 @@ If you have "Bigby Presents: Glory of the Giants", you can use the Goose Egg Tri
   - "strength": !!int "6"
   - "intelligence": !!int "4"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+10"
-"condition_immunities": "blinded, charmed, deafened, frightened, stunned, unconscious"
-"senses": "darkvision 60 ft., passive Perception 20"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 20"
 "languages": ""
 "cr": "7"
 "traits":
@@ -73,24 +76,25 @@ If you have "Bigby Presents: Glory of the Giants", you can use the Goose Egg Tri
   - "desc": "The Goose Mother makes as many Beak attacks as it has heads and one Wing\
       \ attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6\
-      \ (1d6 + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 6 (1d6 + 3) bludgeoning damage."
     "name": "Beak"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d12 + 3) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 15 Strength saving throw or have the prone condition."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d12 + 3) bludgeoning damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 15 Strength saving throw or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ condition."
     "name": "Wing"
   - "desc": "The Goose Mother's heads honk a discordant lullaby. Each creature of\
       \ the Goose Mother's choice within 10 feet of it must make a DC 15 Constitution\
-      \ saving throw. On a failed save, a creature takes 7 (2d6) thunder damage and\
-      \ falls into a magical slumber. On a successful save, the target takes half\
+      \ saving throw. On a failed save, a creature takes 7 (2d6) thunder damage\
+      \ and falls into a magical slumber. On a successful save, the target takes half\
       \ as much damage only. The honks can be heard up to 300 feet away.\n\nA creature\
-      \ under magical slumber has the unconscious condition for 8 hours. This effect\
-      \ ends early for a creature if it takes damage or another creature uses an action\
-      \ to shake it awake."
+      \ under magical slumber has the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ condition for 8 hours. This effect ends early for a creature if it takes damage\
+      \ or another creature uses an action to shake it awake."
     "name": "Lullaby of Honks (Recharge 5-6)"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/goose-mother-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/goose-mother-mcv4ec.webp"
 ```
 ^statblock

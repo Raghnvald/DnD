@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Arcane Workshop Adventures
+- "Arcane Workshop Adventures"
 ---
 # Arcane Workshop Adventures
 *Source: Eberron: Rising from the Last War p. 190* 
 
 **Arcane Workshop Adventures**
-
-`dice: [](arcane-workshop-adventures-erlw.md#^arcane-workshop-adventures)`
 
 | dice: d12 | Adventure Goal |
 |-----------|----------------|

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Individual Treasure: Challenge 17+
+- "Individual Treasure: Challenge 17+"
 ---
 # Individual Treasure: Challenge 17+
 *Source: Dungeon Master's Guide p. 133* 
 
 **Individual Treasure: Challenge 17+**
-
-`dice: [](individual-treasure-challenge-17.md#^individual-treasure-challenge-17)`
 
 | dice: d100 | CP | SP | EP | GP | PP |
 |------------|----|----|----|----|----|

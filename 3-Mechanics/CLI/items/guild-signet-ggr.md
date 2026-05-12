@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Guild Signet"
 ---
 # Guild Signet
@@ -19,15 +19,15 @@ A guild signet is sometimes awarded to a guild member whose renown score in that
 
 **Items in this group:**
 
-- [Azorius Guild Signet](/3-Mechanics/CLI/items/azorius-guild-signet-ggr.md)
-- [Boros Guild Signet](/3-Mechanics/CLI/items/boros-guild-signet-ggr.md)
-- [Dimir Guild Signet](/3-Mechanics/CLI/items/dimir-guild-signet-ggr.md)
-- [Golgari Guild Signet](/3-Mechanics/CLI/items/golgari-guild-signet-ggr.md)
-- [Gruul Guild Signet](/3-Mechanics/CLI/items/gruul-guild-signet-ggr.md)
-- [Izzet Guild Signet](/3-Mechanics/CLI/items/izzet-guild-signet-ggr.md)
-- [Orzhov Guild Signet](/3-Mechanics/CLI/items/orzhov-guild-signet-ggr.md)
-- [Rakdos Guild Signet](/3-Mechanics/CLI/items/rakdos-guild-signet-ggr.md)
-- [Selesnya Guild Signet](/3-Mechanics/CLI/items/selesnya-guild-signet-ggr.md)
-- [Simic Guild Signet](/3-Mechanics/CLI/items/simic-guild-signet-ggr.md)
+- [Azorius Guild Signet](3-Mechanics/CLI/items/azorius-guild-signet-ggr.md)
+- [Boros Guild Signet](3-Mechanics/CLI/items/boros-guild-signet-ggr.md)
+- [Dimir Guild Signet](3-Mechanics/CLI/items/dimir-guild-signet-ggr.md)
+- [Golgari Guild Signet](3-Mechanics/CLI/items/golgari-guild-signet-ggr.md)
+- [Gruul Guild Signet](3-Mechanics/CLI/items/gruul-guild-signet-ggr.md)
+- [Izzet Guild Signet](3-Mechanics/CLI/items/izzet-guild-signet-ggr.md)
+- [Orzhov Guild Signet](3-Mechanics/CLI/items/orzhov-guild-signet-ggr.md)
+- [Rakdos Guild Signet](3-Mechanics/CLI/items/rakdos-guild-signet-ggr.md)
+- [Selesnya Guild Signet](3-Mechanics/CLI/items/selesnya-guild-signet-ggr.md)
+- [Simic Guild Signet](3-Mechanics/CLI/items/simic-guild-signet-ggr.md)
 
 *Source: Guildmasters' Guide to Ravnica p. 178*

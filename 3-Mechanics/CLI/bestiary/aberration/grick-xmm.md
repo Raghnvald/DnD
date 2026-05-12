@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grick
+- "Grick"
 ---
-# [Grick](3-Mechanics\CLI\bestiary\aberration/grick-xmm.md)
+# [Grick](3-Mechanics/CLI/bestiary/aberration/grick-xmm.md)
 *Source: Monster Manual (2024) p. 158. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Gricks tend to be solitary hunters, but young gricks might lurk near dozens of their brood mates for years before gradually drifting apart.
@@ -48,24 +48,25 @@ Gricks' origins are unclear, but some suggest these creatures arise from natural
   - !!int "5"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "The grick makes one Beak attack and one Tentacles attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 9 (2d6 + 2) Piercing\
+      \ damage."
     "name": "Beak"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (1d10 + 2) Slashing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (1d10 + 2) Slashing\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 12) from all four tentacles."
     "name": "Tentacles"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/grick-xmm.webp"
 ```
 ^statblock
 

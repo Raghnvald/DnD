@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/toa
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Tomb of Annihilation* 

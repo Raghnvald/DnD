@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- The Abbot
+- "The Abbot"
 ---
-# [The Abbot](3-Mechanics\CLI\bestiary\npc/the-abbot-cos.md)
+# [The Abbot](3-Mechanics/CLI/bestiary/npc/the-abbot-cos.md)
 *Source: Curse of Strahd p. 151*  
 
 ```statblock
@@ -37,23 +37,21 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "radiant; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, exhaustion, frightened"
+"gear":
+  - "mace"
+"senses": "darkvision 120 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "10"
 "traits":
   - "desc": "The Abbot's spellcasting ability is Charisma (spell save DC 17). The\
       \ Abbot can innately cast the following spells, requiring only verbal components:\n\
-      \n**At will:** [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md)\n\
-      \n**1/day each:** [commune](/3-Mechanics/CLI/spells/commune-xphb.md), [raise\
-      \ dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)"
+      \n**At will:** detect evil and good\n\n**1/day each:** commune, raise dead"
     "name": "Innate Spellcasting"
   - "desc": "The Abbot's weapon attacks are magical. When The Abbot hits with any\
       \ weapon, the weapon deals an extra 4d8 radiant damage (included in the attack)."
@@ -64,12 +62,12 @@ aliases:
 "actions":
   - "desc": "The Abbot makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage plus 18 (4d8) radiant damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage."
     "name": "Mace"
   - "desc": "The Abbot touches another creature. The target magically regains 20 (4d8\
-      \ + 2) hit points and is freed from any curse, disease, poison, blindness, or\
-      \ deafness."
+      \ + 2) hit points and is freed from any curse, disease, poison, blindness,\
+      \ or deafness."
     "name": "Healing Touch (3/Day)"
   - "desc": "The Abbot magically polymorphs into a humanoid or beast that has a challenge\
       \ rating equal to or less than its own, or back into its true form. It reverts\
@@ -82,6 +80,6 @@ aliases:
     "name": "Change Shape"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/the-abbot-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/the-abbot-cos.webp"
 ```
 ^statblock

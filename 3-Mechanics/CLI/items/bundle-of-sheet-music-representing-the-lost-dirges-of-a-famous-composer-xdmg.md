@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Bundle of sheet music representing the lost dirges of a famous composer"
 ---
 # Bundle of sheet music representing the lost dirges of a famous composer

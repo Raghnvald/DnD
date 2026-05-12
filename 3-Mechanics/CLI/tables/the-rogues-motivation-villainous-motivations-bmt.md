@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- The Rogue's Motivation; Villainous Motivations
+- "The Rogue's Motivation; Villainous Motivations"
 ---
 # The Rogue's Motivation; Villainous Motivations
 *Source: The Book of Many Things p. 43* 
 
 **Villainous Motivations**
-
-`dice: [](the-rogues-motivation-villainous-motivations-bmt.md#^villainous-motivations)`
 
 | dice: d6 | Motivation |
 |----------|------------|

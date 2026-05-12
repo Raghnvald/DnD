@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ettercap
+- "Ettercap"
 ---
-# [Ettercap](3-Mechanics\CLI\bestiary\monstrosity/ettercap.md)
-*Source: Monster Manual p. 131, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Ettercap](3-Mechanics/CLI/bestiary/monstrosity/ettercap.md)
+*Source: Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
 
@@ -51,13 +51,14 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
   - !!int "8"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "2"
 "traits":
@@ -72,26 +73,26 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 "actions":
   - "desc": "The ettercap makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed\
-      \ on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must\
+      \ succeed on a DC 11 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. The creature can repeat the saving throw at the end of each\
+      \ of its turns, ending the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one Large or smaller\
-      \ creature. *Hit:* The creature is restrained by webbing. As an action, the\
-      \ restrained creature can make a DC 11 Strength check, escaping from the webbing\
-      \ on a success. The effect ends if the webbing is destroyed. The webbing has\
-      \ AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning,\
-      \ poison and psychic damage."
+      \ creature. *Hit:* The creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by webbing. As an action, the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ creature can make a DC 11 Strength check, escaping from the webbing on a success.\
+      \ The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit\
+      \ points, is vulnerable to fire damage and immune to bludgeoning, poison and\
+      \ psychic damage."
     "name": "Web (Recharge 5-6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ettercap.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/ettercap.webp"
 ```
 ^statblock
 

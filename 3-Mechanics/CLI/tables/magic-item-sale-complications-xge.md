@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Magic Item Sale Complications
+- "Magic Item Sale Complications"
 ---
 # Magic Item Sale Complications
 *Source: Xanathar's Guide to Everything p. 133* 
 
 **Magic Item Sale Complications**
-
-`dice: [](magic-item-sale-complications-xge.md#^magic-item-sale-complications)`
 
 | dice: d6 | Complication |
 |----------|--------------|

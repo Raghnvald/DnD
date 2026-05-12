@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gnome Tables; Gnome Bonds
+- "Gnome Tables; Gnome Bonds"
 ---
 # Gnome Tables; Gnome Bonds
 *Source: Mordenkainen's Tome of Foes p. 114* 
 
 **Gnome Bonds**
-
-`dice: [](gnome-tables-gnome-bonds-mtf.md#^gnome-bonds)`
 
 | dice: d6 | Bond |
 |----------|------|

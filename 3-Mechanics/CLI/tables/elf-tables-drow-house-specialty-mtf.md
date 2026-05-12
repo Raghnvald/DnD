@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Elf Tables; Drow House Specialty
+- "Elf Tables; Drow House Specialty"
 ---
 # Elf Tables; Drow House Specialty
 *Source: Mordenkainen's Tome of Foes p. 64* 
 
 **Drow House Specialty**
-
-`dice: [](elf-tables-drow-house-specialty-mtf.md#^drow-house-specialty)`
 
 | dice: d10 | Specialty |
 |-----------|-----------|

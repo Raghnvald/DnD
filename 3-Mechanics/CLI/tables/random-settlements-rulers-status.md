@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Settlements; Ruler's Status
+- "Random Settlements; Ruler's Status"
 ---
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 
 
 **Ruler's Status**
-
-`dice: [](random-settlements-rulers-status.md#^rulers-status)`
 
 | dice: d20 | Ruler |
 |-----------|-------|

@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadar-kai Shadow Dancer
+- "Shadar-kai Shadow Dancer"
 ---
-# [Shadar-kai Shadow Dancer](3-Mechanics\CLI\bestiary\humanoid/shadar-kai-shadow-dancer-mpmm.md)
+# [Shadar-kai Shadow Dancer](3-Mechanics/CLI/bestiary/humanoid/shadar-kai-shadow-dancer-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213, Mordenkainen's Tome of Foes p. 225*  
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
@@ -43,7 +43,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
 "hp": !!int "71"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "3"
@@ -59,31 +59,31 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   - "dexterity": !!int "6"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "necrotic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Elvish"
 "cr": "7"
 "traits":
-  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
 "actions":
   - "desc": "The shadar-kai makes three Spiked Chain attacks.\n\nIt can use Shadow\
       \ Jump after one of these attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) piercing damage. The target must succeed on a DC 14 Dexterity saving\
-      \ throw or suffer one of the following effects (choose one or roll a d6):\n\n\
-      - **1–2 Decay.** The target takes 22 (4d10) necrotic damage.  \n- **3–4 Grapple.**\
-      \ The target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape\
-      \ DC 14) if it is a Medium or smaller creature. Until the grapple ends, the\
-      \ target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained), and the\
-      \ shadar-kai can't grapple another target.  \n- **5–6 Topple.** The target is\
-      \ knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).  "
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (2d6 + 3) piercing damage. The target must succeed on a DC 14 Dexterity\
+      \ saving throw or suffer one of the following effects (choose one or roll a\
+      \ d6):\n\n- **1–2 Decay.** The target takes 22 (4d10) necrotic damage. \
+      \ \n- **3–4 Grapple.** The target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
+      \ the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the shadar-kai can't grapple another target.  \n- **5–6 Topple.** The\
+      \ target is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  "
     "name": "Spiked Chain"
 "bonus_actions":
   - "desc": "The shadar-kai teleports, along with any equipment is it wearing or carrying,\
@@ -93,7 +93,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-shadow-dancer-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-shadow-dancer-mpmm.webp"
 ```
 ^statblock
 

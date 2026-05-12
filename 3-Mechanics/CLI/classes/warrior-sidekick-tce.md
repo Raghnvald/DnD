@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/warrior-sidekick
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Warrior Sidekick
+- "Warrior Sidekick"
 ---
 # Warrior Sidekick
 *Source: Tasha's Cauldron of Everything p. 146*  
@@ -54,7 +54,7 @@ aliases:
 - **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
 - **Tools**: none
-- **Skills**: Two skills of your choice from the following list: [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), and [Survival](/3-Mechanics/CLI/skills.md#Survival).
+- **Skills**: Two skills of your choice from the following list: [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), and [Survival](3-Mechanics/CLI/rules/skills.md#Survival).
 
 
 ## Warrior Sidekick
@@ -66,7 +66,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 ### Sidekick Class (Level 1)
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](/3-Mechanics/CLI/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](3-Mechanics/CLI/rules/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -74,7 +74,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 
 The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), and [Survival](/3-Mechanics/CLI/skills.md#Survival).
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), and [Survival](3-Mechanics/CLI/rules/skills.md#Survival).
 
 The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
 
@@ -91,7 +91,7 @@ Each warrior focuses on offense or defense in their training. Choose one of the 
 
 *2nd-level Warrior feature*
 
-The sidekick can use a bonus action on its turn to regain hit points equal to `dice:1d10|noform|noparens|avg` (`1d10`) + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
+The sidekick can use a bonus action on its turn to regain hit points equal to `1d10` + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
 
 The sidekick can use this feature twice between rests starting at 20th level.
 
@@ -99,7 +99,7 @@ The sidekick can use this feature twice between rests starting at 20th level.
 
 *3rd-level Warrior feature*
 
-The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `dice:d20|noform|noparens|avg` (`d20`).
+The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `d20`.
 
 ### Ability Score Improvement (Level 4)
 
@@ -113,7 +113,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *6th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -167,7 +167,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 *15th-level Warrior feature*
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](/3-Mechanics/CLI/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](3-Mechanics/CLI/rules/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 

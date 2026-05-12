@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barnacle Bess
+- "Barnacle Bess"
 ---
-# [Barnacle Bess](3-Mechanics\CLI\bestiary\npc/barnacle-bess-gos.md)
+# [Barnacle Bess](3-Mechanics/CLI/bestiary/npc/barnacle-bess-gos.md)
 *Source: Ghosts of Saltmarsh p. 220*  
 
 ```statblock
@@ -43,12 +43,12 @@ aliases:
   - "desc": "Bess can breathe air and water."
     "name": "Amphibious"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage, and the target is grappled (escape DC 11). Bess has\
-      \ two claws, each of which can grapple only one target."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11).\
+      \ Bess has two claws, each of which can grapple only one target."
     "name": "Claw"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/barnacle-bess-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/barnacle-bess-gos.webp"
 ```
 ^statblock

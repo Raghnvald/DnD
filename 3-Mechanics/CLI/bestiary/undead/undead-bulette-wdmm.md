@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undead Bulette
+- "Undead Bulette"
 ---
-# [Undead Bulette](3-Mechanics\CLI\bestiary\undead/undead-bulette-wdmm.md)
+# [Undead Bulette](3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 90*  
 
 ```statblock
@@ -34,13 +34,14 @@ aliases:
   - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_vulnerabilities": "radiant"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 16"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
+  \ 60 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "traits":
@@ -54,15 +55,16 @@ aliases:
   - "desc": "If the bulette jumps at least 15 feet as part of its movement, it can\
       \ then use this action to land on its feet in a space that contains one or more\
       \ other creatures. Each of those creatures must succeed on a DC 16 Strength\
-      \ or Dexterity saving throw (target's choice) or be knocked prone and take 14\
-      \ (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful\
-      \ save, the creature takes only half the damage, isn't knocked prone, and is\
-      \ pushed 5 feet out of the bulette's space into an unoccupied space of the creature's\
-      \ choice. If no unoccupied space is within range, the creature instead falls\
-      \ prone in the bulette's space."
+      \ or Dexterity saving throw (target's choice) or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage.\
+      \ On a successful save, the creature takes only half the damage, isn't knocked\
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), and is pushed 5 feet out\
+      \ of the bulette's space into an unoccupied space of the creature's choice.\
+      \ If no unoccupied space is within range, the creature instead falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ in the bulette's space."
     "name": "Deadly Leap"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/undead-bulette-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/undead-bulette-wdmm.webp"
 ```
 ^statblock

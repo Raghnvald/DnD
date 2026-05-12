@@ -7,11 +7,11 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
-aliases: 
+aliases:
 - "Stonebreaker's Breastplate"
 ---
 # Stonebreaker's Breastplate
-*Medium armor ([breastplate](/3-Mechanics/CLI/items/breastplate-xphb.md)), legendary (requires attunement)*  
+*Medium armor (breastplate), legendary (requires attunement)*  
 
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -23,7 +23,7 @@ While wearing this breastplate, you have resistance to bludgeoning, piercing, an
 
 ## Invoking the Rune
 
-As an action, you can invoke the breastplate's rune to cast the [wall of stone](/3-Mechanics/CLI/spells/wall-of-stone-xphb.md) spell (save DC 14) with it. When you cast the spell in this way, you have advantage on saving throws made to maintain [concentration](/3-Mechanics/CLI/conditions.md#Concentration) on the spell.
+As an action, you can invoke the breastplate's rune to cast the wall of stone spell (save DC 14) with it. When you cast the spell in this way, you have advantage on saving throws made to maintain concentration on the spell.
 
 Once the rune has been invoked, it can't be invoked again until the next dawn.
 

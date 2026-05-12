@@ -17,9 +17,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goblin Minion
+- "Goblin Minion"
 ---
-# [Goblin Minion](3-Mechanics\CLI\bestiary\fey/goblin-minion-xmm.md)
+# [Goblin Minion](3-Mechanics/CLI/bestiary/fey/goblin-minion-xmm.md)
 *Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
@@ -29,7 +29,7 @@ Goblin minions enjoy participating in the disruptive schemes of clever leaders b
 *Wild Tricksters and Troublemakers*
 
 - **Habitat.** Forest, Grassland, Hill, Planar (Acheron), Planar (Feywild), Underdark  
-- **Treasure.** [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
+- **Treasure.** [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md), Individual  
 
 Goblins are Feywild embodiments of recklessness and ruin. They delight in wreckage—the louder, the more energetic, and the more convoluted, the better. Goblin raids are often as much opportunities to enjoy setting fires and tormenting livestock as they are parts of more disruptive plots.
 
@@ -61,22 +61,25 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"gear":
+  - "three [daggers](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee  or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft. *Hit:*\
-      \ 4 (1d4 + 2) Piercing damage."
+  - "desc": "*Melee  or Ranged Attack Roll:* +4, reach 5 ft. or range 20/60 ft.\
+      \ *Hit:* 4 (1d4 + 2) Piercing damage."
     "name": "Dagger"
 "bonus_actions":
-  - "desc": "The goblin takes the Disengage or Hide action."
+  - "desc": "The goblin takes the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Nimble Escape"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/goblin-minion-xmm.webp"
 ```
 ^statblock
 

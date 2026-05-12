@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/legendary
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/legendary
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Sword of the Planes"
 - "Double-Bladed Scimitar of the Planes"
 - "Greatsword of the Planes"
@@ -20,7 +20,7 @@ aliases:
 ---
 # Sword of the Planes
 *Legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/sword-of-the-planes.webp#right)
+![](3-Mechanics/CLI/items/img/sword-of-the-planes.webp#right)
 
 
 You gain a +3 bonus to attack and damage rolls made with this magic sword.

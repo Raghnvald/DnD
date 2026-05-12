@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- High Fae Kindguard
+- "High Fae Kindguard"
 ---
-# [High Fae Kindguard](3-Mechanics\CLI\bestiary\fey/high-fae-kindguard-mcv4ec.md)
+# [High Fae Kindguard](3-Mechanics/CLI/bestiary/fey/high-fae-kindguard-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 High fae kindguards have spent centuries perfecting their martial prowess, moving with a speed and grace others can only imagine. Their tall stature, large wings, elaborate horns, and massive weapons give them a truly intimidating silhouette.
@@ -53,21 +53,23 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
   - "strength": !!int "10"
   - "dexterity": !!int "10"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+10"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 17"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 17"
 "languages": "Common, Sylvan"
 "cr": "12"
 "traits":
   - "desc": "If the high fae is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, it instead takes no damage if it succeeds\
       \ on the saving throw and only half damage if it fails, provided it doesn't\
-      \ have the incapacitated condition."
+      \ have the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition."
     "name": "Evasion"
   - "desc": "The high fae has advantage on saving throws against spells and other\
       \ magical effects."
@@ -75,14 +77,14 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
 "actions":
   - "desc": "The high fae makes two Fae Claymore attacks and uses Tripping Feint."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20\
-      \ (4d6 + 6) force damage, and the target's speed is reduced by 10 feet, to a\
-      \ minimum speed of 5 feet. The reduction lasts until the start of the high fae's\
-      \ next turn."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 20 (4d6 + 6) force damage, and the target's speed is reduced by 10 feet,\
+      \ to a minimum speed of 5 feet. The reduction lasts until the start of the high\
+      \ fae's next turn."
     "name": "Fae Claymore"
   - "desc": "The high fae targets one Large or smaller creature it can see within\
       \ 10 feet of itself. The target must succeed on a DC 18 Dexterity saving throw\
-      \ or have the prone condition."
+      \ or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Tripping Feint"
 "bonus_actions":
   - "desc": "The high fae moves up to its speed. This movement doesn't provoke opportunity\
@@ -95,6 +97,6 @@ The high fae are ruled by Talion, the Kindly Lord. Talion is as strange, ancient
     "name": "Parry and Riposte"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/high-fae-kindguard-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/high-fae-kindguard-mcv4ec.webp"
 ```
 ^statblock

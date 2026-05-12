@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dust Hulk
+- "Dust Hulk"
 ---
-# [Dust Hulk](3-Mechanics\CLI\bestiary\elemental/dust-hulk-bgg.md)
+# [Dust Hulk](3-Mechanics/CLI/bestiary/elemental/dust-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 131*  
 
 Dust hulks are descended from enclaves of stone giants who lived in extreme environments, isolated from others. Elemental energy from the Plane of Air eroded their physical forms and slowly transformed them into Elementals. They are little more than clouds of gravel and dust, barely maintaining a cohesive form. When a dust hulk dies, it disperses into a cloud of dust.
@@ -43,12 +43,8 @@ Dust hulks retain their ancestors' passion for artistry, but instead of carving 
   - !!int "8"
 "speed": "0 ft., fly 30 ft. (hover)"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, restrained"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Giant, Terran"
 "cr": "5"
 "traits":
@@ -57,25 +53,24 @@ Dust hulks retain their ancestors' passion for artistry, but instead of carving 
     "name": "Air Form"
   - "desc": "When the dust hulk dies, it explodes in a burst of dust that fills a\
       \ 10-foot-radius sphere centered on itself. Each creature in that area must\
-      \ succeed on a DC 14 Constitution saving throw or have the [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ condition for 1 minute. An affected creature can repeat the saving throw at\
-      \ the end of each of its turns, ending the effect on itself on a success."
+      \ succeed on a DC 14 Constitution saving throw or have the blinded condition\
+      \ for 1 minute. An affected creature can repeat the saving throw at the end\
+      \ of each of its turns, ending the effect on itself on a success."
     "name": "Death Burst"
 "actions":
   - "desc": "The dust hulk makes three Slam attacks. It can replace one of these attacks\
       \ with Stinging Dust."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d8 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "One creature of the dust hulk's choice inside its space must make a DC\
       \ 14 Constitution saving throw. On a failed save, the creature takes 10 (3d6)\
-      \ bludgeoning damage and has the [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ condition until the end of its next turn. On a successful save, the creature\
-      \ takes half as much damage only."
+      \ bludgeoning damage and has the blinded condition until the end of its next\
+      \ turn. On a successful save, the creature takes half as much damage only."
     "name": "Stinging Dust"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/dust-hulk-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/dust-hulk-bgg.webp"
 ```
 ^statblock

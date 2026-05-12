@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Myconid Sovereign
+- "Myconid Sovereign"
 ---
-# [Myconid Sovereign](3-Mechanics\CLI\bestiary\plant/myconid-sovereign.md)
+# [Myconid Sovereign](3-Mechanics/CLI/bestiary/plant/myconid-sovereign.md)
 *Source: Monster Manual p. 232*  
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -46,8 +46,8 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - !!int "15"
   - !!int "10"
 "speed": "30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "2"
 "traits":
@@ -62,23 +62,23 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
   - "desc": "The myconid uses either its Hallucination Spores or its Pacifying Spores,\
       \ then makes a fist attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (3d4\
-      \ + 1) bludgeoning damage plus 7 (3d4) poison damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (3d4 + 1) bludgeoning damage plus 7 (3d4) poison damage."
     "name": "Fist"
   - "desc": "The myconid targets one corpse of a humanoid or a Large or smaller beast\
       \ within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse\
-      \ rises as a spore servant. The corpse stays animated for 1d4 + 1 weeks or until\
-      \ destroyed, and it can't be animated again in this way."
+      \ rises as a spore servant. The corpse stays animated for 1d4 + 1 weeks or\
+      \ until destroyed, and it can't be animated again in this way."
     "name": "Animating Spores (3/Day)"
   - "desc": "The myconid ejects spores at one creature it can see within 5 feet of\
-      \ it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 minute. The [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) target\
-      \ is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) while it\
-      \ hallucinates. The target can repeat the saving throw at the end of each of\
-      \ its turns, ending the effect on itself on a success."
+      \ it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 minute. The [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ target is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ while it hallucinates. The target can repeat the saving throw at the end of\
+      \ each of its turns, ending the effect on itself on a success."
     "name": "Hallucination Spores"
   - "desc": "The myconid ejects spores at one creature it can see within 5 feet of\
-      \ it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Pacifying Spores"
@@ -90,7 +90,7 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
     "name": "Rapport Spores"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/myconid-sovereign.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/myconid-sovereign.webp"
 ```
 ^statblock
 

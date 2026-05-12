@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sir Jared
+- "Sir Jared"
 ---
-# [Sir Jared](3-Mechanics\CLI\bestiary\humanoid/sir-jared-bmt.md)
+# [Sir Jared](3-Mechanics/CLI/bestiary/humanoid/sir-jared-bmt.md)
 *Source: The Book of Many Things p. 80*  
 
 Jared is a wandering knight who makes an excellent contact for groups that have Solar Bastion patronage. A former mercenary, Jared credits Hilarion with helping him change his ways and use his skills for good instead of gold, but he feels unworthy of the organization and has grown lonely after so long away from the Solar Bastion.
@@ -48,15 +48,17 @@ Jared is a wandering knight who makes an excellent contact for groups that have 
   - "name": "Survival"
     "desc": "+5"
 "condition_immunities": "blinded, charmed, frightened"
+"gear":
+  - "longsword"
 "senses": "passive Perception 12"
 "languages": "Common, Halfling"
 "cr": "5"
 "actions":
   - "desc": "Jared makes three Longsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage plus 4 (1d8) radiant damage. On a roll of 19 or 20, Jared\
-      \ scores a critical hit."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage plus 4 (1d8) radiant damage. On a roll of 19\
+      \ or 20, Jared scores a critical hit."
     "name": "Longsword"
 "reactions":
   - "desc": "When a creature Jared can see attacks a target other than Jared that\
@@ -64,6 +66,6 @@ Jared is a wandering knight who makes an excellent contact for groups that have 
     "name": "Protect Ally"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sir-jared-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sir-jared-bmt.webp"
 ```
 ^statblock

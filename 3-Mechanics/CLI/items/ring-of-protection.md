@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Protection"
 ---
 # Ring of Protection
 *Ring, major, rare (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/ring-of-protection.webp#right)
+![](3-Mechanics/CLI/items/img/ring-of-protection.webp#right)
 
 
 You gain a +1 bonus to AC and saving throws while wearing this ring.

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdh
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Teleporter Ring"
 ---
 # Teleporter Ring

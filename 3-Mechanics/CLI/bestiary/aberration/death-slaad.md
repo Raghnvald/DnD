@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death Slaad
+- "Death Slaad"
 ---
-# [Death Slaad](3-Mechanics\CLI\bestiary\aberration/death-slaad.md)
-*Source: Monster Manual p. 278, Explorer's Guide to Wildemount*  
+# [Death Slaad](3-Mechanics/CLI/bestiary/aberration/death-slaad.md)
+*Source: Monster Manual p. 278*  
 
 Death slaadi are suffused with energy from the Negative Energy Plane and exemplify evil's corruption of chaos, and they take sadistic pleasure in bringing harm to others. They propagate their race by dragooning mobs of red and blue slaadi and invading other planes. Humanoids who survive the incursion become incubators for new slaadi.
 
@@ -41,13 +41,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 > 
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 > 
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being charmed while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
 > 
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A wish spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](3-Mechanics/CLI/spells/wish.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 > 
-> A greater restoration spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell cast on the slaad destroys the gem without harming the slaad.
 > 
-> Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 ^variant-slaad-control-gems
 
 > [!quote]  
@@ -75,20 +75,26 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "damage_resistances": "acid, cold, fire, lightning, thunder"
-"senses": "blindsight 60 ft., darkvision 60 ft., passive Perception 18"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 18"
 "languages": "Slaad, telepathy 60 ft."
 "cr": "10"
 "traits":
   - "desc": "The slaad's innate spellcasting ability is Charisma (spell save DC 15,\
-      \ +7 to hit with spell attacks). The slaad can innately cast the following spells,\
-      \ requiring no material components:\n\n**At will:** detect magic, detect thoughts,\
-      \ invisibility (self only), mage hand, major image\n\n**2/day each:** fear,\
-      \ fireball, fly, tongues\n\n**1/day each:** cloudkill, plane shift"
+      \ +7 to hit with spell attacks). The slaad can innately cast the following\
+      \ spells, requiring no material components:\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md)\
+      \ (self only), [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [major image](3-Mechanics/CLI/spells/major-image.md)\n\
+      \n**2/day each:** [fear](3-Mechanics/CLI/spells/fear.md), [fireball](3-Mechanics/CLI/spells/fireball.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly.md), [tongues](3-Mechanics/CLI/spells/tongues.md)\n\
+      \n**1/day each:** [cloudkill](3-Mechanics/CLI/spells/cloudkill.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md)"
     "name": "Innate Spellcasting"
   - "desc": "The slaad can use its action to polymorph into a Small or Medium humanoid,\
       \ or back into its true form. Its statistics, other than its size, are the same\
@@ -107,8 +113,8 @@ Some slaadi can transform into the humanoid creatures from which they were origi
   - "desc": "The slaad makes three attacks: one with its bite and two with its claws\
       \ or greatsword."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) piercing damage plus 7 (2d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) piercing damage plus 7 (2d6) necrotic damage."
     "name": "Bite (Slaad Form Only)"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10\
       \ (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage."
@@ -118,7 +124,6 @@ Some slaadi can transform into the humanoid creatures from which they were origi
     "name": "Greatsword"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/death-slaad.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/death-slaad.webp"
 ```
 ^statblock

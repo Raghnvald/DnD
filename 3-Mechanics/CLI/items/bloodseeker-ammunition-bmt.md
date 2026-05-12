@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/age/futuristic
-- new/item/gear/ammunition
-- new/item/gear/ammunition-firearm
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/age/futuristic
+- ttrpg-cli/item/gear/ammunition
+- ttrpg-cli/item/gear/ammunition-firearm
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Bloodseeker Ammunition"
 - "Bloodseeker Arrow"
 - "Bloodseeker Bolt"

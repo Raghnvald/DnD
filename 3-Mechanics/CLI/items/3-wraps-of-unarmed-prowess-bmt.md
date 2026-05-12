@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/very-rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/very-rare
+aliases:
 - "+3 Wraps of Unarmed Prowess"
 ---
 # +3 Wraps of Unarmed Prowess

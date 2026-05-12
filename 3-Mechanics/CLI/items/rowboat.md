@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/vehicle/ship-water
-aliases: 
+aliases:
 - "Rowboat"
 ---
 # Rowboat

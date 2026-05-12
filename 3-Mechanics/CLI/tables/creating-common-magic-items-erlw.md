@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Creating Common Magic Items
+- "Creating Common Magic Items"
 ---
 # Creating Common Magic Items
 *Source: Eberron: Rising from the Last War p. 281* 
@@ -14,8 +14,8 @@ aliases:
 
 | Common Magic Item | Time | Cost |
 |-------------------|------|------|
-| Spell scroll (cantrip) | 8 hours | 15 gp |
-| Potion of healing | 8 hours | 25 gp |
+| [Spell scroll](3-Mechanics/CLI/items/spell-scroll.md) (cantrip) | 8 hours | 15 gp |
+| [Potion of healing](3-Mechanics/CLI/items/potion-of-healing.md) | 8 hours | 25 gp |
 | Any other common magic item | 32 hours* | 50 gp* |
 ^creating-common-magic-items
 

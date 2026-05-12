@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sphinx of Judgment
+- "Sphinx of Judgment"
 ---
-# [Sphinx of Judgment](3-Mechanics\CLI\bestiary\monstrosity/sphinx-of-judgment-ggr.md)
+# [Sphinx of Judgment](3-Mechanics/CLI/bestiary/monstrosity/sphinx-of-judgment-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 183*  
 
 ```statblock
@@ -34,39 +34,32 @@ aliases:
   - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+12"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+8"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 18"
+"condition_immunities": "charmed, frightened"
+"senses": "truesight 120 ft., passive Perception 18"
 "languages": "Common, Sphinx"
 "cr": "11"
 "traits":
   - "desc": "The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 16, +8 to hit with spell attacks). It requires no material\
       \ components to cast its spells. The sphinx has the following wizard spells\
-      \ prepared:\n\n**Cantrips (at will):** [friends](/3-Mechanics/CLI/spells/friends-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md)\n\
-      \n**1st level (4 slots):** [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-      \ [ensnaring strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md), [shield](/3-Mechanics/CLI/spells/shield-xphb.md)\n\
-      \n**2nd level (3 slots):** [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
-      \ [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
-      \n**3rd level (3 slots):** [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
-      \ [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md), [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md)\n\
-      \n**4th level (3 slots):** [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
-      \ [divination](/3-Mechanics/CLI/spells/divination-xphb.md)\n\n**5th level (1\
-      \ slots):** [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md)"
+      \ prepared:\n\n**Cantrips (at will):** friends, mage hand, message\n\n**1st\
+      \ level (4 slots):** command, ensnaring strike, shield\n\n**2nd level (3 slots):**\
+      \ calm emotions, hold person, suggestion\n\n**3rd level (3 slots):** clairvoyance,\
+      \ counterspell, dispel magic\n\n**4th level (3 slots):** banishment, divination\n\
+      \n**5th level (1 slots):** dominate person"
     "name": "Spellcasting"
   - "desc": "The sphinx is immune to any effect that would sense its emotions or read\
-      \ its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight))\
+      \ its thoughts, as well as any divination spell that it refuses. Wisdom (Insight)\
       \ checks made to ascertain the sphinx's intentions or sincerity have disadvantage."
     "name": "Inscrutable"
   - "desc": "The sphinx's weapon attacks are magical."
@@ -91,6 +84,6 @@ aliases:
     "name": "Cast a Spell (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/sphinx-of-judgment-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/sphinx-of-judgment-ggr.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mad Golem
+- "Mad Golem"
 ---
-# [Mad Golem](3-Mechanics\CLI\bestiary\construct/mad-golem-wdmm.md)
+# [Mad Golem](3-Mechanics/CLI/bestiary/construct/mad-golem-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 254*  
 
 Stone golems are magical constructs cut and chiseled from stone to appear as tall, impressive statues. Like other golems, they are nearly impervious to spells and ordinary weapons.
@@ -39,8 +39,11 @@ The jumbled construct was once a 10-foot-tall stone golem created in the image o
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands Abyssal, Celestial, Common, Draconic, Dwarvish, Elvish,\
   \ Infernal, and Undercommon but can't speak"
 "cr": "12"
@@ -55,8 +58,8 @@ The jumbled construct was once a 10-foot-tall stone golem created in the image o
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 24\
-      \ (4d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 24 (4d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem targets one or more creatures it can see within 10 feet of\
       \ it. Each target must make a DC 17 Wisdom saving throw against this magic.\
@@ -68,6 +71,6 @@ The jumbled construct was once a 10-foot-tall stone golem created in the image o
     "name": "Slow (Recharge 5-6)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/mad-golem-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/mad-golem-wdmm.webp"
 ```
 ^statblock

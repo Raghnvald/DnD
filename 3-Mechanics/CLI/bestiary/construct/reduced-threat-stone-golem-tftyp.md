@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Stone Golem
+- "Reduced-Threat Stone Golem"
 ---
-# [Reduced-Threat Stone Golem](3-Mechanics\CLI\bestiary\construct/reduced-threat-stone-golem-tftyp.md)
+# [Reduced-Threat Stone Golem](3-Mechanics/CLI/bestiary/construct/reduced-threat-stone-golem-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -68,6 +71,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/reduced-threat-stone-golem-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/reduced-threat-stone-golem-tftyp.webp"
 ```
 ^statblock

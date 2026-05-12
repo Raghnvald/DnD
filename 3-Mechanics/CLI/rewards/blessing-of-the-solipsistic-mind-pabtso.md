@@ -1,11 +1,12 @@
 ---
+obsidianUIMode: preview
 cssclasses:
-  - json5e-reward
+- json5e-reward
 tags:
-  - Quelle/5e/pabtso
-  - Kompendium/reward/blessing
+- ttrpg-cli/compendium/src/5e/pabtso
+- ttrpg-cli/reward/blessing
 aliases:
-  - Blessing of the Solipsistic Mind
+- "Blessing of the Solipsistic Mind"
 ---
 # Blessing of the Solipsistic Mind
 

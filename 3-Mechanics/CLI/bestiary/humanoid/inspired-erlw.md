@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Inspired
+- "Inspired"
 ---
-# [Inspired](3-Mechanics\CLI\bestiary\humanoid/inspired-erlw.md)
+# [Inspired](3-Mechanics/CLI/bestiary/humanoid/inspired-erlw.md)
 *Source: Eberron: Rising from the Last War p. 294*  
 
 The rulers of distant Sarlona are known as the Inspired. These noble families are said to be bound to celestial spirits that guide and empower them, but the truth is far darker. The Inspired are the mortal hosts of the nightmare spirits of Dal Quor, and they carry out the foul agenda of the Dreaming Dark.
@@ -67,8 +67,8 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
   - "desc": "The Inspired makes two crysteel dagger attacks. It can replace one attack\
       \ with vicious mockery."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage plus 10 (3d6) force damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage plus 10 (3d6) force damage."
     "name": "Crysteel Dagger"
   - "desc": "The Inspired unleashes a string of insults laced with subtle enchantments\
       \ at one creature it can see within 60 feet of it. If the target can hear the\
@@ -78,6 +78,6 @@ Most of the people of the Five Nations have heard of the Inspired lords in Riedr
     "name": "Vicious Mockery (Cantrip)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/inspired-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/inspired-erlw.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Skeletal Swarm
+- "Skeletal Swarm"
 ---
-# [Skeletal Swarm](3-Mechanics\CLI\bestiary\undead/skeletal-swarm-gos.md)
+# [Skeletal Swarm](3-Mechanics/CLI/bestiary/undead/skeletal-swarm-gos.md)
 *Source: Ghosts of Saltmarsh p. 254*  
 
 This swarm of bones found rising out of the sand in Isle of the Abbey is made from the remains of several animated skeletons. A skeletal swarm alternates its appearance between partially formed humanoid shapes and a chaotic, swirling mass.
@@ -57,6 +57,6 @@ This swarm of bones found rising out of the sand in Isle of the Abbey is made fr
     "name": "Slash"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/skeletal-swarm-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/skeletal-swarm-gos.webp"
 ```
 ^statblock

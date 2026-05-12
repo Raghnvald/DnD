@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Factions and Societies
+- "Factions and Societies"
 ---
 # Factions and Societies
 *Source: Explorer's Guide to Wildemount, p. 35* 
 
-![Inspired by the light of t...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/029-02-01.webp#center "Inspired by the light of the Luxon, the Bright Queen and her court chart the destiny of a continent")
+![Inspired by the light of the Luxon, the Bright Queen and her court chart the destiny of a continent](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/029-02-01.webp#center)
 
 > [!quote] A quote from Unknown soldier, Collected Tales of the Marrow War  
 > 
@@ -32,7 +32,7 @@ The empire's military force currently stands at around 35,300 Righteous Brand so
 
 Soon after the Dwendalian bloodline came into power, there was a short-lived rebellion helmed by religious civilians. It was swiftly quelled and the rebel leaders were executed in an event known as the Admonition. The ruling class has regarded religion with suspicion ever since, believing that faith inspires the unworthy to rise above their station and spark fruitless rebellion. Instead of abolishing all religious practices, the empire regulates worship within its boundaries. All temples are owned and run by the government, and must be dedicated to deities approved by the Crown. Priests and clerics are on the Crown's payroll to preach only approved religious texts. Keeping private shrines or worshiping outside official temples is punishable by fines or imprisonment. The only deities that are approved by the empire are Erathis the Law Bearer, Bahamut the Platinum Dragon, Moradin the All-Hammer, Pelor the Dawn Father, Ioun the Knowing Mentor, and the Raven Queen, Matron of Death.
 
-![Dwendalian Empire Crest](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/030-02-02.webp#center)
+![Dwendalian Empire Crest](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/030-02-02.webp#center)
 
 ### Goals
 
@@ -175,7 +175,7 @@ The awakened soul is then reunited with their Den. Dens do grow as new souls ent
 
 This seemingly benevolent societal structure does have a dark side. A closely guarded secret of the highest Umavi is a challenge in the consecution called typhros: some souls that have undergone multiple cycles of the consecution are driven mad when their minds cannot reconcile the memories of many lifetimes. Those who fall to typhros are quietly removed from the dynasty and either left in the wastes or mercifully slain away from the beacons. Signs of madness are beginning to show in the Bright Queen herself, but those closest to her do all they can to shield others from such portents.
 
-![Kryn Dynasty Crest](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/031-02-03.webp#center)
+![Kryn Dynasty Crest](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/031-02-03.webp#center)
 
 It is believed that the Luxon cherishes unity in community, but also values free choice and the power of the individual mind. For each soul to carve a unique path is the best way for a soul to learn about the world. Casting off the teachings of Fate and Destiny taught by some of the current pantheon, the followers of the Luxon are taught that the real power of the universe comes from the power of choice. Many possible futures all await your path, and the universe trembles with anticipatory power as you approach every decision. This power is called dunamis, the energy of potentiality, and the coalescing architecture of the multiple futures leading into each moment is released when an outcome is brought to reality. It is the energy that suffuses every Luxon beacon to prepare the lives to come, and it is the basis of the Kryn's unique divine crafts and arcane abilities.
 
@@ -282,7 +282,7 @@ In the centuries since, the Cerberus Assembly has subtly ingrained itself within
 
 Members are elevated into one of the eight major offices on the death of a member that leaves an office vacant, or when a standing member abdicates their position. The remaining members then recommend replacements and vote on the mage to fill the newly open office.
 
-![Cerberus Assembly](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/032-02-08.webp#center)
+![Cerberus Assembly](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/032-02-08.webp#center)
 
 ### Goals
 
@@ -366,7 +366,7 @@ While the cities do work together for the good of the concord, they are also eac
 
 In recent times, the Myriad has subtly infiltrated the Clovis Concord, often with the unwitting aid of greedy local politicians. Rumors of criminal collusion have raised suspicion amid members of the concord. Sooner or later, the tension will have to break—and the fallout won't be pretty.
 
-![Clovis Concord Crest](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/033-02-04.webp#center)
+![Clovis Concord Crest](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/033-02-04.webp#center)
 
 Despite the concord's cordial relationship with the Dwendalian Empire, their proximity to the imperial power is a lingering source of unease. Currently, the concord maintains a standing military of 7,800 Shore Warden soldiers across the coast, a nautical fleet of 370 ships, and 5,200 Zhelezo divided between the cities. Some of the Shore Wardens are posted inland, scattered around and within the Cyrios Mountains, where they maintain forts along the border with Western Wynandir and the Dwendalian Empire.
 
@@ -455,7 +455,7 @@ Originally centered in Yrrosa, the Myriad now operates across the continent as a
 
 Members of the Myriad are sworn to keep their syndicate secret by pretending that their chapter is still just another local gang. This has given the Myriad a sinister and enigmatic reputation, which further obfuscates its activities from the authorities. Since members of the the Myriad prefer coercion to public displays of violence, officers of the law often fail to recognize Myriad activity until it's too late.
 
-![The Myriad](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/034-02-09.webp#center)
+![The Myriad](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/034-02-09.webp#center)
 
 The empire scored a major victory fifteen years ago when they discovered and raided the central Myriad stronghold in Yrrosa, forcing the surviving leadership to scatter across the continent. The Myriad has emphasized the narrative of its own fall in order to keep a low profile, though in fact it has retained most of its power. Its influence has stretched to the distant corners of Wildemount as it bide its time and waits to reinstate its control within the empire. Shifting tactics, the Myriad has now begun seeding major factions with double agents, who turn the most foolish or corrupt of their colleagues into the Myriad's unwitting pawns.
 
@@ -507,7 +507,7 @@ A patient and intimidating figure in the underground of Deastok for over forty y
 
 A talented songstress and dancer renowned throughout the Menagerie Coast for her sweet voice and enchanting allure, Chessia is a popular performer in many opulent social circles across Port Damali. Chessia uses her charming persona to deflect suspicion as she weaves her way into the lives of politicians and guild masters to steer them toward Myriad interests.
 
-![A Dwendalian farmer, a tra...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/035-02-05.webp#center "A Dwendalian farmer, a trader of the Kryn Dynasty, and a fisherman of the Clovis Concord")
+![A Dwendalian farmer, a trader of the Kryn Dynasty, and a fisherman of the Clovis Concord](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/035-02-05.webp#center)
 
 ## Children of Malice
 
@@ -517,7 +517,7 @@ Still reeling from her banishment to the Abyss, Lolth felt a rapid shift in her 
 
 The Children of Malice aren't numerous, but they are clever, driven, and directed by a god of pure hatred. They established hidden cabals throughout the fringes of Xhorhasian society, forming motley bands of Lolthite bugbears and hobgoblins who raid outlying Kryn settlements. Drow agents of Lolth have infiltrated even the highest echelons of Kryn society, slowly poisoning the dynasty both metaphorically and literally. The true extent of this infiltration is only now being uncovered within Rosohna, spreading fear throughout the dynasty as the war against the Dwendalian Empire continues to divide the attention of the Bright Queen between the enemy outside and the enemy within.
 
-![Children of Malice](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/036-02-10.webp#center)
+![Children of Malice](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/036-02-10.webp#center)
 
 ### Goals
 
@@ -557,7 +557,7 @@ A feared warlord who guides a nomadic band of Lolthite hobgoblin warriors, Jaglo
 
 Vivurk commands the drow houses and the hobgoblin horde that claim the mountainside stronghold of Dumaran. She rules with a bloody, iron fist in the image of her god to impose the same love and fear that characterized the drow societies of old. Ruthless and demanding, Head Matron Vivurk builds, trains, and prepares her forces to one day help Lolth strike down the Kryn Dynasty with delicious brutality.
 
-![Aristocrats and nobles fro...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/037-02-06.webp#center "Aristocrats and nobles from the Dwendalian Empire, the Kryn Dynasty, and the Clovis Concord")
+![Aristocrats and nobles from the Dwendalian Empire, the Kryn Dynasty, and the Clovis Concord](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/037-02-06.webp#center)
 
 ## Diarchy of Uthodurn
 
@@ -569,7 +569,7 @@ The process of restructuring the stubborn societies of this new Uthodurn forged 
 
 Now spreading beyond the underground halls of Uthodurn, the people under the Dual Monarchs seek to build a brighter future, and perhaps even resolve the mysteries of their past.
 
-![Diarchy of Uthodurn](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/038-02-11.webp#center)
+![Diarchy of Uthodurn](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/038-02-11.webp#center)
 
 ### Goals
 
@@ -607,7 +607,7 @@ The elder king of the surviving elves of Molaesmyr, Imathan is as candid as he i
 
 Gulrim is praised as the brazen—though perhaps crazy—explorer who convinced Queen Fruunast to allow his team to cross the Frigid Depths. He and his surveyors found the mysterious banks of Eiselcross, established the Syrinlya outpost, and recovered fragments of ancient relics previously lost in the ice and snow. Professor Gulrim now helms the Uthodurnian efforts to expand Syrinlya and learn more about the mysteries hidden among the glacial fields.
 
-![A Dwendalian Crownsguard, ...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/039-02-07.webp#center "A Dwendalian Crownsguard, Righteous Brand soldier, a Clovis Concord Zhelezo, and a Shore Warden soldier")
+![A Dwendalian Crownsguard, Righteous Brand soldier, a Clovis Concord Zhelezo, and a Shore Warden soldier](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/039-02-07.webp#center)
 
 ## Tribes of Shadycreek Run
 
@@ -671,7 +671,7 @@ The Cobalt Soul is based in Rexxentrum but operates throughout the empire and ac
 
 Archivists act as administrators at each Archive, delineating tasks, overseeing the training of new members, and even negotiating for or purchasing artifacts and records—often from those unaware of their true value.
 
-![Library of the Cobalt Soul](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/040-02-12.webp#center)
+![Library of the Cobalt Soul](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/040-02-12.webp#center)
 
 The monks of the Cobalt Soul are the enlightened knowledge-seekers of their order. They research places where ancient knowledge could be hidden and lead large-scale expeditions to these places.
 
@@ -729,7 +729,7 @@ When the Conclave was destroyed, the surviving dragonborn ravenites outnumbered 
 
 The past two decades have seen the rise of a new society, known as the Scars of Scale and Tooth, and it is wracked by the growing pains inherent to the dawn of a new nation. The Scars' leadership is tenuous, as many seek to claim the prestige of leading their people, and disagreements have led to bloodshed between the newfound councilors. This has made the building of the new city of Xarzith Kitril slow and fraught. Some heroic figures are seeking to establish a better direction for the ravenites, while others fled to the empire to seek better fortunes away from the infighting in their homeland. The war between the Kryn and the empire has closed the border pass into Western Wynandir, so the ravenites must find a way to coexist and thrive before the strife of warfare engulfs them.
 
-![Scars of Scale and Tooth](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/041-02-13.webp#center)
+![Scars of Scale and Tooth](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/041-02-13.webp#center)
 
 ### Goals
 
@@ -775,7 +775,7 @@ Using their forbidden skills, the Claret Orders managed to seal away the source 
 
 The newly installed Dwendalian lords blamed the Claret Orders for inviting fiends into the Marrow Valley. While some knew the truth and tried to clear their name, it quickly became clear the Claret Orders were no longer welcome in their own homeland. Trence and his troupe of blood-tithed warriors went into hiding. Even in the face of such opposition, they never stopped protecting their lands from the shadows, seeking and destroying evils that emerged from the scars of the Calamity.
 
-![The Claret Orders](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/042-02-14.webp#center)
+![The Claret Orders](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/042-02-14.webp#center)
 
 The orders have spread to the outskirts of Western Wynandir and beyond. They maintain small keeps to train new generations of protectors who are willing to take the Hunter's Bane and embrace their inner darkness to combat the outer darkness in the world.
 
@@ -819,7 +819,7 @@ Each member, known as a grinner, pledges to uphold the ideal that every individu
 
 The Golden Grin arrived in Wildemount by following the trade routes from Tal'Dorei to the Menagerie Coast, where its members discovered a land plagued by warring despots. A sect of the Golden Grin has spent the past generation spreading its roots throughout the Clovis Concord. Now firmly established, the Grin has set about undermining corruption within the concord and has begun working their way into the Dwendalian Empire.
 
-![The Golden Grin](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/043-02-15.webp#center)
+![The Golden Grin](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/043-02-15.webp#center)
 
 ### Goals
 

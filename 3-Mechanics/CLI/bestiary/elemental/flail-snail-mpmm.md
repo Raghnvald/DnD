@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flail Snail
+- "Flail Snail"
 ---
-# [Flail Snail](3-Mechanics\CLI\bestiary\elemental/flail-snail-mpmm.md)
+# [Flail Snail](3-Mechanics/CLI/bestiary/elemental/flail-snail-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144*  
 
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
@@ -26,9 +26,9 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](/3-Mechanics/CLI/items/spellguard-shield-xdmg.md).
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](3-Mechanics/CLI/items/spellguard-shield-xdmg.md).
 
-A flail snail shell can also be used to make a [robe of scintillating colors](/3-Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [robe of scintillating colors](3-Mechanics/CLI/items/robe-of-scintillating-colors-xdmg.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ```statblock
 "name": "Flail Snail (MPMM)"
@@ -49,8 +49,8 @@ A flail snail shell can also be used to make a [robe of scintillating colors](/3
   - !!int "5"
 "speed": "10 ft."
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
   \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "3"
@@ -67,25 +67,25 @@ A flail snail shell can also be used to make a [robe of scintillating colors](/3
 "actions":
   - "desc": "The snail makes five Flail Tentacle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5\
-      \ (1d4 + 3) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 5 (1d4 + 3) bludgeoning damage."
     "name": "Flail Tentacle"
   - "desc": "The snail's shell emits dazzling, colored light until the end of the\
       \ snail's next turn. During this time, the shell sheds bright light in a 30-foot\
       \ radius and dim light for an additional 30 feet, and creatures that can see\
       \ the snail have disadvantage on attack rolls against it. In addition, any creature\
       \ within the bright light and able to see the snail when this power is activated\
-      \ must succeed on a DC 15 Wisdom saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ must succeed on a DC 15 Wisdom saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the light ends."
     "name": "Scintillating Shell (Recharges after a Short or Long Rest)"
   - "desc": "The flail snail withdraws into its shell. Until it emerges, it gains\
-      \ a +4 bonus to its AC and is [restrained](/3-Mechanics/CLI/conditions.md#Restrained).\
+      \ a +4 bonus to its AC and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained).\
       \ It can emerge from its shell as a bonus action on its turn."
     "name": "Shell Defense"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/flail-snail-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/flail-snail-mpmm.webp"
 ```
 ^statblock
 

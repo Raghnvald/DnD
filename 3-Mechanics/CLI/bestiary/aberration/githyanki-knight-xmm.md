@@ -12,19 +12,19 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githyanki Knight
+- "Githyanki Knight"
 ---
-# [Githyanki Knight](3-Mechanics\CLI\bestiary\aberration/githyanki-knight-xmm.md)
+# [Githyanki Knight](3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md)
 *Source: Monster Manual (2024) p. 135*  
 
-Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
+Githyanki knights wield silver blades to slay magic-users who use the [Astral Projection](3-Mechanics/CLI/spells/astral-projection-xphb.md) spell to intrude on githyanki territories on the Astral Plane. These silver blades are sacred to the githyanki. Non-githyanki who claim these weapons often find themselves hunted by wrathful githyanki knights.
 
 ## Githyanki
 
 *Invaders from the Astral Plane*
 
 - **Habitat.** Planar (Astral Plane)  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Githyanki were once an ordinary people, but the deeds of a vile mind flayer empire etched conflict on their being. Gaunt, humanlike creatures, githyanki have serrated ears and speckled skin ranging through shades of yellow, green, and brown. While some githyanki follow their own paths, many are influenced by a past that forever altered their fates.
 
@@ -58,34 +58,36 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - "constitution": !!int "5"
   - "intelligence": !!int "5"
   - "wisdom": !!int "5"
+"gear":
+  - "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Gith"
 "cr": "8"
 "actions":
   - "desc": "The githyanki makes three Silver Sword attacks. It can replace one attack\
-      \ with a use of Spellcasting to cast [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)\
+      \ with a use of Spellcasting to cast [Telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\
       \ if available."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing damage\
-      \ plus 14 (4d6) Psychic damage. Critical *Hit:* If the target is in an astral\
-      \ body (as with the [Astral Projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md)\
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 10 (2d6 + 3) Slashing\
+      \ damage plus 14 (4d6) Psychic damage. Critical *Hit:* If the target is in\
+      \ an astral body (as with the [Astral Projection](3-Mechanics/CLI/spells/astral-projection-xphb.md)\
       \ spell), the githyanki can cut the silvery cord that tethers the target to\
       \ its material body instead of dealing damage."
     "name": "Silver Sword"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 13):\n\n\
-      **At will:** [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
-      \ is Invisible)\n\n**2/day each:** [Nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
-      \ (self only), [Tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**1/day\
-      \ each:** [Plane Shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [Telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      **At will:** [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
+      \ is Invisible)\n\n**2/day each:** [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only), [Tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**1/day\
+      \ each:** [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [Telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The githyanki casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+  - "desc": "The githyanki casts [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (2/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/githyanki-knight-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/githyanki-knight-xmm.webp"
 ```
 ^statblock
 

@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Ring of Swimming"
 ---
 # Ring of Swimming

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Tarsellis Meunniduin
+aliases:
+- "Tarsellis Meunniduin"
 ---
 # Tarsellis Meunniduin
 *Source: Mordenkainen's Tome of Foes p. 43* 

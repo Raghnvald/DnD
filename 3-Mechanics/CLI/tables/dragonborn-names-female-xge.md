@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Dragonborn Names – Female
+- "Dragonborn Names – Female"
 ---
 # Dragonborn Names – Female
 *Source: Xanathar's Guide to Everything p. 175* 
 
 **Dragonborn Names – Female**
-
-`dice: [](dragonborn-names-female-xge.md#^dragonborn-names-female)`
 
 | dice: d100 | Name |
 |------------|------|

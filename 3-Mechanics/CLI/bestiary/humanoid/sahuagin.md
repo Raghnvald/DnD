@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin
+- "Sahuagin"
 ---
-# [Sahuagin](3-Mechanics\CLI\bestiary\humanoid/sahuagin.md)
-*Source: Monster Manual p. 263, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Sahuagin](3-Mechanics/CLI/bestiary/humanoid/sahuagin.md)
+*Source: Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
@@ -64,9 +64,12 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - !!int "9"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "darkvision 120 ft., passive Perception 15"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "Sahuagin"
 "cr": "1/2"
 "traits":
@@ -83,11 +86,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
   - "desc": "The sahuagin makes two melee attacks: one with its bite and one with\
       \ its claws or spear."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) slashing damage."
     "name": "Claws"
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing\
@@ -95,8 +98,7 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin.webp"
 ```
 ^statblock
 

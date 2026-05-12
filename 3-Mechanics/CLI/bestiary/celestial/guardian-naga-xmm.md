@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guardian Naga
+- "Guardian Naga"
 ---
-# [Guardian Naga](3-Mechanics\CLI\bestiary\celestial/guardian-naga-xmm.md)
+# [Guardian Naga](3-Mechanics/CLI/bestiary/celestial/guardian-naga-xmm.md)
 *Source: Monster Manual (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Guardian Naga
@@ -24,15 +24,13 @@ aliases:
 *Enduring Serpentine Lore Keeper*
 
 - **Habitat.** Desert, Forest, Planar (Upper Planes)  
-- **Treasure.** [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Guardian nagas are immortal, serpentine scholars that possess perfect memories. They collect the histories and lore of those they live among, guarding cultures' stories and passing them on to new generations with infallible accuracy. Guardian nagas that outlive their host civilizations might linger in whatever ruins remain, preserving the civilizations' stories so their lost people might live on.
 
 Roll on or choose a result from the Guardian Naga Lore table to inspire what a naga knows.
 
 **Guardian Naga Lore**
-
-`dice: [](guardian-naga-xmm.md#^guardian-naga-lore)`
 
 | dice: 1d8 | The Guardian Naga Recalls... |
 |-----------|------------------------------|
@@ -70,48 +68,48 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
   - "wisdom": !!int "8"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+11"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+11"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+11"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Celestial, Common"
 "cr": "10"
 "traits":
   - "desc": "If the naga dies, it returns to life in 1d6 days and regains all its\
-      \ [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md) unless [Dispel\
-      \ Evil and Good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) is cast\
-      \ on its remains."
+      \ [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) unless\
+      \ [Dispel Evil and Good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
+      \ is cast on its remains."
     "name": "Celestial Restoration"
 "actions":
   - "desc": "The naga makes two Bite attacks. It can replace any attack with a use\
       \ of Poisonous Spittle."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 17 (2d12 + 4) Piercing damage\
-      \ plus 22 (4d10) Poison damage."
+  - "desc": "*Melee Attack Roll:* +8, reach 10 ft. *Hit:* 17 (2d12 + 4) Piercing\
+      \ damage plus 22 (4d10) Poison damage."
     "name": "Bite"
   - "desc": "*Constitution Saving Throw:* DC 16, one creature the naga can see within\
-      \ 60 feet. *Failure:* 31 (7d8) Poison damage, and the target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ 60 feet. *Failure:* 31 (7d8) Poison damage, and the target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ condition until the start of the naga's next turn. *Success:* Half damage\
       \ only."
     "name": "Poisonous Spittle"
   - "desc": "The naga casts one of the following spells, requiring no Somatic or Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 16):\n\
-      \n**At will:** [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
-      **1/day each:** [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
-      \ [Cure Wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) (level 6 version),\
-      \ [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md) (level 6 version),\
-      \ [Geas](/3-Mechanics/CLI/spells/geas-xphb.md), [True Seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)"
+      \n**At will:** [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n\
+      **1/day each:** [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [Cure Wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) (level 6 version),\
+      \ [Flame Strike](3-Mechanics/CLI/spells/flame-strike-xphb.md) (level 6 version),\
+      \ [Geas](3-Mechanics/CLI/spells/geas-xphb.md), [True Seeing](3-Mechanics/CLI/spells/true-seeing-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/guardian-naga-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/guardian-naga-xmm.webp"
 ```
 ^statblock
 

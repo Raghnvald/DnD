@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/erlw
-- new/item/attunement/required
-- new/item/rarity/common
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/weapon/simple
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/common
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/weapon/simple
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Armblade"
 - "Battleaxe Armblade"
 - "Club Armblade"
@@ -38,7 +38,7 @@ aliases:
 ---
 # Armblade
 *Common (requires attunement by a warforged)*  
-![](/3-Mechanics/CLI/items/img/armblade.webp#right)
+![](3-Mechanics/CLI/items/img/armblade.webp#right)
 
 
 An armblade is a magic weapon that attaches to your arm, becoming inseparable from you as long as you're attuned to it. To attune to this item, you must hold it against your forearm for the entire attunement period.

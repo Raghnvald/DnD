@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Dragon Turtle
+- "Young Dragon Turtle"
 ---
-# [Young Dragon Turtle](3-Mechanics\CLI\bestiary\dragon/young-dragon-turtle-ftd.md)
+# [Young Dragon Turtle](3-Mechanics/CLI/bestiary/dragon/young-dragon-turtle-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 192*  
 
 Dragon turtles are mighty creatures whose inherent magic is intimately linked with the oceans of the Material Plane. The dragon turtle presented in the *Monster Manual* is a typical adult, at least a century old and boasting a valuable hoard. You can use the stat blocks in this section for older or younger dragon turtles. In addition, chapter 5 includes lair actions and regional effects that can be used for adult or ancient dragon turtles. An ancient dragon turtle is a mythic creature akin to a greatwyrm, combining the power of multiple echoes from across the worlds of the Material Plane. Such a creature can be as large as an island—and indeed, legends suggest that many unwitting sailors wrecked at sea have mistaken slumbering dragon turtles for solid ground.
@@ -24,8 +24,6 @@ Ancient dragon turtles might sleep for years or decades while floating along the
 Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to inspire your portrayal of distinctive dragon turtle characters, and use the Dragon Turtle Spellcasting table to help select spells for a spellcasting dragon. (Though the *Monster Manual*doesn't explicitly include dragon turtles in the variant rules for making a dragon a spellcaster, you can apply those rules to these aquatic dragons.)
 
 ### Dragon Turtle Personality Traits
-
-`dice: [](young-dragon-turtle-ftd.md#^trait)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -40,8 +38,6 @@ Use the Dragon Turtle Personality Traits and Dragon Turtle Ideals tables to insp
 ^trait
 
 ### Dragon Turtle Ideals
-
-`dice: [](young-dragon-turtle-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -66,8 +62,6 @@ The Dragon Turtle Adventure Hooks table offers suggestions for stories and adven
 
 ### Dragon Turtle Adventure Hooks
 
-`dice: [](young-dragon-turtle-ftd.md#^adventure-hook)`
-
 | dice: d8 | Adventure Hook |
 |----------|----------------|
 | 1 | A ruthless shipping magnate has bribed a dragon turtle to attack competitors' vessels and drive them out of business. |
@@ -85,8 +79,6 @@ The Dragon Turtle Adventure Hooks table offers suggestions for stories and adven
 Dragon turtles are stolid and slow to anger. This temperament, combined with their disinterest in moral quandaries, allows them to get along with—or at least abide—most creatures they encounter. They frequently enter symbiotic relationships with other sea creatures that can bring them food or treasure, and they sometimes agree to work for creatures who ply them with generous sums of wealth.
 
 ### Young Dragon Turtle Connections
-
-`dice: [](young-dragon-turtle-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -121,8 +113,7 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
   - "constitution": !!int "8"
   - "wisdom": !!int "5"
 "damage_resistances": "fire"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Draconic"
 "cr": "10"
 "traits":
@@ -131,19 +122,19 @@ Dragon turtles are stolid and slow to anger. This temperament, combined with the
 "actions":
   - "desc": "The dragon turtle makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (1d12 + 5) piercing damage plus 6 (1d12) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (1d12 + 5) piercing damage plus 6 (1d12) lightning damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) slashing damage."
     "name": "Claw"
   - "desc": "The dragon turtle exhales steam in a 30-foot cone. Each creature in that\
-      \ area must make a DC 16 Constitution saving throw, taking 42 (12d6) fire damage\
-      \ on a failed save, or half as much damage on a successful one. Being underwater\
-      \ doesn't grant resistance against this damage."
+      \ area must make a DC 16 Constitution saving throw, taking 42 (12d6) fire\
+      \ damage on a failed save, or half as much damage on a successful one. Being\
+      \ underwater doesn't grant resistance against this damage."
     "name": "Steam Breath (Recharge 5-6)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-dragon-turtle-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-dragon-turtle-ftd.webp"
 ```
 ^statblock

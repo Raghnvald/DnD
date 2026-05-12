@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Background; I became...
+- "Background; I became..."
 ---
 # Background; I became...
 *Source: Xanathar's Guide to Everything p. 64* 
 
 **Acolyte**
-
-`dice: [](background-i-became.md#^acolyte)`
 
 | dice: d6 | I became an acolyte because... |
 |----------|--------------------------------|
@@ -26,8 +24,6 @@ aliases:
 
 **Charlatan**
 
-`dice: [](background-i-became.md#^charlatan)`
-
 | dice: d6 | I became a charlatan because... |
 |----------|---------------------------------|
 | 1 | I was left to my own devices, and my knack for manipulating others helped me survive. |
@@ -39,8 +35,6 @@ aliases:
 ^charlatan
 
 **Criminal**
-
-`dice: [](background-i-became.md#^criminal)`
 
 | dice: d6 | I became a criminal because... |
 |----------|--------------------------------|
@@ -54,8 +48,6 @@ aliases:
 
 **Entertainer**
 
-`dice: [](background-i-became.md#^entertainer)`
-
 | dice: d6 | I became an entertainer because... |
 |----------|------------------------------------|
 | 1 | Members of my family made ends meet by performing, so it was fitting for me to follow their example. |
@@ -67,8 +59,6 @@ aliases:
 ^entertainer
 
 **Folk Hero**
-
-`dice: [](background-i-became.md#^folk-hero)`
 
 | dice: d6 | I became a folk hero because... |
 |----------|---------------------------------|
@@ -82,8 +72,6 @@ aliases:
 
 **Guild Artisan**
 
-`dice: [](background-i-became.md#^guild-artisan)`
-
 | dice: d6 | I became a guild artisan because... |
 |----------|-------------------------------------|
 | 1 | I was apprenticed to a master who taught me the guild's business. |
@@ -95,8 +83,6 @@ aliases:
 ^guild-artisan
 
 **Hermit**
-
-`dice: [](background-i-became.md#^hermit)`
 
 | dice: d6 | I became a hermit because... |
 |----------|------------------------------|
@@ -110,8 +96,6 @@ aliases:
 
 **Noble**
 
-`dice: [](background-i-became.md#^noble)`
-
 | dice: d6 | I became a noble because... |
 |----------|-----------------------------|
 | 1 | I come from an old and storied family, and it fell to me to preserve the family name. |
@@ -123,8 +107,6 @@ aliases:
 ^noble
 
 **Outlander**
-
-`dice: [](background-i-became.md#^outlander)`
 
 | dice: d6 | I became an outlander because... |
 |----------|----------------------------------|
@@ -138,8 +120,6 @@ aliases:
 
 **Sage**
 
-`dice: [](background-i-became.md#^sage)`
-
 | dice: d6 | I became a sage because... |
 |----------|----------------------------|
 | 1 | I was naturally curious, so I packed up and went to a university to learn more about the world. |
@@ -151,8 +131,6 @@ aliases:
 ^sage
 
 **Sailor**
-
-`dice: [](background-i-became.md#^sailor)`
 
 | dice: d6 | I became a sailor because... |
 |----------|------------------------------|
@@ -166,8 +144,6 @@ aliases:
 
 **Soldier**
 
-`dice: [](background-i-became.md#^soldier)`
-
 | dice: d6 | I became a soldier because... |
 |----------|-------------------------------|
 | 1 | I joined the militia to help protect my community from monsters. |
@@ -179,8 +155,6 @@ aliases:
 ^soldier
 
 **Urchin**
-
-`dice: [](background-i-became.md#^urchin)`
 
 | dice: d6 | I became an urchin because... |
 |----------|-------------------------------|

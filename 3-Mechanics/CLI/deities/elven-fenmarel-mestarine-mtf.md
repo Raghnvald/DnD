@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/trickery
-aliases: 
-- Fenmarel Mestarine
+aliases:
+- "Fenmarel Mestarine"
 ---
 # Fenmarel Mestarine
 *Source: Mordenkainen's Tome of Foes p. 43* 

@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redcap
+- "Redcap"
 ---
-# [Redcap](3-Mechanics\CLI\bestiary\fey/redcap-mpmm.md)
+# [Redcap](3-Mechanics/CLI/bestiary/fey/redcap-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -49,16 +49,16 @@ In any case, if a redcap works with another being, the redcap demands to be paid
   - !!int "9"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Sylvan"
 "cr": "3"
 "traits":
-  - "desc": "The redcap has disadvantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The redcap has disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks."
     "name": "Iron Boots"
   - "desc": "While grappling, the redcap is considered to be Medium. Also, wielding\
@@ -67,17 +67,17 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "actions":
   - "desc": "The redcap makes three Wicked Sickle attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) slashing damage."
     "name": "Wicked Sickle"
   - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
       \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw\
-      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Ironbound Pursuit"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp"
 ```
 ^statblock
 

@@ -3,21 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Volothamp "Volo" Geddarm
+- "Volothamp \"Volo\" Geddarm"
 ---
-# [Volothamp "Volo" Geddarm](3-Mechanics\CLI\bestiary\npc/volothamp-volo-geddarm-toa.md)
+# [Volothamp "Volo" Geddarm](3-Mechanics/CLI/bestiary/npc/volothamp-volo-geddarm-toa.md)
 *Source: Tomb of Annihilation p. 235*  
 
 The bombastic world traveler Volothamp Geddarm has come to Chult to deliver signed copies of his latest book, Volo's Guide to Monsters. In addition to setting up audiences with the seven merchant princes of Port Nyanzaru (whom he knows well), Volo is visiting local taverns to promote his work, and the characters might meet him at some point in the city. Volo is a font of information (not all of it accurate), but he won't join the party under any circumstances. He might, however, allow the characters to tag along while he visits each merchant prince in turn.
 
-The personable Volo is more than willing to share `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) rumors from the Jungle Rumors table at the end of chapter 1, which he's overheard since arriving in Port Nyanzaru.
+The personable Volo is more than willing to share `1d4 + 1` rumors from the Jungle Rumors table at the end of chapter 1, which he's overheard since arriving in Port Nyanzaru.
 
 ## Volo's Traits
 
@@ -55,36 +55,40 @@ The personable Volo is more than willing to share `dice:1d4+1|noform|noparens|av
   - "constitution": !!int "2"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Animal Handling"
+  - "name": "[Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)"
     "desc": "+4"
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+4"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+2"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+4"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Performance"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+7"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+7"
-  - "name": "Sleight of Hand"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+3"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Dwarvish, Elvish"
 "cr": "1/4"
 "traits":
   - "desc": "Volo is a 1st-level spellcaster. His spellcasting ability is Intelligence\
       \ (spell save DC 12, +4 to hit with spell attacks). He has the following wizard\
-      \ spells prepared:\n\n**Cantrips (at will):** friends, mending, prestidigitation\n\
-      \n**1st level (2 slots):** comprehend languages, detect magic, disguise self"
+      \ spells prepared:\n\n**Cantrips (at will):** [friends](3-Mechanics/CLI/spells/friends-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1st level (2 slots):** [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
@@ -92,6 +96,6 @@ The personable Volo is more than willing to share `dice:1d4+1|noform|noparens|av
     "name": "Dagger"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/volothamp-volo-geddarm-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/volothamp-volo-geddarm-toa.webp"
 ```
 ^statblock

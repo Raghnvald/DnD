@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hlam
+- "Hlam"
 ---
-# [Hlam](3-Mechanics\CLI\bestiary\npc/hlam-wdh.md)
+# [Hlam](3-Mechanics/CLI/bestiary/npc/hlam-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 204*  
 
 This venerable human monk lives in a cave halfway up the side of Mount Waterdeep. Hlam is the grand master of the Order of the Even-Handed, a small monastic group devoted to Tyr. Would-be students periodically visit him to learn the Way of the Sacred Fists, which combines cleric magic and monk training. They usually return to the city confused, bruised, and not inclined to visit again.
@@ -44,28 +44,36 @@ Hlam is immune to disease and doesn't require food or water. Although he ages, h
   - "strength": !!int "5"
   - "dexterity": !!int "12"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+7"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, frightened, poisoned, disease"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), disease"
+"gear":
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "all spoken languages"
 "cr": "16"
 "traits":
   - "desc": "Hlam is a 5th-level spellcaster. His spellcasting ability is Wisdom (spell\
       \ save DC 18, +10 to hit with spell attacks) He has the following cleric spells\
-      \ prepared:\n\n**Cantrips (at will):** guidance, light, sacred flame, spare\
-      \ the dying\n\n**1st level (4 slots):** detect evil and good, healing word,\
-      \ sanctuary, shield of faith\n\n**2nd level (3 slots):** calm emotions, prayer\
-      \ of healing, silence\n\n**3rd level (2 slots):** protection from energy, remove\
-      \ curse, sending"
+      \ prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md)\n\n**1st\
+      \ level (4 slots):** [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [healing word](3-Mechanics/CLI/spells/healing-word-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+      \ [shield of faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd\
+      \ level (3 slots):** [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md),\
+      \ [prayer of healing](3-Mechanics/CLI/spells/prayer-of-healing-xphb.md), [silence](3-Mechanics/CLI/spells/silence-xphb.md)\n\
+      \n**3rd level (2 slots):** [protection from energy](3-Mechanics/CLI/spells/protection-from-energy-xphb.md),\
+      \ [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md)"
     "name": "Spellcasting"
   - "desc": "If Hlam is subjected to an effect that allows him to make a Dexterity\
       \ saving throw to take only half damage, he instead takes no damage if he succeeds\
       \ on the saving throw, and only half damage if he fails. He can't use this trait\
-      \ if he's incapacitated."
+      \ if he's [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
   - "desc": "Hlam's unarmed strikes are magical."
     "name": "Magic Attacks"
@@ -75,12 +83,12 @@ Hlam is immune to disease and doesn't require food or water. Although he ages, h
 "actions":
   - "desc": "Hlam attacks three times using his unarmed strike, darts, or both."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (1d10 + 7) bludgeoning, magic damage. If the target is a creature, Hlam can\
-      \ choose one of the following additional effects:\n\nThe target must succeed\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (1d10 + 7) bludgeoning, magic damage. If the target is a creature, Hlam\
+      \ can choose one of the following additional effects:\n\nThe target must succeed\
       \ on a DC 18 Strength saving throw or drop one item it is holding (Hlam's choice).\n\
-      \nThe target must succeed on a DC 18 Dexterity saving throw or be knocked prone.\n\
-      \nThe target must succeed on a DC 18 Constitution saving throw or be stunned\
+      \nThe target must succeed on a DC 18 Dexterity saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\n\
+      \nThe target must succeed on a DC 18 Constitution saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ until the end of Hlam's next turn."
     "name": "Unarmed Strike"
   - "desc": "*Ranged Weapon Attack:* +12 to hit, range 20/60 ft., one target. *Hit:*\
@@ -95,9 +103,9 @@ Hlam is immune to disease and doesn't require food or water. Although he ages, h
     "name": "Wholeness of Body (Recharges after a Long Rest)"
 "reactions":
   - "desc": "In response to being hit by a ranged weapon attack, Hlam deflects the\
-      \ missile. The damage he takes from the attack is reduced by 1d10 + 27. If the\
-      \ damage is reduced to 0, Hlam catches the missile if it's small enough to hold\
-      \ in one hand and he has a hand free."
+      \ missile. The damage he takes from the attack is reduced by 1d10 + 27. If\
+      \ the damage is reduced to 0, Hlam catches the missile if it's small enough\
+      \ to hold in one hand and he has a hand free."
     "name": "Deflect Missile"
   - "desc": "Hlam reduces the bludgeoning damage he takes from a fall by 100."
     "name": "Slow Fall"
@@ -109,11 +117,12 @@ Hlam is immune to disease and doesn't require food or water. Although he ages, h
     "name": "Quick Step"
   - "desc": "Hlam makes one unarmed strike."
     "name": "Unarmed Strike (Costs 2 Actions)"
-  - "desc": "Hlam becomes invisible until the end of his next turn. The effect ends\
-      \ if Hlam attacks or casts a spell."
+  - "desc": "Hlam becomes [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until the end of his next turn. The effect ends if Hlam attacks or casts a\
+      \ spell."
     "name": "Invisibility (Costs 3 Actions)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hlam-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hlam-wdh.webp"
 ```
 ^statblock

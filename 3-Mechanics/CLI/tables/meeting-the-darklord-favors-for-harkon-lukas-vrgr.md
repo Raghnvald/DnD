@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Meeting the Darklord; Favors for Harkon Lukas
+- "Meeting the Darklord; Favors for Harkon Lukas"
 ---
 # Meeting the Darklord; Favors for Harkon Lukas
 *Source: Van Richten's Guide to Ravenloft p. 136* 
 
 **Favors for Harkon Lukas**
-
-`dice: [](meeting-the-darklord-favors-for-harkon-lukas-vrgr.md#^favors-for-harkon-lukas)`
 
 | dice: d4 | Favor |
 |----------|-------|

@@ -7,28 +7,21 @@ tags:
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/feat/blessed-warrior
 - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+- ttrpg-cli/spell/feat/strixhaven-initiate/lorehold-2
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/tiefling
+- ttrpg-cli/spell/race/tiefling/abyssal
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/drakewarden
-- ttrpg-cli/spell/subclass/path-of-the-giant
-- ttrpg-cli/spell/subrace/tiefling-asmodeus
-- ttrpg-cli/spell/subrace/tiefling-baalzebul
-- ttrpg-cli/spell/subrace/tiefling-dispater
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subrace/tiefling-hellfire
 - ttrpg-cli/spell/subrace/tiefling-infernal-legacy
-- ttrpg-cli/spell/subrace/tiefling-zariel
 classes:
-- Barbarian (Path of the Giant)
 - Bard (College of Lore)
 - Cleric
-- Ranger (Drakewarden)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 aliases:
-- Thaumaturgy
+- "Thaumaturgy"
 ---
 # Thaumaturgy
 *cantrip, Transmutation*  
@@ -47,7 +40,7 @@ You alter the appearance of your eyes for 1 minute.
 
 ## Booming Voice
 
-Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks.
+Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) checks.
 
 ## Fire Play
 
@@ -67,6 +60,6 @@ You cause harmless tremors in the ground for 1 minute.
 
 ## Summary
 
-**Classes**: [Barbarian (Path of the Giant)](/3-Mechanics/CLI/lists/list-spells-classes-path-of-the-giant-bgg.md "subclass=BGG;class=XPHB"); [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger (Drakewarden)](/3-Mechanics/CLI/lists/list-spells-classes-drakewarden-ftd.md "subclass=FTD;class=XPHB"); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

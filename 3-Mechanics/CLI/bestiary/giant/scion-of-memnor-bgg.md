@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Scion of Memnor
+- "Scion of Memnor"
 ---
-# [Scion of Memnor](3-Mechanics\CLI\bestiary\giant/scion-of-memnor-bgg.md)
+# [Scion of Memnor](3-Mechanics/CLI/bestiary/giant/scion-of-memnor-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 167*  
 
 A slumbering scion of Memnor appears as a dense, slowly drifting tower of clouds that never dissipates. Often, this cloud lingers over a remote valley, creating a constantly overcast sky. Sapient creatures who live beneath this cloud often display superstitious and duplicitous behavior, almost unconsciously leaving gifts for "rain spirits" while playing mischievous pranks on each other.
@@ -52,17 +52,15 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "dexterity": !!int "12"
   - "charisma": !!int "16"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+15"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+14"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "thunder"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 24"
+"condition_immunities": "charmed, frightened, paralyzed, petrified"
+"senses": "truesight 120 ft., passive Perception 24"
 "languages": "Giant, Primordial"
 "cr": "26"
 "traits":
@@ -80,15 +78,15 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "desc": "The scion makes one attack using Cloud Morningstar or Wind Javelin, as\
       \ well as two Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 30 ft., one target. *Hit:* 32\
-      \ (4d10 + 10) force damage plus 22 (4d10) thunder damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 30 ft., one target. *Hit:*\
+      \ 32 (4d10 + 10) force damage plus 22 (4d10) thunder damage."
     "name": "Cloud Morningstar"
-  - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120/480 ft., one target. *Hit:*\
-      \ 42 (5d12 + 10) thunder damage, and the target must succeed on a DC 26 Strength\
-      \ saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+  - "desc": "*Ranged Weapon Attack:* +18 to hit, range 120/480 ft., one target.\
+      \ *Hit:* 42 (5d12 + 10) thunder damage, and the target must succeed on a DC\
+      \ 26 Strength saving throw or have the prone condition."
     "name": "Wind Javelin"
-  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:* 28\
-      \ (4d8 + 10) force damage."
+  - "desc": "*Melee Weapon Attack:* +18 to hit, reach 20 ft., one target. *Hit:*\
+      \ 28 (4d8 + 10) force damage."
     "name": "Slam"
   - "desc": "The scion magically creates a vortex of wind in a 60-foot-radius sphere\
       \ centered on a point it can see within 120 feet of itself. Each creature in\
@@ -96,21 +94,20 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
       \ toward the sphere's center, ending in an unoccupied space as close as possible\
       \ to the center. Then a burst of thunder erupts in a 30-foot-radius sphere centered\
       \ on the same point. Each creature in that area takes 52 (8d12) thunder damage\
-      \ and must succeed on a DC 24 Constitution saving throw or have the [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ and must succeed on a DC 24 Constitution saving throw or have the stunned\
       \ condition until the end of its next turn."
     "name": "Thunderous Vortex (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The scion conjures a magical cloud that fills a 30-foot-radius sphere\
       \ centered on a point it can see within 90 feet of itself. Each creature in\
       \ that area must make a DC 24 Wisdom saving throw. On a failed save, a creature\
-      \ has the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition until\
-      \ the end of its next turn. While it has the [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ condition, the creature must use its action to make a melee attack against\
-      \ a creature other than itself of the scion's choice. If no creature is within\
-      \ its reach, the affected creature makes a ranged attack against a creature\
-      \ of the scion's choice, throwing its weapon if necessary. On a successful save,\
-      \ a creature is immune to the scion's Fog of [Deception](/3-Mechanics/CLI/skills.md#Deception)\
-      \ for the next 24 hours."
+      \ has the charmed condition until the end of its next turn. While it has the\
+      \ charmed condition, the creature must use its action to make a melee attack\
+      \ against a creature other than itself of the scion's choice. If no creature\
+      \ is within its reach, the affected creature makes a ranged attack against a\
+      \ creature of the scion's choice, throwing its weapon if necessary. On a successful\
+      \ save, a creature is immune to the scion's Fog of Deception for the next 24\
+      \ hours."
     "name": "Fog of Deception"
 "regional_effects":
   - "desc": "The region surrounding a scion of Memnor is altered by the giant's magic,\
@@ -129,6 +126,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/scion-of-memnor-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/scion-of-memnor-bgg.webp"
 ```
 ^statblock

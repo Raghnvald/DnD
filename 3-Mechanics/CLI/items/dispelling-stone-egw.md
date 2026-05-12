@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Dispelling Stone"
 ---
 # Dispelling Stone

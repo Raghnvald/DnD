@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-background
 tags:
-- new/background
-- new/compendium/src/5e/bmt
+- ttrpg-cli/background
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Ruined
+- "Ruined"
 ---
 # Ruined
 *Source: The Book of Many Things p. 58*  
-![](/3-Mechanics/CLI/backgrounds/img/ruined.webp#right)
+![](3-Mechanics/CLI/backgrounds/img/ruined.webp#right)
 
 - **Skill Proficiencies.** Stealth, Survival  
 - **Languages.** One of your choice  
@@ -29,8 +29,6 @@ You have weathered ruinous misfortune, and you possess hidden reserves others do
 
 Rising above misfortune shapes one's perspective. The Ruined Personality Traits table suggests traits you might adopt for your character (and ruinous cards that might have prompted this trait).
 
-`dice: [](ruined-bmt.md#^personality-trait)`
-
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | I've changed from my past, and I work to live up to my new path. (Balance, Throne) |
@@ -43,15 +41,13 @@ Rising above misfortune shapes one's perspective. The Ruined Personality Traits 
 
 ## Building a Ruined Character
 
-Ruined characters were on top of the world before misfortune struck. Many were wealthy. Others come from modest backgrounds, but they were surrounded by friends, family, and loved ones. They might have been famous, or simply never encountered serious hardship before. Some were born to privilege or rose to prominence through trickery or a false reputation. Now a Deck of Many Things—or another calamity—has knocked them down like a house of cards.
+Ruined characters were on top of the world before misfortune struck. Many were wealthy. Others come from modest backgrounds, but they were surrounded by friends, family, and loved ones. They might have been famous, or simply never encountered serious hardship before. Some were born to privilege or rose to prominence through trickery or a false reputation. Now a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md)—or another calamity—has knocked them down like a house of cards.
 
-If your character's life was ruined by a Deck of Many Things, consider which card was responsible. Perhaps your character was imprisoned for years by the Donjon or Void card, and now everyone they knew has died. Maybe your character drew the Rogue card, and the person closest to them—a spouse, child, or parent—turned against them. A devil unleashed by the Flames card might have destroyed their life. The Ruin or Talons card might have stolen the character's material goods or saddled them with vast debt.
+If your character's life was ruined by a [Deck of Many Things](3-Mechanics/CLI/items/deck-of-many-things.md), consider which card was responsible. Perhaps your character was imprisoned for years by the Donjon or Void card, and now everyone they knew has died. Maybe your character drew the Rogue card, and the person closest to them—a spouse, child, or parent—turned against them. A devil unleashed by the Flames card might have destroyed their life. The Ruin or Talons card might have stolen the character's material goods or saddled them with vast debt.
 
 ## Ruined Trinkets
 
 When you make your character, you can roll once on the Ruined Trinkets table instead of on the Trinkets table in the "Player's Handbook".
-
-`dice: [](ruined-bmt.md#^trinket)`
 
 | dice: d6 | Trinket |
 |----------|---------|

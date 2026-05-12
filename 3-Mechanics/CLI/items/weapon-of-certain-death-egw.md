@@ -12,7 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Weapon of Certain Death"
 - "Antimatter Rifle of Certain Death"
 - "Automatic Rifle of Certain Death"
@@ -130,14 +130,14 @@ When you damage a creature with an attack using this magic weapon, the target ca
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Automatic Rifle of Certain Death
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/3-Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](3-Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Battleaxe of Certain Death
@@ -145,40 +145,40 @@ When you damage a creature with an attack using this magic weapon, the target ca
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Blowgun of Certain Death
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 1.0 lbs.
 
 ### Club of Certain Death
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Dagger of Certain Death
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Light, Thrown
 - **Weight**: 1.0 lbs.
 
 ### Dart of Certain Death
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Thrown
 - **Weight**: 0.25 lbs.
 
 ### Double-Bladed Scimitar of Certain Death
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Flail of Certain Death
@@ -189,127 +189,127 @@ When you damage a creature with an attack using this magic weapon, the target ca
 ### Glaive of Certain Death
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Greataxe of Certain Death
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Greatclub of Certain Death
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Greatsword of Certain Death
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Halberd of Certain Death
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Hand Crossbow of Certain Death
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Light, Loading
 - **Weight**: 3.0 lbs.
 
 ### Handaxe of Certain Death
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Heavy Crossbow of Certain Death
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Loading, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Hooked Shortspear of Certain Death
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Hoopak of Certain Death
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Ammunition, Finesse, Two-Handed, special
 - **Weight**: 2.0 lbs.
 
 ### Hunting Rifle of Certain Death
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Javelin of Certain Death
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 2.0 lbs.
 
 ### Lance of Certain Death
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Heavy, Reach
 - **Weight**: 6.0 lbs.
 
 ### Laser Pistol of Certain Death
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Laser Rifle of Certain Death
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Light Crossbow of Certain Death
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Light Hammer of Certain Death
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Light Repeating Crossbow of Certain Death
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Longbow of Certain Death
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Longsword of Certain Death
@@ -317,7 +317,7 @@ When you damage a creature with an attack using this magic weapon, the target ca
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Mace of Certain Death
@@ -328,7 +328,7 @@ When you damage a creature with an attack using this magic weapon, the target ca
 ### Maul of Certain Death
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Morningstar of Certain Death
@@ -340,20 +340,20 @@ When you damage a creature with an attack using this magic weapon, the target ca
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Pike of Certain Death
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Pistol of Certain Death
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 3.0 lbs.
 
 ### Quarterstaff of Certain Death
@@ -361,66 +361,66 @@ When you damage a creature with an attack using this magic weapon, the target ca
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Rapier of Certain Death
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Revolver of Certain Death
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Scimitar of Certain Death
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Semiautomatic Pistol of Certain Death
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Shortbow of Certain Death
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Shortsword of Certain Death
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 ### Shotgun of Certain Death
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Sickle of Certain Death
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Sling of Certain Death
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: Ammunition
 
 ### Spear of Certain Death
 
@@ -428,7 +428,7 @@ When you damage a creature with an attack using this magic weapon, the target ca
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 3.0 lbs.
 
 ### Trident of Certain Death
@@ -437,7 +437,7 @@ When you damage a creature with an attack using this magic weapon, the target ca
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 4.0 lbs.
 
 ### War Pick of Certain Death
@@ -445,7 +445,7 @@ When you damage a creature with an attack using this magic weapon, the target ca
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 2.0 lbs.
 
 ### Warhammer of Certain Death
@@ -453,20 +453,20 @@ When you damage a creature with an attack using this magic weapon, the target ca
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 5.0 lbs.
 
 ### Whip of Certain Death
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Finesse, Reach
 - **Weight**: 3.0 lbs.
 
 ### Yklwa of Certain Death
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 3.0 lbs.
 
 

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Tyrants Adventure Hooks
+- "Tyrants Adventure Hooks"
 ---
 # Tyrants Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 255* 
 
 **Tyrants Adventure Hooks**
-
-`dice: [](tyrants-adventure-hooks-erlw.md#^tyrants-adventure-hooks)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

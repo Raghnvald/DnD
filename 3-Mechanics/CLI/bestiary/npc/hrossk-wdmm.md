@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hrossk
+- "Hrossk"
 ---
-# [Hrossk](3-Mechanics\CLI\bestiary\npc/hrossk-wdmm.md)
+# [Hrossk](3-Mechanics/CLI/bestiary/npc/hrossk-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 183*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "162"
 "hit_dice": "13d12 + 78"
 "modifier": !!int "-1"
@@ -38,25 +38,27 @@ aliases:
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_immunities": "fire"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "9"
 "actions":
   - "desc": "Hrossk makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28\
-      \ (6d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 28 (6d6 + 7) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:*\
       \ 29 (4d10 + 7) bludgeoning damage."
     "name": "Rock"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hrossk-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hrossk-wdmm.webp"
 ```
 ^statblock

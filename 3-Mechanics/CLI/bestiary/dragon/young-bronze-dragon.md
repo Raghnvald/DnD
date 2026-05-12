@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Young Bronze Dragon
+- "Young Bronze Dragon"
 ---
-# [Young Bronze Dragon](3-Mechanics\CLI\bestiary\dragon/young-bronze-dragon.md)
+# [Young Bronze Dragon](3-Mechanics/CLI/bestiary/dragon/young-bronze-dragon.md)
 *Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -106,14 +106,14 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "4"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "lightning"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 17"
 "languages": "Common, Draconic"
 "cr": "8"
@@ -123,8 +123,8 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "actions":
   - "desc": "The dragon makes three attacks: one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12\
       \ (2d6 + 5) slashing damage."
@@ -132,15 +132,15 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Lightning\
       \ Breath.** The dragon exhales lightning in a 60-foot line that is 5 feet wide.\
       \ Each creature in that line must make a DC 15 Dexterity saving throw, taking\
-      \ 55 (10d10) lightning damage on a failed save, or half as much damage on a\
-      \ successful one.  \n- **Repulsion Breath.** The dragon exhales repulsion energy\
-      \ in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength\
-      \ saving throw. On a failed save, the creature is pushed 40 feet away from the\
-      \ dragon.  "
+      \ 55 (10d10) lightning damage on a failed save, or half as much damage on\
+      \ a successful one.  \n- **Repulsion Breath.** The dragon exhales repulsion\
+      \ energy in a 30-foot cone. Each creature in that area must succeed on a DC\
+      \ 15 Strength saving throw. On a failed save, the creature is pushed 40 feet\
+      \ away from the dragon.  "
     "name": "Breath Weapons (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon.webp"
 ```
 ^statblock
 

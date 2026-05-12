@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/gos
 aliases:
-- Shipwright
+- "Shipwright"
 ---
 # Shipwright
 *Source: Ghosts of Saltmarsh p. 33*  
@@ -26,8 +26,6 @@ Provided you have carpenter's tools and wood, you can perform repairs on a water
 
 Your life at sea and in port has shaped you; you can roll on the following table to determine its impact or choose an element that best fits your character.
 
-`dice: [](shipwright-gos.md#^seas-influence)`
-
 | dice: d6 | Sea's Influence |
 |----------|-----------------|
 | 1 | **Grand Designs.** You are working on plans and schematics for a new, very fast ship. You must examine as many different kinds of vessels as possible to help ensure the success of your design. |
@@ -44,8 +42,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 
 **Shipwright Personality Traits**
 
-`dice: [](shipwright-gos.md#^shipwright-personality-traits)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I love talking and being heard more than I like to listen. |
@@ -60,8 +56,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 
 **Shipwright Ideals**
 
-`dice: [](shipwright-gos.md#^shipwright-ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Crew. If everyone on deck pitches in, we'll never sink. (Good) |
@@ -74,8 +68,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 
 **Shipwright Bonds**
 
-`dice: [](shipwright-gos.md#^shipwright-bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I must visit all the oceans of the world and behold the ships that sail there. |
@@ -87,8 +79,6 @@ Shipwrights are resourceful carpenters and designers. They often have a dedicate
 ^shipwright-bonds
 
 **Shipwright Flaws**
-
-`dice: [](shipwright-gos.md#^shipwright-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

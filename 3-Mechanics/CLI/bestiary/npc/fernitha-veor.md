@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fernitha
+- "Fernitha"
 ---
-# [Fernitha](3-Mechanics\CLI\bestiary\npc/fernitha-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Fernitha](3-Mechanics/CLI/bestiary/npc/fernitha-veor.md)
+*Source: Vecna: Eve of Ruin p. 53*  
 
 ```statblock
 "name": "Fernitha (VEoR)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "devil"
 "alignment": "Lawful Evil"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "153"
 "hit_dice": "18d8 + 72"
 "modifier": !!int "3"
@@ -42,8 +42,12 @@ aliases:
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword-xphb.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 12"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "12"
 "traits":
@@ -56,14 +60,15 @@ aliases:
 "actions":
   - "desc": "Fernitha makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands,\
-      \ plus 13 (3d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with\
+      \ two hands, plus 13 (3d8) poison damage."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:*\
-      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must\
-      \ succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts\
-      \ until it is removed by the lesser restoration spell or similar magic."
+      \ 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target\
+      \ must succeed on a DC 14 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ The poison lasts until it is removed by the [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md)\
+      \ spell or similar magic."
     "name": "Longbow"
 "reactions":
   - "desc": "Fernitha adds 4 to its AC against one melee attack that would hit it.\
@@ -71,6 +76,6 @@ aliases:
     "name": "Parry"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/fernitha-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/fernitha-veor.webp"
 ```
 ^statblock

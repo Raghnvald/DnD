@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Infected Townsperson
+- "Infected Townsperson"
 ---
-# [Infected Townsperson](3-Mechanics\CLI\bestiary\humanoid/infected-townsperson-pabtso.md)
+# [Infected Townsperson](3-Mechanics/CLI/bestiary/humanoid/infected-townsperson-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 139*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Chaotic alignment"
 "ac": !!int "13"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "1"
@@ -34,6 +34,8 @@ aliases:
   - !!int "11"
   - !!int "9"
 "speed": "30 ft."
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
@@ -43,11 +45,11 @@ aliases:
       \ until the start of its next turn."
     "name": "Reckless"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage plus 3 (1d6) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage plus 3 (1d6) psychic damage."
     "name": "Psychic Slam"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/infected-townsperson-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/infected-townsperson-pabtso.webp"
 ```
 ^statblock

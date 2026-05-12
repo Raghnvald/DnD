@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cradle of the Hill Scion
+- "Cradle of the Hill Scion"
 ---
-# [Cradle of the Hill Scion](3-Mechanics\CLI\bestiary\elemental/cradle-of-the-hill-scion-bgg.md)
+# [Cradle of the Hill Scion](3-Mechanics/CLI/bestiary/elemental/cradle-of-the-hill-scion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 164*  
 
 A slumbering scion of Grolantor is often mistaken for a hill, and sometimes people erect standing stones, a village, or a city on a scion's back, unaware of the mighty power beneath them. Such settlements can thrive for centuries, as the scion's magic causes crops to flourish and livestock to thrive in the surrounding region. An ancient tree towers from the crest of the hill.
@@ -51,14 +51,12 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone)"
+"condition_immunities": "exhaustion, paralyzed, petrified, poisoned, prone"
 "senses": "passive Perception 13"
 "languages": "Giant, Primordial"
 "cr": "22"
 "traits":
-  - "desc": "The cradle is a container for the [scion of Grolantor](/3-Mechanics/CLI/bestiary/giant/scion-of-grolantor-bgg.md).\
+  - "desc": "The cradle is a container for the [scion of Grolantor](3-Mechanics/CLI/bestiary/giant/scion-of-grolantor-bgg.md).\
       \ When the cradle drops to 0 hit points, its body crumbles to dirt and moss.\
       \ The scion instantly appears in the space the cradle occupied and uses the\
       \ cradle's initiative count."
@@ -74,32 +72,31 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
   - "desc": "The cradle makes three Slam or Spit Rock attacks in any combination and\
       \ one Grasping Root attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 33\
-      \ (4d12 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:*\
+      \ 33 (4d12 + 7) bludgeoning damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +14 to hit, range 120 ft., one target. *Hit:*\
-      \ 25 (4d8 + 7) bludgeoning damage, and the target must succeed on a DC 22 Strength\
-      \ saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition."
+      \ 25 (4d8 + 7) bludgeoning damage, and the target must succeed on a DC 22\
+      \ Strength saving throw or have the prone condition."
     "name": "Spit Rock"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one creature not [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by the cradle. *Hit:* the target has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 17). Until the grapple ends, the target takes 29 (4d10\
-      \ + 7) bludgeoning damage at the start of each of its turns. The root has AC\
-      \ 19 and can be severed by dealing 15 or more slashing damage to it on one attack.\
-      \ Cutting the root doesn't hurt the cradle but ends the grapple."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 30 ft., one creature not grappled\
+      \ by the cradle. *Hit:* the target has the grappled condition (escape DC 17).\
+      \ Until the grapple ends, the target takes 29 (4d10 + 7) bludgeoning damage\
+      \ at the start of each of its turns. The root has AC 19 and can be severed by\
+      \ dealing 15 or more slashing damage to it on one attack. Cutting the root doesn't\
+      \ hurt the cradle but ends the grapple."
     "name": "Grasping Root"
   - "desc": "The cradle magically creates a wave of dirt that extends from a point\
       \ on the ground within 120 feet of itself. The wave is up to 30 feet long, up\
       \ to 30 feet tall, and up to 30 feet wide. Each creature in the wave must make\
       \ a DC 22 Strength saving throw. On a failed save, a creature takes 58 (9d12)\
-      \ bludgeoning damage, has the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition, and is buried under dirt. On a successful save, a creature takes\
-      \ half as much damage only.\n\nA buried creature has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition, has total cover, and can't breathe. As an action, a creature buried\
-      \ in this way, or another creature within 5 feet of it that isn't buried, can\
-      \ make a DC 17 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics))\
-      \ check. On a successful check, the buried creature no longer has the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ or [restrained](/3-Mechanics/CLI/conditions.md#Restrained) conditions."
+      \ bludgeoning damage, has the prone condition, and is buried under dirt. On\
+      \ a successful save, a creature takes half as much damage only.\n\nA buried\
+      \ creature has the restrained condition, has total cover, and can't breathe.\
+      \ As an action, a creature buried in this way, or another creature within 5\
+      \ feet of it that isn't buried, can make a DC 17 Strength (Athletics) check.\
+      \ On a successful check, the buried creature no longer has the prone or restrained\
+      \ conditions."
     "name": "Rolling Hills (Recharge 6)"
 "regional_effects":
   - "desc": "The region surrounding a scion of Grolantor is altered by the giant's\
@@ -113,6 +110,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-hill-scion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-hill-scion-bgg.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Connection to Strahd; Hunting Strahd
+- "Connection to Strahd; Hunting Strahd"
 ---
 # Connection to Strahd; Hunting Strahd
 *Source: Van Richten's Guide to Ravenloft p. 70* 
 
 **Hunting Strahd**
-
-`dice: [](connection-to-strahd-hunting-strahd-vrgr.md#^hunting-strahd)`
 
 | dice: d10 | Hunting Method |
 |-----------|----------------|

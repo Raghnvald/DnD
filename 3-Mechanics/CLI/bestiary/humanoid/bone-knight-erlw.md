@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bone Knight
+- "Bone Knight"
 ---
-# [Bone Knight](3-Mechanics\CLI\bestiary\humanoid/bone-knight-erlw.md)
+# [Bone Knight](3-Mechanics/CLI/bestiary/humanoid/bone-knight-erlw.md)
 *Source: Eberron: Rising from the Last War p. 316*  
 
 Bone knights are the champions of the Order of the Emerald Claw. Clad in distinctive bonecraft armor—heavy armor adorned with the bones of fallen enemies—these fearsome warriors command squads of undead soldiers as they pursue the sinister goals of Lady Illmarrow.
@@ -57,6 +57,9 @@ During the Last War, many bone knights took service with the Order of the Emeral
   - "name": "Intimidation"
     "desc": "+6"
 "damage_resistances": "necrotic, poison"
+"gear":
+  - "greatsword"
+  - "longbow"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "5"
@@ -87,6 +90,6 @@ During the Last War, many bone knights took service with the Order of the Emeral
     "name": "Longbow"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bone-knight-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bone-knight-erlw.webp"
 ```
 ^statblock

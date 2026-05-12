@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Steel Defender
+- "Steel Defender"
 ---
-# [Steel Defender](3-Mechanics\CLI\bestiary\construct/steel-defender-tce.md)
+# [Steel Defender](3-Mechanics/CLI/bestiary/construct/steel-defender-tce.md)
 *Source: Tasha's Cauldron of Everything p. 19*  
 
 ```statblock
@@ -37,18 +37,18 @@ aliases:
   - "name": "Constitution"
     "desc": "+2 plus PB"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+2 plus PB"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+0 plus PB × 2"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 0"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 0"
 "languages": "understands the languages you speak"
 "traits":
-  - "desc": "The defender can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised)."
+  - "desc": "The defender can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)."
     "name": "Vigilant"
 "actions":
   - "desc": "*Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft.,\
@@ -64,6 +64,6 @@ aliases:
     "name": "Deflect Attack"
 "source":
   - "TCE"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/steel-defender-tce.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/steel-defender-tce.webp"
 ```
 ^statblock

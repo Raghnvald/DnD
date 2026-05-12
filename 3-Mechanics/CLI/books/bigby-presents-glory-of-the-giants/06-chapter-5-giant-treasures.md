@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Chapter 5: Giant Treasures
+- "Chapter 5: Giant Treasures"
 ---
 # Chapter 5: Giant Treasures
 *Source: Bigby Presents: Glory of the Giants, p. 105* 
@@ -22,13 +22,13 @@ Giants collect an eclectic assortment of treasures and trinkets over the course 
 
 ""Magic Items"" presents new magic items associated with giants, their legends, and their magic runes.
 
-![](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/072-05-001-bigby-surfer.webp#center)
+![](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/072-05-001-bigby-surfer.webp#center)
 
 ## Giant Bags
 
 Giants on the move carry colossal bags containing miscellaneous items collected over many years. Giant bags are strange repositories of unusual mementos, titanic tools, and giant-sized portions of food and drink. This section provides guidance for determining the contents of the bag of a giant of any kind.
 
-Each of the lists in this section includes coinage (replacing the "Individual Treasure tables" in the "Dungeon Master's Guide"), boulders for throwing, and a number of other nonmagical items determined by rolling on another table. These items can include valuable objects, as well as food, tools, and curiosities. At your discretion, any giant bag might also contain a [bag jelly](/3-Mechanics/CLI/bestiary/ooze/bag-jelly-bgg.md) (described in "chapter 6").
+Each of the lists in this section includes coinage (replacing the "Individual Treasure tables" in the "Dungeon Master's Guide"), boulders for throwing, and a number of other nonmagical items determined by rolling on another table. These items can include valuable objects, as well as food, tools, and curiosities. At your discretion, any giant bag might also contain a [bag jelly](3-Mechanics/CLI/bestiary/ooze/bag-jelly-bgg.md) (described in "chapter 6").
 
 ### Cloud Giant Bags
 
@@ -40,13 +40,13 @@ Other cloud giant bags are deceptive: they appear to be small and flat but aboun
 
 - 140 (`4d6 × 10`) sp  
 - 140 (`4d6 × 10`) gp  
-- 10 (`dice:3d6|noform|noparens|avg` (`3d6`)) pp  
-- 3 (`dice:1d4+1|noform|noparens|avg` (`1d4 + 1`)) boulders (for throwing)  
-- 2 (`dice:1d4|noform|noparens|avg` (`1d4`)) items from the Cloud Giant Bag Items table  
+- 10 (`3d6`) pp  
+- 3 (`1d4 + 1`) boulders (for throwing)  
+- 2 (`1d4`) items from the Cloud Giant Bag Items table  
 
-![Cloud Giant Bag Contents; Cloud Giant Bag Items](/3-Mechanics/CLI/tables/cloud-giant-bag-contents-cloud-giant-bag-items-bgg.md)
+![Cloud Giant Bag Contents; Cloud Giant Bag Items](3-Mechanics/CLI/tables/cloud-giant-bag-contents-cloud-giant-bag-items-bgg.md)
 
-![Adventurers discover the e...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/073-05-002-cloud-giant-bag.webp#center "Adventurers discover the eclectic contents of a cloud giant's bag")
+![Adventurers discover the eclectic contents of a cloud giant's bag](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/073-05-002-cloud-giant-bag.webp#center)
 
 ### Fire Giant Bags
 
@@ -59,11 +59,11 @@ Fire giants are often pragmatic, carrying only necessary tools and examples of t
 - 210 (`6d6 × 10`) sp  
 - 70 (`2d6 × 10`) ep  
 - 140 (`4d6 × 10`) gp  
-- 10 (`dice:3d6|noform|noparens|avg` (`3d6`)) pp  
-- 3 (`dice:1d4+1|noform|noparens|avg` (`1d4 + 1`)) boulders (for throwing)  
-- 2 (`dice:1d4|noform|noparens|avg` (`1d4`)) items from the Fire Giant Bag Items table  
+- 10 (`3d6`) pp  
+- 3 (`1d4 + 1`) boulders (for throwing)  
+- 2 (`1d4`) items from the Fire Giant Bag Items table  
 
-![Fire Giant Bag Contents; Fire Giant Bag Items](/3-Mechanics/CLI/tables/fire-giant-bag-contents-fire-giant-bag-items-bgg.md)
+![Fire Giant Bag Contents; Fire Giant Bag Items](3-Mechanics/CLI/tables/fire-giant-bag-contents-fire-giant-bag-items-bgg.md)
 
 ### Frost Giant Bags
 
@@ -74,11 +74,11 @@ Frost giant bags are coated in waterproof lacquer and lined with thick fur to ke
 - 210 (`6d6 × 10`) sp  
 - 105 (`3d6 × 10`) ep  
 - 140 (`4d6 × 10`) gp  
-- 3 (`dice:1d6|noform|noparens|avg` (`1d6`)) pp  
-- 3 (`dice:1d4+1|noform|noparens|avg` (`1d4 + 1`)) boulders (for throwing)  
-- 2 (`dice:1d4|noform|noparens|avg` (`1d4`)) items from the Frost Giant Bag Items table  
+- 3 (`1d6`) pp  
+- 3 (`1d4 + 1`) boulders (for throwing)  
+- 2 (`1d4`) items from the Frost Giant Bag Items table  
 
-![Frost Giant Bag Contents; Frost Giant Bag Items](/3-Mechanics/CLI/tables/frost-giant-bag-contents-frost-giant-bag-items-bgg.md)
+![Frost Giant Bag Contents; Frost Giant Bag Items](3-Mechanics/CLI/tables/frost-giant-bag-contents-frost-giant-bag-items-bgg.md)
 
 ### Hill Giant Bags
 
@@ -92,10 +92,10 @@ Hill giant bags are made from simple materials like burlap or linen. Most have a
 - 210 (`6d6 × 10`) sp  
 - 35 (`1d6 × 10`) ep  
 - 35 (`1d6 × 10`) gp  
-- 3 (`dice:1d4+1|noform|noparens|avg` (`1d4 + 1`)) boulders (for throwing)  
-- 2 (`dice:1d4|noform|noparens|avg` (`1d4`)) items from the Hill Giant Bag Items table  
+- 3 (`1d4 + 1`) boulders (for throwing)  
+- 2 (`1d4`) items from the Hill Giant Bag Items table  
 
-![Hill Giant Bag Contents; Hill Giant Bag Items](/3-Mechanics/CLI/tables/hill-giant-bag-contents-hill-giant-bag-items-bgg.md)
+![Hill Giant Bag Contents; Hill Giant Bag Items](3-Mechanics/CLI/tables/hill-giant-bag-contents-hill-giant-bag-items-bgg.md)
 
 ### Stone Giant Bags
 
@@ -107,11 +107,11 @@ On a large scale, stone giants love elaborate murals and exquisite carvings. But
 - 210 (`6d6 × 10`) sp  
 - 105 (`3d6 × 10`) ep  
 - 70 (`2d6 × 10`) gp  
-- 3 (`dice:1d6|noform|noparens|avg` (`1d6`)) pp  
-- 4 (`dice:1d6+1|noform|noparens|avg` (`1d6 + 1`)) boulders (for throwing)  
-- 2 (`dice:1d4|noform|noparens|avg` (`1d4`)) items from the Stone Giant Bag Items table  
+- 3 (`1d6`) pp  
+- 4 (`1d6 + 1`) boulders (for throwing)  
+- 2 (`1d4`) items from the Stone Giant Bag Items table  
 
-![Stone Giant Bag Contents; Stone Giant Bag Items](/3-Mechanics/CLI/tables/stone-giant-bag-contents-stone-giant-bag-items-bgg.md)
+![Stone Giant Bag Contents; Stone Giant Bag Items](3-Mechanics/CLI/tables/stone-giant-bag-contents-stone-giant-bag-items-bgg.md)
 
 ### Storm Giant Bags
 
@@ -123,10 +123,10 @@ With their disposition toward divination, many storm giants are inclined to be s
 - 105 (`3d6 × 10`) ep  
 - 210 (`6d6 × 10`) gp  
 - 35 (`1d6 × 10`) pp  
-- 3 (`dice:1d4+1|noform|noparens|avg` (`1d4 + 1`)) boulders (for throwing)  
-- 2 (`dice:1d4|noform|noparens|avg` (`1d4`)) items from the Storm Giant Bag Items table  
+- 3 (`1d4 + 1`) boulders (for throwing)  
+- 2 (`1d4`) items from the Storm Giant Bag Items table  
 
-![Storm Giant Bag Contents; Storm Giant Bag Items](/3-Mechanics/CLI/tables/storm-giant-bag-contents-storm-giant-bag-items-bgg.md)
+![Storm Giant Bag Contents; Storm Giant Bag Items](3-Mechanics/CLI/tables/storm-giant-bag-contents-storm-giant-bag-items-bgg.md)
 
 ## Relics of Giant Realms
 
@@ -158,11 +158,11 @@ The art objects found in ancient giants' ruins reflect the societies and types o
 
 In conjunction with the "tables" in the "Dungeon Master's Guide", you can use the following tables to generate distinctive, giant-sized art objects for a specific ruin or hoard belonging to giants.
 
-![Treasures found in a stone...](/3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/074-05-003-found-treasures.webp#center "Treasures found in a stone giant ruin range from artistic masterpieces to magical wonders")
+![Treasures found in a stone giant ruin range from artistic masterpieces to magical wonders](3-Mechanics/CLI/books/bigby-presents-glory-of-the-giants/img/074-05-003-found-treasures.webp#center)
 
-![25 gp Art Objects](/3-Mechanics/CLI/tables/25-gp-art-objects-bgg.md)
+![25 gp Art Objects](3-Mechanics/CLI/tables/25-gp-art-objects-bgg.md)
 
-![250 gp Art Objects](/3-Mechanics/CLI/tables/250-gp-art-objects-bgg.md)
+![250 gp Art Objects](3-Mechanics/CLI/tables/250-gp-art-objects-bgg.md)
 
 ## Magic Items
 
@@ -181,7 +181,7 @@ Some of the magic items described in this chapter have special properties that a
 > 
 > Giant-Crafted Items
 > 
-> Beyond its size, a giant-crafted version of a magic item might look different from its traditional appearance. For example, runes and rune carving are central to the magic traditions of the giants, so a [rod of rulership](/3-Mechanics/CLI/items/rod-of-rulership-xdmg.md) created by a giant artisan might be inscribed with the king rune, while a giant-crafted [periapt of wound closure](/3-Mechanics/CLI/items/periapt-of-wound-closure-xdmg.md) might bear the life rune. Also, a magic item might absorb some of the latent elemental power of its giant users or creators. A [+1 longsword](/3-Mechanics/CLI/items/1-weapon-xdmg.md) forged by a fire giant, for example, could glow faintly like embers in the dark, while the [sentinel shield](/3-Mechanics/CLI/items/sentinel-shield-xdmg.md) once carried by a frost giant could be perpetually cold to the touch.
+> Beyond its size, a giant-crafted version of a magic item might look different from its traditional appearance. For example, runes and rune carving are central to the magic traditions of the giants, so a [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership.md) created by a giant artisan might be inscribed with the king rune, while a giant-crafted [periapt of wound closure](3-Mechanics/CLI/items/periapt-of-wound-closure.md) might bear the life rune. Also, a magic item might absorb some of the latent elemental power of its giant users or creators. A [+1 longsword](3-Mechanics/CLI/items/1-weapon.md) forged by a fire giant, for example, could glow faintly like embers in the dark, while the [sentinel shield](3-Mechanics/CLI/items/sentinel-shield.md) once carried by a frost giant could be perpetually cold to the touch.
 > 
 > None of these cosmetic effects alter a magic item's capabilities. They merely provide a narrative link to giants' realms that characters might explore.
 ^166
@@ -190,30 +190,30 @@ Some of the magic items described in this chapter have special properties that a
 
 The following magic items are presented in alphabetical order.
 
-- [Adze of Annam](/3-Mechanics/CLI/items/adze-of-annam-bgg.md)  
-- [Armor of Safeguarding](/3-Mechanics/CLI/items/armor-of-safeguarding-bgg.md)  
-- [Bigby's Beneficent Bracelet](/3-Mechanics/CLI/items/bigbys-beneficent-bracelet-bgg.md)  
-- [Bloodshed Blade](/3-Mechanics/CLI/items/bloodshed-blade-bgg.md)  
-- [Crown of the Wrath Bringer](/3-Mechanics/CLI/items/crown-of-the-wrath-bringer-bgg.md)  
-- [Delver's Claws](/3-Mechanics/CLI/items/delvers-claws-bgg.md)  
-- [Glowrune Pigment](/3-Mechanics/CLI/items/glowrune-pigment-bgg.md)  
-- [Harp of Gilded Plenty](/3-Mechanics/CLI/items/harp-of-gilded-plenty-bgg.md)  
-- [Helm of Perfect Potential](/3-Mechanics/CLI/items/helm-of-perfect-potential-bgg.md)  
-- [Lash of Immolation](/3-Mechanics/CLI/items/lash-of-immolation-bgg.md)  
-- [Longbow of the Healing Hearth](/3-Mechanics/CLI/items/longbow-of-the-healing-hearth-bgg.md)  
-- [Lucent Destroyer](/3-Mechanics/CLI/items/lucent-destroyer-bgg.md)  
-- [Mistral Mantle](/3-Mechanics/CLI/items/mistral-mantle-bgg.md)  
-- [Nimbus Coronet](/3-Mechanics/CLI/items/nimbus-coronet-bgg.md)  
-- [Orb of Skoraeus](/3-Mechanics/CLI/items/orb-of-skoraeus-bgg.md)  
-- [Prehistoric Figurine of Wondrous Power](/3-Mechanics/CLI/items/prehistoric-figurine-of-wondrous-power-bgg.md)  
-- [Reaper's Scream](/3-Mechanics/CLI/items/reapers-scream-bgg.md)  
-- [Ring of Amity](/3-Mechanics/CLI/items/ring-of-amity-bgg.md)  
-- [Sanctum Amulet](/3-Mechanics/CLI/items/sanctum-amulet-bgg.md)  
-- [Shield of the Blazing Dreadnought](/3-Mechanics/CLI/items/shield-of-the-blazing-dreadnought-bgg.md)  
-- [Staff of the Rooted Hills](/3-Mechanics/CLI/items/staff-of-the-rooted-hills-bgg.md)  
-- [Stonebreaker's Breastplate](/3-Mechanics/CLI/items/stonebreakers-breastplate-bgg.md)  
-- [Thunderbuss](/3-Mechanics/CLI/items/thunderbuss-bgg.md)  
-- [War Horn of Valor](/3-Mechanics/CLI/items/war-horn-of-valor-bgg.md)  
-- [Wayfarer's Boots](/3-Mechanics/CLI/items/wayfarers-boots-bgg.md)  
-- [Wyrmreaver Gauntlets](/3-Mechanics/CLI/items/wyrmreaver-gauntlets-bgg.md)  
-- [Zephyr Armor](/3-Mechanics/CLI/items/zephyr-armor-bgg.md)
+- [Adze of Annam](3-Mechanics/CLI/items/adze-of-annam-bgg.md)  
+- [Armor of Safeguarding](3-Mechanics/CLI/items/armor-of-safeguarding-bgg.md)  
+- [Bigby's Beneficent Bracelet](3-Mechanics/CLI/items/bigbys-beneficent-bracelet-bgg.md)  
+- [Bloodshed Blade](3-Mechanics/CLI/items/bloodshed-blade-bgg.md)  
+- [Crown of the Wrath Bringer](3-Mechanics/CLI/items/crown-of-the-wrath-bringer-bgg.md)  
+- [Delver's Claws](3-Mechanics/CLI/items/delvers-claws-bgg.md)  
+- [Glowrune Pigment](3-Mechanics/CLI/items/glowrune-pigment-bgg.md)  
+- [Harp of Gilded Plenty](3-Mechanics/CLI/items/harp-of-gilded-plenty-bgg.md)  
+- [Helm of Perfect Potential](3-Mechanics/CLI/items/helm-of-perfect-potential-bgg.md)  
+- [Lash of Immolation](3-Mechanics/CLI/items/lash-of-immolation-bgg.md)  
+- [Longbow of the Healing Hearth](3-Mechanics/CLI/items/longbow-of-the-healing-hearth-bgg.md)  
+- [Lucent Destroyer](3-Mechanics/CLI/items/lucent-destroyer-bgg.md)  
+- [Mistral Mantle](3-Mechanics/CLI/items/mistral-mantle-bgg.md)  
+- [Nimbus Coronet](3-Mechanics/CLI/items/nimbus-coronet-bgg.md)  
+- [Orb of Skoraeus](3-Mechanics/CLI/items/orb-of-skoraeus-bgg.md)  
+- [Prehistoric Figurine of Wondrous Power](3-Mechanics/CLI/items/prehistoric-figurine-of-wondrous-power-bgg.md)  
+- [Reaper's Scream](3-Mechanics/CLI/items/reapers-scream-bgg.md)  
+- [Ring of Amity](3-Mechanics/CLI/items/ring-of-amity-bgg.md)  
+- [Sanctum Amulet](3-Mechanics/CLI/items/sanctum-amulet-bgg.md)  
+- [Shield of the Blazing Dreadnought](3-Mechanics/CLI/items/shield-of-the-blazing-dreadnought-bgg.md)  
+- [Staff of the Rooted Hills](3-Mechanics/CLI/items/staff-of-the-rooted-hills-bgg.md)  
+- [Stonebreaker's Breastplate](3-Mechanics/CLI/items/stonebreakers-breastplate-bgg.md)  
+- [Thunderbuss](3-Mechanics/CLI/items/thunderbuss-bgg.md)  
+- [War Horn of Valor](3-Mechanics/CLI/items/war-horn-of-valor-bgg.md)  
+- [Wayfarer's Boots](3-Mechanics/CLI/items/wayfarers-boots-bgg.md)  
+- [Wyrmreaver Gauntlets](3-Mechanics/CLI/items/wyrmreaver-gauntlets-bgg.md)  
+- [Zephyr Armor](3-Mechanics/CLI/items/zephyr-armor-bgg.md)

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/sorcerer/draconic
 aliases:
-- Draconic Bloodline
+- "Draconic Bloodline"
 ---
 # Draconic Bloodline
 *[Sorcerer](./sorcerer.md): Sorcerous Origin*  
@@ -44,11 +44,9 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Draconic Bloodline (Level 1)
-
 Your innate magic comes from draconic magic that was mingled with your blood or that of your ancestors. Most often, sorcerers with this origin trace their descent back to a mighty sorcerer of ancient times who made a bargain with a dragon or who might even have claimed a dragon parent. Some of these bloodlines are well established in the world, but most are obscure. Any given sorcerer could be the first of a new bloodline, as a result of a pact or some other exceptional circumstance.
+
+## Subclass Features
 
 ### Dragon Ancestor (Level 1)
 
@@ -90,4 +88,4 @@ You can't manifest your wings while wearing armor unless the armor is made to ac
 
 ### Draconic Presence (Level 18)
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or [frightened](/3-Mechanics/CLI/conditions.md#Frightened). As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your [concentration](/3-Mechanics/CLI/conditions.md#Concentration) (as if you were casting a [concentration](/3-Mechanics/CLI/conditions.md#Concentration) spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) (if you chose awe) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened) (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.
+Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened). As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet. For 1 minute or until you lose your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) (as if you were casting a [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) (if you chose awe) or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) (if you chose fear) until the aura ends. A creature that succeeds on this saving throw is immune to your aura for 24 hours.

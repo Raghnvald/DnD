@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll (Loathsome Limb; Severed Head)
+- "Troll (Loathsome Limb; Severed Head)"
 ---
-# [Troll (Loathsome Limb; Severed Head)](3-Mechanics\CLI\bestiary\giant/troll-loathsome-limb-severed-head.md)
-*Source: Monster Manual p. 291, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Troll (Loathsome Limb; Severed Head)](3-Mechanics/CLI/bestiary/giant/troll-loathsome-limb-severed-head.md)
+*Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Troll (Loathsome Limb; Severed Head)"
@@ -39,13 +39,15 @@ aliases:
   - !!int "7"
 "speed": "0 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Giant"
 "cr": "5"
 "traits":
-  - "desc": "The troll has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The troll has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The troll regains 10 hit points at the start of its turn. If the troll\
       \ takes acid or fire damage, this trait doesn't function at the start of the\
@@ -53,12 +55,11 @@ aliases:
       \ and doesn't regenerate."
     "name": "Regeneration"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
 ```
 ^statblock
 

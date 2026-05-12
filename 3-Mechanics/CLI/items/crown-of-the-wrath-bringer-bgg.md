@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Crown of the Wrath Bringer"
 ---
 # Crown of the Wrath Bringer
@@ -20,6 +20,6 @@ When you make an attack roll against a creature and hit it while wearing this cr
 
 ## Invoking the Rune
 
-As an action, you can invoke the crown's rune to cast the [fear](/3-Mechanics/CLI/spells/fear-xphb.md) spell (save DC 15) with it; the spell has a duration of 1 minute and doesn't require [concentration](/3-Mechanics/CLI/conditions.md#Concentration). Once the rune has been invoked, it can't be invoked again until the next dawn.
+As an action, you can invoke the crown's rune to cast the fear spell (save DC 15) with it; the spell has a duration of 1 minute and doesn't require concentration. Once the rune has been invoked, it can't be invoked again until the next dawn.
 
 *Source: Bigby Presents: Glory of the Giants p. 111*

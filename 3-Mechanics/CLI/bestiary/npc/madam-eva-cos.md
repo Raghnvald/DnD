@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Madam Eva
+- "Madam Eva"
 ---
-# [Madam Eva](3-Mechanics\CLI\bestiary\npc/madam-eva-cos.md)
+# [Madam Eva](3-Mechanics/CLI/bestiary/npc/madam-eva-cos.md)
 *Source: Curse of Strahd p. 233*  
 
 The fortune-teller Madam Eva lives among the Vistani but isn't truly one of them. She appears to be in her seventies, but she is, in fact, much older.
@@ -66,69 +66,56 @@ None of Madam Eva's Vistani kin know her true identity or purpose. They puzzle o
 "saves":
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+7"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+8"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+13"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "Intimidation"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "Religion"
     "desc": "+7"
+"gear":
+  - "dagger"
 "senses": "passive Perception 19"
 "languages": "Abyssal, Common, Elvish, Infernal"
 "cr": "10"
 "traits":
   - "desc": "Madam Eva is a 16th-level spellcaster. Her spellcasting ability is Wisdom\
       \ (spell save DC 17, +9 to hit with spell attacks). Madam Eva has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [light](/3-Mechanics/CLI/spells/light-xphb.md),\
-      \ [mending](/3-Mechanics/CLI/spells/mending-xphb.md), [sacred flame](/3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
-      \ [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level\
-      \ (4 slots):** [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [command](/3-Mechanics/CLI/spells/command-xphb.md),\
-      \ [detect evil and good](/3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
-      \ [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\n\
-      \n**2nd level (3 slots):** [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-      \ [protection from poison](/3-Mechanics/CLI/spells/protection-from-poison-xphb.md),\
-      \ [spiritual weapon](/3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\n**3rd\
-      \ level (3 slots):** [create food and water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md),\
-      \ [speak with dead](/3-Mechanics/CLI/spells/speak-with-dead-xphb.md), [spirit\
-      \ guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md)\n\n**4th level\
-      \ (3 slots):** [divination](/3-Mechanics/CLI/spells/divination-xphb.md), [freedom\
-      \ of movement](/3-Mechanics/CLI/spells/freedom-of-movement-xphb.md), [guardian\
-      \ of faith](/3-Mechanics/CLI/spells/guardian-of-faith-xphb.md)\n\n**5th level\
-      \ (2 slots):** [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-      \ [raise dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md)\n\n**6th level (1\
-      \ slots):** [find the path](/3-Mechanics/CLI/spells/find-the-path-xphb.md),\
-      \ [harm](/3-Mechanics/CLI/spells/harm-xphb.md), [true seeing](/3-Mechanics/CLI/spells/true-seeing-xphb.md)\n\
-      \n**7th level (1 slots):** [fire storm](/3-Mechanics/CLI/spells/fire-storm-xphb.md),\
-      \ [regenerate](/3-Mechanics/CLI/spells/regenerate-xphb.md)\n\n**8th level (1\
-      \ slots):** [earthquake](/3-Mechanics/CLI/spells/earthquake-xphb.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** light, mending, sacred\
+      \ flame, thaumaturgy\n\n**1st level (4 slots):** bane, command, detect evil\
+      \ and good, protection from evil and good\n\n**2nd level (3 slots):** lesser\
+      \ restoration, protection from poison, spiritual weapon\n\n**3rd level (3 slots):**\
+      \ create food and water, speak with dead, spirit guardians\n\n**4th level (3\
+      \ slots):** divination, freedom of movement, guardian of faith\n\n**5th level\
+      \ (2 slots):** greater restoration, raise dead\n\n**6th level (1 slots):** find\
+      \ the path, harm, true seeing\n\n**7th level (1 slots):** fire storm, regenerate\n\
+      \n**8th level (1 slots):** earthquake"
     "name": "Spellcasting"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) piercing damage."
     "name": "Dagger"
   - "desc": "Madam Eva targets one creature that she can see within 30 feet of her.\
       \ The target must succeed on a DC 17 Wisdom saving throw or be cursed. While\
-      \ cursed, the target is [blinded](/3-Mechanics/CLI/conditions.md#Blinded) and\
-      \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened). The curse lasts until\
-      \ ended with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell,\
-      \ or similar magic. When the curse ends, Madam Eva takes 5d6 psychic damage."
+      \ cursed, the target is blinded and deafened. The curse lasts until ended with\
+      \ a greater restoration spell, a remove curse spell, or similar magic. When\
+      \ the curse ends, Madam Eva takes 5d6 psychic damage."
     "name": "Curse (Recharges after a Long Rest)"
   - "desc": "Madam Eva targets one creature that she can see within 10 feet of her\
       \ and casts one of the following spells on the target (save DC 17), requiring\
-      \ neither somatic nor material components to do so: [animal friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md),\
-      \ [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), or [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md).\
-      \ If the target succeeds on the initial saving throw, Madam Eva is [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ until the end of her next turn. Once a target succeeds on a saving throw against\
-      \ this effect, it is immune to the Evil Eye power of all Vistani for 24 hours."
+      \ neither somatic nor material components to do so: animal friendship, charm\
+      \ person, or hold person. If the target succeeds on the initial saving throw,\
+      \ Madam Eva is blinded until the end of her next turn. Once a target succeeds\
+      \ on a saving throw against this effect, it is immune to the Evil Eye power\
+      \ of all Vistani for 24 hours."
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/madam-eva-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/madam-eva-cos.webp"
 ```
 ^statblock

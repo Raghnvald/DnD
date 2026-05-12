@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/norse
 - ttrpg-cli/domain/war
-aliases: 
-- Thrym
+aliases:
+- "Thrym"
 ---
 # Thrym
 *Source: Player's Handbook p. 299* 

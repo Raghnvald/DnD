@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 - ttrpg-cli/race/reborn
 aliases:
-- Reborn
+- "Reborn"
 ---
 # Reborn
 *Source: Van Richten's Guide to Ravenloft p. 20*  
-![](/3-Mechanics/CLI/races/img/reborn.webp#right)
+![](3-Mechanics/CLI/races/img/reborn.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
@@ -32,14 +32,14 @@ If you don't keep any of those elements or you choose this lineage at character 
 
 You have escaped death, a fact represented by the following benefits:
 
-- You have advantage on saving throws against disease and being [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), and you have resistance to poison damage.  
+- You have advantage on saving throws against disease and being [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), and you have resistance to poison damage.  
 - You have advantage on death saving throws.  
 - You don't need to eat, drink, or breathe.  
 - You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.  
 
 ### Knowledge from a Past Life
 
-You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a `dice:d6|noform|noparens|avg` (`d6`) immediately after seeing the number on the `dice:d20|noform|noparens|avg` (`d20`) and add the number on the `dice:d6|noform|noparens|avg` (`d6`) to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a `d6` immediately after seeing the number on the `d20` and add the number on the `d6` to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Description
 
@@ -52,8 +52,6 @@ Reborn suffer from some manner of discontinuity, an interruption of their lives 
 Rather than sleeping, reborn regularly sit and dwell on the past, hoping for some revelation of what came before. Most of the time, these are dark, silent stretches. Occasionally, though, in a moment of peace, stress, or excitement, a reborn gains a glimpse of what came before. When you desire to have such a dreamlike vision, roll on the Lost Memories table to inspire its details.
 
 **Lost Memories**
-
-`dice: [](reborn-vrgr.md#^lost-memories)`
 
 | dice: d6 | Memory |
 |----------|--------|
@@ -70,8 +68,6 @@ Rather than sleeping, reborn regularly sit and dwell on the past, hoping for som
 Reborn might originate from circumstances similar to those of various undead or constructs. The Reborn Origins table provides suggestions for how your character became reborn.
 
 **Reborn Origins**
-
-`dice: [](reborn-vrgr.md#^reborn-origins)`
 
 | dice: d8 | Origins |
 |----------|---------|

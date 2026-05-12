@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Manticore
+- "Manticore"
 ---
-# [Manticore](3-Mechanics\CLI\bestiary\monstrosity/manticore.md)
+# [Manticore](3-Mechanics/CLI/bestiary/monstrosity/manticore.md)
 *Source: Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
@@ -57,8 +57,8 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
   - !!int "12"
   - !!int "8"
 "speed": "30 ft., fly 50 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
@@ -69,18 +69,18 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
   - "desc": "The manticore makes three attacks: one with its bite and two with its\
       \ claws or three with its tail spikes."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claw"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 100/200 ft., one target. *Hit:*\
       \ 7 (1d8 + 3) piercing damage."
     "name": "Tail Spike"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/manticore.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/manticore.webp"
 ```
 ^statblock
 

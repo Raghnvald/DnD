@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/14
-- new/monster/size/large
-- new/monster/type/fiend/devil
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/14
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/fiend/devil
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hulgaz
+- "Hulgaz"
 ---
-# [Hulgaz](3-Mechanics\CLI\bestiary\npc/hulgaz-bmt.md)
+# [Hulgaz](3-Mechanics/CLI/bestiary/npc/hulgaz-bmt.md)
 *Source: The Book of Many Things p. 169*  
 
 Hulgaz is a devil who hails from the stinking swamps of Minauros, the third layer of the Nine Hells. The self-styled Tempter corrupts mortals' souls by offering them tantalizing but ruinous boons. To do so, she directs her entourage of loyal succubi and incubi to the Material Plane in search of vulnerable mortals. When they find a particularly pitiful soul, Hulgaz might visit herself, offering even greater "gifts" to her victims.
@@ -70,9 +70,9 @@ As befits a duchess from boggy Minauros, Hulgaz appears regal yet perpetually so
       \ (2d8 + 3) slashing damage."
     "name": "Claw"
   - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 8 (1d10 + 3) piercing damage plus 10 (3d6) poison damage, and the target must\
-      \ succeed on a DC 17 Wisdom saving throw or have the charmed condition until\
-      \ the start of Hulgaz's next turn."
+      \ 8 (1d10 + 3) piercing damage plus 10 (3d6) poison damage, and the target\
+      \ must succeed on a DC 17 Wisdom saving throw or have the charmed condition\
+      \ until the start of Hulgaz's next turn."
     "name": "Intoxicating Sting"
   - "desc": "Hulgaz exhales a 30-foot cone of noxious, scorching-hot vapor. Each creature\
       \ in that area must succeed on a DC 17 Constitution saving throw or have the\
@@ -96,11 +96,11 @@ As befits a duchess from boggy Minauros, Hulgaz appears regal yet perpetually so
     "name": "Charm"
   - "desc": "Hulgaz sours the good feelings of her charmed victims. She chooses any\
       \ number of creatures she can see who are charmed by her. Each target takes\
-      \ 17 (5d6) psychic damage as the charmed condition applied by Hulgaz ends on\
-      \ it."
+      \ 17 (5d6) psychic damage as the charmed condition applied by Hulgaz ends\
+      \ on it."
     "name": "Curdle Heart (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/hulgaz-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/hulgaz-bmt.webp"
 ```
 ^statblock

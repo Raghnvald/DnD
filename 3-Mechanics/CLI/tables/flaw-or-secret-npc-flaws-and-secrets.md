@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Flaw or Secret; NPC Flaws and Secrets
+- "Flaw or Secret; NPC Flaws and Secrets"
 ---
 # Flaw or Secret; NPC Flaws and Secrets
 *Source: Dungeon Master's Guide p. 91* 
 
 **NPC Flaws and Secrets**
-
-`dice: [](flaw-or-secret-npc-flaws-and-secrets.md#^npc-flaws-and-secrets)`
 
 | dice: d12 | Flaw or Secret |
 |-----------|----------------|

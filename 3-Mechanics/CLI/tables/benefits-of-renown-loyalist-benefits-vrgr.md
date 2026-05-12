@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Benefits of Renown; Loyalist Benefits
+- "Benefits of Renown; Loyalist Benefits"
 ---
 # Benefits of Renown; Loyalist Benefits
 *Source: Van Richten's Guide to Ravenloft p. 131* 

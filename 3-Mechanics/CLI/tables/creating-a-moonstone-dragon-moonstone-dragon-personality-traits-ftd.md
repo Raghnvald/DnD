@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Moonstone Dragon; Moonstone Dragon Personality Traits
+- "Creating a Moonstone Dragon; Moonstone Dragon Personality Traits"
 ---
 # Creating a Moonstone Dragon; Moonstone Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 130* 
 
 **Moonstone Dragon Personality Traits**
-
-`dice: [](creating-a-moonstone-dragon-moonstone-dragon-personality-traits-ftd.md#^moonstone-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

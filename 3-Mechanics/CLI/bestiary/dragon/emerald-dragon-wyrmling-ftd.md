@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Emerald Dragon Wyrmling
+- "Emerald Dragon Wyrmling"
 ---
-# [Emerald Dragon Wyrmling](3-Mechanics\CLI\bestiary\dragon/emerald-dragon-wyrmling-ftd.md)
+# [Emerald Dragon Wyrmling](3-Mechanics/CLI/bestiary/dragon/emerald-dragon-wyrmling-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 197*  
 
 Emerald dragons are the most curious, cunning, and manipulative of the gem dragons, wielding psionic power to weave illusions to deceive and disorient. They cloak their own presence so they can observe other creatures without being discovered as they collect information on everything from local cultural practices to supernatural occurrences.
@@ -39,8 +39,6 @@ Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to in
 
 ### Emerald Dragon Personality Traits
 
-`dice: [](emerald-dragon-wyrmling-ftd.md#^trait)`
-
 | dice: d8 | Trait |
 |----------|-------|
 | 1 | I repeat what others have said back to them to make sure I have remembered it correctly. |
@@ -54,8 +52,6 @@ Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to in
 ^trait
 
 ### Emerald Dragon Ideals
-
-`dice: [](emerald-dragon-wyrmling-ftd.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -72,8 +68,6 @@ Use the Emerald Dragon Personality Traits and Emerald Dragon Ideals tables to in
 The Emerald Dragon Adventure Hooks table offers suggestions for stories and adventures involving emerald dragons.
 
 ### Emerald Dragon Adventure Hooks
-
-`dice: [](emerald-dragon-wyrmling-ftd.md#^adventure-hook)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|
@@ -92,8 +86,6 @@ The Emerald Dragon Adventure Hooks table offers suggestions for stories and adve
 Emerald dragons generally go out of their way to avoid interacting with other intelligent creatures. However, their interest in history and culture occasionally gets the better of them, prompting them to seek some engagement with the folk of the world.
 
 ### Emerald Dragon Wyrmling Connections
-
-`dice: [](emerald-dragon-wyrmling-ftd.md#^connected-creatures)`
 
 | dice: d6 | Connected Creatures |
 |----------|---------------------|
@@ -130,17 +122,16 @@ Emerald dragons generally go out of their way to avoid interacting with other in
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+4"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
 "damage_resistances": "fire, psychic"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 60 ft., passive Perception 15"
+"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 15"
 "languages": "Draconic, telepathy 120 ft."
 "cr": "2"
 "traits":
@@ -148,8 +139,8 @@ Emerald dragons generally go out of their way to avoid interacting with other in
       \ and can leave a 10-foot-diameter tunnel in its wake."
     "name": "Tunneler"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d10 + 2) piercing damage plus 3 (1d6) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 10 ft., one target. *Hit:*\
+      \ 7 (1d10 + 2) piercing damage plus 3 (1d6) psychic damage."
     "name": "Bite"
   - "desc": "The dragon exhales a wave of psychic dissonance in a 15-foot cone. Each\
       \ creature in that area must make a DC 12 Intelligence saving throw. On a failed\
@@ -160,11 +151,10 @@ Emerald dragons generally go out of their way to avoid interacting with other in
     "name": "Disorienting Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      **At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
-      \ is invisible), [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)"
+      **At will:** mage hand (the hand is invisible), minor illusion"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/emerald-dragon-wyrmling-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/emerald-dragon-wyrmling-ftd.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pirate Bosun
+- "Pirate Bosun"
 ---
-# [Pirate Bosun](3-Mechanics\CLI\bestiary\humanoid/pirate-bosun-gos.md)
+# [Pirate Bosun](3-Mechanics/CLI/bestiary/humanoid/pirate-bosun-gos.md)
 *Source: Ghosts of Saltmarsh p. 247*  
 
 The bosun (or boatswain) is tasked with organizing the cargo and crew aboard a ship. Bosuns are capable fighters whose experience with hauling cargo and delivering beatings make them tough opponents. Foul Frithoff in The Sinister Secret of Saltmarsh is the bosun who protects the cargo aboard the smugglers' ship. Ever since a bad accident, he has worn a hook at the end of one arm in place of a hand.
@@ -41,6 +41,8 @@ The bosun (or boatswain) is tasked with organizing the cargo and crew aboard a s
     "desc": "+5"
   - "name": "Intimidation"
     "desc": "+3"
+"gear":
+  - "light hammer"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/2"
@@ -54,11 +56,11 @@ The bosun (or boatswain) is tasked with organizing the cargo and crew aboard a s
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage."
     "name": "Light Hammer"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage, and the target is grappled (escape DC 13)."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage, and the target is grappled (escape DC 13)."
     "name": "Hook"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-bosun-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-bosun-gos.webp"
 ```
 ^statblock

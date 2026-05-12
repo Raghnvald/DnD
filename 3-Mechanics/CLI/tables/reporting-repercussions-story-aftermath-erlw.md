@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Reporting Repercussions; Story Aftermath
+- "Reporting Repercussions; Story Aftermath"
 ---
 # Reporting Repercussions; Story Aftermath
 *Source: Eberron: Rising from the Last War p. 95* 
 
 **Story Aftermath**
-
-`dice: [](reporting-repercussions-story-aftermath-erlw.md#^story-aftermath)`
 
 | dice: d6 | Aftermath |
 |----------|-----------|

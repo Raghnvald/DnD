@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ashdra
+- "Ashdra"
 ---
-# [Ashdra](3-Mechanics\CLI\bestiary\npc/ashdra-tftyp.md)
+# [Ashdra](3-Mechanics/CLI/bestiary/npc/ashdra-tftyp.md)
 *Source: Tales from the Yawning Portal p. 158*  
 
 ```statblock
@@ -33,23 +33,27 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
-"senses": "darkvision 120 ft., passive Perception 10"
-"languages": "any one language (usually Common), Elvish"
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
+"languages": "any one language (usually Common), Elvish, Undercommon"
 "cr": "0"
 "traits":
-  - "desc": "Ashdra\n\n**At will:** dancing lights\n\n**1/day each:** darkness, faerie\
-      \ fire"
+  - "desc": "Ashdra\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Ashdra"
     "name": "Fey Ancestry"
   - "desc": "Ashdra"
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ashdra-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ashdra-tftyp.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Side Quests
+- "Side Quests"
 ---
 # Side Quests
 *Source: Dungeon Master's Guide p. 81* 
 
 **Side Quests**
-
-`dice: [](side-quests.md#^side-quests)`
 
 | dice: d8 | Side Quest |
 |----------|------------|

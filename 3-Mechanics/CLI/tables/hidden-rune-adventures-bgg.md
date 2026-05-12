@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Hidden Rune Adventures
+- "Hidden Rune Adventures"
 ---
 # Hidden Rune Adventures
 *Source: Bigby Presents: Glory of the Giants p. 39* 
 
 **Hidden Rune Adventures**
-
-`dice: [](hidden-rune-adventures-bgg.md#^hidden-rune-adventures)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

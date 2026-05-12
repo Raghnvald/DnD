@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Sword of Vengeance"
 - "Double-Bladed Scimitar of Vengeance"
 - "Greatsword of Vengeance"
@@ -23,7 +23,7 @@ aliases:
 *Cursed item, major, uncommon (requires attunement)*  
 
 
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
@@ -33,7 +33,7 @@ This sword is cursed and possessed by a vengeful spirit. Becoming attuned to it 
 
 In addition, while the sword is on your person, you must succeed on a DC 15 Wisdom saving throw whenever you take damage in combat. On a failed save you must attack the creature that damaged you until you drop to 0 hit points or it does, or until you can't reach the creature to make a melee attack against it.
 
-You can break the curse in the usual ways. Alternatively, casting [banishment](/3-Mechanics/CLI/spells/banishment.md) on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
+You can break the curse in the usual ways. Alternatively, casting banishment on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
 
 **Variants**:
 - [Double-Bladed Scimitar of Vengeance](#Double-Bladed%20Scimitar%20of%20Vengeance)
@@ -46,13 +46,13 @@ You can break the curse in the usual ways. Alternatively, casting [banishment](/
 ### Double-Bladed Scimitar of Vengeance
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items), Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Vengeance
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items), Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Vengeance
@@ -60,25 +60,25 @@ You can break the curse in the usual ways. Alternatively, casting [banishment](/
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items), Versatile
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Vengeance
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items), Finesse
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Vengeance
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items), Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Vengeance
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Cursed](/3-Mechanics/CLI/item-properties.md#Cursed%20Items), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Cursed](3-Mechanics/CLI/rules/item-properties.md#Cursed%20Items), Finesse, Light
 - **Weight**: 2.0 lbs.
 
 

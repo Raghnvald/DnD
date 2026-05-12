@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Rapier"
 ---
 # Rapier
@@ -15,7 +15,7 @@ aliases:
 
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse)
 - **Cost**: 25 gp
 - **Weight**: 2.0 lbs.
 

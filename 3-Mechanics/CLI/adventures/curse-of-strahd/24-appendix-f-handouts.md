@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/cos
 aliases:
-- Appendix F: Handouts
+- "Appendix F: Handouts"
 ---
 # Appendix F: Handouts
 *Source: Curse of Strahd, p. 251* 
@@ -18,7 +18,7 @@ aliases:
 > 
 > I, a lowly servant of Barovia, send honor to thee. We plead for thy so desperately needed assistance.
 > 
-> The love of my life, [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), has been afflicted by an evil so deadly that even the good people of our village cannot protect her. She languishes from her wound, and I would have her saved from this menace.
+> The love of my life, [Ireena Kolyana](3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), has been afflicted by an evil so deadly that even the good people of our village cannot protect her. She languishes from her wound, and I would have her saved from this menace.
 > 
 > There is much wealth in this community. I offer all that might be had to thee and thy fellows if thou shalt but answer my desperate plea.
 > 
@@ -27,7 +27,7 @@ aliases:
 > Kolyan Indirovich Burgomaster
 ^7f0
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/210-f1.webp#center)
+![](3-Mechanics/CLI/adventures/curse-of-strahd/img/210-f1.webp#center)
 
 ## Strahd's Invitation
 
@@ -37,10 +37,10 @@ aliases:
 > 
 > Know that it is I who have brought you to this land, my home, and know that I alone can release you from it. I bid you dine at my castle so that we can meet in civilized surroundings. Your passage here will be a safe one. I await your arrival.
 > 
-> Your host, [Strahd von Zarovich](/3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)
+> Your host, [Strahd von Zarovich](3-Mechanics/CLI/bestiary/npc/strahd-von-zarovich-cos.md)
 ^7f2
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/211-f2.webp#center)
+![](3-Mechanics/CLI/adventures/curse-of-strahd/img/211-f2.webp#center)
 
 ## From the Tome of Strahd
 
@@ -68,8 +68,8 @@ aliases:
 ^7f4
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/212-f3.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/213-f4.webp#gallery)
+> ![](3-Mechanics/CLI/adventures/curse-of-strahd/img/212-f3.webp#gallery)
+> ![](3-Mechanics/CLI/adventures/curse-of-strahd/img/213-f4.webp#gallery)
 
 ## Journal of Rudolph van Richten
 
@@ -93,8 +93,8 @@ aliases:
 ^7f6
 
 > [!gallery]
-> ![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/214-f5.webp#gallery)
-> ![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/215-f6.webp#gallery)
+> ![](3-Mechanics/CLI/adventures/curse-of-strahd/img/214-f5.webp#gallery)
+> ![](3-Mechanics/CLI/adventures/curse-of-strahd/img/215-f6.webp#gallery)
 
 ## Kolyan Indirovich's Letter (version 2)
 
@@ -104,7 +104,7 @@ aliases:
 > 
 > I, the Burgomaster of Barovia, send you honor—with despair.
 > 
-> My adopted daughter, the fair [Ireena Kolyana](/3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), has been these past nights bitten by a vampyr. For over four hundred years, this creature has drained the life blood of my people. Now, my dear Ireena languishes and dies from an unholy wound caused by this vile beast. He has become too powerful to conquer.
+> My adopted daughter, the fair [Ireena Kolyana](3-Mechanics/CLI/bestiary/npc/ireena-kolyana-cos.md), has been these past nights bitten by a vampyr. For over four hundred years, this creature has drained the life blood of my people. Now, my dear Ireena languishes and dies from an unholy wound caused by this vile beast. He has become too powerful to conquer.
 > 
 > So I say to you, give us up for dead and encircle this land with the symbols of good. Let holy men call upon their power that the devil may be contained within the walls of weeping Barovia. Leave our sorrows to our graves, and save the world from this evil fate of ours.
 > 
@@ -113,7 +113,7 @@ aliases:
 > Kolyan Indirovich Burgomaster
 ^7f8
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/216-f7.webp#center)
+![](3-Mechanics/CLI/adventures/curse-of-strahd/img/216-f7.webp#center)
 
 ## Journal of Argynvost
 
@@ -130,4 +130,4 @@ aliases:
 > A
 ^7fa
 
-![](/3-Mechanics/CLI/adventures/curse-of-strahd/img/217-f8.webp#center)
+![](3-Mechanics/CLI/adventures/curse-of-strahd/img/217-f8.webp#center)

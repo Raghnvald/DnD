@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Efreeti Chain"
 ---
 # Efreeti Chain
-*Heavy armor ([chain mail](/3-Mechanics/CLI/items/chain-mail.md)), major, legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
+*Heavy armor (chain mail), major, legendary (requires attunement)*  
+![](3-Mechanics/CLI/items/img/efreeti-chain.webp#right)
 
 - **Armor Class**: 16
 - **Strength**: Requires 13 STR.

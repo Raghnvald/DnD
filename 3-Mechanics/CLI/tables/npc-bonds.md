@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- NPC Bonds
+- "NPC Bonds"
 ---
 # NPC Bonds
 *Source: Dungeon Master's Guide p. 91* 
 
 **NPC Bonds**
-
-`dice: [](npc-bonds.md#^npc-bonds)`
 
 | dice: d10 | Bond |
 |-----------|------|

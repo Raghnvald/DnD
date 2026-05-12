@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv3mc
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/mcv3mc
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Creeper
+- "Creeper"
 ---
-# [Creeper](3-Mechanics\CLI\bestiary\monstrosity/creeper-mcv3mc.md)
+# [Creeper](3-Mechanics/CLI/bestiary/monstrosity/creeper-mcv3mc.md)
 *Source: Monstrous Compendium Volume 3: Minecraft Creatures p. 4*  
 
 A creeper is a green, armless creature that emerges in darkness and silently prowls the Overworld on its four short legs. Its peculiar face bears no clue of its motives, but its destructiveness makes it one of the greatest threats to both life and property in the Overworld.
@@ -42,18 +42,21 @@ If a creeper is struck by lightning, rather than being harmed, it becomes charge
   - !!int "3"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "lightning"
-"condition_immunities": "exhaustion"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "1/2"
 "traits":
-  - "desc": "The creeper can't take actions except for Dash, Disengage, Hide, and\
-      \ Search. It can't take bonus actions or reactions."
+  - "desc": "The creeper can't take actions except for [Dash](3-Mechanics/CLI/rules/actions.md#Dash),\
+      \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage), [Hide](3-Mechanics/CLI/rules/actions.md#Hide),\
+      \ and [Search](3-Mechanics/CLI/rules/actions.md#Search). It can't take bonus\
+      \ actions or reactions."
     "name": "Bizarre Physiology"
   - "desc": "When a creeper drops to 0 hit points from a charged creeper's explosion\
       \ (see the Destruction trait), it dies and its head falls off. A creeper's fallen\
@@ -80,12 +83,12 @@ If a creeper is struck by lightning, rather than being harmed, it becomes charge
       \ and instead becomes charged for 1 minute. While charged, the creeper emits\
       \ dim blue light in a 5-foot radius."
     "name": "Electrical Charge"
-  - "desc": "The creeper has the frightened condition whenever it starts its turn\
-      \ within 60 feet of a feline creature it can see. The condition lasts until\
-      \ the start of the creeper's next turn."
+  - "desc": "The creeper has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition whenever it starts its turn within 60 feet of a feline creature\
+      \ it can see. The condition lasts until the start of the creeper's next turn."
     "name": "Fear of Felines"
 "source":
   - "MCV3MC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/creeper-mcv3mc.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/creeper-mcv3mc.webp"
 ```
 ^statblock

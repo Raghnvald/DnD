@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/rarity/none
-- new/item/vehicle/land
-aliases: 
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/item/rarity/none
+- ttrpg-cli/item/vehicle/land
+aliases:
 - "Dogsled"
 ---
 # Dogsled

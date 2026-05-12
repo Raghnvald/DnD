@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Linked Locations; Location Connections
+- "Linked Locations; Location Connections"
 ---
 # Linked Locations; Location Connections
 *Source: Guildmasters' Guide to Ravnica p. 123* 
 
 **Location Connections**
-
-`dice: [](linked-locations-location-connections-ggr.md#^location-connections)`
 
 | dice: d6 | Adventure Connection |
 |----------|----------------------|

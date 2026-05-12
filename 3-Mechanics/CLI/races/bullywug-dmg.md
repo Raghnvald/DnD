@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/bullywug
 aliases:
-- Bullywug
+- "Bullywug"
 ---
 # Bullywug
 *Source: Dungeon Master's Guide p. 282*  
@@ -28,7 +28,7 @@ You can communicate simple concepts to frogs and toads when you speak in Bullywu
 
 ### Swamp Camouflage
 
-You have advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks made to hide in swampy terrain.
+You have advantage on Dexterity (Stealth) checks made to hide in swampy terrain.
 
 ### Standing Leap
 

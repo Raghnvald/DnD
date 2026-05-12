@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Poisoner
+- "Hybrid Poisoner"
 ---
-# [Hybrid Poisoner](3-Mechanics\CLI\bestiary\humanoid/hybrid-poisoner-ggr.md)
+# [Hybrid Poisoner](3-Mechanics/CLI/bestiary/humanoid/hybrid-poisoner-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 217*  
 
 ## Simic Hybrids
@@ -23,7 +23,7 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "name": "Hybrid Poisoner (GGR)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Simic hybrid"
+"subtype": "simic hybrid"
 "alignment": "Neutral Good"
 "ac": !!int "14"
 "hp": !!int "26"
@@ -41,37 +41,34 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
   - "dexterity": !!int "6"
   - "constitution": !!int "4"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 13"
+"condition_immunities": "poisoned"
+"senses": "darkvision 30 ft., passive Perception 13"
 "languages": "Common plus any one language"
 "cr": "1"
 "traits":
   - "desc": "During its first turn, the hybrid poisoner has advantage on attack rolls\
       \ against any creature that hasn't taken a turn. Any hit the hybrid scores against\
-      \ a [surprised](/3-Mechanics/CLI/conditions.md#Surprised) creature is a critical\
-      \ hit."
+      \ a surprised creature is a critical hit."
     "name": "Assassinate"
   - "desc": "Any creature that touches the hybrid or hits it with a melee attack while\
       \ within 5 feet of it takes 3 (1d6) poison damage."
     "name": "Poisonous Skin"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (2d6)\
-      \ bludgeoning damage, and the target must succeed on a DC 12 Constitution saving\
-      \ throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) for 1\
-      \ minute. At the end of each of the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ target's turns, it must repeat the save, taking 3 (1d6) poison damage on a\
-      \ failed save, or ending the effect on itself on a successful one."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d6) bludgeoning damage, and the target must succeed on a DC 12 Constitution\
+      \ saving throw or become poisoned for 1 minute. At the end of each of the poisoned\
+      \ target's turns, it must repeat the save, taking 3 (1d6) poison damage on\
+      \ a failed save, or ending the effect on itself on a successful one."
     "name": "Toxic Touch"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/hybrid-poisoner-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/hybrid-poisoner-ggr.webp"
 ```
 ^statblock

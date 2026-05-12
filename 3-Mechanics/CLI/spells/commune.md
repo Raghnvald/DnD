@@ -10,12 +10,14 @@ tags:
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
 - ttrpg-cli/spell/subclass/oath-of-devotion
+- ttrpg-cli/spell/subclass/oath-of-glory
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Paladin (Oath of Devotion)
+- Paladin (Oath of Glory)
 aliases:
-- Commune
+- "Commune"
 ---
 # Commune
 *5th-level, Divination (ritual)*  
@@ -32,6 +34,6 @@ Divine beings aren't necessarily omniscient, so you might receive "unclear" as a
 
 If you cast the spell two or more times before finishing your next long rest, there is a cumulative  chance for each casting after the first that you get no answer. The DM makes this roll in secret.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md); [Paladin (Oath of Glory)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-glory-tce.md "subclass=TCE")
 
 *Source: Player's Handbook p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

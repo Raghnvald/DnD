@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Tutor Assignments
+- "Tutor Assignments"
 ---
 # Tutor Assignments
 *Source: Bigby Presents: Glory of the Giants p. 60* 
 
 **Tutor Assignments**
-
-`dice: [](tutor-assignments-bgg.md#^tutor-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

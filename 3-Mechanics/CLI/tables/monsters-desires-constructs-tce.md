@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Constructs
+- "Monsters' Desires; Constructs"
 ---
 # Monsters' Desires; Constructs
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Constructs**
-
-`dice: [](monsters-desires-constructs-tce.md#^constructs)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

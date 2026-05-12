@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bulette
+- "Bulette"
 ---
-# [Bulette](3-Mechanics\CLI\bestiary\monstrosity/bulette-xmm.md)
+# [Bulette](3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md)
 *Source: Monster Manual (2024) p. 63. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Bulettes range under vast territories. They often threaten animal herds, and they can wipe out whole farming communities.
@@ -47,21 +47,22 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
   - !!int "5"
 "speed": "40 ft., burrow 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., Tremorsense\
   \ 120 ft., passive Perception 16"
 "languages": ""
 "cr": "5"
 "actions":
   - "desc": "The bulette makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 17 (2d12 + 4) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 17 (2d12 + 4) Piercing\
+      \ damage."
     "name": "Bite"
   - "desc": "The bulette spends 5 feet of movement to jump to a space within 15 feet\
       \ that contains one or more Large or smaller creatures. *Dexterity Saving Throw:*\
       \ DC 15, each creature in the bulette's destination space. *Failure:* 19 (3d12)\
-      \ Bludgeoning damage, and the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ Bludgeoning damage, and the target has the [Prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ condition. *Success:* Half damage, and the target is pushed 5 feet straight\
       \ away from the bulette."
     "name": "Deadly Leap"
@@ -70,7 +71,7 @@ Also called "land sharks," bulettes are single-minded predators that burrow unde
     "name": "Leap"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/bulette-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/bulette-xmm.webp"
 ```
 ^statblock
 

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Chapter 4: Building Eberron Adventures - Sharn
+- "Chapter 4: Building Eberron Adventures - Sharn"
 ---
 # Chapter 4: Building Eberron Adventures - Sharn
 *Source: Eberron: Rising from the Last War, p. 239* 
@@ -20,7 +20,7 @@ Sharn can also be a place of unrelenting action, ranging from soarsleds speeding
 
 You can use the Life in the City table to generate ideas for adventures set in Sharn.
 
-![Adventures in Sharn; Life in the City](/3-Mechanics/CLI/tables/adventures-in-sharn-life-in-the-city-erlw.md)
+![Adventures in Sharn; Life in the City](3-Mechanics/CLI/tables/adventures-in-sharn-life-in-the-city-erlw.md)
 
 ### Home, Sweet Home
 
@@ -44,13 +44,13 @@ When the players decide to learn more, it's up to you to figure out what they ca
 - Why isn't anyone else getting involved? What is complicating this situation?  
 - What do the people involved hope is going to happen next? What are they afraid might happen next? How are the circumstances changed because the characters have witnessed the event?  
 
-![What Happens Next?; Home Base](/3-Mechanics/CLI/tables/what-happens-next-home-base-erlw.md)
+![What Happens Next?; Home Base](3-Mechanics/CLI/tables/what-happens-next-home-base-erlw.md)
 
-![What Happens Next?; Lower Sharn Street Events](/3-Mechanics/CLI/tables/what-happens-next-lower-sharn-street-events-erlw.md)
+![What Happens Next?; Lower Sharn Street Events](3-Mechanics/CLI/tables/what-happens-next-lower-sharn-street-events-erlw.md)
 
-![What Happens Next?; Upper Sharn Street Events](/3-Mechanics/CLI/tables/what-happens-next-upper-sharn-street-events-erlw.md)
+![What Happens Next?; Upper Sharn Street Events](3-Mechanics/CLI/tables/what-happens-next-upper-sharn-street-events-erlw.md)
 
-![What Happens Next?; Skyway Street Events](/3-Mechanics/CLI/tables/what-happens-next-skyway-street-events-erlw.md)
+![What Happens Next?; Skyway Street Events](3-Mechanics/CLI/tables/what-happens-next-skyway-street-events-erlw.md)
 
 ### Sharn Heights
 
@@ -63,14 +63,14 @@ Map 4.11 shows a typical Sharn location that contains intersections of bridges a
 The bridges are connected to businesses and residences. The residences are usually locked, while most shops lock up at night. The taverns and gambling dens are open for business all day and well into the night. One of the bridges connects to a skycoach parking station, which houses several of those vehicles. Other bridges lead to an elevator, garden overlooks, and staircases that take pedestrians farther up and down into the city.
 
 > [!gallery]
-> ![Map 4.11: Sharn Heights](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/135-map411_sharn_flat_gs.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/136-map411_sharn_flat_gs-player.webp#gallery)
+> ![Map 4.11: Sharn Heights](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/135-map411_sharn_flat_gs.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/136-map411_sharn_flat_gs-player.webp#gallery)
 
 #### Sharn Heights Adventures
 
 Adventures in Sharn heights are perfect for pulp action scenes. Narrow bridges, moving platforms, and great heights come together in a public place that's a perfect location for swashbuckling battles, tense hostage negotiations, and over-the-top heists. The Sharn Heights Adventures table offers reasons why your characters might need to visit such a location. In addition, the characters could meet with a Boromar Clan or House Tarkanan patron in Sharn heights.
 
-![Sharn Heights Adventures](/3-Mechanics/CLI/tables/sharn-heights-adventures-erlw.md)
+![Sharn Heights Adventures](3-Mechanics/CLI/tables/sharn-heights-adventures-erlw.md)
 
 ## Crime in Sharn
 
@@ -95,15 +95,15 @@ Although the powerful organizations in Sharn have a hand in most criminal activi
 > **Dreamlily**. A psychoactive liquid that smells and tastes like your favorite beverage, essence of dreamlily is a Sarlonan opiate. First imported to help manage pain during the Last War, it's now the most commonly abused substance in Sharn. Though dreamlily isn't illegal if used for medicinal purposes, it's heavily taxed, and thus most dreamlily is smuggled in and sold on the black market. Dreamlily dens can be found across the lower wards. Consuming dreamlily causes disorienting euphoria and brings about remarkable resistance to pain. A creature under the effects of dreamlily is poisoned for 1 hour. While poisoned in this way, the creature is immune to fear, and the first time it drops to 0 hit points without being killed outright, it drops to 1 hit point instead. A dose of dreamlily costs around 1 gp, or up to ten times that if purchased through legal channels. There are many varieties of the drug, however, and the duration or the price might vary accordingly.
 ^narcotics-in-sharn
 
-![Crime in Sharn; Criminal Organizations in Sharn](/3-Mechanics/CLI/tables/crime-in-sharn-criminal-organizations-in-sharn-erlw.md)
+![Crime in Sharn; Criminal Organizations in Sharn](3-Mechanics/CLI/tables/crime-in-sharn-criminal-organizations-in-sharn-erlw.md)
 
-![Crime in Sharn; Street Gangs](/3-Mechanics/CLI/tables/crime-in-sharn-street-gangs-erlw.md)
+![Crime in Sharn; Street Gangs](3-Mechanics/CLI/tables/crime-in-sharn-street-gangs-erlw.md)
 
 ## The Boromar Clan
 
 The most powerful criminal organization in Sharn started as a family of halfling immigrants from the Talenta Plains. Operating out of its headquarters and key holdings in the Little Plains district of Middle Menthis, the Boromar Clan controls gambling, smuggling, and theft in Sharn. Most of the city's burglars, pickpockets, and fences either work for or pay tithes to the organization. The Boromar Clan's network of extortion, bribery, and blackmail extends from Lower Dura to Skyway.
 
-![Clawfoot Dinosaur](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/137-4-10.webp#center)
+![Clawfoot Dinosaur](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/137-4-10.webp#center)
 
 The Boromars' influence extends beyond criminal enterprises into many legitimate circles of power. Ilyra Boromar sits on the city council, and a number of other councilors are close allies of the clan. The family has ties by marriage to House Jorasco. A Boromar attends every Skyway party. The family owns tenements throughout Sharn and invests in shipping, storing both legal goods and contraband in many of the warehouses in Precarious and Cogsgate. In many districts, local officials and Sharn Watch officers have been taking bribes from the Boromars for generations.
 
@@ -151,14 +151,14 @@ The casino floor in the nightclub has tables running games of chance, a bar, and
 Boromar's security and management offices are connected by a hallway to the casino floor, the secret meeting room, and a second secret area used to store illegal contraband or captives. Occupants of both offices can see into these attached areas by way of magic one-way mirrors.
 
 > [!gallery]
-> ![Map 4.12: Nightclub](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/138-map412_nightclub.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/139-map412_nightclub-player.webp#gallery)
+> ![Map 4.12: Nightclub](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/138-map412_nightclub.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/139-map412_nightclub-player.webp#gallery)
 
 #### Shady Nightclub Adventures
 
 The Shady Nightclub Adventures table offers reasons for the characters to enter one of these dangerous places. If the characters have a Boromar patron, that NPC could use a shady nightclub as a base of operations.
 
-![Shady Nightclub Adventures](/3-Mechanics/CLI/tables/shady-nightclub-adventures-erlw.md)
+![Shady Nightclub Adventures](3-Mechanics/CLI/tables/shady-nightclub-adventures-erlw.md)
 
 ### Boromar Villains
 
@@ -166,7 +166,7 @@ With few exceptions, Boromar villains shun violence and would prefer to bribe, d
 
 Examples of Boromar Clan villains appear on the Boromar Clan Villains table.
 
-![Boromar Villains](/3-Mechanics/CLI/tables/boromar-villains-erlw.md)
+![Boromar Villains](3-Mechanics/CLI/tables/boromar-villains-erlw.md)
 
 ### Boromar Clan Campaign Themes
 
@@ -174,13 +174,13 @@ The true power of the Boromar Clan lies in its institutions: watch officers who 
 
 The Boromar Clan could serve as a group patron for a party of adventurers, as described in "chapter 1". The Boromar Clan Assignments table provides goals for adventurers who are working with the clan, and the ""Crime Syndicate"" section of "chapter 1" includes additional ideas.
 
-![Boromar Clan Campaign Themes; Boromar Clan Assignments](/3-Mechanics/CLI/tables/boromar-clan-campaign-themes-boromar-clan-assignments-erlw.md)
+![Boromar Clan Campaign Themes; Boromar Clan Assignments](3-Mechanics/CLI/tables/boromar-clan-campaign-themes-boromar-clan-assignments-erlw.md)
 
 ### Boromar Clan Adventure Hooks
 
 The Boromar Clan Adventure Hooks table presents ideas for additional adventures themed around the Boromar Clan.
 
-![Boromar Clan Adventure Hooks](/3-Mechanics/CLI/tables/boromar-clan-adventure-hooks-erlw.md)
+![Boromar Clan Adventure Hooks](3-Mechanics/CLI/tables/boromar-clan-adventure-hooks-erlw.md)
 
 ## Daask
 
@@ -205,11 +205,11 @@ Daask's lower ranks are made up of goblinoids, humans, shifters, and other human
 Some of Daask's most important members are these individuals:
 
 - Sora Katra is the ultimate leader of Daask, but as one of the Daughters of Sora Kell, she remains in Droaam. The hag stays in contact with all of her main subordinates by magic and keeps a detailed ledger of the group's activities.  
-- Cavallah is a disciplined female [oni](/3-Mechanics/CLI/bestiary/giant/oni.md) and the current leader of the Daask cell in Sharn. She is the mastermind of the organization's machinations against the Boromar Clan, a scholar obsessed with studying Sharn's manifest zone, and a devoted servant of Sora Katra. The [oni](/3-Mechanics/CLI/bestiary/giant/oni.md) wears a *hag eye* (see "Hags" in the "Monster Manual") that enables Sora Katra to both see and hear what occurs in her presence.  
-- Harash, a male [medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa.md), is Cavallah's right hand. He is a specialist in diplomacy and intimidation whom Cavallah trusts to monitor the members of Daask and maintain morale.  
+- Cavallah is a disciplined female oni and the current leader of the Daask cell in Sharn. She is the mastermind of the organization's machinations against the Boromar Clan, a scholar obsessed with studying Sharn's manifest zone, and a devoted servant of Sora Katra. The oni wears a *hag eye* (see "Hags" in the "Monster Manual") that enables Sora Katra to both see and hear what occurs in her presence.  
+- Harash, a male medusa, is Cavallah's right hand. He is a specialist in diplomacy and intimidation whom Cavallah trusts to monitor the members of Daask and maintain morale.  
 - Ash is a female human priest of the Shadow. As the most powerful and beloved of Daask's priests, she runs the Temple of the Six. Some worry that Ash plans to challenge Cavallah for leadership, which could cause a rift in the organization's membership.  
-- The [gnoll](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) Keshta commands a small unit of elite gnoll commandos. Disciplined and ruthless, these soldiers are often called upon to carry out retaliatory strikes against those who defy Daask.  
-- Zaeran, an elf [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md), is a recent arrival to Sharn. He's one of the sons of the Droaamish warlord Zaeurl. Zaeran has come to the city with a small group of wererats and werewolves, and has an agenda known only to himself and Sora Katra.  
+- The gnoll Keshta commands a small unit of elite gnoll commandos. Disciplined and ruthless, these soldiers are often called upon to carry out retaliatory strikes against those who defy Daask.  
+- Zaeran, an elf werewolf, is a recent arrival to Sharn. He's one of the sons of the Droaamish warlord Zaeurl. Zaeran has come to the city with a small group of wererats and werewolves, and has an agenda known only to himself and Sora Katra.  
 
 ### Cog Hub
 
@@ -226,14 +226,14 @@ These passages converge into a single large chamber that can hold a large group 
 Smaller rooms with heavy iron doors adjoin the largest chamber. These rooms can serve as holding cells for captives, vaults for valuables, or hiding spots.
 
 > [!gallery]
-> ![Map 4.13: Cog Hub](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/140-map413_coghub.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/141-map413_coghub-player.webp#gallery)
+> ![Map 4.13: Cog Hub](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/140-map413_coghub.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/141-map413_coghub-player.webp#gallery)
 
 #### Cog Hub Adventures
 
 The Cog Hub Adventures table offers reasons why your characters might need to visit such a location. In addition, the characters could meet with a Daask patron in a Cog hub.
 
-![Cog Hub Adventures](/3-Mechanics/CLI/tables/cog-hub-adventures-erlw.md)
+![Cog Hub Adventures](3-Mechanics/CLI/tables/cog-hub-adventures-erlw.md)
 
 ### Daask Villains
 
@@ -241,7 +241,7 @@ If Daask villains want something, they take it, and they destroy anything that g
 
 Examples of Daask villains appear on the Daask Villains table.
 
-![Daask Villains](/3-Mechanics/CLI/tables/daask-villains-erlw.md)
+![Daask Villains](3-Mechanics/CLI/tables/daask-villains-erlw.md)
 
 ### Daask Campaign Themes
 
@@ -258,13 +258,13 @@ Dreamlily is relatively safe; dragon's blood is not. Its effects are intentional
 
 Daask can also serve as a group patron for a party of adventurers, as described in "chapter 1". The Daask Assignments table provides objectives for adventurers working with the organization, and the discussion of crime syndicates in "chapter 1" includes additional ideas for parties with a crime syndicate patron.
 
-![Daask Assignments](/3-Mechanics/CLI/tables/daask-assignments-erlw.md)
+![Daask Assignments](3-Mechanics/CLI/tables/daask-assignments-erlw.md)
 
 ### Daask Adventure Hooks
 
 The Daask Adventure Hooks table presents ideas for additional adventures themed around Daask.
 
-![Daask Adventure Hooks](/3-Mechanics/CLI/tables/daask-adventure-hooks-erlw.md)
+![Daask Adventure Hooks](3-Mechanics/CLI/tables/daask-adventure-hooks-erlw.md)
 
 ## House Tarkanan
 
@@ -299,7 +299,7 @@ Because House Tarkanan helps all those who have aberrant dragonmarks, the organi
 
 Some House Tarkanan villains are obsessed with bringing down the dragonmarked houses. Others are willing to take innocent lives if doing so means saving one person with an aberrant mark. Sample villains appear on the House Tarkanan Villains table.
 
-![House Tarkanan Villains](/3-Mechanics/CLI/tables/house-tarkanan-villains-erlw.md)
+![House Tarkanan Villains](3-Mechanics/CLI/tables/house-tarkanan-villains-erlw.md)
 
 ### House Tarkanan Campaign Themes
 
@@ -309,13 +309,13 @@ To use House Tarkanan as a recurring villain, you can stress its ruthlessness an
 
 If one or more of the adventurers has an aberrant dragonmark, House Tarkanan can also serve as a group patron for a party of adventurers, as described in "chapter 1". The House Tarkanan Assignments table provides hooks for adventurers who are working with the organization, and the discussion of crime syndicates in "chapter 1" includes additional ideas.
 
-![House Tarkanan Assignments](/3-Mechanics/CLI/tables/house-tarkanan-assignments-erlw.md)
+![House Tarkanan Assignments](3-Mechanics/CLI/tables/house-tarkanan-assignments-erlw.md)
 
 ### House Tarkanan Adventure Hooks
 
 The House Tarkanan Adventure Hooks table presents ideas for adventures themed around House Tarkanan.
 
-![House Tarkanan Adventure Hooks](/3-Mechanics/CLI/tables/house-tarkanan-adventure-hooks-erlw.md)
+![House Tarkanan Adventure Hooks](3-Mechanics/CLI/tables/house-tarkanan-adventure-hooks-erlw.md)
 
 ## The Tyrants
 
@@ -345,7 +345,7 @@ The following individuals are some of the Tyrant's most important identities:
 
 The Tyrants are a covert force. They operate in the shadows, trade identities, and like to manipulate their enemies into fighting each other. Tyrant villains rarely show their true faces. Examples of Tyrants villains appear on the Tyrants Villains table.
 
-![Tyrants Villains](/3-Mechanics/CLI/tables/tyrants-villains-erlw.md)
+![Tyrants Villains](3-Mechanics/CLI/tables/tyrants-villains-erlw.md)
 
 ### Tyrants Campaign Themes
 
@@ -359,15 +359,15 @@ The Tyrants could also have a long-term sinister agenda—something they've been
 
 The Tyrants can also serve as a group patron for a party of adventurers, as described in "chapter 1", especially if the party includes one or more changelings. The Tyrants Assignments table provides hooks for adventurers working with the organization, and the discussion of crime syndicates in "chapter 1" includes additional ideas.
 
-![Tyrants Campaign Themes; Tyrants Assignments](/3-Mechanics/CLI/tables/tyrants-campaign-themes-tyrants-assignments-erlw.md)
+![Tyrants Campaign Themes; Tyrants Assignments](3-Mechanics/CLI/tables/tyrants-campaign-themes-tyrants-assignments-erlw.md)
 
 ### Tyrants Adventure Hooks
 
 The Tyrants Adventure Hooks table presents ideas for additional adventures themed around the Tyrants.
 
-![Tyrants Adventure Hooks](/3-Mechanics/CLI/tables/tyrants-adventure-hooks-erlw.md)
+![Tyrants Adventure Hooks](3-Mechanics/CLI/tables/tyrants-adventure-hooks-erlw.md)
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/142-4-11.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/142-4-11.webp#center)
 
 ## Sharn Watch
 
@@ -407,13 +407,13 @@ Some of the Sharn Watch's most important people are as follows:
 - Commander Belew Yorgan is a male dwarf who leads the Sword Point garrison in Middle Central. He does his best to serve the interests of the nobles and wealthy patrons in the Central Plateau, and as a result these wards are among the safest in Sharn. But Yorgan's loyalties are first and foremost to his purse, and the troops under his command serve whoever's paying the most.  
 - Commander Silaena Cazal is a female elf who runs the Warden Towers garrison in Middle Menthis. Over a century of service, she has woven a net of graft and extortion across Menthis Plateau; she looks after those who pay their dues. Her mother was driven from House Phiarlan when she developed an aberrant dragonmark. Because of that treatment, Silaena harbors deep resentment for the dragonmarked houses and will occasionally take actions to inconvenience them. Thora Tavin of House Tarkanan is working to strengthen her relationship with Commander Cazal.  
 - Commander Iyanna ir'Talan is a female human who commands the Black Arch garrison in Lower Tavick's Landing. The daughter of the Lord Commander, Iyanna is idealistic and honorable. She fights for the good of the common people. If the adventurers need an honest ally in the Watch, Iyanna is perhaps their best hope. Despite her father's best efforts to keep her from getting entangled in the criminal underworld, her actions have won her no friends among Sharn's crime lords, and her life could be in danger despite her parentage.  
-- Lady Warden Maira ir'Talan, a distant relative of the Lord Commander, leads the Blackened Book. A gifted diviner, Maira is a highly effective leader. What none know is that she's also an agent of the Dreaming Dark. Five years ago, a [kalaraq quori](/3-Mechanics/CLI/bestiary/aberration/kalaraq-quori-erlw.md) (see "chapter 6") named Tirashana implanted a mind seed in her thoughts. Maira continues to do her job while concealing any evidence of the Dreaming Dark's schemes.  
+- Lady Warden Maira ir'Talan, a distant relative of the Lord Commander, leads the Blackened Book. A gifted diviner, Maira is a highly effective leader. What none know is that she's also an agent of the Dreaming Dark. Five years ago, a [kalaraq quori](3-Mechanics/CLI/bestiary/aberration/kalaraq-quori-erlw.md) (see "chapter 6") named Tirashana implanted a mind seed in her thoughts. Maira continues to do her job while concealing any evidence of the Dreaming Dark's schemes.  
 - Captain Daja Brel is a female human who commands the Guardians of the Gate. Daja firmly believes that the Guardians are all that stands between order and chaos in Sharn, and she acts with unbridled force if she believes a group or an individual threatens the city.  
 - Captain Khandan Dol is a male dwarf who leads the Redcloak Battalion. Khandan is a local legend who served in the Brelish army throughout the Last War; he was knighted by the last king of Galifar and swore an oath to the first queen of Breland. He enjoys drinking and gambling. He takes discipline seriously, though, and expects his soldiers to show complete loyalty to their country and its king. Because of his experiences in the war, he has a deep dislike for Thranes and followers of the Silver Flame, but he rarely lets these feelings interfere with his duties.  
 
-![Sharn Watch Races](/3-Mechanics/CLI/tables/sharn-watch-races-erlw.md)
+![Sharn Watch Races](3-Mechanics/CLI/tables/sharn-watch-races-erlw.md)
 
-![Sharn Watch Personalities](/3-Mechanics/CLI/tables/sharn-watch-personalities-erlw.md)
+![Sharn Watch Personalities](3-Mechanics/CLI/tables/sharn-watch-personalities-erlw.md)
 
 ### Watch Station
 
@@ -423,13 +423,13 @@ A typical Sharn Watch station has two well-guarded entrances. One is connected t
 
 The Watch Station Adventures table offers reasons why the characters might need to visit (or break into) such a location.
 
-![Watch Station Adventures](/3-Mechanics/CLI/tables/watch-station-adventures-erlw.md)
+![Watch Station Adventures](3-Mechanics/CLI/tables/watch-station-adventures-erlw.md)
 
 ### Sharn Watch Villains
 
 Corrupt or extremist members of the Sharn Watch are villains of a special sort: legitimate authority figures who have access to the city's law-enforcement resources. The protections these villains enjoy often call for drastic measures to stop them, which the characters might be labeled as criminals themselves and might have to go underground to avoid arrest or harassment. Examples of Sharn Watch villains appear on the Sharn Watch Villains table.
 
-![Sharn Watch Villains](/3-Mechanics/CLI/tables/sharn-watch-villains-erlw.md)
+![Sharn Watch Villains](3-Mechanics/CLI/tables/sharn-watch-villains-erlw.md)
 
 #### Sharn Watch Campaign Themes
 
@@ -439,12 +439,12 @@ Another option is to focus a story on Commander Iyanna and her efforts to purge 
 
 If the adventurers do form an alliance with a Watch officer, you can use the Sharn Watch Assignments table to create adventure hooks for parties and side quests for individual characters—cases their ally doesn't trust the Watch regulars to handle fairly.
 
-![Sharn Watch Assignments](/3-Mechanics/CLI/tables/sharn-watch-assignments-erlw.md)
+![Sharn Watch Assignments](3-Mechanics/CLI/tables/sharn-watch-assignments-erlw.md)
 
 ### Sharn Watch Adventure Hooks
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/143-4-12.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/143-4-12.webp#center)
 
 The Sharn Watch Adventure Hooks table presents ideas for additional adventures themed around the Sharn Watch.
 
-![Sharn Watch Adventure Hooks](/3-Mechanics/CLI/tables/sharn-watch-adventure-hooks-erlw.md)
+![Sharn Watch Adventure Hooks](3-Mechanics/CLI/tables/sharn-watch-adventure-hooks-erlw.md)

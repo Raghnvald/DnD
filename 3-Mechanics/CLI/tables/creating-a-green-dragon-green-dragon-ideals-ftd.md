@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Green Dragon; Green Dragon Ideals
+- "Creating a Green Dragon; Green Dragon Ideals"
 ---
 # Creating a Green Dragon; Green Dragon Ideals
 *Source: Fizban's Treasury of Dragons p. 126* 
 
 **Green Dragon Ideals**
-
-`dice: [](creating-a-green-dragon-green-dragon-ideals-ftd.md#^green-dragon-ideals)`
 
 | dice: d6 | Ideal |
 |----------|-------|

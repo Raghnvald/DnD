@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/war
-aliases: 
-- Bahamut
+aliases:
+- "Bahamut"
 ---
 # Bahamut
 *Source: Dungeon Master's Guide p. 10* 

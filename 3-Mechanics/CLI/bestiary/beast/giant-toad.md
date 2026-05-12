@@ -15,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Toad
+- "Giant Toad"
 ---
-# [Giant Toad](3-Mechanics\CLI\bestiary\beast/giant-toad.md)
-*Source: Monster Manual p. 329, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Toad](3-Mechanics/CLI/bestiary/beast/giant-toad.md)
+*Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Toad"
@@ -37,7 +37,8 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "20 ft., swim 40 ft."
-"senses": "darkvision 30 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1"
 "traits":
@@ -47,24 +48,25 @@ aliases:
       \ with or without a running start."
     "name": "Standing Leap"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10\
-      \ + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled\
-      \ (escape DC 13). Until this grapple ends, the target is restrained, and the\
-      \ toad can't bite another target."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target\
+      \ is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13).\
+      \ Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the toad can't bite another target."
     "name": "Bite"
   - "desc": "The toad makes one bite attack against a Medium or smaller target it\
       \ is grappling. If the attack hits, the target is swallowed, and the grapple\
-      \ ends. The swallowed target is blinded and restrained, it has total cover against\
-      \ attacks and other effects outside the toad, and it takes 10 (3d6) acid damage\
-      \ at the start of each of the toad's turns. The toad can have only one target\
-      \ swallowed at a time.\n\nIf the toad dies, a swallowed creature is no longer\
-      \ restrained by it and can escape from the corpse using 5 feet of movement,\
-      \ exiting prone."
+      \ ends. The swallowed target is [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), it has total\
+      \ cover against attacks and other effects outside the toad, and it takes 10\
+      \ (3d6) acid damage at the start of each of the toad's turns. The toad can\
+      \ have only one target swallowed at a time.\n\nIf the toad dies, a swallowed\
+      \ creature is no longer [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by it and can escape from the corpse using 5 feet of movement, exiting [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Swallow"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-toad.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-toad.webp"
 ```
 ^statblock
 

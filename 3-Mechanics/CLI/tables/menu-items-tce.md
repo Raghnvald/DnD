@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Menu Items
+- "Menu Items"
 ---
 # Menu Items
 *Source: Tasha's Cauldron of Everything p. 187* 

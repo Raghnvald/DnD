@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Variations; Yuan-ti Snake Head Shape
+- "Physical Variations; Yuan-ti Snake Head Shape"
 ---
 # Physical Variations; Yuan-ti Snake Head Shape
 *Source: Volo's Guide to Monsters p. 97* 
 
 **Yuan-ti Snake Head Shape**
-
-`dice: [](physical-variations-yuan-ti-snake-head-shape-vgm.md#^yuan-ti-snake-head-shape)`
 
 | dice: d20 | Snake Head Shape |
 |-----------|------------------|

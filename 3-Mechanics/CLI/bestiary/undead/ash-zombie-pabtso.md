@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ash Zombie
+- "Ash Zombie"
 ---
-# [Ash Zombie](3-Mechanics\CLI\bestiary\undead/ash-zombie-pabtso.md)
+# [Ash Zombie](3-Mechanics/CLI/bestiary/undead/ash-zombie-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 52*  
 
 ```statblock
@@ -35,9 +35,9 @@ aliases:
 "saves":
   - "wisdom": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 8"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "understands all languages it spoke in life but can't speak"
 "cr": "1/4"
 "traits":
@@ -49,11 +49,11 @@ aliases:
       \ but does not obscure vision."
     "name": "Ash Cloud"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage."
     "name": "Slam"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ash-zombie-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/ash-zombie-pabtso.webp"
 ```
 ^statblock

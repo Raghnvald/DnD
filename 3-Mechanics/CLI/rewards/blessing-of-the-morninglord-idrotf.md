@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/idrotf
-- new/reward/blessing
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/reward/blessing
 aliases:
-- Blessing of the Morninglord
+- "Blessing of the Morninglord"
 ---
 # Blessing of the Morninglord
 

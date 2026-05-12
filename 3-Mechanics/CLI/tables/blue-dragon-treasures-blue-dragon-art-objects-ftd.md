@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Blue Dragon Treasures; Blue Dragon Art Objects
+- "Blue Dragon Treasures; Blue Dragon Art Objects"
 ---
 # Blue Dragon Treasures; Blue Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 88* 
 
 **Blue Dragon Art Objects**
-
-`dice: [](blue-dragon-treasures-blue-dragon-art-objects-ftd.md#^blue-dragon-art-objects)`
 
 | dice: d8 | Object |
 |----------|--------|

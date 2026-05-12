@@ -3,17 +3,17 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/monstrosity/shapechanger
-- new/monster/type/monstrosity/yuan-ti
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity/shapechanger
+- ttrpg-cli/monster/type/monstrosity/yuan-ti
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oussa
+- "Oussa"
 ---
-# [Oussa](3-Mechanics\CLI\bestiary\npc/oussa-tftyp.md)
+# [Oussa](3-Mechanics/CLI/bestiary/npc/oussa-tftyp.md)
 *Source: Tales from the Yawning Portal p. 157*  
 
 ```statblock
@@ -35,19 +35,24 @@ aliases:
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longbow](3-Mechanics/CLI/items/longbow-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, Common, Draconic"
 "cr": "3"
 "traits":
   - "desc": "Oussa's innate spellcasting ability is Charisma (spell save DC 13). Oussa\
       \ can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** animal friendship (snakes only)\n\n**3/day:** suggestion"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship-xphb.md)\
+      \ (snakes only)\n\n**3/day:** [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)"
     "name": "Innate Spellcasting (Yuan-ti Form Only)"
   - "desc": "Oussa can use its action to polymorph into a Medium snake, or back into\
       \ its true form. Its statistics are the same in each form. Any equipment it\
@@ -65,22 +70,22 @@ aliases:
   - "desc": "Oussa makes two ranged attacks or two melee attacks, but can constrict\
       \ only once."
     "name": "Multiattack (Yuan-ti Form Only)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage."
     "name": "Bite (Snake Form Only)"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until\
-      \ this grapple ends, the target is restrained, and Oussa can't constrict another\
-      \ target."
+      \ (2d6 + 3) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 13). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and Oussa can't constrict another target."
     "name": "Constrict"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar (Yuan-ti Form Only)"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow (Yuan-ti Form Only)"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/oussa-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/oussa-tftyp.webp"
 ```
 ^statblock

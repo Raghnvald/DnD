@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Luvash
+- "Luvash"
 ---
-# [Luvash](3-Mechanics\CLI\bestiary\npc/luvash-cos.md)
+# [Luvash](3-Mechanics/CLI/bestiary/npc/luvash-cos.md)
 *Source: Curse of Strahd p. 121*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Chaotic Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "studded leather"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -39,10 +39,13 @@ aliases:
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+4"
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
+"gear":
+  - "dagger"
+  - "scimitar"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
@@ -50,8 +53,8 @@ aliases:
   - "desc": "Luvash makes three melee attacks: two with its scimitar and one with\
       \ its dagger. Or Luvash makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
@@ -62,6 +65,6 @@ aliases:
     "name": "Parry"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/luvash-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/luvash-cos.webp"
 ```
 ^statblock

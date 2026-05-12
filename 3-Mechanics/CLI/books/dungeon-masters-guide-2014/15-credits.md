@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Dungeon Master's Guide (2014)* 

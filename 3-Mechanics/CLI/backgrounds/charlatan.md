@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Charlatan
+- "Charlatan"
 ---
 # Charlatan
 *Source: Player's Handbook p. 128*  
 
 
-- **Skill Proficiencies.** [Deception](/3-Mechanics/CLI/skills.md#Deception), [Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)  
-- **Tool Proficiencies.** [Disguise kit](/3-Mechanics/CLI/items/disguise-kit.md), [Forgery kit](/3-Mechanics/CLI/items/forgery-kit.md)  
-- **Equipment.** A set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes.md), a [disguise kit](/3-Mechanics/CLI/items/disguise-kit.md), tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [pouch](/3-Mechanics/CLI/items/pouch.md) containing 15 gp  
+- **Skill Proficiencies.** [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)  
+- **Tool Proficiencies.** [Disguise kit](3-Mechanics/CLI/items/disguise-kit.md), [Forgery kit](3-Mechanics/CLI/items/forgery-kit.md)  
+- **Equipment.** A set of [fine clothes](3-Mechanics/CLI/items/fine-clothes.md), a [disguise kit](3-Mechanics/CLI/items/disguise-kit.md), tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 15 gp  
 
 You have always had a way with people. You know what makes them tick, you can tease out their hearts' desires after a few minutes of conversation, and with a few leading questions you can read like they were children's books. It's a useful talent, and one that you're perfectly willing to use for your advantage
 
@@ -27,8 +27,6 @@ You have created a second identity that includes documentation, established acqu
 ## Favorite Schemes
 
 Every charlatan has an angle he or she uses in preference to other schemes. Choose a favorite scam or roll on the table below.
-
-`dice: [](charlatan.md#^scam)`
 
 | dice: d6 | Scam |
 |----------|------|
@@ -44,8 +42,6 @@ Every charlatan has an angle he or she uses in preference to other schemes. Choo
 
 Charlatans are colorful characters who conceal their true selves behind the masks they construct. They reflect what people want to see, what they want to believe, and how they see the world. But their true selves are sometimes plagued by an uneasy conscience, an old enemy, or deep-seated trust issues.
 
-`dice: [](charlatan.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I fall in and out of love easily, and am always pursuing someone. |
@@ -58,8 +54,6 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 8 | I pocket anything I see that might have some value. |
 ^personality-trait
 
-`dice: [](charlatan.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Independence. I am a free spirit—no one tells me what to do. (Chaotic) |
@@ -70,8 +64,6 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 6 | Aspiration. I'm determined to make something of myself. (Any) |
 ^ideal
 
-`dice: [](charlatan.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I fleeced the wrong person and must work to ensure that this individual never crosses paths with me or those I care about. |
@@ -81,8 +73,6 @@ Charlatans are colorful characters who conceal their true selves behind the mask
 | 5 | A powerful person killed someone I love. Some day soon, I'll have my revenge. |
 | 6 | I swindled and ruined a person who didn't deserve it. I seek to atone for my misdeeds but might never be able to forgive myself. |
 ^bond
-
-`dice: [](charlatan.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

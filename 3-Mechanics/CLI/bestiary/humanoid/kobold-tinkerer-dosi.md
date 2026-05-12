@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/humanoid
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kobold Tinkerer
+- "Kobold Tinkerer"
 ---
-# [Kobold Tinkerer](3-Mechanics\CLI\bestiary\humanoid/kobold-tinkerer-dosi.md)
+# [Kobold Tinkerer](3-Mechanics/CLI/bestiary/humanoid/kobold-tinkerer-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 43*  
 
 Kobolds are reptilian Humanoids that often revere dragons. Physically weak, they find strength in numbers.
@@ -41,6 +41,8 @@ A few kobolds are born with leathery wings and can fly, which is often seen as a
     "desc": "+4"
   - "name": "Perception"
     "desc": "+0"
+"gear":
+  - "dagger"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Draconic"
 "cr": "1/4"
@@ -59,11 +61,11 @@ A few kobolds are born with leathery wings and can fly, which is often seen as a
       \ ft., one target. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
   - "desc": "The kobold unleashes fire in a 15-foot cone. Each creature in that area\
-      \ must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on a\
-      \ failed saving throw, or half as much damage on a successful one."
+      \ must make a DC 12 Dexterity saving throw, taking 10 (3d6) fire damage on\
+      \ a failed saving throw, or half as much damage on a successful one."
     "name": "Alchemical Flame (Recharge 6)"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kobold-tinkerer-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/kobold-tinkerer-dosi.webp"
 ```
 ^statblock

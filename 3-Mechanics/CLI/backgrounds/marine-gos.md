@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/gos
 aliases:
-- Marine
+- "Marine"
 ---
 # Marine
 *Source: Ghosts of Saltmarsh p. 31*  
@@ -26,8 +26,6 @@ You can move twice the normal amount of time (up to 16 hours) each day before be
 
 Hardship in your past has forged you into an unstoppable living weapon. This hardship is essential to you and is at the heart of a personal philosophy or ethos that often guides your actions. You can roll on the following table to determine this hardship or choose one that best fits your character.
 
-`dice: [](marine-gos.md#^hardship)`
-
 | dice: d6 | Hardship |
 |----------|----------|
 | 1 | Nearly Drowned. You hid underwater to avoid detection by enemies and held your breath for an extremely long time. Just before you would have died, you had a revelation about your existence. |
@@ -44,8 +42,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 
 **Marine Personality Traits**
 
-`dice: [](marine-gos.md#^marine-personality-traits)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I speak rarely but mean every word I say. |
@@ -60,8 +56,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 
 **Marine Ideals**
 
-`dice: [](marine-gos.md#^marine-ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Teamwork.** Success depends on cooperation and communication. (Good) |
@@ -74,8 +68,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 
 **Marine Bonds**
 
-`dice: [](marine-gos.md#^marine-bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I face danger and evil to offset an unredeemable act in my past. |
@@ -87,8 +79,6 @@ Marines are looked up to by other soldiers and respected by their superiors. The
 ^marine-bonds
 
 **Marine Flaws**
-
-`dice: [](marine-gos.md#^marine-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

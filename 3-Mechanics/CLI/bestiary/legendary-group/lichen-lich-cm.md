@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
-- new/monster/legendary-group
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/legendary-group
 aliases:
-- Lichen Lich
+- "Lichen Lich"
 ---
 # Lichen Lich
 

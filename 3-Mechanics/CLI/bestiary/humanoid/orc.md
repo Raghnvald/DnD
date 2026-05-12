@@ -17,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc
+- "Orc"
 ---
-# [Orc](3-Mechanics\CLI\bestiary\humanoid/orc.md)
-*Source: Monster Manual p. 246, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Orc](3-Mechanics/CLI/bestiary/humanoid/orc.md)
+*Source: Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
@@ -59,7 +59,7 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "15"
 "hit_dice": "2d8 + 6"
 "modifier": !!int "1"
@@ -72,9 +72,13 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 10"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
@@ -82,16 +86,15 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
       \ creature that it can see."
     "name": "Aggressive"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d12 + 3) slashing damage."
     "name": "Greataxe"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
     "name": "Javelin"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orc.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc.webp"
 ```
 ^statblock
 

@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus"
 ---
 # Prehistoric Figurine of Wondrous Power, Pyrite Plesiosaurus
 *Wondrous item, uncommon*  
-![](/3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
+![](3-Mechanics/CLI/items/img/prehistoric-figurines-of-wondrous-power.webp#right)
 
 
 Larger and more roughly hewn than typical figurines of wondrous power, these statuettes depict dinosaurs and related creatures from the earliest days of the world.
@@ -23,8 +23,8 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Pyrite Plesiosaurus
 
-This figurine becomes a [plesiosaurus](/3-Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md) for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 4 days have passed.
+This figurine becomes a plesiosaurus for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 4 days have passed.
 
-While you are riding the plesiosaurus, you can use it to cast [water breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md) at will.
+While you are riding the plesiosaurus, you can use it to cast water breathing at will.
 
 *Source: Bigby Presents: Glory of the Giants p. 114*

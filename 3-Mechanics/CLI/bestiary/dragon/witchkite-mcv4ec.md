@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Witchkite
+- "Witchkite"
 ---
-# [Witchkite](3-Mechanics\CLI\bestiary\dragon/witchkite-mcv4ec.md)
+# [Witchkite](3-Mechanics/CLI/bestiary/dragon/witchkite-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 While many dragons of Eldraine hoard wealth and material goods, witchkites prefer hoarding forbidden and dangerous magical secrets. The arcane nature of a witchkite's hoard seeps into the dragon's core, granting it spellcasting abilities and twisting its fiery breath into malevolent motes of magical flame.
@@ -50,14 +50,15 @@ While many dragons of Eldraine hoard wealth and material goods, witchkites prefe
   - "wisdom": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_resistances": "fire, psychic"
-"senses": "darkvision 120 ft., passive Perception 18"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 18"
 "languages": "Draconic"
 "cr": "15"
 "traits":
@@ -66,8 +67,8 @@ While many dragons of Eldraine hoard wealth and material goods, witchkites prefe
 "actions":
   - "desc": "The witchkite makes two Rend attacks and uses Malevolent Flare once."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (3d6 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (3d6 + 6) slashing damage."
     "name": "Rend"
   - "desc": "The witchkite spits magical, green-tinged flame at one creature it can\
       \ see within 60 feet of itself. The target must make a DC 17 Dexterity saving\
@@ -80,20 +81,23 @@ While many dragons of Eldraine hoard wealth and material goods, witchkites prefe
     "name": "Malevolent Flare"
   - "desc": "The witchkite casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** detect magic, minor illusion, speak with dead\n\n**1/day each:**\
-      \ detect thoughts, dimension door, hold monster"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [minor\
+      \ illusion](3-Mechanics/CLI/spells/minor-illusion.md), [speak with dead](3-Mechanics/CLI/spells/speak-with-dead.md)\n\
+      \n**1/day each:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door.md), [hold monster](3-Mechanics/CLI/spells/hold-monster.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature the witchkite can see moves within 10 feet of it, the\
       \ witchkite emits an enchanting gaze at the creature. The creature must succeed\
-      \ on a DC 17 Wisdom saving throw or take 10 (3d6) psychic damage and have the\
-      \ charmed condition until the end of its next turn."
+      \ on a DC 17 Wisdom saving throw or take 10 (3d6) psychic damage and have\
+      \ the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition until\
+      \ the end of its next turn."
     "name": "Enchanting Gaze"
   - "desc": "Immediately after taking damage from a melee attack, the witchkite makes\
       \ one Rend attack against the attacker."
     "name": "Retribution"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/witchkite-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/witchkite-mcv4ec.webp"
 ```
 ^statblock

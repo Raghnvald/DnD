@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warhorse Skeleton
+- "Warhorse Skeleton"
 ---
-# [Warhorse Skeleton](3-Mechanics\CLI\bestiary\undead/warhorse-skeleton-xmm.md)
+# [Warhorse Skeleton](3-Mechanics/CLI/bestiary/undead/warhorse-skeleton-xmm.md)
 *Source: Monster Manual (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains of the barding they wore in life. They're often ridden by the corpses of their former riders.
@@ -31,8 +31,6 @@ Warhorse skeletons are obedient, supernatural steeds bearing the rotted remains 
 Skeletons rise at the summons of necromancers and foul spirits. Whether they're the remains of the ancient dead or fresh bones bound to morbid ambitions, they commit deathless work for whatever forces reanimated them, often serving as guardians, soldiers, or laborers. In rare cases, skeletons are reanimated but given no particular direction. Roll on or choose a result from the Skeleton Pantomimes table to inspire how undirected skeletons behave.
 
 **Skeleton Pantomimes**
-
-`dice: [](warhorse-skeleton-xmm.md#^skeleton-pantomimes)`
 
 | dice: 1d6 | Left to Its Own Devices, the Skeleton... |
 |-----------|------------------------------------------|
@@ -63,21 +61,21 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "speed": "60 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "1/2"
 "actions":
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning damage.\
-      \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
-      \ straight toward it immediately before the hit, the target has the [Prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition."
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 7 (1d6 + 4) Bludgeoning\
+      \ damage. If the target is a Large or smaller creature and the skeleton moved\
+      \ 20+ feet straight toward it immediately before the hit, the target has the\
+      \ [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Hooves"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/warhorse-skeleton-xmm.webp"
 ```
 ^statblock
 

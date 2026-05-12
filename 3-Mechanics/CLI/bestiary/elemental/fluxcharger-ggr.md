@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fluxcharger
+- "Fluxcharger"
 ---
-# [Fluxcharger](3-Mechanics\CLI\bestiary\elemental/fluxcharger-ggr.md)
+# [Fluxcharger](3-Mechanics/CLI/bestiary/elemental/fluxcharger-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 208*  
 
 In an effort to create a weird that could be more easily controlled, Izzet mages tried binding elemental lightning, fire, and smoke into a framework made of the magical alloy mizzium. The experiment was partly successful: the resulting weird, a fluxcharger, doesn't explode like some other weirds do, but it is more intelligent and more headstrong than other weirds.
@@ -47,13 +47,9 @@ An Izzet weird doesn't require air, food, drink, or sleep.
 "speed": "0 ft., fly 60 ft."
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained, unconscious"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Draconic"
 "cr": "7"
 "traits":
@@ -63,18 +59,18 @@ An Izzet weird doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The fluxcharger makes two slam attacks or uses Arc Lightning twice."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage plus 10 (3d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:*\
+      \ 13 (2d8 + 4) bludgeoning damage plus 10 (3d6) fire damage."
     "name": "Slam"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 30 ft., one target. *Hit:* 16\
-      \ (3d10) lightning damage, and lightning jumps from the target to one creature\
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 30 ft., one target. *Hit:*\
+      \ 16 (3d10) lightning damage, and lightning jumps from the target to one creature\
       \ of the fluxcharger's choice that it can see within 30 feet of the target.\
       \ That second creature must succeed on a DC 15 Dexterity saving throw or take\
-      \ 13 (3d8) lightning damage. *Hit or Miss:* The fluxcharger takes 5 (1d10) force\
-      \ damage after resolving the attack."
+      \ 13 (3d8) lightning damage. *Hit or Miss:* The fluxcharger takes 5 (1d10)\
+      \ force damage after resolving the attack."
     "name": "Arc Lightning"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/fluxcharger-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/fluxcharger-ggr.webp"
 ```
 ^statblock

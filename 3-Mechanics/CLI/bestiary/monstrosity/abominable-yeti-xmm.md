@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Abominable Yeti
+- "Abominable Yeti"
 ---
-# [Abominable Yeti](3-Mechanics\CLI\bestiary\monstrosity/abominable-yeti-xmm.md)
+# [Abominable Yeti](3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti-xmm.md)
 *Source: Monster Manual (2024) p. 340*  
 
 Giants even among their own intimidating kind, abominable yetis are stronger and bloodthirstier than their kin. They claim whole regions as their hunting grounds, and they might track trespassers for days. On sighting prey, abominable yetis fling boulders of ice and snow before closing to finish foes. In addition to their icy claws and gaze, they can exhale a blast of arctic cold.
@@ -54,41 +54,41 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "cold"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 19"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 19"
 "languages": "Yeti"
 "cr": "9"
 "traits":
-  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
+  - "desc": "If the yeti takes Fire damage, it has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
       \ on attack rolls and ability checks until the end of its next turn."
     "name": "Fear of Fire"
 "actions":
   - "desc": "The yeti can use its Chilling Gaze and makes two attacks, using Claw\
       \ or Ice Throw in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +11, reach 5 ft. *Hit:* 14 (2d6 + 7) Slashing damage\
-      \ plus 7 (2d6) Cold damage."
+  - "desc": "*Melee Attack Roll:* +11, reach 5 ft. *Hit:* 14 (2d6 + 7) Slashing\
+      \ damage plus 7 (2d6) Cold damage."
     "name": "Claw"
   - "desc": "*Ranged Attack Roll:* +11, range 60/240 ft. *Hit:* 12 (2d4 + 7) Bludgeoning\
       \ damage plus 7 (2d6) Cold damage."
     "name": "Ice Throw"
   - "desc": "*Constitution Saving Throw:* DC 18, one creature the yeti can see within\
-      \ 30 feet. *Failure:* 21 (6d6) Cold damage, and the target has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ condition until the start of the yeti's next turn unless the target has [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md)\
+      \ 30 feet. *Failure:* 21 (6d6) Cold damage, and the target has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ condition until the start of the yeti's next turn unless the target has [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md)\
       \ to Cold damage. *Success:* The target is immune to this yeti's Chilling Gaze\
       \ for 1 hour."
     "name": "Chilling Gaze"
-  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 30-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 18, each creature in a 30-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* 45 (10d8) Cold damage. *Success:* Half damage."
     "name": "Cold Breath (Recharge 6)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/abominable-yeti-xmm.webp"
 ```
 ^statblock
 

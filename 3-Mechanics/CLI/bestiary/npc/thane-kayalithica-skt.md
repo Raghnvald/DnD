@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/7
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thane Kayalithica
+- "Thane Kayalithica"
 ---
-# [Thane Kayalithica](3-Mechanics\CLI\bestiary\npc/thane-kayalithica-skt.md)
+# [Thane Kayalithica](3-Mechanics/CLI/bestiary/npc/thane-kayalithica-skt.md)
 *Source: Storm King's Thunder p. 153*  
 
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
@@ -90,46 +90,53 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Giant"
 "cr": "7"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Wisdom. It can innately cast\
       \ the following spells, requiring no material components:\n\n**3/day each:**\
-      \ meld into stone, stone shape\n\n**1/day each:** stoneskin, time stop"
+      \ [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md), [stone\
+      \ shape](3-Mechanics/CLI/spells/stone-shape-xphb.md)\n\n**1/day each:** [stoneskin](3-Mechanics/CLI/spells/stoneskin-xphb.md),\
+      \ [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The giant has advantage on Dexterity (Stealth) checks made to hide in\
-      \ rocky terrain."
+  - "desc": "The giant has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
   - "desc": "The giant meditates for 1 hour, during which time it can do nothing else.\
       \ At the end of the hour, provided the giant's meditation has been uninterrupted,\
-      \ it becomes petrified for 8 hours. At the end of this time, the giant is no\
-      \ longer petrified and gains tremorsense out to a range of 30 feet, as well\
-      \ as a measure of innate spellcasting ability for the next 24 hours."
+      \ it becomes [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) for\
+      \ 8 hours. At the end of this time, the giant is no longer [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
+      \ and gains tremorsense out to a range of 30 feet, as well as a measure of innate\
+      \ spellcasting ability for the next 24 hours."
     "name": "Olach Morrah"
 "actions":
   - "desc": "The giant tries to throw a Small or Medium creature within 10 feet of\
       \ it. The target must succeed on a DC 17 Dexterity saving throw or be hurled\
       \ up to 60 feet horizontally in a direction of the giant's choice. and land\
-      \ prone, taking 1d6 bludgeoning damage for every 10 feet it was thrown."
+      \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), taking 1d6 bludgeoning\
+      \ damage for every 10 feet it was thrown."
     "name": "Fling"
   - "desc": "The giant sends a rock tumbling along the ground in a 30-foot line that\
       \ is 5 feet wide. Each creature in that line must make a DC 17 Dexterity saving\
-      \ throw, taking 22 (3d10 + 6) bludgeoning damage and falling prone on a failed\
-      \ save"
+      \ throw, taking 22 (3d10 + 6) bludgeoning damage and falling [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ on a failed save"
     "name": "Rolling Rock"
   - "desc": "The giant makes two adamantine greatclub attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked prone."
+      \ on a DC 17 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Rock"
 "reactions":
   - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
@@ -138,6 +145,6 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Rock Catching"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/thane-kayalithica-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/thane-kayalithica-skt.webp"
 ```
 ^statblock

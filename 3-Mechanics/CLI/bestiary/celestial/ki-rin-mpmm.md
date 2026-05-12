@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ki-rin
+- "Ki-rin"
 ---
-# [Ki-rin](3-Mechanics\CLI\bestiary\celestial/ki-rin-mpmm.md)
+# [Ki-rin](3-Mechanics/CLI/bestiary/celestial/ki-rin-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
 
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
@@ -54,15 +54,15 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
   - !!int "20"
 "speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+8"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
   \ 30 ft., passive Perception 19"
 "languages": "all, telepathy 120 ft."
 "cr": "12"
@@ -76,81 +76,41 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
   - "desc": "The ki-rin makes two Hoof attacks and one Horn attack, or it makes two\
       \ Sacred Fire attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 10\
-      \ (2d4 + 5) force damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:*\
+      \ 10 (2d4 + 5) force damage."
     "name": "Hoof"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14\
       \ (2d8 + 5) radiant damage."
     "name": "Horn"
-  - "desc": "*Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:* 18\
-      \ (3d8 + 5) radiant damage."
+  - "desc": "*Ranged Spell Attack:* +9 to hit, range 120 ft., one target. *Hit:*\
+      \ 18 (3d8 + 5) radiant damage."
     "name": "Sacred Fire"
   - "desc": "The ki-rin casts one of the following spells, requiring no material components\
       \ and using Wisdom as the spellcasting ability (spell save DC 17):\n\n**At will:**\
-      \ [light](/3-Mechanics/CLI/spells/light-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md)\
-      \ (6th-level version), [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n**3/day each:** [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
-      \ [sending](/3-Mechanics/CLI/spells/sending-xphb.md)\n\n**1/day each:** [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
-      \ [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [create food\
-      \ and water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater\
-      \ restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md), [plane\
-      \ shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [protection from evil\
-      \ and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
-      \ [revivify](/3-Mechanics/CLI/spells/revivify-xphb.md), [wind walk](/3-Mechanics/CLI/spells/wind-walk-xphb.md)"
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [major image](3-Mechanics/CLI/spells/major-image-xphb.md)\
+      \ (6th-level version), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**3/day each:** [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\n**1/day each:** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [calm emotions](3-Mechanics/CLI/spells/calm-emotions-xphb.md), [create food\
+      \ and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater\
+      \ restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md),\
+      \ [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
+      \ [revivify](3-Mechanics/CLI/spells/revivify-xphb.md), [wind walk](3-Mechanics/CLI/spells/wind-walk-xphb.md)"
     "name": "Spellcasting"
-"lair_actions":
-  - "desc": "On initiative count 20 (losing initiative ties), a kirin can take one\
-      \ of the following lair actions, and it must finish a long rest before taking\
-      \ the chosen lair action again:\n\n- **Create Comforts.** The ki-rin conjures\
-      \ up one or more permanent objects made of soft, plant-based material—including\
-      \ manufactured objects like pillows, rope, blankets, and clothing—that can collectively\
-      \ fill no more than a 20-foot cube. The objects materialize 1 minute later in\
-      \ unoccupied spaces of the ki-rin's choice on the floor of the lair.  \n- **Create\
-      \ Stone and Metal.** The ki-rin conjures up one or more temporary objects made\
-      \ of stone or metal that can collectively fill no more than a 2-foot cube. The\
-      \ objects materialize 1 minute later in unoccupied spaces of the ki-rin's choice\
-      \ on the floor of the lair, and the objects vanish after 1 hour.  \n- **Create\
-      \ Wood.** The ki-rin conjures up one or more permanent objects made of wood,\
-      \ or similarly hard plant-based material, that can collectively fill no more\
-      \ than a 10-foot cube. The objects materialize 1 minute later in unoccupied\
-      \ spaces of the ki-rin's choice on the floor of the lair.  "
-    "name": ""
-"regional_effects":
-  - "desc": "A ki-rin's Celestial nature transforms the region around its lair. Any\
-      \ of the following magical effects is possible for travelers to encounter in\
-      \ the vicinity:\n\n- **Blessed Nature.** Beasts, Plants, and Celestials within\
-      \ 3 miles of the ki-rin's lair grow more vigorous as they evolve toward an idealized\
-      \ form. Such creatures are rarely aggressive toward others that aren't normally\
-      \ prey.  \n- **Controlled Weather.** A ki-rin can cast [control weather](/3-Mechanics/CLI/spells/control-weather-xphb.md)\
-      \ while it is within 3 miles of its lair. The spell's point of origin is always\
-      \ the point outdoors closest to the center of its lair. The ki-rin doesn't need\
-      \ to maintain a clear path to the sky or to concentrate for the change in weather\
-      \ to persist.  \n- **Pure Waters.** Water flows pure within 3 miles of a ki-rin's\
-      \ lair. Any purposeful corruption of the water lasts for no longer than 3 minutes.\
-      \  \n- **Realm of Respite.** Curses, diseases, and poisons on creatures are\
-      \ suppressed when those creatures are within 3 miles of the lair, unless the\
-      \ creatures are Aberrations, Fiends, or Undead.  \n- **Safe Descents.** Within\
-      \ 3 miles of the lair, winds buoy creatures that fall due to no act of the ki-rin\
-      \ or its allies. Such creatures descend at a rate of 60 feet per round and take\
-      \ no falling damage. Aberrations, Fiends, and Undead don't gain this benefit,\
-      \ falling as normal.  \n\nWhen the ki-rin dies, all these effects disappear\
-      \ immediately, although the invigorating effect on flora and fauna remains for\
-      \ 3 years."
-    "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the ki-rin can expend a use to take one of the following actions. The ki-rin\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
   - "desc": "The ki-rin moves up to half its speed without provoking [opportunity\
-      \ attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+      \ attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)."
     "name": "Move"
   - "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."
     "name": "Smite"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp"
 ```
 ^statblock
 

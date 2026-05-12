@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Hag; Hag Flaws
+- "Roleplaying a Hag; Hag Flaws"
 ---
 # Roleplaying a Hag; Hag Flaws
 *Source: Volo's Guide to Monsters p. 54* 
 
 **Hag Flaws**
-
-`dice: [](roleplaying-a-hag-hag-flaws-vgm.md#^hag-flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|

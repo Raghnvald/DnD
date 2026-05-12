@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/war
-aliases: 
-- Tempus
-- The Foehammer
-- The Lord of Battles
+aliases:
+- "Tempus"
+- "The Foehammer"
+- "The Lord of Battles"
 ---
 # Tempus
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-tempus.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-tempus.webp#symbol)
 
 - **Alternate Names**: The Foehammer, The Lord of Battles
 - **Alignment**: Neutral

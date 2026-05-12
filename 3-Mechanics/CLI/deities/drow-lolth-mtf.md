@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/drow
 - ttrpg-cli/domain/trickery
 - ttrpg-cli/domain/war
-aliases: 
-- Lolth
+aliases:
+- "Lolth"
 ---
 # Lolth
 *Source: Mordenkainen's Tome of Foes p. 53* 

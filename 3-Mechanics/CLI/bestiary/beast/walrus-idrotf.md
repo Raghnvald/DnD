@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-4
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Walrus
+- "Walrus"
 ---
-# [Walrus](3-Mechanics\CLI\bestiary\beast/walrus-idrotf.md)
+# [Walrus](3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 312*  
 
 Walruses are bulky marine mammals that favor arctic climates and communicate by grunting and roaring. A typical adult specimen weighs at least 2,000 pounds. Humans hunt them for their meat, fat, skin, bones, and tusks.
@@ -41,11 +41,11 @@ Walruses are bulky marine mammals that favor arctic climates and communicate by 
   - "desc": "The walrus can hold its breath for 10 minutes."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) piercing damage."
     "name": "Tusks"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/walrus-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/walrus-idrotf.webp"
 ```
 ^statblock

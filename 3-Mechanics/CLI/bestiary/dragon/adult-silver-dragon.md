@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Adult Silver Dragon
+- "Adult Silver Dragon"
 ---
-# [Adult Silver Dragon](3-Mechanics\CLI\bestiary\dragon/adult-silver-dragon.md)
+# [Adult Silver Dragon](3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md)
 *Source: Monster Manual p. 117. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -113,16 +113,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "6"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "cold"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 21"
 "languages": "Common, Draconic"
 "cr": "16"
@@ -133,17 +133,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (2d10 + 8) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -154,7 +154,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage\
       \ on a failed save, or half as much damage on a successful one.  \n- **Paralyzing\
       \ Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature\
-      \ in that area must succeed on a DC 20 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ in that area must succeed on a DC 20 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
@@ -171,19 +171,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 "lair_actions":
   - "desc": "On initiative count 20 (losing initiative ties), the dragon takes a lair\
       \ action to cause one of the following effects:\n\n- The dragon creates fog\
-      \ as if it had cast the [fog cloud](/3-Mechanics/CLI/spells/fog-cloud.md) spell.\
+      \ as if it had cast the [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md) spell.\
       \ The fog lasts until initiative count 20 on the next round.  \n- A blisteringly\
       \ cold wind blows through the lair near the dragon. Each creature within 120\
       \ feet of the dragon must succeed on a DC 15 Constitution saving throw or take\
       \ 5 (1d10) cold damage. Gases and vapors are dispersed by the wind, and unprotected\
       \ flames are extinguished. Protected flames, such as lanterns, have a 50 percent\
       \ chance of being extinguished.  \n\n**Additional Lair Action.** At your discretion,\
-      \ a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md)\
-      \ or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)) silver\
+      \ a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)) silver\
       \ dragon can use the following additional lair action while in its lair:\n\n\
       - **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon.\
       \ Each creature of the dragon's choice that it can see within 120 feet of it\
-      \ must succeed on a DC 15 Constitution saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ must succeed on a DC 15 Constitution saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ until initiative count 20 on the next round. Creatures that have resistance\
       \ to cold damage have advantage on the saving throw; creatures that have immunity\
       \ to cold damage succeed automatically.  "
@@ -193,7 +193,7 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ dragon's magic, which creates one or more of the following effects.\n\n- Once\
       \ per day, the dragon can alter the weather in a 6-mile radius centered on its\
       \ lair. The dragon doesn't need to be outdoors; otherwise the effect is identical\
-      \ to the [control weather](/3-Mechanics/CLI/spells/control-weather.md) spell.\
+      \ to the [control weather](3-Mechanics/CLI/spells/control-weather.md) spell.\
       \  \n- Within 1 mile of the lair, winds buoy non-evil creatures that fall due\
       \ to no act of the dragon's or its allies. Such creatures descend at a rate\
       \ of 60 feet per round and take no falling damage.  \n- Given days or longer\
@@ -206,19 +206,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 10 feet of the dragon\
       \ must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The dragon\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/adult-silver-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/adult-silver-dragon.webp"
 ```
 ^statblock
 

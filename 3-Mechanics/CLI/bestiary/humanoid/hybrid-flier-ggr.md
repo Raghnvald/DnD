@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hybrid Flier
+- "Hybrid Flier"
 ---
-# [Hybrid Flier](3-Mechanics\CLI\bestiary\humanoid/hybrid-flier-ggr.md)
+# [Hybrid Flier](3-Mechanics/CLI/bestiary/humanoid/hybrid-flier-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 217*  
 
 ## Simic Hybrids
@@ -23,7 +23,7 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
 "name": "Hybrid Flier (GGR)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "Simic hybrid"
+"subtype": "simic hybrid"
 "alignment": "Neutral Good"
 "ac": !!int "13"
 "hp": !!int "39"
@@ -38,6 +38,8 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
   - !!int "11"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "acid"
+"gear":
+  - "javelin"
 "senses": "passive Perception 10"
 "languages": "Common plus any one language"
 "cr": "2"
@@ -53,6 +55,6 @@ The Guardian Project is a consequence of increasing tension within the Simic Com
     "name": "Spit Acid"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/hybrid-flier-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/hybrid-flier-ggr.webp"
 ```
 ^statblock

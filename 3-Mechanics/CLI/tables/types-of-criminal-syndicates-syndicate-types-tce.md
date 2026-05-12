@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Types of Criminal Syndicates; Syndicate Types
+- "Types of Criminal Syndicates; Syndicate Types"
 ---
 # Types of Criminal Syndicates; Syndicate Types
 *Source: Tasha's Cauldron of Everything p. 91* 
 
 **Syndicate Types**
-
-`dice: [](types-of-criminal-syndicates-syndicate-types-tce.md#^syndicate-types)`
 
 | dice: d6 | Syndicate |
 |----------|-----------|

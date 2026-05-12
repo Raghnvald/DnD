@@ -3,15 +3,15 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/idrotf
-- new/item/attunement/required
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Psi Crystal"
 ---
 # Psi Crystal
 *Wondrous item, uncommon (requires attunement by a creature with an intelligence score of 3 or higher)*  
-![](/3-Mechanics/CLI/items/img/psi-crystal.webp#right)
+![](3-Mechanics/CLI/items/img/psi-crystal.webp#right)
 
 
 This crystal grants you telepathy for as long as you remain attuned to it. See the "introduction of the Monster Manual" for rules on how this telepathy works.

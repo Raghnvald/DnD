@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Koi Prawn
+- "Koi Prawn"
 ---
-# [Koi Prawn](3-Mechanics\CLI\bestiary\beast/koi-prawn-jttrc.md)
+# [Koi Prawn](3-Mechanics/CLI/bestiary/beast/koi-prawn-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 26*  
 
 ```statblock
@@ -40,16 +40,16 @@ aliases:
   - "desc": "If the prawn moves at least 20 feet straight toward a target and then\
       \ hits it with a ram attack on the same turn, the target takes an extra 7 (2d6)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 11\
-      \ Strength saving throw or be knocked prone."
+      \ Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The prawn can breathe only underwater."
     "name": "Water Breathing"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage."
     "name": "Ram"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/koi-prawn-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/koi-prawn-jttrc.webp"
 ```
 ^statblock

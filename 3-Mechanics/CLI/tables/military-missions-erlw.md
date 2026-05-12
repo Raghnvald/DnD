@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Military Missions
+- "Military Missions"
 ---
 # Military Missions
 *Source: Eberron: Rising from the Last War p. 90* 
 
 **Military Missions**
-
-`dice: [](military-missions-erlw.md#^military-missions)`
 
 | dice: d6 | Missions |
 |----------|----------|

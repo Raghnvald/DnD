@@ -5,8 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/deity/yuan-ti
-aliases: 
-- Merrshaulk
+aliases:
+- "Merrshaulk"
 ---
 # Merrshaulk
 *Source: Volo's Guide to Monsters p. 94* 

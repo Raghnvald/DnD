@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Humanoid Mutate
+- "Humanoid Mutate"
 ---
-# [Humanoid Mutate](3-Mechanics\CLI\bestiary\aberration/humanoid-mutate-pabtso.md)
+# [Humanoid Mutate](3-Mechanics/CLI/bestiary/aberration/humanoid-mutate-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 212*  
 
 When the influence of the Far Realm affects Humanoids, the resulting creature might be a thing of nightmares. Multitudinous webbed wings sprout haphazardly along this mutate's body. Its skin becomes clammy and as smooth as a salamander's.
@@ -49,14 +49,14 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
   - !!int "15"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_resistances": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Common, telepathy 60 ft."
 "cr": "4"
 "traits":
@@ -65,12 +65,12 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
 "actions":
   - "desc": "The mutate makes two Unarmed Strike or Nightmare Blast attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage plus 10 (3d6) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) bludgeoning damage plus 10 (3d6) psychic damage."
     "name": "Unarmed Strike"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 60 ft., one creature. *Hit:*\
       \ 7 (2d6) psychic damage, and the target must succeed on a DC 12 Wisdom saving\
-      \ throw or have the [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ throw or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the start of the mutate's next turn."
     "name": "Nightmare Blast"
 "reactions":
@@ -79,6 +79,6 @@ Mutates often gain psionic abilities, grow wings, become covered in otherworldly
     "name": "Defensive Flight"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/humanoid-mutate-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/humanoid-mutate-pabtso.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Elementals
+- "Monsters' Desires; Elementals"
 ---
 # Monsters' Desires; Elementals
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Elementals**
-
-`dice: [](monsters-desires-elementals-tce.md#^elementals)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/humanoid/goliath
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/goliath
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aruk Thundercaller Thuunlakalaga
+- "Aruk Thundercaller Thuunlakalaga"
 ---
-# [Aruk Thundercaller Thuunlakalaga](3-Mechanics\CLI\bestiary\npc/aruk-thundercaller-thuunlakalaga-idrotf.md)
+# [Aruk Thundercaller Thuunlakalaga](3-Mechanics/CLI/bestiary/npc/aruk-thundercaller-thuunlakalaga-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 169*  
 
 Goliaths inhabit the Spine of the World, where their mettle is tested against orcs, ogres, frost giants, remorhazes, ice trolls, young white dragons, the treacherous mountain terrain, and the cruel indifference of nature.
@@ -24,7 +24,7 @@ Goliaths inhabit the Spine of the World, where their mettle is tested against or
 "subtype": "goliath"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "67"
 "hit_dice": "9d8 + 27"
 "modifier": !!int "0"
@@ -37,13 +37,16 @@ Goliaths inhabit the Spine of the World, where their mettle is tested against or
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "cold"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
 "senses": "passive Perception 14"
 "languages": "Common, Giant"
 "cr": "3"
@@ -68,6 +71,6 @@ Goliaths inhabit the Spine of the World, where their mettle is tested against or
     "name": "Stone's Endurance (Recharges after a Short or Long Rest)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/aruk-thundercaller-thuunlakalaga-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/aruk-thundercaller-thuunlakalaga-idrotf.webp"
 ```
 ^statblock

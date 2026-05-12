@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathwolf
+- "Deathwolf"
 ---
-# [Deathwolf](3-Mechanics\CLI\bestiary\undead/deathwolf-veor.md)
+# [Deathwolf](3-Mechanics/CLI/bestiary/undead/deathwolf-veor.md)
 *Source: Vecna: Eve of Ruin p. 217*  
 
 A deathwolf combines the might of a werewolf, the unholy powers of undeath, and the magic of the full moon. Deathwolves are most common on Krynn but occasionally are found in other locations where lycanthropy and necromancy are prevalent.
@@ -47,14 +47,16 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
   - "dexterity": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+13"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
-"senses": "darkvision 60 ft., passive Perception 23"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 23"
 "languages": "Common"
 "cr": "15"
 "traits":
@@ -67,20 +69,22 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
   - "desc": "The deathwolf makes one Bite attack and two Claw attacks. It can replace\
       \ one of these attacks with Phantom Deathwolf if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d8 + 5) piercing damage plus 9 (2d8) necrotic damage. The target must succeed\
-      \ on a DC 16 Wisdom saving throw or have disadvantage on saving throws against\
-      \ the frightened condition. This curse lasts until removed by the Remove Curse\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d8 + 5) piercing damage plus 9 (2d8) necrotic damage. The target\
+      \ must succeed on a DC 16 Wisdom saving throw or have disadvantage on saving\
+      \ throws against the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition. This curse lasts until removed by the [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md)\
       \ spell or other magic."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) slashing damage plus 4 (1d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) slashing damage plus 4 (1d8) necrotic damage."
     "name": "Claw"
   - "desc": "The deathwolf creates a terrifying phantom of itself in the mind of a\
       \ creature the deathwolf can see within 60 feet of itself. The target must succeed\
-      \ on a DC 17 Intelligence saving throw or have the frightened condition for\
-      \ 1 minute.\n\nWhile the target is frightened, the phantom deals 21 (6d6) psychic\
-      \ damage to the target at the start of each of the target's turns. A frightened\
+      \ on a DC 17 Intelligence saving throw or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition for 1 minute.\n\nWhile the target is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+      \ the phantom deals 21 (6d6) psychic damage to the target at the start of\
+      \ each of the target's turns. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Phantom Deathwolf (Recharge 5-6)"
@@ -95,6 +99,6 @@ To create a deathwolf, a necromancer reanimates the body of a powerful werewolf 
     "name": "Phase Step"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/deathwolf-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/deathwolf-veor.webp"
 ```
 ^statblock

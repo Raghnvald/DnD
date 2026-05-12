@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Chapter 4: Creating Adventures
+- "Chapter 4: Creating Adventures"
 ---
 # Chapter 4: Creating Adventures
 *Source: Guildmasters' Guide to Ravnica, p. 123* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/081-401.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/081-401.webp#center)
 
 This chapter provides a toolbox to help the Dungeon Master create adventures featuring the guilds of Ravnica. The tensions among the guilds, a constant current of animosity, provide a solid foundation for building adventures.
 
@@ -28,13 +28,13 @@ Each guild's entry in this chapter includes a map of an iconic location associat
 
 The description of each guild location includes a table that lists possible goals for an adventure based there. You can choose an adventure goal, or roll one randomly, from the table in the description of the site you've chosen. If none of those goals inspires you, choose a goal or roll one randomly from the Guild Location Goals table instead.
 
-![Guild Locations; Guild Location Goals](/3-Mechanics/CLI/tables/guild-locations-guild-location-goals-ggr.md)
+![Guild Locations; Guild Location Goals](3-Mechanics/CLI/tables/guild-locations-guild-location-goals-ggr.md)
 
 #### Linked Locations
 
 You can create an adventure that links two locations together. The Location Connections table offers broad suggestions for how you might lead your players from one adventure location to another.
 
-![Linked Locations; Location Connections](/3-Mechanics/CLI/tables/linked-locations-location-connections-ggr.md)
+![Linked Locations; Location Connections](3-Mechanics/CLI/tables/linked-locations-location-connections-ggr.md)
 
 ### Guild Villains
 
@@ -42,13 +42,13 @@ Player characters might belong to any guild, and their adversaries might as well
 
 Certain kinds of goals and schemes are common to villains in every guild. Some generic villainous schemes appear on the Guild Villains table. You can also use the Villain's Scheme and Villain's Methods tables in "chapter 4" of the "Dungeon Master's Guide" to flesh out a villain's activities, and a guild's section in this chapter points to specific parts of those tables that characterize how villains from that guild enact their plans.
 
-![Guild Villains](/3-Mechanics/CLI/tables/guild-villains-ggr.md)
+![Guild Villains](3-Mechanics/CLI/tables/guild-villains-ggr.md)
 
 ### Character Objectives
 
 The impetus for adventuring might come from within the player characters' own guilds, rather than from external guilds. Each guild entry in this chapter provides some examples of missions that the guild might send its members on. These missions can also serve as side quests that a character is asked to fulfill while engaged in a larger task that involves the whole party.
 
-![Guild Character Objectives](/3-Mechanics/CLI/tables/guild-character-objectives-ggr.md)
+![Guild Character Objectives](3-Mechanics/CLI/tables/guild-character-objectives-ggr.md)
 
 ### Adventure Hooks
 
@@ -59,8 +59,8 @@ Each guild section includes a table of adventure hooks—events that might drive
 Here are the main ways to approach the choice of guild for your adventure:
 
 - Choose a guild that has an aesthetic or a story that excites you and that will lead to the sort of villain or type of adventure you want to build. The following section, "Adventure Types," shows how different guilds are natural fits for certain types of adventure.  
-- Pick a guild that fits your players' tastes. The introduction to the "Dungeon Master's Guide" offers some guidance for crafting adventures to please different kinds of players. The guild or guilds your players choose will also help you understand your players' desires. It's a safe bet that a player who creates a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) character is looking for mayhem and combat, while a Dimir player is more interested in intrigue and sabotage. Armed with that understanding, you can better craft an adventure experience aimed at your players.  
-- Go with a guild that easily provides a villain to face. A few guilds make very straightforward villains: Gruul, [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), Dimir, and Golgari.  
+- Pick a guild that fits your players' tastes. The introduction to the "Dungeon Master's Guide" offers some guidance for crafting adventures to please different kinds of players. The guild or guilds your players choose will also help you understand your players' desires. It's a safe bet that a player who creates a [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) character is looking for mayhem and combat, while a Dimir player is more interested in intrigue and sabotage. Armed with that understanding, you can better craft an adventure experience aimed at your players.  
+- Go with a guild that easily provides a villain to face. A few guilds make very straightforward villains: Gruul, [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md), Dimir, and Golgari.  
 - Let a die decide the guild, using the Random Guilds table in this book's introduction.  
 
 The guild you choose will provide a potential location, villain, mission, or adventure hook, as well as point you toward the type of adventure you're going to run.
@@ -78,7 +78,7 @@ The guild you choose will provide a potential location, villain, mission, or adv
 
 ### Adventure Types
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/082-402.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/082-402.webp#center)
 
 Certain guilds lend themselves to particular types of adventures better than others, as shown below. If you're interested in running an intrigue adventure, where the heroes must unravel twisted plots within plots, you'll want to choose a different guild from what you would select if you want to run a dungeon delve that will take the adventurers into the labyrinthine undercity.
 
@@ -86,37 +86,37 @@ Certain guilds lend themselves to particular types of adventures better than oth
 
 Beneath the urban environment of Ravnica is an entirely different city—the dark, dank undercity, where vermin and horrors lurk and the Golgari Swarm maintains its elegant courts. Indeed, thousands of years of development have buried countless layers of construction beneath the current surface streets, making the undercity much larger than the surface city, though much of it is inaccessible. But if a sinkhole or other catastrophe opens long-sealed vaults and exposes them to the surface again, who knows what horrors might be revealed?
 
-![Dungeon Delve Guilds](/3-Mechanics/CLI/tables/dungeon-delve-guilds-ggr.md)
+![Dungeon Delve Guilds](3-Mechanics/CLI/tables/dungeon-delve-guilds-ggr.md)
 
 #### Wilderness
 
 Though the world is covered with streets and buildings, Ravnica also has its wilderness areas, including the ruined rubblebelts haunted by the Gruul and the sylvan wilds cultivated by the Selesnya.
 
-![Wilderness Guilds](/3-Mechanics/CLI/tables/wilderness-guilds-ggr.md)
+![Wilderness Guilds](3-Mechanics/CLI/tables/wilderness-guilds-ggr.md)
 
 #### Plots and Intrigue
 
 Every guild has its internal politics, making it easy for characters to get caught up in intrigue—particularly within their own guilds. Certain guilds are more likely to involve themselves in the politics of *other* guilds, which makes them particularly good villains for intrigue-based adventures.
 
-![Plots and Intrigue; Intrigue Guilds](/3-Mechanics/CLI/tables/plots-and-intrigue-intrigue-guilds-ggr.md)
+![Plots and Intrigue; Intrigue Guilds](3-Mechanics/CLI/tables/plots-and-intrigue-intrigue-guilds-ggr.md)
 
 #### Mystery
 
 Ravnica is rife with crime, presenting law-abiding adventurers with ample opportunity to put their mystery-solving skills to the test. Identifying a guild assassin, tracking a stolen treasure, or unmasking a corrupt bureaucrat could all fall into this category. Of course, the adventurers need not be virtuous or law-abiding themselves: the Orzhov are more apt to send their own enforcers after thieves than they are to turn to the forces of law for assistance.
 
-![Mystery Guilds](/3-Mechanics/CLI/tables/mystery-guilds-ggr.md)
+![Mystery Guilds](3-Mechanics/CLI/tables/mystery-guilds-ggr.md)
 
 #### Disaster
 
 When a cyclonic rift sweeps through the streets, an uncontrolled wurm crashes through buildings, or a laboratory experiment goes haywire, heroes might be called upon to shelter the innocent, stop the disaster at its source, or hunt down the villain responsible.
 
-![Disaster Guilds](/3-Mechanics/CLI/tables/disaster-guilds-ggr.md)
+![Disaster Guilds](3-Mechanics/CLI/tables/disaster-guilds-ggr.md)
 
 #### Protection
 
 When the innocent are victimized by the powerful, heroes step in. Criminal shakedowns, military raids, endless riots, and more are chances for characters to prove their mettle and earn the adulation of the populace.
 
-![Protection Guilds](/3-Mechanics/CLI/tables/protection-guilds-ggr.md)
+![Protection Guilds](3-Mechanics/CLI/tables/protection-guilds-ggr.md)
 
 ### Guild versus Guild
 
@@ -126,7 +126,7 @@ If all the player characters belong to a single guild, choosing almost any other
 
 If the characters come from different guilds, a common enemy provides a good reason for them to work together. Any guild that isn't represented by one of the characters is a fine choice for a villain.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/083-403.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/083-403.webp#center)
 
 ## Involving the Characters
 
@@ -138,7 +138,7 @@ For example, say your villain is a group of Gruul anarchs raiding in a densely p
 
 The Cross Purposes table can help you involve the characters in an adventure by suggesting ways that a villain's activities might directly conflict with the player characters' goals or interests.
 
-![Involving the Characters; Cross Purposes](/3-Mechanics/CLI/tables/involving-the-characters-cross-purposes-ggr.md)
+![Involving the Characters; Cross Purposes](3-Mechanics/CLI/tables/involving-the-characters-cross-purposes-ggr.md)
 
 ## Complications
 
@@ -146,17 +146,17 @@ An adventure that pits player characters against a single guild is relatively st
 
 The involvement of a second guild can be as simple as the appearance of a bumbling innocent who needs the characters' protection, or as complex as a second villain who pursues an entirely separate scheme. The Secondary Guild Role table presents a range of options.
 
-![Complications; Secondary Guild Role](/3-Mechanics/CLI/tables/complications-secondary-guild-role-ggr.md)
+![Complications; Secondary Guild Role](3-Mechanics/CLI/tables/complications-secondary-guild-role-ggr.md)
 
 ### Guild Intrigue
 
 Intrigue in Ravnica most often involves interaction between two guilds, so you can use the Guild Intrigue table to find the nugget of a plot. The villain tables in the guild entries can help you determine the nature and motivations of the individuals involved.
 
-![Guild Intrigue](/3-Mechanics/CLI/tables/guild-intrigue-ggr.md)
+![Guild Intrigue](3-Mechanics/CLI/tables/guild-intrigue-ggr.md)
 
 ### Allies and Rivals
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/084-404.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/084-404.webp#center)
 
 A friendly contact can act as a patron, sending a character on a mission or a side quest either as a formal assignment or as a favor. Friendly contacts also have a knack for getting into perilous situations from which they need to be rescued, which can sometimes force characters into making difficult choices between saving friendly nonplayer characters and capturing villainous ones. In extraordinary circumstances, a friendly contact might even join the adventuring party for a short time.
 
@@ -171,7 +171,7 @@ Contacts can complicate things even more when they interact with multiple player
 
 ## Azorius Senate
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/085-405.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/085-405.webp#center)
 
 Adventures involving the Azorius Senate naturally revolve around law enforcement. Player characters who find themselves on the wrong side of the law might be forced to confront well-meaning Azorius arresters as enemies, even if the characters are innocent of any wrongdoing. Lawful characters might also assist the Azorius in maintaining law and order on the mean streets of Ravnica.
 
@@ -183,7 +183,7 @@ Map 4.1 depicts an arrester station, which serves as the law enforcement hub for
 
 Characters might be drawn to the arrester station because of prisoners held there, information or items stored there, or crimes occurring there. The Arrester Station Adventures table presents some possibilities.
 
-![Arrester Station Adventures](/3-Mechanics/CLI/tables/arrester-station-adventures-ggr.md)
+![Arrester Station Adventures](3-Mechanics/CLI/tables/arrester-station-adventures-ggr.md)
 
 #### Arrester Station Map
 
@@ -197,33 +197,33 @@ Direct access to the prison area from outside the building is provided by two lo
 
 The opposite end of the station is a headquarters for a local detachment of arresters. The main level includes two meeting rooms, an office for the commander, and a break room. The upper level provides working space where arresters can interview suspects and complete paperwork, as well as space for storing evidence. The lower level includes a morgue and a large area where the whole local force can be assembled.
 
-![Map 4.1: Arrester Station](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/086-406.webp#center)
+![Map 4.1: Arrester Station](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/086-406.webp#center)
 
 ### Azorius Villains
 
 Examples of Azorius villains appear in the Azorius Villains table.
 
-![Azorius Villains](/3-Mechanics/CLI/tables/azorius-villains-ggr.md)
+![Azorius Villains](3-Mechanics/CLI/tables/azorius-villains-ggr.md)
 
 #### Azorius as Campaign Villains
 
-The Azorius become villains when they abuse the power of the law. A local magistrate might imprison innocent people, or the senate might pass oppressive legislation, thereby drawing the ire of the Boros and the Selesnya, who care about the folk who get caught in the crosshairs. Arresters might decide to crack down on unsafe Izzet laboratory practices, illegal [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performances, or the Gruul presence in the city. Self-righteous prison wardens or precinct captains might abuse their authority in the name of the law, and corrupt bureaucrats might use their positions to garner favors for themselves and their relatives.
+The Azorius become villains when they abuse the power of the law. A local magistrate might imprison innocent people, or the senate might pass oppressive legislation, thereby drawing the ire of the Boros and the Selesnya, who care about the folk who get caught in the crosshairs. Arresters might decide to crack down on unsafe Izzet laboratory practices, illegal [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performances, or the Gruul presence in the city. Self-righteous prison wardens or precinct captains might abuse their authority in the name of the law, and corrupt bureaucrats might use their positions to garner favors for themselves and their relatives.
 
-Low-level characters might suffer harassment at the hands of overzealous arresters. As the campaign progresses, they might be able to identify a particular imperator who is driving this heightened aggression, who then becomes something of a nemesis for them. As they gain experience, this imperator continues to be a thorn in their side and advances through the ranks of the senate as well, becoming a minister and eventually the arbiter who dictates law enforcement policy for the entire guild. Along the way, this villain uses every available means to hinder the characters, probably veering into covert illegal activities (evil means for a good end). The climax of the campaign might involve a violent confrontation with this arbiter and a group of arresters, or a tense verbal argument adjudicated by Supreme Judge [Isperia](/3-Mechanics/CLI/bestiary/npc/isperia-ggr.md) herself.
+Low-level characters might suffer harassment at the hands of overzealous arresters. As the campaign progresses, they might be able to identify a particular imperator who is driving this heightened aggression, who then becomes something of a nemesis for them. As they gain experience, this imperator continues to be a thorn in their side and advances through the ranks of the senate as well, becoming a minister and eventually the arbiter who dictates law enforcement policy for the entire guild. Along the way, this villain uses every available means to hinder the characters, probably veering into covert illegal activities (evil means for a good end). The climax of the campaign might involve a violent confrontation with this arbiter and a group of arresters, or a tense verbal argument adjudicated by Supreme Judge [Isperia](3-Mechanics/CLI/bestiary/npc/isperia-ggr.md) herself.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/087-407.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/087-407.webp#center)
 
 ### Azorius Character Goals
 
 Characters who are members of the Azorius Senate might be sent on missions of law enforcement by their superiors or contacts in the guild, and trusted characters might be tasked with apprehending criminals without killing them. The examples on the Azorius Assignments table might be side quests specific to an Azorius character, undertaken while a party of adventurers is engaged in a larger mission.
 
-![Azorius Character Goals; Azorius Assignments](/3-Mechanics/CLI/tables/azorius-character-goals-azorius-assignments-ggr.md)
+![Azorius Character Goals; Azorius Assignments](3-Mechanics/CLI/tables/azorius-character-goals-azorius-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Azorius Adventure Hooks table presents ideas for additional adventures involving the Azorius Senate.
 
-![Other Adventure Hooks; Azorius Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-azorius-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Azorius Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-azorius-adventure-hooks-ggr.md)
 
 ## Boros Legion
 
@@ -237,7 +237,7 @@ The Boros Legion maintains garrisons throughout Ravnica, ensuring that every nei
 
 Designed with defense foremost, a Boros garrison is well suited for adventures that challenge the characters to find a way in or fight their way out. The Legion Garrison Adventures table offers a number of possibilities.
 
-![Legion Garrison Adventures](/3-Mechanics/CLI/tables/legion-garrison-adventures-ggr.md)
+![Legion Garrison Adventures](3-Mechanics/CLI/tables/legion-garrison-adventures-ggr.md)
 
 #### Legion Garrison Map
 
@@ -247,21 +247,21 @@ An extensive array of wall niches in the lower tier (at street level) provides s
 
 The upper tier includes more large halls, the commander's quarters and office, and several niches—accessible only by flying from outside the garrison—that serve as living quarters and watch-posts for the angels stationed here. Parapets on the rooftop provide cover for humanoid archers as well, and the broad open space that they surround offers room for training and sparring. Grass-covered ridges separate different training areas and add a contrasting touch of nature's beauty to the otherwise stony building.
 
-![Map 4.2: Legion Garrison](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/088-408.webp#center)
+![Map 4.2: Legion Garrison](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/088-408.webp#center)
 
 ### Boros Villains
 
 Examples of Boros villains appear in the Boros Villains table.
 
-![Boros Villains](/3-Mechanics/CLI/tables/boros-villains-ggr.md)
+![Boros Villains](3-Mechanics/CLI/tables/boros-villains-ggr.md)
 
 #### Boros as Campaign Villains
 
-Not too long ago, the leaders of the Boros Legion valued zeal more highly than justice, believing that their military might made their cause right and just. Although the current guildmaster, [Aurelia](/3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), has reversed her stance on the issue, some voices within the legion still espouse these views. Boros villains are typically intolerant, self-righteous warmongers who abuse their power in pursuit of their own private visions of justice. And because the lower echelons of the guild are taught to follow orders without question, even the villains among the Boros can command companies of soldiers to help them carry out their schemes.
+Not too long ago, the leaders of the Boros Legion valued zeal more highly than justice, believing that their military might made their cause right and just. Although the current guildmaster, [Aurelia](3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), has reversed her stance on the issue, some voices within the legion still espouse these views. Boros villains are typically intolerant, self-righteous warmongers who abuse their power in pursuit of their own private visions of justice. And because the lower echelons of the guild are taught to follow orders without question, even the villains among the Boros can command companies of soldiers to help them carry out their schemes.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/089-409.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/089-409.webp#center)
 
-Boros villains are inclined to engage in activity that involves pursuing one's passion, acquiring power, or exacting retribution. The Boros make good campaign antagonists if the adventurers represent the forces of chaos that the legion opposes—[Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) revelers, Gruul raiders, Golgari corrupters, or Dimir spies.
+Boros villains are inclined to engage in activity that involves pursuing one's passion, acquiring power, or exacting retribution. The Boros make good campaign antagonists if the adventurers represent the forces of chaos that the legion opposes—[Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) revelers, Gruul raiders, Golgari corrupters, or Dimir spies.
 
 You could structure a campaign around the legion's slow progress in taking over the authority of the Azorius Senate and imposing a sort of martial law on the city. A campaign of this sort is particularly effective if the characters initially work alongside the Boros, especially if one or more characters belong to the legion. They might help Boros soldiers drive off Gruul raiders or uproot Dimir spies—clearly fighting against evil on the side of the good and just. As time goes on, though, their Boros allies might start taking their war against evil too far. Innocent citizens get caught in the crossfire, most punishment is cruel and excessive, and any resistance is met with overwhelming force, to "set an example" for anyone else who might consider opposing the legion. A Boros ally (or even a close friend) of the characters might become fully caught up in this fervor. Perhaps the characters can talk some sense into their old friend, but the resolution of the campaign might force them to take more extreme measures to curb the legion's excesses.
 
@@ -269,13 +269,13 @@ You could structure a campaign around the legion's slow progress in taking over 
 
 The Boros Legion sends individuals or small parties on small-scale military missions, usually to help quell riots or protect bystanders from dangerous situations. Trusted characters might also be involved in internal investigations of suspected wrongdoing, especially if they're associated with the Wojek League. The Boros Assignments table provides examples of missions or side quests that Boros characters might undertake.
 
-![Boros Character Goals; Boros Assignments](/3-Mechanics/CLI/tables/boros-character-goals-boros-assignments-ggr.md)
+![Boros Character Goals; Boros Assignments](3-Mechanics/CLI/tables/boros-character-goals-boros-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Boros Adventure Hooks table presents ideas for additional adventures themed around the Boros Legion.
 
-![Other Adventure Hooks; Boros Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-boros-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Boros Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-boros-adventure-hooks-ggr.md)
 
 ## House Dimir
 
@@ -295,7 +295,7 @@ The first task in almost any mission involving a Dimir safe house is to find the
 
 The Safe House Adventures table offers some reasons why characters might need to visit such a location. In addition, you could use any other guild's sample location as the site for a location-based adventure, with a simple mission: uncover a Dimir spy in that location.
 
-![Safe House Adventures](/3-Mechanics/CLI/tables/safe-house-adventures-ggr.md)
+![Safe House Adventures](3-Mechanics/CLI/tables/safe-house-adventures-ggr.md)
 
 #### Safe House Map
 
@@ -303,7 +303,7 @@ This safe house is a domed building encased in a stone exoskeleton characteristi
 
 A secret door in the back of a shared closet leads to a spiral staircase that descends to the basement, which contains three small holding cells. A watch post at the end of the hall allows a guard to keep an eye on the cells and anyone coming down the stairs. An interrogation room can be outfitted with equipment designed to extract information. One-way mirrors offer a view on the interrogation proceedings from an observation room.
 
-![Map 4.3: Safe House](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/090-410.webp#center)
+![Map 4.3: Safe House](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/090-410.webp#center)
 
 > [!note] Safe House Wards
 > 
@@ -319,19 +319,19 @@ A secret door in the back of a shared closet leads to a spiral staircase that de
 
 The Dimir can be masterfully sly villains. Example villains appear in the Dimir Villains table.
 
-![Dimir Villains](/3-Mechanics/CLI/tables/dimir-villains-ggr.md)
+![Dimir Villains](3-Mechanics/CLI/tables/dimir-villains-ggr.md)
 
 #### Dimir as Campaign Villains
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/091-411.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/091-411.webp#center)
 
 Dimir villains favor schemes involving captivity and coercion, defamation, impersonation and disguise, murder, politics, theft, and torture. Perhaps the most insidious technique employed by the Dimir is the erasing and modifying of memories.
 
 Because their tendrils reach into every other guild, Dimir villains could turn out to be the link between plots that initially seem to be unconnected. Even when individual missions might be straightforward dungeon crawls or battles in the streets, the campaign revolves around the mystery of determining the true villain.
 
-At low and middle levels, the characters might find themselves engaged in important but apparently unrelated tasks. They might kill or drive off a monster that is lairing in an abandoned arrester station (unwittingly clearing the way for a Dimir agent to be placed in the station). They might help the Boros capture a dangerous [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) ringleader (who is actually a Dimir agent working to destabilize Azorius influence). They might unmask a Dimir spy within one of their own guilds (who is an internal rival of the Dimir villain).
+At low and middle levels, the characters might find themselves engaged in important but apparently unrelated tasks. They might kill or drive off a monster that is lairing in an abandoned arrester station (unwittingly clearing the way for a Dimir agent to be placed in the station). They might help the Boros capture a dangerous [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) ringleader (who is actually a Dimir agent working to destabilize Azorius influence). They might unmask a Dimir spy within one of their own guilds (who is an internal rival of the Dimir villain).
 
-As the characters advance in level, they might come to realize that a powerful and ambitious Azorius figure is going too far in spying on the populace, despite that guild's great success in using precognitive mages to arrest evildoers—especially Dimir spies. Ultimately, the Azorius villain is revealed to be a high-ranking Dimir agent, a confidant of [Lazav](/3-Mechanics/CLI/bestiary/npc/lazav-ggr.md) or even [Lazav](/3-Mechanics/CLI/bestiary/npc/lazav-ggr.md) himself, who is trying to take over the Azorius Senate and turn it into a surveillance and espionage organization under the villain's control.
+As the characters advance in level, they might come to realize that a powerful and ambitious Azorius figure is going too far in spying on the populace, despite that guild's great success in using precognitive mages to arrest evildoers—especially Dimir spies. Ultimately, the Azorius villain is revealed to be a high-ranking Dimir agent, a confidant of [Lazav](3-Mechanics/CLI/bestiary/npc/lazav-ggr.md) or even [Lazav](3-Mechanics/CLI/bestiary/npc/lazav-ggr.md) himself, who is trying to take over the Azorius Senate and turn it into a surveillance and espionage organization under the villain's control.
 
 ### Dimir Character Goals
 
@@ -339,13 +339,13 @@ Characters who are members of House Dimir are spies and saboteurs. It's possible
 
 The missions on the Dimir Assignments table can work for a team of Dimir agents or as secret missions for a Dimir character to pursue under the cover of the larger adventure plot.
 
-![Dimir Character Goals; Dimir Assignments](/3-Mechanics/CLI/tables/dimir-character-goals-dimir-assignments-ggr.md)
+![Dimir Character Goals; Dimir Assignments](3-Mechanics/CLI/tables/dimir-character-goals-dimir-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Dimir Adventure Hooks table presents ideas for additional adventures themed around House Dimir.
 
-![Other Adventure Hooks; Dimir Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-dimir-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Dimir Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-dimir-adventure-hooks-ggr.md)
 
 ## Golgari Swarm
 
@@ -359,7 +359,7 @@ The Golgari are a strange underground aristocracy in a city that mostly lacks a 
 
 The Undercity Mansion Adventures table provides some possible challenges based in and around the Golgari undercity mansion.
 
-![Undercity Mansion Adventures](/3-Mechanics/CLI/tables/undercity-mansion-adventures-ggr.md)
+![Undercity Mansion Adventures](3-Mechanics/CLI/tables/undercity-mansion-adventures-ggr.md)
 
 #### Undercity Mansion Map
 
@@ -367,19 +367,19 @@ This structure is built in a large depression, perhaps part of Deadbridge Chasm.
 
 The bottom level might be a basement excavated in the floor of a chasm, or it could hang above still more open space like a giant stalactite. It includes living quarters for the owners, servants, and guests.
 
-![Map 4.4: Undercity Mansion](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/092-412.webp#center)
+![Map 4.4: Undercity Mansion](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/092-412.webp#center)
 
 ### Golgari Villains
 
 Examples of Golgari villains appear in the Golgari Villains table.
 
-![Golgari Villains](/3-Mechanics/CLI/tables/golgari-villains-ggr.md)
+![Golgari Villains](3-Mechanics/CLI/tables/golgari-villains-ggr.md)
 
 #### Golgari as Campaign Villains
 
 Given their affinity for death, necromancy, and decay, the Golgari make excellent villains. Because they consider life and death as equal parts of the natural cycle, they have no qualms about subjecting entire neighborhoods to poisonous gas or strangling vines to achieve their various goals. When a Golgari assassin goes on a killing spree, when a patch of their vegetative growth begins "reclaiming" an area that isn't yet abandoned, or when their fungus-bearing zombies emerge from the undercity to haunt the city streets, heroes are duty bound to act against the threat.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/093-413.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/093-413.webp#center)
 
 The Golgari possess a combination of ambition and ruthlessness that makes them extremely dangerous adversaries. The tension among the various factions of the swarm (the elves, the medusas, the kraul, and the rising erstwhile) adds an element of instability to the mix. But perhaps the Golgari Swarm's most dangerous quality is the widespread confidence among its members that it will survive any catastrophe that might befall the surface world. This certainty means Golgari villains will stop at nothing in an attempt to provoke such an event—triggering a virulent plague, causing explosive plant growth, or inciting the other guilds into open war, for example. Over the course of a campaign, a group of adventurers might foil Golgari plans to accomplish all these things, or the characters might be constantly struggling against one ongoing disaster.
 
@@ -389,17 +389,17 @@ For example, the characters might spend the early part of the campaign resolving
 
 Characters who are members of the Golgari Swarm might be sent on missions into the undercity, particularly jobs that involve retrieval or salvage. The secretive agents of the Ochran are more likely to pursue goals that call for theft or even assassination, while shamans could participate in the swarm's work of "reclamation" in surface neighborhoods. The Golgari Assignments table reflects this range of possibilities. An assignment can also serve as a side quest for Golgari adventurers to undertake while pursuing a larger goal with a mixed-guild party.
 
-![Golgari Character Goals; Golgari Assignments](/3-Mechanics/CLI/tables/golgari-character-goals-golgari-assignments-ggr.md)
+![Golgari Character Goals; Golgari Assignments](3-Mechanics/CLI/tables/golgari-character-goals-golgari-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Golgari Adventure Hooks table offers ideas for additional adventures themed around the Golgari Swarm.
 
-![Other Adventure Hooks; Golgari Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-golgari-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Golgari Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-golgari-adventure-hooks-ggr.md)
 
 ## Gruul Clans
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/094-414.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/094-414.webp#center)
 
 An adventure involving the Gruul Clans typically revolves around combat. The Gruul provide characters with opportunities to fight huge monsters and vicious berserkers. The Gruul bring chaos and destruction with them wherever they go, so they can easily disrupt and complicate adventures involving any other guild. Any time an adventure needs an injection of brutal violence, the Gruul are a good tool for the purpose.
 
@@ -411,7 +411,7 @@ The Gruul have no interest in the buildings, streets, and markets of Ravnica, ex
 
 Many Gruul adventures begin with a raid into a settled part of the city. Adventurers might be able to follow the raiders back to their camp—for the sake of revenge, in an effort to retrieve something, or perhaps in chains.
 
-![Rubblebelt Encampment Adventures](/3-Mechanics/CLI/tables/rubblebelt-encampment-adventures-ggr.md)
+![Rubblebelt Encampment Adventures](3-Mechanics/CLI/tables/rubblebelt-encampment-adventures-ggr.md)
 
 #### Rubblebelt Encampment Map
 
@@ -419,13 +419,13 @@ Built in a plaza surrounded by crumbling ruins, this camp offers some defensive 
 
 Otherwise, the camp is little more than a handful of tents around a bonfire. A trash pit serves as a means of waste disposal, a few makeshift cages can hold prisoners, and a partially enclosed area to one side has been converted into a pen for the beasts used by the Gruul.
 
-![Map 4.5: Rubblebelt Encampment](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/095-415.webp#center)
+![Map 4.5: Rubblebelt Encampment](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/095-415.webp#center)
 
 ### Gruul Villains
 
 The Gruul are straightforward villains, employing direct action and violence to tear down civilized society. They aren't schemers, and they have little patience for political maneuvering. Their cunning is that of a hunter stalking its prey, and the threat they pose is rampant, aggressive destruction. Examples of Gruul villains appear in the Gruul Villains table.
 
-![Gruul Villains](/3-Mechanics/CLI/tables/gruul-villains-ggr.md)
+![Gruul Villains](3-Mechanics/CLI/tables/gruul-villains-ggr.md)
 
 #### Gruul as Campaign Villains
 
@@ -437,13 +437,13 @@ At low levels, characters could be drawn into seemingly coincidental clashes wit
 
 The goals shown on the Gruul Assignments table can be objectives in themselves, or side quests that a Gruul character pursues in the course of undertaking an adventure with a larger purpose.
 
-![Gruul Character Goals; Gruul Assignments](/3-Mechanics/CLI/tables/gruul-character-goals-gruul-assignments-ggr.md)
+![Gruul Character Goals; Gruul Assignments](3-Mechanics/CLI/tables/gruul-character-goals-gruul-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Gruul Adventure Hooks table presents ideas for additional adventures themed around the Gruul Clans.
 
-![Other Adventure Hooks; Gruul Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-gruul-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Gruul Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-gruul-adventure-hooks-ggr.md)
 
 ## Izzet League
 
@@ -451,15 +451,15 @@ Adventures involving the Izzet League typically concern magical mishaps, dangero
 
 ### Experimental Workshop
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/096-416.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/096-416.webp#center)
 
-The fundamental responsibility of the Izzet League is building and maintaining Ravnica's infrastructure, and the guild's work is responsible for many of the magical–technological conveniences that make life in the city relatively safe and comfortable, from paved roadways to running water. Under the leadership of the draconic genius [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the Izzet have continued to innovate, taking their work far beyond the essential needs of infrastructure and into the realm of wild invention. As a result, the workshops and laboratories of the Izzet are prone to magical mishaps, with results that range from personal injury to district-wide destruction. It is perhaps best for Ravnica as a whole that most of Izzet's work takes place in small workshops scattered throughout the city, rather than being concentrated in one place (with the guildhall of Nivix being the notable exception).
+The fundamental responsibility of the Izzet League is building and maintaining Ravnica's infrastructure, and the guild's work is responsible for many of the magical–technological conveniences that make life in the city relatively safe and comfortable, from paved roadways to running water. Under the leadership of the draconic genius [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the Izzet have continued to innovate, taking their work far beyond the essential needs of infrastructure and into the realm of wild invention. As a result, the workshops and laboratories of the Izzet are prone to magical mishaps, with results that range from personal injury to district-wide destruction. It is perhaps best for Ravnica as a whole that most of Izzet's work takes place in small workshops scattered throughout the city, rather than being concentrated in one place (with the guildhall of Nivix being the notable exception).
 
 #### Experimental Workshop Adventures
 
 Izzet workshops like the one depicted in map 4.6 are notable for three things: the brilliant minds at work there, the incredible inventions they produce, and the destructive events that can occur when things go wrong. Adventurers might be drawn to a workshop to steal, thwart, or protect any of those things. The Experimental Workshop Adventures table shows some examples.
 
-![Experimental Workshop Adventures](/3-Mechanics/CLI/tables/experimental-workshop-adventures-ggr.md)
+![Experimental Workshop Adventures](3-Mechanics/CLI/tables/experimental-workshop-adventures-ggr.md)
 
 #### Experimental Workshop Map
 
@@ -469,9 +469,9 @@ Some parts of the generator extend up to the ground floor and the laboratory mez
 
 The Bizarre Magical Effects table provides suggestions for the sort of events that might result from a failed (or successful!) Izzet experiment, which can add spice to any Izzet adventure.
 
-![Map 4.6: Experimental Workshop](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/097-417.webp#center)
+![Map 4.6: Experimental Workshop](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/097-417.webp#center)
 
-![Experimental Workshop Map; Bizarre Magical Effects](/3-Mechanics/CLI/tables/experimental-workshop-map-bizarre-magical-effects-ggr.md)
+![Experimental Workshop Map; Bizarre Magical Effects](3-Mechanics/CLI/tables/experimental-workshop-map-bizarre-magical-effects-ggr.md)
 
 ### Izzet Villains
 
@@ -479,7 +479,7 @@ The behavior that members of the Izzet League display most often is careless dis
 
 The Izzet Villains table includes examples of villains as well as those who have less sinister intentions.
 
-![Izzet Villains](/3-Mechanics/CLI/tables/izzet-villains-ggr.md)
+![Izzet Villains](3-Mechanics/CLI/tables/izzet-villains-ggr.md)
 
 #### Izzet as Campaign Villains
 
@@ -487,19 +487,19 @@ A campaign involving the Izzet League could revolve around an Izzet researcher's
 
 At low levels, the characters might help deal with a small-scale mishap in an Izzet workshop that is presumed to be an accident. Maybe something in the manner of the responsible researcher stirs up their suspicion, but there's no evidence of wrongdoing at this point. As the campaign progresses, the characters might continue having run-ins with the same researcher, whose work seems to be growing more dangerous. Eventually, they discover evidence that this researcher is developing weapons to use against the other guilds, and as a result the researcher has to move to a secret workshop, perhaps tucked away in the undercity. Or perhaps the guildmaster intervenes, declares this issue to be an internal matter for the Izzet to resolve, and assures the authorities that the researcher will be properly dealt with. As the campaign reaches its climax, the adventurers are tasked with discovering the researcher's secret laboratory and disabling the super-weapon.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/098-418.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/098-418.webp#center)
 
 ### Izzet Character Goals
 
 Characters who are connected with the Izzet League might be asked to run errands for higher-ranked researchers, or to take on more difficult tasks on behalf of colleagues. The Izzet Assignments table provides examples of goals that can serve as adventure hooks for a party or as side quests for an Izzet character to pursue in the course of a larger adventure.
 
-![Izzet Character Goals; Izzet Assignments](/3-Mechanics/CLI/tables/izzet-character-goals-izzet-assignments-ggr.md)
+![Izzet Character Goals; Izzet Assignments](3-Mechanics/CLI/tables/izzet-character-goals-izzet-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Izzet Adventure Hooks table presents ideas for additional adventures themed around the Izzet League.
 
-![Other Adventure Hooks; Izzet Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-izzet-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Izzet Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-izzet-adventure-hooks-ggr.md)
 
 ## Orzhov Syndicate
 
@@ -513,7 +513,7 @@ Combining the guild's interests in organized crime, banking, and religion, Orzho
 
 An adventure in an Orzhov basilica, like the one shown in map 4.7, can feel like the action in a gangster movie, a bank heist, or the exploration of a haunted house. The Grand Basilica Adventures table provides some examples.
 
-![Grand Basilica Adventures](/3-Mechanics/CLI/tables/grand-basilica-adventures-ggr.md)
+![Grand Basilica Adventures](3-Mechanics/CLI/tables/grand-basilica-adventures-ggr.md)
 
 #### Orzhov Basilica Map
 
@@ -523,19 +523,19 @@ The three levels of the spire hold luxurious apartments where living oligarchs d
 
 The crypts and vaults below the basilica hold the bones of ancient oligarchs and their most cherished treasures. Some crypts contain just bones, others just valuables, and some hold both. A security station keeps watch on the entire level, and the guards there are typically the only ones who have keys to open the metal portcullises that obstruct the hallway.
 
-![Map 4.7: Grand Basilica](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/099-419.webp#center)
+![Map 4.7: Grand Basilica](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/099-419.webp#center)
 
 ### Orzhov Villains
 
 Examples of Orzhov villains appear in the Orzhov Villains table.
 
-![Orzhov Villains](/3-Mechanics/CLI/tables/orzhov-villains-ggr.md)
+![Orzhov Villains](3-Mechanics/CLI/tables/orzhov-villains-ggr.md)
 
 #### Orzhov as Campaign Villains
 
 Orzhov villains often scheme to achieve immortality (if they are still alive and have been denied the prospect of becoming a spirit after death), to gain influence, and especially to gather wealth (because too much is never enough). Their favorite methods include coercion, confidence scams (mostly relying on the fine print in magically binding contracts), murder, politics, theft, torture, and vice.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/100-420.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/100-420.webp#center)
 
 You could build a campaign around the Orzhov Syndicate's efforts to gain control of the adventurers. Recognizing the characters as powerful agents for change, one or more pontiffs scheme to make sure that the syndicate can direct that force toward goals of their choosing. In typical Orzhov fashion, that generally means trying to force the characters into debt, either to the Orzhov in general or to an individual pontiff.
 
@@ -549,31 +549,31 @@ As the campaign builds to a climax, the adventurers might be forced to make sacr
 
 Characters who are members of the Orzhov Syndicate, as well as those who are indebted to the Orzhov, might receive missions or errands that further the interests of their corrupt overlords. The Orzhov Assignments table includes examples of quests and side quests that such characters might undertake.
 
-![Orzhov Character Goals; Orzhov Assignments](/3-Mechanics/CLI/tables/orzhov-character-goals-orzhov-assignments-ggr.md)
+![Orzhov Character Goals; Orzhov Assignments](3-Mechanics/CLI/tables/orzhov-character-goals-orzhov-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Orzhov Adventure Hooks table presents ideas for additional adventures themed around the Orzhov Syndicate.
 
-![Other Adventure Hooks; Orzhov Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-orzhov-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Orzhov Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-orzhov-adventure-hooks-ggr.md)
 
 ## Cult of Rakdos
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/101-421.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/101-421.webp#center)
 
-On most worlds, a cult dedicated to an ancient demon lord would be an obvious villain, to be rooted out and exterminated at all costs. On Ravnica, though, the status of the Cult of Rakdos isn't so clear-cut. It is a guild like the others, and its existence is mandated by the Guildpact, so exterminating it and its founder would violate the fundamental social order of the world. Although the ranks of [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) include outright villains who crave blood and mayhem, most of its members are performers who just want to put on a good show. Not every performance ends in violence, and even when a riot does break out, it's not always easy to pin the blame on the entertainers.
+On most worlds, a cult dedicated to an ancient demon lord would be an obvious villain, to be rooted out and exterminated at all costs. On Ravnica, though, the status of the Cult of Rakdos isn't so clear-cut. It is a guild like the others, and its existence is mandated by the Guildpact, so exterminating it and its founder would violate the fundamental social order of the world. Although the ranks of [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) include outright villains who crave blood and mayhem, most of its members are performers who just want to put on a good show. Not every performance ends in violence, and even when a riot does break out, it's not always easy to pin the blame on the entertainers.
 
 Nonetheless, the Cult of Rakdos has more than its share of truly villainous members, and the guild provides ample opportunity for adventurers to fight against true evil.
 
 ### Notorious Nightclub
 
-Catering to all sorts of demented desires, nightclubs like the one shown in map 4.8 are permanent venues, in contrast to the portable tents and stages set up by [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers in streets and plazas every night. Much of what happens here would be illegal if it weren't consensual—and if the city's rich and powerful weren't as drawn to its forbidden pleasures as anyone else in Ravnica.
+Catering to all sorts of demented desires, nightclubs like the one shown in map 4.8 are permanent venues, in contrast to the portable tents and stages set up by [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) performers in streets and plazas every night. Much of what happens here would be illegal if it weren't consensual—and if the city's rich and powerful weren't as drawn to its forbidden pleasures as anyone else in Ravnica.
 
 #### Notorious Nightclub Adventures
 
-Characters might be drawn to a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) nightclub for reasons that have nothing to do with adventuring, but adventures unfold in these places regardless. The Notorious Nightclub Adventures table includes a variety of examples.
+Characters might be drawn to a [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) nightclub for reasons that have nothing to do with adventuring, but adventures unfold in these places regardless. The Notorious Nightclub Adventures table includes a variety of examples.
 
-![Notorious Nightclub Adventures](/3-Mechanics/CLI/tables/notorious-nightclub-adventures-ggr.md)
+![Notorious Nightclub Adventures](3-Mechanics/CLI/tables/notorious-nightclub-adventures-ggr.md)
 
 #### Notorious Nightclub Map
 
@@ -581,35 +581,35 @@ Security, privacy, and terror are the priorities of this nightclub. Visitors are
 
 A second stage in the lower level provides a more up-close experience, which often means audience members are showered in blood or drawn into the show. Several private booths surround the backstage area, with doors that include shuttered windows to enable those inside to keep an eye on the show or carry out private business.
 
-![Map 4.8: Notorious Nightclub](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/102-422.webp#center)
+![Map 4.8: Notorious Nightclub](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/102-422.webp#center)
 
 ### Rakdos Villains
 
-[Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) villains range in power from demented cultists to sadistic demons. Most of them are driven by a desire for unfettered mayhem. A hunger for a certain form of immortality (being an artist who is remembered forever) often feeds that desire, and insofar as [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) can be considered the "god" of his cult, objectives related to magic—carrying out his wishes, offering him sacrifices, and rousing him into action—are also significant objectives for some cultists. Driven as they are by selfish impulse and emotion, [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) villains also sometimes pursue schemes related to passion, power, or revenge. Specific examples appear on the [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) Villains table.
+[Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) villains range in power from demented cultists to sadistic demons. Most of them are driven by a desire for unfettered mayhem. A hunger for a certain form of immortality (being an artist who is remembered forever) often feeds that desire, and insofar as [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) can be considered the "god" of his cult, objectives related to magic—carrying out his wishes, offering him sacrifices, and rousing him into action—are also significant objectives for some cultists. Driven as they are by selfish impulse and emotion, [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) villains also sometimes pursue schemes related to passion, power, or revenge. Specific examples appear on the [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) Villains table.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/103-423.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/103-423.webp#center)
 
-![Rakdos Villains](/3-Mechanics/CLI/tables/rakdos-villains-ggr.md)
+![Rakdos Villains](3-Mechanics/CLI/tables/rakdos-villains-ggr.md)
 
 #### Rakdos as Campaign Villains
 
 You could build a campaign around the Cult of Rakdos's efforts to stir its demonic patron into action against the other guilds. The campaign might unfold amid steadily increasing violence, escalating to episodes of widespread rioting and rampaging demons.
 
-At lower levels, the adventurers might encounter incidental violence spilling over from [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) venues: a brawl outside a nightclub, overenthusiastic devils spreading fires around a street stage, or the "accidental" death of a few performers at the climax of their act. As the campaign progresses, the characters might be drawn into combating the efforts of blood witches who are trying to exterminate the cult's most active enemies. The more they foil the cult's efforts, the more the characters themselves become targets of both ridicule and violent action.
+At lower levels, the adventurers might encounter incidental violence spilling over from [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) venues: a brawl outside a nightclub, overenthusiastic devils spreading fires around a street stage, or the "accidental" death of a few performers at the climax of their act. As the campaign progresses, the characters might be drawn into combating the efforts of blood witches who are trying to exterminate the cult's most active enemies. The more they foil the cult's efforts, the more the characters themselves become targets of both ridicule and violent action.
 
-At the campaign's climax, the adventurers might have to interrupt a ritual performed in [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)'s lair in order to prevent him from rampaging through the city—or if they are too late to do that, they might have to fight the ancient demon lord himself.
+At the campaign's climax, the adventurers might have to interrupt a ritual performed in [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md)'s lair in order to prevent him from rampaging through the city—or if they are too late to do that, they might have to fight the ancient demon lord himself.
 
 ### Rakdos Character Goals
 
-Characters who are members of the Cult of Rakdos are expected to be self-motivated and rarely take orders from anyone other than [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself. The [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) Assignments table includes some suggestions for adventures or side quests that [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) characters might undertake on their own initiative, or perhaps at the request of a ringmaster or a fellow performer.
+Characters who are members of the Cult of Rakdos are expected to be self-motivated and rarely take orders from anyone other than [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) himself. The [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) Assignments table includes some suggestions for adventures or side quests that [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) characters might undertake on their own initiative, or perhaps at the request of a ringmaster or a fellow performer.
 
-![Rakdos Character Goals; Rakdos Assignments](/3-Mechanics/CLI/tables/rakdos-character-goals-rakdos-assignments-ggr.md)
+![Rakdos Character Goals; Rakdos Assignments](3-Mechanics/CLI/tables/rakdos-character-goals-rakdos-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
-The [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) Adventure Hooks table presents ideas for additional adventures themed around the Cult of Rakdos.
+The [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) Adventure Hooks table presents ideas for additional adventures themed around the Cult of Rakdos.
 
-![Other Adventure Hooks; Rakdos Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-rakdos-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Rakdos Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-rakdos-adventure-hooks-ggr.md)
 
 ## Selesnya Conclave
 
@@ -623,7 +623,7 @@ The basic unit of the Conclave's organization is the vernadi—a community cente
 
 Though a vernadi lacks the defensive fortifications of, for example, a Boros garrison, it is still a difficult place to attack or infiltrate. Because of the sheer numbers of initiates that might be inside, stealth is probably a better tactic than frontal assault. The Vernadi Center Adventures table offers some suggestions.
 
-![Vernadi Center Adventures](/3-Mechanics/CLI/tables/vernadi-center-adventures-ggr.md)
+![Vernadi Center Adventures](3-Mechanics/CLI/tables/vernadi-center-adventures-ggr.md)
 
 #### Vernadi Center Map
 
@@ -631,7 +631,7 @@ The temple shown in map 4.9 is at the heart of the vernadi, built in and around 
 
 Gracefully curving ramps sweep around the trunk of the tree, leading to various other small buildings. Several of these are open to the air, offering sheltered places for gatherings or quiet contemplation. Others are apartments where leaders of the vernadi live. Near the top of the tree is a large, round temple space.
 
-![Map 4.9: Vernadi Center](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/104-424.webp#center)
+![Map 4.9: Vernadi Center](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/104-424.webp#center)
 
 ### Selesnya Villains
 
@@ -639,9 +639,9 @@ True evil is rare among the members of Selesnya, with misplaced religious zeal b
 
 Examples of Selesnya villains appear in the Selesnya Villains table.
 
-![Selesnya Villains](/3-Mechanics/CLI/tables/selesnya-villains-ggr.md)
+![Selesnya Villains](3-Mechanics/CLI/tables/selesnya-villains-ggr.md)
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/105-425.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/105-425.webp#center)
 
 #### Selesnya as Campaign Villains
 
@@ -653,13 +653,13 @@ At lower levels, Selesnya might be an ally to the player characters, offering su
 
 Characters who are part of the Selesnya Conclave are usually sent into the world to help ease suffering, make peace, win converts, and advance the other objectives of the guild. The Selesnya Assignments table includes a number of side quests for individual Selesnya characters as well as adventure hooks for a whole party.
 
-![Selesnya Character Goals; Selesnya Assignments](/3-Mechanics/CLI/tables/selesnya-character-goals-selesnya-assignments-ggr.md)
+![Selesnya Character Goals; Selesnya Assignments](3-Mechanics/CLI/tables/selesnya-character-goals-selesnya-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Selesnya Adventure Hooks table presents ideas for additional adventures themed around the conclave.
 
-![Other Adventure Hooks; Selesnya Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-selesnya-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Selesnya Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-selesnya-adventure-hooks-ggr.md)
 
 ## Simic Combine
 
@@ -673,7 +673,7 @@ Although most Simic research is concentrated in the nine zonots distributed all 
 
 Adventures in a growth chamber often involve dealing with Simic experiments. The Growth Chamber Adventures table shows some examples.
 
-![Growth Chamber Adventures](/3-Mechanics/CLI/tables/growth-chamber-adventures-ggr.md)
+![Growth Chamber Adventures](3-Mechanics/CLI/tables/growth-chamber-adventures-ggr.md)
 
 #### Growth Chamber Map
 
@@ -685,15 +685,15 @@ The first level above the main floor is dedicated to living, cooking, and eating
 
 The other levels of the chamber are entirely dedicated to research and space to grow the laboratory's creations. Growth pods are found in nearly every room.
 
-![Map 4.10: Growth Chambers](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/106-426.webp#center)
+![Map 4.10: Growth Chambers](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/106-426.webp#center)
 
 ### Simic Villains
 
 Examples of Simic villains appear in the Simic Villains table.
 
-![Simic Villains](/3-Mechanics/CLI/tables/simic-villains-ggr.md)
+![Simic Villains](3-Mechanics/CLI/tables/simic-villains-ggr.md)
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/107-427.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/107-427.webp#center)
 
 #### Simic as Campaign Villains
 
@@ -701,19 +701,19 @@ Many Simic researchers are driven by the belief that the guild must adapt to the
 
 In the early stages of the campaign, the adventurers might face Simic-related threats such as rogue hybrids and rampaging krasis, which seem to be unrelated to each other and more or less accidental. As the campaign progresses, it becomes clear that these Simic creatures are part of a military build-up. The wrath of the other guilds turns toward the combine, but this conflict is exactly what the guild has been preparing for. Ultimately, it falls to the characters to either prevent the war, disable the Simic creatures that are poised to obliterate the other guilds' armies, or find another course of action that can maintain the balance of power in Ravnica.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/108-428.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/108-428.webp#center)
 
 ### Simic Character Goals
 
 The Simic Assignments table presents some ideas for missions that could drive an adventure or serve as side quests for a Simic character.
 
-![Simic Character Goals; Simic Assignments](/3-Mechanics/CLI/tables/simic-character-goals-simic-assignments-ggr.md)
+![Simic Character Goals; Simic Assignments](3-Mechanics/CLI/tables/simic-character-goals-simic-assignments-ggr.md)
 
 ### Other Adventure Hooks
 
 The Simic Adventure Hooks table presents ideas for additional adventures themed around the Simic Combine.
 
-![Other Adventure Hooks; Simic Adventure Hooks](/3-Mechanics/CLI/tables/other-adventure-hooks-simic-adventure-hooks-ggr.md)
+![Other Adventure Hooks; Simic Adventure Hooks](3-Mechanics/CLI/tables/other-adventure-hooks-simic-adventure-hooks-ggr.md)
 
 ## Krenko's Way
 

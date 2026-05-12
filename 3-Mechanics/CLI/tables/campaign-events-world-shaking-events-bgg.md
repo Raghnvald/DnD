@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Campaign Events; World-Shaking Events
+- "Campaign Events; World-Shaking Events"
 ---
 # Campaign Events; World-Shaking Events
 *Source: Bigby Presents: Glory of the Giants p. 62* 
 
 **World-Shaking Events**
-
-`dice: [](campaign-events-world-shaking-events-bgg.md#^world-shaking-events)`
 
 | dice: d8 | Event |
 |----------|-------|

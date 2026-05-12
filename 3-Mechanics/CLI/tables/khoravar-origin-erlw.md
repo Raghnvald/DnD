@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Khoravar Origin
+- "Khoravar Origin"
 ---
 # Khoravar Origin
 *Source: Eberron: Rising from the Last War p. 26* 
 
 **Khoravar Origin**
-
-`dice: [](khoravar-origin-erlw.md#^khoravar-origin)`
 
 | dice: d10 | Origin |
 |-----------|--------|

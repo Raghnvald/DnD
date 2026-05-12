@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Traag Draconian
+- "Traag Draconian"
 ---
-# [Traag Draconian](3-Mechanics\CLI\bestiary\monstrosity/traag-draconian-mcv2dc.md)
+# [Traag Draconian](3-Mechanics/CLI/bestiary/monstrosity/traag-draconian-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 13*  
 
 In their experimentation with corrupting dragon eggs, the Dragon Armies created traag draconians, the precursor to what would become baaz draconian foot soldiers. Unlike their draconian brethren, traag draconians are little more than bloodthirsty engines of carnage. Few commanders have successfully used a traag draconian's reckless violence to their advantage in battle; for most, a traag draconian is as much of a danger to its allies as it is to its enemies. Even magic cannot tame a traag draconian's thirst for violence.
@@ -40,16 +40,17 @@ A traag draconian's vestigial wings lack the strength to support its hulking bod
 "saves":
   - "strength": !!int "8"
   - "constitution": !!int "6"
-"condition_immunities": "charmed, frightened"
-"senses": "darkvision 60 ft., passive Perception 9"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Common, Draconic"
 "cr": "5"
 "traits":
   - "desc": "The draconian has advantage on melee attack rolls against any creature\
       \ that doesn't have all its hit points."
     "name": "Blood Frenzy"
-  - "desc": "If the draconian falls and isn't incapacitated, it subtracts up to 50\
-      \ feet from the fall when calculating the fall's damage."
+  - "desc": "If the draconian falls and isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
+      \ it subtracts up to 50 feet from the fall when calculating the fall's damage."
     "name": "Controlled Fall"
   - "desc": "If the draconian is reduced to 0 hit points, its body erupts into sludge\
       \ that fills a 10-foot-radius sphere. Each creature within that area must succeed\
@@ -61,17 +62,17 @@ A traag draconian's vestigial wings lack the strength to support its hulking bod
 "actions":
   - "desc": "The draconian makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14\
-      \ (2d8 + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 14 (2d8 + 5) slashing damage."
     "name": "Claw"
   - "desc": "The draconian indulges its rage, wreathing itself in fire and moving\
       \ up to its speed. The draconian can enter creatures' spaces during this move.\
       \ During this movement, when the draconian enters a creature's space, the creature\
       \ must make a DC 14 Dexterity saving throw. On a failed save, the creature takes\
-      \ 22 (4d10) fire damage and is knocked prone. On a successful save, the creature\
-      \ takes half as much damage and is pushed to the nearest space out of the draconian's\
-      \ path. A creature can be affected by this draconian's Flaming Carnage only\
-      \ once during a turn."
+      \ 22 (4d10) fire damage and is knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ On a successful save, the creature takes half as much damage and is pushed\
+      \ to the nearest space out of the draconian's path. A creature can be affected\
+      \ by this draconian's Flaming Carnage only once during a turn."
     "name": "Flaming Carnage (Recharge 5-6)"
 "reactions":
   - "desc": "If a creature within 10 feet of the draconian hits it with an attack,\
@@ -80,6 +81,6 @@ A traag draconian's vestigial wings lack the strength to support its hulking bod
     "name": "Violent Retaliation"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/traag-draconian-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/traag-draconian-mcv2dc.webp"
 ```
 ^statblock

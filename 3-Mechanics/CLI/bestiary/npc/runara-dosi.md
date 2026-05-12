@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dosi
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/dosi
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Runara
+- "Runara"
 ---
-# [Runara](3-Mechanics\CLI\bestiary\npc/runara-dosi.md)
+# [Runara](3-Mechanics/CLI/bestiary/npc/runara-dosi.md)
 *Source: Dragons of Stormwreck Isle p. 40*  
 
 Despite her innocuous disguise and her commitment to peace, the leader of Dragon's Rest is an adult bronze dragon—a fearsome opponent or a powerful ally. Her capabilities go beyond what is presented here.
@@ -64,11 +64,11 @@ Many bronze dragons are friendly coastal dwellers who enjoy watching ships and s
   - "desc": "Runara can use its Frightful Presence. It then makes three attacks: one\
       \ with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18\
-      \ (2d10 + 7) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 18 (2d10 + 7) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d6 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d6 + 7) slashing damage."
     "name": "Claw"
   - "desc": "Each creature of Runara's choice that is within 120 feet of Runara and\
       \ aware of it must succeed on a DC 17 Wisdom saving throw or become frightened\
@@ -79,11 +79,11 @@ Many bronze dragons are friendly coastal dwellers who enjoy watching ships and s
     "name": "Frightful Presence"
   - "desc": "Runara uses one of the following breath weapons.\n\n- **Lightning Breath.**\
       \ Runara exhales lightning in a 90-foot line that is 5 feet wide. Each creature\
-      \ in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **Repulsion Breath.** Runara exhales repulsion energy in a 30-foot cone. Each\
-      \ creature in that area must succeed on a DC 19 Strength saving throw. On a\
-      \ failed save, the creature is pushed 60 feet away from Runara.  "
+      \ in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10)\
+      \ lightning damage on a failed save, or half as much damage on a successful\
+      \ one.  \n- **Repulsion Breath.** Runara exhales repulsion energy in a 30-foot\
+      \ cone. Each creature in that area must succeed on a DC 19 Strength saving throw.\
+      \ On a failed save, the creature is pushed 60 feet away from Runara.  "
     "name": "Breath Weapons (Recharge 5-6)"
   - "desc": "Runara magically transforms into a Humanoid or Beast that is Medium or\
       \ Small, while retaining her game statistics (other than her size). This transformation\
@@ -91,6 +91,6 @@ Many bronze dragons are friendly coastal dwellers who enjoy watching ships and s
     "name": "Change Shape"
 "source":
   - "DoSI"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/runara-dosi.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/runara-dosi.webp"
 ```
 ^statblock

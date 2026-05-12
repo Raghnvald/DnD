@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Sickle"
 ---
 # Sickle
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/sickle.webp#right)
+![](3-Mechanics/CLI/items/img/sickle.webp#right)
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Cost**: 1 gp
 - **Weight**: 2.0 lbs.
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Object (Large)
+- "Animated Object (Large)"
 ---
-# [Animated Object (Large)](3-Mechanics\CLI\bestiary\construct/animated-object-large.md)
+# [Animated Object (Large)](3-Mechanics/CLI/bestiary/construct/animated-object-large.md)
 *Source: Player's Handbook p. 213*  
 
 ```statblock
@@ -32,8 +32,8 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond\
-  \ this radius), passive Perception 6"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "traits":
   - "desc": "If the object lacks legs or other appendages it can use for locomotion,\
@@ -50,6 +50,6 @@ aliases:
     "name": "Slam"
 "source":
   - "PHB"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-object-large.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-object-large.webp"
 ```
 ^statblock

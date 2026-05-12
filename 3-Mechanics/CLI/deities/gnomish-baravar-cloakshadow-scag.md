@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/gnomish
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/trickery
-aliases: 
-- Baravar Cloakshadow
+aliases:
+- "Baravar Cloakshadow"
 ---
 # Baravar Cloakshadow
 *Source: Sword Coast Adventurer's Guide p. 24* 

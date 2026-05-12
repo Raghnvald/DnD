@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Warleader Assignments
+- "Warleader Assignments"
 ---
 # Warleader Assignments
 *Source: Bigby Presents: Glory of the Giants p. 61* 
 
 **Warleader Assignments**
-
-`dice: [](warleader-assignments-bgg.md#^warleader-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

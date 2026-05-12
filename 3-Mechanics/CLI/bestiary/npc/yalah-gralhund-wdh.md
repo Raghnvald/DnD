@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yalah Gralhund
+- "Yalah Gralhund"
 ---
-# [Yalah Gralhund](3-Mechanics\CLI\bestiary\npc/yalah-gralhund-wdh.md)
+# [Yalah Gralhund](3-Mechanics/CLI/bestiary/npc/yalah-gralhund-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 220*  
 
 The lady of House Gralhund is no fool. She has a keen mind and the wisdom to discern friend from foe. She also has a husband who worships her (see "Orond Gralhund"), and a house that has the resources of the Black Network at its disposal.
@@ -26,9 +26,9 @@ Yalah shares the services of a half-orc bodyguard with her husband, although Hra
 "size": "Medium"
 "type": "humanoid"
 "subtype": "Tethyrian human"
-"alignment": "Lawful Evil"
+"alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -36,23 +36,25 @@ Yalah shares the services of a half-orc bodyguard with her husband, although Hra
   - !!int "11"
   - !!int "12"
   - !!int "11"
-  - !!int "12"
   - !!int "16"
+  - !!int "14"
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
+    "desc": "+4"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
-  - "name": "Persuasion"
-    "desc": "+5"
-"senses": "passive Perception 13"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
+"senses": "passive Perception 12"
 "languages": "Common, Infernal"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Yalah adds 2 to its AC against one melee attack that would hit it. To\
@@ -60,6 +62,6 @@ Yalah shares the services of a half-orc bodyguard with her husband, although Hra
     "name": "Parry"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/yalah-gralhund-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/yalah-gralhund-wdh.webp"
 ```
 ^statblock

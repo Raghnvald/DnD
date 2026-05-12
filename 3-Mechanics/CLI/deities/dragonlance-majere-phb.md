@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/order
-aliases: 
-- Majere
+aliases:
+- "Majere"
 ---
 # Majere
 *Source: Player's Handbook p. 295* 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/0
-- new/monster/size/small
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Na
+- "Na"
 ---
-# [Na](3-Mechanics\CLI\bestiary\npc/na-toa.md)
+# [Na](3-Mechanics/CLI/bestiary/npc/na-toa.md)
 *Source: Tomb of Annihilation p. 228*  
 
 ```statblock
@@ -38,6 +38,6 @@ aliases:
 "cr": "0"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/na-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/na-toa.webp"
 ```
 ^statblock

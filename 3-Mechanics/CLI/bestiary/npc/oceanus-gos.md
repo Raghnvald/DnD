@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Oceanus
+- "Oceanus"
 ---
-# [Oceanus](3-Mechanics\CLI\bestiary\npc/oceanus-gos.md)
+# [Oceanus](3-Mechanics/CLI/bestiary/npc/oceanus-gos.md)
 *Source: Ghosts of Saltmarsh p. 246*  
 
 Before being captured, this sea elf had been tasked with investigating the Sea Ghost's movements in The Sinister Secret of Saltmarsh. Oceanus is a smart and resourceful elf who is more than willing to join adventurers who have brave hearts and good intentions.
@@ -43,6 +43,9 @@ Before being captured, this sea elf had been tasked with investigating the Sea G
     "desc": "+4"
   - "name": "Perception"
     "desc": "+3"
+"gear":
+  - "light crossbow"
+  - "trident"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Aquan, Elvish"
 "cr": "1/2"
@@ -62,6 +65,6 @@ Before being captured, this sea elf had been tasked with investigating the Sea G
     "name": "Light Crossbow"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/oceanus-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/oceanus-gos.webp"
 ```
 ^statblock

@@ -9,13 +9,19 @@ tags:
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/ritual
 - ttrpg-cli/spell/school/divination
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/knowledge-domain
+- ttrpg-cli/spell/subclass/knowledge-domain-psa
 classes:
 - Bard (Magical Secrets)
 - Cleric
+- Cleric (Knowledge Domain (PSA))
 - Cleric (Knowledge Domain)
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
 aliases:
-- Augury
+- "Augury"
 ---
 # Augury
 *2nd-level, Divination (ritual)*  
@@ -37,6 +43,6 @@ The spell doesn't take into account any possible circumstances that might change
 
 If you cast the spell two or more times before completing your next long rest, there is a cumulative  chance for each casting after the first that you get a random reading. The DM makes this roll in secret.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain)](/3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Knowledge Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain-psa-psa.md "subclass=PSA"); [Cleric (Knowledge Domain)](3-Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
 
 *Source: Player's Handbook p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

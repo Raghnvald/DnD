@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/bmt
-- new/reward/blessing
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/reward/blessing
 aliases:
-- Blessing of Lonely Genius
+- "Blessing of Lonely Genius"
 ---
 # Blessing of Lonely Genius
 

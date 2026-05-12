@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/plant
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gadabout
+- "Gadabout"
 ---
-# [Gadabout](3-Mechanics\CLI\bestiary\plant/gadabout-mcv1sc.md)
+# [Gadabout](3-Mechanics/CLI/bestiary/plant/gadabout-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 8*  
 
 Gadabouts are gentle, winged creatures that can be used as personal conveyances for short-distance travel across the airless void of Wildspace. A gadabout wraps its branches around a Humanoid creature, spreads its butterfly wings, and allows its wearer to fly through space in a continuously refreshed air envelope. The gadabout's leaves even provide a nourishing syrup that its wearer can consume in the absence of other food and water. One Humanoid can survive on these leaves for up to sixty days.
@@ -40,9 +40,12 @@ Elves are the only Humanoids to date who know how to grow gadabouts. Since gadab
   - !!int "1"
 "speed": "10 ft., fly 60 ft. (hover)"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified"
-"senses": "blindsight 10 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/8"
 "traits":
@@ -55,18 +58,19 @@ Elves are the only Humanoids to date who know how to grow gadabouts. Since gadab
 "actions":
   - "desc": "The gadabout makes two Branch attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) slashing damage."
     "name": "Branch"
   - "desc": "The gadabout enters the space of a willing Medium or Small creature within\
       \ 5 feet of itself and gently wraps its branches around the target. The target\
-      \ is grappled (escape DC 0). Any attempt by the target to escape the grapple\
-      \ causes the gadabout to use its reaction to move into the nearest unoccupied\
-      \ space. While grappled by the gadabout, the target determines where the gadabout\
-      \ moves on the gadabout's turns and accompanies the gadabout wherever it goes."
+      \ is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 0).\
+      \ Any attempt by the target to escape the grapple causes the gadabout to use\
+      \ its reaction to move into the nearest unoccupied space. While [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by the gadabout, the target determines where the gadabout moves on the gadabout's\
+      \ turns and accompanies the gadabout wherever it goes."
     "name": "Wrap"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/gadabout-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/gadabout-mcv1sc.webp"
 ```
 ^statblock

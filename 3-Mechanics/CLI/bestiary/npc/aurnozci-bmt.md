@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/22
-- new/monster/size/gargantuan
-- new/monster/type/fiend/demon
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/22
+- ttrpg-cli/monster/size/gargantuan
+- ttrpg-cli/monster/type/fiend/demon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aurnozci
+- "Aurnozci"
 ---
-# [Aurnozci](3-Mechanics\CLI\bestiary\npc/aurnozci-bmt.md)
+# [Aurnozci](3-Mechanics/CLI/bestiary/npc/aurnozci-bmt.md)
 *Source: The Book of Many Things p. 167*  
 
 The demon lord Aurnozci is a wormlike horror of fiery flesh and toxic seepage. In its present form, Aurnozci can't leave Xulregg, the Abyssal layer that's both its fiefdom and its prison. It lairs within a grotesque hive dangling from a mountain-size tree of tar and flame called Gorewood.
@@ -25,7 +25,7 @@ Aurnozci's followers believe the demon lord's imprisonment is coming to an end, 
 
 Aurnozci grants its cultists the following trait:
 
-> **Burning Corpse.** When the creature dies, its body is reduced to a pile of smoldering embers in the space where it fell. The ashes take 1 minute to cool. Until then, a creature takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) fire damage when it enters the ashes' space for the first time on a turn or starts its turn there.
+> **Burning Corpse.** When the creature dies, its body is reduced to a pile of smoldering embers in the space where it fell. The ashes take 1 minute to cool. Until then, a creature takes 3 (`1d6`) fire damage when it enters the ashes' space for the first time on a turn or starts its turn there.
 
 ## Aurnozci's Lair
 
@@ -76,11 +76,11 @@ The challenge rating of Aurnozci is 23 (50,000 XP) when it's encountered in its 
 "actions":
   - "desc": "Aurnozci makes one Bite attack and two Tail attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (2d12 + 8) slashing damage plus 9 (2d8) fire damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (2d12 + 8) slashing damage plus 9 (2d8) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Aurnozci sprays mucus in a 60-foot cone. Each creature in that cone must\
       \ make a DC 20 Dexterity saving throw, taking 42 (12d6) acid damage on a failed\
@@ -115,11 +115,12 @@ The challenge rating of Aurnozci is 23 (50,000 XP) when it's encountered in its 
       \ effects:\n\n- **Boiling Water.** Bodies of water on Xulregg perpetually boil,\
       \ and even bottled liquids steam when exposed to the layer's atmosphere. Being\
       \ immersed in water there doesn't confer resistance to fire damage, and a creature\
-      \ that starts its turn in water takes 7 (2d6) fire damage. A creature that imbibes\
-      \ a liquid (such as a potion) takes 3 (1d6) fire damage.  \n- **Fast Metamorphosis.**\
-      \ On Xulregg, eggs, larvae, and pupae all develop and metamorphose at ten times\
-      \ their usual rate, regardless of sustenance or any other growing conditions.\
-      \  \n\nIf Aurnozci dies, these effects fade over the course of 1d10 days."
+      \ that starts its turn in water takes 7 (2d6) fire damage. A creature that\
+      \ imbibes a liquid (such as a potion) takes 3 (1d6) fire damage.  \n- **Fast\
+      \ Metamorphosis.** On Xulregg, eggs, larvae, and pupae all develop and metamorphose\
+      \ at ten times their usual rate, regardless of sustenance or any other growing\
+      \ conditions.  \n\nIf Aurnozci dies, these effects fade over the course of 1d10\
+      \ days."
     "name": ""
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Aurnozci can expend a use to take one of the following actions. Aurnozci\
@@ -132,11 +133,11 @@ The challenge rating of Aurnozci is 23 (50,000 XP) when it's encountered in its 
   - "desc": "Aurnozci uses Spellcasting."
     "name": "Cast a Spell (Costs 2 Actions)"
   - "desc": "Flames momentarily surround Aurnozci. Each creature within 15 feet of\
-      \ Aurnozci must make a DC 20 Dexterity saving throw, taking 18 (4d8) fire damage\
-      \ on a failed save, or half as much damage on a successful one."
+      \ Aurnozci must make a DC 20 Dexterity saving throw, taking 18 (4d8) fire\
+      \ damage on a failed save, or half as much damage on a successful one."
     "name": "Conflagration (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/aurnozci-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/aurnozci-bmt.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Connection to Strahd; Avoiding Strahd
+- "Connection to Strahd; Avoiding Strahd"
 ---
 # Connection to Strahd; Avoiding Strahd
 *Source: Van Richten's Guide to Ravenloft p. 70* 
 
 **Avoiding Strahd**
-
-`dice: [](connection-to-strahd-avoiding-strahd-vrgr.md#^avoiding-strahd)`
 
 | dice: d8 | Concealment |
 |----------|-------------|

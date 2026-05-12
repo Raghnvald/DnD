@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Welcome to Wildemount
+- "Welcome to Wildemount"
 ---
 # Welcome to Wildemount
 *Source: Explorer's Guide to Wildemount, p. 5* 
@@ -87,7 +87,7 @@ A campaign set in Xhorhas will doubtless involve the war between the Kryn Dynast
 
 The final chapters of this book, "chapters 5" through "7", give DMs starting adventures they can use to kick off their campaigns as well as new magic items and monsters to include in adventures of their own design.
 
-![Continent of Wildemount](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/002-00-poster-map-9000.webp#center)
+![Continent of Wildemount](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/002-00-poster-map-9000.webp#center)
 
 ## War!
 
@@ -166,7 +166,7 @@ The Exandrian calendar year is divided into 328 days, grouped into seven-day wee
 
 The names of the seven days of the week are Miresen, Grissen, Whelsen, Conthsen, Folsen, Yulisen, and Da'leysen. Each day is 24 hours long.
 
-![Calendar and Time; Exandrian Calendar](/3-Mechanics/CLI/tables/calendar-and-time-exandrian-calendar-egw.md)
+![Calendar and Time; Exandrian Calendar](3-Mechanics/CLI/tables/calendar-and-time-exandrian-calendar-egw.md)
 
 ### Seasons
 

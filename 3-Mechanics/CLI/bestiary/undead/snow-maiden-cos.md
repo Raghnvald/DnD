@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Snow Maiden
+- "Snow Maiden"
 ---
-# [Snow Maiden](3-Mechanics\CLI\bestiary\undead/snow-maiden-cos.md)
+# [Snow Maiden](3-Mechanics/CLI/bestiary/undead/snow-maiden-cos.md)
 *Source: Curse of Strahd p. 159*  
 
 ```statblock
@@ -35,13 +35,9 @@ aliases:
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained, unconscious"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "1"
 "traits":
@@ -50,18 +46,17 @@ aliases:
       \ an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, the specter has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
+      \ as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (3d6) cold damage. The target must succeed on a DC 10 Constitution saving\
+  - "desc": "*Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (3d6) cold damage. The target must succeed on a DC 10 Constitution saving\
       \ throw or its hit point maximum is reduced by an amount equal to the damage\
       \ taken. This reduction lasts until the creature finishes a long rest. The target\
       \ dies if this effect reduces its hit point maximum to 0."
     "name": "Life Drain"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/snow-maiden-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/snow-maiden-cos.webp"
 ```
 ^statblock

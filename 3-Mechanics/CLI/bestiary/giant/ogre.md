@@ -19,10 +19,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ogre
+- "Ogre"
 ---
-# [Ogre](3-Mechanics\CLI\bestiary\giant/ogre.md)
-*Source: Monster Manual p. 237, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Ogre](3-Mechanics/CLI/bestiary/giant/ogre.md)
+*Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
@@ -65,7 +65,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 "type": "giant"
 "alignment": "Chaotic Evil"
 "ac": !!int "11"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "59"
 "hit_dice": "7d10 + 21"
 "modifier": !!int "-1"
@@ -77,7 +77,11 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
   - !!int "7"
   - !!int "7"
 "speed": "40 ft."
-"senses": "darkvision 60 ft., passive Perception 8"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
@@ -89,8 +93,7 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
     "name": "Javelin"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ogre.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ogre.webp"
 ```
 ^statblock
 

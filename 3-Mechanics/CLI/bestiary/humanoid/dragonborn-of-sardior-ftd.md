@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragonborn of Sardior
+- "Dragonborn of Sardior"
 ---
-# [Dragonborn of Sardior](3-Mechanics\CLI\bestiary\humanoid/dragonborn-of-sardior-ftd.md)
+# [Dragonborn of Sardior](3-Mechanics/CLI/bestiary/humanoid/dragonborn-of-sardior-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 185*  
 
 Sardior is said to have died in the destruction of the First World. But many believe that Sardior's divine essence survives within every gem dragon. This philosophy is central to the teachings of Sardior's dragonborn champions, who wield psionic power in the service of their mysterious cause. Many of these champions are associated with the Inheritors of the First World (see chapter 3).
@@ -47,14 +47,14 @@ The connection between dragonborn and their draconic ancestors manifests in a va
   - "wisdom": !!int "5"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+7"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "History"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
 "damage_resistances": "psychic"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
+"condition_immunities": "frightened"
 "senses": "passive Perception 15"
 "languages": "Common, Draconic"
 "cr": "6"
@@ -82,11 +82,11 @@ The connection between dragonborn and their draconic ancestors manifests in a va
     "name": "Heat Breath (Recharge 6)"
   - "desc": "The dragonborn casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15, +7 to hit with spell attacks):\n\n**1/day each:** [Bigby's hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md),\
-      \ [hypnotic pattern](/3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      \ DC 15, +7 to hit with spell attacks):\n\n**1/day each:** Bigby's hand, hypnotic\
+      \ pattern, telekinesis"
     "name": "Spellcasting (Psionics)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-sardior-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/dragonborn-of-sardior-ftd.webp"
 ```
 ^statblock

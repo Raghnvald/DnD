@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/unknown/magic
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Drow +1 Armor"
 - "Drow +1 Breastplate"
 - "Drow +1 Chain Mail"

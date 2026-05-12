@@ -5,19 +5,17 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Dragon Lairs; Lair Location
+- "Dragon Lairs; Lair Location"
 ---
 # Dragon Lairs; Lair Location
 *Source: Fizban's Treasury of Dragons p. 63* 
 
 **Lair Location**
 
-`dice: [](dragon-lairs-lair-location-ftd.md#^lair-location)`
-
 | dice: d10 | Unusual Feature |
 |-----------|-----------------|
 | 1 | The area is a climate anomaly—a cool and lush oasis in a hot desert, a balmy spring within a frozen tundra, a drifting iceberg in a warm sea, a barren waste in the midst of a verdant forest, or the like. |
-| 2 | The area is a wild magic zone. Whenever a creature casts a spell of 1st level or higher or activates a magic item, roll a `dice:d10\|noform\|noparens\|avg` (`d10`). On a 1, roll on the [Wild Magic Surge](/3-Mechanics/CLI/tables/wild-magic-surge-phb.md) table in the "Player's Handbook". |
+| 2 | The area is a wild magic zone. Whenever a creature casts a spell of 1st level or higher or activates a magic item, roll a `d10`. On a 1, roll on the Wild Magic Surge table in the "Player's Handbook". |
 | 3 | Natural rock formations align with celestial phenomena at particular times of the year. Stars and planets might line up with rock spires and windows on solstices and equinoxes, for example. |
 | 4 | A dead god or titan is buried in the area. |
 | 5 | The area is a vast crater, at the center of which is a long-buried meteorite. |

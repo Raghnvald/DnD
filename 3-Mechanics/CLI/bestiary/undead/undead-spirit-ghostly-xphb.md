@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undead Spirit (Ghostly)
+- "Undead Spirit (Ghostly)"
 ---
-# [Undead Spirit (Ghostly)](3-Mechanics\CLI\bestiary\undead/undead-spirit-ghostly-xphb.md)
+# [Undead Spirit (Ghostly)](3-Mechanics/CLI/bestiary/undead/undead-spirit-ghostly-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -31,11 +31,11 @@ aliases:
   - !!int "9"
 "speed": "30 ft., fly 40 ft. (hover)"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The spirit can move through other creatures and objects as if they were\
@@ -49,8 +49,8 @@ aliases:
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5\
       \ ft. *Hit:* 1d8 + 3 + the spell's level Necrotic damage, and the target has\
-      \ the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened) condition until\
-      \ the end of its next turn."
+      \ the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition\
+      \ until the end of its next turn."
     "name": "Deathly Touch"
 "source":
   - "XPHB"

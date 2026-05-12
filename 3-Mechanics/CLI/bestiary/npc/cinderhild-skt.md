@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cinderhild
+- "Cinderhild"
 ---
-# [Cinderhild](3-Mechanics\CLI\bestiary\npc/cinderhild-skt.md)
+# [Cinderhild](3-Mechanics/CLI/bestiary/npc/cinderhild-skt.md)
 *Source: Storm King's Thunder p. 182*  
 
 ```statblock
@@ -33,15 +33,18 @@ aliases:
   - !!int "7"
 "speed": "40 ft."
 "damage_immunities": "fire"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "Common, Giant"
 "cr": "2"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) piercing damage."
     "name": "Golden Pin"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/cinderhild-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/cinderhild-skt.webp"
 ```
 ^statblock

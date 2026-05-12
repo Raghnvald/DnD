@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Fire Giant Bag Contents; Fire Giant Bag Items
+- "Fire Giant Bag Contents; Fire Giant Bag Items"
 ---
 # Fire Giant Bag Contents; Fire Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 106* 
 
 **Fire Giant Bag Items**
-
-`dice: [](fire-giant-bag-contents-fire-giant-bag-items-bgg.md#^fire-giant-bag-items)`
 
 | dice: d12 | Item |
 |-----------|------|

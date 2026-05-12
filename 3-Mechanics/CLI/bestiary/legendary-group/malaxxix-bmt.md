@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/legendary-group
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/legendary-group
 aliases:
-- Malaxxix
+- "Malaxxix"
 ---
 # Malaxxix
 
@@ -15,8 +15,8 @@ aliases:
 
 In its lair on initiative count 20 (losing initiative ties), Malaxxix can take one of the following lair actions; Malaxxix can't take the same lair action two rounds in a row:
 
-- **Reassemble.** Malaxxix chooses either itself or the palanquin. The target gains `dice:3d12|noform|noparens|avg|text(19)` (`3d12`) temporary hit points.  
-- **Slam.** Malaxxix commands the palanquin to slam the ground. Each creature within 15 feet of the palanquin must make a DC 20 Strength saving throw. On a failed save, a creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) bludgeoning damage and has the prone condition. On a successful save, a creature takes half as much damage only.  
+- **Reassemble.** Malaxxix chooses either itself or the palanquin. The target gains 19 (`3d12`) temporary hit points.  
+- **Slam.** Malaxxix commands the palanquin to slam the ground. Each creature within 15 feet of the palanquin must make a DC 20 Strength saving throw. On a failed save, a creature takes 11 (`2d10`) bludgeoning damage and has the prone condition. On a successful save, a creature takes half as much damage only.  
 - **Surge.** Malaxxix commands the palanquin to move up to its speed.  
 
 ## Regional Effects

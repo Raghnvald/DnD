@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Worldroot Circle Adventures
+- "Worldroot Circle Adventures"
 ---
 # Worldroot Circle Adventures
 *Source: Bigby Presents: Glory of the Giants p. 41* 
 
 **Worldroot Circle Adventures**
-
-`dice: [](worldroot-circle-adventures-bgg.md#^worldroot-circle-adventures)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

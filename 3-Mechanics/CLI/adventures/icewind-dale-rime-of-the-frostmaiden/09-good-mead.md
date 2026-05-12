@@ -3,18 +3,18 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Good Mead
+- "Good Mead"
 ---
 # Good Mead
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 72* 
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/058-01-029-shield-good-mead.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/058-01-029-shield-good-mead.webp#center)
 
 Founded by immigrants from Chult and the Vilhon Reach, Good Mead is nestled between Redwaters and a nearby evergreen forest. The town's squat dwellings, adorned with carvings of dinosaurs and serpents, are overshadowed by the two-story structure of the mead hall, its eaves carved and painted to resemble wyverns. As honey is the key ingredient in mead, the town literally buzzes with the droning of bees.
 
-Every tavern in Icewind Dale is accustomed to receiving regular mead deliveries, and the town can't produce or deliver its mead fast enough. All deliveries have halted temporarily, though—because a [verbeeg marauder](/3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C) emerged from the forest three days ago and stole three casks of mead that were being loaded onto a dogsled for transport to Bryn Shander. Kendrick Rielsbarrow, the town speaker and a giant of a man in his own right, stood his ground against the verbeeg and didn't fare well. After skewering Kendrick with its spear, the verbeeg grabbed the casks and disappeared whence he came. The other residents of Good Mead tried to save Kendrick, to no avail; his body lies in a local shrine. Five members of the militia went after the verbeeg but haven't returned.
+Every tavern in Icewind Dale is accustomed to receiving regular mead deliveries, and the town can't produce or deliver its mead fast enough. All deliveries have halted temporarily, though—because a [verbeeg marauder](3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C) emerged from the forest three days ago and stole three casks of mead that were being loaded onto a dogsled for transport to Bryn Shander. Kendrick Rielsbarrow, the town speaker and a giant of a man in his own right, stood his ground against the verbeeg and didn't fare well. After skewering Kendrick with its spear, the verbeeg grabbed the casks and disappeared whence he came. The other residents of Good Mead tried to save Kendrick, to no avail; his body lies in a local shrine. Five members of the militia went after the verbeeg but haven't returned.
 
 ## Good Mead in a Nutshell
 
@@ -29,7 +29,7 @@ Every tavern in Icewind Dale is accustomed to receiving regular mead deliveries,
 
 ### Militia
 
-Good Mead can muster up to 20 soldiers (use the [tribal warrior](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 2 [veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md).
+Good Mead can muster up to 20 soldiers (use the [tribal warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) stat block) and 2 [veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md).
 
 - **Heraldry.** A dark brown drinking mug made of a cut-off section of horn, with an antler handle added, upright and centered on a white field, representing the town's mead exports and its cold, snowy climate.  
 
@@ -56,8 +56,8 @@ A path connects Good Mead to the Eastway, crosses the snow-covered road, and con
 ## Locations in Good Mead
 
 > [!gallery]
-> ![Map 1.12: Good Mead](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/059-map-1-12-good-mead.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/060-map-1-12-good-mead-player.webp#gallery)
+> ![Map 1.12: Good Mead](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/059-map-1-12-good-mead.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/060-map-1-12-good-mead-player.webp#gallery)
 
 The following prominent locations are marked on map 1.12.
 
@@ -107,11 +107,11 @@ As the characters make their way to the edge of the forest, read:
 > A figure in cold weather clothing lurches out of the woods into plain view, running as fast as he can through the deep snow. Slung over his back are a pair of animal traps, one of which appears to contain a panicked fox.
 ^1ba
 
-The figure is Fef Moryn (chaotic good human [scout](/3-Mechanics/CLI/bestiary/humanoid/scout.md)), a trapper. He was out in the woods checking his traps when he came upon a grisly scene: five members of Good Mead's militia, their skulls and chests stove in. He came straight home to alert the town.
+The figure is Fef Moryn (chaotic good human [scout](3-Mechanics/CLI/bestiary/humanoid/scout.md)), a trapper. He was out in the woods checking his traps when he came upon a grisly scene: five members of Good Mead's militia, their skulls and chests stove in. He came straight home to alert the town.
 
 The characters can't convince Fef to return to the bodies, but they can follow his tracks through the snow easily enough.
 
-The [fox](/3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) (see appendix C) in Fef's trap is rattled but uninjured. If the characters want to buy it, Fef will sell it to them for no less than 1 gp. Although it's a wild animal, it remains docile while held. If the characters keep the fox with them, they will find it helpful in the next scene.
+The [fox](3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) (see appendix C) in Fef's trap is rattled but uninjured. If the characters want to buy it, Fef will sell it to them for no less than 1 gp. Although it's a wild animal, it remains docile while held. If the characters keep the fox with them, they will find it helpful in the next scene.
 
 ### Carnage in the Woods
 
@@ -124,17 +124,17 @@ Characters who follow Fef Moryn's trail eventually come to the grisly scene the 
 
 These five people pursued the verbeeg for a while and then fell prey to the verbeeg's ogre buddy, who stayed behind in the woods rather than trying to keep up with the verbeeg.
 
-The ogre killed all five humans with its greatclub and then headed for home. Characters can follow its tracks in the snow without a check. A successful DC 12 Wisdom (Survival) check identifies these tracks as belonging to a Large giant. Following these tracks leads the characters on a path through the woods until, after 8 hours, they come upon the verbeeg's lair.
+The ogre killed all five humans with its greatclub and then headed for home. Characters can follow its tracks in the snow without a check. A successful DC 12 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check identifies these tracks as belonging to a Large giant. Following these tracks leads the characters on a path through the woods until, after 8 hours, they come upon the verbeeg's lair.
 
 #### The Fox and the Chwinga
 
-The characters have one encounter while they follow the ogre's trail. A [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) (see appendix C) pops out of the snow and hurls a wee snowball at the lead character in the party's marching order. Once it has the party's attention, it capers atop the snow.
+The characters have one encounter while they follow the ogre's trail. A [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) pops out of the snow and hurls a wee snowball at the lead character in the party's marching order. Once it has the party's attention, it capers atop the snow.
 
-If the characters rescued the fox from Fef Moryn, the animal bolts toward the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) if it's allowed to do so. The [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) bows before the fox and offers it a frozen berry, which the fox gobbles up. After that, the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) and the fox become fast friends. The [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) mounts the fox, bestows a *charm of animal conjuring* or one of the new charms described in appendix C (see "New Chwinga Charms") upon the character it hit with the snowball, and rides off on the fox's back. (For more information on charms, see ""Supernatural Gifts"" in the "Dungeon Master's Guide".) The characters can interrupt this scene if they want; the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) won't bestow its supernatural charm, however, if events unfold any differently.
+If the characters rescued the fox from Fef Moryn, the animal bolts toward the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) if it's allowed to do so. The [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) bows before the fox and offers it a frozen berry, which the fox gobbles up. After that, the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) and the fox become fast friends. The [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) mounts the fox, bestows a charm of animal conjuring or one of the new charms described in appendix C (see "New Chwinga Charms") upon the character it hit with the snowball, and rides off on the fox's back. (For more information on charms, see ""Supernatural Gifts"" in the "Dungeon Master's Guide".) The characters can interrupt this scene if they want; the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) won't bestow its supernatural charm, however, if events unfold any differently.
 
-If the characters don't have the fox or choose not to let it go, the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) follows them all the way to the verbeeg lair, if permitted to do so, but won't venture inside.
+If the characters don't have the fox or choose not to let it go, the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) follows them all the way to the verbeeg lair, if permitted to do so, but won't venture inside.
 
-![The snow-covered tusks of ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/061-01-030-verbeeg-lair.webp#center "The snow-covered tusks of a mammoth mark the entrance to the verbeeg lair")
+![The snow-covered tusks of a mammoth mark the entrance to the verbeeg lair](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/061-01-030-verbeeg-lair.webp#center)
 
 ### Verbeeg Lair
 
@@ -143,8 +143,8 @@ The lair's caves and tunnels have rough, 20-foot-high ceilings covered with larg
 The verbeeg, named Duhg, needs light to see, which is why he keeps a bonfire lit in area V3 and carries a torch when he visits the darker corners of his lair.
 
 > [!gallery]
-> ![Map 1.13: Verbeeg Lair](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/062-map-1-13-verbeeg-lair.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/063-map-1-13-verbeeg-lair-player.webp#gallery)
+> ![Map 1.13: Verbeeg Lair](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/062-map-1-13-verbeeg-lair.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/063-map-1-13-verbeeg-lair-player.webp#gallery)
 
 The following locations are keyed to map 1.13.
 
@@ -183,19 +183,19 @@ This cavern is slightly sunken, as all tunnels leading to it slope down graduall
 > A bonfire in the middle of this cave keeps it lit and relatively warm. The scent of roasting meat fills the air as a hunk of meat on a spit drips juices into the fire. Goats and sheep are held in a spacious animal pen enclosed by a crude wooden fence. Other features of the cave include a wooden cart with a broken wheel, two old crates, and two barrels.
 ^1c4
 
-If the characters make a lot of noise, the [ogre](/3-Mechanics/CLI/bestiary/giant/ogre.md) comes running from area V5 and the [verbeeg marauder](/3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C) approaches from area V9, both arriving at the same time. They try to kill intruders on sight. If more than two intruders are visible, the verbeeg whistles for the cave bear, which arrives 3 rounds later from area V7.
+If the characters make a lot of noise, the [ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) comes running from area V5 and the [verbeeg marauder](3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C) approaches from area V9, both arriving at the same time. They try to kill intruders on sight. If more than two intruders are visible, the verbeeg whistles for the cave bear, which arrives 3 rounds later from area V7.
 
-If it's close enough to the bonfire, the verbeeg can use his action to try to shove a creature into the flames (see ""Shoving a Creature"" in the combat chapter of the "Player's Handbook"). Any creature that enters the bonfire for the first time on a turn or starts its turn there takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) fire damage. It also catches fire as it leaves the bonfire's space, taking `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) fire damage at the starts of each of its turns until an action is used to put out the flames engulfing it.
+If it's close enough to the bonfire, the verbeeg can use his action to try to shove a creature into the flames (see ""Shoving a Creature"" in the combat chapter of the "Player's Handbook"). Any creature that enters the bonfire for the first time on a turn or starts its turn there takes 10 (`3d6`) fire damage. It also catches fire as it leaves the bonfire's space, taking 3 (`1d6`) fire damage at the starts of each of its turns until an action is used to put out the flames engulfing it.
 
-Characters in a position to harm the verbeeg's goats and sheep (see "Animals" below) can use an action to threaten one or more of these animals and, with a successful DC 10 Charisma (Intimidation) check, cause the verbeeg to cease hostilities and call off the ogre and the cave bear. Under such pressure, the verbeeg is willing to let intruders leave the lair without further incident, provided the animals in the pen are not harmed or taken.
+Characters in a position to harm the verbeeg's goats and sheep (see "Animals" below) can use an action to threaten one or more of these animals and, with a successful DC 10 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) check, cause the verbeeg to cease hostilities and call off the ogre and the cave bear. Under such pressure, the verbeeg is willing to let intruders leave the lair without further incident, provided the animals in the pen are not harmed or taken.
 
 One crate is packed with straw, which the verbeeg feeds to the goats and sheep. The other contains ten large torches, which the verbeeg made out of wood and pitch. The barrels are half-filled with salt and pepper, which the verbeeg uses to season his meat.
 
 ##### Animals
 
-The livestock pen holds seven [goats](/3-Mechanics/CLI/bestiary/beast/goat.md) and six sheep, all in healthy condition. Use the [goat](/3-Mechanics/CLI/bestiary/beast/goat.md) stat block for each sheep, with these changes:
+The livestock pen holds seven [goats](3-Mechanics/CLI/bestiary/beast/goat.md) and six [sheep](3-Mechanics/CLI/bestiary/beast/sheep-skt.md), all in healthy condition. Use the [goat](3-Mechanics/CLI/bestiary/beast/goat.md) stat block for each [sheep](3-Mechanics/CLI/bestiary/beast/sheep-skt.md), with these changes:
 
-- A sheep is a Small beast with `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) hit points and a walking speed of 30 feet.  
+- A sheep is a Small beast with 3 (`1d6`) hit points and a walking speed of 30 feet.  
 - It lacks the Charge feature and any effective attacks, giving it a challenge rating of 0 (0 XP).  
 
 The verbeeg acquired his livestock by robbing travelers on the Eastway. He considers these beasts his treasured pets and has given names to all of them. He has trained the ogre and the cave bear not to attack them.
@@ -224,7 +224,7 @@ If the ogre has been drawn to area V3 by activity there, omit the opening paragr
 > Suspended from the ceiling of this chamber by a series of ropes and pulleys are six baskets. Clustered near the south wall are three wooden casks carved with Good Mead's heraldic symbol: a drinking mug made of a cut-off section of horn, with an antler handle added, upright and centered.
 ^1ca
 
-The [ogre](/3-Mechanics/CLI/bestiary/giant/ogre.md) can never remember its name, so the verbeeg calls it "Friend." It has fully recovered from its fight with the town militia. Any character who succeeds on a DC 8 Dexterity (Stealth) check can creep around in the cave without waking the ogre. The character must repeat the check after disturbing an object in the cave, such as a hanging basket or a cask of mead.
+The [ogre](3-Mechanics/CLI/bestiary/giant/ogre.md) can never remember its name, so the verbeeg calls it "Friend." It has fully recovered from its fight with the town militia. Any character who succeeds on a DC 8 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check can creep around in the cave without waking the ogre. The character must repeat the check after disturbing an object in the cave, such as a hanging basket or a cask of mead.
 
 If awakened, the ogre grabs its greatclub and attacks, shouting, "ME FRIEND!"
 
@@ -236,7 +236,7 @@ One of the three casks is empty, the verbeeg and ogre having shared its contents
 
 ##### Treasure
 
-The verbeeg's treasure basket holds 72 sp, 344 cp, a translucent pink moss agate gemstone (10 gp), a healer's kit, a hunting trap, and a small rabbit-skin bag containing ten silvered sling stones.
+The verbeeg's treasure basket holds 72 sp, 344 cp, a translucent pink moss agate gemstone (10 gp), a [healer's kit](3-Mechanics/CLI/items/healers-kit.md), a [hunting trap](3-Mechanics/CLI/items/hunting-trap.md), and a small rabbit-skin bag containing ten silvered [sling stones](3-Mechanics/CLI/items/sling-bullet.md).
 
 #### V6. Frozen Stream
 
@@ -254,15 +254,15 @@ Characters who follow the frozen stream to the north arrive at area V7. Those wh
 > The frozen stream ends at a seven-foot-deep frozen pool at the back of a dark cave. Trapped beneath the pool's ice is a stone statue of a smiling young man, naked except for a well-placed oak leaf, with his face turned toward the sky.
 ^1d0
 
-If the cave bear has not been summoned elsewhere by the verbeeg, it sleeps in the western niche of this chamber until it detects intruders. It has brown fur and darkvision out to a range of 60 feet. It otherwise uses the [polar bear](/3-Mechanics/CLI/bestiary/beast/polar-bear.md) stat block. A character who succeeds on a DC 14 Dexterity (Stealth) check can sneak around in the cave without waking the bear, but only in the dark. A light source bright enough to illuminate the bear also wakes it. The bear, whose name is Yogobor, is hungry and hostile. But if it is reduced to 20 hit points or fewer and the verbeeg is nowhere in sight, the bear tries to flee for its life.
+If the cave bear has not been summoned elsewhere by the verbeeg, it sleeps in the western niche of this chamber until it detects intruders. It has brown fur and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. It otherwise uses the [polar bear](3-Mechanics/CLI/bestiary/beast/polar-bear.md) stat block. A character who succeeds on a DC 14 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check can sneak around in the cave without waking the bear, but only in the dark. A light source bright enough to illuminate the bear also wakes it. The bear, whose name is Yogobor, is hungry and hostile. But if it is reduced to 20 hit points or fewer and the verbeeg is nowhere in sight, the bear tries to flee for its life.
 
 The bear's niche contains the gnawed skull and bones of a shield dwarf named Artin Glanhig (see area V3).
 
 ##### Statue of Silvanus
 
-The statue in the frozen pool, crafted using stone shape spells, is an outcrop extending from the pool's rocky bottom. Any character who succeeds on a DC 12 Intelligence (Religion) check recognizes it as a depiction of Silvanus, a god of nature; the oak leaf is his holy symbol. The statue radiates an aura of abjuration magic when scrutinized with a detect magic spell. An identify spell can reveal its magical nature, but only if the caster is touching the statue when the spell is cast. Before the statue can be touched, the characters must dig through a foot of ice to reach it.
+The statue in the frozen pool, crafted using [stone shape](3-Mechanics/CLI/spells/stone-shape.md) spells, is an outcrop extending from the pool's rocky bottom. Any character who succeeds on a DC 12 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes it as a depiction of Silvanus, a god of nature; the oak leaf is his holy symbol. The statue radiates an aura of abjuration magic when scrutinized with a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell. An [identify](3-Mechanics/CLI/spells/identify.md) spell can reveal its magical nature, but only if the caster is touching the statue when the spell is cast. Before the statue can be touched, the characters must dig through a foot of ice to reach it.
 
-The statue blesses the pool, such that any creature that drinks from it gains the benefit of a greater restoration spell. This magic is suppressed while the pool is frozen. A given creature can gain the pool's benefit only once.
+The statue blesses the pool, such that any creature that drinks from it gains the benefit of a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell. This magic is suppressed while the pool is frozen. A given creature can gain the pool's benefit only once.
 
 #### V8. Burial Niches
 
@@ -277,7 +277,7 @@ An ancient human tribe carved a tomb out of the hillside to house the bones of t
 
 A natural tunnel bisects a ring-shaped excavation in this area, which was once an additional burial chamber. Niches cut in the north end of the outer ring hold nothing of interest.
 
-Duhg the [verbeeg marauder](/3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C) is here if he hasn't been encountered somewhere else. Duhg is sitting cross-legged in the tunnel, a lit torch on the floor nearby. The verbeeg is sharpening a stone knife he found in the old tomb. Duhg plans to use this knife to unstitch the dwarven boots in area V3. Leaning against a wall, within easy reach, is Duhg's spear.
+Duhg the [verbeeg marauder](3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C) is here if he hasn't been encountered somewhere else. Duhg is sitting cross-legged in the tunnel, a lit torch on the floor nearby. The verbeeg is sharpening a stone knife he found in the old tomb. Duhg plans to use this knife to unstitch the dwarven boots in area V3. Leaning against a wall, within easy reach, is Duhg's spear.
 
 #### V10. Ancient Tomb
 
@@ -292,9 +292,9 @@ It takes a combined Strength of 50 to move the block. Revealed beneath it is a s
 
 ##### Treasure
 
-Clutched in the chieftain's left hand is a pearl of power. In her right hand is a +1 wand of the war mage. A curse befalls any creature that removes either magic item or any of the chieftain's remains from the burial niche. Until the curse ends on it, the creature is haunted by phantasmal nightmares whenever it takes a long rest and gains no benefit from that rest. Replacing the stolen object ends the curse, as does a remove curse spell or similar magic.
+Clutched in the chieftain's left hand is a pearl of power. In her right hand is a +1 wand of the war mage. A curse befalls any creature that removes either magic item or any of the chieftain's remains from the burial niche. Until the curse ends on it, the creature is haunted by phantasmal nightmares whenever it takes a long rest and gains no benefit from that rest. Replacing the stolen object ends the curse, as does a [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell or similar magic.
 
-![Gahg the verbeeg has a bas...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/064-01-031-gahg-the-verbeeg.webp#center "Gahg the verbeeg has a basket of goodies for her beloved Duhg")
+![Gahg the verbeeg has a basket of goodies for her beloved Duhg](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/064-01-031-gahg-the-verbeeg.webp#center)
 
 ### Affairs of the Heart
 
@@ -305,7 +305,7 @@ As the characters exit the verbeeg lair, read:
 > A verbeeg strides through the snow, approaching the mouth of the cave. Her misshapen face bears a too-wide smile. She clutches a spear in one hand while using her other arm to cradle a wicker basket filled with bits of shiny metal. "Duhg?" she shouts in Common. "You home?"
 ^1d9
 
-Gahg, a [verbeeg marauder](/3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C), has arrived for a romantic encounter with Duhg. Gahg has brought along some fragments of metal that she hopes will impress Duhg, who had been planning to give Gahg a cask of honey mead.
+Gahg, a [verbeeg marauder](3-Mechanics/CLI/bestiary/giant/verbeeg-marauder-idrotf.md) (see appendix C), has arrived for a romantic encounter with Duhg. Gahg has brought along some fragments of metal that she hopes will impress Duhg, who had been planning to give Gahg a cask of honey mead.
 
 If the characters try to stop Gahg from entering Duhg's lair, Gahg becomes alarmed, then enraged. She drops the wicker basket and attacks the characters, afraid that something terrible has happened to Duhg.
 
@@ -315,7 +315,7 @@ If only one verbeeg survives contact with the characters, it won't rest until it
 
 #### Gahg's Basket of Bits
 
-The metal fragments gathered by Gahg are pieces of a futuristic weapon that was jettisoned from the cargo hold of an illithid nautiloid before the spaceship crashed (see "Id Ascendant"). Gahg witnessed the crash, which looked like a comet streaking across the sky, then found the weapon's wreckage and took some of it. A character who examines the fragments and succeeds on a DC 20 Intelligence (Arcana) check realizes that the metal is not something one could expect to find on this world.
+The metal fragments gathered by Gahg are pieces of a futuristic weapon that was jettisoned from the cargo hold of an illithid nautiloid before the spaceship crashed (see "Id Ascendant"). Gahg witnessed the crash, which looked like a comet streaking across the sky, then found the weapon's wreckage and took some of it. A character who examines the fragments and succeeds on a DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check realizes that the metal is not something one could expect to find on this world.
 
 ##### Treasure
 
@@ -327,14 +327,14 @@ Once the characters find the two remaining casks of honey mead, they'll need to 
 
 #### New Town Speaker
 
-As the characters are recuperating from their adventure or planning their next excursion, a local cask maker named Olivessa Untapoor (neutral good human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) approaches the party leader, if there is one. If no character has assumed that role, Olivessa approaches the character with highest Charisma score:
+As the characters are recuperating from their adventure or planning their next excursion, a local cask maker named Olivessa Untapoor (neutral good human [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) approaches the party leader, if there is one. If no character has assumed that role, Olivessa approaches the character with highest Charisma score:
 
 > [!readaloud] 
 > 
 > A middle-aged woman approaches you and removes her thick wool scarf so that she can speak clearly. "My name is Olivessa, and I make the casks for the mead. Some friends of mine don't want Shandar Froth to become our next town speaker. They say he's untrustworthy. I don't know him that well, but I've been urged to run against him. I have no interest in the speakership, but you seem to be a good leader, and this town could use one. What do you say?"
 ^1de
 
-Olivessa is ready and willing to throw her support behind any character who runs in the election for the speakership, and since she's a leading candidate herself, her support carries weight. Her opponent, Shandar Froth (neutral shield dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), doesn't like this turn of events. After accusing the characters of having no stake in Good Mead's future, he leaves town for a day to get help (see "Zhentarim Intervention" below).
+Olivessa is ready and willing to throw her support behind any character who runs in the election for the speakership, and since she's a leading candidate herself, her support carries weight. Her opponent, Shandar Froth (neutral shield dwarf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), doesn't like this turn of events. After accusing the characters of having no stake in Good Mead's future, he leaves town for a day to get help (see "Zhentarim Intervention" below).
 
 A character who spends at least 1 hour making inquiries throughout town can learn the following information about the two leading candidates for the speakership:
 
@@ -343,6 +343,6 @@ A character who spends at least 1 hour making inquiries throughout town can lear
 
 ##### Zhentarim Intervention
 
-Shandar is under the thumb of Naerth Maxildanarr, the speaker of Targos. Faced with the possibility of losing the election, Shandar makes the 8-hour hike to Targos to warn Naerth and then promptly returns home. A day later, eight human [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md) storm the mead hall in cold weather clothing. Before the characters can intervene, Shandar and his fellow loggers confront the thugs and kick them out of town with their tails between their legs. The whole incident is orchestrated to make Shandar into a local hero. Characters who capture and interrogate one or more of the thugs learn that Naerth Maxildanarr hired them.
+Shandar is under the thumb of Naerth Maxildanarr, the speaker of Targos. Faced with the possibility of losing the election, Shandar makes the 8-hour hike to Targos to warn Naerth and then promptly returns home. A day later, eight human [thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md) storm the mead hall in cold weather clothing. Before the characters can intervene, Shandar and his fellow loggers confront the thugs and kick them out of town with their tails between their legs. The whole incident is orchestrated to make Shandar into a local hero. Characters who capture and interrogate one or more of the thugs learn that Naerth Maxildanarr hired them.
 
 If the characters fail to expose the deception, Shandar is elected town speaker, giving the Zhentarim a political foothold in Good Mead.

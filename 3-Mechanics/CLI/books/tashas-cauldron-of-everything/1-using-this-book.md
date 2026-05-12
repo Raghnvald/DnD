@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Using This Book
+- "Using This Book"
 ---
 # Using This Book
 *Source: Tasha's Cauldron of Everything, p. 4* 
 
-*Tasha's Cauldron of Everything* offers a host of new options for Dungeons & Dragons, and our journey through those options is accompanied by the notes of the wizard Tasha. Creator of the spell [Tasha's hideous laughter](/3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), Tasha's life is one of the most storied in the D&D multiverse. Raised by Baba Yaga, the Mother of Witches herself, Tasha adventured across the world of Greyhawk and became the friend and sometimes enemy of other famous adventurers, like Mordenkainen. In time, she ruled as the Witch Queen and later changed her name to Iggwilv—a figure of legend who is whispered about, feared, and admired.
+*Tasha's Cauldron of Everything* offers a host of new options for Dungeons & Dragons, and our journey through those options is accompanied by the notes of the wizard Tasha. Creator of the spell [Tasha's hideous laughter](3-Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), Tasha's life is one of the most storied in the D&D multiverse. Raised by Baba Yaga, the Mother of Witches herself, Tasha adventured across the world of Greyhawk and became the friend and sometimes enemy of other famous adventurers, like Mordenkainen. In time, she ruled as the Witch Queen and later changed her name to Iggwilv—a figure of legend who is whispered about, feared, and admired.
 
 Written for players and Dungeon Masters alike, this book offers options to enhance characters and campaigns in any D&D world, whether you're adventuring in Greyhawk, another official D&D setting, or a world of your own creation.
 
@@ -37,7 +37,7 @@ Whatever options you choose to use, this book relies on the rules in the "Player
 
 ## Ten Rules to Remember
 
-![](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/000-00-003.webp#center)
+![](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/000-00-003.webp#center)
 
 ### 1. The DM Adjudicates the Rules
 
@@ -55,7 +55,7 @@ Even if more than one factor gives you advantage or disadvantage on a roll, you 
 
 ### 4. Reaction Timing
 
-Certain game features let you take a special action, called a reaction, in response to an event. Making opportunity attacks and casting the [shield](/3-Mechanics/CLI/spells/shield-xphb.md) spell are two typical uses of reactions. If you're unsure when a reaction occurs in relation to its trigger, here's the rule: the reaction happens after its trigger, unless the description of the reaction explicitly says otherwise. Once you take a reaction, you can't take another one until the start of your next turn.
+Certain game features let you take a special action, called a reaction, in response to an event. Making opportunity attacks and casting the [shield](3-Mechanics/CLI/spells/shield-xphb.md) spell are two typical uses of reactions. If you're unsure when a reaction occurs in relation to its trigger, here's the rule: the reaction happens after its trigger, unless the description of the reaction explicitly says otherwise. Once you take a reaction, you can't take another one until the start of your next turn.
 
 ### 5. Proficiency Bonus
 

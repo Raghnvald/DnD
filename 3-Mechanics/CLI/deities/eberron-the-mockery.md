@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/war
-aliases: 
-- The Mockery
+aliases:
+- "The Mockery"
 ---
 # The Mockery
 *Source: Player's Handbook p. 296* 

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/ftd
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Amethyst Lodestone"
 ---
 # Amethyst Lodestone
@@ -16,7 +16,7 @@ aliases:
 
 This fist-sized chunk of amethyst is infused with an amethyst dragon's ability to bend gravitational forces. While you are carrying the lodestone, you have advantage on Strength saving throws.
 
-The lodestone has 6 charges for the following properties, which you can use while you are holding the stone. The stone regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn.
+The lodestone has 6 charges for the following properties, which you can use while you are holding the stone. The stone regains `1d6` expended charges daily at dawn.
 
 ## Flight
 
@@ -28,6 +28,6 @@ As an action, you can expend 1 charge to focus gravity around a creature you can
 
 ## Reverse Gravity
 
-As an action, you can expend 3 charges to cast [reverse gravity](/3-Mechanics/CLI/spells/reverse-gravity-xphb.md) from the stone (save DC 18).
+As an action, you can expend 3 charges to cast reverse gravity from the stone (save DC 18).
 
 *Source: Fizban's Treasury of Dragons p. 22*

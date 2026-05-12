@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
 - ttrpg-cli/spell/level/cantrip
 - ttrpg-cli/spell/optfeature/pact-of-the-tome
+- ttrpg-cli/spell/race/kobold
 - ttrpg-cli/spell/school/illusion
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/eldritch-knight
@@ -18,6 +19,10 @@ tags:
 - ttrpg-cli/spell/subclass/way-of-shadow
 - ttrpg-cli/spell/subrace/elf-high
 - ttrpg-cli/spell/subrace/gnome-forest
+- ttrpg-cli/spell/subrace/merfolk-ixalan-blue
+- ttrpg-cli/spell/subrace/merfolk-zendikar-cosi-creed
+- ttrpg-cli/spell/subrace/merfolk-zendikar-ula-creed
+- ttrpg-cli/spell/subrace/tiefling-glasya
 classes:
 - Bard (Magical Secrets)
 - Fighter (Eldritch Knight)
@@ -28,7 +33,7 @@ classes:
 - Wizard
 - Wizard (School of Illusion)
 aliases:
-- Minor Illusion
+- "Minor Illusion"
 ---
 # Minor Illusion
 *cantrip, Illusion*  
@@ -45,8 +50,8 @@ If you create a sound, its volume can range from a whisper to a scream. It can b
 
 If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, because things can pass through it.
 
-If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
+If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Monk (Way of Shadow)](/3-Mechanics/CLI/lists/list-spells-classes-way-of-shadow.md); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (School of Illusion)](/3-Mechanics/CLI/lists/list-spells-classes-school-of-illusion.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md); [Monk (Way of Shadow)](3-Mechanics/CLI/lists/list-spells-classes-way-of-shadow.md); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (School of Illusion)](3-Mechanics/CLI/lists/list-spells-classes-school-of-illusion.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

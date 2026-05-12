@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 6: Lost Level
+- "Level 6: Lost Level"
 ---
 # Level 6: Lost Level
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 81* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/018-601.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/018-601.webp#center)
 
 The Lost Level is designed for four 9th-level characters, and characters who defeat the monsters on this level should gain enough XP to advance halfway to 10th level. This level was a temple complex dedicated to the dwarven god Dumathoin, the Keeper of Secrets under the Mountain. Hidden inside is the tomb of Melair, king of the Melairkyn dwarves.
 
@@ -32,19 +32,19 @@ In addition to various treasures plundered from this level, Skella has a dagger 
 
 The umber hulks that burrowed into the Lost Level now wander freely here in search of prey.
 
-A wandering umber hulk detects nearby characters with its tremorsense. Such a creature might come stomping down a corridor toward them at any time, smashing through any doors in its path. Or it could burrow through a wall to reach the characters, exploding forth in a hail of stone fragments. If a wandering umber hulk is defeated, remove it from area 26 or have only one umber hulk in area 34. If the characters have already defeated the three umber hulks in those areas, assume this wandering one is a new arrival.
+A wandering umber hulk detects nearby characters with its [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense). Such a creature might come stomping down a corridor toward them at any time, smashing through any doors in its path. Or it could burrow through a wall to reach the characters, exploding forth in a hail of stone fragments. If a wandering umber hulk is defeated, remove it from area 26 or have only one umber hulk in area 34. If the characters have already defeated the three umber hulks in those areas, assume this wandering one is a new arrival.
 
 ## Exploring This Level
 
 All location descriptions for the Lost Level are keyed to map 6.
 
 > [!gallery]
-> ![Map 6](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/019-602.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/020-603.webp#gallery)
+> ![Map 6](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/019-602.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/020-603.webp#gallery)
 
 Many of the stone doors on this level have been demolished by the umber hulks. Creatures can move through the debris without penalty.
 
-Quartz pillars found throughout the Lost Level shed bright light in a 20-foot radius and dim light for an additional 20 feet. Casting a successful dispel magic spell on a pillar (DC 12) extinguishes its magical light forever, as does destroying the pillar. A quartz pillar is a Huge object with AC 11, 50 hit points, and immunity to poison and psychic damage. The quartz pillars aren't load-bearing, and their destruction won't trigger a roof collapse. Characters who have the Stonecunning trait can discern this fact by examining the pillars (no check required).
+Quartz pillars found throughout the Lost Level shed bright light in a 20-foot radius and dim light for an additional 20 feet. Casting a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell on a pillar (DC 12) extinguishes its magical light forever, as does destroying the pillar. A quartz pillar is a Huge object with AC 11, 50 hit points, and immunity to poison and psychic damage. The quartz pillars aren't load-bearing, and their destruction won't trigger a roof collapse. Characters who have the Stonecunning trait can discern this fact by examining the pillars (no check required).
 
 ### 1. Umber Hulk Tunnel
 
@@ -82,7 +82,7 @@ Duergar ransacked this chamber and left the door ajar. Ceremonial relics that on
 
 > [!note] Symbol of Dumathoin
 > 
-> Many areas of this level feature the symbol of Dumathoin, a mountain peak with a gemstone at its heart. The symbol is recognized by any character who succeeds on a DC 15 Intelligence (Religion) check. Dwarves succeed on the check automatically.
+> Many areas of this level feature the symbol of Dumathoin, a mountain peak with a gemstone at its heart. The symbol is recognized by any character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check. Dwarves succeed on the check automatically.
 ^symbol-of-dumathoin
 
 ### 5. Looted Reliquary
@@ -116,14 +116,14 @@ Dwarves only rarely commit words to paper, making this dwarven library a rare fi
 > 
 > **Shelves**. Scrolls bound in copper wire line stone shelves embedded in the east and west walls.
 > 
-> **Monsters**. Four [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) are rooting through the collected works, and a single [cloaker](/3-Mechanics/CLI/bestiary/aberration/cloaker.md) lurks in the shadows of the vaulted ceiling.
+> **Monsters**. Four [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) are rooting through the collected works, and a single [cloaker](3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md) lurks in the shadows of the vaulted ceiling.
 > 
 > **Ladders**. Sliding iron ladders on rails allow access to the tallest shelves, which top out at 15 feet high.
 > 
 > **Desks**. Two rows of stone desks and chairs face the entrance. The tops of the desks are angled slightly and have inkwells carved into them.
 ^336
 
-Caught off guard by the arrival of visitors, the duergar instinctively enlarge themselves and attack. If two duergar fall in battle, the survivors turn invisible and flee to area 12 while the cloaker covers their escape.
+Caught off guard by the arrival of visitors, the duergar instinctively enlarge themselves and attack. If two duergar fall in battle, the survivors turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and flee to area 12 while the cloaker covers their escape.
 
 The holy texts and scrolls in this room are brittle and fall apart easily. Most of the manuscripts describe the day-to-day religious observations of the priests of Dumathoin. A character who spends at least 1 hour poring over the archives can, with a successful DC 15 Intelligence check, discern the location of the temple of Dumathoin (area 15). The character also gains advantage on ability checks to find secret doors on this level.
 
@@ -140,11 +140,11 @@ The duergar searched area 8a for treasure but didn't find anything of interest. 
 > **Wooden Donkeys**. Standing around the room are five crude wooden constructs resembling donkeys. Each of these magic dummies has a body made of a wooden keg turned on its side. A head and neck made of wood and sackcloth is attached to one end of the keg. At the other end is a tail made from a straw broom. Each keg is held up by four 2-foot-long peg legs.
 ^339
 
-When a Small or Medium humanoid sits atop a [wooden donkey](/3-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md), it moves and attacks as directed by its rider. Each donkey has the statistics of a [mule](/3-Mechanics/CLI/bestiary/beast/mule.md), with these changes:
+When a Small or Medium humanoid sits atop a [wooden donkey](3-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md), it moves and attacks as directed by its rider. Each donkey has the statistics of a [mule](3-Mechanics/CLI/bestiary/beast/mule-xmm.md), with these changes:
 
-- The [wooden donkey](/3-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md) is a construct with blindsight out to a range of 30 feet. It is blind beyond this radius.  
-- Without a rider, the [wooden donkey](/3-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md) is incapacitated.  
-- It has immunity to poison damage, and it can't be blinded, charmed, frightened, paralyzed, petrified, or poisoned.  
+- The [wooden donkey](3-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md) is a construct with [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 30 feet. It is blind beyond this radius.  
+- Without a rider, the [wooden donkey](3-Mechanics/CLI/bestiary/construct/wooden-donkey-wdmm.md) is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).  
+- It has immunity to poison damage, and it can't be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), or [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).  
 
 #### 8b. Arch Gate to Level 9
 
@@ -163,13 +163,13 @@ A stone arch embedded in the south wall is engraved with images of beholders, fl
 > **Double Door**. Dwarvish runes for strength and safety are etched in the floor in front of the double doors to the east.
 ^33c
 
-The doors to area 10 are locked, and the key to unlock them can be found in area 25. Characters who don't have the proper key can open the double door using a knock spell or similar magic. It can also be forced open with a successful DC 30 Strength (Athletics) check. The lock on the doors can be picked by a character who makes a successful DC 15 Dexterity check using thieves' tools.
+The doors to area 10 are locked, and the key to unlock them can be found in area 25. Characters who don't have the proper key can open the double door using a [knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic. It can also be forced open with a successful DC 30 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The lock on the doors can be picked by a character who makes a successful DC 15 Dexterity check using thieves' tools.
 
 #### Pit Trap
 
-In front of the double door, situated between the Dwarvish runes carved into the floor, is a hidden 20-foot-deep pit that opens if the lock on the doors is successfully picked. The cover of the pit can be spotted by a character who searches the floor for traps and succeeds on a DC 20 Wisdom (Perception) check. The pit automatically closes again if the double doors are relocked.
+In front of the double door, situated between the Dwarvish runes carved into the floor, is a hidden 20-foot-deep pit that opens if the lock on the doors is successfully picked. The cover of the pit can be spotted by a character who searches the floor for traps and succeeds on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. The pit automatically closes again if the double doors are relocked.
 
-The pit is filled with a corrosive gas that billows up through tiny holes in its floor. Any creature standing before the double doors when the pit opens must succeed on a DC 15 Dexterity saving throw or fall in, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage from the fall and `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) acid damage from the gas. A creature in the pit takes the acid damage again at the start of each of its turns.
+The pit is filled with a corrosive gas that billows up through tiny holes in its floor. Any creature standing before the double doors when the pit opens must succeed on a DC 15 Dexterity saving throw or fall in, taking 7 (`2d6`) bludgeoning damage from the fall and 10 (`3d6`) acid damage from the gas. A creature in the pit takes the acid damage again at the start of each of its turns.
 
 The pit's sheer walls can't be climbed without the aid of climbing gear or magic.
 
@@ -254,7 +254,7 @@ The duergar smashed the glass cases atop the pedestals and stole all the items o
 
 The frescoes depict Melair spending time with his wife, their children, and their children's descendants.
 
-The cradle weighs 500 pounds and is an art object worth 2,500 gp. It contains a 2-foot-long statue of a swaddled dwarf infant sleeping soundly. A detect magic spell reveals an aura of transmutation magic around the statue of the dwarf infant.
+The cradle weighs 500 pounds and is an art object worth 2,500 gp. It contains a 2-foot-long statue of a swaddled dwarf infant sleeping soundly. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around the statue of the dwarf infant.
 
 ##### Treasure
 
@@ -274,7 +274,7 @@ Any creatures that escaped from area 7 regroup here and will make a final stand 
 > 
 > **Wall Carving**. The south wall bears a lavish carving of a mountain, beneath which a large stylized eye looks down on a line of dwarf warriors.
 > 
-> **Monsters**. Five enlarged [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) occupy the 10-foot spaces in front of the carving, examining the mithral filigree. Two [xorn](/3-Mechanics/CLI/bestiary/elemental/xorn.md) stand watch in the middle of the hall, feeding on discarded mithral fragments.
+> **Monsters**. Five enlarged [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) occupy the 10-foot spaces in front of the carving, examining the mithral filigree. Two [xorn](3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md) stand watch in the middle of the hall, feeding on discarded mithral fragments.
 > 
 > **Broken Door**. The door to the north has been reduced to rubble, creating an open passageway.
 ^34e
@@ -300,7 +300,7 @@ The duergar ransacked this room but left a few treasures behind. The room has th
 
 #### Treasure
 
-A spell scroll of mass cure wounds is buried under the pile of torn-up sermons next to the desk. A character who searches the pile finds it automatically.
+A [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) is buried under the pile of torn-up sermons next to the desk. A character who searches the pile finds it automatically.
 
 ### 14. Grand Vestibule
 
@@ -325,14 +325,14 @@ This huge chamber has been sculpted to resemble a cavern with a 30-foot-high vau
 
 > [!note] 
 > 
-> **Monsters**. Eight [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) plus their leader, a half-shield dwarf, half-duergar named Skella Ironeye, are scattered throughout the area. Two [cloakers](/3-Mechanics/CLI/bestiary/aberration/cloaker.md) flap above them, circling the nave at a height of 20 feet. The cloakers consider the duergar their allies.
+> **Monsters**. Eight [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) plus their leader, a half-shield dwarf, half-duergar named Skella Ironeye, are scattered throughout the area. Two [cloakers](3-Mechanics/CLI/bestiary/aberration/cloaker-xmm.md) flap above them, circling the nave at a height of 20 feet. The cloakers consider the duergar their allies.
 > 
 > **Quartz Pillars**. Glowing quartz pillars stand around the temple perimeter, carved to look like natural columns. The glowing pillars have the appearance of buttresses, but only the four stone pillars in the middle of the nave support the roof.
 > 
 > **Dais**. At the south end of the temple, stone steps climb 10 feet to a golden marble dais (area 15b).
 ^357
 
-Although her mother was a shield dwarf, Skella has the statistics of a [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) with 40 hit points. She has also attuned to a magic dagger that gives her blindsight out to a range of 30 feet (see "Treasure" below).
+Although her mother was a shield dwarf, Skella has the statistics of a [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) with 40 hit points. She has also attuned to a magic dagger that gives her [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 30 feet (see "Treasure" below).
 
 When Skella and her duergar subordinates climbed to the top of the dais, the altar there released a clay golem that attacked them (see area 15b). Four duergar were smashed to a pulp before Skella realized that their weapons were having no effect on the golem. She ordered her remaining forces to fall back, whereupon the golem withdrew to the altar once more.
 
@@ -342,7 +342,7 @@ Skella is prepared to let the adventurers take a crack at defeating the golem, s
 
 Skella wears a gem-studded cloak fit for a king (worth 750 gp, and stolen from area 11c). Fastened to her belt in plain view is a small gold figurine of a female elf holding up a symbol of the sun (25 gp). This figurine is the key to opening the arch gate in area 27.
 
-Tucked in a sheath strapped to Skella's right boot is a [dagger of blindsight](/3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md). The magic dagger was stolen from the hobgoblin warlord Azrok on level 3 and is the subject of a potential side quest (see "Legion of Azrok"). This rare magic item requires attunement. A creature attuned to it gains blindsight out to a range of 30 feet. The dagger has a saw-toothed edge and a black pearl nested in its pommel.
+Tucked in a sheath strapped to Skella's right boot is a [dagger of blindsight](3-Mechanics/CLI/items/dagger-of-blindsight-wdmm.md). The magic dagger was stolen from the hobgoblin warlord Azrok on level 3 and is the subject of a potential side quest (see "Legion of Azrok"). This rare magic item requires attunement. A creature attuned to it gains [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 30 feet. The dagger has a saw-toothed edge and a black pearl nested in its pommel.
 
 Two other duergar carry treasures plundered from the other areas of this level in gray, soot-stained sacks. The sacks contain the other items stolen from area 11c—an onyx smoking pipe (75 gp), a fist-sized diamond (1,000 gp), a red crystal tankard (250 gp), an elf warrior's golden gauntlet (250 gp), and a golden belt with an obsidian buckle and studs (250 gp).
 
@@ -357,7 +357,7 @@ Two other duergar carry treasures plundered from the other areas of this level i
 > **Basalt Doors**. At the back of the dais stands a set of double doors made of carved black basalt, flanked by two glowing quartz pillars. Above the double doors is a bas-relief carving of a mountain with a gem at its heart (the symbol of Dumathoin).
 ^35a
 
-The altar is a block of clay 7 feet long, 4 feet wide, and 3 feet high. When any creature moves within 20 feet of it, an 8-foot-tall [clay golem](/3-Mechanics/CLI/bestiary/construct/clay-golem.md) with dwarf-like proportions erupts from an extradimensional space inside the altar. The golem can exit or enter the altar as an action. The altar is impervious to damage.
+The altar is a block of clay 7 feet long, 4 feet wide, and 3 feet high. When any creature moves within 20 feet of it, an 8-foot-tall [clay golem](3-Mechanics/CLI/bestiary/construct/clay-golem-xmm.md) with dwarf-like proportions erupts from an extradimensional space inside the altar. The golem can exit or enter the altar as an action. The altar is impervious to damage.
 
 The golem can't be reasoned with. It enters the altar again only if it perceives no threats on the dais. If it goes berserk, the golem abandons its role as guardian and leaves the dais in pursuit of fleeing creatures.
 
@@ -365,7 +365,7 @@ If the characters defeat the golem or lure it away, any duergar in the temple se
 
 ##### Basalt Doors
 
-These matte black doors are impervious to damage and held shut by a power that neither magic nor force can overcome. The doors appear to absorb all light, but a close inspection reveals Dwarvish inscriptions carved into them that translate as follows: "It is the will of the Keeper of Secrets under the Mountain that only the hand of the king may open these doors. Let all who enter gaze upon the heart of Melairbode and know the true power of dwarvenkind." Any character who succeeds on a DC 20 Intelligence (History) check knows that Melairbode is the name of the ancient dwarven realm beneath Mount Waterdeep, whose Underhalls were the foundations of Undermountain.
+These matte black doors are impervious to damage and held shut by a power that neither magic nor force can overcome. The doors appear to absorb all light, but a close inspection reveals Dwarvish inscriptions carved into them that translate as follows: "It is the will of the Keeper of Secrets under the Mountain that only the hand of the king may open these doors. Let all who enter gaze upon the heart of Melairbode and know the true power of dwarvenkind." Any character who succeeds on a DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check knows that Melairbode is the name of the ancient dwarven realm beneath Mount Waterdeep, whose Underhalls were the foundations of Undermountain.
 
 If the hand of a living or dead dwarf king is pressed against either door, both doors swing slowly inward, revealing area 16 beyond. (The characters can find such an appendage in King Melair's true tomb, area 29f.) If the doors are touched by anything other than the hand of a dwarf king, the symbol of Dumathoin above the double doors casts a *Bigby's hand* spell.
 
@@ -386,9 +386,9 @@ The Melairkyn dwarves carved this 20-foot-high room out of the rock at the point
 > **Mirror**. A tall oval mirror is mounted on the east wall. Carved into its stone frame are dozens of lidless eyes and the following phrase in Common: "The gate cannot hide from those it cannot see."
 ^35d
 
-While in this room, dwarf characters can sense the immense weight of the mountain gently pressing down on them and realize subconsciously that they can attune to this room as though it were a magic item. A legend lore spell or similar magic reveals that this room sits at the heart of the mountain and that the Melairkyn dwarves came here to learn secrets and receive divine guidance.
+While in this room, dwarf characters can sense the immense weight of the mountain gently pressing down on them and realize subconsciously that they can attune to this room as though it were a magic item. A [legend lore](3-Mechanics/CLI/spells/legend-lore-xphb.md) spell or similar magic reveals that this room sits at the heart of the mountain and that the Melairkyn dwarves came here to learn secrets and receive divine guidance.
 
-While attuned to the room and inside it, a dwarf can cast the divination spell at will. Answers provided by the spell come from an unknown source (perhaps the Keeper of Secrets under the Mountain, perhaps the mountain itself). Too many castings of the spell in a short amount of time can lead to false readings, as noted in the spell's description.
+While attuned to the room and inside it, a dwarf can cast the [divination](3-Mechanics/CLI/spells/divination-xphb.md) spell at will. Answers provided by the spell come from an unknown source (perhaps the Keeper of Secrets under the Mountain, perhaps the mountain itself). Too many castings of the spell in a short amount of time can lead to false readings, as noted in the spell's description.
 
 Creatures that finish a short or long rest in this chamber absorb some of the strength of the mountain around them and gain 10 temporary hit points, or 20 temporary hit points if the creature is a dwarf. Once a creature gains this benefit, it can't do so again until the next dawn, and then only after finishing a short or long rest.
 
@@ -396,7 +396,7 @@ Creatures that finish a short or long rest in this chamber absorb some of the st
 
 The mirror is one of Halaster's gates (see "Gates"). Its rules are as follows:
 
-- The gate opens for 1 minute when an invisible creature stands directly in front of the mirror.  
+- The gate opens for 1 minute when an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creature stands directly in front of the mirror.  
 - Characters must be 11th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 4b on level 10, in the closest unoccupied space next to the identical gate located there.  
 
@@ -419,7 +419,7 @@ This hemispherical chamber has a 30-foot-high domed ceiling and contains the fol
 
 > [!note] 
 > 
-> **Guardians**. Two [helmed horrors](/3-Mechanics/CLI/bestiary/construct/helmed-horror.md) of dwarven stature wield battleaxes instead of longswords and stand in front of the doors to area 19.
+> **Guardians**. Two [helmed horrors](3-Mechanics/CLI/bestiary/construct/helmed-horror-xmm.md) of dwarven stature wield battleaxes instead of longswords and stand in front of the doors to area 19.
 > 
 > **Quartz Pillars**. The room is brightly lit by four quartz pillars.
 ^362
@@ -466,16 +466,16 @@ Rocks containing gemstone deposits would be transported to this area to have the
 > 
 > **Tables**. Four 20-foot-long, 5-foot-wide, 3-foot-high stone tables stand in the middle of the room.
 > 
-> **Xorn**. Piles of broken rocks surround the tables, some as high as 6 feet. A [xorn](/3-Mechanics/CLI/bestiary/elemental/xorn.md) is picking through the rocks and licking the gem dust off them.
+> **Xorn**. Piles of broken rocks surround the tables, some as high as 6 feet. A [xorn](3-Mechanics/CLI/bestiary/elemental/xorn-xmm.md) is picking through the rocks and licking the gem dust off them.
 ^36b
 
 If it notices the characters, the xorn approaches them and demands gemstones and precious metals, speaking in Terran. The xorn can sense if the characters are carrying such treasure, and it attacks if its demands aren't met.
 
 #### 22b. Open Pit
 
-The dwarves disposed of rocks by casting them into pits. When a pit became full, it was covered using stone shape spells and a new pit was created.
+The dwarves disposed of rocks by casting them into pits. When a pit became full, it was covered using [stone shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) spells and a new pit was created.
 
-This open pit is 10 feet wide and 70 feet deep, but it's filled with rocks to a depth of 50 feet. Creatures knocked into the pit fall 20 feet, taking `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.
+This open pit is 10 feet wide and 70 feet deep, but it's filled with rocks to a depth of 50 feet. Creatures knocked into the pit fall 20 feet, taking 7 (`2d6`) bludgeoning damage.
 
 ### 23. Stripped Room
 
@@ -495,7 +495,7 @@ Stone couches and tray holders occupy the northeast and southwest corners. Lying
 
 ### 26. Sacred Spirits
 
-Characters approaching this room hear a loud ruckus. The chamber's stone door has been smashed to rubble, and a hostile [umber hulk](/3-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md) is laying waste to the room. The hulk's tremorsense allows it to detect other creatures approaching on foot. When the characters get close, it crashes through the wall north of the doorway, hoping to surprise them.
+Characters approaching this room hear a loud ruckus. The chamber's stone door has been smashed to rubble, and a hostile [umber hulk](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) is laying waste to the room. The hulk's [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) allows it to detect other creatures approaching on foot. When the characters get close, it crashes through the wall north of the doorway, hoping to surprise them.
 
 The dwarves kept alcoholic spirits here. The beverages are long evaporated, and the umber hulk has pulverized the stone shelves, vats, and bottles that remain. Nothing here is salvageable.
 
@@ -524,7 +524,7 @@ This chamber is dressed to fool treasure seekers into thinking they have found t
 > **Secret Door**. A secret door in the south wall swings open into area 29a.
 ^373
 
-Dwarven bones are scattered around the smashed sarcophagus, but a character who studies the wreckage and succeeds on a DC 20 Intelligence (Investigation) check can tell that the scene has been cleverly staged to fool tomb robbers.
+Dwarven bones are scattered around the smashed sarcophagus, but a character who studies the wreckage and succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check can tell that the scene has been cleverly staged to fool tomb robbers.
 
 ### 29. King Melair's Lost Tomb
 
@@ -541,13 +541,13 @@ The dwarves have left many surprises here to prevent tomb robbers from reaching 
 > **Crystal Panels**. Ten glittering panels are set into the west, south, and east walls. Each panel is a 6-foot-tall, 3-foot-wide, 1-inch-thick rectangle of golden crystal, carved with the bas-relief image of a dwarf warrior clutching a battleaxe. (The panel in the middle of the south wall is set into a secret door that swings open into area 29b.)
 ^376
 
-The lid of the sarcophagus can be lifted by creatures with a combined Strength of 20 or more. Removing the lid triggers a magic mouth spell that admonishes interlopers in Dwarvish: "You dishonor our beloved king! May his tomb become yours as well!" After this warning, all ten battleaxes break free of their panels (whether on the walls or not; see "Treasure") and attack the tomb's interlopers. Use the [flying sword](/3-Mechanics/CLI/bestiary/construct/flying-sword.md) statistics for each [crystal battleaxe](/3-Mechanics/CLI/bestiary/construct/crystal-battleaxe-wdmm.md).
+The lid of the sarcophagus can be lifted by creatures with a combined Strength of 20 or more. Removing the lid triggers a [magic mouth](3-Mechanics/CLI/spells/magic-mouth-xphb.md) spell that admonishes interlopers in Dwarvish: "You dishonor our beloved king! May his tomb become yours as well!" After this warning, all ten battleaxes break free of their panels (whether on the walls or not; see "Treasure") and attack the tomb's interlopers. Use the [flying sword](3-Mechanics/CLI/bestiary/construct/animated-flying-sword-xmm.md) statistics for each [crystal battleaxe](3-Mechanics/CLI/bestiary/construct/crystal-battleaxe-wdmm.md).
 
 The sarcophagus contains tatters of a black shroud, the dust and bones of a nameless dwarf, and the bones of a mole that was accidentally sealed in with the dwarf's remains.
 
 ##### Treasure
 
-The crystal panels can be carefully pried from the walls. Each panel weighs 50 pounds and is worth 500 gp, or 50 gp without its [crystal battleaxe](/3-Mechanics/CLI/bestiary/construct/crystal-battleaxe-wdmm.md).
+The crystal panels can be carefully pried from the walls. Each panel weighs 50 pounds and is worth 500 gp, or 50 gp without its [crystal battleaxe](3-Mechanics/CLI/bestiary/construct/crystal-battleaxe-wdmm.md).
 
 #### 29b. First Interstitial Hall
 
@@ -559,11 +559,11 @@ This hall is choked with dust and cobwebs. It ends in a blank wall that holds a 
 
 ##### Pit Trap
 
-The pit in this hall is 10 feet wide and 30 feet deep. A character who searches the floor for traps and succeeds on a DC 20 Wisdom (Perception) check spots the trap. When a weight of 50 pounds or more is placed on the cover of the pit trap, the cover swings open like a trapdoor, causing any creature standing on it to fall in and take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage. The pit remains open for 1 minute; then its cover rises up on hidden springs and snaps shut. A successful DC 20 Strength check can pry the pit open. Hammering spikes or pitons into the edge of the pit's lid prevents it from opening.
+The pit in this hall is 10 feet wide and 30 feet deep. A character who searches the floor for traps and succeeds on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots the trap. When a weight of 50 pounds or more is placed on the cover of the pit trap, the cover swings open like a trapdoor, causing any creature standing on it to fall in and take 10 (`3d6`) bludgeoning damage. The pit remains open for 1 minute; then its cover rises up on hidden springs and snaps shut. A successful DC 20 Strength check can pry the pit open. Hammering spikes or pitons into the edge of the pit's lid prevents it from opening.
 
 A character in the pit can disable the spring mechanism from the inside with a successful DC 15 Dexterity check using thieves' tools, as long as the character can reach the mechanism at the top of the pit and can see.
 
-Hidden among the flagstones on the pit's floor is a stone button that, when pressed, unlocks the secret door to area 29d. A character who searches the bottom of the pit can find the button with a successful DC 12 Wisdom (Perception) check.
+Hidden among the flagstones on the pit's floor is a stone button that, when pressed, unlocks the secret door to area 29d. A character who searches the bottom of the pit can find the button with a successful DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 #### 29d. Gods and Demons
 
@@ -573,18 +573,18 @@ Hidden among the flagstones on the pit's floor is a stone button that, when pres
 > 
 > **Tapestry**. Hanging on the south wall between the statues of Moradin and Berronar is a thick tapestry depicting King Melair, his adamantine war pick in hand as he battles a purple worm. (The tapestry is too moldy and frayed to be worth anything.)
 > 
-> **Magic Wall**. The wall behind the tapestry is a magical conjuration. It doesn't detect as such under the scrutiny of a detect magic spell, but it vanishes if targeted by a successful dispel magic spell (DC 16). It also ceases to exist while contained in the area of an antimagic field spell. It otherwise looks and feels solid.
+> **Magic Wall**. The wall behind the tapestry is a magical conjuration. It doesn't detect as such under the scrutiny of a [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell, but it vanishes if targeted by a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 16). It also ceases to exist while contained in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md) spell. It otherwise looks and feels solid.
 ^37c
 
 The statues represent the dwarven deities Moradin (god of creation), Berronar Truesilver (god of hearth and home), Clangeddin Silverbeard (god of battle), and Marthammor Duin (god of exploration). A demon is trapped in each statue (see "Trapped Demons" below).
 
-Each statue is a Large object with AC 15, 100 hit points, and immunity to poison and psychic damage. Toppling a statue requires a successful DC 22 Strength (Athletics) check. A statue that topples or takes 10 or more damage cracks enough for the demon inside to erupt in a cloud of reeking black mist. It then coalesces into its true form in the nearest unoccupied space.
+Each statue is a Large object with AC 15, 100 hit points, and immunity to poison and psychic damage. Toppling a statue requires a successful DC 22 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. A statue that topples or takes 10 or more damage cracks enough for the demon inside to erupt in a cloud of reeking black mist. It then coalesces into its true form in the nearest unoccupied space.
 
 ##### Trapped Demons
 
-The Melairkyn dwarves trapped four demons in the statues after attempts to banish the fiends failed—a [barlgura](/3-Mechanics/CLI/bestiary/fiend/barlgura.md) in the statue of Moradin, a [hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou.md) in the statue of Berronar, a [vrock](/3-Mechanics/CLI/bestiary/fiend/vrock.md) in the statue of Clangeddin, and a [glabrezu](/3-Mechanics/CLI/bestiary/fiend/glabrezu.md) in the statue of Marthammor. Over the centuries of its confinement, the glabrezu has learned how to telepathically contact creatures in this room. Using its telepathy, it tries to trick an interloper into freeing it. Though the other three demons have telepathy, they are not powerful enough to use the ability while trapped in their statues.
+The Melairkyn dwarves trapped four demons in the statues after attempts to banish the fiends failed—a [barlgura](3-Mechanics/CLI/bestiary/fiend/barlgura-xmm.md) in the statue of Moradin, a [hezrou](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md) in the statue of Berronar, a [vrock](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) in the statue of Clangeddin, and a [glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu-xmm.md) in the statue of Marthammor. Over the centuries of its confinement, the glabrezu has learned how to telepathically contact creatures in this room. Using its telepathy, it tries to trick an interloper into freeing it. Though the other three demons have telepathy, they are not powerful enough to use the ability while trapped in their statues.
 
-The glabrezu makes telepathic contact with one character at random, congratulating that character on making it this far and claiming to have the knowledge and power to reveal the way to King Melair's true tomb. It promises (truthfully) to do so in exchange for its release from captivity. If the glabrezu is released, it casts dispel magic on the wall behind the tapestry, granting access to areas 29e and 29f, then lets the characters desecrate King Melair's tomb before it attacks them. If it needs allies, it knocks over more of the statues to free the other demons. These weaker demons obey the glabrezu for as long as it benefits them to do so.
+The glabrezu makes telepathic contact with one character at random, congratulating that character on making it this far and claiming to have the knowledge and power to reveal the way to King Melair's true tomb. It promises (truthfully) to do so in exchange for its release from captivity. If the glabrezu is released, it casts [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on the wall behind the tapestry, granting access to areas 29e and 29f, then lets the characters desecrate King Melair's tomb before it attacks them. If it needs allies, it knocks over more of the statues to free the other demons. These weaker demons obey the glabrezu for as long as it benefits them to do so.
 
 If the first character it approaches refuses to help the glabrezu escape, it makes contact with each of the other party members in turn. If it realizes none of the characters can be swayed, it screams vile epithets and vows to destroy them whenever it is set free.
 
@@ -598,7 +598,7 @@ A stone dais supports the true sarcophagus of King Melair—a perfectly cut slab
 
 ##### Treasure
 
-Inside the sarcophagus is the mummified corpse of the dwarf king, clad in burial robes and clutching an adamantine war pick. A sentinel shield bearing the symbol of Dumathoin rests atop the king's legs.
+Inside the sarcophagus is the mummified corpse of the dwarf king, clad in burial robes and clutching an adamantine war pick. A [sentinel shield](3-Mechanics/CLI/items/sentinel-shield-xdmg.md) bearing the symbol of Dumathoin rests atop the king's legs.
 
 Characters who sever one of the king's desiccated hands can use it to open the basalt doors in area 15.
 
@@ -629,7 +629,7 @@ Once used as quarters by Undermountain engineers, this room now contains nothing
 
 ### 32. False Halaster
 
-The characters encounter an invisible, wandering [gray slaad](/3-Mechanics/CLI/bestiary/aberration/gray-slaad.md) here. The slaad serves Halaster willingly and is tasked with killing adventurers on sight. Using its Shapechanger trait, the slaad has assumed Halaster's appearance, which becomes apparent when it swings its greatsword and ceases to be invisible.
+The characters encounter an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible), wandering [gray slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md) here. The slaad serves Halaster willingly and is tasked with killing adventurers on sight. Using its Shapechanger trait, the slaad has assumed Halaster's appearance, which becomes apparent when it swings its greatsword and ceases to be [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible).
 
 ### 33. Ghohlbrorn's Grave
 
@@ -648,18 +648,18 @@ This chamber has a flat, 30-foot-high ceiling and 10-foot-high tunnels exiting i
 > **Tapestry**. A torn tapestry hangs from an iron rod mounted to the south wall. The tapestry depicts King Melair and his guards fighting a bulette in a gem-encrusted cavern.
 ^389
 
-Any character who has the Stonecunning trait notices the breakaway section of floor immediately (no check required). Others who search the floor for traps notice the breakaway tiles with a successful DC 15 Wisdom (Perception) check. Beneath the breakaway stone tiles, an earth-filled cavity holds an [undead bulette](/3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md). Once all four exits are blocked by the statues, the [undead bulette](/3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md) erupts from the floor and attacks all creatures in the room. This creature is a [bulette](/3-Mechanics/CLI/bestiary/monstrosity/bulette.md), with these changes:
+Any character who has the Stonecunning trait notices the breakaway section of floor immediately (no check required). Others who search the floor for traps notice the breakaway tiles with a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Beneath the breakaway stone tiles, an earth-filled cavity holds an [undead bulette](3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md). Once all four exits are blocked by the statues, the [undead bulette](3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md) erupts from the floor and attacks all creatures in the room. This creature is a [bulette](3-Mechanics/CLI/bestiary/monstrosity/bulette-xmm.md), with these changes:
 
 - It is undead and has 125 hit points.  
-- It has vulnerability to radiant damage, resistance to necrotic damage, and immunity to poison damage and the poisoned condition.  
+- It has vulnerability to radiant damage, resistance to necrotic damage, and immunity to poison damage and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.  
 
-If it has nothing to attack, the [undead bulette](/3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md) burrows back down into its earthen cavity.
+If it has nothing to attack, the [undead bulette](3-Mechanics/CLI/bestiary/undead/undead-bulette-wdmm.md) burrows back down into its earthen cavity.
 
 #### 33b. Spiked Pit
 
-This hidden pit is 10 feet wide, 30 feet deep, and lined with adamantine spikes. A character who searches the floor for traps and succeeds on a DC 15 Wisdom (Perception) check spots the trap.
+This hidden pit is 10 feet wide, 30 feet deep, and lined with adamantine spikes. A character who searches the floor for traps and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots the trap.
 
-When a weight of 50 pounds or more is placed on the cover of the pit trap, it swings open like a trapdoor, causing any creature standing on it to fall in. The creature takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage from the fall and `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) piercing damage from the spikes. The pit remains open for 1 minute; then its cover rises up on hidden springs and snaps shut. A successful DC 20 Strength check can pry the pit open. A character in the pit can try to disable the spring mechanism from the inside with a successful DC 15 Dexterity check using thieves' tools, provided that the mechanism can be reached and the character can see it.
+When a weight of 50 pounds or more is placed on the cover of the pit trap, it swings open like a trapdoor, causing any creature standing on it to fall in. The creature takes 10 (`3d6`) bludgeoning damage from the fall and 11 (`2d10`) piercing damage from the spikes. The pit remains open for 1 minute; then its cover rises up on hidden springs and snaps shut. A successful DC 20 Strength check can pry the pit open. A character in the pit can try to disable the spring mechanism from the inside with a successful DC 15 Dexterity check using thieves' tools, provided that the mechanism can be reached and the character can see it.
 
 ### 34. Refectory Rampage
 
@@ -669,7 +669,7 @@ The doors leading to this section of the dungeon have been smashed to pieces, an
 
 > [!note] 
 > 
-> **Umber Hulks**. Two [umber hulks](/3-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md) stomp about the room. They attack other creatures on sight.
+> **Umber Hulks**. Two [umber hulks](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) stomp about the room. They attack other creatures on sight.
 > 
 > **Wreckage**. Smashed dining tables and benches create a makeshift obstacle course and provide cover.
 ^38d
@@ -687,7 +687,7 @@ The arch is one of Halaster's magic gates (see "Gates"). Carved into its keyston
 This room is empty except for an arch embedded in the northeast wall. This arch is one of Halaster's magic gates (see "Gates"). The space inside the arch bears a bas-relief of a female dwarf standing with her eyes closed. A large keyhole is carved into the head of a stone hammer she clutches to her chest. The rules of this gate are as follows:
 
 - If the stone key from area 14a on level 2 is inserted into the keyhole, the bas-relief and the key vanish as the gate opens for 1 minute. When the gate closes, the bas-relief reappears, and the key is ejected from its keyhole.  
-- A character can open the gate without the stone key by using an action to pick the lock, requiring a successful DC 20 Dexterity check using thieves' tools. On a failed check, the dwarf's eyes open and shoot forth beams of light. Each creature within 10 feet of the arch must make a DC 16 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) radiant damage on a failed save, or half as much damage on a successful one.  
+- A character can open the gate without the stone key by using an action to pick the lock, requiring a successful DC 20 Dexterity check using thieves' tools. On a failed check, the dwarf's eyes open and shoot forth beams of light. Each creature within 10 feet of the arch must make a DC 16 Dexterity saving throw, taking 22 (`4d10`) radiant damage on a failed save, or half as much damage on a successful one.  
 - Characters must be 10th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 3 on level 8, in the closest unoccupied space next to the identical gate located there.  
 
@@ -697,7 +697,7 @@ This room contains the smashed remains of a preparation table, a dishwashing sta
 
 ### 35. Black Cloak
 
-Halaster has created a regional effect in this corridor (see "Halaster's Lair"). As the characters come around the corner, they see a billowing black cloak moving away from them, as if it were being worn by an invisible creature. Created by a minor illusion spell, the cloak is silent and moves away from the party at a speed of 30 feet. It disappears upon entering area 33a, 34a, or 36b, or if it is dispelled.
+Halaster has created a regional effect in this corridor (see "Halaster's Lair"). As the characters come around the corner, they see a billowing black cloak moving away from them, as if it were being worn by an [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) creature. Created by a [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) spell, the cloak is silent and moves away from the party at a speed of 30 feet. It disappears upon entering area 33a, 34a, or 36b, or if it is dispelled.
 
 ### 36. Temple Maintenance
 
@@ -718,7 +718,7 @@ This corridor ends at a smashed door.
 
 The pit is a trash compactor designed to flatten garbage into sheets that can be easily carted away and disposed of.
 
-The first lever is currently in the up position and has the word "Crush" inscribed above it. Moving this lever to the down position causes the pit's east and west walls to close together, crushing anything between them. Raising the lever causes the walls to retract. Any creature or object crushed between the walls takes `dice:8d10|noform|noparens|avg|text(44)` (`8d10`) bludgeoning damage and is restrained by the walls until they retract.
+The first lever is currently in the up position and has the word "Crush" inscribed above it. Moving this lever to the down position causes the pit's east and west walls to close together, crushing anything between them. Raising the lever causes the walls to retract. Any creature or object crushed between the walls takes 44 (`8d10`) bludgeoning damage and is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) by the walls until they retract.
 
 The second lever is currently in the down position and has the word "Lift" inscribed above it. Moving this lever to the up position raises the stone floor of the pit to the level of the floor in the room. Neither this lever nor the pit floor can be raised while the pit walls are closed.
 
@@ -728,7 +728,7 @@ The second lever is currently in the down position and has the word "Lift" inscr
 > 
 > **Arch**. An arch is embedded in the northwest wall. Its keystone is carved to show a gold dragon wyrmling with its mouth open.
 > 
-> **Slaad**. Two invisible [gray slaadi](/3-Mechanics/CLI/bestiary/aberration/gray-slaad.md) in their natural forms flank the arch. The slaadi are Halaster's willing servants and attack anyone who approaches the arch or emerges from it, becoming visible as they do so.
+> **Slaad**. Two [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [gray slaadi](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md) in their natural forms flank the arch. The slaadi are Halaster's willing servants and attack anyone who approaches the arch or emerges from it, becoming visible as they do so.
 > 
 > **Bunk Beds**. Four stone bunk beds are pushed against the long walls of the room.
 ^396
@@ -758,7 +758,7 @@ Temple workers came here to shower and bathe.
 
 > [!note] 
 > 
-> **Heating Tank**. Heat billows from vents built into the sides of an 8-foot-tall, 5-foot-diameter cylindrical copper tank in the middle of the room. A copper pipe extends upward from the tank and disappears into the ceiling. A [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) rages inside the tank.
+> **Heating Tank**. Heat billows from vents built into the sides of an 8-foot-tall, 5-foot-diameter cylindrical copper tank in the middle of the room. A copper pipe extends upward from the tank and disappears into the ceiling. A [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental-xmm.md) rages inside the tank.
 > 
 > **Iron Wheel**. A small iron wheel protrudes from the wall just inside the door.
 > 
@@ -769,7 +769,7 @@ When cold water from an underground river is fed into the tank through the pipe,
 
 The tank is a Large object with AC 11, 45 hit points, and immunity to fire, poison, and psychic damage. If the tank takes more than 10 damage, the elemental escapes and attacks all other creatures it encounters until it is destroyed.
 
-Rust has caused the iron wheel to seize up, and it takes a successful DC 15 Strength (Athletics) check to turn it. Turning the wheel clockwise sends water pouring down the pipe and into the tank.
+Rust has caused the iron wheel to seize up, and it takes a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to turn it. Turning the wheel clockwise sends water pouring down the pipe and into the tank.
 
 #### 37c. Hidden Shrine of Abbathor
 
@@ -804,7 +804,7 @@ The duergar have destroyed the relics on display here, including statues atop pe
 
 ##### Illusory Wall
 
-The west wall of the room is an illusion without substance. It vanishes if targeted by a successful dispel magic spell (DC 16), and creatures and objects can pass right through it.
+The west wall of the room is an illusion without substance. It vanishes if targeted by a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 16), and creatures and objects can pass right through it.
 
 #### 39b. Jade Staff Fragments
 
@@ -819,13 +819,13 @@ The glass encasing each niche is easily broken, allowing access to the fragment 
 
 ##### Treasure
 
-The jade staff is presently broken into five 1-foot-long pieces—the four that Halaster placed on display here, plus a fifth piece he cast away. A detect magic spell reveals no magical auras around the staff fragments. Each of the staff's five pieces is worth 100 gp for the jade alone. The missing piece is the middle section of the staff, currently in the clutches of a bullywug (see level 8, area 19c). Pieces one and two (the top two sections of the staff) can be restored to a single section with a mending cantrip, as can pieces four and five (the bottom two sections).
+The jade staff is presently broken into five 1-foot-long pieces—the four that Halaster placed on display here, plus a fifth piece he cast away. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals no magical auras around the staff fragments. Each of the staff's five pieces is worth 100 gp for the jade alone. The missing piece is the middle section of the staff, currently in the clutches of a bullywug (see level 8, area 19c). Pieces one and two (the top two sections of the staff) can be restored to a single section with a [mending](3-Mechanics/CLI/spells/mending-xphb.md) cantrip, as can pieces four and five (the bottom two sections).
 
-If the fifth piece is found, the entire staff can be restored with mending cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an [animated jade serpent](/3-Mechanics/CLI/bestiary/construct/animated-jade-serpent-wdmm.md) that has the statistics of a [giant poisonous snake](/3-Mechanics/CLI/bestiary/beast/giant-poisonous-snake.md), with these changes:
+If the fifth piece is found, the entire staff can be restored with [mending](3-Mechanics/CLI/spells/mending-xphb.md) cantrips; each casting of the spell repairs one break in the staff. If the staff is made whole, it transforms from an object into an [animated jade serpent](3-Mechanics/CLI/bestiary/construct/animated-jade-serpent-wdmm.md) that has the statistics of a [giant poisonous snake](3-Mechanics/CLI/bestiary/beast/giant-venomous-snake-xmm.md), with these changes:
 
 - The serpent is a construct that understands and obeys whoever was holding the staff when it transformed.  
-- It has immunity to poison damage and the poisoned condition. It doesn't require air, food, drink, or sleep.  
-- When it drops to 0 hit points, roll a `dice:d6|noform|noparens|avg` (`d6`). On a roll of 1, the snake turns to dust and is destroyed. On any other roll, it changes back into a staff and breaks into `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) pieces that must be magically mended before the staff can be used again.  
+- It has immunity to poison damage and the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition. It doesn't require air, food, drink, or sleep.  
+- When it drops to 0 hit points, roll a `d6`. On a roll of 1, the snake turns to dust and is destroyed. On any other roll, it changes back into a staff and breaks into `1d4 + 1` pieces that must be magically mended before the staff can be used again.  
 
 #### 39c. Mornhyld's Bones
 
@@ -838,9 +838,9 @@ If the fifth piece is found, the entire staff can be restored with mending cantr
 > **Niche**. Carved into the west wall is an empty niche. (The coffer once rested here.)
 ^3a7
 
-A dwarf priest named Mornhyld Crystalmantle bound her spirit to Undermountain for eternity. Most of her bones turned to dust long ago. What's left of the dwarf floats above the shattered coffer, courtesy of Halaster's magic. Casting a successful dispel magic spell on the bones (DC 16) ends the effect and causes the skeletal remains to clatter to the floor.
+A dwarf priest named Mornhyld Crystalmantle bound her spirit to Undermountain for eternity. Most of her bones turned to dust long ago. What's left of the dwarf floats above the shattered coffer, courtesy of Halaster's magic. Casting a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell on the bones (DC 16) ends the effect and causes the skeletal remains to clatter to the floor.
 
-Mornhyld's disembodied spirit can sense when any humanoid moves within 5 feet of the bones, and it immediately tries to possess that creature. The target must succeed on a DC 18 Charisma saving throw or become possessed by Mornhyld. While possessed, the target is incapacitated and loses control of its body, though it retains its awareness. The possession lasts until the target's body drops to 0 hit points, the target leaves the room, Mornhyld's spirit ends the effect as a bonus action, or the spirit is forced out by an effect such as the dispel evil and good spell. The creature is immune to the spirit's possession for 24 hours after succeeding on the saving throw or after the possession ends.
+Mornhyld's disembodied spirit can sense when any humanoid moves within 5 feet of the bones, and it immediately tries to possess that creature. The target must succeed on a DC 18 Charisma saving throw or become possessed by Mornhyld. While possessed, the target is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) and loses control of its body, though it retains its awareness. The possession lasts until the target's body drops to 0 hit points, the target leaves the room, Mornhyld's spirit ends the effect as a bonus action, or the spirit is forced out by an effect such as the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell. The creature is immune to the spirit's possession for 24 hours after succeeding on the saving throw or after the possession ends.
 
 If Mornhyld's spirit fails to possess a creature, it can try to possess another creature on its next turn. The spirit has a +1 bonus to initiative.
 
@@ -858,18 +858,18 @@ Characters who make no effort to conceal their approach alert the creatures in t
 > 
 > **Quartz Pillars**. Glowing quartz pillars stand in the corners of the room.
 > 
-> **Duergar**. Two [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) are inspecting a stone arch embedded in the center of the east wall.
+> **Duergar**. Two [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) are inspecting a stone arch embedded in the center of the east wall.
 > 
 > **Instruments**. Protruding from the south wall is an organ whose pipes are carved out of stalagmites. Its bench and keys are made of polished gold and black marble. Two large copper kettle drums stand against the west wall. Resting atop them is a shiny brass tuba.
 ^3a9
 
-The duergar have taken a break from looting to inspect the arch in the east wall. They turn invisible if they detect other creatures approaching, then move up behind the pillars to the north to take stock of the new arrivals. Then they sneak off to area 15a to alert the duergar there. They avoid confrontation in this room. In addition to their weapons and armor, these duergar have treasure (see "Treasure" below).
+The duergar have taken a break from looting to inspect the arch in the east wall. They turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) if they detect other creatures approaching, then move up behind the pillars to the north to take stock of the new arrivals. Then they sneak off to area 15a to alert the duergar there. They avoid confrontation in this room. In addition to their weapons and armor, these duergar have treasure (see "Treasure" below).
 
 #### Arch Gate to Level 11
 
 The arch embedded in the east wall is one of Halaster's magic gates (see "Gates"). Carved into the arch's keystone is a hand-shaped indentation with a sigil representing magic scribed into the palm. The rules for this arch are as follows:
 
-- Casting the mage hand cantrip and pressing its spectral fingers into the keystone's indentation opens the gate for 1 minute.  
+- Casting the [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip and pressing its spectral fingers into the keystone's indentation opens the gate for 1 minute.  
 - Characters must be 11th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 2b on level 11, in the closest unoccupied space next to the identical gate located there.  
 
@@ -895,13 +895,13 @@ Each duergar carries a sack of stolen items. One sack contains a silver figurine
 
 ### 41. Privies
 
-This room is divided into four stone privies with holes cut into their floors and long-disused lavatory pits below. An invisible [gray slaad](/3-Mechanics/CLI/bestiary/aberration/gray-slaad.md) lurks in the privy to the south. It attacks anyone who searches or uses its privy.
+This room is divided into four stone privies with holes cut into their floors and long-disused lavatory pits below. An [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) [gray slaad](3-Mechanics/CLI/bestiary/aberration/gray-slaad-xmm.md) lurks in the privy to the south. It attacks anyone who searches or uses its privy.
 
 ### 42. Hidden Pit
 
-A breakaway stone floor in this corridor conceals a 10-foot-wide, 20-foot-deep pit. A character who searches the floor for traps and succeeds on a DC 20 Wisdom (Perception) check spots the irregular floor tiles. When a weight of 20 pounds or more is placed on the floor, it collapses, causing any creature standing on the pit to fall in and take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage.
+A breakaway stone floor in this corridor conceals a 10-foot-wide, 20-foot-deep pit. A character who searches the floor for traps and succeeds on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots the irregular floor tiles. When a weight of 20 pounds or more is placed on the floor, it collapses, causing any creature standing on the pit to fall in and take 7 (`2d6`) bludgeoning damage.
 
-In addition, a glyph of warding spell cast on the floor of the pit detonates when a creature falls in. When triggered, the glyph erupts with magical energy, and each creature in the pit must make a DC 22 Dexterity saving throw, taking `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) fire damage on a failed save, or half as much damage on a successful one.
+In addition, a [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell cast on the floor of the pit detonates when a creature falls in. When triggered, the glyph erupts with magical energy, and each creature in the pit must make a DC 22 Dexterity saving throw, taking 36 (`8d8`) fire damage on a failed save, or half as much damage on a successful one.
 
 ### 43. Umber Hulk Tunnels
 
@@ -926,7 +926,7 @@ This room has the same features as area 44.
 
 The walls and floor of this 30-foot-high domed chamber have been blackened by fire, and the room's furnishings appear to have been incinerated. Charred bits of wood and stone lie strewn about the floor.
 
-Any character who examines the room and succeeds on a DC 20 Intelligence (Investigation) check realizes that some sort of magical conflagration caused the damage, and that it started in the middle of the room. There is nothing to indicate what triggered the devastation.
+Any character who examines the room and succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check realizes that some sort of magical conflagration caused the damage, and that it started in the middle of the room. There is nothing to indicate what triggered the devastation.
 
 ### 47. Halls of the Faithful
 
@@ -940,7 +940,7 @@ Devotees of Dumathoin once walked these halls to get from their quarters to the 
 > 
 > **Arch Gates**. Two stone arches are embedded in the walls, one to the north and the other to the south.
 > 
-> **Stalkers**. Halaster placed two [invisible stalkers](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) here. They attack any creature that approaches within 10 feet of either gate or that emerges from a gate.
+> **Stalkers**. Halaster placed two [invisible stalkers](3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) here. They attack any creature that approaches within 10 feet of either gate or that emerges from a gate.
 ^3b9
 
 The male duergar was killed first by the invisible stalkers. His companion came looking for him minutes later and met the same fate. Both duergar wear dull gray scale armor. Their iron shields, war picks, and javelins lie nearby. They have no treasure.
@@ -957,13 +957,13 @@ The north arch is one of Halaster's magic gates (see "Gates"). It is decorated w
 
 This arch is another of Halaster's gates, its sides carved in the form of scantily clad elves (one male and one female) holding fingers to their lips in a gesture of silence. Its rules are as follows:
 
-- If a silence spell is cast so that the arch is in the spell's area, the gate opens for 1 minute.  
+- If a [silence](3-Mechanics/CLI/spells/silence-xphb.md) spell is cast so that the arch is in the spell's area, the gate opens for 1 minute.  
 - Characters must be 15th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 6 on level 18, in the closest unoccupied space next to the identical gate located there.  
 
 #### 47b. Giggles
 
-This hall forms a loop that contains one of Halaster's regional effects (see "Halaster's Lair"). As the characters make their way around one side of the loop, they hear footfalls and giggling coming from around the next corner. The sounds stay ahead of them as they circle the loop, but stop if the characters come at them from two directions at once. This effect is the work of a harmless minor illusion cantrip.
+This hall forms a loop that contains one of Halaster's regional effects (see "Halaster's Lair"). As the characters make their way around one side of the loop, they hear footfalls and giggling coming from around the next corner. The sounds stay ahead of them as they circle the loop, but stop if the characters come at them from two directions at once. This effect is the work of a harmless [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md) cantrip.
 
 ### 48. High Priest's Quarters
 

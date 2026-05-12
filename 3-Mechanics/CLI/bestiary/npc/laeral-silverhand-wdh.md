@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Laeral Silverhand
+- "Laeral Silverhand"
 ---
-# [Laeral Silverhand](3-Mechanics\CLI\bestiary\npc/laeral-silverhand-wdh.md)
+# [Laeral Silverhand](3-Mechanics/CLI/bestiary/npc/laeral-silverhand-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 207*  
 
 Anamanué Laeral Silverhand was born in the Year of the Cowl (765 DR), the fifth of seven daughters of the goddess Mystra. Each of the Seven Sisters is a powerful and ageless beauty with a penchant for arcane magic.
@@ -34,7 +34,7 @@ In times of great need, Laeral can command Vajra to unleash Force Grey. Until th
 "subtype": "human"
 "alignment": "Chaotic Good"
 "ac": !!int "18"
-"ac_class": "robe of the archmagi"
+"ac_class": "[robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)"
 "hp": !!int "228"
 "hit_dice": "24d8 + 120"
 "modifier": !!int "3"
@@ -50,37 +50,50 @@ In times of great need, Laeral can command Vajra to unleash Force Grey. Until th
   - "intelligence": !!int "11"
   - "wisdom": !!int "11"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+17"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+17"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+10"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 60 ft., passive Perception 21"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 21"
 "languages": "Common, Draconic, Dwarvish, Elvish, Giant, Infernal"
 "cr": "17"
 "traits":
   - "desc": "Laeral is a 19th-level spellcaster. Her spellcasting ability is Intelligence\
       \ (spell save DC 21, +13 to hit with spell attacks). Laeral has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** light, mage hand, minor\
-      \ illusion, prestidigitation, ray of frost\n\n**1st level:** detect magic, disguise\
-      \ self, magic missile, shield\n\n**2nd level:** detect thoughts, invisibility,\
-      \ misty step\n\n**3rd level (3 slots):** counterspell, fly, sending, tongues\n\
-      \n**4th level (3 slots):** banishment, greater invisibility, Otiluke's resilient\
-      \ sphere\n\n**5th level (3 slots):** cone of cold, geas, Rary's telepathic bond\n\
-      \n**6th level (2 slots):** globe of invulnerability, mass suggestion\n\n**7th\
-      \ level (1 slots):** prismatic spray, teleport\n\n**8th level (1 slots):** feeblemind,\
-      \ power word stun\n\n**9th level (1 slots):** time stop"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [light](3-Mechanics/CLI/spells/light-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md), [ray\
+      \ of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**1st level:** [detect\
+      \ magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\
+      \n**2nd level:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fly](3-Mechanics/CLI/spells/fly-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**4th level (3 slots):**\
+      \ [banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [Otiluke's resilient sphere](3-Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md)\n\
+      \n**5th level (3 slots):** [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+      \ [geas](3-Mechanics/CLI/spells/geas-xphb.md), [Rary's telepathic bond](3-Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md)\n\
+      \n**6th level (2 slots):** [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md)\n\n**7th\
+      \ level (1 slots):** [prismatic spray](3-Mechanics/CLI/spells/prismatic-spray-xphb.md),\
+      \ [teleport](3-Mechanics/CLI/spells/teleport-xphb.md)\n\n**8th level (1 slots):**\
+      \ [feeblemind](3-Mechanics/CLI/spells/befuddlement-xphb.md), [power word stun](3-Mechanics/CLI/spells/power-word-stun-xphb.md)\n\
+      \n**9th level (1 slots):** [time stop](3-Mechanics/CLI/spells/time-stop-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Laeral wears a white robe of the archmagi (accounted for in her statistics).\
-      \ She wields a flame tongue longsword."
+  - "desc": "Laeral wears a white [robe of the archmagi](3-Mechanics/CLI/items/robe-of-the-archmagi-xdmg.md)\
+      \ (accounted for in her statistics). She wields a [flame tongue longsword](3-Mechanics/CLI/items/flame-tongue-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "While wearing her robe of the archmagi, Laeral has advantage on saving\
       \ throws against spells and other magical effects."
@@ -90,36 +103,38 @@ In times of great need, Laeral can command Vajra to unleash Force Grey. Until th
       \ any combination. She can cast one of her cantrips or 1st-level spells before\
       \ or after making these attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 7\
-      \ (2d6) force damage, and the target must succeed on a DC 19 Constitution saving\
-      \ throw or be paralyzed for 1 minute. The target can repeat the saving throw\
-      \ at the end of each of its turns, ending the effect on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 7 (2d6) force damage, and the target must succeed on a DC 19 Constitution\
+      \ saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ for 1 minute. The target can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
     "name": "Silver Hair"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) slashing damage plus 7 (2d6) fire damage, or 6 (1d10 + 1) slashing damage\
-      \ plus 7 (2d6) fire damage when used with two hands."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) slashing damage plus 7 (2d6) fire damage, or 6 (1d10 + 1)\
+      \ slashing damage plus 7 (2d6) fire damage when used with two hands."
     "name": "Flame Tongue"
   - "desc": "Magical, heatless, silver fire harmlessly erupts from Laeral and surrounds\
-      \ her until she is incapacitated or until she uses an action to quench it. She\
-      \ gains one of the following benefits of her choice, which lasts until the silver\
-      \ fire ends:\n\n- She can breathe underwater.  \n- She can survive without food\
-      \ and water.  \n- She is immune to magic that would ascertain her thoughts,\
-      \ truthfulness, alignment, or creature type.  \n- She gains resistance to cold\
-      \ damage, and she is unharmed by temperatures as low as -50 degrees Fahrenheit.\
-      \  \n\nWhile the silver fire is present, she has the following additional action\
-      \ options:\n\n- Cast the cure wounds spell. The target regains 1d8 + 5 hit points.\
-      \ After Laeral takes this action, roll a d6. On a roll of 1, the silver fire\
-      \ disappears.  \n- Cast the revivify spell without material components. After\
-      \ Laeral takes this action, roll a d6. On a roll of 1-2, the silver fire disappears.\
-      \  \n- Release a 60-foot line of silver fire that is 5 feet wide or a 30-foot\
-      \ cone of silver fire. Objects in the area that aren't being worn or carried\
-      \ take 26 (4d12) fire damage. Each creature in the area must succeed on a DC\
-      \ 21 Dexterity saving throw, taking 26 (4d12) fire damage on a failed save,\
-      \ or half as much damage on a successful one. After Laeral takes this action,\
-      \ roll a d6. On a roll of 1-3, the silver fire disappears.  "
+      \ her until she is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ or until she uses an action to quench it. She gains one of the following benefits\
+      \ of her choice, which lasts until the silver fire ends:\n\n- She can breathe\
+      \ underwater.  \n- She can survive without food and water.  \n- She is immune\
+      \ to magic that would ascertain her thoughts, truthfulness, alignment, or creature\
+      \ type.  \n- She gains resistance to cold damage, and she is unharmed by temperatures\
+      \ as low as -50 degrees Fahrenheit.  \n\nWhile the silver fire is present, she\
+      \ has the following additional action options:\n\n- Cast the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md)\
+      \ spell. The target regains 1d8 + 5 hit points. After Laeral takes this action,\
+      \ roll a d6. On a roll of 1, the silver fire disappears.  \n- Cast the [revivify](3-Mechanics/CLI/spells/revivify-xphb.md)\
+      \ spell without material components. After Laeral takes this action, roll a\
+      \ d6. On a roll of 1-2, the silver fire disappears.  \n- Release a 60-foot\
+      \ line of silver fire that is 5 feet wide or a 30-foot cone of silver fire.\
+      \ Objects in the area that aren't being worn or carried take 26 (4d12) fire\
+      \ damage. Each creature in the area must succeed on a DC 21 Dexterity saving\
+      \ throw, taking 26 (4d12) fire damage on a failed save, or half as much damage\
+      \ on a successful one. After Laeral takes this action, roll a d6. On a roll\
+      \ of 1-3, the silver fire disappears.  "
     "name": "Spellfire (Recharges after a Long Rest)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/laeral-silverhand-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/laeral-silverhand-wdh.webp"
 ```
 ^statblock

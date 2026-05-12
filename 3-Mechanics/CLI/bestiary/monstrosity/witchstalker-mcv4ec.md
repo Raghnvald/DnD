@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Witchstalker
+- "Witchstalker"
 ---
-# [Witchstalker](3-Mechanics\CLI\bestiary\monstrosity/witchstalker-mcv4ec.md)
+# [Witchstalker](3-Mechanics/CLI/bestiary/monstrosity/witchstalker-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Twice the size of their ordinary kin, witchstalkers are giant wolves drawn to sources of magic by their supernatural sense of smell. As a result, the moors and forests of Dunbarrow make for good hunting grounds. The greater the source of magic, the more witchstalkers are drawn to the area. To their dismay, witches have drawn as many as a dozen witchstalkers.
@@ -40,11 +40,12 @@ Witchstalkers resemble monstrous wolves with enormous jaws and ridged spines. By
   - "strength": !!int "7"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "truesight 60 ft., passive Perception 17"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 17"
 "languages": "understands Common but can't speak"
 "cr": "6"
 "traits":
@@ -59,15 +60,16 @@ Witchstalkers resemble monstrous wolves with enormous jaws and ridged spines. By
   - "desc": "The witchstalker makes two Bite attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (3d6 + 4) piercing damage. If the target is a Large or smaller creature, it\
-      \ must succeed on a DC 15 Strength saving throw or have the prone condition."
+      \ (3d6 + 4) piercing damage. If the target is a Large or smaller creature,\
+      \ it must succeed on a DC 15 Strength saving throw or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ condition."
     "name": "Bite"
   - "desc": "The witchstalker unleashes a terrible howl, and each creature within\
       \ 30 feet of it that isn't a Monstrosity must make a DC 13 Wisdom saving throw.\
       \ On a failed save, a creature takes 24 (7d6) psychic damage and has disadvantage\
-      \ on Constitution saving throws to maintain concentration on spells until the\
-      \ end of its next turn. On a successful save, a creature takes half as much\
-      \ damage only."
+      \ on Constitution saving throws to maintain [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on spells until the end of its next turn. On a successful save, a creature\
+      \ takes half as much damage only."
     "name": "Mind-Wracking Howl (Recharge 5-6)"
 "reactions":
   - "desc": "Immediately after a creature within 120 feet of the witchstalker casts\
@@ -76,6 +78,6 @@ Witchstalkers resemble monstrous wolves with enormous jaws and ridged spines. By
     "name": "Spell Stalk"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/witchstalker-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/witchstalker-mcv4ec.webp"
 ```
 ^statblock

@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Military Contacts; Commanding Officer
+- "Military Contacts; Commanding Officer"
 ---
 # Military Contacts; Commanding Officer
 *Source: Eberron: Rising from the Last War p. 91* 
 
 **Commanding Officer**
-
-`dice: [](military-contacts-commanding-officer-erlw.md#^commanding-officer)`
 
 | dice: d8 | Officer |
 |----------|---------|

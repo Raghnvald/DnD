@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Smoke Mephit
+- "Smoke Mephit"
 ---
-# [Smoke Mephit](3-Mechanics\CLI\bestiary\elemental/smoke-mephit.md)
+# [Smoke Mephit](3-Mechanics/CLI/bestiary/elemental/smoke-mephit.md)
 *Source: Monster Manual p. 217*  
 
 ## Mephits
@@ -48,18 +48,18 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
   - !!int "11"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Auran, Ignan"
 "cr": "1/4"
 "traits":
-  - "desc": "The mephit can innately cast [dancing lights](/3-Mechanics/CLI/spells/dancing-lights.md),\
+  - "desc": "The mephit can innately cast [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md),\
       \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it leaves behind a cloud of smoke that fills a\
@@ -67,16 +67,16 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
       \ Wind disperses the cloud, which otherwise lasts for 1 minute."
     "name": "Death Burst"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of smoldering ash. Each creature in\
-      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ until the end of the mephit's next turn."
     "name": "Cinder Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/smoke-mephit.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/smoke-mephit.webp"
 ```
 ^statblock
 

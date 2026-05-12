@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Victoro Cassalanter
+- "Victoro Cassalanter"
 ---
-# [Victoro Cassalanter](3-Mechanics\CLI\bestiary\npc/victoro-cassalanter-wdh.md)
+# [Victoro Cassalanter](3-Mechanics/CLI/bestiary/npc/victoro-cassalanter-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 218*  
 
 The lord of House Cassalanter is a devilishly handsome half-elf who likes coin and power. He and his wife gained both by cutting a deal with Asmodeus-which involved trading away the souls of their three children.
@@ -30,7 +30,8 @@ Victoro is well schooled, suave, slow to anger, and blessed with good health, lo
 "subtype": "half-elf"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "glamoured studded leather, ring of protection"
+"ac_class": "[glamoured studded leather](3-Mechanics/CLI/items/glamoured-studded-leather-xdmg.md),\
+  \ [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md)"
 "hp": !!int "97"
 "hit_dice": "15d8 + 30"
 "modifier": !!int "1"
@@ -46,64 +47,84 @@ Victoro is well schooled, suave, slow to anger, and blessed with good health, lo
   - "constitution": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+7"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+8"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+7"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 60 ft., passive Perception 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common, Draconic, Elvish, Infernal"
 "cr": "10"
 "traits":
   - "desc": "Victoro is a 15th-level spellcaster. His spellcasting ability is Wisdom\
       \ (spell save DC 15, +7 to hit with spell attacks). Victoro has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** guidance, light, mending,\
-      \ spare the dying, thaumaturgy\n\n**1st level (4 slots):** charm person, command,\
-      \ detect magic, disguise self, protection from evil and good, sanctuary\n\n\
-      **2nd level (3 slots):** augury, lesser restoration, mirror image, pass without\
-      \ trace, spiritual weapon\n\n**3rd level (3 slots):** blink, clairvoyance, dispel\
-      \ magic, magic circle, protection from energy\n\n**4th level (3 slots):** banishment,\
-      \ dimension door, divination, freedom of movement, polymorph\n\n**5th level\
-      \ (2 slots):** dominate person, flame strike, modify memory, insect plague\n\
-      \n**6th level (1 slots):** heal\n\n**7th level (1 slots):** divine word\n\n\
-      **8th level (1 slots):** earthquake"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md),\
+      \ [spare the dying](3-Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1st level (4 slots):** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [command](3-Mechanics/CLI/spells/command-xphb.md), [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [protection\
+      \ from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md),\
+      \ [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [augury](3-Mechanics/CLI/spells/augury-xphb.md), [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+      \ [mirror image](3-Mechanics/CLI/spells/mirror-image-xphb.md), [pass without\
+      \ trace](3-Mechanics/CLI/spells/pass-without-trace-xphb.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\
+      \n**3rd level (3 slots):** [blink](3-Mechanics/CLI/spells/blink-xphb.md), [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [magic circle](3-Mechanics/CLI/spells/magic-circle-xphb.md),\
+      \ [protection from energy](3-Mechanics/CLI/spells/protection-from-energy-xphb.md)\n\
+      \n**4th level (3 slots):** [banishment](3-Mechanics/CLI/spells/banishment-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [divination](3-Mechanics/CLI/spells/divination-xphb.md),\
+      \ [freedom of movement](3-Mechanics/CLI/spells/freedom-of-movement-xphb.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md)\n\n**5th level (2 slots):**\
+      \ [dominate person](3-Mechanics/CLI/spells/dominate-person-xphb.md), [flame\
+      \ strike](3-Mechanics/CLI/spells/flame-strike-xphb.md), [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md),\
+      \ [insect plague](3-Mechanics/CLI/spells/insect-plague-xphb.md)\n\n**6th level\
+      \ (1 slots):** [heal](3-Mechanics/CLI/spells/heal-xphb.md)\n\n**7th level (1\
+      \ slots):** [divine word](3-Mechanics/CLI/spells/divine-word-xphb.md)\n\n**8th\
+      \ level (1 slots):** [earthquake](3-Mechanics/CLI/spells/earthquake-xphb.md)"
     "name": "Spellcasting"
-  - "desc": "Victoro wears a ring of protection and glamoured studded leather disguised\
-      \ to look like fine clothing. He carries a rod of rulership shaped like a ruby-tipped\
-      \ cane."
+  - "desc": "Victoro wears a [ring of protection](3-Mechanics/CLI/items/ring-of-protection-xdmg.md)\
+      \ and [glamoured studded leather](3-Mechanics/CLI/items/glamoured-studded-leather-xdmg.md)\
+      \ disguised to look like fine clothing. He carries a [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md)\
+      \ shaped like a ruby-tipped cane."
     "name": "Special Equipment"
-  - "desc": "Victoro has advantage on saving throws against being charmed, and magic\
-      \ can't put him to sleep."
+  - "desc": "Victoro has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put him to sleep."
     "name": "Fey Ancestry"
   - "desc": "Victoro can use an action to present the rod and command obedience from\
       \ each creature of his choice that he can see within 120 feet of him. Each target\
-      \ must succeed on a DC 15 Wisdom saving throw or be charmed for 8 hours by Victoro.\
-      \ While charmed in this way, the creature regards Victoro as its trusted leader.\
-      \ If harmed by Victoro or his companions, or commanded to do something contrary\
-      \ to its nature, a target ceases to be charmed in this way. The rod can't be\
-      \ used again until the next dawn."
+      \ must succeed on a DC 15 Wisdom saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ for 8 hours by Victoro. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ in this way, the creature regards Victoro as its trusted leader. If harmed\
+      \ by Victoro or his companions, or commanded to do something contrary to its\
+      \ nature, a target ceases to be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ in this way. The rod can't be used again until the next dawn."
     "name": "Rod of Rulership"
 "actions":
   - "desc": "Victoro makes two attacks with his rapier."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
-  - "desc": "Victoro becomes invisible until the end of his next turn. He becomes\
-      \ visible early immediately after he attacks or casts a spell."
+  - "desc": "Victoro becomes [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
+      \ until the end of his next turn. He becomes visible early immediately after\
+      \ he attacks or casts a spell."
     "name": "Cloak of Shadows (2/Day)"
-  - "desc": "Victoro summons a [barbed devil](/3-Mechanics/CLI/bestiary/fiend/barbed-devil.md).\
+  - "desc": "Victoro summons a [barbed devil](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md).\
       \ The devil appears in an unoccupied space within 30 feet of Victoro, acts as\
       \ Victoro's ally, and can't summon other devils. It remains for 1 minute, until\
       \ it or Victoro dies, or until Victoro dismisses it as an action."
     "name": "Summon Devil (Recharges after 9 Days)"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/victoro-cassalanter-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/victoro-cassalanter-wdh.webp"
 ```
 ^statblock

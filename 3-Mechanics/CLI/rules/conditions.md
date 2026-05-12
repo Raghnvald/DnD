@@ -3,149 +3,200 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/compendium/src/5e/xphb
 aliases:
 - "Conditions"
 ---
 # Conditions
 
 ## Blinded
-_Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A blinded creature can't see and automatically fails any ability check that requires sight.  
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.  
+While you have the Blinded condition, you experience the following effects.
+
+**Can't See.** You can't see and automatically fail any ability check that requires sight.
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
+
+## Bloodied
+_Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A creature is Bloodied while it has half its [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or fewer remaining.
 
 ## Charmed
-_Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A charmed creature can't attack the charmer or target the charmer with harmful abilities or magical effects.  
-- The charmer has advantage on any ability check to interact socially with the creature.  
+While you have the Charmed condition, you experience the following effects.
+
+**Can't Harm the Charmer.** You can't attack the charmer or target the charmer with damaging abilities or [magical effects](3-Mechanics/CLI/rules/variant-rules/magical-effect-xphb.md).
+
+**Social Advantage.** The charmer has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check to interact with you socially.
 
 ## Concentration
-_Source: Player's Handbook p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-Some spells require you to maintain [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) in order to keep their magic active. If you lose [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration), such a spell ends.
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
 
-If a spell must be maintained with [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration), that fact appears in its Duration entry, and the spell specifies how long you can concentrate on it. You can end [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) at any time (no action required).
+**Another Concentration Effect.** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
 
-Normal activity, such as moving and attacking, doesn't interfere with [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration). The following factors can break [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration):
+**Damage.** If you take damage, you must succeed on a Constitution [saving throw](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md) to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-- **Casting another spell that requires concentration.** You lose [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell if you cast another spell that requires [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration). You can't concentrate on two spells at once.  
-- **Taking damage.** Whenever you take damage while you are [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell, you must make a Constitution saving throw to maintain your [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration). The DC equals 10 or half the damage you take, whichever number is higher. If you take damage from multiple sources, such as an arrow and a dragon's breath, you make a separate saving throw for each source of damage.  
-- **Being incapacitated or killed.** You lose [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell if you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or if you die.  
-
-The DM might also decide that certain environmental phenomena, such as a wave crashing over you while you're on a storm-tossed ship, require you to succeed on a DC 10 Constitution saving throw to maintain [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell.
+**Incapacitated or Dead.** Your Concentration ends if you have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition or you die.
 
 ## Deafened
-_Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A deafened creature can't hear and automatically fails any ability check that requires hearing.  
+While you have the Deafened condition, you experience the following effect.
+
+**Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
 
 ## Exhaustion
-_Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect's description.
+While you have the Exhaustion condition, you experience the following effects.
 
-| Level | Effect |
-|-------|--------|
-| 1 | Disadvantage on ability checks |
-| 2 | Speed halved |
-| 3 | Disadvantage on attack rolls and saving throws |
-| 4 | Hit point maximum halved |
-| 5 | Speed reduced to 0 |
-| 6 | Death |
-^level-effect
+**Exhaustion Levels.** This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.
 
-If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect's description.
+**D20 Tests Affected.** When you make a D20 Test the roll is reduced by 2 times your Exhaustion level.
 
-A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its speed halved and has disadvantage on ability checks.
+**Speed Reduced.** Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is reduced by a number of feet equal to 5 times your Exhaustion level.
 
-An effect that removes exhaustion reduces its level as specified in the effect's description, with all exhaustion effects ending if a creature's exhaustion level is reduced below 1.
-
-Finishing a long rest reduces a creature's exhaustion level by 1, provided that the creature has also ingested some food and drink. Also, being raised from the dead reduces a creature's exhaustion level by 1.
+**Removing Exhaustion Levels.** Finishing a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
 
 ## Frightened
-_Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.  
-- The creature can't willingly move closer to the source of its fear.  
+While you have the Frightened condition, you experience the following effects.
+
+**Ability Checks and Attacks Affected.** You have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls while the source of fear is within line of sight.
+
+**Can't Approach.** You can't willingly move closer to the source of fear.
 
 ## Grappled
-_Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A grappled creature's speed becomes 0, and it can't benefit from any bonus to its speed.  
-- The condition ends if the grappler is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).  
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [thunderwave](3-Mechanics/CLI/spells/thunderwave.md) spell.  
+While you have the Grappled condition, you experience the following effects.
+
+**Speed 0.** Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
+
+**Attacks Affected.** You have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against any target other than the grappler.
+
+**Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
 ## Incapacitated
-_Source: Player's Handbook p. 290. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- An incapacitated creature can't take actions or reactions.  
+While you have the Incapacitated condition, you experience the following effects.
+
+**Inactive.** You can't take any [action](3-Mechanics/CLI/rules/variant-rules/action-xphb.md), [Bonus Action](3-Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or [Reaction](3-Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+
+**No Concentration.** Your [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) is broken.
+
+**Speechless.** You can't speak.
+
+**Surprised.** If you're Incapacitated when you roll [Initiative](3-Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the roll.
 
 ## Invisible
-_Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured. The creature's location can be detected by any noise it makes or any tracks it leaves.  
-- Attack rolls against the creature have disadvantage, and the creature's attack rolls have advantage.  
+While you have the Invisible condition, you experience the following effects.
+
+**Surprise.** If you're Invisible when you roll [Initiative](3-Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll.
+
+**Concealed.** You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md), and your attack rolls have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md). If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
-_Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A paralyzed creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) and can't move or speak.  
-- The creature automatically fails Strength and Dexterity saving throws.  
-- Attack rolls against the creature have advantage.  
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.  
+While you have the Paralyzed condition, you experience the following effects.
+
+**Incapacitated.** You have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+
+**Speed 0.** Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md).
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [Critical Hit](3-Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) if the attacker is within 5 feet of you.
 
 ## Petrified
-_Source: Player's Handbook p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.  
-- The creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), can't move or speak, and is unaware of its surroundings.  
-- Attack rolls against the creature have advantage.  
-- The creature automatically fails Strength and Dexterity saving throws.  
-- The creature has resistance to all damage.  
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.  
+While you have the Petrified condition, you experience the following effects.
+
+**Turned to Inanimate Substance.** You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.
+
+**Incapacitated.** You have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+
+**Speed 0.** Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md).
+
+**Resist Damage.** You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage.
+
+**Poison Immunity.** You have [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.
 
 ## Poisoned
-_Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A poisoned creature has disadvantage on attack rolls and ability checks.  
+While you have the Poisoned condition, you experience the following effect.
+
+**Ability Checks and Attacks Affected.** You have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.
 
 ## Prone
-_Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.  
-- The creature has disadvantage on attack rolls.  
-- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.  
+While you have the Prone condition, you experience the following effects.
+
+**Restricted Movement.** Your only movement options are to [crawl](3-Mechanics/CLI/rules/variant-rules/crawling-xphb.md) or to spend an amount of movement equal to half your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) (round down) to right yourself and thereby end the condition. If your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0, you can't right yourself.
+
+**Attacks Affected.** You have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls. An attack roll against you has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md) if the attacker is within 5 feet of you. Otherwise, that attack roll has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
 
 ## Restrained
-_Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.  
-- Attack rolls against the creature have advantage, and the creature's attack rolls have disadvantage.  
-- The creature has disadvantage on Dexterity saving throws.  
+While you have the Restrained condition, you experience the following effects.
+
+**Speed 0.** Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
+
+**Saving Throws Affected.** You have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Dexterity [saving throws](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md).
 
 ## Stunned
-_Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- A stunned creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), can't move, and can speak only falteringly.  
-- The creature automatically fails Strength and Dexterity saving throws.  
-- Attack rolls against the creature have advantage.  
+While you have the Stunned condition, you experience the following effects.
+
+**Incapacitated.** You have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md).
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
 
 ## Surprised
-_Source: Player's Handbook p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them. A [gelatinous cube](3-Mechanics/CLI/bestiary/ooze/gelatinous-cube.md) glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them. In these situations, one side of the battle gains surprise over the other.
-
-The DM determines who might be surprised. If neither side tries to be stealthy, they automatically notice each other. Otherwise, the DM compares the Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks of anyone hiding with the passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of each creature on the opposing side. Any character or monster that doesn't notice a threat is [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) at the start of the encounter.
-
-If you're surprised, you can't move or take an action on your first turn of the combat, and you can't take a reaction until that turn ends. A member of a group can be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) even if the other members aren't.
+If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its [Initiative](3-Mechanics/CLI/rules/variant-rules/initiative-xphb.md) roll.
 
 ## Unconscious
-_Source: Player's Handbook p. 292. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
-- An unconscious creature is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated), can't move or speak, and is unaware of its surroundings.  
-- The creature drops whatever it's holding and falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
-- The creature automatically fails Strength and Dexterity saving throws.  
-- Attack rolls against the creature have advantage.  
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+While you have the Unconscious condition, you experience the following effects.
+
+**Inert.** You have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) and [Prone](3-Mechanics/CLI/rules/conditions.md#Prone) conditions, and you drop whatever you're holding. When this condition ends, you remain [Prone](3-Mechanics/CLI/rules/conditions.md#Prone).
+
+**Speed 0.** Your [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
+
+**Attacks Affected.** [Attack](3-Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+
+**Saving Throws Affected.** You automatically fail Strength and Dexterity [saving throws](3-Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md).
+
+**Automatic Critical Hits.** Any attack roll that hits you is a [Critical Hit](3-Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) if the attacker is within 5 feet of you.
+
+**Unaware.** You're unaware of your surroundings.

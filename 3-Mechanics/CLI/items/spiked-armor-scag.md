@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/unknown
-aliases: 
+aliases:
 - "Spiked Armor"
 ---
 # Spiked Armor

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gigant
+- "Gigant"
 ---
-# [Gigant](3-Mechanics\CLI\bestiary\monstrosity/gigant-bgg.md)
+# [Gigant](3-Mechanics/CLI/bestiary/monstrosity/gigant-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 154*  
 
 A gigant is a towering insectile creature variously regarded as a harbinger of doom, a defender of nature, and a divine messenger of mysterious purpose. Giants regard them as a plague, since gigants prefer giants over other food. Some giants claim gigants are created by the weird magical aura that surrounds a gargantua.
@@ -43,10 +43,9 @@ A gigant's wings are usually folded under its carapace, but the speedy flier can
   - "dexterity": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"senses": "darkvision 120 ft., passive Perception 18"
 "languages": ""
 "cr": "20"
 "traits":
@@ -58,31 +57,30 @@ A gigant's wings are usually folded under its carapace, but the speedy flier can
   - "desc": "The gigant makes one Mandibles attack and two Talons attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +13 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 21 (4d6 + 7) slashing damage, and the target has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 17). Until the grapple ends, the target takes 21 (4d6\
-      \ + 7) slashing damage at the start of each of the gigant's turns. While the\
-      \ gigant is grappling a target, it can't use Mandibles against other targets."
+      \ 21 (4d6 + 7) slashing damage, and the target has the grappled condition\
+      \ (escape DC 17). Until the grapple ends, the target takes 21 (4d6 + 7) slashing\
+      \ damage at the start of each of the gigant's turns. While the gigant is grappling\
+      \ a target, it can't use Mandibles against other targets."
     "name": "Mandibles"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:* 17\
-      \ (3d6 + 7) slashing damage, and the target is pulled 10 feet straight toward\
-      \ the gigant."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 20 ft., one target. *Hit:*\
+      \ 17 (3d6 + 7) slashing damage, and the target is pulled 10 feet straight\
+      \ toward the gigant."
     "name": "Talons"
   - "desc": "The gigant releases magical dust from its wings in a 30-foot cube. Each\
       \ creature in that area must make a DC 19 Constitution saving throw, taking\
       \ 45 (10d8) poison damage on a failed save, or half as much damage on a successful\
-      \ one. On a success or failure, the creature has the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition for 1 hour. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ this way, the creature can't regain hit points."
+      \ one. On a success or failure, the creature has the poisoned condition for\
+      \ 1 hour. While poisoned this way, the creature can't regain hit points."
     "name": "Scale Dust (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The gigant produces a horrid droning sound by rapidly beating its wings.\
       \ Each creature within 10 feet of the gigant must succeed on a DC 19 Constitution\
-      \ saving throw or take 10 (3d6) thunder damage and have the [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ saving throw or take 10 (3d6) thunder damage and have the incapacitated\
       \ condition until the end of its next turn. The gigant can then fly up to half\
       \ its flying speed."
     "name": "Drone"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/gigant-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/gigant-bgg.webp"
 ```
 ^statblock

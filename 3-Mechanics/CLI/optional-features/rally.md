@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/mv-b
 aliases:
-- Rally
+- "Rally"
 ---
 # Rally
 *Source: Player's Handbook p. 74*  

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/17
-- new/monster/size/small-or-medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/17
+- ttrpg-cli/monster/size/small-or-medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Otherworldly Corrupter
+- "Otherworldly Corrupter"
 ---
-# [Otherworldly Corrupter](3-Mechanics\CLI\bestiary\aberration/otherworldly-corrupter-bmt.md)
+# [Otherworldly Corrupter](3-Mechanics/CLI/bestiary/aberration/otherworldly-corrupter-bmt.md)
 *Source: The Book of Many Things p. 47*  
 
 A challenge for tier 3 play (levels 11 to 16), the otherworldly corrupter is a horrific Aberration that infects or impersonates a host.
@@ -72,10 +72,11 @@ The villain's challenge rating increases while the villain is in this lair:
   - "desc": "The corrupter makes three Whispering Blade attacks and can use Debilitating\
       \ Touch."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +12 to hit, reach 5 ft. or range 60\
-      \ ft., one target. *Hit:* 10 (1d8 + 6) piercing damage plus 14 (4d6) psychic\
-      \ damage. If the target is a creature, it must succeed on a DC 20 Wisdom saving\
-      \ throw or be unable to speak until the start of the corrupter's next turn."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +12 to hit, reach 5 ft. or range\
+      \ 60 ft., one target. *Hit:* 10 (1d8 + 6) piercing damage plus 14 (4d6)\
+      \ psychic damage. If the target is a creature, it must succeed on a DC 20 Wisdom\
+      \ saving throw or be unable to speak until the start of the corrupter's next\
+      \ turn."
     "name": "Whispering Blade"
   - "desc": "The corrupter's squirming tentacle lashes out at a creature the corrupter\
       \ can see within 30 feet of itself. The target must succeed on a DC 20 Constitution\
@@ -141,6 +142,6 @@ The villain's challenge rating increases while the villain is in this lair:
     "name": "Amorphous Escape (Costs 3 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/otherworldly-corrupter-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/otherworldly-corrupter-bmt.webp"
 ```
 ^statblock

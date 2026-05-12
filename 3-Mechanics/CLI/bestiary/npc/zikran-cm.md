@@ -3,23 +3,23 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/12
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/12
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zikran
+- "Zikran"
 ---
-# [Zikran](3-Mechanics\CLI\bestiary\npc/zikran-cm.md)
+# [Zikran](3-Mechanics/CLI/bestiary/npc/zikran-cm.md)
 *Source: Candlekeep Mysteries p. 145*  
 
 Genasi have strong ties to the Inner Planes and the blood of genies flowing through their veins. Like the marids of the Elemental Plane of Water, Zikran is turbulent and unpredictable.
 
 He carries a handheld magic device that controls the elemental cannon. This device, shown in the accompanying illustration, looks like a metal rod with a tip shaped like a bird's head.
 
-On initiative count 20 (losing initiative ties), Zikran uses his handheld device to fire the cannon at one creature he can see, provided the creature is in the basement or on the staircase. Zikran's target must make a DC 17 Dexterity saving throw, taking `dice:7d6|noform|noparens|avg|text(24)` (`7d6`) cold damage on a failed save, or half as much damage on a successful one. The basement furnishings provide half cover, should a creature wish to hide behind them.
+On initiative count 20 (losing initiative ties), Zikran uses his handheld device to fire the cannon at one creature he can see, provided the creature is in the basement or on the staircase. Zikran's target must make a DC 17 Dexterity saving throw, taking 24 (`7d6`) cold damage on a failed save, or half as much damage on a successful one. The basement furnishings provide half cover, should a creature wish to hide behind them.
 
 The cannon is a Large object with AC 16, 80 hit points, and immunity to poison and psychic damage. It is mounted atop a swivel and bolted to the dais. The cannon draws power from the crystal in the middle of the room. This crystal sparks with elemental power whenever the cannon is about to fire. If the crystal is destroyed, both Zikran's handheld device and the cannon become powerless. The crystal is a Large object with AC 13, 40 hit points, and immunity to poison and psychic damage.
 
@@ -52,6 +52,8 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
     "desc": "+13"
 "damage_resistances": "damage from spells; nonmagical bludgeoning, piercing, slashing\
   \ (from stoneskin); acid"
+"gear":
+  - "dagger"
 "senses": "passive Perception 12"
 "languages": "Aquan, Common, Primordial, Sahuagin, Undercommon"
 "cr": "12"
@@ -80,6 +82,6 @@ The cannon is a Large object with AC 16, 80 hit points, and immunity to poison a
     "name": "Dagger"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zikran-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zikran-cm.webp"
 ```
 ^statblock

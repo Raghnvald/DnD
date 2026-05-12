@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Villain's Secret Weakness; Villain's Weakness
+- "Villain's Secret Weakness; Villain's Weakness"
 ---
 # Villain's Secret Weakness; Villain's Weakness
 *Source: Dungeon Master's Guide p. 96* 
 
 **Villain's Weakness**
-
-`dice: [](villains-secret-weakness-villains-weakness.md#^villains-weakness)`
 
 | dice: d8 | Weakness |
 |----------|----------|

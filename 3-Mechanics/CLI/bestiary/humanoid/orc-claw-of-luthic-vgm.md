@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Claw of Luthic
+- "Orc Claw of Luthic"
 ---
-# [Orc Claw of Luthic](3-Mechanics\CLI\bestiary\humanoid/orc-claw-of-luthic-vgm.md)
+# [Orc Claw of Luthic](3-Mechanics/CLI/bestiary/humanoid/orc-claw-of-luthic-vgm.md)
 *Source: Volo's Guide to Monsters p. 183*  
 
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
@@ -39,7 +39,7 @@ In addition, orcs have special relationships with two creatures that are sometim
 "subtype": "orc"
 "alignment": "Chaotic Evil"
 "ac": !!int "14"
-"ac_class": "[hide armor](/3-Mechanics/CLI/items/hide-armor-xphb.md)"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "45"
 "hit_dice": "6d8 + 18"
 "modifier": !!int "2"
@@ -52,27 +52,27 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+2"
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+4"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Common, Orc"
 "cr": "2"
 "traits":
   - "desc": "The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom\
       \ (spell save DC 12, +4 to hit with spell attacks). The orc has the following\
-      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](/3-Mechanics/CLI/spells/guidance-xphb.md),\
-      \ [mending](/3-Mechanics/CLI/spells/mending-xphb.md), [resistance](/3-Mechanics/CLI/spells/resistance-xphb.md),\
-      \ [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level\
-      \ (4 slots):** [bane](/3-Mechanics/CLI/spells/bane-xphb.md), [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
-      \ [guiding bolt](/3-Mechanics/CLI/spells/guiding-bolt-xphb.md)\n\n**2nd level\
-      \ (3 slots):** [augury](/3-Mechanics/CLI/spells/augury-xphb.md), [warding bond](/3-Mechanics/CLI/spells/warding-bond-xphb.md)\n\
-      \n**3rd level (2 slots):** [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
-      \ [create food and water](/3-Mechanics/CLI/spells/create-food-and-water-xphb.md)"
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [guiding bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md)\n\n**2nd level\
+      \ (3 slots):** [augury](3-Mechanics/CLI/spells/augury-xphb.md), [warding bond](3-Mechanics/CLI/spells/warding-bond-xphb.md)\n\
+      \n**3rd level (2 slots):** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
+      \ [create food and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md)"
     "name": "Spellcasting"
   - "desc": "As a bonus action, the orc can move up to its speed toward a hostile\
       \ creature that it can see."
@@ -81,12 +81,12 @@ In addition, orcs have special relationships with two creatures that are sometim
   - "desc": "The orc makes two claw attacks, or four claw attacks if it has fewer\
       \ than half of its hit points remaining."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage."
     "name": "Claw"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp"
 ```
 ^statblock
 

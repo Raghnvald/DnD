@@ -16,14 +16,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hawk
+- "Hawk"
 ---
-# [Hawk](3-Mechanics\CLI\bestiary\beast/hawk-xmm.md)
+# [Hawk](3-Mechanics/CLI/bestiary/beast/hawk-xmm.md)
 *Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Hawk (XMM)"
@@ -43,7 +43,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "6"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "senses": "passive Perception 16"
 "languages": ""
@@ -54,7 +54,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "source":
   - "XMM"
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/hawk-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/hawk-xmm.webp"
 ```
 ^statblock
 

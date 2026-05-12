@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Appendix B: Adventure Hooks
+- "Appendix B: Adventure Hooks"
 ---
 # Appendix B: Adventure Hooks
 *Source: Bigby Presents: Glory of the Giants, p. 192* 
@@ -14,4 +14,4 @@ This book is full of seeds you can use to craft adventures involving giants and 
 
 If you're unsure where to start, you can use the Adventure Hooks table here to help you decide.
 
-![Appendix B: Adventure Hooks; Adventure Hooks](/3-Mechanics/CLI/tables/appendix-b-adventure-hooks-adventure-hooks-bgg.md)
+![Appendix B: Adventure Hooks; Adventure Hooks](3-Mechanics/CLI/tables/appendix-b-adventure-hooks-adventure-hooks-bgg.md)

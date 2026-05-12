@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Preface
+- "Preface"
 ---
 # Preface
 *Source: Explorer's Guide to Wildemount, p. 4* 
 
-![](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/000-00-02.webp#center)
+![](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/000-00-02.webp#center)
 
 ## Imagination is a strange & wonderful thing
 
@@ -33,4 +33,4 @@ aliases:
 > *Matthew Mercer, Dungeon Master of Critical Role*
 ^002
 
-![](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/001-00-03.webp#center)
+![](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/001-00-03.webp#center)

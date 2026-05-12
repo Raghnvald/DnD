@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/1
-- new/monster/size/tiny
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/tiny
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harrow Hawk
+- "Harrow Hawk"
 ---
-# [Harrow Hawk](3-Mechanics\CLI\bestiary\undead/harrow-hawk-bmt.md)
+# [Harrow Hawk](3-Mechanics/CLI/bestiary/undead/harrow-hawk-bmt.md)
 *Source: The Book of Many Things p. 177*  
 
 When a beloved animal companion dies traumatically alongside its master, the beast might rise again as an Undead. Falcons, ravens, and other birds of prey that suffer this fate are known as harrow hawks, and they prowl abandoned battlefields and cemeteries, looking for corpses to eat and living creatures to hunt. A harrow hawk can even travel the multiverse, flying magically from one world to another.
@@ -47,8 +47,8 @@ The Grim Harrow—a band of Undead beings created by the Deck of Many Things (se
 "languages": ""
 "cr": "1"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4\
-      \ + 3) slashing damage plus 3 (1d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (2d4 + 3) slashing damage plus 3 (1d6) necrotic damage."
     "name": "Talons"
   - "desc": "The hawk casts Plane Shift on itself, requiring no spell components and\
       \ using Wisdom as the spellcasting ability."
@@ -61,6 +61,6 @@ The Grim Harrow—a band of Undead beings created by the Deck of Many Things (se
     "name": "Shadow Dash"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/harrow-hawk-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/harrow-hawk-bmt.webp"
 ```
 ^statblock

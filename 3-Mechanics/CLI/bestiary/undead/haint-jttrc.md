@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Haint
+- "Haint"
 ---
-# [Haint](3-Mechanics\CLI\bestiary\undead/haint-jttrc.md)
+# [Haint](3-Mechanics/CLI/bestiary/undead/haint-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 185*  
 
 Rising from the sorrowful dead, haints are spirits that change their shape in tragic imitation of what they once were. A haint can shift from its spectral form to appear as the corporeal Humanoid it was in life, passing as a living creature. These spirits might mistakenly view innocents as those who killed them or entreat mortals to exact revenge on their behalf.
@@ -35,16 +35,20 @@ Rising from the sorrowful dead, haints are spirits that change their shape in tr
   - !!int "17"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "acid; fire; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "any languages it knew in life"
 "cr": "7"
 "traits":
@@ -57,8 +61,8 @@ Rising from the sorrowful dead, haints are spirits that change their shape in tr
 "actions":
   - "desc": "The haint makes two Sorrowful Touch attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21\
-      \ (4d8 + 3) psychic damage."
+  - "desc": "*Melee Spell Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 21 (4d8 + 3) psychic damage."
     "name": "Sorrowful Touch"
   - "desc": "The haint magically assumes the appearance of the Humanoid it was in\
       \ life, while retaining its game statistics. The assumed appearance ends if\
@@ -67,7 +71,7 @@ Rising from the sorrowful dead, haints are spirits that change their shape in tr
 "bonus_actions":
   - "desc": "The haint targets one creature it can see within 60 feet of itself that\
       \ is missing any hit points, sharing its own torment with this pained soul.\
-      \ The target must succeed on a DC 14 Wisdom saving throw or be incapacitated.\n\
+      \ The target must succeed on a DC 14 Wisdom saving throw or be [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\n\
       \nA creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a creature's saving throw is successful\
       \ or the effect ends for it, the creature is immune to the haint's Shared Sorrow\
@@ -75,6 +79,6 @@ Rising from the sorrowful dead, haints are spirits that change their shape in tr
     "name": "Shared Sorrow"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/haint-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/haint-jttrc.webp"
 ```
 ^statblock

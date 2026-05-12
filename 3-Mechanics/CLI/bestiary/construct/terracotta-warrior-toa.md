@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Terracotta Warrior
+- "Terracotta Warrior"
 ---
-# [Terracotta Warrior](3-Mechanics\CLI\bestiary\construct/terracotta-warrior-toa.md)
+# [Terracotta Warrior](3-Mechanics/CLI/bestiary/construct/terracotta-warrior-toa.md)
 *Source: Tomb of Annihilation p. 161*  
 
 ```statblock
@@ -34,18 +34,23 @@ aliases:
   - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, paralyzed,\
-  \ petrified, poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 6"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "cr": "1"
 "traits":
   - "desc": "If a critical hit is scored against the terracotta warrior, it shatters\
       \ and is destroyed."
     "name": "Fragile"
-  - "desc": "The terracotta warrior is incapacitated while in the area of an antimagic\
-      \ field. If targeted by dispel magic, the terracotta warrior must succeed on\
-      \ a Constitution saving throw against the caster's spell save DC or fall unconscious\
+  - "desc": "The terracotta warrior is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the terracotta warrior must succeed on a Constitution saving throw against\
+      \ the caster's spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the terracotta warrior remains motionless, it is indistinguishable\
@@ -54,11 +59,11 @@ aliases:
 "actions":
   - "desc": "The terracotta warrior makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/terracotta-warrior-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/terracotta-warrior-toa.webp"
 ```
 ^statblock

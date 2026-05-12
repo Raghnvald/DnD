@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sahuagin Wave Shaper
+- "Sahuagin Wave Shaper"
 ---
-# [Sahuagin Wave Shaper](3-Mechanics\CLI\bestiary\humanoid/sahuagin-wave-shaper-gos.md)
+# [Sahuagin Wave Shaper](3-Mechanics/CLI/bestiary/humanoid/sahuagin-wave-shaper-gos.md)
 *Source: Ghosts of Saltmarsh p. 251*  
 
 These hunched and twisted sahuagin sacrifice their bodies to the mutating magic of Sekolah. Wave shapers add elemental magic to sahuagin armed forces (as seen in The Final Enemy) and delight in creating destructive whirlpools.
@@ -86,11 +86,11 @@ These hunched and twisted sahuagin sacrifice their bodies to the mutating magic 
       \ vortex can use its action to try to swim away from the vortex as described\
       \ above, but it has disadvantage on the Strength (Athletics) check to do so.\n\
       \nThe first time each turn that an object enters the vortex, the object takes\
-      \ 9 (2d8) bludgeoning damage. This damage occurs each round it remains in the\
-      \ vortex."
+      \ 9 (2d8) bludgeoning damage. This damage occurs each round it remains in\
+      \ the vortex."
     "name": "Whirlpool (1/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-wave-shaper-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/sahuagin-wave-shaper-gos.webp"
 ```
 ^statblock

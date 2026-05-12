@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Monster Personality
+- "Monster Personality"
 ---
 # Monster Personality
 *Source: Dungeon Master's Guide (2024) p. 116* 
 
 **Monster Personality**
-
-`dice: [](monster-personality-xdmg.md#^monster-personality)`
 
 | dice: 1d8 | Personality |
 |-----------|-------------|

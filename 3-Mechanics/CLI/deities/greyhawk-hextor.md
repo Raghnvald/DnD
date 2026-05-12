@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/war
-aliases: 
-- Hextor
+aliases:
+- "Hextor"
 ---
 # Hextor
 *Source: Player's Handbook p. 295* 

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/class/wizard
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Wizard
+- "Wizard"
 ---
 # Wizard
 *Source: Player's Handbook p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
@@ -52,16 +52,16 @@ aliases:
 
 - **Saving Throws**: Intelligence, Wisdom
 - **Armor**: none
-- **Weapons**: [daggers](/3-Mechanics/CLI/items/dagger.md), [darts](/3-Mechanics/CLI/items/dart.md), [slings](/3-Mechanics/CLI/items/sling.md), [quarterstaffs](/3-Mechanics/CLI/items/quarterstaff.md), [light crossbows](/3-Mechanics/CLI/items/light-crossbow.md)
+- **Weapons**: [daggers](3-Mechanics/CLI/items/dagger.md), [darts](3-Mechanics/CLI/items/dart.md), [slings](3-Mechanics/CLI/items/sling.md), [quarterstaffs](3-Mechanics/CLI/items/quarterstaff.md), [light crossbows](3-Mechanics/CLI/items/light-crossbow.md)
 - **Tools**: none
-- **Skills**: choose 2 from [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Investigation](/3-Mechanics/CLI/skills.md#Investigation), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), and [Religion](/3-Mechanics/CLI/skills.md#Religion)
+- **Skills**: choose 2 from [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), and [Religion](3-Mechanics/CLI/rules/skills.md#Religion)
 
 You start with the following items, plus anything provided by your background.
 
-- (a) a [quarterstaff](/3-Mechanics/CLI/items/quarterstaff.md) or (b) a [dagger](/3-Mechanics/CLI/items/dagger.md)
-- (a) a [component pouch](/3-Mechanics/CLI/items/component-pouch.md) or (b) an [arcane focus](/3-Mechanics/CLI/items/arcane-focus.md)
-- (a) a [scholar's pack](/3-Mechanics/CLI/items/scholars-pack.md) or (b) an [explorer's pack](/3-Mechanics/CLI/items/explorers-pack.md)
-- A [spellbook](/3-Mechanics/CLI/items/spellbook.md)
+- (a) a [quarterstaff](3-Mechanics/CLI/items/quarterstaff.md) or (b) a [dagger](3-Mechanics/CLI/items/dagger.md)
+- (a) a [component pouch](3-Mechanics/CLI/items/component-pouch.md) or (b) an [arcane focus](3-Mechanics/CLI/items/arcane-focus.md)
+- (a) a [scholar's pack](3-Mechanics/CLI/items/scholars-pack.md) or (b) an [explorer's pack](3-Mechanics/CLI/items/explorers-pack.md)
+- A [spellbook](3-Mechanics/CLI/items/spellbook.md)
 
 Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
 
@@ -99,7 +99,7 @@ What drew you forth from your life of study? Did your first taste of magical kno
 
 #### Quick Build
 
-You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [sage](/3-Mechanics/CLI/backgrounds/sage.md) background. Third, choose the [mage hand](/3-Mechanics/CLI/spells/mage-hand.md), [light](/3-Mechanics/CLI/spells/light.md), and [ray of frost](/3-Mechanics/CLI/spells/ray-of-frost.md) cantrips, along with the following 1st-level spells for your spellbook: [burning hands](/3-Mechanics/CLI/spells/burning-hands.md), [charm person](/3-Mechanics/CLI/spells/charm-person.md), [feather fall](/3-Mechanics/CLI/spells/feather-fall.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor.md), [magic missile](/3-Mechanics/CLI/spells/magic-missile.md), and [sleep](/3-Mechanics/CLI/spells/sleep.md).
+You can make a wizard quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. If you plan to join the School of Enchantment, make Charisma your next-best score. Second, choose the [sage](3-Mechanics/CLI/backgrounds/sage.md) background. Third, choose the [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [light](3-Mechanics/CLI/spells/light.md), and [ray of frost](3-Mechanics/CLI/spells/ray-of-frost.md) cantrips, along with the following 1st-level spells for your spellbook: [burning hands](3-Mechanics/CLI/spells/burning-hands.md), [charm person](3-Mechanics/CLI/spells/charm-person.md), [feather fall](3-Mechanics/CLI/spells/feather-fall.md), [mage armor](3-Mechanics/CLI/spells/mage-armor.md), [magic missile](3-Mechanics/CLI/spells/magic-missile.md), and [sleep](3-Mechanics/CLI/spells/sleep.md).
 
 > [!quote] A quote from Gimble the illusionist  
 > 
@@ -124,8 +124,6 @@ Your wizard character's most prized possession—your spellbook—might be an in
 
 **Spellbooks**
 
-`dice: [](wizard.md#^spellbooks)`
-
 | dice: d6 | Spellbook |
 |----------|-----------|
 | 1 | A tome with pages that are thin sheets of metal, spells etched into them with acid |
@@ -145,8 +143,6 @@ Beyond the obvious, why does your wizard character study magic, and what do you 
 
 **Ambitions**
 
-`dice: [](wizard.md#^ambitions)`
-
 | dice: d6 | Ambition |
 |----------|----------|
 | 1 | You will prove that the gods aren't as powerful as folk believe. |
@@ -165,8 +161,6 @@ Endless hours of solitary study and research can have a negative effect on anyon
 If your character has an eccentricity, is it a physical tic or a mental one? Are you well known in some circles because of it? Do you fight to overcome it, or do you embrace this minor claim to fame of yours?
 
 **Eccentricities**
-
-`dice: [](wizard.md#^eccentricities)`
 
 | dice: d6 | Eccentricity |
 |----------|--------------|
@@ -190,43 +184,29 @@ For example, if you're a 4th-level wizard, you can recover up to two levels wort
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power. See "chapter 10" for the general rules of spellcasting and "chapter 11" for the wizard spell list.
 
-#### Cantrips
+**Cantrips.** At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
 
-At 1st level, you know three cantrips of your choice from the wizard spell list. You learn additional wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wizard table.
+**Spellbook.** At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
 
-#### Spellbook
-
-At 1st level, you have a spellbook containing six 1st-level wizard spells of your choice. Your spellbook is the repository of the wizard spells you know, except your cantrips, which are fixed in your mind.
-
-#### Preparing and Casting Spells
-
-The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+**Preparing and Casting Spells.** The Wizard table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
 
 You prepare the list of wizard spells that are available for you to cast. To do so, choose a number of wizard spells from your spellbook equal to your Intelligence modifier + your wizard level (minimum of one spell). The spells must be of a level for which you have spell slots.
 
-For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [magic missile](/3-Mechanics/CLI/spells/magic-missile.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+For example, if you're a 3rd-level wizard, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell [magic missile](3-Mechanics/CLI/spells/magic-missile.md), you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
 
-#### Spellcasting Ability
-
-Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+**Spellcasting Ability.** Intelligence is your spellcasting ability for your wizard spells, since you learn your wizard spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
 
 <span class='abilityDc'>**Spell save DC**: your proficiency bonus + your Intelligence</span>
 
 <span class='abilityAttackMod'>**Spell attack modifier**: your proficiency bonus + your Intelligence</span>
 
-#### Ritual Casting
+**Ritual Casting.** You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
 
-You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don't need to have the spell prepared.
+**Spellcasting Focus.** You can use an [arcane focus](3-Mechanics/CLI/items/arcane-focus.md) as a spellcasting focus for your wizard spells.
 
-#### Spellcasting Focus
-
-You can use an [arcane focus](/3-Mechanics/CLI/items/arcane-focus.md) as a spellcasting focus for your wizard spells.
-
-#### Learning Spells of 1st Level and Higher
-
-Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
+**Learning Spells of 1st Level and Higher.** Each time you gain a wizard level, you can add two wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown on the Wizard table. On your adventures, you might find other spells that you can add to your spellbook (see "Your Spellbook").
 
 > [!note] Your Spellbook
 > 
@@ -240,7 +220,7 @@ Each time you gain a wizard level, you can add two wizard spells of your choice 
 > 
 > For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 > 
-> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
+> **Copying from a Spell Scroll.** A wizard spell on a spell scroll can be copied just as spells in spellbooks can be copied. When you copy a spell from a spell scroll, you must succeed on an Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check with a DC equal to 10 + the spell's level. If the check succeeds, the spell is successfully copied. Whether the check succeeds or fails, the spell scroll is destroyed.
 > 
 > **Replacing the Book.** You can copy a spell from your own spellbook into another book—for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
 > 

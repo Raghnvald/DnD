@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Humanoids
+- "Monsters' Desires; Humanoids"
 ---
 # Monsters' Desires; Humanoids
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Humanoids**
-
-`dice: [](monsters-desires-humanoids-tce.md#^humanoids)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

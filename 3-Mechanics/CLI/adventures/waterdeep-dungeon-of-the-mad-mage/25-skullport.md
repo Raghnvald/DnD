@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Skullport
+- "Skullport"
 ---
 # Skullport
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 303* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/080-24-01.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/080-24-01.webp#center)
 
 Skullport is a grim, cutthroat outpost of civilization where adventurers can resupply and take refuge. Yet few souls of the surface world have any clue how to reach this shadowy reflection of Waterdeep, making any talk of the Port of Shadow akin to a rumor, or a warning—which is just how its denizens like it.
 
@@ -40,7 +40,7 @@ Few folk have permanent residences in the Port of Shadow, and most of the local 
 
 #### Flameskulls
 
-Thirteen ancient [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull.md) haunt Skullport. These entities, which have defended the town since its founding, are all that remain of the Sargauth Enclave, a settlement of Netherese wizards. The flameskulls consider themselves the true rulers of Skullport, but they have lost touch with reality, their minds drifting in and out of the present and the past. They rarely communicate, and when they do it is often in a dead language.
+Thirteen ancient [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) haunt Skullport. These entities, which have defended the town since its founding, are all that remain of the Sargauth Enclave, a settlement of Netherese wizards. The flameskulls consider themselves the true rulers of Skullport, but they have lost touch with reality, their minds drifting in and out of the present and the past. They rarely communicate, and when they do it is often in a dead language.
 
 ## Exploring Skull Island
 
@@ -51,8 +51,8 @@ All location descriptions for Skull Island are keyed to map 24. The island's fea
 - A natural column of rock rises from the heart of the fortress and merges with the cavern ceiling. (See area 9 for more information on this spire.)  
 
 > [!gallery]
-> ![Map 24](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/081-24-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/082-24-03.webp#gallery)
+> ![Map 24](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/081-24-02.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/082-24-03.webp#gallery)
 
 > [!note] Skull Island Weaponry
 > 
@@ -60,14 +60,14 @@ All location descriptions for Skull Island are keyed to map 24. The island's fea
 > 
 > A ballista is a massive crossbow that fires heavy bolts. A flame cannon is a bulky mechanical contraption that hurls casks of alchemist's fire that explode on impact.
 > 
-> **Ballista.** *Ranged Weapon Attack:* +6 to hit, range 120/480 ft., one target. Hit: `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
+> **Ballista.** *Ranged Weapon Attack:* `+6` to hit, range 120/480 ft., one target. Hit: 16 (`3d10`) piercing damage.
 > 
-> **Flame Cannon.** *Ranged Weapon Attack:* +4 to hit, range 60/240 ft., one target. Hit: `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage plus `dice:5d6|noform|noparens|avg|text(17)` (`5d6`) fire damage, and the target catches fire. While on fire, the target takes `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) fire damage at the start of each of its turns. A creature can end this damage by immersing itself in water or by using an action to make a DC 10 Dexterity check to extinguish the flames.
+> **Flame Cannon.** *Ranged Weapon Attack:* `+4` to hit, range 60/240 ft., one target. Hit: 3 (`1d6`) bludgeoning damage plus 17 (`5d6`) fire damage, and the target catches fire. While on fire, the target takes 3 (`1d6`) fire damage at the start of each of its turns. A creature can end this damage by immersing itself in water or by using an action to make a DC 10 Dexterity check to extinguish the flames.
 ^skull-island-weaponry
 
 ### 1. Murkspan Bridge
 
-An arched stone bridge connects the island to the town. The middle 30-foot span of the bridge is rigged to collapse. Two stone levers hidden in secret compartments at the south end of the bridge trigger the collapse when they are pulled simultaneously (requiring an action for each one). Characters who search the south end of the bridge can find the levers and discern their purpose with a successful DC 20 Wisdom (Perception) check.
+An arched stone bridge connects the island to the town. The middle 30-foot span of the bridge is rigged to collapse. Two stone levers hidden in secret compartments at the south end of the bridge trigger the collapse when they are pulled simultaneously (requiring an action for each one). Characters who search the south end of the bridge can find the levers and discern their purpose with a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.
 
 ### 2. Main Gate
 
@@ -79,11 +79,11 @@ Skull Island has two natural harbors (area 3a and area 3b). Each harbor is 60 fe
 
 ### 4. Duergar Barracks
 
-Ten [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) are quartered in this two-story building.
+Ten [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) are quartered in this two-story building.
 
 ### 5. Human Barracks
 
-This three-story edifice looms over the northeast harbor (area 3b). Seventy human [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md) are quartered here.
+This three-story edifice looms over the northeast harbor (area 3b). Seventy human [thugs](3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) are quartered here.
 
 ### 6. Depleted Armory
 
@@ -91,18 +91,18 @@ The Xanathar Guild plundered this two-story building after taking control of the
 
 ### 7. Bugbear Barracks
 
-Sixty [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) inhabit this two-story stone building.
+Sixty [bugbears](3-Mechanics/CLI/bestiary/fey/bugbear-warrior-xmm.md) inhabit this two-story stone building.
 
 ### 8. Gargoyle Towers
 
-Twelve [gargoyles](/3-Mechanics/CLI/bestiary/elemental/gargoyle.md) perch on the battlements of these three-story stone towers (four atop each tower).
+Twelve [gargoyles](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) perch on the battlements of these three-story stone towers (four atop each tower).
 
 ### 9. Tower of the Seven Woes
 
-The fortress's half-ogre commander, [Sundeth](/3-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md), lives in this hollowed-out spire with his [wyvern](/3-Mechanics/CLI/bestiary/dragon/wyvern.md) mount. [Sundeth](/3-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md) is a hideous, 8-foot-tall, half-ogre [champion](/3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md) (see appendix A), with these changes:
+The fortress's half-ogre commander, [Sundeth](3-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md), lives in this hollowed-out spire with his [wyvern](3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) mount. [Sundeth](3-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md) is a hideous, 8-foot-tall, half-ogre [champion](3-Mechanics/CLI/bestiary/humanoid/champion-mpmm.md) (see appendix A), with these changes:
 
-- [Sundeth](/3-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md) is chaotic evil.  
-- He has these racial traits: He is Large and has darkvision out to a range of 60 feet. He speaks Common and Giant.  
+- [Sundeth](3-Mechanics/CLI/bestiary/npc/sundeth-wdmm.md) is chaotic evil.  
+- He has these racial traits: He is Large and has [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. He speaks Common and Giant.  
 
 The column merges with the cavern roof, narrows in the middle (where a stalactite and a stalagmite converged eons ago), and has abundant ledges and handholds on the outside. The outer door is made of iron and squeals loudly when opened, alerting the spire's occupants.
 
@@ -118,7 +118,7 @@ The dock creaks and groans but is safe to stand on.
 
 #### 10b. Kuo-toa Cave
 
-A hungry [kuo-toa](/3-Mechanics/CLI/bestiary/humanoid/kuo-toa.md) named Hlool crouches in the middle of this cave. If the characters give it food, Hlool eats the food, then dives to the bottom of the River Sargauth, returns minutes later with a bundled-up cloak of the manta ray that it took from a dead adventurer, and gives it to the characters as a thank-you gift.
+A hungry [kuo-toa](3-Mechanics/CLI/bestiary/aberration/kuo-toa-xmm.md) named Hlool crouches in the middle of this cave. If the characters give it food, Hlool eats the food, then dives to the bottom of the River Sargauth, returns minutes later with a bundled-up [cloak of the manta ray](3-Mechanics/CLI/items/cloak-of-the-manta-ray-xdmg.md) that it took from a dead adventurer, and gives it to the characters as a thank-you gift.
 
 ## Exploring the Town
 
@@ -127,13 +127,13 @@ All location descriptions for the town of Skullport are keyed to maps 25 and 26.
 - Everything has a deteriorated, haphazard look to it. Tightly packed buildings of wood and stone are piled atop one another, creating three levels: a lower level (often called the street level), a middle level, and an upper level.  
 - Unnamed thoroughfares wind through the town at street level. Above this labyrinth run mazes of catwalks made from the wood of old shipwrecks. Old rigging is used to suspend the creaky catwalks.  
 - The 90-foot-high cavern ceiling is covered with a forest of stalactites.  
-- Most of the lanterns that once illuminated Skullport are gone, turned to rust or stolen by thieves long ago. Denizens carry their own light sources or rely on darkvision to see. Flameskulls are often mistaken from a distance for bobbing torches as they drift through town.  
+- Most of the lanterns that once illuminated Skullport are gone, turned to rust or stolen by thieves long ago. Denizens carry their own light sources or rely on [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) to see. Flameskulls are often mistaken from a distance for bobbing torches as they drift through town.  
 
 > [!gallery]
-> ![Map 25](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/083-24-04.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/084-24-05.webp#gallery)
+> ![Map 25](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/083-24-04.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/084-24-05.webp#gallery)
 
-The town has no general store, and some merchandise that is abundant in Waterdeep simply isn't available here. Prices in Skullport are five times higher than normal. If an NPC is mentioned by name with no pointer to a stat block, assume the NPC is a [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md).
+The town has no general store, and some merchandise that is abundant in Waterdeep simply isn't available here. Prices in Skullport are five times higher than normal. If an NPC is mentioned by name with no pointer to a stat block, assume the NPC is a [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md).
 
 ### 11. Old Markets
 
@@ -149,9 +149,9 @@ The shops that surround this abandoned slave market appear vacant. Further inves
 
 ### 12. Dead Man's Corner
 
-A [sea hag](/3-Mechanics/CLI/bestiary/fey/sea-hag.md) named Olive Stillwater sells human zombies out of this dilapidated shop. She appears as an old woman covered with snails and barnacles.
+A [sea hag](3-Mechanics/CLI/bestiary/fey/sea-hag-xmm.md) named Olive Stillwater sells human zombies out of this dilapidated shop. She appears as an old woman covered with snails and barnacles.
 
-Olive keeps a dozen human [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md) in her cramped shop. "They're great for setting off traps!" she says with a chuckle. As payment for each zombie, she demands a tiny vial of the buyer's blood and three hairs plucked from the buyer's head. She owns a pair of rusty iron shears that can be used to draw blood and cut hair. After consuming this payment, Olive gains the innate ability to cast the animate dead spell once per day for the next three days.
+Olive keeps a dozen human [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) in her cramped shop. "They're great for setting off traps!" she says with a chuckle. As payment for each zombie, she demands a tiny vial of the buyer's blood and three hairs plucked from the buyer's head. She owns a pair of rusty iron shears that can be used to draw blood and cut hair. After consuming this payment, Olive gains the innate ability to cast the [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) spell once per day for the next three days.
 
 Each zombie wears a rope noose around its neck. A character who buys a zombie must lead it around by the noose; otherwise, the zombie stands still and does nothing.
 
@@ -167,7 +167,7 @@ This town square is littered with trash. Nearly all the buildings that surround 
 
 ### 15. The Black Tankard
 
-The proprietor of this squalid, one-story tavern is a fat, dour [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Droon Stonedark, who works for Xanathar. Two [minotaurs](/3-Mechanics/CLI/bestiary/monstrosity/minotaur.md) stand in dark corners, ready to give unruly patrons the heave-ho. A [spectator](/3-Mechanics/CLI/bestiary/aberration/spectator.md) floats amid the rafters and provides additional security.
+The proprietor of this squalid, one-story tavern is a fat, dour [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) named Droon Stonedark, who works for Xanathar. Two [minotaurs](3-Mechanics/CLI/bestiary/monstrosity/minotaur-of-baphomet-xmm.md) stand in dark corners, ready to give unruly patrons the heave-ho. A [spectator](3-Mechanics/CLI/bestiary/aberration/spectator-xmm.md) floats amid the rafters and provides additional security.
 
 Droon sells Wyrmwizz, an alcoholic swill, for 2 sp per mug. No food and no other drinks are available.
 
@@ -193,7 +193,7 @@ If the characters drop a few coins here, Cal'al is happy to furnish them with in
 
 ### 20. Dark Harvest Market
 
-Food harvested from the Underdark is sold here by `dice:1d6|noform|noparens|avg` (`1d6`) [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md), who employ an equal number of [wererats](/3-Mechanics/CLI/bestiary/humanoid/wererat.md) as bodyguards.
+Food harvested from the Underdark is sold here by `1d6` [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), who employ an equal number of [wererats](3-Mechanics/CLI/bestiary/monstrosity/wererat-xmm.md) as bodyguards.
 
 ### 21. The Sword and Sextant
 
@@ -203,7 +203,7 @@ A pair of strongheart halflings named Oleander and Will buy and sell maps out of
 
 A sullen, soft-spoken tiefling named Quietude runs Skullport's last remaining inn and spies on guests for Xanathar. The inn is a run-down structure with windows so shrouded in grime as to be almost opaque. Quietude rents bedrooms for 5 gp per day.
 
-The inn's cellar contains a secret door that requires a successful DC 15 Wisdom (Perception) check to detect. Beyond the secret door is a 300-foot-long, rough-hewn tunnel heading west to Xanathar's dungeon hideout (described in Waterdeep: Dragon Heist).
+The inn's cellar contains a secret door that requires a successful DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check to detect. Beyond the secret door is a 300-foot-long, rough-hewn tunnel heading west to Xanathar's dungeon hideout (described in Waterdeep: Dragon Heist).
 
 ### 23. The Feathered Rat
 
@@ -211,7 +211,7 @@ Ulvira Snowveins, a venerable half-elf and Harper spy, runs this single-story pe
 
 ### 24. Thaglar's Foundry
 
-Skullport's ugly stone foundry stands four stories tall. Inside, [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) smiths under the command of a brutal duergar taskmaster named Thaglar Xundorn fashion weapons, armor, and tools.
+Skullport's ugly stone foundry stands four stories tall. Inside, [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) smiths under the command of a brutal duergar taskmaster named Thaglar Xundorn fashion weapons, armor, and tools.
 
 ### 25. The Bat's Roost
 
@@ -221,24 +221,24 @@ This building, once a seedy tavern, is now a fighting den where visitors can set
 
 This two-story festhall shut down after the Spellplague and never reopened its doors. The Zhentarim now use it as a hideout.
 
-Bosskyn Gorrb, a blind tiefling [spy](/3-Mechanics/CLI/bestiary/humanoid/spy.md), leads the Zhentarim in Skullport and uses flying snakes to deliver messages to his underlings. If one or more characters are members of the Zhentarim and can prove it, Bosskyn offers to help them in one or both of the following ways:
+Bosskyn Gorrb, a blind tiefling [spy](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), leads the Zhentarim in Skullport and uses flying snakes to deliver messages to his underlings. If one or more characters are members of the Zhentarim and can prove it, Bosskyn offers to help them in one or both of the following ways:
 
 - He allows the party to use the festhall as a sanctuary and a resting place for as long as they need it.  
 - He uses one of his flying snakes to deliver a message to anyone in Waterdeep on the party's behalf.  
 
 ### 27. The Poisoned Quill
 
-There's not much need for an expert forger in Skullport these days, but that doesn't concern the owner of the Poisoned Quill, Tasselgryn Velldarn, who makes money from visitors needing to leave Skullport in a hurry.
+There's not much need for an expert forger in Skullport these days, but that doesn't concern the owner of the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) Quill, Tasselgryn Velldarn, who makes money from visitors needing to leave Skullport in a hurry.
 
-"Tas" is an elderly [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage.md). Her secret is that she and Halaster are friends. The Mad Mage visits her about once a month for tea, and she catches him up on the latest news and gossip. When they are together, Halaster and Tasselgryn act like an old married couple.
+"Tas" is an elderly [archmage](3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md). Her secret is that she and Halaster are friends. The Mad Mage visits her about once a month for tea, and she catches him up on the latest news and gossip. When they are together, Halaster and Tasselgryn act like an old married couple.
 
-If the characters come seeking an escape from Skullport, Tasselgryn offers to cast the teleportation circle spell but demands payment of 50 gp per party member up front. She knows the address of another teleportation circle in Waterdeep (in the attic of an orphanage in the Dock Ward) and sends the characters there if they don't have a teleportation circle address of their own.
+If the characters come seeking an escape from Skullport, Tasselgryn offers to cast the [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) spell but demands payment of 50 gp per party member up front. She knows the address of another teleportation circle in Waterdeep (in the attic of an orphanage in the Dock Ward) and sends the characters there if they don't have a teleportation circle address of their own.
 
-Halaster has placed enchantments on Tasselgryn's shop that enable her (and her alone) to cast teleportation circle spells within its confines, ignoring the restriction that Undermountain places on such magic (see "Alterations to Magic").
+Halaster has placed enchantments on Tasselgryn's shop that enable her (and her alone) to cast [teleportation circle](3-Mechanics/CLI/spells/teleportation-circle-xphb.md) spells within its confines, ignoring the restriction that Undermountain places on such magic (see "Alterations to Magic").
 
 ### 28. Twinbeard's Traps
 
-This single-story building contains the workshop of Xanathar's shield dwarf trapsmith and engineer, Thorvin Twinbeard. He's rarely here, however, since Xanathar keeps him busy. (For more information on Thorvin, see Waterdeep: Dragon Heist.)
+This single-story building contains the workshop of Xanathar's shield dwarf trapsmith and engineer, [Thorvin Twinbeard](3-Mechanics/CLI/bestiary/npc/thorvin-twinbeard-wdh.md). He's rarely here, however, since Xanathar keeps him busy. (For more information on Thorvin, see Waterdeep: Dragon Heist.)
 
 ### 29. Sargauth's Bounty
 
@@ -254,35 +254,35 @@ If the characters need oil for their lanterns, Anderian directs them to the Over
 
 Dalagor was an evil warrior who surrounded himself with necromancers and undead. He and his minions were destroyed or driven out during the Spellplague, leaving behind a bleak, three-story stone mansion that the Harpers have seized and turned into a hideout.
 
-Felrax, a dragonborn [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) with copper-colored scales, watches over the mansion. A light cantrip cast on his staff allows Felrax to see in the dark interior. If one or more characters are Harpers, Felrax offers to help them in one or both of the following ways:
+Felrax, a dragonborn [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) with copper-colored scales, watches over the mansion. A [light](3-Mechanics/CLI/spells/light-xphb.md) cantrip cast on his staff allows Felrax to see in the dark interior. If one or more characters are Harpers, Felrax offers to help them in one or both of the following ways:
 
 - He allows the party to use the mansion as a sanctuary and a resting place for as long as they need it.  
 - If the characters need to leave Skullport in a hurry, he tells them that Tasselgryn Velldarn (area 27) has access to a teleportation circle and charges 50 gp per person for its use.  
 
 ### 32. Dumathoin's Jest
 
-Ygarra Urmbaalt, a [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md), appraises gemstones for a flat fee of 20 percent of a gem's value. Her establishment is a one-story, ugly stone building.
+Ygarra Urmbaalt, a [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), appraises gemstones for a flat fee of 20 percent of a gem's value. Her establishment is a one-story, ugly stone building.
 
 > [!gallery]
-> ![Map 26](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/085-24-06.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/086-24-07.webp#gallery)
+> ![Map 26](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/085-24-06.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/086-24-07.webp#gallery)
 
 ### 33. The Overflowing Urn
 
 This store rests atop another structure that is crumbling with age. As a result, the building tilts slightly to the east. Inside, a man calling himself Garryth sells flasks of oil for 5 sp each and casks of pitch for 2 gp each.
 
-Five years ago, a [doppelganger](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger.md) killed Garryth and assumed his identity after disposing of the body. The doppelganger is content running the business and has no qualms about paying money to Xanathar for protection.
+Five years ago, a [doppelganger](3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) killed Garryth and assumed his identity after disposing of the body. The doppelganger is content running the business and has no qualms about paying money to Xanathar for protection.
 
 ### 34. Nightshade's Caress
 
-Displayed in the window of this shop are various herbs, elixirs, vials of poison, and baskets of medicinal fungi. The store is cluttered with more such goods, all labeled and clearly priced. The apothecary, Nightshade, is an undead creature (use the [mummy](/3-Mechanics/CLI/bestiary/undead/mummy.md) statistics) that looks like a withered crone dressed in a tattered black robe.
+Displayed in the window of this shop are various herbs, elixirs, vials of poison, and baskets of medicinal fungi. The store is cluttered with more such goods, all labeled and clearly priced. The apothecary, Nightshade, is an undead creature (use the [mummy](3-Mechanics/CLI/bestiary/undead/mummy-xmm.md) statistics) that looks like a withered crone dressed in a tattered black robe.
 
 ### 35. The Worm's Gullet
 
-The only restaurant in town is located inside a petrified, hollowed-out purple worm. The food and the service have gone downhill ever since Xanathar installed a new manager: a heartless [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md) named Gharz Stonedark.
+The only restaurant in town is located inside a [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), hollowed-out purple worm. The food and the service have gone downhill ever since Xanathar installed a new manager: a heartless [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) named Gharz Stonedark.
 
-Gharz makes meals out of whatever his [kobolds](/3-Mechanics/CLI/bestiary/humanoid/kobold.md) can find, and patrons are expected to eat whatever Gharz serves them. Common meals include stirge loaf, carrion crawler soufflé, flumph stew, and hot shrieker pie. The house ale is Wyrmwizz, straight from the local distillery (area 16). A meal with a drink costs 5 sp per person.
+Gharz makes meals out of whatever his [kobolds](3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) can find, and patrons are expected to eat whatever Gharz serves them. Common meals include stirge loaf, carrion crawler soufflé, flumph stew, and hot shrieker pie. The house ale is Wyrmwizz, straight from the local distillery (area 16). A meal with a drink costs 5 sp per person.
 
 ### 36. Tanor'thal Refuge
 
-Carved by the drow of House Tanor'thal, this stronghold resembles an upside-down spider that looms above the rest of Skullport like a great, dark god. The spider's hollowed-out head, thorax, and abdomen contain windowless living quarters filled with thick webs and a host of [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider.md). Other denizens of Skullport avoid this place, making it an excellent refuge once the spiders are cleared out. The drow left nothing of value behind when they vacated their refuge.
+Carved by the drow of House Tanor'thal, this stronghold resembles an upside-down spider that looms above the rest of Skullport like a great, dark god. The spider's hollowed-out head, thorax, and abdomen contain windowless living quarters filled with thick webs and a host of [giant spiders](3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md). Other denizens of Skullport avoid this place, making it an excellent refuge once the spiders are cleared out. The drow left nothing of value behind when they vacated their refuge.

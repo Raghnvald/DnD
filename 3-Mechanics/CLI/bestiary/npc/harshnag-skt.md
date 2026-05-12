@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/9
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harshnag
+- "Harshnag"
 ---
-# [Harshnag](3-Mechanics\CLI\bestiary\npc/harshnag-skt.md)
+# [Harshnag](3-Mechanics/CLI/bestiary/npc/harshnag-skt.md)
 *Source: Storm King's Thunder p. 120*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging.They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
@@ -73,7 +73,7 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "21"
-"ac_class": "+3 plate armor"
+"ac_class": "[+3 plate armor](3-Mechanics/CLI/items/3-armor-xdmg.md)"
 "hp": !!int "204"
 "hit_dice": "12d12 + 60"
 "modifier": !!int "-1"
@@ -90,11 +90,13 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "wisdom": !!int "4"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_immunities": "cold"
+"gear":
+  - "[gurt's greataxe](3-Mechanics/CLI/items/gurts-greataxe-skt.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Giant"
 "cr": "9"
@@ -103,22 +105,23 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
     "name": "Legendary Resistance (1/Day)"
 "actions":
   - "desc": "*Ranged Weapon Attack:* +5 to hit, ranged 20/60 ft., one Small, Medium,\
-      \ or Large creature. *Hit:* The target is restrained until it escapes the net.\
-      \ Any creature can use its action to make a DC 17 Strength check to free itself\
-      \ or another creature in the net, ending the effect on a success. Dealing 15\
-      \ slashing damage to the net (AC 12) destroys the net and frees the target."
+      \ or Large creature. *Hit:* The target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ until it escapes the net. Any creature can use its action to make a DC 17\
+      \ Strength check to free itself or another creature in the net, ending the effect\
+      \ on a success. Dealing 15 slashing damage to the net (AC 12) destroys the net\
+      \ and frees the target."
     "name": "Weighted Net"
   - "desc": "The giant makes two greataxe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 26\
-      \ (3d12 + 7) slashing damage, or 39 (5d12 + 7) slashing damage if the target\
-      \ is human."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 26 (3d12 + 7) slashing damage, or 39 (5d12 + 7) slashing damage if the\
+      \ target is human."
     "name": "Gurt's Greataxe"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/harshnag-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/harshnag-skt.webp"
 ```
 ^statblock

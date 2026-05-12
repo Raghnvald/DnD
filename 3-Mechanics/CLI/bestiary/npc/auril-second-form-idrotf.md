@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/10
-- new/monster/size/large
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Auril (Second Form)
+- "Auril (Second Form)"
 ---
-# [Auril (Second Form)](3-Mechanics\CLI\bestiary\npc/auril-second-form-idrotf.md)
+# [Auril (Second Form)](3-Mechanics/CLI/bestiary/npc/auril-second-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 277*  
 
 Auril's second form, known to her worshipers as Lady Icekiss or the Brittle Maiden, is that of a 10-foot-tall woman of fearsome aspect made entirely of ice and frost. Her eyes burn with a cold blue light, and a thin cloak of mist forms around her. Blades of ice grow out of her body at odd angles, breaking off before they get too long. When she moves, her body crackles.
@@ -45,7 +45,7 @@ Auril dwells on Solstice, a frozen island hidden among the titanic icebergs in t
 
 While she's on the island, the Frostmaiden can take one of the following lair actions on initiative count 20 (losing initiative ties):
 
-- Auril instantly knows the locations and health of all other creatures on the island. She knows how much damage each of these creatures has taken, how many levels of exhaustion they have, and what conditions are affecting them currently.  
+- Auril instantly knows the locations and health of all other creatures on the island. She knows how much damage each of these creatures has taken, how many levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) they have, and what conditions are affecting them currently.  
 - Auril instantly teleports to any location on the island. If the space she chooses as her destination is already occupied, Auril appears in the closest unoccupied space to it instead.  
 - Auril telepathically communicates with any number of creatures at once, provided they're all on the island. This effect lasts until Auril stops concentrating on it (as if concentrating on a spell) or until she leaves the island or uses a different lair action.  
 
@@ -79,27 +79,30 @@ A stat block is given for each of Auril's three forms. These descriptions do not
   - "constitution": !!int "9"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+12"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "cold, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
-  \ stunned"
-"senses": "darkvision 120 ft., truesight 120 ft., passive Perception 26"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
+  \ 120 ft., passive Perception 26"
 "languages": "all, telepathy 1000 ft."
 "cr": "10"
 "traits":
-  - "desc": "Auril can't be surprised and can't be changed into another form against\
-      \ her will."
+  - "desc": "Auril can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
+      \ and can't be changed into another form against her will."
     "name": "Divine Being"
   - "desc": "When Auril drops to 0 hit points, her body collapses into shards of ice,\
-      \ whereupon Auril instantly reappears in her [third form](/3-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md),\
+      \ whereupon Auril instantly reappears in her [third form](3-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md),\
       \ in an unoccupied space within 60 feet of where her second form was destroyed.\
       \ Her initiative count doesn't change."
     "name": "Divine Rejuvenation"
@@ -113,8 +116,8 @@ A stat block is given for each of Auril's three forms. These descriptions do not
 "actions":
   - "desc": "Auril attacks twice with her ice morningstar or hurls three ice darts."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage plus 9 (2d8) cold damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage plus 9 (2d8) cold damage."
     "name": "Ice Morningstar"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 20/60 ft., one target. *Hit:*\
       \ 5 (1d4 + 3) piercing damage plus 3 (1d6) cold damage."
@@ -126,7 +129,7 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Cone of Cold (Recharges after a Short or Long Rest)"
   - "desc": "Auril breaks off an icicle from her body and hurls it into an unoccupied\
       \ space she can see within 20 feet of her, where it magically transforms into\
-      \ an [ice mephit](/3-Mechanics/CLI/bestiary/elemental/ice-mephit.md) (see its\
+      \ an [ice mephit](3-Mechanics/CLI/bestiary/elemental/ice-mephit.md) (see its\
       \ entry in the Monster Manual). The mephit acts immediately after Auril in the\
       \ initiative order and obeys her commands."
     "name": "Create Ice Mephit (3/Day)"
@@ -135,13 +138,14 @@ A stat block is given for each of Auril's three forms. These descriptions do not
       \ feet of the crystal. The target must succeed on a DC 21 Charisma saving throw\
       \ or become trapped in the crystal, which is immovable. If the saving throw\
       \ succeeds, the crystal shatters and nothing else happens. A creature trapped\
-      \ in the crystal is stunned, has total cover against attacks and other effects\
-      \ outside the crystal, and takes 21 (6d6) cold damage at the start of each of\
-      \ its turns. The creature can repeat the saving throw at the end of each of\
-      \ its turns, freeing itself on a success. The creature is also freed if the\
-      \ crystal is destroyed, which is a Tiny object with AC 18, 9 hit points, and\
-      \ immunity to all damage except fire damage. The freed creature appears in an\
-      \ unoccupied space of its choice within 30 feet of the shattered crystal."
+      \ in the crystal is [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned),\
+      \ has total cover against attacks and other effects outside the crystal, and\
+      \ takes 21 (6d6) cold damage at the start of each of its turns. The creature\
+      \ can repeat the saving throw at the end of each of its turns, freeing itself\
+      \ on a success. The creature is also freed if the crystal is destroyed, which\
+      \ is a Tiny object with AC 18, 9 hit points, and immunity to all damage except\
+      \ fire damage. The freed creature appears in an unoccupied space of its choice\
+      \ within 30 feet of the shattered crystal."
     "name": "Ice Stasis (Recharge 5-6)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Auril can expend a use to take one of the following actions. Auril regains\
@@ -149,8 +153,8 @@ A stat block is given for each of Auril's three forms. These descriptions do not
 "legendary_actions":
   - "desc": "Auril makes one weapon attack."
     "name": "Attack"
-  - "desc": "Each creature within 30 feet of Auril takes 5 (2d4) piercing damage from\
-      \ swirling ice, and nonmagical, open flames in that area are extinguished."
+  - "desc": "Each creature within 30 feet of Auril takes 5 (2d4) piercing damage\
+      \ from swirling ice, and nonmagical, open flames in that area are extinguished."
     "name": "Ice Flurry (Costs 2 Actions)"
   - "desc": "Auril uses Create Ice Mephit or causes one to ice mephit she can see\
       \ within 60 feet of her to explode and die. A mephit that dies in this way does\
@@ -160,6 +164,6 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Splinter (Costs 3 Actions)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/auril-second-form-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/auril-second-form-idrotf.webp"
 ```
 ^statblock

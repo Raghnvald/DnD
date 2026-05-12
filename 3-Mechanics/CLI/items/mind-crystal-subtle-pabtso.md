@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Mind Crystal (Subtle)"
 ---
 # Mind Crystal (Subtle)
 *Wondrous item, common*  
-![](/3-Mechanics/CLI/items/img/mind-crystal.webp#right)
+![](3-Mechanics/CLI/items/img/mind-crystal.webp#right)
 
 
 This gemstone contains a crystallized bit of spellcasting magic.

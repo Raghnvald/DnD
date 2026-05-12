@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Scribe a Scroll Complications
+- "Scribe a Scroll Complications"
 ---
 # Scribe a Scroll Complications
 *Source: Xanathar's Guide to Everything p. 133* 
 
 **Scribe a Scroll Complications**
-
-`dice: [](scribe-a-scroll-complications-xge.md#^scribe-a-scroll-complications)`
 
 | dice: d6 | Complication |
 |----------|--------------|

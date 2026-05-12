@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Prince Simbon
+- "Prince Simbon"
 ---
-# [Prince Simbon](3-Mechanics\CLI\bestiary\npc/prince-simbon-jttrc.md)
+# [Prince Simbon](3-Mechanics/CLI/bestiary/npc/prince-simbon-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 94*  
 
 ```statblock
@@ -34,26 +34,32 @@ aliases:
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
+"gear":
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
   - "desc": "If Simbon is reduced to half of his hit points or fewer, he uses the\
-      \ Dodge action to avoid taking further damage."
+      \ [Dodge](3-Mechanics/CLI/rules/actions.md#Dodge) action to avoid taking further\
+      \ damage."
     "name": "Royal Blood"
 "actions":
   - "desc": "Simbon makes two longsword attacks. If it has a shortsword drawn, it\
       \ can also make a shortsword attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/prince-simbon-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/prince-simbon-jttrc.webp"
 ```
 ^statblock

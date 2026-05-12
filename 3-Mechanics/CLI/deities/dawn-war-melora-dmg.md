@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/tempest
-aliases: 
-- Melora
+aliases:
+- "Melora"
 ---
 # Melora
 *Source: Dungeon Master's Guide p. 10* 

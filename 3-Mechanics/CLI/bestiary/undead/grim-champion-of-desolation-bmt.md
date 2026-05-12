@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/25
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/25
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grim Champion of Desolation
+- "Grim Champion of Desolation"
 ---
-# [Grim Champion of Desolation](3-Mechanics\CLI\bestiary\undead/grim-champion-of-desolation-bmt.md)
+# [Grim Champion of Desolation](3-Mechanics/CLI/bestiary/undead/grim-champion-of-desolation-bmt.md)
 *Source: The Book of Many Things p. 162*  
 
 Jyn Corvis, a former adventurer, might have been the first person to draw the Skull card from a Deck of Many Things and be slain by the avatar of death. Even Jyn doesn't know for sure, as that was so long ago that she's forgotten almost everything about her former life. Jyn's existence over so many centuries has left her in tortured misery, and now nihilism is all that drives her. More than any other member of the Grim Harrow, Jyn is desperate to destroy the deck and end her painful existence. If she could, she'd take the entire multiverse with her.
@@ -68,16 +68,17 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
 "actions":
   - "desc": "The champion makes two Leeching Blade attacks and uses Hollow Void."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage plus 33 (6d10) cold damage, and the champion regains\
-      \ 10 hit points."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage plus 33 (6d10) cold damage, and the champion\
+      \ regains 10 hit points."
     "name": "Leeching Blade"
   - "desc": "The champion summons a hungering rift around a creature it can see within\
       \ 120 feet of itself. The creature must make a DC 22 Constitution saving throw.\
-      \ On a failed save, the creature takes 49 (11d8) force damage and has the stunned\
-      \ condition until the start of the champion's next turn. On a successful save,\
-      \ the creature takes half as much damage only. If a creature is reduced to 0\
-      \ hit points by this effect, the creature dies, and its body crumbles to dust."
+      \ On a failed save, the creature takes 49 (11d8) force damage and has the\
+      \ stunned condition until the start of the champion's next turn. On a successful\
+      \ save, the creature takes half as much damage only. If a creature is reduced\
+      \ to 0 hit points by this effect, the creature dies, and its body crumbles to\
+      \ dust."
     "name": "Hollow Void"
 "bonus_actions":
   - "desc": "The champion, along with any equipment it is wearing or carrying, has\
@@ -103,6 +104,6 @@ The Grim Harrow is led by three powerful entities with the title of grim champio
     "name": "Nullify (Costs 2 Actions)"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/grim-champion-of-desolation-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/grim-champion-of-desolation-bmt.webp"
 ```
 ^statblock

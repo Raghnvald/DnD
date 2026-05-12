@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stonecloak
+- "Stonecloak"
 ---
-# [Stonecloak](3-Mechanics\CLI\bestiary\construct/stonecloak-wdmm.md)
+# [Stonecloak](3-Mechanics/CLI/bestiary/construct/stonecloak-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 253*  
 
 Stone golems are magical constructs cut and chiseled from stone to appear as tall, impressive statues. Like other golems, they are nearly impervious to spells and ordinary weapons.
@@ -39,8 +39,11 @@ Halaster created stone golems in his own likeness and used fragments of the Rune
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands Abyssal, Celestial, Common, Draconic, Dwarvish, Elvish,\
   \ Infernal, and Undercommon but can't speak"
 "cr": "10"
@@ -56,8 +59,8 @@ Halaster created stone golems in his own likeness and used fragments of the Rune
 "actions":
   - "desc": "The stonecloak makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The stonecloak targets one or more creatures it can see within 10 feet\
       \ of it. Each target must make a DC 17 Wisdom saving throw against this magic.\
@@ -69,6 +72,6 @@ Halaster created stone golems in his own likeness and used fragments of the Rune
     "name": "Slow (Recharge 5-6)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/stonecloak-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/stonecloak-wdmm.webp"
 ```
 ^statblock

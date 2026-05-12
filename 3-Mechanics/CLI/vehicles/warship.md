@@ -8,10 +8,9 @@ tags:
 - ttrpg-cli/vehicle/terrain/sea
 - ttrpg-cli/vehicle/type/ship
 aliases:
-- Warship
+- "Warship"
 ---
 # Warship
-%%-- Embedded content starts on the next line. --%%
 *Source: Ghosts of Saltmarsh p. 194*  
 
 Warships are slow, heavily armed vessels capable of taking on large amounts of cargo.
@@ -29,15 +28,15 @@ A warship ship has the following features:
 
 A warship requires a large crew to properly sail the vessel. Warships carry extra soldiers to fight battles and fire the siege weapons. If the characters are guests on a warship, the crew consists of the following creatures, all of which have proficiency with water vehicles in addition to their normal statistics:
 
-- One captain ([bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain.md))  
-- Four other officers: a first mate, a bosun, a quartermaster, and a cook ([nobles](/3-Mechanics/CLI/bestiary/humanoid/noble.md))  
-- Twenty-five sailors ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md))  
+- One captain (bandit captain)  
+- Four other officers: a first mate, a bosun, a quartermaster, and a cook (nobles)  
+- Twenty-five sailors (commoners)  
 
 A warship typically includes the following additional crew to augment its fighting ability:
 
-- Forty soldiers ([guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md))  
-- Eight siege engineers ([guards](/3-Mechanics/CLI/bestiary/humanoid/guard.md))  
-- One [priest](/3-Mechanics/CLI/bestiary/humanoid/priest.md) (the ship's surgeon)  
+- Forty soldiers (guards)  
+- Eight siege engineers (guards)  
+- One priest (the ship's surgeon)  
 
 ## 1. Main Deck
 
@@ -46,7 +45,7 @@ The main deck of the ship has the following features:
 - **Mangonel.** Sailing ships have one mangonel (DMG, ch. 8) attached to the deck. Warships have two mangonels (DMG, ch. 8). Each weapon has 10 mangonel stones stacked and secured near it.  
 - **Hatch.** A covered, 10-foot-square opening leads to the lower deck (area W8).  
 - **Railing.** The main deck has a 3-foot-high rail around its perimeter that provides half cover for Medium creatures and three-quarters cover for Small creatures behind it.  
-- **Rowboats.** Four [rowboats](/3-Mechanics/CLI/vehicles/rowboat.md) are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.  
+- **Rowboats.** Four [rowboats](3-Mechanics/CLI/vehicles/rowboat.md) are stacked on top of each other on this deck. Ropes and pulleys can hoist these boats in and out of the water.  
 
 ## 2. Officers' Quarters
 
@@ -108,7 +107,7 @@ The ship's supply of weapons and armor is held in this cabin. Its walls are fitt
 
 ```ad-statblock
 title: Warship
-![](/3-Mechanics/CLI/vehicles/token/warship.webp#token)
+![](3-Mechanics/CLI/vehicles/token/warship.webp#token)
 *Gargantuan vehicle (100 ft. by 20 ft.); sea*
 
 - **Creature Capacity** 40 crew, 60 passengers
@@ -160,14 +159,14 @@ Move up to the speed of one of its movement components, with one 90-degree turn.
 - **Armor Class** 15
 - **Hit Points** 50
 
-*Ranged Weapon Attack:* `dice:1d20+6|noform|noparens|text(+6)` to hit, range 120/480 ft., one target. *Hit:* `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
+*Ranged Weapon Attack:* `+6` to hit, range 120/480 ft., one target. *Hit:* 16 (`3d10`) piercing damage.
 
 ## Weapon: Mangonels (2)
 
 - **Armor Class** 15
 - **Hit Points** 100
 
-*Ranged Weapon Attack:* `dice:1d20+5|noform|noparens|text(+5)` to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. *Hit:* `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) bludgeoning damage.
+*Ranged Weapon Attack:* `+5` to hit, range 200/800 ft. (can't hit targets within 60 ft. of it), one target. *Hit:* 27 (`5d10`) bludgeoning damage.
 
 ## Weapon: Naval Ram
 

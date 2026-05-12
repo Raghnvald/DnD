@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/tempest
-aliases: 
-- Umberlee
-- The Bitch Queen
-- The Queen of the Depths
-- The Wavemother
+aliases:
+- "Umberlee"
+- "The Bitch Queen"
+- "The Queen of the Depths"
+- "The Wavemother"
 ---
 # Umberlee
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-umberlee.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-umberlee.webp#symbol)
 
 - **Alternate Names**: The Bitch Queen, The Queen of the Depths, The Wavemother
 - **Alignment**: Chaotic Evil

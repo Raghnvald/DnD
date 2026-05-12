@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/twilight
-aliases: 
-- Mishakal
+aliases:
+- "Mishakal"
 ---
 # Mishakal
 *Source: Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34* 

@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/artifact
-aliases: 
+aliases:
 - "Crook of Rao"
 ---
 # Crook of Rao
 *Wondrous item, artifact (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/crook-of-rao.webp#right)
+![](3-Mechanics/CLI/items/img/crook-of-rao.webp#right)
 
 
 Ages ago, the serene god Rao created a tool to shield his fledgling faithful against the evils of the Lower Planes. Yet, as eons passed, mortals developed their own methods of dealing with existential threats, and the crook was largely forgotten. In recent ages, though, the Crook of Rao was rediscovered and leveraged against the rising power of the Witch Queen Iggwilv (one of the names of the wizard Tasha). Although she was defeated, Iggwilv managed to damage the crook during the battle, infecting it with an insidious curse-and the potential for future victory. In the aftermath, the crook was again lost. Occasionally it reappears, but the famed artifact is not what it was. Whether or not the artifact's bearers realize its full threat, few risk using the Crook of Rao -potentially for the final time.
@@ -20,13 +20,13 @@ Ages ago, the serene god Rao created a tool to shield his fledgling faithful aga
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](/3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [major beneficial](/3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property  
-- 1 [minor detrimental](/3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 2 [minor beneficial](3-Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties-xdmg.md) properties  
+- 1 [major beneficial](3-Mechanics/CLI/tables/artifact-properties-major-beneficial-properties-xdmg.md) property  
+- 1 [minor detrimental](3-Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties-xdmg.md) property  
 
 ## Spells
 
-The crook has 6 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [aura of life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md) (2 charges), [aura of purity](/3-Mechanics/CLI/spells/aura-of-purity-xphb.md) (2 charges), [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md) (1 charge), [beacon of hope](/3-Mechanics/CLI/spells/beacon-of-hope-xphb.md) (1 charge), [mass cure wounds](/3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) (3 charges). The crook regains `dice:1d6|noform|noparens|avg` (`1d6`) expended charges daily at dawn.
+The crook has 6 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells (save DC 18) from it: [aura of life](3-Mechanics/CLI/spells/aura-of-life-xphb.md) (2 charges), [aura of purity](3-Mechanics/CLI/spells/aura-of-purity-xphb.md) (2 charges), [banishment](3-Mechanics/CLI/spells/banishment-xphb.md) (1 charge), [beacon of hope](3-Mechanics/CLI/spells/beacon-of-hope-xphb.md) (1 charge), [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) (3 charges). The crook regains `1d6` expended charges daily at dawn.
 
 ## Absolute Banishment
 
@@ -38,21 +38,19 @@ Whenever the Crook of Rao's Absolute Banishment property is used, or when its la
 
 ## Iggwilv's Curse
 
-When the Crook was last used against Iggwilv, the Witch Queen lashed out at the artifact, infecting its magical matrix. Over the years, this curse has spread within the crook, threatening to violently pervert its ancient magic. If this occurs, the Crook of Rao, as it is currently known, is destroyed, its magical matrix inverting and exploding into a 50-foot-diameter portal. This portal functions as a permanent [gate](/3-Mechanics/CLI/spells/gate-xphb.md) spell cast by Iggwilv. The gate then, once per round on initiative count 20, audibly speaks a fiend's name in Iggwilv's voice, doing so until the gate calls on every fiend ever banished by the Crook of Rao. If the fiend still exists, it is drawn through the gate. This process takes eighteen years to complete, at the end of which the gate becomes a permanent portal to Pazunia, the first layer of the Abyss.
+When the Crook was last used against Iggwilv, the Witch Queen lashed out at the artifact, infecting its magical matrix. Over the years, this curse has spread within the crook, threatening to violently pervert its ancient magic. If this occurs, the Crook of Rao, as it is currently known, is destroyed, its magical matrix inverting and exploding into a 50-foot-diameter portal. This portal functions as a permanent [gate](3-Mechanics/CLI/spells/gate-xphb.md) spell cast by Iggwilv. The gate then, once per round on initiative count 20, audibly speaks a fiend's name in Iggwilv's voice, doing so until the gate calls on every fiend ever banished by the Crook of Rao. If the fiend still exists, it is drawn through the gate. This process takes eighteen years to complete, at the end of which the gate becomes a permanent portal to Pazunia, the first layer of the Abyss.
 
 **Extraplanar Reversal**
-
-`dice: [](crook-of-rao-tce.md#^extraplanar-reversal)`
 
 | dice: d100 | Effect |
 |------------|--------|
 | 1-25 | A portal to a random plane opens. The portal closes after 5 minutes. |
-| 26-45 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [imps](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) and `dice:2d4\|noform\|noparens\|avg` (`2d4`) [quasits](/3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) appear. |
-| 46-60 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) [succubi](/3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md)/[incubi](/3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) appear. |
-| 61-70 | `dice:1d10\|noform\|noparens\|avg` (`1d10`) [barbed devils](/3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) and `dice:1d10\|noform\|noparens\|avg` (`1d10`) [vrocks](/3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) appear. |
-| 71-80 | 1 [arcanaloth](/3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md), 1 [night hag](/3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md), and 1 [rakshasa](/3-Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md) appear. |
-| 81-85 | 1 [ice devil](/3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md) and 1 [marilith](/3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md) appear. |
-| 86-90 | 1 [balor](/3-Mechanics/CLI/bestiary/fiend/balor-xmm.md) and 1 [pit fiend](/3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) appear. At the DM's discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes. |
+| 26-45 | `2d4` [imps](3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) and `2d4` [quasits](3-Mechanics/CLI/bestiary/fiend/quasit-xmm.md) appear. |
+| 46-60 | `1d8` [succubi](3-Mechanics/CLI/bestiary/fiend/succubus-xmm.md)/[incubi](3-Mechanics/CLI/bestiary/fiend/incubus-xmm.md) appear. |
+| 61-70 | `1d10` [barbed devils](3-Mechanics/CLI/bestiary/fiend/barbed-devil-xmm.md) and `1d10` [vrocks](3-Mechanics/CLI/bestiary/fiend/vrock-xmm.md) appear. |
+| 71-80 | 1 [arcanaloth](3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md), 1 [night hag](3-Mechanics/CLI/bestiary/fiend/night-hag-xmm.md), and 1 [rakshasa](3-Mechanics/CLI/bestiary/fiend/rakshasa-xmm.md) appear. |
+| 81-85 | 1 [ice devil](3-Mechanics/CLI/bestiary/fiend/ice-devil-xmm.md) and 1 [marilith](3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md) appear. |
+| 86-90 | 1 [balor](3-Mechanics/CLI/bestiary/fiend/balor-xmm.md) and 1 [pit fiend](3-Mechanics/CLI/bestiary/fiend/pit-fiend-xmm.md) appear. At the DM's discretion, a portal opens into the presence of an archdevil or demon lord instead, then closes after 5 minutes. |
 | 91-00 | Iggwilv's Curse (see the Iggwilv's Curse property). |
 ^extraplanar-reversal
 

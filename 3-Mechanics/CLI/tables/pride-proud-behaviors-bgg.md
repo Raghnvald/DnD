@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Pride; Proud Behaviors
+- "Pride; Proud Behaviors"
 ---
 # Pride; Proud Behaviors
 *Source: Bigby Presents: Glory of the Giants p. 22* 
 
 **Proud Behaviors**
-
-`dice: [](pride-proud-behaviors-bgg.md#^proud-behaviors)`
 
 | dice: d8 | Behavior |
 |----------|----------|

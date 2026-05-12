@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Golgari Agent
+- "Golgari Agent"
 ---
 # Golgari Agent
 *Source: Guildmasters' Guide to Ravnica p. 53*  
 
 
-- **Skill Proficiencies.** [Nature](/3-Mechanics/CLI/skills.md#Nature), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
-- **Tool Proficiencies.** [Poisoner's kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md)  
+- **Skill Proficiencies.** Nature, Survival  
+- **Tool Proficiencies.** Poisoner's kit  
 - **Languages.** Choose one of Elvish, Giant, or Kraul  
-- **Equipment.** A Golgari insignia, a [poisoner's kit](/3-Mechanics/CLI/items/poisoners-kit-xphb.md), a pet beetle or spider, a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp worth of mixed coins  
+- **Equipment.** A Golgari insignia, a poisoner's kit, a pet beetle or spider, a set of common clothes, and a belt pouch containing 10 gp worth of mixed coins  
 
 You are a member of a teeming horde—one small part of a sprawling organism. Just as you are part of the swarm, the swarm is part of a larger ecosystem, a never-ending cycle of life, death, rot, and rebirth. You have spent your life in the slow churn of that ecosystem, in the dark places of the city where the messy parts of existence are on display. There is little squeamishness among the Golgari, no fear of death or taboo about the dead, just a fierce affirmation of the cycle.
 
@@ -33,12 +33,12 @@ For you, the spells on the Golgari Guild Spells table are added to the spell lis
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md), [spare the dying](/3-Mechanics/CLI/spells/spare-the-dying-xphb.md) |
-| 1st | [entangle](/3-Mechanics/CLI/spells/entangle-xphb.md), [ray of sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) |
-| 2nd | [protection from poison](/3-Mechanics/CLI/spells/protection-from-poison-xphb.md), [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md), [spider climb](/3-Mechanics/CLI/spells/spider-climb-xphb.md) |
-| 3rd | [animate dead](/3-Mechanics/CLI/spells/animate-dead-xphb.md), [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md) |
-| 4th | [giant insect](/3-Mechanics/CLI/spells/giant-insect-xphb.md), [grasping vine](/3-Mechanics/CLI/spells/grasping-vine-xphb.md) |
-| 5th | [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md), [insect plague](/3-Mechanics/CLI/spells/insect-plague-xphb.md) |
+| Cantrip | dancing lights, spare the dying |
+| 1st | entangle, ray of sickness |
+| 2nd | protection from poison, ray of enfeeblement, spider climb |
+| 3rd | animate dead, plant growth |
+| 4th | giant insect, grasping vine |
+| 5th | cloudkill, insect plague |
 ^golgari-guild-spells
 
 Golgari magic is often accompanied by a sickly green glow and a rotting stench.
@@ -48,8 +48,6 @@ Golgari magic is often accompanied by a sickly green glow and a rotting stench.
 Members of the Golgari Swarm are unmistakably products of the undercity, ill at ease amid the comforts of civilization. They bring about the same discomfort in others by reminding them of death's inevitable approach.
 
 **Personality Traits**
-
-`dice: [](golgari-agent-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -65,8 +63,6 @@ Members of the Golgari Swarm are unmistakably products of the undercity, ill at 
 
 **Ideals**
 
-`dice: [](golgari-agent-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -79,11 +75,9 @@ Members of the Golgari Swarm are unmistakably products of the undercity, ill at 
 
 **Bonds**
 
-`dice: [](golgari-agent-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
-| 1 | I cherish the finger of a family member who was [petrified](/3-Mechanics/CLI/conditions.md#Petrified) by a medusa. |
+| 1 | I cherish the finger of a family member who was petrified by a medusa. |
 | 2 | I have an identical twin who is as different from me as any person could be. |
 | 3 | I want to lead one faction of the guild to a new position of dominance. |
 | 4 | I love spending time in the moss-covered building where I took part in my first reclamation mission. |
@@ -92,8 +86,6 @@ Members of the Golgari Swarm are unmistakably products of the undercity, ill at 
 ^bonds
 
 **Flaws**
-
-`dice: [](golgari-agent-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -113,8 +105,6 @@ Roll twice on the Golgari Contacts table (for an ally and a rival) and once on t
 
 **Golgari Contacts**
 
-`dice: [](golgari-agent-ggr.md#^golgari-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | One of my parents is an elite assassin, a member of the Ochran. |
@@ -128,8 +118,6 @@ Roll twice on the Golgari Contacts table (for an ally and a rival) and once on t
 ^golgari-contacts
 
 **Non-Golgari Contacts**
-
-`dice: [](golgari-agent-ggr.md#^non-golgari-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

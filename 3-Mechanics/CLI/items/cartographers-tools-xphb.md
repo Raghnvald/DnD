@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xphb
 - ttrpg-cli/item/gear/artisans-tools
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Cartographer's Tools"
 ---
 # Cartographer's Tools
@@ -18,6 +18,6 @@ aliases:
 
 - **Ability.** Wisdom  
 - **Utilize.** Draft a map of a small area (DC 15)  
-- **Craft.** [Map](/3-Mechanics/CLI/items/map-xphb.md)  
+- **Craft.** [Map](3-Mechanics/CLI/items/map-xphb.md)  
 
 *Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

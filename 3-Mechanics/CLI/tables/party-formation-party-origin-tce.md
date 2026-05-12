@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Party Formation; Party Origin
+- "Party Formation; Party Origin"
 ---
 # Party Formation; Party Origin
 *Source: Tasha's Cauldron of Everything p. 139* 
 
 **Party Origin**
-
-`dice: [](party-formation-party-origin-tce.md#^party-origin)`
 
 | dice: d6 | Origin Story |
 |----------|--------------|

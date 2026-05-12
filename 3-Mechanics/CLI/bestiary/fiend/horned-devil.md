@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Horned Devil
+- "Horned Devil"
 ---
-# [Horned Devil](3-Mechanics\CLI\bestiary\fiend/horned-devil.md)
+# [Horned Devil](3-Mechanics/CLI/bestiary/fiend/horned-devil.md)
 *Source: Monster Manual p. 74. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
@@ -115,7 +115,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 > 
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/3-Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 > 
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 > 
@@ -130,11 +130,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 > 
 > - A barbed devil has a 30 percent chance of summoning one barbed devil.  
 > - A bearded devil has a 30 percent chance of summoning one bearded devil.  
-> - A bone devil has a 40 percent chance of summoning `dice:2d6|noform|noparens|avg` (`2d6`) spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `dice:3d6|noform|noparens|avg` (`3d6`) spined devils, `dice:1d6|noform|noparens|avg` (`1d6`) bearded devils, or one erinyes.  
+> - A bone devil has a 40 percent chance of summoning `2d6` spined devils or one bone devil.  
+> - An erinyes has a 50 percent chance of summoning `3d6` spined devils, `1d6` bearded devils, or one erinyes.  
 > - A horned devil has a 30 percent chance of summoning one horned devil.  
 > - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `dice:2d4|noform|noparens|avg` (`2d4`) bearded devils, `dice:1d4|noform|noparens|avg` (`1d4`) barbed devils, or one erinyes with no chance of failure.  
+> - A pit fiend summons `2d4` bearded devils, `1d4` barbed devils, or one erinyes with no chance of failure.  
 > 
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 ^variant-devil-summoning
@@ -166,9 +166,9 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Infernal, telepathy 120 ft."
 "cr": "11"
 "traits":
@@ -181,24 +181,24 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
   - "desc": "The devil makes three melee attacks: two with its fork and one with its\
       \ tail. It can use Hurl Flame in place of any melee attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) piercing damage."
     "name": "Fork"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (1d8 + 6) piercing damage. If the target is a creature other than an undead\
-      \ or a construct, it must succeed on a DC 17 Constitution saving throw or lose\
-      \ 10 (3d6) hit points at the start of each of its turns due to an infernal wound.\
-      \ Each time the devil hits the wounded target with this attack, the damage dealt\
-      \ by the wound increases by 10 (3d6). Any creature can take an action to stanch\
-      \ the wound with a successful DC 12 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine))\
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (1d8 + 6) piercing damage. If the target is a creature other than an\
+      \ undead or a construct, it must succeed on a DC 17 Constitution saving throw\
+      \ or lose 10 (3d6) hit points at the start of each of its turns due to an\
+      \ infernal wound. Each time the devil hits the wounded target with this attack,\
+      \ the damage dealt by the wound increases by 10 (3d6). Any creature can take\
+      \ an action to stanch the wound with a successful DC 12 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine))\
       \ check. The wound also closes if the target receives magical healing."
     "name": "Tail"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:* 14\
-      \ (4d6) fire damage. If the target is a flammable object that isn't being worn\
-      \ or carried, it also catches fire."
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 150 ft., one target. *Hit:*\
+      \ 14 (4d6) fire damage. If the target is a flammable object that isn't being\
+      \ worn or carried, it also catches fire."
     "name": "Hurl Flame"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/horned-devil.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/horned-devil.webp"
 ```
 ^statblock

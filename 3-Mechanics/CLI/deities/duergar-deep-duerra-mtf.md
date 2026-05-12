@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/duergar
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/war
-aliases: 
-- Deep Duerra
+aliases:
+- "Deep Duerra"
 ---
 # Deep Duerra
 *Source: Mordenkainen's Tome of Foes p. 79* 

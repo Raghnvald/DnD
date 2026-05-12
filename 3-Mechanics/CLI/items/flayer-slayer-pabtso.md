@@ -8,19 +8,19 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Flayer Slayer"
 ---
 # Flayer Slayer
-*Weapon ([greataxe](/3-Mechanics/CLI/items/greataxe-xphb.md)), rare (requires attunement)*  
+*Weapon ([greataxe](3-Mechanics/CLI/items/greataxe.md)), rare (requires attunement)*  
 
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 Carvings of decapitated mind flayers adorn this greataxe's metal blade. You gain a +1 bonus to attack and damage rolls made with this greataxe.
 
-An Aberration hit with this greataxe takes an extra `dice:1d12|noform|noparens|avg` (`1d12`) slashing damage. If the Aberration is currently grappling a creature, the Aberration must succeed on a DC 15 Strength saving throw or release each creature it is grappling.
+An Aberration hit with this greataxe takes an extra `1d12` slashing damage. If the Aberration is currently grappling a creature, the Aberration must succeed on a DC 15 Strength saving throw or release each creature it is grappling.
 
 *Source: Phandelver and Below: The Shattered Obelisk p. 217*

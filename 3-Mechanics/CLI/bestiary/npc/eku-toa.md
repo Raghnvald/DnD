@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/celestial
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/celestial
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Eku
+- "Eku"
 ---
-# [Eku](3-Mechanics\CLI\bestiary\npc/eku-toa.md)
+# [Eku](3-Mechanics/CLI/bestiary/npc/eku-toa.md)
 *Source: Tomb of Annihilation p. 34*  
 
 ```statblock
@@ -39,15 +39,22 @@ aliases:
   - "charisma": !!int "6"
 "damage_resistances": "radiant"
 "damage_immunities": "psychic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "truesight 120 ft., passive Perception 15"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 15"
 "languages": "all, telepathy 120 ft."
 "cr": "4"
 "traits":
   - "desc": "Eku's spellcasting ability is Charisma (spell save DC 14). It can innately\
       \ cast the following spells, requiring only verbal components:\n\n**At will:**\
-      \ detect evil and good, detect magic, detect thoughts\n\n**3/day each:** bless,\
-      \ create food and water, cure wounds, lesser restoration, protection from poison,\
-      \ sanctuary, shield\n\n**1/day each:** dream, greater restoration, scrying"
+      \ [detect evil and good](3-Mechanics/CLI/spells/detect-evil-and-good-xphb.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\
+      \n**3/day each:** [bless](3-Mechanics/CLI/spells/bless-xphb.md), [create food\
+      \ and water](3-Mechanics/CLI/spells/create-food-and-water-xphb.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md),\
+      \ [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md), [protection\
+      \ from poison](3-Mechanics/CLI/spells/protection-from-poison-xphb.md), [sanctuary](3-Mechanics/CLI/spells/sanctuary-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**1/day each:** [dream](3-Mechanics/CLI/spells/dream-xphb.md),\
+      \ [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [scrying](3-Mechanics/CLI/spells/scrying-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Eku's weapon attacks are magical."
     "name": "Magic Weapons"
@@ -55,15 +62,16 @@ aliases:
       \ read its thoughts, or detect its location."
     "name": "Shielded Mind"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be poisoned for 24 hours. Until this poison ends, the target\
-      \ is unconscious. Another creature can use an action to shake the target awake."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 24 hours. Until this poison ends, the target is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious).\
+      \ Another creature can use an action to shake the target awake."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller\
-      \ creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled\
-      \ (escape DC 15). Until this grapple ends, the target is restrained, and Eku\
-      \ can't constrict another target."
+      \ creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 15). Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and Eku can't constrict another target."
     "name": "Constrict"
   - "desc": "Eku magically polymorphs into a humanoid or beast that has a challenge\
       \ rating equal to or less than its own, or back into its true form. It reverts\
@@ -77,6 +85,6 @@ aliases:
     "name": "Change Shape"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/eku-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/eku-toa.webp"
 ```
 ^statblock

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Speed"
 ---
 # Potion of Speed
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [Haste](/3-Mechanics/CLI/spells/haste-xphb.md) spell for 1 minute (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required) without suffering the wave of lethargy that typically occurs when the effect ends.
+When you drink this potion, you gain the effect of the [Haste](3-Mechanics/CLI/spells/haste-xphb.md) spell for 1 minute (no [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) required) without suffering the wave of lethargy that typically occurs when the effect ends.
 
 This potion's yellow fluid is streaked with black and swirls on its own.
 

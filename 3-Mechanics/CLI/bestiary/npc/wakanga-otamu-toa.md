@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/6
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Wakanga O'tamu
+- "Wakanga O'tamu"
 ---
-# [Wakanga O'tamu](3-Mechanics\CLI\bestiary\npc/wakanga-otamu-toa.md)
+# [Wakanga O'tamu](3-Mechanics/CLI/bestiary/npc/wakanga-otamu-toa.md)
 *Source: Tomb of Annihilation p. 27*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Lawful Neutral"
 "ac": !!int "12"
-"ac_class": "15 with mage armor"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "40"
 "hit_dice": "9d8"
 "modifier": !!int "2"
@@ -38,21 +38,30 @@ aliases:
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 11"
 "languages": "any four languages"
 "cr": "6"
 "traits":
   - "desc": "Wakanga is a 9th-level spellcaster. Its spellcasting ability is Intelligence\
       \ (spell save DC 14, +6 to hit with spell attacks). Wakanga has the following\
-      \ wizard spells prepared:\n\n**Cantrips (at will):** fire bolt, light, mage\
-      \ hand, prestidigitation\n\n**1st level (4 slots):** detect magic, mage armor,\
-      \ magic missile, shield\n\n**2nd level (3 slots):** misty step, suggestion\n\
-      \n**3rd level (3 slots):** counterspell, fireball, fly\n\n**4th level (3 slots):**\
-      \ greater invisibility, ice storm\n\n**5th level (1 slots):** cone of cold"
+      \ wizard spells prepared:\n\n**Cantrips (at will):** [fire bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [shield](3-Mechanics/CLI/spells/shield-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md)\n\
+      \n**3rd level (3 slots):** [counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md),\
+      \ [fireball](3-Mechanics/CLI/spells/fireball-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md)\n\
+      \n**4th level (3 slots):** [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md)\n\n**5th level (1 slots):**\
+      \ [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)"
     "name": "Spellcasting"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
@@ -60,6 +69,6 @@ aliases:
     "name": "Dagger"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/wakanga-otamu-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/wakanga-otamu-toa.webp"
 ```
 ^statblock

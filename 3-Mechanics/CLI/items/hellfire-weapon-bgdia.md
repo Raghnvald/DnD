@@ -12,7 +12,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Hellfire Weapon"
 - "Hellfire Antimatter Rifle"
 - "Hellfire Automatic Rifle"
@@ -68,12 +68,12 @@ aliases:
 ---
 # Hellfire Weapon
 *Uncommon*  
-![](/3-Mechanics/CLI/items/img/hellfire-weapon.webp#right)
+![](3-Mechanics/CLI/items/img/hellfire-weapon.webp#right)
 
 
 This weapon is fashioned from infernal iron and traced with veins of hellfire that shed dim light in a 5-foot-radius.
 
-Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it's reborn instantly as a [lemure](/3-Mechanics/CLI/bestiary/fiend/lemure-xmm.md) devil.
+Any humanoid killed by an attack made with this weapon has its soul funneled into the River Styx, where it's reborn instantly as a lemure devil.
 
 **Variants**:
 - [Hellfire Antimatter Rifle](#Hellfire%20Antimatter%20Rifle)
@@ -132,14 +132,14 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Hellfire Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/3-Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](3-Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Hellfire Battleaxe
@@ -147,40 +147,40 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Hellfire Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 1.0 lbs.
 
 ### Hellfire Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Light, Thrown
 - **Weight**: 1.0 lbs.
 
 ### Hellfire Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Thrown
 - **Weight**: 0.25 lbs.
 
 ### Hellfire Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Hellfire Flail
@@ -191,127 +191,127 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 ### Hellfire Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Hellfire Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Hellfire Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Hellfire Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Hellfire Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Hellfire Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Light, Loading
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Loading, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Hellfire Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Ammunition, Finesse, Two-Handed, special
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Hellfire Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Heavy, Reach
 - **Weight**: 6.0 lbs.
 
 ### Hellfire Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Hellfire Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Hellfire Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Hellfire Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Longsword
@@ -319,7 +319,7 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Mace
@@ -330,7 +330,7 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 ### Hellfire Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Hellfire Morningstar
@@ -342,20 +342,20 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Hellfire Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Hellfire Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Quarterstaff
@@ -363,66 +363,66 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Hellfire Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Hellfire Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: Ammunition
 
 ### Hellfire Spear
 
@@ -430,7 +430,7 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Trident
@@ -439,7 +439,7 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 4.0 lbs.
 
 ### Hellfire War Pick
@@ -447,7 +447,7 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 2.0 lbs.
 
 ### Hellfire Warhammer
@@ -455,20 +455,20 @@ Any humanoid killed by an attack made with this weapon has its soul funneled int
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 5.0 lbs.
 
 ### Hellfire Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Finesse, Reach
 - **Weight**: 3.0 lbs.
 
 ### Hellfire Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 3.0 lbs.
 
 

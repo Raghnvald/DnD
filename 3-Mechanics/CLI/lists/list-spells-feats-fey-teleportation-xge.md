@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/feat/fey-teleportation
+- ttrpg-cli/spell/list/feat/fey-teleportation
 aliases:
-- Spells for Fey Teleportation
+- "Spells for Fey Teleportation"
 ---
 # Spells for Fey Teleportation
 
 ## 2nd Level
 
-- [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")
+- [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md "XPHB")

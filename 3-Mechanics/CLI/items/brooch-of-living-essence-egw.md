@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/uncommon
-aliases: 
+aliases:
 - "Brooch of Living Essence"
 ---
 # Brooch of Living Essence

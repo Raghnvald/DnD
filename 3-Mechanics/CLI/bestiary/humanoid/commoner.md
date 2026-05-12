@@ -17,10 +17,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Commoner
+- "Commoner"
 ---
-# [Commoner](3-Mechanics\CLI\bestiary\humanoid/commoner.md)
-*Source: Monster Manual p. 345, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)
+*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -42,17 +42,18 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/commoner.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/commoner.webp"
 ```
 ^statblock
 

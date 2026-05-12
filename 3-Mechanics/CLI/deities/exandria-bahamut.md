@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Bahamut
+aliases:
+- "Bahamut"
 ---
 # Bahamut
 *Source: Explorer's Guide to Wildemount p. 21* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-bahamut.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-bahamut.webp#symbol)
 
 - **Alignment**: Lawful Good
 - **Category**: Prime Deities

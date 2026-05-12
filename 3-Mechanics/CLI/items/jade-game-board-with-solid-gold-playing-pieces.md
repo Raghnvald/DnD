@@ -6,13 +6,13 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/gear/treasure-art-object
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Jade game board with solid gold playing pieces"
 ---
 # Jade game board with solid gold playing pieces
 *Treasure (art object)*  
 
 
-- **Cost**: 7,500 gp
+- **Cost**: 7.500 gp
 
 *Source: Dungeon Master's Guide p. 135*

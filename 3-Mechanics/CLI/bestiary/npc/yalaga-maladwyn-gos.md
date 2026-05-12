@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yalaga Maladwyn
+- "Yalaga Maladwyn"
 ---
-# [Yalaga Maladwyn](3-Mechanics\CLI\bestiary\npc/yalaga-maladwyn-gos.md)
+# [Yalaga Maladwyn](3-Mechanics/CLI/bestiary/npc/yalaga-maladwyn-gos.md)
 *Source: Ghosts of Saltmarsh p. 226*  
 
 ```statblock
@@ -56,9 +56,9 @@ aliases:
       \ spare the dying, thaumaturgy\n\n**1st level (4 slots):** animal friendship,\
       \ cure wounds, detect poison and disease, ray of sickness\n\n**2nd level (3\
       \ slots):** lesser restoration, protection from poison, web\n\n**3rd level (3\
-      \ slots):** conjure animals (2 [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider.md)),\
-      \ dispel magic\n\n**4th level (3 slots):** divination, freedom of movement\n\
-      \n**5th level (2 slots):** insect plague, mass cure wounds"
+      \ slots):** conjure animals (2 giant spiders), dispel magic\n\n**4th level (3\
+      \ slots):** divination, freedom of movement\n\n**5th level (2 slots):** insect\
+      \ plague, mass cure wounds"
     "name": "Spellcasting"
   - "desc": "Yalaga's spellcasting ability is Charisma (spell save DC 15). She can\
       \ innately cast the following spells, requiring no material components:\n\n\
@@ -71,11 +71,11 @@ aliases:
 "actions":
   - "desc": "Yalaga makes two scourge attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage plus 17 (5d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage plus 17 (5d6) poison damage."
     "name": "Scourge"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/yalaga-maladwyn-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/yalaga-maladwyn-gos.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chamber Purpose; Dungeon: Stronghold
+- "Chamber Purpose; Dungeon: Stronghold"
 ---
 # Chamber Purpose; Dungeon: Stronghold
 *Source: Dungeon Master's Guide p. 292* 
 
 **Dungeon: Stronghold**
-
-`dice: [](chamber-purpose-dungeon-stronghold.md#^dungeon-stronghold)`
 
 | dice: d100 | Purpose |
 |------------|---------|

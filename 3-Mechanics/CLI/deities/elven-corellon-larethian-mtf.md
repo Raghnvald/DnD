@@ -9,8 +9,8 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/war
-aliases: 
-- Corellon Larethian
+aliases:
+- "Corellon Larethian"
 ---
 # Corellon Larethian
 *Source: Mordenkainen's Tome of Foes p. 43, Sword Coast Adventurer's Guide p. 125* 

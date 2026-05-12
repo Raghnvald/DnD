@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Adventures; Darklord Interactions
+- "Adventures; Darklord Interactions"
 ---
 # Adventures; Darklord Interactions
 *Source: Van Richten's Guide to Ravenloft p. 44* 
 
 **Darklord Interactions**
-
-`dice: [](adventures-darklord-interactions-vrgr.md#^darklord-interactions)`
 
 | dice: d8 | Encounter |
 |----------|-----------|

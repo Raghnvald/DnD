@@ -3,19 +3,19 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Demiplane
+- "Living Demiplane"
 ---
-# [Living Demiplane](3-Mechanics\CLI\bestiary\construct/living-demiplane-idrotf.md)
+# [Living Demiplane](3-Mechanics/CLI/bestiary/construct/living-demiplane-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 299*  
 
-A living demiplane is a demiplane spell that has become vaguely self-aware. It is a shadowy rectangle, 5 feet wide and 10 feet high, which creeps along flat, solid surfaces and groans softly when it moves.
+A living demiplane is a [demiplane](3-Mechanics/CLI/spells/demiplane.md) spell that has become vaguely self-aware. It is a shadowy rectangle, 5 feet wide and 10 feet high, which creeps along flat, solid surfaces and groans softly when it moves.
 
 When a living demiplane encounters a creature small enough to fit through its doorway, it tries to pull that creature into itself, then deposits the victim in an extradimensional chamber.
 
@@ -39,9 +39,15 @@ Areas of wild magic and sites that have been ravaged by powerful eldritch forces
   - !!int "1"
 "speed": "30 ft., climb 30 ft."
 "damage_immunities": "poison"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
-  \ paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "0"
 "traits":
@@ -81,6 +87,6 @@ Areas of wild magic and sites that have been ravaged by powerful eldritch forces
     "name": "Unusual Nature"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/living-demiplane-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/living-demiplane-idrotf.webp"
 ```
 ^statblock

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/18
-- new/monster/size/medium
-- new/monster/type/humanoid/warforged
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/18
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/warforged
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- The Lord of Blades
+- "The Lord of Blades"
 ---
-# [The Lord of Blades](3-Mechanics\CLI\bestiary\npc/the-lord-of-blades-erlw.md)
+# [The Lord of Blades](3-Mechanics/CLI/bestiary/npc/the-lord-of-blades-erlw.md)
 *Source: Eberron: Rising from the Last War p. 300*  
 
 The Lord of Blades is a warforged warlord who has broken all ties with his former masters. He has established a nation for his people deep in the Mournland, centered in a great fortress where warforged from all over Khorvaire can come and feel a sense of belonging. No one knows what the Lord of Blades plans for his followers, but many fear that he intends to build a legion of warforged zealots, primed to march from the Mournland to unleash destruction on their former masters.
@@ -75,8 +75,8 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
   - "desc": "Any critical hit against the Lord of Blades becomes a normal hit."
     "name": "Adamantine Plating"
   - "desc": "A creature that grapples the Lord of Blades or is grappled by him takes\
-      \ 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing damage if it\
-      \ starts its turn grappling or being grappled by the Lord of Blades."
+      \ 13 (3d8) slashing damage. A creature takes 13 (3d8) slashing damage if\
+      \ it starts its turn grappling or being grappled by the Lord of Blades."
     "name": "Bladed Armor"
   - "desc": "If the Lord of Blades moves at least 10 feet straight toward a target\
       \ and then hits it with his adamantine sixblade on the same turn, the target\
@@ -91,11 +91,11 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
   - "desc": "The Lord of Blades makes three attacks: two with his adamantine sixblade\
       \ and one with his bladed wings."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d10 + 5) slashing damage plus 7 (2d6) force damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d10 + 5) slashing damage plus 7 (2d6) force damage."
     "name": "Adamantine Sixblade"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +11 to hit, reach 5 ft. or range 20/60\
-      \ ft., one target. *Hit:* 8 (1d6 + 5) slashing damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +11 to hit, reach 5 ft. or range\
+      \ 20/60 ft., one target. *Hit:* 8 (1d6 + 5) slashing damage."
     "name": "Bladed Wings"
   - "desc": "*Ranged Spell Attack:* +10 to hit, range 120 ft., one target. *Hit:*\
       \ 22 (4d10) fire damage."
@@ -117,6 +117,6 @@ The Lord of Blades doesn't require air, food, drink, or sleep.
     "name": "Blade Dash (Costs 3 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/the-lord-of-blades-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/the-lord-of-blades-erlw.webp"
 ```
 ^statblock

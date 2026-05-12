@@ -7,17 +7,17 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/shield/
-aliases: 
+aliases:
 - "Shield of the Uven Rune"
 ---
 # Shield of the Uven Rune
-*Armor (shield), very rare (requires attunement)*  
+*Armor ([shield](3-Mechanics/CLI/items/shield-xphb.md)), very rare (requires attunement)*  
 
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
-This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a DC 20 Intelligence (History) check recognizes it as an uven ("enemy" in Giant) rune that confers great power.
+This shield is made from the scale of an ancient white dragon. It has a rune burned into its outward-facing side. A character who examines the rune and succeeds on a DC 20 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognizes it as an uven ("enemy" in Giant) rune that confers great power.
 
 While holding the shield, you benefit from the following properties.
 
@@ -27,11 +27,11 @@ You are immune to cold damage.
 
 ## Deadly Rebuke
 
-Immediately after a creature hits you with a melee attack, you can use your reaction to deal `dice:3d6|noform|noparens|avg` (`3d6`) necrotic damage to that creature.
+Immediately after a creature hits you with a melee attack, you can use your reaction to deal `3d6` necrotic damage to that creature.
 
 ## Bane
 
-You can cast the bane spell from the shield (save DC 17). The spell does not require concentration and lasts for 1 minute. Once you cast the spell from the shield, you can't do so again until you finish a short or long rest.
+You can cast the [bane](3-Mechanics/CLI/spells/bane-xphb.md) spell from the shield (save DC 17). The spell does not require [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) and lasts for 1 minute. Once you cast the spell from the shield, you can't do so again until you finish a short or long rest.
 
 ## Gift of Vengeance
 

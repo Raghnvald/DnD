@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/gear/tack-and-harness
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Barding"
 - "Breastplate Barding"
 - "Chain Mail Barding"
@@ -47,7 +47,7 @@ Barding is armor designed to protect an animal's head, neck, chest, and body. An
 ### Breastplate Barding
 
 - **Armor Class**: 14
-- **Cost**: 1,600 gp
+- **Cost**: 1.600 gp
 - **Weight**: 40.0 lbs.
 
 ### Chain Mail Barding
@@ -68,7 +68,7 @@ Barding is armor designed to protect an animal's head, neck, chest, and body. An
 
 - **Armor Class**: 15
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 3,000 gp
+- **Cost**: 3.000 gp
 - **Weight**: 80.0 lbs.
 
 ### Hide Barding
@@ -95,7 +95,7 @@ Barding is armor designed to protect an animal's head, neck, chest, and body. An
 - **Armor Class**: 18
 - **Strength**: Requires 15 STR.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Cost**: 6,000 gp
+- **Cost**: 6.000 gp
 - **Weight**: 130.0 lbs.
 
 ### Ring Mail Barding

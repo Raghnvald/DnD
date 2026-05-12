@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Baldur's Gate Folk Hero
+- "Baldur's Gate Folk Hero"
 ---
 # Baldur's Gate Folk Hero
 *Source: Baldur's Gate: Descent Into Avernus p. 204, Player's Handbook p. 131*  
 
 
-- **Skill Proficiencies.** [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Skill Proficiencies.** Animal Handling, Survival  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
-- **Equipment.** A set of artisan's tools (one of your choice), a [shovel](/3-Mechanics/CLI/items/shovel-xphb.md), an [iron pot](/3-Mechanics/CLI/items/iron-pot-xphb.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a shovel, an iron pot, a set of common clothes, and a belt pouch containing 10 gp  
 
 Baldur's Gate is a city badly in need of heroes, and every so often, one rises from among its own. Ordinary people who rise to greatness are beloved in local history, but the popular imagination can turn on such champions almost as quickly as it anoints them.
 
@@ -27,15 +27,13 @@ Since you come from the ranks of the common folk, you fit in among them with eas
 > [!note]
 > The effects of a Baldur's Gate feature can be used only while the character is in Baldur's Gate—though, at the DM's discretion, they might have applicable effects in situations similar to those in Baldur's Gate.
 
-You've lived your entire life in the Lower or Outer City of Baldur's Gate. You grew up seeing arrogant patriars flaunt their wealth while your hardworking neighbors struggled. As a result, you know how eager commoners in Baldur's Gate are to see any patriar get what they deserve. While in a busy part of the Lower City or Outer City of Baldur's Gate, you can spend `dice:2d10|noform|noparens|avg` (`2d10`) minutes to convince `dice:1d6|noform|noparens|avg` (`1d6`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) to perform a non-illegal act that inconveniences a member of the Watch or Flaming Fist, a patriar, or some other wealthy looking individual.
+You've lived your entire life in the Lower or Outer City of Baldur's Gate. You grew up seeing arrogant patriars flaunt their wealth while your hardworking neighbors struggled. As a result, you know how eager commoners in Baldur's Gate are to see any patriar get what they deserve. While in a busy part of the Lower City or Outer City of Baldur's Gate, you can spend `2d10` minutes to convince `1d6` commoners to perform a non-illegal act that inconveniences a member of the Watch or Flaming Fist, a patriar, or some other wealthy looking individual.
 
 ## Folk Hero Origins
 
 Folk heroes might rise from a variety of circumstances, or their origins might be a secret as they do their work anonymously. If you wish, you may roll on the Folk Hero Origins table for an event that started you down your heroic path.
 
 **Folk Hero Origins**
-
-`dice: [](baldurs-gate-folk-hero-bgdia.md#^folk-hero-origins)`
 
 | dice: d6 | Origin |
 |----------|--------|
@@ -50,8 +48,6 @@ Folk heroes might rise from a variety of circumstances, or their origins might b
 ## Specialty
 
 You previously pursued a simple profession among the peasantry, perhaps as a farmer, miner, servant, shepherd, woodcutter, or gravedigger. But something happened that set you on a different path and marked you for greater things. Choose or randomly determine a defining event that marked you as a hero of the people.
-
-`dice: [](baldurs-gate-folk-hero-bgdia.md#^defining-event)`
 
 | dice: d10 | Defining Event |
 |-----------|----------------|
@@ -71,8 +67,6 @@ You previously pursued a simple profession among the peasantry, perhaps as a far
 
 A folk hero is one of the common people, for better or for worse. Most folk heroes look on their humble origins as a virtue, not a shortcoming, and their home communities remain very important to them.
 
-`dice: [](baldurs-gate-folk-hero-bgdia.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I judge people by their actions, not their words. |
@@ -85,8 +79,6 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 8 | I get bored easily. When am I going to get on with my destiny? |
 ^personality-trait
 
-`dice: [](baldurs-gate-folk-hero-bgdia.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Respect. People deserve to be treated with dignity and respect. (Good) |
@@ -97,8 +89,6 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 6 | Destiny. Nothing and no one can steer me away from my higher calling. (Any) |
 ^ideal
 
-`dice: [](baldurs-gate-folk-hero-bgdia.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I have a family, but I have no idea where they are. One day, I hope to see them again. |
@@ -108,8 +98,6 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 5 | I protect those who cannot protect themselves. |
 | 6 | I wish my childhood sweetheart had come with me to pursue my destiny. |
 ^bond
-
-`dice: [](baldurs-gate-folk-hero-bgdia.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

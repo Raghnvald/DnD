@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Doors; Beyond a Door
+- "Doors; Beyond a Door"
 ---
 # Doors; Beyond a Door
 *Source: Dungeon Master's Guide p. 291* 
 
 **Beyond a Door**
-
-`dice: [](doors-beyond-a-door.md#^beyond-a-door)`
 
 | dice: d20 | Feature |
 |-----------|---------|

@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mariner's Armor"
 - "Mariner's Breastplate"
 - "Mariner's Chain Mail"

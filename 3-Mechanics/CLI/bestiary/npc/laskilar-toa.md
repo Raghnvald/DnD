@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Laskilar
+- "Laskilar"
 ---
-# [Laskilar](3-Mechanics\CLI\bestiary\npc/laskilar-toa.md)
+# [Laskilar](3-Mechanics/CLI/bestiary/npc/laskilar-toa.md)
 *Source: Tomb of Annihilation p. 67*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "studded leather"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "3"
@@ -39,22 +39,25 @@ aliases:
   - "dexterity": !!int "5"
   - "wisdom": !!int "2"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+4"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "any two languages"
 "cr": "2"
 "traits":
-  - "desc": "Laskilar wears a cape of the mountebank."
+  - "desc": "Laskilar wears a [cape of the mountebank](3-Mechanics/CLI/items/cape-of-the-mountebank-xdmg.md)."
     "name": "Special Equipment"
 "actions":
   - "desc": "Laskilar makes three melee attacks: two with its scimitar and one with\
       \ its dagger. Or Laskilar makes two ranged attacks with its daggers."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d4 + 3) piercing damage."
@@ -65,6 +68,6 @@ aliases:
     "name": "Parry"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/laskilar-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/laskilar-toa.webp"
 ```
 ^statblock

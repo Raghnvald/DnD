@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Thri-kreen Psion
+- "Thri-kreen Psion"
 ---
-# [Thri-kreen Psion](3-Mechanics\CLI\bestiary\monstrosity/thri-kreen-psion-xmm.md)
+# [Thri-kreen Psion](3-Mechanics/CLI/bestiary/monstrosity/thri-kreen-psion-xmm.md)
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
@@ -24,7 +24,7 @@ Thri-kreen psions harness their psychic powers to avoid danger and manipulate ob
 *Mantid Psychics and Scavengers*
 
 - **Habitat.** Desert, Grassland  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Thri-kreen are mantis-like wanderers who harness their innate camouflage and psychic abilities to survive. Different groups of thri-kreen have distinct carapaces, from the rocky shades of desert dwellers to the vibrant hues of those living in verdant lands. While their language has a distinctly insectile quality, thri-kreen often use telepathy to communicate, and groups can rapidly share a wealth of detailed information without making a sound.
 
@@ -56,13 +56,13 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
   - "constitution": !!int "5"
   - "intelligence": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_resistances": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Thri-kreen; telepathy 120 ft."
 "cr": "8"
 "actions":
@@ -73,13 +73,13 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
     "name": "Psionic Lance"
   - "desc": "The thri-kreen casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 15):\n\n**At will:** [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md)\
-      \ (the hand is Invisible)\n\n**1/day each:** [Detect Thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [Sending](/3-Mechanics/CLI/spells/sending-xphb.md), [Synaptic Static](/3-Mechanics/CLI/spells/synaptic-static-xphb.md)"
+      \ DC 15):\n\n**At will:** [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\
+      \ (the hand is Invisible)\n\n**1/day each:** [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Sending](3-Mechanics/CLI/spells/sending-xphb.md), [Synaptic Static](3-Mechanics/CLI/spells/synaptic-static-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-psion-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/thri-kreen-psion-xmm.webp"
 ```
 ^statblock
 

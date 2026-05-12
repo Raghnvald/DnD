@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Government; Sample Hierarchy of Noble Titles
+- "Government; Sample Hierarchy of Noble Titles"
 ---
 # Government; Sample Hierarchy of Noble Titles
 *Source: Dungeon Master's Guide p. 17* 

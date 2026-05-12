@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
-- new/monster/legendary-group
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/legendary-group
 aliases:
-- Valin Sarnaster
+- "Valin Sarnaster"
 ---
 # Valin Sarnaster
 
@@ -17,7 +17,7 @@ On initiative count 20 (losing initiative ties), Valin takes a lair action to ca
 
 - Each undead creature in the lair can pinpoint the location of each living creature within 120 feet of it until initiative count 20 on the next round.  
 - Each undead in the lair has advantage on saving throws against effects that turn undead until initiative count 20 on the next round.  
-- Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in Valin's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `dice:1d6|noform|noparens|avg` (`1d6`) necrotic damage per level of the spell, and the spell has no effect and is wasted.  
+- Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in Valin's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `1d6` necrotic damage per level of the spell, and the spell has no effect and is wasted.  
 
 ## Regional Effects
 _Source: Candlekeep Mysteries_

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shockerstomper
+- "Shockerstomper"
 ---
-# [Shockerstomper](3-Mechanics\CLI\bestiary\npc/shockerstomper-wdmm.md)
+# [Shockerstomper](3-Mechanics/CLI/bestiary/npc/shockerstomper-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 174*  
 
 ```statblock
@@ -33,8 +33,11 @@ aliases:
   - !!int "1"
 "speed": "40 ft."
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, deafened, charmed, frightened, paralyzed, poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 5"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+  \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 5"
 "languages": ""
 "cr": "14"
 "traits":
@@ -52,20 +55,22 @@ aliases:
       \ form."
     "name": "Immutable Form"
   - "desc": "A creature atop or above Shockerstomper's platform can locate its control\
-      \ module with a successful DC 15 Intelligence (Investigation) check or Wisdom\
-      \ (Perception) check. As an action, a character can try to open the control\
-      \ module's access panel, either by tearing it off with a successful DC 25 Strength\
-      \ (Athletics) check or by dislodging it with thieves' tools and a successful\
-      \ DC 25 Dexterity check. Behind the panel, embedded in the floor of the control\
-      \ module, is a 5-foot-diameter pulsating crystal hemisphere with AC 10, 25 hit\
-      \ points, and immunity to poison and psychic damage. Destroying the crystal\
-      \ hemisphere shuts down Shockerstomper."
+      \ module with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation))\
+      \ check or Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check. As an action, a character can try to open the control module's access\
+      \ panel, either by tearing it off with a successful DC 25 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
+      \ check or by dislodging it with thieves' tools and a successful DC 25 Dexterity\
+      \ check. Behind the panel, embedded in the floor of the control module, is a\
+      \ 5-foot-diameter pulsating crystal hemisphere with AC 10, 25 hit points, and\
+      \ immunity to poison and psychic damage. Destroying the crystal hemisphere shuts\
+      \ down Shockerstomper."
     "name": "Control Module"
   - "desc": "A character can try to plug the nozzle of a lightning turret with a 10-pound\
-      \ rock or similar object, doing so with a successful DC 15 Strength (Athletics)\
+      \ rock or similar object, doing so with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
       \ check. A plugged turret can't shoot lightning until a creature uses an action\
       \ to try to clear the obstruction, which requires another successful DC 15 Strength\
-      \ (Athletics) check. Shockerstomper has no ability to clear an obstruction itself."
+      \ ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Shockerstomper\
+      \ has no ability to clear an obstruction itself."
     "name": "Lightning Turret"
 "actions":
   - "desc": "Shockerstomper makes three Lightning Turret attacks and two Stomp attacks."
@@ -80,6 +85,6 @@ aliases:
     "name": "Stomp"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/shockerstomper-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/shockerstomper-wdmm.webp"
 ```
 ^statblock

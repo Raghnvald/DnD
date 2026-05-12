@@ -8,30 +8,30 @@ tags:
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Staff of Power"
 ---
 # Staff of Power
 *Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
-![](/3-Mechanics/CLI/items/img/staff-of-power.webp#right)
+![](3-Mechanics/CLI/items/img/staff-of-power.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
 
-The staff has 20 charges for the following properties. The staff regains `dice:2d8+4|noform|noparens|avg` (`2d8 + 4`) expended charges daily at dawn. If you expend the last charge, roll a `dice:d20|noform|noparens|avg` (`d20`). On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `dice:1d8+2|noform|noparens|avg` (`1d8 + 2`) charges.
+The staff has 20 charges for the following properties. The staff regains `2d8 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff retains its +2 bonus to attack and damage roll but loses all other properties. On a 20, the staff regain `1d8 + 2` charges.
 
 ## Power Strike
 
-When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) force damage to the target.
+When you hit with a melee attack using the staff, you can expend 1 charge to deal an extra `1d6` force damage to the target.
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold.md) (5 charges), [fireball](/3-Mechanics/CLI/spells/fireball.md) (5th-level version, 5 charges), [globe of invulnerability](/3-Mechanics/CLI/spells/globe-of-invulnerability.md) (6 charges), [hold monster](/3-Mechanics/CLI/spells/hold-monster.md) (5 charges), [levitate](/3-Mechanics/CLI/spells/levitate.md) (2 charges), [lightning bolt](/3-Mechanics/CLI/spells/lightning-bolt.md) (5th-level version, 5 charges), [magic missile](/3-Mechanics/CLI/spells/magic-missile.md) (1 charge), [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement.md) (1 charge), or [wall of force](/3-Mechanics/CLI/spells/wall-of-force.md) (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: cone of cold (5 charges), fireball (5th-level version, 5 charges), globe of invulnerability (6 charges), hold monster (5 charges), levitate (2 charges), lightning bolt (5th-level version, 5 charges), magic missile (1 charge), ray of enfeeblement (1 charge), or wall of force (5 charges).
 
 ## Retributive Strike
 

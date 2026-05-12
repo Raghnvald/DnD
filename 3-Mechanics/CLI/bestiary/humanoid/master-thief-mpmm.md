@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Master Thief
+- "Master Thief"
 ---
-# [Master Thief](3-Mechanics\CLI\bestiary\humanoid/master-thief-mpmm.md)
+# [Master Thief](3-Mechanics/CLI/bestiary/humanoid/master-thief-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -21,8 +21,6 @@ Master thieves are known for perpetrating daring heists. They tend to develop a 
 When a master thief completes a challenging heist, they often leave behind a calling card to taunt their victims. You may roll on the Master Thief Calling Cards table to determine what a master thief leaves behind.
 
 **Master Thief Calling Cards**
-
-`dice: [](master-thief-mpmm.md#^master-thief-calling-cards)`
 
 | dice: d10 | Calling Card |
 |-----------|--------------|
@@ -44,7 +42,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -60,16 +58,19 @@ When a master thief completes a challenging heist, they often leave behind a cal
   - "dexterity": !!int "7"
   - "intelligence": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Sleight of Hand](/3-Mechanics/CLI/skills.md#Sleight%20of%20Hand)"
+  - "name": "[Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "any one language (usually Common) plus thieves' cant"
 "cr": "5"
@@ -77,20 +78,20 @@ When a master thief completes a challenging heist, they often leave behind a cal
   - "desc": "If the thief is subjected to an effect that allows it to make a Dexterity\
       \ saving throw to take only half damage, the thief instead takes no damage if\
       \ it succeeds on the saving throw and only half damage if it fails, provided\
-      \ the thief isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ the thief isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Evasion"
 "actions":
   - "desc": "The thief makes three Shortsword or Shortbow attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage plus 3 (1d6) poison damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage plus 3 (1d6) poison damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +7 to hit, range 80/320 ft., one target. *Hit:*\
       \ 7 (1d6 + 4) piercing damage plus 3 (1d6) poison damage."
     "name": "Shortbow"
 "bonus_actions":
-  - "desc": "The thief takes the [Dash](/3-Mechanics/CLI/actions.md#Dash), [Disengage](/3-Mechanics/CLI/actions.md#Disengage),\
-      \ or [Hide](/3-Mechanics/CLI/actions.md#Hide) action."
+  - "desc": "The thief takes the [Dash](3-Mechanics/CLI/rules/actions.md#Dash), [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage),\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action."
     "name": "Cunning Action"
 "reactions":
   - "desc": "The thief halves the damage that it takes from an attack that hits it.\
@@ -99,7 +100,7 @@ When a master thief completes a challenging heist, they often leave behind a cal
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/master-thief-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/master-thief-mpmm.webp"
 ```
 ^statblock
 

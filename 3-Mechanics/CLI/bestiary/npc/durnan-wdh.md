@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Durnan
+- "Durnan"
 ---
-# [Durnan](3-Mechanics\CLI\bestiary\npc/durnan-wdh.md)
+# [Durnan](3-Mechanics/CLI/bestiary/npc/durnan-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 203*  
 
 *Human proprietor*
@@ -36,7 +36,7 @@ Durnan doesn't often venture far from the Yawning Portal, using his employees to
 "subtype": "human"
 "alignment": "Neutral"
 "ac": !!int "16"
-"ac_class": "elven chain"
+"ac_class": "[elven chain](3-Mechanics/CLI/items/elven-chain-xdmg.md)"
 "hp": !!int "144"
 "hit_dice": "17d8 + 68"
 "modifier": !!int "2"
@@ -52,16 +52,18 @@ Durnan doesn't often venture far from the Yawning Portal, using his employees to
   - "strength": !!int "8"
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "senses": "passive Perception 15"
 "languages": "Common, Dwarvish"
 "cr": "9"
 "traits":
-  - "desc": "Durnan wields a sword of sharpness (greatsword) called Grimvault. He\
-      \ wears boots of striding and springing, elven chain, and a ring of spell turning."
+  - "desc": "Durnan wields a [sword of sharpness (greatsword)](3-Mechanics/CLI/items/sword-of-sharpness-xdmg.md)\
+      \ called Grimvault. He wears [boots of striding and springing](3-Mechanics/CLI/items/boots-of-striding-and-springing-xdmg.md),\
+      \ [elven chain](3-Mechanics/CLI/items/elven-chain-xdmg.md), and a [ring of spell\
+      \ turning](3-Mechanics/CLI/items/ring-of-spell-turning-xdmg.md)."
     "name": "Special Equipment"
   - "desc": "Durnan can reroll a saving throw that he fails. He must use the new roll."
     "name": "Indomitable (Recharges after a Long Rest)"
@@ -86,6 +88,6 @@ Durnan doesn't often venture far from the Yawning Portal, using his employees to
     "name": "Double Crossbow"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/durnan-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/durnan-wdh.webp"
 ```
 ^statblock

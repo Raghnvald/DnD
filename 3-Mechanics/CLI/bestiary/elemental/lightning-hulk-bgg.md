@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lightning Hulk
+- "Lightning Hulk"
 ---
-# [Lightning Hulk](3-Mechanics\CLI\bestiary\elemental/lightning-hulk-bgg.md)
+# [Lightning Hulk](3-Mechanics/CLI/bestiary/elemental/lightning-hulk-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 158*  
 
 > [!quote] A quote from Bigby  
@@ -46,15 +46,13 @@ A lightning hulk is essentially a living bolt of lightning, with the one lasting
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_resistances": "cold; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "lightning, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
+"condition_immunities": "exhaustion, grappled, paralyzed, petrified, poisoned, prone,\
+  \ restrained"
 "senses": "passive Perception 16"
 "languages": "Auran, Giant"
 "cr": "9"
@@ -64,21 +62,21 @@ A lightning hulk is essentially a living bolt of lightning, with the one lasting
     "name": "Illumination"
   - "desc": "The lightning hulk can enter a hostile creature's space and stop there.\
       \ The first time the lightning hulk enters a creature's space on a turn, or\
-      \ if it begins its turn in a creature's space, that creature takes 7 (2d6) lightning\
-      \ damage. The hulk can also move through a space as narrow as 1 inch without\
-      \ squeezing. A creature that touches the lightning hulk or hits it with a melee\
-      \ attack while within 5 feet of it takes 7 (2d6) lightning damage."
+      \ if it begins its turn in a creature's space, that creature takes 7 (2d6)\
+      \ lightning damage. The hulk can also move through a space as narrow as 1 inch\
+      \ without squeezing. A creature that touches the lightning hulk or hits it with\
+      \ a melee attack while within 5 feet of it takes 7 (2d6) lightning damage."
     "name": "Lightning Form"
 "actions":
-  - "desc": "*Melee  or Ranged Weapon Attack:* +9 to hit, reach 10 ft. or range 60\
-      \ ft., one target. *Hit:* 18 (4d8) lightning damage. If the target is a creature,\
-      \ it can't take reactions until the start of its next turn, and lightning jumps\
-      \ from the target to another creature of the lightning hulk's choice that it\
-      \ can see within 30 feet of the target. The second creature must succeed on\
-      \ a DC 18 Dexterity saving throw or take 18 (4d8) lightning damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +9 to hit, reach 10 ft. or range\
+      \ 60 ft., one target. *Hit:* 18 (4d8) lightning damage. If the target is a\
+      \ creature, it can't take reactions until the start of its next turn, and lightning\
+      \ jumps from the target to another creature of the lightning hulk's choice that\
+      \ it can see within 30 feet of the target. The second creature must succeed\
+      \ on a DC 18 Dexterity saving throw or take 18 (4d8) lightning damage."
     "name": "Arc Lightning"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/lightning-hulk-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/lightning-hulk-bgg.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Redtooth Werefox
+- "Redtooth Werefox"
 ---
-# [Redtooth Werefox](3-Mechanics\CLI\bestiary\monstrosity/redtooth-werefox-mcv4ec.md)
+# [Redtooth Werefox](3-Mechanics/CLI/bestiary/monstrosity/redtooth-werefox-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 By day, the elves of Redtooth Keep are agile and adept rangers, expertly patrolling the lands around one of the last elven citadels in Eldraine. But at night, terrifying howls echo from the keep's halls as its inhabitants transform into ruthless werefoxes.
@@ -43,32 +43,35 @@ Unlike other forms of lycanthropy, the werefox curse isn't contagious and is lim
   - !!int "10"
 "speed": "30 ft. (in elf form; 40 ft. in fox and hybrid form)"
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
-"senses": "darkvision 60 ft., passive Perception 15"
+"gear":
+  - "[lance](3-Mechanics/CLI/items/lance.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Common, Elvish (can't speak in fox form)"
 "cr": "3"
 "actions":
   - "desc": "The werefox makes two Bite attacks, two Lance attacks, or one Bite attack\
       \ and one Lance attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10\
-      \ + 3) piercing damage. If the werefox moved at least 20 feet straight toward\
-      \ the target immediately before the hit and the target is a Medium or smaller\
-      \ creature, the target must succeed on a DC 13 Strength saving throw or have\
-      \ the prone condition."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d10 + 3) piercing damage. If the werefox moved at least 20 feet straight\
+      \ toward the target immediately before the hit and the target is a Medium or\
+      \ smaller creature, the target must succeed on a DC 13 Strength saving throw\
+      \ or have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Bite (Fox or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 9\
-      \ (1d12 + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 9 (1d12 + 3) piercing damage."
     "name": "Lance (Elf or Hybrid Form Only)"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:*\
       \ 10 (2d6 + 3) piercing damage, and the target must succeed on a DC 11 Dexterity\
-      \ saving throw or have the restrained condition until the start of the werefox's\
-      \ next turn."
+      \ saving throw or have the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition until the start of the werefox's next turn."
     "name": "Entangling Arrow (Elf or Hybrid Form Only)"
 "bonus_actions":
   - "desc": "The werefox polymorphs into a fox-elf hybrid, into a fox, or back into\
@@ -76,10 +79,11 @@ Unlike other forms of lycanthropy, the werefox curse isn't contagious and is lim
       \ form. Any equipment it is wearing or carrying isn't transformed. It reverts\
       \ to its elf form if it dies."
     "name": "Change Shape"
-  - "desc": "The werefox takes the Dash or Disengage action."
+  - "desc": "The werefox takes the [Dash](3-Mechanics/CLI/rules/actions.md#Dash) or\
+      \ [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage) action."
     "name": "Vulpine Nimbleness (Fox or Hybrid Form Only)"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/redtooth-werefox-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/redtooth-werefox-mcv4ec.webp"
 ```
 ^statblock

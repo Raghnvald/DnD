@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Adventure Patrons; Patron Hooks
+- "Adventure Patrons; Patron Hooks"
 ---
 # Adventure Patrons; Patron Hooks
 *Source: Dungeon Master's Guide (2024) p. 110* 
 
 **Patron Hooks**
-
-`dice: [](adventure-patrons-patron-hooks-xdmg.md#^patron-hooks)`
 
 | dice: 1d6 | Hook |
 |-----------|------|

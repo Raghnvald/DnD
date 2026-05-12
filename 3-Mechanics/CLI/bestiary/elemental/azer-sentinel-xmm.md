@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Azer Sentinel
+- "Azer Sentinel"
 ---
-# [Azer Sentinel](3-Mechanics\CLI\bestiary\elemental/azer-sentinel-xmm.md)
+# [Azer Sentinel](3-Mechanics/CLI/bestiary/elemental/azer-sentinel-xmm.md)
 *Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Azer sentinels defend their communities' smiths and channel their flames through their weapons.
@@ -25,7 +25,7 @@ Azer sentinels defend their communities' smiths and channel their flames through
 *Fiery Smiths of Living Metal*
 
 - **Habitat.** Mountain, Planar (Elemental Plane of Fire)  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md), Individual  
 
 Azers are living bronze folk who work the primal elements of creation to craft weapons and magical wonders among the multiverse's mightiest infernos.
 
@@ -49,18 +49,18 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "saves":
   - "constitution": !!int "4"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 11"
 "languages": "Primordial (Ignan)"
 "cr": "2"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
-      \ in a 5-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the azer takes 5 (1d10) Fire damage unless the azer has the\
-      \ [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ in a 5-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the azer takes 5 (1d10) Fire damage unless the azer has\
+      \ the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition."
     "name": "Fire Aura"
-  - "desc": "The azer sheds [Bright Light](/3-Mechanics/CLI/variant-rules/bright-light-xphb.md)\
-      \ in a 10-foot radius and [Dim Light](/3-Mechanics/CLI/variant-rules/dim-light-xphb.md)\
+  - "desc": "The azer sheds [Bright Light](3-Mechanics/CLI/rules/variant-rules/bright-light-xphb.md)\
+      \ in a 10-foot radius and [Dim Light](3-Mechanics/CLI/rules/variant-rules/dim-light-xphb.md)\
       \ for an additional 10 feet."
     "name": "Illumination"
 "actions":
@@ -69,7 +69,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
     "name": "Burning Hammer"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/azer-sentinel-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/azer-sentinel-xmm.webp"
 ```
 ^statblock
 

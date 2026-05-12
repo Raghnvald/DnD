@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Adamantine Armor"
 - "Adamantine Breastplate"
 - "Adamantine Chain Mail"

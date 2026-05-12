@@ -19,10 +19,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tribal Warrior
+- "Tribal Warrior"
 ---
-# [Tribal Warrior](3-Mechanics\CLI\bestiary\humanoid/tribal-warrior.md)
-*Source: Monster Manual p. 350, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Tribal Warrior](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md)
+*Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
@@ -33,7 +33,7 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "0"
@@ -45,13 +45,15 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
   - !!int "11"
   - !!int "8"
 "speed": "30 ft."
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 10"
 "languages": "any one language"
 "cr": "1/8"
 "traits":
   - "desc": "The warrior has advantage on an attack roll against a creature if at\
       \ least one of the warrior's allies is within 5 feet of the creature and the\
-      \ ally isn't incapacitated."
+      \ ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
@@ -60,8 +62,7 @@ Tribal warriors live beyond civilization, most often subsisting on fishing and h
     "name": "Spear"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/tribal-warrior.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/tribal-warrior.webp"
 ```
 ^statblock
 

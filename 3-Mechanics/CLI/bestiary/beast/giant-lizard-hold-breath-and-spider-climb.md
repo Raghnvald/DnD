@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Lizard (Hold Breath and Spider Climb)
+- "Giant Lizard (Hold Breath and Spider Climb)"
 ---
-# [Giant Lizard (Hold Breath and Spider Climb)](3-Mechanics\CLI\bestiary\beast/giant-lizard-hold-breath-and-spider-climb.md)
+# [Giant Lizard (Hold Breath and Spider Climb)](3-Mechanics/CLI/bestiary/beast/giant-lizard-hold-breath-and-spider-climb.md)
 *Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -38,8 +38,8 @@ aliases:
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., climb 30 ft., swim 30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/4"
 "traits":
@@ -49,8 +49,8 @@ aliases:
       \ without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage."
     "name": "Bite"
 "source":
   - "MM"

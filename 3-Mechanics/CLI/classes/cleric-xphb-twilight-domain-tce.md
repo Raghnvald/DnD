@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/domain/twilight
 - ttrpg-cli/subclass/cleric/twilight
 aliases:
-- Twilight Domain
+- "Twilight Domain"
 ---
 # Twilight Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
@@ -48,10 +48,6 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Twilight Domain (Level 3)
-
 The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.
 
 Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.
@@ -65,13 +61,14 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | Dol Arrah | Eberron |
 | Helm | Forgotten Realms |
 | Ilmater | Forgotten Realms |
-| [Mishakal](/3-Mechanics/CLI/deities/dragonlance-mishakal-phb.md) | Dragonlance |
+| [Mishakal](3-Mechanics/CLI/deities/dragonlance-mishakal-phb.md) | Dragonlance |
 | Selûne | Forgotten Realms |
-| [Yondalla](/3-Mechanics/CLI/deities/nonhuman-yondalla.md) | Halfling |
+| [Yondalla](3-Mechanics/CLI/deities/nonhuman-yondalla.md) | Halfling |
 ^twilight-deities
 
-#### Domain Spells
-_Source: Tasha's Cauldron of Everything_
+## Subclass Features
+
+### Domain Spells (Level 3)
 
 *1st-level Twilight Domain feature*
 
@@ -81,11 +78,11 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md) |
-| 3rd | [moonbeam](/3-Mechanics/CLI/spells/moonbeam-xphb.md), [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md) |
-| 5th | [aura of vitality](/3-Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Leomund's tiny hut](/3-Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md) |
-| 7th | [aura of life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md), [greater invisibility](/3-Mechanics/CLI/spells/greater-invisibility-xphb.md) |
-| 9th | [circle of power](/3-Mechanics/CLI/spells/circle-of-power-xphb.md), [mislead](/3-Mechanics/CLI/spells/mislead-xphb.md) |
+| 1st | [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md) |
+| 3rd | [moonbeam](3-Mechanics/CLI/spells/moonbeam-xphb.md), [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md) |
+| 5th | [aura of vitality](3-Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Leomund's tiny hut](3-Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md) |
+| 7th | [aura of life](3-Mechanics/CLI/spells/aura-of-life-xphb.md), [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md) |
+| 9th | [circle of power](3-Mechanics/CLI/spells/circle-of-power-xphb.md), [mislead](3-Mechanics/CLI/spells/mislead-xphb.md) |
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -98,9 +95,9 @@ You gain proficiency with martial weapons and heavy armor.
 
 *1st-level Twilight Domain feature*
 
-You can see through the deepest gloom. You have [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
+You can see through the deepest gloom. You have [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
-As an action, you can magically share the [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](/3-Mechanics/CLI/senses.md#Darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
+As an action, you can magically share the [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
 
 ### Vigilant Blessing (Level 1)
 
@@ -114,10 +111,10 @@ The night has taught you to be vigilant. As an action, you give one creature you
 
 You can use your Channel Divinity to refresh your allies with soothing twilight.
 
-As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
+As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it temporary hit points equal to `dice:1d6|noform|noparens|avg` (`1d6`) plus your cleric level.  
-- You end one effect on it causing it to be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) or [frightened](/3-Mechanics/CLI/conditions.md#Frightened).  
+- You grant it temporary hit points equal to `1d6` plus your cleric level.  
+- You end one effect on it causing it to be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened).  
 
 ### Steps of Night (Level 6)
 

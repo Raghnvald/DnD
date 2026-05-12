@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Insect
+- "Giant Insect"
 ---
-# [Giant Insect](3-Mechanics\CLI\bestiary\beast/giant-insect-xphb.md)
+# [Giant Insect](3-Mechanics/CLI/bestiary/beast/giant-insect-xphb.md)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 
 ```statblock
@@ -30,8 +30,8 @@ aliases:
   - !!int "14"
   - !!int "3"
 "speed": "40 ft., climb 40 ft., fly 40 ft. (Wasp only)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "understands the languages you know"
 "traits":
   - "desc": "The insect can climb difficult surfaces, including along ceilings, without\
@@ -42,7 +42,8 @@ aliases:
       \ (round down)."
     "name": "Multiattack"
   - "desc": "*Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10\
-      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison damage."
+      \ ft. *Hit:* 1d6 + 3 + the spell's level Piercing damage plus 1d4 Poison\
+      \ damage."
     "name": "Poison Jab"
   - "desc": "*Ranged Attack Roll:* Bonus equals your spell attack modifier, range\
       \ 60 ft. *Hit:* 1d10 + 3 + the spell's level Bludgeoning damage, and the target's\
@@ -50,11 +51,11 @@ aliases:
     "name": "Web Bolt (Spider Only)"
 "bonus_actions":
   - "desc": "*Constitution Saving Throw:* Your spell save DC, one creature the insect\
-      \ can see within 10 feet. *Failure:* The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ can see within 10 feet. *Failure:* The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition until the start of the insect's next turn."
     "name": "Venomous Spew (Centipede Only)"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-insect-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-insect-xphb.webp"
 ```
 ^statblock

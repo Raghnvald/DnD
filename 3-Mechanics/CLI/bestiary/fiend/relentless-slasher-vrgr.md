@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Relentless Slasher
+- "Relentless Slasher"
 ---
-# [Relentless Slasher](3-Mechanics\CLI\bestiary\fiend/relentless-slasher-vrgr.md)
+# [Relentless Slasher](3-Mechanics/CLI/bestiary/fiend/relentless-slasher-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 242*  
 
 A relentless slasher conducts its bloody work in silence then vanishes into shadow and infamy. Fixated on a specific individual or type of victim, it pursues its target with single-minded obsession.
@@ -25,8 +25,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 
 **Relentless Origins**
 
-`dice: [](relentless-slasher-vrgr.md#^relentless-origins)`
-
 | dice: d6 | Origin |
 |----------|--------|
 | 1 | It was left for dead and granted new life to seek revenge. |
@@ -38,8 +36,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
 ^relentless-origins
 
 **Relentless Methods**
-
-`dice: [](relentless-slasher-vrgr.md#^relentless-methods)`
 
 | dice: d8 | Method |
 |----------|--------|
@@ -77,15 +73,15 @@ Relentless killers come into being and undertake their terrifying sprees for a s
   - "constitution": !!int "5"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+5"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 15"
 "languages": "understands all languages but can't speak"
 "cr": "8"
 "traits":
@@ -102,9 +98,9 @@ Relentless killers come into being and undertake their terrifying sprees for a s
       \ damage. If the target is a creature, it suffers a lingering wound that causes\
       \ it to take 7 (2d6) necrotic damage at the start of each of its turns. Each\
       \ time the slasher hits the wounded target with this attack, the damage dealt\
-      \ by the wound increases by 3 (1d6). The wound ends if the target regains hit\
-      \ points or if a creature uses an action to stanch the wound, which requires\
-      \ a successful DC 15 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine))\
+      \ by the wound increases by 3 (1d6). The wound ends if the target regains\
+      \ hit points or if a creature uses an action to stanch the wound, which requires\
+      \ a successful DC 15 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine))\
       \ check."
     "name": "Slasher's Knife"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
@@ -120,6 +116,6 @@ Relentless killers come into being and undertake their terrifying sprees for a s
     "name": "Vanishing Strike (Costs 3 Actions)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/relentless-slasher-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/relentless-slasher-vrgr.webp"
 ```
 ^statblock

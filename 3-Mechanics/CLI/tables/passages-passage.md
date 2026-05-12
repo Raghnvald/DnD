@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Passages; Passage
+- "Passages; Passage"
 ---
 # Passages; Passage
 *Source: Dungeon Master's Guide p. 290* 
 
 **Passage**
-
-`dice: [](passages-passage.md#^passage)`
 
 | dice: d20 | Detail |
 |-----------|--------|

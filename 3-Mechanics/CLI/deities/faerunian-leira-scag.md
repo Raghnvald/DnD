@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/trickery
-aliases: 
-- Leira
-- The Lady of the Mists
-- Mistshadow
-- The Lady of Deception
+aliases:
+- "Leira"
+- "The Lady of the Mists"
+- "Mistshadow"
+- "The Lady of Deception"
 ---
 # Leira
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-leira.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-leira.webp#symbol)
 
 - **Alternate Names**: The Lady of the Mists, Mistshadow, The Lady of Deception
 - **Alignment**: Chaotic Neutral

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Welcome to Eberron
+- "Welcome to Eberron"
 ---
 # Welcome to Eberron
 *Source: Eberron: Rising from the Last War, p. 4* 
@@ -56,7 +56,7 @@ What is Eberron? Here are the key things to know:
 
 **5. A World of Magic**. The technology of Eberron has developed not through the advance of science but by the mastery of magic. The widespread use of magic pervades life in the cities and towns. Airships and rail transport make rapid travel across the continent possible. A working class of minor mages, called magewrights, uses spells to provide energy and other necessities. Advances in magic item creation have led to everything from self-propelled farming implements to sentient, free-willed beings created in artificers' forges. With the aid of rare crystals called dragonshards, dragonmarks can be made more powerful, elementals can be controlled and harnessed, and magic items can be crafted and shaped.
 
-**6. New Races**. In addition to the common player character races found in the "Player's Handbook", players can choose to play orc or goblinoid characters in Eberron. Or they can choose one of four new races: [changelings](/3-Mechanics/CLI/races/changeling-erlw.md), [kalashtar](/3-Mechanics/CLI/races/kalashtar-erlw.md), [shifters](/3-Mechanics/CLI/races/shifter-erlw.md), and [warforged](/3-Mechanics/CLI/races/warforged-erlw.md). Changelings have minor shapechanging abilities similar to those of doppelgangers. Kalashtar are planar entities merged with human hosts, giving them telepathic abilities. Shifters developed from the mixing of humans and lycanthropes, a union that grants them limited bestial abilities and feral instincts. The warforged are a constructed race created during the Last War, seeking to find its place in a post-war world.
+**6. New Races**. In addition to the common player character races found in the "Player's Handbook", players can choose to play orc or goblinoid characters in Eberron. Or they can choose one of four new races: [changelings](3-Mechanics/CLI/races/changeling-efa.md), [kalashtar](3-Mechanics/CLI/races/kalashtar-efa.md), [shifters](3-Mechanics/CLI/races/shifter-efa.md), and [warforged](3-Mechanics/CLI/races/warforged-efa.md). Changelings have minor shapechanging abilities similar to those of doppelgangers. Kalashtar are planar entities merged with human hosts, giving them telepathic abilities. Shifters developed from the mixing of humans and lycanthropes, a union that grants them limited bestial abilities and feral instincts. The warforged are a constructed race created during the Last War, seeking to find its place in a post-war world.
 
 **7. D&D with a Twist**. Every race, monster, spell, and magic item in the "Player's Handbook", "Dungeon Master's Guide", and "Monster Manual" has a place somewhere in Eberron, but it might not be the place you expect. Eberron has a unique spot in the D&D multiverse, and many familiar elements of the game play different roles in the world. In particular, mortal creatures are products of culture and circumstances, rather than the direct influence of the gods. As a result, you can't assume that a gold dragon is good or a beholder is evil; only in the case of celestials, fiends, and certain other creatures whose identity and worldview are shaped by magic (such as the curse of lycanthropy) is alignment a given.
 
@@ -92,9 +92,9 @@ Common is the language of the Five Nations and the language of trade in Khorvair
 
 With the DM's approval, you can exchange a language granted by your race for a different language from the Standard Languages of Eberron table. If your halfling was raised in the Mror Holds, you might replace Halfling with Dwarvish to reflect that background. The DM may change the languages assigned to a monster or NPC. An ogre from Droaam likely speaks Goblin instead of Giant.
 
-![Standard Languages of Eberron](/3-Mechanics/CLI/tables/standard-languages-of-eberron-erlw.md)
+![Standard Languages of Eberron](3-Mechanics/CLI/tables/standard-languages-of-eberron-erlw.md)
 
-![Exotic Languages of Eberron](/3-Mechanics/CLI/tables/exotic-languages-of-eberron-erlw.md)
+![Exotic Languages of Eberron](3-Mechanics/CLI/tables/exotic-languages-of-eberron-erlw.md)
 
 ### Names and Surnames
 
@@ -114,7 +114,7 @@ The seven days of the week, in order, are Sul, Mol, Zol, Wir, Zor, Far, Sar.
 
 The common calendar of Khorvaire tracks the years since the founding of the kingdom of Galifar, using the abbreviation YK. The last king of Galifar, Jarot ir'Wynarn, died on 12 Therendor 894 YK. The Day of Mourning occurred a century later, on 20 Olarune 994 YK. By default, a new Eberron campaign begins on 1 Zarantyr 998 YK.
 
-![Calendar; Eberron Months](/3-Mechanics/CLI/tables/calendar-eberron-months-erlw.md)
+![Calendar; Eberron Months](3-Mechanics/CLI/tables/calendar-eberron-months-erlw.md)
 
 ### Currency
 
@@ -140,7 +140,7 @@ Lightning rails, airships, and other forms of transportation facilitate travel t
 
 ### Remarkable Heroes
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/000-0-01.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/000-0-01.webp#center)
 
 Eberron is a world in need of heroes. Lingering tensions of war remain. From the fanatics of the Emerald Claw and the mad cults of the Dragon Below to the flesh-warping daelkyr and ancient archfiends, Eberron faces many threats, and few people besides the player characters are able to stop them. The gods are distant and don't directly intervene. The Silver Flame is a divine force of light, but it can act only through mortal champions. The few powerful benevolent NPCs have limitations: the Keeper of the Flame loses her powers if she leaves her citadel. The Great Druid, the spiritual leader of the Eldeen Reaches, is a tree. Most of the powerful people in the world focus on selfish goals. If an angry dragon attacks Sharn, there's no one else to deal with the problem: the fate of the city is in your hands.
 
@@ -165,7 +165,7 @@ Eberron draws inspiration from noir and hard-boiled fiction. It's a world where 
 
 Player characters are remarkable people, but they aren't perfect. As you consider a flaw for your character, you can add a little hard-boiled flavor by considering the past: Did you make a tragic mistake, and if so, is it something you can ever undo? Did you hurt or betray someone who now seeks revenge? The Regrets table provides a few examples of missteps that might haunt you.
 
-![Everyone Has Regrets; Regrets](/3-Mechanics/CLI/tables/everyone-has-regrets-regrets-erlw.md)
+![Everyone Has Regrets; Regrets](3-Mechanics/CLI/tables/everyone-has-regrets-regrets-erlw.md)
 
 #### Why Do You Need 200 Gold Pieces?
 
@@ -175,7 +175,7 @@ Why would you want to take on a debt? The obligation adds depth to a character a
 
 Establishing a debt requires collaboration and approval by both player and DM. Work together to develop the details: Who's blackmailing you? Which secret society are you trying to join? What's the story behind the magic item you've pawned, and what sort of item is it? You can present ideas, but the DM has final approval.
 
-![Why Do You Need 200 Gold Pieces?; Debts](/3-Mechanics/CLI/tables/why-do-you-need-200-gold-pieces-debts-erlw.md)
+![Why Do You Need 200 Gold Pieces?; Debts](3-Mechanics/CLI/tables/why-do-you-need-200-gold-pieces-debts-erlw.md)
 
 ### Personal Motives
 
@@ -217,21 +217,21 @@ The Courier's Guild of House Orien operates a mail service, carrying messages an
 
 If security is particularly important, House Sivis can protect written messages using magic, such as the illusory script spell, and House Kundarak can secure packages with the glyph of warding spell.
 
-The gnomes of House Sivis also maintain a network of [speaking stones](/3-Mechanics/CLI/items/speaking-stone-erlw.md) (described in "chapter 5") to facilitate instantaneous communication across long distances. Short messages pass from one stone to another one within a network of message stations.
+The gnomes of House Sivis also maintain a network of [speaking stones](3-Mechanics/CLI/items/speaking-stone-erlw.md) (described in "chapter 5") to facilitate instantaneous communication across long distances. Short messages pass from one stone to another one within a network of message stations.
 
 The Communication and Security Services table shows typical prices.
 
-![Communication and Security Services](/3-Mechanics/CLI/tables/communication-and-security-services-erlw.md)
+![Communication and Security Services](3-Mechanics/CLI/tables/communication-and-security-services-erlw.md)
 
 ### Convenience
 
-In the cities of Khorvaire, magic provides a host of minor conveniences. [Everbright lanterns](/3-Mechanics/CLI/items/everbright-lantern-erlw.md) (described in "chapter 5") light the streets. A chef heats a pot of stew with a whispered incantation, while magic amplifies a town crier's voice. The various effects produced by prestidigitation—heating, cooling, cleaning, and minor illusion—all enhance daily life in the cities.
+In the cities of Khorvaire, magic provides a host of minor conveniences. [Everbright lanterns](3-Mechanics/CLI/items/everbright-lantern-erlw.md) (described in "chapter 5") light the streets. A chef heats a pot of stew with a whispered incantation, while magic amplifies a town crier's voice. The various effects produced by prestidigitation—heating, cooling, cleaning, and minor illusion—all enhance daily life in the cities.
 
 ### Entertainment and Fashion
 
 Theaters employ cantrips to amplify sound and focus lighting. Grander performances incorporate illusions, creating special effects to thrill audiences, and other spells allow actors to perform amazing stunts. Dream parlors focus on entirely illusory entertainment.
 
-Those with the inclination to display their wealth wear [glamerweave](/3-Mechanics/CLI/items/glamerweave-erlw.md), clothing imbued with illusion (presented in chapter 5). This can involve moving images, such as a cloak lined with glittering stars or a gown with a pattern of flames; the wearer might even adjust the intensity of these flames with a word. Expensive [glamerweave](/3-Mechanics/CLI/items/glamerweave-erlw.md) can produce more elaborate effects, such as a gown that appears to be made of blooming flowers. [Glamerweave](/3-Mechanics/CLI/items/glamerweave-erlw.md) can also create abstract effects that slowly shift colors or shimmer with a subtle glow.
+Those with the inclination to display their wealth wear [glamerweave](3-Mechanics/CLI/items/glamerweave-erlw.md), clothing imbued with illusion (presented in chapter 5). This can involve moving images, such as a cloak lined with glittering stars or a gown with a pattern of flames; the wearer might even adjust the intensity of these flames with a word. Expensive [glamerweave](3-Mechanics/CLI/items/glamerweave-erlw.md) can produce more elaborate effects, such as a gown that appears to be made of blooming flowers. [Glamerweave](3-Mechanics/CLI/items/glamerweave-erlw.md) can also create abstract effects that slowly shift colors or shimmer with a subtle glow.
 
 ### Medicine
 
@@ -239,11 +239,11 @@ The dragonmarked House Jorasco maintains houses of healing across Khorvaire. The
 
 The Healing Services table summarizes typical prices for the services provided by House Jorasco.
 
-![Medicine; Healing Services](/3-Mechanics/CLI/tables/medicine-healing-services-erlw.md)
+![Medicine; Healing Services](3-Mechanics/CLI/tables/medicine-healing-services-erlw.md)
 
 ### Transportation
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/001-0-02.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/001-0-02.webp#center)
 
 An excellent system of roads connects the central nations of Khorvaire. Travelers can always make their way by horse or coach, which might employ draft animals magebred by House Vadalis for speed or endurance. House Vadalis also supplies exotic mounts such as hippogriffs and griffons. Elemental galleons use bound air or water elementals to propel them.
 
@@ -255,7 +255,7 @@ For those with no time to spare and plenty of money to spend, House Orien also h
 
 The Travel Services table summarizes the cost of traveling by these extraordinary means.
 
-![Transportation; Travel Services](/3-Mechanics/CLI/tables/transportation-travel-services-erlw.md)
+![Transportation; Travel Services](3-Mechanics/CLI/tables/transportation-travel-services-erlw.md)
 
 ### Warfare
 
@@ -267,7 +267,7 @@ In the final decades of the war, House Cannith created the warforged: tireless s
 
 ## The Last War
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/002-0-03.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/002-0-03.webp#center)
 
 For hundreds of years, the continent of Khorvaire was united under the kingdom of Galifar. This peace came to an end with the death of King Jarot in 894 YK, just over a century ago. Conflict over the succession spiraled into outright war between the Five Nations.
 
@@ -346,7 +346,7 @@ A DM should consider whether the mystery of the Mourning can be solved and what 
 
 ## The Draconic Prophecy
 
-![](/3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/003-0-04.webp#center)
+![](3-Mechanics/CLI/books/eberron-rising-from-the-last-war/img/003-0-04.webp#center)
 
 There are patterns hidden in the world. Secrets lie in the conjunctions of the planes and moons, in strange symbols formed by the flowing lava of a volcanic eruption or the fissures caused by an earthquake. Carved in the walls of ancient citadels and on primeval megaliths, knot patterns appear to have meaning that only the contemplative mind can hope to comprehend. To those who can read them, these myriad events and signs form a map of possible futures, a map that can be used to shape the course of history.
 

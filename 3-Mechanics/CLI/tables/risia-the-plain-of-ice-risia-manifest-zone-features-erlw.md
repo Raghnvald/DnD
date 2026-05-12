@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Risia, the Plain of Ice; Risia Manifest Zone Features
+- "Risia, the Plain of Ice; Risia Manifest Zone Features"
 ---
 # Risia, the Plain of Ice; Risia Manifest Zone Features
 *Source: Eberron: Rising from the Last War p. 231* 
 
 **Risia Manifest Zone Features**
-
-`dice: [](risia-the-plain-of-ice-risia-manifest-zone-features-erlw.md#^risia-manifest-zone-features)`
 
 | dice: d4 | Feature |
 |----------|---------|

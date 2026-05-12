@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Marilith
+- "Marilith"
 ---
-# [Marilith](3-Mechanics\CLI\bestiary\fiend/marilith.md)
-*Source: Monster Manual p. 61, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Marilith](3-Mechanics/CLI/bestiary/fiend/marilith.md)
+*Source: Monster Manual p. 61. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
 
@@ -163,7 +163,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -217,8 +217,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[longsword](3-Mechanics/CLI/items/longsword.md)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "16"
 "traits":
@@ -237,8 +240,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ (2d8 + 4) slashing damage."
     "name": "Longsword"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is\
-      \ grappled (escape DC 19). Until this grapple ends, the target is restrained,\
+      \ 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it\
+      \ is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 19).\
+      \ Until this grapple ends, the target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
       \ the marilith can automatically hit the target with its tail, and the marilith\
       \ can't make tail attacks against other targets."
     "name": "Tail"
@@ -251,7 +255,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/marilith.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/marilith.webp"
 ```
 ^statblock

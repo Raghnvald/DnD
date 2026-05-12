@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – Greek, Female
+- "Human Names – Greek, Female"
 ---
 # Human Names – Greek, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – Greek, Female**
-
-`dice: [](human-names-greek-female-xge.md#^human-names-greek-female)`
 
 | dice: d100 | Name |
 |------------|------|

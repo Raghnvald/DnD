@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/dawn-war
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/trickery
-aliases: 
-- Zehir
+aliases:
+- "Zehir"
 ---
 # Zehir
 *Source: Dungeon Master's Guide p. 10* 

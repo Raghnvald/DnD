@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/wondrous/ring
-aliases: 
+aliases:
 - "Horned Ring"
 ---
 # Horned Ring

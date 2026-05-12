@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/race/orc
 aliases:
-- Orc
+- "Orc"
 ---
 # Orc
 *Source: Dungeon Master's Guide p. 282*  

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ox
+- "Ox"
 ---
-# [Ox](3-Mechanics\CLI\bestiary\beast/ox-mpmm.md)
+# [Ox](3-Mechanics/CLI/bestiary/beast/ox-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
@@ -49,15 +49,15 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
       \ its carrying capacity."
     "name": "Beast of Burden"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage. If the ox moved at least 20 feet straight toward the\
-      \ target immediately before the hit, the target takes an extra 7 (2d6) piercing\
-      \ damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage. If the ox moved at least 20 feet straight toward\
+      \ the target immediately before the hit, the target takes an extra 7 (2d6)\
+      \ piercing damage."
     "name": "Gore"
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rabbithead
+- "Rabbithead"
 ---
-# [Rabbithead](3-Mechanics\CLI\bestiary\npc/rabbithead-wdmm.md)
+# [Rabbithead](3-Mechanics/CLI/bestiary/npc/rabbithead-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 295*  
 
 ```statblock
@@ -33,11 +33,13 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club-xphb.md)"
 "senses": "passive Perception 10"
 "languages": ""
 "cr": "0"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/rabbithead-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/rabbithead-wdmm.webp"
 ```
 ^statblock

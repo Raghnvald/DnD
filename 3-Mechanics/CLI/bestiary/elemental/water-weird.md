@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Water Weird
+- "Water Weird"
 ---
-# [Water Weird](3-Mechanics\CLI\bestiary\elemental/water-weird.md)
+# [Water Weird](3-Mechanics/CLI/bestiary/elemental/water-weird.md)
 *Source: Monster Manual p. 299*  
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
@@ -25,7 +25,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](/3-Mechanics/CLI/spells/purify-food-and-drink.md) spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](3-Mechanics/CLI/spells/purify-food-and-drink.md) spell.
 
 ## Elemental Nature
 
@@ -55,16 +55,16 @@ A water weird doesn't require air, food, drink, or sleep.
 "speed": "0 ft., swim 60 ft."
 "damage_resistances": "fire; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive\
+  \ Perception 10"
 "languages": "understands Aquan but doesn't speak"
 "cr": "3"
 "traits":
-  - "desc": "The water weird is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)\
+  - "desc": "The water weird is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)\
       \ while fully immersed in water."
     "name": "Invisible in Water"
   - "desc": "The water weird dies if it leaves the water to which it is bound or if\
@@ -72,15 +72,15 @@ A water weird doesn't require air, food, drink, or sleep.
     "name": "Water Bound"
 "actions":
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it is\
-      \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled) (escape DC 13) and pulled\
-      \ 5 feet toward the water weird. Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-      \ the water weird tries to drown it, and the water weird can't constrict another\
-      \ target."
+      \ 13 (3d6 + 3) bludgeoning damage. If the target is Medium or smaller, it\
+      \ is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13)\
+      \ and pulled 5 feet toward the water weird. Until this grapple ends, the target\
+      \ is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), the water\
+      \ weird tries to drown it, and the water weird can't constrict another target."
     "name": "Constrict"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/water-weird.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/water-weird.webp"
 ```
 ^statblock
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Gothic Horror Adventure Sites
+- "Gothic Horror Adventure Sites"
 ---
 # Gothic Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 57* 
 
 **Gothic Horror Adventure Sites**
-
-`dice: [](gothic-horror-adventure-sites-vrgr.md#^gothic-horror-adventure-sites)`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

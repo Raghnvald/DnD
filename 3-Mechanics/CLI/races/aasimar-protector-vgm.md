@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/aasimar/protector
 aliases:
-- Aasimar (Protector)
+- "Aasimar (Protector)"
 ---
 # Aasimar (Protector)
 *Source: Volo's Guide to Monsters p. 105, Explorer's Guide to Wildemount p. 166*  
-![](/3-Mechanics/CLI/races/img/aasimar.webp#right)
+![](3-Mechanics/CLI/races/img/aasimar.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Medium

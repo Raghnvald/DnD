@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Storm Giant Strength"
 ---
 # Potion of Storm Giant Strength
 *Potion, legendary*  
-
+![](3-Mechanics/CLI/items/img/potion-of-storm-giant-strength.webp#right)
 
 - **Weight**: 0.5 lbs.
 

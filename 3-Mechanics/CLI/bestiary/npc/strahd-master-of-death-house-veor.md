@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Strahd, Master of Death House
+- "Strahd, Master of Death House"
 ---
-# [Strahd, Master of Death House](3-Mechanics\CLI\bestiary\npc/strahd-master-of-death-house-veor.md)
+# [Strahd, Master of Death House](3-Mechanics/CLI/bestiary/npc/strahd-master-of-death-house-veor.md)
 *Source: Vecna: Eve of Ruin p. 251*  
 
 Strahd von Zarovich is the Darklord of Barovia, a Domain of Dread. Little happens there without the Darklord's knowledge, although Strahd rarely pays attention to what he considers the uninteresting dealings of lesser beings.
@@ -48,16 +48,17 @@ Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his in
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+15"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+12"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+10"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+14"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 120 ft., passive Perception 22"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 22"
 "languages": "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
 "cr": "15"
 "traits":
@@ -85,43 +86,48 @@ Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his in
   - "desc": "Strahd makes two Death Strike attacks. He can replace one of these attacks\
       \ with Blighted Fire if available."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) slashing damage plus 14 (4d6) necrotic damage. If the target is a creature,\
-      \ Strahd can forgo dealing slashing damage; the target then has the grappled\
-      \ condition (escape DC 18) instead. Strahd can grapple only one creature at\
-      \ a time."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) slashing damage plus 14 (4d6) necrotic damage. If the target\
+      \ is a creature, Strahd can forgo dealing slashing damage; the target then has\
+      \ the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) condition (escape\
+      \ DC 18) instead. Strahd can grapple only one creature at a time."
     "name": "Death Strike"
   - "desc": "Strahd summons shadowy, necrotic fire that fills a 20-foot-radius sphere\
       \ centered on a point he can see within 90 feet of himself. Each creature in\
-      \ that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) fire damage\
-      \ plus 14 (4d6) necrotic damage on a failed save or half as much damage on a\
-      \ successful one."
+      \ that area must make a DC 18 Dexterity saving throw, taking 14 (4d6) fire\
+      \ damage plus 14 (4d6) necrotic damage on a failed save or half as much damage\
+      \ on a successful one."
     "name": "Blighted Fire (Recharge 5-6)"
   - "desc": "Strahd targets one Humanoid he can see within 30 feet of himself. The\
-      \ target must succeed on a DC 17 Wisdom saving throw or have the charmed condition.\
-      \ The charmed target regards Strahd as a trusted friend to be heeded and protected.\
-      \ The target isn't under Strahd's control, but it takes Strahd's requests and\
-      \ actions in the most favorable way.\n\nEach time Strahd or his companions deal\
-      \ damage to the target, it can repeat the saving throw, ending the effect on\
-      \ itself on a success. Otherwise, the effect lasts 24 hours or until Strahd\
-      \ is reduced to 0 hit points, is on a different plane of existence than the\
-      \ target, or uses a bonus action to end the effect."
+      \ target must succeed on a DC 17 Wisdom saving throw or have the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ condition. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
+      \ regards Strahd as a trusted friend to be heeded and protected. The target\
+      \ isn't under Strahd's control, but it takes Strahd's requests and actions in\
+      \ the most favorable way.\n\nEach time Strahd or his companions deal damage\
+      \ to the target, it can repeat the saving throw, ending the effect on itself\
+      \ on a success. Otherwise, the effect lasts 24 hours or until Strahd is reduced\
+      \ to 0 hit points, is on a different plane of existence than the target, or\
+      \ uses a bonus action to end the effect."
     "name": "Charm"
   - "desc": "Strahd casts one of the following spells, using Intelligence as the spellcasting\
-      \ ability (spell save DC 18):\n\n**At will:** Detect Thoughts, Fog Cloud, Mage\
-      \ Hand\n\n**2/day each:** Animate Dead (as an action), Gust of Wind, Mirror\
-      \ Image, Nondetection\n\n**1/day each:** Greater Invisibility, Polymorph, Scrying\
+      \ ability (spell save DC 18):\n\n**At will:** [Detect Thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\n\
+      \n**2/day each:** [Animate Dead](3-Mechanics/CLI/spells/animate-dead-xphb.md)\
+      \ (as an action), [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [Mirror Image](3-Mechanics/CLI/spells/mirror-image-xphb.md), [Nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\n\
+      \n**1/day each:** [Greater Invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md),\
+      \ [Polymorph](3-Mechanics/CLI/spells/polymorph-xphb.md), [Scrying](3-Mechanics/CLI/spells/scrying-xphb.md)\
       \ (as an action)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature that has\
-      \ the charmed or grappled condition. *Hit:* 7 (1d6 + 4) piercing damage plus\
-      \ 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an\
-      \ amount equal to the necrotic damage taken, and Strahd regains a number of\
-      \ hit points equal to that amount. The reduction lasts until the target finishes\
-      \ a long rest. The target dies if its hit point maximum is reduced to 0. A Humanoid\
-      \ slain in this way and then buried rises the following night as a vampire spawn\
-      \ under Strahd's control."
+      \ the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) or [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition. *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage.\
+      \ The target's hit point maximum is reduced by an amount equal to the necrotic\
+      \ damage taken, and Strahd regains a number of hit points equal to that amount.\
+      \ The reduction lasts until the target finishes a long rest. The target dies\
+      \ if its hit point maximum is reduced to 0. A Humanoid slain in this way and\
+      \ then buried rises the following night as a vampire spawn under Strahd's control."
     "name": "Bite"
   - "desc": "Strahd transforms into a new form or back into his true form. Anything\
       \ he is wearing transforms with him, but nothing he is carrying does. He reverts\
@@ -151,6 +157,6 @@ Now the Dark Powers keep Strahd trapped in his realm, tormenting him with his in
     "name": "Strike (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/strahd-master-of-death-house-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/strahd-master-of-death-house-veor.webp"
 ```
 ^statblock

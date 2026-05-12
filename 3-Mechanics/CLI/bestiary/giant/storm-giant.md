@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant
+- "Storm Giant"
 ---
-# [Storm Giant](3-Mechanics\CLI\bestiary\giant/storm-giant.md)
+# [Storm Giant](3-Mechanics/CLI/bestiary/giant/storm-giant.md)
 *Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
@@ -83,7 +83,7 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "16"
-"ac_class": "[scale mail](/3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
 "hp": !!int "230"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -101,46 +101,48 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+14"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
   - "desc": "The giant's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic.md), [feather\
-      \ fall](/3-Mechanics/CLI/spells/feather-fall.md), [levitate](/3-Mechanics/CLI/spells/levitate.md),\
-      \ [light](/3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [control weather](/3-Mechanics/CLI/spells/control-weather.md),\
-      \ [water breathing](/3-Mechanics/CLI/spells/water-breathing.md)"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall.md), [levitate](3-Mechanics/CLI/spells/levitate.md),\
+      \ [light](3-Mechanics/CLI/spells/light.md)\n\n**3/day each:** [control weather](3-Mechanics/CLI/spells/control-weather.md),\
+      \ [water breathing](3-Mechanics/CLI/spells/water-breathing.md)"
     "name": "Innate Spellcasting"
   - "desc": "The giant can breathe air and water."
     "name": "Amphibious"
 "actions":
   - "desc": "The giant makes two greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30\
-      \ (6d6 + 9) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 30 (6d6 + 9) slashing damage."
     "name": "Greatsword"
   - "desc": "*Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:*\
       \ 35 (4d12 + 9) bludgeoning damage."
     "name": "Rock"
   - "desc": "The giant hurls a magical lightning bolt at a point it can see within\
       \ 500 feet of it. Each creature within 10 feet of that point must make a DC\
-      \ 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save,\
-      \ or half as much damage on a successful one."
+      \ 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed\
+      \ save, or half as much damage on a successful one."
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/storm-giant.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/storm-giant.webp"
 ```
 ^statblock
 

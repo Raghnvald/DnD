@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warforged Warrior
+- "Warforged Warrior"
 ---
-# [Warforged Warrior](3-Mechanics\CLI\bestiary\construct/warforged-warrior-veor.md)
+# [Warforged Warrior](3-Mechanics/CLI/bestiary/construct/warforged-warrior-veor.md)
 *Source: Vecna: Eve of Ruin p. 238*  
 
 Warforged warriors are formed from wood and steel, then magically imbued with life and sentience. They were created to fight in the Last War on the continent of Khorvaire in Eberron. In the aftermath of that conflict, they struggle to understand their place in the world.
@@ -36,22 +36,24 @@ Warforged warriors are formed from wood and steel, then magically imbued with li
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+4"
 "damage_resistances": "poison"
-"condition_immunities": "poisoned"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common"
 "cr": "1"
 "actions":
   - "desc": "The warforged makes two Armblade attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Armblade"
   - "desc": "*Melee  or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 6 (1d6 + 3) piercing damage."
@@ -63,6 +65,6 @@ Warforged warriors are formed from wood and steel, then magically imbued with li
     "name": "Protection"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/warforged-warrior-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/warforged-warrior-veor.webp"
 ```
 ^statblock

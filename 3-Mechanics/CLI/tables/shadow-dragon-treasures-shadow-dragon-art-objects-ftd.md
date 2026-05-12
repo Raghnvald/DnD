@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Shadow Dragon Treasures; Shadow Dragon Art Objects
+- "Shadow Dragon Treasures; Shadow Dragon Art Objects"
 ---
 # Shadow Dragon Treasures; Shadow Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 144* 
 
 **Shadow Dragon Art Objects**
-
-`dice: [](shadow-dragon-treasures-shadow-dragon-art-objects-ftd.md#^shadow-dragon-art-objects)`
 
 | dice: d10 | Object |
 |-----------|--------|

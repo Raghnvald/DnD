@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/very-rare
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Tome of Understanding"
 ---
 # Tome of Understanding
 *Wondrous item, major, very rare*  
-![](/3-Mechanics/CLI/items/img/tome-of-understanding.webp#right)
+![](3-Mechanics/CLI/items/img/tome-of-understanding.webp#right)
 
 - **Weight**: 5.0 lbs.
 

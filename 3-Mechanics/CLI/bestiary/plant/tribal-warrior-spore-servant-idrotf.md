@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-8
-- new/monster/size/medium
-- new/monster/type/plant
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tribal Warrior Spore Servant
+- "Tribal Warrior Spore Servant"
 ---
-# [Tribal Warrior Spore Servant](3-Mechanics\CLI\bestiary\plant/tribal-warrior-spore-servant-idrotf.md)
+# [Tribal Warrior Spore Servant](3-Mechanics/CLI/bestiary/plant/tribal-warrior-spore-servant-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 52*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "plant"
 "alignment": "Unaligned"
 "ac": !!int "12"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "0"
@@ -33,8 +33,12 @@ aliases:
   - !!int "6"
   - !!int "1"
 "speed": "20 ft."
-"condition_immunities": "blinded, charmed, frightened, paralyzed"
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 10"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 10"
 "languages": ""
 "cr": "1/8"
 "actions":
@@ -44,6 +48,6 @@ aliases:
     "name": "Spear"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/tribal-warrior-spore-servant-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/tribal-warrior-spore-servant-idrotf.webp"
 ```
 ^statblock

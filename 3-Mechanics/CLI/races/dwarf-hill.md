@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/race/dwarf/hill
 aliases:
-- Dwarf (Hill)
+- "Dwarf (Hill)"
 ---
 # Dwarf (Hill)
 *Source: Player's Handbook p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
-![](/3-Mechanics/CLI/races/img/dwarf.webp#right)
+![](3-Mechanics/CLI/races/img/dwarf.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Medium
@@ -40,15 +40,15 @@ You have advantage on saving throws against poison, and you have resistance agai
 
 ### Dwarven Combat Training
 
-You have proficiency with the [battleaxe](/3-Mechanics/CLI/items/battleaxe.md), [handaxe](/3-Mechanics/CLI/items/handaxe.md), [light hammer](/3-Mechanics/CLI/items/light-hammer.md), and [warhammer](/3-Mechanics/CLI/items/warhammer.md).
+You have proficiency with the [battleaxe](3-Mechanics/CLI/items/battleaxe.md), [handaxe](3-Mechanics/CLI/items/handaxe.md), [light hammer](3-Mechanics/CLI/items/light-hammer.md), and [warhammer](3-Mechanics/CLI/items/warhammer.md).
 
 ### Tool Proficiency
 
-You gain proficiency with the artisan's tools of your choice: [Smith's tools](/3-Mechanics/CLI/items/smiths-tools.md), [brewer's supplies](/3-Mechanics/CLI/items/brewers-supplies.md), or [mason's tools](/3-Mechanics/CLI/items/masons-tools.md).
+You gain proficiency with the [artisan's tools](3-Mechanics/CLI/items/artisans-tools.md) of your choice: [Smith's tools](3-Mechanics/CLI/items/smiths-tools.md), [brewer's supplies](3-Mechanics/CLI/items/brewers-supplies.md), or [mason's tools](3-Mechanics/CLI/items/masons-tools.md).
 
 ### Stonecunning
 
-Whenever you make an Intelligence ([History](/3-Mechanics/CLI/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](/3-Mechanics/CLI/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
+Whenever you make an Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check related to the origin of stonework, you are considered proficient in the [History](3-Mechanics/CLI/rules/skills.md#History) skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ### Languages
 

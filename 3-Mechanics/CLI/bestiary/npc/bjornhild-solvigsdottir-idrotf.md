@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bjornhild Solvigsdottir
+- "Bjornhild Solvigsdottir"
 ---
-# [Bjornhild Solvigsdottir](3-Mechanics\CLI\bestiary\npc/bjornhild-solvigsdottir-idrotf.md)
+# [Bjornhild Solvigsdottir](3-Mechanics/CLI/bestiary/npc/bjornhild-solvigsdottir-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 306*  
 
 It's unusual for a woman to lead a Reghed tribe, but Bjornhild is a most extraordinary woman. The fearless wife of the late King Korold, she fought alongside him in many battles. After a frost giant's mammoth companion slew Korold, the formidable Bjornhild took his place.
@@ -28,7 +28,7 @@ As if she weren't fearsome enough, Bjornhild has a pet saber-toothed tiger named
 "subtype": "human"
 "alignment": "Neutral Evil"
 "ac": !!int "12"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "102"
 "hit_dice": "12d8 + 48"
 "modifier": !!int "0"
@@ -41,12 +41,15 @@ As if she weren't fearsome enough, Bjornhild has a pet saber-toothed tiger named
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+3"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Yeti"
 "cr": "5"
@@ -58,8 +61,8 @@ As if she weren't fearsome enough, Bjornhild has a pet saber-toothed tiger named
   - "desc": "Bjornhild makes two melee attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d12 + 4) slashing damage, plus 11 (2d10) cold damage if Bjornhild uses Auril's\
-      \ Blessing."
+      \ (1d12 + 4) slashing damage, plus 11 (2d10) cold damage if Bjornhild uses\
+      \ Auril's Blessing."
     "name": "Greataxe"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing\
@@ -68,6 +71,6 @@ As if she weren't fearsome enough, Bjornhild has a pet saber-toothed tiger named
     "name": "Spear"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/bjornhild-solvigsdottir-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/bjornhild-solvigsdottir-idrotf.webp"
 ```
 ^statblock

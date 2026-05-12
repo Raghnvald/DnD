@@ -4,10 +4,11 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/egw
+- ttrpg-cli/spell/feat/adept-of-the-red-robes
 - ttrpg-cli/spell/level/2nd-level
 - ttrpg-cli/spell/school/transmutation
 aliases:
-- Immovable Object
+- "Immovable Object"
 ---
 # Immovable Object
 *2nd-level, Transmutation*  

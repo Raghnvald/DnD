@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/common
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Smoldering Armor"
 - "Smoldering Breastplate"
 - "Smoldering Chain Mail"

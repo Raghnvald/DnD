@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/13
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/13
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Princess Serissa
+- "Princess Serissa"
 ---
-# [Princess Serissa](3-Mechanics\CLI\bestiary\npc/princess-serissa-skt.md)
+# [Princess Serissa](3-Mechanics/CLI/bestiary/npc/princess-serissa-skt.md)
 *Source: Storm King's Thunder p. 209*  
 
 ```statblock
@@ -21,7 +21,7 @@ aliases:
 "type": "giant"
 "alignment": "Chaotic Good"
 "ac": !!int "14"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor-xphb.md)"
 "hp": !!int "200"
 "hit_dice": "20d12 + 100"
 "modifier": !!int "2"
@@ -39,32 +39,36 @@ aliases:
   - "wisdom": !!int "9"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+8"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+14"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+8"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common, Giant"
 "cr": "13"
 "traits":
   - "desc": "Serissa's innate spellcasting ability is Charisma (spell save DC 17).\
       \ It can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** detect magic, feather fall, levitate, light\n\n**3/day each:**\
-      \ control weather, water breathing"
+      \n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [feather fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [control\
+      \ weather](3-Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](3-Mechanics/CLI/spells/water-breathing-xphb.md)"
     "name": "Innate Spellcasting"
   - "desc": "Serissa can breathe air and water."
     "name": "Amphibious"
 "actions":
   - "desc": "Serissa makes two maul attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30\
-      \ (6d6 + 9) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 30 (6d6 + 9) bludgeoning damage."
     "name": "Maul"
   - "desc": "*Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:*\
       \ 35 (4d12 + 9) bludgeoning damage."
@@ -76,6 +80,6 @@ aliases:
     "name": "Lightning Strike (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/princess-serissa-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/princess-serissa-skt.webp"
 ```
 ^statblock

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/deity/orc
 - ttrpg-cli/domain/war
-aliases: 
-- Bahgtru
+aliases:
+- "Bahgtru"
 ---
 # Bahgtru
 *Source: Volo's Guide to Monsters p. 83* 
@@ -29,4 +29,4 @@ Most young orcs that an explorer or an adventurer might encounters are followers
 
 ## The Sacred Bull
 
-Orcs of Bahgtru sometimes enter battle astride [aurochs](/3-Mechanics/CLI/bestiary/beast/aurochs-mpmm.md), large creatures that resemble oxen or cattle but are much more ferocious. By doing so they honor the creatures as well as their deity, because legends tell that Bahgtru also rode a great bull into battle. No orc will eat or harm one of these sacred beasts, which are believed to be imbued with Bahgtru's spirit.
+Orcs of Bahgtru sometimes enter battle astride [aurochs](3-Mechanics/CLI/bestiary/beast/aurochs-mpmm.md), large creatures that resemble oxen or cattle but are much more ferocious. By doing so they honor the creatures as well as their deity, because legends tell that Bahgtru also rode a great bull into battle. No orc will eat or harm one of these sacred beasts, which are believed to be imbued with Bahgtru's spirit.

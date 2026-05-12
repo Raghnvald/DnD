@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/ttp
-- new/race/tortle
+- ttrpg-cli/compendium/src/5e/ttp
+- ttrpg-cli/race/tortle
 aliases:
-- Tortle
+- "Tortle"
 ---
 # Tortle
-*Source: The Tortle Package p. 3, Explorer's Guide to Wildemount p. 181*  
-![](/3-Mechanics/CLI/races/img/tortle.webp#right)
+*Source: The Tortle Package p. 3*  
+![](3-Mechanics/CLI/races/img/tortle.webp#right)
 
 - **Ability Scores**: str +2 wis +1
 - **Size**: Medium
@@ -35,7 +35,7 @@ Tortle adults stand 5 to 6 feet tall and average 450 pounds. Their shells accoun
 
 ### Claws
 
-Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to `dice:1d4|noform|noparens|avg` (`1d4`) + your Strength modifier, instead of bludgeoning damage normal for an unarmed strike.
+Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to `1d4` + your Strength modifier, instead of bludgeoning damage normal for an unarmed strike.
 
 ### Hold Breath
 
@@ -47,11 +47,11 @@ Due to your shell and the shape of your body, you are ill-suited to wearing armo
 
 ### Shell Defense
 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](3-Mechanics/CLI/rules/conditions.md#Prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
 ### Survival Instinct
 
-You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
+You gain proficiency in the [Survival](3-Mechanics/CLI/rules/skills.md#Survival) skill. Tortles have finely honed survival instincts.
 
 ### Languages
 

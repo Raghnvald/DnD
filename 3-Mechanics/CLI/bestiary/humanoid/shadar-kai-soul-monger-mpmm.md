@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadar-kai Soul Monger
+- "Shadar-kai Soul Monger"
 ---
-# [Shadar-kai Soul Monger](3-Mechanics\CLI\bestiary\humanoid/shadar-kai-soul-monger-mpmm.md)
+# [Shadar-kai Soul Monger](3-Mechanics/CLI/bestiary/humanoid/shadar-kai-soul-monger-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214, Mordenkainen's Tome of Foes p. 226*  
 
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
@@ -42,7 +42,7 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 "subtype": "elf"
 "alignment": "Typically  Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[studded leather](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md)"
 "hp": !!int "136"
 "hit_dice": "21d8 + 42"
 "modifier": !!int "3"
@@ -59,17 +59,17 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
   - "wisdom": !!int "7"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_immunities": "necrotic, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 17"
 "languages": "Common, Elvish"
 "cr": "11"
 "traits":
-  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
+  - "desc": "The shadar-kai has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
       \ and magic can't put it to sleep."
     "name": "Fey Ancestry"
   - "desc": "The shadar-kai has advantage on saving throws against spells and other\
@@ -94,20 +94,20 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
     "name": "Shadow Dagger"
   - "desc": "The shadar-kai emits weariness in a 60-foot cube. Each creature in that\
       \ area must make a DC 16 Constitution saving throw. On a failed save, a creature\
-      \ takes 45 (10d8) psychic damage and suffers 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).\
+      \ takes 45 (10d8) psychic damage and suffers 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).\
       \ On a successful save, it takes half as much damage and doesn't gain a level\
-      \ of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion)."
+      \ of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion)."
     "name": "Wave of Weariness (Recharge 4-6)"
   - "desc": "The shadar-kai casts one of the following spells, requiring no material\
       \ components and using Intelligence as the spellcasting ability (spell save\
-      \ DC 16):\n\n**1/day each:** [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
-      \ [finger of death](/3-Mechanics/CLI/spells/finger-of-death-xphb.md), [gaseous\
-      \ form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [seeming](/3-Mechanics/CLI/spells/seeming-xphb.md)"
+      \ DC 16):\n\n**1/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse.md),\
+      \ [finger of death](3-Mechanics/CLI/spells/finger-of-death.md), [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md),\
+      \ [seeming](3-Mechanics/CLI/spells/seeming.md)"
     "name": "Spellcasting"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp"
 ```
 ^statblock
 

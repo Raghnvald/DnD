@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/aasimar
 aliases:
-- Aasimar
+- "Aasimar"
 ---
 # Aasimar
 *Source: Volo's Guide to Monsters p. 104, Explorer's Guide to Wildemount p. 166*  
-![](/3-Mechanics/CLI/races/img/aasimar.webp#right)
+![](3-Mechanics/CLI/races/img/aasimar.webp#right)
 
 - **Ability Scores**: cha +2
 - **Size**: Medium

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blood Hunter
+- "Blood Hunter"
 ---
-# [Blood Hunter](3-Mechanics\CLI\bestiary\humanoid/blood-hunter-egw.md)
+# [Blood Hunter](3-Mechanics/CLI/bestiary/humanoid/blood-hunter-egw.md)
 *Source: Explorer's Guide to Wildemount p. 284*  
 
 To mortals and monsters alike, the blood hunter is a legendary figure—a humanoid stalker said to embrace monstrous power. Long years ago, a group of mortals undertook dark rituals and alchemical experiments to gain the power of the deadliest monsters, allowing them to better hunt those monsters.
@@ -26,7 +26,7 @@ Blood hunters are steely on the surface, but roiling emotion lies beneath that i
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[half plate](/3-Mechanics/CLI/items/half-plate-armor-xphb.md)"
+"ac_class": "half plate"
 "hp": !!int "65"
 "hit_dice": "10d8 + 20"
 "modifier": !!int "1"
@@ -42,19 +42,21 @@ Blood hunters are steely on the surface, but roiling emotion lies beneath that i
   - "strength": !!int "7"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "Acrobatics"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"gear":
+  - "greatsword"
+  - "heavy crossbow"
+"senses": "darkvision 60 ft., passive Perception 16"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-  - "desc": "The blood hunter can innately cast [hex](/3-Mechanics/CLI/spells/hex-xphb.md).\
-      \ Its innate spellcasting ability is Intelligence.\n"
+  - "desc": "The blood hunter can innately cast hex. Its innate spellcasting ability\
+      \ is Intelligence.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "As a bonus action, the blood hunter targets one creature it can see within\
       \ 30 feet of it. The target must succeed on a DC 14 Strength saving throw or\
@@ -79,6 +81,6 @@ Blood hunters are steely on the surface, but roiling emotion lies beneath that i
     "name": "Heavy Crossbow"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/blood-hunter-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/blood-hunter-egw.webp"
 ```
 ^statblock

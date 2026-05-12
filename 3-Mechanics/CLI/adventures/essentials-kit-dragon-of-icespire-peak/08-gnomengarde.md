@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Gnomengarde
+- "Gnomengarde"
 ---
 # Gnomengarde
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 26* 
@@ -39,7 +39,7 @@ To complete the Gnomengarde Quest, the characters must obtain at least one magic
 
 #### Gnome-Made Magic Items
 
-If the characters rescue Gnerkli and end Korboz's madness, the grateful gnomes give them a clockwork amulet and pole of collapsing (from area G13). The characters also receive a gift from each king: a wand of pyrotechnics from Gnerkli and a hat of wizardry from Korboz. Give the players the Clockwork Amulet, Hat of Wizardry, Pole of Collapsing, and Wand of Pyrotechnics [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) as their characters obtain and identify each item or they can reference them in the Magic Items Listing.
+If the characters rescue Gnerkli and end Korboz's madness, the grateful gnomes give them a clockwork amulet and pole of collapsing (from area G13). The characters also receive a gift from each king: a wand of pyrotechnics from Gnerkli and a hat of wizardry from Korboz. Give the players the Clockwork Amulet, Hat of Wizardry, Pole of Collapsing, and Wand of Pyrotechnics [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md) as their characters obtain and identify each item or they can reference them in the Magic Items Listing.
 
 ## Arrival
 
@@ -54,11 +54,11 @@ Gnomengarde has five cave entrances perched atop ledges with sheer, rocky slopes
 
 ### Gnomengarde Roster
 
-Twenty [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) dwell in Gnomengarde, including King Gnerkli and King Korboz. The gnomes' names and locations are described in the "Gnomengarde Locations" section.
+Twenty [rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) dwell in Gnomengarde, including King Gnerkli and King Korboz. The gnomes' names and locations are described in the "Gnomengarde Locations" section.
 
 #### Mystery Monster
 
-There used to be twenty-two gnomes living in the caves, but a [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md) devoured two gnomes—named Orryn and Warryn—in the past tenday. The creature is currently disguised as a barrel in area G8, but it will devour more gnomes once its hunger returns unless it is dealt with. It can move around and adopt other disguises as needed, though its forms are limited to Medium objects such as chairs, large chests, lecterns, and weird gnomish inventions of the mimic's size and mass. The mimic can also disguise itself as a door, a false section of wall, or a rocky bulge on the floor.
+There used to be twenty-two gnomes living in the caves, but a mimic devoured two gnomes—named Orryn and Warryn—in the past tenday. The creature is currently disguised as a barrel in area G8, but it will devour more gnomes once its hunger returns unless it is dealt with. It can move around and adopt other disguises as needed, though its forms are limited to Medium objects such as chairs, large chests, lecterns, and weird gnomish inventions of the mimic's size and mass. The mimic can also disguise itself as a door, a false section of wall, or a rocky bulge on the floor.
 
 After speaking to Korboz and learning about the presence of a shapechanging monster, the characters' primary goal should be to find and slay the creature. When it attacked Korboz, it looked like a 10-foot-square rug in the throne room (area G14), but it has since moved elsewhere and changed its appearance.
 
@@ -70,9 +70,7 @@ If you want a more interesting antagonist, make the mimic one of the rare variet
 
 ### Wild Magic
 
-Wild magic is a kind of magic that can't be controlled, and Gnomengarde has long been a source of it. When a creature anywhere on the Gnomengarde map expends a spell slot to cast a spell of 1st level or higher, an additional effect might occur. Roll a `dice:d20|noform|noparens|avg` (`d20`) and consult the following table to determine the effect, if any. This wild magic effect lasts for 1 hour, or until ended with a remove curse spell or similar magic.
-
-`dice: [](08-gnomengarde.md#^wild-magic-effect)`
+Wild magic is a kind of magic that can't be controlled, and Gnomengarde has long been a source of it. When a creature anywhere on the Gnomengarde map expends a spell slot to cast a spell of 1st level or higher, an additional effect might occur. Roll a `d20` and consult the following table to determine the effect, if any. This wild magic effect lasts for 1 hour, or until ended with a remove curse spell or similar magic.
 
 | dice: d20 | Wild Magic Effect |
 |-----------|-------------------|
@@ -89,8 +87,8 @@ Wild magic is a kind of magic that can't be controlled, and Gnomengarde has long
 The following locations are keyed to the map of Gnomengarde.
 
 > [!gallery]
-> ![Map: Gnomengarde](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/019-map-gnomegarde-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/020-map-gnomegarde-pc.webp#gallery)
+> ![Map: Gnomengarde](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/019-map-gnomegarde-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/020-map-gnomegarde-pc.webp#gallery)
 
 #### G1. Misty Pool and Mushroom Islands
 
@@ -108,7 +106,7 @@ This room contains several dining tables and chairs sized for Small folk. A stou
 
 #### G4. Kitchen
 
-This kitchen is furnished with gnomes in mind, so everything is either close to the floor or readily reachable by tugging on an overly complicated rope-and-pulley mechanism. Five [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) busy themselves here:
+This kitchen is furnished with gnomes in mind, so everything is either close to the floor or readily reachable by tugging on an overly complicated rope-and-pulley mechanism. Five [rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) busy themselves here:
 
 - Joybell (female) uses a poker to stoke the fire of a hot iron stove standing against the east wall.  
 - Dimble (male) uses a complicated press-like contraption to squeeze oil out of a big red mushroom and filter the liquid into four oil flasks.  
@@ -132,7 +130,7 @@ Each barrel crab is a Large object with AC 15, 30 hit points, a Strength score o
 
 ##### Claws
 
-*Melee Weapon Attack*: +2 to hit, reach 5 ft., one target. *Hit*: `dice:2d4|noform|noparens|avg|text(5)` (`2d4`) piercing damage, and the target is grappled (escape DC 10).
+*Melee Weapon Attack*: `+2` to hit, reach 5 ft., one target. *Hit*: 5 (`2d4`) piercing damage, and the target is grappled (escape DC 10).
 
 #### G7. Autoloading Crossbow Platform
 
@@ -142,21 +140,21 @@ A creature sitting in the chair can use an action to rotate the device up to 360
 
 ##### Heavy Crossbow
 
-*Ranged Weapon Attack*: +5 to hit, range 50/200 ft., one target. *Hit*: `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) piercing damage.
+*Ranged Weapon Attack*: `+5` to hit, range 50/200 ft., one target. *Hit*: 5 (`1d10`) piercing damage.
 
-Sitting in the chair when the characters first enter this area is the device's inventor, a [rock gnome recluse](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) named Facktoré. When she sees strangers, Facktoré decides to test out the contraption on them. She stands down only when she or her contraption cease to function, or when she can no longer see any targets. Being deranged and utterly consumed by her work, she can barely string together a cohesive sentence, let alone advise visitors on where to go or whom to talk to.
+Sitting in the chair when the characters first enter this area is the device's inventor, a [rock gnome recluse](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) named Facktoré. When she sees strangers, Facktoré decides to test out the contraption on them. She stands down only when she or her contraption cease to function, or when she can no longer see any targets. Being deranged and utterly consumed by her work, she can barely string together a cohesive sentence, let alone advise visitors on where to go or whom to talk to.
 
 #### G8. Mimic and Mushroom Wine
 
 This room contains twelve forty-gallon barrels set into wide alcoves. Each barrel is secured by a wooden brace. The barrels in the south alcove have been tapped with wooden spigots. Two of those barrels are half full, and two are nearly empty.
 
-Seven of the eight barrels in the north and east alcoves are untapped and full of mushroom wine. The eighth barrel is the [mimic](/3-Mechanics/CLI/bestiary/monstrosity/mimic.md). You can decide where the mimic is, or roll a `dice:d8|noform|noparens|avg` (`d8`) to randomly determine which barrel is the fake one. See "Mystery Monster" for more information on the mimic and its behavior when discovered.
+Seven of the eight barrels in the north and east alcoves are untapped and full of mushroom wine. The eighth barrel is the mimic. You can decide where the mimic is, or roll a `d8` to randomly determine which barrel is the fake one. See "Mystery Monster" for more information on the mimic and its behavior when discovered.
 
 #### G9. Gnome Guard Post
 
 Mist from the waterfall dampens this empty cave, which has a 10-foot-high ledge overlooking it to the south. The ledge can be reached by following the curved tunnel to the east, or by scaling the slick rock wall with a successful DC 12 Strength (Athletics) check.
 
-Two [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) stand on the ledge—a female named Ulla and a male named Pog. When anyone enters the cave, Ulla calls out, "Who goes there?" in Gnomish, then Pog repeats the question in Common. Their orders are to "attack shapechangers on sight." Since anyone might be a shapechanger, they attack anyone who can't prove they are who they claim to be. Characters who don't want to be attacked must succeed on one of the following checks:
+Two [rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) stand on the ledge—a female named Ulla and a male named Pog. When anyone enters the cave, Ulla calls out, "Who goes there?" in Gnomish, then Pog repeats the question in Common. Their orders are to "attack shapechangers on sight." Since anyone might be a shapechanger, they attack anyone who can't prove they are who they claim to be. Characters who don't want to be attacked must succeed on one of the following checks:
 
 - A DC 10 Charisma (Deception) check to trick the gnomes into thinking the characters have an audience with the kings of Gnomengarde.  
 - A DC 10 Charisma (Intimidation) check to scare the gnomes into thinking that any harm visited upon the characters will result in Gnomengarde's destruction.  
@@ -164,13 +162,13 @@ Two [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-
 
 #### G10. Spinning Blades
 
-This area is lightly obscured by mist from the waterfall. The larger eastern part of the room contains two rapidly spinning devices that look like turnstiles fitted with stacks of long, sharp blades spaced 1 foot apart. The northern turnstile spins counterclockwise, while the southern one spins clockwise. Any creature that enters or starts its turn in the eastern part of the room while the blades are spinning must make a DC 15 Dexterity saving throw, taking `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) slashing damage on a failed save, or half as much damage on a successful one.
+This area is lightly obscured by mist from the waterfall. The larger eastern part of the room contains two rapidly spinning devices that look like turnstiles fitted with stacks of long, sharp blades spaced 1 foot apart. The northern turnstile spins counterclockwise, while the southern one spins clockwise. Any creature that enters or starts its turn in the eastern part of the room while the blades are spinning must make a DC 15 Dexterity saving throw, taking 18 (`4d8`) slashing damage on a failed save, or half as much damage on a successful one.
 
 Set into the south wall of the smaller western part of the room is a brass lever in the down position. Pulling the lever up causes the turnstiles to stop spinning, allowing safe passage through the chamber. The rock gnomes bypass this trap by using the mage hand cantrip to move the lever from the east doorway.
 
 #### G11. Inventors' Workshop
 
-As the characters approach this area, they overhear an argument in Gnomish between two [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md)—a male named Fibblestib and a female named Dabbledob. As Gnomengarde's foremost inventors, they are trying to dream up an invention that will cure King Korboz's madness. Fibblestib's proposal is a "sanity ray." Dabbledob thinks that's dumb, and wants to build something called a "straitjacket" instead. If the characters interrupt them, the gnomes realize that the new arrivals might have another solution, so they fill in what's been happening and ask for any advice on how they might help cure Korboz and rescue King Gnerkli.
+As the characters approach this area, they overhear an argument in Gnomish between two [rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md)—a male named Fibblestib and a female named Dabbledob. As Gnomengarde's foremost inventors, they are trying to dream up an invention that will cure King Korboz's madness. Fibblestib's proposal is a "sanity ray." Dabbledob thinks that's dumb, and wants to build something called a "straitjacket" instead. If the characters interrupt them, the gnomes realize that the new arrivals might have another solution, so they fill in what's been happening and ask for any advice on how they might help cure Korboz and rescue King Gnerkli.
 
 Fibblestib and Dabbledob consider the mystery of the vanishing gnomes of secondary importance to their mission of aiding their kings. They focus on Korboz and Gnerkli to the exclusion of all else, promising magical rewards in exchange for aid (see "Gnome-Made Magic Items").
 
@@ -182,7 +180,7 @@ The book on the pedestal is a spellbook that the rock gnomes of Gnomengarde shar
 
 #### G12. Gnome Domiciles
 
-The floor of this cave is strewn with the remnants of old campfires. Four side caves serve as sleeping areas, with five small wooden cots crammed into each one. Eight [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) sleep soundly here when the characters first arrive, with two gnomes in each side cave—Caramip, Jabby, Nyx, and Quippy (females), and Anverth, Delebean, Pallabar, and Zook (males). Characters can move through the area without waking the sleeping gnomes, who defend themselves if attacked but pose no danger otherwise. They avoid talking about the recent troubles, but advise visitors to speak with Fibblestib and Dabbledob (see area G11), Gnomengarde's two most gifted rock gnome inventors.
+The floor of this cave is strewn with the remnants of old campfires. Four side caves serve as sleeping areas, with five small wooden cots crammed into each one. Eight [rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md) sleep soundly here when the characters first arrive, with two gnomes in each side cave—Caramip, Jabby, Nyx, and Quippy (females), and Anverth, Delebean, Pallabar, and Zook (males). Characters can move through the area without waking the sleeping gnomes, who defend themselves if attacked but pose no danger otherwise. They avoid talking about the recent troubles, but advise visitors to speak with Fibblestib and Dabbledob (see area G11), Gnomengarde's two most gifted rock gnome inventors.
 
 #### G13. Treasury
 
@@ -190,7 +188,7 @@ The door to this room is locked, and Fibblestib and Dabbledob (see area G11) car
 
 ##### Treasure
 
-Amid the clutter, the characters can find a clockwork amulet and a pole of collapsing, most easily by scanning the room with a detect magic spell. It otherwise takes 1 hour to find each item. Give the players the Clockwork Amulet and Pole of Collapsing [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) if their characters acquire and identify these magic items or they can reference them in the Magic Items Listing.
+Amid the clutter, the characters can find a clockwork amulet and a pole of collapsing, most easily by scanning the room with a detect magic spell. It otherwise takes 1 hour to find each item. Give the players the Clockwork Amulet and Pole of Collapsing [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md) if their characters acquire and identify these magic items or they can reference them in the Magic Items Listing.
 
 #### G14. Throne Room
 
@@ -200,8 +198,8 @@ Situated atop a stone dais are two squat thrones made of scrap metal and sized f
 
 King Korboz has locked himself and King Gnerkli in their bedroom, forgetting that there's a secret door that others could find and use to gain entry. Only Korboz and Gnerkli have keys to the locked main door. If the characters knock on the door or otherwise announce their arrival, Korboz speaks to them from inside the room and warns of a "shapechanger" in their midst. Korboz doesn't regain his senses until the characters assure him that the monster has been found and killed. Whether the mimic is truly killed or not, convincing Korboz that it's dead requires a successful DC 12 Charisma (Persuasion) check.
 
-Korboz and Gnerkli are [rock gnome recluses](/3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md), each wearing a jagged metal crown and a patchwork cloak. Gnerkli is glued to a chair and restrained. Korboz carries a flask of solvent that dissolves the glue on contact. Their room contains all the trappings of a nicely appointed gnome bedroom.
+Korboz and Gnerkli are [rock gnome recluses](3-Mechanics/CLI/bestiary/humanoid/rock-gnome-recluse-dip.md), each wearing a jagged metal crown and a patchwork cloak. Gnerkli is glued to a chair and restrained. Korboz carries a flask of solvent that dissolves the glue on contact. Their room contains all the trappings of a nicely appointed gnome bedroom.
 
 ##### Treasure
 
-A small unlocked chest under the gnomes' bed contains a hat of wizardry and a fully charged wand of pyrotechnics. Give the players the Hat of Wizardry and Wand of Pyrotechnics [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) if their characters acquire and identify these magic items or they can reference them in the Magic Items Listing.
+A small unlocked chest under the gnomes' bed contains a hat of wizardry and a fully charged wand of pyrotechnics. Give the players the Hat of Wizardry and Wand of Pyrotechnics [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md) if their characters acquire and identify these magic items or they can reference them in the Magic Items Listing.

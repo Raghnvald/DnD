@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Barovian Commoner
+- "Barovian Commoner"
 ---
-# [Barovian Commoner](3-Mechanics\CLI\bestiary\humanoid/barovian-commoner-cos.md)
+# [Barovian Commoner](3-Mechanics/CLI/bestiary/humanoid/barovian-commoner-cos.md)
 *Source: Curse of Strahd p. 29*  
 
 ```statblock
@@ -33,15 +33,17 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "club"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ piercing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) piercing damage."
     "name": "Pitchfork"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/barovian-commoner-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/barovian-commoner-cos.webp"
 ```
 ^statblock

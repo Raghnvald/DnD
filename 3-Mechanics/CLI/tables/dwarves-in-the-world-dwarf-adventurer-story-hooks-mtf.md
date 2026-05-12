@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Dwarves in the World; Dwarf Adventurer Story Hooks
+- "Dwarves in the World; Dwarf Adventurer Story Hooks"
 ---
 # Dwarves in the World; Dwarf Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 83* 
 
 **Dwarf Adventurer Story Hooks**
-
-`dice: [](dwarves-in-the-world-dwarf-adventurer-story-hooks-mtf.md#^dwarf-adventurer-story-hooks)`
 
 | dice: d6 | Hook |
 |----------|------|

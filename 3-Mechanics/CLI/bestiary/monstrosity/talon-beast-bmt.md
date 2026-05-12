@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/7
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Talon Beast
+- "Talon Beast"
 ---
-# [Talon Beast](3-Mechanics\CLI\bestiary\monstrosity/talon-beast-bmt.md)
+# [Talon Beast](3-Mechanics/CLI/bestiary/monstrosity/talon-beast-bmt.md)
 *Source: The Book of Many Things p. 183*  
 
 Talon beasts are hairless quadrupeds that have vulturelike heads and talons. They can sense the presence of magic and feed on it, absorbing spells and the power of magic items. But magic isn't enough to sustain them, so they also hunt other living things. A talon beast thrives in the wilderness, but in its search for magic, it often prowls settlements, ruins, catacombs, or the Underdark.
@@ -63,13 +63,13 @@ Many scholars agree there's a link between talon beasts, the constellation of th
       \ has its magical properties suppressed for 1 minute. If the item is a potion\
       \ or scroll, it becomes nonmagical instead."
     "name": "Beak"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) slashing damage, and the target has the grappled condition (escape\
-      \ DC 17). Until the grapple ends, the target has the restrained condition, and\
-      \ the talon beast can't use Talon on another target."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) slashing damage, and the target has the grappled condition\
+      \ (escape DC 17). Until the grapple ends, the target has the restrained condition,\
+      \ and the talon beast can't use Talon on another target."
     "name": "Talon"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/talon-beast-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/talon-beast-bmt.webp"
 ```
 ^statblock

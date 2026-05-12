@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/6
-- new/monster/size/large
-- new/monster/type/dragon
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/6
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/dragon
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Wyvern
+- "Reduced-Threat Wyvern"
 ---
-# [Reduced-Threat Wyvern](3-Mechanics\CLI\bestiary\dragon/reduced-threat-wyvern-tftyp.md)
+# [Reduced-Threat Wyvern](3-Mechanics/CLI/bestiary/dragon/reduced-threat-wyvern-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -34,9 +34,10 @@ aliases:
   - !!int "6"
 "speed": "20 ft., fly 80 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 14"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": ""
 "cr": "6"
 "traits":
@@ -56,12 +57,12 @@ aliases:
       \ (2d8 + 4) slashing damage."
     "name": "Claws"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one creature. *Hit:*\
-      \ 11 (2d6 + 4) piercing damage. The target must make a DC 13 Constitution saving\
-      \ throw, taking 24 (7d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one."
+      \ 11 (2d6 + 4) piercing damage. The target must make a DC 13 Constitution\
+      \ saving throw, taking 24 (7d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one."
     "name": "Stinger"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/reduced-threat-wyvern-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/reduced-threat-wyvern-tftyp.webp"
 ```
 ^statblock

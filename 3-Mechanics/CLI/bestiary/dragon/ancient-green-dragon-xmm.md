@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Green Dragon
+- "Ancient Green Dragon"
 ---
-# [Ancient Green Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-green-dragon-xmm.md)
+# [Ancient Green Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-green-dragon-xmm.md)
 *Source: Monster Manual (2024) p. 154. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Ancient green dragons are creatures of legend, rarely seen by their servants or foes. Via magic and well-hidden agents, these dragons stoke suspicion between allies and undermine noble works. As bonds fray, the dragons reap rewards of greater wealth and control. Eventually the ambitions of ancient green dragons stretch beyond their territories as they seek control over empires, planar realms, or death itself.
@@ -23,7 +23,7 @@ Ancient green dragons are creatures of legend, rarely seen by their servants or 
 *Dragons of Deceit and Derision*
 
 - **Habitat.** Forest  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md)  
 
 From forbidden forest depths, green dragons whisper evils into the world and manipulate the lives of those who listen. Elusive, conniving, and egotistical, these chromatic dragons patiently prey on the fears of shorter-lived beings, corrupting and isolating them. Green dragons might lurk amid labyrinthine wildernesses for centuries without revealing themselves; even their most devoted followers might know them only as the voice of the woodlands or a whisper in their dreams.
 
@@ -55,17 +55,17 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "dexterity": !!int "8"
   - "wisdom": !!int "10"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+13"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "22"
@@ -76,20 +76,20 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Legendary Resistance (4/Day, or 5/Day in Lair)"
 "actions":
   - "desc": "The dragon makes three Rend attacks. It can replace one attack with a\
-      \ use of Spellcasting to cast [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)\
+      \ use of Spellcasting to cast [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md)\
       \ (level 5 version)."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +15, reach 15 ft. *Hit:* 17 (2d8 + 8) Slashing damage\
-      \ plus 10 (3d6) Poison damage."
+  - "desc": "*Melee Attack Roll:* +15, reach 15 ft. *Hit:* 17 (2d8 + 8) Slashing\
+      \ damage plus 10 (3d6) Poison damage."
     "name": "Rend"
-  - "desc": "*Constitution Saving Throw:* DC 22, each creature in a 90-foot [Cone](/3-Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).\
+  - "desc": "*Constitution Saving Throw:* DC 22, each creature in a 90-foot [Cone](3-Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).\
       \ *Failure:* 77 (22d6) Poison damage. *Success:* Half damage."
     "name": "Poison Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\n**At\
-      \ will:** [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md), [Mind\
-      \ Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md) (level 5 version)\n\n**1/day\
-      \ each:** [Geas](/3-Mechanics/CLI/spells/geas-xphb.md), [Modify Memory](/3-Mechanics/CLI/spells/modify-memory-xphb.md)"
+      \ will:** [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [Mind\
+      \ Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md) (level 5 version)\n\n**1/day\
+      \ each:** [Geas](3-Mechanics/CLI/spells/geas-xphb.md), [Modify Memory](3-Mechanics/CLI/spells/modify-memory-xphb.md)"
     "name": "Spellcasting"
 "regional_effects":
   - "desc": "The region containing an adult or ancient green dragon's lair is warped\
@@ -98,8 +98,8 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
       \ telepathically with the dragon while within 1 mile of the lair.  \n- **Poisonous\
       \ Thicket.** Ordinary plants growing within 1 mile of the lair poison the air\
       \ around them. Whenever a creature other than the dragon or its allies finishes\
-      \ a [Long Rest](/3-Mechanics/CLI/variant-rules/long-rest-xphb.md) in that area,\
-      \ it must succeed on a DC 15 Constitution saving throw or have the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+      \ a [Long Rest](3-Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) in that\
+      \ area, it must succeed on a DC 15 Constitution saving throw or have the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition for 1 hour.  \n\nIf the dragon dies or moves its lair elsewhere,\
       \ these effects end immediately."
     "name": ""
@@ -107,22 +107,22 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   \ another creature's turn, the dragon can expend a use to take one of the following\
   \ actions. The dragon regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon uses Spellcasting to cast [Mind Spike](/3-Mechanics/CLI/spells/mind-spike-xphb.md)\
+  - "desc": "The dragon uses Spellcasting to cast [Mind Spike](3-Mechanics/CLI/spells/mind-spike-xphb.md)\
       \ (level 5 version)."
     "name": "Mind Invasion"
   - "desc": "*Constitution Saving Throw:* DC 21, each creature in a 30-foot-radius\
-      \ [Sphere](/3-Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered\
-      \ on a point the dragon can see within 90 feet. *Failure:* 17 (5d6) Poison damage,\
-      \ and the target takes a -2 penalty to AC until the end of its next turn. *Failure\
-      \ or Success:* The dragon can't take this action again until the start of its\
-      \ next turn."
+      \ [Sphere](3-Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)\
+      \ centered on a point the dragon can see within 90 feet. *Failure:* 17 (5d6)\
+      \ Poison damage, and the target takes a -2 penalty to AC until the end of its\
+      \ next turn. *Failure or Success:* The dragon can't take this action again until\
+      \ the start of its next turn."
     "name": "Noxious Miasma"
-  - "desc": "The dragon moves up to half its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md),\
+  - "desc": "The dragon moves up to half its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md),\
       \ and it makes one Rend attack."
     "name": "Pounce"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-green-dragon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-green-dragon-xmm.webp"
 ```
 ^statblock
 

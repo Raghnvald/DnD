@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Captain N'ghathrod
+- "Captain N'ghathrod"
 ---
-# [Captain N'ghathrod](3-Mechanics\CLI\bestiary\npc/captain-nghathrod-wdmm.md)
+# [Captain N'ghathrod](3-Mechanics/CLI/bestiary/npc/captain-nghathrod-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 250*  
 
 Before it turned to a life of space piracy, N'ghathrod lived in a mind flayer colony on the ringed planet of Glyth, which is farther from the sun than Toril.
@@ -23,7 +23,7 @@ Before it turned to a life of space piracy, N'ghathrod lived in a mind flayer co
 "type": "aberration"
 "alignment": "Lawful Evil"
 "ac": !!int "15"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
 "hp": !!int "111"
 "hit_dice": "13d8 + 13"
 "modifier": !!int "1"
@@ -40,55 +40,68 @@ Before it turned to a life of space piracy, N'ghathrod lived in a mind flayer co
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+6"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
 "cr": "8"
 "traits":
   - "desc": "Captain N'ghathrod is a 10th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (save DC 15, +7 to hit with spell attacks). Captain N'ghathrod\
-      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** blade\
-      \ ward, dancing lights, mage hand, shocking grasp\n\n**1st level (4 slots):**\
-      \ detect magic, disguise self, shield, sleep\n\n**2nd level (3 slots):** blur,\
-      \ invisibility, ray of enfeeblement\n\n**3rd level (3 slots):** clairvoyance,\
-      \ lightning bolt, sending\n\n**4th level (3 slots):** confusion, hallucinatory\
-      \ terrain\n\n**5th level (2 slots):** telekinesis, wall of force"
+      \ has the following wizard spells prepared:\n\n**Cantrips (at will):** [blade\
+      \ ward](3-Mechanics/CLI/spells/blade-ward-xphb.md), [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [shocking grasp](3-Mechanics/CLI/spells/shocking-grasp-xphb.md)\n\
+      \n**1st level (4 slots):** [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md),\
+      \ [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)\n\n**2nd level (3 slots):**\
+      \ [blur](3-Mechanics/CLI/spells/blur-xphb.md), [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md),\
+      \ [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md)\n\
+      \n**3rd level (3 slots):** [clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md),\
+      \ [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md), [sending](3-Mechanics/CLI/spells/sending-xphb.md)\n\
+      \n**4th level (3 slots):** [confusion](3-Mechanics/CLI/spells/confusion-xphb.md),\
+      \ [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md)\n\
+      \n**5th level (2 slots):** [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Captain N'ghathrod's innate spellcasting ability is Intelligence (spell\
       \ save DC 15). It can innately cast the following spells, requiring no components:\n\
-      \n**At will:** detect thoughts, levitate\n\n**1/day each:** dominate monster,\
-      \ plane shift (self only)"
+      \n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
+      \ [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\n\n**1/day each:** [dominate\
+      \ monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)\
+      \ (self only)"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "Captain N'ghathrod has advantage on saving throws against spells and\
       \ other magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 15\
-      \ (2d10 + 4) psychic damage. If the target is Medium or smaller, it is grappled\
-      \ (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be\
-      \ stunned until this grapple ends."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 15 (2d10 + 4) psychic damage. If the target is Medium or smaller, it is\
+      \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) and\
+      \ must succeed on a DC 15 Intelligence saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ until this grapple ends."
     "name": "Tentacles"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one incapacitated humanoid\
-      \ grappled by Captain N'ghathrod. *Hit:* The target takes 55 (10d10) piercing\
-      \ damage. If this damage reduces the target to 0 hit points, Captain N'ghathrod\
-      \ kills the target by extracting and devouring its brain."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ humanoid [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) by Captain\
+      \ N'ghathrod. *Hit:* The target takes 55 (10d10) piercing damage. If this\
+      \ damage reduces the target to 0 hit points, Captain N'ghathrod kills the target\
+      \ by extracting and devouring its brain."
     "name": "Extract Brain"
   - "desc": "Captain N'ghathrod magically emits psychic energy in a 60-foot cone.\
       \ Each creature in that area must succeed on a DC 15 Intelligence saving throw\
-      \ or take 22 (4d8 + 4) psychic damage and be stunned for 1 minute. A creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+      \ or take 22 (4d8 + 4) psychic damage and be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ for 1 minute. A creature can repeat the saving throw at the end of each of\
+      \ its turns, ending the effect on itself on a success."
     "name": "Mind Blast (Recharge 5-6)"
 "lair_actions":
   - "desc": "When fighting aboard the Scavenger, N'ghathrod can take lair actions.\
@@ -106,6 +119,6 @@ Before it turned to a life of space piracy, N'ghathrod lived in a mind flayer co
     "name": ""
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/captain-nghathrod-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/captain-nghathrod-wdmm.webp"
 ```
 ^statblock

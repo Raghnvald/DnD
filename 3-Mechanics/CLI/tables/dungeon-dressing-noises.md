@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Noises
+- "Dungeon Dressing; Noises"
 ---
 # Dungeon Dressing; Noises
 *Source: Dungeon Master's Guide p. 298* 
 
 **Noises**
-
-`dice: [](dungeon-dressing-noises.md#^noises)`
 
 | dice: d100 | Effect |
 |------------|--------|

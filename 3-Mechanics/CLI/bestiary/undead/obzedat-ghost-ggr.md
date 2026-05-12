@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Obzedat Ghost
+- "Obzedat Ghost"
 ---
-# [Obzedat Ghost](3-Mechanics\CLI\bestiary\undead/obzedat-ghost-ggr.md)
+# [Obzedat Ghost](3-Mechanics/CLI/bestiary/undead/obzedat-ghost-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 245*  
 
 The ghosts who make up the Obzedat are traditionally called patriarchs, though they can be male or female. They are the oldest, wealthiest, and most influential oligarchs of the Orzhov Syndicate. They have been dead for centuries, but they refuse to let go of the fortunes they amassed in life. Addicted to power and prestige, these patriarchs continue to dominate the guild and accumulate even larger fortunes.
@@ -59,44 +59,39 @@ Flaw: "Everyone has a price."
   - "intelligence": !!int "7"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 18"
+"condition_immunities": "charmed, exhaustion, grappled, paralyzed, petrified, poisoned,\
+  \ prone, restrained"
+"senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Common"
 "cr": "8"
 "traits":
   - "desc": "The ghost's innate spellcasting ability is Wisdom (spell save DC 16,\
       \ +8 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** [chill touch](/3-Mechanics/CLI/spells/chill-touch-xphb.md)\
-      \ (at 5th level, and the ghost regains hit points equal to half the amount of\
-      \ damage the target takes)\n\n**1/day each:** [sanctuary](/3-Mechanics/CLI/spells/sanctuary-xphb.md),\
-      \ [spirit guardians](/3-Mechanics/CLI/spells/spirit-guardians-xphb.md) (at 4th\
-      \ level)"
+      \ requiring no components:\n\n**At will:** chill touch (at 5th level, and the\
+      \ ghost regains hit points equal to half the amount of damage the target takes)\n\
+      \n**1/day each:** sanctuary, spirit guardians (at 4th level)"
     "name": "Innate Spellcasting"
   - "desc": "The ghost has a trait based on who it is, as shown below:\n\n- **Enezesku\
-      \ Enfeebling Ray.** Enezesku's Innate Spellcasting trait includes [ray of enfeeblement](/3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md),\
+      \ Enfeebling Ray.** Enezesku's Innate Spellcasting trait includes ray of enfeeblement,\
       \ which he can cast at will.  \n- **Fautomni Undead Fortitude.** If damage reduces\
       \ Fautomni to 0 hit points, he must make a Constitution saving throw with a\
       \ DC of 5 + the damage taken, unless the damage is radiant or from a critical\
       \ hit. On a success, Fautomni drops to 1 hit point instead.  \n- **Karlov Unnatural\
       \ Vigor.** When Karlov regains hit points, he has advantage on attack rolls\
       \ he makes on his next turn.  \n- **Vuliev Teleportation.** Vuliev's Innate\
-      \ Spellcasting trait includes [misty step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
-      \ which he can cast at will.  \n- **Xil Xaxosz Lingering Spite.** When Xil Xaxosz\
-      \ is reduced to 0 hit points, his incorporeal form explodes in a burst of necrotic\
-      \ energy. Each creature within 5 feet of him must make a DC 16 Constitution\
-      \ saving throw, taking 14 (4d6) necrotic damage on a failed save, or half as\
-      \ much damage on a successful one.  "
+      \ Spellcasting trait includes misty step, which he can cast at will.  \n- **Xil\
+      \ Xaxosz Lingering Spite.** When Xil Xaxosz is reduced to 0 hit points, his\
+      \ incorporeal form explodes in a burst of necrotic energy. Each creature within\
+      \ 5 feet of him must make a DC 16 Constitution saving throw, taking 14 (4d6)\
+      \ necrotic damage on a failed save, or half as much damage on a successful one.\
+      \  "
     "name": "Council of Five"
   - "desc": "The ghost can see 60 feet into the Ethereal Plane when it is on the Material\
       \ Plane, and vice versa."
@@ -108,13 +103,13 @@ Flaw: "Everyone has a price."
   - "desc": "If the ghost fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (1/Day)"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 18\
-      \ (4d8) necrotic damage, and the ghost regains hit points equal to half the\
-      \ amount of damage the target takes. The target must succeed on a DC 13 Constitution\
-      \ saving throw or its hit point maximum is reduced by an amount equal to the\
-      \ damage taken. The target dies if its hit point maximum is reduced to 0. This\
-      \ reduction to the target's hit point maximum lasts until the target finishes\
-      \ a long rest."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 18 (4d8) necrotic damage, and the ghost regains hit points equal to half\
+      \ the amount of damage the target takes. The target must succeed on a DC 13\
+      \ Constitution saving throw or its hit point maximum is reduced by an amount\
+      \ equal to the damage taken. The target dies if its hit point maximum is reduced\
+      \ to 0. This reduction to the target's hit point maximum lasts until the target\
+      \ finishes a long rest."
     "name": "Life Drain"
   - "desc": "The ghost summons the other four members of the Obzedat. At the start\
       \ of the ghost's next turn, the other members appear in unoccupied spaces within\
@@ -131,11 +126,11 @@ Flaw: "Everyone has a price."
       \ ends, the target can't take actions or reactions, and its speed is 0 and can't\
       \ be increased."
     "name": "Forced Obedience"
-  - "desc": "The Obzedat ghosts conjure 1d6 [indentured spirits](/3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md)\
+  - "desc": "The Obzedat ghosts conjure 1d6 [indentured spirits](3-Mechanics/CLI/bestiary/undead/indentured-spirit-ggr.md)\
       \ (described in this chapter) within 60 feet of one of them."
     "name": "Indentured Spirits (Costs 3 Actions)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/obzedat-ghost-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/obzedat-ghost-ggr.webp"
 ```
 ^statblock

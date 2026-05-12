@@ -6,25 +6,23 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Simic Scientist
+- "Simic Scientist"
 ---
 # Simic Scientist
 *Source: Guildmasters' Guide to Ravnica p. 93*  
 
 
-- **Skill Proficiencies.** [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [Medicine](/3-Mechanics/CLI/skills.md#Medicine)  
+- **Skill Proficiencies.** Arcana, Medicine  
 - **Languages.** Two of your choice  
-- **Equipment.** A Simic insignia, a set of [commoner's clothes](/3-Mechanics/CLI/items/common-clothes.md), a [book](/3-Mechanics/CLI/items/book-xphb.md) of research notes, an [ink pen](/3-Mechanics/CLI/items/ink-pen-xphb.md), a [bottle of squid ink](/3-Mechanics/CLI/items/ink-xphb.md), a [flask of oil](/3-Mechanics/CLI/items/oil-xphb.md) (made from blubber), a [vial of acid](/3-Mechanics/CLI/items/acid-xphb.md) (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp (Azorius 1-zino coins)  
+- **Equipment.** A Simic insignia, a set of commoner's clothes, a book of research notes, an ink pen, a bottle of squid ink, a flask of oil (made from blubber), a vial of acid (derived from digestive juices), a vial of fish scales, a vial of seaweed, a vial of jellyfish stingers, a glass bottle of unidentified slime, and a belt pouch containing 10 gp (Azorius 1-zino coins)  
 
 Imagine a perfect world: one in which nature and civilization exist in harmony, adapted to each other; one in which life is shaped to match its environment and the environment is shaped to match life. That's the world you have been trying to grow in the laboratories of the Simic Combine. Nature is all about adaptation, evolution, and balance—but for it to keep up with the pace of advancing civilization, nature needs some help from biomancers and terraformers. If, along the way, you happen to create super-soldiers and mutant monsters that can bolster the combine's defenses against the schemes and ambitions of the other guilds, so much the better.
 
 ## Clades and Projects
 
-As a Simic researcher, you are part of a clade—a diverse group of individuals combining disparate talents in pursuit of a common goal—or a researcher on a specialized, short-term project focused on addressing an immediate need. You can roll a `dice:d6|noform|noparens|avg` (`d6`) or choose from the options in the Research Options table to determine your area of research.
+As a Simic researcher, you are part of a clade—a diverse group of individuals combining disparate talents in pursuit of a common goal—or a researcher on a specialized, short-term project focused on addressing an immediate need. You can roll a `d6` or choose from the options in the Research Options table to determine your area of research.
 
 **Research Options**
-
-`dice: [](simic-scientist-ggr.md#^research-options)`
 
 | dice: d6 | Clade/Project |
 |----------|---------------|
@@ -52,12 +50,12 @@ For you, the spells on the Simic Guild Spells table are added to the spell list 
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [acid splash](/3-Mechanics/CLI/spells/acid-splash-xphb.md), [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md) |
-| 1st | [detect poison and disease](/3-Mechanics/CLI/spells/detect-poison-and-disease-xphb.md), [expeditious retreat](/3-Mechanics/CLI/spells/expeditious-retreat-xphb.md), [jump](/3-Mechanics/CLI/spells/jump-xphb.md) |
-| 2nd | [alter self](/3-Mechanics/CLI/spells/alter-self-xphb.md), [enhance ability](/3-Mechanics/CLI/spells/enhance-ability-xphb.md), [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) |
-| 3rd | [gaseous form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [water breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md), [wind wall](/3-Mechanics/CLI/spells/wind-wall-xphb.md) |
-| 4th | [freedom of movement](/3-Mechanics/CLI/spells/freedom-of-movement-xphb.md), [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md) |
-| 5th | [creation](/3-Mechanics/CLI/spells/creation-xphb.md) |
+| Cantrip | acid splash, druidcraft |
+| 1st | detect poison and disease, expeditious retreat, jump |
+| 2nd | alter self, enhance ability, enlarge/reduce |
+| 3rd | gaseous form, water breathing, wind wall |
+| 4th | freedom of movement, polymorph |
+| 5th | creation |
 ^simic-guild-spells
 
 When your magic causes physical alterations in yourself or others, the result often displays the characteristics of fish, amphibians, or other water-dwelling creatures. Blue-green eddies of magical energy sometimes accompany your spellcasting, forming spirals that reflect the mathematical perfection of nature.
@@ -67,8 +65,6 @@ When your magic causes physical alterations in yourself or others, the result of
 The bizarre science of the Simic Combine attracts a certain type of personality and encompasses a set of beliefs about the nature of life. Simic members' bonds and flaws derive from their scientific research—including their creation of new life forms, which they can become very attached to.
 
 **Personality Traits**
-
-`dice: [](simic-scientist-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -84,8 +80,6 @@ The bizarre science of the Simic Combine attracts a certain type of personality 
 
 **Ideals**
 
-`dice: [](simic-scientist-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -98,8 +92,6 @@ The bizarre science of the Simic Combine attracts a certain type of personality 
 
 **Bonds**
 
-`dice: [](simic-scientist-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I helped create a krasis that I love like a pet and would carry with me everywhere... except it's the size of a building, and it might eat me. |
@@ -111,8 +103,6 @@ The bizarre science of the Simic Combine attracts a certain type of personality 
 ^bonds
 
 **Flaws**
-
-`dice: [](simic-scientist-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -132,8 +122,6 @@ Roll twice on the Simic Contacts table (for an ally and a rival) and once on the
 
 **Simic Contacts**
 
-`dice: [](simic-scientist-ggr.md#^simic-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | My research builds on my parents' work and takes it in interesting new directions. |
@@ -147,8 +135,6 @@ Roll twice on the Simic Contacts table (for an ally and a rival) and once on the
 ^simic-contacts
 
 **Non-Simic Contacts**
-
-`dice: [](simic-scientist-ggr.md#^non-simic-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

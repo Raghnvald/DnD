@@ -9,7 +9,7 @@ tags:
 - ttrpg-cli/item/gear/ammunition-firearm
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "+2 Ammunition"
 - "+2 Arrow"
 - "+2 Bolt"
@@ -26,7 +26,7 @@ aliases:
 You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 This ammunition is typically found or sold in quantities of ten or twenty pieces. Ten pieces of this ammunition are equivalent in value to a potion of the same rarity > [!note]
-> ([2,000 GP](/3-Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
+> ([2,000 GP](3-Mechanics/CLI/tables/magic-item-values-by-rarity-magic-item-rarities-and-values-xdmg.md)).
 
 **Variants**:
 - [+2 Arrow](#+2%20Arrow)

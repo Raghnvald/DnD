@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Welcome to Ravnica
+- "Welcome to Ravnica"
 ---
 # Welcome to Ravnica
 *Source: Guildmasters' Guide to Ravnica, p. 6* 
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/000-intro01.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/000-intro01.webp#center)
 
 From the back of her soaring roc, a sky knight surveys the spire-studded cityscape below. As the morning fog dissipates under the chill autumn sun, the city spreads out as far as she can see: lofty cathedrals, squat courthouses, towering apartments, sprawling tenements, cobblestone plazas, and broken ruins where once-majestic buildings have crumbled to rubble. She imagines the teeming masses below her: humans, elves, vedalken, minotaurs, goblins, loxodons, and other peoples, as some of them rise to greet the morning and others retire after a hard night of work or play. They are the reason she is here: sworn to protect them, she leads a flight of roc riders toward the fires raging in Precinct Three. Soldiers on the ground will put out the flames, while it's her job to deal with their source: the dragon she can just make out, clinging to the spire of a distant tower. Standing in her stirrups and raising her sword, she turns her mount toward the dragon, ready to battle once again for the sake of Ravnica.
 
@@ -38,25 +38,25 @@ Chapter 6 presents new monsters and NPCs, again reflecting the creatures seen on
 
 In all their fantastic diversity, the cosmopolitan citizens of Ravnica go about their daily business in bustling markets and shadowy back alleys. Shambling pack animals (mammals, reptiles, insects, and bizarre hybrids alike) carry their loads through the streets, while untamed wild things lurk in verdant greenbelts, rubble-strewn ruins, and sewers. And interwoven throughout it all, ten guilds vie for power, wealth, and influence:
 
-**Azorius Senate**. The Azorius Senate functions as the government of Ravnica, built on the three columns of a legislative, a judicial, and an executive branch under the leadership of [Isperia](/3-Mechanics/CLI/bestiary/npc/isperia-ggr.md), the sphinx Supreme Judge.
+**Azorius Senate**. The Azorius Senate functions as the government of Ravnica, built on the three columns of a legislative, a judicial, and an executive branch under the leadership of [Isperia](3-Mechanics/CLI/bestiary/npc/isperia-ggr.md), the sphinx Supreme Judge.
 
-**Boros Legion**. Led by the angel [Aurelia](/3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), the Boros Legion pursues the cause of justice, not merely law enforcement. Boros serves as Ravnica's standing army.
+**Boros Legion**. Led by the angel [Aurelia](3-Mechanics/CLI/bestiary/npc/aurelia-ggr.md), the Boros Legion pursues the cause of justice, not merely law enforcement. Boros serves as Ravnica's standing army.
 
-**House Dimir**. House Dimir is in the business of information, operating an espionage organization behind a facade of messengers, investigators, and archivists. Its enigmatic leader, [Lazav](/3-Mechanics/CLI/bestiary/npc/lazav-ggr.md), wears many faces.
+**House Dimir**. House Dimir is in the business of information, operating an espionage organization behind a facade of messengers, investigators, and archivists. Its enigmatic leader, [Lazav](3-Mechanics/CLI/bestiary/npc/lazav-ggr.md), wears many faces.
 
 **Golgari Swarm**. An elf lich named Jarad guides the Golgari Swarm's masses as they lurk in the undercity, where they process the city's waste and see to the new life that emerges from death and decay.
 
-**Gruul Clans**. Raging against civilization and its defilement of the natural world, the loose alliance of the Gruul Clans is led by the cyclops [Borborygmos](/3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md).
+**Gruul Clans**. Raging against civilization and its defilement of the natural world, the loose alliance of the Gruul Clans is led by the cyclops [Borborygmos](3-Mechanics/CLI/bestiary/npc/borborygmos-ggr.md).
 
-**Izzet League**. Led by the dragon [Niv-Mizzet](/3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the Izzet League is a guild of scientists and engineers who build and sustain Ravnica's infrastructure while conducting wild experiments in magic—efforts that usually involve barely controlled elemental energy.
+**Izzet League**. Led by the dragon [Niv-Mizzet](3-Mechanics/CLI/bestiary/npc/niv-mizzet-ggr.md), the Izzet League is a guild of scientists and engineers who build and sustain Ravnica's infrastructure while conducting wild experiments in magic—efforts that usually involve barely controlled elemental energy.
 
 **Orzhov Syndicate**. A sinister combination of church, bank, and organized crime syndicate, the Orzhov Syndicate is controlled by the Obzedat, a cabal of ancient spirits often called the Ghost Council.
 
 **Cult of Rakdos**. The demonic Cult of Rakdos is the jester in Ravnica's culture, using satire and performance to skewer the powerful and embolden the weak. But it is a cruel and bloodthirsty jester, in the manner of its demonic leader, and it supplements parody and levity with blood and fire.
 
-**Selesnya Conclave**. The Selesnya Conclave is led by [Trostani](/3-Mechanics/CLI/bestiary/npc/trostani-ggr.md), three dryads who are fused together with one another and with Mat'Selesnya, a manifestation of the soul of the world. The guild seeks to bring nature and the city into balance.
+**Selesnya Conclave**. The Selesnya Conclave is led by [Trostani](3-Mechanics/CLI/bestiary/npc/trostani-ggr.md), three dryads who are fused together with one another and with Mat'Selesnya, a manifestation of the soul of the world. The guild seeks to bring nature and the city into balance.
 
-**Simic Combine**. Under the leadership of Prime Speaker [Zegana](/3-Mechanics/CLI/bestiary/npc/zegana-ggr.md), the biomancers of the Simic Combine apply magic to the life sciences. Striving to create a harmonious future where creatures of all kinds are perfectly adapted to their ever-changing environment, the Simic magically hasten the process of evolution and adaptation of life.
+**Simic Combine**. Under the leadership of Prime Speaker [Zegana](3-Mechanics/CLI/bestiary/npc/zegana-ggr.md), the biomancers of the Simic Combine apply magic to the life sciences. Striving to create a harmonious future where creatures of all kinds are perfectly adapted to their ever-changing environment, the Simic magically hasten the process of evolution and adaptation of life.
 
 These ten guilds stand as the foundation of power on Ravnica. Each maintains a distinctive identity and civic function, a diverse collection of creatures, and a subculture of its own. The guilds' history is a web of wars, intrigue, and political machinations stretching over the millennia during which they have vied for control of the world. Their roles were established thousands of years ago in a magical treaty called the Guildpact, which not only assigned each guild a function, but also enforced an uneasy peace among them.
 
@@ -64,7 +64,7 @@ These ten guilds stand as the foundation of power on Ravnica. Each maintains a d
 > 
 > Sometimes you might want to choose a guild at random. Here's a table you can use in those situations.
 > 
-> ![Random Guilds](/3-Mechanics/CLI/tables/random-guilds-ggr.md)
+> ![Random Guilds](3-Mechanics/CLI/tables/random-guilds-ggr.md)
 ^random-guilds
 
 ## History of Ravnica
@@ -87,7 +87,7 @@ Years later, in 10,075 ZC, the Izzet guildmaster discovered that Azor, founder o
 
 Jace is a Planeswalker, with the ability to travel from world to world, and his attention never remains focused on Ravnica for long. Thanks to his involvement with other Planeswalkers, he spends extended periods of time away from Ravnica. During his absences, Ravnica has to fend for itself, and that means that the guilds return to their old habits of fighting with each other over the smallest scraps of influence that could tilt the balance of power in their favor.
 
-These conflicts erupt in a variety of forms. Sometimes guilds clash violently in the streets: Boros forces try to quell Gruul riots, Azorius arresters raid a [Rakdos](/3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) murder show, or Selesnya forces come together to repel a Golgari incursion. More often, sinister plots unfold in secret, through infiltration, sabotage, theft, and deception. Schemes are hidden beneath layers of other schemes, making the intention behind them nearly impossible to discover. The guildmasters are often the source of these plots, but sometimes subordinates attack other guilds to gain more influence within their own. In the absence of the Guildpact, some people believe that it's only a matter of time until these schemes and skirmishes escalate into all-out war on a scale that Ravnica hasn't known for ten millennia.
+These conflicts erupt in a variety of forms. Sometimes guilds clash violently in the streets: Boros forces try to quell Gruul riots, Azorius arresters raid a [Rakdos](3-Mechanics/CLI/bestiary/npc/rakdos-ggr.md) murder show, or Selesnya forces come together to repel a Golgari incursion. More often, sinister plots unfold in secret, through infiltration, sabotage, theft, and deception. Schemes are hidden beneath layers of other schemes, making the intention behind them nearly impossible to discover. The guildmasters are often the source of these plots, but sometimes subordinates attack other guilds to gain more influence within their own. In the absence of the Guildpact, some people believe that it's only a matter of time until these schemes and skirmishes escalate into all-out war on a scale that Ravnica hasn't known for ten millennia.
 
 With the precarious peace always hanging in the balance, opportunities abound for adventurers to serve their guilds or advance their own agendas. Whether delving into the dungeons of the undercity, pursuing assassins through the bustling streets, negotiating accords among the rich and powerful, or sniffing out corruption in the halls of law, the characters in a Ravnica campaign have a world of adventure to explore.
 
@@ -95,7 +95,7 @@ With the precarious peace always hanging in the balance, opportunities abound fo
 > 
 > Ravnica's year of 365 days is made up of twelve months, each of which has the same number of days as its counterpart in the Gregorian calendar. The year begins with 1 Seleszeni, which corresponds to March 1.
 > 
-> ![Ravnica's Calendar](/3-Mechanics/CLI/tables/ravnicas-calendar-ggr.md)
+> ![Ravnica's Calendar](3-Mechanics/CLI/tables/ravnicas-calendar-ggr.md)
 ^ravnicas-calendar
 
 The annual celebration of the Guildpact begins on 28 Zuun and extends overnight into 1 Seleszeni.
@@ -121,7 +121,7 @@ Districts, whether in the city proper or beyond it, are the fundamental configur
 
 This book uses standard D&D coinage, as detailed in the *Player's Handbook*, but in Ravnica, citizens refer to their money as zibs and zinos, with 100 zibs to 1 zino. There is no central mint, as coins are created by the Azorius, the Boros, and the Orzhov. The Ravnica Currency table summarizes the various guilds' coinage and its value.
 
-![Currency: Zibs and Zinos; Ravnica Currency](/3-Mechanics/CLI/tables/currency-zibs-and-zinos-ravnica-currency-ggr.md)
+![Currency: Zibs and Zinos; Ravnica Currency](3-Mechanics/CLI/tables/currency-zibs-and-zinos-ravnica-currency-ggr.md)
 
 ### Comforts of Civilization
 
@@ -133,14 +133,14 @@ Well-established systems undergird society, largely through the efforts of the g
 
 Ravnica lacks any large-scale agriculture operations, its citizens depending on food produced in Selesnya gardens and underground Golgari rot farms. Few parts of Ravnica could be considered wilderness; the rubblebelts, areas where the city has decayed and been reclaimed by natural forces, are the only truly wild areas.
 
-![Comforts of Civilization; Cosmopolitan Conveniences](/3-Mechanics/CLI/tables/comforts-of-civilization-cosmopolitan-conveniences-ggr.md)
+![Comforts of Civilization; Cosmopolitan Conveniences](3-Mechanics/CLI/tables/comforts-of-civilization-cosmopolitan-conveniences-ggr.md)
 
 ### Languages
 
 Dozens of languages can be heard in any of Ravnica's marketplaces, and every tongue has dialects and regional variations. In order for the guilds to function, the Common language is essential. But other languages remain widely used in homes and clan gatherings.
 
-![Standard Languages](/3-Mechanics/CLI/tables/standard-languages-ggr.md)
+![Standard Languages](3-Mechanics/CLI/tables/standard-languages-ggr.md)
 
 A few secret or exotic languages are used on Ravnica as well. Druidic exists and allows a secret communication among druids in different guilds, such as Selesnya and Golgari, but such communication is rare. Thieves' cant is widely used among street gangs and occasionally among rogues in House Dimir and the Golgari Swarm.
 
-![](/3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/001-intro02.webp#center)
+![](3-Mechanics/CLI/books/guildmasters-guide-to-ravnica/img/001-intro02.webp#center)

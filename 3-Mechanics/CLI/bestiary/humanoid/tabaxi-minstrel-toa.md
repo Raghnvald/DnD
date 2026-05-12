@@ -3,23 +3,25 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/humanoid/tabaxi
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/tabaxi
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tabaxi Minstrel
+- "Tabaxi Minstrel"
 ---
-# [Tabaxi Minstrel](3-Mechanics\CLI\bestiary\humanoid/tabaxi-minstrel-toa.md)
+# [Tabaxi Minstrel](3-Mechanics/CLI/bestiary/humanoid/tabaxi-minstrel-toa.md)
 *Source: Tomb of Annihilation p. 233*  
+
+## Tabaxi
 
 Tabaxi are catfolk who hail from the land of Maztica. The ultimate wanderers, Tabaxi rarely stay in one place for long. They love to collect interesting artifacts, gather tales, and lay eyes on all the world's wonders. This curiosity pushes them to leave no secrets uncovered, and no treasures or legends lost. They revere a fickle deity called the Cat Lord, who is said to wander the world.
 
 Tabaxi hunters are trained to survive in the wild, making them excellent guides. Tabaxi minstrels gather in small troupes and make themselves at home in any settlement, earning coin through music and storytelling.
 
-## Names
+### Names
 
 A tabaxi typically has a single name, determined by his or her clan and based on a complex formula involving astrology, prophecy, clan history, and other factors. Male and female tabaxi use the same names, and most use nicknames derived from or inspired by their full names. Tabaxi clan names are usually based on a geographical feature located in or near a clan's territory. Sample tabaxi names include Nest of Eggs ("Eggs"), Dead Leaf ("Leaf"), Eyes of Onyx ("Onyx"), Lost Spear ("Lost"), and Daylight Moon ("Moon"). Clan names include Distant Rain, Hundred Feathers, Sleeping Creek, Bright Cliffs, and Snoring Mountain.
 
@@ -42,15 +44,18 @@ A tabaxi typically has a single name, determined by his or her clan and based on
   - !!int "16"
 "speed": "30 ft., climb 20 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Performance"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+7"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 13"
+"gear":
+  - "[dart](3-Mechanics/CLI/items/dart-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Common plus any two languages"
 "cr": "1/4"
 "traits":
@@ -67,14 +72,14 @@ A tabaxi typically has a single name, determined by his or her clan and based on
 "actions":
   - "desc": "The tabaxi makes two claws attacks or two dart attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ slashing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) piercing damage."
     "name": "Dart"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/tabaxi-minstrel-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/tabaxi-minstrel-toa.webp"
 ```
 ^statblock

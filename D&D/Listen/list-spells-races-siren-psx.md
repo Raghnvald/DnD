@@ -1,0 +1,14 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/race/siren
+aliases:
+- "Spells for Siren"
+---
+# Spells for Siren
+
+## Cantrip
+
+- [Friends](3-Mechanics/CLI/spells/friends.md "PHB") as cantrip

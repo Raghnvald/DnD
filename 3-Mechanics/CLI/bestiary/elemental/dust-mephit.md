@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dust Mephit
+- "Dust Mephit"
 ---
-# [Dust Mephit](3-Mechanics\CLI\bestiary\elemental/dust-mephit.md)
+# [Dust Mephit](3-Mechanics/CLI/bestiary/elemental/dust-mephit.md)
 *Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Mephits
@@ -48,39 +48,39 @@ Composed of earth and air, dust mephits are drawn to catacombs and find death mo
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Auran, Terran"
 "cr": "1/2"
 "traits":
-  - "desc": "The mephit can innately cast [sleep](/3-Mechanics/CLI/spells/sleep.md),\
+  - "desc": "The mephit can innately cast [sleep](3-Mechanics/CLI/spells/sleep.md),\
       \ requiring no material components. Its innate spellcasting ability is Charisma.\n"
     "name": "Innate Spellcasting (1/Day)"
   - "desc": "When the mephit dies, it explodes in a burst of dust. Each creature within\
       \ 5 feet of it must then succeed on a DC 10 Constitution saving throw or be\
-      \ [blinded](/3-Mechanics/CLI/conditions.md#Blinded) for 1 minute. A [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. A [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ creature can repeat the saving throw on each of its turns, ending the effect\
       \ on itself on a success."
     "name": "Death Burst"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) slashing damage."
     "name": "Claws"
   - "desc": "The mephit exhales a 15-foot cone of blinding dust. Each creature in\
-      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
+      \ that area must succeed on a DC 10 Dexterity saving throw or be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Blinding Breath (Recharge 6)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/dust-mephit.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/dust-mephit.webp"
 ```
 ^statblock
 

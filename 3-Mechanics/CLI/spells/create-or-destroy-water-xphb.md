@@ -4,28 +4,25 @@ cssclasses:
 - json5e-spell
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/background/izzet-engineer
 - ttrpg-cli/spell/class/bard
 - ttrpg-cli/spell/class/cleric
 - ttrpg-cli/spell/class/druid
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+- ttrpg-cli/spell/feat/strixhaven-initiate/witherbloom-3
 - ttrpg-cli/spell/level/1st-level
 - ttrpg-cli/spell/school/transmutation
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-the-open-sea
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/the-fathomless
-- ttrpg-cli/spell/subrace/genasi-water
 classes:
 - Bard
 - Bard (College of Lore)
 - Cleric
 - Druid
-- Paladin (Oath of the Open Sea)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Fathomless)
 aliases:
-- Create or Destroy Water
+- "Create or Destroy Water"
 ---
 # Create or Destroy Water
 *1st-level, Transmutation*  
@@ -38,11 +35,11 @@ aliases:
 
 You do one of the following:
 
-- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) within range, extinguishing exposed flames there.  
-- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) within range.  
+- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) within range, extinguishing exposed flames there.  
+- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) within range.  
 
-**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [Cube](/3-Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet, for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [Cube](3-Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet, for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Open Sea)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-the-open-sea-tdcsr.md "subclass=TDCSR;class=XPHB"); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](/3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](3-Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
 
 *Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*

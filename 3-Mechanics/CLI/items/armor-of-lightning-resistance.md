@@ -11,7 +11,7 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Lightning Resistance"
 - "Breastplate of Lightning Resistance"
 - "Chain Mail of Lightning Resistance"

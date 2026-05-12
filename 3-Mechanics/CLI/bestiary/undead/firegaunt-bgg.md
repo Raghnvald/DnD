@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Firegaunt
+- "Firegaunt"
 ---
-# [Firegaunt](3-Mechanics\CLI\bestiary\undead/firegaunt-bgg.md)
+# [Firegaunt](3-Mechanics/CLI/bestiary/undead/firegaunt-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 137*  
 
 A fire giant whose burning hatred prevents it from moving on to the afterlife rises as a firegaunt. Spawned from deep rancor, the firegaunt seeks out living creatures to destroy. Like a specter, it doesn't seek redemption; it just hopes to cause as much destruction as possible before attaining its final oblivion.
@@ -42,14 +42,13 @@ A firegaunt looks like a severely burned corpse. Supernatural crimson flames flo
   - "constitution": !!int "10"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+11"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_resistances": "necrotic"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "exhaustion, petrified, poisoned"
 "senses": "passive Perception 16"
 "languages": "Giant"
 "cr": "11"
@@ -61,11 +60,11 @@ A firegaunt looks like a severely burned corpse. Supernatural crimson flames flo
 "actions":
   - "desc": "The firegaunt makes two Heated Maul attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 23\
-      \ (3d10 + 7) bludgeoning damage. The firegaunt can cause the maul to erupt with\
-      \ crimson flames, and the target must succeed on a DC 18 Dexterity saving throw\
-      \ or take 10 (3d6) fire damage and 10 (3d6) necrotic damage. The maul can erupt\
-      \ with flames in this way only once per turn."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:*\
+      \ 23 (3d10 + 7) bludgeoning damage. The firegaunt can cause the maul to erupt\
+      \ with crimson flames, and the target must succeed on a DC 18 Dexterity saving\
+      \ throw or take 10 (3d6) fire damage and 10 (3d6) necrotic damage. The maul\
+      \ can erupt with flames in this way only once per turn."
     "name": "Heated Maul"
   - "desc": "The firegaunt emits beams of fire from its eyes, mouth, and wounds in\
       \ a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving\
@@ -77,6 +76,6 @@ A firegaunt looks like a severely burned corpse. Supernatural crimson flames flo
     "name": "Crimson Rays (Recharge 5-6)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/firegaunt-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/firegaunt-bgg.webp"
 ```
 ^statblock

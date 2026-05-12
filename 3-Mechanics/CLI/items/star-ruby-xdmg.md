@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/gear/treasure-gemstone
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Star Ruby"
 ---
 # Star Ruby
 *Treasure (gemstone)*  
 
 
-- **Cost**: 1,000 gp
+- **Cost**: 1.000 gp
 
 A ruby with white star-shaped center gemstone.
 

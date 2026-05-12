@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Noble
+- "Noble"
 ---
-# [Noble](3-Mechanics\CLI\bestiary\humanoid/noble-xmm.md)
+# [Noble](3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)
 *Source: Monster Manual (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 A noble's social advantages typically grant the noble access to greater education and training than most common folk, while nobles' experience with business or politics makes many adept negotiators.
@@ -45,17 +45,21 @@ Nobles encompass a variety of people with social influence. They might be rulers
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[breastplate](3-Mechanics/CLI/items/breastplate-xphb.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 12"
 "languages": "Common plus two other languages"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing\
+      \ damage."
     "name": "Rapier"
 "reactions":
   - "desc": "Trigger: The noble is hit by a melee attack roll while holding a weapon.\
@@ -64,7 +68,7 @@ Nobles encompass a variety of people with social influence. They might be rulers
     "name": "Parry"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/noble-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/noble-xmm.webp"
 ```
 ^statblock
 

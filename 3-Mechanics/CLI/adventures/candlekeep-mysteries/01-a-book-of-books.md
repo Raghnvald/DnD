@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
+- ttrpg-cli/compendium/src/5e/cm
 aliases:
-- A Book of Books
+- "A Book of Books"
 ---
 # A Book of Books
 *Source: Candlekeep Mysteries, p. 4* 
@@ -90,6 +90,6 @@ Details about the history and nature of the Realms fill volumes, and much of tha
 | Xanthoria | 16 | A fell grimoire helps adventurers end a fungal plague. |
 ^candlekeep-mysteries
 
-![](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/000-00-004-divider.webp#center)
+![](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/000-00-004-divider.webp#center)
 
-![Poster Map](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/map-poster.webp#center)
+![Poster Map](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/map-poster.webp#center)

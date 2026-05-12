@@ -5,8 +5,8 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/deity/greyhawk
-aliases: 
-- Fharlanghn
+aliases:
+- "Fharlanghn"
 ---
 # Fharlanghn
 *Source: Dungeon Master's Guide (2024) p. 148* 

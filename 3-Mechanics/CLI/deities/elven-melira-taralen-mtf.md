@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/trickery
-aliases: 
-- Melira Taralen
+aliases:
+- "Melira Taralen"
 ---
 # Melira Taralen
 *Source: Mordenkainen's Tome of Foes p. 43* 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Orzhov Character Goals; Orzhov Assignments
+- "Orzhov Character Goals; Orzhov Assignments"
 ---
 # Orzhov Character Goals; Orzhov Assignments
 *Source: Guildmasters' Guide to Ravnica p. 149* 
 
 **Orzhov Assignments**
-
-`dice: [](orzhov-character-goals-orzhov-assignments-ggr.md#^orzhov-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

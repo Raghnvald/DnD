@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/nature
-aliases: 
-- Rillifane Rallathil
+aliases:
+- "Rillifane Rallathil"
 ---
 # Rillifane Rallathil
 *Source: Mordenkainen's Tome of Foes p. 46* 

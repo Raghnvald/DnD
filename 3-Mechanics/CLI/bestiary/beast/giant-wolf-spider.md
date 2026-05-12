@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Wolf Spider
+- "Giant Wolf Spider"
 ---
-# [Giant Wolf Spider](3-Mechanics\CLI\bestiary\beast/giant-wolf-spider.md)
+# [Giant Wolf Spider](3-Mechanics/CLI/bestiary/beast/giant-wolf-spider.md)
 *Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
@@ -40,11 +40,11 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/4"
@@ -58,17 +58,17 @@ Smaller than a giant spider, a giant wolf spider hunts prey across open ground o
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 7 (2d6) poison damage on a failed save, or half as much damage\
-      \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ for 1 hour, even after regaining hit points, and is [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
-      \ while [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 7 (2d6) poison damage on a failed save, or half as\
+      \ much damage on a successful one. If the poison damage reduces the target to\
+      \ 0 hit points, the target is stable but [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour, even after regaining hit points, and is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-wolf-spider.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-wolf-spider.webp"
 ```
 ^statblock
 

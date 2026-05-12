@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/very-rare
-aliases: 
+aliases:
 - "Tome of Clear Thought"
 ---
 # Tome of Clear Thought
 *Wondrous item, very rare*  
-![](/3-Mechanics/CLI/items/img/tome-of-clear-thought.webp#right)
+![](3-Mechanics/CLI/items/img/tome-of-clear-thought.webp#right)
 
 - **Weight**: 5.0 lbs.
 

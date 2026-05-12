@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pentadrone (Rogue)
+- "Pentadrone (Rogue)"
 ---
-# [Pentadrone (Rogue)](3-Mechanics\CLI\bestiary\construct/pentadrone-rogue.md)
+# [Pentadrone (Rogue)](3-Mechanics/CLI/bestiary/construct/pentadrone-rogue.md)
 *Source: Monster Manual p. 226*  
 
 ```statblock
@@ -34,10 +34,10 @@ aliases:
   - !!int "13"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 14"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 14"
 "languages": "Modron"
 "cr": "2"
 "traits":
@@ -47,11 +47,11 @@ aliases:
 "actions":
   - "desc": "The pentadrone makes five arm attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage."
     "name": "Arm"
   - "desc": "The pentadrone exhales a 30-foot cone of gas. Each creature in that area\
-      \ must succeed on a DC 11 Constitution saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+      \ must succeed on a DC 11 Constitution saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success."
     "name": "Paralysis Gas (Recharge 5-6)"

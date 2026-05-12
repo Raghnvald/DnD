@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/ooze
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/ooze
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reduced-Threat Gray Ooze
+- "Reduced-Threat Gray Ooze"
 ---
-# [Reduced-Threat Gray Ooze](3-Mechanics\CLI\bestiary\ooze/reduced-threat-gray-ooze-tftyp.md)
+# [Reduced-Threat Gray Ooze](3-Mechanics/CLI/bestiary/ooze/reduced-threat-gray-ooze-tftyp.md)
 *Source: Tales from the Yawning Portal p. 113*  
 
 ```statblock
@@ -33,11 +33,14 @@ aliases:
   - !!int "2"
 "speed": "10 ft., climb 10 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+0"
 "damage_resistances": "acid, cold, fire"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, prone"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -58,14 +61,14 @@ aliases:
       \ pool or wet rock."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing\
-      \ nonmagical metal armor, its armor is partly corroded and takes a permanent\
-      \ and cumulative −1 penalty to the AC it offers. The armor is destroyed if the\
-      \ penalty reduces its AC to 10."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target\
+      \ is wearing nonmagical metal armor, its armor is partly corroded and takes\
+      \ a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed\
+      \ if the penalty reduces its AC to 10."
     "name": "Pseudopod"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/ooze/token/reduced-threat-gray-ooze-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/ooze/token/reduced-threat-gray-ooze-tftyp.webp"
 ```
 ^statblock

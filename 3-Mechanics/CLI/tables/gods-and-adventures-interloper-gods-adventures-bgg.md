@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Gods and Adventures; Interloper Gods Adventures
+- "Gods and Adventures; Interloper Gods Adventures"
 ---
 # Gods and Adventures; Interloper Gods Adventures
 *Source: Bigby Presents: Glory of the Giants p. 33* 
 
 **Interloper Gods Adventures**
-
-`dice: [](gods-and-adventures-interloper-gods-adventures-bgg.md#^interloper-gods-adventures)`
 
 | dice: d10 | Adventure Hook |
 |-----------|----------------|

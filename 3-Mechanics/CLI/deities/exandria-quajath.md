@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/war
-aliases: 
-- Quajath
+aliases:
+- "Quajath"
 ---
 # Quajath
 *Source: Explorer's Guide to Wildemount p. 32* 

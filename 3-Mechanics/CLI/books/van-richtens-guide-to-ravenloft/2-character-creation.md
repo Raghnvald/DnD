@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Character Creation
+- "Character Creation"
 ---
 # Character Creation
 *Source: Van Richten's Guide to Ravenloft, p. 13* 
@@ -36,9 +36,9 @@ Choose a fateful cast to your origins with optional features for any background.
 
 ## Horror Trinkets
 
-Learn what [creepy curio](/3-Mechanics/CLI/items/horror-trinket-vrgr.md) inspires or haunts your adventures.
+Learn what [creepy curio](3-Mechanics/CLI/items/horror-trinket-vrgr.md) inspires or haunts your adventures.
 
-![Monster hunters Gennifer a...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/008-01-001-chapter-one-intro.webp#center "Monster hunters Gennifer and Laurie Weathermay- Foxgrove corner the werewolf Natalia Vhorishkova")
+![Monster hunters Gennifer and Laurie Weathermay- Foxgrove corner the werewolf Natalia Vhorishkova](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/008-01-001-chapter-one-intro.webp#center)
 
 ## Haunted Heroes
 
@@ -58,7 +58,7 @@ When planning to play a scary adventure, create a character prepared to be scare
 
 When creating and playing your character, consider courage not as the absence of fear but as the process of overcoming it. How might your character react in surprise before they rally to overcome the terror they face? Do they scream, flee, or freeze? Or might they throw themself into battle, perhaps recklessly or for too long? Record a default reaction on your character sheet so you can respond consistently when shocking events occur.
 
-Beyond this, discuss with your group how much fear ties into the game's rules. Would you prefer to keep frightful reactions narrative, or would you like to use game rules that present additional challenges and benefits? Ask your DM about the possibility of using the rules for inspiration to motivate fearful character reactions, as detailed in the "[Fear and Stress](fear-and-stress-vrgr.md)" section of "chapter 4". Using this system, a character who possesses particular fears and uses them to guide their responses to horrific scenes might earn inspiration for reinforcing the adventure's frightful atmosphere. The DM might not employ these rules every time something frightening occurs, but your group might use them as a way to highlight individual fears and build an adventure's overarching sense of dread.
+Beyond this, discuss with your group how much fear ties into the game's rules. Would you prefer to keep frightful reactions narrative, or would you like to use game rules that present additional challenges and benefits? Ask your DM about the possibility of using the rules for inspiration to motivate fearful character reactions, as detailed in the "[Fear and Stress](3-Mechanics/CLI/rules/variant-rules/fear-and-stress-vrgr.md)" section of "chapter 4". Using this system, a character who possesses particular fears and uses them to guide their responses to horrific scenes might earn inspiration for reinforcing the adventure's frightful atmosphere. The DM might not employ these rules every time something frightening occurs, but your group might use them as a way to highlight individual fears and build an adventure's overarching sense of dread.
 
 > [!note] From the Mists or Beyond?
 > 
@@ -81,7 +81,7 @@ This book assumes you're playing a character who pits themself against fearful f
 
 Playing horror adventures is similar to telling ghost stories around a fire. You and the game's other players are allies in creating a fun, safe, moody atmosphere for your game. Contribute to this by keeping the following elements in mind:
 
-![Despite a vampire's bite, ...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/009-01-002-orc-hero.webp#center "Despite a vampire's bite, an orc hero faces his fears")
+![Despite a vampire's bite, an orc hero faces his fears](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/009-01-002-orc-hero.webp#center)
 
 - **Focus on the Game.** Atmosphere requires attention. You're not embracing or contributing to the adventure's moody atmosphere when you're focused on something else.  
 - **Limit Comedy.** Be aware that comedy breaks tension. Nothing dispels an ominous atmosphere like jokes, be they in character or otherwise.  
@@ -124,11 +124,11 @@ If you are replacing your race with a lineage, you retain any languages you had 
 
 Every creature in D&D, including every player character, has a special tag in the rules that identifies the type of creature they are. Most player characters are of the Humanoid type. A race option presented here tells you what your character's creature type is.
 
-Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the text of the [cure wounds](/3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell specifies that the spell doesn't work on a creature of the Construct type.
+Here's a list of the game's creature types in alphabetical order: Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, Undead. These types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways. For example, the text of the [cure wounds](3-Mechanics/CLI/spells/cure-wounds-xphb.md) spell specifies that the spell doesn't work on a creature of the Construct type.
 
 ## Dhampir
 
-See the [Dhampir](/3-Mechanics/CLI/races/dhampir-vrgr.md) entry.
+See the [Dhampir](3-Mechanics/CLI/races/dhampir-vrgr.md) entry.
 
 ### Dhampirs in the Domains of Dread
 
@@ -144,13 +144,13 @@ The Kargat, this shattered domain's secret police, supposedly know the secret of
 
 #### I'Cath
 
-At night, the starving city of I'Cath is overrun by vampiric [jiangshi](/3-Mechanics/CLI/bestiary/undead/jiangshi-vrgr.md) (described in "chapter 5"). You were left with a cold hunger after an encounter with one of these unquiet ancestors.
+At night, the starving city of I'Cath is overrun by vampiric [jiangshi](3-Mechanics/CLI/bestiary/undead/jiangshi-vrgr.md) (described in "chapter 5"). You were left with a cold hunger after an encounter with one of these unquiet ancestors.
 
-![The dhampir Savra Sunstar ...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/011-01-004-savra-sunstar.webp#center "The dhampir Savra Sunstar confronts her father, the vampire Jander Sunstar")
+![The dhampir Savra Sunstar confronts her father, the vampire Jander Sunstar](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/011-01-004-savra-sunstar.webp#center)
 
 ## Hexblood
 
-See the [Hexblood](/3-Mechanics/CLI/races/hexblood-vrgr.md) entry.
+See the [Hexblood](3-Mechanics/CLI/races/hexblood-vrgr.md) entry.
 
 ### Hexbloods in the Domains of Dread
 
@@ -168,11 +168,11 @@ Whimsical witches make their homes in the forests of Kartakass. They eagerly gra
 
 Many of the children in the town of Viktal are hexbloods who exhibit their supernatural natures from a young age. Each youngster is considered a gift from the town's patron deity, who is known as Mother.
 
-![Hexbloods infused with the...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/013-01-006-hexblood-cauldron.webp#center "Hexbloods infused with the magic of sea, green, and annis hags share a moment around the cauldron.")
+![Hexbloods infused with the magic of sea, green, and annis hags share a moment around the cauldron.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/013-01-006-hexblood-cauldron.webp#center)
 
 ## Reborn
 
-See the [Reborn](/3-Mechanics/CLI/races/reborn-vrgr.md) entry.
+See the [Reborn](3-Mechanics/CLI/races/reborn-vrgr.md) entry.
 
 ### Reborn in the Domains of Dread
 
@@ -190,7 +190,7 @@ You awoke amid the bizarre experiments of an amoral scientist. They consider you
 
 You emerged from the mysterious device known as the Apparatus, your body a lifeless shell and your past a mystery.
 
-![Wary and confused, a rebor...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/015-01-008-apparatus-of-mordent.webp#center "Wary and confused, a reborn emerges after the infamous Apparatus of Mordent malfunctions.")
+![Wary and confused, a reborn emerges after the infamous Apparatus of Mordent malfunctions.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/015-01-008-apparatus-of-mordent.webp#center)
 
 ## Dark Gifts
 
@@ -200,7 +200,7 @@ A character can select a Dark Gift from the ""Dark Gifts Descriptions"" section.
 
 Dark Gifts are intended for starting characters, but characters who don't choose one might be presented with opportunities to gain a Dark Gift as their stories—and desperate circumstances—unfold.
 
-![Sinister forces lurk in th...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/016-01-009-sinister-forces.webp#center "Sinister forces lurk in the shadows, enticing the unwary with Dark Gifts.")
+![Sinister forces lurk in the shadows, enticing the unwary with Dark Gifts.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/016-01-009-sinister-forces.webp#center)
 
 ### Dark Bargains
 
@@ -233,13 +233,13 @@ This section presents a selection of Dark Gifts in alphabetical order.
 
 At 3rd level, a bard chooses a Bard College. At 1st level, a warlock chooses an Otherworldly Patron. This section offers the College of Spirits for the bard and The Undead Otherworldly Patron for the warlock, expanding their options for those choices.
 
-![A human bard of spirits ev...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/018-01-011-bard-of-spirits.webp#center "A human bard of spirits evokes a tale inspired by the Avenger tarokka card.")
+![A human bard of spirits evokes a tale inspired by the Avenger tarokka card.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/018-01-011-bard-of-spirits.webp#center)
 
-![Wood Elf Warlock of the Undead](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/019-01-012-wood-elf-warlock-of-the-undead.webp#center)
+![Wood Elf Warlock of the Undead](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/019-01-012-wood-elf-warlock-of-the-undead.webp#center)
 
 ## Backgrounds
 
-The following background features explore origins suited to characters in horror adventures. Optional features and characteristics for characters of any background suggest how portentous forces might influence anyone's life. Additionally, the [haunted one](/3-Mechanics/CLI/backgrounds/haunted-one-vrgr.md) and [investigator](/3-Mechanics/CLI/backgrounds/investigator-vrgr.md) backgrounds provide options for characters shaped by or determined to reveal the mysteries surrounding them. Finally, a selection of horror trinkets provide characters options to carry their own personal terrors.
+The following background features explore origins suited to characters in horror adventures. Optional features and characteristics for characters of any background suggest how portentous forces might influence anyone's life. Additionally, the [haunted one](3-Mechanics/CLI/backgrounds/haunted-one-vrgr.md) and [investigator](3-Mechanics/CLI/backgrounds/investigator-vrgr.md) backgrounds provide options for characters shaped by or determined to reveal the mysteries surrounding them. Finally, a selection of horror trinkets provide characters options to carry their own personal terrors.
 
 ### General Background Features
 
@@ -258,22 +258,22 @@ This section presents optional features for any background. You may replace the 
 > If you're interested in exploring this, the Inheritor background feature provides a token that might be passed on from a previous character. Perhaps it's a signature tool, a journal, or a dormant (or misplaced) magic item. Work with your DM to detail this inheritance and how it can factor into future adventures.
 ^generational-background-features
 
-![A knight of the Circle tak...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/020-01-013-a-knight-of-the-circle.webp#center "A knight of the Circle takes up her ancestors' sacred charge to challenge the dark.")
+![A knight of the Circle takes up her ancestors' sacred charge to challenge the dark.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/020-01-013-a-knight-of-the-circle.webp#center)
 
 ### Horror Characteristics
 
 Characters in a horror-focused campaign might have distinct motivations and characteristics. Use the following tables to supplement your background's suggested characteristics or to inspire those of your own design.
 
-![Horror Characteristics; Horror Character Personality Traits](/3-Mechanics/CLI/tables/horror-characteristics-horror-character-personality-traits-vrgr.md)
+![Horror Characteristics; Horror Character Personality Traits](3-Mechanics/CLI/tables/horror-characteristics-horror-character-personality-traits-vrgr.md)
 
-![Horror Characteristics; Horror Character Ideals](/3-Mechanics/CLI/tables/horror-characteristics-horror-character-ideals-vrgr.md)
+![Horror Characteristics; Horror Character Ideals](3-Mechanics/CLI/tables/horror-characteristics-horror-character-ideals-vrgr.md)
 
-![Horror Characteristics; Horror Character Bonds](/3-Mechanics/CLI/tables/horror-characteristics-horror-character-bonds-vrgr.md)
+![Horror Characteristics; Horror Character Bonds](3-Mechanics/CLI/tables/horror-characteristics-horror-character-bonds-vrgr.md)
 
-![Horror Characteristics; Horror Character Flaws](/3-Mechanics/CLI/tables/horror-characteristics-horror-character-flaws-vrgr.md)
+![Horror Characteristics; Horror Character Flaws](3-Mechanics/CLI/tables/horror-characteristics-horror-character-flaws-vrgr.md)
 
 ### Horror Trinkets
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/023-01-016-raven-letter.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/023-01-016-raven-letter.webp#center)
 
-Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars—[summaries of terrors in material form](/3-Mechanics/CLI/items/horror-trinket-vrgr.md).
+Sinister deeds and festering evils take many forms, sometimes as stories and sometimes as physical scars. All manner of talismans, mementos, criminal evidence, mysterious devices, cursed relics, and physical impossibilities might embody just such scars—[summaries of terrors in material form](3-Mechanics/CLI/items/horror-trinket-vrgr.md).

@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/war
-aliases: 
-- Haela Brightaxe
+aliases:
+- "Haela Brightaxe"
 ---
 # Haela Brightaxe
 *Source: Mordenkainen's Tome of Foes p. 73* 

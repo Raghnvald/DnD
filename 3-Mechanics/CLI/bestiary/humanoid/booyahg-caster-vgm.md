@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Booyahg Caster
+- "Booyahg Caster"
 ---
-# [Booyahg Caster](3-Mechanics\CLI\bestiary\humanoid/booyahg-caster-vgm.md)
+# [Booyahg Caster](3-Mechanics/CLI/bestiary/humanoid/booyahg-caster-vgm.md)
 *Source: Volo's Guide to Monsters p. 42*  
 
 This goblin served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
@@ -32,7 +32,7 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md), [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "7"
 "hit_dice": "2d6"
 "modifier": !!int "2"
@@ -45,29 +45,33 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
   - !!int "8"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Common, Goblin"
 "cr": "1/4"
 "traits":
   - "desc": "The goblin can cast a randomly determined 1st-level wizard spell once\
-      \ per day. Intelligence is its spellcasting ability (spell save DC 10, +2 to\
-      \ hit with spell attacks).\n"
+      \ per day. Intelligence is its spellcasting ability (spell save DC 10, +2\
+      \ to hit with spell attacks).\n"
     "name": "Spellcasting"
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action\
+      \ on each of its turns."
     "name": "Nimble Escape"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Scimitar"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Shortbow"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/booyahg-caster-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/booyahg-caster-vgm.webp"
 ```
 ^statblock

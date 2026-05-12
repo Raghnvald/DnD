@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pidlwick II
+- "Pidlwick II"
 ---
-# [Pidlwick II](3-Mechanics\CLI\bestiary\npc/pidlwick-ii-cos.md)
+# [Pidlwick II](3-Mechanics/CLI/bestiary/npc/pidlwick-ii-cos.md)
 *Source: Curse of Strahd p. 236*  
 
 After her husband died in battle, Duchess Dorfniya Dilisnya set her sights on becoming Count Strahd von Zarovich's bride, but she failed to win his love. Her visits to the castle were nonetheless frequent, and she never traveled without her fool, the delightful Pidlwick. The little man was like a ray of sunshine in Castle Ravenloft, and though he failed to amuse Strahd, he delighted Tatyana and Sergei with his jokes and gambols. As a result, Strahd didn't object whenever Pidlwick and the duchess came to visit.
@@ -68,11 +68,13 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "Performance"
     "desc": "+2"
 "damage_immunities": "poison"
-"condition_immunities": "[paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "paralyzed, petrified, poisoned"
+"gear":
+  - "club"
+  - "dart"
 "senses": "passive Perception 11"
 "languages": "understands Common but doesn't speak and can't read or write"
 "cr": "1/4"
@@ -81,14 +83,14 @@ Pidlwick II is basically an oversized toy - a 4-foot-tall mechanism stuffed with
       \ rolls against any creature that hasn't had a turn yet."
     "name": "Ambusher"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Club"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 20/60 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) piercing damage."
     "name": "Dart"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/pidlwick-ii-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/pidlwick-ii-cos.webp"
 ```
 ^statblock

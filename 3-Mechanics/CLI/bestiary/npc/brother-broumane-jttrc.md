@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Brother Broumane
+- "Brother Broumane"
 ---
-# [Brother Broumane](3-Mechanics\CLI\bestiary\npc/brother-broumane-jttrc.md)
+# [Brother Broumane](3-Mechanics/CLI/bestiary/npc/brother-broumane-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 178*  
 
 ```statblock
@@ -34,9 +34,12 @@ aliases:
   - !!int "12"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Aquan, Common"
 "cr": "1/8"
 "traits":
@@ -49,6 +52,6 @@ aliases:
     "name": "Spear"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/brother-broumane-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/brother-broumane-jttrc.webp"
 ```
 ^statblock

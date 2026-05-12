@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Altisaur
+- "Altisaur"
 ---
-# [Altisaur](3-Mechanics\CLI\bestiary\monstrosity/altisaur-bgg.md)
+# [Altisaur](3-Mechanics/CLI/bestiary/monstrosity/altisaur-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 129*  
 
 The altisaur is a titanic sauropod often likened to a walking mountain, with craggy spines, patterns of elemental energy that glow in its hide like streams of lava, and eight massive legs the size of ancient trees. It creates gullies where its tail drags along the ground. Clouds often seem to gather around its head, which can reach as high as 150 feet off the ground.
@@ -41,7 +41,7 @@ When Annam's children first began to populate the worlds of the Material Plane, 
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+11"
 "senses": "passive Perception 21"
 "languages": ""
@@ -54,17 +54,16 @@ When Annam's children first began to populate the worlds of the Material Plane, 
   - "desc": "The altisaur makes one Stomp attack and one Tail attack. The altisaur\
       \ can't make both attacks against the same target."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 33\
-      \ (7d6 + 9) bludgeoning damage. If the target is a Huge or smaller creature,\
-      \ it must succeed on a DC 22 Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 33 (7d6 + 9) bludgeoning damage. If the target is a Huge or smaller creature,\
+      \ it must succeed on a DC 22 Strength saving throw or have the prone condition."
     "name": "Stomp"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 45\
-      \ (8d8 + 9) bludgeoning damage, and the target is pushed up to 20 feet horizontally\
-      \ from the altisaur."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:*\
+      \ 45 (8d8 + 9) bludgeoning damage, and the target is pushed up to 20 feet\
+      \ horizontally from the altisaur."
     "name": "Tail"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/altisaur-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/altisaur-bgg.webp"
 ```
 ^statblock

@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/skt
-- new/item/attunement/required
-- new/item/rarity/rare
-aliases: 
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/rare
+aliases:
 - "Orb of the Stein Rune"
 ---
 # Orb of the Stein Rune
@@ -23,17 +23,17 @@ As an action, you can channel the orb's magic to hold your ground. For the next 
 
 ## Stone Soul
 
-You can't be petrified.
+You can't be [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified).
 
 ## Earthen Step
 
-You can cast meld into stone as a bonus action. Once you use this property, you can't use it again until you finish a short or long rest.
+You can cast [meld into stone](3-Mechanics/CLI/spells/meld-into-stone-xphb.md) as a bonus action. Once you use this property, you can't use it again until you finish a short or long rest.
 
 ## Gift of Stone
 
 You can transfer the orb's magic to a nonmagical item—a shield or a pair of boots—by tracing the stein rune there with your finger. The transfer takes 8 hours of work that requires the two items to be within 5 feet of each other. At the end, the orb is destroyed, and the rune appears in silver on the chosen item, which gains a benefit based on its form:
 
 - **Shield.** The shield is now a rare magic item that requires attunement. While you wield it, you have resistance to all damage dealt by ranged weapon attacks.  
-- **Boots.** The pair of boots is now an uncommon magic item that requires attunement. While you wear the boots, you have advantage on Strength saving throws, and you can use your reaction to avoid being knocked prone.  
+- **Boots.** The pair of boots is now an uncommon magic item that requires attunement. While you wear the boots, you have advantage on Strength saving throws, and you can use your reaction to avoid being knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).  
 
 *Source: Storm King's Thunder p. 235*

@@ -18,9 +18,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Stirge
+- "Stirge"
 ---
-# [Stirge](3-Mechanics\CLI\bestiary\monstrosity/stirge-xmm.md)
+# [Stirge](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md)
 *Source: Monster Manual (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 A single stirge is usually little more than an annoyance, but several can be deadly if they attach faster than a victim can remove them.
@@ -35,8 +35,6 @@ A single stirge is usually little more than an annoyance, but several can be dea
 Stirges are bat-size vermin with dagger-length proboscises that attach to other creatures and drain life from them. Stirges are most active at night and hide in shadowy places during the day. If disturbed, they take flight and defend themselves. Roll on or choose a result from the Stirge Roosts table to inspire where stirges might lurk.
 
 **Stirge Roosts**
-
-`dice: [](stirge-xmm.md#^stirge-roosts)`
 
 | dice: 1d4 | Between Hunts, the Stirge Lurks In... |
 |-----------|---------------------------------------|
@@ -63,21 +61,21 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
   - !!int "8"
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": ""
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing damage,\
-      \ and the stirge attaches to the target. While attached, the stirge can't make\
-      \ Proboscis attacks, and the target takes 5 (2d4) Necrotic damage at the start\
-      \ of each of the stirge's turns.\n\nThe stirge can detach itself by spending\
-      \ 5 feet of its movement. The target or a creature within 5 feet of it can detach\
-      \ the stirge as an action."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 6 (1d6 + 3) Piercing\
+      \ damage, and the stirge attaches to the target. While attached, the stirge\
+      \ can't make Proboscis attacks, and the target takes 5 (2d4) Necrotic damage\
+      \ at the start of each of the stirge's turns.\n\nThe stirge can detach itself\
+      \ by spending 5 feet of its movement. The target or a creature within 5 feet\
+      \ of it can detach the stirge as an action."
     "name": "Proboscis"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/stirge-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/stirge-xmm.webp"
 ```
 ^statblock
 

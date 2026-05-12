@@ -3,20 +3,20 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-deck
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Sidekick Cards
+- "Sidekick Cards"
 ---
 # Sidekick Cards
 *Source: Dragon of Icespire Peak p. 65*  
 
 On your adventures, the DM might reveal that you've befriended a special character called a sidekick, who joins your party. This appendix presents the game statistics for sidekicks, of which there are three types:
 
-Expert, an agile and exceedingly helpful jack of all trades
+[Expert](3-Mechanics/CLI/bestiary/humanoid/expert-esk.md), an agile and exceedingly helpful jack of all trades
 
-Spellcaster, a magic-user who can cast spells to harm your foes or heal you and your friends
+[Spellcaster](3-Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md), a magic-user who can cast spells to harm your foes or heal you and your friends
 
-Warrior, a martial companion who specializes in striking your foes or defending you and your allies
+[Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-esk.md), a martial companion who specializes in striking your foes or defending you and your allies
 
 The DM will either tell you which type of sidekick to use or let you choose one. It's up to you and the DM to decide who controls the sidekick in play.
 
@@ -26,12 +26,12 @@ The DM will either tell you which type of sidekick to use or let you choose one.
 ## Cards
 
 ### Donnabella Fiasco
-![](/3-Mechanics/CLI/decks/img/sidekicks-donnabellafiasco.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-donnabellafiasco.webp#card)
 *Human Spellcaster*
 
 Donnabella is a young magic-user who wears a papier-mâché unicorn mask because it makes her feel more magical.
 
-Use the Spellcaster sidekick stat block to represent her.
+Use the [Spellcaster](3-Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md) sidekick stat block to represent her.
 
 **Personality.** "I'd rather talk to a book than most people."
 
@@ -42,12 +42,12 @@ Use the Spellcaster sidekick stat block to represent her.
 **Flaw.** "I can't keep a secret to save my life—or anyone else's."
 
 ### Galandro Luna
-![](/3-Mechanics/CLI/decks/img/sidekicks-galandroluna.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-galandroluna.webp#card)
 *Human Expert*
 
 Galandro's most treasured possession is a fiddle that he tunes and plucks constantly.
 
-Use the Expert sidekick stat block to represent him.
+Use the [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-esk.md) sidekick stat block to represent him.
 
 **Personality.** "I love a good insult, even one directed at me."
 
@@ -58,12 +58,12 @@ Use the Expert sidekick stat block to represent him.
 **Flaw.** "I'll do anything to win fame and renown."
 
 ### Inverna Nightbreeze
-![](/3-Mechanics/CLI/decks/img/sidekicks-invernanightbreeze.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-invernanightbreeze.webp#card)
 *Moon Elf Warrior*
 
 Inverna has a scar on her cheek where she was grazed by an orc's javelin. She is cautious by nature and suspicious of strangers.
 
-Use the Warrior sidekick stat block to represent her.
+Use the [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-esk.md) sidekick stat block to represent her.
 
 **Personality.** "I choose my words very carefully. Sarcasm, I'm told, is my sharpest weapon."
 
@@ -74,12 +74,12 @@ Use the Warrior sidekick stat block to represent her.
 **Flaw.** "I can't admit when I'm wrong."
 
 ### Nib Addlespur
-![](/3-Mechanics/CLI/decks/img/sidekicks-nibaddlespur.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-nibaddlespur.webp#card)
 *Lightfoot Halfling Spellcaster*
 
 Nib is a happy-go-lucky gambler who keeps a deck of Three-Dragon Ante cards in her vest pocket. She also has a goldfinch named Lil.
 
-Use the Spellcaster sidekick stat block to represent her.
+Use the [Spellcaster](3-Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md) sidekick stat block to represent her.
 
 **Personality.** "I can't resist a sure bet or a friendly wager."
 
@@ -90,12 +90,12 @@ Use the Spellcaster sidekick stat block to represent her.
 **Flaw.** "Deep water terrifies me. I would rather be swallowed by a dragon than get in a boat or go for a swim."
 
 ### Pickled Pete
-![](/3-Mechanics/CLI/decks/img/sidekicks-pickledpete.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-pickledpete.webp#card)
 *Human Expert*
 
 Pete likes ale and tends to function better while tipsy. At his best, he's quite the handyman and comes up with all sorts of crazy ways to get things done.
 
-Use the Expert sidekick stat block to represent him.
+Use the [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-esk.md) sidekick stat block to represent him.
 
 **Personality.** "My friends know they can rely on me, no matter what."
 
@@ -106,12 +106,12 @@ Use the Expert sidekick stat block to represent him.
 **Flaw.** "All this drinking is bad for my memory. Seriously, I can't remember my last name."
 
 ### Quinn Hightopple
-![](/3-Mechanics/CLI/decks/img/sidekicks-quinnhightopple.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-quinnhightopple.webp#card)
 *Lightfoot Halfling Warrior*
 
 Quinn is a happy little scrapper who likes to punch people in the groin.
 
-Use the Warrior sidekick stat block to represent him.
+Use the [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-esk.md) sidekick stat block to represent him.
 
 **Personality.** "Nice set of teeth you got there. Be a shame if something bad happened to 'em."
 
@@ -122,12 +122,12 @@ Use the Warrior sidekick stat block to represent him.
 **Flaw.** "I can't resist punching tall folk in the groin. I call it the Halfling Hello."
 
 ### Ruby Hammerwhacker
-![](/3-Mechanics/CLI/decks/img/sidekicks-rubyhammerwhacker.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-rubyhammerwhacker.webp#card)
 *Shield Dwarf Warrior*
 
 Ruby lacks the customary dwarven stoicism and greets every day with a warm smile and a renewed sense of optimism.
 
-Use the Warrior sidekick stat block to represent her.
+Use the [Warrior](3-Mechanics/CLI/bestiary/humanoid/warrior-esk.md) sidekick stat block to represent her.
 
 **Personality.** "Nothing can shake my optimistic attitude."
 
@@ -138,12 +138,12 @@ Use the Warrior sidekick stat block to represent her.
 **Flaw.** ""Tell me I can't do something, and I must prove you wrong."
 
 ### Shanjan Kwan
-![](/3-Mechanics/CLI/decks/img/sidekicks-shanjankwan.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-shanjankwan.webp#card)
 *Human Spellcaster*
 
 Kwan died and was raised from the dead as an infant, whereupon a tiny black glyph—the symbol of necromancy—appeared on his forehead.
 
-Use the Spellcaster sidekick stat block to represent him.
+Use the [Spellcaster](3-Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md) sidekick stat block to represent him.
 
 **Personality.** "I've cheated death once. I can do it again."
 
@@ -154,12 +154,12 @@ Use the Spellcaster sidekick stat block to represent him.
 **Flaw.** "I don't like mysteries. Unraveling them keeps me up at night."
 
 ### Talon Thornwild
-![](/3-Mechanics/CLI/decks/img/sidekicks-talonthornwild.webp#card)
+![](3-Mechanics/CLI/decks/img/sidekicks-talonthornwild.webp#card)
 *Human Expert*
 
 Talon loves gold and adventure, and dreams of being a famous gold prospector.
 
-Use the Expert sidekick stat block to represent them.
+Use the [Expert](3-Mechanics/CLI/bestiary/humanoid/expert-esk.md) sidekick stat block to represent them.
 
 **Personality.** "Yes, I eat like a pig and have bad manners, but those are my only flaws, I swear. I'm darn near perfect otherwise."
 

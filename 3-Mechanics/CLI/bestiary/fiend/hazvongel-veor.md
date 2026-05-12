@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hazvongel
+- "Hazvongel"
 ---
-# [Hazvongel](3-Mechanics\CLI\bestiary\fiend/hazvongel-veor.md)
+# [Hazvongel](3-Mechanics/CLI/bestiary/fiend/hazvongel-veor.md)
 *Source: Vecna: Eve of Ruin p. 222*  
 
 > [!quote] A quote from The Demon Lord Pazuzu  
@@ -46,13 +46,15 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
   - "constitution": !!int "8"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 17"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 17"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "14"
 "traits":
@@ -62,8 +64,8 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
 "actions":
   - "desc": "The hazvongel makes three Talon attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 18\
-      \ (3d8 + 5) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:*\
+      \ 18 (3d8 + 5) piercing damage."
     "name": "Talon"
   - "desc": "The hazvongel launches a spray of blood in a 90-foot cone. Each creature\
       \ in that area must make a DC 18 Dexterity saving throw, taking 27 (6d8) necrotic\
@@ -71,6 +73,6 @@ Hazvongels sometimes soar in the skies of the Abyss, where they originate, but t
     "name": "Blood Barrage (Recharge 5-6)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/hazvongel-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/hazvongel-veor.webp"
 ```
 ^statblock

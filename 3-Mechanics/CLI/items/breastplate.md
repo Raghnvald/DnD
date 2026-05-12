@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Breastplate"
 ---
 # Breastplate

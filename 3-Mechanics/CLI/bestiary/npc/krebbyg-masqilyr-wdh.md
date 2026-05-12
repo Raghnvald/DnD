@@ -6,23 +6,24 @@ tags:
 - ttrpg-cli/compendium/src/5e/wdh
 - ttrpg-cli/monster/cr/4
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Krebbyg Masq'il'yr
+- "Krebbyg Masq'il'yr"
 ---
-# [Krebbyg Masq'il'yr](3-Mechanics\CLI\bestiary\npc/krebbyg-masqilyr-wdh.md)
+# [Krebbyg Masq'il'yr](3-Mechanics/CLI/bestiary/npc/krebbyg-masqilyr-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 67*  
 
 ```statblock
 "name": "Krebbyg Masq'il'yr (WDH)"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Chaotic Neutral"
 "ac": !!int "18"
-"ac_class": "studded leather, shield"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor-xphb.md),\
+  \ [shield](3-Mechanics/CLI/items/shield-xphb.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "4"
@@ -39,21 +40,26 @@ aliases:
   - "constitution": !!int "4"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+8"
-"senses": "darkvision 120 ft., passive Perception 13"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Elvish, Undercommon"
 "cr": "4"
 "traits":
   - "desc": "Krebbyg's spellcasting ability is Charisma (spell save DC 12) It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** dancing lights\n\n**1/day each:** darkness, faerie fire, levitate\
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md)\n\
+      \n**1/day each:** [darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [faerie\
+      \ fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](3-Mechanics/CLI/spells/levitate-xphb.md)\
       \ (self only)"
     "name": "Innate Spellcasting"
-  - "desc": "Krebbyg has advantage on saving throws against being charmed, and magic\
-      \ can't put Krebbyg to sleep."
+  - "desc": "Krebbyg has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put Krebbyg to sleep."
     "name": "Fey Ancestry"
   - "desc": "Being within 5 feet of a hostile creature or attacking at long range\
       \ doesn't impose disadvantage on Krebbyg's ranged attack rolls with a pistol.\
@@ -61,19 +67,20 @@ aliases:
       \ ranged attacks with a pistol."
     "name": "Gunslinger"
   - "desc": "While in sunlight, Krebbyg has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "Krebbyg makes two shortsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +6 to hit, range 30/90 ft., one target. *Hit:*\
       \ 9 (1d10 + 4) piercing damage plus 11 (2d10) poison damage."
     "name": "Poisonous Pistol"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/krebbyg-masqilyr-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/krebbyg-masqilyr-wdh.webp"
 ```
 ^statblock

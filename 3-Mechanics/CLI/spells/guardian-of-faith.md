@@ -11,18 +11,20 @@ tags:
 - ttrpg-cli/spell/subclass/life-domain
 - ttrpg-cli/spell/subclass/light-domain
 - ttrpg-cli/spell/subclass/oath-of-devotion
+- ttrpg-cli/spell/subclass/solidarity-domain-psa
 classes:
 - Bard (Magical Secrets)
 - Cleric
 - Cleric (Life Domain)
 - Cleric (Light Domain)
+- Cleric (Solidarity Domain (PSA))
 - Paladin (Oath of Devotion)
 aliases:
-- Guardian of Faith
+- "Guardian of Faith"
 ---
 # Guardian of Faith
 *4th-level, Conjuration*  
-![](/3-Mechanics/CLI/spells/img/guardian-of-faith.webp#right)
+![](3-Mechanics/CLI/spells/img/guardian-of-faith.webp#right)
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -33,6 +35,6 @@ A Large spectral guardian appears and hovers for the duration in an unoccupied s
 
 Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw. The creature takes 20 radiant damage on a failed save, or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric (Solidarity Domain (PSA))](3-Mechanics/CLI/lists/list-spells-classes-solidarity-domain-psa-psa.md "subclass=PSA"); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Devotion)](3-Mechanics/CLI/lists/list-spells-classes-oath-of-devotion.md)
 
 *Source: Player's Handbook p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

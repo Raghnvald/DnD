@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Adventures; Darklord Connections
+- "Adventures; Darklord Connections"
 ---
 # Adventures; Darklord Connections
 *Source: Van Richten's Guide to Ravenloft p. 44* 
 
 **Darklord Connections**
-
-`dice: [](adventures-darklord-connections-vrgr.md#^darklord-connections)`
 
 | dice: d8 | Connection |
 |----------|------------|

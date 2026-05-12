@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- The Adventuring Day; Adventuring Day XP
+- "The Adventuring Day; Adventuring Day XP"
 ---
 # The Adventuring Day; Adventuring Day XP
 *Source: Dungeon Master's Guide p. 84. Available in the Basic Rules (2014)* 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Raklupis Spyder-Fiend
+- "Raklupis Spyder-Fiend"
 ---
-# [Raklupis Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/raklupis-spyder-fiend-veor.md)
+# [Raklupis Spyder-Fiend](3-Mechanics/CLI/bestiary/fiend/raklupis-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 236*  
 
 Raklupis spyder-fiends have hard, smooth shells and gleaming spines. With luxuriantly furry wolf heads, powerful arms, and alluring voices, raklupises are the only spyder-fiends that might be called majestic. They create delicate web globes, which they fill with their venom and hurl at foes. Raklupises are keen strategists, and most of them command legions of lesser spyder-fiends.
@@ -49,13 +49,14 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "constitution": !!int "8"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+11"
 "damage_immunities": "cold, fire, lightning, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 19"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 19"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "19"
 "traits":
@@ -74,32 +75,38 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "desc": "The raklupis makes a Bite attack and two Serrated Sword attacks. It can\
       \ use Venom Globe in place of one of these attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) piercing damage plus 18 (4d8) poison damage. If the target is a\
-      \ creature, it must succeed on a DC 20 Constitution saving throw or have the\
-      \ poisoned condition for 1 minute. While poisoned in this way, a creature has\
-      \ the incapacitated condition and can't regain hit points. A poisoned creature\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) piercing damage plus 18 (4d8) poison damage. If the target\
+      \ is a creature, it must succeed on a DC 20 Constitution saving throw or have\
+      \ the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for\
+      \ 1 minute. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in\
+      \ this way, a creature has the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition and can't regain hit points. A [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 19\
-      \ (4d6 + 5) slashing damage plus 18 (4d8) poison damage."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 19 (4d6 + 5) slashing damage plus 18 (4d8) poison damage."
     "name": "Serrated Sword"
   - "desc": "*Ranged Weapon Attack:* +11 to hit, range 60/180 ft., one target. *Hit:*\
       \ 45 (10d8) poison damage."
     "name": "Venom Globe"
   - "desc": "The raklupis casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 20).\n\
-      \n**At will:** Disguise Self, Invisibility (self only), Mage Hand, Minor Illusion\n\
-      \n**2/day each:** Darkness, Dominate Monster, Mass Suggestion, Telekinesis,\
-      \ Teleport"
+      \n**At will:** [Disguise Self](3-Mechanics/CLI/spells/disguise-self-xphb.md),\
+      \ [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) (self only), [Mage\
+      \ Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Minor Illusion](3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\
+      \n**2/day each:** [Darkness](3-Mechanics/CLI/spells/darkness-xphb.md), [Dominate\
+      \ Monster](3-Mechanics/CLI/spells/dominate-monster-xphb.md), [Mass Suggestion](3-Mechanics/CLI/spells/mass-suggestion-xphb.md),\
+      \ [Telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md), [Teleport](3-Mechanics/CLI/spells/teleport-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The raklupis magically ends the charmed and frightened conditions on\
-      \ itself and on any number of allies within 60 feet of itself."
+  - "desc": "The raklupis magically ends the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) conditions\
+      \ on itself and on any number of allies within 60 feet of itself."
     "name": "Demand Loyalty"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/raklupis-spyder-fiend-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/raklupis-spyder-fiend-veor.webp"
 ```
 ^statblock

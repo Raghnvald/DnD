@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zombie Plague Spreader
+- "Zombie Plague Spreader"
 ---
-# [Zombie Plague Spreader](3-Mechanics\CLI\bestiary\undead/zombie-plague-spreader-vrgr.md)
+# [Zombie Plague Spreader](3-Mechanics/CLI/bestiary/undead/zombie-plague-spreader-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 255*  
 
 Among the undead, a lone zombie ranks far from the most menacing. The horror of the shambling dead lies not in their individual menace, though, but their numbers, their persistence, and their disregard for their own well-being. A throng of zombies will douse a forest fire with their own ashes or march into a dragon's maw until the monster chokes. In the course of their relentless marches, zombies might suffer all manner of trauma, potentially reducing them to masses of crawling limbs (see swarm of zombie limbs), infecting them with terrible diseases, or crushing an entire horde into a single, rotting titan (see zombie clot).
@@ -23,14 +23,12 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 
 **Zombie Apocalypses**
 
-`dice: [](zombie-plague-spreader-vrgr.md#^zombie-apocalypses)`
-
 | dice: d4 | Zombie Plot |
 |----------|-------------|
-| 1 | A twisted wish causes those affected by healing magic and [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) to rise as zombies. |
-| 2 | Overwhelming magic reanimates zombies again and again as [swarms of zombie limbs](/3-Mechanics/CLI/bestiary/undead/swarm-of-zombie-limbs-vrgr.md). |
-| 3 | The githyanki unleash [zombie plague spreaders](/3-Mechanics/CLI/bestiary/undead/zombie-plague-spreader-vrgr.md) to scour mind flayers from a world. |
-| 4 | The seals containing an underground zombie horde fail, releasing ancient [zombie clots](/3-Mechanics/CLI/bestiary/undead/zombie-clot-vrgr.md). |
+| 1 | A twisted wish causes those affected by healing magic and [potions of healing](3-Mechanics/CLI/items/potion-of-healing-xdmg.md) to rise as zombies. |
+| 2 | Overwhelming magic reanimates zombies again and again as [swarms of zombie limbs](3-Mechanics/CLI/bestiary/undead/swarm-of-zombie-limbs-vrgr.md). |
+| 3 | The githyanki unleash [zombie plague spreaders](3-Mechanics/CLI/bestiary/undead/zombie-plague-spreader-vrgr.md) to scour mind flayers from a world. |
+| 4 | The seals containing an underground zombie horde fail, releasing ancient [zombie clots](3-Mechanics/CLI/bestiary/undead/zombie-clot-vrgr.md). |
 ^zombie-apocalypses
 
 ```statblock
@@ -52,10 +50,10 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
 "speed": "30 ft."
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 7"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 7"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "4"
 "traits":
@@ -67,15 +65,15 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
     "name": "Unusual Nature"
   - "desc": "Any creature that starts its turn within 10 feet of the plague spreader\
       \ must make a DC 12 Constitution saving throw. On a failed save, the creature\
-      \ is [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) and can't regain hit\
-      \ points until the end of its next turn. On a successful save, the creature\
+      \ is [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) and can't regain\
+      \ hit points until the end of its next turn. On a successful save, the creature\
       \ is immune to this plague spreader's Viral Aura for 24 hours."
     "name": "Viral Aura"
 "actions":
   - "desc": "The plague spreader makes two Slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) bludgeoning damage plus 9 (2d8) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) bludgeoning damage plus 9 (2d8) necrotic damage."
     "name": "Slam"
   - "desc": "The plague spreader releases toxic gas in a 30-foot-radius sphere centered\
       \ on itself. Each creature in that area must make a DC 12 Constitution saving\
@@ -87,6 +85,6 @@ Among the types of horror adventures detailed in "chapter 2", tales of uncontrol
     "name": "Virulent Miasma (1/Day)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/zombie-plague-spreader-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/zombie-plague-spreader-vrgr.webp"
 ```
 ^statblock

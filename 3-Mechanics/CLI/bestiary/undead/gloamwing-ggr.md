@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gloamwing
+- "Gloamwing"
 ---
-# [Gloamwing](3-Mechanics\CLI\bestiary\undead/gloamwing-ggr.md)
+# [Gloamwing](3-Mechanics/CLI/bestiary/undead/gloamwing-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 215*  
 
 A gloamwing's head is almost ratlike, with prominent teeth, and its leathery skin is stretched tight over its skull, where its eyes are empty sockets. Its body is mottled with bony plates, and great wings stretch from its shoulders.
@@ -39,16 +39,14 @@ A gloamwing's head is almost ratlike, with prominent teeth, and its leathery ski
   - "strength": !!int "8"
   - "dexterity": !!int "6"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "charmed, exhaustion, frightened, poisoned"
+"senses": "darkvision 120 ft., passive Perception 13"
 "languages": "understands Common"
 "cr": "8"
 "traits":
@@ -58,8 +56,7 @@ A gloamwing's head is almost ratlike, with prominent teeth, and its leathery ski
       \ of an enemy's reach."
     "name": "Flyby"
   - "desc": "While in sunlight, the gloamwing has disadvantage on attack rolls, as\
-      \ well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
+      \ well as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The gloamwing makes two attacks: one with its bite and one with its claws."
@@ -72,6 +69,6 @@ A gloamwing's head is almost ratlike, with prominent teeth, and its leathery ski
     "name": "Claws"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/gloamwing-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/gloamwing-ggr.webp"
 ```
 ^statblock

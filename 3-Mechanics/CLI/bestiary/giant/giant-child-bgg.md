@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Child
+- "Giant Child"
 ---
-# [Giant Child](3-Mechanics\CLI\bestiary\giant/giant-child-bgg.md)
+# [Giant Child](3-Mechanics/CLI/bestiary/giant/giant-child-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 34*  
 
 ```statblock
@@ -32,15 +32,17 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "club"
 "senses": "passive Perception 10"
 "languages": "Giant"
 "cr": "0"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) bludgeoning damage."
     "name": "Club"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/giant-child-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/giant-child-bgg.webp"
 ```
 ^statblock

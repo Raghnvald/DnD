@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vistana Bandit
+- "Vistana Bandit"
 ---
-# [Vistana Bandit](3-Mechanics\CLI\bestiary\humanoid/vistana-bandit-cos.md)
+# [Vistana Bandit](3-Mechanics/CLI/bestiary/humanoid/vistana-bandit-cos.md)
 *Source: Curse of Strahd p. 28*  
 
 ```statblock
@@ -22,7 +22,7 @@ aliases:
 "subtype": "any race"
 "alignment": "Any Non-Lawful alignment"
 "ac": !!int "12"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "leather armor"
 "hp": !!int "11"
 "hit_dice": "2d8 + 2"
 "modifier": !!int "1"
@@ -34,12 +34,15 @@ aliases:
   - !!int "10"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "light crossbow"
+  - "scimitar"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) slashing damage."
     "name": "Scimitar"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d8 + 1) piercing damage."
@@ -53,20 +56,18 @@ aliases:
       \ target bad breath. When this curse ends, the Vistana takes 1d6 psychic damage.\
       \  \n- A nonmagical item in the target's possession (chosen by the DM) disappears\
       \ and can't be found until the curse ends. The lost item can weigh no more than\
-      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n-\
-      \ The target gains vulnerability to a damage type of the Vistana's choice. When\
+      \ 1 pound. When this curse ends, the Vistana takes 1d6 psychic damage.  \n\
+      - The target gains vulnerability to a damage type of the Vistana's choice. When\
       \ this curse ends, the Vistana takes 3d6 psychic damage.  \n- The target has\
       \ disadvantage on ability checks and saving throws tied to one ability score\
       \ of the Vistana's choice. When this curse ends, the Vistana takes 3d6 psychic\
       \ damage.  \n- The target's attunement to one magic item (chosen by the DM)\
       \ ends, and the target can't attune to the chosen item until the curse ends.\
       \ When this curse ends, the Vistana takes 5d6 psychic damage.  \n- The target\
-      \ is [blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ or both. When this curse ends, the Vistana takes 5d6 psychic damage.  \n\n\
-      The curse lasts until ended with a [greater restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md)\
-      \ spell, a [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) spell,\
-      \ or similar magic. It doesn't end when the target dies. If a cursed target\
-      \ is returned to life, the curse remains in effect."
+      \ is blinded, deafened, or both. When this curse ends, the Vistana takes 5d6\
+      \ psychic damage.  \n\nThe curse lasts until ended with a greater restoration\
+      \ spell, a remove curse spell, or similar magic. It doesn't end when the target\
+      \ dies. If a cursed target is returned to life, the curse remains in effect."
     "name": "Curse (Recharges After a Long Rest)"
   - "desc": "10\n\nA Vistana who uses Evil Eye can't use it again before finishing\
       \ a short or long rest. Once a target succeeds on a saving throw against a Vistana's\
@@ -74,6 +75,6 @@ aliases:
     "name": "Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/vistana-bandit-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/vistana-bandit-cos.webp"
 ```
 ^statblock

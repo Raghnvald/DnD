@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 11: Troglodyte Warrens
+- "Level 11: Troglodyte Warrens"
 ---
 # Level 11: Troglodyte Warrens
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 151* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/035-11-01.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/035-11-01.webp#center)
 
 The Troglodyte Warrens are designed for four 11th-level characters, and characters who defeat the monsters on this level should gain enough XP to reach 12th level. These reeking caverns and rough tunnels have long been home to clans of troglodytes. The presence of drow on the levels above and below has turned these warrens into a battlefield—and an opportunity for unlikely alliances.
 
@@ -41,8 +41,8 @@ The behir roams throughout the level, but characters encounter it for the first 
 All location descriptions for this level are keyed to map 11.
 
 > [!gallery]
-> ![Map 11](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/036-11-02.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/037-11-03.webp#gallery)
+> ![Map 11](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/036-11-02.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/037-11-03.webp#gallery)
 
 ### 1. Auvryndar Watch Post
 
@@ -50,7 +50,7 @@ All location descriptions for this level are keyed to map 11.
 > 
 > **Ceiling**. The concave ceiling of this cavern rises to a height of 20 feet.
 > 
-> **Sentries**. A female [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Ventrid Xil'talan leads six [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) (two females and four males).
+> **Sentries**. A female [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Ventrid Xil'talan leads six [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) (two females and four males).
 ^5f9
 
 The drow, loyal to House Auvryndar, are tasked with guarding the tunnel that leads up to level 10. They ambush and kill any non-drow coming from that direction.
@@ -65,11 +65,11 @@ The cracked bones and skulls of small creatures hunted by the troglodytes litter
 
 #### 2a. Troglodyte Chain Gang
 
-The air in this cavern is heavy with the stench of twenty-two adult [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md). They wear iron shackles on their ankles and are chained together while awaiting relocation to [Muiral](/3-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)'s Gauntlet (level 10).
+The air in this cavern is heavy with the stench of twenty-two adult [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md). They wear iron shackles on their ankles and are chained together while awaiting relocation to [Muiral](3-Mechanics/CLI/bestiary/npc/muiral-wdmm.md)'s Gauntlet (level 10).
 
 A shackled troglodyte's speed is halved, and it can't move more than 5 feet away from the other troglodytes it is chained to. The drow mage in area 2c has the keys to the shackles. A character can pick the lock on a set of shackles with a successful DC 15 Dexterity check using thieves' tools.
 
-Even if they are freed, the troglodytes won't flee this area while the drow are holding their young (see area 2c). Although initially fearful, the troglodytes engage with the characters in an attempt to turn them against the drow. They promise treasure in exchange for freeing them and their young. Characters who don't speak Troglodyte and don't have access to a tongues spell or similar magic can use gestures, pictures, or other crude methods to communicate with the troglodytes on a rudimentary level. Getting a message across in this way requires a successful DC 15 Charisma (Performance) check.
+Even if they are freed, the troglodytes won't flee this area while the drow are holding their young (see area 2c). Although initially fearful, the troglodytes engage with the characters in an attempt to turn them against the drow. They promise treasure in exchange for freeing them and their young. Characters who don't speak Troglodyte and don't have access to a [tongues](3-Mechanics/CLI/spells/tongues-xphb.md) spell or similar magic can use gestures, pictures, or other crude methods to communicate with the troglodytes on a rudimentary level. Getting a message across in this way requires a successful DC 15 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check.
 
 If the characters show no interest in aiding them, the troglodytes begin to bow down and chant loudly, as if worshiping the characters. They try to catch the attention of the drow in area 2c, hoping this display will anger the drow and prompt them to attack the characters.
 
@@ -81,7 +81,7 @@ If the characters help to liberate the troglodytes and their young from the drow
 
 A stone arch is embedded in the west wall of this 10-foot-high cave, just around the corner from the entrance tunnel. The arch is one of Halaster's gates (see "Gates"). Carved into the arch's keystone is a hand-shaped indentation with a sigil representing magic scribed into the palm. Its rules are as follows:
 
-- Casting the mage hand cantrip and pressing its spectral fingers into the keystone's indentation opens the gate for 1 minute.  
+- Casting the [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip and pressing its spectral fingers into the keystone's indentation opens the gate for 1 minute.  
 - Characters must be 9th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 40 on level 6, in the closest unoccupied space next to the identical gate located there.  
 
@@ -89,7 +89,7 @@ A stone arch is embedded in the west wall of this 10-foot-high cave, just around
 
 > [!note] 
 > 
-> **Monsters**. At the north end of the cave, five male [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) are holding eleven troglodyte young (Small noncombatants) at sword point. A male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Tsabdrar Do'ett is contemplating what to do with the troglodyte young.
+> **Monsters**. At the north end of the cave, five male [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) are holding eleven troglodyte young (Small noncombatants) at sword point. A male [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Tsabdrar Do'ett is contemplating what to do with the troglodyte young.
 > 
 > **Crates**. Zurkhwood crates half filled with iron chains and shackles stand in the south end of the cave.
 > 
@@ -98,7 +98,7 @@ A stone arch is embedded in the west wall of this 10-foot-high cave, just around
 
 The drow mage is deciding whether to kill the troglodyte young, because they are too small to be shackled. His inclination is to do so, and only the characters' interference stays his hand. Tsabdrar carries keys that unlock the shackles stored in this room as well as the shackles on the troglodytes in area 2a.
 
-The drow investigate any commotion in area 2a and attack intruders who appear to be aiding or influencing the troglodytes. If the characters aren't doing so (or if they are able to negotiate an end to any initial hostilities), the drow are willing to bargain with them. They explain that a behir has been rampaging through this level, killing all the creatures it encounters. If the characters defeat the behir—and eliminate any drow of House Freth they encounter along the way—Tsabdrar promises that House Auvryndar will let them keep the behir's hoard. He also promises to spare the troglodyte children. A successful DC 15 Wisdom (Insight) check confirms that both assurances are false.
+The drow investigate any commotion in area 2a and attack intruders who appear to be aiding or influencing the troglodytes. If the characters aren't doing so (or if they are able to negotiate an end to any initial hostilities), the drow are willing to bargain with them. They explain that a behir has been rampaging through this level, killing all the creatures it encounters. If the characters defeat the behir—and eliminate any drow of House Freth they encounter along the way—Tsabdrar promises that House Auvryndar will let them keep the behir's hoard. He also promises to spare the troglodyte children. A successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check confirms that both assurances are false.
 
 ##### Treasure
 
@@ -118,14 +118,14 @@ Piled on the floor in plain view is the troglodytes' wealth: 920 gp, a silvered 
 > 
 > **Corpses**. Eight drow corpses are splayed like rag dolls across the floor of this 10-foot-high cavern.
 > 
-> **Troll in Gnome Form**. A naked, hairless, gray-skinned deep gnome is gnawing on one of the corpses. (The gnome is really a [troll](/3-Mechanics/CLI/bestiary/giant/troll.md) named Xlorp, transformed by the runes in area 11b.)
+> **Troll in Gnome Form**. A naked, hairless, gray-skinned deep gnome is gnawing on one of the corpses. (The gnome is really a [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) named Xlorp, transformed by the runes in area 11b.)
 ^604
 
-In its current form, the troll has the statistics of an unarmored (AC 12), chaotic evil [deep gnome (svirfneblin)](/3-Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md) that speaks only Giant. Casting a successful dispel magic spell (DC 19) on the troll causes it to revert to its normal form. Xlorp also reverts to its normal form when its gnome form is reduced to 0 hit points. It has full hit points in its troll form, but any excess damage from the attack that caused it to revert is carried over to that form.
+In its current form, the troll has the statistics of an unarmored (AC 12), chaotic evil [deep gnome (svirfneblin)](3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md) that speaks only Giant. Casting a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 19) on the troll causes it to revert to its normal form. Xlorp also reverts to its normal form when its gnome form is reduced to 0 hit points. It has full hit points in its troll form, but any excess damage from the attack that caused it to revert is carried over to that form.
 
 Xlorp follows the characters around if they give it food. It fights alongside the party, as long as it remains happy and fed. If Xlorp is mistreated in any way, it goes berserk and attacks everyone.
 
-The drow were killed by the behir. A character who examines the bodies and succeeds on a DC 10 Wisdom (Medicine) check reveals that four drow are covered in burn marks consistent with lightning strikes, three were torn to pieces by large claws, and one was crushed to death (a victim of the behir's coils).
+The drow were killed by the behir. A character who examines the bodies and succeeds on a DC 10 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check reveals that four drow are covered in burn marks consistent with lightning strikes, three were torn to pieces by large claws, and one was crushed to death (a victim of the behir's coils).
 
 ### 4. Loathsome Limbs
 
@@ -138,7 +138,7 @@ The drow were killed by the behir. A character who examines the bodies and succe
 > **Bloody Trail**. A trail of large, bloody claw marks meanders around the stalactites on the ceiling, then exits to the southwest.
 ^606
 
-When the characters pass through this area, the limbs twitch as they come to life and attack, as described in the "Variant: Loathsome Limbs" sidebar in the "Troll" entry in the "Monster Manual". Any character who succeeds on a DC 10 Wisdom (Medicine) check can identify the body parts as belonging to three separate trolls, which were torn apart and partially devoured by the behir. The tracks on the ceiling belong to the behir and fade out halfway to area 14.
+When the characters pass through this area, the limbs twitch as they come to life and attack, as described in the "Variant: Loathsome Limbs" sidebar in the "Troll" entry in the "Monster Manual". Any character who succeeds on a DC 10 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check can identify the body parts as belonging to three separate trolls, which were torn apart and partially devoured by the behir. The tracks on the ceiling belong to the behir and fade out halfway to area 14.
 
 ### 5. Trolling the Troglodytes
 
@@ -146,7 +146,7 @@ When the characters pass through this area, the limbs twitch as they come to lif
 > 
 > **Ceiling**. This ceiling varies in height from 15 to 30 feet.
 > 
-> **Battle**. A [five-armed troll](/3-Mechanics/CLI/bestiary/giant/five-armed-troll-wdmm.md) is engaged in battle with six [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) in the northwest part of the cave.
+> **Battle**. A [five-armed troll](3-Mechanics/CLI/bestiary/giant/five-armed-troll-wdmm.md) is engaged in battle with six [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) in the northwest part of the cave.
 > 
 > **Pit**. The southwest edge of the cave borders a 30-foot-deep, yawning pit with nothing in it.
 > 
@@ -155,7 +155,7 @@ When the characters pass through this area, the limbs twitch as they come to lif
 
 If the characters watch to see how the battle plays out between the troglodytes and the troll, assume that one troglodyte dies each round, while the troll's hit points do not decrease thanks to its Regeneration trait. If the characters come to the troglodytes' aid, the fearful troglodytes disengage from combat on their next turn, flee through the secret door, and retreat to area 7a, leaving the characters to deal with the troll on their own.
 
-The mutated troll has an extra pair of arms sprouting from its chest and a fifth arm growing out of its back. The troll has made a successful saving throw against the stench of the troglodytes. It has the statistics of a normal [troll](/3-Mechanics/CLI/bestiary/giant/troll.md), with these changes:
+The mutated troll has an extra pair of arms sprouting from its chest and a fifth arm growing out of its back. The troll has made a successful saving throw against the stench of the troglodytes. It has the statistics of a normal [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md), with these changes:
 
 - It has 44 hit points when the characters first arrive.  
 - It makes an additional three claw attacks as part of its Multiattack action.  
@@ -164,13 +164,13 @@ In its wounded state, the troll has a challenge rating of 6 (2,300 XP). If it re
 
 ### 6. Piercer Cavern
 
-This cavern is filled with stalactites and stalagmites, and hidden among the stalactites are twenty-six [piercers](/3-Mechanics/CLI/bestiary/monstrosity/piercer.md). A piercer drops onto any creature that ends its turn in the cave, until all the piercers have dropped.
+This cavern is filled with stalactites and stalagmites, and hidden among the stalactites are twenty-six [piercers](3-Mechanics/CLI/bestiary/aberration/piercer-xmm.md). A piercer drops onto any creature that ends its turn in the cave, until all the piercers have dropped.
 
 North of the cavern is a 30-foot-deep, yawning pit with nothing in it. Beyond this pit lies area 5.
 
 ### 7. Troglodyte Lair
 
-The last free clan of troglodytes inhabits these caves. Its members live in equal fear of the behir, the trolls, and the drow. Adventurers are perceived as just another threat until they prove otherwise. Characters who don't speak Troglodyte and don't have access to a tongues spell or similar magic can use gestures, pictures, or other crude methods to communicate with the troglodytes on a rudimentary level. Getting a message across in this way requires a successful DC 15 Charisma (Performance) check.
+The last free clan of troglodytes inhabits these caves. Its members live in equal fear of the behir, the trolls, and the drow. Adventurers are perceived as just another threat until they prove otherwise. Characters who don't speak Troglodyte and don't have access to a [tongues](3-Mechanics/CLI/spells/tongues-xphb.md) spell or similar magic can use gestures, pictures, or other crude methods to communicate with the troglodytes on a rudimentary level. Getting a message across in this way requires a successful DC 15 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check.
 
 #### 7a. Battle-Ready Troglodytes
 
@@ -180,14 +180,14 @@ The last free clan of troglodytes inhabits these caves. Its members live in equa
 > 
 > **Floor**. This cavern has a muddy, uneven floor.
 > 
-> **Troglodytes**. Eighteen adult [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) take cover behind a scattering of stalagmites. (Add to this number any troglodytes that fled from area 5 or escaped from area 2.)
+> **Troglodytes**. Eighteen adult [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) take cover behind a scattering of stalagmites. (Add to this number any troglodytes that fled from area 5 or escaped from area 2.)
 > 
 > **Ledge**. A stone slope along the east side of the cave rises up to a long ledge toward the south. The ledge is 20 feet above the cavern floor and has four tunnels opening off it. A fiery glow spills out of the tunnel that leads to area 7d (see that area for details).
 > 
 > **Secret Door**. A secret door at the southwest corner of the cave swivels on a central axis. The secret door can be seen automatically from inside the tunnel.
 ^60c
 
-The troglodytes are bracing for another drow attack from the north. The clan's current leader is a troglodyte with 20 hit points named [Kol'daan](/3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md). He carries a wooden sparring sword and can replace each of his claw attacks with a sword attack, dealing `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) bludgeoning damage on a hit. Whether in battle or negotiations, [Kol'daan](/3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md) is prone to striking heroic poses with his sparring sword and giving inspiring speeches in Troglodyte.
+The troglodytes are bracing for another drow attack from the north. The clan's current leader is a troglodyte with 20 hit points named [Kol'daan](3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md). He carries a wooden sparring sword and can replace each of his claw attacks with a sword attack, dealing 4 (`1d4 + 2`) bludgeoning damage on a hit. Whether in battle or negotiations, [Kol'daan](3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md) is prone to striking heroic poses with his sparring sword and giving inspiring speeches in Troglodyte.
 
 #### 7b. Battleground
 
@@ -195,27 +195,27 @@ The floor of this damp cavern is littered with the corpses of twenty-one troglod
 
 #### 7c. Wounded Troglodytes
 
-Four adult [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) occupy this side cave. One troglodyte is at full health and guards the other three, which are wounded (each has `dice:1d6|noform|noparens|avg` (`1d6`) hit points remaining). If the characters offer magical healing to all the wounded troglodytes and word of the deed gets around, they gain advantage on subsequent Charisma checks made to influence any troglodytes throughout area 7.
+Four adult [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) occupy this side cave. One troglodyte is at full health and guards the other three, which are wounded (each has `1d6` hit points remaining). If the characters offer magical healing to all the wounded troglodytes and word of the deed gets around, they gain advantage on subsequent Charisma checks made to influence any troglodytes throughout area 7.
 
 #### 7d. Fire Beetle Farm
 
-A fiery glow emanates from this cavern. Six [giant fire beetles](/3-Mechanics/CLI/bestiary/beast/giant-fire-beetle.md) live here, watched over by a [troglodyte](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) with a 10-foot pole. Since being trapped by the drow, the troglodyte clan has taken to raising the beetles for food.
+A fiery glow emanates from this cavern. Six [giant fire beetles](3-Mechanics/CLI/bestiary/beast/giant-fire-beetle-xmm.md) live here, watched over by a [troglodyte](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) with a 10-foot pole. Since being trapped by the drow, the troglodyte clan has taken to raising the beetles for food.
 
 #### 7e. Halaster Formation
 
-Centuries of dripping sediment have created a rock formation on the back wall of this cavern that resembles the face of [Halaster Blackcloak](/3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). The troglodytes have left small offerings around the formation, including a half dozen balls of bat guano, a garland of drow intestines, and a muddy dagger with a curved blade.
+Centuries of dripping sediment have created a rock formation on the back wall of this cavern that resembles the face of [Halaster Blackcloak](3-Mechanics/CLI/bestiary/npc/halaster-blackcloak-wdmm.md). The troglodytes have left small offerings around the formation, including a half dozen balls of bat guano, a garland of drow intestines, and a muddy dagger with a curved blade.
 
 ##### Treasure
 
-The muddy dagger is a dagger of venom. The troglodytes are unaware of its magical nature.
+The muddy dagger is a [dagger of venom](3-Mechanics/CLI/items/dagger-of-venom-xdmg.md). The troglodytes are unaware of its magical nature.
 
 #### 7f. Troglodyte Nursery
 
-Four adult [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md) look after twenty-two troglodyte young (Small noncombatants) in this area. Two of the adults stand guard in the front cave; the other two feed and play with the young troglodytes in the rear cave.
+Four adult [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md) look after twenty-two troglodyte young (Small noncombatants) in this area. Two of the adults stand guard in the front cave; the other two feed and play with the young troglodytes in the rear cave.
 
 #### 7g. Chieftain's Cave
 
-The last troglodyte chieftain was killed by drow some time ago, leaving [Kol'daan](/3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md) in charge. Lurking in the chieftain's cave are three toothless old [troglodytes](/3-Mechanics/CLI/bestiary/humanoid/troglodyte.md), each with 8 hit points remaining and no bite attack. These evil troglodytes served as the former chieftain's advisors. [Kol'daan](/3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md) thinks they're weak and wants nothing to do with them. They fight only in self-defense, and each has a challenge rating of 1/8 (25 XP).
+The last troglodyte chieftain was killed by drow some time ago, leaving [Kol'daan](3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md) in charge. Lurking in the chieftain's cave are three toothless old [troglodytes](3-Mechanics/CLI/bestiary/monstrosity/troglodyte-xmm.md), each with 8 hit points remaining and no bite attack. These evil troglodytes served as the former chieftain's advisors. [Kol'daan](3-Mechanics/CLI/bestiary/npc/koldaan-wdmm.md) thinks they're weak and wants nothing to do with them. They fight only in self-defense, and each has a challenge rating of 1/8 (25 XP).
 
 ##### Secret Door
 
@@ -223,7 +223,7 @@ A secret door stands in the northwest wall of this cavern. The old troglodytes w
 
 #### 7h. Blessed Laogzed
 
-This dank cave contains a 5-foot-tall, 8-foot-diameter mud sculpture of a loathsome creature that combines the features of a demonic toad and a lizard. Any character who has an appropriate background or who succeeds on a DC 15 Intelligence (Religion) check knows that the sculpture represents the demon-god Laogzed, worshiped by many troglodytes.
+This dank cave contains a 5-foot-tall, 8-foot-diameter mud sculpture of a loathsome creature that combines the features of a demonic toad and a lizard. Any character who has an appropriate background or who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check knows that the sculpture represents the demon-god Laogzed, worshiped by many troglodytes.
 
 ##### Treasure
 
@@ -231,15 +231,15 @@ Smashing open the mud sculpture of Laogzed reveals fifty malachite gemstones (10
 
 ### 8. Illusory Front Line
 
-The drow of House Freth have learned the hard way that the troglodytes in area 7 are too hardy and stubborn to be easily conquered. A male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Orl Telenna has been tasked with holding these caves until reinforcements arrive. Using the resources at his disposal, Orl has created illusions designed to discourage the troglodytes from entering this area. As part of this tactic, he has the hallucinatory terrain spell prepared instead of Evard's black tentacles, seeming instead of cloudkill, and rope trick instead of alter self.
+The drow of House Freth have learned the hard way that the troglodytes in area 7 are too hardy and stubborn to be easily conquered. A male [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Orl Telenna has been tasked with holding these caves until reinforcements arrive. Using the resources at his disposal, Orl has created illusions designed to discourage the troglodytes from entering this area. As part of this tactic, he has the [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) spell prepared instead of [Evard's black tentacles](3-Mechanics/CLI/spells/evards-black-tentacles-xphb.md), [seeming](3-Mechanics/CLI/spells/seeming-xphb.md) instead of [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md), and [rope trick](3-Mechanics/CLI/spells/rope-trick-xphb.md) instead of [alter self](3-Mechanics/CLI/spells/alter-self-xphb.md).
 
 #### 8a. False Impasse
 
-Thanks to Orl's hallucinatory terrain spell, this 20-foot-high cavern appears to be filled from wall to wall with a pool of bubbling acid. The caustic scent of the acid seems real to any creature that approaches this area, but contact with the acid deals no damage. The illusion can be removed with a successful dispel magic spell (DC 14). Orl refreshes the spell each day.
+Thanks to Orl's [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) spell, this 20-foot-high cavern appears to be filled from wall to wall with a pool of bubbling acid. The caustic scent of the acid seems real to any creature that approaches this area, but contact with the acid deals no damage. The illusion can be removed with a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 14). Orl refreshes the spell each day.
 
 #### 8b. False Camp
 
-Orl has created a false camp inside a 30-foot-square area in the middle of this rubble-strewn cavern. The camp appears to be a quiet gathering of nine well-armed drow wizards and warriors, who are communicating with one another using sign language. In truth, the drow are nine troglodyte [zombies](/3-Mechanics/CLI/bestiary/undead/zombie.md) created using animate dead and disguised with a seeming spell.
+Orl has created a false camp inside a 30-foot-square area in the middle of this rubble-strewn cavern. The camp appears to be a quiet gathering of nine well-armed drow wizards and warriors, who are communicating with one another using sign language. In truth, the drow are nine troglodyte [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md) created using [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) and disguised with a [seeming](3-Mechanics/CLI/spells/seeming-xphb.md) spell.
 
 #### 8c. Orl's Cave
 
@@ -252,11 +252,11 @@ Orl has created a false camp inside a 30-foot-square area in the middle of this 
 
 The alcove holds a blanket, a cask of mushroom wine, and a satchel made of spider silk that contains 10 days of rations and Orl's spellbook (see "Treasure" below). Orl spends most of his time here, but he listens for trouble and slips out every once in a while to check area 8b.
 
-Orl's orders don't include fighting troglodytes or well-armed adventurers singlehandedly. If he discovers any creatures approaching, he casts a rope trick spell, climbs into the extradimensional space created by the spell, and pulls up the rope. He hides this way for 10 minutes before poking his head out to see if the intruders have left. If he doesn't have time to hide in this manner, he casts a greater invisibility spell on himself and retreats to area 9b.
+Orl's orders don't include fighting troglodytes or well-armed adventurers singlehandedly. If he discovers any creatures approaching, he casts a [rope trick](3-Mechanics/CLI/spells/rope-trick-xphb.md) spell, climbs into the extradimensional space created by the spell, and pulls up the rope. He hides this way for 10 minutes before poking his head out to see if the intruders have left. If he doesn't have time to hide in this manner, he casts a [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md) spell on himself and retreats to area 9b.
 
 ##### Treasure
 
-Orl's spellbook contains a drow mage's normal spells, plus animate dead, hallucinatory terrain, rope trick, and seeming.
+Orl's spellbook contains a drow mage's normal spells, plus [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md), [hallucinatory terrain](3-Mechanics/CLI/spells/hallucinatory-terrain-xphb.md), [rope trick](3-Mechanics/CLI/spells/rope-trick-xphb.md), and [seeming](3-Mechanics/CLI/spells/seeming-xphb.md).
 
 ### 9. Contested Caves
 
@@ -266,26 +266,26 @@ The drow of House Freth maintain a tenuous hold over these caves. Their defenses
 
 > [!note] 
 > 
-> **Sentries**. Two male [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) are hidden behind a natural column of rock to the north.
+> **Sentries**. Two male [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) are hidden behind a natural column of rock to the north.
 > 
-> **Eater of Corpses**. The cave is full of rotting corpses (twenty troglodytes, nine drow, and five giant spiders). At the midpoint of the cavern, a fat [troll](/3-Mechanics/CLI/bestiary/giant/troll.md) rendered permanently invisible by Halaster's magic is feasting on one of the spider corpses.
+> **Eater of Corpses**. The cave is full of rotting corpses (twenty troglodytes, nine drow, and five giant spiders). At the midpoint of the cavern, a fat [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) rendered permanently [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) by Halaster's magic is feasting on one of the spider corpses.
 ^61f
 
-The drow, Eilthymmar and Zaztorrl, serve House Freth. They have been watching the invisible troll but aren't sure what to make of it. They retreat to area 12 (through areas 9b, 10a, and 10b) if threatened.
+The drow, Eilthymmar and Zaztorrl, serve House Freth. They have been watching the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) troll but aren't sure what to make of it. They retreat to area 12 (through areas 9b, 10a, and 10b) if threatened.
 
 Zaztorrl's loyalty to House Freth is shaky, the result of a series of dull assignments that have left him feeling underappreciated and scornful. If the characters capture or corner him, he offers to lead them to House Freth's fortress on level 12 in exchange for his freedom. If he is treated with respect, Zaztorrl might befriend the characters and help them in battle.
 
-A successful dispel magic spell (DC 18) cast on the troll renders it visible for 1 minute. The troll attacks any creature it sees, but retreats to area 10a (through area 9d) the first time it takes acid or fire damage.
+A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 18) cast on the troll renders it visible for 1 minute. The troll attacks any creature it sees, but retreats to area 10a (through area 9d) the first time it takes acid or fire damage.
 
 #### 9b. Drow Staging Area
 
-This 20-foot-high cavern is used as a staging area for House Freth's raids into troglodyte territory. Six [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) loyal to House Freth (four females and two males) and four [shadow demons](/3-Mechanics/CLI/bestiary/fiend/shadow-demon.md) lurk here. The drow and their demon allies are planning to soften up the troglodytes in area 7a and are not expecting to face adventurers. If four of the drow fall, the survivors use darkness spells to cover their retreat to area 13.
+This 20-foot-high cavern is used as a staging area for House Freth's raids into troglodyte territory. Six [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) loyal to House Freth (four females and two males) and four [shadow demons](3-Mechanics/CLI/bestiary/fiend/shadow-demon-xmm.md) lurk here. The drow and their demon allies are planning to soften up the troglodytes in area 7a and are not expecting to face adventurers. If four of the drow fall, the survivors use [darkness](3-Mechanics/CLI/spells/darkness-xphb.md) spells to cover their retreat to area 13.
 
 #### 9c. Roper Ruse
 
 The drow and the troglodytes avoid this cave because they think a roper lives here—but the creature is an illusion created by Halaster.
 
-Characters who can see into this dark cave observe that the northernmost stalagmite has a single glaring eye, a fang-filled mouth, and six waving tendrils. A detect magic spell reveals an aura of illusion magic around the stalagmite, and a successful DC 15 Intelligence (Investigation) check confirms that the "roper" is a silent illusion cast on an otherwise ordinary stalagmite. A successful dispel magic spell (DC 15) cast on the stalagmite ends the illusion, which doesn't attack or react to anything. Any attack or effect that targets the roper ends up targeting the stalagmite instead. The stalagmite has AC 17, 120 hit points, and immunity to poison and psychic damage. A character who sees the roper take damage can repeat the Intelligence (Investigation) check to discern that it's an illusion.
+Characters who can see into this dark cave observe that the northernmost stalagmite has a single glaring eye, a fang-filled mouth, and six waving tendrils. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of illusion magic around the stalagmite, and a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check confirms that the "roper" is a silent illusion cast on an otherwise ordinary stalagmite. A successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 15) cast on the stalagmite ends the illusion, which doesn't attack or react to anything. Any attack or effect that targets the roper ends up targeting the stalagmite instead. The stalagmite has AC 17, 120 hit points, and immunity to poison and psychic damage. A character who sees the roper take damage can repeat the Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to discern that it's an illusion.
 
 #### 9d. Stalagmites
 
@@ -297,11 +297,11 @@ The drow patrol these areas frequently, always on the lookout for the trolls tha
 
 #### 10a. Sinkhole
 
-This 30-foot-high cave is filled with the echoes of water dripping from stalactites, as well as the fluttering wings of thirteen [stirges](/3-Mechanics/CLI/bestiary/beast/stirge.md) that live in a 30-foot-deep sinkhole to the west. The stirges attack anyone that disturbs them.
+This 30-foot-high cave is filled with the echoes of water dripping from stalactites, as well as the fluttering wings of thirteen [stirges](3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) that live in a 30-foot-deep sinkhole to the west. The stirges attack anyone that disturbs them.
 
 #### 10b. Main Artery
 
-A mutated [troll](/3-Mechanics/CLI/bestiary/giant/troll.md) feeds on a dismembered drow corpse in this 10-foot-high passage. The troll is a corpulent specimen covered with green boils. Whenever it takes damage, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 5 or 6, one of the troll's boils bursts open, releasing a **[swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md) (wasps)** that fills a random space within 5 feet of the troll. The swarm acts on its own initiative count and attacks the nearest creature that isn't a troll. If the troll is killed, it no longer releases any swarms.
+A mutated [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) feeds on a dismembered drow corpse in this 10-foot-high passage. The troll is a corpulent specimen covered with green boils. Whenever it takes damage, roll a `d6`. On a 5 or 6, one of the troll's boils bursts open, releasing a **[swarm of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) (wasps)** that fills a random space within 5 feet of the troll. The swarm acts on its own initiative count and attacks the nearest creature that isn't a troll. If the troll is killed, it no longer releases any swarms.
 
 ### 11. Forest of Stone
 
@@ -324,9 +324,9 @@ Among the rock formations is a standing gate (see "Gates") formed by a pair of 1
 > **Glowing Runes**. Floating above each stalagmite is a glowing rune.
 ^629
 
-A character who succeeds on a DC 15 Intelligence (Arcana) check recognizes that the runes floating above the stalagmites represent the school of transmutation. A detect magic spell reveals an aura of transmutation magic around each stalagmite. The runes' magic poses no danger to adventurers, but it causes weird, permanent transformations in any troll that lingers in this area. (For example, a troll might sprout an extra head or tentacles, or gain some kind of magical ability or aura.) Casting dispel magic on a rune causes it to vanish—and makes the stalagmite below it explode. Each creature within 20 feet of an exploding stalagmite must make a DC 15 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) bludgeoning damage on a failed save, or half as much damage on a successful one.
+A character who succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes that the runes floating above the stalagmites represent the school of transmutation. A [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals an aura of transmutation magic around each stalagmite. The runes' magic poses no danger to adventurers, but it causes weird, permanent transformations in any troll that lingers in this area. (For example, a troll might sprout an extra head or tentacles, or gain some kind of magical ability or aura.) Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a rune causes it to vanish—and makes the stalagmite below it explode. Each creature within 20 feet of an exploding stalagmite must make a DC 15 Dexterity saving throw, taking 22 (`4d10`) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-If the characters linger here, a magical gate might open just long enough to expel `dice:1d4+2|noform|noparens|avg` (`1d4 + 2`) [trolls](/3-Mechanics/CLI/bestiary/giant/troll.md) and an equal number of chickens. The trolls immediately chase the chickens—or any other visible food source.
+If the characters linger here, a magical gate might open just long enough to expel `1d4 + 2` [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) and an equal number of chickens. The trolls immediately chase the chickens—or any other visible food source.
 
 ### 12. Drow Battle
 
@@ -334,30 +334,30 @@ Characters who approach this 50-foot-high cavern for the first time hear the sou
 
 > [!note] 
 > 
-> **Demons**. In the narrower section between the north and south halves of the cavern, two [chasmes](/3-Mechanics/CLI/bestiary/fiend/chasme.md) fight a [hezrou](/3-Mechanics/CLI/bestiary/fiend/hezrou.md). All three demons are glowing.
+> **Demons**. In the narrower section between the north and south halves of the cavern, two [chasmes](3-Mechanics/CLI/bestiary/fiend/chasme-xmm.md) fight a [hezrou](3-Mechanics/CLI/bestiary/fiend/hezrou-xmm.md). All three demons are glowing.
 > 
 > **Drow**. Two opposing groups of drow are peppering one another with spells and crossbow bolts, ignoring the demons. Ten drow spread out north of the demons. Sixteen drow stand south of the demons.
 > 
 > **Corpses**. The bodies of fifty drow and twenty troglodytes litter the battlefield amid pools of demon ichor. Their gear is unsalvageable.
 ^62b
 
-The cavern is the site of a heated battle between House Freth (to the north) and House Auvryndar (to the south). House Freth's forces are nine male [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) led by a male [drow mage](/3-Mechanics/CLI/bestiary/humanoid/drow-mage.md) named Spirreth Dalambra. The forces of House Auvryndar are fifteen [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md) (twelve females and three males) led by a female [drow priestess of Lolth](/3-Mechanics/CLI/bestiary/humanoid/drow-priestess-of-lolth.md) named Shindreer Argonrae.
+The cavern is the site of a heated battle between House Freth (to the north) and House Auvryndar (to the south). House Freth's forces are nine male [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) led by a male [drow mage](3-Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm.md) named Spirreth Dalambra. The forces of House Auvryndar are fifteen [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) (twelve females and three males) led by a female [drow priestess of Lolth](3-Mechanics/CLI/bestiary/humanoid/fiend-cultist-xmm.md) named Shindreer Argonrae.
 
-The chasmes are agents of House Freth, while the hezrou is a servant of House Auvryndar. All three demons are outlined with faerie fire spells cast on them by drow of the opposing side.
+The chasmes are agents of House Freth, while the hezrou is a servant of House Auvryndar. All three demons are outlined with [faerie fire](3-Mechanics/CLI/spells/faerie-fire-xphb.md) spells cast on them by drow of the opposing side.
 
 Characters who side with one drow house become the focus of the opposing house's wrath. If the characters side with the house that wins, the leader of the victorious drow parleys with them to find out what they expect in return (see below). If the characters end up on the losing side, the drow show them no mercy.
 
-If the characters stay out of the fight, the forces on both sides dwindle slowly until the hezrou finally defeats the chasmes. The drow mage, Spirreth, escapes using greater invisibility, leaving his forces to die fighting the hezrou. He has expended all his spell slots and must drink a potion (see "Treasure" below) to restore his lost hit points. If he escapes, Spirreth tries to hide and rest in area 13. The hezrou has 72 hit points remaining at the end of the fight, and Shindreer has cast none of her spells. She uses her healing magic to return the demon to full health as quickly as possible. House Auvryndar's surviving fighting force consists of six female [drow](/3-Mechanics/CLI/bestiary/humanoid/drow.md), which are healed by Shindreer's mass cure wounds spell.
+If the characters stay out of the fight, the forces on both sides dwindle slowly until the hezrou finally defeats the chasmes. The drow mage, Spirreth, escapes using [greater invisibility](3-Mechanics/CLI/spells/greater-invisibility-xphb.md), leaving his forces to die fighting the hezrou. He has expended all his spell slots and must drink a potion (see "Treasure" below) to restore his lost hit points. If he escapes, Spirreth tries to hide and rest in area 13. The hezrou has 72 hit points remaining at the end of the fight, and Shindreer has cast none of her spells. She uses her healing magic to return the demon to full health as quickly as possible. House Auvryndar's surviving fighting force consists of six female [drow](3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md), which are healed by Shindreer's [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds-xphb.md) spell.
 
 #### Spirreth Dalambra
 
 Spirreth found himself forced to assume command of House Freth's dwindling forces on this level after his superior, Beranica Freth, was killed by demons. Spirreth's job was to protect and serve Beranica. Now he faces the unwelcome task of reporting her death to her older sister, Erelal Freth, on level 12.
 
-If the characters help Spirreth overcome the forces of House Auvryndar, or if they corner and capture him, he slyly offers to facilitate an audience with Erelal Freth, commander of the House Freth fortress on level 12. Spirreth declares that Erelal will want to reward them for their heroism or trade for his safe release. But the drow mage's offer is merely a desperate ploy to please his superiors, which characters can ascertain with a successful Wisdom (Insight) check contested by his Charisma (Deception) check. Spirreth is actually hoping to deliver the characters to Erelal Freth, then pass them off as Beranica's murderers.
+If the characters help Spirreth overcome the forces of House Auvryndar, or if they corner and capture him, he slyly offers to facilitate an audience with Erelal Freth, commander of the House Freth fortress on level 12. Spirreth declares that Erelal will want to reward them for their heroism or trade for his safe release. But the drow mage's offer is merely a desperate ploy to please his superiors, which characters can ascertain with a successful Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check contested by his Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check. Spirreth is actually hoping to deliver the characters to Erelal Freth, then pass them off as Beranica's murderers.
 
 ##### Treasure
 
-Spirreth's spellbook contains all the spells he has prepared, plus crown of madness, fear, Melf's acid arrow, and sending. Fastened to his cloak is an obsidian scarab engraved with the insignia of House Freth (25 gp). In a special pouch on his belt, he carries a potion of supreme healing in a clear crystal vial (5 gp).
+Spirreth's spellbook contains all the spells he has prepared, plus [crown of madness](3-Mechanics/CLI/spells/crown-of-madness-xphb.md), [fear](3-Mechanics/CLI/spells/fear-xphb.md), [Melf's acid arrow](3-Mechanics/CLI/spells/melfs-acid-arrow-xphb.md), and [sending](3-Mechanics/CLI/spells/sending-xphb.md). Fastened to his cloak is an obsidian scarab engraved with the insignia of House Freth (25 gp). In a special pouch on his belt, he carries a [potion of supreme healing](3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md) in a clear crystal vial (5 gp).
 
 #### Shindreer Argonrae
 
@@ -375,7 +375,7 @@ Shindreer wears spider silk gloves with bloodstones sewn into them (750 gp for t
 
 Thick web curtains are strung between the stalactites and stalagmites that fill this 30-foot-high cavern. Unless they are cut down or burned away, the webs create a veritable maze, reducing visibility in the cavern to 10 feet. They also catch bats, lizards, and stirges, many of which are still alive and squawking.
 
-At the north end of the cavern, hidden behind a stalagmite, is a cache of supplies left here by drow scouts of House Freth. The supplies include a cask of mushroom wine, 20 days of rations (dry meat and moss) in a satchel made of lizard skin, and a sealed gourd containing 20 applications of drow poison (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide").
+At the north end of the cavern, hidden behind a stalagmite, is a cache of supplies left here by drow scouts of House Freth. The supplies include a cask of mushroom wine, 20 days of rations (dry meat and moss) in a satchel made of lizard skin, and a sealed gourd containing 20 applications of [drow poison](3-Mechanics/CLI/items/lolths-sting-xdmg.md) (see ""Poisons"" in chapter 8 of the "Dungeon Master's Guide").
 
 ### 14. Auvryndar Watch Post
 
@@ -383,7 +383,7 @@ At the north end of the cavern, hidden behind a stalagmite, is a cache of suppli
 > 
 > **Ceiling**. The ceiling and floor in this area are uneven, the distance between them ranging from 20 to 40 feet. Three natural columns of rock support the roof.
 > 
-> **Scouts**. Two female [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) (named Akora and Danafay) are mounted on [giant lizards](/3-Mechanics/CLI/bestiary/beast/giant-lizard.md) near the center of the cavern.
+> **Scouts**. Two female [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) (named Akora and Danafay) are mounted on [giant lizards](3-Mechanics/CLI/bestiary/beast/giant-lizard-xmm.md) near the center of the cavern.
 ^632
 
 The drow attack at the first sign of intruders. Their lizards are fitted with saddles, reins, and stirrups, and have the Spider Climb trait (see the "Variant: Giant Lizard Traits" sidebar in appendix A of the "Monster Manual"). The drow take the lizards up the walls so they can get a better look at the characters as they approach.
@@ -404,7 +404,7 @@ Once a troglodyte den, this 20-foot-high cave is strewn with filth. Foul, oily s
 
 #### 15b. Stone Troll
 
-A mutated [troll](/3-Mechanics/CLI/bestiary/giant/troll.md) is searching through piles of troglodyte filth for edibles. The troll looks normal but has a peculiar trait. At the start of each of its turns, roll a `dice:d6|noform|noparens|avg` (`d6`). On a 1, the troll turns to stone and is petrified until the start of its next turn. Casting a greater restoration spell on the troll rids it of this magical malady.
+A mutated [troll](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) is searching through piles of troglodyte filth for edibles. The troll looks normal but has a peculiar trait. At the start of each of its turns, roll a `d6`. On a 1, the troll turns to stone and is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) until the start of its next turn. Casting a [greater restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md) spell on the troll rids it of this magical malady.
 
 #### 15c. Empty Nursery
 
@@ -420,7 +420,7 @@ Embedded in the north wall of this 10-foot-high cave is a stone arch. Carved int
 
 ### 17. Behir Lair
 
-The floor of the behir's musty lair is covered with broken bones that crunch underfoot. Creatures that walk on the floor have disadvantage on Dexterity (Stealth) checks made to move silently through these caves.
+The floor of the behir's musty lair is covered with broken bones that crunch underfoot. Creatures that walk on the floor have disadvantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to move silently through these caves.
 
 #### 17a. The Maw
 
@@ -437,15 +437,15 @@ The half-eaten corpse of a recently slain male drow leans against the stalagmite
 
 #### 17c. Behir
 
-The [behir](/3-Mechanics/CLI/bestiary/monstrosity/behir.md) lies in wait in this 50-foot-high cavern, its muscled, serpentine body woven through the stalagmites. Scars are carved into its hide in the form of arcane runes, placed there by Halaster. The runes grant the behir the ability to use the following legendary actions.
+The [behir](3-Mechanics/CLI/bestiary/monstrosity/behir-xmm.md) lies in wait in this 50-foot-high cavern, its muscled, serpentine body woven through the stalagmites. Scars are carved into its hide in the form of arcane runes, placed there by Halaster. The runes grant the behir the ability to use the following legendary actions.
 
 > [!note] Legendary Actions
 > 
 > The behir can take three legendary actions, choosing from the options below. It can take only one legendary action at a time and only at the end of another creature's turn. The behir regains spent legendary actions at the start of its turn. Its spellcasting ability is Charisma (spell save DC 13).
 > 
-> **Lesser Magic**. The behir casts color spray or sleep, requiring no components.
+> **Lesser Magic**. The behir casts [color spray](3-Mechanics/CLI/spells/color-spray-xphb.md) or [sleep](3-Mechanics/CLI/spells/sleep-xphb.md), requiring no components.
 > 
-> **Greater Magic (Costs 2 Actions)**. The behir casts invisibility or misty step, requiring no components.
+> **Greater Magic (Costs 2 Actions)**. The behir casts [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md) or [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), requiring no components.
 ^legendary-actions
 
 #### 17d. Hoard of the Behir
@@ -454,7 +454,7 @@ This ledge stands 30 feet above the floor of area 17c and 20 feet below the cave
 
 ##### Treasure
 
-The behir's hoard includes 6,700 gp, 4,100 sp, a gold-and-onyx scorpion brooch (250 gp), a silver music box of elven design (1,000 gp), and a dread helm. A common wondrous item, the dread helm is a fearsome steel helm that makes its wearer's eyes glow red.
+The behir's hoard includes 6,700 gp, 4,100 sp, a gold-and-onyx scorpion brooch (250 gp), a silver music box of elven design (1,000 gp), and a [dread helm](3-Mechanics/CLI/items/dread-helm-xdmg.md). A common wondrous item, the [dread helm](3-Mechanics/CLI/items/dread-helm-xdmg.md) is a fearsome steel helm that makes its wearer's eyes glow red.
 
 ## Aftermath
 

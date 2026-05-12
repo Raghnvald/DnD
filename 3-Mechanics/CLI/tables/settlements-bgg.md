@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Settlements
+- "Settlements"
 ---
 # Settlements
 *Source: Bigby Presents: Glory of the Giants p. 38* 
 
 **Settlements**
-
-`dice: [](settlements-bgg.md#^settlements)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

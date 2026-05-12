@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Welcome to Ravenloft
+- "Welcome to Ravenloft"
 ---
 # Welcome to Ravenloft
 *Source: Van Richten's Guide to Ravenloft, p. 4* 
@@ -38,7 +38,7 @@ This book explores the Domains of Dread, the mysterious expanses of the Shadowfe
 > 
 > Doctor van Richten,
 > 
-> I'm writing this from Rivalis, a town where I'm surprised to find your name on the villagers' lips. You're more than merely a well- remembered citizen, Doctor. The folk here talk of disappearances and hungry shadows and the evil of an abandoned estate : Richten House.
+> I'm writing this from Rivalis, a town where I'm surprised to find your name on the villagers' lips. You're more than merely a well- remembered citizen, Doctor. The folk here talk of disappearances and hungry shadows and the evil of an abandoned estate: Richten House.
 > 
 > This place. The crimes and tragedies that transpired here. I know we'd both rather forget them—this whole accursed land—but the Mists drew me back. Now that I'm here, I know. The past we both hoped to bury is not done with us yet. Something terrible festers here in Darkon, sir, lurking in your own family home.
 > 
@@ -47,7 +47,7 @@ This book explores the Domains of Dread, the mysterious expanses of the Shadowfe
 > Yours, Ez d'Avenir
 ^002
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/000-00-006-letter.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/000-00-006-letter.webp#center)
 
 ### Horror in Your Game
 
@@ -73,7 +73,7 @@ Like a roller-coaster, exploring frightening themes in a safe environment create
 
 Suspenseful stories don't need to be somber or shocking. Action, mystery, and comedy can feature in your adventures to any degree. Heroes can be bold monster-hunters or bumbling mystery-solvers. Choose what elements of this book are right for your game and promise the most fun for all players.
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/001-00-007-letter-gennifer.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/001-00-007-letter-gennifer.webp#center)
 
 > [!readaloud] 
 > 
@@ -90,7 +90,7 @@ Suspenseful stories don't need to be somber or shocking. Action, mystery, and co
 
 Countless mysteries pervade the Domains of Dread, but these strange truths underpin the setting:
 
-![Ez d'Avenir braves the Mis...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/002-00-005-ez-d-avenir.webp#center "Ez d'Avenir braves the Mists, her path haunted by past and future terrors")
+![Ez d'Avenir braves the Mists, her path haunted by past and future terrors](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/002-00-005-ez-d-avenir.webp#center)
 
 - **1. Ravenloft Is Not a World.** The lands and characters of Ravenloft don't share a planet. Rather, the Domains of Dread consist of innumerable demiplanes hidden amid the Plane of Shadow. Mysterious Mists surround each of these island-realms. The bravest souls might creep from one domain to another, but doing so involves considerable danger, and many who enter the Mists are never seen again.  
 - **2. The Dark Powers Control All.** Sinister entities known as the Dark Powers manipulate the Domains of Dread and all who dwell within. Immortal, unknowable, and omnipotent, the Dark Powers revel in sowing terror and subtly manipulating their captives over the course of generations.  
@@ -112,7 +112,7 @@ This section provides an overview of the dreadful forces at work in Ravenloft, e
 
 By the standards of what other worlds' inhabitants consider true and sane, the Domains of Dread don't make sense. The setting's domains don't neatly flow into one another, histories don't record a collectively remembered past, fictions spawn terrible facts, and sheltered villagers remain stubbornly ignorant about the world beyond. Ravenloft is a setting designed to cultivate uncertainty, mystery, paranoia, and dread in defiance of logic or common sense.
 
-![In Ravenloft, tales like t...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/003-00-008-bagman.webp#center "In Ravenloft, tales like the treasure-haunting Bagman come to terrifying life")
+![In Ravenloft, tales like the treasure-haunting Bagman come to terrifying life](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/003-00-008-bagman.webp#center)
 
 The characters in your Ravenloft adventures might be the first to inquire after obvious inconsistencies or to notice plain impossibilities. But why has no one before them sought answers to such unignorable questions? The Dark Powers, the Mists, and the nature of domains and Darklords all claim part of the answer, but ultimately they reflect aspects of the same cause: nightmare logic.
 
@@ -156,7 +156,7 @@ The true nature of the Dark Powers is for you to decide. How you perceive these 
 > Yours in reason, Alanik Ray & Dr. Arthur Sedgwick
 ^012
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/004-00-009-letter-alanik.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/004-00-009-letter-alanik.webp#center)
 
 ### The Mists
 
@@ -191,7 +191,7 @@ Central to each domain is a Darklord, the seed from which a thorny thicket bloom
 
 Though these individuals vary widely and exceptions occur, Darklords share a number of qualities:
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/005-00-010-raven-skull.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/005-00-010-raven-skull.webp#center)
 
 - **Darklords Are Evil.** Each Darklord is the ultimate villain of a domain and the root of the suffering and terror that unfold there.  
 - **Darklords Are Prisoners.** Darklords cannot leave their domains. If a Darklord enters the Mists or uses another method to attempt an escape, the Dark Powers return them to their domain. Even death rarely allows a Darklord to escape their prison for long.  
@@ -202,7 +202,7 @@ Though these individuals vary widely and exceptions occur, Darklords share a num
 - **Darklords Don't Realize They're Darklords.** With a few exceptions, Darklords don't realize they occupy a special place in the world. Their agendas, obsessions, and egotism distract them from focusing on the strangeness of the world and petty concerns such as eerie fog.  
 - **Darklords Are Immortal.** Darklords are casually immortal, many having no concept of how long they've lived, how many times they've died, or why they returned to life. Should a Darklord fall, the temporary defeat lasts until they're restored by the Dark Powers. In their absence, those who sought to escape or supplant them seize their chance.  
 
-![Rudolph van Richten prepar...](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/006-00-005-rudolph-van-richten.webp#center "Rudolph van Richten prepares for his next expedition, watched over by the spirit of his son, Erasmus.")
+![Rudolph van Richten prepares for his next expedition, watched over by the spirit of his son, Erasmus.](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/006-00-005-rudolph-van-richten.webp#center)
 
 ### Adventurers
 
@@ -213,7 +213,7 @@ The Domains of Dread don't typically breed heroes. For the inhabitants of most d
 
 Adventurers find few peers in the Land of the Mists. While there are exceptions—many of whom are illustrated throughout this book and detailed in "chapter 3"—such individuals are few and their lives are often short. Guilds of adventurers and shops catering to their needs generally don't exist. As a result, the challenge of confronting evil rests squarely with a few rare souls. Read on to "chapter 1" for details on creating your own haunted heroes.
 
-![](/3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/007-00-012-letter-van-richten.webp#center)
+![](3-Mechanics/CLI/books/van-richtens-guide-to-ravenloft/img/007-00-012-letter-van-richten.webp#center)
 
 > [!readaloud] 
 > 

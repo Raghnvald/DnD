@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-2
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Piercer
+- "Ice Piercer"
 ---
-# [Ice Piercer](3-Mechanics\CLI\bestiary\monstrosity/ice-piercer-idrotf.md)
+# [Ice Piercer](3-Mechanics/CLI/bestiary/monstrosity/ice-piercer-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 226*  
 
 Auril the Frostmaiden has transformed icicles into creatures that resemble piercers.
@@ -40,10 +40,11 @@ A piercer is the larval form of a roper, and the two creatures often attack in t
   - !!int "3"
 "speed": "5 ft., climb 5 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "damage_immunities": "cold"
-"senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 8"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
 "traits":
@@ -54,12 +55,12 @@ A piercer is the larval form of a roper, and the two creatures often attack in t
       \ ceilings, without needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, one creature directly underneath the\
-      \ piercer. *Hit:* 10 (3d6) piercing damage plus 10 (3d6) cold damage. Miss:\
-      \ The piercer takes half the normal falling damage for the distance fallen."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, one creature directly underneath\
+      \ the piercer. *Hit:* 10 (3d6) piercing damage plus 10 (3d6) cold damage.\
+      \ Miss: The piercer takes half the normal falling damage for the distance fallen."
     "name": "Drop"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/ice-piercer-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/ice-piercer-idrotf.webp"
 ```
 ^statblock

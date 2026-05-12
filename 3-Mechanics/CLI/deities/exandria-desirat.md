@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/light
 - ttrpg-cli/domain/trickery
-aliases: 
-- Desirat
+aliases:
+- "Desirat"
 ---
 # Desirat
 *Source: Explorer's Guide to Wildemount p. 31* 

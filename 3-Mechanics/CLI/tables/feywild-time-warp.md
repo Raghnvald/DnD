@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Feywild Time Warp
+- "Feywild Time Warp"
 ---
 # Feywild Time Warp
 *Source: Dungeon Master's Guide p. 50* 
 
 **Feywild Time Warp**
-
-`dice: [](feywild-time-warp.md#^feywild-time-warp)`
 
 | dice: d20 | Result |
 |-----------|--------|

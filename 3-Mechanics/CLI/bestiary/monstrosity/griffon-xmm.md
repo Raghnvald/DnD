@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Griffon
+- "Griffon"
 ---
-# [Griffon](3-Mechanics\CLI\bestiary\monstrosity/griffon-xmm.md)
+# [Griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon-xmm.md)
 *Source: Monster Manual (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Griffon
@@ -32,8 +32,6 @@ Griffons combine the features of raptors and big cats—most commonly eagles and
 Countless tales surround griffons. Roll on or choose a result from the Griffon Tales table to inspire stories about them.
 
 **Griffon Tales**
-
-`dice: [](griffon-xmm.md#^griffon-tales)`
 
 | dice: 1d6 | Legends Claim That Griffons... |
 |-----------|--------------------------------|
@@ -68,22 +66,22 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
   - !!int "8"
 "speed": "30 ft., fly 80 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "The griffon makes two Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [Grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
+  - "desc": "*Melee Attack Roll:* +6, reach 5 ft. *Hit:* 8 (1d8 + 4) Piercing\
+      \ damage. If the target is a Medium or smaller creature, it has the [Grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ condition (escape DC 14) from both of the griffon's front claws."
     "name": "Rend"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/griffon-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/griffon-xmm.webp"
 ```
 ^statblock
 

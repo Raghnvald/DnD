@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/2
-- new/monster/size/small
-- new/monster/type/aberration/shapechanger
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/aberration/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gingwatzim
+- "Gingwatzim"
 ---
-# [Gingwatzim](3-Mechanics\CLI\bestiary\aberration/gingwatzim-cm.md)
+# [Gingwatzim](3-Mechanics/CLI/bestiary/aberration/gingwatzim-cm.md)
 *Source: Candlekeep Mysteries p. 27*  
 
 A gingwatzim is a peculiar form of life created by a spell or a ritual. The magic that brings it into being draws on spirit energy from the Ethereal Plane to give the gingwatzim its true form—that of a luminous (but not too bright) sphere of ectoplasm roughly 3 feet in diameter. A newly formed gingwatzim appears as near to its creator as possible and follows its creator's commands without question, using telepathy to communicate.
@@ -51,8 +51,8 @@ A gingwatzim can assume two other forms that are determined by its creator at th
       \ be changed."
     "name": "Alternate Forms"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 16\
-      \ (4d6 + 2) necrotic damage, and the target must succeed on a DC 12 Constitution\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 16 (4d6 + 2) necrotic damage, and the target must succeed on a DC 12 Constitution\
       \ saving throw or gain 1 level of exhaustion. When the target finishes a short\
       \ or long rest, the target loses every level of exhaustion gained from this\
       \ attack."
@@ -67,6 +67,6 @@ A gingwatzim can assume two other forms that are determined by its creator at th
     "name": "Change Shape"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/gingwatzim-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/gingwatzim-cm.webp"
 ```
 ^statblock

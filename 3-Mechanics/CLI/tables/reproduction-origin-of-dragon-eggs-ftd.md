@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Reproduction; Origin of Dragon Eggs
+- "Reproduction; Origin of Dragon Eggs"
 ---
 # Reproduction; Origin of Dragon Eggs
 *Source: Fizban's Treasury of Dragons p. 38* 
 
 **Origin of Dragon Eggs**
-
-`dice: [](reproduction-origin-of-dragon-eggs-ftd.md#^origin-of-dragon-eggs)`
 
 | dice: d10 | Origin |
 |-----------|--------|

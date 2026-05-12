@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Fiendish Cults; Cult Organization
+- "Fiendish Cults; Cult Organization"
 ---
 # Fiendish Cults; Cult Organization
 *Source: Mordenkainen's Tome of Foes p. 34* 
 
 **Cult Organization**
-
-`dice: [](fiendish-cults-cult-organization-mtf.md#^cult-organization)`
 
 | dice: d6 | Organization |
 |----------|--------------|

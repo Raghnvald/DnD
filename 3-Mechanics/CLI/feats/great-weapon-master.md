@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/feat
 aliases:
-- Great Weapon Master
+- "Great Weapon Master"
 ---
 # Great Weapon Master
 *Source: Player's Handbook p. 167*  

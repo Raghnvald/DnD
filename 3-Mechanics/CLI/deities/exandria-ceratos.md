@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/knowledge
 - ttrpg-cli/domain/tempest
-aliases: 
-- Ceratos
+aliases:
+- "Ceratos"
 ---
 # Ceratos
 *Source: Explorer's Guide to Wildemount p. 31* 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Storm Giant Tempest Caller
+- "Storm Giant Tempest Caller"
 ---
-# [Storm Giant Tempest Caller](3-Mechanics\CLI\bestiary\giant/storm-giant-tempest-caller-bgg.md)
+# [Storm Giant Tempest Caller](3-Mechanics/CLI/bestiary/giant/storm-giant-tempest-caller-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 182*  
 
 While most storm giants care little for the intricate details of ranking in the ordning, tempest callers proudly claim a position at the pinnacle of that ranking—and few dare to challenge them. Wielding the power of rune magic in addition to the innate magic that courses through them, these storm giants are highly respected. If any giant can draw Annam's attention to the world, it would likely be a tempest caller.
@@ -44,16 +44,15 @@ Tempest callers implant crystal balls inscribed with the storm rune into their f
   - "wisdom": !!int "10"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+17"
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+15"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
 "damage_resistances": "cold"
 "damage_immunities": "lightning, thunder"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 20"
+"senses": "truesight 120 ft., passive Perception 20"
 "languages": "Common, Giant, Primordial"
 "cr": "20"
 "traits":
@@ -63,8 +62,8 @@ Tempest callers implant crystal balls inscribed with the storm rune into their f
     "name": "Amphibious"
   - "desc": "If the giant fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
-  - "desc": "The giant can use its crystal ball to cast the [scrying](/3-Mechanics/CLI/spells/scrying-xphb.md)\
-      \ spell (save DC 17)."
+  - "desc": "The giant can use its crystal ball to cast the scrying spell (save DC\
+      \ 17)."
     "name": "Scrying (Requires Storm Rune)"
   - "desc": "The giant has a storm rune inscribed on a crystal ball. While the object\
       \ bearing the rune is embedded in its body, the giant can use its Tempest Call\
@@ -78,8 +77,8 @@ Tempest callers implant crystal balls inscribed with the storm rune into their f
 "actions":
   - "desc": "The giant makes three Lightning Blade or Lightning Lance attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (3d8 + 9) slashing damage plus 16 (3d10) lightning damage."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (3d8 + 9) slashing damage plus 16 (3d10) lightning damage."
     "name": "Lightning Blade"
   - "desc": "*Ranged Spell Attack:* +13 to hit, range 500 ft., one target. *Hit:*\
       \ 39 (5d12 + 7) lightning damage."
@@ -91,16 +90,13 @@ Tempest callers implant crystal balls inscribed with the storm rune into their f
       \ On a successful save, a creature takes half as much damage."
     "name": "Tempest Call (Requires Storm Rune)"
   - "desc": "The giant casts one of the following spells, requiring no material components\
-      \ and using Charisma as the spellcasting ability (spell save DC 21, +13 to hit\
-      \ with spell attacks):\n\n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md)\n\n**1/day\
-      \ each:** [control water](/3-Mechanics/CLI/spells/control-water-xphb.md), [control\
-      \ weather](/3-Mechanics/CLI/spells/control-weather-xphb.md) (as an action),\
-      \ [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md),\
-      \ [sending](/3-Mechanics/CLI/spells/sending-xphb.md), [time stop](/3-Mechanics/CLI/spells/time-stop-xphb.md)"
+      \ and using Charisma as the spellcasting ability (spell save DC 21, +13 to\
+      \ hit with spell attacks):\n\n**At will:** detect magic, detect thoughts\n\n\
+      **1/day each:** control water, control weather (as an action), dispel magic,\
+      \ plane shift, sending, time stop"
     "name": "Spellcasting"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/storm-giant-tempest-caller-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/storm-giant-tempest-caller-bgg.webp"
 ```
 ^statblock

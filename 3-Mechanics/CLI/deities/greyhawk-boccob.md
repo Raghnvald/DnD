@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/greyhawk
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Boccob
+aliases:
+- "Boccob"
 ---
 # Boccob
 *Source: Player's Handbook p. 295, Sword Coast Adventurer's Guide p. 125* 

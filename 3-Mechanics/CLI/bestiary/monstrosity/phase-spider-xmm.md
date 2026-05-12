@@ -18,9 +18,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phase Spider
+- "Phase Spider"
 ---
-# [Phase Spider](3-Mechanics\CLI\bestiary\monstrosity/phase-spider-xmm.md)
+# [Phase Spider](3-Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md)
 *Source: Monster Manual (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Phase Spider
@@ -57,10 +57,10 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "3"
 "traits":
@@ -76,12 +76,13 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
 "actions":
   - "desc": "The spider makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing damage\
-      \ plus 9 (2d8) Poison damage. If this damage reduces the target to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
-      \ the target becomes [Stable](/3-Mechanics/CLI/variant-rules/stable-xphb.md),\
-      \ and it has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-      \ for 1 hour. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the\
-      \ target also has the [Paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed)\
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (1d10 + 3) Piercing\
+      \ damage plus 9 (2d8) Poison damage. If this damage reduces the target to\
+      \ 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), the\
+      \ target becomes [Stable](3-Mechanics/CLI/rules/variant-rules/stable-xphb.md),\
+      \ and it has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
+      \ for 1 hour. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ the target also has the [Paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
       \ condition."
     "name": "Bite"
 "bonus_actions":
@@ -90,7 +91,7 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
     "name": "Ethereal Jaunt"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/phase-spider-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/phase-spider-xmm.webp"
 ```
 ^statblock
 

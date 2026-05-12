@@ -10,18 +10,20 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mind Drinker Vampire
+- "Mind Drinker Vampire"
 ---
-# [Mind Drinker Vampire](3-Mechanics\CLI\bestiary\undead/mind-drinker-vampire-ggr.md)
+# [Mind Drinker Vampire](3-Mechanics/CLI/bestiary/undead/mind-drinker-vampire-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 224*  
+
+## Mind Drinker Vampire
 
 When vampires join House Dimir, they can learn to siphon mental energy and memories along with the blood of their victims. They also study the magic favored by Dimir mind mages, giving them a powerful combination of abilities ideal for espionage and infiltration.
 
-## Szadek's Heirs
+### Szadek's Heirs
 
 The founder of House Dimir, Szadek, was the first of the so-called mind drinkers. His secrets are passed on only to other members of his guild, and mind drinkers who leave House Dimir become enemies of the guild-the only exceptions to a rule that prohibits mind drinkers from feeding on others of their kind.
 
-## Cell Leaders
+### Cell Leaders
 
 Thanks to their particular gifts, mind drinkers are often placed as leaders of small cells of covert Dimir operatives. They rarely trust their own agents, though, and often follow their cell members to make sure those members carry out missions as ordered. The most suspicious vampires might even siphon thoughts from their subordinates to detect any hint of betrayal.
 
@@ -53,51 +55,44 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
   - "intelligence": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+4"
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
 "damage_resistances": "necrotic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
 "cr": "4"
 "traits":
   - "desc": "The vampire's innate spellcasting ability is Intelligence (spell save\
       \ DC 14). It can innately cast the following spells, requiring no components:\n\
-      \n**At will:** [message](/3-Mechanics/CLI/spells/message-xphb.md)\n\n**3/day\
-      \ each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md), [hold\
-      \ person](/3-Mechanics/CLI/spells/hold-person-xphb.md), [mirror image](/3-Mechanics/CLI/spells/mirror-image-xphb.md),\
-      \ [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)\n\n**1/day each:** [gaseous\
-      \ form](/3-Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/3-Mechanics/CLI/spells/major-image-xphb.md)"
+      \n**At will:** message\n\n**3/day each:** charm person, hold person, mirror\
+      \ image, sleep\n\n**1/day each:** gaseous form, major image"
     "name": "Innate Spellcasting (Psionics)"
   - "desc": "While in dim light or darkness, the vampire can take the Hide action\
       \ as a bonus action."
     "name": "Shadow Stealth"
   - "desc": "While in sunlight, the vampire has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
-      \ that rely on sight."
+      \ as on Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The vampire makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by the vampire, [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated),\
-      \ or [restrained](/3-Mechanics/CLI/conditions.md#Restrained). *Hit:* 7 (1d6\
-      \ + 4) piercing damage plus 7 (2d6) necrotic damage. The target's hit point\
-      \ maximum is reduced by an amount equal to the necrotic damage taken, and the\
-      \ vampire regains hit points equal to that amount. The reduction lasts until\
-      \ the target finishes a long rest. The target dies if its hit point maximum\
+      \ or a creature that is grappled by the vampire, incapacitated, or restrained.\
+      \ *Hit:* 7 (1d6 + 4) piercing damage plus 7 (2d6) necrotic damage. The target's\
+      \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
+      \ and the vampire regains hit points equal to that amount. The reduction lasts\
+      \ until the target finishes a long rest. The target dies if its hit point maximum\
       \ is reduced to 0."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8\
-      \ + 4) bludgeoning damage. The vampire can also grapple the target (escape DC\
-      \ 13) if it is a creature and the vampire has a hand free."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d8 + 4) bludgeoning damage. The vampire can also grapple the target (escape\
+      \ DC 13) if it is a creature and the vampire has a hand free."
     "name": "Unarmed Strike"
   - "desc": "The vampire targets a creature it can see within 30 feet of it. The target\
       \ must make a DC 14 Intelligence saving throw, with disadvantage if the vampire\
@@ -109,6 +104,6 @@ The vampires of Ravnica differ from those in the Monster Manual in important way
     "name": "Mind Siphon (Recharge 5-6)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/mind-drinker-vampire-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/mind-drinker-vampire-ggr.webp"
 ```
 ^statblock

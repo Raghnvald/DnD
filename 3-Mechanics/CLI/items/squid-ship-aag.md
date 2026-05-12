@@ -19,4 +19,4 @@ Among the oldest types of spelljamming vessels, squid ships are popular with pri
 
 Squid ships can float and sail on water, and they can land on the ground.
 
-*Source: Astral Adventurer's Guide p. 48*
+*Source: Astral Adventurer's Guide p. 48, Spelljammer Academy*

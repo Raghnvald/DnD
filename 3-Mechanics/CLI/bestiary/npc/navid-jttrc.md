@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Navid
+- "Navid"
 ---
-# [Navid](3-Mechanics\CLI\bestiary\npc/navid-jttrc.md)
+# [Navid](3-Mechanics/CLI/bestiary/npc/navid-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 159*  
 
 ```statblock
@@ -38,16 +38,23 @@ aliases:
   - "wisdom": !!int "6"
   - "charisma": !!int "7"
 "damage_immunities": "fire"
-"senses": "darkvision 120 ft., passive Perception 12"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Ignan"
 "cr": "11"
 "traits":
   - "desc": "Navid's innate spellcasting ability is Charisma (spell save DC 15, +7\
       \ to hit with spell attacks). It can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** detect magic, polymorph (self only)\n\
-      \n**3/day each:** enlarge/reduce, tongues\n\n**1/day each:** conjure elemental\
-      \ ([fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) only),\
-      \ gaseous form, invisibility, major image, plane shift, wall of fire"
+      \ no material components:\n\n**At will:** [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [polymorph](3-Mechanics/CLI/spells/polymorph.md) (self only)\n\n**3/day each:**\
+      \ [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md), [tongues](3-Mechanics/CLI/spells/tongues.md)\n\
+      \n**1/day each:** [conjure elemental](3-Mechanics/CLI/spells/conjure-elemental.md)\
+      \ ([fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md) only),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form.md), [invisibility](3-Mechanics/CLI/spells/invisibility.md),\
+      \ [major image](3-Mechanics/CLI/spells/major-image.md), [plane shift](3-Mechanics/CLI/spells/plane-shift.md),\
+      \ [wall of fire](3-Mechanics/CLI/spells/wall-of-fire.md)"
     "name": "Innate Spellcasting"
   - "desc": "If Navid dies, its body disintegrates in a flash of fire and puff of\
       \ smoke, leaving behind only equipment Navid was wearing or carrying."
@@ -55,14 +62,14 @@ aliases:
 "actions":
   - "desc": "Navid makes two scimitar attacks or uses its Hurl Flame twice."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage plus 7 (2d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage."
     "name": "Scimitar"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 17\
-      \ (5d6) fire damage."
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:*\
+      \ 17 (5d6) fire damage."
     "name": "Hurl Flame"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/navid-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/navid-jttrc.webp"
 ```
 ^statblock

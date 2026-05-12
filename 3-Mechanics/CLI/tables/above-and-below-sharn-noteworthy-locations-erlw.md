@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Above and Below Sharn: Noteworthy Locations
+- "Above and Below Sharn: Noteworthy Locations"
 ---
 # Above and Below Sharn: Noteworthy Locations
 *Source: Eberron: Rising from the Last War p. 175* 

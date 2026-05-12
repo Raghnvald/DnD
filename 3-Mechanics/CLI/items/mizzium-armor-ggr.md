@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Mizzium Armor"
 - "Mizzium Breastplate"
 - "Mizzium Chain Mail"

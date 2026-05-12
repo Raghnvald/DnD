@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/illuskan-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/illuskan-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Beldora
+- "Beldora"
 ---
-# [Beldora](3-Mechanics\CLI\bestiary\npc/beldora-skt.md)
+# [Beldora](3-Mechanics/CLI/bestiary/npc/beldora-skt.md)
 *Source: Storm King's Thunder p. 249*  
 
 Beldora is a member of the Harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.
@@ -42,16 +42,19 @@ Flaw:"I like lying to people. Makes life more interesting, no?"
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 13"
 "languages": "Common, Draconic, Dwarvish, Halfling"
 "traits":
@@ -62,18 +65,19 @@ Flaw:"I like lying to people. Makes life more interesting, no?"
       \ Makes life more interesting, no?\""
     "name": "Roleplaying Information"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage. Beldora carries ten crossbow bolts."
     "name": "Hand Crossbow"
 "reactions":
   - "desc": "Beldora adds 2 to her AC against one ranged attack that would hit her.\
-      \ To do so, Beldora must see the attacker and can't be grappled or restrained."
+      \ To do so, Beldora must see the attacker and can't be [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ or [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)."
     "name": "Duck and Cover"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/beldora-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/beldora-skt.webp"
 ```
 ^statblock

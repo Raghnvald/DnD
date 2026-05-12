@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Constrictor Snake
+- "Constrictor Snake"
 ---
-# [Constrictor Snake](3-Mechanics\CLI\bestiary\beast/constrictor-snake.md)
+# [Constrictor Snake](3-Mechanics/CLI/bestiary/beast/constrictor-snake.md)
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -36,22 +36,22 @@ aliases:
   - !!int "10"
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception\
-  \ 10"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/4"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5\
-      \ (1d6 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 5 (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6\
-      \ (1d8 + 2) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 14). Until this grapple ends, the creature is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 6 (1d8 + 2) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 14). Until this grapple ends, the creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
       \ and the snake can't constrict another target."
     "name": "Constrict"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/constrictor-snake.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/constrictor-snake.webp"
 ```
 ^statblock
 

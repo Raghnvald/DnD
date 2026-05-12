@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Sidekicks
+- "Sidekicks"
 ---
 # Sidekicks
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 66* 
@@ -23,21 +23,22 @@ The DM will either tell you which type of sidekick to use or let you choose one.
 ## Sidekick Cards
 
 > [!gallery]
-> ![Donnabella Fiasco](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/056-ynkgo-donnabella.webp#gallery)
-> ![Galandro Luna](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/057-leeom-galandro.webp#gallery)
-> ![Inverna Nightbreeze](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/058-l3v6r-inverna.webp#gallery)
-> ![Nib Addlespur](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/059-3krsm-nib.webp#gallery)
-> ![Pickled Pete](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/060-pu4f2-pete.webp#gallery)
-> ![Quinn Hightopple](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/061-gttxp-quinn.webp#gallery)
-> ![Ruby Hammerwhacker](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/062-1qyge-ruby.webp#gallery)
-> ![Shanjan Kwan](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/063-nemem-shanjan.webp#gallery)
-> ![Talon Thornwild](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/064-nrqv1-talon.webp#gallery)
+> ![Donnabella Fiasco](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/056-ynkgo-donnabella.webp#gallery)
+> ![Galandro Luna](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/057-leeom-galandro.webp#gallery)
+> ![Inverna Nightbreeze](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/058-l3v6r-inverna.webp#gallery)
+> ![Nib Addlespur](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/059-3krsm-nib.webp#gallery)
+> ![Pickled Pete](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/060-pu4f2-pete.webp#gallery)
+> ![Quinn Hightopple](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/061-gttxp-quinn.webp#gallery)
+> ![Ruby Hammerwhacker](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/062-1qyge-ruby.webp#gallery)
+> ![Shanjan Kwan](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/063-nemem-shanjan.webp#gallery)
+> ![Talon Thornwild](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/064-nrqv1-talon.webp#gallery)
 
 > [!embed-deck]- Sidekick Cards
-> ![Sidekick Cards](/3-Mechanics/CLI/decks/sidekick-cards-dip.md)
+> ![Sidekick Cards](3-Mechanics/CLI/decks/sidekick-cards-dip.md)
 
 ## Sidekick Stat Blocks
 
-See the <span title="Essentials Kit">Sidekicks</span> rules entry.
+See the [Sidekicks](3-Mechanics/CLI/rules/variant-rules/sidekicks-esk.md) rules entry.
 
-<span title="Essentials Kit">Sidekicks</span>
+> [!embed-variantrule]- Sidekicks
+> ![Sidekicks](3-Mechanics/CLI/rules/variant-rules/sidekicks-esk.md)

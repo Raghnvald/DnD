@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/10
-- new/monster/size/huge
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/10
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Huge Stone Golem
+- "Huge Stone Golem"
 ---
-# [Huge Stone Golem](3-Mechanics\CLI\bestiary\construct/huge-stone-golem-skt.md)
+# [Huge Stone Golem](3-Mechanics/CLI/bestiary/construct/huge-stone-golem-skt.md)
 *Source: Storm King's Thunder p. 153*  
 
 ```statblock
@@ -35,8 +35,11 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
-"senses": "darkvision 120 ft., passive Perception 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "10"
 "traits":
@@ -50,8 +53,8 @@ aliases:
 "actions":
   - "desc": "The golem makes two slam attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Slam"
   - "desc": "The golem targets one or more creatures it can see within 10 feet of\
       \ it. Each target must make a DC 17 Wisdom saving throw against this magic.\
@@ -63,6 +66,6 @@ aliases:
     "name": "Slow (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/huge-stone-golem-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/huge-stone-golem-skt.webp"
 ```
 ^statblock

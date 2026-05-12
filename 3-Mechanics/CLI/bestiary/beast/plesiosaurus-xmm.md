@@ -12,14 +12,14 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Plesiosaurus
+- "Plesiosaurus"
 ---
-# [Plesiosaurus](3-Mechanics\CLI\bestiary\beast/plesiosaurus-xmm.md)
+# [Plesiosaurus](3-Mechanics/CLI/bestiary/beast/plesiosaurus-xmm.md)
 *Source: Monster Manual (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](3-Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
 
 ```statblock
 "name": "Plesiosaurus (XMM)"
@@ -40,9 +40,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "5"
 "speed": "20 ft., swim 40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "senses": "passive Perception 13"
 "languages": ""
@@ -51,11 +51,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The plesiosaurus can hold its breath for 1 hour."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +6, reach 10 ft. *Hit:* 11 (2d6 + 4) Piercing\
+      \ damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/plesiosaurus-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/plesiosaurus-xmm.webp"
 ```
 ^statblock
 

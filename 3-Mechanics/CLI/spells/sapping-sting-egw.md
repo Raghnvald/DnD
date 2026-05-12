@@ -5,13 +5,9 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
 - ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/death-domain
-classes:
-- Cleric (Death Domain)
 aliases:
-- Sapping Sting
+- "Sapping Sting"
 ---
 # Sapping Sting
 *cantrip, Necromancy*  
@@ -22,10 +18,8 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take `dice:1d4|noform|noparens|avg` (`1d4`) necrotic damage and fall [prone](/3-Mechanics/CLI/conditions.md#Prone).
+You sap the vitality of one creature you can see in range. The target must succeed on a Constitution saving throw or take `1d4` necrotic damage and fall prone.
 
-This spell's damage increases by `dice:1d4|noform|noparens|avg` (`1d4`) when you reach 5th level (`dice:2d4|noform|noparens|avg` (`2d4`)), 11th level (`dice:3d4|noform|noparens|avg` (`3d4`)), and 17th level (`dice:4d4|noform|noparens|avg` (`4d4`)).
-
-**Classes**: [Cleric (Death Domain)](/3-Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
+This spell's damage increases by `1d4` when you reach 5th level (`2d4`), 11th level (`3d4`), and 17th level (`4d4`).
 
 *Source: Explorer's Guide to Wildemount p. 189*

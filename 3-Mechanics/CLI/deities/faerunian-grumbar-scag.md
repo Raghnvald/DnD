@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Grumbar
+aliases:
+- "Grumbar"
 ---
 # Grumbar
 *Source: Sword Coast Adventurer's Guide p. 21* 

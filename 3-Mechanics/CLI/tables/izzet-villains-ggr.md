@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Izzet Villains
+- "Izzet Villains"
 ---
 # Izzet Villains
 *Source: Guildmasters' Guide to Ravnica p. 144* 
 
 **Izzet Villains**
-
-`dice: [](izzet-villains-ggr.md#^izzet-villains)`
 
 | dice: d8 | Villain |
 |----------|---------|

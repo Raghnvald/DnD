@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Quelle/5e/xge
+- ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Fighting Style, Bard
+- "Fighting Style, Bard"
 ---
 # Fighting Style, Bard
-*Source: Xanathar's Guide to Everything, Player's Handbook* 
+*Source: Xanathar's Guide to Everything, Player's Handbook p. 72* 
 
-- [Dueling](/3-Mechanics/CLI/optional-features/dueling.md)
-- [Two-Weapon Fighting](/3-Mechanics/CLI/optional-features/two-weapon-fighting.md)
+- [Dueling](3-Mechanics/CLI/feats/dueling-xphb.md)
+- [Two-Weapon Fighting](3-Mechanics/CLI/feats/two-weapon-fighting-xphb.md)

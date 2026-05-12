@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/rarity/uncommon
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/rarity/uncommon
+aliases:
 - "Deck of Miscellany"
 ---
 # Deck of Miscellany
@@ -16,8 +16,6 @@ aliases:
 This wooden box contains a set of thirty-two parchment cards.
 
 **Deck of Miscellany**
-
-`dice: [](deck-of-miscellany-bmt.md#^deck-of-miscellany)`
 
 | dice: 1d32 | Card | Item |
 |------------|------|------|

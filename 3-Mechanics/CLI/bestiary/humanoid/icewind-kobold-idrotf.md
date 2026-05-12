@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/1-8
-- new/monster/size/small
-- new/monster/type/humanoid/kobold
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/1-8
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/humanoid/kobold
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Icewind Kobold
+- "Icewind Kobold"
 ---
-# [Icewind Kobold](3-Mechanics\CLI\bestiary\humanoid/icewind-kobold-idrotf.md)
+# [Icewind Kobold](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 296*  
 
 Kobolds can be found anywhere dragons are known to dwell, and those that live in the mountains and hills of Icewind Dale are among the hardiest of their kind. Drawn to the north by a desire to find and serve white dragons, these kobolds adapted as best they can to the hostile climate. Their sensitive eyes appreciate sunless days and long, dark nights. They use wooden javelins as tools to test the snow ahead of them.
@@ -26,7 +26,7 @@ Kobolds native to Icewind Dale frequently wander into Ten-Towns to escape the dr
 "subtype": "kobold"
 "alignment": "Any alignment"
 "ac": !!int "14"
-"ac_class": "hide armor"
+"ac_class": "[hide armor](3-Mechanics/CLI/items/hide-armor.md)"
 "hp": !!int "9"
 "hit_dice": "2d6 + 2"
 "modifier": !!int "2"
@@ -42,22 +42,27 @@ Kobolds native to Icewind Dale frequently wander into Ten-Towns to escape the dr
   - "dexterity": !!int "4"
   - "constitution": !!int "3"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+1"
-"senses": "darkvision 60 ft., passive Perception 11"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger.md)"
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Draconic"
 "cr": "1/8"
 "traits":
   - "desc": "The kobold has advantage on an attack roll against a creature if at least\
       \ one of the kobold's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
@@ -68,6 +73,6 @@ Kobolds native to Icewind Dale frequently wander into Ten-Towns to escape the dr
     "name": "Javelin"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/icewind-kobold-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/icewind-kobold-idrotf.webp"
 ```
 ^statblock

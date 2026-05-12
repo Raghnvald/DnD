@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/heavy
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/heavy
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Clockwork Armor"
 - "Clockwork Chain Mail"
 - "Clockwork Plate Armor"
@@ -22,7 +22,7 @@ aliases:
 
 The outside surface and internal joints of this armor whir with interlocking gears, drawing on the orderly magic of the plane of Mechanus.
 
-The armor has 4 charges. If you make a `dice:d20|noform|noparens|avg` (`d20`) roll while wearing this armor, you can expend 1 charge to change the number rolled to a 10. The armor regains `dice:1d4|noform|noparens|avg` (`1d4`) expended charges daily at dawn.
+The armor has 4 charges. If you make a `d20` roll while wearing this armor, you can expend 1 charge to change the number rolled to a 10. The armor regains `1d4` expended charges daily at dawn.
 
 **Variants**:
 - [Clockwork Chain Mail](#Clockwork%20Chain%20Mail)

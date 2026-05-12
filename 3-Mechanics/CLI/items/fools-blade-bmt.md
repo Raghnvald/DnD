@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/attunement/required
-- new/item/rarity/very-rare
-- new/item/weapon/martial
-- new/item/weapon/melee
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/very-rare
+- ttrpg-cli/item/weapon/martial
+- ttrpg-cli/item/weapon/melee
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Fool's Blade"
 - "Fool's Double-Bladed Scimitar"
 - "Fool's Greatsword"

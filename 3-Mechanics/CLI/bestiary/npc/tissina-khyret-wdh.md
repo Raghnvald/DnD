@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Tissina Khyret
+- "Tissina Khyret"
 ---
-# [Tissina Khyret](3-Mechanics\CLI\bestiary\npc/tissina-khyret-wdh.md)
+# [Tissina Khyret](3-Mechanics/CLI/bestiary/npc/tissina-khyret-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 116*  
 
 Madame Khyret is the personal attendant to Ammalia Cassalanter and is the family's chief housemaid. Madame Khyret dresses in a long black gown and wears a headdress with black tassels. She is an aging tiefling and she spends most of her time in the master sitting room
@@ -24,7 +24,7 @@ Madame Khyret is the personal attendant to Ammalia Cassalanter and is the family
 "subtype": "tiefling"
 "alignment": "Lawful Evil"
 "ac": !!int "13"
-"ac_class": "leather armor"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor-xphb.md)"
 "hp": !!int "33"
 "hit_dice": "6d8 + 6"
 "modifier": !!int "2"
@@ -37,37 +37,44 @@ Madame Khyret is the personal attendant to Ammalia Cassalanter and is the family
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+4"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+2"
 "damage_resistances": "fire"
-"senses": "darkvision 60 ft., passive Perception 11"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common, Infernal"
 "cr": "2"
 "traits":
   - "desc": "Tissina is a 4th-level spellcaster. Her spellcasting ability is Wisdom.\
       \ Tissina has the following cleric spells prepared:\n\n**Cantrips (at will):**\
-      \ light, sacred flame, thaumaturgy\n\n**1st level (4 slots):** command, inflict\
-      \ wounds, shield of faith\n\n**2nd level (3 slots):** hold person, spiritual\
-      \ weapon"
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md), [sacred flame](3-Mechanics/CLI/spells/sacred-flame-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [command](3-Mechanics/CLI/spells/command-xphb.md), [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md),\
+      \ [shield of faith](3-Mechanics/CLI/spells/shield-of-faith-xphb.md)\n\n**2nd\
+      \ level (3 slots):** [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)"
     "name": "Spellcasting"
   - "desc": "Tissina's spellcasting ability is Charisma. She can innately cast the\
-      \ following spells, requiring no material components:\n\n**At will:** thaumaturgy"
+      \ following spells, requiring no material components:\n\n**At will:** [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Tissina has advantage on saving throws against being charmed or frightened."
+  - "desc": "Tissina has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ or [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Dark Devotion"
 "actions":
   - "desc": "Tissina makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range 20/60\
-      \ ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage. Or Ranged Weapon Attack: +4 to hit, range\
+      \ 20/60 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage."
     "name": "Dagger"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/tissina-khyret-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/tissina-khyret-wdh.webp"
 ```
 ^statblock

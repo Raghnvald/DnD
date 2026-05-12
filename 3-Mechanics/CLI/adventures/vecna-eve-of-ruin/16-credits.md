@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Credits
+- "Credits"
 ---
 # Credits
 *Source: Vecna: Eve of Ruin* 
@@ -42,11 +42,11 @@ aliases:
 - **Product Managers.** Natalie Egan, Teresa Kramer, Chris Lindsay, Hilary Ross  
 - Special thanks to T. Alexander Stangroom and to the playtesters whose efforts made this a better book.  
 
-![](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/219-15-001-vecna-cultist-tattoo.webp#center)
+![](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/219-15-001-vecna-cultist-tattoo.webp#center)
 
 > [!gallery]
-> ![On the Cover: Vecna weaves...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/220-15-002-vecna-eve-of-ruin-cover.webp#gallery "On the Cover: Vecna weaves a ritual to remake the multiverse to his liking while Kas prepares to slay the lich in this cover by Kieran Yanner.")
-> ![On the Alt-Cover: The *Eye...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/221-15-003-vecna-eve-of-ruin-alt-cover.webp#gallery "On the Alt-Cover: The *Eye and Hand of Vecna* portend terrible doom for existence while the runes on the *Rod of Seven Parts* might offer our heroes some help in this cover by Hydro74.")
+> ![On the Cover: Vecna weaves a ritual to remake the multiverse to his liking while Kas prepares to slay the lich in this cover by Kieran Yanner.](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/220-15-002-vecna-eve-of-ruin-cover.webp#gallery)
+> ![On the Alt-Cover: The *Eye and Hand of Vecna* portend terrible doom for existence while the runes on the *Rod of Seven Parts* might offer our heroes some help in this cover by Hydro74.](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/221-15-003-vecna-eve-of-ruin-alt-cover.webp#gallery)
 
 > [!note]
 > Disclaimer: All resistance to the Lord of the Hand and Eye is futile. Any thwarting of his will or his creations is temporary, as the Undying One will eventually remove all evidence of any inferior versions of reality. There will be no mercy for your pitiful souls, which never existed.

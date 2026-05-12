@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Poltergeist
+- "Poltergeist"
 ---
-# [Poltergeist](3-Mechanics\CLI\bestiary\undead/poltergeist.md)
+# [Poltergeist](3-Mechanics/CLI/bestiary/undead/poltergeist.md)
 *Source: Monster Manual p. 279*  
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
@@ -39,13 +39,13 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [grappled](/3-Mechanics/CLI/conditions.md#Grappled), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-  \ [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+  \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands all languages it knew in life but can't speak"
 "cr": "2"
 "traits":
@@ -54,14 +54,14 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
       \ inside an object."
     "name": "Incorporeal Movement"
   - "desc": "While in sunlight, the poltergeist has disadvantage on attack rolls,\
-      \ as well as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ as well as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on sight."
     "name": "Sunlight Sensitivity"
-  - "desc": "The poltergeist is [invisible](/3-Mechanics/CLI/conditions.md#Invisible)."
+  - "desc": "The poltergeist is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible)."
     "name": "Invisibility"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (3d6) force damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (3d6) force damage."
     "name": "Forceful Slam"
   - "desc": "The poltergeist targets a creature or unattended object within 30 feet\
       \ of it. A creature must be Medium or smaller to be affected by this magic,\
@@ -77,7 +77,7 @@ A poltergeist is the confused, invisible spirit of an individual with no sense o
     "name": "Telekinetic Thrust"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/poltergeist.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/poltergeist.webp"
 ```
 ^statblock
 

@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Mercenary Veteran
+- "Mercenary Veteran"
 ---
 # Mercenary Veteran
 *Source: Sword Coast Adventurer's Guide p. 152*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of gaming set, vehicles (land)  
-- **Equipment.** A uniform of your company ([traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md) in quality), an insignia of your rank, a gaming set of your choice, and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing the remainder of your last wages (10 gp).  
+- **Equipment.** A uniform of your company ([traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md) in quality), an insignia of your rank, a gaming set of your choice, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing the remainder of your last wages (10 gp).  
 
 As a sell-sword who fought battles for coin, you're well acquainted with risking life and limb for a chance at a share of treasure. Now, you look forward to fighting foes and reaping even greater rewards as an adventurer. Your experience makes you familiar with the ins and outs of mercenary life, and you likely have harrowing stories of events on the battlefield. You might have served with a large outfit such as the Zhentarim or the soldiers of Mintarn, or a smaller band of sell-swords, maybe even more than one. (See the "Mercenaries of the North" sidebar for a collection of possibilities.)
 
@@ -37,6 +37,6 @@ You know the mercenary life as only someone who has experienced it can. You are 
 
 ## Suggested Characteristics
 
-Use the tables for the [soldier](/3-Mechanics/CLI/backgrounds/soldier-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a mercenary.
+Use the tables for the [soldier](3-Mechanics/CLI/backgrounds/soldier-xphb.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a mercenary.
 
 Your bond could be associated with the company you traveled with previously, or with some of the comrades you served with. The ideal you embrace largely depends on your worldview and your motivation for fighting.

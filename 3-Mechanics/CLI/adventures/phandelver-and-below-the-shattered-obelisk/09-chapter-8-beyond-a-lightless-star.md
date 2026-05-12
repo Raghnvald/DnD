@@ -5,14 +5,14 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 aliases:
-- Chapter 8: Beyond a Lightless Star
+- "Chapter 8: Beyond a Lightless Star"
 ---
 # Chapter 8: Beyond a Lightless Star
 *Source: Phandelver and Below: The Shattered Obelisk, p. 169* 
 
 The mind flayer fanatics have fled from the subterranean stronghold of Illithinoch to the Far Realm. There, the fanatics commune directly with their wicked deity, Ilvaash, as they begin a sinister ritual that will transform Humanoids in and around Phandalin into mind flayers. In the heart of Ilvaash's hidden domain, the fanatics use the Netherese obelisk's ancient magic to bring their ritual to completion. No one but the characters can stop their vile plan!
 
-![The godlet Ilvaash is not ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/127-08-001-ch8-splash.webp#center "The godlet Ilvaash is not to be trifled with, especially in the entity's Far Realm home")
+![The godlet Ilvaash is not to be trifled with, especially in the entity's Far Realm home](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/127-08-001-ch8-splash.webp#center)
 
 ## Running This Chapter
 
@@ -20,7 +20,7 @@ The fanatics have already begun their lengthy ritual. They believe themselves sa
 
 ### In the Far Realm
 
-Most of this adventure takes place in the Far Realm, which is inimical to mortals. Any creature other than a Far Realm denizen that finishes a long rest in the Far Realm must make a DC 15 Wisdom saving throw. On a failed save, the creature gains 1 level of [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion).
+Most of this adventure takes place in the Far Realm, which is inimical to mortals. Any creature other than a Far Realm denizen that finishes a long rest in the Far Realm must make a DC 15 Wisdom saving throw. On a failed save, the creature gains 1 level of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion).
 
 ### Character Advancement
 
@@ -39,7 +39,7 @@ As the characters travel between Illithinoch and Phandalin, they can clear out a
 
 ### Creeping Transformations
 
-![The ritual in the Far Real...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/128-08-002-phandalin-suffering.webp#center "The ritual in the Far Realm targeting Phandalin is almost complete, and its people and places have already begun to suffer")
+![The ritual in the Far Realm targeting Phandalin is almost complete, and its people and places have already begun to suffer](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/128-08-002-phandalin-suffering.webp#center)
 
 Phandalin has changed since the characters' last visit. The mind flayer fanatics of the godlet Ilvaash have begun their ritual, and the open rifts to the Far Realm directly beneath the town have accelerated the townsfolk's transformation. The four residents who began transforming at the start of the last chapter—Sister Garaele, Ander, Halia Thornton, and Wheel-of-Fortune—have undergone extreme changes. They're locked in their homes to protect themselves and others. Regular, cautious visits from their friends keep these four people tenuously grounded, so there haven't been any further violent incidents.
 
@@ -51,8 +51,8 @@ Trees, bushes, and other natural elements throughout town cast shadows that undu
 
 During this chapter, specific townspeople the characters might consult and locations they might visit experience the following changes:
 
-- **Gwyn.** The changes [Gwyn Oresong](/3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) experiences terrify her. A double-irised eye has opened on her neck, and she's reluctant to be around anyone other than her sister and the characters. She has little advice for the characters other than to end the threat as soon as possible.  
-- **Rivibiddel.** The svirfneblin despairs that the text he went through so much acquire, He of the Hidden Gemstone, contains passages that glorify confusion and chaos. The passages aren't there, but [Rivibiddel](/3-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md) keeps misreading the text as such.  
+- **Gwyn.** The changes [Gwyn Oresong](3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) experiences terrify her. A double-irised eye has opened on her neck, and she's reluctant to be around anyone other than her sister and the characters. She has little advice for the characters other than to end the threat as soon as possible.  
+- **Rivibiddel.** The svirfneblin despairs that the text he went through so much acquire, He of the Hidden Gemstone, contains passages that glorify confusion and chaos. The passages aren't there, but [Rivibiddel](3-Mechanics/CLI/bestiary/npc/rivibiddel-pabtso.md) keeps misreading the text as such.  
 - **Stonehill Inn.** The Stonehills closed their inn, worried that guests might cause an incident in their establishment.  
 - **Townspeople.** Other townspeople can be affected as you see fit. They should be aware of their slow transformations and beseech the characters to end the source of their aberrant changes.  
 
@@ -64,7 +64,7 @@ The Briny Maze includes an accumulation of cerebral fluid lodged in the maze's f
 
 ### Intruders in the Maze
 
-![Horror awaits around every...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/129-08-003-briny-maze-horror.webp#center "Horror awaits around every corner in the Briny Maze")
+![Horror awaits around every corner in the Briny Maze](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/129-08-003-briny-maze-horror.webp#center)
 
 Over the years, many foes of Ilvaash have reached the Briny Maze to strike at Ilvaash, assault the Dissonant Psyche's minions, or steal knowledge or treasures.
 
@@ -98,7 +98,7 @@ The Briny Maze has three double doors, called mindgates. Mindgates are made of t
 
 Certain locations in the Briny Maze have a pair of activation rods protruding from the area's walls. Each of these rods carries a small magical charge. (The activation rods are shown on map 8.1.)
 
-Depending on how far apart the activation rods in an area are, one or more characters might need to make a living chain between the rods. Everyone in a living chain must make a DC 15 Constitution saving throw (with disadvantage if the creature is wearing armor made of metal), taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) lightning damage on a failed save, or half as much damage on a successful one. The linked rods then cause the mindgate to open. The Activation Rods table lists which rods open each mindgate.
+Depending on how far apart the activation rods in an area are, one or more characters might need to make a living chain between the rods. Everyone in a living chain must make a DC 15 Constitution saving throw (with disadvantage if the creature is wearing armor made of metal), taking 22 (`4d10`) lightning damage on a failed save, or half as much damage on a successful one. The linked rods then cause the mindgate to open. The Activation Rods table lists which rods open each mindgate.
 
 **Activation Rods**
 
@@ -118,18 +118,18 @@ Like the rest of the Far Realm, the Briny Maze has no cardinal directions. A com
 
 The following benefits apply to any creature that has an Intelligence of 3 or greater. Affected creatures intuitively understand the benefits as soon as they enter an area:
 
-- **Occipital Lobe.** Areas B1–B5 enhance awareness. Creatures here have advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks.  
+- **Occipital Lobe.** Areas B1–B5 enhance awareness. Creatures here have advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks.  
 - **Temporal Lobe.** Areas B6 and B10 enhance auditory effects, as described in those areas.  
-- **Parietal Lobe.** Areas B7–B9 and B11–B13 enhance spatial positioning. Creatures here can't have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition unless they choose to.  
-- **Frontal Lobe.** Areas B14–B22 enhance spatial awareness and make creatures eager to help others. Creatures in these areas can [Help](/3-Mechanics/CLI/actions.md#Help) as a bonus action.  
+- **Parietal Lobe.** Areas B7–B9 and B11–B13 enhance spatial positioning. Creatures here can't have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition unless they choose to.  
+- **Frontal Lobe.** Areas B14–B22 enhance spatial awareness and make creatures eager to help others. Creatures in these areas can [Help](3-Mechanics/CLI/rules/actions.md#Help) as a bonus action.  
 
 ### Briny Maze Locations
 
 The gateway from Illithinoch deposits the characters at the rearmost part of the Briny Maze, in area B1. The following locations are keyed to map 8.1.
 
 > [!gallery]
-> ![Map 8.1: Briny Maze](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/130-map-8-01-briny-maze.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/131-map-8-01-briny-maze-player.webp#gallery)
+> ![Map 8.1: Briny Maze](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/130-map-8-01-briny-maze.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/131-map-8-01-briny-maze-player.webp#gallery)
 
 #### B1: Maze Entry
 
@@ -138,11 +138,11 @@ The gateway from Illithinoch deposits the characters at the rearmost part of the
 > Wrinkled, pinkish-gray tunnels lead from the rift to the left and right in swooping, organic passages.
 ^3dd
 
-Characters who examine the area and succeed on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check spot faint marks on the ground that indicate several creatures were recently here but exited to the left. More recently, a trio of creatures exited to the right; these are the githyanki scouts now inhabiting area B7.
+Characters who examine the area and succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spot faint marks on the ground that indicate several creatures were recently here but exited to the left. More recently, a trio of creatures exited to the right; these are the githyanki scouts now inhabiting area B7.
 
 ##### Returning to Illithinoch
 
-The characters can return to Illithinoch through the gateway for seven days. After that, the gateway becomes unstable. A character can attempt to reopen the gateway by touching it and succeeding on a DC 18 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana)) check. On a failed check, no creature can attempt this check to reopen the gateway for 24 hours.
+The characters can return to Illithinoch through the gateway for seven days. After that, the gateway becomes unstable. A character can attempt to reopen the gateway by touching it and succeeding on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. On a failed check, no creature can attempt this check to reopen the gateway for 24 hours.
 
 #### B2: Passage of Death
 
@@ -157,7 +157,7 @@ Characters who investigate the corpses determine the duergar died from weapon wo
 
 ##### Treasure
 
-One corpse still wears a bloodstained [cape of enlargement](/3-Mechanics/CLI/items/cape-of-enlargement-pabtso.md).
+One corpse still wears a bloodstained [cape of enlargement](3-Mechanics/CLI/items/cape-of-enlargement-pabtso.md).
 
 #### B3: Webbed Chamber
 
@@ -166,7 +166,7 @@ One corpse still wears a bloodstained [cape of enlargement](/3-Mechanics/CLI/ite
 > Two enormous spiders scuttle about, while two shadowy figures stare at the back wall. This wide space is filled with diaphanous web strands. The webbing is thicker on the far side of the room, away from the two wide passages leading away.
 ^3e3
 
-Two [phase spiders](/3-Mechanics/CLI/bestiary/monstrosity/phase-spider-xmm.md) live here and are responsible for the flimsy webbing. The spiders can't use their Ethereal Jaunt ability in the Briny Maze and scuttle from known dangers like the encephalon cluster that hunts in this area and lairs in area B12. Two [psionic ashenwights](/3-Mechanics/CLI/bestiary/undead/psionic-ashenwight-pabtso.md) stumbled here after the betrayal in the adjacent passage (area B2) and joined forces with the spiders for mutual protection. The chamber's webbing heavily obscures the ashenwights.
+Two [phase spiders](3-Mechanics/CLI/bestiary/monstrosity/phase-spider.md) live here and are responsible for the flimsy webbing. The spiders can't use their Ethereal Jaunt ability in the Briny Maze and scuttle from known dangers like the encephalon cluster that hunts in this area and lairs in area B12. Two [psionic ashenwights](3-Mechanics/CLI/bestiary/undead/psionic-ashenwight-pabtso.md) stumbled here after the betrayal in the adjacent passage (area B2) and joined forces with the spiders for mutual protection. The chamber's webbing heavily obscures the ashenwights.
 
 Unless the characters move quickly through this area, the phase spiders alert the ashenwights, who move to attack. The phase spiders aid the ashenwights by picking off characters who hang back. The phase spiders fight to the death, but if one ashenwight is killed, the other flees or surrenders.
 
@@ -178,14 +178,14 @@ The diaphanous webs are too flimsy to impede movement, but they "lightly obscure
 
 #### B4: Wall of Hubris
 
-![Five wizards sought to sip...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/132-08-004-five-flameskulls.webp#center "Five wizards sought to siphon power from the realm of Ilvaash, whom they assumed was weak. The wizards were wrong")
+![Five wizards sought to siphon power from the realm of Ilvaash, whom they assumed was weak. The wizards were wrong](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/132-08-004-five-flameskulls.webp#center)
 
 > [!readaloud] 
 > 
 > Five human corpses slump against this chamber's wide, rounded wall. They merge seamlessly with the wrinkled, gray walls and floor as though melted into them. Only their upper torsos and heads remain free, and each lifeless face is frozen in a scream.
 ^3e6
 
-As soon as any creature disturbs or steps close to the corpses, a flaming skull erupts from each corpse head. The five [flameskulls](/3-Mechanics/CLI/bestiary/undead/flameskull-xmm.md) pursue foes who flee and fight until destroyed.
+As soon as any creature disturbs or steps close to the corpses, a flaming skull erupts from each corpse head. The five [flameskulls](3-Mechanics/CLI/bestiary/undead/flameskull.md) pursue foes who flee and fight until destroyed.
 
 These corpses are the remains of wizards who invaded the Briny Maze a few months ago to steal Ilvaash's secrets. A wandering encephalon cluster (see area B12) shrugged off the wizards' spells. The injured wizards retreated here to rest, but the maze entrapped them. All five died while being absorbed.
 
@@ -196,17 +196,17 @@ These corpses are the remains of wizards who invaded the Briny Maze a few months
 > Several fleshy lumps in the floor rise like stalagmites to heights of two or three feet. A ball of viscera two feet across is pinned to a wide, flat wall with a large sword. A puddle of slime has leaked down the wall and onto the floor beneath the entrails.
 ^3e8
 
-The viscera here is a dead [intellect snare](/3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) that once lurked in this area. (The characters might have fought an intellect snare in Talhundereth in chapter 6.) The intellect snare ambushed the githyanki leader, [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md), but [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)'s lucky strike impaled the intellect snare on her greatsword, pinning it to the wall. [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) was blasted backward by the psychic combination of the intellect snare's death cries and the ruptured wall. Though [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) was reluctant to leave her valued greatsword behind, she elected for discretion and retreated to rejoin her followers.
+The viscera here is a dead [intellect snare](3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) that once lurked in this area. (The characters might have fought an intellect snare in Talhundereth in chapter 6.) The intellect snare ambushed the githyanki leader, [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md), but [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)'s lucky strike impaled the intellect snare on her greatsword, pinning it to the wall. [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) was blasted backward by the psychic combination of the intellect snare's death cries and the ruptured wall. Though [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) was reluctant to leave her valued greatsword behind, she elected for discretion and retreated to rejoin her followers.
 
 ##### Greatsword
 
-The greatsword is made of a silvery metal with sharp serrations and elaborate designs. Anyone examining the greatsword who succeeds on a DC 14 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [History](/3-Mechanics/CLI/skills.md#History)) check realizes that it's one of the legendary silver swords of githyanki manufacture. The greatsword is lodged into the wall but can be pulled free with little effort. Doing so causes the impaled intellect snare to drop to the ground with a splat. The hole left by the greatsword closes as the Briny Maze swiftly heals.
+The greatsword is made of a silvery metal with sharp serrations and elaborate designs. Anyone examining the greatsword who succeeds on a DC 14 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [History](3-Mechanics/CLI/rules/skills.md#History)) check realizes that it's one of the legendary silver swords of githyanki manufacture. The greatsword is lodged into the wall but can be pulled free with little effort. Doing so causes the impaled intellect snare to drop to the ground with a splat. The hole left by the greatsword closes as the Briny Maze swiftly heals.
 
-[Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) is keen to have her sword back, as described in area B7.
+[Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) is keen to have her sword back, as described in area B7.
 
 ##### Slime
 
-A character who succeeds on a DC 14 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check realizes that the goo didn't come from the intellect snare but seeped from the wall beyond it. The first person to touch the goo receives a psychic flash of the layout of the occipital lobe (areas B1–B5) as seen from above.
+A character who succeeds on a DC 14 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check realizes that the goo didn't come from the intellect snare but seeped from the wall beyond it. The first person to touch the goo receives a psychic flash of the layout of the occipital lobe (areas B1–B5) as seen from above.
 
 #### B6: Right Temporal Lobe
 
@@ -215,11 +215,11 @@ A character who succeeds on a DC 14 Wisdom ([Perception](/3-Mechanics/CLI/skills
 > Panpipes play an eerie melody as you approach. Folds in the wall narrow into a dim alcove. Shadows shift rhythmically, as if mimicking a simple tune.
 ^3ec
 
-This temporal lobe is a repository of musical memories. Here, music takes the form of ephemeral shapes that echo for days. The virtuoso [Shalfi Lewin](/3-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md) (see area B9) left this visual music here a few days ago. The music and shifting shadows fade after a few more hours. The characters can't physically interact with the shadows, but a [silence](/3-Mechanics/CLI/spells/silence-xphb.md) spell or similar effect causes the shadows to immediately wink out. They don't return, even if the [silence](/3-Mechanics/CLI/spells/silence-xphb.md) effect ends.
+This temporal lobe is a repository of musical memories. Here, music takes the form of ephemeral shapes that echo for days. The virtuoso [Shalfi Lewin](3-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md) (see area B9) left this visual music here a few days ago. The music and shifting shadows fade after a few more hours. The characters can't physically interact with the shadows, but a [silence](3-Mechanics/CLI/spells/silence.md) spell or similar effect causes the shadows to immediately wink out. They don't return, even if the [silence](3-Mechanics/CLI/spells/silence.md) effect ends.
 
 ##### Danger of Making Music
 
-The characters can create their own musical echoes here by playing an instrument or singing, but they risk a bad performance taking on malevolent life. A character who succeeds on a DC 13 Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) check causes any existing shadows to wink out and new shadows to replace them and repeat the tune for `dice:2d4|noform|noparens|avg` (`2d4`) days. On a failed check, the shadows solidify and become malevolent, taking the form of `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) [wraiths](/3-Mechanics/CLI/bestiary/undead/wraith-xmm.md) that attack anyone they can catch. These wraiths automatically fail Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) checks to hide, as they continually emit jarring music.
+The characters can create their own musical echoes here by playing an instrument or singing, but they risk a bad performance taking on malevolent life. A character who succeeds on a DC 13 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check causes any existing shadows to wink out and new shadows to replace them and repeat the tune for `2d4` days. On a failed check, the shadows solidify and become malevolent, taking the form of `1d4 + 1` [wraiths](3-Mechanics/CLI/bestiary/undead/wraith.md) that attack anyone they can catch. These wraiths automatically fail Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks to hide, as they continually emit jarring music.
 
 #### B7: Githyanki Camp
 
@@ -228,15 +228,15 @@ The characters can create their own musical echoes here by playing an instrument
 > Three bedrolls around a small chest are tucked inside this alcove. Two metal rods, each about two feet long, protrude from the wall at the rear of the alcove.
 ^3ef
 
-![Githyanki are holed up in ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/133-08-005-githyanki-in-briny-maze.webp#center "Githyanki are holed up in the Briny Maze, trying to figure out how to combat its evils and escape alive")
+![Githyanki are holed up in the Briny Maze, trying to figure out how to combat its evils and escape alive](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/133-08-005-githyanki-in-briny-maze.webp#center)
 
-A [githyanki knight](/3-Mechanics/CLI/bestiary/aberration/githyanki-knight-xmm.md) named [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) lives here with two [githyanki warriors](/3-Mechanics/CLI/bestiary/aberration/githyanki-warrior-xmm.md) named Kianka and Vazzi. [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) is using a spare greatsword rather than her silver greatsword, so her attacks don't count as magical. She speaks Common and Deep Speech in addition to Gith.
+A [githyanki knight](3-Mechanics/CLI/bestiary/humanoid/githyanki-knight.md) named [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) lives here with two [githyanki warriors](3-Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md) named Kianka and Vazzi. [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) is using a spare greatsword rather than her silver greatsword, so her attacks don't count as magical. She speaks Common and Deep Speech in addition to Gith.
 
 All three githyanki are on an extended expedition to hunt mind flayers. A tenuous trail of clues brought them to the Briny Maze, and they charged into the maze without any real information about it. The site has proven far more dangerous than they expected. Their entry from the Far Realm is now closed, and they don't know why. The githyanki make short, careful expeditions from here in search of information that will allow them to leave with impressive trophies.
 
-The group suffered a setback when [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md), exploring by herself, ran into the intellect snare in area B5 and lost her silver greatsword. There are few greater embarrassments in githyanki society than losing a prized silver greatsword, and she can't return without it. The stay in the Briny Maze has made [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) more paranoid and suspicious than usual. She's convinced that other intellect snares lurk in the same area (which they don't) or that the slime that gushed from the wall she pierced is dangerous (it's not).
+The group suffered a setback when [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md), exploring by herself, ran into the intellect snare in area B5 and lost her silver greatsword. There are few greater embarrassments in githyanki society than losing a prized silver greatsword, and she can't return without it. The stay in the Briny Maze has made [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) more paranoid and suspicious than usual. She's convinced that other intellect snares lurk in the same area (which they don't) or that the slime that gushed from the wall she pierced is dangerous (it's not).
 
-The githyanki view the characters as enemies, particularly if they're obviously carrying [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)'s silver greatsword. The warriors attack as [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) commands. Although [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) doesn't surrender or flee, particularly if she's fighting to regain her silver greatsword, the warriors surrender if [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) falls.
+The githyanki view the characters as enemies, particularly if they're obviously carrying [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)'s silver greatsword. The warriors attack as [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) commands. Although [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) doesn't surrender or flee, particularly if she's fighting to regain her silver greatsword, the warriors surrender if [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) falls.
 
 ##### Talking to the Githyanki
 
@@ -248,7 +248,7 @@ If the characters surrender the sword and don't pick a fight, these githyanki sh
 - **Mind Flayer Fanatics.** The githyanki overheard the musician in area B9 muttering about a trio of mind flayers who recently traveled through here with several human prisoners.  
 - **Musician.** A strange musician lurks in area B9 and sometimes makes "music that remains alive" in area B6. (The githyanki know that this person is digging a hole, but they don't volunteer this information to the characters, as the githyanki hope the hole will ultimately provide them with a means of escape.)  
 
-In exchange for their information, the githyanki want to know the location of any mind flayers the characters have encountered in the maze and whether the characters know a way to escape from the maze. If the characters describe the gateway in area B1 that leads to a mind flayer stronghold, [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) decides to raid Illithinoch. Despite [Varakkta](/3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)'s superficial friendliness, she remains suspicious of the characters and is convinced they plan to betray her.
+In exchange for their information, the githyanki want to know the location of any mind flayers the characters have encountered in the maze and whether the characters know a way to escape from the maze. If the characters describe the gateway in area B1 that leads to a mind flayer stronghold, [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md) decides to raid Illithinoch. Despite [Varakkta](3-Mechanics/CLI/bestiary/npc/varakkta-pabtso.md)'s superficial friendliness, she remains suspicious of the characters and is convinced they plan to betray her.
 
 ##### Activation Rods
 
@@ -265,7 +265,7 @@ The chest contains the valuables the githyanki have acquired in their long quest
 > A filthy bedroll and a small cask are tucked into the back corner of this alcove.
 ^3f4
 
-The musician and zealot [Shalfi Lewin](/3-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md) used to sleep here until he became obsessed with digging. He hasn't been here in days.
+The musician and zealot [Shalfi Lewin](3-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md) used to sleep here until he became obsessed with digging. He hasn't been here in days.
 
 ##### Treasure
 
@@ -278,11 +278,11 @@ The cask contains only weak ale, but its gold stopper is worth 850 gp.
 > A shallow pit in the corner of this room is ringed with black ridges like necrotized flesh. A figure vigorously digs in the pit with a rusted spade. An enormous lump of teeth and flesh hangs from the ceiling above him.
 ^3f7
 
-The digger is a disciple of Ilvaash named [Shalfi Lewin](/3-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md). Shalfi is chaotic evil and uses the stat block of an [aberrant zealot](/3-Mechanics/CLI/bestiary/aberration/aberrant-zealot-pabtso.md) but also has a +7 bonus to Charisma ([Performance](/3-Mechanics/CLI/skills.md#Performance)) checks. Shalfi digs beneath a loyal [flesh meld](/3-Mechanics/CLI/bestiary/aberration/flesh-meld-pabtso.md) that he calls Jitterjaws. Jitterjaws was a gift from Ilvaash to Shalfi for his devotion. It is loyal to Shalfi, and Shalfi is immune to the creature's aura.
+The digger is a disciple of Ilvaash named [Shalfi Lewin](3-Mechanics/CLI/bestiary/npc/shalfi-lewin-pabtso.md). Shalfi is chaotic evil and uses the stat block of an [aberrant zealot](3-Mechanics/CLI/bestiary/aberration/aberrant-zealot-pabtso.md) but also has a +7 bonus to Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) checks. Shalfi digs beneath a loyal [flesh meld](3-Mechanics/CLI/bestiary/aberration/flesh-meld-pabtso.md) that he calls Jitterjaws. Jitterjaws was a gift from Ilvaash to Shalfi for his devotion. It is loyal to Shalfi, and Shalfi is immune to the creature's aura.
 
-Shalfi is digging a hole in the floor with his rusted spade. He suspects there's a chamber underneath this one, and he wants to "dig a hole to find and kill the dragon." His bizarre certainty is, against all appearances, entirely correct. The amethyst dragon [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) currently lairs in the chamber below (area B17). By itself, Shalfi's digging would be futile because of the maze's regenerative capabilities, but every time he pries a little bit more of the floor away, Jitterjaws gnaws at the hole to work it just a bit larger. Given another day or two of digging, Shalfi will carve a hole into area B17. Shalfi and Jitterjaws are evenly matched in a fight against [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md), so the winning side is likely whichever one the characters choose to help.
+Shalfi is digging a hole in the floor with his rusted spade. He suspects there's a chamber underneath this one, and he wants to "dig a hole to find and kill the dragon." His bizarre certainty is, against all appearances, entirely correct. The amethyst dragon [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) currently lairs in the chamber below (area B17). By itself, Shalfi's digging would be futile because of the maze's regenerative capabilities, but every time he pries a little bit more of the floor away, Jitterjaws gnaws at the hole to work it just a bit larger. Given another day or two of digging, Shalfi will carve a hole into area B17. Shalfi and Jitterjaws are evenly matched in a fight against [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md), so the winning side is likely whichever one the characters choose to help.
 
-![Shalfi](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/134-08-006-shalfi.webp#center)
+![Shalfi](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/134-08-006-shalfi.webp#center)
 
 Shalfi isn't initially hostile unless the characters interfere with his work, at which point he attacks, shouting "You're the dragon that doesn't belong! Get 'em, Jitterjaws!"
 
@@ -307,7 +307,7 @@ Creatures in this area can magically understand all signed or spoken communicati
 > A spherical creature with eyestalks hovers at the back of this alcove. A large, open book rests on a three-foot-high lump of sickly, organic material that rises naturally from the floor.
 ^3fb
 
-A [spectator](/3-Mechanics/CLI/bestiary/aberration/spectator-xmm.md) named Jomlus reads from the book. Jomlus is a slow and pedantic speaker, but it's not aggressive unless someone attempts to take its book.
+A [spectator](3-Mechanics/CLI/bestiary/aberration/spectator.md) named Jomlus reads from the book. Jomlus is a slow and pedantic speaker, but it's not aggressive unless someone attempts to take its book.
 
 A sage named Klaudel Kamven visited the Briny Maze long ago with an esoteric tome called *Truths of the Inward Facing Mind*. Klaudel had dedicated his life to unlocking the tome's secret lore and believed it could be interpreted in this chamber. Alas, the magical nature of this room doesn't enhance reading comprehension. Undaunted, Klaudel summoned Jomlus to read the tome aloud. If Jomlus sounded out the words, Klaudel believed he would understand them.
 
@@ -317,31 +317,31 @@ Klaudel eventually died and was absorbed into the walls of the Briny Maze. Jomlu
 
 ##### Talking with Jomlus
 
-Jomlus is initially indifferent toward the characters. Jomlus hasn't ever left this chamber and doesn't know anything about the Briny Maze except that an [encephalon cluster](/3-Mechanics/CLI/bestiary/aberration/encephalon-cluster-pabtso.md) sometimes prowls the corridors nearby. The encephalon cluster leaves Jomlus alone, which the spectator ascribes to the encephalon cluster mistaking Jomlus for a beholder.
+Jomlus is initially indifferent toward the characters. Jomlus hasn't ever left this chamber and doesn't know anything about the Briny Maze except that an [encephalon cluster](3-Mechanics/CLI/bestiary/aberration/encephalon-cluster-pabtso.md) sometimes prowls the corridors nearby. The encephalon cluster leaves Jomlus alone, which the spectator ascribes to the encephalon cluster mistaking Jomlus for a beholder.
 
 If the characters are interested in helping Jomlus with his task, the spectator believes it is close to properly pronouncing an entire page. Jomlus needs active listeners to correct its speech. The words are grating and tickle at the back of listeners' minds. Characters who stay here with Jomlus for 24 hours while the spectator rereads the page hear Jomlus hit on the correct pronunciation, giving them the following blessing. This blessing adheres to the rules for "blessings" presented in the "Dungeon Master's Guide":
 
 > [!embed-reward]- Blessing of the Solipsistic Mind
-> ![Blessing of the Solipsistic Mind](/3-Mechanics/CLI/rewards/blessing-of-the-solipsistic-mind-pabtso.md)
+> ![Blessing of the Solipsistic Mind](3-Mechanics/CLI/rewards/blessing-of-the-solipsistic-mind-pabtso.md)
 
 ##### Treasure
 
-Jomlus keeps Klaudel's belongings in a tidy pile. They include a pair of well-made spectacles worth 100 gp, two [spell scrolls](/3-Mechanics/CLI/items/spell-scroll-level-1-xdmg.md) of [comprehend languages](/3-Mechanics/CLI/spells/comprehend-languages-xphb.md), and a [spell scroll](/3-Mechanics/CLI/items/spell-scroll-level-3-xdmg.md) of [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md).
+Jomlus keeps Klaudel's belongings in a tidy pile. They include a pair of well-made spectacles worth 100 gp, two spell scrolls of [comprehend languages](3-Mechanics/CLI/spells/comprehend-languages.md), and a spell scroll of [tongues](3-Mechanics/CLI/spells/tongues.md).
 
-Jomlus doesn't part with *Truths of the Inward Facing Mind* willingly, but characters who obtain it can sell it for 2,000 gp. A character can make a DC 16 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check to convince Jomlus to hand over Klaudel's other possessions.
+Jomlus doesn't part with *Truths of the Inward Facing Mind* willingly, but characters who obtain it can sell it for 2,000 gp. A character can make a DC 16 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check to convince Jomlus to hand over Klaudel's other possessions.
 
 #### B11: Hidden Chamber
 
-The entrance to this alcove is difficult to find. Characters who have a passive Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) score of 14 score or higher find a slit in the wall that peels open when touched, creating an opening. Characters who succeed on a DC 14 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check also find the opening. If the characters heard about inhabitants of this alcove from Ashripask in area B21, they have advantage on checks to find its entrance.
+The entrance to this alcove is difficult to find. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 14 score or higher find a slit in the wall that peels open when touched, creating an opening. Characters who succeed on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) or Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check also find the opening. If the characters heard about inhabitants of this alcove from Ashripask in area B21, they have advantage on checks to find its entrance.
 
 > [!readaloud] 
 > 
 > Bubbles float in the air of this chamber, emitted by organic nodules attached to the wall. A narrow rip in the far wall gapes like a wound and reveals a terrifying kaleidoscope of warped terrain.
 ^401
 
-A cloister of seven [flumphs](/3-Mechanics/CLI/bestiary/aberration/flumph-xmm.md) lives here. The flumphs came to the Briny Maze to fight Ilvaash even though they aren't individually very powerful. They are friendly toward anyone who opposes Ilvaash.
+A cloister of seven [flumphs](3-Mechanics/CLI/bestiary/aberration/flumph.md) lives here. The flumphs came to the Briny Maze to fight Ilvaash even though they aren't individually very powerful. They are friendly toward anyone who opposes Ilvaash.
 
-The flumphs are in high spirits despite lairing in such a dangerous area. They were delighted to find they can't have the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition here, as being [prone](/3-Mechanics/CLI/conditions.md#Prone) is particularly dangerous and humiliating for flumphs.
+The flumphs are in high spirits despite lairing in such a dangerous area. They were delighted to find they can't have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition here, as being [prone](3-Mechanics/CLI/rules/conditions.md#Prone) is particularly dangerous and humiliating for flumphs.
 
 The flumphs are telepathically discussing what to do about the encephalon cluster lairing in the adjacent chamber (area B12). One of the flumphs, named Wise Borblish, believes the encephalon cluster is too powerful for the flumphs to defeat. She hopes someone else—perhaps the characters—might eliminate this problem for them.
 
@@ -355,7 +355,7 @@ The flumphs installed the organic devices that generate the bubbles. The bubbles
 
 ##### Enlisting the Flumphs
 
-If the characters defeat the encephalon cluster lurking in area B12 and report to the flumphs, the flumphs are overjoyed that they can spread out and wreak havoc on other evil Far Realms creatures throughout the Briny Maze. If the characters wish, `dice:1d4|noform|noparens|avg` (`1d4`) flumphs accompany each character who succeeds on a DC 13 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check, to a maximum of all seven flumphs.
+If the characters defeat the encephalon cluster lurking in area B12 and report to the flumphs, the flumphs are overjoyed that they can spread out and wreak havoc on other evil Far Realms creatures throughout the Briny Maze. If the characters wish, `1d4` flumphs accompany each character who succeeds on a DC 13 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, to a maximum of all seven flumphs.
 
 The flumphs aren't fanatical. They flee the characters if given obviously suicidal orders or if a battle turns against them.
 
@@ -366,7 +366,7 @@ The flumphs aren't fanatical. They flee the characters if given obviously suicid
 > Slime coats the walls and floor of this nook. An enormous creature shaped like a brain sits in a puddle of goo while four fleshy nuggets bounce nearby.
 ^406
 
-The [encephalon cluster](/3-Mechanics/CLI/bestiary/aberration/encephalon-cluster-pabtso.md) that hunts this region of the Briny Maze usually dozes here with four [encephalon gemmules](/3-Mechanics/CLI/bestiary/aberration/encephalon-gemmule-pabtso.md). The encephalon cluster occasionally leaves this nook, while the gemmules are always here, wallowing in their progenitor's warm slime. They're hostile to any characters they see.
+The [encephalon cluster](3-Mechanics/CLI/bestiary/aberration/encephalon-cluster-pabtso.md) that hunts this region of the Briny Maze usually dozes here with four [encephalon gemmules](3-Mechanics/CLI/bestiary/aberration/encephalon-gemmule-pabtso.md). The encephalon cluster occasionally leaves this nook, while the gemmules are always here, wallowing in their progenitor's warm slime. They're hostile to any characters they see.
 
 ##### Active Hunter
 
@@ -392,7 +392,7 @@ The double door can be opened only by connecting the magically charged rods in a
 > This irregularly shaped chamber is very large. Two sets of huge double doors lead in the same direction, but the doors lack handles or hinges. A scaly sphere with an enormous center eye, waving eyestalks, and a toothy maw floats vigilantly through the area.
 ^40c
 
-A [beholder](/3-Mechanics/CLI/bestiary/aberration/beholder-xmm.md) named Mublinesh appointed itself as Ilvaash's guardian and floats throughout this area, alert for intruders. Ilvaash was impressed by Mublinesh's dedication and promised that once the beholder destroyed one hundred intruders, Ilvaash would permit Mublinesh to consider this area its lair (and thus gain the benefits of a beholder lair described in the "Monster Manual"). Mublinesh has already slain 96 intruders and has started remodeling the area by removing some of the walls. It doesn't attack mind flayers or anyone accompanying a mind flayer, but the beholder considers anyone else fair game to reach its assigned tally.
+A [beholder](3-Mechanics/CLI/bestiary/aberration/beholder.md) named Mublinesh appointed itself as Ilvaash's guardian and floats throughout this area, alert for intruders. Ilvaash was impressed by Mublinesh's dedication and promised that once the beholder destroyed one hundred intruders, Ilvaash would permit Mublinesh to consider this area its lair (and thus gain the benefits of a beholder lair described in the "Monster Manual"). Mublinesh has already slain 96 intruders and has started remodeling the area by removing some of the walls. It doesn't attack mind flayers or anyone accompanying a mind flayer, but the beholder considers anyone else fair game to reach its assigned tally.
 
 Mublinesh gushes with gratitude as it fights the characters, explaining how excited it is to finally earn Ilvaash's approval and a lair of its own. The beholder is unwilling to die for its goal, though, so Mublinesh retreats to area B15 to hide if reduced to fewer than 50 hit points.
 
@@ -419,9 +419,9 @@ While the high-pitched whine persists, creatures in this room other than mind fl
 
 The canvas covers the artist's last project: a vast and complex web of taut wires inspired by mathematical equations. The wires vibrate and whine under the otherworldly strain.
 
-If any of the wires are touched, one snaps with a discordant noise. Each creature in this room must make a DC 18 Wisdom saving throw, taking `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) psychic damage and `dice:5d10|noform|noparens|avg|text(27)` (`5d10`) thunder damage on a failed save, or half as much damage on a successful one.
+If any of the wires are touched, one snaps with a discordant noise. Each creature in this room must make a DC 18 Wisdom saving throw, taking 27 (`5d10`) psychic damage and 27 (`5d10`) thunder damage on a failed save, or half as much damage on a successful one.
 
-A successful DC 16 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) check reveals the danger of touching the wires. A character using [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md) can cut the wire safely with a successful DC 16 Dexterity check. On a failed check, the trap triggers.
+A successful DC 16 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) or Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check reveals the danger of touching the wires. A character using [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md) can cut the wire safely with a successful DC 16 Dexterity check. On a failed check, the trap triggers.
 
 #### B16: Junk Room
 
@@ -445,30 +445,30 @@ The rope looped around the worktable in the junk room (area B16) descends 20 fee
 > This vaulted chamber is coated with slick mucus and smells of rancid grease. The only exit is a hole in the ceiling. Two metal rods jut from the wall.
 ^416
 
-Two individuals seeking to weaken Ilvaash hide in this secure chamber. [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) is a young amethyst dragon (see the accompanying stat block), and his companion is a lawful neutral human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named Gossa. Both hate the Far Realm and anything tainted by it. An errant [spell scroll](/3-Mechanics/CLI/items/spell-scroll-level-7-xdmg.md) of [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) deposited these two friends in the Briny Maze, and they felt lucky to find an isolated place beneath an old storage room, despite the unpleasant smell. They've been making occasional raids into other parts of the Briny Maze for days. They've been careful to remain hidden, and none of the other denizens know they're here except Shalfi and Jitterjaws.
+Two individuals seeking to weaken Ilvaash hide in this secure chamber. [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) is a young amethyst dragon (see the accompanying stat block), and his companion is a lawful neutral human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) named Gossa. Both hate the Far Realm and anything tainted by it. An errant spell scroll of [plane shift](3-Mechanics/CLI/spells/plane-shift.md) deposited these two friends in the Briny Maze, and they felt lucky to find an isolated place beneath an old storage room, despite the unpleasant smell. They've been making occasional raids into other parts of the Briny Maze for days. They've been careful to remain hidden, and none of the other denizens know they're here except Shalfi and Jitterjaws.
 
-![Lowarnizel](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/135-08-007-lowarnizel.webp#center)
+![Lowarnizel](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/135-08-007-lowarnizel.webp#center)
 
-If the characters aren't hostile and don't appear to be allied with Ilvaash or corrupted by the Far Realm, [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa are cautiously welcoming. [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) does most of the talking and is clearly in charge. The two demand to know whether any characters exhibiting Far Realm corruption are allied with Ilvaash, and if the characters don't explain themselves, the two attack, believing the characters to be duplicitous followers of Ilvaash. The dragon and mage stop attacking, though, if the characters explain themselves.
+If the characters aren't hostile and don't appear to be allied with Ilvaash or corrupted by the Far Realm, [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa are cautiously welcoming. [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) does most of the talking and is clearly in charge. The two demand to know whether any characters exhibiting Far Realm corruption are allied with Ilvaash, and if the characters don't explain themselves, the two attack, believing the characters to be duplicitous followers of Ilvaash. The dragon and mage stop attacking, though, if the characters explain themselves.
 
 ##### Talking to Lowarnizel and Gossa
 
-[Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa can share the following information:
+[Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa can share the following information:
 
-- **Activation Rods.** The two rods here create an electric circuit that activates something in the Briny Maze when connected. [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) believes it to be a doorway; Gossa worries that it's an alarm.  
-- **Endless Void.** The Briny Maze is only half of Ilvaash's domain in the Far Realm. The other half is called the Endless Void, and it's said to be "beyond a lightless star." Neither [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) nor Gossa knows what that means, but they hope to find out.  
+- **Activation Rods.** The two rods here create an electric circuit that activates something in the Briny Maze when connected. [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) believes it to be a doorway; Gossa worries that it's an alarm.  
+- **Endless Void.** The Briny Maze is only half of Ilvaash's domain in the Far Realm. The other half is called the Endless Void, and it's said to be "beyond a lightless star." Neither [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) nor Gossa knows what that means, but they hope to find out.  
 - **Few Mind Flayers.** There are surprisingly few mind flayers in the Briny Maze, although there are plenty of other aberrant monsters.  
-- **Ilvaash Adherents.** Two partially transformed adherents of Ilvaash are just north of the junk room above. They're the ones who occasionally pile more junk there. [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa are careful to not alert this pair to their presence.  
-- **Mind Flayer Fanatics.** Three mind flayers came through the maze recently, along with Humanoid prisoners—somewhere between five and a dozen, [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) believes. They traveled farther into the maze.  
+- **Ilvaash Adherents.** Two partially transformed adherents of Ilvaash are just north of the junk room above. They're the ones who occasionally pile more junk there. [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa are careful to not alert this pair to their presence.  
+- **Mind Flayer Fanatics.** Three mind flayers came through the maze recently, along with Humanoid prisoners—somewhere between five and a dozen, [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) believes. They traveled farther into the maze.  
 - **Welcome Guests.** The characters are welcome to stay here and rest whenever they'd like.  
 
-If the characters are on good terms with the pair and ask for aid, [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) agrees as long as the characters agree to remain careful and quiet and to follow [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md)'s authority. The amethyst dragon is painfully overcautious, sometimes waiting for days between forays from this room, only to confirm that nearby empty rooms are still empty.
+If the characters are on good terms with the pair and ask for aid, [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) agrees as long as the characters agree to remain careful and quiet and to follow [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md)'s authority. The amethyst dragon is painfully overcautious, sometimes waiting for days between forays from this room, only to confirm that nearby empty rooms are still empty.
 
 ##### Shalfi's Digging
 
-If the aberrant zealot Shalfi in area B9 continues his work, he breaks through the chamber ceiling after a couple of days, which surprises [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa.
+If the aberrant zealot Shalfi in area B9 continues his work, he breaks through the chamber ceiling after a couple of days, which surprises [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) and Gossa.
 
-If the characters alert [Lowarnizel](/3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) to Shalfi's digging, the dragon seeks their advice on whether to ambush the zealot here in a couple of days or to attack the zealot while he works. The dragon and Gossa prefer the former course of action, but the characters can convince the pair to accompany them through the Briny Maze to attack the zealot while he's digging.
+If the characters alert [Lowarnizel](3-Mechanics/CLI/bestiary/npc/lowarnizel-pabtso.md) to Shalfi's digging, the dragon seeks their advice on whether to ambush the zealot here in a couple of days or to attack the zealot while he works. The dragon and Gossa prefer the former course of action, but the characters can convince the pair to accompany them through the Briny Maze to attack the zealot while he's digging.
 
 ##### Activation Rods
 
@@ -481,11 +481,11 @@ These two rods open the rear mindgate (between areas B14 and B19) when connected
 > This area's nook contains a pair of simple cots and a small chest. A large double door is set in the wall opposite the nook.
 ^41b
 
-Two [aberrant zealots](/3-Mechanics/CLI/bestiary/aberration/aberrant-zealot-tentacled-pabtso.md) are in this room. Their names are Nouashu and Groushim. Both have engaged in profane experiments that have tinted their skin violet and given them squirming face tentacles. They have the statistics of aberrant zealots with the following additional action:
+Two [aberrant zealots](3-Mechanics/CLI/bestiary/aberration/aberrant-zealot-tentacled-pabtso.md) are in this room. Their names are Nouashu and Groushim. Both have engaged in profane experiments that have tinted their skin violet and given them squirming face tentacles. They have the statistics of aberrant zealots with the following additional action:
 
 > [!readaloud] 
 > 
-> **Mind Blast (Recharge 5–6).** The zealot magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take `dice:4d8+4|noform|noparens|avg|text(22)` (`4d8 + 4`) psychic damage and have the [stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the [stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition on itself on a success.
+> **Mind Blast (Recharge 5–6).** The zealot magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) condition for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) condition on itself on a success.
 ^41c
 
 Nouashu and Groushim recently returned from an assassination mission on the Material Plane. On the way home, they acquired a new device for their collection of defective things in area B16: an oval wheel that rotates irregularly. They are tinkering with it before tossing it into storage with the rest.
@@ -505,11 +505,11 @@ The double door to area B22 lacks handles or hinges. This door can be opened onl
 > Dark ichor and three mind flayer corpses are spread around this area. Dozens of crystals set into the walls gleam with inner lights.
 ^420
 
-This area is a psychic library, like the one in Illithinoch, but with two differences. First, the crystal repositories are set into the walls and can't be removed or moved. Second, they contain only mind-shattering lore that mortals aren't meant to know. Any creature other than a mind flayer who touches a crystal and attempts to receive its psychic scene is targeted by a [feeblemind](/3-Mechanics/CLI/spells/befuddlement-xphb.md) spell (save DC 18).
+This area is a psychic library, like the one in Illithinoch, but with two differences. First, the crystal repositories are set into the walls and can't be removed or moved. Second, they contain only mind-shattering lore that mortals aren't meant to know. Any creature other than a mind flayer who touches a crystal and attempts to receive its psychic scene is targeted by a [feeblemind](3-Mechanics/CLI/spells/feeblemind.md) spell (save DC 18).
 
 ##### Dead Mind Flayers
 
-The three mind flayer corpses here were once the librarians, but the mezzoloths lairing nearby killed them. The mess looks like the mind flayers all killed one another in a gruesome fight, but a character who succeeds on a DC 14 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check realizes that the bodies were staged to look this way; most were killed with tridents and a greataxe, but these weapons are no longer present.
+The three mind flayer corpses here were once the librarians, but the mezzoloths lairing nearby killed them. The mess looks like the mind flayers all killed one another in a gruesome fight, but a character who succeeds on a DC 14 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check realizes that the bodies were staged to look this way; most were killed with tridents and a greataxe, but these weapons are no longer present.
 
 #### B20: The Scar
 
@@ -527,16 +527,16 @@ The mezzoloths who fled from their boss, the arcanaloth Ashripask (see area B21)
 > Two tapered metal rods protrude from either side of this alcove, twenty feet apart from each other. A folding cot covered with soft furs and a portable writing desk are deeper in the alcove. A jackal-headed woman sits at the desk.
 ^425
 
-An [arcanaloth](/3-Mechanics/CLI/bestiary/fiend/arcanaloth-xmm.md) named Ashripask lives in this alcove. She also casts [mind blank](/3-Mechanics/CLI/spells/mind-blank-xphb.md) on herself each day. Ashripask prefers to let people underestimate her, so she holds up her hands in surrender, spluttering about how she means no danger to anyone.
+An [arcanaloth](3-Mechanics/CLI/bestiary/fiend/arcanaloth.md) named Ashripask lives in this alcove. She also casts [mind blank](3-Mechanics/CLI/spells/mind-blank.md) on herself each day. Ashripask prefers to let people underestimate her, so she holds up her hands in surrender, spluttering about how she means no danger to anyone.
 
-Ashripask is interested in the two metal rods on either side of the alcove. She knows that their primary function is to open a gate, but she's learned that they're more deeply connected to the Briny Maze. When she overloads the charge by casting [chain lightning](/3-Mechanics/CLI/spells/chain-lightning-xphb.md) into a rod, she can cast [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md) the following round to sense intelligences within the Briny Maze. These experiments have proven that her errant guards aren't in the Briny Maze.
+Ashripask is interested in the two metal rods on either side of the alcove. She knows that their primary function is to open a gate, but she's learned that they're more deeply connected to the Briny Maze. When she overloads the charge by casting [chain lightning](3-Mechanics/CLI/spells/chain-lightning.md) into a rod, she can cast [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md) the following round to sense intelligences within the Briny Maze. These experiments have proven that her errant guards aren't in the Briny Maze.
 
 ##### Talking with Ashripask
 
 Ashripask's guards abandoned her. She tells the heroes the following:
 
-- **Exploratory Mission.** Ashripask has been exploring the Briny Maze. Ashripask hired a nycaloth mercenary named [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and some mezzoloth soldiers to protect her as she searches the Far Realm for forbidden knowledge.  
-- **Missing Bodyguards.** Just a short time ago, Ashripask awoke to find [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and her soldiers gone. Ashripask would like [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) slain as an example to the soldiers so they serve Ashripask more faithfully in the future. Ashripask describes [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s appearance as that of a muscular gargoyle.  
+- **Exploratory Mission.** Ashripask has been exploring the Briny Maze. Ashripask hired a nycaloth mercenary named [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and some mezzoloth soldiers to protect her as she searches the Far Realm for forbidden knowledge.  
+- **Missing Bodyguards.** Just a short time ago, Ashripask awoke to find [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and her soldiers gone. Ashripask would like [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) slain as an example to the soldiers so they serve Ashripask more faithfully in the future. Ashripask describes [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s appearance as that of a muscular gargoyle.  
 - **Rod Experimentations.** Ashripask's experiment with the rods has expanded her ability to sense creatures in the Briny Maze. (You might use this as an opportunity to share information about denizens of the Briny Maze the characters haven't yet encountered.)  
 
 ##### Activation Rods
@@ -545,11 +545,11 @@ This pair of rods opens the forward mindgate (between areas B18 and B22) when co
 
 ##### Treasure
 
-Ashripask's folding desk contains a [mindblasting cap](/3-Mechanics/CLI/items/mindblasting-cap-pabtso.md).
+Ashripask's folding desk contains a [mindblasting cap](3-Mechanics/CLI/items/mindblasting-cap-pabtso.md).
 
 #### B22: Briny Pool
 
-![An aggressive purple worm ...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/136-08-008-briny-maze-purple-worm.webp#center "An aggressive purple worm swims in the Briny Pool, a miles-deep pit filled with cerebral fluid")
+![An aggressive purple worm swims in the Briny Pool, a miles-deep pit filled with cerebral fluid](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/136-08-008-briny-maze-purple-worm.webp#center)
 
 > [!readaloud] 
 > 
@@ -571,9 +571,9 @@ When the characters venture into the pool, read or paraphrase the following:
 > Strange fluid presses in on all sides. Contact with it connects you to a vast, alien presence. Clouds of blood and strange lumps of flesh float throughout this fluid. They don't seem harmful, but you sense they conceal the movements of an enormous predator that makes this pool its home. You can neither hear nor see this predator, and you don't know its shape or its nature, but you sense that it is hungry.
 ^42d
 
-A [purple worm](/3-Mechanics/CLI/bestiary/monstrosity/purple-worm-xmm.md) with a swimming speed of 50 feet lives in the pool. The worm's [tremorsense](/3-Mechanics/CLI/senses.md#Tremorsense) allows it to detect other creatures in the fluid if it swims nearby.
+A [purple worm](3-Mechanics/CLI/bestiary/monstrosity/purple-worm.md) with a swimming speed of 50 feet lives in the pool. The worm's [tremorsense](3-Mechanics/CLI/rules/senses.md#Tremorsense) allows it to detect other creatures in the fluid if it swims nearby.
 
-If the characters are quick and careful, they can avoid the purple worm's notice. Each mile of descent, the characters must make a DC 14 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check or a DC 14 Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth)) check. A character who saw the Briny Pool through Golcuus's eyepiece in chapter 7 makes these checks with advantage. If a character fails this check, the purple worm detects them and swims near to attack. To play up the uncanny nature of the pool, you can describe how a failed check means a character bumps into a large lump that careens through the murky liquid, or the character gets disoriented by passing through a cloud of obscuring blood.
+If the characters are quick and careful, they can avoid the purple worm's notice. Each mile of descent, the characters must make a DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or a DC 14 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. A character who saw the Briny Pool through Golcuus's eyepiece in chapter 7 makes these checks with advantage. If a character fails this check, the purple worm detects them and swims near to attack. To play up the uncanny nature of the pool, you can describe how a failed check means a character bumps into a large lump that careens through the murky liquid, or the character gets disoriented by passing through a cloud of obscuring blood.
 
 The worm prefers to make hit-and-run attacks, lunging from the darkness to swallow a creature and swim away. It doesn't stay in any fight for more than 2 rounds before swimming off.
 
@@ -620,7 +620,7 @@ The void's swirling colors produce a hazy effect when creatures look into the di
 
 #### Intellect Snares
 
-Hungry intellect snares float through the Endless Void. Characters on one of the floating nodules, or who are traveling from one nodule to another nearby one, don't draw the attention of these creatures. Characters who simply float freely in the void, or who venture into the Endless Void without a particular destination, encounter `dice:1d6|noform|noparens|avg` (`1d6`) [intellect snares](/3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) each hour.
+Hungry intellect snares float through the Endless Void. Characters on one of the floating nodules, or who are traveling from one nodule to another nearby one, don't draw the attention of these creatures. Characters who simply float freely in the void, or who venture into the Endless Void without a particular destination, encounter `1d6` [intellect snares](3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) each hour.
 
 ### Traveling the Nodules
 
@@ -632,11 +632,9 @@ Characters arriving from the Briny Pool emerge from a pinhole atop a nodule call
 
 Whenever the characters arrive on a nodule, roll twice on the Endless Void Nodules table to randomly determine two other nodules that are near enough for the characters to see and reach by flying through the void. Reroll any result that gives the characters' current nodule. If you roll the same result twice, only that single nodule is in view at the time.
 
-The nodules drift over the course of several hours. Each time the characters take a long rest, reroll the nodules within view. If the characters are waiting for a specific nodule they've already visited but isn't currently visible, you can assume it comes into view after `dice:1d6|noform|noparens|avg` (`1d6`) days.
+The nodules drift over the course of several hours. Each time the characters take a long rest, reroll the nodules within view. If the characters are waiting for a specific nodule they've already visited but isn't currently visible, you can assume it comes into view after `1d6` days.
 
 **Endless Void Nodules**
-
-`dice: [](09-chapter-8-beyond-a-lightless-star.md#^endless-void-nodules)`
 
 | dice: d8 | Nearby Nodule |
 |----------|---------------|
@@ -654,14 +652,14 @@ The nodules drift over the course of several hours. Each time the characters tak
 
 This location is presented on map 8.2. The characters arrive on the platform at the bottom of the map, through the pinhole shown.
 
-![Map 8.2: Crystal Dome](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/137-08-009-map802-crystal-dome.webp#center)
+![Map 8.2: Crystal Dome](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/137-08-009-map802-crystal-dome.webp#center)
 
 > [!readaloud] 
 > 
 > A nodule almost two hundred feet wide floats in the void. A dome of blackened crystal sixty feet across bulges from its top like a bizarre growth. From where you emerge, you see a long walkway made of the same crystal extending from an opening in the dome.
 ^43a
 
-Five [shield guardians](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) shaped like mind flayers normally guard the walkway, but the Ilvaash fanatics have relocated the shield guardians inside the dome where they guard four imprisoned Phandalin townspeople. The shield guardians lurk just inside the dome, and they attack any intruders who enter it. The shield guardians each store a [magic missile](/3-Mechanics/CLI/spells/magic-missile-xphb.md) spell (cast at 3rd level), which they cast when the spell could affect more than one character.
+Five [shield guardians](3-Mechanics/CLI/bestiary/construct/shield-guardian.md) shaped like mind flayers normally guard the walkway, but the Ilvaash fanatics have relocated the shield guardians inside the dome where they guard four imprisoned Phandalin townspeople. The shield guardians lurk just inside the dome, and they attack any intruders who enter it. The shield guardians each store a [magic missile](3-Mechanics/CLI/spells/magic-missile.md) spell (cast at 3rd level), which they cast when the spell could affect more than one character.
 
 #### Pinhole
 
@@ -669,7 +667,7 @@ This pinhole is the passage to and from the Briny Pool. A creature touching it i
 
 #### Imprisoned Townspeople
 
-The four prisoners from Phandalin are [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md): a nervous human farmer named Thawnia Browne and her more easygoing elf wife named Shansa; a gnome wainwright named Wramble and his capybara mount named Violet; and a newly engaged elf laborer named Unmiel. The prisoners are glued to the interior of the dome, 2 feet above the floor, with a sticky mucus. As an action, a character can try to free a prisoner within reach, doing so with a successful DC 12 Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check.
+The four prisoners from Phandalin are [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md): a nervous human farmer named Thawnia Browne and her more easygoing elf wife named Shansa; a gnome wainwright named Wramble and his capybara mount named Violet; and a newly engaged elf laborer named Unmiel. The prisoners are glued to the interior of the dome, 2 feet above the floor, with a sticky mucus. As an action, a character can try to free a prisoner within reach, doing so with a successful DC 12 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 The prisoners are desperate to return to Phandalin. They can recount their harrowing journey through Illithinoch, the Briny Maze, and the Briny Pool, and they can share the following additional information:
 
@@ -683,22 +681,22 @@ The prisoners are desperate to return to Phandalin. They can recount their harro
 
 This location is presented on map 8.3.
 
-![Map 8.3: Empty Bridge](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/138-08-010-map803-empty-bridge.webp#center)
+![Map 8.3: Empty Bridge](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/138-08-010-map803-empty-bridge.webp#center)
 
 > [!readaloud] 
 > 
 > A river of dark water, thirty feet wide, flows around this floating nodule like a ring. A flat stone bridge connects the two sides of the island and has a dilapidated tower at one end. Flickering firelight is visible through the tower's upper-floor window.
 ^43f
 
-The danger on this nodule isn't in the tower, but in the churning river, which is 30 feet deep. An [aboleth](/3-Mechanics/CLI/bestiary/aberration/aboleth-xmm.md) lurks in the water along with a [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) minion. Trapped in the Far Realm long ago, the aboleth sequestered itself in this river to study the strange environment. Both creatures are concealed by the dark, churning water and make attacks against anyone who gets close, particularly creatures affected by the magical symbol on the bridge.
+The danger on this nodule isn't in the tower, but in the churning river, which is 30 feet deep. An [aboleth](3-Mechanics/CLI/bestiary/aberration/aboleth.md) lurks in the water along with a [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md) minion. Trapped in the Far Realm long ago, the aboleth sequestered itself in this river to study the strange environment. Both creatures are concealed by the dark, churning water and make attacks against anyone who gets close, particularly creatures affected by the magical symbol on the bridge.
 
 #### Bridge
 
-A [symbol](/3-Mechanics/CLI/spells/symbol-xphb.md) spell (save DC 19) is inscribed in the center of the bridge. Anyone who steps on the bridge and fails their save has the [blinded](/3-Mechanics/CLI/conditions.md#Blinded) condition in addition to the symbol's hopelessness effect. The aboleth and the water elemental know the symbol is there and can't be affected by it.
+A [symbol](3-Mechanics/CLI/spells/symbol.md) spell (save DC 19) is inscribed in the center of the bridge. Anyone who steps on the bridge and fails their save has the [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) condition in addition to the symbol's hopelessness effect. The aboleth and the water elemental know the symbol is there and can't be affected by it.
 
 #### Tower
 
-The tower was briefly the home of a plane-traveling wizard who came to study the Endless Void. The tower has three floors and a door on the ground floor. Stairs connect the levels, and only the topmost level is furnished. A [continual flame](/3-Mechanics/CLI/spells/continual-flame-xphb.md) spell in the wizard's study on the top floor still burns. The wizard's headless corpse sits at his desk, which is covered with gore. A successful DC 12 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) or Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) check reveals that the corpse's skull exploded a few months ago.
+The tower was briefly the home of a plane-traveling wizard who came to study the Endless Void. The tower has three floors and a door on the ground floor. Stairs connect the levels, and only the topmost level is furnished. A [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spell in the wizard's study on the top floor still burns. The wizard's headless corpse sits at his desk, which is covered with gore. A successful DC 12 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) or Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) check reveals that the corpse's skull exploded a few months ago.
 
 The desk holds a journal splattered with blood and brains. The journal outlines the wizard's plan to survey the Endless Void by first listing its observable floating nodules. The tone of the writing is dismissive and arrogant; in multiple places, the writer confidently insists that his magic amulet makes him utterly immune to Ilvaash's detection.
 
@@ -713,15 +711,15 @@ The journal contains the following notes:
 
 #### Treasure
 
-The wizard's [amulet of proof against detection and location](/3-Mechanics/CLI/items/amulet-of-proof-against-detection-and-location-xdmg.md) is still on his headless corpse. (The amulet doesn't block the psychic abilities of Ilvaash and the mind flayers, such as Creature Sense and [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md).) Eclectic souvenirs in the study include a snow globe containing a miniature street market worth 1,500 gp, a platinum figurine of a basilisk worth 4,000 gp, and six gold wedding rings worth 100 gp each.
+The wizard's amulet of proof against detection and location is still on his headless corpse. (The amulet doesn't block the psychic abilities of Ilvaash and the mind flayers, such as Creature Sense and [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md).) Eclectic souvenirs in the study include a snow globe containing a miniature street market worth 1,500 gp, a platinum figurine of a basilisk worth 4,000 gp, and six gold wedding rings worth 100 gp each.
 
 ### Mire of Doubt
 
 This location is presented on map 8.4.
 
 > [!gallery]
-> ![Map 8.4: Mire of Doubt](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/139-map-8-04-mire-of-doubt.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/140-map-8-04-mire-of-doubt-player.webp#gallery)
+> ![Map 8.4: Mire of Doubt](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/139-map-8-04-mire-of-doubt.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/140-map-8-04-mire-of-doubt-player.webp#gallery)
 
 > [!readaloud] 
 > 
@@ -730,7 +728,7 @@ This location is presented on map 8.4.
 
 Two spirit nagas named Valsyx and Charnyz lurk in the swamp on this small island. The sucking mire off the winding path is "difficult terrain".
 
-Mezzoloths from the Wailing Battlefield made an exploratory attack on this nodule a short time ago, but the nagas repelled the attack. Each naga quickly comes to the aid of the other if more intruders arrive. If the nagas are killed, they re-form `dice:1d6|noform|noparens|avg` (`1d6`) days later, potentially leading to another encounter with the characters.
+Mezzoloths from the Wailing Battlefield made an exploratory attack on this nodule a short time ago, but the nagas repelled the attack. Each naga quickly comes to the aid of the other if more intruders arrive. If the nagas are killed, they re-form `1d6` days later, potentially leading to another encounter with the characters.
 
 #### M1: Stone Pier
 
@@ -748,7 +746,7 @@ The figure is a mezzoloth corpse that the nagas hollowed out and propped up with
 > Swamp trees arch over this low clearing, creating an oppressive dome of vegetation above the soggy ground. A low stone sits like an altar or table at the clearing's far end.
 ^449
 
-The [spirit naga](/3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) Valsyx lurks here, composing abstruse riddles unless the characters encountered him elsewhere. He knows [confusion](/3-Mechanics/CLI/spells/confusion-xphb.md) rather than [blight](/3-Mechanics/CLI/spells/blight-xphb.md). Valsyx is at home in the mire and isn't slowed by its "difficult terrain".
+The [spirit naga](3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md) Valsyx lurks here, composing abstruse riddles unless the characters encountered him elsewhere. He knows [confusion](3-Mechanics/CLI/spells/confusion.md) rather than [blight](3-Mechanics/CLI/spells/blight.md). Valsyx is at home in the mire and isn't slowed by its "difficult terrain".
 
 ##### Valsyx's Ruse
 
@@ -763,13 +761,13 @@ Valsyx emphasizes the words "new troublemakers, come now" to signal Charnyz. If 
 
 If the characters attack before Valsyx can relay his message, he shrieks for aid.
 
-Regardless of how Valsyx shouts his warning, Charnyz takes 1 round to understand that there's a problem before casting [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) to arrive in the concealing underbrush near Valsyx's clearing. Charnyz then attacks from hiding, and Valsyx joins her.
+Regardless of how Valsyx shouts his warning, Charnyz takes 1 round to understand that there's a problem before casting [dimension door](3-Mechanics/CLI/spells/dimension-door.md) to arrive in the concealing underbrush near Valsyx's clearing. Charnyz then attacks from hiding, and Valsyx joins her.
 
 The nagas fight to the death, confident in their rejuvenation.
 
 ##### Treasure
 
-Valsyx's prized possession is a sodden book of riddles on the table. The book is practically illegible due to moisture damage, but an intact [spell scroll](/3-Mechanics/CLI/items/spell-scroll-level-5-xdmg.md) of [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md) is folded between its pages.
+Valsyx's prized possession is a sodden book of riddles on the table. The book is practically illegible due to moisture damage, but an intact spell scroll of [cone of cold](3-Mechanics/CLI/spells/cone-of-cold.md) is folded between its pages.
 
 #### M3: Charnyz's Dell
 
@@ -778,17 +776,17 @@ Valsyx's prized possession is a sodden book of riddles on the table. The book is
 > Branches nearly meet above this moist and mossy dell, creating a dismal space. Several carefully sculpted shrubs ring the dell.
 ^44e
 
-The [spirit naga](/3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) Charnyz is here unless the characters have already encountered her elsewhere. She loves illusions that mimic reality and spends time copying the mire's blighted flora and fauna with careful precision. She knows [major image](/3-Mechanics/CLI/spells/major-image-xphb.md) rather than [water breathing](/3-Mechanics/CLI/spells/water-breathing-xphb.md). Charnyz is at home in the mire and isn't slowed by its "difficult terrain".
+The [spirit naga](3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md) Charnyz is here unless the characters have already encountered her elsewhere. She loves illusions that mimic reality and spends time copying the mire's blighted flora and fauna with careful precision. She knows [major image](3-Mechanics/CLI/spells/major-image.md) rather than [water breathing](3-Mechanics/CLI/spells/water-breathing.md). Charnyz is at home in the mire and isn't slowed by its "difficult terrain".
 
 ##### Charnyz's Ruse
 
 If approached in her lair, Charnyz offers an illusion-related challenge. The characters must choose one among them to look away while Charnyz creates illusory copies of a small water snake that slithers in her dell. The chosen contender must then identify the actual snake from all the snakes without touching them. Charnyz offers to share some valuable information if the character chooses correctly; otherwise, all the characters must agree to leave Charnyz alone.
 
-To ready the challenge, Charnyz casts [major image](/3-Mechanics/CLI/spells/major-image-xphb.md) to produce a flock of snakes with bright, gleaming scales the same color as the real water snake's. These snakes have noisy, rattling tails. The noisy illusion alerts Valsyx to trouble.
+To ready the challenge, Charnyz casts [major image](3-Mechanics/CLI/spells/major-image.md) to produce a flock of snakes with bright, gleaming scales the same color as the real water snake's. These snakes have noisy, rattling tails. The noisy illusion alerts Valsyx to trouble.
 
 If the characters attack rather than participate in the illusion challenge, Charnyz shouts for Valsyx's aid.
 
-Regardless of how Charnyz gets Valsyx's attention, Valsyx takes 1 round to understand that there's a problem before casting [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md) to arrive in the concealing underbrush near Charnyz's dell. Valsyx then attacks from hiding, and Charnyz joins him.
+Regardless of how Charnyz gets Valsyx's attention, Valsyx takes 1 round to understand that there's a problem before casting [dimension door](3-Mechanics/CLI/spells/dimension-door.md) to arrive in the concealing underbrush near Charnyz's dell. Valsyx then attacks from hiding, and Charnyz joins him.
 
 As in area M2, the nagas fight to the death, confident in their rejuvenation.
 
@@ -810,8 +808,8 @@ The Nematode's exterior is uninteresting except for the cave in its side.
 This location is presented on map 8.5.
 
 > [!gallery]
-> ![Map 8.5: The Nematode](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/141-map-8-05-the-nematode.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/142-map-8-05-the-nematode-player.webp#gallery)
+> ![Map 8.5: The Nematode](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/141-map-8-05-the-nematode.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/142-map-8-05-the-nematode-player.webp#gallery)
 
 #### N1: The Mouth
 
@@ -831,11 +829,11 @@ Anyone in the cavern when the teeth emerge and the mouth shuts must make a DC 20
 
 There is no light in the cave once it shuts unless the characters have light sources with them.
 
-When the mouth closes, two [intellect snares](/3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) emerge from the throat and attack. Swallowed by the Nematode several days ago, they are eager to feed. The intellect snares focus their attacks on different creatures when possible.
+When the mouth closes, two [intellect snares](3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) emerge from the throat and attack. Swallowed by the Nematode several days ago, they are eager to feed. The intellect snares focus their attacks on different creatures when possible.
 
 ##### Escaping the Mouth
 
-The Nematode doesn't open its mouth, and the characters can't force it open from here. The stony teeth and tough flesh are 10 feet thick at the thinnest point, so excavating an entrance is all but impossible. Spells such as [disintegrate](/3-Mechanics/CLI/spells/disintegrate-xphb.md) and [passwall](/3-Mechanics/CLI/spells/passwall-xphb.md) can create an artificial exit, but the characters should quickly realize that the most obvious way out is the 10-foot-wide throat from which the intellect snares emerged.
+The Nematode doesn't open its mouth, and the characters can't force it open from here. The stony teeth and tough flesh are 10 feet thick at the thinnest point, so excavating an entrance is all but impossible. Spells such as [disintegrate](3-Mechanics/CLI/spells/disintegrate.md) and [passwall](3-Mechanics/CLI/spells/passwall.md) can create an artificial exit, but the characters should quickly realize that the most obvious way out is the 10-foot-wide throat from which the intellect snares emerged.
 
 #### N2: Throat
 
@@ -861,14 +859,14 @@ The Nematode's mouth remains closed until the pressure of it brain fluid is rele
 
 The membrane has AC 10; 80 hit points; and immunity to bludgeoning, poison, and psychic damage. When the membrane is reduced to 0 hit points, it tears open with a violent shudder. The Nematode reacts with regurgitation. This forces its digestive juices upward and into its mouth, which opens.
 
-When the membrane is destroyed, each creature inside the Nematode must make a DC 18 Constitution saving throw as the acidic digestive juices surge throughout the Nematode, taking `dice:12d10|noform|noparens|avg|text(66)` (`12d10`) acid damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points from this acid damage is completely dissolved.
+When the membrane is destroyed, each creature inside the Nematode must make a DC 18 Constitution saving throw as the acidic digestive juices surge throughout the Nematode, taking 66 (`12d10`) acid damage on a failed save, or half as much damage on a successful one. A creature reduced to 0 hit points from this acid damage is completely dissolved.
 
 ##### Surgical Precision
 
 Controlling the fluid's release more carefully requires the following steps:
 
-- **Dangerous Reaction.** A character who succeeds on a DC 10 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine)) or Intelligence ([Nature](/3-Mechanics/CLI/skills.md#Nature)) check realizes that destroying the membrane entirely would force the creature to open its mouth but would also trigger a dangerous physical reaction. Releasing the fluid through a small hole in the proper place causes the creature to open its mouth without triggering regurgitation.  
-- **Finding the Right Spot.** Locating the proper place on the membrane that is neither too thick to puncture nor thin enough to tear requires a successful DC 16 Wisdom ([Medicine](/3-Mechanics/CLI/skills.md#Medicine) or [Perception](/3-Mechanics/CLI/skills.md#Perception)) check.  
+- **Dangerous Reaction.** A character who succeeds on a DC 10 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)) or Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check realizes that destroying the membrane entirely would force the creature to open its mouth but would also trigger a dangerous physical reaction. Releasing the fluid through a small hole in the proper place causes the creature to open its mouth without triggering regurgitation.  
+- **Finding the Right Spot.** Locating the proper place on the membrane that is neither too thick to puncture nor thin enough to tear requires a successful DC 16 Wisdom ([Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) or [Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check.  
 - **Track Damage Dealt.** Track all the damage characters deal to the membrane, deducting it from the membrane's total hit points. At least 10 points of piercing damage applied to a proper place causes the membrane to relax and the Nematode's mouth to open. Otherwise, the membrane is destroyed when reduced to 0 hit points, with the consequences described previously.  
 
 #### N4: The Guts
@@ -880,22 +878,22 @@ Controlling the fluid's release more carefully requires the following steps:
 
 The throat ends at a digestion pool 30 feet in diameter and 20 feet deep. If the characters destroyed the membrane and caused the Nematode to disgorge digestive acid, the pool is only 10 feet deep. Muscular contraction keeps other exits from the digestion pool closed until the Nematode rouses from its inert state.
 
-Any creature that enters the digestion pool for the first time on its turn or starts its turn there takes `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) acid damage. Increase the damage to `dice:18d10|noform|noparens|avg|text(99)` (`18d10`) acid damage if the creature is fully immersed in the pool. A creature reduced to 0 hit points from this acid damage is completely dissolved.
+Any creature that enters the digestion pool for the first time on its turn or starts its turn there takes 33 (`6d10`) acid damage. Increase the damage to 99 (`18d10`) acid damage if the creature is fully immersed in the pool. A creature reduced to 0 hit points from this acid damage is completely dissolved.
 
 ### Occluding Miasma
 
 This location is presented on map 8.6.
 
-![Map 8.6: Occluding Miasma](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/143-08-011-map806-occluding-miasma.webp#center)
+![Map 8.6: Occluding Miasma](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/143-08-011-map806-occluding-miasma.webp#center)
 
 > [!readaloud] 
 > 
 > A roiling, roughly spherical, yellow-green cloud tumbles through the void.
 ^460
 
-The poisonous fog is a permanent [cloudkill](/3-Mechanics/CLI/spells/cloudkill-xphb.md) effect that's 200 feet in diameter and can't be dispersed by wind. The fog conceals a small nodule made of dirt, only 25 feet across, at its center. A smooth, flat ribbon of metal about a foot long is the only thing on the nodule. The metal is bumpy on one side and smooth on the bottom, resembling an oversized human tongue (see below). If a character casts [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md) within 30 feet of the tongue, the tongue gives off an abjuration aura.
+The poisonous fog is a permanent [cloudkill](3-Mechanics/CLI/spells/cloudkill.md) effect that's 200 feet in diameter and can't be dispersed by wind. The fog conceals a small nodule made of dirt, only 25 feet across, at its center. A smooth, flat ribbon of metal about a foot long is the only thing on the nodule. The metal is bumpy on one side and smooth on the bottom, resembling an oversized human tongue (see below). If a character casts [detect magic](3-Mechanics/CLI/spells/detect-magic.md) within 30 feet of the tongue, the tongue gives off an abjuration aura.
 
-Three [invisible stalkers](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker-xmm.md) lurk in the fog. The mind flayer fanatics summoned the stalkers to watch over the metal tongue. The invisible stalkers don't have any special way to see through the fog and simply fly through it in irregular patrols. They're immediately aware if anyone touches the tongue.
+Three [invisible stalkers](3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) lurk in the fog. The mind flayer fanatics summoned the stalkers to watch over the metal tongue. The invisible stalkers don't have any special way to see through the fog and simply fly through it in irregular patrols. They're immediately aware if anyone touches the tongue.
 
 #### Metal Tongue
 
@@ -907,7 +905,7 @@ Anyone who takes the tongue becomes the invisible stalkers' quarry. The invisibl
 
 This location is presented on map 8.7.
 
-![Map 8.7: Toppled Statue](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/144-08-012-map807-toppled-statue.webp#center)
+![Map 8.7: Toppled Statue](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/144-08-012-map807-toppled-statue.webp#center)
 
 > [!readaloud] 
 > 
@@ -926,7 +924,7 @@ Many years ago, the heavy statue toppled. One foot remained affixed to the base,
 
 #### Examining the Statue
 
-The statue's strangest feature is its humanlike mouth. The mouth is several feet across, just like the faceless mouth adorning the statue's base. Unlike the mouth on the base, the statue's mouth hangs open, just wide enough to see that it bears only the stump of a tongue inside. A character who succeeds on a DC 15 Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check realizes that the broken stump of tongue connects to some sort of lever, but the lever won't move without returning the missing tongue to its place.
+The statue's strangest feature is its humanlike mouth. The mouth is several feet across, just like the faceless mouth adorning the statue's base. Unlike the mouth on the base, the statue's mouth hangs open, just wide enough to see that it bears only the stump of a tongue inside. A character who succeeds on a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check realizes that the broken stump of tongue connects to some sort of lever, but the lever won't move without returning the missing tongue to its place.
 
 If the characters have seen the large metal tongue hidden in the Occluding Miasma, it's clear to them that the tongue is the proper size and shape to fit in this statue. When the characters attempt to reattach the tongue, it snaps into place.
 
@@ -940,7 +938,7 @@ The mind flayer fanatics realized the base would make an ideal prison for their 
 
 The hammering comes from the captives inside the base signaling for help. They are desperate to get free but lack any means of escape.
 
-The four townspeople are all [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) with an Intelligence of 16: a pair of human clerks named Hovnar Tartesh and Menvin Tartesh, a dwarf named Nalpina Goldstone who is a traveling inventor, and an orc farmer named Mildra Merkel. They haven't eaten in many days and are nearly overcome with hunger and dread. Hovnar has tried to rally the group, mostly to support his brother Menvin, who is nearly comatose with despair.
+The four townspeople are all [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md) with an Intelligence of 16: a pair of human clerks named Hovnar Tartesh and Menvin Tartesh, a dwarf named Nalpina Goldstone who is a traveling inventor, and an orc farmer named Mildra Merkel. They haven't eaten in many days and are nearly overcome with hunger and dread. Hovnar has tried to rally the group, mostly to support his brother Menvin, who is nearly comatose with despair.
 
 The townspeople can share the following information, shouting through the tiny opening atop the base if necessary:
 
@@ -953,8 +951,8 @@ The townspeople can share the following information, shouting through the tiny o
 This location is presented on map 8.8.
 
 > [!gallery]
-> ![Map 8.8: Wailing Battlefield](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/145-map-8-08-wailing-battlefield.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/146-map-8-08-wailing-battlefield-player.webp#gallery)
+> ![Map 8.8: Wailing Battlefield](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/145-map-8-08-wailing-battlefield.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/146-map-8-08-wailing-battlefield-player.webp#gallery)
 
 > [!readaloud] 
 > 
@@ -967,9 +965,9 @@ Crumbling buildings, bare trees, blast craters, and jumbles of bones around spea
 
 #### Fleeing Mezzoloths
 
-A band of mezzoloths fled their leader in the Briny Maze and came to the Endless Void. They settled on this nodule, as they enjoy the wails, but aren't sure what to do next. A nycaloth named [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) commands the rebellious fiends. [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) insisted that the mezzoloths keep their heads down and not cause trouble until she can figure out what to do next. However, several mezzoloths recently launched an unsuccessful raid on the Mire of Doubt against [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s orders. They hope she doesn't find out they had to leave a dead mezzoloth behind.
+A band of mezzoloths fled their leader in the Briny Maze and came to the Endless Void. They settled on this nodule, as they enjoy the wails, but aren't sure what to do next. A nycaloth named [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) commands the rebellious fiends. [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) insisted that the mezzoloths keep their heads down and not cause trouble until she can figure out what to do next. However, several mezzoloths recently launched an unsuccessful raid on the Mire of Doubt against [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s orders. They hope she doesn't find out they had to leave a dead mezzoloth behind.
 
-Two pairs of [mezzoloths](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) patrol the battlefield in irregular patterns. Characters traveling across the nodule or searching the rubble have a chance of encountering a patrol. Roll a `dice:d6|noform|noparens|avg` (`d6`); on a 1 or 2, the characters encounter one of the patrolling pairs. These mezzoloths want to impress their leader and thus fight to the death.
+Two pairs of [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) patrol the battlefield in irregular patterns. Characters traveling across the nodule or searching the rubble have a chance of encountering a patrol. Roll a `d6`; on a 1 or 2, the characters encounter one of the patrolling pairs. These mezzoloths want to impress their leader and thus fight to the death.
 
 #### W1: Prison Pyramid
 
@@ -978,11 +976,11 @@ Two pairs of [mezzoloths](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) patr
 > This pyramid is cracked on one side. The crack extends from an opening flanked by statues of hulking insectile creatures to the pyramid's point sixty feet above.
 ^46d
 
-Three [mezzoloths](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) inhabit the pyramid along with an [umber hulk](/3-Mechanics/CLI/bestiary/monstrosity/umber-hulk-xmm.md) they recently freed from magical stasis. The mezzoloths are darkening the sand-colored umber hulk's hide with charcoal so it more closely resembles their mottled black color.
+Three [mezzoloths](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) inhabit the pyramid along with an [umber hulk](3-Mechanics/CLI/bestiary/monstrosity/umber-hulk.md) they recently freed from magical stasis. The mezzoloths are darkening the sand-colored umber hulk's hide with charcoal so it more closely resembles their mottled black color.
 
-Against [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s wishes, these mezzoloths assaulted the Mire of Doubt and fled when the nagas killed one of their number. They know [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) will be furious at the loss, so they freed the umber hulk trapped here and are trying to disguise it as their lost companion. The umber hulk is several feet taller, two arms fewer, and lighter in color than the mezzoloths, but the mezzoloths are desperate. The umber hulk is just glad to have survived its interminable stasis.
+Against [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s wishes, these mezzoloths assaulted the Mire of Doubt and fled when the nagas killed one of their number. They know [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) will be furious at the loss, so they freed the umber hulk trapped here and are trying to disguise it as their lost companion. The umber hulk is several feet taller, two arms fewer, and lighter in color than the mezzoloths, but the mezzoloths are desperate. The umber hulk is just glad to have survived its interminable stasis.
 
-If the characters realize what's going on and share that they killed [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md), the mezzoloths scatter, visibly relieved. Otherwise, the mezzoloths attack. The umber hulk stokes confusion with its gaze and tries to pick off stragglers at the fringes of the fight. The frantic mezzoloths fight to the death, but the umber hulk flees if the mezzoloths are defeated.
+If the characters realize what's going on and share that they killed [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md), the mezzoloths scatter, visibly relieved. Otherwise, the mezzoloths attack. The umber hulk stokes confusion with its gaze and tries to pick off stragglers at the fringes of the fight. The frantic mezzoloths fight to the death, but the umber hulk flees if the mezzoloths are defeated.
 
 ##### Other Hulks
 
@@ -990,23 +988,23 @@ Three other umber hulk prisoners stand lifeless in corners of the pyramid, each 
 
 #### W2: Nellik's Windmill
 
-As the smoke doesn't waft near this location, it's difficult for the characters to sneak up on it. If the mezzoloth sentry spots intruders (see below), it warns [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) immediately.
+As the smoke doesn't waft near this location, it's difficult for the characters to sneak up on it. If the mezzoloth sentry spots intruders (see below), it warns [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) immediately.
 
 > [!readaloud] 
 > 
 > The stone and wood of this windmill are blackened as though from a fire. Three of its four wood-and-canvas blades still turn, keeping the pungent smoke at bay. The fourth blade lies in a tumble on the ground.
 ^470
 
-A wary [nycaloth](/3-Mechanics/CLI/bestiary/fiend/nycaloth-xmm.md) named [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) lairs in the windmill. [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s adjutant, a wary [mezzoloth](/3-Mechanics/CLI/bestiary/fiend/mezzoloth-xmm.md) named Frevvik, wears a war horn on a strap and keeps watch nearby for danger. [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s greataxe is a [flayer slayer](/3-Mechanics/CLI/items/flayer-slayer-pabtso.md), which changes her Greataxe attack as follows:
+A wary [nycaloth](3-Mechanics/CLI/bestiary/fiend/nycaloth.md) named [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) lairs in the windmill. [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s adjutant, a wary [mezzoloth](3-Mechanics/CLI/bestiary/fiend/mezzoloth.md) named Frevvik, wears a war horn on a strap and keeps watch nearby for danger. [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md)'s greataxe is a [flayer slayer](3-Mechanics/CLI/items/flayer-slayer-pabtso.md), which changes her Greataxe attack as follows:
 
 > [!readaloud] 
 > 
-> **Greataxe.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. Hit: `dice:2d12+6|noform|noparens|avg|text(19)` (`2d12 + 6`) slashing damage; if the target is an Aberration, it takes an additional `dice:1d12|noform|noparens|avg|text(6)` (`1d12`) slashing damage, and if it is grappling a creature, it must succeed on a DC 15 Strength saving throw or its grapple ends.
+> **Greataxe.** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. Hit: 19 (`2d12 + 6`) slashing damage; if the target is an Aberration, it takes an additional 6 (`1d12`) slashing damage, and if it is grappling a creature, it must succeed on a DC 15 Strength saving throw or its grapple ends.
 ^471
 
-[Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and Frevvik defend themselves if attacked.
+[Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and Frevvik defend themselves if attacked.
 
-If combat commences, Frevvik takes a bonus action to blow its war horn as soon as it can. If there are any mezzoloth patrols still alive on the island, one pair arrives in `dice:1d4|noform|noparens|avg` (`1d4`) rounds. The other pair arrives `dice:1d4|noform|noparens|avg` (`1d4`) rounds after the first. The mezzoloths in the pyramid (area W1) pretend to not hear the war horn.
+If combat commences, Frevvik takes a bonus action to blow its war horn as soon as it can. If there are any mezzoloth patrols still alive on the island, one pair arrives in `1d4` rounds. The other pair arrives `1d4` rounds after the first. The mezzoloths in the pyramid (area W1) pretend to not hear the war horn.
 
 ##### Turning Windmill
 
@@ -1014,16 +1012,16 @@ The windmill is powered by ancient magic, not wind, and continues to turn unless
 
 ##### Talking to Nellik
 
-[Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) welcomes a conversation with outsiders who might be able to help her. Given the chance, she lays out her problem:
+[Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) welcomes a conversation with outsiders who might be able to help her. Given the chance, she lays out her problem:
 
-- **Former Bodyguard.** Until recently, [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and her unit of nine mezzoloths served an arcanaloth named Ashripask. Ashripask led the group into many dangerous locations, including several lore-filled locations in the Far Realm, like the Briny Maze.  
-- **Resignation Tendered.** Unwilling to continue these dangerous forays, [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and her mezzoloths fled while Ashripask slept. They fled in a direction Ashripask wouldn't expect: into the Briny Pool.  
+- **Former Bodyguard.** Until recently, [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and her unit of nine mezzoloths served an arcanaloth named Ashripask. Ashripask led the group into many dangerous locations, including several lore-filled locations in the Far Realm, like the Briny Maze.  
+- **Resignation Tendered.** Unwilling to continue these dangerous forays, [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) and her mezzoloths fled while Ashripask slept. They fled in a direction Ashripask wouldn't expect: into the Briny Pool.  
 - **Trapped.** They don't know how to leave the Endless Void and hope to learn a method of escape by observing the floating nodules from the concealment this island provides.  
-- **Uneasy Retreat.** [Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) wants to know how to leave the Endless Void without going through the Briny Maze, where she's sure Ashripask awaits.  
+- **Uneasy Retreat.** [Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) wants to know how to leave the Endless Void without going through the Briny Maze, where she's sure Ashripask awaits.  
 
 ##### Treasure
 
-[Nellik](/3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) carries a [flayer slayer](/3-Mechanics/CLI/items/flayer-slayer-pabtso.md).
+[Nellik](3-Mechanics/CLI/bestiary/npc/nellik-pabtso.md) carries a [flayer slayer](3-Mechanics/CLI/items/flayer-slayer-pabtso.md).
 
 ### Ilvaash's Anima
 
@@ -1032,8 +1030,8 @@ The characters don't spot this nodule until they've visited at least five other 
 This location is presented on map 8.9.
 
 > [!gallery]
-> ![Map 8.9: Ilvaash's Anima](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/147-map-8-09-ilvaashs-anima.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/148-map-8-09-ilvaashs-anima-player.webp#gallery)
+> ![Map 8.9: Ilvaash's Anima](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/147-map-8-09-ilvaashs-anima.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/148-map-8-09-ilvaashs-anima-player.webp#gallery)
 
 > [!readaloud] 
 > 
@@ -1042,11 +1040,11 @@ This location is presented on map 8.9.
 
 Characters who fly through the Endless Void to this nodule find themselves steered toward the arrival platform in area A1, no matter which part of the nodule they try to reach.
 
-All three of the mind flayer fanatics ([Chishinix](/3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md), [Hashutu](/3-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md), and [Voalsh](/3-Mechanics/CLI/bestiary/npc/voalsh-pabtso.md)) are here in this sacred site, engaged in their ritual. They are [mind flayer clairvoyants](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-clairvoyant-pabtso.md) with the following modifications:
+All three of the mind flayer fanatics ([Chishinix](3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md), [Hashutu](3-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md), and [Voalsh](3-Mechanics/CLI/bestiary/npc/voalsh-pabtso.md)) are here in this sacred site, engaged in their ritual. They are [mind flayer clairvoyants](3-Mechanics/CLI/bestiary/aberration/mind-flayer-clairvoyant-pabtso.md) with the following modifications:
 
-- [Chishinix](/3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md) is always accompanied by a severed head, which has the statistics of an [encephalon gemmule](/3-Mechanics/CLI/bestiary/aberration/encephalon-gemmule-pabtso.md) with a speed of 10 feet. The head lacks the Encephalon Progeny ability.  
-- [Hashutu](/3-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md) has [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) out to a range of 60 feet.  
-- [Voalsh](/3-Mechanics/CLI/bestiary/npc/voalsh-pabtso.md) is immune to the [prone](/3-Mechanics/CLI/conditions.md#Prone) condition and has a flying speed of 30 feet.  
+- [Chishinix](3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md) is always accompanied by a severed head, which has the statistics of an [encephalon gemmule](3-Mechanics/CLI/bestiary/aberration/encephalon-gemmule-pabtso.md) with a speed of 10 feet. The head lacks the Encephalon Progeny ability.  
+- [Hashutu](3-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md) has [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) out to a range of 60 feet.  
+- [Voalsh](3-Mechanics/CLI/bestiary/npc/voalsh-pabtso.md) is immune to the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition and has a flying speed of 30 feet.  
 
 Each fanatic's position depends on how many fragments of the Netherese obelisk they've recovered to power their ritual. If they recovered all seven fragments, the fanatics are joined by two disciples (see area A3).
 
@@ -1061,7 +1059,7 @@ Each fanatic's position depends on how many fragments of the Netherese obelisk t
 
 #### A1: Anima Entry
 
-![Chishinix](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/149-08-014-chishinix.webp#center)
+![Chishinix](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/149-08-014-chishinix.webp#center)
 
 > [!readaloud] 
 > 
@@ -1070,11 +1068,11 @@ Each fanatic's position depends on how many fragments of the Netherese obelisk t
 
 ##### Four or Five Fragments
 
-If the mind flayers acquired only four or five obelisk fragments, [Chishinix](/3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md) sulks here, feeding treats to her severed head. She recognizes the characters' arrival as a problem and tries to delay them with conversation to draw out more information. She's interested in discovering whether the characters have brought the other fragments with them. If so, she demands the characters turn them over in exchange for a high position in the "Empire of the Mind" that the fanatics are creating in Ilvaash's name. She attacks to acquire the fragments, if necessary. Even if the characters deal peaceably with her, [Chishinix](/3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md) isn't likely to suffer their presence for long. She telepathically alerts the other fanatics and attacks. If reduced to fewer than 30 hit points, she retreats to join the others.
+If the mind flayers acquired only four or five obelisk fragments, [Chishinix](3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md) sulks here, feeding treats to her severed head. She recognizes the characters' arrival as a problem and tries to delay them with conversation to draw out more information. She's interested in discovering whether the characters have brought the other fragments with them. If so, she demands the characters turn them over in exchange for a high position in the "Empire of the Mind" that the fanatics are creating in Ilvaash's name. She attacks to acquire the fragments, if necessary. Even if the characters deal peaceably with her, [Chishinix](3-Mechanics/CLI/bestiary/npc/chishinix-pabtso.md) isn't likely to suffer their presence for long. She telepathically alerts the other fanatics and attacks. If reduced to fewer than 30 hit points, she retreats to join the others.
 
 #### A2: Refectory
 
-![Hashutu](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/150-08-015-hashutu.webp#center)
+![Hashutu](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/150-08-015-hashutu.webp#center)
 
 > [!readaloud] 
 > 
@@ -1085,11 +1083,11 @@ The fanatics don't need to rest while performing the lengthy ritual, but they st
 
 ##### Four Fragments
 
-If the fanatics have recovered four obelisk fragments, [Hashutu](/3-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md) is in this room, eating a brain while pondering the fanatics' failures.
+If the fanatics have recovered four obelisk fragments, [Hashutu](3-Mechanics/CLI/bestiary/npc/hashutu-pabtso.md) is in this room, eating a brain while pondering the fanatics' failures.
 
 ##### Treasure
 
-A shelf on one wall holds a [potion of supreme healing](/3-Mechanics/CLI/items/potion-of-supreme-healing-xdmg.md).
+A shelf on one wall holds a potion of supreme healing.
 
 #### A3: Disciples' Chamber
 
@@ -1102,19 +1100,19 @@ This room is intended for eventual habitation by more cultists of Ilvaash.
 
 ##### Seven Fragments
 
-If the fanatics found all seven obelisk fragments, they used some excess power to summon two [mind flayer prophets](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-prophet-pabtso.md). These mind flayers want to prove their worth by dispatching intruders who threaten to disrupt the fanatics' ritual and thus fight to the death.
+If the fanatics found all seven obelisk fragments, they used some excess power to summon two [mind flayer prophets](3-Mechanics/CLI/bestiary/aberration/mind-flayer-prophet-pabtso.md). These mind flayers want to prove their worth by dispatching intruders who threaten to disrupt the fanatics' ritual and thus fight to the death.
 
 ##### Brain Altar
 
-The altar of Ilvaash contains a few stone tablets that describe the process of reassembling the obelisk fragments into a single item of power. A character who reads these tablets and succeeds on a DC 16 Intelligence ([Arcana](/3-Mechanics/CLI/skills.md#Arcana) or [Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check realizes the reassembly creates a notable weakness: damage to the obelisk creates backlash into the fanatics who are using it. (The details of this backlash are described in area A4.)
+The altar of Ilvaash contains a few stone tablets that describe the process of reassembling the obelisk fragments into a single item of power. A character who reads these tablets and succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) or [Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check realizes the reassembly creates a notable weakness: damage to the obelisk creates backlash into the fanatics who are using it. (The details of this backlash are described in area A4.)
 
 ##### Treasure
 
-The four [diamonds](/3-Mechanics/CLI/items/diamond-xdmg.md) on the brain statue are worth 5,000 gp each.
+The four diamonds on the brain statue are worth 5,000 gp each.
 
 #### A4: Pit Overlook
 
-![The heroes must stop the m...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/151-08-013-obelisk-ritual.webp#center "The heroes must stop the mind flayer fanatics from completing their ritual and transforming Phandalin into a nightmarish realm")
+![The heroes must stop the mind flayer fanatics from completing their ritual and transforming Phandalin into a nightmarish realm](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/151-08-013-obelisk-ritual.webp#center)
 
 > [!readaloud] 
 > 
@@ -1123,13 +1121,13 @@ The four [diamonds](/3-Mechanics/CLI/items/diamond-xdmg.md) on the brain statue 
 
 If the mind flayer fanatics were unable to obtain all the obelisk fragments, the obelisk has pieces missing but is still functional. At least one of the mind flayer fanatics—and perhaps all three—are here to engineer Phandalin's forced transformation as the ritual continues. Fanatics confronted here fight to the death.
 
-![Voalsh](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/152-08-016-voalsh.webp#center)
+![Voalsh](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/152-08-016-voalsh.webp#center)
 
 ##### Attacking the Obelisk
 
 The fanatics here have tied their life energy to the obelisk to empower the ritual. Damage to the obelisk therefore creates backlash that harms them. The obelisk has AC 17 and immunity to poison and psychic damage. The obelisk can't be directly destroyed and therefore doesn't have hit points.
 
-When the obelisk would take damage, the nearest fanatic instead takes the damage. If the characters retrieved one or more obelisk fragments during chapter 6, the fanatic takes twice as much damage as the obelisk. If the characters didn't retrieve any obelisk fragments, the fanatic takes the same amount of damage dealt to the obelisk. This backlash affects one fanatic each time the obelisk takes damage no matter where the fanatic is located, even if all the fanatics used [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) to leave the Far Realm.
+When the obelisk would take damage, the nearest fanatic instead takes the damage. If the characters retrieved one or more obelisk fragments during chapter 6, the fanatic takes twice as much damage as the obelisk. If the characters didn't retrieve any obelisk fragments, the fanatic takes the same amount of damage dealt to the obelisk. This backlash affects one fanatic each time the obelisk takes damage no matter where the fanatic is located, even if all the fanatics used [plane shift](3-Mechanics/CLI/spells/plane-shift.md) to leave the Far Realm.
 
 The fanatics don't know about this backlash until the first time it occurs. Once one of them experiences the backlash, the fanatics might struggle with one another to not be nearest to the obelisk.
 
@@ -1139,7 +1137,7 @@ If all three fanatics are killed, the obelisk collapses into dust and is permane
 
 ## Ilvaash's Refraction
 
-![When the godlet Ilvaash un...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/153-08-019-ilvaash.webp#center "When the godlet Ilvaash unleashes just a sliver of power, it's a terrifying sight to behold")
+![When the godlet Ilvaash unleashes just a sliver of power, it's a terrifying sight to behold](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/153-08-019-ilvaash.webp#center)
 
 Ilvaash expected the dangers of the Briny Maze and the Endless Void to overcome the characters and add their essences to his realm. Once the characters defeat the fanatics and return through the Briny Pool, the godlet realizes he must take direct action.
 
@@ -1150,11 +1148,11 @@ When the characters ascend to the surface of the Briny Pool in area B22, read or
 > The large chamber holding the impossibly deep pool of cerebral fluid is no longer empty. An enormous, floating, ghostly brain looms in front of the room's only exit, several razor-sharp claws dangling from its underside. It pulses with alien power as it telepathically intones, "You have stampeded through my realm like surgeons operating with a hatchet. Your intrusion ends now."
 ^489
 
-The [refraction of Ilvaash](/3-Mechanics/CLI/bestiary/aberration/refraction-of-ilvaash-pabtso.md) (see the stat block below) wields only a sliver of the godlet's power but is nevertheless a formidable foe. It fights until destroyed. If the characters are escorting rescued townspeople, the refraction targets the former captives with its Dissonant Claw attack or mind blast in the hope of driving the characters into despair.
+The [refraction of Ilvaash](3-Mechanics/CLI/bestiary/aberration/refraction-of-ilvaash-pabtso.md) (see the stat block below) wields only a sliver of the godlet's power but is nevertheless a formidable foe. It fights until destroyed. If the characters are escorting rescued townspeople, the refraction targets the former captives with its Dissonant Claw attack or mind blast in the hope of driving the characters into despair.
 
 If the characters haven't yet defeated the purple worm in the Briny Pool, it joins the fight against the characters at the beginning of the third round of combat.
 
-![Refraction of Ilvaash](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/154-638291908645650660.webp#center)
+![Refraction of Ilvaash](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/154-638291908645650660.webp#center)
 
 ## Wrapping Up
 
@@ -1163,7 +1161,7 @@ If the characters defeat the refraction of Ilvaash, the entire Briny Maze shudde
 Two effects occur at the maze entry (area B1) once the characters defeat the refraction:
 
 - **Far Realm Access.** Access to the rest of the Far Realm is enabled. A second gateway opens beside the passage to Illithinoch in the Briny Maze (area B1). The second gateway reveals the kaleidoscopic chaos of the Far Realm. Further adventures are up to you, but the characters might wish to press deeper into this strange and terrifying realm (see the "Far Realm Explorers" hook below).  
-- **Sealed Illithinoch.** The gateway to Illithinoch begins to close. The gateway gets noticeably smaller with each passing minute. One hour after the refraction's defeat, the gateway closes entirely, and it doesn't leave a scar as described in area B1. If the characters are still in the Briny Maze at this point, they must find another way home. A [plane shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md) spell would do the trick, as would any other plane-hopping magic.  
+- **Sealed Illithinoch.** The gateway to Illithinoch begins to close. The gateway gets noticeably smaller with each passing minute. One hour after the refraction's defeat, the gateway closes entirely, and it doesn't leave a scar as described in area B1. If the characters are still in the Briny Maze at this point, they must find another way home. A [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell would do the trick, as would any other plane-hopping magic.  
 
 ### Return to Phandalin
 
@@ -1176,15 +1174,15 @@ When the characters return to Phandalin after their victory, read or paraphrase 
 
 The early victims of the ritual, including Sister Garaele and Halia Thornton, have returned to their prior selves. It's up to you and your players whether the characters keep any transformations they've experienced. The characters are hailed as the saviors of Phandalin—doubly so if they've managed to return the kidnapped townspeople.
 
-Many people in Phandalin want to learn the story of the characters' victory over the mind flayers, but perhaps none so much as [Gwyn Oresong](/3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md). She seeks to expand the sparse scholarly information about the Far Realm with the characters' firsthand accounts.
+Many people in Phandalin want to learn the story of the characters' victory over the mind flayers, but perhaps none so much as [Gwyn Oresong](3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md). She seeks to expand the sparse scholarly information about the Far Realm with the characters' firsthand accounts.
 
 The characters forever after have a warm welcome in town, and many townspeople hope the characters decide to stay in Phandalin for good. Whether your characters retire to a well-earned life of leisure in Phandalin or embark on further adventures is up to you.
 
-![If the heroes successfully...](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/155-08-018-peace-and-harmony-in-phandalin.webp#center "If the heroes successfully stop the mind flayer fanatics, peace and harmony return to the sleepy town of Phandalin")
+![If the heroes successfully stop the mind flayer fanatics, peace and harmony return to the sleepy town of Phandalin](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/155-08-018-peace-and-harmony-in-phandalin.webp#center)
 
 ### What If They Fail?
 
-If the characters fail to stop the mind flayer fanatics, or if the refraction of Ilvaash defeats them, they have the [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition and are trapped in the Briny Maze. At your discretion, [Gwyn Oresong](/3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) might send for reinforcements from Neverwinter. In this case, the players might create new characters who rush to stop the ritual and save the previous characters. If the new characters are successful, consider allowing them to rescue the previous characters before the Briny Maze subsumes them. In any case, if the new characters succeed, the party can return to a saved Phandalin as outlined earlier in this section.
+If the characters fail to stop the mind flayer fanatics, or if the refraction of Ilvaash defeats them, they have the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition and are trapped in the Briny Maze. At your discretion, [Gwyn Oresong](3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) might send for reinforcements from Neverwinter. In this case, the players might create new characters who rush to stop the ritual and save the previous characters. If the new characters are successful, consider allowing them to rescue the previous characters before the Briny Maze subsumes them. In any case, if the new characters succeed, the party can return to a saved Phandalin as outlined earlier in this section.
 
 ## Epilogue
 
@@ -1194,11 +1192,11 @@ If you want to continue the campaign in the Phandalin region or the Far Realm, c
 
 Some time after the characters encountered it in the Endless Void, the massive creature called the Nematode awakens to full sentience. It dimly remembers the characters who traipsed about inside it and comes looking for revenge. Able to fly as easily as it drifts through the Endless Void, the Nematode slips through the planes until it soars above Phandalin.
 
-The Nematode arrives on a dark night, its darker shadow against the starlight the only indication of its presence. The people of Phandalin don't initially realize the Nematode is anything other than a cloud passing overhead. [Intellect snares](/3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) scooped up by the Nematode during its flight rain down in the darkness. The intellect snares begin hunting townspeople in their sleep and scatter before the alarm is raised. The characters must spend the predawn hours hunting down the predatory intellect snares and saving the town.
+The Nematode arrives on a dark night, its darker shadow against the starlight the only indication of its presence. The people of Phandalin don't initially realize the Nematode is anything other than a cloud passing overhead. [Intellect snares](3-Mechanics/CLI/bestiary/aberration/intellect-snare-pabtso.md) scooped up by the Nematode during its flight rain down in the darkness. The intellect snares begin hunting townspeople in their sleep and scatter before the alarm is raised. The characters must spend the predawn hours hunting down the predatory intellect snares and saving the town.
 
 The true scope of the danger dawns as the morning light illuminates the Nematode writhing 500 feet above the town like a malevolent cloud. The creature is far too large to defeat by conventional attacks or spells, so the characters must once again explore the Nematode from the inside, just as they did in the Endless Void.
 
-This time, the Nematode's interior is populated with eel-like young spawned in its digestive juices (use the [behir](/3-Mechanics/CLI/bestiary/monstrosity/behir-xmm.md) stat block, but they exhale acid rather than lightning). Beyond the membrane in the Nematode's head is a massive, fluid-filled chamber that serves as the Nematode's brain. The characters must damage each of the five electroreceptors in the brain chamber while fighting off a dozen clots of coagulated brain fluid (use the [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) stat block) and a [remorhaz](/3-Mechanics/CLI/bestiary/monstrosity/remorhaz-xmm.md) whose fires are stoking the Nematode's rage.
+This time, the Nematode's interior is populated with eel-like young spawned in its digestive juices (use the [behir](3-Mechanics/CLI/bestiary/monstrosity/behir.md) stat block, but they exhale acid rather than lightning). Beyond the membrane in the Nematode's head is a massive, fluid-filled chamber that serves as the Nematode's brain. The characters must damage each of the five electroreceptors in the brain chamber while fighting off a dozen clots of coagulated brain fluid (use the [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md) stat block) and a [remorhaz](3-Mechanics/CLI/bestiary/monstrosity/remorhaz.md) whose fires are stoking the Nematode's rage.
 
 ### Far Realm Explorers
 
@@ -1210,15 +1208,15 @@ You can use the nodules in the Endless Void earlier in this chapter as examples 
 
 #### Ilvaash's Revenge
 
-Any place of safety in the Far Realm soon comes under attack, however, as Ilvaash seeks revenge against the characters for stopping the fanatics' plans and destroying the Dissonant Psyche's refraction. The characters must contend with dangers Ilvaash throws at them, such as squads of zealous [mind flayer prophets](/3-Mechanics/CLI/bestiary/aberration/mind-flayer-prophet-pabtso.md) led by militant enforcers called brain breakers. Brain breakers look like giant brains with stout legs, and they wear steel armor made from interlocked links of Ilvaash's runes (knots of tentacles, brains, and jagged lines reminiscent of jaws). A [brain breaker](/3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) uses the stat block of an [infected elder brain](/3-Mechanics/CLI/bestiary/aberration/infected-elder-brain-pabtso.md) with the following changes:
+Any place of safety in the Far Realm soon comes under attack, however, as Ilvaash seeks revenge against the characters for stopping the fanatics' plans and destroying the Dissonant Psyche's refraction. The characters must contend with dangers Ilvaash throws at them, such as squads of zealous [mind flayer prophets](3-Mechanics/CLI/bestiary/aberration/mind-flayer-prophet-pabtso.md) led by militant enforcers called brain breakers. Brain breakers look like giant brains with stout legs, and they wear steel armor made from interlocked links of Ilvaash's runes (knots of tentacles, brains, and jagged lines reminiscent of jaws). A [brain breaker](3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) uses the stat block of an [infected elder brain](3-Mechanics/CLI/bestiary/aberration/infected-elder-brain-pabtso.md) with the following changes:
 
-- A [brain breaker](/3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) has an Armor Class of 14 due to the strange ring mail it wears.  
-- A [brain breaker](/3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) has a speed of 30 feet and has a magical flying speed of 30 feet. It can hover.  
-- A [brain breaker](/3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) has a challenge rating of 12 (8,400 XP).  
+- A [brain breaker](3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) has an Armor Class of 14 due to the strange ring mail it wears.  
+- A [brain breaker](3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) has a speed of 30 feet and has a magical flying speed of 30 feet. It can hover.  
+- A [brain breaker](3-Mechanics/CLI/bestiary/aberration/brain-breaker-pabtso.md) has a challenge rating of 12 (8,400 XP).  
 
 These squads range throughout the Far Realm. They target not only the characters but also any Far Realms dwellers that have been aiding the characters. Ilvaash wants to punish the characters' friends as much as the characters themselves.
 
-The characters can quell these attacks only by finding and draining the Shallows of Sudden Thought, a miles-wide dead lake similar to the Briny Pool in chapter 8. There, a [kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) named Ghaluzesh directs the attacks against the characters. Ghaluzesh is invulnerable while swimming in the waters of the Shallows of Sudden Thought, but once the characters drain the Shallows, they can take the fight to the kraken. While exploring the Shallows, the characters learn that Ghaluzesh keeps the brain breakers focused on their tasks because the brain breakers fall to fractious infighting without firm leadership.
+The characters can quell these attacks only by finding and draining the Shallows of Sudden Thought, a miles-wide dead lake similar to the Briny Pool in chapter 8. There, a [kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken.md) named Ghaluzesh directs the attacks against the characters. Ghaluzesh is invulnerable while swimming in the waters of the Shallows of Sudden Thought, but once the characters drain the Shallows, they can take the fight to the kraken. While exploring the Shallows, the characters learn that Ghaluzesh keeps the brain breakers focused on their tasks because the brain breakers fall to fractious infighting without firm leadership.
 
 Only by defeating Ghaluzesh can the characters earn a measure of peace for themselves and for the Far Realms allies that support them.
 
@@ -1226,11 +1224,11 @@ Only by defeating Ghaluzesh can the characters earn a measure of peace for thems
 
 If your players enjoyed their excursion in the Far Realm, consider running the short adventure "Orchids of the Invisible Mountain" in Journeys Through the Radiant Citadel. By the time the characters defeat the refraction of Ilvaash, they are already a good level to tackle that adventure.
 
-If you send the characters on this adventure, [Gwyn Oresong](/3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) receives a message from another scholar that planar disruptions are occurring in the grasslands of Atagua, a land hundred of miles from Phandalin. Gwyn sheepishly admits that she has offered the characters' expertise at investigating extraplanar matters. She believes that the owner of Atagua's Sarire sugar mill is wealthy and will reward the characters for their aid.
+If you send the characters on this adventure, [Gwyn Oresong](3-Mechanics/CLI/bestiary/npc/gwyn-oresong-pabtso.md) receives a message from another scholar that planar disruptions are occurring in the grasslands of Atagua, a land hundred of miles from Phandalin. Gwyn sheepishly admits that she has offered the characters' expertise at investigating extraplanar matters. She believes that the owner of Atagua's Sarire sugar mill is wealthy and will reward the characters for their aid.
 
 ## Netherese Obelisks
 
-![The Weavers](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/156-08-020-the-weavers.webp#center)
+![The Weavers](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/156-08-020-the-weavers.webp#center)
 
 The shattered obelisk is only one of several similar obelisks around the world. All are powerful artifacts with dangerous magical effects, although no two have the same powers. The earliest extant examples of these magical obelisks can rewrite reality on a grand scale.
 
@@ -1262,4 +1260,4 @@ Derro are attempting to assemble a broken obelisk beneath the duergar city of Gr
 
 Other obelisks are lost across the world and may come to light in future adventures. If you want to feature obelisks of your own design in your adventures, you might use the powers of existing obelisks as inspiration.
 
-![](/3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/157-08-021-end-splash.webp#center)
+![](3-Mechanics/CLI/adventures/phandelver-and-below-the-shattered-obelisk/img/157-08-021-end-splash.webp#center)

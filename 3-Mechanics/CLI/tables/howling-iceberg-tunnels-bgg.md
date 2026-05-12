@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Howling Iceberg Tunnels
+- "Howling Iceberg Tunnels"
 ---
 # Howling Iceberg Tunnels
 *Source: Bigby Presents: Glory of the Giants p. 88* 
 
 **Howling Iceberg Tunnels**
-
-`dice: [](howling-iceberg-tunnels-bgg.md#^howling-iceberg-tunnels)`
 
 | dice: d10 | Destination |
 |-----------|-------------|

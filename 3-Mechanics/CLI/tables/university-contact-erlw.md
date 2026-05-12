@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- University Contact
+- "University Contact"
 ---
 # University Contact
 *Source: Eberron: Rising from the Last War p. 101* 
 
 **University Contact**
-
-`dice: [](university-contact-erlw.md#^university-contact)`
 
 | dice: d8 | Contact |
 |----------|---------|

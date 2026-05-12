@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Skoraeus Stonebones
+aliases:
+- "Skoraeus Stonebones"
 ---
 # Skoraeus Stonebones
 *Source: Player's Handbook p. 296* 

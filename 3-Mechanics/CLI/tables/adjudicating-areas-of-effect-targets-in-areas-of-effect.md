@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Adjudicating Areas of Effect; Targets in Areas of Effect
+- "Adjudicating Areas of Effect; Targets in Areas of Effect"
 ---
 # Adjudicating Areas of Effect; Targets in Areas of Effect
 *Source: Dungeon Master's Guide p. 249* 

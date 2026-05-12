@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/tempest
-aliases: 
-- Muamman Duathal
+aliases:
+- "Muamman Duathal"
 ---
 # Muamman Duathal
 *Source: Mordenkainen's Tome of Foes p. 73* 

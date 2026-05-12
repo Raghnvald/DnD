@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Random Buildings; Religious Building
+- "Random Buildings; Religious Building"
 ---
 # Random Buildings; Religious Building
 *Source: Dungeon Master's Guide p. 113* 
 
 **Religious Building**
-
-`dice: [](random-buildings-religious-building.md#^religious-building)`
 
 | dice: d20 | Type |
 |-----------|------|

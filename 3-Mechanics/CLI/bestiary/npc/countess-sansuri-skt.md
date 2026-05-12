@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/11
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Countess Sansuri
+- "Countess Sansuri"
 ---
-# [Countess Sansuri](3-Mechanics\CLI\bestiary\npc/countess-sansuri-skt.md)
+# [Countess Sansuri](3-Mechanics/CLI/bestiary/npc/countess-sansuri-skt.md)
 *Source: Storm King's Thunder p. 192*  
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -96,51 +96,53 @@ Some giants abandon their own gods and fall prey to demon cults, paying homage t
   - "wisdom": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear-xphb.md)"
 "senses": "passive Perception 17"
 "languages": "Auran, Common, Giant"
 "cr": "11"
 "traits":
-  - "desc": "Sansuri's innate spellcasting ability is Charisma. She can innately cast\
-      \ the following spells, requiring no material components:\n\n**At will:** detect\
-      \ magic, fog cloud, light\n\n**3/day each:** feather fall, fly, misty step,\
-      \ telekinesis\n\n**1/day each:** control weather, gaseous form"
+  - "desc": "The giant's innate spellcasting ability is Charisma. It can innately\
+      \ cast the following spells, requiring no material components:\n\n**At will:**\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md),\
+      \ [light](3-Mechanics/CLI/spells/light-xphb.md)\n\n**3/day each:** [feather\
+      \ fall](3-Mechanics/CLI/spells/feather-fall-xphb.md), [fly](3-Mechanics/CLI/spells/fly-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)\n\
+      \n**1/day each:** [control weather](3-Mechanics/CLI/spells/control-weather-xphb.md),\
+      \ [gaseous form](3-Mechanics/CLI/spells/gaseous-form-xphb.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Sansuri has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The giant has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
 "actions":
-  - "desc": "Sansuri tries to throw a Small or Medium creature within 10 feet of her.\
-      \ The target must succeed on a DC 20 Dexterity saving throw or be hurled up\
-      \ to 60 feet horizontally in a direction of Sansuri's choice and land prone,\
-      \ taking 1d8 bludgeoning damage for every 10 feet it was thrown."
-    "name": "Fling"
-  - "desc": "A magical aura of wind surrounds Sansuri. The aura is a 10-foot-radius\
-      \ sphere that lasts as long as Sansuri maintains concentration on it (as if\
-      \ concentrating on a spell). While the aura is in effect, Sansuri gains a +2\
-      \ bonus to its AC against ranged weapon attacks, and all open flames within\
-      \ the aura are extinguished unless they are magical."
-    "name": "Wind Aura"
   - "desc": "Sansuri makes two spear attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 21\
-      \ (3d8 + 8) piercing damage."
-    "name": "Morningstar"
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 21 (3d8 + 8) piercing damage."
+    "name": "Spear"
   - "desc": "*Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:*\
       \ 30 (4d10 + 8) bludgeoning damage."
     "name": "Rock"
   - "desc": "Sansuri casts one of the following spells, requiring no material components\
-      \ and using Intelligence as the spellcasting ability (spell save DC 15; +7 to\
-      \ hit with spell attacks):\n\n**At will:** mage hand, message, prestidigitation,\
-      \ ray of frost\n\n**2/day each:** arcane lock, gust of wind, invisibility, magic\
-      \ missile, unseen servant\n\n**1/day each:** globe of invulnerability, haste,\
-      \ hypnotic pattern, ice storm, lightning bolt, Mordenkainen's sword, wall of\
-      \ force"
+      \ and using Intelligence as the spellcasting ability (spell save DC 15; +7\
+      \ to hit with spell attacks):\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md),\
+      \ [message](3-Mechanics/CLI/spells/message-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md),\
+      \ [ray of frost](3-Mechanics/CLI/spells/ray-of-frost-xphb.md)\n\n**2/day each:**\
+      \ [arcane lock](3-Mechanics/CLI/spells/arcane-lock-xphb.md), [gust of wind](3-Mechanics/CLI/spells/gust-of-wind-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [magic missile](3-Mechanics/CLI/spells/magic-missile-xphb.md),\
+      \ [unseen servant](3-Mechanics/CLI/spells/unseen-servant-xphb.md)\n\n**1/day\
+      \ each:** [globe of invulnerability](3-Mechanics/CLI/spells/globe-of-invulnerability-xphb.md),\
+      \ [haste](3-Mechanics/CLI/spells/haste-xphb.md), [hypnotic pattern](3-Mechanics/CLI/spells/hypnotic-pattern-xphb.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md), [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt-xphb.md),\
+      \ [Mordenkainen's sword](3-Mechanics/CLI/spells/mordenkainens-sword-xphb.md),\
+      \ [wall of force](3-Mechanics/CLI/spells/wall-of-force-xphb.md)"
     "name": "Spellcasting"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/countess-sansuri-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/countess-sansuri-skt.webp"
 ```
 ^statblock

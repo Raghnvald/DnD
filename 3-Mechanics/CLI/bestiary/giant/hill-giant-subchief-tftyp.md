@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/7
-- new/monster/size/huge
-- new/monster/type/giant
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/giant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hill Giant Subchief
+- "Hill Giant Subchief"
 ---
-# [Hill Giant Subchief](3-Mechanics\CLI\bestiary\giant/hill-giant-subchief-tftyp.md)
+# [Hill Giant Subchief](3-Mechanics/CLI/bestiary/giant/hill-giant-subchief-tftyp.md)
 *Source: Tales from the Yawning Portal p. 170*  
 
 ```statblock
@@ -38,22 +38,25 @@ aliases:
   - "constitution": !!int "8"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+12"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "darkvision 60 ft., passive Perception 14"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Giant"
 "cr": "7"
 "actions":
   - "desc": "The giant makes two greatclub attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked prone."
+      \ on a DC 17 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Rock"
 "reactions":
   - "desc": "If a rock or similar object is hurled at the giant, the giant can, with\
@@ -62,6 +65,6 @@ aliases:
     "name": "Rock Catching"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/hill-giant-subchief-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/hill-giant-subchief-tftyp.webp"
 ```
 ^statblock

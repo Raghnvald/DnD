@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fiendish Spirit (Devil)
+- "Fiendish Spirit (Devil)"
 ---
-# [Fiendish Spirit (Devil)](3-Mechanics\CLI\bestiary\fiend/fiendish-spirit-devil-xphb.md)
+# [Fiendish Spirit (Devil)](3-Mechanics/CLI/bestiary/fiend/fiendish-spirit-devil-xphb.md)
 *Source: Player's Handbook (2024) p. 327*  
 
 ```statblock
@@ -32,9 +32,9 @@ aliases:
 "speed": "40 ft., fly 60 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Abyssal, Infernal, Telepathy 60 ft."
 "traits":
   - "desc": "Magical Darkness doesn't impede the spirit's Darkvision."

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/dip
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/humanoid/human
+- ttrpg-cli/compendium/src/5e/dip
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Falcon the Hunter
+- "Falcon the Hunter"
 ---
-# [Falcon the Hunter](3-Mechanics\CLI\bestiary\npc/falcon-the-hunter-dip.md)
+# [Falcon the Hunter](3-Mechanics/CLI/bestiary/npc/falcon-the-hunter-dip.md)
 *Source: Dragon of Icespire Peak p. 56*  
 
 Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Neverwinter Wood.
@@ -46,6 +46,9 @@ Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Never
     "desc": "+7"
   - "name": "Survival"
     "desc": "+5"
+"gear":
+  - "longbow"
+  - "longsword"
 "senses": "passive Perception 17"
 "languages": "Common"
 "cr": "4"
@@ -58,14 +61,15 @@ Adventurers encounter Falcon the Hunter if they visit his hunting lodge in Never
 "actions":
   - "desc": "Falcon makes three melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 11 (2d8 + 2) piercing damage."
     "name": "Longbow"
 "source":
   - "DIP"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/falcon-the-hunter-dip.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/falcon-the-hunter-dip.webp"
 ```
 ^statblock

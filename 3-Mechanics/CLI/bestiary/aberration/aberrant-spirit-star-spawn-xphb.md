@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aberrant Spirit (Star Spawn)
+- "Aberrant Spirit (Star Spawn)"
 ---
-# [Aberrant Spirit (Star Spawn)](3-Mechanics\CLI\bestiary\aberration/aberrant-spirit-star-spawn-xphb.md)
+# [Aberrant Spirit (Star Spawn)](3-Mechanics/CLI/bestiary/aberration/aberrant-spirit-star-spawn-xphb.md)
 *Source: Player's Handbook (2024) p. 322*  
 
 ```statblock
@@ -31,12 +31,12 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Deep Speech, understands the languages you know"
 "traits":
   - "desc": "At the start of each of the spirit's turns, the spirit emits psionic\
-      \ energy if it doesn't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
+      \ energy if it doesn't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature\
       \ (other than you) within 5 feet of the spirit. *Failure:* 2d6 Psychic damage."
     "name": "Whispering Aura"

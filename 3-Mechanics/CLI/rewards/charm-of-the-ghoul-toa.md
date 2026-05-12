@@ -3,13 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-reward
 tags:
-- new/compendium/src/5e/toa
-- new/reward/charm
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/reward/charm
 aliases:
-- Charm of the Ghoul
+- "Charm of the Ghoul"
 ---
 # Charm of the Ghoul
 
-This charm allows you to use an action to eat a mouthful of flesh from a humanoid that has been dead no longer than 1 day. When you do, you regain `dice:3d8+3|noform|noparens|avg` (`3d8 + 3`) hit points. Once used three times, the charm goes away.
+This charm allows you to use an action to eat a mouthful of flesh from a humanoid that has been dead no longer than 1 day. When you do, you regain `3d8 + 3` hit points. Once used three times, the charm goes away.
 
 *Source: Tomb of Annihilation p. 167*

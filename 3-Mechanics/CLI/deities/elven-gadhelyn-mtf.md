@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/trickery
-aliases: 
-- Gadhelyn
+aliases:
+- "Gadhelyn"
 ---
 # Gadhelyn
 *Source: Mordenkainen's Tome of Foes p. 43* 

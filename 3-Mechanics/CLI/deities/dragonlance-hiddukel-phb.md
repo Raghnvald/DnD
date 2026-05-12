@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/dragonlance
 - ttrpg-cli/domain/trickery
-aliases: 
-- Hiddukel
+aliases:
+- "Hiddukel"
 ---
 # Hiddukel
 *Source: Player's Handbook p. 295* 

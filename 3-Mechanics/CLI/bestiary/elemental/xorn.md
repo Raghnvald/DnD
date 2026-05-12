@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Xorn
+- "Xorn"
 ---
-# [Xorn](3-Mechanics\CLI\bestiary\elemental/xorn.md)
+# [Xorn](3-Mechanics/CLI/bestiary/elemental/xorn.md)
 *Source: Monster Manual p. 304. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
@@ -48,12 +48,12 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
   - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_resistances": "piercing, slashing from nonmagical attacks that aren't adamantine"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense\
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense\
   \ 60 ft., passive Perception 16"
 "languages": "Terran"
 "cr": "5"
@@ -61,7 +61,7 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
   - "desc": "The xorn can burrow through nonmagical, unworked earth and stone. While\
       \ doing so, the xorn doesn't disturb the material it moves through."
     "name": "Earth Glide"
-  - "desc": "The xorn has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The xorn has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
   - "desc": "The xorn can pinpoint, by scent, the location of precious metals and\
@@ -73,12 +73,12 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (3d6 + 3) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claw"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/xorn.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/xorn.webp"
 ```
 ^statblock
 

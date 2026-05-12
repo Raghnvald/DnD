@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Blood Hawk
+- "Blood Hawk"
 ---
-# [Blood Hawk](3-Mechanics\CLI\bestiary\beast/blood-hawk.md)
-*Source: Monster Manual p. 319, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Blood Hawk](3-Mechanics/CLI/bestiary/beast/blood-hawk.md)
+*Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
 
@@ -41,26 +41,26 @@ Taking its name from its crimson feathers and aggressive nature, the blood hawk 
   - !!int "5"
 "speed": "10 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "1/8"
 "traits":
-  - "desc": "The hawk has advantage on Wisdom (Perception) checks that rely on sight."
+  - "desc": "The hawk has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight."
     "name": "Keen Sight"
   - "desc": "The hawk has advantage on an attack roll against a creature if at least\
       \ one of the hawk's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Beak"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/blood-hawk.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/blood-hawk.webp"
 ```
 ^statblock
 

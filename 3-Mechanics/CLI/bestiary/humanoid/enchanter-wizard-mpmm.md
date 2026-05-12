@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Enchanter Wizard
+- "Enchanter Wizard"
 ---
-# [Enchanter Wizard](3-Mechanics\CLI\bestiary\humanoid/enchanter-wizard-mpmm.md)
+# [Enchanter Wizard](3-Mechanics/CLI/bestiary/humanoid/enchanter-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
@@ -28,7 +28,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "49"
 "hit_dice": "11d8"
 "modifier": !!int "2"
@@ -44,9 +44,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
 "senses": "passive Perception 11"
 "languages": "any four languages"
@@ -58,12 +58,12 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 19 (3d10 + 3) psychic damage."
     "name": "Arcane Burst"
   - "desc": "The enchanter casts one of the following spells, using Intelligence as\
-      \ the spellcasting ability (spell save DC 14):\n\n**At will:** [friends](/3-Mechanics/CLI/spells/friends-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md)\n\
-      \n**2/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md),\
-      \ [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md)"
+      \ the spellcasting ability (spell save DC 14):\n\n**At will:** [friends](3-Mechanics/CLI/spells/friends-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](3-Mechanics/CLI/spells/message-xphb.md)\n\
+      \n**2/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md), [hold person](3-Mechanics/CLI/spells/hold-person-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [suggestion](3-Mechanics/CLI/spells/suggestion-xphb.md),\
+      \ [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a visible creature within 30 feet of the enchanter makes an attack\
@@ -75,7 +75,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/enchanter-wizard-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/enchanter-wizard-mpmm.webp"
 ```
 ^statblock
 

@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Incubus
+- "Incubus"
 ---
-# [Incubus](3-Mechanics\CLI\bestiary\fiend/incubus.md)
-*Source: Monster Manual p. 285, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Incubus](3-Mechanics/CLI/bestiary/fiend/incubus.md)
+*Source: Monster Manual p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
 
@@ -28,7 +28,7 @@ Inevitably, the fiend enters the mortal realm in tempting form to directly influ
 
 A mortal bequeaths its soul to the fiend not by formal pledge or contract. Instead, when a succubus or incubus has corrupted a creature completely-some say by causing the victim to commit the three betrayals of thought, word, and deed-the victim's soul belongs to the fiend. The more virtuous the fiend's prey, the longer the corruption takes, but the more rewarding the downfall. After successfully corrupting a victim, the succubus or incubus kills it, and the tainted soul descends into the Lower Planes.
 
-The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A charmed creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
+The succubus or incubus resorts to charming a victim magically only when necessary, usually as a form of self-defense. A [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) creature isn't responsible for its actions, so forcing it to behave against its will won't bring the fiend closer to the ultimate prize: the victim's soul.
 
 ## Deadly Kiss
 
@@ -36,7 +36,7 @@ The kiss of a succubus or incubus is an echo of the emptiness that is the fiend'
 
 ## Fiendish Offspring
 
-Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a cambion child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
+Succubi and incubi can reproduce with one another to spawn more of their kind. Less commonly, a succubus or incubus reproduces with a humanoid. From this unholy union, a [cambion](3-Mechanics/CLI/bestiary/fiend/cambion.md) child is conceived. Invariably, the fiendish offspring is as wicked as its fiendish parent.
 
 ```statblock
 "name": "Incubus"
@@ -58,25 +58,26 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
   - !!int "20"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+9"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+5"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+9"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"senses": "darkvision 60 ft., passive Perception 15"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 15"
 "languages": "Abyssal, Common, Infernal, telepathy 60 ft."
 "cr": "4"
 "traits":
   - "desc": "The fiend ignores the range restriction on its telepathy when communicating\
-      \ with a creature it has charmed. The two don't even need to be on the same\
-      \ plane of existence."
+      \ with a creature it has [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed).\
+      \ The two don't even need to be on the same plane of existence."
     "name": "Telepathic Bond"
   - "desc": "The fiend can use its action to polymorph into a Small or Medium humanoid,\
       \ or back into its true form. Without wings, the fiend loses its flying speed.\
@@ -85,32 +86,33 @@ Succubi and incubi can reproduce with one another to spawn more of their kind. L
       \ form if it dies."
     "name": "Shapechanger"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage."
     "name": "Claw (Fiend Form Only)"
   - "desc": "One humanoid the fiend can see within 30 feet of it must succeed on a\
-      \ DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target\
+      \ DC 15 Wisdom saving throw or be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ for 1 day. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
       \ obeys the fiend's verbal or telepathic commands. If the target suffers any\
       \ harm or receives a suicidal command, it can repeat the saving throw, ending\
       \ the effect on a success. If the target successfully saves against the effect,\
       \ or if the effect on it ends, the target is immune to this fiend's Charm for\
-      \ the next 24 hours.\n\nThe fiend can have only one target charmed at a time.\
-      \ If it charms another, the effect on the previous target ends."
+      \ the next 24 hours.\n\nThe fiend can have only one target [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ at a time. If it charms another, the effect on the previous target ends."
     "name": "Charm"
-  - "desc": "The fiend kisses a creature charmed by it or a willing creature. The\
-      \ target must make a DC 15 Constitution saving throw against this magic, taking\
-      \ 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a\
-      \ successful one. The target's hit point maximum is reduced by an amount equal\
-      \ to the damage taken. This reduction lasts until the target finishes a long\
-      \ rest. The target dies if this effect reduces its hit point maximum to 0."
+  - "desc": "The fiend kisses a creature [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by it or a willing creature. The target must make a DC 15 Constitution saving\
+      \ throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed\
+      \ save, or half as much damage on a successful one. The target's hit point maximum\
+      \ is reduced by an amount equal to the damage taken. This reduction lasts until\
+      \ the target finishes a long rest. The target dies if this effect reduces its\
+      \ hit point maximum to 0."
     "name": "Draining Kiss"
   - "desc": "The fiend magically enters the Ethereal Plane from the Material Plane,\
       \ or vice versa."
     "name": "Etherealness"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/incubus.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/incubus.webp"
 ```
 ^statblock
 

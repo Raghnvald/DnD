@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spotted Lion
+- "Spotted Lion"
 ---
-# [Spotted Lion](3-Mechanics\CLI\bestiary\beast/spotted-lion-bgg.md)
+# [Spotted Lion](3-Mechanics/CLI/bestiary/beast/spotted-lion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 177*  
 
 > [!quote] A quote from Bigby  
@@ -40,29 +40,28 @@ Roughly twice the size of a common lion, a spotted lion has a dusky coat and man
   - !!int "10"
 "speed": "60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 15"
+"senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "3"
 "traits":
   - "desc": "The lion has advantage on an attack roll against a creature if at least\
       \ one of the lion's allies is within 5 feet of the target and the ally doesn't\
-      \ have the [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition."
+      \ have the incapacitated condition."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) piercing damage. If the lion moved at least 20 feet straight toward\
-      \ the target immediately before the hit, the target must succeed on a DC 16\
-      \ Strength saving throw or have the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition. If the target has the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition, the lion can make another Rend attack against it as a bonus action."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) piercing damage. If the lion moved at least 20 feet straight\
+      \ toward the target immediately before the hit, the target must succeed on a\
+      \ DC 16 Strength saving throw or have the prone condition. If the target has\
+      \ the prone condition, the lion can make another Rend attack against it as a\
+      \ bonus action."
     "name": "Rend"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/spotted-lion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/spotted-lion-bgg.webp"
 ```
 ^statblock

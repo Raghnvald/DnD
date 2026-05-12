@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant of Evil Water
+- "Frost Giant of Evil Water"
 ---
-# [Frost Giant of Evil Water](3-Mechanics\CLI\bestiary\giant/frost-giant-of-evil-water-bgg.md)
+# [Frost Giant of Evil Water](3-Mechanics/CLI/bestiary/giant/frost-giant-of-evil-water-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 146*  
 
 > [!quote] A quote from Bigby  
@@ -29,7 +29,7 @@ Olhydra grants these frost giants the ability to breathe underwater, and they wi
 "type": "giant"
 "alignment": "typically  Neutral Evil"
 "ac": !!int "16"
-"ac_class": "[scale mail](/3-Mechanics/CLI/items/scale-mail-xphb.md)"
+"ac_class": "scale mail"
 "hp": !!int "172"
 "hit_dice": "15d12 + 75"
 "modifier": !!int "3"
@@ -46,11 +46,13 @@ Olhydra grants these frost giants the ability to breathe underwater, and they wi
   - "constitution": !!int "9"
   - "wisdom": !!int "6"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
 "damage_immunities": "cold"
+"gear":
+  - "battleaxe"
 "senses": "passive Perception 16"
 "languages": "Aquan, Common, Giant"
 "cr": "11"
@@ -60,24 +62,23 @@ Olhydra grants these frost giants the ability to breathe underwater, and they wi
 "actions":
   - "desc": "The giant makes two Battleaxe attacks and one Harpoon attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) slashing damage, or 22 (3d10 + 6) slashing damage if used with two\
-      \ hands, plus 7 (2d6) cold damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) slashing damage, or 22 (3d10 + 6) slashing damage if used\
+      \ with two hands, plus 7 (2d6) cold damage."
     "name": "Battleaxe"
-  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 50/200 ft., one creature. *Hit:*\
-      \ 14 (2d10 + 3) piercing damage, and the target has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 16). While the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ this way, its speed isn't reduced, but it can't move farther from the giant.\
-      \ The target takes 5 (1d10) slashing damage if it escapes from the grapple or\
-      \ if it tries and fails. The giant can grapple only one target at a time with\
-      \ its harpoon."
+  - "desc": "*Ranged Weapon Attack:* +7 to hit, range 50/200 ft., one creature.\
+      \ *Hit:* 14 (2d10 + 3) piercing damage, and the target has the grappled condition\
+      \ (escape DC 16). While the target is grappled this way, its speed isn't reduced,\
+      \ but it can't move farther from the giant. The target takes 5 (1d10) slashing\
+      \ damage if it escapes from the grapple or if it tries and fails. The giant\
+      \ can grapple only one target at a time with its harpoon."
     "name": "Harpoon"
 "bonus_actions":
-  - "desc": "The giant pulls the target [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ by its Harpoon up to 20 feet toward itself."
+  - "desc": "The giant pulls the target grappled by its Harpoon up to 20 feet toward\
+      \ itself."
     "name": "Reel In"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-of-evil-water-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/frost-giant-of-evil-water-bgg.webp"
 ```
 ^statblock

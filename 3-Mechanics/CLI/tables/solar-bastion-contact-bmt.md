@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Solar Bastion Contact
+- "Solar Bastion Contact"
 ---
 # Solar Bastion Contact
 *Source: The Book of Many Things p. 79* 
 
 **Solar Bastion Contact**
-
-`dice: [](solar-bastion-contact-bmt.md#^solar-bastion-contact)`
 
 | dice: d6 | Contact |
 |----------|---------|

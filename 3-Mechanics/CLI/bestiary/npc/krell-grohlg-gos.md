@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Krell Grohlg
+- "Krell Grohlg"
 ---
-# [Krell Grohlg](3-Mechanics\CLI\bestiary\npc/krell-grohlg-gos.md)
+# [Krell Grohlg](3-Mechanics/CLI/bestiary/npc/krell-grohlg-gos.md)
 *Source: Ghosts of Saltmarsh p. 92*  
 
 ```statblock
@@ -41,6 +41,8 @@ aliases:
     "desc": "+3"
   - "name": "Perception"
     "desc": "+4"
+"gear":
+  - "quarterstaff"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common, Orc"
 "cr": "2"
@@ -54,12 +56,13 @@ aliases:
   - "desc": "Krell"
     "name": "Relentless Endurance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +6 to hit (+4 to hit with shillelagh), reach 5\
-      \ ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage, 8 (1d8 + 4) bludgeoning\
-      \ damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh."
+  - "desc": "*Melee Weapon Attack:* +6 to hit (+4 to hit with shillelagh), reach\
+      \ 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage, 8 (1d8 + 4)\
+      \ bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning\
+      \ damage with shillelagh."
     "name": "Quarterstaff"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/krell-grohlg-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/krell-grohlg-gos.webp"
 ```
 ^statblock

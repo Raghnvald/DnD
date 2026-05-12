@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Orc Nurtured One of Yurtrus
+- "Orc Nurtured One of Yurtrus"
 ---
-# [Orc Nurtured One of Yurtrus](3-Mechanics\CLI\bestiary\humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
+# [Orc Nurtured One of Yurtrus](3-Mechanics/CLI/bestiary/humanoid/orc-nurtured-one-of-yurtrus-vgm.md)
 *Source: Volo's Guide to Monsters p. 184*  
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
@@ -51,8 +51,8 @@ In addition, orcs have special relationships with two creatures that are sometim
   - !!int "11"
   - !!int "7"
 "speed": "30 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Orc"
 "cr": "1/2"
 "traits":
@@ -61,25 +61,25 @@ In addition, orcs have special relationships with two creatures that are sometim
     "name": "Aggressive"
   - "desc": "When the orc is reduced to 0 hit points, it explodes, and any creature\
       \ within 10 feet of it must make a DC 13 Constitution saving throw. On a failed\
-      \ save, the creature takes 14 (4d6) poison damage and becomes [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ On a success, the creature takes half as much damage and isn't [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ A creature [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) by this effect\
-      \ can repeat the save at the end of each of its turn, ending the effect on itself\
-      \ on a success. While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) by\
-      \ this effect, a creature can't regain hit points."
+      \ save, the creature takes 14 (4d6) poison damage and becomes [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ On a success, the creature takes half as much damage and isn't [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ A creature [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) by this\
+      \ effect can repeat the save at the end of each of its turn, ending the effect\
+      \ on itself on a success. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ by this effect, a creature can't regain hit points."
     "name": "Corrupted Carrier"
   - "desc": "The orc has advantage on saving throws against poison and disease."
     "name": "Nurtured One of Yurtrus"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) slashing damage plus 2 (1d4) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) slashing damage plus 2 (1d4) necrotic damage."
     "name": "Claws"
   - "desc": "The orc reduces itself to 0 hit points, triggering its Corrupted Carrier\
       \ trait."
     "name": "Corrupted Vengeance"
 "source":
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp"
 ```
 ^statblock
 

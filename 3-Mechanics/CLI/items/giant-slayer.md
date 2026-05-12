@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Giant Slayer"
 - "Giant Slayer Battleaxe"
 - "Giant Slayer Double-Bladed Scimitar"
@@ -24,12 +24,12 @@ aliases:
 ---
 # Giant Slayer
 *Major, rare*  
-![](/3-Mechanics/CLI/items/img/giant-slayer.webp#right)
+![](3-Mechanics/CLI/items/img/giant-slayer.webp#right)
 
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-When you hit a giant with it, the giant takes an extra `dice:2d6|noform|noparens|avg` (`2d6`) damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall [prone](/3-Mechanics/CLI/conditions.md#Prone). For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.
+When you hit a giant with it, the giant takes an extra `2d6` damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall prone. For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.
 
 **Variants**:
 - [Giant Slayer Battleaxe](#Giant%20Slayer%20Battleaxe)
@@ -47,32 +47,32 @@ When you hit a giant with it, the giant takes an extra `dice:2d6|noform|noparens
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Giant Slayer Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Giant Slayer Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Giant Slayer Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Longsword
@@ -80,25 +80,25 @@ When you hit a giant with it, the giant takes an extra `dice:2d6|noform|noparens
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Giant Slayer Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Giant Slayer Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 

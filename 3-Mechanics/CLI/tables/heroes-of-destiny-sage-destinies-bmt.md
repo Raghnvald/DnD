@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Heroes of Destiny; Sage Destinies
+- "Heroes of Destiny; Sage Destinies"
 ---
 # Heroes of Destiny; Sage Destinies
 *Source: The Book of Many Things p. 47* 
 
 **Sage Destinies**
-
-`dice: [](heroes-of-destiny-sage-destinies-bmt.md#^sage-destinies)`
 
 | dice: 1d22 | Card | Heroic Tie |
 |------------|------|------------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Sea Serpent
+- "Ancient Sea Serpent"
 ---
-# [Ancient Sea Serpent](3-Mechanics\CLI\bestiary\dragon/ancient-sea-serpent-ftd.md)
+# [Ancient Sea Serpent](3-Mechanics/CLI/bestiary/dragon/ancient-sea-serpent-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 219*  
 
 Sea serpents rank alongside dragon turtles as some of the most feared predators of the deep and inspire many sailors' worst nightmares. Their strong fins propel them through the water at great speed.
@@ -45,13 +45,12 @@ Living amid the wreckage of sunken ships or in deep sea caves, sea serpents coll
   - "strength": !!int "12"
   - "constitution": !!int "10"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+7"
 "damage_immunities": "cold"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Common, Draconic"
 "cr": "14"
 "traits":
@@ -64,22 +63,22 @@ Living amid the wreckage of sunken ships or in deep sea caves, sea serpents coll
 "actions":
   - "desc": "The sea serpent makes one Bite attack and one Constrict or Tail attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 20\
-      \ (2d12 + 7) piercing damage plus 6 (1d12) cold damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:*\
+      \ 20 (2d12 + 7) piercing damage plus 6 (1d12) cold damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +12 to hit, reach 20 ft., one creature. *Hit:*\
-      \ 29 (4d10 + 7) bludgeoning damage, and the target is [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ (escape DC 20). Until this grapple ends, the target is [restrained](/3-Mechanics/CLI/conditions.md#Restrained),\
-      \ and the sea serpent can't constrict another target."
+      \ 29 (4d10 + 7) bludgeoning damage, and the target is grappled (escape DC\
+      \ 20). Until this grapple ends, the target is restrained, and the sea serpent\
+      \ can't constrict another target."
     "name": "Constrict"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 20 ft., one target. *Hit:* 13\
-      \ (1d12 + 7) bludgeoning damage. If the target is a creature, it must succeed\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 20 ft., one target. *Hit:*\
+      \ 13 (1d12 + 7) bludgeoning damage. If the target is a creature, it must succeed\
       \ on a DC 20 Strength saving throw or be pushed up to 30 feet away from the\
-      \ sea serpent and knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ sea serpent and knocked prone."
     "name": "Tail"
   - "desc": "The sea serpent exhales a 60-foot cone of cold. Each creature in that\
-      \ area must make a DC 18 Constitution saving throw, taking 49 (9d10) cold damage\
-      \ on a failed save, or half as much damage on a successful one."
+      \ area must make a DC 18 Constitution saving throw, taking 49 (9d10) cold\
+      \ damage on a failed save, or half as much damage on a successful one."
     "name": "Rime Breath (Recharge 5-6)"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the ancient sea serpent can expend a use to take one of the following actions.\
@@ -92,6 +91,6 @@ Living amid the wreckage of sunken ships or in deep sea caves, sea serpents coll
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-sea-serpent-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-sea-serpent-ftd.webp"
 ```
 ^statblock

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kuo-toa Monitor
+- "Kuo-toa Monitor"
 ---
-# [Kuo-toa Monitor](3-Mechanics\CLI\bestiary\humanoid/kuo-toa-monitor.md)
+# [Kuo-toa Monitor](3-Mechanics/CLI/bestiary/humanoid/kuo-toa-monitor.md)
 *Source: Monster Manual p. 198*  
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -48,9 +48,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 > 
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 > 
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d4+2|noform|noparens|avg|text(4)` (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
 > 
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: `dice:1d6+2|noform|noparens|avg|text(5)` (`1d6 + 2`) bludgeoning damage + `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
@@ -78,26 +78,26 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
   - !!int "11"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 16"
 "languages": "Undercommon"
 "cr": "3"
 "traits":
   - "desc": "The kuo-toa can breathe air and water."
     "name": "Amphibious"
   - "desc": "The kuo-toa can sense the presence of any creature within 30 feet of\
-      \ it that is [invisible](/3-Mechanics/CLI/conditions.md#Invisible) or on the\
-      \ Ethereal Plane. It can pinpoint such a creature that is moving."
+      \ it that is [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) or on\
+      \ the Ethereal Plane. It can pinpoint such a creature that is moving."
     "name": "Otherworldly Perception"
   - "desc": "The kuo-toa has advantage on ability checks and saving throws made to\
       \ escape a grapple."
     "name": "Slippery"
   - "desc": "While in sunlight, the kuo-toa has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
   - "desc": "The kuo-toa adds its Wisdom modifier to its armor class."
@@ -105,16 +105,16 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 "actions":
   - "desc": "The kuo-toa makes one bite attack and two unarmed strikes."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't\
-      \ take reactions until the end of the kuo-toa's next turn."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target\
+      \ can't take reactions until the end of the kuo-toa's next turn."
     "name": "Unarmed Strike"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/kuo-toa-monitor.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/kuo-toa-monitor.webp"
 ```
 ^statblock
 

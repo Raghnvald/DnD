@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Urban Bounty Hunter
+- "Urban Bounty Hunter"
 ---
 # Urban Bounty Hunter
 *Source: Sword Coast Adventurer's Guide p. 153*  
 
 
-- **Skill Proficiencies.** Choose two from among [Deception](/3-Mechanics/CLI/skills.md#Deception), [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion), and [Stealth](/3-Mechanics/CLI/skills.md#Stealth)  
-- **Tool Proficiencies.** Choose two from among one type of gaming set, one musical instrument, and [thieves' tools](/3-Mechanics/CLI/items/thieves-tools-xphb.md)  
-- **Equipment.** A set of clothes appropriate to your duties and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 20 gp  
+- **Skill Proficiencies.** Choose two from among [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion), and [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)  
+- **Tool Proficiencies.** Choose two from among one type of gaming set, one musical instrument, and [thieves' tools](3-Mechanics/CLI/items/thieves-tools-xphb.md)  
+- **Equipment.** A set of clothes appropriate to your duties and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 20 gp  
 
 Before you became an adventurer, your life was already full of conflict and excitement, because you made a living tracking down people for pay. Unlike some people who collect bounties, though, you aren't a savage who follows quarry into or through the wilderness. You're involved in a lucrative trade, in the place where you live, that routinely tests your skills and survival instincts. What's more, you aren't alone, as a bounty hunter in the wild would be: you routinely interact with both the criminal subculture and other bounty hunters, maintaining contacts in both areas to help you succeed.
 
@@ -28,6 +28,6 @@ You are in frequent contact with people in the segment of society that your chos
 
 ## Suggested Characteristics
 
-Use the tables for the [criminal](/3-Mechanics/CLI/backgrounds/criminal-xphb.md) background in the Player's Handbook as the basis for your bounty hunter's traits and motivations, modifying the entries when appropriate to suit your identity as a bounty hunter.
+Use the tables for the [criminal](3-Mechanics/CLI/backgrounds/criminal-xphb.md) background in the Player's Handbook as the basis for your bounty hunter's traits and motivations, modifying the entries when appropriate to suit your identity as a bounty hunter.
 
 For instance, your bond might involve other bounty hunters or the organizations or individuals that employ you. Your ideal could be associated with your determination always to catch your quarry or your desire to maintain your reputation for being dependable.

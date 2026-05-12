@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 aliases:
-- Supernatural Hooks
+- "Supernatural Hooks"
 ---
 # Supernatural Hooks
 *Source: Dungeon Master's Guide (2024) p. 111* 
 
 **Supernatural Hooks**
-
-`dice: [](supernatural-hooks-xdmg.md#^supernatural-hooks)`
 
 | dice: 1d6 | Hook |
 |-----------|------|

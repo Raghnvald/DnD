@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/1-4
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Swarm of Animated Books
+- "Swarm of Animated Books"
 ---
-# [Swarm of Animated Books](3-Mechanics\CLI\bestiary\construct/swarm-of-animated-books-cm.md)
+# [Swarm of Animated Books](3-Mechanics/CLI/bestiary/construct/swarm-of-animated-books-cm.md)
 *Source: Candlekeep Mysteries p. 19*  
 
 ```statblock
@@ -53,11 +53,11 @@ aliases:
     "name": "Swarm"
 "actions":
   - "desc": "*Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's\
-      \ space. *Hit:* 6 (2d4 + 1) bludgeoning damage, or 3 (1d4 + 1) bludgeoning damage\
-      \ if the swarm has half its hit points or fewer."
+      \ space. *Hit:* 6 (2d4 + 1) bludgeoning damage, or 3 (1d4 + 1) bludgeoning\
+      \ damage if the swarm has half its hit points or fewer."
     "name": "Book Club"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/swarm-of-animated-books-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/swarm-of-animated-books-cm.webp"
 ```
 ^statblock

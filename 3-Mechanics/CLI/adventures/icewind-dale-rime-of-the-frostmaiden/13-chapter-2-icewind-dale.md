@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/idrotf
+- ttrpg-cli/compendium/src/5e/idrotf
 aliases:
-- Chapter 2: Icewind Dale
+- "Chapter 2: Icewind Dale"
 ---
 # Chapter 2: Icewind Dale
 *Source: Icewind Dale: Rime of the Frostmaiden, p. 101* 
@@ -14,11 +14,11 @@ Katabatic winds sweep down from the Reghed Glacier, ceaselessly battering anythi
 
 The sun, held down below the horizon by the Frostmaiden's magic, offers no respite from winter's fury. The days are twilit, the nights dark. As Auril casts her nightly spell, a curtain of light weaves across the starry sky to keep the dawn at bay—an aurora that portends an everlasting winter. Storms bring driving hail and sleet that leaves everything coated in a sheath of ice. Snow piles in deep drifts and blocks all trails leading south to warmer lands. The ice cliffs of the Reghed Glacier rise in the east like prison walls, while the snow-capped peaks of the Spine of the World loom to the south. North and west, the Sea of Moving Ice churns icebergs and floes in a deadly tumult, like winter grinding its teeth in anticipation of its next freezing assault.
 
-Trapped in winter's cold embrace, nomadic humans follow herds of [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) through their migrations, while others dare the treacherous waters of the Sea of Moving Ice in search of fish, seals, walruses, and whales to sustain them. Dwarves dig into the earth to seek shelter and mine for iron. Meanwhile, folk descended from foolhardy and treasure-mad immigrants eke out meager lives in Ten-Towns, which can barely hold back the wind, let alone marauding orcs, giants, and fierce tundra yeti.
+Trapped in winter's cold embrace, nomadic humans follow herds of [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) through their migrations, while others dare the treacherous waters of the Sea of Moving Ice in search of fish, seals, walruses, and whales to sustain them. Dwarves dig into the earth to seek shelter and mine for iron. Meanwhile, folk descended from foolhardy and treasure-mad immigrants eke out meager lives in Ten-Towns, which can barely hold back the wind, let alone marauding orcs, giants, and fierce tundra yeti.
 
 Despite the unnatural cold and other dangers, people still brave the journey to reach this harsh winterscape, searching for opportunity and adventure.
 
-![The goblin fortress of Kar...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/089-02-000-chapter-splash.webp#center "The goblin fortress of Karkolohk perches atop a rocky spur in the foothills of the Spine of the World")
+![The goblin fortress of Karkolohk perches atop a rocky spur in the foothills of the Spine of the World](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/089-02-000-chapter-splash.webp#center)
 
 ## Running This Chapter
 
@@ -44,8 +44,6 @@ You can either choose which tales to share with the players, or you can ask each
 
 **Tall Tales in Ten-Towns**
 
-`dice: [](13-chapter-2-icewind-dale.md#^tall-tales-in-ten-towns)`
-
 | dice: d20 | Tale |
 |-----------|------|
 | 1–2 | "They say the Frostmaiden lives on a misty isle hidden among the bergs in the Sea of Moving Ice. There's a mighty strange whale with a boat on its back that swims in those frigid waters. I bet it knows where the island is! You can catch the whale at Angajuk's Bell, an old anchorage, but you must ring the bell hanging by the pier to call it." (See "Angajuk's Bell") |
@@ -56,12 +54,12 @@ You can either choose which tales to share with the players, or you can ask each
 | 11–12 | "Frost giants ruled this land long ago. Their leaders, the jarls, would meet atop a hill to the west to settle disputes. Their thrones still rest on that hill." (See "Jarlmoot") |
 | 13–14 | "Goblin scavengers prowl the tundra on the backs of wolves or in wagons. They also like to ambush travelers on the Ten Trail on this side of the mountain pass. Well, a group of trappers found the goblins' fortress in the mountains. Someone should go there and wreck it." (See "Karkolohk") |
 | 15–16 | "Did you hear what happened to that evil wizard in Easthaven? They tied him to a stake and lit him on fire! Why? 'Cause he hired some Ten-Towners to help him find a buried tower, then killed 'em to keep its location secret. Well, one of 'em told me where the tower's at! I wouldn't go myself, but maybe it's somethin' you'd like to explore." (See "Lost Spire of Netheril") |
-| 17 | "If you're looking for something hidden in Icewind Dale, the people you should talk to are the Reghed nomads. They know every inch of this land and all its secrets. The tricky part is finding them. They tend to follow the [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) herds." (See "Reghed Tribe Camp") |
+| 17 | "If you're looking for something hidden in Icewind Dale, the people you should talk to are the Reghed nomads. They know every inch of this land and all its secrets. The tricky part is finding them. They tend to follow the [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) herds." (See "Reghed Tribe Camp") |
 | 18 | "I keep telling everyone the Everlasting Rime isn't the Frostmaiden's doing. It's actually the Arcane Brotherhood, plotting another takeover of Ten-Towns! A wizard who was burned at the stake in Easthaven admitted to being one of them, and he said there are other Arcane Brotherhood wizards lurking among us. Vaelish Gant is behind it all, no doubt. The scoundrel is locked away in Revel's End, but that doesn't make him any less dangerous. Someone should find out what he knows!" (See "Revel's End") |
 | 19–20 | "We don't see goliaths much around here, but there are two feuding clans in the Spine of the World. I bet if someone from Ten-Towns were to help them put aside their differences, all the goliaths would benefit. I'd sure like to meet a goliath someday!" (See "Skytower Shelter" and "Wyrmdoom Crag") |
 ^tall-tales-in-ten-towns
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/090-02-001.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/090-02-001.webp#center)
 
 ### Icewind Dale Quests
 
@@ -71,7 +69,7 @@ Instead of enticing players with the tall tales in the previous section, you can
 
 Angajuk's Bell quest (see "Angajuk's Bell")
 
-Ten-Towners need whale oil to keep their stoves and lamps lit, and most of that oil comes from whale hunters on the Sea of Moving Ice, which has grown more tempestuous and difficult to navigate in recent months. Helka Jaggerath (half-elf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a whale oil merchant in Bryn Shander, hires the characters to serve as her bodyguards as she travel to Angajuk's Bell and rings the bell to summon the whale. There, they must help her persuade the awakened [sperm whale](/3-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md) to ferry them to the whalers camped on the ice floes of the Sea of Moving Ice so that Helka can buy as many casks of whale oil as she can.
+Ten-Towners need whale oil to keep their stoves and lamps lit, and most of that oil comes from whale hunters on the Sea of Moving Ice, which has grown more tempestuous and difficult to navigate in recent months. Helka Jaggerath (half-elf [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)), a whale oil merchant in Bryn Shander, hires the characters to serve as her bodyguards as she travel to Angajuk's Bell and rings the bell to summon the whale. There, they must help her persuade the awakened [sperm whale](3-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md) to ferry them to the whalers camped on the ice floes of the Sea of Moving Ice so that Helka can buy as many casks of whale oil as she can.
 
 Each cask of whale oil weighs 50 pounds and costs 25 gp. Helka has 300 gp, which is enough to buy six casks of whale oil and to pay the characters 150 gp for their help getting the casks safely back to Bryn Shander. She expects the entire expedition to last a tenday, assuming Angajuk cooperates. Helka cautions the characters not to tell Angajuk what's in the casks, since the truth might upset the whale. Her plan is to tell Angajuk that the casks contain fish oil, not whale oil.
 
@@ -97,7 +95,7 @@ The tavernkeepers of Five-Tavern Center in Bremen are bemoaning their dwindling 
 
 Id Ascendant quest (see "Id Ascendant")
 
-The characters are approached by four psychically sensitive Ten-Towners (human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) who have been kept awake by a telepathic distress signal that it seems only they can hear. They were drawn together by this common experience. They don't understand the message (which is in Deep Speech) but know the direction it's coming from. They offer the characters 250 gp to investigate the source of the signal and silence it, if only so they can get a good night's sleep. These Ten-Towners are briefly described below:
+The characters are approached by four psychically sensitive Ten-Towners (human [commoners](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) who have been kept awake by a telepathic distress signal that it seems only they can hear. They were drawn together by this common experience. They don't understand the message (which is in Deep Speech) but know the direction it's coming from. They offer the characters 250 gp to investigate the source of the signal and silence it, if only so they can get a good night's sleep. These Ten-Towners are briefly described below:
 
 - Vedda Starsprit, a stocky, paranoid, 30-year-old trapper with exotropia  
 - Nars Beldrun, a tall, heavyset, 33-year-old shipwright from Targos who complains about everything  
@@ -108,9 +106,9 @@ The characters are approached by four psychically sensitive Ten-Towners (human [
 
 Jarlmoot quest (see "Jarlmoot")
 
-Yselm Bloodfang, a human [frost druid](/3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C), is a former Reghed nomad of the Tiger Tribe who gave up the nomadic lifestyle and settled in Ten-Towns three years ago, before Auril's everlasting winter beset Icewind Dale. A secret Auril worshiper, Yselm is known throughout Ten-Towns as a skilled wilderness guide. She recently encountered an avatar of the Frostmaiden—a female figure made of snow—that commanded her to find the characters and lead them to their doom. To that end, Yselm approaches the characters and claims to be looking for work. She tells them about Jarlmoot ("a circle of giant thrones on a haunted hilltop") and offers to lead them there for 25 gp. "On nights of the full moon," she adds, "the spirit of Reggaryarva, jarl of jarls, will open his treasure vault to anyone who defeats his champion."
+Yselm Bloodfang, a human [frost druid](3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C), is a former Reghed nomad of the Tiger Tribe who gave up the nomadic lifestyle and settled in Ten-Towns three years ago, before Auril's everlasting winter beset Icewind Dale. A secret Auril worshiper, Yselm is known throughout Ten-Towns as a skilled wilderness guide. She recently encountered an avatar of the Frostmaiden—a female figure made of snow—that commanded her to find the characters and lead them to their doom. To that end, Yselm approaches the characters and claims to be looking for work. She tells them about Jarlmoot ("a circle of giant thrones on a haunted hilltop") and offers to lead them there for 25 gp. "On nights of the full moon," she adds, "the spirit of Reggaryarva, jarl of jarls, will open his treasure vault to anyone who defeats his champion."
 
-Yselm knows the way to Jarlmoot but doesn't help the characters fight any threats they encounter on the way, nor will she enter the circle of thrones or assist in the battle against Reggaryarva's champion. If the characters overcome the challenges posed by Reggaryarva, Yselm betrays and attacks them. A [winter wolf](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) sent by the Frostmaiden joins the fray on Yselm's side. Both villains fight to the death.
+Yselm knows the way to Jarlmoot but doesn't help the characters fight any threats they encounter on the way, nor will she enter the circle of thrones or assist in the battle against Reggaryarva's champion. If the characters overcome the challenges posed by Reggaryarva, Yselm betrays and attacks them. A [winter wolf](3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) sent by the Frostmaiden joins the fray on Yselm's side. Both villains fight to the death.
 
 #### Peace Out
 
@@ -126,7 +124,7 @@ Lost Spire of Netheril quest (see "Lost Spire of Netheril")
 
 Yeti are growing bold and striking closer to Ten-Towns than ever before, going so far as to venture onto frozen lakes to attack ice fishers. Local merchants who earn a living selling yeti hides and meat are offering up to 100 gp for every dead yeti brought back to Ten-Towns.
 
-A hunter named Mylbor Tafferac (neutral evil human [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md) with Survival Survival (`dice:1d20+7|noform|noparens|text(+7)`)) has been scouring the tundra for the Red Yeti—a yeti so terrifying and cruel that its fur is stained red with the blood of its kills. One night at a tavern, Mylbor bets the characters 300 gp that he'll find and kill the Red Yeti before they can. If the characters take the bet, the contest sparks excitement in taverns across Ten-Towns, leading to all sorts of side-betting.
+A hunter named Mylbor Tafferac (neutral evil human [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator.md) with [Survival](3-Mechanics/CLI/rules/skills.md#Survival) [Survival](3-Mechanics/CLI/rules/skills.md#Survival) (`+7`)) has been scouring the tundra for the Red Yeti—a yeti so terrifying and cruel that its fur is stained red with the blood of its kills. One night at a tavern, Mylbor bets the characters 300 gp that he'll find and kill the Red Yeti before they can. If the characters take the bet, the contest sparks excitement in taverns across Ten-Towns, leading to all sorts of side-betting.
 
 The characters' search for the Red Yeti leads to the accidental discovery of the Lost Spire of Netheril. Only after the characters explore the lost spire and return to Ten-Towns do they discover the Red Yeti is dead—found and killed by the incomparable Mylbor Tafferac.
 
@@ -134,9 +132,9 @@ The characters' search for the Red Yeti leads to the accidental discovery of the
 
 Reghed Tribe Camp quest (see "Reghed Tribe Camp")
 
-After several furriers and trappers disappear without a trace, a representative of the Wolf Tribe named Aluka (chaotic good [werewolf](/3-Mechanics/CLI/bestiary/humanoid/werewolf.md) in human form) comes to Ten-Towns with a warning: a Wolf Tribe camp under the command of an evil chieftain named Sangra Grisgir is resorting to cannibalism to survive. The furriers and trappers are merely the camp's latest victims, and more disappearances are likely to occur unless the cannibals are dealt with. Aluka gives directions to the camp, but she can't risk an all-out war within her tribe, hence her decision to let Ten-Towns and the characters deal with the problem.
+After several furriers and trappers disappear without a trace, a representative of the Wolf Tribe named Aluka (chaotic good [werewolf](3-Mechanics/CLI/bestiary/humanoid/werewolf.md) in human form) comes to Ten-Towns with a warning: a Wolf Tribe camp under the command of an evil chieftain named Sangra Grisgir is resorting to cannibalism to survive. The furriers and trappers are merely the camp's latest victims, and more disappearances are likely to occur unless the cannibals are dealt with. Aluka gives directions to the camp, but she can't risk an all-out war within her tribe, hence her decision to let Ten-Towns and the characters deal with the problem.
 
-The Wolf Tribe cannibals have eaten all their sled dogs and their elderly. Even the children have been forced to resort to cannibalism to survive. If the characters act quickly, they can save the life of a lightfoot halfling trapper ([commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md)) named Honeybee Littlebucket, who has managed to stay alive by convincing the Wolf tribesfolk that she can catch snowshoe hares for them to eat. So far, Honeybee's traps have caught nothing, and her time (and Chief Grisgir's patience) is quickly running out.
+The Wolf Tribe cannibals have eaten all their sled dogs and their elderly. Even the children have been forced to resort to cannibalism to survive. If the characters act quickly, they can save the life of a lightfoot halfling trapper ([commoner](3-Mechanics/CLI/bestiary/humanoid/commoner.md)) named Honeybee Littlebucket, who has managed to stay alive by convincing the Wolf tribesfolk that she can catch snowshoe hares for them to eat. So far, Honeybee's traps have caught nothing, and her time (and Chief Grisgir's patience) is quickly running out.
 
 #### Behind Bars
 
@@ -148,7 +146,7 @@ Duvessa Shane, the speaker of Bryn Shander, is worried about rumors that the Arc
 
 Skytower Shelter quest (see "Skytower Shelter")
 
-Kwan the Monolith Akannathi, a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C), left Skytower Shelter on a quest to find Oyaminartok but ended up in Ten-Towns, where she indulged her addiction to games of chance. She recently dishonored herself by resorting to thievery to cover her gambling debts. Now she wants to atone. She asks the characters to help her return to Skytower Shelter and convince Arn, chieftain of the Akannathi clan, to put aside grievances and unite the goliaths of Skytower Shelter and Wyrmdoom Crag toward a common purpose: bringing an end to the Frostmaiden's everlasting winter. Kwan has a stolen figurine of wondrous power (silver raven) that she offers the characters as a reward for their help.
+Kwan the Monolith Akannathi, a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C), left Skytower Shelter on a quest to find Oyaminartok but ended up in Ten-Towns, where she indulged her addiction to games of chance. She recently dishonored herself by resorting to thievery to cover her gambling debts. Now she wants to atone. She asks the characters to help her return to Skytower Shelter and convince Arn, chieftain of the Akannathi clan, to put aside grievances and unite the goliaths of Skytower Shelter and Wyrmdoom Crag toward a common purpose: bringing an end to the Frostmaiden's everlasting winter. Kwan has a stolen figurine of wondrous power (silver raven) that she offers the characters as a reward for their help.
 
 #### Dragon Bone Stew
 
@@ -156,7 +154,7 @@ Wyrmdoom Crag quest (see "Wyrmdoom Crag")
 
 Dannika Graysteel, a scholar whom the characters might know from an earlier quest (see "Starting Quest: Nature Spirits"), asks the characters to bring her some white dragon bones. Dannika has acquired a recipe for a magical stew that imparts the same benefit as a potion of resistance (cold). She thinks she can make a good supply of the stew if she gets enough bones, which are the last ingredients she needs. Dannika has heard rumors that the bones of a white dragon can be found on a mountainside near Wyrmdoom Crag, and she suggests the characters travel there and beseech the goliaths of the crag to part with a few of the bones. Dannika will give her first batch of stew to the characters for free (the equivalent of one potion each) if they help her.
 
-Although the recipe is genuine, Dannika doesn't realize that consuming dragon bone stew also causes madness, inflicting upon those who drink it the greed and paranoia of a dragon, which can be cured only by a greater restoration spell or similar magic.
+Although the recipe is genuine, Dannika doesn't realize that consuming dragon bone stew also causes madness, inflicting upon those who drink it the greed and paranoia of a dragon, which can be cured only by a [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md) spell or similar magic.
 
 ## Wilderness Encounters
 
@@ -164,11 +162,9 @@ As the adventurers explore Icewind Dale, they might come upon friendly, indiffer
 
 You decide if and when random encounters occur. Use them judiciously. One or two per game session is usually enough.
 
-If you're not sure how often to schedule random encounters in a 24-hour period, you can leave it to chance by rolling a `dice:d8|noform|noparens|avg` (`d8`) and consulting the Number of Wilderness Encounters table.
+If you're not sure how often to schedule random encounters in a 24-hour period, you can leave it to chance by rolling a `d8` and consulting the Number of Wilderness Encounters table.
 
 **Number of Wilderness Encounters**
-
-`dice: [](13-chapter-2-icewind-dale.md#^number-of-wilderness-encounters)`
 
 | dice: d8 | Number of Encounters |
 |----------|----------------------|
@@ -176,24 +172,22 @@ If you're not sure how often to schedule random encounters in a 24-hour period, 
 | 2 | One encounter in the afternoon (noon to dusk) |
 | 3 | One encounter in the evening (dusk to midnight) |
 | 4 | One encounter at night (midnight to dawn) |
-| 5–6 | Two encounters; roll a `dice:d4\|noform\|noparens\|avg` (`d4`) on this table to determine when each encounter occurs |
+| 5–6 | Two encounters; roll a `d4` on this table to determine when each encounter occurs |
 | 7–8 | No random encounter |
 ^number-of-wilderness-encounters
 
 ### Running Wilderness Encounters
 
-When you're ready to stage an encounter in the wilderness, roll two 20-sided dice of different colors. The first `dice:d20|noform|noparens|avg` (`d20`) is the **encounter die**; the second `dice:d20|noform|noparens|avg` (`d20`) is the **blizzard die**. Use them as follows:
+When you're ready to stage an encounter in the wilderness, roll two 20-sided dice of different colors. The first `d20` is the **encounter die**; the second `d20` is the **blizzard die**. Use them as follows:
 
 - Roll the encounter die and consult the Random Wilderness Encounters table to determine what the characters come across.  
-- Roll the blizzard die and add 1. If this total is higher than the encounter die roll, the encounter takes place during a blizzard (see "Blizzards"). The blizzard starts `dice:1d4|noform|noparens|avg` (`1d4`) hours before the encounter is triggered and ends `dice:1d4|noform|noparens|avg` (`1d4`) hours after it is resolved.  
+- Roll the blizzard die and add 1. If this total is higher than the encounter die roll, the encounter takes place during a blizzard (see "Blizzards"). The blizzard starts `1d4` hours before the encounter is triggered and ends `1d4` hours after it is resolved.  
 
 The Random Wilderness Encounters table is structured so that certain monsters are more likely to be encountered in a blizzard than others. For example, at the two extremes, yetis are always encountered in a blizzard, whereas perytons almost never are.
 
 Some the random encounters are designed to test the characters in battle, while others encourage roleplaying. All of them paint a picture of Icewind Dale as a harsh realm full of a wide variety of creatures struggling to survive. An encounter's difficulty—noted as Easy, Medium, Hard, or Deadly in the Difficulty column of the Random Wilderness Encounters table—assumes the characters are 4th, 5th, or 6th level. It's okay for some encounters to be easy and others to be hard or deadly. Easy encounters build players' confidence; hard and deadly encounters force players to weigh their characters' options and think outside the box. If the characters find themselves in a tough spot, give the players time to try to find a way out of it, encourage them to be creative, and award inspiration when appropriate.
 
 **Random Wilderness Encounters**
-
-`dice: [](13-chapter-2-icewind-dale.md#^random-wilderness-encounters)`
 
 | dice: d20 | Encounter | Difficulty |
 |-----------|-----------|------------|
@@ -223,21 +217,21 @@ Some the random encounters are designed to test the characters in battle, while 
 
 #### Arveiaturace
 
-Known to Ten-Towners as the White Wyrm, Arveiaturace is an [ancient white dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md) that lairs atop the Reghed Glacier. She remains the most fearsome predator in Icewind Dale, although age has clouded her eyes with cataracts, limiting the range of her vision to 60 feet. Her blindsight, hearing, and sense of smell are undiminished, however. Fortunately for the residents of the dale, she prefers the taste of [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md), walrus, and polar bear flesh to that of humanoids. The dragon has a healthy respect for humanoids and has never threatened Ten-Towns directly, though it wouldn't take much to provoke her into doing so.
+Known to Ten-Towners as the White Wyrm, Arveiaturace is an [ancient white dragon](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md) that lairs atop the Reghed Glacier. She remains the most fearsome predator in Icewind Dale, although age has clouded her eyes with cataracts, limiting the range of her vision to 60 feet. Her [blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight), hearing, and sense of smell are undiminished, however. Fortunately for the residents of the dale, she prefers the taste of [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md), walrus, and polar bear flesh to that of humanoids. The dragon has a healthy respect for humanoids and has never threatened Ten-Towns directly, though it wouldn't take much to provoke her into doing so.
 
 At one time, Arveiaturace served a wizard named Meltharond, whose frozen corpse remains strapped to a saddle on the dragon's back. Arveiaturace has never acknowledged his death and still speaks to his body as if he were alive. He was, while he lived, her only friend and confidant.
 
-![Arveiaturace the White Wyr...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/091-02-002-dragon.webp#center "Arveiaturace the White Wyrm and Her Mysterious Rider")
+![Arveiaturace the White Wyrm and Her Mysterious Rider](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/091-02-002-dragon.webp#center)
 
 ##### Running the Encounter
 
-If this encounter takes place during a blizzard, the dragon is buried under heavy snow, waiting out the storm with her outstretched wings lying flat at her sides. Her rider is visible above the surface, looking like a frozen, desiccated corpse sitting in the snow. If the characters are close enough to touch the corpse, they're already on the dragon's back. If they attack or otherwise disturb Meltharond's corpse, the dragon tries to shake them off. Each creature on the dragon's back when she rises out of the snow must succeed on a DC 22 Dexterity saving throw or fall prone in an unoccupied space on the ground within 5 feet of her. The blizzard's wind keeps her from flying, so the characters' best hope of survival is to run away and lose themselves in the storm.
+If this encounter takes place during a blizzard, the dragon is buried under heavy snow, waiting out the storm with her outstretched wings lying flat at her sides. Her rider is visible above the surface, looking like a frozen, desiccated corpse sitting in the snow. If the characters are close enough to touch the corpse, they're already on the dragon's back. If they attack or otherwise disturb Meltharond's corpse, the dragon tries to shake them off. Each creature on the dragon's back when she rises out of the snow must succeed on a DC 22 Dexterity saving throw or fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in an unoccupied space on the ground within 5 feet of her. The blizzard's wind keeps her from flying, so the characters' best hope of survival is to run away and lose themselves in the storm.
 
-If this encounter doesn't occur during a blizzard, the characters see Arveiaturace in the sky or on the ground. If she's on the ground, she's eating a polar bear or a herd of [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) that she has killed with her breath weapon. If this encounter occurs on the Sea of Moving Ice, the characters see the dragon erupt from the water nearby with a dead walrus in her mouth; then she flies back to the Reghed Glacier to devour her meal. As long as the characters keep their distance, the White Wyrm ignores them.
+If this encounter doesn't occur during a blizzard, the characters see Arveiaturace in the sky or on the ground. If she's on the ground, she's eating a polar bear or a herd of [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) that she has killed with her breath weapon. If this encounter occurs on the Sea of Moving Ice, the characters see the dragon erupt from the water nearby with a dead walrus in her mouth; then she flies back to the Reghed Glacier to devour her meal. As long as the characters keep their distance, the White Wyrm ignores them.
 
 #### Awakened Beast
 
-The frost druids of Icewind Dale use awaken spells to imbue native beasts with an Intelligence score of 10 and the ability to speak Common or Druidic. The druids use these awakened beasts as spies and messengers. Roll a `dice:d8|noform|noparens|avg` (`d8`) and consult the Awakened Beast Encounter table to determine what kind of awakened beast the characters encounter.
+The frost druids of Icewind Dale use [awaken](3-Mechanics/CLI/spells/awaken.md) spells to imbue native beasts with an Intelligence score of 10 and the ability to speak Common or Druidic. The druids use these awakened beasts as spies and messengers. Roll a `d8` and consult the Awakened Beast Encounter table to determine what kind of awakened beast the characters encounter.
 
 ##### Running the Encounter
 
@@ -245,44 +239,42 @@ An awakened beast looks the same as its normal counterpart, except for a hint or
 
 The awakened beast that the characters encounter is smart enough to stay out of harm's way. If the beast is a dangerous predator such as a bear, tiger, or wolf, it keeps its distance from the adventuring party so as not to provoke the characters into attacking it. If it is harmed, the awakened beast retreats to a safe distance. If it's cornered and doesn't like its chances of survival, it bargains or pleads for its life. An awakened beast knows its territory well and can point characters to nearby locations of interest, food sources, or safe places to rest in exchange for its safety.
 
-An awakened beast can be persuaded to help the characters, and perhaps even join the party for a time. Convincing a neutral awakened beast to travel with the party requires an offering of food or shelter accompanied by a successful DC 10 Charisma (Persuasion) group check. If the group check succeeds, the beast remains with the party for 24 hours, after which the characters can repeat the group check to extend the duration another 24 hours. An evil awakened beast accepts any offer to join the party (no check required), hoping to gather more information about the characters or lead them into a trap.
+An awakened beast can be persuaded to help the characters, and perhaps even join the party for a time. Convincing a neutral awakened beast to travel with the party requires an offering of food or shelter accompanied by a successful DC 10 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) group check. If the group check succeeds, the beast remains with the party for 24 hours, after which the characters can repeat the group check to extend the duration another 24 hours. An evil awakened beast accepts any offer to join the party (no check required), hoping to gather more information about the characters or lead them into a trap.
 
 If asked to give its name, the awakened beast either comes up with a name on the fly or adopts a suggested name that it likes. If you're having trouble coming up with a voice for the awakened beast, try mimicking the speech of a cartoon character or a famous actor.
 
 **Awakened Beast Encounter**
 
-`dice: [](13-chapter-2-icewind-dale.md#^awakened-beast-encounter)`
-
 | dice: d8 | Awakened Beast |
 |----------|----------------|
-| 1 | [Polar bear](/3-Mechanics/CLI/bestiary/beast/polar-bear.md) |
-| 2 | Arctic [fox](/3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) (see appendix C) |
-| 3 | Snowshoe [hare](/3-Mechanics/CLI/bestiary/beast/hare-idrotf.md) (see appendix C) |
-| 4 | Snowy [owl](/3-Mechanics/CLI/bestiary/beast/owl.md) |
-| 5 | [Reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](/3-Mechanics/CLI/bestiary/beast/elk.md) stat block) with glow-in-the-dark antlers that emit dim light in a 10-foot radius |
-| 6 | Woolly [rhinoceros](/3-Mechanics/CLI/bestiary/beast/rhinoceros.md) |
-| 7 | [Saber-toothed tiger](/3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) |
-| 8 | [Wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) |
+| 1 | [Polar bear](3-Mechanics/CLI/bestiary/beast/polar-bear.md) |
+| 2 | Arctic [fox](3-Mechanics/CLI/bestiary/beast/fox-idrotf.md) (see appendix C) |
+| 3 | Snowshoe [hare](3-Mechanics/CLI/bestiary/beast/hare-idrotf.md) (see appendix C) |
+| 4 | Snowy [owl](3-Mechanics/CLI/bestiary/beast/owl.md) |
+| 5 | [Reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](3-Mechanics/CLI/bestiary/beast/elk.md) stat block) with glow-in-the-dark antlers that emit dim light in a 10-foot radius |
+| 6 | Woolly [rhinoceros](3-Mechanics/CLI/bestiary/beast/rhinoceros.md) |
+| 7 | [Saber-toothed tiger](3-Mechanics/CLI/bestiary/beast/saber-toothed-tiger.md) |
+| 8 | [Wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) |
 ^awakened-beast-encounter
 
 #### Battlehammer Dwarves
 
-The shield dwarves of Clan Battlehammer have iron mines throughout the valley that extends from the base of Kelvin's Cairn. The characters cross paths with a group of `dice:1d6+2|noform|noparens|avg` (`1d6 + 2`) shield dwarf prospectors or fishers wearing cold weather clothing, goggles, and snowshoes. The dwarves also have backpacks to hold their bedrolls, mess kits, and rations. They carry fishing tackle or miner's picks, as appropriate. The dwarves are heading home with a sleigh loaded with rock samples (if they're prospectors) or a rack of knucklehead trout (if they're fishers).
+The shield dwarves of Clan Battlehammer have iron mines throughout the valley that extends from the base of Kelvin's Cairn. The characters cross paths with a group of `1d6 + 2` shield dwarf prospectors or fishers wearing cold weather clothing, goggles, and snowshoes. The dwarves also have backpacks to hold their bedrolls, mess kits, and rations. They carry fishing tackle or miner's picks, as appropriate. The dwarves are heading home with a sleigh loaded with rock samples (if they're prospectors) or a rack of knucklehead trout (if they're fishers).
 
 ##### Running the Encounter
 
 The dwarves are eager to get back to the valley and indifferent toward adventurers. A character can shift the dwarves' attitude to friendly by speaking to them in Dwarvish. Although the dwarves are grim, which is understandable given the inclement weather, they're neither violent nor spoiling for a fight.
 
-If a stat block becomes necessary, the dwarves are lawful good [scouts](/3-Mechanics/CLI/bestiary/humanoid/battlehammer-dwarf-idrotf.md), with these changes:
+If a stat block becomes necessary, the dwarves are lawful good [scouts](3-Mechanics/CLI/bestiary/humanoid/battlehammer-dwarf-idrotf.md), with these changes:
 
-- Dwarf Traits: They have a walking speed of 25 feet and darkvision out to a range of 60 feet. They speak Common and Dwarvish. They have advantage on saving throws against poison and resistance against poison damage.  
+- Dwarf Traits: They have a walking speed of 25 feet and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 60 feet. They speak Common and Dwarvish. They have advantage on saving throws against poison and resistance against poison damage.  
 - They wield handaxes and light crossbows instead of shortswords and longbows.  
 
 Here are some dwarf names, in case you need them: Bevris, Bolhild, Darrak, Dworic, Fallthra, Gardain, Harbek, Holst, Jarana, Kalanor, Morgrail, Nora, Nordak, Olunt, and Ulf.
 
 #### Chardalyn Berserkers
 
-The characters encounter `dice:1d4+1|noform|noparens|avg` (`1d4 + 1`) [chardalyn berserkers](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C), their flesh ravaged by frostbite. Obsession with chardalyn has made these humans psychotic. They go wherever Auril's cruel winds guide them, crave violence, and fight to the bitter end.
+The characters encounter `1d4 + 1` [chardalyn berserkers](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C), their flesh ravaged by frostbite. Obsession with chardalyn has made these humans psychotic. They go wherever Auril's cruel winds guide them, crave violence, and fight to the bitter end.
 
 The berserkers retain vestiges of their former lives, including the thick clothing they wore as Reghed nomads, but their garments are torn and in need of repair.
 
@@ -292,21 +284,21 @@ One berserker wears a magic ring made of ice on one finger. The characters notic
 
 #### Chwinga
 
-Chwingas are elemental spirits that mean no harm. They adapt quickly to almost any natural setting and occasionally offer supernatural gifts to those they glom onto. But a blizzard can drive a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) insane, causing it to behave unpredictably until the blizzard passes.
+Chwingas are elemental spirits that mean no harm. They adapt quickly to almost any natural setting and occasionally offer supernatural gifts to those they glom onto. But a blizzard can drive a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) insane, causing it to behave unpredictably until the blizzard passes.
 
-The characters encounter a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) (see appendix C) that makes its presence known by springing out of a snowdrift or appearing from behind a frozen bush. It looks like a spindly, snow-white doll wearing a decorative mask. In its tiny hands it holds a frozen berry, which it offers to the characters.
+The characters encounter a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) that makes its presence known by springing out of a snowdrift or appearing from behind a frozen bush. It looks like a spindly, snow-white doll wearing a decorative mask. In its tiny hands it holds a frozen berry, which it offers to the characters.
 
 ##### Running the Encounter
 
-If the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is sane, the frozen berry is a harmless gift—a friendly offering with a sweet taste. If the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is insane, the frozen berry is bitter, and a character who eats it takes 1 poison damage and must succeed on a DC 8 Constitution saving throw or be poisoned for the next hour.
+If the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is sane, the frozen berry is a harmless gift—a friendly offering with a sweet taste. If the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is insane, the frozen berry is bitter, and a character who eats it takes 1 poison damage and must succeed on a DC 8 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for the next hour.
 
-If this isn't the characters' first random encounter with a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) in Icewind Dale, you can substitute another gift for the frozen berry, such as a handful of snowflakes that won't melt for 24 hours or a beautifully carved icicle that melts like normal ice. If the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is mad, it might blow the snowflakes into a character's eyes to cause temporary blindness or stab a character with the icicle for 1 piercing damage.
+If this isn't the characters' first random encounter with a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) in Icewind Dale, you can substitute another gift for the frozen berry, such as a handful of snowflakes that won't melt for 24 hours or a beautifully carved icicle that melts like normal ice. If the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) is mad, it might blow the snowflakes into a character's eyes to cause temporary blindness or stab a character with the icicle for 1 piercing damage.
 
-After imparting its gift, a sane [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) behaves as described in appendix C. An insane [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) disappears into the snow, then follows the characters and tries to steal little objects weighing 1 pound or less from them. (Stolen items are then hidden in the snow and probably lost.) Whenever it tries to steal something from a character, a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) must make a Dexterity (Sleight of Hand) check. If the check result exceeds the character's passive Wisdom (Perception) score, the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) snatches the item and disappears without the theft being noticed. On a failed check, the character catches the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) in the act, foiling the theft, whereupon the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) tries to hide or flee. If it escapes, it keeps coming back to hurl tiny snowballs at the character who thwarted it.
+After imparting its gift, a sane [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) behaves as described in appendix C. An insane [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) disappears into the snow, then follows the characters and tries to steal little objects weighing 1 pound or less from them. (Stolen items are then hidden in the snow and probably lost.) Whenever it tries to steal something from a character, a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) must make a Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. If the check result exceeds the character's passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score, the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) snatches the item and disappears without the theft being noticed. On a failed check, the character catches the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) in the act, foiling the theft, whereupon the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) tries to hide or flee. If it escapes, it keeps coming back to hurl tiny snowballs at the character who thwarted it.
 
 #### Coldlight Walker
 
-In the dark gloom of winter, this [coldlight walker](/3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C) stands out like a beacon. Characters can see its light long before they can discern its form. The walker doesn't care that its light betrays its presence. As soon as it detects the characters, it closes in for the kill.
+In the dark gloom of winter, this [coldlight walker](3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C) stands out like a beacon. Characters can see its light long before they can discern its form. The walker doesn't care that its light betrays its presence. As soon as it detects the characters, it closes in for the kill.
 
 ##### Running the Encounter
 
@@ -316,11 +308,11 @@ If this encounter takes place during a blizzard, the characters experience the a
 
 #### Crag Cats
 
-Roll a `dice:d4|noform|noparens|avg` (`d4`) to determine how many [crag cats](/3-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md) (see appendix C) the characters encounter. During a blizzard, the crag cats rely on their hearing and sense of smell to track the characters while staying outside their prey's range of visibility.
+Roll a `d4` to determine how many crag cats (see appendix C) the characters encounter. During a blizzard, the crag cats rely on their hearing and sense of smell to track the characters while staying outside their prey's range of visibility.
 
 ##### Running the Encounter
 
-Make one Dexterity (Stealth) check for all the crag cats involved in the encounter and compare the result to the passive (Wisdom) Perception scores of the party. Any character whose score equals or exceeds the crag cats' check result is not surprised when the cats attack.
+Make one Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check for all the crag cats involved in the encounter and compare the result to the passive (Wisdom) [Perception](3-Mechanics/CLI/rules/skills.md#Perception) scores of the party. Any character whose score equals or exceeds the crag cats' check result is not [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when the cats attack.
 
 If one or two crag cats are encountered, they stalk the characters but keep their distance, hoping to pick off individuals who becomes separated from the rest of the party. These crag cats aren't brave or foolish enough to attack a group that outnumbers them.
 
@@ -330,43 +322,41 @@ If three or four crag cats are encountered, their numbers embolden them. They at
 
 #### Frost Druid and Friends
 
-A [frost druid](/3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C) approaches the characters in the form of a mountain goat or a snowy owl. The frost druid, who is human and can be of any gender, is joined by three creatures that are beneficiaries of the druid's awaken spell. These awakened beasts and plants serve as the druid's companions and spies, and they share the druid's evil disposition. Roll a `dice:d4|noform|noparens|avg` (`d4`) and consult the Frost Druid Friends table to determine each creature, or just roll once and assume all the creatures are the same kind of beast or plant. (It's okay if multiples of the same kind of creature are present, since the druid might favor a certain kind of beast or plant.)
+A [frost druid](3-Mechanics/CLI/bestiary/humanoid/frost-druid-idrotf.md) (see appendix C) approaches the characters in the form of a mountain goat or a snowy owl. The frost druid, who is human and can be of any gender, is joined by three creatures that are beneficiaries of the druid's [awaken](3-Mechanics/CLI/spells/awaken.md) spell. These awakened beasts and plants serve as the druid's companions and spies, and they share the druid's evil disposition. Roll a `d4` and consult the Frost Druid Friends table to determine each creature, or just roll once and assume all the creatures are the same kind of beast or plant. (It's okay if multiples of the same kind of creature are present, since the druid might favor a certain kind of beast or plant.)
 
 ##### Running the Encounter
 
 The frost druid aims to kill the characters or send them scurrying back to Ten-Towns. If the druid is killed or captured, its awakened companions behave as intelligent humans would when faced with the loss of their leader: either their morale breaks and they flee, or they become enraged and fight to the bitter end.
 
-One of the frost druid's prepared spells is moonbeam, which can reveal the true form of any character who has the Doppelganger secret (see appendix B).
+One of the frost druid's prepared spells is [moonbeam](3-Mechanics/CLI/spells/moonbeam.md), which can reveal the true form of any character who has the Doppelganger secret (see appendix B).
 
 **Frost Druid Friends**
 
-`dice: [](13-chapter-2-icewind-dale.md#^frost-druid-friends)`
-
 | dice: d4 | Encounter |
 |----------|-----------|
-| 1 | [Awakened tree](/3-Mechanics/CLI/bestiary/plant/awakened-tree.md) (coniferous only) |
-| 2 | Awakened [mountain goat](/3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C) |
-| 3 | Awakened [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](/3-Mechanics/CLI/bestiary/beast/elk.md) stat block) with glow-in-the-dark antlers that emit dim light in a 10-foot radius |
-| 4 | Awakened [walrus](/3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md) (see appendix C) |
+| 1 | [Awakened tree](3-Mechanics/CLI/bestiary/plant/awakened-tree.md) (coniferous only) |
+| 2 | Awakened [mountain goat](3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C) |
+| 3 | Awakened [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](3-Mechanics/CLI/bestiary/beast/elk.md) stat block) with glow-in-the-dark antlers that emit dim light in a 10-foot radius |
+| 4 | Awakened [walrus](3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md) (see appendix C) |
 ^frost-druid-friends
 
 #### Frost Giant Riding a Mammoth
 
-![Frost Giant Riding a Mammoth](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/092-02-003-mammoth.webp#center)
+![Frost Giant Riding a Mammoth](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/092-02-003-mammoth.webp#center)
 
-Even a raging blizzard can't conceal the presence of a [frost giant](/3-Mechanics/CLI/bestiary/giant/frost-giant.md) riding a [mammoth](/3-Mechanics/CLI/bestiary/beast/mammoth.md), as the earth rumbles and trembles with every one of the mammoth's heavy footfalls.
+Even a raging blizzard can't conceal the presence of a [frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant.md) riding a [mammoth](3-Mechanics/CLI/bestiary/beast/mammoth.md), as the earth rumbles and trembles with every one of the mammoth's heavy footfalls.
 
 ##### Running the Encounter
 
 The frost giant has come down from the Spine of the World mountains to hunt for wild game on the tundra or on the shores of the Sea of Moving Ice. If the characters hide in the snow and keep their distance, the giant and its mount continue unimpeded, and the encounter ends without bloodshed.
 
-Characters who confront the giant and the mammoth are in for the fight of their lives, for the evil giant is happy to claim their heads as trophies as well as their treasures. In addition to its greataxe, the giant carries a large net that it uses to catch walruses and seals, as well as an enormous lance made from a sharpened mast that it uses to spear creatures while it is mounted. This lance deals `dice:3d12+6|noform|noparens|avg|text(25)` (`3d12 + 6`) piercing damage in the giant's hands.
+Characters who confront the giant and the mammoth are in for the fight of their lives, for the evil giant is happy to claim their heads as trophies as well as their treasures. In addition to its greataxe, the giant carries a large net that it uses to catch walruses and seals, as well as an enormous lance made from a sharpened mast that it uses to spear creatures while it is mounted. This lance deals 25 (`3d12 + 6`) piercing damage in the giant's hands.
 
-A character who speaks Giant can use an action to try to change the frost giant's attitude from hostile to indifferent, either by offering it treasure worth at least 1,000 gp or by convincing it that the party is on a quest that would benefit frost giants in some way. For example, the frost giant considers Arveiaturace (see "Arveiaturace") a natural enemy and might spare adventurers who claim to be hunting the great white dragon. The giant might also allow characters to pass unmolested if they claim to be on a quest for the spirits of Jarlmoot (see "Jarlmoot"). Changing the giant's attitude in this way requires a successful DC 17 Charisma (Deception or Persuasion) check in addition to a sufficient bribe or a convincing story. If the check fails, subsequent checks made by the characters to change its attitude have disadvantage.
+A character who speaks Giant can use an action to try to change the frost giant's attitude from hostile to indifferent, either by offering it treasure worth at least 1,000 gp or by convincing it that the party is on a quest that would benefit frost giants in some way. For example, the frost giant considers Arveiaturace (see "Arveiaturace") a natural enemy and might spare adventurers who claim to be hunting the great white dragon. The giant might also allow characters to pass unmolested if they claim to be on a quest for the spirits of Jarlmoot (see "Jarlmoot"). Changing the giant's attitude in this way requires a successful DC 17 Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check in addition to a sufficient bribe or a convincing story. If the check fails, subsequent checks made by the characters to change its attitude have disadvantage.
 
 #### Gnolls
 
-Ravenous and horrifying are the gnolls that prowl Icewind Dale. Only their small numbers keep them from ravaging Ten-Towns, gutting its residents, and wearing their torn-out ribcages as hats. The characters encounter a hungry pack of `dice:1d4+3|noform|noparens|avg` (`1d4 + 3`) [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md). They cackle with glee as they move in for the kill.
+Ravenous and horrifying are the gnolls that prowl Icewind Dale. Only their small numbers keep them from ravaging Ten-Towns, gutting its residents, and wearing their torn-out ribcages as hats. The characters encounter a hungry pack of `1d4 + 3` [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md). They cackle with glee as they move in for the kill.
 
 These gnolls come from the Cackling Chasm (see "Cackling Chasm"), which provides them with shelter. Gnolls that are captured can lead the characters back to their lair, where they hope to gang up on the characters after luring them there.
 
@@ -376,7 +366,7 @@ The gnolls are forced to range far and wide in search of food. Their hunger over
 
 #### Goliath Party
 
-The characters come across four [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C). They stride through the snow in single file, spaced about 10 feet apart.
+The characters come across four [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C). They stride through the snow in single file, spaced about 10 feet apart.
 
 ##### Running the Encounter
 
@@ -386,31 +376,29 @@ The goliaths might be involved in a quest, a scavenger hunt, or an elaborate dar
 
 **Athletic Contests**
 
-`dice: [](13-chapter-2-icewind-dale.md#^athletic-contests)`
-
 | dice: d4 | Contest |
 |----------|---------|
 | 1 | Tug o' War. Two teams grip opposite ends of a 50-foot-long rope: the goliaths on one side, the adventuring party on the other. The teams need not have the same number of members, and the goliaths have no objection to being outnumbered. If the sum of the characters' combined Strength scores is higher than the sum of the goliaths' combined Strength scores, the characters win the tug o' war. If the sums are the same, the contest ends in a draw. Otherwise, the goliaths win. |
-| 2 | Hand Standing. Each participant must do a handstand and hold that position for as long as possible. The contest ends when the majority of one team can't hold their handstands and either give up or fall over. Resolve the contest using DC 10 Strength (Athletics) group checks: each team repeats the group check until one team fails it. |
-| 3 | Shrub Pulling. Two frozen shrubs of roughly equal size are located nearby, and each team picks a champion. Whichever champion uproots their shrub first wins the contest for their team. The champions make one or more simultaneous DC 20 Strength (Athletics) checks; the first one to succeed wins. If both succeed at the same time, the one who rolled the highest uproots their shrub first. If both succeed and their rolls are the same, the contest ends in a draw. |
-| 4 | Boulder Roll. Two 10-foot-diameter boulders are dug up, and a finish line is drawn in the snow 50 feet away from them. The first team to roll its boulder across the finish line wins. Resolve the contest with a series of simultaneous DC 15 Strength (Athletics) group checks. With each successful check, a team rolls its boulder 10 feet closer to the finish line. |
+| 2 | Hand Standing. Each participant must do a handstand and hold that position for as long as possible. The contest ends when the majority of one team can't hold their handstands and either give up or fall over. Resolve the contest using DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) group checks: each team repeats the group check until one team fails it. |
+| 3 | Shrub Pulling. Two frozen shrubs of roughly equal size are located nearby, and each team picks a champion. Whichever champion uproots their shrub first wins the contest for their team. The champions make one or more simultaneous DC 20 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) checks; the first one to succeed wins. If both succeed at the same time, the one who rolled the highest uproots their shrub first. If both succeed and their rolls are the same, the contest ends in a draw. |
+| 4 | Boulder Roll. Two 10-foot-diameter boulders are dug up, and a finish line is drawn in the snow 50 feet away from them. The first team to roll its boulder across the finish line wins. Resolve the contest with a series of simultaneous DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) group checks. With each successful check, a team rolls its boulder 10 feet closer to the finish line. |
 ^athletic-contests
 
 #### Goliath Werebear
 
-The characters encounter a [goliath werebear](/3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md) (see appendix C) in polar bear form, galumphing through the snow, belly-surfing down a snowy hill, or breaking through the ice on a frozen pond to catch a fish. If this encounter occurs during a blizzard, the characters might come upon the bear in a cave or other shelter. The werebear is either Oyaminartok herself (see the "Goliaths" entry in appendix C) or one of her kin.
+The characters encounter a [goliath werebear](3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md) (see appendix C) in polar bear form, galumphing through the snow, belly-surfing down a snowy hill, or breaking through the ice on a frozen pond to catch a fish. If this encounter occurs during a blizzard, the characters might come upon the bear in a cave or other shelter. The werebear is either Oyaminartok herself (see the "Goliaths" entry in appendix C) or one of her kin.
 
 ##### Running the Encounter
 
 If the characters look like they need help, the werebear assumes hybrid form and greets them in a friendly manner. It has no clothing or manufactured weapons nearby, so it prefers its hybrid form over its true goliath form.
 
-The werebear is happy to render assistance with no strings attached, serving as a wilderness guide until it feels like the characters can get by on their own. If the characters insist on repaying its kindness, the werebear urges them to seek out and destroy the [chardalyn berserkers](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) in their lair (see "Cave of the Berserkers"). The werebear understands how chardalyn can become corrupted by demonic magic and sees the berserkers as irredeemable victims of this corruption. Putting the berserkers out of their misery will help make Icewind Dale a safer place.
+The werebear is happy to render assistance with no strings attached, serving as a wilderness guide until it feels like the characters can get by on their own. If the characters insist on repaying its kindness, the werebear urges them to seek out and destroy the [chardalyn berserkers](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) in their lair (see "Cave of the Berserkers"). The werebear understands how chardalyn can become corrupted by demonic magic and sees the berserkers as irredeemable victims of this corruption. Putting the berserkers out of their misery will help make Icewind Dale a safer place.
 
-![Reindeer Herd](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/093-02-004-reindeer-herd.webp#center)
+![Reindeer Herd](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/093-02-004-reindeer-herd.webp#center)
 
 #### Herd of Beasts
 
-The characters come across a herd of beasts that is struggling to survive the endless winter. In clear weather, the characters can spot a herd from hundreds of feet away, even in the dark. If encountered in a blizzard, the beasts are hunkered down in the snow and harder to see. To determine what kind of herd is encountered, roll a `dice:d6|noform|noparens|avg` (`d6`) and consult either the Sea of Moving Ice Herds table or the Tundra Herds table, as appropriate.
+The characters come across a herd of beasts that is struggling to survive the endless winter. In clear weather, the characters can spot a herd from hundreds of feet away, even in the dark. If encountered in a blizzard, the beasts are hunkered down in the snow and harder to see. To determine what kind of herd is encountered, roll a `d6` and consult either the Sea of Moving Ice Herds table or the Tundra Herds table, as appropriate.
 
 ##### Running the Encounter
 
@@ -422,31 +410,27 @@ Wherever large herds are encountered, characters can expect to find humans as we
 
 **Sea of Moving Ice Herds**
 
-`dice: [](13-chapter-2-icewind-dale.md#^sea-of-moving-ice-herds)`
-
 | dice: d6 | Herd |
 |----------|------|
-| 1 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [killer whales](/3-Mechanics/CLI/bestiary/beast/killer-whale.md) |
-| 2–4 | `dice:6d6\|noform\|noparens\|avg` (`6d6`) [seals](/3-Mechanics/CLI/bestiary/beast/seal-idrotf.md) (see appendix C) |
-| 5–6 | `dice:4d6\|noform\|noparens\|avg` (`4d6`) [walruses](/3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md) (see appendix C) |
+| 1 | `3d6` [killer whales](3-Mechanics/CLI/bestiary/beast/killer-whale.md) |
+| 2–4 | `6d6` [seals](3-Mechanics/CLI/bestiary/beast/seal-idrotf.md) (see appendix C) |
+| 5–6 | `4d6` [walruses](3-Mechanics/CLI/bestiary/beast/walrus-idrotf.md) (see appendix C) |
 ^sea-of-moving-ice-herds
 
 **Tundra Herds**
 
-`dice: [](13-chapter-2-icewind-dale.md#^tundra-herds)`
-
 | dice: d6 | Herd |
 |----------|------|
-| 1–2 | `dice:4d6\|noform\|noparens\|avg` (`4d6`) [elk](/3-Mechanics/CLI/bestiary/beast/elk.md) |
-| 3–4 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [mammoths](/3-Mechanics/CLI/bestiary/beast/mammoth.md) |
-| 5–6 | `dice:5d6\|noform\|noparens\|avg` (`5d6`) [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](/3-Mechanics/CLI/bestiary/beast/elk.md) stat block); one out of every six has glow-in-the-dark antlers that emit dim light in a 10-foot radius. |
+| 1–2 | `4d6` [elk](3-Mechanics/CLI/bestiary/beast/elk.md) |
+| 3–4 | `3d6` [mammoths](3-Mechanics/CLI/bestiary/beast/mammoth.md) |
+| 5–6 | `5d6` [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) (use the [elk](3-Mechanics/CLI/bestiary/beast/elk.md) stat block); one out of every six has glow-in-the-dark antlers that emit dim light in a 10-foot radius. |
 ^tundra-herds
 
 #### Humans
 
 To withstand the extremely cold temperatures and vicious winds, humans of the Far North must wrap themselves in cold weather clothing, exposing as little of their flesh to the elements as possible. They must also contend with monstrous threats unique to this realm.
 
-If this encounter takes place in the tundra, the characters come across a scouting party of `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) Reghed nomads ([tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) of the Bear, Elk, Tiger, or Wolf tribe) or a similarly sized group of trappers and furriers ([scouts](/3-Mechanics/CLI/bestiary/humanoid/scout.md)) out of Ten-Towns. If the characters are on the Sea of Moving Ice, they encounter a party of `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) hunters ([tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md)) on an ice floe or in canoes, hunting seals, walruses, or whales.
+If this encounter takes place in the tundra, the characters come across a scouting party of `1d6 + 4` Reghed nomads ([tribal warriors](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) of the Bear, Elk, Tiger, or Wolf tribe) or a similarly sized group of trappers and furriers ([scouts](3-Mechanics/CLI/bestiary/humanoid/scout.md)) out of Ten-Towns. If the characters are on the Sea of Moving Ice, they encounter a party of `1d6 + 4` hunters ([tribal warriors](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md)) on an ice floe or in canoes, hunting seals, walruses, or whales.
 
 If you need impromptu names for these NPCs, pull from the following list: Affra, Alif, Amina, Brynjar, Chen, Eremon, Hekili, Hishi, Iona, Kamakani, Koamalu, Ling, Margrath, Marrak, Nawra, Noboru, Omolara, Otilia, Quan, Saladin, Shatha, Sigurd, Stalvin, Udo, and Yngvild.
 
@@ -469,8 +453,6 @@ If the characters change the attitude of a group of Reghed nomads from indiffere
 
 **Reghed Tribes**
 
-`dice: [](13-chapter-2-icewind-dale.md#^reghed-tribes)`
-
 | dice: d20 | Tribe | Starting Attitude |
 |-----------|-------|-------------------|
 | 1–5 | Bear | Indifferent |
@@ -483,7 +465,7 @@ If the characters change the attitude of a group of Reghed nomads from indiffere
 
 #### Ice Troll
 
-A hostile [ice troll](/3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md) (see appendix C) wanders the dark tundra in search of prey.
+A hostile [ice troll](3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md) (see appendix C) wanders the dark tundra in search of prey.
 
 ##### Running the Encounter
 
@@ -491,7 +473,7 @@ The troll lacks guile and takes no precautions as it lumbers toward what it assu
 
 #### Icewind Kobolds
 
-This encounter is with `dice:2d4|noform|noparens|avg` (`2d4`) [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C). They are either looking for a white dragon to worship or marching toward Ten-Towns, hoping to find food and shelter.
+This encounter is with `2d4` [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C). They are either looking for a white dragon to worship or marching toward Ten-Towns, hoping to find food and shelter.
 
 ##### Running the Encounter
 
@@ -501,13 +483,13 @@ If they're lost, the kobolds might ask the characters for directions. If outnumb
 
 ##### Treasure
 
-Each kobold carries a pouch containing 5 sp and 5 cp. The kobolds hope these coins will be enough to appease the dragon they seek to serve or to pay for food and shelter in Ten-Towns. At your discretion, one of the kobolds might also be holding a potion of healing or some other common magic item.
+Each kobold carries a pouch containing 5 sp and 5 cp. The kobolds hope these coins will be enough to appease the dragon they seek to serve or to pay for food and shelter in Ten-Towns. At your discretion, one of the kobolds might also be holding a [potion of healing](3-Mechanics/CLI/items/potion-of-healing.md) or some other common magic item.
 
 #### Orcs of the Many-Arrows Tribe
 
 Of the orc tribes living in the mountains, the most powerful by far is the Many-Arrows tribe. At various times in recent history, the great chieftains of this tribe have grown powerful enough to unite the orcs under the Many-Arrows banner. Some of these leaders have led the orcs through times of great peace, while others have used their power to conquer and destroy in the name of Gruumsh, the orc god of slaughter.
 
-This encounter is with an [orc war chief](/3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md), who leads a hunting party that includes an [orc eye of Gruumsh](/3-Mechanics/CLI/bestiary/humanoid/orc-eye-of-gruumsh.md), six [orcs](/3-Mechanics/CLI/bestiary/humanoid/orc.md), and a [half-ogre](/3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md). Painted in dry blood on the eye of Gruumsh's shield is the symbol of the Many-Arrows tribe: a crude skull impaled by three arrows.
+This encounter is with an [orc war chief](3-Mechanics/CLI/bestiary/humanoid/orc-war-chief.md), who leads a hunting party that includes an [orc eye of Gruumsh](3-Mechanics/CLI/bestiary/humanoid/orc-eye-of-gruumsh.md), six [orcs](3-Mechanics/CLI/bestiary/humanoid/orc.md), and a [half-ogre](3-Mechanics/CLI/bestiary/giant/half-ogre-ogrillon.md). Painted in dry blood on the eye of Gruumsh's shield is the symbol of the Many-Arrows tribe: a crude skull impaled by three arrows.
 
 ##### Running the Encounter
 
@@ -517,48 +499,46 @@ Despite their hunger and desperation, these orcs can be reasoned with. Their ini
 
 #### Perytons
 
-Two [perytons](/3-Mechanics/CLI/bestiary/monstrosity/peryton.md)—a mated pair—have come down from the Spine of the World mountains to hunt. They're looking to rip out the heart of a humanoid and take it back to their nest, where the female peryton must consume the heart to reproduce.
+Two [perytons](3-Mechanics/CLI/bestiary/monstrosity/peryton.md)—a mated pair—have come down from the Spine of the World mountains to hunt. They're looking to rip out the heart of a humanoid and take it back to their nest, where the female peryton must consume the heart to reproduce.
 
 ##### Running the Encounter
 
-The perytons' keen eyesight enables them to spot prey from great heights, while the dark sky makes them harder to see. Characters who have a passive Wisdom (Perception) score of 13 or lower are surprised when the perytons attack.
+The perytons' keen eyesight enables them to spot prey from great heights, while the dark sky makes them harder to see. Characters who have a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 13 or lower are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when the perytons attack.
 
 As an action, a peryton can rip out the heart of a dead humanoid within 5 feet of it. Once they obtain such a prize, the perytons disengage from battle and return to their nest. The perytons won't break off their attack until they get a heart.
 
-![Snowy Owlbear](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/094-02-005-snowy-owlbear.webp#center)
+![Snowy Owlbear](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/094-02-005-snowy-owlbear.webp#center)
 
 #### Snowy Owlbear
 
-A [snowy owlbear](/3-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md) combines the features of a snowy owl and a polar bear (see appendix C). This specimen is a ferocious, full-grown adult. Blizzards and cold weather don't concern it. Only a character who has the Owlbear Whisperer secret (see appendix B) can befriend it.
+A [snowy owlbear](3-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md) combines the features of a snowy owl and a polar bear (see appendix C). This specimen is a ferocious, full-grown adult. Blizzards and cold weather don't concern it. Only a character who has the Owlbear Whisperer secret (see appendix B) can befriend it.
 
 ##### Running the Encounter
 
-The [snowy owlbear](/3-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md) is hungry enough to kill and eat humanoids, though it prefers fish and the flesh of hares, foxes, walruses, seals, and pack animals such as mules and axe beaks. If the characters toss food at it, the owlbear eats that food before chasing after more elusive prey.
+The [snowy owlbear](3-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md) is hungry enough to kill and eat humanoids, though it prefers fish and the flesh of hares, foxes, walruses, seals, and pack animals such as mules and axe beaks. If the characters toss food at it, the owlbear eats that food before chasing after more elusive prey.
 
 If a character coaxes the owlbear into becoming the party mascot, you can tax the characters in gold to keep their pet fed and happy. The cost of feeding the owlbear is 9 gp per day, which is based on it eating the equivalent of three pigs (the "Player's Handbook" values a pig at 3 gp).
 
 #### Yeti
 
-This encounter always occurs during a blizzard. Roll a `dice:d6|noform|noparens|avg` (`d6`) and consult the Yeti Encounter table to determine what the characters encounter, or choose an encounter that you like.
+This encounter always occurs during a blizzard. Roll a `d6` and consult the Yeti Encounter table to determine what the characters encounter, or choose an encounter that you like.
 
 **Yeti Encounter**
 
-`dice: [](13-chapter-2-icewind-dale.md#^yeti-encounter)`
-
 | dice: d6 | Encounter | Difficulty |
 |----------|-----------|------------|
-| 1–3 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [yeti](/3-Mechanics/CLI/bestiary/monstrosity/yeti.md) | Medium |
-| 4–5 | 1 [abominable yeti](/3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti.md) | Hard |
-| 6 | 1 [yeti tyke](/3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md) (see appendix C) | Easy |
+| 1–3 | `1d4` [yeti](3-Mechanics/CLI/bestiary/monstrosity/yeti.md) | Medium |
+| 4–5 | 1 [abominable yeti](3-Mechanics/CLI/bestiary/monstrosity/abominable-yeti.md) | Hard |
+| 6 | 1 [yeti tyke](3-Mechanics/CLI/bestiary/monstrosity/yeti-tyke-idrotf.md) (see appendix C) | Easy |
 ^yeti-encounter
 
-Yetis and abominable yetis like to hide under the snow with only their pale blue eyes visible. They have advantage on Dexterity (Stealth) checks made to hide because of their Snow Camouflage ability, and their keen sense of smell lets them detect prey they can't see through the blowing snow.
+Yetis and abominable yetis like to hide under the snow with only their pale blue eyes visible. They have advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide because of their Snow Camouflage ability, and their keen sense of smell lets them detect prey they can't see through the blowing snow.
 
 If the characters encounter a yeti tyke, assume it either ran away from home or got separated from its parents and is lost in the blizzard. See appendix C for more information to help you roleplay this monster.
 
 ##### Running the Encounter
 
-To determine which party members are surprised, have each character make a Wisdom (Perception) check contested by the yetis' Dexterity (Stealth) check. Characters can use their passive Wisdom (Perception) scores instead of making the check. If multiple yetis are present, make one check—with advantage—for all of them.
+To determine which party members are [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised), have each character make a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check contested by the yetis' Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. Characters can use their passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) scores instead of making the check. If multiple yetis are present, make one check—with advantage—for all of them.
 
 After gorging themselves on the humanoids they kill, adult yetis and abominable yetis like to bite off the victims' heads and keep them as trophies.
 
@@ -569,8 +549,8 @@ The remainder of this chapter describes places of interest throughout Icewind Da
 The adventure locations that follow are balanced for characters of at least 4th level. Lower-level characters can survive the encounters in these locations if they're cautious and manage their resources well, although they should be prepared to flee or hide when they find themselves out of their depth. Characters of 6th level or higher will face few real challenges, but you can soften them up and deplete their resources by staging random encounters as they travel to and from a given location.
 
 > [!gallery]
-> ![Map 2.1: Icewind Dale](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/095-map-2-1-icewind-dale.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/096-map-2-1-icewind-dale-player.webp#gallery)
+> ![Map 2.1: Icewind Dale](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/095-map-2-1-icewind-dale.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/096-map-2-1-icewind-dale-player.webp#gallery)
 
 ### Angajuk's Bell
 
@@ -578,15 +558,15 @@ Swimming in the frigid waters is the legendary Angajuk, an old awakened sperm wh
 
 Angajuk is famous among Ten-Towners. Most people leave it alone, knowing that the whale is the beneficiary of powerful magic, but uncaring hunters see the whale as a source of ambergris, which is a valuable commodity.
 
-Angajuk was once the companion of a druid named Anga, who cast an awaken spell on Angajuk to give the whale sentience and intelligence. Not much is known about Anga, but those who befriend Angajuk can learn about its beloved companion.
+Angajuk was once the companion of a druid named Anga, who cast an [awaken](3-Mechanics/CLI/spells/awaken.md) spell on Angajuk to give the whale sentience and intelligence. Not much is known about Anga, but those who befriend Angajuk can learn about its beloved companion.
 
 Characters might learn about Angajuk by overhearing a rumor in Ten-Towns (see "Tall Tales in Ten-Towns") or by agreeing to help a whale oil merchant (see "Whale Oil Acquisition"). Angajuk is one of the safest ways to get to Auril's island, because the sperm whale can travel beneath the water's surface, avoiding Auril's spies. When the whale is submerged, a magic bubble surrounds the boat to protect those riding in it.
 
 Angajuk periodically visits an anchorage off the coastline, a rocky arch formed by the action of tidal waters, and can be summoned there by ringing a bell attached to the pier. Thick ice covers this rock formation, extending all the way to the shore. On the shore nearby is Anga's old stone cabin, which has weathered time's passage.
 
 > [!gallery]
-> ![Map 2.2: Angajuk's Bell](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/097-map-2-2-angajuks-bell.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/098-map-2-2-angajuks-bell-player.webp#gallery)
+> ![Map 2.2: Angajuk's Bell](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/097-map-2-2-angajuks-bell.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/098-map-2-2-angajuks-bell-player.webp#gallery)
 
 #### Angajuk's Bell Locations
 
@@ -606,11 +586,11 @@ Thick rime coats every surface and object inside the cabin, including a bed drap
 
 ##### A3. Bell
 
-A 1-foot-diameter copper bell dangles from a 10-foot-tall wooden pole attached to this short wooden pier. The bell comes with a rope and clapper. Ringing the bell soon attracts three [giant vultures](/3-Mechanics/CLI/bestiary/beast/giant-vulture.md), who think that the sound signals mealtime or the presence of prey. They attack unless the characters offer meat to satisfy them.
+A 1-foot-diameter copper bell dangles from a 10-foot-tall wooden pole attached to this short wooden pier. The bell comes with a rope and clapper. Ringing the bell soon attracts three [giant vultures](3-Mechanics/CLI/bestiary/beast/giant-vulture.md), who think that the sound signals mealtime or the presence of prey. They attack unless the characters offer meat to satisfy them.
 
 ###### Angajuk Arrives
 
-It takes 30 minutes for Angajuk the [sperm whale](/3-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md) (see appendix C) to arrive after the bell is rung, accompanied by `dice:1d4|noform|noparens|avg` (`1d4`) harmless narwhals or dolphins. Angajuk has an Intelligence of 10 and speaks Common. Its deep, resonant voice carries a slight echo. Once the whale appears, characters must persuade it to be of service (see "Earning Angajuk's Trust" below). Otherwise, it submerges and departs after a few minutes. If the whale is befriended and the characters communicate their desired destination to it, Angajuk takes them where they want to go provided the location is on or in the Sea of Moving Ice. The awakened whale knows the location of the Frostmaiden's island and, despite some close encounters with Auril's roc, is willing to travel there.
+It takes 30 minutes for Angajuk the [sperm whale](3-Mechanics/CLI/bestiary/beast/sperm-whale-idrotf.md) (see appendix C) to arrive after the bell is rung, accompanied by `1d4` harmless narwhals or dolphins. Angajuk has an Intelligence of 10 and speaks Common. Its deep, resonant voice carries a slight echo. Once the whale appears, characters must persuade it to be of service (see "Earning Angajuk's Trust" below). Otherwise, it submerges and departs after a few minutes. If the whale is befriended and the characters communicate their desired destination to it, Angajuk takes them where they want to go provided the location is on or in the Sea of Moving Ice. The awakened whale knows the location of the Frostmaiden's island and, despite some close encounters with Auril's roc, is willing to travel there.
 
 Angajuk's boat can hold up to eight Medium creatures and their gear, and up to 1,000 pounds of cargo.
 
@@ -626,11 +606,11 @@ When summoned, Angajuk surfaces through this hole in the ice, expels a gush of s
 
 Earning passage on the whale's back requires more than just ringing the bell. Characters must earn Angajuk's trust and can do so in any of the following ways:
 
-**Offering an Octopus**. Angajuk says it would be happy to provide transportation if the characters catch an octopus for it to eat. Octopi can be caught by fishing off the pier, but any hint of light deters them. Use the fishing rules ("Fishing for Knucklehead Trout"), only replace the knucklehead trout with an [octopus](/3-Mechanics/CLI/bestiary/beast/octopus.md).
+**Offering an Octopus**. Angajuk says it would be happy to provide transportation if the characters catch an octopus for it to eat. Octopi can be caught by fishing off the pier, but any hint of light deters them. Use the fishing rules ("Fishing for Knucklehead Trout"), only replace the knucklehead trout with an [octopus](3-Mechanics/CLI/bestiary/beast/octopus.md).
 
 ##### Befriending Its Comrades
 
-Angajuk lives alongside other sea creatures, including narwhals and dolphins. The characters can lure one of these creatures to the surface with an offering of food (such as a fish) and befriend it with a successful DC 10 Wisdom (Animal Handling) check, which pleases Angajuk.
+Angajuk lives alongside other sea creatures, including narwhals and dolphins. The characters can lure one of these creatures to the surface with an offering of food (such as a fish) and befriend it with a successful DC 10 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, which pleases Angajuk.
 
 - **Fending Off Hunters.** If the characters are having trouble finding another way to earn Angajuk's trust, use the "Whale Hunt" encounter below. Defending the whale against these hunters earns its trust.  
 
@@ -642,15 +622,15 @@ Hunters from distant Waterdeep have come to the Sea of Moving Ice to harvest amb
 
 ##### The Whale Hunters
 
-Five whale hunters (neutral evil human [thugs](/3-Mechanics/CLI/bestiary/humanoid/thug.md)) were staying at the Black-Bearded Brother, a tavern in Bremen, when they learned about Angajuk's Bell. The hunters arrive shortly after the characters but before the whale's arrival. They wear cold weather clothing and have brought four casks of oil with them. They intend to pour the oil through the hole in the ice, contaminating the water around Angajuk's Bell and poisoning the creatures in it.
+Five whale hunters (neutral evil human [thugs](3-Mechanics/CLI/bestiary/humanoid/thug.md)) were staying at the Black-Bearded Brother, a tavern in Bremen, when they learned about Angajuk's Bell. The hunters arrive shortly after the characters but before the whale's arrival. They wear cold weather clothing and have brought four casks of oil with them. They intend to pour the oil through the hole in the ice, contaminating the water around Angajuk's Bell and poisoning the creatures in it.
 
-The leader of the hunters, an older gray-haired man named Jendren Uruth, tries to recruit the characters, offering each of them an equal share of "the take." Jendren is not an honest man, but his fight is against Angajuk, not a well-armed party of adventurers. If the characters stand between him and his prey, however, Jendren tries to intimidate them into leaving Angajuk's Bell. Scaring him off requires a successful DC 17 Charisma (Intimidation) group check, since he's dead set on getting his ambergris. If the party's group check succeeds, Jendren and his fellow hunters withdraw, only to return 24 hours later.
+The leader of the hunters, an older gray-haired man named Jendren Uruth, tries to recruit the characters, offering each of them an equal share of "the take." Jendren is not an honest man, but his fight is against Angajuk, not a well-armed party of adventurers. If the characters stand between him and his prey, however, Jendren tries to intimidate them into leaving Angajuk's Bell. Scaring him off requires a successful DC 17 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) group check, since he's dead set on getting his ambergris. If the party's group check succeeds, Jendren and his fellow hunters withdraw, only to return 24 hours later.
 
 If the characters fail to keep the hunters from executing their plan, the oil poisons and muddies the water for 4 days. After a day of contamination, several dead knucklehead trout float to the surface. However, much to the hunters' dismay, the sperm whale avoids the area even after the bell is rung. (For as long as the water is poisoned, Angajuk realizes this and cannot be summoned.) While waiting for the whale, the hunters camp out on the pier or in Anga's cabin. After three more days, they conclude that the poison didn't work and that the whale needs to be lured to the surface with bait. The desperate hunters try to capture a character to use for this purpose and, if successful, bind and lower the character into the water as a lure. Angajuk rises just long enough to fling the lure out of the water, sending the character sprawling across the ice, before submerging and leaving the area, denying the hunters their prize.
 
 Jendren's death breaks the morale of the other hunters, who head back to Bremen in defeat.
 
-![Angajuk takes adventurers on an undersea tour](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/099-02-006-angajuk.webp#center)
+![Angajuk takes adventurers on an undersea tour](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/099-02-006-angajuk.webp#center)
 
 ### Black Cabin
 
@@ -701,8 +681,8 @@ The Black Cabin has two stone chimneys that rise several feet above its sagging 
 It's clear to anyone surveying the Black Cabin that part of the ridge it rests on fell away some time ago, leaving the westernmost section of the building hanging over the gorge. All of the cabin's doors are closed and unlocked, and its windows are big enough for characters to climb through.
 
 > [!gallery]
-> ![Map 2.3: Black Cabin](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/100-map-2-3-black-cabin.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/101-map-2-3-black-cabin-player.webp#gallery)
+> ![Map 2.3: Black Cabin](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/100-map-2-3-black-cabin.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/101-map-2-3-black-cabin-player.webp#gallery)
 
 #### Black Cabin Locations
 
@@ -716,7 +696,7 @@ This wooden outhouse is half-buried in snow. Characters who clear a path to the 
 
 Both entrances to the cabin are off this rickety, snow-covered walkway, the steps and boards of which crackle and creak underfoot.
 
-There's a 4-foot-wide gap in the walkway that characters can easily leap across without making an ability check. But the walkway west of the gap (outside the door to area B4) collapses if more than 150 pounds of weight are placed on any 5-foot section of it. Any creature on the section of walkway when it collapses must make a DC 10 Dexterity saving throw. On a successful save, the creature drops 20 feet straight down into the snow, taking 1 bludgeoning damage from the cushioned fall and landing prone. On a failed save, the creature slides down the collapsing walkway to the west and plunges into the gorge, taking `dice:14d6|noform|noparens|avg|text(49)` (`14d6`) bludgeoning damage from the hard fall and landing prone.
+There's a 4-foot-wide gap in the walkway that characters can easily leap across without making an ability check. But the walkway west of the gap (outside the door to area B4) collapses if more than 150 pounds of weight are placed on any 5-foot section of it. Any creature on the section of walkway when it collapses must make a DC 10 Dexterity saving throw. On a successful save, the creature drops 20 feet straight down into the snow, taking 1 bludgeoning damage from the cushioned fall and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a failed save, the creature slides down the collapsing walkway to the west and plunges into the gorge, taking 49 (`14d6`) bludgeoning damage from the hard fall and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone).
 
 ##### B3. Workshop
 
@@ -725,7 +705,7 @@ There's a 4-foot-wide gap in the walkway that characters can easily leap across 
 > Frost covers every surface of this abandoned workshop.
 ^2d3
 
-The workshop contains a set of smith's tools and a set of tinker's tools spread across a wooden table along with some twisted bits of metal.
+The workshop contains a set of [smith's tools](3-Mechanics/CLI/items/smiths-tools.md) and a set of [tinker's tools](3-Mechanics/CLI/items/tinkers-tools.md) spread across a wooden table along with some twisted bits of metal.
 
 A bookcase against the north wall has a family of harmless squirrels living in it. (The squirrels come and go through a tiny hole in the floor near one of the cabin's stilts.) Apart from some scraps of paper and other detritus that the squirrels have collected, the bookshelf holds nothing of interest.
 
@@ -746,13 +726,13 @@ Nothing remains of this tome except ashes and a badly burned spine, upon which c
 
 Enough of the charred skeleton remains to suggest (without needing an ability check) that it belongs to a male human (Macreadus, though the characters won't know this right away). Little remains of his clothing, but a character who sifts through the charred bones and ashes finds an amulet of health that Macreadus used as a holy symbol. It shows no signs of damage, hinting at its magical nature. The amulet's pendant and chain are made of gold, and the pendant bears the symbol of two hands cupping the sun.
 
-![Summer Star](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/102-02-007-summer-star.webp#center)
+![Summer Star](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/102-02-007-summer-star.webp#center)
 
 ###### Summer Star
 
-This magic item looks like a 6-inch-diameter gyroscope featuring two scorched rings inlaid with runes and a dense chunk of coal at its core. The Summer Star has lost its luster but not its magic. A detect magic spell or similar magic reveals a weak, residual aura of transmutation magic surrounding it.
+This magic item looks like a 6-inch-diameter gyroscope featuring two scorched rings inlaid with runes and a dense chunk of coal at its core. The Summer Star has lost its luster but not its magic. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic reveals a weak, residual aura of transmutation magic surrounding it.
 
-The first time a creature picks up the *Summer Star*, its core glows with a golden radiance as bright as a candle flame. Unless the creature drops the device immediately, the light suddenly blossoms, becoming a 10-foot-radius sphere of incinerating golden radiance centered on the device. Each creature in the sphere must make a DC 17 Constitution saving throw, taking `dice:10d10+35|noform|noparens|avg|text(90)` (`10d10 + 35`) radiant damage on a failed save, or half as much damage on a successful one. If this effect reduces a creature to 0 hit points and there is damage remaining, the creature is turned to ashes if the remaining damage equals or exceeds its hit point maximum. Once the explosion is triggered, the *Summer Star* becomes inoperable and safe to handle.
+The first time a creature picks up the *Summer Star*, its core glows with a golden radiance as bright as a candle flame. Unless the creature drops the device immediately, the light suddenly blossoms, becoming a 10-foot-radius sphere of incinerating golden radiance centered on the device. Each creature in the sphere must make a DC 17 Constitution saving throw, taking 90 (`10d10 + 35`) radiant damage on a failed save, or half as much damage on a successful one. If this effect reduces a creature to 0 hit points and there is damage remaining, the creature is turned to ashes if the remaining damage equals or exceeds its hit point maximum. Once the explosion is triggered, the *Summer Star* becomes inoperable and safe to handle.
 
 A character killed by the *Summer Star* becomes an ethereal spirit bound to the Black Cabin (see "Dying in the Black Cabin"). Don't fret if this happens to one or more characters; as spirits, they can figure out a way back to the realm of the living.
 
@@ -760,23 +740,23 @@ Once the *Summer Star* discharges its residual magic, the characters—both the 
 
 ###### Step 1: Identify the Item
 
-Any creature or spirit that studies the runes on the device's rings and succeeds on a DC 18 Intelligence (Arcana) check ascertains that the device was designed to control the weather. An identify spell reveals the same, and Macreadus's spirit can freely divulge this information to other spirits. A character who has Macreadus's blueprints from the laboratory (area B6) can use them to gain advantage on the check.
+Any creature or spirit that studies the runes on the device's rings and succeeds on a DC 18 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check ascertains that the device was designed to control the weather. An [identify](3-Mechanics/CLI/spells/identify.md) spell reveals the same, and Macreadus's spirit can freely divulge this information to other spirits. A character who has Macreadus's blueprints from the laboratory (area B6) can use them to gain advantage on the check.
 
 ###### Step 2: Analyze the Problem
 
-The device has a design flaw, obviously. Macreadus has concluded that the device's rings are unable to contain the magical energy that the core puts out. A third ring must be attached to the device, and this new ring must have runes like those that appear on the other two rings. A character who succeeds on a DC 15 Intelligence (Insight) check comes to this conclusion. The check is made with advantage if the character witnessed the device malfunction.
+The device has a design flaw, obviously. Macreadus has concluded that the device's rings are unable to contain the magical energy that the core puts out. A third ring must be attached to the device, and this new ring must have runes like those that appear on the other two rings. A character who succeeds on a DC 15 Intelligence ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check comes to this conclusion. The check is made with advantage if the character witnessed the device malfunction.
 
 ###### Step 3: Fix the Design Flaw
 
-To craft a third ring, a quarter-pound of metal must be melted down in a fire and recast using smith's tools, then inscribed with runes by someone with a steady hand—that is, a character who succeeds on a DC 15 Dexterity (Arcana) check. Using tinker's tools provides advantage on the check. Finally, the device must be modified to accommodate the third ring, using either smith's tools or tinker's tools. The modification process can be completed in a few hours.
+To craft a third ring, a quarter-pound of metal must be melted down in a fire and recast using smith's tools, then inscribed with runes by someone with a steady hand—that is, a character who succeeds on a DC 15 Dexterity ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. Using tinker's tools provides advantage on the check. Finally, the device must be modified to accommodate the third ring, using either smith's tools or tinker's tools. The modification process can be completed in a few hours.
 
 ###### Step 4: Activate the Item
 
-A character must attune to the modified Summer Star to use it. While holding the device, the attuned character can use an action to cast the control weather spell from it, without the need for the character or the Summer Star to be outdoors. After the spell is cast, the Summer Star ceases to be magical. The spell lasts for the duration or until the character's concentration ends.
+A character must attune to the modified Summer Star to use it. While holding the device, the attuned character can use an action to cast the [control weather](3-Mechanics/CLI/spells/control-weather.md) spell from it, without the need for the character or the Summer Star to be outdoors. After the spell is cast, the Summer Star ceases to be magical. The spell lasts for the duration or until the character's concentration ends.
 
 Macreadus knows what must be done to fix the device but can't activate the item because he's dead. If no one can attune to the modified *Summer Star* because everyone in the party is dead and trapped as a spirit in the Border Ethereal, nothing more can be done with the device until someone else comes along who can attune to it. Fortunately for the characters, they don't have long to wait before someone arrives (see the "Werebear Visitor" sidebar). Characters in spirit form can convince the new arrival to do what they cannot, perhaps by writing messages in the snow, or on a section of wall or floor using ash from a nearby fireplace.
 
-Macreadus's spirit can finally rest after it witnesses the activation of the new and improved *Summer Star*. As it departs, the party receives a special blessing from Lathander. Any party member who died within the past 24 hours is instantly restored to life at full health, regardless of how the character died. In addition, each character who helped lay Macreadus's spirit to rest gains a *blessing of the Morninglord* (described below). For rules on blessings, see ""Supernatural Gifts"" in the "Dungeon Master's Guide".
+Macreadus's spirit can finally rest after it witnesses the activation of the new and improved *Summer Star*. As it departs, the party receives a special blessing from Lathander. Any party member who died within the past 24 hours is instantly restored to life at full health, regardless of how the character died. In addition, each character who helped lay Macreadus's spirit to rest gains a [blessing of the Morninglord](3-Mechanics/CLI/rewards/blessing-of-the-morninglord-idrotf.md) (described below). For rules on blessings, see ""Supernatural Gifts"" in the "Dungeon Master's Guide".
 
 > [!note] 
 > 
@@ -785,7 +765,7 @@ Macreadus's spirit can finally rest after it witnesses the activation of the new
 
 ###### Weak Floor
 
-The section of floor shown on map 2.3 has weakened over time and gives way if 150 pounds or more of weight crosses it. Any creature standing on the floor when it collapses must make a DC 15 Dexterity saving throw. On a failed save, the creature falls to the bottom of the gorge directly below this section of the cabin, taking `dice:14d6|noform|noparens|avg|text(49)` (`14d6`) bludgeoning damage and landing prone. On a successful save, the creature grabs hold of the edge of the remaining floor and is hanging from it. The creature can use an action to try to pull itself up, doing so with a successful DC 10 Strength (Athletics) check, while another creature within reach can use the Help action to assist. A hanging creature can repeat the check until it succeeds, but if a check fails by 5 or more, the creature lets go and falls.
+The section of floor shown on map 2.3 has weakened over time and gives way if 150 pounds or more of weight crosses it. Any creature standing on the floor when it collapses must make a DC 15 Dexterity saving throw. On a failed save, the creature falls to the bottom of the gorge directly below this section of the cabin, taking 49 (`14d6`) bludgeoning damage and landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a successful save, the creature grabs hold of the edge of the remaining floor and is hanging from it. The creature can use an action to try to pull itself up, doing so with a successful DC 10 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, while another creature within reach can use the [Help](3-Mechanics/CLI/rules/actions.md#Help) action to assist. A hanging creature can repeat the check until it succeeds, but if a check fails by 5 or more, the creature lets go and falls.
 
 ##### B5. Sweetberry Summer Wine
 
@@ -805,9 +785,9 @@ Despite its inability to partake of the libations, the spirit of Macreadus react
 > This room contains a fireplace and two empty bookcases. Tacked to the walls and strewn across the floor are frost-covered blueprints. Facedown on the floor next to one of the blueprints is a tiny man made of clay.
 ^2e3
 
-Any character who examines the clay figure and succeeds on a DC 15 Intelligence (Arcana) check ascertains that it is a dead homunculus. This was Macreadus's magical assistant, Blare. It died when its master died.
+Any character who examines the clay figure and succeeds on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check ascertains that it is a dead homunculus. This was Macreadus's magical assistant, Blare. It died when its master died.
 
-Any character proficient in Arcana can study the blueprints and conclude that they show different experimental designs for a weather-controlling magic device. One of these designs resembles a gyroscope and closely resembles the object found in area B4.
+Any character proficient in [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana) can study the blueprints and conclude that they show different experimental designs for a weather-controlling magic device. One of these designs resembles a gyroscope and closely resembles the object found in area B4.
 
 ##### B7. Abandoned Bedroom
 
@@ -831,7 +811,7 @@ Macreadus had a rock gnome assistant named Copper, but the two had a falling out
 
 The scroll is stained with soot but remains intact, since Macreadus never got around to burning it. Characters who retrieve it can read Copper's message, which is written in Common:
 
-![](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/103-02-008-handout.webp#center)
+![](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/103-02-008-handout.webp#center)
 
 > [!readaloud] 
 > 
@@ -852,14 +832,14 @@ Copper made it back to Ten-Towns, eventually finding his way to the House of the
 
 > [!note] Werebear Visitor
 > 
-> If the characters are stuck and need help dealing with the challenges of the Black Cabin, have a [goliath werebear](/3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md) (see appendix C) arrive unexpectedly. This new arrival could be Oyaminartok herself, if she's still alive and roaming Icewind Dale.
+> If the characters are stuck and need help dealing with the challenges of the Black Cabin, have a [goliath werebear](3-Mechanics/CLI/bestiary/humanoid/goliath-werebear-idrotf.md) (see appendix C) arrive unexpectedly. This new arrival could be Oyaminartok herself, if she's still alive and roaming Icewind Dale.
 > 
 > The werebear doesn't know the history of the Black Cabin or anything about the strange goings-on there. However, it likes to keep an eye on the place, if only to make sure evil creatures aren't hiding there. After helping the characters, the werebear offers to serve as a guide for up to seven days, though it avoids Ten-Towns.
 ^werebear-visitor
 
 #### Frostmaiden's Revenge
 
-The Frostmaiden is aware when someone uses the *Summer Star* to cast the control weather spell. She responds by sending a [coldlight walker](/3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C) and three [ice mephits](/3-Mechanics/CLI/bestiary/elemental/ice-mephit.md) to kill the characters and anyone else at the Black Cabin. If the party is 6th level or higher, add another coldlight walker to the attacking force. If the characters have a goliath werebear on their side, add a third coldlight walker and two more ice mephits.
+The Frostmaiden is aware when someone uses the *Summer Star* to cast the [control weather](3-Mechanics/CLI/spells/control-weather.md) spell. She responds by sending a [coldlight walker](3-Mechanics/CLI/bestiary/undead/coldlight-walker-idrotf.md) (see appendix C) and three [ice mephits](3-Mechanics/CLI/bestiary/elemental/ice-mephit.md) to kill the characters and anyone else at the Black Cabin. If the party is 6th level or higher, add another coldlight walker to the attacking force. If the characters have a goliath werebear on their side, add a third coldlight walker and two more ice mephits.
 
 The attacking force approaches the Black Cabin from the east. As the characters emerge from the cabin, read:
 
@@ -868,7 +848,7 @@ The attacking force approaches the Black Cabin from the east. As the characters 
 > Bright light shines from the east—a cold, hateful light—and seems to be getting closer.
 ^2ec
 
-The coldlight walkers are made from the frozen corpses of Ten-Towners who were banished to the tundra as sacrifices to the Frostmaiden (see "Sacrifices to Auril"). The ice mephits descend from the darkened sky to provide aerial support, using their fog cloud spells to engulf enemy spellcasters or to obscure the approaching coldlight walkers. These monsters always do the Frostmaiden's bidding and fight until destroyed. If the characters flee the cabin, the coldlight walkers and ice mephits pursue.
+The coldlight walkers are made from the frozen corpses of Ten-Towners who were banished to the tundra as sacrifices to the Frostmaiden (see "Sacrifices to Auril"). The ice mephits descend from the darkened sky to provide aerial support, using their [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md) spells to engulf enemy spellcasters or to obscure the approaching coldlight walkers. These monsters always do the Frostmaiden's bidding and fight until destroyed. If the characters flee the cabin, the coldlight walkers and ice mephits pursue.
 
 ### Cackling Chasm
 
@@ -878,9 +858,9 @@ The characters might visit this location after hearing a tale about a murdered f
 
 #### Tale of Gnoll Betrayal
 
-![Chyzka the Gnoll Fang of Yeenoghu](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/104-02-009-chyzka.webp#center)
+![Chyzka the Gnoll Fang of Yeenoghu](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/104-02-009-chyzka.webp#center)
 
-After a [gnoll fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md) murders its prey, any hyena that feasts on the kill is transformed into a full-grown [gnoll](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md). The gnolls of the Cackling Chasm, like all gnolls, were born in this fashion. But a rift has formed between the creator and its creations. The fang of Yeenoghu, Chyzka, is being blamed for the pack's recent misfortunes. It led the gnolls to Icewind Dale, promising abundant food. What the gnolls got instead was an unending winter and barely enough nourishment to sustain them. The gnolls are forced to resort to cannibalism to survive when food is scarce, and the pack has no hyenas to replenish its dwindling numbers. Because Chyzka lacks the ability to sustain the pack and create more gnolls, its usefulness has come to an end.
+After a [gnoll fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md) murders its prey, any hyena that feasts on the kill is transformed into a full-grown [gnoll](3-Mechanics/CLI/bestiary/humanoid/gnoll.md). The gnolls of the Cackling Chasm, like all gnolls, were born in this fashion. But a rift has formed between the creator and its creations. The fang of Yeenoghu, Chyzka, is being blamed for the pack's recent misfortunes. It led the gnolls to Icewind Dale, promising abundant food. What the gnolls got instead was an unending winter and barely enough nourishment to sustain them. The gnolls are forced to resort to cannibalism to survive when food is scarce, and the pack has no hyenas to replenish its dwindling numbers. Because Chyzka lacks the ability to sustain the pack and create more gnolls, its usefulness has come to an end.
 
 The other gnolls are too afraid of Chyzka to challenge it directly (it is, after all, one of Yeenoghu's chosen). The gnolls are, however, willing to stand idly by while the characters take care of Chyzka for them. Once the fang of Yeenoghu is dead, the gnolls will allow Chyzka's slayers to leave the chasm unmolested while they dine on Chyzka's remains. The characters' actions give them a window of time to take what they want and flee the chasm before the remaining gnolls turn against them.
 
@@ -891,13 +871,13 @@ The other gnolls are too afraid of Chyzka to challenge it directly (it is, after
 > A yawning chasm ahead of you threatens to devour you as if it were a giant, icy maw. The wind sweeping through the mountains can't drown out the inhuman cackling that echoes in the chasm's depths.
 ^2f0
 
-Characters who look over the edge of the icy chasm can see stony projections resembling teeth, as well as a ledge 30 feet down. (A wider ledge 100 feet down is probably initially beyond the range of the characters' light sources and darkvision.)
+Characters who look over the edge of the icy chasm can see stony projections resembling teeth, as well as a ledge 30 feet down. (A wider ledge 100 feet down is probably initially beyond the range of the characters' light sources and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision).)
 
 A search of the surrounding area reveals a cave mouth near the south end of the chasm (area Z1). Within the cave mouth are steps leading down to area Z2, which leads to the uppermost ledge of the chasm. Alternatively, characters can use magic or climbing gear to lower themselves down into the chasm.
 
 > [!gallery]
-> ![Map 2.4: Cackling Chasm](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/105-map-2-4-cackling-chasm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/106-map-2-4-cackling-chasm-player.webp#gallery)
+> ![Map 2.4: Cackling Chasm](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/105-map-2-4-cackling-chasm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/106-map-2-4-cackling-chasm-player.webp#gallery)
 
 #### Cackling Chasm Locations
 
@@ -910,7 +890,7 @@ The following locations are keyed to map 2.4.
 > At the south end of the chasm, humanoid skulls are stacked on either side of a cave mouth that contains icy steps descending into the rock. Blood has been used to draw crude symbols on the skulls.
 ^2f3
 
-The skulls belong to humans, dwarves, goblins, goliaths, and orcs. The symbol on each skull looks like a three-headed flail. Any character who succeeds on a DC 15 Intelligence (Religion) check recognizes it as the symbol of Yeenoghu, the demon lord of gnolls. 
+The skulls belong to humans, dwarves, goblins, goliaths, and orcs. The symbol on each skull looks like a three-headed flail. Any character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes it as the symbol of Yeenoghu, the demon lord of gnolls. 
 
 ##### Z2. Feasting Cave
 
@@ -921,9 +901,9 @@ The skulls belong to humans, dwarves, goblins, goliaths, and orcs. The symbol on
 
 The gnolls gather here to eat when there's food to be had.
 
-Most of the bones have been broken to enable the gnolls to get to the marrow inside them. Past feasts include elk, [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md), moose, foxes, wolves, and humanoids. Some of the bones belong to gnolls who fell prey to cannibalism.
+Most of the bones have been broken to enable the gnolls to get to the marrow inside them. Past feasts include elk, [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md), moose, foxes, wolves, and humanoids. Some of the bones belong to gnolls who fell prey to cannibalism.
 
-The four [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) in area Z3 move here to investigate any loud noises. They don't attack intruders right away, however, except in self-defense (see "Tale of Gnoll Betrayal").
+The four [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) in area Z3 move here to investigate any loud noises. They don't attack intruders right away, however, except in self-defense (see "Tale of Gnoll Betrayal").
 
 ###### Treasure
 
@@ -936,7 +916,7 @@ Characters who search the cave for treasure find a leather pouch beneath a pile 
 > A crude stone altar with a mountain goat's bloody head resting atop it dominates this eight-foot-high cave. The floor around the altar is littered with gnawed animal bones.
 ^2f8
 
-Unless they were drawn to area Z2, four [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) are crouched before the altar, weighing the ramifications of licking the flesh off the goat's skull, which is meant to be an offering to the demon lord Yeenoghu. These hungry gnolls don't attack intruders right away, except in self-defense (see "Tale of Gnoll Betrayal").
+Unless they were drawn to area Z2, four [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) are crouched before the altar, weighing the ramifications of licking the flesh off the goat's skull, which is meant to be an offering to the demon lord Yeenoghu. These hungry gnolls don't attack intruders right away, except in self-defense (see "Tale of Gnoll Betrayal").
 
 ##### Z4. Frozen Rift
 
@@ -947,17 +927,17 @@ Unless they were drawn to area Z2, four [gnolls](/3-Mechanics/CLI/bestiary/human
 > Manic laughter echoes through the chasm as you look around, the sound ricocheting off the walls that make its origin impossible to pinpoint.
 ^2fa
 
-Chyzka, the [fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), encourages internal fighting whenever it senses the pack might turn against it. The dead gnolls seen throughout the chasm were victims of either these squabbles or their own carelessness. Although the ledge that allows access to the various caves is slick with ice, cautious characters can move on it without falling.
+Chyzka, the [fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), encourages internal fighting whenever it senses the pack might turn against it. The dead gnolls seen throughout the chasm were victims of either these squabbles or their own carelessness. Although the ledge that allows access to the various caves is slick with ice, cautious characters can move on it without falling.
 
-Every loud noise in the chasm can be heard in the surrounding caves, and vice versa. Characters who make enough noise to attract the attention of the gnolls can hear them coming by their manic laughter. The Cackling Chasm Roster provides a summary of these denizens and the areas they originate in. When Chyzka sees intruders, it barks orders to the other gnolls, after which there's an awkward pause as the subordinate gnolls give the characters expectant looks. Any character who succeeds on a DC 13 Wisdom (Insight) check can ascertain that these gnolls have lost faith in their leader and would be delighted to see Chyzka fall.
+Every loud noise in the chasm can be heard in the surrounding caves, and vice versa. Characters who make enough noise to attract the attention of the gnolls can hear them coming by their manic laughter. The Cackling Chasm Roster provides a summary of these denizens and the areas they originate in. When Chyzka sees intruders, it barks orders to the other gnolls, after which there's an awkward pause as the subordinate gnolls give the characters expectant looks. Any character who succeeds on a DC 13 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check can ascertain that these gnolls have lost faith in their leader and would be delighted to see Chyzka fall.
 
 **Cackling Chasm Roster**
 
 | Area | Occupants |
 |------|-----------|
-| Z3 | 4 [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) |
-| Z5 | 1 [gnoll fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md) (Chyzka) |
-| Z6 | 12 [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) during the day, 6 [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) at night |
+| Z3 | 4 [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) |
+| Z5 | 1 [gnoll fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md) (Chyzka) |
+| Z6 | 12 [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) during the day, 6 [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) at night |
 ^cackling-chasm-roster
 
 ##### Z5. Chyzka's Cave
@@ -967,7 +947,7 @@ Every loud noise in the chasm can be heard in the surrounding caves, and vice ve
 > Painted in blood on the walls of this eight-foot-high cave are pictographs of a towering monster with sharp teeth that wields what looks like a three-headed flail. Packs of hyenas feed on the corpses in its wake. A small fire crackles near the south wall, filling the cave with smoke. Cooking above the fire is a small green fish, while behind the fire, leaning against the south wall, is a blood-encrusted spear and a fishing pole.
 ^2fc
 
-Chyzka, a [gnoll fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), is resting here unless a disturbance has summoned it elsewhere. The bloody paintings on the wall show the demon lord Yeenoghu and his brood.
+Chyzka, a [gnoll fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md), is resting here unless a disturbance has summoned it elsewhere. The bloody paintings on the wall show the demon lord Yeenoghu and his brood.
 
 The cave is littered with pieces of dirty cloth and moldy hides, all taken from prey. The spear leaning against the south wall is nonmagical but has a silvered tip stained red with blood. Though the spear has its uses, Chyzka prefers to attack with its claws and teeth.
 
@@ -975,7 +955,7 @@ The cave is littered with pieces of dirty cloth and moldy hides, all taken from 
 
 Next to the fire, a bloodstained bolt of cloth has been folded around a pile of coins the gnolls lifted from their victims, creating a makeshift bundle that holds 21 gp, 56 sp, and 117 cp.
 
-The fishing pole is unremarkable, but a [hook of fisher's delight](/3-Mechanics/CLI/items/hook-of-fishers-delight-idrotf.md) (see appendix D) is tied to the end of it. Chyzka took the pole from an Easthaven fisher named Nabira Moarskull after slaying her.
+The fishing pole is unremarkable, but a [hook of fisher's delight](3-Mechanics/CLI/items/hook-of-fishers-delight-idrotf.md) (see appendix D) is tied to the end of it. Chyzka took the pole from an Easthaven fisher named Nabira Moarskull after slaying her.
 
 ##### Z6. Sleeping Cave
 
@@ -991,7 +971,7 @@ If the gnolls in this cave have not been drawn out, add:
 > Gaunt, shivering gnolls huddle around a sputtering fire, cackling incessantly.
 ^300
 
-At night, this cave holds twelve [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md). That number drops to six during the day as half the gnolls leave the chasm to hunt for food. The gnolls huddle together for warmth. All of them are hungry and emaciated.
+At night, this cave holds twelve [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md). That number drops to six during the day as half the gnolls leave the chasm to hunt for food. The gnolls huddle together for warmth. All of them are hungry and emaciated.
 
 ##### Z7. Storeroom
 
@@ -1009,19 +989,19 @@ The gnolls often take food supplies from slaughtered travelers headed to and fro
 > Situated atop the ledge is a cage made of thick timber beams with a bolted iron door and iron fittings. The cage is five feet on a side and seven feet tall. Inside it, a male human in hide armor paces back and forth. His murderous eyes lock onto any sort of movement he notices, and he clutches a javelin made of a black, crystalline substance. The skin on his hands and face is black from frostbite, and his lips are chapped and bleeding from the cold.
 ^304
 
-The man in the cage is a nameless [chardalyn berserker](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C) with 60 hit points remaining. The gnolls captured him almost by accident. He ventured into the chasm a few days ago and brutally attacked any gnoll he encountered. One gnoll climbed atop the cage to get away from him. As the berserker started to climb after it, he was pushed from behind by another gnoll and locked in the cage. The gnolls are keeping him confined until he grows weak enough that they dare to open the cage to kill and eat him. The bolt on the door can't be reached by someone trapped in the cage.
+The man in the cage is a nameless [chardalyn berserker](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C) with 60 hit points remaining. The gnolls captured him almost by accident. He ventured into the chasm a few days ago and brutally attacked any gnoll he encountered. One gnoll climbed atop the cage to get away from him. As the berserker started to climb after it, he was pushed from behind by another gnoll and locked in the cage. The gnolls are keeping him confined until he grows weak enough that they dare to open the cage to kill and eat him. The bolt on the door can't be reached by someone trapped in the cage.
 
-During the skirmish, the berserker lost his chardalyn flail and two chardalyn javelins, all of which fell into the chasm. He still has one javelin left. The berserker tries to grapple any character he can reach through the bars; if he succeeds, he tries to stab the grappled character with his javelin on his next turn. If he is released, the berserker attacks the nearest creature without fear or remorse. Efforts to parlay with the berserker are met with hateful silence.
+During the skirmish, the berserker lost his chardalyn flail and two chardalyn javelins, all of which fell into the chasm. He still has one javelin left. The berserker tries to grapple any character he can reach through the bars; if he succeeds, he tries to stab the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) character with his javelin on his next turn. If he is released, the berserker attacks the nearest creature without fear or remorse. Efforts to parlay with the berserker are met with hateful silence.
 
 #### Leaving the Chasm
 
-Once the characters get what they came for, there's little reason to stay. In fact, characters who stay too long run the risk of encountering six [gnolls](/3-Mechanics/CLI/bestiary/humanoid/gnoll.md) returning from a hunt. There's a 20 percent chance that the gnolls have brought food with them, such as a dead mountain goat or crag cat, in which case the gnolls gather in area Z2 (along with any other gnolls left alive in the chasm) to feast on the fresh kill.
+Once the characters get what they came for, there's little reason to stay. In fact, characters who stay too long run the risk of encountering six [gnolls](3-Mechanics/CLI/bestiary/humanoid/gnoll.md) returning from a hunt. There's a 20 percent chance that the gnolls have brought food with them, such as a dead mountain goat or crag cat, in which case the gnolls gather in area Z2 (along with any other gnolls left alive in the chasm) to feast on the fresh kill.
 
 If the characters turn the gnolls' animus toward Chyzka to their advantage, they can come and go without having to kill every gnoll in the chasm. Even so, any gnolls they leave alive remain a potential threat to Ten-Towns.
 
 ##### Real Adventure Hook
 
-If the characters retrieve the [hook of fisher's delight](/3-Mechanics/CLI/items/hook-of-fishers-delight-idrotf.md), they might decide to keep it, or they might try returning it to Nabira Moarskull's family in Easthaven. Nabira left behind an adult son and daughter, both of whom have families of their own. One of Nabira's grandchildren, Ahmi, is celebrating a birthday soon, but Nabira's death has dampened the child's mood. Ahmi would be delighted to receive the fishing hook as a gift, if the characters are willing to part with it. Ahmi's family can scrape together 50 gp to buy it, if the characters insist on a monetary reward.
+If the characters retrieve the [hook of fisher's delight](3-Mechanics/CLI/items/hook-of-fishers-delight-idrotf.md), they might decide to keep it, or they might try returning it to Nabira Moarskull's family in Easthaven. Nabira left behind an adult son and daughter, both of whom have families of their own. One of Nabira's grandchildren, Ahmi, is celebrating a birthday soon, but Nabira's death has dampened the child's mood. Ahmi would be delighted to receive the fishing hook as a gift, if the characters are willing to part with it. Ahmi's family can scrape together 50 gp to buy it, if the characters insist on a monetary reward.
 
 ### Cave of the Berserkers
 
@@ -1031,7 +1011,7 @@ Here are some ways in which the characters might learn about this place:
 
 - A tale in Ten-Towns spurs the characters to visit the cave (see "Tall Tales in Ten-Towns").  
 - A ring taken off a dead berserker (see "Chardalyn Berserkers") teleports the characters to area Q1.  
-- A goliath werebear encountered in the wild (see "Goliath Werebear") or King [Gunvald Halraggson](/3-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md) of the Bear Tribe (see the "Reghed Nomads" section in appendix C) urges the characters to rid the cave of its evil inhabitants.  
+- A goliath werebear encountered in the wild (see "Goliath Werebear") or King [Gunvald Halraggson](3-Mechanics/CLI/bestiary/npc/gunvald-halraggson-idrotf.md) of the Bear Tribe (see the "Reghed Nomads" section in appendix C) urges the characters to rid the cave of its evil inhabitants.  
 
 #### Story of the Cave
 
@@ -1042,12 +1022,12 @@ The berserkers worship the Frostmaiden and no longer consider themselves members
 The berserkers share their cave with two white dragon wyrmlings, which hatched from eggs that the berserkers stole from within a glacial rift. The berserkers share their food with the wyrmlings, which guard the cave while the berserkers are out hunting.
 
 > [!gallery]
-> ![Map 2.5: Cave of the Berserkers](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/107-map-2-5-berserkers.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/108-map-2-5-berserkers-player.webp#gallery)
+> ![Map 2.5: Cave of the Berserkers](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/107-map-2-5-berserkers.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/108-map-2-5-berserkers-player.webp#gallery)
 
 #### Cave Locations
 
-The cave's chambers and tunnels were hewn from solid rock by dwarves long ago. The berserkers carry torches to see where they're going. Characters without darkvision must rely on their own light sources as well.
+The cave's chambers and tunnels were hewn from solid rock by dwarves long ago. The berserkers carry torches to see where they're going. Characters without [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) must rely on their own light sources as well.
 
 The following locations are keyed to map 2.5.
 
@@ -1057,7 +1037,7 @@ An elevated causeway covered with snow winds toward the mouth of the berserkers'
 
 ###### Waste Chute
 
-Characters who examine the cliff face for other possible entrances can, with a successful DC 10 Wisdom (Perception) check, spot an opening in the cliff near the bottom of the ravine east of the winding causeway. This hole is one end of a chute that, once it enters the rock, ascends steeply to area Q4.
+Characters who examine the cliff face for other possible entrances can, with a successful DC 10 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check, spot an opening in the cliff near the bottom of the ravine east of the winding causeway. This hole is one end of a chute that, once it enters the rock, ascends steeply to area Q4.
 
 ##### Q2. Bear's Head
 
@@ -1066,19 +1046,19 @@ Characters who examine the cliff face for other possible entrances can, with a s
 > Built around the mouth of the cave is a ramshackle wooden portico crudely shaped like a bear's head with its mouth agape. The tunnel beyond it is dark.
 ^30d
 
-The portico is sturdier than it looks. It has AC 15, 75 hit points, and immunity to poison and psychic damage. Characters who damage the portico make enough noise to attract the two [white dragon wyrmlings](/3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) in area Q4. One makes its way through area Q3 to confront intruders head-on while the other descends the chute in area Q4 and attacks from behind.
+The portico is sturdier than it looks. It has AC 15, 75 hit points, and immunity to poison and psychic damage. Characters who damage the portico make enough noise to attract the two [white dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) in area Q4. One makes its way through area Q3 to confront intruders head-on while the other descends the chute in area Q4 and attacks from behind.
 
 The wyrmlings don't pursue prey that flees the cave. Instead, they roost atop snowy outcroppings above the entrance and keep watch for several hours before retiring to their lair (area Q4) to rest.
 
-![The white wyrmlings Gelym ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/109-02-010-dragons.webp#center "The white wyrmlings Gelym and Tyzar perch outside the Bear's Head")
+![The white wyrmlings Gelym and Tyzar perch outside the Bear's Head](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/109-02-010-dragons.webp#center)
 
 ##### Q3. Eggshells in Cells
 
 Characters who pass through the bear's head portico step onto an icy ramp that ascends 5 feet to a 20-foot-high chamber festooned with icicles. A naturally formed pillar supports the chamber's domed roof.
 
-Two alcoves set into the north wall are fitted with rusty iron gates. Their chains, padlocks, and keys lie discarded on the floor outside them. Inside each cell are fragments of the shell of a bluish-white egg that must've been as large as a halfling. Any character who examines these eggshells and succeeds on a DC 13 Intelligence (Nature) check concludes that they are white dragon eggs that hatched about three years ago.
+Two alcoves set into the north wall are fitted with rusty iron gates. Their chains, padlocks, and keys lie discarded on the floor outside them. Inside each cell are fragments of the shell of a bluish-white egg that must've been as large as a halfling. Any character who examines these eggshells and succeeds on a DC 13 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check concludes that they are white dragon eggs that hatched about three years ago.
 
-Any loud noise here, which could be from the opening of either gate or the rattling of chains, alerts the two [white dragon wyrmlings](/3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) in area Q4. One confronts intruders head-on while the other descends the chute in area Q4 and swoops in from behind.
+Any loud noise here, which could be from the opening of either gate or the rattling of chains, alerts the two [white dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) in area Q4. One confronts intruders head-on while the other descends the chute in area Q4 and swoops in from behind.
 
 ##### Q4. Waste Chute
 
@@ -1087,13 +1067,13 @@ Any loud noise here, which could be from the opening of either gate or the rattl
 > This eight-foot-high cave is unfurnished and unlit. A hole in the southwest corner is the mouth of an open chute that reeks of blood and filth.
 ^310
 
-If they have not been lured elsewhere, two [white dragon wyrmlings](/3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) named Gelym and Tyzar curl up together in the eastern part of the cave. They attack any creature that enters their den.
+If they have not been lured elsewhere, two [white dragon wyrmlings](3-Mechanics/CLI/bestiary/dragon/white-dragon-wyrmling.md) named Gelym and Tyzar curl up together in the eastern part of the cave. They attack any creature that enters their den.
 
-The stone chute is 25 feet long, roughly hewn, and steeply angled. It empties into the ravine outside and requires a successful DC 15 Strength (Athletics) check to ascend or descend without magic or climbing gear; a character who fails this check by 5 or more slips and tumbles into the ravine, landing in soft snow. Gore from the slaughterhouse (area Q6), not to mention human waste, is routinely dumped down the chute, which is stained with blood and filth.
+The stone chute is 25 feet long, roughly hewn, and steeply angled. It empties into the ravine outside and requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to ascend or descend without magic or climbing gear; a character who fails this check by 5 or more slips and tumbles into the ravine, landing in soft snow. Gore from the slaughterhouse (area Q6), not to mention human waste, is routinely dumped down the chute, which is stained with blood and filth.
 
 ###### Treasure
 
-The wyrmlings have begun collecting treasures and stashing them in a small pile against the east wall. Their paltry hoard consists of 96 sp, 331 cp, a stitched leather wallet containing a complete set of thieves' tools, a cracked spyglass (250 gp), and a spell scroll of knock.
+The wyrmlings have begun collecting treasures and stashing them in a small pile against the east wall. Their paltry hoard consists of 96 sp, 331 cp, a stitched leather wallet containing a complete set of [thieves' tools](3-Mechanics/CLI/items/thieves-tools.md), a cracked spyglass (250 gp), and a spell scroll of [knock](3-Mechanics/CLI/spells/knock.md).
 
 ##### Q5. Frostmaiden's Fire
 
@@ -1102,9 +1082,9 @@ The wyrmlings have begun collecting treasures and stashing them in a small pile 
 > Hundreds of icicles cling to the twelve-foot-high ceiling of this frost-rimed chamber, which is bathed in flickering blue light. The light's source is a blue flame crackling in a stone brazier that stands against the far wall. The white smoke that rises above it coalesces every few seconds into the form of a woman, but the image is fleeting.
 ^313
 
-A detect magic spell reveals a powerful aura of abjuration magic around the 3-foot-high stone brazier, which rises naturally from the floor and is therefore not a discrete object. It can't be moved or damaged, and its magical flame can't be smothered or put out with water. Any creature that comes into direct contact with the fire for the first time on a turn takes `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) cold damage.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals a powerful aura of abjuration magic around the 3-foot-high stone brazier, which rises naturally from the floor and is therefore not a discrete object. It can't be moved or damaged, and its magical flame can't be smothered or put out with water. Any creature that comes into direct contact with the fire for the first time on a turn takes 10 (`3d6`) cold damage.
 
-Casting dispel magic on the fire snuffs it out for 1 hour, after which the fire reignites on its own. Using a stone shape spell to alter the brazier's shape puts out the fire for good.
+Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on the fire snuffs it out for 1 hour, after which the fire reignites on its own. Using a [stone shape](3-Mechanics/CLI/spells/stone-shape.md) spell to alter the brazier's shape puts out the fire for good.
 
 As long as the brazier's cold fire burns, chardalyn berserkers inside the cave (areas Q3 through Q8, and the tunnels and chutes that attach to them) can't drop below 1 hit point. No other creatures gain this benefit. Characters who fight the berserkers inside their lair see them shake off damage that would normally kill them.
 
@@ -1119,7 +1099,7 @@ The berserkers are aware of the fire's benefit, as evidenced by the rictus grins
 > Along one wall, metal hooks pierce the ice. A large man in blood-drenched hide armor hangs carcasses from these hooks to bleed out. His face and limbs are blackened by frostbite, and he seems to be absent a nose.
 ^315
 
-A nameless [chardalyn berserker](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C) has just finished butchering a [snowy owlbear](/3-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md) that was lured into the cave and killed. The berserker grabs its weapons (which are always within easy reach) and attacks intruders on sight. If the flame in area Q5 is burning, the berserker can't drop below 1 hit point unless he's lured outside the cave.
+A nameless [chardalyn berserker](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C) has just finished butchering a [snowy owlbear](3-Mechanics/CLI/bestiary/monstrosity/snowy-owlbear-idrotf.md) that was lured into the cave and killed. The berserker grabs its weapons (which are always within easy reach) and attacks intruders on sight. If the flame in area Q5 is burning, the berserker can't drop below 1 hit point unless he's lured outside the cave.
 
 ##### Q7. Meat Storage
 
@@ -1138,7 +1118,7 @@ This 10-foot-high, frost-rimed chamber lies beyond a 10-foot-deep fissure. A fro
 
 #### Returning Berserkers
 
-After the characters have a chance to explore the cave and as they are preparing to leave it, three [chardalyn berserkers](/3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C) return to the cave with the carcass of a slain peryton. One berserker leads the way while the other two carry the dead peryton between them.
+After the characters have a chance to explore the cave and as they are preparing to leave it, three [chardalyn berserkers](3-Mechanics/CLI/bestiary/fiend/chardalyn-berserker-idrotf.md) (see appendix C) return to the cave with the carcass of a slain peryton. One berserker leads the way while the other two carry the dead peryton between them.
 
 As the characters emerge from the cave, they see the berserkers on the causeway. More important, the berserkers see *them* unless the characters took precautions to leave the cave in a stealthy manner. The berserkers gain no benefit from the Frostmaiden's fire (see area Q5) while they're on the causeway, so they try to get inside the cave, attacking anyone in their way. If the fire has been put out, the berserkers won't know that until one of them is killed inside the cave.
 
@@ -1170,13 +1150,13 @@ When the characters get within 15 feet of the ship, read:
 > You hear loud thumping and creaking coming from inside the hold, followed by the guttural snarls of some creature. The ship is not as abandoned as it appeared!
 ^31f
 
-An [ice troll](/3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md) (see appendix C) was chasing a herd of seals when it spotted the abandoned ship and crept across the ice to explore it, hoping to find something tasty inside. It spooked some kobolds in the hold and chased them into a cabin. The kobolds were able to barricade the door, and the troll is trying to break through it to get at them.
+An [ice troll](3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md) (see appendix C) was chasing a herd of seals when it spotted the abandoned ship and crept across the ice to explore it, hoping to find something tasty inside. It spooked some kobolds in the hold and chased them into a cabin. The kobolds were able to barricade the door, and the troll is trying to break through it to get at them.
 
-Characters can surprise the troll if they remain quiet as they make their way into the ship's hold (area D9). Climbing onto the ship and moving through it without alerting the troll requires a successful DC 12 Dexterity (Stealth) check. If a character fails this check, the troll hears the character's footsteps or the creaking of the deck and realizes there's an easier meal to be had.
+Characters can surprise the troll if they remain quiet as they make their way into the ship's hold (area D9). Climbing onto the ship and moving through it without alerting the troll requires a successful DC 12 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If a character fails this check, the troll hears the character's footsteps or the creaking of the deck and realizes there's an easier meal to be had.
 
 > [!gallery]
-> ![Map 2.6: Dark Duchess](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/110-map-2-6-dark-duchess.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/111-map-2-6-dark-duchess-player.webp#gallery)
+> ![Map 2.6: Dark Duchess](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/110-map-2-6-dark-duchess.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/111-map-2-6-dark-duchess-player.webp#gallery)
 
 #### Dark Duchess Locations
 
@@ -1191,7 +1171,7 @@ Ceilings of the lower decks are 10 feet high, and all doors are 7 feet tall and 
 > The wooden boards on the main deck are cracked from frost. A large hole in the deck exposes a part of the hold to the sky. The planks around the hole are marred with deep grooves, as if heavy claws had dug into them.
 ^322
 
-To reach the hold, Arveiaturace had to break apart a large portion of the deck, creating a gaping hole. A character who examines the marks around the hole and succeeds on a DC 12 Wisdom (Survival) check can correctly surmise that a single enormous creature did all the damage. If the check succeeds by 5 or more, the character can confirm that the marks were made by a dragon's claws.
+To reach the hold, Arveiaturace had to break apart a large portion of the deck, creating a gaping hole. A character who examines the marks around the hole and succeeds on a DC 12 Wisdom ([Survival](3-Mechanics/CLI/rules/skills.md#Survival)) check can correctly surmise that a single enormous creature did all the damage. If the check succeeds by 5 or more, the character can confirm that the marks were made by a dragon's claws.
 
 ###### Entering the Captain's Cabin
 
@@ -1217,7 +1197,7 @@ Ice coats the captain's wheel. There's nothing else of interest here.
 > In this narrow cabin, shelves and containers are scattered on the floor amid piles of dirty bandages. Small clusters of dried leaves have frozen to the floor in places. A disheveled, frost-covered bed is tucked in an alcove under a wooden staircase.
 ^328
 
-The surgeon's cabin has been searched by the kobolds living in the *Dark Duchess*, but they overlooked some items that might interest the characters. Under the bed are three vials of antitoxin, a healer's kit, and a vial of holy water.
+The surgeon's cabin has been searched by the kobolds living in the *Dark Duchess*, but they overlooked some items that might interest the characters. Under the bed are three vials of [antitoxin](3-Mechanics/CLI/items/antitoxin-vial.md), a [healer's kit](3-Mechanics/CLI/items/healers-kit.md), and a [vial of holy water](3-Mechanics/CLI/items/holy-water-flask.md).
 
 ##### D5. First Mate's Cabin
 
@@ -1230,7 +1210,7 @@ A frost-covered bed is shoved into one corner under a wooden staircase. The rest
 > As the door comes open, a light breeze emerges from this room. Pieces of parchment and paper flutter on the floor. A large, detailed map of the Sword Coast takes up most of one wall.
 ^32b
 
-This room contains two useful maps: the 6-foot-wide, 6-foot tall map of the Sword Coast hanging on the wall and a map of Icewind Dale stored in a map case that lies on the floor. A thorough search of the room also yields a set of navigator's tools.
+This room contains two useful maps: the 6-foot-wide, 6-foot tall map of the Sword Coast hanging on the wall and a map of Icewind Dale stored in a map case that lies on the floor. A thorough search of the room also yields a set of [navigator's tools](3-Mechanics/CLI/items/navigators-tools.md).
 
 ##### D7. Storage
 
@@ -1243,7 +1223,7 @@ Nonperishable goods were stored in this cabin. The crew took a lot of supplies w
 
 ###### Barrels
 
-The characters must use a crowbar or similar tool to pry open a frozen barrel. The first barrel contains a hooded lantern, three flasks of oil, five bars of lime soap, and three sets of manacles. The second barrel holds ten torches.
+The characters must use a crowbar or similar tool to pry open a frozen barrel. The first barrel contains a [hooded lantern](3-Mechanics/CLI/items/hooded-lantern.md), three [flasks of oil](3-Mechanics/CLI/items/oil-flask.md), five bars of lime soap, and three sets of [manacles](3-Mechanics/CLI/items/manacles.md). The second barrel holds ten [torches](3-Mechanics/CLI/items/torch.md).
 
 ##### D8. Captain's Cabin
 
@@ -1254,7 +1234,7 @@ The characters must use a crowbar or similar tool to pry open a frozen barrel. T
 > A human corpse is slumped against the port-side wall, its left arm draped across part of a heavy chest that's tucked in an alcove under a staircase. The skeleton wears a jacket and a wide-brimmed hat that hides most of its skull. Under its right arm is a captain's journal. The floor is strewn with empty wine bottles.
 ^330
 
-The kobolds have not set foot inside this cabin; in fact, no one has been here since the crew abandoned ship. The corpse is all that remains of Captain Rudolph Bluemoon, who stayed behind to watch over the ship and his ill-gotten booty. He ran out of provisions and starved before freezing to death. Affixed to the captain's hat is a badge that forms a curious symbol: a red eel wrapped around a gold trident. Characters who succeed on a DC 15 Intelligence (History) check recognize this as one of the symbols of Ship Suljack, a powerful faction in Luskan that engages in piracy. Captain Bluemoon was a member of this faction.
+The kobolds have not set foot inside this cabin; in fact, no one has been here since the crew abandoned ship. The corpse is all that remains of Captain Rudolph Bluemoon, who stayed behind to watch over the ship and his ill-gotten booty. He ran out of provisions and starved before freezing to death. Affixed to the captain's hat is a badge that forms a curious symbol: a red eel wrapped around a gold trident. Characters who succeed on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check recognize this as one of the symbols of Ship Suljack, a powerful faction in Luskan that engages in piracy. Captain Bluemoon was a member of this faction.
 
 In the captain's inside jacket pocket, the characters find a key with its head fashioned in the form of a rat's skull. This key unlocks the captain's chest (see "Treasure" below).
 
@@ -1262,7 +1242,7 @@ The wine bottles have labels that read "Sweetberry Summer Wine." The bottles' co
 
 ###### Captain's Journal
 
-Bluemoon's journal chronicles the exploits of the Dark Duchess but says little about the man in charge. A character who succeeds on a DC 15 Intelligence (History) check knows a story or two about Captain Bluemoon. This is a great opportunity to allow the player of that character to make up a credible story; if the player accepts the challenge, award inspiration to that player's character. The character also recalls that Captain Bluemoon was a cruel, cunning individual who ruled his ship through fear instead of respect. He had many enemies and few friends.
+Bluemoon's journal chronicles the exploits of the Dark Duchess but says little about the man in charge. A character who succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check knows a story or two about Captain Bluemoon. This is a great opportunity to allow the player of that character to make up a credible story; if the player accepts the challenge, award inspiration to that player's character. The character also recalls that Captain Bluemoon was a cruel, cunning individual who ruled his ship through fear instead of respect. He had many enemies and few friends.
 
 The captain's final journal entry reads:
 
@@ -1279,7 +1259,7 @@ Inside the chest is a wooden partition that divides the interior into two halves
 
 ##### D9. Hold
 
-Unless the characters lure it elsewhere, a frustrated [ice troll](/3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md) (see appendix C) stands at the bottom of the wooden stairs leading down from the main deck. It is trying to claw through the door that leads to area D12. The troll can't be reasoned with. After disposing of it, the characters can survey the contents of the hold:
+Unless the characters lure it elsewhere, a frustrated [ice troll](3-Mechanics/CLI/bestiary/giant/ice-troll-idrotf.md) (see appendix C) stands at the bottom of the wooden stairs leading down from the main deck. It is trying to claw through the door that leads to area D12. The troll can't be reasoned with. After disposing of it, the characters can survey the contents of the hold:
 
 > [!readaloud] 
 > 
@@ -1296,7 +1276,7 @@ Arveiaturace's treasure pile is buried under four thick, translucent layers of i
 
 ###### Second Layer
 
-Small art objects and gems lie under the second layer of ice. The characters find nine tattered pieces of indigo fabric lined with gold thread (25 gp each), three pieces of quartz (50 gp each), a single aquamarine cracked down the center (250 gp), and a scrimshaw figurine of an archer etched with magical script. This figurine functions like a spell scroll of remove curse, then turns to dust after its magic is spent.
+Small art objects and gems lie under the second layer of ice. The characters find nine tattered pieces of indigo fabric lined with gold thread (25 gp each), three pieces of quartz (50 gp each), a single aquamarine cracked down the center (250 gp), and a scrimshaw figurine of an archer etched with magical script. This figurine functions like a spell scroll of [remove curse](3-Mechanics/CLI/spells/remove-curse.md), then turns to dust after its magic is spent.
 
 ###### Third Layer
 
@@ -1304,9 +1284,9 @@ The third layer of ice covers 221 gp, a 1-foot-tall marble statuette of a griffo
 
 ###### Fourth Layer
 
-The fourth layer of ice shields the biggest, heaviest items and the treasure the dragon values the most: a 3-foot-diameter ceremonial bronze bowl inlaid with carnelians (1,000 gp), seven garnets (100 gp each), a suit of mithral armor (chain mail), and a near-perfect replica of the Wand of Orcus that emits green light from the skull at its tip. Any character who tries to attune to this Wand of Orcus realizes it's a fake, though it does emit magical light comparable to that created by a continual flame spell.
+The fourth layer of ice shields the biggest, heaviest items and the treasure the dragon values the most: a 3-foot-diameter ceremonial bronze bowl inlaid with carnelians (1,000 gp), seven garnets (100 gp each), a suit of mithral armor (chain mail), and a near-perfect replica of the Wand of Orcus that emits green light from the skull at its tip. Any character who tries to attune to this Wand of Orcus realizes it's a fake, though it does emit magical light comparable to that created by a [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spell.
 
-![The Dark Duchess is trappe...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/112-02-011-dark-duchess.webp#center "The Dark Duchess is trapped in the ice—another victim of the Frostmaiden's everlasting winter")
+![The Dark Duchess is trapped in the ice—another victim of the Frostmaiden's everlasting winter](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/112-02-011-dark-duchess.webp#center)
 
 ##### D10. Galley
 
@@ -1315,7 +1295,7 @@ The fourth layer of ice shields the biggest, heaviest items and the treasure the
 > This cabin has been thoroughly ransacked. Dishes are strewn across the floor, and a galley table in the middle of the room has pots and ladles hanging above it. Tied to a low cupboard against the starboard wall is a thin goat. It lifts its head and bleats at you, shuffling toward you until its rope grows taut, stopping its advance.
 ^33b
 
-The crew took most of the food from this galley before abandoning ship, and the kobolds found and ate whatever scraps were left behind, sharing their meager findings with the [goat](/3-Mechanics/CLI/bestiary/beast/goat.md), which the kobolds use as a pack animal. The ice troll hasn't yet detected the goat. The kobolds keep it here so the dragon doesn't eat it.
+The crew took most of the food from this galley before abandoning ship, and the kobolds found and ate whatever scraps were left behind, sharing their meager findings with the [goat](3-Mechanics/CLI/bestiary/beast/goat.md), which the kobolds use as a pack animal. The ice troll hasn't yet detected the goat. The kobolds keep it here so the dragon doesn't eat it.
 
 ##### D11. Rum Storage
 
@@ -1337,13 +1317,13 @@ The door to this cabin has been weakened by the ice troll's claws and sits loose
 > The floor of this cabin is icy. Lying on their sides are two empty, open barrels. Hides and furs have been pushed into these barrels to create makeshift sleeping quarters. Two similar but upright barrels appear untouched.
 ^33f
 
-Four [Icewind kobolds](/3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) hide behind the barrels and hurl their javelins at the first creature to enter the room. After they throw their javelins, the kobolds are weaponless. They worship Arveiaturace and do the dragon's bidding. They don't know when she'll return next, but she always does.
+Four [Icewind kobolds](3-Mechanics/CLI/bestiary/humanoid/icewind-kobold-idrotf.md) (see appendix C) hide behind the barrels and hurl their javelins at the first creature to enter the room. After they throw their javelins, the kobolds are weaponless. They worship Arveiaturace and do the dragon's bidding. They don't know when she'll return next, but she always does.
 
 The upright barrels hold frozen, fresh water. The kobolds turned the empty barrels into sleeping hovels.
 
 #### Arveiaturace Arrives
 
-Arveiaturace, an [ancient white dragon](/3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md) whose vision is hampered by cataracts, carries the body of her former master, the wizard Meltharond, in a saddle on her back (see "Arveiaturace", for more information).
+Arveiaturace, an [ancient white dragon](3-Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md) whose vision is hampered by cataracts, carries the body of her former master, the wizard Meltharond, in a saddle on her back (see "Arveiaturace", for more information).
 
 The dragon is out hunting when the characters first arrive at the *Dark Duchess*, but she checks on the ship regularly to make sure her hoard is undisturbed. At the end of each hour the characters spend in the *Dark Duchess*, there is a 20 percent chance that Arveiaturace returns to the ship. Because she can see only out to a range of 60 feet, the dragon must get close to the ship to examine it.
 
@@ -1365,50 +1345,50 @@ If one or more characters are topside, use the following boxed text instead:
 
 If the characters hide and don't make a lot of noise, Arveiaturace climbs aboard the vessel from the forecastle and begins to make her way toward the hold. No matter where the characters are on the ship, they hear Arveiaturace board it, as her massive form makes the entire vessel shake and the ice around it crack. If Arveiaturace notices the characters, she immediately says to the rider on her back, "We know how to deal with thieves, don't we Meltharond?" She then attacks. If she doesn't notice the characters, she makes her way to her hoard, inspects the hold to make sure nothing is out of place, and leaves the ship to find and eat a tasty walrus. If she sees that the hoard has been disturbed, the dragon looks around the ship to see if the thieves left tracks and follows any she finds, calling out to Meltharond to ready his spells. If she suspects that intruders are still aboard the vessel but hiding in places she can't reach, she breaks through walls to get at them.
 
-The characters are no match for the dragon. If they need a distraction to facilitate their escape, Meltharond's corpse could fall out of its saddle. This causes the dragon to break off her attack at once and check to make sure the dead wizard is undamaged. The dragon can't put Meltharond's corpse back in its saddle without help. If there any kobolds are nearby, they can assist; otherwise, Arveiaturace promises to spare the characters' lives if they lend a helping hand. Someone who makes a successful Wisdom (Insight) check contested by the dragon's Charisma (Deception) check discerns that she has no intention of keeping her promise. If the characters simply bolt, Arveiaturace does not pursue them, afraid to leave Meltharond's side. Once the characters are beyond her field of vision, the somewhat dim dragon remembers that she's big enough to scoop up Meltharond with one claw; she does so—gently—and flies back to her lair atop the Reghed Glacier.
+The characters are no match for the dragon. If they need a distraction to facilitate their escape, Meltharond's corpse could fall out of its saddle. This causes the dragon to break off her attack at once and check to make sure the dead wizard is undamaged. The dragon can't put Meltharond's corpse back in its saddle without help. If there any kobolds are nearby, they can assist; otherwise, Arveiaturace promises to spare the characters' lives if they lend a helping hand. Someone who makes a successful Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check contested by the dragon's Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check discerns that she has no intention of keeping her promise. If the characters simply bolt, Arveiaturace does not pursue them, afraid to leave Meltharond's side. Once the characters are beyond her field of vision, the somewhat dim dragon remembers that she's big enough to scoop up Meltharond with one claw; she does so—gently—and flies back to her lair atop the Reghed Glacier.
 
 ##### Tinjong the Verbeeg
 
-If the characters are unable to stand against or escape from Arveiaturace, help arrives in the form of a [verbeeg longstrider](/3-Mechanics/CLI/bestiary/giant/verbeeg-longstrider-idrotf.md) (see appendix C) named Tinjong, who lives in a seaside cave about a mile away.
+If the characters are unable to stand against or escape from Arveiaturace, help arrives in the form of a [verbeeg longstrider](3-Mechanics/CLI/bestiary/giant/verbeeg-longstrider-idrotf.md) (see appendix C) named Tinjong, who lives in a seaside cave about a mile away.
 
 > [!readaloud] 
 > 
 > A nine-foot-tall giant in thick walrus hide armor bounds across the ice with surprising speed and grace despite her gangly, misshapen limbs. Although her narrow face is hard to see under the fur-lined hood of her frost-covered cloak, it's clear that the left side of her face sags much lower than the right. As the giant draws near, she skids to a stop, rests her greatclub on one broad shoulder, and says, "Need any help?"
 ^344
 
-Tinjong avoids the *Dark Duchess* because she knows the White Wyrm frequents it. If the characters accept her offer, Tinjong uses her fog cloud spell to obscure them, then tries to lead everyone beyond Arveiaturace's range of sight, which is 60 feet.
+Tinjong avoids the *Dark Duchess* because she knows the White Wyrm frequents it. If the characters accept her offer, Tinjong uses her [fog cloud](3-Mechanics/CLI/spells/fog-cloud.md) spell to obscure them, then tries to lead everyone beyond Arveiaturace's range of sight, which is 60 feet.
 
 Tinjong worships Silvanus (god of nature) and has no agenda. She tries to be helpful while asking for nothing in return, and she carries nothing of value. Although she has no interest in becoming a permanent member of the party, Tinjong is willing to accompany the characters to Auril's island if their aim is to confront the Frostmaiden and end her everlasting winter, claiming that's what Silvanus would want her to do.
 
 ###### Tinjong's Cave
 
-If the characters need a place to rest and recuperate, Tinjong leads them to her cave overlooking the sea. It contains no furnishings, but there are plenty of furs for warmth and enough wood and oil to start a fire. A [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) shares the cave with Tinjong but spends most of its time hiding in a rock. It emerges to greet Tinjong when she returns, however. The [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) likes music and bestows a supernatural charm (see "New Chwinga Charms") upon the first character who spends at least 1 hour playing music for it.
+If the characters need a place to rest and recuperate, Tinjong leads them to her cave overlooking the sea. It contains no furnishings, but there are plenty of furs for warmth and enough wood and oil to start a fire. A [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) shares the cave with Tinjong but spends most of its time hiding in a rock. It emerges to greet Tinjong when she returns, however. The [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) likes music and bestows a supernatural charm (see "New Chwinga Charms") upon the first character who spends at least 1 hour playing music for it.
 
 ### Id Ascendant
 
 Stories about a comet crashing in the mountains (see "Tall Tales in Ten-Towns") or a quest concerning a telepathic message (see "Distress Signal") might bring adventurers to this location, as might a character who has the Escaped Prisoner secret (see appendix B).
 
-![Otherworldy creatures issu...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/113-02-012-nautiloid.webp#center "Otherworldy creatures issue forth from a crashed illithid nautiloid")
+![Otherworldy creatures issue forth from a crashed illithid nautiloid](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/113-02-012-nautiloid.webp#center)
 
 #### Nautiloid Down
 
 Seven days ago, spacefaring mind flayers hoping to capture some interesting species for study crashed their ship—a nautiloid called the *Id Ascendant*—while trying to fly it through a blizzard. The ship's co-captains, Vorryn Q'uuol and Dredavex Sinfiz, are chaotic neutral gnome ceremorphs, which are smaller-than-normal mind flayers spawned from gnome hosts. Their crew consists of three gnome squidlings named Rin, Rix, and Zglarrd. See the "Mind Flayers" entry in appendix C for more information about gnome ceremorphs and squidlings.
 
-The illithids are stuck unless they can find a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) (see appendix D) to jump-start the ship's propulsion system. Vorryn and Dredavex are expending considerable effort to keep their ship functional and thus cannot conduct the search themselves. They also can't trust the moronic squidlings to accomplish such a delicate task. For these reasons, the gnome ceremorphs need help. They have built a device that can detect the presence of [psi crystals](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) in a 5-mile radius but haven't found any. The characters might have harvested a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) from the gem mine near Termalaine (see "A Beautiful Mine"), in which case the gnome ceremorphs would be very interested in acquiring it.
+The illithids are stuck unless they can find a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md) (see appendix D) to jump-start the ship's propulsion system. Vorryn and Dredavex are expending considerable effort to keep their ship functional and thus cannot conduct the search themselves. They also can't trust the moronic squidlings to accomplish such a delicate task. For these reasons, the gnome ceremorphs need help. They have built a device that can detect the presence of [psi crystals](3-Mechanics/CLI/items/psi-crystal-idrotf.md) in a 5-mile radius but haven't found any. The characters might have harvested a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md) from the gem mine near Termalaine (see "A Beautiful Mine"), in which case the gnome ceremorphs would be very interested in acquiring it.
 
-Complicating matters is the damage done by the crash to the nautiloid's life support system, for once this system shuts down, the illithids are at risk of freezing to death. If the shutdown occurs before they acquire a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md), the gnome ceremorphs' back-up plan is to activate the nautiloid's self-destruct system (see area N7) before abandoning ship and making their way toward Ten-Towns with the gnome squidlings in tow.
+Complicating matters is the damage done by the crash to the nautiloid's life support system, for once this system shuts down, the illithids are at risk of freezing to death. If the shutdown occurs before they acquire a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md), the gnome ceremorphs' back-up plan is to activate the nautiloid's self-destruct system (see area N7) before abandoning ship and making their way toward Ten-Towns with the gnome squidlings in tow.
 
 ##### Roleplaying the Gnome Ceremorphs
 
-Vorryn and Dredavex want to leave Icewind Dale and return to the stars they call home with their squidling brood mates and a couple of interesting new creations or discoveries. They retain their gnomish curiosity and love of tinkering, now blended with the illithids' drive for control and experimentation. They are delighted to meet visitors who are willing to help them acquire a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) or, failing that, help them and the gnome squidlings infiltrate Ten-Towns. In exchange, the [gnome ceremorphs](/3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md) are willing to part with their laser pistols and the magic items in area N9.
+Vorryn and Dredavex want to leave Icewind Dale and return to the stars they call home with their squidling brood mates and a couple of interesting new creations or discoveries. They retain their gnomish curiosity and love of tinkering, now blended with the illithids' drive for control and experimentation. They are delighted to meet visitors who are willing to help them acquire a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md) or, failing that, help them and the gnome squidlings infiltrate Ten-Towns. In exchange, the [gnome ceremorphs](3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md) are willing to part with their laser pistols and the magic items in area N9.
 
-If the characters want to search for a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md), Dredavex gives them a handheld box that emits a clicking noise while a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) is within 5 miles of it (see area N5). The ceremorphs tell the characters that [psi crystals](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) are most often found in places where mind flayers have lived.
+If the characters want to search for a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md), Dredavex gives them a handheld box that emits a clicking noise while a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md) is within 5 miles of it (see area N5). The ceremorphs tell the characters that [psi crystals](3-Mechanics/CLI/items/psi-crystal-idrotf.md) are most often found in places where mind flayers have lived.
 
 Unlike most mind flayers, who prefer to communicate using telepathy, Vorryn and Dredavex prefer to speak aloud in Gnomish or Undercommon, with an accent best described as "gooey." Vorryn is persnickety and exasperated most of the time but also has a dry sense of humor. Dredavex is industrious and likes to ease tension by telling crude jokes it has learned from eating goblin brains. If they or any of the gnome squidlings are threatened, the ceremorphs react with deadly intent; otherwise, they shun combat.
 
 ##### Roleplaying the Gnome Squidlings
 
-The [gnome squidlings](/3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md) have a blind hunger for brains that often overrides their common sense. Beyond such base hunger, the gnome squidlings don't know what they want. They have the reasoning and emotional control of toddlers blended with the guile of bored housecats.
+The [gnome squidlings](3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md) have a blind hunger for brains that often overrides their common sense. Beyond such base hunger, the gnome squidlings don't know what they want. They have the reasoning and emotional control of toddlers blended with the guile of bored housecats.
 
 Rin, Rix, and Zglarrd make squelching and keening noises when excited or upset; otherwise, they communicate in bursts of emotion punctuated with short, simple words conveyed telepathically. The squidlings trust Vorryn and Dredavex and would be lost without the gnome ceremorphs to watch over them.
 
@@ -1438,9 +1418,9 @@ The ship's interior is a mess. The walls are crusted with patches of flaky plaqu
 > As you trudge deeper into a mountain valley, an eerie glow betrays the monstrous outline of something stupendous and ominous. It looks like a cephalopod with slimy, ropey tentacles as thick as tree trunks that has tried and failed to bury its immense bulk in the snow.
 ^34e
 
-Two [carrion crawlers](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md), Vorryn's trained pets, scuttle through the snow near the ship. Characters who have passive Wisdom (Perception) scores of 11 or higher are not surprised when the creatures attack.
+Two [carrion crawlers](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md), Vorryn's trained pets, scuttle through the snow near the ship. Characters who have passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) scores of 11 or higher are not [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when the creatures attack.
 
-Characters paralyzed by the crawlers' tentacles are dragged toward the nautiloid. The crawlers' intent is not to eat the characters, but to deliver them to Vorryn for questioning.
+Characters [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) by the crawlers' tentacles are dragged toward the nautiloid. The crawlers' intent is not to eat the characters, but to deliver them to Vorryn for questioning.
 
 ##### Nautiloid Features
 
@@ -1463,8 +1443,8 @@ The nautiloid has the following features:
 ^nautiloids
 
 > [!gallery]
-> ![Map 2.7: Id Ascendant](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/114-map-2-7-id-ascendant.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/115-map-2-7-id-ascendant-player.webp#gallery)
+> ![Map 2.7: Id Ascendant](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/114-map-2-7-id-ascendant.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/115-map-2-7-id-ascendant-player.webp#gallery)
 
 #### Nautiloid Locations
 
@@ -1477,7 +1457,7 @@ The following locations are keyed to map 2.7.
 > This deck is five feet above the valley floor and covered with fresh snow. Mounted to the deck is a ballista covered in ice. At the back of the deck, a double door made of chitin and iron is tucked under two higher decks, the lower of which has another ballista mounted atop it.
 ^353
 
-The double door is iced shut but not locked. A character can use an action to try to wrench open the doors, doing so with a successful DC 14 Strength (Athletics) check. The noise is loud enough to alert the creatures in area N2.
+The double door is iced shut but not locked. A character can use an action to try to wrench open the doors, doing so with a successful DC 14 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. The noise is loud enough to alert the creatures in area N2.
 
 ###### Ballista
 
@@ -1489,12 +1469,12 @@ This weapon is inoperable since the crash.
 > 
 > Attached to the walls in this chamber are three sets of chains and manacles designed to hold large creatures. A staircase rises to the next deck amid crates, barrels, and broken bits of equipment.
 > 
-> Moving among the detritus are four creatures. Three of them are small, repulsive, purple things that float above the ground and pull themselves across the floor using oversized face-tentacles. The fourth is a lumbering monstrosity made of stitched-together parts from goblins, dwarves, and [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md).
+> Moving among the detritus are four creatures. Three of them are small, repulsive, purple things that float above the ground and pull themselves across the floor using oversized face-tentacles. The fourth is a lumbering monstrosity made of stitched-together parts from goblins, dwarves, and [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md).
 ^356
 
-The three [gnome squidlings](/3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md) (Rin, Rix, and Zglarrd) are supposed to be cleaning up the cargo hold but are just pushing junk around and annoying Dredavex's [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md).
+The three [gnome squidlings](3-Mechanics/CLI/bestiary/aberration/gnome-squidling-idrotf.md) (Rin, Rix, and Zglarrd) are supposed to be cleaning up the cargo hold but are just pushing junk around and annoying Dredavex's [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem.md).
 
-Unless one of the gnome ceremorphs is leading the party through the cargo hold, the flesh golem tries to beat the characters unconscious. The squidlings are compelled to try to devour the brains of unconscious characters, avoiding combat otherwise.
+Unless one of the gnome ceremorphs is leading the party through the cargo hold, the flesh golem tries to beat the characters [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). The squidlings are compelled to try to devour the brains of [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) characters, avoiding combat otherwise.
 
 The heavy chains and manacles once held a pair of carrion crawlers and a bulette, all of which the gnome ceremorphs released after the crash. The characters met the carrion crawlers on the way to the ship; they meet the bulette shortly after they leave (see "Bulette Proof").
 
@@ -1525,7 +1505,7 @@ Stairs lead down to area N2 and up to area N7, and a flesh door leads to area N5
 
 ###### Ballista
 
-This marvel of gnomish over-engineering is still operational. Dials, knobs, and levers festoon the gunner's station, which comes with firing instructions written in Qualith (a braille-like script that illithids read with their tentacles). A character who hasn't read the instructions or had them translated must succeed on a DC 15 Intelligence (Arcana) check to fire the weapon. If the check fails by 5 or more, the device misfires, dealing `dice:2d8|noform|noparens|avg|text(9)` (`2d8`) slashing damage to one randomly determined creature within 10 feet of the ballista.
+This marvel of gnomish over-engineering is still operational. Dials, knobs, and levers festoon the gunner's station, which comes with firing instructions written in Qualith (a braille-like script that illithids read with their tentacles). A character who hasn't read the instructions or had them translated must succeed on a DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check to fire the weapon. If the check fails by 5 or more, the device misfires, dealing 9 (`2d8`) slashing damage to one randomly determined creature within 10 feet of the ballista.
 
 ##### N5. Maintenance
 
@@ -1534,7 +1514,7 @@ This marvel of gnomish over-engineering is still operational. Dials, knobs, and 
 > Crystals protrude from the chitinous ceiling of this oddly shaped room. Some of the crystals are lit, and others are flickering or burned out. Plates of chitin have been pried loose from the walls in places, exposing cavities filled with tangled masses of black tubes. Scattered across the floor are unusual-looking tools.
 ^35e
 
-If it hasn't been lured elsewhere, Dredavex is here, peering into a wall cavity and trying to figure out a way to keep the life support system from shutting down. The chaotic neutral [gnome ceremorph](/3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md) (see appendix C) is equipped with two nonmagical items:
+If it hasn't been lured elsewhere, Dredavex is here, peering into a wall cavity and trying to figure out a way to keep the life support system from shutting down. The chaotic neutral [gnome ceremorph](3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md) (see appendix C) is equipped with two nonmagical items:
 
 ###### Laser Pistol
 
@@ -1542,9 +1522,9 @@ Rules for laser pistols appear in the "Dungeon Master's Guide". This weapon can 
 
 ###### Psi Crystal Detector
 
-This black metal box is the size of a bar of soap. It emits an audible clicking noise when a [psi crystal](/3-Mechanics/CLI/items/psi-crystal-idrotf.md) is within 5 miles of it. The closer the object gets to the psi crystal, the more rapid the clicks.
+This black metal box is the size of a bar of soap. It emits an audible clicking noise when a [psi crystal](3-Mechanics/CLI/items/psi-crystal-idrotf.md) is within 5 miles of it. The closer the object gets to the psi crystal, the more rapid the clicks.
 
-A character who tries to help Dredavex with the life support system can make a DC 25 Intelligence (Arcana) check after studying the alien technology for at least 1 hour. On a successful check, the character devises a solution that enables the life support system to remain operational for an additional 24 hours.
+A character who tries to help Dredavex with the life support system can make a DC 25 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check after studying the alien technology for at least 1 hour. On a successful check, the character devises a solution that enables the life support system to remain operational for an additional 24 hours.
 
 ##### N6. Propulsion Room
 
@@ -1564,7 +1544,7 @@ The black sphere contains the charred remains of a fist-sized crystal that could
 > A panel on the starboard wall lies open, exposing a pulsing tendril of flesh embedded with crystal shards.
 ^364
 
-If it hasn't been lured elsewhere, Vorryn the [gnome ceremorph](/3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md) (see appendix C) is here, using the orbs on the ship's helm (the chair) to communicate telepathically with the nautiloid, which has the liquefied consciousnesses of several other mind flayers flowing through its veins. The chaotic neutral gnome ceremorph is equipped with two nonmagical items:
+If it hasn't been lured elsewhere, Vorryn the [gnome ceremorph](3-Mechanics/CLI/bestiary/aberration/gnome-ceremorph-idrotf.md) (see appendix C) is here, using the orbs on the ship's helm (the chair) to communicate telepathically with the nautiloid, which has the liquefied consciousnesses of several other mind flayers flowing through its veins. The chaotic neutral gnome ceremorph is equipped with two nonmagical items:
 
 ###### Laser Pistol
 
@@ -1572,15 +1552,15 @@ Rules for laser pistols appear in the "Dungeon Master's Guide". This weapon is f
 
 ###### Pacifier Rod
 
-This 6-inch-long black metal rod has a button at the top. Using an action to press the button causes the rod to emit a chirp. Any creature within 30 feet of the rod that isn't deafened and has an Intelligence of 3 or lower must succeed on a DC 13 Constitution saving throw or be incapacitated for 1 minute. After each activation, there's a 25 percent chance that the rod breaks and becomes inoperable.
+This 6-inch-long black metal rod has a button at the top. Using an action to press the button causes the rod to emit a chirp. Any creature within 30 feet of the rod that isn't [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened) and has an Intelligence of 3 or lower must succeed on a DC 13 Constitution saving throw or be [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) for 1 minute. After each activation, there's a 25 percent chance that the rod breaks and becomes inoperable.
 
 ###### Helm
 
-This chair is securely attached to the deck and can't be used by creatures that are not mind flayers. Any non-illithid that sits in the chair and touches both blue orbs at once must succeed on a DC 17 Constitution saving throw or be stunned for 10 minutes.
+This chair is securely attached to the deck and can't be used by creatures that are not mind flayers. Any non-illithid that sits in the chair and touches both blue orbs at once must succeed on a DC 17 Constitution saving throw or be [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) for 10 minutes.
 
 ###### Self-Destruct
 
-If Vorryn touches one of the helm's blue orbs while Dredavex touches the other, they can jointly activate the nautiloid's self-destruct system. The gnome ceremorphs take this desperate action only if there's a good chance the ship's technology will fall into the wrong hands or if they're forced to abandon ship. Once the self-destruct's countdown timer has begun, it can't be stopped. A voice in Deep Speech counts down the seconds from 60. When the timer reaches 0, the ship disintegrates in an explosion bright enough to see from Ten-Towns. Any creature inside the ship or within 60 feet of it when this occurs takes `dice:20d6|noform|noparens|avg|text(70)` (`20d6`) force damage.
+If Vorryn touches one of the helm's blue orbs while Dredavex touches the other, they can jointly activate the nautiloid's self-destruct system. The gnome ceremorphs take this desperate action only if there's a good chance the ship's technology will fall into the wrong hands or if they're forced to abandon ship. Once the self-destruct's countdown timer has begun, it can't be stopped. A voice in Deep Speech counts down the seconds from 60. When the timer reaches 0, the ship disintegrates in an explosion bright enough to see from Ten-Towns. Any creature inside the ship or within 60 feet of it when this occurs takes 70 (`20d6`) force damage.
 
 ###### Telepathic Distress Beacon
 
@@ -1600,7 +1580,7 @@ The deck is covered in frost. A pintle mount for a telescope is fastened near th
 
 ##### N9. Captains' Quarters
 
-![A thoughtful adventurer tr...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/116-02-013-squidling.webp#center "A thoughtful adventurer transports a gnome squidling back to Ten-Towns")
+![A thoughtful adventurer transports a gnome squidling back to Ten-Towns](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/116-02-013-squidling.webp#center)
 
 > [!readaloud] 
 > 
@@ -1609,7 +1589,7 @@ The deck is covered in frost. A pintle mount for a telescope is fastened near th
 > Five strange, glowing gizmos are attached to the chitinous walls seven feet above the floor. These devices look like the tips of metal wands held in pincer-claws.
 ^36d
 
-The five gizmos on the walls fire beams of radiant energy whenever a non-illithid is in the room. At the start of each turn, each gizmo targets a random creature in the room (including mind flayers). The target must succeed on a DC 16 Dexterity saving throw or be struck by the gizmo's beam, taking `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) radiant damage. Each gizmo is a Tiny object with AC 16, 3 hit points, and immunity to poison and psychic damage. A character can use an action to try to tear a gizmo from the wall, doing so with a successful DC 10 Strength check. Reducing a gizmo to 0 hit points or tearing it from the wall destroys it.
+The five gizmos on the walls fire beams of radiant energy whenever a non-illithid is in the room. At the start of each turn, each gizmo targets a random creature in the room (including mind flayers). The target must succeed on a DC 16 Dexterity saving throw or be struck by the gizmo's beam, taking 4 (`1d8`) radiant damage. Each gizmo is a Tiny object with AC 16, 3 hit points, and immunity to poison and psychic damage. A character can use an action to try to tear a gizmo from the wall, doing so with a successful DC 10 Strength check. Reducing a gizmo to 0 hit points or tearing it from the wall destroys it.
 
 ###### Crystal Sphere
 
@@ -1617,7 +1597,7 @@ The crystal sphere is a cryogenic stasis pod, identical to the ones in area N3 a
 
 ###### Worktable
 
-Amid the clutter on the table are two magic items (see "Treasure" below), which a character can find only by rooting through the junk. Any creature that does so has a 50 percent chance of knocking two things together and triggering an electrical discharge. When such a discharge occurs, every creature within 5 feet of the table must make a DC 17 Dexterity saving throw. On a failed save, the creature takes `dice:1d8|noform|noparens|avg|text(4)` (`1d8`) lightning damage.
+Amid the clutter on the table are two magic items (see "Treasure" below), which a character can find only by rooting through the junk. Any creature that does so has a 50 percent chance of knocking two things together and triggering an electrical discharge. When such a discharge occurs, every creature within 5 feet of the table must make a DC 17 Dexterity saving throw. On a failed save, the creature takes 4 (`1d8`) lightning damage.
 
 ###### Treasure
 
@@ -1636,7 +1616,7 @@ One last danger confronts the heroes as they leave the ship and head out of the 
 > Something big is plowing through the deep snow, heading in your direction. Only its shiny dorsal ridge breaks the snow's surface.
 ^372
 
-Vorryn and Dredavex released a hostile [bulette](/3-Mechanics/CLI/bestiary/monstrosity/bulette.md) into the wild after the crash because they didn't want to feed it. They have no control over the creature, and they have all but forgotten about it. They fail to warn the characters that it poses a threat to anyone approaching or leaving the ship.
+Vorryn and Dredavex released a hostile [bulette](3-Mechanics/CLI/bestiary/monstrosity/bulette.md) into the wild after the crash because they didn't want to feed it. They have no control over the creature, and they have all but forgotten about it. They fail to warn the characters that it poses a threat to anyone approaching or leaving the ship.
 
 The characters first notice the bulette when it's 120 feet away from them, and it has three-quarters cover under the snow. When it gets within 30 feet of the party, the bulette springs out of the snow and uses its Deadly Leap.
 
@@ -1651,8 +1631,8 @@ Seven empty, ice-glazed thrones form a ring atop a snow-covered hillock. Under t
 The ancient thrones are carved out of blocks of stone. When the apparitions of the frost giants manifest, their eyes glow white in the darkness. Three of the giants have on fur vests and leather trousers; three others wear chainmail from head to toe. The seventh giant, Reggaryarva, is slightly larger than the others and wears a coat of white dragon scales and a magnificent horned helm. Reggaryarva was once called the "jarl of jarls" and often had the final say—or axe blow—in any heated discussion. He sits in the throne that faces north, as he should. Beneath Reggaryarva's throne is a vault dedicated to Thrym, the god of the frost giants.
 
 > [!gallery]
-> ![Map 2.8: Jarlmoot](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/117-map-2-8-jarlmoot.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/118-map-2-8-jarlmoot-player.webp#gallery)
+> ![Map 2.8: Jarlmoot](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/117-map-2-8-jarlmoot.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/118-map-2-8-jarlmoot-player.webp#gallery)
 
 #### Jarlmoot Locations
 
@@ -1665,13 +1645,13 @@ The following area descriptions are keyed to map 2.8.
 > Ice covers seven giant thrones arrayed in a ring atop a snow-covered hill. Scores of black ravens gather overhead.
 ^376
 
-A detect magic spell or similar magic reveals an aura of necromancy around the ring of thrones and extending 10 feet beyond the outer edge of the ring. While in this area, creatures that do not have resistance or immunity to cold damage gain vulnerability to cold damage.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic reveals an aura of necromancy around the ring of thrones and extending 10 feet beyond the outer edge of the ring. While in this area, creatures that do not have resistance or immunity to cold damage gain vulnerability to cold damage.
 
-The characters can see the frost giant apparitions only if they step into the ring under the light of a full moon. Otherwise, the thrones are empty, and the characters have nothing else to interact with. The apparitions refuse to speak in the characters' presence, and they can't be harmed or turned. Barely lifting one finger, the apparition of Reggaryarva summons a [frost giant skeleton](/3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md) (see appendix C) to challenge the party. If the skeleton is defeated, it disappears, and Reggaryarva summons two [invisible stalkers](/3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) to carry on the fight. Each creature summoned in this manner appears in an unoccupied space of Reggaryarva's choice within the circle of thrones.
+The characters can see the frost giant apparitions only if they step into the ring under the light of a full moon. Otherwise, the thrones are empty, and the characters have nothing else to interact with. The apparitions refuse to speak in the characters' presence, and they can't be harmed or turned. Barely lifting one finger, the apparition of Reggaryarva summons a [frost giant skeleton](3-Mechanics/CLI/bestiary/undead/frost-giant-skeleton-idrotf.md) (see appendix C) to challenge the party. If the skeleton is defeated, it disappears, and Reggaryarva summons two [invisible stalkers](3-Mechanics/CLI/bestiary/elemental/invisible-stalker.md) to carry on the fight. Each creature summoned in this manner appears in an unoccupied space of Reggaryarva's choice within the circle of thrones.
 
 If the characters defeat the frost giant skeleton and the invisible stalkers, Reggaryarva is impressed and challenges them no more. Furthermore, the characters' triumph earns them a reward: access to the vault under the hill. The other six apparitions intone ancient words in Giant, causing Reggaryarva to fade away as his throne rises 30 feet into the air, revealing a hidden staircase that descends to area J2.
 
-If she is present, Yselm Bloodfang betrays and attacks them as Reggaryarva's throne rises into the air. A [winter wolf](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) sent by the Frostmaiden joins the fray on Yselm's side. Both villains fight to the death.
+If she is present, Yselm Bloodfang betrays and attacks them as Reggaryarva's throne rises into the air. A [winter wolf](3-Mechanics/CLI/bestiary/monstrosity/winter-wolf.md) sent by the Frostmaiden joins the fray on Yselm's side. Both villains fight to the death.
 
 When the full moon disappears below the horizon, Reggaryarva's throne slowly lowers back into place, sealing the vault entrance once more.
 
@@ -1705,7 +1685,7 @@ The inscription carved into the arch above the alcoves is a poem written in the 
 
 ###### Double Door
 
-The double door to area J5 is unlocked. As an action, a character can push open either door with a successful DC 15 Strength (Athletics) check.
+The double door to area J5 is unlocked. As an action, a character can push open either door with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ###### Locked Gate
 
@@ -1727,16 +1707,16 @@ Characters can find most of the ingredients they need in area J5. The poem (see 
 #### Giant Runes (Area J2)
 
 > [!gallery]
-> ![Dod (Death Rune)](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/119-02-015-runes.webp#gallery)
-> ![Fjell (Mountain Rune)](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/120-02-016-runes.webp#gallery)
-> ![Krig (War Rune)](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/121-02-017-runes.webp#gallery)
-> ![Liv (Life Rune)](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/122-02-018-runes.webp#gallery)
-> ![Vind (Wind Rune)](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/123-02-019-runes.webp#gallery)
-> ![Wyrm (Dragon Rune)](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/124-02-020-runes.webp#gallery)
+> ![Dod (Death Rune)](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/119-02-015-runes.webp#gallery)
+> ![Fjell (Mountain Rune)](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/120-02-016-runes.webp#gallery)
+> ![Krig (War Rune)](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/121-02-017-runes.webp#gallery)
+> ![Liv (Life Rune)](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/122-02-018-runes.webp#gallery)
+> ![Vind (Wind Rune)](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/123-02-019-runes.webp#gallery)
+> ![Wyrm (Dragon Rune)](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/124-02-020-runes.webp#gallery)
 
 ##### J3. Curved Tunnel
 
-There is nothing remarkable about this tunnel. It ends at a pair of heavy stone doors. A character can use an action to push open either door with a successful DC 15 Strength (Athletics) check, allowing access to area J4.
+There is nothing remarkable about this tunnel. It ends at a pair of heavy stone doors. A character can use an action to push open either door with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, allowing access to area J4.
 
 ##### J4. Turn the Gold Key?
 
@@ -1745,17 +1725,17 @@ There is nothing remarkable about this tunnel. It ends at a pair of heavy stone 
 > A large oak chest with silver fittings stands against the wall directly opposite the double doors. A gold key sticks out of the chest's built-in lock.
 ^380
 
-The chest is 10 feet long, 5 feet wide, and 6 feet tall, with a half-barrel-shaped lid. It is stuck to the floor and can't be moved. The gold key in the lock is not the key that unlocks the chest, and it can be safely removed. (The real key is in area J5.) After the key is pulled out, a character can use thieves' tools to try to pick the lock, doing so with a successful DC 20 Dexterity check. A knock spell or similar magic also opens the chest.
+The chest is 10 feet long, 5 feet wide, and 6 feet tall, with a half-barrel-shaped lid. It is stuck to the floor and can't be moved. The gold key in the lock is not the key that unlocks the chest, and it can be safely removed. (The real key is in area J5.) After the key is pulled out, a character can use thieves' tools to try to pick the lock, doing so with a successful DC 20 Dexterity check. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic also opens the chest.
 
 ###### Exit Portal
 
-Turning the gold key in the lock doesn't unlock the chest but instead conjures a 10-foot-square doorway through which area J1 can be seen. The doorway appears on the north wall, above the chest. Any creature that passes through this doorway is teleported to an unoccupied space within Jarlmoot's circle of thrones. A [swarm of ravens](/3-Mechanics/CLI/bestiary/beast/swarm-of-ravens.md) then descends upon that creature and attacks it. Enough ravens are circling Jarlmoot to create four such swarms.
+Turning the gold key in the lock doesn't unlock the chest but instead conjures a 10-foot-square doorway through which area J1 can be seen. The doorway appears on the north wall, above the chest. Any creature that passes through this doorway is teleported to an unoccupied space within Jarlmoot's circle of thrones. A [swarm of ravens](3-Mechanics/CLI/bestiary/beast/swarm-of-ravens.md) then descends upon that creature and attacks it. Enough ravens are circling Jarlmoot to create four such swarms.
 
 The portal is one-way only; it can't be seen or entered from area J1. The portal closes automatically after 10 minutes, causing the gold key to turn back to its original position. The portal closes instantly if the gold key is removed from the chest's lock.
 
 ###### Treasure
 
-The gold key is worth 25 gp. Inside the chest, held in a wooden brace, is a horn of blasting. Stacked around the horn are six flying battleaxes (use the [flying sword](/3-Mechanics/CLI/bestiary/construct/flying-sword.md) stat block) that attack as soon as the lid opens.
+The gold key is worth 25 gp. Inside the chest, held in a wooden brace, is a horn of blasting. Stacked around the horn are six flying battleaxes (use the [flying sword](3-Mechanics/CLI/bestiary/construct/flying-sword.md) stat block) that attack as soon as the lid opens.
 
 ##### J5. Chamber of Chests
 
@@ -1764,11 +1744,11 @@ The gold key is worth 25 gp. Inside the chest, held in a wooden brace, is a horn
 > This chamber holds four large wooden chests with iron fittings and built-in locks. Hanging from a hook in the middle of the ceiling is a one-foot-diameter iron ring with four one-foot-long iron keys and a single, one-foot-long silver key dangling from it.
 ^384
 
-The keys are sized appropriately for the locks on the oversized chests. To reach the ring of keys, the characters must either use magic to climb the walls or stack the chests on end and climb them. Other solutions might present themselves; try to reward the players' ingenuity. The ring of keys is too heavy to lift with a mage hand spell, but the spell can be used to unscrew the hook from which the ring hangs, causing the keys to fall. The iron keys unlock the chests in this room. The silver key (which is worth 2 gp) unlocks the chest in area J4.
+The keys are sized appropriately for the locks on the oversized chests. To reach the ring of keys, the characters must either use magic to climb the walls or stack the chests on end and climb them. Other solutions might present themselves; try to reward the players' ingenuity. The ring of keys is too heavy to lift with a [mage hand](3-Mechanics/CLI/spells/mage-hand.md) spell, but the spell can be used to unscrew the hook from which the ring hangs, causing the keys to fall. The iron keys unlock the chests in this room. The silver key (which is worth 2 gp) unlocks the chest in area J4.
 
 ###### Chests
 
-Each chest weighs 150 pounds and is 10 feet long, 5 feet wide, and 6 feet tall, with a half-barrel-shaped lid. A character can use an action to try to pick a chest's lock using thieves' tools, doing so with a successful DC 15 Dexterity check. A knock spell or similar magic also opens a chest.
+Each chest weighs 150 pounds and is 10 feet long, 5 feet wide, and 6 feet tall, with a half-barrel-shaped lid. A character can use an action to try to pick a chest's lock using thieves' tools, doing so with a successful DC 15 Dexterity check. A [knock](3-Mechanics/CLI/spells/knock.md) spell or similar magic also opens a chest.
 
 Each chest contains a single item. The four items are as follows:
 
@@ -1777,7 +1757,7 @@ Each chest contains a single item. The four items are as follows:
 - A gleaming scale from a young white dragon  
 - A fist-sized stone from Kelvin's Cairn  
 
-![The ghosts of ancient fros...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/125-02-014-ghosts.webp#center "The ghosts of ancient frost giant jarls sit in judgment over all who would disturb their rest")
+![The ghosts of ancient frost giant jarls sit in judgment over all who would disturb their rest](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/125-02-014-ghosts.webp#center)
 
 #### Leaving Jarlmoot
 
@@ -1788,9 +1768,9 @@ As the characters leave Jarlmoot, read the following boxed text to the players:
 > Through the blowing snow, you see a frost giant with long white hair stride toward you. In her hands, she grasps an icy chain with an anvil bolted to one end of it.
 ^387
 
-The [frost giant](/3-Mechanics/CLI/bestiary/giant/frost-giant.md), Gromin'gorn, is hostile and has noble blood in her icy veins. She has come to Jarlmoot to be tested by the spirits of her ancestors. Only by passing this test can she hope to lead her tribe. If one of the characters is openly carrying the horn of blasting from area J4, Gromin'gorn tries to claim it for herself, believing this is the test her ancestors have set before her.
+The [frost giant](3-Mechanics/CLI/bestiary/giant/frost-giant.md), Gromin'gorn, is hostile and has noble blood in her icy veins. She has come to Jarlmoot to be tested by the spirits of her ancestors. Only by passing this test can she hope to lead her tribe. If one of the characters is openly carrying the horn of blasting from area J4, Gromin'gorn tries to claim it for herself, believing this is the test her ancestors have set before her.
 
-Instead of a greataxe, Gromin'gorn wields a 10-foot-long chain with an anvil bolted to the end of it. In her hands, it deals `dice:3d12+6|noform|noparens|avg|text(25)` (`3d12 + 6`) bludgeoning damage on a hit. She can make two attacks with it as an action.
+Instead of a greataxe, Gromin'gorn wields a 10-foot-long chain with an anvil bolted to the end of it. In her hands, it deals 25 (`3d12 + 6`) bludgeoning damage on a hit. She can make two attacks with it as an action.
 
 ### Karkolohk
 
@@ -1807,7 +1787,7 @@ Any of the following hooks might lure characters to the gates of Karkolohk:
 
 Ruling a goblin horde is a thankless job. That's a hard lesson for a rock gnome sorcerer to learn.
 
-Five years ago, before Icewind Dale became the perpetually frozen hellscape it is today, [Spellix Romwod](/3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) was traveling through the mountain pass with a small caravan when it was caught in an avalanche. The goblins who triggered the avalanche captured Spellix's mates and dragged them back to their caves in the mountains to be eaten. Spellix, whom the goblins overlooked, followed them and devised a cunning plan to free his companions. Using materials scavenged from the wrecked caravan, he engineered a costume for himself. Disguised as a half-metal goblin, he infiltrated the goblins' lair and did his best to fit in, cleverly using silent image spells to hide the imperfections in his disguise. When he was offered a bone to gnaw on, his mechanical goblin mouth malfunctioned and wouldn't stop grinding its teeth. Thus, [Spellix Romwod](/3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) came to be known as Yarb-Gnock, which means "Ever-Gnawing" in Goblin.
+Five years ago, before Icewind Dale became the perpetually frozen hellscape it is today, [Spellix Romwod](3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) was traveling through the mountain pass with a small caravan when it was caught in an avalanche. The goblins who triggered the avalanche captured Spellix's mates and dragged them back to their caves in the mountains to be eaten. Spellix, whom the goblins overlooked, followed them and devised a cunning plan to free his companions. Using materials scavenged from the wrecked caravan, he engineered a costume for himself. Disguised as a half-metal goblin, he infiltrated the goblins' lair and did his best to fit in, cleverly using [silent image](3-Mechanics/CLI/spells/silent-image.md) spells to hide the imperfections in his disguise. When he was offered a bone to gnaw on, his mechanical goblin mouth malfunctioned and wouldn't stop grinding its teeth. Thus, [Spellix Romwod](3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) came to be known as Yarb-Gnock, which means "Ever-Gnawing" in Goblin.
 
 Spellix was repulsed by the goblins' squalor and took pity on them. Abandoning all concern for his former mates, whom he didn't particularly like anyway, Spellix adopted the name given to him by the goblins and spent the next several months engineering ways to improve their standard of living. Long after the other members of the caravan had been eaten, Yarb-Gnock became the new chief after the previous one choked to death on a mountain goat tongue. By then, Yarb-Gnock had already drawn up plans to build a fortress in the mountains. Karkolohk, the Gnomish word for "home," became the goblin tribe's dream of a better future.
 
@@ -1815,7 +1795,7 @@ As the goblins were finishing construction of their new home, everlasting winter
 
 Cooped up in the cold with creatures that would kill him if they learned the truth, Chief Yarb-Gnock is running out of ideas to keep the goblins motivated on other tasks and has begun to fear that the goblins are on to him. His costume is beginning to come apart, and paranoia has made him sleep-deprived. The number of "traitors" hurled from the mountaintop increases with every cycle of the moon, and the goblins don't know who among them are Yarb-Gnock's loyal spies. Mistrust has infected every nook and cranny of Karkolohk.
 
-[Spellix Romwod](/3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) was beginning to think that the time had come to abandon his goblin kin and seek refuge in Ten-Towns when, two days ago, his fortunes improved suddenly. Goblins out scavenging in a wagon stumbled across a curious object in the tundra—a metallic, egg-shaped crate. (This object was jettisoned from an illithid nautiloid soon before it crashed in the mountains to the east, as described in "Id Ascendant"), Chief Yarb-Gnock thinks the crate might hold something wondrous, and getting it open has become his new obsession.
+[Spellix Romwod](3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) was beginning to think that the time had come to abandon his goblin kin and seek refuge in Ten-Towns when, two days ago, his fortunes improved suddenly. Goblins out scavenging in a wagon stumbled across a curious object in the tundra—a metallic, egg-shaped crate. (This object was jettisoned from an illithid nautiloid soon before it crashed in the mountains to the east, as described in "Id Ascendant"), Chief Yarb-Gnock thinks the crate might hold something wondrous, and getting it open has become his new obsession.
 
 #### Karkolohk Overview
 
@@ -1831,18 +1811,18 @@ The weather in the mountains is so violent that Karkolohk's structures occasiona
 
 Chief Yarb-Gnock has taught the goblins to seize their destiny and stop at nothing to get what they want. Opportunistic creatures that they are, they take any sign of weakness as an opening to gain an advantage. If bullying and intimidation don't work, the goblins use more underhanded and passive-aggressive tactics. If they think that they are at a disadvantage or that they will come to an unavoidable loss, the goblins will do whatever they can to backtrack out of such a situation, be it through bribery, wheedling, or treachery.
 
-Visitors are not welcome at Karkolohk. Moreover, the goblins who live here detest non-goblins, especially gnomes. Were the goblins just a little smarter, they would see through Chief Yarb-Gnock's crude disguise and the magic he uses to hides its imperfections, and tear [Spellix Romwod](/3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) limb from limb.
+Visitors are not welcome at Karkolohk. Moreover, the goblins who live here detest non-goblins, especially gnomes. Were the goblins just a little smarter, they would see through Chief Yarb-Gnock's crude disguise and the magic he uses to hides its imperfections, and tear [Spellix Romwod](3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) limb from limb.
 
 ##### Gnome Diplomacy
 
-If you decide to use the "Peace Out" quest (see "Peace Out"), the characters are treated as diplomats by the goblins and permitted to approach and enter the fortress unmolested, provided they do no harm to its inhabitants. Assuming they avoid a violent altercation, the characters are escorted by a [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) to Yarb-Gnock's dining hall (area K11) for a private feast with the chief. This feast consists of a cooked mountain goat. What happens next depends on Yarb-Gnock's goal, which can be one of the following:
+If you decide to use the "Peace Out" quest (see "Peace Out"), the characters are treated as diplomats by the goblins and permitted to approach and enter the fortress unmolested, provided they do no harm to its inhabitants. Assuming they avoid a violent altercation, the characters are escorted by a [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) to Yarb-Gnock's dining hall (area K11) for a private feast with the chief. This feast consists of a cooked mountain goat. What happens next depends on Yarb-Gnock's goal, which can be one of the following:
 
 - If Yarb-Gnock's goal is to make peace with Ten-Towns, he gives the party a rolled-up strip of rabbit hide at the end of the meal. On this strip of hide he has written a brief, formal notice in Common addressed to the Council of Speakers of Ten-Towns. It asserts that the goblins of Karkolohk will refrain from attacking travelers and caravans heading to and from Ten-Towns for as long as the peace treaty between Ten-Towns and Karkolohk lasts, and it bears Yarb-Gnock's signature at the bottom. After handing them the message, Yarb-Gnock urges the characters to leave at once and deliver it to the Council Hall in Bryn Shander.  
 - If Yarb-Gnock's goal is to flee Karkolohk, the meal concludes with Yarb-Gnock requesting that the characters escort him to the Council Hall in Bryn Shander. Mistaking any attempt by Yarb-Gnock to leave Karkolohk as an abduction orchestrated by the characters, the goblins attack the characters as they try to flee the fortress with Yarb-Gnock in tow. During this escape attempt, Yarb-Gnock fights only in self-defense, counting on the characters to deal with any goblins that get in the way.  
 
 > [!gallery]
-> ![Map 2.9: Karkolohk](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/128-map-2-9-karkolohk.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/129-map-2-9-karkolohk-player.webp#gallery)
+> ![Map 2.9: Karkolohk](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/128-map-2-9-karkolohk.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/129-map-2-9-karkolohk-player.webp#gallery)
 
 #### Karkolohk Locations (K1-K7)
 
@@ -1852,9 +1832,9 @@ The following locations are keyed to map 2.9.
 
 The fortress has three of these squat structures, two overlooking the eastern approach and a third perched atop the cliffs to the west. Each watchtower stands 20 feet tall and has a rickety wooden ladder leading to the top, where a thick column of smoke issues from a brazier that is kept lit at all times.
 
-Four [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) dressed in cold weather clothing stand guard atop each tower. The rampart battlements grant them half cover against attacks from outside the fort. They are supposed to be looking outward for signs of trouble, but the goblins prefer to stand around the brazier for warmth. One goblin has a horn that it can blow to sound an alarm, putting the entire fortress on alert.
+Four [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) dressed in cold weather clothing stand guard atop each tower. The rampart battlements grant them half cover against attacks from outside the fort. They are supposed to be looking outward for signs of trouble, but the goblins prefer to stand around the brazier for warmth. One goblin has a horn that it can blow to sound an alarm, putting the entire fortress on alert.
 
-Since visitors aren't welcome at Karkolohk, the goblins shoot arrows at any they see. A character who wants to sneak past a watchtower or climb its ladder undetected must succeed on a DC 9 Dexterity (Stealth) check. If multiple party members are attempting the same task, have them make a group check instead.
+Since visitors aren't welcome at Karkolohk, the goblins shoot arrows at any they see. A character who wants to sneak past a watchtower or climb its ladder undetected must succeed on a DC 9 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If multiple party members are attempting the same task, have them make a group check instead.
 
 ##### K2. Main Gate
 
@@ -1863,11 +1843,11 @@ Since visitors aren't welcome at Karkolohk, the goblins shoot arrows at any they
 > A fiery brazier casts its flickering light on the thirty-foot-high, spiked ramparts that frame the main gate. Four goblins peer down from these ramparts, two per side. The gate is twenty feet tall and fashioned out of crosshatched pieces of wood that have been lashed together. A heavy chain and padlock seals the gate from the inside.
 ^391
 
-Six [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) shiver and stamp their feet atop the ramparts, trying to keep warm. They are a chatty bunch, making jokes at one another's expense. Each rampart has a wooden ladder leading up to it.
+Six [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) shiver and stamp their feet atop the ramparts, trying to keep warm. They are a chatty bunch, making jokes at one another's expense. Each rampart has a wooden ladder leading up to it.
 
-A character who wants to approach the gate undetected must succeed on a DC 9 Dexterity (Stealth) check. If multiple party members are attempting the same thing, have them make a group check instead. A character next to the gate can use an action to reach through it and try to pick the frozen padlock using thieves' tools, doing so with a successful DC 20 Dexterity check. The courtyard warden (see area K3) carries the key to the lock.
+A character who wants to approach the gate undetected must succeed on a DC 9 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If multiple party members are attempting the same thing, have them make a group check instead. A character next to the gate can use an action to reach through it and try to pick the frozen padlock using thieves' tools, doing so with a successful DC 20 Dexterity check. The courtyard warden (see area K3) carries the key to the lock.
 
-A Small character can try to squeeze under the gate or between its wooden bars, doing so with a successful DC 20 Dexterity (Acrobatics) check.
+A Small character can try to squeeze under the gate or between its wooden bars, doing so with a successful DC 20 Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check.
 
 ##### K3. Courtyard
 
@@ -1880,7 +1860,7 @@ A Small character can try to squeeze under the gate or between its wooden bars, 
 
 The wooden cages were built to hold the polar bears that pull the goblins' wagons.
 
-The [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) riding the [worg](/3-Mechanics/CLI/bestiary/monstrosity/worg.md) is Snubsuk, the courtyard warden. His job is to lock and unlock the main gate at area K2. The worg charges toward intruders, causing Snubsuk to tumble off the worg's back and fall prone in the snow. Snubsuk is a coward and flees when separated from his mount, making his way to the top of area K5. Snubsuk carries the key to the main gate, dangling from a chain manacled to his left wrist.
+The [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) riding the [worg](3-Mechanics/CLI/bestiary/monstrosity/worg.md) is Snubsuk, the courtyard warden. His job is to lock and unlock the main gate at area K2. The worg charges toward intruders, causing Snubsuk to tumble off the worg's back and fall [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in the snow. Snubsuk is a coward and flees when separated from his mount, making his way to the top of area K5. Snubsuk carries the key to the main gate, dangling from a chain manacled to his left wrist.
 
 ###### Bridges and Cages
 
@@ -1888,7 +1868,7 @@ The center of the 50-foot-high bridge collapsed a few days ago. The goblins used
 
 ##### K4. Archer Platforms
 
-These wooden platforms creak and groan underfoot. Each of them has two [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) in cold weather clothing and two [wolves](/3-Mechanics/CLI/bestiary/beast/wolf.md) stationed atop it.
+These wooden platforms creak and groan underfoot. Each of them has two [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) in cold weather clothing and two [wolves](3-Mechanics/CLI/bestiary/beast/wolf.md) stationed atop it.
 
 If an alarm sounds, the goblins begin looking for targets on the ground to pick off with their shortbows. If the enemy moves to a location the goblins can't see, they mount the wolves and move to another archer platform.
 
@@ -1903,7 +1883,7 @@ When announcements or rallying cries need to be made, the top of this tower is w
 
 ###### Dangling Construct
 
-The construct dangling beneath the platform is a [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian.md) that survived the fall of Ythryn, although its master did not. It was heavily damaged in the crash; consequently, its hit point maximum is reduced to 80. To activate and control the shield guardian, the characters need its amulet, which is inside an ancient tower that broke away when Ythryn came down and crashed in the tundra (see "Lost Spire of Netheril"). They also need to operate the goblins' system of pulleys and ropes to lower it to the ground; figuring out how the system works requires a successful DC 15 Intelligence check.
+The construct dangling beneath the platform is a [shield guardian](3-Mechanics/CLI/bestiary/construct/shield-guardian.md) that survived the fall of Ythryn, although its master did not. It was heavily damaged in the crash; consequently, its hit point maximum is reduced to 80. To activate and control the shield guardian, the characters need its amulet, which is inside an ancient tower that broke away when Ythryn came down and crashed in the tundra (see "Lost Spire of Netheril"). They also need to operate the goblins' system of pulleys and ropes to lower it to the ground; figuring out how the system works requires a successful DC 15 Intelligence check.
 
 The shield guardian was built by a Netherese wizard and is nearly two thousand years old. Carved into its massive forearms is the wizard's personal sigil. After the wizard's tower crashed, the guardian left the spire to go find help but got buried in an avalanche. It eventually shut down. Centuries later, a band of goblins dug it out and hauled it back to Karkolohk. Unfortunately for them, the guardian could not be reactivated. After some thought, Chief Yarb-Gnock decided to dangle it from this platform, using ropes and pulleys like puppet strings to make the guardian appear animate and terrifying. This construct must have been a lively sight to behold at one point, but the aura of menace surrounding it quickly faded, and the goblins lost all interest in it.
 
@@ -1914,7 +1894,7 @@ The shield guardian was built by a Netherese wizard and is nearly two thousand y
 > On a wide, snow-covered shelf, six conical tents fashioned from animal skins and bark draped over wood frames are arranged in a circle around a burning brazier.
 ^39a
 
-Each hut is home to a [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) healer in cold weather clothing. Each one owns a healer's kit. In addition, each healer has a pet [mountain goat](/3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C), from which it draws milk and which it can use as a mount. Each goat is usually tied to a post inside the healer's hut.
+Each hut is home to a [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) healer in cold weather clothing. Each one owns a healer's kit. In addition, each healer has a pet [mountain goat](3-Mechanics/CLI/bestiary/beast/mountain-goat-idrotf.md) (see appendix C), from which it draws milk and which it can use as a mount. Each goat is usually tied to a post inside the healer's hut.
 
 ###### Manafek
 
@@ -1929,7 +1909,7 @@ The goblin healer in the easternmost hut is named Manafek. She also tells fortun
 
 Whenever Chief Yarb-Gnock wants to make an example of a goblin, the poor wretch is dragged screaming to this walkway. The goblin can either hurl itself off the cliff to its death or die by the swords of its kin. The skulls belong to goblins who never made it to the end of the walkway. Ravens have picked the skulls clean.
 
-The walkway was shoddily constructed and shows signs of having been repaired many times after being damaged by wind. If more than 200 pounds is placed on the outermost half of it, the whole thing snaps off and tumbles down the mountainside. Any creature on the walkway when it breaks off must make a DC 16 Dexterity saving throw. On a successful save, the creature leaps off and falls prone on the ground near the slope. On a failed save, the creature falls 150 feet onto icy rocks with goblin bones scattered among them, taking `dice:15d6|noform|noparens|avg|text(52)` (`15d6`) bludgeoning damage from the impact.
+The walkway was shoddily constructed and shows signs of having been repaired many times after being damaged by wind. If more than 200 pounds is placed on the outermost half of it, the whole thing snaps off and tumbles down the mountainside. Any creature on the walkway when it breaks off must make a DC 16 Dexterity saving throw. On a successful save, the creature leaps off and falls [prone](3-Mechanics/CLI/rules/conditions.md#Prone) on the ground near the slope. On a failed save, the creature falls 150 feet onto icy rocks with goblin bones scattered among them, taking 52 (`15d6`) bludgeoning damage from the impact.
 
 #### Karkolohk Locations (K8-K13)
 
@@ -1940,13 +1920,13 @@ The walkway was shoddily constructed and shows signs of having been repaired man
 > Ramshackle huts cling precariously to the rock face, their rope ladders swaying with every gust of wind.
 ^3a0
 
-These huts are secured to the rock face with stilts. Each hut is 15 to 20 feet above the path of wooden planks that runs the length of the ledge below them. The huts' interiors are lined with animal pelts and thick strips of bark. Each hut contains an adult [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) and `dice:1d6|noform|noparens|avg` (`1d6`) goblin children (noncombatants).
+These huts are secured to the rock face with stilts. Each hut is 15 to 20 feet above the path of wooden planks that runs the length of the ledge below them. The huts' interiors are lined with animal pelts and thick strips of bark. Each hut contains an adult [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) and `1d6` goblin children (noncombatants).
 
-When the fortress comes under attack, the goblins who live here pull up their rope ladders, which makes getting to the huts difficult. A creature can reach a hut by scaling the icy cliff, but doing this requires a successful DC 15 Strength (Athletics) check.
+When the fortress comes under attack, the goblins who live here pull up their rope ladders, which makes getting to the huts difficult. A creature can reach a hut by scaling the icy cliff, but doing this requires a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 ##### K9. Main Keep Foyer
 
-Four [goblins](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) in cold weather clothing guard this drafty hall. If an alarm sounds, the guards drop a heavy wooden crossbar across the double door to the south until Chief Yarb-Gnock gives the order to remove it. A ram or a similar siege weapon is needed to break down the barred door.
+Four [goblins](3-Mechanics/CLI/bestiary/humanoid/goblin.md) in cold weather clothing guard this drafty hall. If an alarm sounds, the guards drop a heavy wooden crossbar across the double door to the south until Chief Yarb-Gnock gives the order to remove it. A ram or a similar siege weapon is needed to break down the barred door.
 
 ##### K10. Guard Barracks
 
@@ -1958,13 +1938,13 @@ A low banquet table dominates this room, and there are no chairs as goblins are 
 
 Characters who undertake the "Peace Out" quest (see "Peace Out") are brought here to meet and dine with Chief Yarb-Gnock. The characters are expected to wait here until Spellix dons his Yarb-Gnock costume and emerges from his quarters (area K12). He engages in small talk until the food arrives about 10 minutes later.
 
-When the room is not in use, a lone [goblin](/3-Mechanics/CLI/bestiary/humanoid/goblin.md) stands guard inside the room near the eastern door, which is sealed shut with a wooden crossbar and has a shuttered peephole at goblin eye level. If someone knocks on the other side of this door, the guard peers through the peephole to see who's there. If it sees a friendly face, it lifts the crossbar and opens the door. A character can use an action to try to force open this door from the other side, breaking the crossbar with a successful DC 22 Strength (Athletics) check. When the dining room is in use, the guard retires to the barracks (area K10).
+When the room is not in use, a lone [goblin](3-Mechanics/CLI/bestiary/humanoid/goblin.md) stands guard inside the room near the eastern door, which is sealed shut with a wooden crossbar and has a shuttered peephole at goblin eye level. If someone knocks on the other side of this door, the guard peers through the peephole to see who's there. If it sees a friendly face, it lifts the crossbar and opens the door. A character can use an action to try to force open this door from the other side, breaking the crossbar with a successful DC 22 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. When the dining room is in use, the guard retires to the barracks (area K10).
 
 ##### K12. Chief's Quarters
 
-The door to this room has three deadbolts. A character can use an action to try to force open the door, doing so with a successful DC 15 Strength check. [Spellix Romwod](/3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) (see the accompanying stat block) quickly dons his disguise if someone knocks on the door or tries to break it down, but it takes him 1 minute to do so. While putting on his goblin costume, Spellix makes light conversation (in Goblin) through the closed door to buy time.
+The door to this room has three deadbolts. A character can use an action to try to force open the door, doing so with a successful DC 15 Strength check. [Spellix Romwod](3-Mechanics/CLI/bestiary/npc/spellix-romwod-idrotf.md) (see the accompanying stat block) quickly dons his disguise if someone knocks on the door or tries to break it down, but it takes him 1 minute to do so. While putting on his goblin costume, Spellix makes light conversation (in Goblin) through the closed door to buy time.
 
-![Spellix Romwod](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/130-637357081755196775.webp#center)
+![Spellix Romwod](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/130-637357081755196775.webp#center)
 
 The following boxed text assumes that Spellix has had time to don his disguise before the characters open the door. If they catch him in the act, modify the description accordingly:
 
@@ -1983,9 +1963,9 @@ The characters can easily force Spellix to do what they say, since they are clea
 
 Made of magical metal, this indestructible container is 3½ feet tall and 3 feet wide, with a flat base that allows it to stand upright and seams at the top that suggest it opens like a flower. Though it looks smooth, its surface feels tacky. It weighs 250 pounds and has a panel of flashing lights below its bulging midsection. The panel is a nine-digit keypad locking mechanism, and each glowing button has braille-like bumps on it. Spellix was unable to remove the keypad or crack open the crate, so he has been trying different combinations on the lock.
 
-The characters won't be able to crack the eight-digit combination quickly, so the easiest way to open the crate is to cast a knock spell on it or pay someone in Ten-Towns to cast the spell (see "Magic in Ten-Towns").
+The characters won't be able to crack the eight-digit combination quickly, so the easiest way to open the crate is to cast a [knock](3-Mechanics/CLI/spells/knock.md) spell on it or pay someone in Ten-Towns to cast the spell (see "Magic in Ten-Towns").
 
-Unlocking the crate causes the [gibbering mouther](/3-Mechanics/CLI/bestiary/aberration/gibbering-mouther.md) contained inside it to spill out. It attacks all other creatures indiscriminately.
+Unlocking the crate causes the [gibbering mouther](3-Mechanics/CLI/bestiary/aberration/gibbering-mouther.md) contained inside it to spill out. It attacks all other creatures indiscriminately.
 
 ##### K13. Treasury
 
@@ -1999,13 +1979,13 @@ The Netherese wizard who lived inside the spire did not survive the crash. The w
 
 The characters can learn about the spire in Ten-Towns (see "Tall Tales in Ten-Towns"), or they might stumble upon it accidentally while hunting (see "Hunt for the Red Yeti"). The NPC who tells the tale is willing to guide the characters to the spire's location for no less than 20 gp. After doing so, the guide wishes the party luck before heading back to Ten-Towns.
 
-Before the characters face the challenges of the spire, review the information about Dzaan in the "Arcane Brotherhood" section of appendix C. The details concerning [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) and bodyguard are especially pertinent, given what the characters are about to discover.
+Before the characters face the challenges of the spire, review the information about Dzaan in the "Arcane Brotherhood" section of appendix C. The details concerning [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) and bodyguard are especially pertinent, given what the characters are about to discover.
 
 #### Not-So-Dead Wizard of Thay
 
-Dzaan instructed his simulacrum to remain in the spire and ordered Krintaas, his [wight](/3-Mechanics/CLI/bestiary/undead/wight.md) bodyguard, to watch over it. The simulacrum is keen to activate the rune chamber on the lowest level (area P16), because this room's magic can transform an illusory creature or object into a real one (within limits). The [simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) thinks it can use the rune chamber to turn itself into a flesh-and-blood clone of Dzaan, but activating the chamber requires a life-spark, which the simulacrum does not possess. Krintaas, who also lacks a life-spark, is impatiently waiting for Dzaan to return and quash the simulacrum's efforts to test the rune chamber. Neither the simulacrum nor Krintaas is aware that the real Dzaan is dead (see "Toil and Trouble").
+Dzaan instructed his simulacrum to remain in the spire and ordered Krintaas, his [wight](3-Mechanics/CLI/bestiary/undead/wight.md) bodyguard, to watch over it. The simulacrum is keen to activate the rune chamber on the lowest level (area P16), because this room's magic can transform an illusory creature or object into a real one (within limits). The [simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) thinks it can use the rune chamber to turn itself into a flesh-and-blood clone of Dzaan, but activating the chamber requires a life-spark, which the simulacrum does not possess. Krintaas, who also lacks a life-spark, is impatiently waiting for Dzaan to return and quash the simulacrum's efforts to test the rune chamber. Neither the simulacrum nor Krintaas is aware that the real Dzaan is dead (see "Toil and Trouble").
 
-When the characters show up, [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) is ecstatic. Finally, some potentially helpful living creatures have arrived! The simulacrum will bargain, befriend, threaten, or do whatever else it thinks might work in order to get one or more of them to accompany it to the rune chamber. If the characters know that the real Dzaan is dead and convey that information to the simulacrum, it becomes even more determined.
+When the characters show up, [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) is ecstatic. Finally, some potentially helpful living creatures have arrived! The simulacrum will bargain, befriend, threaten, or do whatever else it thinks might work in order to get one or more of them to accompany it to the rune chamber. If the characters know that the real Dzaan is dead and convey that information to the simulacrum, it becomes even more determined.
 
 Once it learns that Dzaan is dead, Krintaas does whatever it takes to make sure the simulacrum gets the life-spark it needs to activate the rune chamber.
 
@@ -2018,11 +1998,11 @@ When the characters come within sight of the section of the spire that's visible
 > A twenty-foot-high, irregularly shaped spur of rock juts out of the tundra ahead of you. Its smooth and shiny surface cannot possibly have been worn down by the wind. No, this protrusion looks utterly out of place, as if it had been thrust into the ground.
 ^3ab
 
-A character who examines the protrusion can make a DC 15 Intelligence (History) check to discern its nature. (The dwarves' Stonecunning trait can prove useful here.) On a successful check, the character can confirm that the stone is neither naturally formed nor manually hewn, but rather shaped by magic. If the check succeeds by 5 or more, the character also discerns that that the protruding rock is of the top of a larger structure that continues underground.
+A character who examines the protrusion can make a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check to discern its nature. (The dwarves' Stonecunning trait can prove useful here.) On a successful check, the character can confirm that the stone is neither naturally formed nor manually hewn, but rather shaped by magic. If the check succeeds by 5 or more, the character also discerns that that the protruding rock is of the top of a larger structure that continues underground.
 
 ##### Slippery Entrance
 
-Characters who search the area around the protrusion find a slippery, 5-foot-diameter tunnel that enters the ground at a steep angle, then winds down into the frozen earth. A character moving through the tunnel without the aid of climbing gear or magic must succeed on a DC 15 Strength (Athletics) check or slide uncontrollably to the bottom, landing prone in area P1 but taking no damage. Characters can forgo climbing and simply slide down the tunnel, with a similar result. Getting back to the surface requires climbing gear or magic.
+Characters who search the area around the protrusion find a slippery, 5-foot-diameter tunnel that enters the ground at a steep angle, then winds down into the frozen earth. A character moving through the tunnel without the aid of climbing gear or magic must succeed on a DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check or slide uncontrollably to the bottom, landing [prone](3-Mechanics/CLI/rules/conditions.md#Prone) in area P1 but taking no damage. Characters can forgo climbing and simply slide down the tunnel, with a similar result. Getting back to the surface requires climbing gear or magic.
 
 #### Lost Spire Overview
 
@@ -2034,14 +2014,14 @@ The spire's constant features are summarized below:
 
 ##### Illumination
 
-All rooms, corridors, and staircases are lit by continual flame spells cast in sconces. The flames still point toward the ceiling, betraying their magical nature. They give off no heat.
+All rooms, corridors, and staircases are lit by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast in sconces. The flames still point toward the ceiling, betraying their magical nature. They give off no heat.
 
 - **Room and Door Heights.** All rooms and passageways are 12 feet high, with flat ceilings and floors unless the text says otherwise. All doorways are 8 feet high and arched; being upside down turns them into concave, 4-foot-high barriers that must be surmounted to get from one room to another).  
 - **Tunnels.** The shield guardian punched holes through the floor and gouged out tunnels in some places during its escape from the spire. Characters can use these openings to move between levels, but they'll need ropes or magic to ascend or descend safely.  
 
 > [!gallery]
-> ![Map 2.10: Lost Spire of Netheril](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/131-map-2-10-lost-spire.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/132-map-2-10-lost-spire-player.webp#gallery)
+> ![Map 2.10: Lost Spire of Netheril](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/131-map-2-10-lost-spire.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/132-map-2-10-lost-spire-player.webp#gallery)
 
 #### Lost Spire Locations (P1-P8)
 
@@ -2108,7 +2088,7 @@ Characters who open the upside-down chest must be careful not to let its content
 > This room contains two metal cages, both badly damaged. Nearby, two roughly dug tunnels—one in the ceiling and one in the floor—lead to other areas. Narrow windows along the bowed outer wall afford you a glimpse of the earth into which this structure impaled itself.
 ^3bd
 
-The metal cages got knocked around a lot during the crash and fall apart easily. One of them holds the carapace of an insect-like person. A character who examines this object and succeeds on a DC 20 Intelligence (Nature) check can identify it as coming from a thri-kreen.
+The metal cages got knocked around a lot during the crash and fall apart easily. One of them holds the carapace of an insect-like person. A character who examines this object and succeeds on a DC 20 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check can identify it as coming from a thri-kreen.
 
 ###### Tunnels Up and Down
 
@@ -2127,7 +2107,7 @@ The members of the previous expedition searched through the books and plucked th
 
 *The Unfettered Mind*. This lunatic text discusses how one might exist solely as a disembodied brain, preserved for eons in a magical suspension fluid. It includes sketches of brains in jars.
 
-![A dwarf adventurer explore...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/133-02-021-dwarf.webp#center "A dwarf adventurer explores the upside-down spire of a lost city")
+![A dwarf adventurer explores the upside-down spire of a lost city](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/133-02-021-dwarf.webp#center)
 
 ##### P8. Upside-Down Reading Room
 
@@ -2136,7 +2116,7 @@ The members of the previous expedition searched through the books and plucked th
 > This room contains the shattered remains of a desk and some chairs. You quickly discover that all sound is muted here.
 ^3c2
 
-A permanent silence spell encompasses this room, which apprentices used for quiet study. The effect can be dispelled (DC 18).
+A permanent [silence](3-Mechanics/CLI/spells/silence.md) spell encompasses this room, which apprentices used for quiet study. The effect can be dispelled (DC 18).
 
 #### Lost Spire Locations (P9-P16)
 
@@ -2159,15 +2139,15 @@ This spiral staircase used to connect levels 2 through 4 but is choked with rubb
 > This chamber appears to have been a wizard's laboratory, as evidenced by the upside-down storage cupboards and empty shelves fastened to the walls, the shattered glass and alchemical equipment strewn across the floor, and the arcane symbols painted on what is now the ceiling. In the middle of this space, five-foot-wide passageways punched through the ceiling and floor lead to other levels. Near them, a partially collapsed wall exposes a room that lies beyond.
 ^3c8
 
-The gap in the west wall was made by members of a previous expedition, after they discovered a secret door that they couldn't get open. The secret door was reduced to rubble, creating a gap in the wall leading to area P13. [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) (see appendix C) and its [wight](/3-Mechanics/CLI/bestiary/undead/wight.md) bodyguard, Krintaas, are in area P12 and move to investigate any loud disturbances here.
+The gap in the west wall was made by members of a previous expedition, after they discovered a secret door that they couldn't get open. The secret door was reduced to rubble, creating a gap in the wall leading to area P13. [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) (see appendix C) and its [wight](3-Mechanics/CLI/bestiary/undead/wight.md) bodyguard, Krintaas, are in area P12 and move to investigate any loud disturbances here.
 
 ###### Treasure
 
-Any character who spends a few minutes picking through the detritus finds a small brass key (which unlocks the invisible chest in area P15) and a sealed scroll tube made of chardalyn (see the chardalyn sidebar). It contains a spell scroll of invisibility stamped into a rolled-up piece of golden foil. The chardalyn tube is safe to handle.
+Any character who spends a few minutes picking through the detritus finds a small brass key (which unlocks the [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) chest in area P15) and a sealed scroll tube made of chardalyn (see the chardalyn sidebar). It contains a spell scroll of [invisibility](3-Mechanics/CLI/spells/invisibility.md) stamped into a rolled-up piece of golden foil. The chardalyn tube is safe to handle.
 
 ##### P12. Snow and Shadow
 
-Unless they're drawn to area P11 by a disturbance, [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) (see appendix C) and its [wight](/3-Mechanics/CLI/bestiary/undead/wight.md) bodyguard, Krintaas, are here. Omit the second paragraph from the following boxed text if these NPCs are not present:
+Unless they're drawn to area P11 by a disturbance, [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) (see appendix C) and its [wight](3-Mechanics/CLI/bestiary/undead/wight.md) bodyguard, Krintaas, are here. Omit the second paragraph from the following boxed text if these NPCs are not present:
 
 > [!readaloud] 
 > 
@@ -2187,17 +2167,17 @@ In the course of a conversation, the simulacrum shares the following information
 > "On the lowest level of this inverted tower, my creator found a chamber that can turn illusions into reality. The life-spark of a living creature is needed to activate its power. As a creation of snow and shadow, I have no life-spark of my own, and Krintaas, my undead bodyguard, is of no help in this regard. I assure you, the chamber can in no way harm anyone."
 ^3cc
 
-[Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) lacks a spellbook. If attacked, its impulse is to turn invisible and flee, then use its levitate spell to ascend the tower while Krintaas covers its escape. If it escapes the spire, it makes its way to Ten-Towns; as a thing made of ice and snow, the simulacrum can cross the tundra without fear of freezing to death.
+[Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) lacks a spellbook. If attacked, its impulse is to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and flee, then use its [levitate](3-Mechanics/CLI/spells/levitate.md) spell to ascend the tower while Krintaas covers its escape. If it escapes the spire, it makes its way to Ten-Towns; as a thing made of ice and snow, the simulacrum can cross the tundra without fear of freezing to death.
 
-![Guardian Amulet](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/134-02-022-shield-guardian-amulet.webp#center)
+![Guardian Amulet](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/134-02-022-shield-guardian-amulet.webp#center)
 
 ###### Amulet
 
-The object on the table is the amulet for a [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian.md). Dzaan retrieved it from area P15 and brought it here for examination. Neither the simulacrum nor Krintaas know what the amulet does, nor do they care. The simulacrum will happily give it to the characters if one or more of them agrees to accompany it to the rune chamber on the lowest level. A detect magic spell reveals a magical aura of enchantment around the amulet.
+The object on the table is the amulet for a [shield guardian](3-Mechanics/CLI/bestiary/construct/shield-guardian.md). Dzaan retrieved it from area P15 and brought it here for examination. Neither the simulacrum nor Krintaas know what the amulet does, nor do they care. The simulacrum will happily give it to the characters if one or more of them agrees to accompany it to the rune chamber on the lowest level. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals a magical aura of enchantment around the amulet.
 
 The amulet is a 4-inch-wide disk composed of silver-framed wood, with a rune carved into its face. (This rune matches the one on the shield guardian's forearms and is the personal sigil of the wizard who created both.)
 
-This particular [shield guardian amulet](/3-Mechanics/CLI/items/shield-guardian-amulet-idrotf.md) is a rare magic item that requires attunement, and only humanoids can attune to it. A humanoid that attunes to the amulet knows the distance and direction of the shield guardian, provided the amulet and the guardian are on the same plane of existence. As an action, the amulet's attuned wearer can try to reactivate the shield guardian, doing so with a successful DC 20 Intelligence (Arcana) check. Reactivation can only be attempted while the amulet and guardian are within 10 feet of each other. The amulet otherwise functions as described in the shield guardian's entry in "Monster Manual".
+This particular [shield guardian amulet](3-Mechanics/CLI/items/shield-guardian-amulet-idrotf.md) is a rare magic item that requires attunement, and only humanoids can attune to it. A humanoid that attunes to the amulet knows the distance and direction of the shield guardian, provided the amulet and the guardian are on the same plane of existence. As an action, the amulet's attuned wearer can try to reactivate the shield guardian, doing so with a successful DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check. Reactivation can only be attempted while the amulet and guardian are within 10 feet of each other. The amulet otherwise functions as described in the shield guardian's entry in "Monster Manual".
 
 ###### Books
 
@@ -2220,19 +2200,19 @@ Characters who peer through the gap in the east wall see what looks like a shrin
 > A stone altar is attached to the ceiling of this otherwise empty, semicircular room. An eight-pointed star is carved into the eastern face of the altar.
 ^3d0
 
-Characters who succeed on a DC 15 Intelligence (Religion) check recognize the symbol on the altar as the holy symbol of Mystryl, the first incarnation of Mystra, the god of magic. If this check succeeds by 5 or more, the character also knows that holy shrines to Mystryl are rare places and often full of mystery.
+Characters who succeed on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognize the symbol on the altar as the holy symbol of Mystryl, the first incarnation of Mystra, the god of magic. If this check succeeds by 5 or more, the character also knows that holy shrines to Mystryl are rare places and often full of mystery.
 
 ###### Altar
 
-The altar hangs 9 feet above the "floor" and merges seamlessly with the "ceiling" to which it's attached. A detect magic spell or similar magic does not reveal the magical aura around the altar, which is protected by a permanent version of the Nystul's magic aura spell that conceals its magical nature. If a successful dispel magic is cast on the altar (DC 18), followed by a detect magic spell or similar magic, it radiates an aura of illusion magic.
+The altar hangs 9 feet above the "floor" and merges seamlessly with the "ceiling" to which it's attached. A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic does not reveal the magical aura around the altar, which is protected by a permanent version of the [Nystul's magic aura](3-Mechanics/CLI/spells/nystuls-magic-aura.md) spell that conceals its magical nature. If a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) is cast on the altar (DC 18), followed by a [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic, it radiates an aura of illusion magic.
 
 The first time a character who can cast spells touches the symbol of Mystryl carved into the front of the altar, a stoppered flask filled with a luminous blue liquid appears in a shimmer of light "atop" the altar and immediately falls, shattering on the ceiling-turned-floor unless someone within reach catches it. Catching the falling flask requires a successful DC 10 Dexterity saving throw. If more than one character succeeds on this save, the one who rolled highest is the one who catches it. If the flask shatters, its contents evaporate instantly. Only one such flask can be created, after which the altar becomes nonmagical.
 
-A character can use an identify spell or similar magic to determine the properties of the blue liquid in the flask. Any creature that drinks all of it gains the ability to cast the minor illusion cantrip at will, using Intelligence as its spellcasting ability. If the creature that drinks the liquid can already cast the minor illusion cantrip, or if the liquid is consumed by more than one creature, nothing happens and the gift is wasted.
+A character can use an [identify](3-Mechanics/CLI/spells/identify.md) spell or similar magic to determine the properties of the blue liquid in the flask. Any creature that drinks all of it gains the ability to cast the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip at will, using Intelligence as its spellcasting ability. If the creature that drinks the liquid can already cast the [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md) cantrip, or if the liquid is consumed by more than one creature, nothing happens and the gift is wasted.
 
 ##### P14. Upside-Down Refectory
 
-This room is where the old tenants of the spire gathered for meals. Characters who befriended [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) are warned about the creature in this room:
+This room is where the old tenants of the spire gathered for meals. Characters who befriended [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) are warned about the creature in this room:
 
 > [!readaloud] 
 > 
@@ -2241,7 +2221,7 @@ This room is where the old tenants of the spire gathered for meals. Characters w
 > Crawling out from behind the tipped-over table is a hulking, eight-legged reptile with glowing eyes.
 ^3d3
 
-A hostile [basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk.md) is holed up in this room, having crawled down into the spire a few weeks ago.
+A hostile [basilisk](3-Mechanics/CLI/bestiary/monstrosity/basilisk.md) is holed up in this room, having crawled down into the spire a few weeks ago.
 
 ##### P15. Upside-Down Bedchamber
 
@@ -2252,13 +2232,13 @@ A hostile [basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk.md) is holed
 > Lying underneath two dirt-clogged windows is a partially crumbled, rime-covered human skeleton in the tattered shreds of a nightgown.
 ^3d5
 
-The crumbling skeleton is all that remains of the Netherese wizard to whom this tower once belonged. Disturbing the remains causes the wizard's evil spirit, a [will-o'-wisp](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md), to appear and attack. If the will-o'-wisp loses more than half its hit points, it uses its next action to turn invisible and haunts the characters for the remainder of their time in the spire, attacking solitary targets or those who can't fight back easily. The will-o'-wisp is bound to the spire and can't leave it, nor can it be appeased.
+The crumbling skeleton is all that remains of the Netherese wizard to whom this tower once belonged. Disturbing the remains causes the wizard's evil spirit, a [will-o'-wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp.md), to appear and attack. If the will-o'-wisp loses more than half its hit points, it uses its next action to turn [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) and haunts the characters for the remainder of their time in the spire, attacking solitary targets or those who can't fight back easily. The will-o'-wisp is bound to the spire and can't leave it, nor can it be appeased.
 
 The mirror mounted on the north wall can be broken or taken down. Characters who slipped past the basilisk can use the mirror to reflect the basilisk's gaze.
 
 ###### Treasure
 
-Characters who search the room thoroughly find a chest behind the bed. The chest has been made invisible by a spell that can be ended with a successful dispel magic (DC 18). The chest has a built-in lock, the key to which can be found in area P11. A character using thieves' tools can try to pick the lock as an action, doing so with a successful DC 17 Dexterity check (with disadvantage if the character can't see the lock).
+Characters who search the room thoroughly find a chest behind the bed. The chest has been made [invisible](3-Mechanics/CLI/rules/conditions.md#Invisible) by a spell that can be ended with a successful [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) (DC 18). The chest has a built-in lock, the key to which can be found in area P11. A character using thieves' tools can try to pick the lock as an action, doing so with a successful DC 17 Dexterity check (with disadvantage if the character can't see the lock).
 
 The chest weighs 25 pounds. It is airtight, watertight, and magical, such that its interior is a constant 68 degrees Fahrenheit (20 degrees Celsius). It can be sold for as much as 100 gp.
 
@@ -2271,14 +2251,14 @@ Inside the chest is what appears to be an ancient, leather-bound spellbook that 
 > The walls of this chamber are inscribed with interconnected runes and marred with cracks. What is now the ceiling bears similar inscriptions that swirl inward, converging around a golden crystal disk five feet in diameter.
 ^3d8
 
-A detect magic spell or similar magic reveals an aura of transmutation magic encompassing the entire room. The first time someone enters the room, read:
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell or similar magic reveals an aura of transmutation magic encompassing the entire room. The first time someone enters the room, read:
 
 > [!readaloud] 
 > 
 > An illusory figure appears upside down in the far corner of the room, standing on the ceiling. It appears to be the same long-faced human wizard depicted in the statues just inside the spire's entrance. It begins speaking in a strange, possibly forgotten, language.
 ^3d9
 
-Casting dispel magic on the illusory figure causes it to vanish. Otherwise, it disappears after giving its little speech. Once it goes away, the figment can't be summoned again for 24 hours.
+Casting [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md) on the illusory figure causes it to vanish. Otherwise, it disappears after giving its little speech. Once it goes away, the figment can't be summoned again for 24 hours.
 
 Any creature that can understand Loross, the language favored by the wizards of Netheril, can translate the illusory wizard's words as follows:
 
@@ -2287,11 +2267,11 @@ Any creature that can understand Loross, the language favored by the wizards of 
 > "Behold my masterpiece! Here can illusions be made real, shadows become substance! Create your illusion, let it stand atop the crystal disk, and watch my rune chamber do its work!"
 ^3da
 
-[Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) can't learn anything new by studying the runes and crystals. However, any character who spends at least 1 minute doing so can, with a successful DC 15 Intelligence (Arcana) check, verify their purpose: to transform illusory creatures and objects into real ones. If the check succeeds by 5 or more, the character also knows the following:
+[Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) can't learn anything new by studying the runes and crystals. However, any character who spends at least 1 minute doing so can, with a successful DC 15 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, verify their purpose: to transform illusory creatures and objects into real ones. If the check succeeds by 5 or more, the character also knows the following:
 
 - The rune chamber can't produce magic items, animated objects, constructs, or undead.  
 - A life-spark is needed to turn an illusory creature into a physical one. Acting much like a spark of electricity, it gives the room the jolt it needs to complete the transformation. (No such component is needed for objects.)  
-- The cracks in the walls have damaged enough of the runes to compromise the room's magic, which might give rise to unexpected results. (Warning [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) about this risk does not discourage it from using the rune chamber.)  
+- The cracks in the walls have damaged enough of the runes to compromise the room's magic, which might give rise to unexpected results. (Warning [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) about this risk does not discourage it from using the rune chamber.)  
 
 ###### Illusory Objects
 
@@ -2301,17 +2281,15 @@ When one or more illusory objects are placed under the crystal disk, the disk gi
 
 When an illusory creature stands beneath the crystal disk, the disk gives off a soft golden light. However, nothing happens until a living creature touches the illusory one. When that happens, roll percentile dice and consult the Rune Chamber Effect table to determine what happens next.
 
-If [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) becomes real, see the "Dzaan Lives!" section below.
+If [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md) becomes real, see the "Dzaan Lives!" section below.
 
 **Rune Chamber Effect**
 
-`dice: [](13-chapter-2-icewind-dale.md#^rune-chamber-effect)`
-
 | dice: d100 | Effect |
 |------------|--------|
-| 01–10 | The illusory object or creature is destroyed. If this happens to [Dzaan's simulacrum](/3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md), it instantly drops to 0 hit points and collapses into a pile of ice and snow. |
-| 11–50 | The illusory object or creature is transformed into a hostile blob of corrosive, magical ectoplasm that uses the [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding.md) stat block. This blob of magical energy can be dispelled (DC 16). |
-| 51–90 | The object or creature ceases to be an illusion and becomes real for `dice:2d12\|noform\|noparens\|avg` (`2d12`) hours. A creature brought into being in this way is under the DM's control and uses whichever stat block best matches its form. When it ceases to be real, it winks out of existence. |
+| 01–10 | The illusory object or creature is destroyed. If this happens to [Dzaan's simulacrum](3-Mechanics/CLI/bestiary/npc/dzaans-simulacrum-idrotf.md), it instantly drops to 0 hit points and collapses into a pile of ice and snow. |
+| 11–50 | The illusory object or creature is transformed into a hostile blob of corrosive, magical ectoplasm that uses the [black pudding](3-Mechanics/CLI/bestiary/ooze/black-pudding.md) stat block. This blob of magical energy can be dispelled (DC 16). |
+| 51–90 | The object or creature ceases to be an illusion and becomes real for `2d12` hours. A creature brought into being in this way is under the DM's control and uses whichever stat block best matches its form. When it ceases to be real, it winks out of existence. |
 | 91–00 | The object or creature ceases to be an illusion and becomes real permanently. A creature brought into being in this way is under the DM's control and uses whichever stat block best matches its form. In addition, the damage to the runes causes the crystal disk to burn out, making the chamber no longer functional. |
 ^rune-chamber-effect
 
@@ -2321,13 +2299,13 @@ If the rune chamber works properly and the simulacrum becomes a true clone of Dz
 
 Dzaan's ultimate goal is to plunder Ythryn. Without his spellbook, however, the wizard is woefully underpowered. Concealed under layers of cold weather clothing, Dzaan and Krintaas must travel to Bryn Shander to obtain a blank spellbook, as well as writing supplies and provisions. In the meantime, Dzaan urges the characters to seek out and destroy his rivals in the Arcane Brotherhood. Dzaan assumes his rivals are hiding out in Ten-Towns and paints an unflattering portrait of each one:
 
-- "[Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) is a tiefling evoker who delights in destruction. Her weakness is her paranoia. She can't bring herself to trust anyone except maybe her two gargoyle companions, and even they are suspect."  
+- "[Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md) is a tiefling evoker who delights in destruction. Her weakness is her paranoia. She can't bring herself to trust anyone except maybe her two gargoyle companions, and even they are suspect."  
 - "Nass Lantomir is a human diviner. She likes to pry knowledge from others by reading their thoughts. Her weakness is that she's always looking ahead, never behind her."  
-- "[Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is a human necromancer, as cold and uncaring as the corpses she animates. She's a withered old fool whose greatest asset—her family name—does her no good in Icewind Dale."  
+- "[Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md) is a human necromancer, as cold and uncaring as the corpses she animates. She's a withered old fool whose greatest asset—her family name—does her no good in Icewind Dale."  
 
 #### Bugbear Incursion
 
-Before the characters leave the spire, six [bugbears](/3-Mechanics/CLI/bestiary/humanoid/bugbear.md) crossing the tundra stumble upon the protrusion in the snow and slide down to area P1. Once there, they begin searching the uppermost level for food and treasure. The bugbears are cold and shivering, and their growls and complaints can be heard throughout the spire as they get their bearings.
+Before the characters leave the spire, six [bugbears](3-Mechanics/CLI/bestiary/humanoid/bugbear.md) crossing the tundra stumble upon the protrusion in the snow and slide down to area P1. Once there, they begin searching the uppermost level for food and treasure. The bugbears are cold and shivering, and their growls and complaints can be heard throughout the spire as they get their bearings.
 
 The bugbear leader, Brekk, is a thug whose allegiance can easily be bought. Brekk and his gang serve anyone willing to feed them, and their loyalty can be bought with coin (2 gp per day per bugbear). Characters who have no interest in fighting the bugbears or hiring them as muscle can pay them 10 gp each to leave the spire at once and continue on their merry way.
 
@@ -2335,7 +2313,7 @@ The bugbear leader, Brekk, is a thug whose allegiance can easily be bought. Brek
 
 Reghed tribe camps are scattered throughout Icewind Dale. None of them appear on maps because they don't stay in one place for long.
 
-Each Reghed tribe is made up of smaller clans, each with its own chieftain (the most powerful of whom often carries the title of king or queen). A clan might set up its camp for a tenday or two, then dismantle it and go back on the move, allowing the clan to stay close to a migrating herd of [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) as it travels across the tundra.
+Each Reghed tribe is made up of smaller clans, each with its own chieftain (the most powerful of whom often carries the title of king or queen). A clan might set up its camp for a tenday or two, then dismantle it and go back on the move, allowing the clan to stay close to a migrating herd of [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) as it travels across the tundra.
 
 The characters might be drawn to a Reghed camp by a tall tale or a quest (see "Tall Tales in Ten-Towns" and "Wolf Tribe Cannibals"), or they might be led to a camp by Reghed scouts roaming the tundra (see "Wilderness Encounters"). The characters might also visit Reghed camps in chapter 5, as they face tests set before them by Auril the Frostmaiden.
 
@@ -2352,9 +2330,9 @@ As the characters approach a Reghed tribe camp, read:
 > Hulking figures dressed in thick hides and holding spears patrol the camp perimeter, looking outward for signs of danger. Other figures are gathered around fires or moving among the tents.
 ^3e1
 
-Six [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md) walk the perimeter. These guards tend to be younger warriors of the tribe.
+Six [tribal warriors](3-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md) walk the perimeter. These guards tend to be younger warriors of the tribe.
 
-A lone character can sneak into the camp undetected with a successful DC 10 Dexterity (Stealth) check. If multiple characters try to sneak in together, have them make a DC 10 Dexterity (Stealth) group check instead. If either check fails, the guards shout loud enough to put the camp on alert (see "Camp Roster" below).
+A lone character can sneak into the camp undetected with a successful DC 10 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) check. If multiple characters try to sneak in together, have them make a DC 10 Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) group check instead. If either check fails, the guards shout loud enough to put the camp on alert (see "Camp Roster" below).
 
 Reghed nomads, regardless of clan or tribe, try to capture intruders rather than kill them, giving the chieftain (or king or queen) the chance to question or punish them, as appropriate.
 
@@ -2364,25 +2342,25 @@ Although most Reghed tribe members are human, you can include nonhumans as well.
 
 The following tribe members are usually in the camp:
 
-[Chieftain](/3-Mechanics/CLI/bestiary/humanoid/reghed-chieftain-idrotf.md). Roll a `dice:d6|noform|noparens|avg` (`d6`). On a 6, replace the chieftain with the tribe's king or queen (described in appendix C). Otherwise, the chieftain of this clan is a [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md) in hide armor who speaks Common and has Survival +5.
+[Chieftain](3-Mechanics/CLI/bestiary/humanoid/reghed-chieftain-idrotf.md). Roll a `d6`. On a 6, replace the chieftain with the tribe's king or queen (described in appendix C). Otherwise, the chieftain of this clan is a [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator.md) in hide armor who speaks Common and has [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +5.
 
-[Great Warrior](/3-Mechanics/CLI/bestiary/humanoid/reghed-great-warrior-idrotf.md). Serving the chieftain as a bodyguard and executioner is a [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator.md) in hide armor who speaks Common and has Survival +5. This great warrior is often the chieftain's spouse, sibling, offspring, or childhood friend—someone the chieftain trusts.
+[Great Warrior](3-Mechanics/CLI/bestiary/humanoid/reghed-great-warrior-idrotf.md). Serving the chieftain as a bodyguard and executioner is a [gladiator](3-Mechanics/CLI/bestiary/humanoid/gladiator.md) in hide armor who speaks Common and has [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +5. This great warrior is often the chieftain's spouse, sibling, offspring, or childhood friend—someone the chieftain trusts.
 
-[Shaman](/3-Mechanics/CLI/bestiary/humanoid/reghed-shaman-idrotf.md). The shaman, who advises the chieftain and presides over spiritual matters, is a [druid](/3-Mechanics/CLI/bestiary/humanoid/druid.md) who speaks Common and Druidic, and has Survival +4. In public, the shaman dons a wooden mask carved in the likeness of a bear, an elk, a tiger, or a wolf, as befits the tribe.
+[Shaman](3-Mechanics/CLI/bestiary/humanoid/reghed-shaman-idrotf.md). The shaman, who advises the chieftain and presides over spiritual matters, is a [druid](3-Mechanics/CLI/bestiary/humanoid/druid.md) who speaks Common and Druidic, and has [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +4. In public, the shaman dons a wooden mask carved in the likeness of a bear, an elk, a tiger, or a wolf, as befits the tribe.
 
 ###### 36 Hunters and Warriors
 
-This number includes the perimeter guards. All are [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) who speak Common and have Survival +4. Half of them are asleep in the camp at any given time.
+This number includes the perimeter guards. All are [tribal warriors](3-Mechanics/CLI/bestiary/humanoid/tribal-warrior.md) who speak Common and have [Survival](3-Mechanics/CLI/rules/skills.md#Survival) +4. Half of them are asleep in the camp at any given time.
 
 - **24 Noncombatants.** These are children and elders who are too weak to fight. Half of them are asleep in the camp at any given time.  
 
 ###### 36 Sled Dogs
 
-Use the [wolf](/3-Mechanics/CLI/bestiary/beast/wolf.md) stat block. The sled dogs usually sleep with the warriors in the outer circle of tents.
+Use the [wolf](3-Mechanics/CLI/bestiary/beast/wolf.md) stat block. The sled dogs usually sleep with the warriors in the outer circle of tents.
 
 ##### Hunting Parties
 
-Between two and four hunting parties, each consisting of `dice:1d6+4|noform|noparens|avg` (`1d6 + 4`) [tribal warriors](/3-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md), are away when the characters arrive. Each one returns after `dice:2d4|noform|noparens|avg` (`2d4`) hours with fresh meat (such as a [reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) carcass).
+Between two and four hunting parties, each consisting of `1d6 + 4` [tribal warriors](3-Mechanics/CLI/bestiary/humanoid/reghed-warrior-idrotf.md), are away when the characters arrive. Each one returns after `2d4` hours with fresh meat (such as a [reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) carcass).
 
 #### General Layout
 
@@ -2404,11 +2382,11 @@ Another large tent is occupied by the shaman, who keeps a large collection of me
 
 ###### Treasure
 
-In addition to the medicinal herbs, the shaman's tent contains `dice:1d4|noform|noparens|avg` (`1d4`) potions of healing in plain wooden vials sealed with corks made of animal fat, as well as a spell scroll of lesser restoration (or some other 1st- or 2nd-level spell from the druid spell list).
+In addition to the medicinal herbs, the shaman's tent contains `1d4` [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md) in plain wooden vials sealed with corks made of animal fat, as well as a spell scroll of [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md) (or some other 1st- or 2nd-level spell from the druid spell list).
 
 > [!gallery]
-> ![Map 2.11: Reghed Tribe Camp](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/135-map-2-11-reghed-camp.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/136-map-2-11-reghed-camp-player.webp#gallery)
+> ![Map 2.11: Reghed Tribe Camp](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/135-map-2-11-reghed-camp.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/136-map-2-11-reghed-camp-player.webp#gallery)
 
 #### Life in a Reghed Camp
 
@@ -2416,7 +2394,7 @@ The Reghed nomads eke out a meager existence on the desolate tundra of Icewind D
 
 A Reghed camp is a somber and subdued place, except for the barking of sled dogs and the sounds of children playing in the snow. The warriors and hunters like to conserve their strength for when it's needed, preferring to spend their idle hours doing as little as possible. Telling familiar stories and inventing new ones that glorify the nomads' outlook on life are common pastimes (see the "Reghed Stories" sidebar), as is sharpening weapons.
 
-Food is critical, of course, and certain beasts of the tundra are staples among the Reghed tribes. Knucklehead trout and seals are often prepared for eating very near the scene of the kill, filleted or chopped and generally eaten raw. [Reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) meat, on the other hand, must be cooked before consumption. [Reindeer](/3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) also provide the Reghed tribes with sinew, bone, and hide, all of which are used in the manufacture of weapons and armor.
+Food is critical, of course, and certain beasts of the tundra are staples among the Reghed tribes. Knucklehead trout and seals are often prepared for eating very near the scene of the kill, filleted or chopped and generally eaten raw. [Reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) meat, on the other hand, must be cooked before consumption. [Reindeer](3-Mechanics/CLI/bestiary/beast/reindeer-idrotf.md) also provide the Reghed tribes with sinew, bone, and hide, all of which are used in the manufacture of weapons and armor.
 
 > [!note] Reghed Stories
 > 
@@ -2437,7 +2415,7 @@ Revel's End is controlled by the Lords' Alliance, a loose confederation of settl
 
 Each member of the Lords' Alliance assigns one representative to Revel's End, and together they form a parole committee called the Absolution Council. Rarely are all ten council members present, since Revel's End offers little in the way of comfort and amenities. If the council needs a tie-breaking vote to determine whether to commute a prisoner's sentence, the prison warden—a neutral arbiter with no ties to any Lords' Alliance member—casts the deciding vote.
 
-![The remote prison of Revel...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/137-02-023-revels-end.webp#center "The remote prison of Revel's End contains many of the Sword Coast's most dangerous criminals")
+![The remote prison of Revel's End contains many of the Sword Coast's most dangerous criminals](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/137-02-023-revels-end.webp#center)
 
 #### Involving the Characters
 
@@ -2451,17 +2429,17 @@ The prison, hewn from stone, has 20-foot-high outer walls and flat, 20-foot-high
 
 ##### Doors and Hatches
 
-Each door and rooftop hatch is made of reinforced iron held shut by an arcane lock spell. Prison personnel can open these doors and hatches normally. A locked door or hatch is too strong to be shouldered or kicked open, but it can be destroyed if it takes enough damage. A door or hatch has AC 19, a damage threshold of 10, 30 hit points, and immunity to poison and psychic damage.
+Each door and rooftop hatch is made of reinforced iron held shut by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell. Prison personnel can open these doors and hatches normally. A locked door or hatch is too strong to be shouldered or kicked open, but it can be destroyed if it takes enough damage. A door or hatch has AC 19, a damage threshold of 10, 30 hit points, and immunity to poison and psychic damage.
 
 - **Heating.** Interior spaces are magically heated. The temperature in these areas is a constant 68 degrees Fahrenheit (20 degrees Celsius).  
 
 ##### Lighting
 
-Unless the text for a location states otherwise, all courtyards, corridors, rooms, and staircases are brightly lit by continual flame spells cast on wall sconces. (The cells in area R17 are exceptions.) In some locations, the magical lights can be dimmed or suppressed, as noted in the text.
+Unless the text for a location states otherwise, all courtyards, corridors, rooms, and staircases are brightly lit by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells cast on wall sconces. (The cells in area R17 are exceptions.) In some locations, the magical lights can be dimmed or suppressed, as noted in the text.
 
 ##### Prison Guards
 
-The prison has a garrison of 75 guards (use the [veteran](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) stat block) who work eight-hour shifts. Two-thirds of the garrison is off duty and resting in area R19 at any given time. While on duty, each guard wears a tunic that bears the Lords' Alliance emblem: a gold crown on a red field.
+The prison has a garrison of 75 guards (use the [veteran](3-Mechanics/CLI/bestiary/humanoid/veteran.md) stat block) who work eight-hour shifts. Two-thirds of the garrison is off duty and resting in area R19 at any given time. While on duty, each guard wears a tunic that bears the Lords' Alliance emblem: a gold crown on a red field.
 
 ##### Prisoners
 
@@ -2482,13 +2460,13 @@ Characters approaching from the south can also see the prison's south entrance a
 
 ##### Guards on Watch
 
-The prison has four guard towers (see area R9), and three guards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) in cold weather clothing are stationed atop each one. If you need to make Wisdom (Perception) checks for the guards to determine if they notice something, there's no need to roll separately for each of them. Just make one roll with advantage.
+The prison has four guard towers (see area R9), and three guards ([veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) in cold weather clothing are stationed atop each one. If you need to make Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks for the guards to determine if they notice something, there's no need to roll separately for each of them. Just make one roll with advantage.
 
 If the guards on a tower see or hear something out of the ordinary, such as an approaching ship or group of visitors or a monster flying overhead, one guard descends into the tower to alert the rest of the prison while the others stay at their post.
 
 ##### Getting Inside
 
-Characters who bang on the prison's north or south door are admitted into a 30-foot-long entry corridor, where they are greeted by the three guards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) stationed in the nearby guard room (area R3). These guards insist on confiscating the characters' weapons. In addition, one guard searches each character for concealed weapons. A character can conceal a dagger or similarly sized weapon from a guard's notice with a successful DC 13 Dexterity (Sleight of Hand) check.
+Characters who bang on the prison's north or south door are admitted into a 30-foot-long entry corridor, where they are greeted by the three guards ([veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) stationed in the nearby guard room (area R3). These guards insist on confiscating the characters' weapons. In addition, one guard searches each character for concealed weapons. A character can conceal a dagger or similarly sized weapon from a guard's notice with a successful DC 13 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check.
 
 If the characters have sled dogs or pack animals, a guard grants the party access to the stables (area R5), where the animals can be kept safe. Animals aren't allowed in the prison otherwise.
 
@@ -2503,13 +2481,13 @@ When a matter of concern is brought to her attention, the warden (see area R21) 
 
 By speaking the command word "maristo," the warden—and only the warden—can put the prison on high alert, with the following effects:
 
-- For 1 minute, the sound of a klaxon blares throughout the prison, and all continual flame spells in the prison take on a reddish hue.  
+- For 1 minute, the sound of a klaxon blares throughout the prison, and all [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells in the prison take on a reddish hue.  
 - The guards in area R19 don their armor, arm themselves, and move to area R18. The warden does the same and commands the garrison from there. Members of the Absolution Council retreat to area R20.  
-- The warden and all prison guards gain the benefit of a see invisibility spell.  
+- The warden and all prison guards gain the benefit of a [see invisibility](3-Mechanics/CLI/spells/see-invisibility.md) spell.  
 
 > [!gallery]
-> ![Map 2.12: Revel's End](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/138-map-2-12-revels-end.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/139-map-2-12-revels-end-player.webp#gallery)
+> ![Map 2.12: Revel's End](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/138-map-2-12-revels-end.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/139-map-2-12-revels-end-player.webp#gallery)
 
 #### Revel's End Locations (R1-R8)
 
@@ -2525,7 +2503,7 @@ A sturdy wooden scaffold clings to the 160-foot-high cliff separating the prison
 
 ##### R3. Guard Rooms
 
-Three guards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) are stationed in each of these two rooms. The guards pass the time by playing cards, sharpening their weapons, and complaining about the interminable winter.
+Three guards ([veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) are stationed in each of these two rooms. The guards pass the time by playing cards, sharpening their weapons, and complaining about the interminable winter.
 
 Embedded in the north wall of the northern guard room is an iron lever that raises and lowers the elevator in area R2.
 
@@ -2543,7 +2521,7 @@ Prison personnel dine here. Tables and benches fill the room, and dishes and cut
 
 ##### R7. Councilors' Quarters
 
-These ten rooms are furnished identically. Each contains a bed, a desk with matching chair, a claw-footed chest, and wall hooks for hanging clothes. The continual flame spell that illuminates each room can be suppressed or returned to its normal light level by uttering a command word ("lights").
+These ten rooms are furnished identically. Each contains a bed, a desk with matching chair, a claw-footed chest, and wall hooks for hanging clothes. The [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spell that illuminates each room can be suppressed or returned to its normal light level by uttering a command word ("lights").
 
 These rooms are set aside for the ten members of the Absolution Council, though only three rooms are currently in use. The other seven members of the council are absent, so the warden is free to let visitors use the spare rooms.
 
@@ -2559,7 +2537,7 @@ These three members of the Absolution Council are at Revel's End currently:
 
 Six cooks (noncombatants) take shifts here, working in pairs to produce meals for the prisoners and staff. The kitchen contains everything one would expect to see, as well as an iron stove and a pump that draws water from a magically heated cistern on the roof.
 
-Off-duty cooks sleep in the largest of the three rooms west of the kitchen. This side room is lit by continual flame spells that can be suppressed or returned to normal light levels by uttering a command word ("lights").
+Off-duty cooks sleep in the largest of the three rooms west of the kitchen. This side room is lit by [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells that can be suppressed or returned to normal light levels by uttering a command word ("lights").
 
 The middle side room—not heated, unlike the rest of the prison—is used for cold storage.
 
@@ -2569,17 +2547,17 @@ The smallest side room is a well-stocked pantry.
 
 ##### R9. Guard Towers
 
-Each of these four triangular towers is two stories tall. A tower's interior chamber is empty except for a wooden ladder that climbs to an iron hatch held shut by an arcane lock spell (see "Prison Features"). This hatch leads to the tower's flat rooftop, which is lined with battlements. Three Lords' Alliance guards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) in cold weather clothing are stationed on the roof of each tower.
+Each of these four triangular towers is two stories tall. A tower's interior chamber is empty except for a wooden ladder that climbs to an iron hatch held shut by an [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell (see "Prison Features"). This hatch leads to the tower's flat rooftop, which is lined with battlements. Three Lords' Alliance guards ([veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) in cold weather clothing are stationed on the roof of each tower.
 
 ##### R10. Armory
 
-This room contains wooden racks and chests filled with nonmagical weaponry. The inventory includes twenty halberds, fifteen longswords, fifteen shortswords, ten pikes, ten heavy crossbows, five light crossbows, and hundreds of crossbow bolts.
+This room contains wooden racks and chests filled with nonmagical weaponry. The inventory includes twenty [halberds](3-Mechanics/CLI/items/halberd.md), fifteen [longswords](3-Mechanics/CLI/items/longsword.md), fifteen [shortswords](3-Mechanics/CLI/items/shortsword.md), ten [pikes](3-Mechanics/CLI/items/pike.md), ten [heavy crossbows](3-Mechanics/CLI/items/heavy-crossbow.md), five [light crossbows](3-Mechanics/CLI/items/light-crossbow.md), and hundreds of [crossbow bolts](3-Mechanics/CLI/items/crossbow-bolts-20.md).
 
-The armory is guarded by a [spectator](/3-Mechanics/CLI/bestiary/aberration/spectator.md) that treats the weapons as treasure. It knows every member of the prison staff on sight. It won't leave the room and attacks anyone it doesn't recognize.
+The armory is guarded by a [spectator](3-Mechanics/CLI/bestiary/aberration/spectator.md) that treats the weapons as treasure. It knows every member of the prison staff on sight. It won't leave the room and attacks anyone it doesn't recognize.
 
 ###### Hatch
 
-A wooden ladder leads to an iron hatch in the ceiling. An arcane lock spell seals the hatch (see "Prison Features"), which opens onto the roof.
+A wooden ladder leads to an iron hatch in the ceiling. An [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell seals the hatch (see "Prison Features"), which opens onto the roof.
 
 ##### R11. Courtyards
 
@@ -2593,7 +2571,7 @@ This room holds a large, rectangular table with a single chair on one long side 
 
 ###### Hatch
 
-A wooden ladder leads to an iron hatch in the ceiling. An arcane lock spell seals the hatch (see "Prison Features" page 155), which opens onto the roof.
+A wooden ladder leads to an iron hatch in the ceiling. An [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell seals the hatch (see "Prison Features" page 155), which opens onto the roof.
 
 ##### R13. Storeroom
 
@@ -2609,7 +2587,7 @@ This corridor allows guards and visitors to access the outermost rooms of the pr
 
 ##### R16. Panopticon
 
-The continual flame spells that light this area can be dimmed from the surveillance hub (area R18). The hall is dimly lit at night.
+The [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells that light this area can be dimmed from the surveillance hub (area R18). The hall is dimly lit at night.
 
 #### Revel's End Locations (R17-R23)
 
@@ -2621,29 +2599,27 @@ Bolted to the back wall of each cell is an iron bunk bed with a thin mattress at
 
 ###### Prisoners
 
-Each of the twenty-four cells can hold one or two prisoners. Roll `dice:4d12|noform|noparens|avg` (`4d12`) to determine the number of prisoners currently incarcerated at Revel's End, give each one an identification number, and distribute them in the cells as you see fit. Numbers are assigned in the order in which the prisoners arrive and are never reused. The longest-serving prisoner currently incarcerated at Revel's End is Prisoner 6, and the newest one is Prisoner 299. Characters who want to speak with Vaelish Gant must arrange a meeting with [Prisoner 237](/3-Mechanics/CLI/bestiary/npc/prisoner-237-idrotf.md) (see "Prisoner 237: Vaelish Gant").
+Each of the twenty-four cells can hold one or two prisoners. Roll `4d12` to determine the number of prisoners currently incarcerated at Revel's End, give each one an identification number, and distribute them in the cells as you see fit. Numbers are assigned in the order in which the prisoners arrive and are never reused. The longest-serving prisoner currently incarcerated at Revel's End is Prisoner 6, and the newest one is Prisoner 299. Characters who want to speak with Vaelish Gant must arrange a meeting with [Prisoner 237](3-Mechanics/CLI/bestiary/npc/prisoner-237-idrotf.md) (see "Prisoner 237: Vaelish Gant").
 
 To add detail to some of the inmates, roll on the Prisoners table or choose entries that interest you. If a prisoner's game statistics become necessary, choose an appropriate stat block from "appendix B" of the "Monster Manual" and remove armor, weapons, and other gear.
 
 **Prisoners**
 
-`dice: [](13-chapter-2-icewind-dale.md#^prisoners)`
-
 | dice: d6 | Prisoner |
 |----------|----------|
-| 1 | Noble convicted of slave trading (has served `dice:1d6\|noform\|noparens\|avg` (`1d6`) years of a 10-year sentence) |
-| 2 | Spy convicted of espionage (has served `dice:1d6\|noform\|noparens\|avg` (`1d6`) years of a 10-year sentence) |
-| 3 | Assassin or noble convicted of conspiracy to murder members of a noble family (has served `dice:1d20\|noform\|noparens\|avg` (`1d20`) years of a life sentence) |
-| 4 | Famous adventurer convicted of reckless endangerment (has served `dice:1d4\|noform\|noparens\|avg` (`1d4`) years of a 5-year sentence) |
-| 5 | Spellcaster convicted of using magic to influence others (has served `dice:1d4\|noform\|noparens\|avg` (`1d4`) years of a 5-year sentence) |
-| 6 | Leader of a thieves' guild convicted of multiple crimes (has served `dice:1d20\|noform\|noparens\|avg` (`1d20`) years of a life sentence) |
+| 1 | Noble convicted of slave trading (has served `1d6` years of a 10-year sentence) |
+| 2 | Spy convicted of espionage (has served `1d6` years of a 10-year sentence) |
+| 3 | Assassin or noble convicted of conspiracy to murder members of a noble family (has served `1d20` years of a life sentence) |
+| 4 | Famous adventurer convicted of reckless endangerment (has served `1d4` years of a 5-year sentence) |
+| 5 | Spellcaster convicted of using magic to influence others (has served `1d4` years of a 5-year sentence) |
+| 6 | Leader of a thieves' guild convicted of multiple crimes (has served `1d20` years of a life sentence) |
 ^prisoners
 
 ##### R18. Surveillance Hub
 
 This hexagonal room is the base of the prison's central tower. A spiral staircase connects it to the tower's upper levels (areas R19 through R23).
 
-Seven guards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md)) are stationed in this surveillance hub. One sits at a console south of the staircase. The other guards watch the prisoners, whom they can observe through 4-foot-tall, 1-foot-wide arrow slits in the walls. Hanging on the walls between the arrow slits are fifty sets of iron manacles that guards use to bind prisoners' wrists and ankles.
+Seven guards ([veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md)) are stationed in this surveillance hub. One sits at a console south of the staircase. The other guards watch the prisoners, whom they can observe through 4-foot-tall, 1-foot-wide arrow slits in the walls. Hanging on the walls between the arrow slits are fifty sets of iron manacles that guards use to bind prisoners' wrists and ankles.
 
 ###### Console
 
@@ -2661,9 +2637,9 @@ A brass dial on the console controls the light level in area R16, which can be d
 
 Characters who climb the spiral staircase come to a door 100 feet above the prison roof. The staircase continues beyond this door to the tower's higher levels.
 
-The door opens into a room filled with wooden bunk beds. Areas to the north, west, and south can be scanned through 4-foot-tall, 1-foot-wide arrow slits. The continual flame spells that light the room can be dimmed or brightened by uttering a command word ("lights").
+The door opens into a room filled with wooden bunk beds. Areas to the north, west, and south can be scanned through 4-foot-tall, 1-foot-wide arrow slits. The [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spells that light the room can be dimmed or brightened by uttering a command word ("lights").
 
-When the prison is not on high alert, fifty guards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/veteran.md) without armor or weapons) sleep in the bunks. The guards keep their armor and weapons within easy reach. Other belongings are kept in unlocked footlockers tucked under the bunk beds.
+When the prison is not on high alert, fifty guards ([veterans](3-Mechanics/CLI/bestiary/humanoid/veteran.md) without armor or weapons) sleep in the bunks. The guards keep their armor and weapons within easy reach. Other belongings are kept in unlocked footlockers tucked under the bunk beds.
 
 The guards need 10 minutes to don their armor. If the prison is put on high alert, the guards take the time to put on their armor before making their way down to area R18.
 
@@ -2679,11 +2655,11 @@ Members of the Absolution Council gather here to weigh the merits of releasing p
 
 ##### R21. Warden's Quarters
 
-The arcane lock on this door can be opened only by the warden. Beyond the door is a comfortable bedchamber lit by a continual flame spell that can be dimmed or brightened by uttering a command word ("vaudra").
+The [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) on this door can be opened only by the warden. Beyond the door is a comfortable bedchamber lit by a [continual flame](3-Mechanics/CLI/spells/continual-flame.md) spell that can be dimmed or brightened by uttering a command word ("vaudra").
 
 ###### Prison Warden
 
-The warden of Revel's End is Marta Marthannis, a lawful good human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md) who speaks Common, Draconic, Dwarvish, and Orc and has a calm, unflappable disposition. She wears a red robe with gold trim and keeps a ring with seven tiny keys hanging from it in one pocket. One key unlocks the warden's chest (see "Treasure" below); the others unlock the desk drawer and the cabinets in the warden's office (area R22).
+The warden of Revel's End is Marta Marthannis, a lawful good human [mage](3-Mechanics/CLI/bestiary/humanoid/mage.md) who speaks Common, Draconic, Dwarvish, and Orc and has a calm, unflappable disposition. She wears a red robe with gold trim and keeps a ring with seven tiny keys hanging from it in one pocket. One key unlocks the warden's chest (see "Treasure" below); the others unlock the desk drawer and the cabinets in the warden's office (area R22).
 
 Warden Marthannis is secretly a member of the Harpers, a faction that works behind the scenes to keep power out of the hands of evildoers. In her current position, she works to keep some of the Sword Coast's worst malefactors behind bars.
 
@@ -2715,13 +2691,13 @@ No guards are stationed here. If the guards in the prison watchtowers (area R9) 
 
 #### Prisoner 237: Vaelish Gant
 
-[Vaelish Gant, Prisoner 237](/3-Mechanics/CLI/bestiary/npc/prisoner-237-idrotf.md) within the walls of Revel's End, is a member of the Arcane Brotherhood who first engaged in criminal activity by insinuating himself into the trade network of Ten-Towns. He hoped that his work would help the Arcane Brotherhood gain control of the region. A few years ago, shortly after his arrival in Ten-Towns, Gant established a protection racket in Bryn Shander and tried to turn the town against its speaker, Duvessa Shane, with the goal of supplanting her. He also tried to destabilize the economy of Ten-Towns. A party of adventurers thwarted his criminal ventures by capturing him.
+[Vaelish Gant, Prisoner 237](3-Mechanics/CLI/bestiary/npc/prisoner-237-idrotf.md) within the walls of Revel's End, is a member of the Arcane Brotherhood who first engaged in criminal activity by insinuating himself into the trade network of Ten-Towns. He hoped that his work would help the Arcane Brotherhood gain control of the region. A few years ago, shortly after his arrival in Ten-Towns, Gant established a protection racket in Bryn Shander and tried to turn the town against its speaker, Duvessa Shane, with the goal of supplanting her. He also tried to destabilize the economy of Ten-Towns. A party of adventurers thwarted his criminal ventures by capturing him.
 
 Rather than put Gant to death for his crimes in Icewind Dale, the Council of Speakers in Ten-Towns made a deal with representatives of the Lords' Alliance to have Gant serve a life sentence in Revel's End, so as not to incur the Arcane Brotherhood's wrath. The Council of Speakers did this not realizing that Gant's scheme wasn't sanctioned by the Arcane Brotherhood but rather hatched by Gant himself, who intended to impress his superiors by pulling it off.
 
 For a long time, Gant held out hope that the Arcane Brotherhood would apply pressure to secure his release, and that the Lords' Alliance would acquiesce to the brotherhood's demands rather than risk an all-out attack on Revel's End. But by now, Gant has been incarcerated long enough to reasonably conclude that no such rescue is forthcoming. His failed scheme was an embarrassment to the Arcane Brotherhood, which has clearly forsaken him.
 
-![Prisoner 237](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/140-637357081739596776.webp#center)
+![Prisoner 237](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/140-637357081739596776.webp#center)
 
 ##### Roleplaying Vaelish Gant
 
@@ -2741,10 +2717,10 @@ Gant has no information that can help the characters find the lost Netherese cit
 
 If the characters ask Gant about other members of the Arcane Brotherhood they've met in Icewind Dale (see appendix C), Gant can share what he knows about any of them:
 
-- About [Avarice](/3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), Gant says: "The tiefling albino? I think she has a promising future."  
+- About [Avarice](3-Mechanics/CLI/bestiary/npc/avarice-idrotf.md), Gant says: "The tiefling albino? I think she has a promising future."  
 - About Dzaan, Gant says: "He's a Red Wizard of Thay. Need I say more?" (If asked to elaborate, he adds: "Dzaan doesn't shave his head or wear red robes, but that doesn't change the fact that he's Thayan. The Red Wizards want the Weave all to themselves. If they get their way, no one else will be able to use magic.")  
 - About Nass Lantomir, Gant says: "She's a nobody."  
-- About [Vellynne Harpell](/3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md), Gant says: "Had powerful members of her family not pulled strings to get her into the Brotherhood, that old scarecrow would still be reanimating dead cats in Longsaddle."  
+- About [Vellynne Harpell](3-Mechanics/CLI/bestiary/npc/vellynne-harpell-idrotf.md), Gant says: "Had powerful members of her family not pulled strings to get her into the Brotherhood, that old scarecrow would still be reanimating dead cats in Longsaddle."  
 
 ### Skytower Shelter
 
@@ -2759,8 +2735,8 @@ All goliaths who dwell in Skytower Shelter are members of the Akannathi clan. In
 To get to either of the goliath outposts or to move between them, the characters need to negotiate the Spine of the World, where travel is the most difficult of any region in Icewind Dale. Use the rules in the "Mountain Travel" section to simulate the perils of getting around in the peaks.
 
 > [!gallery]
-> ![Map 2.13: Skytower Shelter](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/141-map-2-13-skytower-shelter.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/142-map-2-13-skytower-shelter-player.webp#gallery)
+> ![Map 2.13: Skytower Shelter](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/141-map-2-13-skytower-shelter.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/142-map-2-13-skytower-shelter-player.webp#gallery)
 
 #### Skytower Shelter Locations
 
@@ -2770,7 +2746,7 @@ The following locations are keyed to map 2.13.
 
 ##### S1. Stone Causeway
 
-A 10-foot-wide stone causeway hugs the side of the mountain and ascends to Skytower Shelter. Six [griffons](/3-Mechanics/CLI/bestiary/monstrosity/griffon.md) circling the mountain's peak watch the causeway closely, and their eyesight is sharp enough to pierce the clouds that frequently shroud the mountaintop. If they see unfamiliar figures ascending the causeway, the griffons shriek warnings to the goliaths of Skytower Shelter. The goliaths quickly arm themselves, expecting trouble. If the shelter comes under attack, the griffons join the fray.
+A 10-foot-wide stone causeway hugs the side of the mountain and ascends to Skytower Shelter. Six [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) circling the mountain's peak watch the causeway closely, and their eyesight is sharp enough to pierce the clouds that frequently shroud the mountaintop. If they see unfamiliar figures ascending the causeway, the griffons shriek warnings to the goliaths of Skytower Shelter. The goliaths quickly arm themselves, expecting trouble. If the shelter comes under attack, the griffons join the fray.
 
 ##### S2. Barricade and Chieftain
 
@@ -2781,11 +2757,11 @@ A 10-foot-wide stone causeway hugs the side of the mountain and ascends to Skyto
 > At the end of the entranceway is a ten-foot-tall barricade made of wood and stone, set with a crude gate made of thick lumber and festooned with metal blades. Gaps in the gate allow you to see an unusually tall figure in hide armor standing ten feet behind it and clutching a greataxe. Beyond this figure is a higher ledge with five equally towering figures standing atop it.
 ^423
 
-The figure beyond the gate is a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C) named Arn Rockfist Akannathi, the chieftain of Skytower Shelter. The figures atop the overlook (area S3) are five more [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md).
+The figure beyond the gate is a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C) named Arn Rockfist Akannathi, the chieftain of Skytower Shelter. The figures atop the overlook (area S3) are five more [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md).
 
 If the party includes one or more goliath characters who hail from Skytower Shelter, Arn welcomes them home and allows them and their companions to pass through the gate unmolested. Otherwise, Arn tells the party in a deep and gravelly voice, "Turn back. You are not welcome here."
 
-Two 500-pound wooden bars seal the gate. The blades affixed to the gate and the surrounding barricade make climbing impossible. The goliaths attack anyone who bypasses the gate without Arn's consent. Nine [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) from area S9 join the fray on the third round, and the six [griffons](/3-Mechanics/CLI/bestiary/monstrosity/griffon.md) circling above join the battle on the fifth round. Arn can also whistle to summon these reinforcements at any time.
+Two 500-pound wooden bars seal the gate. The blades affixed to the gate and the surrounding barricade make climbing impossible. The goliaths attack anyone who bypasses the gate without Arn's consent. Nine [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) from area S9 join the fray on the third round, and the six [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) circling above join the battle on the fifth round. Arn can also whistle to summon these reinforcements at any time.
 
 ###### Roleplaying Arn
 
@@ -2816,7 +2792,7 @@ Only by restoring Kaniaka's sight (see area S4) can the characters convince Arn 
 > Five stoic goliaths stand guard atop a ten-foot-high, rocky outcrop with stairs leading up to it. A large, empty nest occupies one corner of the ledge, and two rough-hewn tunnels at the back of the ledge lead deeper into the mountain.
 ^428
 
-Five [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C) stand guard atop this overlook.
+Five [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) (see appendix C) stand guard atop this overlook.
 
 The griffon's nest contains a few bones (the remains of mountain goats) but nothing of value.
 
@@ -2827,9 +2803,9 @@ The griffon's nest contains a few bones (the remains of mountain goats) but noth
 > This twelve-foot-high cave has a crackling fire in its center and walls lined with hunting trophies, including the skulls and pelts of various mountain-dwelling creatures. Seated by the fire is a wizened goliath with long white hair. A yeti fur cloak is draped over her stooped shoulders, and a tiger-sized feline with white fur crouches beside her.
 ^42a
 
-This cave is where Arn spends time with his family, namely his husband, Harad Cloudstrider Akannathi (a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md)), and Harad's elderly mother, Kaniaka Stormcrow Akannathi (a blind noncombatant). Each of them has private quarters off the main cave, where they keep their bedrolls.
+This cave is where Arn spends time with his family, namely his husband, Harad Cloudstrider Akannathi (a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md)), and Harad's elderly mother, Kaniaka Stormcrow Akannathi (a blind noncombatant). Each of them has private quarters off the main cave, where they keep their bedrolls.
 
-If the characters fought their way to this cave by killing other goliaths, Harad is awake and attacks them, since the fallen goliaths are his blood. Otherwise, Harad is asleep in his bedroll while Kaniaka sits by the fire, staring at it sightlessly, with a domesticated [crag cat](/3-Mechanics/CLI/bestiary/monstrosity/crag-cat-skt.md) (see appendix C) by her side. The cat protects Kaniaka but otherwise takes no aggressive actions.
+If the characters fought their way to this cave by killing other goliaths, Harad is awake and attacks them, since the fallen goliaths are his blood. Otherwise, Harad is asleep in his bedroll while Kaniaka sits by the fire, staring at it sightlessly, with a domesticated crag cat (see appendix C) by her side. The cat protects Kaniaka but otherwise takes no aggressive actions.
 
 Kaniaka's hearing is sharp enough to distinguish the heavy footfalls of goliaths from those of smaller folk. She is suspicious of strangers just as other members of her clan are, but at her age, she feels compelled to listen to what they have to say. She would very much like to see an end to the conflict with the Wyrmdoom goliaths—if such a thing is possible.
 
@@ -2850,7 +2826,7 @@ The chute is 5 feet in diameter and leads to area S6.
 
 This engraved stone is one of two sacred stones in Skytower Shelter (the other is in area S7). The goliaths pray next to it when they seek clarity of mind and spirit. The scripture on the runestone, written in Dwarvish, tells a story about the vision and leadership found among the great predator birds of Icewind Dale.
 
-A detect magic spell reveals an aura of transmutation magic around the runestone. Any humanoid creature that prays or meditates next to the runestone for at least 1 hour gains a runestone die, a `dice:d6|noform|noparens|avg` (`d6`). Once within the next 24 hours, it can roll the die and add the number rolled to one Wisdom check or Charisma check it makes. It can wait until after it rolls the `dice:d20|noform|noparens|avg` (`d20`) before deciding to use the runestone die, but must decide before the DM says whether the roll succeeds or fails. Once the runestone die is rolled, it is lost, and the humanoid can't gain another from this runestone for 10 days.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of transmutation magic around the runestone. Any humanoid creature that prays or meditates next to the runestone for at least 1 hour gains a runestone die, a `d6`. Once within the next 24 hours, it can roll the die and add the number rolled to one Wisdom check or Charisma check it makes. It can wait until after it rolls the `d20` before deciding to use the runestone die, but must decide before the DM says whether the roll succeeds or fails. Once the runestone die is rolled, it is lost, and the humanoid can't gain another from this runestone for 10 days.
 
 ##### S6. Griffons' Cave
 
@@ -2863,9 +2839,9 @@ The floor of this cave is 15 feet beneath the floor of area S5. A 5-foot-diamete
 > "Come no closer," warns the goliath. "This youngling is afraid to fly, and his mother is trying to get some rest."
 ^42f
 
-A smaller, 10-foot-high cave to the northeast contains a goliath-sized bedroll that belongs to the goliath. She is Rahi Skydreamer Akannathi, a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) with Animal Handling Animal Handling (`dice:1d20+4|noform|noparens|text(+4)`) and Medicine Medicine (`dice:1d20+4|noform|noparens|text(+4)`). Rahi serves as the clan's spiritual guide and chief caretaker of the griffons living in and around Skytower Shelter. The [young griffon](/3-Mechanics/CLI/bestiary/monstrosity/young-griffon-tiny-idrotf.md) in her care is less than a year old and has yet to overcome its fear of flying. Its mother, a [griffon](/3-Mechanics/CLI/bestiary/monstrosity/griffon.md), awakens and attacks if she, her offspring, or Rahi is threatened. If need be, Rahi can whistle to summon two more [griffons](/3-Mechanics/CLI/bestiary/monstrosity/griffon.md) perched on the nearby slopes; these reinforcements arrive on the third round of combat.
+A smaller, 10-foot-high cave to the northeast contains a goliath-sized bedroll that belongs to the goliath. She is Rahi Skydreamer Akannathi, a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) with [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling) [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling) (`+4`) and [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) (`+4`). Rahi serves as the clan's spiritual guide and chief caretaker of the griffons living in and around Skytower Shelter. The [young griffon](3-Mechanics/CLI/bestiary/monstrosity/young-griffon-tiny-idrotf.md) in her care is less than a year old and has yet to overcome its fear of flying. Its mother, a [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md), awakens and attacks if she, her offspring, or Rahi is threatened. If need be, Rahi can whistle to summon two more [griffons](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) perched on the nearby slopes; these reinforcements arrive on the third round of combat.
 
-Like the other members of her clan, Rahi is distrusting of strangers and doesn't abide intrusions. A character who offers to help Rahi overcome the youngling's fear of flying can, with a successful DC 18 Charisma (Persuasion) check, get Rahi's permission to approach the youngling. That character can then attempt a DC 15 Wisdom (Animal Handling) check to calm it. On a failed check, the youngling tries to nip the character with its beak, and Rahi sends the character away. On a successful check, Rahi is impressed as the baby griffon warms to the character.
+Like the other members of her clan, Rahi is distrusting of strangers and doesn't abide intrusions. A character who offers to help Rahi overcome the youngling's fear of flying can, with a successful DC 18 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check, get Rahi's permission to approach the youngling. That character can then attempt a DC 15 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check to calm it. On a failed check, the youngling tries to nip the character with its beak, and Rahi sends the character away. On a successful check, Rahi is impressed as the baby griffon warms to the character.
 
 If the party earns Rahi's trust and friendship, she might approach a goliath member of the party and offer to teach that character how to tame a griffon. Given the time commitment necessary, this activity is most likely to occur after the adventure concludes or during a lengthy period of downtime (see the "Griffon Taming" sidebar below).
 
@@ -2873,14 +2849,14 @@ If the party earns Rahi's trust and friendship, she might approach a goliath mem
 > 
 > Goliaths of the Akannathi clan can learn to raise and tame griffons using secrets passed down through the generations. The clan's griffon trainer, Rahi, shares these secrets with clan members who show great wisdom. The goliaths don't ride the griffons; rather, they train them to hunt like falcons. The griffons are taught to respond to goliath whistles and never stray too far from their masters.
 > 
-> A goliath character who earns Rahi's respect can be taught the secrets of griffon taming over a period of 1 year, during which time the character is entrusted to watch over and protect a single griffon egg and, when it hatches, the emergent griffon youngling. At the end of the year, if the griffon is still alive, the character must make a DC 15 Wisdom (Animal Handling) check, with advantage if the character accepts Rahi's guidance. If the check fails, the character is unable to tame the griffon. If the check succeeds, the character tames the griffon and bonds with it for life. Control of the griffon can be given to the goliath's player at this time.
+> A goliath character who earns Rahi's respect can be taught the secrets of griffon taming over a period of 1 year, during which time the character is entrusted to watch over and protect a single griffon egg and, when it hatches, the emergent griffon youngling. At the end of the year, if the griffon is still alive, the character must make a DC 15 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check, with advantage if the character accepts Rahi's guidance. If the check fails, the character is unable to tame the griffon. If the check succeeds, the character tames the griffon and bonds with it for life. Control of the griffon can be given to the goliath's player at this time.
 > 
-> Modify the [griffon](/3-Mechanics/CLI/bestiary/monstrosity/griffon.md) stat block as follows to account for the young griffon's development:
+> Modify the [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) stat block as follows to account for the young griffon's development:
 > 
-> - At birth, the [griffon](/3-Mechanics/CLI/bestiary/monstrosity/young-griffon-tiny-idrotf.md) is Tiny and has `dice:1d4+3|noform|noparens|avg|text(5)` (`1d4 + 3`) hit points, a flying speed of 40 feet, and a Strength score of 2. It has a +0 bonus to hit on its attacks and deals 1 piercing damage with its beak and 1 slashing damage with its claws. Its challenge rating is 0 (10 XP).  
-> - After 1 year, the [griffon](/3-Mechanics/CLI/bestiary/monstrosity/young-griffon-small-idrotf.md) is Small and has `dice:2d6+6|noform|noparens|avg|text(13)` (`2d6 + 6`) hit points and a Strength score of 8. It has a +1 bonus to hit on its attacks and deals `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) piercing damage with its beak and `dice:1d4|noform|noparens|avg|text(2)` (`1d4`) slashing damage with its claws. Its challenge rating is 1/4 (50 XP).  
-> - After 2 years, the [griffon](/3-Mechanics/CLI/bestiary/monstrosity/young-griffon-medium-idrotf.md) is Medium and has `dice:5d6+15|noform|noparens|avg|text(32)` (`5d6 + 15`) hit points and a Strength score of 12. It has a +3 bonus to hit on its attacks and deals `dice:1d6+1|noform|noparens|avg|text(4)` (`1d6 + 1`) piercing damage with its beak and `dice:2d4+1|noform|noparens|avg|text(6)` (`2d4 + 1`) slashing damage with its claws. Its challenge rating is 1 (200 XP).  
-> - After 3 years, the [griffon](/3-Mechanics/CLI/bestiary/monstrosity/griffon.md) is fully grown and tame enough to be ridden as a mount.  
+> - At birth, the [griffon](3-Mechanics/CLI/bestiary/monstrosity/young-griffon-tiny-idrotf.md) is Tiny and has 5 (`1d4 + 3`) hit points, a flying speed of 40 feet, and a Strength score of 2. It has a +0 bonus to hit on its attacks and deals 1 piercing damage with its beak and 1 slashing damage with its claws. Its challenge rating is 0 (10 XP).  
+> - After 1 year, the [griffon](3-Mechanics/CLI/bestiary/monstrosity/young-griffon-small-idrotf.md) is Small and has 13 (`2d6 + 6`) hit points and a Strength score of 8. It has a +1 bonus to hit on its attacks and deals 2 (`1d4`) piercing damage with its beak and 2 (`1d4`) slashing damage with its claws. Its challenge rating is 1/4 (50 XP).  
+> - After 2 years, the [griffon](3-Mechanics/CLI/bestiary/monstrosity/young-griffon-medium-idrotf.md) is Medium and has 32 (`5d6 + 15`) hit points and a Strength score of 12. It has a +3 bonus to hit on its attacks and deals 4 (`1d6 + 1`) piercing damage with its beak and 6 (`2d4 + 1`) slashing damage with its claws. Its challenge rating is 1 (200 XP).  
+> - After 3 years, the [griffon](3-Mechanics/CLI/bestiary/monstrosity/griffon.md) is fully grown and tame enough to be ridden as a mount.  
 ^griffon-taming
 
 ##### S7. Shrine of Strength and Honor
@@ -2896,9 +2872,9 @@ The chute leads to area S9. If goliaths are in that area, characters can hear lo
 
 The runestone is one of two sacred stones in Skytower Shelter (the other is in area S5). The goliaths pray next to it when they seek to gain physical strength and victory in combat and competition. The scripture on the runestone is written in Dwarvish and is concerned with the glory and honor found in battle and in competition. This honor is not always granted, however, because glory comes only to those who challenge themselves through physical trials. (There is no glory for a goliath who is unchallenged in battle, athletics, and competition, just as there is no glory for the griffon that slays a mouse.)
 
-A detect magic spell reveals an aura of transmutation magic around the runestone. Any humanoid creature that prays or meditates next to the runestone for at least 1 hour gains a runestone die, a `dice:d6|noform|noparens|avg` (`d6`). Once within the next 24 hours, it can roll the die and add the number rolled to one Strength check or weapon attack roll it makes. It can wait until after it rolls the `dice:d20|noform|noparens|avg` (`d20`) before deciding to use the runestone die, but must decide before the DM says whether the roll succeeds or fails. Once the runestone die is rolled, it is lost, and the humanoid can't gain another from this runestone for 10 days.
+A [detect magic](3-Mechanics/CLI/spells/detect-magic.md) spell reveals an aura of transmutation magic around the runestone. Any humanoid creature that prays or meditates next to the runestone for at least 1 hour gains a runestone die, a `d6`. Once within the next 24 hours, it can roll the die and add the number rolled to one Strength check or weapon attack roll it makes. It can wait until after it rolls the `d20` before deciding to use the runestone die, but must decide before the DM says whether the roll succeeds or fails. Once the runestone die is rolled, it is lost, and the humanoid can't gain another from this runestone for 10 days.
 
-![Rahi the goliath helps a g...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/143-02-024-rahi.webp#center "Rahi the goliath helps a griffon hatchling gain the confidence it needs to fly")
+![Rahi the goliath helps a griffon hatchling gain the confidence it needs to fly](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/143-02-024-rahi.webp#center)
 
 ##### S8. Passage of Carvings
 
@@ -2907,13 +2883,13 @@ A detect magic spell reveals an aura of transmutation magic around the runestone
 > This rough-hewn passageway slopes gently upward to the south. Ensconced torches illuminate carvings on the walls.
 ^435
 
-The carvings depict the history of the Akannathi clan. This saga begins at the north end of the passage and unfolds as one travels south toward area S9. A character who succeeds on a DC 15 Intelligence (History) check can determine that the oldest carvings are roughly 400 years old and the newest ones are quite recent.
+The carvings depict the history of the Akannathi clan. This saga begins at the north end of the passage and unfolds as one travels south toward area S9. A character who succeeds on a DC 15 Intelligence ([History](3-Mechanics/CLI/rules/skills.md#History)) check can determine that the oldest carvings are roughly 400 years old and the newest ones are quite recent.
 
 The earliest carvings tell the story of how the Akannathi goliaths tamed the mountain—how they dug tunnels and caves to serve their needs, creating a home for their people, and how they tamed the griffons of the mountain, turning these ravenous monsters into stalwart hunting companions. Later carvings focus on wars against the orcs, when the Skytower and Wyrmdoom goliaths were united against a common foe. Carvings made within the past century chronicle the souring of the friendship between the two goliath clans, with scenes showing warriors of Wyrmdoom Crag slaying griffons followed by bloody skirmishes between the goliath clans on mountainsides. The newest carvings depict lone goliaths chasing a giant polar bear (a representation of Oyaminartok, as described in appendix C) and a diminished population of Skytower goliaths contending with the seemingly endless winter.
 
 ##### S9. Feasting Cave
 
-Nine [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) occupy this area when the characters arrive at Skytower Shelter. If they were drawn to area S2 by a disturbance, adjust the following boxed text to account for their absence:
+Nine [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) occupy this area when the characters arrive at Skytower Shelter. If they were drawn to area S2 by a disturbance, adjust the following boxed text to account for their absence:
 
 > [!readaloud] 
 > 
@@ -2930,7 +2906,7 @@ When the goliaths become aware of the characters, add:
 Two goliaths were competing in a test of strength to see who could hold their arms up the longest under the weight of the rocks. Unless the characters are accompanied by a member of the Akannathi clan, the goliaths try to frighten away the interlopers, attacking them if they refuse to leave. A clever character can win over the goliaths by challenging and beating one or more of them in a rock-holding contest. The contest plays out as follows:
 
 - Each participant is given a pair of heavy rocks and must hold one in each hand while keeping their arms parallel to the floor.  
-- At the end of each minute, each participant must succeed on a Strength (Athletics) check to keep their arms raised. The DC starts at 5 and increases by 5 at the end of each minute thereafter. On a failed check, the participant drops their arms and is out of the game. If the last two participants fail at the same time, the contest ends in a tie.  
+- At the end of each minute, each participant must succeed on a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check to keep their arms raised. The DC starts at 5 and increases by 5 at the end of each minute thereafter. On a failed check, the participant drops their arms and is out of the game. If the last two participants fail at the same time, the contest ends in a tie.  
 
 Any character who wins a rock-holding contest earns the respect of the goliaths in this cave. That respect can grow into friendship, provided the characters have done nothing that would turn the goliaths against them.
 
@@ -2959,13 +2935,13 @@ The chieftains of the Akannathi and Thuunlakalaga clans will never come to terms
 
 ##### Summit of the Chiefs
 
-Arn will agree to meet Ogolai on neutral ground, but only if Kaniaka (see area S4) urges him to do so. Ogolai will agree to meet Arn on neutral ground, but only if the characters heal the wounded aarakocra at Wyrmdoom Crag (see area W6). Both chieftains intend to bring an entourage of goliath warriors with them to the meeting, and it takes some additional diplomacy—and perhaps a Charisma (Persuasion) check or two—to convince them to keep their delegations small.
+Arn will agree to meet Ogolai on neutral ground, but only if Kaniaka (see area S4) urges him to do so. Ogolai will agree to meet Arn on neutral ground, but only if the characters heal the wounded aarakocra at Wyrmdoom Crag (see area W6). Both chieftains intend to bring an entourage of goliath warriors with them to the meeting, and it takes some additional diplomacy—and perhaps a Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check or two—to convince them to keep their delegations small.
 
 ##### Negotiations
 
 Characters who bring Arn and Ogolai together still have their work cut out for them; neither chieftain is ready to forgive and forget the events that created the division between them. If one or more characters don't mediate the conversation, the meeting ends with each chieftain walking away in disgust at the other's unwillingness to accept blame. Allow the players time to devise a strategy for ending the impasse. Three possible solutions are presented below:
 
-- The characters urge the chieftains, for the good of Icewind Dale, to unite against a common foe (such as Auril the Frostmaiden, Arveiaturace the White Wyrm, or [Xardorok Sunblight](/3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)). Goliath warriors from both clans, working as allies, might learn to forget the past and forge a brighter future for all goliaths.  
+- The characters urge the chieftains, for the good of Icewind Dale, to unite against a common foe (such as Auril the Frostmaiden, Arveiaturace the White Wyrm, or [Xardorok Sunblight](3-Mechanics/CLI/bestiary/npc/xardorok-sunblight-idrotf.md)). Goliath warriors from both clans, working as allies, might learn to forget the past and forge a brighter future for all goliaths.  
 - A character who has earned the respect of one or both clans convinces either chieftain that being the first to accept responsibility for a misunderstanding, even when others should share the blame, is a sign of moral strength and good character. Once one chieftain accepts blame, it's easier for the other to do the same.  
 - The characters keep the chieftains talking—for days, if that's what it takes—by turning it into a contest of endurance. The two chieftains waste hours airing their grievances, then spend longer hours glaring at each other in stubborn silence. (The characters' patience is eventually rewarded when Ogolai has food and tea brought to her. She offers to share her repast with Arn, who begrudgingly accepts out of politeness. This moment marks a turning point as the chieftains agree that there can be no winner to this contest and, more important, that the contest is a metaphor for their pointless, long-standing feud.)  
 
@@ -2996,8 +2972,8 @@ The goliaths of Wyrmdoom Crag enjoy company and will trade food and shelter for 
 Although these goliaths are friendly and welcoming, they bear a bitter grudge against the goliaths of Skytower Shelter and will treat any character hailing from that clan accordingly. Additionally, these goliaths have a strong distaste toward visitors who seek to stir up trouble beyond simple competitiveness. If such a situation occurs, they expel the offending visitor.
 
 > [!gallery]
-> ![Map 2.14: Wyrmdoom Crag](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/144-map-2-14-wyrmdoom-crag.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/145-map-2-14-wyrmdoom-crag-player.webp#gallery)
+> ![Map 2.14: Wyrmdoom Crag](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/144-map-2-14-wyrmdoom-crag.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/145-map-2-14-wyrmdoom-crag-player.webp#gallery)
 
 #### Wyrmdoom Crag Locations
 
@@ -3016,9 +2992,9 @@ The following locations are keyed to map 2.14.
 
 The tracks in the snow were made by two goliath warriors returning from a hunt. See area W2 for more about the stone platform and the bleachers.
 
-The bones are those of an adult white dragon named Stygiarus, which met its doom at the hands of the goliaths of Wyrmdoom Crag. Four [chwingas](/3-Mechanics/CLI/bestiary/elemental/chwinga-toa.md) (see appendix C) lurk amid the bones and make their presence known by popping out as the characters approach. The chwingas follow the characters around for as long as the party remains in the vicinity of Wyrmdoom Crag. The goliaths of Wyrmdoom Crag are aware of the chwingas and usually ignore them.
+The bones are those of an adult white dragon named Stygiarus, which met its doom at the hands of the goliaths of Wyrmdoom Crag. Four [chwingas](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) (see appendix C) lurk amid the bones and make their presence known by popping out as the characters approach. The chwingas follow the characters around for as long as the party remains in the vicinity of Wyrmdoom Crag. The goliaths of Wyrmdoom Crag are aware of the chwingas and usually ignore them.
 
-Each [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) has a fascination for something and is irresistibly drawn to any character who has or demonstrates that certain something. If a character indulges a [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)'s fascination once a day for three consecutive days, the [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) rewards that character with a supernatural gift before it departs (see ""Supernatural Gifts"" in the "Dungeon Master's Guide"). See the "New Chwinga Charms" section in appendix C for more charms. Each [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)'s fascination is described below:
+Each [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) has a fascination for something and is irresistibly drawn to any character who has or demonstrates that certain something. If a character indulges a [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)'s fascination once a day for three consecutive days, the [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) rewards that character with a supernatural gift before it departs (see ""Supernatural Gifts"" in the "Dungeon Master's Guide"). See the "New Chwinga Charms" section in appendix C for more charms. Each [chwinga](3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md)'s fascination is described below:
 
 **Chwinga 1** has a white face with a dark triangle painted over one eye. It is fascinated by Small characters and tries to ride around on them.
 
@@ -3028,7 +3004,7 @@ Each [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) has a fasc
 
 **Chwinga 4** wears a gown made of pine needles. It is fascinated by characters who chew with their mouths open and tries to look down their throats while they eat.
 
-![Goat-ball is the favorite ...](/3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/146-02-025-goat-ball.webp#center "Goat-ball is the favorite sport and pastime of the Wyrmdoom Crag goliaths")
+![Goat-ball is the favorite sport and pastime of the Wyrmdoom Crag goliaths](3-Mechanics/CLI/adventures/icewind-dale-rime-of-the-frostmaiden/img/146-02-025-goat-ball.webp#center)
 
 ##### W2. Goat-Ball Court
 
@@ -3037,7 +3013,7 @@ Each [chwinga](/3-Mechanics/CLI/bestiary/elemental/chwinga-idrotf.md) has a fasc
 > Fifteen crude stone pillars stand on this raised arena. The bleachers carved into the back wall are sheathed in ice, and at the top of the seating section are burnt torch stubs in sconces and a narrow tunnel.
 ^446
 
-The goliaths of Wyrmdoom Crag gather here at least once a day to watch children or adults enjoying a game of goat-ball (see the "Goat-Ball" sidebar). If the characters endear themselves to the goliaths, four [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) from area W7 challenge them to a friendly goat-ball match. Characters who turn down the challenge are free to watch a game instead. The goliaths don't mind a little betting on the side.
+The goliaths of Wyrmdoom Crag gather here at least once a day to watch children or adults enjoying a game of goat-ball (see the "Goat-Ball" sidebar). If the characters endear themselves to the goliaths, four [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) from area W7 challenge them to a friendly goat-ball match. Characters who turn down the challenge are free to watch a game instead. The goliaths don't mind a little betting on the side.
 
 The narrow tunnel above and behind the bleachers leads down to area W6.
 
@@ -3045,7 +3021,7 @@ The narrow tunnel above and behind the bleachers leads down to area W6.
 > 
 > Goat-ball is a team sport similar to dodgeball. It uses a furry, misshapen ball made of stuffed goat hide and also requires a dozen or more elevated platforms (usually pillars or tree stumps) arranged in a random pattern. Two teams of four players clamber onto the platforms, pass the ball back and forth, and try to knock their opponents off their platforms. A team wins if all its opponents have been knocked out of the game.
 > 
-> **Rules.** To determine the outcome of a goat-ball game, have each player in the game make a Strength (Athletics) or Dexterity (Acrobatics) check (their choice). Add up the totals for each team. The team with the highest total wins. In the event of a tie, the game goes into overtime and all the players re-roll.
+> **Rules.** To determine the outcome of a goat-ball game, have each player in the game make a Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) check (their choice). Add up the totals for each team. The team with the highest total wins. In the event of a tie, the game goes into overtime and all the players re-roll.
 ^goat-ball
 
 ##### W3. Weaponsmith
@@ -3055,9 +3031,9 @@ The narrow tunnel above and behind the bleachers leads down to area W6.
 > The sound of metal hissing as it cools echoes through this warm, ten-foot-high chamber as a female goliath submerges a glowing javelin head into a barrel of water. The anvil in the center of the cave is illuminated by the light of a burning forge against the west wall. Against the wall nearby are several tools and weapons.
 ^44a
 
-The weaponsmith of Wyrmdoom Crag is a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named Wayani Highhunter Thuunlakalaga. Her forging techniques emulate those of a dwarf smith from whom she learned her craft. She owns a complete set of smith's tools, with which she is proficient, and is happy to talk about her work. If the characters seem friendly, she offers to take them to see Ogolai, the clan chieftain, in area W5.
+The weaponsmith of Wyrmdoom Crag is a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named Wayani Highhunter Thuunlakalaga. Her forging techniques emulate those of a dwarf smith from whom she learned her craft. She owns a complete set of smith's tools, with which she is proficient, and is happy to talk about her work. If the characters seem friendly, she offers to take them to see Ogolai, the clan chieftain, in area W5.
 
-Among the items found in this forge are thirteen metal javelins and three hefty greataxes, all nonmagical.
+Among the items found in this forge are thirteen metal [javelins](3-Mechanics/CLI/items/javelin.md) and three hefty [greataxes](3-Mechanics/CLI/items/greataxe.md), all nonmagical.
 
 ##### W4. The Crawl
 
@@ -3068,7 +3044,7 @@ Among the items found in this forge are thirteen metal javelins and three hefty 
 > At the back of the cave, an elderly male goliath sits with three adolescent goliaths around a campfire. The elderly goliath is dyeing scraps of cloth and leather in a bucket of greenish liquid and setting them to dry on a wooden rack while the adolescents stitch other scraps into garments for dolls they are fashioning. Scores of old dolls rest in niches along the cave walls, staring outward.
 ^44c
 
-The elderly goliath is a noncombatant named Demelok Nightwalker Thuunlakalaga, and he's helping the goliath youths make ceremonial dolls. The three youths are unarmed and unarmored [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named Jaagrik, Kaga, and Zuri.
+The elderly goliath is a noncombatant named Demelok Nightwalker Thuunlakalaga, and he's helping the goliath youths make ceremonial dolls. The three youths are unarmed and unarmored [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named Jaagrik, Kaga, and Zuri.
 
 ###### Rune-Carved Tunnel
 
@@ -3076,7 +3052,7 @@ If the characters ask about the rune-carved tunnel that burrows under the floor,
 
 After learning the lessons needed to become full-fledged adults, a young goliath offers up a symbol of their childhood—a doll—and crawls through the tunnel. Members of their family wait for them on the other side, ready to welcome them into adulthood. The visions seen by those who crawl through the tunnel force them to face their fears, experience what it means to be truly alone, and recognize their own weaknesses. Not everyone has the fortitude to make it through the tunnel on the first attempt, but those who fail can try again.
 
-Visitors who want to experience this trial are warned that it is not for the faint of heart. A character who reaches the tunnel's midpoint must succeed on a DC 15 Constitution saving throw and a DC 15 Charisma saving throw. If either save fails, the character is unable to move forward and must withdraw the way they came. If both saves fail, the character is so overwhelmed by visions of terror that they fall into a coma, becoming unconscious for `dice:4d6|noform|noparens|avg` (`4d6`) hours. A character who succeeds on both saving throws can crawl through the tunnel and out the other side, having confronted the visions and overcome them.
+Visitors who want to experience this trial are warned that it is not for the faint of heart. A character who reaches the tunnel's midpoint must succeed on a DC 15 Constitution saving throw and a DC 15 Charisma saving throw. If either save fails, the character is unable to move forward and must withdraw the way they came. If both saves fail, the character is so overwhelmed by visions of terror that they fall into a coma, becoming [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) for `4d6` hours. A character who succeeds on both saving throws can crawl through the tunnel and out the other side, having confronted the visions and overcome them.
 
 Any character who gets Chief Ogolai's consent to crawl through the tunnel is considered an honorary member of the Thuunlakalaga clan if they pass the trial.
 
@@ -3091,7 +3067,7 @@ Any character who gets Chief Ogolai's consent to crawl through the tunnel is con
 
 This cave is where most members of the Thuunlakalaga clan sleep and socialize. Bedrolls of goatskins and furs are set out on the floor in a loose semicircle around a well in the center of the room.
 
-When the characters arrive, the cave contains eight [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md), including six adults and two unarmed and unarmored goliath youths. There are also six goliath children (noncombatants), including the two speaking with the clan's chieftain, a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named Ogolai Orcsplitter Thuunlakalaga, who is endearingly called "Old Goat" by other clan members. Her greataxe has a haft made from white dragon bone, and her white cloak is magical (see "Treasure" below). If a fight erupts here, nine more [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) arrive from area W7 to help put an end to it.
+When the characters arrive, the cave contains eight [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md), including six adults and two unarmed and unarmored goliath youths. There are also six goliath children (noncombatants), including the two speaking with the clan's chieftain, a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named Ogolai Orcsplitter Thuunlakalaga, who is endearingly called "Old Goat" by other clan members. Her greataxe has a haft made from white dragon bone, and her white cloak is magical (see "Treasure" below). If a fight erupts here, nine more [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) arrive from area W7 to help put an end to it.
 
 Ogolai greets new arrivals and invites them to join her by the fire. If she takes a shine to them, she walks them back to the feasting cave (area W7) for a hot meal. If she is asked why the Skytower and Wyrmdoom goliaths don't get along, Ogolai says:
 
@@ -3120,7 +3096,7 @@ The main source of clean water for the clan is the well. A fire bucket is lowere
 
 These 10-foot-high caves are the quarters of the chieftain and the best warriors of the clan. Ogolai claims the southernmost cave, where the tribe's valuables are kept (see "Treasure" below).
 
-The northernmost cave contains a wounded [aarakocra](/3-Mechanics/CLI/bestiary/humanoid/aarakocra.md) named Sikki-kree, who is being tended to by a [goliath warrior](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named [Aruk Thundercaller Thuunlakalaga](/3-Mechanics/CLI/bestiary/npc/aruk-thundercaller-thuunlakalaga-idrotf.md), who has Insight Insight (`dice:1d20+4|noform|noparens|text(+4)`) and Medicine Medicine (`dice:1d20+4|noform|noparens|text(+4)`). Sikki-kree crashed in the mountains when she was caught in a blizzard and was rescued by goliath hunters. Aruk has been nursing the aarakocra back to health, but he can do only so much. Although Sikki-kree's minor wounds have healed, she has a broken wing that requires at least 10 hit points of magical healing to be mended. The goliaths of Wyrmdoom Crag have no such magic at their disposal. Any character who helps Sikki-kree regain her ability to fly earns the aarakocra's gratitude and the respect of the Wyrmdoom goliaths.
+The northernmost cave contains a wounded [aarakocra](3-Mechanics/CLI/bestiary/humanoid/aarakocra.md) named Sikki-kree, who is being tended to by a [goliath warrior](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) named [Aruk Thundercaller Thuunlakalaga](3-Mechanics/CLI/bestiary/npc/aruk-thundercaller-thuunlakalaga-idrotf.md), who has [Insight](3-Mechanics/CLI/rules/skills.md#Insight) [Insight](3-Mechanics/CLI/rules/skills.md#Insight) (`+4`) and [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine) (`+4`). Sikki-kree crashed in the mountains when she was caught in a blizzard and was rescued by goliath hunters. Aruk has been nursing the aarakocra back to health, but he can do only so much. Although Sikki-kree's minor wounds have healed, she has a broken wing that requires at least 10 hit points of magical healing to be mended. The goliaths of Wyrmdoom Crag have no such magic at their disposal. Any character who helps Sikki-kree regain her ability to fly earns the aarakocra's gratitude and the respect of the Wyrmdoom goliaths.
 
 Once Sikki-kree can fly again, she thanks the characters for their help before getting Ogolai's permission to depart. Ogolai is indebted to the characters for helping the aarakocra, enough that she will agree to a meeting with the chieftain of the Skytower goliaths if the characters request one.
 
@@ -3141,6 +3117,6 @@ Ogolai's cave contains a pile of treasure that her clan has amassed. The Wyrmdoo
 > An elderly male taps a rhythmic beat on a large goatskin drum held between his knees. While he plays, a couple of goliaths wrestle on the floor in front of him. Those seated near them occasionally move out of the way when the wrestlers roll too close to them.
 ^457
 
-Unless the warriors have been drawn elsewhere, this cave nine [goliath warriors](/3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) plus eight goliath noncombatants (children and clan elders).
+Unless the warriors have been drawn elsewhere, this cave nine [goliath warriors](3-Mechanics/CLI/bestiary/humanoid/goliath-warrior-idrotf.md) plus eight goliath noncombatants (children and clan elders).
 
-The Wyrmdoom goliaths are overjoyed if one or more characters express an interest in wrestling. Although the goliaths don't customarily take on smaller or weaker opponents, they never refuse a challenge. Winning a wrestling match requires a competitor to succeed on two consecutive contested Strength (Athletics) checks.
+The Wyrmdoom goliaths are overjoyed if one or more characters express an interest in wrestling. Although the goliaths don't customarily take on smaller or weaker opponents, they never refuse a challenge. Winning a wrestling match requires a competitor to succeed on two consecutive contested Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) checks.

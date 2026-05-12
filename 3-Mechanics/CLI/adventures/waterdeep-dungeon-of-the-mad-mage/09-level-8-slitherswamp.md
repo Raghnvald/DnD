@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/wdmm
 aliases:
-- Level 8: Slitherswamp
+- "Level 8: Slitherswamp"
 ---
 # Level 8: Slitherswamp
 *Source: Waterdeep: Dungeon of the Mad Mage, p. 109* 
 
-![](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/024-801.webp#center)
+![](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/024-801.webp#center)
 
 Slitherswamp is designed for four 10th-level characters, and characters who defeat the monsters on this level should gain enough XP to reach halfway to 11th level. This level consists of muck-filled caverns and decaying temples dedicated to evil deities of the yuan-ti. The serpent folk lived here until they were defeated by nagas known as the Ssethian Scourges. Afterward, Halaster replaced the yuan-ti with a bullywug tribe governed by a cruel death slaad overlord.
 
@@ -22,7 +22,7 @@ Adventurers might find themselves caught up in the war of Slitherswamp by encoun
 
 The Ssethian Scourges were three spirit nagas that fought the yuan-ti of the Slitherswamp, eventually claiming victory. Only two spirit nagas remain, Excrutha and Serakath, along with their thralls and the remnants of the third spirit naga, Hexacali, who was destroyed and transformed into a bone naga by the yuan-ti.
 
-The spirit nagas maintain a stable of thralls and use a rod of rulership to insure their obedience. Every day at dawn, the nagas gather their thralls in area 15a and target them again with the recharged rod, and each naga has the special ability to increase the duration of the charm effect to 12 hours. Humanoid thralls that resist the rod's magic often choose to maintain the appearance of being charmed for the sake of their own survival, because the nagas kill or chain up those they can't magically enslave.
+The spirit nagas maintain a stable of thralls and use a [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md) to insure their obedience. Every day at dawn, the nagas gather their thralls in area 15a and target them again with the recharged rod, and each naga has the special ability to increase the duration of the charm effect to 12 hours. Humanoid thralls that resist the rod's magic often choose to maintain the appearance of being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) for the sake of their own survival, because the nagas kill or chain up those they can't magically enslave.
 
 Shortly after the Ssethian Scourges defeated their yuan-ti foes, a tribe of bullywugs led by a death slaad appeared in the Slitherswamp. Frustrated by this new obstacle to their dominance of the level, the nagas now seek allies to slay the bullywugs and their leader. The nagas know the locations of all the magic gates on this level, as well as how to activate them. They share that information with creatures that willingly serve them.
 
@@ -34,7 +34,7 @@ Halaster also summoned a death slaad named Kuketh to Slitherswamp. The Mad Mage 
 
 #### Carrion Crawler Mucus
 
-Blacktongue bullywugs coat their weapons with carrion crawler mucus. A creature hit by a bullywug's Spear attack must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. A creature poisoned in this way is also paralyzed. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Blacktongue bullywugs coat their weapons with carrion crawler mucus. A creature hit by a bullywug's Spear attack must succeed on a DC 13 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A creature [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed). The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Karstis of Dweomercore
 
@@ -45,8 +45,8 @@ The mages of Dweomercore (level 9) have sent one of their own, a human named Kar
 All location descriptions for this level are keyed to map 8. Many tunnels and caves of Slitherswamp are partially flooded with water, ranging from a few inches to several feet in depth, over a layer of thick mud. Areas marked as swamp on the map are difficult terrain for any creature that lacks a swimming speed.
 
 > [!gallery]
-> ![Map 8](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/025-802.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/026-803.webp#gallery)
+> ![Map 8](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/025-802.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/waterdeep-dungeon-of-the-mad-mage/img/026-803.webp#gallery)
 
 This entire level is wet and humid. Ordinary frogs, toads, and insects thrive here.
 
@@ -61,7 +61,7 @@ The sloping tunnel from level 7 ends 20 feet above the marshy ground of area 2.
 > **Rope Ladder**. The crumbling remains of a ramp lie below the precipice. A slimy rope ladder has been anchored with spikes to its western edge.
 ^457
 
-The rope ladder has been smeared with carrion crawler mucus. Any creature climbing down the ladder must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. A creature poisoned in this way is also paralyzed and falls from the rope ladder into the muck of area 2 below, taking `dice:1d6|noform|noparens|avg|text(3)` (`1d6`) bludgeoning damage. The creature can repeat the saving throw at the end of each of its turns, ending the mucus's effect on itself on a success.
+The rope ladder has been smeared with carrion crawler mucus. Any creature climbing down the ladder must succeed on a DC 13 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A creature [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) and falls from the rope ladder into the muck of area 2 below, taking 3 (`1d6`) bludgeoning damage. The creature can repeat the saving throw at the end of each of its turns, ending the mucus's effect on itself on a success.
 
 ### 2. Bullywug Sentries
 
@@ -71,7 +71,7 @@ The rope ladder has been smeared with carrion crawler mucus. Any creature climbi
 > 
 > **Fireflies**. Harmless fireflies flit over strange fungal plants that sprout from the swamp, filling the cavern with eerie dim light.
 > 
-> **Bullywugs**. Three [bullywugs](/3-Mechanics/CLI/bestiary/humanoid/bullywug.md) use their Swamp Camouflage feature to hide in the swampy tunnel leading to area 19.
+> **Bullywugs**. Three [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) use their Swamp Camouflage feature to hide in the swampy tunnel leading to area 19.
 ^459
 
 The bullywugs watch the tunnel that leads to level 7. When they spot the characters, three of them try to sneak away to areas 19a and 20, to warn the rest of the tribe. The others wait to see where the intruders go.
@@ -81,7 +81,7 @@ The bullywugs watch the tunnel that leads to level 7. When they spot the charact
 A three-forked passageway rises out of the swamp. The center passage has an arch embedded in its back wall. This arch is one of Halaster's magic gates (see "Gates"). The space inside it bears a bas-relief of a female dwarf standing with her eyes closed. A keyhole is carved into the head of a stone hammer she clutches to her chest. The rules of this gate are as follows:
 
 - If the stone key from area 14a on level 2 is inserted into the keyhole, the bas-relief and the key vanish as the gate opens for 1 minute. When the gate closes, the bas-relief reappears, and the key is ejected from its keyhole.  
-- A character can open the gate without the stone key by using an action to pick the lock, requiring a successful DC 20 Dexterity check using thieves' tools. If the check fails, the dwarf's eyes open and emit light. Each creature within 10 feet of the arch must make a DC 16 Dexterity saving throw, taking `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) radiant damage on a failed save, or half as much damage on a successful one.  
+- A character can open the gate without the stone key by using an action to pick the lock, requiring a successful DC 20 Dexterity check using thieves' tools. If the check fails, the dwarf's eyes open and emit light. Each creature within 10 feet of the arch must make a DC 16 Dexterity saving throw, taking 22 (`4d10`) radiant damage on a failed save, or half as much damage on a successful one.  
 - Characters must be 9th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 34b on level 6, in the closest unoccupied space next to the identical gate located there.  
 
@@ -98,7 +98,7 @@ A 20-foot-high dry ledge (area 4a) overlooks a 30-foot-high cavern filled with v
 
 #### 4a. Final Rest of Thubid Duskaxe
 
-This 20-foot-high ledge can be climbed with a successful DC 15 Strength (Athletics) check. Atop the ledge, above the bloodstain but not visible from the tunnel floor, the body of a duergar sprawls near a campsite. The corpse is that of Thubid Duskaxe, a duergar adventurer on a rescue mission. He lost a leg when he fought the shambling mounds and subsequently bled to death.
+This 20-foot-high ledge can be climbed with a successful DC 15 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check. Atop the ledge, above the bloodstain but not visible from the tunnel floor, the body of a duergar sprawls near a campsite. The corpse is that of Thubid Duskaxe, a duergar adventurer on a rescue mission. He lost a leg when he fought the shambling mounds and subsequently bled to death.
 
 ##### Treasure
 
@@ -106,7 +106,7 @@ The corpse wears a leather satchel that contains 224 gp, an ornate stone carving
 
 #### 4b. Shambling Mounds
 
-Any character who succeeds on a DC 12 Wisdom (Perception) check is not surprised when three [shambling mounds](/3-Mechanics/CLI/bestiary/plant/shambling-mound.md) attack. The shambling mounds chase creatures through the mud but ignore creatures atop the ledge.
+Any character who succeeds on a DC 12 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check is not [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when three [shambling mounds](3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md) attack. The shambling mounds chase creatures through the mud but ignore creatures atop the ledge.
 
 ### 5. Dry Cave
 
@@ -123,13 +123,13 @@ This swampy cavern has a 50-foot-high ceiling of jagged rock. Rising from the mi
 > **Apparition**. The ghostly image of an adventurer moves through the area, looking lost.
 ^462
 
-The ghostly image of a male human warrior in plate armor wanders around the statue as though searching for something he has lost. The image cannot be harmed and does not acknowledge the characters. If a character dies on this level, the image changes to appear as that character, even if the character is later raised from the dead. A dispel magic spell that targets the image causes it to disappear for 1 hour.
+The ghostly image of a male human warrior in plate armor wanders around the statue as though searching for something he has lost. The image cannot be harmed and does not acknowledge the characters. If a character dies on this level, the image changes to appear as that character, even if the character is later raised from the dead. A [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell that targets the image causes it to disappear for 1 hour.
 
-A successful DC 15 Intelligence (Religion) check suggests that the statue is a representation of Dendar the Night Serpent, the yuan-ti god of nightmares. Any character who touches the statue is cursed. Until the curse is ended with a remove curse spell or similar magic, the character is beset by nightmares and gains no benefit from a long rest.
+A successful DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check suggests that the statue is a representation of Dendar the Night Serpent, the yuan-ti god of nightmares. Any character who touches the statue is cursed. Until the curse is ended with a [remove curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic, the character is beset by nightmares and gains no benefit from a long rest.
 
 ### 7. Warded Cavern
 
-A glyph of warding spell has been cast on the floor at the center of the 10-foot-high cavern. The glyph triggers a cloudkill spell (save DC 15) when any creature other than Karstis passes the midpoint of the cavern. The spell's cloud lasts for 10 minutes.
+A [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md) spell has been cast on the floor at the center of the 10-foot-high cavern. The glyph triggers a [cloudkill](3-Mechanics/CLI/spells/cloudkill-xphb.md) spell (save DC 15) when any creature other than Karstis passes the midpoint of the cavern. The spell's cloud lasts for 10 minutes.
 
 ### 8. Dweomercore Hideout
 
@@ -141,22 +141,22 @@ If death or capture seems likely, Karstis grabs his spellbook in area 8b and fle
 
 > [!note] 
 > 
-> **Golem**. A [flesh golem](/3-Mechanics/CLI/bestiary/construct/flesh-golem.md) stands watch in the middle of this 10-foot-high cave, facing the entrance.
+> **Golem**. A [flesh golem](3-Mechanics/CLI/bestiary/construct/flesh-golem-xmm.md) stands watch in the middle of this 10-foot-high cave, facing the entrance.
 > 
-> **Wights**. Two [wights](/3-Mechanics/CLI/bestiary/undead/wight.md) are on guard at the south end of the cave (outside area 8b).
+> **Wights**. Two [wights](3-Mechanics/CLI/bestiary/undead/wight-xmm.md) are on guard at the south end of the cave (outside area 8b).
 > 
 > **Crates**. Three open crates are stored in the westernmost alcove. They contain sheets of parchment, small jars of ink, quills, 10 days of edible rations, and five 2-gallon casks of clean water.
 ^466
 
-If the glyph in area 7 triggers, the flesh golem and the wights can't be surprised. The golem was crafted by Wormriddle the night hag (see level 9). If the golem goes berserk, neither Karstis nor any of his other servants can regain control of it.
+If the glyph in area 7 triggers, the flesh golem and the wights can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised). The golem was crafted by Wormriddle the night hag (see level 9). If the golem goes berserk, neither Karstis nor any of his other servants can regain control of it.
 
 #### 8b. Karstis's Cave
 
-Karstis (LE male Mulhorandi human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md)) lurks here with four [minotaur skeletons](/3-Mechanics/CLI/bestiary/undead/minotaur-skeleton.md). The 10-foot-high cave is lit by a hooded lantern that rests on a portable writing desk covered in quills, ink jars, and books. A folding cot rests near the back wall.
+Karstis (LE male Mulhorandi human [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) lurks here with four [minotaur skeletons](3-Mechanics/CLI/bestiary/undead/minotaur-skeleton-xmm.md). The 10-foot-high cave is lit by a hooded lantern that rests on a portable writing desk covered in quills, ink jars, and books. A folding cot rests near the back wall.
 
 ##### Treasure
 
-Amid the clutter on the desk, characters can find Karstis's spellbook. The book is bound in human flesh and contains all the spells Karstis has prepared, plus animate dead and glyph of warding.
+Amid the clutter on the desk, characters can find Karstis's spellbook. The book is bound in human flesh and contains all the spells Karstis has prepared, plus [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md) and [glyph of warding](3-Mechanics/CLI/spells/glyph-of-warding-xphb.md).
 
 ### 9. Temple of the Great Snake
 
@@ -170,20 +170,20 @@ This 30-foot-high cavern is dominated by a ruin that contains the following:
 > 
 > **Green Statue**. The middle chamber contains a statue carved of green stone, depicting a 15-foot-tall winged snake with its fangs bared. Harmless snakes slither around the statue's base.
 > 
-> **Ghost**. Wandering through the ruin is a spectral woman wearing a soiled black gown and a featureless white mask (actually the [ghost](/3-Mechanics/CLI/bestiary/undead/ghost.md) of a slain yuan-ti priest).
+> **Ghost**. Wandering through the ruin is a spectral woman wearing a soiled black gown and a featureless white mask (actually the [ghost](3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) of a slain yuan-ti priest).
 ^46a
 
 A yuan-ti pureblood priest named Yoastal was slain by the Ssethian Scourges and remains bound to the temple. Because she cannot leave, she tries to trick others into completing her unfinished business, knowing that she cannot rest until the Ssethian Scourges are dead.
 
 Yoastal can be both friend and foe to an adventuring party. The ghost claims to have once been a cleric of Mask, cursed to remain in Slitherswamp until the nagas are destroyed. She provides characters with the layout of the level in exchange for promises to free her. But her information is always slanted toward leading the characters into situations that might further escalate the war between the Ssethian Scourges and the Blacktongues.
 
-If Yoastal is destroyed while any of the nagas live, she re-forms in this ruined building in `dice:1d4|noform|noparens|avg` (`1d4`) days.
+If Yoastal is destroyed while any of the nagas live, she re-forms in this ruined building in `1d4` days.
 
 #### Black Statue
 
-Water trickling down from the ceiling falls onto this statue and drips off its daggers like poison. A character who succeeds on a DC 15 Intelligence (Religion) check recognizes the statue as a representation of the yuan-ti god Sseth.
+Water trickling down from the ceiling falls onto this statue and drips off its daggers like poison. A character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes the statue as a representation of the yuan-ti god Sseth.
 
-A character who searches through the mud around the statue and succeeds on a DC 15 Wisdom (Perception) check discovers a rotting sack and also digs up a hostile **[swarm of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md) (centipedes)**.
+A character who searches through the mud around the statue and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check discovers a rotting sack and also digs up a hostile **[swarm of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) (centipedes)**.
 
 ##### Treasure
 
@@ -191,15 +191,15 @@ The sack contains 550 gp.
 
 #### Green Statue
 
-A character who succeeds on a DC 15 Intelligence (Religion) check recognizes this statue as another representation of Sseth.
+A character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes this statue as another representation of Sseth.
 
 ### 10. Rainfall Caverns
 
-Water pours from the ceiling of these 20-foot-high caves like a heavy rain. Consequently, creatures in this area have disadvantage on Wisdom (Perception) checks that rely on sight or sound.
+Water pours from the ceiling of these 20-foot-high caves like a heavy rain. Consequently, creatures in this area have disadvantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight or sound.
 
 #### 10a. Venom Pool
 
-This cavern is flooded to a depth of 4 feet. The water glows green around an emerald that lies on the floor in the middle of the cavern. This gemstone has been blessed by Sseth, such that it turns the water around it to poison. Any creature that starts its turn in the water must make a DC 12 Constitution saving throw, taking `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) poison damage on a failed save, or half as much damage on a successful one. Water that leaves the cavern is no longer poisonous, and the water in the cavern ceases to be poisonous once the emerald is removed from it.
+This cavern is flooded to a depth of 4 feet. The water glows green around an emerald that lies on the floor in the middle of the cavern. This gemstone has been blessed by Sseth, such that it turns the water around it to poison. Any creature that starts its turn in the water must make a DC 12 Constitution saving throw, taking 11 (`2d10`) poison damage on a failed save, or half as much damage on a successful one. Water that leaves the cavern is no longer poisonous, and the water in the cavern ceases to be poisonous once the emerald is removed from it.
 
 ##### Treasure
 
@@ -209,7 +209,7 @@ The flawed emerald loses its magic if taken from the area and is worth 250 gp.
 
 In the middle of this cavern, a large stone rises above the 3-foot-deep water and magically emits a soft hissing sound. The natural pattern of the stone vaguely resembles a swarm of snakes.
 
-A character who touches the stone hears a sibilant whisper asking that individual to ask a question aloud. If the character does so, the voice answers as if the character had cast the augury spell. Once the stone is used in this way, it cannot be used again until the next dawn.
+A character who touches the stone hears a sibilant whisper asking that individual to ask a question aloud. If the character does so, the voice answers as if the character had cast the [augury](3-Mechanics/CLI/spells/augury-xphb.md) spell. Once the stone is used in this way, it cannot be used again until the next dawn.
 
 ### 11. Watch Post
 
@@ -221,11 +221,11 @@ This 20-foot-high cavern is flooded with muddy water to a depth of 3 feet. The d
 
 #### 11b. Watchers in the Dark
 
-Dry land rises gently out of the water to create a broad ledge dotted with 4-foot-high piles of loose rocks. Two [drow elite warriors](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md), a female named Dirzanna Freth and a male named Arachnafein Zaphrorzza, hide behind the rocks. These drow are under the effect of the spirit nagas' rod of rulership and move to the swamp's edge to attack intruders detected in area 11a. If enemies close to melee range, the drow switch to melee weapons.
+Dry land rises gently out of the water to create a broad ledge dotted with 4-foot-high piles of loose rocks. Two [drow elite warriors](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), a female named Dirzanna Freth and a male named Arachnafein Zaphrorzza, hide behind the rocks. These drow are under the effect of the spirit nagas' [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md) and move to the swamp's edge to attack intruders detected in area 11a. If enemies close to melee range, the drow switch to melee weapons.
 
-If one drow elite warrior falls in battle, the other tries to flee to area 13 and alert the creatures there. The drow have orders from the spirit nagas to capture intruders if possible, meaning that any character reduced to 0 hit points by a drow's melee weapon attack is knocked unconscious. Characters captured by the drow are brought before the nagas in area 15.
+If one drow elite warrior falls in battle, the other tries to flee to area 13 and alert the creatures there. The drow have orders from the spirit nagas to capture intruders if possible, meaning that any character reduced to 0 hit points by a drow's melee weapon attack is knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). Characters captured by the drow are brought before the nagas in area 15.
 
-If and when the charmed condition on them ends, Dirzanna and Arachnafein make their way to House Freth's base on level 12.
+If and when the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) condition on them ends, Dirzanna and Arachnafein make their way to House Freth's base on level 12.
 
 ### 12. Fishery
 
@@ -233,7 +233,7 @@ This small cave has a 10-foot-high ceiling and contains a 20-foot-deep pool with
 
 ### 13. Detention Cave
 
-A male [drow elite warrior](/3-Mechanics/CLI/bestiary/humanoid/drow-elite-warrior.md) named Xirk Dezpeti'il is chained to one of three sets of manacles that hang from the west wall. The nagas use the manacles to bind creatures that resist the magic of their rod of rulership.
+A male [drow elite warrior](3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) named Xirk Dezpeti'il is chained to one of three sets of manacles that hang from the west wall. The nagas use the manacles to bind creatures that resist the magic of their [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md).
 
 A sometime adventurer and unrepentant ne'er-do-well who pledges alliance to no one, Xirk is willing to trade information about the surrounding caves or the thralls' routine in exchange for freedom to return to the Underdark. If he is freed, he avoids combat and is not above stealing from his benefactors.
 
@@ -275,26 +275,26 @@ This cramped, steam-filled cave contains the following:
 
 > [!note] 
 > 
-> **Duergar Thrall**. Agorra Duskaxe, a female [duergar](/3-Mechanics/CLI/bestiary/humanoid/duergar.md), stands guard just inside the entrance.
+> **Duergar Thrall**. Agorra Duskaxe, a female [duergar](3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), stands guard just inside the entrance.
 > 
 > **Steamer**. Water dripping from a crack in the ceiling falls into a cylindrical metal contraption at the center of the cave, and steam billows out of it.
 > 
-> **Nagas**. Unless they have been drawn elsewhere, two [spirit nagas](/3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md) named Excrutha and Serakath lounge on the floor near the back of the cave (see "The Ssethian Scourges").
+> **Nagas**. Unless they have been drawn elsewhere, two [spirit nagas](3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) named Excrutha and Serakath lounge on the floor near the back of the cave (see "The Ssethian Scourges").
 > 
 > **Chest**. A wooden chest stands against the east wall.
 ^47e
 
-The nagas don't fear death, but they do fear the loss or theft of their rod of rulership and will do everything they can to safeguard it. A battle here attracts the thralls from areas 11b and 15f, assuming they're still around.
+The nagas don't fear death, but they do fear the loss or theft of their [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md) and will do everything they can to safeguard it. A battle here attracts the thralls from areas 11b and 15f, assuming they're still around.
 
-While Agorra is under the effect of the rod of rulership, she believes the nagas to be her allies and defends them to the death. She carries the key to the manacles in area 13.
+While Agorra is under the effect of the [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md), she believes the nagas to be her allies and defends them to the death. She carries the key to the manacles in area 13.
 
 The steamer consists of two iron chambers stacked on top of each other. Magical fire burns in the bottom chamber, heating water that pours into the top chamber through the crack in the ceiling. Small holes in the sides of the top chamber allow steam to vent into the cave, keeping it warm and moist.
 
 ##### Treasure
 
-One spirit naga has a rod of rulership coiled in its tail at all times. The rod's magic has been spent for the day and can't be called upon again until the next dawn.
+One spirit naga has a [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md) coiled in its tail at all times. The rod's magic has been spent for the day and can't be called upon again until the next dawn.
 
-The chest is unlocked and contains 500 pp, 330 gp, a silver necklace in the form of entwined serpents (250 gp), and a spell scroll of modify memory.
+The chest is unlocked and contains 500 pp, 330 gp, a silver necklace in the form of entwined serpents (250 gp), and a [spell scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [modify memory](3-Mechanics/CLI/spells/modify-memory-xphb.md).
 
 #### 15d. Unused Laboratory
 
@@ -306,7 +306,7 @@ A steady stream of water pours out from a crack in the wall of this alcove. The 
 
 #### 15f. Troll Guard Post
 
-Two [trolls](/3-Mechanics/CLI/bestiary/giant/troll.md) charmed by the nagas' rod of rulership are crammed in this alcove until they are drawn elsewhere.
+Two [trolls](3-Mechanics/CLI/bestiary/giant/troll-xmm.md) [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the nagas' [rod of rulership](3-Mechanics/CLI/items/rod-of-rulership-xdmg.md) are crammed in this alcove until they are drawn elsewhere.
 
 ### 16. Lair of the Bone Naga
 
@@ -314,10 +314,10 @@ Two [trolls](/3-Mechanics/CLI/bestiary/giant/troll.md) charmed by the nagas' rod
 > 
 > **Bones**. This 30-foot-high cave appears empty except for the bones of numerous creatures (humanoids and yuan-ti) visible beneath the water.
 > 
-> **Hexacali**. Lurking amid the bones is a bone naga (formerly a spirit naga named Hexacali).
+> **Hexacali**. Lurking amid the bones is a [bone naga](3-Mechanics/CLI/bestiary/undead/bone-naga-xmm.md) (formerly a spirit naga named Hexacali).
 ^484
 
-The bone naga tries to slay any living creature that enters its domain. Creatures moving through this area must succeed on a DC 15 Wisdom (Perception) check or be surprised when the bone naga attacks.
+The bone naga tries to slay any living creature that enters its domain. Creatures moving through this area must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check or be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised) when the bone naga attacks.
 
 ### 17. Battlefield Cavern
 
@@ -331,9 +331,9 @@ The water here is 2 feet deep, and the cavern floor beneath it is littered with 
 
 The phantasmal scene of a spirit naga battling four yuan-ti purebloods plays out for characters who set foot on this island. As characters view the scene, they find themselves literally being drawn into it.
 
-Each character drawn into the scene temporarily becomes one of the yuan-ti fighting the wounded Hexacali. The character gains the statistics of a [yuan-ti pureblood](/3-Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md) with `dice:2d20|noform|noparens|avg` (`2d20`) hit points remaining.
+Each character drawn into the scene temporarily becomes one of the yuan-ti fighting the wounded Hexacali. The character gains the statistics of a [yuan-ti pureblood](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-infiltrator-xmm.md) with `2d20` hit points remaining.
 
-Hexacali, a [spirit naga](/3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md) with 35 hit points, is trapped on the island and fights yuan-ti characters to the death. Yuan-ti characters who drop to 0 hit points during this fight immediately come to their senses and take `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) psychic damage from the shock of their illusory demise. Unlike any damage sustained in the battle, this psychic damage is real. A character free of the vision can free another character from it by using an action to shake or slap them.
+Hexacali, a [spirit naga](3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) with 35 hit points, is trapped on the island and fights yuan-ti characters to the death. Yuan-ti characters who drop to 0 hit points during this fight immediately come to their senses and take 22 (`4d10`) psychic damage from the shock of their illusory demise. Unlike any damage sustained in the battle, this psychic damage is real. A character free of the vision can free another character from it by using an action to shake or slap them.
 
 If the characters defeat Hexacali, their last collective memory is of pinning the naga down to be slain and raised as a bone naga. The vision then ends for all characters and can't take hold of them again.
 
@@ -343,7 +343,7 @@ A wedge of dry land rises from the water to become the floor of a 15-foot-high c
 
 The mirror is framed by an assemblage of hundreds of tiny interlocking stone gears. This mirror reflects normally and is one of Halaster's gates (see "Gates"). Its frame is composed of an assemblage of hundreds of tiny, interlocking stone gears. This gate's rules are as follows:
 
-- Any creature that inspects the frame and succeeds on a DC 15 Wisdom (Perception) check sees that one of the gears has popped out slightly. If it is pressed, the gear locks in place, causing all the gears to turn and the gate to open for 1 minute. When the gate closes, a different random gear pops out slightly, causing all the gears to lock again.  
+- Any creature that inspects the frame and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check sees that one of the gears has popped out slightly. If it is pressed, the gear locks in place, causing all the gears to turn and the gate to open for 1 minute. When the gate closes, a different random gear pops out slightly, causing all the gears to lock again.  
 - Characters must be 11th level or higher to pass through this gate (see "Jhesiyra Kestellharp"). The first creature to pass through the gate triggers an elder rune (see "Elder Runes").  
 - A creature that passes through the gate appears in area 25b on level 10, in the closest unoccupied space next to the identical gate located there.  
 
@@ -353,9 +353,9 @@ These 10-foot-high side caverns feature a standing gate that grants access to le
 
 #### 18a. Trapped Approach
 
-An old yuan-ti trap meant to prevent approach to the gate still functions in this area. A pressure plate under the water and mud extends the full width of the cavern entrance. A character searching the cavern for traps who succeeds on a DC 20 Wisdom (Perception) check spots the pressure plate. The trap triggers whenever a weight of 50 pounds or more is placed on the pressure plate. Darts fire from holes in the walls against the creature that triggered the trap, making a ranged weapon attack (+7 to hit) that deals `dice:4d4|noform|noparens|avg|text(10)` (`4d4`) piercing damage. The trap resets each round.
+An old yuan-ti trap meant to prevent approach to the gate still functions in this area. A pressure plate under the water and mud extends the full width of the cavern entrance. A character searching the cavern for traps who succeeds on a DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check spots the pressure plate. The trap triggers whenever a weight of 50 pounds or more is placed on the pressure plate. Darts fire from holes in the walls against the creature that triggered the trap, making a ranged weapon attack (`+7` to hit) that deals 10 (`4d4`) piercing damage. The trap resets each round.
 
-A search of the walls and a successful DC 20 Wisdom (Perception) check is sufficient to spot small holes in the serpent carvings. The characters can spend 1 minute to plug the holes, which prevents the trap from attacking. The pressure plate can be disabled with a successful DC 15 Dexterity check using thieves' tools.
+A search of the walls and a successful DC 20 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check is sufficient to spot small holes in the serpent carvings. The characters can spend 1 minute to plug the holes, which prevents the trap from attacking. The pressure plate can be disabled with a successful DC 15 Dexterity check using thieves' tools.
 
 #### 18b. Standing Gate to Level 11
 
@@ -367,11 +367,11 @@ Two pillars with giant stone snakes wrapped around them rise from the muck. Chis
 
 ### 19. Yuan-ti Temple
 
-The roof of this cavern soars to a height of 80 feet, and the muddy water throughout is 2 feet deep. Dominating the cavern is a ruined yuan-ti temple filled with statues depicting the same winged serpent with its fanged mouth open. A character who succeeds on a DC 15 Intelligence (Religion) check recognizes the statues as depictions of Sseth, a yuan-ti deity. Flickering torches on the sides of the temple illuminate the structure.
+The roof of this cavern soars to a height of 80 feet, and the muddy water throughout is 2 feet deep. Dominating the cavern is a ruined yuan-ti temple filled with statues depicting the same winged serpent with its fanged mouth open. A character who succeeds on a DC 15 Intelligence ([Religion](3-Mechanics/CLI/rules/skills.md#Religion)) check recognizes the statues as depictions of Sseth, a yuan-ti deity. Flickering torches on the sides of the temple illuminate the structure.
 
 #### 19a. Amphibious Guards
 
-Eight [bullywugs](/3-Mechanics/CLI/bestiary/humanoid/bullywug.md) and three [giant frogs](/3-Mechanics/CLI/bestiary/beast/giant-frog.md) stand guard in the water outside the temple. The bullywugs try to paralyze intruders using their spears, the tips of which are coated with carrion crawler mucus. Characters paralyzed by the bullywugs' spears or swallowed by the giant frogs are brought to area 19d and held there until Kuketh can be summoned from area 20 to devour them.
+Eight [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) and three [giant frogs](3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md) stand guard in the water outside the temple. The bullywugs try to paralyze intruders using their spears, the tips of which are coated with carrion crawler mucus. Characters [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) by the bullywugs' spears or swallowed by the giant frogs are brought to area 19d and held there until Kuketh can be summoned from area 20 to devour them.
 
 #### 19b. Narthex
 
@@ -387,20 +387,20 @@ Decorative columns carved to look like intertwined snakes line the chamber's wal
 > 
 > **Ceiling Fresco**. This chamber has a vaulted ceiling 30 feet high. A fresco on the ceiling has mostly crumbled away, but the portions that remain suggest serpentine images that were probably quite fearsome.
 > 
-> **Statues**. Four statues of winged serpents stand to the north, two in the water and two above the waterline. ([Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md), a bullywug assassin, hides behind the partially submerged statue in the northwest corner.)
+> **Statues**. Four statues of winged serpents stand to the north, two in the water and two above the waterline. ([Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md), a bullywug assassin, hides behind the partially submerged statue in the northwest corner.)
 > 
 > **Platform**. Between the two middle statues, a mostly submerged ramp rises to the top of a dry platform, at the back of which is a closed door that opens into area 19d.
 ^490
 
-[Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) might have become king of the Blacktongues if not for his devotion to Kuketh. He jealously protects the temple that is his master's seat of power, killing any who enter without permission. [Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) is an [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md), with these changes:
+[Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) might have become king of the Blacktongues if not for his devotion to Kuketh. He jealously protects the temple that is his master's seat of power, killing any who enter without permission. [Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) is an [assassin](3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md), with these changes:
 
-- [Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) is chaotic evil.  
-- He has these racial traits: He can breathe air and water. He speaks Bullywug, and can speak with frogs and toads. He has a walking speed of 20 feet and a swimming speed of 40 feet. His long jump is up to 20 feet and his high jump is up to 10 feet, with or without a running start. He has advantage on Dexterity (Stealth) checks made to hide in swampy terrain.  
-- In addition to his weapons, [Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) carries one piece of a shattered jade staff (see "Treasure" below).  
+- [Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) is chaotic evil.  
+- He has these racial traits: He can breathe air and water. He speaks Bullywug, and can speak with frogs and toads. He has a walking speed of 20 feet and a swimming speed of 40 feet. His long jump is up to 20 feet and his high jump is up to 10 feet, with or without a running start. He has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in swampy terrain.  
+- In addition to his weapons, [Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) carries one piece of a shattered jade staff (see "Treasure" below).  
 
 ##### Treasure
 
-The foot-long piece of jade that [Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) carries was found in the muck. He doesn't realize that it's a fragment of a jade staff crafted by ancient yuan-ti that was discarded in Undermountain by Halaster years before. See area 39b on level 6 for more information on this yuan-ti device and how it can be reassembled. By itself, the jade fragment is worth 100 gp.
+The foot-long piece of jade that [Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) carries was found in the muck. He doesn't realize that it's a fragment of a jade staff crafted by ancient yuan-ti that was discarded in Undermountain by Halaster years before. See area 39b on level 6 for more information on this yuan-ti device and how it can be reassembled. By itself, the jade fragment is worth 100 gp.
 
 #### 19d. Apse
 
@@ -413,11 +413,11 @@ This 30-foot-high chapel has the following features:
 > **Altar**. A stone altar in the center of the room bears carvings of serpents.
 ^493
 
-Any character who inspects the altar and succeeds on a DC 15 Wisdom (Perception) check notices that one of the altar's carvings has a button carved to look like a serpent's eye. If this button is pressed, a secret compartment on the north side of the altar opens. Inside this compartment is a slender red taper (see "Treasure" below). Kuketh and the bullywugs are unaware of the altar's hidden compartment and the treasure within.
+Any character who inspects the altar and succeeds on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check notices that one of the altar's carvings has a button carved to look like a serpent's eye. If this button is pressed, a secret compartment on the north side of the altar opens. Inside this compartment is a slender red taper (see "Treasure" below). Kuketh and the bullywugs are unaware of the altar's hidden compartment and the treasure within.
 
 ##### Treasure
 
-The red taper is a candle of invocation dedicated to Sseth, the neutral evil yuan-ti god. If the candle is removed from the altar by a creature that is not a yuan-ti, green mist billows up through cracks in the floor and coalesces into two [yuan-ti abominations](/3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md). These temple guardians attack any creature that is not a yuan-ti. When reduced to 0 hit points, they revert to clouds of green mist and disappear without a trace.
+The red taper is a [candle of invocation](3-Mechanics/CLI/items/candle-of-invocation-xdmg.md) dedicated to Sseth, the neutral evil yuan-ti god. If the candle is removed from the altar by a creature that is not a yuan-ti, green mist billows up through cracks in the floor and coalesces into two [yuan-ti abominations](3-Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm.md). These temple guardians attack any creature that is not a yuan-ti. When reduced to 0 hit points, they revert to clouds of green mist and disappear without a trace.
 
 If the yuan-ti abominations are not killed, they rid the temple of enemies and turn it into their lair.
 
@@ -427,7 +427,7 @@ If the yuan-ti abominations are not killed, they rid the temple of enemies and t
 > 
 > **Deep Water**. The ground falls away at all entrances to this 30-foot-high cavern, whose water is 30 feet deep.
 > 
-> **Island Village**. A dozen crude shacks sit atop a muddy, horseshoe-shaped island. Twenty-five [bullywugs](/3-Mechanics/CLI/bestiary/humanoid/bullywug.md) and six [giant frogs](/3-Mechanics/CLI/bestiary/beast/giant-frog.md) slip in and out of the shacks.
+> **Island Village**. A dozen crude shacks sit atop a muddy, horseshoe-shaped island. Twenty-five [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) and six [giant frogs](3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md) slip in and out of the shacks.
 > 
 > **Bonfire**. A bonfire burns at the northern tip of the island, giving off pungent smoke. (The bullywugs keep it burning with a mixture of dried offal and fungus.)
 ^496
@@ -442,7 +442,7 @@ Unless he has been summoned to area 19, the unhappy king of the Blacktongues is 
 
 #### 21a. Hydra Den
 
-This cave has a 20-foot-high ceiling and is filled with water to a depth of 30 feet. Lurking in the muddy water at the bottom of the cave is a trained [hydra](/3-Mechanics/CLI/bestiary/monstrosity/hydra.md). The hydra refrains from announcing its presence or attacking until such time as Kuketh orders it to rise and kill something.
+This cave has a 20-foot-high ceiling and is filled with water to a depth of 30 feet. Lurking in the muddy water at the bottom of the cave is a trained [hydra](3-Mechanics/CLI/bestiary/monstrosity/hydra-xmm.md). The hydra refrains from announcing its presence or attacking until such time as Kuketh orders it to rise and kill something.
 
 #### 21b. Kuketh's Lair
 
@@ -450,7 +450,7 @@ This cave has a 20-foot-high ceiling and is filled with water to a depth of 30 f
 > 
 > **Ledge**. A dry ledge 5 feet above the water line is strewn with bones, some with flesh still attached.
 > 
-> **Kuketh's Bed**. The eastern end of the ledge contains a pile of moldering hay and the rotting body of a giant toad. Unless it has been drawn elsewhere, Kuketh the [death slaad](/3-Mechanics/CLI/bestiary/aberration/death-slaad.md) lounges on the hay in bullywug form.
+> **Kuketh's Bed**. The eastern end of the ledge contains a pile of moldering hay and the rotting body of a giant toad. Unless it has been drawn elsewhere, Kuketh the [death slaad](3-Mechanics/CLI/bestiary/aberration/death-slaad-xmm.md) lounges on the hay in bullywug form.
 ^49a
 
 When not bossing around its subjects, Kuketh quietly ruminates on its troubles. The slaad communicates with strangers using telepathy and is willing to negotiate with characters who claim to be enemies of the Ssethian Scourges. A mercurial creature, Kuketh doesn't honor agreements for very long. Its only consistent desire is to escape from Undermountain and return to the Outer Plane of Limbo.
@@ -461,7 +461,7 @@ This cave is hidden behind a secret door.
 
 ##### Treasure
 
-The vault holds treasure collected by the bullywugs, including 56 pp, 2,417 gp, 540 sp, a platinum holy symbol of Sseth (a flying snake with bared fangs) worth 150 gp, and a headband of intellect.
+The vault holds treasure collected by the bullywugs, including 56 pp, 2,417 gp, 540 sp, a platinum holy symbol of Sseth (a flying snake with bared fangs) worth 150 gp, and a [headband of intellect](3-Mechanics/CLI/items/headband-of-intellect-xdmg.md).
 
 ### 22. Stables
 
@@ -469,7 +469,7 @@ The Blacktongue bullywugs raise "livestock" in this 20-foot-high, torch-lit cave
 
 #### 22a. Giant Frogs
 
-Six [giant frogs](/3-Mechanics/CLI/bestiary/beast/giant-frog.md) hop through shallow water in this cavern, croaking loudly while four [bullywugs](/3-Mechanics/CLI/bestiary/humanoid/bullywug.md) dump food (mostly vermin) into a trough along the northwest wall.
+Six [giant frogs](3-Mechanics/CLI/bestiary/beast/giant-frog-xmm.md) hop through shallow water in this cavern, croaking loudly while four [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) dump food (mostly vermin) into a trough along the northwest wall.
 
 #### 22b. Carrion Crawlers
 
@@ -477,7 +477,7 @@ This raised dry area contains the following:
 
 > [!note] 
 > 
-> **Wooden Pen**. A pen made of wooden slats confines four [carrion crawlers](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler.md) to the northeast. Three carrion crawler eggs are inside the pen.
+> **Wooden Pen**. A pen made of wooden slats confines four [carrion crawlers](3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) to the northeast. Three carrion crawler eggs are inside the pen.
 > 
 > **Tools**. Several buckets and long-handled tools for wrangling the carrion crawlers stand near the gate to the pen.
 ^4a0
@@ -492,17 +492,17 @@ Wood scraps gathered from throughout the level have been used to fence off this 
 > 
 > **Muck**. This 20-foot-high cave is filled with muck to a depth of 1 foot.
 > 
-> **Bullywug Shacks**. Two hovels made of stones and mud are lit by tall torches. Four [bullywugs](/3-Mechanics/CLI/bestiary/humanoid/bullywug.md) are mending tools near the shacks while two [giant toads](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) look on.
+> **Bullywug Shacks**. Two hovels made of stones and mud are lit by tall torches. Four [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) are mending tools near the shacks while two [giant toads](3-Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) look on.
 ^4a2
 
 ### 24. Kelp Farm
 
-Five [bullywugs](/3-Mechanics/CLI/bestiary/humanoid/bullywug.md) work kelp beds in the 6-foot-deep water of this 30-foot-high cave, while a [giant toad](/3-Mechanics/CLI/bestiary/beast/giant-toad.md) swims nearby. The kelp is a staple of the bullywugs' diet and glows with a faint green light. The light fades 10 minutes after the plant is harvested.
+Five [bullywugs](3-Mechanics/CLI/bestiary/fey/bullywug-warrior-xmm.md) work kelp beds in the 6-foot-deep water of this 30-foot-high cave, while a [giant toad](3-Mechanics/CLI/bestiary/beast/giant-toad-xmm.md) swims nearby. The kelp is a staple of the bullywugs' diet and glows with a faint green light. The light fades 10 minutes after the plant is harvested.
 
 If they are threatened, the bullywugs order the giant toad to attack and call for help from areas 2 and 23.
 
 ## Aftermath
 
-If the characters help Kuketh destroy or reclaim its control gem, the death slaad abandons the bullywugs. If [Torbit](/3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) is alive, he becomes the ruler of the Blacktongue tribe after Kuketh departs or is killed. It's only a matter of time, however, before the Ssethian Scourges seize him, make him one of their thralls, and take control of the bullywug tribe. If all the Blacktongue bullywugs are defeated, the temple becomes a safe place for the characters to rest (assuming the yuan-ti abominations in area 19d haven't taken over the place).
+If the characters help Kuketh destroy or reclaim its control gem, the death slaad abandons the bullywugs. If [Torbit](3-Mechanics/CLI/bestiary/npc/torbit-wdmm.md) is alive, he becomes the ruler of the Blacktongue tribe after Kuketh departs or is killed. It's only a matter of time, however, before the Ssethian Scourges seize him, make him one of their thralls, and take control of the bullywug tribe. If all the Blacktongue bullywugs are defeated, the temple becomes a safe place for the characters to rest (assuming the yuan-ti abominations in area 19d haven't taken over the place).
 
-Killing the Ssethian Scourges frees Yoastal from her curse and allows the Blacktongues to overrun the nagas' caves. Karstis and the mages of Dweomercore might be there already, though, wanting to hold those caverns. Such gains are short-lived, because the spirit nagas' Rejuvenation trait ensures their return in `dice:1d6|noform|noparens|avg` (`1d6`) days.
+Killing the Ssethian Scourges frees Yoastal from her curse and allows the Blacktongues to overrun the nagas' caves. Karstis and the mages of Dweomercore might be there already, though, wanting to hold those caverns. Such gains are short-lived, because the spirit nagas' Rejuvenation trait ensures their return in `1d6` days.

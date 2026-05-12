@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Jackalwere
+- "Jackalwere"
 ---
-# [Jackalwere](3-Mechanics\CLI\bestiary\humanoid/jackalwere.md)
+# [Jackalwere](3-Mechanics/CLI/bestiary/humanoid/jackalwere.md)
 *Source: Monster Manual p. 193*  
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
@@ -29,7 +29,7 @@ A jackalwere prefers to fight alongside jackals and others of its kind. Under th
 
 ## Supernatural Servants
 
-Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious), allowing the monster to bind a creature or drag it away.
+Jackalweres kidnap humanoids for their lamia masters, condemning victims to a lifetime of slavery or an agonizing death. A jackalwere's magical gaze renders a foe [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious), allowing the monster to bind a creature or drag it away.
 
 A jackalwere might also use its gaze to incapacitate a deadly enemy long enough to make good its escape.
 
@@ -52,14 +52,16 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
 "senses": "passive Perception 12"
 "languages": "Common (can't speak in jackal form)"
 "cr": "1/2"
@@ -70,31 +72,31 @@ A jackalwere might also use its gaze to incapacitate a deadly enemy long enough 
       \ equipment it is wearing or carrying isn't transformed. It reverts to its true\
       \ form if it dies."
     "name": "Shapechanger"
-  - "desc": "The jackalwere has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The jackalwere has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
   - "desc": "The jackalwere has advantage on an attack roll against a creature if\
       \ at least one of the jackalwere's allies is within 5 feet of the creature and\
-      \ the ally isn't [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)."
+      \ the ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Bite (Jackal or Hybrid Form Only)"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Scimitar (Human or Hybrid Form Only)"
   - "desc": "The jackalwere gazes at one creature it can see within 30 feet of it.\
       \ The target must make a DC 10 Wisdom saving throw. On a failed save, the target\
-      \ succumbs to a magical slumber, falling [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ succumbs to a magical slumber, falling [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 10 minutes or until someone uses an action to shake the target awake.\
       \ A creature that successfully saves against the effect is immune to this jackalwere's\
-      \ gaze for the next 24 hours. Undead and creatures immune to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ gaze for the next 24 hours. Undead and creatures immune to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ aren't affected by it."
     "name": "Sleep Gaze"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/jackalwere.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/jackalwere.webp"
 ```
 ^statblock
 

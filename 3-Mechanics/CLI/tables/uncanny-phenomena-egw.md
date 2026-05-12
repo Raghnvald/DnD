@@ -5,12 +5,10 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Uncanny Phenomena
+- "Uncanny Phenomena"
 ---
 # Uncanny Phenomena
 *Source: Explorer's Guide to Wildemount p. 151* 
-
-`dice: [](uncanny-phenomena-egw.md#^phenomenon)`
 
 | dice: d10 | Phenomenon |
 |-----------|------------|
@@ -20,8 +18,8 @@ aliases:
 | 4 | Nonmagical fire can't burn here. |
 | 5 | Sources of light here appear kaleidoscopic. Empty air refracts light in this area, creating dazzling displays of prismatic colors. |
 | 6 | Any character who sleeps here dreams of a different life on a different world in a different body. |
-| 7 | There is no sound here. This area is permanently under the effects of the [silence](/3-Mechanics/CLI/spells/silence-xphb.md) spell. |
+| 7 | There is no sound here. This area is permanently under the effects of the silence spell. |
 | 8 | This place is supernaturally unlucky. Attack rolls, ability checks, and saving throws cannot be rerolled in this area. |
-| 9 | Water turns to acid here. Water introduced to this area becomes acid in `dice:1d4\|noform\|noparens\|avg` (`1d4`) days. |
+| 9 | Water turns to acid here. Water introduced to this area becomes acid in `1d4` days. |
 | 10 | This place is haunted by fragments of the Far Realm. Whenever the target of a Wisdom saving throw fails its save, that creature has a 5 percent chance of becoming afflicted by a random form of long-term madness (see ""Madness"" in chapter 8 of the "Dungeon Master's Guide"). |
 ^phenomenon

@@ -1,7 +1,7 @@
 ---
 statblock: inline
 statblock-link: "#^statblock"
-Bezeichnung: Alustriel Silverhand
+Bezeichnung: Alustriel Silberhand
 tags:
   - Monster/Größe/Mittelgroß
   - Monster/HG/21
@@ -12,26 +12,26 @@ aliases:
   - Alustriel Silverhand
 linter-yaml-title-alias: Alustriel Silverhand
 ---
-# [Alustriel Silverhand](3-Mechanics\CLI\bestiary\npc/alustriel-silverhand-veor.md)
-*Source: Vecna: Eve of Ruin p. 242*  
+# Alustriel Silberhand
+*Quelle: Vecna: Vorabend der Verdammnis S. 241*  
 
-Lady Alustriel Silverhand, called the Shining Lady, has been an influential wizard and proponent of good across Toril for centuries. Alustriel is one of the Seven Sisters—immortal daughters of Mystra, the god of magic. The divine energy Mystra passed to Alustriel grants Alustriel incredible power over arcane magic.
+Alustriel Silberhand, die Strahlende Dame, ist schon seit Jahrhunderten eine einflussreiche Magiern und Verfechterin des Guten auf der Welt Toril. Sie ist eine der Sieben Schwestern - unsterbliche Töchter von Mystra, Göttin der Magie. Deren göttliche Energie trägt Alustriel in sich, was ihr erhebliche Macht über arkane Magie gewährt. 
 
-Alustriel's youthful appearance as a human woman with silver hair gives no hint of her supernaturally extended life span. She typically wears long robes and wields a unicorn-headed staff, her *Staff of Silverymoon*.
+Ihr jugendliches Erscheinungsbild als menschliche Frau mit silbernem Haar lässt in keiner Weise auf ihre übernatürlich lange Lebensspanne schließen. Meist trägt Alustriel lange Roben und führt einen Stab mit Einhornkopf - ihren _Stab von Silbrigmond_. 
 
-## Personality
+## Persönlichkeit 
 
-Alustriel's primary concerns are to spread kindness, reward virtue, and promote a culture of compassion throughout the multiverse. She is good at building alliances and quick to intervene when she senses a threat to the forces of good. She has traveled far and established safe houses across the planes—such as her sanctum in the city of Sigil. Alustriel doesn't seek personal glory or wealth; her style of influencing the cosmos is quiet yet steady.
+Alustriel möchte Freundlichkeit verbreiten, Tugend belohnen und im ganzen Multiversum eine Kultur des Mitgefühls etablieren. Sie ist gut darin, Allianzen zu schmieden und Bedrohungen der Kräfte des Guten zu eliminieren. Alustriel ist weit gereist und hat in allen Ebenen sichere Zufluchten geschaffen - zum Beispiel ihr Heiligtum in der Stadt Sigil. Persönlicher Ruhm und Reichtum interessieren sie nicht. Sie beeinflusst das Multiversum ruhig, aber stetig. 
 
-## History
+## Geschichte
 
-Like other Chosen of Mystra, Alustriel is concerned with preserving the Weave, the primary incarnation of magic that permeates Toril. She believes that the Weave favors those who act with mercy and compassion, seeks to deliver lives of security for all, and bolsters people's efforts when they seek to right wrongs and combat evil.
+Wie andere Erwählte von Mystra ist auch Alustriel bestrebt, das Gewebe zu bewahren, die primäre Inkarnation der Magie, die Tori! durchdringt. Sie glaubt, dass das Gewebe jene begünstigt, die mit Gnade und Mitgefühl handeln und ein sicheres Leben für alle schaffen wollen, und dass es alle Anstrengungen stärkt, Unrecht zu beseitigen und das Böse zu bekämpfen. 
 
-Nowhere are Alustriel and her deeds better known than in the Silver Marches and its capital, Silverymoon. Alustriel ruled Silverymoon for centuries, once disguised as a wizard named Elué Dualen and then later in her true form. She helped create Silverymoon's famous Moonbridge and co-founded the Lady's College, the first school in Faerûn for mages as students rather than as apprentices in service.
+Nirgends sind Alustriel und ihre Taten besser bekannt als in den Silbermarschen und deren Hauptstadt Silbrigmond. Alustriel regiert seitJahrhunderten in Silbrigmond, einst getarnt als Magierin Elue Dualen, später in ihrer wahren Gestalt. Sie hat geholfen, Silbrigmonds berühmte Mondbrücke zu errichten, und hat die Schule der Herrin mitgegründet - die erste Schule Faeruns, an der Magier nicht als Lehrlinge, sondern als Studenten unterrichtet wurden. 
 
-Alustriel stepped down as Silverymoon's high mage more than a century ago. Her son, Methrammar Aerasumé, now leads the city and works to uphold his mother's legacy.
+Alustriel ist vor über hundert Jahren von ihrem Amt als Hochmagierin Silbrigmonds zurückgetreten. Heute regiert ihr Sohn Methrammar Aerasume die Stadt und führt das Erbe seiner Mutter fort. 
 
-Alustriel has partaken in countless adventures before and after her tenure as Silverymoon's high mage. She has befriended famous adventurers such as Drizzt Do'Urden, worked with prominent organizations like the Harpers, and helped prevent or undo many kinds of evil.
+Alustriel hat vor und nach ihrer Amtszeit als Silbrigmonds Hochmagierin zahllose Abenteuer bestanden. Sie ist mit berühmten Abenteurern wie Drizzt Do'Urden befreundet, hat mit bekannten Organisationen wie den Harfnern zusammengearbeitet und dem Bösen schon oft einen Strich durch die Rechnung gemacht. 
 
 ```statblock
 "name": "Alustriel Silverhand (VEoR)"

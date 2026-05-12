@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Panopticus Wizard
+- "Panopticus Wizard"
 ---
-# [Panopticus Wizard](3-Mechanics\CLI\bestiary\humanoid/panopticus-wizard-wdh.md)
+# [Panopticus Wizard](3-Mechanics/CLI/bestiary/humanoid/panopticus-wizard-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 106*  
 
 This bald-headed and tattooed dwarf operates Xanathar's "panopticus" magical surveillance system.
@@ -38,30 +38,34 @@ Apprentice wizards are novice arcane spellcasters who serve more experienced wiz
   - !!int "11"
 "speed": "25 ft."
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+4"
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+4"
 "damage_resistances": "poison"
+"gear":
+  - "[dagger](3-Mechanics/CLI/items/dagger-xphb.md)"
 "senses": "passive Perception 10"
 "languages": "Common, Dwarvish"
 "cr": "1/4"
 "traits":
   - "desc": "The Dwarf is a 1st-level spellcaster. Its spellcasting ability is Intelligence.\
-      \ It has the following wizard spells prepared:\n\n**Cantrips (at will):** fire\
-      \ bolt, mending, prestidigitation\n\n**1st level (2 slots):** burning hands,\
-      \ disguise self, shield"
+      \ It has the following wizard spells prepared:\n\n**Cantrips (at will):** [fire\
+      \ bolt](3-Mechanics/CLI/spells/fire-bolt-xphb.md), [mending](3-Mechanics/CLI/spells/mending-xphb.md),\
+      \ [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1st\
+      \ level (2 slots):** [burning hands](3-Mechanics/CLI/spells/burning-hands-xphb.md),\
+      \ [disguise self](3-Mechanics/CLI/spells/disguise-self-xphb.md), [shield](3-Mechanics/CLI/spells/shield-xphb.md)"
     "name": "Spellcasting"
   - "desc": "The dwarf has advantage on saving throws against poison and resistance\
       \ to poison damage."
     "name": "Dwarven Resilience"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ piercing damage. Or Ranged Weapon Attack: +2 to hit, range 20/60 ft., one\
-      \ target. *Hit:* 2 (1d4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) piercing damage. Or Ranged Weapon Attack: +2 to hit, range 20/60\
+      \ ft., one target. *Hit:* 2 (1d4) piercing damage."
     "name": "Dagger"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/panopticus-wizard-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/panopticus-wizard-wdh.webp"
 ```
 ^statblock

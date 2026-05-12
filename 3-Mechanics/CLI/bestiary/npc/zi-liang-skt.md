@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/
-- new/monster/size/medium
-- new/monster/type/humanoid/shou-human
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/shou-human
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zi Liang
+- "Zi Liang"
 ---
-# [Zi Liang](3-Mechanics\CLI\bestiary\npc/zi-liang-skt.md)
+# [Zi Liang](3-Mechanics/CLI/bestiary/npc/zi-liang-skt.md)
 *Source: Storm King's Thunder p. 251*  
 
 Zi Liang is a devout worshiper of Chauntea, the Earth Mother. She has considerably less faith in Goldenfields' defenders, so she patrols the temple-farm during her off-duty hours.
@@ -42,14 +42,17 @@ Flaw:"I don't trust authority. I do what my heart says is right."
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Acrobatics"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+4"
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+3"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
+"gear":
+  - "[quarterstaff](3-Mechanics/CLI/items/quarterstaff-xphb.md)"
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common, Elvish, Goblin"
 "traits":
@@ -67,15 +70,15 @@ Flaw:"I don't trust authority. I do what my heart says is right."
 "actions":
   - "desc": "Zi makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with both\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used\
+      \ with both hands."
     "name": "Quarterstaff"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) bludgeoning damage. Zi carries twenty sling stones."
     "name": "Sling"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zi-liang-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zi-liang-skt.webp"
 ```
 ^statblock

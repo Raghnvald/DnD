@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Duergar Despot
+- "Duergar Despot"
 ---
-# [Duergar Despot](3-Mechanics\CLI\bestiary\humanoid/duergar-despot-mpmm.md)
+# [Duergar Despot](3-Mechanics/CLI/bestiary/humanoid/duergar-despot-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 107, Mordenkainen's Tome of Foes p. 188*  
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
@@ -62,11 +62,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
   - "constitution": !!int "8"
   - "wisdom": !!int "6"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Dwarvish, Undercommon"
 "cr": "12"
 "traits":
@@ -74,26 +74,26 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
       \ effects."
     "name": "Magic Resistance"
   - "desc": "When the duergar suffers a critical hit or is reduced to 0 hit points,\
-      \ psychic energy erupts from its frame to deal 14 (4d6) psychic damage to each\
-      \ creature within 5 feet of it."
+      \ psychic energy erupts from its frame to deal 14 (4d6) psychic damage to\
+      \ each creature within 5 feet of it."
     "name": "Psychic Engine"
   - "desc": "While in sunlight, the duergar has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The duergar makes two Iron Fist attacks and two Stomping Foot attacks.\
       \ After one of the attacks, the duergar can move up to its speed without provoking\
-      \ [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack). It\
-      \ can replace one of the attacks with a use of Flame Jet."
+      \ [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack).\
+      \ It can replace one of the attacks with a use of Flame Jet."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (4d8 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
       \ it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet\
-      \ away in a straight line and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+      \ away in a straight line and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Iron Fist"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a [prone](/3-Mechanics/CLI/conditions.md#Prone)\
+      \ (1d10 + 5) bludgeoning damage, or 21 (3d10 + 5) to a [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
       \ target."
     "name": "Stomping Foot"
   - "desc": "The duergar spews flames in a line 100 feet long and 5 feet wide. Each\
@@ -102,14 +102,13 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
     "name": "Flame Jet"
   - "desc": "The duergar casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 12):\n\n\
-      **At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [minor\
-      \ illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day:** [stinking\
-      \ cloud](/3-Mechanics/CLI/spells/stinking-cloud-xphb.md)"
+      **At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\
+      \n**1/day:** [stinking cloud](3-Mechanics/CLI/spells/stinking-cloud.md)"
     "name": "Spellcasting (Psionics)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/duergar-despot-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/duergar-despot-mpmm.webp"
 ```
 ^statblock
 

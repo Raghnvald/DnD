@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Extinction or Depletion
+- "Extinction or Depletion"
 ---
 # Extinction or Depletion
 *Source: Dungeon Master's Guide p. 30* 
 
 **Extinction or Depletion**
-
-`dice: [](extinction-or-depletion.md#^extinction-or-depletion)`
 
 | dice: d8 | Lost Resource |
 |----------|---------------|

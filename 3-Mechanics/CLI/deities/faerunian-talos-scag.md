@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/scag
 - ttrpg-cli/deity/faerunian
 - ttrpg-cli/domain/tempest
-aliases: 
-- Talos
-- Stormlord
-- The Destroyer
+aliases:
+- "Talos"
+- "Stormlord"
+- "The Destroyer"
 ---
 # Talos
 *Source: Sword Coast Adventurer's Guide p. 21* 
-![](/3-Mechanics/CLI/deities/img/scag-symbol-of-talos.webp#symbol)
+![](3-Mechanics/CLI/deities/img/scag-symbol-of-talos.webp#symbol)
 
 - **Alternate Names**: Stormlord, The Destroyer
 - **Alignment**: Chaotic Evil

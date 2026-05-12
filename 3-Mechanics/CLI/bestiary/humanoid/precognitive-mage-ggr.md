@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Precognitive Mage
+- "Precognitive Mage"
 ---
-# [Precognitive Mage](3-Mechanics\CLI\bestiary\humanoid/precognitive-mage-ggr.md)
+# [Precognitive Mage](3-Mechanics/CLI/bestiary/humanoid/precognitive-mage-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 228*  
 
 Precognitive mages, a rarity among Azorius spellcasters, are capable of capturing glimpses of the future. They are typically employed to anticipate the actions of wanted criminals, thus aiding in their capture.
@@ -24,7 +24,7 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
 "subtype": "any race"
 "alignment": "Lawful Neutral"
 "ac": !!int "11"
-"ac_class": "14 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "14 with mage armor"
 "hp": !!int "63"
 "hit_dice": "14d8"
 "modifier": !!int "1"
@@ -40,28 +40,27 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
   - "intelligence": !!int "6"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 13"
+"gear":
+  - "quarterstaff"
+"senses": "truesight 120 ft., passive Perception 13"
 "languages": "Common plus any one language"
 "cr": "3"
 "traits":
   - "desc": "The mage's innate spellcasting ability is Intelligence (spell save DC\
       \ 14). It can cast the following spells, requiring no material components:\n\
-      \n**3/day:** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\n\n**1/day each:**\
-      \ [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [locate object](/3-Mechanics/CLI/spells/locate-object-xphb.md)"
+      \n**3/day:** detect thoughts, mage armor\n\n**1/day each:** clairvoyance, locate\
+      \ object"
     "name": "Innate Spellcasting"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6\
-      \ - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two\
-      \ hands."
+  - "desc": "*Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used\
+      \ with two hands."
     "name": "Quarterstaff"
   - "desc": "The mage targets one creature within 120 feet of it that it can see.\
-      \ The target takes 18 (4d8) psychic damage, and it must succeed on a DC 14 Intelligence\
-      \ saving throw or be [stunned](/3-Mechanics/CLI/conditions.md#Stunned) until\
-      \ the end of its next turn."
+      \ The target takes 18 (4d8) psychic damage, and it must succeed on a DC 14\
+      \ Intelligence saving throw or be stunned until the end of its next turn."
     "name": "Glimpse the Temporal Flood (Recharge 5-6)"
 "reactions":
   - "desc": "When the mage or a creature it can see makes an attack roll, a saving\
@@ -70,6 +69,6 @@ Precognitive mages, a rarity among Azorius spellcasters, are capable of capturin
     "name": "Precognitive Insight (3/Day)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/precognitive-mage-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/precognitive-mage-ggr.webp"
 ```
 ^statblock

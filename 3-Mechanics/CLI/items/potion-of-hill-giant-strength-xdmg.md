@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Hill Giant Strength"
 ---
 # Potion of Hill Giant Strength

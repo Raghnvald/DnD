@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Age; Life Spans
+- "Age; Life Spans"
 ---
 # Age; Life Spans
 *Source: Bigby Presents: Glory of the Giants p. 22* 

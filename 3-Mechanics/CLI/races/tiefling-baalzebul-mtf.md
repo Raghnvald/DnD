@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/tiefling/baalzebul
 aliases:
-- Tiefling (Baalzebul)
+- "Tiefling (Baalzebul)"
 ---
 # Tiefling (Baalzebul)
 *Source: Mordenkainen's Tome of Foes p. 21*  
-![](/3-Mechanics/CLI/races/img/tiefling.webp#right)
+![](3-Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 int +1
 - **Size**: Medium
@@ -37,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Maladomini
 
-You know the [thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md) cantrip. When you reach 3rd level, you can cast the [ray of sickness](/3-Mechanics/CLI/spells/ray-of-sickness-xphb.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [crown of madness](/3-Mechanics/CLI/spells/crown-of-madness-xphb.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy.md) cantrip. When you reach 3rd level, you can cast the [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness.md) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [crown of madness](3-Mechanics/CLI/spells/crown-of-madness.md) spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – French, Male
+- "Human Names – French, Male"
 ---
 # Human Names – French, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – French, Male**
-
-`dice: [](human-names-french-male-xge.md#^human-names-french-male)`
 
 | dice: d100 | Name |
 |------------|------|

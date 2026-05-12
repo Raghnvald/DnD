@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Camel
+- "Camel"
 ---
-# [Camel](3-Mechanics\CLI\bestiary\beast/camel.md)
+# [Camel](3-Mechanics/CLI/bestiary/beast/camel.md)
 *Source: Monster Manual p. 320. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
@@ -37,12 +37,12 @@ aliases:
 "languages": ""
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2 (1d4)\
-      \ bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2\
+      \ (1d4) bludgeoning damage."
     "name": "Bite"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/camel.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/camel.webp"
 ```
 ^statblock
 

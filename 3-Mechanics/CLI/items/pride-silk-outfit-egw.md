@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/gear/
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Pride Silk Outfit"
 ---
 # Pride Silk Outfit

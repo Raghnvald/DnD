@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Necrichor
+- "Necrichor"
 ---
-# [Necrichor](3-Mechanics\CLI\bestiary\undead/necrichor-vrgr.md)
+# [Necrichor](3-Mechanics/CLI/bestiary/undead/necrichor-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 238*  
 
 A necrichor is a being of living blood, formed from the ichor of evil gods or the sludge in the crypts of failed liches. Despite the loss of a solid physical form, these foul creatures retain their terrible intellects and aspire to megalomaniacal goals—the first of which involves regaining a body. To do this, they seek servants to exact their will, coercing even the most stubborn potential minions by turning their own blood against them.
@@ -41,25 +41,26 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+9"
 "damage_resistances": "acid, necrotic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-  \ [prone](/3-Mechanics/CLI/conditions.md#Prone), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 120 ft. (blind beyond\
-  \ this radius), passive Perception 11"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (blind\
+  \ beyond this radius), passive Perception 11"
 "languages": "any three languages, telepathy 120 ft."
 "cr": "7"
 "traits":
   - "desc": "If the necrichor fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (2/Day)"
-  - "desc": "Unless its lifeless remains are splashed with holy water or placed in\
-      \ a vessel under the effects of the [hallow](/3-Mechanics/CLI/spells/hallow-xphb.md)\
-      \ spell, the destroyed necrichor re-forms in 1d10 days, regaining all its hits\
-      \ points and appearing in the place it died or in the nearest unoccupied space."
+  - "desc": "Unless its lifeless remains are splashed with [holy water](3-Mechanics/CLI/items/holy-water-xphb.md)\
+      \ or placed in a vessel under the effects of the [hallow](3-Mechanics/CLI/spells/hallow-xphb.md)\
+      \ spell, the destroyed necrichor re-forms in 1d10 days, regaining all its\
+      \ hits points and appearing in the place it died or in the nearest unoccupied\
+      \ space."
     "name": "Rejuvenation"
   - "desc": "The necrichor can climb difficult surfaces, including upside down on\
       \ ceilings, without needing to make an ability check."
@@ -69,10 +70,10 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
 "actions":
   - "desc": "The necrichor makes two attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 5\
-      \ (1d6 + 2) necrotic damage, and the target must succeed on a DC 14 Constitution\
-      \ saving throw or be [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed) until\
-      \ the start of the necrichor's next turn."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:*\
+      \ 5 (1d6 + 2) necrotic damage, and the target must succeed on a DC 14 Constitution\
+      \ saving throw or be [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the start of the necrichor's next turn."
     "name": "Pseudopod"
   - "desc": "*Ranged Spell Attack:* +6 to hit, range 120 ft., one creature. *Hit:*\
       \ 12 (2d8 + 3) necrotic damage, and the target can't regain hit points until\
@@ -86,13 +87,13 @@ Necrichors prove exceptionally difficult to destroy, since they leave a trace of
       \ takes the remaining damage. The necrichor can attach to only one creature\
       \ at a time.\n\nThe attached necrichor can telepathically control the target's\
       \ move, action, or both. When controlled this way, the target can take only\
-      \ the Attack action (necrichor chooses the target) or the Dash action. The attached\
-      \ target can repeat the saving throw at the end of each of its turns, detaching\
-      \ from the necrichor and forcing it to move into the nearest unoccupied space\
-      \ on a success."
+      \ the Attack action (necrichor chooses the target) or the [Dash](3-Mechanics/CLI/rules/actions.md#Dash)\
+      \ action. The attached target can repeat the saving throw at the end of each\
+      \ of its turns, detaching from the necrichor and forcing it to move into the\
+      \ nearest unoccupied space on a success."
     "name": "Blood Puppeteering (Recharge 6)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/necrichor-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/necrichor-vrgr.webp"
 ```
 ^statblock

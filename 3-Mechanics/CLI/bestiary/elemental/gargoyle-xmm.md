@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Gargoyle
+- "Gargoyle"
 ---
-# [Gargoyle](3-Mechanics\CLI\bestiary\elemental/gargoyle-xmm.md)
+# [Gargoyle](3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md)
 *Source: Monster Manual (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Gargoyle
@@ -29,8 +29,6 @@ Gargoyles are sculptures inhabited by elemental spirits. Wings and magic allow t
 Gargoyles have a variety of appearances. Roll on or choose a result from the Gargoyle Sculptures table to inspire how a gargoyle looks.
 
 **Gargoyle Sculptures**
-
-`dice: [](gargoyle-xmm.md#^gargoyle-sculptures)`
 
 | dice: 1d6 | The Gargoyle Is Sculpted to Appear... |
 |-----------|---------------------------------------|
@@ -48,14 +46,12 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 
 **Gargoyle Camouflage**
 
-`dice: [](gargoyle-xmm.md#^gargoyle-camouflage)`
-
 | dice: 1d8 | The Gargoyle Conceals Itself Amid... |
 |-----------|--------------------------------------|
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
-| 4 | The [petrified](/3-Mechanics/CLI/conditions.md#Petrified) victims of a basilisk or medusa. |
+| 4 | The [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) victims of a basilisk or medusa. |
 | 5 | Reliefs on a sculpted gate or wall. |
 | 6 | Rubble in a ruin or junkyard. |
 | 7 | Stalactites or icicles on a cavern ceiling. |
@@ -85,13 +81,13 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
   - !!int "7"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_immunities": "poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Primordial (Terran)"
 "cr": "2"
 "traits":
@@ -101,11 +97,12 @@ Gargoyles seek to ambush foes or creatures that trespass on their territories. W
 "actions":
   - "desc": "The gargoyle makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 7 (2d4 + 2) Slashing\
+      \ damage."
     "name": "Claw"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/gargoyle-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/gargoyle-xmm.webp"
 ```
 ^statblock
 

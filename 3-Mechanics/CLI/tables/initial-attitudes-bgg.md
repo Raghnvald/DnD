@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Initial Attitudes
+- "Initial Attitudes"
 ---
 # Initial Attitudes
 *Source: Bigby Presents: Glory of the Giants p. 44* 

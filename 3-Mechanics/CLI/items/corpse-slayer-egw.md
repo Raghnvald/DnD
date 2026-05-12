@@ -13,7 +13,7 @@ tags:
 - ttrpg-cli/item/weapon/ranged
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Corpse Slayer"
 - "Corpse Slayer Antimatter Rifle"
 - "Corpse Slayer Automatic Rifle"
@@ -74,7 +74,7 @@ aliases:
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-When you hit an undead creature with an attack using this weapon, the attack deals an extra `dice:1d8|noform|noparens|avg` (`1d8`) damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
+When you hit an undead creature with an attack using this weapon, the attack deals an extra `1d8` damage of the weapon's type, and the creature has disadvantage on saving throws against effects that turn undead until the start of your next turn.
 
 **Variants**:
 - [Corpse Slayer Antimatter Rifle](#Corpse%20Slayer%20Antimatter%20Rifle)
@@ -133,14 +133,14 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Corpse Slayer Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/3-Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](3-Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Corpse Slayer Battleaxe
@@ -148,40 +148,40 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Corpse Slayer Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 1.0 lbs.
 
 ### Corpse Slayer Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Light, Thrown
 - **Weight**: 1.0 lbs.
 
 ### Corpse Slayer Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Finesse, Thrown
 - **Weight**: 0.25 lbs.
 
 ### Corpse Slayer Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Two-Handed, special
 - **Weight**: 6.0 lbs.
 
 ### Corpse Slayer Flail
@@ -192,127 +192,127 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 ### Corpse Slayer Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Corpse Slayer Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Corpse Slayer Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Corpse Slayer Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Corpse Slayer Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 6.0 lbs.
 
 ### Corpse Slayer Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Light](/3-Mechanics/CLI/item-properties.md#Light), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Light, Loading
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Loading, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Corpse Slayer Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: Ammunition, Finesse, Two-Handed, special
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 8.0 lbs.
 
 ### Corpse Slayer Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Lance
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Heavy, Reach
 - **Weight**: 6.0 lbs.
 
 ### Corpse Slayer Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Corpse Slayer Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Corpse Slayer Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light), [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Light, Thrown
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 5.0 lbs.
 
 ### Corpse Slayer Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Heavy, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Longsword
@@ -320,7 +320,7 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Mace
@@ -331,7 +331,7 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 ### Corpse Slayer Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Corpse Slayer Morningstar
@@ -343,20 +343,20 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Loading, Two-Handed
 - **Weight**: 10.0 lbs.
 
 ### Corpse Slayer Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Heavy, Reach, Two-Handed
 - **Weight**: 18.0 lbs.
 
 ### Corpse Slayer Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Loading](/3-Mechanics/CLI/item-properties.md#Loading)
+- **Properties**: Ammunition, Loading
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Quarterstaff
@@ -364,66 +364,66 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 4.0 lbs.
 
 ### Corpse Slayer Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: Finesse
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Semiautomatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Shortbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: Ammunition, Two-Handed
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition), [Reload](/3-Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](3-Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](3-Mechanics/CLI/rules/item-properties.md#Reload), Two-Handed
 - **Weight**: 7.0 lbs.
 
 ### Corpse Slayer Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Light
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](/3-Mechanics/CLI/item-properties.md#Ammunition)
+- **Properties**: Ammunition
 
 ### Corpse Slayer Spear
 
@@ -431,7 +431,7 @@ When you hit an undead creature with an attack using this weapon, the attack dea
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Trident
@@ -440,7 +440,7 @@ When you hit an undead creature with an attack using this weapon, the attack dea
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown), [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Thrown, Versatile
 - **Weight**: 4.0 lbs.
 
 ### Corpse Slayer War Pick
@@ -448,7 +448,7 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 2.0 lbs.
 
 ### Corpse Slayer Warhammer
@@ -456,20 +456,20 @@ When you hit an undead creature with an attack using this weapon, the attack dea
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: Versatile
 - **Weight**: 5.0 lbs.
 
 ### Corpse Slayer Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Reach](/3-Mechanics/CLI/item-properties.md#Reach)
+- **Properties**: Finesse, Reach
 - **Weight**: 3.0 lbs.
 
 ### Corpse Slayer Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: Thrown
 - **Weight**: 3.0 lbs.
 
 

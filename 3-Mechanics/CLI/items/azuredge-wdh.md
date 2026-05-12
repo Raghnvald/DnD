@@ -8,26 +8,26 @@ tags:
 - ttrpg-cli/item/rarity/legendary
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Azuredge"
 ---
 # Azuredge
-*Weapon (battleaxe), legendary (requires attunement)*  
+*Weapon ([battleaxe](3-Mechanics/CLI/items/battleaxe-xphb.md)), legendary (requires attunement)*  
 
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: Versatile
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-Forged by the archwizard Ahghairon, this intelligent battleaxe was crafted to defend Waterdeep. Its current wielder is a former member of Force Grey named [Meloon Wardragon](/3-Mechanics/CLI/bestiary/npc/meloon-wardragon-wdh.md), but the weapon is searching for a new owner.
+Forged by the archwizard Ahghairon, this intelligent battleaxe was crafted to defend Waterdeep. Its current wielder is a former member of Force Grey named [Meloon Wardragon](3-Mechanics/CLI/bestiary/npc/meloon-wardragon-wdh.md), but the weapon is searching for a new owner.
 
 Azuredge has a solid steel handle etched with tiny runes, wrapped in blue dragon hide with a star sapphire set into the pommel. The axe head is forged from silver, electrum, and steel alloys whose edges constantly shimmer with a deep blue luminescence.
 
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. The shield spell provides no defense against the axe, which passes through that spell's barrier of magical force.
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. The [shield](3-Mechanics/CLI/spells/shield-xphb.md) spell provides no defense against the axe, which passes through that spell's barrier of magical force.
 
-When you hit a fiend or an undead with the axe, cold blue flames erupt from its blade and deal an extra `dice:2d6|noform|noparens|avg` (`2d6`) radiant damage to the target.
+When you hit a fiend or an undead with the axe, cold blue flames erupt from its blade and deal an extra `2d6` radiant damage to the target.
 
 ## Hurling
 
@@ -39,7 +39,7 @@ While holding the axe, you can use an action to cause the axe to glow blue or to
 
 ## Sentience
 
-Azuredge is a sentient lawful neutral weapon with an Intelligence of 12, a Wisdom of 15, and a Charisma of 15. It has hearing and darkvision out to a range of 120 feet.
+Azuredge is a sentient lawful neutral weapon with an Intelligence of 12, a Wisdom of 15, and a Charisma of 15. It has hearing and [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet.
 
 The weapon communicates telepathically with its wielder and can speak, read, and understand Common. It has a calm, delicate voice. The weapon can sense the presence of non-lawful creatures within 120 feet of it.
 
@@ -47,6 +47,6 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 
 Azuredge is sworn to protect Waterdeep, and it desires to be wielded by a law-abiding person willing to dedicate everything to the city's defense. The weapon is patient and takes its time finding its ideal wielder.
 
-If someone tries to use Azuredge against its will, the axe can become ten times heavier than normal, and can magically adhere to any Medium or larger object or surface it comes into contact with. Once it does so, the axe can't be wielded. Nothing short of a wish spell can separate the axe from the item or surface to which it is adhered without destroying one or the other, though the axe can choose to end the effect at any time.
+If someone tries to use Azuredge against its will, the axe can become ten times heavier than normal, and can magically adhere to any Medium or larger object or surface it comes into contact with. Once it does so, the axe can't be wielded. Nothing short of a [wish](3-Mechanics/CLI/spells/wish-xphb.md) spell can separate the axe from the item or surface to which it is adhered without destroying one or the other, though the axe can choose to end the effect at any time.
 
 *Source: Waterdeep: Dragon Heist p. 189*

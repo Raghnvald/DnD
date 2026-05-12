@@ -6,14 +6,14 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/vehicle/ship-water
-aliases: 
+aliases:
 - "Keelboat"
 ---
 # Keelboat
 *Ship, vehicle (water)*  
 
 
-- **Cost**: 3,000 gp
+- **Cost**: 3.000 gp
 
 Keelboats and rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.
 

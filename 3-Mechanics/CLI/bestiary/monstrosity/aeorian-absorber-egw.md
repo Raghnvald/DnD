@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aeorian Absorber
+- "Aeorian Absorber"
 ---
-# [Aeorian Absorber](3-Mechanics\CLI\bestiary\monstrosity/aeorian-absorber-egw.md)
+# [Aeorian Absorber](3-Mechanics/CLI/bestiary/monstrosity/aeorian-absorber-egw.md)
 *Source: Explorer's Guide to Wildemount p. 283*  
 
 Resembling some sort of canine or feline quadruped at a distance, the absorber's monstrous nature becomes quickly apparent as it closes in. Named for its ability to draw magical energy into its body, the absorber can release that energy in devastating blasts through its tail, whose eye is constantly on the lookout for prey.
@@ -61,15 +61,14 @@ Aeorian hunters don't require food or drink.
   - "wisdom": !!int "6"
   - "charisma": !!int "3"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+8"
-  - "name": "[Survival](/3-Mechanics/CLI/skills.md#Survival)"
+  - "name": "Survival"
     "desc": "+6"
 "damage_immunities": "necrotic, radiant"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "understands Draconic but can't speak"
 "cr": "10"
 "traits":
@@ -78,19 +77,18 @@ Aeorian hunters don't require food or drink.
     "name": "Magic Resistance"
   - "desc": "If the absorber moves at least 20 feet straight toward a creature and\
       \ then hits its claws attack on the same turn, that target must succeed on a\
-      \ DC 17 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ If the target is [prone](/3-Mechanics/CLI/conditions.md#Prone), the absorber\
-      \ can make one bite attack against it as a bonus action."
+      \ DC 17 Strength saving throw or be knocked prone. If the target is prone, the\
+      \ absorber can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "The absorber makes three attacks: one with its bite or Mind Bolt and\
       \ two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (1d10 + 5) piercing damage plus 5 (1d10) force damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (1d10 + 5) piercing damage plus 5 (1d10) force damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d6\
-      \ + 5) slashing damage plus 3 (1d6) force damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8\
+      \ (1d6 + 5) slashing damage plus 3 (1d6) force damage."
     "name": "Claws"
   - "desc": "*Ranged Spell Attack:* +8 to hit, range 120 ft., one creature. *Hit:*\
       \ 22 (4d10) psychic damage."
@@ -103,6 +101,6 @@ Aeorian hunters don't require food or drink.
     "name": "Tail Ray"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/aeorian-absorber-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/aeorian-absorber-egw.webp"
 ```
 ^statblock

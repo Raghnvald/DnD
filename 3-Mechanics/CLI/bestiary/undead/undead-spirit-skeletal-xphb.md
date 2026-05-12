@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Undead Spirit (Skeletal)
+- "Undead Spirit (Skeletal)"
 ---
-# [Undead Spirit (Skeletal)](3-Mechanics\CLI\bestiary\undead/undead-spirit-skeletal-xphb.md)
+# [Undead Spirit (Skeletal)](3-Mechanics/CLI/bestiary/undead/undead-spirit-skeletal-xphb.md)
 *Source: Player's Handbook (2024) p. 328*  
 
 ```statblock
@@ -31,11 +31,11 @@ aliases:
   - !!int "9"
 "speed": "30 ft."
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands the languages you know"
 "actions":
   - "desc": "The spirit makes a number of attacks equal to half this spell's level\

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Elf Names – Child
+- "Elf Names – Child"
 ---
 # Elf Names – Child
 *Source: Xanathar's Guide to Everything p. 176* 
 
 **Elf Names – Child**
-
-`dice: [](elf-names-child-xge.md#^elf-names-child)`
 
 | dice: d100 | Name |
 |------------|------|

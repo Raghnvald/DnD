@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
-aliases: 
+aliases:
 - "Delver's Claws"
 ---
 # Delver's Claws
@@ -16,7 +16,7 @@ aliases:
 
 The back of this weatherworn leather glove is adorned with three large metal hooks shaped like a mole's claws. Stitched into the glove's palm is the mountain rune.
 
-The glove is considered a simple melee weapon with the finesse and light properties, and it deals `dice:1d4|noform|noparens|avg` (`1d4`) slashing damage on a hit. While attuned to the glove, you gain a burrowing speed equal to your walking speed and [blindsight](/3-Mechanics/CLI/senses.md#Blindsight) to 15 feet.
+The glove is considered a simple melee weapon with the finesse and light properties, and it deals `1d4` slashing damage on a hit. While attuned to the glove, you gain a burrowing speed equal to your walking speed and blindsight to 15 feet.
 
 ## Invoking the Rune
 

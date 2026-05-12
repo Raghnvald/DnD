@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Cleric
+- "Cleric"
 ---
 # Cleric
 *Source: Guildmasters' Guide to Ravnica p. 23* 
@@ -15,14 +15,14 @@ aliases:
 | Subclass | Guild |
 |----------|-------|
 | Forge Domain* | Boros |
-| [Knowledge Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Azorius |
-| [Life Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Boros, Selesnya |
-| [Light Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Boros |
-| [Nature Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Selesnya |
+| Knowledge Domain | Azorius |
+| Life Domain | Boros, Selesnya |
+| Light Domain | Boros |
+| Nature Domain | Selesnya |
 | Order Domain** | Azorius, Orzhov |
-| [Tempest Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Gruul |
-| [Trickery Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Dimir |
-| [War Domain](/3-Mechanics/CLI/classes/cleric-xphb.md) | Boros |
+| Tempest Domain | Gruul |
+| Trickery Domain | Dimir |
+| War Domain | Boros |
 ^cleric
 
 * Appears in "Xanathar's Guide to Everything"

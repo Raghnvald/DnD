@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shoosuva
+- "Shoosuva"
 ---
-# [Shoosuva](3-Mechanics\CLI\bestiary\fiend/shoosuva-mpmm.md)
+# [Shoosuva](3-Mechanics/CLI/bestiary/fiend/shoosuva-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
 
 > [!quote] A quote from Mordenkainen  
@@ -27,7 +27,7 @@ aliases:
 > 
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
-A shoosuva is a hyena-demon gifted by [Yeenoghu](/3-Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](/3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+A shoosuva is a hyena-demon gifted by Yeenoghu to an especially powerful worshiper (typically a [fang of Yeenoghu](3-Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu-xmm.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
 
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 
@@ -56,10 +56,10 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
   - "wisdom": !!int "5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Abyssal, Gnoll, telepathy 120 ft."
 "cr": "8"
 "actions":
@@ -70,10 +70,10 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 15 ft., one creature. *Hit:*\
       \ 13 (2d8 + 4) piercing damage, and the target must succeed on a DC 14 Constitution\
-      \ saving throw or become [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned).\
-      \ While [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) in this way, the\
-      \ target is also [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed). The\
-      \ target can repeat the saving throw at the end of each of its turns, ending\
+      \ saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned).\
+      \ While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way,\
+      \ the target is also [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed).\
+      \ The target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Tail Stinger"
 "bonus_actions":
@@ -83,7 +83,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/shoosuva-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/shoosuva-mpmm.webp"
 ```
 ^statblock
 

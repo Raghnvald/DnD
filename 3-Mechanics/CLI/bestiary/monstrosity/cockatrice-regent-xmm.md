@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cockatrice Regent
+- "Cockatrice Regent"
 ---
-# [Cockatrice Regent](3-Mechanics\CLI\bestiary\monstrosity/cockatrice-regent-xmm.md)
+# [Cockatrice Regent](3-Mechanics/CLI/bestiary/monstrosity/cockatrice-regent-xmm.md)
 *Source: Monster Manual (2024) p. 75*  
 
 Bolder than their smaller cousins, cockatrice regents brim with unstable magical energy they use to restrain distant foes.
@@ -46,9 +46,9 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "speed": "30 ft., fly 60 ft."
 "saves":
   - "wisdom": !!int "6"
-"condition_immunities": "[petrified](/3-Mechanics/CLI/conditions.md#Petrified)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": ""
 "cr": "8"
 "traits":
@@ -58,16 +58,17 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "actions":
   - "desc": "The cockatrice makes one Petrifying Bite attack and two Talons attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing damage.\
-      \ If the target is a creature, it is subjected to the following effect. *Constitution\
-      \ Saving Throw:* DC 14. *1St Failure:* The target has the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
+      \ damage. If the target is a creature, it is subjected to the following effect.\
+      \ *Constitution Saving Throw:* DC 14. *1St Failure:* The target has the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ condition and repeats the save at the end of its next turn if it is still\
-      \ [Restrained](/3-Mechanics/CLI/conditions.md#Restrained), ending the effect\
-      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](/3-Mechanics/CLI/conditions.md#Petrified)\
-      \ condition instead of the [Restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), ending the effect\
+      \ on itself on a success. *2Nd Failure:* The target has the [Petrified](3-Mechanics/CLI/rules/conditions.md#Petrified)\
+      \ condition instead of the [Restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ condition."
     "name": "Petrifying Bite"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 18 (4d6 + 4) Slashing damage."
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 18 (4d6 + 4) Slashing\
+      \ damage."
     "name": "Talons"
 "reactions":
   - "desc": "Trigger: A creature within 120 feet of the cockatrice deals damage to\
@@ -76,7 +77,7 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
     "name": "Magical Backlash"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-regent-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/cockatrice-regent-xmm.webp"
 ```
 ^statblock
 

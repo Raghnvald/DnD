@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Memorable Mission
+- "Memorable Mission"
 ---
 # Memorable Mission
 *Source: Eberron: Rising from the Last War p. 78* 
 
 **Memorable Mission**
-
-`dice: [](memorable-mission-erlw.md#^memorable-mission)`
 
 | dice: d4 | Mission |
 |----------|---------|

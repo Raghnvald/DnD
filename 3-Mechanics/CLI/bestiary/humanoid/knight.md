@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Knight
+- "Knight"
 ---
-# [Knight](3-Mechanics\CLI\bestiary\humanoid/knight.md)
-*Source: Monster Manual p. 347, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Knight](3-Mechanics/CLI/bestiary/humanoid/knight.md)
+*Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Knights are warriors who pledge service to rulers, religious orders, and noble causes. A knight's alignment determines the extent to which a pledge is honored. Whether undertaking a quest or patrolling a realm, a knight often travels with an entourage that includes squires and hirelings who are commoners.
 
@@ -25,7 +25,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "52"
 "hit_dice": "8d8 + 16"
 "modifier": !!int "0"
@@ -40,11 +40,14 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
 "saves":
   - "constitution": !!int "4"
   - "wisdom": !!int "2"
+"gear":
+  - "[greatsword](3-Mechanics/CLI/items/greatsword.md)"
+  - "[heavy crossbow](3-Mechanics/CLI/items/heavy-crossbow.md)"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "The knight has advantage on saving throws against being frightened."
+  - "desc": "The knight has advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Brave"
 "actions":
   - "desc": "The knight makes two melee attacks."
@@ -59,7 +62,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
       \ a nonhostile creature that it can see within 30 feet of it makes an attack\
       \ roll or a saving throw. The creature can add a d4 to its roll provided it\
       \ can hear and understand the knight. A creature can benefit from only one Leadership\
-      \ die at a time. This effect ends if the knight is incapacitated."
+      \ die at a time. This effect ends if the knight is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Leadership (Recharges after a Short or Long Rest)"
 "reactions":
   - "desc": "The knight adds 2 to its AC against one melee attack that would hit it.\
@@ -67,8 +70,7 @@ Knights are warriors who pledge service to rulers, religious orders, and noble c
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/knight.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/knight.webp"
 ```
 ^statblock
 

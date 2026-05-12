@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/0
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/0
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Magewright
+- "Magewright"
 ---
-# [Magewright](3-Mechanics\CLI\bestiary\humanoid/magewright-erlw.md)
+# [Magewright](3-Mechanics/CLI/bestiary/humanoid/magewright-erlw.md)
 *Source: Eberron: Rising from the Last War p. 318*  
 
 In Khorvaire, magic is part of everyday life. A chef might use prestidigitation to heat and season food, while a blacksmith uses mending to perform minor repairs and guidance to help inspire their work. Those who work minor magic into their labors are called magewrights.
@@ -24,8 +24,6 @@ Far more limited in magical power than a typical spellcaster, a magewright is de
 The magewright stat block provides the baseline statistics for a magewright. You then add to that baseline by choosing a specialty from the Magewright Specialties table, or roll for one. The specialty determines additional spells the magewright knows, including ones that can be cast only as rituals. The specialty also gives the magewright more proficiencies.
 
 **Magewright Specialties**
-
-`dice: [](magewright-erlw.md#^magewright-specialties)`
 
 | dice: d8 | Specialty | Spells | Proficiencies |
 |----------|-----------|--------|---------------|
@@ -60,6 +58,8 @@ The magewright stat block provides the baseline statistics for a magewright. You
 "skillsaves":
   - "name": "Arcana"
     "desc": "+4"
+"gear":
+  - "dagger"
 "senses": "passive Perception 12"
 "languages": "Common plus any two languages"
 "cr": "0"
@@ -77,6 +77,6 @@ The magewright stat block provides the baseline statistics for a magewright. You
     "name": "Dagger"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/magewright-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/magewright-erlw.webp"
 ```
 ^statblock

@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgdia
 aliases:
-- Baldur's Gate Gazetteer
+- "Baldur's Gate Gazetteer"
 ---
 # Baldur's Gate Gazetteer
 *Source: Baldur's Gate: Descent Into Avernus, p. 158* 
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/107-7ot5i-06-01.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/107-7ot5i-06-01.webp#center)
 
 Even the most hardened adventurers watch their steps in Baldur's Gate, where lives hold prices in copper and greed proves deadlier than dragon fire. Baldur's Gate has a reputation for being a rough place, where crime and opportunity walk hand in hand, and where anything can be bought, sold, or seized at sword-point. If something can be given a price, it's for sale somewhere in Baldur's Gate. Drugs and poisons sit on shelves alongside tinctures and remedies. Trade goods from Chult, mechanical wonders from Neverwinter, tomes of magic from Calimshan, and the most believable counterfeits of each can all be found in the city's stalls.
 
@@ -50,7 +50,7 @@ While the Outer City might seem the most lawless, every district of Baldur's Gat
 
 The Upper City's political intrigues and the Outer City's violence spills over into the Lower City, the city's middle ground. Rampant crime, class grudges, foreign threats, and economic pressures leave many Baldurians feeling trapped within their own homes. Flaming Fist patrols react to threats with indiscriminate violence, doing little to make citizens feel safer. As a result, in recent years many citizens have started banding together in crews. These counter-gangs align along professional or neighborhood affiliations, doing their best to protect their territories. While this has given some of the city's people a way of feeling more in control of their lives, it's also increased the number of armed citizens on the streets. Whether the Lower City is actually safer after the formation of crews remains an open question.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/108-e9sso-06-02.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/108-e9sso-06-02.webp#center)
 
 In the Outer City, all the world washes against the city's gates. Here crime and poverty are contrasted by wonders from afar and the riches of cultures across Faerûn. The mix of wanderers and refugees remains in constant flux, with communities forming and disbanding on a monthly basis. None can possibly keep track of all the foreign traditions or the dangerous—sometimes outright evil—religious practices observed in the Outer City. As a result, Baldur's Gate has widely adopted a "do no harm" policy when it comes to faiths and organizations operating in the city. Any group is welcome to operate openly so long as the city's important citizens aren't harmed.
 
@@ -79,7 +79,7 @@ As a great hero of Baldur's Gate once said, "Watch your step in the shadows. Wat
 > Today, some optimistic souls try to recast the seal, claiming its calm waters represent the city's desire to remain a peaceful power and the clear skies symbolize a prosperous future. But those who know the city's history see the cunning and violence underpinning the emblem. For many, the contradictory interpretations make the city's coat of arms all the more fitting.
 ^baldurs-gate-and-its-coat-of-arms
 
-![Map: Sword Coast](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/109-jqdug-map-6-1.webp#center)
+![Map: Sword Coast](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/109-jqdug-map-6-1.webp#center)
 
 ### Neighbors, Rivals, and Allies
 
@@ -121,7 +121,7 @@ Comprised of four dukes, the Council of Four presides over the government of Bal
 
 #### Grand Duke Ulder Ravengard
 
-[Ulder Ravengard](/3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke.
+[Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) is a fearless soldier who rose up through the ranks of the Flaming Fist to become its supreme marshal. Ravengard used his military position and influence to secure for himself a seat on the Council of Four. Following the deaths of two council members amid a cloud of corruption and scandal, he persuaded the Parliament of Peers to back his election to grand duke.
 
 Upon ascending to the highest position in the city government, Ravengard refused to relinquish command of the Flaming Fist, making him the most powerful figure in the city by far. This decision has not endeared him to anyone, but Ravengard could care less about his popularity. His only concerns are the stability and prosperity of Baldur's Gate, and he doesn't trust any of the other dukes or anyone in the Parliament of Peers to put the city's interests before their own.
 
@@ -145,7 +145,7 @@ Duke Portyr expressed concern about Ravengard's diplomatic mission to Elturel, f
 
 #### Duke Thalamra Vanthampur
 
-Acid-tongued, shrewd, and aggressive, [Duke Thalamra Vanthampur](/3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
+Acid-tongued, shrewd, and aggressive, [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) is the matriarch of the Vanthampur family. Born with nothing, she spent years wallowing in obscurity, repairing and renovating the city's ancient sewer system. One promotion after another followed until she was named Master of Drains and Underways. By then, she had been married three times and given birth to three sons. Her lifelong goal has been to lift herself and her family out of the sewers and into high society.
 
 Years of political dealing, blame shuffling, and bribery paid off when Thalamra was elected to the Council of Four. Although she has served on the council for the shortest amount of time, Duke Vanthampur is easily the most politically savvy council member. She speaks little during meetings of the council, preferring to further her political agenda through meetings in her private offices and at her family estate. When she does choose to debate, she speaks with a strength beyond what it seems like her age should allow, and is known for leveling insults that land unsettlingly close to (supposedly) hidden truths.
 
@@ -155,7 +155,7 @@ Baldur's Gate boasts two military forces: the Flaming Fist and the Watch. Use th
 
 #### The Flaming Fist
 
-The red and gold symbol of the Flaming Fist mercenary company (see "Flaming Fist Coat of Arms") has become emblematic of Baldur's Gate. The Council of Four funds the Flaming Fist, supporting it as the city's army. Grand Duke [Ulder Ravengard](/3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) is now its undisputed leader.
+The red and gold symbol of the Flaming Fist mercenary company (see "Flaming Fist Coat of Arms") has become emblematic of Baldur's Gate. The Council of Four funds the Flaming Fist, supporting it as the city's army. Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) is now its undisputed leader.
 
 The Flaming Fist largely patrols the Lower City, though it holds nominal authority over the Outer City as well. The company has enough to do maintaining order within the city walls without straying too far from its gates, though the Fist has been known to hire independent agents when its ranks are spread thin.
 
@@ -173,9 +173,9 @@ The Watch operates out of the Citadel, a massive keep built into the Upper City'
 
 | District | Arrival Time | Force |
 |----------|--------------|-------|
-| Upper City | `dice:2d4\|noform\|noparens\|avg` (`2d4`) minutes | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Watch [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
-| Lower City | `dice:4d6\|noform\|noparens\|avg` (`4d6`) minutes | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Flaming Fist [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) |
-| Outer City | `dice:6d8\|noform\|noparens\|avg` (`6d8`) minutes | `dice:2d6\|noform\|noparens\|avg` (`2d6`) Flaming Fist [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
+| Upper City | `2d4` minutes | `2d4` Watch guards |
+| Lower City | `4d6` minutes | `2d4` Flaming Fist veterans |
+| Outer City | `6d8` minutes | `2d6` Flaming Fist guards |
 ^guard-arrival-times
 
 ### Guard Reactions
@@ -186,12 +186,10 @@ If someone calls the Flaming Fist or the Watch, reference the Guard Arrival Time
 
 **Gate Interactions**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^gate-interactions)`
-
 | dice: d8 | Interaction |
 |----------|-------------|
 | 1 | The guards thoroughly search packs and vehicles, questioning everything and everyone. |
-| 2 | The guards force a line of travelers to wait for `dice:6d10\|noform\|noparens\|avg` (`6d10`) minutes for no clear reason. |
+| 2 | The guards force a line of travelers to wait for `6d10` minutes for no clear reason. |
 | 3 | The guards refuse to admit anyone with animals, unusual weapons, or obvious magic items. |
 | 4 | The guards don't let anyone through the gate. Those wishing to enter or leave must wait until the gate reopens or try another gate. |
 | 5 | The guards focus their attention on a suspicious traveler and wave a bunch of other people through without searching them or their belongings. |
@@ -202,23 +200,19 @@ If someone calls the Flaming Fist or the Watch, reference the Guard Arrival Time
 
 **Flaming Fist Reactions**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^flaming-fist-reactions)`
-
 | dice: d8 | Reaction |
 |----------|----------|
 | 1 | The guards demand that everyone drop to the ground, bludgeoning those who don't comply immediately. After searching everyone for money, contraband, or other valuable items, they confiscate whatever they find before letting everyone go. |
 | 2 | Exasperated, the guards just want everyone to disperse immediately. |
-| 3 | The guards already have `dice:1d6\|noform\|noparens\|avg` (`1d6`) [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) with them from a prior arrest and don't want to deal with another problem. |
+| 3 | The guards already have `1d6` thugs with them from a prior arrest and don't want to deal with another problem. |
 | 4 | The guards make arrests, but are called away mid process and let everyone go. |
-| 5 | The guards merely walk by, as they're already escorting a patriar ([noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)). |
+| 5 | The guards merely walk by, as they're already escorting a patriar (noble). |
 | 6 | The guards start a bribe bidding war to decide who gets arrested and who goes free. |
 | 7 | An officer arrives with the group, insuring that any arrests are conducted by the book. |
 | 8 | The guards are spoiling for a fight and attack anyone who looks like they might be guilty. |
 ^flaming-fist-reactions
 
 **Watch Reactions**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^watch-reactions)`
 
 | dice: d8 | Reaction |
 |----------|----------|
@@ -266,7 +260,7 @@ By far the most important crew to travelers, however, is the Gateguides. Made up
 > 
 > **Foreign Agents.** While traders and visitors to Baldur's Gate are always welcome, spies and saboteurs are not. Legitimate foreign agents, such as ambassadors, are required to report to the High Hall for an elaborate series of interviews and licenses. Visitors technically should do the same, but the law is rarely mentioned at the city's gates and even more rarely enforced. What distinguishes a visitor and a foreign agent can be unclear, and if an individual doesn't have a license marking them as one or the other, any duke or peer can unilaterally change a non-citizen's status, effectively sentencing them to imprisonment or worse.
 > 
-> **Livestock Restriction.** By tradition, Baldur's Gate bans animals larger than a [peacock](/3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md) within the city walls. Visitors determined not to surrender their beloved pets (or valuable animals they intend to sell) sometimes arrive at the city with large peacocks in tow, to prove their furred companion meets the legal requirement. This has led to a burgeoning, noisy, and particularly cutthroat [peacock](/3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md)-breeding industry in the Outer City.
+> **Livestock Restriction.** By tradition, Baldur's Gate bans animals larger than a [peacock](3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md) within the city walls. Visitors determined not to surrender their beloved pets (or valuable animals they intend to sell) sometimes arrive at the city with large peacocks in tow, to prove their furred companion meets the legal requirement. This has led to a burgeoning, noisy, and particularly cutthroat [peacock](3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md)-breeding industry in the Outer City.
 > 
 > Most travelers pay to stable oversize animals, either in Outer City liveries or at ranches outside the city. Some animals are simply surrendered at the gate, though, becoming property of the Watch (in the Upper City) or the Flaming Fist (in the Lower City), or sold during monthly auctions.
 ^noteworthy-laws
@@ -351,7 +345,7 @@ Some good-hearted but naïve patriars have been known to venture into the Lower 
 > 
 > **Vannath** fled the city of Neverwinter after the eruption of Mount Hotenow and married into the patriars to elevate their status.
 > 
-> **Vanthampur** specializes in civic engineering under the purview of family matriarch [Duke Thalamra Vanthampur](/3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md).
+> **Vanthampur** specializes in civic engineering under the purview of family matriarch [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md).
 > 
 > **Whitburn** owns the slate quarry east of the city.
 ^prominent-patriar-families
@@ -408,7 +402,7 @@ Even in the Upper City, some citizens feel their existence is one of secret torm
 
 Some patriars spread word of Ilmater's faith not out of devotion, but to control their lessers. If people believe their suffering is worthy, they are less likely to demand safer conditions, higher pay, or more rights. In recent memory, cryptic notes have appeared on the gates of patriar estates, warning that "those who falsely champion the Crying God will find their own suffering multiplied."
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/110-i0skp-06-03.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/110-i0skp-06-03.webp#center)
 
 ### Oghma
 
@@ -438,7 +432,7 @@ Smugglers, too, pay homage to Umberlee. A great deal of illegal trade passes thr
 
 Umberlee's adherents work out of the Water Queen's House, a magnificent structure on the city docks. They provide blessings to sailors and identify relics dredged up from the deep. When Umberlee is offended by the removal of an item from the sea, she expresses her displeasure to the clergy by sending them omens, urging the priests to advise the finder to return the plundered item to the depths at once—or else.
 
-![Murderous servants of the ...](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/111-2brwh-06-04-2k.webp#center "Murderous servants of the Dead Three corner their prey near the statue of Minsc and Boo.")
+![Murderous servants of the Dead Three corner their prey near the statue of Minsc and Boo.](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/111-2brwh-06-04-2k.webp#center)
 
 ## Dangers in Baldur's Gate
 
@@ -464,11 +458,11 @@ Only the most talented criminals dare to burgle patriar estates, but the lower r
 
 #### Nine-Fingers Keene
 
-The current leader of the Guild, [Nine-Fingers Keene](/3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md), disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
+The current leader of the Guild, [Nine-Fingers Keene](3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md), disdains flashy garb and illusion magic. She appears to the world as she is: an unassuming woman of middling age and build. Her forgettable looks have proven her greatest asset as a thief, as her victims have trouble recognizing her even when they meet her again face-to-face. Keene's leadership over the years earned her a reputation of thoughtful pragmatism. When necessary, she seeks revenge for offenses against the Guild—provided doing so is profitable. Her methods are vicious when necessary, and she is as feared as she is respected.
 
 Keene has become increasingly intolerant of the populous tide turning against her organization. While the occasional rabble-rouser has always impeded criminal business, the rise of organized crews and vigilantes is interfering with Guild operations. After a carefully coordinated attack on a patriar's estate fell to pieces when a vigilante clumsily alerted the estate guards, Keene declared open season on do-gooders of all stripes.
 
-![Nine-Fingers Keene](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/112-637008615720684842.webp#center)
+![Nine-Fingers Keene](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/112-637008615720684842.webp#center)
 
 ### The Dead Three
 
@@ -496,8 +490,8 @@ While the Dead Three occupy a prominent place in Baldurians' fears, their faiths
 ^prominent-guild-kingpins
 
 > [!gallery]
-> ![Map 6.2: Baldur's Gate](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/113-v7txv-map-6-2.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/114-xroll-map-6-2-player.webp#gallery)
+> ![Map 6.2: Baldur's Gate](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/113-v7txv-map-6-2.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/114-xroll-map-6-2-player.webp#gallery)
 
 ### Murder
 
@@ -509,7 +503,7 @@ In the Lower City, murder is less common but remains a threat. Long-time residen
 
 Most murders in the Lower City have reasons behind them. The merchant found with his throat cut and pockets emptied, the husband murdered so his wife can marry her young mistress, the tyrannical shop owner stabbed by a desperate underling—residents understand these crimes. What frightens people are the senseless murders. The man found ripped to pieces with his pockets still full of gold, the woman slaughtered so viciously that her grieving husband is sent to the asylum, the shop owner who suddenly strikes down his faithful clerk—these are the crimes that lead to panic and wild rumors.
 
-Some commoners claim that something about the city itself sparks violence in its citizens. A popular theory is that the spirits of the vicious pirates that once sailed the harbors still influence the city. Another is that the spirit of the long-executed serial murderer Alhasval Drenz, the Whitkeep Whistler, still stalks the city, possessing innocents to continue her unmatched killing spree. This adventure posits a third possibility: that the presence of the [Shield of the Hidden Lord](/3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) fuels the avarice and ambitions of evil-minded folk in Baldur's Gate. This magic item lies in a vault under Vanthampur Villa (see chapter 1) and has a pit fiend trapped inside it (see "Shield of the Hidden Lord"). Were the shield to be taken from the city, the murder rate might drop suddenly.
+Some commoners claim that something about the city itself sparks violence in its citizens. A popular theory is that the spirits of the vicious pirates that once sailed the harbors still influence the city. Another is that the spirit of the long-executed serial murderer Alhasval Drenz, the Whitkeep Whistler, still stalks the city, possessing innocents to continue her unmatched killing spree. This adventure posits a third possibility: that the presence of the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md) fuels the avarice and ambitions of evil-minded folk in Baldur's Gate. This magic item lies in a vault under Vanthampur Villa (see chapter 1) and has a pit fiend trapped inside it (see "Shield of the Hidden Lord"). Were the shield to be taken from the city, the murder rate might drop suddenly.
 
 It's unclear whether the rise of Bhaal's faith in Baldur's Gate stems from the frequency of murders, or if the murders spring from the worship of Bhaal. The Flaming Fist suspects a group of Bhaal worshipers behind a spate of recent similar murders, the victims stabbed to death and their own blood dribbled like a crown around their heads. The Fist's investigations have not yet resulted in an arrest, but officers suspect the murderers to be commoners with seemingly unremarkable lives covering their true, bloodthirsty natures.
 
@@ -541,13 +535,13 @@ The nightly closing of the gates ostensibly keeps the patriars safe. Closing off
 
 One of the largest and deepest harbors on Faerûn's western coast, Gray Harbor is also one of the busiest. The city's independence and general laissez-faire attitude toward the types of goods and people flowing through its port—so long as the government gets its cut—means that the harbor throngs with both honest captains conducting forthright trade and pirate crews looking to fence their wares. Plenty of sailors also make their homes nearby in the Lower City.
 
-The harbor's most immediately striking feature is its machinery, with dozens of enormous cranes and countless powered scoops and cargo carts dramatically accelerating the loading and unloading process. Though designed by the Church of Gond, these marvels are run by the Harborhands, the most powerful crew in the city thanks to the dockworkers' ability to shut off the city's economic lifeblood with a strike. Managing the whole affair is Harbormaster Darus Kelinoth, a lawful neutral male human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md) who runs the port's operations and taxation from a small, heavily fortified brick building set well apart from other structures.
+The harbor's most immediately striking feature is its machinery, with dozens of enormous cranes and countless powered scoops and cargo carts dramatically accelerating the loading and unloading process. Though designed by the Church of Gond, these marvels are run by the Harborhands, the most powerful crew in the city thanks to the dockworkers' ability to shut off the city's economic lifeblood with a strike. Managing the whole affair is Harbormaster Darus Kelinoth, a lawful neutral male human noble who runs the port's operations and taxation from a small, heavily fortified brick building set well apart from other structures.
 
 The port itself is a tangle of piers, floating docks, and anchorages, from the massive Freighter's Finger pier catering to the heaviest barges to the more ordinary slips at Northtree or Commonsdock. Not actually attached to shore, the chaotic Flotilla is the city's cheapest long-term moorage option, where boats are welcome to raft together around common anchor buoys, and where some houseboats haven't moved in generations. A special division of the Flaming Fist called the Gray Wavers patrols the harbor, yet it's no secret that the more expensive docks are safer than the budget options. Sailors and even whole ships have been known to go missing in Gray Harbor, and while some assume such disappearances are the result of local shore-based pirates, others speak of Ol' Cholms, a mysterious sea beast capable of dragging ships down to the river's lightless bottom.
 
 ### Dusthawk Hill
 
-East of the city, high above the scattered slums and cut-rate inns that stretch along the trade road, rises the steep yellow granite of Dusthawk Hill. This cliff-skirted hill is one of the last known refuges of the Chionthar dusthawk (use the [hawk](/3-Mechanics/CLI/bestiary/beast/hawk-xmm.md) statistics), a once-common raptor whose numbers precipitously declined over the last century as regional turmoil and the ever-spreading slums outside Baldur's Gate consumed its habitat.
+East of the city, high above the scattered slums and cut-rate inns that stretch along the trade road, rises the steep yellow granite of Dusthawk Hill. This cliff-skirted hill is one of the last known refuges of the Chionthar dusthawk (use the hawk statistics), a once-common raptor whose numbers precipitously declined over the last century as regional turmoil and the ever-spreading slums outside Baldur's Gate consumed its habitat.
 
 Local legend holds that the dusthawk was Balduran's favorite hunting bird, and that the Chionthar population is descended from his own personal hunting hawks. When the dukes of Baldur's Gate realized that the dusthawk was on the verge of extinction, they declared the hill, which included both the hawks' cliffside nests and their hunting grounds, to be off limits to unlicensed hunters. Despite the fences and cliffs that cordon off most of the hill, trespassers remain common, the demand for dusthawk hunting birds having exploded among the wealthy.
 
@@ -565,11 +559,9 @@ Residents of the Upper City feel great pressure to maintain outward appearances,
 
 The patriars' unabashed snobbery fosters deep resentment among denizens of the Lower City and Outer City, who can see the good life enjoyed before their eyes but are excluded from all but the smallest tastes. The Watch is merciless about turning beggars and malcontents away from the gates, where an erratically enforced entry toll for non-residents and those without Watch tokens or escorts effectively bars the poor from setting foot within this district. A patriar caught outside the Upper City after dark, therefore, is at high risk of robbery, beating, or worse.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/115-xxr8w-06-05.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/115-xxr8w-06-05.webp#center)
 
 **Upper City Random Encounters**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^upper-city-random-encounters)`
 
 | dice: d20 | Encounter |
 |-----------|-----------|
@@ -580,8 +572,6 @@ The patriars' unabashed snobbery fosters deep resentment among denizens of the L
 ^upper-city-random-encounters
 
 **Table A: Upper City Harmless Interactions**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^table-a-upper-city-harmless-interactions)`
 
 | dice: d12 | Interaction |
 |-----------|-------------|
@@ -601,38 +591,34 @@ The patriars' unabashed snobbery fosters deep resentment among denizens of the L
 
 **Table B: Upper City Denizens**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-b-upper-city-denizens)`
-
 | dice: d10 | Denizens |
 |-----------|----------|
-| 1 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Watch [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) who demand to see strangers' passage tokens |
-| 2 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md) of Gond or Tymora |
-| 3 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) patriar servants ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) on errands |
-| 4 | 1 patriar (human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) and 6 personal bodyguards ([veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) |
-| 5 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) entitled young patriars (human [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)), each with one personal bodyguard ([thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) |
-| 6 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) visiting dignitaries ([nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) and `dice:2d4\|noform\|noparens\|avg` (`2d4`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
-| 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) High Hall messengers ([scouts](/3-Mechanics/CLI/bestiary/humanoid/scout-xmm.md)) |
-| 8 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) entertainers ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 9 | 1 Flaming Fist officer ([knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)) and `dice:2d4\|noform\|noparens\|avg` (`2d4`) Flaming Fist soldiers ([veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) |
-| 10 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who shouldn't be in the Upper City |
+| 1 | `2d4` Watch guards who demand to see strangers' passage tokens |
+| 2 | `1d4` acolytes of Gond or Tymora |
+| 3 | `2d6` patriar servants (commoners) on errands |
+| 4 | 1 patriar (human noble) and 6 personal bodyguards (veterans) |
+| 5 | `1d4 + 1` entitled young patriars (human nobles), each with one personal bodyguard (thug) |
+| 6 | `1d6` visiting dignitaries (nobles) and `2d4` guards |
+| 7 | `1d4` High Hall messengers (scouts) |
+| 8 | `2d4` entertainers (commoners) |
+| 9 | 1 Flaming Fist officer (knight) and `2d4` Flaming Fist soldiers (veterans) |
+| 10 | `1d4` commoners who shouldn't be in the Upper City |
 ^table-b-upper-city-denizens
 
 **Table C: Upper City Threats**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-c-upper-city-threats)`
-
 | dice: d10 | Threat |
 |-----------|--------|
-| 1 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [imps](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) disguised as ravens |
-| 2 | 1 [gargoyle](/3-Mechanics/CLI/bestiary/elemental/gargoyle-xmm.md) in the service of the Guild |
-| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [giant centipedes](/3-Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md) from the sewers |
-| 4 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) suits of [animated armor](/3-Mechanics/CLI/bestiary/construct/animated-armor-xmm.md) that escaped from the High House of Wonders |
-| 5 | 1 [ochre jelly](/3-Mechanics/CLI/bestiary/ooze/ochre-jelly-xmm.md) in a sewer grate |
+| 1 | `1d4` imps disguised as ravens |
+| 2 | 1 gargoyle in the service of the Guild |
+| 3 | `1d6` giant centipedes from the sewers |
+| 4 | `1d4` suits of animated armor that escaped from the High House of Wonders |
+| 5 | 1 ochre jelly in a sewer grate |
 | 6 | Dead Three abduction squad (see the "More Dead Three Encounters" sidebar) |
 | 7 | Dead Three murder squad (see the "More Dead Three Encounters" sidebar) |
-| 8 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [doppelgangers](/3-Mechanics/CLI/bestiary/monstrosity/doppelganger-xmm.md) |
-| 9 | 1 serial killer ([assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)) wanted by the Watch |
-| 10 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [kenku](/3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) muggers in league with the Guild |
+| 8 | `1d4` doppelgangers |
+| 9 | 1 serial killer (assassin) wanted by the Watch |
+| 10 | `2d4` kenku muggers in league with the Guild |
 ^table-c-upper-city-threats
 
 ### Gates
@@ -694,13 +680,13 @@ Not long after, shantytown residents in the Outer City began suffering brutal at
 
 #### Distant Shores
 
-Tendai and Khennen Shore (chaotic good human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) are a married couple that runs a successful business importing dried meats, spices, authentic cookware, and traditional recipes from Port Nyanzaru, where the rest of Tendai's family lives. Their pre-mixed assortments of ajwain, coriander, ginger, various curries, and colored salts have done much to bring Chultan delicacies to patriar tables.
+Tendai and Khennen Shore (chaotic good human commoners) are a married couple that runs a successful business importing dried meats, spices, authentic cookware, and traditional recipes from Port Nyanzaru, where the rest of Tendai's family lives. Their pre-mixed assortments of ajwain, coriander, ginger, various curries, and colored salts have done much to bring Chultan delicacies to patriar tables.
 
 Despite their success, the Shores' business is straight forward and unpretentious, attracting attention from business prospectors interested in buying the couple out and expanding the business. The Shores have no interest in selling, despite numerous offers from patriar families and anonymous buyers. As a result, in recent weeks Distant Shores has suffered vandalism and the owners have received threatening letters.
 
 #### Eomane House
 
-The four Eomane siblings are notorious throughout the Upper City for the scandalous masked revels hosted at their manor. Nysene Eomane, a lawful evil female human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md), likes to extend invitations to hopeful social climbers from other districts, intending to trap them at her parties. Lacking Watch tokens, Nysene's guests face a night in the Citadel's cells or worse if they're caught in the Upper City after dark. They therefore have little choice but to let her and her friends make cruel sport of them until they can escape at daybreak. As yet, none of Nysene's playthings have suffered any real harm, but her games grow ever bolder and more vicious, and it's only a matter of time until someone is seriously hurt.
+The four Eomane siblings are notorious throughout the Upper City for the scandalous masked revels hosted at their manor. Nysene Eomane, a lawful evil female human noble, likes to extend invitations to hopeful social climbers from other districts, intending to trap them at her parties. Lacking Watch tokens, Nysene's guests face a night in the Citadel's cells or worse if they're caught in the Upper City after dark. They therefore have little choice but to let her and her friends make cruel sport of them until they can escape at daybreak. As yet, none of Nysene's playthings have suffered any real harm, but her games grow ever bolder and more vicious, and it's only a matter of time until someone is seriously hurt.
 
 While Nysene's siblings—Dolandre, Rusorra, and Trenteller—view this behavior as embarrassing and unworthy of her station, they also don't care enough to stop her, since the victims are social inferiors whose welfare isn't worth interrupting their own revels. It's also likely that her siblings are in denial about the true extent of their sister's sadism. Some of the city's evil faiths have begun to take notice of Nysene's games, however, with Bane's faith seeing a talent worth cultivating in Eomane House.
 
@@ -712,7 +698,7 @@ Persistent rumors hold that a hidden treasure vault, guarded by clockwork monste
 
 #### Harbreeze Bakery
 
-Famous for its whimsically painted cinnamon cookies and sugarbread loaves, the Harbreeze Bakery is a cherished neighborhood institution. The shop makes good use of the vibrant commerce that runs through Baldur's Gate, showcasing rare spices in its wares and keeping a wide selection of exotic teas for its sophisticated clientele. It is a favorite place for patriars to gossip through the afternoon, and Ellyn Harbreeze, the plump redheaded proprietor (a lawful neutral female human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)), knows about every significant development in her clients' social circles. Anyone seeking society gossip is well advised to begin at the Harbreeze Bakery.
+Famous for its whimsically painted cinnamon cookies and sugarbread loaves, the Harbreeze Bakery is a cherished neighborhood institution. The shop makes good use of the vibrant commerce that runs through Baldur's Gate, showcasing rare spices in its wares and keeping a wide selection of exotic teas for its sophisticated clientele. It is a favorite place for patriars to gossip through the afternoon, and Ellyn Harbreeze, the plump redheaded proprietor (a lawful neutral female human spy), knows about every significant development in her clients' social circles. Anyone seeking society gossip is well advised to begin at the Harbreeze Bakery.
 
 #### Helm and Cloak
 
@@ -720,7 +706,7 @@ The Helm and Cloak draws an unusual mixture of well-heeled but unpretentious pat
 
 The establishment consists of two buildings joined as a single enterprise. The Helm is a rooming house with an entryway shadowed by an immense iron helm that supposedly belonged to a fire giant. The Cloak, slightly smaller, is signaled by the bright flutter of a Sunite cloak draped over its porch. Both buildings are decorated with adventuring trophies both exotic and mundane, including a bronze-horned marble unicorn bust in the Helm's common room. Its horn, which patrons often rub for good luck, is as shiny as the day it was made.
 
-The Helm and Cloak has long attracted idealistic sons and daughters from patriar families. For generations, these young romantics, taking the god Lurue as their inspiration, have called themselves the Knights of the Unicorn. Over time, what began as a light-hearted lark became a real force for good in the world, and several of the early knights achieved renown for their heroics. Today, the Knights of the Unicorn continue to call the Helm and Cloak their informal headquarters. The establishment is even run by two retired members, Vedren and Halesta (neutral good human [knights](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)). The couple's presence shapes the inn's clientele significantly, and the unicorn bust in the Helm's common room honors their origins in this place.
+The Helm and Cloak has long attracted idealistic sons and daughters from patriar families. For generations, these young romantics, taking the god Lurue as their inspiration, have called themselves the Knights of the Unicorn. Over time, what began as a light-hearted lark became a real force for good in the world, and several of the early knights achieved renown for their heroics. Today, the Knights of the Unicorn continue to call the Helm and Cloak their informal headquarters. The establishment is even run by two retired members, Vedren and Halesta (neutral good human knights). The couple's presence shapes the inn's clientele significantly, and the unicorn bust in the Helm's common room honors their origins in this place.
 
 #### High Hall
 
@@ -732,11 +718,11 @@ In addition to hosting trials, the High Hall holds libraries containing all loca
 
 Finally, the ground floor of the High Hall's easternmost wing contains a museum to the history of Baldur's Gate and a mausoleum for its many dukes and heroes. Statues of ancient notables, including Balduran himself, loom over caskets containing their dusty bones—or, in Balduran's case, a glass casket containing all that lingers from the city's vanished founder: the age-cracked remnants of his cloak, longsword, shield, and favorite spyglass.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/116-2goeq-06-06.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/116-2goeq-06-06.webp#center)
 
 #### High House of Wonders
 
-This vast workshop is the center of Gond's religion in Baldur's Gate. Every day, the anvils and worktables that fill the High House of Wonders ring with the clamor of hammer and saw. Under the scrutiny of the meticulous High Artificer Andar Beech, a neutral male human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md), inventors work alongside priests and acolytes beside masters of all disciplines. Because the creations in these workshops are largely experimental prototypes, they are not deemed fit for public view.
+This vast workshop is the center of Gond's religion in Baldur's Gate. Every day, the anvils and worktables that fill the High House of Wonders ring with the clamor of hammer and saw. Under the scrutiny of the meticulous High Artificer Andar Beech, a neutral male human priest, inventors work alongside priests and acolytes beside masters of all disciplines. Because the creations in these workshops are largely experimental prototypes, they are not deemed fit for public view.
 
 Gond's temple doesn't flourish in Baldur's Gate by simple happenstance. While there are certainly more industrious and academic cities along the Sword Coast, in few other places could Gond's faithful have access to more and rarer resources with less oversight. The city cares more about the clerics' innovations than the morality of those creations or how they came into being. Rumors claim that the High House of Wonders maintains a secret testing facility in or just outside the city.
 
@@ -746,11 +732,11 @@ Ostensibly, Gond's priests offer healing and other magical services to anyone wi
 
 The power of the Hhunes waxes and wanes like the moon, but other patriar families maintain a healthy fear of them because the Hhunes have powerful connections up and down the Sword Coast that could make life difficult for would-be rivals.
 
-The elderly widow Lutecia Hhune, a lawful evil female human [noble](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md), presides over this smallish manor. Lutecia has estranged siblings but no children, and faces the prospect of leaving her family home to a detested branch of the family when she dies. To prevent this, she has asked the librarians of the High Hall to search patriar genealogies for a more acceptable heir.
+The elderly widow Lutecia Hhune, a lawful evil female human noble, presides over this smallish manor. Lutecia has estranged siblings but no children, and faces the prospect of leaving her family home to a detested branch of the family when she dies. To prevent this, she has asked the librarians of the High Hall to search patriar genealogies for a more acceptable heir.
 
-Lutecia's request was assigned to a Guild-connected librarian named Virmele, a lawful evil female human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) who is entertaining bribes from Lower City merchants and underworld figures to fabricate a link to the Hhune family. More than the patriar estate itself is at stake, for Lutecia's late husband was an avid map collector and antiquarian whose personal library holds many rarities from far-off lands. Should Lutecia be cheated out of finding a proper heir, it is likely that both her family's legacy and the secrets hidden in her late husband's collection will fall into unscrupulous hands. On the other hand, if Virmele's corruption were exposed, the Guild might be irritated at the loss of a profitable scheme.
+Lutecia's request was assigned to a Guild-connected librarian named Virmele, a lawful evil female human spy who is entertaining bribes from Lower City merchants and underworld figures to fabricate a link to the Hhune family. More than the patriar estate itself is at stake, for Lutecia's late husband was an avid map collector and antiquarian whose personal library holds many rarities from far-off lands. Should Lutecia be cheated out of finding a proper heir, it is likely that both her family's legacy and the secrets hidden in her late husband's collection will fall into unscrupulous hands. On the other hand, if Virmele's corruption were exposed, the Guild might be irritated at the loss of a profitable scheme.
 
-Lutecia's valet is Kaddrus, a [cambion](/3-Mechanics/CLI/bestiary/fiend/cambion-xmm.md) that takes the form of a strikingly handsome man half her age. Kaddrus was sent by powerful nobles in Tethyr to protect the Hhune family's secrets, which include a connection to the Knights of the Shield, a secret society tied to the [Shield of the Hidden Lord](/3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md). This shield recently disappeared from the crypts under the Hhune estate, and Kaddrus is assisting efforts to get the shield back and punish those responsible for its theft. Lutecia is content to leave this task in his capable hands.
+Lutecia's valet is Kaddrus, a cambion that takes the form of a strikingly handsome man half her age. Kaddrus was sent by powerful nobles in Tethyr to protect the Hhune family's secrets, which include a connection to the Knights of the Shield, a secret society tied to the [Shield of the Hidden Lord](3-Mechanics/CLI/items/shield-of-the-hidden-lord-bgdia.md). This shield recently disappeared from the crypts under the Hhune estate, and Kaddrus is assisting efforts to get the shield back and punish those responsible for its theft. Lutecia is content to leave this task in his capable hands.
 
 #### Lady's Hall
 
@@ -764,13 +750,13 @@ Six stories high and built of weathered red brick in a cylindrical, pagoda-style
 
 Not long after the tower was completed, Ramazith died under suspicious circumstances. Some say he met his end after an ill-fated dalliance with a nymph, but rumors have always persisted that his death was linked to his unlikely ascent. One version holds that the nymph exacted revenge for some terrible crime Ramazith committed against her people to gain his power, while another rumor suggests his soul was itself the price of his bargain. Whatever the truth, Ramazith's tower stood empty for decades before it was acquired a few years ago by Lorroakan, a young and short-tempered mage known for having expensive tastes and a perpetual shortage of funds. Lorroakan hails from the city of Athkatla to the south, and local gossip holds that he's a disgraced Cowled Wizard who may even be a fugitive from the powerful House Selemchant in Amn.
 
-Lorroakan, a neutral male human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md), makes his living by enchanting clothes to repel moisture and mildew, a practical but humble pursuit that suggests his mastery of magic is not extensive. This, in turn, might explain why he has not reopened the tower's upper floors, confining his own activities to the first and a small portion of the second floor.
+Lorroakan, a neutral male human mage, makes his living by enchanting clothes to repel moisture and mildew, a practical but humble pursuit that suggests his mastery of magic is not extensive. This, in turn, might explain why he has not reopened the tower's upper floors, confining his own activities to the first and a small portion of the second floor.
 
 Lorroakan's ever-pressing need for money has led the mage to begin looking for hired hands who might be willing to venture into the long-shuttered heights of Ramazith's tower and uncover the secret of the late wizard's wealth. That Ramazith's secret may have brought him to an untimely end, and that Lorroakan is himself no more skilled—and perhaps significantly less so—than the tower's previous master does not seem to concern him.
 
 #### Rillyn House
 
-Though one of the most honorable patriar families in Baldur's Gate, the Rillyns fell into poverty a few generations ago. Only recently have they revived their fortunes, the credit for their newfound prosperity going squarely to Yvandre Rillyn, a neutral female human [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) who returned to Baldur's Gate after many years serving with the Flaming Fist and other mercenary companies—a career that began in rebellion against her stodgy family.
+Though one of the most honorable patriar families in Baldur's Gate, the Rillyns fell into poverty a few generations ago. Only recently have they revived their fortunes, the credit for their newfound prosperity going squarely to Yvandre Rillyn, a neutral female human veteran who returned to Baldur's Gate after many years serving with the Flaming Fist and other mercenary companies—a career that began in rebellion against her stodgy family.
 
 Realizing that her family needed a long term source of financial support, Yvandre opened a sword-wielding school in a guest house adjoining her family's estate. The Rillyn School is about to graduate its first class of students, all of whom have trained with Yvandre for at least five years and have won her approval with their skill. As Yvandre is a hard teacher, this is an impressive feat, and her students are justly proud. She hopes that they'll spread her name throughout the region and win acclaim for the school. In the meantime, she continues to enroll young students, keeping those with promise and weeding out the rest. Some of those who failed to make the cut, embittered by their perceived humiliation, nurse grudges against Yvandre and her house.
 
@@ -778,7 +764,7 @@ Realizing that her family needed a long term source of financial support, Yvandr
 
 Named for its sign, three lashed-together barrels hanging from a pole, the Three Old Kegs is popular with current and retired members of the Flaming Fist. It serves simple and hearty meals, keeps a variety of good-quality but inexpensive wines and beers, and tolerates no rowdiness among its clientele. Rooms are available for both short- and long-term stays, and the Three Old Kegs offers laundry, mending, repair, and sharpening services to its guests. Its reasonable prices and welcoming atmosphere have led several retired Flaming Fist mercenaries to adopt the place as a full-time residence. These long-term regulars act as additional security, making the Three Old Kegs one of the safest places for visitors to stay in Baldur's Gate.
 
-The proprietors, three wart-covered brothers in their late fifties known collectively as the "Three Old Toads," are named Alstan, Brunkhum, and Klalbrot Wintersides—all neutral good male human [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md). The Three Old Toads are known to be soft touches for a sob story. All the cooks and servers at the Three Old Kegs are Flaming Fist widows and orphans, and the tavern regularly hosts fundraisers for the families of those crippled or killed in service. However, the brothers' kindness is not matched by their discernment, and the Three Old Toads frequently fall victim to grifters. Several times, these con artists have stolen enough money to threaten the Three Old Kegs with bankruptcy, and the brothers have been forced to find outside help to recover their lost funds and keep the tavern solvent.
+The proprietors, three wart-covered brothers in their late fifties known collectively as the "Three Old Toads," are named Alstan, Brunkhum, and Klalbrot Wintersides—all neutral good male human commoners. The Three Old Toads are known to be soft touches for a sob story. All the cooks and servers at the Three Old Kegs are Flaming Fist widows and orphans, and the tavern regularly hosts fundraisers for the families of those crippled or killed in service. However, the brothers' kindness is not matched by their discernment, and the Three Old Toads frequently fall victim to grifters. Several times, these con artists have stolen enough money to threaten the Three Old Kegs with bankruptcy, and the brothers have been forced to find outside help to recover their lost funds and keep the tavern solvent.
 
 #### The Undercellar
 
@@ -790,7 +776,7 @@ However, those in search of more serious danger can generally find it. Several g
 
 In addition to harboring illicit businesses, the Undercellar is rumored to run throughout much of the Upper City. Its secret tunnels wind beneath numerous patriar manors, banks, businesses, and even the High Hall itself, connecting through false walls in wine cellars and basements throughout the district. Some of the walls are supposedly thin enough for an eavesdropper to overhear all manner of sensitive plans and scandalous liaisons.
 
-A gaunt, bearded man named Heltur "Ribbons" Ribbond, a neutral evil male human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md), rules the Undercellar with an oily, too-affable manner and a wide grin that only makes his scar-seamed face more menacing. Ribbons has never been seen to lose his temper, even when hurling knives and bottles with deadly accuracy at unruly guests. It's taken as an article of faith that he must be a kingpin or otherwise high-placed within the Guild.
+A gaunt, bearded man named Heltur "Ribbons" Ribbond, a neutral evil male human assassin, rules the Undercellar with an oily, too-affable manner and a wide grin that only makes his scar-seamed face more menacing. Ribbons has never been seen to lose his temper, even when hurling knives and bottles with deadly accuracy at unruly guests. It's taken as an article of faith that he must be a kingpin or otherwise high-placed within the Guild.
 
 #### Unrolling Scroll
 
@@ -806,7 +792,7 @@ Duke Vanthampur can't stand the rank gossip that hangs in the air of the Manorbo
 
 The Upper City's guard force uses the Watch Citadel as training grounds, barracks, and organizational offices. A stable holds the Watch's warhorses, while a few jail cells can host ordinary prisoners awaiting transport to trials in the High Hall or prison in the Seatower of Balduran.
 
-High Constable and Master of Walls Osmurl Havanack, a lawful neutral male shield dwarf [veteran](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md) with a deep loyalty to his constables and no taste for city politics, functions as the Watch Citadel's castellan. Havanack ensures that the Citadel is provisioned, that pay is correctly disbursed by the purse master, and that the Citadel and Old Wall are properly maintained. He also disciplines Watch soldiers accused of misdeeds—accusations that he takes very seriously and does his best to investigate. High Constable Havanack is known to have no tolerance for misconduct in his ranks, but he is only one person, and much escapes his notice.
+High Constable and Master of Walls Osmurl Havanack, a lawful neutral male shield dwarf veteran with a deep loyalty to his constables and no taste for city politics, functions as the Watch Citadel's castellan. Havanack ensures that the Citadel is provisioned, that pay is correctly disbursed by the purse master, and that the Citadel and Old Wall are properly maintained. He also disciplines Watch soldiers accused of misdeeds—accusations that he takes very seriously and does his best to investigate. High Constable Havanack is known to have no tolerance for misconduct in his ranks, but he is only one person, and much escapes his notice.
 
 From the Citadel, the Watch runs regular patrols through the Upper City and staffs the Old Wall, day and night. Many Watch officers are patriars themselves, hailing from families with a long and proud tradition of service to Baldur's Gate. As most live in the Upper City, members of the Watch are familiar with the city's patriars and possess a well-developed ability to spot pretenders. Many Watch members interact with citizens from the other districts only at the gates, and then usually under tense and stressful circumstances that foster jaundiced views.
 
@@ -826,7 +812,7 @@ By law, all commercial buying and selling not done in a licensed and taxed estab
 
 In the hours between, the Wide hosts a vibrant, crowded market where fortune-tellers and con artists sit beside dealers hawking spices, fish, furs, perfumes, and every other luxury good to be found across the continent and beyond. Despite its crowds, the Wide is well regulated, the Watch keeping a sharp eye out for pickpockets. Street musicians are forbidden on pain of heavy fines and expulsion from the market, so the Wide proves more subdued than the chaotic markets of the Outer City. Quiet performers, such as puppeteers and sleight-of-hand tricksters, are common.
 
-Jedren Hiller, the Bailiff of the Wide, is a lawful evil male human [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) who assigns stall placements to merchants each morning. Longtime regulars and merchants who reside in the Upper City get most of the prime placements, while those who are less established—or stingy with Hiller's expected bribes—get undesirable places in the less trafficked corners. The bailiff's corruption is legendary in Baldur's Gate, but few merchants see any alternative to greasing his palms, particularly as the profits from a good day's trade vastly outweigh the losses.
+Jedren Hiller, the Bailiff of the Wide, is a lawful evil male human bandit who assigns stall placements to merchants each morning. Longtime regulars and merchants who reside in the Upper City get most of the prime placements, while those who are less established—or stingy with Hiller's expected bribes—get undesirable places in the less trafficked corners. The bailiff's corruption is legendary in Baldur's Gate, but few merchants see any alternative to greasing his palms, particularly as the profits from a good day's trade vastly outweigh the losses.
 
 ##### Statue of Minsc and Boo
 
@@ -856,7 +842,7 @@ General wealth, predominant profession, and traditions divide the Lower City int
 
 **Brampton**. The easternmost Lower City neighborhood, Brampton is notoriously poor, its location making it the worst for residents seeking to serve Upper City denizens—but the best for smuggling in untaxed goods from Rivington.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/117-z1ykj-06-07.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/117-z1ykj-06-07.webp#center)
 
 **Eastway**. Home to the Basilisk Gate, Eastway is the city's primary gateway to the Outer City and the world beyond, catering to travelers with its profusion of inns, porters, and caravan supplies, as well as to Outer City residents looking for reasonably priced Lower City luxuries. The flow of travelers and strangers through this neighborhood makes it one of the most dangerous parts of the city, as criminals prey on those unfamiliar with the city and without local ties to avenge them.
 
@@ -876,8 +862,6 @@ Unless there's active conflict between two crews, most members are content to wo
 
 **Lower City Random Encounters**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^lower-city-random-encounters)`
-
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–6 | No encounter |
@@ -887,8 +871,6 @@ Unless there's active conflict between two crews, most members are content to wo
 ^lower-city-random-encounters
 
 **Table D: Lower City Harmless Interactions**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^table-d-lower-city-harmless-interactions)`
 
 | dice: d12 | Interaction |
 |-----------|-------------|
@@ -908,38 +890,34 @@ Unless there's active conflict between two crews, most members are content to wo
 
 **Table E: Lower City Denizens**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-e-lower-city-denizens)`
-
 | dice: d10 | Denizens |
 |-----------|----------|
-| 1 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) gang members or pirates (both [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) |
-| 2 | `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) crass merchants ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [kenku](/3-Mechanics/CLI/bestiary/monstrosity/kenku-xmm.md) minding their own business |
-| 4 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) angry crew members ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) protesting the Flaming Fist's brutality |
-| 5 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Flaming Fist soldiers ([veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) on patrol |
-| 6 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) Guild pickpockets ([spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) |
-| 7 | `dice:1d8\|noform\|noparens\|avg` (`1d8`) beggars ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 8 | 1 Baldur's Mouth reporter ([commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 9 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) patriars ([nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) and `dice:3d6\|noform\|noparens\|avg` (`3d6`) bodyguards ([thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) |
-| 10 | 1 Guild kingpin ([bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)) and `dice:2d6\|noform\|noparens\|avg` (`2d6`) operatives ([bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)) |
+| 1 | `2d6` gang members or pirates (both thugs) |
+| 2 | `1d4 + 1` crass merchants (commoners) |
+| 3 | `1d6` kenku minding their own business |
+| 4 | `3d6` angry crew members (commoners) protesting the Flaming Fist's brutality |
+| 5 | `2d4` Flaming Fist soldiers (veterans) on patrol |
+| 6 | `1d4` Guild pickpockets (spies) |
+| 7 | `1d8` beggars (commoners) |
+| 8 | 1 Baldur's Mouth reporter (commoner) |
+| 9 | `1d4` patriars (nobles) and `3d6` bodyguards (thugs) |
+| 10 | 1 Guild kingpin (bandit captain) and `2d6` operatives (bandits) |
 ^table-e-lower-city-denizens
 
 **Table F: Lower City Threats**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-f-lower-city-threats)`
-
 | dice: d10 | Threat |
 |-----------|--------|
-| 1 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [swarms of rats](/3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md) |
-| 2 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [invisible](/3-Mechanics/CLI/conditions.md#Invisible) [imps](/3-Mechanics/CLI/bestiary/fiend/imp-xmm.md) |
+| 1 | `1d4` swarms of rats |
+| 2 | `1d4` invisible imps |
 | 3 | Dead Three abduction squad (see the "More Dead Three Encounters" sidebar) |
 | 4 | Dead Three murder squad (see the "More Dead Three Encounters" sidebar) |
-| 5 | Press gang of `dice:1d4+1\|noform\|noparens\|avg` (`1d4 + 1`) [half-ogres](/3-Mechanics/CLI/bestiary/giant/ogrillon-ogre-xmm.md) |
-| 6 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) Guild operatives ([spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) |
-| 7 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) street brawlers ([thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) |
-| 8 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) Flaming Fist mercenaries ([veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) who don't like the look of adventurers |
-| 9 | 1 [ghost](/3-Mechanics/CLI/bestiary/undead/ghost-xmm.md) from Harborside Hospital |
-| 10 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [mimics](/3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md) posing as cargo |
+| 5 | Press gang of `1d4 + 1` half-ogres |
+| 6 | `1d6` Guild operatives (spies) |
+| 7 | `2d4` street brawlers (thugs) |
+| 8 | `1d6` Flaming Fist mercenaries (veterans) who don't like the look of adventurers |
+| 9 | 1 ghost from Harborside Hospital |
+| 10 | `1d4` mimics posing as cargo |
 ^table-f-lower-city-threats
 
 ### Lower City Gazetteer
@@ -950,17 +928,17 @@ Presented below in alphabetical order are some of the most noteworthy Lower City
 
 Patronized by all levels of society, Baldur's Mouth is the city's primary news service and gossip rag. Utilizing a small army of lantern bearers, the Mouth spreads news both by selling broadsheets on street corners and by shouting summaries of top stories at passersby. From the slums of the Outer City to the finest manor house sitting rooms, the Mouth is where Baldurians go to be informed, incited, and pleasantly scandalized. While some of the news—such as word of new laws passed by the Council of Four or official election results—is handed down directly by the government, most comes from freelance journalists, and official pronouncements often sit side by side with scathing editorials or unflattering political cartoons of those same officials.
 
-Ettvard Needle, a chaotic good male human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), runs the operation from a surprisingly modest converted warehouse in Heapside. The son of an established Lower City tailor, he had always rankled at the way Lower City residents were treated by haughty patriars, and started Baldur's Mouth as a way to empower the city's poor via what he saw as the greatest weapon of social change: information. In the beginning, he simply paid local lantern bearers to shout his stories of upper-crust injustices, but as enthusiasm for the practice built and more people began bringing him information, he began writing the stories down for his distributors—teaching many of them to read in the process—and then selling the notes directly. Today, Needle prints his broadsheets by the cartload, aided by mechanical scribes purchased from the Hall of Wonders and funded by advertisements from merchants across the city.
+Ettvard Needle, a chaotic good male human commoner, runs the operation from a surprisingly modest converted warehouse in Heapside. The son of an established Lower City tailor, he had always rankled at the way Lower City residents were treated by haughty patriars, and started Baldur's Mouth as a way to empower the city's poor via what he saw as the greatest weapon of social change: information. In the beginning, he simply paid local lantern bearers to shout his stories of upper-crust injustices, but as enthusiasm for the practice built and more people began bringing him information, he began writing the stories down for his distributors—teaching many of them to read in the process—and then selling the notes directly. Today, Needle prints his broadsheets by the cartload, aided by mechanical scribes purchased from the Hall of Wonders and funded by advertisements from merchants across the city.
 
-Though beholden to advertisers and tacitly sanctioned by the city government, the Mouth has never lost its populist bent. Needle carefully ensures that the paper is useful enough to the government that it's never in their interest to shut it down, yet devotes the rest of the paper to news the government might prefer hushed up, from aristocratic scandal and evidence of corruption to straight talk about various threats to the city, always with a healthy dose of anti-elite rhetoric. His editorials have a particular soft spot for his friend [Rilsa Rael](/3-Mechanics/CLI/bestiary/npc/rilsa-rael-bgdia.md), the Guild kingpin of Little Calimshan. While Needle loathes the Guild, he sees in Rilsa's egalitarian tendencies the potential for a hero of the people, and naively hopes she'll transform the Guild from a predatory criminal organization into a community police force serving the city's downtrodden.
+Though beholden to advertisers and tacitly sanctioned by the city government, the Mouth has never lost its populist bent. Needle carefully ensures that the paper is useful enough to the government that it's never in their interest to shut it down, yet devotes the rest of the paper to news the government might prefer hushed up, from aristocratic scandal and evidence of corruption to straight talk about various threats to the city, always with a healthy dose of anti-elite rhetoric. His editorials have a particular soft spot for his friend [Rilsa Rael](3-Mechanics/CLI/bestiary/npc/rilsa-rael-bgdia.md), the Guild kingpin of Little Calimshan. While Needle loathes the Guild, he sees in Rilsa's egalitarian tendencies the potential for a hero of the people, and naively hopes she'll transform the Guild from a predatory criminal organization into a community police force serving the city's downtrodden.
 
 Baldur's Mouth is a prime source of opportunity for adventurers in the city, as Needle is always looking to hire daring "investigative reporters" willing to investigate rumors of strange happenings or procure proof of corruption by the city's elite. Even just reading the broadsheet can present adventure opportunities via advertisements recruiting mercenaries, half-substantiated reports of monster attacks ignored by the Flaming Fist, and more. And of course, should adventurers succeed or fail in some high-profile venture, they might just find caricatures of themselves and stories of their exploits in the Mouth's latest edition.
 
 #### Blade and Stars
 
-This comfortable inn was named for its original sign, an enchanted wooden shield. Painted black, the circular shield displayed an image of a curved silver saber gripped by a pale, slender arm. An enchantment on the shield caused glimmering, starlike motes of light to sparkle along the saber's blade. The former innkeeper of the Blade and Stars, a chaotic neutral half-orc [bandit](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) named Aurayaun, used to insist that the illusory effect was the shield's only magic, and that it did exactly what she intended it to do: draw in business.
+This comfortable inn was named for its original sign, an enchanted wooden shield. Painted black, the circular shield displayed an image of a curved silver saber gripped by a pale, slender arm. An enchantment on the shield caused glimmering, starlike motes of light to sparkle along the saber's blade. The former innkeeper of the Blade and Stars, a chaotic neutral half-orc bandit named Aurayaun, used to insist that the illusory effect was the shield's only magic, and that it did exactly what she intended it to do: draw in business.
 
-Still, it appears that there's more to the shield's story, for recently both Aurayaun and the shield disappeared. Since then, Aurayaun's worried wife Lupin, a chaotic good female human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), has been running the inn and loudly expressing her belief that the disappearance is the result of foul play. What kind of foul play, she has no idea.
+Still, it appears that there's more to the shield's story, for recently both Aurayaun and the shield disappeared. Since then, Aurayaun's worried wife Lupin, a chaotic good female human commoner, has been running the inn and loudly expressing her belief that the disappearance is the result of foul play. What kind of foul play, she has no idea.
 
 While Aurayaun was quiet about her past, she had no enemies that Lupin knew about. Lupin furiously rejects the Flaming Fist's conclusion that her wife simply abandoned her. A local vagrant claims to have seen Aurayaun climb up and remove the sign-shield late on the night she went missing, then vanish into an alley with a cloaked figure. Since then, though, Lupin has received parcels containing pieces of the shattered shield, each bearing a tiny constellation upon it. Lupin is convinced it's a map, but to where, and whether that destination is terrestrial or the heavens she doesn't know. She's willing to pay to find out, though.
 
@@ -968,25 +946,25 @@ While Aurayaun was quiet about her past, she had no enemies that Lupin knew abou
 
 Infamous up and down the Sword Coast, the Blushing Mermaid is known as the best tavern and inn in Baldur's Gate for those looking to get their teeth kicked in, or to kick in someone else's. Always one spilled drink away from a brawl, the bar is the sort of place most don't visit unless they're well-armed or with a lot of friends—preferably both. The place takes its name from the life-sized wooden mermaid hanging above the incongruous reception desk, a dozen blackened and withered hands nailed to its body—souvenirs left by those who refused to pay their bill.
 
-Beyond the combination lobby and common room, the Blushing Mermaid is a confusing maze of wings and oddly interconnected floors, hiding dozens of small and shabby rooms and at least four levels of cellars. Few people bother to sleep at the Mermaid, due in part to its operators' loud pronouncement that they aren't responsible for any losses, including those of life and limb. Instead, its plethora of back rooms and antechambers act as de facto offices for the menagerie of shady characters who spend their days drinking here. Ostensibly retired sailors, the bar's regulars are in fact contacts for a variety of unsavory organizations, from smugglers and bandits to fences, drug dealers, and panderers. Some work for the Guild, others for operations all along the Sword Coast. Those looking to do business with the Gate's underworld find that a handful of silver in the Mermaid can open doors, but the wrong word can find you dumped [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) in the alley out back. While the Mermaid's criminal aspects are an open secret, the place is well connected enough that the Flaming Fist traditionally leaves it alone.
+Beyond the combination lobby and common room, the Blushing Mermaid is a confusing maze of wings and oddly interconnected floors, hiding dozens of small and shabby rooms and at least four levels of cellars. Few people bother to sleep at the Mermaid, due in part to its operators' loud pronouncement that they aren't responsible for any losses, including those of life and limb. Instead, its plethora of back rooms and antechambers act as de facto offices for the menagerie of shady characters who spend their days drinking here. Ostensibly retired sailors, the bar's regulars are in fact contacts for a variety of unsavory organizations, from smugglers and bandits to fences, drug dealers, and panderers. Some work for the Guild, others for operations all along the Sword Coast. Those looking to do business with the Gate's underworld find that a handful of silver in the Mermaid can open doors, but the wrong word can find you dumped unconscious in the alley out back. While the Mermaid's criminal aspects are an open secret, the place is well connected enough that the Flaming Fist traditionally leaves it alone.
 
 #### Candulhallow's Funeral Arrangements
 
 For as long as anyone can remember, the moon elves of the Candulhallow family have managed the city's small fleet of corpse carts. Though family members rarely push carts themselves anymore, their terse agents are a constant sight around the city, picking up the dead and using hand-drawn wagons to haul their shrouded loads to the Shrine of the Suffering or outlying cemeteries, funded by city stipends and tips from grieving loved ones.
 
-In secret, the Candulhallows have grown quietly rich off a variety of death-related scams. Chief among these is a secret smuggling arrangement with [Nine-Fingers Keene](/3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) to conceal contraband in corpses' funeral wrappings, which the guards and toll collectors never check. Even less savory is the harvesting and sale of corpses or their parts for the city's cultists and necromancers. Chief among these latter customers is the family matriarch, Leylenna Candulhallow, a neutral evil female moon elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) who takes the choicest and rarest of the deceased for her experiments, replacing them with pauper's corpses and weighted coffins. Should any of the family's misdealing come to light, it would doubtlessly shock the city to the core and potentially force Leylenna to reveal the elaborate necromantic masterpiece—an evolution of both art and life—that she's been slowly patching together for months in her basement.
+In secret, the Candulhallows have grown quietly rich off a variety of death-related scams. Chief among these is a secret smuggling arrangement with [Nine-Fingers Keene](3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) to conceal contraband in corpses' funeral wrappings, which the guards and toll collectors never check. Even less savory is the harvesting and sale of corpses or their parts for the city's cultists and necromancers. Chief among these latter customers is the family matriarch, Leylenna Candulhallow, a neutral evil female moon elf mage who takes the choicest and rarest of the deceased for her experiments, replacing them with pauper's corpses and weighted coffins. Should any of the family's misdealing come to light, it would doubtlessly shock the city to the core and potentially force Leylenna to reveal the elaborate necromantic masterpiece—an evolution of both art and life—that she's been slowly patching together for months in her basement.
 
 #### Counting House
 
 This thick-walled fortress of commerce has been a center of trade in Baldur's Gate for centuries, acting as the primary location for banking and currency exchange.
 
-As much a bunker as a bank, the Counting House squats on the waterfront, its two windowless upper stories heavily guarded. Most ordinary patrons never make it past the ground-level offices, yet the majority of the Counting House stretches below, extending down into the mud like a cylindrical stone taproot. Here are the building's legendary vaults, where the city's patriars and merchants from across the world store items too valuable to be trusted to lesser security. Only the most vetted of humanoid guards are allowed in the Counting House's depths. Instead, [stone golems](/3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) patrol the twisting lower corridors, while [water elementals](/3-Mechanics/CLI/bestiary/elemental/water-elemental-xmm.md) circle the outside in flooded channels, keeping thieves from tunneling into the magically warded vaults.
+As much a bunker as a bank, the Counting House squats on the waterfront, its two windowless upper stories heavily guarded. Most ordinary patrons never make it past the ground-level offices, yet the majority of the Counting House stretches below, extending down into the mud like a cylindrical stone taproot. Here are the building's legendary vaults, where the city's patriars and merchants from across the world store items too valuable to be trusted to lesser security. Only the most vetted of humanoid guards are allowed in the Counting House's depths. Instead, stone golems patrol the twisting lower corridors, while water elementals circle the outside in flooded channels, keeping thieves from tunneling into the magically warded vaults.
 
-A lawful evil gold dwarf named Rakath Glitterbeard ([bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md)) acts as the bank's proprietor and key treasurer of the city's banking crew, the Honorable Order of Moneylenders. More importantly, he's also the Guild kingpin for the Steeps, controlling the lesser loan sharks and knee-cappers who cater to the city's more desperate credit risks, along with its outright thieves. Stolen treasures from innumerable heists reside in the Counting House's vaults alongside legitimate deposits, protected by the bank's walls and Rakath's web of political influence and predatory loans. Between the dwarf's sinister reputation and the bank's legendary security, few thieves would even contemplate trying to crack the Counting House—but anyone who succeeded would likely be set for life.
+A lawful evil gold dwarf named Rakath Glitterbeard (bandit captain) acts as the bank's proprietor and key treasurer of the city's banking crew, the Honorable Order of Moneylenders. More importantly, he's also the Guild kingpin for the Steeps, controlling the lesser loan sharks and knee-cappers who cater to the city's more desperate credit risks, along with its outright thieves. Stolen treasures from innumerable heists reside in the Counting House's vaults alongside legitimate deposits, protected by the bank's walls and Rakath's web of political influence and predatory loans. Between the dwarf's sinister reputation and the bank's legendary security, few thieves would even contemplate trying to crack the Counting House—but anyone who succeeded would likely be set for life.
 
 #### Eastway Expeditions
 
-Eastway Expeditions used to buy dubious exploration and dungeon-delving gear on the cheap—often from hollow-eyed early retirees—before marking it up to sell to optimistic would-be heroes. Scalm Shilvin, a neutral female tiefling [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), is the shop's slick, tail-coat-wearing tiefling proprietor. She made a decent living from her business, but all that changed when Baldur's Gate forged a lucrative trade alliance with the merchant princes of Port Nyanzaru in Chult.
+Eastway Expeditions used to buy dubious exploration and dungeon-delving gear on the cheap—often from hollow-eyed early retirees—before marking it up to sell to optimistic would-be heroes. Scalm Shilvin, a neutral female tiefling spy, is the shop's slick, tail-coat-wearing tiefling proprietor. She made a decent living from her business, but all that changed when Baldur's Gate forged a lucrative trade alliance with the merchant princes of Port Nyanzaru in Chult.
 
 Shilvin quickly capitalized on the growing interest in Chult, outfitting droves of green adventurers and directing them aboard ships headed south. Most never returned—leaving her uncertain of whether any of her "jungle-proof" or "dinosaur-deterring" equipment worked as she'd marketed. Eventually the local government got involved after several overly ambitious patriar scions vanished on ventures hastily outfitted by Eastway Expeditions. Now Shilvin can sell her modest selection of goods and any jungle-related gear only after a ten-day waiting period, helping to ensure that fewer citizens rush off to Chult unprepared. To make up for the resulting loss of business, Shilvin has made connections with several trading (and piratical) ventures in regular need of crew. Eastway Expeditions has since gained a low-key reputation for helping people get out of the city fast, so long as they don't care overly much where they go.
 
@@ -998,17 +976,17 @@ For more information about this establishment, see chapter 1.
 
 #### Felogyr's Fireworks
 
-This four-story stone structure constantly streams smoke of unusual colors from various vents and chimneys. From the elaborate showroom spanning the bottom two floors, alchemist Avery Sonshal (neutral male human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)) maintains his family's longstanding monopoly on smokepowder production in Baldur's Gate.
+This four-story stone structure constantly streams smoke of unusual colors from various vents and chimneys. From the elaborate showroom spanning the bottom two floors, alchemist Avery Sonshal (neutral male human mage) maintains his family's longstanding monopoly on smokepowder production in Baldur's Gate.
 
-While smokepowder is reserved for the Council of Four and Gond's High House of Wonders, the shop sells a variety of lesser alchemical items to the public, from torches with colored flames to smoke grenades and fireworks, some of them enhanced with harmless illusions. While the windowless workshop filling the building's upper two stories is strictly off-limits, its stairwell blocked by a massive iron vault door and a [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) hired from the Bannerless Legion, the mutton-chopped Avery is usually happy to chat with customers and other alchemical enthusiasts on the lower floors.
+While smokepowder is reserved for the Council of Four and Gond's High House of Wonders, the shop sells a variety of lesser alchemical items to the public, from torches with colored flames to smoke grenades and fireworks, some of them enhanced with harmless illusions. While the windowless workshop filling the building's upper two stories is strictly off-limits, its stairwell blocked by a massive iron vault door and a thug hired from the Bannerless Legion, the mutton-chopped Avery is usually happy to chat with customers and other alchemical enthusiasts on the lower floors.
 
 At the moment, however, Avery is visibly troubled. Recently, someone managed to break into the upper workshop while he was sleeping and steal four kegs of smokepowder. In their place, he found a drawing of a phoenix. Avery is terrified of what the thieves might do with the powder—he's all too aware that someone with that much smokepowder could blow up a portion of the High Hall, Wyrm's Rock, or any number of other fortifications. Yet as horrifying as he finds those possibilities, he seems more concerned about himself: smokepowder security is his responsibility, and he can't tell the city government about the theft without getting punished for negligence. Yet if he keeps quiet and the thieves use the powder, he'll obviously be implicated. The only solution is to hire someone discreet and trustworthy to track down and recover the missing kegs of smokepowder before it's too late.
 
-If smokepowder is set on fire, dropped, or otherwise handled roughly, it explodes and deals fire damage to each creature or object within 20 feet of it: `dice:1d6|noform|noparens|avg` (`1d6`) for a handful, `dice:9d6|noform|noparens|avg` (`9d6`) for a keg. A successful DC 12 Dexterity saving throw halves the damage. Casting [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md) on smokepowder renders it permanently inert.
+If smokepowder is set on fire, dropped, or otherwise handled roughly, it explodes and deals fire damage to each creature or object within 20 feet of it: `1d6` for a handful, `9d6` for a keg. A successful DC 12 Dexterity saving throw halves the damage. Casting dispel magic on smokepowder renders it permanently inert.
 
 #### Garmult's House of Mastery
 
-Part school and part alehouse, this wide three-story building leans precariously over the street in Eastway. Run by an old, agender martial artist named Garmult (neutral good human [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md)), the House of Mastery offers both martial training of all sorts for the city's would-be warriors and a central hangout for the Bannerless Legion crew. Garmult assists crew leader Dezri "Guts" Lamouer in matching clients with mercenaries. They also hire members to teach classes in the building's open-air atrium while other members lounge on the overlooking balconies. At any given time, there's usually multiple veteran mercenaries here swapping stories and waiting for contracts.
+Part school and part alehouse, this wide three-story building leans precariously over the street in Eastway. Run by an old, agender martial artist named Garmult (neutral good human gladiator), the House of Mastery offers both martial training of all sorts for the city's would-be warriors and a central hangout for the Bannerless Legion crew. Garmult assists crew leader Dezri "Guts" Lamouer in matching clients with mercenaries. They also hire members to teach classes in the building's open-air atrium while other members lounge on the overlooking balconies. At any given time, there's usually multiple veteran mercenaries here swapping stories and waiting for contracts.
 
 While anyone can pay Garmult to study in the House of Mastery, only those who've earned membership in the Bannerless Legion are welcome to socialize and find work here. Those who come around looking for such things are challenged to a friendly sparring match in the atrium, usually with Garmult. If they impress Garmult, they're welcomed with a laugh and a firm handshake, at which point Garmult is happy to hook the new members up with bodyguarding contracts and other work, taking only a nominal finder's fee. Though not everyone in the Legion is as welcoming of new members, Garmult allows only consensual, nonlethal sparring within their establishment. Few members challenge Garmult's authority for risk of missing out on future contracts.
 
@@ -1022,19 +1000,19 @@ It perhaps says something about Baldur's Gate that city officials decided to bui
 
 This low stone bathhouse in the Seatower neighborhood is one of the oldest buildings in the area. Built in the Chessentan style, it features heated pools, echoing halls, and gorgeous tile mosaics.
 
-The Hissing Stones hold a special niche in Baldurian politics due to its status as a neutral, safe, and private meeting place. Its longtime proprietor, a neutral female moon elf [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md) named Merilyn Allaryr, ensures that clients enter the baths bearing nothing but the thin robes she provides, leaving all weapons and other possessions with her. Merilyn's reputation, and that of her highly capable attendants, is formidable enough that even rival crews or businesses engaged in the tensest of negotiations never violate the house's rule against violence.
+The Hissing Stones hold a special niche in Baldurian politics due to its status as a neutral, safe, and private meeting place. Its longtime proprietor, a neutral female moon elf spy named Merilyn Allaryr, ensures that clients enter the baths bearing nothing but the thin robes she provides, leaving all weapons and other possessions with her. Merilyn's reputation, and that of her highly capable attendants, is formidable enough that even rival crews or businesses engaged in the tensest of negotiations never violate the house's rule against violence.
 
 This establishment's commitment to discretion also makes the bathhouse the prime venue for paid companionship in the Lower City. Many of the most sought-after courtesans meet their patrons in the Hissing Stones' steamy private rooms, trusting to Merilyn's silence and the house's reputation for business meetings to deflect the suspicion of jealous spouses or gossipy wags. Unlike Merilyn, the Reveler's Union—the city-spanning crew of night-workers—isn't averse to selling secrets teased from the bathhouse's clients, and those looking to purchase such information need only whisper in the right ear here. Though this dichotomy keeps Merilyn herself from officially joining the Union, the crew uses the location as its de facto headquarters, regularly renting out and conducting meetings in its vast central pool.
 
 #### Insight Park
 
-Forty years ago, an lawful neutral shield dwarf [druid](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) named Torimesh arrived home in the city after decades of adventuring abroad and purchased this small portion of the hillside. Too steep to build on, the area had long been an illegal junkyard, with locals standing atop a rocky promontory and dumping their refuse over the edge of the embankment. Instead of clearing the debris away, Torimesh used magic to nurture the local plants, causing a forest of green to grow up over the garbage, rusting away debris and creating soft lawns and thickets shot through with small recesses and tunnels where the old refuse had piled high. This revamped space he dedicated as a public park, arguing that the poor need to feel nature's touch just as much as rich patriars with their manicured gardens. Torimesh himself lives in a tiny hut backed against the jutting outcropping still known as Dumper's Rock.
+Forty years ago, an lawful neutral shield dwarf druid named Torimesh arrived home in the city after decades of adventuring abroad and purchased this small portion of the hillside. Too steep to build on, the area had long been an illegal junkyard, with locals standing atop a rocky promontory and dumping their refuse over the edge of the embankment. Instead of clearing the debris away, Torimesh used magic to nurture the local plants, causing a forest of green to grow up over the garbage, rusting away debris and creating soft lawns and thickets shot through with small recesses and tunnels where the old refuse had piled high. This revamped space he dedicated as a public park, arguing that the poor need to feel nature's touch just as much as rich patriars with their manicured gardens. Torimesh himself lives in a tiny hut backed against the jutting outcropping still known as Dumper's Rock.
 
 The main appeal of Insight Park is the Drawing Tree. Planted by Torimesh and grown to full-size in a matter of days, the tree is of a species no one can identify, and Torimesh steadfastly refuses to say anything about its origins, yet everyone knows its power. When properly entreated by Torimesh, the tree's red bark cracks and curls like parchment. Pulling it carefully away reveals a prophetic scene rendered in bloody sap. These arboreal visions of the future are often cryptic, yet inevitably come to pass. As much as the city's elite would love to harness this power, anyone else attempting to peel the tree's bark or force a prophecy reveals only bark and sends Torimesh into a near-murderous rage. For his part, the druid refuses to work for money, peeling off prophecies only according to the unspoken whims of the tree, or in exchange for bizarre and dangerous favors.
 
 #### Jopalin's
 
-After taking over from his father, a neutral evil male half-elf [thug](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) named Jopalin transitioned this building from a seedy dockside tavern to a thriving, upscale teahouse. Many were shocked by the growth of such a sophisticated establishment among the port's lowbrow customers, but no one can deny the addictive nature of the half-elf proprietor's special blend. Jopalin includes sable moonflower leaves in his tea, creating a subtle, slow-building addiction among those who drink it. Many never realize what's happening, knowing only that they deeply crave his tea above all others, and for those who do uncover the scam, it's often too late, leaving them with no choice but to keep coming back. Jopalin personally watches over the customers and ensures that only those who seem vulnerable get the "special" tea, avoiding suspicion from any who might decide to fight back if the truth were to come out.
+After taking over from his father, a neutral evil male half-elf thug named Jopalin transitioned this building from a seedy dockside tavern to a thriving, upscale teahouse. Many were shocked by the growth of such a sophisticated establishment among the port's lowbrow customers, but no one can deny the addictive nature of the half-elf proprietor's special blend. Jopalin includes sable moonflower leaves in his tea, creating a subtle, slow-building addiction among those who drink it. Many never realize what's happening, knowing only that they deeply crave his tea above all others, and for those who do uncover the scam, it's often too late, leaving them with no choice but to keep coming back. Jopalin personally watches over the customers and ensures that only those who seem vulnerable get the "special" tea, avoiding suspicion from any who might decide to fight back if the truth were to come out.
 
 Jopalin also runs a more traditionally squalid moonflower den in the shop's damp basement, catering to ordinary addicts and those who've become so reliant on the tea that they can no longer pass as normal customers. These sad cases are shuffled in through an entrance in the building next door to avoid suspicion, where a group of thugs presides over several dozen filthy cots, collecting Jopalin's fees and dispensing his moonflower supply. The paranoid Jopalin himself lives in a lavish and heavily booby-trapped loft above the café.
 
@@ -1052,7 +1030,7 @@ The only blight in otherwise upscale Bloomridge, this mansion appeared out of no
 
 Those who entered the mansion for the requested appointments never emerged. After a handful of such disappearances, a Flaming Fist squad smashed its way into the building. Only two of its members emerged, babbling about shifting rooms and blood-soaked abattoirs filled with writhing hooks and chains. With no laborers willing to tear the place down, the Council of Four boarded up the doors but left the mansion standing. For decades now, no one has been observed going in or out. Whether the little black invitations that still occasionally appear on citizens' doorsteps are genuine or harmless pranks remains anyone's guess.
 
-In truth, Mandorcai gained occult knowledge and his magical manor in a bargain with the obese twin [chain devils](/3-Mechanics/CLI/bestiary/fiend/chain-devil-xmm.md) Kyrix and Valisog. For years Mandorcai upheld his side of the contract by bringing the fiends mortal sacrifices, until an accidental breach of contract let the devils haul him screaming into the Nine Hells. Since then, the mansion's hungry traps and shape-changing powers have lain dormant. Recently, however, a group of [cultists](/3-Mechanics/CLI/bestiary/humanoid/cultist-xmm.md) have broken into the house, seeking to harness its fell powers. Though they haven't yet figured out how to commune with the chain devils yet, when they do, it'll likely be without the safeguards Mandorcai managed to negotiate, potentially resulting in fiendish disaster for the whole neighborhood.
+In truth, Mandorcai gained occult knowledge and his magical manor in a bargain with the obese twin chain devils Kyrix and Valisog. For years Mandorcai upheld his side of the contract by bringing the fiends mortal sacrifices, until an accidental breach of contract let the devils haul him screaming into the Nine Hells. Since then, the mansion's hungry traps and shape-changing powers have lain dormant. Recently, however, a group of cultists have broken into the house, seeking to harness its fell powers. Though they haven't yet figured out how to commune with the chain devils yet, when they do, it'll likely be without the safeguards Mandorcai managed to negotiate, potentially resulting in fiendish disaster for the whole neighborhood.
 
 #### Seatower of Balduran
 
@@ -1060,19 +1038,19 @@ The headquarters of the Flaming Fist stands on a rocky islet in the harbor, its 
 
 Roughly a hundred Flaming Fist soldiers occupy the fortress at any given time, along with the residents of the Officers' Tower. In the central bailey, the organization's vast armory holds every weapon a mercenary company could need, along with trophies from campaigns abroad, a priceless library of war-related texts, and more. Rumors also speak of the Fist's treasury, kept in a lead-lined vault somewhere beneath the Officers' Tower and surrounded by yards of solid stone, the secret doors leading to its vaults hidden by clever mechanisms and cleverer magic.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/118-kvzma-06-08.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/118-kvzma-06-08.webp#center)
 
 In addition to defending the city, the Seatower also serves as the local prison of Baldur's Gate. Three levels of dungeons extend beneath it, the lower two below sea level and integrating part of a naturally occurring cavern system. This both keeps the prison secure and pacifies prisoners, as any who act out know that they can always be moved from the dry cells to the dank lower levels. Particularly problematic inmates end up in the Swimming Hole—a flooded and lightless shaft where prisoners must constantly tread water or risk drowning, while also fending off the blind, biting shrimp that dwell there. Though long-term incarceration is rare in the city, there are always a few inmates rotting in these cells, ranging from petty criminals to political prisoners locked away on trumped-up charges.
 
-Characters who run seriously afoul of the law in Baldur's Gate might wind up in the Seatower. While the Fist treats the prison as something of an afterthought, any trying to break in or out of the dungeons still have their work cut out for them. Only the upper cells have windows, and anyone trying to break through the walls of the lower cells risks catastrophic flooding. Sentries are constantly on alert for ships drawing suspiciously near the island, and no one is allowed through the fortress's gate without a reason and an escort. Cells themselves have heavy steel doors with high-quality locks, with the keys held by Jailer Albrecht Little, a lawful neutral male human [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md), or his second, Jailer Cogrus Stonehammer, a lawful neutral female shield dwarf [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md). Soldiers are often assigned to "cell duty" as a temporary punishment—while this generally means rougher treatment for prisoners, the regular turnover might present a sliver of opportunity for anyone attempting a rescue.
+Characters who run seriously afoul of the law in Baldur's Gate might wind up in the Seatower. While the Fist treats the prison as something of an afterthought, any trying to break in or out of the dungeons still have their work cut out for them. Only the upper cells have windows, and anyone trying to break through the walls of the lower cells risks catastrophic flooding. Sentries are constantly on alert for ships drawing suspiciously near the island, and no one is allowed through the fortress's gate without a reason and an escort. Cells themselves have heavy steel doors with high-quality locks, with the keys held by Jailer Albrecht Little, a lawful neutral male human gladiator, or his second, Jailer Cogrus Stonehammer, a lawful neutral female shield dwarf knight. Soldiers are often assigned to "cell duty" as a temporary punishment—while this generally means rougher treatment for prisoners, the regular turnover might present a sliver of opportunity for anyone attempting a rescue.
 
 #### Seskergates
 
-Once home to the Sesker merchant family, this tall, gaudy mansion was abandoned after the last member of the family died in it under mysterious circumstances several years ago. Shortly thereafter, a neutral evil human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) from Athkatla named Imbralym Skoond bought the place to use as his home and magical workshop, drawn there by stories of the structure's original builder, a smuggler who turned the place into a warren of secret passages, hidden rooms, false walls, and concealed entrances, most of which have now been forgotten.
+Once home to the Sesker merchant family, this tall, gaudy mansion was abandoned after the last member of the family died in it under mysterious circumstances several years ago. Shortly thereafter, a neutral evil human mage from Athkatla named Imbralym Skoond bought the place to use as his home and magical workshop, drawn there by stories of the structure's original builder, a smuggler who turned the place into a warren of secret passages, hidden rooms, false walls, and concealed entrances, most of which have now been forgotten.
 
 Ambitious and thoroughly amoral, Skoond rose to prominence as the Council of Four's wizard, doing regular favors for the council to further his own plots. Though rarely home, he boards four alchemist lackeys in the building, along with several guards, using the secret passages to cover their comings and goings. Their only job is to uncover and map out as many of the building's secrets as possible—one of the histories Skoond read suggested that the building's original architect had died while smuggling a rare magical tome, leading him to suspect that it still lies hidden in the house's walls.
 
-Unfortunately, Skoond's apprentices aren't the only ones searching. Drawn up through hidden tunnels by the magical auras of both the tome and neighboring Mandorcai's Mansion, a [nothic](/3-Mechanics/CLI/bestiary/aberration/nothic-xmm.md) lurks in the house's passages, using them to spy on the wizards and search for the treasure. So far, none of the residents have detected it—the last person to do so was the previous owner, killed by the nothic's rotting gaze. Though evil and unwilling to cede claim to the tome—which it hasn't yet located—the nothic is full of secrets from both its spying and its weird oracular abilities, and might be willing to sell them for the right price.
+Unfortunately, Skoond's apprentices aren't the only ones searching. Drawn up through hidden tunnels by the magical auras of both the tome and neighboring Mandorcai's Mansion, a nothic lurks in the house's passages, using them to spy on the wizards and search for the treasure. So far, none of the residents have detected it—the last person to do so was the previous owner, killed by the nothic's rotting gaze. Though evil and unwilling to cede claim to the tome—which it hasn't yet located—the nothic is full of secrets from both its spying and its weird oracular abilities, and might be willing to sell them for the right price.
 
 #### Sewer Keep
 
@@ -1082,35 +1060,35 @@ A series of three towers built into the walls at the western end of the Seatower
 
 Today, the facility still operates, but mostly as a headquarters and cover for the Sewerkeepers crew. Most of the "druids" and technicians running the plant are anything but—instead, they're a specialized thieving crew that uses the keep's position to pass unseen through the city's network of sewer pipes and cisterns. From this warren of tunnels, they can smuggle goods and conduct daring burglaries, as well as occasionally acting as subterranean monster-hunters and paid guides through the city's guts.
 
-The Sewerkeepers' leader, Genamine Kopali (neutral evil female human [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md)), also acts as the Guild kingpin for the Seatower neighborhood. Along with a spectrum of ne'er-do-wells, her crew also contains several actual [druids](/3-Mechanics/CLI/bestiary/humanoid/druid-xmm.md) who keep the facility running and control the crew's several guardian beasts, including a number of sweet-smelling [shambling mounds](/3-Mechanics/CLI/bestiary/plant/shambling-mound-xmm.md) that live in the tanks, churning them as part of the purification process. [Mortlock Vanthampur](/3-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md) (see "Mortlock Vanthampur") pays Genamine to keep him apprised of strange activities in the sewers. Mortlock, in turn, reports whatever he learns to his mother, [Duke Thalamra Vanthampur](/3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md).
+The Sewerkeepers' leader, Genamine Kopali (neutral evil female human assassin), also acts as the Guild kingpin for the Seatower neighborhood. Along with a spectrum of ne'er-do-wells, her crew also contains several actual druids who keep the facility running and control the crew's several guardian beasts, including a number of sweet-smelling shambling mounds that live in the tanks, churning them as part of the purification process. [Mortlock Vanthampur](3-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md) (see "Mortlock Vanthampur") pays Genamine to keep him apprised of strange activities in the sewers. Mortlock, in turn, reports whatever he learns to his mother, [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md).
 
 #### Shrine of the Suffering
 
-This simple stone shrine to Ilmater, god of martyrs and patient endurance, stands in a small, quiet square, the edges of its plaza thick with the pallets and meager belongings of the Lower City's homeless population. Here, poor Baldurians can come to receive free meals and enough coppers to pay their way through the city's gates, thanks to the ministrations of Brother Hodges, a lawful good male strongheart halfling [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md). Supported by donations from all ranks of society and beloved by their community, the halfling cleric and his adult children Hansen and Sissa (both lawful good strongheart halfling [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) can inevitably be found here chatting with the city's downtrodden, offering what healing and alms they can.
+This simple stone shrine to Ilmater, god of martyrs and patient endurance, stands in a small, quiet square, the edges of its plaza thick with the pallets and meager belongings of the Lower City's homeless population. Here, poor Baldurians can come to receive free meals and enough coppers to pay their way through the city's gates, thanks to the ministrations of Brother Hodges, a lawful good male strongheart halfling priest. Supported by donations from all ranks of society and beloved by their community, the halfling cleric and his adult children Hansen and Sissa (both lawful good strongheart halfling acolytes) can inevitably be found here chatting with the city's downtrodden, offering what healing and alms they can.
 
-The church's only source of non-donation income is a twisting series of crypts that extends down from an entrance behind the altar, at several points piercing the city's sewers. For a small fee, anyone can have a corpse brought down into the cramped tomb, where hordes of sewer rats flood in to eat the flesh, leaving (mostly) clean bones to be interred in the attached ossuary by Ilmater's faithful. While a somewhat ignoble end, it's often the only holy-ground burial the city's poor can afford, and Brother Hodges does his best to bring quiet dignity to the practice. However, a fertile [carrion crawler](/3-Mechanics/CLI/bestiary/monstrosity/carrion-crawler-xmm.md) has recently slithered up from the sewers to feast on the corpses in the tomb, leaving a trail of squirming young wherever it passes. Brother Hodges is incensed by the desecration, but doesn't dare face the beasts himself, and the Flaming Fist has been slow to come to his aid. Though the church can't pay, he would gratefully offer free healing to anyone who dealt with the menace.
+The church's only source of non-donation income is a twisting series of crypts that extends down from an entrance behind the altar, at several points piercing the city's sewers. For a small fee, anyone can have a corpse brought down into the cramped tomb, where hordes of sewer rats flood in to eat the flesh, leaving (mostly) clean bones to be interred in the attached ossuary by Ilmater's faithful. While a somewhat ignoble end, it's often the only holy-ground burial the city's poor can afford, and Brother Hodges does his best to bring quiet dignity to the practice. However, a fertile carrion crawler has recently slithered up from the sewers to feast on the corpses in the tomb, leaving a trail of squirming young wherever it passes. Brother Hodges is incensed by the desecration, but doesn't dare face the beasts himself, and the Flaming Fist has been slow to come to his aid. Though the church can't pay, he would gratefully offer free healing to anyone who dealt with the menace.
 
 #### Smilin' Boar
 
-With its downright ribald menu of salaciously renamed breakfast foods, the Smilin' Boar was always intended to cause a stir in well-to-do Bloomridge. Yet the current buzz is more than owner Jentha Allinamuch, a chaotic good female strongheart halfling [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md), ever intended. For the past six months, bodies have been appearing in the alley just behind the halfling's café. More than a dozen have appeared so far, never with any witnesses as to how they go there. The victims have no apparent commonalities—being of all ages, races, genders, and social classes, and having disappeared from points all across the city—yet there's no question in anyone's mind that the same killer is responsible, as each is found with curved slices across their wrists and a heart-piercing wound. The whole district is astir over the murders, but so far the Fist hasn't been able to turn up any leads on what locals have fearfully dubbed the Sickle Man. With business plummeting, Jentha is as eager as any grieving family to find answers, and would happily pay independent investigators to help track down the killer. In fact, the killer is not one person, but a group of Dead Three cultists looking to spread fear in the city (see "Hamhocks Slaughterhouse").
+With its downright ribald menu of salaciously renamed breakfast foods, the Smilin' Boar was always intended to cause a stir in well-to-do Bloomridge. Yet the current buzz is more than owner Jentha Allinamuch, a chaotic good female strongheart halfling commoner, ever intended. For the past six months, bodies have been appearing in the alley just behind the halfling's café. More than a dozen have appeared so far, never with any witnesses as to how they go there. The victims have no apparent commonalities—being of all ages, races, genders, and social classes, and having disappeared from points all across the city—yet there's no question in anyone's mind that the same killer is responsible, as each is found with curved slices across their wrists and a heart-piercing wound. The whole district is astir over the murders, but so far the Fist hasn't been able to turn up any leads on what locals have fearfully dubbed the Sickle Man. With business plummeting, Jentha is as eager as any grieving family to find answers, and would happily pay independent investigators to help track down the killer. In fact, the killer is not one person, but a group of Dead Three cultists looking to spread fear in the city (see "Hamhocks Slaughterhouse").
 
 #### Sorcerous Sundries
 
-A dome of stained glass roofs this tall, round shop, casting chaotic shafts of color down across several open-air floors that rise upon wooden pillars, connected by staircases and ladders. While the living quarters upstairs teem with rare plants and bookcases, the bottom floor acts as one of the most popular magic shops in the city. Inside its delicate-looking but magically warded walls, customers can buy and sell all manner of curios and common magic items from the eccentric shopkeeper, Rivalen Blackhand, a neutral male human [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) with a withered right hand.
+A dome of stained glass roofs this tall, round shop, casting chaotic shafts of color down across several open-air floors that rise upon wooden pillars, connected by staircases and ladders. While the living quarters upstairs teem with rare plants and bookcases, the bottom floor acts as one of the most popular magic shops in the city. Inside its delicate-looking but magically warded walls, customers can buy and sell all manner of curios and common magic items from the eccentric shopkeeper, Rivalen Blackhand, a neutral male human mage with a withered right hand.
 
-Blackhand almost always has [potions of healing](/3-Mechanics/CLI/items/potion-of-healing-xdmg.md) available for sale. He also typically has up to 500 gp on hand to buy items from those with interesting magical wares, though he's a savvy bargainer and rarely pays anything close to full price.
+Blackhand almost always has [potions of healing](3-Mechanics/CLI/items/potion-of-healing.md) available for sale. He also typically has up to 500 gp on hand to buy items from those with interesting magical wares, though he's a savvy bargainer and rarely pays anything close to full price.
 
-Currently, the wizard finds himself in the grip of an unusual protection racket. His supposed apprentice Gilligunn, a neutral evil female rock gnome [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), is actually a Guild member. Whenever Blackhand makes a sufficiently large transaction, Gilligunn secretly tracks the customer, leading an appropriately sized group of Guild toughs to ambush them days later, knowing they'll be carrying either a large sum of money or a valuable magic item they can sell back to Blackhand. Though the shopkeeper isn't happy with the arrangement, the Guild varies its patterns enough to keep suspicion away from him, and he has to admit it's a better deal than paying protection money himself.
+Currently, the wizard finds himself in the grip of an unusual protection racket. His supposed apprentice Gilligunn, a neutral evil female rock gnome spy, is actually a Guild member. Whenever Blackhand makes a sufficiently large transaction, Gilligunn secretly tracks the customer, leading an appropriately sized group of Guild toughs to ambush them days later, knowing they'll be carrying either a large sum of money or a valuable magic item they can sell back to Blackhand. Though the shopkeeper isn't happy with the arrangement, the Guild varies its patterns enough to keep suspicion away from him, and he has to admit it's a better deal than paying protection money himself.
 
 #### Water Queen's House
 
 The oldest temple in Baldur's Gate, the Water Queen's House clings to its enormous pier like a monster of the deep, its stone walls trailing over the side and descending down beneath the waves and river mud. At the pier's tip, a huge fountain in the shape of a sinking ship sprays water high, reminding faithful of the price of failing to appease Umberlee.
 
-The intimidating Allandra Grey, a chaotic evil female human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md), leads the temple's score of waveservants, most of them women widowed or orphaned by the sea. Ordinary Baldurians rarely see the waveservants, and never step inside the temple. When the faithful wish to make offerings, they must ring a bell by the door. Two waveservants (chaotic evil female human [acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) answer the door, one accepting the offering inside while the other says a short prayer in the doorway. Once the prayer is spoken and the donation collected, they step back and close the door.
+The intimidating Allandra Grey, a chaotic evil female human priest, leads the temple's score of waveservants, most of them women widowed or orphaned by the sea. Ordinary Baldurians rarely see the waveservants, and never step inside the temple. When the faithful wish to make offerings, they must ring a bell by the door. Two waveservants (chaotic evil female human acolytes) answer the door, one accepting the offering inside while the other says a short prayer in the doorway. Once the prayer is spoken and the donation collected, they step back and close the door.
 
-Though no outsiders know exactly how the temple's finances work, the dour waveservants buy little in the markets save essentials. The rest of the tithes are carried in solemn procession down crumbling, moss-covered stairs that cling to the outside of the temple and descend into the murky water. The waveservants disappear below the water for a few minutes, only to return empty-handed. What happens to the treasures is anyone's guess, with some suggesting they're hidden in underwater vaults. Others believe the gifts are borne away by Umberlee herself. In truth, the waveservants leave the treasures at the bottom of the staircase, where they are fetched within the hour by `dice:2d6|noform|noparens|avg` (`2d6`) [sahuagin](/3-Mechanics/CLI/bestiary/fiend/sahuagin-warrior-xmm.md) led by a [sahuagin priestess](/3-Mechanics/CLI/bestiary/fiend/sahuagin-priest-xmm.md). The sahuagin make the long trip from the Sea of Swords to obtain these treasures, and in exchange, they refrain from attacking the city, its harbor, and ships heading out to sea.
+Though no outsiders know exactly how the temple's finances work, the dour waveservants buy little in the markets save essentials. The rest of the tithes are carried in solemn procession down crumbling, moss-covered stairs that cling to the outside of the temple and descend into the murky water. The waveservants disappear below the water for a few minutes, only to return empty-handed. What happens to the treasures is anyone's guess, with some suggesting they're hidden in underwater vaults. Others believe the gifts are borne away by Umberlee herself. In truth, the waveservants leave the treasures at the bottom of the staircase, where they are fetched within the hour by `2d6` sahuagin led by a sahuagin priestess. The sahuagin make the long trip from the Sea of Swords to obtain these treasures, and in exchange, they refrain from attacking the city, its harbor, and ships heading out to sea.
 
-If the waveservants wish harm to befall a ship or its crew, they leave a clam with the treasure in the water. When the clam is opened, it magically recites up to 25 words in Common. This information helps the sahuagin identify the ship. The sahuagin priestess uses a [tongues](/3-Mechanics/CLI/spells/tongues-xphb.md) spell to translate the clam's words, then executes an attack on the ship during the next new moon.
+If the waveservants wish harm to befall a ship or its crew, they leave a clam with the treasure in the water. When the clam is opened, it magically recites up to 25 words in Common. This information helps the sahuagin identify the ship. The sahuagin priestess uses a tongues spell to translate the clam's words, then executes an attack on the ship during the next new moon.
 
 ## Outer City
 
@@ -1124,7 +1102,7 @@ The Outer City's challenges lead to small, tightly knit communities, where a per
 
 Visitors approaching Baldur's Gate by road first pass through the Outer City's ramshackle neighborhoods, their traffic hemmed in by cook fires, market stalls, and industries too noisy or repugnant for more genteel citizens. Here travelers must leave any sizable mounts or beasts of burden at one of countless stables and caravanserais before paying the fees to pass through the gates into the city proper. Travelers from the south are twice blessed in this regard, paying once for the bridge at Wyrm's Crossing and again once they've run the gauntlet of Outer City neighborhoods circling Duskhawk Hill.
 
-Travelers arriving via the river wait in the center of Gray Harbor, under the watchful eye of the Seatower, until one of the harbormaster's agents approaches in a fast-moving skiff. Protected by coteries of Gray Wavers (Flaming Fist [veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)), these customs officials assess the boat's cargo, collect taxes, and sell hourly berth assignments at one of the city's many docks and piers. Large vessels may also pay to make use of the city's marvelous mechanical cranes, dramatically accelerating their unloading process.
+Travelers arriving via the river wait in the center of Gray Harbor, under the watchful eye of the Seatower, until one of the harbormaster's agents approaches in a fast-moving skiff. Protected by coteries of Gray Wavers (Flaming Fist veterans), these customs officials assess the boat's cargo, collect taxes, and sell hourly berth assignments at one of the city's many docks and piers. Large vessels may also pay to make use of the city's marvelous mechanical cranes, dramatically accelerating their unloading process.
 
 ### Neighborhoods
 
@@ -1156,8 +1134,6 @@ Dreams both flourish and die in the Outer City, which many say holds the best an
 
 **Outer City Random Encounters**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^outer-city-random-encounters)`
-
 | dice: d20 | Encounter |
 |-----------|-----------|
 | 1–6 | No encounter |
@@ -1167,8 +1143,6 @@ Dreams both flourish and die in the Outer City, which many say holds the best an
 ^outer-city-random-encounters
 
 **Table G: Outer City Harmless Interactions**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^table-g-outer-city-harmless-interactions)`
 
 | dice: d12 | Interaction |
 |-----------|-------------|
@@ -1183,42 +1157,38 @@ Dreams both flourish and die in the Outer City, which many say holds the best an
 | 9 | Several cackling, half-dressed gnomes are covered in body paint and drive a wheeled contraption down the street. The device is a mobile piece of art crafted at Whitkeep Hostel and titled "The Patriars." |
 | 10 | A group of obviously drunk Flaming Fist officers stumble away from a Wyrm's Crossing bar. They ineffectually try to start a fight with the party, then apologize and wander off. |
 | 11 | A precocious member of the Gateguides asks the party if they want to earn a few quick coins. If so, he asks them to create a distraction so some Flaming Fist soldiers stop harassing a newly arrived family of refugees he's helping. |
-| 12 | A merchant and gate guard argue over how to accurately measure and compare the sizes of an unusually small donkey and an exceptionally large [peacock](/3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md). They ask for a passing party member's opinion. |
+| 12 | A merchant and gate guard argue over how to accurately measure and compare the sizes of an unusually small donkey and an exceptionally large [peacock](3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md). They ask for a passing party member's opinion. |
 ^table-g-outer-city-harmless-interactions
 
 **Table H: Outer City Denizens**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-h-outer-city-denizens)`
-
 | dice: d10 | Interaction |
 |-----------|-------------|
-| 1 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Calishite [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) and `dice:2d4\|noform\|noparens\|avg` (`2d4`) Tethyrian [thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md) curse at each other, ready to brawl |
-| 2 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) gnome [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) from the Whitkeep Hostel throw tomatoes at passersby who flaunt their wealth |
-| 3 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) joyride on [riding horses](/3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) stolen from a corral |
-| 4 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Flaming Fist [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md), off-duty or headed elsewhere, ignore obvious crimes |
-| 5 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) patriars (human [nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) and `dice:2d8\|noform\|noparens\|avg` (`2d8`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) |
-| 6 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) barkers ([spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) pass out handbills for the Oasis Theater |
-| 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) herding `dice:2d8\|noform\|noparens\|avg` (`2d8`) [goats](/3-Mechanics/CLI/bestiary/beast/goat-xmm.md) and one [peacock](/3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md) (use the [vulture](/3-Mechanics/CLI/bestiary/beast/vulture-xmm.md) stat block) |
-| 8 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) beggars ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 9 | 1 Flaming Fist officer ([knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md)) and `dice:2d4\|noform\|noparens\|avg` (`2d4`) Flaming Fist soldiers ([veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) heading to or from Wyrm's Rock |
-| 10 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) members of the Crossers or Gravemakers crew ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) on street patrol |
+| 1 | `2d4` Calishite thugs and `2d4` Tethyrian thugs curse at each other, ready to brawl |
+| 2 | `1d6` gnome commoners from the Whitkeep Hostel throw tomatoes at passersby who flaunt their wealth |
+| 3 | `1d4` bandits joyride on riding horses stolen from a corral |
+| 4 | `2d4` Flaming Fist guards, off-duty or headed elsewhere, ignore obvious crimes |
+| 5 | `1d4` patriars (human nobles) and `2d8` guards |
+| 6 | `1d4` barkers (spies) pass out handbills for the Oasis Theater |
+| 7 | `1d4` commoners herding `2d8` goats and one [peacock](3-Mechanics/CLI/bestiary/beast/peacock-bgdia.md) (use the vulture stat block) |
+| 8 | `2d6` beggars (commoners) |
+| 9 | 1 Flaming Fist officer (knight) and `2d4` Flaming Fist soldiers (veterans) heading to or from Wyrm's Rock |
+| 10 | `2d6` members of the Crossers or Gravemakers crew (commoners) on street patrol |
 ^table-h-outer-city-denizens
 
 **Table I: Outer City Threats**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-i-outer-city-threats)`
-
 | dice: d10 | Threat |
 |-----------|--------|
-| 1 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [giant rats](/3-Mechanics/CLI/bestiary/beast/giant-rat-xmm.md) |
-| 2 | 1 [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md) and `dice:1d6\|noform\|noparens\|avg` (`1d6`) [bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md) demand a "street use" tax |
-| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) Guild pickpockets ([spies](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md)) |
-| 4 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md) picking at corpses left in the street |
-| 5 | `dice:2d6\|noform\|noparens\|avg` (`2d6`) [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md) escaped from the Cliffside Cemetery |
-| 6 | A flying, double-bladed axe terrorizing passersby (the illusion-wrapped [stirge](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) from Danthelon's Dancing Axe) |
-| 7 | 1 [cockatrice](/3-Mechanics/CLI/bestiary/monstrosity/cockatrice-xmm.md) that escaped from the Garynmor Menagerie |
-| 8 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
-| 9 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [jackalweres](/3-Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md) that live in Little Calimshan |
+| 1 | `2d4` giant rats |
+| 2 | 1 bandit captain and `1d6` bandits demand a "street use" tax |
+| 3 | `1d6` Guild pickpockets (spies) |
+| 4 | `1d4` ghouls picking at corpses left in the street |
+| 5 | `2d6` skeletons escaped from the Cliffside Cemetery |
+| 6 | A flying, double-bladed axe terrorizing passersby (the illusion-wrapped stirge from Danthelon's Dancing Axe) |
+| 7 | 1 cockatrice that escaped from the Garynmor Menagerie |
+| 8 | `1d6` stirges |
+| 9 | `1d4` jackalweres that live in Little Calimshan |
 | 10 | Dead Three abduction squad (see the "More Dead Three Encounters" sidebar) |
 ^table-i-outer-city-threats
 
@@ -1236,19 +1206,19 @@ Long ago, the graveyard was an empty estate owned by the mercantile Szarr family
 
 The graveyard itself is a maze of crypts and monuments, its organization nearly impossible for outsiders to discern as the multi-chamber ossuaries of rich merchants and pirate lords loom over the simple plaques and rotting wooden holy symbols of the poor. Natural cavern systems have been expanded and shored up to create extensive crypts, yet over generations maps have been lost or poorly updated, and it's not uncommon for a gravedigger to find themselves striking the wood of a coffin where no coffin should be, or tumbling through into a forgotten stretch of tunnel. Rampant grave robbery by brigands and necromancy-obsessed followers of Myrkul only increases the chaos, as bodies get exhumed and reburied wherever it's convenient. Most significantly, a major landslide decades ago dropped a large portion of the cemetery's cliff into the river below, causing the remaining bone-houses and markers to shift and lean, while also exposing numerous crypts and tomb-tunnels to the air, prompting a fresh rush of grave robbing. Though Baldurians rarely bury their dead with valuables anymore, and many of the easier pickings have been taken, it's common wisdom that some of the greatest treasures of past centuries still lie entombed with their heroes, their headstones wiped anonymously clean by wind and rain.
 
-Watching over all of this is the powerful Gravemakers crew. Far more than simply caretakers and laborers, the Gravemakers guard the dead—and Tumbledown—from threats. With so much death concentrated in one spot, undead are a constant problem. Skeletons and revenants regularly claw spontaneously out of their graves, while ghouls and ghasts burrow into crypts and catacombs, drawn by the scent of decaying flesh. Wights hide in their tombs by day, while ghosts and wraiths terrorize unsuspecting mortals. Putting down such threats before they can prey on citizens is the Gravemakers' primary job, and though rightfully proud of their prowess, their leader Leone Wen, a lawful good female human [knight](/3-Mechanics/CLI/bestiary/humanoid/knight-xmm.md) and servant of Torm, is always looking for fresh recruits or contractors to join them in their crusade. The crew operates out of the half-burned old Szarr Mansion in the cemetery's center, its moldering halls reputedly still infested by the ghosts of the murdered Szarrs—though stories remain split as to whether the ghosts prey on the Gravemakers or aid them in their duty.
+Watching over all of this is the powerful Gravemakers crew. Far more than simply caretakers and laborers, the Gravemakers guard the dead—and Tumbledown—from threats. With so much death concentrated in one spot, undead are a constant problem. Skeletons and revenants regularly claw spontaneously out of their graves, while ghouls and ghasts burrow into crypts and catacombs, drawn by the scent of decaying flesh. Wights hide in their tombs by day, while ghosts and wraiths terrorize unsuspecting mortals. Putting down such threats before they can prey on citizens is the Gravemakers' primary job, and though rightfully proud of their prowess, their leader Leone Wen, a lawful good female human knight and servant of Torm, is always looking for fresh recruits or contractors to join them in their crusade. The crew operates out of the half-burned old Szarr Mansion in the cemetery's center, its moldering halls reputedly still infested by the ghosts of the murdered Szarrs—though stories remain split as to whether the ghosts prey on the Gravemakers or aid them in their duty.
 
 #### Church of Last Hope
 
 This combined chapel and asylum in the Twin Songs neighborhood has long offered sanctuary for the depressed and mentally ill. The few attendants ascribe to the faith of no particular god, but extol the virtues of meditation and whatever calm faiths visitors might bring with them.
 
-Few seek the church's services on their own. Rather, most who come to dwell at the church either have a room rented for them by concerned family or receive a somewhat mysterious—and usually unexpected—invitation from the institute's superintendent, Mother Aramina, a lawful good female human [priest](/3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md). Aramina is a former Candlekeep scholar who's moved her lifelong study of psychology from the academic to the clinical. How Mother Aramina learns of individuals' distress and under what circumstances she offers free room and board in her facility is something of a mystery, but as of yet, none have discovered any sinister angle to her work. In fact, Mother Aramina has been known to hire empathic intermediaries to help extricate the needful from destructive conditions. Despite its charity, though, the Church of Last Hope is not universally loved. The Faithless, the Guild-associated gang in Twin Songs, see a trove of wealthy city-dwellers and wishy-washy non-priests in their midst, ripe targets for protection schemes, kidnappings, and all manner of other plots. Currently none of the Church's patients have been endangered, but Mother Aramina is cautiously looking for more permanent security solutions.
+Few seek the church's services on their own. Rather, most who come to dwell at the church either have a room rented for them by concerned family or receive a somewhat mysterious—and usually unexpected—invitation from the institute's superintendent, Mother Aramina, a lawful good female human priest. Aramina is a former Candlekeep scholar who's moved her lifelong study of psychology from the academic to the clinical. How Mother Aramina learns of individuals' distress and under what circumstances she offers free room and board in her facility is something of a mystery, but as of yet, none have discovered any sinister angle to her work. In fact, Mother Aramina has been known to hire empathic intermediaries to help extricate the needful from destructive conditions. Despite its charity, though, the Church of Last Hope is not universally loved. The Faithless, the Guild-associated gang in Twin Songs, see a trove of wealthy city-dwellers and wishy-washy non-priests in their midst, ripe targets for protection schemes, kidnappings, and all manner of other plots. Currently none of the Church's patients have been endangered, but Mother Aramina is cautiously looking for more permanent security solutions.
 
 #### Danthelon's Dancing Axe
 
-This two-story shop sells everything an adventurer might need, from weapons and armor to rowboats and mobile monster cages. Presiding over the crammed shelves is Entharl Danthelon, a neutral good male shield dwarf [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) who claims to have been an adventurer once himself, as evidenced by the magical flying axe that guards his shop at night. Customers are inevitably treated to the story of the grateful elven princess who enchanted the axe for him as a reward for a daring adventure undertaken on her behalf.
+This two-story shop sells everything an adventurer might need, from weapons and armor to rowboats and mobile monster cages. Presiding over the crammed shelves is Entharl Danthelon, a neutral good male shield dwarf commoner who claims to have been an adventurer once himself, as evidenced by the magical flying axe that guards his shop at night. Customers are inevitably treated to the story of the grateful elven princess who enchanted the axe for him as a reward for a daring adventure undertaken on her behalf.
 
-In truth, Danthelon's "dancing axe" is actually a tame [stirge](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) wrapped in the illusion of a double-bladed axe, which Danthelon sets loose each night. The illusion is courtesy of Yssra Brackrel, a neutral female half-elf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) and brilliant hairstylist who rents out the shop's attic. Yssra's cantankerousness is as legendary as the shop's flying axe, and anyone seeking just her spellcasting is subject to a frank and unflattering critique of their current coiffure.
+In truth, Danthelon's "dancing axe" is actually a tame stirge wrapped in the illusion of a double-bladed axe, which Danthelon sets loose each night. The illusion is courtesy of Yssra Brackrel, a neutral female half-elf mage and brilliant hairstylist who rents out the shop's attic. Yssra's cantankerousness is as legendary as the shop's flying axe, and anyone seeking just her spellcasting is subject to a frank and unflattering critique of their current coiffure.
 
 While Danthelon may never have been a real adventurer, he loves associating with them, and constantly keeps his ears open for rumors and opportunities, which he happily passes along to paying customers. At the moment, he's obsessed with reports of a group of smugglers who recently went missing in the Riverveins tunnels along with a chest full of valuable magic potions, and eagerly encourages his shoppers to investigate—and then return to tell him the story.
 
@@ -1256,7 +1226,7 @@ While Danthelon may never have been a real adventurer, he loves associating with
 
 As horses and other beasts of burden aren't allowed inside the city walls, the Outer City overflows with stables and hostlers, ranging from muddy pens to barns nicer than most inns. Of these, the largest is Garynmor Stables, which offers the unique benefit of operating locations in both Stonyeyes and Blackgate; those travelers passing through have the option of leaving their beasts on one side of the city and picking them up on the other, after grooms have ferried them around the outside of the walls. The stables are also unusual in their willingness to rent mounts to city residents in need of transportation, cutting down on the need of city dwellers to own their own horses. Yet the true gem setting Garynmor Stables apart is its menagerie.
 
-A former world traveler, Ubis Garynmor (chaotic good male human [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) has long had a fascination with exotic beasts, and having already developed the infrastructure to take care of large numbers of ordinary animals, he found it easy enough to expand the scope of his establishment. His menagerie in Stonyeyes contains a variety of rare creatures both mundane and magical, from an aged cockatrice and two wing-clipped hippogriffs to an owlbear. Always on the lookout for new attractions, he happily pays adventurers for healthy specimens of rare creatures, sometimes reselling the smaller and less dangerous species. While the menagerie is popular with city folk who pay a few coppers to view the creatures, many neighbors fear that Ubis doesn't take security seriously enough, and that his desire to coddle such dangerous beasts could lead to them breaking free and rampaging through the district.
+A former world traveler, Ubis Garynmor (chaotic good male human commoner) has long had a fascination with exotic beasts, and having already developed the infrastructure to take care of large numbers of ordinary animals, he found it easy enough to expand the scope of his establishment. His menagerie in Stonyeyes contains a variety of rare creatures both mundane and magical, from an aged cockatrice and two wing-clipped hippogriffs to an owlbear. Always on the lookout for new attractions, he happily pays adventurers for healthy specimens of rare creatures, sometimes reselling the smaller and less dangerous species. While the menagerie is popular with city folk who pay a few coppers to view the creatures, many neighbors fear that Ubis doesn't take security seriously enough, and that his desire to coddle such dangerous beasts could lead to them breaking free and rampaging through the district.
 
 #### Hamhocks Slaughterhouse
 
@@ -1264,7 +1234,7 @@ This huge complex of pens, barns, and abattoirs is the largest slaughterhouse an
 
 Seeking to spread fear and chaos, cultists of the Dead Three have infiltrated the slaughterhouse and begun murdering people across the city, leaving the victims in an alley behind the Smilin' Boar in Bloomridge. To further fan the flames, the cult slices the corpses across the wrists and inflicts a heart-piercing wound, giving rise to rumors that the murders are the result of a supernaturally deadly serial killer.
 
-Pasque Enrial, a [black gauntlet of Bane](/3-Mechanics/CLI/bestiary/humanoid/black-gauntlet-of-bane-bgdia.md), is the cult's mastermind. He engineered the death of the slaughterhouse's former owner so that he could take over, figuring that constant blood, offal, and animal screams would provide a suitable cover for the cult's murderous activities. Since then, he's been slowly laying off existing workers and replacing them with cultists loyal to the group's mission. Assisting him are Corian Khee, a [death's head of Bhaal](/3-Mechanics/CLI/bestiary/humanoid/deaths-head-of-bhaal-bgdia.md) who spends days crushing livestock skulls with a massive hammer and nights leading the cult's murderous field operations, and Jaemus Exheltarion, a half-elf [master of souls](/3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md). Of the three, Jaemus is the least convincing in his role as the slaughterhouse's new accountant, as he greets customers with an eerie stare, openly reads strange-looking tomes, and spends entirely too much time in the cult's trophy locker, a cold-storage facility where he's using pieces harvested from victims and livestock to construct a ram-headed flesh golem.
+Pasque Enrial, a [black gauntlet of Bane](3-Mechanics/CLI/bestiary/humanoid/black-gauntlet-of-bane-bgdia.md), is the cult's mastermind. He engineered the death of the slaughterhouse's former owner so that he could take over, figuring that constant blood, offal, and animal screams would provide a suitable cover for the cult's murderous activities. Since then, he's been slowly laying off existing workers and replacing them with cultists loyal to the group's mission. Assisting him are Corian Khee, a [death's head of Bhaal](3-Mechanics/CLI/bestiary/humanoid/deaths-head-of-bhaal-bgdia.md) who spends days crushing livestock skulls with a massive hammer and nights leading the cult's murderous field operations, and Jaemus Exheltarion, a half-elf [master of souls](3-Mechanics/CLI/bestiary/humanoid/master-of-souls-bgdia.md). Of the three, Jaemus is the least convincing in his role as the slaughterhouse's new accountant, as he greets customers with an eerie stare, openly reads strange-looking tomes, and spends entirely too much time in the cult's trophy locker, a cold-storage facility where he's using pieces harvested from victims and livestock to construct a ram-headed flesh golem.
 
 #### Little Calimshan
 
@@ -1272,37 +1242,37 @@ Generations ago, a fleet of Calishite refugees fleeing war in the south came sai
 
 Though much time has passed since that ignominious beginning, tensions remain high between Little Calimshan and the rest of the city, particularly with regard to those Baldurians living in the city proper. Unlike most of the Outer City, where neighborhoods blend into each other and no one can quite say where one ends and another begins, Little Calimshan is sharply defined by brick-and-plaster walls, 15 feet tall, 5 feet thick, and topped with minarets in the classic Calishite style. These walls don't simply surround the neighborhood, either. Little Calimshan is built like a traditional Calishite city in miniature, with its interior divided into multiple drudachs (neighborhoods). Each drudach is walled off and inhabited by a particular family or tribe, with its own religious site, inn or tavern, marketplace, and places of industry such as smithies, armories, tanneries, or mills. While such an abundance of walls might make Little Calimshan seem fractious and standoffish, in fact the opposite is true: the thick wall walks act as elevated streets, with locals able to look out over the layout from above and easily pick a path to their intended destination.
 
-Second only to the Wide in the chaos and liveliness of its markets, Little Calimshan opens its gates to outsiders for just a few hours each day. Inside its warren of bazaars, local merchants have a near-monopoly on many southern imports, from silks and fine blades of Calishite steel to tomes of rare magical lore, thanks to exclusive trade agreements with various caravans. As soon as mid-afternoon arrives, however, shoppers are shuffled back out the arched gates, and the only non-Calishites still allowed within the neighborhood are those who've married into a Little Calimshan family or otherwise earned the sacred trust of a drudach's residents. While many residents of Little Calimshan venture into the larger city for business or pleasure, not even the Flaming Fist is able to force its way into the neighborhood-turned-fortress after hours except in the direst circumstances, and each drudach is instead patrolled by a militia of young unmarried warriors ([guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) with scimitars instead of spears) called amlakkars.
+Second only to the Wide in the chaos and liveliness of its markets, Little Calimshan opens its gates to outsiders for just a few hours each day. Inside its warren of bazaars, local merchants have a near-monopoly on many southern imports, from silks and fine blades of Calishite steel to tomes of rare magical lore, thanks to exclusive trade agreements with various caravans. As soon as mid-afternoon arrives, however, shoppers are shuffled back out the arched gates, and the only non-Calishites still allowed within the neighborhood are those who've married into a Little Calimshan family or otherwise earned the sacred trust of a drudach's residents. While many residents of Little Calimshan venture into the larger city for business or pleasure, not even the Flaming Fist is able to force its way into the neighborhood-turned-fortress after hours except in the direst circumstances, and each drudach is instead patrolled by a militia of young unmarried warriors (guards with scimitars instead of spears) called amlakkars.
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/119-khhrx-06-09.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/119-khhrx-06-09.webp#center)
 
-While Little Calimshan presents a unified face to the rest of the city, it has all the problems of any settlement. Income inequality is made all the more obvious by density, with paupers living literally side-by-side with wealthy genie-binders. Older isolationists clash with young folk eager for more interaction with the wider city. Yet by far the largest issue is the gang war currently ravaging Little Calimshan. Seeing the Guild as fundamentally an outsider organization, a Calishite gang called the Right Pashas seeks to oust Guild agents from Little Calimshan's underworld. The Guild's popular half-Calishite kingpin, [Rilsa Rael](/3-Mechanics/CLI/bestiary/npc/rilsa-rael-bgdia.md), naturally objects to this insult, and each night residents bar their doors tight as a turf war of thugs and thieves rages across their rooftops.
+While Little Calimshan presents a unified face to the rest of the city, it has all the problems of any settlement. Income inequality is made all the more obvious by density, with paupers living literally side-by-side with wealthy genie-binders. Older isolationists clash with young folk eager for more interaction with the wider city. Yet by far the largest issue is the gang war currently ravaging Little Calimshan. Seeing the Guild as fundamentally an outsider organization, a Calishite gang called the Right Pashas seeks to oust Guild agents from Little Calimshan's underworld. The Guild's popular half-Calishite kingpin, [Rilsa Rael](3-Mechanics/CLI/bestiary/npc/rilsa-rael-bgdia.md), naturally objects to this insult, and each night residents bar their doors tight as a turf war of thugs and thieves rages across their rooftops.
 
 Among Little Calimshan's most notorious locations is the Calim Jewel Emporium, widely regarded as the best jeweler in the city—and the best place to fence stolen gems, as it's also the local Guild headquarters. In addition to hosting regular public forums in her shop, Rael tacitly oversees the Garden of Whispers, a maze of wood-and-paper screens where people from across the city can buy and sell secrets with Guild agents and each other, speaking through the barriers so as to maintain anonymity. Also popular are schools like the Lamp of Learning and the Verdashir Academy (also known as the Dervish Academy), which train spellcasters and warriors in the styles of their ancestral homeland, allowing only the most talented outsiders to access their archives or join in their lessons. And, of course, every patriar in the city has visited the famous Oasis Theater, home of the city's most daring—and sometimes dangerous—productions.
 
 #### Oasis Theater
 
-Baldur's Gate plays home to a variety of small theaters and cabarets, but none can hold a candle to the epic spectacle of the Oasis. Theater owner and director Jonas Goodnight, a chaotic neutral male human [spy](/3-Mechanics/CLI/bestiary/humanoid/spy-xmm.md), puts on shows even more outrageous than his magnificently crafted outfits. Productions involve everything from live monsters to powerful illusion magic, while also showcasing the most talented performers in the city. Actors and musicians perform their songs and monologues from atop flaming trapezes or human towers, while acrobats shock the audience with physical feats bordering on the supernatural.
+Baldur's Gate plays home to a variety of small theaters and cabarets, but none can hold a candle to the epic spectacle of the Oasis. Theater owner and director Jonas Goodnight, a chaotic neutral male human spy, puts on shows even more outrageous than his magnificently crafted outfits. Productions involve everything from live monsters to powerful illusion magic, while also showcasing the most talented performers in the city. Actors and musicians perform their songs and monologues from atop flaming trapezes or human towers, while acrobats shock the audience with physical feats bordering on the supernatural.
 
-Even lowbrow theatergoers unable to decipher Goodnight's artistic genius can appreciate his flagrant breaking of taboos, with risqué burlesque and satirical scripts mocking everyone from the dukes to [Nine-Fingers Keene](/3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) herself. The fact that these performances sometimes go terribly awry, with monsters breaking loose or a broken piece of equipment sending a performer plummeting into the crowd, only adds to the excitement, and patriars and common folk alike vie for seats at the theater's afternoon-only performances. Ticket prices are decided capriciously and on the spot by Goodnight, varying wildly between any given individual.
+Even lowbrow theatergoers unable to decipher Goodnight's artistic genius can appreciate his flagrant breaking of taboos, with risqué burlesque and satirical scripts mocking everyone from the dukes to [Nine-Fingers Keene](3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) herself. The fact that these performances sometimes go terribly awry, with monsters breaking loose or a broken piece of equipment sending a performer plummeting into the crowd, only adds to the excitement, and patriars and common folk alike vie for seats at the theater's afternoon-only performances. Ticket prices are decided capriciously and on the spot by Goodnight, varying wildly between any given individual.
 
 While Goodnight is always looking for new performers, at the moment he needs more than just a talented bard or contortionist. The cost of putting on his outrageous shows has landed him deep in debt, and his compulsive need to roast every potential patron or ally in the city hasn't helped matters. With the Guild ready to step in and assume ownership if he doesn't start repaying his loans, he needs to either turn to outright crime or put on a show more amazing than anything he's done before. He's got an idea, but to pull it off, he'll need an experienced adventuring party willing to play the stars in the world's first live-audience adventure.
 
-![Rilsa Rael](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/120-637002460268839401.webp#center)
+![Rilsa Rael](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/120-637002460268839401.webp#center)
 
 #### Riverveins
 
 Just east of the city, where Dusthawk Hill rises along the Chionthar River, eddies captured by outcroppings have bored into the stone, carving a maze of meandering tunnels and draining into subterranean aquifers. Though hardly diverting enough water to impact the river's flow, the web of submerged chambers has become a source of mystery and legend for locals.
 
-While most of the tunnels are submerged, changes in river height over time mean that some of the tunnels and caverns are dry or only half-flooded for long stretches, making them favored hideouts for fugitives, smugglers, aquatic predators, and particularly adventurous trysting lovers. Though rumors whisper that some tunnels lead directly under Baldur's Gate, to date all mapped caverns are accessible only from the river, and even just climbing into a tunnel mouth or steering a boat inside can be deadly as the current attempts to smash vessels against the cliffs. Stories of ancient treasure in the flooded caverns are only enhanced by stories of Ol' Cholms, a river monster, prowling the tunnels. Many would-be fortune hunters have been disappointed to discover dry tunnels containing nothing more than crude graffiti, empty wine bottles, and flocks of bloodthirsty [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md).
+While most of the tunnels are submerged, changes in river height over time mean that some of the tunnels and caverns are dry or only half-flooded for long stretches, making them favored hideouts for fugitives, smugglers, aquatic predators, and particularly adventurous trysting lovers. Though rumors whisper that some tunnels lead directly under Baldur's Gate, to date all mapped caverns are accessible only from the river, and even just climbing into a tunnel mouth or steering a boat inside can be deadly as the current attempts to smash vessels against the cliffs. Stories of ancient treasure in the flooded caverns are only enhanced by stories of Ol' Cholms, a river monster, prowling the tunnels. Many would-be fortune hunters have been disappointed to discover dry tunnels containing nothing more than crude graffiti, empty wine bottles, and flocks of bloodthirsty stirges.
 
 #### Whitkeep Hostel
 
 In a city often thought to be dour and dangerous, the Whitkeep Hostel is a spark of light and levity. Built by a wealthy caravan operator who lost their fortune to monster attacks, this white-walled manor house was quickly overtaken by squatters, and has now spent most of a century as an all-gnome artist's commune. Though only gnomes are invited to rent one of the rambling manor's thirty-seven studio apartments, Baldurians of all races are welcome to socialize at the place's infamous surrealist parties or attend its concerts and offbeat art happenings. As such, the hostel has become the central gathering point for the city's radicals and revolutionaries, as well as many artists and dreamers.
 
-One of the neighborhood's more outspoken critics of the Gate's government, Pernilla "Prole" Cabrenock, a chaotic neutral female rock gnome [bandit captain](/3-Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm.md), has teamed up with an oddball inventor and arcanist named Ardryn Deagle, a chaotic good male rock gnome [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md). Rumors spread by Prole herself suggest that they've almost completed a magical invention that will "finally strip away the bonds of capital and free the people to flourish," but security around the project has been unusually tight, keeping even many members of the commune in the dark. While most people assume this is merely some strange new critique of the city's patriars, both the Guild and the Flaming Fist would dearly love to infiltrate the revolutionaries' project and make sure it doesn't pose a threat to the status quo.
+One of the neighborhood's more outspoken critics of the Gate's government, Pernilla "Prole" Cabrenock, a chaotic neutral female rock gnome bandit captain, has teamed up with an oddball inventor and arcanist named Ardryn Deagle, a chaotic good male rock gnome mage. Rumors spread by Prole herself suggest that they've almost completed a magical invention that will "finally strip away the bonds of capital and free the people to flourish," but security around the project has been unusually tight, keeping even many members of the commune in the dark. While most people assume this is merely some strange new critique of the city's patriars, both the Guild and the Flaming Fist would dearly love to infiltrate the revolutionaries' project and make sure it doesn't pose a threat to the status quo.
 
-![Wyrm's Crossing](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/121-xswfn-06-10.webp#center)
+![Wyrm's Crossing](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/121-xswfn-06-10.webp#center)
 
 #### Wyrm's Crossing
 
@@ -1318,15 +1288,13 @@ This formidable fortress rises from the center of the river on an algae-slick is
 
 The fortress has four levels: the bridge level, taken up by the gauntlet tunnel and offices devoted to traffic management; a second-story armory full of oil, javelins, and everything the soldiers need to withstand a siege; a third story for soldier's quarters; and a high-ceilinged dungeon level below the bridges to hold temporary prisoners and the fortress's supply of small boats (should the garrison need to sally through heavily fortified river-level gates). Soldiers stationed in the fortress tend to fall into two categories: those disappointed at being stuck on toll-collection duty so far from the city, and those overjoyed at easy work and a chance to carouse in Wyrm's Crossing, with the latter ensuring that the Fist doesn't patrol their neighboring bridges too heavily.
 
-The commander of Wyrm's Rock, an old brute named Skorpin Crane, died in his sleep recently. Foul play was ruled out, and Grand Duke [Ulder Ravengard](/3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) was in the midst of finding Crane's replacement when he was lured away on a diplomatic mission to Elturel. Until a replacement is found, the Mage Defender of Wyrm's Rock, a neutral evil shield dwarf [mage](/3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md) named Gardak Horn, has taken command. The guards loathe Gardak because he uses a [homunculus](/3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md) to spy on them.
+The commander of Wyrm's Rock, an old brute named Skorpin Crane, died in his sleep recently. Foul play was ruled out, and Grand Duke [Ulder Ravengard](3-Mechanics/CLI/bestiary/npc/ulder-ravengard-bgdia.md) was in the midst of finding Crane's replacement when he was lured away on a diplomatic mission to Elturel. Until a replacement is found, the Mage Defender of Wyrm's Rock, a neutral evil shield dwarf mage named Gardak Horn, has taken command. The guards loathe Gardak because he uses a homunculus to spy on them.
 
 ## Beyond Baldur's Gate
 
 Use the following tables to determine who or what the characters might encounter on the roads leading to and from Baldur's Gate. Use these tables as often as desired.
 
 **Encounters on the Roads**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^encounters-on-the-roads)`
 
 | dice: d20 | Encounter |
 |-----------|-----------|
@@ -1337,27 +1305,23 @@ Use the following tables to determine who or what the characters might encounter
 
 **Table J: Travelers around Baldur's Gate**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-j-travelers-around-baldurs-gate)`
-
 | dice: d12 | Travelers |
 |-----------|-----------|
-| 1 | `dice:3d4\|noform\|noparens\|avg` (`3d4`) local farmers or ranchers ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 2 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) foreign merchants ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) and `dice:3d6\|noform\|noparens\|avg` (`3d6`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) traveling in a caravan |
-| 3 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) scholars ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 4 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) migrants or refugees ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 5 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) Flaming Fist soldiers ([veterans](/3-Mechanics/CLI/bestiary/humanoid/warrior-veteran-xmm.md)) |
-| 6 | Family of `dice:1d4\|noform\|noparens\|avg` (`1d4`) patriars ([nobles](/3-Mechanics/CLI/bestiary/humanoid/noble-xmm.md)) in a coach pulled by two [draft horses](/3-Mechanics/CLI/bestiary/beast/draft-horse-xmm.md), with `dice:2d6\|noform\|noparens\|avg` (`2d6`) [guards](/3-Mechanics/CLI/bestiary/humanoid/guard-xmm.md) on [riding horses](/3-Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) providing escort |
-| 7 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) mercenaries for hire ([thugs](/3-Mechanics/CLI/bestiary/humanoid/tough-xmm.md)) |
-| 8 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) religious pilgrims ([acolytes](/3-Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm.md)) |
-| 9 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) Guild agents ([bandits](/3-Mechanics/CLI/bestiary/humanoid/bandit-xmm.md)) |
-| 10 | 1 [archmage](/3-Mechanics/CLI/bestiary/humanoid/archmage-xmm.md) accompanied by a [shield guardian](/3-Mechanics/CLI/bestiary/construct/shield-guardian-xmm.md) |
-| 11 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) entertainers ([commoners](/3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md)) |
-| 12 | 1 [gladiator](/3-Mechanics/CLI/bestiary/humanoid/gladiator-xmm.md) leading an ox, which is hauling a prison wagon that contains a [medusa](/3-Mechanics/CLI/bestiary/monstrosity/medusa-xmm.md) wearing a burlap hood over her head and shackles on her wrists |
+| 1 | `3d4` local farmers or ranchers (commoners) |
+| 2 | `1d4` foreign merchants (commoners) and `3d6` guards traveling in a caravan |
+| 3 | `1d6` scholars (commoners) |
+| 4 | `3d6` migrants or refugees (commoners) |
+| 5 | `2d4` Flaming Fist soldiers (veterans) |
+| 6 | Family of `1d4` patriars (nobles) in a coach pulled by two draft horses, with `2d6` guards on riding horses providing escort |
+| 7 | `2d4` mercenaries for hire (thugs) |
+| 8 | `1d6` religious pilgrims (acolytes) |
+| 9 | `1d6` Guild agents (bandits) |
+| 10 | 1 archmage accompanied by a shield guardian |
+| 11 | `1d6` entertainers (commoners) |
+| 12 | 1 gladiator leading an ox, which is hauling a prison wagon that contains a medusa wearing a burlap hood over her head and shackles on her wrists |
 ^table-j-travelers-around-baldurs-gate
 
 **Table K: Travelers' Agenda**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^table-k-travelers-agenda)`
 
 | dice: d10 | Heading to Baldur's Gate to... |
 |-----------|--------------------------------|
@@ -1375,25 +1339,23 @@ Use the following tables to determine who or what the characters might encounter
 
 **Table L: Monsters around Baldur's Gate**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^table-l-monsters-around-baldurs-gate)`
-
 | dice: d12 | Encounter |
 |-----------|-----------|
-| 1 | `dice:1d6\|noform\|noparens\|avg` (`1d6`) [werewolves](/3-Mechanics/CLI/bestiary/monstrosity/werewolf-xmm.md) disguised as human beggars or a pack of wolves |
-| 2 | `dice:2d4\|noform\|noparens\|avg` (`2d4`) [stirges](/3-Mechanics/CLI/bestiary/monstrosity/stirge-xmm.md) |
-| 3 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [ettercaps](/3-Mechanics/CLI/bestiary/monstrosity/ettercap-xmm.md) and `dice:1d4\|noform\|noparens\|avg` (`1d4`) [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
-| 4 | `dice:3d6\|noform\|noparens\|avg` (`3d6`) [kobolds](/3-Mechanics/CLI/bestiary/dragon/kobold-warrior-xmm.md) |
-| 5 | 1 [goblin boss](/3-Mechanics/CLI/bestiary/fey/goblin-boss-xmm.md) and `dice:3d6\|noform\|noparens\|avg` (`3d6`) [goblins](/3-Mechanics/CLI/bestiary/fey/goblin-warrior-xmm.md) |
-| 6 | 1 [dryad](/3-Mechanics/CLI/bestiary/fey/dryad-xmm.md) and `dice:1d4\|noform\|noparens\|avg` (`1d4`) [sprites](/3-Mechanics/CLI/bestiary/fey/sprite-xmm.md) lurking in a tree |
-| 7 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [ankhegs](/3-Mechanics/CLI/bestiary/monstrosity/ankheg-xmm.md) that burrow up from the ground |
-| 8 | 1 [basilisk](/3-Mechanics/CLI/bestiary/monstrosity/basilisk-xmm.md) |
-| 9 | `dice:1d4\|noform\|noparens\|avg` (`1d4`) [jackalweres](/3-Mechanics/CLI/bestiary/fiend/jackalwere-xmm.md) disguised as human beggars, entertainers, or merchants |
-| 10 | 1 [hobgoblin captain](/3-Mechanics/CLI/bestiary/fey/hobgoblin-captain-xmm.md) and `dice:3d6\|noform\|noparens\|avg` (`3d6`) [hobgoblins](/3-Mechanics/CLI/bestiary/fey/hobgoblin-warrior-xmm.md) |
-| 11 | 1 [gnoll pack lord](/3-Mechanics/CLI/bestiary/fiend/gnoll-pack-lord-xmm.md) and `dice:3d6\|noform\|noparens\|avg` (`3d6`) [gnolls](/3-Mechanics/CLI/bestiary/fiend/gnoll-warrior-xmm.md) |
-| 12 | 1 [wyvern](/3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) |
+| 1 | `1d6` werewolves disguised as human beggars or a pack of wolves |
+| 2 | `2d4` stirges |
+| 3 | `1d4` ettercaps and `1d4` giant spiders |
+| 4 | `3d6` kobolds |
+| 5 | 1 goblin boss and `3d6` goblins |
+| 6 | 1 dryad and `1d4` sprites lurking in a tree |
+| 7 | `1d4` ankhegs that burrow up from the ground |
+| 8 | 1 basilisk |
+| 9 | `1d4` jackalweres disguised as human beggars, entertainers, or merchants |
+| 10 | 1 hobgoblin captain and `3d6` hobgoblins |
+| 11 | 1 gnoll pack lord and `3d6` gnolls |
+| 12 | 1 wyvern |
 ^table-l-monsters-around-baldurs-gate
 
-![Wyvern](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/122-u05el-06-11.webp#center)
+![Wyvern](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/122-u05el-06-11.webp#center)
 
 ## Baldur's Gate Character Backgrounds
 
@@ -1403,20 +1365,20 @@ This material is meant to be a tool for you, the DM. Once players have decided o
 
 The "Dark Secrets" section presents a crime or sin that might force a party together or underlie their deeds. Once players have sorted out their individual backgrounds, give them the opportunity to choose a dark secret. This secret might have exciting or ominous ramifications as the party's adventures unfold.
 
-- [Acolyte](/3-Mechanics/CLI/backgrounds/baldurs-gate-acolyte-bgdia.md)  
-- [Charlatan](/3-Mechanics/CLI/backgrounds/baldurs-gate-charlatan-bgdia.md)  
-- [Criminal](/3-Mechanics/CLI/backgrounds/baldurs-gate-criminal-bgdia.md)  
-- [Entertainer](/3-Mechanics/CLI/backgrounds/baldurs-gate-entertainer-bgdia.md)  
-- [Faceless (new background)](/3-Mechanics/CLI/backgrounds/faceless-bgdia.md)  
-- [Folk Hero](/3-Mechanics/CLI/backgrounds/baldurs-gate-folk-hero-bgdia.md)  
-- [Guild Artisan](/3-Mechanics/CLI/backgrounds/baldurs-gate-guild-artisan-bgdia.md)  
-- [Hermit](/3-Mechanics/CLI/backgrounds/baldurs-gate-hermit-bgdia.md)  
-- [Noble](/3-Mechanics/CLI/backgrounds/baldurs-gate-noble-bgdia.md)  
-- [Outlander](/3-Mechanics/CLI/backgrounds/baldurs-gate-outlander-bgdia.md)  
-- [Sage](/3-Mechanics/CLI/backgrounds/baldurs-gate-sage-bgdia.md)  
-- [Sailor](/3-Mechanics/CLI/backgrounds/baldurs-gate-sailor-bgdia.md)  
-- [Soldier](/3-Mechanics/CLI/backgrounds/baldurs-gate-soldier-bgdia.md)  
-- [Urchin](/3-Mechanics/CLI/backgrounds/baldurs-gate-urchin-bgdia.md)  
+- [Acolyte](3-Mechanics/CLI/backgrounds/baldurs-gate-acolyte-bgdia.md)  
+- [Charlatan](3-Mechanics/CLI/backgrounds/baldurs-gate-charlatan-bgdia.md)  
+- [Criminal](3-Mechanics/CLI/backgrounds/baldurs-gate-criminal-bgdia.md)  
+- [Entertainer](3-Mechanics/CLI/backgrounds/baldurs-gate-entertainer-bgdia.md)  
+- [Faceless (new background)](3-Mechanics/CLI/backgrounds/faceless-bgdia.md)  
+- [Folk Hero](3-Mechanics/CLI/backgrounds/baldurs-gate-folk-hero-bgdia.md)  
+- [Guild Artisan](3-Mechanics/CLI/backgrounds/baldurs-gate-guild-artisan-bgdia.md)  
+- [Hermit](3-Mechanics/CLI/backgrounds/baldurs-gate-hermit-bgdia.md)  
+- [Noble](3-Mechanics/CLI/backgrounds/baldurs-gate-noble-bgdia.md)  
+- [Outlander](3-Mechanics/CLI/backgrounds/baldurs-gate-outlander-bgdia.md)  
+- [Sage](3-Mechanics/CLI/backgrounds/baldurs-gate-sage-bgdia.md)  
+- [Sailor](3-Mechanics/CLI/backgrounds/baldurs-gate-sailor-bgdia.md)  
+- [Soldier](3-Mechanics/CLI/backgrounds/baldurs-gate-soldier-bgdia.md)  
+- [Urchin](3-Mechanics/CLI/backgrounds/baldurs-gate-urchin-bgdia.md)  
 
 ## Dark Secrets
 
@@ -1426,17 +1388,15 @@ At least one NPC in Baldur's Gate knows the party's dark secret. Use the "Who Kn
 
 **Who Knows?**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^who-knows)`
-
 | dice: d8 | NPC |
 |----------|-----|
 | 1 | Captain Zodge (see "Meeting Captain Zodge") |
-| 2 | [Duke Thalamra Vanthampur](/3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) |
-| 3 | [Thurstwell Vanthampur](/3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) |
-| 4 | [Amrik Vanthampur](/3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md) |
-| 5 | [Mortlock Vanthampur](/3-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md) |
+| 2 | [Duke Thalamra Vanthampur](3-Mechanics/CLI/bestiary/npc/duke-thalamra-vanthampur-bgdia.md) |
+| 3 | [Thurstwell Vanthampur](3-Mechanics/CLI/bestiary/npc/thurstwell-vanthampur-bgdia.md) |
+| 4 | [Amrik Vanthampur](3-Mechanics/CLI/bestiary/npc/amrik-vanthampur-bgdia.md) |
+| 5 | [Mortlock Vanthampur](3-Mechanics/CLI/bestiary/npc/mortlock-vanthampur-bgdia.md) |
 | 6 | Falaster Fisk (see "Falaster Fisk") |
-| 7 | [Nine-Fingers Keene](/3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) |
+| 7 | [Nine-Fingers Keene](3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) |
 | 8 | Ultiss (see "Surprise! Dragon Cultists!") |
 ^who-knows
 
@@ -1449,8 +1409,6 @@ The characters are all that's left of a group that strove to change Baldur's Gat
 Opportunities to subvert minds and deeds exist throughout Baldur's Gate. When an opportunity presented itself, the characters seized on one in particular. Define the particulars of their conspiracy, either by having the players craft their own or by rolling on the Conspiracy Details table.
 
 **Conspiracy Details**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^conspiracy-details)`
 
 | dice: d4 | Conspiracy Details |
 |----------|--------------------|
@@ -1465,8 +1423,6 @@ Opportunities to subvert minds and deeds exist throughout Baldur's Gate. When an
 Each character plays a role in the conspiracy, determined by rolling on the Conspiracy: Character Roles table or choosing an appropriate entry.
 
 **Conspiracy: Character Roles**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^conspiracy-character-roles)`
 
 | dice: d6 | Character's Role |
 |----------|------------------|
@@ -1483,8 +1439,6 @@ Each character plays a role in the conspiracy, determined by rolling on the Cons
 Determine the challenge currently facing the characters by rolling on the Conspiracy Consequences table below or by having the players devise other grim consequences of their conspiracy.
 
 **Conspiracy Consequences**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^conspiracy-consequences)`
 
 | dice: d6 | Conspiracy Consequences |
 |----------|-------------------------|
@@ -1506,8 +1460,6 @@ Did they kill for justice or just for the thrill? Define the particulars of the 
 
 **Murder Details**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^murder-details)`
-
 | dice: d6 | Murder Details |
 |----------|----------------|
 | 1 | She knew, which meant tomorrow every pastry-loving patriar in Baldur's Gate would too. The Upper City's most notorious gossip, Ellyn Harbreeze of Harbreeze Bakery, had to be dealt with. Who knew a bakery could be so dangerous? |
@@ -1518,15 +1470,13 @@ Did they kill for justice or just for the thrill? Define the particulars of the 
 | 6 | They should call it justice. Jedren Hiller, Bailiff of the Wide, had preyed on desperate business owners for years, growing fatter and richer every day. Fate gave you the opportunity. You're a hero, but no one cheered. |
 ^murder-details
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/125-ungrs-06-14.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/125-ungrs-06-14.webp#center)
 
 #### Roles in the Murder
 
 Each character plays a role in the murder, determined by rolling on the Murder: Character Roles table or choosing an appropriate entry.
 
 **Murder: Character Roles**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^murder-character-roles)`
 
 | dice: d4 | Character's Role |
 |----------|------------------|
@@ -1541,8 +1491,6 @@ Each character plays a role in the murder, determined by rolling on the Murder: 
 People are talking. Members of the Watch, the Flaming Fist, the Guild, or others are asking questions. If they find out what the characters did, their trial will be short and their deaths will be just. Determine the fallout of the characters' murderous deeds by rolling on the Murder Consequences table, or allow the players to create their own ominous stakes.
 
 **Murder Consequences**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^murder-consequences)`
 
 | dice: d6 | Murder Consequences |
 |----------|---------------------|
@@ -1564,8 +1512,6 @@ Define the particulars of the party's theft, either by having the players craft 
 
 **Theft Details**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^theft-details)`
-
 | dice: d6 | Theft Details |
 |----------|---------------|
 | 1 | You did it for the prestige as much as the money. It took months to plan and even longer to get everyone into place. The High Hall is locked down tight every evening. Its crypts less so. Now a priceless treasure of the city, the spyglass of Balduran himself, is yours. |
@@ -1582,8 +1528,6 @@ Each character plays a role in the theft, determined by rolling on the Theft: Ch
 
 **Theft: Character Roles**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^theft-character-roles)`
-
 | dice: d6 | Character's Role |
 |----------|------------------|
 | 1 | **Breaker**. Force is your specialty, whether your breaking through a wall or breaking bones. |
@@ -1599,8 +1543,6 @@ Each character plays a role in the theft, determined by rolling on the Theft: Ch
 Determine how the characters' heist turned out by rolling on the Theft Consequences or having the players determine the consequences of their dubious enterprise.
 
 **Theft Consequences**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^theft-consequences)`
 
 | dice: d6 | Theft Consequences |
 |----------|--------------------|
@@ -1622,25 +1564,21 @@ Define the particulars of the failed coup, either by having the players craft th
 
 **Failed Coup Details**
 
-`dice: [](10-baldurs-gate-gazetteer.md#^failed-coup-details)`
-
 | dice: d4 | Failed Coup Details |
 |----------|---------------------|
 | 1 | Your patriar parents seemed like relics. Their days of leading the family and its business holdings were long past. With the help of their partners, you sought to seize your family's holdings, but you underestimated the cunning that comes with age. |
 | 2 | A patriar promised you riches or something else of value if you helped remove Duke Dillard Portyr from power, creating a vacancy on the Council of Four. Your plot to blackmail the duke into retirement backfired when a rival of the treacherous patriar learned of the plot. Will the patriar give you up to save themselves? |
-| 3 | [Nine-Fingers Keene](/3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) thinks she has the Guild under her thumb, but various kingpins are plotting against her. The Guild will descend into violence unless it has a strong leader. You knew that Nine-Fingers wasn't going to step down willingly. Scaring her into retirement seemed like the only humane thing to do, but she refused to take the hint. Now she and the kingpins have it out for you. |
+| 3 | [Nine-Fingers Keene](3-Mechanics/CLI/bestiary/npc/nine-fingers-keene-bgdia.md) thinks she has the Guild under her thumb, but various kingpins are plotting against her. The Guild will descend into violence unless it has a strong leader. You knew that Nine-Fingers wasn't going to step down willingly. Scaring her into retirement seemed like the only humane thing to do, but she refused to take the hint. Now she and the kingpins have it out for you. |
 | 4 | The Flaming Fist is corrupt. You turned against your commanding officer, seeking to take the Fist in a new direction. Now you're branded a traitor. |
 ^failed-coup-details
 
-![](/3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/126-dx5pm-06-15.webp#center)
+![](3-Mechanics/CLI/adventures/baldurs-gate-descent-into-avernus/img/126-dx5pm-06-15.webp#center)
 
 #### Roles in the Failed Coup
 
 Each character plays a role in the failed coup, determined by rolling on the Failed Coup: Character Roles table or choosing an appropriate entry.
 
 **Failed Coup: Character Roles**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^failed-coup-character-roles)`
 
 | dice: d6 | Character's Role |
 |----------|------------------|
@@ -1657,8 +1595,6 @@ Each character plays a role in the failed coup, determined by rolling on the Fai
 Those opposed to the attempted coup didn't take the characters' treachery lightly. Determine how the coup's intended target turned the tables on the characters by rolling on the Failed Coup Consequences table or crafting some worse situation.
 
 **Failed Coup Consequences**
-
-`dice: [](10-baldurs-gate-gazetteer.md#^failed-coup-consequences)`
 
 | dice: d6 | Failed Coup Consequences |
 |----------|--------------------------|

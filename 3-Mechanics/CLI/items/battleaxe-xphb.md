@@ -7,17 +7,17 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Battleaxe"
 ---
 # Battleaxe
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/battleaxe.webp#right)
+![](3-Mechanics/CLI/items/img/battleaxe.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Cost**: 10 gp
 - **Weight**: 4.0 lbs.
 

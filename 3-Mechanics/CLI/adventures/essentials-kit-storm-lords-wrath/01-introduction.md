@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Introduction
+- "Introduction"
 ---
 # Introduction
 *Source: Essentials Kit: Storm Lord's Wrath* 
 
-![](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/000-a97mm-broken-town.webp#center)
+![](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/000-a97mm-broken-town.webp#center)
 
 If the characters played Dragon of Icespire Peak, they have already saved the area around Phandalin from many threats, large and small, and they are likely 7th level, ready for their next challenge. The Sword Coast is a region of the Forgotten Realms teeming with danger and intrigue. Just a short ride west of Phandalin on the Triboar Trail, where it meets the High Road, more nefarious schemes and terrible monsters await.
 
@@ -75,8 +75,8 @@ This adventure contains advice for adjusting encounters based on the number of c
 ^map-of-the-sword-coast
 
 > [!gallery]
-> ![Map 1: The Sword Coast](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/001-map-sc.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/002-wnecz-map-sword-coast-pc.webp#gallery)
+> ![Map 1: The Sword Coast](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/001-map-sc.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/002-wnecz-map-sword-coast-pc.webp#gallery)
 
 ### High Road
 
@@ -84,7 +84,7 @@ This highway hugs the coast, connecting Neverwinter to the coastal cities of Lus
 
 ### Kryptgarden Forest
 
-This ancient forest tucked behind the Sword Mountains contains the ruins of bygone dwarven civilizations. The lair of the ancient green dragon [Claugiyliamatar](/3-Mechanics/CLI/bestiary/npc/claugiyliamatar-skt.md), nicknamed the Old Gnawbone, is found in these woods.
+This ancient forest tucked behind the Sword Mountains contains the ruins of bygone dwarven civilizations. The lair of the ancient green dragon [Claugiyliamatar](3-Mechanics/CLI/bestiary/npc/claugiyliamatar-skt.md), nicknamed the Old Gnawbone, is found in these woods.
 
 ### Leilon
 

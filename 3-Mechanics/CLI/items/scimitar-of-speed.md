@@ -9,15 +9,15 @@ tags:
 - ttrpg-cli/item/tier/major
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Scimitar of Speed"
 ---
 # Scimitar of Speed
-*Weapon ([scimitar](/3-Mechanics/CLI/items/scimitar.md)), major, very rare (requires attunement)*  
+*Weapon (scimitar), major, very rare (requires attunement)*  
 
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: Finesse, Light
 - **Weight**: 3.0 lbs.
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.

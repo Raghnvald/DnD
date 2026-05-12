@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lady Gondafrey
+- "Lady Gondafrey"
 ---
-# [Lady Gondafrey](3-Mechanics\CLI\bestiary\npc/lady-gondafrey-wdh.md)
+# [Lady Gondafrey](3-Mechanics/CLI/bestiary/npc/lady-gondafrey-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 152*  
 
 Lafy Gondafrey is the result of a magical experiment, a gargoyle that has been imbued with the personality of a human knight of Tyr (god of justice). Manshoon is amused by the creature so keeps it alive and locked in a cell.
@@ -38,8 +38,10 @@ Lafy Gondafrey is the result of a magical experiment, a gargoyle that has been i
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't adamantine"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, petrified, poisoned"
-"senses": "darkvision 60 ft., passive Perception 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "2"
 "traits":
@@ -49,14 +51,14 @@ Lafy Gondafrey is the result of a magical experiment, a gargoyle that has been i
 "actions":
   - "desc": "The gargoyle makes two attacks: one with its bite and one with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Claws"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/lady-gondafrey-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/lady-gondafrey-wdh.webp"
 ```
 ^statblock

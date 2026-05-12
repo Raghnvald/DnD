@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Molydeus
+- "Molydeus"
 ---
-# [Molydeus](3-Mechanics\CLI\bestiary\fiend/molydeus-mpmm.md)
+# [Molydeus](3-Mechanics/CLI/bestiary/fiend/molydeus-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184, Mordenkainen's Tome of Foes p. 134*  
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -44,16 +44,16 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   - "wisdom": !!int "14"
   - "charisma": !!int "14"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+21"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [deafened](/3-Mechanics/CLI/conditions.md#Deafened), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [stunned](/3-Mechanics/CLI/conditions.md#Stunned)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 31"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 31"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "21"
 "traits":
@@ -66,30 +66,29 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   - "desc": "The molydeus makes one Demonic Weapon attack, one Snakebite attack, and\
       \ one Wolf Bite attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 35\
-      \ (4d12 + 9) force damage. If the target has at least one head and the molydeus\
-      \ rolled a 20 on the attack roll, the target is decapitated and dies if it can't\
-      \ survive without that head. A target is immune to this effect if it takes none\
-      \ of the damage, has legendary actions, or is Huge or larger. Such a creature\
-      \ takes an extra 27 (6d8) force damage from the hit."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:*\
+      \ 35 (4d12 + 9) force damage. If the target has at least one head and the\
+      \ molydeus rolled a 20 on the attack roll, the target is decapitated and dies\
+      \ if it can't survive without that head. A target is immune to this effect if\
+      \ it takes none of the damage, has legendary actions, or is Huge or larger.\
+      \ Such a creature takes an extra 27 (6d8) force damage from the hit."
     "name": "Demonic Weapon"
   - "desc": "*Melee Weapon Attack:* +16 to hit, reach 15 ft., one creature. *Hit:*\
       \ 16 (2d6 + 9) poison damage. The target must succeed on a DC 22 Constitution\
       \ saving throw, or its hit point maximum is reduced by an amount equal to the\
       \ damage taken. This reduction lasts until the target finishes a long rest.\
-      \ The target transforms into a [manes](/3-Mechanics/CLI/bestiary/fiend/manes-xmm.md)\
+      \ The target transforms into a [manes](3-Mechanics/CLI/bestiary/fiend/manes.md)\
       \ if this reduces its hit point maximum to 0. This transformation can be ended\
-      \ only by a [wish](/3-Mechanics/CLI/spells/wish-xphb.md) spell."
+      \ only by a [wish](3-Mechanics/CLI/spells/wish.md) spell."
     "name": "Snakebite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 25\
-      \ (3d10 + 9) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 25 (3d10 + 9) necrotic damage."
     "name": "Wolf Bite"
   - "desc": "The molydeus casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
-      \n**At will:** [dispel magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
-      \ [polymorph](/3-Mechanics/CLI/spells/polymorph-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md),\
-      \ [teleport](/3-Mechanics/CLI/spells/teleport-xphb.md)\n\n**3/day:** [lightning\
-      \ bolt](/3-Mechanics/CLI/spells/lightning-bolt-xphb.md)"
+      \n**At will:** [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md), [polymorph](3-Mechanics/CLI/spells/polymorph.md),\
+      \ [telekinesis](3-Mechanics/CLI/spells/telekinesis.md), [teleport](3-Mechanics/CLI/spells/teleport.md)\n\
+      \n**3/day:** [lightning bolt](3-Mechanics/CLI/spells/lightning-bolt.md)"
     "name": "Spellcasting"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, the molydeus can expend a use to take one of the following actions. The\
@@ -97,13 +96,13 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
 "legendary_actions":
   - "desc": "The molydeus makes one Demonic Weapon or Snakebite attack."
     "name": "Attack"
-  - "desc": "The molydeus moves without provoking [opportunity attacks](/3-Mechanics/CLI/actions.md#Opportunity%20Attack)."
+  - "desc": "The molydeus moves without provoking [opportunity attacks](3-Mechanics/CLI/rules/actions.md#Opportunity%20Attack)."
     "name": "Move"
   - "desc": "The molydeus uses Spellcasting."
     "name": "Cast a Spell (Costs 2 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/molydeus-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/molydeus-mpmm.webp"
 ```
 ^statblock

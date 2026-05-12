@@ -10,16 +10,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Death's Head
+- "Death's Head"
 ---
-# [Death's Head](3-Mechanics\CLI\bestiary\undead/deaths-head-vrgr.md)
+# [Death's Head](3-Mechanics/CLI/bestiary/undead/deaths-head-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 232*  
 
 A death's head is a disembodied, flying head. The type of creature one of these grotesque undead originated from determines how it terrorizes it prey. A death's head that arises from a person or animal swoops down to rip apart victims with its gnashing teeth. One with the head of monster like a nothic or medusa, though, retains a measure of the power it had in life and can befuddle the minds or petrify the bodies of its victims.
 
 ## Death's Head Tree
 
-In cursed wilds grow death's head trees, awakened trees from which `dice:2d6|noform|noparens|avg` (`2d6`) death's heads dangle like foul fruit. The heads detach to protect the tree if it's threatened. Should the tree be destroyed, the heads scatter and plant themselves in unholy ground. A new death's head tree emerges from each planted head `dice:1d12|noform|noparens|avg` (`1d12`) months later.
+In cursed wilds grow death's head trees, awakened trees from which `2d6` death's heads dangle like foul fruit. The heads detach to protect the tree if it's threatened. Should the tree be destroyed, the heads scatter and plant themselves in unholy ground. A new death's head tree emerges from each planted head `1d12` months later.
 
 ```statblock
 "name": "Death's Head (VRGR)"
@@ -50,24 +50,26 @@ In cursed wilds grow death's head trees, awakened trees from which `dice:2d6|nof
   - "desc": "The death's head doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage plus 7 (2d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) piercing damage plus 7 (2d6) necrotic damage."
     "name": "Gnashing Bite (Gnashing Head Only)"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage plus 5 (1d10) necrotic damage, and the target must succeed\
-      \ on a DC 10 Intelligence saving throw or it can't take a reaction until the\
-      \ end of its next turn. Moreover, on its next turn, the target must choose whether\
-      \ it gets a move, an action, or a bonus action; it gets only one of the three."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) piercing damage plus 5 (1d10) necrotic damage, and the target\
+      \ must succeed on a DC 10 Intelligence saving throw or it can't take a reaction\
+      \ until the end of its next turn. Moreover, on its next turn, the target must\
+      \ choose whether it gets a move, an action, or a bonus action; it gets only\
+      \ one of the three."
     "name": "Mind-Bending Bite (Aberrant Head Only)"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) piercing damage, and the target must succeed on a DC 10 Constitution\
-      \ saving throw or be [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) piercing damage, and the target must succeed on a DC 10 Constitution\
+      \ saving throw or be [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ as it begins to turn to stone. The target must repeat the saving throw at\
       \ the end of its next turn. On a success, the effect ends. On a failure, the\
-      \ target is [petrified](/3-Mechanics/CLI/conditions.md#Petrified) for 10 minutes."
+      \ target is [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified) for 10\
+      \ minutes."
     "name": "Petrifying Bite (Petrifying Head Only)"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/deaths-head-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/deaths-head-vrgr.webp"
 ```
 ^statblock

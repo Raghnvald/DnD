@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/tce
 - ttrpg-cli/subclass/monk/astral-self
 aliases:
-- Way of the Astral Self
+- "Way of the Astral Self"
 ---
 # Way of the Astral Self
 *[Monk](./monk-xphb.md): Monk Subclass*  
@@ -47,11 +47,9 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Way of the Astral Self (Level 3)
-
 A monk who follows the Way of the Astral Self believes their body is an illusion. They see their ki as a representation of their true form, an astral self. This astral self has the capacity to be a force of order or disorder, with some monasteries training students to use their power to protect the weak and other instructing aspirants in how to manifest their true selves in service to the mighty.
+
+## Subclass Features
 
 ### Forms of Your Astral Self (Level 3)
 
@@ -65,7 +63,7 @@ When choosing this path, consider the quirks that define your monk. Are you obse
 
 Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.
 
-For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or die.
+For 10 minutes, these spectral arms hover near your shoulders or surround your arms (your choice). You determine the arms' appearance, and they vanish early if you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or die.
 
 While the spectral arms are present, you gain the following benefits:
 
@@ -78,26 +76,17 @@ While the spectral arms are present, you gain the following benefits:
 
 *6th-level Way of the Astral Self feature*
 
-You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or die.
+You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or die.
 
 The spectral visage covers your face like a helmet or mask. You determine its appearance.
 
 While the spectral visage is present, you gain the following benefits.
 
-#### Astral Sight
-_Source: Tasha's Cauldron of Everything_
+**Astral Sight.** You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
 
-You can see normally in darkness, both magical and nonmagical, to a distance of 120 feet.
+**Wisdom of the Spirit.** You have advantage on Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) and Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)) checks.
 
-#### Wisdom of the Spirit
-_Source: Tasha's Cauldron of Everything_
-
-You have advantage on Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) and Charisma ([Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)) checks.
-
-#### Word of the Spirit
-_Source: Tasha's Cauldron of Everything_
-
-When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
+**Word of the Spirit.** When you speak, you can direct your words to a creature of your choice that you can see within 60 feet of you, making it so only that creature can hear you. Alternatively, you can amplify your voice so that all creatures within 600 feet can hear you.
 
 ### Body of the Astral Self (Level 11)
 
@@ -107,30 +96,18 @@ When you have both your astral arms and visage summoned, you can cause the body 
 
 While the spectral body is present, you gain the following benefits.
 
-#### Deflect Energy
-_Source: Tasha's Cauldron of Everything_
+**Deflect Energy.** When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `1d10` + your Wisdom modifier (minimum reduction of 1).
 
-When you take acid, cold, fire, force, lightning, or thunder damage, you can use your reaction to deflect it. When you do so, the damage you take is reduced by `dice:1d10|noform|noparens|avg` (`1d10`) + your Wisdom modifier (minimum reduction of 1).
-
-#### Empowered Arms
-_Source: Tasha's Cauldron of Everything_
-
-Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.
+**Empowered Arms.** Once on each of your turns when you hit a target with the Arms of the Astral Self, you can deal extra damage to the target equal to your Martial Arts die.
 
 ### Awakened Astral Self (Level 17)
 
 *17th-level Way of the Astral Self feature*
 
-Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) or die.
+Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) or die.
 
 While your astral self is awakened, you gain the following benefits.
 
-#### Armor of the Spirit
-_Source: Tasha's Cauldron of Everything_
+**Armor of the Spirit.** You gain a +2 bonus to Armor Class.
 
-You gain a +2 bonus to Armor Class.
-
-#### Astral Barrage
-_Source: Tasha's Cauldron of Everything_
-
-Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms.
+**Astral Barrage.** Whenever you use the Extra Attack feature to attack twice, you can instead attack three times if all the attacks are made with your astral arms.

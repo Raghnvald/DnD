@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cambion
+- "Cambion"
 ---
-# [Cambion](3-Mechanics\CLI\bestiary\fiend/cambion.md)
+# [Cambion](3-Mechanics/CLI/bestiary/fiend/cambion.md)
 *Source: Monster Manual p. 36*  
 
 A cambion is the offspring of a fiend (usually a succubus or incubus) and a humanoid (usually a human). Cambions inherit aspects of both parents, but their horns, leathery wings, and sinewy tails are hallmarks of their otherworldly parentage.
@@ -41,7 +41,7 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
 "type": "fiend"
 "alignment": "Any Evil alignment"
 "ac": !!int "19"
-"ac_class": "[scale mail](/3-Mechanics/CLI/items/scale-mail.md)"
+"ac_class": "[scale mail](3-Mechanics/CLI/items/scale-mail.md)"
 "hp": !!int "82"
 "hit_dice": "11d8 + 33"
 "modifier": !!int "4"
@@ -59,26 +59,28 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
   - "intelligence": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; poison; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Abyssal, Common, Infernal"
 "cr": "5"
 "traits":
   - "desc": "The cambion's spellcasting ability is Charisma (spell save DC 14). The\
       \ cambion can innately cast the following spells, requiring no material components:\n\
-      \n**3/day each:** [alter self](/3-Mechanics/CLI/spells/alter-self.md), [command](/3-Mechanics/CLI/spells/command.md),\
-      \ [detect magic](/3-Mechanics/CLI/spells/detect-magic.md)\n\n**1/day:** [plane\
-      \ shift](/3-Mechanics/CLI/spells/plane-shift.md) (self only)"
+      \n**3/day each:** [alter self](3-Mechanics/CLI/spells/alter-self.md), [command](3-Mechanics/CLI/spells/command.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md)\n\n**1/day:** [plane\
+      \ shift](3-Mechanics/CLI/spells/plane-shift.md) (self only)"
     "name": "Innate Spellcasting"
   - "desc": "The AC of the cambion includes its Charisma bonus."
     "name": "Fiendish Blessing"
@@ -87,23 +89,24 @@ The demon lord Graz'zt is fond of procreating with humanoids who have made pacts
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 7 (1d6 + 4) piercing damage, or 8 (1d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage."
+      \ damage if used with two hands to make a melee attack, plus 3 (1d6) fire\
+      \ damage."
     "name": "Spear"
-  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 10\
-      \ (3d6) fire damage."
+  - "desc": "*Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:*\
+      \ 10 (3d6) fire damage."
     "name": "Fire Ray"
   - "desc": "One humanoid the cambion can see within 30 feet of it must succeed on\
-      \ a DC 14 Wisdom saving throw or be magically [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ for 1 day. The [charmed](/3-Mechanics/CLI/conditions.md#Charmed) target obeys\
-      \ the cambion's spoken commands. If the target suffers any harm from the cambion\
-      \ or another creature or receives a suicidal command from the cambion, the target\
-      \ can repeat the saving throw, ending the effect on itself on a success. If\
-      \ a target's saving throw is successful, or if the effect ends for it, the creature\
-      \ is immune to the cambion's Fiendish Charm for the next 24 hours."
+      \ a DC 14 Wisdom saving throw or be magically [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ for 1 day. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
+      \ obeys the cambion's spoken commands. If the target suffers any harm from the\
+      \ cambion or another creature or receives a suicidal command from the cambion,\
+      \ the target can repeat the saving throw, ending the effect on itself on a success.\
+      \ If a target's saving throw is successful, or if the effect ends for it, the\
+      \ creature is immune to the cambion's Fiendish Charm for the next 24 hours."
     "name": "Fiendish Charm"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/cambion.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/cambion.webp"
 ```
 ^statblock
 

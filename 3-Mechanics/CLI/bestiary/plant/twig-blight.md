@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Twig Blight
+- "Twig Blight"
 ---
-# [Twig Blight](3-Mechanics\CLI\bestiary\plant/twig-blight.md)
+# [Twig Blight](3-Mechanics/CLI/bestiary/plant/twig-blight.md)
 *Source: Monster Manual p. 32. Available in the Basic Rules (2014)*  
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
@@ -64,12 +64,12 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
   - !!int "3"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_vulnerabilities": "fire"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [deafened](/3-Mechanics/CLI/conditions.md#Deafened)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond\
-  \ this radius), passive Perception 9"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 9"
 "languages": "understands Common but can't speak"
 "cr": "1/8"
 "traits":
@@ -77,12 +77,12 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
       \ shrub."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) piercing damage."
     "name": "Claws"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/twig-blight.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/twig-blight.webp"
 ```
 ^statblock
 

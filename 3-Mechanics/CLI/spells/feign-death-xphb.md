@@ -13,7 +13,7 @@ tags:
 - ttrpg-cli/spell/school/necromancy
 - ttrpg-cli/spell/subclass/arcane-trickster
 - ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
+- ttrpg-cli/spell/subclass/divine-soul
 - ttrpg-cli/spell/subclass/eldritch-knight
 - ttrpg-cli/spell/subclass/the-undying
 classes:
@@ -23,11 +23,11 @@ classes:
 - Druid
 - Fighter (Eldritch Knight)
 - Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
+- Sorcerer (Divine Soul)
 - Warlock (The Undying)
 - Wizard
 aliases:
-- Feign Death
+- "Feign Death"
 ---
 # Feign Death
 *3rd-level, Necromancy (ritual)*  
@@ -40,10 +40,10 @@ aliases:
 
 You touch a willing creature and put it into a cataleptic state that is indistinguishable from death.
 
-For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](/3-Mechanics/CLI/conditions.md#Blinded) and [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) conditions, and its [Speed](/3-Mechanics/CLI/variant-rules/speed-xphb.md) is 0.
+For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) conditions, and its [Speed](3-Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0.
 
-The target also has [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage except Psychic damage, and it has [Immunity](/3-Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition.
+The target also has [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage except Psychic damage, and it has [Immunity](3-Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition.
 
-**Classes**: [Bard (College of Lore)](/3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](/3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](/3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Good)](/3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Undying)](/3-Mechanics/CLI/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG;class=XPHB"); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard (College of Lore)](3-Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](3-Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](3-Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul)](3-Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Undying)](3-Mechanics/CLI/lists/list-spells-classes-the-undying-scag.md "subclass=SCAG;class=XPHB"); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Player's Handbook (2024) p. 271*

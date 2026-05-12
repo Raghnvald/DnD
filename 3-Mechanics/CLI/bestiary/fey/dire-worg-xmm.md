@@ -15,9 +15,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dire Worg
+- "Dire Worg"
 ---
-# [Dire Worg](3-Mechanics\CLI\bestiary\fey/dire-worg-xmm.md)
+# [Dire Worg](3-Mechanics/CLI/bestiary/fey/dire-worg-xmm.md)
 *Source: Monster Manual (2024) p. 335*  
 
 Dire worgs are larger than common worgs and possess a supernaturally terrifying howl. They frequently hunt alongside ettins, ogres, and trolls.
@@ -52,26 +52,26 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 21"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 21"
 "languages": "Goblin, Sylvan, Worg"
 "cr": "10"
 "traits":
-  - "desc": "The worg has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "The worg has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
 "actions":
   - "desc": "The worg makes three Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 15 (2d8 + 6) Piercing damage\
-      \ plus 7 (2d6) Poison damage, and the target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the start of the worg's next turn. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned),\
-      \ the target can't regain [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md)."
+  - "desc": "*Melee Attack Roll:* +10, reach 5 ft. *Hit:* 15 (2d8 + 6) Piercing\
+      \ damage plus 7 (2d6) Poison damage, and the target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ condition until the start of the worg's next turn. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ the target can't regain [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)."
     "name": "Bite"
   - "desc": "*Wisdom Saving Throw:* DC 16, each creature within 30 feet that isn't\
-      \ a worg. *Failure:* 36 (8d8) Psychic damage, and the target has the [Frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ a worg. *Failure:* 36 (8d8) Psychic damage, and the target has the [Frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ condition until the start of the worg's next turn. *Success:* Half damage\
       \ only."
     "name": "Dreadful Howl (Recharge 5-6)"
@@ -81,7 +81,7 @@ Sometimes mistaken at first for giant wolves, worgs are vicious hunters. These s
     "name": "Warp Step"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/dire-worg-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/dire-worg-xmm.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/9
-- new/monster/size/medium
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Auril (First Form)
+- "Auril (First Form)"
 ---
-# [Auril (First Form)](3-Mechanics\CLI\bestiary\npc/auril-first-form-idrotf.md)
+# [Auril (First Form)](3-Mechanics/CLI/bestiary/npc/auril-first-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 275*  
 
 In her first form, Auril appears as a hunched, 7-foot-tall biped with the head of a snowy owl, black talons, cloven hooves, and grayish-white wolf fur covering her body from the neck down. Protruding from her feathery owl's head is a pair of curved goat horns. A cloak and cowl made of pristine white snow conceals much of her tripartite form, which her worshipers refer to as the Cold Crone. This cloak can transform into a pair of owl's wings when Auril sees fit.
@@ -43,7 +43,7 @@ Auril dwells on Solstice, a frozen island hidden among the titanic icebergs in t
 
 While she's on the island, the Frostmaiden can take one of the following lair actions on initiative count 20 (losing initiative ties):
 
-- Auril instantly knows the locations and health of all other creatures on the island. She knows how much damage each of these creatures has taken, how many levels of exhaustion they have, and what conditions are affecting them currently.  
+- Auril instantly knows the locations and health of all other creatures on the island. She knows how much damage each of these creatures has taken, how many levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) they have, and what conditions are affecting them currently.  
 - Auril instantly teleports to any location on the island. If the space she chooses as her destination is already occupied, Auril appears in the closest unoccupied space to it instead.  
 - Auril telepathically communicates with any number of creatures at once, provided they're all on the island. This effect lasts until Auril stops concentrating on it (as if concentrating on a spell) or until she leaves the island or uses a different lair action.  
 
@@ -76,33 +76,38 @@ A stat block is given for each of Auril's three forms. These descriptions do not
   - "constitution": !!int "9"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+12"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
 "damage_vulnerabilities": "radiant"
 "damage_immunities": "cold, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
-  \ stunned"
-"senses": "darkvision 120 ft., truesight 120 ft., passive Perception 26"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
+  \ 120 ft., passive Perception 26"
 "languages": "all, telepathy 1000 ft."
 "cr": "9"
 "traits":
   - "desc": "Auril's innate spellcasting ability is Charisma (spell save DC 21, +13\
       \ to hit with spell attacks). She can innately cast the following spells, requiring\
-      \ no material components:\n\n**At will:** chromatic orb (cold orb only; see\
-      \ \"Actions\" below), detect magic, misty step\n\n**2/day each:** control weather,\
-      \ detect thoughts, ice storm"
+      \ no material components:\n\n**At will:** [chromatic orb](3-Mechanics/CLI/spells/chromatic-orb.md)\
+      \ (cold orb only; see \"Actions\" below), [detect magic](3-Mechanics/CLI/spells/detect-magic.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step.md)\n\n**2/day each:** [control\
+      \ weather](3-Mechanics/CLI/spells/control-weather.md), [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm.md)"
     "name": "Innate Spellcasting"
-  - "desc": "Auril can't be surprised and can't be changed into another form against\
-      \ her will."
+  - "desc": "Auril can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
+      \ and can't be changed into another form against her will."
     "name": "Divine Being"
   - "desc": "When Auril drops to 0 hit points, her body turns to slush and melts away.\
-      \ Auril instantly reappears in her [second form](/3-Mechanics/CLI/bestiary/npc/auril-second-form-idrotf.md),\
+      \ Auril instantly reappears in her [second form](3-Mechanics/CLI/bestiary/npc/auril-second-form-idrotf.md),\
       \ in an unoccupied space within 60 feet of where her first form disappeared.\
       \ Her initiative count doesn't change."
     "name": "Divine Rejuvenation"
@@ -116,12 +121,12 @@ A stat block is given for each of Auril's three forms. These descriptions do not
 "actions":
   - "desc": "Auril attacks twice with her talons."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) piercing damage plus 3 (1d6) cold damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) piercing damage plus 3 (1d6) cold damage."
     "name": "Talons"
-  - "desc": "*Melee Spell Attack:* +13 to hit, reach 5 ft., one creature. *Hit:* 13\
-      \ (3d8) cold damage, and the target can't take reactions until the start of\
-      \ its next turn."
+  - "desc": "*Melee Spell Attack:* +13 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 13 (3d8) cold damage, and the target can't take reactions until the start\
+      \ of its next turn."
     "name": "Touch of Frost"
   - "desc": "*Ranged Spell Attack:* +13 to hit, range 90 ft., one creature. *Hit:*\
       \ 13 (3d8) cold damage."
@@ -139,6 +144,6 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Touch of Frost (Costs 2 Actions)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/auril-first-form-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/auril-first-form-idrotf.webp"
 ```
 ^statblock

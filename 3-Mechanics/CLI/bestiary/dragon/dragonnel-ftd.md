@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dragonnel
+- "Dragonnel"
 ---
-# [Dragonnel](3-Mechanics\CLI\bestiary\dragon/dragonnel-ftd.md)
+# [Dragonnel](3-Mechanics/CLI/bestiary/dragon/dragonnel-ftd.md)
 *Source: Fizban's Treasury of Dragons p. 190*  
 
 Dragonnels are distantly related to chromatic, gem, and metallic dragons and resemble them in basic form. Intelligent enough to understand speech but incapable of speaking themselves, they are willful creatures motivated by the desire for food and entertainment. In the wild, they are picky eaters with mercurial moods, inclined to toy with their prey before going in for the kill.
@@ -23,7 +23,7 @@ A dragonnel is an agile mount and naturally inclined to flyby tactics, swooping 
 
 > [!note] Dragonnel Steeds
 > 
-> With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the [find greater steed](/3-Mechanics/CLI/spells/find-greater-steed-xge.md) spell, which appears in "Xanathar's Guide to Everything".
+> With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the [find greater steed](3-Mechanics/CLI/spells/find-greater-steed-xge.md) spell, which appears in "Xanathar's Guide to Everything".
 ^dragonnel-steeds
 
 ```statblock
@@ -45,10 +45,9 @@ A dragonnel is an agile mount and naturally inclined to flyby tactics, swooping 
   - !!int "10"
 "speed": "30 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+3"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
-  \ 120 ft., passive Perception 13"
+"senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
 "languages": "understands Draconic and Common but can't speak"
 "cr": "2"
 "traits":
@@ -63,6 +62,6 @@ A dragonnel is an agile mount and naturally inclined to flyby tactics, swooping 
     "name": "Rend"
 "source":
   - "FTD"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/dragonnel-ftd.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/dragonnel-ftd.webp"
 ```
 ^statblock

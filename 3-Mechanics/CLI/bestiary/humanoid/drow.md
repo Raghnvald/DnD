@@ -7,14 +7,14 @@ tags:
 - ttrpg-cli/monster/cr/1-4
 - ttrpg-cli/monster/environment/underdark
 - ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+- ttrpg-cli/monster/type/humanoid/drow-elf
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Drow
+- "Drow"
 ---
-# [Drow](3-Mechanics\CLI\bestiary\humanoid/drow.md)
-*Source: Monster Manual p. 128, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Drow](3-Mechanics/CLI/bestiary/humanoid/drow.md)
+*Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 ## Drow
 
@@ -54,7 +54,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies unconscious. Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 > 
@@ -74,10 +74,10 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 "name": "Drow"
 "size": "Medium"
 "type": "humanoid"
-"subtype": "elf"
+"subtype": "Drow elf"
 "alignment": "Neutral Evil"
 "ac": !!int "15"
-"ac_class": "chain shirt"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md)"
 "hp": !!int "13"
 "hit_dice": "3d8"
 "modifier": !!int "2"
@@ -90,39 +90,45 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "darkvision 120 ft., passive Perception 12"
+"gear":
+  - "[hand crossbow](3-Mechanics/CLI/items/hand-crossbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Elvish, Undercommon"
 "cr": "1/4"
 "traits":
   - "desc": "The drow's spellcasting ability is Charisma (spell save DC 11). It can\
       \ innately cast the following spells, requiring no material components:\n\n\
-      **At will:** dancing lights\n\n**1/day each:** darkness, faerie fire"
+      **At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights.md)\n\n\
+      **1/day each:** [darkness](3-Mechanics/CLI/spells/darkness.md), [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md)"
     "name": "Innate Spellcasting"
-  - "desc": "The drow has advantage on saving throws against being charmed, and magic\
-      \ can't put the drow to sleep."
+  - "desc": "The drow has advantage on saving throws against being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+      \ and magic can't put the drow to sleep."
     "name": "Fey Ancestry"
   - "desc": "While in sunlight, the drow has disadvantage on attack rolls, as well\
-      \ as on Wisdom (Perception) checks that rely on sight."
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
+      \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution\
-      \ saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or\
-      \ more, the target is also unconscious while poisoned in this way. The target\
-      \ wakes up if it takes damage or if another creature takes an action to shake\
-      \ it awake."
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way.\
+      \ The target wakes up if it takes damage or if another creature takes an action\
+      \ to shake it awake."
     "name": "Hand Crossbow"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/drow.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/drow.webp"
 ```
 ^statblock
 

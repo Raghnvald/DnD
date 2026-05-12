@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lava Child
+- "Lava Child"
 ---
-# [Lava Child](3-Mechanics\CLI\bestiary\humanoid/lava-child-wdmm.md)
+# [Lava Child](3-Mechanics/CLI/bestiary/humanoid/lava-child-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 313*  
 
 Physically identical to one another, lava children have muscular builds and childish, perpetually grinning faces. Most are born in the Fountains of Creation, also known as the Plane of Magma, which is wedged between the Elemental Planes of Earth and Fire. Within volcanic caverns, lava children form communities, serving primordial beings out of fear or worshiping gods of earth and fire.
@@ -38,12 +38,13 @@ Though they're not violent by nature, lava children fiercely defend territory th
   - !!int "10"
 "speed": "25 ft., climb 20 ft."
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+6"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+2"
 "damage_immunities": "fire; bludgeoning, piercing, slashing from metal weapons"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common, Ignan"
 "cr": "3"
 "traits":
@@ -58,11 +59,11 @@ Though they're not violent by nature, lava children fiercely defend territory th
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
       \ (2d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) slashing damage."
     "name": "Claws"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lava-child-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lava-child-wdmm.webp"
 ```
 ^statblock

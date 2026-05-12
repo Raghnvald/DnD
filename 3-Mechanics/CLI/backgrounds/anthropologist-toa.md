@@ -3,26 +3,24 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-background
 tags:
-- new/background
-- new/compendium/src/5e/toa
+- ttrpg-cli/background
+- ttrpg-cli/compendium/src/5e/toa
 aliases:
-- Anthropologist
+- "Anthropologist"
 ---
 # Anthropologist
 *Source: Tomb of Annihilation p. 191*  
 
 
-- **Skill Proficiencies.** Insight, Religion  
+- **Skill Proficiencies.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Religion](3-Mechanics/CLI/rules/skills.md#Religion)  
 - **Languages.** Two of your choice  
-- **Equipment.** A leather-bound diary, a bottle of ink, an ink pen, a set of traveler's clothes, one trinket of special significance, and a pouch containing 10 gp  
+- **Equipment.** A leather-bound diary, a [bottle of ink](3-Mechanics/CLI/items/ink-xphb.md), an [ink pen](3-Mechanics/CLI/items/ink-pen-xphb.md), a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), one [trinket](3-Mechanics/CLI/items/trinket-xphb.md) of special significance, and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 You have always been fascinated by other cultures, from the most ancient and primeval lost lands to the most modern civilizations. By studying other cultures' customs, philosophies, laws, rituals, religious beliefs, languages, and art, you have learned how tribes, empires, and all forms of society in between craft their own destinies and doom. This knowledge came to you not only through books and scrolls, but also through firsthand observation—by visiting far-flung settlements and exploring local histories and customs.
 
 ## Cultural Chameleon
 
 Before becoming an adventurer, you spent much of your adult life away from your homeland, living among people different from your kin. You came to understand these foreign cultures and the ways of their people, who eventually treated you as one of their own. One culture had more of an influence on you than any other, shaping your beliefs and customs Choose a race whose culture you've adopted, or roll on the Adopted Culture table.
-
-`dice: [](anthropologist-toa.md#^culture)`
 
 | dice: d8 | Culture |
 |----------|---------|
@@ -44,8 +42,6 @@ You can communicate with humanoids who don't speak any language you know. You mu
 
 Anthropologists leave behind the societies into which they were born to discover what life is like in other parts of the world. They seek to see how other races and civilizations survive - or why they did not. Some anthropologists are driven by intellectual curiosity, while others want the fame and recognition that comes with being the first to discover a new people, a lost tribe, or the truth about an ancient empire's downfall.
 
-`dice: [](anthropologist-toa.md#^personality-trait)`
-
 | dice: d6 | Personality Trait |
 |----------|-------------------|
 | 1 | I prefer the company of those who aren't like me, including people of other races |
@@ -55,8 +51,6 @@ Anthropologists leave behind the societies into which they were born to discover
 | 5 | I would risk life and limb to discover a new culture or unravel the secrets of a dead one. |
 | 6 | When I arrive at a new settlement for the first time, I must learn all its customs. |
 ^personality-trait
-
-`dice: [](anthropologist-toa.md#^ideal)`
 
 | dice: d6 | Ideal |
 |----------|-------|
@@ -68,8 +62,6 @@ Anthropologists leave behind the societies into which they were born to discover
 | 6 | Indifferent. Life is cruel. What's the point in saving people if they're going to die anyway? (Chaotic) |
 ^ideal
 
-`dice: [](anthropologist-toa.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | My mentor gave me a journal filled with lore and wisdom. Losing it would devastate me. |
@@ -79,8 +71,6 @@ Anthropologists leave behind the societies into which they were born to discover
 | 5 | I seek to avenge a clan, tribe, kingdom, or empire that was wiped out. |
 | 6 | I have a trinket that I believe is the key to finding a long-lost society. |
 ^bond
-
-`dice: [](anthropologist-toa.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

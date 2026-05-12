@@ -1,0 +1,13 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/compendium/src/5e/fraif
+aliases:
+- "Atlas of Faerûn"
+---
+# Atlas of Faerûn
+*Source: Forgotten Realms: Adventures in Faerûn* 
+
+![Atlas of Faerûn](3-Mechanics/CLI/books/forgotten-realms-adventures-in-faerun/img/218-map-faerun.webp#center)

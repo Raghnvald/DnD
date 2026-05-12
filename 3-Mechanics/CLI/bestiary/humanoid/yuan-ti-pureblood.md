@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yuan-ti Pureblood
+- "Yuan-ti Pureblood"
 ---
-# [Yuan-ti Pureblood](3-Mechanics\CLI\bestiary\humanoid/yuan-ti-pureblood.md)
+# [Yuan-ti Pureblood](3-Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md)
 *Source: Monster Manual p. 310*  
 
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
@@ -82,24 +82,27 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
   - !!int "14"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "damage_immunities": "poison"
-"condition_immunities": "[poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, Common, Draconic"
 "cr": "1"
 "traits":
   - "desc": "The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The\
       \ yuan-ti can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** [animal friendship](/3-Mechanics/CLI/spells/animal-friendship.md)\
-      \ (snakes only)\n\n**3/day each:** [poison spray](/3-Mechanics/CLI/spells/poison-spray.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion.md)"
+      \n**At will:** [animal friendship](3-Mechanics/CLI/spells/animal-friendship.md)\
+      \ (snakes only)\n\n**3/day each:** [poison spray](3-Mechanics/CLI/spells/poison-spray.md),\
+      \ [suggestion](3-Mechanics/CLI/spells/suggestion.md)"
     "name": "Innate Spellcasting"
   - "desc": "The yuan-ti has advantage on saving throws against spells and other magical\
       \ effects."
@@ -107,15 +110,15 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 "actions":
   - "desc": "The yuan-ti makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) slashing damage."
     "name": "Scimitar"
   - "desc": "*Ranged Weapon Attack:* +3 to hit, range 80/320 ft., one target. *Hit:*\
       \ 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage."
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/yuan-ti-pureblood.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/yuan-ti-pureblood.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Creature Size on Squares and Hexes; Creature Size and Space
+- "Creature Size on Squares and Hexes; Creature Size and Space"
 ---
 # Creature Size on Squares and Hexes; Creature Size and Space
 *Source: Dungeon Master's Guide p. 251* 

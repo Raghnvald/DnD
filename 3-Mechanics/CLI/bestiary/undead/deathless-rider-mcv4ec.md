@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Deathless Rider
+- "Deathless Rider"
 ---
-# [Deathless Rider](3-Mechanics\CLI\bestiary\undead/deathless-rider-mcv4ec.md)
+# [Deathless Rider](3-Mechanics/CLI/bestiary/undead/deathless-rider-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Legends told in the courts of Eldraine suggest that the deathless riders serve a warlock-queen, known simply as the Shadow Queen, who rules from a castle called Dynnistan. It isn't known whether these legends are based on any true experience or are simply the result of imagination trying to account for a terrifying and unexplained phenomenon.
@@ -34,7 +34,7 @@ A typical deathless rider's mount is a warhorse skeleton, though some lich-knigh
 "type": "undead"
 "alignment": "typically  Lawful Evil"
 "ac": !!int "18"
-"ac_class": "chain mail, shield"
+"ac_class": "[chain mail](3-Mechanics/CLI/items/chain-mail.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "84"
 "hit_dice": "13d8 + 26"
 "modifier": !!int "0"
@@ -50,22 +50,24 @@ A typical deathless rider's mount is a warhorse skeleton, though some lich-knigh
   - "strength": !!int "7"
   - "constitution": !!int "5"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+7"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+1"
 "damage_resistances": "necrotic"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "understands the languages it knew in life but can't speak"
 "cr": "5"
 "traits":
-  - "desc": "While mounted and without the incapacitated condition, the rider has\
-      \ advantage on melee attack rolls against any unmounted creature smaller than\
-      \ its mount, the rider and its mount have advantage on Dexterity saving throws,\
-      \ and the rider can force an attack targeted at its mount to target the rider\
-      \ instead."
+  - "desc": "While mounted and without the [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ condition, the rider has advantage on melee attack rolls against any unmounted\
+      \ creature smaller than its mount, the rider and its mount have advantage on\
+      \ Dexterity saving throws, and the rider can force an attack targeted at its\
+      \ mount to target the rider instead."
     "name": "Mounted Adept"
   - "desc": "If damage reduces the rider to 0 hit points, it must make a Constitution\
       \ saving throw with a DC equal to 5 + the damage taken, unless the damage is\
@@ -80,13 +82,14 @@ A typical deathless rider's mount is a warhorse skeleton, though some lich-knigh
       \ (2d8 + 4) slashing damage."
     "name": "Axe"
   - "desc": "The rider gazes at a creature within 30 feet of itself. The creature\
-      \ must succeed on a DC 13 Wisdom saving throw or have the frightened condition\
-      \ for 1 minute. The frightened creature can repeat the saving throw at the end\
-      \ of each of its turns, with disadvantage if it can see the rider, ending the\
-      \ condition on itself on a success."
+      \ must succeed on a DC 13 Wisdom saving throw or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition for 1 minute. The [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ creature can repeat the saving throw at the end of each of its turns, with\
+      \ disadvantage if it can see the rider, ending the condition on itself on a\
+      \ success."
     "name": "Fell Glare"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/deathless-rider-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/deathless-rider-mcv4ec.webp"
 ```
 ^statblock

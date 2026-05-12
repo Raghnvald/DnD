@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/cm
-- new/monster/cr/2
-- new/monster/size/medium
-- new/monster/type/humanoid/dragonborn
+- ttrpg-cli/compendium/src/5e/cm
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/dragonborn
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ram Sugar
+- "Ram Sugar"
 ---
-# [Ram Sugar](3-Mechanics\CLI\bestiary\npc/ram-sugar-cm.md)
+# [Ram Sugar](3-Mechanics/CLI/bestiary/npc/ram-sugar-cm.md)
 *Source: Candlekeep Mysteries p. 132*  
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else.
@@ -44,6 +44,8 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
   - "name": "Religion"
     "desc": "+2"
 "damage_resistances": "fire"
+"gear":
+  - "dagger"
 "senses": "passive Perception 11"
 "languages": "Common, Draconic"
 "cr": "2"
@@ -68,6 +70,6 @@ Fanatics are often part of a cult's leadership, using their charisma and dogma t
     "name": "Breath Weapon (Recharges after a Short or Long Rest)"
 "source":
   - "CM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ram-sugar-cm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ram-sugar-cm.webp"
 ```
 ^statblock

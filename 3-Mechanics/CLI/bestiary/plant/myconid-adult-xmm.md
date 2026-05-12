@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Myconid Adult
+- "Myconid Adult"
 ---
-# [Myconid Adult](3-Mechanics\CLI\bestiary\plant/myconid-adult-xmm.md)
+# [Myconid Adult](3-Mechanics/CLI/bestiary/plant/myconid-adult-xmm.md)
 *Source: Monster Manual (2024) p. 223*  
 
 Myconid adults defend their territories and other myconids from invaders.
@@ -44,32 +44,32 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
   - !!int "13"
   - !!int "7"
 "speed": "20 ft."
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 11"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "telepathy 240 ft."
 "cr": "1/2"
 "traits":
-  - "desc": "While in sunlight, the myconid has [Disadvantage](/3-Mechanics/CLI/variant-rules/disadvantage-xphb.md)\
-      \ on [D20 Tests](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md). The myconid\
-      \ dies if it spends more than 1 hour in sunlight."
+  - "desc": "While in sunlight, the myconid has [Disadvantage](3-Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md)\
+      \ on [D20 Tests](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md). The\
+      \ myconid dies if it spends more than 1 hour in sunlight."
     "name": "Sun Sickness"
 "actions":
   - "desc": "*Melee Attack Roll:* +2, reach 5 ft. *Hit:* 4 (1d8) Bludgeoning damage\
       \ plus 3 (1d6) Poison damage."
     "name": "Slam"
   - "desc": "*Constitution Saving Throw:* DC 11, one creature the myconid can see\
-      \ within 10 feet. *Failure:* The target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ within 10 feet. *Failure:* The target has the [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Pacifying Spores (1/Day)"
-  - "desc": "The myconid expels spores in a 30-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
+  - "desc": "The myconid expels spores in a 30-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
       \ originating from itself. Creatures in that area with an Intelligence score\
       \ of 2 or higher that aren't Constructs, Elementals, or Undead gain telepathy\
       \ with a range of 30 feet for 1 hour."
     "name": "Rapport Spores"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/plant/token/myconid-adult-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/plant/token/myconid-adult-xmm.webp"
 ```
 ^statblock
 

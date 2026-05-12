@@ -8,17 +8,17 @@ tags:
 - ttrpg-cli/item/armor/medium
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Elven Chain"
 - "Elven Chain Mail"
 - "Elven Chain Shirt"
 ---
 # Elven Chain
 *Rare*  
-![](/3-Mechanics/CLI/items/img/elven-chain.webp#right)
+![](3-Mechanics/CLI/items/img/elven-chain.webp#right)
 
 
-You gain a +1 bonus to [Armor Class](/3-Mechanics/CLI/variant-rules/armor-class-xphb.md) while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
+You gain a +1 bonus to [Armor Class](3-Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
 **Variants**:
 - [Elven Chain Mail](#Elven%20Chain%20Mail)

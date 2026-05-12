@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Derro
+- "Derro"
 ---
-# [Derro](3-Mechanics\CLI\bestiary\aberration/derro-mpmm.md)
+# [Derro](3-Mechanics/CLI/bestiary/aberration/derro-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 91, Mordenkainen's Tome of Foes p. 158*  
 
 > [!quote] A quote from Mordenkainen  
@@ -37,7 +37,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "type": "aberration"
 "alignment": "Typically  Chaotic Evil"
 "ac": !!int "13"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor-xphb.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "13"
 "hit_dice": "3d6 + 3"
 "modifier": !!int "2"
@@ -50,10 +50,12 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
   - !!int "9"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 7"
+"gear":
+  - "[light crossbow](3-Mechanics/CLI/items/light-crossbow.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 7"
 "languages": "Dwarvish, Undercommon"
 "cr": "1/4"
 "traits":
@@ -61,13 +63,13 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
       \ effects."
     "name": "Magic Resistance"
   - "desc": "While in sunlight, the derro has disadvantage on attack rolls, as well\
-      \ as on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks\
+      \ as on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) checks\
       \ that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ piercing damage. If the target is Medium or smaller, the derro can choose\
-      \ to deal no damage and knock it [prone](/3-Mechanics/CLI/conditions.md#Prone)."
+  - "desc": "*Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) piercing damage. If the target is Medium or smaller, the derro can\
+      \ choose to deal no damage and knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Hooked Spear"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -75,7 +77,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/derro-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/derro-mpmm.webp"
 ```
 ^statblock
 

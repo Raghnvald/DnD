@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/uncommon
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "Broom of Flying"
 ---
 # Broom of Flying
 *Wondrous item, major, uncommon*  
-![](/3-Mechanics/CLI/items/img/broom-of-flying.webp#right)
+![](3-Mechanics/CLI/items/img/broom-of-flying.webp#right)
 
 - **Weight**: 3.0 lbs.
 

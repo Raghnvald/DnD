@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Satyr
+- "Satyr"
 ---
-# [Satyr](3-Mechanics\CLI\bestiary\fey/satyr.md)
+# [Satyr](3-Mechanics/CLI/bestiary/fey/satyr.md)
 *Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
@@ -63,7 +63,7 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 "type": "fey"
 "alignment": "Chaotic Neutral"
 "ac": !!int "14"
-"ac_class": "[leather armor](/3-Mechanics/CLI/items/leather-armor.md)"
+"ac_class": "[leather armor](3-Mechanics/CLI/items/leather-armor.md)"
 "hp": !!int "31"
 "hit_dice": "7d8"
 "modifier": !!int "3"
@@ -76,12 +76,15 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
   - !!int "14"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
 "senses": "passive Perception 12"
 "languages": "Common, Elvish, Sylvan"
 "cr": "1/2"
@@ -90,18 +93,18 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
       \ effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) bludgeoning damage."
     "name": "Ram"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:*\
       \ 6 (1d6 + 3) piercing damage."
     "name": "Shortbow"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/fey/token/satyr.webp"
+"image": "3-Mechanics/CLI/bestiary/fey/token/satyr.webp"
 ```
 ^statblock
 

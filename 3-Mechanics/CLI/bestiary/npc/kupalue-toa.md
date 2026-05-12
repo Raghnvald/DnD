@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/toa
-- new/monster/cr/1-4
-- new/monster/size/small
-- new/monster/type/plant
+- ttrpg-cli/compendium/src/5e/toa
+- ttrpg-cli/monster/cr/1-4
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/plant
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kupalué
+- "Kupalué"
 ---
-# [Kupalué](3-Mechanics\CLI\bestiary\npc/kupalue-toa.md)
+# [Kupalué](3-Mechanics/CLI/bestiary/npc/kupalue-toa.md)
 *Source: Tomb of Annihilation p. 35*  
 
 ```statblock
@@ -34,17 +34,20 @@ aliases:
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
 "damage_resistances": "lightning, piercing"
-"senses": "darkvision 60 ft., passive Perception 12"
+"gear":
+  - "[sling](3-Mechanics/CLI/items/sling-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": "Vegepygmy"
 "cr": "1/4"
 "traits":
-  - "desc": "Kupalué has advantage on Dexterity (Stealth) checks it makes in any terrain\
-      \ with ample obscuring plant life."
+  - "desc": "Kupalué has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
+      \ checks it makes in any terrain with ample obscuring plant life."
     "name": "Plant Camouflage"
   - "desc": "Kupalué regains 3 hit points at the start of its turn. If it takes cold,\
       \ fire, or necrotic damage, this trait doesn't function at the start of Kupalué\
@@ -52,14 +55,14 @@ aliases:
       \ doesn't regenerate."
     "name": "Regeneration"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Claws"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 4 (1d4 + 2) bludgeoning damage."
     "name": "Sling"
 "source":
   - "ToA"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kupalue-toa.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kupalue-toa.webp"
 ```
 ^statblock

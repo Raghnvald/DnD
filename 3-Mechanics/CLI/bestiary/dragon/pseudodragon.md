@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pseudodragon
+- "Pseudodragon"
 ---
-# [Pseudodragon](3-Mechanics\CLI\bestiary\dragon/pseudodragon.md)
-*Source: Monster Manual p. 254, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Pseudodragon](3-Mechanics/CLI/bestiary/dragon/pseudodragon.md)
+*Source: Monster Manual p. 254. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The elusive pseudodragon dwells in the quiet places of the world, making its home in the hollows of trees and small caves. With its red-brown scales, horns, and a maw filled with sharp teeth, a pseudodragon resembles a tiny red dragon but its disposition is playful.
 
@@ -66,16 +66,17 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
   - !!int "10"
 "speed": "15 ft., fly 60 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+4"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 13"
 "languages": "understands Common and Draconic but can't speak"
 "cr": "1/4"
 "traits":
-  - "desc": "The pseudodragon has advantage on Wisdom (Perception) checks that rely\
-      \ on sight, hearing, or smell."
+  - "desc": "The pseudodragon has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on sight, hearing, or smell."
     "name": "Keen Senses"
   - "desc": "The pseudodragon has advantage on saving throws against spells and other\
       \ magical effects."
@@ -85,19 +86,19 @@ The pseudodragon can serve another creature as a familiar, forming a magic, tele
       \ a language."
     "name": "Limited Telepathy"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4\
-      \ (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
-      \ saving throw or become poisoned for 1 hour. If the saving throw fails by 5\
-      \ or more, the target falls unconscious for the same duration, or until it takes\
-      \ damage or another creature uses an action to shake it awake."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution\
+      \ saving throw or become [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour. If the saving throw fails by 5 or more, the target falls [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for the same duration, or until it takes damage or another creature uses an\
+      \ action to shake it awake."
     "name": "Sting"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/pseudodragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/pseudodragon.webp"
 ```
 ^statblock
 

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Shadow Horror
+- "Shadow Horror"
 ---
-# [Shadow Horror](3-Mechanics\CLI\bestiary\aberration/shadow-horror-ggr.md)
+# [Shadow Horror](3-Mechanics/CLI/bestiary/aberration/shadow-horror-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 205*  
 
 ## Horrors and Madness
@@ -30,7 +30,7 @@ Whenever a character fails a saving throw against the flying horror's Frightenin
 | 4+ | Indefinite |
 ^madness-severity
 
-## Horrors
+### Horrors
 
 Terrifying evils stalk, fly, and scuttle in the dark corners of Ravnica, from the depths of the undercity to the blackest parts of the night sky. Collectively, these creatures are called horrors-a variety of things that lurk in the dark and embody the deepest fears of Ravnica's people. All are evil creatures with dim reason and preternatural cunning.
 
@@ -38,32 +38,29 @@ At least three guilds have been known to compel horrors into service. For House 
 
 House Dimir uses all three base kinds of horrors. The Cult of Rakdos prefers shadow horrors, and the Golgari Swarm uses skittering horrors.
 
-## Customizing a Horror
+### Customizing a Horror
 
 Horrors share some common body types but vary wildly in other characteristics. A particular horror's form might incorporate elements that resemble fiendish, insectile, or reptilian features. To customize a horror, choose a base creature (flying horror, shadow horror, or skittering horror), then roll once on the Primary Features table and once on the Secondary Features table (or choose an option from each table). Add those features to the base creature.
 
-**Primary Features**
 
-`dice: [](shadow-horror-ggr.md#^primary-features)`
+**Primary Features**
 
 | dice: d4 | Feature |
 |----------|---------|
 | 1 | Avoidance. If the horror is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. |
 | 2 | Damage Resistances. The horror has resistance to necrotic and psychic damage. |
-| 3 | Innate Spellcasting. The horror's innate spellcasting ability is Charisma (spell save DC 13 for flying horror, DC 16 for shadow horror, and DC 17 for skittering horror). It can innately cast the following spells, requiring no material components: 3/day: [darkness](/3-Mechanics/CLI/spells/darkness-xphb.md) 1/day each: [fear](/3-Mechanics/CLI/spells/fear-xphb.md) (shadow horror and skittering horror only), [phantasmal killer](/3-Mechanics/CLI/spells/phantasmal-killer-xphb.md) (skittering horror only) |
-| 4 | Psychic Rebuke. When the horror takes damage from a melee attack, it can use its reaction to emit psychic energy within a 5-foot radius. Each creature in that area takes `dice:1d6\|noform\|noparens\|avg\|text(3)` (`1d6`) psychic damage (flying horror), `dice:2d6\|noform\|noparens\|avg\|text(7)` (`2d6`) psychic damage (shadow horror), or `dice:3d6\|noform\|noparens\|avg\|text(10)` (`3d6`) psychic damage (skittering horror). |
+| 3 | Innate Spellcasting. The horror's innate spellcasting ability is Charisma (spell save DC 13 for flying horror, DC 16 for shadow horror, and DC 17 for skittering horror). It can innately cast the following spells, requiring no material components: 3/day: darkness 1/day each: fear (shadow horror and skittering horror only), phantasmal killer (skittering horror only) |
+| 4 | Psychic Rebuke. When the horror takes damage from a melee attack, it can use its reaction to emit psychic energy within a 5-foot radius. Each creature in that area takes 3 (`1d6`) psychic damage (flying horror), 7 (`2d6`) psychic damage (shadow horror), or 10 (`3d6`) psychic damage (skittering horror). |
 ^primary-features
 
 **Secondary Features**
 
-`dice: [](shadow-horror-ggr.md#^secondary-features)`
-
 | dice: d4 | Feature |
 |----------|---------|
-| 1 | Grasping Tendrils. The horror has four tendrils. Each tendril can be attacked (AC 12, 10 hit points). Destroying one deals no damage to the horror. As a bonus action, the horror can target one creature it can see within 10 feet of it. The target must succeed on a Dexterity saving throw or be [grappled](/3-Mechanics/CLI/conditions.md#Grappled) by the horror. The DC of the saving throw and the DC to escape the grapple are the same: 9 for the flying horror, 13 for the shadow horror, and 19 for the skittering horror. Until the grapple ends, the horror can't use the same tendril to grapple another target. |
-| 2 | Indomitable Mind. The horror is immune to the [charmed](/3-Mechanics/CLI/conditions.md#Charmed) condition. |
-| 3 | Keen Senses. The horror has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely on sight, sound, or smell. |
-| 4 | Mind Sight. Magical darkness doesn't impede the horror's [darkvision](/3-Mechanics/CLI/senses.md#Darkvision). |
+| 1 | Grasping Tendrils. The horror has four tendrils. Each tendril can be attacked (AC 12, 10 hit points). Destroying one deals no damage to the horror. As a bonus action, the horror can target one creature it can see within 10 feet of it. The target must succeed on a Dexterity saving throw or be grappled by the horror. The DC of the saving throw and the DC to escape the grapple are the same: 9 for the flying horror, 13 for the shadow horror, and 19 for the skittering horror. Until the grapple ends, the horror can't use the same tendril to grapple another target. |
+| 2 | Indomitable Mind. The horror is immune to the charmed condition. |
+| 3 | Keen Senses. The horror has advantage on Wisdom (Perception) checks that rely on sight, sound, or smell. |
+| 4 | Mind Sight. Magical darkness doesn't impede the horror's darkvision. |
 ^secondary-features
 
 ```statblock
@@ -84,14 +81,13 @@ Horrors share some common body types but vary wildly in other characteristics. A
   - !!int "18"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+7"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+11"
 "damage_vulnerabilities": "radiant"
-"condition_immunities": "[frightened](/3-Mechanics/CLI/conditions.md#Frightened)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 17"
+"condition_immunities": "frightened"
+"senses": "darkvision 120 ft., passive Perception 17"
 "languages": ""
 "cr": "9"
 "traits":
@@ -108,8 +104,7 @@ Horrors share some common body types but vary wildly in other characteristics. A
       \ creature or object."
     "name": "Shadow Stride"
   - "desc": "While in sunlight, the horror has disadvantage on attack rolls and on\
-      \ Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception)) checks that rely\
-      \ on sight."
+      \ Wisdom (Perception) checks that rely on sight."
     "name": "Sunlight Sensitivity"
 "actions":
   - "desc": "The horror makes three attacks: one with its bite and two with its claws."
@@ -118,15 +113,15 @@ Horrors share some common body types but vary wildly in other characteristics. A
       \ (4d8 + 3) piercing damage."
     "name": "Bite"
   - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (3d6 + 3) slashing damage, and the target must succeed on a DC 16 Wisdom saving\
-      \ throw or be [frightened](/3-Mechanics/CLI/conditions.md#Frightened) of the\
-      \ horror until the end of the target's next turn."
+      \ (3d6 + 3) slashing damage, and the target must succeed on a DC 16 Wisdom\
+      \ saving throw or be frightened of the horror until the end of the target's\
+      \ next turn."
     "name": "Claw"
   - "desc": "Each creature within 60 feet of the horror, except other horrors, must\
       \ succeed on a DC 16 Dexterity saving throw or take 27 (6d8) necrotic damage."
     "name": "Lashing Shadows (Recharge 5-6)"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/shadow-horror-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/shadow-horror-ggr.webp"
 ```
 ^statblock

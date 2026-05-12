@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Backstory; Favorite Foods (Menagerie Coast)
+- "Backstory; Favorite Foods (Menagerie Coast)"
 ---
 # Backstory; Favorite Foods (Menagerie Coast)
 *Source: Explorer's Guide to Wildemount p. 191* 
 
 **Favorite Foods (Menagerie Coast)**
-
-`dice: [](backstory-favorite-foods-menagerie-coast-egw.md#^favorite-foods-menagerie-coast)`
 
 | dice: d8 | Food |
 |----------|------|

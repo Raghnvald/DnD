@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Degloth
+- "Degloth"
 ---
-# [Degloth](3-Mechanics\CLI\bestiary\fiend/degloth-veor.md)
+# [Degloth](3-Mechanics/CLI/bestiary/fiend/degloth-veor.md)
 *Source: Vecna: Eve of Ruin p. 218*  
 
 Degloths are massive, blue, bipedal demons with razor-studded fists. They are commonly used as shock troops on the front lines of wars waged in the Abyss and other Outer Planes. Degloths gravitate toward violence and mayhem without caring about the reasons behind the bloodshed. They enjoy ripping their enemies limb from limb using their razor-studded fists, which are equally adept at slashing foes and crushing the life from them.
@@ -40,15 +40,17 @@ Degloths are massive, blue, bipedal demons with razor-studded fists. They are co
   - "strength": !!int "10"
   - "constitution": !!int "8"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
-"senses": "darkvision 120 ft., passive Perception 14"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 14"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "11"
 "traits":
@@ -58,19 +60,21 @@ Degloths are massive, blue, bipedal demons with razor-studded fists. They are co
 "actions":
   - "desc": "The degloth makes two Razor Fist attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d10 + 6) slashing damage, and if the target is a Medium or smaller creature,\
-      \ the target has the grappled condition (escape DC 18). Until this grapple ends,\
-      \ the target has the restrained condition, and the degloth can't use this fist\
-      \ to grapple another target. The degloth has two fists."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d10 + 6) slashing damage, and if the target is a Medium or smaller\
+      \ creature, the target has the [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ condition (escape DC 18). Until this grapple ends, the target has the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition, and the degloth can't use this fist to grapple another target.\
+      \ The degloth has two fists."
     "name": "Razor Fist"
 "bonus_actions":
-  - "desc": "The degloth targets one creature currently grappled by it. The target\
-      \ must make a DC 18 Strength saving throw, taking 15 (2d8 + 6) bludgeoning damage\
-      \ on a failed save or half as much damage on a successful one."
+  - "desc": "The degloth targets one creature currently [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it. The target must make a DC 18 Strength saving throw, taking 15 (2d8\
+      \ + 6) bludgeoning damage on a failed save or half as much damage on a successful\
+      \ one."
     "name": "Crush"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/degloth-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/degloth-veor.webp"
 ```
 ^statblock

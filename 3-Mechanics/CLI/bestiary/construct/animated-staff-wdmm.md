@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Staff
+- "Animated Staff"
 ---
-# [Animated Staff](3-Mechanics\CLI\bestiary\construct/animated-staff-wdmm.md)
+# [Animated Staff](3-Mechanics/CLI/bestiary/construct/animated-staff-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 262*  
 
 ```statblock
@@ -34,34 +34,39 @@ aliases:
 "speed": "0 ft., fly 30 ft. (hover)"
 "damage_resistances": "cold"
 "damage_immunities": "poison"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 12"
 "languages": "Common"
 "traits":
   - "desc": "A creature can grab the staff out of the air with a successful grapple\
       \ check against the staff, and grappling the staff does not reduce the creature's\
       \ speed. Any creature that successfully grapples the staff must succeed on a\
-      \ DC 12 Charisma saving throw or be charmed by the staff until the staff is\
-      \ no longer in its grasp. While the creature is charmed, the staff can issue\
+      \ DC 12 Charisma saving throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by the staff until the staff is no longer in its grasp. While the creature\
+      \ is [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), the staff can issue\
       \ commands to it, which the creature does its best to obey. The creature can\
       \ repeat the saving throw each time it takes damage, ending the effect on itself\
       \ on a success. A creature that successfully resists the staff's control can't\
-      \ be charmed by it for 24 hours.\n\nA creature holding the staff that isn't\
-      \ charmed by it can use an action to attempt to break the staff over a knee\
-      \ or against a solid surface, doing so with a successful DC 17 Strength (Athletics)\
+      \ be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by it for 24 hours.\n\
+      \nA creature holding the staff that isn't [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by it can use an action to attempt to break the staff over a knee or against\
+      \ a solid surface, doing so with a successful DC 17 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics))\
       \ check. Breaking the staff in this manner destroys it."
     "name": "Wielder Domination"
 "actions":
   - "desc": "The staff has 10 charges. It can expend 1 or more of its charges to cast\
-      \ one of the following spells (save DC 12): cone of cold (5 charges), fog cloud\
-      \ (1 charge), ice storm (4 charges), or wall of ice (4 charges). It regains\
+      \ one of the following spells (save DC 12): [cone of cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md)\
+      \ (5 charges), [fog cloud](3-Mechanics/CLI/spells/fog-cloud-xphb.md) (1 charge),\
+      \ [ice storm](3-Mechanics/CLI/spells/ice-storm-xphb.md) (4 charges), or [wall\
+      \ of ice](3-Mechanics/CLI/spells/wall-of-ice-xphb.md) (4 charges). It regains\
       \ 1d6 + 4 expended charges daily at dawn. If the staff expends its last charge,\
       \ roll a d20. On a 1, the staff turns to water and is destroyed."
     "name": "Staff of Frost"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (2d6)\
-      \ bludgeoning damage plus 1 cold damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d6) bludgeoning damage plus 1 cold damage."
     "name": "Staff"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-staff-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-staff-wdmm.webp"
 ```
 ^statblock

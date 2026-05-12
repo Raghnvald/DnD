@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant
+- "Frost Giant"
 ---
-# [Frost Giant](3-Mechanics\CLI\bestiary\giant/frost-giant.md)
-*Source: Monster Manual p. 155, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Frost Giant](3-Mechanics/CLI/bestiary/giant/frost-giant.md)
+*Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
 
@@ -102,27 +102,28 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
   - "wisdom": !!int "3"
   - "charisma": !!int "4"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_immunities": "cold"
+"gear":
+  - "[greataxe](3-Mechanics/CLI/items/greataxe.md)"
 "senses": "passive Perception 13"
 "languages": "Giant"
 "cr": "8"
 "actions":
   - "desc": "The giant makes two greataxe attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25\
-      \ (3d12 + 6) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 25 (3d12 + 6) slashing damage."
     "name": "Greataxe"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/frost-giant.webp"
 ```
 ^statblock
 

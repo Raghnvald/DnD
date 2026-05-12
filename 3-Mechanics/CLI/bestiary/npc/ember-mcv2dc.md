@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv2dc
-- new/monster/cr/22
-- new/monster/size/huge
-- new/monster/type/dragon/adult-chromatic
+- ttrpg-cli/compendium/src/5e/mcv2dc
+- ttrpg-cli/monster/cr/22
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/dragon/adult-chromatic
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ember
+- "Ember"
 ---
-# [Ember](3-Mechanics\CLI\bestiary\npc/ember-mcv2dc.md)
+# [Ember](3-Mechanics/CLI/bestiary/npc/ember-mcv2dc.md)
 *Source: Monstrous Compendium Volume 2: Dragonlance Creatures p. 5*  
 
 > [!quote]  
@@ -56,20 +56,21 @@ Empowered by Takhisis herself, Ember's innate fire can sear those nearby, and hi
   - "wisdom": !!int "9"
   - "charisma": !!int "13"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
-  - "name": "Religion"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+10"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+14"
 "damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 26"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 26"
 "languages": "Abyssal, Common, Draconic"
 "cr": "22"
 "traits":
   - "desc": "At the start of Ember's turn, Ember can force any number of creatures\
       \ of his choice within 10 feet of himself to make a DC 22 Constitution saving\
-      \ throw. On a failed save, a creature takes 7 (2d6) fire damage and is frightened\
+      \ throw. On a failed save, a creature takes 7 (2d6) fire damage and is [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ of Ember until the start of its next turn."
     "name": "Calescent Aura"
   - "desc": "If Ember fails a saving throw, he can choose to succeed instead."
@@ -82,18 +83,19 @@ Empowered by Takhisis herself, Ember's innate fire can sear those nearby, and hi
 "actions":
   - "desc": "Ember makes one Bite attack and two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 26\
-      \ (2d10 + 15) piercing damage plus 13 (2d6 + 6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:*\
+      \ 26 (2d10 + 15) piercing damage plus 13 (2d6 + 6) fire damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 5 ft., one target. *Hit:* 22\
-      \ (2d6 + 15) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +16 to hit, reach 5 ft., one target. *Hit:*\
+      \ 22 (2d6 + 15) slashing damage."
     "name": "Claw"
   - "desc": "Ember exhales roiling flames and ash in a 90-foot cone. Each creature\
       \ in that area must make a DC 22 Dexterity saving throw. On a failed save, a\
       \ creature takes 56 (16d6) fire damage and is pushed up to 30 feet away from\
-      \ Ember and knocked prone. On a successful save, a creature takes half as much\
-      \ damage with no other effects. If a creature is reduced to 0 hit points by\
-      \ this effect, the creature immediately dies, and its body is reduced to ash."
+      \ Ember and knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). On a\
+      \ successful save, a creature takes half as much damage with no other effects.\
+      \ If a creature is reduced to 0 hit points by this effect, the creature immediately\
+      \ dies, and its body is reduced to ash."
     "name": "Firestorm Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "Ember magically transforms into a vulture or a mage and retains his alignment,\
@@ -113,6 +115,6 @@ Empowered by Takhisis herself, Ember's innate fire can sear those nearby, and hi
     "name": "Searing Bite (Costs 2 Actions)"
 "source":
   - "MCV2DC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/ember-mcv2dc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/ember-mcv2dc.webp"
 ```
 ^statblock

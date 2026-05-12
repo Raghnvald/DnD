@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Dungeon Dressing; Religious Articles and Furnishings
+- "Dungeon Dressing; Religious Articles and Furnishings"
 ---
 # Dungeon Dressing; Religious Articles and Furnishings
 *Source: Dungeon Master's Guide p. 298* 
 
 **Religious Articles and Furnishings**
-
-`dice: [](dungeon-dressing-religious-articles-and-furnishings.md#^religious-articles-and-furnishings)`
 
 | dice: d100 | Item |
 |------------|------|

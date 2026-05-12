@@ -12,10 +12,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ghost
+- "Ghost"
 ---
-# [Ghost](3-Mechanics\CLI\bestiary\undead/ghost.md)
-*Source: Monster Manual p. 147, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Ghost](3-Mechanics/CLI/bestiary/undead/ghost.md)
+*Source: Monster Manual p. 147. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
 
@@ -53,9 +53,13 @@ A ghost doesn't require air, food, drink, or sleep.
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
-  \ poisoned, prone, restrained"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "any languages it knew in life"
 "cr": "4"
 "traits":
@@ -76,33 +80,36 @@ A ghost doesn't require air, food, drink, or sleep.
       \ plane."
     "name": "Etherealness"
   - "desc": "Each non-undead creature within 60 feet of the ghost that can see it\
-      \ must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute.\
-      \ If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened\
+      \ must succeed on a DC 13 Wisdom saving throw or be [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ for 1 minute. If the save fails by 5 or more, the target also ages 1d4 ×\
+      \ 10 years. A [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ target can repeat the saving throw at the end of each of its turns, ending\
-      \ the frightened condition on itself on a success. If a target's saving throw\
-      \ is successful or the effect ends for it, the target is immune to this ghost's\
-      \ Horrifying Visage for the next 24 hours. The aging effect can be reversed\
-      \ with a  greater restoration spell, but only within 24 hours of it occurring."
+      \ the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition\
+      \ on itself on a success. If a target's saving throw is successful or the effect\
+      \ ends for it, the target is immune to this ghost's Horrifying Visage for the\
+      \ next 24 hours. The aging effect can be reversed with a  [greater restoration](3-Mechanics/CLI/spells/greater-restoration.md)\
+      \ spell, but only within 24 hours of it occurring."
     "name": "Horrifying Visage"
   - "desc": "One humanoid that the ghost can see within 5 feet of it must succeed\
       \ on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then\
-      \ disappears, and the target is incapacitated and loses control of its body.\
-      \ The ghost now controls the body but doesn't deprive the target of awareness.\
-      \ The ghost can't be targeted by any attack, spell, or other effect, except\
-      \ ones that turn undead, and it retains its alignment, Intelligence, Wisdom,\
-      \ Charisma, and immunity to being charmed and frightened. It otherwise uses\
-      \ the possessed target's statistics, but doesn't gain access to the target's\
+      \ disappears, and the target is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and loses control of its body. The ghost now controls the body but doesn't\
+      \ deprive the target of awareness. The ghost can't be targeted by any attack,\
+      \ spell, or other effect, except ones that turn undead, and it retains its alignment,\
+      \ Intelligence, Wisdom, Charisma, and immunity to being [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ and [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened). It otherwise\
+      \ uses the possessed target's statistics, but doesn't gain access to the target's\
       \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
       \ the body drops to 0 hit points, the ghost ends it as a bonus action, or the\
-      \ ghost is turned or forced out by an effect like the dispel evil and good spell.\
-      \ When the possession ends, the ghost reappears in an unoccupied space within\
-      \ 5 feet of the body. The target is immune to this ghost's Possession for 24\
-      \ hours after succeeding on the saving throw or after the possession ends."
+      \ ghost is turned or forced out by an effect like the [dispel evil and good](3-Mechanics/CLI/spells/dispel-evil-and-good.md)\
+      \ spell. When the possession ends, the ghost reappears in an unoccupied space\
+      \ within 5 feet of the body. The target is immune to this ghost's Possession\
+      \ for 24 hours after succeeding on the saving throw or after the possession\
+      \ ends."
     "name": "Possession (Recharge 6)"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/ghost.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/ghost.webp"
 ```
 ^statblock
 

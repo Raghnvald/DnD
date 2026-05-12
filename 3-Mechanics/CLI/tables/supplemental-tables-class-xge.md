@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Class
+- "Supplemental Tables; Class"
 ---
 # Supplemental Tables; Class
 *Source: Xanathar's Guide to Everything p. 72* 
 
 **Class**
-
-`dice: [](supplemental-tables-class-xge.md#^class)`
 
 | dice: d100 | Class |
 |------------|-------|

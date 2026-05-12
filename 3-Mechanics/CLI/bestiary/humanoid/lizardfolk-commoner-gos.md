@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Lizardfolk Commoner
+- "Lizardfolk Commoner"
 ---
-# [Lizardfolk Commoner](3-Mechanics\CLI\bestiary\humanoid/lizardfolk-commoner-gos.md)
+# [Lizardfolk Commoner](3-Mechanics/CLI/bestiary/humanoid/lizardfolk-commoner-gos.md)
 *Source: Ghosts of Saltmarsh p. 241*  
 
 These lizardfolk, found wandering the halls in Danger at Dunwater, are just as fierce as their armed kin, and can equip themselves with weapons and shields if such are available.
@@ -50,11 +50,11 @@ These lizardfolk, found wandering the halls in Danger at Dunwater, are just as f
   - "desc": "The lizardfolk can hold its breath for 15 minutes."
     "name": "Hold Breath"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Bite"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk-commoner-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/lizardfolk-commoner-gos.webp"
 ```
 ^statblock

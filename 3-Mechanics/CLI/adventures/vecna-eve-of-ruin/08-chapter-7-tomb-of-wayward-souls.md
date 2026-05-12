@@ -5,20 +5,20 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Chapter 7: Tomb of Wayward Souls
+- "Chapter 7: Tomb of Wayward Souls"
 ---
 # Chapter 7: Tomb of Wayward Souls
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 131* 
 
-![The next rod piece lurks d...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/106-07-001-the-tomb-of-wayward-souls.webp#center "The next rod piece lurks deep in the deadly Tomb of Wayward Souls")
+![The next rod piece lurks deep in the deadly Tomb of Wayward Souls](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/106-07-001-the-tomb-of-wayward-souls.webp#center)
 
-Retrieving the sixth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) leads the characters to a chain of tropical islands on the world of Oerth. There, the party must plumb the depths of a deadly complex called the Tomb of Wayward Souls, which was built to lure in and slay treasure-seekers. This labyrinthine maze of deadly traps was crafted by the diabolical archlich Acererak, who takes perverse pleasure in littering his dungeons with the bones of defeated adventurers.
+Retrieving the sixth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) leads the characters to a chain of tropical islands on the world of Oerth. There, the party must plumb the depths of a deadly complex called the Tomb of Wayward Souls, which was built to lure in and slay treasure-seekers. This labyrinthine maze of deadly traps was crafted by the diabolical archlich Acererak, who takes perverse pleasure in littering his dungeons with the bones of defeated adventurers.
 
 ## Running This Chapter
 
-This chapter begins after the characters retrieve the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). A character who holds that piece instinctively knows that the sixth piece is located on the Isle of Serpents on Oerth, a world known for its legendary dungeons and magical treasures.
+This chapter begins after the characters retrieve the fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). A character who holds that piece instinctively knows that the sixth piece is located on the Isle of Serpents on Oerth, a world known for its legendary dungeons and magical treasures.
 
-The characters arrive on the island in time to witness a battle between a [kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken.md) and a crew of archaeologists. The archaeologists are in dire straits, and it's up to the characters to decide whether to help. Eventually, the characters realize that the sixth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is located in the complex the archaeologists were exploring: the Tomb of Wayward Souls.
+The characters arrive on the island in time to witness a battle between a [kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) and a crew of archaeologists. The archaeologists are in dire straits, and it's up to the characters to decide whether to help. Eventually, the characters realize that the sixth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is located in the complex the archaeologists were exploring: the Tomb of Wayward Souls.
 
 The archaeologists haven't explored far into the deadly complex, so the characters must face its challenges without much information. The search for the rod piece culminates in a showdown with Rerak, an empowered simulacrum of Acererak.
 
@@ -35,7 +35,7 @@ The characters can learn two secrets in this chapter that are applicable to the 
 
 ### Sixth Rod Piece
 
-The [sixth piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area T27 of the Tomb of Wayward Souls. For more information about the rod and the spell this rod piece allows its wielder to cast, see this book's introduction.
+The [sixth piece](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) is in area T27 of the Tomb of Wayward Souls. For more information about the rod and the spell this rod piece allows its wielder to cast, see this book's introduction.
 
 ## Oerth
 
@@ -55,8 +55,8 @@ Characters who research the Isle of Serpents in Sigil can learn the following:
 When the party steps through the Sigil portal to the Isle of Serpents, they emerge through a ground-level opening in a cliff. The opening overlooks a lagoon, as shown on map 7.1.
 
 > [!gallery]
-> ![Map 7.1: Isle of Serpents Lagoon](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/107-7-01-isle-of-serpents-lagoon.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/108-7-01-isle-of-serpents-lagoon-player.webp#gallery)
+> ![Map 7.1: Isle of Serpents Lagoon](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/107-7-01-isle-of-serpents-lagoon.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/108-7-01-isle-of-serpents-lagoon-player.webp#gallery)
 
 ### Kraken Attack!
 
@@ -67,11 +67,11 @@ The characters arrive in the midst of chaos on the lagoon's beach. Read or parap
 > You feel warm sea air as you gaze upon the craggy shore of an island lagoon. Rising from the lagoon's depths are tentacles that lash toward the beach at a group of panicked people dressed in hiking gear.
 ^378
 
-The tentacles belong to a [kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken.md) that took damage in an altercation with a hunting boat earlier and has been reduced to 250 hit points. It was lurking off the lagoon's coast when a group of archaeologists stopped here to fish. Hungry and irate, the kraken ambushed the people, who are desperately trying to escape. The kraken is positioned along the easternmost portion of the 100-foot-deep water shown on map 7.1. The archaeologists are scattered throughout the 2-foot-deep water and along the beach.
+The tentacles belong to a [kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) that took damage in an altercation with a hunting boat earlier and has been reduced to 250 hit points. It was lurking off the lagoon's coast when a group of archaeologists stopped here to fish. Hungry and irate, the kraken ambushed the people, who are desperately trying to escape. The kraken is positioned along the easternmost portion of the 100-foot-deep water shown on map 7.1. The archaeologists are scattered throughout the 2-foot-deep water and along the beach.
 
-There are fifteen human and elf archaeologists on the beach. With the exception of Laysa Matulin, Talo Yieria, Vogren Starcloak, and Marian Xavere (who are described in the following sections), the archaeologists use the [commoner](/3-Mechanics/CLI/bestiary/humanoid/commoner.md) stat block.
+There are fifteen human and elf archaeologists on the beach. With the exception of Laysa Matulin, Talo Yieria, Vogren Starcloak, and Marian Xavere (who are described in the following sections), the archaeologists use the [commoner](3-Mechanics/CLI/bestiary/humanoid/commoner-xmm.md) stat block.
 
-If the characters join the battle, the [kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken.md) focuses on them while the archaeologists retreat. If the characters don't join the battle, the kraken gobbles up eight of the archaeologists before sinking into the lagoon, satisfied. Laysa, Talo, Vogren, and Marian are among the survivors.
+If the characters join the battle, the [kraken](3-Mechanics/CLI/bestiary/monstrosity/kraken-xmm.md) focuses on them while the archaeologists retreat. If the characters don't join the battle, the kraken gobbles up eight of the archaeologists before sinking into the lagoon, satisfied. Laysa, Talo, Vogren, and Marian are among the survivors.
 
 #### Meeting Laysa Matulin
 
@@ -82,11 +82,11 @@ When the kraken is no longer a threat, the leader of the archaeologists approach
 > A stout human woman with bronze skin and curly dark hair held back with a colorful scarf runs toward you. Her expression is a mixture of relief and excitement.
 ^37a
 
-Laysa is a chaotic good, human, pirate-turned-archaeologist (use the [assassin](/3-Mechanics/CLI/bestiary/humanoid/assassin.md) stat block). Descended from the island's original inhabitants, Laysa seeks to reclaim the treasures stolen from her ancestors. She recruited a crew to help her explore the complex where she believes the treasures are held.
+Laysa is a chaotic good, human, pirate-turned-archaeologist (use the [assassin](3-Mechanics/CLI/bestiary/humanoid/assassin-xmm.md) stat block). Descended from the island's original inhabitants, Laysa seeks to reclaim the treasures stolen from her ancestors. She recruited a crew to help her explore the complex where she believes the treasures are held.
 
 Laysa invites the characters to the archaeologists' camp to rest and chat.
 
-![A kraken attacks people on the Isle of Serpents](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/109-07-001-isle-of-serpents.webp#center)
+![A kraken attacks people on the Isle of Serpents](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/109-07-001-isle-of-serpents.webp#center)
 
 ### Archaeologist Camp
 
@@ -97,7 +97,7 @@ The archaeologists set their camp on the beach to the lagoon's south, where the 
 > The tents here sit between the shore and the jungle. Armor and digging equipment lie scattered across the sand. To one side, two men—an elf and an orc—tend to wounded colleagues. They each have a symbol of an arc of seven stars hanging from their necks, and their hands glow with divine magic. On the opposite side of camp, a human woman pores over a spellbook.
 ^37c
 
-The archaeologists are investigating the ancient complex in which a piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) waits. The characters can chat with the archaeologists to learn about the complex and ask to borrow magic items to aid their quest.
+The archaeologists are investigating the ancient complex in which a piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) waits. The characters can chat with the archaeologists to learn about the complex and ask to borrow magic items to aid their quest.
 
 #### Laysa's Goals
 
@@ -105,12 +105,12 @@ At camp, Laysa is happy to share what she knows. She volunteers the following in
 
 - **Foreign Complex.** The complex's architectural style is different than local traditions, so the complex must have been built by an outsider. Based on the complex's defenses, Laysa believes something valuable is held within.  
 
-![Laysa Matulin](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/110-07-002-laysa-matulin.webp#center)
+![Laysa Matulin](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/110-07-002-laysa-matulin.webp#center)
 
 - **Some Progress.** Laysa's crew uncovered the complex's entrance, as well as two false entrances laden with traps. The archaeologists haven't been able to explore much more, but they think they've identified how to delve farther into the complex.  
 - **Stolen Treasures.** Long ago, an evil mage with a skeletal appearance demolished Laysa's ancestral village on this island. The mage absconded with several treasures and was never seen again.  
 
-Laysa is unfamiliar with the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), but she agrees that such a powerful magic item could be found within the complex. She isn't aware of any other location where the rod piece might be.
+Laysa is unfamiliar with the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), but she agrees that such a powerful magic item could be found within the complex. She isn't aware of any other location where the rod piece might be.
 
 Laysa provides the characters with a rough map of the complex (map 7.2) and can lead the party to its entrance when they're ready.
 
@@ -129,7 +129,7 @@ If the characters uncover any of these items from the complex and return them to
 
 #### Talo Yieria and Vogren Starcloak, Priests and Healers
 
-The elf man is Talo Yieria, and the orc man is Vogren Starcloak. Both are neutral good [priests](/3-Mechanics/CLI/bestiary/humanoid/priest.md) of Celestian, the enigmatic deity of stars and wanderers on Oerth. Though apprehensive about exploring the complex, the couple are dear friends to Laysa and support her efforts.
+The elf man is Talo Yieria, and the orc man is Vogren Starcloak. Both are neutral good [priests](3-Mechanics/CLI/bestiary/humanoid/priest-xmm.md) of Celestian, the enigmatic deity of stars and wanderers on Oerth. Though apprehensive about exploring the complex, the couple are dear friends to Laysa and support her efforts.
 
 Talo and Vogren are well versed in the religious history of the island. If asked, they provide the following advice:
 
@@ -140,13 +140,13 @@ Should the characters return to the camp partway through exploring the complex, 
 
 #### Marian Xavere, Resident Mage
 
-The human woman poring over a spellbook is the camp's resident arcana expert, Marian Xavere (neutral [mage](/3-Mechanics/CLI/bestiary/humanoid/mage.md)). Hailing from the mainland, Marian joined Laysa's crew because of her intense fascination with magical traps and artifacts.
+The human woman poring over a spellbook is the camp's resident arcana expert, Marian Xavere (neutral [mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)). Hailing from the mainland, Marian joined Laysa's crew because of her intense fascination with magical traps and artifacts.
 
 Marian's arcane research led her to study Acererak, and she can tell the characters about the archlich. The characters learn the information about Acererak presented in this chapter and in Acererak's entry in appendix B. Marian doesn't realize exactly how dangerous the complex here is.
 
 ##### Magic Items
 
-Marian has a Lantern of Revealing sitting near her and a Gem of Seeing strapped to her belt. If asked, she lends the characters the lantern but is hesitant to lend the gem. A character can convince her to lend them the Gem of Seeing by succeeding on a DC 18 Charisma (Persuasion) check.
+Marian has a [Lantern of Revealing](3-Mechanics/CLI/items/lantern-of-revealing-xdmg.md) sitting near her and a [Gem of Seeing](3-Mechanics/CLI/items/gem-of-seeing-xdmg.md) strapped to her belt. If asked, she lends the characters the lantern but is hesitant to lend the gem. A character can convince her to lend them the [Gem of Seeing](3-Mechanics/CLI/items/gem-of-seeing-xdmg.md) by succeeding on a DC 18 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check.
 
 ##### Marian's Secret
 
@@ -154,7 +154,7 @@ When the characters speak at length with Marian, they notice the mage speaks ent
 
 Regardless of the characters' reaction to this revelation, learning it counts as a secret for the purposes of the Power of Secrets rules in this book's introduction.
 
-![Map 7.2: Tomb Complex](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/111-map-7-02-tomb-complex.webp#center)
+![Map 7.2: Tomb Complex](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/111-map-7-02-tomb-complex.webp#center)
 
 ## Into the Tomb
 
@@ -168,11 +168,11 @@ Unless otherwise stated, the areas of the complex have the following features.
 
 #### Ceilings, Doors, Floors, and Walls
 
-The ceilings, floors, and walls of the complex are constructed from limestone. Chamber ceilings are 20 feet high, while hallway ceilings are 10 feet high. Doors are wooden and unlocked unless otherwise specified; some must be opened by special means. The complex's walls are immune to any spell or magical effect that would change their shape, such as a Passwall or Stone Shape spell.
+The ceilings, floors, and walls of the complex are constructed from limestone. Chamber ceilings are 20 feet high, while hallway ceilings are 10 feet high. Doors are wooden and unlocked unless otherwise specified; some must be opened by special means. The complex's walls are immune to any spell or magical effect that would change their shape, such as a [Passwall](3-Mechanics/CLI/spells/passwall-xphb.md) or [Stone Shape](3-Mechanics/CLI/spells/stone-shape-xphb.md) spell.
 
 #### Hidden Doors
 
-Illusion magic conceals many of the complex's doors, making them look like solid walls. These hidden doors are detectable by touch, and creatures with truesight see the doors as if they weren't hidden. Casting Dispel Magic on a hidden door permanently removes the magic concealing it. A hidden door is otherwise identical to other doors in the complex. Locations of hidden doors are marked on map 7.3.
+Illusion magic conceals many of the complex's doors, making them look like solid walls. These hidden doors are detectable by touch, and creatures with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) see the doors as if they weren't hidden. Casting [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) on a hidden door permanently removes the magic concealing it. A hidden door is otherwise identical to other doors in the complex. Locations of hidden doors are marked on map 7.3.
 
 #### Lighting
 
@@ -180,7 +180,7 @@ The interior of the complex is brightly lit by crystal sconces holding eerie gre
 
 #### Planar Trammels
 
-When a creature within the complex casts a spell or uses an effect that would transport itself or another creature to a different plane (such as casting Astral Projection, Banishment, Etherealness, or Plane Shift), the spell slot and components, item charges, or other resources are expended as normal, but nothing happens.
+When a creature within the complex casts a spell or uses an effect that would transport itself or another creature to a different plane (such as casting [Astral Projection](3-Mechanics/CLI/spells/astral-projection-xphb.md), [Banishment](3-Mechanics/CLI/spells/banishment-xphb.md), [Etherealness](3-Mechanics/CLI/spells/etherealness-xphb.md), or [Plane Shift](3-Mechanics/CLI/spells/plane-shift-xphb.md)), the spell slot and components, item charges, or other resources are expended as normal, but nothing happens.
 
 #### The Rod Piece and Its Guardian
 
@@ -197,8 +197,8 @@ Rerak's resentment, intermingled with the magic of the rod piece, causes strange
 The areas of the tomb are keyed to map 7.3.
 
 > [!gallery]
-> ![Map 7.3: Tomb of Wayward Souls](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/112-7-03-tomb-of-wayward-souls.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/113-7-03-tomb-of-wayward-souls-player.webp#gallery)
+> ![Map 7.3: Tomb of Wayward Souls](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/112-7-03-tomb-of-wayward-souls.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/113-7-03-tomb-of-wayward-souls-player.webp#gallery)
 
 #### T1: False Entrance
 
@@ -211,9 +211,9 @@ The doors at the end of the corridor are fake and can't be opened. Behind them i
 
 ##### Explosion Trap
 
-A creature that steps inside the corridor triggers a trap. When the creature touches the corridor floor, the floor tiles depress, and a slab of stone lodged in the ceiling lowers to the ground, sealing the corridor before flooding it with magical fire. Each creature inside the closed-off corridor must make a DC 20 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) fire damage on a failed save or half as much damage on a successful one.
+A creature that steps inside the corridor triggers a trap. When the creature touches the corridor floor, the floor tiles depress, and a slab of stone lodged in the ceiling lowers to the ground, sealing the corridor before flooding it with magical fire. Each creature inside the closed-off corridor must make a DC 20 Dexterity saving throw, taking 28 (`8d6`) fire damage on a failed save or half as much damage on a successful one.
 
-The stone slab seals off the corridor until the next dawn, when the slab rises into its ceiling cavity and the trap resets. In the meantime, a creature can use an action to try to lift the slab, creating a passable opening with a successful DC 18 Strength (Athletics) check.
+The stone slab seals off the corridor until the next dawn, when the slab rises into its ceiling cavity and the trap resets. In the meantime, a creature can use an action to try to lift the slab, creating a passable opening with a successful DC 18 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check.
 
 #### T2: False Entrance
 
@@ -224,7 +224,7 @@ The stone slab seals off the corridor until the next dawn, when the slab rises i
 
 ##### Arrow Trap
 
-Spring-loaded arrows are hidden in the pockmarked walls. A creature that enters the trapped area marked on map 7.3 for the first time on a turn or ends its turn there triggers a fusillade of arrows and must make a DC 20 Dexterity saving throw, taking `dice:6d8|noform|noparens|avg|text(27)` (`6d8`) piercing damage from the arrows on a failed save or half as much damage on a successful one. The 5-foot-wide area along the east wall is outside the trap's area and safe to stand in.
+Spring-loaded arrows are hidden in the pockmarked walls. A creature that enters the trapped area marked on map 7.3 for the first time on a turn or ends its turn there triggers a fusillade of arrows and must make a DC 20 Dexterity saving throw, taking 27 (`6d8`) piercing damage from the arrows on a failed save or half as much damage on a successful one. The 5-foot-wide area along the east wall is outside the trap's area and safe to stand in.
 
 ##### Doors' Secret
 
@@ -244,7 +244,7 @@ This is a clue for opening the door in area T4.
 > This hallway has been partially excavated. Lifted stone lids reveal a ten-foot-deep pit filled with spikes in the center of the corridor. A thin plank of wood is laid over the pit to allow for safe crossing.
 ^395
 
-Characters can use the wooden plank to cross the pit safely. A creature that falls into the pit takes `dice:1d10|noform|noparens|avg|text(5)` (`1d10`) piercing damage from the spikes, which turn the floor of the pit into "difficult terrain".
+Characters can use the wooden plank to cross the pit safely. A creature that falls into the pit takes 5 (`1d10`) piercing damage from the spikes, which turn the floor of the pit into "difficult terrain".
 
 At the bottom of the pit, situated in the middle of its northeast wall, is a hidden door that leads to area T5.
 
@@ -255,7 +255,7 @@ At the bottom of the pit, situated in the middle of its northeast wall, is a hid
 > A relief of a scowling, fiendish face made of azure mosaic tiles spans the hallway's back wall. The face's mouth is open, revealing a black maw, and its eyes are carved from clouded white crystal. To the right of the mosaic is a closed door.
 ^397
 
-A character who examines the relief with a Detect Magic spell or similar magic finds that the relief's mouth radiates conjuration magic and its eyes radiate abjuration magic.
+A character who examines the relief with a [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic finds that the relief's mouth radiates conjuration magic and its eyes radiate abjuration magic.
 
 ##### Mouth Portal
 
@@ -269,7 +269,7 @@ When a creature standing within 5 feet of the relief casts a spell using a spell
 
 #### T5: Cave of Seven Casks
 
-![A cryptic message written ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/114-07-003-seven-casks.webp#center "A cryptic message written in Celestial provides clues about how to use the seven casks in a nearby cave")
+![A cryptic message written in Celestial provides clues about how to use the seven casks in a nearby cave](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/114-07-003-seven-casks.webp#center)
 
 > [!readaloud] 
 > 
@@ -301,13 +301,13 @@ The message gives clues as to the casks' contents.
 
 Each cask contains 20 pints of liquor. In order from left to right, the casks are marked with the following symbols:
 
-- **Green Star.** The liquor in this cask is infused with necromantic magic. A creature that drinks any amount of the liquor must make a DC 20 Constitution saving throw, taking `dice:5d8|noform|noparens|avg|text(22)` (`5d8`) necrotic damage on a failed save or half as much damage on a successful one.  
-- **Blue Square.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a Potion of Diminution. A character reduced to Tiny size by the liquor can't fit through the narrow gaps between the floorboards (see the "Tunnel to Area T8" section for more information).  
-- **Green Crescent Moon.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of an Elixir of Health.  
-- **Red Square.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a Potion of Gaseous Form. A character in gaseous form can easily pass through the narrow gaps between the floorboards (see "Tunnel to Area T8" below).  
-- **Blue Circle.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a Potion of Growth.  
-- **Green Circle.** The liquor is this cask is not magical, but it is toxic. A creature that drinks any amount of the liquor must succeed on a DC 25 Constitution saving throw or have the poisoned condition for 1 hour.  
-- **Red Star.** The liquor in this cask acts as a magical paralytic. Upon drinking any amount from this cask, a creature must succeed on a DC 20 Constitution saving throw or have the paralyzed condition for 1 hour.  
+- **Green Star.** The liquor in this cask is infused with necromantic magic. A creature that drinks any amount of the liquor must make a DC 20 Constitution saving throw, taking 22 (`5d8`) necrotic damage on a failed save or half as much damage on a successful one.  
+- **Blue Square.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a [Potion of Diminution](3-Mechanics/CLI/items/potion-of-diminution-xdmg.md). A character reduced to Tiny size by the liquor can't fit through the narrow gaps between the floorboards (see the "Tunnel to Area T8" section for more information).  
+- **Green Crescent Moon.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of an [Elixir of Health](3-Mechanics/CLI/items/elixir-of-health-xdmg.md).  
+- **Red Square.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a [Potion of Gaseous Form](3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md). A character in gaseous form can easily pass through the narrow gaps between the floorboards (see "Tunnel to Area T8" below).  
+- **Blue Circle.** A creature that drinks a pint or more of the liquor in this cask gains the benefit of a [Potion of Growth](3-Mechanics/CLI/items/potion-of-growth-xdmg.md).  
+- **Green Circle.** The liquor is this cask is not magical, but it is toxic. A creature that drinks any amount of the liquor must succeed on a DC 25 Constitution saving throw or have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for 1 hour.  
+- **Red Star.** The liquor in this cask acts as a magical paralytic. Upon drinking any amount from this cask, a creature must succeed on a DC 20 Constitution saving throw or have the [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) condition for 1 hour.  
 
 Liquor removed from this cave immediately loses its magical properties. Removing a cask from this room causes the liquor within the cask to evaporate.
 
@@ -315,7 +315,7 @@ Liquor removed from this cave immediately loses its magical properties. Removing
 
 Characters who examine the floor can see an empty basement through the 1-inch cracks between the floorboards. The basement has a tunnel exiting to the east, toward area T8. The easiest way to reach this tunnel is to drink from the cask marked with the red square to adopt a cloudlike form. The floorboards are otherwise immovable and immune to all damage.
 
-If the characters have trouble solving the puzzle, any character who walks across the floorboards realizes that the only way past this room is through the thin gaps between the floorboards. If the characters still struggle, allow them to make a DC 12 Intelligence (Arcana) check to determine that the magical liquor in one or more of the casks might facilitate travel through the cracks between the floorboards.
+If the characters have trouble solving the puzzle, any character who walks across the floorboards realizes that the only way past this room is through the thin gaps between the floorboards. If the characters still struggle, allow them to make a DC 12 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check to determine that the magical liquor in one or more of the casks might facilitate travel through the cracks between the floorboards.
 
 #### T6: Hall of Gemstones
 
@@ -328,11 +328,11 @@ Close inspection of the statue uncovers a divot in the statue's base big enough 
 
 ##### Gemstone Puzzle
 
-All the jewels embedded in the walls are made of worthless crystal except for one: an emerald worth 1,000 gp. A character who spends at least 1 minute examining the jewels spots the emerald with a successful DC 20 Intelligence (Investigation) check. Prying the emerald from its wall socket is easily done. Placing the emerald in the statue opens the door sealing off the passage to area T16. The door resists all other attempts to open it. Once opened, however, it ceases to be locked and can thereafter be opened and closed without the emerald.
+All the jewels embedded in the walls are made of worthless crystal except for one: an emerald worth 1,000 gp. A character who spends at least 1 minute examining the jewels spots the emerald with a successful DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. Prying the emerald from its wall socket is easily done. Placing the emerald in the statue opens the door sealing off the passage to area T16. The door resists all other attempts to open it. Once opened, however, it ceases to be locked and can thereafter be opened and closed without the emerald.
 
-A character who succeeds on a DC 16 Intelligence (Arcana) check recalls that emeralds are used to contain water elementals.
+A character who succeeds on a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recalls that emeralds are used to contain water elementals.
 
-Whenever a creature touches one of the other jewels embedded in the walls, the statue glows and launches a blast of freezing magic down the hallway in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 20 Dexterity saving throw, taking `dice:6d10|noform|noparens|avg|text(33)` (`6d10`) cold damage on a failed save or half as much damage on a successful one.
+Whenever a creature touches one of the other jewels embedded in the walls, the statue glows and launches a blast of freezing magic down the hallway in a 30-foot line that is 5 feet wide. Each creature in that area must make a DC 20 Dexterity saving throw, taking 33 (`6d10`) cold damage on a failed save or half as much damage on a successful one.
 
 #### T7: Skeleton Closet
 
@@ -341,11 +341,11 @@ Whenever a creature touches one of the other jewels embedded in the walls, the s
 > A moldering skeleton draped in cobwebs sits in one corner of this small room. A gold choker set with a large black stone hangs around the skeleton's neck.
 ^3a2
 
-If examined with a Detect Magic spell or similar effect, the necklace radiates an aura of necromancy magic.
+If examined with a [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect, the necklace radiates an aura of necromancy magic.
 
 ##### Necklace Trap
 
-The first time a creature touches the necklace, it releases a burst of deathly energy in a 5-foot-radius sphere. Each creature in that area must make a DC 22 Constitution saving throw, taking `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) necrotic damage on a failed save or half as much damage on a successful one.
+The first time a creature touches the necklace, it releases a burst of deathly energy in a 5-foot-radius sphere. Each creature in that area must make a DC 22 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save or half as much damage on a successful one.
 
 Once the trap has been triggered, the necklace becomes a mundane choker worth 1,200 gp.
 
@@ -378,7 +378,7 @@ The archways lead to the following destinations:
 > You arrive at an expansive glade of trees. Bobbing lights flit between the branches, and at the center of the glade stands a towering banyan tree wrapped in sickly looking vines. A path winds through the glade but disappears when you try to focus closely on it.
 ^3a8
 
-The banyan tree is a neutral [treant](/3-Mechanics/CLI/bestiary/plant/treant.md) named Abalahin. Abalahin is real, while the rest of the forest is a mirage. The mirage is tactile, so creatures can interact with it.
+The banyan tree is a neutral [treant](3-Mechanics/CLI/bestiary/plant/treant-xmm.md) named Abalahin. Abalahin is real, while the rest of the forest is a mirage. The mirage is tactile, so creatures can interact with it.
 
 ##### Piercing the Illusion
 
@@ -386,13 +386,13 @@ The mirage is linked to Abalahin's existence. If Abalahin is killed, the mirage 
 
 ##### Befriending Abalahin
 
-Abalahin is covered with strangling vines that render the treant sluggish and distant. A Remove Curse spell or similar effect causes the blighted vines around Abalahin to dissolve. Once the vines are gone, Abalahin is grateful to the characters and, in return, suppresses the mirage, revealing the room's exits.
+Abalahin is covered with strangling vines that render the treant sluggish and distant. A [Remove Curse](3-Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar effect causes the blighted vines around Abalahin to dissolve. Once the vines are gone, Abalahin is grateful to the characters and, in return, suppresses the mirage, revealing the room's exits.
 
 ##### Bobbing Spirit Lights
 
-There are `dice:1d8|noform|noparens|avg` (`1d8`) bobbing spirit lights (each uses the [will-o'-wisp](/3-Mechanics/CLI/bestiary/undead/will-o-wisp.md) stat block and speaks Common and Sylvan) that fill the illusory glade at any given time. The spirit lights are part of the mirage, are indifferent to the characters' presence, and disappear if attacked. Any character with a passive Wisdom (Perception) score of 17 or higher discerns the spirit lights whispering and overhears one of the following remarks:
+There are `1d8` bobbing spirit lights (each uses the [will-o'-wisp](3-Mechanics/CLI/bestiary/undead/will-o-wisp-xmm.md) stat block and speaks Common and Sylvan) that fill the illusory glade at any given time. The spirit lights are part of the mirage, are indifferent to the characters' presence, and disappear if attacked. Any character with a passive Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) score of 17 or higher discerns the spirit lights whispering and overhears one of the following remarks:
 
-![+3 Wand of the War Mage](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/115-07-004-wand-of-the-war-mage.webp#center)
+![+3 Wand of the War Mage](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/115-07-004-wand-of-the-war-mage.webp#center)
 
 - "The next challenge is crushing—move fast!"  
 - "The master of this tomb longs to be free. Wouldn't you, if you were he?"  
@@ -402,7 +402,7 @@ There are `dice:1d8|noform|noparens|avg` (`1d8`) bobbing spirit lights (each use
 
 ##### Treasure
 
-Close inspection of Abalahin's roots reveals an ebony wand decorated with bones and feathers (a +3 Wand of the War Mage). A character who succeeds on a DC 15 Charisma (Persuasion) check can convince Abalahin to relinquish the wand voluntarily. The wand can also be removed without attracting Abalahin's notice by a character who succeeds on a DC 25 Dexterity (Sleight of Hand) check. The wand is one of the treasures Laysa mentioned earlier in this chapter.
+Close inspection of Abalahin's roots reveals an ebony wand decorated with bones and feathers (a [+3 Wand of the War Mage](3-Mechanics/CLI/items/3-wand-of-the-war-mage-xdmg.md)). A character who succeeds on a DC 15 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check can convince Abalahin to relinquish the wand voluntarily. The wand can also be removed without attracting Abalahin's notice by a character who succeeds on a DC 25 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. The wand is one of the treasures Laysa mentioned earlier in this chapter.
 
 Abalahin is hostile toward creatures it catches trying to steal the wand. Once the treant has been defeated, the wand can easily be retrieved.
 
@@ -419,11 +419,11 @@ The 20-foot-high ceiling drops suddenly, stopping 6 inches above the floor befor
 
 Each time the trap triggers, have the characters roll initiative. The ceiling drops to its lowest point on initiative count 20 of each round, losing initiative ties, until the trap resets.
 
-Any creature in the room when the ceiling drops must make a DC 20 Dexterity saving throw. On a failed save, the creature takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage and has the prone condition. On a successful save, the creature can rush from the room, taking no damage, or remain in the room and take half as much damage only. A creature that can fit in spaces as narrow as 6 inches has advantage on the save thanks to the narrow gap that remains between the ceiling and floor when the ceiling is at its lowest level.
+Any creature in the room when the ceiling drops must make a DC 20 Dexterity saving throw. On a failed save, the creature takes 55 (`10d10`) bludgeoning damage and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition. On a successful save, the creature can rush from the room, taking no damage, or remain in the room and take half as much damage only. A creature that can fit in spaces as narrow as 6 inches has advantage on the save thanks to the narrow gap that remains between the ceiling and floor when the ceiling is at its lowest level.
 
-A Small or larger creature subjected to the trap can choose to make a DC 20 Strength saving throw instead of a Dexterity saving throw, provided the creature doesn't have the prone condition, with the aim of slowing the ceiling's descent for the betterment of others. The creature making the Strength saving throw takes `dice:10d10|noform|noparens|avg|text(55)` (`10d10`) bludgeoning damage regardless of whether its save succeeds or fails. If the save succeeds, however, the trap's damage to other creatures is reduced to 0 until initiative count 20 of the next round (losing initiative ties).
+A Small or larger creature subjected to the trap can choose to make a DC 20 Strength saving throw instead of a Dexterity saving throw, provided the creature doesn't have the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition, with the aim of slowing the ceiling's descent for the betterment of others. The creature making the Strength saving throw takes 55 (`10d10`) bludgeoning damage regardless of whether its save succeeds or fails. If the save succeeds, however, the trap's damage to other creatures is reduced to 0 until initiative count 20 of the next round (losing initiative ties).
 
-The ceiling is too heavy to be stopped by any braces, but an Immovable Rod or similar item can prevent it from dropping so far as to crush anyone.
+The ceiling is too heavy to be stopped by any braces, but an [Immovable Rod](3-Mechanics/CLI/items/immovable-rod-xdmg.md) or similar item can prevent it from dropping so far as to crush anyone.
 
 #### T11: Strange Altar
 
@@ -434,17 +434,17 @@ The ceiling is too heavy to be stopped by any braces, but an Immovable Rod or si
 
 The chests are unlocked, and their contents are as follows:
 
-- **Gold Chest.** This chest is worth 100 gp on its own and contains 100 gp.  
-- **Silver Chest.** This chest is worth 50 gp on its own and contains a ceremonial dagger plated with electrum with an amethyst set in its pommel (worth 750 gp).  
-- **Lead Chest.** This worthless chest contains a Spell Scroll of Knock, which the altar trap values at 200 gp (see below).  
+- **Gold Chest.** This [chest](3-Mechanics/CLI/items/chest-xphb.md) is worth 100 gp on its own and contains 100 gp.  
+- **Silver Chest.** This [chest](3-Mechanics/CLI/items/chest-xphb.md) is worth 50 gp on its own and contains a ceremonial [dagger](3-Mechanics/CLI/items/dagger-xphb.md) plated with electrum with an amethyst set in its pommel (worth 750 gp).  
+- **Lead Chest.** This worthless [chest](3-Mechanics/CLI/items/chest-xphb.md) contains a [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Knock](3-Mechanics/CLI/spells/knock-xphb.md), which the altar trap values at 200 gp (see below).  
 
 ##### Altar Trap
 
 Removing a chest or its contents from a niche causes the altar's carvings to glow with pale light. Creatures in the room have 1 minute to either return the chest and its contents to the niche or place one or more items of equal or greater value into the niche. Otherwise, one of the following effects occurs when the time expires, depending on the chest involved:
 
-- **Gold Chest.** Six [swarms of poisonous snakes](/3-Mechanics/CLI/bestiary/beast/swarm-of-poisonous-snakes.md) teleport into the room. The snakes are hostile.  
-- **Silver Chest.** A burst of desiccating energy radiates from the altar in a 15-foot-radius sphere. Each creature in the area must make a DC 17 Constitution saving throw, taking `dice:4d8|noform|noparens|avg|text(18)` (`4d8`) necrotic damage on a failed save or half as much damage on a successful one.  
-- **Lead Chest.** A [death knight](/3-Mechanics/CLI/bestiary/undead/death-knight.md) teleports into the room, appearing in a random unoccupied space within 15 feet of the altar. The knight is hostile.  
+- **Gold Chest.** Six [swarms of poisonous snakes](3-Mechanics/CLI/bestiary/beast/swarm-of-venomous-snakes-xmm.md) teleport into the room. The snakes are hostile.  
+- **Silver Chest.** A burst of desiccating energy radiates from the altar in a 15-foot-radius sphere. Each creature in the area must make a DC 17 Constitution saving throw, taking 18 (`4d8`) necrotic damage on a failed save or half as much damage on a successful one.  
+- **Lead Chest.** A [death knight](3-Mechanics/CLI/bestiary/undead/death-knight-xmm.md) teleports into the room, appearing in a random unoccupied space within 15 feet of the altar. The knight is hostile.  
 
 #### T12: Room of Respite
 
@@ -457,7 +457,7 @@ This room is safe.
 
 ##### Fountain
 
-The fountain's waters have healing properties. A creature that drinks from the fountain regains `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) hit points. Once a creature has benefited from the fountain's magic, it can't do so again until the next dawn.
+The fountain's waters have healing properties. A creature that drinks from the fountain regains 21 (`6d6`) hit points. Once a creature has benefited from the fountain's magic, it can't do so again until the next dawn.
 
 #### T13: Celestial Sky Mirage
 
@@ -468,17 +468,17 @@ A hidden door conceals this room. Creatures that step through the doorway are se
 > You're transported to a grassy field with a starry night sky above you.
 ^3b6
 
-The grassy field and night sky are illusions concealing a bare, rectangular room. Characters can move only as far as the room's walls and ceiling allow, for though these surfaces are hidden to normal eyes, they can be felt. Creatures with truesight recognize the illusions as mirages and can see the room as it actually is; they can also see an engraved black box resting on a black dais in the middle of the room. Characters who can't see the box and dais can locate them by touch after a careful search of the area.
+The grassy field and night sky are illusions concealing a bare, rectangular room. Characters can move only as far as the room's walls and ceiling allow, for though these surfaces are hidden to normal eyes, they can be felt. Creatures with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) recognize the illusions as mirages and can see the room as it actually is; they can also see an engraved black box resting on a black dais in the middle of the room. Characters who can't see the box and dais can locate them by touch after a careful search of the area.
 
 ##### Observing the Night Sky
 
-A character observing the mirage of the night sky can make a DC 14 Intelligence (Nature) check. On a success, a character realizes that, while beautiful, the night sky is wholly inaccurate, as if created by someone who has never seen the sky before. Succeeding on this check also allows the character to see through the room's illusions, revealing not only the walls and ceiling but also the box and the dais on which it sits.
+A character observing the mirage of the night sky can make a DC 14 Intelligence ([Nature](3-Mechanics/CLI/rules/skills.md#Nature)) check. On a success, a character realizes that, while beautiful, the night sky is wholly inaccurate, as if created by someone who has never seen the sky before. Succeeding on this check also allows the character to see through the room's illusions, revealing not only the walls and ceiling but also the box and the dais on which it sits.
 
 ##### Box Trap
 
-The engraved box can't be forced open, but a character can try to unlock it using thieves' tools, doing so with a successful a DC 20 Dexterity (Sleight of Hand) check. A Knock spell or similar magic also unlocks the box.
+The engraved box can't be forced open, but a character can try to unlock it using thieves' tools, doing so with a successful a DC 20 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. A [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic also unlocks the box.
 
-A character who inspects the box before opening it can make a DC 15 Intelligence (Investigation) check. On a successful check, the character notices a spring-loaded compartment beneath the box's lid. A character can use thieves' tools to try to dismantle this compartment and disable the trap, doing so with a successful DC 15 Dexterity (Sleight of Hand) check. If the trap isn't deactivated, poisoned darts burst from the box when it's opened. Each creature within 10 feet of the box when the trap is sprung must succeed on a DC 20 Dexterity saving throw or take `dice:4d4|noform|noparens|avg|text(10)` (`4d4`) piercing damage and have the poisoned condition for 1 hour.
+A character who inspects the box before opening it can make a DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check. On a successful check, the character notices a spring-loaded compartment beneath the box's lid. A character can use thieves' tools to try to dismantle this compartment and disable the trap, doing so with a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. If the trap isn't deactivated, poisoned darts burst from the box when it's opened. Each creature within 10 feet of the box when the trap is sprung must succeed on a DC 20 Dexterity saving throw or take 10 (`4d4`) piercing damage and have the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for 1 hour.
 
 ##### Treasure
 
@@ -486,14 +486,14 @@ Contained within the box is a delicate gold ring engraved with geometric star de
 
 #### T14: Juggernaut Arena
 
-![Anyone who wanders into th...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/116-07-005-granite-juggernauts.webp#center "Anyone who wanders into the tomb's arena must contend with granite juggernauts")
+![Anyone who wanders into the tomb's arena must contend with granite juggernauts](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/116-07-005-granite-juggernauts.webp#center)
 
 > [!readaloud] 
 > 
 > Thin, obsidian pillars are spaced throughout this musty room, the ceiling of which is only ten feet high. In the flickering light, you see two massive, rolling constructs roving the space.
 ^3bb
 
-The room's ceiling is 10 feet high—barely large enough to accommodate the two [granite juggernauts](/3-Mechanics/CLI/bestiary/construct/granite-juggernaut-veor.md) (see appendix A) that trundle between the room's pillars. The juggernauts attack any intruders they notice, but they won't strike pillars.
+The room's ceiling is 10 feet high—barely large enough to accommodate the two [granite juggernauts](3-Mechanics/CLI/bestiary/construct/granite-juggernaut-veor.md) (see appendix A) that trundle between the room's pillars. The juggernauts attack any intruders they notice, but they won't strike pillars.
 
 The juggernauts fight until they are destroyed or until a creature destroys the triangular stone in the control room (area T15).
 
@@ -506,7 +506,7 @@ A hidden door conceals this room.
 > A five-foot-tall, triangular stone covered in runes stands in this bare room's center. At the top of the stone, a plum-sized diamond pulses with red light.
 ^3bd
 
-The triangular stone is immovable and powers the [juggernauts](/3-Mechanics/CLI/bestiary/construct/granite-juggernaut-veor.md) in area T14. A character who examines the triangular stone and succeeds on a DC 17 Intelligence (Arcana) check can decipher its runes and discern its purpose.
+The triangular stone is immovable and powers the [juggernauts](3-Mechanics/CLI/bestiary/construct/granite-juggernaut-veor.md) in area T14. A character who examines the triangular stone and succeeds on a DC 17 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check can decipher its runes and discern its purpose.
 
 ##### Destroying the Stone
 
@@ -523,11 +523,11 @@ Once the stone has been destroyed or both juggernauts have been defeated, charac
 > Filling most of this chamber is a ten-foot-deep pit of green acid, over which stretches a three-foot-wide stone bridge. Nozzles embedded in the north and south walls shoot blasts of air across the bridge.
 ^3c1
 
-A creature that falls into the acid takes `dice:6d6|noform|noparens|avg|text(21)` (`6d6`) acid damage. Any creature that starts its turn in the acid also takes this damage.
+A creature that falls into the acid takes 21 (`6d6`) acid damage. Any creature that starts its turn in the acid also takes this damage.
 
 ##### Gust Nozzles
 
-Air blasts from nozzles in the walls north and south of the bridge with such force that they can't be easily stoppered. When a creature moves onto the bridge for the first time on a turn or starts its turn there, or when a flying creature enters a space above the bridge or the acid pit for the first time on a turn, the creature must succeed on a DC 20 Dexterity saving throw. On a failed save, the creature is pushed by the gusts 5 feet north or south (determined randomly) and has the prone condition; if the space isn't on a surface that can support the creature, the creature falls as normal.
+Air blasts from nozzles in the walls north and south of the bridge with such force that they can't be easily stoppered. When a creature moves onto the bridge for the first time on a turn or starts its turn there, or when a flying creature enters a space above the bridge or the acid pit for the first time on a turn, the creature must succeed on a DC 20 Dexterity saving throw. On a failed save, the creature is pushed by the gusts 5 feet north or south (determined randomly) and has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition; if the space isn't on a surface that can support the creature, the creature falls as normal.
 
 #### T17: Jade Serpent Guardians' Chamber
 
@@ -543,13 +543,13 @@ If one or more characters enter the room, read the following:
 > The center statue's eyes glow with white light, and the cobra statues begin writhing toward you.
 ^3c5
 
-The central statue uses the [marilith](/3-Mechanics/CLI/bestiary/fiend/marilith.md) stat block but is a Construct. This central statue controls the two cobra statues; each cobra statue uses the [spirit naga](/3-Mechanics/CLI/bestiary/monstrosity/spirit-naga.md) stat block but is a Construct. The statues speak Common. The statues are hostile toward any creature that enters the chamber.
+The central statue uses the [marilith](3-Mechanics/CLI/bestiary/fiend/marilith-xmm.md) stat block but is a Construct. This central statue controls the two cobra statues; each cobra statue uses the [spirit naga](3-Mechanics/CLI/bestiary/fiend/spirit-naga-xmm.md) stat block but is a Construct. The statues speak Common. The statues are hostile toward any creature that enters the chamber.
 
-![Sword of Sharpness (scimit...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/117-07-006-sword-of-sharpness.webp#center "Sword of Sharpness (scimitar) with a snake-shaped pommel")
+![Sword of Sharpness (scimitar) with a snake-shaped pommel](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/117-07-006-sword-of-sharpness.webp#center)
 
 ##### Appeasing the Statues
 
-A character can use an action to try to appease the statues with a DC 20 Charisma (Persuasion) check; if the character makes an offering of food or treasure worth 50 gp or more, this check is made with advantage. On a successful check, the statues become friendly toward the characters and cease attacking.
+A character can use an action to try to appease the statues with a DC 20 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check; if the character makes an offering of food or treasure worth 50 gp or more, this check is made with advantage. On a successful check, the statues become friendly toward the characters and cease attacking.
 
 The statues served as island guardians for centuries before Acererak abducted them. If informed about Laysa, the statues are thrilled to learn about her efforts.
 
@@ -557,7 +557,7 @@ Acererak's magic confines the statues to this room, but previous adventurers hav
 
 ##### Treasure
 
-One of the central statue's swords functions as a Sword of Sharpness (scimitar) in the hands of a Humanoid. The scimitar is one of the treasures Laysa mentioned earlier in this chapter. If told about Laysa, the central statue willingly gives the sword; otherwise, the sword can be retrieved when all the statues have been defeated.
+One of the central statue's swords functions as a [Sword of Sharpness (scimitar)](3-Mechanics/CLI/items/sword-of-sharpness-xdmg.md) in the hands of a Humanoid. The scimitar is one of the treasures Laysa mentioned earlier in this chapter. If told about Laysa, the central statue willingly gives the sword; otherwise, the sword can be retrieved when all the statues have been defeated.
 
 #### T18: Hall of Discordance
 
@@ -566,7 +566,7 @@ One of the central statue's swords functions as a Sword of Sharpness (scimitar) 
 > Eight niches are built into these walls. Each niche contains a musical instrument: a lute, a lyre, a viol, a flute, a drum, a dulcimer, a shawm, and a horn. At the end of the hallway is a double door emblazoned with two theater masks—one elated and one despairing.
 ^3c9
 
-When a creature comes within 5 feet of any of the instruments, they all glow with a purple light and begin playing on their own, filling the hall with an awful din. Each creature in the hall must make a DC 20 Wisdom saving throw, taking `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) psychic damage on a failed save or half as much damage on a successful one. After the damage is dealt, the instruments cease to play or glow, becoming normal items of their kind.
+When a creature comes within 5 feet of any of the instruments, they all glow with a purple light and begin playing on their own, filling the hall with an awful din. Each creature in the hall must make a DC 20 Wisdom saving throw, taking 16 (`3d10`) psychic damage on a failed save or half as much damage on a successful one. After the damage is dealt, the instruments cease to play or glow, becoming normal items of their kind.
 
 ##### Mask Door
 
@@ -579,9 +579,9 @@ Thin script engraved above the pair of masks reads as follows:
 > "Pay the toll, in blood or in song."
 ^3cb
 
-There are two ways to open the doors. A character can play one of the hallway's instruments and make a DC 20 Charisma (Performance) check; if the character doesn't have proficiency with the chosen instrument, this check is made with disadvantage. On a successful check, the doors open. On a failed check, the character takes `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) psychic damage, and the doors remain locked.
+There are two ways to open the doors. A character can play one of the hallway's instruments and make a DC 20 Charisma ([Performance](3-Mechanics/CLI/rules/skills.md#Performance)) check; if the character doesn't have proficiency with the chosen instrument, this check is made with disadvantage. On a successful check, the doors open. On a failed check, the character takes 16 (`3d10`) psychic damage, and the doors remain locked.
 
-Alternatively, a character can place one of their arms into a mask's open mouth. When each mouth has an arm in it, the mouths clamp down. If both arms belong to the same character, that character takes `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) piercing damage; if the arms belong to different characters, each character takes `dice:4d6|noform|noparens|avg|text(14)` (`4d6`) piercing damage. The mouths then unclamp, and the doors unlock.
+Alternatively, a character can place one of their arms into a mask's open mouth. When each mouth has an arm in it, the mouths clamp down. If both arms belong to the same character, that character takes 28 (`8d6`) piercing damage; if the arms belong to different characters, each character takes 14 (`4d6`) piercing damage. The mouths then unclamp, and the doors unlock.
 
 #### T19: Library
 
@@ -590,23 +590,23 @@ Alternatively, a character can place one of their arms into a mask's open mouth.
 > Shelves filled with tomes and scrolls line the walls of this expansive chamber. Five stone statues depicting skeletal warriors stand sentinel throughout the room.
 ^3cd
 
-![A Manual of Bodily Healthy...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/118-07-007-manual-of-bodily-health.webp#center "A Manual of Bodily Healthy written on engraved copper sheets")
+![A Manual of Bodily Healthy written on engraved copper sheets](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/118-07-007-manual-of-bodily-health.webp#center)
 
 ##### Guardians
 
-Whenever an item is removed from this room's shelves, one of the five skeletal statues here springs to life. The statue uses the [stone golem](/3-Mechanics/CLI/bestiary/construct/stone-golem.md) stat block but is Medium and hostile, attacking whichever creature took the item. The statue remains active until the triggering item is returned or until the statue is destroyed. Multiple statues can be active at once.
+Whenever an item is removed from this room's shelves, one of the five skeletal statues here springs to life. The statue uses the [stone golem](3-Mechanics/CLI/bestiary/construct/stone-golem-xmm.md) stat block but is Medium and hostile, attacking whichever creature took the item. The statue remains active until the triggering item is returned or until the statue is destroyed. Multiple statues can be active at once.
 
 ##### Treasure
 
 A thorough search of the shelves' contents takes 10 minutes and yields the following items:
 
-- Spell Scroll of Greater Restoration  
-- Set of engraved copper sheets that functions as a Manual of Bodily Health (one of the treasures Laysa mentioned earlier in this chapter)  
+- [Spell Scroll](3-Mechanics/CLI/items/spell-scroll-xdmg.md) of [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md)  
+- Set of engraved copper sheets that functions as a [Manual of Bodily Health](3-Mechanics/CLI/items/manual-of-bodily-health-xdmg.md) (one of the treasures Laysa mentioned earlier in this chapter)  
 - Thin, leather-bound journal written in Common that explains that the combination for the crypt doors (area T25) is the word "die" in Draconic  
 
 #### T20a–T20b: Void Closets
 
-These two storage closets are identical. The door to each room is locked. As an action, a character can use thieves' tools to try to unlock either door, doing so with a successful DC 15 Dexterity (Sleight of Hand) check. Each door can also be forced open from either side with a successful DC 11 Strength (Athletics) check, or with a Knock spell or similar magic.
+These two storage closets are identical. The door to each room is locked. As an action, a character can use thieves' tools to try to unlock either door, doing so with a successful DC 15 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. Each door can also be forced open from either side with a successful DC 11 Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check, or with a [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic.
 
 > [!readaloud] 
 > 
@@ -617,7 +617,7 @@ The interior of each closet is filled with magical darkness that can't be dispel
 
 ##### Spheres of Annihilation
 
-In the center of each room is an uncontrolled Sphere of Annihilation. The magical darkness obscures the sphere; only creatures with truesight can detect its presence.
+In the center of each room is an uncontrolled [Sphere of Annihilation](3-Mechanics/CLI/items/sphere-of-annihilation-xdmg.md). The magical darkness obscures the sphere; only creatures with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) can detect its presence.
 
 #### T21: Phantasmal Mirage
 
@@ -626,13 +626,13 @@ In the center of each room is an uncontrolled Sphere of Annihilation. The magica
 > Eerie sounds echo in this pitch-dark room.
 ^3d4
 
-This room is filled with magical darkness, and neither the darkness nor the eerie sounds can be dispelled. Any creature that enters this room for the first time must succeed on a DC 18 Wisdom saving throw or have the frightened condition, as the darkness and eerie sounds conjure up the creature's deepest fears. The frightened condition ends on the creature when it leaves the room.
+This room is filled with magical darkness, and neither the darkness nor the eerie sounds can be dispelled. Any creature that enters this room for the first time must succeed on a DC 18 Wisdom saving throw or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition, as the darkness and eerie sounds conjure up the creature's deepest fears. The [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) condition ends on the creature when it leaves the room.
 
-While frightened in this way, a creature takes `dice:2d10|noform|noparens|avg|text(11)` (`2d10`) psychic damage for every 5 feet it moves. After taking this damage, the creature can repeat the saving throw, ending the frightened condition on a itself on a success.
+While [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened) in this way, a creature takes 11 (`2d10`) psychic damage for every 5 feet it moves. After taking this damage, the creature can repeat the saving throw, ending the frightened condition on a itself on a success.
 
 ##### Piercing the Illusion
 
-Creatures with truesight see the room for what it is: an abandoned study. A dusty desk and empty bookcase line the east wall.
+Creatures with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) see the room for what it is: an abandoned study. A dusty desk and empty bookcase line the east wall.
 
 #### T22: Vortex Bridge
 
@@ -643,11 +643,11 @@ Creatures with truesight see the room for what it is: an abandoned study. A dust
 
 The tiled bridge stretches over a gravity vortex 60 feet below. The force of the vortex reduces the flying speed of any creature within the room to 0 feet.
 
-![Map 7.4: Vortex Bridge Puzzle](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/119-07-009-vortex-bridge-puzzle.webp#center)
+![Map 7.4: Vortex Bridge Puzzle](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/119-07-009-vortex-bridge-puzzle.webp#center)
 
 ##### Bridge Puzzle
 
-Close inspection of the bridge's tiles reveals that each one bears an engraved symbol representing one of the eight schools of magic. A See Invisibility spell or similar effect uncovers concealed writing on the ledge before the bridge, which reads as follows:
+Close inspection of the bridge's tiles reveals that each one bears an engraved symbol representing one of the eight schools of magic. A [See Invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md) spell or similar effect uncovers concealed writing on the ledge before the bridge, which reads as follows:
 
 > [!readaloud] 
 > 
@@ -656,13 +656,13 @@ Close inspection of the bridge's tiles reveals that each one bears an engraved s
 
 To cross the bridge safely, creatures must step on the tiles bearing the symbol for evocation magic, which are red, or the tiles bearing the symbol for transmutation magic, which are orange. The tiles are shown on map 7.4.
 
-When observed within the range of a Detect Magic spell or similar magic, the vortex radiates an aura of evocation and transmutation magic. A character who observes the vortex or witnesses the flight-inhibiting effect of the room's gravity well can make a DC 16 Intelligence (Arcana) check, recalling the following facts on a success:
+When observed within the range of a [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar magic, the vortex radiates an aura of evocation and transmutation magic. A character who observes the vortex or witnesses the flight-inhibiting effect of the room's gravity well can make a DC 16 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check, recalling the following facts on a success:
 
-- The spell Reverse Gravity is a transmutation spell.  
+- The spell [Reverse Gravity](3-Mechanics/CLI/spells/reverse-gravity-xphb.md) is a transmutation spell.  
 - The school of transmutation magic deals with manipulating energy and matter.  
 - Evocation spells create powerful elemental effects.  
 
-If the players have trouble with this puzzle, reveal that the characters must step on only evocation or transmutation tiles, and tell them which colors these tiles are. When a creature steps on an incorrect tile, the tile breaks away, and both the tile and the creature are sucked into the vortex below. The creature takes `dice:8d8|noform|noparens|avg|text(36)` (`8d8`) force damage and is teleported to a safe, unoccupied space at the south end of the room or in the tunnel leading to area T19.
+If the players have trouble with this puzzle, reveal that the characters must step on only evocation or transmutation tiles, and tell them which colors these tiles are. When a creature steps on an incorrect tile, the tile breaks away, and both the tile and the creature are sucked into the vortex below. The creature takes 36 (`8d8`) force damage and is teleported to a safe, unoccupied space at the south end of the room or in the tunnel leading to area T19.
 
 #### T23: Arcane Laboratory
 
@@ -671,17 +671,17 @@ If the players have trouble with this puzzle, reveal that the characters must st
 > Three tall, glass cylinders line the back wall of this dimly lit chamber. Each cylinder contains a decaying corpse, half-buried in snow topped with red powder. Against the north wall stands a bare wooden desk.
 ^3db
 
-This chamber bears the remnants of Acererak's endeavors to create empowered simulacra to guard his many tombs. A character who examines the cylinders and succeeds on a DC 20 Intelligence (Arcana) check recognizes the snow and powdered ruby in each glass cylinder as components for creating a simulacrum.
+This chamber bears the remnants of Acererak's endeavors to create empowered simulacra to guard his many tombs. A character who examines the cylinders and succeeds on a DC 20 Intelligence ([Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)) check recognizes the snow and powdered ruby in each glass cylinder as components for creating a simulacrum.
 
 ##### Secret Desk Compartment
 
-A character who searches the desk and succeeds on a DC 20 Intelligence (Investigation) check discovers that one of its drawers contains a locked false bottom. Rerak (see area T26) carries the key to this compartment, but a character with thieves' tools can use them to try to unlock the compartment, doing so with a successful DC 20 Dexterity (Sleight of Hand) check. A Knock spell or similar magic also unlocks the compartment.
+A character who searches the desk and succeeds on a DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check discovers that one of its drawers contains a locked false bottom. Rerak (see area T26) carries the key to this compartment, but a character with thieves' tools can use them to try to unlock the compartment, doing so with a successful DC 20 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. A [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic also unlocks the compartment.
 
-The secret compartment bears a magical trap. If the compartment is opened by any means other than using the key found on Rerak in area T26, magical lightning shoots from the drawer. Each creature in the room must make a DC 15 Dexterity saving throw, taking `dice:4d12|noform|noparens|avg|text(26)` (`4d12`) lightning damage on a failed save or half as much damage on a successful one. A Detect Magic spell or similar effect unveils the source of this trap: a tiny rune inscribed in the drawer. The trap can be disarmed by dispelling the rune with a Dispel Magic spell (DC 17).
+The secret compartment bears a magical trap. If the compartment is opened by any means other than using the key found on Rerak in area T26, magical lightning shoots from the drawer. Each creature in the room must make a DC 15 Dexterity saving throw, taking 26 (`4d12`) lightning damage on a failed save or half as much damage on a successful one. A [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell or similar effect unveils the source of this trap: a tiny rune inscribed in the drawer. The trap can be disarmed by dispelling the rune with a [Dispel Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md) spell (DC 17).
 
 ##### Treasure
 
-Within the hidden desk compartment is a rose quartz Crystal Ball and a stack of notes written in Common. The Crystal Ball is one of the treasures Laysa mentioned earlier in this chapter.
+Within the hidden desk compartment is a rose quartz [Crystal Ball](3-Mechanics/CLI/items/crystal-ball-xdmg.md) and a stack of notes written in Common. The Crystal Ball is one of the treasures Laysa mentioned earlier in this chapter.
 
 A character who spends 10 minutes studying the notes learns about Acererak's endeavors to create empowered simulacra of himself to guard his tombs. Acererak speaks of his simulacra with disdain, viewing them as tools. He finds the fact that his simulacra can develop sentience a sadistic joke.
 
@@ -689,7 +689,7 @@ The notes also explain that the combination for the crypt doors (area T25) is th
 
 #### T24: Underwater Trench Mirage
 
-Characters standing outside this room can see that it is empty, but a Detect Magic spell reveals the presence of illusion magic throughout. When one or more characters enter the room, read the following:
+Characters standing outside this room can see that it is empty, but a [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md) spell reveals the presence of illusion magic throughout. When one or more characters enter the room, read the following:
 
 > [!readaloud] 
 > 
@@ -698,11 +698,11 @@ Characters standing outside this room can see that it is empty, but a Detect Mag
 
 This chamber contains a mirage of a deep, underwater trench. Though illusory, the seawater is tactile, and creatures unable to breathe underwater suffocate while in this chamber.
 
-A hostile [giant shark](/3-Mechanics/CLI/bestiary/beast/giant-shark.md) swims beneath the characters. The shark is part of the mirage, though it can harm characters who don't pierce the illusion. The shark can't harm anyone outside the room.
+A hostile [giant shark](3-Mechanics/CLI/bestiary/beast/giant-shark-xmm.md) swims beneath the characters. The shark is part of the mirage, though it can harm characters who don't pierce the illusion. The shark can't harm anyone outside the room.
 
 ##### Piercing the Illusion
 
-A creature that succeeds on a DC 18 Intelligence (Investigation) check can see through the illusion, perceiving the empty room and its exits. A creature with truesight can also see through the illusion.
+A creature that succeeds on a DC 18 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check can see through the illusion, perceiving the empty room and its exits. A creature with [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) can also see through the illusion.
 
 Upon realizing the illusion, a creature can breathe the water as easily as it breathes air. However, the creature continues to interact with the water as if it were tactile, such as swimming through it.
 
@@ -715,11 +715,11 @@ Upon realizing the illusion, a creature can breathe the water as easily as it br
 
 The platinum circles are the locking mechanisms for the crypt doors. A character who can read Draconic sees the letters *a* through *z* in Draconic on each circle.
 
-When the three concentric rings are aligned so they spell the word "die" in Draconic, the crypt doors unlock. This combination can be found in areas T19 and T23. Alternatively, a character using thieves' tools can spend 1 minute trying to unlock the doors, doing so with a successful DC 25 Dexterity (Sleight of Hand) check. A Knock spell or similar magic also unlocks the doors.
+When the three concentric rings are aligned so they spell the word "die" in Draconic, the crypt doors unlock. This combination can be found in areas T19 and T23. Alternatively, a character using thieves' tools can spend 1 minute trying to unlock the doors, doing so with a successful DC 25 Dexterity ([Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) check. A [Knock](3-Mechanics/CLI/spells/knock-xphb.md) spell or similar magic also unlocks the doors.
 
 ##### Knockout-Gas Trap
 
-If the double door is opened via any other means besides the correct combination, a cloud of sweet-smelling gas is released from the skull engraving. The gas fills the widened area immediately south of the double door. Each creature in that area must succeed on a DC 20 Constitution saving throw or have the unconscious condition for `dice:2d4+10|noform|noparens|avg` (`2d4 + 10`) minutes. An unconscious creature can repeat this saving throw each time it takes damage, ending the effect on itself on a successful save.
+If the double door is opened via any other means besides the correct combination, a cloud of sweet-smelling gas is released from the skull engraving. The gas fills the widened area immediately south of the double door. Each creature in that area must succeed on a DC 20 Constitution saving throw or have the [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition for `2d4 + 10` minutes. An [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) creature can repeat this saving throw each time it takes damage, ending the effect on itself on a successful save.
 
 #### T26: Crypt
 
@@ -730,15 +730,15 @@ If the double door is opened via any other means besides the correct combination
 > At the room's center looms a black throne, upon which sits a skeleton dressed in luxurious robes and headdress. A platinum door stands behind the throne.
 ^3e5
 
-The figure sitting on the throne is Rerak, a [false lich](/3-Mechanics/CLI/bestiary/undead/false-lich-veor.md) (see appendix A). Although alert, Rerak remains motionless until he takes damage or a creature moves within 15 feet of him, at which point he becomes hostile and attacks.
+The figure sitting on the throne is Rerak, a [false lich](3-Mechanics/CLI/bestiary/undead/false-lich-veor.md) (see appendix A). Although alert, Rerak remains motionless until he takes damage or a creature moves within 15 feet of him, at which point he becomes hostile and attacks.
 
 ##### Appeasing Rerak
 
-Upon creation, Rerak was magically bound to Acererak's piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md); as long as the rod piece remains within the tomb, so must Rerak. Rerak resents his creator for leaving him to languish within this tomb, and though he remains loyal to Acererak, he longs to experience the world beyond the tomb's walls.
+Upon creation, Rerak was magically bound to Acererak's piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md); as long as the rod piece remains within the tomb, so must Rerak. Rerak resents his creator for leaving him to languish within this tomb, and though he remains loyal to Acererak, he longs to experience the world beyond the tomb's walls.
 
-Throughout the fight, Rerak commands the characters to flee. Each time Rerak does this, each character can make a DC 19 Wisdom (Insight) check without taking an action. On a successful check, the character discerns a melancholy tone to Rerak's words, as if he loathed that he must kill them.
+Throughout the fight, Rerak commands the characters to flee. Each time Rerak does this, each character can make a DC 19 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check without taking an action. On a successful check, the character discerns a melancholy tone to Rerak's words, as if he loathed that he must kill them.
 
-During combat, a character can use an action to try to convince Rerak to turn against his creator. Have that character make a DC 23 Charisma (Persuasion) check. If the character mentions the mirages or Acererak's disdain toward his creations (found in the notes in area T23), this check is made with advantage. On a successful check, Rerak's loyalty to Acererak is shaken. After three successful checks, Rerak halts the battle and crushes his eye sockets' gems, severing his connection to Acererak and releasing any souls trapped within.
+During combat, a character can use an action to try to convince Rerak to turn against his creator. Have that character make a DC 23 Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. If the character mentions the mirages or Acererak's disdain toward his creations (found in the notes in area T23), this check is made with advantage. On a successful check, Rerak's loyalty to Acererak is shaken. After three successful checks, Rerak halts the battle and crushes his eye sockets' gems, severing his connection to Acererak and releasing any souls trapped within.
 
 ##### Rerak's Secret
 
@@ -748,7 +748,7 @@ Regardless of the characters' reaction to this revelation, learning it counts as
 
 ##### False Treasures
 
-The items on the pedestals are false re-creations of treasures that can be found throughout the complex. A creature that touches one of these false treasures must immediately succeed on a DC 15 Constitution saving throw or take `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) necrotic damage and have the stunned condition until the start of its next turn.
+The items on the pedestals are false re-creations of treasures that can be found throughout the complex. A creature that touches one of these false treasures must immediately succeed on a DC 15 Constitution saving throw or take 10 (`3d6`) necrotic damage and have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned) condition until the start of its next turn.
 
 ##### Keys
 
@@ -756,24 +756,24 @@ Rerak carries two keys: a platinum key shaped like a skeleton that unlocks the d
 
 If the characters convinced Rerak to turn against his creator, Rerak provides the keys willingly.
 
-![The false lich Rerak is a ...](/3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/120-07-008-rerak.webp#center "The false lich Rerak is a terrifying sight to behold")
+![The false lich Rerak is a terrifying sight to behold](3-Mechanics/CLI/adventures/vecna-eve-of-ruin/img/120-07-008-rerak.webp#center)
 
 #### T27: Crypt Vault
 
-The door to the crypt vault is locked and protected by magical wards. It can be unlocked only with the platinum skeleton key in Rerak's possession. A creature that attempts to open the vault by any other means must make a DC 25 Dexterity saving throw, taking `dice:8d6|noform|noparens|avg|text(28)` (`8d6`) force damage on a failed save or half as much damage on a successful one.
+The door to the crypt vault is locked and protected by magical wards. It can be unlocked only with the platinum skeleton key in Rerak's possession. A creature that attempts to open the vault by any other means must make a DC 25 Dexterity saving throw, taking 28 (`8d6`) force damage on a failed save or half as much damage on a successful one.
 
-The [sixth piece](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) rests on the pedestal.
+The [sixth piece](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md) rests on the pedestal.
 
 > [!readaloud] 
 > 
 > Coins and precious stones are strewn across this vault's floor. A rod piece rests atop a pedestal draped with a blue silk sash embroidered with gold thread.
 ^3eb
 
-For more about the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
+For more about the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md), see this book's introduction.
 
 ##### Treasure
 
-If a character shows the silk sash to Laysa, she identifies it as a garment given to her people that functions as a Robe of Stars. The robe is one of the treasures Laysa mentioned earlier in this chapter.
+If a character shows the silk sash to Laysa, she identifies it as a garment given to her people that functions as a [Robe of Stars](3-Mechanics/CLI/items/robe-of-stars-xdmg.md). The robe is one of the treasures Laysa mentioned earlier in this chapter.
 
 The mundane treasure within the vault includes the following:
 

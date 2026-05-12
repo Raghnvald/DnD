@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/vgm
 - ttrpg-cli/race/kenku
 aliases:
-- Kenku
+- "Kenku"
 ---
 # Kenku
-*Source: Volo's Guide to Monsters p. 109, Explorer's Guide to Wildemount p. 177*  
-![](/3-Mechanics/CLI/races/img/kenku.webp#right)
+*Source: Volo's Guide to Monsters p. 109*  
+![](3-Mechanics/CLI/races/img/kenku.webp#right)
 
 - **Ability Scores**: dex +2 wis +1
 - **Size**: Medium
@@ -32,11 +32,11 @@ You can duplicate other creatures' handwriting and craftwork. You have advantage
 
 ### Kenku Training
 
-You are proficient in your choice of two of the following skills: Acrobatics, Deception, Stealth, and Sleight of Hand.
+You are proficient in your choice of two of the following skills: [Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics), [Deception](3-Mechanics/CLI/rules/skills.md#Deception), [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth), and [Sleight of Hand](3-Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand).
 
 ### Mimicry
 
-You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check.
+You can mimic sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check opposed by your Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception)) check.
 
 ### Languages
 

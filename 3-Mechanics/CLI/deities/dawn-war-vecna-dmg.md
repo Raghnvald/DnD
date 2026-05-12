@@ -8,8 +8,8 @@ tags:
 - ttrpg-cli/domain/arcana
 - ttrpg-cli/domain/death
 - ttrpg-cli/domain/knowledge
-aliases: 
-- Vecna
+aliases:
+- "Vecna"
 ---
 # Vecna
 *Source: Dungeon Master's Guide p. 10, Sword Coast Adventurer's Guide p. 125* 

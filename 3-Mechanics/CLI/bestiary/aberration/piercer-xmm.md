@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Piercer
+- "Piercer"
 ---
-# [Piercer](3-Mechanics\CLI\bestiary\aberration/piercer-xmm.md)
+# [Piercer](3-Mechanics/CLI/bestiary/aberration/piercer-xmm.md)
 *Source: Monster Manual (2024) p. 240*  
 
 ## Piercer
@@ -50,9 +50,9 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
   - !!int "3"
 "speed": "5 ft., climb 15 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[Blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -61,15 +61,16 @@ Piercers are the larval form of ropers. Young piercers seek to move as far from 
       \ needing to make an ability check."
     "name": "Spider Climb"
 "actions":
-  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +3, reach 5 ft. *Hit:* 5 (1d8 + 1) Piercing\
+      \ damage."
     "name": "Bite"
   - "desc": "The piercer falls. *Dexterity Saving Throw:* DC 11, one creature directly\
-      \ underneath the piercer. *Failure:* 10 (3d6) Piercing damage. *Failure or Success:*\
-      \ The piercer reduces any damage it takes from the fall by 20."
+      \ underneath the piercer. *Failure:* 10 (3d6) Piercing damage. *Failure or\
+      \ Success:* The piercer reduces any damage it takes from the fall by 20."
     "name": "Drop"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/piercer-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/piercer-xmm.webp"
 ```
 ^statblock
 

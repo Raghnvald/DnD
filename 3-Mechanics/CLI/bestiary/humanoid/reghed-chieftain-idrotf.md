@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/medium
-- new/monster/type/humanoid/any-race
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/humanoid/any-race
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Reghed Chieftain
+- "Reghed Chieftain"
 ---
-# [Reghed Chieftain](3-Mechanics\CLI\bestiary\humanoid/reghed-chieftain-idrotf.md)
+# [Reghed Chieftain](3-Mechanics/CLI/bestiary/humanoid/reghed-chieftain-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 152*  
 
 ## Reghed Nomads
@@ -34,7 +34,7 @@ Each Reghed tribe is made up of smaller clans, each with its own chieftain (the 
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "studded leather, shield"
+"ac_class": "[studded leather](3-Mechanics/CLI/items/studded-leather-armor.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "112"
 "hit_dice": "15d8 + 45"
 "modifier": !!int "2"
@@ -51,15 +51,17 @@ Each Reghed tribe is made up of smaller clans, each with its own chieftain (the 
   - "dexterity": !!int "5"
   - "constitution": !!int "6"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+10"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+5"
+"gear":
+  - "[spear](3-Mechanics/CLI/items/spear.md)"
 "senses": "passive Perception 11"
 "languages": "any one language (usually Common)"
 "cr": "5"
 "traits":
-  - "desc": "The chieftain has advantage on saving throws against being frightened."
+  - "desc": "The chieftain has advantage on saving throws against being [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)."
     "name": "Brave"
   - "desc": "A melee weapon deals one extra die of its damage when the chieftain hits\
       \ with it (included in the attack)."
@@ -67,13 +69,13 @@ Each Reghed tribe is made up of smaller clans, each with its own chieftain (the 
 "actions":
   - "desc": "The chieftain makes three melee attacks or two ranged attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60\
-      \ ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing\
-      \ damage if used with two hands to make a melee attack."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range\
+      \ 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8\
+      \ + 4) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9\
-      \ (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature,\
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Shield Bash"
 "reactions":
   - "desc": "The chieftain adds 3 to its AC against one melee attack that would hit\
@@ -82,6 +84,6 @@ Each Reghed tribe is made up of smaller clans, each with its own chieftain (the 
     "name": "Parry"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/reghed-chieftain-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/reghed-chieftain-idrotf.webp"
 ```
 ^statblock

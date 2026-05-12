@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/lizardfolk
 aliases:
-- Lizardfolk
+- "Lizardfolk"
 ---
 # Lizardfolk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  
-![](/3-Mechanics/CLI/races/img/lizardfolk.webp#right)
+![](3-Mechanics/CLI/races/img/lizardfolk.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Medium
@@ -24,7 +24,7 @@ Your walking speed is 30 feet, and you have a swimming speed equal to your walki
 
 ### Bite
 
-You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals `dice:1d6|noform|noparens|avg` (`1d6`) + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
+You have a fanged maw that you can use to make unarmed strikes. When you hit with it, the strike deals `1d6` + your Strength modifier slashing damage, instead of the bludgeoning damage normal for an unarmed strike.
 
 ### Hold Breath
 
@@ -40,7 +40,7 @@ You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](/3-Mechanics/CLI/skills.md#Animal%20Handling), [Medicine](/3-Mechanics/CLI/skills.md#Medicine), [Nature](/3-Mechanics/CLI/skills.md#Nature), [Perception](/3-Mechanics/CLI/skills.md#Perception), [Stealth](/3-Mechanics/CLI/skills.md#Stealth), or [Survival](/3-Mechanics/CLI/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling), [Medicine](3-Mechanics/CLI/rules/skills.md#Medicine), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), [Perception](3-Mechanics/CLI/rules/skills.md#Perception), [Stealth](3-Mechanics/CLI/rules/skills.md#Stealth), or [Survival](3-Mechanics/CLI/rules/skills.md#Survival).
 
 ## Description
 

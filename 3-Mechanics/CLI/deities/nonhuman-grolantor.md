@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/nonhuman
 - ttrpg-cli/domain/war
-aliases: 
-- Grolantor
+aliases:
+- "Grolantor"
 ---
 # Grolantor
 *Source: Player's Handbook p. 296* 

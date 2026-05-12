@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Damaged Flesh Golem
+- "Damaged Flesh Golem"
 ---
-# [Damaged Flesh Golem](3-Mechanics\CLI\bestiary\construct/damaged-flesh-golem-egw.md)
+# [Damaged Flesh Golem](3-Mechanics/CLI/bestiary/construct/damaged-flesh-golem-egw.md)
 *Source: Explorer's Guide to Wildemount p. 248*  
 
 ```statblock
@@ -34,11 +34,8 @@ aliases:
 "speed": "30 ft."
 "damage_immunities": "lightning; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+"senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
 "cr": "1"
 "traits":
@@ -50,9 +47,9 @@ aliases:
       \ to do so until it is destroyed or regains all its hit points.\n\nThe golem's\
       \ creator, if within 60 feet of the berserk golem, can try to calm it by speaking\
       \ firmly and persuasively. The golem must be able to hear its creator, who must\
-      \ take an action to make a DC 15 Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion))\
-      \ check. If the check succeeds, the golem ceases being berserk. If it takes\
-      \ damage while still at 40 hit points or fewer, the golem might go berserk again."
+      \ take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds,\
+      \ the golem ceases being berserk. If it takes damage while still at 40 hit points\
+      \ or fewer, the golem might go berserk again."
     "name": "Berserk"
   - "desc": "If the golem takes fire damage, it has disadvantage on attack rolls and\
       \ ability checks until the end of its next turn."
@@ -73,6 +70,6 @@ aliases:
     "name": "Slam"
 "source":
   - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/damaged-flesh-golem-egw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/damaged-flesh-golem-egw.webp"
 ```
 ^statblock

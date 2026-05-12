@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Special Features; What Quirk Does It Have
+- "Special Features; What Quirk Does It Have"
 ---
 # Special Features; What Quirk Does It Have
 *Source: Dungeon Master's Guide p. 141* 
 
 **What Quirk Does It Have**
-
-`dice: [](special-features-what-quirk-does-it-have.md#^what-quirk-does-it-have)`
 
 | dice: d12 | Quirk |
 |-----------|-------|

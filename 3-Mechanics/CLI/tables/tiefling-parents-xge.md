@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Tiefling Parents
+- "Tiefling Parents"
 ---
 # Tiefling Parents
 *Source: Xanathar's Guide to Everything p. 62* 
 
 **Tiefling Parents**
-
-`dice: [](tiefling-parents-xge.md#^tiefling-parents)`
 
 | dice: d8 | Parents |
 |----------|---------|

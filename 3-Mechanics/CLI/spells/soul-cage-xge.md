@@ -16,13 +16,13 @@ classes:
 - Warlock
 - Wizard
 aliases:
-- Soul Cage
+- "Soul Cage"
 ---
 # Soul Cage
 *6th-level, Necromancy*  
 
 
-- **Casting time:** 1 Reaction
+- **Casting time:** 1 Reaction, which you take when a humanoid you can see within 60 feet of you die
 - **Range:** 60 feet
 - **Components:** V, S, M (a tiny silver cage worth 100 gp)
 - **Duration:** 8 hours
@@ -31,7 +31,7 @@ This spell snatches the soul of a humanoid as it dies and traps it inside the ti
 
 ## Steal Life
 
-You can use a bonus action to drain vigor from the soul and regain `dice:2d8|noform|noparens|avg` (`2d8`) hit points.
+You can use a bonus action to drain vigor from the soul and regain `2d8` hit points.
 
 ## Query Soul
 
@@ -43,12 +43,12 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](/3-Mechanics/CLI/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [see invisibility](/3-Mechanics/CLI/spells/see-invisibility-xphb.md) or [truesight](/3-Mechanics/CLI/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [see invisibility](3-Mechanics/CLI/spells/see-invisibility-xphb.md) or [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [Bard](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](/3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Warlock](/3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](/3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**Classes**: [Bard](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Arcana Domain)](3-Mechanics/CLI/lists/list-spells-classes-arcana-domain-scag.md "subclass=SCAG;class=XPHB"); [Warlock](3-Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](3-Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
 *Source: Xanathar's Guide to Everything p. 165*

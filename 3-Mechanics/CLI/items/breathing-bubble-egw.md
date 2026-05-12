@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 - ttrpg-cli/item/rarity/common
-aliases: 
+aliases:
 - "Breathing Bubble"
 ---
 # Breathing Bubble
@@ -17,4 +17,4 @@ This translucent, bubble-like sphere has a slightly tacky outer surface, and you
 
 The bubble contains 1 hour of breathable air. The bubble regains all its expended air daily at dawn.
 
-*Source: Explorer's Guide to Wildemount p. 266*
+*Source: Explorer's Guide to Wildemount p. 266, Critical Role: Call of the Netherdeep p. 213*

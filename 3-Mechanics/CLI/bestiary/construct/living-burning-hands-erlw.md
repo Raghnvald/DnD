@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Living Burning Hands
+- "Living Burning Hands"
 ---
-# [Living Burning Hands](3-Mechanics\CLI\bestiary\construct/living-burning-hands-erlw.md)
+# [Living Burning Hands](3-Mechanics/CLI/bestiary/construct/living-burning-hands-erlw.md)
 *Source: Eberron: Rising from the Last War p. 298*  
 
 ## Constructed Nature
@@ -44,7 +44,7 @@ Now make the following changes to that stat block:
 
 **Spell Mimicry**. Replace the effect of Spell Mimicry with the effect of the chosen spell. If that spell requires a saving throw, use spell save DC from the replaced spell, and if the spell involves an attack roll, use the attack bonus from the living spell's Magical Strike.
 
-For example, if you turn fireball (a 3rd-level spell) into a living spell, customize the [living lightning bolt](/3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates fireball with Spell Mimicry.
+For example, if you turn fireball (a 3rd-level spell) into a living spell, customize the [living lightning bolt](3-Mechanics/CLI/bestiary/construct/living-lightning-bolt-erlw.md). The living fireball has immunity to fire damage, instead of lightning damage; deals fire damage with its Magical Strike; and replicates fireball with Spell Mimicry.
 
 ```statblock
 "name": "Living Burning Hands (ERLW)"
@@ -79,8 +79,8 @@ For example, if you turn fireball (a 3rd-level spell) into a living spell, custo
       \ magical effects."
     "name": "Magic Resistance"
 "actions":
-  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) fire damage."
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) fire damage."
     "name": "Magical Strike"
   - "desc": "The living spell unleashes a thin sheet of flames in a 15-foot cone.\
       \ Each creature in that area must make a DC 13 Dexterity saving throw, taking\
@@ -89,6 +89,6 @@ For example, if you turn fireball (a 3rd-level spell) into a living spell, custo
     "name": "Spell Mimicry (Recharge 5-6)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/living-burning-hands-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/living-burning-hands-erlw.webp"
 ```
 ^statblock

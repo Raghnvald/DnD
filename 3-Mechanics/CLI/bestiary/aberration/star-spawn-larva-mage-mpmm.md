@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Star Spawn Larva Mage
+- "Star Spawn Larva Mage"
 ---
-# [Star Spawn Larva Mage](3-Mechanics\CLI\bestiary\aberration/star-spawn-larva-mage-mpmm.md)
+# [Star Spawn Larva Mage](3-Mechanics/CLI/bestiary/aberration/star-spawn-larva-mage-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 228, Mordenkainen's Tome of Foes p. 235*  
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
@@ -65,37 +65,36 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 16"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 16"
 "languages": "Deep Speech"
 "cr": "16"
 "traits":
   - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [swarm\
-      \ of insects](/3-Mechanics/CLI/bestiary/beast/swarm-of-insects-xmm.md) in the\
-      \ same space. Unless the swarm is destroyed, the mage reforms from it 24 hours\
-      \ later."
+      \ of insects](3-Mechanics/CLI/bestiary/beast/swarm-of-insects.md) in the same\
+      \ space. Unless the swarm is destroyed, the mage reforms from it 24 hours later."
     "name": "Return to Worms"
 "actions":
   - "desc": "The mage makes three Slam or Eldritch Bolt attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 7\
-      \ (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19 Constitution\
-      \ saving throw or be [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) until\
-      \ the end of its next turn."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 7 (1d8 + 3) bludgeoning damage, and the target must succeed on a DC 19 Constitution\
+      \ saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ until the end of its next turn."
     "name": "Slam"
-  - "desc": "*Ranged Spell Attack:* +8 to hit, range 60 ft., one target. *Hit:* 19\
-      \ (3d10 + 3) force damage."
+  - "desc": "*Ranged Spell Attack:* +8 to hit, range 60 ft., one target. *Hit:*\
+      \ 19 (3d10 + 3) force damage."
     "name": "Eldritch Bolt"
   - "desc": "Each creature other than a star spawn within 10 feet of the mage must\
       \ succeed on a DC 19 Dexterity saving throw or take 22 (5d8) necrotic damage\
-      \ and be [blinded](/3-Mechanics/CLI/conditions.md#Blinded) and [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+      \ and be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ by masses of swarming worms. The affected creature takes 22 (5d8) necrotic\
       \ damage at the start of each of the mage's turns. The creature can repeat the\
       \ saving throw at the end of each of its turns, ending the effect on itself\
@@ -103,9 +102,9 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Plague of Worms (Recharge 6)"
   - "desc": "The mage casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\n**At\
-      \ will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day:**\
-      \ [dominate monster](/3-Mechanics/CLI/spells/dominate-monster-xphb.md)"
+      \ will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md), [message](3-Mechanics/CLI/spells/message.md),\
+      \ [minor illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day:** [dominate\
+      \ monster](3-Mechanics/CLI/spells/dominate-monster.md)"
     "name": "Spellcasting"
 "reactions":
   - "desc": "When a creature within 20 feet of the mage fails a saving throw, the\
@@ -120,14 +119,14 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Slam"
   - "desc": "The mage makes one Eldritch Bolt attack."
     "name": "Eldritch Bolt (Costs 2 Actions)"
-  - "desc": "Each creature [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
+  - "desc": "Each creature [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ by the mage's Plague of Worms takes 13 (3d8) necrotic damage, and the mage\
       \ gains 6 temporary hit points."
     "name": "Feed (Costs 3 Actions)"
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp"
 ```
 ^statblock
 

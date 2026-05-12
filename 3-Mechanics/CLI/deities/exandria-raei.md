@@ -7,12 +7,12 @@ tags:
 - ttrpg-cli/deity/exandria
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/light
-aliases: 
-- Raei
+aliases:
+- "Raei"
 ---
 # Raei
 *Source: Explorer's Guide to Wildemount p. 24* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-raei.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-raei.webp#symbol)
 
 - **Alignment**: Neutral Good
 - **Category**: Prime Deities

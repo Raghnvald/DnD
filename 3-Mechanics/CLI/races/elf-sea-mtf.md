@@ -3,10 +3,10 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/mtf
-- new/race/elf/sea
+- ttrpg-cli/compendium/src/5e/mtf
+- ttrpg-cli/race/elf/sea
 aliases:
-- Elf (Sea)
+- "Elf (Sea)"
 ---
 # Elf (Sea)
 *Source: Mordenkainen's Tome of Foes p. 62, Explorer's Guide to Wildemount p. 163*  

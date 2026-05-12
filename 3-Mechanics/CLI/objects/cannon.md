@@ -3,14 +3,13 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-object
 tags:
-- Quelle/5e/dmg
-- Kompendium/object/size/large
-- Kompendium/object/type/siege-weapon
+- ttrpg-cli/compendium/src/5e/dmg
+- ttrpg-cli/object/size/large
+- ttrpg-cli/object/type/siege-weapon
 aliases:
-- Cannon
+- "Cannon"
 ---
 # Cannon
-%%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide p. 255*  
 
 A cannon uses gunpowder to propel heavy balls of cast iron through the air at destructive speeds. In a campaign without gunpowder, a cannon might be an arcane device built by clever gnomes or wizardly engineers.
@@ -19,7 +18,7 @@ A cannon is usually supported in a wooden frame with wheels. Before it can be fi
 
 ```ad-statblock
 title: Cannon
-![](/3-Mechanics/CLI/objects/token/cannon.webp#token)
+![](3-Mechanics/CLI/objects/token/cannon.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19
@@ -34,6 +33,6 @@ title: Cannon
 
 ## Actions
 
-***Cannon Ball.*** *Ranged Weapon Attack:* +6 to hit, range 600/2,400 ft., one target. *Hit:* 44 (8d10) bludgeoning damage.
+***Cannon Ball.*** *Ranged Weapon Attack:* `+6` to hit, range 600/2,400 ft., one target. *Hit:* 44 (`8d10`) bludgeoning damage.
 ```
 ^statblock

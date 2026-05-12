@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/attunement/required
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Armor of Lightning Resistance"
 - "Breastplate of Lightning Resistance"
 - "Chain Mail of Lightning Resistance"
@@ -30,7 +30,7 @@ aliases:
 
 
 
-You have [Resistance](/3-Mechanics/CLI/variant-rules/resistance-xphb.md) to lightning damage while you wear this armor.
+You have [Resistance](3-Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to lightning damage while you wear this armor.
 
 **Variants**:
 - [Breastplate of Lightning Resistance](#Breastplate%20of%20Lightning%20Resistance)

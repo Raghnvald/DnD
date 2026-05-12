@@ -14,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Harpy
+- "Harpy"
 ---
-# [Harpy](3-Mechanics\CLI\bestiary\monstrosity/harpy.md)
-*Source: Monster Manual p. 181, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Harpy](3-Mechanics/CLI/bestiary/monstrosity/harpy.md)
+*Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 
@@ -62,24 +62,28 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
   - !!int "10"
   - !!int "13"
 "speed": "20 ft., fly 40 ft."
+"gear":
+  - "[club](3-Mechanics/CLI/items/club.md)"
 "senses": "passive Perception 10"
 "languages": "Common"
 "cr": "1"
 "actions":
   - "desc": "The harpy makes two attacks: one with its claws and one with its club."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (2d4 + 1) slashing damage."
     "name": "Claws"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) bludgeoning damage."
     "name": "Club"
   - "desc": "The harpy sings a magical melody. Every humanoid and giant within 300\
       \ feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving\
-      \ throw or be charmed until the song ends. The harpy must take a bonus action\
-      \ on its subsequent turns to continue singing. It can stop singing at any time.\
-      \ The song ends if the harpy is incapacitated.\n\nWhile charmed by the harpy,\
-      \ a target is incapacitated and ignores the songs of other harpies. If the charmed\
+      \ throw or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) until the\
+      \ song ends. The harpy must take a bonus action on its subsequent turns to continue\
+      \ singing. It can stop singing at any time. The song ends if the harpy is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated).\n\
+      \nWhile [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the harpy,\
+      \ a target is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ and ignores the songs of other harpies. If the [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ target is more than 5 feet away from the harpy, the target must move on its\
       \ turn toward the harpy by the most direct route. It doesn't avoid opportunity\
       \ attacks, but before moving into damaging terrain, such as lava or a pit, and\
@@ -91,8 +95,7 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
     "name": "Luring Song"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/harpy.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/harpy.webp"
 ```
 ^statblock
 

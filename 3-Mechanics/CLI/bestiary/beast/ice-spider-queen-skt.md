@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/skt
-- new/monster/cr/2
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/skt
+- ttrpg-cli/monster/cr/2
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ice Spider Queen
+- "Ice Spider Queen"
 ---
-# [Ice Spider Queen](3-Mechanics\CLI\bestiary\beast/ice-spider-queen-skt.md)
+# [Ice Spider Queen](3-Mechanics/CLI/bestiary/beast/ice-spider-queen-skt.md)
 *Source: Storm King's Thunder p. 128*  
 
 ```statblock
@@ -34,10 +34,11 @@ aliases:
   - !!int "4"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_resistances": "cold"
-"senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 10"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
 "traits":
@@ -53,22 +54,24 @@ aliases:
   - "desc": "The spider ignores movement restrictions caused by webbing."
     "name": "Web Walker"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7\
-      \ (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving\
-      \ throw, taking 9 (2d8) poison damage on a failed save, or half as much damage\
-      \ on a successful one. If the poison damage reduces the target to 0 hit points,\
-      \ the target is stable but poisoned for 1 hour, even after regaining hit points,\
-      \ and is paralyzed while poisoned in this way."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution\
+      \ saving throw, taking 9 (2d8) poison damage on a failed save, or half as\
+      \ much damage on a successful one. If the poison damage reduces the target to\
+      \ 0 hit points, the target is stable but [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ for 1 hour, even after regaining hit points, and is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ while [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in this way."
     "name": "Bite"
   - "desc": "*Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:*\
-      \ The target is restrained by webbing, and takes 2 (1d4) cold damage at the\
-      \ start of each of its turns. As an action, the restrained target can make a\
-      \ DC 12 Strength check, bursting the webbing on a success. The webbing can also\
-      \ be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity\
-      \ to poison, and psychic damage)."
+      \ The target is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by webbing, and takes 2 (1d4) cold damage at the start of each of its turns.\
+      \ As an action, the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ target can make a DC 12 Strength check, bursting the webbing on a success.\
+      \ The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability\
+      \ to fire damage; immunity to poison, and psychic damage)."
     "name": "Icy Web (Recharge 5-6)"
 "source":
   - "SKT"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/ice-spider-queen-skt.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/ice-spider-queen-skt.webp"
 ```
 ^statblock

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pirate Captain
+- "Pirate Captain"
 ---
-# [Pirate Captain](3-Mechanics\CLI\bestiary\humanoid/pirate-captain-gos.md)
+# [Pirate Captain](3-Mechanics/CLI/bestiary/humanoid/pirate-captain-gos.md)
 *Source: Ghosts of Saltmarsh p. 247*  
 
 Pirate captains spend their lives at sea, earning and keeping command through blood and daring. A captain's impressive sword work and biting words inspire both confidence and fear in a ship's crew. Sigurd "Snake Eyes" is the pirate captain who leads a gang of smugglers in The Sinister Secret of Saltmarsh.
@@ -41,6 +41,9 @@ Pirate captains spend their lives at sea, earning and keeping command through bl
     "desc": "+5"
   - "name": "Intimidation"
     "desc": "+4"
+"gear":
+  - "hand crossbow"
+  - "longsword"
 "senses": "passive Perception 10"
 "languages": "any one language (usually Common)"
 "cr": "2"
@@ -58,8 +61,9 @@ Pirate captains spend their lives at sea, earning and keeping command through bl
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
     "name": "Hand Crossbow"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d8\
-      \ + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (1d8 + 5) slashing damage, or 10 (1d10 + 5) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
 "reactions":
   - "desc": "Whenever a friendly creature within 30 feet of the captain that can hear\
@@ -68,6 +72,6 @@ Pirate captains spend their lives at sea, earning and keeping command through bl
     "name": "Shape Up, Ye Dog (2/Day)"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-gos.webp"
 ```
 ^statblock

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Homunculus
+- "Homunculus"
 ---
-# [Homunculus](3-Mechanics\CLI\bestiary\construct/homunculus-xmm.md)
+# [Homunculus](3-Mechanics/CLI/bestiary/construct/homunculus-xmm.md)
 *Source: Monster Manual (2024) p. 172. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 ## Homunculus
@@ -28,8 +28,6 @@ A mage can create a cat-sized, obedient assistant called a homunculus through a 
 A homunculus's appearance reflects its creator's tastes. Roll on or choose a result from the Homunculus Features table to inspire a homunculus's form.
 
 **Homunculus Features**
-
-`dice: [](homunculus-xmm.md#^homunculus-features)`
 
 | dice: 1d8 | The Homunculus Has Features That Are... |
 |-----------|-----------------------------------------|
@@ -64,9 +62,9 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
   - "wisdom": !!int "2"
   - "charisma": !!int "0"
 "damage_immunities": "poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "understands Common plus one other language but can't speak"
 "cr": "0"
 "traits":
@@ -74,18 +72,18 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
       \ the two of them can communicate telepathically with each other."
     "name": "Telepathic Bond"
 "actions":
-  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage, and the\
-      \ target is subjected to the following effect. *Constitution Saving Throw:*\
-      \ DC 12. *Failure:* The target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
+  - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 1 Piercing damage, and\
+      \ the target is subjected to the following effect. *Constitution Saving Throw:*\
+      \ DC 12. *Failure:* The target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
       \ condition until the end of the homunculus's next turn. *By 5Th Failure:* The\
-      \ target has the [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned) condition\
-      \ for 1 minute. While [Poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), the\
-      \ target has the [Unconscious](/3-Mechanics/CLI/conditions.md#Unconscious) condition,\
-      \ which ends early if the target takes any damage."
+      \ target has the [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition\
+      \ for 1 minute. While [Poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+      \ the target has the [Unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ condition, which ends early if the target takes any damage."
     "name": "Bite"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/homunculus-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/homunculus-xmm.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/mcv1sc
-- new/monster/cr/9
-- new/monster/size/large
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/mcv1sc
+- ttrpg-cli/monster/cr/9
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fractine
+- "Fractine"
 ---
-# [Fractine](3-Mechanics\CLI\bestiary\construct/fractine-mcv1sc.md)
+# [Fractine](3-Mechanics/CLI/bestiary/construct/fractine-mcv1sc.md)
 *Source: Monstrous Compendium Volume 1: Spelljammer Creatures p. 7*  
 
 > [!quote] A quote from Emilou the Charismatic, Warlock and Scion of Acamar  
@@ -52,11 +52,16 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
   - !!int "11"
 "speed": "0 ft., fly 60 ft. (hover)"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-"condition_immunities": "blinded, charmed, deafened, exhaustion, frightened, grappled,\
-  \ paralyzed, petrified, poisoned, prone, restrained, stunned"
-"senses": "blindsight 360 ft. (blind beyond this radius), passive Perception 18"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned), [prone](3-Mechanics/CLI/rules/conditions.md#Prone),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 360 ft. (blind\
+  \ beyond this radius), passive Perception 18"
 "languages": ""
 "cr": "9"
 "traits":
@@ -64,8 +69,8 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "A spellcaster can use the fractine as a substitute focus when casting\
-      \ the scrying spell or similar magic, provided the spellcaster and the fractine\
-      \ are within 5 feet of each other."
+      \ the [scrying](3-Mechanics/CLI/spells/scrying.md) spell or similar magic, provided\
+      \ the spellcaster and the fractine are within 5 feet of each other."
     "name": "Scrying Focus"
   - "desc": "The fractine can occupy another creature's space and vice versa. It can\
       \ move through other creatures and objects as if they were difficult terrain,\
@@ -74,8 +79,8 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
   - "desc": "The fractine doesn't require air, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 24 (8d6)\
-      \ force damage."
+  - "desc": "*Melee Spell Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 24\
+      \ (8d6) force damage."
     "name": "Extradimensional Touch"
 "bonus_actions":
   - "desc": "The fractine targets one creature of its size or smaller in its space.\
@@ -91,7 +96,7 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
       \ demiplane is released instantly. A released creature reappears in an unoccupied\
       \ space as close to the fractine (or where it died) as possible. A creature\
       \ can leave the demiplane on its own by using magic that enables planar travel,\
-      \ such as the plane shift spell."
+      \ such as the [plane shift](3-Mechanics/CLI/spells/plane-shift.md) spell."
     "name": "Imprison"
 "reactions":
   - "desc": "In response to being damaged by a creature it can see within 120 feet\
@@ -109,6 +114,6 @@ Bludgeoning, piercing, slashing, and thunder damage can cause a fractine to brea
     "name": "Split"
 "source":
   - "MCV1SC"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/fractine-mcv1sc.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/fractine-mcv1sc.webp"
 ```
 ^statblock

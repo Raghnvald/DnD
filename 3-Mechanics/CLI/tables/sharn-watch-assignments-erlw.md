@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Sharn Watch Assignments
+- "Sharn Watch Assignments"
 ---
 # Sharn Watch Assignments
 *Source: Eberron: Rising from the Last War p. 258* 
 
 **Sharn Watch Assignments**
-
-`dice: [](sharn-watch-assignments-erlw.md#^sharn-watch-assignments)`
 
 | dice: d8 | Assignment |
 |----------|------------|

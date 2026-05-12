@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Tyrants Campaign Themes; Tyrants Assignments
+- "Tyrants Campaign Themes; Tyrants Assignments"
 ---
 # Tyrants Campaign Themes; Tyrants Assignments
 *Source: Eberron: Rising from the Last War p. 255* 
 
 **Tyrants Assignments**
-
-`dice: [](tyrants-campaign-themes-tyrants-assignments-erlw.md#^tyrants-assignments)`
 
 | dice: d6 | Assignment |
 |----------|------------|

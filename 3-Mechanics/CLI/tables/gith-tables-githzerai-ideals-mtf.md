@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githzerai Ideals
+- "Gith Tables; Githzerai Ideals"
 ---
 # Gith Tables; Githzerai Ideals
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githzerai Ideals**
-
-`dice: [](gith-tables-githzerai-ideals-mtf.md#^githzerai-ideals)`
 
 | dice: d4 | Ideal |
 |----------|-------|

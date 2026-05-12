@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Wand
+- "Animated Wand"
 ---
-# [Animated Wand](3-Mechanics\CLI\bestiary\construct/animated-wand-wdmm.md)
+# [Animated Wand](3-Mechanics/CLI/bestiary/construct/animated-wand-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 299*  
 
 ```statblock
@@ -32,7 +32,8 @@ aliases:
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
-"senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 6"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind\
+  \ beyond this radius), passive Perception 6"
 "languages": ""
 "traits":
   - "desc": "If the wand lacks legs or other appendages it can use for locomotion,\
@@ -45,15 +46,15 @@ aliases:
     "name": "Animated"
 "actions":
   - "desc": "The animated wand can expend 1 of its charges and target a random creature\
-      \ with one of its randomly determined effects. Any such effect that would target\
-      \ the wand's user targets the wand instead. If reduced to 0 hit points, the\
-      \ wand crumbles into dust and is destroyed."
+      \ with one of its [randomly determined effects](3-Mechanics/CLI/items/wand-of-wonder-xdmg.md).\
+      \ Any such effect that would target the wand's user targets the wand instead.\
+      \ If reduced to 0 hit points, the wand crumbles into dust and is destroyed."
     "name": "Wand of Wonder"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d4 + 4) bludgeoning damage."
     "name": "Slam"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-wand-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-wand-wdmm.webp"
 ```
 ^statblock

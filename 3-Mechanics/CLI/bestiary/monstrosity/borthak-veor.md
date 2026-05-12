@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Borthak
+- "Borthak"
 ---
-# [Borthak](3-Mechanics\CLI\bestiary\monstrosity/borthak-veor.md)
+# [Borthak](3-Mechanics/CLI/bestiary/monstrosity/borthak-veor.md)
 *Source: Vecna: Eve of Ruin p. 212*  
 
 Borthaks are irascible, wolflike behemoths that ravage northern wetlands and alpine fens on Krynn. Few mountain animals can challenge a borthak physically. Its powerful jaws, acidic spittle, and lightning-quick tail make the borthak an apex predator in its home territory.
@@ -42,7 +42,8 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
   - "constitution": !!int "11"
   - "charisma": !!int "7"
 "damage_resistances": "acid, cold"
-"senses": "darkvision 60 ft., passive Perception 12"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "15"
 "traits":
@@ -50,8 +51,8 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
       \ 10 feet of the borthak. This ice is difficult terrain. When a creature other\
       \ than the borthak enters the ice's area for the first time on a turn or starts\
       \ its turn there, it must succeed on a DC 16 Dexterity saving throw or have\
-      \ the prone condition. The ice disappears at the start of the borthak's next\
-      \ turn."
+      \ the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition. The ice\
+      \ disappears at the start of the borthak's next turn."
     "name": "Glacial Aura"
   - "desc": "The borthak can move across icy surfaces without needing to make an ability\
       \ check. Additionally, difficult terrain composed of ice or snow doesn't cost\
@@ -61,17 +62,17 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
   - "desc": "The borthak makes one Bite attack or uses Noxious Regurgitation if available,\
       \ and it makes two Stomp attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 16\
-      \ (2d8 + 7) piercing damage plus 7 (2d6) acid damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 16 (2d8 + 7) piercing damage plus 7 (2d6) acid damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 11\
-      \ (1d8 + 7) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 11 (1d8 + 7) bludgeoning damage."
     "name": "Stomp"
   - "desc": "The borthak spews acid at a creature it can see within 120 feet of itself.\
       \ The target must make a DC 21 Constitution saving throw. On a failed save,\
-      \ the creature takes 24 (7d6) acid damage and has the poisoned condition until\
-      \ the start of the borthak's next turn. On a successful save, the creature takes\
-      \ half as much damage only."
+      \ the creature takes 24 (7d6) acid damage and has the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ condition until the start of the borthak's next turn. On a successful save,\
+      \ the creature takes half as much damage only."
     "name": "Noxious Regurgitation (Recharge 5-6)"
 "reactions":
   - "desc": "When a creature within 10 feet of the borthak hits the borthak with an\
@@ -89,6 +90,6 @@ Luckily for most wetland dwellers, borthaks rarely congregate. Unluckily, a sing
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/borthak-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/borthak-veor.webp"
 ```
 ^statblock

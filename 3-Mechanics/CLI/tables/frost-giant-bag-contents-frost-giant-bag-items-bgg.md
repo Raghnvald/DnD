@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Frost Giant Bag Contents; Frost Giant Bag Items
+- "Frost Giant Bag Contents; Frost Giant Bag Items"
 ---
 # Frost Giant Bag Contents; Frost Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 106* 
 
 **Frost Giant Bag Items**
-
-`dice: [](frost-giant-bag-contents-frost-giant-bag-items-bgg.md#^frost-giant-bag-items)`
 
 | dice: d12 | Item |
 |-----------|------|

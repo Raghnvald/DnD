@@ -5,10 +5,10 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/veor
 aliases:
-- Appendix C: Secrets Tracker
+- "Appendix C: Secrets Tracker"
 ---
 # Appendix C: Secrets Tracker
-*Source: Vecna: Eve of Ruin* 
+*Source: Vecna: Eve of Ruin, p. 256* 
 
 Use this chart to keep track of the secrets characters learn during this adventure. Since it contains spoilers, keep this sheet hidden from the players!
 
@@ -29,7 +29,7 @@ When the characters learn a valuable secret, check the "Secret Learned" box in t
 | Mercy has never truly searched for their best friend since the two were separated after the Day of Mourning. | Chapter 4 |
 | Kalyth lost wealth that could have prevented the current financial strain she and her allies are under. | Chapter 4 |
 | Sarusanda's father, Galias, joined the evil priests of Osybus. She expected to meet and slay him in Death House. | Chapter 5 |
-| Gazaia hid while evil soldiers attacked her tree and looted the fifth piece of the [Rod of Seven Parts](/3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). | Chapter 6 |
+| Gazaia hid while evil soldiers attacked her tree and looted the fifth piece of the [Rod of Seven Parts](3-Mechanics/CLI/items/rod-of-seven-parts-veor.md). | Chapter 6 |
 | Valendar led an assault against his enemies without properly planning the mission or scouting the castle. | Chapter 6 |
 | Marian has held a lifelong fascination with the archlich Acererak and his evil magic, and she was once tempted to study necromancy. | Chapter 7 |
 | Rerak resents his imprisonment in the Tomb of Wayward Souls and never wanted to enact Acererak's will there. | Chapter 7 |

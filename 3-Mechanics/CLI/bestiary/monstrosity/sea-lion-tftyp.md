@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/monstrosity
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sea Lion
+- "Sea Lion"
 ---
-# [Sea Lion](3-Mechanics\CLI\bestiary\monstrosity/sea-lion-tftyp.md)
+# [Sea Lion](3-Mechanics/CLI/bestiary/monstrosity/sea-lion-tftyp.md)
 *Source: Tales from the Yawning Portal p. 242*  
 
 These large marine mammals live along coastal regions and around islands at sea
@@ -36,9 +36,9 @@ These large marine mammals live along coastal regions and around islands at sea
   - !!int "8"
 "speed": "10 ft., swim 40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+5"
 "senses": "passive Perception 14"
 "languages": ""
@@ -46,12 +46,12 @@ These large marine mammals live along coastal regions and around islands at sea
 "traits":
   - "desc": "The sea lion can breathe air and water."
     "name": "Amphibious"
-  - "desc": "The sea lion has advantage on Wisdom (Perception) checks that rely on\
-      \ smell."
+  - "desc": "The sea lion has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The sea lion has advantage on an attack roll against a creature if at\
       \ least one of the sea lion's allies is within 5 feet of the creature and the\
-      \ ally isn't incapacitated."
+      \ ally isn't [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
   - "desc": "With a 10-foot swimming start, the sea lion can long jump out of or across\
       \ the water up to 25 feet."
@@ -67,6 +67,6 @@ These large marine mammals live along coastal regions and around islands at sea
     "name": "Claw"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/sea-lion-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/sea-lion-tftyp.webp"
 ```
 ^statblock

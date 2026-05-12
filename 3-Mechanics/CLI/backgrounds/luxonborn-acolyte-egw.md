@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Luxonborn (Acolyte)
+- "Luxonborn (Acolyte)"
 ---
 # Luxonborn (Acolyte)
 *Source: Explorer's Guide to Wildemount p. 203*  
 
 
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Religion](/3-Mechanics/CLI/skills.md#Religion)  
+- **Skill Proficiencies.** Insight, Religion  
 - **Languages.** Two of your choice  
-- **Equipment.** A [holy symbol](/3-Mechanics/CLI/items/holy-symbol-xphb.md) (a gift to you when you entered the priesthood), a prayer [book](/3-Mechanics/CLI/items/book-xphb.md) or prayer wheel, 5 sticks of incense, vestments, a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Equipment.** A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a belt pouch containing 15 gp  
 
 Every acolyte is a servant of some god. But you serve the Luxon, a being that you believe transcends godhood and created the cosmos. No mere priest, you are a student of potential, for the Luxon is potentiality incarnate. Your Shelter of the Faithful feature applies to all who venerate the Luxon, and to all who practice the art of dunamancy that the Luxon bestowed upon the world.
 
@@ -28,8 +28,6 @@ You might also have ties to a specific temple dedicated to your chosen deity or 
 
 Acolytes are shaped by their experience in temples or other religious communities. Their study of the history and tenets of their faith and their relationships to temples, shrines, or hierarchies affect their mannerisms and ideals. Their flaws might be some hidden hypocrisy or heretical idea, or an ideal or bond taken to an extreme.
 
-`dice: [](luxonborn-acolyte-egw.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I idolize a particular hero of my faith, and constantly refer to that person's deeds and example. |
@@ -42,8 +40,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 8 | I've spent so long in the temple that I have little practical experience dealing with people in the outside world. |
 ^personality-trait
 
-`dice: [](luxonborn-acolyte-egw.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Tradition. The ancient traditions of worship and sacrifice must be preserved and upheld. (Lawful) |
@@ -54,8 +50,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 6 | Aspiration. I seek to prove myself worthy of my god's favor by matching my actions against his or her teachings. (Any) |
 ^ideal
 
-`dice: [](luxonborn-acolyte-egw.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would die to recover an ancient relic of my faith that was lost long ago. |
@@ -65,8 +59,6 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 5 | I will do anything to protect the temple where I served. |
 | 6 | I seek to preserve a sacred text that my enemies consider heretical and seek to destroy. |
 ^bond
-
-`dice: [](luxonborn-acolyte-egw.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

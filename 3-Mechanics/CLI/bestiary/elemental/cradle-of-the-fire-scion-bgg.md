@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cradle of the Fire Scion
+- "Cradle of the Fire Scion"
 ---
-# [Cradle of the Fire Scion](3-Mechanics\CLI\bestiary\elemental/cradle-of-the-fire-scion-bgg.md)
+# [Cradle of the Fire Scion](3-Mechanics/CLI/bestiary/elemental/cradle-of-the-fire-scion-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 172*  
 
 A scion of Surtur slumbering at the peak of a volcano causes an unending plume of smoke to rise, sometimes lit from below by fiery bursts of lava. As the scion dreams of battle—perhaps a battle to rouse Annam from seclusion by uniting the giants or a war to conquer all in Surtur's name—the volcano rumbles and spews molten rage.
@@ -48,14 +48,12 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [petrified](/3-Mechanics/CLI/conditions.md#Petrified), [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 15"
+"condition_immunities": "exhaustion, petrified, poisoned"
+"senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Giant, Primordial"
 "cr": "25"
 "traits":
-  - "desc": "The cradle is a container for the [scion of Surtur](/3-Mechanics/CLI/bestiary/giant/scion-of-surtur-bgg.md).\
+  - "desc": "The cradle is a container for the [scion of Surtur](3-Mechanics/CLI/bestiary/giant/scion-of-surtur-bgg.md).\
       \ When the cradle drops to 0 hit points, its body hardens and crumbles to ash.\
       \ The scion instantly appears in the space the cradle occupied and uses the\
       \ cradle's initiative count."
@@ -70,8 +68,8 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
 "actions":
   - "desc": "The cradle makes three Slam or Hurl Lava attacks in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 31\
-      \ (4d10 + 9) bludgeoning damage plus 14 (4d6) fire damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:*\
+      \ 31 (4d10 + 9) bludgeoning damage plus 14 (4d6) fire damage."
     "name": "Slam"
   - "desc": "*Ranged Weapon Attack:* +17 to hit, range 120 ft., one target. *Hit:*\
       \ 27 (4d8 + 9) fire damage. If the target is a creature or a flammable object,\
@@ -81,11 +79,10 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": "Hurl Lava"
   - "desc": "The cradle exhales flames and volcanic gases in a 90-foot cone. Each\
       \ creature in that area must make a DC 24 Dexterity saving throw. On a failed\
-      \ save, a creature takes 55 (10d10) fire damage and has the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition for 1 minute. On a successful save, a creature takes half as much\
-      \ damage only.\n\nA creature [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ in this way can make a DC 24 Constitution saving throw at the end of each\
-      \ of its turns, ending the effect on itself on a success."
+      \ save, a creature takes 55 (10d10) fire damage and has the poisoned condition\
+      \ for 1 minute. On a successful save, a creature takes half as much damage only.\n\
+      \nA creature poisoned in this way can make a DC 24 Constitution saving throw\
+      \ at the end of each of its turns, ending the effect on itself on a success."
     "name": "Erupting Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "The cradle causes lava to erupt from a point on the ground it can see\
@@ -105,6 +102,6 @@ Scions of giants' gods are enormously powerful beings who infuse the world aroun
     "name": ""
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-fire-scion-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/cradle-of-the-fire-scion-bgg.webp"
 ```
 ^statblock

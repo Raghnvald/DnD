@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bonnie
+- "Bonnie"
 ---
-# [Bonnie](3-Mechanics\CLI\bestiary\npc/bonnie-wdh.md)
+# [Bonnie](3-Mechanics/CLI/bestiary/npc/bonnie-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 20*  
 
 *Human barmaid*
@@ -41,12 +41,13 @@ aliases:
   - !!int "14"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+6"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+3"
-"condition_immunities": "charmed"
-"senses": "darkvision 60 ft., passive Perception 11"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 11"
 "languages": "Common"
 "cr": "4"
 "traits":
@@ -56,7 +57,7 @@ aliases:
       \ It reverts to its true form if it dies."
     "name": "Shapechanger"
   - "desc": "In the first round of a combat, Bonnie has advantage on attack rolls\
-      \ against any creature it surprised."
+      \ against any creature it [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)."
     "name": "Ambusher"
   - "desc": "If Bonnie surprises a creature and hits it with an attack during the\
       \ first round of combat, the target takes an extra 10 (3d6) damage from the\
@@ -65,19 +66,22 @@ aliases:
 "actions":
   - "desc": "Bonnie makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d6 + 4) bludgeoning damage."
     "name": "Slam"
   - "desc": "Bonnie magically reads the surface thoughts of one creature within 60\
       \ feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt,\
       \ 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While\
       \ the target is in range, Bonnie can continue reading its thoughts, as long\
-      \ as Bonnie's concentration isn't broken (as if concentrating on a spell). While\
-      \ reading the target's mind, Bonnie has advantage on Wisdom (Insight) and Charisma\
-      \ (Deception, Intimidation, and Persuasion) checks against the target."
+      \ as Bonnie's [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ isn't broken (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell). While reading the target's mind, Bonnie has advantage on Wisdom\
+      \ ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) and Charisma ([Deception](3-Mechanics/CLI/rules/skills.md#Deception),\
+      \ [Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation), and [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion))\
+      \ checks against the target."
     "name": "Read Thoughts"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/bonnie-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/bonnie-wdh.webp"
 ```
 ^statblock

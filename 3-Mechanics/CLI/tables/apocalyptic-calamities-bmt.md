@@ -3,20 +3,18 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/bmt
+- ttrpg-cli/compendium/src/5e/bmt
 aliases:
-- Apocalyptic Calamities
+- "Apocalyptic Calamities"
 ---
 # Apocalyptic Calamities
 *Source: The Book of Many Things p. 97* 
 
 **Apocalyptic Calamities**
 
-`dice: [](apocalyptic-calamities-bmt.md#^apocalyptic-calamities)`
-
 | dice: d12 | Calamity |
 |-----------|----------|
-| 1 | The [tarrasque](/3-Mechanics/CLI/bestiary/monstrosity/tarrasque.md) awakens. (A [kraken](/3-Mechanics/CLI/bestiary/monstrosity/kraken.md), an [empyrean](/3-Mechanics/CLI/bestiary/celestial/empyrean.md), or another titan might also serve as an agent of apocalyptic wrath.) |
+| 1 | The tarrasque awakens. (A kraken, an empyrean, or another titan might also serve as an agent of apocalyptic wrath.) |
 | 2 | A deadly plague that's resistant to curative magic sweeps the land. |
 | 3 | A prolonged drought leads to terrible famine. |
 | 4 | A volcano (or chain of volcanoes) erupts. |

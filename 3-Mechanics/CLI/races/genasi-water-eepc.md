@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-race
 tags:
-- new/compendium/src/5e/eepc
-- new/race/genasi/water
+- ttrpg-cli/compendium/src/5e/eepc
+- ttrpg-cli/race/genasi/water
 aliases:
-- Genasi (Water)
+- "Genasi (Water)"
 ---
 # Genasi (Water)
 *Source: Elemental Evil Player's Companion p. 10, Explorer's Guide to Wildemount p. 170*  
-![](/3-Mechanics/CLI/races/img/genasi.webp#right)
+![](3-Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: wis +1
 - **Size**: Medium
@@ -49,13 +49,15 @@ You have a swimming speed of 30 feet.
 
 ### Call to the Wave
 
-You know the [shape water](/3-Mechanics/CLI/spells/shape-water-xge.md) cantrip. When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
+You know the [shape water](3-Mechanics/CLI/spells/shape-water-xge.md) cantrip. When you reach 3rd level, you can cast the create or destroy water spell as a 2nd-level spell once with this trait, and you regain the ability to cast it this way when you finish a long rest. Constitution is your spellcasting ability for these spells.
 
 ## Description
 
 The lapping of waves, the spray of sea foam on the wind, the ocean depths, all of these things call to your heart. You wander freely and take pride in your independence, though others might consider you selfish.
 
 Most water genasi look as if they just finished bathing, with beads of moisture collecting on their skin and hair. They smell of fresh rain and clean water. Blue or green skin is common, and most have somewhat overlarge eyes, blue-black in color. A water genasi's hair might float freely, swaying and waving as if underwater. Some have voices with undertones reminiscent of whale song or trickling streams.
+
+### Genasi
 
 Those who think of other planes at all consider them remote, distant realms, but planar influence can be felt throughout the world. It sometimes manifests in beings who, through an accident of birth, carry the power of the planes in their blood. The genasi are one such people, the offspring of genies and mortals.
 
@@ -65,7 +67,7 @@ During these visits, a mortal might catch a genies eye. Friendship forms, romanc
 
 Occasionally, genasi result from exposure to a surge of elemental power, through phenomena such as an eruption from the Inner Planes or a planar convergence. Elemental energy saturates any creatures in the area and might alter their nature enough that their offspring with other mortals are born as genasi.
 
-### Heirs to Elemental Power
+#### Heirs to Elemental Power
 
 Genasi inherit something from both sides of their dual nature. They resemble humans but have unusual skin color (red, green, blue, or gray), and there is something odd about them. The elemental blood flowing through their veins manifests differently in each genasi, often as magical power.
 
@@ -75,13 +77,13 @@ Genasi almost never have contact with their elemental parents. Genies seldom hav
 
 Some genasi live as outcasts, driven into exile for their unsettling appearance and strange magic, or assuming leadership of savage humanoids and weird cults in untamed lands. Others gain positions of great influence, especially where elemental beings are revered. A few genasi leave the Material Plane to find refuge in the households of their genie parents.
 
-### Wild and Confident
+#### Wild and Confident
 
 Genasi rarely lack confidence, seeing themselves as equal to almost any challenge in their path. This certainty might manifest as graceful self-assurance in one genasi and as arrogance in another. Such self-confidence can sometimes blind genasi to risk, and their great plans often get them and others into trouble.
 
 Too much failure can chip away at even a genasis sense of self, so they constantly push themselves to improve, honing their talents and perfecting their craft.
 
-### Genasi Lands
+#### Genasi Lands
 
 As rare beings, genasi might go their entire lives without encountering another one of their kind. There are no great genasi cities or empires. Genasi seldom have communities of their own and typically adopt the cultures and societies into which they are born. The more strange their appearance, the harder time they have. Many genasi lose themselves in teeming cities, where their distinctiveness hardly raises an eyebrow in places accustomed to a variety of different people.
 
@@ -93,6 +95,6 @@ In contrast, water and earth genasi have no common history. Individuals have dif
 
 The distant land of Zakhara is known only in legends to most inhabitants of Faerûn. There, genies and spellcasters enter into bargains, and genasi can result from such pacts. Those genasi have been sources of great weal and woe in the history of that land.
 
-### Genasi Names
+#### Genasi Names
 
 Genasi use the naming conventions of the people among whom they were raised. They might later assume distinctive names to capture their heritage, such as Flame, Ember, Wave, or Onyx.

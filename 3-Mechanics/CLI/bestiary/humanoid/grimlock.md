@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Grimlock
+- "Grimlock"
 ---
-# [Grimlock](3-Mechanics\CLI\bestiary\humanoid/grimlock.md)
+# [Grimlock](3-Mechanics/CLI/bestiary/humanoid/grimlock.md)
 *Source: Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -55,34 +55,34 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+5"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded)"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 30 ft. or 10 ft. while\
-  \ deafened (blind beyond this radius), passive Perception 13"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. or 10 ft.\
+  \ while deafened (blind beyond this radius), passive Perception 13"
 "languages": "Undercommon"
 "cr": "1/4"
 "traits":
-  - "desc": "The grimlock can't use its blindsight while [deafened](/3-Mechanics/CLI/conditions.md#Deafened)\
+  - "desc": "The grimlock can't use its blindsight while [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened)\
       \ and unable to smell."
     "name": "Blind Senses"
-  - "desc": "The grimlock has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The grimlock has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
-  - "desc": "The grimlock has advantage on Dexterity ([Stealth](/3-Mechanics/CLI/skills.md#Stealth))\
+  - "desc": "The grimlock has advantage on Dexterity ([Stealth](3-Mechanics/CLI/rules/skills.md#Stealth))\
       \ checks made to hide in rocky terrain."
     "name": "Stone Camouflage"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4\
-      \ + 3) bludgeoning damage plus 2 (1d4) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage."
     "name": "Spiked Bone Club"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/grimlock.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/grimlock.webp"
 ```
 ^statblock
 

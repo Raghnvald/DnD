@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/4
-- new/monster/size/medium
-- new/monster/type/fiend
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/4
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Werevulture
+- "Werevulture"
 ---
-# [Werevulture](3-Mechanics\CLI\bestiary\fiend/werevulture-bmt.md)
+# [Werevulture](3-Mechanics/CLI/bestiary/fiend/werevulture-bmt.md)
 *Source: The Book of Many Things p. 184*  
 
 Scholars believe the curse of the werevulture is related to vrocks, vulturelike demons known for their covetousness and their capricious violence. According to these scholars, a flock of vrocks descended on a Material Plane world through a planar rupture, leaving plagues and other afflictions in their wake. Many of those who were injured by the demons survived, and the survivors gratefully thanked their gods for their apparent good fortune. But during the next full moon, they transformed into the first werevultures: hideous, birdlike creatures who hungered for the flesh of the dead. In the years since, the curse has spread far and wide.
@@ -39,6 +39,8 @@ Werevultures appear perfectly ordinary when in humanoid shape. But by the light 
 "skillsaves":
   - "name": "Perception"
     "desc": "+5"
+"gear":
+  - "longbow"
 "senses": "passive Perception 15"
 "languages": "Common (can't speak in vulture form)"
 "cr": "4"
@@ -53,8 +55,8 @@ Werevultures appear perfectly ordinary when in humanoid shape. But by the light 
       \ a Talon attack."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10\
-      \ (2d6 + 3) piercing damage. If the target is a Humanoid, it must succeed on\
-      \ a DC 13 Constitution saving throw or be cursed until targeted by the Remove\
+      \ (2d6 + 3) piercing damage. If the target is a Humanoid, it must succeed\
+      \ on a DC 13 Constitution saving throw or be cursed until targeted by the Remove\
       \ Curse spell or a similar effect. If the cursed target drops to 0 hit points,\
       \ it becomes a werevulture under the DM's control and regains 10 hit points."
     "name": "Beak (Vulture or Hybrid Form Only)"
@@ -72,6 +74,6 @@ Werevultures appear perfectly ordinary when in humanoid shape. But by the light 
     "name": "Change Shape"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/werevulture-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/werevulture-bmt.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Age; Ancient Behaviors
+- "Age; Ancient Behaviors"
 ---
 # Age; Ancient Behaviors
 *Source: Bigby Presents: Glory of the Giants p. 22* 
 
 **Ancient Behaviors**
-
-`dice: [](age-ancient-behaviors-bgg.md#^ancient-behaviors)`
 
 | dice: d8 | Behavior |
 |----------|----------|

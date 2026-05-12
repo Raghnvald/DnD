@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Gods and Adventures; Annam's Children Adventures
+- "Gods and Adventures; Annam's Children Adventures"
 ---
 # Gods and Adventures; Annam's Children Adventures
 *Source: Bigby Presents: Glory of the Giants p. 33* 
 
 **Annam's Children Adventures**
-
-`dice: [](gods-and-adventures-annams-children-adventures-bgg.md#^annams-children-adventures)`
 
 | dice: d12 | Adventure Hook |
 |-----------|----------------|

@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Necromancer Wizard
+- "Necromancer Wizard"
 ---
-# [Necromancer Wizard](3-Mechanics\CLI\bestiary\humanoid/necromancer-wizard-mpmm.md)
+# [Necromancer Wizard](3-Mechanics/CLI/bestiary/humanoid/necromancer-wizard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*  
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
@@ -29,7 +29,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)"
 "hp": !!int "110"
 "hit_dice": "20d8 + 20"
 "modifier": !!int "2"
@@ -45,9 +45,9 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
   - "intelligence": !!int "7"
   - "wisdom": !!int "5"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+7"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+7"
 "damage_resistances": "necrotic"
 "senses": "passive Perception 11"
@@ -60,15 +60,15 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
       \ ft., one target. *Hit:* 25 (4d10 + 3) necrotic damage."
     "name": "Arcane Burst"
   - "desc": "The necromancer casts one of the following spells, using Intelligence\
-      \ as the spellcasting ability (spell save DC 15):\n\n**At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n**2/day each:** [bestow curse](/3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
-      \ [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md), [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md),\
-      \ [web](/3-Mechanics/CLI/spells/web-xphb.md)\n\n**1/day each:** [circle of death](/3-Mechanics/CLI/spells/circle-of-death-xphb.md)"
+      \ as the spellcasting ability (spell save DC 15):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md),\
+      \ [dimension door](3-Mechanics/CLI/spells/dimension-door-xphb.md), [mage armor](3-Mechanics/CLI/spells/mage-armor-xphb.md),\
+      \ [web](3-Mechanics/CLI/spells/web-xphb.md)\n\n**1/day each:** [circle of death](3-Mechanics/CLI/spells/circle-of-death-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The necromancer magically summons five [skeletons](/3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)\
-      \ or [zombies](/3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The summoned\
+  - "desc": "The necromancer magically summons five [skeletons](3-Mechanics/CLI/bestiary/undead/skeleton-xmm.md)\
+      \ or [zombies](3-Mechanics/CLI/bestiary/undead/zombie-xmm.md). The summoned\
       \ creatures appear in unoccupied spaces within 60 feet of the necromancer, whom\
       \ they obey. They take their turns immediately after the necromancer. Each lasts\
       \ for 1 hour, until it or the necromancer dies, or until the necromancer dismisses\
@@ -81,7 +81,7 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/necromancer-wizard-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/necromancer-wizard-mpmm.webp"
 ```
 ^statblock
 

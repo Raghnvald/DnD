@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Phantom Warrior (Archer)
+- "Phantom Warrior (Archer)"
 ---
-# [Phantom Warrior (Archer)](3-Mechanics\CLI\bestiary\undead/phantom-warrior-archer-cos.md)
+# [Phantom Warrior (Archer)](3-Mechanics/CLI/bestiary/undead/phantom-warrior-archer-cos.md)
 *Source: Curse of Strahd p. 142*  
 
 ```statblock
@@ -33,19 +33,15 @@ aliases:
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+4"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 12"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
+"senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
 "cr": "3"
 "traits":
@@ -62,8 +58,8 @@ aliases:
   - "desc": "The phantom warrior makes two attacks with its spectral longsword or\
       \ spectral longbow."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) force damage."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) force damage."
     "name": "Spectral Longsword"
   - "desc": "The phantom warrior enters the Ethereal Plane from the Material Plane,\
       \ or vice versa. It is visible on the Material Plane while it is in the Border\
@@ -75,6 +71,6 @@ aliases:
     "name": "Spectral Longbow"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/phantom-warrior-archer-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/phantom-warrior-archer-cos.webp"
 ```
 ^statblock

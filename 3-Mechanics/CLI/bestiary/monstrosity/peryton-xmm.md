@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Peryton
+- "Peryton"
 ---
-# [Peryton](3-Mechanics\CLI\bestiary\monstrosity/peryton-xmm.md)
+# [Peryton](3-Mechanics/CLI/bestiary/monstrosity/peryton-xmm.md)
 *Source: Monster Manual (2024) p. 238*  
 
 ## Peryton
@@ -22,15 +22,13 @@ aliases:
 *Winged Heart Hunter*
 
 - **Habitat.** Hill, Mountain  
-- **Treasure.** [Armaments](/3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
+- **Treasure.** [Armaments](3-Mechanics/CLI/tables/random-magic-items-armaments.md)  
 
 Perytons are monstrous predators that hunt people—particularly humans and elves—in favor of all other prey. With the bodies of mighty avian scavengers and fanged, stag-like heads, perytons use ambush tactics to dive-bomb travelers. Strangely, the shadows they cast resemble humanoid silhouettes. This supernatural oddity lends credence to stories that perytons are cursed humans or elves, or that they arise from carrion birds that feed on the corpses of villains.
 
 Perytons tear out the hearts of those they slay, carrying the organs back to grisly lairs. This gives rise to numerous superstitions surrounding perytons. Roll on or choose a result from the Peryton Superstitions table to inspire why a peryton steals hearts.
 
 **Peryton Superstitions**
-
-`dice: [](peryton-xmm.md#^peryton-superstitions)`
 
 | dice: 1d4 | If a Peryton Collects Enough Hearts... |
 |-----------|----------------------------------------|
@@ -58,9 +56,9 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
   - !!int "10"
 "speed": "20 ft., fly 60 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
 "senses": "passive Perception 15"
 "languages": "understands Common and Elvish but can't speak"
@@ -72,17 +70,17 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 "actions":
   - "desc": "The peryton makes one Gore attack and one Talons attack."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing damage.\
-      \ If the peryton moved 30+ feet straight toward the target immediately before\
-      \ the hit, the target takes an extra 9 (2d8) Piercing damage."
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 7 (1d8 + 3) Piercing\
+      \ damage. If the peryton moved 30+ feet straight toward the target immediately\
+      \ before the hit, the target takes an extra 9 (2d8) Piercing damage."
     "name": "Gore"
-  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing damage.\
-      \ If the attack reduces a Humanoid target to 0 [Hit Points](/3-Mechanics/CLI/variant-rules/hit-points-xphb.md),\
+  - "desc": "*Melee Attack Roll:* +5, reach 5 ft. *Hit:* 8 (2d4 + 3) Piercing\
+      \ damage. If the attack reduces a Humanoid target to 0 [Hit Points](3-Mechanics/CLI/rules/variant-rules/hit-points-xphb.md),\
       \ the peryton kills the target by removing its heart."
     "name": "Talons"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/peryton-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/peryton-xmm.webp"
 ```
 ^statblock
 

@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mage
+- "Mage"
 ---
-# [Mage](3-Mechanics\CLI\bestiary\humanoid/mage-xmm.md)
+# [Mage](3-Mechanics/CLI/bestiary/humanoid/mage-xmm.md)
 *Source: Monster Manual (2024) p. 199. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Mages are accomplished spellcasters whose lives have been shaped by magic. They can use their powers to defend or dominate other creatures, or they could focus on magical research and unlocking mystical secrets.
@@ -23,15 +23,13 @@ Mages are accomplished spellcasters whose lives have been shaped by magic. They 
 *Magical Scholars and Spellcasters*
 
 - **Habitat.** Any  
-- **Treasure.** [Arcana](/3-Mechanics/CLI/tables/random-magic-items-arcana.md), Individual  
+- **Treasure.** [Arcana](3-Mechanics/CLI/tables/random-magic-items-arcana.md), Individual  
 
 Mages are magical wonder-workers, ranging from spellcasting overlords to reclusive witches. They study mystical secrets and possess insight into monsters, legends, omens, and other lore. Mages often gather allies or hire assistants to aid them in their research or to attain magical might.
 
 Roll on or choose a result from the Mage Roles table to inspire different sorts of mages.
 
 **Mage Roles**
-
-`dice: [](mage-xmm.md#^mage-roles)`
 
 | dice: 1d10 | The Mage Is... |
 |------------|----------------|
@@ -74,12 +72,14 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
   - "intelligence": !!int "6"
   - "wisdom": !!int "4"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+6"
-  - "name": "[History](/3-Mechanics/CLI/skills.md#History)"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
+"gear":
+  - "[wand](3-Mechanics/CLI/items/wand-xphb.md)"
 "senses": "passive Perception 14"
 "languages": "Common and any three languages"
 "cr": "6"
@@ -90,26 +90,26 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
       \ 16 (3d8 + 3) Force damage."
     "name": "Arcane Burst"
   - "desc": "The mage casts one of the following spells, using Intelligence as the\
-      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Detect Magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-      \ (included in AC), [Mage Hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [Prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**2/day\
-      \ each:** [Fireball](/3-Mechanics/CLI/spells/fireball-xphb.md) (level 4 version),\
-      \ [Invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md)\n\n**1/day each:**\
-      \ [Cone of Cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [Fly](/3-Mechanics/CLI/spells/fly-xphb.md)"
+      \ spellcasting ability (spell save DC 14):\n\n**At will:** [Detect Magic](3-Mechanics/CLI/spells/detect-magic-xphb.md),\
+      \ [Light](3-Mechanics/CLI/spells/light-xphb.md), [Mage Armor](3-Mechanics/CLI/spells/mage-armor-xphb.md)\
+      \ (included in AC), [Mage Hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [Prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**2/day each:** [Fireball](3-Mechanics/CLI/spells/fireball-xphb.md) (level\
+      \ 4 version), [Invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md)\n\n\
+      **1/day each:** [Cone of Cold](3-Mechanics/CLI/spells/cone-of-cold-xphb.md),\
+      \ [Fly](3-Mechanics/CLI/spells/fly-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The mage casts [Misty Step](/3-Mechanics/CLI/spells/misty-step-xphb.md),\
+  - "desc": "The mage casts [Misty Step](3-Mechanics/CLI/spells/misty-step-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Misty Step (3/Day)"
 "reactions":
-  - "desc": "The mage casts [Counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md)\
-      \ or [Shield](/3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
+  - "desc": "The mage casts [Counterspell](3-Mechanics/CLI/spells/counterspell-xphb.md)\
+      \ or [Shield](3-Mechanics/CLI/spells/shield-xphb.md) in response to the spell's\
       \ trigger, using the same spellcasting ability as Spellcasting.\n"
     "name": "Protective Magic (3/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/mage-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/mage-xmm.webp"
 ```
 ^statblock
 

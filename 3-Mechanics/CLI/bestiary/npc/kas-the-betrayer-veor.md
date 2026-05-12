@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kas the Betrayer
+- "Kas the Betrayer"
 ---
-# [Kas the Betrayer](3-Mechanics\CLI\bestiary\npc/kas-the-betrayer-veor.md)
+# [Kas the Betrayer](3-Mechanics/CLI/bestiary/npc/kas-the-betrayer-veor.md)
 *Source: Vecna: Eve of Ruin p. 244*  
 
 The Betrayer, the Bloody Handed, the Destroyer—Kas has earned many epithets during his long existence. He is a vampire, legendary sword-fighter, and ruthless warlord, and he is driven primarily by one thing: his hatred for Vecna.
@@ -32,7 +32,7 @@ In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful 
 "subtype": "vampire"
 "alignment": "Neutral Evil"
 "ac": !!int "18"
-"ac_class": "plate"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "315"
 "hit_dice": "30d8 + 180"
 "modifier": !!int "5"
@@ -49,23 +49,27 @@ In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful 
   - "wisdom": !!int "11"
   - "charisma": !!int "15"
 "skillsaves":
-  - "name": "Arcana"
+  - "name": "[Arcana](3-Mechanics/CLI/rules/skills.md#Arcana)"
     "desc": "+14"
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+22"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+11"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+12"
 "damage_immunities": "necrotic; poison; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, poisoned"
-"senses": "darkvision 120 ft., passive Perception 21"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 21"
 "languages": "Abyssal, Common, Draconic, Infernal"
 "cr": "23"
 "traits":
   - "desc": "Kas adds 1d10 to his initiative rolls. He has advantage on attack rolls\
-      \ against any creature that has the frightened condition."
+      \ against any creature that has the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition."
     "name": "Eager Betrayer"
   - "desc": "If Kas fails a saving throw, he can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
@@ -73,7 +77,7 @@ In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful 
       \ 1 hit point. If he takes radiant damage, this trait doesn't function at the\
       \ start of his next turn."
     "name": "Regeneration"
-  - "desc": "Kas wears the [Crown of Lies](/3-Mechanics/CLI/items/crown-of-lies-veor.md)\
+  - "desc": "Kas wears the [Crown of Lies](3-Mechanics/CLI/items/crown-of-lies-veor.md)\
       \ (see the Introduction of Vecna: Eve of Ruin)."
     "name": "Special Equipment"
   - "desc": "Kas can climb difficult surfaces, including upside down on ceilings,\
@@ -93,13 +97,13 @@ In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful 
   - "desc": "Kas makes three Vengeful Sword attacks. He can replace one of these attacks\
       \ with a Bite attack."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 20\
-      \ (2d8 + 11) slashing damage. The sword scores a critical hit on a roll of 19\
-      \ or 20."
+  - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:*\
+      \ 20 (2d8 + 11) slashing damage. The sword scores a critical hit on a roll\
+      \ of 19 or 20."
     "name": "Vengeful Sword"
   - "desc": "*Melee Weapon Attack:* +15 to hit, reach 5 ft., one creature. *Hit:*\
-      \ 11 (1d6 + 8) piercing damage plus 10 (3d6) necrotic damage. The target's hit\
-      \ point maximum is reduced by an amount equal to the necrotic damage taken,\
+      \ 11 (1d6 + 8) piercing damage plus 10 (3d6) necrotic damage. The target's\
+      \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
       \ and Kas regains a number of hit points equal to that amount. The reduction\
       \ lasts until the target finishes a long rest. The target dies if its hit point\
       \ maximum is reduced to 0. A Humanoid slain in this way and then buried rises\
@@ -116,8 +120,8 @@ In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful 
       \ speak, or manipulate objects."
     "name": "Change Shape"
   - "desc": "Kas targets one creature he can see within 60 feet of himself. The target\
-      \ must succeed on a DC 23 Wisdom saving throw or have the frightened condition\
-      \ until the start of Kas's next turn."
+      \ must succeed on a DC 23 Wisdom saving throw or have the [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
+      \ condition until the start of Kas's next turn."
     "name": "Menacing Glare"
 "reactions":
   - "desc": "Kas adds 3 to his AC against one melee attack roll that would hit him.\
@@ -139,6 +143,6 @@ In *Vecna: Eve of Ruin*, Kas fools Tasha and Alustriel, two incredibly powerful 
     "name": "Rise, Fallen Soldier (Costs 3 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kas-the-betrayer-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kas-the-betrayer-veor.webp"
 ```
 ^statblock

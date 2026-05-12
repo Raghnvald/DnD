@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Quavilithku Spyder-Fiend
+- "Quavilithku Spyder-Fiend"
 ---
-# [Quavilithku Spyder-Fiend](3-Mechanics\CLI\bestiary\fiend/quavilithku-spyder-fiend-veor.md)
+# [Quavilithku Spyder-Fiend](3-Mechanics/CLI/bestiary/fiend/quavilithku-spyder-fiend-veor.md)
 *Source: Vecna: Eve of Ruin p. 236*  
 
 Quavilithku spyder-fiends revel in destruction. Although they like to savage prey with their mangy wolf heads, they delight in destroying structures and art objects—the more beautiful, the better. The arms hanging below their wolf heads are physically frail but useful for employing tools of destruction or sabotage.
@@ -49,16 +49,17 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
   - "constitution": !!int "10"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "Investigation"
+  - "name": "[Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 60 ft., passive Perception 18"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive\
+  \ Perception 18"
 "languages": "Abyssal, Common, telepathy 120 ft."
 "cr": "17"
 "traits":
@@ -76,12 +77,14 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
 "actions":
   - "desc": "The quavilithku makes two Bite attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d10 + 4) piercing damage plus 17 (5d6) poison damage. If the target is a\
-      \ creature, it must succeed on a DC 18 Constitution saving throw or have the\
-      \ poisoned condition for 1 minute. While poisoned in this way, a creature can't\
-      \ regain hit points. A poisoned creature can repeat the saving throw at the\
-      \ end of each of its turns, ending the effect on itself on a success."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d10 + 4) piercing damage plus 17 (5d6) poison damage. If the target\
+      \ is a creature, it must succeed on a DC 18 Constitution saving throw or have\
+      \ the [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) condition for\
+      \ 1 minute. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned) in\
+      \ this way, a creature can't regain hit points. A [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Bite"
   - "desc": "The quavilithku expels acid-drenched webs in a 90-foot cone. Each creature\
       \ in that area must make a DC 18 Constitution saving throw, taking 44 (8d10)\
@@ -96,6 +99,6 @@ Spyder-fiends loyally serve their general, Miska the Wolf-Spider. While they wer
     "name": "Assess Weakness"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/quavilithku-spyder-fiend-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/quavilithku-spyder-fiend-veor.webp"
 ```
 ^statblock

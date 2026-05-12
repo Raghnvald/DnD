@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/subclass/druid/moon
 aliases:
-- Circle of the Moon
+- "Circle of the Moon"
 ---
 # Circle of the Moon
 *[Druid](./druid.md): Druid Circle*  
@@ -44,19 +44,17 @@ aliases:
 ^class-progression
 
 
-## Class Features
-
-### Circle of the Moon (Level 2)
-
 Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.
 
 Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid's blood.
+
+## Subclass Features
 
 ### Combat Wild Shape (Level 2)
 
 You gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action.
 
-Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain `dice:1d8|noform|noparens|avg` (`1d8`) hit points per level of the spell slot expended.
+Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one spell slot to regain `1d8` hit points per level of the spell slot expended.
 
 ### Circle Forms (Level 2)
 
@@ -84,8 +82,8 @@ Starting at 6th level, your attacks in beast form count as magical for the purpo
 
 ### Elemental Wild Shape (Level 10)
 
-At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [air elemental](/3-Mechanics/CLI/bestiary/elemental/air-elemental.md), an [earth elemental](/3-Mechanics/CLI/bestiary/elemental/earth-elemental.md), a [fire elemental](/3-Mechanics/CLI/bestiary/elemental/fire-elemental.md), or a [water elemental](/3-Mechanics/CLI/bestiary/elemental/water-elemental.md).
+At 10th level, you can expend two uses of Wild Shape at the same time to transform into an [air elemental](3-Mechanics/CLI/bestiary/elemental/air-elemental.md), an [earth elemental](3-Mechanics/CLI/bestiary/elemental/earth-elemental.md), a [fire elemental](3-Mechanics/CLI/bestiary/elemental/fire-elemental.md), or a [water elemental](3-Mechanics/CLI/bestiary/elemental/water-elemental.md).
 
 ### Thousand Forms (Level 14)
 
-By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self](/3-Mechanics/CLI/spells/alter-self.md) spell at will.
+By 14th level, you have learned to use magic to alter your physical form in more subtle ways. You can cast the [alter self](3-Mechanics/CLI/spells/alter-self.md) spell at will.

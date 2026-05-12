@@ -13,12 +13,12 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Githyanki Supreme Commander
+- "Githyanki Supreme Commander"
 ---
-# [Githyanki Supreme Commander](3-Mechanics\CLI\bestiary\humanoid/githyanki-supreme-commander-mpmm.md)
+# [Githyanki Supreme Commander](3-Mechanics/CLI/bestiary/humanoid/githyanki-supreme-commander-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 141, Mordenkainen's Tome of Foes p. 206*  
 
-Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](/3-Mechanics/CLI/bestiary/dragon/adult-red-dragon-xmm.md) into battle.
+Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](3-Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) into battle.
 
 ## Githyanki
 
@@ -31,7 +31,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "subtype": "gith"
 "alignment": "Any alignment"
 "ac": !!int "18"
-"ac_class": "[plate](/3-Mechanics/CLI/items/plate-armor-xphb.md)"
+"ac_class": "[plate](3-Mechanics/CLI/items/plate-armor.md)"
 "hp": !!int "187"
 "hit_dice": "22d8 + 88"
 "modifier": !!int "3"
@@ -48,9 +48,9 @@ Githyanki descend from an ancient people who were also the progenitors of githze
   - "intelligence": !!int "8"
   - "wisdom": !!int "8"
 "skillsaves":
-  - "name": "[Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Gith"
@@ -61,20 +61,19 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "actions":
   - "desc": "The githyanki makes two Silver Greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14\
-      \ (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical hit\
-      \ against a target in an astral body (as with the [astral projection](/3-Mechanics/CLI/spells/astral-projection-xphb.md)\
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:*\
+      \ 14 (2d6 + 7) slashing damage plus 17 (5d6) psychic damage. On a critical\
+      \ hit against a target in an astral body (as with the [astral projection](3-Mechanics/CLI/spells/astral-projection.md)\
       \ spell), the githyanki can cut the silvery cord that tethers the target to\
       \ its material body, instead of dealing damage."
     "name": "Silver Greatsword"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 16):\n\n\
-      **At will:** [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) (the hand\
-      \ is invisible)\n\n**3/day each:** [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md)\
-      \ (self only), [nondetection](/3-Mechanics/CLI/spells/nondetection-xphb.md)\
-      \ (self only)\n\n**1/day each:** [Bigby's hand](/3-Mechanics/CLI/spells/bigbys-hand-xphb.md),\
-      \ [mass suggestion](/3-Mechanics/CLI/spells/mass-suggestion-xphb.md), [plane\
-      \ shift](/3-Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      **At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand.md) (the hand is invisible)\n\
+      \n**3/day each:** [levitate](3-Mechanics/CLI/spells/levitate.md) (self only),\
+      \ [nondetection](3-Mechanics/CLI/spells/nondetection.md) (self only)\n\n**1/day\
+      \ each:** [Bigby's hand](3-Mechanics/CLI/spells/bigbys-hand.md), [mass suggestion](3-Mechanics/CLI/spells/mass-suggestion.md),\
+      \ [plane shift](3-Mechanics/CLI/spells/plane-shift.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The githyanki teleports, along with any equipment it is wearing or carrying,\
@@ -99,7 +98,7 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 "source":
   - "MPMM"
   - "MTF"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/githyanki-supreme-commander-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/githyanki-supreme-commander-mpmm.webp"
 ```
 ^statblock
 

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- The Ordning; Cloud Giant Wealth
+- "The Ordning; Cloud Giant Wealth"
 ---
 # The Ordning; Cloud Giant Wealth
 *Source: Bigby Presents: Glory of the Giants p. 24* 
 
 **Cloud Giant Wealth**
-
-`dice: [](the-ordning-cloud-giant-wealth-bgg.md#^cloud-giant-wealth)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

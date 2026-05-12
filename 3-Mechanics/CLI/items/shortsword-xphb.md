@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Shortsword"
 ---
 # Shortsword
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/shortsword.webp#right)
+![](3-Mechanics/CLI/items/img/shortsword.webp#right)
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Cost**: 10 gp
 - **Weight**: 2.0 lbs.
 

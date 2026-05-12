@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Keresta Delvingstone
+- "Keresta Delvingstone"
 ---
-# [Keresta Delvingstone](3-Mechanics\CLI\bestiary\npc/keresta-delvingstone-wdmm.md)
+# [Keresta Delvingstone](3-Mechanics/CLI/bestiary/npc/keresta-delvingstone-wdmm.md)
 *Source: Waterdeep: Dungeon of the Mad Mage p. 232*  
 
 Keresta Delvingstone grew up in the streets of Waterdeep and is no stranger to hardship. Hoping to make a better life for herself, she became an adventurer and sought fame and fortune in Undermountain. Keresta met her end in the lair of a vampire and became a vampire spawn under its command.
@@ -43,23 +43,33 @@ After Vanrak destroyed the vampire and conquered its lair, he took Keresta under
   - "wisdom": !!int "7"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
-"senses": "darkvision 120 ft., passive Perception 17"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 17"
 "languages": "the languages it knew in life"
 "cr": "13"
 "traits":
   - "desc": "Keresta is a 9th-level spellcaster. Her spellcasting ability is Wisdom\
-      \ (spell save DC 15, +7 to hit with spell attacks). She has the following cleric\
-      \ spells prepared:\n\n**Cantrips (at will):** guidance, mending, resistance,\
-      \ thaumaturgy\n\n**1st level (4 slots):** bane, command, inflict wounds, ray\
-      \ of sickness\n\n**2nd level (3 slots):** blindness/deafness, ray of enfeeblement,\
-      \ spiritual weapon\n\n**3rd level (3 slots):** animate dead, bestow curse, dispel\
-      \ magic, spirit guardians\n\n**4th level (3 slots):** blight, death ward, divination\n\
-      \n**5th level (1 slots):** antilife shell, destructive wave"
+      \ (spell save DC 15, +7 to hit with spell attacks). She has the following\
+      \ cleric spells prepared:\n\n**Cantrips (at will):** [guidance](3-Mechanics/CLI/spells/guidance-xphb.md),\
+      \ [mending](3-Mechanics/CLI/spells/mending-xphb.md), [resistance](3-Mechanics/CLI/spells/resistance-xphb.md),\
+      \ [thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\n**1st level (4\
+      \ slots):** [bane](3-Mechanics/CLI/spells/bane-xphb.md), [command](3-Mechanics/CLI/spells/command-xphb.md),\
+      \ [inflict wounds](3-Mechanics/CLI/spells/inflict-wounds-xphb.md), [ray of sickness](3-Mechanics/CLI/spells/ray-of-sickness-xphb.md)\n\
+      \n**2nd level (3 slots):** [blindness/deafness](3-Mechanics/CLI/spells/blindness-deafness-xphb.md),\
+      \ [ray of enfeeblement](3-Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md),\
+      \ [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon-xphb.md)\n\n**3rd\
+      \ level (3 slots):** [animate dead](3-Mechanics/CLI/spells/animate-dead-xphb.md),\
+      \ [bestow curse](3-Mechanics/CLI/spells/bestow-curse-xphb.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ [spirit guardians](3-Mechanics/CLI/spells/spirit-guardians-xphb.md)\n\n**4th\
+      \ level (3 slots):** [blight](3-Mechanics/CLI/spells/blight-xphb.md), [death\
+      \ ward](3-Mechanics/CLI/spells/death-ward-xphb.md), [divination](3-Mechanics/CLI/spells/divination-xphb.md)\n\
+      \n**5th level (1 slots):** [antilife shell](3-Mechanics/CLI/spells/antilife-shell-xphb.md),\
+      \ [destructive wave](3-Mechanics/CLI/spells/destructive-wave-xphb.md)"
     "name": "Spellcasting"
   - "desc": "If Keresta isn't in sunlight or running water, it can use its action\
       \ to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true\
@@ -77,18 +87,19 @@ After Vanrak destroyed the vampire and conquered its lair, he took Keresta under
   - "desc": "If Keresta fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
   - "desc": "When it drops to 0 hit points outside its resting place, Keresta transforms\
-      \ into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious,\
+      \ into a cloud of mist (as in the Shapechanger trait) instead of falling [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious),\
       \ provided that it isn't in sunlight or running water. If it can't transform,\
       \ it is destroyed.\n\nWhile it has 0 hit points in mist form, it can't revert\
       \ to its vampire form, and it must reach its resting place within 2 hours or\
       \ be destroyed. Once in its resting place, it reverts to its vampire form. It\
-      \ is then paralyzed until it regains at least 1 hit point. After spending 1\
-      \ hour in its resting place with 0 hit points, it regains 1 hit point."
+      \ is then [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed) until it\
+      \ regains at least 1 hit point. After spending 1 hour in its resting place with\
+      \ 0 hit points, it regains 1 hit point."
     "name": "Misty Escape"
   - "desc": "Keresta regains 20 hit points at the start of its turn if it has at least\
       \ 1 hit point and isn't in sunlight or running water. If Keresta takes radiant\
-      \ damage or damage from holy water, this trait doesn't function at the start\
-      \ of Keresta's next turn."
+      \ damage or damage from [holy water](3-Mechanics/CLI/items/holy-water-xphb.md),\
+      \ this trait doesn't function at the start of Keresta's next turn."
     "name": "Regeneration"
   - "desc": "Keresta can climb difficult surfaces, including upside down on ceilings,\
       \ without needing to make an ability check."
@@ -97,46 +108,50 @@ After Vanrak destroyed the vampire and conquered its lair, he took Keresta under
       \ enter a residence without an invitation from one of the occupants.  \n- **Harmed\
       \ by Running Water.** Keresta takes 20 acid damage if it ends its turn in running\
       \ water.  \n- **Stake to the Heart.** If a piercing weapon made of wood is driven\
-      \ into Keresta's heart while Keresta is incapacitated in its resting place,\
-      \ Keresta is paralyzed until the stake is removed.  \n- **Sunlight Hypersensitivity.**\
-      \ Keresta takes 20 radiant damage when it starts its turn in sunlight. While\
-      \ in sunlight, it has disadvantage on attack rolls and ability checks.  "
+      \ into Keresta's heart while Keresta is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ in its resting place, Keresta is [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed)\
+      \ until the stake is removed.  \n- **Sunlight Hypersensitivity.** Keresta takes\
+      \ 20 radiant damage when it starts its turn in sunlight. While in sunlight,\
+      \ it has disadvantage on attack rolls and ability checks.  "
     "name": "Vampire Weaknesses"
 "actions":
   - "desc": "Keresta makes two attacks, only one of which can be a bite attack."
     "name": "Multiattack (Vampire Form Only)"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8\
-      \ (1d8 + 4) bludgeoning damage. Instead of dealing damage, Keresta can grapple\
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, Keresta can grapple\
       \ the target (escape DC 18)."
     "name": "Unarmed Strike (Vampire Form Only)"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature,\
-      \ or a creature that is grappled by Keresta, incapacitated, or restrained. *Hit:*\
-      \ 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit\
-      \ point maximum is reduced by an amount equal to the necrotic damage taken,\
+      \ or a creature that is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by Keresta, [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated),\
+      \ or [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained). *Hit:* 7\
+      \ (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's\
+      \ hit point maximum is reduced by an amount equal to the necrotic damage taken,\
       \ and Keresta regains hit points equal to that amount. The reduction lasts until\
       \ the target finishes a long rest. The target dies if this effect reduces its\
       \ hit point maximum to 0. A humanoid slain in this way and then buried in the\
-      \ ground rises the following night as a [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)\
+      \ ground rises the following night as a [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)\
       \ under Keresta's control."
     "name": "Bite (Bat or Vampire Form Only)"
   - "desc": "Keresta targets one humanoid it can see within 30 feet of it. If the\
       \ target can see Keresta, the target must succeed on a DC 17 Wisdom saving throw\
-      \ against this magic or be charmed by Keresta. The charmed target regards Keresta\
-      \ as a trusted friend to be heeded and protected. Although the target isn't\
-      \ under Keresta's control, it takes Keresta's requests or actions in the most\
-      \ favorable way it can, and it is a willing target for Keresta's bite attack.\n\
-      \nEach time Keresta or Keresta's companions do anything harmful to the target,\
-      \ it can repeat the saving throw, ending the effect on itself on a success.\
-      \ Otherwise, the effect lasts 24 hours or until Keresta is destroyed, is on\
-      \ a different plane of existence than the target, or takes a bonus action to\
-      \ end the effect."
+      \ against this magic or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
+      \ by Keresta. The [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) target\
+      \ regards Keresta as a trusted friend to be heeded and protected. Although the\
+      \ target isn't under Keresta's control, it takes Keresta's requests or actions\
+      \ in the most favorable way it can, and it is a willing target for Keresta's\
+      \ bite attack.\n\nEach time Keresta or Keresta's companions do anything harmful\
+      \ to the target, it can repeat the saving throw, ending the effect on itself\
+      \ on a success. Otherwise, the effect lasts 24 hours or until Keresta is destroyed,\
+      \ is on a different plane of existence than the target, or takes a bonus action\
+      \ to end the effect."
     "name": "Charm"
-  - "desc": "The vampire magically calls 2d4 swarms of [bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md)\
-      \ or [rats](/3-Mechanics/CLI/bestiary/beast/swarm-of-rats.md), provided that\
-      \ the sun isn't up. While outdoors, the vampire can call 3d6 [giant centipedes](/3-Mechanics/CLI/bestiary/beast/giant-centipede.md)\
-      \ instead. The called creatures arrive in 1d4 rounds, acting as allies of the\
-      \ vampire and obeying its spoken commands. The beasts remain for 1 hour, until\
-      \ the vampire dies, or until the vampire dismisses them as a bonus action."
+  - "desc": "The vampire magically calls 2d4 swarms of [bats](3-Mechanics/CLI/bestiary/beast/swarm-of-bats-xmm.md)\
+      \ or [rats](3-Mechanics/CLI/bestiary/beast/swarm-of-rats-xmm.md), provided that\
+      \ the sun isn't up. While outdoors, the vampire can call 3d6 [giant centipedes](3-Mechanics/CLI/bestiary/beast/giant-centipede-xmm.md)\
+      \ instead. The called creatures arrive in 1d4 rounds, acting as allies of\
+      \ the vampire and obeying its spoken commands. The beasts remain for 1 hour,\
+      \ until the vampire dies, or until the vampire dismisses them as a bonus action."
     "name": "Children of the Night (1/Day)"
 "regional_effects":
   - "desc": "Vanrakdoom is Keresta's lair, and the following regional effects are\
@@ -161,6 +176,6 @@ After Vanrak destroyed the vampire and conquered its lair, he took Keresta under
     "name": "Bite (Costs 2 Actions)"
 "source":
   - "WDMM"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/keresta-delvingstone-wdmm.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/keresta-delvingstone-wdmm.webp"
 ```
 ^statblock

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Gith Tables; Githzerai Bonds
+- "Gith Tables; Githzerai Bonds"
 ---
 # Gith Tables; Githzerai Bonds
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
 **Githzerai Bonds**
-
-`dice: [](gith-tables-githzerai-bonds-mtf.md#^githzerai-bonds)`
 
 | dice: d4 | Bond |
 |----------|------|

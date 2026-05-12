@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nat
+- "Nat"
 ---
-# [Nat](3-Mechanics\CLI\bestiary\npc/nat-wdh.md)
+# [Nat](3-Mechanics/CLI/bestiary/npc/nat-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 63*  
 
 ```statblock
@@ -33,6 +33,6 @@ aliases:
 "languages": ""
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/nat-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/nat-wdh.webp"
 ```
 ^statblock

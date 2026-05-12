@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Archpriest
+- "Archpriest"
 ---
-# [Archpriest](3-Mechanics\CLI\bestiary\humanoid/archpriest-xmm.md)
+# [Archpriest](3-Mechanics/CLI/bestiary/humanoid/archpriest-xmm.md)
 *Source: Monster Manual (2024) p. 248*  
 
 By forging connections with divine beings and mastering mystical truths, archpriests become conduits for godly intentions and other supernatural forces. Their magic allows them to work wonders, whether to share the benevolence of their faiths or to vent divine wrath. Some archpriests attract vast followings as they claim to speak for divine forces, while others undertake personal spiritual journeys and seek to transcend mortal concerns.
@@ -23,15 +23,13 @@ By forging connections with divine beings and mastering mystical truths, archpri
 *Arbiters of the Mortal and the Divine*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Relics](/3-Mechanics/CLI/tables/random-magic-items-relics.md)  
+- **Treasure.** Individual, [Relics](3-Mechanics/CLI/tables/random-magic-items-relics.md)  
 
 Priests harness the power of faith to work miracles. These religious adherents are as diverse as the faiths they follow. Some obey gods and their servants, while others live by age-old creeds. Belief guides priests' actions and their magic, which they use to shape the world in line with their ideologies.
 
 Roll on or choose a result from the Priest Roles table to inspire different sorts of priests.
 
 **Priest Roles**
-
-`dice: [](archpriest-xmm.md#^priest-roles)`
 
 | dice: 1d10 | The Priest Is... |
 |------------|------------------|
@@ -76,14 +74,17 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "intelligence": !!int "6"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+9"
-  - "name": "[Medicine](/3-Mechanics/CLI/skills.md#Medicine)"
+  - "name": "[Medicine](3-Mechanics/CLI/rules/skills.md#Medicine)"
     "desc": "+9"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+9"
-  - "name": "[Religion](/3-Mechanics/CLI/skills.md#Religion)"
+  - "name": "[Religion](3-Mechanics/CLI/rules/skills.md#Religion)"
     "desc": "+10"
+"gear":
+  - "[chain mail](3-Mechanics/CLI/items/chain-mail-xphb.md)"
+  - "[holy symbol](3-Mechanics/CLI/items/holy-symbol-xphb.md)"
 "senses": "passive Perception 19"
 "languages": "Common plus two other languages"
 "cr": "12"
@@ -93,27 +94,28 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
   - "desc": "*Melee  or Ranged Attack Roll:* +9, reach 5 ft. or range 60 ft. *Hit:*\
       \ 27 (4d10 + 5) Radiant damage."
     "name": "Radiant Burst"
-  - "desc": "*Wisdom Saving Throw:* DC 17, each enemy in a 20-foot [Emanation](/3-Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md)\
-      \ originating from the archpriest. *Failure:* 21 (6d6) Radiant damage, and the\
-      \ target has the [Stunned](/3-Mechanics/CLI/conditions.md#Stunned) condition\
-      \ until the end of the archpriest's next turn. *Success:* Half damage only."
+  - "desc": "*Wisdom Saving Throw:* DC 17, each enemy in a 20-foot [Emanation](3-Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)\
+      \ originating from the archpriest. *Failure:* 21 (6d6) Radiant damage, and\
+      \ the target has the [Stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
+      \ condition until the end of the archpriest's next turn. *Success:* Half damage\
+      \ only."
     "name": "Holy Word (Recharge 4-6)"
   - "desc": "The archpriest casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 17):\n\
-      \n**At will:** [Light](/3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](/3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
-      \n**1/day each:** [Flame Strike](/3-Mechanics/CLI/spells/flame-strike-xphb.md)\
-      \ (level 6 version), [Greater Restoration](/3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
-      \ [Raise Dead](/3-Mechanics/CLI/spells/raise-dead-xphb.md), [Zone of Truth](/3-Mechanics/CLI/spells/zone-of-truth-xphb.md)"
+      \n**At will:** [Light](3-Mechanics/CLI/spells/light-xphb.md), [Thaumaturgy](3-Mechanics/CLI/spells/thaumaturgy-xphb.md)\n\
+      \n**1/day each:** [Flame Strike](3-Mechanics/CLI/spells/flame-strike-xphb.md)\
+      \ (level 6 version), [Greater Restoration](3-Mechanics/CLI/spells/greater-restoration-xphb.md),\
+      \ [Raise Dead](3-Mechanics/CLI/spells/raise-dead-xphb.md), [Zone of Truth](3-Mechanics/CLI/spells/zone-of-truth-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The priest casts [Bless](/3-Mechanics/CLI/spells/bless-xphb.md), [Dispel\
-      \ Magic](/3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](/3-Mechanics/CLI/spells/healing-word-xphb.md),\
-      \ or [Lesser Restoration](/3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
+  - "desc": "The priest casts [Bless](3-Mechanics/CLI/spells/bless-xphb.md), [Dispel\
+      \ Magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md), [Healing Word](3-Mechanics/CLI/spells/healing-word-xphb.md),\
+      \ or [Lesser Restoration](3-Mechanics/CLI/spells/lesser-restoration-xphb.md),\
       \ using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (3/Day)"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/archpriest-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/archpriest-xmm.webp"
 ```
 ^statblock
 

@@ -10,7 +10,7 @@ tags:
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Luck Blade"
 - "Luck Glaive"
 - "Luck Greatsword"
@@ -22,18 +22,18 @@ aliases:
 ---
 # Luck Blade
 *Legendary (requires attunement)*  
-![](/3-Mechanics/CLI/items/img/luck-blade.webp#right)
+![Luck Blade (Shortsword)](3-Mechanics/CLI/items/img/luck-blade.webp#right)
 
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. While the weapon is on your person, you also gain a +1 bonus to saving throws.
 
 ## Luck
 
-If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [D20 Test](/3-Mechanics/CLI/variant-rules/d20-test-xphb.md) if you don't have the [Incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
+If the weapon is on your person, you can call on its luck (no action required) to reroll one failed [D20 Test](3-Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) if you don't have the [Incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated) condition. You must use the second roll. Once used, this property can't be used again until the next dawn.
 
 ## Wish
 
-The weapon has `dice:1d3|noform|noparens|avg` (`1d3`) charges. While holding it, you can expend 1 charge and cast [Wish](/3-Mechanics/CLI/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
+The weapon has `1d3` charges. While holding it, you can expend 1 charge and cast [Wish](3-Mechanics/CLI/spells/wish-xphb.md) from it. Once used, this property can't be used again until the next dawn. The weapon loses this property if it has no charges.
 
 **Variants**:
 - [Luck Glaive](#Luck%20Glaive)
@@ -47,13 +47,13 @@ The weapon has `dice:1d3|noform|noparens|avg` (`1d3`) charges. While holding it,
 ### Luck Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Luck Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Luck Longsword
@@ -61,31 +61,31 @@ The weapon has `dice:1d3|noform|noparens|avg` (`1d3`) charges. While holding it,
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](/3-Mechanics/CLI/item-properties.md#Versatile)
+- **Properties**: [Versatile](3-Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Luck Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Luck Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Luck Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](/3-Mechanics/CLI/item-properties.md#Finesse), [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Finesse](3-Mechanics/CLI/rules/item-properties.md#Finesse), [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Luck Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](/3-Mechanics/CLI/item-properties.md#Light)
+- **Properties**: [Light](3-Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 

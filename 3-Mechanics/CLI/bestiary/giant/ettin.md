@@ -13,9 +13,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ettin
+- "Ettin"
 ---
-# [Ettin](3-Mechanics\CLI\bestiary\giant/ettin.md)
+# [Ettin](3-Mechanics/CLI/bestiary/giant/ettin.md)
 *Source: Monster Manual p. 132. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
@@ -63,18 +63,21 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
   - !!int "8"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+4"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 14"
+"gear":
+  - "[battleaxe](3-Mechanics/CLI/items/battleaxe.md)"
+  - "[morningstar](3-Mechanics/CLI/items/morningstar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 14"
 "languages": "Giant, Orc"
 "cr": "4"
 "traits":
-  - "desc": "The ettin has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks and on saving throws against being [blinded](/3-Mechanics/CLI/conditions.md#Blinded),\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [stunned](/3-Mechanics/CLI/conditions.md#Stunned),\
-      \ and knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)."
+  - "desc": "The ettin has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks and on saving throws against being [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded),\
+      \ [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened),\
+      \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned),\
+      \ and knocked [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)."
     "name": "Two Heads"
   - "desc": "When one of the ettin's heads is asleep, its other head is awake."
     "name": "Wakeful"
@@ -90,7 +93,7 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
     "name": "Morningstar"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/ettin.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/ettin.webp"
 ```
 ^statblock
 

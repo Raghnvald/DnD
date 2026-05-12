@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xdmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/wondrous/potion
-aliases: 
+aliases:
 - "Potion of Clairvoyance"
 ---
 # Potion of Clairvoyance
@@ -15,7 +15,7 @@ aliases:
 
 - **Weight**: 0.5 lbs.
 
-When you drink this potion, you gain the effect of the [Clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell (no [Concentration](/3-Mechanics/CLI/conditions.md#Concentration) required).
+When you drink this potion, you gain the effect of the [Clairvoyance](3-Mechanics/CLI/spells/clairvoyance-xphb.md) spell (no [Concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) required).
 
 An eyeball bobs in this potion's yellowish liquid but vanishes when the potion is opened.
 

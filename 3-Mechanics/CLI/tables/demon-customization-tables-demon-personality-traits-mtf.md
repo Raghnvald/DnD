@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Demon Customization Tables; Demon Personality Traits
+- "Demon Customization Tables; Demon Personality Traits"
 ---
 # Demon Customization Tables; Demon Personality Traits
 *Source: Mordenkainen's Tome of Foes p. 33* 
 
 **Demon Personality Traits**
-
-`dice: [](demon-customization-tables-demon-personality-traits-mtf.md#^demon-personality-traits)`
 
 | dice: d6 | Trait |
 |----------|-------|

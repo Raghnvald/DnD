@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Giantkind Encounters
+- "Giantkind Encounters"
 ---
 # Giantkind Encounters
 *Source: Bigby Presents: Glory of the Giants p. 44* 
 
 **Giantkind Encounters**
-
-`dice: [](giantkind-encounters-bgg.md#^giantkind-encounters)`
 
 | dice: d8 | Encounter Table |
 |----------|-----------------|

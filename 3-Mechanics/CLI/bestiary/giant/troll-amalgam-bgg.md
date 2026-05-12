@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Troll Amalgam
+- "Troll Amalgam"
 ---
-# [Troll Amalgam](3-Mechanics\CLI\bestiary\giant/troll-amalgam-bgg.md)
+# [Troll Amalgam](3-Mechanics/CLI/bestiary/giant/troll-amalgam-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 186*  
 
 A troll amalgam forms when multiple trolls fuse together during regeneration. This sometimes occurs when many trolls are slain in a single battle, when troll parts are thrown into charnel pits or mass graves, or through twisted rituals of wicked spellcasters. Sometimes troll worshipers of Vaprak hear a call to gather in the Underdark and perform a gruesome rite that fuses them into an amalgam that is regarded as an avatar of their fearsome god.
@@ -56,13 +56,11 @@ Trolls' rapid healing makes them subject to bizarre mutations, particularly when
   - "constitution": !!int "11"
   - "wisdom": !!int "9"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+9"
 "damage_resistances": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 19"
+"condition_immunities": "charmed, frightened, poisoned"
+"senses": "darkvision 120 ft., passive Perception 19"
 "languages": "Giant, Undercommon"
 "cr": "17"
 "traits":
@@ -79,25 +77,24 @@ Trolls' rapid healing makes them subject to bizarre mutations, particularly when
 "actions":
   - "desc": "The amalgam makes three Rend attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 25\
-      \ (4d8 + 7) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:*\
+      \ 25 (4d8 + 7) slashing damage."
     "name": "Rend"
 "bonus_actions":
   - "desc": "*Ranged Weapon Attack:* +13 to hit, range 60/240 ft., one target. *Hit:*\
       \ 11 (1d8 + 7) bludgeoning damage. If the limb hits a Medium or smaller creature,\
-      \ that creature has the [grappled](/3-Mechanics/CLI/conditions.md#Grappled)\
-      \ condition (escape DC 17). The limb has the statistics of a troll amalgam,\
-      \ except for the following: it is Medium, it has 45 hit points, its speed is\
-      \ 30 ft., it doesn't have a challenge rating or Legendary Resistance, and the\
-      \ only action it can take is the Attack action, which it can use only to grapple.\n\
-      \nUntil this grapple ends, the target has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition and takes 25 (4d8 + 7) slashing damage at the start of each of its\
-      \ turns. If the limb is not destroyed within 24 hours of being flung, roll a\
-      \ d12; on a roll of 12, the limb regenerates into a troll (see the Monster Manual).\
-      \ Otherwise, the limb withers away."
+      \ that creature has the grappled condition (escape DC 17). The limb has the\
+      \ statistics of a troll amalgam, except for the following: it is Medium, it\
+      \ has 45 hit points, its speed is 30 ft., it doesn't have a challenge rating\
+      \ or Legendary Resistance, and the only action it can take is the Attack action,\
+      \ which it can use only to grapple.\n\nUntil this grapple ends, the target has\
+      \ the restrained condition and takes 25 (4d8 + 7) slashing damage at the start\
+      \ of each of its turns. If the limb is not destroyed within 24 hours of being\
+      \ flung, roll a d12; on a roll of 12, the limb regenerates into a troll (see\
+      \ the Monster Manual). Otherwise, the limb withers away."
     "name": "Fling Limb (3/Day)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/troll-amalgam-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/troll-amalgam-bgg.webp"
 ```
 ^statblock

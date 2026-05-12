@@ -14,9 +14,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Goblin Boss
+- "Goblin Boss"
 ---
-# [Goblin Boss](3-Mechanics\CLI\bestiary\humanoid/goblin-boss.md)
+# [Goblin Boss](3-Mechanics/CLI/bestiary/humanoid/goblin-boss.md)
 *Source: Monster Manual p. 166*  
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -57,7 +57,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 "subtype": "goblinoid"
 "alignment": "Neutral Evil"
 "ac": !!int "17"
-"ac_class": "[chain shirt](/3-Mechanics/CLI/items/chain-shirt.md), [shield](/3-Mechanics/CLI/items/shield.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt.md), [shield](3-Mechanics/CLI/items/shield.md)"
 "hp": !!int "21"
 "hit_dice": "6d6"
 "modifier": !!int "2"
@@ -70,22 +70,26 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 9"
+"gear":
+  - "[javelin](3-Mechanics/CLI/items/javelin.md)"
+  - "[scimitar](3-Mechanics/CLI/items/scimitar.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 9"
 "languages": "Common, Goblin"
 "cr": "1"
 "traits":
-  - "desc": "The goblin can take the Disengage or Hide action as a bonus action on\
-      \ each of its turns."
+  - "desc": "The goblin can take the [Disengage](3-Mechanics/CLI/rules/actions.md#Disengage)\
+      \ or [Hide](3-Mechanics/CLI/rules/actions.md#Hide) action as a bonus action\
+      \ on each of its turns."
     "name": "Nimble Escape"
 "actions":
   - "desc": "The goblin makes two attacks with its scimitar. The second attack has\
       \ disadvantage."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) slashing damage."
     "name": "Scimitar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 30/120\
       \ ft., one target. *Hit:* 3 (1d6) piercing damage."
@@ -97,7 +101,7 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
     "name": "Redirect Attack"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/goblin-boss.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/goblin-boss.webp"
 ```
 ^statblock
 

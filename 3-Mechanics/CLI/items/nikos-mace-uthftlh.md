@@ -12,12 +12,12 @@ aliases:
 - "Niko's Mace"
 ---
 # Niko's Mace
-*Weapon (mace), very rare (requires attunement by a spellcaster)*  
+*Weapon ([mace](3-Mechanics/CLI/items/mace-xphb.md)), very rare (requires attunement by a spellcaster)*  
 
 
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
-This Mace has 6 charges and regains `1d6` expended charges daily at dawn. While holding the Mace, you can expend 1 of its charges to cast Summon Celestial (`+9` to hit with spell attacks).
+This Mace has 6 charges and regains `1d6` expended charges daily at dawn. While holding the Mace, you can expend 1 of its charges to cast [Summon Celestial](3-Mechanics/CLI/spells/summon-celestial-xphb.md) (`+9` to hit with spell attacks).
 
-*Source: Uni and the Hunt for the Lost Horn, Hold Back The Dead*
+*Source: Uni and the Hunt for the Lost Horn*

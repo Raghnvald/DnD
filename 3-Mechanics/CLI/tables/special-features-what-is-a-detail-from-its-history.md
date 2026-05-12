@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Special Features; What Is a Detail from Its History?
+- "Special Features; What Is a Detail from Its History?"
 ---
 # Special Features; What Is a Detail from Its History?
 *Source: Dungeon Master's Guide p. 141* 
 
 **What Is a Detail from Its History?**
-
-`dice: [](special-features-what-is-a-detail-from-its-history.md#^what-is-a-detail-from-its-history)`
 
 | dice: d8 | History |
 |----------|---------|

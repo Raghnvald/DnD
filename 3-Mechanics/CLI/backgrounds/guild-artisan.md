@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
-- Guild Artisan
+- "Guild Artisan"
 ---
 # Guild Artisan
 *Source: Player's Handbook p. 132*  
 
 
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** [Insight](3-Mechanics/CLI/rules/skills.md#Insight), [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)  
 - **Tool Proficiencies.** One type of artisan's tools  
 - **Languages.** One of your choice  
-- **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 15 gp  
+- **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes.md), and a belt [pouch](3-Mechanics/CLI/items/pouch.md) containing 15 gp  
 
 You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
 
@@ -30,8 +30,6 @@ You must pay dues of 5 gp per month to the guild. If you miss payments, you must
 ## Specialty
 
 Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild. You can select your guild business from the Guild Business table or roll randomly.
-
-`dice: [](guild-artisan.md#^guild-business)`
 
 | dice: d20 | Guild Business |
 |-----------|----------------|
@@ -61,8 +59,6 @@ Guilds are generally found in cities large enough to support several artisans pr
 
 Guild artisans are among the most ordinary people in the world—until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they're vulnerable to sins of greed and covetousness.
 
-`dice: [](guild-artisan.md#^personality-trait)`
-
 | dice: d8 | Personality Trait |
 |----------|-------------------|
 | 1 | I believe that anything worth doing is worth doing right. I can't help it—I'm a perfectionist. |
@@ -75,8 +71,6 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 8 | I'm well known for my work, and I want to make sure everyone appreciates it. I'm always taken aback when people haven't heard of me. |
 ^personality-trait
 
-`dice: [](guild-artisan.md#^ideal)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful) |
@@ -87,8 +81,6 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 6 | Aspiration. I work hard to be the best there is at my craft. (Any) |
 ^ideal
 
-`dice: [](guild-artisan.md#^bond)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | The workshop where I learned my trade is the most important place in the world to me. |
@@ -98,8 +90,6 @@ Guild artisans are among the most ordinary people in the world—until they set 
 | 5 | One day I will return to my guild and prove that I am the greatest artisan of them all. |
 | 6 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood. |
 ^bond
-
-`dice: [](guild-artisan.md#^flaw)`
 
 | dice: d6 | Flaw |
 |----------|------|

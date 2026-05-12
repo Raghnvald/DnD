@@ -13,10 +13,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mastiff
+- "Mastiff"
 ---
-# [Mastiff](3-Mechanics\CLI\bestiary\beast/mastiff.md)
-*Source: Monster Manual p. 332, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Mastiff](3-Mechanics/CLI/bestiary/beast/mastiff.md)
+*Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 Mastiffs are impressive hounds prized by humanoids for their loyalty and keen senses. Mastiffs can be trained as guard dogs, hunting dogs, and war dogs. Halflings and other Small humanoids ride them as mounts.
 
@@ -38,24 +38,23 @@ Mastiffs are impressive hounds prized by humanoids for their loyalty and keen se
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "senses": "passive Perception 13"
 "languages": ""
 "cr": "1/8"
 "traits":
-  - "desc": "The mastiff has advantage on Wisdom (Perception) checks that rely on\
-      \ hearing or smell."
+  - "desc": "The mastiff has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on hearing or smell."
     "name": "Keen Hearing and Smell"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) piercing damage. If the target is a creature, it must succeed on a DC\
-      \ 11 Strength saving throw or be knocked prone."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 11 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/mastiff.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/mastiff.webp"
 ```
 ^statblock
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Karrnathi Undead Soldier
+- "Karrnathi Undead Soldier"
 ---
-# [Karrnathi Undead Soldier](3-Mechanics\CLI\bestiary\undead/karrnathi-undead-soldier-erlw.md)
+# [Karrnathi Undead Soldier](3-Mechanics/CLI/bestiary/undead/karrnathi-undead-soldier-erlw.md)
 *Source: Eberron: Rising from the Last War p. 295*  
 
 Undead soldiers form the elite core of the army of Karrnath. Fearless and tireless, they are a terrifying sight on the battlefield. With the end of the Last War, most Karrnathi undead have been sealed in vaults below the city of Atur. However, the Karrnathi army keeps numerous undead in its service, while others have been commandeered by the malevolent Order of the Emerald Claw.
@@ -62,6 +62,9 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
     "desc": "+3"
 "damage_resistances": "cold, poison"
 "condition_immunities": "charmed, frightened, poisoned"
+"gear":
+  - "longbow"
+  - "longsword"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common"
 "cr": "3"
@@ -77,8 +80,9 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The soldier attacks three times with one of its weapons."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8\
-      \ + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with\
+      \ two hands."
     "name": "Longsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:*\
       \ 6 (1d8 + 2) piercing damage."
@@ -89,6 +93,6 @@ A Karrnathi undead soldier doesn't require air, food, drink, or sleep.
     "name": "Parry"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/karrnathi-undead-soldier-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/karrnathi-undead-soldier-erlw.webp"
 ```
 ^statblock

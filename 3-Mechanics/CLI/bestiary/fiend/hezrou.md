@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Hezrou
+- "Hezrou"
 ---
-# [Hezrou](3-Mechanics\CLI\bestiary\fiend/hezrou.md)
-*Source: Monster Manual p. 60, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Hezrou](3-Mechanics/CLI/bestiary/fiend/hezrou.md)
+*Source: Monster Manual p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.
 
@@ -157,7 +157,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -210,8 +210,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 11"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 11"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "8"
 "traits":
@@ -219,9 +220,9 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ effects."
     "name": "Magic Resistance"
   - "desc": "Any creature that starts its turn within 10 feet of the hezrou must succeed\
-      \ on a DC 14 Constitution saving throw or be poisoned until the start of its\
-      \ next turn. On a successful saving throw, the creature is immune to the hezrou's\
-      \ stench for 24 hours."
+      \ on a DC 14 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ until the start of its next turn. On a successful saving throw, the creature\
+      \ is immune to the hezrou's stench for 24 hours."
     "name": "Stench"
 "actions":
   - "desc": "The hezrou makes three attacks: one with its bite and two with its claws."
@@ -234,7 +235,6 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Claws"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/hezrou.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/hezrou.webp"
 ```
 ^statblock

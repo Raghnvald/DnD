@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xphb
 aliases:
-- Travel
+- "Travel"
 ---
 # Travel
 *Source: Player's Handbook (2024) p. 231* 

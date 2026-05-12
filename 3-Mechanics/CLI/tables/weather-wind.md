@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Weather; Wind
+- "Weather; Wind"
 ---
 # Weather; Wind
 *Source: Dungeon Master's Guide p. 109* 
 
 **Wind**
-
-`dice: [](weather-wind.md#^wind)`
 
 | dice: d20 | Wind |
 |-----------|------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Koalinth
+- "Koalinth"
 ---
-# [Koalinth](3-Mechanics\CLI\bestiary\humanoid/koalinth-gos.md)
+# [Koalinth](3-Mechanics/CLI/bestiary/humanoid/koalinth-gos.md)
 *Source: Ghosts of Saltmarsh p. 239*  
 
 The koalinth, found in Danger at Dunwater, are martial and aggressive aquatic hobgoblins, with brightly colored faces and functional gills. They are known for their ferocity, and for their hatred of elves.
@@ -43,6 +43,8 @@ The koalinth, found in Danger at Dunwater, are martial and aggressive aquatic ho
     "desc": "+3"
   - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "trident"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
 "cr": "1/2"
@@ -60,6 +62,6 @@ The koalinth, found in Danger at Dunwater, are martial and aggressive aquatic ho
     "name": "Trident"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/koalinth-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/koalinth-gos.webp"
 ```
 ^statblock

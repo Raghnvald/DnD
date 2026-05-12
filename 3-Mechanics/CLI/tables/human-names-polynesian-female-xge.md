@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Human Names – Polynesian, Female
+- "Human Names – Polynesian, Female"
 ---
 # Human Names – Polynesian, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
 **Human Names – Polynesian, Female**
-
-`dice: [](human-names-polynesian-female-xge.md#^human-names-polynesian-female)`
 
 | dice: d100 | Name |
 |------------|------|

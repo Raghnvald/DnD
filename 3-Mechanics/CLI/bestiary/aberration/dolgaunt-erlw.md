@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/3
-- new/monster/size/medium
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dolgaunt
+- "Dolgaunt"
 ---
-# [Dolgaunt](3-Mechanics\CLI\bestiary\aberration/dolgaunt-erlw.md)
+# [Dolgaunt](3-Mechanics/CLI/bestiary/aberration/dolgaunt-erlw.md)
 *Source: Eberron: Rising from the Last War p. 290*  
 
 Dolgaunts are emaciated hobgoblins with disease-hued flesh. Their eye sockets gape open and empty above a mouth with a wormlike tongue. Writhing cilia cover their bodies, with longer tendrils around their heads and two wiry tentacles protruding from their bare shoulders. A dolgaunt is blind but can perceive its surroundings through the sensitive cilia that cover its skin. It can also absorb life through its tentacles, allowing it to drain the vitality out of any creature it touches.
@@ -65,13 +65,13 @@ When the daelkyr were defeated, the dolgaunts descended into the depths of Khybe
   - "desc": "The dolgaunt makes two tentacle attacks and two unarmed strikes. Up to\
       \ two tentacle attacks can be replaced by Vitality Drain."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:* 7\
-      \ (1d6 + 4) bludgeoning damage. The target is grappled (escape DC 12) if it\
-      \ is a Large or smaller creature. Until this grapple ends, the dolgaunt can't\
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 15 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) bludgeoning damage. The target is grappled (escape DC 12) if\
+      \ it is a Large or smaller creature. Until this grapple ends, the dolgaunt can't\
       \ use the same tentacle on another target. The dolgaunt has two tentacles."
     "name": "Tentacle"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d4\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d4 + 4) bludgeoning damage."
     "name": "Unarmed Strike"
   - "desc": "One creature grappled by a tentacle of the dolgaunt must make a DC 11\
       \ Constitution saving throw. On a failed save, the target takes 9 (2d8) necrotic\
@@ -80,6 +80,6 @@ When the daelkyr were defeated, the dolgaunts descended into the depths of Khybe
     "name": "Vitality Drain"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/dolgaunt-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/dolgaunt-erlw.webp"
 ```
 ^statblock

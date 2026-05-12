@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/5
-- new/monster/size/large
-- new/monster/type/monstrosity/shapechanger
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/5
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/monstrosity/shapechanger
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Spitting Mimic
+- "Spitting Mimic"
 ---
-# [Spitting Mimic](3-Mechanics\CLI\bestiary\monstrosity/spitting-mimic-idrotf.md)
+# [Spitting Mimic](3-Mechanics/CLI/bestiary/monstrosity/spitting-mimic-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 302*  
 
 Mimics are shape-shifting monsters described in the *Monster Manual*. The variant presented here is a particularly large and voracious specimen—the result of Netherese experiments on ordinary mimics—that spits acid.
@@ -37,11 +37,12 @@ Mimics are shape-shifting monsters described in the *Monster Manual*. The varian
   - !!int "10"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+7"
 "damage_immunities": "acid"
-"condition_immunities": "prone"
-"senses": "darkvision 60 ft., passive Perception 12"
+"condition_immunities": "[prone](3-Mechanics/CLI/rules/conditions.md#Prone)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "5"
 "traits":
@@ -51,13 +52,13 @@ Mimics are shape-shifting monsters described in the *Monster Manual*. The varian
       \ it dies."
     "name": "Shapechanger"
   - "desc": "The mimic adheres to anything that touches it. A Huge or smaller creature\
-      \ adhered to the mimic is also grappled by it (escape DC 16). Ability checks\
-      \ made to escape this grapple have disadvantage."
+      \ adhered to the mimic is also [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by it (escape DC 16). Ability checks made to escape this grapple have disadvantage."
     "name": "Adhesive (Object Form Only)"
   - "desc": "While the mimic remains motionless, it is indistinguishable from an ordinary\
       \ object."
     "name": "False Appearance (Object Form Only)"
-  - "desc": "The mimic has advantage on attack rolls against any creature grappled\
+  - "desc": "The mimic has advantage on attack rolls against any creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
       \ by it."
     "name": "Grappler"
   - "desc": "The mimic has advantage on saving throws against spells and other magical\
@@ -67,19 +68,19 @@ Mimics are shape-shifting monsters described in the *Monster Manual*. The varian
   - "desc": "The mimic attacks three times: twice with its pseudopods and once with\
       \ its bite."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10\
-      \ (1d10 + 5) bludgeoning damage. If the mimic is in object form, the target\
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 10 (1d10 + 5) bludgeoning damage. If the mimic is in object form, the target\
       \ is subjected to its Adhesive trait."
     "name": "Pseudopods"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 10\
-      \ (1d10 + 5) piercing damage plus 7 (2d6) acid damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 10 (1d10 + 5) piercing damage plus 7 (2d6) acid damage."
     "name": "Bite"
   - "desc": "The mimic spits acid at one creature it can see within 30 feet of it.\
-      \ The target must make a DC 14 Dexterity saving throw, taking 32 (9d6 + 1) acid\
-      \ damage on failed save, or half as much damage on a successful one."
+      \ The target must make a DC 14 Dexterity saving throw, taking 32 (9d6 + 1)\
+      \ acid damage on failed save, or half as much damage on a successful one."
     "name": "Spit Acid (Recharge 5-6)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/monstrosity/token/spitting-mimic-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/monstrosity/token/spitting-mimic-idrotf.webp"
 ```
 ^statblock

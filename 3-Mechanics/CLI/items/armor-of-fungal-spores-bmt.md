@@ -3,11 +3,11 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-item
 tags:
-- new/compendium/src/5e/bmt
-- new/item/armor/medium
-- new/item/rarity/uncommon
-- new/item/wondrous/generic-variant
-aliases: 
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/item/armor/medium
+- ttrpg-cli/item/rarity/uncommon
+- ttrpg-cli/item/wondrous/generic-variant
+aliases:
 - "Armor of Fungal Spores"
 - "Breastplate of Fungal Spores"
 - "Chain Shirt of Fungal Spores"
@@ -18,7 +18,7 @@ aliases:
 ---
 # Armor of Fungal Spores
 *Uncommon*  
-![](/3-Mechanics/CLI/items/img/armor-of-fungal-spores.webp#right)
+![](3-Mechanics/CLI/items/img/armor-of-fungal-spores.webp#right)
 
 
 While wearing this armor, you can take a bonus action to make the armor emit poisonous spores, which fill a 10-foot-radius sphere centered on yourself. Each creature in that area must succeed on a DC 15 Constitution saving throw or have the poisoned condition until the end of your next turn. Once this property is used, it can't be used again until the next dawn.

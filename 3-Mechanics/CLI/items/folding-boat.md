@@ -6,12 +6,12 @@ tags:
 - ttrpg-cli/compendium/src/5e/dmg
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/tier/minor
-aliases: 
+aliases:
 - "Folding Boat"
 ---
 # Folding Boat
 *Wondrous item, minor, rare*  
-![](/3-Mechanics/CLI/items/img/folding-boat.webp#right)
+![](3-Mechanics/CLI/items/img/folding-boat.webp#right)
 
 - **Weight**: 4.0 lbs.
 

@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/subclass/circle-of-the-stars
+- ttrpg-cli/spell/list/subclass/circle-of-the-stars
 aliases:
-- Spells for Circle of the Stars
+- "Spells for Circle of the Stars"
 ---
 # Spells for Circle of the Stars
 
 ## Cantrip
 
-- [Guidance](/3-Mechanics/CLI/spells/guidance-xphb.md "XPHB") as cantrip, at class level 3
+- [Guidance](3-Mechanics/CLI/spells/guidance-xphb.md "XPHB") as cantrip, at class level 3
 
 ## 1st Level
 
-- [Guiding Bolt](/3-Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") as cantrip, at class level 3
+- [Guiding Bolt](3-Mechanics/CLI/spells/guiding-bolt-xphb.md "XPHB") at class level 3

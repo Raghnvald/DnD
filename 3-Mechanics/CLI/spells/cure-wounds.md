@@ -11,6 +11,7 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/feat/magic-initiate/druid-spells
 - ttrpg-cli/spell/level/1st-level
+- ttrpg-cli/spell/reward/charm-of-cure-wounds
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/life-domain
 classes:
@@ -21,7 +22,7 @@ classes:
 - Paladin
 - Ranger
 aliases:
-- Cure Wounds
+- "Cure Wounds"
 ---
 # Cure Wounds
 *1st-level, Evocation*  
@@ -32,10 +33,10 @@ aliases:
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-A creature you touch regains a number of hit points equal to `dice:1d8|noform|noparens|avg` (`1d8`) + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A creature you touch regains a number of hit points equal to `1d8` + your spellcasting ability modifier. This spell has no effect on undead or constructs.
 
-**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `dice:1d8|noform|noparens|avg|text(1d8)` for each slot level above 1st.
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `1d8` for each slot level above 1st.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](/3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](3-Mechanics/CLI/lists/list-spells-classes-life-domain.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

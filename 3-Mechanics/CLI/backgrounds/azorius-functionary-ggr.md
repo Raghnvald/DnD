@@ -6,15 +6,15 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Azorius Functionary
+- "Azorius Functionary"
 ---
 # Azorius Functionary
 *Source: Guildmasters' Guide to Ravnica p. 33*  
 
 
-- **Skill Proficiencies.** [Insight](/3-Mechanics/CLI/skills.md#Insight), [Intimidation](/3-Mechanics/CLI/skills.md#Intimidation)  
+- **Skill Proficiencies.** Insight, Intimidation  
 - **Languages.** Two of your choice  
-- **Equipment.** An Azorius insignia, a scroll containing the text of a law important to you, a [bottle of blue ink](/3-Mechanics/CLI/items/ink-xphb.md), a [pen](/3-Mechanics/CLI/items/ink-pen-xphb.md), a set of [fine clothes](/3-Mechanics/CLI/items/fine-clothes-xphb.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp (Azorius-minted 1-zino coins)  
+- **Equipment.** An Azorius insignia, a scroll containing the text of a law important to you, a bottle of blue ink, a pen, a set of fine clothes, and a belt pouch containing 10 gp (Azorius-minted 1-zino coins)  
 
 The brutes are at the gate, chaos is looming, and the only thing standing in the way of disaster is the foundation of law and order—as embodied in the Azorius Senate. You're a proud member of the Azorius guild, which both enacts and enforces the laws that make Ravnican society function smoothly and safely.
 
@@ -32,23 +32,21 @@ For you, the spells on the Azorius Guild Spells table are added to the spell lis
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [friends](/3-Mechanics/CLI/spells/friends-xphb.md), [message](/3-Mechanics/CLI/spells/message-xphb.md) |
-| 1st | [command](/3-Mechanics/CLI/spells/command-xphb.md), [ensnaring strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md) |
-| 2nd | [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md), [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](/3-Mechanics/CLI/spells/hold-person-xphb.md) |
-| 3rd | [clairvoyance](/3-Mechanics/CLI/spells/clairvoyance-xphb.md), [counterspell](/3-Mechanics/CLI/spells/counterspell-xphb.md) |
-| 4th | [compulsion](/3-Mechanics/CLI/spells/compulsion-xphb.md), [divination](/3-Mechanics/CLI/spells/divination-xphb.md) |
-| 5th | [dominate person](/3-Mechanics/CLI/spells/dominate-person-xphb.md) |
+| Cantrip | friends, message |
+| 1st | command, ensnaring strike |
+| 2nd | arcane lock, calm emotions, hold person |
+| 3rd | clairvoyance, counterspell |
+| 4th | compulsion, divination |
+| 5th | dominate person |
 ^azorius-guild-spells
 
-Your magic often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy. If you cast [ensnaring strike](/3-Mechanics/CLI/spells/ensnaring-strike-xphb.md), for example, the vines created by the spell might appear as rune-inscribed glowing bands that wrap around the target and hold it in place.
+Your magic often takes the form of blue or golden runes floating and glowing in the air in circular patterns or of shimmering azure barriers of magical energy. If you cast ensnaring strike, for example, the vines created by the spell might appear as rune-inscribed glowing bands that wrap around the target and hold it in place.
 
 ## Suggested Characteristics
 
 Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragmatic, orderly nature. Steeped in the law as they are, their ideals and priorities revolve around legal issues.
 
 **Personality Traits**
-
-`dice: [](azorius-functionary-ggr.md#^personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|
@@ -64,8 +62,6 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 
 **Ideals**
 
-`dice: [](azorius-functionary-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -78,8 +74,6 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 
 **Bonds**
 
-`dice: [](azorius-functionary-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I am beholden to an Azorius arrester who captured the criminal who killed my parents, saving me from the same fate. |
@@ -91,8 +85,6 @@ Members of the Azorius Senate tend toward a demeanor of cold dignity and a pragm
 ^bonds
 
 **Flaws**
-
-`dice: [](azorius-functionary-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -112,8 +104,6 @@ Roll twice on the Azorius Contacts table (for an ally and a rival) and once on t
 
 **Azorius Contacts**
 
-`dice: [](azorius-functionary-ggr.md#^azorius-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | As a teenager, I was a page for a prominent judge. |
@@ -127,8 +117,6 @@ Roll twice on the Azorius Contacts table (for an ally and a rival) and once on t
 ^azorius-contacts
 
 **Non-Azorius Contacts**
-
-`dice: [](azorius-functionary-ggr.md#^non-azorius-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

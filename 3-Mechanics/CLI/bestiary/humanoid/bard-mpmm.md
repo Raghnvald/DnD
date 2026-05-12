@@ -11,18 +11,16 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Bard
+- "Bard"
 ---
-# [Bard](3-Mechanics\CLI\bestiary\humanoid/bard-mpmm.md)
+# [Bard](3-Mechanics/CLI/bestiary/humanoid/bard-mpmm.md)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*  
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
 
-Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](/3-Mechanics/CLI/skills.md#Performance) Types table to determine it.
+Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](3-Mechanics/CLI/rules/skills.md#Performance) Types table to determine it.
 
 **Bard Performance Types**
-
-`dice: [](bard-mpmm.md#^bard-performance-types)`
 
 | dice: d10 | Performance Type |
 |-----------|------------------|
@@ -44,7 +42,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "type": "humanoid"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "[chain shirt](/3-Mechanics/CLI/items/chain-shirt-xphb.md)"
+"ac_class": "[chain shirt](3-Mechanics/CLI/items/chain-shirt-xphb.md)"
 "hp": !!int "44"
 "hit_dice": "8d8 + 8"
 "modifier": !!int "2"
@@ -60,12 +58,15 @@ Each bard is a master of at least one type of performance. You may choose a bard
   - "dexterity": !!int "4"
   - "wisdom": !!int "3"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+4"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
-  - "name": "[Performance](/3-Mechanics/CLI/skills.md#Performance)"
+  - "name": "[Performance](3-Mechanics/CLI/rules/skills.md#Performance)"
     "desc": "+6"
+"gear":
+  - "[shortbow](3-Mechanics/CLI/items/shortbow-xphb.md)"
+  - "[shortsword](3-Mechanics/CLI/items/shortsword-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "any two languages"
 "cr": "2"
@@ -73,8 +74,8 @@ Each bard is a master of at least one type of performance. You may choose a bard
   - "desc": "The bard makes two Shortsword or Shortbow attacks. It can replace one\
       \ attack with a use of Spellcasting."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "*Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:*\
       \ 5 (1d6 + 2) piercing damage."
@@ -85,10 +86,10 @@ Each bard is a master of at least one type of performance. You may choose a bard
       \ save, a creature takes half as much damage and isn't pushed."
     "name": "Cacophony (Recharge 4-6)"
   - "desc": "The bard casts one of the following spells, using Charisma as the spellcasting\
-      \ ability (spell save DC 12):\n\n**At will:** [dancing lights](/3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
-      \ [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
-      \n**1/day each:** [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md),\
-      \ [invisibility](/3-Mechanics/CLI/spells/invisibility-xphb.md), [sleep](/3-Mechanics/CLI/spells/sleep-xphb.md)"
+      \ ability (spell save DC 12):\n\n**At will:** [dancing lights](3-Mechanics/CLI/spells/dancing-lights-xphb.md),\
+      \ [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\
+      \n**1/day each:** [charm person](3-Mechanics/CLI/spells/charm-person-xphb.md),\
+      \ [invisibility](3-Mechanics/CLI/spells/invisibility-xphb.md), [sleep](3-Mechanics/CLI/spells/sleep-xphb.md)"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The bard targets one creature within 30 feet of it. If the target can\
@@ -99,7 +100,7 @@ Each bard is a master of at least one type of performance. You may choose a bard
 "source":
   - "MPMM"
   - "VGM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/bard-mpmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/bard-mpmm.webp"
 ```
 ^statblock
 

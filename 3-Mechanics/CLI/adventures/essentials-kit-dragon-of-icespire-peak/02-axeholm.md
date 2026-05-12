@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Axeholm
+- "Axeholm"
 ---
 # Axeholm
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 12* 
@@ -28,7 +28,7 @@ To complete the Axeholm Quest, adventurers must kill or drive out all the monste
 > 
 > **Arrow Slits.** When using an arrow slit for protection, a creature gains three-quarters cover (see "the rulebook") against outside threats. A Medium character can't squeeze through an arrow slit, but a Small character can with a successful DC 10 Dexterity (Acrobatics) check.
 > 
-> **Ballistas.** For its defense, Axeholm relied heavily on ballistas—massive crossbows that fire heavy bolts. A crew of three dwarves operated each ballista. Before it can be fired, a ballista must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it. *Ranged Weapon Attack*: +6 to hit, range 120/480 ft., one target. *Hit*: `dice:3d10|noform|noparens|avg|text(16)` (`3d10`) piercing damage.
+> **Ballistas.** For its defense, Axeholm relied heavily on ballistas—massive crossbows that fire heavy bolts. A crew of three dwarves operated each ballista. Before it can be fired, a ballista must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it. *Ranged Weapon Attack*: `+6` to hit, range 120/480 ft., one target. *Hit*: 16 (`3d10`) piercing damage.
 > 
 > **Ceilings.** Ceilings throughout are fifteen feet high and flat, unless the text says otherwise.
 > 
@@ -58,21 +58,21 @@ Entering the fortress is the characters' first challenge. The portcullis in area
 
 Characters who search for another entrance can attempt DC 15 Wisdom (Perception) checks. A successful check spots numerous stone chimneys protruding from the mountainside, but an earthquake after Axeholm was abandoned closed off most of those to anything but Tiny creatures. Only the chimneys leading down to area A21 and area A23 can be accessed by the adventurers. Scaling the mountain requires a successful DC 10 Strength (Athletics) check, as there are plenty of handholds and footholds.
 
-Crawling down a chimney to area A21 or area A23 requires another successful DC 10 Strength (Athletics) check. If this check fails, the character falls 20 feet to the bottom of the chimney, landing in the sooty hearth and taking `dice:2d6|noform|noparens|avg` (`2d6`) bludgeoning damage. Characters who use climbing gear to scale the mountain and lower themselves down a chimney have advantage on their checks. See "the rulebook" for more information on "advantage".
+Crawling down a chimney to area A21 or area A23 requires another successful DC 10 Strength (Athletics) check. If this check fails, the character falls 20 feet to the bottom of the chimney, landing in the sooty hearth and taking `2d6` bludgeoning damage. Characters who use climbing gear to scale the mountain and lower themselves down a chimney have advantage on their checks. See "the rulebook" for more information on "advantage".
 
 ### Keyed Locations
 
 The following locations are keyed to the map of Axeholm.
 
 > [!gallery]
-> ![Map: Axeholm](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/007-map-axeholm-dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/008-map-axeholm-pc.webp#gallery)
+> ![Map: Axeholm](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/007-map-axeholm-dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/008-map-axeholm-pc.webp#gallery)
 
 #### A1. Outer Gauntlet
 
 Axeholm's primary entrance and exit is this defensible passage, which is blocked by a sturdy portcullis (see "Arrival" above). Arrow slits are spaced along the walls and murder holes line the ceiling, enabling fortress defenders to shoot ballistas at invaders or pour boiling oil on top of them. With the dwarves gone, the only remaining defenses are the portcullis and the double doors to the south, which are barred shut.
 
-Characters hoping to get through the double doors must break them down, which takes a single character 1 hour. Multiple characters working together can reduce the time proportionately. The noise created by smashing down the doors is loud enough to alert all the dwarf [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) in the fortress, which gather in area A4 and attack once the doors fall. The fortress contains three dwarf ghouls plus three additional ghouls for each character in the party, not including sidekicks. If these ghouls are killed here, the characters encounter no more of them in the fortress.
+Characters hoping to get through the double doors must break them down, which takes a single character 1 hour. Multiple characters working together can reduce the time proportionately. The noise created by smashing down the doors is loud enough to alert all the dwarf ghouls in the fortress, which gather in area A4 and attack once the doors fall. The fortress contains three dwarf ghouls plus three additional ghouls for each character in the party, not including sidekicks. If these ghouls are killed here, the characters encounter no more of them in the fortress.
 
 #### A2. Western Bulwark
 
@@ -88,7 +88,7 @@ This great hall has a 40-foot-high ceiling supported by four thick stone pillars
 
 #### A5. West Hall
 
-The floor is strewn with bits of armor and the gnawed bones of dwarves who were killed and eaten by ghouls. Lurking in the hall is one [ghoul](/3-Mechanics/CLI/bestiary/undead/ghoul.md) for each member of the party, not including sidekicks. The ghouls pursue prey that flees.
+The floor is strewn with bits of armor and the gnawed bones of dwarves who were killed and eaten by ghouls. Lurking in the hall is one ghoul for each member of the party, not including sidekicks. The ghouls pursue prey that flees.
 
 #### A6. Armory
 
@@ -106,7 +106,7 @@ Tattered wool curtains conceal three neglected privies, each with a wooden bench
 
 Standing before two blackened hearths are a pair of rusty anvils, which dwarves once used to fashion and repair their armor and weapons.
 
-A fluttering noise can be heard coming from the southernmost fireplace, indicating the presence of a [stirge](/3-Mechanics/CLI/bestiary/beast/stirge.md) near the bottom of the 200-foot-high chimney. If anyone shines a light up there, the stirge panics, flies out, and attacks the nearest character or sidekick. It ignores the characters otherwise.
+A fluttering noise can be heard coming from the southernmost fireplace, indicating the presence of a stirge near the bottom of the 200-foot-high chimney. If anyone shines a light up there, the stirge panics, flies out, and attacks the nearest character or sidekick. It ignores the characters otherwise.
 
 #### A10. Tool Storage
 
@@ -135,9 +135,9 @@ Read the following boxed text out loud to describe this area:
 > The stench of death hangs heavy in the air of this dusty, pillared hall, which has a dark, soot-stained fireplace at the east end. A deep alcove in the south wall contains a dais, atop which rests a limestone throne flanked by granite statues of dwarf warriors. Between the throne and the fireplace is a hallway with stairs leading up.
 ^05b
 
-Hiding behind the throne is a [ghoul](/3-Mechanics/CLI/bestiary/undead/ghoul.md) with 40 hit points. This undead creature is all that remains of Axeholm's dwarf castellan, who stayed behind to seal up the fortress after most of the garrison fled. The ghoul is the source of the hall's foul stench, which gets stronger closer to the throne. The hidden ghoul can be detected with a successful DC 13 Wisdom (Perception) check.
+Hiding behind the throne is a ghoul with 40 hit points. This undead creature is all that remains of Axeholm's dwarf castellan, who stayed behind to seal up the fortress after most of the garrison fled. The ghoul is the source of the hall's foul stench, which gets stronger closer to the throne. The hidden ghoul can be detected with a successful DC 13 Wisdom (Perception) check.
 
-If any character inspects the throne, the ghoul lets out a shriek and attacks. Its shriek is heard by the [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) in area A26, which crawl down the chimney and clamber out of the fireplace. This group contains two soot-covered ghouls plus one additional ghoul for each member of the party, not including sidekicks. After all other creatures in the hall have taken a first turn in combat, these ghouls join the battle, acting on the same initiative count as the former castellan.
+If any character inspects the throne, the ghoul lets out a shriek and attacks. Its shriek is heard by the ghouls in area A26, which crawl down the chimney and clamber out of the fireplace. This group contains two soot-covered ghouls plus one additional ghoul for each member of the party, not including sidekicks. After all other creatures in the hall have taken a first turn in combat, these ghouls join the battle, acting on the same initiative count as the former castellan.
 
 ##### Treasure
 
@@ -165,7 +165,7 @@ This 15-foot-square room was cleaned out by the dwarves before they evacuated Ax
 
 Characters can reach this area by following the naturally formed tunnel from area A17 or by descending the stone staircase from area A24. The door to the north has been smashed open, and its remains are strewn on the floor.
 
-The stench of death and decay grows stronger as the characters approach this room, and they can hear the hisses and snarls of the [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) that lair here. The room contains one ghoul plus one additional ghoul for each member of the party, not including sidekicks.
+The stench of death and decay grows stronger as the characters approach this room, and they can hear the hisses and snarls of the ghouls that lair here. The room contains one ghoul plus one additional ghoul for each member of the party, not including sidekicks.
 
 After dealing with the ghouls, the characters can inspect the room more closely. Describe it to the players as follows:
 
@@ -179,7 +179,7 @@ After dealing with the ghouls, the characters can inspect the room more closely.
 Characters who search through the rubble in the eastern portion of the room find two treasures:
 
 - A platinum amulet on a thin but sturdy gold chain. This amulet is a holy symbol of Moradin (the dwarven god of creation) and bears his symbol: a hammer and anvil. Any dwarf character recognizes the symbol immediately, while a non-dwarf recognizes it with a successful DC 10 Intelligence (Religion) check.  
-- An unlocked steel coffer weighing 5 pounds. This small box is packed with silt, nestled in which is a potion of superior healing. Give the players the Potion of Superior Healing [card](/3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Superior%20Healing) when they find this magic item or they can reference it in the Magic Items Listing.  
+- An unlocked steel coffer weighing 5 pounds. This small box is packed with silt, nestled in which is a [potion of superior healing](3-Mechanics/CLI/items/potion-of-superior-healing.md). Give the players the [Potion of Superior Healing](3-Mechanics/CLI/items/potion-of-superior-healing.md) [card](3-Mechanics/CLI/decks/magic-item-cards-dip.md#Potion%20of%20Superior%20Healing) when they find this magic item or they can reference it in the Magic Items Listing.  
 
 #### A20. Narrow Tunnel
 
@@ -193,7 +193,7 @@ The ghouls trashed this room, leaving behind wrecked cots, chairs, tables, and o
 
 This large chamber extends over the outer gauntlet of the main entrance (area A1) and contains many former defensive measures. Arrow slits to the north allow outside light to enter, filling the northern half of the room with sunlight or moonlight depending on the time of day or night.
 
-Thick webs are strung between the walls and pillars. Lurking among them are several [giant spiders](/3-Mechanics/CLI/bestiary/beast/giant-spider.md)—three spiders plus one additional spider for each character in the party, not including sidekicks. The spiders are spread throughout the southern half of the room and move to attack all interlopers.
+Thick webs are strung between the walls and pillars. Lurking among them are several giant spiders—three spiders plus one additional spider for each character in the party, not including sidekicks. The spiders are spread throughout the southern half of the room and move to attack all interlopers.
 
 Other defenses include two fireplaces, which were used to heat cauldrons full of oil that the dwarves poured through narrow slits in the floor. Three empty cauldrons are lined up along one of these slits. Arrow slits along the south wall open up onto area A4, and stone staircases descend to areas A2 and A3.
 
@@ -205,7 +205,7 @@ The room's other furnishings—cots, tables, chairs, and empty footlockers—are
 
 #### A24. Haunted Hall
 
-The [banshee](/3-Mechanics/CLI/bestiary/undead/banshee.md) haunts the east–west stretch of this L-shaped hall. The creature floats in the middle of the hall, outside the door to area A27. Describe it to the players as follows:
+The banshee haunts the east–west stretch of this L-shaped hall. The creature floats in the middle of the hall, outside the door to area A27. Describe it to the players as follows:
 
 > [!readaloud] 
 > 
@@ -222,7 +222,7 @@ The earthquake caused part of this empty hall to collapse. A double door in the 
 
 #### A26. Ghoul Bath
 
-Several [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md) gather here—a total of two ghouls plus one additional ghoul for each member of the party, not including sidekicks. The ghouls enter and leave the room through a 2-foot-diameter hole in the east wall, which breaks into the chimney of area A14.
+Several ghouls gather here—a total of two ghouls plus one additional ghoul for each member of the party, not including sidekicks. The ghouls enter and leave the room through a 2-foot-diameter hole in the east wall, which breaks into the chimney of area A14.
 
 In the middle of this room stands a carved stone tub filled with gnawed dwarven bones. The tub is equipped with a faucet which, when turned, spouts hot water channeled from a naturally heated underground spring. A stone plug seals the drain in the tub's bottom.
 
@@ -232,7 +232,7 @@ This bedroom was set aside for honored guests, but its furnishings have decayed 
 
 #### A28. Castellan's Bedchamber
 
-A stone-framed bed with a moldy mattress stands in the middle of this room, covered in dust and cobwebs. Set into the south wall is a soot-stained fireplace. [Stirges](/3-Mechanics/CLI/bestiary/beast/stirge.md) nest in the rubble-choked chimney—a total of one per party member (including sidekicks). The stirges attack anyone who pokes around in the fireplace.
+A stone-framed bed with a moldy mattress stands in the middle of this room, covered in dust and cobwebs. Set into the south wall is a soot-stained fireplace. Stirges nest in the rubble-choked chimney—a total of one per party member (including sidekicks). The stirges attack anyone who pokes around in the fireplace.
 
 ##### Secret Door
 
@@ -244,7 +244,7 @@ Against the south wall of this otherwise empty room rests a 80-pound iron chest 
 
 ##### Treasure
 
-The chest contains a dread helm and a pair of gauntlets of ogre power. Give the players the Dread Helm and Gauntlets of Ogre Power [cards](/3-Mechanics/CLI/decks/magic-item-cards-dip.md) when they find and identify these two magic items or they can reference them in the Magic Items Listing.
+The chest contains a dread helm and a pair of [gauntlets of ogre power](3-Mechanics/CLI/items/gauntlets-of-ogre-power.md). Give the players the Dread Helm and [Gauntlets of Ogre Power](3-Mechanics/CLI/items/gauntlets-of-ogre-power.md) [cards](3-Mechanics/CLI/decks/magic-item-cards-dip.md) when they find and identify these two magic items or they can reference them in the Magic Items Listing.
 
 #### A30. Privies
 

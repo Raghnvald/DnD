@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/egw
 aliases:
-- Character Options
+- "Character Options"
 ---
 # Character Options
 *Source: Explorer's Guide to Wildemount, p. 161* 
 
-![Wizards who master the art...](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/082-04-01.webp#center "Wizards who master the art of dunamancy have infinite worlds and possibilities at their fingertips")
+![Wizards who master the art of dunamancy have infinite worlds and possibilities at their fingertips](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/082-04-01.webp#center)
 
 > [!quote] A quote from Sunbreaker Olomon  
 > 
@@ -98,8 +98,8 @@ Elves who live outside the Luxon's cycle of rebirth are viewed with pity, for th
 
 At the DM's discretion, players have access to the pallid elf and sea elf subraces described below, in addition to the elf subraces in the "Player's Handbook".
 
-- [Elf (Pallid)](/3-Mechanics/CLI/races/elf-pallid-egw.md)  
-- [Elf (Sea)](/3-Mechanics/CLI/races/sea-elf-mpmm.md)  
+- [Elf (Pallid)](3-Mechanics/CLI/races/elf-pallid-egw.md)  
+- [Elf (Sea)](3-Mechanics/CLI/races/elf-sea-mtf.md)  
 
 ## Halflings
 
@@ -125,7 +125,7 @@ Few Xhorhasians have ever seen a halfling except for the occasional halfling sol
 
 ### Halfling Subraces
 
-At the DM's discretion, players have access to the [Lotusden halfling](/3-Mechanics/CLI/races/halfling-lotusden-egw.md) subrace, in addition to the halfling subraces in the "Player's Handbook".
+At the DM's discretion, players have access to the [Lotusden halfling](3-Mechanics/CLI/races/halfling-lotusden-egw.md) subrace, in addition to the halfling subraces in the "Player's Handbook".
 
 ## Humans
 
@@ -149,7 +149,7 @@ Humans are rare in Xhorhas, and those found within that land typically belong to
 
 ## Aarakocra
 
-Many people across Wildemount consider the winged [aarakocra](/3-Mechanics/CLI/races/aarakocra-mpmm.md) to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of Wildemount, though some take great pleasure in traveling on the open ocean with Concord sailors and Revelry pirates. Some legends say that Melora the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called *h'aara-shie*, or "cloud chasing," that reflects this ancient tale.
+Many people across Wildemount consider the winged [aarakocra](3-Mechanics/CLI/races/aarakocra-eepc.md) to be a myth, so infrequently do they descend from their lofty aeries to deal with wingless folk. Where they are known, the aarakocra rarely engage with the land-bound societies of Wildemount, though some take great pleasure in traveling on the open ocean with Concord sailors and Revelry pirates. Some legends say that Melora the Wild Mother created the aarakocra as storm herders who drive the clouds across the sky, and some aarakocra tribes play a sport called *h'aara-shie*, or "cloud chasing," that reflects this ancient tale.
 
 ### Aarakocra in the Dwendalian Empire
 
@@ -183,9 +183,9 @@ Those in the Kryn Dynasty who study dunamancy see aasimar as brimming with near-
 
 ### Aasimar Traits
 
-- [Aasimar (Protector)](/3-Mechanics/CLI/races/aasimar-xphb.md)  
-- [Aasimar (Scourge)](/3-Mechanics/CLI/races/aasimar-xphb.md)  
-- [Aasimar (Fallen)](/3-Mechanics/CLI/races/aasimar-xphb.md)  
+- [Aasimar (Protector)](3-Mechanics/CLI/races/aasimar-protector-vgm.md)  
+- [Aasimar (Scourge)](3-Mechanics/CLI/races/aasimar-scourge-vgm.md)  
+- [Aasimar (Fallen)](3-Mechanics/CLI/races/aasimar-fallen-vgm.md)  
 
 ## Dragonborn
 
@@ -197,8 +197,8 @@ Twenty years ago, Draconia was destroyed by the ire of the mighty Chroma Conclav
 
 You can allow a player to choose one of the following dragonborn variants.
 
-- [Dragonborn (Draconblood)](/3-Mechanics/CLI/races/dragonborn-draconblood-egw.md)  
-- [Dragonborn (Ravenite)](/3-Mechanics/CLI/races/dragonborn-ravenite-egw.md)  
+- [Dragonborn (Draconblood)](3-Mechanics/CLI/races/dragonborn-draconblood-egw.md)  
+- [Dragonborn (Ravenite)](3-Mechanics/CLI/races/dragonborn-ravenite-egw.md)  
 
 ### Dragonborn in the Dwendalian Empire
 
@@ -218,7 +218,7 @@ Countless draconbloods fled into the wastes of Xhorhas in search of asylum, and 
 
 ## Firbolgs
 
-[Firbolgs](/3-Mechanics/CLI/races/firbolg-mpmm.md) are a forest-dwelling race native to the Greying Wildlands, particularly the mysterious Savalirwood. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
+[Firbolgs](3-Mechanics/CLI/races/firbolg-vgm.md) are a forest-dwelling race native to the Greying Wildlands, particularly the mysterious Savalirwood. Their bodies are covered with thick fur ranging from tones of earthen brown and ruddy red to cool grays and blues, and even to wild hues of pink and green. Their bodies are bovine or camelid in appearance, with floppy, pointed ears and broad, pink noses, but they are bipedal and have hands that can manipulate weapons and objects.
 
 Most firbolgs live in extended family units, and it is unusual to find one living alone. However, they are introverted to the point where they seldom engage with other firbolgs outside the family unit, and firbolgs rarely form their own cities, villages, or even large tribes. Despite this, many firbolgs enjoy visiting other nations' settlements for a short time for trade, sightseeing, and to visit friends.
 
@@ -274,10 +274,10 @@ The Kryn know little about the genasi and are eager to rectify that. Their scout
 
 A genasi character has the following racial traits.
 
-- [Genasi (Air)](/3-Mechanics/CLI/races/genasi-air-mpmm.md)  
-- [Genasi (Earth)](/3-Mechanics/CLI/races/genasi-earth-mpmm.md)  
-- [Genasi (Fire)](/3-Mechanics/CLI/races/genasi-fire-mpmm.md)  
-- [Genasi (Water)](/3-Mechanics/CLI/races/genasi-water-mpmm.md)  
+- [Genasi (Air)](3-Mechanics/CLI/races/genasi-air-eepc.md)  
+- [Genasi (Earth)](3-Mechanics/CLI/races/genasi-earth-eepc.md)  
+- [Genasi (Fire)](3-Mechanics/CLI/races/genasi-fire-eepc.md)  
+- [Genasi (Water)](3-Mechanics/CLI/races/genasi-water-eepc.md)  
 
 ## Gnomes
 
@@ -323,7 +323,7 @@ People living along the northern Menagerie Coast, in cities such as Gwardan, hav
 > 
 > The term "goblinkin" refers to three types of related peoples: goblins, hobgoblins, and bugbears. All three are affected by Bane's curse of strife, allowing his foul voice to prey upon their minds from beyond the Divine Gate. Goblinkin who manage to overcome Bane's curse are freed from the compulsion that leads them to evil. Unless the goblinkin was freed near birth, however, they have likely internalized their bias toward law, chaos, or neutrality, and might retain that aspect of their alignment even after the curse is broken.
 > 
-> It is nearly impossible for a goblinkin to break Bane's curse on their own. Only those who undergo particularly traumatic events or are shown exceptional compassion typically find the inner strength to do so. Whenever a goblinkin returns to consciousness after being reduced to 0 hit points, they can make a DC 20 Wisdom saving throw, with advantage if they were brought back to life. On a success, the goblinkin breaks free from the curse of strife. A goblinkin targeted by [remove curse](/3-Mechanics/CLI/spells/remove-curse-xphb.md) can also make this saving throw, with advantage on the save if the caster is a trusted companion.
+> It is nearly impossible for a goblinkin to break Bane's curse on their own. Only those who undergo particularly traumatic events or are shown exceptional compassion typically find the inner strength to do so. Whenever a goblinkin returns to consciousness after being reduced to 0 hit points, they can make a DC 20 Wisdom saving throw, with advantage if they were brought back to life. On a success, the goblinkin breaks free from the curse of strife. A goblinkin targeted by remove curse can also make this saving throw, with advantage on the save if the caster is a trusted companion.
 > 
 > Many bugbears are cleansed of the curse from birth by a druidic order of bugbears who managed to break free from Bane's influence decades ago. These bugbears never develop a chaotic, isolationist nature, and readily band together with druids and other defenders of the wilderness.
 > 
@@ -332,31 +332,31 @@ People living along the northern Menagerie Coast, in cities such as Gwardan, hav
 
 ### Goblinkin in Xhorhas
 
-Goblins, hobgoblins, and bugbears are a common sight in Xhorhas, especially around Rosohna—for it was here that Bane first created the goblinkin from the noble dranassar. The people of the Kryn Dynasty have made efforts to forge close ties with the goblinkin who have made their home in the region, and have even managed to subvert the curse of strife by the power of the Luxon. Any creature reborn into a goblinkin body is born without the curse, and any natural-born goblin born within one hundred miles of a [Luxon beacon](/3-Mechanics/CLI/items/luxon-beacon-egw.md) is likewise shielded from Bane's seed of corruption.
+Goblins, hobgoblins, and bugbears are a common sight in Xhorhas, especially around Rosohna—for it was here that Bane first created the goblinkin from the noble dranassar. The people of the Kryn Dynasty have made efforts to forge close ties with the goblinkin who have made their home in the region, and have even managed to subvert the curse of strife by the power of the Luxon. Any creature reborn into a goblinkin body is born without the curse, and any natural-born goblin born within one hundred miles of a [Luxon beacon](3-Mechanics/CLI/items/luxon-beacon-egw.md) is likewise shielded from Bane's seed of corruption.
 
 ### Bugbear Racial Traits
 
-[Bugbear](/3-Mechanics/CLI/races/bugbear-mpmm.md)
+[Bugbear](3-Mechanics/CLI/races/bugbear-vgm.md)
 
 ### Goblin Racial Traits
 
-[Goblin](/3-Mechanics/CLI/races/goblin-mpmm.md)
+[Goblin](3-Mechanics/CLI/races/goblin-vgm.md)
 
 ### Hobgoblin Racial Traits
 
-[Hobgoblin](/3-Mechanics/CLI/races/hobgoblin-mpmm.md)
+[Hobgoblin](3-Mechanics/CLI/races/hobgoblin-vgm.md)
 
 A hobgoblin character has the following racial traits.
 
 ## Goliaths
 
-The [goliaths](/3-Mechanics/CLI/races/goliath-xphb.md) of Exandria are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in Wildemount. Most live on isolated peaks in the Cyrios Mountains, the Penumbra Range, and on the isolated land of Eiselcross. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
+The [goliaths](3-Mechanics/CLI/races/goliath-vgm.md) of Exandria are a mighty people with stone giant blood running in their veins. Most stand well over seven feet tall and are blessed with a naturally powerful physique. Like their stone giant progenitors, goliaths are a rare sight in Wildemount. Most live on isolated peaks in the Cyrios Mountains, the Penumbra Range, and on the isolated land of Eiselcross. Those few goliaths who are exiled from their herds and wander into more densely peopled lands are uniformly greeted with fear and confusion.
 
 Goliaths have a compulsion to compete and keep score, counting their deeds and tallying their accomplishments to compare to others. Goliaths love to win, but they see defeat as a prod to improve their skills. Above all else, they are driven to outdo their past efforts. Few goliaths reach old age, as most die attempting to surpass their past achievements.
 
 Among goliaths, any adult who can't or won't contribute to the herd is expelled. A lone goliath has little chance of survival, especially an older or weaker one. Goliaths have little pity for adults who can't take care of themselves, though a sick or injured individual is treated, as a result of the goliath concept of fair play.
 
-![Goliaths](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/091-04-10.webp#center)
+![Goliaths](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/091-04-10.webp#center)
 
 ## Half-Elves
 
@@ -376,7 +376,7 @@ Half-elves of all different ancestries dwell within the lands of the Kryn, with 
 
 ## Kenku
 
-In ancient times, [kenku](/3-Mechanics/CLI/races/kenku-mpmm.md) were black-winged angels—ambassadors who served the Raven Queen as her emissaries of death. Their voices were once heard across entire planes, calling the dead to the Raven Queen's embrace. The kenku likewise served as her loyal warriors in the Calamity, and even saved her from a near-fatal encounter with the Betrayer God known as Tharizdun.
+In ancient times, [kenku](3-Mechanics/CLI/races/kenku-vgm.md) were black-winged angels—ambassadors who served the Raven Queen as her emissaries of death. Their voices were once heard across entire planes, calling the dead to the Raven Queen's embrace. The kenku likewise served as her loyal warriors in the Calamity, and even saved her from a near-fatal encounter with the Betrayer God known as Tharizdun.
 
 Though the kenku saved the Raven Queen from oblivion, all of her black-winged emissaries were consumed by Tharizdun's infinite void. For long years, the kenku were thought to have been annihilated, and it was only when Tharizdun was defeated and chained by the god Ioun near the Calamity's end that they were freed.
 
@@ -412,17 +412,17 @@ Most half-orcs in Xhorhas have human or drow blood. In the culture of the Xhorha
 
 ### Orc Traits
 
-Exandrian orcs are not bound to commit acts of evil by nature. See the races page for the racial traits of an [orc](/3-Mechanics/CLI/races/orc-xphb.md) character.
+Exandrian orcs are not bound to commit acts of evil by nature. See the races page for the racial traits of an [orc](3-Mechanics/CLI/races/orc-egw.md) character.
 
 ## Tabaxi
 
-The catlike [tabaxi](/3-Mechanics/CLI/races/tabaxi-mpmm.md) are an agile, witty, and playful folk who have long lived among the indigenous Ki'Nau people of the Menagerie Coast and in the cold northern forests of the Greying Wildlands. Said to have been born from the dreams of Melora within the jungles of Wildemount's more temperate regions, they are natural hunters with keen senses and predatory instincts. The tabaxi of Exandria are also well known for their social guile. Many are taken with a love of wordplay and debate, often engaging travelers in philosophical conversations meant to challenge the intellect and to subtly gauge the disposition of strangers.
+The catlike [tabaxi](3-Mechanics/CLI/races/tabaxi-vgm.md) are an agile, witty, and playful folk who have long lived among the indigenous Ki'Nau people of the Menagerie Coast and in the cold northern forests of the Greying Wildlands. Said to have been born from the dreams of Melora within the jungles of Wildemount's more temperate regions, they are natural hunters with keen senses and predatory instincts. The tabaxi of Exandria are also well known for their social guile. Many are taken with a love of wordplay and debate, often engaging travelers in philosophical conversations meant to challenge the intellect and to subtly gauge the disposition of strangers.
 
 Tabaxi can be found in small numbers throughout Wildemount and are generally well thought of. Some make up small clans in the wilderness beyond the boundaries of Wildemount's major societies. Others are content to stand out among the other folk of those larger nations. Deft at crafts, hunting, and commercial enterprises, many tabaxi find themselves drawn toward an entrepreneurial existence, while some fall naturally into the more dangerous pursuits of an adventurer's lifestyle.
 
 Politics hold a conversational curiosity for some, but only a few tabaxi are driven enough to ascend to positions of political power, most commonly along the Menagerie Coast. Even so, most catfolk are happier away from the limelight, slyly convincing others to visibly take the risks for them.
 
-![Tabaxi](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/093-04-12.webp#center)
+![Tabaxi](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/093-04-12.webp#center)
 
 ## Tieflings
 
@@ -432,7 +432,7 @@ Exandrian tieflings have a wide array of skin tones, all of them vibrant and col
 
 ### Tieflings in the Dwendalian Empire
 
-![Tiefling](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/094-04-13.webp#center)
+![Tiefling](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/094-04-13.webp#center)
 
 Most imperial tieflings live in the cities of the empire or in small communes in the countryside. Many are encouraged by their parents to join the Crownsguard or the Righteous Brand to valiantly serve the empire, and a direct connection can be drawn between the tieflings' ancient persecution and their focus on military service. Centuries ago, countless tieflings joined the armies of the Julous Dominion in hopes of winning glory and proving themselves the equals of their oppressors. Over time, many found acceptance in the eyes of the Julous people and its government, eventually becoming hardline loyalists of the Julous Dominion. Their spirits were thus crushed when the dominion fell to the mighty armies of the invading Dwendalian Empire.
 
@@ -448,7 +448,7 @@ Some legends talk of how the first tieflings were born in Ghor Dranas. Asmodeus,
 
 ## Tortles
 
-For centuries, the people of Xhorhas and the Dwendalian Empire believed [tortles](/3-Mechanics/CLI/races/tortle-mpmm.md) to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.
+For centuries, the people of Xhorhas and the Dwendalian Empire believed [tortles](3-Mechanics/CLI/races/tortle-ttp.md) to be a hoax concocted by Concordian hucksters. In truth, tortles are an ancient and long-lived people who dwell within the jungles and along the beaches of the Menagerie Coast. Most tortles who journey far from the coast begin to feel pangs of homesickness, which can develop into a depression.
 
 Tortles are almost unheard of beyond the sunny shores of the Menagerie Coast.
 
@@ -456,7 +456,7 @@ Tortles are almost unheard of beyond the sunny shores of the Menagerie Coast.
 
 The eastern coast of Xhorhas, known to the Kryn as Blightshore, is a land scarred by evil magic. Among the creations of that foul place are the Hollow Ones, beings whose souls have left for the afterlife, yet whose bodies still retain a fragment of their former selves.
 
-![Hollow One](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/096-04-15.webp#center)
+![Hollow One](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/096-04-15.webp#center)
 
 The magic that sustains Hollow Ones is a mystery. Most Hollow Ones are reborn after dying in Blightshore, suggesting that the spell-scarred nature of the land brought them back for an unknown purpose. Yet some beings find that, days after they died, they awaken, clutching to life, with only a terrible emptiness inside to remind them of their death.
 
@@ -496,7 +496,7 @@ The fighter takes many forms in Wildemount, from the grizzled mercenary who earn
 
 At 3rd level, a fighter gains the Martial Archetype class feature described in the "Player's Handbook". The Echo Knight is a new option for that feature.
 
-![Echo Knight](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/097-04-16.webp#center)
+![Echo Knight](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/097-04-16.webp#center)
 
 ### Wizard
 
@@ -505,8 +505,8 @@ The brightest minds of Wildemount often find themselves gravitating to the ancie
 At 2nd level, a wizard gains the Arcane Tradition class feature described in the "Player's Handbook". Chronurgy Magic and Graviturgy Magic are two new traditions available to wizards.
 
 > [!gallery]
-> ![Chronurgy Wizard](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/098-04-17.webp#gallery)
-> ![Graviturgy Wizard](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/099-04-18.webp#gallery)
+> ![Chronurgy Wizard](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/098-04-17.webp#gallery)
+> ![Graviturgy Wizard](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/099-04-18.webp#gallery)
 
 ### Dunamancy Spells
 
@@ -514,26 +514,26 @@ This section presents a sampling of spells developed through the manipulation of
 
 #### Dunamancy Spell List
 
-- **Cantrips.** [sapping sting](/3-Mechanics/CLI/spells/sapping-sting-egw.md) (necromancy)  
-- **Level 1.** [gift of alacrity](/3-Mechanics/CLI/spells/gift-of-alacrity-egw.md)* (divination)  
+- **Cantrips.** [sapping sting](3-Mechanics/CLI/spells/sapping-sting-egw.md) (necromancy)  
+- **Level 1.** [gift of alacrity](3-Mechanics/CLI/spells/gift-of-alacrity-egw.md)* (divination)  
 
-    [magnify gravity](/3-Mechanics/CLI/spells/magnify-gravity-egw.md)** (transmutation)  
-- **Level 2.** [fortune's favor](/3-Mechanics/CLI/spells/fortunes-favor-egw.md) (divination)  
+    [magnify gravity](3-Mechanics/CLI/spells/magnify-gravity-egw.md)** (transmutation)  
+- **Level 2.** [fortune's favor](3-Mechanics/CLI/spells/fortunes-favor-egw.md) (divination)  
 
-    [immovable object](/3-Mechanics/CLI/spells/immovable-object-egw.md)** (transmutation)  
+    [immovable object](3-Mechanics/CLI/spells/immovable-object-egw.md)** (transmutation)  
 
-    [Wristpocket](/3-Mechanics/CLI/spells/wristpocket-egw.md) (conjuration, ritual)  
-- **Level 3.** [pulse wave](/3-Mechanics/CLI/spells/pulse-wave-egw.md) (evocation)  
-- **Level 4.** [gravity sinkhole](/3-Mechanics/CLI/spells/gravity-sinkhole-egw.md)** (evocation)  
-- **Level 5.** [temporal shunt](/3-Mechanics/CLI/spells/temporal-shunt-egw.md)* (transmutation)  
-- **Level 6.** [gravity fissure](/3-Mechanics/CLI/spells/gravity-fissure-egw.md)** (evocation)  
-- **Level 7.** [tether essence](/3-Mechanics/CLI/spells/tether-essence-egw.md) (necromancy)  
-- **Level 8.** [dark star](/3-Mechanics/CLI/spells/dark-star-egw.md)** (evocation)  
+    [Wristpocket](3-Mechanics/CLI/spells/wristpocket-egw.md) (conjuration, ritual)  
+- **Level 3.** [pulse wave](3-Mechanics/CLI/spells/pulse-wave-egw.md) (evocation)  
+- **Level 4.** [gravity sinkhole](3-Mechanics/CLI/spells/gravity-sinkhole-egw.md)** (evocation)  
+- **Level 5.** [temporal shunt](3-Mechanics/CLI/spells/temporal-shunt-egw.md)* (transmutation)  
+- **Level 6.** [gravity fissure](3-Mechanics/CLI/spells/gravity-fissure-egw.md)** (evocation)  
+- **Level 7.** [tether essence](3-Mechanics/CLI/spells/tether-essence-egw.md) (necromancy)  
+- **Level 8.** [dark star](3-Mechanics/CLI/spells/dark-star-egw.md)** (evocation)  
 
-    [reality break](/3-Mechanics/CLI/spells/reality-break-egw.md)* (conjuration)  
-- **Level 9.** [ravenous void](/3-Mechanics/CLI/spells/ravenous-void-egw.md)** (evocation)  
+    [reality break](3-Mechanics/CLI/spells/reality-break-egw.md)* (conjuration)  
+- **Level 9.** [ravenous void](3-Mechanics/CLI/spells/ravenous-void-egw.md)** (evocation)  
 
-    [time ravage](/3-Mechanics/CLI/spells/time-ravage-egw.md)* (necromancy)  
+    [time ravage](3-Mechanics/CLI/spells/time-ravage-egw.md)* (necromancy)  
 
 * Chronurgy spell
 
@@ -550,21 +550,21 @@ This section presents a sampling of spells developed through the manipulation of
 
 The spells are presented in alphabetical order.
 
-- [Dark Star](/3-Mechanics/CLI/spells/dark-star-egw.md)  
-- [Fortune's Favor](/3-Mechanics/CLI/spells/fortunes-favor-egw.md)  
-- [Gift of Alacrity](/3-Mechanics/CLI/spells/gift-of-alacrity-egw.md)  
-- [Gravity Fissure](/3-Mechanics/CLI/spells/gravity-fissure-egw.md)  
-- [Gravity Sinkhole](/3-Mechanics/CLI/spells/gravity-sinkhole-egw.md)  
-- [Immovable Object](/3-Mechanics/CLI/spells/immovable-object-egw.md)  
-- [Magnify Gravity](/3-Mechanics/CLI/spells/magnify-gravity-egw.md)  
-- [Pulse Wave](/3-Mechanics/CLI/spells/pulse-wave-egw.md)  
-- [Ravenous Void](/3-Mechanics/CLI/spells/ravenous-void-egw.md)  
-- [Reality Break](/3-Mechanics/CLI/spells/reality-break-egw.md)  
-- [Sapping Sting](/3-Mechanics/CLI/spells/sapping-sting-egw.md)  
-- [Temporal Shunt](/3-Mechanics/CLI/spells/temporal-shunt-egw.md)  
-- [Tether Essence](/3-Mechanics/CLI/spells/tether-essence-egw.md)  
-- [Time Ravage](/3-Mechanics/CLI/spells/time-ravage-egw.md)  
-- [Wristpocket](/3-Mechanics/CLI/spells/wristpocket-egw.md)  
+- [Dark Star](3-Mechanics/CLI/spells/dark-star-egw.md)  
+- [Fortune's Favor](3-Mechanics/CLI/spells/fortunes-favor-egw.md)  
+- [Gift of Alacrity](3-Mechanics/CLI/spells/gift-of-alacrity-egw.md)  
+- [Gravity Fissure](3-Mechanics/CLI/spells/gravity-fissure-egw.md)  
+- [Gravity Sinkhole](3-Mechanics/CLI/spells/gravity-sinkhole-egw.md)  
+- [Immovable Object](3-Mechanics/CLI/spells/immovable-object-egw.md)  
+- [Magnify Gravity](3-Mechanics/CLI/spells/magnify-gravity-egw.md)  
+- [Pulse Wave](3-Mechanics/CLI/spells/pulse-wave-egw.md)  
+- [Ravenous Void](3-Mechanics/CLI/spells/ravenous-void-egw.md)  
+- [Reality Break](3-Mechanics/CLI/spells/reality-break-egw.md)  
+- [Sapping Sting](3-Mechanics/CLI/spells/sapping-sting-egw.md)  
+- [Temporal Shunt](3-Mechanics/CLI/spells/temporal-shunt-egw.md)  
+- [Tether Essence](3-Mechanics/CLI/spells/tether-essence-egw.md)  
+- [Time Ravage](3-Mechanics/CLI/spells/time-ravage-egw.md)  
+- [Wristpocket](3-Mechanics/CLI/spells/wristpocket-egw.md)  
 
 ### Heroic Chronicle
 
@@ -576,7 +576,7 @@ The "Prophecy" section of the chronicle sets out three aspirations or goals that
 
 Dungeon Masters can also use the heroic chronicle process to generate villains with histories and motivations grounded in the dangerous lands of Wildemount.
 
-![Heroic Chronicle; Social Status Relationships](/3-Mechanics/CLI/tables/heroic-chronicle-social-status-relationships-egw.md)
+![Heroic Chronicle; Social Status Relationships](3-Mechanics/CLI/tables/heroic-chronicle-social-status-relationships-egw.md)
 
 #### Backstory
 
@@ -586,15 +586,15 @@ A character's story begins with determining the region where they were born, the
 
 The known lands of Wildemount are divided into four major geographic regions, each of which is described in "chapter 3". From west to east, these regions are the Menagerie Coast, Western Wynandir (which is further divided into the Marrow Valley and the Zemni Fields), the Greying Wildlands, and Eastern Wynandir. The northernmost reaches of the continent—the forgotten lands of Eiselcross—are not included in this section.
 
-Roll a `dice:d100|noform|noparens|avg` (`d100`) and consult the Homelands table to determine which region you were born in. If you were born in one region but grew up in another, roll twice on the table to determine your place of birth and the region you eventually settled in.
+Roll a `d100` and consult the Homelands table to determine which region you were born in. If you were born in one region but grew up in another, roll twice on the table to determine your place of birth and the region you eventually settled in.
 
-![Backstory; Homelands](/3-Mechanics/CLI/tables/backstory-homelands-egw.md)
+![Backstory; Homelands](3-Mechanics/CLI/tables/backstory-homelands-egw.md)
 
 ##### Background
 
 In addition to granting you items, gold, and proficiencies, your background gives you a sense of belonging in the world. You can roll on the Backgrounds table to randomly determine your character's background, or you can choose one that fits your character concept. This table includes new backgrounds and adapted backgrounds from this book (EGW) as well as the backgrounds from the "Player's Handbook" (PH). New and adapted backgrounds are described later in this chapter.
 
-![Backstory; Backgrounds](/3-Mechanics/CLI/tables/backstory-backgrounds-egw.md)
+![Backstory; Backgrounds](3-Mechanics/CLI/tables/backstory-backgrounds-egw.md)
 
 ##### Social Status
 
@@ -604,7 +604,7 @@ You, however, are an adventurer. Though your social status is determined by your
 
 Each nation in Wildemount views people's backgrounds according to its cultural values. Based on your character's background, think about your social status within the context of the details of your homeland presented below. Then use the Social Status Relationships table to determine how many allies and rivals you'll roll for later on in this section.
 
-![](/3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/102-04-21.webp#center)
+![](3-Mechanics/CLI/books/explorers-guide-to-wildemount/img/102-04-21.webp#center)
 
 ###### Menagerie Coast
 
@@ -636,19 +636,19 @@ Once you've determined your nation and considered your social status within that
 
 Each home settlement is detailed in "chapter 3". If your home settlement doesn't make sense for your social status, you can either roll for a different settlement or think about ways to make a contradiction work for your backstory. For example, if you have the Noble background but rolled a village as a home settlement, perhaps you were raised there to protect you from your family's enemies.
 
-![Backstory; Menagerie Coast Settlements](/3-Mechanics/CLI/tables/backstory-menagerie-coast-settlements-egw.md)
+![Backstory; Menagerie Coast Settlements](3-Mechanics/CLI/tables/backstory-menagerie-coast-settlements-egw.md)
 
-![Backstory; Marrow Valley Settlements](/3-Mechanics/CLI/tables/backstory-marrow-valley-settlements-egw.md)
+![Backstory; Marrow Valley Settlements](3-Mechanics/CLI/tables/backstory-marrow-valley-settlements-egw.md)
 
-![Backstory; Zemni Fields Settlements](/3-Mechanics/CLI/tables/backstory-zemni-fields-settlements-egw.md)
+![Backstory; Zemni Fields Settlements](3-Mechanics/CLI/tables/backstory-zemni-fields-settlements-egw.md)
 
-![Backstory; Greying Wildlands Settlements](/3-Mechanics/CLI/tables/backstory-greying-wildlands-settlements-egw.md)
+![Backstory; Greying Wildlands Settlements](3-Mechanics/CLI/tables/backstory-greying-wildlands-settlements-egw.md)
 
-![Backstory; Eastern Wynandir Settlements](/3-Mechanics/CLI/tables/backstory-eastern-wynandir-settlements-egw.md)
+![Backstory; Eastern Wynandir Settlements](3-Mechanics/CLI/tables/backstory-eastern-wynandir-settlements-egw.md)
 
 ##### Race
 
-You can determine your character's race by consulting the section for your home settlement in "chapter 3". Each settlement's description includes a percentile breakdown of its racial demographics. You can roll a `dice:d100|noform|noparens|avg` (`d100`) to determine your character's race, or simply choose whichever race you wish to play. If your roll indicates "other races," you can choose any race that isn't already represented in the settlement's demographics.
+You can determine your character's race by consulting the section for your home settlement in "chapter 3". Each settlement's description includes a percentile breakdown of its racial demographics. You can roll a `d100` to determine your character's race, or simply choose whichever race you wish to play. If your roll indicates "other races," you can choose any race that isn't already represented in the settlement's demographics.
 
 ##### Family
 
@@ -658,9 +658,9 @@ Families with at least three children often encourage one child, typically the e
 
 Roll twice on the appropriate Family Size table—once to determine how many living parents you have, and once to determine your living siblings. The state of your family might change over the course of your backstory, just as it might change over the course of the campaign.
 
-![Backstory; Family Size (Village)](/3-Mechanics/CLI/tables/backstory-family-size-village-egw.md)
+![Backstory; Family Size (Village)](3-Mechanics/CLI/tables/backstory-family-size-village-egw.md)
 
-![Backstory; Family Size (City)](/3-Mechanics/CLI/tables/backstory-family-size-city-egw.md)
+![Backstory; Family Size (City)](3-Mechanics/CLI/tables/backstory-family-size-city-egw.md)
 
 ##### Parents
 
@@ -678,11 +678,11 @@ Once you've determined the size of your family, choose the gender and age of eac
 
 Even before your adventuring career began, you had allies who supported you and rivals who sought to thwart your success. In some cases, your allies might be so devoted that they are indispensable companions, while your rivals are hateful enough to make them nothing short of mortal enemies.
 
-Your first allies and rivals are your family. Sometimes your family members are your closest friends. Sometimes you hate their guts. Roll a `dice:d3|noform|noparens|avg` (`d3`). This is the number of powerful relationships you have within your family.
+Your first allies and rivals are your family. Sometimes your family members are your closest friends. Sometimes you hate their guts. Roll a `d3`. This is the number of powerful relationships you have within your family.
 
 Roll once on the Family Relationships table for each powerful relationship you have within your family, to determine the setup of your friendship or rivalry.
 
-![Backstory; Family Relationships](/3-Mechanics/CLI/tables/backstory-family-relationships-egw.md)
+![Backstory; Family Relationships](3-Mechanics/CLI/tables/backstory-family-relationships-egw.md)
 
 ##### Acquired Allies and Rivals
 
@@ -692,15 +692,15 @@ When you've determined the relationships between you and your acquired allies an
 
 If you roll a particularly powerful ally or rival on this table, their involvement in your life causes a fateful moment to occur in your backstory, as determined in the next section.
 
-![Backstory; Ally Relationships](/3-Mechanics/CLI/tables/backstory-ally-relationships-egw.md)
+![Backstory; Ally Relationships](3-Mechanics/CLI/tables/backstory-ally-relationships-egw.md)
 
-![Backstory; Rival Relationships](/3-Mechanics/CLI/tables/backstory-rival-relationships-egw.md)
+![Backstory; Rival Relationships](3-Mechanics/CLI/tables/backstory-rival-relationships-egw.md)
 
 ##### Secret Identities
 
 Some of these allies and rivals might keep their true identity secret from your character. The DM can decide to make one or more of the rolls on the Ally and Rival Identities table to keep the secret intact. Stat blocks appear in either appendix B of the "Monster Manual" (MM) or "chapter 7" of this book (EGW).
 
-![Backstory; Ally and Rival Identities](/3-Mechanics/CLI/tables/backstory-ally-and-rival-identities-egw.md)
+![Backstory; Ally and Rival Identities](3-Mechanics/CLI/tables/backstory-ally-and-rival-identities-egw.md)
 
 ##### Fateful Moments
 
@@ -710,7 +710,7 @@ Fateful moments are the turning points in your character's life. The weight of t
 
 If a fateful moment grants you a proficiency that you already had, choose any proficiency of the same type (armor, skill, language, tool, or weapon). If a fateful moment doesn't make sense for your character (for example, if your siblings perished but you don't have any siblings), roll a new event or work with your DM to change up the details. You can also forego rolling for fateful moments entirely, instead working with your DM to create moments specifically attuned to your character's story.
 
-![Backstory; Fateful Moments](/3-Mechanics/CLI/tables/backstory-fateful-moments-egw.md)
+![Backstory; Fateful Moments](3-Mechanics/CLI/tables/backstory-fateful-moments-egw.md)
 
 ##### Favorite Food
 
@@ -740,19 +740,19 @@ Much of the territory of Xhorhas is wasteland, and the most edible plants in Eas
 
 The luxurious cuisine of the Kryn court makes heavy use of mushrooms and rare meats found only in the dangerous caverns of the Underdark. The aboveground regions of Xhorhas are known for their fiery plum spirits, whereas working-class drow traditionally drink an earthy, mushroom-based beer.
 
-![Backstory; Favorite Foods (Menagerie Coast)](/3-Mechanics/CLI/tables/backstory-favorite-foods-menagerie-coast-egw.md)
+![Backstory; Favorite Foods (Menagerie Coast)](3-Mechanics/CLI/tables/backstory-favorite-foods-menagerie-coast-egw.md)
 
-![Backstory; Favorite Foods (Western Wynandir)](/3-Mechanics/CLI/tables/backstory-favorite-foods-western-wynandir-egw.md)
+![Backstory; Favorite Foods (Western Wynandir)](3-Mechanics/CLI/tables/backstory-favorite-foods-western-wynandir-egw.md)
 
-![Backstory; Favorite Foods (Greying Wildlands)](/3-Mechanics/CLI/tables/backstory-favorite-foods-greying-wildlands-egw.md)
+![Backstory; Favorite Foods (Greying Wildlands)](3-Mechanics/CLI/tables/backstory-favorite-foods-greying-wildlands-egw.md)
 
-![Backstory; Favorite Foods (Eastern Wynandir)](/3-Mechanics/CLI/tables/backstory-favorite-foods-eastern-wynandir-egw.md)
+![Backstory; Favorite Foods (Eastern Wynandir)](3-Mechanics/CLI/tables/backstory-favorite-foods-eastern-wynandir-egw.md)
 
 ##### Mysterious Secret
 
 You saw something you weren't supposed to. A note came into your possession by mysterious means. A childhood friend spoke to you of a cryptic message. Whatever its source, a secret has haunted you your entire life. What is it? You can roll on the Mysterious Secrets table or work with your DM to create a secret.
 
-![Backstory; Mysterious Secrets](/3-Mechanics/CLI/tables/backstory-mysterious-secrets-egw.md)
+![Backstory; Mysterious Secrets](3-Mechanics/CLI/tables/backstory-mysterious-secrets-egw.md)
 
 #### Prophecy
 
@@ -768,7 +768,7 @@ Each time you complete a prophecy goal, your character gains a mechanical benefi
 
 If you're looking for prophecy goals for your character, you can roll on the Prophecy Inspirations table for a random goal and a consequence of that goal. If this goal isn't a perfect fit for your character, you can fine-tune it or roll again to find one that works better.
 
-![Prophecy Inspirations](/3-Mechanics/CLI/tables/prophecy-inspirations-egw.md)
+![Prophecy Inspirations](3-Mechanics/CLI/tables/prophecy-inspirations-egw.md)
 
 ##### For the Dungeon Master
 
@@ -780,22 +780,22 @@ If the characters are completing their goals too quickly, remember that it's mor
 
 Each time a character completes one of their three prophecy goals, they gain a reward of the DM's determination. Any of the following rewards are suitable for completing a goal, or the DM might decide on unique rewards of the same general level:
 
-- For the next `dice:1d10|noform|noparens|avg` (`1d10`) days, the character gains inspiration whenever they finish a long rest.  
-- For the next `dice:1d10|noform|noparens|avg` (`1d10`) days, the character has advantage on saving throws to avoid being [frightened](/3-Mechanics/CLI/conditions.md#Frightened).  
-- For the next `dice:1d4|noform|noparens|avg` (`1d4`) days, the character's weapon attacks deal an extra `dice:1d6|noform|noparens|avg` (`1d6`) damage of the weapon's type.  
+- For the next `1d10` days, the character gains inspiration whenever they finish a long rest.  
+- For the next `1d10` days, the character has advantage on saving throws to avoid being frightened.  
+- For the next `1d4` days, the character's weapon attacks deal an extra `1d6` damage of the weapon's type.  
 
 ### Backgrounds
 
 This section presents two new backgrounds—the Grinner and the Volstrucker Agent—as well as suggestions for adapting some of the backgrounds from the "Player's Handbook" to tie them more closely to the factions of Wildemount.
 
-Wildemount is a land of secrets, so your character's background might work best if it's kept secret from the other players—especially if you choose either the [Grinner](/3-Mechanics/CLI/backgrounds/grinner-egw.md) or [Volstrucker Agent](/3-Mechanics/CLI/backgrounds/volstrucker-agent-egw.md) background. Work with your DM to determine a second false background that can help hide your true background, or a cover background that can be used if your true background involves a secret identity.
+Wildemount is a land of secrets, so your character's background might work best if it's kept secret from the other players—especially if you choose either the [Grinner](3-Mechanics/CLI/backgrounds/grinner-egw.md) or [Volstrucker Agent](3-Mechanics/CLI/backgrounds/volstrucker-agent-egw.md) background. Work with your DM to determine a second false background that can help hide your true background, or a cover background that can be used if your true background involves a secret identity.
 
 #### Adapting Backgrounds
 
 All the backgrounds from the "Player's Handbook" fit perfectly into Wildemount. Additionally, though, a number of existing backgrounds can be adapted to represent specific factions in the campaign.
 
-- [Augen Trust (Spy)](/3-Mechanics/CLI/backgrounds/augen-trust-spy-egw.md)  
-- [Cobalt Scholar (Sage)](/3-Mechanics/CLI/backgrounds/cobalt-scholar-sage-egw.md)  
-- [Luxonborn (Acolyte)](/3-Mechanics/CLI/backgrounds/luxonborn-acolyte-egw.md)  
-- [Myriad Operative (Criminal)](/3-Mechanics/CLI/backgrounds/myriad-operative-criminal-egw.md)  
-- [Revelry Pirate (Sailor)](/3-Mechanics/CLI/backgrounds/revelry-pirate-sailor-egw.md)
+- [Augen Trust (Spy)](3-Mechanics/CLI/backgrounds/augen-trust-spy-egw.md)  
+- [Cobalt Scholar (Sage)](3-Mechanics/CLI/backgrounds/cobalt-scholar-sage-egw.md)  
+- [Luxonborn (Acolyte)](3-Mechanics/CLI/backgrounds/luxonborn-acolyte-egw.md)  
+- [Myriad Operative (Criminal)](3-Mechanics/CLI/backgrounds/myriad-operative-criminal-egw.md)  
+- [Revelry Pirate (Sailor)](3-Mechanics/CLI/backgrounds/revelry-pirate-sailor-egw.md)

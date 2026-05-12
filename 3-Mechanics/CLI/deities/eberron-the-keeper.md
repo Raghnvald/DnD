@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/deity/eberron
 - ttrpg-cli/domain/death
-aliases: 
-- The Keeper
+aliases:
+- "The Keeper"
 ---
 # The Keeper
 *Source: Player's Handbook p. 296* 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Magic Items Awarded by Rarity - Minor
+- "Magic Items Awarded by Rarity - Minor"
 ---
 # Magic Items Awarded by Rarity - Minor
 *Source: Xanathar's Guide to Everything p. 135* 

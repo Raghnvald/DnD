@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Tracking DCs
+- "Tracking DCs"
 ---
 # Tracking DCs
 *Source: Dungeon Master's Guide p. 244* 

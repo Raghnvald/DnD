@@ -14,10 +14,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Rat (Diseased)
+- "Giant Rat (Diseased)"
 ---
-# [Giant Rat (Diseased)](3-Mechanics\CLI\bestiary\beast/giant-rat-diseased.md)
-*Source: Monster Manual p. 327, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Rat (Diseased)](3-Mechanics/CLI/bestiary/beast/giant-rat-diseased.md)
+*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Rat (Diseased)"
@@ -36,27 +36,29 @@ aliases:
   - !!int "10"
   - !!int "4"
 "speed": "30 ft."
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": ""
 "cr": "1/8"
 "traits":
-  - "desc": "The rat has advantage on Wisdom (Perception) checks that rely on smell."
+  - "desc": "The rat has advantage on Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ checks that rely on smell."
     "name": "Keen Smell"
   - "desc": "The rat has advantage on an attack roll against a creature if at least\
       \ one of the rat's allies is within 5 feet of the creature and the ally isn't\
-      \ incapacitated."
+      \ [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Pack Tactics"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4\
-      \ + 2) piercing damage. If the target is a creature, it must succeed on a DC\
-      \ 10 Constitution saving throw or contract a disease. Until the disease is cured,\
-      \ the target can't regain hit points except by magical means, and the target's\
-      \ hit point maximum decreases by 3 (1d6) every 24 hours. If the target's hit\
-      \ point maximum drops to 0 as a result of this disease, the target dies."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d4 + 2) piercing damage. If the target is a creature, it must succeed\
+      \ on a DC 10 Constitution saving throw or contract a disease. Until the disease\
+      \ is cured, the target can't regain hit points except by magical means, and\
+      \ the target's hit point maximum decreases by 3 (1d6) every 24 hours. If the\
+      \ target's hit point maximum drops to 0 as a result of this disease, the target\
+      \ dies."
     "name": "Bite"
 "source":
   - "MM"
-  - "EGW"
 ```
 ^statblock
 

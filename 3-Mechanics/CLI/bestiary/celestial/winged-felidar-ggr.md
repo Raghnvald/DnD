@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Winged Felidar
+- "Winged Felidar"
 ---
-# [Winged Felidar](3-Mechanics\CLI\bestiary\celestial/winged-felidar-ggr.md)
+# [Winged Felidar](3-Mechanics/CLI/bestiary/celestial/winged-felidar-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 199*  
 
 ```statblock
@@ -38,12 +38,11 @@ aliases:
   - "wisdom": !!int "6"
   - "charisma": !!int "5"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+6"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 16"
+"senses": "truesight 120 ft., passive Perception 16"
 "languages": "understands Celestial and Common but can't speak"
 "cr": "5"
 "traits":
@@ -58,14 +57,13 @@ aliases:
       \ during which time it loses its own sight and hearing. This effect lasts until\
       \ the start of its next turn."
     "name": "Bonding"
-  - "desc": "The felidar has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks that rely on hearing or sight."
+  - "desc": "The felidar has advantage on Wisdom (Perception) checks that rely on\
+      \ hearing or sight."
     "name": "Keen Hearing and Sight"
   - "desc": "If the felidar moves at least 20 feet straight toward a creature and\
       \ hits it with a claw attack on the same turn, that target must succeed on a\
-      \ DC 15 Strength saving throw or be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone).\
-      \ If the target is [prone](/3-Mechanics/CLI/conditions.md#Prone), the felidar\
-      \ can make one claw attack against it as a bonus action."
+      \ DC 15 Strength saving throw or be knocked prone. If the target is prone, the\
+      \ felidar can make one claw attack against it as a bonus action."
     "name": "Pounce"
 "actions":
   - "desc": "The felidar makes two attacks: one with its bite and one with its claws."

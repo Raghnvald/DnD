@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Noble
+- "Noble"
 ---
-# [Noble](3-Mechanics\CLI\bestiary\humanoid/noble.md)
-*Source: Monster Manual p. 348, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Noble](3-Mechanics/CLI/bestiary/humanoid/noble.md)
+*Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
 
@@ -27,7 +27,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
 "subtype": "any race"
 "alignment": "Any alignment"
 "ac": !!int "15"
-"ac_class": "breastplate"
+"ac_class": "[breastplate](3-Mechanics/CLI/items/breastplate.md)"
 "hp": !!int "9"
 "hit_dice": "2d8"
 "modifier": !!int "1"
@@ -40,18 +40,20 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
   - !!int "16"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+5"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+4"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+5"
+"gear":
+  - "[rapier](3-Mechanics/CLI/items/rapier.md)"
 "senses": "passive Perception 12"
 "languages": "any two languages"
 "cr": "1/8"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d8 + 1) piercing damage."
     "name": "Rapier"
 "reactions":
   - "desc": "The noble adds 2 to its AC against one melee attack that would hit it.\
@@ -59,8 +61,7 @@ The noble's statistics can also be used to represent courtiers who aren't of nob
     "name": "Parry"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/noble.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/noble.webp"
 ```
 ^statblock
 

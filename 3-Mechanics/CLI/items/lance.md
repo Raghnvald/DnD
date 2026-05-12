@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Lance"
 ---
 # Lance
@@ -15,7 +15,7 @@ aliases:
 
 
 - **Damage**: 1d12 piercing
-- **Properties**: [Reach](/3-Mechanics/CLI/item-properties.md#Reach), [special](/3-Mechanics/CLI/item-properties.md#Special%20Weapons)
+- **Properties**: [Reach](3-Mechanics/CLI/rules/item-properties.md#Reach), [special](3-Mechanics/CLI/rules/item-properties.md#Special%20Weapons)
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 

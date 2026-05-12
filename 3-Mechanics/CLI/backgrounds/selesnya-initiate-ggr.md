@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/ggr
 aliases:
-- Selesnya Initiate
+- "Selesnya Initiate"
 ---
 # Selesnya Initiate
 *Source: Guildmasters' Guide to Ravnica p. 86*  
 
 
-- **Skill Proficiencies.** [Nature](/3-Mechanics/CLI/skills.md#Nature), [Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)  
+- **Skill Proficiencies.** Nature, Persuasion  
 - **Tool Proficiencies.** One type of artisan's tools or one musical instrument  
 - **Languages.** Choose one of Elvish, Loxodon, or Sylvan  
-- **Equipment.** A Selesnya insignia, a [healer's kit](/3-Mechanics/CLI/items/healers-kit-xphb.md), [robes](/3-Mechanics/CLI/items/robe-xphb.md), a set of [common clothes](/3-Mechanics/CLI/items/common-clothes.md), and a belt [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 5 gp (Azorius 1-zino coins)  
+- **Equipment.** A Selesnya insignia, a healer's kit, robes, a set of common clothes, and a belt pouch containing 5 gp (Azorius 1-zino coins)  
 
 You are a member of a blessed community, built on the ideals of harmony. Here, nature and civilization coexist peacefully, living and growing in accordance with the will of the Worldsoul, Mat'Selesnya. As a member of the Selesnya Conclave, you are surrounded by people and other creatures who share your worldview and your longing for deeper spiritual communion with the world, and you have a fervent desire to share the joy you have experienced with Ravnica. Along with the rest of the conclave, you are committed to resisting the ambitions of the other guilds—with military force if necessary.
 
@@ -35,12 +35,12 @@ For you, the spells on the Selesnya Guild Spells table are added to the spell li
 
 | Spell Level | Spells |
 |-------------|--------|
-| Cantrip | [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md), [friends](/3-Mechanics/CLI/spells/friends-xphb.md) |
-| 1st | [animal friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md), [charm person](/3-Mechanics/CLI/spells/charm-person-xphb.md) |
-| 2nd | [aid](/3-Mechanics/CLI/spells/aid-xphb.md), [animal messenger](/3-Mechanics/CLI/spells/animal-messenger-xphb.md), [calm emotions](/3-Mechanics/CLI/spells/calm-emotions-xphb.md), [warding bond](/3-Mechanics/CLI/spells/warding-bond-xphb.md) |
-| 3rd | [plant growth](/3-Mechanics/CLI/spells/plant-growth-xphb.md), [speak with plants](/3-Mechanics/CLI/spells/speak-with-plants-xphb.md) |
-| 4th | [aura of life](/3-Mechanics/CLI/spells/aura-of-life-xphb.md), [conjure minor elementals](/3-Mechanics/CLI/spells/conjure-minor-elementals-xphb.md) |
-| 5th | [awaken](/3-Mechanics/CLI/spells/awaken-xphb.md), [commune with nature](/3-Mechanics/CLI/spells/commune-with-nature-xphb.md) |
+| Cantrip | druidcraft, friends |
+| 1st | animal friendship, charm person |
+| 2nd | aid, animal messenger, calm emotions, warding bond |
+| 3rd | plant growth, speak with plants |
+| 4th | aura of life, conjure minor elementals |
+| 5th | awaken, commune with nature |
 ^selesnya-guild-spells
 
 Members of the Selesnya Conclave refer to their magic as "doruvati," a Sylvan word meaning "gift." When you use these gifts of Mat'Selesnya, graceful swirls of green and silver light dance in the air around you, and phantasmal green leaves might waft through the air. A sensation of gentle warmth and the smell of spring flowers or autumn leaves might accompany your spells.
@@ -50,8 +50,6 @@ Members of the Selesnya Conclave refer to their magic as "doruvati," a Sylvan wo
 Most members of the Selesnya Conclave are true believers—the tight-knit community allows little room for the cynical or disillusioned. They are spiritual, empathetic, and generally peaceful—unless roused to action. Their flaws and bonds alike grow naturally from their close ties to the community.
 
 **Personality Traits**
-
-`dice: [](selesnya-initiate-ggr.md#^personality-traits)`
 
 | dice: d8 | Personality Trait |
 |----------|-------------------|
@@ -67,8 +65,6 @@ Most members of the Selesnya Conclave are true believers—the tight-knit commun
 
 **Ideals**
 
-`dice: [](selesnya-initiate-ggr.md#^ideals)`
-
 | dice: d6 | Ideal |
 |----------|-------|
 | 1 | **Guild**. My guild is all that really matters. (Any) |
@@ -81,8 +77,6 @@ Most members of the Selesnya Conclave are true believers—the tight-knit commun
 
 **Bonds**
 
-`dice: [](selesnya-initiate-ggr.md#^bonds)`
-
 | dice: d6 | Bond |
 |----------|------|
 | 1 | I would give my life in the defense of the small enclave where I first encountered Mat'Selesnya. |
@@ -94,8 +88,6 @@ Most members of the Selesnya Conclave are true believers—the tight-knit commun
 ^bonds
 
 **Flaws**
-
-`dice: [](selesnya-initiate-ggr.md#^flaws)`
 
 | dice: d6 | Flaw |
 |----------|------|
@@ -115,8 +107,6 @@ Roll twice on the Selesnya Contacts table (for an ally and a rival) and once on 
 
 **Selesnya Contacts**
 
-`dice: [](selesnya-initiate-ggr.md#^selesnya-contacts)`
-
 | dice: d8 | Contact |
 |----------|---------|
 | 1 | A wise centaur trainer believed in me even though I was a terrible student. |
@@ -130,8 +120,6 @@ Roll twice on the Selesnya Contacts table (for an ally and a rival) and once on 
 ^selesnya-contacts
 
 **Non-Selesnya Contacts**
-
-`dice: [](selesnya-initiate-ggr.md#^non-selesnya-contacts)`
 
 | dice: d10 | Contact |
 |-----------|---------|

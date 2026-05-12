@@ -8,12 +8,12 @@ tags:
 - ttrpg-cli/domain/forge
 - ttrpg-cli/domain/order
 - ttrpg-cli/domain/war
-aliases: 
-- Bane
+aliases:
+- "Bane"
 ---
 # Bane
 *Source: Explorer's Guide to Wildemount p. 26* 
-![](/3-Mechanics/CLI/deities/img/egw-symbol-of-bane.webp#symbol)
+![](3-Mechanics/CLI/deities/img/egw-symbol-of-bane.webp#symbol)
 
 - **Alignment**: Lawful Evil
 - **Category**: Betrayer Gods

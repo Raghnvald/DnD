@@ -8,7 +8,7 @@ tags:
 - ttrpg-cli/item/rarity/unknown
 - ttrpg-cli/item/tier/minor
 - ttrpg-cli/item/wondrous/generic-variant
-aliases: 
+aliases:
 - "Adamantine Ammunition"
 - "Adamantine Arrow"
 - "Adamantine Bolt"

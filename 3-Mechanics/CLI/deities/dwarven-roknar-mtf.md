@@ -6,8 +6,8 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/deity/dwarven
 - ttrpg-cli/domain/trickery
-aliases: 
-- Roknar
+aliases:
+- "Roknar"
 ---
 # Roknar
 *Source: Mordenkainen's Tome of Foes p. 73* 

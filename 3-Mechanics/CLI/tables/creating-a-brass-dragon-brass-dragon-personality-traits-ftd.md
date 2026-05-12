@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Creating a Brass Dragon; Brass Dragon Personality Traits
+- "Creating a Brass Dragon; Brass Dragon Personality Traits"
 ---
 # Creating a Brass Dragon; Brass Dragon Personality Traits
 *Source: Fizban's Treasury of Dragons p. 90* 
 
 **Brass Dragon Personality Traits**
-
-`dice: [](creating-a-brass-dragon-brass-dragon-personality-traits-ftd.md#^brass-dragon-personality-traits)`
 
 | dice: d8 | Trait |
 |----------|-------|

@@ -4,7 +4,7 @@ cssclasses:
 - json5e-note
 - json5e-index
 ---
-# Index of Traps-hazards
+# Index of Traps & Hazards
 
 - [Avalanche](./avalanche-tce.md)
 - [Bear Trap](./bear-trap-xge.md)
@@ -14,18 +14,17 @@ cssclasses:
 - [Crossbow Trap](./crossbow-trap-xge.md)
 - [Danse Macabre](./danse-macabre-vrgr.md)
 - [Dead Magic Zone](./dead-magic-zone-xdmg.md)
+- [Death Fog Trap](./death-fog-trap-rtg.md)
 - [Deep Water](./deep-water-xdmg.md)
 - [Dehydration](./dehydration-xphb.md)
-- [Demon Ichor](./demon-ichor-bgdia.md)
-- [Desecrated Ground](./desecrated-ground.md)
 - [Extreme Cold](./extreme-cold-xdmg.md)
 - [Extreme Heat](./extreme-heat-xdmg.md)
 - [Faceless Malice](./faceless-malice-vrgr.md)
-- [Falling into Water](./falling-into-water-tce.md)
-- [Falling Net](./falling-net-xdmg.md)
-- [Falling onto a Creature](./falling-onto-a-creature-tce.md)
-- [Falling Portcullis](./falling-portcullis-xge.md)
 - [Falling](./falling-xphb.md)
+- [Falling Net](./falling-net-xdmg.md)
+- [Falling Portcullis](./falling-portcullis-xge.md)
+- [Falling into Water](./falling-into-water-tce.md)
+- [Falling onto a Creature](./falling-onto-a-creature-tce.md)
 - [Fiery Blast Trap](./fiery-blast-trap-xge.md)
 - [Fire-Casting Statue](./fire-casting-statue-xdmg.md)
 - [Fireball Fungus](./fireball-fungus-xdmg.md)
@@ -61,7 +60,6 @@ cssclasses:
 - [Scything Blade Trap](./scything-blade-trap-xge.md)
 - [Sleep of Ages Trap](./sleep-of-ages-trap-xge.md)
 - [Slippery Ice](./slippery-ice-xdmg.md)
-- [Sphere of Annihilation](./sphere-of-annihilation.md)
 - [Sphere of Crushing Doom](./sphere-of-crushing-doom-xge.md)
 - [Spiked Pit](./spiked-pit-xdmg.md)
 - [Strong Wind](./strong-wind-xdmg.md)

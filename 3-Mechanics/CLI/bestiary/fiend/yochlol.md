@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Yochlol
+- "Yochlol"
 ---
-# [Yochlol](3-Mechanics\CLI\bestiary\fiend/yochlol.md)
-*Source: Monster Manual p. 65, Explorer's Guide to Wildemount*  
+# [Yochlol](3-Mechanics/CLI/bestiary/fiend/yochlol.md)
+*Source: Monster Manual p. 65*  
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
 
@@ -160,7 +160,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -212,21 +212,23 @@ Demonologists organize the chaotic distribution of demons into broad categories 
   - "wisdom": !!int "6"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+10"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+6"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "darkvision 120 ft., passive Perception 12"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 12"
 "languages": "Abyssal, Elvish, Undercommon"
 "cr": "10"
 "traits":
   - "desc": "The yochlol's spellcasting ability is Charisma (spell save DC 14). The\
       \ yochlol can innately cast the following spells, requiring no material components:\n\
-      \n**At will:** detect thoughts, web\n\n**1/day:** dominate person"
+      \n**At will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md),\
+      \ [web](3-Mechanics/CLI/spells/web.md)\n\n**1/day:** [dominate person](3-Mechanics/CLI/spells/dominate-person.md)"
     "name": "Innate Spellcasting"
   - "desc": "The yochlol can use its action to polymorph into a form that resembles\
       \ a female drow or giant spider, or back into its true form. Its statistics\
@@ -250,19 +252,18 @@ Demonologists organize the chaotic distribution of demons into broad categories 
     "name": "Slam (Bite in Spider Form)"
   - "desc": "The yochlol transforms into toxic mist or reverts to its true form. Any\
       \ equipment it is wearing or carrying is also transformed. It reverts to its\
-      \ true form if it dies.\n\nWhile in mist form, the yochlol is incapacitated\
+      \ true form if it dies.\n\nWhile in mist form, the yochlol is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
       \ and can't speak. It has a flying speed of 30 feet, can hover, and can pass\
       \ through any space that isn't airtight. It has advantage on Strength, Dexterity,\
       \ and Constitution saving throws, and it is immune to nonmagical damage.\n\n\
       While in mist form, the yochlol can enter a creature's space and stop there.\
       \ Each time that creature starts its turn with the yochlol in its space, the\
-      \ creature must succeed on a DC 14 Constitution saving throw or be poisoned\
-      \ until the start of its next turn. While poisoned in this way, the target is\
-      \ incapacitated."
+      \ creature must succeed on a DC 14 Constitution saving throw or be [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ until the start of its next turn. While [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)\
+      \ in this way, the target is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)."
     "name": "Mist Form"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/yochlol.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/yochlol.webp"
 ```
 ^statblock

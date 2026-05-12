@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Aberrant Zealot
+- "Aberrant Zealot"
 ---
-# [Aberrant Zealot](3-Mechanics\CLI\bestiary\aberration/aberrant-zealot-pabtso.md)
+# [Aberrant Zealot](3-Mechanics/CLI/bestiary/aberration/aberrant-zealot-pabtso.md)
 *Source: Phandelver and Below: The Shattered Obelisk p. 203*  
 
 Aberrant zealots are cultists who have reached out to the powers of the Far Realm—only for something to reach back. Steeped in strange energy, aberrant zealots borrow their vicious might from the monstrous entities that inhabit that fell plane.
@@ -23,7 +23,7 @@ Aberrant zealots are cultists who have reached out to the powers of the Far Real
 "type": "aberration"
 "alignment": "typically  Chaotic Evil"
 "ac": !!int "16"
-"ac_class": "[studded leather armor](/3-Mechanics/CLI/items/studded-leather-armor-xphb.md)"
+"ac_class": "[studded leather armor](3-Mechanics/CLI/items/studded-leather-armor.md)"
 "hp": !!int "93"
 "hit_dice": "17d8 + 17"
 "modifier": !!int "4"
@@ -39,13 +39,15 @@ Aberrant zealots are cultists who have reached out to the powers of the Far Real
   - "dexterity": !!int "7"
   - "charisma": !!int "7"
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
 "damage_resistances": "psychic"
-"condition_immunities": "[blinded](/3-Mechanics/CLI/conditions.md#Blinded), [charmed](/3-Mechanics/CLI/conditions.md#Charmed),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., [truesight](/3-Mechanics/CLI/senses.md#Truesight)\
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled),\
+  \ [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)"
+"gear":
+  - "[shortsword](3-Mechanics/CLI/items/shortsword.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [truesight](3-Mechanics/CLI/rules/senses.md#Truesight)\
   \ 10 ft., passive Perception 15"
 "languages": "Common, Deep Speech"
 "cr": "8"
@@ -62,19 +64,18 @@ Aberrant zealots are cultists who have reached out to the powers of the Far Real
   - "desc": "The zealot makes one Psychic Rend attack and two Shortsword attacks."
     "name": "Multiattack"
   - "desc": "*Melee  or Ranged Spell Attack:* +7 to hit, reach 15 ft. or range 120\
-      \ ft., one target. *Hit:* 14 (3d6 + 4) psychic damage, and the target must succeed\
-      \ on a DC 15 Wisdom saving throw or have the [stunned](/3-Mechanics/CLI/conditions.md#Stunned)\
+      \ ft., one target. *Hit:* 14 (3d6 + 4) psychic damage, and the target must\
+      \ succeed on a DC 15 Wisdom saving throw or have the [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)\
       \ condition until the start of the zealot's next turn."
     "name": "Psychic Rend"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 15 ft., one target. *Hit:* 7\
-      \ (1d6 + 4) piercing damage plus 7 (2d6) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 15 ft., one target. *Hit:*\
+      \ 7 (1d6 + 4) piercing damage plus 7 (2d6) psychic damage."
     "name": "Shortsword"
   - "desc": "The zealot casts one of the following spells, requiring no components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\n**At\
-      \ will:** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [minor illusion](/3-Mechanics/CLI/spells/minor-illusion-xphb.md)\n\n**1/day\
-      \ each:** [arcane gate](/3-Mechanics/CLI/spells/arcane-gate-xphb.md), [hunger\
-      \ of Hadar](/3-Mechanics/CLI/spells/hunger-of-hadar-xphb.md)"
+      \ will:** [detect thoughts](3-Mechanics/CLI/spells/detect-thoughts.md), [minor\
+      \ illusion](3-Mechanics/CLI/spells/minor-illusion.md)\n\n**1/day each:** [arcane\
+      \ gate](3-Mechanics/CLI/spells/arcane-gate.md), [hunger of Hadar](3-Mechanics/CLI/spells/hunger-of-hadar.md)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
   - "desc": "The zealot teleports, along with any equipment it is wearing or carrying,\
@@ -87,6 +88,6 @@ Aberrant zealots are cultists who have reached out to the powers of the Far Real
     "name": "Void Warp (Recharge 5-6)"
 "source":
   - "PaBTSO"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/aberrant-zealot-pabtso.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/aberrant-zealot-pabtso.webp"
 ```
 ^statblock

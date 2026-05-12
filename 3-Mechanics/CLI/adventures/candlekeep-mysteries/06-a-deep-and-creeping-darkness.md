@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/cm
+- ttrpg-cli/compendium/src/5e/cm
 aliases:
-- A Deep and Creeping Darkness
+- "A Deep and Creeping Darkness"
 ---
 # A Deep and Creeping Darkness
 *Source: Candlekeep Mysteries, p. 48* 
 
-![A Deep and Creeping Darkness](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/030-05-001-book.webp#center)
+![A Deep and Creeping Darkness](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/030-05-001-book.webp#center)
 
 **An Adventure for 4th-level Characters**  
 **Developed & Edited by Michele Carter**  
@@ -75,7 +75,7 @@ A mid-range tavern and inn, the Bored Weasel features a dining area that seats f
 
 #### Lukas Grosvenor
 
-![Lukas Grosvenor](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/031-05-002-lukas-grosvenor.webp#center)
+![Lukas Grosvenor](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/031-05-002-lukas-grosvenor.webp#center)
 
 *Neutral good human tavernkeeper (age 95)*
 
@@ -105,7 +105,7 @@ Maerin has a lovely open-air market in the center of town. Semipermanent tables 
 
 #### Astra Vorn
 
-![Astra Vorn](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/032-05-003-astra-vorn.webp#center)
+![Astra Vorn](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/032-05-003-astra-vorn.webp#center)
 
 *Lawful good half-elf florist (age 78)*
 
@@ -144,7 +144,7 @@ When the characters enter Vermeillon, read the following boxed text to the playe
 
 ### Lurking Danger
 
-A nest of meenlocks lives in the mine outside the village. Though most of the creatures returned to the Feywild once the village was empty, six [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) (see the end of the adventure for their stat block) remained to prey on lost travelers. When the characters arrive in the village, these meenlocks become aware of their presence and stalk them from a distance, staying hidden in the shadows.
+A nest of meenlocks lives in the mine outside the village. Though most of the creatures returned to the Feywild once the village was empty, six meenlocks (see the end of the adventure for their stat block) remained to prey on lost travelers. When the characters arrive in the village, these meenlocks become aware of their presence and stalk them from a distance, staying hidden in the shadows.
 
 The meenlocks of Vermeillon include three that spawned after the disaster in the mine, two that were once villagers, and one that was a traveling merchant who thought he'd found a shortcut through the peaks. The three original meenlocks stay within the nest, while the other three venture into the village to torment the characters, either individually or as a group. You can change the number of meenlocks in in the village, depending on the number of characters and their abilities.
 
@@ -159,7 +159,7 @@ As the party makes its way through the village, the meenlocks try to remain unse
 
 > [!note] Running the Meenlocks
 > 
-> The [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) haunting Vermeillon avoid bright light. They prefer to stay in their nest until nightfall, though they sometimes hunt on overcast days.
+> The meenlocks haunting Vermeillon avoid bright light. They prefer to stay in their nest until nightfall, though they sometimes hunt on overcast days.
 > 
 > The meenlocks avoid combat with a well-armed group of foes. If the characters don't split up on their own, the meenlocks try to divide the party using their ability to create hallucinations. Their aim is to isolate and paralyze one character, then drag that character back to their nest to be tortured and transformed into a meenlock. If given the opportunity, meenlocks psychically torment their prey for hours or days, breaking down their mental and emotional state to make the eventual transformation easier.
 > 
@@ -177,8 +177,8 @@ Most of Vermeillon's buildings contain nothing but decaying furniture and whatev
 The following locations are keyed to the map of Vermeillon.
 
 > [!gallery]
-> ![Map 5.1: Vermeillon](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/033-map-5-01-vermeillon.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/034-map-5-01-vermeillon-player.webp#gallery)
+> ![Map 5.1: Vermeillon](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/033-map-5-01-vermeillon.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/034-map-5-01-vermeillon-player.webp#gallery)
 
 #### V1. The Wand and Hammer
 
@@ -195,7 +195,7 @@ Tormun and Blenyss left with the second wave of villagers. With their livelihood
 
 A successful DC 13 Intelligence (Investigation) check reveals a false panel in the corner of the floor. The false floor hides a steel shield with platinum filigree in the shape of winding serpents (50 gp), two matching shortswords with platinum filigree on the hilt and pommel in a similar serpent motif (25 gp each), and a stack of ten iron bars, each weighing 10 pounds (1 gp each).
 
-A successful DC 18 Intelligence (Investigation) check reveals a thin platinum ring of swimming in the dust under a workbench, where it fell and was forgotten.
+A successful DC 18 Intelligence (Investigation) check reveals a thin platinum [ring of swimming](3-Mechanics/CLI/items/ring-of-swimming.md) in the dust under a workbench, where it fell and was forgotten.
 
 #### V2. Stonemason's Workshop
 
@@ -264,12 +264,12 @@ Upon closer inspection, the party finds the remains of a horse in the tall grass
 
 > [!note] Tragic Transformation
 > 
-> Mayor Lei Duvezin was taken in the night and transformed into a meenlock. The [meenlock](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) that was once Mayor Duvezin now lurks around the mayor's mansion, drawn there by lingering memories, and it takes any opportunity to attack characters in the house.
+> Mayor Lei Duvezin was taken in the night and transformed into a meenlock. The meenlock that was once Mayor Duvezin now lurks around the mayor's mansion, drawn there by lingering memories, and it takes any opportunity to attack characters in the house.
 > 
 > The meenlock shed its clothing and other trappings of its former life once the transformation was complete, but it still wears the mayor's ring of office: an ornate platinum signet ring embossed with a snowdrop blossom (75 gp). The characters can recover the ring upon the meenlock's death or notice it during combat with a successful DC 18 Wisdom (Perception) check. The ring offers a hint to the fate of the mayor, and also serves as a potential plot hook if the characters decide to track down the mayor's children to return the item and give them closure on their mother's fate.
 ^tragic-transformation
 
-![Dead Tree, Old House](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/035-05-004-dead-tree.webp#center)
+![Dead Tree, Old House](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/035-05-004-dead-tree.webp#center)
 
 ### Mayor Duvezin's House
 
@@ -278,8 +278,8 @@ The furniture and belongings in the house remain in their customary places, the 
 The house hides clues to the death of the village, for characters who take the time to look. If any characters are left behind in a room on their own, or if the party splits up to search the house, that's an ideal time for a meenlock encounter.
 
 > [!gallery]
-> ![Map 5.2: Mayor Duvezin's House](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/036-map-5-02-mayor-duvezins-house.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/037-map-5-02-mayor-duvezins-house-player.webp#gallery)
+> ![Map 5.2: Mayor Duvezin's House](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/036-map-5-02-mayor-duvezins-house.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/037-map-5-02-mayor-duvezins-house-player.webp#gallery)
 
 #### H1. Entryway
 
@@ -406,8 +406,8 @@ If the characters explore during the day, the first 30 feet inside the mine are 
 The following locations are keyed to the map of the platinum mine.
 
 > [!gallery]
-> ![Map 5.3: Platinum Mine](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/038-map-5-03-platinum-mine.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/039-map-5-03-platinum-mine-player.webp#gallery)
+> ![Map 5.3: Platinum Mine](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/038-map-5-03-platinum-mine.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/039-map-5-03-platinum-mine-player.webp#gallery)
 
 #### M1. Main Tunnel
 
@@ -429,7 +429,7 @@ Each character who enters the mine must succeed on a DC 14 Wisdom saving throw o
 
 The tools were left behind by the workers in the wake of the disaster.
 
-Characters who look up see scores of bats hanging from the 20-foot-high ceiling. If bright light is shone at them or if someone makes a noise louder than a whisper, the bats coalesce into three hostile [swarms of bats](/3-Mechanics/CLI/bestiary/beast/swarm-of-bats.md). These swarms were drawn to the mine by the meenlocks' unwholesome presence and attack all creatures except the meenlocks.
+Characters who look up see scores of bats hanging from the 20-foot-high ceiling. If bright light is shone at them or if someone makes a noise louder than a whisper, the bats coalesce into three hostile swarms of bats. These swarms were drawn to the mine by the meenlocks' unwholesome presence and attack all creatures except the meenlocks.
 
 #### M3. Northern Wing
 
@@ -449,7 +449,7 @@ As the characters approach the rubble of the cave-in, they see large rocks in th
 > Mounds of broken rock block the tunnel, piled from ceiling to floor. The other parts of the cave-in were passable after the collapse, but this seems an impenetrable wall of earth.
 ^167
 
-Traveling farther down the tunnel is impossible here. A character who attempts to move any of the rocks must succeed on a DC 15 Dexterity saving throw or take `dice:2d6|noform|noparens|avg|text(7)` (`2d6`) bludgeoning damage as the rubble shifts, falling on them or sliding out from beneath their feet, sending them tumbling.
+Traveling farther down the tunnel is impossible here. A character who attempts to move any of the rocks must succeed on a DC 15 Dexterity saving throw or take 7 (`2d6`) bludgeoning damage as the rubble shifts, falling on them or sliding out from beneath their feet, sending them tumbling.
 
 #### M5. Entrance to the Meenlock Lair
 
@@ -473,7 +473,7 @@ Whenever a creature that isn't a meenlock enters the alcove or starts its turn t
 
 ##### Development
 
-A character who wanders into this cave alone and is grappled by the mossy tentacles might have to deal with one or more [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) that creep into the room, hoping to take advantage of the character's unfortunate predicament.
+A character who wanders into this cave alone and is grappled by the mossy tentacles might have to deal with one or more meenlocks that creep into the room, hoping to take advantage of the character's unfortunate predicament.
 
 #### M7. Mossy Maze
 
@@ -488,7 +488,7 @@ The meenlocks like to pick off interlopers in this moss-covered maze of tunnels,
 
 The pools here vary in depth: the smaller ones are a few inches deep, and the larger pools measure 2 feet at their deepest. In the subterranean darkness, the pools look black. Light sources reflect off the water as if it were a dark mirror, and the characters are unable to see below the surface.
 
-This is another ideal ambush location for the meenlocks or, if you want to shake things up a bit, for a [black pudding](/3-Mechanics/CLI/bestiary/ooze/black-pudding.md) or other ooze to lurk on the surface of one of the pools like an oil slick.
+This is another ideal ambush location for the meenlocks or, if you want to shake things up a bit, for a black pudding or other ooze to lurk on the surface of one of the pools like an oil slick.
 
 #### M9. Transformation Chamber
 
@@ -497,13 +497,13 @@ This is another ideal ambush location for the meenlocks or, if you want to shake
 > New scents greet you here: the musty funk of decaying fabric and old furs, and the smell of rot lingering in the stagnant air. Thick pillars of moss-covered stone support the twenty-foot-high ceiling, and waist-high stone slabs dot the cavern.
 ^171
 
-The meenlocks bring their victims here to be tormented and transformed. The stone slabs are coated with blood and filth—the result of mortals being laid out for days of torture. Any party members taken by the meenlocks are here, paralyzed on one of the slabs if they haven't already been transformed (see the "Telepathic Torment" sidebar at the end of the adventure). Any remaining [meenlocks](/3-Mechanics/CLI/bestiary/fey/meenlock-vgm.md) attack when the party reaches the center of this room.
+The meenlocks bring their victims here to be tormented and transformed. The stone slabs are coated with blood and filth—the result of mortals being laid out for days of torture. Any party members taken by the meenlocks are here, paralyzed on one of the slabs if they haven't already been transformed (see the "Telepathic Torment" sidebar at the end of the adventure). Any remaining meenlocks attack when the party reaches the center of this room.
 
 ##### Dynamite Trap
 
 The miners-turned-meenlocks used remnants of their knowledge to rig explosives on the four pillars in this room. Attached to each pillar is a stick of dynamite with a long fuse leading to a plunger trigger. Any character who has a passive Wisdom (Perception) score of 18 or higher spots a candle-like object attached to each pillar, partially hidden beneath the moss. A character who closely examines a pillar spots the dynamite stick and the fuse leading from it with a successful DC 14 Wisdom (Perception) check. A character can cut a fuse as an action (no ability check required). If a dynamite stick takes damage from any source, it explodes (as described below).
 
-The meenlocks trigger the explosives as a last resort. If a meenlock starts its turn with 10 hit points or fewer, it moves to the nearest trigger, uses its action to set off the explosion, and then uses its Shadow Teleport bonus action to escape. The pillar is destroyed in the explosion. The last meenlock detonates any remaining pillars before it flees. Any creature within 5 feet of an exploding dynamite stick must make a DC 12 Dexterity saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one. If all four pillars are destroyed, the cavern's ceiling partially collapses. Each creature in the cavern when the collapse occurs must make a DC 15 Dexterity saving throw. On a failed save, the creature takes `dice:4d10|noform|noparens|avg|text(22)` (`4d10`) bludgeoning damage, falls prone, and is restrained by the rubble and unable to stand up; on a successful save, the creature takes half as much damage and isn't trapped in the rubble or knocked prone. A creature can use its action to attempt to free itself or another creature trapped under the rubble within its reach, doing so with a successful DC 20 Strength (Athletics) check. Meenlocks that flee return the next night to see what they've caught in their trap.
+The meenlocks trigger the explosives as a last resort. If a meenlock starts its turn with 10 hit points or fewer, it moves to the nearest trigger, uses its action to set off the explosion, and then uses its Shadow Teleport bonus action to escape. The pillar is destroyed in the explosion. The last meenlock detonates any remaining pillars before it flees. Any creature within 5 feet of an exploding dynamite stick must make a DC 12 Dexterity saving throw, taking 10 (`3d6`) bludgeoning damage on a failed save, or half as much damage on a successful one. If all four pillars are destroyed, the cavern's ceiling partially collapses. Each creature in the cavern when the collapse occurs must make a DC 15 Dexterity saving throw. On a failed save, the creature takes 22 (`4d10`) bludgeoning damage, falls prone, and is restrained by the rubble and unable to stand up; on a successful save, the creature takes half as much damage and isn't trapped in the rubble or knocked prone. A creature can use its action to attempt to free itself or another creature trapped under the rubble within its reach, doing so with a successful DC 20 Strength (Athletics) check. Meenlocks that flee return the next night to see what they've caught in their trap.
 
 ##### Old Remains
 
@@ -511,7 +511,7 @@ The remnants of other victims lie on the south side of the room, decades of belo
 
 ##### Treasure
 
-Most of the items in the refuse piles are worthless after rotting in the damp and dark for years. A thorough search reveals 50 gp, an ivory drinking horn with platinum filigree (120 gp), and a set of goggles of night.
+Most of the items in the refuse piles are worthless after rotting in the damp and dark for years. A thorough search reveals 50 gp, an ivory drinking horn with platinum filigree (120 gp), and a set of [goggles of night](3-Mechanics/CLI/items/goggles-of-night.md).
 
 > [!note] Passage into the Feywild
 > 
@@ -528,7 +528,7 @@ If the meenlocks survive, travelers continue to go missing if they attempt to ta
 
 Meenlocks are cruel fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. They primarily live in forests, although they adapt well to urban and subterranean settings.
 
-![Meenlock](/3-Mechanics/CLI/adventures/candlekeep-mysteries/img/040-636463380268253619.webp#center)
+![Meenlock](3-Mechanics/CLI/adventures/candlekeep-mysteries/img/040-636463380268253619.webp#center)
 
 ### Fear Incarnate
 
@@ -546,5 +546,5 @@ During the day, meenlocks confine themselves to their dark warrens. At night, th
 
 > [!note] Telepathic Torment
 > 
-> Up to four meenlocks can telepathically torment one incapacitated creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the frightened condition. If the creature is susceptible and remains incapacitated for 1 hour, the creature must make a Wisdom saving throw, taking `dice:3d6|noform|noparens|avg|text(10)` (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is equal to 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't incapacitated during it. The process can be repeated. A humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a wish spell or divine intervention can restore a transformed creature to its former state.
+> Up to four meenlocks can telepathically torment one incapacitated creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the frightened condition. If the creature is susceptible and remains incapacitated for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is equal to 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't incapacitated during it. The process can be repeated. A humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a wish spell or divine intervention can restore a transformed creature to its former state.
 ^telepathic-torment

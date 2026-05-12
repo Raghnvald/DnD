@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Carrionette
+- "Carrionette"
 ---
-# [Carrionette](3-Mechanics\CLI\bestiary\construct/carrionette-vrgr.md)
+# [Carrionette](3-Mechanics/CLI/bestiary/construct/carrionette-vrgr.md)
 *Source: Van Richten's Guide to Ravenloft p. 231*  
 
 Carrionettes arise from innocent intentions. Heartfelt wishes breathe life into a beloved toy and, for a time, a creator might feel blessed by their new companion. But carrionettes aren't content to live as toys and seek to escape the confines of their diminutive bodies.
@@ -40,22 +40,22 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
   - !!int "14"
 "speed": "25 ft."
 "damage_resistances": "poison, psychic"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [frightened](/3-Mechanics/CLI/conditions.md#Frightened),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
 "senses": "passive Perception 12"
 "languages": "understands the languages of its creator"
 "cr": "1"
 "traits":
   - "desc": "If the carrionette is motionless at the start of combat, it has advantage\
       \ on its initiative roll. Moreover, if a creature hasn't observed the carrionette\
-      \ move or act, that creature must succeed on a DC 15 Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+      \ move or act, that creature must succeed on a DC 15 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check to discern that the carrionette is animate."
     "name": "False Object"
   - "desc": "The carrionette doesn't require air, food, drink, or sleep."
     "name": "Unusual Nature"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1\
-      \ piercing damage plus 3 (1d6) necrotic damage, and the target must succeed\
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 1 piercing damage plus 3 (1d6) necrotic damage, and the target must succeed\
       \ on a DC 12 Charisma saving throw or become cursed for 1 minute. While cursed\
       \ in this way, the target's speed is reduced by 10 feet, and it must roll a\
       \ 1d4 and subtract the number rolled from each ability check or attack roll\
@@ -63,22 +63,22 @@ Carrionettes might appear as any type of toy or piece of art. While marionettes 
     "name": "Silver Needle"
   - "desc": "The carrionette targets a creature it can see within 15 feet of it that\
       \ is cursed by its Silver Needle. Unless the target is protected by a [protection\
-      \ from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
+      \ from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
       \ spell, it must succeed on a DC 12 Charisma saving throw or have its consciousness\
       \ swapped with the carrionette. The carrionette gains control of the target's\
-      \ body, and the target is [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)\
+      \ body, and the target is [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 1 hour, after which it gains control of the carrionette's body. While\
       \ controlling the target's body, the carrionette retains its Intelligence, Wisdom,\
       \ and Charisma scores. It otherwise uses the controlled body's statistics, but\
       \ doesn't gain access to the target's knowledge, class features, or proficiencies.\n\
       \nIf the carrionette's body is destroyed, both the carrionette and the target\
-      \ die. A [protection from evil and good](/3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
+      \ die. A [protection from evil and good](3-Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)\
       \ spell cast on the controlled body drives the carrionette out and returns the\
       \ consciousness of both creatures to their original bodies. The swap is also\
       \ undone if the controlled body takes damage from the carrionette's Silver Needle."
     "name": "Soul Swap"
 "source":
   - "VRGR"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/carrionette-vrgr.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/carrionette-vrgr.webp"
 ```
 ^statblock

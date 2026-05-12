@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Rosavalda "Rose" Durst
+- "Rosavalda \"Rose\" Durst"
 ---
-# [Rosavalda "Rose" Durst](3-Mechanics\CLI\bestiary\npc/rosavalda-rose-durst-cos.md)
+# [Rosavalda "Rose" Durst](3-Mechanics/CLI/bestiary/npc/rosavalda-rose-durst-cos.md)
 *Source: Curse of Strahd p. 217*  
 
 ```statblock
@@ -35,13 +35,9 @@ aliases:
 "damage_resistances": "acid; fire; lightning; thunder; bludgeoning, piercing, slashing\
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed), [exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [grappled](/3-Mechanics/CLI/conditions.md#Grappled),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned), [prone](/3-Mechanics/CLI/conditions.md#Prone),\
-  \ [restrained](/3-Mechanics/CLI/conditions.md#Restrained)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 11"
+"condition_immunities": "charmed, exhaustion, frightened, grappled, paralyzed, petrified,\
+  \ poisoned, prone, restrained"
+"senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common"
 "cr": "3"
 "traits":
@@ -61,22 +57,21 @@ aliases:
     "name": "Etherealness"
   - "desc": "One humanoid that Rose can see within 5 feet of it must succeed on a\
       \ DC 13 Charisma saving throw or be possessed by Rose; Rose then disappears,\
-      \ and the target is [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated)\
-      \ and loses control of its body. Rose now controls the body but doesn't deprive\
-      \ the target of awareness. Rose can't be targeted by any attack, spell, or other\
-      \ effect, except ones that turn undead, and it retains its alignment, Intelligence,\
-      \ Wisdom, Charisma, and immunity to being [charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
-      \ and [frightened](/3-Mechanics/CLI/conditions.md#Frightened). It otherwise\
-      \ uses the possessed target's statistics, but doesn't gain access to the target's\
-      \ knowledge, class features, or proficiencies.\n\nThe possession lasts until\
-      \ the body drops to 0 hit points, Rose ends it as a bonus action, or Rose is\
-      \ turned or forced out by an effect like the [dispel evil and good](/3-Mechanics/CLI/spells/dispel-evil-and-good-xphb.md)\
-      \ spell. When the possession ends, Rose reappears in an unoccupied space within\
-      \ 5 feet of the body. The target is immune to this ghost's Possession for 24\
-      \ hours after succeeding on the saving throw or after the possession ends."
+      \ and the target is incapacitated and loses control of its body. Rose now controls\
+      \ the body but doesn't deprive the target of awareness. Rose can't be targeted\
+      \ by any attack, spell, or other effect, except ones that turn undead, and it\
+      \ retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being\
+      \ charmed and frightened. It otherwise uses the possessed target's statistics,\
+      \ but doesn't gain access to the target's knowledge, class features, or proficiencies.\n\
+      \nThe possession lasts until the body drops to 0 hit points, Rose ends it as\
+      \ a bonus action, or Rose is turned or forced out by an effect like the dispel\
+      \ evil and good spell. When the possession ends, Rose reappears in an unoccupied\
+      \ space within 5 feet of the body. The target is immune to this ghost's Possession\
+      \ for 24 hours after succeeding on the saving throw or after the possession\
+      \ ends."
     "name": "Possession (Recharge 6)"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/rosavalda-rose-durst-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/rosavalda-rose-durst-cos.webp"
 ```
 ^statblock

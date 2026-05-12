@@ -3,16 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/erlw
+- ttrpg-cli/compendium/src/5e/erlw
 aliases:
-- Cult Adventures; Cult Adventure Hooks
+- "Cult Adventures; Cult Adventure Hooks"
 ---
 # Cult Adventures; Cult Adventure Hooks
 *Source: Eberron: Rising from the Last War p. 189* 
 
 **Cult Adventure Hooks**
-
-`dice: [](cult-adventures-cult-adventure-hooks-erlw.md#^cult-adventure-hooks)`
 
 | dice: d8 | Adventure Hook |
 |----------|----------------|

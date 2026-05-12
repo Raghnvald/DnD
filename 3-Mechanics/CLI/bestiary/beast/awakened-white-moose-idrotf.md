@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/3
-- new/monster/size/large
-- new/monster/type/beast
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/3
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/beast
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Awakened White Moose
+- "Awakened White Moose"
 ---
-# [Awakened White Moose](3-Mechanics\CLI\bestiary\beast/awakened-white-moose-idrotf.md)
+# [Awakened White Moose](3-Mechanics/CLI/bestiary/beast/awakened-white-moose-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 82*  
 
 A white moose is attacking loggers in the forest near Lonelywood. The town's logging industry is essential to the growth and survival of Ten-Towns, and Speaker Nimsy Huddle has assured the other speakers that Lonelywood's "moose problem" will be dealt with in short order. Hunters have been dispatched to kill the moose, but it has eluded them so far. From what the hunters have seen, their prey is smarter than the average moose, and its white hide makes it hard to spot in the snow. What they don't know is that the moose is using a magic mirror as a scrying device to show it where its enemies are.
@@ -41,11 +41,11 @@ A white moose is attacking loggers in the forest near Lonelywood. The town's log
 "traits":
   - "desc": "If the moose moves at least 20 feet straight toward a target and then\
       \ hits it with an antlers attack on the same turn, the target takes an extra\
-      \ 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on\
-      \ a DC 14 Strength saving throw or be knocked prone."
+      \ 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed\
+      \ on a DC 14 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Charge"
   - "desc": "The moose has advantage on Strength and Dexterity saving throws made\
-      \ against effects that would knock it prone."
+      \ against effects that would knock it [prone](3-Mechanics/CLI/rules/conditions.md#Prone)."
     "name": "Sure-Footed"
 "actions":
   - "desc": "The moose makes two attacks: one with its antlers and one with its hooves."
@@ -53,11 +53,11 @@ A white moose is attacking loggers in the forest near Lonelywood. The town's log
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13\
       \ (2d8 + 4) piercing damage."
     "name": "Antlers"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4\
-      \ + 4) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9\
+      \ (2d4 + 4) bludgeoning damage."
     "name": "Hooves"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/awakened-white-moose-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/awakened-white-moose-idrotf.webp"
 ```
 ^statblock

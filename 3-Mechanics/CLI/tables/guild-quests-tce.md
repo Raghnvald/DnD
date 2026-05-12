@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Guild Quests
+- "Guild Quests"
 ---
 # Guild Quests
 *Source: Tasha's Cauldron of Everything p. 95* 
 
 **Guild Quests**
-
-`dice: [](guild-quests-tce.md#^guild-quests)`
 
 | dice: d6 | Quest |
 |----------|-------|

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/life
 - ttrpg-cli/domain/trickery
-aliases: 
-- Alobal Lorfiril
+aliases:
+- "Alobal Lorfiril"
 ---
 # Alobal Lorfiril
 *Source: Mordenkainen's Tome of Foes p. 43* 

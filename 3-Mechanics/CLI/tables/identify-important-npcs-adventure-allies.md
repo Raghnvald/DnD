@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Identify Important NPCs; Adventure Allies
+- "Identify Important NPCs; Adventure Allies"
 ---
 # Identify Important NPCs; Adventure Allies
 *Source: Dungeon Master's Guide p. 74* 
 
 **Adventure Allies**
-
-`dice: [](identify-important-npcs-adventure-allies.md#^adventure-allies)`
 
 | dice: d12 | Ally |
 |-----------|------|

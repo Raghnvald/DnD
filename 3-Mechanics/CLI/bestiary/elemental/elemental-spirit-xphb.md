@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Elemental Spirit
+- "Elemental Spirit"
 ---
-# [Elemental Spirit](3-Mechanics\CLI\bestiary\elemental/elemental-spirit-xphb.md)
+# [Elemental Spirit](3-Mechanics/CLI/bestiary/elemental/elemental-spirit-xphb.md)
 *Source: Player's Handbook (2024) p. 325*  
 
 ```statblock
@@ -33,11 +33,11 @@ aliases:
   \ ft. (Water only)"
 "damage_resistances": "lightning, thunder (Air only)"
 "damage_immunities": "poison; fire (Fire only)"
-"condition_immunities": "[exhaustion](/3-Mechanics/CLI/conditions.md#Exhaustion),\
-  \ [paralyzed](/3-Mechanics/CLI/conditions.md#Paralyzed), [petrified](/3-Mechanics/CLI/conditions.md#Petrified),\
-  \ [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[Darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Primordial, understands the languages you know"
 "traits":
   - "desc": "The spirit can move through a space as narrow as 1 inch wide without\
@@ -53,6 +53,6 @@ aliases:
     "name": "Slam"
 "source":
   - "XPHB"
-"image": "/3-Mechanics/CLI/bestiary/elemental/token/elemental-spirit-xphb.webp"
+"image": "3-Mechanics/CLI/bestiary/elemental/token/elemental-spirit-xphb.webp"
 ```
 ^statblock

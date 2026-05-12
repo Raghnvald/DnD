@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Guardian Giant
+- "Guardian Giant"
 ---
-# [Guardian Giant](3-Mechanics\CLI\bestiary\giant/guardian-giant-ggr.md)
+# [Guardian Giant](3-Mechanics/CLI/bestiary/giant/guardian-giant-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 201*  
 
 Most of the giants in the Boros Legion come from a single clan, the Skorskal, that has long been at odds with the Gruul Clans. These giants are guards and gatekeepers, well represented in the Sunhome Guard, as well as powerful muscle supporting Boros missions.
@@ -29,8 +29,7 @@ Giants use their tremendous size and strength to advance the cause of no less th
 "type": "giant"
 "alignment": "Lawful Neutral"
 "ac": !!int "19"
-"ac_class": "[half plate armor](/3-Mechanics/CLI/items/half-plate-armor-xphb.md),\
-  \ [shield](/3-Mechanics/CLI/items/shield-xphb.md)"
+"ac_class": "half plate armor, shield"
 "hp": !!int "137"
 "hit_dice": "11d12 + 66"
 "modifier": !!int "3"
@@ -46,22 +45,24 @@ Giants use their tremendous size and strength to advance the cause of no less th
   - "dexterity": !!int "6"
   - "wisdom": !!int "7"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "Insight"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
+"gear":
+  - "spear"
 "senses": "passive Perception 20"
 "languages": "Common, Giant"
 "cr": "8"
 "traits":
-  - "desc": "The giant can't be [surprised](/3-Mechanics/CLI/conditions.md#Surprised)."
+  - "desc": "The giant can't be surprised."
     "name": "Vigilant"
 "actions":
   - "desc": "The giant makes three spear attacks."
     "name": "Multiattack"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 10 ft. or range 60/240\
-      \ ft., one target. *Hit:* 17 (3d6 + 7) piercing damage, or 20 (3d8 + 7) piercing\
-      \ damage if used with two hands to make a melee attack."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +10 to hit, reach 10 ft. or range\
+      \ 60/240 ft., one target. *Hit:* 17 (3d6 + 7) piercing damage, or 20 (3d8\
+      \ + 7) piercing damage if used with two hands to make a melee attack."
     "name": "Spear"
 "reactions":
   - "desc": "When an attacker the giant can see makes an attack roll against a creature\
@@ -70,6 +71,6 @@ Giants use their tremendous size and strength to advance the cause of no less th
     "name": "Protection"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/guardian-giant-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/guardian-giant-ggr.webp"
 ```
 ^statblock

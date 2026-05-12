@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/bmt
-- new/monster/cr/1
-- new/monster/size/medium
-- new/monster/type/construct
+- ttrpg-cli/compendium/src/5e/bmt
+- ttrpg-cli/monster/cr/1
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/construct
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Animated Armor Detention Drone
+- "Animated Armor Detention Drone"
 ---
-# [Animated Armor Detention Drone](3-Mechanics\CLI\bestiary\construct/animated-armor-detention-drone-bmt.md)
+# [Animated Armor Detention Drone](3-Mechanics/CLI/bestiary/construct/animated-armor-detention-drone-bmt.md)
 *Source: The Book of Many Things p. 135*  
 
 Detention drones vary in size, strength, and shape, though most are shaped like some kind of mechanical animal or plant.
@@ -52,8 +52,8 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
 "actions":
   - "desc": "The drone makes two melee attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5\
+      \ (1d6 + 2) bludgeoning damage."
     "name": "Slam"
   - "desc": "The drone launches a tiny orb of magical force at a creature it can see\
       \ within 30 feet of itself. The creature must succeed on a DC 15 Constitution\
@@ -71,6 +71,6 @@ Detention drones vary in size, strength, and shape, though most are shaped like 
     "name": "Detention Orb"
 "source":
   - "BMT"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/animated-armor-detention-drone-bmt.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/animated-armor-detention-drone-bmt.webp"
 ```
 ^statblock

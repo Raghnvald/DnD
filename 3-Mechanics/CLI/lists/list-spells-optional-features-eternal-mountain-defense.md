@@ -3,12 +3,12 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/optfeature/eternal-mountain-defense
+- ttrpg-cli/spell/list/optfeature/eternal-mountain-defense
 aliases:
-- Spells for Eternal Mountain Defense
+- "Spells for Eternal Mountain Defense"
 ---
 # Spells for Eternal Mountain Defense
 
 ## 4th Level
 
-- [Stoneskin](/3-Mechanics/CLI/spells/stoneskin.md "PHB")
+- [Stoneskin](3-Mechanics/CLI/spells/stoneskin.md "PHB")

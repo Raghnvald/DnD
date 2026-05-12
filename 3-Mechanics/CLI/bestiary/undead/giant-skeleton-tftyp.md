@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/tftyp
-- new/monster/cr/7
-- new/monster/size/huge
-- new/monster/type/undead
+- ttrpg-cli/compendium/src/5e/tftyp
+- ttrpg-cli/monster/cr/7
+- ttrpg-cli/monster/size/huge
+- ttrpg-cli/monster/type/undead
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Skeleton
+- "Giant Skeleton"
 ---
-# [Giant Skeleton](3-Mechanics\CLI\bestiary\undead/giant-skeleton-tftyp.md)
+# [Giant Skeleton](3-Mechanics/CLI/bestiary/undead/giant-skeleton-tftyp.md)
 *Source: Tales from the Yawning Portal p. 236*  
 
 In the Tomb of Horrors, treasure sometimes presents itself for the taking. In one such location, the "reward" for an attempt to grab some valuables turns out to be the animated skeleton of a giant—deadly not only because of its size and strength, but because it has defenses normally possessed only by undead of much greater power.
@@ -41,8 +41,12 @@ A skeleton doesn't require air, food, drink, or sleep.
 "speed": "30 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
-"condition_immunities": "exhaustion, poisoned"
-"senses": "darkvision 60 ft., passive Perception 8"
+"condition_immunities": "[exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"gear":
+  - "[scimitar](3-Mechanics/CLI/items/scimitar-xphb.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 8"
 "languages": "understands Giant but can't speak"
 "cr": "7"
 "traits":
@@ -58,11 +62,11 @@ A skeleton doesn't require air, food, drink, or sleep.
 "actions":
   - "desc": "The skeleton makes three scimitar attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (3d6 + 5) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (3d6 + 5) slashing damage."
     "name": "Scimitar"
 "source":
   - "TftYP"
-"image": "/3-Mechanics/CLI/bestiary/undead/token/giant-skeleton-tftyp.webp"
+"image": "3-Mechanics/CLI/bestiary/undead/token/giant-skeleton-tftyp.webp"
 ```
 ^statblock

@@ -11,7 +11,7 @@ tags:
 - ttrpg-cli/spell/class/ranger
 - ttrpg-cli/spell/class/sorcerer
 - ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/race/aasimar
+- ttrpg-cli/spell/reward/heliods-votary
 - ttrpg-cli/spell/school/evocation
 - ttrpg-cli/spell/subclass/circle-of-the-land/grassland
 - ttrpg-cli/spell/subclass/light-domain
@@ -25,7 +25,7 @@ classes:
 - Ranger
 - Sorcerer
 aliases:
-- Daylight
+- "Daylight"
 ---
 # Daylight
 *3rd-level, Evocation*  
@@ -42,6 +42,6 @@ If you chose a point on an object you are holding or one that isn't being worn o
 
 If any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.
 
-**Classes**: [Bard (Magical Secrets)](/3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](/3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric](/3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Grassland)](/3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](/3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](/3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](/3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](/3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**Classes**: [Bard (Magical Secrets)](3-Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](3-Mechanics/CLI/lists/list-spells-classes-light-domain.md); [Cleric](3-Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Grassland)](3-Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md); [Druid](3-Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](3-Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](3-Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](3-Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
 
 *Source: Player's Handbook p. 230. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*

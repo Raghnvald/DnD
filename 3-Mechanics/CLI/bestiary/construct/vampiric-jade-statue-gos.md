@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vampiric Jade Statue
+- "Vampiric Jade Statue"
 ---
-# [Vampiric Jade Statue](3-Mechanics\CLI\bestiary\construct/vampiric-jade-statue-gos.md)
+# [Vampiric Jade Statue](3-Mechanics/CLI/bestiary/construct/vampiric-jade-statue-gos.md)
 *Source: Ghosts of Saltmarsh p. 256*  
 
 A large, exquisitely carved jade statue of a vampire guards the tunnels in Isle of the Abbey, having been brought to life by dark magic. Its stone fangs draw blood that it then uses to work a curse on its victims.
@@ -71,6 +71,6 @@ A large, exquisitely carved jade statue of a vampire guards the tunnels in Isle 
     "name": "Move"
 "source":
   - "GoS"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/vampiric-jade-statue-gos.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/vampiric-jade-statue-gos.webp"
 ```
 ^statblock

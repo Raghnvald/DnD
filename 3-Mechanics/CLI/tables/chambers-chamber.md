@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Chambers; Chamber
+- "Chambers; Chamber"
 ---
 # Chambers; Chamber
 *Source: Dungeon Master's Guide p. 291* 
 
 **Chamber**
-
-`dice: [](chambers-chamber.md#^chamber)`
 
 | dice: d20 | Chamber |
 |-----------|---------|

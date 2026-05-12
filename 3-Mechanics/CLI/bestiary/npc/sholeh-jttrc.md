@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Sholeh
+- "Sholeh"
 ---
-# [Sholeh](3-Mechanics\CLI\bestiary\npc/sholeh-jttrc.md)
+# [Sholeh](3-Mechanics/CLI/bestiary/npc/sholeh-jttrc.md)
 *Source: Journeys through the Radiant Citadel p. 14*  
 
 ```statblock
@@ -39,16 +39,17 @@ aliases:
   - "wisdom": !!int "8"
   - "charisma": !!int "10"
 "skillsaves":
-  - "name": "History"
+  - "name": "[History](3-Mechanics/CLI/rules/skills.md#History)"
     "desc": "+9"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+14"
-  - "name": "Persuasion"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+10"
-  - "name": "Stealth"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+6"
 "damage_immunities": "fire"
-"senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
+  \ 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
 "cr": "20"
 "traits":
@@ -58,17 +59,17 @@ aliases:
   - "desc": "Sholeh can use its Frightful Presence. It then makes three attacks: one\
       \ with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (2d10 + 8) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (2d10 + 8) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15\
-      \ (2d6 + 8) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:*\
+      \ 15 (2d6 + 8) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17\
-      \ (2d8 + 8) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:*\
+      \ 17 (2d8 + 8) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of Sholeh's choice that is within 120 feet of Sholeh and\
-      \ aware of it must succeed on a DC 18 Wisdom saving throw or become frightened\
+      \ aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to Sholeh's\
@@ -76,10 +77,10 @@ aliases:
     "name": "Frightful Presence"
   - "desc": "Sholeh uses one of the following breath weapons:\n\n- **Fire Breath.**\
       \ Sholeh exhales fire in a 90-foot line that is 10 feet wide. Each creature\
-      \ in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6) fire\
-      \ damage on a failed save, or half as much damage on a successful one.  \n-\
-      \ **Sleep Breath.** Sholeh exhales sleep gas in a 90-foot cone. Each creature\
-      \ in that area must succeed on a DC 21 Constitution saving throw or fall unconscious\
+      \ in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6)\
+      \ fire damage on a failed save, or half as much damage on a successful one.\
+      \  \n- **Sleep Breath.** Sholeh exhales sleep gas in a 90-foot cone. Each creature\
+      \ in that area must succeed on a DC 21 Constitution saving throw or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
       \ for 10 minutes. This effect ends for a creature if the creature takes damage\
       \ or someone uses an action to wake it.  "
     "name": "Breath Weapons (Recharge 5-6)"
@@ -97,16 +98,18 @@ aliases:
   \ turn, Sholeh can expend a use to take one of the following actions. Sholeh regains\
   \ all expended uses at the start of each of their turns."
 "legendary_actions":
-  - "desc": "Sholeh makes a Wisdom (Perception) check."
+  - "desc": "Sholeh makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
+      \ check."
     "name": "Detect"
   - "desc": "Sholeh makes a tail attack."
     "name": "Tail Attack"
   - "desc": "Sholeh beats its wings. Each creature within 15 feet of Sholeh must succeed\
       \ on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage\
-      \ and be knocked prone. Sholeh can then fly up to half its flying speed."
+      \ and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone). Sholeh\
+      \ can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "JttRC"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/sholeh-jttrc.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/sholeh-jttrc.webp"
 ```
 ^statblock

@@ -5,12 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/pabtso
 - ttrpg-cli/item/rarity/varies
-aliases: 
+aliases:
 - "Mind Crystal"
 ---
 # Mind Crystal
 *Wondrous item*  
-![](/3-Mechanics/CLI/items/img/mind-crystal.webp#right)
+![](3-Mechanics/CLI/items/img/mind-crystal.webp#right)
 
 
 These gemstones contain a crystallized bit of spellcasting magic. Different types of mind crystals exist, each with a different single-use effect.
@@ -19,12 +19,12 @@ When you cast a spell that has a casting time of 1 action while holding a mind c
 
 **Items in this group:**
 
-- [Mind Crystal (Careful)](/3-Mechanics/CLI/items/mind-crystal-careful-pabtso.md)
-- [Mind Crystal (Distant)](/3-Mechanics/CLI/items/mind-crystal-distant-pabtso.md)
-- [Mind Crystal (Empowered)](/3-Mechanics/CLI/items/mind-crystal-empowered-pabtso.md)
-- [Mind Crystal (Extended)](/3-Mechanics/CLI/items/mind-crystal-extended-pabtso.md)
-- [Mind Crystal (Heightened)](/3-Mechanics/CLI/items/mind-crystal-heightened-pabtso.md)
-- [Mind Crystal (Quickened)](/3-Mechanics/CLI/items/mind-crystal-quickened-pabtso.md)
-- [Mind Crystal (Subtle)](/3-Mechanics/CLI/items/mind-crystal-subtle-pabtso.md)
+- [Mind Crystal (Careful)](3-Mechanics/CLI/items/mind-crystal-careful-pabtso.md)
+- [Mind Crystal (Distant)](3-Mechanics/CLI/items/mind-crystal-distant-pabtso.md)
+- [Mind Crystal (Empowered)](3-Mechanics/CLI/items/mind-crystal-empowered-pabtso.md)
+- [Mind Crystal (Extended)](3-Mechanics/CLI/items/mind-crystal-extended-pabtso.md)
+- [Mind Crystal (Heightened)](3-Mechanics/CLI/items/mind-crystal-heightened-pabtso.md)
+- [Mind Crystal (Quickened)](3-Mechanics/CLI/items/mind-crystal-quickened-pabtso.md)
+- [Mind Crystal (Subtle)](3-Mechanics/CLI/items/mind-crystal-subtle-pabtso.md)
 
 *Source: Phandelver and Below: The Shattered Obelisk p. 218*

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Hag Names
+- "Hag Names"
 ---
 # Hag Names
 *Source: Volo's Guide to Monsters p. 55* 
 
 **Hag Names**
-
-`dice: [](hag-names-vgm.md#^hag-names)`
 
 | dice: d12 | Title | First Name | Last Name |
 |-----------|-------|------------|-----------|

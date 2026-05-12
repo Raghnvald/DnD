@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/melee
 - ttrpg-cli/item/weapon/simple
-aliases: 
+aliases:
 - "Javelin"
 ---
 # Javelin
@@ -16,7 +16,7 @@ aliases:
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](/3-Mechanics/CLI/item-properties.md#Thrown)
+- **Properties**: [Thrown](3-Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 

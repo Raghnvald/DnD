@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Ancient Gold Dragon
+- "Ancient Gold Dragon"
 ---
-# [Ancient Gold Dragon](3-Mechanics\CLI\bestiary\dragon/ancient-gold-dragon.md)
+# [Ancient Gold Dragon](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)
 *Source: Monster Manual p. 113. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -109,16 +109,16 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "wisdom": !!int "10"
   - "charisma": !!int "16"
 "skillsaves":
-  - "name": "[Insight](/3-Mechanics/CLI/skills.md#Insight)"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+10"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+17"
-  - "name": "[Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)"
+  - "name": "[Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)"
     "desc": "+16"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+9"
 "damage_immunities": "fire"
-"senses": "[blindsight](/3-Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/3-Mechanics/CLI/senses.md#Darkvision)\
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision)\
   \ 120 ft., passive Perception 27"
 "languages": "Common, Draconic"
 "cr": "24"
@@ -131,17 +131,17 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   - "desc": "The dragon can use its Frightful Presence. It then makes three attacks:\
       \ one with its bite and two with its claws."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21\
-      \ (2d10 + 10) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:*\
+      \ 21 (2d10 + 10) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17\
-      \ (2d6 + 10) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:*\
+      \ 17 (2d6 + 10) slashing damage."
     "name": "Claw"
-  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19\
-      \ (2d8 + 10) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:*\
+      \ 19 (2d8 + 10) bludgeoning damage."
     "name": "Tail"
   - "desc": "Each creature of the dragon's choice that is within 120 feet of the dragon\
-      \ and aware of it must succeed on a DC 24 Wisdom saving throw or become [frightened](/3-Mechanics/CLI/conditions.md#Frightened)\
+      \ and aware of it must succeed on a DC 24 Wisdom saving throw or become [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)\
       \ for 1 minute. A creature can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -149,13 +149,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
     "name": "Frightful Presence"
   - "desc": "The dragon uses one of the following breath weapons.\n\n- **Fire Breath.**\
       \ The dragon exhales fire in a 90-foot cone. Each creature in that area must\
-      \ make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed\
-      \ save, or half as much damage on a successful one.  \n- **Weakening Breath.**\
-      \ The dragon exhales gas in a 90-foot cone. Each creature in that area must\
-      \ succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based\
-      \ attack rolls, Strength checks, and Strength saving throws for 1 minute. A\
-      \ creature can repeat the saving throw at the end of each of its turns, ending\
-      \ the effect on itself on a success.  "
+      \ make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a\
+      \ failed save, or half as much damage on a successful one.  \n- **Weakening\
+      \ Breath.** The dragon exhales gas in a 90-foot cone. Each creature in that\
+      \ area must succeed on a DC 24 Strength saving throw or have disadvantage on\
+      \ Strength-based attack rolls, Strength checks, and Strength saving throws for\
+      \ 1 minute. A creature can repeat the saving throw at the end of each of its\
+      \ turns, ending the effect on itself on a success.  "
     "name": "Breath Weapons (Recharge 5-6)"
   - "desc": "The dragon magically polymorphs into a humanoid or beast that has a challenge\
       \ rating no higher than its own, or back into its true form. It reverts to its\
@@ -180,13 +180,13 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
       \ Otherwise, the effect ends on initiative count 20 on the next round. When\
       \ the effect ends, the creature reappears in the space it left or in the nearest\
       \ unoccupied space if that one is occupied.  \n\n**Additional Lair Action.**\
-      \ At your discretion, a legendary ([adult](/3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md)\
-      \ or [ancient](/3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)) gold\
+      \ At your discretion, a legendary ([adult](3-Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md)\
+      \ or [ancient](3-Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)) gold\
       \ dragon can use the following additional lair action while in its lair:\n\n\
       - **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the\
       \ dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw\
-      \ or be [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by the dragon until\
-      \ initiative count 20 on the next round.  "
+      \ or be [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by the dragon\
+      \ until initiative count 20 on the next round.  "
     "name": ""
 "regional_effects":
   - "desc": "The region containing a legendary gold dragon's lair is warped by the\
@@ -217,19 +217,19 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
   \ turn, the dragon can expend a use to take one of the following actions. The dragon\
   \ regains all expended uses at the start of each of its turns."
 "legendary_actions":
-  - "desc": "The dragon makes a Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
+  - "desc": "The dragon makes a Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception))\
       \ check."
     "name": "Detect"
   - "desc": "The dragon makes a tail attack."
     "name": "Tail Attack"
   - "desc": "The dragon beats its wings. Each creature within 15 feet of the dragon\
       \ must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning\
-      \ damage and be knocked [prone](/3-Mechanics/CLI/conditions.md#Prone). The dragon\
-      \ can then fly up to half its flying speed."
+      \ damage and be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ The dragon can then fly up to half its flying speed."
     "name": "Wing Attack (Costs 2 Actions)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/dragon/token/ancient-gold-dragon.webp"
+"image": "3-Mechanics/CLI/bestiary/dragon/token/ancient-gold-dragon.webp"
 ```
 ^statblock
 

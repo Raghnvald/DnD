@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flying Staff
+- "Flying Staff"
 ---
-# [Flying Staff](3-Mechanics\CLI\bestiary\construct/flying-staff-wdh.md)
+# [Flying Staff](3-Mechanics/CLI/bestiary/construct/flying-staff-wdh.md)
 *Source: Waterdeep: Dragon Heist p. 152*  
 
 ```statblock
@@ -36,25 +36,31 @@ aliases:
 "saves":
   - "dexterity": !!int "4"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "blinded, charmed, deafened, frightened, paralyzed, petrified,\
-  \ poisoned"
-"senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 7"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [deafened](3-Mechanics/CLI/rules/conditions.md#Deafened), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened),\
+  \ [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified),\
+  \ [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind\
+  \ beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
-  - "desc": "The staff is incapacitated while in the area of an antimagic field. If\
-      \ targeted by dispel magic, the staff must succeed on a Constitution saving\
-      \ throw against the caster's spell save DC or fall unconscious for 1 minute."
+  - "desc": "The staff is [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated)\
+      \ while in the area of an [antimagic field](3-Mechanics/CLI/spells/antimagic-field-xphb.md).\
+      \ If targeted by [dispel magic](3-Mechanics/CLI/spells/dispel-magic-xphb.md),\
+      \ the staff must succeed on a Constitution saving throw against the caster's\
+      \ spell save DC or fall [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ for 1 minute."
     "name": "Antimagic Susceptibility"
   - "desc": "While the staff remains motionless and isn't flying, it is indistinguishable\
       \ from a normal staff."
     "name": "False Appearance"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6\
-      \ + 1) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4\
+      \ (1d6 + 1) bludgeoning damage."
     "name": "Knife"
 "source":
   - "WDH"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/flying-staff-wdh.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/flying-staff-wdh.webp"
 ```
 ^statblock

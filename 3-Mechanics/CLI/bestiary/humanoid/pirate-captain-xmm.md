@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Pirate Captain
+- "Pirate Captain"
 ---
-# [Pirate Captain](3-Mechanics\CLI\bestiary\humanoid/pirate-captain-xmm.md)
+# [Pirate Captain](3-Mechanics/CLI/bestiary/humanoid/pirate-captain-xmm.md)
 *Source: Monster Manual (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 
 Pirate captains command crews of pirates, dictating their destinations and targets. Captains cultivate fearsome and theatrical reputations, painting themselves as larger-than-life characters to terrorize their foes, ensure the obedience of their crews, and attract followers to their banner. Many have colorful nicknames inspired by signature traits and deeds.
@@ -23,7 +23,7 @@ Pirate captains command crews of pirates, dictating their destinations and targe
 *Freebooters and Fortune Hunters*
 
 - **Habitat.** Any  
-- **Treasure.** Individual, [Implements](/3-Mechanics/CLI/tables/random-magic-items-implements.md)  
+- **Treasure.** Individual, [Implements](3-Mechanics/CLI/tables/random-magic-items-implements.md)  
 
 The term "pirate" encompasses a broad range of seafarers, including vicious sea rovers, dogged privateers, cursed treasure hunters, and others who seek riches and fame on the seas.
 
@@ -34,8 +34,6 @@ Pirates might be allies, foes, wild cards, or some combination thereof. While th
 To terrify opponents and spread their reputations, pirate crews fly distinctive flags. Roll twice on or choose results from the Pirate Flags table to inspire what flag a pirate crew sails under.
 
 **Pirate Flags**
-
-`dice: [](pirate-captain-xmm.md#^pirate-flags)`
 
 | dice: 1d8 | The Flag Shows A... | With... |
 |-----------|---------------------|---------|
@@ -72,18 +70,21 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
   - "wisdom": !!int "5"
   - "charisma": !!int "6"
 "skillsaves":
-  - "name": "[Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)"
+  - "name": "[Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)"
     "desc": "+7"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+5"
+"gear":
+  - "[pistol](3-Mechanics/CLI/items/pistol-xphb.md)"
+  - "[rapier](3-Mechanics/CLI/items/rapier-xphb.md)"
 "senses": "passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "6"
 "actions":
   - "desc": "The pirate makes three attacks, using Rapier or Pistol in any combination."
     "name": "Multiattack"
-  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing damage,\
-      \ and the pirate has [Advantage](/3-Mechanics/CLI/variant-rules/advantage-xphb.md)\
+  - "desc": "*Melee Attack Roll:* +7, reach 5 ft. *Hit:* 13 (2d8 + 4) Piercing\
+      \ damage, and the pirate has [Advantage](3-Mechanics/CLI/rules/variant-rules/advantage-xphb.md)\
       \ on the next attack roll it makes before the end of this turn."
     "name": "Rapier"
   - "desc": "*Ranged Attack Roll:* +7, range 30/90 ft. *Hit:* 15 (2d10 + 4) Piercing\
@@ -91,7 +92,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Pistol"
 "bonus_actions":
   - "desc": "*Wisdom Saving Throw:* DC 14, one creature the pirate can see within\
-      \ 30 feet. *Failure:* The target has the [Charmed](/3-Mechanics/CLI/conditions.md#Charmed)\
+      \ 30 feet. *Failure:* The target has the [Charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)\
       \ condition until the start of the pirate's next turn."
     "name": "Captain's Charm"
 "reactions":
@@ -102,7 +103,7 @@ To terrify opponents and spread their reputations, pirate crews fly distinctive 
     "name": "Riposte"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/pirate-captain-xmm.webp"
 ```
 ^statblock
 

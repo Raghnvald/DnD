@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Flux Blastseeker
+- "Flux Blastseeker"
 ---
-# [Flux Blastseeker](3-Mechanics\CLI\bestiary\humanoid/flux-blastseeker-ggr.md)
+# [Flux Blastseeker](3-Mechanics/CLI/bestiary/humanoid/flux-blastseeker-ggr.md)
 *Source: Guildmasters' Guide to Ravnica p. 242*  
 
 While chemisters focus on inventing new tools, weapons, and other devices for the guild to use, the role of a blastseeker is to put those devices to work. Despite the name, not all such devices produce explosions, but all the most interesting ones (from the Izzet perspective) do.
@@ -24,7 +24,7 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
 "subtype": "any race"
 "alignment": "Chaotic Neutral"
 "ac": !!int "12"
-"ac_class": "15 with [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)"
+"ac_class": "15 with mage armor"
 "hp": !!int "55"
 "hit_dice": "10d8 + 10"
 "modifier": !!int "2"
@@ -40,22 +40,22 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
   - "dexterity": !!int "5"
   - "intelligence": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+8"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
+"gear":
+  - "quarterstaff"
 "senses": "passive Perception 12"
 "languages": "Common plus any one language"
 "cr": "5"
 "traits":
   - "desc": "The blastseeker's innate spellcasting ability is Intelligence (spell\
-      \ save DC 16, +8 to hit with spell attacks). The blastseeker can innately cast\
-      \ the following spells, requiring no components other than its Izzet gear, which\
-      \ doesn't function for others:\n\n**3/day each:** [mage armor](/3-Mechanics/CLI/spells/mage-armor-xphb.md)\
-      \ (self only), [scorching ray](/3-Mechanics/CLI/spells/scorching-ray-xphb.md)\n\
-      \n**1/day each:** [banishment](/3-Mechanics/CLI/spells/banishment-xphb.md),\
-      \ [cone of cold](/3-Mechanics/CLI/spells/cone-of-cold-xphb.md), [dimension door](/3-Mechanics/CLI/spells/dimension-door-xphb.md),\
-      \ [fireball](/3-Mechanics/CLI/spells/fireball-xphb.md), [ice storm](/3-Mechanics/CLI/spells/ice-storm-xphb.md)"
+      \ save DC 16, +8 to hit with spell attacks). The blastseeker can innately\
+      \ cast the following spells, requiring no components other than its Izzet gear,\
+      \ which doesn't function for others:\n\n**3/day each:** mage armor (self only),\
+      \ scorching ray\n\n**1/day each:** banishment, cone of cold, dimension door,\
+      \ fireball, ice storm"
     "name": "Innate Spellcasting"
   - "desc": "The blastseeker can create an additional effect immediately after casting\
       \ a spell. Roll a d6 to determine the effect: 1-3. The blastseeker teleports,\
@@ -64,11 +64,12 @@ While chemisters focus on inventing new tools, weapons, and other devices for th
       \ Constitution saving throw or take 11 (2d10) thunder damage."
     "name": "Fluxbending Overcast (Recharge 5-6)"
 "actions":
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d6)\
-      \ bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two hands."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d6) bludgeoning damage, or 4 (1d8) bludgeoning damage if used with two\
+      \ hands."
     "name": "Quarterstaff"
 "source":
   - "GGR"
-"image": "/3-Mechanics/CLI/bestiary/humanoid/token/flux-blastseeker-ggr.webp"
+"image": "3-Mechanics/CLI/bestiary/humanoid/token/flux-blastseeker-ggr.webp"
 ```
 ^statblock

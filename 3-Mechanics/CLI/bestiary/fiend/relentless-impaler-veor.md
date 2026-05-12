@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Relentless Impaler
+- "Relentless Impaler"
 ---
-# [Relentless Impaler](3-Mechanics\CLI\bestiary\fiend/relentless-impaler-veor.md)
+# [Relentless Impaler](3-Mechanics/CLI/bestiary/fiend/relentless-impaler-veor.md)
 *Source: Vecna: Eve of Ruin p. 231*  
 
 In the Domains of Dread, practitioners of foul magic perform a profane ritual that turns living creatures into fiendish killers. This ritual necessitates the use of a ceremonial stake, which is plunged into the heart of a living sacrifice. The hulking form of the relentless impaler then emerges from the sacrifice's pool of blood, spear in hand.
@@ -44,37 +44,39 @@ The impaler pursues its creator's agenda coldly and efficiently. It has no conce
   - "dexterity": !!int "8"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "Athletics"
+  - "name": "[Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)"
     "desc": "+11"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+7"
-  - "name": "Survival"
+  - "name": "[Survival](3-Mechanics/CLI/rules/skills.md#Survival)"
     "desc": "+7"
-"condition_immunities": "charmed, exhaustion, frightened"
-"senses": "darkvision 120 ft., passive Perception 17"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 17"
 "languages": "understands all languages but can't speak"
 "cr": "15"
 "traits":
   - "desc": "The impaler is magically bound to the ceremonial stake and the sacrificed\
       \ corpse the ritual caster used to create it. If the impaler is reduced to 0\
-      \ hit points, it disappears, then re-forms 1d8 hours later in the nearest unoccupied\
-      \ space to the stake and regains all its hit points. The impaler dies only if\
-      \ it is reduced to 0 hit points while either the ceremonial stake is removed\
-      \ from the sacrifice's corpse or the impaler is on a different plane of existence\
-      \ from that corpse."
+      \ hit points, it disappears, then re-forms 1d8 hours later in the nearest\
+      \ unoccupied space to the stake and regains all its hit points. The impaler\
+      \ dies only if it is reduced to 0 hit points while either the ceremonial stake\
+      \ is removed from the sacrifice's corpse or the impaler is on a different plane\
+      \ of existence from that corpse."
     "name": "Bloodheart Stake"
   - "desc": "If the impaler fails a saving throw, it can choose to succeed instead."
     "name": "Legendary Resistance (3/Day)"
 "actions":
   - "desc": "The impaler makes one Spike attack and two Wicked Spear attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 15\
-      \ (2d8 + 6) piercing damage, and the target's speed is halved until the start\
-      \ of the impaler's next turn."
+  - "desc": "*Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:*\
+      \ 15 (2d8 + 6) piercing damage, and the target's speed is halved until the\
+      \ start of the impaler's next turn."
     "name": "Spike"
-  - "desc": "*Melee  or Ranged Weapon Attack:* +11 to hit, reach 10 ft. or range 20/40\
-      \ ft., one target. *Hit:* 13 (2d6 + 6) piercing damage plus 13 (3d8) necrotic\
-      \ damage."
+  - "desc": "*Melee  or Ranged Weapon Attack:* +11 to hit, reach 10 ft. or range\
+      \ 20/40 ft., one target. *Hit:* 13 (2d6 + 6) piercing damage plus 13 (3d8)\
+      \ necrotic damage."
     "name": "Wicked Spear"
   - "desc": "Twisted, spectral spikes shoot out from the impaler's body. Each creature\
       \ within 30 feet of the impaler must make a DC 19 Dexterity saving throw, taking\
@@ -93,6 +95,6 @@ The impaler pursues its creator's agenda coldly and efficiently. It has no conce
     "name": "Deepen Wounds (Costs 2 Actions)"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/relentless-impaler-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/relentless-impaler-veor.webp"
 ```
 ^statblock

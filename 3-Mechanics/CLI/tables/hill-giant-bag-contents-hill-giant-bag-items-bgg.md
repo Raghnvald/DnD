@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- Hill Giant Bag Contents; Hill Giant Bag Items
+- "Hill Giant Bag Contents; Hill Giant Bag Items"
 ---
 # Hill Giant Bag Contents; Hill Giant Bag Items
 *Source: Bigby Presents: Glory of the Giants p. 107* 
 
 **Hill Giant Bag Items**
-
-`dice: [](hill-giant-bag-contents-hill-giant-bag-items-bgg.md#^hill-giant-bag-items)`
 
 | dice: d12 | Item |
 |-----------|------|

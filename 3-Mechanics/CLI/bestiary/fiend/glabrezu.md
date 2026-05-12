@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Glabrezu
+- "Glabrezu"
 ---
-# [Glabrezu](3-Mechanics\CLI\bestiary\fiend/glabrezu.md)
-*Source: Monster Manual p. 58, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+# [Glabrezu](3-Mechanics/CLI/bestiary/fiend/glabrezu.md)
+*Source: Monster Manual p. 58. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
 
@@ -159,7 +159,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 > 
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if charmed, and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 > 
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 ^demon-true-names
@@ -213,15 +213,18 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "poisoned"
-"senses": "truesight 120 ft., passive Perception 13"
+"condition_immunities": "[poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "9"
 "traits":
   - "desc": "The glabrezu's spellcasting ability is Intelligence (spell save DC 16).\
       \ The glabrezu can innately cast the following spells, requiring no material\
-      \ components:\n\n**At will:** darkness, detect magic, dispel magic\n\n**1/day\
-      \ each:** confusion, fly, power word stun"
+      \ components:\n\n**At will:** [darkness](3-Mechanics/CLI/spells/darkness.md),\
+      \ [detect magic](3-Mechanics/CLI/spells/detect-magic.md), [dispel magic](3-Mechanics/CLI/spells/dispel-magic.md)\n\
+      \n**1/day each:** [confusion](3-Mechanics/CLI/spells/confusion.md), [fly](3-Mechanics/CLI/spells/fly.md),\
+      \ [power word stun](3-Mechanics/CLI/spells/power-word-stun.md)"
     "name": "Innate Spellcasting"
   - "desc": "The glabrezu has advantage on saving throws against spells and other\
       \ magical effects."
@@ -231,17 +234,16 @@ Demonologists organize the chaotic distribution of demons into broad categories 
       \ fists. Alternatively, it makes two attacks with its pincers and casts one\
       \ spell."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16\
-      \ (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature,\
-      \ it is grappled (escape DC 15). The glabrezu has two pincers, each of which\
-      \ can grapple only one target."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature,\
+      \ it is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled) (escape DC\
+      \ 15). The glabrezu has two pincers, each of which can grapple only one target."
     "name": "Pincer"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (2d4\
-      \ + 2) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7\
+      \ (2d4 + 2) bludgeoning damage."
     "name": "Fist"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/glabrezu.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/glabrezu.webp"
 ```
 ^statblock

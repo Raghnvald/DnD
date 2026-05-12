@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Nightmare Haunt
+- "Nightmare Haunt"
 ---
-# [Nightmare Haunt](3-Mechanics\CLI\bestiary\aberration/nightmare-haunt-mcv4ec.md)
+# [Nightmare Haunt](3-Mechanics/CLI/bestiary/aberration/nightmare-haunt-mcv4ec.md)
 *Source: Monstrous Compendium Volume 4: Eldraine Creatures*  
 
 Nightmare haunts are terrors from the minds of Eldraine's sleeping citizens, made tangible by the planeswalker Ashiok. These creatures can hurt the body and also attack the minds of dreamers afflicted by the Wicked Slumber.
@@ -44,8 +44,10 @@ Nightmare haunts appear as horrifying shadow creatures with forms evocative of t
   - !!int "17"
 "speed": "30 ft., climb 30 ft."
 "damage_immunities": "psychic"
-"condition_immunities": "blinded, charmed, exhaustion, frightened"
-"senses": "blindsight 120 ft. (can't see beyond this radius), passive Perception 11"
+"condition_immunities": "[blinded](3-Mechanics/CLI/rules/conditions.md#Blinded), [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed),\
+  \ [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (can't\
+  \ see beyond this radius), passive Perception 11"
 "languages": "Deep Speech, telepathy 120 ft."
 "cr": "5"
 "traits":
@@ -53,35 +55,39 @@ Nightmare haunts appear as horrifying shadow creatures with forms evocative of t
       \ other magical effects."
     "name": "Magic Resistance"
   - "desc": "At the start of its turn, the nightmare haunt gains a number of temporary\
-      \ hit points equal to 5 times the number of unconscious creatures within 30\
-      \ feet of itself."
+      \ hit points equal to 5 times the number of [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ creatures within 30 feet of itself."
     "name": "Somnophage"
 "actions":
   - "desc": "The nightmare haunt makes two Claw attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6\
-      \ + 3) slashing damage plus 9 (2d8) psychic damage."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d6 + 3) slashing damage plus 9 (2d8) psychic damage."
     "name": "Claw"
   - "desc": "The nightmare haunt creates spectral tendrils that cover the ground in\
       \ a 20-foot square that it can see within 30 feet of itself for 1 minute or\
       \ until it uses this action again. When a creature other than the nightmare\
       \ haunt enters the affected area for the first time or starts its turn there,\
       \ the creature must succeed on a DC 14 Strength saving throw or take 11 (2d10)\
-      \ necrotic damage and have the restrained condition. The affected ground is\
-      \ also considered difficult terrain for creatures other than the nightmare haunt\
-      \ for the duration of its effect.\n\nA creature that starts its turn in the\
-      \ area and is already restrained by the tendrils must repeat the saving throw.\
-      \ On a failed save, it has the unconscious condition and instead of the restrained\
+      \ necrotic damage and have the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ condition. The affected ground is also considered difficult terrain for creatures\
+      \ other than the nightmare haunt for the duration of its effect.\n\nA creature\
+      \ that starts its turn in the area and is already [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
+      \ by the tendrils must repeat the saving throw. On a failed save, it has the\
+      \ [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious) condition and\
+      \ instead of the [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained)\
       \ condition caused by the tendrils. On a successful save, the effect ends on\
-      \ the creature. An unconscious creature remains asleep until it is no longer\
-      \ in the area with tendrils, takes any damage, or is targeted by a remove curse\
+      \ the creature. An [unconscious](3-Mechanics/CLI/rules/conditions.md#Unconscious)\
+      \ creature remains asleep until it is no longer in the area with tendrils, takes\
+      \ any damage, or is targeted by a [remove curse](3-Mechanics/CLI/spells/remove-curse.md)\
       \ spell or similar magic."
     "name": "Tendrils of Slumber (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in dim light or darkness, the nightmare haunt takes the Hide action."
+  - "desc": "While in dim light or darkness, the nightmare haunt takes the [Hide](3-Mechanics/CLI/rules/actions.md#Hide)\
+      \ action."
     "name": "Shadow Stealth"
 "source":
   - "MCV4EC"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/nightmare-haunt-mcv4ec.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/nightmare-haunt-mcv4ec.webp"
 ```
 ^statblock

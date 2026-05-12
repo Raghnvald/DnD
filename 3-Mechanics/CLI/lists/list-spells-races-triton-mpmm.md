@@ -3,20 +3,21 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/race/triton
+- ttrpg-cli/spell/list/race/triton
 aliases:
-- Spells for Triton
+- "Spells for Triton"
 ---
 # Spells for Triton
 
 ## 1st Level
 
-- [Fog Cloud](/3-Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") 
+- [Fog Cloud](3-Mechanics/CLI/spells/fog-cloud.md "PHB")
 
 ## 2nd Level
 
-- [Gust of Wind](/3-Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") 
+- [Gust of Wind](3-Mechanics/CLI/spells/gust-of-wind.md "PHB") at class level 3
 
 ## 3rd Level
 
-- [Water Walk](/3-Mechanics/CLI/spells/water-walk-xphb.md "XPHB")
+- [Wall of Water](3-Mechanics/CLI/spells/wall-of-water-xge.md "XGE")
+- [Water Walk](3-Mechanics/CLI/spells/water-walk.md "PHB") at class level 5

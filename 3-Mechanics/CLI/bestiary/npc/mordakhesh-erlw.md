@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/15
-- new/monster/size/medium
-- new/monster/type/fiend
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/15
+- ttrpg-cli/monster/size/medium
+- ttrpg-cli/monster/type/fiend
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Mordakhesh
+- "Mordakhesh"
 ---
-# [Mordakhesh](3-Mechanics\CLI\bestiary\npc/mordakhesh-erlw.md)
+# [Mordakhesh](3-Mechanics/CLI/bestiary/npc/mordakhesh-erlw.md)
 *Source: Eberron: Rising from the Last War p. 301*  
 
 In the age when fiends and dragons waged war across Eberron, rakshasas served the fiendish lords as strategists and generals. A rakshasa named Mordakhesh rose up through the ranks to become one of the greatest commanders of his age, and a dragon-slaying specialist. For this, he earned the nickname Shadowsword, along with a legendary reputation for leaving death in his wake.
@@ -56,6 +56,8 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 "damage_vulnerabilities": "piercing from magic weapons wielded by good creatures"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks that\
   \ aren't silvered"
+"gear":
+  - "greatsword"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "Common, Infernal"
 "cr": "15"
@@ -74,8 +76,8 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
 "actions":
   - "desc": "Mordakhesh makes three greatsword attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12\
-      \ (2d6 + 5) slashing damage plus 5 (1d10) force damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:*\
+      \ 12 (2d6 + 5) slashing damage plus 5 (1d10) force damage."
     "name": "Greatsword"
   - "desc": "*Ranged Spell Attack:* +10 to hit, range 120 ft., one creature. *Hit:*\
       \ 13 (3d8) damage of a type chosen by Mordakhesh: acid, cold, fire, lightning,\
@@ -96,6 +98,6 @@ Many of the horrors of the Last War were instigated—or at least encouraged—b
     "name": "Warlord's Command (Costs 2 Actions)"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/mordakhesh-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/mordakhesh-erlw.webp"
 ```
 ^statblock

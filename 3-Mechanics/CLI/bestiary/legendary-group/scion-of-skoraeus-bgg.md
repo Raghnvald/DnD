@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/bgg
 - ttrpg-cli/monster/legendary-group
 aliases:
-- Scion of Skoraeus
+- "Scion of Skoraeus"
 ---
 # Scion of Skoraeus
 
@@ -19,4 +19,4 @@ The region surrounding a scion of Skoraeus is altered by the giant's magic, crea
 - **Edible Moss.** Carpets of golden moss that stone giants find tasty grow on cavern walls within 6 miles of the scion.  
 - **Empowered Stone Giants.** Stone giants within 1,000 feet of the scion gain a +7 bonus to attack and damage rolls.  
 
-If the scion dies, the Empowered Stone Giants effect ends immediately. The other effects cease to produce new moss and minerals, and existing moss dies within `dice:1d10|noform|noparens|avg` (`1d10`) days.
+If the scion dies, the Empowered Stone Giants effect ends immediately. The other effects cease to produce new moss and minerals, and existing moss dies within `1d10` days.

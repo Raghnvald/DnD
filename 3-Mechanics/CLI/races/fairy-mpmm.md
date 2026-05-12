@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mpmm
 - ttrpg-cli/race/fairy
 aliases:
-- Fairy
+- "Fairy"
 ---
 # Fairy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 14*  
-![](/3-Mechanics/CLI/races/img/fairy.webp#right)
+![](3-Mechanics/CLI/races/img/fairy.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Type**: fey
@@ -26,7 +26,7 @@ You are a Fey.
 
 ### Fairy Magic
 
-You know the [druidcraft](/3-Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. Starting at 3rd level, you can cast the [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell with this trait. Once you cast [faerie fire](/3-Mechanics/CLI/spells/faerie-fire-xphb.md) or [enlarge/reduce](/3-Mechanics/CLI/spells/enlarge-reduce-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [druidcraft](3-Mechanics/CLI/spells/druidcraft.md) cantrip. Starting at 3rd level, you can cast the [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) spell with this trait. Starting at 5th level, you can also cast the [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md) spell with this trait. Once you cast [faerie fire](3-Mechanics/CLI/spells/faerie-fire.md) or [enlarge/reduce](3-Mechanics/CLI/spells/enlarge-reduce.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -41,8 +41,6 @@ The Feywild is home to many fantastic peoples, including fairies. Fairies are a 
 Infused with the magic of the Feywild, most fairies look like Small elves with insectile wings, but each fairy has a special physical characteristic that sets the fairy apart. For your fairy, roll on the Fey Characteristics table or choose an option from it. You're also free to come up with your own characteristic if none of the suggestions below fit your character.
 
 **Fey Characteristics**
-
-`dice: [](fairy-mpmm.md#^fey-characteristics)`
 
 | dice: d8 | Characteristic |
 |----------|----------------|

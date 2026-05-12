@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/erlw
-- new/monster/cr/1-2
-- new/monster/size/small
-- new/monster/type/aberration
+- ttrpg-cli/compendium/src/5e/erlw
+- ttrpg-cli/monster/cr/1-2
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/aberration
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Dolgrim
+- "Dolgrim"
 ---
-# [Dolgrim](3-Mechanics\CLI\bestiary\aberration/dolgrim-erlw.md)
+# [Dolgrim](3-Mechanics/CLI/bestiary/aberration/dolgrim-erlw.md)
 *Source: Eberron: Rising from the Last War p. 291*  
 
 Dolgrims are squat, deformed things. Warped by the daelkyr, a dolgrim is essentially two goblins crushed into one creature, their misshapen body boasting four arms and a pair of twisted mouths that gibber and slather at the front of a headless torso. The two mouths of a dolgrim sometimes carry on demented conversations with one another. However, a dolgrim has only a single personality—sadistic, bloodthirsty, and brutally dedicated to serving itself.
@@ -37,6 +37,10 @@ Small numbers of these creatures sometimes make their way to the surface, often 
   - !!int "10"
   - !!int "8"
 "speed": "30 ft."
+"gear":
+  - "hand crossbow"
+  - "morningstar"
+  - "spear"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Deep Speech, Goblin"
 "cr": "1/2"
@@ -47,8 +51,8 @@ Small numbers of these creatures sometimes make their way to the surface, often 
 "actions":
   - "desc": "The dolgrim makes three attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8\
-      \ + 2) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6\
+      \ (1d8 + 2) piercing damage."
     "name": "Morningstar"
   - "desc": "*Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing\
@@ -59,6 +63,6 @@ Small numbers of these creatures sometimes make their way to the surface, often 
     "name": "Hand Crossbow"
 "source":
   - "ERLW"
-"image": "/3-Mechanics/CLI/bestiary/aberration/token/dolgrim-erlw.webp"
+"image": "3-Mechanics/CLI/bestiary/aberration/token/dolgrim-erlw.webp"
 ```
 ^statblock

@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/drow
 - ttrpg-cli/domain/tempest
 - ttrpg-cli/domain/trickery
-aliases: 
-- Malyk
+aliases:
+- "Malyk"
 ---
 # Malyk
 *Source: Mordenkainen's Tome of Foes p. 54* 

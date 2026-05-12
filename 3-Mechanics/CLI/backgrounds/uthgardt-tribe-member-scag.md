@@ -6,16 +6,16 @@ tags:
 - ttrpg-cli/background
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- Uthgardt Tribe Member
+- "Uthgardt Tribe Member"
 ---
 # Uthgardt Tribe Member
 *Source: Sword Coast Adventurer's Guide p. 153*  
 
 
-- **Skill Proficiencies.** [Athletics](/3-Mechanics/CLI/skills.md#Athletics), [Survival](/3-Mechanics/CLI/skills.md#Survival)  
+- **Skill Proficiencies.** [Athletics](3-Mechanics/CLI/rules/skills.md#Athletics), [Survival](3-Mechanics/CLI/rules/skills.md#Survival)  
 - **Languages.** Any one of your choice  
 - **Tool Proficiencies.** One type of musical instrument or artisan's tools  
-- **Equipment.** A [hunting trap](/3-Mechanics/CLI/items/hunting-trap-xphb.md), a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of [traveler's clothes](/3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a [pouch](/3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
+- **Equipment.** A [hunting trap](3-Mechanics/CLI/items/hunting-trap-xphb.md), a totemic token or set of tattoos marking your loyalty to Uthgar and your tribal totem, a set of [traveler's clothes](3-Mechanics/CLI/items/travelers-clothes-xphb.md), and a [pouch](3-Mechanics/CLI/items/pouch-xphb.md) containing 10 gp  
 
 Though you might have only recently arrived in civilized lands, you are no stranger to the values of cooperation and group effort when striving for supremacy. You learned these principles, and much more, as a member of an Uthgardt tribe.
 
@@ -40,7 +40,7 @@ Additionally, you can call upon the hospitality of your people, and those allied
 
 ## Suggested Characteristics
 
-Use the tables for the [outlander](/3-Mechanics/CLI/backgrounds/outlander.md) background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of an Uthgardt tribe.
+Use the tables for the outlander background in the Player's Handbook as the basis for your traits and motivations, modifying the entries when appropriate to suit your identity as a member of an Uthgardt tribe.
 
 Even if you have left your tribe behind (at least for now), you hold to the traditions of your people. You will never cut down a still-living tree, and you may not countenance such an act being done in your presence. The Uthgardt ancestral mounds - great hills where the totem spirits were defeated by Uthgar and where the heroes of the tribes are interred - are sacred to you.
 

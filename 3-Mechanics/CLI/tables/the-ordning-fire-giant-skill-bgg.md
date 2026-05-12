@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/bgg
 aliases:
-- The Ordning; Fire Giant Skill
+- "The Ordning; Fire Giant Skill"
 ---
 # The Ordning; Fire Giant Skill
 *Source: Bigby Presents: Glory of the Giants p. 24* 
 
 **Fire Giant Skill**
-
-`dice: [](the-ordning-fire-giant-skill-bgg.md#^fire-giant-skill)`
 
 | dice: d6 | Adventure Hook |
 |----------|----------------|

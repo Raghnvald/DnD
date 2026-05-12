@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Physical Characteristics; Beholder Iris Shape
+- "Physical Characteristics; Beholder Iris Shape"
 ---
 # Physical Characteristics; Beholder Iris Shape
 *Source: Volo's Guide to Monsters p. 8* 
 
 **Beholder Iris Shape**
-
-`dice: [](physical-characteristics-beholder-iris-shape-vgm.md#^beholder-iris-shape)`
 
 | dice: d20 | Iris Shape |
 |-----------|------------|

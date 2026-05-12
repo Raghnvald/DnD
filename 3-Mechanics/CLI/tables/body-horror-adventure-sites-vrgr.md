@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Body Horror Adventure Sites
+- "Body Horror Adventure Sites"
 ---
 # Body Horror Adventure Sites
 *Source: Van Richten's Guide to Ravenloft p. 47* 
 
 **Body Horror Adventure Sites**
-
-`dice: [](body-horror-adventure-sites-vrgr.md#^body-horror-adventure-sites)`
 
 | dice: d8 | Adventure Site |
 |----------|----------------|

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Monsters' Desires; Fey
+- "Monsters' Desires; Fey"
 ---
 # Monsters' Desires; Fey
 *Source: Tasha's Cauldron of Everything p. 148* 
 
 **Fey**
-
-`dice: [](monsters-desires-fey-tce.md#^fey)`
 
 | dice: d4 | Desired Offering |
 |----------|------------------|

@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fomorian Warlock of the Dark
+- "Fomorian Warlock of the Dark"
 ---
-# [Fomorian Warlock of the Dark](3-Mechanics\CLI\bestiary\giant/fomorian-warlock-of-the-dark-bgg.md)
+# [Fomorian Warlock of the Dark](3-Mechanics/CLI/bestiary/giant/fomorian-warlock-of-the-dark-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 144*  
 
 Some fomorians search for the arcane glory their kind possessed before their banishment into the Underdark. They forge magical pacts with entities of the dark—perhaps powerful Fey of the Gloaming Court or eldritch entities buried deep in the Underdark. Their pacts give these fomorians power over shadows, allowing them to mold and shape darkness like clay.
@@ -43,14 +43,15 @@ Descended from Annam's son Karontor, fomorians once occupied a place in the gian
   - "wisdom": !!int "6"
   - "charisma": !!int "8"
 "skillsaves":
-  - "name": "[Arcana](/3-Mechanics/CLI/skills.md#Arcana)"
+  - "name": "Arcana"
     "desc": "+3"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+6"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+5"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 16"
+"gear":
+  - "greatclub"
+"senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Giant, Undercommon"
 "cr": "12"
 "traits":
@@ -72,8 +73,8 @@ Descended from Annam's son Karontor, fomorians once occupied a place in the gian
   - "desc": "The fomorian makes three Greatclub attacks. If the fomorian has its blood\
       \ rune, it can replace one of these attacks with a use of Corrupting Hex."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage plus 7 (2d6) necrotic damage."
+  - "desc": "*Melee Weapon Attack:* +10 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage plus 7 (2d6) necrotic damage."
     "name": "Greatclub"
   - "desc": "The fomorian targets one creature it can see within 60 feet of itself.\
       \ The target must succeed on a DC 16 Charisma saving throw or take 27 (6d8)\
@@ -84,31 +85,29 @@ Descended from Annam's son Karontor, fomorians once occupied a place in the gian
   - "desc": "Magical energy explodes in a 20-foot-radius sphere centered on a point\
       \ the fomorian can see within 120 feet of itself. Each creature in that area\
       \ must make a DC 16 Dexterity saving throw. On a failed save, a creature takes\
-      \ 32 (5d12) force damage and has the [prone](/3-Mechanics/CLI/conditions.md#Prone)\
-      \ condition. On a successful save, a creature takes half as much damage only."
+      \ 32 (5d12) force damage and has the prone condition. On a successful save,\
+      \ a creature takes half as much damage only."
     "name": "Eldritch Burst"
   - "desc": "The fomorian casts one of the following spells, using Charisma as the\
-      \ spellcasting ability (spell save DC 16):\n\n**At will:** [detect magic](/3-Mechanics/CLI/spells/detect-magic-xphb.md),\
-      \ [levitate](/3-Mechanics/CLI/spells/levitate-xphb.md), [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md),\
-      \ [prestidigitation](/3-Mechanics/CLI/spells/prestidigitation-xphb.md)\n\n**1/day\
-      \ each:** [detect thoughts](/3-Mechanics/CLI/spells/detect-thoughts-xphb.md),\
-      \ [suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md), [telekinesis](/3-Mechanics/CLI/spells/telekinesis-xphb.md)"
+      \ spellcasting ability (spell save DC 16):\n\n**At will:** detect magic, levitate,\
+      \ mage hand, prestidigitation\n\n**1/day each:** detect thoughts, suggestion,\
+      \ telekinesis"
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The fomorian momentarily conjures grasping darkness in a 30-foot-radius\
       \ sphere centered on a point it can see within 120 feet of itself. Each creature\
       \ in that area must succeed on a DC 16 Constitution saving throw or take 11\
-      \ (2d10) necrotic damage and have the [blinded](/3-Mechanics/CLI/conditions.md#Blinded)\
-      \ condition until the end of its next turn."
+      \ (2d10) necrotic damage and have the blinded condition until the end of its\
+      \ next turn."
     "name": "Creeping Gloom (Recharge 6)"
 "reactions":
   - "desc": "In response to being damaged by a creature the fomorian can see within\
       \ 60 feet of itself, the fomorian forces that creature to make a DC 16 Constitution\
-      \ saving throw; on a failed save, the creature has the [poisoned](/3-Mechanics/CLI/conditions.md#Poisoned)\
-      \ condition until the end of its next turn."
+      \ saving throw; on a failed save, the creature has the poisoned condition until\
+      \ the end of its next turn."
     "name": "Poisoning Rebuke (Requires Blood Rune)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian-warlock-of-the-dark-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/fomorian-warlock-of-the-dark-bgg.webp"
 ```
 ^statblock

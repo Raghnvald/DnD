@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Frost Giant Ice Shaper
+- "Frost Giant Ice Shaper"
 ---
-# [Frost Giant Ice Shaper](3-Mechanics\CLI\bestiary\giant/frost-giant-ice-shaper-bgg.md)
+# [Frost Giant Ice Shaper](3-Mechanics/CLI/bestiary/giant/frost-giant-ice-shaper-bgg.md)
 *Source: Bigby Presents: Glory of the Giants p. 145*  
 
 Frost giants who master rune magic are known as ice shapers, and their sheer power typically contributes to a meteoric rise in the giants' ordning. Many of them end up as jarls, leading their communities, or as advisers to jarls—often the true power behind the throne. They are usually devoted to Thrym.
@@ -26,7 +26,7 @@ True to their name, these ice shapers manipulate the raw elemental energy of air
 "subtype": "cleric"
 "alignment": "Any alignment"
 "ac": !!int "16"
-"ac_class": "[chain mail](/3-Mechanics/CLI/items/chain-mail-xphb.md)"
+"ac_class": "chain mail"
 "hp": !!int "310"
 "hit_dice": "27d12 + 135"
 "modifier": !!int "0"
@@ -44,11 +44,13 @@ True to their name, these ice shapers manipulate the raw elemental energy of air
   - "wisdom": !!int "10"
   - "charisma": !!int "9"
 "skillsaves":
-  - "name": "[Athletics](/3-Mechanics/CLI/skills.md#Athletics)"
+  - "name": "Athletics"
     "desc": "+12"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+10"
 "damage_immunities": "cold"
+"gear":
+  - "greataxe"
 "senses": "passive Perception 20"
 "languages": "Common, Giant"
 "cr": "17"
@@ -68,17 +70,17 @@ True to their name, these ice shapers manipulate the raw elemental energy of air
   - "desc": "The giant makes three attacks using Greataxe, Freezing Ray, or a combination\
       \ of them."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 22\
-      \ (3d10 + 6) slashing damage plus 9 (2d8) cold damage."
+  - "desc": "*Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:*\
+      \ 22 (3d10 + 6) slashing damage plus 9 (2d8) cold damage."
     "name": "Greataxe"
   - "desc": "*Ranged Spell Attack:* +10 to hit, range 120 ft., one target. *Hit:*\
-      \ 17 (3d8 + 4) cold damage, and the target must make a DC 18 Constitution saving\
-      \ throw. On a failed save, the target has the [restrained](/3-Mechanics/CLI/conditions.md#Restrained)\
-      \ condition until the end of its next turn. On a successful save, the target's\
-      \ speed is reduced by 10 feet until the end of its next turn."
+      \ 17 (3d8 + 4) cold damage, and the target must make a DC 18 Constitution\
+      \ saving throw. On a failed save, the target has the restrained condition until\
+      \ the end of its next turn. On a successful save, the target's speed is reduced\
+      \ by 10 feet until the end of its next turn."
     "name": "Freezing Ray"
-  - "desc": "The giant magically summons 1d4 wolves made of ice (use the [winter wolf](/3-Mechanics/CLI/bestiary/monstrosity/winter-wolf-xmm.md)\
-      \ stat block in the Monster Manual to represent them, but they are Elementals\
+  - "desc": "The giant magically summons 1d4 wolves made of ice (use the winter\
+      \ wolf stat block in the Monster Manual to represent them, but they are Elementals\
       \ instead of Monstrosities). The wolves appear in unoccupied spaces the giant\
       \ can see within 30 feet of itself. The wolves take their turn immediately after\
       \ the giant on the same initiative count, and they obey the giant's commands.\
@@ -95,6 +97,6 @@ True to their name, these ice shapers manipulate the raw elemental energy of air
     "name": "Ice Armor (Requires Frost Rune)"
 "source":
   - "BGG"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/frost-giant-ice-shaper-bgg.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/frost-giant-ice-shaper-bgg.webp"
 ```
 ^statblock

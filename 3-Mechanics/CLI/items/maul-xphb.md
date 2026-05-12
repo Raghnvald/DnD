@@ -7,15 +7,15 @@ tags:
 - ttrpg-cli/item/rarity/none
 - ttrpg-cli/item/weapon/martial
 - ttrpg-cli/item/weapon/melee
-aliases: 
+aliases:
 - "Maul"
 ---
 # Maul
 *Weapon*  
-![](/3-Mechanics/CLI/items/img/maul.webp#right)
+![](3-Mechanics/CLI/items/img/maul.webp#right)
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](/3-Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/3-Mechanics/CLI/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](3-Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](3-Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.
 

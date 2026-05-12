@@ -12,9 +12,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Modron Monodrone
+- "Modron Monodrone"
 ---
-# [Modron Monodrone](3-Mechanics\CLI\bestiary\construct/modron-monodrone-xmm.md)
+# [Modron Monodrone](3-Mechanics/CLI/bestiary/construct/modron-monodrone-xmm.md)
 *Source: Monster Manual (2024) p. 216*  
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
@@ -39,8 +39,6 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 Whether in service to lawful deities or as part of the Great Modron March, modrons travel from Mechanus to spread their vision of law to other planes of existence. Roll on or choose a result from the Modron Operations table to inspire what effort leads a group of modrons to other realms.
 
 **Modron Operations**
-
-`dice: [](modron-monodrone-xmm.md#^modron-operations)`
 
 | dice: 1d8 | The Modrons Work To... |
 |-----------|------------------------|
@@ -76,9 +74,9 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
-"condition_immunities": "[charmed](/3-Mechanics/CLI/conditions.md#Charmed)"
-"senses": "[truesight](/3-Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception\
-  \ 10"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed)"
+"senses": "[Truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive\
+  \ Perception 10"
 "languages": "Modron"
 "cr": "1/8"
 "traits":
@@ -88,11 +86,12 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "actions":
   - "desc": "*Melee Attack Roll:* +4, reach 5 ft. *Hit:* 6 (1d8 + 2) Force damage."
     "name": "Gear"
-  - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 6 (1d8 + 2) Force damage."
+  - "desc": "*Ranged Attack Roll:* +4, range 120 ft. *Hit:* 6 (1d8 + 2) Force\
+      \ damage."
     "name": "Gear Flinger"
 "source":
   - "XMM"
-"image": "/3-Mechanics/CLI/bestiary/construct/token/modron-monodrone-xmm.webp"
+"image": "3-Mechanics/CLI/bestiary/construct/token/modron-monodrone-xmm.webp"
 ```
 ^statblock
 

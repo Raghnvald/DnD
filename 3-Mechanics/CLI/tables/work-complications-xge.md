@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Work Complications
+- "Work Complications"
 ---
 # Work Complications
 *Source: Xanathar's Guide to Everything p. 134* 
 
 **Work Complications**
-
-`dice: [](work-complications-xge.md#^work-complications)`
 
 | dice: d6 | Complication |
 |----------|--------------|

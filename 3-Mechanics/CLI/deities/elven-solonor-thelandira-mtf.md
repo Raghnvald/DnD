@@ -7,8 +7,8 @@ tags:
 - ttrpg-cli/deity/elven
 - ttrpg-cli/domain/nature
 - ttrpg-cli/domain/war
-aliases: 
-- Solonor Thelandira
+aliases:
+- "Solonor Thelandira"
 ---
 # Solonor Thelandira
 *Source: Mordenkainen's Tome of Foes p. 43* 

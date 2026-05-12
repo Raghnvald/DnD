@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Romance; Romantic Elements
+- "Romance; Romantic Elements"
 ---
 # Romance; Romantic Elements
 *Source: Van Richten's Guide to Ravenloft p. 148* 
 
 **Romantic Elements**
-
-`dice: [](romance-romantic-elements-vrgr.md#^romantic-elements)`
 
 | dice: d8 | Romantic Element |
 |----------|------------------|

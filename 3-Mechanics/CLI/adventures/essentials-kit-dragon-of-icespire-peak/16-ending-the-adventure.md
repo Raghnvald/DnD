@@ -3,14 +3,14 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/dip
+- ttrpg-cli/compendium/src/5e/dip
 aliases:
-- Ending the Adventure
+- "Ending the Adventure"
 ---
 # Ending the Adventure
 *Source: Essentials Kit: Dragon of Icespire Peak, p. 48* 
 
-![Rock Gnome Recluse](/3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/035-eta-01.webp#center)
+![Rock Gnome Recluse](3-Mechanics/CLI/adventures/essentials-kit-dragon-of-icespire-peak/img/035-eta-01.webp#center)
 
 The adventure can end in one of several ways. Ideally, it concludes with the defeat of Cryovain the white dragon, the completion of all the Phandalin quests, or both. By then, the characters should be 6th level. Give the players a chance to wrap up loose ends before declaring the adventure over. For example, the characters might need to return to Phandalin to collect an outstanding reward or notify townsfolk that the dragon has been dealt with. Armed with such good news, Townmaster Harbin Wester might plan a feast in the heroes' honor. What happens next is up to you.
 

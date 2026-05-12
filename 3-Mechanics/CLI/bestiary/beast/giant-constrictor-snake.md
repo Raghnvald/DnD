@@ -15,10 +15,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Giant Constrictor Snake
+- "Giant Constrictor Snake"
 ---
-# [Giant Constrictor Snake](3-Mechanics\CLI\bestiary\beast/giant-constrictor-snake.md)
-*Source: Monster Manual p. 324, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Giant Constrictor Snake](3-Mechanics/CLI/bestiary/beast/giant-constrictor-snake.md)
+*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Giant Constrictor Snake"
@@ -38,24 +38,24 @@ aliases:
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+2"
-"senses": "blindsight 10 ft., passive Perception 12"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive\
+  \ Perception 12"
 "languages": ""
 "cr": "2"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:*\
       \ 11 (2d6 + 4) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13\
-      \ (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until\
-      \ this grapple ends, the creature is restrained, and the snake can't constrict\
-      \ another target."
+  - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:*\
+      \ 13 (2d8 + 4) bludgeoning damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 16). Until this grapple ends, the creature is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained),\
+      \ and the snake can't constrict another target."
     "name": "Constrict"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/giant-constrictor-snake.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/giant-constrictor-snake.webp"
 ```
 ^statblock
 

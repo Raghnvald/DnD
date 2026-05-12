@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vgm
 aliases:
-- Roleplaying a Yuan-ti; Yuan-ti Bonds
+- "Roleplaying a Yuan-ti; Yuan-ti Bonds"
 ---
 # Roleplaying a Yuan-ti; Yuan-ti Bonds
 *Source: Volo's Guide to Monsters p. 98* 
 
 **Yuan-ti Bonds**
-
-`dice: [](roleplaying-a-yuan-ti-yuan-ti-bonds-vgm.md#^yuan-ti-bonds)`
 
 | dice: d6 | Bond |
 |----------|------|

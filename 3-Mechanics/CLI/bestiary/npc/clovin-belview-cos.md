@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Clovin Belview
+- "Clovin Belview"
 ---
-# [Clovin Belview](3-Mechanics\CLI\bestiary\npc/clovin-belview-cos.md)
+# [Clovin Belview](3-Mechanics/CLI/bestiary/npc/clovin-belview-cos.md)
 *Source: Curse of Strahd p. 147*  
 
 ```statblock
@@ -35,41 +35,41 @@ aliases:
   - !!int "6"
 "speed": "20 ft."
 "skillsaves":
-  - "name": "[Deception](/3-Mechanics/CLI/skills.md#Deception)"
+  - "name": "Deception"
     "desc": "+2"
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "Perception"
     "desc": "+2"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "Stealth"
     "desc": "+3"
+"gear":
+  - "dagger"
 "senses": "passive Perception 12"
 "languages": "Common"
 "cr": "1/4"
 "traits":
-  - "desc": "The mongrelfolk has advantage on Wisdom ([Perception](/3-Mechanics/CLI/skills.md#Perception))\
-      \ checks and on saving throws against being [blinded](/3-Mechanics/CLI/conditions.md#Blinded),\
-      \ [charmed](/3-Mechanics/CLI/conditions.md#Charmed), [deafened](/3-Mechanics/CLI/conditions.md#Deafened),\
-      \ [frightened](/3-Mechanics/CLI/conditions.md#Frightened), [stunned](/3-Mechanics/CLI/conditions.md#Stunned),\
-      \ or knocked [unconscious](/3-Mechanics/CLI/conditions.md#Unconscious)."
+  - "desc": "The mongrelfolk has advantage on Wisdom (Perception) checks and on saving\
+      \ throws against being blinded, charmed, deafened, frightened, stunned, or knocked\
+      \ unconscious."
     "name": "Two-Headed"
   - "desc": "Clovin can mimic any sounds it has heard, including voices. A creature\
       \ that hears the sounds can tell they are imitations with a successful DC 12\
-      \ Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check."
+      \ Wisdom (Insight) check."
     "name": "Mimicry"
 "actions":
   - "desc": "Clovin makes two attacks: one with its bite and one with its claw or\
       \ dagger."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) piercing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) piercing damage."
     "name": "Bite"
-  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4\
-      \ + 1) slashing damage."
+  - "desc": "*Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3\
+      \ (1d4 + 1) slashing damage."
     "name": "Claw"
   - "desc": "*Melee  or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60\
       \ ft., one target. *Hit:* 3 (1d4 + 1) piercing damage."
     "name": "Dagger"
 "source":
   - "CoS"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/clovin-belview-cos.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/clovin-belview-cos.webp"
 ```
 ^statblock

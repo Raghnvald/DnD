@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/ftd
 aliases:
-- Bronze Dragon Treasures; Bronze Dragon Art Objects
+- "Bronze Dragon Treasures; Bronze Dragon Art Objects"
 ---
 # Bronze Dragon Treasures; Bronze Dragon Art Objects
 *Source: Fizban's Treasury of Dragons p. 98* 
 
 **Bronze Dragon Art Objects**
-
-`dice: [](bronze-dragon-treasures-bronze-dragon-art-objects-ftd.md#^bronze-dragon-art-objects)`
 
 | dice: d10 | Object |
 |-----------|--------|

@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Kevetta Dolindar
+- "Kevetta Dolindar"
 ---
-# [Kevetta Dolindar](3-Mechanics\CLI\bestiary\npc/kevetta-dolindar-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Kevetta Dolindar](3-Mechanics/CLI/bestiary/npc/kevetta-dolindar-veor.md)
+*Source: Vecna: Eve of Ruin p. 34*  
 
 ```statblock
 "name": "Kevetta Dolindar (VEoR)"
@@ -34,7 +34,8 @@ aliases:
   - !!int "6"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
-"senses": "darkvision 60 ft., passive Perception 10"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive\
+  \ Perception 10"
 "languages": "Common"
 "cr": "9"
 "traits":
@@ -48,18 +49,19 @@ aliases:
 "actions":
   - "desc": "Kevetta makes one Harpoon Arm attack, and it uses Sorrowful Embrace."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:* 21\
-      \ (4d8 + 3) piercing damage, and the target is grappled (escape DC 15) if it\
-      \ is a Large or smaller creature. Kevetta has two harpoon arms and can grapple\
-      \ up to two creatures at once."
+  - "desc": "*Melee Weapon Attack:* +7 to hit, reach 60 ft., one target. *Hit:*\
+      \ 21 (4d8 + 3) piercing damage, and the target is [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ (escape DC 15) if it is a Large or smaller creature. Kevetta has two harpoon\
+      \ arms and can grapple up to two creatures at once."
     "name": "Harpoon Arm"
-  - "desc": "Each creature grappled by Kevetta must make a DC 15 Wisdom saving throw,\
-      \ taking 18 (4d8) psychic damage on a failed save, or half as much damage on\
-      \ a successful one. In either case, Kevetta pulls each of those creatures up\
-      \ to 30 feet straight toward it."
+  - "desc": "Each creature [grappled](3-Mechanics/CLI/rules/conditions.md#Grappled)\
+      \ by Kevetta must make a DC 15 Wisdom saving throw, taking 18 (4d8) psychic\
+      \ damage on a failed save, or half as much damage on a successful one. In either\
+      \ case, Kevetta pulls each of those creatures up to 30 feet straight toward\
+      \ it."
     "name": "Sorrowful Embrace"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/kevetta-dolindar-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/kevetta-dolindar-veor.webp"
 ```
 ^statblock

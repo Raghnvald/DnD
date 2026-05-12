@@ -7,11 +7,11 @@ tags:
 - ttrpg-cli/item/rarity/rare
 - ttrpg-cli/item/shield/
 - ttrpg-cli/item/tier/major
-aliases: 
+aliases:
 - "+2 Shield"
 ---
 # +2 Shield
-*Armor ([shield](/3-Mechanics/CLI/items/shield.md)), major, rare*  
+*Armor (shield), major, rare*  
 
 
 - **Armor Class**: 2

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/xge
 - ttrpg-cli/subclass/rogue/swashbuckler
 aliases:
-- Swashbuckler
+- "Swashbuckler"
 ---
 # Swashbuckler
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
@@ -47,13 +47,11 @@ aliases:
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-## Class Features
-
-### Swashbuckler (Level 3)
-
 You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.
 
 A Swashbuckler excels in single combat, and can fight with two weapons while safely darting away from an opponent.
+
+## Subclass Features
 
 ### Fancy Footwork (Level 3)
 
@@ -67,15 +65,15 @@ You also gain an additional way to use your Sneak Attack; you don't need advanta
 
 ### Panache (Level 9)
 
-At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ([Persuasion](/3-Mechanics/CLI/skills.md#Persuasion)) check contested by a creature's Wisdom ([Insight](/3-Mechanics/CLI/skills.md#Insight)) check. The creature must be able to hear you, and the two of you must share a language.
+At 9th level, your charm becomes extraordinarily beguiling. As an action, you can make a Charisma ([Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check contested by a creature's Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check. The creature must be able to hear you, and the two of you must share a language.
 
 If you succeed on the check and the creature is hostile to you, it has disadvantage on attack rolls against targets other than you and can't make opportunity attacks against targets other than you. This effect lasts for 1 minute, until one of your companions attacks the target or affects it with a spell, or until you and the target are more than 60 feet apart.
 
-If you succeed on the check and the creature isn't hostile to you, it is [charmed](/3-Mechanics/CLI/conditions.md#Charmed) by you for 1 minute. While [charmed](/3-Mechanics/CLI/conditions.md#Charmed), it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
+If you succeed on the check and the creature isn't hostile to you, it is [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed) by you for 1 minute. While [charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), it regards you as a friendly acquaintance. This effect ends immediately if you or your companions do anything harmful to it.
 
 ### Elegant Maneuver (Level 13)
 
-Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ([Acrobatics](/3-Mechanics/CLI/skills.md#Acrobatics)) or Strength ([Athletics](/3-Mechanics/CLI/skills.md#Athletics)) check you make during the same turn.
+Starting at 13th level, you can use a bonus action on your turn to gain advantage on the next Dexterity ([Acrobatics](3-Mechanics/CLI/rules/skills.md#Acrobatics)) or Strength ([Athletics](3-Mechanics/CLI/rules/skills.md#Athletics)) check you make during the same turn.
 
 ### Master Duelist (Level 17)
 

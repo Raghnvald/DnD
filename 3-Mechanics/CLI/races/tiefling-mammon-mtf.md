@@ -6,11 +6,11 @@ tags:
 - ttrpg-cli/compendium/src/5e/mtf
 - ttrpg-cli/race/tiefling/mammon
 aliases:
-- Tiefling (Mammon)
+- "Tiefling (Mammon)"
 ---
 # Tiefling (Mammon)
 *Source: Mordenkainen's Tome of Foes p. 22*  
-![](/3-Mechanics/CLI/races/img/tiefling.webp#right)
+![](3-Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: cha +2 int +1
 - **Size**: Medium
@@ -37,7 +37,7 @@ You have resistance to fire damage.
 
 ### Legacy of Minauros
 
-You know the [mage hand](/3-Mechanics/CLI/spells/mage-hand-xphb.md) cantrip. When you reach 3rd level, you can cast the [Tenser's floating disk](/3-Mechanics/CLI/spells/tensers-floating-disk-xphb.md) spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [arcane lock](/3-Mechanics/CLI/spells/arcane-lock-xphb.md) spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+You know the [mage hand](3-Mechanics/CLI/spells/mage-hand.md) cantrip. When you reach 3rd level, you can cast the [Tenser's floating disk](3-Mechanics/CLI/spells/tensers-floating-disk.md) spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the [arcane lock](3-Mechanics/CLI/spells/arcane-lock.md) spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
 
 ### Languages
 

@@ -3,9 +3,9 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- new/compendium/src/5e/slw
+- ttrpg-cli/compendium/src/5e/slw
 aliases:
-- Aid from Phandalin
+- "Aid from Phandalin"
 ---
 # Aid from Phandalin
 *Source: Essentials Kit: Storm Lord's Wrath* 
@@ -22,7 +22,7 @@ To complete the Aid from Phandalin quest (see "Leilon Quests"), the adventurers 
 
 ## Travel to Phandalin
 
-The town council approaches the characters one morning and asks them to undertake a different kind of mission. One of the town residents, a gnome named Pinchwit Wigglehoof, is an expert goatherd. But her flock of goats are no normal herd. She raises [giant goats](/3-Mechanics/CLI/bestiary/beast/giant-goat.md), excellent producers of milk and meat, and even their goat-hair is highly valued for its tensile strength and warmth.
+The town council approaches the characters one morning and asks them to undertake a different kind of mission. One of the town residents, a gnome named Pinchwit Wigglehoof, is an expert goatherd. But her flock of goats are no normal herd. She raises [giant goats](3-Mechanics/CLI/bestiary/beast/giant-goat-xmm.md), excellent producers of milk and meat, and even their goat-hair is highly valued for its tensile strength and warmth.
 
 Elmar Barthen, proprietor of Barthen's Provisions in Phandalin, is brokering a deal with a wealthy Waterdhavian merchant to sell some of Pinchwit's stock for a very lucrative profit. As a goatherd in the employ of Dagult Neverember and the town of Leilon, Pinchwit's profits are the town's profits.
 
@@ -38,13 +38,13 @@ The characters have the following encounters as they travel to Phandalin.
 
 ### Goat Check
 
-At some point during the trip, a pair of [wyverns](/3-Mechanics/CLI/bestiary/dragon/wyvern.md) fly above the goat-train heading for Phandalin. The wyverns do not attack; even with their limited intelligence, they understand that such a large group of people could prove dangerous to them.
+At some point during the trip, a pair of [wyverns](3-Mechanics/CLI/bestiary/dragon/wyvern-xmm.md) fly above the goat-train heading for Phandalin. The wyverns do not attack; even with their limited intelligence, they understand that such a large group of people could prove dangerous to them.
 
 The goats, however, panic at the sight of these large predators, causing them to flee in every direction. The characters must do everything in their power to keep the goats together, because the wyverns do not hesitate to pick off stragglers.
 
 #### Herding
 
-When the goats bolt, each character can attempt a DC 10 Wisdom (Animal Handling) check. If at least half of the checks succeed, the characters manage to keep the herd together, and the wyverns move on to easier pickings. If the checks fail, the herd breaks up, leaving many goats vulnerable to wyvern attacks. If this happens, the characters have a choice:
+When the goats bolt, each character can attempt a DC 10 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) check. If at least half of the checks succeed, the characters manage to keep the herd together, and the wyverns move on to easier pickings. If the checks fail, the herd breaks up, leaving many goats vulnerable to wyvern attacks. If this happens, the characters have a choice:
 
 - They can stay together, saving half the herd but losing many of the goats to the wyvern attack. This reduces that money that the town could make from the merchant.  
 - They can split up and each go after one of the groups of goats that split off. That means, however, that half the group must fight one wyvern, and the other half must fight the other, and they are 3000 feet away from each other, likely unable to help each other.  
@@ -53,9 +53,9 @@ When the goats bolt, each character can attempt a DC 10 Wisdom (Animal Handling)
 
 One night (or day if the situation dictates), while the traveling goat show is resting for the evening, a family of ogres catches their scent. Being ogres, always hungry and particularly grumpy around goats, the ogres decide to attack.
 
-Assuming some of the characters are sleeping for the night, anyone on guard duty can attempt a DC 15 Wisdom (Animal Handling) or Wisdom (Insight) check to notice that the goats are getting restless. This gives those on guard three rounds to wake up any sleepers and take precautions.
+Assuming some of the characters are sleeping for the night, anyone on guard duty can attempt a DC 15 Wisdom ([Animal Handling](3-Mechanics/CLI/rules/skills.md#Animal%20Handling)) or Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check to notice that the goats are getting restless. This gives those on guard three rounds to wake up any sleepers and take precautions.
 
-After three rounds, the [ogres](/3-Mechanics/CLI/bestiary/giant/ogre.md), numbering three plus one per character, excluding sidekicks, charge out of the darkness and begin grabbing goats. When the characters intervene, the ogres drop the goats and attempt to smash the adventurers.
+After three rounds, the [ogres](3-Mechanics/CLI/bestiary/giant/ogre-xmm.md), numbering three plus one per character, excluding sidekicks, charge out of the darkness and begin grabbing goats. When the characters intervene, the ogres drop the goats and attempt to smash the adventurers.
 
 > [!note] Your Campaign, Your Phandalin
 > 
@@ -82,9 +82,9 @@ While the characters are in the common room at night, Toblen looks up as the doo
 
 #### Following Skeel
 
-If the characters leave quickly, they can spot Skeel ducking into an abandoned shack on the edge of town with a successful DC 16 Wisdom (Perception) check. Skeel lives in the cellar of this building with a number of ghouls that he commands. (See "The Attack" below for more information on Skeel and the ghouls.)
+If the characters leave quickly, they can spot Skeel ducking into an abandoned shack on the edge of town with a successful DC 16 Wisdom ([Perception](3-Mechanics/CLI/rules/skills.md#Perception)) check. Skeel lives in the cellar of this building with a number of ghouls that he commands. (See "The Attack" below for more information on Skeel and the ghouls.)
 
-If the characters follow Skeel into the shack, they cannot find him. A DC 20 Intelligence (Investigation) check finds the secret door in the floor leading to the basement, where the undead hide. If the characters find and deal with them here, the undead don't attack as the characters try to leave town.
+If the characters follow Skeel into the shack, they cannot find him. A DC 20 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check finds the secret door in the floor leading to the basement, where the undead hide. If the characters find and deal with them here, the undead don't attack as the characters try to leave town.
 
 ### Lionshield Coster
 
@@ -98,9 +98,9 @@ If the characters approach Velleen about her lost brooch, the cultist and her ko
 
 ### Barthen's Provisions
 
-Elmar Barthen runs this general store with help from his two assistants, Ander and Thistle. Elmar and Ander know rumors and are happy to spread them, but Thistle is a little more reluctant to talk. A successful DC 15 Wisdom (Insight) check reveals his nervous reticence.
+Elmar Barthen runs this general store with help from his two assistants, Ander and Thistle. Elmar and Ander know rumors and are happy to spread them, but Thistle is a little more reluctant to talk. A successful DC 15 Wisdom ([Insight](3-Mechanics/CLI/rules/skills.md#Insight)) check reveals his nervous reticence.
 
-If the characters push him for information, he can be prompted to talk with a DC 15 Charisma (Intimidation or Persuasion) check. He then admits that he has taken a liking to Velleen, the new assistant at the Lionshield Coster. They were spending time together, getting to know each other, when she started talking about some scary stuff. She believes the Stormlord is going to come and wipe out the weak and the nonbelievers, and that he should join her. He's avoided her since then.
+If the characters push him for information, he can be prompted to talk with a DC 15 Charisma ([Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation) or [Persuasion](3-Mechanics/CLI/rules/skills.md#Persuasion)) check. He then admits that he has taken a liking to Velleen, the new assistant at the Lionshield Coster. They were spending time together, getting to know each other, when she started talking about some scary stuff. She believes the Stormlord is going to come and wipe out the weak and the nonbelievers, and that he should join her. He's avoided her since then.
 
 ### Phandalin Miner's Exchange
 
@@ -110,7 +110,7 @@ She is willing to tell the characters as much or as little information as you wa
 
 ### Shrine of Luck
 
-The characters were asked by the Leilon town council to pick up ten vials of holy water at the shrine. When the characters arrive, the place is empty, and the shrine has been ransacked. There is no sign of anyone who worked here, but with a successful DC 15 Intelligence (Investigation) check, the characters find a silver pin displaying three parallel lightning bolts. This should indicate to them that worshippers of Talos are in town.
+The characters were asked by the Leilon town council to pick up ten vials of holy water at the shrine. When the characters arrive, the place is empty, and the shrine has been ransacked. There is no sign of anyone who worked here, but with a successful DC 15 Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check, the characters find a silver pin displaying three parallel lightning bolts. This should indicate to them that worshippers of Talos are in town.
 
 ### Townmaster's Hall
 
@@ -123,14 +123,14 @@ Also, a few people seem to have gone missing over the last couple of tendays. No
 ## The Attack
 
 > [!gallery]
-> ![Map 4: Backlot in Town](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/007-x847s-map-aid-from-phandalin_dm.webp#gallery)
-> ![Player Version](/3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/008-x847s-map-aid-from-phandalin_dm.webp#gallery)
+> ![Map 4: Backlot in Town](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/007-x847s-map-aid-from-phandalin_dm.webp#gallery)
+> ![Player Version](3-Mechanics/CLI/adventures/essentials-kit-storm-lords-wrath/img/008-x847s-map-aid-from-phandalin_dm.webp#gallery)
 
 When the characters are packing up to take the supplies back to Leilon at the end of their visit, the spies from both the Cult of Talos and the followers of Myrkul independently decide they are too big a threat to let live. (If the characters have already dealt with both spies, this encounter doesn't happen.)
 
-Use the Backlot Map to run this encounter. As the characters load the wagons, storm clouds descend and block the sun. Argus Skeel (male [vampire spawn](/3-Mechanics/CLI/bestiary/undead/vampire-spawn.md)) and two [ghouls](/3-Mechanics/CLI/bestiary/undead/ghoul.md), plus one ghoul per character, including sidekicks, approach. If it is daylight, Argus wears heavy clothes to protect himself.
+Use the Backlot Map to run this encounter. As the characters load the wagons, storm clouds descend and block the sun. Argus Skeel (male [vampire spawn](3-Mechanics/CLI/bestiary/undead/vampire-spawn-xmm.md)) and two [ghouls](3-Mechanics/CLI/bestiary/undead/ghoul-xmm.md), plus one ghoul per character, including sidekicks, approach. If it is daylight, Argus wears heavy clothes to protect himself.
 
-At the same time, Velleen Firecrow and two [kobold dragonshields](/3-Mechanics/CLI/bestiary/humanoid/kobold-dragonshield-vgm.md) (see appendix A), plus one dragonshield per character, including sidekicks, approach from the other direction. Velleen is a female Damaran [master thief](/3-Mechanics/CLI/bestiary/humanoid/master-thief-vgm.md)  (see appendix A).
+At the same time, Velleen Firecrow and two [kobold dragonshields](3-Mechanics/CLI/bestiary/dragon/kobold-dragonshield-mpmm.md) (see appendix A), plus one dragonshield per character, including sidekicks, approach from the other direction. Velleen is a female Damaran [master thief](3-Mechanics/CLI/bestiary/humanoid/master-thief-mpmm.md)  (see appendix A).
 
 As the combat begins, the two evil groups recognize each other, and also attack one another when appropriate. (See "Running a Three-sided Battle" sidebar for advice.)
 

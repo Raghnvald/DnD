@@ -11,10 +11,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Warhorse
+- "Warhorse"
 ---
-# [Warhorse](3-Mechanics\CLI\bestiary\beast/warhorse.md)
-*Source: Monster Manual p. 340, Explorer's Guide to Wildemount. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+# [Warhorse](3-Mechanics/CLI/bestiary/beast/warhorse.md)
+*Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
 ```statblock
 "name": "Warhorse"
@@ -39,8 +39,9 @@ aliases:
 "traits":
   - "desc": "If the horse moves at least 20 feet straight toward a creature and then\
       \ hits it with a hooves attack on the same turn, that target must succeed on\
-      \ a DC 14 Strength saving throw or be knocked prone. If the target is prone,\
-      \ the horse can make another attack with its hooves against it as a bonus action."
+      \ a DC 14 Strength saving throw or be knocked [prone](3-Mechanics/CLI/rules/conditions.md#Prone).\
+      \ If the target is [prone](3-Mechanics/CLI/rules/conditions.md#Prone), the horse\
+      \ can make another attack with its hooves against it as a bonus action."
     "name": "Trampling Charge"
 "actions":
   - "desc": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11\
@@ -48,8 +49,7 @@ aliases:
     "name": "Hooves"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/beast/token/warhorse.webp"
+"image": "3-Mechanics/CLI/bestiary/beast/token/warhorse.webp"
 ```
 ^statblock
 

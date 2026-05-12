@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/vrgr
 aliases:
-- Cosmic Horror Settings
+- "Cosmic Horror Settings"
 ---
 # Cosmic Horror Settings
 *Source: Van Richten's Guide to Ravenloft p. 49* 
 
 **Cosmic Horror Settings**
-
-`dice: [](cosmic-horror-settings-vrgr.md#^cosmic-horror-settings)`
 
 | dice: d8 | Setting |
 |----------|---------|

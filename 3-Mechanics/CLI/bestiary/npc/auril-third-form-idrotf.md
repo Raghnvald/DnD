@@ -3,16 +3,16 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-monster
 tags:
-- new/compendium/src/5e/idrotf
-- new/monster/cr/11
-- new/monster/size/small
-- new/monster/type/elemental
+- ttrpg-cli/compendium/src/5e/idrotf
+- ttrpg-cli/monster/cr/11
+- ttrpg-cli/monster/size/small
+- ttrpg-cli/monster/type/elemental
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Auril (Third Form)
+- "Auril (Third Form)"
 ---
-# [Auril (Third Form)](3-Mechanics\CLI\bestiary\npc/auril-third-form-idrotf.md)
+# [Auril (Third Form)](3-Mechanics/CLI/bestiary/npc/auril-third-form-idrotf.md)
 *Source: Icewind Dale: Rime of the Frostmaiden p. 278*  
 
 Auril's third form, called Winter's Womb or the Queen of Frozen Tears by her most ardent followers, is a 3-foot-diameter ice diamond containing the god's divine spark. The diamond has facets and a sharp point at the bottom. It hovers in the air, radiating intense cold all around it. When Auril speaks, her voice seems to emanate from the heart of the diamond.
@@ -45,7 +45,7 @@ Auril dwells on Solstice, a frozen island hidden among the titanic icebergs in t
 
 While she's on the island, the Frostmaiden can take one of the following lair actions on initiative count 20 (losing initiative ties):
 
-- Auril instantly knows the locations and health of all other creatures on the island. She knows how much damage each of these creatures has taken, how many levels of exhaustion they have, and what conditions are affecting them currently.  
+- Auril instantly knows the locations and health of all other creatures on the island. She knows how much damage each of these creatures has taken, how many levels of [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion) they have, and what conditions are affecting them currently.  
 - Auril instantly teleports to any location on the island. If the space she chooses as her destination is already occupied, Auril appears in the closest unoccupied space to it instead.  
 - Auril telepathically communicates with any number of creatures at once, provided they're all on the island. This effect lasts until Auril stops concentrating on it (as if concentrating on a spell) or until she leaves the island or uses a different lair action.  
 
@@ -79,25 +79,28 @@ A stat block is given for each of Auril's three forms. These descriptions do not
   - "constitution": !!int "9"
   - "wisdom": !!int "12"
 "skillsaves":
-  - "name": "Deception"
+  - "name": "[Deception](3-Mechanics/CLI/rules/skills.md#Deception)"
     "desc": "+13"
-  - "name": "Insight"
+  - "name": "[Insight](3-Mechanics/CLI/rules/skills.md#Insight)"
     "desc": "+12"
-  - "name": "Intimidation"
+  - "name": "[Intimidation](3-Mechanics/CLI/rules/skills.md#Intimidation)"
     "desc": "+13"
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+16"
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "cold, poison"
-"condition_immunities": "charmed, exhaustion, frightened, paralyzed, petrified, poisoned,\
-  \ prone, stunned"
-"senses": "blindsight 120 ft. (blind beyond this radius), truesight 120 ft., passive\
-  \ Perception 26"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](3-Mechanics/CLI/rules/conditions.md#Paralyzed),\
+  \ [petrified](3-Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned),\
+  \ [prone](3-Mechanics/CLI/rules/conditions.md#Prone), [stunned](3-Mechanics/CLI/rules/conditions.md#Stunned)"
+"senses": "[blindsight](3-Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (blind\
+  \ beyond this radius), [truesight](3-Mechanics/CLI/rules/senses.md#Truesight) 120\
+  \ ft., passive Perception 26"
 "languages": "all, telepathy 1,000 ft."
 "cr": "11"
 "traits":
-  - "desc": "Auril can't be surprised and can't be changed into another form against\
-      \ her will."
+  - "desc": "Auril can't be [surprised](3-Mechanics/CLI/rules/conditions.md#Surprised)\
+      \ and can't be changed into another form against her will."
     "name": "Divine Being"
   - "desc": "When Auril drops to 0 hit points, her crystalline form shatters and her\
       \ divine spark vanishes. She is dead until the next winter solstice, when she\
@@ -123,7 +126,9 @@ A stat block is given for each of Auril's three forms. These descriptions do not
       \ on herself. The area within the sphere is heavily obscured, and the sphere\
       \ moves with Auril. The effect lasts until Auril drops to 0 hit points in this\
       \ form, until she chooses to end the effect (no action required), or until her\
-      \ concentration is broken (as if concentrating on a spell)."
+      \ [concentration](3-Mechanics/CLI/rules/conditions.md#Concentration) is broken\
+      \ (as if [concentrating](3-Mechanics/CLI/rules/conditions.md#Concentration)\
+      \ on a spell)."
     "name": "Blizzard Veil"
 "legendary_description": "Legendary Action Uses: 3. Immediately after another creature's\
   \ turn, Auril can expend a use to take one of the following actions. Auril regains\
@@ -136,12 +141,13 @@ A stat block is given for each of Auril's three forms. These descriptions do not
     "name": "Intensify Aura (Costs 2 Actions)"
   - "desc": "Auril's form flares with a blue light. Each creature that can see Auril\
       \ and is within 10 feet of her must succeed on a DC 17 Wisdom saving throw or\
-      \ be blinded by Auril's magical gleam for 1 minute. The blinded creature can\
-      \ repeat the saving throw at the end of each of its turns, ending the effect\
-      \ on itself on a success."
+      \ be [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded) by Auril's magical\
+      \ gleam for 1 minute. The [blinded](3-Mechanics/CLI/rules/conditions.md#Blinded)\
+      \ creature can repeat the saving throw at the end of each of its turns, ending\
+      \ the effect on itself on a success."
     "name": "Blinding Gleam (Costs 2 Actions)"
 "source":
   - "IDRotF"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/auril-third-form-idrotf.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/auril-third-form-idrotf.webp"
 ```
 ^statblock

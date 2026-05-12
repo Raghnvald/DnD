@@ -10,10 +10,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Zastra
+- "Zastra"
 ---
-# [Zastra](3-Mechanics\CLI\bestiary\npc/zastra-veor.md)
-*Source: Vecna: Eve of Ruin*  
+# [Zastra](3-Mechanics/CLI/bestiary/npc/zastra-veor.md)
+*Source: Vecna: Eve of Ruin p. 60*  
 
 ```statblock
 "name": "Zastra (VEoR)"
@@ -22,7 +22,7 @@ aliases:
 "subtype": "gith"
 "alignment": "Lawful Neutral"
 "ac": !!int "18"
-"ac_class": "plate armor"
+"ac_class": "[plate armor](3-Mechanics/CLI/items/plate-armor-xphb.md)"
 "hp": !!int "91"
 "hit_dice": "14d8 + 28"
 "modifier": !!int "2"
@@ -44,21 +44,24 @@ aliases:
 "traits":
   - "desc": "Zastra's innate spellcasting ability is Intelligence (spell save DC 13,\
       \ +5 to hit with spell attacks). It can innately cast the following spells,\
-      \ requiring no components:\n\n**At will:** mage hand (the hand is invisible)\n\
-      \n**3/day each:** jump, misty step, nondetection (self only), tongues\n\n**1/day\
-      \ each:** plane shift, telekinesis"
+      \ requiring no components:\n\n**At will:** [mage hand](3-Mechanics/CLI/spells/mage-hand-xphb.md)\
+      \ (the hand is invisible)\n\n**3/day each:** [jump](3-Mechanics/CLI/spells/jump-xphb.md),\
+      \ [misty step](3-Mechanics/CLI/spells/misty-step-xphb.md), [nondetection](3-Mechanics/CLI/spells/nondetection-xphb.md)\
+      \ (self only), [tongues](3-Mechanics/CLI/spells/tongues-xphb.md)\n\n**1/day\
+      \ each:** [plane shift](3-Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](3-Mechanics/CLI/spells/telekinesis-xphb.md)"
     "name": "Innate Spellcasting (Psionics)"
 "actions":
   - "desc": "Zastra makes two silver greatsword attacks."
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13\
-      \ (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic weapon\
-      \ attack. On a critical hit against a target in an astral body (as with the\
-      \ astral projection spell), Zastra can cut the silvery cord that tethers the\
-      \ target to its material body, instead of dealing damage."
+      \ (2d6 + 6) slashing damage plus 10 (3d6) psychic damage. This is a magic\
+      \ weapon attack. On a critical hit against a target in an astral body (as with\
+      \ the [astral projection](3-Mechanics/CLI/spells/astral-projection-xphb.md)\
+      \ spell), Zastra can cut the silvery cord that tethers the target to its material\
+      \ body, instead of dealing damage."
     "name": "Silver Greatsword"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/npc/token/zastra-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/npc/token/zastra-veor.webp"
 ```
 ^statblock

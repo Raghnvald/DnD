@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Supplemental Tables; Childhood Memories
+- "Supplemental Tables; Childhood Memories"
 ---
 # Supplemental Tables; Childhood Memories
 *Source: Xanathar's Guide to Everything p. 63* 

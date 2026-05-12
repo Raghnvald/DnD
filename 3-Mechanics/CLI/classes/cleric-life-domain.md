@@ -7,7 +7,7 @@ tags:
 - ttrpg-cli/domain/life
 - ttrpg-cli/subclass/cleric/life
 aliases:
-- Life Domain
+- "Life Domain"
 ---
 # Life Domain
 *[Cleric](./cleric.md): Divine Domain*  
@@ -45,11 +45,11 @@ aliases:
 ^class-progression
 
 
-## Class Features
+The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, [Arawai](3-Mechanics/CLI/deities/eberron-arawai.md), and [Demeter](3-Mechanics/CLI/deities/greek-demeter.md)), sun gods (such as Lathander, [Pelor](3-Mechanics/CLI/deities/greyhawk-pelor.md), and [Re-Horakhty](3-Mechanics/CLI/deities/egyptian-re-horakhty.md)), gods of healing or endurance (such as Ilmater, [Mishakal](3-Mechanics/CLI/deities/dragonlance-mishakal-phb.md), [Apollo](3-Mechanics/CLI/deities/greek-apollo.md), and [Diancecht](3-Mechanics/CLI/deities/celtic-diancecht.md)), and gods of home and community (such as [Hestia](3-Mechanics/CLI/deities/greek-hestia.md), [Hathor](3-Mechanics/CLI/deities/egyptian-hathor.md), and [Boldrei](3-Mechanics/CLI/deities/eberron-boldrei.md)).
 
-### Life Domain (Level 1)
+## Subclass Features
 
-The Life domain focuses on the vibrant positive energy—one of the fundamental forces of the universe—that sustains all life. The gods of life promote vitality and health through healing the sick and wounded, caring for those in need, and driving away the forces of death and undeath. Almost any non-evil deity can claim influence over this domain, particularly agricultural deities (such as Chauntea, [Arawai](/3-Mechanics/CLI/deities/eberron-arawai.md), and [Demeter](/3-Mechanics/CLI/deities/greek-demeter.md)), sun gods (such as Lathander, [Pelor](/3-Mechanics/CLI/deities/greyhawk-pelor.md), and [Re-Horakhty](/3-Mechanics/CLI/deities/egyptian-re-horakhty.md)), gods of healing or endurance (such as Ilmater, [Mishakal](/3-Mechanics/CLI/deities/dragonlance-mishakal-phb.md), [Apollo](/3-Mechanics/CLI/deities/greek-apollo.md), and [Diancecht](/3-Mechanics/CLI/deities/celtic-diancecht.md)), and gods of home and community (such as [Hestia](/3-Mechanics/CLI/deities/greek-hestia.md), [Hathor](/3-Mechanics/CLI/deities/egyptian-hathor.md), and [Boldrei](/3-Mechanics/CLI/deities/eberron-boldrei.md)).
+### Domain Spells (Level 1)
 
 At each indicated cleric level, you add the listed spells to your spells prepared.
 
@@ -57,11 +57,11 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [bless](/3-Mechanics/CLI/spells/bless.md), [cure wounds](/3-Mechanics/CLI/spells/cure-wounds.md) |
-| 3rd | [lesser restoration](/3-Mechanics/CLI/spells/lesser-restoration.md), [spiritual weapon](/3-Mechanics/CLI/spells/spiritual-weapon.md) |
-| 5th | [beacon of hope](/3-Mechanics/CLI/spells/beacon-of-hope.md), [revivify](/3-Mechanics/CLI/spells/revivify.md) |
-| 7th | [death ward](/3-Mechanics/CLI/spells/death-ward.md), [guardian of faith](/3-Mechanics/CLI/spells/guardian-of-faith.md) |
-| 9th | [mass cure wounds](/3-Mechanics/CLI/spells/mass-cure-wounds.md), [raise dead](/3-Mechanics/CLI/spells/raise-dead.md) |
+| 1st | [bless](3-Mechanics/CLI/spells/bless.md), [cure wounds](3-Mechanics/CLI/spells/cure-wounds.md) |
+| 3rd | [lesser restoration](3-Mechanics/CLI/spells/lesser-restoration.md), [spiritual weapon](3-Mechanics/CLI/spells/spiritual-weapon.md) |
+| 5th | [beacon of hope](3-Mechanics/CLI/spells/beacon-of-hope.md), [revivify](3-Mechanics/CLI/spells/revivify.md) |
+| 7th | [death ward](3-Mechanics/CLI/spells/death-ward.md), [guardian of faith](3-Mechanics/CLI/spells/guardian-of-faith.md) |
+| 9th | [mass cure wounds](3-Mechanics/CLI/spells/mass-cure-wounds.md), [raise dead](3-Mechanics/CLI/spells/raise-dead.md) |
 ^life-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -84,15 +84,15 @@ Beginning at 6th level, the healing spells you cast on others heal you as well. 
 
 ### Divine Strike (Level 8)
 
-At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to the target. When you reach 14th level, the extra damage increases to `dice:2d8|noform|noparens|avg` (`2d8`).
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra `1d8` radiant damage to the target. When you reach 14th level, the extra damage increases to `2d8`.
 
 ### Blessed Strikes (Level 8)
 _Source: Tasha's Cauldron of Everything p. 30_
 
 *8th-level cleric <span title="Tasha's Cauldron of Everything">optional feature</span>, which replaces the Divine Strike feature*
 
-You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `dice:1d8|noform|noparens|avg` (`1d8`) radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
+You are blessed with divine might in battle. When a creature takes damage from one of your cantrips or weapon attacks, you can also deal `1d8` radiant damage to that creature. Once you deal this damage, you can't use this feature again until the start of your next turn.
 
 ### Supreme Healing (Level 17)
 
-Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring `dice:2d6|noform|noparens|avg` (`2d6`) hit points to a creature, you restore 12.
+Starting at 17th level, when you would normally roll one or more dice to restore hit points with a spell, you instead use the highest number possible for each die. For example, instead of restoring `2d6` hit points to a creature, you restore 12.

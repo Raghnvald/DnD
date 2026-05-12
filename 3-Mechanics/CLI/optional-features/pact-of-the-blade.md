@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/phb
 - ttrpg-cli/optional-feature/pb
 aliases:
-- Pact of the Blade
+- "Pact of the Blade"
 ---
 # Pact of the Blade
 *Source: Player's Handbook p. 107. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  

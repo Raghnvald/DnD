@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/xge
 aliases:
-- Research Complications
+- "Research Complications"
 ---
 # Research Complications
 *Source: Xanathar's Guide to Everything p. 132* 
 
 **Research Complications**
-
-`dice: [](research-complications-xge.md#^research-complications)`
 
 | dice: d6 | Complication |
 |----------|--------------|

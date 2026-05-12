@@ -16,10 +16,10 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Cyclops
+- "Cyclops"
 ---
-# [Cyclops](3-Mechanics\CLI\bestiary\giant/cyclops.md)
-*Source: Monster Manual p. 45, Explorer's Guide to Wildemount. Available in the Basic Rules (2014)*  
+# [Cyclops](3-Mechanics/CLI/bestiary/giant/cyclops.md)
+*Source: Monster Manual p. 45. Available in the Basic Rules (2014)*  
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
@@ -55,6 +55,8 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
   - !!int "6"
   - !!int "10"
 "speed": "30 ft."
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
 "senses": "passive Perception 8"
 "languages": "Giant"
 "cr": "6"
@@ -65,16 +67,15 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 "actions":
   - "desc": "The cyclops makes two greatclub attacks."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "*Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:*\
       \ 28 (4d10 + 6) bludgeoning damage."
     "name": "Rock"
 "source":
   - "MM"
-  - "EGW"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/cyclops.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/cyclops.webp"
 ```
 ^statblock
 

@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/tce
 aliases:
-- Group Patrons
+- "Group Patrons"
 ---
 # Group Patrons
 *Source: Tasha's Cauldron of Everything, p. 83* 
@@ -14,7 +14,7 @@ Each adventuring group is bound together by the quests it embarks on and by the 
 
 During character creation, every player has the opportunity to weave connections between their character and the other members of their party. Rather than (or in addition to) creating a web of established relationships, players can work with the DM to choose a group patron. And if you're interested in being your own patron, see the "Being Your Own Patron" section at the end of the chapter.
 
-![A group of wizards pledges...](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/059-02-001.webp#center "A group of wizards pledges themselves to their patron, Tasha, the Witch Queen")
+![A group of wizards pledges themselves to their patron, Tasha, the Witch Queen](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/059-02-001.webp#center)
 
 ## How Patrons Work
 
@@ -24,7 +24,7 @@ With the input of your DM, you can customize these patrons to reflect specific e
 
 ### Group Assistance
 
-Having a group patron gives an adventuring group a common purpose, which inspires better coordination in the form of guidance and encouragement. As a result of this unity, each member of the party can grant advantage to an ability check, an attack roll, or a saving throw of another member of the party. To grant advantage in this way, a character and the chosen target must be able to see or hear each other, and neither can be [incapacitated](/3-Mechanics/CLI/conditions.md#Incapacitated). Once a party member grants this advantage, that individual can't do so again until they finish a long rest.
+Having a group patron gives an adventuring group a common purpose, which inspires better coordination in the form of guidance and encouragement. As a result of this unity, each member of the party can grant advantage to an ability check, an attack roll, or a saving throw of another member of the party. To grant advantage in this way, a character and the chosen target must be able to see or hear each other, and neither can be [incapacitated](3-Mechanics/CLI/rules/conditions.md#Incapacitated). Once a party member grants this advantage, that individual can't do so again until they finish a long rest.
 
 ### Perks
 
@@ -65,9 +65,9 @@ Any assemblage of scholars and truth-seekers can function as an academy. General
 
 Roll or pick from the Academy Type table to determine the institution with which you're aligned.
 
-![Academy Type](/3-Mechanics/CLI/tables/academy-type-tce.md)
+![Academy Type](3-Mechanics/CLI/tables/academy-type-tce.md)
 
-![Wizardly boyfriends relax ...](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/060-02-002.webp#center "Wizardly boyfriends relax while their classmates practice magic at an arcane enclave")
+![Wizardly boyfriends relax while their classmates practice magic at an arcane enclave](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/060-02-002.webp#center)
 
 #### Academy Perks
 
@@ -91,7 +91,7 @@ Academies host libraries, museums, record repositories, and training facilities,
 
 ##### Training
 
-Because you're associated with the academy, you receive a discount on any education you wish to pursue. When you undergo training as a downtime activity (as described in the "Player's Handbook" or "Xanathar's Guide to Everything"), you pay half the normal cost, assuming the academy teaches that subject. Training in languages, musical instruments, and other tools is also available, at the DM's discretion. In addition, you can gain proficiency in the [Arcana](/3-Mechanics/CLI/skills.md#Arcana), [History](/3-Mechanics/CLI/skills.md#History), [Nature](/3-Mechanics/CLI/skills.md#Nature), or [Religion](/3-Mechanics/CLI/skills.md#Religion) skills by this method, as if you were learning a language. A character can learn only one of these skills in this way.
+Because you're associated with the academy, you receive a discount on any education you wish to pursue. When you undergo training as a downtime activity (as described in the "Player's Handbook" or "Xanathar's Guide to Everything"), you pay half the normal cost, assuming the academy teaches that subject. Training in languages, musical instruments, and other tools is also available, at the DM's discretion. In addition, you can gain proficiency in the [Arcana](3-Mechanics/CLI/rules/skills.md#Arcana), [History](3-Mechanics/CLI/rules/skills.md#History), [Nature](3-Mechanics/CLI/rules/skills.md#Nature), or [Religion](3-Mechanics/CLI/rules/skills.md#Religion) skills by this method, as if you were learning a language. A character can learn only one of these skills in this way.
 
 #### Academy Contact
 
@@ -99,7 +99,7 @@ How much autonomy you have in choosing your missions and how often you're expect
 
 Roll or pick from the Academy Contact table to determine who manages the relationship between you and the academy.
 
-![Academy Contact](/3-Mechanics/CLI/tables/academy-contact-tce.md)
+![Academy Contact](3-Mechanics/CLI/tables/academy-contact-tce.md)
 
 #### Academy Factotums
 
@@ -107,7 +107,7 @@ If you have an academy as your patron, you are likely engaged in a scholarly pur
 
 The Academy Factotum Roles table provides suggestions for functions you perform within an academy and the backgrounds frequently associated with each role.
 
-![Academy Factotum Roles](/3-Mechanics/CLI/tables/academy-factotum-roles-tce.md)
+![Academy Factotum Roles](3-Mechanics/CLI/tables/academy-factotum-roles-tce.md)
 
 #### Academy Quests
 
@@ -115,7 +115,7 @@ The focus of your study and the academy's research defines the missions you unde
 
 The Academy Quests table presents a few of the sort of endeavors your work or studies lead you to undertake.
 
-![Academy Quests](/3-Mechanics/CLI/tables/academy-quests-tce.md)
+![Academy Quests](3-Mechanics/CLI/tables/academy-quests-tce.md)
 
 ### Ancient Being
 
@@ -131,17 +131,17 @@ From brooding dragons to unfathomable voices whispering from the dark, ancient b
 
 Roll or pick from the Ancient Being table to determine the being your group serves.
 
-![Ancient Being](/3-Mechanics/CLI/tables/ancient-being-tce.md)
+![Ancient Being](3-Mechanics/CLI/tables/ancient-being-tce.md)
 
 #### Ancient Being Perks
 
 With the ancient being as your group's patron, you gain the following perks.
 
-![Azalin, the lich, spies on Castle Ravenloft](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/061-02-003.webp#center)
+![Azalin, the lich, spies on Castle Ravenloft](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/061-02-003.webp#center)
 
 ##### Equipment
 
-Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([Investigation](/3-Mechanics/CLI/skills.md#Investigation)) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `dice:1d8|noform|noparens|avg` (`1d8`) days must pass before the same item can be searched for again in that community.
+Your patron's network has access to certain magic items. You can purchase common magic items from your patron contact. The DM determines the available stock or can call for a group Intelligence ([Investigation](3-Mechanics/CLI/rules/skills.md#Investigation)) check to ascertain if the ancient being's network can successfully locate a desired item. The DC for this check is 10 in a city, 15 in a town, and 20 in a village. If the check fails, `1d8` days must pass before the same item can be searched for again in that community.
 
 The DM sets the price of a common magic item or determines it randomly: `2d4 × 10` gp, or half as much for a consumable item such as a potion or scroll.
 
@@ -161,7 +161,7 @@ Your patron grants your group a small measure of esoteric power. At 5th level, a
 
 The organizational contact who dispenses assignments or delivers the word of your patron runs the gamut from prosaic to otherworldly. Roll or pick from the Ancient Being Contact table to determine who or what conveys your patron's will.
 
-![Ancient Being Contact](/3-Mechanics/CLI/tables/ancient-being-contact-tce.md)
+![Ancient Being Contact](3-Mechanics/CLI/tables/ancient-being-contact-tce.md)
 
 #### Ancient Being Operatives
 
@@ -169,7 +169,7 @@ Consider the overarching goals of your group's ancient being patron when determi
 
 The Ancient Being Operative Roles table suggests a variety of parts you can play within an ancient being's schemes and the backgrounds frequently associated with each role.
 
-![Ancient Being Operative Roles](/3-Mechanics/CLI/tables/ancient-being-operative-roles-tce.md)
+![Ancient Being Operative Roles](3-Mechanics/CLI/tables/ancient-being-operative-roles-tce.md)
 
 #### Ancient Being Quests
 
@@ -177,7 +177,7 @@ Though their work remains mysterious, ancient beings send their agents to exact 
 
 The Ancient Being Quests table presents a few options for the sorts of work your patron expects from you.
 
-![Ancient Being Quests](/3-Mechanics/CLI/tables/ancient-being-quests-tce.md)
+![Ancient Being Quests](3-Mechanics/CLI/tables/ancient-being-quests-tce.md)
 
 ### Aristocrat
 
@@ -193,13 +193,13 @@ From the heads of scheming merchant families to immortal sorcerer-queens, each m
 
 Roll or pick from the Aristocrat Types table to determine what kind of noble you serve.
 
-![Aristocrat Types](/3-Mechanics/CLI/tables/aristocrat-types-tce.md)
+![Aristocrat Types](3-Mechanics/CLI/tables/aristocrat-types-tce.md)
 
 #### Aristocrat Perks
 
 With an aristocrat as your group's patron, you gain the following perks.
 
-![A Wood Elf Aristocrat](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/062-02-004.webp#center)
+![A Wood Elf Aristocrat](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/062-02-004.webp#center)
 
 ##### Expenses
 
@@ -223,7 +223,7 @@ Aside from a few exceptions, aristocrats prefer to have someone else handle comm
 
 Roll or pick from the Aristocrat Contact table to determine who serves as your patron's proxy.
 
-![Aristocrat Contact](/3-Mechanics/CLI/tables/aristocrat-contact-tce.md)
+![Aristocrat Contact](3-Mechanics/CLI/tables/aristocrat-contact-tce.md)
 
 #### Aristocrat Retainers
 
@@ -231,7 +231,7 @@ Aristocrats seek agents to pursue business, political, criminal, or personal age
 
 The Aristocrat Retainer Roles table suggests a variety of parts you might play in an aristocrat's agenda and the backgrounds frequently associated with each role.
 
-![Aristocrat Retainer Roles](/3-Mechanics/CLI/tables/aristocrat-retainer-roles-tce.md)
+![Aristocrat Retainer Roles](3-Mechanics/CLI/tables/aristocrat-retainer-roles-tce.md)
 
 #### Aristocrat Quests
 
@@ -239,7 +239,7 @@ A missive from your patron proffers a different kind of mission each time. For o
 
 The Aristocrat Quests table presents the sorts of work you might conduct at your highborn patron's request.
 
-![Aristocrat Quests](/3-Mechanics/CLI/tables/aristocrat-quests-tce.md)
+![Aristocrat Quests](3-Mechanics/CLI/tables/aristocrat-quests-tce.md)
 
 ### Criminal Syndicate
 
@@ -257,7 +257,7 @@ Conversely, the syndicate could be an underground organization of good-hearted p
 
 Roll or pick from the Syndicate Types table to determine what type of criminal organization you serve.
 
-![Types of Criminal Syndicates; Syndicate Types](/3-Mechanics/CLI/tables/types-of-criminal-syndicates-syndicate-types-tce.md)
+![Types of Criminal Syndicates; Syndicate Types](3-Mechanics/CLI/tables/types-of-criminal-syndicates-syndicate-types-tce.md)
 
 #### Criminal Syndicate Perks
 
@@ -289,9 +289,9 @@ Each member of the syndicate has a place in the organization. You report to a co
 
 Roll or pick from the Syndicate Contact table to determine your contact within a criminal organization.
 
-![Criminal Syndicate Contact; Syndicate Contact](/3-Mechanics/CLI/tables/criminal-syndicate-contact-syndicate-contact-tce.md)
+![Criminal Syndicate Contact; Syndicate Contact](3-Mechanics/CLI/tables/criminal-syndicate-contact-syndicate-contact-tce.md)
 
-![Ott Steeltoes holds aloft ...](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/063-02-005.webp#center "Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar")
+![Ott Steeltoes holds aloft Sylgar, the infamous fish of the crime lord Xanathar](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/063-02-005.webp#center)
 
 #### Criminal Syndicate Members
 
@@ -299,7 +299,7 @@ Whether you're a lifelong scoundrel or an ambitious upstart, you seek to gain we
 
 The Criminal Syndicate Member Roles suggests positions you might fill in the organization and the backgrounds frequently associated with each role.
 
-![Criminal Syndicate Member Roles](/3-Mechanics/CLI/tables/criminal-syndicate-member-roles-tce.md)
+![Criminal Syndicate Member Roles](3-Mechanics/CLI/tables/criminal-syndicate-member-roles-tce.md)
 
 #### Criminal Syndicate Quests
 
@@ -307,7 +307,7 @@ Your work as a syndicate member involves more than simple street swindles or pic
 
 The Criminal Syndicate Quests table explores what kind of work you do for the organization.
 
-![Criminal Syndicate Quests](/3-Mechanics/CLI/tables/criminal-syndicate-quests-tce.md)
+![Criminal Syndicate Quests](3-Mechanics/CLI/tables/criminal-syndicate-quests-tce.md)
 
 ### Guild
 
@@ -323,9 +323,9 @@ The guild structure covers a swath of business ventures, differentiated by their
 
 Roll or pick from the Guild Types table to determine the general sort of organization you operate within.
 
-![Guild Types](/3-Mechanics/CLI/tables/guild-types-tce.md)
+![Guild Types](3-Mechanics/CLI/tables/guild-types-tce.md)
 
-![A hero fights the bullywug...](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/064-02-006.webp#center "A hero fights the bullywug who guards the villainous master of the bakers' guild")
+![A hero fights the bullywug who guards the villainous master of the bakers' guild](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/064-02-006.webp#center)
 
 #### Guild Perks
 
@@ -353,7 +353,7 @@ Even as a member in good standing of the guild, you can't simply stroll up to th
 
 Roll or pick from the Guild Contact table to determine your immediate contact within the guild.
 
-![Guild Contact](/3-Mechanics/CLI/tables/guild-contact-tce.md)
+![Guild Contact](3-Mechanics/CLI/tables/guild-contact-tce.md)
 
 #### Guild Representatives
 
@@ -361,7 +361,7 @@ As a guild member, you might be a professional who works directly toward the gui
 
 The Guild Representative Roles table suggests positions you might fill in a guild and the backgrounds frequently associated with each role.
 
-![Guild Representative Roles](/3-Mechanics/CLI/tables/guild-representative-roles-tce.md)
+![Guild Representative Roles](3-Mechanics/CLI/tables/guild-representative-roles-tce.md)
 
 #### Guild Quests
 
@@ -369,7 +369,7 @@ As a member of the guild, you're called on to ply your skills in the organizatio
 
 The Guild Quests table presents a few options for the sorts of work the guild requires of you.
 
-![Guild Quests](/3-Mechanics/CLI/tables/guild-quests-tce.md)
+![Guild Quests](3-Mechanics/CLI/tables/guild-quests-tce.md)
 
 ### Military Force
 
@@ -385,13 +385,13 @@ Military forces represent a variety of organized bands of warriors. They can be 
 
 Roll or pick from the Military Force Types table to determine the general type of military patron you serve.
 
-![Military Force Types](/3-Mechanics/CLI/tables/military-force-types-tce.md)
+![Military Force Types](3-Mechanics/CLI/tables/military-force-types-tce.md)
 
 #### Military Force Perks
 
 With a military force as your group's patron, you gain the following perks.
 
-![A Dragonborn Messenger of ...](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/065-02-007.webp#center "A Dragonborn Messenger of the Purple Dragon Knights")
+![A Dragonborn Messenger of the Purple Dragon Knights](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/065-02-007.webp#center)
 
 ##### Armory
 
@@ -419,7 +419,7 @@ Your primary contact within your hierarchy is your superior officer, the person 
 
 Roll or pick from the Military Force Contact table to determine who assigns you missions.
 
-![Military Force Contact; Commanding Officer](/3-Mechanics/CLI/tables/military-force-contact-commanding-officer-tce.md)
+![Military Force Contact; Commanding Officer](3-Mechanics/CLI/tables/military-force-contact-commanding-officer-tce.md)
 
 #### Military Force Envoys
 
@@ -427,7 +427,7 @@ You might join a military force for a wide range of reasons, or the military has
 
 The Military Force Envoy Roles table suggests a variety of military roles you could fill and the backgrounds frequently associated with each role.
 
-![Military Force Envoy Roles](/3-Mechanics/CLI/tables/military-force-envoy-roles-tce.md)
+![Military Force Envoy Roles](3-Mechanics/CLI/tables/military-force-envoy-roles-tce.md)
 
 #### Military Quests
 
@@ -435,7 +435,7 @@ The wide-ranging work of a military unit calls for both power and subtlety. Your
 
 The Military Quests table provides possible missions you're tasked to accomplish.
 
-![Military Quests](/3-Mechanics/CLI/tables/military-quests-tce.md)
+![Military Quests](3-Mechanics/CLI/tables/military-quests-tce.md)
 
 ### Religious Order
 
@@ -451,9 +451,9 @@ Not every religious order represents an alliance of worshipers devoted to godly 
 
 Roll or pick from the Religious Order Types table to determine the type of religious patron you serve.
 
-![Religious Order Types](/3-Mechanics/CLI/tables/religious-order-types-tce.md)
+![Religious Order Types](3-Mechanics/CLI/tables/religious-order-types-tce.md)
 
-![Acolytes prepare for a couatl festival](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/066-02-008.webp#center)
+![Acolytes prepare for a couatl festival](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/066-02-008.webp#center)
 
 #### Religious Order Perks
 
@@ -469,7 +469,7 @@ Each member of your party has a holy symbol or druidic focus, even if it isn't n
 
 ##### Proficiencies
 
-Each member of your party gains proficiency in the [Religion](/3-Mechanics/CLI/skills.md#Religion) skill, if the character doesn't already have it.
+Each member of your party gains proficiency in the [Religion](3-Mechanics/CLI/rules/skills.md#Religion) skill, if the character doesn't already have it.
 
 #### Religious Order Contact
 
@@ -477,7 +477,7 @@ Your established order enjoys a robust following. It might be a cloister of prie
 
 Roll or pick from the Religious Order Contact table to determine who relays messages to and from your order's deity.
 
-![Religious Order Contact](/3-Mechanics/CLI/tables/religious-order-contact-tce.md)
+![Religious Order Contact](3-Mechanics/CLI/tables/religious-order-contact-tce.md)
 
 #### Religious Order Member
 
@@ -485,7 +485,7 @@ Your primary duty to a religious order is to further your god's reach. That obli
 
 The Religious Order Member Roles table suggests positions you might fill in an order and the backgrounds frequently associated with each role.
 
-![Religious Order Member Roles](/3-Mechanics/CLI/tables/religious-order-member-roles-tce.md)
+![Religious Order Member Roles](3-Mechanics/CLI/tables/religious-order-member-roles-tce.md)
 
 #### Religious Order Quests
 
@@ -493,7 +493,7 @@ The services you provide your religious order vary depending on the deity you se
 
 The Religious Order Quests table presents a few examples of how you can honor and serve your deity.
 
-![Religious Order Quests](/3-Mechanics/CLI/tables/religious-order-quests-tce.md)
+![Religious Order Quests](3-Mechanics/CLI/tables/religious-order-quests-tce.md)
 
 ### Sovereign
 
@@ -511,11 +511,11 @@ Broadly defined, a sovereign ranges from the head of a government to the leader 
 
 Roll or pick from the Sovereign Types table to determine what sort of liege you serve.
 
-![Sovereign Types](/3-Mechanics/CLI/tables/sovereign-types-tce.md)
+![Sovereign Types](3-Mechanics/CLI/tables/sovereign-types-tce.md)
 
 #### Sovereign Perks
 
-![A Merfolk Sovereign](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/067-02-009.webp#center)
+![A Merfolk Sovereign](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/067-02-009.webp#center)
 
 With the sovereign as your group's patron, you gain the following perks.
 
@@ -541,7 +541,7 @@ You might benefit from direct contact with your group patron. This includes audi
 
 Roll or pick from the Sovereign Contact table to determine who manages the relationship between you and the throne, if not the sovereign directly.
 
-![Sovereign Contact](/3-Mechanics/CLI/tables/sovereign-contact-tce.md)
+![Sovereign Contact](3-Mechanics/CLI/tables/sovereign-contact-tce.md)
 
 #### Sovereign Proxies
 
@@ -549,7 +549,7 @@ You serve a sovereign out of national pride, out of tradition, or for your own p
 
 The Sovereign Proxy Roles table suggests ways you might serve a sovereign and the backgrounds frequently associated with each role.
 
-![Sovereign Proxy Roles](/3-Mechanics/CLI/tables/sovereign-proxy-roles-tce.md)
+![Sovereign Proxy Roles](3-Mechanics/CLI/tables/sovereign-proxy-roles-tce.md)
 
 #### Sovereign Quests
 
@@ -557,16 +557,16 @@ The services you provide a sovereign largely depend on the nature of your group 
 
 The Sovereign Quests table presents a few of the sorts of missions you undertake for your liege.
 
-![Sovereign Quests](/3-Mechanics/CLI/tables/sovereign-quests-tce.md)
+![Sovereign Quests](3-Mechanics/CLI/tables/sovereign-quests-tce.md)
 
 ## Being Your Own Patron
 
-![In the city of Sigil, Guil...](/3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/068-02-010.webp#center "In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron")
+![In the city of Sigil, Guildmaster Rhys realizes that finding capable recruits is one of the main challenges of being a patron](3-Mechanics/CLI/books/tashas-cauldron-of-everything/img/068-02-010.webp#center)
 
 For some players, the idea of running a crime syndicate, mercenary company, arcane scholars' collective, or other organization is far more exciting than working for someone else. Founding your own organization offers a greater degree of autonomy, though potentially at the cost of support and reliable work.
 
 When you're the boss, the perks of belonging to an organization become expenses you have to worry about; when you run your own mercenary company, for example, you need to stock your own armory, rather than drawing on an existing organization's stockpile. The organization brings in income, but you'll have to spend it to keep the organization running.
 
-When you run your own organization, use the [Running a Business](D&D/Regelvarianten/downtime-activity-running-a-business.md) downtime activity (described in the "Dungeon Master's Guide") to reflect your organization's ongoing activities. More than one character can take part in this activity at a time. When rolling to determine the business's performance, add the total days spent by the characters to the roll to determine the business's success (still observing the maximum of 30). If the business earns a profit, multiply that profit by 4 + the number of characters who took part in this downtime activity.
+When you run your own organization, use the <span title="Dungeon Master's Guide">Running a Business</span> downtime activity (described in the "Dungeon Master's Guide") to reflect your organization's ongoing activities. More than one character can take part in this activity at a time. When rolling to determine the business's performance, add the total days spent by the characters to the roll to determine the business's success (still observing the maximum of 30). If the business earns a profit, multiply that profit by 4 + the number of characters who took part in this downtime activity.
 
 Don't discount the value of adopting an NPC to serve as your contact within your own organization. A secretary, majordomo, or apprentice keeps up with your group's bureaucracy while you're conducting missions and passes along information that could lead to your next adventure!

@@ -5,14 +5,12 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/mtf
 aliases:
-- Duergar in the World; Duergar Quirks
+- "Duergar in the World; Duergar Quirks"
 ---
 # Duergar in the World; Duergar Quirks
 *Source: Mordenkainen's Tome of Foes p. 84* 
 
 **Duergar Quirks**
-
-`dice: [](duergar-in-the-world-duergar-quirks-mtf.md#^duergar-quirks)`
 
 | dice: d6 | Quirk |
 |----------|-------|

@@ -6,7 +6,7 @@ tags:
 - ttrpg-cli/compendium/src/5e/ggr
 - ttrpg-cli/item/gear/treasure-coinage
 - ttrpg-cli/item/rarity/none
-aliases: 
+aliases:
 - "Gold 5-Zino Coin"
 ---
 # Gold 5-Zino Coin

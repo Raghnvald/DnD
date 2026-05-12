@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
 aliases:
-- Underwater Encounter Distance
+- "Underwater Encounter Distance"
 ---
 # Underwater Encounter Distance
 *Source: Dungeon Master's Guide p. 117* 

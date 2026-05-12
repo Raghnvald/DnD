@@ -11,9 +11,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Fomorian
+- "Fomorian"
 ---
-# [Fomorian](3-Mechanics\CLI\bestiary\giant/fomorian.md)
+# [Fomorian](3-Mechanics/CLI/bestiary/giant/fomorian.md)
 *Source: Monster Manual p. 136*  
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -55,20 +55,22 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
   - !!int "6"
 "speed": "30 ft."
 "skillsaves":
-  - "name": "[Perception](/3-Mechanics/CLI/skills.md#Perception)"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+8"
-  - "name": "[Stealth](/3-Mechanics/CLI/skills.md#Stealth)"
+  - "name": "[Stealth](3-Mechanics/CLI/rules/skills.md#Stealth)"
     "desc": "+3"
-"senses": "[darkvision](/3-Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception\
-  \ 18"
+"gear":
+  - "[greatclub](3-Mechanics/CLI/items/greatclub.md)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 18"
 "languages": "Giant, Undercommon"
 "cr": "8"
 "actions":
   - "desc": "The fomorian attacks twice with its greatclub or makes one greatclub\
       \ attack and uses Evil Eye once."
     "name": "Multiattack"
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19\
-      \ (3d8 + 6) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:*\
+      \ 19 (3d8 + 6) bludgeoning damage."
     "name": "Greatclub"
   - "desc": "The fomorian magically forces a creature it can see within 60 feet of\
       \ it to make a DC 14 Charisma saving throw. The creature takes 27 (6d8) psychic\
@@ -83,7 +85,7 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
     "name": "Curse of the Evil Eye (Recharges after a Short or Long Rest)"
 "source":
   - "MM"
-"image": "/3-Mechanics/CLI/bestiary/giant/token/fomorian.webp"
+"image": "3-Mechanics/CLI/bestiary/giant/token/fomorian.webp"
 ```
 ^statblock
 

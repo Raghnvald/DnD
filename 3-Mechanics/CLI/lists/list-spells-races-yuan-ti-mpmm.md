@@ -3,20 +3,20 @@ obsidianUIMode: preview
 cssclasses:
 - json5e-note
 tags:
-- Zauber/list/race/yuan-ti
+- ttrpg-cli/spell/list/race/yuan-ti
 aliases:
-- Spells for Yuan-Ti
+- "Spells for Yuan-Ti"
 ---
 # Spells for Yuan-Ti
 
 ## Cantrip
 
-- [Poison Spray](/3-Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") 
+- [Poison Spray](3-Mechanics/CLI/spells/poison-spray.md "PHB") as cantrip
 
 ## 1st Level
 
-- [Animal Friendship](/3-Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") 
+- [Animal Friendship](3-Mechanics/CLI/spells/animal-friendship.md "PHB")
 
 ## 2nd Level
 
-- [Suggestion](/3-Mechanics/CLI/spells/suggestion-xphb.md "XPHB")
+- [Suggestion](3-Mechanics/CLI/spells/suggestion.md "PHB") at class level 3

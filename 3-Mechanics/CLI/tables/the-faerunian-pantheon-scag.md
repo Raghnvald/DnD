@@ -5,7 +5,7 @@ cssclasses:
 tags:
 - ttrpg-cli/compendium/src/5e/scag
 aliases:
-- The Faerûnian Pantheon
+- "The Faerûnian Pantheon"
 ---
 # The Faerûnian Pantheon
 *Source: Sword Coast Adventurer's Guide p. 21* 

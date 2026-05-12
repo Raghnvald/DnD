@@ -10,9 +10,9 @@ tags:
 statblock: inline
 statblock-link: "#^statblock"
 aliases:
-- Vlazok
+- "Vlazok"
 ---
-# [Vlazok](3-Mechanics\CLI\bestiary\fiend/vlazok-veor.md)
+# [Vlazok](3-Mechanics/CLI/bestiary/fiend/vlazok-veor.md)
 *Source: Vecna: Eve of Ruin p. 238*  
 
 Skeletal, quadrupedal horrors, vlazoks are particularly suited to battlefield cleanup in the Outer Planes. They love to stomp across battlefields after the fiercest fighting is over, trampling survivors and crushing pockets of resistance. When vlazoks anticipate an influx of enemies, these demons jump on them from above to crush them.
@@ -42,12 +42,14 @@ Vlazoks have keen senses, owing to the eyes positioned all around their hideous 
   - "strength": !!int "9"
   - "constitution": !!int "7"
 "skillsaves":
-  - "name": "Perception"
+  - "name": "[Perception](3-Mechanics/CLI/rules/skills.md#Perception)"
     "desc": "+3"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "charmed, exhaustion, frightened, poisoned"
-"senses": "darkvision 120 ft., passive Perception 13"
+"condition_immunities": "[charmed](3-Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](3-Mechanics/CLI/rules/conditions.md#Exhaustion),\
+  \ [frightened](3-Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](3-Mechanics/CLI/rules/conditions.md#Poisoned)"
+"senses": "[darkvision](3-Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive\
+  \ Perception 13"
 "languages": "Abyssal, telepathy 120 ft."
 "cr": "11"
 "traits":
@@ -67,14 +69,14 @@ Vlazoks have keen senses, owing to the eyes positioned all around their hideous 
     "name": "Multiattack"
   - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 23\
       \ (4d8 + 5) piercing damage, and if the target is a Large or smaller creature,\
-      \ it has the prone condition."
+      \ it has the [prone](3-Mechanics/CLI/rules/conditions.md#Prone) condition."
     "name": "Gore"
 "bonus_actions":
-  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one prone creature. *Hit:*\
-      \ 27 (4d10 + 5) bludgeoning damage."
+  - "desc": "*Melee Weapon Attack:* +9 to hit, reach 5 ft., one [prone](3-Mechanics/CLI/rules/conditions.md#Prone)\
+      \ creature. *Hit:* 27 (4d10 + 5) bludgeoning damage."
     "name": "Stomp"
 "source":
   - "VEoR"
-"image": "/3-Mechanics/CLI/bestiary/fiend/token/vlazok-veor.webp"
+"image": "3-Mechanics/CLI/bestiary/fiend/token/vlazok-veor.webp"
 ```
 ^statblock
